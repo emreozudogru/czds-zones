@@ -1,0 +1,36 @@
+travelers.	3600	in	soa	a0.nic.travelers. hostmaster.donuts.email. 1756257845 7200 900 1209600 3600
+a0.nic.travelers.	3600	in	a	65.22.200.9
+a0.nic.travelers.	3600	in	aaaa	2a01:8840:00c2:0000:0000:0000:0000:0009
+a2.nic.travelers.	3600	in	a	65.22.203.9
+a2.nic.travelers.	3600	in	aaaa	2a01:8840:00c5:0000:0000:0000:0000:0009
+b0.nic.travelers.	3600	in	a	65.22.201.9
+b0.nic.travelers.	3600	in	aaaa	2a01:8840:00c3:0000:0000:0000:0000:0009
+c0.nic.travelers.	3600	in	a	65.22.202.9
+c0.nic.travelers.	3600	in	aaaa	2a01:8840:00c4:0000:0000:0000:0000:0009
+home.travelers.	3600	in	ns	dns1.cscdns.net.
+home.travelers.	3600	in	ns	dns2.cscdns.net.
+my.travelers.	3600	in	ns	dns1.cscdns.net.
+my.travelers.	3600	in	ns	dns2.cscdns.net.
+nic.travelers.	3600	in	ds	38748 8 2 986BA523A366D9CA35DCFDABA6BA9274F4DB1F84218608BF4D48697935EBD559
+nic.travelers.	3600	in	ns	a0.nic.travelers.
+nic.travelers.	3600	in	ns	a2.nic.travelers.
+nic.travelers.	3600	in	ns	b0.nic.travelers.
+nic.travelers.	3600	in	ns	c0.nic.travelers.
+nic.travelers.	3600	in	rrsig	DS 8 2 3600 20250916160657 20250826150657 36333 travelers. KnrCgZ8K4fgcO96RMVpSs5Mgo5e7t818H8wEjRuAu5Z8tJ+sARGfTLFJXzBBFHJXNnyWMGctCoKb5coruY4+rnuAajKOvvgN1W4/+hgi5UXEJrPoRFlXgJKPdQPucNy2cdLaciGXU2hudarcDE59dUi3ArBnrrvmeAOhTaGrAcE=
+p6oka6qcj7j86g6knuj9d72ni38uehh2.travelers.	3600	in	nsec3	1 1 0 73 ST7DGUD2G2U348VSIO5F69QRPDLEML9H NS DS RRSIG
+p6oka6qcj7j86g6knuj9d72ni38uehh2.travelers.	3600	in	rrsig	NSEC3 8 2 3600 20250916160657 20250826150657 36333 travelers. Wo7Ky7UAYXRt/DW7zpw/SjwBQXq/36xckket98Z5xyLJaxHRZDj9fiCogF9UiXJ9RyGH+GEWemyWrnI1DaRL6zkraj8UT1z3gl2k5tzMVQ6UBi81DtgS0RmjwJIZlAh7DgGID831hFHy0KpTlaNlj9zJa6EXhLUWxYuu0E2uiXc=
+st7dgud2g2u348vsio5f69qrpdleml9h.travelers.	3600	in	nsec3	1 1 0 73 P6OKA6QCJ7J86G6KNUJ9D72NI38UEHH2 NS SOA RRSIG DNSKEY NSEC3PARAM
+st7dgud2g2u348vsio5f69qrpdleml9h.travelers.	3600	in	rrsig	NSEC3 8 2 3600 20250917012723 20250827002723 36333 travelers. krhVbYbZ0osg3N6sTbjWl16DeOt49DPDEllwQgnwOZo6lXRaCyuWb88uomxC5VGH02zEydrYpcNjjTY9JEWcr60jPEpxzqc5tWrbgF3gtFZvaVncuJEbIbHliEPPh2mEi7i0uu6DSHK2hAv57M4+KCJvtEns+QDkkbTWOTSuUFc=
+travelers.	3600	in	dnskey	256 3 8 AwEAAasndq/fvgLYqyeLVpu+O7W1z1esBjIBtoeDnQTl0sCOP/x9R99T1dlwJTKss3qkOTBv0P4Z7ZMUL8Iipm9w4YZ3PxpLcuAfZXYXKF/6zK+xAtRk2yLFPpb27Hzd0PKDC/fkqCmrpJ9/2PV2ph5hbwVWKnKcDW04u/VN59PZT0o/
+travelers.	3600	in	dnskey	256 3 8 AwEAAbo+rsDkkmWiYrzw38udeS/hJ69PLmeso/EzSq8I3M4xODZ9JaA421ScsX2t2KDw6mYoe+pje7jcBEOtaE5bttrtHyg9V1tnYWG7dKwBdNJPVkSFELtG328YOVHowYcrMHIvlJUALccvtMVvlfsIy5s+W18IHp0mpjmLrpX9wGLJ
+travelers.	3600	in	dnskey	257 3 8 AwEAAdKhVgG3+3ikyLtKR+zQc1Hch2xu0BpxqdrTRteIMosNvCM1qWNieWlF8uHpxYgaQb1Y3qSYR2MZQWTlamd6lbTUMzjIeEzXadTmrk42YP+yFCuB7NgapRNsn72lIlblVntJ8Z7vLz2dMg6LDC2qqWjS8eoLMVWTSxqfN5O2NDc2KYTYP4QfmC9+gnjYLxs6S7NPGTTBWQg5OZtNv/t5A3voLElpbVIO7cQMN+Q2jlZln4QpWS9p8GHHv4TtNk9Jf/VUorjhR/dmA0o5lSRn267b86ONsNY+cWBmquNedcDMPi2BS7Gv3PCIcOUi9Tswahn6sVk7OaOQ87ze9m7Q+ak=
+travelers.	3600	in	ns	a0.nic.travelers.
+travelers.	3600	in	ns	a2.nic.travelers.
+travelers.	3600	in	ns	b0.nic.travelers.
+travelers.	3600	in	ns	c0.nic.travelers.
+travelers.	3600	in	nsec3param	1 0 0 73
+travelers.	3600	in	rrsig	DNSKEY 8 1 3600 20250916160657 20250826150657 967 travelers. H3x8+J82XUZWUK0iMNpcD80eO41bDAjGF11UvsRex/KXg9lWlATEHG5FsJBynz0RrNJ2tQTeWjLRfuI2+9E5cqFquwx80VfWJdnE0IVYGBLq7aBvaFh8YPzQNBxY4g/4FZEELV6c4KFdJsosf7m4A4E9wNHzpqblfsG47bhZ75pujnThfkD1Vtd7c/EJLECkqIto3ISaxFBOGBDkRIuk2ud5jfgYPMFrYBiAXq98QibgqcDtDGJ7L5RP4f6v2F9nDHnmTgKS7iRtV+niSZfwtHFKaqw+wMiUJ2nzKSdMEjQ8nP+BfqSCOkDz60AbA59/G3IY5H9HlkjopHkjsFCurw==
+travelers.	3600	in	rrsig	NS 8 1 3600 20250916160657 20250826150657 36333 travelers. JYyHeeSBkxTWozwHymMCgiM0ObvAnWwDmF6PddsxtFR2P6nK0jYVfsslMtYj7IHmKQ9qPgmbPEi3bWI2BXELKaKdsuo7A8nIIFNYo6WPY0PDwUygkMI5j3fWs0syypmyHc54l+ayZsNXfmoRPThMx2wmJe57W0b8VN2dAIWBTkg=
+travelers.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916160657 20250826150657 36333 travelers. MOVtnpOKxZF2qLkuOgqaEp96uv3Uo9cDOIC9l7sXpD+YJI396tDf0Rsy+ZUMu73ryGh6l7SknSIrlUzAwh69Clu7xz0RrcrlBxXj5kGuBl/2Tdgqe91f/35No0wnaKPKV4bzZZZjI4jJKRaDqovoHP5aplytnlQhKCXFC6rX5cA=
+travelers.	3600	in	rrsig	SOA 8 1 3600 20250917012723 20250827002723 36333 travelers. h22WMprKkPf4jWk+LlEBNViS88JbI5aP83exoeHh87S2jJXn+dh4SwiImBnVqozcStf10n5Tnx7n4h7Kt41wyh6cDekfKu7u+lN4ChSQmzuGMHenGB5rUmlKyW4wd7c0LoK6VYv8bdRTQxyISuQQ6xPOQYomiDjcnw/jteNwdQc=
+travelers.	3600	in	soa	a0.nic.travelers. hostmaster.donuts.email. 1756257845 7200 900 1209600 3600
