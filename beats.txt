@@ -1,0 +1,37 @@
+beats.	3600	in	soa	a0.nic.beats. hostmaster.donuts.email. 1756256095 7200 900 1209600 3600
+a0.nic.beats.	3600	in	a	65.22.60.9
+a0.nic.beats.	3600	in	aaaa	2a01:8840:003a:0000:0000:0000:0000:0009
+a2.nic.beats.	3600	in	a	65.22.63.9
+a2.nic.beats.	3600	in	aaaa	2a01:8840:003d:0000:0000:0000:0000:0009
+b0.nic.beats.	3600	in	a	65.22.61.9
+b0.nic.beats.	3600	in	aaaa	2a01:8840:003b:0000:0000:0000:0000:0009
+beats.	3600	in	dnskey	256 3 13 0y54srKcVnmMfdpl4ZAOBM75SAi3/pkrHEgZy5Y/onsFHcq++OtIJ1frca4X3fKymNt26d12O/fKUufIkyZx0A==
+beats.	3600	in	dnskey	257 3 13 dgcH2lfB0MPOf8AMVJ55n3adQwvqGe+3KLdalrI3BAxnoMTjzfXoPNKF/hCqp//ABlrzReCRphiRJ+/uHrn3WQ==
+beats.	3600	in	ns	a0.nic.beats.
+beats.	3600	in	ns	a2.nic.beats.
+beats.	3600	in	ns	b0.nic.beats.
+beats.	3600	in	ns	c0.nic.beats.
+beats.	3600	in	nsec3param	1 0 0 -
+beats.	3600	in	rrsig	DNSKEY 13 1 3600 20250912114122 20250823101122 18805 beats. 5BrCSPs/mWWCceQb2KisZ5sVj1Z2VW6UdbmvQl37oyoMnzg/vA1fJ2nZjwRioAfsbQfg53VWsEk/aP1zzKUXdg==
+beats.	3600	in	rrsig	NS 13 1 3600 20250908235630 20250819222630 19414 beats. /F4cgHq3l/a+LcYyhxkt9b9gdLzwA+a0CAaCOLxoKfyihChoUidxKpbhoBuoHlIhhiL1e0UVyDlcCeTvxwhybg==
+beats.	3600	in	rrsig	NSEC3PARAM 13 1 3600 20250908235630 20250819222630 19414 beats. UcYXgLCItGVKpfp4CFZ7x+H/wjg+Xi4DkgfuHObCD5OnAJjVGK5Buh+kvjcejOulX+/i73BRn/P78eaKOJKXQw==
+beats.	3600	in	rrsig	SOA 13 1 3600 20250916005455 20250826232455 19414 beats. 9ZP3XfuxGNToG8knd7ZW0Qa5txZclJS+cPG4Ekz4e95cSNiucCxeqpll7jgwnZWk4ocpYdenhw8xnB+Ykn+OFg==
+beats.	3600	in	rrsig	ZONEMD 13 1 3600 20250916005455 20250826232455 19414 beats. YXVjpR/qTNeaTTxXJGecaPRxyyFPp3xVnRu1Y7eH4/QWUf/uvhFM88X4peQo062Qgr6om4HzVKnCEbZTHysHTw==
+beats.	3600	in	zonemd	1756256095 1 1 D7AEC7ACF1DD4200422B0D4ADBEE65E80B49FA3D5711F60E2E1F8015E0F45B3450CE4F338240EACEBD869A76A0FBBE91
+c0.nic.beats.	3600	in	a	65.22.62.9
+c0.nic.beats.	3600	in	aaaa	2a01:8840:003c:0000:0000:0000:0000:0009
+my.beats.	3600	in	ns	a.ns.apple.com.
+my.beats.	3600	in	ns	b.ns.apple.com.
+my.beats.	3600	in	ns	c.ns.apple.com.
+my.beats.	3600	in	ns	d.ns.apple.com.
+nic.beats.	3600	in	ds	44973 8 2 DD53561B86619B8DF85EFE7A1872E03329E85A252E9E054586F6F4C48EC319F0
+nic.beats.	3600	in	ns	a0.nic.beats.
+nic.beats.	3600	in	ns	a2.nic.beats.
+nic.beats.	3600	in	ns	b0.nic.beats.
+nic.beats.	3600	in	ns	c0.nic.beats.
+nic.beats.	3600	in	rrsig	DS 13 2 3600 20250909005228 20250819232228 19414 beats. 1dMQhx2fy1iaX6yatvRxFHNdl8mg3nkNM7/l2K098elYm32Pd37kTHKg0t1ag8gNo8T7WqC2ZZPEPJXOGUizag==
+r2ain99opndo86r8kc4lv2oqtooerqv0.beats.	3600	in	nsec3	1 1 0 - V4IU2F3A0931GP452R4FA897QGS9SNIL NS DS RRSIG
+r2ain99opndo86r8kc4lv2oqtooerqv0.beats.	3600	in	rrsig	NSEC3 13 2 3600 20250908235630 20250819222630 19414 beats. NzN/DnzvnHSLsgHmlmobHZc1/gJbEuQn44kXAOl+0hCsspvCwIGHI/J7Zs5p3qfpf6jzCYTJUxIeSC6Qxr6lSg==
+v4iu2f3a0931gp452r4fa897qgs9snil.beats.	3600	in	nsec3	1 1 0 - R2AIN99OPNDO86R8KC4LV2OQTOOERQV0 NS SOA RRSIG DNSKEY NSEC3PARAM ZONEMD
+v4iu2f3a0931gp452r4fa897qgs9snil.beats.	3600	in	rrsig	NSEC3 13 2 3600 20250915181712 20250826164712 19414 beats. xIQCphrMS+b/cmzaBpWKBmxvtg+AW/W6FHcEYweZRMurY3ysfdG6n5T+dVhGsaP/HgnZ1tJfZn0WS3OkC71Lsw==
+beats.	3600	in	soa	a0.nic.beats. hostmaster.donuts.email. 1756256095 7200 900 1209600 3600
