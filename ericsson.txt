@@ -1,0 +1,44 @@
+ericsson.	3600	in	soa	a0.nic.ericsson. hostmaster.donuts.email. 1756256556 7200 900 1209600 3600
+a0.nic.ericsson.	3600	in	a	65.22.56.33
+a0.nic.ericsson.	3600	in	aaaa	2a01:8840:0036:0000:0000:0000:0000:0033
+a2.nic.ericsson.	3600	in	a	65.22.59.33
+a2.nic.ericsson.	3600	in	aaaa	2a01:8840:0039:0000:0000:0000:0000:0033
+b0.nic.ericsson.	3600	in	a	65.22.58.33
+b0.nic.ericsson.	3600	in	aaaa	2a01:8840:0037:0000:0000:0000:0000:0033
+c0.nic.ericsson.	3600	in	a	65.22.57.33
+c0.nic.ericsson.	3600	in	aaaa	2a01:8840:0038:0000:0000:0000:0000:0033
+com.ericsson.	3600	in	ns	e3dns.ericy.com.
+com.ericsson.	3600	in	ns	ns1.ericsson.se.
+com.ericsson.	3600	in	ns	ns2.ericsson.se.
+ericsson.	3600	in	dnskey	256 3 8 AwEAAbDzLFhS+9Ks/wZ0A19ZGcslkKs+Jeokq6t2F4Hsr09AEpbI9TGbCLuvImX6OjiB5xn7OMTMo8OezfgYmDpHBn3BoalIsA39o2avvcBBsdWNzGNKT3pKHy90OgEMjJFaaBG9BfxP6fu/tgDLrnI0f8rpJB48kMVXMRUH7IwEi/Lz
+ericsson.	3600	in	dnskey	256 3 8 AwEAAcLFfcyhI83BjgdF3pI0EbD+SlF9EwYm98uICdvmmaaezrHuvyE2uhcOeDK12vvMQvETMIl0VE9nTUahXfp7FS2vV4OTjfKLrXmgBHLYFcNCziDyaNiSezVE2cGyD+SnZn8cl9ED7eeictQRNoFVusu6JRhBmx0qGGF0opeISqtx
+ericsson.	3600	in	dnskey	257 3 8 AwEAAdV5JyDiIi4PvW63MU53IUH8fSaCPPUtrvorw792HLbvEB+adgesUvRUtpTrSEyl0wp9vg8nxGf1yr10fvSnMfdqPGl/W/T1Fbk61HEy8pOpMgx6V8WClnGn2ilWnBS7kEems+QeNrC6Pqg+IELMkIGQFUexwyEQxO2qBf3iG8lSGVv1yp/vBZwC2qLt/IY31TZPGc0fUFymCHX/Ax4OeCbyW1K5tRyUbT8FLT2BfZAFx0VEzvmBqpNw06RgKcWzQWrzztIt4Bayx9anZk8UTETV8MTPY6x1CTwTNQ+++TpPfTxPsxGv9GEwx3cf9qx5LGYyAkVeNALqZ//diOJ/szU=
+ericsson.	3600	in	ns	a0.nic.ericsson.
+ericsson.	3600	in	ns	a2.nic.ericsson.
+ericsson.	3600	in	ns	b0.nic.ericsson.
+ericsson.	3600	in	ns	c0.nic.ericsson.
+ericsson.	3600	in	nsec3param	1 0 0 73
+ericsson.	3600	in	rrsig	DNSKEY 8 1 3600 20250916161258 20250826151258 47419 ericsson. EEmgjMeiMhFJvZY7vpqcAZGAtx6kqJ/athBOmY1hGGt4ehEh54AfuVoj3ZQca+OvShJaAM28mrP95fQGKgDAmFClCsMhO7e/2ubf2/MxVl3L9PBVO7Acx3P0Q8oDpJ+wa9yh82hJgpDWYJwkalfC4LHOtIghc3JraPgTcCGscHr9H/1aRzPtZmWkGO1AtI4xFeVYx+az/JiA82RpRFIpojQ+4js+pwMBmPoTkEQ/YqAMMY9NwAuVwuhtH3g5JKvGQAr+dRhy3c4r8eqwFZXR95lbxXnNp1SPBZleVaS2mnCOwTr9yvbDXDgQ95CR0+sP4EDVWTIVqKjObezgP9hzTQ==
+ericsson.	3600	in	rrsig	NS 8 1 3600 20250916161258 20250826151258 18861 ericsson. ojoACXcmh3bL+mKTMCR4V1NBjBqf7OXuSo0brngoXrl3rVsHPG2Y5GaLAyh9CaR8KAfFbmnPGrhO44OkWYbfmalbJqzbiDTb3Y1kxIr6eCekjExKQKijOpz1ohnUfeRE7OFOHIK/bQiIPo+2G4Ip1vtlgJFP1/J8DvXbvhR636g=
+ericsson.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916161258 20250826151258 18861 ericsson. ZIzfVQ65pBMnWONWQCIvNgck+ElpEMfTtDPY5z3Rp2f932yFF0MFThG3f/dndEhBtTw9i0JfeQ2vnxnhtKiOMcxNgPd9aFCnWNr1aBZDPk5HhFwByOuJh69+9bBCY8W7Wa1AWnAnYeFIeIlVX4trpAue5VkUTH1QMbglGtFyzuw=
+ericsson.	3600	in	rrsig	SOA 8 1 3600 20250917010353 20250827000353 18861 ericsson. Ywkf98IIF1ujHy/NzU5byEpgU3tEPDgyk5v59/WE9TpYeIYqaiF1Q6vPEiDH7CviklryL/JmwouFMHCb8S65kOOqK50pD7GoBrT7N7OBF7U5UTTVoRvLmxFM4QCHx99b3IAcmMjzCk0+7SY/WUPmSYinx/IonZTOlN0WFRsWn5E=
+internal.ericsson.	3600	in	ns	e3dns.ericy.com.
+internal.ericsson.	3600	in	ns	ns1.ericsson.se.
+internal.ericsson.	3600	in	ns	ns2.ericsson.se.
+k081binkm1kq0slhvjv14e6209hu871l.ericsson.	3600	in	nsec3	1 1 0 73 UTIFVTMLCTH948T6KNNCK8K7NNAI1RKK NS SOA RRSIG DNSKEY NSEC3PARAM
+k081binkm1kq0slhvjv14e6209hu871l.ericsson.	3600	in	rrsig	NSEC3 8 2 3600 20250917010353 20250827000353 18861 ericsson. KX/4Qd+Q/3OUrS32AFS63acvu6QiBrLaifiCM1lkOJB54Qz4RabQ41uJ9WbvLXhJAKEMojLFwcvzkn/79u45LubUts1z0ux5417pdCruEBkD/7cLSFDrMR1iTZdaR4ruN0ZSvWolH6e9U+Qj4lAM1gRLzAKZOX0BmzoFeFw61HM=
+nic.ericsson.	3600	in	ds	60252 8 2 AB63698DE724F705E1FBB982AC645622F0F55F0FA7802FD14175A092FE633CA1
+nic.ericsson.	3600	in	ns	a0.nic.ericsson.
+nic.ericsson.	3600	in	ns	a2.nic.ericsson.
+nic.ericsson.	3600	in	ns	b0.nic.ericsson.
+nic.ericsson.	3600	in	ns	c0.nic.ericsson.
+nic.ericsson.	3600	in	rrsig	DS 8 2 3600 20250916161258 20250826151258 18861 ericsson. jLVlDlY+5b/uGHmyrQVE8+1M2J+eQgP8IKwywr2wLH2uT1HIKtMYPRd9mYaqBctG1MnPumsNJgR8UY6C8aHzhLNg5AiKk65EAbj1gjbmFKxJUsK0m0UX6A0LN8b84Av3+/Cl646lQGgXn4nFr42S/reE09cEMXUGD1yyj5vqLAU=
+org.ericsson.	3600	in	ns	e3dns.ericy.com.
+org.ericsson.	3600	in	ns	ns1.ericsson.se.
+org.ericsson.	3600	in	ns	ns2.ericsson.se.
+utifvtmlcth948t6knnck8k7nnai1rkk.ericsson.	3600	in	nsec3	1 1 0 73 K081BINKM1KQ0SLHVJV14E6209HU871L NS DS RRSIG
+utifvtmlcth948t6knnck8k7nnai1rkk.ericsson.	3600	in	rrsig	NSEC3 8 2 3600 20250916161258 20250826151258 18861 ericsson. QJM90feAWM75W9BFLIsXgTe5KJ+1KG1jJLGROQWRtqL1T3JaK/gp/287ljwTLg23yuUVkKeNcpcg+OFbrP4aqoMnX835GK6YpQBPScUh7KmA4+Y3btygxXYMjd9P67Xm6sCdpV9mdxtQTqofsfvABJJ9Utu6NGAu1TCzSN4d4Pc=
+www.ericsson.	3600	in	ns	e3dns.ericy.com.
+www.ericsson.	3600	in	ns	ns1.ericsson.se.
+www.ericsson.	3600	in	ns	ns2.ericsson.se.
+ericsson.	3600	in	soa	a0.nic.ericsson. hostmaster.donuts.email. 1756256556 7200 900 1209600 3600
