@@ -1,0 +1,32 @@
+progressive.	3600	in	soa	a0.nic.progressive. hostmaster.donuts.email. 1756257213 7200 900 1209600 3600
+a0.nic.progressive.	3600	in	a	65.22.200.33
+a0.nic.progressive.	3600	in	aaaa	2a01:8840:00c2:0000:0000:0000:0000:0033
+a2.nic.progressive.	3600	in	a	65.22.203.33
+a2.nic.progressive.	3600	in	aaaa	2a01:8840:00c5:0000:0000:0000:0000:0033
+b0.nic.progressive.	3600	in	a	65.22.201.33
+b0.nic.progressive.	3600	in	aaaa	2a01:8840:00c3:0000:0000:0000:0000:0033
+c0.nic.progressive.	3600	in	a	65.22.202.33
+c0.nic.progressive.	3600	in	aaaa	2a01:8840:00c4:0000:0000:0000:0000:0033
+edq4pfl8n4cmqg79vvkcs2mq2mmtd4e1.progressive.	3600	in	nsec3	1 1 0 73 TPDJ2ODG1KB1MCG4OOKDVRBRN007BVJN NS DS RRSIG
+edq4pfl8n4cmqg79vvkcs2mq2mmtd4e1.progressive.	3600	in	rrsig	NSEC3 8 2 3600 20250916160320 20250826150320 23280 progressive. d/catk4z0evetx69moe8mh7qx/aigxpSkADy49Oi6oR6xLZnmJofTj7LKTvl/lwHbmMjIGbPsBgxC3M3wKaNkIVSiVTAXZbiJnAqCcHoA92Rjc/17kHLCVzSbGa1aDvWXvUZIuqvykgQXbmULo2I+4GQbiwhHZRAaCqeAMWbld4=
+nic.progressive.	3600	in	ds	62544 8 2 63EF485EDC7400AD20D2CCD94BA26AA1B70BAF4655BC65422E8E8663B813A00C
+nic.progressive.	3600	in	ns	a0.nic.progressive.
+nic.progressive.	3600	in	ns	a2.nic.progressive.
+nic.progressive.	3600	in	ns	b0.nic.progressive.
+nic.progressive.	3600	in	ns	c0.nic.progressive.
+nic.progressive.	3600	in	rrsig	DS 8 2 3600 20250916160320 20250826150320 23280 progressive. fUWjoDzZswzR70IM1cBHRuXTpFavEC+8m9kYDUro7v+x1VVs891uclyWM52J7o4YKg/UtwjAEIDs8eqv5mjrkjdR/Nt2QOolbnBDaDxLPnYGxDs7zYyi7kWXE8IKX+xJcfYB7X6Umbdu6z+FdeMWi7re0nJ8zN+g2qxMGhCsv+4=
+progressive.	3600	in	dnskey	256 3 8 AwEAAcCKNxGeHWqFSYXyP9GHXH34+q4Hq7HTVbdbRrS+n4rY2ghxHGwW+wna33N8cNYPbiqHwOLUXk06TuUUDrNIlz9Q4z8HkZ7LsS9XVL1L3j4uwmBe/yrHbuFG2vl3Fipb6lzQvxOFHFOoY4YBMa1Z64CK58uI/oTcsnLo7WR389v1
+progressive.	3600	in	dnskey	256 3 8 AwEAAdkw+nUcRw/b+ueR+aaXJ3UoERQzYMaSC0udFdvhWnuPAjdCht+fOyHcv8bQSJQkY9mRS0vOvVY6Uvq0r3IS3tqLSqu2Pq0RvM5nBQ/4rjpVTBE3sr+gGtuqPz20Dst4Ahg3vv56+9h2tzdrzTojSZMPFq4tHDg3dTFUUemzkwDT
+progressive.	3600	in	dnskey	257 3 8 AwEAAak9EeA2NCZAqwnx4Fphj+EZHyDhmsdoQcjwT4ZBcH4Rh8J3qvJ0f1l4X9Y3mDc+uEYp5k9ofGNUmRodfl30nh2fcec2hZv7zDaeIyaF6bVAakymiD8pj/dTcLQzI5IGHKQ2OhmEuNbGZT/ULsNSeMZ5Tg/1xB++u2Iai23fEQHFMKy6avhD/pCaffqWHn5OIgJMxb9wrlsxPRZtQE5wALeT3DFjwZVrx/pzA7Rhk/RIr22B1xPyMWZRVH5mLxIVWO73hlRcPW7LW+DzVq+3BMmD++gwcoHER7+hjk0EGnrUXI4hWjp5wfZZbKDmEEjJ2WZjLCsFwYbjb3mMFmpqRMc=
+progressive.	3600	in	ns	a0.nic.progressive.
+progressive.	3600	in	ns	a2.nic.progressive.
+progressive.	3600	in	ns	b0.nic.progressive.
+progressive.	3600	in	ns	c0.nic.progressive.
+progressive.	3600	in	nsec3param	1 0 0 73
+progressive.	3600	in	rrsig	DNSKEY 8 1 3600 20250916160320 20250826150320 17329 progressive. Md9fR/iCHLJFqoU17IQCc946Z4kOZQ+pqqNglezUwxHlrjmXe5TGT/LEByHcb/M5RuCgR1FJu0XLotEYHBHM813vFqH5PpXNAVCiHViuGEjoZe+f1OC7LnjIMKYmj1TZSRlOlLsapyxzqZARL54Hcm7ecMKh0dWQpVNaVg9E9oxsfl0k/IZMvyeW/N4Tua/N3hsjIuoE1cQmgCogo6D96pakn3eQ/WQ5BzLf4XlTbSsezuGq8s/7NebFvWH7nMsPr8UCK6wNE7ujvh9ELpMoLkCID2x1TjFJn+WQYWDtW8cut0zfEUOYdhIYZnf3ZZuraoB2y5kdmrWhNdiUbypOYA==
+progressive.	3600	in	rrsig	NS 8 1 3600 20250916160320 20250826150320 23280 progressive. r8pEKK1S2xTMtoEc4/7UK5MQIh7jwO1nO6DPuHerLhd1tS/tlD53la+Alk9UeS98jFmQeMwaOT55avenDmHIJUSPrk5hqN7hxfw9hHIOR0hLCrgQKp3qctmxEfnCQLWCck7iVa7p7WEAG8sdSpmn2+UCX9ulSvWX8DKx5oGprp8=
+progressive.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916160320 20250826150320 23280 progressive. vUFQC3WIU9X+KejPMHn1TgR+3s08uYhlcCyCrEyW9Ij11jd9v3inyhud/HIwWYaHRfpMpoFiaakLdj/aeHsGWlizjQoOgBvsH0crdyvDqCJS8IJQTUQ0Mj7T8LEPQIiwF5m6xLe/BqqJOETyUEDrV7ytZXbGENvjniWQJFMQw+M=
+progressive.	3600	in	rrsig	SOA 8 1 3600 20250917011658 20250827001658 23280 progressive. dCwcm9flZZELP5efbNayuyZdT3NaJ9XVoymTJG5AeY/6KKNFYMhwce7JzC1+c6ir/I/K0F9WzsagtynaddDLRAiUH9GYuZ3oFRqyzyuL2ud49z+Mv+xlenUnGNXFetbtcGHPEoAWgE8/6YUYSekqDNvAdQcIv8nXqnbPz0K/uoI=
+tpdj2odg1kb1mcg4ookdvrbrn007bvjn.progressive.	3600	in	nsec3	1 1 0 73 EDQ4PFL8N4CMQG79VVKCS2MQ2MMTD4E1 NS SOA RRSIG DNSKEY NSEC3PARAM
+tpdj2odg1kb1mcg4ookdvrbrn007bvjn.progressive.	3600	in	rrsig	NSEC3 8 2 3600 20250917011658 20250827001658 23280 progressive. c4bLktNuY7x3TZqEp+t+V3tYKuqQFoJRJLSuk94dh5GTtswFsjf3sVzEDCx8FjEjHWQXAGQWjCUs3Yq9THflo9dUJJIOBkjJnT8iGAH7Jaw/SUcE7euRlMcvBNmG3ahh4AS70feiI5DpoVo7K2dq8ee3yFUonlkmJwQ+dvLXEjQ=
+progressive.	3600	in	soa	a0.nic.progressive. hostmaster.donuts.email. 1756257213 7200 900 1209600 3600
