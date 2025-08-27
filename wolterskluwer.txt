@@ -1,0 +1,32 @@
+wolterskluwer.	3600	in	soa	a0.nic.wolterskluwer. hostmaster.donuts.email. 1756257848 7200 900 1209600 3600
+a0.nic.wolterskluwer.	3600	in	a	65.22.204.25
+a0.nic.wolterskluwer.	3600	in	aaaa	2a01:8840:00c6:0000:0000:0000:0000:0025
+a2.nic.wolterskluwer.	3600	in	a	65.22.207.25
+a2.nic.wolterskluwer.	3600	in	aaaa	2a01:8840:00c9:0000:0000:0000:0000:0025
+b0.nic.wolterskluwer.	3600	in	a	65.22.205.25
+b0.nic.wolterskluwer.	3600	in	aaaa	2a01:8840:00c7:0000:0000:0000:0000:0025
+c0.nic.wolterskluwer.	3600	in	a	65.22.206.25
+c0.nic.wolterskluwer.	3600	in	aaaa	2a01:8840:00c8:0000:0000:0000:0000:0025
+d7ueejqj2jiim3f46ismfo0dafk5nqra.wolterskluwer.	3600	in	nsec3	1 1 0 73 LK3KUC6FKB3CO4JEN11GH7001L3CTU7Q NS DS RRSIG
+d7ueejqj2jiim3f46ismfo0dafk5nqra.wolterskluwer.	3600	in	rrsig	NSEC3 8 2 3600 20250916161257 20250826151257 18693 wolterskluwer. Yd9vz38/uoukemiTIYKPIEEfeA9+z1pAHYAhIWlPIfqiMd/zy/rr/BNlaV1eYU9psCs0FQBHTFqYNixlopB3eJSpe50ltn9kBdoZgztWfnRvSVqge0cnie7CxbQ1qrH2rPq0DmR5IfdO1RMbvs6iSsZwUL8AzvGiEkG23GE6gUg=
+lk3kuc6fkb3co4jen11gh7001l3ctu7q.wolterskluwer.	3600	in	nsec3	1 1 0 73 D7UEEJQJ2JIIM3F46ISMFO0DAFK5NQRA NS SOA RRSIG DNSKEY NSEC3PARAM
+lk3kuc6fkb3co4jen11gh7001l3ctu7q.wolterskluwer.	3600	in	rrsig	NSEC3 8 2 3600 20250917012926 20250827002926 18693 wolterskluwer. pINhebHgIMC/SDO1Ylg0JJSEkB+WJ9D+IpYR7mqDdLikML64SBDzkAdO6PPwT7r/bh04cMdyN2F/DjOVs+tJPJaYXJhI1Da6pCpU2gwMxY/dsEs33C60FW6HhZsbVXaLJHBXyYRMHb0WJKLoC+PM6LyjvaPQ6Nipjs62AhU6gKk=
+nic.wolterskluwer.	3600	in	ds	28608 8 2 D0AF704F812F0CB4CE66708A28D8AAB527235E9047CA99DDB8C248FB1274C3C2
+nic.wolterskluwer.	3600	in	ns	a0.nic.wolterskluwer.
+nic.wolterskluwer.	3600	in	ns	a2.nic.wolterskluwer.
+nic.wolterskluwer.	3600	in	ns	b0.nic.wolterskluwer.
+nic.wolterskluwer.	3600	in	ns	c0.nic.wolterskluwer.
+nic.wolterskluwer.	3600	in	rrsig	DS 8 2 3600 20250916161257 20250826151257 18693 wolterskluwer. bUmHeDJwNkK+017+yLwdhNqw9H8U+oZ2kDwBdDiz8D8h5x6W3+Jy+sdNFp2LYiky6oLUqz0YlKhUVeNEZAOog6vPJX/YYUuN5o+MM2sogRyZ7tNxDGyFA4r3pADlU60oJHdgMwphaRqtPPOnHQr8KTRehFkvEtHHEl6H/7XSr2I=
+wolterskluwer.	3600	in	dnskey	256 3 8 AwEAAbKhswLZPcTsDtu3cWFeVyYR/Ij72KnbFEb90FOoM8uMIqP6cPfQ/xXvL/TK821K5D3y0+x0WF9b6U0DiyZvx/4ScwCVqvh5BEU4+iBa5I0RU4TGi3ePCHd180+ztnuDj9a9IhOHDs2C9PSyhrx/prMgD7ccCAcvAAiwSFyPn69j
+wolterskluwer.	3600	in	dnskey	256 3 8 AwEAAbgoZPKggbEr15zBbYuMTnyMBTnmzjSURK52UZeLUHV0mkiN0ni4x0JxMgNoruTl5ml93MON41nWlHII9EX/nqb9ms1qd7tS0hFzZF3XsASq7JkCdeNqVOCib3tzyp273/PZxiQZbJyd+wbIS/ooH8Vvqchl3VqEbu+h29jScL2j
+wolterskluwer.	3600	in	dnskey	257 3 8 AwEAAb5SG+8SWGhqQd7NBkxZGam0CYoRrc/cDPW3TM4WJ/IxbRVcWzZo110XbUfssjJ5U1AkoemMD+TPRyR4QLTphFuG+DQiXxgfWZ0DHt/QBw+FGbNp0yXIsdEBIUtw+52RNexmJqRlyp53oUCaGjK/jRI0XiEmWwxstotsNYsr2BAtrSbekf9AQQP9pR2QUGOuvJXTiJJ3aOv7HmYGdl5QZZgwkLG38lyK3RXXPI8Js2sAggg1Wnus/9TNG4tat0Iqt9L6vPxFNTK0rhqmgO3GKSJBgon93tROBuUR821G3jPoIHIh6y0PtbWduH/FhFRfaJ0Xp77PBFBAqumYbUsDTxM=
+wolterskluwer.	3600	in	ns	a0.nic.wolterskluwer.
+wolterskluwer.	3600	in	ns	a2.nic.wolterskluwer.
+wolterskluwer.	3600	in	ns	b0.nic.wolterskluwer.
+wolterskluwer.	3600	in	ns	c0.nic.wolterskluwer.
+wolterskluwer.	3600	in	nsec3param	1 0 0 73
+wolterskluwer.	3600	in	rrsig	DNSKEY 8 1 3600 20250916161257 20250826151257 58234 wolterskluwer. QzaFx0jshU/un7hdu2i2SzkPOeHJ5dJKRSCKf0E63nszU8fHBXlV7WEn111jUfO9RgacmQg1Ht/G1pJ2vMILlw4vogtM6orIeUSKZVaaX5SMypLMv1Sp7MkamQfoTXt7HT6JamUxugyNmOViVjG9DCwOI2zMxr9ljLl2pQKXrwP3+4Z7f4nWwrUlE1y0dUO0sIQMpVUzvuqYIF3IhGKpbfkSLKPYt/ME8FJUP/vhdMmfTZMtTej17uWnJEFISEfJWobj6H+W9mAaKRFdCht//92XBKx7deJFMQycipG9HR/CXE4wSQuOCEq4Dp0vranugtvLQgo+4uMpF7Xl8LqyQA==
+wolterskluwer.	3600	in	rrsig	NS 8 1 3600 20250916161257 20250826151257 18693 wolterskluwer. iiwPX3c1a8GmaqJNQSwE5ckCDGCnd/svgL/kFSHrqz2NN1sH/XHuF5UsXsXSNvxibw2MlwEYxVO/WFAFTYhofc19+H0AzNAc48g8MDoDnrfsgfKX/80UdmLK951UZEQpe0KNP1LlHyJVztcc2f7lA3xKX0qyK3cQFTxdHcSzjVM=
+wolterskluwer.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916161257 20250826151257 18693 wolterskluwer. hnwRzwZcsejIXA/vqpHgWb35ND/e41IukbsLSnCTpCJ+RxqhVHAIYx6IbXo6VymaMFmHHepo2A/O6Xmm+/d+FCkJ+y5pdmgXsKyYuR37Yfgke2imKwYz50BSrtyAqRhfdpfRyNMEbqhPuBQASDA4mNim9OcQD7VqFvuckZyvLOo=
+wolterskluwer.	3600	in	rrsig	SOA 8 1 3600 20250917012926 20250827002926 18693 wolterskluwer. mhhA6jBkqdXkS/Cgiyh106cE1x1NpUlE5zlk6Fg4QvTwMsOKsTSYdQC33dKOU35UVWWmDL6p+JzPKQMpvRSx2psaFrM46LNyVHt4sNYZ1i+XxkG/iYeA8Y9AUfoniVqYrRVd0bR7OcnZx3WJT7mFpd6qRWTg4bKgqEIGTXdgMAE=
+wolterskluwer.	3600	in	soa	a0.nic.wolterskluwer. hostmaster.donuts.email. 1756257848 7200 900 1209600 3600
