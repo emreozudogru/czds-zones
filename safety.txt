@@ -1,0 +1,59 @@
+safety.	900	in	soa	ns1.dns.nic.safety. admin.tldns.godaddy. 1756219128 1800 300 604800 1800
+2i7mns7neluqfu6lj9ig1hhcce7qhr1f.safety.	900	in	nsec3	1 1 0 - RVSPF6JUH2PU65BQ7O9RBHA5I97TM352 TXT RRSIG
+2i7mns7neluqfu6lj9ig1hhcce7qhr1f.safety.	900	in	rrsig	NSEC3 8 2 900 20250909204653 20250826204353 64560 safety. P2AMXFDmMAlKG5riNFAKpH79ZCb2hs9k3+9TPa0ZDg0CJT5jZLwcU6rllugEhik6jVDaFzw5Qg0pjQ9RTPgo9C4dgAq+//0Uusmb+xq0xyppnGjTYgxliZbIQPcppVpUaFXvfsnMNtkeuf7RLIai205hxnkc/1f9w8dZrGwqPUfFcFV7cc+6xYoqRgQrcKmP+wg10yf28+mZC1tTLXExwQ==
+_forcedupdate.safety.	300	in	rrsig	TXT 8 2 300 20250908061134 20250826133848 64560 safety. YJ0gN1Q1bsndVEhWmPY+8Tu/jG0d3pNAMq6J954UfYOy6IgeHgA5KCwAvoq+jWNLjgZaLEhAoFpW413xvEhPeGQ59Dd63oYuAGnHlMplQjRZWVFr61s8xjJv/R12PMx7qG/QCCvRCvFX6dvPAFCOjux3kxokQai2tmHoGPsjUZQrozi1rYqIJTyG96iAI5Vew1V4AX+M8csn6kOZD+qtzw==
+_forcedupdate.safety.	300	in	txt	"1756219127"
+a.nic.safety.	3600	in	a	37.209.192.10
+a.nic.safety.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0010
+b.nic.safety.	3600	in	a	37.209.194.10
+b.nic.safety.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0010
+c.nic.safety.	3600	in	a	37.209.196.10
+c.nic.safety.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0010
+d.nic.safety.	3600	in	a	37.209.198.10
+d.nic.safety.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0010
+m.nic.safety.	86400	in	a	204.74.104.90
+m.nic.safety.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+n.nic.safety.	86400	in	a	204.74.106.90
+n.nic.safety.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+nic.safety.	3600	in	ds	16135 8 2 E531FBEE7266AF56F27B55256B3DF33DBCA4B4B97227DC71413C6197C0647F6F
+nic.safety.	3600	in	rrsig	DS 8 2 3600 20250905160405 20250822155050 64560 safety. aNMCCOFYQRFsVXbv0PyZaVVwD9aG2TbVTNCwBQcpB4YJbAm/qs5G8TLPQqR3BBf+0Xwms0vmy8/ALH7PPl4gRZWGeqTPG1NWKs4fwo43vQQ8TzQGLLeQovWo5SRtrF4GKhXsWSA1k/nbl/pOvas7puwY8GWq5ZMhrBlnAHUOQFbg+heYcV4stPzHxYZvv7XFvFSRVSXNfFBZ1cGMh9ko1g==
+nic.safety.	7200	in	ns	ns1.dns.nic.safety.
+nic.safety.	7200	in	ns	ns2.dns.nic.safety.
+nic.safety.	7200	in	ns	ns3.dns.nic.safety.
+nic.safety.	7200	in	ns	ns4.dns.nic.safety.
+nic.safety.	7200	in	ns	ns5.dns.nic.safety.
+nic.safety.	7200	in	ns	ns6.dns.nic.safety.
+ns1.dns.nic.safety.	7200	in	a	156.154.144.148
+ns1.dns.nic.safety.	7200	in	aaaa	2610:00a1:1071:0000:0000:0000:0000:0094
+ns2.dns.nic.safety.	7200	in	a	156.154.145.148
+ns2.dns.nic.safety.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0000:0094
+ns3.dns.nic.safety.	7200	in	a	156.154.159.148
+ns3.dns.nic.safety.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0000:0094
+ns4.dns.nic.safety.	7200	in	a	156.154.156.148
+ns4.dns.nic.safety.	7200	in	aaaa	2610:00a1:1074:0000:0000:0000:0000:0094
+ns5.dns.nic.safety.	7200	in	a	156.154.157.148
+ns5.dns.nic.safety.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0000:0094
+ns6.dns.nic.safety.	7200	in	a	156.154.158.148
+ns6.dns.nic.safety.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0000:0094
+rvspf6juh2pu65bq7o9rbha5i97tm352.safety.	900	in	nsec3	1 1 0 - SQT1H2GC10B46QDE3GFQL4MH8K3PAJHL NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+rvspf6juh2pu65bq7o9rbha5i97tm352.safety.	900	in	rrsig	NSEC3 8 2 900 20250904092804 20250821090903 64560 safety. DfSJV563IduMkmbTiEQG1cjiZuZbLdmmVxogdFmKLCgOr7mTL5fXRXi+LNBDQqDNfZ4QirqPN6R+X4y7kKmMPLIcVwKJNFG5r8LkJ6ArI5JUmyNdHIZ5sVBiZ/tfEFiUl8OkFQ/LGAuOpPxyJg0EBBDk2yiFoGK3hVOqvpvzTWDraEQ4xBF/PMzn0XWt83i69xyLUQyiSpTptBJZjwyYQg==
+safety.	0	in	nsec3param	1 0 0 -
+safety.	0	in	rrsig	NSEC3PARAM 8 1 0 20250909204653 20250826204353 64560 safety. HGdgNUln99zzvz8SCb5qN59YRC5gj4LpLZQjfzHeBjgLxECJf7u0vMR0YauMJcsctZKSCZXzEbpEwOeqBM/JJmEWC5jIo32UB57oCAfl9dyRE1S76xHJc1/UZTDOUnGukPnviFxjUR0y8BOl/ab0x7S8GnuTr3QUsZVhud4CecYAnWawt3ZwBXL4XbtM3jjMT3LLThFtKDHviHOmTtBxqQ==
+safety.	3600	in	cdnskey	257 3 8 AwEAAccwZ6xB/Mpbfn9H42DcWvHSi45oGp4cgCVwMGCWt4nW+NFfrfW0C7OFXB7wE7TLHjbJc+C3TxusRnFIhb7iHr7zm4Z0s2ueq0daZt+KubsHb7LRfsfYjy5ZAcr+98h+vi6Y/V0FJfHe7wa8+b/pCSDPm+I6pX2tY57AjPCIft6/ALySf4JPp74ZpW+rV//pq21iYVF67HgJvBw3yMR11pMhRFpswR71PlnBFxnNRGGqvOKl/ZqcUZdC6TnuUtOBooMhIhmGqJfCE+3sq9wpOkouZm7rXqKtt93Dv1L2M+FhOn09kc9ZTmhf87d3pWXd1/bffWUIZHl5fzg1blsdc7s=
+safety.	3600	in	cds	43762 8 2 BF2D17C54E9DDE52EB37F0D242A1C4C1051E15C18A2C2661C7A6CA58EE6C0407
+safety.	3600	in	rrsig	CDNSKEY 8 1 3600 20250904092804 20250821090903 43762 safety. t+98nDAaVaDipY3kj5WUmgxInD7VhGFttjoqSdXT1gDIZYmxq1c9Vcjcya9APPxf0HCz/+wmIIAJvuYuhnQoonTkQu+2wgnkwsl1f1p8VlMVFDZfb6Y/mHdQiNNiowkFdP5Anag7Ym+OamD2RxxGoI5UmRkgXBI4q1RYwHfS4rCTF24mRNrKYb/JDaADaC5ayvNZ6+NgWIvJS7wv/Iw3vIyRejtNA6vHeSAz1TN9N9qn6G/unWWKVK6Xnihp/3dM1VHxOGGPry+ofVP6U8XlRoWqohHNxJhC/uAKNVn2jQ8r9utENI2pY2ZxeK/doS5koU+aerMTn7f4S3Z97Krv0Q==
+safety.	3600	in	rrsig	CDS 8 1 3600 20250904092804 20250821090903 43762 safety. fC1hp83AMeSaJuoOERYnz3JeGg4Omh3i240VsatOG7MAa+CtZRXgF+WlnCc/00iblc55jwT1RjjjjEnxc2aLWzFbAOBiwH5hKKUXWrn67s6t29SyrJ50izn3bcolJVmUXQsicL22wNaAdOD2nY3n4lamjWIy8R0+FoWYU1RGFDNv2hGcdLqVtSut78s6D6G4sbzpPijtr3hJVYvQdGb++a6NU6O3FjaZEnnpJAAkaWMOmHYuOZve9zAVREmntpLXWyHw/0Ly1fRYEEh8R4YwX1qNKxwYgC35Z+7e3NojZq1MzduDt9KOiusJUuyBlBjXUYZ5Q0BnQ+I0X/7TT7UlTw==
+safety.	7200	in	dnskey	256 3 8 AwEAAbWuHthbhLT3P31n59xvkelxUDDQXgcVmGIXOTsrH+aa216/Izxh4y6595CkOn8y7epOQciKnpzRRc+D2Y1FesQ76M6L9fkC+N6R7VgGPt6V6hsQ7wDzVL4JQcATIHt5j9VlcdkDwkcK0ERAXSMuXdRWbxZZMt6R6OTCMT0giiW4JGrJVLAS72iR74gt2ezoAHPs0tMozdbAlXmhElReTAM=
+safety.	7200	in	dnskey	257 3 8 AwEAAccwZ6xB/Mpbfn9H42DcWvHSi45oGp4cgCVwMGCWt4nW+NFfrfW0C7OFXB7wE7TLHjbJc+C3TxusRnFIhb7iHr7zm4Z0s2ueq0daZt+KubsHb7LRfsfYjy5ZAcr+98h+vi6Y/V0FJfHe7wa8+b/pCSDPm+I6pX2tY57AjPCIft6/ALySf4JPp74ZpW+rV//pq21iYVF67HgJvBw3yMR11pMhRFpswR71PlnBFxnNRGGqvOKl/ZqcUZdC6TnuUtOBooMhIhmGqJfCE+3sq9wpOkouZm7rXqKtt93Dv1L2M+FhOn09kc9ZTmhf87d3pWXd1/bffWUIZHl5fzg1blsdc7s=
+safety.	7200	in	rrsig	DNSKEY 8 1 7200 20250904092804 20250821090903 43762 safety. lxero2S4qF7+CQ09LLATciQ39KmbXV94utzbRqNWiJPR3pBV9HPQbhdFN9QfrDXz2fMor95Ja7mrF00bJ++DYE8WhpSFEbBDqeop4KB9LuDKoJRjgrBWaaRotNfbrPtjcaLO0wgmztf5nrpYJEnx7YvSP3ao2qu+rA6v9GELRL5CKctxQ0vorc7C5fzSHvcrYxt0bBQMVx/V/j69Qiird7rD6cB3qedHbcE4hvudnAwnibA+Fk27roQdN0aIjdfYyejMEpEtMRMai/kQuzhe9RSWVlZTcnGbaUUmdFLB8/id9WKF48sU1lDBA9Ed6MJRtPEShJoLSAJu4yFUvkJPTQ==
+safety.	86400	in	ns	a.nic.safety.
+safety.	86400	in	ns	b.nic.safety.
+safety.	86400	in	ns	c.nic.safety.
+safety.	86400	in	ns	ns1.dns.nic.safety.
+safety.	86400	in	ns	ns2.dns.nic.safety.
+safety.	86400	in	ns	ns3.dns.nic.safety.
+safety.	86400	in	rrsig	NS 8 1 86400 20250905160405 20250822155050 64560 safety. Bs3lbCnBlUMxw41ANCi7oVchqtlpZIS8GrPMik340z2qmsUT1F/0zFzYQS/CjLk8SzLXdiuJJTsRopwTAMX9Fjpi1HynoFDsz18uoWr+x87Cl6ZwMKaOO7ty/PZDUivIS34BUIqVdwbOygJ80dmpwoCQ+vFiZRmSF/fdIijmWacMoWEQmMtgGmiwYWkjp3WbqbCAsFDl6CpSjL/dEp2rWg==
+safety.	900	in	rrsig	SOA 8 1 900 20250909214353 20250826204353 64560 safety. l5/zFX6nwVpigME7CdRuxz1ErwRVfky2HVRzrhc5mA8QK6F3OHLlFp1e+JAZY9F3bW4SRbL0cpD0rEl8mi/ElP9zDTwlz5B3GQq9V9Z8ROe+agg/qFib5XwTGhL65CnfGSwl9fCkhB+dKMdp1DsiMBCGRO3cFKDtkyYW8DJoRN3tONcf0zaAP5V1gjnhO3xEID3Ou5QYzKfT/ld4nZfLEQ==
+sqt1h2gc10b46qde3gfql4mh8k3pajhl.safety.	900	in	nsec3	1 1 0 - 2I7MNS7NELUQFU6LJ9IG1HHCCE7QHR1F NS DS RRSIG
+sqt1h2gc10b46qde3gfql4mh8k3pajhl.safety.	900	in	rrsig	NSEC3 8 2 900 20250909204653 20250826204353 64560 safety. HAH9c57oz8FyBsk70Q7B2Gyv+Ybrec5harVNoU9fzJVhfos/eFWQ4t2lmTCebI/BF9U1RGtLyCrtjibNLcDxfYnstJlXInr4j5hYFO5Utlyk71pibBeOSddsHLoYzGOYg37OUSiYMdTodCMidSJnDTvEiO0hpiuVqx+0ZC8xtJSKSSsshltNxqmYGcq96mL+rRExqPa4SAy2Le85VWKrjg==
+safety.	900	in	soa	ns1.dns.nic.safety. admin.tldns.godaddy. 1756219128 1800 300 604800 1800
