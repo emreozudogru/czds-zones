@@ -1,0 +1,29 @@
+ubank.	3600	in	soa	a0.nic.ubank. hostmaster.donuts.email. 1756257845 7200 900 1209600 3600
+a0.nic.ubank.	3600	in	a	65.22.112.70
+a0.nic.ubank.	3600	in	aaaa	2a01:8840:006e:0000:0000:0000:0000:0070
+a2.nic.ubank.	3600	in	a	65.22.115.70
+a2.nic.ubank.	3600	in	aaaa	2a01:8840:0071:0000:0000:0000:0000:0070
+b0.nic.ubank.	3600	in	a	65.22.113.70
+b0.nic.ubank.	3600	in	aaaa	2a01:8840:006f:0000:0000:0000:0000:0070
+c0.nic.ubank.	3600	in	a	65.22.114.70
+c0.nic.ubank.	3600	in	aaaa	2a01:8840:0070:0000:0000:0000:0000:0070
+fhu3eptp0ne6jom229jq2kdh5crn9eh9.ubank.	3600	in	nsec3	1 1 0 73 FHU3EPTP0NE6JOM229JQ2KDH5CRN9EH9 NS SOA RRSIG DNSKEY NSEC3PARAM
+fhu3eptp0ne6jom229jq2kdh5crn9eh9.ubank.	3600	in	rrsig	NSEC3 8 2 3600 20250917012745 20250827002745 27468 ubank. Caydc/Du/EYY2zvy2OKA0eEn1zYg6np8MVkboOBv2Z63a8h8O6jr9pUBynGGUueneiFklmPbriDIZw+5gs+6C/ofjHoo54sM4JP96Vup8EeoRUnKvRnscKcRHzGXgQDu3YRn4A/aEU6LF7BODM6yMi0sn8FT4ukkPJdmXzyyIzk=
+nic.ubank.	3600	in	ns	a0.nic.ubank.
+nic.ubank.	3600	in	ns	a2.nic.ubank.
+nic.ubank.	3600	in	ns	b0.nic.ubank.
+nic.ubank.	3600	in	ns	c0.nic.ubank.
+ubank.	3600	in	dnskey	256 3 8 AwEAAcVwHCu3g5EejkYKIlA1AYlZdwiD9tbTY4ygobC4R+OjVIQi+1be+tnu6vHreiVqyrRcMV3lrNtldolDraf8GOWGLze32HcVCiuV6v5j3RtiAXLqaQT9XbyBxEickwgeG5C5KCahA5iCSYzJ8fo7x5kR5em9Tqapv2PViFD8pvih
+ubank.	3600	in	dnskey	256 3 8 AwEAAcgfVo4wu6WXXrbJOArd6Bgos2IObGn5wua8+h+E7RzlVbXgV9V/KN3yKCGsO2lCByZama19XnJcbHZX0OVK+aVEMd+kKbonEpzCqntKZXIgeZ7dtaPCG508WMDIqfeyREjSrUIxrVXaKXkhsB97WxLhLwET54u94RaV9aAvkYTIv5gBsQnLKHkekHqmrxE81YiH8tZXYGeuJZQV+eCRUrs=
+ubank.	3600	in	dnskey	257 3 8 AQO7pO/cGbp1RfFEbSUS3MnstKqpqvV/dQKV+nUgvCaGA0MdjZUVyS5OJt6A0SES0qNeJUDNo/ecdux0bzq+tMl3JE4U86BDedzTSJ6OxjtQ+TrolyJ08Y/O+DJUuxxfhpmyr/AtHy6AbAjA51XOP3iaI8/j+C2g5AhXCi3C80mUBKq37ueshhMEe0ehq47RvvAM213HDcB8hxIjcMhlei2q2KT14Uk0ELrFHocljd1vl8lw2QGbQYubdM9jZcEsyDjmOA0BIuPLsD6yHGaPWhZvirFlIJCXrYcqJ5TFDE+IHUYY9rrZS+K8RBAhh+xvLKi9Zum3xNJO8QGBNSCgwoJt
+ubank.	3600	in	dnskey	257 3 8 AwEAAaTcz79PktLrLkoRuFVbWicuRop1FxcP0LafbTHjGRL0Hz2NtsvQyJqriRTg0aWOivZKaSA6jZ731TGotP6Di/zDXgbKPtk/RVb43dxN6vglWCmR2k8Lt+7oR9kufggKp5Cd6tmYzsLKBS90DevxEhzmnxCjO7oVXfMkIt60irPUgKsfQ07xccxXQIK4ymtU/+qGh9yxrC8Aq8+modEwm+IvfqGccKhvECKlKiu6EeDaT44EIRPoggZgW5I3yAbjg4X/zpKLFOF9wqw9SJCkDWyP+wK2MLNyrMVdS9BZKSAC0cT876ov0dTW4IB1ViGpgF5UMuMlSTbJD8OrlkZNWIE=
+ubank.	3600	in	ns	a0.nic.ubank.
+ubank.	3600	in	ns	a2.nic.ubank.
+ubank.	3600	in	ns	b0.nic.ubank.
+ubank.	3600	in	ns	c0.nic.ubank.
+ubank.	3600	in	nsec3param	1 0 0 73
+ubank.	3600	in	rrsig	DNSKEY 8 1 3600 20250916151924 20250826141924 54160 ubank. A0Tgs5QoXWn2gzjbZOW2a1toZHpkcswK+2ypZv+RwNuOEc0q0IqlpPZC8PO11pnbM+TYLMq/1zlUnhq32iMntzSKCcfNZcHRCaBH65GsF/Cy72v2Vh6NiaRHR4NpsiK3q3dhtfaTUo+72oOIPteZk3DY35UQjS8bAneC5qtnlTcxMTxQFBMQDSyIretzD2hLsgwEF8dtIDL3vGDpGHbYXxpQl03buOYe9s899F3Abvz+OrXn1C5n1yuCGr2qwp4GzMafGs4AMgsR9DxcCmpvVeMjGOn7A9pru/VrfWvMlOb3hl++PHBMEimDARUpT6aD9gg0d3gcJshH+y88s9QExQ==
+ubank.	3600	in	rrsig	NS 8 1 3600 20250916151924 20250826141924 27468 ubank. ks4lOEvUrvDBG2UlQ64afoyWLRbVyDifqonIqkYOj3VDwLooXclGSIAm4WbjelmHQhnlSXZEpHQA/2cf+cv8+Je/DamIAbbgx3I+ksWYsZmB1uW3CbOaXyEjS+S9+j6+i5YOAosTVYJh3i8BH38iRI9/P58fozQ5nmFXr+Qbn0o=
+ubank.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916151924 20250826141924 27468 ubank. stR/qLUbkj2oPgEeW0lKsuUWShoGzcQQL11PGW7T8w81fxqmJ4nJPAiEqW8w0JU+h4FVpThJPlIkgEpeeROQgB2ydK6On+ztUSuC5eYmW7x+zVDKA1aI5JzIq4peeRglQxgi8a2/my1RSac22wnH2x/LQcdqcJalVN+th3ohKUo=
+ubank.	3600	in	rrsig	SOA 8 1 3600 20250917012745 20250827002745 27468 ubank. YbkaV6oiWR+8AW6sUerUjO70+AcKSV2B1GaKF9TuRNULqTLWBJw40HIjfQblZ7lpmTUluObMfzod/VSy6oN2iKccsQIS1otpdTChYihLIPlRfM0b41Ea1ePKxEIf6E3cDhgaG9jkkOeb+uuhq0e5xpc/D9nNlSf60We5fk1fpnw=
+ubank.	3600	in	soa	a0.nic.ubank. hostmaster.donuts.email. 1756257845 7200 900 1209600 3600
