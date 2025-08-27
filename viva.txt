@@ -1,0 +1,27 @@
+viva.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000374407 900 1800 6048000 3600
+a.nic.viva.	3600	in	a	194.169.218.28
+a.nic.viva.	3600	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0028
+b.nic.viva.	3600	in	a	185.24.64.28
+b.nic.viva.	3600	in	aaaa	2a04:2b00:13cc:0000:0000:0000:0001:0028
+c.nic.viva.	3600	in	a	212.18.248.28
+c.nic.viva.	3600	in	aaaa	2a04:2b00:13ee:0000:0000:0000:0000:0028
+d.nic.viva.	3600	in	a	212.18.249.28
+d.nic.viva.	3600	in	aaaa	2a04:2b00:13ff:0000:0000:0000:0000:0028
+mf67u2dmjtbl6bhtj7fkrpr4sl7ag8a5.viva.	900	in	nsec3	1 1 0 - MF67U2DMJTBL6BHTJ7FKRPR4SL7AG8A5 NS SOA RRSIG DNSKEY NSEC3PARAM
+mf67u2dmjtbl6bhtj7fkrpr4sl7ag8a5.viva.	900	in	rrsig	NSEC3 8 2 900 20250912220410 20250813203410 29841 viva. cSY3JUrso2b5so2GZrP5cZe51dm0nUst0XP6taQ7nGttLfgIUvuJPlBZvlZq78VweBLjn++HiKwUz59H6EJiAVJDP1htwKx29Jxjn/04WRelembqWZ+K4cwAk+tqubcR1qyZP+lwm6hATqodA2LVr539+KN8+gO7FbMVOHf3YBo=
+nic.viva.	3600	in	ns	a.nic.viva.
+nic.viva.	3600	in	ns	b.nic.viva.
+nic.viva.	3600	in	ns	c.nic.viva.
+nic.viva.	3600	in	ns	d.nic.viva.
+viva.	172800	in	ns	a.nic.viva.
+viva.	172800	in	ns	b.nic.viva.
+viva.	172800	in	ns	c.nic.viva.
+viva.	172800	in	ns	d.nic.viva.
+viva.	172800	in	rrsig	NS 8 1 172800 20250912220410 20250813203410 29841 viva. cFzmuFYgxD/r55bn9MHs7qaaoiPWJ1wbrqyV+RvdZHkT3j5Tg6LXpNc0huEss16WlT3P/jLzUt7bzRBJD0HW9hQ/JkeMTfbrHzoaAx7lbBuxCCRW8z7n2PrYX9iJf4+kwj2H+E7uv07pBwnD8K9yJ5SMvgSyNUHRndWQBj1vP/U=
+viva.	3600	in	dnskey	256 3 8 AwEAAdS4vXl2Lim7zIvwxH9jvS56nvsBQ0zGTtyAkAx05ENuAXfM46SUEG9sTeTIldczi6P8B+fdfkyQwTtVRkUTOtrm1IPzAmdxc5TsGB5/ko6rLLS/VRTbLyHBU6DZR6NZ6H3wOnRGQ9u6MqlEJ4FMfHcTBOFBm/KZJtFYNjGCQcNl
+viva.	3600	in	dnskey	257 3 8 AwEAAc9LpQbUZ149Fs5wHSLre2wnWWoEEsZAJ3lriUi0EpweaT9hh5DJH6RCUqPipjb5vJMJT6sIFeVXNV9FUvnq+ha7gW+RGgafQaTbQKf3Zh2FDpu1amFTnGz2JlZ2dFK34KCHeEt/Ha87HB9pye/ciPVaOF/G45Fp3PeKKUfWQV0j+HpX/8IIqszhUfmYvnzRsiODUV3QM/wI+CvdhPJy1l9VqMxHqjkxF5XYkstua4+ZdaPMo6LTARnBd3/W60YYlrZjjvHUetvaABhzmV+1Iy9gOsY/hiVksSnoZMSGcb+sQEDM2iBuL9a2u+TzBagxrnxkhWBj9cu32QFs1/0B7Mk=
+viva.	3600	in	rrsig	DNSKEY 8 1 3600 20250912220410 20250813203410 49345 viva. jn6/TidrBpr1t3JjKbBE3OY9bliT4zovOhqEcEDtnYOr9Ea2ANjCFkgbtZk/apaFbDkGvb7BJSr67+qpUFVIVKrSx6uy29Be5JgQWPBCwTZ43lUialzkuqlr7dBlDClM1fFolaTngBxcACVQU0EWld8rBEiN2Kd5XcXi/gyMCV1DrucMNIAL0WhJMAFO8a9wMg4U/0XpHigHo/FSzSeHwh7+eVkv7g6SJsbgoqGkrdVwMhCCiaswVaVZR4uPIksg/mzDsiBhWNIrS6HmpIb8b7HVPHOhDyCyw9YXWy+pRePnH3H5Pl80+IT3LisxPi5x3VDglC7geMaWUaaEz8imow==
+viva.	900	in	nsec3param	1 0 0 -
+viva.	900	in	rrsig	NSEC3PARAM 8 1 900 20250912220410 20250813203410 29841 viva. IGDcTZTCTm5+sTgYiZnDRdUmgezKgp+Ekf+o/bNFDO5plyAR9yFS2yKquPP+Y8Z7VH8RsPxaaC1Xor7Q3VD0l1LGAMBTWE2y/Ckv2CMG3d3p+DUGd0EMh94+dUUCqY+iugXx4YBOfUK3Ge7Kpoy1VZUUXcrysxnRBhF7EMs6gow=
+viva.	900	in	rrsig	SOA 8 1 900 20250926011014 20250826234014 29841 viva. W/YIv+3czTOne95AgvjCKhvKuIMpsTMIieybrXNSIRwZkMVqtgweEoK1FIolf2fGs3OyZ75sld3LkbpZCyLG/jgV7zaBbhSg1VkmhY81Fd/wV2eRcnbWgP7xonNaFNVKkk2vwfY0OJU9vkHMbsVuEK4ZrrGdkjCYyYlCnsTNb90=
+viva.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000374407 900 1800 6048000 3600
