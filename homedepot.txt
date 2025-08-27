@@ -1,0 +1,32 @@
+homedepot.	3600	in	soa	a0.nic.homedepot. hostmaster.donuts.email. 1756256557 7200 900 1209600 3600
+a0.nic.homedepot.	3600	in	a	65.22.192.1
+a0.nic.homedepot.	3600	in	aaaa	2a01:8840:00ba:0000:0000:0000:0000:0001
+a2.nic.homedepot.	3600	in	a	65.22.195.1
+a2.nic.homedepot.	3600	in	aaaa	2a01:8840:00bd:0000:0000:0000:0000:0001
+b0.nic.homedepot.	3600	in	a	65.22.193.1
+b0.nic.homedepot.	3600	in	aaaa	2a01:8840:00bb:0000:0000:0000:0000:0001
+c0.nic.homedepot.	3600	in	a	65.22.194.1
+c0.nic.homedepot.	3600	in	aaaa	2a01:8840:00bc:0000:0000:0000:0000:0001
+f2iikea7ida67tec3b54d7ld5pp5ta3m.homedepot.	3600	in	nsec3	1 1 0 73 U2K3N6K06HKTT7VREVF239184E10JNOQ NS SOA RRSIG DNSKEY NSEC3PARAM
+f2iikea7ida67tec3b54d7ld5pp5ta3m.homedepot.	3600	in	rrsig	NSEC3 8 2 3600 20250917010350 20250827000350 28944 homedepot. pRSBZ1kaY6muDGTKoyZA+adjp7UH8cj9qEcpFiveelxb3Lngom778syQbhw3HLWizObM0PoKAWmYLH7r9tyTx/qGhek5b/uU6HSaZrxKv5o4urJ0oPEagMeUnsEddFZITUKbfM9lKghp4vh7oTPf9RMk518zClbbv1MOWwGF1mE=
+homedepot.	3600	in	dnskey	256 3 8 AwEAAaiXbo+cCiY4GQqg1fhrCdVexbxYH3Pu7PX4ZR6qqottki4qOKk+8T3jCP13Lcgtclm+DKM6AjyXBMqzjtUfy2aHQmtJ5oaCzuwFNv2O+5SyvNI5AE4xnejaKMlTEP6Hr8Lg66VbjVHQ3NH6AvI1xllqnKJK2btEjIgQ7h147yaz
+homedepot.	3600	in	dnskey	256 3 8 AwEAAdm0TGVhBmvC+xdqujj/Rqmn/mybDqR8zanux6LHU8hZUiauZShshmkFFZlZTorSAdZPYviH/VHVyMxeTz1G+/RzXmeH8q4qw8B1cbFrzATIDce7wzRpgsYoCyrjteihThJGYJSi0bL4k48WViAM7hz3v+UKACUefOmWL9P+VbS7
+homedepot.	3600	in	dnskey	257 3 8 AwEAAZ0CUaK64Wk9sTi8Axi2Me9pcSQMTPslq+H3gE4tMBBDy5kUR6IwUzMSVlDrr3hNdVtiHANcawxDfgB2lgCunfd4i67haSv0dRE/GDh62no9vdDpvylTuB76oVWssqb0uEwXOgdq/8Di5qRXL55jFBlwUoqeL2SH29RIhbPGolJOx2heOP3H/poW0ELqk7tQJq6o3vlY+iYzQv8qvx036Pw9+91Awky6VRXzmW37sSEL29fDMGu58DvmcVnMKeSgyQ/s72z4d3FfJyQcwR/J6ycPF4p/vcNgz1S2z4TbB3fRJetPoJAsiSBkoOH8wXCS+XKXyagS82aTPUD0/naV4TU=
+homedepot.	3600	in	ns	a0.nic.homedepot.
+homedepot.	3600	in	ns	a2.nic.homedepot.
+homedepot.	3600	in	ns	b0.nic.homedepot.
+homedepot.	3600	in	ns	c0.nic.homedepot.
+homedepot.	3600	in	nsec3param	1 0 0 73
+homedepot.	3600	in	rrsig	DNSKEY 8 1 3600 20250916161257 20250826151257 41296 homedepot. LU879cTlWHZuyRvISz7qEfkylIvGn/ekwZMdAHQwq4Y6f+XSvrpWy3S5oejnHa02ByQo2E34bK/6XDQesFwrGk6rc/9Q0RB3d6V23FzKan0bdTWG+K/ediyx1prxkfbVFcnkWeDojkj6mZUiiebEMn04lQ7u5dR+P5TKW55oHdIE9qEFxWR/rfA2ojrbX6leWOC3XezL+W3kWfVv+LUXMLZ19ZNDblxW8K+Ct7dmDPYW5gZ23Z4HKxWWD4k5r05C/fL02HTjteydqyqmoUfg1R6iXaSonhySLQi3T10lqIRkioAlcigxk60P9muaM9PEDPRxipM5WlwyeuZExFDUWg==
+homedepot.	3600	in	rrsig	NS 8 1 3600 20250916161257 20250826151257 28944 homedepot. mtFp1bU9sS8fXgLCVFdwkfGAFB2GOseZzIRcecV85qoYDqpXuLlnCGwxsYYEi0amDV9+OM1qUtxiT/VMaiBVmhiIFbP9ZZqFm74kEyK91vQHZL0EbSbFmxeoOPzK3uVrh3EDo2mH8hcI2cGJprnifMnC+a2o4k5Fjn4vn3lLemY=
+homedepot.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916161257 20250826151257 28944 homedepot. Bbi5uy6rP9s5JSZ4g2gGJ8YgYyjz++JafXXCryni2V7Bf1Idngrgebw9W+kQVdiAlh7jhEiLBIcldnypbhx4QMgOthHNOwn8OUhweUCJQsPYhBaBE2xAm83MWpedhCEbjMcK22zoBIsE0+kGdRx2slVuP/3tr4177VfVGj5NlyE=
+homedepot.	3600	in	rrsig	SOA 8 1 3600 20250917010350 20250827000350 28944 homedepot. WtttgM0ObtyAeM6byakuc3l+ZRc7wuwF6ofW4k+Sblw5JjFv7oiusxzPotgnwNB8UEc3TbRHzE4c0olNvqNN2XCf4K0zX4wS+xrrLuPcfiN02qCsWwSTz+sdS7Xbm50pTRaX5hrkt6op4PU3pY084SRSIGjlQMZ0Lr8ZLdFcayE=
+nic.homedepot.	3600	in	ds	42111 8 2 EEC01444469410EF0ABD8330AE42F1AB8685B519428E892E820D18075CEA91BD
+nic.homedepot.	3600	in	ns	a0.nic.homedepot.
+nic.homedepot.	3600	in	ns	a2.nic.homedepot.
+nic.homedepot.	3600	in	ns	b0.nic.homedepot.
+nic.homedepot.	3600	in	ns	c0.nic.homedepot.
+nic.homedepot.	3600	in	rrsig	DS 8 2 3600 20250916161257 20250826151257 28944 homedepot. tr0r+y0yAlMDPjWO5VoGitt/NCCwDi0V2MtDBocjZNr3J7fMN5Qg+tZWQbrlyixaQt/OEz2Bz6brTDeDG3ezjtTdF8M5H60NPw5NjIcmf09ypHQa0/u5/rcqFb9uLLUIuUTJxINA2Q7gogDV52Ztc1vBsCkwNM1RtDOA22R0xxI=
+u2k3n6k06hktt7vrevf239184e10jnoq.homedepot.	3600	in	nsec3	1 1 0 73 F2IIKEA7IDA67TEC3B54D7LD5PP5TA3M NS DS RRSIG
+u2k3n6k06hktt7vrevf239184e10jnoq.homedepot.	3600	in	rrsig	NSEC3 8 2 3600 20250916161257 20250826151257 28944 homedepot. gz8lTCOxkFbIcqz/nXmX/mVXJyu/kjRLWkA8VCCXJPqX2mTfpK0GdXbCpjgzl4eXez/MV71QRm/4qCR/c3aFSpV3IXznmzZlPB/aeR6lnTxmtbrh6a3cGelqa5g8EOOUd3nASTkkJRRK/lq/0cnEfpI+wmggie6Vz6w6KBUSVn4=
+homedepot.	3600	in	soa	a0.nic.homedepot. hostmaster.donuts.email. 1756256557 7200 900 1209600 3600
