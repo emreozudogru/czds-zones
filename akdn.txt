@@ -1,0 +1,36 @@
+akdn.	3600	in	soa	a0.nic.akdn. hostmaster.donuts.email. 1756256552 7200 900 1209600 3600
+a0.nic.akdn.	3600	in	a	65.22.44.17
+a0.nic.akdn.	3600	in	aaaa	2a01:8840:002a:0000:0000:0000:0000:0017
+a2.nic.akdn.	3600	in	a	65.22.47.17
+a2.nic.akdn.	3600	in	aaaa	2a01:8840:002d:0000:0000:0000:0000:0017
+akdn.	3600	in	dnskey	256 3 8 AwEAAbstOyFJT2kHqdGwq7G8vZjSPd0PP8UAQeo/+QoTelTJVm+KTCcLSjtg8mPf3xViQnTJd9+DBvMWt6DAiaz6jVSCjJdhypPKH3KeS1DBo8B5NtY8mptowPCOQlwAsZhl/Fd2BK7C3URikR7lzvzhTbAbkIeKwjFE9P8aOjJzh/1f
+akdn.	3600	in	dnskey	256 3 8 AwEAAcZ0qIQbqHGakciWhPYHxJXr7DHQN06AmQ/mUWsCILi+/+bLo3kVVRQiwfoo2L34NmbytGEzkwGZ4ukkVRg8KYFDoLfuHfQuXcPS+7jQeWElIF4CGftste3m785sqQSuZmoll0l1lIa/XIQJItinvLiApP+x9wck5L4wAAnEyFn/
+akdn.	3600	in	dnskey	257 3 8 AwEAAcsVjrYetd1MZTIxnXqXqAuicHjYRQDQ801G+5ZV9HaTRR6RwOc4lY+8TNHMLoiwdVeokQDwakuIsRIqKGVh+YjcUVAeT3lvQlACdM/QTyL7SaZ0vYEi4c8N/73hpImQq56ahjylLsJrCR1Hjm2qrEQOiiRm3XImsZo/PmEnFWRYWI32IB3kF1oouYXfbMZk7kQ29gPQNROYG/w0v2QeQ5LB3PJl8Sk4FPJs3VWevJtsZJWXwJV0/kVD/nS8INkv9zQ1NFCCIKHub0SevEGldIjg7T8fRROn2rItfxY13RrjE8x225DFtZS/uTQ0oR0LaZyzMHEEnCG9XHmH1Ys1PZ0=
+akdn.	3600	in	ns	a0.nic.akdn.
+akdn.	3600	in	ns	a2.nic.akdn.
+akdn.	3600	in	ns	b0.nic.akdn.
+akdn.	3600	in	ns	c0.nic.akdn.
+akdn.	3600	in	nsec3param	1 0 0 73
+akdn.	3600	in	rrsig	DNSKEY 8 1 3600 20250916161257 20250826151257 25057 akdn. lpYoLziwF6YSuqTuKhH5uSgmfe8WrDHpwoBb3iCpClK4WtQRT1WoLKOeW6A7mcSyF7ECqzXT+gJh9TW1l7gabB4BefkJGkTb99N7/OOjV4jHYbVyFD6BQIa9tlyco1M02g42NnBW1fePviZyBHYxH1CEtkl2hmWezi9QYRL7W0GZ1BHIm2eIX/fkR5RE1cTrTLYi0b5GvpESd+wqF/Sh13wWAKDn1er25PuvqfuDwj6lj4rDimSlPSQB4PPGSGKRcomPCURZYIjD9g04sDZgFrY4FxKCzumZK5zvbtuljp8YgGXEMGxZ1uKLVj6P3INyWD4Fdch3LeV7eLmIJnOLPg==
+akdn.	3600	in	rrsig	NS 8 1 3600 20250916161257 20250826151257 23418 akdn. LlghAENegkARsCk2LFo6bqCPPZ+KnbGkkNbp8Q4DXnNxXvN31lOu2ei5mNZKxI0EgVmlrTDPkHNUi9ciG8xIYiZM+tolETtGOarekLEU9ovzlaaEG9MvS9Ha1d/uiBZHSzJ4pSpnKvltdEUYIx6HzxpaXYhxBj6odeuOG5nMMGw=
+akdn.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916161257 20250826151257 23418 akdn. bCDA+53d8QUOp++yQ+MLkeP+cPNdzjfoB0oHn+LMZsdGVmf8AvrCYTgMw0moT0LVjK9seRU8lhh5Y7ct3Yc2FY/1jnykizwR0ibsdZzFWSvpaaDjtd0jZ4XXiRHqqjDjeb+65V6DBTNmqYvY9En4ypIphyUGcDnkCt3akBBAnu4=
+akdn.	3600	in	rrsig	SOA 8 1 3600 20250917010322 20250827000322 23418 akdn. EYl6XJ9Cl0U/SgVdGM0B/ZdDgUtFkT01MY2AJy109ipWshzLsHiAET26MImi6IcJ4Zvob3ysNIKwQp++DBLEEOLA/x+Ibu1P9zS1b5tvouuPeeuyLW5RBI54BW4ZYMJ8ITjK2ugCFSapnW6bIqyJtutq7sdA8junUvk5pFiwNLI=
+b0.nic.akdn.	3600	in	a	65.22.45.17
+b0.nic.akdn.	3600	in	aaaa	2a01:8840:002b:0000:0000:0000:0000:0017
+c0.nic.akdn.	3600	in	a	65.22.46.17
+c0.nic.akdn.	3600	in	aaaa	2a01:8840:002c:0000:0000:0000:0000:0017
+jli7dikqr44fcoclppa122j0fpsippku.akdn.	3600	in	nsec3	1 1 0 73 UIP5AIOOP1I109VT2JHKFJ7J7U76L0TH NS SOA RRSIG DNSKEY NSEC3PARAM
+jli7dikqr44fcoclppa122j0fpsippku.akdn.	3600	in	rrsig	NSEC3 8 2 3600 20250917010322 20250827000322 23418 akdn. ufE6jyojmMz3UJYwwoILOBzWhJma0yCZaW2OxvKAqvSshrcA54Jb0wV8tL+JKMU04PPDaLBeMDBOYb0vS4c7ubYDekuJEzfOITRZeyvr0DzaZdqf+3Daqg+5kJuquixtPUTXbLSK/xvZqibAszfJy1/Ul9Kaw/DyBaRqcMiSv+I=
+mam.akdn.	3600	in	ns	cory.ns.cloudflare.com.
+mam.akdn.	3600	in	ns	erin.ns.cloudflare.com.
+nic.akdn.	3600	in	ds	34404 8 2 6A3865563E561B55837E609B5A93FFCC92E0B6611BE50B44B2F49C67FD7E1BC1
+nic.akdn.	3600	in	ns	a0.nic.akdn.
+nic.akdn.	3600	in	ns	a2.nic.akdn.
+nic.akdn.	3600	in	ns	b0.nic.akdn.
+nic.akdn.	3600	in	ns	c0.nic.akdn.
+nic.akdn.	3600	in	rrsig	DS 8 2 3600 20250916161257 20250826151257 23418 akdn. kNBdjNxlcp45lQjHRL9tnjUN97ta1kkfCcD0rTVwEzOd5drF4bpFrLyX+/uH4Wd41zshOmILSp+X+L9qt2JB/GgfmwDr+B1KMkBBPwmJTmr19+C3DcaRd0xc3F2OGbkiI1AnM3/6sVrUQBKvnIlGWynpuQesa9cTxP1DPbVjc+c=
+the.akdn.	3600	in	ns	cory.ns.cloudflare.com.
+the.akdn.	3600	in	ns	erin.ns.cloudflare.com.
+uip5aioop1i109vt2jhkfj7j7u76l0th.akdn.	3600	in	nsec3	1 1 0 73 JLI7DIKQR44FCOCLPPA122J0FPSIPPKU NS DS RRSIG
+uip5aioop1i109vt2jhkfj7j7u76l0th.akdn.	3600	in	rrsig	NSEC3 8 2 3600 20250916161257 20250826151257 23418 akdn. YcBLqSOGhm1+mmrSftsQ1Y1b6cA5Xz/PyJ6AR4jHx4qlWJ4kE/HqmJ+8QLywSz9USUzzuml1j4eQMUTHdu1K5Q4hzIp2OZpk2NAVBUrwAFK5FImYRncPdRdGZrLT7nNSD3Hd0atiNqyEdgkMyXMk2l3qWwrFsOEohYxv4A83hIU=
+akdn.	3600	in	soa	a0.nic.akdn. hostmaster.donuts.email. 1756256552 7200 900 1209600 3600
