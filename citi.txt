@@ -1,0 +1,77 @@
+citi.	900	in	soa	ns1.dns.nic.citi. admin.tldns.godaddy. 1756190443 1800 300 604800 1800
+_forcedupdate.citi.	300	in	rrsig	TXT 8 2 300 20250907124349 20250826054043 58533 citi. WTEYb0QhWXnpnnHkAg4g36zDQA1VtNByYvwUDZONS9gos7ZEC0F1wzDh5qHOktdfs57kIC0mkyymJooISXVlwAl2qzVBAZywiRzOicC+h3bImFjj4QElE45VoNg1QM1zp3irWXg/gm/Up4WD9lS608O2BKUsvDDVXwsl3ByqmxdA8cmDSpdLbYHOWUU9NhpsF2bNR7wkhWL3x3scexsLXQ==
+_forcedupdate.citi.	300	in	txt	"1756190443"
+a.nic.citi.	3600	in	a	37.209.192.9
+a.nic.citi.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
+b.nic.citi.	3600	in	a	37.209.194.9
+b.nic.citi.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
+btrmrrleetv9igvrfqra2brqj6ecil1i.citi.	900	in	nsec3	1 1 0 - E6JN1U2R779OM0G4PNEJ8TT4O4RSV0LP NS DS RRSIG
+btrmrrleetv9igvrfqra2brqj6ecil1i.citi.	900	in	rrsig	NSEC3 8 2 900 20250904161037 20250821152835 58533 citi. 4PeKi05CvK8iIQPNOnOvCND5bIQmofKV1B1NnUp5hM+oxCbdrmZEjYX6fKkbVXB/pBYq7oZ63T9UaOZsmBZPbMjwCgz2yKdiiUN3X+lVG9ysJNJ5hxFGdz9pStFlsbNUoir16aJ40qpeXlL1lIufqHKhR6z1XyBJfwJUxugKWzAOJIl+u9ok90LD6nu68gpXFxS5wsZkmIRhUtrDkk8DGw==
+c.nic.citi.	3600	in	a	37.209.196.9
+c.nic.citi.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
+citi.	0	in	nsec3param	1 0 0 -
+citi.	0	in	rrsig	NSEC3PARAM 8 1 0 20250904161037 20250821152835 58533 citi. eFtBjJG6h3/nAtssgtARELreL6HvNT55W5catiWxozfXtLigRCU6jXHvi2N1zl2Um4yl6PJJKT4EEuQPrTQ7P3Sj0wltaDeMJqP11bEgfmLQ2vhX8tUFsXIyciTuyuAlVoz13h8OBfmwv2scLC0x0b7oEsXs9EGvA1IhYp/+fy/2PM0qrEmR22Xm55BLTXelhrM7YGEnjBp41X9RuZxJuA==
+citi.	3600	in	cdnskey	257 3 8 AwEAAcQDfeqNPHiRSg4I1gfPr7aVliMYJ0yvZUSlNzP9tFTJgPAFJ6hZs2R4Jrja2BT/b+BGMS69gLhzjstUNukce8JHvXYAyMTCmIa9+eMxPTnF8YKPKYlfSpGPa6gDZZ8zzBWF7EETqMOjBJRNEtUD1pbAaTmjjCgXvXb53Qr84go83d3Wbp52qkGwLjT8fuiQqt//56amMIv8IileOTP+1UISxsf1SMpuh1CPHaAate29Uvaylsj6MkX4jNswgYwAgxcNtRo37h3kV2q5ExkwVXnlKeJIjbT94fBHsst8EPbCVlcj8xHLbTXlAmnw/i6Xh8v+1RAu7ZPI3V/9Sv0EHFc=
+citi.	3600	in	cds	44680 8 2 D1435F2313EA1D9B9A4AD59FC626DB5DC1BCA1DFF3EA52060C1AABA786128FCB
+citi.	3600	in	rrsig	CDNSKEY 8 1 3600 20250904113744 20250821113736 44680 citi. lrd/sy+Vn7K0ax4VttITNIuBMtY+6T5M69/KSK44a3GHoMBn5TgU0tzMUMtzyf59/bwQh3SueEIDMeZJFtsxfRHcLNXlZC238Ucv0+FRO3k6r0H2uqVhihEFWS3PJ/ngQgW6d6UGelcaUKUf+lmLfU/148OrPRAf+v9Pkn7mTMewbKdMnpTQdLM6Qq1mkom7vHRJBLcjxlITfRc3F6V8wQ2p6CTL8vdmhI9cRRM1tgqf7E0jtorqeDKcs8SHvrtyLPKSU9ZHO1ILOtRdzQB9MezjsF3FxVr1xNs+Hqg0kMp/1viA3NsO79Otj4hprdpjg6QWKPDhGqiuOVKvp87m5A==
+citi.	3600	in	rrsig	CDS 8 1 3600 20250904113744 20250821113736 44680 citi. qWqcf9VnKsrkYXzWKTXu5NSZ3uEwr8fBNyS0BSmvzTdDj8oMsGahfvRN0SLzbwrhDx6YDVxxfQleF5KtgwwblhSlbs9OE3UH3SeTuYoFigVNZb4aEXMe7wz2bqhgc5zu1OGOM4wK4dE2Oxrqbi9UvdCavsZrSQkO1ItcCYXsAjD4ox9Lk1BGFP9JReyvxKMBm1gAm0PMZwhRqqdI8QkTcOdzVf8eoNwTL7KxfO2RnnpdDa4SC6gV90fZMWn8htyixZO6AVLdem7W7emSs7luklVn2poVYnWM+gJtIN4cDXXsRdQe1ezeU5Uhenq6rZrDizVH+6rCN2XoXhlLzjfwKA==
+citi.	7200	in	dnskey	256 3 8 AwEAAee9/FZw6a8vFwTQSAtfSu1nBmKCUE1rsfBETmaAw/5uTkex7FUjFh1HUEYqxw1YlX57bNRgrmNzTPlHumEUxxaF5XGVrYUfuQnjVt1TggJdgWwNK9aoSRuEM+fVA4Nl0JTZltZG+UaFi/1E5rzixWd/iKyOxh48nHPFHT0vwudhKUBdnJND8V466RiouW0K9wlWVErt9FPgA4x/d/IWuR8=
+citi.	7200	in	dnskey	257 3 8 AwEAAcQDfeqNPHiRSg4I1gfPr7aVliMYJ0yvZUSlNzP9tFTJgPAFJ6hZs2R4Jrja2BT/b+BGMS69gLhzjstUNukce8JHvXYAyMTCmIa9+eMxPTnF8YKPKYlfSpGPa6gDZZ8zzBWF7EETqMOjBJRNEtUD1pbAaTmjjCgXvXb53Qr84go83d3Wbp52qkGwLjT8fuiQqt//56amMIv8IileOTP+1UISxsf1SMpuh1CPHaAate29Uvaylsj6MkX4jNswgYwAgxcNtRo37h3kV2q5ExkwVXnlKeJIjbT94fBHsst8EPbCVlcj8xHLbTXlAmnw/i6Xh8v+1RAu7ZPI3V/9Sv0EHFc=
+citi.	7200	in	rrsig	DNSKEY 8 1 7200 20250904113744 20250821113736 44680 citi. TMxyNKNkvcKU4XBXPFZ49ZV6g59Co5kpuSiHEI+WFsjHErBqDQFzOHmIXe9rWtsp/SE2JYEEMY9OR30du0Z8q/kfsG1yxiHUByIPc2OXyQXdGUrDZ1ftO4QYwjh0kbmQJ0YkuPWDgJU+NpoR+y/Nzy2/wMFjxAamza9Lx2ocJ0WTsZ201I45NK4TENIsrFU4VbUmXgCrIE6+CGaTTQJF0fgk+fYOtgUzE/Jd5w+MRTzFj/+qHsZ/Yl2gMxkKEE1zzRdipP3BS/q6SGRVTDy0ZNIix3irmFS2AehaDjmhA7+V/JgYA6JKKl7lEBszkhyF6oKCuj0CtppzkmCyCK7+kg==
+citi.	86400	in	ns	a.nic.citi.
+citi.	86400	in	ns	b.nic.citi.
+citi.	86400	in	ns	c.nic.citi.
+citi.	86400	in	ns	ns1.dns.nic.citi.
+citi.	86400	in	ns	ns2.dns.nic.citi.
+citi.	86400	in	ns	ns3.dns.nic.citi.
+citi.	86400	in	rrsig	NS 8 1 86400 20250904104751 20250821101626 58533 citi. pj70raslQl9dUkKnxDshxRIIG+X4BaMQmJZQ4cwlNBBS3tSfivJXg5vGhXwjZpmRbYXSnmndV1Nmq+6tQL9pPek/JSRiU1At/PmMQjuihAaHW4BvU1z11o4I7K8+yx8hbnkueyvTEWAdj4xDhNWpv/CxPxyWfDWTRTKtaQeVx8CQufrKZ1aO3EYTPhahs7KGKCTNKTdbtguw3FJCTRA64w==
+citi.	900	in	rrsig	SOA 8 1 900 20250909064043 20250826054043 58533 citi. OkP4xd4wj5t/zp6ouUVDwBx2dgFdzStJzq29ntn1zr/ElAmorrY/DtFxUR/9aNDBbE3ctLtaI6RHHsOBfXl3soht353GdEUGVxqqM3K+kipSGhkur7di4OAnEfTcQVzMGHGZnKDVmeW5VjI+469nubaMZgr6Ag2upswXWPg4nPfx0G2PhYWrnBZTiAEP68bDxrtPBW8fMs8ipulI/ZoHHQ==
+d.nic.citi.	3600	in	a	37.209.198.9
+d.nic.citi.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
+e6jn1u2r779om0g4pnej8tt4o4rsv0lp.citi.	900	in	nsec3	1 1 0 - PR2CSSO8S77MAAL404QEIDJ2NMI5CPES NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+e6jn1u2r779om0g4pnej8tt4o4rsv0lp.citi.	900	in	rrsig	NSEC3 8 2 900 20250904113744 20250821113736 58533 citi. vBWWgdKkwcW9upi4NDjYO+JSUZlEBwtp+BlzSEb40LRLjjUFaHqCu7MNMNQCqkbPPvVOGgOMHTA6eLzWuxR+GN1nMiPoicAACIL+kX19n3jEEBmvbUE4FpDUiCC3Sebk98zzLh6zZuhZgsiCABT2xYfZvfgEF3P3x1hHAQBtrNYCOU2SdzKk6WuyIljj2XDy4b70PniOGVq1glYwwlQySg==
+home.citi.	3600	in	ns	pdns196.ultradns.biz.
+home.citi.	3600	in	ns	pdns196.ultradns.co.uk.
+home.citi.	3600	in	ns	pdns196.ultradns.com.
+home.citi.	3600	in	ns	pdns196.ultradns.info.
+home.citi.	3600	in	ns	pdns196.ultradns.net.
+home.citi.	3600	in	ns	pdns196.ultradns.org.
+m.nic.citi.	86400	in	a	204.74.104.90
+m.nic.citi.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+n.nic.citi.	86400	in	a	204.74.106.90
+n.nic.citi.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+nic.citi.	3600	in	ds	11347 8 2 5FD7C960EDA077CEB52378197E5AD8CA15BAE77BC2F6C4DDF2CF0279AA7B1534
+nic.citi.	3600	in	rrsig	DS 8 2 3600 20250904104751 20250821101626 58533 citi. z72Mt/5wnmPWvXrOdp7pNgP8Ga9RiJ4wqL11e6XSR9OgR7XN7ZAgWZQEoq95Wao/m10XXc51FxcoAQMpp/gLhclXnWU83j3Kcov5MkPdpA3DZvi9yyJRU9zsPFjUKu5cbHr3W48VShlhFOBYoPso5WaBW5GYX7yFLuzhdEWg3KoneoKhjqyjPJaThPPFFSUSHblywYXI+1Wzd6rhxdV5yQ==
+nic.citi.	7200	in	ns	ns1.dns.nic.citi.
+nic.citi.	7200	in	ns	ns2.dns.nic.citi.
+nic.citi.	7200	in	ns	ns3.dns.nic.citi.
+nic.citi.	7200	in	ns	ns4.dns.nic.citi.
+nic.citi.	7200	in	ns	ns5.dns.nic.citi.
+nic.citi.	7200	in	ns	ns6.dns.nic.citi.
+ns1.dns.nic.citi.	7200	in	a	156.154.144.213
+ns1.dns.nic.citi.	7200	in	aaaa	2610:00a1:1071:0000:0000:0000:0000:00d5
+ns2.dns.nic.citi.	7200	in	a	156.154.145.213
+ns2.dns.nic.citi.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0000:00d5
+ns3.dns.nic.citi.	7200	in	a	156.154.159.213
+ns3.dns.nic.citi.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0000:00d5
+ns4.dns.nic.citi.	7200	in	a	156.154.156.213
+ns4.dns.nic.citi.	7200	in	aaaa	2610:00a1:1074:0000:0000:0000:0000:00d5
+ns5.dns.nic.citi.	7200	in	a	156.154.157.213
+ns5.dns.nic.citi.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0000:00d5
+ns6.dns.nic.citi.	7200	in	a	156.154.158.213
+ns6.dns.nic.citi.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0000:00d5
+on.citi.	3600	in	ns	pdns196.ultradns.biz.
+on.citi.	3600	in	ns	pdns196.ultradns.co.uk.
+on.citi.	3600	in	ns	pdns196.ultradns.com.
+on.citi.	3600	in	ns	pdns196.ultradns.info.
+on.citi.	3600	in	ns	pdns196.ultradns.net.
+on.citi.	3600	in	ns	pdns196.ultradns.org.
+pr2csso8s77maal404qeidj2nmi5cpes.citi.	900	in	nsec3	1 1 0 - BTRMRRLEETV9IGVRFQRA2BRQJ6ECIL1I TXT RRSIG
+pr2csso8s77maal404qeidj2nmi5cpes.citi.	900	in	rrsig	NSEC3 8 2 900 20250904161037 20250821152835 58533 citi. N4QNlRRCNBdJozWsD7IzhPGitskEVEbB0DkLU9No+/5Dstd57QCnCV40gn1BJvmdtgWshLLFojQlTw/aH67QtVhh84ufd7Ea+SGkqVblpKB/ML5+JejpF+Ke9Zji33xeftSSnIHwJVKiq2wVTDapjCPLt6zgrGcvOeEBhTljI3qaeLsUEhpeuBaGPUKDRBdawY+EutoRjOCykOXCdh9jkw==
+www.citi.	3600	in	ns	pdns196.ultradns.biz.
+www.citi.	3600	in	ns	pdns196.ultradns.co.uk.
+www.citi.	3600	in	ns	pdns196.ultradns.com.
+www.citi.	3600	in	ns	pdns196.ultradns.info.
+www.citi.	3600	in	ns	pdns196.ultradns.net.
+www.citi.	3600	in	ns	pdns196.ultradns.org.
+citi.	900	in	soa	ns1.dns.nic.citi. admin.tldns.godaddy. 1756190443 1800 300 604800 1800
