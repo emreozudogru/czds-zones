@@ -1,0 +1,83 @@
+cbn.	900	in	soa	ns1.dns.nic.cbn. admin.tldns.godaddy. 1756190423 1800 300 604800 1800
+_forcedupdate.cbn.	300	in	rrsig	TXT 8 2 300 20250904041017 20250826054023 35055 cbn. qT5nUsrV4L2vNuCIJ6a6+chfIh0EE8q80/tzRE/mbDLG3lP+poMftGxBajlmrvAqui8PXbdMop8sACp9g7OBlBAb8wqyTb+2os+ToTfYI0/Yhb5E5qh7Hbl7XuECXEn9ymqisKiY1IXE+8doKM3XKuGNpbyACx9U0o2AS2/y95L99RYrZaBibqRR6CYC85ul0opbQFNajdAWwOivn1Stdg==
+_forcedupdate.cbn.	300	in	txt	"1756190423"
+a.nic.cbn.	3600	in	a	37.209.192.9
+a.nic.cbn.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
+b.nic.cbn.	3600	in	a	37.209.194.9
+b.nic.cbn.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
+c.nic.cbn.	3600	in	a	37.209.196.9
+c.nic.cbn.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
+cbn.	0	in	nsec3param	1 0 0 -
+cbn.	0	in	rrsig	NSEC3PARAM 8 1 0 20250905141949 20250822133605 35055 cbn. PGa30xgr0ZkCtUn17cvinbnuo1RLNfYh7+Pk3jTezSsPjon7M/Ll6zeX8re3Kr/pjlvgIqEGJlxaTAdFX3cdkJxqIotgD2BQFXieuRzD7zl3Sh9k29jrPVHUQHVpX0gAdqNSlvmq9h28a8Ms1kcX+kezcofeEeNVsCpsC4NBRJKn91zB9quMKjpQbTmWjkL7UHHePPyCqoWhg6yBRiTnQA==
+cbn.	3600	in	cdnskey	257 3 8 AwEAAbogVcCziy2CXBB0Q0cSn87IjwrkN2hK0LQTK1rABGD20bXu/2YKDfLBy6yKYx9jXJQ4Ce14RHCWQLq6ErUw5eNCbHb3+oHroudcGwwItOcREs7OpA+FkopwbHB9HM4CPV0NtEgMlBlPNR28QXEPlYUKqWQV8PWBt0zXYA8ocqMJfQIpVz1Y4XoMprYC5wZ+/DAHLwWd3+exBK04vENauWJQXN0EGhHL/Qr6oWw7z8kw9bU6J1o0Mndu8pvpkwSGJShbDUxjj8+f0/7ZW/D23S7T60YlcGrM+RCy+L9cKBfH1vpda/hYFi5mCwc8aw2hY/8lXCsdJCuGL4TI+Q4pmU0=
+cbn.	3600	in	cds	38299 8 2 1907C6C2996FC1DF2198492F294525824C6321AE8A891284B0BC74EFC2083538
+cbn.	3600	in	rrsig	CDNSKEY 8 1 3600 20250904071455 20250821070118 38299 cbn. T9L7IviDVC3o5dh3hDSF4P9HXx3bEC6aeYClto+2ByEgXoZVv5FL0g7jf3R0aL3hLG5yhJG73NIv6Hz3M+chrn9Odfq3BY7BtTzu4jQ86+rLzpd86L/2uDDUeXUXA1YPO4+0JrWv5J6EAr9xdJuLqN1zRllRPaCFQ1vy7mVde4E1oT1k+msW2gv6V1LIJ7Il0CQZeZxExqpEcykuHQSoMcD4ZyxBLkV8ecqAOFJPXT6/iLgD2zybuiEhA7IIxiM6Xt3wM8VXp+WXFG80+0d2S3Ua1rYBe3DqFusBWQ91RvL4mKTCrPA/VfmLirIuXsvEYZV7ZfnbPyCcTOJvE/DVtA==
+cbn.	3600	in	rrsig	CDS 8 1 3600 20250904071455 20250821070118 38299 cbn. UEU+L5VvMasP7AMuD+iElsR/0177H1rwW+Hd2uHNLux9hKTPyZgJTHdDmkszBaRAtaF/FCUVfCqVrOu6OG8aaaybXm4haYlhc+ZSxsOIPbCw8RleWh+8X+ONgB3DPcx5UqSPScWN6qeG53R/zTlPfoGrExXN5rxcMzz8LiHupW90cSOX4cMMbeSVRjrV8qxC/91aH/Driaku4WE5tmQGDP5P0UoPnSttzXAbs88rGEDFreHCXy3KqRtMNhM/vbLeFGFlI2/JG/1UxwB/8WUAI/Za/7jqvC7sxFlQUVIlSkcHOvtIGg0Nq5zruyF/PZPqlT896YzwkhdSLqN7Fo7jsg==
+cbn.	7200	in	dnskey	256 3 8 AwEAAc5wjj/QqT9CvMdrYqIJ094ltvVMXRUDMzk+RKIJYUjPrPx21ucGYwfi8zhKl2AEsHAIXe0ejQA6cMgNoZAENhOkiHcUrnE2LrkOov/7gw7qHqcRa/nY15FSa7+PuZaO+UUp9LXXeNGCxZZJq6v97HuZNQIc3dEbS4r6GOxhB8K5sxn2Y1xi3mkaHvdg+J4/27rSrniX6+c3XxdUbCn8N8s=
+cbn.	7200	in	dnskey	257 3 8 AwEAAbogVcCziy2CXBB0Q0cSn87IjwrkN2hK0LQTK1rABGD20bXu/2YKDfLBy6yKYx9jXJQ4Ce14RHCWQLq6ErUw5eNCbHb3+oHroudcGwwItOcREs7OpA+FkopwbHB9HM4CPV0NtEgMlBlPNR28QXEPlYUKqWQV8PWBt0zXYA8ocqMJfQIpVz1Y4XoMprYC5wZ+/DAHLwWd3+exBK04vENauWJQXN0EGhHL/Qr6oWw7z8kw9bU6J1o0Mndu8pvpkwSGJShbDUxjj8+f0/7ZW/D23S7T60YlcGrM+RCy+L9cKBfH1vpda/hYFi5mCwc8aw2hY/8lXCsdJCuGL4TI+Q4pmU0=
+cbn.	7200	in	rrsig	DNSKEY 8 1 7200 20250904071455 20250821070118 38299 cbn. m3EN+9oKWkoasOYL7RT0tEuPmAEQFRHbmQwGskParbQuwUpz9ofJUwELv8//NfX9culv7gq+ibXp4aEE+70js1xxe5v0TfPHqEkt9P1NNTXBXE5p2khuY6p9jDiJn1WwxFZsgPFfGEaGGgpmEkjRFfqfSQGswQErqTb3eYy9fduiOFdCtGjU4rOG/92a7Qrwx3hOruUOKFJ+HaFxx3i5L1w4NTEibL9fL3U5BDE8Tl7P7RhfoVKxaPh6odc3F8ffirBe9kwe05Ao3Z29FeFTqVygoK8zu9uKSSRroSB+MkQ89TxZUORnSsQ1TxOkVXXvGMw4d3gXdONwXzp5gWJXuA==
+cbn.	86400	in	ns	a.nic.cbn.
+cbn.	86400	in	ns	b.nic.cbn.
+cbn.	86400	in	ns	c.nic.cbn.
+cbn.	86400	in	ns	ns1.dns.nic.cbn.
+cbn.	86400	in	ns	ns2.dns.nic.cbn.
+cbn.	86400	in	ns	ns3.dns.nic.cbn.
+cbn.	86400	in	rrsig	NS 8 1 86400 20250905162933 20250822161220 35055 cbn. vSsrbJHKUufNYPEPXVC4qQpJpUqNlbLy1ucOperdUC7VS3vvB20kaejDF3zNDL7KT5+725IU2KgEq5WlS4if1IJOp9/l/yWhWnhHU3sMaEdgvhhuLgAp/a5NiBLuBvnrkDusfES6Mw844YqpUIrxaNaBKPbRhUaXaavW9WaNqRSZxVkSWEbf62DGKhK1zE2TVPRt6qenOH78NWQiaS+cPA==
+cbn.	900	in	rrsig	SOA 8 1 900 20250909064023 20250826054023 35055 cbn. Wt4xbzUSO8uVetAxvehwudOjYro+9iLg56YKz3VCGzawS6sIKQkOwqIM6/q3xkWvaQujlbZ7jkxtkKC3sXOsrfiiVOfZfnBPrFZJ6El88+6y3sYShPwD4GVjWZZyTo6f1mbsmfpiC1K6T1gWbBzwqZNpL7x0I+F8cKzi85wWd07weXsBhVKfGXXkp0mRA2YjrWI7xMFydlXSBirbQJbz/A==
+d.nic.cbn.	3600	in	a	37.209.198.9
+d.nic.cbn.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
+go.cbn.	3600	in	ns	a1-228.akam.net.
+go.cbn.	3600	in	ns	a18-64.akam.net.
+go.cbn.	3600	in	ns	a2-64.akam.net.
+go.cbn.	3600	in	ns	a26-65.akam.net.
+go.cbn.	3600	in	ns	a3-66.akam.net.
+go.cbn.	3600	in	ns	a5-67.akam.net.
+iampatrick.cbn.	3600	in	ns	a1-228.akam.net.
+iampatrick.cbn.	3600	in	ns	a18-64.akam.net.
+iampatrick.cbn.	3600	in	ns	a2-64.akam.net.
+iampatrick.cbn.	3600	in	ns	a26-65.akam.net.
+iampatrick.cbn.	3600	in	ns	a3-66.akam.net.
+iampatrick.cbn.	3600	in	ns	a5-67.akam.net.
+ksa65885iihfi45cc2mc0to0rnj39fqm.cbn.	900	in	nsec3	1 1 0 - NMD58D9H5VE2NRRU7CNAAT0F0VH0LQ47 TXT RRSIG
+ksa65885iihfi45cc2mc0to0rnj39fqm.cbn.	900	in	rrsig	NSEC3 8 2 900 20250905141949 20250822133605 35055 cbn. F5PALHCY0SClyRkoA83OgEke5JlbxtVS3WwgL17AWAsDSDa1r0l5jwwYPjZA+JKDs7tZuOGj9nL0lSEvrcx86SbsZMc0uB/dMybGNe2tCPTTfBKbouhG9ON0y01uvBu2JbJb8T7sVCHLBbMYC3KKW7hO0hX+nBAj6FSDdZ6TfQtEBQ7nMgeJXCW0T2adS555sa1IrKip7oGYrRE9B1SUdw==
+m.nic.cbn.	86400	in	a	204.74.104.90
+m.nic.cbn.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+n.nic.cbn.	86400	in	a	204.74.106.90
+n.nic.cbn.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+news.cbn.	3600	in	ns	a1-228.akam.net.
+news.cbn.	3600	in	ns	a18-64.akam.net.
+news.cbn.	3600	in	ns	a2-64.akam.net.
+news.cbn.	3600	in	ns	a26-65.akam.net.
+news.cbn.	3600	in	ns	a3-66.akam.net.
+news.cbn.	3600	in	ns	a5-67.akam.net.
+nic.cbn.	3600	in	ds	3094 8 2 3522C9375A6AFE630D98E9C5031DC779991F1135BA65591B266F2CD6E4AF9E29
+nic.cbn.	3600	in	rrsig	DS 8 2 3600 20250905162933 20250822161220 35055 cbn. m+BMdjaCcbuP150POB38JwVpgd5rG5mh4t1kNHchL50PU/BUtVWuTDWhUO++53lrnLKyXkQQqTLR/O/0n0/5//JGpgF7qb+ppgLobKqpFBthcng98UqfjjsNYZl9tacmXru28gnbs0C6HgS+8dGz1I7JxpPLYT8sEJ3vYcf4+ylfWtE8XsqLm+e+VQ6k/JTiqZ3W+ahHStLSWhPARFwL/g==
+nic.cbn.	7200	in	ns	ns1.dns.nic.cbn.
+nic.cbn.	7200	in	ns	ns2.dns.nic.cbn.
+nic.cbn.	7200	in	ns	ns3.dns.nic.cbn.
+nic.cbn.	7200	in	ns	ns4.dns.nic.cbn.
+nic.cbn.	7200	in	ns	ns5.dns.nic.cbn.
+nic.cbn.	7200	in	ns	ns6.dns.nic.cbn.
+nmd58d9h5ve2nrru7cnaat0f0vh0lq47.cbn.	900	in	nsec3	1 1 0 - SS8IMPT4JUHKCNGU91RTFUJ8NP5NU7S8 NS DS RRSIG
+nmd58d9h5ve2nrru7cnaat0f0vh0lq47.cbn.	900	in	rrsig	NSEC3 8 2 900 20250905141949 20250822133605 35055 cbn. bMXhOcPpMbkdegYIDp61aiB5/ZTGRahFymnrZendDy0cEPwphIW1MA4kWtxEYSp+hsCVlLbnvSC335npTJ1MWH7sZjmkQntThTstb60PX2O1Vcht+uBQ4ELwnNc5Z7U+yixobL2hOH7r2piMl1MV4Z1btDkEvICFtyZqhi0la57eEvqfbLVRuwv9fi19yVXxGwLwxjUEKZ671vAn/psJsw==
+ns1.dns.nic.cbn.	7200	in	a	156.154.144.35
+ns1.dns.nic.cbn.	7200	in	aaaa	2610:00a1:1071:0000:0000:0000:0000:0023
+ns2.dns.nic.cbn.	7200	in	a	156.154.145.35
+ns2.dns.nic.cbn.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0000:0023
+ns3.dns.nic.cbn.	7200	in	a	156.154.159.35
+ns3.dns.nic.cbn.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0000:0023
+ns4.dns.nic.cbn.	7200	in	a	156.154.156.35
+ns4.dns.nic.cbn.	7200	in	aaaa	2610:00a1:1074:0000:0000:0000:0000:0023
+ns5.dns.nic.cbn.	7200	in	a	156.154.157.35
+ns5.dns.nic.cbn.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0000:0023
+ns6.dns.nic.cbn.	7200	in	a	156.154.158.35
+ns6.dns.nic.cbn.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0000:0023
+ss8impt4juhkcngu91rtfuj8np5nu7s8.cbn.	900	in	nsec3	1 1 0 - KSA65885IIHFI45CC2MC0TO0RNJ39FQM NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+ss8impt4juhkcngu91rtfuj8np5nu7s8.cbn.	900	in	rrsig	NSEC3 8 2 900 20250904071455 20250821070118 35055 cbn. VF79NTwwe6QhFn4zloL5lMLBbemDnS/zXMHHblIMWsmz9n5KddpIWZcM/DYgS+BPVM/BOh9QcnnmZTsaP692ZiUa5j65/X1Y9jmQZ46TzbWL3a2OTE3sMgb7E+wrI0683/6/xZhZA6zWzDFvtWRlcUNUwGco2N9AWCsn4FladIIgVFf+VUJcD2ABKdNpZOkxGyzh37FP6+0J95CYtFA9jQ==
+superbook.cbn.	3600	in	ns	a1-228.akam.net.
+superbook.cbn.	3600	in	ns	a18-64.akam.net.
+superbook.cbn.	3600	in	ns	a2-64.akam.net.
+superbook.cbn.	3600	in	ns	a26-65.akam.net.
+superbook.cbn.	3600	in	ns	a3-66.akam.net.
+superbook.cbn.	3600	in	ns	a5-67.akam.net.
+cbn.	900	in	soa	ns1.dns.nic.cbn. admin.tldns.godaddy. 1756190423 1800 300 604800 1800
