@@ -1,0 +1,51 @@
+virgin.	172800	in	soa	dns1.nic.virgin. hostmaster.nominet.org.uk. 1634644148 900 300 2419200 3600
+3m77kg62j0kudnvjtsmq63pkkj8b9p48.virgin.	3600	in	nsec3	1 1 0 - PSJG66HRDQ3741AKT59PRPNA6KDPVJQD A RRSIG
+3m77kg62j0kudnvjtsmq63pkkj8b9p48.virgin.	3600	in	rrsig	NSEC3 8 2 3600 20250930145729 20250826141906 1509 virgin. T1fjNcSZ8/iHJuR5dF15EcdEk8pCGOx6PwpylnxLNwxxWg57K6KYjtzfg+kAm5k4cfUj2ZW8qGj0ADeBhz4qNGvSFliFctY/lasbU5svdarIYcv6CRe9hxGGb6EsNqPFS7FbgRtC5PVt98zpvPkKDNFQhqvlNVA+Mq97KORySHDlUf6brgYS2Ttyc2C8/tmvqebQo8q82nsm6Ynqi3mZvn3iEj617QXFF7QBVKqsTH7DnOW5tcUnzcvpFmvLzImbxr8nnv26hTa5oBbp9I3euItkSnvOo1rEfSQa55+QxqUkilt21jazrITQUG4RtlDbtgbigUG5RKfiXJTE6VSSgw==
+dns1.nic.virgin.	172800	in	a	213.248.219.40
+dns1.nic.virgin.	172800	in	aaaa	2a01:0618:0403:0000:0000:0000:0000:0040
+dns2.nic.virgin.	172800	in	a	103.49.83.40
+dns2.nic.virgin.	172800	in	aaaa	2401:fd80:0403:0000:0000:0000:0000:0040
+dns3.nic.virgin.	172800	in	a	213.248.223.40
+dns3.nic.virgin.	172800	in	aaaa	2a01:0618:0407:0000:0000:0000:0000:0040
+dns4.nic.virgin.	172800	in	a	43.230.51.40
+dns4.nic.virgin.	172800	in	aaaa	2401:fd80:0407:0000:0000:0000:0000:0040
+dnsa.nic.virgin.	172800	in	a	156.154.100.3
+dnsa.nic.virgin.	172800	in	aaaa	2001:0502:ad09:0000:0000:0000:0000:0003
+dnsb.nic.virgin.	172800	in	a	156.154.101.3
+dnsb.nic.virgin.	172800	in	aaaa	2001:0502:2eda:0000:0000:0000:0000:0003
+dnsc.nic.virgin.	172800	in	a	156.154.102.3
+dnsc.nic.virgin.	172800	in	aaaa	2610:00a1:1009:0000:0000:0000:0000:0003
+dnsd.nic.virgin.	172800	in	a	156.154.103.3
+dnsd.nic.virgin.	172800	in	aaaa	2610:00a1:1010:0000:0000:0000:0000:0003
+monitor-nominet.virgin.	3600	in	a	127.0.0.1
+monitor-nominet.virgin.	3600	in	rrsig	A 8 2 3600 20250927091456 20250823091422 1509 virgin. a+63inJRHg2oWkpLqtGAljYfb3qzM412aojUK2cDc3Edz4OKnQ71GXjwa+hWRAs1ufcpuSBCWl0PMghj+1bJI/j3tZpPgOaLSmCWDntn2xjCKfoWTTBpk/7RYR/E+LnzmgdFBbr1NDYk4SqMCcva5vB/ivpdfvTo8ck/Zf4wnSk1MV8A/J8KMGGd05QYQAO81JGtmfadrnYSnVdQA6qAEcTtleoAlRMy/dBtRyWox58j5TSANCxCCEqEevMI4+k0TyeSt/Ut89VGXrHwcGrYCKwXVvUy/B0rKl0la17XMZulccSU4lgcjPnMVICA2NF7VIBeH+h3Zb0pHRdNLIHgWg==
+nic.virgin.	172800	in	ds	1729 8 2 46AD71A576090FD98B3473E4E2EA061AB86D10C7865AEDC95AAC6CE9602A43B2
+nic.virgin.	172800	in	ns	dns1.nic.virgin.
+nic.virgin.	172800	in	ns	dns2.nic.virgin.
+nic.virgin.	172800	in	ns	dns3.nic.virgin.
+nic.virgin.	172800	in	ns	dns4.nic.virgin.
+nic.virgin.	172800	in	ns	dnsa.nic.virgin.
+nic.virgin.	172800	in	ns	dnsb.nic.virgin.
+nic.virgin.	172800	in	ns	dnsc.nic.virgin.
+nic.virgin.	172800	in	ns	dnsd.nic.virgin.
+nic.virgin.	172800	in	rrsig	DS 8 2 172800 20250927091456 20250823091422 1509 virgin. J3sBL8BWkZKX39Nr3SynWBRaR+2pjmMrNZijVghzRq5uabnVr8YBa84dotsyQm95bMH7zDCLvYW8JygHJXSROqiB8+covLAkSoN8abjVgQbyM2hgqcjOkow3JjzKOtx7uzxdsH5lDMhGncHjveSaUNQAlb4ica0KE8c2IVEI3b363RszUmaOaUZQzDoKOAHumrzSNmnAJWdpzk1OUkptAQbjtakgZWL/VQawgr6HyskqV0AcU8ThuPbNaQtG7z4cNeqMBMbRCn4QoGMqSSTRRzNtv0bBplsjHvLxjHZEc5oiFBUUhSiLN31mLB6poB6cDtfm+6CE9x8jVu9QAoA4ig==
+psjg66hrdq3741akt59prpna6kdpvjqd.virgin.	3600	in	nsec3	1 1 0 - TCD51LEF240ANMBJ6PUPKKFSPQM0RI8P NS SOA RRSIG DNSKEY NSEC3PARAM
+psjg66hrdq3741akt59prpna6kdpvjqd.virgin.	3600	in	rrsig	NSEC3 8 2 3600 20250930145729 20250826141906 1509 virgin. ciEzUhiujJTeYWVDkaGX0vJi7ypJgtWboIHhHUcDS87HGxIviZcFlbtfAaUN9P1uewNgquxB/EV2X8n12cjd04J6kj4hsNL7g3oImO4eHF1zeLNVDidl/idrlOhSgLocDTvEE56j2eBANEE77MtWRv/Ci5ZBj7wvObAKsqQ9Zzxwb2bJp7i75VMwXnoJXFYzZczrbUtgmbqy4DbqsRCA1htXNg0LQ4wjJqxK4G00i9w8yfghb3buF45jtDyM7l1WDaaxiKanqsqz6erddYzpQfyKayI72H/2xguzO4AjPe4CqskCziSCXQKgdKY2Vy+u8InNAte3k8hYGZL3dHU8XQ==
+tcd51lef240anmbj6pupkkfspqm0ri8p.virgin.	3600	in	nsec3	1 1 0 - 3M77KG62J0KUDNVJTSMQ63PKKJ8B9P48 NS DS RRSIG
+tcd51lef240anmbj6pupkkfspqm0ri8p.virgin.	3600	in	rrsig	NSEC3 8 2 3600 20250930145729 20250826141906 1509 virgin. kE34g86Zi45UvgGEFIbEqx2JJ2ZBzboBtQa8FZSUIQzTkc6tNvIh5T7WgJGc5qVXCJJzuyBfjbEbVPBFoCBocCK9EdmZoC7bXnxb7qQMYNCCL+g+BtGMxTC9AyOqGcfgN7Cd/AdeXwLXbJYUNNsGTNndgoBPvkeebixgYsNlRdAk+Y22JPMYTHx2bz0tQQkvVDcBoYJkzbL0HjE5x7sab8izfA+K/d1izer3Q03b7+XQ9yxbDlF1Azo1bMbMiXF+G21/yekUphzLlmD0aWljAoHqSFWpPlk9vXguZ2t+JFWOvCiejzsWF7p+aBqQ0A5vzUY3WQ0FATkNJoshd8CGKQ==
+virgin.	0	in	nsec3param	1 0 0 -
+virgin.	0	in	rrsig	NSEC3PARAM 8 1 0 20250930145729 20250826141906 1509 virgin. ECK9Sa4i4G1cUsDXco0+ICdxxtCFH64dpmE5KliGOuEJQsorCdZFdwd1EG+0eMATmmzidV+JxZ0A+umapMoC/ZTW7kaywmpQrRE4DLLWGJpp/c0lPRxTX+mZA2ikUNJylyhmpxdm68S6ouyoVzzfdXs+8t5g36LXEbh/GjUw9ShrHYiCorF+BWtnGymaNRv2Gy6OgrcMDW8gYvEM07GkKl2uRVDN6v2dvmJMEKnhOEs4RCaVqpDAfAd4NNjsL4kxvPP+5PHPj50jYZ1fK638nfw3eX4gbbiS181xp7VsAZsL/KiMlbIFz+3afdpQnTpFjC+af05yfP6jaXXNp+xHqw==
+virgin.	172800	in	dnskey	256 3 8 AwEAAdSIo/3rgCvHXXG/LwD04pIzbR+34O5rs/l+jQxNUAveGY0MW/g/S5h0Kkq0jva/4N7k8gAeDI8/uQPM/PWtZV42DnsN1xQx1pKG9+zXGoJmu7ZqwTHqPOt7iQW4XabTMNT7zF67m8wTwqwj0cyZSmCbipB7R4/2dzNN6zSnzi1gOguRjsSmYBCi1pFMpZ4sYjSl4bdOiuHvrpBF7iuhdYeOhTVmNeAIcKoxwSWtkRsSLgfDppAjjWotSMpToXfMBdK/G85ZXoNPhPZIvWNg+8TFZW7PvVRvCvNVQDbLENm0caEZlggu5tG1lhT+em3KJAD9frZW6LLwNAk6mTrGRD0=
+virgin.	172800	in	dnskey	257 3 8 AwEAAbQUS7Ew56JJ1XRMnr6iLU3vofdz1cFWd7dz1yRdPTgYNA+HGYrQu53d/m+CkkZOO+bPRi+EFpE6IZLnf8LCcBh7RCz9/QQW6CvKj9PeWPqYAn7fKLmR/NsqU4/q859Peb8Xf2FHps3JGS3zd/f3W22fPWZxEIGisBhMhCNF4iTzT3AzIwFQOM4H/Nnpbt5P8hna7e3EFIMIe1CiXaKAh3WI2JVRWQfeeQ3//GCLE13YnV9qucwpbxK9Q7RJQV6TPVTkkw3OdLXYvZuiane3wsBkez4Prz/RmfxY/FEdZOHrZJPGtR8FFBHR3RzaewZin7v+ardsyyzs6pv0KhCVuWE=
+virgin.	172800	in	ns	dns1.nic.virgin.
+virgin.	172800	in	ns	dns2.nic.virgin.
+virgin.	172800	in	ns	dns3.nic.virgin.
+virgin.	172800	in	ns	dns4.nic.virgin.
+virgin.	172800	in	ns	dnsa.nic.virgin.
+virgin.	172800	in	ns	dnsb.nic.virgin.
+virgin.	172800	in	ns	dnsc.nic.virgin.
+virgin.	172800	in	ns	dnsd.nic.virgin.
+virgin.	172800	in	rrsig	DNSKEY 8 1 172800 20250929074212 20250825070358 41930 virgin. ZbPJLrla/HxfDQPuaJhbuL0wF1CdH1pCpEIcu1W/t1h9Qh21Rmyu0hKkVqgALevYuw2xu5yKOal8oD5flF/jvgRcFstrvNaxHbZd8jtjhQwB62z0YGISsMi/TOOsYZk4bNRWlZs4vakPRcgJ5IIRHyAhf1jSD3/W9Z5C7GHJ1aIr7RzFdZ8OQMmIPQyXL/jWpkr236iU774YULk+nWRMwN9a+stO6/WCN7YNXdwMnyo+2pFpo9xGqui2x1MPx0z4nWZVueZv38PavzPe4nTRkszITo5mKROJv5F3vh0RlooxXzdM7uwbFLZTnF/Xzv/+F/blS1qi2Xakpw2+1uMi6Q==
+virgin.	172800	in	rrsig	NS 8 1 172800 20250927091456 20250823091422 1509 virgin. LHmJGOP2/2/yFC13wYrT/UZDvjNvfFxCkUNCmDE4VHEjgwIUao7+o20Mzip9Pi5uejTvMcaWGGN5oMz8U8qpUmNd/PFiGI9Y1jTHKWqCE6AXNtQXBHPOplyD1oph2m41tk8u6mgXAZeoLvNN2QyBcbyjnIqQX4BSs5S6I/QcEqp9Pa73CwtsTNv7T7JlwuwbdsSgMSyG0jUDbmwKXjHGJKwgnU1OjICdOHgRlZFbkryHVyeOyqIEh011VbpR0WMstAordeTf/tfeHqXogAh5zS9RHa37vLtzmExW6OhAuGXENL+1qm/JzQmAEKhEaK5UbNkkztGoVzkOiNownzCQuQ==
+virgin.	172800	in	rrsig	SOA 8 1 172800 20250930151906 20250826141906 1509 virgin. EP23s1tD8Xfr+hJ2hC1hVAzXaqEINxTikaelIByW5JPls/wcFAmKaxwm91TYHVEND/4Ua5VIA/r2njw0ue1itmrw9opE61nqhusMhR6Dm0SIEyTrnFYcBYWhGgtDxKo30xDaNN1Q/zOGiDHPv+mBalJWYBRip2//3su4ayxqAXKgWTrl2Yr3tJJEw0ybvq7QHByELdQF9KG/w3Dj39juu3rgBKcSkAwBlQ/khDpJNh04b90E4rWBF1y2+wD0Ret/vhcpgJuT89+TDRJxDW9TEBmIWA42SJFa3Ry73iHPeSVRuFcyrIN30vI7R1VCMTYmFPpisKDPbWchdLu9GYtvAg==
+virgin.	172800	in	soa	dns1.nic.virgin. hostmaster.nominet.org.uk. 1634644148 900 300 2419200 3600
