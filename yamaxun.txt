@@ -1,0 +1,54 @@
+yamaxun.	172800	in	soa	dns1.nic.yamaxun. hostmaster.nominet.org.uk. 1637067227 900 300 2419200 60
+dns1.nic.yamaxun.	172800	in	a	213.248.218.88
+dns1.nic.yamaxun.	172800	in	aaaa	2a01:0618:0402:0000:0000:0000:0000:0088
+dns2.nic.yamaxun.	172800	in	a	103.49.82.88
+dns2.nic.yamaxun.	172800	in	aaaa	2401:fd80:0402:0000:0000:0000:0000:0088
+dns3.nic.yamaxun.	172800	in	a	213.248.222.88
+dns3.nic.yamaxun.	172800	in	aaaa	2a01:0618:0406:0000:0000:0000:0000:0088
+dns4.nic.yamaxun.	172800	in	a	43.230.50.88
+dns4.nic.yamaxun.	172800	in	aaaa	2401:fd80:0406:0000:0000:0000:0000:0088
+dnsa.nic.yamaxun.	172800	in	a	156.154.100.3
+dnsa.nic.yamaxun.	172800	in	aaaa	2001:0502:ad09:0000:0000:0000:0000:0003
+dnsb.nic.yamaxun.	172800	in	a	156.154.101.3
+dnsb.nic.yamaxun.	172800	in	aaaa	2001:0502:2eda:0000:0000:0000:0000:0003
+dnsc.nic.yamaxun.	172800	in	a	156.154.102.3
+dnsc.nic.yamaxun.	172800	in	aaaa	2610:00a1:1009:0000:0000:0000:0000:0003
+dnsd.nic.yamaxun.	172800	in	a	156.154.103.3
+dnsd.nic.yamaxun.	172800	in	aaaa	2610:00a1:1010:0000:0000:0000:0000:0003
+lidfertaep7o25lb5t916l7ed800onja.yamaxun.	60	in	nsec3	1 1 0 - O23JNCKNV688HGSCAQGP3V7A3R63VT8R NS SOA RRSIG DNSKEY NSEC3PARAM TYPE65534
+lidfertaep7o25lb5t916l7ed800onja.yamaxun.	60	in	rrsig	NSEC3 8 2 60 20250926031752 20250822024924 15814 yamaxun. Sb5pPdv3esZXxloa0ypVCoT7HbBzFShjwA6T93Z97azA3lK2LF4TcRYe7CLmE8IN+C5G3jaqwfUTxBBSIzkWJnpjONKj25UT87NXoU92wZnjjNomt4iERZIYzM9LnMlsR1mh3iYwWqQ9wFUZc+l0Ps+0/8AovSxzmhNIAP26icYtq5uGun1pgdKeqZvigrBFrDqIorCE69dsoL3CWOoJ6ZdaAFGhaeBTg0e5V6ECo1c18nF9Dzts4UADTu0yQ705TeWdSLqkwfUn67jfoQpZv1g+903mQqQQrdDNxdW0n/dOsbFnZ71tNl3AQldqV+aE+UVFP4+xqE5AsfX6ts1YPg==
+monitor-nominet.yamaxun.	172800	in	a	127.0.0.1
+monitor-nominet.yamaxun.	172800	in	rrsig	A 8 2 172800 20250929210615 20250825204330 15814 yamaxun. q15oXX6GGIueUXmbMhKX3usgqb4G7R97I4QGoKse329xNzRVzU9PJwsm6LNsZ3G4UFn+roCmzIl6t9XpHeda7sVHEwrsKhOg81oTOcdNcFU1UG1JZHUP8JOjUbKNuzZ1zYmJo1lemjcbsH+PTlAWVTPxlxAj7M0Jmvt1Us35SiO0aKVGW7OoXPo66cp76bocg4IeCOQUG++kVIrWJux1x8wQr7Mn0BaWhlW1UpLfdrkw0cqTZaAnYkKGKGsgq4cSmoIhKDBmAlt3dcEmw0uiz8JwwODPAO4AgfYNdX4aa7zQSEECYejkqM5wF9048j8B6PpJdR7NY18pAFJDvpwIKg==
+nic.yamaxun.	172800	in	ns	dns1.nic.yamaxun.
+nic.yamaxun.	172800	in	ns	dns2.nic.yamaxun.
+nic.yamaxun.	172800	in	ns	dns3.nic.yamaxun.
+nic.yamaxun.	172800	in	ns	dns4.nic.yamaxun.
+nic.yamaxun.	172800	in	ns	dnsa.nic.yamaxun.
+nic.yamaxun.	172800	in	ns	dnsb.nic.yamaxun.
+nic.yamaxun.	172800	in	ns	dnsc.nic.yamaxun.
+nic.yamaxun.	172800	in	ns	dnsd.nic.yamaxun.
+nic.yamaxun.	3600	in	ds	19634 8 2 E23E7654A6DC19245C2AFFAC79091E304BD9C34D4A820862C8B6B30BBA389D9D
+nic.yamaxun.	3600	in	rrsig	DS 8 2 3600 20250929210615 20250825204330 15814 yamaxun. dB5368x3QFT7uJJ4xDhZdlI9UIQOeemUT2aJbYU41Bt4WZ+7YQZrbnIFy6FUo+N7gKtd7rhiP86zFV4Ked14/LG7b/d2rNxIeXvq8grpDVnjGC6EulSYNDaAJyclmgHMmmOVVfE/oFu+vQjCYRJ4ecBtFOtEJcj6CgQ/f84KJfz9nAmwK/cVFsyTUBNFwjNvPmc+yR5QiCGLrkFxbtcNcKxJn/wT//sO3C44MfsmnRHcPopoSzSP6D41Rt2AQYZEE+/LGar73ryAc5qsjptAS8jGgaBC8KOHsZCvybnfv2Fw0HBjo81RAGUbQJvnWW7LZyDUmmZmel3R7lLSdlF1VQ==
+o23jncknv688hgscaqgp3v7a3r63vt8r.yamaxun.	60	in	nsec3	1 1 0 - UL128QD0M02MVHEF92ODBPV800KQLQ88 NS DS RRSIG
+o23jncknv688hgscaqgp3v7a3r63vt8r.yamaxun.	60	in	rrsig	NSEC3 8 2 60 20250926031752 20250822024924 15814 yamaxun. MnolHk4v9bkw4G3yCLA7hXk+QJhnFyrosRT//C42DzJs9oixYffFsGtqWzYboXWikpaxKpNZUXiOoh3DbllTFEiQtOHaFGBa61ljlPVFpwU/f4HG9vShBvcCTdu1wB+W1MSfnMBxEzDFuOyqd/lGDH4UWGeijlo/F0mP6Xv2v/0qJ15a30T2//1UrdDtdHkQswtFh6Nk/3+w+gTzq7v6qfCYHLduupJ3kjAcCcxNCmFV/tY5+jCVn0SkjiwyyHcsY+6v1ZSPV1RUCN5CZL3sd/hwbG9a7124kC/bOP0hjBP2nwNL92L/1bk/FHSRq7JUcqt0isSdwsSvSOdE3Ctahg==
+ul128qd0m02mvhef92odbpv800kqlq88.yamaxun.	60	in	nsec3	1 1 0 - LIDFERTAEP7O25LB5T916L7ED800ONJA A RRSIG
+ul128qd0m02mvhef92odbpv800kqlq88.yamaxun.	60	in	rrsig	NSEC3 8 2 60 20250926031752 20250822024924 15814 yamaxun. VuBJ0pev18Yr5n+jQtntXObNN8ty6yosaj83zUs9OjzbUAsQuMPKPUOMo+lUAFlBMLRh46PVnWd0cJ2ZmMqn4nWifQkyPv9CV/DJVZorE/6FHpqOTmfImnEVYvdTWNNei2nU4HYrJa9guaFhznAjLvNj7+P/+FDi1dSIklBpfn/UPWVMS9HqIfPw6bCSrFX/Mpz0R+uNhR4lnp4U/gS5K5Bh6vensz86iFL7zEUF/dQFwXNxiNj7vT6kGZiYFL1h35D/RTS3Pv1hGTNd+tvu1NDkxx62zx3z+LNl2UXyP8Mop9+9zUlhqT9qcQ7uHcWNgfmOBqtt1wE1fwb5QAQCAw==
+yamaxun.	0	in	nsec3param	1 0 0 -
+yamaxun.	0	in	rrsig	NSEC3PARAM 8 1 0 20250926031752 20250822024924 15814 yamaxun. MJd2AG8QvYAGbKRwy513EriFrin+YzvRfP7qI3sAzNjWbPeTBJEHPCk7eq7Kgw2M7bDcBSTOpB/piCEG6ER4gnpQjH82218WQnm2f8FrkQQ6nLFc2rBSXHNVshLy0AINm2qPw+q71BeK1JZ3B9lbs5hCSKm530kPg6AP9RsqGMQRqLBhFvPV8ix77JEia3kbIIlJDjTyNRSgAV5ivFjXm+7QZndpnvhIqGNDwMkfPQ64I2SFS8r6kMPVFmwVWKweuKt5oGsKqeRP1Rr6YNOfVxF60WbWONFRa7Xc+FN5vizOugxv3+WWthTRrE3Xh0vVYuLE2572djDM3tFoTQMeVA==
+yamaxun.	0	in	rrsig	TYPE65534 8 1 0 20250926031752 20250822024924 15814 yamaxun. e07cGDUi434yJvXUPyzxXFbS+wuGwX44qTA712kpLNHwVoNGFk1cJ3TmkFDLFLsAsBhwBbZPwxb55Cx6oHaGiGO6MwKi7mWFBIz26Bwff89XVkH3mobh6V+YgvXlHnymYoAaQuOaU4P4nNG2EHE00P//Ir11bhByj6nYEBYhnvn9o9m6epU4MDSG8jBzwfnBWkbLo+7t2z3kgMh1DXWzJUStT01cJjTN1jHi/GfpRoF2llUXK5HFyUwKStLPClWCi8Q71huivMmstChsyfaI0w91bu7IcSev4HnNNKca+NMzmxCFuYCzNSYGL52P7TQmbEItBfCs8+4/YCr/i+B/RA==
+yamaxun.	0	in	type65534	\# 5 083DC60001
+yamaxun.	0	in	type65534	\# 5 0860C70001
+yamaxun.	172800	in	ns	dns1.nic.yamaxun.
+yamaxun.	172800	in	ns	dns2.nic.yamaxun.
+yamaxun.	172800	in	ns	dns3.nic.yamaxun.
+yamaxun.	172800	in	ns	dns4.nic.yamaxun.
+yamaxun.	172800	in	ns	dnsa.nic.yamaxun.
+yamaxun.	172800	in	ns	dnsb.nic.yamaxun.
+yamaxun.	172800	in	ns	dnsc.nic.yamaxun.
+yamaxun.	172800	in	ns	dnsd.nic.yamaxun.
+yamaxun.	172800	in	rrsig	NS 8 1 172800 20250929210615 20250825204330 15814 yamaxun. J4y1tTuPJT3U3JBMMfjDLU/VBTN96uxrUkaYfhL0HLUoiVeOmbXdsv2+WtYTPFIkYIzL7buXf4CeJ9cweO3Dr3I9Ai41Aot0tcbrAhhMISXM04jwggYiO5NWWa3zdlCu5LyNMSJJcc5cGjWLliNZCvCo1Uggs/ZlsyLQT3qBmUszk5g5N2IMsNj+kucirMt4trhMsuSJ6ZXoRW1TID0xoNNv5WWV25fIdEXPgEs16iihaSqyg9H7+bN2kmcw0B4QycrDudi8aALsqlQqkPZiMFpOrQorjiD6eo/vL5PA70d7i2gMIuuTvQP1SxRodqWmq0v8tYnoNXrDmWQEp2nbuQ==
+yamaxun.	172800	in	rrsig	SOA 8 1 172800 20250929214330 20250825204330 15814 yamaxun. R72vbCZIUdUiQ4HGmBg7plgbV0rDw+6//JMqVpJWq61PpJIbj6lyYO0UHjpFFe6nlrRjlNiWmhRHmOKKSC1/2Sqvjyn92eDz9Z/6iNw26dCrvH0fOgba2FyGjrzu1iYkz370hmNnmBXDvC8srzsvm1zGgYhrw32WGp9njYWlOOL90sy4xrzUqMc7w2p3NrsPN9uYgDqXlIi18YkExJAhI3VmGbtgzU8XAu7XMUCiJuF7ixcWewelDNPZGwj+wd/k4DiSolzom47i8aIzrRd5XASr9nHJcYSvDQVRBcNlTLx6hSyTorc8v2270cIW6uqmx/6ozzrKAVs/UFyxLRIQ1A==
+yamaxun.	7200	in	dnskey	256 3 8 AwEAAa7RZQxZbcKSL4/wAzFEzC0ArIxr9/SDBQCC8ZBj8lbdu7k/nDCeD1s7S/oabrLO+JMFClLTIjfGBfdqBDpfxaiTVAp2tw9A6vbrsDWvm5CWSgqbB/OIQ5+Ko6B3YnbJksv+pLSeYU89r5PcjKXE7plstJecWhzru9oixH/xgkXcO63udFSfSb7PEccVQo/hwJRSJ/WJmkqrVgg+DW/AiBkDPzicYKCu1AzMz7nBsVk3IAh+yIWSjiFaO0+WPrjgXuvy+IPGaWhQUL4HHm1uFUL0LKJRTXW4cYxpv6fPh3s167VIxSiw8Vn1/kz4hPy6Bxu0SLu8/vIO8TpHM8P0f9c=
+yamaxun.	7200	in	dnskey	257 3 8 AwEAAbTPmlvQIKjWV4AOCr9WcL+cA8nrr99jZhaVhY7gcK15Ojg0BfDsM8rDFX0RtKWHnAAuExovedJW3tbayO2wQHLxxQYLEz/l7SQeMKb8YzTZYG844CYfvpIIa2/7Ebj0H3X0KpLaHGNvkH9baeD+SH8K4yV5cXqRRR2sNZB/dLQtsitLzrbXoXrdy5bMCcwcDfi9rlA6ghbp3IZsanJHrCJ7gZBUCyjzOn4FnOW6R9S5pB7lrx7KDtFnHjKQWL45tTLDQX8SXQSVAVifQioTQwL/ZEv8JDbWT0uqhxm974a8495Nk4jjD3AL743ksDlLONRc0gTML9/ohjeYP/Ogiak=
+yamaxun.	7200	in	rrsig	DNSKEY 8 1 7200 20250929053511 20250825044501 24775 yamaxun. d/im0H5uiH7MIOmq6anJSiw6jeNWCu6BCraf4PPd4Og8rNSL8FJT8GKLS5WocXr6qBprX40P3LsOPkfldK4PqELue/delLj1N48+LUBsNjM7Z7grEg5F/UJ3J4NkqydTkyYxUaO2hAaqxwJ3tHpAHFSx0Uj4tgMzElHXLWLfcerQKkktW0BXFz+R9hjmD/5jwz2x67lQc8IejDI2n/Yqq7P+fgWTXYqeqfFDhDcILuXenysw1C9c1hWSEp6PrL6e6UCrtgrM7gkkO1sdaews/GzvIRjxw4iQOtYc8+28S3EkOLooDFZMBvkxJ83ds2yXQuG8Oi0skvMHWxjYLwFQmA==
+yamaxun.	172800	in	soa	dns1.nic.yamaxun. hostmaster.nominet.org.uk. 1637067227 900 300 2419200 60
