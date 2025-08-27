@@ -1,0 +1,69 @@
+ferrero.	900	in	soa	ns1.dns.nic.ferrero. admin.tldns.godaddy. 1756190494 1800 300 604800 1800
+0s5vha7m371373h7ola3vp51s2mfk6lb.ferrero.	900	in	nsec3	1 1 0 - GSAKHRCCIMMGC1476JDC0AIV1CCBUNR5 TXT RRSIG
+0s5vha7m371373h7ola3vp51s2mfk6lb.ferrero.	900	in	rrsig	NSEC3 8 2 900 20250904131038 20250821121750 23388 ferrero. dNd8mlceF0m+Q3nRqshT/bhmUQNHfDLRyywVtf1RuG/7KJpk16P53ycSa2k3kKC2ihoVq6tqv+6VgUuWEr6OZwbJOLp3LcS7OS8pBua+7N/vnhKTgdaqYuS3Yq+I/hKv+8xoHh+RxxFAzNozj0cHOZkg1RjzhwvWzeqMpUe2bmiLlAVD+u8zSZGotq6Ky/ga07G5oBbgJGUgtJf2qT7jCQ==
+_forcedupdate.ferrero.	300	in	rrsig	TXT 8 2 300 20250909204243 20250826200819 23388 ferrero. tZkWyFUzbbMRgWRTRXoyisYjtpxUUPnQYJ1OIFrgUXqQ3MXSOamV+MUa/qTthoV+0aWcyYAIbPM/j7gFukz1/dF8zwOHDvfmq2oL3Gc6XYK377L4kHG+Q8reyzrPgX+v6ZkGiw7hjb7WKsCaFj2eLIp+3iD+WRtNgPrnhM/XP0G2TSSCJwzFzFU9DJnzfYZ/pWmaMN8hfm/bzI+bOAE9yQ==
+_forcedupdate.ferrero.	300	in	txt	"1756190493"
+a.nic.ferrero.	3600	in	a	37.209.192.9
+a.nic.ferrero.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
+b.nic.ferrero.	3600	in	a	37.209.194.9
+b.nic.ferrero.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
+bia.ferrero.	3600	in	ns	ns1.barbero.zone.
+bia.ferrero.	3600	in	ns	ns2.barbero.zone.
+c.nic.ferrero.	3600	in	a	37.209.196.9
+c.nic.ferrero.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
+d.nic.ferrero.	3600	in	a	37.209.198.9
+d.nic.ferrero.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
+ferrero.	0	in	nsec3param	1 0 0 -
+ferrero.	0	in	rrsig	NSEC3PARAM 8 1 0 20250904131038 20250821121750 23388 ferrero. XkX1LVY6SSg5Q9KadX/th1J/RHj1o5mDwAy9x6D2st5g3ELA2iqJIjQqZGn48rGFCvJCJs1x9HvvraS2SYoRNjTIGrAsfYv+TAVcWwwse8aGqqzApnshtRsHGbfvY7u0zyxuD12Pw6AjcrYzIawkuNTq90r8QAWt+lVzKpj7xtl+XU2oxSG1Fm8ui7MV1O/145Sqz/5eruh0j4yCzZyUaQ==
+ferrero.	3600	in	cdnskey	257 3 8 AwEAAby1j/NPeIShwU3c8H8OatE906yHyU0GT9quVRvvJsZU4RFCA+ycfyNgoI/iDtSn2dQR2S42w0PxtSnOSfmudET0fy94ugBwymvHCz1OS0WN33bGp8dqhH6u6lLCyk8jIyKtvOUaLo79B7PDDsAimMcWj59/TuKH1kfoTlfWp23OM87ZeNw513eJcT04xFJl5mH/9d6B5k+Myrda9wF06antYoycPAMG3MNuM8pFlLWs83jpoaGshBxJzUtTW+N0sdTUSogkmvS8HFfBku16FnbHSo7pz9iAxGuLaDGihzTNW3KlCH6ToSmSOLYTNSbcgGlFPs9w+vFnmBZN9RlYr4s=
+ferrero.	3600	in	cds	37165 8 2 EAFC5FBD259481214624A636038BA784E8CD56869A1ADBFD1024B3358C59B114
+ferrero.	3600	in	rrsig	CDNSKEY 8 1 3600 20250904111749 20250821104059 37165 ferrero. u6fSQOa/PDvV+R5Q7pQOueRsSYhbmkxJ8ekPIScdI3izt/0sYdiCBNDqsbF7usKF5tmx6V/stM789EZhLuEl2pFJMd7JWUSv2yFHEbPsoZHzg2vd9mQ6CUxMIOt39V6d8skkcA/a7htcdYqmxZmHZh5HCPS8pN13t8MWGUDhs7ZWsugKVEnwKF5scA5s5mGV4962LvrQ8Zspyp+hIAiN4x1plRONxwHM3iWiYXWOqwxB6p4aIN7DFPS/0k2/pDapCflDNfELiNSegLOyz9t3imt10TqmAIOQN9Uwp5LQA+1iwoJMOU6HjZCwmYxhLUK10/rSdCGY8D4y1AWDH0O2AA==
+ferrero.	3600	in	rrsig	CDS 8 1 3600 20250904111749 20250821104059 37165 ferrero. nqEQsLwzUpzzMAubOprmudODyuDnWFlfbZnKjlLgL87ok9Q8pcJlQ8JSfi+T8clawUi64xXZeonbolbt2sj0Uy717yHyE7cPQj/32qrqNt8gfmx0+0BlRzBdEsicSjlLPcv4bDrHkKerHNObqKCQDDIOeXpK5AwGuQvvbDWODrCppDrwM9GQqwaeNFWlj+bZuUhBW548Qguf55OCwEEfteicFVZYbojn9jvIndYvbPaF9Exj9rmHqMr+72WIaHg84ENFZWDdWI7e0TFfm9wVg5dDQm21m2M+2HD7b0ycYNTyz0CAmL8BQqM+3ScToxlhiAwjj88CHzoRJcjBDwhaBQ==
+ferrero.	7200	in	dnskey	256 3 8 AwEAAbwMUhyzkzr1XW85aQRQokHwNfN0DDOhvY4pKEjb+2Mv3NlazTa4diZWRo+ZthpZpvSnwUThd+CGbcscDy3FEsTLVYF1rdeCapqCKvykrQ7q/kSemWCaQQDQLccq4pEa7MvuKCziJzxdnYYMQGXNoQvsf6U/XZww0EffDQRx3bvq5hlZkjk5WZRkDhR6zY3qlIj27kQrDGtFToeKmBNlScU=
+ferrero.	7200	in	dnskey	257 3 8 AwEAAby1j/NPeIShwU3c8H8OatE906yHyU0GT9quVRvvJsZU4RFCA+ycfyNgoI/iDtSn2dQR2S42w0PxtSnOSfmudET0fy94ugBwymvHCz1OS0WN33bGp8dqhH6u6lLCyk8jIyKtvOUaLo79B7PDDsAimMcWj59/TuKH1kfoTlfWp23OM87ZeNw513eJcT04xFJl5mH/9d6B5k+Myrda9wF06antYoycPAMG3MNuM8pFlLWs83jpoaGshBxJzUtTW+N0sdTUSogkmvS8HFfBku16FnbHSo7pz9iAxGuLaDGihzTNW3KlCH6ToSmSOLYTNSbcgGlFPs9w+vFnmBZN9RlYr4s=
+ferrero.	7200	in	rrsig	DNSKEY 8 1 7200 20250904111749 20250821104059 37165 ferrero. aVfZbC/kdyGerDhtFQHnHCCSMJhEAWI6Cy2gQRR1ha+th/LK42vdeuWchSZftyGQxET1s7RIKM/PinrTgUtrQdLai4ovBOVu5DOjXr+N5TU1gL8Lvfjp+V5avWvg8/w60LBDziN6904fBKDJoF9fkfMDdg9+wGBCX/C5lg5OYq4mcosfzAMYvP4IuXA2NjO8GhAE7gwJw/tsd4jyPHsnIqvuCfBei4+UsTtcuinh7xcb3Tqb1gspUdyfCHX2mrtQ1s99kmd5EmtPkGPIHlcCo+UgMsRjMDl2qnFOG/TAbUqkH0fwWoywe2JfZwrkXpUF3dhZdVLqDgEaEsETLiRJSw==
+ferrero.	86400	in	ns	a.nic.ferrero.
+ferrero.	86400	in	ns	b.nic.ferrero.
+ferrero.	86400	in	ns	c.nic.ferrero.
+ferrero.	86400	in	ns	ns1.dns.nic.ferrero.
+ferrero.	86400	in	ns	ns2.dns.nic.ferrero.
+ferrero.	86400	in	ns	ns3.dns.nic.ferrero.
+ferrero.	86400	in	rrsig	NS 8 1 86400 20250908192013 20250825183855 23388 ferrero. kRv51u8TpOwErSnnk4R1YimnSwlf9gwE8vlDDAW5ur638dWFnnvf+ZwUoUf/M+Uh4ae3GicEdesA8p85rG3f7zVinlDkJgXh6wZ18iXoE3dZPdONUMC2f1nFrN4v2FnL6eXFLoKuQOv9PirOg1OQFXHpRJXtwCP3IHGr5e7F2ScpXyce/8ivvwxKPjE2mpa6Yb5ysun2nZRtCdt0CzXs8A==
+ferrero.	900	in	rrsig	SOA 8 1 900 20250909210819 20250826200819 23388 ferrero. tSAuu3DIAs87VMhhol2HFYW1U3SXINdaG++VznVsG9NS5B6GhTGD86fOZ9Ayt3iZYDACwemTXE1cgIfFkdZFt5MrACr6RYRiX+5TbY2bb4l9sO9GWvs9Q6f4uHyvwSrji88n6w4wf2ChOf43aq9FHEaHZWaaI3jwnheFBU7wPssGNPB3Kdwten0AR65eqn8w8PI+FIr8GT6mU21JJhZUdg==
+forward.ferrero.	3600	in	ns	ns1.barbero.zone.
+forward.ferrero.	3600	in	ns	ns2.barbero.zone.
+gsakhrccimmgc1476jdc0aiv1ccbunr5.ferrero.	900	in	nsec3	1 1 0 - OPBVBTTU6ATRPTI1BSNIKHI2CV5TGJ4T NS DS RRSIG
+gsakhrccimmgc1476jdc0aiv1ccbunr5.ferrero.	900	in	rrsig	NSEC3 8 2 900 20250904131038 20250821121750 23388 ferrero. LlBGLgvawsI+u1heDm+7ZWLFuRB9KZ1djj77lWEYSVf/aYttZ4oLSHUDcAVjBUJ5bnyi1L50lwJYf6LxBUuHKUcme4u80ssYSpkHD8yjxILx2s71J122becbAa5G/wSgDCcUiMt4Cs3QqhmzcH52oOHhKPFv9TKD1TYVypBi3eYKuKAuEgME+cLLzoVxOwO7Wy7xibA6342GXiwSb9yDsw==
+hazelnut.ferrero.	3600	in	ns	ns1.barbero.zone.
+hazelnut.ferrero.	3600	in	ns	ns2.barbero.zone.
+m.nic.ferrero.	86400	in	a	204.74.104.90
+m.nic.ferrero.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+n.nic.ferrero.	86400	in	a	204.74.106.90
+n.nic.ferrero.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+nic.ferrero.	3600	in	ds	23089 8 2 C2ACBCAE0070DE1730F38440B1F98BAC1D8F4C627BACCF758700290CBFC0E473
+nic.ferrero.	3600	in	rrsig	DS 8 2 3600 20250908192013 20250825183855 23388 ferrero. itvTv86ZKVUHtcVmj6z0i8HO7gXVBf0rZVwCzf6Wf5JepYs7tFsVGfaGh5op0NPbZ/tM1CUzj+I2F/z8XTdYTuMIOuIq04VrA4MFawhSL23LdR7TKrf8xBkRG810LOfeTqsni6vnY16yb8GnK/G1isFW3PV0Ix455Nx9vTjO1qjHO8pwvt6qACadY2asptJClzvHshQAhKLpjm4Xongvug==
+nic.ferrero.	7200	in	ns	ns1.dns.nic.ferrero.
+nic.ferrero.	7200	in	ns	ns2.dns.nic.ferrero.
+nic.ferrero.	7200	in	ns	ns3.dns.nic.ferrero.
+nic.ferrero.	7200	in	ns	ns4.dns.nic.ferrero.
+nic.ferrero.	7200	in	ns	ns5.dns.nic.ferrero.
+nic.ferrero.	7200	in	ns	ns6.dns.nic.ferrero.
+ns1.dns.nic.ferrero.	7200	in	a	156.154.144.57
+ns1.dns.nic.ferrero.	7200	in	aaaa	2610:00a1:1071:0000:0000:0000:0000:0039
+ns2.dns.nic.ferrero.	7200	in	a	156.154.145.57
+ns2.dns.nic.ferrero.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0000:0039
+ns3.dns.nic.ferrero.	7200	in	a	156.154.159.57
+ns3.dns.nic.ferrero.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0000:0039
+ns4.dns.nic.ferrero.	7200	in	a	156.154.156.57
+ns4.dns.nic.ferrero.	7200	in	aaaa	2610:00a1:1074:0000:0000:0000:0000:0039
+ns5.dns.nic.ferrero.	7200	in	a	156.154.157.57
+ns5.dns.nic.ferrero.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0000:0039
+ns6.dns.nic.ferrero.	7200	in	a	156.154.158.57
+ns6.dns.nic.ferrero.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0000:0039
+opbvbttu6atrpti1bsnikhi2cv5tgj4t.ferrero.	900	in	nsec3	1 1 0 - 0S5VHA7M371373H7OLA3VP51S2MFK6LB NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+opbvbttu6atrpti1bsnikhi2cv5tgj4t.ferrero.	900	in	rrsig	NSEC3 8 2 900 20250904111749 20250821104059 23388 ferrero. TBsXpHeCcUcvboY3/IMvKxDl55IKoueLqVAA6CA2fZekQFP7+2jeZRu+7r2yfJ1dQ79YZ+2zbUBEyuhzanc3ELnwPgzwCqx6rosNYIdWrfylibkBa5PMVwVUeomC1QiL8AfM1F/f8uZXJqZiFa00lbYBqYxH1JspSN9s73LSF6WiU7RgyypVywjd2XeAke9pphwe3u49jEyOh8Q65JgxhA==
+qualita.ferrero.	3600	in	ns	ns1.barbero.zone.
+qualita.ferrero.	3600	in	ns	ns2.barbero.zone.
+thisistheplace.ferrero.	3600	in	ns	ns1.barbero.zone.
+thisistheplace.ferrero.	3600	in	ns	ns2.barbero.zone.
+ferrero.	900	in	soa	ns1.dns.nic.ferrero. admin.tldns.godaddy. 1756190494 1800 300 604800 1800
