@@ -1,0 +1,73 @@
+office.	172800	in	soa	dns1.nic.office. hostmaster.nominet.org.uk. 1750680125 900 300 2419200 3600
+7plt5huks6g9k7v30a99ro0rlqcs1rrs.office.	3600	in	nsec3	1 1 0 - IJ0QN71IVOVEM873211DVEP5GIFEO5KJ NS SOA RRSIG DNSKEY NSEC3PARAM TYPE65534
+7plt5huks6g9k7v30a99ro0rlqcs1rrs.office.	3600	in	rrsig	NSEC3 8 2 3600 20250924234230 20250820230609 5565 office. tQC63Qb6MY47oVBiPuiocg5x4X6fZQlUF3NWKgtkH7+Dw3WpHzTz2uYVMFicxllcBehTll/gIpM6zE1HDZIN3JeePhUDDnEMqve41AGKj9qGWAt++rxUlHADFLukl1XzC+n08kd+ciinsEleE0+0mpngS/UnEstbEIOzc7kIMsViS8w6ZCDEbMuO1E8zcV4Ev/IGbM8lcsKGPtsDa34W1Kg7tx5YCBS5yNYA/RRHy8yGeJ3FaMLfCHgWgTDwVeXxYX1djTiMY52569nFCxWG+WmJ0xXY0/fsJ2xShWhI5wmcIkJu4YsYhR2oc+9C2NuAqQD/jK4JrOpBWfuv7wDhtA==
+dns1.nic.office.	172800	in	a	213.248.219.136
+dns1.nic.office.	172800	in	aaaa	2a01:0618:0403:0000:0000:0000:0000:0136
+dns2.nic.office.	172800	in	a	103.49.83.136
+dns2.nic.office.	172800	in	aaaa	2401:fd80:0403:0000:0000:0000:0000:0136
+dns3.nic.office.	172800	in	a	213.248.223.136
+dns3.nic.office.	172800	in	aaaa	2a01:0618:0407:0000:0000:0000:0000:0136
+dns4.nic.office.	172800	in	a	43.230.51.136
+dns4.nic.office.	172800	in	aaaa	2401:fd80:0407:0000:0000:0000:0000:0136
+dnsa.nic.office.	172800	in	a	156.154.100.3
+dnsa.nic.office.	172800	in	aaaa	2001:0502:ad09:0000:0000:0000:0000:0003
+dnsb.nic.office.	172800	in	a	156.154.101.3
+dnsb.nic.office.	172800	in	aaaa	2001:0502:2eda:0000:0000:0000:0000:0003
+dnsc.nic.office.	172800	in	a	156.154.102.3
+dnsc.nic.office.	172800	in	aaaa	2610:00a1:1009:0000:0000:0000:0000:0003
+dnsd.nic.office.	172800	in	a	156.154.103.3
+dnsd.nic.office.	172800	in	aaaa	2610:00a1:1010:0000:0000:0000:0000:0003
+forms-int.office.	172800	in	ns	ns1-09.azure-dns.com.
+forms-int.office.	172800	in	ns	ns2-09.azure-dns.net.
+forms-int.office.	172800	in	ns	ns3-09.azure-dns.org.
+forms-int.office.	172800	in	ns	ns4-09.azure-dns.info.
+ij0qn71ivovem873211dvep5gifeo5kj.office.	3600	in	nsec3	1 1 0 - OMU23D2ADA1L0BCDH1FS2O0T4HO75VID A RRSIG
+ij0qn71ivovem873211dvep5gifeo5kj.office.	3600	in	rrsig	NSEC3 8 2 3600 20250930192639 20250826185637 5565 office. rVegRT0/yJeoiE3liTwuRQcqQ5ePfAxFtjPju2UHLgchIpXDp8x+vMdoPOzBkcZQ76dDQ0GAmtvrnrUPnFY1/m8MPTY3SW5dkgniotZl5ye9KhaCuMPzSkSTFgIXp/vc1QQGAA1w/XkbgssVmuMa7fS+Zc7IARu3w9dJhAcOozhjHmk2qH/cCRRKI0gtGYXBehwiLth/S+1z9X87XdEWGYP1EI5PiGUuZuEBFT1TyNrTbf9e37HBBD2jKwWQdGgwDEWLrwQVo4yHUZpCFuHk+MdLDYNApHpbTBcQEunJB3TJIjgeU4AcH/MAb/r6U0r6yCqg74B6CXjhz7XaFgT/bg==
+m365.office.	172800	in	ns	ns1-08.azure-dns.com.
+m365.office.	172800	in	ns	ns2-08.azure-dns.net.
+m365.office.	172800	in	ns	ns3-08.azure-dns.org.
+m365.office.	172800	in	ns	ns4-08.azure-dns.info.
+microsoft365.office.	172800	in	ns	ns1-01.azure-dns.com.
+microsoft365.office.	172800	in	ns	ns2-01.azure-dns.net.
+microsoft365.office.	172800	in	ns	ns3-01.azure-dns.org.
+microsoft365.office.	172800	in	ns	ns4-01.azure-dns.info.
+monitor-nominet.office.	172800	in	a	127.0.0.1
+monitor-nominet.office.	172800	in	rrsig	A 8 2 172800 20250926040819 20250822032841 5565 office. bqGgw1BbHjd/5r2txqBi5plWANDy/qyGBauJuvS1P/Hp3bBes9c7Js67Cs8DdyZC81nJg+CJ3797+ALtZhCZHe1NV9EB64x4g54UgiflmaH+I2FCCQX72Imwd4MycAKIfN2GzR1ZevrohGWdKO0gM2WDfqgpXpPEwdrh2iZ4BogWyOhEGwTGYF/s3IQRjoR72Q5/MiFD18UGQggd/JsVb2472uWHrAhVUMuQNm1ccvib6hZhS6OWMDasF7XlXaMeazJfzSbg9cCtHKbJ1MrNhrWVXvo8vknu3GtatymQu9/Y0/Aj5H1NyMyuNvE0cvCGQldsxvg52JN/z7/zzCU9YQ==
+nic.office.	172800	in	ns	dns1.nic.microsoft.
+nic.office.	172800	in	ns	dns2.nic.microsoft.
+nic.office.	172800	in	ns	dns3.nic.microsoft.
+nic.office.	172800	in	ns	dns4.nic.microsoft.
+nic.office.	172800	in	ns	dnsa.nic.microsoft.
+nic.office.	172800	in	ns	dnsb.nic.microsoft.
+nic.office.	172800	in	ns	dnsc.nic.microsoft.
+nic.office.	172800	in	ns	dnsd.nic.microsoft.
+nic.office.	3600	in	ds	21667 8 2 52BAA51BFBABF9F5D989E46EE5D9A408C1DFCFF432F3768CFDD82DE6D629D832
+nic.office.	3600	in	ds	4532 8 2 7C42DA3BCFB0F5531617AF4AD4263AD445D35840AF2895FC1D759621F293A074
+nic.office.	3600	in	rrsig	DS 8 2 3600 20250928120737 20250824115048 5565 office. zptOwItFgh/qyiTmFnAJSvh7UFLRZDCeDYSPNK8ObLptFbct1fnh7rtqhcrVdvI7OSg7lU8lrsXrvUSsynU5BIp0vHC3oJ+M2eM/sC7pgp6LyuoKJL8Koge0raFEXqGU3rG+mSGK2eC9zShAoqO9Zm5Z2rN4+8JUeZULTIwG68/uy55EbK+o1/iY3nqU/trgZs2vy7RFdp3X7DZtR5zmO0lQfAklNgjckq4fWlJ3YeCNfpTKRnWtryaof27lb3Vlov6/tSGsR3/zfacAm5QO0e2qyK/oC94K0P4bpyTLSZT0iR9j6w/V79PAi3I6u3851y8QjWKzZD1maFNYjzVoZQ==
+office.	0	in	nsec3param	1 0 0 -
+office.	0	in	rrsig	NSEC3PARAM 8 1 0 20250925154955 20250821145325 5565 office. ZkdYSyQRFAXm9/Oto01w2gz47il1mudhiqhbcCXKY55uhVwFMU0+Op4o1n+4RoJLciz6OuteMapv3NCK1k5NmHC7s1eRFHcilQQg+/uy8gJYBO8l7JLZhppR+NKh7Xs+b2XbZ671iJW0Z3TN5niwmJ2ARpRpLhZohq7tvuN6BkvqGipbhIrR5VeDMkSOFbJ5wuQYTZT/y+sGB4GUqcu689gndlzEbphr/gW2jr1JisSxirc+DoWebvDUxq3+G615XykSlRcEoPPYiml/TTckVKU623iPv59MIUk0YIw4JSXf3iBdAIsKcTxce85mUQqEYeH/QJBnRrAm/SxVhHrGnQ==
+office.	0	in	rrsig	TYPE65534 8 1 0 20250925154955 20250821145325 5565 office. 1M9/R6C/v+tHjmpFktpsXhiGAAhkJluHJ+bkqtyWo5oP86LmoL+92vYl7xGGi+jY9fEyuyR+P6P4swpMveOgTEHoqBmAptzmyC8nZRPqbVIZ3F8EOkl6RY6zw3FoOk2SxcLXT0Io5jpQmaFf6PUI6Uo6aXYVHTwS+mbzDAeZpe2pNwfwZvOvGgFr5/H+0mSssO61yPk9aqXZj8eSvVS5BiHtb5tQFKthcX8xDi3lamIXANSJN2TuGAklL4d0g153HZWinJlwANhYt9a9qHmh9+DXfeBm/vX5LXaA0/B+vIOHfZLcR5LwpIDGDbFFF1HAoxZ1vmn0HGNT0qzvb6eW+A==
+office.	0	in	type65534	\# 5 0815BD0001
+office.	0	in	type65534	\# 5 083F650001
+office.	172800	in	ns	dns1.nic.microsoft.
+office.	172800	in	ns	dns2.nic.microsoft.
+office.	172800	in	ns	dns3.nic.microsoft.
+office.	172800	in	ns	dns4.nic.microsoft.
+office.	172800	in	ns	dnsa.nic.microsoft.
+office.	172800	in	ns	dnsb.nic.microsoft.
+office.	172800	in	ns	dnsc.nic.microsoft.
+office.	172800	in	ns	dnsd.nic.microsoft.
+office.	172800	in	rrsig	NS 8 1 172800 20250928200540 20250824192357 5565 office. 4pJwy/BBS44aInsjYzvH8+5X1J9skiLXdpboBLqzXvW3RSbpMk21Aqr3lrLPS186HT0XLVRWq4+/ZF4Wuv/3E6CbAPNfeGZOG8n5sPA1Kzj+fmXzQCL9JjJD0UsCrm9f46iOR8ZRDfxCQPA1dfjZDahr0UMuEvi9fe9t60AxsTMhlTioOx1hCFt2mW7/5exlHJI2Ecg0GC6CzSQHDnYZDXemtn/0lDx9o0QoNtU1BCbLFQ5s00+BanTEn1PUxMVfM/KKR0jXvBH6dmjb2kWlYBx2o1ixd4KcbnAXckUMUZXzLMwyR+0wK5z0+ip7wCbq+csuAclg6c5vEEdsfUE/7A==
+office.	172800	in	rrsig	SOA 8 1 172800 20250930195637 20250826185637 5565 office. E7Z5cv5H9jhFsc/j8l17E7t3JC1YYlnNGfUtRMAcR1vPSVNryz1w+sZxnlaP63KdaPPzxKgFYE+HK5gA1cy+anwqoQns0XHCUL2bsXYMq0Z/apPDBRQ7S3sM0RDvTXoVasGprsadSJ2ZIiZsAkxSTvdrjEGlBfcqqvdNgnUxD8pex0TEDI02lqCWwQgJZp0q09e8TaxmP+F3y86011QfOxLiHMcGfOh+UUM+tMVHYjRPdgS6t2mmTMndKOqn2t+hyKeX5uS/2LY0ToiNJdGOscf8FGDla4fXeZ3b1uuATQBhX4xMQQT3VhiHfrV4j4pvpojaSvqSSRmzTc8saqJwrg==
+office.	7200	in	dnskey	256 3 8 AwEAAb7jIm8Xlqx8x+HBmb2MI54tarIsIdhkSj23WLhZCTHNOTn+2I6gxKf4P5hvc9esWIOQn724R96Lv3N3Dq1yxWxzk0Rc2iAA2kTaX5khcC0hYljvNdo50V+Ha/Kp4Pe0zxrgnHfqYl+NUkDEuuGHu9DLBduO+BprmHzCXojCaZlvkZyRcxQzDpF3Z8xNOjNcW5/8H/+aQR2SnObxtyPqDrc=
+office.	7200	in	dnskey	256 3 8 AwEAAeu9ei8W0u6ALEQlqUzDlRO1HPkX6ezpgLT+NtQ7oC1di/Zcbr0r/5InaZjkykEZS/DeiBqJzVE0QZOkz6MHqNhQBAYVtptV5Qgxvz1AFIbyh8a2DHteQqIsssclU9s6ohUYR2izlJAtfSy1tFFTEcMIjlwrfW82D+xJzzdUKcJEcZnZlGeqmCjQ1UoF3VgYaC/ZZ9Tx8+CEyRraHUH/GxqMuba5F0RA+xCBQcY3XWKQKa+gPFkG+2zCU7VFtBlgK6fuCp2ApcOTEtr/tgUmIxObPts5bkZGafUtaMFYJrUsrgAoV8jM9y2BX+B8pE9uLXp4xyvsS6kQ1NV2jWGi63s=
+office.	7200	in	dnskey	257 3 8 AwEAAbNmUA/cfPBIWsD7L+O0oMJXM9GLSqtPAbeO7pAbFML3DVmOQZMHI77nZ4TlotsvA/TZy+We/lthhIjIKYquXhLy6sNaOyQSAPcpYEG58jrXoFKZMUxrYj7igw9aPEClp9p7h94qZ5MapkMSWZ88i4VUiRBCAgdcVOD+5NjjHbznCKRikFEX8hXU6nwgP7Aqcs66TzPOLIWwC5/+S4R0CIslMYwy6YYhCK1c+beaqN9onLivQk6Aj6NpPZ0zDAnXJnwuRhuMTD9drB66z7BHpZqvYu+Dj64fLzauZLt1vsvaEbrZgRAbKYF9IAxPcFI48SzIPKr6g6+beLxIGGdiB80=
+office.	7200	in	dnskey	257 3 8 AwEAAc7rslncZfIYD91nWFR8BqkWXUSOcGhsRUx97U6y6Tc6VRecC54bhSA7/VLZ3+dFPi6zFa3M9k/nP6nQmxy8cXKKockJ4pFEYgJHOk4EnBUzCwZMEbxbTgeBDgUV/yB8K53nw4wPp72Thk22+Il5l1/+CVKof/sHHq3jwCjEL3QMlALmkJ+vU9VpDGqJvgwYPCe1uNu4LjeXkcfS2GgCNLecgSmMlhXEB1lIBrkPxdFy/c4cpJFsBZHECRcybatZOqqJ5koKeukziQaqx7PeMUE4teI18Sp0B3erYu01nb8TLeEPyGjBT0fgpX0TKVHcITV7ABvpJ9EcR+A2jGVC+/M=
+office.	7200	in	rrsig	DNSKEY 8 1 7200 20250929115712 20250825112611 16229 office. iEvUuEXB+cta8/0YUPqOTLsESlB4QDhljWIW2HCsc1C7sA046bO33893RDrCfPIXisJ6zXYic6mKAVHzNRTpBwFFAOC06ppW2jlLMfoTUINbz/g6Zk0L+4GXw1YZJoubvvnyy7sgHw37o1MDl/icP5tlL7Gh/LBoeunIYmZGRI3PQ7g6I3tcTBWjlJsE8UMqFwaLwm4HCntp2yCmX1EEaFWooiI8dn0RkWq0pM74JtYg6v63XNTYBfLvCc6S2Aqd54/w/dQuN0J5arViqE32dYR7Tc+AFX/xBO888e+BgSikJTluKR2XuD5boiCK8iDCS/01lbZHyoV3mUv6LsVptg==
+omu23d2ada1l0bcdh1fs2o0t4ho75vid.office.	3600	in	nsec3	1 1 0 - 7PLT5HUKS6G9K7V30A99RO0RLQCS1RRS NS DS RRSIG
+omu23d2ada1l0bcdh1fs2o0t4ho75vid.office.	3600	in	rrsig	NSEC3 8 2 3600 20250924234230 20250820230609 5565 office. uYgJlY8QoU/VsVt0ADk4HZWitu48RNQEZYqHNCNHigc/9bqRNXpF8MtpCv9cZX7kGURiAJookvV7ImFtpHJI0t33LdnsV+N+MG3XC3qPNOuQd5tynWBKM822Jg2YKEfBVE8Fo9g7mUFT9V0dFOdCXrpLtURK3PMPYZ9vnakE8jFYHgWwcz5gbxI80UU/hq0YLVWwLeln+oKiC4azVoUDayNkkQXIyHP6RnCPp4PogVzRu9jMp2Wn5jkZUQn4H92/9Qyghn+eGF+fs1vd9hhPyi3FprPiBniW9LJFk+V9ribX00aZLm5qit6ec+4SVVJfacQf/fWrV80wBFuQLGPwPg==
+www.office.	172800	in	ns	ns1-04.azure-dns.com.
+www.office.	172800	in	ns	ns2-04.azure-dns.net.
+www.office.	172800	in	ns	ns3-04.azure-dns.org.
+www.office.	172800	in	ns	ns4-04.azure-dns.info.
+office.	172800	in	soa	dns1.nic.office. hostmaster.nominet.org.uk. 1750680125 900 300 2419200 3600
