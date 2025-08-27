@@ -1,0 +1,50 @@
+xn--ngbrx.	3600	in	soa	gtld.alpha.aridns.net.au. gtldsupport.aeda.ae. 2159 10800 900 604800 3600
+*.xn--ngbrx.	3600	in	a	127.0.53.53
+*.xn--ngbrx.	3600	in	mx	10 your-dns-needs-immediate-attention.xn--ngbrx.
+*.xn--ngbrx.	3600	in	rrsig	A 8 1 3600 20250904100508 20250805093505 22419 xn--ngbrx. oLKAgEdBlNUzBcUp0X1Xd8VbmYnaQPbatGrLoCxiJnJVGUYqVuC1O/STiPYdEnXFGkYpgVpjCb/uLE9+uyF2XNfb808fqEMYZ3UPvEPqSbv+nhFDfhjOP2aoShruyaFbK/xmQdjnPXfx0p13vYxq4sOxmb+h9m1QF6Eb3bd2fgHgwRwGdYlyEWtZflJKEB+6+/092hX45kH2TfToqwrEAA==
+*.xn--ngbrx.	3600	in	rrsig	MX 8 1 3600 20250904100508 20250805093505 22419 xn--ngbrx. GNYYpXxqXZmKlwDSX4pSmxh0F2z3Wuz6HNuUpzGXYd23ttOr8eCIyXh9ccYKX2VeGIqyZBZ9uMLjbm0Djjr5cfum3y4Bu1C0T33C4GDQkmUr+Q5pGv369vk0hPXHRlCL8hSdueHK20ectx1shbVPUrb5eOX2HEF3bgBKJ0KFUmLyuybF8XO90V1aMT/LWe+gyp8pUK21TYkORL8y6vDuDw==
+*.xn--ngbrx.	3600	in	rrsig	SRV 8 1 3600 20250904100508 20250805093505 22419 xn--ngbrx. PUh4TQaV9ObElBDdkqdt6G6aS7M2p3hpDVk51ZGQPV5ESsx/5EYbU817g4Ii8d/SF3FTFpbG59DhlV3BBVjvs3TV3q/yeDNIx6ekqLIEju3cNkfz/BIflnhHH3/EV8tCesexZxaYV0+/1Ql7JuhhrAKzEbydqx1aEMIQoVezp98SbMCSTEEWT3dXAZrNAv8nl+yB3PkLeYKXjrv37xejXg==
+*.xn--ngbrx.	3600	in	rrsig	TXT 8 1 3600 20250904100508 20250805093505 22419 xn--ngbrx. XSUvMUjiuoQd/yEGaXCBUOY/zo9KjCVmlDraP3OEdkOnSsfSerenRZlBtGfhXZPHYwVMFkbcZI5PGlKinwHxE5gbflvtAYCgaAq5LXs5snYZhdrr+yIvAdbw9iFrTAy0Gl2blmlBmBv5aJhlYRg4cvi41RglUBxxY5pFf4sPEADyaIBzIKpkUbnbUrvywIy/L7TrlmAxPzG7GwpNdId+iA==
+*.xn--ngbrx.	3600	in	srv	10 10 0 your-dns-needs-immediate-attention.xn--ngbrx.
+*.xn--ngbrx.	3600	in	txt	"Your DNS configuration needs immediate attention see https://icann.org/namecollision"
+9k82j47q3qqeos9ghp5jfk5gmqouefrg.xn--ngbrx.	3600	in	nsec3	1 0 10 68315A27AE368D54 CKHAAGPFDA835DPHQB668VUHBMVSE1FF A NS SOA MX TXT SRV RRSIG DNSKEY NSEC3PARAM
+9k82j47q3qqeos9ghp5jfk5gmqouefrg.xn--ngbrx.	3600	in	rrsig	NSEC3 8 2 3600 20250904100508 20250805093505 22419 xn--ngbrx. G+/6iA1UxrKiT/PkQv7Noe6NEFskWx3BHhxJ4xg5EHI98Ta7Oh3zWaO+3tORYeIYK6aRD/4QRto/2Y8ITcLPh6d9oWTpUAi4ktn9HR9se/uXwzlVHlzN3dAQ4cr1TiGdYYRPCIzLTXOSlHJwlqTgqee/NtGbI1NBbQ//P7QyBD9/tqx1yIPILXEMDy8AVIrdhRyv9NZzSc+Td2rDk4u79w==
+ckhaagpfda835dphqb668vuhbmvse1ff.xn--ngbrx.	3600	in	nsec3	1 0 10 68315A27AE368D54 NFK0B99RGVR23JJAT5DM2A4543P8QARF NS DS RRSIG
+ckhaagpfda835dphqb668vuhbmvse1ff.xn--ngbrx.	3600	in	rrsig	NSEC3 8 2 3600 20250904085209 20250805083616 22419 xn--ngbrx. XHsEUXbHvKeW9ZwjhhGVgVZXARqItC1ajT6iJ0Vd784yl7SBwBHY81jQUmUp3BY5QM71+JDakbW8NMtoVmRfIkiE/EvnRUs3eCFN6KwCjt5BaYRXoqHZko7MrTYnjVn4fFf1Q5Qreq91rmZd3Tcte+bIQplNDbh6PZ2Zz5u3GnSN611T1yjdJOgUFpm4KBG/Vvo3odnumhtItlvzT6HihQ==
+nfk0b99rgvr23jjat5dm2a4543p8qarf.xn--ngbrx.	3600	in	nsec3	1 0 10 68315A27AE368D54 9K82J47Q3QQEOS9GHP5JFK5GMQOUEFRG A MX TXT SRV RRSIG
+nfk0b99rgvr23jjat5dm2a4543p8qarf.xn--ngbrx.	3600	in	rrsig	NSEC3 8 2 3600 20250904125230 20250805123811 22419 xn--ngbrx. akrjQ8wO4erEneUG+wTaCG1R4Chb3XRFvJGuyW9bM2OUqsDoorr6jqIrJ0E6m5cx9UC1PH57quC8APAUB8QJLdH+MyAeQ00r0lIUSXrf3hJFM/zD5KMQGGqSH01JEfolqUrtd4e3YsrcbirinoXBjs1D4qajD3yLXDZx+DIhLRtpdQ6FZajqixWAUe5Uw7D3lRyl6jASNSfM+Qawh6/wNA==
+nic.xn--ngbrx.	3600	in	ds	16495 8 2 2AD5B8C8D55829EA0DE2771F2035E156A007B8C0B1884732A48F062F1CACAB63
+nic.xn--ngbrx.	3600	in	ns	ns1.nic.xn--ngbrx.
+nic.xn--ngbrx.	3600	in	ns	ns2.nic.xn--ngbrx.
+nic.xn--ngbrx.	3600	in	ns	ns3.nic.xn--ngbrx.
+nic.xn--ngbrx.	3600	in	ns	ns4.nic.xn--ngbrx.
+nic.xn--ngbrx.	3600	in	rrsig	DS 8 2 3600 20250921135853 20250822134810 22419 xn--ngbrx. U3NLD9AAawmXk364AuWYSMqa4aPs0TUo4+q4VhMn6rnIVKkeejWK+NKIX2DZxC79AdM/CSy/C4lRB5zZFkQ5GskwE6gAgNhNiWYL/auE1HpqbpVW2NfczZNMg6xgHFCewwUVhrk9tLk+STejaK0UU8BOzSwXK5jjZWU3PHsIX4t5657s5jOX9jroCLQOvg25KwiNpU7BMFOezgAEOsgNIg==
+ns1.nic.xn--ngbrx.	3600	in	a	79.98.122.164
+ns1.nic.xn--ngbrx.	3600	in	aaaa	2a00:0d30:0122:0113:0000:0000:0000:0011
+ns2.nic.xn--ngbrx.	3600	in	a	79.98.123.164
+ns2.nic.xn--ngbrx.	3600	in	aaaa	2a00:0d30:0123:0113:0000:0000:0000:0011
+ns3.nic.xn--ngbrx.	3600	in	a	79.98.125.27
+ns3.nic.xn--ngbrx.	3600	in	aaaa	2a00:0d30:0125:0000:0000:0000:0000:0027
+ns4.nic.xn--ngbrx.	3600	in	a	79.98.124.27
+ns4.nic.xn--ngbrx.	3600	in	aaaa	2a00:0d30:0124:0000:0000:0000:0000:0027
+xn--ngbrx.	0	in	nsec3param	1 0 10 68315A27AE368D54
+xn--ngbrx.	0	in	rrsig	NSEC3PARAM 8 1 0 20250910025901 20250811022458 22419 xn--ngbrx. QPffQANb9Yin7CAb+mLe3kwCQ3iVS1GZSemgLBv2vjUYfWgPtdVBeuLZ1RRDBk8P0Oc+sIEAsE0QwfLUOGrzY/89+Yj+6nlqgKoRpV3jYpmlZkBice7I+i375c8n+eKr7ymliFfcGL6y9gqIflFJ/cHAzgTaI9p/08o8L2c7GocvUeSd2SxJPpFCdlsLOKQGd8RIw3rOG6HwlQsx+Xxe1Q==
+xn--ngbrx.	3600	in	a	127.0.53.53
+xn--ngbrx.	3600	in	dnskey	256 3 8 AwEAAcn6E9iNMSZ+r62Zct/T6w6FJ40lY/PJHH9fRZ1LqRDgmX971RjWdZplwJ9H0tN5gzdI7nGXhvTwxTOtqCpyq/zG7UrWYvuM5yug3fJKH2FNUHXKkNyj9CmhS+8Uv8M/qxSGEGg5TKMc6vh7aN3owxJabaMewA2SQxr0o1PjkzvaINBSm/nl/DAatT2kgdHIIf34VlAZ86dbVgY2EIrZuJU=
+xn--ngbrx.	3600	in	dnskey	257 3 8 AwEAAa+w15A6PCD1cOMBkpO6kbYUCwuuTtaqVG3XJ0Wk0cR+F1PLleUO/aKtwZerJJIWKPEugufRymtTfGFTG33YTika3hFwN0Ff+W2eKKPO8Quq+P6bhNXja1j90JSof/xNXsch0AGklV5862yb999CqgYrY9t2dgibC81B5hdNwu6weeLrlHorZVb8UnW2kNslRDc4lM+5ET8jHu9O4ESL6p6hdZD+iqixRTy+Lu9MHHfl687DgX6ewy+i35Am+2vlKtH6N0U2qzZlI0Z3pSEdI1ukx3n1GQgN8dYMb+Ha2G9UkUus19YrCtlOrnj/yKeyB64OGytvPRPiWkRtCKM0lBc=
+xn--ngbrx.	3600	in	mx	10 your-dns-needs-immediate-attention.xn--ngbrx.
+xn--ngbrx.	3600	in	ns	gtld.alpha.aridns.net.au.
+xn--ngbrx.	3600	in	ns	gtld.beta.aridns.net.au.
+xn--ngbrx.	3600	in	ns	gtld.delta.aridns.net.au.
+xn--ngbrx.	3600	in	ns	gtld.gamma.aridns.net.au.
+xn--ngbrx.	3600	in	rrsig	A 8 1 3600 20250904100508 20250805093505 22419 xn--ngbrx. p81EUkPTpAiBifPYcsEoe5QfsWtfpHNggcT/hGQDfQpRExJpXCIh1pLmTbfjvNeBt1t4R/JRLwDL3hh/LnDCWxZ1fAAjywqNsbNShgPqYz3l6bWCZiUHTJ1C75CkUnwbbxSRlrx3Pvgrlq4RUbgDeDatkz/T8x4W+N8O1p5d63eZNWSr7wziLH/0t+Vc9jhQP71gl6WLctAbKeoLmOj/XQ==
+xn--ngbrx.	3600	in	rrsig	DNSKEY 8 1 3600 20250910060038 20250811051403 22419 xn--ngbrx. xYbKnFFhz9M+esq78vQ25TY0U5vTybMmy3rjeGZ8VGSaj1RfoPvxVuHJ7vHlvIJdSGVxjpEkHOgFNhF4LK9cdAAU78nu1RUzKr1fuHDhN+4ExwZMFZuhDuIVt74SmcOEuyALIPT4tNUwH8/bh2EcPnkROaa1Zusrbcvk3ZiKi84qH2AKLAYVhWC3YZM0GfHpJfrGFb7GiU88KfJLgANxWA==
+xn--ngbrx.	3600	in	rrsig	DNSKEY 8 1 3600 20250910060038 20250811051403 37096 xn--ngbrx. ENka+sr6egeftiCbeVv69vFsjK1Q/MWyS3HQWtxjv0S6sGyiuRYZqTcbfnKgBAtG12ANJnjLm8DLgZM1SrawEqIu6xzhJNP0xNNstVwl6DgcFW0nZVXoafWOHd8Nhrb9FfB+k4+fVci586ef/oXqljEWeoXOZpt3OOxYVkW3aIVDMq9YT84zqTWRrgMUreEI+H6sa5ftRa3T0fLU6xQktgl/SR6rkWJQe/GPC7JAifJj6zgJCnC2osRLWpF4paOgeMDryATPZ8KBNPk8YzfUPl67MGeZyMmPcbaZJROVt3FaI+iC40OvldiK5GrV4YtkMOm90FayEjTuknnkY++syA==
+xn--ngbrx.	3600	in	rrsig	MX 8 1 3600 20250904100508 20250805093505 22419 xn--ngbrx. Gwvei5ndWDWzA8SWoGvaBquQZkHyFsyEKyNRvyU33z+B89rJgOdFIC52ZSYVXhvlm6hdlB4Es04q7oVB/W8b5syRXQ7DJwJhMbxWZG5ToBA5fzEbuzFTwZOUGQJ3UiXeysywMhScEY5lLUv65NvWUbNIn8qGrFGXl1DewiD0AQ6+YPZIXkfMCoPn/50A/BC7WNeWWlhdi4giBowebIBHSg==
+xn--ngbrx.	3600	in	rrsig	NS 8 1 3600 20250910040030 20250811035253 22419 xn--ngbrx. liOHF79vPvDD1NPBTJ+GT2K+zi4NkE1Ls/ctOo62ByXRpVIAP0ff/n0EiDb7/ctB4gfj6rliCrwVdAWUNPNbAhp/sPFHUXiJms85h0MLF019OuNHcRPL4DJlIg8vAun2r4T6JDAtGUgX3+wX+fe6iSxn88bEySjB3eO/5BFp3y6kWjuQ40KR4BneRFo1dQcEoDXCaYd61bd/7FEPeBKMgg==
+xn--ngbrx.	3600	in	rrsig	SOA 8 1 3600 20250921144810 20250822134810 22419 xn--ngbrx. P1OgXa/FR5cJFRbF14ux6JQ93srSVZtbqQv1T7Ha4CdD3fiKjCWnoDADWIVShBGTPpnITC8GY/2gCj2DdJmtTtZmxpP73xVgwt+x4DrR3Y4bUo3Aw2tGU+vgcj612aTeidGw8wvG0Oi9r8cVst/N9PRPwLs0SbJvqZ+W0J8wF83KLSFiFVwztIUbnigZKXlxbb+iobZK2VK3Tm76K9naog==
+xn--ngbrx.	3600	in	rrsig	SRV 8 1 3600 20250904100508 20250805093505 22419 xn--ngbrx. Zx3OaCsIELu2620LVr4gzC4m+nxPXn31Sxh0dLFvv1ShGdPyfPQ73qu8F81qRaJjpRep5rTJ+RZ0kONKH+G9YYsQO4D61edJGS4MnXDgGoiByURwQzwbn8fjAj02IrrOyyVcwqbkPXpQUi50D1vONKXXjCiTfNft96WLdR+ClfCL2PSv17p0G1Ictn0RJGpnBDQS9YZyNxRmqQ4CbcmUOw==
+xn--ngbrx.	3600	in	rrsig	TXT 8 1 3600 20250904100508 20250805093505 22419 xn--ngbrx. rcvTIz073H4PQRplqvdgrKt+e0GopHwlTNzod+e1oFEKGeiNnfS1xMHG4Ty8XLL4Ke4q+2I74qVvkH+Fq6EZJfHwTXuFCKA1K4o+EvTPfhCGr7r81Ntzvsr/uJAqHAegeHcfXwY/gsPCr6K6JLNn/HSPiLz6ZOG0mbYo4vo1wboO69lWC0SEyroZXTAodKhD+Y57rj1GVhYRRtxxkKTx9g==
+xn--ngbrx.	3600	in	srv	10 10 0 your-dns-needs-immediate-attention.xn--ngbrx.
+xn--ngbrx.	3600	in	txt	"Your DNS configuration needs immediate attention see https://icann.org/namecollision"
+xn--ngbrx.	3600	in	soa	gtld.alpha.aridns.net.au. gtldsupport.aeda.ae. 2159 10800 900 604800 3600
