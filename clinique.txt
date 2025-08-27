@@ -1,0 +1,32 @@
+clinique.	3600	in	soa	a0.nic.clinique. hostmaster.donuts.email. 1756256556 7200 900 1209600 3600
+a0.nic.clinique.	3600	in	a	65.22.52.41
+a0.nic.clinique.	3600	in	aaaa	2a01:8840:0032:0000:0000:0000:0000:0041
+a2.nic.clinique.	3600	in	a	65.22.55.41
+a2.nic.clinique.	3600	in	aaaa	2a01:8840:0035:0000:0000:0000:0000:0041
+a3jh3rjsbml8n7ksbtnjlnsu6m7802fh.clinique.	3600	in	nsec3	1 1 0 73 FREI6SQ1IIKSQRG8TBNHLIMGIU7CS3BQ NS SOA RRSIG DNSKEY NSEC3PARAM
+a3jh3rjsbml8n7ksbtnjlnsu6m7802fh.clinique.	3600	in	rrsig	NSEC3 8 2 3600 20250917010350 20250827000350 63198 clinique. fb+Y+QK1pRi1B92IAJt4VplL2R/+8VFXCX/bE8X91AbtuavcpNaARxGaroVbvrxhCwC1t1dG+hpU4aUtfmkr00CCERCk+rHhVA5YVDM+1/e9CCpQIfaJ8uApKxzu6C147zvoIa7juFlSst8RDA49hBkpvRkFyhxZR2uYG6UvXcI=
+b0.nic.clinique.	3600	in	a	65.22.53.41
+b0.nic.clinique.	3600	in	aaaa	2a01:8840:0033:0000:0000:0000:0000:0041
+c0.nic.clinique.	3600	in	a	65.22.54.41
+c0.nic.clinique.	3600	in	aaaa	2a01:8840:0034:0000:0000:0000:0000:0041
+clinique.	3600	in	dnskey	256 3 8 AwEAAb1+L5fzdGh3SIINtVKZnPjqRJu90/7jS/T994yWFouWVS59YGuFz309EII6c/BdbZfT6IqB7I1iche/HFPGdAPdbq3xXWcWPX63D/VBj9jKdJaXgITPOCmuIQyGwWqIwpjz4A5dIE19X+m6W3CfMZqahr1GHBmryZJmT91vNSdl
+clinique.	3600	in	dnskey	256 3 8 AwEAAbki1lDThWtnnHgMYc8BzAYvgXusfYwOSeb+9XcmSwtgL0Pe2oD+iofAEryIWRjlaL77RJVtuaFI6cQB21xbbbwoDrdAqUfyzM7ucA3b+1xjTgxtFqwoDfaEalpCHE+JxFYpzNhUwJ4nTFCau2yiLKjOzkdxG9tNwhrVo9f2LJ0/
+clinique.	3600	in	dnskey	257 3 8 AwEAAfcIjNPObftlY2C/PjJyLk5XdQVqrFZjFeLaAJiz/um7jI9ba51uXy4gNdiI8afxKTgN6Px3JQ8RFRe/UAl9kC3V8Cg7Fe/EVsB6NtunDGizQifCVih2LNh0gAeSOBYR4n5fIi8loktmx0w+uVqsJhrTq1glCtlePZDfm409GEOhXlX4ChRVvvw0pMghVDWszc1AOpCUDgfZiL7lj6ez84fpoEYetxPrY4GfMO52ueS8b9lpUzDSChTsym5seW9HPO4jZk5S6yQ8MC3L4in4vPNUaTQ/1TQEOwNQVi3HBGvS6Hktrzw4fWaMEJ3eQuyUnjhGG9ld+wZ9etJrIFbeCts=
+clinique.	3600	in	ns	a0.nic.clinique.
+clinique.	3600	in	ns	a2.nic.clinique.
+clinique.	3600	in	ns	b0.nic.clinique.
+clinique.	3600	in	ns	c0.nic.clinique.
+clinique.	3600	in	nsec3param	1 0 0 73
+clinique.	3600	in	rrsig	DNSKEY 8 1 3600 20250916152408 20250826142408 51286 clinique. bTDl/1jGrHGoTD6fk1vtwFHHqlv+LpgpNd6/FrC0j/iUoCBSZ0/igHrh1vUStvD/H/qceyY5imZoPbsjiFpmmlaLXAn675GK91IE/RUZ73UYJjslrSK/lhvFcmmCL2FUH/QOVRzxFNmk7mQKzkMylhwbJK/yiJVPfw0bHu2MQcjzRI8KWEea4L/IrnVfGABayS9T9S1nZ5fDyMjrCdKcr8jdkXVkglVXchjO1NAxH6L97jXhWaOeaHuVE9U8bMh57E419nz/Fp8iWhlLKm6UZDIGi/fQ21mkIjROUQLVVtUwm7yFLkXbyY8Th97bU3Mik5Q/AnZz+kfiKFuZ/zHLSg==
+clinique.	3600	in	rrsig	NS 8 1 3600 20250916152408 20250826142408 63198 clinique. HHkhewZRzvUH0mKMNNVAUED+wfaB1AdA/Ck3wbvig6RGBnwkthUn+jNb8nUByF/rT+5y4O52M1Zmj7WukW7fVrrAZivk/CL/5+fHQD8VnRezAlMTm93I+kLWc/Wgl8FmjGiLDwwrwIvthsOjV3RhKUFgnchgmASRyRlqUbwEPeE=
+clinique.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916152408 20250826142408 63198 clinique. jGHIhEkg1YsIqWiMrVVdzyZ4+gRVwZ03jyjR5c3jxz36avZriBMuq3GlgQ5+4iJ9loG1pUWpeJnhktzFhdjn4SSx7bv/oeTf+76XnwyCKH35E5my0ZvLSRWzY/hjtslzuWRJn/GZ1PxT8naDsHALztPEVYPXBnNES1ujHjmUGkI=
+clinique.	3600	in	rrsig	SOA 8 1 3600 20250917010350 20250827000350 63198 clinique. U9d1lUZR3W+ZSkKORrHU6n5McvgNmllKndZENNIcuhvUHAOQAgRsShWLzMOZNgD1M2jQnZ7+9fxt2rxHck34nkqLWKoM26fcTpU5krrlEOs8jDseHOwo3HMAra3AlrCXNarca5t1BY9nPHVCdhP+JEfAkd/yoHxw7GwQ+W9XrJg=
+frei6sq1iiksqrg8tbnhlimgiu7cs3bq.clinique.	3600	in	nsec3	1 1 0 73 A3JH3RJSBML8N7KSBTNJLNSU6M7802FH NS DS RRSIG
+frei6sq1iiksqrg8tbnhlimgiu7cs3bq.clinique.	3600	in	rrsig	NSEC3 8 2 3600 20250916152408 20250826142408 63198 clinique. Z7NSDYgDx9xdP18ycekYjsCZTRsNcrlL0JWzBwYyp9RKFPIU+PrXAe56HQsPLxKAMEeH/r5yLhWNWUFT8X0fazK1cyWblqHQvhJtcVkN8xgPBgKU0aeEPHxyCHg+Mu3MCPuM6NnWs8thUuyZ9fXt4O3Oad4adDWZjJq8bS9i1rA=
+nic.clinique.	3600	in	ds	42411 8 2 8C8A70D0B211DF1683E390E1081702691D2B7C1DBF483E6A51E9BD15D2B2816A
+nic.clinique.	3600	in	ns	a0.nic.clinique.
+nic.clinique.	3600	in	ns	a2.nic.clinique.
+nic.clinique.	3600	in	ns	b0.nic.clinique.
+nic.clinique.	3600	in	ns	c0.nic.clinique.
+nic.clinique.	3600	in	rrsig	DS 8 2 3600 20250916152408 20250826142408 63198 clinique. CzJdsJHiPIeo9g2kW4z05Ic6cDOTYfXT+4En1iswHatcJ57t6X8iukXM89PuLG2kLzQ7IZsvXxyykLhTfPtt4boziSKswcmiTAxd5w0t3Vf7L30zB+kBXmiTFDfa5XvvYGVu+6MRxtitjW0WF2UgSx+mXaNz0Zp6H77dV2vL3nc=
+clinique.	3600	in	soa	a0.nic.clinique. hostmaster.donuts.email. 1756256556 7200 900 1209600 3600
