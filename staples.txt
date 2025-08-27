@@ -1,0 +1,59 @@
+staples.	900	in	soa	ns1.dns.nic.staples. admin.tldns.godaddy. 1756219198 1800 300 604800 1800
+0ndgd57pc2n7lmmvfseiidjvattlqstd.staples.	900	in	nsec3	1 1 0 - 8LM775CK8L2EETH29HAB1ON2QVP57S36 NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+0ndgd57pc2n7lmmvfseiidjvattlqstd.staples.	900	in	rrsig	NSEC3 8 2 900 20250904093622 20250821083939 61968 staples. WB0t0lLr5bpekJ6ZlZ13FEKGEcJppHoDAjm4qGW8Fs3N1l/bXOkTweuYIW1+xlS44q9pvwRQV524nrspGhJdNbia5VodCeQfRTpuIvCRFVkMF+9LUHM366MhtXoIStTMTgyo+/8MYS9BUwXE4xmVy6ffDfXO+lSOUkap0HhsVql3Zu8z/9y+LHTWeTqbcK8A7CXsObA5KBUYVLieTLsuyA==
+8lm775ck8l2eeth29hab1on2qvp57s36.staples.	900	in	nsec3	1 1 0 - G9CI3DRNRLF0QGHNVJGO51JNNNO1SM85 NS DS RRSIG
+8lm775ck8l2eeth29hab1on2qvp57s36.staples.	900	in	rrsig	NSEC3 8 2 900 20250906163000 20250823160213 61968 staples. uSVrJrJUOmX6oY6v1E7yZ7qCMFlhWk09TnODAtfbMjmwDQDCupBKemB0JAzyyptYFAM/yPF93hww+6SAerapE3GoifY3fQnLSDL5dXm3LakW9UHzG8SOqCpKSDbk3pJ7d/PdQ0fOgiBPRcu/XNhJb8kHqzOPyLdCWtHx5eLFtg/9MRGL/aAhK5lzj0JOR+Cj3ogM+S3TSTRwK9Cl+QU3bA==
+_forcedupdate.staples.	300	in	rrsig	TXT 8 2 300 20250909021043 20250826133958 61968 staples. rMu4FZKKjtmOtQh8/Y53xMCgrpYkgdXs/z9rUequbS8whvPOejTxY5wJ8KVJGO4XMDH2MjPsnUQSalebnvY+rNJabjl1/mJzA2QmpxGHzBGvTKepEU8SWiqJbovMDr6zCFmyjY9YdkWHSuVMa8EP1COrGurXMoRrALquQzRJBFvsF4uipKeUEvs0ZaTCMIQdRfNajBW62RSWa1oAqZ/pnQ==
+_forcedupdate.staples.	300	in	txt	"1756219198"
+a.nic.staples.	3600	in	a	37.209.192.9
+a.nic.staples.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
+b.nic.staples.	3600	in	a	37.209.194.9
+b.nic.staples.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
+c.nic.staples.	3600	in	a	37.209.196.9
+c.nic.staples.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
+d.nic.staples.	3600	in	a	37.209.198.9
+d.nic.staples.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
+g9ci3drnrlf0qghnvjgo51jnnno1sm85.staples.	900	in	nsec3	1 1 0 - 0NDGD57PC2N7LMMVFSEIIDJVATTLQSTD TXT RRSIG
+g9ci3drnrlf0qghnvjgo51jnnno1sm85.staples.	900	in	rrsig	NSEC3 8 2 900 20250906163000 20250823160213 61968 staples. m+ESnrQZZibiUTGI+cptQYdHIPpOK3DkQ0pOU9hO/t864pCy9ovdVxfmeUdflILJuFMpFnbDRTeOu2j2H1FW17scYvBxTHlqe3tV0uGRW1qa4Tu1ghCgPR4wafDrKd4TeiCTsI+lqG5vwL4e5fdy1iWSca0N4NZtkhQvYUXXKyBmt/DmgBx+JgzQeiXBFTe840h6DpTdN/hc6iaKzKQl5A==
+m.nic.staples.	86400	in	a	204.74.104.90
+m.nic.staples.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+n.nic.staples.	86400	in	a	204.74.106.90
+n.nic.staples.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+nic.staples.	3600	in	ds	60862 8 2 79054BBC497F6891105F5A164DB4574C4B45BEF5D26C11163B9BC50126A5F719
+nic.staples.	3600	in	rrsig	DS 8 2 3600 20250905104258 20250822103959 61968 staples. sZQIay+4SGp9wjj6ILQP3yZ/CPJQ4mA8y63ufiXLsxH8LIjxO0AJEqrnrNiaICKABV8lWsBjOFX+i92vhrN/9UIrY2W4a0TtGOkTs67f8LTNISEyaBEUva6jzdvfNgNDRg1SdEbWL/zh4+sESmruZsfd3MPHs3ke5sVQwjkJpkI8NBEEpgjYhyduJpkusTaKijXBlbvUyHWArgLRGlWQmw==
+nic.staples.	7200	in	ns	ns1.dns.nic.staples.
+nic.staples.	7200	in	ns	ns2.dns.nic.staples.
+nic.staples.	7200	in	ns	ns3.dns.nic.staples.
+nic.staples.	7200	in	ns	ns4.dns.nic.staples.
+nic.staples.	7200	in	ns	ns5.dns.nic.staples.
+nic.staples.	7200	in	ns	ns6.dns.nic.staples.
+ns1.dns.nic.staples.	7200	in	a	156.154.169.79
+ns1.dns.nic.staples.	7200	in	aaaa	2610:00a1:1071:0000:0000:0000:0001:004f
+ns2.dns.nic.staples.	7200	in	a	156.154.170.79
+ns2.dns.nic.staples.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0001:004f
+ns3.dns.nic.staples.	7200	in	a	156.154.171.79
+ns3.dns.nic.staples.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0001:004f
+ns4.dns.nic.staples.	7200	in	a	156.154.172.79
+ns4.dns.nic.staples.	7200	in	aaaa	2610:00a1:1074:0000:0000:0000:0001:004f
+ns5.dns.nic.staples.	7200	in	a	156.154.173.79
+ns5.dns.nic.staples.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0001:004f
+ns6.dns.nic.staples.	7200	in	a	156.154.174.79
+ns6.dns.nic.staples.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0001:004f
+staples.	0	in	nsec3param	1 0 0 -
+staples.	0	in	rrsig	NSEC3PARAM 8 1 0 20250906163000 20250823160213 61968 staples. X6w+UsOc1mlWQCClxoyR5hvJZwww0U7bUEf7YpjrXZHuFuvR+H/d+h1PY7qFl1ZDCOjzkaRDZLHcToprAPoTOznKrMgO+decrpku94MA32zX/A2QwQI3BKU2Zq0TOVuvrdP0UTHsRzvUjVqXJM0Do6gsgaGkNc5hL3o4rmXAVf9vos81MVQe2khVRm+eGHL6bAKyBfeU7Yf5WKKqEO9Qvw==
+staples.	3600	in	cdnskey	257 3 8 AwEAAdbFcLMJhjsaNV3eGTMQm7C3L5jNgRig6A7dUhgR5B0nryaOMaS+n9gG5VmEPaoed1Ig5ThMOHxHArp5KAAylU0s/N2qNcUqANaNm5e4EiElsfSQjHKv24YxFgtr2WcxBDNO3S+EXMDSeQsvrdBIWyefC1Yg4OrpRmMSnxapKlacC4bYUP+YOY4xiKeC/vHWHWTXLGByGk2Z34JMIkuxu/e8ARvXXRiLUrbkfwhk5orOcld4a7O4PYSFSvDfD9z/2aRDeTVs/7Y53vqtBaZ/iuam02cPsPsqJ2xi1B4n8xc2kwKoBcLtU20IotSylWXNsHJpzRzB4drXlfjI766CogE=
+staples.	3600	in	cds	23296 8 2 EC6E9A376B2A1274D837A25381DFB539F1404EADA456C15B7258074517BDDDD8
+staples.	3600	in	rrsig	CDNSKEY 8 1 3600 20250904093622 20250821083939 23296 staples. Niv4JTfCQcDalXQbtVnET9j69jgc23hQzU1aTc0AzCGCyAUtnMZGJlStZkhOgM4i5l0c70I0jOVPy2H/G7UUk56ubzM0vFTO1of1cF6kcwY98ibQ78RHRF0G3qpn2AkSpdvPk7xf49Vw1/00ZJeGwcisZIcyp5cv5Zt4eL1SV1dGnBHgYiJ1KUmVEOBvvoYmfpoFKimcI2iwIFEaarR99LW/wPr3QASuI7rki293uVSCyaRVecn16pW8hxcN+OB9lWa92KKSJTghMpCECCxAoAWALPeEpxGrgDuUhShDLWJqhrq/Sn/FfCPMAhVJVnjRgyE0VGYr1D5P11SPxcqfhg==
+staples.	3600	in	rrsig	CDS 8 1 3600 20250904093622 20250821083939 23296 staples. is2+YUmx7142ts5dt5olAYodCkBeHdccsJCssi3hqYCCztzgFRtVsMBfoe9jiR6Tcv44RmMw1YlzzwvjUTCVhYJFRcUXKtlYq2EMzOG8QvPJElCJ1NcEBwb44AUztxLSpTEJLNHQj1O3hVvh3zNcqupLO4hBWMx+cQmp3Y1oP8LF5B9chAS6KnyQLOAbbjKzpUVh2x4f+uDVq83ak2xATcyhd3uglSmax1L7Q5gmwhUygApA8mC9nSxcB6w9P4YxNpPkmENQTd/hqWLEhMmB29J391Xw0QB8l+smBV9w2YK/OjYGfHwuYk95iDEYSVi7cNDufKWP4+cMSZ9djD1CAg==
+staples.	7200	in	dnskey	256 3 8 AwEAAc69TmxSJYDOZ+HDxs9L64dhz46cpSWrpzC8bStjXhNo3UUZzy8rnj3RXMH4e3noDlJxZtHkPpw72/vl9/4M8EVLNkAzhYkt/dAvvYooxPIWxvSvdvuShQmvBt4HblC5Th0bUzWFvuHHbOuwNaN3Vx2LKm4edLuuOnXz9hb5HeFg9Qh+7+/E5/Z3BXWhXAQkJk+H7Y+iwHQtxFOxCFLiXss=
+staples.	7200	in	dnskey	257 3 8 AwEAAdbFcLMJhjsaNV3eGTMQm7C3L5jNgRig6A7dUhgR5B0nryaOMaS+n9gG5VmEPaoed1Ig5ThMOHxHArp5KAAylU0s/N2qNcUqANaNm5e4EiElsfSQjHKv24YxFgtr2WcxBDNO3S+EXMDSeQsvrdBIWyefC1Yg4OrpRmMSnxapKlacC4bYUP+YOY4xiKeC/vHWHWTXLGByGk2Z34JMIkuxu/e8ARvXXRiLUrbkfwhk5orOcld4a7O4PYSFSvDfD9z/2aRDeTVs/7Y53vqtBaZ/iuam02cPsPsqJ2xi1B4n8xc2kwKoBcLtU20IotSylWXNsHJpzRzB4drXlfjI766CogE=
+staples.	7200	in	rrsig	DNSKEY 8 1 7200 20250904093622 20250821083939 23296 staples. ZWteMegMh8/LDwMkmaxwnvZyUEtnVLhl5CJNsWWvZ0k4foJZ2sqXApEReQgZpGSGkJ/wC7a5FMiVJDsq5sP9CWeVaBxDRDTtWEy1yFu23cXM/DNOBEjhfFDb49k7xRnkQ/Y+wzFmSEySseC0gu4GPr5wv1VV8tHGbC/0QJIXcXrZ6ihm+p70SVztMJycW4apHOabo+s6Xk+F7P7llobR6entGTZi+IZgdKrDRl2Ni6tLwqFLSVmnlnI0pDOmsz/k0i70AZ7jQwsiNOO7Sj4G6BDZd1G0dVaLuY429unacISaRklFM8Uj1U0eBCsl6iwIJOVvfIKHEQomPYQVc/FMxg==
+staples.	86400	in	ns	a.nic.staples.
+staples.	86400	in	ns	b.nic.staples.
+staples.	86400	in	ns	c.nic.staples.
+staples.	86400	in	ns	ns1.dns.nic.staples.
+staples.	86400	in	ns	ns2.dns.nic.staples.
+staples.	86400	in	ns	ns3.dns.nic.staples.
+staples.	86400	in	rrsig	NS 8 1 86400 20250905104258 20250822103959 61968 staples. GpO4SSOiXVfvmMbozQ5K7BijGVtt0EWSFSVwh9WhdqyGy2TsuJQ6RnXSk1V+rgveWomLmicJ3UV8M6OJ6MV5h+mu9/kufTUqyvkyX8eHf5MKKF46BjmqRQWz3jViKX7vtUIJ+DxouoWGA6JowXxfutaU656VCIlzj0QS3ICtLlGKfRJ71FlWpD5AEX20jP5I4gMR1sz7YHrYweEQsRuBwA==
+staples.	900	in	rrsig	SOA 8 1 900 20250909143958 20250826133958 61968 staples. I5NcDVwYeOoCQZnRzYnmXkkeMX1YOTO3/3FXcnfrcC6+m5qYFmyDFX+kzGAOMRyHjfXCGsz7Hj5PQCB1dWqa7nKUY5l1kp2F+PvxS319G62rcKvrvCfVsyZt508rT5GlDqmYN9DZD7j+kISqDVL27YWLuWM7XpfzAeY/tgByFhPLarXXAZQgxU0UqO/oC52XswLAPrcjK9OPN85S12kU/g==
+staples.	900	in	soa	ns1.dns.nic.staples. admin.tldns.godaddy. 1756219198 1800 300 604800 1800
