@@ -1,0 +1,54 @@
+tushu.	172800	in	soa	dns1.nic.tushu. hostmaster.nominet.org.uk. 1637067158 900 300 2419200 60
+dns1.nic.tushu.	172800	in	a	213.248.218.85
+dns1.nic.tushu.	172800	in	aaaa	2a01:0618:0402:0000:0000:0000:0000:0085
+dns2.nic.tushu.	172800	in	a	103.49.82.85
+dns2.nic.tushu.	172800	in	aaaa	2401:fd80:0402:0000:0000:0000:0000:0085
+dns3.nic.tushu.	172800	in	a	213.248.222.85
+dns3.nic.tushu.	172800	in	aaaa	2a01:0618:0406:0000:0000:0000:0000:0085
+dns4.nic.tushu.	172800	in	a	43.230.50.85
+dns4.nic.tushu.	172800	in	aaaa	2401:fd80:0406:0000:0000:0000:0000:0085
+dnsa.nic.tushu.	172800	in	a	156.154.100.3
+dnsa.nic.tushu.	172800	in	aaaa	2001:0502:ad09:0000:0000:0000:0000:0003
+dnsb.nic.tushu.	172800	in	a	156.154.101.3
+dnsb.nic.tushu.	172800	in	aaaa	2001:0502:2eda:0000:0000:0000:0000:0003
+dnsc.nic.tushu.	172800	in	a	156.154.102.3
+dnsc.nic.tushu.	172800	in	aaaa	2610:00a1:1009:0000:0000:0000:0000:0003
+dnsd.nic.tushu.	172800	in	a	156.154.103.3
+dnsd.nic.tushu.	172800	in	aaaa	2610:00a1:1010:0000:0000:0000:0000:0003
+lnrtgbjlmukogfef2gqv2965laashgcl.tushu.	60	in	nsec3	1 1 0 - NLKB4RJL32H56QLIU21HC8UPUE7O4RQ4 NS SOA RRSIG DNSKEY NSEC3PARAM TYPE65534
+lnrtgbjlmukogfef2gqv2965laashgcl.tushu.	60	in	rrsig	NSEC3 8 2 60 20250929061712 20250825054454 23751 tushu. vFqa6s12dVmLLZbEFvZz7CJXGcutjac86ozQO3IjsMj7YvUk4Vtse+wXNrmXK6uK8LmZwuJhFUMzhgEDuzOKI+cgdsYYspmshkKw0eC9NSeDLmiKbiqx8VOd6QORGyIuCK/stpuLaj2qaIfOi9oDdONMp86PHxHi0D3cYWysxgRwOf0PkTiuMR5JN0b0PrD/yvA0BKGt9OFZNE9r81+/qIhqmBC8TcJhInZ4vBgsXp2+w/WITolBSOm/L7h5gyX1S7tGzEmNAmkRjFnnrI+wdbytFGUFjOiHwOehBvDfk7JLy3lIVl0lNRU7ZDx7PGwr5gTCkruH00Hrq6Or0ADaaQ==
+monitor-nominet.tushu.	172800	in	a	127.0.0.1
+monitor-nominet.tushu.	172800	in	rrsig	A 8 2 172800 20250926163901 20250822154348 23751 tushu. jZxu42dKrn5LKGcHM6oGCI+j/ERWvfv8x5V0WLc1v1hwsdYOOaqoPVI5yeRVj47OAdTEyplIyfref4TumJUVL9yxGvi/sIO3McOmtKk7Wjla067amKrlhF8GA8kyEnc1NbapypXg+FfIPWT4SBMGeYvLWCaAQNjTNzmje0cTFyPm0nOojNO3MYRs2CDABbU/nLsMlx3WqV1mnmJU1BUYlWSP5abnTuv+9euWPMAPvlSNgsHQiNLTHbEqHUxjtGfPXMJuV3GghNTsxuo0rfrqMo6X7LNyhl2GzjE9v/PzaSTGqHgjVtzwy4LhKqz9xQ+HqBu/ly9JVocolgWnQ3w3Pw==
+nic.tushu.	172800	in	ns	dns1.nic.tushu.
+nic.tushu.	172800	in	ns	dns2.nic.tushu.
+nic.tushu.	172800	in	ns	dns3.nic.tushu.
+nic.tushu.	172800	in	ns	dns4.nic.tushu.
+nic.tushu.	172800	in	ns	dnsa.nic.tushu.
+nic.tushu.	172800	in	ns	dnsb.nic.tushu.
+nic.tushu.	172800	in	ns	dnsc.nic.tushu.
+nic.tushu.	172800	in	ns	dnsd.nic.tushu.
+nic.tushu.	3600	in	ds	61006 8 2 5E185BB17FC5C262487D2E67C47F062D0E08A5ACD66AE6DB271CEE159894C867
+nic.tushu.	3600	in	rrsig	DS 8 2 3600 20250926163901 20250822154348 23751 tushu. sbx8osZ0lgqJ0c66rGU0p6CxgStul9Aur8n4kWNwZl1RsWZkbfes2R9FUX5lvKDt3Y2uTt6lFdPlga231Wpyd3ToT3geaQJGl5uyFzy6YQA86iRyAG7ZjJAFQAb5xxZ0ex07Qp7mVy5+vDJnnDjbiTg/x6oc/z+8NFVccmwlqs9+rGobK0wWqdexniW0cvep3/E3/bmGX9Bu5oGq/o4L7AxtLTXfxV59Zf0tYPk4M67jUyz13x5BSzwefsLh4MxQymjAYY1xqmIVB5fDquIynPxNYoc/9wL7eqIC5q7QeG4eoa90jkIo/U30Gj5n30vDcPEXKaPcdvuxaaarhE37gA==
+nlkb4rjl32h56qliu21hc8upue7o4rq4.tushu.	60	in	nsec3	1 1 0 - VEL4410Q8JB0JFD69B24M1CJQ3FU8UO1 A RRSIG
+nlkb4rjl32h56qliu21hc8upue7o4rq4.tushu.	60	in	rrsig	NSEC3 8 2 60 20250929061712 20250825054454 23751 tushu. PBaHON+YUTgbwxwqur9JhK0kiQmBsrny2GqGI64VrnyQkpy0xFHSAWhNR1MqhplriJFH3hPEJHJZW0WKsCa5BJe8W69NLPhNGeHV1G66HRmzQhkh36xx2MkSbp9RGrTcfNmmWe1ke6p8reztyKJYlUSOv8aTIS8gg7rb+XVd8nqxPCnv/MLc+CUcwXRWXJHwtPcc3xOBzWkRMk45HUuM4FvNrKNTwxV9/hqTQSPdFwrjToNU5+3sD7rcz/Dl2xxclF5x834qXyNIow2bVfZIaKgWnaVOJ3MPL5r9Jh0GgCeqPsszUPF+rKhGR6nJrmK8sdPLHyy4RnFMBwNLnJoc6A==
+tushu.	0	in	nsec3param	1 0 0 -
+tushu.	0	in	rrsig	NSEC3PARAM 8 1 0 20250929061712 20250825054454 23751 tushu. EuE3FlKkddH6wifOVOjIIL0506pRzvf6MMGLICzMLGWtV9hB+NmJ780HLZSKgiqnVWhdcRwvPVqJbmHkxDoygJIoJ3BESHwECAxGEe5GnbXMCf4twELsT6Y8zo/chJndlvwPufTbeE0kg2G+P0waNS0ZsCHKV2qPjoRAe1x6COO7NLAdjDSCMEplA4v6bLr/q7g5wvfY6AIZ9++0NnWe9ABQsMX10pn11yZctMcOW+5UG2HQ1L87ThfJkeXOcoB5ucqvYbT7SgG+kUlg7uQGE32wGQTCuqr+YRw7HArWu2KMM55rRtiNDO4IuIcfBWKIaJNLySzx+6WwrZuys6YnQw==
+tushu.	0	in	rrsig	TYPE65534 8 1 0 20250929061712 20250825054454 23751 tushu. xXDJ1H0KvWkMCJuPUixeTC8x4aItnMRcWzGbo2ivPiJRuopcvR+CihNA91ubZER3FjHNk4MDzLb/rBXK4arjmb5SFWnAr8EH83NbccSKBbl9qaY7979J6CtwKnx4cF1IZGTS2/tFfJwAytoYw3GwcQq8MkOZQTZfLvF8H4bOKmqbx6BGT210XV+yfkOc3rUlxILOypXECrwvVA5N6FVa/xZoAiIvnSTGuk51cgqq31XNhx/B4tT3mCcxhbkLzJwfRInrVXCkYQie5cLUzBQmi0Yo8j+4eN8I8CT15dzes1tTnmiu/iJZ/SFRTbDwTbMTW88sB9sH1COv/hQpcw7V2w==
+tushu.	0	in	type65534	\# 5 085CC70001
+tushu.	0	in	type65534	\# 5 0896E30001
+tushu.	172800	in	ns	dns1.nic.tushu.
+tushu.	172800	in	ns	dns2.nic.tushu.
+tushu.	172800	in	ns	dns3.nic.tushu.
+tushu.	172800	in	ns	dns4.nic.tushu.
+tushu.	172800	in	ns	dnsa.nic.tushu.
+tushu.	172800	in	ns	dnsb.nic.tushu.
+tushu.	172800	in	ns	dnsc.nic.tushu.
+tushu.	172800	in	ns	dnsd.nic.tushu.
+tushu.	172800	in	rrsig	NS 8 1 172800 20250926163901 20250822154348 23751 tushu. WGnPVUIzdcAoRByDH8taTl3/XopATI+9+30rJPCpvwDNJjKYUdmxyy2hLlApA2F4R7X/7Y3iltuoRAoYQQxFI5JxREjXH75lYI7yT0I7OHiEFrQ3MzFr4tJglV2jfnUulhzWBljpXz3FBlcsS+gSasr7uWeRMtzSJoRvzkpRiudBCMJdfz6Il/QCoJfiMe6GqW/2UcnOIk/fCLzyaGZczvudGAYqEPTlqNgnaGWzpv++eCTHj1hvkmbj4J+k9h+MsDVxYLSaYca6FXTSwFyx6Ag5s45hYbrHFgv3rTeEMlrQLgfFS0c/w2jp/Pp1xkLVUrno0r8DH22hc5tFdWnk4A==
+tushu.	172800	in	rrsig	SOA 8 1 172800 20250929064454 20250825054454 23751 tushu. mxvl+uMYHIiLx5JBi3OQy82ccU5bhmCqxyG/HOUKOa4BQoCSx+y5TOH5N+vTdH1iSU6b4MJESNR5KDUymFKDIR7dNXB0mUQ4RwRIVWvZxgrZ34u6/ydJ1NZ5W6PG0js8MEbx4ilCZAKMau3V7wTcPnwrYlz0TDUuBeCMA7YKfXK28q8BFOZlhOP5lrTBFO6+RR2PpAO8v6VZXaQEcAvJM9VrZ6YTjle7AeE8N07IL2JPQIhEKqr4/7eKmedekZ1Q5RzSeJqQQZGQd38wZ6+alTcAYLnzv7TyVPtjXf9nlbRjCRx/DXmMOYAa/AvqQmppx4ze4PEcCH82qEHWWXUrPg==
+tushu.	7200	in	dnskey	256 3 8 AwEAAckeH2ihe+s2QURY+T6SBsaW4/hnLmF1eTYaeNPJZTn50s263Vly0ZB6wO4jjWYal07ii+vdrl7aACH5be60iwrOp/NlZZLviPmA8eDOdpvH+p6Z4Mb9wt7TEan2uHGbq2F/gaMno1+7S/YJgE2KIJM6LUFDgtNA2+Hw7O9AJGRESpqDiTbo7eo9Er9Fjo2taWzNW8kDgIMxwMTVGQYaM1y5NRfWlSeKy38cOjWoLi3HxIX23oq/dVLZL9Q/QWiBPuj6zNUjmF9SDngfuSVOKjbHigWPqnwGA0bTa134jfTCbctmTRwNWx3L2/dK/zIF6D5IpkVx6/Fx8IJH/nExvBU=
+tushu.	7200	in	dnskey	257 3 8 AwEAAdRYtQ/FgiScibSJqkhgNCvfYkqP8xWdDcYW1LD/yRZfYq5+gtOE8tyrvpOEzHqKfw3H9qa20YYeMtBmQUacME8IyORIP1bktnPkrDoLJqnEo9O8xgXONOb1rrRw3Gg9Hpa88tjSj5Uprj89nQ1A9OOV7y3bYqjmfx7rt2MAd2CLJmpp5rw4hdl7UhbsyknA5tesw/E7TbPfoobjBKUtvp4FZE3Zr2VynldVGrCxXL/kMMVkwTxV1ub1amvJ1L9cNFhS+PLLLHzWfyf/KCZzPMfFnx9+XZw5+Mwrj5mlYwUHPgKIcvour0JD0ytWU98Q7Uvtx94QQIsiFJxMEpe/SOs=
+tushu.	7200	in	rrsig	DNSKEY 8 1 7200 20250929043451 20250825034701 38627 tushu. mPStdWAePiRfuFZx5eMNPuRVNeqthXRK+clI5546RzCaBCibpojSlpJGbykWkHwkc6FkPDyXIAe/IEBe9Wrz+2Lz7Qje7j+vFNZ1GUViAS9JiwBUov9l6+axyxToZ/jyQ/kagsx+8lgq3ZUWuGiRHNLhBKLS+kjsdHNbzSV5pdDS7RXYxb9nKn0NzwyW7Cksn1GLgMs+bbNEzAkUl1h0YmXJFJlPpBnSsmOEWBtSK/f+NStaNKvpzj//HWE8xbOgxVYj6+V17hzfyVhKNi4+nOSnq+6OLzFCCvNf0XRTvI08tMK3uOYsEJLtd7Oh9dfC79reliAKMYLRZlnjCEtlyw==
+vel4410q8jb0jfd69b24m1cjq3fu8uo1.tushu.	60	in	nsec3	1 1 0 - LNRTGBJLMUKOGFEF2GQV2965LAASHGCL NS DS RRSIG
+vel4410q8jb0jfd69b24m1cjq3fu8uo1.tushu.	60	in	rrsig	NSEC3 8 2 60 20250929061712 20250825054454 23751 tushu. LZC9CgCT6X/I4L+fXAoiVEOfSikSkCEOlNSrOQZFnUca6HjLql29fBXh5WD7Ms22oyDgNLE7iTcp1PlkMLqwS/xbUyK+4vkdAfuNu1l6muPZExmcX3UWTkyvyGsc6WL68LPd3WCFktMwzfd7d6acfOcZBVXV+edheMFkpLSJNGs0ObOzrMDFkjT+7lytJCOjtUHo6TjM7urkWsjvmiRzo1rpJ9BSWvj5RZNzxCxu2aLxKc7fLFNfqeBQHvc8rcI/KT16QjRuMuzrorL+4vDXbkypiJXGeCbcjZ+SVxmDlyKAAwSaXOsOj1XL4x9u3x6zW5itH2y6KbWZ88cZ6K6Etg==
+tushu.	172800	in	soa	dns1.nic.tushu. hostmaster.nominet.org.uk. 1637067158 900 300 2419200 60
