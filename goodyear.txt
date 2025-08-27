@@ -1,0 +1,32 @@
+goodyear.	3600	in	soa	a0.nic.goodyear. hostmaster.donuts.email. 1756256557 7200 900 1209600 3600
+634lnsofgpe8409u6ghp734flhp45fvm.goodyear.	3600	in	nsec3	1 1 0 73 7TGR22HF18TLN7K950HT91RD1KOR5DSJ NS SOA RRSIG DNSKEY NSEC3PARAM
+634lnsofgpe8409u6ghp734flhp45fvm.goodyear.	3600	in	rrsig	NSEC3 8 2 3600 20250917010807 20250827000807 30384 goodyear. J0plFc9HEhIGXCqla7C90vOVb4XZNhqo580cXx9wGlzAliUw+oEDi8xsgu9KzIzDas6sR9KPuuApjd+VBBkpyE61oi9m9I0beNp8G3NuhIigYxjTXqHaBSPfvGqU4upzgByG5PjwsOErmQdy+I7HGrsJia6TWcxW9XdaqM+r8S0=
+7tgr22hf18tln7k950ht91rd1kor5dsj.goodyear.	3600	in	nsec3	1 1 0 73 634LNSOFGPE8409U6GHP734FLHP45FVM NS DS RRSIG
+7tgr22hf18tln7k950ht91rd1kor5dsj.goodyear.	3600	in	rrsig	NSEC3 8 2 3600 20250916161257 20250826151257 30384 goodyear. ESLc8TzFh1th23y+dTfOnniMH2mtDBk6zz7pmi/BYftM3GlFgIgq7avjoUJsUPj1wdM3uM1v2FTtmS/JqvTxtvatl8WNIUwzPvhFczuN+X1Narx+ytAm7f0jCp4NYrLRzYHdQVaqiX1SL8HVQpZCo0pZh5KHeU8pnfQwWCKbIKw=
+a0.nic.goodyear.	3600	in	a	65.22.120.41
+a0.nic.goodyear.	3600	in	aaaa	2a01:8840:0076:0000:0000:0000:0000:0041
+a2.nic.goodyear.	3600	in	a	65.22.123.41
+a2.nic.goodyear.	3600	in	aaaa	2a01:8840:0079:0000:0000:0000:0000:0041
+b0.nic.goodyear.	3600	in	a	65.22.121.41
+b0.nic.goodyear.	3600	in	aaaa	2a01:8840:0077:0000:0000:0000:0000:0041
+c0.nic.goodyear.	3600	in	a	65.22.122.41
+c0.nic.goodyear.	3600	in	aaaa	2a01:8840:0078:0000:0000:0000:0000:0041
+goodyear.	3600	in	dnskey	256 3 8 AwEAAaYyZWII0Awz8FbvDLfNohfVXKGyOUJCK49fNikkMyR4BVy7H9tnAddEf1LXuax3jWTiPM26RWCjkXmdH9LUgGLsS1r6oiV6so30tKA3nvAe7CmCOMBMuYxbFPoUNM66BcZAnbU8vJIoO/ASOmNuqmUPMq50+d0BB8klc4LqhAcj
+goodyear.	3600	in	dnskey	256 3 8 AwEAAdWRCPM+qZDI4zz1HkgNRh+PevKtONtZC8u+7fvTOB/Sm4GzhJXNC1STGM3S1dBEMkzIbaxSJR0/sj+dsuQdhkFTSY8dnfj2Yrc0oXTKoa3G+nqKhzhSbPGdPmqWMlx678VOy7UldDJXX+PSrDCciosRWvcT81D3C5iaHlgcoHGj
+goodyear.	3600	in	dnskey	257 3 8 AwEAAaulUtkGKOUCXUha9xV/e/7iv3jPG5oD1RwrKPJGKEocb1n1f5ii8tQ0SQhZewqaj1b62j1VqL6tdoo8EBBVeDzwRnV9RGgDSFsc3Cgh/wX/tm1klRPwIUuKhjoKiiqrt673HB2kf1sAdiMLceoWC9EVJzVvWcKkUC9GD3TFRQ1aRoM2Jr4JZ1tNS6Rf0qBgzUO12PfY4G6x9XEEBwMlFjhylro7htOgiER0mbXaSUnFVhaC+AJvCUd50LMK0exOJx1zQsfOuMrSg88yM2hP1TtJTYTL23oQpGZod0NIlowDb8siWQ6ztoJNlS6Kz0weZIVS6+rPRIE60tpXvCM+do0=
+goodyear.	3600	in	ns	a0.nic.goodyear.
+goodyear.	3600	in	ns	a2.nic.goodyear.
+goodyear.	3600	in	ns	b0.nic.goodyear.
+goodyear.	3600	in	ns	c0.nic.goodyear.
+goodyear.	3600	in	nsec3param	1 0 0 73
+goodyear.	3600	in	rrsig	DNSKEY 8 1 3600 20250916161257 20250826151257 43276 goodyear. p8xs5K6G/O8UNAx2pI9ltGjzSKw/lq+flYW1Pf1yGYNmeEurVsJSLdSWrHkmuNPd6I7VjWrEOmuYPpyT/kI7BhFtmLziOF/y3XAznXppORhJyw7E+XASDofDAN+olfHnb38OcbUGMqzHUfx4QoHN7XF+aBz7OgK2x0wbr3ePbBizm5+WmK3sr2H4wPtWWD5anL3eMlDjz/n8h+5NfsKwr4GaPTGQ4TgF2OhnmX9nMTS8m5FDJMgOvDhoUdS2Qnx8rT17N7/RpbDoleV7aWim5y04V2tNiNxTX+9sgHAYC2g6nYhR3asdDOIlvuinXKY0Wuj8uWPi7v48ZCbEJiHxxQ==
+goodyear.	3600	in	rrsig	NS 8 1 3600 20250916161257 20250826151257 30384 goodyear. FrhIlmeDkPz+pmnh2MCRlcxAS5VwnYf6H2v75I8w0Ry3WewhejOa9fwCAuiRc11TkTVnTsKcpfJogoj9aSLWvhZ++l2auzhVJ4WtewIR7BG+J7RaEAWe03rMZ2+4BLT6mZfVqgtinm2NOXPO6pbEF81Eqn6cB8uNj1GuHbfD+hE=
+goodyear.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916161257 20250826151257 30384 goodyear. TatUmKAKftAWuIE77UgA1k9OWMjlVQGv8O0ZV1WN3HzBGCujdALHX9Bc7t6SWoCj1FHcRa2fSNIDKBC2d1DV9rH5qsL5HNA4cmFrmNecH+CpTVbt8BTPnrv3sU0H6b4GzbKTy6joMio7nl9pBOy8N4YudTtWRrwJ5FkCiVvlXCQ=
+goodyear.	3600	in	rrsig	SOA 8 1 3600 20250917010807 20250827000807 30384 goodyear. ld0fAoPAiUrrw1U0g+WZYiDXOVVbJqxAn0suf35lH+AautFODQhmtGiE2r7I5Rh+F14zQ23PG1M2y1qp1t73vTANzxaC8rjBrpTwxpa/LT1HSkLBpddQsojn6su79eoYoYPZg5LhhApcKiMBsEVENnCxPH9Us85gQSE8VXo9fz0=
+nic.goodyear.	3600	in	ds	35823 8 2 6FC8804DA77B571ABDB470AAEC69DCB965D1F4C8518B23467FAA21B05767128C
+nic.goodyear.	3600	in	ns	a0.nic.goodyear.
+nic.goodyear.	3600	in	ns	a2.nic.goodyear.
+nic.goodyear.	3600	in	ns	b0.nic.goodyear.
+nic.goodyear.	3600	in	ns	c0.nic.goodyear.
+nic.goodyear.	3600	in	rrsig	DS 8 2 3600 20250916161257 20250826151257 30384 goodyear. iVovU2Aw32atMUKEpSfVdNM701QN43LHVF4z4jkhOF65/b8mU7oUAXEjCLSI1m6YJIA8wxotal0k/2J0n6cj1CJWVghjO1TRkY2M8RmlwPhm4bTMYZ9GXoShHeeAgw7vzIwfF53fhH1A+scFzZuW70Kq7V5ZMg14hxSZ8N592eM=
+goodyear.	3600	in	soa	a0.nic.goodyear. hostmaster.donuts.email. 1756256557 7200 900 1209600 3600
