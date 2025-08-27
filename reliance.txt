@@ -1,0 +1,32 @@
+reliance.	3600	in	soa	a0.nic.reliance. hostmaster.donuts.email. 1756257213 7200 900 1209600 3600
+a0.nic.reliance.	3600	in	a	65.22.108.25
+a0.nic.reliance.	3600	in	aaaa	2a01:8840:006a:0000:0000:0000:0000:0025
+a2.nic.reliance.	3600	in	a	65.22.111.25
+a2.nic.reliance.	3600	in	aaaa	2a01:8840:006d:0000:0000:0000:0000:0025
+b0.nic.reliance.	3600	in	a	65.22.109.25
+b0.nic.reliance.	3600	in	aaaa	2a01:8840:006b:0000:0000:0000:0000:0025
+c0.nic.reliance.	3600	in	a	65.22.110.25
+c0.nic.reliance.	3600	in	aaaa	2a01:8840:006c:0000:0000:0000:0000:0025
+nic.reliance.	3600	in	ds	58626 8 2 8115DADB25C081CD50570EA9A035CD6B35482545B31348244CB0C88B859C2880
+nic.reliance.	3600	in	ns	a0.nic.reliance.
+nic.reliance.	3600	in	ns	a2.nic.reliance.
+nic.reliance.	3600	in	ns	b0.nic.reliance.
+nic.reliance.	3600	in	ns	c0.nic.reliance.
+nic.reliance.	3600	in	rrsig	DS 8 2 3600 20250916152408 20250826142408 5583 reliance. gQsyideinJeISIvZHH2gJ/awlCQdjw10BAgmX6P8xXBNNsNf1o0y1/8a0BG//0pGAPKr4jOeatwACdyeQ2HiQa0+GX4iQYZlY0+oEARmtfpdQ2eyd/qZlLLLrx7n8HZ9SWMTsaDioLdv/ZllRWXV5g+1Uu8cBm2kloh1IBXwlXs=
+pqp3kttphlk1usl0c1n7uf0v68mb3mlg.reliance.	3600	in	nsec3	1 1 0 73 S3SK4ME41A7ESPUTKUIJ2N3RBON5DTA2 NS SOA RRSIG DNSKEY NSEC3PARAM
+pqp3kttphlk1usl0c1n7uf0v68mb3mlg.reliance.	3600	in	rrsig	NSEC3 8 2 3600 20250917011647 20250827001647 5583 reliance. mHlPO9AUUVXEsS7sgcbLYQ1W0DYp57+OoIda8Dbb26/XAapY/7+A4QZCJrHjo3Hp4Lt09v+NmRdd/ERV+nZPMXv0j7LrTikwcL+culNSgiFhCawN+0VwJtqWlY5jmpWBNfbIBND0giqJ1iqpQ4deNQFy84Yx30MF/lAaDaAesM8=
+reliance.	3600	in	dnskey	256 3 8 AwEAAZvhA8LcSXH0KWskqqF8wctbaSmWv9AsC54E1DCH5olC9Jk+OLXC2l3etrjwIn+s2XrpSSU42R5tq9oqsNAVTvRcpPTgGxhha3x8g/OWwPmiIDqbSQl7Az9utXrQ4jfPgMOni9e9zdCO3V+F72XZpCSUEcbwgXDEdmca1vJdjhkj
+reliance.	3600	in	dnskey	256 3 8 AwEAAdTVDS+xfogkGZajnpuYR0LuhTeNgkRGMNUKvHRUjscYt2tdIKJ7y2rZBBB5VL5vcBekHOwxSKiBIGXE2VJ0XjmkTEV8KB8Ap/KRJLQ33vS8EdDUnriJLSDbyYaxoVZVqE6Un4sVSl6Z/rgNX7NyaczqiiZwMOau1psPf+n6XdWL
+reliance.	3600	in	dnskey	257 3 8 AwEAAZEVy35QQaZd8z7I0BhaktYdM8djxXL2k8O3L4tfwnuAJ7zPo9A7v5wRugQB5sp+8uWLphElnE5C/5aThqgekVUwL9Ez6KcCQ13KKFi6diNfD2y/4jj/XXXFZsyDitsmtpAhYrkk/v939cNZP56XNnnJBNtzAvPv+A4SdvU+WltQg5l0Pfq831wwEO2QZdx4WrFCgUnX8t7fa2WOgVFA6f9bmnAkwVJtGAXUHSJzgRxvMYvsfA9VWM1owpEPf0iTtaZlJsq1lm1+2xuUtnvVAv8vCoumNxL0xklswVGAfj91fp+vuptsrXbbeNeul7lwK3pAohJ3JYQ1Ge4Zl9U3VD0=
+reliance.	3600	in	ns	a0.nic.reliance.
+reliance.	3600	in	ns	a2.nic.reliance.
+reliance.	3600	in	ns	b0.nic.reliance.
+reliance.	3600	in	ns	c0.nic.reliance.
+reliance.	3600	in	nsec3param	1 0 0 73
+reliance.	3600	in	rrsig	DNSKEY 8 1 3600 20250916152408 20250826142408 19927 reliance. WKP1G2Pix+fr8GRASPKeA2SZcehP5ccT7Utf4vwqM4j89duMuVuIYXj5tuXg5eN51wLNUmwHLcOZ4Kb+sJ4FeGVYr8zXk4htNAuA5brTD3loejY1KLE74NNualx/BvdF5FYE+4npJc3L213ngoRZkgTwTirn5GaxHZmn7jwMw5+A76h6ZSIvDUqvFFEoGFdhxbfOYbVHbShsd9hLuIy+DcZHp0TUg6OJfWm5DFyWG58CeBJIX21QdZNi6GAZl2T4ckU6EYgCoYJMP80zf6GvoSa7sHQHPpZcEXEAR4efod0CC7lwi6q1ytaX+SrK/JoeLO05cjcnc1pi55IUBbAEVQ==
+reliance.	3600	in	rrsig	NS 8 1 3600 20250916152408 20250826142408 5583 reliance. dlu32LCHfcRQMXtVODUj5EvsXYEdT9R1HbdXlE2mvOpYTcO+ThFFai6dKUIQXgQo9vRhTFJrCy3Txu0+K8gEFCPylMwFfbmZx4Y8bTiXKLHwfJn9yIF0OdGaEipFrw9NLg0iMeKkEz3xHjdqpmTPewd0ZePKf38D+TrUgLKS/RI=
+reliance.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916152408 20250826142408 5583 reliance. zrlanwSPiuTMLkuZ+rfn9f17A8BiqtECdyAN7tZd7xGs/Khg2UuEVBFrzuQVreJNDGIecZv9DQPcmYzStbNGgO+CV3avAyxWnOE8NL8y0RC8PYFPDDhpz2xVFAU4Ma89HEsonUPjcR5VWxRcW0J96nGrmh0DzekQgfSe2TMjG4Y=
+reliance.	3600	in	rrsig	SOA 8 1 3600 20250917011647 20250827001647 5583 reliance. af0qJvNy30WAu0UQxqQrJKH3tuoKu/HzD3+1UpxWONiaCLwtl2aKE0DZaDb/E3Pe4y2vqobEC5WSKJwtajajuefHU2j19KT3aeDL7IThCjzaIlVLgX7YuXlREWEJi4U4TXaCtv/j24yJG+HlE2Eiyunb/pRyMjgQz4bXIgXzRyo=
+s3sk4me41a7esputkuij2n3rbon5dta2.reliance.	3600	in	nsec3	1 1 0 73 PQP3KTTPHLK1USL0C1N7UF0V68MB3MLG NS DS RRSIG
+s3sk4me41a7esputkuij2n3rbon5dta2.reliance.	3600	in	rrsig	NSEC3 8 2 3600 20250916152408 20250826142408 5583 reliance. dbKx1QKGLdvSHqgTH+HY3wdom4+51AA7HTRebxdRby3BVJkUJlY7mLK1yvE/QHcylJGrgaCGoE/KKnyimtoQHAP2ddehWrujbNfsfEp1uhOr1XqLx1itA0F+qnw9LiQ5gDfX0eF3SnRrTZeUQ9/F9xBwMbKnKc8TST1JldNKv+o=
+reliance.	3600	in	soa	a0.nic.reliance. hostmaster.donuts.email. 1756257213 7200 900 1209600 3600
