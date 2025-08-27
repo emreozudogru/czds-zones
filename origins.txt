@@ -1,0 +1,32 @@
+origins.	3600	in	soa	a0.nic.origins. hostmaster.donuts.email. 1756257209 7200 900 1209600 3600
+a0.nic.origins.	3600	in	a	65.22.52.33
+a0.nic.origins.	3600	in	aaaa	2a01:8840:0032:0000:0000:0000:0000:0033
+a2.nic.origins.	3600	in	a	65.22.55.33
+a2.nic.origins.	3600	in	aaaa	2a01:8840:0035:0000:0000:0000:0000:0033
+b0.nic.origins.	3600	in	a	65.22.53.33
+b0.nic.origins.	3600	in	aaaa	2a01:8840:0033:0000:0000:0000:0000:0033
+c0.nic.origins.	3600	in	a	65.22.54.33
+c0.nic.origins.	3600	in	aaaa	2a01:8840:0034:0000:0000:0000:0000:0033
+nic.origins.	3600	in	ds	24552 8 2 8D18CC0B50AC7EE9779FF8D9B20B5CE1880E510E279EC406B61E036A88C6E426
+nic.origins.	3600	in	ns	a0.nic.origins.
+nic.origins.	3600	in	ns	a2.nic.origins.
+nic.origins.	3600	in	ns	b0.nic.origins.
+nic.origins.	3600	in	ns	c0.nic.origins.
+nic.origins.	3600	in	rrsig	DS 8 2 3600 20250916152408 20250826142408 10815 origins. HTor3E0S9LsldEPpwgxns+6U/W45cUMNckavbtrspuiFpci3iTwd+ZUdiJ6XaCX6tyBOMwxisxJsdoFAwORtMcFePjS/2/RQVHtm7Q3KvGxtmpXVqm+W3rhuetD7/s77FLUcfcVyPZm5ui1DN+ZTkbzEh4wthsEFmgXW6dVYJcg=
+origins.	3600	in	dnskey	256 3 8 AwEAAbrV2VGuB2ap4WaEMok7ouTFnCCwmBfJ4B5YiM9H+Cycyt2EQFDSZjY/PcAEP9XofwZuBCyhJDA+4WVOC31Dxoyi18CTbmYUcwjsgeEKJeJRR/9Wn06CaggiQRyYzswFP/ODcbWD1AT/dufZ86JsHDKmBmf9vQ07Dj5h7KLpzCeV
+origins.	3600	in	dnskey	256 3 8 AwEAAcQdcwKKMZymgHz5aWJAa7+IsbFGniOokJNM4rEzk6nvKg627hf4L6GdaFqJr0Y30juInK3vREjg/CbqsdSPxwZyKMVWHH/XP7spvfUQeoRr4CZlwIxgku8TS7/AxQfWvjzTzh78W9zRH0azkYYOLH4KrcjWjtfFWv3YbK1wkrXv
+origins.	3600	in	dnskey	257 3 8 AwEAAc9roszIat2dTI/4xeKh5++2SYkSRJa+CD9cz0alUPCgV8W2XUdVo71gsEkLXt0/cORz0Px869vpXGF6glsJ4jfxsTj4sPkhp5tize2+H0ozG1P0mnMDg3gt9W/SKDrNujvuGtuOm7lnSfcaXVdjMympty3FxypmUicXqVAJIItKmFyVkFOi+tPpn4CmJv7Sx5b3/POU/MqMGNcEzaYAIu1gf6qJFVfdLTiYoyj7/JGVQBAFFHBXVE+3b9E5B5r0vXBbSiXkcQ9j5fedApZtPGdCwfw+MfBPMz8Yae4uB0wKrMIQ3fVQHoN22ilLB/g/WiRMMPA2XAtVf5YpF0beEas=
+origins.	3600	in	ns	a0.nic.origins.
+origins.	3600	in	ns	a2.nic.origins.
+origins.	3600	in	ns	b0.nic.origins.
+origins.	3600	in	ns	c0.nic.origins.
+origins.	3600	in	nsec3param	1 0 0 73
+origins.	3600	in	rrsig	DNSKEY 8 1 3600 20250916152408 20250826142408 25234 origins. LfKlzM4miy36TGuilBUIGIOyRZIvLob8OnCaRFov3tZL5FGttyEtioo3eV+ogLpzCWB2WKdItSjTmiKSq6JM4FwEZo6u/nDx9p6ZLpCrYCZidwCVsGEqLkvV8o+00gcXX6OY9MgmkYMT85gpaxR4vpml+aERW5VqdMaZ2a7W8Yzu2ndt71AYi9DAZz67byh4ZAPFxVCC3z8QFnCxzWOkJkvjaGKB3wE4vBUG0x1swHDjrUYR1v7HfXRtYv7xgKO+z1HHPEiTW+6ANWibnwMD76SNryo3htodIusK99I9j2qjFf2Xs6NkZ/FachtB/QkQ0/fAKpcZ8SyC+rVZTb2dWw==
+origins.	3600	in	rrsig	NS 8 1 3600 20250916152408 20250826142408 10815 origins. aAp2HSlIJNaLefaMb3ll4xLGtFWWzhNPK6cmFyQ9RAzn4yEjCyFSs/zTXnDB6FGakJ1wFzNh0hFRHoMY+y9aqreqLfARvzMofPF0w6+EqTvmZIBr9yxi8NUF0/psepUXVRA1CW+fc6r+S/MvQGuGx/t9TU8VShZEeeGM94mTAZc=
+origins.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916152408 20250826142408 10815 origins. B8rz8WLzlPTTXHjgryt+MXXJ0Y8Ir+Lg9ca7BoDAp4rPHAaI6lX3Pn7A3iYaX1HHB73tUox0vdlNnrfX2BJ3Hg0Pe0jjoNbjg1OTRiqkEZzpYwNMnv3F8ExzwOvQKVf65NxZBrwMXJupf1/NRFVzVp0mJ9Q6ay1C8eV2NEmTwFQ=
+origins.	3600	in	rrsig	SOA 8 1 3600 20250917011510 20250827001510 10815 origins. cm4P9B06TVf12B9M+oadvPCMrhr8/bf0olPM0H0ARbtm4K7+izA5LmKZV1Xc1WSzQdv3+EeCVd6V6h/H98P8ZXX48bszEgAJIYJS21VcvXCrPJuhDQV0iw7TPl7pIoTKaJRCBqM84I4NRV92Rz4chPdvic/i/0Y2TxjlAeovFPI=
+pteskgcst1s18gqdg40cnas7nhdm09tr.origins.	3600	in	nsec3	1 1 0 73 UK8E9IQS9P730MBAB28NDI6UE6M9RNL6 NS DS RRSIG
+pteskgcst1s18gqdg40cnas7nhdm09tr.origins.	3600	in	rrsig	NSEC3 8 2 3600 20250916152408 20250826142408 10815 origins. olmoJGlLt+939rTq9SBqm+jk9x3tJm+LvCss+TQUqlBhJBNZY4heI28PjpKbCq/4mUvTcJ8g/hJ+wvAncJnJG6wkksAOK9RSiP3KU0WIX3vpa69vbHn9gDAplcNj9M/20hOBrjWt1tOK/cFF99SQxrfD3E2JkBdQkkYgEiZ+nT4=
+uk8e9iqs9p730mbab28ndi6ue6m9rnl6.origins.	3600	in	nsec3	1 1 0 73 PTESKGCST1S18GQDG40CNAS7NHDM09TR NS SOA RRSIG DNSKEY NSEC3PARAM
+uk8e9iqs9p730mbab28ndi6ue6m9rnl6.origins.	3600	in	rrsig	NSEC3 8 2 3600 20250917011510 20250827001510 10815 origins. a94zaqrhxTnE2sb8sHEMv7RivRa0obsqicOugi/SXLwyqtm1Ox1SqtOEogPjQ1Ns8K/iYUsHe/OT+Fn8gH+/DqdFniHKt0YVQi6hRNiXrMaOEU0Xz8Z2Lu3jWtA9K0dm0h7YCLGHyfnJVMj2LHQGkh3fRzcW6+GoDnKQofU2SbU=
+origins.	3600	in	soa	a0.nic.origins. hostmaster.donuts.email. 1756257209 7200 900 1209600 3600
