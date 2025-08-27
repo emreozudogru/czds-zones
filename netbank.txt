@@ -1,0 +1,73 @@
+netbank.	900	in	soa	a.nic.netbank. admin.tldns.godaddy. 1756204664 1800 300 604800 1800
+_forcedupdate.netbank.	300	in	rrsig	TXT 8 2 300 20250908102506 20250826093744 2571 netbank. xUM8LeZD3nsXswqoJDWtqLvg4jnqhuZCdlkwGi/AS+Q3SJ5g9193Ip/RJtIfPABQgxVzS2Oi6prgRWXXk5OLdDV88l4AoTNY8Le1fXXKy/xf7OTfP1IubbJ1SUog9siMI5eYVznbcjlemOLTwMzSiZF+5S+phrzBBQ9Ii9QNKi0gAEG5UtLDqzyw78J25OF5di9IWW64GHajPZFPLyZdvw==
+_forcedupdate.netbank.	300	in	txt	"1756204664"
+a.nic.netbank.	172800	in	a	37.209.192.9
+a.nic.netbank.	172800	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
+appstest002.netbank.	3600	in	ns	dns1.cscdns.net.
+appstest002.netbank.	3600	in	ns	dns2.cscdns.net.
+b.nic.netbank.	172800	in	a	37.209.194.9
+b.nic.netbank.	172800	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
+c.nic.netbank.	172800	in	a	37.209.196.9
+c.nic.netbank.	172800	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
+d.nic.netbank.	172800	in	a	37.209.198.9
+d.nic.netbank.	172800	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
+m.nic.netbank.	86400	in	a	204.74.104.90
+m.nic.netbank.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+n.nic.netbank.	86400	in	a	204.74.106.90
+n.nic.netbank.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+netbank.	0	in	nsec3param	1 0 0 -
+netbank.	0	in	rrsig	NSEC3PARAM 8 1 0 20250908031043 20250825022450 2571 netbank. bfdJt4CD14kYTnr9g672jhuWZeEfNTtcc/WMDoZgqockgt/lGabUYU9Vz1S5m0cIGhrzh1IwYkyEk11bIQkMEQGmwFX6OaPkYFEYKTvEOAD05OH64J4W/iyz3QQzxYqFSSV2Vu5bnFzopfzkOQq1IaqcokZhe+Hqomgecb6wncZHW9IiWuLENeDO16h4k2ksY9nIluiAieWiOgZk9BeczA==
+netbank.	172800	in	ns	a.nic.netbank.
+netbank.	172800	in	ns	b.nic.netbank.
+netbank.	172800	in	ns	c.nic.netbank.
+netbank.	172800	in	ns	x.nic.netbank.
+netbank.	172800	in	ns	y.nic.netbank.
+netbank.	172800	in	ns	z.nic.netbank.
+netbank.	172800	in	rrsig	NS 8 1 172800 20250906052134 20250823043709 2571 netbank. IJXyp3JcGabzLBcAaheO5J8t4KY/x0sUD6DjJyjf/aSF8h6KZJCGJUV+Md/BE1YlASQzeRqmCBzmJEMA+CzgppAX8BXTvkqSEl/HFvNL1aZS/HhLVWpj7CRNqP0nluDzXMqkKN8anOADf3SbVknHUIW0/LGgRsgeH4loIa6wahMSvsHEGED7e815p4sqn+ZxWTJ74APKpHtsudJwr4eGxA==
+netbank.	3600	in	cdnskey	257 3 8 AwEAAaVC0INQnZBKctutyNaT/ve3l7pzbjVdzaB1lmVDEcnp2K0bs1tEImR7LCkU+gZnq2Gg04yCNJo8vSfFdmHNHH7Cv4W1VE9E+1RgXij113qkWws5QsCVspgNMEsfYQW8sKG0EHativAjHHnFQAXE74lLTc5YA1tn6W7uo8FtJCIsGEeOtsd5rvncuzmGb2btVowMAuP+trx07bii8whJPpe8pF+7ci8hKwueMzz/JFrk9RcKJ1rTe697P6ZX7F/GZBG0MnlKFef5/oVLRRDhXOYbhcX5Xxv8RhtFkCH0AlQ0xvuTmEhVEDmIj4xcUoR6SVDoGnBGj5mvsSqsaKbFGSU=
+netbank.	3600	in	cds	29050 8 2 401DD968541610C0A000139E1462693701042A2931AFA1A246D8BFA05AB13C94
+netbank.	3600	in	rrsig	CDNSKEY 8 1 3600 20250904133919 20250821130703 29050 netbank. mX+5fECYvCGJw6e4FRHtrPT8tNR0PVm+YHd+HJtOpxtefwSQ37JGwcM1Ir6qvbTuoYVIhDeWVSf1NWwtm0rP5FDozKPGEeb3qFCv8KODwLI8PufocEK7JGPmGWzH3jidwJRje8gcCs1OJndFvzm0+mr+VudGXFiEzHlmemqNUBXxkCAG139x9P7MyIMot94ocnt+4uBsv/BK9sUddbospR8og5u1z3NH+6u5Wl2DsT48yZZehS6KXyIQ3JX0oc4dpqvYTs7aJ9bydjy3nS5am7TqLLCLG4FYd5GBPcbR565acfMXMLenwE0z1b4NFBsc6gv9dRRP07uHmh8kqW2iJg==
+netbank.	3600	in	rrsig	CDS 8 1 3600 20250904133919 20250821130703 29050 netbank. Ifu73y+JewrV2TVtBqBVtRALiDaI9WCvuhFlrZoM5lKXHzm2kBgwST0f1FkMtn30DsPv6acZf+WD27WyTY3Q6DqXhWcbllh2ptdHwLqQiFmvVEKEywUK+JgpR8aaOYbPeOAvFFYhQyyImkrMziqhpIt0IRmRCoW/3mzvqWP79/EG/o89XEcBGddtmWoddp/F8K6lNu2wBNML5iNlMH2e+Z5EyjAMTmWyRp4RmPhMK95/cO1CxtWJpP5P3EXtH1tk765tmO3V00WwjfzPuGL3WCIN53gFG77foA2SWSKnlFW1ivdm9NEXstF1Zn3kenaKfWsXPs+j+dwt6OU5saaw/A==
+netbank.	7200	in	dnskey	256 3 8 AwEAAca1DfzXqNaHP2LIcCelOaMYSBZESzu5nbRqu5Y998OWgssNMTXDG6jcN5Dysc16QP0+hPg2cZ2y36kKOoekf/RD0Gvwqn4su+rP9HdMpcmqy4iV9gZgOukYy3dI6HHmZhZh/Mq1kie9mmaBgv5C4gXSW3PVMgqHPo7mznmzUkNpYQWWA1RqiQ4MaCtJW9WeFJ/tFoUcXeA9eTAqMJANBHE=
+netbank.	7200	in	dnskey	257 3 8 AwEAAaVC0INQnZBKctutyNaT/ve3l7pzbjVdzaB1lmVDEcnp2K0bs1tEImR7LCkU+gZnq2Gg04yCNJo8vSfFdmHNHH7Cv4W1VE9E+1RgXij113qkWws5QsCVspgNMEsfYQW8sKG0EHativAjHHnFQAXE74lLTc5YA1tn6W7uo8FtJCIsGEeOtsd5rvncuzmGb2btVowMAuP+trx07bii8whJPpe8pF+7ci8hKwueMzz/JFrk9RcKJ1rTe697P6ZX7F/GZBG0MnlKFef5/oVLRRDhXOYbhcX5Xxv8RhtFkCH0AlQ0xvuTmEhVEDmIj4xcUoR6SVDoGnBGj5mvsSqsaKbFGSU=
+netbank.	7200	in	rrsig	DNSKEY 8 1 7200 20250904133919 20250821130703 29050 netbank. L2kptRY0hYE0MOmR2IoWMTbK8Bpx/Hmfd5eGECHToCzHwesaBO/Fku+a1EKY5JgH/cj/ok/NUE4dW618eEcb46zufPk7S3sD8BMY5/HnZqPMCTZGf9kB7Yz4dvzi5QeFnZY9StEjf9MRu2N/fyAjv9LZ31BkMLJlcsRhV9O6KX3R5lSnQ13Ghxd56GplE8hgi82mG/lWOtaCPaW1XLmT7SVV1BrO5DAao/nizIXx/ATAYA9ESK8MdCKJ2qeCcqw9RtJi11IGRMyx6+xACZ1wpMuptqHFKriNxovzHLU1rlvrU6vW2DhVrmudyPH4jICsChXz/SziJfNS+t/uuaoJbw==
+netbank.	900	in	rrsig	SOA 8 1 900 20250909103744 20250826093744 2571 netbank. Kxv0l9NLQoDCG0YUlYvMoiCMrro5DN+rfJjAJOwgHDJdiRWfBkzeI/rQ6cOmPCmr9h3URwpOsnwHK0/CAKg2tHlEMNbKLtkcca96UjARKelZLMgcjkW/74Ed+uJ3pUMyWFJp91FUDTawnzsDWhexYLeLfwpu96rRgoqw3tZlw+wU76IwJYmEAb+OuURHN8036oEUSEV1ACuKtKWhEN7U+A==
+nic.netbank.	172800	in	ns	a.nic.netbank.
+nic.netbank.	172800	in	ns	b.nic.netbank.
+nic.netbank.	172800	in	ns	c.nic.netbank.
+nic.netbank.	172800	in	ns	x.nic.netbank.
+nic.netbank.	172800	in	ns	y.nic.netbank.
+nic.netbank.	172800	in	ns	z.nic.netbank.
+nic.netbank.	3600	in	ds	4120 8 2 493C5636466807A30CC7B3A2EEF94C4C950B102C973B7775066B20A3B2CDA33D
+nic.netbank.	3600	in	rrsig	DS 8 2 3600 20250906052134 20250823043709 2571 netbank. GpRJsYM1Gu4l6ih7ToxAWG3Pilwj+5oHgyBRKhBzlNHjSmEuN1s9Wh0h85CdU3GAWWIezl1ORd6SYGUCuauPuGTszuAYIhYqUW3G3IVtGyXHKZFDY1IESzShti5lCTmhWjg2iYroxB24ur5jHKo2UCwVpHEa4S42CIirqVAmVjq0VyBCXPh6inFj5jK4vD0gmFMse2k0Ht9lp9Ir/WOviA==
+npg5vfverlldmrkjuf78p0n4n329ha15.netbank.	900	in	nsec3	1 1 0 - P356U6MG4U3R7SM9K5HQF9SNEU7852B0 TXT RRSIG
+npg5vfverlldmrkjuf78p0n4n329ha15.netbank.	900	in	rrsig	NSEC3 8 2 900 20250908031043 20250825022450 2571 netbank. JVLboj9Ygx7BIhLOSmyPHppUBmq4DBM/IZ9RA+r9hnhhQqSpa92yh4HmtvPdV+bSQsFc4yis3lSXSOPwxiTAgBRyft7yZ6JNNO6jPMjQos2frjR8ua5qUu9g5/D33O4oUHqPkMtaDlUo/5Xmx2Ks0yuqNq+ZFiByd2w7+eqQ7A0RZ+uWAtagH60lEKzjyeidWS8bhRBHBmgMgcEsGsaQRg==
+oneplace.netbank.	3600	in	ns	ns-1065.awsdns-05.org.
+oneplace.netbank.	3600	in	ns	ns-152.awsdns-19.com.
+oneplace.netbank.	3600	in	ns	ns-1895.awsdns-44.co.uk.
+oneplace.netbank.	3600	in	ns	ns-723.awsdns-26.net.
+onetestplace.netbank.	3600	in	ns	ns-1496.awsdns-59.org.
+onetestplace.netbank.	3600	in	ns	ns-1901.awsdns-45.co.uk.
+onetestplace.netbank.	3600	in	ns	ns-440.awsdns-55.com.
+onetestplace.netbank.	3600	in	ns	ns-518.awsdns-00.net.
+p356u6mg4u3r7sm9k5hqf9sneu7852b0.netbank.	900	in	nsec3	1 1 0 - V1SIHACL8CNHS6EBPEQG0EQG42NECF68 NS DS RRSIG
+p356u6mg4u3r7sm9k5hqf9sneu7852b0.netbank.	900	in	rrsig	NSEC3 8 2 900 20250908031043 20250825022450 2571 netbank. DNAfLrgRwNJrFNtopy+VgvXyJZ06ZpUZDSmnlp7DeqnWYv3sCL29IcTTXdIn88fuyh9VeqVp/NM0PnTh6ybGoOINZhxMIJ0u1uEamLSYXM2bIr2mf9kJo+vXaizAMUoxZ8wBOyx3pk6KzFW0ZIm4EhPxawQlRs5/wP5KUqQ4kXAW6MMQHYM0QUwxDmpJpyFTOpkCX25TjfdE/8JCPIwjkw==
+u.nic.netbank.	172800	in	a	156.154.169.82
+u.nic.netbank.	172800	in	aaaa	2610:00a1:1071:0000:0000:0000:0001:0082
+v.nic.netbank.	172800	in	a	156.154.170.82
+v.nic.netbank.	172800	in	aaaa	2610:00a1:1072:0000:0000:0000:0001:0082
+v1sihacl8cnhs6ebpeqg0eqg42necf68.netbank.	900	in	nsec3	1 1 0 - NPG5VFVERLLDMRKJUF78P0N4N329HA15 NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+v1sihacl8cnhs6ebpeqg0eqg42necf68.netbank.	900	in	rrsig	NSEC3 8 2 900 20250904133919 20250821130703 2571 netbank. YZTMOoMDyn7p7o33cT7Khat50qNFOKxA5oc5q1i+lAeeNacsloVhQ10a6W1UR4QQPLBGh+sstv30QaGuWkhqsabut39urKscWTOAghvfK0RMJ6Yv6VjtjWD6Y2N/hChs4GqaCB4sh7IKhnUIsw9QtNPdy6yLz4vhFB0ZKLjQ/CRkAluUPijYkGOQOL/5epBOgrjpk0/yJkptuCow37pbBA==
+w.nic.netbank.	172800	in	a	156.154.171.82
+www.netbank.	3600	in	ns	ns-1079.awsdns-06.org.
+www.netbank.	3600	in	ns	ns-1938.awsdns-50.co.uk.
+www.netbank.	3600	in	ns	ns-387.awsdns-48.com.
+www.netbank.	3600	in	ns	ns-517.awsdns-00.net.
+x.nic.netbank.	172800	in	a	156.154.172.82
+x.nic.netbank.	172800	in	aaaa	2610:00a1:1074:0000:0000:0000:0001:0082
+y.nic.netbank.	172800	in	a	156.154.173.82
+y.nic.netbank.	172800	in	aaaa	2610:00a1:1073:0000:0000:0000:0001:0082
+y.nic.netbank.	172800	in	aaaa	2610:00a1:1075:0000:0000:0000:0001:0082
+z.nic.netbank.	172800	in	a	156.154.174.82
+z.nic.netbank.	172800	in	aaaa	2610:00a1:1076:0000:0000:0000:0001:0082
+netbank.	900	in	soa	a.nic.netbank. admin.tldns.godaddy. 1756204664 1800 300 604800 1800
