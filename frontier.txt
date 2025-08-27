@@ -1,0 +1,59 @@
+frontier.	900	in	soa	ns1.dns.nic.frontier. admin.tldns.godaddy. 1756190503 1800 300 604800 1800
+1on5mr0a1ht2lnbdkoptvb7fmbjctelj.frontier.	900	in	nsec3	1 1 0 - 242QF0MUFGCU6547C076A4KQS1M5T7G0 NS DS RRSIG
+1on5mr0a1ht2lnbdkoptvb7fmbjctelj.frontier.	900	in	rrsig	NSEC3 8 2 900 20250909031757 20250826030149 15900 frontier. Djn6nI+MlUv6l+PxF7nz656rWx/0YQDXOy82U+G4uy9EkeJH/Ngzro5rl+U0CW+HBDINCURSZ8fjzIqXi9RSOYLnUd3R8MX8opeerc5jdMrTIEnE5fpAjO4uTygEDIsNYkzhXMehk85wpwSK6wyHeoTSQE5pKc+OacO8PkRrAz+yFL0MfzK35k2lByRcDTblmBffRYWhY16qT332r6dkLw==
+242qf0mufgcu6547c076a4kqs1m5t7g0.frontier.	900	in	nsec3	1 1 0 - QG4L5QI8TBRPMF5MLF2Q740TLVVBCIF1 TXT RRSIG
+242qf0mufgcu6547c076a4kqs1m5t7g0.frontier.	900	in	rrsig	NSEC3 8 2 900 20250909031757 20250826030149 15900 frontier. NSlEl6veogFo1Qzsr6l3xFWSYeFcrykfuLAQthFpACfVinaFynaon5yRZv8cwJIwZxn5DIbyerI604X0XFMvPDCPvLqWWz0eJUq9VSGbnjJLc850Fk1Ck6KNAn17NCw+CB+U5330YLscIG7XTV3FcVbiCj2pNd2o6L7McpbzQtw44HJzhzp9fhqYSSDhqWoppjI20VG8IZqtwRRpu3Dh1Q==
+_forcedupdate.frontier.	300	in	rrsig	TXT 8 2 300 20250907131018 20250826054144 15900 frontier. xN1H8F1pWrUT0BLJOYTmPt4UT3kcYq82Q7kKYy5n1G0N832fBGKEr9gw92a/qTm5Ybueoepz9zMsgjBi9L7cts5MJCeNRHRggkv+dSM/xLz5REpF18etSGhZbJfPktLEiQgQrk0d5qwcy+GKu8bhWJPtk348TflgroVXmQim9rdOa5qJH2pi/sMukylga68MAuqG+Ya4kJ33oZ+szbeTeA==
+_forcedupdate.frontier.	300	in	txt	"1756190503"
+a.nic.frontier.	3600	in	a	37.209.192.9
+a.nic.frontier.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
+b.nic.frontier.	3600	in	a	37.209.194.9
+b.nic.frontier.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
+c.nic.frontier.	3600	in	a	37.209.196.9
+c.nic.frontier.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
+d.nic.frontier.	3600	in	a	37.209.198.9
+d.nic.frontier.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
+frontier.	0	in	nsec3param	1 0 0 -
+frontier.	0	in	rrsig	NSEC3PARAM 8 1 0 20250909031757 20250826030149 15900 frontier. oNIL5qshkAl+3jqqrHrCUE8vmClJN0coM5XTA+U2Tn/KMxpm346OEr1EXsvUI3Nn7HLxWewzWPrqLRD1v3JV/cs+nPMQ7uCqfsKJ7HES9hXJef5ZuZvuQ2i/iI/jIk8HVXzx90Ytn1B9ducSu9JVSx+qALv7TwAqa0rx36XjTDf4z23MOFIz6zIc2IrEVY94rnO0xrqsLopV1MSYMCHajg==
+frontier.	3600	in	cdnskey	257 3 8 AwEAAdh6cz6crAg25ixP28A+/UXgcT8gUh2wMfGGT3esLf7ug1ktFCDt3Xy6XH6W/AkMoXfU1s7zwzRnptwfdn+MiNb9JAerIN3ABt7pLHK0vKi5D1cM4Fj1ejX1Zgih05iJ1CTPvoy/ElH3M8TZ8NSYYR7rY0H9HKRlxTlz46f5vpTJ4001swOmWBSBv3fJgemEWhdI9yTT8CFt/BnzRJawjSTjfcL3vsmPrPpE43IKBZXeYK5heglGrA5ttE7lv6w5ClW8PkZ3f29gOnP8XHV4kwuJ86TXcpMfNUBWMVFBFNxlGvDzrSIXWELBpuAYfK6w6ox9OCsSjrNxFnT6y+I+GJk=
+frontier.	3600	in	cds	32674 8 2 43ABF7B723073B5ADB567BC9095EAFC64367D702C7818DFD97B7C293EAB0B4B1
+frontier.	3600	in	rrsig	CDNSKEY 8 1 3600 20250904115931 20250821113945 32674 frontier. D//Vf5aKODPvRKPqtcZGpgAipwQmBgic/ED1DxLzeoKnjSAfrab2+4+OwHl+kb0cA20GtgllnS1EFFzczOz0QnsR+qtmz0yN0Agps3xT4uhW7w2BrC6KM2w3knJQDvPYS1qZy6DEkQFb0oxkxFz0/DCSWnVgrAJf5ueza+e7ks07o59iNJbt7VRncE8cUxcpkjKCgOLoFCa82RlyWudQ3qtgoBV5SMRX0ok+B3fZfvHIes6qoDlF/lWBW9YOz1em3dRgwVfr8za9KCNT+XpkLl462DQa+EQ4h1EHAOZg3993Pv2Fra0Vlg0WlDqzEhSZqkMgT3cZ5FxtSnOA6q0qKA==
+frontier.	3600	in	rrsig	CDS 8 1 3600 20250904115931 20250821113945 32674 frontier. q2C7rS2csZVbK2PR9AY8A8drN677sZICNF7YHKwg67ck081Wy7VEV5IyISMDKeg2FlkZ2aGVLBwP4kfEBD+J1xN7fp+lfvqu3fxPSkdzWzyIns9DQcgMTYiGvuALDsAwMwCmDaXuRiPS6hWA17gfH7thrP1EC9x+j6IwiBEYpbjKEREs4tMarhhDKJUfYFrZhsMFtS0KzNKt1Mi9OoWwfyBl06pQGzKvbW96TVly2toRs7jeZnMl3cG+5RXwQxX14DXlmjyF/QwCvDTMoyHpb/uWjymWP/FqKUymRR6jC+m7NeIOFoMMuYEMKWbdOsfCTvumOcoWy8CtGUWVU1yhCg==
+frontier.	7200	in	dnskey	256 3 8 AwEAAd7sobEX5V1hfaRXqgPp8qq3xet5DZyIq6WIyxiLz32DNvfQsLdfQDovOVfLif5ZAAAcmoThYO4d8EjlO1Z81bAQQWFzn1pwO5xphymrst5FQdTMWHpNOJa2CRrA+QbSWbIefII86aRWXFudw1bLIuSNUukC8YDlyp9fypAaapJJQjp1k5No+QSel7Xl1o/xqTs+Bp5tnsU87k1OskDwJRc=
+frontier.	7200	in	dnskey	257 3 8 AwEAAdh6cz6crAg25ixP28A+/UXgcT8gUh2wMfGGT3esLf7ug1ktFCDt3Xy6XH6W/AkMoXfU1s7zwzRnptwfdn+MiNb9JAerIN3ABt7pLHK0vKi5D1cM4Fj1ejX1Zgih05iJ1CTPvoy/ElH3M8TZ8NSYYR7rY0H9HKRlxTlz46f5vpTJ4001swOmWBSBv3fJgemEWhdI9yTT8CFt/BnzRJawjSTjfcL3vsmPrPpE43IKBZXeYK5heglGrA5ttE7lv6w5ClW8PkZ3f29gOnP8XHV4kwuJ86TXcpMfNUBWMVFBFNxlGvDzrSIXWELBpuAYfK6w6ox9OCsSjrNxFnT6y+I+GJk=
+frontier.	7200	in	rrsig	DNSKEY 8 1 7200 20250904115931 20250821113945 32674 frontier. abpu0lIXwfIzQFpsWZwxmdQVTpkLSqbJ+En75L5pcX98sKVt24v2J+0WB9uilY9W8Tgaynw1XedkrFLYhv+nxut5Z3M57fnLCFv7RovCsbMbLz0/fDRPO9P7OkJOOjfdu3Gj+OaMXjW5PaXTnDjc5AqgIovbKQaD5fi7P1iJC4N0tTZqsaMZvJ7RJMuvwCXrIfo5pVzJqLXP80aHs3OYu2yL5ZHEGmDIpiUC/0gyQg+oTmGX/OZrZamLOLc2udbWQOrV39BSPO3jGTrdHtuxXBkpNQjOJIS6IYNLEiWDZr+wvMfyAcnZ/zJPhZhmVieC5Mh+RWnRZpTL+gaba5BwhA==
+frontier.	86400	in	ns	a.nic.frontier.
+frontier.	86400	in	ns	b.nic.frontier.
+frontier.	86400	in	ns	c.nic.frontier.
+frontier.	86400	in	ns	ns1.dns.nic.frontier.
+frontier.	86400	in	ns	ns2.dns.nic.frontier.
+frontier.	86400	in	ns	ns3.dns.nic.frontier.
+frontier.	86400	in	rrsig	NS 8 1 86400 20250905045031 20250822043202 15900 frontier. aPtesKwP0L7I2drx9Kwvw896owDE/yForU2RLm03dJZn9zxhwXcytQoxx7e6piSzrWmBlcoIf59+N3HnAAozM1X1FywIGrK8wWiw0lkZeHCXX0tz5t0qBo2vovaK3kLvAx4/TZuBMk+TLP/oseka0WwYzqCdIX1CdUlT2s0TJap/F8YaiE4uXRhxKQRwWeeO4hQuYQffzj/qJ6iUfBeI4w==
+frontier.	900	in	rrsig	SOA 8 1 900 20250909064144 20250826054144 15900 frontier. aCA6pVg5Q4OPwQzTx+kcRqMIZ3GpK0a14VPXCzxOdMQwboMWfh+iO8P3eqtEa1qj58itXN7XHhs6E2w9SvfDuSpQj+aqQO4SoqMtRwkofSx32kmnA8zWD7si1LNWiu5K7/Cb0gL1WTgI30yyXbUwtu7LQD9oFPYwe3qju/RxdrCfG+6GIAeGxvnWt2vevn7XGR6tcraAAKJ76nKHn8ugCw==
+m.nic.frontier.	86400	in	a	204.74.104.90
+m.nic.frontier.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+n.nic.frontier.	86400	in	a	204.74.106.90
+n.nic.frontier.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+nic.frontier.	3600	in	ds	21724 8 2 851667AEC2EE7C2E30D837DF0665956984938F99E17263D1C90E1537302B6C31
+nic.frontier.	3600	in	rrsig	DS 8 2 3600 20250905045031 20250822043202 15900 frontier. OQmH9qgJCQUi7T9yZzfadWoP1WzCau1A9Nk4UbXM1I+j5JAnpZwZhZ2XNOgVFdtxt5pphpmbAeZmNxO8nBgLeehM8oGStRd4qi0YAO/U69cA+tknuKkbb8D2e9Kp8AfRiXO2x2GIhvlLrpafScXizxxTytd7pNIJ6ZhRgNjTmZrwySvT7Y8AdXfrrpzwpBb9bYyYp+eVQUaFpfQuw9ZVcw==
+nic.frontier.	7200	in	ns	ns1.dns.nic.frontier.
+nic.frontier.	7200	in	ns	ns2.dns.nic.frontier.
+nic.frontier.	7200	in	ns	ns3.dns.nic.frontier.
+nic.frontier.	7200	in	ns	ns4.dns.nic.frontier.
+nic.frontier.	7200	in	ns	ns5.dns.nic.frontier.
+nic.frontier.	7200	in	ns	ns6.dns.nic.frontier.
+ns1.dns.nic.frontier.	7200	in	a	156.154.144.64
+ns1.dns.nic.frontier.	7200	in	aaaa	2610:00a1:1071:0000:0000:0000:0000:0040
+ns2.dns.nic.frontier.	7200	in	a	156.154.145.64
+ns2.dns.nic.frontier.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0000:0040
+ns3.dns.nic.frontier.	7200	in	a	156.154.159.64
+ns3.dns.nic.frontier.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0000:0040
+ns4.dns.nic.frontier.	7200	in	a	156.154.156.64
+ns4.dns.nic.frontier.	7200	in	aaaa	2610:00a1:1074:0000:0000:0000:0000:0040
+ns5.dns.nic.frontier.	7200	in	a	156.154.157.64
+ns5.dns.nic.frontier.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0000:0040
+ns6.dns.nic.frontier.	7200	in	a	156.154.158.64
+ns6.dns.nic.frontier.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0000:0040
+qg4l5qi8tbrpmf5mlf2q740tlvvbcif1.frontier.	900	in	nsec3	1 1 0 - 1ON5MR0A1HT2LNBDKOPTVB7FMBJCTELJ NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+qg4l5qi8tbrpmf5mlf2q740tlvvbcif1.frontier.	900	in	rrsig	NSEC3 8 2 900 20250904115931 20250821113945 15900 frontier. MmYJSfOYpixn8E9/jmo58ngJBW4LV5e5bkCmRGlN/wwaRAOnQPXdQ7fIebjt5B4drp6jCuUgBR+msHpMhRl2werMYl6SbTw3MWRqf+OlAcJC5jv0UaO+gCd5O9ICvjIdE8W1WwJniRJtpQJqWgTg5KkjLFY+0wFmJrvYQ05ZL4V4RamtTQhxT9bT/mLv2TacI4v+nAdX+gW3zTg/sdd5eg==
+frontier.	900	in	soa	ns1.dns.nic.frontier. admin.tldns.godaddy. 1756190503 1800 300 604800 1800
