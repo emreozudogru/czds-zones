@@ -1,0 +1,54 @@
+secure.	172800	in	soa	dns1.nic.secure. hostmaster.nominet.org.uk. 1637067197 900 300 2419200 60
+4eo80qubc7o4amn7ov55nje2pcbhrlio.secure.	60	in	nsec3	1 1 0 - 8FE8594JBE1ULLM4B3E94D4SOC2F5A2N NS SOA RRSIG DNSKEY NSEC3PARAM TYPE65534
+4eo80qubc7o4amn7ov55nje2pcbhrlio.secure.	60	in	rrsig	NSEC3 8 2 60 20250924021945 20250820020401 35685 secure. SLtGx0w5zfsHrH4w2xti/Dr9QutYgD2VpNK1vecrVefEdVZP98VChbEjhQmZvPAmuOpqGN508UWv03gGPc7MMm6+vhPrqmg2ZKhTnvJivRf9nWRml6iZymD9bZURabdAXQgLcGikuwKI64qjtXozlg6kwSZCi9ML4AzcXk7btZ5yVpxrwBPs6DjGyPwnSt9/tysxBHpAHG36yg5GSqxTv2NVWzplOG6arlxZPH2Uj6vEKfyFFArSGtV/ZjR8HD7qTl4EaS6g8ahaECobrYX73UmIRnmBUIxjophxcwomsY339eJ7xPWE6T5dh7BslSlj+66TJhjarmusAeCHcETIeg==
+8fe8594jbe1ullm4b3e94d4soc2f5a2n.secure.	60	in	nsec3	1 1 0 - EJJSO1V4RIJMKEE0B7FN77P3GNO3RUF9 NS DS RRSIG
+8fe8594jbe1ullm4b3e94d4soc2f5a2n.secure.	60	in	rrsig	NSEC3 8 2 60 20250924021945 20250820020401 35685 secure. APJlQP6mpksm20pAQV5VOLvU939PF5Bpb9pGi8YXlMr/zyLvDnhvVa3jr+6Gus5t4WAA4ABFNaUzeoNZzu+PVbkOmRQmNUIHC05MJ/HjJbZlLulGyOA8RZRzmv3vDiBBRei3vALEJrtwBc4UBNPO+lScAw0GOZub+2YPoYhzJdrqm77aUVDx7796wcwgIV6x3bWty1kjULxT7SSiGlXYbazX5xsGrf5VzpwWx6E0i0RQ9AFAmtL90rx8P5SBoqwXRxCthR4g9jHEoxfCcOOuyi4zsteDQ4KAyupAlaq3n2nxo7loih6g4cotpO+cp2I7S4+alF6HkQa42HKvWccODQ==
+dns1.nic.secure.	172800	in	a	213.248.218.80
+dns1.nic.secure.	172800	in	aaaa	2a01:0618:0402:0000:0000:0000:0000:0080
+dns2.nic.secure.	172800	in	a	103.49.82.80
+dns2.nic.secure.	172800	in	aaaa	2401:fd80:0402:0000:0000:0000:0000:0080
+dns3.nic.secure.	172800	in	a	213.248.222.80
+dns3.nic.secure.	172800	in	aaaa	2a01:0618:0406:0000:0000:0000:0000:0080
+dns4.nic.secure.	172800	in	a	43.230.50.80
+dns4.nic.secure.	172800	in	aaaa	2401:fd80:0406:0000:0000:0000:0000:0080
+dnsa.nic.secure.	172800	in	a	156.154.100.3
+dnsa.nic.secure.	172800	in	aaaa	2001:0502:ad09:0000:0000:0000:0000:0003
+dnsb.nic.secure.	172800	in	a	156.154.101.3
+dnsb.nic.secure.	172800	in	aaaa	2001:0502:2eda:0000:0000:0000:0000:0003
+dnsc.nic.secure.	172800	in	a	156.154.102.3
+dnsc.nic.secure.	172800	in	aaaa	2610:00a1:1009:0000:0000:0000:0000:0003
+dnsd.nic.secure.	172800	in	a	156.154.103.3
+dnsd.nic.secure.	172800	in	aaaa	2610:00a1:1010:0000:0000:0000:0000:0003
+ejjso1v4rijmkee0b7fn77p3gno3ruf9.secure.	60	in	nsec3	1 1 0 - 4EO80QUBC7O4AMN7OV55NJE2PCBHRLIO A RRSIG
+ejjso1v4rijmkee0b7fn77p3gno3ruf9.secure.	60	in	rrsig	NSEC3 8 2 60 20250924021945 20250820020401 35685 secure. XbUByQudSUg6H2FhmNso2DT3kn9TkRgU5bv8etHUjwq7N+QR0elGX0YpqfVBdl53/Lp1JIyTP7Cn3kf5Jmi2xTKEfIvUn/rBqb6dMfzQWRN39L0I1OpU8AZCo7s6RqVMNjbeRBwq8w+/UiLW4CBCKq557hC6RXdeuZHbAQMzFUrjIYVkFRilj3p4/9+gZUCtPJG+a1aMrut2V0OwNld4srGIvwRQkHKLI7xJ8IIVjM/tiM/YKxQGfRuo6q0TgzvkhMyzjTCKXaedqhy2b8lwTInmbmGwLDQl6MF5zh3FLncZv9wZv1hoepqFP7squ+AHdOXGIpZsP4QFXitIv27AGg==
+monitor-nominet.secure.	172800	in	a	127.0.0.1
+monitor-nominet.secure.	172800	in	rrsig	A 8 2 172800 20250930134002 20250826131936 35685 secure. B/FJUKUJxmwx8FA9PpZoRPGbMLK/A8YGzLj1HGjJ2XM2ZCGHaIRnyLk3kVjlTwQk9ZOqOB9OEKxPquTYDZA8mE+g6dB9f1YLu1uhsKK4Z6iivjkY0HoJVvfunxKY/x9FHfgw7wf3+CvFswTr+66kXBEf+13A1ai2Y7s91x0/lrQe1SwPih6j1SZtw77d7aafH4Yu7nzxF1P8rS0lcQRN2YocG05guUTPai33f6/uN2qAQi/fVsYrjfl4o1m1Y8KS0qovfmFiC21uQahemUzt0ptX0kUJJmqQPUeEEqM1Mw3IlWs9zCvCs+vhcPOdgXEOxfpT0Q0s59fpDqLQQOGyuA==
+nic.secure.	172800	in	ns	dns1.nic.secure.
+nic.secure.	172800	in	ns	dns2.nic.secure.
+nic.secure.	172800	in	ns	dns3.nic.secure.
+nic.secure.	172800	in	ns	dns4.nic.secure.
+nic.secure.	172800	in	ns	dnsa.nic.secure.
+nic.secure.	172800	in	ns	dnsb.nic.secure.
+nic.secure.	172800	in	ns	dnsc.nic.secure.
+nic.secure.	172800	in	ns	dnsd.nic.secure.
+nic.secure.	3600	in	ds	12575 8 2 AC284035D542C54FF085E9C87AD38DB3CF73CD82B10AAEE986244624730A994C
+nic.secure.	3600	in	rrsig	DS 8 2 3600 20250930134002 20250826131936 35685 secure. jE7za87Fozhdts/1KykivXahl1TaSSgKnK8F9rZ4Ym6meOLVxo8+ytXaTMex6mukNQh8K5PXmZdXjDEHIhUBjY6WRTKIHl725MduBwi66TNAJqY69ZM0zlbruga7YvPT5aDgo4tuldD+vNUOR4fIn6jjmMOk3PBVsEBVU4nAVB12fFIEBIl5pXEBdwyDGJorRT0rRvTw8X/UrPijOrQ034ECFFwEeBKISV6KY0Hw0XDoMw6rTrt36jnJi9V/3wY9EUGGiuiuHBIrNTWfAUCMzdJojQ2GHxZZwZkz9h7iRexaEDSr/io3TwzdYKY+Bw5JylLWGS/jAicCv3EO5+lDUQ==
+secure.	0	in	nsec3param	1 0 0 -
+secure.	0	in	rrsig	NSEC3PARAM 8 1 0 20250924021945 20250820020401 35685 secure. tcPgEb32VQLZe2lJNy1E76CWRqcwJvCpHlFY2Zsi5OOfc4vd0JF5Gvc6Z8sd2/fjXRWpDgsHyVXBhLV/3gPFYfYhjlsKPzJot/d5Jvy/RbB5+m42E8JGyN3tT9UTd0M2tLud/Y8yY/1RIpIrj+kr9pdib6ZPaw3Dj9ccP+2aIhJiE6Chx6+qP6UnjbkvKRY2KPlf/fbIqwVp+dOM3sWQMPnIU7X9kR0vTBKpuToNobl484LyJ+UTpeciOW+XScUn2XFD9959GewxDc/3/nCBmaqLCxVkDr+xypuqZ4Ohm5+XXBrTpo1TnBn9LpaZzt8UGHIN4ojqXOdUz9HiF/c6rg==
+secure.	0	in	rrsig	TYPE65534 8 1 0 20250924021945 20250820020401 35685 secure. NclY0KxRvjSfWknaQPTQKlu/s3TTWtNmdkM4OemTzR5GCs1JNuQwMBjfQUN8uKBJInTtN5ZO6RUQGDoPL6jOU1LZt83jE9GjIg1Onqosb6mKTonEmGPtj3kwQZ8rdfomSCdbfyMphQFyzTWmoE6Sg5tB1DwO0G1ceE8ctkM3I0t5pjar/g9MF5aMiauXKY9/8+9PMHvMmfsYb585PvXlPVIDYjr67tHNJXaew0pwHgwy1MqJw+c2eKLwAdZRJUcDIsFJQdTR2xA+au+AfOw38aORLOBFopKjCpP9oMT2h9gZUVXoALAwvA9ufudHOl+g5oxMc/CIwcoFbdC422mY9Q==
+secure.	0	in	type65534	\# 5 0877920001
+secure.	0	in	type65534	\# 5 088B650001
+secure.	172800	in	ns	dns1.nic.secure.
+secure.	172800	in	ns	dns2.nic.secure.
+secure.	172800	in	ns	dns3.nic.secure.
+secure.	172800	in	ns	dns4.nic.secure.
+secure.	172800	in	ns	dnsa.nic.secure.
+secure.	172800	in	ns	dnsb.nic.secure.
+secure.	172800	in	ns	dnsc.nic.secure.
+secure.	172800	in	ns	dnsd.nic.secure.
+secure.	172800	in	rrsig	NS 8 1 172800 20250930134002 20250826131936 35685 secure. cGtYs/uawVTqQfA0/Q7qxYQSUP+aUo/2K+VgmcFOLY8VlEUzP4tPcar+gckInV6o+vc/u+c6DxjIbEz2j4/ffmm59Ml0McWLBBjCNkAQAGrKs2YmVJYB82NPyaSP6uNWhCYkE+lj7DrYv+l0wbxdbSQb80pjr3+D2SywU9KP3PGPQg4qRs28/LyRSY69EXGLRYXLclvgNTUIWBaZDpL04v6mW5xbWAaup74acnXxFZWsbmUWeSAvh0b43jOTH5qWokr9OY2C0pwy+3JDYQgypOolLsqPjIwxSmfylBIBIMgbwwh3bMqyvk6dYvJWnBLwkkhhhESuItpOmUhkEq+8SA==
+secure.	172800	in	rrsig	SOA 8 1 172800 20250930141936 20250826131936 35685 secure. VpU8f1jYrPevSdXRuZe2mx3u+ib8XRBHEADfAMDywxcSuoH7YOl5zjJpjQXHoShy50g1P/C06wKdwsdzoNCCq3Myxro+/g1Q4Ns46sbp5L2VRBRNYSqjyIVEoNgaGRWVbQXptJSgiXPAN4dtZTUqTGx+87VbE8N/msuXiY54Eb3IWXEBddZ3S/+IgDLTS1V293XFv27S9y3VvWKf79hf3Muo8sF3ApkvVFwu1fbde65z9uqCDXmj4jL6XKbS5k9IANccoYWO9rvgqi1v4YQnuosWho06dp5jq9wWe1UKGkIwlDCE6FCMH0CRwPwy4lZJ4saVWvlUbs5mXFT0OpIWSA==
+secure.	7200	in	dnskey	256 3 8 AwEAAdAhIlEpET8R1pL0u05FqVWlQ/GD4jVrQS+pYl51aYAEx4R5gd5a/2JmMLrIVDjYgh7v0Rmb3IZLJCoeLNJvBl/k9WgT8WkEhgMGG1Ie3P6OOO5tEskR+Xv8vFG2x6rbbP4yuX6NSvAlCsHrk+g/h23hiZ1KphV4HJqSUifY6l98f9m8rHbC1aGUXcaDShyI+rbgwM2aUwn9mJuCl+t9IwnAPaqEAuZemc9PGZ8eiGFnveONjjy+8QYH8I9PXSg6JLSz/YJXh17qcO8nNfXQeIbcEbUcpHihPBnt+AIUIPljPhwOukiARXg7mDFG97D59jykVGvtotKw2eUuWp+euaM=
+secure.	7200	in	dnskey	257 3 8 AwEAAb8cd2vAfc3JtroJDdJI5BPv52UX+G1Yh0au6FENtaQhyR3QBP97048vLDSyrKnY7Wh4dJ4nkkujc++nhfyDqiQjg/7kBO+0S+rQEoD8fQ55L3qADKKlBvvPx19qgngXM6qWzJoe7F95Igw+6+fPaLldLDq0OaQ4cgX+ZmhQUQrtPf4GDZtl0EPYH8pTr4VOFEVT3GQ5xfa6Y6PDwqFwB+WnA7KH+p5dwXyE9kpzbZbEffltPqCwpvWQ1S4dUcd2OAdr5bYNF+oj/gWxm3ovjIPlF9FtcMhoImNX0VmW8vZ+UvIjS34KwLnBI7PlsPCr0aiSuGD9NXb5yHxlIfRQAn0=
+secure.	7200	in	rrsig	DNSKEY 8 1 7200 20250929082329 20250825075726 30610 secure. Hvt3K5SApIAPsoiyI/WqjsfnxXg+/QpNJlaH+nTdHwh2RT2qoeJL4hiUsZjI20domb+nE4k1W2aCoZ+3+gOLkPIKPKqFhAy5yA69teDfLzX2MPWNUaW+BDOijvwCMWQmHFBJPRJYq0dLWK5Kws3WxCWdooy0RxjNDIiBwz4Uop1xNN65AzOTJdmVIox/kRBguHbVDTGL57SVtnizd9sZi4miaE3O/+diUdwKIcbKNKnPnbKjJa9ESzZRJr7h/rGOsz7QkJkXMfL+SUcIMN7hBw69bRgrQKpFMOieFaa/QxdWG01nPatBjCrVnb6ckYuTZYlLKlwxQ1DKC6YuQYyEIQ==
+secure.	172800	in	soa	dns1.nic.secure. hostmaster.nominet.org.uk. 1637067197 900 300 2419200 60
