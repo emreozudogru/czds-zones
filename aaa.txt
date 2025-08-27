@@ -1,0 +1,74 @@
+aaa.	900	in	soa	ns1.dns.nic.aaa. admin.tldns.godaddy. 1756190223 1800 300 604800 1800
+697ar6hg06idbi51oaud7thk24kluiqq.aaa.	900	in	nsec3	1 1 0 - Q01ONQQU5M8B9N03TODGRME2P3VBQEA5 NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+697ar6hg06idbi51oaud7thk24kluiqq.aaa.	900	in	rrsig	NSEC3 8 2 900 20250904130414 20250821121525 8733 aaa. ftaYtjDz19vBfrFsbgZXIgxI+1yvEHrBu+W9bThevT1gwKdwDlYtSWbILVjT5I9zHAJCYzzRaq+75KA/0xmVdynXROaySkqqq+9S/SEQp1CX5QOQkSiSTEYiWIh3Tto0nSz4+Zdhw33myvSnEtMEa49IoExyYv01Hr+JeVpZowfNZiOXT2IB7yrbA1xWJWKaOxBBz5m3hd9Bf5kM9qnA+w==
+_forcedupdate.aaa.	300	in	rrsig	TXT 8 2 300 20250908180402 20250826053702 8733 aaa. bap2kCE00G5wUQ3Ri9mFlWJW5DJIMogiH1CV79SjK5WSG7WRU3ylttHskbg9qaFvjeCfkTvZgEX0yzNrIp76mHcxUIRGf9zYLieUo+DUCE7pvHBIHYEGwL9ERzLovUH30gGsYtLn9FgxRukocHPdDdaSix52VjBA/0o2six8xaUixFdnrrHbDek/JnAWk2efmHne0xkRpJi+9SqdtdNTAw==
+_forcedupdate.aaa.	300	in	txt	"1756190222"
+a.nic.aaa.	3600	in	a	37.209.192.9
+a.nic.aaa.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
+aaa.	0	in	nsec3param	1 0 0 -
+aaa.	0	in	rrsig	NSEC3PARAM 8 1 0 20250909143032 20250826140812 8733 aaa. SANdKhjNg6HDwXlD5JwRSItAxQHT2PbON3kR7BXWLk1EiA9USNIxyORHBovSTUJ+wDK/6WJfj6fKjVuMDRNA2O0HTGZTKUfKPiutfkRPDdnCOATSpaTYjnyzKHHsJ1SAlnUlFmJFttChrCwDyL2XOzJi56Ct8GDRelttcvBidZXOB/VrnQRRr9HLMD8Mzy7F/lHzLk/AOZ074+lM9E+8gw==
+aaa.	3600	in	cdnskey	257 3 8 AwEAAbwqz6/l4pOkF2r1xzb4KDrUKIE2NkMO8IibBl3ZsPkNSjftCwSxdD3Rys6c+MLlTdT5lEXNWk5GoEnn5tXjbMSCjfUTq0JR2+q2tdwc62tlQcSKK5fAt7GzGfNxcAnEddbkvsHq3EshBQ58IR7dx9NflbAH8YttSws6RFcWpnChycse/ZzlxYqPFwD4Axowmy4u/gfozHiFocXSufDHwV67oUpqqbSnEMRfnJf7QlJbhJwhcccHBq5/lY9zALV6S3McDj59nUbW6C2kRrNi9IEa8S2hXc+gQK9Zzuf0vpBKRyujT8gYECxySvGnx4KVOPSEFhx59SdUrtJwKdKa0KU=
+aaa.	3600	in	cds	31852 8 2 89F7670AFC091B199B47900E4CE4135B9463B7F74D3D19A1C732E78C345D4DE6
+aaa.	3600	in	rrsig	CDNSKEY 8 1 3600 20250904130414 20250821121525 31852 aaa. jWO02xJ9Cl0JYqWpSqHNrlz8eInBTMR7ytQIRw8uFN8g/8BpRjBy+c6rMLLXCPSMFGCIMkZnCjcSE+6sdVItWGY1obbPONy5f8rDzkg5DQVV5hXTGVVS1oIFTomO7PSVDqLWj5jI9f3w+pwLnDHyzHGSfc9Ydj/29Kr9esXtmaHT45d1FpKxmjYfuhJPVVBa/xVnTVVUJkO1tA+sAXJwcIuE6naRgkth4oLC4LZCs3elu4fB9ubX9mWVKTxpH9Tyv0ik9pTDKtIZfTu6c8RrB/irtqxpuf3nwhfNAL4ETsET76Zv+v7TWu95frjLxSeER/S30KQKQnapBX0VWE77Nw==
+aaa.	3600	in	rrsig	CDS 8 1 3600 20250904130414 20250821121525 31852 aaa. CjDezpSUZ2WONTGaoG7+p8IgyhKXdl24Gjc9LCZ6tW5h25agaA+Nb8qTsqOZBUr2OjkxxSutECnXbllWTOaaqnIsOUFRYWTg3zF/gR2aCsNAsIg+pD211IF2eFqPKb64OuS7FCewIrguVxldH5bjxNKq9LaH+dEpYKG93Hrvs9vuaQbS/IcRPL+HI8bqztjLaiSH01d+XgqOgviigGW7/PgEbi8y4QcVY2Jy/j4C/Yl1lY7qp0LuZxSD12nhLOx3Ky6E/yExSUUWuUvoLaYJLVaz+JDNQZMCc4quwvgW67VTCxhRfazzlKw2A9XXqAxdu5TR8+k15lhDI4MFD65k6g==
+aaa.	7200	in	dnskey	256 3 8 AwEAAbKBmA444KClBf60XlEuW8y27OIjDRB2wHaWDz7I8QA0svX79cGdq63jrGr8JsFyrxWhfmOhE39p8LP9t24IldbWk4vFZzcQpss3RTS9TzMU0xnfqL9sRCPiwhQLZrihnCx1HR8TxCVutAA6cUFKKTBlpDHsVm2ojG1SZ9z+mqaAkjW2cORUv10s1/bO+jEh2iG8c6yXzhp2+1LSKhVMpSU=
+aaa.	7200	in	dnskey	257 3 8 AwEAAbwqz6/l4pOkF2r1xzb4KDrUKIE2NkMO8IibBl3ZsPkNSjftCwSxdD3Rys6c+MLlTdT5lEXNWk5GoEnn5tXjbMSCjfUTq0JR2+q2tdwc62tlQcSKK5fAt7GzGfNxcAnEddbkvsHq3EshBQ58IR7dx9NflbAH8YttSws6RFcWpnChycse/ZzlxYqPFwD4Axowmy4u/gfozHiFocXSufDHwV67oUpqqbSnEMRfnJf7QlJbhJwhcccHBq5/lY9zALV6S3McDj59nUbW6C2kRrNi9IEa8S2hXc+gQK9Zzuf0vpBKRyujT8gYECxySvGnx4KVOPSEFhx59SdUrtJwKdKa0KU=
+aaa.	7200	in	rrsig	DNSKEY 8 1 7200 20250904130414 20250821121525 31852 aaa. MA1fhG8tygCv0pFVc9qQimTCM8iZBzCeB1s7BJpYPFrD/6LBCJwxpmt5YyYK1QA2lExbegKLjt94EUNZRPZ7YzcCKE0HzPPl0/KiGBNvwvljPGrzdRhydL7Wp+HN1PX9qMi8Z2zWEQjIGSNYv9p+BEEhJmlAaN0+W6jREdy83WW4sBBTTv8pDbepXxGng7oLLt/J2uR17Y044S+J3DwZU+0nAdI7daGZVg3H+zNOqfV8LP4mp4ngbN8pjIEI9pdAWLrtR9Gr/voZEtmZu974hTK5kiZ6xuUMAZCn35jvaeThpxs3JUAN7wk54YiGfnNod111qW+Nk8kyXQt7E1dMSA==
+aaa.	86400	in	ns	a.nic.aaa.
+aaa.	86400	in	ns	b.nic.aaa.
+aaa.	86400	in	ns	c.nic.aaa.
+aaa.	86400	in	ns	ns1.dns.nic.aaa.
+aaa.	86400	in	ns	ns2.dns.nic.aaa.
+aaa.	86400	in	ns	ns3.dns.nic.aaa.
+aaa.	86400	in	rrsig	NS 8 1 86400 20250908191324 20250825183809 8733 aaa. K/+mnYPwrXVAuyVrZqBfoVP6GIwuMwf1CbGJhoQjKg6EvV/Y4Y92kRLiVIezupNbLA8BcAOKV/DxBuI0dkATuGpc2A1cAVCaKC9MtHSV0H79LPQ92eQvw/gpwI3a2B+Kvqv65PIkp2GP2EIhoJHs53CE2sDqFALg6Gb47dJEJA6iPlaM15iHPdf+WbvLsFBn1DVtQ7ORJuv7MUQFdTvwcg==
+aaa.	900	in	rrsig	SOA 8 1 900 20250909150812 20250826140812 8733 aaa. qnaoWsp8Jx1V6ysZkBOEBFwB2Rxtxt5etzJHbXkcFMcNCudICNX/OFmCkIp1bWDWmBomalW2a/+ogrKZV6S1qzbO9h5bGL4JZ/qh7TbnsYYS6X0o6Qp3zU0E6huVBC4LIC0Exzylq0XRbf/KjqVmExVFSpZM1Qb9M1BNcobfa3ZXKwRg/1xrdcdfhvL7YA9NeqFG2cyFtANeJaAxCTLG5w==
+aaa.aaa.	3600	in	ns	ns-1058.awsdns-04.org.
+aaa.aaa.	3600	in	ns	ns-1680.awsdns-18.co.uk.
+aaa.aaa.	3600	in	ns	ns-199.awsdns-24.com.
+aaa.aaa.	3600	in	ns	ns-978.awsdns-58.net.
+b.nic.aaa.	3600	in	a	37.209.194.9
+b.nic.aaa.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
+c.nic.aaa.	3600	in	a	37.209.196.9
+c.nic.aaa.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
+d.nic.aaa.	3600	in	a	37.209.198.9
+d.nic.aaa.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
+m.nic.aaa.	86400	in	a	204.74.104.90
+m.nic.aaa.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+n.nic.aaa.	86400	in	a	204.74.106.90
+n.nic.aaa.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+nic.aaa.	3600	in	ds	29890 8 2 B4F40E4E5D7BFE67341A5DFF03B14F27EAC2A387EB88131F8E4CA66BC4039DAE
+nic.aaa.	3600	in	rrsig	DS 8 2 3600 20250908191324 20250825183809 8733 aaa. Lr1gVav0gF/6k4TI5IMLjojYITBKicahjGAunZEcQknREw5mJuokGqO0AjwbzwZ2y6fqanCEU6R5RyG6EATEoCQqm6tgazsA08iaxFOcDJnm8TK4MNb4iijs6Pw7qQOoJ4sqtHlek0sZGBEjX4UBjTVdgyFGJSgW/IwAW61sl8ayeNRwgwjou6LuB8jKcEEIMEy4/l2Z+2SjjKKIVFfzSw==
+nic.aaa.	7200	in	ns	ns1.dns.nic.aaa.
+nic.aaa.	7200	in	ns	ns2.dns.nic.aaa.
+nic.aaa.	7200	in	ns	ns3.dns.nic.aaa.
+nic.aaa.	7200	in	ns	ns4.dns.nic.aaa.
+nic.aaa.	7200	in	ns	ns5.dns.nic.aaa.
+nic.aaa.	7200	in	ns	ns6.dns.nic.aaa.
+ns1.dns.nic.aaa.	7200	in	a	156.154.144.2
+ns1.dns.nic.aaa.	7200	in	aaaa	2610:00a1:1071:0000:0000:0000:0000:0002
+ns2.dns.nic.aaa.	7200	in	a	156.154.145.2
+ns2.dns.nic.aaa.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0000:0002
+ns3.dns.nic.aaa.	7200	in	a	156.154.159.2
+ns3.dns.nic.aaa.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0000:0002
+ns4.dns.nic.aaa.	7200	in	a	156.154.156.2
+ns4.dns.nic.aaa.	7200	in	aaaa	2610:00a1:1074:0000:0000:0000:0000:0002
+ns5.dns.nic.aaa.	7200	in	a	156.154.157.2
+ns5.dns.nic.aaa.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0000:0002
+ns6.dns.nic.aaa.	7200	in	a	156.154.158.2
+ns6.dns.nic.aaa.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0000:0002
+q01onqqu5m8b9n03todgrme2p3vbqea5.aaa.	900	in	nsec3	1 1 0 - UCMPRNKKMV0460VIPF497UHTCE4H8M85 TXT RRSIG
+q01onqqu5m8b9n03todgrme2p3vbqea5.aaa.	900	in	rrsig	NSEC3 8 2 900 20250909143032 20250826140812 8733 aaa. WJkt5YxDJpN9IpqfqpWpMO9Wl+iadJF6RRDdgEGtVbbDArpdKxEa7vB5+o3lX1GsvQAbAGGMOUH9mO4g6tAVcEhvI8s6BLag2e6hmiXEcsjR1g1l+R8Y5FWb1I3kzKf1QDccdBT2C/ps3fwat9pgvxfiuRMe4pQVI0LJpmjHKMhnB1+HvMNlhqLfPVxHJAM5E82QjGXgVHGAEyp1wv9Zew==
+sm.aaa.	3600	in	ns	ns1.markmonitor.com.
+sm.aaa.	3600	in	ns	ns2.markmonitor.com.
+sm.aaa.	3600	in	ns	ns3.markmonitor.com.
+sm.aaa.	3600	in	ns	ns4.markmonitor.com.
+sm.aaa.	3600	in	ns	ns5.markmonitor.com.
+sm.aaa.	3600	in	ns	ns6.markmonitor.com.
+sm.aaa.	3600	in	ns	ns7.markmonitor.com.
+test.aaa.	3600	in	rrsig	TXT 8 2 3600 20250908191324 20250825183809 8733 aaa. pOTegTxsFUEpO2EgdXPrtmgRitURH/y6Dow7fAZ3wDRXs6/jHdP45Bfa0o9A/76e+MwhzGksWQBvetbF2Ps4eozyXD0bWL1NScnChEaCzDRbvSGywEvSlSUGE23qbAwjrKRxt9Zxuu4pMRKMuWUmbAAtKA2RtHN4iC0aRTGBaWFYyYMel3Y0hQMHoBStdSBj0hMU2KqpnF2WRtGtD4Pdbw==
+test.aaa.	3600	in	txt	"throwaway"
+ucmprnkkmv0460vipf497uhtce4h8m85.aaa.	900	in	nsec3	1 1 0 - VU8BPNMS0GHRDFCSQS07N14HLETT321A NS DS RRSIG
+ucmprnkkmv0460vipf497uhtce4h8m85.aaa.	900	in	rrsig	NSEC3 8 2 900 20250909143032 20250826140812 8733 aaa. p/RXIop1cxCL7kqOmpTx8IcUrxmCt6I/Fi4WB0fRdcPU037V7Vz3ddA6mleroXqoFKlzuqr54Vr5LgD/AYqdt2+bmKCVLL9+XbnNMS6bfXOGxTaOhpGNNc5vOtBq2JkkirM4j+rwd/NT7x2d3Yh0VbFuCPeCKQ17IBoUJyKUiz8n6+obmemAihASm6v3k5wzyfxT0UPHXoQMRBo4WMtZ4g==
+vu8bpnms0ghrdfcsqs07n14hlett321a.aaa.	900	in	nsec3	1 1 0 - 697AR6HG06IDBI51OAUD7THK24KLUIQQ TXT RRSIG
+vu8bpnms0ghrdfcsqs07n14hlett321a.aaa.	900	in	rrsig	NSEC3 8 2 900 20250909143032 20250826140812 8733 aaa. A9FQu749lwi8nFuQ00S9v1+Zd3uQWW5OD+EdGVXZsxamhNLd56HUSrHX+DdeiG97USsag62fEtaeE39glfvo7u7UbWGP95W6rQchMGHtArtlqp2UG91B18rl5NYx/KEEwPYy7VmPW0a0ACoUT1ie2kqAe/a6QIKBaAUx8tSgYpGYxk6kS3e8XPB030SNUU8Vt/MUSHWq3nKleC02Q3eZHg==
+aaa.	900	in	soa	ns1.dns.nic.aaa. admin.tldns.godaddy. 1756190223 1800 300 604800 1800
