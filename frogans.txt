@@ -1,0 +1,52 @@
+frogans.	3600	in	soa	a0.nic.frogans. hostmaster.donuts.email. 1756256557 7200 900 1209600 3600
+a0.nic.frogans.	3600	in	a	65.22.188.1
+a0.nic.frogans.	3600	in	aaaa	2a01:8840:00b6:0000:0000:0000:0000:0001
+a2.nic.frogans.	3600	in	a	65.22.191.1
+a2.nic.frogans.	3600	in	aaaa	2a01:8840:00b9:0000:0000:0000:0000:0001
+b0.nic.frogans.	3600	in	a	65.22.189.1
+b0.nic.frogans.	3600	in	aaaa	2a01:8840:00b7:0000:0000:0000:0000:0001
+c0.nic.frogans.	3600	in	a	65.22.190.1
+c0.nic.frogans.	3600	in	aaaa	2a01:8840:00b8:0000:0000:0000:0000:0001
+fcr.frogans.	3600	in	ns	ns-1530.awsdns-63.org.
+fcr.frogans.	3600	in	ns	ns-2023.awsdns-60.co.uk.
+fcr.frogans.	3600	in	ns	ns-47.awsdns-05.com.
+fcr.frogans.	3600	in	ns	ns-999.awsdns-60.net.
+fpb.frogans.	3600	in	ns	ns-1457.awsdns-54.org.
+fpb.frogans.	3600	in	ns	ns-1787.awsdns-31.co.uk.
+fpb.frogans.	3600	in	ns	ns-230.awsdns-28.com.
+fpb.frogans.	3600	in	ns	ns-655.awsdns-17.net.
+fpu.frogans.	3600	in	ns	ns-1145.awsdns-15.org.
+fpu.frogans.	3600	in	ns	ns-1935.awsdns-49.co.uk.
+fpu.frogans.	3600	in	ns	ns-438.awsdns-54.com.
+fpu.frogans.	3600	in	ns	ns-905.awsdns-49.net.
+frogans.	3600	in	dnskey	256 3 8 AwEAAZNZ/K2qSjwac8LFDqXInOj8cQG7qs3zqgtWIhUbhLPg4dBePGLaqCvSi/7j78AUO2IT3QqDOjvQYUTjIHSlHZS/Q5Ka8U2aJxuSekBFVrZwBpMTEDcTMuLNdBcG3CAvBAmjbPCf+Io+JN2XRC4ihmKPoBloDybz53km/6QQG7yL
+frogans.	3600	in	dnskey	256 3 8 AwEAAcMWUaWrR5XSv/0phKaI5D+h3tdxXeLA7pa/qLp1GDobd35zapN/7JVUbF5CyFLAtFImqdYggc80yGqlB46hZMBFlNGIJoZGRbDqugYrFTSjdOvxid5bXPh0qefyQ7FIf5D2JRRaHb+tLc63fTy9ASpT4xRBrhce1tfdyrWjN3D5
+frogans.	3600	in	dnskey	257 3 8 AwEAAbakxm0j9jnX7x3/hXyBvV6ZmGs9/TzTORXqvK+jvt4tLGMFOv/Sagmv+3jhu5I1EVYfc1CRDTVBxRfdnCa3x0HBCONZ+HQizFlIZ0OoJxZ3N06IWXwVn2Fnq29s09IpzXkE7jWIshd/xyU0VNjzBAyavgAJpIKddNNJTuOQqAYQy/X/xm/d02ueQPJgbici+tQm45mq0ALcI+eFs85OZHXT6Bb2/f2nzao+CT7Yz7IPJLSYxW4Cfw0H3I0gXFgAyqHQIeOqO9+92B1X6mQSOn3GuvU+CxYME7t8y4+GxrisOAb69a4hJcSP71C+KiIBifVzm7BlEhE7yFUEOG57VQs=
+frogans.	3600	in	ns	a0.nic.frogans.
+frogans.	3600	in	ns	a2.nic.frogans.
+frogans.	3600	in	ns	b0.nic.frogans.
+frogans.	3600	in	ns	c0.nic.frogans.
+frogans.	3600	in	nsec3param	1 0 0 73
+frogans.	3600	in	rrsig	DNSKEY 8 1 3600 20250916154535 20250826144535 44230 frogans. B48JyNF/Lo6UXyNt6eIOr3nzp7U5ELURU6BokA1QnAwGjjwOzf1Y1umY1QbfqPfyWyzTCC9mDruk++AMiossgcaGkzRylGOe7gzEmgdHnmBeY1TT03Q4j3TD6hFT1jyVTiWMdy8ECKSRd87TbxhkApJafR93/LYirpVAKEFu2l8Zk3AZNH+JTexnYlq3GOamMpCm0xoBmpOYVq6oTAKzYpRirMTz4AEBSbCmwpJaIJZoaVTXI+UrBeELWRM8tHsvzsfRcAP8NL0/TIjB0CKpv6tmQM90aGbeLUz7IoaLYOUfK0JDkEuwwUArZAyLEaK4ywrxqD8nAwi0XScROgTTDA==
+frogans.	3600	in	rrsig	NS 8 1 3600 20250916154535 20250826144535 27861 frogans. b2Drga6SBQz8v4mLRa/9Ge8jT6eOe/S4lW4ewzU8dSTnjMHLE2fBpeHZxaXeZgyuVkG8HznAm9BITWU79HgYK2bJ4OpUQNzAZGQHXUnWJuOcAFqYgu+tRmgQwmS2RfrQFdNJZ6lk5EH+kgUXG1PFvxNIOdNRk/irilqxYWtHCM0=
+frogans.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916154535 20250826144535 27861 frogans. H2NyMYIPJg0Jgecg7zM4Dll91iMCtq5R+s/28rUqo2gY54MHKbba/UXUj3e8NKVMXbXShITwGoagEgYL/0s0t86P6E9dpfa3MqOKYI0ulD6aauP3ZqDHDXPTq+hQ4AYhLKY5pkv3SdLhbJRnCmfyqA736iq2kmhEo5r9iW56lNc=
+frogans.	3600	in	rrsig	SOA 8 1 3600 20250917010401 20250827000401 27861 frogans. Z0bd21n+4gDc1bdoZwTyt+rOCtz4XEoT0ZrNQUoyJEA488Ho32g1qx1tyR+wFZY/MKf12yYr4n4EOCTuQRvvTJMpC9cazPZrrSykhIoP9aEjgwua/AYbzNEjCq3ZfxF10KiGUQYapNW8n26wBqt99rH1A1+FlE5BPmQShswrOC0=
+get.frogans.	3600	in	ns	ns-109.awsdns-13.com.
+get.frogans.	3600	in	ns	ns-1164.awsdns-17.org.
+get.frogans.	3600	in	ns	ns-1785.awsdns-31.co.uk.
+get.frogans.	3600	in	ns	ns-559.awsdns-05.net.
+i3ce46mmltimm282naijd7vunip80gbq.frogans.	3600	in	nsec3	1 1 0 73 P4B0U0HOCPFMJ7L36OIB5P634UL8VD5M NS SOA RRSIG DNSKEY NSEC3PARAM
+i3ce46mmltimm282naijd7vunip80gbq.frogans.	3600	in	rrsig	NSEC3 8 2 3600 20250917010401 20250827000401 27861 frogans. Z/9uAaJsklWzGFejNIlz4EUpOJgrsjTfN3t3anfL8W5yAxGX+nPumtozabgQeQDGmeU3HBMCMb7TlJK68BDlKZOTUeE4YUZzoqof95Y9K9cFNS92qqTec3EhliR6n5hs9ZxvM8bsEPU86tq2pX4B7V/2A2cn8XjaCsZ3qALDtmc=
+nic.frogans.	3600	in	ds	21606 8 2 627BE238A9A0E27DC394D45EDCFEECC2317909E19C4EC816BFBED7D3A8AB0D9D
+nic.frogans.	3600	in	ns	a0.nic.frogans.
+nic.frogans.	3600	in	ns	a2.nic.frogans.
+nic.frogans.	3600	in	ns	b0.nic.frogans.
+nic.frogans.	3600	in	ns	c0.nic.frogans.
+nic.frogans.	3600	in	rrsig	DS 8 2 3600 20250916154535 20250826144535 27861 frogans. V4tv1JHsfTeSLbp8MRjo3lrDAJm8jBwNYtsLhfF7H+Em0EFinVDuxM8Y5hdxmKeFttNVrPB+8TGIydNDsTLgJ0l/xlGUS5cl7eljU7oiTNjGGjpHDqZqERWHsfuZUhajVZzzEpAJ/cvH1OjLKiFJvayOFBmbJd8rNvvYMqjYcqk=
+ns0.fcr.frogans.	3600	in	a	164.132.65.9
+ns1.fcr.frogans.	3600	in	a	5.135.29.245
+ns8.fcr.frogans.	3600	in	a	139.99.98.58
+ns9.fcr.frogans.	3600	in	a	104.237.140.17
+p4b0u0hocpfmj7l36oib5p634ul8vd5m.frogans.	3600	in	nsec3	1 1 0 73 I3CE46MMLTIMM282NAIJD7VUNIP80GBQ NS DS RRSIG
+p4b0u0hocpfmj7l36oib5p634ul8vd5m.frogans.	3600	in	rrsig	NSEC3 8 2 3600 20250916154535 20250826144535 27861 frogans. G6O4bwHdulFzrCS7+lLCGhNiHLMNMXEdmW2+rwbsEeNLEFry6zhljk6HjYFozEk395UJVfNxMWh6FdhNYryp3oaSk1Lh+QqC64Ee3zs31V7G+AhDW2vAdezdmJmC7gmEsCEk4sZZWiTrymT1qSsE25eXk6a6KewK5CYpjZMFDmw=
+frogans.	3600	in	soa	a0.nic.frogans. hostmaster.donuts.email. 1756256557 7200 900 1209600 3600
