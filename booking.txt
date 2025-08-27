@@ -1,0 +1,59 @@
+booking.	900	in	soa	ns1.dns.nic.booking. admin.tldns.godaddy. 1756190384 1800 300 604800 1800
+36o1dsjcdtajp7jlf26bko4h76s3u5j5.booking.	900	in	nsec3	1 1 0 - PFDHEAS16MLKUMB8QQJEVHM26R4N0HMR NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+36o1dsjcdtajp7jlf26bko4h76s3u5j5.booking.	900	in	rrsig	NSEC3 8 2 900 20250904111556 20250821102123 37548 booking. qa8XlvuGR/+nG6bBKrgHLr8NuBcwk/XwiKDouI7R/p5pAUToE9zx8zZxMq0O0m6CDo8R03epHh5fVHHudR+sLlBUahbrsBagbMVOHqyR6XtSls7Z1ZCIi1gMwHT2cStx9fQv8G8nsMZsYFsrnNjCnQKM5/2UZDEXazIzxtaolL31Jpxa2ec2iXUgWt9fQMFaeMA7a25+uNylE0p0cvJ7mQ==
+_forcedupdate.booking.	300	in	rrsig	TXT 8 2 300 20250905190852 20250826053943 37548 booking. hiI2xUTb6HPOwy9Xw7LGkRB33FMUkpqaNSEMPFTvXkUThOoHV2MPGYWEFR3AA3ylzuolHW/GYFvdsUPxItEAVSUHXCCiu3vSRjG7xkZVttP8gAcDAoB3K2skRdvewnLtpn3sXYBhTm0xJOE+nWSAWyYuZv3FnO4MKPvswAfUV4IJ/w35Km3UUhniZWsUODZe9omws02wJ3rl62nbeBRrcg==
+_forcedupdate.booking.	300	in	txt	"1756190382"
+a.nic.booking.	3600	in	a	37.209.192.9
+a.nic.booking.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
+b.nic.booking.	3600	in	a	37.209.194.9
+b.nic.booking.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
+booking.	0	in	nsec3param	1 0 0 -
+booking.	0	in	rrsig	NSEC3PARAM 8 1 0 20250909224708 20250826221951 37548 booking. iMow74ve0LFd3JjE7Wvq7vc1Kp4XYTjOIG+SH6rqcjEX/h+9f4kl/Ka4NY10CTS6Ck5hCVmaW6DJLsxQzCCpzf5oEvF7ye9hUorruBVn+bqt0ldIXD+yVDvWDmbyXLv4+douuCSPCscf/f3oxoJunOhWX+Ie2vlla1a2P5ZlPRAxPT6fEhZxw+3F/ZRhVdyM4KZV8pYaFS/7258izCnnNQ==
+booking.	3600	in	cdnskey	257 3 8 AwEAAckuRFMsHiw+kqFtsUSzxNdphBX6fLMoFfwAYzIkR5dLv2OJg4tOizXm4nrfAyUyS5I7buU59OkvuPRZPDemzzRt7tzoNv74gXfCw0y29F+VcElFnH6zYDZcODPBMY49Tp16a/KUIIaVsqhfSQVsEFPKgB3opMmZ+d6qar6UMDe+Kx7oYZIXj4935fu7rHTwmoaW9ySG1w6E1qEjc7KuNnxIQs3lSey1hQ4H9alRHPt8qsIEA/Vnuz+wCdVq8Jo5Ov6rRs0qZhjOm3+uKJa/W8y/spc4QcvW4SNPJZD5ldFH+DvcpZoRshqh0qs0imoBj1XczBRYbU+3Vt2oFD9kpQ0=
+booking.	3600	in	cds	29245 8 2 35E34127BC68CC91698D0B5EC4562002AA8293DA7C6CE0BC1C75CFF3E6529EC4
+booking.	3600	in	rrsig	CDNSKEY 8 1 3600 20250904111556 20250821102123 29245 booking. wiQxJIz6Su5r9+OIjo6S6GtPnEOXc23N1ayn6z3mxJKgcDdF7J9Oy5MdbZZOa8S+5ocrFAMbfH0pqVWLmU5rKiqZdxykRWjYURDcidJ4dZlfoYHlDlSCbr7o9fDvEh5IXHd05dUIBm9QXVF9j/mwbOvqZDMJu4qU6QhvOSDHu/iwe1BuUwrvl0Uw9shK+GqcpqlEmY7r+sP30LkVkNJkALauI1fe+JP61UCs5Dhiep6fvX8uD4/7QML1Q8UvGLblKoqlMKcm4M9cLXQPmsTcwbNNhh6Yo+A8UK6HtMeOvFmU7ov3M8QtkvibAjoRQRAO8MC/ABYo93ezvaJ4GNUzWQ==
+booking.	3600	in	rrsig	CDS 8 1 3600 20250904111556 20250821102123 29245 booking. hWuO+VP+EKrCGO7AcYoao6o3h+UJkayO6FZtVeleMWad8zTN/WJdChyuDFrf42MzWFJO2UeuQV1/FafU7DXjTNwbRd4mebfNm5mC+kCk9gha5VdQoAygUTN8P7+TsN9se6KVN4ImkRcjttSn8K25WaWYWdpO/ktk03aE9vml9wPH5WFYmcuASaes6l9vwKuNTUA5pb5u8X4fdnAOMCJqpOtD/TQ4j5JJfPORWtIQRhI77dwyveh956RdgU7+jiQSv9+vTfgRhbF1t32qIGHkYmQwI2VkXu43ddMJ5ut3o/UtWdf9ciwJnk6MWGdqDNylt+0OlP9xC3hWZ/kWrqi+Tw==
+booking.	7200	in	dnskey	256 3 8 AwEAAcwlJ61M+fzEVGc7jh2VIPQh5Cwmb7tFUSXNjErLvMnhsmD/d57Q9JIwD46gId5VufH0O8c7c6KuKE+ufb65PRDfUeYjgFdr1OYROg+hxFIwU+uSGsyx3OpXJAftXwUq2//oeW3OR7HrPvrJ6EZTNPORJIYz7sMG+AIO92chd4qrAbhYKFMfOUv1TKNXdZQNud5ksvoy+JY7G8c7z5yUGyU=
+booking.	7200	in	dnskey	257 3 8 AwEAAckuRFMsHiw+kqFtsUSzxNdphBX6fLMoFfwAYzIkR5dLv2OJg4tOizXm4nrfAyUyS5I7buU59OkvuPRZPDemzzRt7tzoNv74gXfCw0y29F+VcElFnH6zYDZcODPBMY49Tp16a/KUIIaVsqhfSQVsEFPKgB3opMmZ+d6qar6UMDe+Kx7oYZIXj4935fu7rHTwmoaW9ySG1w6E1qEjc7KuNnxIQs3lSey1hQ4H9alRHPt8qsIEA/Vnuz+wCdVq8Jo5Ov6rRs0qZhjOm3+uKJa/W8y/spc4QcvW4SNPJZD5ldFH+DvcpZoRshqh0qs0imoBj1XczBRYbU+3Vt2oFD9kpQ0=
+booking.	7200	in	rrsig	DNSKEY 8 1 7200 20250904111556 20250821102123 29245 booking. hd8e+BieDNy2OD6IKPcYFaDCJw5fEEu+ZVpngMMSxWQp30BYgSg6EwNwiwagDf0QqzSF5FWkZRXbdzXGcYq5G1q/S/KX9hOzK46fELp8K7NzdkPQN9OflAg9sKb6lfyYjbDiQzVM+9JphUrwF2H6MEE2xlIFP6QvqDrvdgGTeavpGgokvL6Zy6W3H+UjOTdI7plzpU52b4OgtCe1t3f//90cpoj+y5OSxkVfsCTDY/Po4fwJk9BT3AhHMoEYhkpyandkGgLUr3Z6b9QmnuPol5+RS2oxczRrhZmQObLCa1dtEGdG0AKMzybLa3xjpS8FQ+s6CnV9cs4NMMPxFyctlQ==
+booking.	86400	in	ns	a.nic.booking.
+booking.	86400	in	ns	b.nic.booking.
+booking.	86400	in	ns	c.nic.booking.
+booking.	86400	in	ns	ns1.dns.nic.booking.
+booking.	86400	in	ns	ns2.dns.nic.booking.
+booking.	86400	in	ns	ns3.dns.nic.booking.
+booking.	86400	in	rrsig	NS 8 1 86400 20250909070201 20250826065954 37548 booking. l6TafyrpTxIO+klQEL3Jq9gSwmfegLuKg4l25mvLYI1WqQiCsNVSITDJYBCaOQrt2pdSXfJ0XCJZSsakw3UU1LlFPh6oMvp/YB9thCEqc661iP8vhoSoP4vA9cAkahh3oUM8n/es1mV60NnIb6TLKJmehkQx4UvnzySDVh/ctMb+WFiAm0PVFYVgxdUjNdNubrzLVEWvDYM6CtXz6rCDxw==
+booking.	900	in	rrsig	SOA 8 1 900 20250909231951 20250826221951 37548 booking. nVOIXYNFwjMMytB+ve6HBWUJIb4FwZQ1j++b0Y3Ex2UvPH7rnND4mLJNKKX1g6LGcscZCOMC+tGx8htIGkEsjbPltmeGmlMCwc3JCwqmxfb/eL6dJoYzZupWLLuPMZODUMsPTBNbBZMNv5awwprztf9gvdWek9Jda6KfcSdwE+VJyaj9RH1IutU+pRhyNugHV0rWIUeSfPQkWckoGBpHWQ==
+c.nic.booking.	3600	in	a	37.209.196.9
+c.nic.booking.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
+d.nic.booking.	3600	in	a	37.209.198.9
+d.nic.booking.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
+m.nic.booking.	86400	in	a	204.74.104.90
+m.nic.booking.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+n.nic.booking.	86400	in	a	204.74.106.90
+n.nic.booking.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+nic.booking.	3600	in	ds	33649 8 2 82A124D905517573D81124F6B33ED4BF2A2586EEBC52E28A78FF55BD673C665D
+nic.booking.	3600	in	rrsig	DS 8 2 3600 20250909070201 20250826065954 37548 booking. JCPzBZRodm9n0TaSuXBf+7C0XAdpm9N+/l5cTOkXwqiWsksWlYq9IzYqAd1HZLtpouZYjWk40NTCdIIjXk3yot0LPfr7cjR/f81/+Adqz+cqjLwgWOWgUTcXW4NGaGDo5qa3LCF/NV4UJ1CvkZdYlA7lsepnuGxYRqO+UYDmKALE5o2Ti/BxgchKwB/Lfq0fGjPCH/Abjijr4fhXwEYC1Q==
+nic.booking.	7200	in	ns	ns1.dns.nic.booking.
+nic.booking.	7200	in	ns	ns2.dns.nic.booking.
+nic.booking.	7200	in	ns	ns3.dns.nic.booking.
+nic.booking.	7200	in	ns	ns4.dns.nic.booking.
+nic.booking.	7200	in	ns	ns5.dns.nic.booking.
+nic.booking.	7200	in	ns	ns6.dns.nic.booking.
+ns1.dns.nic.booking.	7200	in	a	156.154.144.27
+ns1.dns.nic.booking.	7200	in	aaaa	2610:00a1:1071:0000:0000:0000:0000:001b
+ns2.dns.nic.booking.	7200	in	a	156.154.145.27
+ns2.dns.nic.booking.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0000:001b
+ns3.dns.nic.booking.	7200	in	a	156.154.159.27
+ns3.dns.nic.booking.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0000:001b
+ns4.dns.nic.booking.	7200	in	a	156.154.156.27
+ns4.dns.nic.booking.	7200	in	aaaa	2610:00a1:1074:0000:0000:0000:0000:001b
+ns5.dns.nic.booking.	7200	in	a	156.154.157.27
+ns5.dns.nic.booking.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0000:001b
+ns6.dns.nic.booking.	7200	in	a	156.154.158.27
+ns6.dns.nic.booking.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0000:001b
+pfdheas16mlkumb8qqjevhm26r4n0hmr.booking.	900	in	nsec3	1 1 0 - SFS3KISAVB1ORGR1JM6RMJGGODNNQNOF TXT RRSIG
+pfdheas16mlkumb8qqjevhm26r4n0hmr.booking.	900	in	rrsig	NSEC3 8 2 900 20250909224708 20250826221951 37548 booking. UM5OGSUSr0+KMGR+Cl246ZfcdtYfOUjuLPnx3ETXSxe9nJvBjK9OGmDR4RT+4R9YtOZhBH8jUxPO4mTKiMsHFksL0G7h6o87yuDO98ridjgc9L++ZWL/68eEKm+MPvNbnr1SZKVI2Q6UtPcAtso62kywF+ZI1KKQQEtGUXjRDbngvP+TovVEa9iGarS6h1hNeh8p9ydJk5hUkSXkui0fSQ==
+sfs3kisavb1orgr1jm6rmjggodnnqnof.booking.	900	in	nsec3	1 1 0 - 36O1DSJCDTAJP7JLF26BKO4H76S3U5J5 NS DS RRSIG
+sfs3kisavb1orgr1jm6rmjggodnnqnof.booking.	900	in	rrsig	NSEC3 8 2 900 20250909224708 20250826221951 37548 booking. GmdeCkciDrj6w7qX07EanzgP+/Tuvr2Upnr0b5zcG1rQGBvJsReEvqG8CpNgMH95j78Q/JIpSfjBNLQxOKYafqESa4YhHgHS/5ISrJbYCalvsSEQhxhdp/Te6Dg+2y8BItKhfwzrinFjN0UU3CxHwOTLuEbrUL2PE6qtbRCuF7ZcXsKh5sHuPW0Vj/cfIgSjb/l1Wxv04DPXWXBImgeuxw==
+booking.	900	in	soa	ns1.dns.nic.booking. admin.tldns.godaddy. 1756190384 1800 300 604800 1800
