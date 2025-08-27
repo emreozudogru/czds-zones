@@ -1,0 +1,59 @@
+baseball.	900	in	soa	ns1.dns.nic.baseball. admin.tldns.godaddy. 1756190372 1800 300 604800 1800
+73kbon823oqjf3m7d6b0bv4g4fvogcs6.baseball.	900	in	nsec3	1 1 0 - C90C2NJSJBTMTQTRS92R7E245KV7ECSA NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+73kbon823oqjf3m7d6b0bv4g4fvogcs6.baseball.	900	in	rrsig	NSEC3 8 2 900 20250904115413 20250821114541 37938 baseball. F7/l7SRI+V2JUV+aPgr2SsUSsQCYJgsdtPuoaTxV2BOVUeyfP9WRgVTaoRbYlmWYeDZpCkcexAQoWuEKBLLDhSHL7Jnhncu2R5vpqOqBoqPlV9Sv2i8B+sVWPCdGcXwrAPjk+y8pxN5iIeHkNqjueQXJr+ujc/4G2bKH8ErBznPmEUgmYR5QxDtL7mAl5hhpfgue3j5BEPP0UhDZMbv8xA==
+_forcedupdate.baseball.	300	in	rrsig	TXT 8 2 300 20250904100619 20250826053933 37938 baseball. PSI4IxXovXS842f8uipY0lsURhvUhEp1fzQYwZR858mOCwKEyfPD2U5A5KxEMuI9kpWnvQbRvuUAaM8Mmxd3BDsJ4z/r4GkRNm7lJ4+vJ7c6mr57+vNYSTPtnf0ZP8U6rPa3gpWj8Vqer4ROW5EfuoSmmMAyuFtToG6t+qNU2e4N6IK04LNAAEz0hef7atgJlpGXyTpUKQUdiFMgDgkxhw==
+_forcedupdate.baseball.	300	in	txt	"1756190372"
+a.nic.baseball.	3600	in	a	37.209.192.10
+a.nic.baseball.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0010
+b.nic.baseball.	3600	in	a	37.209.194.10
+b.nic.baseball.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0010
+baseball.	0	in	nsec3param	1 0 0 -
+baseball.	0	in	rrsig	NSEC3PARAM 8 1 0 20250908052341 20250825050003 37938 baseball. Geb5EJRAMpbnUwryXw6vVLq8enmLjozpK5eow0sxnforhsm+CvqZ7/I0tjDeskuqLCYPsU3/yNbu91S4oWgYL36fivLM10hRAGuh605wg2+6/cYXAZ3WvtzjHpP0rhd3Ba0WfouzBf4HOt9QFbFqKgqq84piWxLE4+8N+DWWgZe0bIXwHZAtMnyueHRM5whl2qTEk8atACkeKNv1yYnXRg==
+baseball.	3600	in	cdnskey	257 3 8 AwEAAcejq0OmBdnvUB7mL4ycZYxcf5uCSFZq3N4pSDA5kKezdmm+k1A6lnfVn2v2qvpXpziDAfmLhFQhzqJJ9qWfbtPFy+7kl5d8hkbD30smDo3X082TJnPNwSLdyU+lzcWKl1F6L8lTrXr/fJJkPJBAJox2DMkEKonnpsu+7J1wPzIQTpU71mXhib9KX8smA/dv9+QqiAVF/embXbRtXQf842j/Q/a/I79t96cVSfQVxYDM5kwOUYgtG6N2SB5rAxf0FtzHWEWLCv+VTkg4MOy6y7Rjd/rVKWNP+gi0TBbkiC3jmt2se4rl83WSGNhZq48LUd/0ZK+OXIT1ASI4RUEE1vM=
+baseball.	3600	in	cds	11122 8 2 440E52AF38C50A3E6EDDD224AA4C2DDB50A3B6313EBD36BAAACE8FF520D03A07
+baseball.	3600	in	rrsig	CDNSKEY 8 1 3600 20250904115413 20250821114541 11122 baseball. fb7L26PlJ6y7l73zdYqaQA7FFhy3dOmPIdwZhuDldEJs5iLA6MJ+zO0e4g/+6uIWZ+riewOjwM78irZgP0DKTx8dMr7TIsQOLfjFdWwKC8m/K86DJmZaO6J68bdo5j8c2U0uybRZ3vGDAvO9Aagj8C2UYxmawpf2CM7ujk/VTY0LWMdtpDI0Lmg7Fes3tgVRtBEBrutY6sH3wsGtsZ8DLMReIwiIhQdcDmIaHGOP3yDU8B6+yplIfXyA0yygEZbfe6d5lg4nyVERvq9xN5F+tOH6YCo/JXBlD74zpisIhKGxFATxCT6ggUq7r6cTwu6vOcfiUqkB19928ohxI3QWuw==
+baseball.	3600	in	rrsig	CDS 8 1 3600 20250904115413 20250821114541 11122 baseball. qVnEXk9vPzRnskoBgaVS+A8WuRqTYC9nybgGWhbioT4Ya4LIF5FHc8UjC2v9t1Ii/g88XdRibB42S/kz3GIDMPY4SkMWGtjP7uIEoeZviNern/a4byJ8eZDZXuRlTn05GyyMqJJWT0l+3foGLfiJtjDlnqy6xZb2FUFh6UiR7w6mdGxY7jJiQcjj16s3G8gqsOtWsmKwJDjozMpQTtGxg9xBFCs3zuAgrWU8taCw7PH/zdZuNfymF7q2k8IYXwe2WVTBLyNRbuhtmRSexmDONml32wwWxAdepvxZFUab4lLV1jzzrfer/6Y1RfIisCmavGbHf1nzAw6T/CgvRYjxpg==
+baseball.	7200	in	dnskey	256 3 8 AwEAAZ7EYeTWaqUEQouamUHqaeeAEbz/TsHxZTKVYc0yQQGYpfiGaxI0+kD8CiS9+LjxnRjkX62e05KJpPapKcmmyrIAt4OuctUyNNJKO/cC/KEsRnU/ex3h4ZLuEaXRfXsO0Ht3I6AyYRLgsqSKr/kF2KS+DqsXSsSc5+fd2Ank01zKn8//Am5fFZym83A2PhnHvUm2pMBqr+R+pp+iV7ilLBU=
+baseball.	7200	in	dnskey	257 3 8 AwEAAcejq0OmBdnvUB7mL4ycZYxcf5uCSFZq3N4pSDA5kKezdmm+k1A6lnfVn2v2qvpXpziDAfmLhFQhzqJJ9qWfbtPFy+7kl5d8hkbD30smDo3X082TJnPNwSLdyU+lzcWKl1F6L8lTrXr/fJJkPJBAJox2DMkEKonnpsu+7J1wPzIQTpU71mXhib9KX8smA/dv9+QqiAVF/embXbRtXQf842j/Q/a/I79t96cVSfQVxYDM5kwOUYgtG6N2SB5rAxf0FtzHWEWLCv+VTkg4MOy6y7Rjd/rVKWNP+gi0TBbkiC3jmt2se4rl83WSGNhZq48LUd/0ZK+OXIT1ASI4RUEE1vM=
+baseball.	7200	in	rrsig	DNSKEY 8 1 7200 20250904115413 20250821114541 11122 baseball. aVVpuAOSfsn56wNoA+3P4MG7k0YnINwMo3kEZzGtLJ+Ta6ISn2FS6sx/8n7ePSuK68elaTCPXZLfTOSQTT3uW7YBdYCyu1DGhwyTpUATfm7sda7WzNt9P5A/r+b5pwJP6WWa8dcPdQT0r4K602eGaIUE3Z6G5OEIlxPcDZSJVzgaFC9WDvvw1AgYtDSt88875NaY6Qo9HWswr59cakEtYYOXvhhkDDZxWNmiCgkPQub6jgZx1K/zXowCm+RyJD9g0HriQr5D1iLrl6baLV6dB4ErjGNo56yWssvv2x8JFZGF8NZyQGc4x+OYiET+qs5V54ddBE2H5MgEA+wBPu/pUw==
+baseball.	86400	in	ns	a.nic.baseball.
+baseball.	86400	in	ns	b.nic.baseball.
+baseball.	86400	in	ns	c.nic.baseball.
+baseball.	86400	in	ns	ns1.dns.nic.baseball.
+baseball.	86400	in	ns	ns2.dns.nic.baseball.
+baseball.	86400	in	ns	ns3.dns.nic.baseball.
+baseball.	86400	in	rrsig	NS 8 1 86400 20250909013139 20250826004338 37938 baseball. CBb86uOYVF1u2hqyWWVN6FqQQBlOr9k2RUceEZdACqLxFW198Q5aQkrwMC4L2xubPb/hH97qU4Mb2Qp6vHf5NrGH0QPd6ZmoRcNdIHbw1eMgmD4GOiENbG5CZy5DVv3soL73nOa+Uwb1GhVeW61gDFR/5Na/aDHF3SWUK74VhydXecL0UU4JQiccrAbCejuz8G5vzcmavNe9TQNjrEQ+xQ==
+baseball.	900	in	rrsig	SOA 8 1 900 20250909063933 20250826053933 37938 baseball. eWqGOLbII9nACW3jbH/AKaAE4kJFkKGmJAFjLt6cfOBifabIGDmbOr2ULCu94/66TtFILINwwKOPhqbkejoHqasKKPHi9JKU+PzZLsnEyHvk/53OL04zGASUK33UzhQnRJT8qTDhfprN/iHKW74Ou10Hu23HU08LNks0Qv/qNy9/lHQnVPpzJzAywAwzxK5MQFn8kp5m29c8Gh6A6EOIxw==
+c.nic.baseball.	3600	in	a	37.209.196.10
+c.nic.baseball.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0010
+c90c2njsjbtmtqtrs92r7e245kv7ecsa.baseball.	900	in	nsec3	1 1 0 - L9RVMHSQ5JQ4TEV9AD6O0B3RMVLEBVE0 NS DS RRSIG
+c90c2njsjbtmtqtrs92r7e245kv7ecsa.baseball.	900	in	rrsig	NSEC3 8 2 900 20250908052341 20250825050003 37938 baseball. GeJTds86n9u0f4zNDbzwP7m5Uf5pCQwD7vDVpIeL6Px8mlzgVUibAJwUSd9pDX7qSiytmsIwZ7CkUttGo7eDxs/529Avv0zTwallCvwJRph0XII6XOH8hyCY5O7azRRJgggdTNx0h4Q7Fw+CU72X+j8K4i3a0wIoUuBrM8QwuekjICTgQ8qwR3NDl4cq+MWMP1f5Uka83eVSBZdRZ6gLmw==
+d.nic.baseball.	3600	in	a	37.209.198.10
+d.nic.baseball.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0010
+l9rvmhsq5jq4tev9ad6o0b3rmvlebve0.baseball.	900	in	nsec3	1 1 0 - 73KBON823OQJF3M7D6B0BV4G4FVOGCS6 TXT RRSIG
+l9rvmhsq5jq4tev9ad6o0b3rmvlebve0.baseball.	900	in	rrsig	NSEC3 8 2 900 20250908052341 20250825050003 37938 baseball. MSz2M0iyGmMREHjlW3+lo11h480GmSTHroBfTT8gnx66Cm8tXHx/NC4XVxTS08kYp2DgXKcbV0PyPXw+jSAeLnSda5l7C11XFn+fVfR38E0ouRvRvyz92rZHlHBoZWOb6z+YZMW6YYlloBZHZsyOqsqyn7PsAcQIYXxyjeLBToorIClr7Lpc0XdhSOUq+AmSQ21wDvBRCdWyFbCd9NOKwg==
+m.nic.baseball.	86400	in	a	204.74.104.90
+m.nic.baseball.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+n.nic.baseball.	86400	in	a	204.74.106.90
+n.nic.baseball.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+nic.baseball.	3600	in	ds	51367 8 2 A7CBA41C7D7F43C7231D0B93CD3AD2153176D696032C8C076CB9FD3B82B8C04C
+nic.baseball.	3600	in	rrsig	DS 8 2 3600 20250909013139 20250826004338 37938 baseball. MjYmtCBtLyXtSskDfuSHf34pOIfy2Fnw9ewxQV+Z0gbo6aZUJ1EqLQzY0MDJr4D5qTiuNn3Vb6rOmn2VqoEUzau+rOHrdTq8Xav+xkEiYvmx3VbHPGk/Rs2Dl+4vl6SV02TNs8kWJWT9YHsJDN/LC3cOVDwqabgtkuvb79i+gv3c4LCcIU8mkiEUzhXYTyGmHPHMsud70XLBDpUd++d/qQ==
+nic.baseball.	7200	in	ns	ns1.dns.nic.baseball.
+nic.baseball.	7200	in	ns	ns2.dns.nic.baseball.
+nic.baseball.	7200	in	ns	ns3.dns.nic.baseball.
+nic.baseball.	7200	in	ns	ns4.dns.nic.baseball.
+nic.baseball.	7200	in	ns	ns5.dns.nic.baseball.
+nic.baseball.	7200	in	ns	ns6.dns.nic.baseball.
+ns1.dns.nic.baseball.	7200	in	a	156.154.144.200
+ns1.dns.nic.baseball.	7200	in	aaaa	2610:00a1:1071:0000:0000:0000:0000:00c8
+ns2.dns.nic.baseball.	7200	in	a	156.154.145.200
+ns2.dns.nic.baseball.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0000:00c8
+ns3.dns.nic.baseball.	7200	in	a	156.154.159.200
+ns3.dns.nic.baseball.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0000:00c8
+ns4.dns.nic.baseball.	7200	in	a	156.154.156.200
+ns4.dns.nic.baseball.	7200	in	aaaa	2610:00a1:1074:0000:0000:0000:0000:00c8
+ns5.dns.nic.baseball.	7200	in	a	156.154.157.200
+ns5.dns.nic.baseball.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0000:00c8
+ns6.dns.nic.baseball.	7200	in	a	156.154.158.200
+ns6.dns.nic.baseball.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0000:00c8
+baseball.	900	in	soa	ns1.dns.nic.baseball. admin.tldns.godaddy. 1756190372 1800 300 604800 1800
