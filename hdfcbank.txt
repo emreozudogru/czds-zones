@@ -1,0 +1,36 @@
+hdfcbank.	3600	in	soa	a0.nic.hdfcbank. hostmaster.donuts.email. 1756256557 7200 900 1209600 3600
+a0.nic.hdfcbank.	3600	in	a	65.22.180.33
+a0.nic.hdfcbank.	3600	in	aaaa	2a01:8840:00ae:0000:0000:0000:0000:0033
+a2.nic.hdfcbank.	3600	in	a	65.22.183.33
+a2.nic.hdfcbank.	3600	in	aaaa	2a01:8840:00b1:0000:0000:0000:0000:0033
+b0.nic.hdfcbank.	3600	in	a	65.22.181.33
+b0.nic.hdfcbank.	3600	in	aaaa	2a01:8840:00af:0000:0000:0000:0000:0033
+c0.nic.hdfcbank.	3600	in	a	65.22.182.33
+c0.nic.hdfcbank.	3600	in	aaaa	2a01:8840:00b0:0000:0000:0000:0000:0033
+hdfcbank.	3600	in	dnskey	256 3 8 AwEAAawgFIyu/nu0dXfZekI/xzH23b7YucmCrzVdoQCQ9TfUAtWsUv/h+/nCheRGYd539OPkiL3ShcpCd1R7BpFwaz9dN1bEAEpBj+lHqJJ5Mhvx1B4ByXOrOhG+QwBF85ZF68R1So5CMDvFvj0jW5XrTiw9tYyZy6/5PzXDIsS3Hwu/
+hdfcbank.	3600	in	dnskey	256 3 8 AwEAAfWCd1sLqRJLke3uezWw7RnyqLpLA+z2VY2Nj6RkNsT7BuYxSOwym2a8yZ8FckrqMC4q64AIqgjrD9xlMU0XhPPjB098vTQWslmO/NSgey9Z/4cbOIyNIr4Nydkb132UHw38eXGoBW0aFOzTfcsJFJgvAsuasTLqhyIzfnpcfK2V
+hdfcbank.	3600	in	dnskey	257 3 8 AwEAAa+114xxH/GM3SSllTr1l7PIZ0R2rhS+IvquJh1bUmvy8qdzbkPaH3/QFXd/WVlTE8z02iJd4lRwAB9LF8XBNPpExl3N1v1IPkXtJH+z3l2w6rLk5ANylTwndkKzWSl5sTJNVy6ELfv8GFGvTbyvM3VLqN8bzgFD/YXFxfX5gfTJrnx1JGjXGkKE06FD922fr2OXjpdZlkEdKrfj3ajCUWKDIJgRiVCzisLA7tz0wB5EpZiZMirfYlCYhYsYOHWtFB5nijyxiZ2LiHTPE2tM0FGcBCmVnIz8T43J64sxHG1xaeX/yLDwhHhzOUhuabR3cNtOZy/Gzun5j8Bvcceu94E=
+hdfcbank.	3600	in	ns	a0.nic.hdfcbank.
+hdfcbank.	3600	in	ns	a2.nic.hdfcbank.
+hdfcbank.	3600	in	ns	b0.nic.hdfcbank.
+hdfcbank.	3600	in	ns	c0.nic.hdfcbank.
+hdfcbank.	3600	in	nsec3param	1 0 0 73
+hdfcbank.	3600	in	rrsig	DNSKEY 8 1 3600 20250916161258 20250826151258 63937 hdfcbank. S4LKbvkUI8zOcGQDCgi+lrt5+fzem8BLy9SB6Rk6rz9CkdWWhmyZXbneU+2Ka/zXgCLdeICCUEWkiHA/TgTTR/DB5unwT8xmvTWfMLHHQGiI16+/ydXbJOBpoEMO9uMrIyMUKvckUVpFOYVmvamgP7ZT1TV/XUzZWT0APTho6tUP6aAC4+hPfT/j4DOB0ExSbg41OcnaBDvxWZQ6hZQhdxD99V18JLmaXCJTQ8JkTV5fsaDwskyKsMVn0S1UAg/kyu6U558tzsirzyZbunzN1TZLKhZnH4EMqUBMci0U54Cb4ukgNg7AClprbkV/7VFYrcfJA5lFYwdcc6j4OhAzkA==
+hdfcbank.	3600	in	rrsig	NS 8 1 3600 20250916161258 20250826151258 38415 hdfcbank. O5aWuExy/dPTUyTUakjvrash9y0+OOtUawgykKaOista6fb9Ezrd8XJPZvSHG2ACdmscPCe1mdaA5jQMj/HRxYmx0undhcG40ioMZLySuA2F8Osy1AuPVsbpSgRE1auTLN1kdoUIhSe343/xWThJn7xWVnmPVcs7T2UUqwscnfQ=
+hdfcbank.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916161258 20250826151258 38415 hdfcbank. NZgeSlxnui1mO1sU6oM6e0T/VQwiE6nQwGspd2xj2Y9jW0vvwQMVyqWh+5/Att05Dt+m2hHhTJJzXOk/WjlsI3nLzd8G6AYAzntGK1sYNnO5T+bAPqYtQEQkP+4yNLkWg3az45lvqGKTPkJDBwTY5T6ya1EOArl3c5xDCIcWbac=
+hdfcbank.	3600	in	rrsig	SOA 8 1 3600 20250917010359 20250827000359 38415 hdfcbank. UwABX6vAvRyWx6UsT2rp75PCIuVFZ8jmZLZ+UpaH5AJupz9z3dgjh6qx0u2A7EmwTqo8GOzu7mHtz7l5SLiJBsc55t5QoIpFuPFClQ/TV4xZ9uMwDWfPC4PCWwBSGRXraFa9kDe2yoVXKX+H9pNMkNrdXv69ytgaCPX0MZu4DHE=
+nic.hdfcbank.	3600	in	ds	13938 8 2 867BA4F91A23A4F8CCE0152CED659DC10F786EF365E444BE9A9B0AB0A3B9345D
+nic.hdfcbank.	3600	in	ns	a0.nic.hdfcbank.
+nic.hdfcbank.	3600	in	ns	a2.nic.hdfcbank.
+nic.hdfcbank.	3600	in	ns	b0.nic.hdfcbank.
+nic.hdfcbank.	3600	in	ns	c0.nic.hdfcbank.
+nic.hdfcbank.	3600	in	rrsig	DS 8 2 3600 20250916161258 20250826151258 38415 hdfcbank. HTBGZPW9C+/6/0i4EYv0JSllpvo7D+J1RoFhmMOpj1Lbxoaz/dr3M+X/pgls+du9QgyrWUR0B0PEo0hjE0r/Nu7nFyDW8LUg/CvXi4l4LSX9Tc35+3sC7akLCdMa1tQ5MqqMM6GS+VKSzoMBWN8KXLtbdwJDkGNVhJBNqk1G4M0=
+nolvqmi7h7gnr0276al0r5hn88ip8is2.hdfcbank.	3600	in	nsec3	1 1 0 73 NSHU2D8IL65195MQIH25P65OF8MD99TG NS SOA RRSIG DNSKEY NSEC3PARAM
+nolvqmi7h7gnr0276al0r5hn88ip8is2.hdfcbank.	3600	in	rrsig	NSEC3 8 2 3600 20250917010359 20250827000359 38415 hdfcbank. YOUgqyzhgBSvxL9xl8bE4a5TmCVR6Kp+3DKjmWnqpz5yDSe/NgkgEo1uzxmPWAMZoqmFbHg5Af63g2RnygcoI7ald+BXFeS7ZlQUlORjiC88ZsklmLojMPRO70RZkefw+IMuSM/xxwwVtO4RwKGgvwFglipBqbCe1m/9Elvzg60=
+nshu2d8il65195mqih25p65of8md99tg.hdfcbank.	3600	in	nsec3	1 1 0 73 NOLVQMI7H7GNR0276AL0R5HN88IP8IS2 NS DS RRSIG
+nshu2d8il65195mqih25p65of8md99tg.hdfcbank.	3600	in	rrsig	NSEC3 8 2 3600 20250916161258 20250826151258 38415 hdfcbank. c5dEWG30sxkzhlzgTydUaL5yNEGpZyaXcUvCnNx9zGWAQEMVMl7IFcJ0vETB6ebnmKkgSu1cFx0Pbrvkw7wlzrGBWEMBGxrGvzS6fUiRQ6bG/RvyAhycvrvlx5Dt+F3fVfkAgB4JOM3LyAyU6CN+OudOktYVEFAkquUfalsVl5c=
+p.hdfcbank.	3600	in	ns	ns1.softcell.co.in.
+p.hdfcbank.	3600	in	ns	ns1.sttl.com.
+p.hdfcbank.	3600	in	ns	ns2.softcell.co.in.
+p.hdfcbank.	3600	in	ns	ns2.sttl.com.
+hdfcbank.	3600	in	soa	a0.nic.hdfcbank. hostmaster.donuts.email. 1756256557 7200 900 1209600 3600
