@@ -1,0 +1,62 @@
+caravan.	900	in	soa	ns1.dns.nic.caravan. admin.tldns.godaddy. 1756190404 1800 300 604800 1800
+5jcjkc51ld9h7qkevmmi52973p74j4pv.caravan.	900	in	nsec3	1 1 0 - KP5DPBI31TU6LG0IAH1JO3NJU70CB7TB TXT RRSIG
+5jcjkc51ld9h7qkevmmi52973p74j4pv.caravan.	900	in	rrsig	NSEC3 8 2 900 20250909064410 20250826062546 61035 caravan. nm3zCcFXLFN7wGaHmjUR5eLVBZ/YOTBAANSM3eUsMFMpfEvrZ4/vpRZxsU2FZ/U51/U16SOkwMYcg2OmEYnS+8/gRUOYyHbUUME1Ev9eUFglvK0Xyvv+7boyj7mpjclZ3algfV0YD6xFYoN3OuBK4PHKs/F6YEOZSTr8nc53auD7gYsKKxwdMWifyRMQt9V+YGtN4HIHjcvqQxEH7WbK3g==
+_forcedupdate.caravan.	300	in	rrsig	TXT 8 2 300 20250905181337 20250826054003 61035 caravan. M801iI3SW/TFdlF/KDce9vSqQQlb+iWsIvLR3aI5/gx9SgCE9m7UbdnQ6U+79Ci2yF3ocvwtolbwyGJMW4+Vv5zR8v73O4MekrOxqq8K23PBNdDm1x5LVylFERIRb3L4qNbu0whadYrqqUzkcmVEwUzxpeRcMZ7ZXTpoHnN4NvRrvg2tQWJFLowsi9mduq7jOPkJRkH8DlfmKVZdM5UhCQ==
+_forcedupdate.caravan.	300	in	txt	"1756190403"
+a.nic.caravan.	3600	in	a	37.209.192.9
+a.nic.caravan.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
+b.nic.caravan.	3600	in	a	37.209.194.9
+b.nic.caravan.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
+c.nic.caravan.	3600	in	a	37.209.196.9
+c.nic.caravan.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
+caravan.	0	in	nsec3param	1 0 0 -
+caravan.	0	in	rrsig	NSEC3PARAM 8 1 0 20250909064410 20250826062546 61035 caravan. FBtA7H1+vJd/A4R9czoZAXXvEtKn6ckTmyoi1ivBm1BmFAWoWDuRYxjaAadfqOxNz8STX0rwnGbhqVqqiFzvx99Jwl6PW7asxPAHesaBg8kxlCOOBxUWg2bqhpqJkqufhtMrt+dGdrep3QuJOcOtGbkJQ8bWlOF4iyspBb0/FOKIQeAxPu4F3LuyOuSsca6PTSQxfAXM1GtRECksFdLQ1g==
+caravan.	3600	in	cdnskey	257 3 8 AwEAAcaIemn2+hXwr5WOxuPTSG7PLWdG3Dc2ZLtbIVmfX9h8V7dUgTWCQZ5CsDE9DxwDnxkiT5KtFBl5CnPVLeEjMh3C4cCN/OZbzuA8AXDn4eZlxEGqAD7jgRfJ7MqF7TkkCf2tbqMbWEes1F53Snne1Ev4LV4cF0J4jb9mkBNjp7Fel+ogiiBUjfD5ojtNTTDp3jy8kJd7sbePqqmVHNDSQOxfMHgabUxLFufjOCDUB4w00YT7rATwxehQfLnH28l5xQIVOPWmjbyXoR3kJ41xMMePaSA/rnjJf4Y6kWyCNztDdlLn9RUXycyjpoaPD8we1MPUQ/rpbqzyLsVhC9HQL8M=
+caravan.	3600	in	cds	3526 8 2 370991B8E6E9F532E4B6DDF051FAE510353E27E0B99A3F9B7B359C48620C507E
+caravan.	3600	in	rrsig	CDNSKEY 8 1 3600 20250904094819 20250821093727 3526 caravan. i/PWWVn7B0HbzRwwUx5pFA9vgKFoHvgpbWZV5kkB8aV2fKCm7AJWAll8n5HX2jPRARy5blFOwjQgWRxneyo9xvQkyOPckt+7R8JAEeNv1pxCA05Qh4G51VWtrW3D/kmb3IYPJe3TZrHoo5NfudnC1wdWF2tRsJQjHkKU61S/yj9Yq66CwHR34NjEp/pMjkFTXyqdmKE9g47nSL9oMHhsDEdIUcuJrKgU7Ox2QVYdlcMUkJG8Jq6j3K9LKtt9C1KmWp0P3/zixxnYQoR86gTsQun2ElfE5Wyn0+DIpOE5EcR86Evwl/1BX6rF0nwNs4dK1M6S4s18R2ckfQEqWnGKhQ==
+caravan.	3600	in	rrsig	CDS 8 1 3600 20250904094819 20250821093727 3526 caravan. Lz79mlO9W2ctYCeLawRV4ZFS4E+da3Pi5NcSrnAyfPT0wphzQOfONuygVexbRSUrf6W3knIrlM95ZhzXMl6Y3s110r9i+/pZfuubGRKXHIZVeuDHB0B4MQKm4t2OD6ZM4Clt3BO85IPBSNp60KiTaGQ/OxsEKZ84xSheJoqu1Mv/DotZ7RWPe27p7ncV0kQhhXrZ8+cf/IhLMWnLzfbusV9F1AD3esiC5f4MU9ZuNU/9f8O6vAUcRQWssuUT0Iy12sY+BdaOI/YXgaFN4ODYdodPr6eHleWEsq8RpHclboX7QKYCUTOE20uminnAhBj6rdv30ciwGzhEQQHI9YJakA==
+caravan.	7200	in	dnskey	256 3 8 AwEAAc1qYJ835SQpQv6GZCWqUf07sd/0JeEaZ5SavhkXCJKrBgOAevllHQTRTZjCXdTqL2eWMsNAQuxNHpNtJzKXHmXhK/m4NU1gv3SBEScp5jS0IjWD3yRCZLxY/hAfsX05vACRoYDHwlcWhRpAm8ByVGzMf/pmq7ZDiWrhw6/ENG0H1CYHFd7TCowbFsxuKDLd+uUWHx00gExOFJ8bQQJL3b0=
+caravan.	7200	in	dnskey	257 3 8 AwEAAcaIemn2+hXwr5WOxuPTSG7PLWdG3Dc2ZLtbIVmfX9h8V7dUgTWCQZ5CsDE9DxwDnxkiT5KtFBl5CnPVLeEjMh3C4cCN/OZbzuA8AXDn4eZlxEGqAD7jgRfJ7MqF7TkkCf2tbqMbWEes1F53Snne1Ev4LV4cF0J4jb9mkBNjp7Fel+ogiiBUjfD5ojtNTTDp3jy8kJd7sbePqqmVHNDSQOxfMHgabUxLFufjOCDUB4w00YT7rATwxehQfLnH28l5xQIVOPWmjbyXoR3kJ41xMMePaSA/rnjJf4Y6kWyCNztDdlLn9RUXycyjpoaPD8we1MPUQ/rpbqzyLsVhC9HQL8M=
+caravan.	7200	in	rrsig	DNSKEY 8 1 7200 20250904094819 20250821093727 3526 caravan. xDz0UIfeOeHA/eoP09GCyFM+lKEhTyWrguomGQEMviehChIy/pdO9EVMlRiUnKPyDTuj7eOQwCyGQoPTmuj2i4KqoPkpW4FfTpyWwM/BLKYBvMG6OQiLk7RpWllGqrshF3+FADoVuO+Q9t1mqzf/z15FXHUTj/YcdI/ToraiEwR4nB7JYefOBlrWEG07TxWzQ5AKT1PIfntt73Na+G0YtSMzymh3jwir3K8LNpcZ5cDUKvzFyGQjgbqo5UETIuVNBfDIPDuhfkgp2ENMO/cs1xLn9AvMYohlYvIv9GxTnU6or+TG7f7+mHyMqFASSPLTZEmXoMqXKtfmo4c+ted4hQ==
+caravan.	86400	in	ns	a.nic.caravan.
+caravan.	86400	in	ns	b.nic.caravan.
+caravan.	86400	in	ns	c.nic.caravan.
+caravan.	86400	in	ns	ns1.dns.nic.caravan.
+caravan.	86400	in	ns	ns2.dns.nic.caravan.
+caravan.	86400	in	ns	ns3.dns.nic.caravan.
+caravan.	86400	in	rrsig	NS 8 1 86400 20250906070755 20250823062016 61035 caravan. G5zN1AVdVMhNCsg43zZi6OWEGH9cAKsjrgj2v4v+WKL6UOXlFvK3/VRCNvF8+teWvhFfB4+COMdFGIHLElpZFJjCouDrxHYjtZ6nY9Da+Wi9YFnQ9wj1ELNgSld52Z8DNNj/rkladoetuS5yHFpeOz0FRFMTnEDIvcAJ6LwAgcclhb5wQHaQTDLX9cD8FMVqK821um7s24U7ejJxP9UDyw==
+caravan.	900	in	rrsig	SOA 8 1 900 20250909072546 20250826062546 61035 caravan. xzu0wkzRpXcruTgj3Ujrujm7RFJhqCgGI0h0muY2j+3tRgszyOsIYHwhsyu8LpppcG5ZY3vrEcA6+VOKQRPjM86Cgk18QrHP1yOtIMX7usl3lLv7DQKnj+PbYnE1RJW97AKpAJKj3JMgHqeKfj4noCm5eQqTHkTuqZMWsJaVqDdux/lZ4vBcRwBx9zGcJ33EJ6IN+CDc4Y3eqQ2aB8mj5w==
+d.nic.caravan.	3600	in	a	37.209.198.9
+d.nic.caravan.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
+kp5dpbi31tu6lg0iah1jo3nju70cb7tb.caravan.	900	in	nsec3	1 1 0 - RFTO3F6AFINRJF8U7F2H6HAF0INQFB7E NS DS RRSIG
+kp5dpbi31tu6lg0iah1jo3nju70cb7tb.caravan.	900	in	rrsig	NSEC3 8 2 900 20250909064410 20250826062546 61035 caravan. fiimV97i/CS+eybBM4SafgQpFOCtp3pw9c1zfiViOsDQtOaraZ7pVqTKyOcr9QvClmFuLnzQw5b6fo73Vh1k1rEgrc+OM5+0g2X82CEuQQo/ZHowso2UskxgpHgb1BxJfKBI1wHZu+zUxRjH+7Dqu6PJiZ+5WmkwDY6XXX+F3wOUXqQjGTLTueP4StylqlubFkSsPhyc3+U/0yHYJyy97Q==
+m.nic.caravan.	86400	in	a	204.74.104.90
+m.nic.caravan.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+n.nic.caravan.	86400	in	a	204.74.106.90
+n.nic.caravan.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+nic.caravan.	3600	in	ds	25990 8 2 3627EF05EE398DAF46E01DB411DF935558C08B06B1817DF532955C8E3763CC6C
+nic.caravan.	3600	in	rrsig	DS 8 2 3600 20250906070755 20250823062016 61035 caravan. OPc01r1XgtliTpleelYL457f5WYtXwti8m6CuqMaQGzjerMi8kjCB0eO9oourSVE8sR8qBVk++ZsqknRB/e/VxR7WU0+WCIYzWbif7SxVCfME85S3d7DCKF063xGOHzjniIvuvKFbIQ/Uk3SwGhKbrHzVYkrZ7AyZ00eIRWbJpgkH1pkaEXSUK+TxByaaDeZ1KrOoRrYljhKbjyS775O8g==
+nic.caravan.	7200	in	ns	ns1.dns.nic.caravan.
+nic.caravan.	7200	in	ns	ns2.dns.nic.caravan.
+nic.caravan.	7200	in	ns	ns3.dns.nic.caravan.
+nic.caravan.	7200	in	ns	ns4.dns.nic.caravan.
+nic.caravan.	7200	in	ns	ns5.dns.nic.caravan.
+nic.caravan.	7200	in	ns	ns6.dns.nic.caravan.
+ns1.dns.nic.caravan.	7200	in	a	156.154.144.32
+ns1.dns.nic.caravan.	7200	in	aaaa	2610:00a1:1071:0000:0000:0000:0000:0020
+ns2.dns.nic.caravan.	7200	in	a	156.154.145.32
+ns2.dns.nic.caravan.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0000:0020
+ns3.dns.nic.caravan.	7200	in	a	156.154.159.32
+ns3.dns.nic.caravan.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0000:0020
+ns4.dns.nic.caravan.	7200	in	a	156.154.156.32
+ns4.dns.nic.caravan.	7200	in	aaaa	2610:00a1:1074:0000:0000:0000:0000:0020
+ns5.dns.nic.caravan.	7200	in	a	156.154.157.32
+ns5.dns.nic.caravan.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0000:0020
+ns6.dns.nic.caravan.	7200	in	a	156.154.158.32
+ns6.dns.nic.caravan.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0000:0020
+pdf.caravan.	3600	in	ns	ns1.digitalocean.com.
+pdf.caravan.	3600	in	ns	ns2.digitalocean.com.
+pdf.caravan.	3600	in	ns	ns3.digitalocean.com.
+rfto3f6afinrjf8u7f2h6haf0inqfb7e.caravan.	900	in	nsec3	1 1 0 - 5JCJKC51LD9H7QKEVMMI52973P74J4PV NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+rfto3f6afinrjf8u7f2h6haf0inqfb7e.caravan.	900	in	rrsig	NSEC3 8 2 900 20250904094819 20250821093727 61035 caravan. PQoxj9TNSxvM3cS8MWvLS7t/9s58S6gBevfKh4CjTU8F+4CiNw5Gr4t+KEtZH6vUu/5Mc3PeWob4S5Gjoe8dgmA+3EsxHcXPczYcIerI7yyMOYZbHRFTxO8+5J0KeuYlz1kR5NbgLfssRc7x0W13riW1KxqoQFDd8I/Avq4jMEqFNECLKzgcu50FD1BKSoeSsWsnchAh2JcfvusQoqC0ng==
+caravan.	900	in	soa	ns1.dns.nic.caravan. admin.tldns.godaddy. 1756190404 1800 300 604800 1800
