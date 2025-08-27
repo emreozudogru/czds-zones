@@ -1,0 +1,27 @@
+stcgroup.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000373508 900 1800 6048000 3600
+a.nic.stcgroup.	3600	in	a	194.169.218.46
+a.nic.stcgroup.	3600	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0046
+b.nic.stcgroup.	3600	in	a	185.24.64.46
+b.nic.stcgroup.	3600	in	aaaa	2a04:2b00:13cc:0000:0000:0000:0001:0046
+c.nic.stcgroup.	3600	in	a	212.18.248.46
+c.nic.stcgroup.	3600	in	aaaa	2a04:2b00:13ee:0000:0000:0000:0000:0046
+d.nic.stcgroup.	3600	in	a	212.18.249.46
+d.nic.stcgroup.	3600	in	aaaa	2a04:2b00:13ff:0000:0000:0000:0000:0046
+egb6vcs8fh59dgvf14ci8m0i817tqgd5.stcgroup.	900	in	nsec3	1 1 0 - EGB6VCS8FH59DGVF14CI8M0I817TQGD5 NS SOA RRSIG DNSKEY NSEC3PARAM
+egb6vcs8fh59dgvf14ci8m0i817tqgd5.stcgroup.	900	in	rrsig	NSEC3 8 2 900 20250912220411 20250813203411 2169 stcgroup. QQvkqtyukXWry3fAb1cgDKwV4NLygr9mfPdHGXRzceH3cO3iNLtufx+h1SA5LioVAovn17wFjOQmjHXVxeNofnS5BmT8iRAQAfmzV4avcvRDtKy2rarYm4dn01KGnsqu+zoN9zHA2W4o3dP1kXOZdes0CzVWYWFQwkHdD9GPi1I=
+nic.stcgroup.	3600	in	ns	a.nic.stcgroup.
+nic.stcgroup.	3600	in	ns	b.nic.stcgroup.
+nic.stcgroup.	3600	in	ns	c.nic.stcgroup.
+nic.stcgroup.	3600	in	ns	d.nic.stcgroup.
+stcgroup.	172800	in	ns	a.nic.stcgroup.
+stcgroup.	172800	in	ns	b.nic.stcgroup.
+stcgroup.	172800	in	ns	c.nic.stcgroup.
+stcgroup.	172800	in	ns	d.nic.stcgroup.
+stcgroup.	172800	in	rrsig	NS 8 1 172800 20250912220411 20250813203411 2169 stcgroup. Vnzer/mc24WNNO7GN++zABODqUofKW5GO8yAIFBKvtOb3pkQYwyf+zs2DMbWX7kZZ+otVIrP1osYwtmVhbf3ghlVisoU003fTLJNOC0yZZgVSgylQlP0wb3J2kopsZGQKOzxNpCydRu+5vfZjIamGgj4Ty4ZuL/ANGigW1zvel8=
+stcgroup.	3600	in	dnskey	256 3 8 AwEAAd58SvXE1Mvg0i9focyMuXZLcWfNEXXWhsxLXy97DlB7H2omvFpWDLYAW596+VBf3do14Cy0e4dZhDVhIqV7Z1Pc4G/qJrmWR79cwpn8QvPrhkpdeximoAeeUGIg3eLhrxyTwKXHaXq0TGLUKjpnOkW2UrU9H+bXjViEerOVChZd
+stcgroup.	3600	in	dnskey	257 3 8 AwEAAbHgf5q8WxXTQlGr112V6zqVrGgpgBmGwMu3Mva9V4pJTG5Yd3gCRIhCjPeOCc23aaBGsTGmuyHPJN0ABLQoFHERUuedmKlxcQf5mgwXpHAMG46PMz/JeBq9QaU+ZHFlhcimGlp04eM1l2e2PiIxOnuTlxzsB35xAgbD/NgEFjwsBcqQCOf2TmvI+F2xIWsj8Bs7snrbD9M0Bp2JMMGJOZM3neZR1XemWLwoCj6rvMq/JYEzc4YdeoQ9MRmY0WgB/iNHVP9mnGy60nG4yEctv78DPoPsnUMDO6dle8RussmBaPgYlcQez3mwGH3AjQiawKTfKeqwoU1wn+ZTcP0i9J0=
+stcgroup.	3600	in	rrsig	DNSKEY 8 1 3600 20250912220411 20250813203411 5674 stcgroup. kzudD9iM5jh4m1xG+rAThZoxHaeaLSivkP0W6bmR399mN3es9okhfUQ9LptuJzgrlT/+QZKQJOJBFiY1ru4fYffhRh+vOcRowfCvNUTZGQjKBRUTvJMp3xEBOD0GWX9rU+jhjC2LMq0zslOWorR/9ZWXuMD7Wqh9rCT7f/GNzc4ZPgaW696eO4geSa19naPFz6KUCuZ5nzqEx/7dy8UIWKQ4XLsQJjoVyUAc7FtGff+AJ/DWRgbXsrOgM/La24x52luR/0uVyUSRC/mbaGzxoDLK9zx7jS2iSk8BK2cn4jBcWNPhLeD1UtKqT/uGteUWaDSNBo8RP6QJ4FQEWblQ7A==
+stcgroup.	900	in	nsec3param	1 0 0 -
+stcgroup.	900	in	rrsig	NSEC3PARAM 8 1 900 20250912220411 20250813203411 2169 stcgroup. pA3eS9SmcclO5ecAI73q0sij+T+DZAsLZNYrdyEMfDjMYlW5xV+zM0y9KQRJ/vNXwgUOw7MdhFiID5XTXalZ9KKaZ5P8Ivrg8tjrOwZJA8DYWiSRrmCkCH27DkSAnACxl2a8EjZnt6HUDkGz8dXCkp7+jkXV9WQQMMM0r7kprQE=
+stcgroup.	900	in	rrsig	SOA 8 1 900 20250926011012 20250826234012 2169 stcgroup. fqlQzNtvAjFazT55XfFnspwBKj2/zefwg41dsJZyph+WZ0tUA9CHp177K/tr3Jq8eoZXWil53at1rEljUAKprEvORRu71dF+BV5G6UXdSa+p+1DqAve1xWpbiwTcUL5wVge5Wa4Qt7w5zL5dV2JGKhN+ISlyvRBXBypTRmQg2g4=
+stcgroup.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000373508 900 1800 6048000 3600
