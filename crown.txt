@@ -1,0 +1,43 @@
+crown.	86400	in	soa	prd-fzp-05.corp.cira.ca. admin-dns.cira.ca. 2508270105 1800 900 3456000 3600
+4pvh85qbltojkvbbh4s97pkfor29g8j4.crown.	3600	in	nsec3	1 1 0 - 6REFQ5E1VR4UR5OGJ907A39OOR3148QH TXT RRSIG
+4pvh85qbltojkvbbh4s97pkfor29g8j4.crown.	3600	in	rrsig	NSEC3 8 2 3600 20250830012418 20250823043515 8190 crown. pcpJ2aRjjz1XGaELJFqg9B6hj7Kl6lC7N/XS4kj5VZc2G/SK374zyyp3XHGwYsA2/Pp+S+r/JkPOCSQXaRWYmMKkg0xASb02DdrSIrR7E3NchOZdcprx7BfaIqqkl/BL1/mqPHWU1Ol4yQYpC+baXiFJWdle+kucMIsTCntcLlE=
+6refq5e1vr4ur5ogj907a39oor3148qh.crown.	3600	in	nsec3	1 1 0 - BP20PC6VL44NH8765QS598DLJG2L6T0F NS SOA RRSIG DNSKEY NSEC3PARAM
+6refq5e1vr4ur5ogj907a39oor3148qh.crown.	3600	in	rrsig	NSEC3 8 2 3600 20250830132834 20250823130533 8190 crown. S4yVGiUAs2162ILA9Sc1oMCF8D8LEDHwZnLBcJ0GFk7xiEtdPrrNIRxrOXE8ERxlzoMkhOZea1XzoKFpCJoqogD+5Gi/cq2XWefDTB8N9LKN7BdKbxIF3I7NQaUAf+1lKqknzi9SiYNWH+WBaC9UbcWnGgLberXnwbRh1l5Nl5o=
+_incoming_serial.crown.	86400	in	rrsig	TXT 8 2 86400 20250903115342 20250827000531 8190 crown. L1ZJE91vZgeme2s1/JaYRbdxnUXyt7P2o/eyo937FGJnLySx8vDGU59f1Z78clBWaf718TnrBsO7/ZZxKPZf1xK3rjhUtMoRqB7F05ze0vVkx8rGd+QhAZQc1VpyBOF63Mrr2BmlHYuckIKTcKS1zwDAfiTdzZcbl8lZjx1V7hQ=
+_incoming_serial.crown.	86400	in	txt	"2508270105"
+a.ns.nic.crown.	86400	in	a	185.159.197.5
+a.ns.nic.crown.	86400	in	aaaa	2620:010a:80aa:0000:0000:0000:0000:0005
+b.ns.nic.crown.	86400	in	a	185.159.198.5
+b.ns.nic.crown.	86400	in	aaaa	2620:010a:80ab:0000:0000:0000:0000:0005
+bp20pc6vl44nh8765qs598dljg2l6t0f.crown.	3600	in	nsec3	1 1 0 - 4PVH85QBLTOJKVBBH4S97PKFOR29G8J4 NS DS RRSIG
+bp20pc6vl44nh8765qs598dljg2l6t0f.crown.	3600	in	rrsig	NSEC3 8 2 3600 20250830052942 20250823120535 8190 crown. EpPnBViQ9CR5MWGn0YsWE+TvzR6KmPVwn+xHV5YZ+FItcYHmABdvOpcOpIBA2p7qS6wsP82dPv4jDh3ZU/Vx6m6jv2M7m6q8gcnWxIwaETlllGhDMJUxju81A7K86LK33PIWwBWlLBRJKMdSlbGuXAUNdo/ZdTPQhRrxNZXJcxM=
+c.ns.nic.crown.	86400	in	a	45.142.220.101
+c.ns.nic.crown.	86400	in	aaaa	2a0e:dbc0:0000:0000:0000:0000:0000:0101
+crown.	0	in	nsec3param	1 0 0 -
+crown.	0	in	rrsig	NSEC3PARAM 8 1 0 20250902002601 20250826013516 8190 crown. K9NX/j/CTGpnGkr/TZp1eyu2QVTurDGs+Fb0nuqKhmvN8YgCvVCI/PtKAVE51hbN/2ITFtBhBB120onjb/w6mJ9pmS+3u1VmOW+8nivpvGtuOawDxjuVHlMN2OXM4nYnlbt9wlEJyJaela6TrVLKP4bb376NCaZkSkebWzq7bro=
+crown.	3600	in	dnskey	256 3 8 AwEAAbPYp8rDA2aX7pm55ahgDmbnC63T3v1oQyNuRKMHBv3jPtMMtrzQAe8pFmWNvwBEv9kpRxgzWg8D8NBXX/0W98bvlCvO3bfRXqSczdgkyVVo+3lZ7jHImyNyfKZtXed7dc4eCr5dTdtrWDiDeGlOmbe+uoAGBmDh38/rpnavqqXh
+crown.	3600	in	dnskey	257 3 8 AwEAAbw9N+BdKII4TyRt53/DtZGnLZhBM0zAB+2avBryHjdyHuv6Pdnj3PzWaTSjABUKB5VzwSRndfky2C71ShHRB67JsgeNKSHDEPABIAAAg4mNHjvRvJIrfXIae3hVcxGLS+N8c/xJZmQtny5CeUjpwTyD+GoPvV0V1yWEdSPtBl7SOu2PS+Ke3oSrG3zSVgxAGaLgIul7TwlGXuFmMYIGFQRhiQbzgKR+14UxWWHBpj+Rtv9K7+uwxr/L63APNs+VqJfe4g/R9Mmrzs92arGOOlCILUtMa3TazO2U3w1FySYFxEiA+HfAD1/bVpdpeScuD4e0zAKm+BHk7p29qldokEs=
+crown.	3600	in	rrsig	DNSKEY 8 1 3600 20250901162009 20250825223516 60289 crown. IE8qaiAYOij/V1hXlV1gKvfztfJI5tb3k8itLYJ+EE1yxqxVYnKI90pyxCLw5kvCg9aTI2DuVloL7O66q8wtNsjfbq5RYcmekAs7oQqcfk6pvtuoUwbFON1ye7JFKvdO0Qa9PLYSm6UG1q8wNqdJWoY7QI/0/7YnTup6nQUTJVb1c2kRlxobt4gD/F51QsS1iREK/UXaRfPuqd0gjFt5I8ghEPwldD2vc0hqECyZJOBD4W/bWiAaqw4qC8e0II+zaLM7XLH7WkyWXI9bzPOljVQxOVgp8kQfG95iNBMyO6yu4dKrGGWdMSwQh42KTOu3UNCnsvk9lXw0DsIt0WGiBg==
+crown.	86400	in	ns	a.ns.nic.crown.
+crown.	86400	in	ns	b.ns.nic.crown.
+crown.	86400	in	ns	c.ns.nic.crown.
+crown.	86400	in	ns	d.ns.nic.crown.
+crown.	86400	in	rrsig	NS 8 1 86400 20250902230724 20250826200530 8190 crown. XJD1aObOw9jWDv6emcJDA7o4yqw7OkdubtnLsCCdevIYscfdvVZtVWH27MLnchIypOmh0RNS3uN5kpSdNbbAJ2on/UJA9EQ+Kqr1jNrOcZX1/dHrvVegQvuippVJPxclS0krKvUXGd3wWjzani9dJWRYwjf728JNeZDxZxyhnQE=
+crown.	86400	in	rrsig	SOA 8 1 86400 20250903060517 20250827000531 8190 crown. SB9HcVuYq2V/aHLKNpRaGzE/MSKxBh+uu9J5vLLdFNhYVXq6qtyDbNfpexsUC9EO8I/ktFnQx6yv8VwuXb7v8bTw/JnXqF40k5goqIa0mYgtD7Bjb23FdeGR715abF2gMMPz1DzIqCnL7NG3X3PFQdtQAv3W1MjmlqTlFxJERyM=
+d.ns.nic.crown.	86400	in	a	185.159.199.5
+d.ns.nic.crown.	86400	in	aaaa	2620:010a:80ac:0000:0000:0000:0000:0005
+employee.crown.	86400	in	ns	ns1-32.azure-dns.com.
+employee.crown.	86400	in	ns	ns2-32.azure-dns.net.
+employee.crown.	86400	in	ns	ns3-32.azure-dns.org.
+employee.crown.	86400	in	ns	ns4-32.azure-dns.info.
+it.crown.	86400	in	ns	ns1-34.azure-dns.com.
+it.crown.	86400	in	ns	ns2-34.azure-dns.net.
+it.crown.	86400	in	ns	ns3-34.azure-dns.org.
+it.crown.	86400	in	ns	ns4-34.azure-dns.info.
+nic.crown.	86400	in	ds	60289 8 2 190E86236F58E2E921961DF4AE5C304BA5124AE77AE3AE49948D46E78BE81596
+nic.crown.	86400	in	ns	a.ns.nic.crown.
+nic.crown.	86400	in	ns	b.ns.nic.crown.
+nic.crown.	86400	in	ns	c.ns.nic.crown.
+nic.crown.	86400	in	ns	d.ns.nic.crown.
+nic.crown.	86400	in	rrsig	DS 8 2 86400 20250830132654 20250823123517 8190 crown. jgrTSd+o3Z29QMOM4W60GlM6Ifp/5yXLWVcNWJa6MCLyt6rfMxWTDqR2tnSnjOD9mtwHbC6jYQ2JL2f5T+jivJDEio+uoI1wu8sFfjfn7KPHCvQc7pUEzNKawmCjBj/vcMNeGiHGaolg0iXIh5/kmq4k0IKLmr8BM8IEJkhOuJI=
+crown.	86400	in	soa	prd-fzp-05.corp.cira.ca. admin-dns.cira.ca. 2508270105 1800 900 3456000 3600
