@@ -1,0 +1,79 @@
+commbank.	900	in	soa	a.nic.commbank. admin.tldns.godaddy. 1756204622 1800 300 604800 1800
+5lo1ep2eeqdi06c3m47j5mpn8o8c8ofc.commbank.	900	in	nsec3	1 1 0 - MS01S1D8HA6SARC8VJJO2G1L6NRFJ49U NS DS RRSIG
+5lo1ep2eeqdi06c3m47j5mpn8o8c8ofc.commbank.	900	in	rrsig	NSEC3 8 2 900 20250906030152 20250823024810 2205 commbank. mvFa7Sivl15y001Xaz9GW1wFP83Lf6tyAhlj0ibYNSrbz++8vlwzbvItgpH7LwVd5OimgSNf7qHTJwbRXWVSDhqhyggBivPV/NfhGBPPne43QNTw/A6F7UoAhChYLgnwUbJTMEAh6sWGSF4v//hRB6b0LQ1qIArP0bluLluuLksX2A/LUkZyCcSy50eWaN4Mc2otXDk6VmzO2IbKGGCMOg==
+_forcedupdate.commbank.	300	in	rrsig	TXT 8 2 300 20250904163844 20250826093702 2205 commbank. qK0Dg0cwhR8/o1Gn+9t2HotBQ0VzIFPV6ur5cVzmBJ9jM4XsHQYd8jyNYQT/MouLz/TLvE8ygtHezXHZgZ8RqPYUeL9XV++WBPVFWxyDERLE5ah8C6wzOo19qqmcx+ArF69lMeMZMScWy0/e6/RGAoKKQwRgAKumco2Apssd+YnkNb/0xaAiGZuads8ZsM5dMg2xMArI8TNvLhcuKNPEQg==
+_forcedupdate.commbank.	300	in	txt	"1756204622"
+a.nic.commbank.	172800	in	a	37.209.192.9
+a.nic.commbank.	172800	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
+b.nic.commbank.	172800	in	a	37.209.194.9
+b.nic.commbank.	172800	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
+c.nic.commbank.	172800	in	a	37.209.196.9
+c.nic.commbank.	172800	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
+ccsbc.commbank.	3600	in	ns	ns-1078.awsdns-06.org.
+ccsbc.commbank.	3600	in	ns	ns-193.awsdns-24.com.
+ccsbc.commbank.	3600	in	ns	ns-2006.awsdns-58.co.uk.
+ccsbc.commbank.	3600	in	ns	ns-780.awsdns-33.net.
+commbank.	0	in	nsec3param	1 0 0 -
+commbank.	0	in	rrsig	NSEC3PARAM 8 1 0 20250906030152 20250823024810 2205 commbank. QqFj8mY6VJ9Sn87CMXxuZqWQ9LOpU/+TnIwlKjgo/MeQAKH+B5H2XpzXSNZLJsTr4GAGhW3B+T9xVvsh5fH8nl3ek0PQ/jEIvWd5jhMZu7JjlZJW6pLFeWZ0Ff0xSPPsh6/eWQOuO6zbXdeDRgn4jRhqfV7dCmkmgwxwCdznEe1VyB6oUaDKORItWm9MHGxJ0EQoxbMaAKP1fSWAl1mAYg==
+commbank.	172800	in	ns	a.nic.commbank.
+commbank.	172800	in	ns	b.nic.commbank.
+commbank.	172800	in	ns	c.nic.commbank.
+commbank.	172800	in	ns	x.nic.commbank.
+commbank.	172800	in	ns	y.nic.commbank.
+commbank.	172800	in	ns	z.nic.commbank.
+commbank.	172800	in	rrsig	NS 8 1 172800 20250908172333 20250825164356 2205 commbank. CLMQIK8tv7PEVaNObjjzaOd2+a0RFPUb6B3mlmmnv5AeESnXKbNm7utKWOH0s/oRLfsGMprBaSZkr5Ea4ZA8RoaUv4AUomFXxs60UhfORvpK01oDQh8h9X/AGtq4EPsGlayhiiIuSbo0duP6TN8c53eEyfqJ73pYC/vK7o4Bo3NxQGLC48ncfOayHUP6pzbtHOmoCZVV6h4aCk59rriJpw==
+commbank.	3600	in	cdnskey	257 3 8 AwEAAa+0mvcgLqZZFDzlQhzqfG0tWDC+DVbf9+15dbP2Rvi4Gy4F8T+uEd7tnTXBmgpIJJcX3Hf5v10apyKpFDh3hHELsTHVIxi132jfJ2bz6LY/MxTar/myPQjVfLvA4tIUpnrA4E0SsWL+hxMyWpFjF3jsN8naRgaIbmNbHPS2q5aGnT9Gnr4cs0dSAwZsHpn8OqGdpACPjOdFqeUtYbpjQjN6tFUSrh1KRDuxcaNcEBH8NyvM8foxy3trVsXPItdOlAYT23lVVEAXRgLiZWBAEzkdCTr32FgnQMeY5rBUPS4I9hNB/Qvjn7nJ9NnqcJY/yBducsGUTv6s1NcigbNUcLU=
+commbank.	3600	in	cds	61396 8 2 74227B152E28CAFC3C00B648323982976EE6FC17D521642924D0D145C6135998
+commbank.	3600	in	rrsig	CDNSKEY 8 1 3600 20250904092845 20250821083210 61396 commbank. PdEPeExxE8iYeUpmWdid7IR7pSF1CzZAh+y+hn/+ERBKvUEgpX96PpCIL3RExSZrY7Bkj7mc2qeUHbUXumS0JT4G0xQEOnGTmKkWtShmRZUQWNokViGtDK9VZVsQ1RL8R1HtfRHWram6CdmkcPoaX9k/2MXg4DReE+6w5ROEM2qpXIQZJBFbOgIv4uDhZlANQvHznh8xD2fDUr25O1Q3dNUdjtpf52HPhaKTKHRtMY9BaYX4CRDg8nGMx93NYf2MNW7VwkIixBQ+hOCUn1X1ycdD2QVQz1y0a38N915QpmywkTlADCc7YPTieXaK9MK0de6nSuS3O/CP/6C+bku5vQ==
+commbank.	3600	in	rrsig	CDS 8 1 3600 20250904092845 20250821083210 61396 commbank. htibPr+cUD2LjnT6KqbBcM3E7IKQSsawWDwfJmtI/7xDKnzyPbrEkH/B7BnsFWjTvi8xqOlNTVGE4QsAjO07CYCwDgAzIihTS8xmrwxRBUUbJ8VG4seKEq8rggIRUb0T/gxkM8dqdCistxRjSDnZj02qBGIUlEt5PkYPFuW16fA9RtvZdwCjrUvfQ8dnkkJOshSsU6RnEVvH+yJoq3HSWD25BkoJnH2+aMA/BnCSHB8f+AnCqivypqMAUEVwr/UWB3CxMnUQ9KaCo9hm53bJ4DB8LNq1eVhvCpbdOtdPtvo4XiYtupLsMiJIr2E9uNF6jUfeHMKnCBJUlen2mA25WA==
+commbank.	7200	in	dnskey	256 3 8 AwEAAblOEh69VAkzoQgGlhF20l1DgnoLeYri6AGrhK3wB+R/CKLTuWXKOgNE/4PQiHYaCRYRoR/Wwok64eyZgBexT4I6KjiIQLJuPwiSFgRsK5VUXfpLfxD7e4zUXP25eecuMgKf9IzG21CdHTLSkHMssmwJa4RH6Nkn1xqg3RGz/Brj+cyiuXsXOEN+8hbTe8/v6YbEAyNVdIj/l5yr3gkoDME=
+commbank.	7200	in	dnskey	257 3 8 AwEAAa+0mvcgLqZZFDzlQhzqfG0tWDC+DVbf9+15dbP2Rvi4Gy4F8T+uEd7tnTXBmgpIJJcX3Hf5v10apyKpFDh3hHELsTHVIxi132jfJ2bz6LY/MxTar/myPQjVfLvA4tIUpnrA4E0SsWL+hxMyWpFjF3jsN8naRgaIbmNbHPS2q5aGnT9Gnr4cs0dSAwZsHpn8OqGdpACPjOdFqeUtYbpjQjN6tFUSrh1KRDuxcaNcEBH8NyvM8foxy3trVsXPItdOlAYT23lVVEAXRgLiZWBAEzkdCTr32FgnQMeY5rBUPS4I9hNB/Qvjn7nJ9NnqcJY/yBducsGUTv6s1NcigbNUcLU=
+commbank.	7200	in	rrsig	DNSKEY 8 1 7200 20250904092845 20250821083210 61396 commbank. QO8CN6CNNlkAWhp9gZ/kCmtkGDzr8gzNAEjJb2bkbay8xy6EM/nluosR1E8umeTU4lbId3Ja11gbwD8RxkmF2DzViEQbFCarApwk6y0xwvaoPNIL4+oLTUA5avIar4EbHkbcl4s7SUxugaZMocz3YXdaHDheC4pwNKXCJxxxNIBtPp+y9GwQGGcwdG9m9KvqWuGXCRvlvQ3K/xAY1Za6roUKN1akGg2V1xigcztQFiks6PgPd54Hg0aO46qMThV/EEJ2tFNJfXUsC/xjCbPwFqmMdy0xVbmuAPpwOenEKiq8Y9LLf/ki+AoTOmfrdzxdXMpNggjJmlkgYWva/JsS9A==
+commbank.	900	in	rrsig	SOA 8 1 900 20250909103702 20250826093702 2205 commbank. bFBFENPlg1lFTVWV804NH+OzNYzAt9Wbcc8ntwutm4GSmAm9eTRJ/IU43ccVGifjTFpLGi1up4AkqOtOTwTC2l2TSC4tCTq93AU9npbpx9ybh1fUUt2g6tEBOex3hvm4ZKbz6aUO28j2rb+6WNR5zzeRwPCXbq6WcVSdX7tjt4l4pLi6Alpo3+Bfyt2MLLsQ4D5+ERPgIEz5g/XQLndyFQ==
+d.nic.commbank.	172800	in	a	37.209.198.9
+d.nic.commbank.	172800	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
+m.nic.commbank.	86400	in	a	204.74.104.90
+m.nic.commbank.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+ms01s1d8ha6sarc8vjjo2g1l6nrfj49u.commbank.	900	in	nsec3	1 1 0 - T06F26TMJN1KQGPQHTA2402A7Q7CLVL4 TXT RRSIG
+ms01s1d8ha6sarc8vjjo2g1l6nrfj49u.commbank.	900	in	rrsig	NSEC3 8 2 900 20250906030152 20250823024810 2205 commbank. KzogfMsDqMD/Jz3dXS4h6ANkQReTrECirsFNzhp5/meYYe4N4ejAyYTg0gfORhdMXmcSoZkHZyeIIjf+0Fe2iHJtua/6VUNRaVoTP9u5fCFtd+n1daLYbb4i7O48qxZlHWZQ+FZi047fX8D5JpHnb2nDrIiF14mPwMng12efOV1mx+5Oz1iOoqj84jOBXQGANqmyn0nnrEnKr0B0YU5dIw==
+n.nic.commbank.	86400	in	a	204.74.106.90
+n.nic.commbank.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+nic.commbank.	172800	in	ns	a.nic.commbank.
+nic.commbank.	172800	in	ns	b.nic.commbank.
+nic.commbank.	172800	in	ns	c.nic.commbank.
+nic.commbank.	172800	in	ns	x.nic.commbank.
+nic.commbank.	172800	in	ns	y.nic.commbank.
+nic.commbank.	172800	in	ns	z.nic.commbank.
+nic.commbank.	3600	in	ds	8101 8 2 2163DC44DA5086E514F3F7C8564E1695E5D9D62D30DC8C08D467513A25EE3DDE
+nic.commbank.	3600	in	rrsig	DS 8 2 3600 20250908172333 20250825164356 2205 commbank. PUxNQt8E3ADIDkUNhTT5QZX8bZ22qjleKzCj8ImBK9gN1dX+FwkmM4rYrpoP4v79YiBGJr4nyoBzEVF6i5A0IVMepK+UTn4OCnmvEnXCyig9ekynIwOSVJWXjHHLpUERJ/pELgtCUMH5DSPSS7PsMQE+ebvSFKnACl6CzVh28pqbFt9TUAUGMm35l4AhvNLEuSB9ai462zmLxly3HGakCA==
+oneplace.commbank.	3600	in	ns	ns-1241.awsdns-27.org.
+oneplace.commbank.	3600	in	ns	ns-1723.awsdns-23.co.uk.
+oneplace.commbank.	3600	in	ns	ns-307.awsdns-38.com.
+oneplace.commbank.	3600	in	ns	ns-730.awsdns-27.net.
+onetestplace.commbank.	3600	in	ns	ns-1534.awsdns-63.org.
+onetestplace.commbank.	3600	in	ns	ns-1988.awsdns-56.co.uk.
+onetestplace.commbank.	3600	in	ns	ns-395.awsdns-49.com.
+onetestplace.commbank.	3600	in	ns	ns-612.awsdns-12.net.
+origin.commbank.	3600	in	ns	ns-1422.awsdns-49.org.
+origin.commbank.	3600	in	ns	ns-1813.awsdns-34.co.uk.
+origin.commbank.	3600	in	ns	ns-850.awsdns-42.net.
+origin.commbank.	3600	in	ns	ns-94.awsdns-11.com.
+t06f26tmjn1kqgpqhta2402a7q7clvl4.commbank.	900	in	nsec3	1 1 0 - 5LO1EP2EEQDI06C3M47J5MPN8O8C8OFC NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+t06f26tmjn1kqgpqhta2402a7q7clvl4.commbank.	900	in	rrsig	NSEC3 8 2 900 20250904092845 20250821083210 2205 commbank. eSGKqgPXP66Nw1RW2/05+ucECwls36KAU9tk+czrL1x88ffBRGFPkbLpiT0JvARi/ZYaT8P2GbllwKJmemclWGuaU4rgBIXRsFGLkKxNO33InhkwUuJVMyZvjVgaMjKbEwVOhqnxjziEMLl4FKliYG0q8nJj2SSr69tWGP1+uCIDp1dJLgfiVGm16o84kgyIBQwFwp8lYX3mCI7CWTtIow==
+u.nic.commbank.	172800	in	a	156.154.169.82
+u.nic.commbank.	172800	in	aaaa	2610:00a1:1071:0000:0000:0000:0001:0082
+v.nic.commbank.	172800	in	a	156.154.170.82
+v.nic.commbank.	172800	in	aaaa	2610:00a1:1072:0000:0000:0000:0001:0082
+w.nic.commbank.	172800	in	a	156.154.171.82
+www.commbank.	3600	in	ns	ns-1178.awsdns-19.org.
+www.commbank.	3600	in	ns	ns-1767.awsdns-28.co.uk.
+www.commbank.	3600	in	ns	ns-418.awsdns-52.com.
+www.commbank.	3600	in	ns	ns-726.awsdns-26.net.
+x.nic.commbank.	172800	in	a	156.154.172.82
+x.nic.commbank.	172800	in	aaaa	2610:00a1:1074:0000:0000:0000:0001:0082
+y.nic.commbank.	172800	in	a	156.154.173.82
+y.nic.commbank.	172800	in	aaaa	2610:00a1:1073:0000:0000:0000:0001:0082
+y.nic.commbank.	172800	in	aaaa	2610:00a1:1075:0000:0000:0000:0001:0082
+z.nic.commbank.	172800	in	a	156.154.174.82
+z.nic.commbank.	172800	in	aaaa	2610:00a1:1076:0000:0000:0000:0001:0082
+commbank.	900	in	soa	a.nic.commbank. admin.tldns.godaddy. 1756204622 1800 300 604800 1800
