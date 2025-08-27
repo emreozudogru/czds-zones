@@ -1,0 +1,31 @@
+nextdirect.	3600	in	soa	a0.nic.nextdirect. hostmaster.donuts.email. 1756257207 7200 900 1209600 3600
+a0.nic.nextdirect.	3600	in	a	65.22.112.63
+a0.nic.nextdirect.	3600	in	aaaa	2a01:8840:006e:0000:0000:0000:0000:0063
+a2.nic.nextdirect.	3600	in	a	65.22.115.63
+a2.nic.nextdirect.	3600	in	aaaa	2a01:8840:0071:0000:0000:0000:0000:0063
+b0.nic.nextdirect.	3600	in	a	65.22.113.63
+b0.nic.nextdirect.	3600	in	aaaa	2a01:8840:006f:0000:0000:0000:0000:0063
+c0.nic.nextdirect.	3600	in	a	65.22.114.63
+c0.nic.nextdirect.	3600	in	aaaa	2a01:8840:0070:0000:0000:0000:0000:0063
+com.nextdirect.	3600	in	ns	udns1.cscdns.net.
+com.nextdirect.	3600	in	ns	udns2.cscdns.uk.
+nextdirect.	3600	in	dnskey	256 3 8 AwEAAbBuyWg9RMwMTr79Rem9fdxbcHKm6VDuAt/8gQSsIvMkXvpwLvdyyrwZzIIKPh3LfxWzLDpJPDuRfGbP9u/CGqOsJPEPYrfPOJM0SB64xoiRya8nObBDK+dW+8q+DRhhuSMejrWzEk8i7W3UILpj4HJu7k9zY7/CCluzc2jDU1QMOxDkUJTVX/FtCscTx7UdHVXUdGGM+ELrIP8T/+IfjeM=
+nextdirect.	3600	in	dnskey	256 3 8 AwEAAd6dQPaKqU7kaBPkUTJ53UTcFGomMXt4/k89hobeGUY+dctMjXnGr3Ybl+QV1AZc4dG8JtGgk5VJRPg5s7BQ8y9i/EcEejNDZom2LdJ2ZjDRnrm3sRuIoQnfkDpxsto7rxBDgRh0g9KEILfYCKNSkm1glcUeioW2H+HA69UJlgpL
+nextdirect.	3600	in	dnskey	257 3 8 AQO1llHFAHVk26czmYR1uJv0T9DK75EdzjV6QElYb9r6HLkQxPt353EDF3HfSlC+YvFZXcGuG6x9qs9OHd/9JYpthGIGb9lE/6KTKay8USvGIPE5UTQEXl5oOxzxsJOI02HoJNZrLzzv8uf7R13RHkGe4/I5s1pGAEffO8HJcSUsJ3exIohVrmgZrjx1AL3CR4/Cmf5e8Bh0WiBf1y3vOd/qZuaDMzf+gUHuPttLZdyrfgRPfnK5ER47LyVTbA5T7CAV8Vb2WGlJzngKyecSE/dPWGxM964grrl+YPtn0KWRvn0F+LdXZWO3UcTvj+wRqN+UcOj8WuZGAXOiMM6VA5fJ
+nextdirect.	3600	in	dnskey	257 3 8 AwEAAZkzFvkqVP4MnbylIRNVbDjpWyPXj8re+TT94IIoEpLyBaM4mw3sjKH+m3WYrKEgXJUoXZuvnWd6wkkydpR/7vJ7eByW6LPHndVSaMfQCeMgzeEfvZ1MqFGsQMwURlkFushqNiLnfgku43pC5ZpUSYaV9706XpOLq5hDZyxnLSVO4SrjlUmvD2KFSsYGmMSaNMZZn6DF79ZrO+CuJ7sW14rlvQPWv28A+/LC++7WwjWkdZSAmX3//kU+9xewr6peCvAlj5SKPurEVgFMOy20EYKUCMZO3gfH1vGmQ37Dg4znjHmEwJnp4r8Nn7cnY4405MaNMED/6ZlrTRt6LgOrI8M=
+nextdirect.	3600	in	ns	a0.nic.nextdirect.
+nextdirect.	3600	in	ns	a2.nic.nextdirect.
+nextdirect.	3600	in	ns	b0.nic.nextdirect.
+nextdirect.	3600	in	ns	c0.nic.nextdirect.
+nextdirect.	3600	in	nsec3param	1 0 0 73
+nextdirect.	3600	in	rrsig	DNSKEY 8 1 3600 20250916155146 20250826145146 56221 nextdirect. eH5mcmd+V1qujrOGXvf1cXwRbiFpafPUJsXP5Cv7DbhiODrsIyIiLNGKTWYU2RbThA7yolyc7y8YHGB3pXkDDmq+e0Ho3bbn7EvWX4wARU5hMVckwsLCSUpDT6aJfwvFsOaX8f3uQvnUL/gFV1wivDMp1yWm9paR5Dhne/taXHWZsU+5+2AXnHrKq410ubI8ZjoWfa5cBeXRO83oQ/WTnpVAck3FLXapIzhuHBfoauVJ4J+U6GqJ+dGB/bRMURv5bA8vZ3RNtb2+oqKtlkuzX88qzuMJrZkWyECSXZzmdhwt+3rKDEWLTgoLBJIrvV4bRrHXVRVinVhc49GrB7SjYQ==
+nextdirect.	3600	in	rrsig	NS 8 1 3600 20250916155146 20250826145146 58491 nextdirect. LB96OwPgu4gwoHDfm9HWQnQTr0DV196JsdWtHTvZHntudSmIyAPWTz9ckxLyuddnFIBh3Z2nPWiJaSMKn/J6JevXeYY6ymF6XjNFz7i4ZnBnTUu3mBNLbU5vm0plHEY2iyGSNog+uWk/76QTWSX23ynn+uFY2bl6pQSa6xRc7i8=
+nextdirect.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916155146 20250826145146 58491 nextdirect. s9xjpAso5uMINNOo+me/4Aunl8g9bmPtPFCxs7wznPJVKwICWDY1xsE5ONK4WjRklTDrP6zYGRMhxf11SzzCIs8tsYrcZkgIsGeiKScG+2J2eagNLyJQryyryV2Mz/5yGsZq1Jf2xRm0cZoPLkTotCco71WAlrBRTZYNi/UlWzA=
+nextdirect.	3600	in	rrsig	SOA 8 1 3600 20250917011917 20250827001917 58491 nextdirect. pI5qx64UvCdQOBIHZ2JvrZ6uXRBhp+Fy9H9DNAW/53HOUebmk4kMz3+RDh0ADrh4JUQ3eHkR89+uhVjsoj5fZwMyV7GPgXMFjxDwNUwcT/RqIhHjv7wXjtKmxqaNBoG4Kpr1UYugrBGAxUdeVDvt3KDdVPVSQ+P9x+EEjsoRhPk=
+nic.nextdirect.	3600	in	ns	a0.nic.nextdirect.
+nic.nextdirect.	3600	in	ns	a2.nic.nextdirect.
+nic.nextdirect.	3600	in	ns	b0.nic.nextdirect.
+nic.nextdirect.	3600	in	ns	c0.nic.nextdirect.
+vrg886a9gb2spsn6mj3j6fqlutttq5ib.nextdirect.	3600	in	nsec3	1 1 0 73 VRG886A9GB2SPSN6MJ3J6FQLUTTTQ5IB NS SOA RRSIG DNSKEY NSEC3PARAM
+vrg886a9gb2spsn6mj3j6fqlutttq5ib.nextdirect.	3600	in	rrsig	NSEC3 8 2 3600 20250917011917 20250827001917 58491 nextdirect. 08FXRQx8W52DuRWFcZurWo5x4rmu8GIWDHTsO5ixwwU5PL5RYVB9N30dBHX63vAME1tavEjBw/sNIm+/kn/o6xBFc1VGdjBrf8vbdWCGL3iXK9kaDgMusI5/A8OMSilQlKf9/eMhYMjtTFaX3m7UT3JEBwdF8PJsy/uH2iZpcUY=
+nextdirect.	3600	in	soa	a0.nic.nextdirect. hostmaster.donuts.email. 1756257207 7200 900 1209600 3600
