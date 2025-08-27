@@ -1,0 +1,72 @@
+omega.	172800	in	soa	dns1.nic.omega. hostmaster.nominet.org.uk. 1729604568 900 300 2419200 3600
+dns1.nic.omega.	172800	in	a	213.248.219.140
+dns1.nic.omega.	172800	in	aaaa	2a01:0618:0403:0000:0000:0000:0000:0140
+dns2.nic.omega.	172800	in	a	103.49.83.140
+dns2.nic.omega.	172800	in	aaaa	2401:fd80:0403:0000:0000:0000:0000:0140
+dns3.nic.omega.	172800	in	a	213.248.223.140
+dns3.nic.omega.	172800	in	aaaa	2a01:0618:0407:0000:0000:0000:0000:0140
+dns4.nic.omega.	172800	in	a	43.230.51.140
+dns4.nic.omega.	172800	in	aaaa	2401:fd80:0407:0000:0000:0000:0000:0140
+dnsa.nic.omega.	172800	in	a	156.154.100.3
+dnsa.nic.omega.	172800	in	aaaa	2001:0502:ad09:0000:0000:0000:0000:0003
+dnsb.nic.omega.	172800	in	a	156.154.101.3
+dnsb.nic.omega.	172800	in	aaaa	2001:0502:2eda:0000:0000:0000:0000:0003
+dnsc.nic.omega.	172800	in	a	156.154.102.3
+dnsc.nic.omega.	172800	in	aaaa	2610:00a1:1009:0000:0000:0000:0000:0003
+dnsd.nic.omega.	172800	in	a	156.154.103.3
+dnsd.nic.omega.	172800	in	aaaa	2610:00a1:1010:0000:0000:0000:0000:0003
+monitor-nominet.omega.	172800	in	a	127.0.0.1
+monitor-nominet.omega.	172800	in	rrsig	A 8 2 172800 20250930035727 20250826032325 59596 omega. Bi7Z3RPP4ugp91mcFrsUz9ciBx2JP0mqdKNsZIMdQTtCWiT/xxR/09QesrDiOsgSeP34zrwIaVfHGr1eUUMstoR3XOdhiLvbaHPUju+9TamfLXAUxYv9oLY3fjy2DF+u0KXl9jCwAPkPIpxxeHfNNEXzg0wJLUrq5gRQ3enCgaMPj4oRYQCoeJGCCXFdc3E1vmdT54SbtQ64SpY+EO9jDeBiF0ZopsldteLTss+D7jPCP7QZ5XHArOTgEFkEyRc9ejl1x+AncHZPHtfd/Zu+AXZeeRokr46kwqLY9usLHzmScI/9YYRx4pgL3sSLOHm0jriEg1PtFXVAsQ+Nn4nwMQ==
+monitor-nominet.omega.	3600	in	nsec	nic.omega. A RRSIG NSEC
+monitor-nominet.omega.	3600	in	rrsig	NSEC 8 2 3600 20250930035727 20250826032325 59596 omega. jbl7DUv5rVN1Wmk5JW/FiW9ovz62kC1ao5VCkOpHsvUck86ZNUNbPk4xlUHvrTf+n1qb626gbOD51dRpXYIP4g0gUKc8m5nW8URS4GkhnwENXtSQeM6/XJlydvBpqEFeAPtykmW/Yf0wWRQeDSbupoB4cf9kqNyw9AMDlgyaT+fqBrFNCcjt261OIDCcJ6JXa1ChJOKST5E0wSz4ELhz26MZ6kHbXTM9I70YR9CMtZEYlSx+uXVeK7e1GZ6G8XfwdGPDEZ0Fd+X0vbmnZUjP3J/x2SHNdqruL0OSHEnrMmN1BZXrk+cgTouWGGk3MkjCepvc1HQZNU1AbXwpFqI/AA==
+nic.omega.	172800	in	ds	51311 8 2 790B674319B4D2DB9975F7FF226BE9B86D741B69BE62EC81D8DEB6710FD776C3
+nic.omega.	172800	in	ns	dns1.nic.omega.
+nic.omega.	172800	in	ns	dns2.nic.omega.
+nic.omega.	172800	in	ns	dns3.nic.omega.
+nic.omega.	172800	in	ns	dns4.nic.omega.
+nic.omega.	172800	in	ns	dnsa.nic.omega.
+nic.omega.	172800	in	ns	dnsb.nic.omega.
+nic.omega.	172800	in	ns	dnsc.nic.omega.
+nic.omega.	172800	in	ns	dnsd.nic.omega.
+nic.omega.	172800	in	rrsig	DS 8 2 172800 20250930035727 20250826032325 59596 omega. haq9WRhvWUJPww6T8E4x2fPAiEJucFZavLC6PWpTfFw08g1YyYFrWfwzxmE9pJRU7oYKcE7oO7s+F4oDlpvu1bKPH+5zdskPdyQdJdyhsR5BUsWt/CINS2qkJgrVxncYYGqO5fvu1Izr9ze6dnCdcvkH3HJYd+zAlezfNc49TRmjsTYavzq3ZY7GdJBv6EZqzi7e6ThAbVzaBSu1V7tSbhbwpzEKWhuccdmc9Zj79V1htvA4GUaV47a8ksF/U90pIpJ5xxubv+IvEmOnWwJGQWrxBFjmGBOZbUZSm6n/90WH3rEb6XG9moCgC6/FfDnI1kWYIZHenZ1O40QVb+pE0Q==
+nic.omega.	3600	in	nsec	terra.omega. NS DS RRSIG NSEC
+nic.omega.	3600	in	rrsig	NSEC 8 2 3600 20250930035727 20250826032325 59596 omega. P8FgX5VVWmYaRtVH3LqIb1hsG5jnmM7AFmJ+5EAOz2mJ8tTKDd8HfMnmi4GXrSpqLSs/oN0D3oDXV5IFHIOUTY24DmPPS8dY6fohwjKDW9qmLRePXKLzUL7UzzSC2rBP7ikM9MX8o51ybzg28zaCJSzLinBZGewnndHQ4eN3+lxEzLWI6bwfnBQF7eALG8rNORI3gxzA7S/1BggfaVd6echJKOZiIeMth4XbKPaDHBNE+3rkDb5DMhFq8O/elEDKNX5ERXyOIF1MgNBeOHQMBniLttbexFqU+rxKXfQhFNyuOPxpKSFwEubROa1SQH8HY5COQ+4hbbMgN7zYlm7mNw==
+omega.	0	in	rrsig	TYPE65534 8 1 0 20250928050207 20250824044634 59596 omega. XZMtYB+wJ29iiDMMjtXpPId0Ozt+2b91qaAUoKMPSuNGWa2byTb6JchIWJUPhpBNCt15XNlwUQPjJl1HKrBKOhXqd3tfKs/oVPG2hD5kqGEdqPUuVnLElVnY1c49myOzpc37RrP5rgJrrswjSb6I1i5MzsOv9JN2KVL68zbub+1PusuRBUV7DmFLlZYyRGddMUlkFJ1obG1vN/E2YGvk3NaGj/W0bdxQLESzVnFez56gOArs8IuA/ruYL1WpYdiii22AiP+wLxfD+SCPwnxP675YtJzmbJguXmFwnDolaMHX5RK143i4AUFl+5h35a4pq2HN4P6ZqeRzcCAGDhjHOA==
+omega.	0	in	type65534	\# 5 08BF9F0001
+omega.	0	in	type65534	\# 5 08E8CC0001
+omega.	172800	in	ns	dns1.nic.omega.
+omega.	172800	in	ns	dns2.nic.omega.
+omega.	172800	in	ns	dns3.nic.omega.
+omega.	172800	in	ns	dns4.nic.omega.
+omega.	172800	in	ns	dnsa.nic.omega.
+omega.	172800	in	ns	dnsb.nic.omega.
+omega.	172800	in	ns	dnsc.nic.omega.
+omega.	172800	in	ns	dnsd.nic.omega.
+omega.	172800	in	rrsig	NS 8 1 172800 20250925081418 20250821073458 59596 omega. ki8jNoXcgixxo2J7zJxJ2soBboBzF8PylVnIPnyQY/46/m7+E2gHM4SQ2EOAODNQiLBIX7fxpI5t1rmjos0Bcia5QAWr+yZALyHxYGlQ5GVZh7Iik+fOUpY+N0TD0+HQZKsA8NZBNCTO06onX48IEqg20eCYGsv+lLM6uGK4vIBxpCVXJVqXzVIr9uhLsTHNIOrBbXWORPerNJCuQ9CSn8C785Y7024ge61jNQNkQYF0RmMDtiE638sJTWv+aD9BwBs6vD/Pu+knI7TbB43zCdmlRb+hb+jMwuIOtOPMAfQ1lNfjHVpq1D5JdfJeNFPZDF77pu78Cs3uhB6o0LBp1A==
+omega.	172800	in	rrsig	SOA 8 1 172800 20250930042325 20250826032325 59596 omega. WmwJgbqFYtfdJxmPdzdOnwIGxc877LAvdrCj6jHsT3RegadIIeRRhfPqa6M12rTjCIV1DRGkCnu/tlMi12NYsIkkkKY3/xx3sh/YQ/NVlxTggKFqkbfGdnVyB+78RUicmNVScovsm/Qvhn8QVg/tOxky9hMqDxsQGMylZxQFLJA33rjUmSAfTPjhaZ+jT8iNwFjgw3WUPORyISAReqIWVpOSOrLyaczXuJmaXKsFXz/MEpQasDXNY8myoRqsUXkJdDu0hO27YrQ4STrcqyGZj4bgWVHv/21jq/VWdqkws2MDrB3SMkNl/mzzDPbjGKqImmG4a618OndlSqXCaeqxrw==
+omega.	3600	in	nsec	monitor-nominet.omega. NS SOA RRSIG NSEC DNSKEY TYPE65534
+omega.	3600	in	rrsig	NSEC 8 1 3600 20250930035727 20250826032325 59596 omega. NGI+NRt6EADnIHi3Z6/7Kt98qsCHPIhI8R4r1YswQAsY5xpqLsxQOyi40w46FgwPpjhiXIEvKCnn3jUSaMCDUnq2hhZTXHr3p1jTJOwXe++7wtc4tQuJINMdG7HxUtlYL2JWEx2Zyp03hx9YfVzpLbEXwgJfguq9qn1UKyNL79X0Sp/373lgTcX6yP4I3eUSG1GHX+jdutbJ6X5mUj8XQMZOcJoLjl9k21i5I5gEU+Hn+el3dLHrrY53D507ROkZuV1RrdzSkz0Z/tOsZoVrZiVIDsviGYoIgxj6NGUSjbh7j3Kk6aArdwYBUYlz+z7srB2d3JVhSyevnpjx24hL2Q==
+omega.	7200	in	dnskey	256 3 8 AwEAAZ0TEy75Q7vxqWYI0jcNlmLR8A0lhGxZ56/wknoDmgqC3Uxzi+9d3KtS25Uc9fqaSx5t4ihu8NUZA15Ic+c38WJHSXudsCb61CfY9mup3xyHEoXbaN9r0Td5W60aUrYYItYyePuMUbiCYNLZ3oHgjoEAiKhX+Gm10BohcSwGvZkew0pWQuOoRv3Bxa2TwA2zfrFJHX1JJjRd5rJsThWPK+KiLUr6BEmzZ6h8b+WDgiIgFxuxvzFIXGLn/+ze5dFEevuMq002TBjkNZ6fBmUPc5FhIkhwY3Mb/1a4cpnZTBUtay6DX/TTNKD6KvN1vnIbDvmbb63J/eSHySelGIgF2v8=
+omega.	7200	in	dnskey	256 3 8 AwEAAd8BQIWJtdaXwhzi0aHWW2rMZGaVL5lqSHm7GgVdL+Ki2xCksi2HvY9oo4SqJxJTMoMNVe0OPpOQlF8txTyXvqb6m+fuioBfdJvcmxxPA4XLmtVkwbxOG58EY9mOTPK5tXOpvqUi71pAnViyV/yOuzEZ0m/NpcT8uZ5jPT1YQ1tUw4+VS+GAv+u5sJCEqGefvJdlHwZmFfiktQ+MPmwYAk8=
+omega.	7200	in	dnskey	257 3 8 AQPZNfKRNJ4dJ6kOs0lbT2KQt1tyA4wh3uF+UKQRp+u6A8wMJ4fCYhRoPiFpE/ntwIAtUamoqeTfEkWYxUaDu6wi6EUeC+zPDVM0OZ3li5hIUmGCpXAPtYc2NZ9EAeCzS4je6mnfWA/rtBTF3vquVWRvIMO0GYs2mBm4gYlIRGW33KgJalzpLTcGcBp2R8MHcIbr3WGKy67j9u+iYgZblSstZ2PdY44j9YcYRkHHjVkdyR1vz9UEhhaBpd9BaplN6j4B1AU5VhWO42ntmpyNX45ka7YFyQJ9GuKYc/e3z8an2/4ncSvUGIxgL/0gNeFWI5yXD2M6TI80NsIlltG0Ro3n
+omega.	7200	in	dnskey	257 3 8 AwEAAbHFwXBbOP0RtO5+ai/cr2hy3YAmIY7j4P8dGfdtSeePA5Hhx7U2xxxDbrvcusCiRh/u6KiGekEP3beVCWgXCD+i8Ww4gT0Xd1qPEVVcj9Y0Zuk7VrF26fGgzg+7ywui+GaVb7NB58vKeyU+9lZhaynQlBg4eioxt9pNGrVg1d9V97YAvXeSyFavwjlIYRjCzHjlCs3qTvVIK4y0PbJgwTdfZK3Z2e6DcmYndeG5hoAixAQOdxjcr9qTcdlxGEPkbUpmP1DDE6NVtCwbd3ENzZpfPRB0YidFA6eEW3EXq6oiN51+xXgyyB3BZkBe/sF8JCYYy4eKdsVUMifR+56AhBU=
+omega.	7200	in	rrsig	DNSKEY 8 1 7200 20250929131124 20250825123019 49055 omega. oD/6uGwvXCltvXahpKTtoaoCWM7LP4Gz0D4MvEniv2KAFbv0IrOv0AnqdrjAqSdriaKGrQcM10HXSJWZnFZe8hfbk0EGirjuap0UdlBucaZaeqeJxP6ZRQH2RyXTenYRgKCEj+F4mwciANfi1lHY+Qq+yHjEv/qamrSdrRUSnWURm/WfPT3FhCOEJEd/TCAiE+D1ajvfb+193JgHd5+lFnshdKvHa9qdEgucvGAgeXG/voesJC+f57ak69O1jUF5Ej72vyQ4TlZeGPe9tD3LnQxE+QLUK9rvZvW/A/7hAOUapWfIiTGqZ+YSf7q/Ure7XZJ3r2l9SOXBFsaenKBszA==
+terra.omega.	172800	in	ns	ns1-01.azure-dns.com.
+terra.omega.	172800	in	ns	ns2-01.azure-dns.net.
+terra.omega.	172800	in	ns	ns3-01.azure-dns.org.
+terra.omega.	172800	in	ns	ns4-01.azure-dns.info.
+terra.omega.	86400	in	nsec	wiki.omega. NS RRSIG NSEC
+terra.omega.	86400	in	rrsig	NSEC 8 2 86400 20250928050207 20250824044634 59596 omega. T8ygfHFB52p+BNBSzf8JXiciEFEV2WNSy9bG+Dz1K7NnhI7tl+6J9E5y69Lu9c64nvLer4xbMJE8SObtFluZwniisvcAhYUGdGQv77FIrGk6SgDUig0ldH7WRHMO8EAy5AE+MTtei5dwLXdIXdxducNK0nns24dchNjl1CQNvCz9jHDs55vSCyxI37r0nnKpiPHptKmRxD18b/BgyI9J5GinWB+qqju3uO6roVSXSlmdAHNf6UI64koZI44dTDnwnQVnWxuUm32YDEOmxj4QxBarWbbixwpzHAT1RB6hhlBNEpdaZIg3YLOKQVCNqsDhU/yGwbENxLv4KecrCYV7RA==
+wiki.omega.	172800	in	ns	ns1-35.azure-dns.com.
+wiki.omega.	172800	in	ns	ns2-35.azure-dns.net.
+wiki.omega.	172800	in	ns	ns3-35.azure-dns.org.
+wiki.omega.	172800	in	ns	ns4-35.azure-dns.info.
+wiki.omega.	86400	in	nsec	www.omega. NS RRSIG NSEC
+wiki.omega.	86400	in	rrsig	NSEC 8 2 86400 20250928050207 20250824044634 59596 omega. MoFxxNDI8kUtfJteNfx00XyUKJZTYigBOmpMCfZFfAYxICTx1nBsRw5jpY+fhVbXFKrS0o8wONVlXh69N2uVqNLYaZ2tdtv+ytUWzzypBfECVSoXvN+03WHZwQhwo8WtdrunyA1lzYcKzkMq0JsDWfrwg/MnEPtLHdKWqdats3hjq6EUhiF/CClYcHDesKtSUWADXcETNY3Jb/8cAcIrDPj1d2CVsSK8KKqZI8NpJSkO5ip0SFfD7Yzm/++xGi28tIO/mwOPN0BtrfWYCv0TfIWOeVFRcKxdpAm5snrZgXMrXPt1v0DStF5IxFt0nv82AGaX3AhvHlf05LnXR3ybCQ==
+www.omega.	172800	in	ns	ns1-05.azure-dns.com.
+www.omega.	172800	in	ns	ns2-05.azure-dns.net.
+www.omega.	172800	in	ns	ns3-05.azure-dns.org.
+www.omega.	172800	in	ns	ns4-05.azure-dns.info.
+www.omega.	86400	in	nsec	omega. NS RRSIG NSEC
+www.omega.	86400	in	rrsig	NSEC 8 2 86400 20250928050207 20250824044634 59596 omega. TdGaCQ8ugcEaN+RgOELUNsFjyy5tg8zoPtp9WyZkXxTSu/46Y7aG7xqQtz9XnBfcAvyenQqTRWb1PYb9UYZcjQ+WlUGJDTj8TK+/TWiKWlXPeIgPrDM4GE98mcuufMWj0PpJg/vsPuhu1Kenh98F8jvtFauw6EsgyFdIzKQjFZccB6JBqJvXnYjUaMjwbp82JhHWGEneq/aIQE2HBkiJQXCdRTt/47MnZuWWPlCg/hn2dmfDpKp5AxeCrBhnYzIn+vBmqjMc3rBlkt7zLsiXx0tzMh/VkGT522MuMFMNjByuoIEE/6azyxAzpAKMvGdA/bh6/+wP9PL8AaO/lhaVUg==
+omega.	172800	in	soa	dns1.nic.omega. hostmaster.nominet.org.uk. 1729604568 900 300 2419200 3600
