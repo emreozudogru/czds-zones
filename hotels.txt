@@ -1,0 +1,59 @@
+hotels.	900	in	soa	ns1.dns.nic.hotels. admin.tldns.godaddy. 1756193883 1800 300 604800 1800
+_forcedupdate.hotels.	300	in	rrsig	TXT 8 2 300 20250904151500 20250826063803 300 hotels. Vu8dasDIX+mPd4jrvjZVruy6dBXqvybKH+URVFI10enq3YMEjr0FDongcjVhHjWCc9zt42W/aDLF+ScyJ3nIzmQWN9NcyN8N7XBLzu9FeYXANPd1A4pVFHLNP3aE3GIDFLZiBSnu0AxyF/PBlUR4rJsmW4EC+Wh0qRgsYES5IHe5Igefisy+seQhIrO6X6tmHp7eVzRDd1Zm4C3UtXJv/g==
+_forcedupdate.hotels.	300	in	txt	"1756193883"
+a.nic.hotels.	3600	in	a	37.209.192.10
+a.nic.hotels.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0010
+b.nic.hotels.	3600	in	a	37.209.194.10
+b.nic.hotels.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0010
+c.nic.hotels.	3600	in	a	37.209.196.10
+c.nic.hotels.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0010
+d.nic.hotels.	3600	in	a	37.209.198.10
+d.nic.hotels.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0010
+e3p0ad74kq7dfpdt299b9q9kesaqri1i.hotels.	900	in	nsec3	1 1 0 - MQITRMCLGKFMJMG7UQMEB7SQDJ48CD1C NS DS RRSIG
+e3p0ad74kq7dfpdt299b9q9kesaqri1i.hotels.	900	in	rrsig	NSEC3 8 2 900 20250905154643 20250822152147 300 hotels. mAbXNdevqFmep5zd0a3sQ1AOPOB4rinNaVZgLAGgd1Mi61kO7cgBo9GkPZNqWJ06skKK07oHFknI4suHltbAD848E+3SCdcyOB/Vs7QHCBskWfhQCox2HPNvxZgnrAbqpqoTo/pRWyaKpvIbP7kp/Mmi0FnGMYyin8jPfoVVQ3fNtiDp2w+GCCKXSFHqOlQKV6mdpAZXNQ4LRNfTIjvQrg==
+hotels.	0	in	nsec3param	1 0 0 -
+hotels.	0	in	rrsig	NSEC3PARAM 8 1 0 20250905154643 20250822152147 300 hotels. oW0GRw6EAJLsDpwQ9Oh7hvWCCT7jG8KPOJCDZQrqcM0BIkrSNPSLpX4iNJihVCbbJmN7nVDQQRLlhjHaLGqOHfxok6M95Xg9vDLws2364Yhle4mqu50c6JMMPbWRQo2NflEQYpU1u7fcqVJBlz9LXM90MKHY2JBdx7yZPzKPWw0r73IbaC1z+5SP86T+EdSbz+XB5VKkec3OY3BSyphs6Q==
+hotels.	3600	in	cdnskey	257 3 8 AwEAAczSHJo+vKIp3qoPOj+9sfbugjlMpJf38m98sSJdGihmDeiW8AlquQBHzrQ4ufzKz3aNgE3NgwWXtG7nZtpcR21qLTpVPPMzbSNh089YlJ7YG1wttF4f/N3AFBRxItp8CY0o7mCx+BgCYevnH9pC2otFIj5sg7ceQ2I1G5V8j5wxVbXmtQJTDhjW6vZq12uDVErFPLBVodDbdL4iUETswb+w0f4zJG8CJHgn07ab0/WxYtRu29rBr43M2OL/BFDCdufugu2RoVAfGuvtWblf7NWanqePSH4XrJmpRvJeDNX/PmUgOWSaYO5y20GVRGszna/0ZvxzX+G48aQ20MkufdE=
+hotels.	3600	in	cds	51700 8 2 844A568CAAB77E76130C1551AC820B3A41A3C39F6419BA2411F9E3D3A581765E
+hotels.	3600	in	rrsig	CDNSKEY 8 1 3600 20250904075828 20250821074738 51700 hotels. hqoqlseiCtyWwmcJ3XY82JoARcckpz6WhrSEBDGQBs89d4vRPTcdqMotk8AEB0nTCwwCmNDQdOSrIZ1YyS7muYNWMyx3qKosYqJea5QUmIaYrK5J6kUrfPpcmAKFEwHg6GoWT0bK2IHogVJAEbNA60dV+5qyye6gsB2xBqoqrOkcmDOrxdLc/i9wxnsR4M31AjAA3Qyj1OoX4bpLNLLdqe5gJ7D1Q8y7j2gmENcQRu/LNiU8h9Jxy1iKi4POyXc8USJEXBCu7QRhr2W5+Hu3seqAtTS9vwC+mBpbsVaXn+svgE/V3x1q4010MId83XZNkPebjsYoeer4c2dxfhtEnw==
+hotels.	3600	in	rrsig	CDS 8 1 3600 20250904075828 20250821074738 51700 hotels. edp0ALXgM4VGDVzNvtT3zd0EyGOzETgOGiUwtYUCybvU+L5F2UEgUfJ3LtgMBVITd/0xUBANWqS+gx/r05e8KKyanZwEHpFhiAc0qA/DvFjYgjip4Zk57Pmzkkk2rAAwkwmCMo5f8X5yFrycHeYX68daYlGu5Wrsp9YjhVnHkehbhlK1y7Q0RZZom8AuyR0N0JAEIxzQwzkKuRaNYmfj2lJzhroC21trXCHO6keHIBIPOeXH08ggx6ZEMdL/UQLrc0YnLZsOx6OVUplVM//m5euXEUDMPEcB8jqJvkGq3bSfy6C9X4/IV3BhbbAB0T9S05FEYN3cLrsI0R3PARietQ==
+hotels.	7200	in	dnskey	256 3 8 AwEAAe7RYM9pulbBn9PzQ7bVEiyGwNo7OMabwkHI3DGpDnPtImHLySZTqZHcjylPkXFq9E2A37LzRhie6stpFQ6/z87bf80w2NSGeQg2rdyuD5k/iEXfLdBnbuC+nDu2dBXln99C6msI76CgjslYKZl3jLA2WPYhQkoDA/3Ew01JiRaFyFVeOgInx5kmlxk58aSKGF4kRaZMPAWHi4I8adiYnDs=
+hotels.	7200	in	dnskey	257 3 8 AwEAAczSHJo+vKIp3qoPOj+9sfbugjlMpJf38m98sSJdGihmDeiW8AlquQBHzrQ4ufzKz3aNgE3NgwWXtG7nZtpcR21qLTpVPPMzbSNh089YlJ7YG1wttF4f/N3AFBRxItp8CY0o7mCx+BgCYevnH9pC2otFIj5sg7ceQ2I1G5V8j5wxVbXmtQJTDhjW6vZq12uDVErFPLBVodDbdL4iUETswb+w0f4zJG8CJHgn07ab0/WxYtRu29rBr43M2OL/BFDCdufugu2RoVAfGuvtWblf7NWanqePSH4XrJmpRvJeDNX/PmUgOWSaYO5y20GVRGszna/0ZvxzX+G48aQ20MkufdE=
+hotels.	7200	in	rrsig	DNSKEY 8 1 7200 20250904075828 20250821074738 51700 hotels. sTWOeL7oDUkG7WkExbDN2PcDbC0mZSHlsmYrSOPHcBGigOqSrxFbjohpT5pyHtWWjkY16ZyH7jxxceMEIHKb/MA1T2bw14cBjQzIVw6PhzH8M0gAKLkxPY/06TlB083ppnbxJHCzqcrjVwfc/ET3QCpvhR7nT4x+hz7s5+HyQjSnrXBmCiZAXk4xc1XyaREOQ5P7aF5YsluI1sJnRzHrPXVjtx3q96I91O4wHyN76x4MDhVkbfni2B6+MAWlVIo9/D8MSkK7kxxX84tNTlF/g0lv797qihHXmw60yupu11L9+5pd8cYGF0Ea2BEYJzmsjRhsM0c0YeK1cGk51P5CxQ==
+hotels.	86400	in	ns	a.nic.hotels.
+hotels.	86400	in	ns	b.nic.hotels.
+hotels.	86400	in	ns	c.nic.hotels.
+hotels.	86400	in	ns	ns1.dns.nic.hotels.
+hotels.	86400	in	ns	ns2.dns.nic.hotels.
+hotels.	86400	in	ns	ns3.dns.nic.hotels.
+hotels.	86400	in	rrsig	NS 8 1 86400 20250906040916 20250823035937 300 hotels. jbFrr07Zr6k7HOCC6WvFtshEJ14QcHTckN3Vt2lwdfVHPpM6O/yvIQqTZ9OyCXI/fU2eu9GKYhJRapVEFgoDCq6IC/pzJIpABRzxdSZqyPlKsF8Rx4MpCSHLxm6F/kChu/ZHL4o1OT9AFIMjVw7zbVSd1974nJx+e8aTRkL1J5pix0DcPaIXWrgbO/PDtn8sehXnJdaUYV668V9SI8RP8A==
+hotels.	900	in	rrsig	SOA 8 1 900 20250909073803 20250826063803 300 hotels. UqaWn1owfmXhv/oK3cQMEGydgKxrdG7i+HWw4PJXAYyGz1csouMqg7tkmJHMG92+vvNeR1up+JoDRwnv4askX9+Y3OWv0CqWUqp92wKieHHXl4FftAYwHUIQzMh7MLwG3zA3/I8h28WbY60smsOfnVN1pq1wGLsRd0JpVxw89LvPunOM+U4PnVXuOYlURM5MF0li4BTiozorRfiU+KDY6Q==
+m.nic.hotels.	86400	in	a	204.74.104.90
+m.nic.hotels.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+mqitrmclgkfmjmg7uqmeb7sqdj48cd1c.hotels.	900	in	nsec3	1 1 0 - V9D6U94PL369BKTNOABVO50S70EVPM6B NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+mqitrmclgkfmjmg7uqmeb7sqdj48cd1c.hotels.	900	in	rrsig	NSEC3 8 2 900 20250904075828 20250821074738 300 hotels. gVclF2g7+fha0Pihr7xjGSeiuJ2LrNK+T2wWZb/ilZWyUz2/IhioDpU3DKO/hQxUHQ10Of8Ntz4mFNjebgk0gxX9RQQNk7S/ydFt7zwrVM3yvKCw7SWdHvascmmN8FLovaihdtBCR+d7PBZ5CULwD3TV27C8+pSL7ztDOHhVHiS1Kdqm+cp/HO1usGN44d7Q406FpqGm+slGC8FFi2uf0g==
+n.nic.hotels.	86400	in	a	204.74.106.90
+n.nic.hotels.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+nic.hotels.	3600	in	ds	982 8 2 21CCC620B9192BAE1E46FA4D095D833D6B19DC4F54FD5B5552E597EF9B6C19C6
+nic.hotels.	3600	in	rrsig	DS 8 2 3600 20250906040916 20250823035937 300 hotels. jel4g0HGiKxyciZrdpbeqgCOuMButzal6PpwKKh4CTXIc59pBRcZcDASv08lTiZw4jlSWx7kJh+B3FBwbRr1NG2yQTDzTYk51655TzCFxg1b3pxqDuTjKEVe8LCmkWD0GRXuDknx563huKx6Tq8+NYlDlHnkFxuhf4o9elZHkV7pMw76ScwOq6G+5EDldp3gWbxMmOHJ/eQPIMCUSGTNsg==
+nic.hotels.	7200	in	ns	ns1.dns.nic.hotels.
+nic.hotels.	7200	in	ns	ns2.dns.nic.hotels.
+nic.hotels.	7200	in	ns	ns3.dns.nic.hotels.
+nic.hotels.	7200	in	ns	ns4.dns.nic.hotels.
+nic.hotels.	7200	in	ns	ns5.dns.nic.hotels.
+nic.hotels.	7200	in	ns	ns6.dns.nic.hotels.
+ns1.dns.nic.hotels.	7200	in	a	156.154.169.3
+ns1.dns.nic.hotels.	7200	in	aaaa	2610:00a1:1071:0000:0000:0000:0001:0003
+ns2.dns.nic.hotels.	7200	in	a	156.154.170.3
+ns2.dns.nic.hotels.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0001:0003
+ns3.dns.nic.hotels.	7200	in	a	156.154.171.3
+ns3.dns.nic.hotels.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0001:0003
+ns4.dns.nic.hotels.	7200	in	a	156.154.172.3
+ns4.dns.nic.hotels.	7200	in	aaaa	2610:00a1:1074:0000:0000:0000:0001:0003
+ns5.dns.nic.hotels.	7200	in	a	156.154.173.3
+ns5.dns.nic.hotels.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0001:0003
+ns6.dns.nic.hotels.	7200	in	a	156.154.174.3
+ns6.dns.nic.hotels.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0001:0003
+v9d6u94pl369bktnoabvo50s70evpm6b.hotels.	900	in	nsec3	1 1 0 - E3P0AD74KQ7DFPDT299B9Q9KESAQRI1I TXT RRSIG
+v9d6u94pl369bktnoabvo50s70evpm6b.hotels.	900	in	rrsig	NSEC3 8 2 900 20250905154643 20250822152147 300 hotels. m9mOt/ZiuIasSAWYgCffn4VI1FO6UvlY0njVNih2zhha2ypSp9HyuUck5mVEmPRsk1HSxJg9/SSBEtHfL9lTjVJhM8TXw6g7jYDLdn4OM5DZyifoOclYKwGRUSgmAGKGveDCov80tH7kwXTSM6XnlbFo3s+nR5vDNFZy3V2mPkgpDT72EPtDsSXna46NGtLuXmh3IiPmuJMwuCXT2RA5Pg==
+hotels.	900	in	soa	ns1.dns.nic.hotels. admin.tldns.godaddy. 1756193883 1800 300 604800 1800
