@@ -1,0 +1,83 @@
+ieee.	172800	in	soa	dns1.nic.ieee. hostmaster.nominet.org.uk. 2021101639 900 300 2419200 3600
+developer.ieee.	172800	in	ns	nsgbr.comlaude.co.uk.
+developer.ieee.	172800	in	ns	nssui.comlaude.ch.
+developer.ieee.	172800	in	ns	nsusa.comlaude.net.
+developer.ieee.	3600	in	nsec	domains.ieee. NS RRSIG NSEC
+developer.ieee.	3600	in	rrsig	NSEC 8 2 3600 20250928184733 20250824180841 5344 ieee. lFsxgwsY75Z9kH2f9eeKMuX1w/inyDZEsivuPzAbss5/GsQNm3isqljGKHpFW9fbifT+Ll22luuwgYekoxMnHIdV+rAzvk/2IHWz1hn0bDg0XPrnLhbvRiIgPPBjdPLezq9qa6ng74ZTeTuoIGztOcu2YqeE7/c+NR3zZQhf7J258JTceQRC3FmBkH1P0OkwXJhIUzt0Ha0zk9Bc2OhBQxOAJoClwmpLCmI0nblBEKhrrDO45emhCThhkqpmJCRu1l0e59vTF+5mJxTZKJYqOckZZTdGZZs3wiF+HRqAxuR59OLtKtB7mhuwjV+rERMRLsRt2T6a0GCgrMAbvEbdTQ==
+dns1.nic.ieee.	172800	in	a	213.248.219.125
+dns1.nic.ieee.	172800	in	aaaa	2a01:0618:0403:0000:0000:0000:0000:0125
+dns2.nic.ieee.	172800	in	a	103.49.83.125
+dns2.nic.ieee.	172800	in	aaaa	2401:fd80:0403:0000:0000:0000:0000:0125
+dns3.nic.ieee.	172800	in	a	213.248.223.125
+dns3.nic.ieee.	172800	in	aaaa	2a01:0618:0407:0000:0000:0000:0000:0125
+dns4.nic.ieee.	172800	in	a	43.230.51.125
+dns4.nic.ieee.	172800	in	aaaa	2401:fd80:0407:0000:0000:0000:0000:0125
+dnsa.nic.ieee.	172800	in	a	156.154.100.3
+dnsa.nic.ieee.	172800	in	aaaa	2001:0502:ad09:0000:0000:0000:0000:0003
+dnsb.nic.ieee.	172800	in	a	156.154.101.3
+dnsb.nic.ieee.	172800	in	aaaa	2001:0502:2eda:0000:0000:0000:0000:0003
+dnsc.nic.ieee.	172800	in	a	156.154.102.3
+dnsc.nic.ieee.	172800	in	aaaa	2610:00a1:1009:0000:0000:0000:0000:0003
+dnsd.nic.ieee.	172800	in	a	156.154.103.3
+dnsd.nic.ieee.	172800	in	aaaa	2610:00a1:1010:0000:0000:0000:0000:0003
+domains.ieee.	172800	in	ns	nsgbr.comlaude.co.uk.
+domains.ieee.	172800	in	ns	nssui.comlaude.ch.
+domains.ieee.	172800	in	ns	nsusa.comlaude.net.
+domains.ieee.	3600	in	nsec	monitor-nominet.ieee. NS RRSIG NSEC
+domains.ieee.	3600	in	rrsig	NSEC 8 2 3600 20250928184733 20250824180841 5344 ieee. ZIeIHcSzjdxCDy6yIabf18C/C8AIm3qzWlV37a2DTzcp6q48t47HnO3qMHe93M2Al8MZgbFJvPOe6vCEjrUJAMCdzIQ1EanBNWPUxTPAw/kkHli1e2/yS0sst22g5PWCoJyoxievxnSeAH4ElSX7J0KCO4cUcoB66uGnmf7Legspn9lbPjwqKrK8Y/B6i0HBt+igslrOa/+tBmOVjG6R35qO39xfTRZWzzXxYW46KOqHC3KN4oaD1JFAbeGczPas4putudJFK00ucUagBUvDMHwG8qa9YmpKfliJbiJGVNwt9gyQ4R8Z8GwJ91OP5ikJSxNl0kDbZaRigdVQRi+hKg==
+ieee.	0	in	rrsig	TYPE65534 8 1 0 20250924141903 20250820133030 5344 ieee. IMlvp35BQ97g8Wm8J4qUdBt2+j+rnPGkn3aU9OmMlJv6NS3e2cFcTAtBbS1rA8AVYThlyura/j5qy7ZV6abLNa6b0fPq2vfKkit2/Qd8u0NwFNtticbM8NTrpD51PH2TdHKW2zQid4BDuYErLxRuqzruw9gBdPkMVYgdVKIAhfV9j3vk3WzUzHuqKDsxruTzNT1tE7R6VDeviVL8Sj8ksqGrZ/QM5AtC2dBX74V8WEcf/U6tHprWs7aFwuN2rBD7RxYvCBtVuBQUhU0USgjGN29YDsCAyP2H1Q3AwTfExyzGCIahiESzBmcDohv3HhBVz50G4rw8BE8QScrSw4uC2g==
+ieee.	0	in	type65534	\# 5 0814E00001
+ieee.	0	in	type65534	\# 5 08411B0001
+ieee.	0	in	type65534	\# 5 089B140001
+ieee.	0	in	type65534	\# 5 08C25E0001
+ieee.	172800	in	ns	dns1.nic.ieee.
+ieee.	172800	in	ns	dns2.nic.ieee.
+ieee.	172800	in	ns	dns3.nic.ieee.
+ieee.	172800	in	ns	dns4.nic.ieee.
+ieee.	172800	in	ns	dnsa.nic.ieee.
+ieee.	172800	in	ns	dnsb.nic.ieee.
+ieee.	172800	in	ns	dnsc.nic.ieee.
+ieee.	172800	in	ns	dnsd.nic.ieee.
+ieee.	172800	in	rrsig	NS 8 1 172800 20250928184733 20250824180841 5344 ieee. DsKikinktoxelp2jUQiEMRTu4GUsVGtesKt7J02MeakCK8o4eaVKcN7nHh/xCiHqEFGryfOGN4Xaghs+GaAysR73tmdqsKmOJPHi3HgaSS131PEr84tuoCCP3gYIsYeNpf7JYnXePRqQDMUyYumQwd+aZJx0UKoexs6K7TvDgct1pSmNHwrX0JxbWuLQzhjTjrBYosocpeHO6mBqDBF4Ax337uOCpoDEuX/6JTXU23NXJYfHXz8sfpJcOhBjR1OGXmZsB9VFQspfWJUKfiEIYBP1XQl5bppe4ibesHvT0eS0ysfbvJqHLPSljIvRBVT6VAXpmpoxoD9TXvVZhGXFKg==
+ieee.	172800	in	rrsig	SOA 8 1 172800 20250930060535 20250826050535 5344 ieee. YjzJi0ZS76tpgbCSZx6kPg67tXW6gRfj6Girz7lctIJLmgnvJcCpU/ZP1TCDrM/AiG3k7ZsBPdgt8GLiXsz/uUs4MHRkfu2unz3W9h6ViSfH/ENsDx9i/1nIBXX2ZTQ5E6xVeIoOy+DwG73I+QFFqxODzsDg3kzpfpEWIl5CA8YWG6m9NKn4h7rlVvY3Fw+fG6PybUh18HsgMOiuSKhmpjo+noMeJpCKAVZpEMI0odbBCVjgurnznNwNZVobS+Jb4gBrisJy2fc6T/Vdal+v0wNuQKR6DqCbCrO90lWBMtrENuTcNUwuJdCpIvy/CXdDV1JteATD3J3yigbWt5us2g==
+ieee.	3600	in	nsec	developer.ieee. NS SOA RRSIG NSEC DNSKEY TYPE65534
+ieee.	3600	in	rrsig	NSEC 8 1 3600 20250928184733 20250824180841 5344 ieee. bth1xu1+6TOumRZZH48jdwWwqUvVQA57+aQ5M0sKRCFyu99cdmS7Y0QRHqfiGCe5xq+U63CjYRrnwvVDvkr1w5weKZBXQbQwqjU+20fVVamMKVmfk14Rf22UBQ/inVz4aC2i98qZP1RWuZxcjUrekA7eKzu9almUiOZ/mszp/6/rrh3mKW0EQZ22EYy910t/6Vp2iyG9CK76KeJruC7XYHsVwsSJJZbJOWlhzN7W9M4GEAtsu8gbQqIypIBFno52p2UtCQEPDziTz7DwnR6k/ZlQ/k/uK/l9n4YUvpkTEelGpt2udvm7eTO8ChAD/Pp70TFjBEArhdQBjILVJj+fzg==
+ieee.	7200	in	dnskey	256 3 8 AwEAAbN0T+GmOdAmmXtGNmEMS1cr3Zdfj+CIdum2BigmHsE1XPgvSl5sg8IsTqvu+g8oohGAiXX/0Uf1hoaYkzO4G2MFXmtb9F94JHRAVGIDXvbFfcaQG4XrfEKzCZI7L5+y37pNetbvxFKodDc7MEoZoZFyhIh+YGYxxb+dX4oIZK9hrZiC48A63TCVyUw6M/G4ez7iuxI6Pwg+MuNcMQ5Xg58=
+ieee.	7200	in	dnskey	256 3 8 AwEAAcq92rx+43odRmSSH8OsjEPHbOA01BBA2VQNaFdfvcTFcLRRGwXoUYa0FSzDwJeqeRr1ClKayQvh1O4ELmSc4+8v+qj+RKkKrHBpztcxtC93HHte8gnNdIDvXI45m9kzI3Cw4nukwHW9OjlbvcnQ+VG2XGC64uq5iIshMEgfORXx0UpVJqycqYZDhRu21USUtJMr8XidRN8DM/sxNGB9Bl0oNljBY9eXMiXEdYrlYsi90xsZ39ZJOW32OcbeRya5vyQMYVKmdyKrTc5+4op3SrJ6OezZOLlUn8Q1SI66DaZFewOymKZZwAglr1nQ74pjBI5fNzvDFFSGj0Y5SDnHsmk=
+ieee.	7200	in	dnskey	257 3 8 AwEAAattUI4Xmr0b2ot2GThaWzXWROoMTgN1YNpwNZmCkbOGAGRgjoLvHzDiYloJFFJUqu0bquX0NW3EcS9t+UO0yrEok/5zkMNNuCoWtrO/qS8DOg9ValVbCQM1eS4Kp82oAbW7/pIIHpBHcXnlXXOOmWKBKIj6cUkzVncEqaB++pFX+IOO3F+473jtruBNWKu+garsgIPuyFqRc0IT8K5tXY1jkbpj6ahmWC+hY++QbCuHptsIAR4jH76VWbJwCq6Qh2QF5eYFDr7+fkubURwmAg/9Z1JAsAwoWLD1ZchC/W+YfBJncXlHBXBJGVoB0AMIr4xPylRrKW3mwRQdU+kBIas=
+ieee.	7200	in	dnskey	257 3 8 AwEAAbAXZqGvWK7tziSxG3rJzh+8WqVdiu8K0laKAG7T4mwPE10mvdupJrfqXxid3QXrd3xPD37nhfFOepbQwIcgcEK9v6bdxu+/vawG6UGVySP+1OCFieovLhLQcwsXt65nM3qxLHfJvhGxCwYeRgexKd8JMVckNi1D+8HjlXShAv5mwzt3FpgOM86qkKA6FAd/nAZyPMKwS8qYIQhBbtEVxOT9kHGkHn3q6jgJjTj+oloP3SR9BxJ182RxA+tKpArBePwLGIqXm0DTegB5IFgQ2pELhE3WhN23VsQ0EiBbVaf8RF1EGxAoTSIOtw0zjC0SgvzQ841aAaAJfYdlc9zsSMk=
+ieee.	7200	in	rrsig	DNSKEY 8 1 7200 20250930052712 20250826050535 16667 ieee. ptXSyyI2s2Lwroije3ppBn8yE+GO69HJs71LzOVQKSiCLxnzk9pK+9lu3ZUzVOkSrvSTOPZdzcEhqZdopWyTyNeLRGB59CY2ZQS4VolVX0h2juTorcVw0PU1+xXLn3LrE0oov6DA+edbhi5LgakFdIbLw35yoVJbeIu2vXvR3YLo2jjKeCpp3HM2jYY245hu1GWAGvpoMyx48FWyPZ6Hf4Lj0puhC2dXJEp/zbZ8THns9W6QJsAknsHhrg+PjusO7P/UI9ZrrnpBPfROD+82bbNELePZdtei6SNrCQe2H3kWYGMWqTZTmr1Vfff74PkukL0noVakzqZ53BVEUI1azw==
+monitor-nominet.ieee.	172800	in	a	127.0.0.1
+monitor-nominet.ieee.	172800	in	rrsig	A 8 2 172800 20250928184733 20250824180841 5344 ieee. A4PA1WolsvTZbXfKCW/LML6+HXobsWZKw008Flvb9S8q+rBZxDDCXqY923EqTOcjTa9i2T71tze+QsN7htdfYqgCKQozFtYTE1ao2tGgvNrr2KT9ERvaIjRl+pPOXOiANcYF+lDJmyy2JxMMh/kXrh/FSZN5JOPNfZrE8skLM1FX6V9aY6oUDWGKELhrFvvFRpr8ZbYFyX9kr0KscQ3aUfGcmup+eT8UWp6ts2MEGynTIUHi0CjlzPlVMGbvvS3pOFfAg8BKHgFrdFjglAQr+y3QPEmz6N9K/0Sz3VmWhN1fPgVYroBe3SyT27Y4no0EPjF8sGoPp37Ls+phKThLVA==
+monitor-nominet.ieee.	3600	in	nsec	nic.ieee. A RRSIG NSEC
+monitor-nominet.ieee.	3600	in	rrsig	NSEC 8 2 3600 20250928184733 20250824180841 5344 ieee. FpEFWBnYihr3MflBBmTatea4xq5NmtSDPozq4DfhZ07EjBydvloG8hqdYVrJ1nydPuPwIx85CbwZgSKj14oc4CS8HwbO+MEorfbLUy6VAm/xxkeOgf3gcNrix21ekjeRzsP5ul3e1YFp0L2qj0i6C7JFQZBu9VgR0qdrN1zdady5voHNdLSTH61y5rlDthahTHimDhEzyIc12lLr1j/DFOJOURTO6rhxkmdwKdL/oWMCMKZLf0fvL+z99XxSr9/WwCe9uA7x3XpXajC+2oZ+EBq0T+y25uHm2LnEkzd7tNIh/aOtAke6sAkiKr0q4fwv2+kL+wmUgQtqe3WwI8yk4A==
+nic.ieee.	172800	in	ds	35965 8 1 C3CDF485F452FDF505D6BC6A86C6DD97714749D7
+nic.ieee.	172800	in	ds	35965 8 2 6DCC435BF1F6FB9DA6EF3DFBB7043614C91ACD2D7A44B5549EC02B7019BCFA81
+nic.ieee.	172800	in	ds	43964 8 2 6C5FF0BABD024A5CE4F972B8C483D9C866FB7E23869C89A55EEEA03DDA8DC7FC
+nic.ieee.	172800	in	ns	dns1.nic.ieee.
+nic.ieee.	172800	in	ns	dns2.nic.ieee.
+nic.ieee.	172800	in	ns	dns3.nic.ieee.
+nic.ieee.	172800	in	ns	dns4.nic.ieee.
+nic.ieee.	172800	in	ns	dnsa.nic.ieee.
+nic.ieee.	172800	in	ns	dnsb.nic.ieee.
+nic.ieee.	172800	in	ns	dnsc.nic.ieee.
+nic.ieee.	172800	in	ns	dnsd.nic.ieee.
+nic.ieee.	172800	in	rrsig	DS 8 2 172800 20250928184733 20250824180841 5344 ieee. dg4jZEMa1zWmrGk9oa+WOCFnFHY0qsscaCGJhEYcLbtqOvBcdrV2J39DS1sptzIrysYnbsVRqwCLP4CDR4VjAcUMtbzRGMmJom95v+nAyChyd0lxcPZpdMzIc1rRCKIW0wL4b7lb8tQHQ9/lQCrR1UZ61604VH0+0wl6w/zig2pEkGfTIf6yy0xTQArhAsXQ5ycHINflngqX72pDzIZ/HlsKSkfoKyWkMucTTWs2md1qNuhNjosIcyW3U5RgNuUx49kwY4xsQuXAAfRHpCZI4HkNYOIquyPg501efPrTkUHyadFfZCFjd8u1y71cY1AJBWQm4g1xj6RRExSaGJHycQ==
+nic.ieee.	3600	in	nsec	xplore.ieee. NS DS RRSIG NSEC
+nic.ieee.	3600	in	rrsig	NSEC 8 2 3600 20250928184733 20250824180841 5344 ieee. f6U+P+cZRn6NUhskBsnFfx+vLidK6yeTsKWAbfS/aewpBIj9aQdfXEgdTiO7EuACZ/yLk0n685ifS9zgeCmdkBC5fFSKxax+WMfH0qcc7r1yYkY9y5h+IYnMWhq6CC5oqU9/QflEZ/sD1tJ3H/bmfabpV03jYqPu7EwJC6WCDQ2eBEhUmlsKQH40M+2gKRB4it0r+wj99zlUFsSwDU4Zues0FSrf16BW9gTfAqmk0nKHV4n+olTubPu1+XEKa8S1vvfaWsaI7JRBt6vLuUq82OnjY+oJkI57dsbNEoZNVoobgO0K6ZhMbKA95/i8L6L4zzkMHEmxnJ9SJo/XHC2zvg==
+xplore.ieee.	172800	in	ns	nsgbr.comlaude.co.uk.
+xplore.ieee.	172800	in	ns	nssui.comlaude.ch.
+xplore.ieee.	172800	in	ns	nsusa.comlaude.net.
+xplore.ieee.	3600	in	nsec	xploreanalytics.ieee. NS RRSIG NSEC
+xplore.ieee.	3600	in	rrsig	NSEC 8 2 3600 20250928184733 20250824180841 5344 ieee. FU3P3NnHpCBga9YG/Y1PR3qRD7NDrGWvzRM7ANXqyFcaOouqrYeS4ritBOM5nMCgvLvDGrq/jXrgRZPvhU9fduIoknkV05C8itpk4PJpoVwBkf4SOZErE6CNViT6l/QGLhAs1438jczTZEEXeToQZRrBW8s0FDS1VIC0sjWnm70oPmMsqnVpBopT/6SB9sB41s8kyFM0xamlA5oR452do2xN+5GyBkhPl9u/e/3FvZYzerkn1ZrCIFit/LeqHN0+9HvqwMWcsMuygpl0rr5zJnpi9iwaR4cSl0pZq6I4iGwG0rP1wiImc8lFVpgbnYLAmQKERFKuD+IVMlAMO4zrLQ==
+xploreanalytics.ieee.	172800	in	ns	nsgbr.comlaude.co.uk.
+xploreanalytics.ieee.	172800	in	ns	nssui.comlaude.ch.
+xploreanalytics.ieee.	172800	in	ns	nsusa.comlaude.net.
+xploreanalytics.ieee.	3600	in	nsec	yp.ieee. NS RRSIG NSEC
+xploreanalytics.ieee.	3600	in	rrsig	NSEC 8 2 3600 20250928184733 20250824180841 5344 ieee. vNw4jxS42EzFtfxswLsVz3pOZpyQax2HQLWE/4crxtlDqIOiYd37m41sECBVbm+SXoD9up+ml1YBMY64OqxKu2DNOAhMJ/7WcTcYsSCwn6StpAJVTxMJ0v5U0o5WiyjtN/XjT9+DNL1uGCbxstQSjcszuIsf0zjg6IALioSxPOFOYxy/xQGzbB9tsRZr3IfLVM5oUkzmmCc3J1XdMcUy55URKZh0JlBLhC5EU5Q6MfE/gY1GbatOgqgNr0HLMW7Thgi8mmsvfed4D1FeI5ZbLtRqrR5kcQ938MX7yl1t4UpXcKK9+RJODphUocDzYR3Dwglp1BJEZMUiOVuEUIvXyA==
+yp.ieee.	172800	in	ns	nsgbr.comlaude.co.uk.
+yp.ieee.	172800	in	ns	nssui.comlaude.ch.
+yp.ieee.	172800	in	ns	nsusa.comlaude.net.
+yp.ieee.	3600	in	nsec	ieee. NS RRSIG NSEC
+yp.ieee.	3600	in	rrsig	NSEC 8 2 3600 20250928184733 20250824180841 5344 ieee. mVgioc06s7VRepuPi+uEowGTCpW2Mr5TdqliP0HEbcYakH2efhSyyBdXCJ6Z2DXZVk8IwesDEPTDvwiaMB19J+BAcJqDguKzCNdrzilwTKCEGSnciGTOmgfAn6aBEIvWczv42tBb9wqJYR8SGJzQ7VZGjjKSncUWrTY1uHW473+LRgZjbouv3NPOJYJt6uYF5WaMrRuh8QsJE17rtle9puggE9d+mMiTETBCpml5GZimKQcvHhcLJ44J6TGowVBEyGWSV3dXYIvBE3D0lS4pXRO6CTXff7+kFTgBdXJ4tvL3G2sZQrpkYFvTumDuFFgZDg7E5ECe8Nm8cB9JIy79lg==
+ieee.	172800	in	soa	dns1.nic.ieee. hostmaster.nominet.org.uk. 2021101639 900 300 2419200 3600
