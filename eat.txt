@@ -1,0 +1,34 @@
+eat.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2025082610 21600 3600 259200 900
+domaintest.eat.	10800	in	ns	ns1.google.com.
+domaintest.eat.	10800	in	ns	ns2.google.com.
+domaintest.eat.	10800	in	ns	ns3.google.com.
+domaintest.eat.	10800	in	ns	ns4.google.com.
+eat.	0	in	nsec3param	1 0 1 0C13DA1A93C212F5
+eat.	0	in	rrsig	NSEC3PARAM 8 1 0 20250916011045 20250825011045 50799 eat. Z7dLWWGfhhwfcuNsbXLAz6L2lebshEA1IoDkav8/CZV2B9GGYRH18HqhHQSmV31fd143/aH8CDUpt2NoEEconGtOOt2BdDkV/laaVUh1J0ipuXs60XPSRyd62REt4M04fABng17LVDduZJD9cvtsDtwEJZqaw8PGl4GCXJ5MIxA=
+eat.	21600	in	ns	ns-tld1.charlestonroadregistry.com.
+eat.	21600	in	ns	ns-tld2.charlestonroadregistry.com.
+eat.	21600	in	ns	ns-tld3.charlestonroadregistry.com.
+eat.	21600	in	ns	ns-tld4.charlestonroadregistry.com.
+eat.	21600	in	ns	ns-tld5.charlestonroadregistry.com.
+eat.	21600	in	rrsig	NS 8 1 21600 20250916011045 20250825011045 50799 eat. P7jnBT4r0lXY6e0vL3JLxAE+P806n+5ZbJwLHo+qolK8eSyk9OeN7YmsRrg8qBh52RL57ThIe0AkN5aUzxOf1KoJsV1FskYja2AnSkH3nlA4NaFltUAf1DBEdfpg4XP6NDZXdbMadN3HZmcGxLfmpShv1ek/9WdPaDoOQ3QlKgw=
+eat.	21600	in	rrsig	SOA 8 1 21600 20250916011045 20250825011045 50799 eat. RhTL2uGypBA72UH5/6Khpd/xsP51rgl3LhpkCeaQTXDT9PQDCIH3XTN4s15KbtC3LK1d1Rs0fr9zvXmlnqIwl3uKbIQSKYmnrMezsAMhCFWgqsCce9d1aFdL7MqXWbVqGl+I7Am6n79Gp/lc/biCq6bvzxeH/nSy1iane7D5m8A=
+eat.	300	in	dnskey	256 3 8 AwEAAbSQgl0G7CYrSRZOiFveQ8MXfXN8ka3OoWi9EcjIARJ//5MYQGcqAMtOsf2bJRrtKPXLM3AoaKr9I04S9Q+h0RBdW+8tOM5R67tAYPd4A/uloJ9s/FSRmdjh3+fDPBtCkotid2RCqrYjfiGconulbFI82lvPGnW4Q8jZJCuLpGQH
+eat.	300	in	dnskey	257 3 8 AwEAAa5zEvvIfGD5JxMTy3KxMNttpTOJKBOZ+ckymhHJqXGMa2kYk/lw0qPCnqDk2CMDidG5Umb1b9AzDBhLkqR6+MQ4zXlWwc2lAogD8Hm+OkmFdwRkmZ+Jz1cLBw+vxnJqEDuL3HC++jw5UI5Y+wyk6DAKd/VA93DuM69455II3KpIgxSJDC6ZKacsO0DukJ5qEXbnJ2rjE+eBXfR9I//Iq4zyM3hDEZMsIW+2VdRwjfVrA0pvv64s37R2diIAv3vO715Y6VBOZsHrXbaHX1nUSSPjhiocstmZD65qa+ajnPaPf3mNhIMV4WHjBeyz/Ng+ir81iN5696ZMu8SZu3SD62E=
+eat.	300	in	rrsig	DNSKEY 8 1 300 20250916011045 20250825011045 36982 eat. Q2t2WeGHpSyS6pbU2c8MutnjacMzebqPiKzA0YKzQh654icrUgKfyCrNnrrakK3wztBe/x1klGodMDZotK7aSU50y5zQqKIt9rtdXXI/1fAfOEkg2zLWJFu5PGj6TLpoDvqWoW9xakunMcxTq2Feyh2HkRVS7O3SgaTrutZH9pb2YQpf1UV7eygdFi+VxatOy8yi1t1TuurucMz7KwM0Ym2D6MGUoA+aRmEWyBQcAg9khD411LSKhvRy0mykmVlE2j1nUhj2631m1kcUQEN60lxRAHyGEhwIqmfktLyf3V6QQF/Ecmba6RfmxZZ5pB51Sos4PtrPAoDpUFxqIkejAA==
+get.eat.	10800	in	ns	ns1.googledomains.com.
+get.eat.	10800	in	ns	ns2.googledomains.com.
+get.eat.	10800	in	ns	ns3.googledomains.com.
+get.eat.	10800	in	ns	ns4.googledomains.com.
+ijd9d2nu32fukqjdsv90kvbklm8qov0k.eat.	900	in	nsec3	1 0 1 0C13DA1A93C212F5 K5HPJIMVACG41KJ0SPJBHQBSJR9373EN NS SOA RRSIG DNSKEY NSEC3PARAM
+ijd9d2nu32fukqjdsv90kvbklm8qov0k.eat.	900	in	rrsig	NSEC3 8 2 900 20250916011045 20250825011045 50799 eat. Hn90hXDrE85FhgKHJ+7GC43Z9Tdp+Zzd5GiOKfKCavW1FNY+vRZOcwwPhk32VfF8FkMC37bXNqad2m4pe5iBs9g+O17NPdMM8UkbGvA1WUisQ82cU19Gu2ZGrAulsKV5kkB536y6p2qV5XzlAQ8gbjh00BpzRMupeXbFEuTw544=
+k5hpjimvacg41kj0spjbhqbsjr9373en.eat.	900	in	nsec3	1 0 1 0C13DA1A93C212F5 N2L4B4QS1A5MLIFH9NVQGFB8Q9PL5NUD NS
+k5hpjimvacg41kj0spjbhqbsjr9373en.eat.	900	in	rrsig	NSEC3 8 2 900 20250916011045 20250825011045 50799 eat. ZuSh4rBBABWhviRfi2OOpmWCLiappR60V9BT+yyxUC0hQXJpgurOD/97OCe5/EOAxmNLOp5Mt3CYBIFbDT2iIhA/7+1GWXIeTiC4xaB3hDS75/lH7Qut1gHjyWh5rM32kystTUt5y02GB3dakvVp86HLSSEnaBDP5dxA8KjCiWw=
+n2l4b4qs1a5mlifh9nvqgfb8q9pl5nud.eat.	900	in	nsec3	1 0 1 0C13DA1A93C212F5 RMTEFF3HDUQSGTSPTD1V1URR6E7BIMSU NS
+n2l4b4qs1a5mlifh9nvqgfb8q9pl5nud.eat.	900	in	rrsig	NSEC3 8 2 900 20250916011045 20250825011045 50799 eat. W4uyrPLxUaHVorXgoei+oqDnzrScVUqZRNo2vFIAbc9D1iPRWtb8neZogBP2ES2ME8z38XPsRbXj4m3kXDJJ6fzNriheu9RIFXWm5ZD5isBvUnKORJtCxSFTXPecIg/bYi6sjmUnuG+OLelmNO5Q4sMTEAB4Ay7/8la4LjYP5Oc=
+nic.eat.	10800	in	ns	ns1.google.com.
+nic.eat.	10800	in	ns	ns2.google.com.
+nic.eat.	10800	in	ns	ns3.google.com.
+nic.eat.	10800	in	ns	ns4.google.com.
+rmteff3hduqsgtsptd1v1urr6e7bimsu.eat.	900	in	nsec3	1 0 1 0C13DA1A93C212F5 IJD9D2NU32FUKQJDSV90KVBKLM8QOV0K NS
+rmteff3hduqsgtsptd1v1urr6e7bimsu.eat.	900	in	rrsig	NSEC3 8 2 900 20250916011045 20250825011045 50799 eat. VCfm9uO6DFHjCx8FKzPeqSymcq+ZBz3guGDawQ+ukX1TLvSuJtfHB63r574Z3xUSG6FpIAYr/EcE2UBuizbQRqSskhuA9D226KzUEEG8fbqPFz1kdyOHC41g7CwAx9j+EiMWwkPZcfOK7D+3iV/1jQPXb7jOiPedChN3rZHUft8=
+eat.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2025082610 21600 3600 259200 900
