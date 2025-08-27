@@ -1,0 +1,31 @@
+ubs.	3600	in	soa	a0.nic.ubs. hostmaster.donuts.email. 1756257219 7200 900 1209600 3600
+a0.nic.ubs.	3600	in	a	65.22.112.71
+a0.nic.ubs.	3600	in	aaaa	2a01:8840:006e:0000:0000:0000:0000:0071
+a2.nic.ubs.	3600	in	a	65.22.115.71
+a2.nic.ubs.	3600	in	aaaa	2a01:8840:0071:0000:0000:0000:0000:0071
+b0.nic.ubs.	3600	in	a	65.22.113.71
+b0.nic.ubs.	3600	in	aaaa	2a01:8840:006f:0000:0000:0000:0000:0071
+c0.nic.ubs.	3600	in	a	65.22.114.71
+c0.nic.ubs.	3600	in	aaaa	2a01:8840:0070:0000:0000:0000:0000:0071
+from.ubs.	3600	in	ns	dns1.cscdns.net.
+from.ubs.	3600	in	ns	dns2.cscdns.net.
+j0q5m3a9v10op6d56luivak7jfpnbbn9.ubs.	3600	in	nsec3	1 1 0 73 J0Q5M3A9V10OP6D56LUIVAK7JFPNBBN9 NS SOA RRSIG DNSKEY NSEC3PARAM
+j0q5m3a9v10op6d56luivak7jfpnbbn9.ubs.	3600	in	rrsig	NSEC3 8 2 3600 20250917011734 20250827001734 20313 ubs. e6kuFupk9wLx+iWvg80pHIHpQf+wKBg3cNuJRsw9e+bygAmszxxq+f+4uvpAJy59yEtQouJiqYEt7/Uq+SvwVeQGo24tzn1CWAxI16jPDndq7cLaw+RhMh9hNaMk0Rdvmb18g5f1j4a0WPtKqSwsNvM4dofiaqjtpcAPa1Z8i4s=
+nic.ubs.	3600	in	ns	a0.nic.ubs.
+nic.ubs.	3600	in	ns	a2.nic.ubs.
+nic.ubs.	3600	in	ns	b0.nic.ubs.
+nic.ubs.	3600	in	ns	c0.nic.ubs.
+ubs.	3600	in	dnskey	256 3 8 AwEAAaeI9N/oGsLAqvVn19Ir9ClxF2O31mqp5dcUgNNii6GVFax0GUS2vj2/2zOk77KKVZ55NwT9sNfPWu2PvfBK3kllORYEHfCXL2dnDQsLBxgXT9SmmYl5YoTflcbQ0RH3uTxN2mwr2dT755eivs6fs28h+/ezhLyyfWHLRyaWUlmsVFmG5zTKn+a7gt9gVAx6WBrHkM2zuEEiaxtRk+pKHB8=
+ubs.	3600	in	dnskey	256 3 8 AwEAAcgWtgpK/S+E+1r9i6zl2rK13AoRPabFTc3xOmxb9WuAQ5EKSXYdjH6BzZMEBnQKXw8NK3m7mm5Rp1p3tTJZ92ATRmkHbh6GEqbSZiRh8cxxPd5M6e8jJb5tD5iudckr8kkszTsQ8wYiDMw5u/ZUXpmLAqW1LDmlRyyLc+sBZ7kZ
+ubs.	3600	in	dnskey	257 3 8 AQPEanmngDgZsz4Xg6/v/dyfeCzHsXo05DAlcq0ZAyYY3GI84l/NMfnA/jSD75QNB/WqB4oNM8qEjVtMAdiN4GmQz5vag91ys1Z+R3CR9ietwryC4FFZpt/A6yhon5MNDcPjxJrFzM092IqvyJHkbTrqc185QmzuMauHdV84L3BXdptDDvTnGsMEGXm+OreyYmoUDWCat0m5p3ZA+TFsM1kiHQr/k+ryvjg6DWFGvWMqdHwq/qlaNocA8NXdbHO3cojdunQa0f/7cUoI1pBKG/yo6i+cRT/pjPSic5F3F6hQiy2Q46ht2iqVYXXj8Zc6RJwCEt4LTybdMYPDIr+2BBx7
+ubs.	3600	in	dnskey	257 3 8 AwEAAanPLAOeU3+4ygZWe/+8ZdNOdya5MZ8FEHSjixC6Gf//Olif6WqEyTOedp13a72q7/1nFqeJuQPuIsEE06vA0VO4nuZEZgiqUhmKWHs27MvoUbimEFyVNqAe0SZxz1NeL6AKUnogRFsC/VBFR9f0i1CgLfKgmOAwcFcXBpmbjQQznDdiQUgl/O38dKtTsb6Wy8lgpLeKTiQSLtpkuFNONJkmz39Ys/AIJtWxSiWBbmUJNzpipZW/UmVnmWi4zICq9OmoXQMu9IBQUPv5Oda2bGTCjjHuVopeZVGxiMiO6Yzem6AgcA+MmYXh099z1eFd1qStbPZpXxxit7X+3Lyxpc8=
+ubs.	3600	in	ns	a0.nic.ubs.
+ubs.	3600	in	ns	a2.nic.ubs.
+ubs.	3600	in	ns	b0.nic.ubs.
+ubs.	3600	in	ns	c0.nic.ubs.
+ubs.	3600	in	nsec3param	1 0 0 73
+ubs.	3600	in	rrsig	DNSKEY 8 1 3600 20250916152407 20250826142407 59500 ubs. i+Pu0jbiGbgCuzlkQij82WvpbHvOFj6W+MTvVz4MX1Yk+oIyscdFtR87JL1pCvl6bZrz2ywrigdRIIsRcT7dYysYh6RESEnBB/3uYibvIEeQYNTL60zyk7jGVpktMQXmjQ1qQZWevKUcXfJWTRWBWkVqcfMm6xkxRTg2F9WpcOk3PQGHqMbpqdiN+eXP54y+UHIMPt3koAEHAIPNKKQgFqyBdj4N40Vt4zU2O5vXLBuoD3NxuWq0ynFm8mC7mjZH6+Tkq5P0Fkgdo8BkhCOy0aXDhBqzUU7Yy5q5rxwaMfzCe+J5KVnMaO9e1Ssx3fVDXhS5E/KpVBn4tG4Gzzj7Eg==
+ubs.	3600	in	rrsig	NS 8 1 3600 20250916152407 20250826142407 20313 ubs. H7FSOUrneXv8n7TbYbD9tO002u+koi9925l9WcmJaX8BYB2H3QCdHaBUO8IjGQ6imZYl2kmQvLj2eixxe4QXneMdVXL295/sRfTVZgb6cVoeJkFzY61nZN8mSL6RhpuFF9edvSimBriSuZ1Rv237craSBEysc5dfj1Uty0XqujU=
+ubs.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916152407 20250826142407 20313 ubs. ncxDbfaF94vZaSy3rZzcd4aEcG8JlItv0B1uK85oiAmEEhS0sWtI/WSums5jEynim7wcbjcANg3C92FI245IszvGfMHywB/DH0kecOqTtOV/3mTUfy4mJxPgfLkq4Ax3cu228JTlxYpsSRW0Y3Ym1OWzRXkWcS35rS2ijbH/YCo=
+ubs.	3600	in	rrsig	SOA 8 1 3600 20250917011734 20250827001734 20313 ubs. EaDxP9IGhbXFCQPCmw71+ywbJtLhuuQNEAR7GtCCxBaP3LD4GFWnb+wNCMBxj3hcErs8N6BgKWLk6aek0BWVHbDOHlAX7Bwsu6OTFRXlMlYFknvI6FeSTHKxzpnFvevlptRwANeMRTk/ePRK0xv0QaUip1/6M9eYo8XpdM4wsEo=
+ubs.	3600	in	soa	a0.nic.ubs. hostmaster.donuts.email. 1756257219 7200 900 1209600 3600
