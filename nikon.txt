@@ -1,0 +1,29 @@
+nikon.	3600	in	soa	a0.nic.nikon. hostmaster.donuts.email. 1756256561 7200 900 1209600 3600
+a0.nic.nikon.	3600	in	a	65.22.112.64
+a0.nic.nikon.	3600	in	aaaa	2a01:8840:006e:0000:0000:0000:0000:0064
+a2.nic.nikon.	3600	in	a	65.22.115.64
+a2.nic.nikon.	3600	in	aaaa	2a01:8840:0071:0000:0000:0000:0000:0064
+b0.nic.nikon.	3600	in	a	65.22.113.64
+b0.nic.nikon.	3600	in	aaaa	2a01:8840:006f:0000:0000:0000:0000:0064
+c0.nic.nikon.	3600	in	a	65.22.114.64
+c0.nic.nikon.	3600	in	aaaa	2a01:8840:0070:0000:0000:0000:0000:0064
+djpdtkod6vmocmfjuoe3c8bm2ujf5dba.nikon.	3600	in	nsec3	1 1 0 73 DJPDTKOD6VMOCMFJUOE3C8BM2UJF5DBA NS SOA RRSIG DNSKEY NSEC3PARAM
+djpdtkod6vmocmfjuoe3c8bm2ujf5dba.nikon.	3600	in	rrsig	NSEC3 8 2 3600 20250917010600 20250827000600 14298 nikon. GqdHZnW7CMsVv9qMZmckxz0ogIJWQHlOWcFi35rtzy+0zk9tChWCop4cDp0JRDrpdKWPpCHKVS/Qc+jOhTJJUvW7OKd/RiwsqF90WjA9/B/UVc/bqQ3PaqiMt4VRylpg2lI4EgY/mGX+xGqoCwyzwCQUnDNAeYsteBnULR4YTS0=
+nic.nikon.	3600	in	ns	a0.nic.nikon.
+nic.nikon.	3600	in	ns	a2.nic.nikon.
+nic.nikon.	3600	in	ns	b0.nic.nikon.
+nic.nikon.	3600	in	ns	c0.nic.nikon.
+nikon.	3600	in	dnskey	256 3 8 AwEAAbIQzOixSmQlruSvCbRrlfCF7gby3fBp3SdGrG5Pi5Ojtm+2pJqkoRH7ri7V8k8SlXSKx/pyi3GFM6wq2DDhIhanvDd4qHZNmZ2VlrKMsJuGZ8a0uVKLfwoSEcczF+W9m7jyCyOMgpUp/THc7LTh9pW2lExNrVkV7gNaufmVYmtr
+nikon.	3600	in	dnskey	256 3 8 AwEAAdpLc8F4GG2Qc3xz3uA9t9cGCqjlbKqNjyO3FwZRcclIGMZ4JiPQDx6PHrGjNzO6xICiNceHJ3uSbZDwEsKzfcEtO4j0S08E25qvH7wuWXdcZYr9lHGvjW5z1OVebtd2yz1I3v4gPf9e+7k9/WzrL7F8BZ0MtJnusbg6d7bstk2HBfaKN/66FkTQ7CmnZL1kakjCNaz7msWfVSaautB6SuU=
+nikon.	3600	in	dnskey	257 3 8 AQPv3VAIy1+PBX0bnBqh3C3cWPvtKIlTfiXh9RpUSYHozJSsx2CFay30lTajkCKnuJikMHUQdO1gcyVmfGNgmVCPUT02BaBX2PrS9xWR6uF9UhMgD9JVK7J20vBtw3+9rA6RWHuYh7DpGudnurXPDFUFQ/jAYBBsmECGUWbuKOzrg6lL91j338maDaXleBwfyqlpYt62kwpePRSibMMOf/y9oThrxTQNAV55VGy3WY4qnN5iT+7QstZxVZdKn4/kl0MhKzSxfaY9SDXKjNdQs3PiQT7Sjf/YiYkWCLIqVrwj0Ss/a35jFD66m5WgEYjPjDU+mHTCQz7Jlp9QGaUmpxmn
+nikon.	3600	in	dnskey	257 3 8 AwEAAc9xBUHlRp1MoyOo2PoXU3yFnVb3whvLuBYhZtF9v/+7uaP6f27UHeiVuFWsj9plLiNpVICds+8HstqhUl+oF6PL5gGA/Mky4rNKTiGD3MYB7GTtmZXxDtupXF3b1gEZs5/6+IInb0vETzjFHzvhVKzK5wKst97PCSZ/fFylNSIZ9Z4YO+gt11w557UUDKT9CAsRYgUJu8NTMvemJEEao5T9nnaQBdVKlNcnRAtp+CRuMQxbjy2T4aREa6BfXEy83yqEOgTlOnD2Xeo6f/qha1DaLTtQbvbc095S7ydv+KuZjdtYoKBafNaDBdyU3cIrG1an385SAvi8sREZFEE3xi0=
+nikon.	3600	in	ns	a0.nic.nikon.
+nikon.	3600	in	ns	a2.nic.nikon.
+nikon.	3600	in	ns	b0.nic.nikon.
+nikon.	3600	in	ns	c0.nic.nikon.
+nikon.	3600	in	nsec3param	1 0 0 73
+nikon.	3600	in	rrsig	DNSKEY 8 1 3600 20250916160633 20250826150633 964 nikon. OeEY+leO20iNyH2evumraJZlsnTftmXq7zgnvQfExk1KXgY2h1wYhKD/YkvSllXvT/oYB+dfSvKno96Impw/H3A3n7uKRTS3M03J/6tRUfPV/OzIpqSDoCCWOLUhDjI59M6zko3/VMjiUhRs12J2s9zZf8/lKLRxmCD2FBBjXEUCTHLp8uzlNufIJ2PMTO4sHmQDa/tr2yisTTlP9rXPR+zrNTI9/8BdVd9qHXLbtTwOiPnAR9/G7H17dTQ07MDSltRKx/f72O5sN7wRBbMSc+Ar40maLm/RH+mXMYB+vf2cE5Ka2q+qWBzzNdTKeNUFgC6szwcDnSxy1MhQyvkS6Q==
+nikon.	3600	in	rrsig	NS 8 1 3600 20250916160633 20250826150633 14298 nikon. hPhJZouInCrsXdTwHWu6IVjf9jRei5c7XDDqV9grysZ2NJiAn7zz2sNnpyBw9xfl/egZ80p1SpZf1Havn+Dfk/Qd6Cj+BDZq27az0H/uZexMPnFVrOUxuVvMgzY/pKSPgopm+ZOBqX7VS20m+8pRHCfDz0lm19nbWEirXaejR38=
+nikon.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916160633 20250826150633 14298 nikon. rQdkYciFi5UEK3lHr7Kt22EY8bqi6h91OLEeam8tPobn7+KRdqDC8wW25uh/72YI2pCZjvRsDb23VjdE+IBTCYhf8trrpMtOweq2TGPMhTXU63+lmHy3rW6OVJF2YzUMj5zC0IsPIJbL+mRR4p+85MFk/2IloRm/anHu15Mv1UY=
+nikon.	3600	in	rrsig	SOA 8 1 3600 20250917010600 20250827000600 14298 nikon. i56SXpw0oQfs69LxXZ1V/m70fSBLHUjUV5bXjw+ElMjH8Xg7qlif8bUdgGyb+f2CU8oM/iogQABKKgH5pEPKOfrNk081gy3esRq6wmJtDPgwZ+yQLAj8CpmQk1G10Z5rmSoWaqzWxfxqCJFjhOUpGExB8Yep63/ds8nChRdaZrU=
+nikon.	3600	in	soa	a0.nic.nikon. hostmaster.donuts.email. 1756256561 7200 900 1209600 3600
