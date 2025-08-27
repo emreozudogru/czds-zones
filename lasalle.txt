@@ -1,0 +1,32 @@
+lasalle.	3600	in	soa	a0.nic.lasalle. hostmaster.donuts.email. 1756256559 7200 900 1209600 3600
+2v7qoc4n51jfiin43tafk2rjt8olb1ug.lasalle.	3600	in	nsec3	1 1 0 73 CLDHIR2NTGD5KQL85OATS609EAIIFL1L NS SOA RRSIG DNSKEY NSEC3PARAM
+2v7qoc4n51jfiin43tafk2rjt8olb1ug.lasalle.	3600	in	rrsig	NSEC3 8 2 3600 20250917010809 20250827000809 34428 lasalle. IlqK6nzTuCv9hSpZGwu6hIUKnsPSHWSTre81HlRxCeG7nD7z28d05aDYxLOKDZe8/s8tV+oZnYb7nI9+uBqzBh1kzW8TezaPs13h4qrM0yykavFluuknU2er1HHLLYuuNN+5wPns6yaMgutUih2z6vaJL0XiMvA/9LhVVhSeylo=
+a0.nic.lasalle.	3600	in	a	65.22.148.1
+a0.nic.lasalle.	3600	in	aaaa	2a01:8840:0092:0000:0000:0000:0000:0001
+a2.nic.lasalle.	3600	in	a	65.22.149.1
+a2.nic.lasalle.	3600	in	aaaa	2a01:8840:0093:0000:0000:0000:0000:0001
+b0.nic.lasalle.	3600	in	a	65.22.150.1
+b0.nic.lasalle.	3600	in	aaaa	2a01:8840:0094:0000:0000:0000:0000:0001
+c0.nic.lasalle.	3600	in	a	65.22.151.1
+c0.nic.lasalle.	3600	in	aaaa	2a01:8840:0095:0000:0000:0000:0000:0001
+cldhir2ntgd5kql85oats609eaiifl1l.lasalle.	3600	in	nsec3	1 1 0 73 2V7QOC4N51JFIIN43TAFK2RJT8OLB1UG NS DS RRSIG
+cldhir2ntgd5kql85oats609eaiifl1l.lasalle.	3600	in	rrsig	NSEC3 8 2 3600 20250916161257 20250826151257 34428 lasalle. mF3aKXX2ZRYjqQynzH4l+ZNp23DzhRrn7GaSiwu98X9qj7Dwy9Pwh1nYtybBUdIjJWFvE7/IyCggBsH5kb3D1SevgZIRmIH+UMwhrTPaVHxnmrc6e7Auh7VW54tgMUlNuyHkPZwjP48WSUyr1MzR5PZ5N8YQR6B33NbT4Jk1wAk=
+lasalle.	3600	in	dnskey	256 3 8 AwEAAahlHm6ktiduwV6tUh7qee372R9B9qpKbvjTGYK4WBmHXszFJgTtfzkIaYznjZWVcQBJm8TXe+psFgFKJSa78OPuB/k+T9qEIA/0RWQiM9r2KHjc3Cu00enrc2NVSxx+Bn+ayxO+ypGAx7RE6TFHNROIm4KmPtNdDRkpUcJMvIIX
+lasalle.	3600	in	dnskey	256 3 8 AwEAAcoyONnOATt4VW2gwpSFihf3DmHuWHsDxfa+RT0oQANOWM1wcQrBGr2IEJqUfeD2QpERmBw+iMVOjb6CBVS1+NdXqIPu07daSc55vMJGRAf4MSxmJz0FIGwFjEXqDWXFtYqdBvH6n6khrwxr3hppFyXNB1lA8kuElwski4BIjzzr
+lasalle.	3600	in	dnskey	257 3 8 AwEAAZ4BTwiIiXJGSznaaG03ziCup7nVtVWIoZJwUN5cyUJm8BkSieV7mwugbfB+WZu+0kb7qS82xqjumIeyn6oMXOkXNzdR5xETSazRosA5IuKsYmF7Iw4AbDWMRhbkC6cei7UwUJlP4aeI2uSnA5taTtZktIfqARsZCnwb55d8+4MtOMVY/X6XVdV0Ajm/R3Mz1bpqTwkHCVXA0SdlD/UbSDgxTwj+b//dh/FT1lTYfFaY4JqyAt6dRvAmXmEaOElJg9sy/6xojHzLtXZ/oor4EcWqSku0C4ITcn00p1ppNkJ6hUPO5QwByP1cL0Tqf0Swq/5/ESk2JUWjHPf68BFV1GE=
+lasalle.	3600	in	ns	a0.nic.lasalle.
+lasalle.	3600	in	ns	a2.nic.lasalle.
+lasalle.	3600	in	ns	b0.nic.lasalle.
+lasalle.	3600	in	ns	c0.nic.lasalle.
+lasalle.	3600	in	nsec3param	1 0 0 73
+lasalle.	3600	in	rrsig	DNSKEY 8 1 3600 20250916161257 20250826151257 6184 lasalle. E/JCegGNsOpzB7bJk9BSEWZ55Pfznqx2tOcWa9eBcvQh6VG8xAqFwnMWQLXbHUThS5hiITTfCzSBrbobw2GUrMSv3kmCZ5M7dwtTBxJDDnaEHv5il9cnRntM1XSsfcJfFExHOjxWl1lWdAQqPGS0odfET/ouZPHrk1CDszEXFNVhXQ6hlYERR/uxTRyX/ohazzbXZB/Cc340OWkLR/lHdaMxdQ+5NGXNfGmHcqRUq3hMvO3yXf4v9R+dFryeLLfKNwitwkRPhmb34EvSTNJS67GN6I/YrS/le4PLUMDOsuRrL+yaptDP1l1kRlGrk1OnOqzDIjc3OnfL9H7Fx9BJuA==
+lasalle.	3600	in	rrsig	NS 8 1 3600 20250916161257 20250826151257 34428 lasalle. ShULSQzEJL9zoDBTj5lK6cAcrhYSS2TYlQzvVvZp8m3eIU+ne7lm3zbWQ2OBoxs4u9WEkmr4pVQuypoegS6Pxbb0nKuZmHKNl2kuESTXV+U7lKzYJSAn/zXGpWvqFUqwnF2mrYOoV6h4rgoyRvQiHmIARpRrYKo3XpzEvqBJyAY=
+lasalle.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916161257 20250826151257 34428 lasalle. wFjAtiLodyFY6+HlMuJASlxjzN8ZoVExP0mHbGOZghnp+GagjdQ0I863tavuNELq0vlah5ydadhs5oI4tMEiVRja1t1bMNlEdRvjtgdA4CMC06MGdE0iobDnfLAVeI163i7VjSXr8kW/LRkjdRPvsbFP9PNJqpZUJdhrnwVgWRo=
+lasalle.	3600	in	rrsig	SOA 8 1 3600 20250917010809 20250827000809 34428 lasalle. fEAhslgjPZojlQHh3DU+X0P6Q2SmREnTWT4ehlWcxGmadMDAs18ZifwpMsHxAYPjSFFeE7reUMvlu6wotLywDNCCcgMTF6F5YYpp6P5HcBdIinbMbUX4PV22zPDfi4gkrWe8UsjyW0su39jFLG9s3y+0kPFms4KE2Fm8p0bmz+4=
+nic.lasalle.	3600	in	ds	36492 8 2 2DE0C52198A0B2F8103E6C8CF6F793FE9346D2CB143A114FBF0A42DF84CAACD1
+nic.lasalle.	3600	in	ns	a0.nic.lasalle.
+nic.lasalle.	3600	in	ns	a2.nic.lasalle.
+nic.lasalle.	3600	in	ns	b0.nic.lasalle.
+nic.lasalle.	3600	in	ns	c0.nic.lasalle.
+nic.lasalle.	3600	in	rrsig	DS 8 2 3600 20250916161257 20250826151257 34428 lasalle. cBkHthrw+ktPusIi/YRpLpp7J3RGS81LfrStU4mpiNMT2tCym26vhHVvNhGWeIwNIJn0gYvD1orzX9TIEb+aSwgUgRIVbKCHSvPuTQ7Ks61cXJGAGcoCtEgn6McgaVqtI5z57/cyKxjeEZ7D6ekDCFECWaf+fBQ9VBo7TqXxTiY=
+lasalle.	3600	in	soa	a0.nic.lasalle. hostmaster.donuts.email. 1756256559 7200 900 1209600 3600
