@@ -1,0 +1,32 @@
+taobao.	3600	in	soa	a0.nic.taobao. hostmaster.donuts.email. 1756257218 7200 900 1209600 3600
+45cfcd0p0up5l13ajmr81m7imvaolnj7.taobao.	3600	in	nsec3	1 1 0 73 TPBJSQFG8G58QD673RF1J1QB6JUR1V7K NS SOA RRSIG DNSKEY NSEC3PARAM
+45cfcd0p0up5l13ajmr81m7imvaolnj7.taobao.	3600	in	rrsig	NSEC3 8 2 3600 20250917011654 20250827001654 46113 taobao. y0g59iVUOv+9J5inBgqC1L7zWnmdanDmKkZw5OtdrYRRvNpGNLFW1eLig/osYX4SnQMbvYhzW8SJThJ1y78aGWwDNjIzYnMbNf05jDJs5uEMyCVpMqh4xph5QWDrOxDWifv9DKnkrewC1aOLu3i/ewWjvtDW2Ow2XxFFy+CdrVk=
+a0.nic.taobao.	3600	in	a	65.22.52.17
+a0.nic.taobao.	3600	in	aaaa	2a01:8840:0032:0000:0000:0000:0000:0017
+a2.nic.taobao.	3600	in	a	65.22.55.17
+a2.nic.taobao.	3600	in	aaaa	2a01:8840:0035:0000:0000:0000:0000:0017
+b0.nic.taobao.	3600	in	a	65.22.53.17
+b0.nic.taobao.	3600	in	aaaa	2a01:8840:0033:0000:0000:0000:0000:0017
+c0.nic.taobao.	3600	in	a	65.22.54.17
+c0.nic.taobao.	3600	in	aaaa	2a01:8840:0034:0000:0000:0000:0000:0017
+nic.taobao.	3600	in	ds	60528 8 2 5D759AE97209B230C14A8DA5A1D242165A9475BB69A60C1DB44DA3CF592BF27B
+nic.taobao.	3600	in	ns	a0.nic.taobao.
+nic.taobao.	3600	in	ns	a2.nic.taobao.
+nic.taobao.	3600	in	ns	b0.nic.taobao.
+nic.taobao.	3600	in	ns	c0.nic.taobao.
+nic.taobao.	3600	in	rrsig	DS 8 2 3600 20250916152408 20250826142408 46113 taobao. VRQKm2eQbrgwGbz5R5nY5ECUyuQaNYhZsWFH8bxj41ZDxFXAWPVQGPFpUTR+06E5m35Wyj584rnqdRtaMD6ewv9iH2ve2B1flPAVL3pnGxYgFdvkKIUvExZK+7giNpLJAO9GSaCOe9uYW/rITUelqXGyhUP/GhqAGN1ZbIuiJc0=
+taobao.	3600	in	dnskey	256 3 8 AwEAAaqKRd0gfFRxoJrHcYTkhejw1GKmtlrG3K7VT9guLshfhRxgr11XPdJ5+GavnBetJvZhfwwdNOzy2EjFZsZinw8PoHj2ArZ2XwcDwE3Zx375RqZu6KNqsUtfmb8cvCOgbrIaNGOUna5wOid0cAqy8SA2v2eOsWpDwGv9Ou8v/HZp
+taobao.	3600	in	dnskey	256 3 8 AwEAAc+ikxSWTIuFhkvVLDohobSAxCfitq/ocMIj+VlqHkcvow/LAdr8+xaT9rSEvyLxbaki/Dx5xXNP+4KtzHaXoPepW8rcM/5q4q2N497rhpAgYIYsF8I1BU9o8kVRI1QGyee0Ga++Q1sgO5ZUDQjtmEjbBzWTs3TR+WSju9qOHc8x
+taobao.	3600	in	dnskey	257 3 8 AwEAAbp/GIBAw9Hmb0jP4rs87B2X5+M/0UYoqTjbR0pJROLTOh3fwtRkILyj7PMkVdntN3AceVAsqPPe1QCLpx7LBsSeikrZ1DfLJCHeCIlj3+rx/2YmJ9S471IpJKUP8cQbYEl2StKhtfBGcP75SE3RK+XZ3ZH4FtWnIO8ywJODX0TvoYXk7rqlRW9S2/qSiBBT0B+9KDAPbkol4JvvoZ/aHP23/a9qlZd7zc+or8ArYDJDKyF+D95aTO+FUBfmX2g2hMTdxeCCkaeyVZOSVlY3d3KrhoaF6eK7EsT13/lJWWxqTRxZ7FurK0kspzkgs3TJMdXhK0a56ZNb7rQmaGrDW/s=
+taobao.	3600	in	ns	a0.nic.taobao.
+taobao.	3600	in	ns	a2.nic.taobao.
+taobao.	3600	in	ns	b0.nic.taobao.
+taobao.	3600	in	ns	c0.nic.taobao.
+taobao.	3600	in	nsec3param	1 0 0 73
+taobao.	3600	in	rrsig	DNSKEY 8 1 3600 20250916152408 20250826142408 62422 taobao. r/63VIRk9mY412Cjtyno4UrW6rjjpS5W8qbMCOl4AtRFwfmie9dlk5sDb8qzZLafqu5vw3G4woGwNvFqbNgj4fnFCCmoo/msKJPIhtut+sfkxk6tODDCTyHqwdyznq1hDmzTjZQqSijHeqjia0OORz+5xmrnj8RD/cGLRTrGi7ntR7oEXzz7wbl+dHUA05q60mJ+CpVs1YhvB9FgSTfr+JJbQUw+8/xpIF2HbhWuvhWkReCNSoSL3HY7kaVtXkT9iFwf/UF8zlbhHwjIAWaMtUJErjkJXXy8sy2GyrHw8rD4KtW/Fi0FnOItlPuPUQa55RLVjCpuKYJCShlQJxH5tA==
+taobao.	3600	in	rrsig	NS 8 1 3600 20250916152408 20250826142408 46113 taobao. k7VfHrH7G1aOPIgCOL1elyNOctQHaONE10cMa49c1shoReGpt3zIvgf50APFX667hRlkJQw3vWosEyHpN6FNGEfZzA2RMc8AEC8pJaxMk3LogsB0pQrcfkVxssIrZX2garUFayamvlsikSDYB+MzSw4xupbzVORr388nzOtgJho=
+taobao.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916152408 20250826142408 46113 taobao. MW4o59XCf7H2GCOPbZnljfmISHWESZsIjIcyWIoDSVxF86ipBGTdW7wN6J2nGFNndvddFo2eOYxYZH3XEfCcBaIjdxDHwLJZULuOdrRB/VKdPDaV71vovrcFiSFy0jnvwN2dUTRk7svIwsM3uk/pKkBaONqae9wGd7cBODD8IRE=
+taobao.	3600	in	rrsig	SOA 8 1 3600 20250917011654 20250827001654 46113 taobao. HdJsmo0B8nojBJTI/h4q3WLlj5kYt8ipy6VeJJle8t9AAXiL8lj3iHv+L4CfpbNoAKX1FbjkWT6GnLt3F9xfmdGg/YCpQchu9gkMsjMIIQafnaaZFBZWXBSyhKkyd8S/3UTQnwB/8UhUzqbsCZHBz0jj/zCWcUNEtUgvzgWsTk0=
+tpbjsqfg8g58qd673rf1j1qb6jur1v7k.taobao.	3600	in	nsec3	1 1 0 73 45CFCD0P0UP5L13AJMR81M7IMVAOLNJ7 NS DS RRSIG
+tpbjsqfg8g58qd673rf1j1qb6jur1v7k.taobao.	3600	in	rrsig	NSEC3 8 2 3600 20250916152408 20250826142408 46113 taobao. DkdK2+dJaVhE0CFTsA2WwE6H1cxRUzNpfTUby/lps6w8DSiP/VsEnR2P4wFzaNgOAZo2+g5RtWEuT8uxBTnBNP935OlUCPKRlupbPEuvTGsnzZlhP+tUner26cERjL5vnalJbLqsMZLOA9U5D6cHbrE6vK6FVcjcm9i73jIJPqA=
+taobao.	3600	in	soa	a0.nic.taobao. hostmaster.donuts.email. 1756257218 7200 900 1209600 3600
