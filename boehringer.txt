@@ -1,0 +1,32 @@
+boehringer.	3600	in	soa	a0.nic.boehringer. hostmaster.donuts.email. 1756256554 7200 900 1209600 3600
+a0.nic.boehringer.	3600	in	a	65.22.188.17
+a0.nic.boehringer.	3600	in	aaaa	2a01:8840:00b6:0000:0000:0000:0000:0017
+a2.nic.boehringer.	3600	in	a	65.22.189.17
+a2.nic.boehringer.	3600	in	aaaa	2a01:8840:00b7:0000:0000:0000:0000:0017
+b0.nic.boehringer.	3600	in	a	65.22.190.17
+b0.nic.boehringer.	3600	in	aaaa	2a01:8840:00b8:0000:0000:0000:0000:0017
+boehringer.	3600	in	dnskey	256 3 8 AwEAAbWPM0kBaU8LbH/uvzFoWpcNJnQoEL3SASIsgtJRv9XBrHi7b2FZ8awTp7kyOQiBTSHU6Xyo3gRANtB4HZ3M6/IYTZawbCPWQeA8KT9+Hho1WFFKpA7xCpxCmBVDo8/0kRWbV0ybhpsrJYRRqceQL8ddCGuQBuUQQYuLGdtpZC7J
+boehringer.	3600	in	dnskey	256 3 8 AwEAAcFATJ1j+TLn/pXOp+xPrXKU8BZyUmAkyo2zCNP7lHyg8NgGTRaDo4qYKTjPm+DJHxXjYC/KnhQc13xF5ISLV6fNqmU7IXA11cYp5VVa0p/qDwsHZO2lUbqIIgonB7cpMLlTtIqgYMyII2uFJgzzfWT7bzUVt2dOCmpk8q0VllTh
+boehringer.	3600	in	dnskey	257 3 8 AwEAAbRtRxjYOQlKgO0xPEPKiwrPcOsdbB1+DmswPhQaA/EYKYIEj4p8HakcufeppKHpL9cyImSy8iE232Dk81wWjEEIpnaKG6E3rM1PU/nttiqCVRds6S6qp7EbwHUBi0P1L9vtQBLuq/EgUjx4UR6F2YPX54fe5R0ul9ZnYEABkTUm+DfJd7962XJE4/IJX6Lqf47OJLXeCfD2UXv1OD2qepokSwJ7BGLBF+1Rx0cFusESwWNB0aEAe7IDT5cwtyHe3kZeVmwF9mxUw3Cs47uasYWyxYySZNSDmWoAQKdBGgYt+9eI87hZ1TasqWyrgd2dJJn41Pad0uYBDU+aavyZjeM=
+boehringer.	3600	in	ns	a0.nic.boehringer.
+boehringer.	3600	in	ns	a2.nic.boehringer.
+boehringer.	3600	in	ns	b0.nic.boehringer.
+boehringer.	3600	in	ns	c0.nic.boehringer.
+boehringer.	3600	in	nsec3param	1 0 0 73
+boehringer.	3600	in	rrsig	DNSKEY 8 1 3600 20250916153133 20250826143133 37117 boehringer. e9mXmV0UbwVgAYT2wDo979vNQWH4mbrw7BJ24WMemFBEByCoo5HHT15iHnhnuiIo2wYnvFyhS6cRhiACWwuQ63bhzy1tpHGvypTYjrhEv1lxrJhl6zNXE1zw8AE5knLpgulYfQMpz2gehV04v8IHuXC0vevHtwp2beihqnXTGe9a01YRVgSlGiv1nuQegDbrGuf6YaNKVFbUXTzgwOlzwh1/vv/dxe0ZWBpi0RgR64DmD4rlAih+k/FBfZioPRvbE9hqR+2N9jp8crCz8kr2jEP9Q2cwnOXvMXq6EmgcVslaDv9JdvnCJQy8SDDtA90LurkRl97+ExNz4WB/82w8+w==
+boehringer.	3600	in	rrsig	NS 8 1 3600 20250916153133 20250826143133 64194 boehringer. ikOiwIB1xKciiP4dazWXxQ9TSFa6KNa5lMPSqny6m5vbW6BAplbNEAFVftrcvnpZXDenccGpx4g0YpGJ80Cg3DQkH0c4EkVCgLnbp9X0yDj9xABHXrIzDPK0j1fN+oJsg9B1snYNuTAguunk84Z+Tc8qhKO+9HxCWsALbvb4ubg=
+boehringer.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916153133 20250826143133 64194 boehringer. NkcQKoXeQs2msAhmLyszSBZdjgWYJlUe3P2kIPVXMPlbOjMjAJoR/N55RUFEffnVo1exwahANwoZLfSR1tly2WYFCnMsMOsJ6aGd6iUkcIx73fo8hqIKCqvSA5C5ktfyUT3pbq4tCXHd0NA8xTnhRQyqb2qbtIXlrwEqHcvqDv8=
+boehringer.	3600	in	rrsig	SOA 8 1 3600 20250917010348 20250827000348 64194 boehringer. oRUPfJu7W8B2CqjR80aW8/te2mODr268TxgMv5RXTZUpmncG9KGBSK8XhH4FUb7IGspiIihYN7/WYsV04z9xfy0sv/fkkqS3Np8sdqpv2T/IpOvR6ueAaDE366o+KGox0Dt0+ljHtOB8dF2bVq2ZDRrXItIkoaJjNl1IdM5pdaY=
+c0.nic.boehringer.	3600	in	a	65.22.191.17
+c0.nic.boehringer.	3600	in	aaaa	2a01:8840:00b9:0000:0000:0000:0000:0017
+frdjol2ml8lbg65h0knfl8ne8j0c7491.boehringer.	3600	in	nsec3	1 1 0 73 QKRFNSLPLRBEF60IDH850UMISC4POBDT NS DS RRSIG
+frdjol2ml8lbg65h0knfl8ne8j0c7491.boehringer.	3600	in	rrsig	NSEC3 8 2 3600 20250916153133 20250826143133 64194 boehringer. cSlw+MXwmYGN3Tg+16fBFSihtYppo1aHgIpSNJbXULrdCtXus6mcoysAU2LENTxAwjbsHfd510ooaNnQENLNVcc0wTL46F5AHl4UfGfyTeTC8OC4fx5GX7qw0ZNPKrJdf+Xn3t1ZHSjLQbD6CczYbocl0e6rXBLzHS2laAdBIc4=
+nic.boehringer.	3600	in	ds	20262 8 2 CF5C3B16A8A0FB46D1B61FC84BE5915C5A8F041BA51085D940E12C1CC85AFC06
+nic.boehringer.	3600	in	ns	a0.nic.boehringer.
+nic.boehringer.	3600	in	ns	a2.nic.boehringer.
+nic.boehringer.	3600	in	ns	b0.nic.boehringer.
+nic.boehringer.	3600	in	ns	c0.nic.boehringer.
+nic.boehringer.	3600	in	rrsig	DS 8 2 3600 20250916153133 20250826143133 64194 boehringer. OvyT/egDqEtxiEkB+zOOYb9JmKtpMi8llwBtgxJThEi4AucehQnDm/YMb7WAL17ejfxHVX7iFRYIrzGkTSOsPzJmg9BttS/ISk3jLI/wwiuQ1ahfKBelnYGisfiaG073lrQ0VOu3G8dAokWBG0Ffdlj+0nKpvltFLo0ogYoCfyQ=
+qkrfnslplrbef60idh850umisc4pobdt.boehringer.	3600	in	nsec3	1 1 0 73 FRDJOL2ML8LBG65H0KNFL8NE8J0C7491 NS SOA RRSIG DNSKEY NSEC3PARAM
+qkrfnslplrbef60idh850umisc4pobdt.boehringer.	3600	in	rrsig	NSEC3 8 2 3600 20250917010348 20250827000348 64194 boehringer. S+RkE0I4eeC/NAPLT6SYRKvwmSab68MsZIJppCu883wq1SXV0oIq77x/stD2xMq8N+j8MMMWMSc7mdbbXsV0Y2Ot2w3pCv5uoaa1vN+SYXlhtPxt4+bG3K6N1smVqMiZzd31Ahz3gzoJeDXSAMH230ymokTcvSl1DIWYgKn2iek=
+boehringer.	3600	in	soa	a0.nic.boehringer. hostmaster.donuts.email. 1756256554 7200 900 1209600 3600
