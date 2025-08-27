@@ -1,0 +1,35 @@
+pohl.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019124716 900 1800 6048000 3600
+60cqgafd12numjtchpfbgfh4bn2pnegt.pohl.	900	in	nsec3	1 1 0 - UOEVLOB2P610UMTV75ATBURHGIFJOPOQ NS SOA RRSIG DNSKEY NSEC3PARAM
+60cqgafd12numjtchpfbgfh4bn2pnegt.pohl.	900	in	rrsig	NSEC3 8 2 900 20250912220414 20250813203414 16195 pohl. sfmcxjWeIkj8wBF9G896qJ8FBlxKjXoEMPJVD4NM6iqGlZ5omFV83zEp+ZlSqXPi1FSdrqXZXGHPM/HuzPnrEJctCGwoON5YxBEQNdgF+PMZWi6qxcAIxIA2xQUc06N7ymwfPv5cE1zemN8af3fLoPbCrkRjp/1sRsrvhUuZ9Ik=
+a.nic.pohl.	172800	in	a	194.169.218.96
+a.nic.pohl.	172800	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0096
+b.nic.pohl.	172800	in	a	185.24.64.96
+b.nic.pohl.	172800	in	aaaa	2a04:2b00:13cc:0000:0000:0000:0001:0096
+c.nic.pohl.	172800	in	a	212.18.248.96
+c.nic.pohl.	172800	in	aaaa	2a04:2b00:13ee:0000:0000:0000:0000:0096
+d.nic.pohl.	172800	in	a	212.18.249.96
+d.nic.pohl.	172800	in	aaaa	2a04:2b00:13ff:0000:0000:0000:0000:0096
+nathalie.pohl.	3600	in	ns	ns1.brandshelter.com.
+nathalie.pohl.	3600	in	ns	ns2.brandshelter.de.
+nathalie.pohl.	3600	in	ns	ns3.brandshelter.info.
+nathalie.pohl.	3600	in	ns	ns4.brandshelter.net.
+nathalie.pohl.	3600	in	ns	ns5.brandshelter.us.
+nic.pohl.	3600	in	ns	anycast1.dnsres.net.
+nic.pohl.	3600	in	ns	anycast2.dnsres.net.
+pdt-subdomain-test-1ee6ugq.pohl.	3600	in	ds	60485 5 1 2BB183AF5F22588179A53B0A98631FAD1A292118
+pdt-subdomain-test-1ee6ugq.pohl.	3600	in	ns	ns0.example.com.
+pdt-subdomain-test-1ee6ugq.pohl.	3600	in	rrsig	DS 8 2 3600 20250912234517 20250813221517 16195 pohl. V62Eh5xk28Vc6Nu2Jc3JWVSCLDju9PMiqe7WQ07N57Sls47ABLatKnhGaX97L8bE6/NKxGA+dCYu2RUSBLlTA5izokrcmgSQ1Ht+s8ENufCHbfoelsU+WaBYhdLQQ4SImgQPMPzscnSkbTvbhufIbuxSHgdCxzVwWz1Gri2Ra5Q=
+pohl.	172800	in	ns	a.nic.pohl.
+pohl.	172800	in	ns	b.nic.pohl.
+pohl.	172800	in	ns	c.nic.pohl.
+pohl.	172800	in	ns	d.nic.pohl.
+pohl.	172800	in	rrsig	NS 8 1 172800 20250912220414 20250813203414 16195 pohl. nJNVkkIlguILfB6G1SCkKsFZyIil0RfT9/pi8K4j5ZgZuZiUpi+PyXLC8nWEi14Ylvpsu5OtXAzBHerR30h+ONkMWqmew+56ZP/356P1lfgWIbjW91MSft5qqSqlLQlod8kVoA/BX/hWInt4JutgConZCB2RUkZ0nYSbQkow200=
+pohl.	3600	in	dnskey	256 3 8 AwEAAc76DlRSWBQ13paVJNOuaL+pClidpQw989IvmYtPKWYhRxq8iPsLCh6gGBDaqPsT8J6fN/MbACnlcjnY2l/HcdO206q6ut79xqk2XuO/xJOa8hdlDiC8m3tQsL4rJz1J+Q/G6w6RaJ6n2HpH4oVwbKfTxFBCGLAAGAzMh3PrqYyB
+pohl.	3600	in	dnskey	257 3 8 AwEAAcyHY2n1Qi7PPCzNOZ+mvA97ms1Lq29pxXQMphRKtRhmNTJSlFkSUKk4EZJfX12Hgf0DSe8wbEzPtbiSTITqzHlSAmhLwWmzUjvJFDkca5Y9cbcX5dnmEx7FPUxb6T238xS9+ILXmwDIGZXMbzh3kz2yZuMAh2bSureebq9Gkgx8bZbETlktGzQWi96dkGd9ieD3xffnrIrNPjMlqDHvI2DrgSUsqJE7YfRg+T/tLhQ/W0dx9ZeMiifshnMZJ1p6wk7FemhRzAWzR9Gq8brstNpcRHJZp4E/aF3LOm19BAbqsucLerS6crNr9Mleh0JlLD7z42dY0NnHWcIyJ6qu+hk=
+pohl.	3600	in	rrsig	DNSKEY 8 1 3600 20250912220414 20250813203414 27074 pohl. rUmVzQOsM0vrdBb6rcv+z1CKW6FvSXkBIedYvNlCyl/RUw5NXGTbuFJxiHb2b84Y81Scb0xIRJjeOQKspBdYPLGPkoHm6s5BcbUq+S62NNBi28e9lk5q/Jw3vCuJ4UcPz0EiCNwpAx7O7ZtWuUNUxSNjni2E2j/LKz/zgdUajDp1HxsB2QjrmxIp2fwLMiD3YccncxZ+FuI/YNnMy/4HQonl2CyIW6mJyaRnl4N4GPXRwM56yWd/HLTg8wHCIIupcvocNKFtXamEZonO9NiX1ZBD9WtS+c39HH3Ykr4VW/8oO6GHSjXJTmNeNq47owQgsSwi/2us8RAH4/MGUlT/WA==
+pohl.	900	in	nsec3param	1 0 0 -
+pohl.	900	in	rrsig	NSEC3PARAM 8 1 900 20250912220414 20250813203414 16195 pohl. D8Z7+yHtV2oOxsS+4HBTwWZ6Fplg/r0L6DLXituXTpxsQ6BPg7by26NAurdyQz5n1EJRU7FMExFr9SUZUwm/DKykvr50qtTksduGBIFiLv7x5UdAvOeAys5oEoAv9jFVJuU58FZQpPg2J8wy6QCHGGxViuexzORVauB9xQekBxE=
+pohl.	900	in	rrsig	SOA 8 1 900 20250926011019 20250826234019 16195 pohl. leNHQnNuJiOmXrmGTE2/Gty78jPq9dIxOeXUXF/dqfxwfVFqlcd8rlHHgVa+1MWaH8ArchPt+Vw8AGNI2CDpA9dAk9HhvCFH05Hy8ZB5qBs+U+LMo6hQJx9ercSg+SP5KqEWb1ugpiYAmDv7rwUoanBxWEIDkdxJyWcWEP2QRrA=
+uoevlob2p610umtv75atburhgifjopoq.pohl.	900	in	nsec3	1 1 0 - 60CQGAFD12NUMJTCHPFBGFH4BN2PNEGT NS DS RRSIG
+uoevlob2p610umtv75atburhgifjopoq.pohl.	900	in	rrsig	NSEC3 8 2 900 20250912234517 20250813221517 16195 pohl. JcT9T67arsG8hBaFa+lRr49XeJhUiHHEwpElCfdBwtRQjdhjKsalhv6NLaLa6ReJRqRFLXxqd1jzSmJQxp4B0LvK7ZcAmI/zvH6CyPUUGB5evLpJnbrGSR13tbw35LqjQ1htX7WKEA4ri/UJJhbqvaH6ICX0MqomJiYP8US5Gwk=
+pohl.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019124716 900 1800 6048000 3600
