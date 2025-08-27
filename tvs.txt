@@ -1,0 +1,41 @@
+tvs.	3600	in	soa	a0.nic.tvs. hostmaster.donuts.email. 1756257845 7200 900 1209600 3600
+69v7g7bnsto316k82g9947krp161nsjd.tvs.	3600	in	nsec3	1 1 0 73 N1FCUMBODRNF313AUNTO475CL7DHGTE9 NS SOA RRSIG DNSKEY NSEC3PARAM
+69v7g7bnsto316k82g9947krp161nsjd.tvs.	3600	in	rrsig	NSEC3 8 2 3600 20250917012722 20250827002722 15354 tvs. EHteAvWCGX+4CK54k4wn9LvESmWzXEJZgNwmTCfd8KpptW8zFP6NBRr9X+6HRmrRjTVZD/6Y4UpFheKJdVIDDesrWFk3+tnxnOfsjSMbD2iq+3dzfTvmRYa6H461DyT3vNHReS7Xzg2pLD+CV9x3BlBbLiZoZ0z9FtbIKB5aUjU=
+a0.nic.tvs.	3600	in	a	65.22.204.9
+a0.nic.tvs.	3600	in	aaaa	2a01:8840:00c6:0000:0000:0000:0000:0009
+a2.nic.tvs.	3600	in	a	65.22.207.9
+a2.nic.tvs.	3600	in	aaaa	2a01:8840:00c9:0000:0000:0000:0000:0009
+b0.nic.tvs.	3600	in	a	65.22.205.9
+b0.nic.tvs.	3600	in	aaaa	2a01:8840:00c7:0000:0000:0000:0000:0009
+c0.nic.tvs.	3600	in	a	65.22.206.9
+c0.nic.tvs.	3600	in	aaaa	2a01:8840:00c8:0000:0000:0000:0000:0009
+infotech.tvs.	3600	in	ns	ns1.nameserver.net.au.
+infotech.tvs.	3600	in	ns	ns2.nameserver.net.au.
+infotech.tvs.	3600	in	ns	ns3.nameserver.net.au.
+n1fcumbodrnf313aunto475cl7dhgte9.tvs.	3600	in	nsec3	1 1 0 73 69V7G7BNSTO316K82G9947KRP161NSJD NS DS RRSIG
+n1fcumbodrnf313aunto475cl7dhgte9.tvs.	3600	in	rrsig	NSEC3 8 2 3600 20250916152408 20250826142408 15354 tvs. YWSHKVpwS6O+C2ImcLnsRauwf3/Pa9aM6aR0DHuIv2YSPo83XHItddmjZqF13fdeU/iDdedm/t8P65o9emtSGaVY1QakrvtpTDnyn0HHB3c4QtxrvYFrm7CT6+TfCuVv4bHmsi/t/+YYp+lybNR9HEt08NcYgzsgi/QlBsUiBYg=
+next.tvs.	3600	in	ns	ns1.nameserver.net.au.
+next.tvs.	3600	in	ns	ns2.nameserver.net.au.
+next.tvs.	3600	in	ns	ns3.nameserver.net.au.
+nic.tvs.	3600	in	ds	15012 8 2 FA095E4CA6E6AC32D9C4339FAB61EAB7D6391F7E559CFD0ECFB9778471D66C8B
+nic.tvs.	3600	in	ns	a0.nic.tvs.
+nic.tvs.	3600	in	ns	a2.nic.tvs.
+nic.tvs.	3600	in	ns	b0.nic.tvs.
+nic.tvs.	3600	in	ns	c0.nic.tvs.
+nic.tvs.	3600	in	rrsig	DS 8 2 3600 20250916152408 20250826142408 15354 tvs. RTbuJrxpFvZ5zQVIRTKoQ18kimikV7jHpeUMlqQLVUwagWCHdeM8cusPmmHHIyRlbyx9Vlqi0xDJ8/KTLx+rwZfe+utg5AFZjclYNfs9CT6TTgtJ9uVmYeT9tRz6vZxnYfNOyIj+yUs+YXxvQB/Kg0vYz8VBPm7gdxI4Rmccjqg=
+sundram.tvs.	3600	in	ns	ns1.nameserver.net.au.
+sundram.tvs.	3600	in	ns	ns2.nameserver.net.au.
+sundram.tvs.	3600	in	ns	ns3.nameserver.net.au.
+tvs.	3600	in	dnskey	256 3 8 AwEAAaGvX8a4PGuVIyYitAdgxr0DkmZiNObaXphMSkwY2g9GlMbeqRg4PIcUVpn4EwbC/MSUqSkbB19+xn3VghWzDjiTCG+aF7zLQ/cgPASV7Z5xcdDsIV1C4kXqpQQ7j2IMjWAXrT6r6zybLRpv6l5+zCMXXvcSscjNW6hjewwc5rtX
+tvs.	3600	in	dnskey	256 3 8 AwEAAer9+d6kbc8SliKx4lpwjhd9A+kXezUGk//z4AAtyOIJ6xY+5aaOlalIX1KrtdOx9r4BJ7HU3ypvpn8URvmLUMmr0v/71DaDkTB2TvXN1taw1XNFQcik3CK778xmpwewX2u+3+/CMvbO7oRD9S2RYZlrM/F5AgUVmXRZFOL9o/jv
+tvs.	3600	in	dnskey	257 3 8 AwEAAdHBnVXfitL18NqgtHUZkYqnGrhAoVgrWYPYzi2mTbpr94yWCRRMm479HGC3s4XEcW1flSNjZuboQoCGGVAqGDZz8Gk1hklQwtHf+lJ0ccEweZ51TI9NZm03k72ziNhI5iuX4sdJBKU5dKzEyxH8SCPDvOHA/syV8bDVM0m7v5HC1tLIMee1YQgyWMzdC1YlGbcnho0wQkSdfGcoYCTvMpdB2If7pEyR+vP4Atq+Xpw3VBroSj4oC04RzwG2AQRPGdszrZ2ybc1GMt7vrmp18e8stK1hBLTkN9AFWVTAxxTujdLCXhjbtpAwMJoR5oYbn1+WmjGxHc50B1OcXNQLu4U=
+tvs.	3600	in	ns	a0.nic.tvs.
+tvs.	3600	in	ns	a2.nic.tvs.
+tvs.	3600	in	ns	b0.nic.tvs.
+tvs.	3600	in	ns	c0.nic.tvs.
+tvs.	3600	in	nsec3param	1 0 0 73
+tvs.	3600	in	rrsig	DNSKEY 8 1 3600 20250916152408 20250826142408 29161 tvs. UDsKZk10YFfzzFwuJ3o70viI1NZ3kKO72My/ujEd3CIjBHBnyUciztspr8CHXWTqxGoPU0XkOvCKVPWts8c04ZRp3kWY1GvBgLcYIJ12vpMOxOuLolbwrbLUA2ht9HJlWhbscd41Ri4rvqvyOWZczLbwFSRP789GceRBREJUo00CDcWW/sFPetn5e0vkaT4rQwEAtSYUM3oYBH6cNyfl39eOPHgCE7UyHahsdeCJq5q4wPPknQlTgQIAL5Ed+zczIdWgzz0qo81p7GiT+kObjqrejfGwlkulGYWIFsGY8sDzMVscodljAE29VY3uCJP/gK60MXWYj47HQVN5PPT4jQ==
+tvs.	3600	in	rrsig	NS 8 1 3600 20250916152408 20250826142408 15354 tvs. IdWV98B7sHjFKD93aXcHNein0UBlIZse9MxW1XJYmj6PsoogURmlNJyDt6FDC+COWVSO6dMm0wXeBZzTKvmAR4w3g9y2acCiMtEH+cv6i41/Tibqlum0+9Bp7WpBQXT8WeuLclxsADZ50La8t3DwCRxO2p3mIJkesd4GBRwYYAY=
+tvs.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916152408 20250826142408 15354 tvs. cYTrvXmXu7NhWsT49Pd48dzb6IiqQUGZNXYjqd/UBU/p7HGudlCcmkEbM6aPJMqr2LcyZwX8sjfuxznwPL5BY9k7mp/XjSf/ZVUAT8TjEEK7GjtDOQNGSk4wqlfCVKbue4mNJep9yAFSn9BbTQXvmSgGNxItmJU/MYUVQusR01c=
+tvs.	3600	in	rrsig	SOA 8 1 3600 20250917012722 20250827002722 15354 tvs. C0iwG6u60wPbFEAHlc90LArEBIzl+xLwDxz4x7k5hhVx8032XUsN9CL8ulUFNc6vPXANqsNiX0y6JSC7Re4iEV0SJhtlUF9xBYT6Vnn8lvjJNIDLI/2gII3BlSoWqTdh1YCgxQhTd9m0jcQpj1vTIA+Akn+BOp8qjl0kXZ7dHD8=
+tvs.	3600	in	soa	a0.nic.tvs. hostmaster.donuts.email. 1756257845 7200 900 1209600 3600
