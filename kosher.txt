@@ -1,0 +1,32 @@
+kosher.	3600	in	soa	a0.nic.kosher. hostmaster.donuts.email. 1756257203 7200 900 1209600 3600
+04pi4krnhse8p42k09n2rs7ragoao0n9.kosher.	3600	in	nsec3	1 1 0 73 1NNNPCR0E0IE7L045D54UE1BT3HMAT6U NS SOA RRSIG DNSKEY NSEC3PARAM
+04pi4krnhse8p42k09n2rs7ragoao0n9.kosher.	3600	in	rrsig	NSEC3 8 2 3600 20250917011647 20250827001647 35376 kosher. NDTy7e71hebPadA+PHUQE6T4JsQC1cMF4L6GRgcsrDlzA0Bd07xTf8lF8e5+Hgq3GNQx7LnYKTh2/HMCHi2Rx0uzMAggEU8v5CCGv1nd3InxJMjGB4PaU7nvBZEzVO8cRdoUy0Mwdt0HJwsuub5FvDiV/Mcx/PrC3G+n1PP3IKA=
+1nnnpcr0e0ie7l045d54ue1bt3hmat6u.kosher.	3600	in	nsec3	1 1 0 73 04PI4KRNHSE8P42K09N2RS7RAGOAO0N9 NS DS RRSIG
+1nnnpcr0e0ie7l045d54ue1bt3hmat6u.kosher.	3600	in	rrsig	NSEC3 8 2 3600 20250916152407 20250826142407 35376 kosher. hullv12rXwhcWZNlfqvHp2/GfzJq84J3GfINfDi3Notb30U7ZaOvDTQf5j/WkW7qefqpjGdM4jK4fA5iiKgrkOkHSXAcW20FfVip7tb3t8A88OYQIs1Yg735Z/f1kl+we8e+gK1X39e8Q/9SCrnk1nEO8B1JGeMTzVFADdbPlrM=
+a0.nic.kosher.	3600	in	a	65.22.220.1
+a0.nic.kosher.	3600	in	aaaa	2a01:8840:00d6:0000:0000:0000:0000:0001
+a2.nic.kosher.	3600	in	a	65.22.223.1
+a2.nic.kosher.	3600	in	aaaa	2a01:8840:00d9:0000:0000:0000:0000:0001
+b0.nic.kosher.	3600	in	a	65.22.221.1
+b0.nic.kosher.	3600	in	aaaa	2a01:8840:00d7:0000:0000:0000:0000:0001
+c0.nic.kosher.	3600	in	a	65.22.222.1
+c0.nic.kosher.	3600	in	aaaa	2a01:8840:00d8:0000:0000:0000:0000:0001
+kosher.	3600	in	dnskey	256 3 8 AwEAAcglrwGMslr2mnqTyoAGFk8SYkCEEDR1WsnKC0jh6NmjFrlDLfObB4N3OfJyupSq95yGJJ5l1ebm1qjDR8TX/m07LAGHv43BBFbbKjJLwComy+olukSRCNFYh0lyrJwCoWS1NB5/jky1baFxCeti7oqsyxId6Za+SYNZ/DvnPpHB
+kosher.	3600	in	dnskey	256 3 8 AwEAAdlF6qoYlH8acroh+zFQy29fnqm9zwc8byV1w3q6LDIwHpG0wQYC9ATQbonfHYayEdGBTpYgFTsYVza42jLXkAz2nCEqcwVE6YcZOqut8nTk+m7ExB+aD0W76W0Q/lnyAAgu/5s4MAf7PQpNOPJe1byfzHpMNbAPjlGwoWbqe9N/
+kosher.	3600	in	dnskey	257 3 8 AwEAAcEB8vASidsEDDAkSHFffD2bFqOlnEpnebR9msVNtVmWMhtMwZOo6i+k7IX4C4pgsysYS4Cg15MGNqBHmvgNaRr/PMmrxvHRHO5bALhVYPJkZgYFQZ99lSkmvGlxchdoD8+DdAJaH+jfegJsqv1h/AWsYBByNWeNaGea2gujYvagcYoE1WPceBCml93fZGM+3JKYxUNKX0UnW1uMRbRemczu7WMrARedoAEJBs1iRuOkmIesvqdSTR/TT49YDgSa4oc2wZqtjXFcbSfdVg7etxzNsf2U1bCaNdojEymzx98eK0QChSg6j/pA8TFtqUsV2kyzHmXF0nGnN1EmcoxJ64s=
+kosher.	3600	in	ns	a0.nic.kosher.
+kosher.	3600	in	ns	a2.nic.kosher.
+kosher.	3600	in	ns	b0.nic.kosher.
+kosher.	3600	in	ns	c0.nic.kosher.
+kosher.	3600	in	nsec3param	1 0 0 73
+kosher.	3600	in	rrsig	DNSKEY 8 1 3600 20250916152407 20250826142407 24490 kosher. j0y6/BtUA9l23CDJp6Hd39i/UlWcXRqlhnCZZul2C8l4nYrJK3bMqIdVHF3affI13Av5Lj57JEWXs+DE3PfEeFnpTFa0eNigStDjdqCsx877CfxZTIa0Gk1WtHx3iE4YkPErseLFFC7o3fhYhcRZeLAxyXOvuEd9nfmOse2aFE7cQ3SxnfFH0qsJW/fv2hRolSxNfg7+9eDiiCxOCAKFyTsYAy89FiMNNPeUbasjR1jNtF1APcgT6HNNS/rvFBhlUiux6vXiTxyiuzziovLzBv6ukwlmGFC8Fe3gqGNi1bojCXK/Js7OShdoZFBuqIinuC5EkTLC2bFZqcM2HemiCQ==
+kosher.	3600	in	rrsig	NS 8 1 3600 20250916152407 20250826142407 35376 kosher. pZCk4X5GqqdR1uC9D/AWleTs0lX2ljPOwacw25e+N+a6W7khUEjIZhFv/Yzm+AiPeMIVU4R1ixduWYaV+NNQJM8K7Zu5o4+Flb1dSBUx6eA6ZaqXrAxNWsF89sAwa/svtjiTm4UL2OTSLZQV/lnl8gF6mVyP92enSXOtcJICz+0=
+kosher.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250916152407 20250826142407 35376 kosher. fx88L93OrvEYgpCNmOaA00addG6cUwEcOzVeGpm8CsdWVBrU79cRNiI1c3DkfYyvhvoTbbasix5Rr+doingsqcuKNzOGOqar7snfzxDKnOAK6GpEdmNkxtPzEDl7j6RLZvRLLMFmUe18UCWWfymL+FofwnoBmdJPmmK8KmK3mPE=
+kosher.	3600	in	rrsig	SOA 8 1 3600 20250917011647 20250827001647 35376 kosher. UYLCZvWHL94yxSxD8gUaP2udnZwQrdJ5IQGtSZanX13o3kczOuWRrhAksKFk/SyZ5GgZUdIzahklWLXHxzJdOXNSYOBZbHPy2c9p9fVwGmvETOX3KFtVyEq2mcsbSbWAA+V2MGZB9f6mkv3gpq0pmMTWgTDE6LwHH/LbpkSrRbM=
+nic.kosher.	3600	in	ds	59436 8 2 5CC246EC45AE7C9C8B428918579F8D405BCE6B5A8A46769A7E16663DBF556EED
+nic.kosher.	3600	in	ns	a0.nic.kosher.
+nic.kosher.	3600	in	ns	a2.nic.kosher.
+nic.kosher.	3600	in	ns	b0.nic.kosher.
+nic.kosher.	3600	in	ns	c0.nic.kosher.
+nic.kosher.	3600	in	rrsig	DS 8 2 3600 20250916152407 20250826142407 35376 kosher. QndCNfkWAu0BIt3z8GpBTDTRT2Gbb/tTJU7fk30/KouhxIDZbrhQwexuqdxfg0tYZSTBxHg2qcKlvWNo4/Z60dI9+MW9TIMpYwYptda5kCD2OYo8Xnj3qU/u+/tyeUXZWUNoKRDQFoRfCNZap0CDNtruXPzO6qcKSSGKmPCr52M=
+kosher.	3600	in	soa	a0.nic.kosher. hostmaster.donuts.email. 1756257203 7200 900 1209600 3600
