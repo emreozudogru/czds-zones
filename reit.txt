@@ -1,4 +1,4 @@
-reit.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000412149 900 1800 6048000 3600
+reit.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000412447 900 1800 6048000 3600
 a.nic.reit.	3600	in	a	194.169.218.38
 a.nic.reit.	3600	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0038
 aht.reit.	3600	in	ns	ns0.centralnic-dns.com.
@@ -199,7 +199,7 @@ ivtpm.reit.	3600	in	ns	ns3.centralnic-dns.com.
 ivtpm.reit.	3600	in	ns	ns4.centralnic-dns.com.
 ivtpm.reit.	3600	in	ns	ns5.centralnic-dns.com.
 jrjn8oqvavhvlhnujimsh1u60d6sjfqu.reit.	900	in	nsec3	1 1 0 - JRJN8OQVAVHVLHNUJIMSH1U60D6SJFQU NS SOA RRSIG DNSKEY NSEC3PARAM
-jrjn8oqvavhvlhnujimsh1u60d6sjfqu.reit.	900	in	rrsig	NSEC3 8 2 900 20250912215000 20250813202000 9964 reit. WMyH7dES7DS1JU7WN9O1u1dzvek71cExmwWeOmmP5Y/kDp3GMHIM9TDypa2tFVlg587sn1jDNA00uZihd1psqa78pzFHY7iEgiX1RFnYL5KTnAR+MRWfJanIpV1TYegFiZWp28XZJsqjjmPnpDEenLgv9PJngjKrrv50LBpSTVE=
+jrjn8oqvavhvlhnujimsh1u60d6sjfqu.reit.	900	in	rrsig	NSEC3 8 2 900 20251009201509 20250909184509 9964 reit. RnC5Tig5fMZeNz/ifnSKbG0j51a1ZMEF6zSvpZZ0bOtDbnJPJ3arkHZleCqsbpyi4R44/qJI6zRvjWwuQYEveOoEwGKPD0j92Ji157rH/fCF3P6El77+sn+DcsjUEeE1aMBPXh9J6pvDarErQhT4/t+Tz11Tw5/7RQxOdZJIuW0=
 kilroy.reit.	3600	in	ns	ns1.101domain.com.
 kilroy.reit.	3600	in	ns	ns2.101domain.com.
 kilroy.reit.	3600	in	ns	ns5.101domain.com.
@@ -317,13 +317,13 @@ reit.	172800	in	ns	a.nic.reit.
 reit.	172800	in	ns	b.nic.reit.
 reit.	172800	in	ns	c.nic.reit.
 reit.	172800	in	ns	d.nic.reit.
-reit.	172800	in	rrsig	NS 8 1 172800 20250912215000 20250813202000 9964 reit. M7GjmxkSAdFW8ZmoOTvJS2dKM0SHNXsDDrjSLLBSgzMh6p7Bs5MZ9A37EP10hdAmew5e3WDfD+Uxp1bR40xd239MAx9O+of0NmUsgnqnU2MRzKrpt4IOyWc6N/bpZl7Zke1DukiyiSkV/zCYpohT6yRizL07+RJRqmLMNODae/E=
+reit.	172800	in	rrsig	NS 8 1 172800 20251009201509 20250909184509 9964 reit. MBI+D0J1SX9fAhf1LLwbZzoVTUHikQsE4mPfPqNF+SOkpv6G8qs8jrecsdB2c7Zf8LhWFk9iSZFV6/YNeymCdIfiFFdTyd2TGBXAQI3lAaaP30GzVKTFeDogIvoeFi6ERNuQdOnc/FsoVgAeOXessc6pX/T/EKeFgN6dSU4JV1M=
 reit.	3600	in	dnskey	256 3 8 AwEAAboI5ED9uPALqcn7jHlfOk6DvfXCOeOTwRTZ8+XKL30c+P1jI/15xIFx11ylkmDJZsMF78WQvpE/daMYdtH68VkllYzwJ69KRqqArCllG3VslxfT+rh8gvUc1UB7lVDZ0hsGDvJdAjfb3dpwrJut6TqvjYrEK/5vmNmgzbsn4zTx
 reit.	3600	in	dnskey	257 3 8 AwEAAaEsUabmdVS4FRCrZV9xiIJi9Osb0xJonrwLH+fvB9dzd+faHhkhbrlgeqf28wlmhzLGchNZORqoQoMHoFCs4+bYqT/n8wQmaE5XEag5y/HDH62pc9MpTCNRi5WHwz6vC3jAYH5xSl8A02GO1dO393zgWbCBgg+K2gUK6cinjSp3gjotH7ad/sPQQ2cCiMjXJT4mQEMRSzCPdZRdk3BmU8jP7HMJwF55dQ2/1RYX6o9MzoChLdYPLevtIRkU7iMcfubL7AVV6AdhM9HFwP7yOI/fPduBNrkFzHUCPmajP1kOXDNRtsD733w0lwpndQw8VtNtqYOQ0og6zaa2AUg1L48=
-reit.	3600	in	rrsig	DNSKEY 8 1 3600 20250912215000 20250813202000 51490 reit. YHPaRxxLT+YAH/cmo9elqxcZ1BnNbAjtFHYAz5D0B4SPpmIzImi/vouM0JKU75aWO0BudXnmIT+7RSFUWox6pwO4My1lg1e+lM5TRbnW/ju3Iv82xaFujprar+mgfOShPY/iNonM8uA6xiRiHcdUgiEIN8Rhtusxoj6g3bPogYYSr2j8dFdPBn56tWYaMnUT4UN0dSY3QWd26NIPnA3iSuDfiFRrIjHrmNw7U87Fyl6OgNW6c7ojG4rK+dx1ulEyJC79va4veCsb3S1wq5KU5V84DaCyYUHwJ7SYE7DWZqBy7rRGDRPRfAoBXHCbvM3N9S35VY00oh4pAbBOK+s6vg==
+reit.	3600	in	rrsig	DNSKEY 8 1 3600 20251009201509 20250909184509 51490 reit. fwRrGWuWVxUVHYZd6oTyXJkQ3FX6zRvzk8HRj1dFYeyQiDOsMWdnP+iSbu2uIrScGtAd+P7SxP6PZ6PyOU/kAADwiN/IGd2NR7cu9HZool4mUBxjsElzhL4BJ+7FNXx04fckveLanQE88xCEODtHw2xoF5tkcuMJWXx7ZJRzoXqv/v0z9wcltzuf7aCfXtOII2yRraLrcV9Qjmm8q26gsOEgrqt4/sie87wc37CGra79vr60zc11k2aSKoCzJWx+iYIdIF/pbU7N+TgI2md0G7kOS2PGl4rShgpGrFTV2ZPIr4bxXwpujy3Xcz5QgTOkoRbPRQvzuuTf3ncPeISbbQ==
 reit.	900	in	nsec3param	1 0 0 -
-reit.	900	in	rrsig	NSEC3PARAM 8 1 900 20250912215000 20250813202000 9964 reit. uP0WaT7PQyRb2jn037wDiN1laLNiCFDhrxp6uTXsRMQUq4YYqEzcB6Grd724G46HklziHORc6sc3eOrbHdbE7MWmzaeNZy6Ad+QVLymxvWm+I1B/nzyAKvrxXH56clW/E6Tr5WypJsxQ/MTp2kiTBCXGrh03/RyxiE6wXOVz04M=
-reit.	900	in	rrsig	SOA 8 1 900 20251005012307 20250904235307 9964 reit. VkZtdL/sgcjDcDAM1XQNGYr+m/5HAP0AmVjbsT4K1ZpFuLIledqroob/72aAYNUonoqRQJvLcH8FsHk9DMXvtxXs6fIf0396Pp3gBUUhd9il2qOUFnyuEIZk50O3WaLqGUtCMaMoVuIK8on23n1C2y0csE4SfHFNaxCVj3HtGn0=
+reit.	900	in	rrsig	NSEC3PARAM 8 1 900 20251009201509 20250909184509 9964 reit. FZvhKNriikQCyEpqSWhVMJaujYX3hpLm+T/hv/3hKoU9Gfzp0xXVQDumIiOUOJ2QpxZXmgPmcCmSukLbyMVH2Ffl1B6/Qh1HQEWO8fV5VX7cyR91QBjHENXgqDKTZ3CjQK03NOflnBRNhifdsWQVbRAPcaxWag8JrxidRnp1WAM=
+reit.	900	in	rrsig	SOA 8 1 900 20251011011908 20250910234908 9964 reit. cXykUC7XWwCSI88cJSStiZgYX9BJZXwOQqjXFCa12dGPOn9pxAHvO5/rFt34T01jpmR/hFpdo+62346DuXDSBX1hAKSTBeSqiAfc8BTsppUKkHQDdtHT0EmV+pkWtAImkxMwWJXv11KWsToqV3QSeWm4ODowrmrqDs0KqLhFj8g=
 sereit.reit.	3600	in	ns	ns-133-a.gandi.net.
 sereit.reit.	3600	in	ns	ns-169-b.gandi.net.
 sereit.reit.	3600	in	ns	ns-182-c.gandi.net.
@@ -360,4 +360,4 @@ westfield.reit.	3600	in	ns	ns1.p20.dynect.net.
 westfield.reit.	3600	in	ns	ns2.p20.dynect.net.
 westfield.reit.	3600	in	ns	ns3.p20.dynect.net.
 westfield.reit.	3600	in	ns	ns4.p20.dynect.net.
-reit.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000412149 900 1800 6048000 3600
+reit.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000412447 900 1800 6048000 3600
