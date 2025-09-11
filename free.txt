@@ -1,4 +1,6 @@
-free.	172800	in	soa	dns1.nic.free. hostmaster.nominet.org.uk. 1757026463 900 300 2419200 60
+free.	172800	in	soa	dns1.nic.free. hostmaster.nominet.org.uk. 1757551161 900 300 2419200 60
+0jhd5opk816sor7vbf6olenqv8932du2.free.	60	in	nsec3	1 1 0 - 1A74PST8KHB93857VIRINGO0UEVN9FSA NS DS RRSIG
+0jhd5opk816sor7vbf6olenqv8932du2.free.	60	in	rrsig	NSEC3 8 2 60 20251014134934 20250909133335 43450 free. ESCwisspKMqYZoWByCTFajN11pxc6vh9PB1Tf54oGZEjYGtuiVt+7CIOizWbUixwMEEJFs2UEPuw5hZOPagKuy5r3Gph/14o1KkY0CwrB8uG8gSeKPVyPSJH/ofKsOzJcBboDAES9VredpTF0RYmkBxHNxemghOIuIdW7SRAnYYmrsxIzJlCS4Z2E69BEpyFaR18BJFM3UKiQHqVXo5ZLTp64xikzPd6pTnjTdwUVJxDdp8vqPb0a4ft5F1s3ouO/n3N9RGe1zQh/krAtqYvE9xCtgFVCOIwW2ZkWb7o8IAlR3n+ygNyV3pN5oz3ik7hLHELehFKkkFLZ3Gs57OjBQ==
 1000tl.free.	172800	in	ns	dns1.registrar-servers.com.
 1000tl.free.	172800	in	ns	dns2.registrar-servers.com.
 101domain.free.	172800	in	ns	ns1.101domain.com.
@@ -12,30 +14,32 @@ free.	172800	in	soa	dns1.nic.free. hostmaster.nominet.org.uk. 1757026463 900 300
 1800flowers.free.	172800	in	ns	dns1.cscdns.net.
 1800flowers.free.	172800	in	ns	dns2.cscdns.net.
 1a74pst8khb93857viringo0uevn9fsa.free.	60	in	nsec3	1 1 0 - 2E3VESP44DGHG976R8MU7B14H639PLML NS DS RRSIG
-1a74pst8khb93857viringo0uevn9fsa.free.	60	in	rrsig	NSEC3 8 2 60 20251008122724 20250903115758 43450 free. gsMefXdhtfdN2loFtQDjZDiMXxRdNZjdId4nUU0wLNCzh21t1wmNfTQNI81oZhWQ0l+gMxxdxeBKP7sd6a3doEY6XHrs73MQ5h6hMxnVLjHakjCd7GVMaH/x47RVn8jv4YJ5TUWoYanfjM3IOUQiTeQ6O6Jr/ZvIp6+nYfexn0ePmVXUmOryCiGAP60SyCAyvdZvwADlDQ08NvpLrtPP0q1nWgVJUsDjfa+Yov1osL4o1ICHW6TuysdQtlEHJ3qPyZsNSwdZRN4RMG2ltblhr2p5U/RK/QM+5DB9UyYp5REHtTnPhg4qVj6yWROqIOu/t/RmqAdLjvADaJgygKPpXQ==
+1a74pst8khb93857viringo0uevn9fsa.free.	60	in	rrsig	NSEC3 8 2 60 20251015115706 20250910112724 43450 free. bYIn4y+492opj2Io4EQID8l8qje0HqRngNOC3KuExRXgQPjgqToLRDz3C1l+udOQDIrJG7XLTBeVAMX+i0lQniBBhvcrcN3evKlz4gBljbbTnKh9FESTPH9brpa8Yd4hy14vdAfsKOv/wJy6Zdh5nDBC1R3ut67piu1pmWhhnK70gM+zPcpYJe/ViYwG+6Z8RoFSQzDtiTmlMttBr6Tv2b5Lkt8ALqq2nMjjAX2alKow/fLR0phWAgaOcSq5nI8w9el/FKmVyhUv4VQCpAIsaC9PfWui6YGsqc5+UC2pja8oHFSqvCyXU7y49TUAeRIKKYeBaBJxdIAet+DZdX9ZGg==
+1kuttymovies.free.	172800	in	ns	carmelo.ns.cloudflare.com.
+1kuttymovies.free.	172800	in	ns	mimi.ns.cloudflare.com.
 1xbet.free.	172800	in	ns	dns1.safenames.com.
 1xbet.free.	172800	in	ns	dns2.safenames.net.
 1xbet.free.	172800	in	ns	dns3.safenames.org.
 2e3vesp44dghg976r8mu7b14h639plml.free.	60	in	nsec3	1 1 0 - 2MHGQRJHJUACTEG37BU6AF67QSTRKTGN NS DS RRSIG
-2e3vesp44dghg976r8mu7b14h639plml.free.	60	in	rrsig	NSEC3 8 2 60 20251008122724 20250903115758 43450 free. kligS+tg8M7hCgXq+VnyWnqEyoL3BBwYteAWp0+Lrdr2Xq4+CGkn+hGB2ZFA62hk6/kd30WTpf97d8VuTRdqPeP6Q08SZwSHYAPts8Hty5zXlJ9/YR2REWeqHSsF09CxbD8anHrqL0wy2Cq9I+lNbcBu0KFGJc+sBtr8lkQabLU1pgXBzGm5knJ5U43b7TM2SjCiNp63laXq8yeVVlFDG6vOp1scDF0HqB4D7r0zRgkzoL8f3xiVim23OPEEW8DaYOLdddgT1P7on7Hg8YGMZaW/mxxw7UCvWcg6Mt7fYANkfuFljlXZIGHjx5093aTweftmC/OfnlW6p8WLP4xWIw==
+2e3vesp44dghg976r8mu7b14h639plml.free.	60	in	rrsig	NSEC3 8 2 60 20251015115706 20250910112724 43450 free. L4VldFSAyuRyjeEDbg6wwQgIPxXYq5mhcmQNkSuJNlZ+euntbsIobNh2uaAlY1y883ImhtrwL/mNK7jcQ/YA7KWSYqHP4l5L+TLwxVajB9shCAVNVHExqCIBCRXDM86tbhsK52W5KZgMVlWW90J3frNXQ/37poA1RY+cDfRUH0YHTwUaZS60rHHd67gvW1dNw1rkh+4BcqaJTsnqMt/r6BXPGAtAaVsmvF2K+4Cc100ypoUtdJR9bRDYhuuA4Q+xntLPvzZuU5w+85jB1rj6OeMEu6wQnqiGI/RPSgSs7IiBxrh03YAeKW5LAwDt9LIbI/bi0Xt2DxBE1ilm94AmUA==
 2mhgqrjhjuacteg37bu6af67qstrktgn.free.	60	in	nsec3	1 1 0 - 3CL10TJIHRDGDF9QN518BOK5S6IADJD5 NS DS RRSIG
-2mhgqrjhjuacteg37bu6af67qstrktgn.free.	60	in	rrsig	NSEC3 8 2 60 20251003171354 20250829164446 43450 free. Qo7VgHnb9s1jjwscpFaEx5iDKWuA/P6CqJcoLCDYi5/FvtLNlaSTUoThQqRmZTMvoEizTpYpKD1qNHXemB81sqM1CAXc3tKo05Rn+xw4TlHS9NaSW0tpcxmB1UpGFdwKM6xA9Kf45A2srxpYbeqNUMFH9I/DzglUIPaprDrIxn7WBTqqIQ4CpU+6BnVmnKMe4CN6oio5ZQY1jtMQL3LyklZWPBpVfaGuUduJRvSbT7PFM20w8pDvd9nyJKG61/fBVaJfEmANl2uiirI42+IUPKvM4agpZ3mPkeJEMjTP4HSIYXnITmpkR/1Uc64Lojf/PiFz0smQ34NUd2u2uoDOdg==
+2mhgqrjhjuacteg37bu6af67qstrktgn.free.	60	in	rrsig	NSEC3 8 2 60 20251010163549 20250905161354 43450 free. H2PgqGGEt9AsFNAVRn9lWQU8rKIdSAx/7n+5vbRU1RgYsiGSgycgzdVa+3NIJ/PIcD/uu3tSeTkwPt7YtLobiQZQSh05QaucjZ7zQjUu/NkqNPhzSDcL8Ht7vgFNaHh9ZHupR0A/2yh/eLe7vO5UnMOJyFsXxHMsa9Qds1PLV8d/R4kuWZZf+9L6qpQQCsXqcBSRkD9jVtO597BPL6iARrnzjylK0JLGRuI0/H+jQBbp2SUOC9pXQjjItEOloOxEh/0eDXarzgP/2io7Kt92uEbZGDGDRpf3wgTCq07ARPcvqHjj1L2y5kUuf/5INCWPhXxLZgEDGQQRf1MuRswJgw==
 32win.free.	172800	in	ns	ada.ns.cloudflare.com.
 32win.free.	172800	in	ns	darl.ns.cloudflare.com.
 3cl10tjihrdgdf9qn518bok5s6iadjd5.free.	60	in	nsec3	1 1 0 - 3N3LNGK11LCKMF1BT47O39IFVN42SLF0 NS DS RRSIG
-3cl10tjihrdgdf9qn518bok5s6iadjd5.free.	60	in	rrsig	NSEC3 8 2 60 20251003085526 20250829084509 43450 free. CZ47nOarcz+3av1E1lf/BA1jcGw7L2LKUCJpHF2pZu1jkgQyAbTke4u9KNZPeoQXYgPZi0B1M7/lfqIbrigBJKwVE9x8eaDcA1VSXrkfGOJyXP+fzKaEK4x/n7qtaWpTemfAEoKE1DnuhfXdPDxDDdIAWJ2OSPegFUEujJGLF5TTozrgIec5KvwbvGBJX7KvHZerX7ksEbg9Y1lXfr8hw5Ae61QAxDdNkhrNEgG7tWY2ZAY13KnIJyuLfKvaUBPwuunGRpvRZl1RtNPrw5LZOoMr+1LAcFpVVfx5fdj4lpOdtNPdX5sLxZTTLJH7vW7hDPlTxGkjbQEJVvkachPknw==
+3cl10tjihrdgdf9qn518bok5s6iadjd5.free.	60	in	rrsig	NSEC3 8 2 60 20251010083835 20250905075526 43450 free. fCN4t9JDiacAoTKG0Nsmf1fy+O2Fcd1Ne/qQN0ZzhvLoRwj6DCXvGflEYoGu/du951sTUkJLc6dXHCh6Sg3Wqwe/u8oPUATviFSnpoqkBv/bPI+egZZBrmaTS5a29UEdRBizd/NKgTDJw/SFCV/EjqUGM2FTuPvbn7rSl0C4dD6r+4OpZsa1MaZam9oj7m7pBieXjQqqCYLBuel0xwpLmwrOF2tQSKTfmy0TsUQiednVe9/JMHOWGH5mfy7+wdHfdpM1SNRDQ+EOP/5q9/RQWBWJfIlDFLZFyofAHYpn+uF/b4plmTYHqb8fki3jyP3CmhmgUUuvFQRlKxP9XEIGVA==
 3dsky.free.	172800	in	ns	curitiba.ns.porkbun.com.
 3dsky.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 3dsky.free.	172800	in	ns	maceio.ns.porkbun.com.
 3dsky.free.	172800	in	ns	salvador.ns.porkbun.com.
 3n3lngk11lckmf1bt47o39ifvn42slf0.free.	60	in	nsec3	1 1 0 - 43D9987EVOVOOEQ3MH6R1CF0VH63HHHQ NS DS RRSIG
-3n3lngk11lckmf1bt47o39ifvn42slf0.free.	60	in	rrsig	NSEC3 8 2 60 20251003085526 20250829084509 43450 free. TCA98soWRCWqg8Q4z6bP8wDHBY6YklQ28HM5ZhUJxCboTpw6OLiidRVzLNH6cvqzkc3JjSr0SlAwIIEvPwm+tHmAhUV2keBKdK9QwYHUmZ4rL50SUz3J+gV7UXPSwcMivqPvpruiHWwzpc4PbKFJJapSjibTMd91i+ASNDJnOgvvDssCLwkMDQXyqCNsJ9dbFd9FMpFWpSrN1ztdghd7XGO+DGJapRz5KU6HVaX6Ck3+cDPmSKis9MrBZHE48vpgZgKmeD7bRlJ5jkHYfTZdU5PyNG+7Y1WH0cq1XKfsMnm7Q49HUvguLO0gQOC/s7lZYd++CqUOBmmubwa/BlA85A==
+3n3lngk11lckmf1bt47o39ifvn42slf0.free.	60	in	rrsig	NSEC3 8 2 60 20251010083835 20250905075526 43450 free. EI+QXzUhhhJpqn5urjghlCzbYZ4EmIzDZzius6loEu4Cfj1ka1FXKLoMpOCe9bLGf7GVu5DZDK00go5/lM0BLMrxy1JEnZDle22ya3rmD+JeBWuyL2QS/UXjJkC23WeR986dt2w7H/PrfdmaXlP8DBLdg8ofWUe/cOQnYPPbzmi09te39WSjcLoq2XwiaodVSyckH7C8+4z9SzqazU3kAYIAEuCAvccXDFSfyxDaRtTRHG0xdnghjG9eNddX4WZP+l6XuNTqWcG6cEjAu3wOn/2Ea4iha+QuCalv/YNhewg+w02tjMIzZTH/yN3ihi4iHPnIB9QqDPYC/QoXMorRaQ==
 43d9987evovooeq3mh6r1cf0vh63hhhq.free.	60	in	nsec3	1 1 0 - 4IKHNPGHSIN27G65Q6V33USG0AAKO776 NS DS RRSIG
-43d9987evovooeq3mh6r1cf0vh63hhhq.free.	60	in	rrsig	NSEC3 8 2 60 20251007195515 20250902185652 43450 free. A0C3kgKP/DeE1Zqqj9rcVYdWl4eFqal6vdHFD16Fyh7UthOTsAuoa26wYIwl8OrESnux9+AGlZPPG5yujzZbJYI3OeZXY5mlK8UCD9gANsquJMl/BkXrCLVIQvkEY3YQ4qun53zV7Kv1TOn1/Irp+XnwsgYfVVyke7oos2LFYxi/RlBQCn+9OKTMoaMINo5oSO2kxnRaZpt0MitU24MvtznzEPPyfmodjJE3CndxjCTuQkm1tz+rJVyvIoaUeWfFvUrNKHjW4HCa0L//2wR+ETtjQbFCE7YiYQJcY/Ed0Igt4Qqp/G4TbCv7U0V4cOidlF/0zMQYl0DPxtFIMb4kMA==
+43d9987evovooeq3mh6r1cf0vh63hhhq.free.	60	in	rrsig	NSEC3 8 2 60 20251014185643 20250909185515 43450 free. Q7iWY3JkiVNt5IbDoc4admFQxKdKBxldGHi35FYbRjJFQGmsHeZ/WbpSefwHit4sy8skPoO0h3Otc6tUNdzKvEnFlCBej9eeOL8Sn2OL4Ui35bWumhBYtO71HniMnU0i+1T2xeixt2PcJ1Z3WHQF5r0VxAormlDYFgeO3aYU0Bh1EfH/1KPlPjWbMvx3JxPnZ9/ZIrZlQM3JbgiBPVIjqV1Skqf3LQIAKgd+pIAQUlFcHxOMGiRimHbRKBoTgj8UZrfIaVAY3PCZ//k227bAtBTtwsjSGzHcqdmdG2W0D3Xm8kcOO01H293dbEb11TtvkE06cZ5uiTiMDy7psjj/1w==
 4ikhnpghsin27g65q6v33usg0aako776.free.	60	in	nsec3	1 1 0 - 4KS8EDCMG50T2GE03HNC3DFFJ8CJEPVR NS DS RRSIG
-4ikhnpghsin27g65q6v33usg0aako776.free.	60	in	rrsig	NSEC3 8 2 60 20251007195515 20250902185652 43450 free. iRSfP1Z/UlmMCX/fdisdffcalDehjXN2sFmxxUwAifqRieejprSuoyn4nFQceD0iB3aO3wpQ8zPfRpNebM6lxF5/6vcmqMXTUxs1WaJQdHy97Qj6UPnBwc2KRn9A9wNNFA3Gwb4yh2Q6bnimpy0nkTAKouIHoYLMjBycPM0NXfqvYUB6uTuH8pP6IXiCjWwR4vS5+8KSyOxlNs3Jm9/e2Lty05vHgj983AFiZWYulQrhO7sxNZx8cDo1d4K682zWIBfGVyTG74q6OGwr+IeaSw/YSdL+oS83riOfA1JE7OFyy16hBkHub0Rp4hs/S3wB7jTLUzOhU1M36LsVlOZjCA==
+4ikhnpghsin27g65q6v33usg0aako776.free.	60	in	rrsig	NSEC3 8 2 60 20251014185643 20250909185515 43450 free. XjZMOGWEihrqGuSc9QYMm6tjHjQsVyhXYKbmQ9jHzQaNAumYPsZm+fA0tpB414ZvyqThdPaHEGsJ8y/tGsGSVgcZV7D7j/EbydZb9FQCKZpdRJOaX5E4XXRf4POJCnWBLHRCTUxEqaYH9Th8Lfqco2o0daWB4GcrCxvuPFSmbsJEHiP0S6p2B/nuQG5Q4KVqAzdqnAOOrLoj9sEdjiYn19YHa/db3Z+TmqDNKJCyTG8oBlEc33AJIgsKNQTUQSPhv8OnPiGjLQFGy4R+nqsJkNo3SEOwHNOXpLxf+Zt/qnXsoRLTaRUgqvIiXa43YY0OLB5HO93VX5sfvp+kU+/PqQ==
 4ks8edcmg50t2ge03hnc3dffj8cjepvr.free.	60	in	nsec3	1 1 0 - 50186TTFFK2UT1DUMU0L36A6L0TAD06B NS DS RRSIG
-4ks8edcmg50t2ge03hnc3dffj8cjepvr.free.	60	in	rrsig	NSEC3 8 2 60 20251003162400 20250829154452 43450 free. UONpqsRcmMumGrZHzcpemKwZe/WDdJxdZXv9nrPbHtlnNkPwdVcihxpiq2Vi3Q5XnRJpO2yiwahbQw8BHW/FZ4IsznBBRjeMfp0mmqYrkYMgmQ676c6XSBNwvC/STCBwBnFqI0R0VsmNCNsikXObTMs/KJUMuFpXFwFtn7iI1sDOOBgQb7aOBD5Ii4mn0sLc3gqoJl+03mo9vRXGkt0IT8Sv25zs1KaRLglETjoav+WIijLcYOIKkEnv1PosXL6BQ3i8cnlCQ/HSKOnHe33Ag9GN608eSgn7La+ZQYYei0gRz9C2Gr0H9wERlj+TbQlaQBDIMRjbX2jT3vjCmDCYNQ==
+4ks8edcmg50t2ge03hnc3dffj8cjepvr.free.	60	in	rrsig	NSEC3 8 2 60 20251010154657 20250905152400 43450 free. JGykhWVRtw5O5w1hRSoF6YEM4QtnUAW6ni3c+j4l5PBChhnZurpaxmOlUsVWduZHEOald4Vi7xkHvA8aPe1tcgvXAFm17td6Bew/lUvUOcTQl6vBqVGTb7X1gWeNGLbsO3M1TIwZyC6qLrjx8dWdymG+8a/p89ZyOiO/S39yimH+AJlbn+WFGZlSSjNSxYpxMQx/4BslO05256cdmuJscFIJ5b/DT+p6SzKoU4xbEdQEkFbW+ee3abCLksfXiyRILQ6Gg+twqQar+ATWsxW9amdps5KainDxND3hQo1rnXnnBJ+EH58Fc9v6rb0XnMZxf3JSQuH1v3/sz/GFJZSZZQ==
 50186ttffk2ut1dumu0l36a6l0tad06b.free.	60	in	nsec3	1 1 0 - 5HGPKJ8MDJKVRK3FHKLFT13RD7CI2JMB NS DS RRSIG
 50186ttffk2ut1dumu0l36a6l0tad06b.free.	60	in	rrsig	NSEC3 8 2 60 20251009034209 20250904025849 43450 free. Z7F8VOoX3OD73tr0eYgbDdo5pOMuxzipTAEFquFhfx554Z7WHla4JBAKli81eM6/LtAy9edje2y4Iw5EvDtCRxckrWPeNvQTLIpl6FL0mhI6/qcJESoQGpmOrnjKXzSwUH8KuQcptfldB/VC2nyR4eOMmRajeOJo5Mu6t4xiPP4p567qYcaNdePRUASId0p83FP5bSAfA+gsH2EOVuxKVSAluVkVgO1rmr9FmmaOUi8zSCf2B8CAN7HEj2eMtngNtc8rzKXpEfETTKUcpX7pYLMbTYG3f0OXXQ46inHE5eTh2MrW0kuc0BZbGNPuE7moZxamefGd3l3yw3Og9d12RA==
 58win.free.	172800	in	ns	arya.ns.cloudflare.com.
@@ -44,11 +48,11 @@ free.	172800	in	soa	dns1.nic.free. hostmaster.nominet.org.uk. 1757026463 900 300
 5g.free.	172800	in	ns	ns-250-b.gandi.net.
 5g.free.	172800	in	ns	ns-40-a.gandi.net.
 5hgpkj8mdjkvrk3fhklft13rd7ci2jmb.free.	60	in	nsec3	1 1 0 - 673PLSIEU33B9T09KGFSJ4E1HI22032H NS DS RRSIG
-5hgpkj8mdjkvrk3fhklft13rd7ci2jmb.free.	60	in	rrsig	NSEC3 8 2 60 20251006200733 20250901191137 43450 free. OwmuZ3n+rwIuXzarneFO2MOAAfaCFhMgCFjHVCfGTyelfvHck5U5+L79si/uh0aNRl1hKtJPNeekhYx2aVg6asXOH6WMdizjSSsZC6pd0hI26yenTrYG7nEnP9Jb4IKAdZMa95DTZH3fI0fYCvHVfIxVRPNTNfUCGLgN4cY4sI7n82Nl9CgSSFF7XfLgbmOb9SslKLBcxV/j8S/JrJ3NV/B6UgmFQpnxpo022kzJ0UHadQGiM5TRrnAEYOypl1moYAeUrYnJPEFWTxKc6/xJLWNuglBsptNwhZCopzN6X7qLL1AS5dP2BTDUDzPqoxXBN6o9kjPPQnBMfUgaLWMikg==
+5hgpkj8mdjkvrk3fhklft13rd7ci2jmb.free.	60	in	rrsig	NSEC3 8 2 60 20251013190814 20250908190733 43450 free. g9Yp38R0ibf39rk2L3A6p6SxiEMVuCvgd/Xp9+K1Z3OVetx2YBtZZvz6lyB26PVf7ZMNpoKquObnY6CtNTDr3rXhqHADJSovqmYRMtP/IBJzUaD3IJmLJzhXBgCmyf8nZQzYKxEna3VS2kyVyDUE6vn67Ir0vD/7kbSmYVmiPAJHPKp3EfxU6DJLWwTw4vKXfo3kt0ZSSlxseIkKdHZ0FgGE0Kjrq9fd4wuuTvTD7TkYkch1l7nAzTlyEzuQunXgSrVfuEy2qoR1+wL87J0xbbPtGdysdpq+6gsDCxTvCZgvNGqzk4ZDqWz5RNp8TMngaU9Lajrx/4rYSe7QUmkhjA==
 5movierulz.free.	172800	in	ns	ns1.google.com.
 5movierulz.free.	172800	in	ns	ns2.google.com.
 673plsieu33b9t09kgfsj4e1hi22032h.free.	60	in	nsec3	1 1 0 - 6R2HB1GAIT9OLT0UB77GSGKK8S06U4SL NS DS RRSIG
-673plsieu33b9t09kgfsj4e1hi22032h.free.	60	in	rrsig	NSEC3 8 2 60 20251006200733 20250901191137 43450 free. gaQrHSn1i7VzoY8Nn+D9thWlOjJiZDoMOr9gUj7rXmyCnUTFN6MEAQcyU0jwNMzTVIP/fnTNzHPF9TlFAm6RwiCeHI1DeVFt4Dss/dXwgvotUPTnY7basTtoN3sROOJyduieQIXYHiKQ6FJHKW027yGs3GGfPTXxJXygmsn4FvS5PdzgKNmYObRGXGU2iDjLE/F/AXAR0E53+Fs6hUUwZPyfI5bvdW4KRBsaJ1IczjfHFSRLce1+J1vaoPB0Tt6YxPNrIBSODu64tS0eBioXE/TnvPAkhDbCt5DTyfcZ9DdLIUSjxh/3IbZfdAahpo3jW3N7riqtgN8PzyoMTul/oA==
+673plsieu33b9t09kgfsj4e1hi22032h.free.	60	in	rrsig	NSEC3 8 2 60 20251013190814 20250908190733 43450 free. kwZbr+ATWKCp5bOruR3wOhFtFdiOj9CxzRmhWedOaUGJwv+3Lq2U6D44Bs64iZ8WaZd3VVe5+Yd4QTlsUKuqWumyfI9iRmZM2ecLc8R1Bu182zzrwkqZwVNBngix4p+TIAuOKjNwPtW4bWLJAUYI1PGCezcvZeHmq5LV4uN8LoFZ40xIgn1u6C4vitpmyiwywOy7epEsvCu9XAV3t/1/Lcrr0ZP2ncPc6pZOOQMsECFAt1LeDJRq89Epu9LIvPp5fCcw40S9qHB8/U9Qag01Dbd6Kl+6hMDE6yiShnm+HX1H4pfe9E4UqmL0YtGWXGncDoXtLz9jot1uno+5Pwjc6Q==
 6789.free.	172800	in	ns	dns1.registrar-servers.com.
 6789.free.	172800	in	ns	dns2.registrar-servers.com.
 69vn.free.	172800	in	ns	beth.ns.cloudflare.com.
@@ -57,7 +61,9 @@ free.	172800	in	soa	dns1.nic.free. hostmaster.nominet.org.uk. 1757026463 900 300
 6g.free.	172800	in	ns	ns-2-b.gandi.net.
 6g.free.	172800	in	ns	ns-92-a.gandi.net.
 6r2hb1gait9olt0ub77gsgkk8s06u4sl.free.	60	in	nsec3	1 1 0 - 7H7N6JRAD8LFITDDJP7FBG21MPSBUG56 NS DS RRSIG
-6r2hb1gait9olt0ub77gsgkk8s06u4sl.free.	60	in	rrsig	NSEC3 8 2 60 20251006225545 20250901222209 43450 free. IX1kAU5+AEWb3bsp4rz15s+S+PER3Pq2kVY5/QhDrALqItkXSBULsgDQabuVyunffiJl+HqRPqVWygwPzxkMks0CEzLWt8c7NWA87S7my4EIlWQU+8PWyyZAdM5rrrJNn4MmUY3j2BuxzhYf7HO6bDy970vXHNI58ptWiMtSJomCLu++Aad1TfhBREu/B8qLMnUbG2So1qtonMjaK/gwHer3thT2zt+V4gdF9/J3ChAmtEZKoqMS8h+M1dtYa9abQnCA644iCS4UBHGewerX4sE9LWW0KFDKLk0xsl1zSgaTD4LlhlCX1dS6t9e5i6abg8oUUJAUWrmWlQDcjbYDow==
+6r2hb1gait9olt0ub77gsgkk8s06u4sl.free.	60	in	rrsig	NSEC3 8 2 60 20251013224446 20250908215545 43450 free. geK+48Imlu8OKyrYgYa+7VHBfmCsoFsAvvtOzKQuFcNKb7IlYhzq3U3kIFWWhQNESrY/W4SH6/F+B+ZYHVbiv1eUW9kdrYgG297dKDPPyMq0c+ohZE94pLstLO10usFvcPc1R6ZoziJyfl1KZcKluY1ZtU1OVn84/HAeCgBqTgoe4CwiDlkChylL9jTVA2EJ8ZN6EdPff0cOLpvrr4RJWquZPSa9QHvlcTVCGFlyYKlN4RVr2VauuJDtyG2UsHasDlf/H+0wamtoyKmHeGR2AliYXQjbX3mV997JdS8qEwzEuYShGGw6YT3yztQWVHmgITGxHLfItqIAoUMw44u3ew==
+789bet.free.	172800	in	ns	benedict.ns.cloudflare.com.
+789bet.free.	172800	in	ns	kinsley.ns.cloudflare.com.
 789club.free.	172800	in	ns	ns1.dyna-ns.net.
 789club.free.	172800	in	ns	ns2.dyna-ns.net.
 789win.free.	172800	in	ns	cody.ns.cloudflare.com.
@@ -65,7 +71,7 @@ free.	172800	in	soa	dns1.nic.free. hostmaster.nominet.org.uk. 1757026463 900 300
 79king.free.	172800	in	ns	leonard.ns.cloudflare.com.
 79king.free.	172800	in	ns	susan.ns.cloudflare.com.
 7h7n6jrad8lfitddjp7fbg21mpsbug56.free.	60	in	nsec3	1 1 0 - 84O4PBUO23MBUB4SDMKP2TT1PD6CQIFB NS DS RRSIG
-7h7n6jrad8lfitddjp7fbg21mpsbug56.free.	60	in	rrsig	NSEC3 8 2 60 20251004064914 20250830062440 43450 free. PJ+4sq+ZzjuA3sdpKqEHsuLRAkmMG7Xj0QlPv+l4eChKlRLQNIoreYA/TZuaontK/rnJjTS4U2WUw2HFRq1apDVBou0FI0VpaXFum1YAH2cDbakeiJr/CfcNMVq6JNrZz0uec2E9U+le2EQuxmq1bFGn9qxL7Y+bU2bRafgVBhsduzvP+NRzobx4HnlIuPDFviCbtuFCoNf39LGzWCvjNEC/0CxdE+JFA53LViFG9YsoMc6MG0bc48cG59dD/AlYy0ZrXlVawFGuziPCYd0KGRzUeaQfJsKdGltZkdpSeCBaE7lqc7om6EVfS85Rh6iACnEA4e5+qQ9L7LmgEB87iw==
+7h7n6jrad8lfitddjp7fbg21mpsbug56.free.	60	in	rrsig	NSEC3 8 2 60 20251011055324 20250906054914 43450 free. ALi7OdnJEJW1VVfvRCrnoAchFMZ2eppBY/YeDt0XbIyYMcu1iU/EceC1qVNSIKA5YMVth6ceNTa1Tl+NszL1Nb0whpPZzSqfL0lMIfe+k2SHbpXETQp7bN+eUV4aoASz4msaK+5v2IsqEYVrj9UH5wAkYzv0FODmR0x01zvsIcEbMP7HB76hgSlSAUEtz+nIIKC/JjhKL4PsxJy8EyyZGcQVVFw5n3OWEsN7XNuzEN1TGrHt6MpWBxqINfR0lqkGLq6TXxsSM7jPrBHvrvMsXHpRLUYzTXNvU5fEwqgjDCtVk1SVShba2ylELv71F4cyh3RUlsl/uquNWknTNig9Xw==
 7thcup.free.	172800	in	ns	dns1.registrar-servers.com.
 7thcup.free.	172800	in	ns	dns2.registrar-servers.com.
 84o4pbuo23mbub4sdmkp2tt1pd6cqifb.free.	60	in	nsec3	1 1 0 - 8JOOHE7T8VRGH2HCLHPB16QI4VNLI0IJ NS DS RRSIG
@@ -77,7 +83,7 @@ free.	172800	in	soa	dns1.nic.free. hostmaster.nominet.org.uk. 1757026463 900 300
 8kbet.free.	172800	in	ns	christina.ns.cloudflare.com.
 8kbet.free.	172800	in	ns	sri.ns.cloudflare.com.
 8lm37ljp6gecb2g2en36q9ug5admt62g.free.	60	in	nsec3	1 1 0 - 9EKMIULOADMKQR71BTNFKSASJ28VOJQC NS DS RRSIG
-8lm37ljp6gecb2g2en36q9ug5admt62g.free.	60	in	rrsig	NSEC3 8 2 60 20251003104643 20250829102449 43450 free. Nutd6aR34+hJhieOGcSmZrFqDkrTik/9D9OmtWJx7KvqwocoysLj6xWQQXF2fdn6I5CP3tYComaJ1RSVir6W3RniIvpNTOa6M6SPeWmBHrdzyd5eyViDCGtenqGIQMLeSc+T6L3wUYTApOtTugRQgdsoQ0JDZH4GJNI7yjL92aGiLxMLL+L1u451W9ueYG0JnHk+vqrF2EalSDgREM+shWtHpLQpi+sTc+9jVI3gNE7Y1vOGEDdrs2fAJKBKXwLwWWVFzWfHZcqzunRPHDXE0eyiUiuoGg7naoMXQ480PgzhSuwd43LKygdZcpgQuDgcQRu9LgVApO6sV9o7cep6Ag==
+8lm37ljp6gecb2g2en36q9ug5admt62g.free.	60	in	rrsig	NSEC3 8 2 60 20251010101432 20250905094643 43450 free. GiRke31mAMJUrpJ/lNsHtqY4TYNruRZrsXl4ALv+6i3qmwnQzeqU4+ebWa8aD+BNUd0KMZ9ionOXlmwMs+nFKIxk0V3NwMROYSmz5naoPHyyyEkxPbmh7P213rGK66IT4PKSjIBJV1rZolRruZa7mbaZkTlpeSRJTTqBu9hsTYe/2f17cyZkSW9OKrJvb4JR3cSzctzR5Sqg9QnFzlFL7aiP8exSBZKiZ4deapupzZI5y+vB2G83RcDL34X/xhOP0YICc/guA98vqfwaLV7TM2yB9QBXpb57NwxQ9KGNSMoCZbdD/Xul4EcQVRFwhj4LoupIriiVRqBINwUcO0XXUQ==
 8march.free.	172800	in	ns	curitiba.ns.porkbun.com.
 8march.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 8march.free.	172800	in	ns	maceio.ns.porkbun.com.
@@ -91,9 +97,9 @@ free.	172800	in	soa	dns1.nic.free. hostmaster.nominet.org.uk. 1757026463 900 300
 9anime.free.	172800	in	ns	dan.ns.cloudflare.com.
 9anime.free.	172800	in	ns	erin.ns.cloudflare.com.
 9ekmiuloadmkqr71btnfksasj28vojqc.free.	60	in	nsec3	1 1 0 - 9LHIUSCRGOPLBAHCBMPVOISO9PLBNUF0 NS DS RRSIG
-9ekmiuloadmkqr71btnfksasj28vojqc.free.	60	in	rrsig	NSEC3 8 2 60 20251007203951 20250902202651 43450 free. TLff84IMIU4AQqPu4eMtC/EP+P00BUhTUokYDLF7jjRQI1OQyhqrY4dSXWSx8OUw5HK3LWpv1fI6nkRiCJ7pUvKRFXpGkNaJ6oeipdHHtl1sgLkAzicuzEEvA+KakqQPTRkIxoHqX8WP+2AcpR/7l6hPrz/TitQzbsVaRa1IS6+CkiAzwvHiDFXAH0b6ROB3YQEjXfvzerSYY/UkHRCeCSpotffqvHzkUEsMxIi+F+KfKQ76JK7o9dZaMzxnvD75EKb9IwoOzKXciHsRHSYMXENf1UDj5AmMs2NgusNbULHjWt4S6uWa7Dommam8NyQ/kuqy/qLkhtc6DqCnUyy22Q==
+9ekmiuloadmkqr71btnfksasj28vojqc.free.	60	in	rrsig	NSEC3 8 2 60 20251014203116 20250909193951 43450 free. IrX9VnN4wqcLzQbM3z14h/tK0tToaJSh/kh/Dj6W7Rp7wIcFWLTNT9umsvFMIux4Dut1L1SrxL8PgjDdVxWueoebu9J6WT4nAZfT+NnPT1cZLzhmnVgcvJzeFtY4VWG/j9WEzncWsJ+0oxmaAarWXiGuLDqc3Y2eS2NYnzhz0ecsOg2cfZI108tz+caeDo0yEkY0ytmkTtA8qJwKnSgfBmPOyDvAZEGqrkJadLQGd5QwbKil9fvDdw8WN0i6NKzJfWUxrHOEv1GhwqY0O1kcfTHrNGPfpwZSgGWEkcZ83dCcK8CtEkvM9R79yLo4Qe1MrU5n4HD0uD2WPSaMu3cRJA==
 9lhiuscrgoplbahcbmpvoiso9plbnuf0.free.	60	in	nsec3	1 1 0 - AMV495JKADM85TMEU8H7RN8V3P2BBMU6 NS DS RRSIG
-9lhiuscrgoplbahcbmpvoiso9plbnuf0.free.	60	in	rrsig	NSEC3 8 2 60 20251006132326 20250901122721 43450 free. Lo/EMWaHj9vnpUgVNTihE/STYRSsFWhLSYPFYVpMq11D3qhvjctt+37AXXAHEcFRqZWfS4h5ZMnSFN3IaL9ic/PZGIsype4jHzvwcZgoETesyx6iblzZU45JozXUlLt6yB6wJz6yrocGxuM6J0ts90hfT5joyH6bUvBBsknE7cYmleQyESVInSFQJDvC9i958P3p3FGRL3uUCXwDBa8P4NUmyg4wqZqTzMg/L1QnxRMBCdKY35/gYWpDonlkmXDIyRkzdneTqQws9LWKC7s3DO+gMVW/IrlQ3CmqXkogQNqwpd86UOY2bt0Tzy9KIPDWO6hVN8ujXPfn38WeI9i+Ag==
+9lhiuscrgoplbahcbmpvoiso9plbnuf0.free.	60	in	rrsig	NSEC3 8 2 60 20251013123712 20250908122326 43450 free. H2BRsFu2bBJKF9TNmsWtoqpv+FSBcxBbH9Z4VLKEOzcdUAGT7JeOR+U4yPwOlbS6ZeF6MBJHk8ee7v4UpKhjOs0Yg89WoO7CnIGtNA4GobOW7poDiXDUbP/aDyhlMjr7AgiTnPctD1ApBKNndgBLt+VTOZFYru8z0rMUS+ea6E9SQN6uWtQTItODhTnC0p0YqwzGXJvheqOspC0QGXv8I7ZpSEcxN13XFUbTrIs7So/CJiHlweo5FO8YIo5JeLeQ7qLnEEBN2RasvxBLZghDVY1w5OUM1ajM3xXrxZQWvlU5MfykFkvQnpf6QhhXRI2EgTlX2B8FdJ4EQ/CWrkhovw==
 9xmovies.free.	172800	in	ns	bingo.ns.cloudflare.com.
 9xmovies.free.	172800	in	ns	lou.ns.cloudflare.com.
 abb.free.	172800	in	ns	a1-226.akam.net.
@@ -123,7 +129,7 @@ access.free.	172800	in	ns	ns2.dyna-ns.net.
 addon.free.	172800	in	ns	launch1.spaceship.net.
 addon.free.	172800	in	ns	launch2.spaceship.net.
 addon.free.	3600	in	ds	55902 13 2 0FE8F36F051A27076E298FA2A828CE77B87CAFCFFDA2575267F306C3346A1BFC
-addon.free.	3600	in	rrsig	DS 8 2 3600 20251006172358 20250901170029 43450 free. PVivisM0A5ussJIG17Y0oCAPNIndyACgX+cRCZ/2cGUk/iFs6z3rO7TfER8AS8FhGL2U0Rnua5KifgL+aQ4LooBq9KEKBMvSCEWUP7ABoapNd7BtbNOZo6awI0CLEjGzA8k4t/OrByb6KvUIgcv7mlutASVsePSLnP1rhHZtbgIidVpeyoUeg+wgx76W6CrDkC7wjqMHpq3sZmaPi2yAdNyMdFLS4OzTKeaWcU4llbck6z6TspQQ9AtRQSszNUy2545g8Vc8Mw8Ix/inIPJ0bsDGTTCjNaqjeZzx3qHEtTKtVLekYCrV+QPDqH2UTlvHQc2duE/POwm6Yzc2KkAOLg==
+addon.free.	3600	in	rrsig	DS 8 2 3600 20251013164249 20250908162358 43450 free. ereFMeG4rOF8DokBHBDFo2eL9wJ0fG6KrC+l0rGJ/yZfYtre0XDodSaIsPMq6VzIJo7bsjvWvfK/Gmf75Avpnhzd3swgN1mkTvziAlZ7maN6zK0lwciwYCybdw96g+uRKTl9jHehmdfls7dPfoPMg6FOqFBSBG42X/bhnC07oBidF7pxORvdZhAhfR0s6GZb/Q4dWerbAlTRZy1inCLxZ5SyfGdTWmn0AbLOUraRNZiM3XY0bVhtrSSWPHpVC4c1OEkKe4lwGnZZ6nKoHJHtxOkFMljDepNkvFvyeSjPsLYny1fi2YyRMjjJxiOunBlnqqE+YhrflJRxDHqy8Q+t3A==
 addtocart.free.	172800	in	ns	ns1.dyna-ns.net.
 addtocart.free.	172800	in	ns	ns2.dyna-ns.net.
 adiamondisforever.free.	172800	in	ns	ns1.lexsynergy.net.
@@ -140,6 +146,8 @@ aetna.free.	172800	in	ns	ns4.markmonitor.com.
 aetna.free.	172800	in	ns	ns5.markmonitor.com.
 aetna.free.	172800	in	ns	ns6.markmonitor.com.
 aetna.free.	172800	in	ns	ns7.markmonitor.com.
+agen69.free.	172800	in	ns	ns1.dyna-ns.net.
+agen69.free.	172800	in	ns	ns2.dyna-ns.net.
 agent.free.	172800	in	ns	curitiba.ns.porkbun.com.
 agent.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 agent.free.	172800	in	ns	maceio.ns.porkbun.com.
@@ -167,7 +175,7 @@ aibot.free.	172800	in	ns	ns2.dyna-ns.net.
 aichat.free.	172800	in	ns	launch1.spaceship.net.
 aichat.free.	172800	in	ns	launch2.spaceship.net.
 aichat.free.	3600	in	ds	32783 13 2 156AA242070D49824F07F0C215F6B8C07FE853747792C8325764535EF74D2CCC
-aichat.free.	3600	in	rrsig	DS 8 2 3600 20251007125338 20250902120803 43450 free. YyU5WNqZL1fDnnHU2RGBwHsG/RMh2JQHMq90oZj/w/fyZwhci3+W0DNpU8C7LtZuvr0UpgLk3mV9yDN2esHv4d1GbxWT3rx0QH2wvmEgL0rHrk5qbtGdNwWjwZuUFYduNtWM+4OiMtClFY9Lo8zlV+xKRzFMoZt41MeQ5WHvZvpK0SCTt6xuv68FfIXkJDKBS5A5YfZBslUaPurFzgG+ZZsgLG0o2D6YAoWjr4yjSYzvQrOd5cE5wFg4QnipcpHYSi4nq5Pst17N8GRLRbTyM27IdQ34VkAFbmEe+OdFipA+vBMpQO60yVjla9yak5Fo6ktQwugGAHnsMqI0xK58Bg==
+aichat.free.	3600	in	rrsig	DS 8 2 3600 20251014122948 20250909115338 43450 free. gHxgfQZAn4H7kyf0cwbeXx2H4NCp8aVxsfxuJaNC8B6XPZgkOsM8m/mN9aA+JJQ+6d5w7nWIcshr4MacDqnkR4XgvMf8k44rlNplpcSZCusJV1km+7hy6sL4gIDpH2aIsgZdyB6L76E8ZTh3ILffEeY/rR++hTMDBWrmdjxb1F8g2uH5Y0ksQIN80vVCWNz39iId6tEXUgDCxrMyU80JNmD+xdJQkIzfLjRVqpeSnEgrIfsNL95D2BXUIoZDg83Bs6Px1fUvKOfmdWGYJ4Tw0EXwruOGGeZZJX9h7SoAuJVZVvAjrTTUf3Df1Ins5Pb8YuhybtYh9lT+yk/sFMcgNw==
 aichatbot.free.	172800	in	ns	ns1.atom.com.
 aichatbot.free.	172800	in	ns	ns2.atom.com.
 aidells.free.	172800	in	ns	dns1.idp365.net.
@@ -220,7 +228,7 @@ aischool.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 aischool.free.	172800	in	ns	maceio.ns.porkbun.com.
 aischool.free.	172800	in	ns	salvador.ns.porkbun.com.
 aischool.free.	3600	in	ds	2371 13 2 E77735A50455265226D62C4413F10C7812DC8068E0C5FD0E920365EF6143A103
-aischool.free.	3600	in	rrsig	DS 8 2 3600 20251008004425 20250902234514 43450 free. CWTVgjzNN6Pbvmj9qicOnuKTS6J91sDNg+vP3HNmfqJ52TmdvGMLaAUsYB4sa4zyJXTHF5zjV+WG1fKQZ/FltmebDXBchERQKcS1kjcVXz/Mel2WBuTTnIXsjIbAg46TcKLveZsiFcfPq0zyDCpbeRGyNL4PdCYiz/ACNgMjEfrmuK6QlpBoukMds15FyuOn3gSeChZARy7LECQ3x6fuEqTwUinncWHCIpCUvEIH0GcH4x0BW8z+ynt50zkQ05d4jx0SUBKIhpcRAirTsWXcSpU63h8lSwUYkHIPp0LkpCWFdcXKTvEo2ieO1VpmpB77rQAPDk7h22Csh5xr1OTJ6Q==
+aischool.free.	3600	in	rrsig	DS 8 2 3600 20251015001614 20250909234425 43450 free. AZ6F7zsbPQCxz5V+VuNPbl3bc0TI/3rO59ak6OqANNJrm914RjeygjpZT6nzWa5A4X4//Kj8voYfCq6ndS4uDNyJsnjJUdk2Susc4gVouJ7aAz74BzX1x+07MTJ1+QDqeShdVUac5lL99mydtDaw3LCVrje06kQpQByb884yW3k0ttWXkS9NOyVG8WYZJyr8MN51legkGLG08eoqVNooq+nVJ7rNe+m3Udwp+krjalIqWRTxpj5NVm5SodMwsdS8IHkSWFvkEWpY53TrlSxN8YXjHahNGQKQKLn7jNJXIoSSw4VG5Bcmh2xAx9mOnRJRehF+c1xhKYwOGCJPjRBC4Q==
 aisearch.free.	172800	in	ns	dns1.registrar-servers.com.
 aisearch.free.	172800	in	ns	dns2.registrar-servers.com.
 aistudio.free.	172800	in	ns	ns1.atom.com.
@@ -250,6 +258,8 @@ allergens.free.	172800	in	ns	ns1.dyna-ns.net.
 allergens.free.	172800	in	ns	ns2.dyna-ns.net.
 allergy.free.	172800	in	ns	ns1.dyna-ns.net.
 allergy.free.	172800	in	ns	ns2.dyna-ns.net.
+allpaypayz.free.	172800	in	ns	dns1.registrar-servers.com.
+allpaypayz.free.	172800	in	ns	dns2.registrar-servers.com.
 allslots.free.	172800	in	ns	ns1.lexsynergy.net.
 allslots.free.	172800	in	ns	ns2.lexsynergy.us.
 allslots.free.	172800	in	ns	ns3.lexsynergy.info.
@@ -269,7 +279,7 @@ always.free.	172800	in	ns	ns2.101domain.com.
 alzheimer.free.	172800	in	ns	launch1.spaceship.net.
 alzheimer.free.	172800	in	ns	launch2.spaceship.net.
 alzheimer.free.	3600	in	ds	46557 13 2 AADB2F9232B097968E39F568B2BA8C8C37D1CE963FCEA0B69AD0E060F331E8C5
-alzheimer.free.	3600	in	rrsig	DS 8 2 3600 20251007140320 20250902130459 43450 free. HuR/4RrA0HBsl9fJGceN/cYuoZMCvLSrNl8BkQoNeoFilnYLKRuy9fMP8/7nQ6W6HRoOOrMLz7H0vYm+qegYp8WuZq6ZmmCwuExXLHZtJ+HvYRa/VO7gEeUzmVHoOmSJh70T1A2A6OfOM+pSlGc0jwf2I6aVkJhZ5jZGbccq6eGxOxskvi/OVPfAHRCsO33OS8WNaTGquvKeWU5FVaAPFW5CDSuUv01cW9jhM5J6HbMrBFEdYAFZ1F44gzWsJJgzQwsm622Eoy/7YuHO7msOap2Jsj+5TWPH/Li7PIZPdLKt0T8fZ2PEaNcjXSPH2lMDBohjkK5D7wMDmk+vg4TBHQ==
+alzheimer.free.	3600	in	rrsig	DS 8 2 3600 20251014133144 20250909130320 43450 free. XYwxJQltNoEIT8dyS8jx7C/DQxDqWXWQvPOeE7ZRcGA6tz6J7E3SoFVEq1HYelH9atLSE2yva2uscWijjbiTTnafDDXnKio3XlbGye7BXXQ128n+zb8cFC8bYbbFAZnlyCO8GdYoPcPQuczljP/gRqQfcTspUn/ToBWWqjVfgGstPm3jYisxyrlTPjz5g6CA/wpLbZts91LBRcuyZ50sL9I5iu+P8E0RvLHraj8jAnmJ/OIdNHGMXcnp3FaHXLhw4crqIL4BAMZ/kpfc+w/tXHB3NukODv3arnm6aeJOzfJP706g1QAgSlDLzbEWO6O5G9D+WAQ2eA9kYw5IbWL8FQ==
 amana.free.	172800	in	ns	ns.whirlpool.com.
 amana.free.	172800	in	ns	ns2.whirlpool.com.
 amazon.free.	172800	in	ns	dns1.comlaude-dns.com.
@@ -309,13 +319,13 @@ amex.free.	172800	in	ns	a24-67.akam.net.
 amex.free.	172800	in	ns	a8-64.akam.net.
 amex.free.	172800	in	ns	a9-65.akam.net.
 amv495jkadm85tmeu8h7rn8v3p2bbmu6.free.	60	in	nsec3	1 1 0 - AP2IBIC95NLM4ITU4LOOKA7P9QAG87E6 NS DS RRSIG
-amv495jkadm85tmeu8h7rn8v3p2bbmu6.free.	60	in	rrsig	NSEC3 8 2 60 20251006134459 20250901125009 43450 free. gIYIUUS6jywbM962gMLnwtz2Ig/FOs02brN4l7IyJXFRAVa/3ahfADMIvqHz03UaUXhIcWDeM+hnOAvAH8DtdED/WdiMPy67jamvBlmMmwpjY654yr+n8rKDVN0CnXKN6y+fNrLJMnFKfNk29n+11yOeUmEuKI9m0x0xaH/tyAxzf9N2aIrejUcKoWbEJ+NOyIz+oWPwEJEBgB76ZlKtzeLRh9LkTAwDKd6DPKlPZi6KRUHmWK8SegE44zvlY9b0mrxcsc1yCcpA3zRoCkToRVHuaRZHYJjojWeAWO0W69TJk9kkfyjwwJEInByF4rxsKRWazCfgrxvUeMRfByFriw==
+amv495jkadm85tmeu8h7rn8v3p2bbmu6.free.	60	in	rrsig	NSEC3 8 2 60 20251013134232 20250908124459 43450 free. PdOC9JwC1jJv+tnsxhM/i8o0HYlFcKCsT8lZcwlVJ14llCo2piz91+viJaaIokpTbdfbGnwFaS2McXJvZNaSR5ncRWD+8Pz21lyZ/1AgMu8EpKjK1RZxbeB+aMxr9KaBT0Clq1YnfEf18CJBOW3uROYVHvj1VYEFTpbBYLED/3oSMirwOdAJx9qSV2iJtC9/VIG8SXclQiOoapC7e4Xadx0fw5kW7YkKrniHf5238wQKxSx2IyWDaYks9gI0Vo4/bfI1tAkfIERX5/CibngaPZdUBCRoQwZleiGHMIca/2JfkRPTGYwJGwqjwke20dfc+JaU5eNLtTZP9PS4GcrVMg==
 an99.free.	172800	in	ns	ns1.dyna-ns.net.
 an99.free.	172800	in	ns	ns2.dyna-ns.net.
 analytics.free.	172800	in	ns	launch1.spaceship.net.
 analytics.free.	172800	in	ns	launch2.spaceship.net.
 analytics.free.	3600	in	ds	22184 13 2 9C20A2246A778892E22E9C29C37B3AF80517EBADD9CCBD8A41D6B283AB65DEA7
-analytics.free.	3600	in	rrsig	DS 8 2 3600 20251004085632 20250830082934 43450 free. Ae0mGVeq03gCs+NpmWjnKgiB0LWoW2z5pd2GG1+6g9RFDb0BPIGIyfIAb7AyNf3MKrmFt9HEPSL5jxvxU+AFqKifkoeD+UdyEv3qO1C1S+w3cnPOHRHR6tzizm4aE9DYLh3J5FOOsni1jbLWI6w64/trVdbxMSx2X4W4UPl0vihKhwGu6tSwjoL9X/+m5kWyFM5XTV12m9UP9K6EnlTk8/VcwHXYb8CGTP47wQMaAmDNyk8mD34EIwWgjF5gKexHwdh2H76IQqQua8Maz3XKbuHF51m1SOyoKDqSxZdfPw08sXhVYsJeVA96Atk5YSn0i0hT/j3ADnLO2XNd7d3z6Q==
+analytics.free.	3600	in	rrsig	DS 8 2 3600 20251011084506 20250906075632 43450 free. DZYr87fn8K5V2uoPrPlW7ZhTuasIUCN2ubiKOFbMzOIT8qA5PcrhchPC2SEEoKK/4/yH2ScJVQTZEFUmqGdOIMzJr0yol/eBfaKNkh5SZL9DN7ujSS+LOvXmYa5a0sJH3SW1P/1if0M1UCwzvmCW9BiVYR0fbUHUi+bC4ZS22Es0coJnZb1R9h7Fahbkl9AOAFP8/H6OMP5TKj8qAohaCmKXLs3VTRdQyj4Gqu3SwoRI9V3bYm+pZjrp/XN86JdV0VjtzntphmdAy8LC8S9V8vlA2Auzavv1yU539t44bUPuXABJLsNb8TELO7WRO4hqq9i27e5zYM/BKnsN3YZYVQ==
 animate.free.	172800	in	ns	curitiba.ns.porkbun.com.
 animate.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 animate.free.	172800	in	ns	maceio.ns.porkbun.com.
@@ -325,7 +335,7 @@ aniwatch.free.	172800	in	ns	erin.ns.cloudflare.com.
 anntaylor.free.	172800	in	ns	dns1.cscdns.net.
 anntaylor.free.	172800	in	ns	dns2.cscdns.net.
 ap2ibic95nlm4itu4looka7p9qag87e6.free.	60	in	nsec3	1 1 0 - AU10IEQ7S3PP66K70TBLKP66O23IFQQI NS DS RRSIG
-ap2ibic95nlm4itu4looka7p9qag87e6.free.	60	in	rrsig	NSEC3 8 2 60 20251007015647 20250902013912 43450 free. PmGEmFzAjuOuiPRGX9cuRUkB7INCUldRlV5CwX1OnD2RNPcxhR/oteNww3zK/c4chiVyFHoR45biv9+Q18OUDtzuUzgzIyANJFznnZcGTqlT90lutyiXAS9/yms9Q4HWsBqtMB3mobgemuxXuGTGcPVAr6t9CWv5WKB9hTU+Jx4E7iNySdgmnr/SPi6REZxwWESko6/1HtBzYPptiA5/lKQdwy1CXMAtPrIZdXmnSUbNkL/3fZfpJlUkP2DXgYfesU3no7LZB7hjmOOPsANI0/FmEZ7Xo2b0xNzgZaJ1J83r+6DHIvtO6Jgir68WNfzOY1i3rRq3fjurCcnH5aGVFQ==
+ap2ibic95nlm4itu4looka7p9qag87e6.free.	60	in	rrsig	NSEC3 8 2 60 20251014014122 20250909005647 43450 free. TZJ0amw5B5MlK6Yce0aBlwLS41LTjX+1W+TVsB6iJbNSjX49CYKXeO9RxVV1/r7H5w/tQIbhkTtJqsccUfR6dGZJVrrsT3pd2DEtftTkJv7eobzSWObRUbhs5R/mqIyxR7+IysbB1qJcrbMdM1avmpNqeVdhvHzMl9RJpUcpFDHLkBZPxL97ivrCed991zWHQrgt67FK1f5bM+kDhxGrVfUb29Oma0p82ZLY1/GmXvaC19LBoHuVISB4we0JQ3aKYBqY0FKJOjLAeshNmMWnLGTYwE6xEpEofKt3JMKqTARJ7D1PqSrpIjdpJx5TgPVqEJgQkmNnes7tchJWMHlzUA==
 apis.free.	172800	in	ns	ns1.101domain.com.
 apis.free.	172800	in	ns	ns2.101domain.com.
 apple.free.	172800	in	ns	a.ns.apple.com.
@@ -415,11 +425,13 @@ atacadao.free.	172800	in	ns	ns1.iptwins.net.
 atacadao.free.	172800	in	ns	ns2.iptwins.net.
 atacadao.free.	172800	in	ns	ns3.iptwins.com.
 atacadao.free.	172800	in	ns	ns4.iptwins.com.
+atelier.free.	172800	in	ns	dns1.registrar-servers.com.
+atelier.free.	172800	in	ns	dns2.registrar-servers.com.
 athanor.free.	172800	in	ns	ns-155-c.gandi.net.
 athanor.free.	172800	in	ns	ns-31-a.gandi.net.
 athanor.free.	172800	in	ns	ns-31-b.gandi.net.
 au10ieq7s3pp66k70tblkp66o23ifqqi.free.	60	in	nsec3	1 1 0 - BI3M3M9EGKOFOT7B8I6954CF5THSGG5T NS DS RRSIG
-au10ieq7s3pp66k70tblkp66o23ifqqi.free.	60	in	rrsig	NSEC3 8 2 60 20251007015647 20250902013912 43450 free. HZTaNj3EH6Q815ylFXAWvJDVsraDYjsPCrvgul1/nBLLY/RtOdGMtl0/X+ff3uOq3PVwn6dj+hXtdHezP/HjhgzwmV4AEGtX5MFKfMQMU1YVhr1G1ggR9tShwwP+Qq5kWzHyZTGn7ED8/e5/SO75UoTPYl/D/wOSHB6vGFK+iJdGz+fRRhApKBAceYXSimh4L9k5hI2F769F2m3THgiULPd9yMD6iLLBQ0N6Jq7rPCasVlICCay8T9e0XukDs3/hSQ/aGg8mYYjdZYtcaxDvQCPP6+fLpKa+kHOHBm1DB8Uz64NF2xeDNC2OCFcnQJKRALC56fY/8faH+OH0QVw+xw==
+au10ieq7s3pp66k70tblkp66o23ifqqi.free.	60	in	rrsig	NSEC3 8 2 60 20251014014122 20250909005647 43450 free. h1xYJsix6e06h/tosrHBogDlLphi/Ahk4vugUrSWT9EGV3Gi58bOeIucWILeJ2JpkHcUuOqcJENXIMclY3w7mu3lEmiGR0o8Ax+VHFzTtZ2wLFN0UEwjrBU2efQzE99VFx4K9DQVzNszaaDD88OklUWwlvGXPJzcCG/YPwbLolRb9j9ULBRYcgfnQJWmWrQIs1PF41cYWMocmq+QkgurPhzpZ1wTA0SLgeWRs/AYVsbuTbploUd+glY9D0M0A+oQr90B9/ApZS4fL09avZ5bxbdAWQHHn/zNP0WSojRBYfSpmcWwqjD3sQ8bSjWwogduAGg+4IxTNXvmzSi7QeQ/gQ==
 audible.free.	172800	in	ns	dns1.comlaude-dns.com.
 audible.free.	172800	in	ns	dns2.comlaude-dns.net.
 audible.free.	172800	in	ns	dns3.comlaude-dns.co.uk.
@@ -487,7 +499,10 @@ backgroundmusic.free.	172800	in	ns	ns3.netim.net.
 backorder.free.	172800	in	ns	launch1.spaceship.net.
 backorder.free.	172800	in	ns	launch2.spaceship.net.
 backorder.free.	3600	in	ds	7787 13 2 BE77396136F6C2DA4CCBFD18347E32FD4725B98EE2749D2939EC0EA17B4DEA9C
-backorder.free.	3600	in	rrsig	DS 8 2 3600 20251007042825 20250902041248 43450 free. YUjKxGEsyYpJ5f97QpAs3lNDBgi5V34Ei5EmMfDO6kPAGFowd8WEHVV/gLS6C+VopbLDX/4C0MdYmAD6LZR+yNYaNihIsAcuGtZn0f/MhS2m3T7FNfR+bSwilI3FInovGe8V/uXtOn0+DRaWvnIyLLFRwAPIyBppghPxC8RNy336xcnBdi22oeIVP2+qiUKGj/I6jnlVV9JTi6P48t5qOzU7zk6AeigHdFh/mpcy0JOlP1E64TdemKYNUsM5KdpNRSx3k+NAHWi/cfbNFyBIRL3Z1G/lQrsqeh9T8k2aK8/fmDpAuf6cOZEjvopi2tvQxWppPY9Xs+inWqX1isczHA==
+backorder.free.	3600	in	rrsig	DS 8 2 3600 20251014033117 20250909032825 43450 free. Nr/PLcQ4wtGXsQs/6aL6Xus0MVfVWaN7Iw1Jc2awto4ckw4CIZLTA02MfxKGVzNlzoDs05RJrgG5L53M2K6qzUzLy1ucrwlQzvHnYfEjp67Fj0fPANSYxB5/+YflxYix9DKUaJ20ip0gD47anJYLQD8NKQHV+yXegr9RM4m56i2VbTKt/DQ6y6f4SeHx5wVVyBP15WFgkSwGcokd9P2tdpSaj74HkeWdtawsoRYjE/514Fo5qfs5hj/hH5azy0B/Wpvu9kFrOGBggXQBfwQRyPzL4bsl8fOa4aSOIjOvIgoc0HLtlsVVMuriuksjSy2i7PnWDGfZrWNMYJbdPyoXWA==
+backtunnel.free.	172800	in	ns	ns-105-b.gandi.net.
+backtunnel.free.	172800	in	ns	ns-178-a.gandi.net.
+backtunnel.free.	172800	in	ns	ns-64-c.gandi.net.
 baeb.free.	172800	in	ns	curitiba.ns.porkbun.com.
 baeb.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 baeb.free.	172800	in	ns	maceio.ns.porkbun.com.
@@ -610,9 +625,9 @@ bhphoto.free.	172800	in	ns	dns2.cscdns.net.
 bhphotovideo.free.	172800	in	ns	dns1.cscdns.net.
 bhphotovideo.free.	172800	in	ns	dns2.cscdns.net.
 bi3m3m9egkofot7b8i6954cf5thsgg5t.free.	60	in	nsec3	1 1 0 - BI6L3POOKGTEV48TCDOM6DH2R4SO6SQP NS SOA RRSIG DNSKEY NSEC3PARAM TYPE65534
-bi3m3m9egkofot7b8i6954cf5thsgg5t.free.	60	in	rrsig	NSEC3 8 2 60 20251007015647 20250902013912 43450 free. PlC2sqd8m9z4UnZcCY45lHKRcKCpuFm+rifUaHKyOeebuEFvMiXnqmzme35PDRaqF0fZ8/S3u4q3wLdvK/s8zyPM/grWR6hwaxEtt1bNfqiV/leR1dflDMiA8Z23ZURTNlFNSesWz3G5YqTk8SKkJtug4loxDwdaCp2+owHlwyMLho/em9eUNAaA23Cig8ZKQs6w65s16SA+b/EJDl8+vUn1CZna+jDRJ++2MpE3nXttZACh0SgxFSWeGXMuTgP25qFBWCv5w3MmQ56y/mAkisbBB6buRxixUzko5LAAox73/+uyae6GXXrKXi8TSHAbRqGeq/0VnMCQKxhP9/AwHQ==
+bi3m3m9egkofot7b8i6954cf5thsgg5t.free.	60	in	rrsig	NSEC3 8 2 60 20251014014122 20250909005647 43450 free. Gd2RXTTTvYNkOMMwM/76+zo7hSI72lK5TJb7JuBJ3c4SExmMwV6oQgbvMDriNbBTf32mv0r/X4PB9yN2u+HQUjJkOOuSRlSuO9EcLsxupej8K+xuFWBawrfSGXi+5cWoiWSjkPytZTObbDHYE5UTfiL+52XZtufXCAzOeG/gQfwJrcfXj4gkrVB0fuubf8UkHTtn+4gEkX/u4azHNX62tu9zJ3QNvK7FkIkKIyWENzhJ+dwZrI/aW5Yb261PU0o/HxlM5rCCQ61THWYuenqTidUFPWX3a6Rn63B8FZHadpYc2DwFMK2O/Meg98/iOJRTyHofBiHpDN6YRz5Zi2Mr4w==
 bi6l3pookgtev48tcdom6dh2r4so6sqp.free.	60	in	nsec3	1 1 0 - C0MQ3J31TJALC8L92UM3J8GIA50BPRSF NS DS RRSIG
-bi6l3pookgtev48tcdom6dh2r4so6sqp.free.	60	in	rrsig	NSEC3 8 2 60 20251003111353 20250829104414 43450 free. QsnoDyMkKKYjGNke/lbMntm8T/E4lUwSJ/VW1djHtij9O48iWQyscv2Wk9GNECM7lF1fHviKWfQVOneowzUYWjz3G3c5Nt8mmMhDgoBLLDPLOL5/3yO/K9yR9kn0L2W9LkQTHRcV3rKhhSOCElk9hqxHkVkd/hPdn0/PJALhrSAL+uXMkv3rUEmdxWVMR3rnbSexnC/5t1n5wL4h+8MoIM6MZHALC63NoQKv/jJKhqV8IxIRwCx0gOBtrybipGUA/rZFPlOriNEG2QTIBIYonQUlVZV8BvzV6PjPnkhuj+KyXyNGiswRhZpr1h79eWpIvsZrxA3uEhPAuEe7QEb8nQ==
+bi6l3pookgtev48tcdom6dh2r4so6sqp.free.	60	in	rrsig	NSEC3 8 2 60 20251010105449 20250905101353 43450 free. GQWPjldTCQPEnXwuNoQCl2T4rJJ6drpxmV0QszmpS0NjCb/pus/mfvz+PamqxaG3D/vtdzAc19ypBlatz5JWDMr6ZxKAWfe4vTUNf/Nkd47BPlsrswnlJLI3PrwZnQmZ+yjygUECTgoHLs0vi6fvdJ2ng72+ZPPZjrL8SqBfKmhEldB4PMu9XZ/bjNBr+ONtTQdOCUw6R5122fhKMwS9uTrADhezrnY5qDAB7mxq53mdKHS5F+clezOGQYF/gqKcE9T+h4ZrPUuN1gfFQV0IA0Bd4Se6MW1HXCaO30UTs5+Uw8bUAIRU3HObP6TlKI9SHabFoXS6KHZRwBFxJVOc+g==
 bible.free.	172800	in	ns	dns1.p03.nsone.net.
 bible.free.	172800	in	ns	dns2.p03.nsone.net.
 bible.free.	172800	in	ns	dns3.p03.nsone.net.
@@ -739,7 +754,7 @@ bloomingdales.free.	172800	in	ns	ns7.markmonitor.com.
 bluffcasino.free.	172800	in	ns	launch1.spaceship.net.
 bluffcasino.free.	172800	in	ns	launch2.spaceship.net.
 bluffcasino.free.	3600	in	ds	32816 13 2 019C65F7D455B4C19559AC3CA81F84A18D89988786CA7ED4A6FFCDD5650B78F6
-bluffcasino.free.	3600	in	rrsig	DS 8 2 3600 20251004142634 20250830133814 43450 free. Br2s8/SEqeXbTDFIUqgX0C+DMvHr6FeF+BJOrqblJKILz3R1eMHung+Pfa/v5sSXIhUQ84xgVyUpxLt/wIXpURYhnM5+5pmT/brfivF8dZDiZ9KE9Csn+QrW9ijqBoN9Jink3+dD/wA8THMVWh3yPGCHZQyNrwHlNkEqESw4JYH6OahUJu9MFNnr37AR7HmQqFAGCAvptYb5s5LEB+Zcc4NUAhFr7tgdzNt+qL8F2bQ1BRjgMeDuK+ek3rUjegb2Cn8ntdb3fTdj6cQUqpuRSL2sfr/cPKOLB/zbtVPaGkuR58SReRN35VLGJI6IZtP8j+eJUC4PwihiOMRKcOBYvQ==
+bluffcasino.free.	3600	in	rrsig	DS 8 2 3600 20251011142558 20250906132634 43450 free. GVJE+mpP3QQcGgRY/+1GgET+Wqoty7qFl+YISVbYl34kSfHIHY/yGYQdf7vevS/054Jc2IxhTWJldgp1iCT5P3xBDhuWN1cs7TuMS1OyjotK4BuE9C2El/K4nRWY3GQvLC5+EysDoTKtasiVCZS8ug6Kg1QNYzAWAdblTst6em/O66ucj93EDGHu4suYVGAT519FczzCv8tt5/tD6ekVZe+Ceva3W646Nw5DMCocpEscPMzgOnham7hKhsOVNSWv61pztjJJ8l8/UYh++FOU4bsKpUWGqHVcN1DQgaUCvtfPdCOMGNncw9dbj+oa7cRxi//xkrB9yeT8ATNI0Rbb5Q==
 bmicalculator.free.	172800	in	ns	dns1.registrar-servers.com.
 bmicalculator.free.	172800	in	ns	dns2.registrar-servers.com.
 bnb.free.	172800	in	ns	ns1hnx.name.com.
@@ -754,6 +769,8 @@ boostcasino.free.	172800	in	ns	dns01.dipcon.com.
 boostcasino.free.	172800	in	ns	dns02.ports.se.
 boostcasino.free.	172800	in	ns	dns03.ports.se.
 boostcasino.free.	172800	in	ns	dns04.ports.net.
+borealis.free.	172800	in	ns	ns1.hover.com.
+borealis.free.	172800	in	ns	ns2.hover.com.
 bots.free.	172800	in	ns	curitiba.ns.porkbun.com.
 bots.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 bots.free.	172800	in	ns	maceio.ns.porkbun.com.
@@ -788,7 +805,7 @@ breitling.free.	172800	in	ns	a22-64.akam.net.
 breitling.free.	172800	in	ns	a24-64.akam.net.
 breitling.free.	172800	in	ns	a9-66.akam.net.
 breitling.free.	3600	in	ds	24447 13 2 62F5D14B0A53E715D4F7D5697420E6DDB1D377CA76CD693BCBCB8087B0F8284E
-breitling.free.	3600	in	rrsig	DS 8 2 3600 20251005052917 20250831044443 43450 free. fRl+KHBzmQt3EKbNhvOjBKgHQDwGZ6TZYeliQhneOAWqMZuPHOs1O+hprzBRcZIGHgkrE5Btyxigbel9LQ1hV3hPSoCXKe49xA9VsOAapH32FB2RdFfYTsmNCmwTjgJT4kch4Ebx9RLSniJfLU7PoFM8heFzCh140Ikyj3Otavd9JgTFgMpl2dy41NJpeN0vcYxaGJdNVIHkS3n2G8uNXNpIjoKQuEfNMfDuuFg1+0HrP0U9EWc4dVQKrI5gLR6S+ghOQbwzlVEEXLhE97a7Eunbhm//JSLtr4QD5mZDQSKryv8JOfXlA8SsXgWuyTSOeZfyswEAynLb3LCJ6LZiQg==
+breitling.free.	3600	in	rrsig	DS 8 2 3600 20251012050853 20250907042917 43450 free. gFpvnU7KkpDzx2KTcztaEAqFtawLqZebDlKUuv67ILK0zUngkMTgyW92B4PSVx391iRn/jzRgov4g4UQuVrXt8z6p5VCwKBrRHrT69q1WrvoODZBZZLAs/QCa0hfuWMTAubGCuy9g6EwzMEjPhoeHud1bzEAgYmJs5KbYHp0D4RvOHa1F1MV8D1LoycUDBeYbxnmjSNs6bYdOl4VYdry/iJQD/vUEI8GDFau7yRjPAJDOqbP9tMfZO/B0X0aAsSPYMAlyJTWDn0ChpjI2C0hqPcZsqGY43+WggXklds73ThFwK2Al5VXZIiXaG3WjebyUHaEagFzMgTr61Pg7c+Q6g==
 broadcom.free.	172800	in	ns	edns161.ultradns.biz.
 broadcom.free.	172800	in	ns	edns161.ultradns.com.
 broadcom.free.	172800	in	ns	edns161.ultradns.net.
@@ -828,7 +845,7 @@ buyandget1.free.	172800	in	ns	ns02.hostnet.nl.
 buyget.free.	172800	in	ns	launch1.spaceship.net.
 buyget.free.	172800	in	ns	launch2.spaceship.net.
 buyget.free.	3600	in	ds	64250 13 2 A6DA9DB1229DC2F969DB3A4F064F6FE2A92A15F6C04C335CFF5C0FDF1BA580BA
-buyget.free.	3600	in	rrsig	DS 8 2 3600 20251005183416 20250831180215 43450 free. MECmYeuGRFnJ4x4l5g/kifThuY3Vo2DkGkh1Cg1qBsw+TNaaFtMakcEP4nfSwfZ1qZwuHF8y2CXhGgm3/dTP69xkzAGDWK53M58+RCC0Q2a86Ze7uION4/t5l1sP8B+dbGAtlI/cRb3ZU/oS+l98h51jekOtwfHuepHeRIdxsHTk4PuCvddDgxsNKoY2R2/ZqUkVRCClRepK4h2zoi1j3VytCf4XVb/MMD32SQZ4WiCNdwWPLe0XDDTLZvRzVqm6AKmI2OIibaWVYJumoY6IYtmSC9PMg9+3MFC/1yEhIpmxo6BzFMiYmj33e/G0X0QVcQNqbCVXZ+bROMFUAfN/Vw==
+buyget.free.	3600	in	rrsig	DS 8 2 3600 20251012174807 20250907173416 43450 free. S9dy7uHXtVGJmXI1DMesH4YPGOQ0lQo+lKsMpe6qh9qJsLRgYddok0IsyiylixxjBmRcChMoz+2ID9w7x4dRrGDX1FB8kNljrvLE6hnQm9YyVK3aa656EFxb0QwdY7ADW0l9sGVf9PA+hw9hM7JQqXRiwYA7NIB6GIJR/Y4ANA6zMEoHN2TIS33/f2K50k1+t23PgM+aKgDelZbLuxEfVLpTwzlclVTmi2RGekG157p1dbd/uYpEBQ9nj0mAet+H6T3cG4cL6bsLqpW9lqIDwlMMVqV1PKGZQXTZolVi4d2wME88n+2n9fC3PL/YoFG6vOZdJvzUprnoYlvOwhPCrw==
 buyonegetone.free.	172800	in	ns	ns1.101domain.com.
 buyonegetone.free.	172800	in	ns	ns2.101domain.com.
 buysell.free.	172800	in	ns	curitiba.ns.porkbun.com.
@@ -840,7 +857,7 @@ c0b.free.	172800	in	ns	ns2.suncomet.fi.
 c0b.free.	172800	in	ns	ns3.suncomet.fi.
 c0b.free.	172800	in	ns	ns4.suncomet.fi.
 c0mq3j31tjalc8l92um3j8gia50bprsf.free.	60	in	nsec3	1 1 0 - DGOQV3E8MM80DRAU2FPH1HOV8RISIP8D NS DS RRSIG
-c0mq3j31tjalc8l92um3j8gia50bprsf.free.	60	in	rrsig	NSEC3 8 2 60 20251003111353 20250829104414 43450 free. CH+EehUafET+nrNef3/BbX7dPS8i6W/pA1R8h02UMjZiCK5pcsKVXII1tdrT1hf1mDra0as/5Nxth2p7QvdVo23l/geY+Z1TYWCFToOYQpFRht83/yPJxCYidmhR9LHSFN2Dst0DUhprOLPKauBwNewKKsYlSYk970nsfOb8g0s3pODOx4qdDfM19XIeb5gk+DcksvzmlvT7aS7vaWYRq9brkvy+BFE7BtYX6rqtnNA04qh3Txy2Kk4zINEA0tE6K6li0Py0OBHj1GabvdLP0VNby+uI07W+IRNrfpEIF2l2ImNoPe/aOAbkRv2JIjkK1s4ihFAyhj3loLqdrIRuBw==
+c0mq3j31tjalc8l92um3j8gia50bprsf.free.	60	in	rrsig	NSEC3 8 2 60 20251010105449 20250905101353 43450 free. XAjMU1vuJbTB3Z3ZwRXONHJvbrdlwbnYbo7h2j0J6+kSWkKtQplIxlXN5LDnVD+v9iM2Min8PFvinfSZKTWkXI5SmUt/6nnSdTaXZCbZnU5a+kwpDwlwmWJqI6mVSVlDXtiX0/581qDsQdjJj90GsNJhqa2n9kWMYbx3JoYEhB0NJ+twM2HHsoDdE3LGoa+/v105ptgV4UKE1+GwOVaZIgqB01Il7B1AntWcCe4r/D3HN7c8JDaygBvMb+rnfobxR9lK0aAqkS+E97SQ9I1PAhe0IY1vFJfhwpC7ESa2VB5oy9yNx0zrYvvevCcyt8bs8rCSmC+m6dahus4Rs3QRKw==
 cacique.free.	172800	in	ns	dns1.cscdns.net.
 cacique.free.	172800	in	ns	dns2.cscdns.net.
 caffeine.free.	172800	in	ns	ns1.dyna-ns.net.
@@ -937,7 +954,7 @@ cc0.free.	172800	in	ns	ns2.atom.com.
 cctv.free.	172800	in	ns	launch1.spaceship.net.
 cctv.free.	172800	in	ns	launch2.spaceship.net.
 cctv.free.	3600	in	ds	37541 13 2 1A11071421783FE61A126D5EFF3377956623C382A46A09B47CAF79EEBCFC74B6
-cctv.free.	3600	in	rrsig	DS 8 2 3600 20251006063806 20250901061346 43450 free. DWKM3vGVPi/Tyr0bpNHb58na2bvfMcwm0nabmdccz4w59Xfkoq2hqYCD6nBIn/hxbYud8haog9yOAlj5YEgKjwsgHiOy+Zc1cWTIK1dhaVQHoCzsTmRTSSZCr6LlD8kX+5xoNFpd7Mxhv4JYGpePWdciOy9YOcc5zGs0BGEcL9p8C0VUxVS/rLj9Js9uguFlwQ3KqHmrIHcZ0OUFJbGvzW/MYY6zAB+Wf8cWLtDIUm8RAE2XtNoXgyM3Yp6As61MrZIcMLOzlU8fwRFjSH0EcvfUtX36SMR6N30nNWWJqKYJJCtL7SNCnIwZ/Hvus/NRUcEPjtgZcITvjWMZh7h+wg==
+cctv.free.	3600	in	rrsig	DS 8 2 3600 20251013055718 20250908053806 43450 free. B1HGZqSCrksva5SWi59FlGvweBq9SpO2xc2vXBRY7ggdjhtn3X5BMkqEp1cAUhuCEcM0VK9Ir1m/74/L+tORxuqc3ET7yKEK+8i8beA+cQ7blAbYRPiCtgaFCLBUV0plGQO3eqvTE4UccLjApYsJjZuGgfFLfqKYiVAWKKW6Wz3jmq8Q5gbqGlKQ0kpmVPk5yuuHx/Rb44cLPc1mOM5y8SOhsUEFlTO3qFMajuh3DW0OzImNXy0uUP58Yf9kM+BwqsfclzF7GGDn/Nl8SlLC98zkTCV74KjAIpoEYuF2sHNNTVnwQtxu0FzozhDGUhb8zQZuhOSqwZRM254J1DtchQ==
 cerner.free.	172800	in	ns	ns1.101domain.com.
 cerner.free.	172800	in	ns	ns2.101domain.com.
 certos.free.	172800	in	ns	dns1.cscdns.net.
@@ -949,7 +966,7 @@ charlesrussellspeechlys.free.	172800	in	ns	dns2.cscdns.net.
 chat-gpt.free.	172800	in	ns	launch1.spaceship.net.
 chat-gpt.free.	172800	in	ns	launch2.spaceship.net.
 chat-gpt.free.	3600	in	ds	51577 13 2 E77E3C1C69AA09F243276B00A04961F0387854B043EB889478582680FF6A3E9B
-chat-gpt.free.	3600	in	rrsig	DS 8 2 3600 20251006231638 20250904141415 43450 free. JHlgRVsz2v3YbCVEwe8y/zqPKBj8xWDYKkwSdVSjWeKLLfXFsUqEWmHdxz+uOSc7dsbVjohSAHB6UHNKGikxfpdJrsJlmFXNhgSR6tp1vT2krGH2i8GInsnTXdJBamTCchviPktHTWiZhge/Wb5jzxAJIJaqcR7B/lZH3RAgTtLgmO/0AgtePUN8gBFBF2O/3TrsIYMJ5ZA9gm7nNJGa9oac1CN5Kd8sj98lQWH+934w6Z+zyOkLDuKk9KkknqAg/orcqVDbkK1YEq69zNmmuOiKTPIsBz3dpjA8Cow+uhSfLInrd9wSwQrP5+s1NevT0poH0hrKMp60G0ARONd8hA==
+chat-gpt.free.	3600	in	rrsig	DS 8 2 3600 20251013224059 20250908221638 43450 free. ROEdhQ0C6g++/podEj4bpoCmz4TLnANgAeHipsPVEM7tiPW+sWXe5rUGNe6KEZUgeP2drGKIp51pUrbqtPpJe2ms68YnLOcp8Re1R4iBK610P2sdXP2Z187BPj+M7i95Rohnj1XXoYxO1iwllFY8mTNZBGE4qNJ4lqHTNNp9VwarzziL8uz4GCxGP94KyUPjRMQckhw30PmBGqS12NZaTVkF17rn/6V9dGROfIN8dOhp5hkwE0YGM1MfJtsjDMUOL7Ae/UDnwOXmEpmQOeak+nxq+/9VeoI8wMc1lHQ57ij/691/97b6Mu+tk83bqlj5TPM5VHi5yDAz96zcWvVZ4Q==
 chatai.free.	172800	in	ns	ns1.dyna-ns.net.
 chatai.free.	172800	in	ns	ns2.dyna-ns.net.
 chatbotai.free.	172800	in	ns	ns1.dyna-ns.net.
@@ -1084,12 +1101,14 @@ cloudstorage.free.	172800	in	ns	ns1.afternic.com.
 cloudstorage.free.	172800	in	ns	ns2.afternic.com.
 club99.free.	172800	in	ns	dns1.registrar-servers.com.
 club99.free.	172800	in	ns	dns2.registrar-servers.com.
-clutter.free.	172800	in	ns	curitiba.ns.porkbun.com.
-clutter.free.	172800	in	ns	fortaleza.ns.porkbun.com.
-clutter.free.	172800	in	ns	maceio.ns.porkbun.com.
-clutter.free.	172800	in	ns	salvador.ns.porkbun.com.
+clutter.free.	172800	in	ns	ns1.bargainhosts.co.uk.
+clutter.free.	172800	in	ns	ns2.bargainhosts.co.uk.
 cluttr.free.	172800	in	ns	dns1.registrar-servers.com.
 cluttr.free.	172800	in	ns	dns2.registrar-servers.com.
+cmmc.free.	172800	in	ns	launch1.spaceship.net.
+cmmc.free.	172800	in	ns	launch2.spaceship.net.
+cmmc.free.	3600	in	ds	63224 13 2 F432D41A5972815A6A95EB585BF060A48931DADF977A26B5DCDE85CEB29CDF3F
+cmmc.free.	3600	in	rrsig	DS 8 2 3600 20251014134934 20250909133335 43450 free. emzvZwHvgPahOmdg5fqElFJRPvtKo0y1otMiQ57qX29L70GcKE9IQAdMfLm3VkshPpi2X7SOcZU0tQeS8ep+zYOIzUBJzPdCXM/VOxgAyfV4oNL8BAhNuMP6Sikczzb6jULnqPNOKHzemePMLjFYn/Rxvs71rozLeqs4kut/a+LDKHh6i+XUQ6jencuclC9FSffdawMV+O8a/3XryzRngbdJEh3IX02JCNZaZNK5e1lc5ia1pBTVChJ5wHnfsJQg1O4z6rTW6xyyHVNrYHWtiQV9FUX0qfYrhxGZwQSXQJ8zlnKAfrgI4QpN060zzww1181gyd7ST8EJXAY4Q0LMxA==
 co2.free.	172800	in	ns	ns1.atom.com.
 co2.free.	172800	in	ns	ns2.atom.com.
 coaching.free.	172800	in	ns	ns1.101domain.com.
@@ -1106,7 +1125,7 @@ coinmarket.free.	172800	in	ns	ns2.atom.com.
 colab.free.	172800	in	ns	launch1.spaceship.net.
 colab.free.	172800	in	ns	launch2.spaceship.net.
 colab.free.	3600	in	ds	65381 13 2 B9F15F30F89C66EA2FA72CD80796BA603D68A1A88D8859819A9B7BE4FE7950AC
-colab.free.	3600	in	rrsig	DS 8 2 3600 20251004075511 20250830070733 43450 free. cB/8xem6gFVjuJHiu43Eoki0td0usvplPXpJGGGAhfZDKPhkwO9soXuz6jMuYrKtlxVdqjDI+pA7Zc0CoWkyBQP0QqVHBkme5GNHsJnLucJt52wnd/SMQvbioyUi1fqm0EImzRHJfbB/UoTDmvi5Ljg0NhN89xxQauqvEM+Cd8mC6htCTbLPdqCurY3rqXAUSb/eTUbDndm8jWh7MSOkNPpnlbhl++yrDupjmJxD1WCOud+XePt1K1QxwtM7lHXZhumBqn6DepyTBmHc2HJvkdPQOYQoDseiR2Rw5AfTqzf3+ZkiqfdDVysKQuchVKiJrJ5+VNu33fv2U5Dh0WQsgw==
+colab.free.	3600	in	rrsig	DS 8 2 3600 20251011074933 20250906065511 43450 free. ZNXWnqqbLT6MZHbGogUGTJkxZ7R9yHQekaXISRTNFMYve7BpnxIq0GbZ1OiDNpsmd+hi8v4JtI+SQZSqmJoqHRM9qIwbzeYYG8D/q3I50gswcvdejG9s4ByfPDSxk4VOISvqaFjoRmatPorp4xnjTCtAOz5BidxXknoMGNqEeF39JodDnpKnYMuCnBvPzBj4XabSlkpNHRiwUXRhMlJdZMldrVaA1ToYX8aIFk3MXp8zhOkThzvtGld4d7okOLXgUc04xPeqKs5Re7r4oOI3FXDlBfT0Yhdtkq/MpEhX27TboaeVHiqXqL5nDzm9q7o2NB5XW7TNf8hnY3y1LUXLzQ==
 coloring.free.	172800	in	ns	curitiba.ns.porkbun.com.
 coloring.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 coloring.free.	172800	in	ns	maceio.ns.porkbun.com.
@@ -1178,7 +1197,7 @@ copyright.free.	172800	in	ns	ns2.101domain.com.
 cosmos.free.	172800	in	ns	launch1.spaceship.net.
 cosmos.free.	172800	in	ns	launch2.spaceship.net.
 cosmos.free.	3600	in	ds	18935 13 2 DADBF516389B98803595FFE14C1B6D31EB7B18F9A5B3AE6BFCB1FC365B84D039
-cosmos.free.	3600	in	rrsig	DS 8 2 3600 20251006161753 20250901160247 43450 free. MXZG7wIe4WcIL7+vtcvfQQakivOlVpHTpPB+shZqtjJSaGjNSPgazEEeC0oQEd8hRRdG2ONG8GSjGDEWSaD9V/HoGPINX+5nehe0/75/N3etv/Z+efVvoWLM0QH/aICAoXVhZZEezUsJFoqhTFNWkt0aZ8nko3APrSAXvJPLgk0XrVvZwodpuaMpXWkg+eiVQ+WttEnwkqIpXKXWh4cbzPIGsjM01yQ4+ITI4vhid0YBp4ksVbcY/aeO8SLQn88jqvRhCCPjv1YbXbXmIedXYxfmaJyqia8CfebC/5Mmbg/Uzw6MSptrIqap8LDkb+2R8/QQgT6wCTUoq7RoZn3Q8g==
+cosmos.free.	3600	in	rrsig	DS 8 2 3600 20251013160625 20250908151753 43450 free. G/tPugAaHhz3jEW1NtQZDuZD58XrOg2MYoRqtpEXEUHVaF+kbAFUS/DP7/E18uNB6FzxCzHJM/EzABqGQcqj7YMGLub20ef/uhG1cu37ijPfNhAztz9WJoTCajckNq59Z8/XARxLmDOk1xXRuMpfghFVglWHsDMo4VxALX8fnYKdGC2QZ8AD5UJQgoZ1w/afP87k8sdaYmYgYoCVitNzSGJoemc3uylgR3/MRZeE8Nd9zcj23S7CebgscdJQMYwO8kJpMA0JDu9ADIWBOjFqmq52ScE6SF5E0X0i5GU3rdu0z6GVd37/W0+vGQ/op/lRqW4dvIgCBG/m2QWzQQid1w==
 cottages.free.	172800	in	ns	dns1.idp365.net.
 cottages.free.	172800	in	ns	dns2.idp365.net.
 cottages.free.	172800	in	ns	dns3.idp365.net.
@@ -1281,6 +1300,8 @@ database.free.	172800	in	ns	curitiba.ns.porkbun.com.
 database.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 database.free.	172800	in	ns	maceio.ns.porkbun.com.
 database.free.	172800	in	ns	salvador.ns.porkbun.com.
+daysuntilboois.free.	172800	in	ns	dns1.registrar-servers.com.
+daysuntilboois.free.	172800	in	ns	dns2.registrar-servers.com.
 dccomics.free.	172800	in	ns	ns1-b5.warnerbros.com.
 dccomics.free.	172800	in	ns	ns2-b5.warnerbros.com.
 dccomics.free.	172800	in	ns	ns3-b5.warnerbros.com.
@@ -1339,11 +1360,11 @@ devialet.free.	172800	in	ns	ns4.iptwins.com.
 devops.free.	172800	in	ns	launch1.spaceship.net.
 devops.free.	172800	in	ns	launch2.spaceship.net.
 devops.free.	3600	in	ds	38199 13 2 04C939DCCEB1EB912E9F88F11E6039856F38D817B424E8082C039B672508AAC0
-devops.free.	3600	in	rrsig	DS 8 2 3600 20251008152619 20250903151831 43450 free. gK7a5Ccx4hUjbWGZHdRgWJPL1wDu3HpzhdKIH/OADF/xN5VnQgOa9Omq1coFmc68Pa6oX3E8hsv5zXTUWg4hJpcy0LpuFhCgxsCoKgjLUqqyUjuDrwV62FcU8OEQpsyJLXQ9M16MINtX3/N+idrU0XdyJvQ9B3tamGnvYZf7lFE5uXC2DG2xgrTln4e+C5R3B3o/MMLEPIR0xlKVOGwTSQQIe80+9/FF1Qv8GCQXrf8gG5gyKvwgChcanspQggN6tQSabiUDAzYHWQyMjnOrtH8bMnkBx2ODBkTHr1F9l95y6mKB8yndi9i5/lF02wbkBW2wI1VUH7dfQgV1XU5vFw==
+devops.free.	3600	in	rrsig	DS 8 2 3600 20251015143946 20250910142619 43450 free. k2N3CywJ3T8ItzVRl1xi4RctlIk1193T6iyulZE+CpUZrsqLHYERIiSMBrA2uxK+ho5zF/YxIMVPiTqWV/yUrlE3GZ9TeAmy7pOfc9azHU2mZctybWZveEcdJvAP/PaAg3EAE7I+OaL/7z/V4XmZDIOjr/c6UXy85WGW6mo192UeIreigc5CBhagElglPBPmPNmI3gxvGhaM0ho9DibtmwTlKMhuEVYJNPpVIdPfmrdpfwEJMC7IxKwyd8lPOmapaZQysLe3/7b/B5d0Gckjt4Vrlnvpk1Ks4+lEgkZTGRsDEZvrxnCcczBCPkjOivzVJJtH0i4DsN8WAIbzJsYymg==
 devs.free.	172800	in	ns	cheryl.ns.cloudflare.com.
 devs.free.	172800	in	ns	derek.ns.cloudflare.com.
 dgoqv3e8mm80drau2fph1hov8risip8d.free.	60	in	nsec3	1 1 0 - DOAAKK8O7RNHHGLC8518JBKK6OBJB5UR NS DS RRSIG
-dgoqv3e8mm80drau2fph1hov8risip8d.free.	60	in	rrsig	NSEC3 8 2 60 20251007203958 20250902202831 43450 free. UGY5Wi1zpLwVBhqa9wgs+iutWe5KxFbAR1BhHdyFHuty95O09IJXrGkiK6+tuXYbxgFhZMIe6J3MbkDeCCYtv6svWnE1preouve85o0hSFTwLTTEOtq3iNxCtyo08AM4xTUE3Crpw0uXTUpBFq6yWni3wiKdyuKeV+DhAllH2FXC//+Xvp8M2nVuZD0CeEZwq0QGisEVjxZtOmtJqX0o0v+xCLdkixeiqlXmzHlBnOVePaZJLN3LYBd3l/0///SyUOVI+k9lPSuBDzW45vEHBm1yQwah6rMvLmJAB0RuCygI5Cqv2/AsQGwfhqfUOx0ImOHbNLHj3S10uk9Itb2gBA==
+dgoqv3e8mm80drau2fph1hov8risip8d.free.	60	in	rrsig	NSEC3 8 2 60 20251014202512 20250909193958 43450 free. iPV5NAaWcP1Dlij03OuVTHXLVpOx33WFMklcU3hP/0ndQozo5XTKgOoKaOMTYVXZUsijjCYYXtD7TMVJRvmzo/MTVoEUDPXvvQX4UyJurZQ3v7F3AqHKk2re1MnR5vAZbwmqzN8jWrTxiVfcX2khrgfv59YDnRapYhS+ttl71Cpn43FvgKkTTTuCOwNfYNW2cJoUqfZdJAMx/nsdEKw7w0Jkjp2fVPjiV7FCCm2dDN/3AURd4I2XaSJiD6arBceAzUxUR7NEvrufXQD4AhTt0gxWXSHBTaWDUb+0B4eAP2n7XvxmAPunfGR7JnstOYGKvWNj7ftAmf4JVj7Gi2FhTw==
 diamicron.free.	172800	in	ns	dns1.cscdns.net.
 diamicron.free.	172800	in	ns	dns2.cscdns.net.
 dicks.free.	172800	in	ns	dns1.cscdns.net.
@@ -1386,7 +1407,7 @@ dnsc.nic.free.	172800	in	aaaa	2610:00a1:1009:0000:0000:0000:0000:0003
 dnsd.nic.free.	172800	in	a	156.154.103.3
 dnsd.nic.free.	172800	in	aaaa	2610:00a1:1010:0000:0000:0000:0000:0003
 doaakk8o7rnhhglc8518jbkk6objb5ur.free.	60	in	nsec3	1 1 0 - DOCQ98J18VIPH9E5NP73T32HKDRMMIPE NS DS RRSIG
-doaakk8o7rnhhglc8518jbkk6objb5ur.free.	60	in	rrsig	NSEC3 8 2 60 20251007203958 20250902202831 43450 free. ACb54qjpR3rM+7Bmzogu2BnZW93CbefDHLx4Oq/noTcTShbo/H6m6DYi13f6P8Fb+GEQknNtkMXPyBMeUcpdcNSnZpxvdwv6Bv1YL1rVODf2zHJxxzIuk+xemi0pOF0s+2zQlhdsAIHWt/U6XkOl6cJL20QawD2vQ5DFVgDRUYSZGVFxVR2oO552Lv1zOnZGrh5gGs1Y80ZokRRXaK5q53utl0w7NnAsBQrqE6OftsRPTvF0050BDHiYFg4pAgP9enET5z3yCRpivMfkCSASQakKjY0GdtzsZgKOuKmagdstdZsuljGYM3H3y/dJsOHGC2NMlXpCTO6eLNkIvyHH4g==
+doaakk8o7rnhhglc8518jbkk6objb5ur.free.	60	in	rrsig	NSEC3 8 2 60 20251014202512 20250909193958 43450 free. WagFjxdgDE9eqBwRVs475oahAc9VXRcDjUBCHsFvoOW9UouSBV/Qx9lESHUl25gyoop3ixGN8ZGHQgAL5jYMUJPiOup4ywROycYrl37qKzFflQR/C2zfVz20CYvl76OSnRyYT9uMRROvG169ZILG2SO0xVHk8kz6I0M8pVClpXHYhW9/ZK4VcqWfv8qX3Q02qEoiN4YPlvMB1lWrz5+NGavkMpOo7HOt9GW2GiX10L3F+lVN0XFXzqu1uLjsANVEWj06DUPKMe6CnmQqs4kgu4V3Ewj8+JRwf94Cxl/dqSvkLf7JbKmAiVHxgel8qNgD4dwZW9Hbd4qm3oOe8BjsNQ==
 dobby.free.	172800	in	ns	dns1.registrar-servers.com.
 dobby.free.	172800	in	ns	dns2.registrar-servers.com.
 docq98j18viph9e5np73t32hkdrmmipe.free.	60	in	nsec3	1 1 0 - EK33585MEKIF3AU8S29QJI3FJ2JIPC3L NS DS RRSIG
@@ -1492,7 +1513,7 @@ ekho.free.	172800	in	ns	ns-128-a.gandi.net.
 ekho.free.	172800	in	ns	ns-164-c.gandi.net.
 ekho.free.	172800	in	ns	ns-48-b.gandi.net.
 ekkv0t9l17ub1212btddu3bfvgu0uehg.free.	60	in	nsec3	1 1 0 - FC7GLA3PK1ERAV5DNLV3UNAF7QP11TOH NS DS RRSIG
-ekkv0t9l17ub1212btddu3bfvgu0uehg.free.	60	in	rrsig	NSEC3 8 2 60 20251003030152 20250829025526 43450 free. YyILmqD+pkl7BKZY7MGFEDgSODu+6Tv3m3fRwl3eeK7TNmHS9DZjBZefl1yrNAynu5aVTeg6Vnv0fD7w+JIiYODiiPXgaWEISBhmNb7U6cXWAWnYQrxGNuVhT3UAKXjPt/TP2CAc0IsZI3Jj+qknXaK+LqCq8GguFBrTfndul8f8S3Sx+O/BLAgmE5dD3Yc/FQywUTqjNKmshaN4PKUkF7eZb8iSrd+7yTsdKOZWxB/ji7l/xS9nvH1xoS7fXW3mJGQq9n5KywuSDrTVGJf3RvedcuokF5iNa7nKg8nlAqo5es12aMJpAa61T4fh/s6ybvBUfDW/b5Qg5D6IyuYvUA==
+ekkv0t9l17ub1212btddu3bfvgu0uehg.free.	60	in	rrsig	NSEC3 8 2 60 20251010023049 20250905020152 43450 free. ZlfvHYtm+uCiTg2wA6PVSeFLPIN5HM18NZuivsx6B6WABGPgb5u9CmN/f/frG5PdqswGZSojQSZ6/6vMjsk1p/seEzbuOk+2s1h2a3pbgfb9mVchM/YGgxHgf7F5ikMI1yDryoxNd1O+w/VFdSDefcIdlIbNMmfxzW0wrSs9D5CIQF4ED9jNoaFenEK2iet+hNN+rcd2VP8SnUNuraoC63BJccyKZiMYzHhkHecszyeO/kYMq6B2LbNIsHaEbnpy4NehlU/+VX8AlKv0g5zminJqfA4cZQZlAhahb0/d1iICoKNdRbeiQoAcn2y63gCs4XoPni7Vk+oCKoBFPDs+Lg==
 eleclerc.free.	172800	in	ns	ns1.prodomaines.com.
 eleclerc.free.	172800	in	ns	ns2.prodomaines.com.
 elementor.free.	172800	in	ns	ns1.markmonitor.com.
@@ -1583,11 +1604,11 @@ expressvpnkeys.free.	172800	in	ns	nsusa.comlaude.net.
 extinct.free.	172800	in	ns	launch1.spaceship.net.
 extinct.free.	172800	in	ns	launch2.spaceship.net.
 extinct.free.	3600	in	ds	55304 13 2 1C579B25CE77D5356A3C5D3C2B8FFFA0BF16AD97DE25EA859942981F3F4C6E19
-extinct.free.	3600	in	rrsig	DS 8 2 3600 20251007104213 20250902095009 43450 free. NkF/V+JwPJCdnSyiutXnkadR2h91rHeENXRO2d/Gu8Sjul51+mwpAK6j7DzkEgj1RX2H7Hiv5qm6734RB01YtQGi8A+Zm7Wmj4pwSAzDLK5ov+N6FgGbFaUYfd1fiYIBNqTkHbTVYsP7HhDtqD94M+s8il3eVAyB0Mowa0brVUbVnXJxoU4/h1Ma/EFNoGEiusab6FGayHlixDIvDYBZZznaJN+kD4xzfK4nJEFt03T8UERBZ1d8h8URut37Nw6fd0jlkowb3aBqmoH6ujQgevLQbYHiI/s3K7KkwYY+Iu315yG6f8ThHyAxDAK95bdp1oJZd+7Sl2Tv6OEdA7k5hw==
+extinct.free.	3600	in	rrsig	DS 8 2 3600 20251014102247 20250909094213 43450 free. bqcEMogJzyNcaX2T5/95Tj8L+BxXPY5iEAWYYiX+wiRbc0zo0EpBBP8KVHdNkRjvWoZGQPcpfiW7NtBAItkAd0QN2MgZ7eu5STEhnlWYWL01TRJYPcpx/W0eG5va/w2vd75auQO8i1fsLdxyoZDdDETajhvKmRBR3gCmAhGN1kmiRV0l9+WM85WRSQKMo30wIM3D12LJpNemg7K/ou6lDYPLneWEGOwS+b83K8M4uiJxuovDeG7nxgvyr0ImRO/st0HEiPTjmsQXwM4tH5b9j2JLU8F4Dskf1CtjMNkG7hUJHgDcPcU2qCdYmbxx+1fQse8xxI1WNZyt75IMLHEnlg==
 extinction.free.	172800	in	ns	launch1.spaceship.net.
 extinction.free.	172800	in	ns	launch2.spaceship.net.
 extinction.free.	3600	in	ds	14990 13 2 541647AC4265F8456BF5AC573E66C906A174F9B2A2EEFACFB8073B7AF865529D
-extinction.free.	3600	in	rrsig	DS 8 2 3600 20251007081759 20250902074233 43450 free. byK4UlYCzor2tz1BCG8MnZYMJ8L2iEV6GJwJoGQ7t4OZoeWGRnn1/kYsRA4uB3H8QWJAzwPK5X2mKXgRosbHDHcwFn24GQFQZda9ZFAshGZQSdvN8CGIQwbHoYuvE+8iRk05pvFEv1j2dm2WBxygdLlZy6K1qClpRo4mQBHbcSPw/TDQ7zYDLOUgNV2S+KGKzwl0+PdbijA85JOcT6150Lo6y0wDRoxB6goTd7mR3kuZNHSU589nY+YblatnIlfoVuJfEmkUpb3BGeRNmQBcYSY9aOjEnjKRrnyiSjDNXgP0kb+s/4J5riq7wJUQuE68GQMp50zwv3ZM/nd4aG97KA==
+extinction.free.	3600	in	rrsig	DS 8 2 3600 20251014073923 20250909071759 43450 free. PYQqEx88+MNsiNOHZ9rvmgJnJdiAXEvCCxZJYUo0WHoYS6DvSB9PQ8/221+MhFL/DAFsusLGT4XXiZ3QbFGNglk5wm55eH7QkcDq3psrsTEy5FIHW2oYHErV5PVkrU1b27GA+/c3LqqjvDnpJWGydw9XNry7V7W/1SJxkXsnMQYdFouULVnOuSmV/ArofHQBIucw4/jw3kYww4jAFArEeWi5sHU8zmL0Rg7CXqsZvXRhJMlL5YRibd9y1C8Lmu+E+wLKYIZR6jmpNQmnqRXvxkkAmIB9G8zQwd1BVNUc4/pr7aiJd+8sY8Q+dm2mcIwa4yL3i5doxFtUbjWS5oAs/Q==
 f168.free.	172800	in	ns	luciana.ns.cloudflare.com.
 f168.free.	172800	in	ns	ray.ns.cloudflare.com.
 fakenews.free.	172800	in	ns	ns01.hostnet.nl.
@@ -1607,17 +1628,17 @@ faucet.free.	172800	in	ns	jaziel.ns.cloudflare.com.
 fb88.free.	172800	in	ns	damiete.ns.cloudflare.com.
 fb88.free.	172800	in	ns	zara.ns.cloudflare.com.
 fc7gla3pk1erav5dnlv3unaf7qp11toh.free.	60	in	nsec3	1 1 0 - FTKSVG637N5QA4EHG0NL3436G5BJF84E NS DS RRSIG
-fc7gla3pk1erav5dnlv3unaf7qp11toh.free.	60	in	rrsig	NSEC3 8 2 60 20251008235953 20250903230633 43450 free. U1RxZbHcU+/AE9phlw8EGtaxUo/rJz56hqDMr33+0hq6Rv7Nu1Z5i7STtRJZUv0fgV2E7Dg3Ca+5wXDIKF9VZXnkWT1649LVBUZvw/bhXP3keDDQ7v+VANjv33alrdMP2lYhfTgg5C/PlEH/8AJGvDxUkQkhucYchLNE3QCPoXzZvzlLdl7aZngDIpeOmQq1431jsRngKC/E1qrGbcRITGXkx2slzWLj3+48dKsqrLQEn/2wlc6SPT9jhBLw2+GPueqTC0WN+100Uaa8HMzR/KZiql3Hn6kqk7aARG81sfSkc9buL+JOAeAQG9f+1d7fwXsYRbvKLK/laFvayuw8gg==
+fc7gla3pk1erav5dnlv3unaf7qp11toh.free.	60	in	rrsig	NSEC3 8 2 60 20251015231909 20250910225953 43450 free. gesIbAmhexOKjCZPLF/9YCkKMJnjCwOQYaUnqUs1UiVFuH4rv5vnEB2GxqPRvnYffLmsL7tLTFZfua29TGIcFKBV8jIoBBXFiySUgrt0TJqCm5OpLDvxPfLZatR7Cbtfd6d5qWW7v/xZZMRp0xDl3F3HqaQAEymHeG44JqfYc5WBzDPnguAth5aJ8YX/NNEugiJoKH2JLRzC3z0UndQw7bw7Bk1HiChiyUitZBWOKvWptwqDrFo6LFj+ulFcBxHlMmfq+y/IyTG+nu2mV9vQlkuUtuIxBLF1ViI/+Cux4TWeQ76DKXfXnJCZm1IxN7wZHKh90cehIhrh1VA/9RUeCA==
 fearlessloveworks.free.	172800	in	ns	ns1.hover.com.
 fearlessloveworks.free.	172800	in	ns	ns2.hover.com.
 feasibilityreport.free.	172800	in	ns	launch1.spaceship.net.
 feasibilityreport.free.	172800	in	ns	launch2.spaceship.net.
 feasibilityreport.free.	3600	in	ds	13190 13 2 00DB559CEF73C472D31D79A2D75030563A9ADFF9EE071B0CF58EDDA985D81538
-feasibilityreport.free.	3600	in	rrsig	DS 8 2 3600 20251003171354 20250829164446 43450 free. O3cvhAWieb7jAQC1QnzqboG3RsYJbya7+7NZ+2FM8awWtNpsfhpaC9mlgduEudhYL5bta6Y1gmAncC0vW6slJRRI0gD1ZmLrcrLemoGH/mMa53Z2s6bmGzhMIFRbfdeKTjiaAJMB4Kd0w3mGbtNQtHJbLnyFYTkjX+9JLtuNtOuy3+6EG4fxHQQOrwQWukOXKyEOhXRW/8c7hRKBXbCgGn1jeJmRzluxhudYQfIfuCVRITWjw/7Bo4nes699X0YnePjeuXivuGNrQnFOgnot5yrWhYpkeKkLWpPUo/Biws35+r8DWD3l/cPZepTK9wAc1WffMWsLf/7SHuQOq9ny0A==
+feasibilityreport.free.	3600	in	rrsig	DS 8 2 3600 20251010163549 20250905161354 43450 free. IyJkVjelI/6K+KkPise0lMYy+x9B9M5C2o6tEYDHJVZNCYjEPlVmAE9BeDDQ5p8X7puM8hRb9+xWW3Nfb+8ubry5NjoUnt+HQL0MQwq92PnsWXOnZAPTHYWDduhJLGtqL6MubLQTS98B2OIk9HQtfpQ6x6sZ3PZgDEFP5xfuszhKRTSBoA+mxB1pEO46a3JcMpmam6h74VMT6anlOIcCMGS4JRaUQnmdZE2dH27L6H0Y1fc1A30OJEZt4R8QepbADwJLaK1V53bXRjaHdRrwu+tVQH+KRZO9zDyWyfFE0+IiFLZIMN4gqDYaTeSDs3/JTpDRfwa0VGEr8dpmg4DINg==
 feasibilityreports.free.	172800	in	ns	launch1.spaceship.net.
 feasibilityreports.free.	172800	in	ns	launch2.spaceship.net.
 feasibilityreports.free.	3600	in	ds	30678 13 2 5C685B6A61CF15517F61543D2B7ECBB4F940814F5FE4419D3998BD3B9DC2B9BB
-feasibilityreports.free.	3600	in	rrsig	DS 8 2 3600 20251007104213 20250902095009 43450 free. Ix8SnLhHU9K/Xs+nn/QSRNqOZs25FgIbMODnWt5ObRBldWbm5bTZU1sBh/H2RGmM/bfntID4vIv8mwwWf059dDl8ayXr6cbZmPFRdSR8delzdC9XbklsMmY+yg5+YdHAQ6YXL/3ogweBNpcFIxBbstiBnsCW863GQsyBHu2/3WKoLQ0rXY0BiM5ZB+BS1okoIl90f+DmEC9/+M8B95/5mnh2/wmOlCC2CN1eW6PRud2cqrKOmc2bTL1C25DeTgTMD5y8fm7lCg7AfhgB269lFEWMrDIS2p50FOcQLaSDEPBeotSBtxu2y8RGJHHM7kAY+X5SOZO5eB0QronJVaAD3w==
+feasibilityreports.free.	3600	in	rrsig	DS 8 2 3600 20251014102247 20250909094213 43450 free. DNAWrxv8nFwUC36oWfYxvAOgUNtb8iCvGzg2sIoqObHG2b5SzaxCCrWdG4/DgtgyG/Ym39gDm62Z3BfRYEcZiEDF0CJ3gHGSMPXeXMsdTZeMs9pCg787OgaY4bOld+M6+slgTnt0kMPfsAIiJAxygQ9KXdAdkjMCnNO1ol4MSBaHIvM6fY/4kRXdr9DcRMhg17KKPGRyntMDv6khWXeeBi0ILm/0tgg2vK4fwXLSXXTEHd4j4vKlA65n+71PkG7e5rET1ITf536MDyOKlUg+zq8348EgTeeEuL//DplnBFGuILsnTbaTlU3haFNpo8U3j/EL+EozkRTX1fbfbrctDw==
 feel.free.	172800	in	ns	ns1.101domain.com.
 feel.free.	172800	in	ns	ns2.101domain.com.
 felceazzurra.free.	172800	in	ns	ns01.trademarkarea.com.
@@ -1656,6 +1677,8 @@ firstnationalbank.free.	172800	in	ns	ns2.lexsynergy.us.
 firstnationalbank.free.	172800	in	ns	ns3.lexsynergy.info.
 fit4.free.	172800	in	ns	ns01.hostnet.nl.
 fit4.free.	172800	in	ns	ns02.hostnet.nl.
+five88.free.	172800	in	ns	jasmine.ns.cloudflare.com.
+five88.free.	172800	in	ns	woz.ns.cloudflare.com.
 fivebelow.free.	172800	in	ns	dns1.cscdns.net.
 fivebelow.free.	172800	in	ns	dns2.cscdns.net.
 flai.free.	172800	in	ns	curitiba.ns.porkbun.com.
@@ -1673,8 +1696,8 @@ flee.free.	172800	in	ns	salvador.ns.porkbun.com.
 flex.free.	172800	in	ns	ns-150-b.gandi.net.
 flex.free.	172800	in	ns	ns-35-a.gandi.net.
 flex.free.	172800	in	ns	ns-50-c.gandi.net.
-flirt.free.	172800	in	ns	ns1.atom.com.
-flirt.free.	172800	in	ns	ns2.atom.com.
+flirt.free.	172800	in	ns	ns1.afternic.com.
+flirt.free.	172800	in	ns	ns2.afternic.com.
 flying-blue.free.	172800	in	ns	ns-3-c.gandi.net.
 flying-blue.free.	172800	in	ns	ns-31-b.gandi.net.
 flying-blue.free.	172800	in	ns	ns-97-a.gandi.net.
@@ -1716,8 +1739,8 @@ framer.free.	172800	in	ns	salvador.ns.porkbun.com.
 freddiemac.free.	172800	in	ns	dns1.cscdns.net.
 freddiemac.free.	172800	in	ns	dns2.cscdns.net.
 free.	0	in	nsec3param	1 0 0 -
-free.	0	in	rrsig	NSEC3PARAM 8 1 0 20251004224145 20250830220622 43450 free. NVvtg/9JucY6RmL/+XmqMRfCENkRpVkjfeyThIIYCr+BcyMDkHDCFthH+B37Kg/3MKUw+BWyxiwhR3P1yGjbAGSWqt49qS5K99GjdpCDeRjQDzcSFV3rXcGd7cri/vz4x+awlls2W+q3nL2YUM0dyncnhyA8OYELG5k6MO33sKbDlzN++DY++Ys8r0GALZiWmYTkKkbB7Pi30Kgq+FjeZyhRNYBAdBtUXYzZ+oOtIGfPR6Ja6Efn4Fno2rHzHzSFb61ugsBaftwkzx1bM6DVMUbXpNkQ8hpCCI57eveydSr4vdGn4k7Few8lvQXGrqQzbjfKJmwujC7E8ioD5yLjSg==
-free.	0	in	rrsig	TYPE65534 8 1 0 20251004224145 20250830220622 43450 free. KXkSYWXh6+kn5gXMnJkDwdwf2nYVS/bkajfHzRCYAbAcFEOwQlU4EgaxkrLnwdYAflwg+ZDxqL0wiSooxcLcdJ1LBSNAKAJ3tCi54AgyF8HHjlQt3ZMesMQ5ClFlI7pC7d8Vuj4/9mo/JYXKfa6H9ecBzTrH9kM2aVr/KnVa69xgigfxSSZhHQ6z8BqXNmtYYr/i98IeQt8UnrgcMn5AWW+Se5nG9GyV/hANLwwoba/dPBVbFg6ZZzMGICR6Ukn7ktgSx9FWn5dDzcZTj1Cw/e89wDdDD2wb9NCQL8Nuc7YEdjzMWHNyqRle/KKeKuFOcDiG35zfcy8JQcY9sj6oug==
+free.	0	in	rrsig	NSEC3PARAM 8 1 0 20251011223155 20250906214145 43450 free. Y9LGGekoTgt70D0/OfxulDS+2Cs+6IBokWAhF/bH6w9FaYk6DrlpF6KZAJUeml5fhrVXUONrsMU1tvboSvYPkOU6Cu/M9y6yOiVm9CdQ6ud/66/1InK3FbKtq4tye9mKOKv6QwTKbHg4ZFd2NxEmrrSWxztDwN/lDesGzGWffT7oJWXM3TmGbRIX9M8o2lewhGiaTkftN/OtsOb675jd4ivSQJpuJJFLKmBqk30tXuoMcDrsh/pU1RQ51KTh9ksR84rZhrM/Y4SfTPU6cplFwHEpnV9+MrZQaQjtd/OATy6eqtJ+6oYKwcoVhmuArvuxr1zCqWOYsw9RBI1rGVlPyA==
+free.	0	in	rrsig	TYPE65534 8 1 0 20251011223155 20250906214145 43450 free. D3gYc2jYB0a/HreL2MBYbmaAHw6HPa+NI30VKk9ckVDjkG6UbuVCQrfTRJgkZXM/a0WL4dGkC6SfwrZPMCDeoHStiADgsx4vI28NOYYncS76byDyHq4INsp5htjKGjWcfVAZdN7N8N7rtbzRs0ULX7ZTCUzkPNqAe9RUlC8UCFdBTPH83IKOtph4MZH7rs8LU0vI6Ig6Ki8MiGvFCsr4HTQKI+ZPIYduAPPKE4dZd9u/WXj+KaoaPiDxScQEyvR3HpI6bZLjpTQezzwb3g777THgyZcrv1XngdVBH2rsTQFKpTdAXtaKFDLyi4sN8I6vHXb7tjBifssca6dNiGfvrw==
 free.	0	in	type65534	\# 5 085F7E0001
 free.	0	in	type65534	\# 5 08A9BA0001
 free.	172800	in	ns	dns1.nic.free.
@@ -1728,11 +1751,11 @@ free.	172800	in	ns	dnsa.nic.free.
 free.	172800	in	ns	dnsb.nic.free.
 free.	172800	in	ns	dnsc.nic.free.
 free.	172800	in	ns	dnsd.nic.free.
-free.	172800	in	rrsig	NS 8 1 172800 20251006050010 20250901045802 43450 free. OEdwKjUsgaSWlYeGUKsnxIvFyR05oPbC8ME/YR/K0MOjOUVmYPu2DFhvaeAZ+GwEEQ0a9XO71qywdCDk8bu2qYiD7OJtY1fMUWu9+pHsEA/HZTY9nhG5vAmLN7c3bAylwImxDNjNo08h3K4TSISPRhqDMapnHm+qCwbti/16plkk40LYNgL32FW1frhhOOyLx1WTQC5AES6Jo6osPcHi6og4w1iqRaJpEsKEgEDZJnZpK2R1keYYjtzx1FWuCIUGRUMJWhnkzcFQ1cy3YvEdkLZ6L+vqBbIP5f+y9Q2MX3Z1JbuKlE+cyup8B9oKH035frbOJVAKHCeS241cg9Yh1g==
-free.	172800	in	rrsig	SOA 8 1 172800 20251010001726 20250904231726 43450 free. CEcvSMDt7Xcc978UkWeGsuB14/l3EtCijejbskIz/2HRDRdhLdQLgteq6452y2QUTS90PVIIE2sFq3SIUJke5kjFxNAti2yfBKunwKegZFuTKgohaJJ4BVnJ7bcsjVYC8mmW8toqTEL+5ZfJemtphB6IJ3IZXeSI3uwU3X57OhVOwJGvEf+WhhWShohUtwyZM75XONpe9I1xF8fPnQq5lurQSp3OYQyapZk6Aw3q8iaLyhpE9xFX5tmAy781hXI+Im3N2JFeDZI0vx7qho28GbRrB5ZrTUQCceJ+97FPqO02Ac7TtnkgGeXOJg0GHFh+76P/K/htF0zGmULr+xTlyA==
+free.	172800	in	rrsig	NS 8 1 172800 20251013043117 20250908040010 43450 free. jn+/NI15RzSQxZIf8jBgvXeprXPzOG/l817t8o/AHsitGPrahnRjZgOwSpufBaHfksq9puPcGWC77kI4vqPo38c83EAiUP5vOicpHJE6F8/yCZHMz17ZShWxuuT49lfv4bMKNZnSwJxchxRSVnP00TXCFuiOHy6/yEHBP9lsvQeuPN5GRJy6CdjTDJew40nJmC6XSASS5ANRhekgy/McdBCDM5GC2dFjCNTLXli2A+7M3hO16F+JQ+yxhLhWdb+4ZuwmfWAvZHfokCJJ41hZp3+61mHydwVvZfyJrHzRffCcquSl3XTL/24T3Q9jc/Stc/Pc4g2R68ObfTiopP+YMw==
+free.	172800	in	rrsig	SOA 8 1 172800 20251016003921 20250910233921 43450 free. UPPzgZ1yWWNnG+wDVUuqhUERs7g/delhatmjsi7V9/+4FORuK9xHr6rJEzROUVL16D/ATWurYjYWhrStwyexS16ZEUBxk0iW7d6sR20pvel+O3q8kSb3OOGjoCfGT9QY5rQdx+2PpcVOZ6b+i9yfCuCHKL+oujGXKzpfMzt3Rns0LXAX4y+jaAM6azBx/xX6OksnB3Mx0cCQKMfUpE59BNzNqt6TtLcHwyeNovyQC3Bop/Fkgwla+Wh+K0Er92KfPO9AGsNiDEQOxLNJBn+iprqZ8evU2RWsLTo3utAB8B+n6vCq7GDn1NBGNBS+HFA+2xPy0fCqxbL+ZDIPJEYPhQ==
 free.	7200	in	dnskey	256 3 8 AwEAAZmgCF7CI4HZySiMPvccrNBgMgNWCOC/jA8bba7OWNqcgDlCMD+0o/gYdxmk3YlHMrayK61kclrRHGtdHkIgSMfj+dc+17xaWs2bjJ+eDvp+pMIyqRMr/QOYPrb4YQVE2/npaqzrIDpZLb2HrGpZnw0DkErQuWP2LlJHCpSmoOVBlAI2QfkgiodRk2MCOoXnopEX8C6tVSvPO6Sls5uMXqkPkgXSl4/OzNQboXQb9DM1oquhoI3otbuZsTuQYMUHwVVhBqYwTiXowGUplM6yvnO6sFPObLK8SAAU5XG3x+4QQ8TTQlg2mFIrLXTXxidAoDUNAacJi7fv4dc4MjWCnyU=
 free.	7200	in	dnskey	257 3 8 AwEAAdPV4fSWSqRvqynzN0TrBkXJbQcE+rTddP81YQY8TDmW/uV9/xA1XYz32QihoHmSz9TYhAFhRO7gjzv2MSAk7FcgBwxHEzPtuZOLsF8us3zvSorLClKCc6Z15StuBYYrNdJCm3QsqL8ZmrLOnNhl1CSOBh0xezdFd3JGIce6yXKFEfBLfTmtNwN1Nif9pyUlfZ0NdFilmZrDmVNRywG6cOVkjtLVvZndsGu7GWdAEOh8YOQA+YY4l6TK1LJ3AJZZMYkjubwNpC05BSs2y70DNNZqvXrlMDJ5HzhIO48vZYeQMPtLO10PrtUXIr3TU9qWqxeVDFeQgih7Pp2QgasnfGc=
-free.	7200	in	rrsig	DNSKEY 8 1 7200 20251006085436 20250901075945 24446 free. GTbYmiejkwcMjCDmhfyyfmPBQQ7foqFulwU1auBrgpJTsTI9ZfX2kkgzYpX7Nd0wsWSZsaiMuUKGXgFRes9kh43jJSXa8ZVpi+cV3uMFSSC9ROpvoO66fn45xwaHRdcLYXkHETlqFrZAeuZcWR8vise1I7+4QsS6gGusUWDhv19slSfF2K2r0iv8y5L9ycasCp9c1wtvHEPP3Fm/fRKtfa/43DuvBXCVGIFHDQQGCZIpyGZBeBdnyw4qEc1W3PhnQ2Hktbg7SsWM5i8BSURQRy/vwKoNT8+z45HUhxQaja/S4agfwejq4Z0CWyMhN8uXNE+7/WOIOeg1nLWyehPApQ==
+free.	7200	in	rrsig	DNSKEY 8 1 7200 20251013083743 20250908075436 24446 free. M7ju/41TNzcToMV+79weec9HHWtITJN3fkGfMPXQACrNM8z+gQDE3EIOBjkGAXo0c9+Gg6VFANHDoco9uRxCWuJMBKEmc3iA+n0T3ngy+iC+q/tq065Qa2QY06bHdk/Nl/ZvcDwYl3hnY1+HKos4hFet4Fg3spHkXrdSQ1tcxpLS/1FQ8yPo3jmP9sl9zMMYHTwh3r93SgcwUv95445wXo6bVPaivWpJya5nh8FAa5QdRrMVKxLXo781Wulojio4EA/5BcY9ZV8CfwXF3AMZgbGnElzEhJ+rBFXN7eBZYyKulgL/8MjI9hMuqvCleWzzn9omsfdrfXyvi/sbGURbxg==
 freeai.free.	172800	in	ns	curitiba.ns.porkbun.com.
 freeai.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 freeai.free.	172800	in	ns	maceio.ns.porkbun.com.
@@ -1842,8 +1865,8 @@ fullstack.free.	172800	in	ns	maceio.ns.porkbun.com.
 fullstack.free.	172800	in	ns	salvador.ns.porkbun.com.
 fusion.free.	172800	in	ns	ns1.premiumdomains.cloud.
 fusion.free.	172800	in	ns	ns2.premiumdomains.cloud.
-fuss.free.	172800	in	ns	ns1.101domain.com.
-fuss.free.	172800	in	ns	ns2.101domain.com.
+fuss.free.	172800	in	ns	ns1.bargainhosts.co.uk.
+fuss.free.	172800	in	ns	ns2.bargainhosts.co.uk.
 futemax.free.	172800	in	ns	kip.ns.cloudflare.com.
 futemax.free.	172800	in	ns	tricia.ns.cloudflare.com.
 gallet.free.	172800	in	ns	ns1.iptwins.net.
@@ -1915,7 +1938,7 @@ genius.free.	172800	in	ns	salvador.ns.porkbun.com.
 geoguessr.free.	172800	in	ns	alberto.ns.cloudflare.com.
 geoguessr.free.	172800	in	ns	anita.ns.cloudflare.com.
 geoguessr.free.	3600	in	ds	2371 13 2 32C840C67C737954D605114C023F7462CD12466910BB3C3C6162812D37B81A0F
-geoguessr.free.	3600	in	rrsig	DS 8 2 3600 20251005123330 20250831115025 43450 free. V+DvDSsfU2u1vsy7HSHyckFDMu5mZLXu1y4KOBxgbKKkgIp56if4OkwY3kZ+QkfNRmiw/kIUMRRKgfK6XGWeYh4y1ViVQinf0FBV7CidvYXPBo2T23aYAteMRgpqfj76LLTcx1okiN3EpTuzqqwLOTfRYy25nfRYlGPId88VDZMRqHrTPOMDVb7F36+Ue5yDxoBn3f11Nf2cYqi3MNk8OJXNZDHYEqaZCK1iHOp8st+i0i8LUny3HVFadU2WWhpV1NfeRQFiWQzuvIWzPC0Hp8cp2fnWo1Em+QwvUEdqDSFBF3GjZscGHFXiLXt/rHabEcgkBxy9Ss59aIr/FFP0gQ==
+geoguessr.free.	3600	in	rrsig	DS 8 2 3600 20251012113532 20250907113330 43450 free. MVACWZhAfWigZBxGbw+M1babb4E5PjU6V1r0Aqi4IgFyNPFiL9UbQmYoitzn7B/WioSkF1FdJ6z9Xls50+RRMZUo//URAWRKkk0VzCpJ2+GGAKH4TJNL4Vydlw+NOiDHtL5f+cCdOuc9A5JNu3eerJK3bBz3x7snv62ewn7/YgX1HRpd8+ugBGU3dE894yC7WjQMtFWgDEjKbfLISe9PjqTi8eCCipeVe+6qFL0al053s76uqz3hZqrJPc9e66x8SjeGbwb8WDDju5m9ecB+jCsW2QD/CHtTd903ebsh+Mh4ITApnP/japnaRa2ozyqLFoamGLGmb9n0Y3K/zugFkA==
 geolocation.free.	172800	in	ns	curitiba.ns.porkbun.com.
 geolocation.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 geolocation.free.	172800	in	ns	maceio.ns.porkbun.com.
@@ -1960,7 +1983,7 @@ gofundme.free.	172800	in	ns	ns3.lexsynergy.info.
 goggles.free.	172800	in	ns	launch1.spaceship.net.
 goggles.free.	172800	in	ns	launch2.spaceship.net.
 goggles.free.	3600	in	ds	39888 13 2 45F30BE06315FBE16DEE5C71400C095B045472989194C8E6275F23A3963119D8
-goggles.free.	3600	in	rrsig	DS 8 2 3600 20251007203958 20250902202831 43450 free. ETwtoH0mB6YfR6XWgNsEurItYaFhZWkRixGcnzHuPFCZr7BjKCaibnkrsfhG7ClrWUdAunTUOPpxe7QLUXl1wYbPitEBYVIKtfaa30KQ+qBNqOMQH0El6XxfMzvn8Q2nvK3by/NR/9Rb50+KVfcgCn8J0YetBjddpf1jIq6W7uQGgeXcKY9k2AqIO591AwnP4ATRIcjFBbRPEL7Wb/brX3sr1J+tRfOmIPYrh/k2kYRqM+uctQXkwQVLLTdv+oP4LRepoDbD1M21oSn5JhC/d1JCKIyh8j5kXdg99TDG+y2kN5SgrsGyGB+h4KLlSH38SNXPloLTj/yKRlV+TRO6oQ==
+goggles.free.	3600	in	rrsig	DS 8 2 3600 20251014202512 20250909193958 43450 free. LSGMdYZ0PdoCNOdXG/n/7onDd7XB+Dxm7iNDxRdbo2rh+33SGhUSKMb+B3Hr8+8a/VHIKydz83wFD16NdRM2FvfqNLoWyBkA+kqQHr00J/C+SrrMSwalfd4EhYtOf7ftuEyhcMVO7bcoGnCqIyUESNMXjpjbfY+EgwtMQPq2pgrzJVOSusiDwpXVncQiAkhyTi4/AsogZJ4jpRgpw2vXJ9Cr2YX0dPpyiryYN+34FQueAEOWWEim5wOYW77Q3E3RfCxSeUEUQhZ9pzmjya+M6HjYx/D38kULdkMVSiUhpvKMl2eZjX/YQg0u4Y8XjnmfvJM4nrqnhGJZdO/KJuMmWQ==
 gogoanime.free.	172800	in	ns	isabel.ns.cloudflare.com.
 gogoanime.free.	172800	in	ns	maciej.ns.cloudflare.com.
 goinggoinggone.free.	172800	in	ns	dns1.cscdns.net.
@@ -2022,7 +2045,7 @@ gymshark.free.	172800	in	ns	ha2.markmonitor.zone.
 gymshark.free.	172800	in	ns	ha3.markmonitor.zone.
 gymshark.free.	172800	in	ns	ha4.markmonitor.zone.
 h2lkq40uoc082o0vpebsisjq7e353sbr.free.	60	in	nsec3	1 1 0 - IUJ0BLOJ2D38F2LECDR1R51LLIPAQLF2 NS DS RRSIG
-h2lkq40uoc082o0vpebsisjq7e353sbr.free.	60	in	rrsig	NSEC3 8 2 60 20251007221024 20250902215257 43450 free. cJ5FJuDuCqOkzxJIebW7mNi9McwD1L3inKdRoKw8pdazYPPcOvc8CRo3b2NsGYkHISRRMH2+KLmOT+lwDRXYhKzwM1du56X9l6MLgGx6t6Hg4i+CasKCbx5jCa2kBGkUb2dZ7v0JPyYMBpI/AO1foglHh6rclu5tDVekqItTHLYFidV4icNyDzgClKAc3uWhtZ6dtksuoTF8IwldDUyLW53VZB7u0dLEIJx1RhrRCyoRM7RWMpEFj4N9fVgG6TVLWL2Ab+CwYHZ95/bO5Jt1LVjSGypGmvuATble36YWsVvchiy7L8e1/dGxBYdFsioNX9Eso+n3ya07ZOqNSwfWUA==
+h2lkq40uoc082o0vpebsisjq7e353sbr.free.	60	in	rrsig	NSEC3 8 2 60 20251010230749 20250910082541 43450 free. C6DIlfahKu0PvjjizGGVUmT1cmKAe7WRQYVLbGBEwXU7sUrl1vQ/mqDz2DMRMD59RXAl8oOIn6cVzE9qJaAd5u/8kmlsPUECzUZMYfCU49K39YC//WoM8J1rFubc/9vOqoItGF6dAhoJe/d+xQ24K4FtimcXbrIxyLOPur+EvV5yRAuvbKzN5IPmP7OIiC9kyTtc0iCjtTejBOSKYLb9ZRxIa0mW8ZGlVud/6SVXl2CouP2WZRATauL1avc8sCA4+Qwg0TBVnO2bM9uWZb+Ew7np+kR3cDdU162Yly2Lf0HRIDcH1v7q72aNAT2JGFFfn3rubzBZV/yjR0RwLjgFYQ==
 halifax.free.	172800	in	ns	ns2.lloydstsb.co.uk.
 halifax.free.	172800	in	ns	ns4.lloydstsb.com.
 halifax.free.	172800	in	ns	ns5.lloydstsb.net.
@@ -2035,6 +2058,11 @@ hanko.free.	172800	in	ns	ns2.gransy.com.
 hanko.free.	172800	in	ns	ns3.gransy.com.
 hanko.free.	172800	in	ns	ns4.gransy.com.
 hanko.free.	172800	in	ns	ns5.gransy.com.
+hanyu.free.	172800	in	ns	ns1.linode.com.
+hanyu.free.	172800	in	ns	ns2.linode.com.
+hanyu.free.	172800	in	ns	ns3.linode.com.
+hanyu.free.	172800	in	ns	ns4.linode.com.
+hanyu.free.	172800	in	ns	ns5.linode.com.
 happybirthday.free.	172800	in	ns	curitiba.ns.porkbun.com.
 happybirthday.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 happybirthday.free.	172800	in	ns	maceio.ns.porkbun.com.
@@ -2097,6 +2125,10 @@ healthy4u.free.	172800	in	ns	dns4.name-services.com.
 healthy4u.free.	172800	in	ns	dns5.name-services.com.
 heatwave.free.	172800	in	ns	ns1.101domain.com.
 heatwave.free.	172800	in	ns	ns2.101domain.com.
+helloworldb.free.	172800	in	ns	curitiba.ns.porkbun.com.
+helloworldb.free.	172800	in	ns	fortaleza.ns.porkbun.com.
+helloworldb.free.	172800	in	ns	maceio.ns.porkbun.com.
+helloworldb.free.	172800	in	ns	salvador.ns.porkbun.com.
 henkel.free.	172800	in	ns	udns1.cscdns.net.
 henkel.free.	172800	in	ns	udns2.cscdns.uk.
 heovl.free.	172800	in	ns	dns1.registrar-servers.com.
@@ -2121,7 +2153,7 @@ hillshirefarm.free.	172800	in	ns	dns3.idp365.net.
 hitclub.free.	172800	in	ns	launch1.spaceship.net.
 hitclub.free.	172800	in	ns	launch2.spaceship.net.
 hitclub.free.	3600	in	ds	5534 13 2 82693F2C813C30A1A91B94B4F5AC823F3B67FACE1F14AF6F110FA659E501C1B3
-hitclub.free.	3600	in	rrsig	DS 8 2 3600 20251007015647 20250902013912 43450 free. GiHlbZdW2hf2M6qCwtqXylfBpKnAer75yLf/eQEGiLhhi7wHbSpNFbuJ4iR36/uSiogRGUVwqcqNZDx4ssiIAw5XtFEBdzMYeF6ZkLi7aNFy3UZlYdHdOYhg5/QoLXxSP689jBISoE5/ScLf2EJ2ZcLkFBhbhNbljr7ptVAPJt9ALWxAYbBU5m/UESZKHxwPpF7rJYCUPEux1A4WJA1Si3IK57kbjxj6HdWjIL3LbCArFnZ+YmUGvTHu0+yCgexTCmz1vMGB0GMxTIfLQNMh76IPOfiMu5zrT3UKiZwz9adcQF0njpC3eDhT/bvYTGRW1rPO1zaNMgBYFnk3gF5HwA==
+hitclub.free.	3600	in	rrsig	DS 8 2 3600 20251014014122 20250909005647 43450 free. goRujbzDcavI5qsHMO4Z9k0pbYU98pMX7Wjq++X5cetQEWbR5+7ggnaqSTPiMutyHRQfEv6uv370GRBI5/+4qdvgKoB0D32349bY2yBG8Ziw3pcfa0jh/Ek7k52GnaMYqoy/KG9stfVvovhiZ5ZCEZkIsBUhKFQWtKjqkeD3wgUDs6FDThk/IdWpdjRt3aJdQf5TL0XCq95UUSbNKw6VhGYpg3gkTzbhCvEIGd4dl7sYoAUDjuZHscObSMYUO4QNlDFGJCQCBupNXwUbjDJHQD89+rOVjYz4flxeGrzYq5cAixRrMit24yr5n/uQzCMcaT82LBfv5uijWgG4hSLe/Q==
 hodl.free.	172800	in	ns	ns1.atom.com.
 hodl.free.	172800	in	ns	ns2.atom.com.
 holo.free.	172800	in	ns	ns1.101domain.com.
@@ -2167,8 +2199,8 @@ hubspot.free.	172800	in	ns	curitiba.ns.porkbun.com.
 hubspot.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 hubspot.free.	172800	in	ns	maceio.ns.porkbun.com.
 hubspot.free.	172800	in	ns	salvador.ns.porkbun.com.
-humanizeai.free.	172800	in	ns	dns1.registrar-servers.com.
-humanizeai.free.	172800	in	ns	dns2.registrar-servers.com.
+humanizeai.free.	172800	in	ns	gordon.ns.cloudflare.com.
+humanizeai.free.	172800	in	ns	mckinley.ns.cloudflare.com.
 hutch-med.free.	172800	in	ns	dns1.cscdns.net.
 hutch-med.free.	172800	in	ns	dns2.cscdns.net.
 hutchmed.free.	172800	in	ns	dns1.cscdns.net.
@@ -2215,11 +2247,11 @@ indianporn.free.	172800	in	ns	dns2.registrar-servers.com.
 influencer.free.	172800	in	ns	launch1.spaceship.net.
 influencer.free.	172800	in	ns	launch2.spaceship.net.
 influencer.free.	3600	in	ds	14236 13 2 19080E753CA665E7C686EBF275BE8917B9599574ABD0799C325314D7846388E0
-influencer.free.	3600	in	rrsig	DS 8 2 3600 20251003085526 20250829084509 43450 free. Cxs/eQNoG01YVk0hmmz7tVmFW1G/GmbaLYSA7YHETFiu68c4oXHz5PQKru2UlvO+Ha9YSceK9lTMsByCeJU0pXa5yK2VqtSWGftKykp3tcjwWy5SGY5IkzG86obysTpLTBAcF10HgBbP6yPbeYdGa6dGuECJhFiGPJl1Af3j6jztJI6t/bDi7hopg/VJi7rMjc5bRsrDFV1mLKvfkURQWfgfp6gcc5qI4WSorAyvOucOY1BP5aI7h1JrRm2fHX4R2s36qIfzEnCcOEQ++Z2oejOohDM+eiAmao5wkFJMAlOaOZxDalY8NkbCrqj6mUT+BcojjRsHZBWu7TNJ89lTtw==
+influencer.free.	3600	in	rrsig	DS 8 2 3600 20251010083835 20250905075526 43450 free. Ikg4gQVnI9Vz29suSkDzBGgkRM7CE0I9R6PtuPbxW7OFtuvSWeIShQT5PYxhqEj6lfZnd8z2ePOnc5KcvGMjcM5za1T1GHR9QfnbCg0a9ONPoi3/lIua6faapAdoFtb0TRWpl9mNI8v7+K404S9kh7VVLT36+/lR05ic1MLf9ptkv6Vz5Zp/ur+DjaKB8VNtulSsfv32d69nfmdNT++D5tkaEOSXk/TypNLeYSP9+WP8uA65u+vl7fALWM8y+1/zLqq+Y27itEKKerDcW3UahlswRqV0i+Mu5fmoRZzZgePUq9Hbeg4W3twPaxl+7Jh96w7bvV+lvapVq6x7C/cKFg==
 infra.free.	172800	in	ns	launch1.spaceship.net.
 infra.free.	172800	in	ns	launch2.spaceship.net.
 infra.free.	3600	in	ds	4827 13 2 8DB2EDDBC54B744479FB94DD1E1E0717604715CCF46C066C1DFF23816452C1A2
-infra.free.	3600	in	rrsig	DS 8 2 3600 20251007184152 20250902180741 43450 free. guD1pYQ+CxkDk6dNeAIUPoqgaB/ndhhTPzlEjtIbp+ZjvjkhoAVmCjCVyjnODmGryXVf5KavS+ZQQOuMjylxpp/U3mVBPqMRXSIfl34LV62kTiiLFDbqQqm5fNHzzZoiQdPVD/FtIkR6L/h3XDu+U61Sx+bFzCDMjYeWgxtYoE+rWi0Yc57WDY0X0vpBtZFFHnYmyaPT7+PJWnGMghfAw03/41syEK2M59DUHNAhe/vjTyi8rtFRheaOzzZoifmJcaPpKmNVCxUGIk1lIRAn7TYut3AD+y8o3fUByNBa5KppjKeA4BDJbeUvaAgMPHzjbz4Ds7pBKe6hrVM/NZhEfQ==
+infra.free.	3600	in	rrsig	DS 8 2 3600 20251014174347 20250909174152 43450 free. dMjN38fuwMaBOnBRzMZXPGL0mndLXorZRN3ByGnPn5DMa4mfAjsPzk2njULkLFR7xymfyUFgzcOAzKNaOgslXUih71gc5EGm5zBwR32qasogqmVsL1P+BTXXO7r9sFKbsIXqM1ZnqlgRd0LiFgZH4ng+/5Vs6nVObeP0BT6ZjG27XRZcV86CRLX5fHw8IotxcT0XJwGLZEXjB6Vc8hVs17t2qu3z7edgGN34E0UdpYkRnnP0lpeptuSoyEkHsPsMoNcwoD4x5Qge729yLCDgzeSm7gEyaIRFQ2/K6QHHinuHZ/uKv758T++21ghit6ZG062i3tGxMJvB4G7zqE2EWA==
 injury.free.	172800	in	ns	ns1.dyna-ns.net.
 injury.free.	172800	in	ns	ns2.dyna-ns.net.
 innis.free.	172800	in	ns	launch1.spaceship.net.
@@ -2257,10 +2289,8 @@ invoice.free.	172800	in	ns	curitiba.ns.porkbun.com.
 invoice.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 invoice.free.	172800	in	ns	maceio.ns.porkbun.com.
 invoice.free.	172800	in	ns	salvador.ns.porkbun.com.
-invoicegenerator.free.	172800	in	ns	dns1.p02.nsone.net.
-invoicegenerator.free.	172800	in	ns	dns2.p02.nsone.net.
-invoicegenerator.free.	172800	in	ns	dns3.p02.nsone.net.
-invoicegenerator.free.	172800	in	ns	dns4.p02.nsone.net.
+invoicegenerator.free.	172800	in	ns	lauryn.ns.cloudflare.com.
+invoicegenerator.free.	172800	in	ns	sullivan.ns.cloudflare.com.
 ip-info-api.free.	172800	in	ns	ns1.gcorelabs.net.
 ip-info-api.free.	172800	in	ns	ns2.gcdn.services.
 iphone.free.	172800	in	ns	a.ns.apple.com.
@@ -2284,7 +2314,7 @@ isaimini.free.	172800	in	ns	ian.ns.cloudflare.com.
 its4.free.	172800	in	ns	dns1.registrar-servers.com.
 its4.free.	172800	in	ns	dns2.registrar-servers.com.
 iuj0bloj2d38f2lecdr1r51llipaqlf2.free.	60	in	nsec3	1 1 0 - MLD1RIM9SFUIO03KB6CIDPESBIN2AF5O NS DS RRSIG
-iuj0bloj2d38f2lecdr1r51llipaqlf2.free.	60	in	rrsig	NSEC3 8 2 60 20251004142634 20250830133814 43450 free. BY0G1xiU5Vr7vSK+AMLUUDIKPnPf2S+naLgFD/TNMePagAGrneqaYp0VK6g4d9Odd6mNkhMqocV3jsvo3wqNRF2kQZoCICTC/cFpO4V/LAuuDOw0FthZuR6xnaS/t7CM3o9h7PvojpjusXG6RFIdE6gEuF0e0Nf1TTQp+57hGjtOUFLcxz4B6yTkBbWPIYacTolrs1mf0LqkkH4kEA5equT4VJs7ihbjniNHooFApQDDwG82oOFUrlNcOlgaFTaofDlLyuwp+wnAx8D2aT7XZe2Cj5PNwDSfee5y161TnHA/CyGGCykkvmKGJvrNuG2jB2+2Uo7NEyAGFlmYb8QSMQ==
+iuj0bloj2d38f2lecdr1r51llipaqlf2.free.	60	in	rrsig	NSEC3 8 2 60 20251011142558 20250906132634 43450 free. Bv9/1iPWaZfWZJhjgiQ5yh99DrSNLkiKg4OXzXVIBjIrFd5kOvWZNaKF/JpBDMP7NA13H65c4DFViQJ+wMRyTpOA3z+nEnBtTepvfRxjTvzucHEcWyd6hZ0Vtt/VlVTbWjv3X4Sg2X0BH4UJNTETFj2OG8pcmD/Zb3pdFuh5NSf8qKdr1ZbVhNuMw+RmzOnpVydp7HJqK1nP1Cl9uMSzELPuwzaX0KADJV9fDncRjwO6lubwSKR0tyqHLDF0RW3TN5wcJnu/JOen44g7kVBZmeMjKX0My8VXT1VpMdvUJwMmmvogSVG8BmKMjIF6ZfscD4SIMpvLUWMKfv96m1AIOA==
 j88.free.	172800	in	ns	meg.ns.cloudflare.com.
 j88.free.	172800	in	ns	neil.ns.cloudflare.com.
 jable.free.	172800	in	ns	ns1.101domain.com.
@@ -2388,6 +2418,8 @@ kindle.free.	172800	in	ns	dns1.comlaude-dns.com.
 kindle.free.	172800	in	ns	dns2.comlaude-dns.net.
 kindle.free.	172800	in	ns	dns3.comlaude-dns.co.uk.
 kindle.free.	172800	in	ns	dns4.comlaude-dns.eu.
+king88.free.	172800	in	ns	benedict.ns.cloudflare.com.
+king88.free.	172800	in	ns	kinsley.ns.cloudflare.com.
 kinship.free.	172800	in	ns	dns1.registrar-servers.com.
 kinship.free.	172800	in	ns	dns2.registrar-servers.com.
 kitchenaid.free.	172800	in	ns	ns.whirlpool.com.
@@ -2421,7 +2453,7 @@ la-plage.free.	172800	in	ns	ns-9-c.gandi.net.
 lancer.free.	172800	in	ns	launch1.spaceship.net.
 lancer.free.	172800	in	ns	launch2.spaceship.net.
 lancer.free.	3600	in	ds	15588 13 2 114E2ADE02C81EF27A23F2520D475DBD69B7ADA910CD965BD2A5C6782392BBD6
-lancer.free.	3600	in	rrsig	DS 8 2 3600 20251007203951 20250902202651 43450 free. EWpxGQFZE65cMoc5YJ/uzPFKgFQGCIpEsWYs/1m7d4nQ4t26jyFUbx4QrFnb/NU5I1ewjkoLtVavuNmtAFiQ2TDbUGXulSK3jTOzapeF3RNLG1ia32PWPrShH9eldtSxDmGM/ZvcNHl+8dieeb69RS30mS8ZwGIPtjaWJ0OF/XAseX0NXk6iKl77awrxyAgYgfWl4k7FRVPDXDcIhP6VLVnctyWyEEAquImo66rPZ2qfTbs5mfq+zAooznsNqFM3DhXwCTwbJSfwtU+qU17Avkm9PWmvFR9YSVOxLtIzoXj7dX3oevZwobl2Mn9ljQ9uF8j9tyopHS3eVOBQ9JwrBA==
+lancer.free.	3600	in	rrsig	DS 8 2 3600 20251014203116 20250909193951 43450 free. OerEcl41YiklmYHFCVNPyoujtymnOy0iIZb3ydAQnDWtpP4H+8loJYv4fb4LmEYf231eqsKsuhQtFSX5I5MTQXrd9WMPUsxvWgDo26sZOHh8IJh5xP1CqgRatqovAbGcA8467rlq4yTVCpz3b/VaCzHhXItdFfJ7A9alpFVSxb+oG4zbkMo+2bYEhR40/ul50m/6DnNmTKdKf/kqjDjUSIJqcKkQZT5f6WJchmAZCtOZFe2wb6yQWy4FCZq7xHjE6BorHA1aVi7Ehdgpmh6FB0pOhunqXTqMOntnZxlC3c793/tf2FR8Mnsav82c2dnWgUOjvB9VGPShx/1dxOVMbQ==
 lanebryant.free.	172800	in	ns	dns1.cscdns.net.
 lanebryant.free.	172800	in	ns	dns2.cscdns.net.
 laplage.free.	172800	in	ns	ns-129-a.gandi.net.
@@ -2521,13 +2553,15 @@ listen.free.	172800	in	ns	salvador.ns.porkbun.com.
 litigate.free.	172800	in	ns	launch1.spaceship.net.
 litigate.free.	172800	in	ns	launch2.spaceship.net.
 litigate.free.	3600	in	ds	55166 13 2 E61DDD52E946CC0B14E192723CFF9FED45364CCCA4CCEC955D97AA87904FBFF1
-litigate.free.	3600	in	rrsig	DS 8 2 3600 20251006200733 20250901191137 43450 free. R4QMeycW8kflEMdRXNeiSDWEk6f6+XGZYCZG7wt7fSCrXWG/wtkgBLmgk1aZBFJgGAsqab/G4J1Ezyz42S7mKWJhRTThspMNc8JlMiih1ADdXS37VryDoPQf3qae4cx4UWS46O7n6BXgfOnNliuTeyhI+9W849NZyNXbLWl2q8+G25HUy1njE1BIA58RaFPGoSna8hAklNnv8DbJrL7MQuDPI4OkhYAIkTyOVo782kUd0om2a8e0rnQZKRju+0KsuZJBULRuyU9VDKRYO2meDauBsIM49eDMhnt5nnDvhMui31tJ9NBJxJSeXhPazUyO+9hCTqVb6SWC0xtUlEkDvg==
+litigate.free.	3600	in	rrsig	DS 8 2 3600 20251013190814 20250908190733 43450 free. HXDgaMM1IEfZvQz8X1XInlnGJ7i6tGDqJY7+GZh/7n82h51Kwla9TBTCB/5gH5sR5z+Ium51lbrVnEIlCbkDGiIWGa+6+qvFzjcerEzIu7sLEO7FDncPSaK1Yldi/CE+ovnuvEE2Cra8059A08cGsaiK5BsGp+eEUsxebZvi4rgwMVoPWhj9qg/kaxpYyN0oByh8M1HVW3axJF34lyeWFOZvpABCgobr51QilQc8wl5lYj8T+fzNx+dLM6JfIA5zjKB1UVHo3+sKX4thl4nmCTErN+R4cd2JrlGunxu2KvtX5aEqTtcDpoitbmZYxgWYGm3siDE7KY7Gy/4DknqR2w==
 live.free.	172800	in	ns	ns1.101domain.com.
 live.free.	172800	in	ns	ns2.101domain.com.
 livegood.free.	172800	in	ns	dns1.registrar-servers.com.
 livegood.free.	172800	in	ns	dns2.registrar-servers.com.
 livestream.free.	172800	in	ns	ns1.atom.com.
 livestream.free.	172800	in	ns	ns2.atom.com.
+livewell.free.	172800	in	ns	ns1.hover.com.
+livewell.free.	172800	in	ns	ns2.hover.com.
 livre-de-poche-jeunesse.free.	172800	in	ns	ns-114-a.gandi.net.
 livre-de-poche-jeunesse.free.	172800	in	ns	ns-177-b.gandi.net.
 livre-de-poche-jeunesse.free.	172800	in	ns	ns-39-c.gandi.net.
@@ -2696,6 +2730,10 @@ maxwellhouse.free.	172800	in	ns	ns1.iptwins.net.
 maxwellhouse.free.	172800	in	ns	ns2.iptwins.net.
 maxwellhouse.free.	172800	in	ns	ns3.iptwins.com.
 maxwellhouse.free.	172800	in	ns	ns4.iptwins.com.
+maxx.free.	172800	in	ns	curitiba.ns.porkbun.com.
+maxx.free.	172800	in	ns	fortaleza.ns.porkbun.com.
+maxx.free.	172800	in	ns	maceio.ns.porkbun.com.
+maxx.free.	172800	in	ns	salvador.ns.porkbun.com.
 maytag.free.	172800	in	ns	ns.whirlpool.com.
 maytag.free.	172800	in	ns	ns2.whirlpool.com.
 mbbs.free.	172800	in	ns	curitiba.ns.porkbun.com.
@@ -2719,7 +2757,7 @@ megamall.free.	172800	in	ns	salvador.ns.porkbun.com.
 melbet.free.	172800	in	ns	launch1.spaceship.net.
 melbet.free.	172800	in	ns	launch2.spaceship.net.
 melbet.free.	3600	in	ds	16873 13 2 63A03E6BF798373F3DF0CD30D541F89BF7BFD6C65E4B8D31AC8653FE5C7F8601
-melbet.free.	3600	in	rrsig	DS 8 2 3600 20251006010622 20250901005848 43450 free. eEvR3hG5dNFZ2hKQ+RUJtlE+CyIUPSl/YX96OKfLBuqfI3WY/zP4nIF0BD9WeUUodKNlGmFF2QPT1lj63lymxVvGiymEXb78WWcF+tXhvd17LCeRl+uVnaghS/fHUwUIjk2acFwbXJ3MiJ08ouWIxDhqleaSkd4PSnYNPdJgv0iADntC3aHsQLCQ/5RrwlB4yrnKJiRekvjDk4MHEBRc78sRA54hCPH4JhxAmzNxKfYxMskfemIxpPnAIUF/FtippiCGxOMfyZtqQBlJn45DxkWVvt684/Rx/fxmfJ9dolV2cs7T0ckRISyJ/Tl2kC7xjPyL39Ge6LhZNJlTPs4wfQ==
+melbet.free.	3600	in	rrsig	DS 8 2 3600 20251013001516 20250908000622 43450 free. HOXauqTbY1eFtkf99rZeSZHo6ZXJlNnAFUQTnbTAIRHykd7Py0lUe4jnPlPpyDxkpBo/HXL+PFrG1KR3JYZZ+mQjGY3v0BtZKRmH+uTHI9XKV43VCO/kt01WVY9iuIdhPknmUxtkJCMJG4/aRkNEFvUMYP+IOoWjGoRbvH6LzDcx+BlWfVem5q8SJp44CkLebaIEwfw6ZGguKCD8o9tic0qEQJIN0mtE5Kxzr6hMT+cp2T57CbE4pjekrcj98hNvlnA/vIqCpYFud3OQqYPiwcRoTB8DX//XL1uU3dfGu5ceunYHMKvCwjZNHbuelVjSwh/bTqAUs4rsYd2OkJNu6g==
 melvita.free.	172800	in	ns	ns1.iptwins.net.
 melvita.free.	172800	in	ns	ns2.iptwins.net.
 melvita.free.	172800	in	ns	ns3.iptwins.com.
@@ -2780,13 +2818,13 @@ mio.free.	172800	in	ns	dns04.ports.net.
 missav.free.	172800	in	ns	ns1.101domain.com.
 missav.free.	172800	in	ns	ns2.101domain.com.
 mld1rim9sfuio03kb6cidpesbin2af5o.free.	60	in	nsec3	1 1 0 - MM88MHPFIVGT0IERKIIEOT9RHIDRFMT6 NS DS RRSIG
-mld1rim9sfuio03kb6cidpesbin2af5o.free.	60	in	rrsig	NSEC3 8 2 60 20251004142634 20250830133814 43450 free. Hb41AxYDJTZwMWb+quNl7Va+hoJbY6wN1bv/r3MezTIIf6xv/U4WlOAL8lHj6t4ZqfRXfUqHoh2FelO47Hjy5He9mZkLpWFvTzIPttO2y8+E9zkBxKH/2X+WcT4ilt4B2ejeo2f0mSilY79490hHX1Nkxclgs6I2ohxm4D2ctmPBIIGFeqWYQRrpbs1Fze0He3xTlLjtpqbPINJnHguq2GD0uvdi3ySrwtL6qBNjYIBGipAHDh1xqoa/gG46Qlx3QVpbovNAHURHZNm3LbK08Cf3sCajDR81O+d+bru9JWZn494RK7OoKrKH4MaYQ09kMjnYsox2ulHgS5PFDarxWg==
+mld1rim9sfuio03kb6cidpesbin2af5o.free.	60	in	rrsig	NSEC3 8 2 60 20251011142558 20250906132634 43450 free. kKM+kqw52IVGxatPRwKv8RN9/Ftp1fJYsRfpauccIZXXlNkBBL8c2/4Cs+t9iz2fiGN55zZty0z5KDEd5roA/RXFjkcSItV4jYdtzOZWzbFkZzSy3bUqNcubHrP99AGGtb2bc9YrKEo1pS0ia4lXGyenWl5UR7RkoxKt9VflXzTLfVK0/Cin+pXxKwXPyvVGUVKNZzrO/xwWnmfbzQV1htq77qGaxwsJj0aAK681HIdEmMLlPO1S/pjyrzyyPn1t6cjwCS9ZNwacd4WYzFUipOObzaKWk9fqyQMstPK1iqb3lDXpHGGELy3ErEHgqyhNoao6+q4K4tXSQ+UcQfM7gQ==
 mm88mhpfivgt0ierkiieot9rhidrfmt6.free.	60	in	nsec3	1 1 0 - MMV165138VVM2QSDH67KRVPD2K58V861 NS DS RRSIG
-mm88mhpfivgt0ierkiieot9rhidrfmt6.free.	60	in	rrsig	NSEC3 8 2 60 20251005052917 20250831044443 43450 free. S+zgpVwi8gyhOtrhfT8P9aztSE/oyLrOA7FM+yq1VY2McFpheTyg37ZZGBonZwuwX/KYA9xhwpBfSsjmqzZJFPrRXbuyIGQEifh1pwwvsguJ595rrCK0a+7TanrajUVtYivp7brGIWREp0ERWaOKYfOkf1m4jehqyYcJMonoNoyjpIIJkgbE64zFgZQ1MHsGtrPDq7DYXOBGZIcRf2ktvK9v+sZdf2u7eqkIDR4r07IMjKvmQsypHLHWWyi+olcm5iuTZiY2Hgp6Vf6eSrUWdHQG968VKqORjNXm/cwpQHBP++4oAt975dJLHIJfINJAi0dd1/YH1RVyvLHnE6mJaw==
+mm88mhpfivgt0ierkiieot9rhidrfmt6.free.	60	in	rrsig	NSEC3 8 2 60 20251012050853 20250907042917 43450 free. AZ3sgdybcnkyj3tCCaR4E8a/qSnXv2eHLVNFWLQDKfcR8/PcjK9c509jHN5XhIogtNLiEk1VBqj3odQ96YvXRMYPjGkJ3d19lmADN9Twi7BGjoCJmI9hQkHMJrlpD0syuawePTdMZnawIMkJCQy+C/KDhQ4JGA3VejQVSgM/NFbkDvkGoHVm7yKB6L/e/IZqJA17zZsGQGv2KadjzSH1xrieIKgALewLLajyYGhllPZ+P2Zf0WO3i8t9Mir4+p5kCNH0zzfpZo7DAcYW+d2lb7iyo6z7+4xZFEoSwwqngMS9e4EIfwGclWLojuQqMCUeTideTwQNIzB3CRZEXyRFSQ==
 mmlive.free.	172800	in	ns	anton.ns.cloudflare.com.
 mmlive.free.	172800	in	ns	kristin.ns.cloudflare.com.
 mmv165138vvm2qsdh67krvpd2k58v861.free.	60	in	nsec3	1 1 0 - N3T1H69RNV115CCCBB2P4L4J0OEVQUBL NS DS RRSIG
-mmv165138vvm2qsdh67krvpd2k58v861.free.	60	in	rrsig	NSEC3 8 2 60 20251005005114 20250831003746 43450 free. AkhOas0x4l66aVgItKBebOVxLY4+chMOexPWZY25gWJ0tqpyl8lvC3JGJwKCF2J2CQPDgviSZCcQsGZ5p0jq0CdHrTpkrOiGEXVwqZunDkMbRbk1+egzlDsZlMzlh2Dx1RmsDqnibRoCUpVZYAgKlcMVE7ZFC7LajuLBNJKBdY34AbCatS+j2opDDT4cCgouzyGED9OecnMeT66xJ0qrpAFMFjx87lP73w3pnldDZc2ZWQ1jQCSn4+KjqfxzfMFHwSkctS/TbFB+azey93lPc/cxXlan6jMlaqgEo7e7FcJKpzaUAR/NTiLAnrrRQI1KTPHyH+8kDLgP2PIKtkpXaw==
+mmv165138vvm2qsdh67krvpd2k58v861.free.	60	in	rrsig	NSEC3 8 2 60 20251012002643 20250906235114 43450 free. S+8AhE9vMhzjS7G7VxhhZggBNpUPAhgi6fADvVhS5zfg/wc1ayOPWbfMZ6SVL5O/ZEHduN0aULaS7Ggb7b8tLFVPeuBsjsK64HC+K/1YFebKRQXh7/cm7opOYQLU3xudPoIcA5SwdpN800SadwKKSsmMKJHzYtX2nvrhtIk/IHtoE9GvTavgZAxOeTIFBwFEEPrtf5mOYS9Rp3aD6MJOpEdMKgAyN1rtbiAVpSxu/KkqmhQ1OkJ1gCo9P/OtRXzOjU7GP8gc5rJDz5uUw0CxQRnvibnZNlegoos/AEPY0NYknBnwBIWTsvAkjjbs+S/XPQw+sja1PtpBrHIDM4mxow==
 mobile.free.	172800	in	ns	ns-121-c.gandi.net.
 mobile.free.	172800	in	ns	ns-26-a.gandi.net.
 mobile.free.	172800	in	ns	ns-55-b.gandi.net.
@@ -2805,7 +2843,7 @@ monarchcoffee.free.	172800	in	ns	ns4.iptwins.com.
 money.free.	172800	in	ns	ns1.dyna-ns.net.
 money.free.	172800	in	ns	ns2.dyna-ns.net.
 monitor-nominet.free.	172800	in	a	127.0.0.1
-monitor-nominet.free.	172800	in	rrsig	A 8 2 172800 20251006050010 20250901045802 43450 free. Mlaglf4/Duz/rEwwPkuo1koUCb0Mv1tsVeuNJfnBYx4HI3DEPvgCv0u/GXnqsWc9l0JE/mLD18/+hNryKaT3ey2mdeTHqYpJ0ShrpLlosrMh0dEL7insEkchB7N6jHW13qTqggI9j85HG0LeCxuT/SUed/p+PlLTTRWa2IHTfn0WKtjwHiJLM/lYM7XqrShFPSXcUjSKMbUmg2MCkXXpmeh6xk3bJDSbPEw/vTpfdLIZfed+H/77LM7PukrUSTaX3QpVIJu9rhF7nDzsmKMbaPVi9E08mNjdxF6EOvxk/20G2YmPyFhxDuEs0+L85t53H3ua8s8/iAMN8FGUh4hWcQ==
+monitor-nominet.free.	172800	in	rrsig	A 8 2 172800 20251013043117 20250908040010 43450 free. bGpXYc7PqF/pSbZX4JJEY8D/J0vv8RswZi5V9u950zk6vcUzWF3XRKvYR/WlDY0zz8aKS0SYmxC7Q2itWs6J9+dXA2PjGk4Jg9topE1zu4tsrVoo5HFPP86xBWTFIjcToH0JBNCdHNNTAKrUlXxwZHMMuAHo9xjr+jT2BVRI7PnWepDI2UbfxjzEGXrj+dGHrDqIJt/OHKoWVJyJSuE90WZsHOrPJibY85u3Myp7kqCRZc2mewGVEb8k8Wv5yA0aAWke+mcPTjufNV9IWnrjkzj2jNJLR+3kWMULwZx2uqp9B2+/RlrCAkiQUwmNu52V7o6madsvnCkt/fzGRXESZg==
 moonbug.free.	172800	in	ns	ns1.lexsynergy.net.
 moonbug.free.	172800	in	ns	ns2.lexsynergy.us.
 moonbug.free.	172800	in	ns	ns3.lexsynergy.info.
@@ -2827,7 +2865,7 @@ morganstanley.free.	172800	in	ns	ext-ns7.morganstanley.net.
 morph.free.	172800	in	ns	launch1.spaceship.net.
 morph.free.	172800	in	ns	launch2.spaceship.net.
 morph.free.	3600	in	ds	4029 13 2 BCE29A53AE938D7234F8E091A21FF1B4BE7356A9B3BF1638E327BA7F0FD1409F
-morph.free.	3600	in	rrsig	DS 8 2 3600 20251006161753 20250901160247 43450 free. CrS0LfUeObpNPAZdJX10CWVT0AXsvhSqAE2CdLABYSFkgzLwtilzYe47KyckDQz1/Gldjs/Cs9rji9KQ+xj8gdXfAln8QZXV8k/fpQhv4oFJDv3uq37//5wtnRxSPUHvD2jOHCYZm2T3X1RIgDF00ExxhZzZ2qSYUYyRZHyZgtE8oGJt/skRsVgIS2eDdQJaYavazZFpTkjq+QTr5lqZcv+sRlwtAqNq8AJMjNORw2RP6ZbPfRQDnpRMoPPYtj72q4Kh8AzoTroa67W9o7t5U6ayRPAPrdFMoeeFPRXgG1gmyj+JAsPxCHxmQcOEeByD5GY5PTiYucF3hcIFWSbcEw==
+morph.free.	3600	in	rrsig	DS 8 2 3600 20251013160625 20250908151753 43450 free. eXbqJtH2KK+nwhcvLWAU2f1leRG+r/cp5NtSfwzuclKB9CNXnOXWj5kSwMHYXDy1y8Z9D1Un93qP4AIMS+dPrF1ZrkmMRc3ARL6nnwtMfPw1JdZajdSGmsjMrB/OwEdTbq2h09153rpW2yIqx10QslpMY7sIcFSiO1Ft622SN41CRY25iuyj8LWi8WK2G37UwY6FiMDXjDMQ2lbZi2G81ZCNdzV3Lnxf2NXepnRRIbcos3qGqpqkGeYPXzH9Sby81Ty8IrL3F7CjpowwK5rZfXj3UYMIPv9P7Me7TbA9yuTGB1vdGU8V/jnAbt1dEvh0ETq2N8G95RNe2DAHX8ecEA==
 mortgagebyinternet.free.	172800	in	ns	ns1.lexsynergy.net.
 mortgagebyinternet.free.	172800	in	ns	ns2.lexsynergy.us.
 mortgagebyinternet.free.	172800	in	ns	ns3.lexsynergy.info.
@@ -2845,8 +2883,8 @@ mp4.free.	172800	in	ns	curitiba.ns.porkbun.com.
 mp4.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 mp4.free.	172800	in	ns	maceio.ns.porkbun.com.
 mp4.free.	172800	in	ns	salvador.ns.porkbun.com.
-mrleast.free.	172800	in	ns	dns1.registrar-servers.com.
-mrleast.free.	172800	in	ns	dns2.registrar-servers.com.
+mrleast.free.	172800	in	ns	failed-whois-verification.namecheap.com.
+mrleast.free.	172800	in	ns	verify-contact-details.namecheap.com.
 mummysgold.free.	172800	in	ns	ns1.lexsynergy.net.
 mummysgold.free.	172800	in	ns	ns2.lexsynergy.us.
 mummysgold.free.	172800	in	ns	ns3.lexsynergy.info.
@@ -2859,7 +2897,7 @@ musicfor.free.	172800	in	ns	ns3.netim.net.
 mutation.free.	172800	in	ns	launch1.spaceship.net.
 mutation.free.	172800	in	ns	launch2.spaceship.net.
 mutation.free.	3600	in	ds	38006 13 2 5603B6D34AAAFDCDF2A75371781D63E7A68DA0A7B07629E78E18AC6011FFF863
-mutation.free.	3600	in	rrsig	DS 8 2 3600 20251003104643 20250829102449 43450 free. KWMRqeXTmcvET6jm5jwWlPZgJbQGdIgxlqnQthoCXJ3R7cKXo+vCstaw7h2KjnliG2vOXtqJerRhKVQ7XYP+YqOkW96siYSDrUbGnEMKqzyey+gRgHHJFgz7A2qoTtspQoeG9aCCawxtOINZYZV4KQpyC2y03k6V/tnUk3mNmHXoOVicOczm3qqXBrt8NHIXwVEbaOWkopOojleMljhvsBbecdxkG5ukJVoE8Js2Pb4I2raEV5/qMmkXRKiZA+WoKciU0FvLt8lFJUOZxeszAil1JtwiM5+FkTLI/5S9YfFEp8orR9Do43pzwhzYiYxaY2tuAdcZV/vU2qR1wNLM6g==
+mutation.free.	3600	in	rrsig	DS 8 2 3600 20251010101432 20250905094643 43450 free. B2WY6+3u7dWROoF+TxBHQboPOp0wSqoJLh6L8LZwsL25FoJaETQSUqWab9nhr7vPdl+3K+Z2JT3AZPBMuucNUhUZ/5TUPJ1VbOhTIAW545jrXBh7uJXZvhZi60nW7NdR9SBpbFfdcrqhLol7sDpX1Aa0J+cgOi063gZR/D3fGTdnBLJ2hyQRrJtcFsngGfX5Qgjq2YIA0RDViutMQLfRNCUDKsPERvVpnpfJ99RgFDUNOjx1WlsTReXd2IfAPfjkIV6fW+Rk4ckbGWHQOH8Y/yWzxrFcedTD879eSiArbmTK+sDMZ5FxdUXBk4RLqnhIIyXcW2MvkiicQOxiS8e/GQ==
 muzieklicentie.free.	172800	in	ns	ns01.hostnet.nl.
 muzieklicentie.free.	172800	in	ns	ns02.hostnet.nl.
 mycaterfood.free.	172800	in	ns	ns1.lexsynergy.net.
@@ -2885,7 +2923,7 @@ myoliverkay.free.	172800	in	ns	ns3.lexsynergy.info.
 mysql.free.	172800	in	ns	ns1.101domain.com.
 mysql.free.	172800	in	ns	ns2.101domain.com.
 n3t1h69rnv115cccbb2p4l4j0oevqubl.free.	60	in	nsec3	1 1 0 - NMQVLMQ7HIADDKL17BAOKOUPPIVC66NF NS DS RRSIG
-n3t1h69rnv115cccbb2p4l4j0oevqubl.free.	60	in	rrsig	NSEC3 8 2 60 20251006231638 20250904141415 43450 free. KgHLOoITu2pdaWmu+JrKUtI/1ABfYpYvLUaLa3MJcMQ2qmKwrXzUhKhqPa/GlMRg17slMYkTVjiD7p+LpW4Ndu1uZTy7hZRiE06IAwVxCwW0BSWX11xfmTpTlnK4oCcNVUujADuIcG7fP8XhCM2yU8zlfn0aCU/fyP9Wf60+hi5wUter2e6XwQVibLTPOqko31ek6H8ptgRPs43XKam4f2rf008m+dD4zbLsJ9TIaOVa7GEgbS85H4tnN94HXwAelQzpAVYChafcOtSLU4SyGyy1bLsoceCobRh3xKA/+n0BorNSk+rR4dmz9a15FLPKBjK2yLSwZnnm5eBdJb3z4w==
+n3t1h69rnv115cccbb2p4l4j0oevqubl.free.	60	in	rrsig	NSEC3 8 2 60 20251013224059 20250908221638 43450 free. I2E19DJpurrsR8BWMMVlW0KziOdoBioEoAEhxkEYXyDViPzYVyJHH6uxt1gqZDCF77fUKFkDUYem5fjTsK2IQUoNKw0YNuQ7ZV0kAfctyXapSpuU20Ezq8YWCHSuAVDb5cc5lgH/UakO5KMMDVrXerI6B8ZjdaaTMLJtDCh6VoIhXLfooiIYM5EfES9UjXtCK3clBJ/ZgaD3SFAbHeFBJb5Px8z6CZKlXIScWcCRjoyxoUNDW5w1l6uhQ7F5UCg3bk2Z2tQejmUitlH2Ayj0rqprbI1lgMzRLeF+W8x6XaveLdauqfSb3YCvMC6bZnTkqb1KFrN7kdTAKoYELZMR3g==
 n8n.free.	172800	in	ns	curitiba.ns.porkbun.com.
 n8n.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 n8n.free.	172800	in	ns	maceio.ns.porkbun.com.
@@ -2958,6 +2996,8 @@ newai.free.	172800	in	ns	ns1.dyna-ns.net.
 newai.free.	172800	in	ns	ns2.dyna-ns.net.
 nextbahis.free.	172800	in	ns	carrera.ns.cloudflare.com.
 nextbahis.free.	172800	in	ns	robert.ns.cloudflare.com.
+nextdoor.free.	172800	in	ns	ns.liquidweb.com.
+nextdoor.free.	172800	in	ns	ns1.liquidweb.com.
 nfts.free.	172800	in	ns	dns1.registrar-servers.com.
 nfts.free.	172800	in	ns	dns2.registrar-servers.com.
 nginx.free.	172800	in	ns	dns1.cscdns.net.
@@ -2973,7 +3013,7 @@ nic.free.	172800	in	ns	dnsb.nic.free.
 nic.free.	172800	in	ns	dnsc.nic.free.
 nic.free.	172800	in	ns	dnsd.nic.free.
 nic.free.	3600	in	ds	62507 8 2 F83720CB09C3FF18EB028F7C5F9B26E28013FD3E5A9622C2124EFBD9395B7480
-nic.free.	3600	in	rrsig	DS 8 2 3600 20251006050010 20250901045802 43450 free. E9PVWIfiMZeOTk01YsBL/to39Eg+FSbH75WZbMP/WrbQ93QGumiHK7XuVhHesZ5nISNkUoS1rkGKTxup0Eca94f4uVQ15rG92pl61qwtLifkstiQz8k4d7WYPj1hymwmu8fgW5Jburfxe0xkotMUNGDTHecHz8w7cjbjAya2DWIaksvTXEQtzQMfI060ZHgq+9xXWqPDe0DaYcEeFYd7v4Ov/ip0KVQaepGc4HYqkQVKHJr2dcmafspL9XvG/Ea5M8ZWxuFGKjeYa8dTRcoLyw1MbfQr9m2HGfCMkFBQvAUL/MbCjNOD8lpz1lcmq6Zh6CbW9IRui2V+mB7ObMltRQ==
+nic.free.	3600	in	rrsig	DS 8 2 3600 20251013043117 20250908040010 43450 free. H55IdtcvHXvLwU+dkBRIXdtH6vOZPzZZ86BX0tpPqrJaF4ZfPiERtQ6FJ7dU90u3CuVpO3wGvq0USp3Clp8Qc/nhscJkHfA0mpHu5+Z/XI1e7j2l/B1XxH7l7TacsLJQI6aLwTsft0mQZbTJzU/o4s3QAzwaK4wz9RShpEMU++lP6uvMact+8+PjpWcrAwV6Drx1cYC5bKcg/IR36IRnHDjKkHjlh0NTQn+GcGG1d/L6L5vRjBJV19+dnN82Y2hsGuy9OYoryL0aqZb027SowwO8M1S3ycmqL6+7Np7Y4qLWSy0ZbvHcJkBqITiX9+n3F7MmxGR54XmHeTnOe7/brg==
 nicotine.free.	172800	in	ns	ns1.101domain.com.
 nicotine.free.	172800	in	ns	ns2.101domain.com.
 nigger.free.	172800	in	ns	byron.ns.cloudflare.com.
@@ -2983,7 +3023,7 @@ ninjacasino.free.	172800	in	ns	dns02.ports.se.
 ninjacasino.free.	172800	in	ns	dns03.ports.se.
 ninjacasino.free.	172800	in	ns	dns04.ports.net.
 nmqvlmq7hiaddkl17baokouppivc66nf.free.	60	in	nsec3	1 1 0 - OCB10IFDRH0EBQ2DB5K91B4HLML0UQHO NS DS RRSIG
-nmqvlmq7hiaddkl17baokouppivc66nf.free.	60	in	rrsig	NSEC3 8 2 60 20251006231638 20250904141415 43450 free. FbqrBZMumfm0Xvk1bNFA4H8o5+IhEw6y1uhOS6UvJ3mG48gE/U52GPtDgYxE8oDvNTQNTjkwYEPpF1WJZEOcXgewHm0vCcECh+5Jx6QMmzZo5s/3qYxMfgVy8sTlsXZBcUnts243gxODkI/FVkIy9tC34hn9PdWuGVflqprI3TJdGy/mEmrDwnh4KtqY6OEioSvkoOINaPaxf/231yJIji/Xh9SVtHE836FxvjMTyrdlJoyz5wPw4rBrN/mHeFYm6MJ/Ftih/akpciCFIwcn52joy5rPR36jPmUbFEbNc2R8YrtRoG84itCzqaBQQKCgHnnyd9dGWCLixAybvgtDbQ==
+nmqvlmq7hiaddkl17baokouppivc66nf.free.	60	in	rrsig	NSEC3 8 2 60 20251013224059 20250908221638 43450 free. BBx72GGqSEdDnqTfiyElqau6I5zEnw5sgSctBqoScLsRbmRBdoogzcLSDRYfBqasHoMel1xVBRrgjCjcnQq8aD7Skfv8J7RtvHkv7fuvAQbCFbJN/uhf4lUXTYkzYl6SOuPUe0/rUJdZtgW9t7OX9kYZ+5d0d81bO2+G2AmeQ7jYQd2MY4Ya1jnLGczpC0LHPAcPCUSU3CqDPG35eZ89Uh2raHrwC5rj0+2qw7TAVCVO3dCepNjN1UO2DXyK43auXp6GKXINmnLaiyWw+cDZq0EFHdOwVhb5FC/cICcBOjcohxTM/2NKmEbKe94at7CXnkfkwY7k8nF4YCdogc/WLQ==
 nnb-edfenergy.free.	172800	in	ns	dns1.comlaude-dns.com.
 nnb-edfenergy.free.	172800	in	ns	dns2.comlaude-dns.net.
 nnb-edfenergy.free.	172800	in	ns	dns3.comlaude-dns.co.uk.
@@ -3001,7 +3041,7 @@ nomad.free.	172800	in	ns	ns2.variomedia.de.
 nonsense.free.	172800	in	ns	launch1.spaceship.net.
 nonsense.free.	172800	in	ns	launch2.spaceship.net.
 nonsense.free.	3600	in	ds	60838 13 2 D1FFC52CBF605129E6C1411804936A2C7CD4CFF4EBA097485BC684F78CECD766
-nonsense.free.	3600	in	rrsig	DS 8 2 3600 20251003165955 20250829162451 43450 free. gapJodHvwwu1D7n7pU604nB+jS+jih9vH5ek8G/3NXX082Rlp94PN1f4upsvreS/qcu8Tvl6mVziIb2Zkre7uq0HWRuK6f1a9INcLjxKxF2vbfbyJSZKxToP4ueHdCPCWhvxkBTgyRLPk2EG2jrk2UI/Sh4WGPMbT078DnQTc2h4gakeypqi4t8L1MXOd9Mf5jibYOfoJWTA78icaLSu2rg1CTxdc62j9Ug2OKzmYJTi5SAXTM7EOWJ6BU14qa09GNRJ/Q3SyKlLBN+kzSxvtKnrLofwksumh0z5mTy4ZsGR3rEnmyW9NQF2XVF0M0/0nE+c4Sb2EsJFS2AFfeT1Ew==
+nonsense.free.	3600	in	rrsig	DS 8 2 3600 20251010163459 20250905155955 43450 free. R4bN/fwqCw/DDq1QWre+PiG8T1BPnqvQ4vlkRSVimH3QRL4UOrpxFsbxICzo6XrqGpxcIqK1YnxPzng18eNhXYRWecjwdGpucm+H5ckR/9K/cqvM5dYA/cXHZ2cR8ViCQHUbhaJYFworgqbjdfXMnVbUSHM3bTltQ0D4Y5i00/Ys+I8CFJyfRfreCx+yaU9JNdQRqKNJzaP/eCBhZ6W6eXfKlb4yRuBHwXVTd420Xb7EwK5tkQbWbtqXM2oWCDF8zansldgvsUsvFHBDK9BngnjsH6LyGuLfyhp1zWhK8V08i9oVLOs2NdV4mnL+3dCKfDmGtFlQKpk+gep35y5ycA==
 nordstrom.free.	172800	in	ns	ns1.markmonitor.com.
 nordstrom.free.	172800	in	ns	ns2.markmonitor.com.
 nordstrom.free.	172800	in	ns	ns3.markmonitor.com.
@@ -3033,18 +3073,18 @@ o2.free.	172800	in	ns	ns2.iptwins.net.
 o2.free.	172800	in	ns	ns3.iptwins.com.
 o2.free.	172800	in	ns	ns4.iptwins.com.
 ocb10ifdrh0ebq2db5k91b4hlml0uqho.free.	60	in	nsec3	1 1 0 - OEEKB0Q5RC76646PL6QTL7EFRO95DBLS NS DS RRSIG
-ocb10ifdrh0ebq2db5k91b4hlml0uqho.free.	60	in	rrsig	NSEC3 8 2 60 20251007140320 20250902130459 43450 free. ivf3fYwucx9OVHdBuUQtfl+1tR/i2CDNDARbjE1minTW6KLkCCeP7qeMHnUFzdypjR/Z89cAT9dmqmL19H29yXo6rLL6rx8u7H05NlgSE10oypFQp1ch+Y/4PAccuvsaxZVny9ZXNrNvrrVFPkIohpbzd5+vjXP1EhjbTFVsXJn6oWzUVNN21lffrdbfPOGo3NnY1k9IgiZ3hnjP6P7iZM/1zSrLosZ+Ue097aOtZCqGqrhrO/U7D2vNnDXQEuAQvvgQCG666zFnnBqtenwNNnd3TAF4nZgv4ybtKtm3f0BrVfSQNuFqQwQ2jcOqYvWALLPyKZfcTXKshNW/7Y0Idw==
+ocb10ifdrh0ebq2db5k91b4hlml0uqho.free.	60	in	rrsig	NSEC3 8 2 60 20251014133144 20250909130320 43450 free. Ed+La5zXHj1WwHnkj+rtQF7A8YdXszlrqFBXrzw9mOJkn6X8Bl2Wdsg6YlbMmVRpyzDPe3UOwWELCIPlltclzT9w7mirMM3i3gqJgKALXsPe68jvLeFVmiX8EqVPXHWxrc3A2bSVkpwmR4Pe3JbgyvArMcdQ263thssGxkni4vtth3lTyb205ylFtRIFNbKSCuW43Yh+09/XJh2+Z8RhgKJwL/IbWYNLLYfWAPfnQvvqosGctvXqQnqrEzsKK0wAZPQYBpX+69+a3Gr4RdM93yzlkbjBTId6wmKODwI4JqXOq2rEW8163kuUHM6NtzCXpKYnmZTTt09/jhs02jYN2g==
 oden.free.	172800	in	ns	ns-176-a.gandi.net.
 oden.free.	172800	in	ns	ns-189-c.gandi.net.
 oden.free.	172800	in	ns	ns-69-b.gandi.net.
 oden.free.	3600	in	ds	18800 13 2 0DDCBE4016D8DAE7B0460CB98A2EC64A5544902EC747A2FCB99DD1FA685157B6
-oden.free.	3600	in	rrsig	DS 8 2 3600 20251003111444 20250829101936 43450 free. dEwCIR8p910qlqlHwZXbXQz1HWf0sLdGJYgYFMjBA9YVx8g4ZJi2EcPIOfirpmq8dbJh+itVHzZAQ8BUR0+jbFVKhaUFNDx1GB69Aza10ihpceXmtBUlO/Xd/uOQR3CYp4dl7QE6S+K4/c3/50Hpa4rz6hJSZY1p7+l/h6vg3bzpwISrBLreVBx/IeQJ5DKa263C9gLcN9hdfq5PdG/jBuxjhEmwGkWmxTxsDwrIR92eWDL5WtrcnY84GaBAsjdmCfTBgygH2YT+8RF9HsubktcIMujc7Mykd/EH9EXYKixVUEcbg0eWvw4jQ0jlXdYz1N+thnj8McOBQqmB+pMEaw==
+oden.free.	3600	in	rrsig	DS 8 2 3600 20251010103911 20250905101444 43450 free. JZh/VpEeDaiK7cgydyPhlU1xbHkfIPEWiNdK2prpBC46GZcTGxD4G/oV8HfIithapnbtamuqkGnCu5+ZWVT9GufLj9IWFClKyrnCs08JEC6+5cSq+WsdMFW9LoC4ciJ35/VF5yDz76YvUpDX4OfssJk7uQ+QuOTfrjJWr4074hpbIvsRJjsqFVIsP3XGpIwLHWouSq/8iBzNZHR14kPGdwcLXbYYM/d5Zo7rG8Wi7kwXtKUB1HmjeHYDKVRKZ61MUYYM4llxMvtjme2Hc7XUNdExkVQGXy3jwoq8FHDEkqUYliwX7MxRNVJ63sK7T8pxRwlpHhe2IkIyDSSwDpFpYw==
 odoo.free.	172800	in	ns	ns1.dyna-ns.net.
 odoo.free.	172800	in	ns	ns2.dyna-ns.net.
 odor.free.	172800	in	ns	ns1.dyna-ns.net.
 odor.free.	172800	in	ns	ns2.dyna-ns.net.
 oeekb0q5rc76646pl6qtl7efro95dbls.free.	60	in	nsec3	1 1 0 - OI0ARTTEJKRCQ97SULMN78V2H2K3I7R4 NS DS RRSIG
-oeekb0q5rc76646pl6qtl7efro95dbls.free.	60	in	rrsig	NSEC3 8 2 60 20251006231238 20250901222723 43450 free. VvuOo1pLrgTbyG1HxdjUNxlR8UTwSwDvvMgelYJGCPQrKGHEirKaODDEt2asWEd8UbZiQduMreVJapgg9MlGd5b1cItiGwYyI5aq/viN7orT1InUttvlcn6j4MVkMZgDmdT6eKJ2j9o8nMR1N/yCf2kvxGZUg/eTGNokKoFkPkFVO+ok29k+GJqZUcotxanwBFhWQ1lc0IomDisv3i7hkI9OqzmzUGKSk6nt/M5ZCxLr7XmJtupK28BmgB+WGKWkr9oz8VF+yWqXWz/kB7N2ZR99BecD+tvNVFkl5NFykjFRjL2k5QyQSPanFvdTitMVbeIzaajRIQF7tnBZwYovdg==
+oeekb0q5rc76646pl6qtl7efro95dbls.free.	60	in	rrsig	NSEC3 8 2 60 20251013221938 20250908221238 43450 free. RLXRxhwPl2OjJ5Zq8wiFceV+r0okRp/ZlsmDgCyuT9AecWiMKXulwH5npV0rJ16Ntn6yhRsxR+QIMDfEVYdG7L3XARK3oa7sOcbqzuTrl3I/9boitK2+aU+A+R5+FuYCDi4THGNQuT6EI85gMDKOJMMBRXC26jr1lCqGO+qK0wiOwqY2uTkS+53p19t9yic5meJstAuwsLCugbXmQhlgVpTVIuS5KNFjo66SFAp5IJN54C8CKPjJv2fJcU+/kyTVGwKvD0QsrhoGkUSbPOOJZ3bfxtOkgHYwfNedWHXM/Bd3Dac3zv7tnh0QmVOkjsxf9xaSKWPHaHh8SJGxtyLjdA==
 ofeiss.free.	172800	in	ns	ns.gransy.com.
 ofeiss.free.	172800	in	ns	ns2.gransy.com.
 ofeiss.free.	172800	in	ns	ns3.gransy.com.
@@ -3058,9 +3098,9 @@ offres.free.	172800	in	ns	ns-22-c.gandi.net.
 offres.free.	172800	in	ns	ns-26-b.gandi.net.
 offres.free.	172800	in	ns	ns-36-a.gandi.net.
 oi0arttejkrcq97sulmn78v2h2k3i7r4.free.	60	in	nsec3	1 1 0 - OJ5PHFVG7LIAQ53LFIB9TICTEJ5LRVEL A RRSIG
-oi0arttejkrcq97sulmn78v2h2k3i7r4.free.	60	in	rrsig	NSEC3 8 2 60 20251006161753 20250901160247 43450 free. Fkq7GAb3NXn+56lPaXmgubf5B1aZw+zpv3CwcO8284XXMyxWp+J3sSgC3vPZ0x1Xq7HjgJVFPy92NOMxLx8Pol+DhNdONGL8kU0VrwC8WkNJtPUJoMTBKYOVSjjwu8oZ+1Tv7JzRcSfN2Od2nzusTgXVcWuzDfmN/iUqS8R+kvB+rP7KUet/3f4a32z2LwpAsxtemH3JbWYGcQgd6byWaO0ctS7HpGIoZ3IBth2vD/k24IhqNAxXh4NXfVceW+KC+jGM5y6jxNw6UNS0nvU6WIRtW5AinN397mMfRvtqx85+IomUZyBKRmSFxU0IRk3ChQPb07Y7t/X70JHarDj9SQ==
+oi0arttejkrcq97sulmn78v2h2k3i7r4.free.	60	in	rrsig	NSEC3 8 2 60 20251013160625 20250908151753 43450 free. RBHY5UqaMfoObqbZNcYOGgTcW0ONZnlDbsJUMn4LA+fuz0xqlgiDn1H/+Y+tsNrmt3Zh1oQ7vdCpK4ICdq1VRIbHlZd2gnz9Oi/NrAN/F4/vHXPPrfCKMuSY+EiCpvcvqtKrB8yqps4Ab2II2DlfShp33FEqfMllvw4vzTEl3qjufidapIlklcPc5VPQNKiXDUE02QB63xxkrujwUrYcRHNH+IXPYlTqz0DlS+xZbPO5Xmjn8ME20Rjr5QXdxSYqsLXEGvZn7igH3yK1m1xrq6C24e/GHoRVSDb4wEVqFqaLvC1DZjGUdf7KLKC7knajjyUN2UwfnpOMJpaO+EbWRA==
 oj5phfvg7liaq53lfib9tictej5lrvel.free.	60	in	nsec3	1 1 0 - ONC4AUQE6EKGM6SHHIANNSDI6G889S6B NS DS RRSIG
-oj5phfvg7liaq53lfib9tictej5lrvel.free.	60	in	rrsig	NSEC3 8 2 60 20251007104213 20250902095009 43450 free. OF6wub1Yk/sOCPVAEN6+BBnrAUXJoRamhRChfIj8Q2E7DL2EaFQcwsn7ly1rUH5jdPiV756P6ZJ0ZvnphbDgKt2aiDIhmMrJeVYIAsagXwEK5pNpjpnv5H8zsOpwe/CpmDfQb0L449DQqlyz4FRWgM5wLHb9qgvHX+pVTD8aaC2Q4j7hcml9yfoauFStvEOSSye7U+kgznszbYoKT3C3nAO84WSwUynzoef/Ru5jOrGzPsgc7wE2ThWv2fa2PZ5owO885d7vWsNHJAGqn3IrtifUPyCpAkCw017jbgW3Ul9WxlE0M9EvRp1N9lG+Y3twBY3UIL64hHWZc+pffGlzHw==
+oj5phfvg7liaq53lfib9tictej5lrvel.free.	60	in	rrsig	NSEC3 8 2 60 20251014102247 20250909094213 43450 free. RwRRt1JIK6+wr1u61ABeZD/AKEhBx3mtu9TsZkPbqclY+WuCumHWARrSlorVPXRIq0l8pOC8ENGkvUefPq/xUZrrCjpVMhzjPRrZDZ7A651GoQwCBjs3fAta3weW9E4btXgRPQK64DC5zjN7Sa7MVjCE1ml++bGbGodtLHg+TjJQBrhqK2YjEQOr7F9H4XRaXTZ4ZQPoLau1Y3rg8hHzjNHoaNsIKeTcu2pUbOE7iaWSX0sINtN+lI8zqunZRlMZONKSFk/7a5zJSEPqPMChyWng0GX7IFP9KrKRTsAQcU+hEvzZzIJP/C3kLjNBRyjRVf4Og8Kx1lkyz8IaZ4DrDg==
 ok9.free.	172800	in	ns	casey.ns.cloudflare.com.
 ok9.free.	172800	in	ns	liberty.ns.cloudflare.com.
 oldtowncoffee.free.	172800	in	ns	ns1.iptwins.net.
@@ -3073,7 +3113,7 @@ oliverkayproduce.free.	172800	in	ns	ns3.lexsynergy.info.
 omni.free.	172800	in	ns	ns1.stackdns.com.
 omni.free.	172800	in	ns	ns2.stackdns.com.
 onc4auqe6ekgm6shhiannsdi6g889s6b.free.	60	in	nsec3	1 1 0 - QQ1V6A00A5P2HJ34OLIRAMM6QT3DN07J NS DS RRSIG
-onc4auqe6ekgm6shhiannsdi6g889s6b.free.	60	in	rrsig	NSEC3 8 2 60 20251003171031 20250829164643 43450 free. LiqrePEHrdkzIHsaeaM8L9VeufZ9qXch5XwJvC5m9dY69jL9RFyng1Xs2Mgovx2bAVS5iuEI/cgEVs8oP71FYPsHPDR6Az5JE0gF+rKxLrILP8KUQdhw8XZvsaFLTJUEUX3pehHCkEzq5/tcTfodxgrUzry/a7+4bBBOOhTXybaYKrW3qYysTOJI+wepgHK5TzvGwapQ9kl6exTYNKIhNtVxXBieEpIQSa1bWjyxu1GdL1HCjxE17TDe0Di4o/RN+Gnv6m+WGwhVti7a7o+PQ5VA2L1l+pwoigwFqvjKugnRFjynQBCsW7UpRiwPMAPOi2S/DQvpe7c4+FEBYi71+A==
+onc4auqe6ekgm6shhiannsdi6g889s6b.free.	60	in	rrsig	NSEC3 8 2 60 20251010162357 20250905161031 43450 free. VepvD7HqFb1cJr1jPziFZzYdRp0uprASREYc5iPgfL5UnJnuR7kBmayTlfjV2/r8gua8EGDoK42KZ/jyFzb4l9SkD/oMinueV620fBrBvV4ELsN38UGBzTYHaKt9DhH+VtRjymXJxm30ch3VWniRstvNfLYwUaj+960MLNh1IO9hOxy+FbW8sdG3xdsgk4dmD4k4wRo414ddeir6pg3jP9xdlNSs45UDt2I+d6WCs3r225i0wmMgwOVMS0mp8gMcCCWFkLYI4yaEaVShlNjWrniRkPU+0Afn42jf/3i9V1jLuxmYqonqi1AaM25/caHYbowq68OtR161KBFgm2u1aw==
 oncaspar.free.	172800	in	ns	ns1.iptwins.net.
 oncaspar.free.	172800	in	ns	ns2.iptwins.net.
 oncaspar.free.	172800	in	ns	ns3.iptwins.com.
@@ -3151,7 +3191,7 @@ paperlesspost.free.	172800	in	ns	ns3.lexsynergy.info.
 paraben.free.	172800	in	ns	launch1.spaceship.net.
 paraben.free.	172800	in	ns	launch2.spaceship.net.
 paraben.free.	3600	in	ds	3784 13 2 D4972595FF2FE6B2E49E6C5BDE3912EDAA146929173081D2121837611475C210
-paraben.free.	3600	in	rrsig	DS 8 2 3600 20251008132050 20250903125957 43450 free. GV++kWvm+91p/Fuf1SY7ANgv8xEdnPmRL8tXlvthqlT6uU//OWD0OXbkRyPItqxPUl0Wys5pDQTjVrwlZjKjq2Za7WWaYPH1Z8BoP1S3PRfZIgrybyfjebXx0Jql20eXO/DKCedrtd+iZQgJQJ804KqiXr8BEd/xL2cG2/7lKbc/NL1Va5XMk72NdTHSSSF/k6TDAEU1xPzR3uz6qqNQiG7OvXhPTLVZk0FmTf9IcJ7kWGij6suh3YROFAwUBxzICuDl6GJZbLMNmBEObs/Gz/gC+WGV2c01SRuW/nG6iPMdvn1W11WpxdmfnuTmIZL3uEtVSrX5RYGmZa0z7vnzGw==
+paraben.free.	3600	in	rrsig	DS 8 2 3600 20251015122528 20250910122050 43450 free. CsB9aycnmAYZgdQILnxmQF/t8JIDAaNspi5JLuViWCODBhWoW1szl3UnhsKy4hFAvOrIaikny/3dtxxezfzPlCF1RnMAbI+Vf5gioX9vb9H1Y8H+WiUleEFIUjPOtQmonON5THZPPrsYnzqkX9BeeSksSdBXYOXGU6isyxvxfAisL2BEQSDhaNDAgplO8TkqXgc+BMKj3bczbZUelrHCSw6I35lV4DGjH/xZufQwzZI+Wc8iaPI4GKSenS0434sEf+NfkPDfubxIk99s7lq59O9LG1h4Z/6/CjKS84NxLGK0FjRfRPpIc8DwTQBbYocvWaUcm+u67CyKjMw5zZmh8w==
 parabens.free.	172800	in	ns	ns1.dyna-ns.net.
 parabens.free.	172800	in	ns	ns2.dyna-ns.net.
 parissaintgermain.free.	172800	in	ns	ns1.iptwins.net.
@@ -3300,12 +3340,10 @@ pokerdom.free.	172800	in	ns	ns1.101domain.com.
 pokerdom.free.	172800	in	ns	ns2.101domain.com.
 pokies.free.	172800	in	ns	failed-whois-verification.namecheap.com.
 pokies.free.	172800	in	ns	verify-contact-details.namecheap.com.
-pollen.free.	172800	in	ns	curitiba.ns.porkbun.com.
-pollen.free.	172800	in	ns	fortaleza.ns.porkbun.com.
-pollen.free.	172800	in	ns	maceio.ns.porkbun.com.
-pollen.free.	172800	in	ns	salvador.ns.porkbun.com.
-pollution.free.	172800	in	ns	ns1.atom.com.
-pollution.free.	172800	in	ns	ns2.atom.com.
+pollen.free.	172800	in	ns	ns1.bargainhosts.co.uk.
+pollen.free.	172800	in	ns	ns2.bargainhosts.co.uk.
+pollution.free.	172800	in	ns	launch1.spaceship.net.
+pollution.free.	172800	in	ns	launch2.spaceship.net.
 pop.free.	172800	in	ns	ns-109-a.gandi.net.
 pop.free.	172800	in	ns	ns-11-c.gandi.net.
 pop.free.	172800	in	ns	ns-202-b.gandi.net.
@@ -3388,13 +3426,13 @@ pullable.free.	172800	in	ns	razvan.ns.cloudflare.com.
 purify.free.	172800	in	ns	launch1.spaceship.net.
 purify.free.	172800	in	ns	launch2.spaceship.net.
 purify.free.	3600	in	ds	11472 13 2 B65D6AB4237638B9821A395964F0CF65395717106A7AE408AA58B6973C02C256
-purify.free.	3600	in	rrsig	DS 8 2 3600 20251005235015 20250831233312 43450 free. k4A8GfbkRkJVMUTnAj4SG8vTIEOr58B0fevy/E13ZQFoUZWOMEoMequ5/RapkCXS3Y7ouKz9M5hiprMf7q7AZz3SLBL23UoXIBy7EeYqdOtrXaqIS2TtkC4MG9MSeKeOaZcakbwN8z0QvihvMXaacO7tN64DmsosrtPJupu+TCZd3/5wXZXIrZBh9F9uRzzZY+YKJhbLt6mQwhjxDhPpMsn01lgfywuZMeoRVDBaRjISkzqtdegLGJAcSxA9OU9uzUpe/v3ldd9+5MN9IKA7fMd2/pFdSjX1Fsor1yCVlV4UxJm3GRjqTqMZGN7mTluB+l/gHfSGZFIGq9jg0yyMXQ==
+purify.free.	3600	in	rrsig	DS 8 2 3600 20251012231645 20250907225015 43450 free. km4IClQdwOpxAkbFU41SsoqnmO80wfjX/Gxe4TPkRWjakTVMs/mz8q392sxdA+/RyvlaZLsrH/XxP+D6ZzM7Rg7u0XtgnE7i804mKcRk76EwFkAeMpKOjb/g0kYX5srCJrw5uW6d8Gwj0WZmY8nawyiwkF+yCUO1OlPTRQ/57AovF5xh+EwyA09PKXiLsDno4k1+y7Z4xbP2UXorx3Xr8WiKPeUjbnC3RdK4PARztBl/m/zVyXQ5uXEPj1nae6MH7zguELzYTGafpO+c5O/ThhHZRNFUAe5BcovdSZ0w+YwaeO2r3+ZC7f4s/2JM1artvGieKaS+EyjLFRKMDe5J5Q==
 qlik.free.	172800	in	ns	dns01.dipcon.com.
 qlik.free.	172800	in	ns	dns02.ports.se.
 qlik.free.	172800	in	ns	dns03.ports.se.
 qlik.free.	172800	in	ns	dns04.ports.net.
 qq1v6a00a5p2hj34oliramm6qt3dn07j.free.	60	in	nsec3	1 1 0 - RKLC0AO1J4F70CHOHJD5KN6TOE9GQQ8D NS DS RRSIG
-qq1v6a00a5p2hj34oliramm6qt3dn07j.free.	60	in	rrsig	NSEC3 8 2 60 20251004075511 20250830070733 43450 free. FIUeMPIAy6YdeWemOKnhz5yEUgMGdNmI6n6yYNr1WmzkINnhDTJAXuEZmk1vMdZKxRlM6BE/v3y/F7fHyebpZEh8RLDxhgypLyQM7O/Jvg++FumaAYvi8GeINh/mNMDTki+Yl2boad5kyZ7LmdJ4D43gNDduU6uqOyj2ZZsWwXEbPzr3mQmiCW2+IKTA5vJowJsUStQmpY7r4YVlAfzqtWIvLWbX2gXK4K2328gJQ1vkM4KKnBiWr/hVMK+/6jeH31xeCi9lAmXhJ5y8h31uUBsGfmHNXLL7ZWphYq1pSc8C0fQAaXKNWoBwpw/Si36KPuRPT6/oSw/zldBtCfhrag==
+qq1v6a00a5p2hj34oliramm6qt3dn07j.free.	60	in	rrsig	NSEC3 8 2 60 20251011074933 20250906065511 43450 free. BU8E66NYajBFl94neeH2FCuFU6GUp5giuG3hQBYuuO4o7fUj0pNLESTlmJb45uycpySz67oqd8bpt+8xB6dnjx0PSLbD+Re2iITW/PaynJKuo90hKPs/AlrRq2tIuS6BMhRVfd07qbrBQmFsb9oyE2qvcbRXLkpnGIz8vdmka+JmGRM1gQroQcHsXHLb6qtoqvCupNSVQ22J02NmX/kLfWMbeBTnocDVoQLY1xWb5eG7QWUTthlmGMp9w61KHa4eGxAVEh9KNcRKZDLmCsSY1rfWFIfhtlGIOjIXX1Fhb7DdZbGBuc5x47bbVvUSbwfDPC1KVdzp8WKxfRe9XULeJg==
 qq88.free.	172800	in	ns	scott.ns.cloudflare.com.
 qq88.free.	172800	in	ns	thea.ns.cloudflare.com.
 qr-code.free.	172800	in	ns	ns1.netim.net.
@@ -3459,8 +3497,8 @@ redtube.free.	172800	in	ns	ns1.eurodns.com.
 redtube.free.	172800	in	ns	ns2.eurodns.com.
 redtube.free.	172800	in	ns	ns3.eurodns.com.
 redtube.free.	172800	in	ns	ns4.eurodns.com.
-regret.free.	172800	in	ns	ns1.atom.com.
-regret.free.	172800	in	ns	ns2.atom.com.
+regret.free.	172800	in	ns	ns1.afternic.com.
+regret.free.	172800	in	ns	ns2.afternic.com.
 religion.free.	172800	in	ns	ns1.101domain.com.
 religion.free.	172800	in	ns	ns2.101domain.com.
 remove.free.	172800	in	ns	curitiba.ns.porkbun.com.
@@ -3520,7 +3558,7 @@ rizz.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 rizz.free.	172800	in	ns	maceio.ns.porkbun.com.
 rizz.free.	172800	in	ns	salvador.ns.porkbun.com.
 rklc0ao1j4f70chohjd5kn6toe9gqq8d.free.	60	in	nsec3	1 1 0 - T1TCBICNTP07VMPU27UJ19HAPHMK8F7M NS DS RRSIG
-rklc0ao1j4f70chohjd5kn6toe9gqq8d.free.	60	in	rrsig	NSEC3 8 2 60 20251005123330 20250831115025 43450 free. kod5rB5a3BpXp0LM7BcxUntmrHECaOpdafAJcg2x1xuJOvPHjMSaflUDmZGyfCTcj+Z1uHt0zNKPz6SEqxYAcAg/BvuOOoH6UYrHnLnLBDRk1b9gapzX3er6HdX8TVqSlWwb8XgQ3W+cFvP3k212loFG6brfE8FKPL+9zLPRei51WpKGBC8i8HFvF7GqCer1PaKof1opLKR0AKLGjZXpMjNQBfgG+nWTb1SnThKuBYxA+Fawb6PW2myF4OO00q0eMbqQBolJg/tOC46GSdrpv0Y9pRHRrEgXcGjcrMxt+BGwlsaLzo8iyhNvQwNSdCT35H25v2r4NeGWRUIzVM8vhg==
+rklc0ao1j4f70chohjd5kn6toe9gqq8d.free.	60	in	rrsig	NSEC3 8 2 60 20251012113532 20250907113330 43450 free. JTAca887ggsj0RZozPHxs+xwZAOYFPoRrqURjEgxA0fdZvKF+/dDUjbp5Riz+RsPk2PULMMwlR4TywUnRDELzFQC29f86UJAhEqFAhBKnuNxbacHH+S4V3m3WyR2ODet5Zu75NQJP/PyT5NvnjGZSkfLdfBL/3r6KPYRiHEVxXMYadfUPODZRM/rgh/gkjZtnglXwr5X4UGJu2SluMds/LUWAAFUfG9RT9KpirmjCB+RcvCT1WMO5Mg1LYhUrN6hwpz/dXzazxAUUr19RUiTtExoVBglpkUCoKIjNV8aMopxol+K2wYtroKyaayF3zHm60gl3/tS6wdcDUtpWoFVtg==
 rmbprivatebank.free.	172800	in	ns	ns1.lexsynergy.net.
 rmbprivatebank.free.	172800	in	ns	ns2.lexsynergy.us.
 rmbprivatebank.free.	172800	in	ns	ns3.lexsynergy.info.
@@ -3654,7 +3692,7 @@ selfhost.free.	172800	in	ns	salvador.ns.porkbun.com.
 semantic.free.	172800	in	ns	launch1.spaceship.net.
 semantic.free.	172800	in	ns	launch2.spaceship.net.
 semantic.free.	3600	in	ds	20481 13 2 77A5442122D34A4D3FF9BE27868C60D48409D678B6506B6DDC07749DD9E70598
-semantic.free.	3600	in	rrsig	DS 8 2 3600 20251006134459 20250901125009 43450 free. Jil79MIBtLXzGq4qYnNGLo3hiUfmojX1uEOezXgv5rz1bNiXXuXd5LJFCJeRTdsEO9Kkvz754WVX789AkopsaSlVWhr8vXNanPKKKOSaXNUCD4HSqGgWCkWSHopYGTj65DsUC1QwQLEKY2TaTl+lUDayk18JXUcXKgurMWvZ3oVIT5wxK3pQ0O764d/arFHQJOtdlag+sDbjdMECe6DnxgwuXliLcBCybJ4ZTS66La6HHr0UYSfps5t6I12frsI/fbLqiQOraKARAqIpzi1J2J/TMAx1M+K9iZvf+LkKguue1QBPiPzAEK8ek57n1cKIaiHmN/zDbj0Qchur7RY4dQ==
+semantic.free.	3600	in	rrsig	DS 8 2 3600 20251013134232 20250908124459 43450 free. MDUtCow8Bk7sXs53710JH54J0PGwx/hXD/Y62Np1PLsF0UnBpbIsIZwa+3PMCgmeXaD6Jo7lCypNlA0g7xVyiDDwoLbDn1mrsFTYj5LNXVVvPE30NdPgj4deVSirOInqqPl6CkOBg/a6acPyI3XyTM9j8IgOUtTxryrrWPSWtepnQfUhdUTwWn8wPUrefTG+e1pnRYbP4xOuEuzfg0pXCVDnsXQJ44sMUKrvdgNKm5wmaL/Troa5lQ1m5izvo6VTL7JbRuKP8IbVgH4KwJB8NWMaftc9AHsTU/DP/fKy9uNRxRaG3lprp6/+nB783DZglLd1w5A/tDg0SpGUQnx5qw==
 sendgrid.free.	172800	in	ns	ns1.markmonitor.com.
 sendgrid.free.	172800	in	ns	ns2.markmonitor.com.
 sendgrid.free.	172800	in	ns	ns3.markmonitor.com.
@@ -3735,7 +3773,7 @@ simply.free.	172800	in	ns	pdns2.registrar-servers.com.
 sisaisolutions.free.	172800	in	ns	launch1.spaceship.net.
 sisaisolutions.free.	172800	in	ns	launch2.spaceship.net.
 sisaisolutions.free.	3600	in	ds	54177 13 2 1B84377DB4331F98B063882846E19404EA67EAF4F7B7CA1A2BD6F7EBA43BC863
-sisaisolutions.free.	3600	in	rrsig	DS 8 2 3600 20251007221024 20250902215257 43450 free. I4Q+Nidv2KnzpzXLR6PEULxf7FZARazqrqY4MLzFXb18XZ3xd3bvyhVwh8i2gjNfazW2pD/3wEuDMV7S3hnqpPRSOB9JHCKZtOVlUEOmObwm5B1o4fyEbknzHdvPSzB6UXUXzvEntbuyMDkshpOrewfv8E3xkmJJnhxnOJocJVEF+vcWrYkWg0713ZHFV+1CkaYQoMxi7pvnCzdQvjjnSsVm7AcooXz+7y6vkdqaUOD0BIT0ajmv91QzpJxtyXlEPWGd/bdSHWawEB9qaLsNFVYEuzz9fhn3t2KVB3Ljnl7aT8MVBKsosSxmzBzliDICcWQjU68XkYfwJPknry6v6A==
+sisaisolutions.free.	3600	in	rrsig	DS 8 2 3600 20251014215630 20250909211024 43450 free. EKLh9939iIw6JHckF56g6pCLI2mxzBMBusW85Qf7FEVkEKh48+qCM2vFo3i0LFY1JKFMbIkIjCY9yOzoAGq1cilb4FVZ6szSb3BAz2wRvzOtZw48U+K7V/5jM0yoqgd4lMOUeKa+Vd2mG8hp7K0yk0yFi5U1bNJLTC5FZgWQhdLAFUZoQ76uv97NO4HSpFalLiOiO0zv1tOBtzP6D1MHC0JSNgez2XGzcqJ1MWusixAURX8WPVzlKA6lpK7FAKJlvQwQb4RhKONbVgH7tyGJVGQoyhQjIQF3P0ZjgoexLNzrTWrxuvnPQexjQ7+QfNSVhN1KJlK/oVk5ol4Kr8assA==
 sitestatus.free.	172800	in	ns	ns1.netim.net.
 sitestatus.free.	172800	in	ns	ns2.netim.net.
 sitestatus.free.	172800	in	ns	ns3.netim.net.
@@ -3769,17 +3807,15 @@ smartphone.free.	172800	in	ns	salvador.ns.porkbun.com.
 smoke.free.	172800	in	ns	lex.ns.cloudflare.com.
 smoke.free.	172800	in	ns	summer.ns.cloudflare.com.
 smoke.free.	3600	in	ds	2371 13 2 9D751B6E7C30988FD85697EA95292FBD180E6DF61680791F87C339CF02DD7456
-smoke.free.	3600	in	rrsig	DS 8 2 3600 20251007005629 20250902000456 43450 free. ZuRH3vGMm0gpMeWaET76RDvDL25K8MuDclVBgtfAeeNsuzFbKfY7fnKxsBFXk8wV66sOXYM5H8aiuVDqDQUBBWf4FdnuJWw9AToEk2o+eZMpywrXiFZCWE1choW8BrLq2MDv+bd8rjbvnfip6RHJHjtomal3azhxIvGCoKSGmmeUF1Tt56zd+WszivvtZyMBbLx1NTQpJun8NuXbO4pz/gLyCqJFh7AX73WVYOKFhTWsfaPdnwinz3Me5BmsIhLmAdM9xX+/imm0Zwd+bC2jl/c2+d55IfMLYHlnPDxSoM1JFNNlA5+NByeAvkfZakmBBJZcDNgB3K7lMlHM/My3DQ==
+smoke.free.	3600	in	rrsig	DS 8 2 3600 20251014002528 20250908235629 43450 free. WKZNjmvvC+o5BlWv0vCmaDW9d0kuffje7FOX56sFWb031m2d/JinQWRr8qRty7xy2MxLr8aQZFJ3Vbe7Ks+INo3aDv5eT7K2wGN6sqDaYPhc9DdGnoVLBXyOWFf5oTuus97rVV0WF9YjBQoGWsZAe9TrnmcDICY3iQwpkDHtscvmatrhByViy5CDSAmBtFsWtIHrFVGewuTBt9ciGmOwv1kDNH8CrulJ9YeLGw+OPP6x6WovYwMmfUiidxhZHCGumHk0qBJQCSpWvM6pjvgY4Ln3xOPatVkmd2EtLE1BN1MqCQuYqrq2Hi1eJ4XktUacBjJ7euR6tPZJnPaXpLamhA==
 snore.free.	172800	in	ns	curitiba.ns.porkbun.com.
 snore.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 snore.free.	172800	in	ns	maceio.ns.porkbun.com.
 snore.free.	172800	in	ns	salvador.ns.porkbun.com.
 soap2day.free.	172800	in	ns	ns1.dyna-ns.net.
 soap2day.free.	172800	in	ns	ns2.dyna-ns.net.
-soar.free.	172800	in	ns	curitiba.ns.porkbun.com.
-soar.free.	172800	in	ns	fortaleza.ns.porkbun.com.
-soar.free.	172800	in	ns	maceio.ns.porkbun.com.
-soar.free.	172800	in	ns	salvador.ns.porkbun.com.
+soar.free.	172800	in	ns	ns1.bargainhosts.co.uk.
+soar.free.	172800	in	ns	ns2.bargainhosts.co.uk.
 sodo.free.	172800	in	ns	holly.ns.cloudflare.com.
 sodo.free.	172800	in	ns	miguel.ns.cloudflare.com.
 sodo66.free.	172800	in	ns	holly.ns.cloudflare.com.
@@ -3896,7 +3932,7 @@ stablecoins.free.	172800	in	ns	ns2.dyna-ns.net.
 stake.free.	172800	in	ns	launch1.spaceship.net.
 stake.free.	172800	in	ns	launch2.spaceship.net.
 stake.free.	3600	in	ds	17170 13 2 F863F0C2A1A16C6F3C8ED39B1DA41D54D205496DEA51256823BC945429DD9B8E
-stake.free.	3600	in	rrsig	DS 8 2 3600 20251007195515 20250902185652 43450 free. LN/NltZxezUoEtEcXh9si4wPsfKeMgr4Rcy5Ob71sSEZF5ojOS9zYeXZ/cR+hhHDLhNJQ8FPxi38KFxVqlqB5+/c3AhgyY38yobyLHrhoLSVUSYt64Dv/pWArKFs9lXmNBpD+HBieZT3iBTuv/coOygAAyHObWkGtpTz+ddv65VoPC6x7BmL09GhAkOdgu5s7lFa+4icwG8sDtF2GSs8U/ZWNnI7RhalsE+JAqxlyfgi9P1EB3JIhhQXoplrKEIlKpjy1f7qEB0kn6NkDQy0/PxfKayrvGHQ/0Jk0e5LaXj+/JbacAgMJFLxqLMVvvNltrH0BwUfQ8mFKa4VAQeeBg==
+stake.free.	3600	in	rrsig	DS 8 2 3600 20251014185643 20250909185515 43450 free. PpCj3TuPt89ybzoiNxzCqYIwxXBLTpEOhMfhwiZt1kstNJaUlXUQJ82wq5J5jKrEQ8d2gFTr3y/FmIJfCS/dZmf5UYNm5y/B4GBuGcv2Zaw4Y+62SFc2i9w/arVJHwpyGR8nSEooSWf30AfvjKOXH+I+8eG5HlFTLBV/M8o4PEN9tQvRk3Z/YsrKgB2q5CWVONZb9VnR9oVsG0d5qMRLe1K4B7g5SWmybc5TYB0oNzWxpICV+bcwziv7YbVQqnXNsy3RDAueBjZs+cgjKsUtvdMttuhoCjWh8Yq1DuxobJht9zaKBN9Hdui9jBim9DyuKw6MmWTdTaDaHfKC8//cSg==
 stanbic.free.	172800	in	ns	ns1.lexsynergy.net.
 stanbic.free.	172800	in	ns	ns2.lexsynergy.us.
 stanbic.free.	172800	in	ns	ns3.lexsynergy.info.
@@ -3933,8 +3969,8 @@ stream.free.	172800	in	ns	ns1.dyna-ns.net.
 stream.free.	172800	in	ns	ns2.dyna-ns.net.
 streamingcommunity.free.	172800	in	ns	brett.ns.cloudflare.com.
 streamingcommunity.free.	172800	in	ns	dawn.ns.cloudflare.com.
-stress.free.	172800	in	ns	ns1.101domain.com.
-stress.free.	172800	in	ns	ns2.101domain.com.
+stress.free.	172800	in	ns	ns1.bargainhosts.co.uk.
+stress.free.	172800	in	ns	ns2.bargainhosts.co.uk.
 stripe.free.	172800	in	ns	ns-1087.awsdns-07.org.
 stripe.free.	172800	in	ns	ns-1882.awsdns-43.co.uk.
 stripe.free.	172800	in	ns	ns-423.awsdns-52.com.
@@ -4012,7 +4048,7 @@ t-mobile.free.	172800	in	ns	ns3.brandshelter.info.
 t-mobile.free.	172800	in	ns	ns4.brandshelter.net.
 t-mobile.free.	172800	in	ns	ns5.brandshelter.us.
 t1tcbicntp07vmpu27uj19haphmk8f7m.free.	60	in	nsec3	1 1 0 - TAUUU0SGC3E9FITCQ6NS43UCK6PU9UVO NS DS RRSIG
-t1tcbicntp07vmpu27uj19haphmk8f7m.free.	60	in	rrsig	NSEC3 8 2 60 20251005123330 20250831115025 43450 free. XDdv6Q35bEks3qWvN9IxHhjcQEsp4B6MW1Y3CO0dPI0WGy1Nnrbfl7hfVb5k4AfI00jj6MyHgFFafg+btj0lrOAzbmpgv7kbvwfA2B2tkw+Zr5u45Y6vCEAiDr2Z41lsmH5viDf1bR8zYOJaAAdovUr05/5C00NspXvn5QGEfLjsHqqD6TYxjF8l1uk3JUDFIy3z1pExeGGUSte+Ne5DeY/ttA/P9wKPnR/XDEZ6WATiKAzyU45G8j/y2CdEIRmaVt8yery5bxiVUBZUyD7zJa45VT/Ikzpkke33rUfz94xYQwYNTIHNsdWr2oIVlr2F6l6MD5bf6GyaC5vxW+TNRQ==
+t1tcbicntp07vmpu27uj19haphmk8f7m.free.	60	in	rrsig	NSEC3 8 2 60 20251012113532 20250907113330 43450 free. e92MqlzUcdzAJYU/3TRHvH4tMse8lkRvBCHumaKAQA13fnIYO/IO8jsvz+fo/jiuxNXbuysDZE2x2RXW1LnVqAFnjasWcp2ceJ2UuxNfbYfshUZCpMtjIqhOl4XJxzKn+snTNS/lU1hA9ZzY1JDvdYvGBHDoUkmEcFbAvveS/0xS3JrY8uTek0nyPnPPPQbvSF/kDzIEInwbcjTQkuYkYwEZ7z33RpxIKZkSiY1rkwO818SkdFXyrogGrj3eyO/2P0vx/6wOVxEoLKlodqmH1eblasghBDlKTI7YBfv1P5hX9SBusk2AoQfdbjqZY78F8rl+gUFHdf4kSWGs5o1lUg==
 takingshape.free.	172800	in	ns	dns1.cscdns.net.
 takingshape.free.	172800	in	ns	dns2.cscdns.net.
 takis.free.	172800	in	ns	ns1.markmonitor.com.
@@ -4036,9 +4072,9 @@ tassimo.free.	172800	in	ns	ns2.iptwins.net.
 tassimo.free.	172800	in	ns	ns3.iptwins.com.
 tassimo.free.	172800	in	ns	ns4.iptwins.com.
 tauuu0sgc3e9fitcq6ns43uck6pu9uvo.free.	60	in	nsec3	1 1 0 - TBFHQ4AIBB3IK95P54E89CCCB4AGNPAM NS DS RRSIG
-tauuu0sgc3e9fitcq6ns43uck6pu9uvo.free.	60	in	rrsig	NSEC3 8 2 60 20251006172358 20250901170029 43450 free. PdRqLkUsFm8P77uXmjxGBoTm05Wv39rBN7BwTgyWLHkIgnwEyA8u8ZU6YJG6dFqstNCNEZesxPZJQ6+TFmd5B5kQ/S8LW0tDJTfR+ekOFLiQkwlcBDZ9Ba6DGm4ERKsOMzpSfdxvEoIsXr0QVRELZJ9Pg6XI1/CIgLOlpayNMAIbb5MpOLAXPJbpvq+agBhJBMp15JSYvc6Cw8paGqtqYPfiPXiKbPFrOiMM32twzaoMcBTS+OOyGkrswZxsfZMmVSMdb3axxje3tGdcr2Dr5bwZcNY2hShUWsVV7+hxHude1wcAZKae0yQARKGR39tgXgBXTnyCAWTYXVUosJLXJQ==
+tauuu0sgc3e9fitcq6ns43uck6pu9uvo.free.	60	in	rrsig	NSEC3 8 2 60 20251013164249 20250908162358 43450 free. ZDx0E10hp7Tbmq17Mq//6xFqPhK+WN5bu7pB7qkZ0IxBUwZ+ZW1GijW7vJKp0lkjxPYARnFIO38R9x6BGVlCOyUqgZiVrKxfiDs46A8sR5wryWg/9oaFxo8WIgMcPM/H2p0Z5kaxhBXx/uMIE1zUq+8ExTu339p8aS7Pt8HPbNj7zlH8WwAR+YPF3sZgnrpjC8Dnz3SprOebHdG10TZ/xEJj2GDrHehqD2MAJf68mLkGhxHpNSgYEb21p9F6Ynx/rzstKeCMgksIzChA4IaNEoDSN7skQHUTNSyx/z3O8EKWSVeJCMw55IQZNKtYJ7Zn3VTesv6z2hUZaRt/QiEVHg==
 tbfhq4aibb3ik95p54e89cccb4agnpam.free.	60	in	nsec3	1 1 0 - TG8LAO0H7GH43FAEOJF7HFT821HA1PCE NS DS RRSIG
-tbfhq4aibb3ik95p54e89cccb4agnpam.free.	60	in	rrsig	NSEC3 8 2 60 20251006172358 20250901170029 43450 free. SuVnUJ80M7HQcdBJyfuVZzkx4/sypp/bcJpnVJngvQX2JrfXssovZYzwzY2oodMLQ5JrFLKb8Q2YmKOKD45FU8UzXMeQ8Ft93spKN1HN7+oAuMzW/vkEi5r77+fdd5GRzyjC5e3EWAr82BEIkb4aBsJelYvxNezvhNSAhnOg7fusUD/lAfOIQUxgRfAXH+lGEbgjEwzeAISaasvINUdrpYiJE+wUyb5WFXhiA/2EznUz/dgbHokh8ux76E2E2NPDrogmDC9HO5uhuUbrWVv/RYp1Cht5JijsAip2SiJy83VWilB17mr7Czv3eFJNJFMUMgzri6os6Of/7Bi6Btrj0Q==
+tbfhq4aibb3ik95p54e89cccb4agnpam.free.	60	in	rrsig	NSEC3 8 2 60 20251013164249 20250908162358 43450 free. FPimTq6pHLic5riNvcbsI6xyuz51FCF7sCw9i2JlC9F37w8EUqqCU2TPvxeBKduR2NVcwY3EPOuF8w29jkmxERS9fpr7P68K0uxmaI2wB9tG3MHzdbdQkfeBq9lG+JxdQ2W8587hF0HpuDkshN0K0OOyjMBnpWyXp/L/kSdMD69jhFC1vgJGXO9/Ia5Ik/I1o78jVu9MkYhFCs+6RkPf50BeJTjaQ3/ifBspA6rTgU/2NN3pwt4SABSQWktTSvFX4TM93YLT+96GFDl3GyJ63MoPbXmzWsba4MNnlJyv+rTve9HxLhReXzztg2oqu3vNWC/Ztu7zpRYRjheZaI1n7A==
 teaforte.free.	172800	in	ns	ns1.iptwins.net.
 teaforte.free.	172800	in	ns	ns2.iptwins.net.
 teaforte.free.	172800	in	ns	ns3.iptwins.com.
@@ -4101,7 +4137,7 @@ tester.free.	172800	in	ns	salvador.ns.porkbun.com.
 tez888.free.	172800	in	ns	dns1.registrar-servers.com.
 tez888.free.	172800	in	ns	dns2.registrar-servers.com.
 tg8lao0h7gh43faeojf7hft821ha1pce.free.	60	in	nsec3	1 1 0 - TMVB97O5PFAF7QITK3QDUC7LGR73F3A7 NS DS RRSIG
-tg8lao0h7gh43faeojf7hft821ha1pce.free.	60	in	rrsig	NSEC3 8 2 60 20251007125338 20250902120803 43450 free. Eh9kc4ZJNPaHi8YCTB5oNoU3tGZxtSOJWzZoLoP+f//6WCZ2zHnzinklWya7aTz5xRCFr/89rETjbTGxkpjbDMQca3Bvrby+Nx6ifqyCgrBe/8Ypd7D9P3O5QvDBKFujW25QW+k4e2YnkTx0uOwCfP+PWLm2eMD7HBG+Ay15wODDlaqf7fjYTP7h869ch//yJaviFjTxQrkXRxjPu9w3CMAsdRTvXqtJZQBn4vBpndk7DDh9fSq7zuHcc0nBANSveHYykJrfjmY5sXzzvLfqelnUNIj9iXwXOO74bs3RMpZq+o6HWHcQ1RSUZHRWR3tohHfJ0ad6X/YXx4ZrWJRjZQ==
+tg8lao0h7gh43faeojf7hft821ha1pce.free.	60	in	rrsig	NSEC3 8 2 60 20251014122948 20250909115338 43450 free. cGdNSPzpEeJWkfQmfmVZ6O1b1bX77RVfVw2Z3vIjNmEGAUpJ+vE4/dYm0c9H0qJvrCar8AHf20ule2b3k9Mk0MQiX0XDk5V1dl6SJ4BiiJYl2SHbFa/bn9Y6IbWWUgqEE00ZKGeswSKR2t86zLmt71NgJJ0bQnNd4K1XXQ56gqWZlJfsx6p6vmmdioDFW/XXi5F8SKrxdMXrey0+sUaOL6MMo/GOV2ZLJXaMBJUfo356KAHMyRwy5BMM06G4VRKmeEpxy5PnvzZoI9fVWQJ7FDnxeY1WczmJd2QKo9/JxE4z29XccaFZawalnxolNFPh2BvKNjpVpWsb1/J9fs5mSQ==
 thebible.free.	172800	in	ns	dns1.registrar-servers.com.
 thebible.free.	172800	in	ns	dns2.registrar-servers.com.
 thedolphinswimclub.free.	172800	in	ns	ns1.emailverification.info.
@@ -4113,7 +4149,7 @@ think.free.	172800	in	ns	ns2.101domain.com.
 thinker.free.	172800	in	ns	launch1.spaceship.net.
 thinker.free.	172800	in	ns	launch2.spaceship.net.
 thinker.free.	3600	in	ds	64977 13 2 0AA9F1F6DA0EBA68D17573938E6891786E66E08FF7CE548A57B7E701EBF0589B
-thinker.free.	3600	in	rrsig	DS 8 2 3600 20251003234003 20250829224920 43450 free. YzBnOpcaAHrAGoqUqyeYm4UJYE+FFS1rqNEjACmQ0qS4JJFpl9Lgafk9zgGFzBz2VuU/VJWIPt0O/RfH6vJZgO/d8i2hi/hQc2u0JVvW2AW9qiPOGSIb2Q8iLX/dymbzr9ndWn9VKDjTqrI2zGokvQ6flFdLclZNZ6+3VVaKENLKDndwAQWaK47chUZ4rhJuOk1yEytBrhziEj+bHF7RnJROhxFxW/5ngVpaPEXyU0Xq0UTEij3/SVhvBRr8vuqGsM0pU28DFuq0v0miCdWwj7T7JlzHOYvb4S4YPpdkR2apG9AsZ7LbNZtVeTAiA+vcw+oOEWLOepM2QIx9PITTnQ==
+thinker.free.	3600	in	rrsig	DS 8 2 3600 20251010224808 20250905224003 43450 free. ITcvoPNhmaelo2496uaM6LFktv2pndKKCi1KpLN9nLx5i67n+TwVeMdjJGdvEET+SniZ6hNPyEYRYzc6X5LJoNE6U+cBRNA1/yjxRXk1FmAUkPYoT+6edTKDM16kTRjP5GqLFyHd5JNv1T5d4ptt2hBgGUZzqcZXLkj9CJaxFADOeScJCIL9x7TJ7mPrgvnxsl4vRjE4/Xs93FVHCe0AbCe6RT5wo6pAC+dhNuwS7KqPuUqwCH9q15nCbHjDy5xdQvFQjEUW7cSllgWIVBo5sz2UnLQQ3r3eUcsrlZV5Wd57AtJWCqPaEFKsrFRnxg8Cza2sLo4DtGN5RFIfAss2/A==
 three.free.	172800	in	ns	dns1.cscdns.net.
 three.free.	172800	in	ns	dns2.cscdns.net.
 thrive.free.	172800	in	ns	dns1.registrar-servers.com.
@@ -4137,7 +4173,7 @@ tmobile.free.	172800	in	ns	ns3.brandshelter.info.
 tmobile.free.	172800	in	ns	ns4.brandshelter.net.
 tmobile.free.	172800	in	ns	ns5.brandshelter.us.
 tmvb97o5pfaf7qitk3qduc7lgr73f3a7.free.	60	in	nsec3	1 1 0 - UU3NVTRMMALIB8TFHDGM3RPPIGP2CSHT NS DS RRSIG
-tmvb97o5pfaf7qitk3qduc7lgr73f3a7.free.	60	in	rrsig	NSEC3 8 2 60 20251005150524 20250831150231 43450 free. FQSlaZpPBsZR1Npt3WZmq+XRzi8m7L/BVhSIY/mMXAsOvefIGVJif+i057O54cz7RgT8h20A+fcEOQVD2I+/sPyvpNFLGHla5ksCCG4CIGh43Zt0LVJ8WwnXQNuYua53RPwbb2eDF2c/kInXLhjpCLHQvyPLpywzB+ArtttbizDhLW6cmjvuI2gokHyt1k179EYCNhmbh5X7v3NCVYk4GAqUEC9EQ1ltkVhA41oS+vOvf3/M1zFLd/P1yJ6rUarcvASPK/tlGi4ZqoTfrCF3yGoa3NdC0OlNrzaCWf38ZkJqDSHCSMTqlv7XzbcUNTrRWfIc/d9ER0dSgUZD9d9WSA==
+tmvb97o5pfaf7qitk3qduc7lgr73f3a7.free.	60	in	rrsig	NSEC3 8 2 60 20251012142031 20250907140524 43450 free. amSt0A5uxdafe9KTjlbbMvIaV+nMUQFH9QGnMn3K/SH0+9ksOsQ/O7O6cNzul1STRpWNT6rJtuIHz9lH50yypdQes09UNhxBlv5eCTkOjsOGVx+pVHEhpwVi0R3xGyepZ/jCblKo0VfAQesHcRlaA/3eIgDq/fRWycVmEGOf+W230jBs6SvLxO5UCQnX4G/hvEUICYjYql8iR273HdowtTMbNnBeR61V7DPQKGbkyqMDAiQAStXaqYxKvX+unj9APf56xge88kcgZ2KCd7ECuP84/5pOyqrR3PNzhJX7Q1VJXSz0tfNRorAn0tfgjdveT2iWc/c5M01gA0X7J/M0WA==
 todo.free.	172800	in	ns	curitiba.ns.porkbun.com.
 todo.free.	172800	in	ns	fortaleza.ns.porkbun.com.
 todo.free.	172800	in	ns	maceio.ns.porkbun.com.
@@ -4220,7 +4256,7 @@ tudorwatch.free.	172800	in	ns	dns4.p03.nsone.net.
 tupismo.free.	172800	in	ns	launch1.spaceship.net.
 tupismo.free.	172800	in	ns	launch2.spaceship.net.
 tupismo.free.	3600	in	ds	62430 13 2 3E98EA66B81FEA77C602A18B593F61C4F0D555A7E4FDCE62CDFE48ADFD51F41A
-tupismo.free.	3600	in	rrsig	DS 8 2 3600 20251003111353 20250829104414 43450 free. XkgG6YCx4QCH5JbtSTLwgUYlbq8K5rtkuA8ZkWJUjbDhZIQp0T21v5kwe3IP6GzbTdghv5UjR2GzXrfssVx33EzqPQuXMtbKh6+iAgznYpiPEvbxOg4nUaFmLc8F5phuLy0ImgZv7V5qg+qUCJXjhSNdT4HOgUbEXulxdpNB/uHbv7aX+x9jiBMO9jSweMaiGScSettp2ZAdtj12+Kq+jHTaBmpniavemy5SzKVsqKgmulz+Ylkexch+ygdIm/BFVb+LngB0JIdh9q6FlaBgw+OoZsZJpNiS5Fvgy0LHKbziTYvMIZdCgvng+6Py5Fln8hG4KSF6+HSnjWmum6qR/A==
+tupismo.free.	3600	in	rrsig	DS 8 2 3600 20251010105449 20250905101353 43450 free. brLJCjWLIExkRKQB8h6c+wdfquwuhHCHcj2lCx4kXQP3sFHFxb6nCh8unkQncHPB9+6XUPAGrsPUQdhmI8cbzWnYidhjpkezLw3Rk7vbVGGWwUGOYjuAspu/vxd1Y1jv3aoPADt2idrb48zsKgnHzEPwNhe0Rj9280j0KQIGOk/Yg6ZOKSXf6gGILhJU3x7kQM5bYigGZq3QIbjgmT4XDA2qylR4kTZxqoUykB4tfZC1gPOLT7DYDw+ndqpc1+fXfDZRSD8Q0z3188rZQdrl1zZK49QkZuHJ1vwMEOVWNkoI3l0J3EZWDgtWM4sgauSJS0v1KY2DnDzNb1XTd9mPqg==
 tv.free.	172800	in	ns	ns-11-c.gandi.net.
 tv.free.	172800	in	ns	ns-14-a.gandi.net.
 tv.free.	172800	in	ns	ns-64-b.gandi.net.
@@ -4307,14 +4343,16 @@ usdc.free.	172800	in	ns	ns3jkl.name.com.
 usdc.free.	172800	in	ns	ns4cjp.name.com.
 usdt.free.	172800	in	ns	ns1.atom.com.
 usdt.free.	172800	in	ns	ns2.atom.com.
+useafter.free.	172800	in	ns	dns1.registrar-servers.com.
+useafter.free.	172800	in	ns	dns2.registrar-servers.com.
 utrecht.free.	172800	in	ns	ns01.hostnet.nl.
 utrecht.free.	172800	in	ns	ns02.hostnet.nl.
 uu3nvtrmmalib8tfhdgm3rppigp2csht.free.	60	in	nsec3	1 1 0 - V0O14808JQD7GMUOT6JJHHJD8FGMKR9I NS DS RRSIG
-uu3nvtrmmalib8tfhdgm3rppigp2csht.free.	60	in	rrsig	NSEC3 8 2 60 20251003111444 20250829101936 43450 free. NbwthaqR5daBM0OIHVTYOd5nq5wpekSt/URVYk7iG+e28FYUbMdcnqNHZO+oC+LR1Zw41J3Zorfro94hbliJ7lPHIqGmgPgHoab1iWtFaN3eHZWZFJGf48wM/RohOlrbOaWF68IZY1l53jGWwRxuRgnDzDJPyLQqbHL6Fh+wz7Ey/1a/SYkZo/xudQrYUnHP+VDOHUH3dg/KUK5b9OaK/BZLsCV7laAg2wXIWP3j+14+Aghzpi18zo3rphzK9Llb4zgHXdvSc3l6VwkbY8SWwNWJrTQY310c6QqFs8B7g/DEArPos0uG4JcRsOIgdo3u2rOcEkV+MPV1fTpgHI1uhg==
+uu3nvtrmmalib8tfhdgm3rppigp2csht.free.	60	in	rrsig	NSEC3 8 2 60 20251010103911 20250905101444 43450 free. huEzHkQtK466o5OujQotcHeNewlP1Pd5bGbXcIPWPnh7VNjls+QXqKGl+p3qwM41ApB8ZOVS4Z0WguHBl0l7A9nsztjW/V2mSxv81w1HW8+DMv70MPQ7PdwIUjuyES4d4vUFCPIu0Xzi6+nBZwYvqLcW4cbim4Xb2d2YqJkjETorfCDoyUJMS1Ayp+vIiHqTh+f6R6L0VgymkhDRzPduOXcgz6nMpSkX69MeQe5aJi6ldUVw+H/j81G9vTr4vbL98awdeAHfnBRWao4tFS9pjN7+Sb1Md0Hxi3NxK3oAPvmHP2Hf70kK2jUcgP5W8WM5yRS7kL/E6dG5tBpejsdIaQ==
 v0o14808jqd7gmuot6jjhhjd8fgmkr9i.free.	60	in	nsec3	1 1 0 - V5J91TAEJNO7S73QA2N75V8V1MASTRNP NS DS RRSIG
-v0o14808jqd7gmuot6jjhhjd8fgmkr9i.free.	60	in	rrsig	NSEC3 8 2 60 20251006161753 20250901160247 43450 free. eqySa7TzHAOPHpb62l7p+Cb33fpZj7fVR+bRm31k5P+esulnCPH/6fVaxvYUsJxeEO0YRUGBw3fNduHNXciJV8Isx0Fc3Tkc5jTv3pmWDQ6+eKpVw+mjKYEbzE3Tfn3vU/egpNdVAxnvae5vb5Spl0oSjXBC/wSjCLflaVQYMk+7+/lyPD9ILV0nM7UesS0a7lhlDgBPs2+Y99/5vBaR+mNVMS3ZFch5FvC3/WC7jjOvvwci1ZB5DplGpQ7fcQbkbPSQ3fpU67dUNhstKf7lye5tkYtVs/EnbxpvZ0gesnl3qE/7sTMA+SAPc4VGi7dZdv9M69coyNgLjJdqpDcDfw==
+v0o14808jqd7gmuot6jjhhjd8fgmkr9i.free.	60	in	rrsig	NSEC3 8 2 60 20251013160625 20250908151753 43450 free. aYAD0bvfpvMRhdSHwOyTj9r+5gIWLuJ2RdjV5wXam9PIF+tJf+tfAMJrYoYHxhpzsELlgbLWJ6D7CqQvMdAMPf8YaD2coLzgWt+0tARXjSLIaoEzT8bD2QfYcws6PLJqVw+FjWmnkdYKs0diYE3ydvew8DaPxAIEbSnNO1Z4q+/eL0fU6pZLsDxAmhEOuPvT3uCVKdJvIcBo+QHbLdm4WCDQO+2m91XHGcefMhlFdLdjkAc0E7VD/uY10TbQ6i/OE5dzWgpzEm20XV6gOooCk3QkBZMXgtfDNPD1l8QUssGAXN9IVKn8DH8GPVbiAqPPVUVcTXa+R1eaEmZGr29Gxw==
 v5j91taejno7s73qa2n75v8v1mastrnp.free.	60	in	nsec3	1 1 0 - VJ99V6GLM10TTCI17T2J3A43BUO66LMA NS DS RRSIG
-v5j91taejno7s73qa2n75v8v1mastrnp.free.	60	in	rrsig	NSEC3 8 2 60 20251008004425 20250902234514 43450 free. BxBOPKXeL1uXgxEdUpV6RG7AKMIvYrCCQVYQm/ZTSb3M0iDv73XRiUXK9ymxx8O/otNSmaArSzlWxYrkOSz2QxA38zTAH2dUQCHQvFs94QiNNofyCVwhPR1f81wtvBOHFNtI5XhC51UpNVuQQeWgwZ6UxThd2w3+7X/iSGfOUMfouHWlho6KrYksysOrI6ifWx1F9qz19pf8A4IFLBG/7KhNyhzzw3PH4yod+a9A1uFlbyifbdR32bMptn9RZiEvhMiLbBJr6breuB9qCiLNXo6fR0WiFhbKfQSf1cFvlrxf8ofUR1+/I027c4KaXzI1KbUgif3esMJool8/E0egPA==
+v5j91taejno7s73qa2n75v8v1mastrnp.free.	60	in	rrsig	NSEC3 8 2 60 20251015001614 20250909234425 43450 free. jvDBYveSOZLWREWtKToviy7octHFgkeUwAtfqochEuZfFbwq29WYzyvDehZDA3ggye3YkRq5j+nMjSDI6gG03K6UuqyHFYJSPkTmngMMK8Ouh8sZysmG0t+S9d63M+5aoz3OS45hhXJs8ruudneQn30Dlu2CeKPkOOBHMlXNHwLI+KNBREcnDXawvuA7kVg1DZdqzo/Sh533JDqGQ2prRNB7ECVgOCt/RRVF6t8zhBEXwIOImwDWuAKTNqRMzKvUFiFIIkdiD9vJnN+7IxqO3yeAzbllhAOo84mIefp2bguMl+oybwsftecXLNC0i5N1jjqqFBCr3FAtsue+mCJrnQ==
 valuations.free.	172800	in	ns	ns1.101domain.com.
 valuations.free.	172800	in	ns	ns2.101domain.com.
 valued.free.	172800	in	ns	ns1.101domain.com.
@@ -4324,7 +4362,7 @@ valueit.free.	172800	in	ns	ns2.101domain.com.
 vanva.free.	172800	in	ns	launch1.spaceship.net.
 vanva.free.	172800	in	ns	launch2.spaceship.net.
 vanva.free.	3600	in	ds	51300 13 2 A84C66F2D22D95BFCD3240609A9A0DEF9F83B579B7B5AA4217C1AC0C3DCFACE9
-vanva.free.	3600	in	rrsig	DS 8 2 3600 20251004075511 20250830070733 43450 free. Xejgn5lazv/bZfiRAGC1Jx3veBXgs+xM/Cwajsems0a2fCAjZx98cyOET/FxPdktYEemAUfbCFrYDfgH+qXhE6Qa4RX6Ls3wF7lRe59CgeLaX+UST0dMpKw3LlhDR27g7yWs50u8DgWrQSMw5KhtoTWeAHhQp0gz+mB0GHpREFW5630NBJnvkRrYDhjVJuWabuQVdbtYnQ+oLPYBRxEceQqy6/Zmt4zsPBfC2CJOaqzFBBTbAJyHgUpWQrBVMKlv8oVhzO8wkmZNfBWsxCMQ9BeBp+dMrhDsNYmAT8+PmEn5bSZcWoFPUUMqVIH+0RPfPkqvEjK0YQIaP/1T2+HTSA==
+vanva.free.	3600	in	rrsig	DS 8 2 3600 20251011074933 20250906065511 43450 free. cXzjw1meaAxiyN5KuwedfLS57sJ/c/KpsphRUtuIGOLVfe6yO5DxzOJgDFjyhsrfuK6V1hnHDRm/0s6F23XOMCSZ0p8LSvIYbi/emaPo4fltdywDbTmQvxt2xziWwZ9dzZWNNzkwaPq4rpod8939lVVIBriMw+6mO1IMt/ZbPJhG3nL8u0zPjsgUkP/qGB2jYd9PxfgBCPUDLd7XDbYyjsqF8WWmHXTrH78x/Gnwqasc3a7pzOigrs9qJxBV29FsQrN5IrU4pLumVMvRsykK+0CczLYEnZzq0OL3CU1V2FzDqhU7/bPbjl7Im7uCcIruI0u5uCT0muAN/al1YMdUjQ==
 vape.free.	172800	in	ns	ns1.101domain.com.
 vape.free.	172800	in	ns	ns2.101domain.com.
 vari.free.	172800	in	ns	cameron.ns.cloudflare.com.
@@ -4338,7 +4376,7 @@ vastarel.free.	172800	in	ns	ns4.iptwins.com.
 vegamovies.free.	172800	in	ns	launch1.spaceship.net.
 vegamovies.free.	172800	in	ns	launch2.spaceship.net.
 vegamovies.free.	3600	in	ds	63536 13 2 A4E4646F33462EAAB56F16A847B7C790B85D7C2AA38645606BF06871A44A4C75
-vegamovies.free.	3600	in	rrsig	DS 8 2 3600 20251008122724 20250903115758 43450 free. J3O/jpeJ65yzoX09vaOobqo+fb6kZIy+UafBroGYo9XI8giIARQ3XFbb0nz/omL3XjgV3KmStl568l1dAubYF6RUlqS5bSLCfjKIcpl6kIVtWcb5wD0GUFgqsyfkS7xVVUMy74Y231VO4P55psMTWpi750WK8RLa/555QS8lvjIUOf+Gm8GUn3q5GyVk7Y+v+/Kh4fc+PZ5EoIJyDePpHm/hneaUKAbpcDh9Xzwq4EDeGO0kVS+mY3ByLIWrw3WTRYnrS/ytrn4q0AoJla349WF4SaI+E2U2hTm3AMEHwEraoZXYQSaSkvRnu4mEqZhCniiZf/8SNacW3+SJQzr7Hw==
+vegamovies.free.	3600	in	rrsig	DS 8 2 3600 20251015115706 20250910112724 43450 free. kNfytOdLq2ONEjHxP7WjhkTg5e2ydSRAkpTg3XLIpmNKfDo9ARHXP+AXTf0zKqf0YUBL5xi7RF2KvzWEQ20A+sz2ZF3u6nHkoWRdDR9QVHLM75d49BGvOFhE8vjZmEImZ94DM5qgrliX6DFVGHYPdc0A0SDt81blfGnMUOTPd43brGndBGhI/4vn/0XyjeOufUQJvlwwrCf3mLfBSvFWlm5L5ZcrmWZ5Lzw31na8axJ7d1g/TnZnL7hEg7K+95c8BDPJ1Lotb2VIfqqT9YApCr9yaxAXIlCTtDIAuG91PJIrYkNYVwMS4JV1myRzOkthaqzTLhs8kUHgnso2Jeo5+Q==
 velcro.free.	172800	in	ns	dns1.cscdns.net.
 velcro.free.	172800	in	ns	dns2.cscdns.net.
 veloursnoir.free.	172800	in	ns	ns1.iptwins.net.
@@ -4391,16 +4429,16 @@ vintagecashcow.free.	172800	in	ns	a.portsdns.se.
 vintagecashcow.free.	172800	in	ns	b.portsdns.net.
 viptext.free.	172800	in	ns	pdns1.registrar-servers.com.
 viptext.free.	172800	in	ns	pdns2.registrar-servers.com.
-virus.free.	172800	in	ns	ns1.atom.com.
-virus.free.	172800	in	ns	ns2.atom.com.
+virus.free.	172800	in	ns	launch1.spaceship.net.
+virus.free.	172800	in	ns	launch2.spaceship.net.
 visionpro.free.	172800	in	ns	a.ns.apple.com.
 visionpro.free.	172800	in	ns	b.ns.apple.com.
 visionpro.free.	172800	in	ns	c.ns.apple.com.
 visionpro.free.	172800	in	ns	d.ns.apple.com.
 vita.free.	172800	in	ns	ns1.dyna-ns.net.
 vita.free.	172800	in	ns	ns2.dyna-ns.net.
-vj99v6glm10ttci17t2j3a43buo66lma.free.	60	in	nsec3	1 1 0 - 1A74PST8KHB93857VIRINGO0UEVN9FSA NS DS RRSIG
-vj99v6glm10ttci17t2j3a43buo66lma.free.	60	in	rrsig	NSEC3 8 2 60 20251008004425 20250902234514 43450 free. Ex+lF6fuX8bfrgViRaj/ZSqFTYdFCkFTOGvcQxl1aPEh4LIUjQ1djaT+s7wDNebWvCE1ZGvviVSV2SFa5StI9LtRXu/thQe2nNwCSQcR5q3KxX7VTJWKrsp2lEzjeuPYUN6Pccu0T/WzMbeMhF+3i/ZvXjrGm4LnB7qw2QWwWN2AXfp0n7xe1m15wPfU3TFJWPD6/r3dmsGb73SBhJk/a1azJFmgXN0gao4lPUt/jU2BLnJizZjeHMEyaY6XPSTyzqzihA8pNrCdfo3cJsDDYYEBNTYON5PD7w9/9og2/sgEqoudLKgTmyJSX75ERY5prkxm06o7Giwf0ypGmQrwRg==
+vj99v6glm10ttci17t2j3a43buo66lma.free.	60	in	nsec3	1 1 0 - 0JHD5OPK816SOR7VBF6OLENQV8932DU2 NS DS RRSIG
+vj99v6glm10ttci17t2j3a43buo66lma.free.	60	in	rrsig	NSEC3 8 2 60 20251014134934 20250909133335 43450 free. Pq12x1reLtQ1N7B758eB/mPhTw+IXzWC2MTTojmJTQ8Mpt7el3GjE/94q69cBlJp24Ro48A6xymXzJuzi8wCE26qEXT9iI0mBtDI7XTT/+rQCcDBhPP9Ohp2k5dvmca1C1fNs6yg5jKKzCjLHavJljhFUaP7R/+WXp23aqkQFoQrXIYEukRL7Dmo7hekdGnT34LylXIHuvHNN5G3GCaW8pFY2atswE9uBlRCwBPK30Ct7RUTaB953bti1fKCjHIjIEBuuvBJXRbYPynDl7b6O8mtiLVHx7bp7+qJpkg6oG91kqYKfd1zJbys16WtIQi7y6muBPgYHMdqBjylf4AQXg==
 vlxx.free.	172800	in	ns	dns1.registrar-servers.com.
 vlxx.free.	172800	in	ns	dns2.registrar-servers.com.
 vmware.free.	172800	in	ns	edns161.ultradns.biz.
@@ -4455,8 +4493,8 @@ w88.free.	172800	in	ns	alec.ns.cloudflare.com.
 w88.free.	172800	in	ns	daisy.ns.cloudflare.com.
 walmart.free.	172800	in	ns	ns03.gcd-dns.com.
 walmart.free.	172800	in	ns	ns04.gcd-dns.com.
-wander.free.	172800	in	ns	ns1.atom.com.
-wander.free.	172800	in	ns	ns2.atom.com.
+wander.free.	172800	in	ns	ns1.afternic.com.
+wander.free.	172800	in	ns	ns2.afternic.com.
 wanna-b.free.	172800	in	ns	ns.hostpoint.ch.
 wanna-b.free.	172800	in	ns	ns2.hostpoint.ch.
 wanna-b.free.	172800	in	ns	ns3.hostpoint.ch.
@@ -4481,7 +4519,7 @@ watermark.free.	172800	in	ns	dns2.registrar-servers.com.
 wauu.free.	172800	in	ns	launch1.spaceship.net.
 wauu.free.	172800	in	ns	launch2.spaceship.net.
 wauu.free.	3600	in	ds	7747 13 2 5EAFDE68F54CD5911F06ADEC2C2551561B2A5F31419BFF94D342AB92C064D582
-wauu.free.	3600	in	rrsig	DS 8 2 3600 20251008080823 20250903074141 43450 free. W3Yz1aE8ksTHja/8nIE3jW+xSYWiWQ7udjrRq4D/m2Wqe7Mw7tzv4wDIsNSZb+p2+R2B4bkbJHLfOPO94xZsgIqonG4QA1GKWzal8z6zrgRKiCOBUi3uXMlMlpm/PAnU3X6E6QhwZr33vxwtpMIF/Ord5JUoQ1Od889J3ilt/2Yc63zdhOS1xJi0NBK+G3+z+Dcc/Ac4lqAqdEsk+/6ji8vn/6OLZbxE1tfIb8meNYJPyvvLJJ/BDcFDxXDp+pXZuj/AD/tENL1yPuLLgb0v4bxkRVlvc5TRdKEwsG3EuhJjyQ4WIjye8BaJw2S2OXez3OAG4C7ql891ZWFrpTjYvg==
+wauu.free.	3600	in	rrsig	DS 8 2 3600 20251015071533 20250910070823 43450 free. mWe+x175mNwXxkxi6HGBRIKZgVJy9BE+v0wvk+DZCX4RXGsSr3JDztksnCT9574R+h8i4Uq/yLMdhdwnLFNh72yBKT/4a/C5Hj3CTpG1foeW+jVDCUjV6xb2nK2V694/KWiaETCrlFf182NsFDVq7YdvW4+S/3bpt39vQ32RJ/UsMYKgHW1gxKNwEfXqtCcVi93SNrghfhSrd+c3nYn1R45Khnpb/cr4UKImOVkCgh/1nX204WIK6Jen52iG5Pw+BoPI8VHy8M6udyeeNc4iE2p5SmjANtCOUitw61dxM407Lw6yrt3Ihz5yWVwZnq4hk6tweY/cEVYpxBscOYbKfw==
 weare.free.	172800	in	ns	ns1.premiumdomains.cloud.
 weare.free.	172800	in	ns	ns2.premiumdomains.cloud.
 web3.free.	172800	in	ns	ns1.domaineasy.com.
@@ -4509,7 +4547,7 @@ webserver.free.	172800	in	ns	ns2.atom.com.
 websites.free.	172800	in	ns	launch1.spaceship.net.
 websites.free.	172800	in	ns	launch2.spaceship.net.
 websites.free.	3600	in	ds	49211 13 2 3CF06E469FE5551CD44FA3EE97D4DFB718BA54287E990B1D38C529C7D7172CD5
-websites.free.	3600	in	rrsig	DS 8 2 3600 20251006225545 20250901222209 43450 free. Tz2Ifsp3298DR82ykHFKqpxQYtgJg3to7a5/+5uAQ/19d41I0yUy/Xjw6V+ve2/Fz+bTWXKB24ICjwGqCB6etavoR8nGbhUUt6YDUUKoasxtw1xNz1+zzD0MfGhN9C1jOrZwY05vhxydiTceBGW6M2q1vBDdQ2txSD4UC6IaRNTorMkp55RiRHCItVeFOMQ/1Kg5Hh4RBqszawTK9h1czuQy4qR2rC60HnSUuxRfGx0Vs1yA4HBiNfZD4dlHJIFU5X4ngo6L+xFLHsHULCBDbl+IwCM3uLTaOyUMTMjcRIf/4Dq67NXEyuYV2UnQjsP5Z89R69Eer9JmOnFD9ByVag==
+websites.free.	3600	in	rrsig	DS 8 2 3600 20251013224446 20250908215545 43450 free. bXjvhN/rlrGWHFAQLaugK0Hj7vA4hw1kruYmhyUpoZ5+lGdYMjZmd3vrORPe3L5QwaXeDIDWiyAm9PfduzYHeZtsYzZP8bl3ZAo/n6+Ze5u37dUrf+gUNx9RK1o+UUKLwj9w2nnXJu4hqYPgl8SaISWDERnFOF9G8vLY3VcpdTpnRyaTWvfCkiBgO6AE1WgADFd4dSEDm9Yf9IbdVNtUVHDyby22wklfBwJU/mx90YedDnrooSv9acQwL/xsOABRSlUveq5EhgzRx1QzvWcoSKiICWf67K/ROx8s8UeqyEevkNWvfzBvkQXuWwIrS/L4Eg38CG4X67y3jmp1uCHuOw==
 wecima.free.	172800	in	ns	beth.ns.cloudflare.com.
 wecima.free.	172800	in	ns	guss.ns.cloudflare.com.
 weibo.free.	172800	in	ns	ns1.101domain.com.
@@ -4540,7 +4578,7 @@ wildcard.free.	172800	in	ns	ns2.dyna-ns.net.
 with.free.	172800	in	ns	launch1.spaceship.net.
 with.free.	172800	in	ns	launch2.spaceship.net.
 with.free.	3600	in	ds	55567 13 2 3E5F24F403BAA04CAA50062C277F10B79ABFC8DBA359F103234ECEB97A61622E
-with.free.	3600	in	rrsig	DS 8 2 3600 20251008204354 20250903195131 43450 free. Nw9z6vgI2bUq1nO0myekaCrYXf38tBBVl/CAa2EsFVYq9FgwabuyZOLSAU/BND1SSHI602dQb3AJPiKZ/D04DaJMRwYMAkVbKX4GC+BOxlTif94bd9WqBYSomMPisbjgwiEzg9mme0OfyfY85YiK/1brOUtmPzNCQWVY0vz0VW/ZXU4H8a99zDJIln6KpTJy3/C9vviYLDlW6IfSIA2AjYF0vG2PFol+UVQFfYIoWxz2JIPuLYGrnp7tzZRpCbyU8olIZYza9dan4Wx2Urq7beS9A/ZHd324FI6dQFQKlE/6sFdpDSHXc9V1FAIYaYvi00bH8cNRHojoWTK3JmfkIQ==
+with.free.	3600	in	rrsig	DS 8 2 3600 20251015202801 20250910194354 43450 free. bVTU+wWuGA3U6Ay5IrOFQbjVIjQd/CORJzQA/FnzsKCBVsKEZu05ZLVmrxZ1hnBxNUvn0qK8XWRQaLHMOwrVLELjrxrP868SA2sPR7spIcCAeanwBKslZbwYERINcKM5Nm7O6rnWJbAkuKiu3Vl070YCCxVbB8BdSlMhC9NGPCZqCU8A146FC9QSa5Dst73t71q3M8+YbQYPZZCAZYQuZFW07d+ZQeAQrs0gqarnq0qa++aXHESj3kq5wPkOo4Mu1JKIVgBsu4uZ4ebz06K5LrCoWkj2wEubjckzsFK4aY3RavaDukrvhwa9KClR7F47snd+FTdIlpanFAVEL1uNkw==
 wktickets.free.	172800	in	ns	ns1.emailverification.info.
 wktickets.free.	172800	in	ns	ns2.emailverification.info.
 woda.free.	172800	in	ns	curitiba.ns.porkbun.com.
@@ -4595,8 +4633,8 @@ wphosting.free.	172800	in	ns	ns5.gransy.com.
 wright.free.	172800	in	ns	dns1.idp365.net.
 wright.free.	172800	in	ns	dns2.idp365.net.
 wright.free.	172800	in	ns	dns3.idp365.net.
-wrinkle.free.	172800	in	ns	ns1.atom.com.
-wrinkle.free.	172800	in	ns	ns2.atom.com.
+wrinkle.free.	172800	in	ns	launch1.spaceship.net.
+wrinkle.free.	172800	in	ns	launch2.spaceship.net.
 wwe.free.	172800	in	ns	ns1.wwe.com.
 wwe.free.	172800	in	ns	ns2.wwe.com.
 wwe.free.	172800	in	ns	ns3.wwe.com.
@@ -4624,7 +4662,7 @@ xs4all.free.	172800	in	ns	ns11.kpn.net.
 xtom.free.	172800	in	ns	kate.ns.cloudflare.com.
 xtom.free.	172800	in	ns	merlin.ns.cloudflare.com.
 xtom.free.	3600	in	ds	2371 13 2 7EFF2B4DD854F2448F6EC6E8CC034423403858D41D1A29BD48222183EF158875
-xtom.free.	3600	in	rrsig	DS 8 2 3600 20251007235431 20250902230523 43450 free. WLrsRgSoV7cJrahXE3YN5GN4C7xyv0OXIA3/EHxazGuVmwe/mBnV2GFcb7tDgXJfujfcpSIO2q5DaQPysT9qHgSsB2DFLQjNaVNuvKg+FR5qYME78HuetmKBf3JP5Bd+utQiByzWDKbsmWqOaw95gPUrHuueeC2CsvWAw5aq7ZsY1PQbbhVgFM1JU3hqHcXHeezgAVSW1m1GNWRxIBBU2p8I/QTmwGmy/+td4llFuHQg/fyCU3coBMgEBM/fvLZM5eMbUa1qt4j7FQWHfdeezZ3SwD5p1CpneFedsqeDO2ppqUTL0DZ/yuFbqVMUZx4ApmhLomwpaQ3mO6s/sx+xAg==
+xtom.free.	3600	in	rrsig	DS 8 2 3600 20251014232705 20250909225431 43450 free. MC1AmD2JnJFyUvhjqPDOUsm0eLGB3xxGu7GWstGLYWGMcwb3XGDJn6kQEjiArsJvO8Zgx6Ca1N2g5B4uNVxMDAjTK/pcJSpfnjavAlK+NdtQb8kKE/aBDGEbM61xXTKjib+ti2NXG4zTXniOOhjVI9ztkBPYa7wp5CVI0pDVI5x2cYBekUFEYpSBYqrBxzBKDYfXZxZyj04Mj1OYZhxGa2ywaoKH9UgHW99ePAmEyuDlCvHraM43j1N5q9ek4venjzOUJdUKTquYwPWPKjNKz+EePBUPXBW2iX2PhZwaiQVmzfNiM/FPFL55S2oRL2hNhJgZRYyNqo5BUyrl4RzxEA==
 yahoo.free.	172800	in	ns	ns1.markmonitor.com.
 yahoo.free.	172800	in	ns	ns2.markmonitor.com.
 yahoo.free.	172800	in	ns	ns3.markmonitor.com.
@@ -4673,7 +4711,7 @@ yellowpages.free.	172800	in	ns	oxygen.ns.hetzner.com.
 youare.free.	172800	in	ns	adel.ns.cloudflare.com.
 youare.free.	172800	in	ns	earl.ns.cloudflare.com.
 youare.free.	3600	in	ds	2371 13 2 D004CBE2EB3B3BE4651AA00759B70D64C4D986AA79736BB5D6F2D65FB4EA06A1
-youare.free.	3600	in	rrsig	DS 8 2 3600 20251008012957 20250903005019 43450 free. IBCF2Qqg/phWIT67JAK2c5m9Zupgj1cg5Y5K6Om9b/ZDZoE0TKaELuW8MpUPLyg6qnZow2s9eITMMHan75CU6magHn5QwzkTsVcIZxUJciQEerP1zO8mBMe2P5kCwoMRonNVPml8+b8Vy0NuUjBmc7qjIG6woXr8W5aXgNwjm6popftwHQfPtEA7tP1bjOzaxdBhCN5T739Sp1kH7FHpMNKAb8WAX/Y1QZFPOjaWeG1AmnFCqAJ7Xqx7Vb69wBSUB0fwrKjBNw+JuflAB7FL8KPTa34Unu0JjTjez1feBZ6YyaaGkYFkSg54fXiB0SUaRhGSz9abXedzMsy/Y45dJw==
+youare.free.	3600	in	rrsig	DS 8 2 3600 20251015012722 20250910002957 43450 free. gC/uogUAs5r0g4KQ+RsaaWygkC/9feJSR4vJ+ZcT9v0aQiNQZDYEQkVbAqQKEXj6bTcvb53jLZUffITmfau4vvSTtGlOAK7+bRBIgB68taacBD+vb4S/1nG46avNGDfH2/UgsNJXtft1odPUeJtZgVcNS5IRU1HBvjWweGHDIhVXjOAKcaZuWkZD4PcbKg0uT2foemfm36gO7q2vlpr58WDpOTUGjjgMT9vB0BwyZ1A5vO69DrDxNUnvch18/d/kGmvCGDqndLDb4SDmTndRqYHThBLz4+rLB1G8XAi1U6yWslSUVJND7pDxiXG8HTKRMPdts/jAKsrPGAfwV+58Dg==
 youfone.free.	172800	in	ns	ns1.kpn.net.
 youfone.free.	172800	in	ns	ns11.kpn.net.
 youporn.free.	172800	in	ns	ns1.eurodns.com.
@@ -4726,5 +4764,5 @@ zonnestroom.free.	172800	in	ns	ns02.hostnet.nl.
 zowin.free.	172800	in	ns	launch1.spaceship.net.
 zowin.free.	172800	in	ns	launch2.spaceship.net.
 zowin.free.	3600	in	ds	45291 13 2 975FC4509A5305BDEEC51DEB96AC8BBC3F4F2FB2AA0583742B777465F1DF8A55
-zowin.free.	3600	in	rrsig	DS 8 2 3600 20251007015647 20250902013912 43450 free. IOtAtKlL4KBlfMjWtNPzyZ4s+iJfuzWkpHAWr2Poycv0kRvTZdRo9/JxLYtfXTMx1PhexbuX35e2jqbLknyRlKz6YLplbS5Gg3vLjCXDK7IiMHTt5C/dW5RjFuYPISdfmh1xakRTLpyK4zE98cqgJWEQHAGHJjqQldh9Ji0vKMFbyrr5fecqnYQLNzWu+lI5PjFlb2iUYv4sdWN1R26vhO+9ayCDagmJOx/2I36HvpKO1EqNfnJHs868Goo3HJhGSLL6vk8uuEgB7UpsA7buE+WTT1+KsLu+eWOF4eO1OmiSE7zlM6M9KhkhVHju6IqrY18SDP64NeZFmetvv98XdA==
-free.	172800	in	soa	dns1.nic.free. hostmaster.nominet.org.uk. 1757026463 900 300 2419200 60
+zowin.free.	3600	in	rrsig	DS 8 2 3600 20251014014122 20250909005647 43450 free. WJhqAyeTxRPrP/PwArZh43RLSXNdScKfmlYRl4JUUidcy/iDwEF2TIzVfZDN2c8vyn8e6Bllnq1P0AOen0MZ8EnNexJpC8zhGB4zSCEXMbJ7Sqnij0sz+FWTbI/goViNK8SlOdnNze4bBmJxxkjNNG7/Cs4wy1XRL2HlOQqaZDGGdc0HNwbK55OuFhAy3HuLgpVMoCdB0mwqvmpCw+jcZXuozxfBh0gNvfzbI6jpNiLYBshdVRgT8Vus4dvW8cjHAU3tGjFzeNBlWavHnKoF6p4cxi6cKWgxj9J5Fd4jxpZ77XWsIqNbbdD2YLYxAFFdPEtVW8L4/cHgfuaG5qcijQ==
+free.	172800	in	soa	dns1.nic.free. hostmaster.nominet.org.uk. 1757551161 900 300 2419200 60
