@@ -1,4 +1,4 @@
-xn--d1acj3b.	86400	in	soa	a.dns.ripn.net. hostmaster.ripn.net. 4231243 86400 14400 2592000 3600
+xn--d1acj3b.	86400	in	soa	a.dns.ripn.net. hostmaster.ripn.net. 4231541 86400 14400 2592000 3600
 01824.xn--d1acj3b.	86400	in	ns	verify1.registrar.eu.
 01824.xn--d1acj3b.	86400	in	ns	verify2.registrar.eu.
 01824.xn--d1acj3b.	86400	in	ns	verify3.registrar.eu.
@@ -484,7 +484,7 @@ nic.xn--d1acj3b.	86400	in	ds	64534 8 2 BD8F179A7BB9538F09BDCC38DEB88034DF808C82B
 nic.xn--d1acj3b.	86400	in	ns	int2.ix.ru.
 nic.xn--d1acj3b.	86400	in	ns	int3.ix.ru.
 nic.xn--d1acj3b.	86400	in	ns	ns.msk-ix.ru.
-nic.xn--d1acj3b.	86400	in	rrsig	DS 8 2 86400 20250911142738 20250801111511 12279 xn--d1acj3b. ZZfmUdWYszR3LrifuUz4mXlz0Upd8n8hXEGMSqO+YYA3tC5sYcuta8SIgvJb6jVaQR4KxKjgK+oSUNuDmpVlNyviGaQwTmXEOG5BYyR7wCdRUZXCD6go/ltmr5lA/t+lHOD+0KI8jJSMF++JPn2j/jZv5DOS/VizDDkZ02xpI0k=
+nic.xn--d1acj3b.	86400	in	rrsig	DS 8 2 86400 20251011224130 20250905124511 12279 xn--d1acj3b. oDOhyLHSKBVTD4ytOp261JqXEy9zHt15t1eUshKuOPV2twXG92CNya4oVmaDSlvT0B0ukfPdvr0iwwE5G2y6CTVFEPzvwGA1FsfqMgtU5S3tWteB1GM6HhUXBPrDedM5lksdZW3TlOj4mFP6cugL587f/mSllJZ3MfhDDX2X/MM=
 vgr4r0c14fjui7grr4gljpd2h6q9guqp.xn--d1acj3b.	3600	in	nsec3	1 1 0 - 7O18HULIO84J1SUVPB9MDAMNS36KBNDP NS DS RRSIG
 vgr4r0c14fjui7grr4gljpd2h6q9guqp.xn--d1acj3b.	3600	in	rrsig	NSEC3 8 2 3600 20251007153308 20250827214511 12279 xn--d1acj3b. aUCFCtM+tkw838SS801cHQ4LDcO6KFOH+qFQLjfBPG4mHFZD3hy1maSTfdbV5oYiszpj71gZy7wYedwGxW/oNhUW+HzpBDWMxP3DzeO06O2wP+mm5F4DrM9VGWR1PLLLBUPjSCzQKw6YLCT5oO18iamPePbgrpGFFFA03RFYdqA=
 xn-----6kcbbhq2a6bf3bykpb.xn--d1acj3b.	86400	in	ns	ns1.sprinthost.ru.
@@ -522,8 +522,6 @@ xn----7sbabuu0abkotpn4l.xn--d1acj3b.	86400	in	ns	ns1.jino.ru.
 xn----7sbabuu0abkotpn4l.xn--d1acj3b.	86400	in	ns	ns2.jino.ru.
 xn----7sbabuu0abkotpn4l.xn--d1acj3b.	86400	in	ns	ns3.jino.ru.
 xn----7sbabuu0abkotpn4l.xn--d1acj3b.	86400	in	ns	ns4.jino.ru.
-xn----7sbahqhhedb2cgd0aoq7c.xn--d1acj3b.	86400	in	ns	exp1.nameself.com.
-xn----7sbahqhhedb2cgd0aoq7c.xn--d1acj3b.	86400	in	ns	exp2.nameself.com.
 xn----7sbajjdq1atpabbxy.xn--d1acj3b.	86400	in	ns	ns1.nameself.com.
 xn----7sbajjdq1atpabbxy.xn--d1acj3b.	86400	in	ns	ns2.nameself.com.
 xn----7sbb1a1adcee4a2h5b.xn--d1acj3b.	86400	in	ns	int2.ix.ru.
@@ -581,8 +579,6 @@ xn----7sbjfd7bfk7a2g.xn--d1acj3b.	86400	in	ns	ns8.nic.ru.
 xn----7sble5abkm5afv.xn--d1acj3b.	86400	in	ns	ns.majordomo.ru.
 xn----7sble5abkm5afv.xn--d1acj3b.	86400	in	ns	ns2.majordomo.ru.
 xn----7sble5abkm5afv.xn--d1acj3b.	86400	in	ns	ns3.majordomo.ru.
-xn----7sboema3acmujm9nh.xn--d1acj3b.	86400	in	ns	dnsproxy1.fm.nic.ru.
-xn----7sboema3acmujm9nh.xn--d1acj3b.	86400	in	ns	dnsproxy2.fm.nic.ru.
 xn----7sbqahhfxjdb0aj0aee2l.xn--d1acj3b.	86400	in	ns	int2.ix.ru.
 xn----7sbqahhfxjdb0aj0aee2l.xn--d1acj3b.	86400	in	ns	int3.ix.ru.
 xn----7sbqahhfxjdb0aj0aee2l.xn--d1acj3b.	86400	in	ns	ns.msk-ix.ru.
@@ -980,9 +976,8 @@ xn--80aasv0aa.xn--d1acj3b.	86400	in	ns	ns3.timeweb.org.
 xn--80aasv0aa.xn--d1acj3b.	86400	in	ns	ns4.timeweb.org.
 xn--80aatf4czb.xn--d1acj3b.	86400	in	ns	ns1.hosting.reg.ru.
 xn--80aatf4czb.xn--d1acj3b.	86400	in	ns	ns2.hosting.reg.ru.
-xn--80aaukc2b.xn--d1acj3b.	86400	in	ns	ns3.nic.ru.
-xn--80aaukc2b.xn--d1acj3b.	86400	in	ns	ns4.nic.ru.
-xn--80aaukc2b.xn--d1acj3b.	86400	in	ns	ns8.nic.ru.
+xn--80aaukc2b.xn--d1acj3b.	86400	in	ns	dnsproxy1.fm.nic.ru.
+xn--80aaukc2b.xn--d1acj3b.	86400	in	ns	dnsproxy2.fm.nic.ru.
 xn--80aauks4g.xn--d1acj3b.	86400	in	ns	ns1.hosting.reg.ru.
 xn--80aauks4g.xn--d1acj3b.	86400	in	ns	ns2.hosting.reg.ru.
 xn--80aavk2aha7f.xn--d1acj3b.	86400	in	ns	ns1.reg.ru.
@@ -2064,8 +2059,8 @@ xn--b1adi3aal3f.xn--d1acj3b.	86400	in	ns	ns4-cloud.nic.ru.
 xn--b1adi3aal3f.xn--d1acj3b.	86400	in	ns	ns4-l2.nic.ru.
 xn--b1adi3aal3f.xn--d1acj3b.	86400	in	ns	ns8-cloud.nic.ru.
 xn--b1adi3aal3f.xn--d1acj3b.	86400	in	ns	ns8-l2.nic.ru.
-xn--b1ae3aaoy.xn--d1acj3b.	86400	in	ns	ines.ns.cloudflare.com.
-xn--b1ae3aaoy.xn--d1acj3b.	86400	in	ns	kurt.ns.cloudflare.com.
+xn--b1ae3aaoy.xn--d1acj3b.	86400	in	ns	dnsproxy1.fm.nic.ru.
+xn--b1ae3aaoy.xn--d1acj3b.	86400	in	ns	dnsproxy2.fm.nic.ru.
 xn--b1aeadplsey0a.xn--d1acj3b.	86400	in	ns	ns3.nic.ru.
 xn--b1aeadplsey0a.xn--d1acj3b.	86400	in	ns	ns4.nic.ru.
 xn--b1aeadplsey0a.xn--d1acj3b.	86400	in	ns	ns8.nic.ru.
@@ -2135,6 +2130,8 @@ xn--b1ag8ag.xn--d1acj3b.	86400	in	ns	boyd.ns.cloudflare.com.
 xn--b1ag8ag.xn--d1acj3b.	86400	in	ns	liv.ns.cloudflare.com.
 xn--b1agaa2a8aq6aj.xn--d1acj3b.	86400	in	ns	ns1.reg.ru.
 xn--b1agaa2a8aq6aj.xn--d1acj3b.	86400	in	ns	ns2.reg.ru.
+xn--b1agaljwoje7c.xn--d1acj3b.	86400	in	ns	ns1.tildadns.com.
+xn--b1agaljwoje7c.xn--d1acj3b.	86400	in	ns	ns2.tildadns.com.
 xn--b1agalnkdezt3g.xn--d1acj3b.	86400	in	ns	ns1.hosting.reg.ru.
 xn--b1agalnkdezt3g.xn--d1acj3b.	86400	in	ns	ns2.hosting.reg.ru.
 xn--b1agazb5ah1e.xn--d1acj3b.	86400	in	ns	ariella.ns.cloudflare.com.
@@ -2296,8 +2293,8 @@ xn--c1av0c.xn--d1acj3b.	86400	in	ns	statuspage2.nic.ru.
 xn--c1awjj.xn--d1acj3b.	86400	in	ns	ns1.ucoz.net.
 xn--c1awjj.xn--d1acj3b.	86400	in	ns	ns2.ucoz.net.
 xn--c1awjj.xn--d1acj3b.	86400	in	ns	ns3.ucoz.net.
-xn--d1a0avw.xn--d1acj3b.	86400	in	ns	ns1.hosting.reg.ru.
-xn--d1a0avw.xn--d1acj3b.	86400	in	ns	ns2.hosting.reg.ru.
+xn--d1a0avw.xn--d1acj3b.	86400	in	ns	ns1.expired.reg.ru.
+xn--d1a0avw.xn--d1acj3b.	86400	in	ns	ns2.expired.reg.ru.
 xn--d1aai3a8e.xn--d1acj3b.	86400	in	ns	ns3.nic.ru.
 xn--d1aai3a8e.xn--d1acj3b.	86400	in	ns	ns4.nic.ru.
 xn--d1aai3a8e.xn--d1acj3b.	86400	in	ns	ns8.nic.ru.
@@ -2351,7 +2348,8 @@ xn--d1achl2a.xn--d1acj3b.	86400	in	ns	ns2.hosting.reg.ru.
 xn--d1aciboont.xn--d1acj3b.	86400	in	ns	cloe.ns.cloudflare.com.
 xn--d1aciboont.xn--d1acj3b.	86400	in	ns	terin.ns.cloudflare.com.
 xn--d1acj3b.	0	in	nsec3param	1 0 0 -
-xn--d1acj3b.	0	in	rrsig	NSEC3PARAM 8 1 0 20251011002606 20250829044510 12279 xn--d1acj3b. AUs5COMqSjWvdDfQBOvd1/O9YN7Mc3FLnuE/XOj0RK4b7rZpcvbMqw4ixNpZbymqBMEdqZspbVOlQ5gWWTRr16SK7cl1kebJv4KaFlAfZZmUXn03hJa+ZnLEUwoyyPa/fHXuEbSzhTgYubC9J7gQm8oFXpoxwoVc2vC+bz8L5AU=
+xn--d1acj3b.	0	in	rrsig	NSEC3PARAM 8 1 0 20251013182410 20250908101515 12279 xn--d1acj3b. ODGc/D7EWj8y6Ug0Z7tvCBEmEN7sN/TtcLV2NP1pd102s7S8uopBJiM2fMs9iFiJfWS4Id7JVCuFpN0QFJ2SFWeH/IOTMpfKoefpYgBw/5JSINP/85AG3OTP46csTohSzfgiy6jXhl+GsrZlxWTPbRySOhhD2Nai+aLLLKcEImw=
+xn--d1acj3b.	86400	in	dnskey	256 3 8 AwEAAcdX/4BX0EX3mENzlmTHkgbP9XNd0+jimfWTbZmjIZIJ3dPbFFZQGkql49kP7QymY5yZa4wg0F5k8E535RC4o2LAspfbbPoQuWNWNVbXX64bLUOGviFLMaQw9TXk2vi22w0y0HLV6MGONn0qZSyht5tWtvCWoldUBT+HyPAcqRtd
 xn--d1acj3b.	86400	in	dnskey	256 3 8 AwEAAfDQ27AGAnazAtmORkR9b6XU4sV/zqwFBH/I7/JalYVnZj9vOrLo/IuoOXFHB7TTKYNyvBtFrqZIz+zEJC+JlE//Q4+m4zfQ7J06DIXTugol8hu620cVfHDDz3rCdgdj0u8+EDzMkeBBpZdoCEYht2hskVyGmE/X/c6GlBVAGPi/
 xn--d1acj3b.	86400	in	dnskey	257 3 8 AwEAAbXMU+OEwqGdDYTtTcxFHpQx+E+HJQ96uZqllNQalKlaBDak63aIgVqxfZ9XZ7S3BDTb0AL1hAmRaNDUNilVMxLCDzuwojyVs9PItfGAMVKkcnGeqwc6eTbadZCLWBoYgWN1HxEZcQ7ZHXY2oB3R6nBfBsjR1sexiLZtLt6zmMe0ddulDIyGQLwjU1SgvGeBwYXaLGPgny0SPxNbwGDqnf+WZwSPgCTqZxtKleEjHlAx6XGoB/vBIWuKZASJ9bPrV7axnmLYyj8c3MaCu/2y0b1VSFG9Yohz9J5MebW/Dx0YThhmqJ5Xm+H3jz2D+szqfrIQduqJ+0jKW+pnC55wsk8=
 xn--d1acj3b.	86400	in	ns	a.dns.ripn.net.
@@ -2359,9 +2357,9 @@ xn--d1acj3b.	86400	in	ns	b.dns.ripn.net.
 xn--d1acj3b.	86400	in	ns	d.dns.ripn.net.
 xn--d1acj3b.	86400	in	ns	e.dns.ripn.net.
 xn--d1acj3b.	86400	in	ns	f.dns.ripn.net.
-xn--d1acj3b.	86400	in	rrsig	DNSKEY 8 1 86400 20250917000000 20250828000000 24002 xn--d1acj3b. CoV7LREIZRPWftiqcsU7oqLFaregCHD0f0cWTWArhkQqmMoMaZiSWs5AlFJn+sq8YJ3D2BJ6EfJ0jaN8BkUeUfZGONkNlE/mJzlbdorBv+EcdCN1SoMyeCxu/FldIE160VL9p8+ktwPWlzz2NAPyd+14WKcUMxZUPaJX22d+iZqASc6Iq046yIrgQjS9kl4YMZTpM4zWpvTeZbkW04deQ61lpeTEQTOk5t27bVf73gDTCrnfCm5FwUeIiR5CRCApbD/im8aaNPSLR1RTXCiswL0yaiz98WBxIP+uRjfrID8e1fVigBsK+sdrtVVv0zUpM9+vTTlVoTmGhWrnxhUzOg==
-xn--d1acj3b.	86400	in	rrsig	NS 8 1 86400 20251010060527 20250903211511 12279 xn--d1acj3b. UYV5R0hnokgh6zCMy9ORavrk5uhu3HyPyD8y/0nmJ4qXr9DQ9UpCGg+323f6o9CoGbjaCn9qLjT/qe7QYSrui5MLqLHI7cJPFpts19bb2v0Rj6G/m5zQKepUIunqISl/h0/MrDXZuqUttUT7ITLM7r91q0FJl+vK6550S1kWEGU=
-xn--d1acj3b.	86400	in	rrsig	SOA 8 1 86400 20251008021247 20250904174509 12279 xn--d1acj3b. 4D3FNiYygwZWGHJmlGYh1k+GjLjknl8ZlpGm2vzKVn2fBBMcjSqoqP074Q9F8FEq9zQ1yBxTTpJV4vlNEnfLCy8Whl/jMB07bShDwVhYDkLuZZh+4NROg75zRXZtO2h2bwYawNblcP2Wp08s/z1p66qCXvUQdcNuIarZKX8hpUA=
+xn--d1acj3b.	86400	in	rrsig	DNSKEY 8 1 86400 20250925000000 20250905000000 24002 xn--d1acj3b. HWEzcgQB7YvKgehbCIh/xu/T/KW1ctSK9SqN35iq6tBShmUIXEfNwino99oGsyVpDiORJ+NPGtIL8WPy3UtyNrzeJl9A25weJI9w911oGWrltn9dIa67uCM9yXaRKmm3tzKd6kOJ5NN10fehqlQT9ihYeUaliFtYZ2wbKLKA8lb9+hbSUcQskvnKm+9D1ITmzU6qrCoqo5J/+0Zw9ENSmDksK90F8j07fDfu9/qnwTRYCrR7BM68DQPTcNCaIOlQhWHVqRTj/mFX+xG8mAuhCwGslEWS40aYpk7DWjVcQrGDeX/CuMkBTRdUNtuPxtO5j8STPGN246EL+4LNBLcTEw==
+xn--d1acj3b.	86400	in	rrsig	NS 8 1 86400 20251018015816 20250908101515 12279 xn--d1acj3b. YZuXBZGZnla/y8AUk1vVm3dH82dvD+JwzfNsoGZFkyoysmMv8StXRnRpXxcebGeo+QAuiygFQzWALLBrZ42By3Vn2JfXBc0ikjaPHVZY11XI097kQNN72hagz0WUlFLma+64U3ZE+wQxuoQTAnR8Sg0299SVClUdS4iYWI1VdHo=
+xn--d1acj3b.	86400	in	rrsig	SOA 8 1 86400 20251012205245 20250910224513 12279 xn--d1acj3b. FFdAVE5Ndp0ku7OhEZE2q/KOkuWarQlE4mNHFGSgzzrzRt03a/rXjxoyAbwBX6E3vX/zPA1o1LgQqi2Eslubu/Tq5kD10QJOSlUk+8puIpkIGPhp5bwAbdgTpEDw02jJBpQ2+DSd2cuT+X19P0a9SKiV/wq4lUKsg8SASk7/9bY=
 xn--d1acj3b.xn--d1acj3b.	86400	in	ns	ns1.jino.ru.
 xn--d1acj3b.xn--d1acj3b.	86400	in	ns	ns2.jino.ru.
 xn--d1acj3b.xn--d1acj3b.	86400	in	ns	ns3.jino.ru.
@@ -2502,8 +2500,6 @@ xn--e1aarjeur.xn--d1acj3b.	86400	in	ns	ns1.hosting.reg.ru.
 xn--e1aarjeur.xn--d1acj3b.	86400	in	ns	ns2.hosting.reg.ru.
 xn--e1aarjeur2d.xn--d1acj3b.	86400	in	ns	ns1.hosting.reg.ru.
 xn--e1aarjeur2d.xn--d1acj3b.	86400	in	ns	ns2.hosting.reg.ru.
-xn--e1aaxgjl2bza.xn--d1acj3b.	86400	in	ns	dnsproxy1.fm.nic.ru.
-xn--e1aaxgjl2bza.xn--d1acj3b.	86400	in	ns	dnsproxy2.fm.nic.ru.
 xn--e1aaxkdh.xn--d1acj3b.	86400	in	ns	ns1.hosting.reg.ru.
 xn--e1aaxkdh.xn--d1acj3b.	86400	in	ns	ns2.hosting.reg.ru.
 xn--e1aaydcihf.xn--d1acj3b.	86400	in	ns	statuspage1.nic.ru.
@@ -2531,8 +2527,6 @@ xn--e1af3aza.xn--d1acj3b.	86400	in	ns	ns1.tildadns.com.
 xn--e1af3aza.xn--d1acj3b.	86400	in	ns	ns2.tildadns.com.
 xn--e1afapag0bbe.xn--d1acj3b.	86400	in	ns	statuspage1.nic.ru.
 xn--e1afapag0bbe.xn--d1acj3b.	86400	in	ns	statuspage2.nic.ru.
-xn--e1afbddceukk.xn--d1acj3b.	86400	in	ns	dnsproxy1.fm.nic.ru.
-xn--e1afbddceukk.xn--d1acj3b.	86400	in	ns	dnsproxy2.fm.nic.ru.
 xn--e1afbgfnji0e9cp.xn--d1acj3b.	86400	in	ns	ns1.reg.ru.
 xn--e1afbgfnji0e9cp.xn--d1acj3b.	86400	in	ns	ns2.reg.ru.
 xn--e1afbhwgj0c.xn--d1acj3b.	86400	in	ns	ns1.hosting.reg.ru.
@@ -2698,8 +2692,6 @@ xn--f1adbhd8ah0i.xn--d1acj3b.	86400	in	ns	ns1.spaceweb.ru.
 xn--f1adbhd8ah0i.xn--d1acj3b.	86400	in	ns	ns2.spaceweb.ru.
 xn--f1adbhd8ah0i.xn--d1acj3b.	86400	in	ns	ns3.spaceweb.pro.
 xn--f1adbhd8ah0i.xn--d1acj3b.	86400	in	ns	ns4.spaceweb.pro.
-xn--f1aegv9c.xn--d1acj3b.	86400	in	ns	dnsproxy1.fm.nic.ru.
-xn--f1aegv9c.xn--d1acj3b.	86400	in	ns	dnsproxy2.fm.nic.ru.
 xn--f1aeh8d.xn--d1acj3b.	86400	in	ns	ns1.hosting.reg.ru.
 xn--f1aeh8d.xn--d1acj3b.	86400	in	ns	ns2.hosting.reg.ru.
 xn--g1abdcd5ahaq0gxb.xn--d1acj3b.	86400	in	ns	ns1.reg.ru.
@@ -3014,4 +3006,4 @@ xn--p1add7a.xn--d1acj3b.	86400	in	ns	ns1.reg.ru.
 xn--p1add7a.xn--d1acj3b.	86400	in	ns	ns2.reg.ru.
 xn--q1acg.xn--d1acj3b.	86400	in	ns	johnny.ns.cloudflare.com.
 xn--q1acg.xn--d1acj3b.	86400	in	ns	tina.ns.cloudflare.com.
-xn--d1acj3b.	86400	in	soa	a.dns.ripn.net. hostmaster.ripn.net. 4231243 86400 14400 2592000 3600
+xn--d1acj3b.	86400	in	soa	a.dns.ripn.net. hostmaster.ripn.net. 4231541 86400 14400 2592000 3600
