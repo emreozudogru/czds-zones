@@ -1,4 +1,4 @@
-auto.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1756250881 900 1800 6048000 3600
+auto.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757012264 900 1800 6048000 3600
 1xbet.auto.	3600	in	ns	ns1.dnsres.net.
 1xbet.auto.	3600	in	ns	ns2.dnsres.net.
 1xbet.auto.	3600	in	ns	ns3.dnsres.net.
@@ -73,14 +73,21 @@ adwords.auto.	900	in	rrsig	NSEC 13 2 900 20250913071526 20250814054526 20777 aut
 agence.auto.	3600	in	ns	dns15.ovh.net.
 agence.auto.	3600	in	ns	ns15.ovh.net.
 agence.auto.	900	in	nsec	agr.auto. NS RRSIG NSEC
-agence.auto.	900	in	rrsig	NSEC 13 2 900 20250831082547 20250801065547 20777 auto. L1/pvJP7Quo8sJ1wb+IA/dNu+Bs5h3o1kBL78vewxb+MgUXrm/ajUtZFPivJIz+tFZXMtHETAG7+Q1YwD7qG7Q==
+agence.auto.	900	in	rrsig	NSEC 13 2 900 20250927082547 20250828065547 20777 auto. eQUcFv8GDQoSGxUHyq+PwxjeITITQxRLSU/3uLnb/tBf9BVwgk4u/zK2/kmTuKFfnWZIcR5zUG0GhXb3TZsGvQ==
+agr-service.auto.	3600	in	ns	ns3-l2.nic.ru.
+agr-service.auto.	3600	in	ns	ns4-cloud.nic.ru.
+agr-service.auto.	3600	in	ns	ns4-l2.nic.ru.
+agr-service.auto.	3600	in	ns	ns8-cloud.nic.ru.
+agr-service.auto.	3600	in	ns	ns8-l2.nic.ru.
+agr-service.auto.	900	in	nsec	ai.auto. NS RRSIG NSEC
+agr-service.auto.	900	in	rrsig	NSEC 13 2 900 20250927162048 20250828145048 20777 auto. WaZi4FH8K6hsPPePahmceCifS0VXpWQUzT6+Fwut742h/qybMEw41SIxNAUsd7uT3UhBjAX/NjO5uC/yGUK5rA==
 agr.auto.	3600	in	ns	ns3-l2.nic.ru.
 agr.auto.	3600	in	ns	ns4-cloud.nic.ru.
 agr.auto.	3600	in	ns	ns4-l2.nic.ru.
 agr.auto.	3600	in	ns	ns8-cloud.nic.ru.
 agr.auto.	3600	in	ns	ns8-l2.nic.ru.
-agr.auto.	900	in	nsec	ai.auto. NS RRSIG NSEC
-agr.auto.	900	in	rrsig	NSEC 13 2 900 20250913071526 20250814054526 20777 auto. zQ4LMhgHeC6/cnRvyjoj0v8byqqrfFk05d93COYixbR1Ki2BvGsISqle4CxzgJeCD34MNz3V022xsfZ5Xwf7rg==
+agr.auto.	900	in	nsec	agr-service.auto. NS RRSIG NSEC
+agr.auto.	900	in	rrsig	NSEC 13 2 900 20250927162048 20250828145048 20777 auto. ECNr8LavuDMRQbJlz2nrV/+IzOgecHo22SrpyJlJhgig8P7GdExzW6RJ5v0ygLtSOxIKl2nGLVzUHtnOCCRR5A==
 ai.auto.	3600	in	ns	ns01.cashparking.com.
 ai.auto.	3600	in	ns	ns02.cashparking.com.
 ai.auto.	900	in	nsec	aito.auto. NS RRSIG NSEC
@@ -284,7 +291,7 @@ auto.	3600	in	dnskey	257 3 13 GrPHO0B2X6chmUzYQ4rfV6JwdxOGZRIidDKxNLshFP9pziXajY
 auto.	3600	in	rrsig	DNSKEY 13 1 3600 20250913071526 20250814054526 2612 auto. LTbcoAgQCOe9ErQ+QK4DNS62LVhjKoweat0vETNse5x4HbG9nKKtCxaSRW3+CWd4PQ8uBbsi25ljdxUZuraWTg==
 auto.	900	in	nsec	1xbet.auto. NS SOA RRSIG NSEC DNSKEY
 auto.	900	in	rrsig	NSEC 13 1 900 20250923141907 20250824124907 20777 auto. egPjBM2VSkvNXhdbWbKVnPIT9OQsqR9FhInVUrOqsS0kFCclYIhKWBIbtn9bXTer/mUtGWPQzLpcyzf880Spzg==
-auto.	900	in	rrsig	SOA 13 1 900 20250925232801 20250826215801 20777 auto. veFbiBJuSEUeCVw3CSHnMrHoUIFYzqamAgIOj04Nrcbt52o3QY5O0EmTI9ySjycKyXGsgRYJsOiYuSmJpD42zg==
+auto.	900	in	rrsig	SOA 13 1 900 20251004185744 20250904172744 20777 auto. rWKv7bhMM0gvaQM6exbHFQeQGsm94seZ6nrnFTZsnAi8eNnkI+ucSCdNzKKlgO/mTNnTNTgqUwpT0X5Rnz2USg==
 autonation.auto.	3600	in	ns	udns1.cscdns.net.
 autonation.auto.	3600	in	ns	udns2.cscdns.uk.
 autonation.auto.	900	in	nsec	autonoma.auto. NS RRSIG NSEC
@@ -436,7 +443,7 @@ brose.auto.	3600	in	ns	ns2.netnames.net.
 brose.auto.	3600	in	ns	ns5.netnames.net.
 brose.auto.	3600	in	ns	ns6.netnames.net.
 brose.auto.	900	in	nsec	byd.auto. NS RRSIG NSEC
-brose.auto.	900	in	rrsig	NSEC 13 2 900 20250904082729 20250805065729 20777 auto. AT7J/XMjg0esjcyrnXX0chB4RaRJe6TnFXSx18zHKIJS7KCa2BZquMdwcafL8lwozHiyeLEqWOTLC8DOxS2xLw==
+brose.auto.	900	in	rrsig	NSEC 13 2 900 20251001082729 20250901065729 20777 auto. KvgqrQK0mYEi4rcLpfB3nDLQIsEGqXV5+7zYi3e1hVyotFQrl5xW9YIbOvHlVxbDSAr+GtaMHqcza3KJDwvBXA==
 byd.auto.	3600	in	ns	ns1.huaweicloud-dns.cn.
 byd.auto.	3600	in	ns	ns1.huaweicloud-dns.com.
 byd.auto.	3600	in	ns	ns1.huaweicloud-dns.net.
@@ -448,12 +455,12 @@ c.nic.auto.	3600	in	aaaa	2a04:2b00:13ee:0000:0000:0000:0000:0131
 car.auto.	3600	in	ns	ns1.bdydns.cn.
 car.auto.	3600	in	ns	ns2.bdydns.cn.
 car.auto.	900	in	nsec	caradisiac.auto. NS RRSIG NSEC
-car.auto.	900	in	rrsig	NSEC 13 2 900 20250902121748 20250803104748 20777 auto. ZZbCjSXDZjxQLWs5b7PP9b09qtHBVrOX3kORFDqD+rozBN9gYOkfP4wvM+qDMkWuKwlm990wNHrsltUHzg7ABA==
+car.auto.	900	in	rrsig	NSEC 13 2 900 20250929121748 20250830104748 20777 auto. NGLqQnB4mSuQlrfm/s8XuBm2K/sUhhaOrKN49aOkZJhyina/tEKmkfkpVfqCoTR0MOHzoQ2CLElIjyIg/og2Hw==
 caradisiac.auto.	3600	in	ns	ns-120-a.gandi.net.
 caradisiac.auto.	3600	in	ns	ns-186-c.gandi.net.
 caradisiac.auto.	3600	in	ns	ns-97-b.gandi.net.
 caradisiac.auto.	900	in	nsec	carfi.auto. NS RRSIG NSEC
-caradisiac.auto.	900	in	rrsig	NSEC 13 2 900 20250902121748 20250803104748 20777 auto. 00TKsh6nhR5mSuBXWxq7SUDu4TMTPkA9L1XC2VHjU4hBpZvE5lFrmmlSAjR58KIIWNgHdysnpVUeF/g5Vvl21g==
+caradisiac.auto.	900	in	rrsig	NSEC 13 2 900 20250929121748 20250830104748 20777 auto. cv4JyIwZxyYVbKSXXNkedgwrP8oALSK8IIfbu1ucnqSMSw44lXly2w8zKqJxFEJktjP0rZBJ0PSZ1yhWer6PxA==
 carfi.auto.	3600	in	ns	pdns03.domaincontrol.com.
 carfi.auto.	3600	in	ns	pdns04.domaincontrol.com.
 carfi.auto.	900	in	nsec	cargroup.auto. NS RRSIG NSEC
@@ -664,7 +671,7 @@ dein.auto.	900	in	rrsig	NSEC 13 2 900 20250913071526 20250814054526 20777 auto. 
 denza.auto.	3600	in	ns	ns1.huaweicloud-dns.cn.
 denza.auto.	3600	in	ns	ns1.huaweicloud-dns.com.
 denza.auto.	900	in	nsec	diagbox.auto. NS RRSIG NSEC
-denza.auto.	900	in	rrsig	NSEC 13 2 900 20250903073042 20250804060042 20777 auto. m9psyVOSoMsLuMILkCperBq2zNDD9z12VjYsNdkhglCX2moRbY5BCghDQ2VrsOKm8gxRH3HGjJkSmTJvCNFE/g==
+denza.auto.	900	in	rrsig	NSEC 13 2 900 20250930073042 20250831060042 20777 auto. 6W6m6Osm7Jv5arIzmcwacSFNFH4IgJ40DStSS6VeMjruA+xeNMrB2hMMj1WpoD/kLgdhUiCvjeuDw+hATFRL2g==
 diagbox.auto.	3600	in	ns	ns-13-a.gandi.net.
 diagbox.auto.	3600	in	ns	ns-134-b.gandi.net.
 diagbox.auto.	3600	in	ns	ns-213-c.gandi.net.
@@ -870,8 +877,8 @@ facebook.auto.	3600	in	ns	c.ns.facebook.com.
 facebook.auto.	3600	in	ns	d.ns.facebook.com.
 facebook.auto.	900	in	nsec	fafsd.auto. NS RRSIG NSEC
 facebook.auto.	900	in	rrsig	NSEC 13 2 900 20250913071526 20250814054526 20777 auto. Wtikijn2BzUa/qI6zKqKS8GmJvnoUgyYgDTs/V77qXSxtcriG/a3dqHtWj5KTAO3X77m5FL3OZKMn6HC7uNqXw==
-fafsd.auto.	3600	in	ns	dns3.hichina.com.
-fafsd.auto.	3600	in	ns	dns4.hichina.com.
+fafsd.auto.	3600	in	ns	expirens3.hichina.com.
+fafsd.auto.	3600	in	ns	expirens4.hichina.com.
 fafsd.auto.	900	in	nsec	fairfield.auto. NS RRSIG NSEC
 fafsd.auto.	900	in	rrsig	NSEC 13 2 900 20250913071526 20250814054526 20777 auto. yZQTXPS/IEM3asbpNAsGlLyFhGXnLUE6lOq6oJ83oM8daeFDYDaXY7zGK6ZoT8qrdI1+nta42ri9ksy/mS64dA==
 fairfield.auto.	3600	in	ns	ns69.domaincontrol.com.
@@ -946,7 +953,7 @@ frontline.auto.	900	in	rrsig	NSEC 13 2 900 20250912173834 20250813160834 20777 a
 futurama.auto.	3600	in	ns	dns1.cscdns.net.
 futurama.auto.	3600	in	ns	dns2.cscdns.net.
 futurama.auto.	900	in	nsec	fx.auto. NS RRSIG NSEC
-futurama.auto.	900	in	rrsig	NSEC 13 2 900 20250902121748 20250803104748 20777 auto. 5XPtvxn2bEU50H1xwtG0Sf8a1E/3Y5Txq1+G2+7SA7+mUhtIsRmDAoN+oFjM41rJppRf6tbRalxRPK+LKRcWpA==
+futurama.auto.	900	in	rrsig	NSEC 13 2 900 20250929121748 20250830104748 20777 auto. Yrmx3SGcdZf6fvCRAVrmG4Nqm1pIBTA7GFb5j+W4xfUqQOJCKaZss5Q+/Du1/pJTbBMqQyMe30V7E0ylEqDZyQ==
 fx.auto.	3600	in	ns	dns1.registrar-servers.com.
 fx.auto.	3600	in	ns	dns2.registrar-servers.com.
 fx.auto.	900	in	nsec	geely.auto. NS RRSIG NSEC
@@ -1058,11 +1065,11 @@ gpb.auto.	900	in	rrsig	NSEC 13 2 900 20250915120055 20250816103055 20777 auto. l
 gsm.auto.	3600	in	ns	ns37.domaincontrol.com.
 gsm.auto.	3600	in	ns	ns38.domaincontrol.com.
 gsm.auto.	900	in	nsec	guide.auto. NS RRSIG NSEC
-gsm.auto.	900	in	rrsig	NSEC 13 2 900 20250904210914 20250805193914 20777 auto. vjVG/vUIkvk0rJ7FUPAqLItdx/56eloswxxZ1XcRL/uzKP1Kts28ufWoE9s4DBfHGct/CUFi3AfmV1dei/KIKA==
+gsm.auto.	900	in	rrsig	NSEC 13 2 900 20251001210914 20250901193914 20777 auto. taiuYz5rDn8jaGJms7V+IYM11WZD7Yc2uuiCbw3kPc3bf7cIzthd8SWFjyRncny8qt0cBR4U8RpNZteJcgT+Tg==
 guide.auto.	3600	in	ns	udns1.cscdns.net.
 guide.auto.	3600	in	ns	udns2.cscdns.uk.
 guide.auto.	900	in	nsec	gumtree.auto. NS RRSIG NSEC
-guide.auto.	900	in	rrsig	NSEC 13 2 900 20250904210914 20250805193914 20777 auto. f9AhE6U7ji0NmuEQ4ZpjXvYOYmSrtb8Hlx0LWYow46GQjLF2vq5LVCmdQ0AQ7qXaThKKL90EPCglUOn3CGo7Dw==
+guide.auto.	900	in	rrsig	NSEC 13 2 900 20251001210914 20250901193914 20777 auto. ZAuAK9Qc+IYBNh/1tl+WcbprfWe5r+eZ9lvccvmezfwFoXj5S+Fvm9Q3cwQ30GGFWT24ZC62+s6WHNXZjrgFEA==
 gumtree.auto.	3600	in	ns	ns1.markmonitor.com.
 gumtree.auto.	3600	in	ns	ns2.markmonitor.com.
 gumtree.auto.	3600	in	ns	ns3.markmonitor.com.
@@ -1075,11 +1082,11 @@ gumtree.auto.	900	in	rrsig	NSEC 13 2 900 20250913071526 20250814054526 20777 aut
 gxpress.auto.	3600	in	ns	ns45.worldnic.com.
 gxpress.auto.	3600	in	ns	ns46.worldnic.com.
 gxpress.auto.	900	in	nsec	gyde.auto. NS RRSIG NSEC
-gxpress.auto.	900	in	rrsig	NSEC 13 2 900 20250830223033 20250731210033 20777 auto. cVZr1UDf9JKXy74OjXeS0KeNFc3y0EKhbERKfzv7dEaUbmtOPDSph8M9wvfXTido3Hsc+9pq6wnNmLv/L19keA==
+gxpress.auto.	900	in	rrsig	NSEC 13 2 900 20250926223033 20250827210033 20777 auto. WHBoKq+zky1S7wOW+6+65cMmRTx4jKo9DPBPa1z3r2QeCLjoyo+cN1kYzNMOBlqw5a0tnj9ZVLSLEd/COyxW8g==
 gyde.auto.	3600	in	ns	udns1.cscdns.net.
 gyde.auto.	3600	in	ns	udns2.cscdns.uk.
 gyde.auto.	900	in	nsec	haeusler.auto. NS RRSIG NSEC
-gyde.auto.	900	in	rrsig	NSEC 13 2 900 20250830223033 20250731210033 20777 auto. 2sm6Ui2OYiWGCD0jn0ca06mSg/JANT93d8hxZrup83X9Sge49uu5kalIBm0/tP+1Fe76jW1LDi6jAz10n88k3w==
+gyde.auto.	900	in	rrsig	NSEC 13 2 900 20250926223033 20250827210033 20777 auto. MC6x8U6t/aCy5JcQll2hGqYHtNhjucrRAjY6Yj/MnF5CXwX3r7g03AIgqf5AK84VYHCmyBxQ7aYYjrmMuzvGww==
 haeusler.auto.	3600	in	ns	ns.udag.de.
 haeusler.auto.	3600	in	ns	ns.udag.net.
 haeusler.auto.	3600	in	ns	ns.udag.org.
@@ -1237,14 +1244,8 @@ jobs.auto.	3600	in	ns	ns-113.awsdns-14.com.
 jobs.auto.	3600	in	ns	ns-1498.awsdns-59.org.
 jobs.auto.	3600	in	ns	ns-1658.awsdns-15.co.uk.
 jobs.auto.	3600	in	ns	ns-602.awsdns-11.net.
-jobs.auto.	900	in	nsec	juhu.auto. NS RRSIG NSEC
-jobs.auto.	900	in	rrsig	NSEC 13 2 900 20250914075135 20250815062135 20777 auto. IFMGinjn612NcUb9w/XrzJpz9G+FbnhTocNGuCiRB19KDHs0KBb9oOi9NU/SKONbNfK69ZO4NQAS4lu5+lFUJw==
-juhu.auto.	3600	in	ns	ns-1341.awsdns-39.org.
-juhu.auto.	3600	in	ns	ns-1576.awsdns-05.co.uk.
-juhu.auto.	3600	in	ns	ns-466.awsdns-58.com.
-juhu.auto.	3600	in	ns	ns-832.awsdns-40.net.
-juhu.auto.	900	in	nsec	kain.auto. NS RRSIG NSEC
-juhu.auto.	900	in	rrsig	NSEC 13 2 900 20250924120557 20250825103557 20777 auto. sZlNMFMRq0kRgJfN9v2rkAEfu2vPxYIPFKU6cvpGZNW1sJjL5djKk9YhIX2+LlcmdqgYJC9dptHuGfnj30te2A==
+jobs.auto.	900	in	nsec	kain.auto. NS RRSIG NSEC
+jobs.auto.	900	in	rrsig	NSEC 13 2 900 20251001084540 20250901071540 20777 auto. 2Pk9eeILZqyLiTMuhgoqUygC0lCZofOzv5szwAuPxUbR+gRhnO58vF1SZjgfiga0/rPiBEtiXUQkA6m7vd5sVA==
 kain.auto.	3600	in	ns	ns41.domaincontrol.com.
 kain.auto.	3600	in	ns	ns42.domaincontrol.com.
 kain.auto.	900	in	nsec	kamux.auto. NS RRSIG NSEC
@@ -1278,7 +1279,7 @@ krafft.auto.	3600	in	ns	ns5.markmonitor.com.
 krafft.auto.	3600	in	ns	ns6.markmonitor.com.
 krafft.auto.	3600	in	ns	ns7.markmonitor.com.
 krafft.auto.	900	in	nsec	lacentrale.auto. NS RRSIG NSEC
-krafft.auto.	900	in	rrsig	NSEC 13 2 900 20250902121748 20250803104748 20777 auto. a3PQ3Co2hmgLeXFjG7oP/wUpm+dYpa8+5l39dPcFzuT9iJddtx691TT2BjdkqhCcLKvlmDYOIqREGxf1pZhE3w==
+krafft.auto.	900	in	rrsig	NSEC 13 2 900 20250929121748 20250830104748 20777 auto. hkG2lYOm9UWsm7Z41LhTDoKitM6GYxMMzOmug/R2pXxAVit/I7OaeqRgN0540PKJ2Yw9S6hESHJjs+xQ1gIuAg==
 lacentrale.auto.	3600	in	ns	ns-118-c.gandi.net.
 lacentrale.auto.	3600	in	ns	ns-179-a.gandi.net.
 lacentrale.auto.	3600	in	ns	ns-238-b.gandi.net.
@@ -1402,13 +1403,13 @@ m.auto.	900	in	rrsig	NSEC 13 2 900 20250911182832 20250812165832 20777 auto. 7Cr
 macdermidalpha.auto.	3600	in	ns	ns1-08.azure-dns.com.
 macdermidalpha.auto.	3600	in	ns	ns2-04.azure-dns.net.
 macdermidalpha.auto.	900	in	nsec	mad360.auto. NS RRSIG NSEC
-macdermidalpha.auto.	900	in	rrsig	NSEC 13 2 900 20250906094024 20250807081024 20777 auto. Zx4nqouKRdueMh/wQ+Y2PsOb1IrmGfgUwrnu2l2UEYH6W+JrmFnus2qsl0IfIO4DAwyYOIRfmLKlnC9uajf0hQ==
+macdermidalpha.auto.	900	in	rrsig	NSEC 13 2 900 20251003094024 20250903081024 20777 auto. 2Cq1kzE9AOYTSKMWUuZeVsWd/jf45YZoGquY8A7mEfI///MaQZLJJLySbLsyR3xQPV0QZXrUczFcmaQk/lZn/w==
 mad360.auto.	3600	in	ns	ns-1155.awsdns-16.org.
 mad360.auto.	3600	in	ns	ns-1836.awsdns-37.co.uk.
 mad360.auto.	3600	in	ns	ns-246.awsdns-30.com.
 mad360.auto.	3600	in	ns	ns-988.awsdns-59.net.
 mad360.auto.	900	in	nsec	mainstreet.auto. NS RRSIG NSEC
-mad360.auto.	900	in	rrsig	NSEC 13 2 900 20250906094024 20250807081024 20777 auto. 3jkvtcL+oZgp2tSQxRgpsHiB0nNxpwCt8idxY0GcK/TSw9HJZkKkxpSEuSZiiLB//JULtUyv1nyPJnzo3LefkQ==
+mad360.auto.	900	in	rrsig	NSEC 13 2 900 20251003094024 20250903081024 20777 auto. wi7tJZpOYLvAI0mfAoGxRFIdZ+UkH/8Pjt0uicvSufIxpFeL2FBx8AQOUXbl5TeyAqW0WcP1BfMv85aPHizk8w==
 mainstreet.auto.	3600	in	ns	augustus.ns.cloudflare.com.
 mainstreet.auto.	3600	in	ns	bethany.ns.cloudflare.com.
 mainstreet.auto.	900	in	nsec	mangit.auto. NS RRSIG NSEC
@@ -1416,17 +1417,17 @@ mainstreet.auto.	900	in	rrsig	NSEC 13 2 900 20250913071526 20250814054526 20777 
 mangit.auto.	3600	in	ns	ns1.101domain.com.
 mangit.auto.	3600	in	ns	ns2.101domain.com.
 mangit.auto.	900	in	nsec	marktplaats.auto. NS RRSIG NSEC
-mangit.auto.	900	in	rrsig	NSEC 13 2 900 20250903073042 20250804060042 20777 auto. 7ZV7xxIC9kMEefFIOHBEEZ/ZvP+ZNOl3xo+R36HHhtbZq/jwSGsRbWKnj+WSaPaSZQxtpM1p4zOj5aG+eVe2pw==
+mangit.auto.	900	in	rrsig	NSEC 13 2 900 20250930073042 20250831060042 20777 auto. U8PytPrE0rkciUXno95zPNxGroNCqacVdKZBWS/Jj+OcRW2EAOIMWBMr87hkQ9IqCzoeUMY0WoKtQCQcfbPyXQ==
 marktplaats.auto.	3600	in	ns	ns1.markmonitor.com.
 marktplaats.auto.	3600	in	ns	ns3.markmonitor.com.
 marktplaats.auto.	900	in	nsec	mathguru.auto. NS RRSIG NSEC
-marktplaats.auto.	900	in	rrsig	NSEC 13 2 900 20250901193211 20250802180211 20777 auto. IBFm5GsmqXslbmsnW0k8DgwWTfrvYdDTFK4QEcvksJZXgCwYgiSYvExqQvCpjPErOMBiTOSaY1+B99M4sUyN1g==
+marktplaats.auto.	900	in	rrsig	NSEC 13 2 900 20250928193211 20250829180211 20777 auto. Fc2z3IZ9Y5vKHC3ZbEc7KmjWOrwF09pvdmGoS+NHKnHlAhJdssLuoFM6ZocMMg3ZmbCvzv+O+YCaN4sb2Ko+ng==
 mathguru.auto.	3600	in	ns	curitiba.ns.porkbun.com.
 mathguru.auto.	3600	in	ns	fortaleza.ns.porkbun.com.
 mathguru.auto.	3600	in	ns	maceio.ns.porkbun.com.
 mathguru.auto.	3600	in	ns	salvador.ns.porkbun.com.
 mathguru.auto.	900	in	nsec	matthies.auto. NS RRSIG NSEC
-mathguru.auto.	900	in	rrsig	NSEC 13 2 900 20250901193211 20250802180211 20777 auto. 5H4pUhwV423mCIN6HSjK06mt2vUTkA08BYFR+AorNdEgMpxVVqVCiisduj2F+Aksd5xytl1OSmqmgOeNARYS7g==
+mathguru.auto.	900	in	rrsig	NSEC 13 2 900 20250928193211 20250829180211 20777 auto. s5Y7u8tZ1BBIDhWZC63UbFiLsa19KxSbM06X7mf5JdUuOv6ms/m9CT3dN48chU8pJobHsTKQclK90uqL0M6nNg==
 matthies.auto.	3600	in	ns	dokudns.dokumenta.net.
 matthies.auto.	3600	in	ns	dokudns01.dokumenta.net.
 matthies.auto.	3600	in	ns	ns01.dokumenta.net.
@@ -1490,8 +1491,8 @@ mercedesbenz.auto.	3600	in	ns	ns3.corpinter.net.
 mercedesbenz.auto.	3600	in	ns	ns4.corpinter.de.
 mercedesbenz.auto.	900	in	nsec	meta.auto. NS RRSIG NSEC
 mercedesbenz.auto.	900	in	rrsig	NSEC 13 2 900 20250910130358 20250811113358 20777 auto. XDuEHSWYDhGd7soql84soOx1u7gw+sPXN8bYIzWVd9tCvwdQafKsaQk6cuX5Eda+hYN5J5qF5eBQfc0ZY+675g==
-meta.auto.	3600	in	ns	ns1.fp261.parklogic.com.
-meta.auto.	3600	in	ns	ns2.fp261.parklogic.com.
+meta.auto.	3600	in	ns	ns1.afternic.com.
+meta.auto.	3600	in	ns	ns2.afternic.com.
 meta.auto.	900	in	nsec	meyersmanx.auto. NS RRSIG NSEC
 meta.auto.	900	in	rrsig	NSEC 13 2 900 20250910130358 20250811113358 20777 auto. rPRl4RkHI9bkaMTWy8I0gTIkWdRw/lJVKdzv/h9aSq652h3vXdHIdHBNm6zuIpr8PSuz7oyQeM5mhiImT5xu7A==
 meyersmanx.auto.	3600	in	ns	ns13.domaincontrol.com.
@@ -1589,8 +1590,12 @@ netprophet.auto.	900	in	nsec	netto.auto. NS RRSIG NSEC
 netprophet.auto.	900	in	rrsig	NSEC 13 2 900 20250913071526 20250814054526 20777 auto. /pZqj27VkjkiW4Ol0eqHHSljUC9hFVhuSOHFOISSDmkJ61aqO63RLU6OmIOngB+ADjc2YleDRbOekpGzunf9ZA==
 netto.auto.	3600	in	ns	ns1.hoststar.hosting.
 netto.auto.	3600	in	ns	ns2.hoststar.hosting.
-netto.auto.	900	in	nsec	newroads.auto. NS RRSIG NSEC
-netto.auto.	900	in	rrsig	NSEC 13 2 900 20250904082729 20250805065729 20777 auto. Pwhd35lluGxeuUElUWKIN3hKz/PPngLTGfv4fVbyC4iVnh1/bhsz4+EJ4y+n3q7W3Lfym9B4+5NJX3qQC/VCsQ==
+netto.auto.	900	in	nsec	neuehct.auto. NS RRSIG NSEC
+netto.auto.	900	in	rrsig	NSEC 13 2 900 20251003063412 20250903050412 20777 auto. LAiq40KF6zoFsCJXGT4Z+WtzWotn4ORZl6XEC3cbE8hUJ6OX4K0eKv1H/+gg8GJwUP7u3wYyD4AJUP6rQsMjlA==
+neuehct.auto.	3600	in	ns	dns17.hichina.com.
+neuehct.auto.	3600	in	ns	dns18.hichina.com.
+neuehct.auto.	900	in	nsec	newroads.auto. NS RRSIG NSEC
+neuehct.auto.	900	in	rrsig	NSEC 13 2 900 20251003063412 20250903050412 20777 auto. X5Drd4wePhZQP/V+9V+VfcT7bwkVaxnGIjAKsypcooLOVCiJy7z/uoBaZAV9EDVGdnHskvtVADEzoN+2jZhwyg==
 newroads.auto.	3600	in	ns	ns15.domaincontrol.com.
 newroads.auto.	3600	in	ns	ns16.domaincontrol.com.
 newroads.auto.	900	in	nsec	nexteer.auto. NS RRSIG NSEC
@@ -1815,11 +1820,11 @@ prime.auto.	3600	in	ns	nsgbr.comlaude.co.uk.
 prime.auto.	3600	in	ns	nssui.comlaude.ch.
 prime.auto.	3600	in	ns	nsusa.comlaude.net.
 prime.auto.	900	in	nsec	propel.auto. NS RRSIG NSEC
-prime.auto.	900	in	rrsig	NSEC 13 2 900 20250907185744 20250808172744 20777 auto. 2BzBoydD1HO3CYtomoEq2ANWCzuEL1Rjp+sL2Zb93bS/HCETKSw4WCoRNVqKLGO0gWJwpJliwOcFOzwLDfEH6A==
+prime.auto.	900	in	rrsig	NSEC 13 2 900 20251004185744 20250904172744 20777 auto. QE+Ca6RzDmy1oGnwKg/oKvMt1EPCtT1TGJirNp3241kkVGDXuyYb6O46xXlSm/BYXwifYZfYI4c6gK7mWrm5Ag==
 propel.auto.	3600	in	ns	chance.ns.cloudflare.com.
 propel.auto.	3600	in	ns	harleigh.ns.cloudflare.com.
 propel.auto.	900	in	nsec	qag.auto. NS RRSIG NSEC
-propel.auto.	900	in	rrsig	NSEC 13 2 900 20250907185744 20250808172744 20777 auto. 2104MPvYvNokcx6/8b/6Lo3II6Cuvl0NcjcZZpn8jQEI2FB8lB4HH7Fyb7Ynh9qZArW6nhucK4uZ/Y/AtO5OjA==
+propel.auto.	900	in	rrsig	NSEC 13 2 900 20251004185744 20250904172744 20777 auto. V2sQRikOm4zP9DRtN0G10yWKPkyM5VqgNPQCLAHdraaYcj6jlrZWGDutcBELhFm36egBBWqgCay647NTDJYKJQ==
 qag.auto.	3600	in	ns	ns75.worldnic.com.
 qag.auto.	3600	in	ns	ns76.worldnic.com.
 qag.auto.	900	in	nsec	qiankun.auto. NS RRSIG NSEC
@@ -1916,7 +1921,7 @@ restart.auto.	3600	in	ns	ns4-l2.nic.ru.
 restart.auto.	3600	in	ns	ns8-cloud.nic.ru.
 restart.auto.	3600	in	ns	ns8-l2.nic.ru.
 restart.auto.	900	in	nsec	revinate.auto. NS RRSIG NSEC
-restart.auto.	900	in	rrsig	NSEC 13 2 900 20250906231840 20250807214840 20777 auto. iMu1pIK2QjyHAWIoRvF4eKNjwC0XwDPkId3kw3mIUCLYItY8PrFNh4fFd/OtQERUhWvPPjR3UoCGawibVas99Q==
+restart.auto.	900	in	rrsig	NSEC 13 2 900 20251003231840 20250903214840 20777 auto. FRW8OklKaocwP6285QTAz/pnYJEKEG0SbzhhBJMcwd/TWpLomSdI0COnuCokQkEOjuzsfl5ifi3FVnHqLNDNUQ==
 revinate.auto.	3600	in	ns	ns19.domaincontrol.com.
 revinate.auto.	3600	in	ns	ns20.domaincontrol.com.
 revinate.auto.	900	in	nsec	revolution.auto. NS RRSIG NSEC
@@ -2162,15 +2167,19 @@ streamline.auto.	3600	in	ns	ns-1657.awsdns-15.co.uk.
 streamline.auto.	3600	in	ns	ns-90.awsdns-11.com.
 streamline.auto.	3600	in	ns	ns-991.awsdns-59.net.
 streamline.auto.	900	in	nsec	sub-jam.auto. NS RRSIG NSEC
-streamline.auto.	900	in	rrsig	NSEC 13 2 900 20250907154624 20250808141624 20777 auto. FjPl8bjDRgTZXV2Jf1I6Cm5zSNY+IctiHy13AmI4fIOxbhSVx034/zh1bBgQzSKN9wyEO9G/cRp9AUNGIJ9ULA==
+streamline.auto.	900	in	rrsig	NSEC 13 2 900 20251004151355 20250904134355 20777 auto. 3ZY7GHi97eIeOeMfzw13PGhuyeTWvFdkz+fnR+77YiiJUCKS7he+C5f2FY1kH9WNQpkr+2G8kHAXrC10zjHd/Q==
 sub-jam.auto.	3600	in	ns	amir.ns.cloudflare.com.
 sub-jam.auto.	3600	in	ns	anastasia.ns.cloudflare.com.
 sub-jam.auto.	900	in	nsec	sun.auto. NS RRSIG NSEC
-sub-jam.auto.	900	in	rrsig	NSEC 13 2 900 20250907154624 20250808141624 20777 auto. uSw73qNArxWMylRRHUKJfdcTcaIP5TTO6lquQ/bXiK7EyONliG2GL0KJDMbYSL89wvMq3rOeUzgE9WUBys7BYA==
+sub-jam.auto.	900	in	rrsig	NSEC 13 2 900 20251004151355 20250904134355 20777 auto. fMRJatP+gnESvZbW0EvmWmihionzxmPlWQLJbmFYE522Z4BkSO35zMUUWUYanll3vJwdG8TtqphH+DzwjyrmMQ==
 sun.auto.	3600	in	ns	ns55.domaincontrol.com.
 sun.auto.	3600	in	ns	ns56.domaincontrol.com.
-sun.auto.	900	in	nsec	sustainera.auto. NS RRSIG NSEC
-sun.auto.	900	in	rrsig	NSEC 13 2 900 20250830113032 20250731100032 20777 auto. BUVxWuUkz03bJ5JWbjUcPDldbd4wlRs9deBdt5K6htBHPhB07BqxdniBaAmIFPW4piXukvhYs00AVPk+mtMMsQ==
+sun.auto.	900	in	nsec	superagent.auto. NS RRSIG NSEC
+sun.auto.	900	in	rrsig	NSEC 13 2 900 20251002064048 20250902051048 20777 auto. FPU6eZj6wrXWneIZmmfa77jhQ8uD85Ql4vG1aEkpqw153bmr/QUFpEdzZSOTBjOvrIyYUy9JUkCQMBnPgytdoA==
+superagent.auto.	3600	in	ns	pdns1.registrar-servers.com.
+superagent.auto.	3600	in	ns	pdns2.registrar-servers.com.
+superagent.auto.	900	in	nsec	sustainera.auto. NS RRSIG NSEC
+superagent.auto.	900	in	rrsig	NSEC 13 2 900 20251002064048 20250902051048 20777 auto. 3+yCFevFu+nxurmPUTAgchgQ6HfeQNglRypr7ZyuSvCBMGwYHdAX33OZ5IGTvLeq+n0UERS4qNp7KG7EtMUVbQ==
 sustainera.auto.	3600	in	ns	ns-210-c.gandi.net.
 sustainera.auto.	3600	in	ns	ns-46-b.gandi.net.
 sustainera.auto.	3600	in	ns	ns-73-a.gandi.net.
@@ -2331,11 +2340,11 @@ uber.auto.	900	in	rrsig	NSEC 13 2 900 20250913071526 20250814054526 20777 auto. 
 udrive.auto.	3600	in	ns	ns7.worldnic.com.
 udrive.auto.	3600	in	ns	ns8.worldnic.com.
 udrive.auto.	900	in	nsec	ufabet.auto. NS RRSIG NSEC
-udrive.auto.	900	in	rrsig	NSEC 13 2 900 20250907151355 20250808134355 20777 auto. 6CWfUO95HmoYTsi84hM5dVdlzMoN3m7ZYCmdTAly/96LtHuQmVMTe1z3j+EiJncVPyBwJl53yR5qWXjHjBuNUw==
+udrive.auto.	900	in	rrsig	NSEC 13 2 900 20251004151355 20250904134355 20777 auto. pg79fFAu+pA1LlmloVpniVEi7JRxZPLwVqeUZ+3O+aFjTVI6kcl1WCxFjAh8oHwh9rB5RgoktkyJPtRUAdtRYQ==
 ufabet.auto.	3600	in	ns	dns1.registrar-servers.com.
 ufabet.auto.	3600	in	ns	dns2.registrar-servers.com.
 ufabet.auto.	900	in	nsec	umb.auto. NS RRSIG NSEC
-ufabet.auto.	900	in	rrsig	NSEC 13 2 900 20250907151355 20250808134355 20777 auto. WxRptcTj8uyr4mCp+DPIlapXgqwJVG5nJ05bexqpVZGocKQUFfkz+Yo89JtghSMmMZGG0xF1PazO8JfPqksYFg==
+ufabet.auto.	900	in	rrsig	NSEC 13 2 900 20251004151355 20250904134355 20777 auto. 0VVCXIhbBgaOxq6sjLTUZTw48IuFpssja3kwj4AN2ledzIkHweoMf71Jeswdhvc5ILTK3yJ2n655RdfGLb+8aQ==
 umb.auto.	3600	in	ns	ns53.domaincontrol.com.
 umb.auto.	3600	in	ns	ns54.domaincontrol.com.
 umb.auto.	900	in	nsec	umo.auto. NS RRSIG NSEC
@@ -2488,7 +2497,7 @@ wirkaufendein.auto.	3600	in	ns	ns2.eurodns.com.
 wirkaufendein.auto.	3600	in	ns	ns3.eurodns.com.
 wirkaufendein.auto.	3600	in	ns	ns4.eurodns.com.
 wirkaufendein.auto.	900	in	nsec	wonder.auto. NS RRSIG NSEC
-wirkaufendein.auto.	900	in	rrsig	NSEC 13 2 900 20250907123805 20250808110805 20777 auto. gktPlJxIpWlG9TOWswOhs9dH81hO5M+F7QfZ/F41drlWFQtcTlc/jdXwfXss3bnoxbcQhX2NQXk/Uu+DAOznCA==
+wirkaufendein.auto.	900	in	rrsig	NSEC 13 2 900 20251004123805 20250904110805 20777 auto. A4fbZpu5lH1oIf4viLsCOUocu+NVVrx5KHYlirX/Evs5KD1pOid9DxmkAZsBN8i4mzqlrtmj7rPlYo4YNLKrMg==
 wonder.auto.	3600	in	ns	ns1.register.it.
 wonder.auto.	3600	in	ns	ns2.register.it.
 wonder.auto.	900	in	nsec	world777.auto. NS RRSIG NSEC
@@ -2550,20 +2559,20 @@ youtube.auto.	3600	in	ns	ns3.google.com.
 youtube.auto.	3600	in	ns	ns4.google.com.
 youtube.auto.	900	in	nsec	zavodi.auto. NS RRSIG NSEC
 youtube.auto.	900	in	rrsig	NSEC 13 2 900 20250913071526 20250814054526 20777 auto. 1QRZ3BN5MiH1pKS0DVUYl/qnedGqpdQwzoqUR6/mJMqu64lAJuvVZLUGXStp/nGYMzX1opKPXdJOkZAGgg7GSw==
-zavodi.auto.	3600	in	ns	ns1.agatgroup.com.
-zavodi.auto.	3600	in	ns	ns2.agatgroup.com.
+zavodi.auto.	3600	in	ns	dnsproxy1.fm.nic.ru.
+zavodi.auto.	3600	in	ns	dnsproxy2.fm.nic.ru.
 zavodi.auto.	900	in	nsec	zen.auto. NS RRSIG NSEC
 zavodi.auto.	900	in	rrsig	NSEC 13 2 900 20250913071526 20250814054526 20777 auto. PaOoh1NAE8F7lvnpynrb/FGoFfIGVAcq9gFryaFFi7ejAiCa5uko3InJcTvxnCn3ml9LV6ndpi/BqDgcYXrmIw==
 zen.auto.	3600	in	ns	harlee.ns.cloudflare.com.
 zen.auto.	3600	in	ns	memphis.ns.cloudflare.com.
 zen.auto.	900	in	nsec	zena.auto. NS RRSIG NSEC
-zen.auto.	900	in	rrsig	NSEC 13 2 900 20250903102345 20250804085345 20777 auto. ta9NNoDZMpK6RK329L1jBADs6Wtdo5V9lZMHQ8lixl5C8pnQW78pdaU8cNoRA6I150Dd1U2SCVNGQjiq856yMw==
+zen.auto.	900	in	rrsig	NSEC 13 2 900 20250930102345 20250831085345 20777 auto. pxKkLUESG48+aQZDJuU12UMx4YfDygN7vCtMTgGxiBambUA+S0Gdmz6t0E87GLmZs7TqyKZUfLeyzn5aGYBEnw==
 zena.auto.	3600	in	ns	dns1.comlaude-dns.com.
 zena.auto.	3600	in	ns	dns2.comlaude-dns.net.
 zena.auto.	3600	in	ns	dns3.comlaude-dns.co.uk.
 zena.auto.	3600	in	ns	dns4.comlaude-dns.eu.
 zena.auto.	900	in	nsec	zetta.auto. NS RRSIG NSEC
-zena.auto.	900	in	rrsig	NSEC 13 2 900 20250903102345 20250804085345 20777 auto. 1zPYrER8f3ZrD+qT3f2jToSK8FXFXxv2tRxcj8OUGTMY7PkOVT+hJBNgdvi5ysW3JwipFNZ+xUWvs/iENrt3yw==
+zena.auto.	900	in	rrsig	NSEC 13 2 900 20250930102345 20250831085345 20777 auto. KBsKulCDd2+psSwC4szbLbmeZIlljgCIilsM9xx641QF18ne7lJtr0dxTLy0ETty7qFYj57/cBs8xZKONUC34w==
 zetta.auto.	3600	in	ns	ns21.domaincontrol.com.
 zetta.auto.	3600	in	ns	ns22.domaincontrol.com.
 zetta.auto.	900	in	nsec	zettascale.auto. NS RRSIG NSEC
@@ -2578,4 +2587,4 @@ zmot.auto.	3600	in	ns	ns-406.awsdns-50.com.
 zmot.auto.	3600	in	ns	ns-907.awsdns-49.net.
 zmot.auto.	900	in	nsec	auto. NS RRSIG NSEC
 zmot.auto.	900	in	rrsig	NSEC 13 2 900 20250913071526 20250814054526 20777 auto. VLuyLaBakzsw+52Q+CmU4/+P0HkwIkzPAI89Ktkbw5oav2Aewx4hczcmJTS4LxzuhlbV+YcUL8PskaK6n8Urmw==
-auto.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1756250881 900 1800 6048000 3600
+auto.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757012264 900 1800 6048000 3600
