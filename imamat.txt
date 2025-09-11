@@ -1,6 +1,6 @@
-imamat.	3600	in	soa	a0.nic.imamat. hostmaster.donuts.email. 1757034313 7200 900 1209600 3600
+imamat.	3600	in	soa	a0.nic.imamat. hostmaster.donuts.email. 1757552763 7200 900 1209600 3600
 69a6fv0o9baovuu2b8o507qq00knoild.imamat.	3600	in	nsec3	1 1 0 73 OG8PKAHDUA7BV9GN8RJOUDH2BA5F9T6F NS DS RRSIG
-69a6fv0o9baovuu2b8o507qq00knoild.imamat.	3600	in	rrsig	NSEC3 8 2 3600 20250922154250 20250901144250 27435 imamat. CHZmoNnPxIV0MWk1Xh8xIXmxI9xNdokwcvaswx1uY9DaeXuPx6rOniq8hfZaUk2xn8FBqUTlwZCZHpvNVpQabLunojXKywqFcaJijdl38Lb5n6rUFXvJ08MgOoME3broKE2ZMgbwMEcrVNet428X9UobTVX33APxqlakK+JU4Z8=
+69a6fv0o9baovuu2b8o507qq00knoild.imamat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153029 20250909143029 27435 imamat. HstcuHTfhDkFxzBI1QisfH9U+aEIVE6aL3yGydJr0I0R6fVOT2ZRHCfIKTHRUGtiUpk3cE3YS6cQKVJRKXNzPCpEzOGQ1OcFLa6lMJSMbN4Az5kixQ0DFucpf1jZS3+/exn4/Fb0tJyzFzmRU9Ao4LtbWp6QJwuhLkXGq+NTtbg=
 a0.nic.imamat.	3600	in	a	65.22.44.9
 a0.nic.imamat.	3600	in	aaaa	2a01:8840:002a:0000:0000:0000:0000:0009
 a2.nic.imamat.	3600	in	a	65.22.47.9
@@ -9,7 +9,7 @@ b0.nic.imamat.	3600	in	a	65.22.45.9
 b0.nic.imamat.	3600	in	aaaa	2a01:8840:002b:0000:0000:0000:0000:0009
 c0.nic.imamat.	3600	in	a	65.22.46.9
 c0.nic.imamat.	3600	in	aaaa	2a01:8840:002c:0000:0000:0000:0000:0009
-imamat.	3600	in	dnskey	256 3 8 AwEAAc7mbFDH7Hiz513pMErefflVN3PoIrp6M+zQ1M55PYxcBkOWbpFL+eRB7VkUKsvWrsPpMy9Ci2QeBbxKDKZNM3Ppe8B2R8rlQqm1IGwyBvfpkwHTF2xdr6/ZSdtzdfbmUihbF4HZW6A9J1O/Og/n5FdZgb/ptgvyD5sdjRrN06Nr
+imamat.	3600	in	dnskey	256 3 8 AwEAAahjx1uGCbM2c8SwtWZxuzDIGs7hCJwyTT4dh9gd9n+06DUVZ00cGHA+hMVTB/0N0g70AuPHUtBX84yIKhaPw5FZbE8g3JibNHaqCu7myxmKF6l/qbERz5UbtfaIGLs5uIpjlM2dR2axoqwaQqOQ3C7/TNvDYqC9eDOT9itJ5yhr
 imamat.	3600	in	dnskey	256 3 8 AwEAAeGNI41YqlDW6uqW9jkb6f4F+Yd4YL/kUHwWRCaFGfOh9DiVNYZMN6mF2GFvOILoQUzt+kf8k+P2STI/5jARLRzRVXuvPG8ip7/avVt+BIFNweMHJ+sPgi/bNUZkKxXYWUuEsUxQ6XqHCB3mgOUXFNdMZYBr6rNUDqaqm7w4k+xF
 imamat.	3600	in	dnskey	257 3 8 AwEAAcu2CWb5cJCkp7Kk1QrQuSzzstPgy+PsbFHJaMeDdf0gYAtu3WRlqdB6Z4YVq2y0NXYclinVy9sUYl53pdhZJXy+Qol4MmZbN1BKkQw1PCqF4D28jMGKcpS5wL1VComnp5fsakjlWiUutxCN0y5BXtO0UpyODXwSvHikuEaZLu3JiJt+IbyMNTPDEI6AkJFndszB874YEka5sWInVpOJ+a7aOxZ0fgFhjNuZsHlxqfms7/9tLTZBBgfNx96/6cKJAkWW6qmmNN9u+VPc/0LNCauaUH9F8GoGZ2K8Ar/6x4de1xaW4NlHVpd5REXLqYvMg+5pJZCNkD+/CrG90kJp0w0=
 imamat.	3600	in	ns	a0.nic.imamat.
@@ -17,10 +17,10 @@ imamat.	3600	in	ns	a2.nic.imamat.
 imamat.	3600	in	ns	b0.nic.imamat.
 imamat.	3600	in	ns	c0.nic.imamat.
 imamat.	3600	in	nsec3param	1 0 0 73
-imamat.	3600	in	rrsig	DNSKEY 8 1 3600 20250922154250 20250901144250 50965 imamat. oGxhYVZJ4u6JswHIUOttnekHNvZwZgU545KVjWpjHva4oX4Ak4wCiqpdterQw4+0Pv5DV3aol137DurXOXteVF+ambQsZHiR37TgDO04h3sCQRkW6Na6OH8jq9ybgCzJE3hGJv/lbvTpPdrEg3zTUQtqlwUX+DqMpC7B7X8P6MyqOHVQtrfQcpWToBm8Kln8vp92WRLN7vm9GdpVOQxE9TH3CBcu3hKPPgemLRYkY6q9cYrCebg9YJ2EzXFtc9kK+SKFZTyCJaugOroQ1J2Ksw0R1y42I3rhsqhwVrfzRs49QEYob0qYqypT90ABpJjDd52w8EpZ/rX8BjaaX2sy9A==
-imamat.	3600	in	rrsig	NS 8 1 3600 20250922154250 20250901144250 27435 imamat. uFHz5+0uPy/Ns1VaKlBG6xG893lKVe5KD/F+WsTmLL+CjwdYOaoVzEARh7HpBCVjJZgYTi9q0s7/FV6+TmEvKwOFlB0X1ElnDVIsKpAzrCMEfCTjuyjZsVrF0NKt1KHKL9p4JTC7Ynv9w2nDQVrvJqoBvjuTwpaC/j+sxQutriM=
-imamat.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250922154250 20250901144250 27435 imamat. kZxILm9tma+czAysn7MwB/VP8sFDv4RQk04Grf6Nylh6vZVsqwkJaI5XGnVrD274XBBscb6tfqbIwLZixNWOvX+toU11tLFu/LhyGz2o1KGST3HgN/nvoLljeb1hXuqGseOkXXBphB8xHM70cMFXMliKd3yj9oN2kKejt6MEwIo=
-imamat.	3600	in	rrsig	SOA 8 1 3600 20250926010630 20250905000630 27435 imamat. 2fcIX55JnNyigL7VC9pqEwyA1PXe12HTZkN6h/FANibdXwya2eZ37pYh1dRsXk6Z684MgYiipc1vWr21FvDrqUwFFOUCey+WE10lWezuR9kpPiYy/q7wre/YsmVrGx7+vVwQ2TL7H8j5/3B3I9srzxxpwDc5SxA0ppq0z3VQHM8=
+imamat.	3600	in	rrsig	DNSKEY 8 1 3600 20250930153029 20250909143029 50965 imamat. hJXuhjNOTylA8wA7SmJnC4OzMijKDNOvLFe8wSNui90UC2Zd9s4kQ8vGmqOiGG8Xlc6khIkbuWzWbTkZ6LC/cjx2p1O+dNMWnDoztNLvetA8hZqfdXykzv+bdON+fZtwXB8cbEdYii0iEqL/XxiwTvcxp7HUsWItYXW7nISkT9GSQWdENAiwgtX7VBZwdeiAlt1yg8cYfSW83p/zscTBt+vfNF90dbxRG64rpPD1E0TXqTaJFAtcokgyoo5SG23RrAVCpl6HE/+Sl/VL+8HHWP1vossvKg8yjiIijGr8A9JnMJLeAqVYxqB3bFOZNM35dT67gFmIuViSfGIvGoWuqA==
+imamat.	3600	in	rrsig	NS 8 1 3600 20250930153029 20250909143029 27435 imamat. wbwaB7zbTLQGXiaVoIhginx8RXtNCRCw0SnrN7DWCI0jEZA3NLipxRn+QE8jYyfhMKbv20E6d7DGcR5BAMCf0no2BUuqy4Q2+oDBqVTTHDqmWXlelEln5iEv/pDIqXNF4z+6tzRSkeQ0lgxF6Ln6xmSOnXs3XE6VLtSkOfHsii0=
+imamat.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930153029 20250909143029 27435 imamat. zA4BwhotzLQlYiMWB7132zXF6CfTV498ZGgIl97bKgEMx3hpSNoE05SVsqQaQuZQn4deMG5ZUj6lrgSloVws4KSiDQdmdMxI8Dwiwce04jiZfpxwHeBKbNoc6B6Y49Vd3onJmZOfthozuIkKeeOZyiuLilZgqsgKdJDz39Sb9GA=
+imamat.	3600	in	rrsig	SOA 8 1 3600 20251002011129 20250911001129 27435 imamat. msbAH97hRWQ+hEKyQv/V6QeSs2htedQuQC56iJEfajvqrJ6l5siV4rTv5j2LPazT/EqcizjqgxPAWr3RtvJCj4SsuRJufhi9tlpnDssN6sNCyVHeMihsXQ0WNkynXy2fyxl6RIvTJ1fwzV4lTXoTgYzUyEoL4vaO2CsZw5Yl7uA=
 ismaco.imamat.	3600	in	ns	apollo.ns.cloudflare.com.
 ismaco.imamat.	3600	in	ns	miki.ns.cloudflare.com.
 ismaili.imamat.	3600	in	ns	apollo.ns.cloudflare.com.
@@ -32,7 +32,7 @@ nic.imamat.	3600	in	ns	a0.nic.imamat.
 nic.imamat.	3600	in	ns	a2.nic.imamat.
 nic.imamat.	3600	in	ns	b0.nic.imamat.
 nic.imamat.	3600	in	ns	c0.nic.imamat.
-nic.imamat.	3600	in	rrsig	DS 8 2 3600 20250922154250 20250901144250 27435 imamat. kPuRZa6WRnlaDxZXexSVUUHW7bkZdH21CHXpeDk4HljLSIzEtIHIBjBisaFhS7dlpqptUYhf0QrdFVnU9k7D7qkLzutUWSmdP7m1P30E3PW0X/FIJUH+/RVkxY2yV2cWxq6aEMUyGuTv+cAt/Q9wWZTkE2GpGneq+MPjOjuWisg=
+nic.imamat.	3600	in	rrsig	DS 8 2 3600 20250930153029 20250909143029 27435 imamat. MDQ5KFncD4rZ8oaqaxrb5HkcSU9NTxjTAH1+uh+wDPjVqt7zvbIeSm+5NCE5S6DPVr5K3/KeyGteSTpDapE/JukOMEvCB+nM3Jx9CDHlgZe0yk+q6KMuh8FEyMENAVNM5wUY1952pGnmDtFsOyVOjB/kkKVkQ1nq55b1fG6JF6A=
 og8pkahdua7bv9gn8rjoudh2ba5f9t6f.imamat.	3600	in	nsec3	1 1 0 73 69A6FV0O9BAOVUU2B8O507QQ00KNOILD NS SOA RRSIG DNSKEY NSEC3PARAM
-og8pkahdua7bv9gn8rjoudh2ba5f9t6f.imamat.	3600	in	rrsig	NSEC3 8 2 3600 20250926010630 20250905000630 27435 imamat. lBughu/EACMfaTkIGQh5vWP09XvDN/xXPoGKiA+t9IubVdF1KJm1uOkSzdW+OQKSNvNOdo/T/WoA0yAPUvaO/QprZm7NLz9s1DZcar2qdZhQbS87KfToHUmElEsy3KT5YlFNfYPpP+dz/vuvBeWL2EjCRDzJDzrYTcMeH4WVzDU=
-imamat.	3600	in	soa	a0.nic.imamat. hostmaster.donuts.email. 1757034313 7200 900 1209600 3600
+og8pkahdua7bv9gn8rjoudh2ba5f9t6f.imamat.	3600	in	rrsig	NSEC3 8 2 3600 20251002011129 20250911001129 27435 imamat. WNxBNqoDClhWhuHdhwh2L5eEN8cK1UmOrbXUnlwSAT9NDLHG/iLRW93iX0TX7txmnbl7h4Q0WmX3EobB85ZXUvTzY1K1MAU5RgHj/nqoEwV/QWApuBxnZpanDOFjp119cj3oQ/7H9yb923jYDGd5iNOT4I1OnPyuwPxb25YcvCM=
+imamat.	3600	in	soa	a0.nic.imamat. hostmaster.donuts.email. 1757552763 7200 900 1209600 3600
