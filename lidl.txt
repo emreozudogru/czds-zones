@@ -1,4 +1,4 @@
-lidl.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 150725 900 1800 6048000 3600
+lidl.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 151197 900 1800 6048000 3600
 a.nic.lidl.	3600	in	a	194.169.218.91
 a.nic.lidl.	3600	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0091
 amap-qs.lidl.	3600	in	ns	ns.do-ex.com.
@@ -32,10 +32,6 @@ climate.lidl.	3600	in	ns	ns.do-ex.org.
 cn.lidl.	3600	in	ns	ns.do-ex.com.
 cn.lidl.	3600	in	ns	ns.do-ex.net.
 cn.lidl.	3600	in	ns	ns.do-ex.org.
-combine.lidl.	3600	in	ns	ns1.eurodns.com.
-combine.lidl.	3600	in	ns	ns2.eurodns.com.
-combine.lidl.	3600	in	ns	ns3.eurodns.com.
-combine.lidl.	3600	in	ns	ns4.eurodns.com.
 compass.lidl.	3600	in	ns	ns.do-ex.com.
 compass.lidl.	3600	in	ns	ns.do-ex.net.
 compass.lidl.	3600	in	ns	ns.do-ex.org.
@@ -245,7 +241,7 @@ lidl.	3600	in	dnskey	257 3 13 56EOAaMx2WJM+2pmjW8ybjBCFxTQlHr2iVVQHjaT139OsJob9v
 lidl.	3600	in	rrsig	DNSKEY 13 1 3600 20250912220414 20250813203414 25851 lidl. uGyhR4k5ahpPvlYlSBL38nrZHAfUWRsOw81fI5wTGKI5p+72YkJ/ouXBH3jIYcZ5QAhBipIlZ38so/WeIm/ing==
 lidl.	900	in	nsec3param	1 0 0 -
 lidl.	900	in	rrsig	NSEC3PARAM 13 1 900 20250912220414 20250813203414 51100 lidl. aQD2K8g/VzsPweKYVbcJXs92t4SburM1BWHDxDwd4LNUIFE6RyMDaa3eHT8vZMwbrqmDrbpnafNqzJ1ThWX3jw==
-lidl.	900	in	rrsig	SOA 13 1 900 20250926011017 20250826234017 51100 lidl. 2H911lHLtVc+03S8L5xqpcTESGyjXwnVTR93oQ4WMHfD6ICfqAaCUWR7hFX0gjZ9PTWvpiGti+AjhfERtgsszw==
+lidl.	900	in	rrsig	SOA 13 1 900 20251005010810 20250904233810 51100 lidl. S08VpGwprZ/udOHt+DRu6w4NKR+K+j3cQWW213HLrnek6pXO6H/U2bg4QZpK5R0xitVVuTJOJMhZyT6FDhFcKA==
 lidlauks.lidl.	3600	in	ns	ns.do-ex.com.
 lidlauks.lidl.	3600	in	ns	ns.do-ex.net.
 lidlauks.lidl.	3600	in	ns	ns.do-ex.org.
@@ -283,7 +279,7 @@ nic.lidl.	3600	in	ns	a.nic.lidl.
 nic.lidl.	3600	in	ns	b.nic.lidl.
 nic.lidl.	3600	in	ns	c.nic.lidl.
 nic.lidl.	3600	in	ns	d.nic.lidl.
-nic.lidl.	3600	in	rrsig	DS 13 2 3600 20250830134920 20250731121920 51100 lidl. vsPkgxroH3eZBxC4w4nWMmaiO3DMLvyH2B3nwniGE4lszodo+NfPn5YVVpcBVpPt8x9wqrjz9IyEupN4YYUNjw==
+nic.lidl.	3600	in	rrsig	DS 13 2 3600 20250926134920 20250827121920 51100 lidl. 534Sx5eDR+AFgu2zpSGQgQy9hvKNy2veiyANI0Bj/Esn7p6z91nIZQZAEKw0bbRQEryG599ix6I0m2gDNlk85g==
 objectinfo-test.lidl.	3600	in	ns	ns.do-ex.com.
 objectinfo-test.lidl.	3600	in	ns	ns.do-ex.net.
 objectinfo-test.lidl.	3600	in	ns	ns.do-ex.org.
@@ -373,9 +369,15 @@ wawi.lidl.	3600	in	ns	ns1-08.azure-dns.com.
 wawi.lidl.	3600	in	ns	ns2-08.azure-dns.net.
 wawi.lidl.	3600	in	ns	ns3-08.azure-dns.org.
 wawi.lidl.	3600	in	ns	ns4-08.azure-dns.info.
+wein.lidl.	3600	in	ns	ns.do-ex.com.
+wein.lidl.	3600	in	ns	ns.do-ex.net.
+wein.lidl.	3600	in	ns	ns.do-ex.org.
 wertstrom.lidl.	3600	in	ns	ns.do-ex.com.
 wertstrom.lidl.	3600	in	ns	ns.do-ex.net.
 wertstrom.lidl.	3600	in	ns	ns.do-ex.org.
+wine.lidl.	3600	in	ns	ns.do-ex.com.
+wine.lidl.	3600	in	ns	ns.do-ex.net.
+wine.lidl.	3600	in	ns	ns.do-ex.org.
 xmas.lidl.	3600	in	ns	a.myradns.net.
 xmas.lidl.	3600	in	ns	b.myradns.net.
 xmas.lidl.	3600	in	ns	c.myradns.net.
@@ -384,4 +386,4 @@ younited.lidl.	3600	in	ns	ns.do-ex.net.
 younited.lidl.	3600	in	ns	ns.do-ex.org.
 zup.lidl.	3600	in	ns	ns1.stackit.cloud.
 zup.lidl.	3600	in	ns	ns2.stackit.zone.
-lidl.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 150725 900 1800 6048000 3600
+lidl.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 151197 900 1800 6048000 3600
