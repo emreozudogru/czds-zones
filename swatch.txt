@@ -1,16 +1,16 @@
-swatch.	172800	in	soa	dns1.nic.swatch. hostmaster.nominet.org.uk. 1729604572 900 300 2419200 3600
+swatch.	172800	in	soa	dns1.nic.swatch. hostmaster.nominet.org.uk. 1729604576 900 300 2419200 3600
 bigboldtimes.swatch.	172800	in	ns	ns1-02.azure-dns.com.
 bigboldtimes.swatch.	172800	in	ns	ns2-02.azure-dns.net.
 bigboldtimes.swatch.	172800	in	ns	ns3-02.azure-dns.org.
 bigboldtimes.swatch.	172800	in	ns	ns4-02.azure-dns.info.
 bigboldtimes.swatch.	86400	in	nsec	cities.swatch. NS RRSIG NSEC
-bigboldtimes.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251005215128 20250831210446 41475 swatch. HdAZdIOHz+xz9lWXqHPvoEePyDqy6QRCXmv/u/+R99K5rsG9hNL5A9sQ2GYIdgEqE+c7MTqiuWsFlmb0C5BJ2lHZncamO9fjex3Gqq0Wv7W4xqrDQMECsLPVLu070RxXpOzrcCshmjrOcqsz3e+NXcsPhspHkq8NGIBidnaCI81uKPmnm3QipEx0cnSpbfbUoClZNhRct1z7HrorbRtOLLxHTUUirGeD028vzBB8lJg+pd6DVc8G/+PBBSbL7ugKUWAM/YR4m+kXTog3QtrXgznFiUVTzjnSQj3rEaJtvhR8KhuBjKXW8yQIYAGiGe/ldyTf2iQUtyhf23aRstuIjw==
+bigboldtimes.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251012212833 20250907205128 41475 swatch. WFb7xZeTavqJC4nj8jF1V9eMWVsfNjitTw0QUNMTz7qJz2rkBKf4xqI/rhvp609oe+vYSmHpXJDsALC4nFizKPelOOEB9jbeiqK6tYkbpdWakoJc0yT+pmfabMTz9IPVETZX/Ic696xgyWECO8j85kk5+v/9DcsYY86DjOO2ZpmxWcHNGi8gLYQFAmeOnoyLufX94yxCCjMbyF5l9pZhzkjbRaHo7Hnm1YElAA07KHjHqSzEzI6nCcQR2wyAaIGXdhFUQ4G+iCZV1s3JgkEMchThVOElN+6DAk3LbXb/hXoKNJDi+j2xW6KCp+D2FplmnbaUvQHR9kj/Dl+ZZD9Xuw==
 cities.swatch.	172800	in	ns	ns1-05.azure-dns.com.
 cities.swatch.	172800	in	ns	ns2-05.azure-dns.net.
 cities.swatch.	172800	in	ns	ns3-05.azure-dns.org.
 cities.swatch.	172800	in	ns	ns4-05.azure-dns.info.
 cities.swatch.	86400	in	nsec	monitor-nominet.swatch. NS RRSIG NSEC
-cities.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251005215128 20250831210446 41475 swatch. n/x16qdjvKo7O/R30nIj0xCDYvOVF/PKINGlTtiUtjuH+Km4W4WoVJM6zHoV7jIryzb+k+0EAopEbz/o9GXc9+z9rsrsQDDKBXE6PuGd9cK654sJ/wxihUHHrN4j2ueCVZaEkKO/WO/hJjgiB2ClUVXGx/azqvBP6cnuJ8fIWwThr618NrxArOJurckomm/OlyqhnAbGzu7b5P4geW4/BHP0SRD+LIIpedylkqEHZfWDggQpogrRxwbKeE9meDI6qhu6rKu73QVxcOAQXyo/KVTJ8WoIhxRsSP/k0NLihbH25RXNQR7/47XEo9TWjEzpp4fbI3Vgd0bW3JypKJ4TWQ==
+cities.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251012212833 20250907205128 41475 swatch. bpDzBkSlWpHfEW8egSc2tUJn8KIV3l3zdRvTiupGUb2Spj2qUsodeCqc+TJedix3sC0JVibj/whoFvFniMGoFcw7iwwWZKKC+T5cfKErA0+5Q6k75LFPNdDiZ+Gqcltp7roaLF9Wx7ow6XEbARQB+VHqD7ODNpchUAOdtkb+2Ml8ZP0T1rZYSFBKXv12YinwznrRi2lAc3F5Lb/T4Qj+/5u+L7HI711tjCf+L4hlI1wEkV0ZK6zpVgYpBZozOfW3Bu4yQ//HgYybsoHzSIYlzAfhftbYj35NaiEJgI0D1PxMctavkghS1RdSOUMlFXBv4SLKIZp1Xc6lclwrprAlgA==
 dns1.nic.swatch.	172800	in	a	213.248.219.139
 dns1.nic.swatch.	172800	in	aaaa	2a01:0618:0403:0000:0000:0000:0000:0139
 dns2.nic.swatch.	172800	in	a	103.49.83.139
@@ -28,15 +28,15 @@ dnsc.nic.swatch.	172800	in	aaaa	2610:00a1:1009:0000:0000:0000:0000:0003
 dnsd.nic.swatch.	172800	in	a	156.154.103.3
 dnsd.nic.swatch.	172800	in	aaaa	2610:00a1:1010:0000:0000:0000:0000:0003
 monitor-nominet.swatch.	172800	in	a	127.0.0.1
-monitor-nominet.swatch.	172800	in	rrsig	A 8 2 172800 20251004031429 20250830023937 41475 swatch. K38MuTVSoL3uUvH0P778mqYg0qdV/T47KVlIJa1fluWE7675FCTsHmape/KparmejJuKPpuEflGNQvOs1LOuIVThHk8cmdq0jvHh5XHAbDeuqTIg34frY6+1x6mc1YOH/bkjPC5r9+n9yrCFbOuDRXvnPLRyNNXA0CRj4avJJvCps4qgN5IthPHArvKHKQtWKlLHj7A+oJi8F3Lx0CtwXaFJCeoEksdqWuHd6TQBX6NXDP1F4Ju5lUHTI1UqI2WhH7gAhU/tQXkEl0yu3kUPBsAjZ0Z7OVgpZmUj7oNLaAdED32lpqZ0I6izGjLhElv+hING8Jwa+WsmtiyAXZU2pA==
+monitor-nominet.swatch.	172800	in	rrsig	A 8 2 172800 20251011030211 20250906021429 41475 swatch. a32UnyZmK6ExWF7bF8aIA3WvTvzNoBcFfAC7jDKbMIy2d2GJx6Pr9fLPYdoqr2aC01Uovcfcx8Q1gDcWcpnDRfEUjBngIm882Z62c46Z6+CaLnrA1Ap94v94bgYKLfw1SOtQPFwvGAycwsPj1VxGhp4KLmfw+1/TLO/voevsRp3svdpuxKOdVl7Grndytc3FUi1gRkbqtXaopPR0NrSvAM/fP5nnZotz1jYM8Y8fgLFaIcEFF67j+hky1Yv0k+ki5ulerynkI/RiaSsTq8sLJPvTor5i2pFwBo6FefTeNs7Bq7y0S9JoY+uho5GQOdXvaqMvkId4zFTsjwLQHY/wIA==
 monitor-nominet.swatch.	3600	in	nsec	my.swatch. A RRSIG NSEC
-monitor-nominet.swatch.	3600	in	rrsig	NSEC 8 2 3600 20251004031429 20250830023937 41475 swatch. IbkSZlkNnTORnLBbIi2IoXNqDRLKzTwo2oPLexK2AYX007uf6Mh8VPbeY+sOC3ITkh5kL0+ONqJnKtIpDIvGZNb+xWO+5Zwp4Ql8uB+WAOrs0Gtmn8NVjlQcCHtOcwHtD07/kxXfAFCMETlH6/i8G+ENQV+HteGfu2xCmyKcAcyaBJ7Mp/PK+Uf1kbdHIfJDbWqWV2UIg1k2DHb25ac8phkAikd2/m6vQgdfrJSEg7dGFSB2VXyTH13/XKrvVeSzmyv6tqVkvu9QdIv2scmAqMRmcbochOcIneVQ1dbbbYcjyIV3dtzse2xuA0Xci/jzhAooU+ki12VacNsa2mIJIw==
+monitor-nominet.swatch.	3600	in	rrsig	NSEC 8 2 3600 20251011030211 20250906021429 41475 swatch. P7Ybt/eFxixi0Gj7gGb67/0QNiG96Lloh0688eetwWcrgNkIV/TKI9EdFxZg8bLrtezEZCIjvzNoPhrP9kBCV9ufmKghMFJuihZ8R9pcD724Popk1McIG2vqwod5DtUoTLdKpnhX4sGCj2mrDGRTGxnOhCwJWf0F2afAdgxdtBQteJ916V/Uc10t3evQXk+x55aK5fV7dERvgRownPHqwHiOyd6fvu/JbrpLx+7aV0RmzJMB84wUwEppztsc8haUvx1F2Hj3VBbhyKjf7v+GwMoyoF6vEO9GMK/v9tsBvnF7joc1iOkK84gFMjDS5KSJu+DUfJ13L9ZbTNbVslzTMA==
 my.swatch.	172800	in	ns	ns1-04.azure-dns.com.
 my.swatch.	172800	in	ns	ns2-04.azure-dns.net.
 my.swatch.	172800	in	ns	ns3-04.azure-dns.org.
 my.swatch.	172800	in	ns	ns4-04.azure-dns.info.
 my.swatch.	86400	in	nsec	nic.swatch. NS RRSIG NSEC
-my.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251005215128 20250831210446 41475 swatch. mC/KjvsVv2eR16aPeCUu8n0BNs+FKVZ9UHIpA3q08DMGuDV1pP6XKMx2HBONavgg900ezrDFGGfupL6u3hxR6Zhsiy+MzwnNavKN53X0NMz718T8B97RmZ4X6UBMAjAEOrHjJZr93yjHOOPc2uph+szAHkf2GjEtoDaguuLLl+hGPLtOg8REpFCBqYkDgtKlXc9XIwmtRvAeQBE+ZdpokB/G2Dw4eF/L/PzFHKM5WD/ChYBSNQh8arE6EtGKRXbkYoYZxw+1fAbN7qXf/CNnVGGfYFgAAAq0ATuMkSJiVF/QQ36jqpKwKs/x3vsHae7BtgDg4+8XII0+02mGS0lvxw==
+my.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251012212833 20250907205128 41475 swatch. ex7RuuUEgqQDKIhVMyAYelesh2PRCecnxscBEDzBnFLFqiXVriCthB7CcqljyRCxc9wuoQ9xJ/ouI7OVs+3aPxVHZRs3cNexKB9RsxzwoJ5RIWeAgyO8Y6fhSuCani4kEKz1ICGJAFLPRM2E9d4l0sI2yI44n0+U77S/MoRdr8K/fpz4J+3iL6lyAMXd9OzQanQsLz3Le8kr52u2Hv8JvcuHaIvenkLgNSH6+9b/x4QT3+nYLxruURIOEQ8Q+mxzVW4qlchm2/MOz2f3y12dJTdiDTu5qFB6EoyKg759m8pyc2b8YyOPew0YlsXa6df5Y4Nkcr91+RujawRv6CUUOg==
 nic.swatch.	172800	in	ds	16441 8 2 F959D398052D780ECDADDD97B29D4C967394127267D032639BDE5A3CAA67C47A
 nic.swatch.	172800	in	ns	dns1.nic.swatch.
 nic.swatch.	172800	in	ns	dns2.nic.swatch.
@@ -46,28 +46,28 @@ nic.swatch.	172800	in	ns	dnsa.nic.swatch.
 nic.swatch.	172800	in	ns	dnsb.nic.swatch.
 nic.swatch.	172800	in	ns	dnsc.nic.swatch.
 nic.swatch.	172800	in	ns	dnsd.nic.swatch.
-nic.swatch.	172800	in	rrsig	DS 8 2 172800 20251004031429 20250830023937 41475 swatch. EabAK0973/DMqJYIbhfBIsRg4J1YplKwUlwzKH2313+/r+zp4FWccVYT3a9O+8lTcnruOIFqLNTGznS9OS8csCU3o0WBecRClfT+2xOrIyG4O1pYks5OiSTycW5eNtVxbSQoThKZRwjnkJMp4ZKmViWbFseYSYyEJCbfQ4vCwK/xgLqReEVewpkaOgjF4ukT790yg9WHmrBXLwZETopdK01wsqQNViqHZwtk+lQRIRraJXCh1oDDIm/D2Ng/TbmjApt7TndlF8pXfWZGNWy8AWNIzZbbdGxQ5y5tdhXFnDmXwlvbUSErF8kR+V7T2BuZCt4e+ls9OdKy/koQbPDBIQ==
+nic.swatch.	172800	in	rrsig	DS 8 2 172800 20251011030211 20250906021429 41475 swatch. fYPDTiwFQyAfBPYaVfKFMZxvN3SnOZmxIwAwouaCTahkJ/nVYqC4QhOJPaSyhFFpu0bcNju4auKxdjnHYGWHXf7QgISIQZdq0hW9i6S0TByjG1ZorXd3uR7lUrKrEcYDag9iGmV151802ba+oAZj+VTe5ZfWiSn5E0suwMD+pDpWp4unNysP5Sy/rMY1DuQSmXb+SQkM//r9jDb0z8wdvt1fE6DRNiN8fThpnQ9ec+VoTDEOp7xOMPbLt4ltw3LT5hO10k/Zbi0T1U+o/qmDL1MybmOAaeNMsOpqUWiqnuh/qNtFvNwAV0/boe9qzR2S2wPqhVyAicDRpWWhkOnEyA==
 nic.swatch.	3600	in	nsec	planet.swatch. NS DS RRSIG NSEC
-nic.swatch.	3600	in	rrsig	NSEC 8 2 3600 20251004031429 20250830023937 41475 swatch. bAVsYvsoKulRR2mkY45g5Jy+31LUoqhvwN7ke+06vjQXMYQ1WrfkSOjKlO+Wy3QVIxyn6Tb2edWj/JjYcE5Q4kHgbUhHjAlqd/iV9RgiP+UIhWQFJlXQb6wZMymnG2nm4kixNdYYEHIi42Ti13OiC728jTASToetbVtMvdBSgw0zwcXuuGESBt3xuH9NaEAiRdmh1dyISaDSItiXdeT9Ov9H+HvRA1u94PywATRpeTR2CD/m7+3sV9TxPtW0SYwYHpcHITiktnl3CK+fK/n98bshGB80oDPa38x22rwsmtnVaZCyLjGwOlzxywJbnZdkShV3hn/BfYArKsSsOQvpXg==
+nic.swatch.	3600	in	rrsig	NSEC 8 2 3600 20251011030211 20250906021429 41475 swatch. Ib09g+AVx5FKm/2x3k0AaeBi+zVXmEbtZKhu3A/fyILMM5BJCiuBQoI7hGG0VW/kjDXKUVPsJAy0ZgEhxSwyAfXWY7CYpbIpJSPaaoNRtM2iEtuRbsU1uK9/V9iXg+mtwfLu0iPWeQzHnhD9FDsXBpc830eMf49Fu1cajKUvgYm5sZ2Z4VlsojYwnP+iw8CQYb1/vAPnX0PQgoAOCBSF0ZDxJP9XBBRDjhe79JlowgLYIvvbe64tchYV2z4X4aT5OHC89z05qgXSK9C4jlILZiA70rfYHHIAlLAvRCnLW31lEDFE22uiwb3jtE61CUWZTSIknjbD19ev+K+7obzqyA==
 planet.swatch.	172800	in	ns	ns1-01.azure-dns.com.
 planet.swatch.	172800	in	ns	ns2-01.azure-dns.net.
 planet.swatch.	172800	in	ns	ns3-01.azure-dns.org.
 planet.swatch.	172800	in	ns	ns4-01.azure-dns.info.
 planet.swatch.	86400	in	nsec	pop.swatch. NS RRSIG NSEC
-planet.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251005215128 20250831210446 41475 swatch. PmNF7hN2U248FroO9qKWkTnPxioArAlOZSsOEKiqBFXN5ml7ILEChkjrRalAUV18iVioI9gnYHwbng5trELiKkDMYZcN+ezu3W2ln2HVj18JRyoNBrFTiuYrY5qjucbYDLj8t3krH0ZtanLrwM5O8vqY3+FxzM4wvT0VSrin3Goqc88fftkFlJr9KwitQvVZkrzxVQOI33R+Sag9livhRQ2MKkRXmtgH04Qv0iAV2hHodJ4ko2ELllO5mkjqC2D93a2u359jeipbGxhO2VaKZ+uy6msMN587TRBcSe8vjqmzNb9ot1Yv/L3sdmI/b4UtMkulAB/vgyXbdQdML+o31A==
+planet.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251012212833 20250907205128 41475 swatch. gjrCpdf5Qg/cDYky3uGg5YwtrcolFK+2NzIpB783PmCuL9Hw3FacG7MjP+JjtxsvanRZ7DmWnFxYoPK8CxmQ31L/7N5Yu1ZpAiFTqYMJlrW17f6tyO5ytvgNKA+5UdWQ8f32pOY1zhbAGpYETN7dM1TCUkxqUiGQzqlXc1KGW90MR+TMdWOqosXj6dnTTFBPRDiVn9RTnmR4LlkRsW4+qTjIWjIW3RbIHcWbh5JGsG+poJlaOCDxNnJH04pqjWFbqNdwChHI2kbrUSXkXJe295WfQEobHAHbLo5QBWffcAk8bXpQg642Be8NHronyJiyQwy+k4cNezc9YNg/BhPa9g==
 pop.swatch.	172800	in	ns	ns1-02.azure-dns.com.
 pop.swatch.	172800	in	ns	ns2-02.azure-dns.net.
 pop.swatch.	172800	in	ns	ns3-02.azure-dns.org.
 pop.swatch.	172800	in	ns	ns4-02.azure-dns.info.
 pop.swatch.	86400	in	nsec	skin.swatch. NS RRSIG NSEC
-pop.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251005215128 20250831210446 41475 swatch. GiN/rShvD5+Gx4kgznABenjdfdFEWBZrp+poOH+5ZV7LiJt7IVD7r74ySF9PqZL8WpZmFx1sPoDItwVwC8bjsk4YAA8AoND38o/O/zx+rzc8xdzY4HQQtPiewEtlvRLOT4pCgqE4FJgjqc3VqvpOLU9oc5YA0dpx97z+j5rJVX14n7m8y15aUdgjywcWVfhlxCJNCixEPsf/o2cOM2faj+dc9E8nLNI7jMoBZGXtjITdNrVW+dfuBVDxMLO+cYEO6Gk5TBjdDX1Gm9//p68PiaPqFp4hbP+QHdOWgrnxqM+QFgiMZaWeVeqQh4IabqdlKtGDKT3tY5dgcueri2C2pg==
+pop.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251012212833 20250907205128 41475 swatch. ZELOnaw03RXce2DCUcRWNQz0DqI8D6dNTARN6bW21sHgIwukemUN1sBxdT986guoEIOsvVJP5CGcTVBQC8Ixgwm8Og84mwU4WAH6M7kplFcuzpRf5+MRXpBwIrHbHL4yIUZzrfaKG/HnT0ogBJiSc/IJZtdx6EkxR9wEMkR7Efgo2Pqlz0j9ycvksphtPQtgMbt4XnbxLdm4EuzGXIe0LJjaUTGsRV8TLxawpezy1ywEBse8JsAF37sWQXwRLLrBD8KNPpY+FsV0dshyFN3D1m0SnpwO85Sa6jalUps+vRF0NiZM83HIBh1HCpS/LAbHKgICAgzp5px0DcG3VK8e5w==
 skin.swatch.	172800	in	ns	ns1-04.azure-dns.com.
 skin.swatch.	172800	in	ns	ns2-04.azure-dns.net.
 skin.swatch.	172800	in	ns	ns3-04.azure-dns.org.
 skin.swatch.	172800	in	ns	ns4-04.azure-dns.info.
 skin.swatch.	86400	in	nsec	valentines.swatch. NS RRSIG NSEC
-skin.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251005215128 20250831210446 41475 swatch. YddD5cBB1WsUyUelyjTwfWKqECBD5IjlYy+MdDbYb4WP682eqwd+4UoXcETIu19sKGzvKNWAxssmMrQTfFFKUQRpDaTewEpkng+j29LAtvODcziVUw8ZQcq2oMhipYnMGb1Gb0ZcOiTcwRDYL0Buf7kn0zHT18ufI6tIwGw5yem78EazDAg6r4cLWLBWZaBCFEOqWWYDnIZZGemcsaEUH2gkqhuhknbamuCbKPb440+cAiBqytFfYXuvoD4+Zvvsz1r2OJ55GQM5HpobRiVyK7FYnHML0cfUtqXKmu4axXlCm3y+gv7ydkhaXmhthJtMAFEX9xbhuHeNQY4A7XEiXw==
-swatch.	0	in	rrsig	TYPE65534 8 1 0 20251005215128 20250831210446 41475 swatch. TbJYURos9lLf9IaoK5m1oPjal8TLMxT1ibH8k2PD3UGAUJQcuX6Atw5fmE7UbUoQpjbF1YcvJlk41trwD9qpuKbFR6euCRYHqiffGNvaNsR63DXBjuKr2nH/+De8VAJJZ/w3M6RfUbgkzK70E/0qJLFOQ5uALWFxQzVHQ1a5zgKdyqHaYEoqMe9DGmnqCY85hK/vo54kLC/+hr3FjZbYoDTz1Z8azpDywcxwJADTsWdRh4tATC6a3G5t+Ce2VHUeeWjSa/EE+f6ydUAf7QkQUhTDlYJGnTIrzESVapuyPeTzYxq+Q3m85wnDtzI3Zd6NQ8Nkum+2o/SS85Jg648SdA==
+skin.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251012212833 20250907205128 41475 swatch. kn0YN8AstU6VLzg/qJtAaOA/weuFPdavqHLS/mr36PfQQzk/25mNQvthp0VoUQ1oWTrvAA7+RGsAuNag4Sos/SfnnvRiRK15buptircbig+SloQF5JTM3aa+KfNDKn17SqYsAAz+3qzYENuxNn1hWFqt9ZF9ua7L2TeYkH/4g8TdMSXpK8flmFWCU1jyeLy8K8p2DlEYl27IxCPDXi+6bg68yy5FLa7iGCuLoA0uHLwohc0E6SUfqnpS1i6n2FWKpzr7nvMB6gma6Zb/ZnJLewHRo8cY84ln0HiZM1JX1Vg/nbQzq9nlnfUODabmXaYc15j4vidlmUiYpWd+Spt0Bw==
+swatch.	0	in	rrsig	TYPE65534 8 1 0 20251012212833 20250907205128 41475 swatch. mLB2j7m1a8esA78dSHGiNQOLVH5Dvb2GLwV6a4/RagOuW6HUcjijh0KyUg7X/XV8FEsRmLoX7E4lRnwbwqi3INyKhjJuo84k4BfyJF/cAuUEV55r1dV7HAaBbcGe35aNVQQOLpD3HJRc5Tm41oyQZvH8XrHCwSKygrBu0fmx/Ok7AhJLRML6pQy6JA/UPwiTyhjfVSmZvHLOOXnq3hJenwsEqaGQyqvqno61IrI5FlofrDmUQZ+6DFdOaQagMjZD0HQh1fxcDsKGKXJzjCul1wJB6MyFaxjkMPqblA3Pdu+AmEYqAxClWXxkv7kmI4TkgzDNYgy9wgDmJIPfyO39GA==
 swatch.	0	in	type65534	\# 5 08A2030001
 swatch.	0	in	type65534	\# 5 08F6EE0001
 swatch.	172800	in	ns	dns1.nic.swatch.
@@ -78,19 +78,19 @@ swatch.	172800	in	ns	dnsa.nic.swatch.
 swatch.	172800	in	ns	dnsb.nic.swatch.
 swatch.	172800	in	ns	dnsc.nic.swatch.
 swatch.	172800	in	ns	dnsd.nic.swatch.
-swatch.	172800	in	rrsig	NS 8 1 172800 20251009005229 20250904003900 41475 swatch. kEff2ElYK5+D4ghvdTmEMHsKy4hyUCmWg755qwDiIvJJH2FYs+uMLj9QCc6aB4TjpoLJm+jeUZWxqAOEYX6EKN6Yca5+iw6sMfcly/O+RE6pHa1NiUk/ZqP7/T+HA3poGXwpP3rlNmn8Y+6fFFHXr5b+8EAxRNZfBlz6uTc2KU7P9gL8OXjXOtW3Wjg+4kqGhKugr0vRHrpGGAl0QQYXhy5yiJNQ+DRn2qkd2Ui4nTECJWh0ZL06XSrIG14MX7oH7pQbQRXT66R3ZoJtH6y3vRikvCImSd0WIuU7zfBzjiM9cdo6QM8IAaacLhOuGBV0vi3XHnroPigHf48SMaarPw==
-swatch.	172800	in	rrsig	SOA 8 1 172800 20251009013900 20250904003900 41475 swatch. Ho5M3qdhZdYFKRGGmd1rUuaqfS/l4DGUNK7zEPFBD8rimQWlQ2HhvCG75b+RLBuIifEVdEA+1sApyBcPsEECWp/waXmTV8u+nkNF+RpSdTEl4OiuZ9eBX7VjU2sZK4Q/TcygGC2HRi/ohpqS99XeyQlWTzQxt0aFThio3yL/E22Reigo1a+UGtlAJiX4fyCVHmbTTPQXaoYqrGzPG1yK2QrkYttSXx/eJ5mt7EEeSTZXzzsBX3/QHCfFgquaZ0ZwWaAaSRfhbkGMWgYx8wBNhF1sF6Mh7/rWgzAU03muRuivpDJdEpvtkw//aem0qEfyaoPyXfpL6caorwRexyigvQ==
+swatch.	172800	in	rrsig	NS 8 1 172800 20251016000133 20250910235229 41475 swatch. hK36QfT4vcfrunq0XOrK1NGYkoJoTL9NHeamKw9a8fZMDupB5GGlTxtaqaOa5ffTiasdrbuzbj+WGDIWURlJB0l8u2fsZmZOsBTI2fQpHVSY8+frxjOgXbtUye6qVSGJ5hR2wupwhtRD8fyy5MxUN8hG8r7MORFRuebvPYDGk2mRMyV8DUw3NnVX7tyzFleTJ035i2cXQ+21ME9WbmTi+XMAkyDE7zWN4c87uBna4fVUukE+LSBmktnYDPquyuRgB7syYPIO35ygqNHqGR7yfXwxbkrd5AltmJVvee5ZEB9heH9EGeSPSXKr3+ZQBmZ5C9dbhJhiK9xz01Q+BnyZ0g==
+swatch.	172800	in	rrsig	SOA 8 1 172800 20251016005229 20250910235229 41475 swatch. WwefUxRryu4cj49S3Xxtplld/q6Qa7Mw65944e1+ciyQjODr/587H9OAYBZX7s6GtUKx1CaivM5j/crszqbDNMK33xfLSEs5JoCP4zOBzimXwq9uU4rKwhm/9auCLzd7oH6QP9UYwiAHnh7R/kTzvW+iFZO/U5EfdWHmJa4ED2dxrDTb12NhJ7drd5lX+5R7ytg4fW1MhDNFcZPdoyoZWfiOJMoSXpN/ORZ6m+224MefnuAk9glqgdKwloXoYfazdXsrP7rGEvfgtPu6hjYsymqTap+x3+VTEcKVYVqQndIml1iZb8+l4ZxrpIPpmK2JBzmIm3XueDfkoKMb91TLdQ==
 swatch.	3600	in	nsec	bigboldtimes.swatch. NS SOA RRSIG NSEC DNSKEY TYPE65534
-swatch.	3600	in	rrsig	NSEC 8 1 3600 20251004031429 20250830023937 41475 swatch. Uz0tfm6zWPhBozX0TZgFNxoaoShQBI6lyEcdG3QgqcNb0PygAnli0pcCJy1cAewY5G0aqy7Vbt5hxy4Bn1xT9k5a0fWbmrD+xFFecbLiUm3HfKlKmaIhf8JoClGd+nMSbIRCd7Mj7vzRShyv3QqGuzYyGTBbsZhFWzWpxlQeoetCd6QAptTxZTuhthrit0GDyOz5IQW/rA3ohqubBKIdHxZo2aWh8KYaoLpvdB81gn9PO+Puw/bp6KNeO0eyWXNXendIQu5YKCabaoUQZLv94F/1NLtBlIpw3uby8qUDQJW9xZB/rpLm+GNsuJW6BNSg5NJb4w71xxy3A+MJGNhXdA==
+swatch.	3600	in	rrsig	NSEC 8 1 3600 20251011030211 20250906021429 41475 swatch. pI56+lGvELsXTwuHVANoAxygC/QJ4G5I2/otdZzY+9YodyYCvAsderv4LcJtiZ5P8YizqcwsGkCOZgP6eVqwGHPBjAB1MQiiDjUg0VYNAev8qJvJgXJKzR2x3Hs8WiyPAWhnrVQKyEP40sLI7eNYoMQLYH2MIXDIp9lytiFthzzOmqepKOluLsTlAEBKWlf+AuuKB1CrjrkB1Mpvddwi1nYJetvR6bVNS2RB5WZIKMnedHBRY/SaJOdV5W1+Fs0gWMzYaKXcJ/VAZ9T/zC+VQ/6DqJ+HPC1JU8QOlY73isP4DzEZ8q61iwE2KryQ/F5SLpa6ym9Ffl4k/FiFet5yHA==
 swatch.	7200	in	dnskey	256 3 8 AwEAAa6lyBZ9FMXzZQBWOXxXRqt+2Rqz7SnvZ6Gv1d7xUVz1/Gzs3Mbr2U16pQCEPJ4o8OYBrcazRVZeHYJsuGN0icTqIkTersttnBHVfJRWS7VG7eJq4B9l4dNhy7+4Z6ckecO5oQDttmuj04LkMDHNxe13f9gWwaAPKjuzoBrOZKzZbk9izrYL/FUl4tLxQMP7xFmyyigTMyHrHG2R8wJNs2+o7yl7vVXUw5IEPVFf7L1lQewrFbiSoOMIu+7MEXHvprj0KKnxsMkN1yUPO3bctASohWQzkx+4crbSLlebpf0or72rJ3QEUrgg5ZmtBSe8rOaI956drbLohcQNZ8zCnyM=
 swatch.	7200	in	dnskey	256 3 8 AwEAAciteXH5NdGEf4XJQ2RJJPa3PO9kQhaoFmU+gBV6BsM5w4sGPFwE10Pkv1NeWO2dc6B+mP8MJjcphVMK51uDpBZO8aIlSSIWwBwUzd0pIsuXHCvFd/4DqnJkHs3L4iNgorBnZnxYt33/4RQX0ufoaZsJZRRJO2NLxrirGjI69gumpZJVKxZbeKPz3gwY0KIDHbSseta7BsH2bzVK5RR6AhE=
 swatch.	7200	in	dnskey	257 3 8 AQOiZoooH3gQbFFepNt/OFJv97lExRUCYidzRzqhondWN+Cv8ygrkScC61yHz0IL2XEmPD4UaU+YurcG9w7dh99Sd3fql+1eLzQCybaNf1tYlzAjxb0xJ82YsqEE882ROmBqGENz6H7SfdMJaJYdRUI/sfGza3fVgyyCJae/WRZiCiFUEsuBHcR9/iMuSi3ztZsM+5/16aKbDnBz/f9KZySpNJ1HhP6dpC9vw7IuKvLeUB2/ncFurfOAE3kc3RMWOQEpcS36q6FcFzh7AyUTU0xAMHODsgbB1t+/g3PZe40wvlXc99/Kapw9N6zWdr+ZPWD/noawPNAJ6hg29cse/PqV
 swatch.	7200	in	dnskey	257 3 8 AwEAAbSGnX2WkfkyLDxGUGFVEGhf9ZlYegvHCreFqRoodpu/WrhWlKxjaPDMwGfwy1qiOBK453lgK5OhSCNPpFev+YVgGFhIuHd3aorlbwyGjPypPX/6NMLirIWrXnRVdaHx/ryioEuliEdkjT2Pc4LgjhoYM+MCoxbSbJTOOSEiay8FBogGLJ97bjP/o6vt6j4KG0RVW4L0mSdqXBIPZsLsAk/mFtO8LWcMrHoTN9Jp/LXv+IVsbRzL7qzBdcFBROqBcSWLrE5UCrghvD96IAF0P+7uqpHJot2mq3IQQTISIVRmOl1hXtYjZw6fD+hbqyy9uQs7F4RcC/kN6Y3rkrMgxjc=
-swatch.	7200	in	rrsig	DNSKEY 8 1 7200 20251006131025 20250901125854 63214 swatch. FGXDXjKQatDPcgG2MTzTebYR8xIVXCxSiRsISAgqtggGcun/2nKVDB7AgvOY9DPb2KPQ3OHX9475FxSgh7fNkFmJ7XuCXI+G4zS0mbNcBOcvAlMNqmeHJLnd2xYC675BTSmcQHV1EzUivtVRrPylMBIj/I6B3M1eQ6rAkgRupAih7dCcLcnu9FE7QM2+kAjUBQZjFwlDY6IahvrL6qkZvAQoXE9OABgLdxnQ0EBfAroE1RXFJ9fNSI7ZS6XxIYsp1yuI+nSYPNcnJMKmdHAXuv3VvzF5uOmkMIOcLUssqE8TQIem7ofQokr2vt1Zsg4Jc61KeAlSR+h0Sr8jZWQEmA==
+swatch.	7200	in	rrsig	DNSKEY 8 1 7200 20251013124516 20250908121025 63214 swatch. eot4u7OCPqgHN9+P+9QvrTdBHYyiWxRHayAC1qXg/L6obHI9QkI5H541owUt+AWIkeML40kqAetywFG9Yvpkwg73R2ibBLwxfpwUcME4Rd8yk3uguhRE91YUwHfM9b1UDJphw/pEbo0yb5b231YhhSLzvyAVXCPTxQS0AOAL43Kp13w4ulpJe+GoB9YFIXN1j/GXAnbY0nWvbq0qmtDcQSt+7sdRTHTZE2/+Bq6j9L0heEJRra8xWR6eI8Ut6lvVoSQCRjAIDWnozbqk6GYsUTYBN6ykXY9FFSclcIm5kRJreX2H/a/6a3rQntOXawQbxlLiEALjw8yJMUh27xuN0A==
 valentines.swatch.	172800	in	ns	ns1-05.azure-dns.com.
 valentines.swatch.	172800	in	ns	ns2-05.azure-dns.net.
 valentines.swatch.	172800	in	ns	ns3-05.azure-dns.org.
 valentines.swatch.	172800	in	ns	ns4-05.azure-dns.info.
 valentines.swatch.	86400	in	nsec	swatch. NS RRSIG NSEC
-valentines.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251005215128 20250831210446 41475 swatch. drfU3Am6JemMI17ikBLqMVxhoYztYKurRhS12qBTrGjPmi5at42Ur1jn/JW5+h0FDvcu4DsxrNnfo5e00EWwmAmQGUSW6iBVKcKB1gtt/IxZvAs6LzLEsN1/NepSsNRFJAu5EbjLvRHQpCmvQqgqpxGdpiGvSodUlH/ny9Tap02kxWNnxqb8ilEvdnrpWkwSlFdo/WZQy98tZDFrHNJj2qqHJr4m7LBu9payvrn4/f2rMiKybzAtvJ/yaBHEz4t6mSeqevUCsvYTkSyntxB7TG9JAgzk5jXI8R+vLeKvEq02v0IyejrGv2wle4CSjytpX5dMxXDJfD3E7rjpb38l2A==
-swatch.	172800	in	soa	dns1.nic.swatch. hostmaster.nominet.org.uk. 1729604572 900 300 2419200 3600
+valentines.swatch.	86400	in	rrsig	NSEC 8 2 86400 20251012212833 20250907205128 41475 swatch. UCKuD8gXUu5b02Bk/1qDDWikb0+9sGVYAjpL3BFYTEvLDUJ8qyg4iPtanzRH1V9NvQl1cVAnmLE2tPOnpEnqXpyKXi0KXIHuavMSpfB2VIfYTiJg8pmLcR+MFSi+RNkwKdBzeKp+2HrQzJEfMek1YKcSybbcCeK5vfe/PXvUMsudfjgXGCLEfofduWFah9jLOUSXj+DAijXqpbOcHNL1xiWlprBFZNx7peo7AnX6hIqvAQrv5iin458pTPcICewgpJMBA/pTGEHMX7vzzE7cLuojgrK1AmMvp8VLQNkKU2AtNwEichAUukeNXFdm+x5co/1LlwTWowAD9+Nl/9YSlA==
+swatch.	172800	in	soa	dns1.nic.swatch. hostmaster.nominet.org.uk. 1729604576 900 300 2419200 3600
