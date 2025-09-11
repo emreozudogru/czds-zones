@@ -1,4 +1,4 @@
-smart.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757035384 60 1800 6048000 3600
+smart.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757553545 60 1800 6048000 3600
 5g.smart.	3600	in	ns	ns01.smart.com.ph.
 5g.smart.	3600	in	ns	ns03.smart.com.ph.
 5g.smart.	3600	in	ns	ns04.smart.com.ph.
@@ -63,7 +63,7 @@ enterprise.smart.	3600	in	ns	ns02.smart.com.ph.
 enterprise.smart.	3600	in	ns	ns03.smart.com.ph.
 enterprise.smart.	3600	in	ns	ns04.smart.com.ph.
 gfdli0v7idjvjo76t70uvsp6mhv5o1mk.smart.	900	in	nsec3	1 1 0 - GFDLI0V7IDJVJO76T70UVSP6MHV5O1MK NS SOA RRSIG DNSKEY NSEC3PARAM
-gfdli0v7idjvjo76t70uvsp6mhv5o1mk.smart.	900	in	rrsig	NSEC3 8 2 900 20250912220413 20250813203413 15219 smart. QyYPFWgKblNAKhE1Nshh7lrd7RwXZwpRqBrEdonjwnAEoUYUB4UWktDtOOOXbj/7ZjRSNRTLyTg3NCqeIqS/3zPJr8QQb1GyOzDMJ+z6saamA8uMFrYXkzXoqhtrlJrm80DHB8y4At0uLxqI4vYns9YTT+JgsE4WEIy0il9oVgU=
+gfdli0v7idjvjo76t70uvsp6mhv5o1mk.smart.	900	in	rrsig	NSEC3 8 2 900 20251009201508 20250909184508 15219 smart. M4MPmBeVsTGJ1WGer6+l170Du9ggKDYs99Elg0YT5MCGs8MGffQlHUWRE5z1E4BBP+FuQhyTeBBbn8pYUtjQJHKRjVeQtIVD6Ded1M+8GbvO/V+tUzb8veHtcTK+9ewN35SpcCT4t3itIt80Ahflsbwsknd2e51510iLlc5758E=
 gigaarena.smart.	3600	in	ns	ns01.smart.com.ph.
 gigaarena.smart.	3600	in	ns	ns03.smart.com.ph.
 gigaarena.smart.	3600	in	ns	ns04.smart.com.ph.
@@ -161,13 +161,13 @@ smart.	172800	in	ns	a.nic.smart.
 smart.	172800	in	ns	b.nic.smart.
 smart.	172800	in	ns	c.nic.smart.
 smart.	172800	in	ns	d.nic.smart.
-smart.	172800	in	rrsig	NS 8 1 172800 20250912220413 20250813203413 15219 smart. jQdIKsuqLgzkD6KF+NSFoaQGdfRCf1O8S4ZGxSMkeqlEAiW96iHWWCQJR+/ZTuiroATJcpczjggSZcusRSBIdc/SPrMJoTJgcS8/ZEv+DHfGbox/3DuAkJQghGILYRIEZZYL/4qTAEusZfd11JbixEjzXD54wG7WU72bcvnZNOI=
+smart.	172800	in	rrsig	NS 8 1 172800 20251009201508 20250909184508 15219 smart. YFcxhUa5VsA0Fg4l3bIdzSAFuSBpyxfqklOy57IbUkz4uDVY5c5vFbokoszaHyE1EXXd8hr875SgAMdjAzW0EgAPU1WkzgqLV8amk/oN0USNmWAark0mF5Sjwgw+g2vElG8x7hsCmwDqXb+tJbi+fqj/0E9zjjXaZ7m5Jk1nFMI=
 smart.	3600	in	dnskey	256 3 8 AwEAAaRma11iRRBTBJIxLA9hKdw80V9xfPSokbINo1Po+LwXg3r3LogslLWCSqNyjJ2vvkwV5U8dDP5qEb1mCP3dFN77gU1l7EcU0FXnGHmZunoOprV4jI4tcbG5k+0tKCdtNTDyOf3duJ4dkRUgTZwexLmBjjljP6fjFfr2TvVug/9L
 smart.	3600	in	dnskey	257 3 8 AwEAAdVJeTuQnnmLwE1Tmzsf6so7vmuzQG1ouTCsmA7Fp08tu29Vtbmc4qXXys4fei8TCs3YgOyjj7dcLgUbGaxX8ynAUHYNlZKWdAkMKK/dOLf9p3FESkqTsDJJIoQ6Y8QsIErqGDxHvbfZHHgt1o0RlbcpW2rIPrUwL2vlGUQb8c9G9hElCNUpROsEHHzTiQ2QeXxqopJsaUG1M5T1AiK6HqP4pVMFiwU2dkRmCPTsornYinoWBOxDlUpo3hepXaSMt/c4mx7sB3D4HoH8laLVCkPvqabhUrH8d6xkqYEI/UBl/r5FJ83ADddfiGk2sQIW8L7+Gzi8WOiPdd1qsES9R9k=
-smart.	3600	in	rrsig	DNSKEY 8 1 3600 20250912220413 20250813203413 22664 smart. qXulfphk4fpN23VwjegsMFWKFeJSVWf+dp33ruKtGfZh+6iYCus61mZ/vqIS4qs6hXbusx1Y3xWEAN4EbR6dVac2m031eXXodNus9BRHByVqem7WIJfjQk/0Xv9yYLQg9dWrNY1RLctdlHzUPJEUnPdBhx12PwkNePCa3R+yH3gI6O+4ZR5fFVDhI1Zt8tCLAquCEPBn3l2lvTTllANSJ9T16lUK1IRV0lV8jQh2Q0CffhZntidsvjt4scY8QdcuS2XN7dlIukSshj6M0vv2V2vNMidI2qdskJU5T0T+dEBDlDCAAXW5Dmegtgw3u/TbCCDV6ahkkc5q09/nwWmDMQ==
+smart.	3600	in	rrsig	DNSKEY 8 1 3600 20251009201508 20250909184508 22664 smart. mM+BkQswXUg+iaXijg6KBFGP30/QNJUTvDMKIFKcz3tNZRX7JCnBBflcewKgJdNBvkRB+mGlGpUSYpElaTh/D9IX6jQauZM8idKHA0lxu0NYZxtTREuKsEVc+NJNCcgIjickPaAZjVQE4c7trMlw7LfJZQZ+IdtIR1C9KpSXwBZ6u+u7sGmOt4gXXkk56vQuS5mbBpy88iQdwKOyj1Wqf6ocV8ztn1sD85yCVbPKxLctrN0dxF30+wO5h7TOLgmbjTa9v8DhMcWqNhr+8LWqcyCDk2OxublknubzM3GhCmsNPAUgHYZq4ZVfC+IXnH/Qzv2c9teuYxdU8Fy5Fq4U1g==
 smart.	900	in	nsec3param	1 0 0 -
-smart.	900	in	rrsig	NSEC3PARAM 8 1 900 20250912220413 20250813203413 15219 smart. bFL/+WA0RMwRs741bSNAJZTzvgFmW5Y/8MDd7wFOXmoj/m7gUX8JWuq6G2GtOYMppGUTLytuC9CgZaUCsoUgd+9YMD9HGmVSjmu2UAXnNXGXIlRFEOaWX4tRVFXNRXiUaGYLESPXjVKmg5WEzF5c6+Qf154hgVgi8vhPQVbnu5U=
-smart.	900	in	rrsig	SOA 8 1 900 20251005012304 20250904235304 15219 smart. PN10RxKH/FI51YLqYAGAgjCbrURSlstodpYZsH+vDVyYZgXTgTHpqn7L4Qf+jtSdYeTJFJmmQR3gkRBaJvrAPU29Twi66jM0t2J+q1lkYA43i3rWh9/gebZ7yh+8LRTUan0zBKvxQmXlCw63j7Gahbrtzx/f/EE0Wc1manUH1nI=
+smart.	900	in	rrsig	NSEC3PARAM 8 1 900 20251009201508 20250909184508 15219 smart. f1G7OlCdCpDPUayKUA6ylOSvMF4ZBFxC62/ocg1+2noOnxqosTceBB3T4CuzMNNl/YidPsbiuPF9FFM2oJUwlMpOf8qCgpIsU56Z8WDa2oIlvvSq7chZGpGCM7BYl+aktBc9e8NutBnsyqeOwl59MBZgLcXPonh1um4AOrzb1DA=
+smart.	900	in	rrsig	SOA 8 1 900 20251011011905 20250910234905 15219 smart. W515lUDjn0qj6zGsFXQfACyTEcnQkwacy/ru3zVlpJslYUmDW73y1nmhJS4y0K53WlxmF7VMZ6IRib0x7ygwlP0Y2b+tU+oH1e6FnSzTnRmVfGHDiv1yGqfc0idcBIxgJPc1I5OkCU6+9CO86+tTfQftSnRmIbwCkGR5EGCTTpI=
 ssc.smart.	3600	in	ns	ns01.smart.com.ph.
 ssc.smart.	3600	in	ns	ns03.smart.com.ph.
 ssc.smart.	3600	in	ns	ns04.smart.com.ph.
@@ -189,4 +189,4 @@ world.smart.	3600	in	ns	ns04.smart.com.ph.
 x.smart.	3600	in	ns	ns01.smart.com.ph.
 x.smart.	3600	in	ns	ns03.smart.com.ph.
 x.smart.	3600	in	ns	ns04.smart.com.ph.
-smart.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757035384 60 1800 6048000 3600
+smart.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757553545 60 1800 6048000 3600
