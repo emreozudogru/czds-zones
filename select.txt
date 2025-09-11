@@ -1,12 +1,12 @@
-select.	900	in	soa	a.nic.select. admin.tldns.godaddy. 1756996345 1800 300 604800 1800
+select.	900	in	soa	a.nic.select. admin.tldns.godaddy. 1757508926 1800 300 604800 1800
 00video.select.	3600	in	ns	ns1.afternic.com.
 00video.select.	3600	in	ns	ns2.afternic.com.
 01qe39bs4uk7vktsch2od6kal0f40qbc.select.	900	in	nsec3	1 1 0 - 1HQL3G1B3TQ4H89O0T3624DIEFCCUTSS NS DS RRSIG
-01qe39bs4uk7vktsch2od6kal0f40qbc.select.	900	in	rrsig	NSEC3 8 2 900 20250914134334 20250831130338 58470 select. TWQduXWVRj8Ki+ALjR/hQ8OmWck9y/A5ONIl6iTRAlnqqaySt6WC/xRfubuOo+uSx7PNX45xNUFtxlV0x6pmnduBx/qhnJ9Ru+bznIX0mDhD3EuWjLIgoWc+RB9EegrN5zs/peG+EG6t9/cUAXMOJP5lrbTdyPpfRsAH/P6tKG03kUV4YNFmur6asTNE0WZvA02uU7b7AmFzF/mV1Jyg1Q==
+01qe39bs4uk7vktsch2od6kal0f40qbc.select.	900	in	rrsig	NSEC3 8 2 900 20250920124641 20250906124334 58470 select. 8BIF8r+GJmdmz5KF9s7F4JtzxJPBNj5RaLl7ew5FQOjymoakRoSaSziCw3HpGbnRmX/oqA05nZqPACcX7eB3eUH4I/uX737ZrQErBPr5nfue4rGKZV5GIQX+dazwaKCA++Qi7vvoG6pCiBbDhEXt2RP1KD3hpMo2mH/v28iOHR1phF+SCz0lo7tNcB6798X6sBAt5AFnOLFsqtbyPH5euA==
 123b.select.	3600	in	ds	40587 13 2 7BFDB4A52501BAE95A9C9602FD14378046B14AC62BCCD6D1CEEFE5BA4D542664
 123b.select.	3600	in	ns	launch1.spaceship.net.
 123b.select.	3600	in	ns	launch2.spaceship.net.
-123b.select.	3600	in	rrsig	DS 8 2 3600 20250915141255 20250901141109 58470 select. EgyALforXymXWYistCyXj+YBvWK9Md2L3RfKoQF/mkUxMhBasgYPkO7dsYdWJmqjBHxHlaU79C2E7C3kgIO5uzeDFFutmIkSJRUlSu3aSwhzNqS74Q9mog2zehQU3mlyn3h7P00jQHrSskSFHX8tNsQ371TKbEuWgRcOtRWVM2iLIoxJP5nx4arr6i0oJC5XC3HCtpeD2saWuFwHpZq5sQ==
+123b.select.	3600	in	rrsig	DS 8 2 3600 20250921133635 20250907131255 58470 select. mk6Bty4WyA147ArsdyAaWlLKvHwIJrw6+KTY0Z3AYNfE/kzVlFbMiw9rj8WBLAsSP8C+e/h4hPkpthrO67OSy9iJFVrATTrwWkyGnlyWrtOKcDeTue11+HJ5UbsinbKhfdWsP2m33yf9RB86FHO64iApcI9DKupI/rGkoSIOtAnm84ojCpA4n2NiRPN9Thz72qd4HqJZGQvtfI+n0RDVhQ==
 188bet.select.	3600	in	ns	kanye.ns.cloudflare.com.
 188bet.select.	3600	in	ns	mckenzie.ns.cloudflare.com.
 1day.select.	3600	in	ns	ns1.markmonitor.com.
@@ -17,31 +17,35 @@ select.	900	in	soa	a.nic.select. admin.tldns.godaddy. 1756996345 1800 300 604800
 1day.select.	3600	in	ns	ns6.markmonitor.com.
 1day.select.	3600	in	ns	ns7.markmonitor.com.
 1hql3g1b3tq4h89o0t3624diefccutss.select.	900	in	nsec3	1 1 0 - 2OM6QKC95HKQ29A2FDRITE54HMJJBJLG NS DS RRSIG
-1hql3g1b3tq4h89o0t3624diefccutss.select.	900	in	rrsig	NSEC3 8 2 900 20250915055857 20250901054330 58470 select. MVAVqVD573HWx6/ow7pjaPE3FLZ2o2MJIWs9DXZiNRGdJdaPB/J4R/DumNiBVeYswwFCqB6R3cjWk1idfwcj1cL892wjLOoS5Nzl0oBb6UmsLFBETnev2KoXHP9E2X5cAsQVfkuiEU+ijydrQxMQbw/wluuXc4wi3Jq7NY4n4/cLzCoHKEjbaF1ByEqA5hZijsDDzS5SouP2jIYWcTCrqw==
+1hql3g1b3tq4h89o0t3624diefccutss.select.	900	in	rrsig	NSEC3 8 2 900 20250921051526 20250907045857 58470 select. qMRxaqupHye3av8GC8UoPooGOKUS9wl3HWQwn/zgf66pqa6Ula35eYs+v4GRFuLkNmoCiVTGWsBgPPLijvb6gFws3Z0pEEywjlJbp18a1QgJvrQmOGyzhZC3/APLOKo3MR9N/MLzJf/7GUD6biHhJ3VKTxTNh3aKSI0QGvN2JlyrVcqWLuNoV5gsIzM9yBDIk9HGewGyvzw6Hm3/Ua0rQA==
 1win.select.	3600	in	ns	andronicus.ns.cloudflare.com.
 1win.select.	3600	in	ns	lily.ns.cloudflare.com.
 23win.select.	3600	in	ns	hera.ns.cloudflare.com.
 23win.select.	3600	in	ns	junade.ns.cloudflare.com.
 2om6qkc95hkq29a2fdrite54hmjjbjlg.select.	900	in	nsec3	1 1 0 - 2RFF9UONNK2K26ORJ4V4TBP3H1DOAD5V NS DS RRSIG
-2om6qkc95hkq29a2fdrite54hmjjbjlg.select.	900	in	rrsig	NSEC3 8 2 900 20250916110028 20250902104542 58470 select. eeUiNKAW6rtK9a6Ybu21rBDqjj/bhOXFHSVgYfGwF2FZTKZMNgg+hoec4b5HdGWiPS2E37/WOQA5SlTCCNWpu4WuaJj/7FL2zPIxAhDm7v2ynHkiimqqwTGTO8OWQbR70g0FFSXju1g4O/xW/gGZKrhGLoQnWSPVv85YWupxcMRx4WRrnc+bFoyDeJWnt7llUIDfHRV5UsRHaJebvmQtSw==
+2om6qkc95hkq29a2fdrite54hmjjbjlg.select.	900	in	rrsig	NSEC3 8 2 900 20250922103547 20250908100028 58470 select. iOTmZ7tG9LIuBIup+Fu+2s0SHPS/eNbyPIjpv6CZXQ8SKK3bCY/gZtDtfb0R6NOaXSXYZjDCDcieSAoGDisMTCUWGFWQUxJ7SqZ8fjA54mftkVaBFMxjDaWiAgIky4pcUiTpx+qWIBKs1YbqaCjb4Sl6kz7RR89fezGroCw58FY4NYqDzboTqJEPPEsfFXvZgutBrkd322h2wXYxRN85Ag==
 2rff9uonnk2k26orj4v4tbp3h1doad5v.select.	900	in	nsec3	1 1 0 - 37BK5PDN70R4TJ2EN6AO84E1JAJ8JMS2 NS DS RRSIG
-2rff9uonnk2k26orj4v4tbp3h1doad5v.select.	900	in	rrsig	NSEC3 8 2 900 20250916110028 20250902104542 58470 select. H4oudwTpeW+sEoCFqqpFZoslUKWr/cmCZpQ4+Cd5WS3480Q48O/OM4cSJ2HPLATFtkTIuluBpvFqnU7Bp9VPBPEzjOBZpe34UZOoTZAJeSIWM0DzRJN7OTsfHPD9Inro9WF0/+L1dkYv0dvugODP9w9MSGvmEb0PnT/b3eELEwRjqgpy5nUkFUUC8uQvPXOSWIBu5z4k8IoO9QzTxHAgqA==
+2rff9uonnk2k26orj4v4tbp3h1doad5v.select.	900	in	rrsig	NSEC3 8 2 900 20250922103547 20250908100028 58470 select. Ul+mMpa+vkOszLIrkWJsnxLcnOgPKCHcmckK6e4dmadZtW8mi1tqon5CkHIR/4VjDHgHyN000S/HTRlfznR8bSTuLQsqXF/Alz+DJ72THMoXYFV/tepQbaUyZwfA5BkFAqvuHi1jVuPQdOLTiPo1BJQv4Ct48HVw9tyuDSsvsLZQNvuK3mxF5IhRcGWj2fHSRWykU9eq+oppuBjI23azUg==
 32win.select.	3600	in	ns	celeste.ns.cloudflare.com.
 32win.select.	3600	in	ns	ruben.ns.cloudflare.com.
 33win.select.	3600	in	ns	gabriella.ns.cloudflare.com.
 33win.select.	3600	in	ns	kanye.ns.cloudflare.com.
-37bk5pdn70r4tj2en6ao84e1jaj8jms2.select.	900	in	nsec3	1 1 0 - 3VV2DT9N0VO96I416OGF312005TJ2LOV NS DS RRSIG
-37bk5pdn70r4tj2en6ao84e1jaj8jms2.select.	900	in	rrsig	NSEC3 8 2 900 20250914115654 20250831112704 58470 select. EVi4SWCnwElS4C3po8LNi+feb7x4jn5Mkjq78E0adSMLLN2xUyiWg6zbTwhP4kuznmn+YP+NA9W6zn2PwIFHQUBBloIbjxsuzsQRZ2wY4efePyOKlieHlVej+3pgQtt3HWWTGLaNeyCdHFzgkYWZBQrs3QHRjKw6g3czq+7618r384FWH+21xr0cG+7kX5Y8foGxVvQSdWgB2WQAa3YGAg==
+37bk5pdn70r4tj2en6ao84e1jaj8jms2.select.	900	in	nsec3	1 1 0 - 3OG0TAV41TQ515BGBN1IRRTLD31M037A NS DS RRSIG
+37bk5pdn70r4tj2en6ao84e1jaj8jms2.select.	900	in	rrsig	NSEC3 8 2 900 20250920081459 20250910054649 58470 select. oNTH++7QawS4lnlxHyD4CwqQnRlLRxKEQ33e7wKEIkZvLCC2Cbi09hsPZ4js/V4ROUvlBR7B2SCubbTqSYZOq88l/hDP2uyJ5b7u/yzUjfc2BIpcDOn/ViRco2N33BmyNMxuaEgDPhXCpGJVK3HuzQp6rPFSBjwigzuOI33O90XewV4kEQFhqbAki0rZzxjp8wdDLIOGzAAUJXSxXrb+1A==
 3m.select.	3600	in	ns	a.ns.3m.com.
 3m.select.	3600	in	ns	b.ns.3m.com.
+3og0tav41tq515bgbn1irrtld31m037a.select.	900	in	nsec3	1 1 0 - 3VV2DT9N0VO96I416OGF312005TJ2LOV NS DS RRSIG
+3og0tav41tq515bgbn1irrtld31m037a.select.	900	in	rrsig	NSEC3 8 2 900 20250920081459 20250910054649 58470 select. SvjTqOq6KVdj6Efm/z8xbwLYILgsMk7Z3ZSUreg/UbYKUqjs5m7kqunwCzL1vF5VgdUFTuEKbLuY4loC54X/+otZ3a3FZ/IZfkRwtZWqGJMif9kYDGuKUlQGH0d0VeW1DZYN2xL0T1xECxqTmOaKhGRclgKL23VrK+NCx+lCzWTEbEWIYLiF/s+ZczWNS0e669e9nksrCSeZlteUhtItpw==
 3vv2dt9n0vo96i416ogf312005tj2lov.select.	900	in	nsec3	1 1 0 - 4I237AVKQ095K2DAOFOJRRGNC13CBSMK NS DS RRSIG
-3vv2dt9n0vo96i416ogf312005tj2lov.select.	900	in	rrsig	NSEC3 8 2 900 20250916105856 20250902103957 58470 select. WISnk0vV5WgjBwXtXhyOIMqK4Vx6cMN2L7Hnalj7PDXHQEKyPrpP74RxjpSfvCNtcY/Q9MhZMVkR9YKNQc2WbKvpKkTMnGGHN8zjes7UmBC1j/ileGVb6LgL/Q5X0iKQSehZ3RxsDaYbDznI+QXEalV6vSCp17bEk3+qrCA3CsKj8Ze2FPdMIt4GAhS+Pu7MMprDpM0NolZnMZ81lwmYYg==
+3vv2dt9n0vo96i416ogf312005tj2lov.select.	900	in	rrsig	NSEC3 8 2 900 20250922095935 20250908095856 58470 select. WNSth2HBaba9vu1tiVkM0RI4fyVN/PelVG02/wjyS6MycH28fMiUajA4XeQ+CFRIeJ4dM2vO3I/ocVYAErr1mezphFIlcF7w5Dt/k1igLtGu/Ob+o4nO7v3BVSJiM8Sc9oIKjAeyd1vcZfVFWaPsDCVI2u+T/4NtlZYrru+il9hpZ5uKI6BTHYM2m+uNvsbZpREFEFMorave41u4Zrgucg==
 4i237avkq095k2daofojrrgnc13cbsmk.select.	900	in	nsec3	1 1 0 - 54PO31PR3KQ8HH7M6OFTM6UC7NCSPS5S NS DS RRSIG
-4i237avkq095k2daofojrrgnc13cbsmk.select.	900	in	rrsig	NSEC3 8 2 900 20250913202730 20250830194732 58470 select. 2J/qs1Ho9PmibLrfPMDtuC7dH0Ly4PfmlBmgMD4UdxOxSys3xL78wUP4RMcVs2VOmmh7QoTkhpnzO+bP5wRAn5USWptWbbHq1KRLHBzwQYg9Pbp8ZqQV+OWPMLgHaMHKsbEDQu/G3q7zincaZmQD9u3/GYVw5HLvjMCKv6nzir2+TI9McLyN+8leDAp9CbsvaC1GytZoFTwOvfwpAAl9Tw==
-54po31pr3kq8hh7m6oftm6uc7ncsps5s.select.	900	in	nsec3	1 1 0 - 5HM7D3MLR6CVU6O09HL9LRL8VFE3B2KC NS DS RRSIG
-54po31pr3kq8hh7m6oftm6uc7ncsps5s.select.	900	in	rrsig	NSEC3 8 2 900 20250914114312 20250831112945 58470 select. vdFqFAjMzjGDn/WvxwE5lflYJUfZRl6pEp9EjQBnt8AdE3EDCQzwK1uUxA9/g9i8+abmZ5lksApWBDLmhD5XINguDmutapS2ZqfFn6+ECJopFw3L5/xOYjegYivFHpPFXz/POk4FzJji39jaZTJWJkcMo5EDJK3Ff+qMTHmqOW6n116OnTI/Tgf/++vjer03EIMYQZgAueHMw282jh6Kdw==
+4i237avkq095k2daofojrrgnc13cbsmk.select.	900	in	rrsig	NSEC3 8 2 900 20250919200754 20250905192730 58470 select. HyWmNhSAGUXZ0DLaQaBuDftT9lIb16/p7Xws7FmIbFNvF5uN0xSvHG+/rzgThREdrTVUAHpfMAXyzY4PYcHkyiqawymNbwyfFdqlf7k5HyMwrTcXMRa6QmuGm+gh2V4YlHkYDuuDwCIbWeQ6nE3aqvi6MC1IprDHWp0NItQdtsSxdCvpXfJAJLtOAXFObM0Gh7aHa8Ms7kG/AdN+MsVPlQ==
+54po31pr3kq8hh7m6oftm6uc7ncsps5s.select.	900	in	nsec3	1 1 0 - 559NC98OL8CVS97IPBBGR6UT84VE0F69 NS DS RRSIG
+54po31pr3kq8hh7m6oftm6uc7ncsps5s.select.	900	in	rrsig	NSEC3 8 2 900 20250922201843 20250908195220 58470 select. ZpqLSY+KfcF9ATASloyaHcUdh0PoQxIgwoeP7xEUlh73wmtJHYn2e68wIKNniMVR3fskvhbH9vhVptj/Of9eS7xZQDZZYXnXjeuefHfHBBIu4zV56ShnBX5KBstiLrjXRIIPgV1aewwm+k5ZyscBuxmTl5MLmFlI4ElAWB4lUOXuj34bYPeh2q3Da/wmvCxx9y26pT3tkSCPrxoV6k8olw==
+559nc98ol8cvs97ipbbgr6ut84ve0f69.select.	900	in	nsec3	1 1 0 - 5HM7D3MLR6CVU6O09HL9LRL8VFE3B2KC NS DS RRSIG
+559nc98ol8cvs97ipbbgr6ut84ve0f69.select.	900	in	rrsig	NSEC3 8 2 900 20250922201843 20250908195220 58470 select. tTuJBggtK383e32bwpvD1KIiVAkLXtFkSz5OXPIwb1BHUWB5iighVomqjDowLfMiPM+bacs1fcZrfL2UyYNpHVUDQRiN4BX//+D78IhCg01zZDLuweCNRoZ/GgPGe1t50l7EuCprdqfOZb654lUm+156bCz1ou8yY21oiTOl1WoV4jsJfGSt7CUgz8dpi0rLbV6OsoRQBa2oc7dnN30WRQ==
 5hm7d3mlr6cvu6o09hl9lrl8vfe3b2kc.select.	900	in	nsec3	1 1 0 - 7ARNGBH7OJD5VBL7MJB1ERH4LG4SKGCI NS DS RRSIG
-5hm7d3mlr6cvu6o09hl9lrl8vfe3b2kc.select.	900	in	rrsig	NSEC3 8 2 900 20250914114312 20250831112945 58470 select. YszS8hS4qxU5PcBGlez9SQkrS0uijiLANLbjSh6C18YYZf38I3y8ug7uiwXXDLWwnJl9fKqYGNhO6ZtH6WD5GhbkaGBDP07/EJkxt9f4bCf+Fm9s7aI0Rm1gZMToOgCAsRFUxLKqpgRMovrW0M8Kt5i7JVtOQeNrZ5ntjUx4CcWDoR/DKxN/GW4L52W1zE+W9DfhhZAEUr+eVs2feCrGWQ==
+5hm7d3mlr6cvu6o09hl9lrl8vfe3b2kc.select.	900	in	rrsig	NSEC3 8 2 900 20250920112917 20250906104312 58470 select. 6XMO7/spKtDkiS251Omyea/0NV9Oie89fgxwtWE0wAmcwdSpu9trhXhP4gSbYyir6JrlncDQDDKdXd47MAe4yhWjsxRPG3nlgSdvdJqiXR2SqGeQr0ZydYKiCVkur73fCBdY/qjN4zqYhu7X0nc0slaoUbceI7N7PuTwb0HnwCBKlaUGSh2ar8j2TpuAJMtU/04R5z+DVyWNzi9xW8CYjQ==
 69vn.select.	3600	in	ns	chase.ns.cloudflare.com.
 69vn.select.	3600	in	ns	love.ns.cloudflare.com.
 789bet.select.	3600	in	ns	chan.ns.cloudflare.com.
@@ -52,14 +56,16 @@ select.	900	in	soa	a.nic.select. admin.tldns.godaddy. 1756996345 1800 300 604800
 789p.select.	3600	in	ns	piper.ns.cloudflare.com.
 789win.select.	3600	in	ns	garret.ns.cloudflare.com.
 789win.select.	3600	in	ns	lilyana.ns.cloudflare.com.
-7arngbh7ojd5vbl7mjb1erh4lg4skgci.select.	900	in	nsec3	1 1 0 - 7E6UG5GN8HPVS0ELDACHUNJULN3LKPS6 NS DS RRSIG
-7arngbh7ojd5vbl7mjb1erh4lg4skgci.select.	900	in	rrsig	NSEC3 8 2 900 20250916183012 20250902180554 58470 select. do/9UI6j5uBGQtwTpFXZThnXAu5CUh6PcDOdJpCj7ETMTDdoVkgQ0Z+26x6GP9z+bACPCo4SRTfZUIDzDEuUYwgSCQ05Y+l1VgR2Eoa5phe5mSpgozeUs1qw1s9muqLS6/2km8milkYAmxgKNmVY8yxDJ3RADN2Emd4Fd79DFP0OL88oe2I3+UVJBy0E93rUbc1emJwopqhZ/uH34yeYlA==
+7arngbh7ojd5vbl7mjb1erh4lg4skgci.select.	900	in	nsec3	1 1 0 - 7DUH0QA6GGNLG7LNBTF6STKI5CR8J7UH NS DS RRSIG
+7arngbh7ojd5vbl7mjb1erh4lg4skgci.select.	900	in	rrsig	NSEC3 8 2 900 20250924063742 20250910061345 58470 select. 9m9b0RjpllAIzPWZRD6pLP14W/oyIVXdfiFK3fjM7UY+CSuWOtZh5QxzsOp8c/hTyGdC1Os+flDDfcapwUlB+jPZsSi08wIMYrk9xyS0qsh7BhRNSuoncm0wc5REa6ZdA23m+r3Q9p7m8aRlXgXJkqqsOo11WQMSV2rZoVb+ByhDSU+lRNNwjPpFX19aoBOpfGU/jxcW5zkhhik2mxOLMQ==
+7duh0qa6ggnlg7lnbtf6stki5cr8j7uh.select.	900	in	nsec3	1 1 0 - 7E6UG5GN8HPVS0ELDACHUNJULN3LKPS6 NS DS RRSIG
+7duh0qa6ggnlg7lnbtf6stki5cr8j7uh.select.	900	in	rrsig	NSEC3 8 2 900 20250924063742 20250910061345 58470 select. FI5hPIYaTnjX9JoWhbHidT88bXFzpmWRS7Z3Jo/ZdmwVcJvghs4YIx8spgMobZLB6Wo/t2/cq1KOqzTvlQYyySciW9YStVLW5TFqWhgH9CtpmFjzNIUfmFPn49VLOvA7y6n2MBzsl9dkg+QLZguS3eO45bdr77gxrQ7pJyeRt7AklTFpu6l7Q8oaibbfhOo/d+iSaNnXKJNpQa03r0p6Kg==
 7e6ug5gn8hpvs0eldachunjuln3lkps6.select.	900	in	nsec3	1 1 0 - 8GQD9URJIMR1UTUA7VP3RIDU83KLBVQF NS DS RRSIG
-7e6ug5gn8hpvs0eldachunjuln3lkps6.select.	900	in	rrsig	NSEC3 8 2 900 20250916183012 20250902180554 58470 select. 91TW9mflj+WgWoR+cBE8CNuE1c8edDwIlRfxf4T9LLbL4aCqc4RoPXwVk/rUK2HRtudFnKCTUxCppEkzlO16TodQ/rLTlFT/ULTAF6lBOTX0EPufaBm7dRMx/zTnPzTOJlrK15PLBEs3vlTHp37fjr4pkwKSPBWydanQludPgMUG7uQwqKv9jR/hIpe0K+buJFtWVc9b2tEniXx7RgWdPg==
+7e6ug5gn8hpvs0eldachunjuln3lkps6.select.	900	in	rrsig	NSEC3 8 2 900 20250922180426 20250908173012 58470 select. ZfazX4AUGMG5yExr4+kzj7nDA3xedNg0sMT1kDjN+5NyiixKWWrltImhNKYanFf8WZcPJMRtEauYv5WfwJdbSwZDxwj/w9Uth+8S3jMM5F0ZTlBaw7LmrVBEQRdl/uP9C7YVAjZ/LRA3oSDJya1+ovt/Wqq+9Qy8OV+HCA9YOeEaFbfJ+JzFq6MmklmuwA7OBthJGj+803XHCJvWbh7YUw==
 88clb.select.	3600	in	ns	amit.ns.cloudflare.com.
 88clb.select.	3600	in	ns	sandra.ns.cloudflare.com.
 8gqd9urjimr1utua7vp3ridu83klbvqf.select.	900	in	nsec3	1 1 0 - BGA6AS8V3URHJCB4TI66D5790DD81BR5 NS DS RRSIG
-8gqd9urjimr1utua7vp3ridu83klbvqf.select.	900	in	rrsig	NSEC3 8 2 900 20250918045516 20250904041618 58470 select. Abln9SNduvnOYHYOzR7LrPVRQ+0In6oiO8iF/HjuscYgioJ3TPEbVS2j188YQ+IJnxr9Jr+wpD7U1YV40AoZfi0ooRStPKu0n773MwQwUMsHg2wiOCQEiddIaZVtX/owQuXNY13vQgfPqEkzEnfvRvjsbz94tYL9fKWPiLzHAegortVs+fQf1Cv2Ng40p4BSsJUGPD/4Zlq6cE1fZI5q4Q==
+8gqd9urjimr1utua7vp3ridu83klbvqf.select.	900	in	rrsig	NSEC3 8 2 900 20250924043211 20250910035516 58470 select. zmyex4A4dUtN9vXiSwLNveYgSVy5BfPYfiFHwZOMbTQjmv0JouwPgT4fLZ6dXEaMm6nx0lCh8nUFDMhSsg3BRjSUqfNBToKgQtkpTc4EPq+0i1v6Zj8FuNQHqBO9Qx1YdPoAn2xWMSVJonoGM4lOnFZA2WQILt39k7GOHCTzgHTiEtjUZGRQoorAOa3bqieEgZo1/zZQ1RdD0EI1AkloZQ==
 8kbet.select.	3600	in	ns	ainsley.ns.cloudflare.com.
 8kbet.select.	3600	in	ns	ian.ns.cloudflare.com.
 8xbet.select.	3600	in	ns	cloe.ns.cloudflare.com.
@@ -68,8 +74,8 @@ select.	900	in	soa	a.nic.select. admin.tldns.godaddy. 1756996345 1800 300 604800
 98win.select.	3600	in	ns	ulla.ns.cloudflare.com.
 99ok.select.	3600	in	ns	gene.ns.cloudflare.com.
 99ok.select.	3600	in	ns	leland.ns.cloudflare.com.
-_forcedupdate.select.	300	in	rrsig	TXT 8 2 300 20250913204039 20250830200234 58470 select. fAcEdjCJUG+QE+Hu28opR8kd2h1N+X/QtxLoHS1qOtyfRN7ZZMRNi+gmp6nGEBiB4M2WNkP2fqTNTaQlI+wmPpSzvYZRr//8myTK1cLg9tB3CytyT4JF+9kLJBxEEotkt4MTLJ6fORvoEJboVaZbK0ATZ6QNb5uixu0NasG8WWhdPylk0KBCjD9YyYmpoz40rzoV1VuV22wLWDWMwC1hqw==
-_forcedupdate.select.	300	in	txt	"1756197438"
+_forcedupdate.select.	300	in	rrsig	TXT 8 2 300 20250922232449 20250908223150 58470 select. s8q6l30chf1sJ+k8jhsHslL9nqgKqiAUBsd8gK1x4JWH5m1zKUPXE8TANT9HCK3VfRZqHubuCk7XzaIJZXarL7FCtpRO5xYzNTmNvGfOivk/jkJ7IXE3AypKU/OmiON6befWeEPlsc4+9N5KYQVvZMwrLzfgHZQhoS+tKNFc7H5FKXlMrXv6lwke7QL8/wbFU4HtA5o2BbV62nFWdjy7CA==
+_forcedupdate.select.	300	in	txt	"1757327958"
 a.nic.select.	172800	in	a	37.209.192.9
 a.nic.select.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 abc8.select.	3600	in	ns	chelsea.ns.cloudflare.com.
@@ -82,13 +88,13 @@ abxy.select.	3600	in	ns	peter.ns.cloudflare.com.
 accounts.select.	3600	in	ds	2371 13 2 E9B312FF87FCF99B5938DAFDB712E109975095BD1D51EDF2BA2B491E12127002
 accounts.select.	3600	in	ns	moura.ns.cloudflare.com.
 accounts.select.	3600	in	ns	rafe.ns.cloudflare.com.
-accounts.select.	3600	in	rrsig	DS 8 2 3600 20250913052315 20250830044633 58470 select. 2wgdSbjPxGrJUbmFd99nw3mD1qZPkBDTMvLyr8joVbn4MrLZPHfplf5/98VS+EA7A2r1B+eQ5oWSXXgk4/SiRe4NzshT+UPhBp/n3eI2lxpXiKoQIGeMMJtItiYxWV1JHBQQDUGJ4gv51iFgfvCpb6rIxm5GeJNIv+chY/UleNdHAQbTm2tfTaw/ki/9dCombMHyUCquEMe7FkkQSvR7Sg==
+accounts.select.	3600	in	rrsig	DS 8 2 3600 20250919045931 20250905042315 58470 select. uwEm7w3vAOiGDy93TAR5lO9VcIWbNyLmopNo7899nsSf3AMoSvx8RpIjt9bWg2eJ8xFbaN9RVnUExozCMBNfs0R1xzBDoyeP+qOgOrQXKCDv4pcZuOBieBEVNwjXkljnYOMklViY2ouafkcz7R+um4Egy1T8xHYGgV6lKWKAKGcbsH0qHA8f9pMP5m5T/GtdNJASvInl6O2aK3udt8KOKQ==
 adam.select.	3600	in	ds	2371 13 2 1A6A7491D302CE44FF1BD2D81FF8E041A38A7672B3AA8581624EC47C792D5054
 adam.select.	3600	in	ns	curitiba.ns.porkbun.com.
 adam.select.	3600	in	ns	fortaleza.ns.porkbun.com.
 adam.select.	3600	in	ns	maceio.ns.porkbun.com.
 adam.select.	3600	in	ns	salvador.ns.porkbun.com.
-adam.select.	3600	in	rrsig	DS 8 2 3600 20250913052315 20250830044633 58470 select. aGnIwlHob8DqFZ4FJcFP/mLjp0KUE7pAiKqOpJEPvF2OMHQ3/FhSKw68oeS35mDOGE5ujuwHUgCyCnRaGgCCiHboad47s6vtBA+3qi9805m3viISq/qNgXlbfUsJ6/rw0AZ9iaI58WkZY6skxOukWChfbOu4S9gazvi7x11qCku/1fIq2Hch/g8GthrIfJrXpqQden7dz43bDzfHQQKmyg==
+adam.select.	3600	in	rrsig	DS 8 2 3600 20250919045931 20250905042315 58470 select. Iql5zLM4CSeSdBGJqRJYJactHsvchGg8p+kzLGNQTfjUUMXFqYoPJOSLfCe4YPSs8W6q899qhV1WGdUSX3d+GDPB1E8qBQBQ/qHTgORTOCWtyTsQqepnV/ntaAZaNUp3By8nExffg1lb0u7n3SYW5nTDThXPUok/Ogkkn5aueZ82pe00TPTUGWf2eHWoo8N4PIh13Gtn2+/HT9/Wi7jKuw==
 admin.select.	3600	in	ns	curitiba.ns.porkbun.com.
 admin.select.	3600	in	ns	fortaleza.ns.porkbun.com.
 admin.select.	3600	in	ns	maceio.ns.porkbun.com.
@@ -113,7 +119,7 @@ agentic.select.	3600	in	ns	launch2.spaceship.net.
 agenticai.select.	3600	in	ds	39297 13 2 8796DA12894670BEB5FA5871E83B9DCAD0883656304FD4BDD986C47BFB59B69D
 agenticai.select.	3600	in	ns	launch1.spaceship.net.
 agenticai.select.	3600	in	ns	launch2.spaceship.net.
-agenticai.select.	3600	in	rrsig	DS 8 2 3600 20250914134334 20250831130338 58470 select. 0z0ObMg45i1O5d0JPxdvlUwcD150PCt9faMG4UO58rBsqsTBxeJVK+Bs66wcUe7TP9hHwhewS9lp0guFdsBaYM5RWbbg5lweny4CDHOccfG9Ivr1krj93Bn3c71XyH5xdUI8WxnEDkYeG9NNs8+lOWQTTioVodelW/nKGV3FYH6GiqejcAlz1tnHZcSnaXRv4ChsUYNwVsQ7oERS+3FoGw==
+agenticai.select.	3600	in	rrsig	DS 8 2 3600 20250920124641 20250906124334 58470 select. 4CaXIDlVxvRV9sfz6QgeYeozGpGTsl3/GzuzAliZDglOkTp5CcAGbpJ5cGRMthzHcj5Fw8If2wwl0+kYkA1ElQmDVXv7e2x1DlBwrk6ocms7zcPUt6DEw5d6pQ0f3HUrAbavE/hG5HH8qNHOc4CgVjZa//GhTPmzLzYkhnoKiicCyIyrE3R3DxXc+4A2fCQqtD6mKSShLr+oHrBzdsWVpw==
 agents.select.	3600	in	ns	ns65.domaincontrol.com.
 agents.select.	3600	in	ns	ns66.domaincontrol.com.
 agilent.select.	3600	in	ns	dns1.p01.nsone.net.
@@ -206,7 +212,7 @@ audible.select.	3600	in	ns	nsusa.comlaude.net.
 auth.select.	3600	in	ds	2371 13 2 211953A251CED45F11E5534B080EC82CF6E10B8CAF246433636A0E7B9BFDC92D
 auth.select.	3600	in	ns	moura.ns.cloudflare.com.
 auth.select.	3600	in	ns	rafe.ns.cloudflare.com.
-auth.select.	3600	in	rrsig	DS 8 2 3600 20250913052315 20250830044633 58470 select. zVbHq2qTWA3MNXT1FN/bo2ao1C8tgwMhEO0jWcMacNxWfQ1brJkax/ZGb9LrjBAsgYlhvsIYZsPSnCDHwBYlHw+qHxj79YVGg6kRusbhG2MefZ14R1TaBv88S7s1cY/8LJO9FxgZh/wrnzYtgK+gwII0kgBLtFjw5Hy2zzwlZGLO7He3nO8jf8fjkFXP1T0LwzXjUoJcluERGnuzYV+Hdw==
+auth.select.	3600	in	rrsig	DS 8 2 3600 20250919045931 20250905042315 58470 select. Y5pHS1QykXTnruaGieCZcaSp70lTQBMdGpmWGetz7pL72p28kzN8mF2Jm7pig9Dl8qP7gMWd244M4mRa5AQHqO7ZUaOKP7i73Q5dwm+zqGQDyL7MIHm0Zb0HToM5xgn3zYFcfXjDX6/Egfs1UDCgo9OhMXBWx/mvJ7xBybTgodHyrWc4emCiTb2WofdkKD7/ZiE/r/OiujdYcyw3w3zQqQ==
 avatar.select.	3600	in	ns	ns1.101domain.com.
 avatar.select.	3600	in	ns	ns2.101domain.com.
 avaya.select.	3600	in	ns	ns1.markmonitor.com.
@@ -265,7 +271,7 @@ beyonce.select.	3600	in	ns	dns2.cscdns.net.
 bfgoodrich.select.	3600	in	ns	dns1.cscdns.net.
 bfgoodrich.select.	3600	in	ns	dns2.cscdns.net.
 bga6as8v3urhjcb4ti66d5790dd81br5.select.	900	in	nsec3	1 1 0 - C8UGUKRMC8C08VR6UKF5UENOJTNNAG1R NS DS RRSIG
-bga6as8v3urhjcb4ti66d5790dd81br5.select.	900	in	rrsig	NSEC3 8 2 900 20250915083609 20250901075705 58470 select. U0PYKkM7YSOxIcENsYwRCkmshXPLprJbfcxl7zfKDuV3V74r+VYyKWkcWC63bs7MToyNGZPbJ/ohQx0q4NzTnxMJYS//ry7s9eMQ38X5+OmQ9BGpBtWrxEQjBT499cp0Ne0oTsXkxgTv0zLMvo19wwNX3spvQpmNgT8dom3vDokLsBNC8Z9Nfguqw/6bciY2mxqvmL3HmbLofRdXxdzLpA==
+bga6as8v3urhjcb4ti66d5790dd81br5.select.	900	in	rrsig	NSEC3 8 2 900 20250921081327 20250907073609 58470 select. qkea0v0jPgN8FL+kMN6temjCsMbopMw0WycrBaQS/84EbbzhHAonim/LZMt1MEMRFsBhHPvc/dCr+2rsXI4iE7WfIbr7ethps42rx6l6X8qppiHiTDZRgmT2iCNNK8m1d654AiTmkEhVActSTnF4k5gmbRyxJamPQ4cRk4YiSozdsv7v8XBzh2+q9F6KPjKyU6dwPemVj4JpbkGkELnsrQ==
 bibendum.select.	3600	in	ns	dns1.cscdns.net.
 bibendum.select.	3600	in	ns	dns2.cscdns.net.
 biofinity.select.	3600	in	ns	ns1.markmonitor.com.
@@ -297,7 +303,7 @@ braid.select.	3600	in	ns	dns2.cscdns.net.
 brand.select.	3600	in	ds	61402 13 2 B0206697A929EB2DFBC8C8ED1688ED24D1C37EF0F67EDAD0023B9EEC006B7A2E
 brand.select.	3600	in	ns	launch1.spaceship.net.
 brand.select.	3600	in	ns	launch2.spaceship.net.
-brand.select.	3600	in	rrsig	DS 8 2 3600 20250918193717 20250904183857 58470 select. AMKW8AwtspNgMz8qEJ6LJpEQGcY0WW/pQ47h9im49+rQ/ifBQ+wmYyRNB2zsW4I3BDt50SsP+7dy8534TggFVUOWAZcJ8mvXFyWB1tCTa0m9b/64sw9Hi7w5NidAlf3AR4AQMfAzgj0h1kpmRbUEielee8VhCwpFaPHMYV/Pij+CPUGV5rVSMmD2tQ+aGZzZQadFx+/3g6NjtHubau1X5Q==
+brand.select.	3600	in	rrsig	DS 8 2 3600 20250924191457 20250910183717 58470 select. C04YnkVfEmR0DqZ/YKG4RRi4SshXCaWpDpj+2nS3WwMjE9GhGmDSgLKFHZGSryWqHdGM9FwCCjAwSpK52hvnu258RzaAqM85lhJ1tPiWLp2Z6MV59+aNIIn5lRHhLfyxIE3p17VtlmYgWPNjjPa1tb1pl9IdRh3LtHdM9viWhSJ5I88bIrdIoWw6NRzJKAmLBxRE2G23jrQ5A+WQb1RvFw==
 brandhub.select.	3600	in	ns	curitiba.ns.porkbun.com.
 brandhub.select.	3600	in	ns	fortaleza.ns.porkbun.com.
 brandhub.select.	3600	in	ns	maceio.ns.porkbun.com.
@@ -309,9 +315,11 @@ busitel.select.	3600	in	ns	ns2.syd6.hostingplatform.net.au.
 c.nic.select.	172800	in	a	37.209.196.9
 c.nic.select.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
 c8ugukrmc8c08vr6ukf5uenojtnnag1r.select.	900	in	nsec3	1 1 0 - DC6ME0DTSK9I02U335UEN53HGOAM5OE0 NS DS RRSIG
-c8ugukrmc8c08vr6ukf5uenojtnnag1r.select.	900	in	rrsig	NSEC3 8 2 900 20250915083609 20250901075705 58470 select. kTcyo56WGjIZbuFY/41LY2IumktitIBOkjnkAcaOAN0HNML+RV7V3hqVZa/kpEW+6k4GHKv6XjM91DtQ2sx1B6UZ7PZKB59rc+kXcVIEEuKDeRnkEbiqkRhPjS8f3fjgLanF9Tcj74yIkII78njfqbGBrS29ltmrEg4Vs2lZk6bGcPD1WpGFx9YB08xSefPvnJQuvWcnvPqac1VWCuRwnQ==
-cakhiatv.select.	3600	in	ns	hassan.ns.cloudflare.com.
-cakhiatv.select.	3600	in	ns	hattie.ns.cloudflare.com.
+c8ugukrmc8c08vr6ukf5uenojtnnag1r.select.	900	in	rrsig	NSEC3 8 2 900 20250921081327 20250907073609 58470 select. 3dgbIl+lmcO8d4CzXC7lC3M+/vvEihsnM9VTT+WKaExI+5AXm80cGoY9OpsZLE/CKAXfSrvAGIPQwY9NTNxDh6RT9/DTx9fhFfj6uLzhC3oy+N38MfjbI7haZLwRiN5RGZ7JDBqeTY8+YBj5ORHE00lUywm72W4Npj43sZw0RVKWNgQIJqTE84aRKb2BfeLpWpAOfh1rda6wHO8crIO9jQ==
+cakhiatv.select.	3600	in	ds	62979 13 2 239813B1DE0D794CA4394C6A011C4D82B1BC3D4ECC6E3D22D5437C7619CF6EF0
+cakhiatv.select.	3600	in	ns	launch1.spaceship.net.
+cakhiatv.select.	3600	in	ns	launch2.spaceship.net.
+cakhiatv.select.	3600	in	rrsig	DS 8 2 3600 20250924063742 20250910061345 58470 select. 1qjK02NL5J71FYOb7v6ocpOylmGDDCTpd43WMDOrei0aWeVYFfd69jLACOttJPBLnNXeHTudDBfV2U7PSQ/qk4w6jxXocYYP80cgNvei8UtGTxb3hNCWLrUAgxe7vrbbXAYvUOenvXaNTVK9O4Kg4a764NIyFkCf2lAd5cOU7Q4wWVbBiiQ5rUHIrwn/ea5mcmH6jnOu7MHKXpjHSb+Gdg==
 candidate.select.	3600	in	ns	ns.udag.de.
 candidate.select.	3600	in	ns	ns.udag.net.
 candidate.select.	3600	in	ns	ns.udag.org.
@@ -367,8 +375,8 @@ chat.select.	3600	in	ns	ns1.aftermarket.com.
 chat.select.	3600	in	ns	ns2.aftermarket.com.
 chatto.select.	3600	in	ns	dee.ns.cloudflare.com.
 chatto.select.	3600	in	ns	kurt.ns.cloudflare.com.
-chicloftliving.select.	3600	in	ns	jasmine.ns.cloudflare.com.
-chicloftliving.select.	3600	in	ns	keenan.ns.cloudflare.com.
+chicloftliving.select.	3600	in	ns	maleah.ns.cloudflare.com.
+chicloftliving.select.	3600	in	ns	nash.ns.cloudflare.com.
 choice.select.	3600	in	ns	ns77.domaincontrol.com.
 choice.select.	3600	in	ns	ns78.domaincontrol.com.
 chrome.select.	3600	in	ns	ns1.googledomains.com.
@@ -399,7 +407,7 @@ cloud.select.	3600	in	ns	salvador.ns.porkbun.com.
 cn.select.	3600	in	ds	13278 13 2 C331A3507C4D9D56E4F3D43B82B09063CAED8E010C35C902A7D425E5EF6AEA70
 cn.select.	3600	in	ns	launch1.spaceship.net.
 cn.select.	3600	in	ns	launch2.spaceship.net.
-cn.select.	3600	in	rrsig	DS 8 2 3600 20250913052315 20250830044633 58470 select. 9Njt+ywmmRwx4Beccb0/9SBc4g46WWGmAl+6uIxpYWjBoqwBkpIkKSk3i2+/SXFMX9lzu/q4ZRKntDAUeB+CT3dzGdqLTG6vYudgzzvvYw0mwOrZZuhy3iFX0JY6LEyRpMKv5NXAVZNawLfKlin0UqyjEbSJ0hbkjLJscr0EQD5PbptW7g9AAipQtqAKk/MpWTu37LchctbZo3GI5bLLWQ==
+cn.select.	3600	in	rrsig	DS 8 2 3600 20250919045931 20250905042315 58470 select. 0wvtNuCTZ4cqVRniO0bJbYKzRpKp6e1UZ34sF0th4d+ElczVhjtGtJ4MINUELi5XQolu3nv8xZtKDfKoFu/K397waMXKQM//dMakAlyjpXE9ApX0mLUoFOOYbTBZ+jFYC3Z2jEu4v/Q8LMIiKMsRnMfscVOzxjMTv+SKYlTgRNmV2laptEsY0iYLbFbaDU4xVlQAbzZqAtO8O2GePtJlGg==
 coffee.select.	3600	in	ns	curitiba.ns.porkbun.com.
 coffee.select.	3600	in	ns	fortaleza.ns.porkbun.com.
 coffee.select.	3600	in	ns	maceio.ns.porkbun.com.
@@ -407,7 +415,7 @@ coffee.select.	3600	in	ns	salvador.ns.porkbun.com.
 coins.select.	3600	in	ds	43003 13 2 C787991A03CBF65DC543E25833DAE0C32C6698731F59F9433A4487A89C3455A1
 coins.select.	3600	in	ns	launch1.spaceship.net.
 coins.select.	3600	in	ns	launch2.spaceship.net.
-coins.select.	3600	in	rrsig	DS 8 2 3600 20250917093942 20250903091917 58470 select. K4lFKJwAwWqnzt8qjGvXiBuH4rzK/VEWqYwaB27MiTah424KGK5iSgW5Q/1PXz59kRfOX8ewjQ7+FqKMOLxnGgeGD+1eBtqOkXA0B6oe0RLRNnjRzQIWh3UUuVCeopNIAdIy89uA6toNUiM5TPkXljUUEPqIf7ExyNSxtA3p7zVZ0LiMcAZMF0eIA/p5yixxhU/ndIGu4rKXzaloIXP1xQ==
+coins.select.	3600	in	rrsig	DS 8 2 3600 20250923084306 20250909083942 58470 select. rFirw7BXOYcyw7HpIFDRhwE5HZQZwdDr7QKIvGMZ1sZiA/1TxRCRcdIxlhJaKNy5JM4DjJzgae6n/mWmzKSkqk9BjDLA2h5XZBSjipqr4ds2EPfw7gwcKbAXmywhn9B8+AnFyi/ac/pHaE/dVA9LrvGwLNPBTI+RdKSMulgdXo9X40hc8fvozRNpyfAzP3rskdf55jwiiVHnELtdQPoMBA==
 com.select.	3600	in	ns	ns-1096.awsdns-09.org.
 com.select.	3600	in	ns	ns-1802.awsdns-33.co.uk.
 com.select.	3600	in	ns	ns-407.awsdns-50.com.
@@ -482,7 +490,7 @@ d.nic.select.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
 data.select.	3600	in	ds	38823 13 2 9B21CEA808386311F060407D18039153B1977F00D4C7BF661D44037A6CB1F9C0
 data.select.	3600	in	ns	launch1.spaceship.net.
 data.select.	3600	in	ns	launch2.spaceship.net.
-data.select.	3600	in	rrsig	DS 8 2 3600 20250913212410 20250903075114 58470 select. LPBIJlq9K4N4K6powv0XjCaLO35BWqnKxVbW3Uu4ri3aBvlPQA3+MymR39OfDwpLHoPpKYwOBUxK/WmyiY6/q9ba/7aiKzjLfbFS7b7eYarEln4ANu2lLCRjm9upMswj3ZP4wLJKxRqfyhGrEElR2Tm37sUgWC5oz9u7krGVp4H6BsVOl6N/GHk/4GhQ7sBJP/+5shzPpTy92EVs7FiKpw==
+data.select.	3600	in	rrsig	DS 8 2 3600 20250919202954 20250905202410 58470 select. JXX1YVERQ7NWVA9g284FEbJ6CI2N7TlBBm3nZ4Xjn5Q1r+kunyGEf81tiWwHyJ1w+q+Goo8fyVVpU5cBYv4Olug+ux2kIBQZ34Oz6Y9kS7DBCkWuS8T0xX2RBNk4LtVHIA21T/ZEG/pbcfMzfvEdtdffIwBDW9DruWXX7SI3Wl4x045AG9Or5aQNGlJ5GclHw4xrieAbRSsQAOBIUr+7iQ==
 database.select.	3600	in	ns	ns-245-c.gandi.net.
 database.select.	3600	in	ns	ns-64-b.gandi.net.
 database.select.	3600	in	ns	ns-7-a.gandi.net.
@@ -495,7 +503,7 @@ dayfob.select.	3600	in	ns	fortaleza.ns.porkbun.com.
 dayfob.select.	3600	in	ns	maceio.ns.porkbun.com.
 dayfob.select.	3600	in	ns	salvador.ns.porkbun.com.
 dc6me0dtsk9i02u335uen53hgoam5oe0.select.	900	in	nsec3	1 1 0 - G12DFAMSQD5ODFQ6GN6TT1VELL112GGV NS DS RRSIG
-dc6me0dtsk9i02u335uen53hgoam5oe0.select.	900	in	rrsig	NSEC3 8 2 900 20250915110151 20250904130415 58470 select. hcGwewLOd6hNqbUwZuDjhRgj2PbPiMbKmncxjJ6kMvLnrL+pXnuvh3Udmm2DVQUoy2ATcjV3/s4h3j6VqfaCGHL3UkPR7mU09GuFdSCyH0CNnS9McIiZ8rPEbJMdKND8+vv8wicOHYeAclB0wbniV2NiL4pCI7hRwdQ87nunGGDL5V1F1q5xZmkq/n0jSpLguDqRUgEAD4S6VOO4jkUVZA==
+dc6me0dtsk9i02u335uen53hgoam5oe0.select.	900	in	rrsig	NSEC3 8 2 900 20250921103044 20250907100151 58470 select. sZ47c08n/EU16y6+ff/+4T+nKsQHasqQ2DkjvSemaBG0W6ON96cLpCecNIqEO7/AZSxJsyG/FmOoABgnEPprWKckYfW5zGLbfWoS0I5yc0WLzrAUKqFIXtSmLsJP7FE7RAXTMA1+08fZzIKoS4/ERxOvKSHls/N8Y7raXnNUbB69GiTR/gdq52+zB6IDDoafWZo6j/b+8OgLlUcvj5qUcw==
 deals.select.	3600	in	ns	ns1.hosttech.de.
 deals.select.	3600	in	ns	ns2.hosttech.de.
 deals.select.	3600	in	ns	ns3.hosttech.de.
@@ -520,7 +528,7 @@ domain.select.	3600	in	ns	ns2.sedoparking.com.
 done.select.	3600	in	ds	59153 13 2 0105FEF1421B7B3FF073F7601F9FC4AE8CE50D2D20F9E84F33F5A94F219CE888
 done.select.	3600	in	ns	launch1.spaceship.net.
 done.select.	3600	in	ns	launch2.spaceship.net.
-done.select.	3600	in	rrsig	DS 8 2 3600 20250913052315 20250830044633 58470 select. 2h2P6SiyPF/FQ0+VGRUVbS29UfV7Y40N0asWZ0undgSZCQwI+3FM4SP3MSDVPAXQGJjx0F59tipj+B6XFmI650q1gfr9Wq7E2BOiAagM6zL+BpPOZX4j8JsTOkQsI2W3IXv4gw56RbR/PbbyIPKUqiMKc4UohUOMRtv8tdAmUZegiwJ71P8G0K9HOT5FMc+gSYQ3FB9tnEdUyZ/4G4TXTg==
+done.select.	3600	in	rrsig	DS 8 2 3600 20250919045931 20250905042315 58470 select. q17ef7AXFI5q2HqS/AQjFz6A7LOIq0Y5Zj8X+x0VRlvSpqRj8Y41QCX74O7QZ9T8l7wsnQx7voY5ni+zFv2kWD2YE6BPlHjf1KcN7IsGcL1eB78Z+S/2BkW7IC1G5a+mcBPJQTptI+wFcLx92m41SUYJPPxlNUmLHkJVsHDlgJj9ce/N+1F0So3WuM1+8x1Aur/JjZ3LFUh/jbUJjij3bg==
 doubletree.select.	3600	in	ns	ns1.markmonitor.com.
 doubletree.select.	3600	in	ns	ns2.markmonitor.com.
 doubletree.select.	3600	in	ns	ns3.markmonitor.com.
@@ -618,7 +626,7 @@ festo.select.	3600	in	ns	ns2.atvirtual.com.
 festo.select.	3600	in	ns	ns6.atvirtual.com.
 festo.select.	3600	in	ns	ns7.atvirtual.com.
 festo.select.	3600	in	ns	ns8.atvirtual.com.
-festo.select.	3600	in	rrsig	DS 8 2 3600 20250913052315 20250830044633 58470 select. FaQFOO1r9shD5Z/7VfQbcQO+6/hN/eePtZuaphIL6dvK7f8EbrLq5sKhV+Azc3YNrQc3suMBi5fIIXlaBWYHCe2kZdF3s1+HkTmXnw1N1oY+rwOEwopCwvutO6pEN/56vmNP2aC/Sxr7B+XczRWdqfux0OqV7Z5nb2WdDGGqra08uK56uK8JoQf0yyW0H3xrrrDA61HysKaBafKA0h3B7w==
+festo.select.	3600	in	rrsig	DS 8 2 3600 20250919045931 20250905042315 58470 select. B6gIncOGglo1G0odAqzCPUrp+yNlejg5auKnjxgUIKB0hxqsB49vf5xzWU7LEA8u7NdYwACkdJNAijLEDEPu6JonyxG40PRDrtKUcLM8UEEAiem+dFWojCyuyVcNgjBXl6WU/+JLmTYtr6bsSkqCWgz8jmvbP0vBrhHA+CKRe1T5Nfb6VDny6m2dsPH6RIHZuHb85n9lErGZjReRAUz+LA==
 fire.select.	3600	in	ns	nsgbr.comlaude.co.uk.
 fire.select.	3600	in	ns	nssui.comlaude.ch.
 fire.select.	3600	in	ns	nsusa.comlaude.net.
@@ -627,6 +635,8 @@ firmenich.select.	3600	in	ns	ns-146-c.gandi.net.
 firmenich.select.	3600	in	ns	ns-57-a.gandi.net.
 first.select.	3600	in	ns	ns77.domaincontrol.com.
 first.select.	3600	in	ns	ns78.domaincontrol.com.
+fly88.select.	3600	in	ns	annalise.ns.cloudflare.com.
+fly88.select.	3600	in	ns	kyrie.ns.cloudflare.com.
 fm88.select.	3600	in	ns	dee.ns.cloudflare.com.
 fm88.select.	3600	in	ns	zac.ns.cloudflare.com.
 foerch.select.	3600	in	ns	ns.inwx.de.
@@ -651,12 +661,14 @@ frontnow.select.	3600	in	ns	ns.udag.org.
 fun88.select.	3600	in	ns	donovan.ns.cloudflare.com.
 fun88.select.	3600	in	ns	monroe.ns.cloudflare.com.
 g12dfamsqd5odfq6gn6tt1vell112ggv.select.	900	in	nsec3	1 1 0 - HUSNO4THOVSMDRN5V947NT95QQ923V0K NS DS RRSIG
-g12dfamsqd5odfq6gn6tt1vell112ggv.select.	900	in	rrsig	NSEC3 8 2 900 20250915072335 20250901071814 58470 select. hOTXmWeteekb7W8WwBlOv+ftGezZzOSInj6poJYMkD8SmdH8AX+/zjEqUAD6FKbbsJ02C2BwyjYo8+1UPfV7YBwpvVE5/J75Zx6viYkRqmXzd0kA5ToNZgS4BsWTreDF3v89+6u8fZivDA9W7gA9jkggBp+ppVh222db1oqawt6oW6PRsi2yiJIrbrSh7TMKqFnk8ZRrLPdFjURpUKJx3g==
+g12dfamsqd5odfq6gn6tt1vell112ggv.select.	900	in	rrsig	NSEC3 8 2 900 20250921063819 20250907062335 58470 select. Pz59tuNAXELxOIFwP9CsZJ6TRKQhzEVpcyV+9i3KlaJesCtXThOS32CAdRyOC5q2Cdxmz+0Dnw+9oEkUb0mF3lFsuJKCvlCstjJmkVKrbFgFfj6+/s5nFsPbw07CEc/cP0NnPB9rIpuzbD20CLJRujIpxxFVeez6EWzxHbvDR3a9E3fWhoanJrEgAHxuC68njdyg0aSgz2IRW6yUkVHxYA==
 game.select.	3600	in	ns	ns-187-b.gandi.net.
 game.select.	3600	in	ns	ns-234-a.gandi.net.
 game.select.	3600	in	ns	ns-35-c.gandi.net.
-gamebaiuytin.select.	3600	in	ns	hassan.ns.cloudflare.com.
-gamebaiuytin.select.	3600	in	ns	hattie.ns.cloudflare.com.
+gamebaiuytin.select.	3600	in	ds	15669 13 2 EF60B65D8E8590693E7DB76FE4E1D00B2D89D3E664B7218A5855C0457F9A6181
+gamebaiuytin.select.	3600	in	ns	launch1.spaceship.net.
+gamebaiuytin.select.	3600	in	ns	launch2.spaceship.net.
+gamebaiuytin.select.	3600	in	rrsig	DS 8 2 3600 20250922201843 20250908195220 58470 select. Q0XP0sP3xi8aRveA3p9aGKLaQPzFQn6NLbiKmReD7aQdSEtoJnBzBTLE6quO0GUmvDWbj/qwoZ4if+absqFPz6TmsT4Hv8x4GHrBnB9F9v/bPcvYp4osTa9cAv+He4Jl9iDgHlx7UxspDqiYMzBYTU8v44YscEvVlnFYc9+gkEGpW7pknr1htK+E9wOjY/uf6LAWO3jyTUOPv0wta0O29g==
 gastro.select.	3600	in	ns	ns.udag.de.
 gastro.select.	3600	in	ns	ns.udag.net.
 gastro.select.	3600	in	ns	ns.udag.org.
@@ -684,8 +696,10 @@ go88.select.	3600	in	ns	clark.ns.cloudflare.com.
 go88.select.	3600	in	ns	kinsley.ns.cloudflare.com.
 go88s.select.	3600	in	ns	jade.ns.cloudflare.com.
 go88s.select.	3600	in	ns	leonard.ns.cloudflare.com.
-go99.select.	3600	in	ns	aiden.ns.cloudflare.com.
-go99.select.	3600	in	ns	magnolia.ns.cloudflare.com.
+go99.select.	3600	in	ds	11777 13 2 1ECB70B8C1BA816DCC0BDFF34D673957BAB924C16787AC76B31FD14EFE1C66ED
+go99.select.	3600	in	ns	launch1.spaceship.net.
+go99.select.	3600	in	ns	launch2.spaceship.net.
+go99.select.	3600	in	rrsig	DS 8 2 3600 20250920081459 20250910054649 58470 select. hNIj3C3QTks/2VfkkBYv2m+eN7U8ASaK0D2bqopro6zyPkna9oyaktXocqCoFHTTFc3uPDDeRRJSyG4G6fiaoiHNvnGsgxdHYjd9F5R4idRjNZJbdfXpmEIR3kczO+zk0/GRDQTrUJGTUxAn7UTPAhn2QEBP9xwaUNB/n/Ze8h1MKNL7eRL1OBPxwbDaXi/3rLNage2zrBdCc90uzQLfCA==
 goldpoint.select.	3600	in	ns	gdns1.interlink.or.jp.
 goldpoint.select.	3600	in	ns	gdns2.interlink.or.jp.
 good88.select.	3600	in	ns	keyla.ns.cloudflare.com.
@@ -788,10 +802,6 @@ hiltonhonors.select.	3600	in	ns	ns6.markmonitor.com.
 hiltonhonors.select.	3600	in	ns	ns7.markmonitor.com.
 hitclub.select.	3600	in	ns	bill.ns.cloudflare.com.
 hitclub.select.	3600	in	ns	gracie.ns.cloudflare.com.
-hk.select.	3600	in	ns	curitiba.ns.porkbun.com.
-hk.select.	3600	in	ns	fortaleza.ns.porkbun.com.
-hk.select.	3600	in	ns	maceio.ns.porkbun.com.
-hk.select.	3600	in	ns	salvador.ns.porkbun.com.
 home.select.	3600	in	ns	ns1.uniregistrymarket.link.
 home.select.	3600	in	ns	ns2.uniregistrymarket.link.
 home2suiteshilton.select.	3600	in	ns	ns1.markmonitor.com.
@@ -833,26 +843,24 @@ https.select.	3600	in	ns	tara.ns.cloudflare.com.
 hubet.select.	3600	in	ns	demi.ns.cloudflare.com.
 hubet.select.	3600	in	ns	yisroel.ns.cloudflare.com.
 husno4thovsmdrn5v947nt95qq923v0k.select.	900	in	nsec3	1 1 0 - I5OAN33RKLOQD2CU41JSPBKT2P4SD63R NS DS RRSIG
-husno4thovsmdrn5v947nt95qq923v0k.select.	900	in	rrsig	NSEC3 8 2 900 20250917130229 20250904133224 58470 select. EAZNom/Zx4F0W9qaT1IqxEMhJXTHYrp1Pa1qbwzbdAE+dibb/olwLgHYloCuHzH2bkzzysrTp3Zre6pFIreoDxMKMBXyJIqcWokPmz7vwjV5TrMkL9S4kRTpj66N+tYxC6dIj+53+czmPCjm1Fa4rLZi3e18ga1c7TTkkbUCTI/81idRCpyUmk6i58KteV1NSa1DTu6t8Ur59xCGnnNI7Q==
-i5oan33rkloqd2cu41jspbkt2p4sd63r.select.	900	in	nsec3	1 1 0 - ILOD3SPP8RSBPCBH7Q7O4L3I1DTDFBM4 NS DS RRSIG
-i5oan33rkloqd2cu41jspbkt2p4sd63r.select.	900	in	rrsig	NSEC3 8 2 900 20250917130229 20250904133224 58470 select. kVWPBVT7OWdUvXg/RF2HRW45sCwNBsVSip+P9swSd8hQhL6/DRtY1guiDnwQUUXB1gXuGdDXO07EgK7dlDmGjG+a3sZ41DrIDSyBXmHhItJvlqxjGIhRR9MlK3oRnOd8P3UKVRnNKdjAflFoItGhOXQ4WY9yr4OLIqrN0DKre8PV4GHcNmmnVao3h9Lro2IQ9pHR/bMa1v8/74pti0iFig==
+husno4thovsmdrn5v947nt95qq923v0k.select.	900	in	rrsig	NSEC3 8 2 900 20250923123509 20250909120229 58470 select. 3YAmBTHdBgPMf5F1pSswa1fUzRfdGvc3f2FxtF1AYmM+dxaDI8FJWqYXisY87xQmwkj7Y8wNGKQsKBSjPN7rp8oNDUgDjvgV4Fjy0SjV8mWtdUnsP/5wgW+8p3sa1geRWKnBhmD42Xmso9JxsVJcF74F4xttRS3pS8v104HbAdRmIGaGEZy7jVSRx0UiMgmQm9046sxqQ4CFKbT88/ew3A==
+i5oan33rkloqd2cu41jspbkt2p4sd63r.select.	900	in	nsec3	1 1 0 - K3SSHVOSC992B61KJOUNOV24IR23AJJ7 NS DS RRSIG
+i5oan33rkloqd2cu41jspbkt2p4sd63r.select.	900	in	rrsig	NSEC3 8 2 900 20250923162206 20250910080948 58470 select. Y15HooMr5wglKn0yodTpqBSjKuAnsKJWaEwKDtfjwEO0PbVoADRz8pb5fZlAV4o/sYsxZwqdSzPS5/sBS6232azBkmso4f3X8aySTGTvkWswLAE6aQlgk0YfkqDjILBS32236OJCYlbtg/r7weECEhGJ7l8lgIiWIq+FTkICj7c+XeQJxTv/y2RDL8bCVXszLm8iduTkY/4CQfr4aI/1Ig==
 i9bet.select.	3600	in	ds	64970 13 2 C1469EB21F690CA54BA43484DCB18ED7DCCC857658A53504F79DDB1A6909DD43
 i9bet.select.	3600	in	ns	launch1.spaceship.net.
 i9bet.select.	3600	in	ns	launch2.spaceship.net.
-i9bet.select.	3600	in	rrsig	DS 8 2 3600 20250917130229 20250904133224 58470 select. Kz6ya8DT/kEWpepYeSeOT/49uHAQSKaoNbHeuIWeetNsiNrYdaGm5LCWqWBmliBrpDrC9IxMmo4P5bXZ1h7anCPCQKR7hiMNIQ+tZkh89WfhaoIvlCzHLeen+XOtat0gKhuTX6zKQwFsTlh/gYVgTfFwHQ1hQxAQmmMkMuenGzZCogb5yXkA1RZ0wM2frvvvfFHrFztRPVCokGm1mKPY5A==
+i9bet.select.	3600	in	rrsig	DS 8 2 3600 20250923123509 20250909120229 58470 select. hd5zN5ZYoD/+aLLBVR5xcBMQ3aQBgmNQVSyX92TBItstmHWSNt5Tf2GSVjy32k6EFXe23PyltxvE+MVhhZesOwzp31tmhkVAox52pDWMGXKOq0INBale7VltiYrkc5L5KDJ7I17ACF8g1xI1n0slBh7kgg/cMv5mSYCZqlxnAUtknAG9RB0bGqgf2ztrkqEW21xxfGZzpbKsuMwqKoxr9g==
 iconifyvisuals.select.	3600	in	ns	amber.ns.cloudflare.com.
 iconifyvisuals.select.	3600	in	ns	augustus.ns.cloudflare.com.
 identity.select.	3600	in	ds	63810 13 2 38C8265A6BB115DEF560918A50E85839CB7B34AEA24F5A3D4B4F4DDF9279D946
 identity.select.	3600	in	ns	launch1.spaceship.net.
 identity.select.	3600	in	ns	launch2.spaceship.net.
-identity.select.	3600	in	rrsig	DS 8 2 3600 20250916183012 20250902180554 58470 select. HiySP0nCRAePEAzE2F5ExKjeuIlJ84pb3JlhSaJJ3gCqLj1tmEz8Yz7t8/8ASaJgPvW60OslEoGSJCrNdef5CWzngg6mmFLgqfJTtCErqUnzzHZyUYULFkMfXJe7EyRJJi/vPcIAQOW9yfe6/B+ZkHr6orXkWQL4/y5ul5gJpclzuDUqfyDUyEXTipHNftCt8wZL6hoXJ4rR0Akl3mY5vQ==
+identity.select.	3600	in	rrsig	DS 8 2 3600 20250922180426 20250908173012 58470 select. YH0LV8azz0TkQ+B5yboYZXT5WioWFSuNAg3gxsyaHKVEP7qN9WnNWu3wBoyoldt60/qxfYYLp9xuJcyZQPtQmSmlZ9Xvpq+yJgnAeZx1AmX9EWuIlVkMrQS7iRMXNbv7NhCQlDI2xaYQw8ey6IExWOQn2uEVuJ8jyY73ksATJINYuqDO7dfdj/HJYUJ5cej8GlMpfxaK1sbwZBPSwsn3Jw==
 idilis.select.	3600	in	ns	dns1.cscdns.net.
 idilis.select.	3600	in	ns	dns2.cscdns.net.
 illuminai.select.	3600	in	ns	ns-146-c.gandi.net.
 illuminai.select.	3600	in	ns	ns-154-a.gandi.net.
 illuminai.select.	3600	in	ns	ns-226-b.gandi.net.
-ilod3spp8rsbpcbh7q7o4l3i1dtdfbm4.select.	900	in	nsec3	1 1 0 - K3SSHVOSC992B61KJOUNOV24IR23AJJ7 NS DS RRSIG
-ilod3spp8rsbpcbh7q7o4l3i1dtdfbm4.select.	900	in	rrsig	NSEC3 8 2 900 20250916204704 20250902202018 58470 select. cKh4kzsEtbBKX1Gudw8TiMvn8QaewVAfkYUkIwjsLny8TapzotzFy+qybmID94+RLtWcDhO8lHR1lATX2yZ/za9rjKQKakFgR2epvUdrsmqKCUhGm0nY0vhJFfd4CIro2T0WexP/RSZZFi20w+tMQj0EUorNwp405cMlJcMFKEKIsgKuN0Sv5C53z0vPs56UpqgpQP7SEHgIiopoU8oL8Q==
 imac.select.	3600	in	ns	a.ns.apple.com.
 imac.select.	3600	in	ns	b.ns.apple.com.
 imac.select.	3600	in	ns	c.ns.apple.com.
@@ -869,6 +877,8 @@ ink.select.	3600	in	ns	ns05.jpmorganchase.com.
 ink.select.	3600	in	ns	ns06.jpmorganchase.com.
 ink.select.	3600	in	ns	ns1.jpmorganchase.com.
 ink.select.	3600	in	ns	ns2.jpmorganchase.com.
+inmuebles.select.	3600	in	ns	ns37.domaincontrol.com.
+inmuebles.select.	3600	in	ns	ns38.domaincontrol.com.
 instagram.select.	3600	in	ns	a.ns.facebook.com.
 instagram.select.	3600	in	ns	b.ns.facebook.com.
 instagram.select.	3600	in	ns	c.ns.facebook.com.
@@ -920,9 +930,9 @@ jpmorganchase.select.	3600	in	ns	ns06.jpmorganchase.com.
 jpmorganchase.select.	3600	in	ns	ns1.jpmorganchase.com.
 jpmorganchase.select.	3600	in	ns	ns2.jpmorganchase.com.
 k3sshvosc992b61kjounov24ir23ajj7.select.	900	in	nsec3	1 1 0 - KBJ84PPAD5QSOP7GJ9U7AQ02BIKN8G3A NS DS RRSIG
-k3sshvosc992b61kjounov24ir23ajj7.select.	900	in	rrsig	NSEC3 8 2 900 20250915141255 20250901141109 58470 select. hHyTuq4LZ6OIGQq/RLSBOv9iB/aSLnjyAWlKUXQ+oxoodSvHtR/T4ymVDY2GqNuEQCr1cKQrkqyFAzk807YCqhPXjjHrloQdLaNKhfOOeioy9vGm1Ww+NMKJvCpDoCQGDDQbj10PBEVM5TheiwnXIS36XGBRMaLgpL/EHv/MOxQz+AFMDgnMJzxikgF2E55feMLxSO5Ow8pBEqQIdw83GQ==
+k3sshvosc992b61kjounov24ir23ajj7.select.	900	in	rrsig	NSEC3 8 2 900 20250921133635 20250907131255 58470 select. c+r5CeTCfWqsP+TN97sHtiYLtMSUayiXGDWHOlYpW+GYfqBl162JBysmYL5IeFKFJYo1ve+G70FqztBlMKt3HT4s/Em+sqPLylXHOuw9NlaU8iHaoe/n4yMalYXtxd0zm0HAbiDM4kVqqc5gBHkmitZgTyGX8iEmlTCRQ127ng6acyZfgy1S2Sye6CWSbegdc4OOEj4FPbnPmxlJBPGBfg==
 kbj84ppad5qsop7gj9u7aq02bikn8g3a.select.	900	in	nsec3	1 1 0 - KGBG03226K14N7CV6VTUT5D587VC3SPA NS DS RRSIG
-kbj84ppad5qsop7gj9u7aq02bikn8g3a.select.	900	in	rrsig	NSEC3 8 2 900 20250915141255 20250901141109 58470 select. WLNfRna2V1sS/lH+YvmW8ah7h3vZ03cYvKkMx7PJJVuDHn8P3dgyvV7D3yBO/D8pKmjpYzfVo9BDSq9trx7cUPoC1qjisTGNt+atq+tIS+QUHxRYOWU5iOlT8uwSdstB9Sn7+EvUvCkdzOgJfjF5aHO/OR3iZEjjPjZ9tBoQF6U00M6puF42m8RyXea6o8KMAK/VBKgE4MWFCAvJItcStQ==
+kbj84ppad5qsop7gj9u7aq02bikn8g3a.select.	900	in	rrsig	NSEC3 8 2 900 20250921133635 20250907131255 58470 select. bGeUiZ6St/dTNr2KHrNcS344bXDL/1xVkYg7KvzkIYeEwnTsdba5PwGF0yVdsv/D7ICdJq0NJ1nrIckBxLv9qE+8HtpAQhHOoDl5O6zExiM761WwXwX+sLCAVeBbL1/0lRMS3d45FmVPF2K/wfwGyXNLUfagRSSDZNf6u5/uiqf5H68sLlSrdaA1MdTTe0CwWqLFOFSW6kLJW1gOfSsBrA==
 keonhacai.select.	3600	in	ns	chip.ns.cloudflare.com.
 keonhacai.select.	3600	in	ns	elaine.ns.cloudflare.com.
 keys.select.	3600	in	ns	ns01.domaincontrol.com.
@@ -930,7 +940,7 @@ keys.select.	3600	in	ns	ns02.domaincontrol.com.
 kg88.select.	3600	in	ns	bristol.ns.cloudflare.com.
 kg88.select.	3600	in	ns	george.ns.cloudflare.com.
 kgbg03226k14n7cv6vtut5d587vc3spa.select.	900	in	nsec3	1 1 0 - LA45NQ1EJU6IGJ9MNKPAKJM4O8D06NEJ NS DS RRSIG
-kgbg03226k14n7cv6vtut5d587vc3spa.select.	900	in	rrsig	NSEC3 8 2 900 20250917150714 20250903141958 58470 select. SxzPyofEUhGROA8uwjaM/GI3CWijGxb1F77UFh1hwuYa/orVePAluPl5/AU5JEJKCs4zBnv5PFEevSnou3/y9xRFFAahY9YwtyfP+durallJQJbilcy4g6YoZ2tiKZi+iZNTj5WkEbyIB9i+OMtEo+LRx+NcWdwcew/KYRMx2x4ad3/J5BZS1M8btJsIOYF8CDDMo3Vl20K4mBR4HD+uiQ==
+kgbg03226k14n7cv6vtut5d587vc3spa.select.	900	in	rrsig	NSEC3 8 2 900 20250923145152 20250909140714 58470 select. y3KJaPXFXHLf52nAJa6QvvM/c9pvP9pDlMylH8try51WAkuywBVMAnSSZk7oYhN2AfXC3pBfFBFGAr6fqtGrTQ9iE4gs7Q9wwVkzF96COq618sttDafO+KSrheYGTnJC18bXw4TVaGgVm7GMlhhP7TOY9XK3HbdZwORFURit1rKBZUL5rTQm5zoGNOcQ7cVoirG3OtWbG78z0vJRkhOANg==
 kindle.select.	3600	in	ns	nsgbr.comlaude.co.uk.
 kindle.select.	3600	in	ns	nssui.comlaude.ch.
 kindle.select.	3600	in	ns	nsusa.comlaude.net.
@@ -955,7 +965,7 @@ kubet88.select.	3600	in	ns	ivan.ns.cloudflare.com.
 kuwin.select.	3600	in	ns	albert.ns.cloudflare.com.
 kuwin.select.	3600	in	ns	gina.ns.cloudflare.com.
 la45nq1eju6igj9mnkpakjm4o8d06nej.select.	900	in	nsec3	1 1 0 - LFI7RJ2QDP86R27S2CMS6VD0PMQNLFE4 NS DS RRSIG
-la45nq1eju6igj9mnkpakjm4o8d06nej.select.	900	in	rrsig	NSEC3 8 2 900 20250917150714 20250903141958 58470 select. Yf4jMidNugDsJrB3/hRsjiG6ZWJoKk064vLuMS735AvQ6a3HAvU8IEGlv7MFGCUVdhqHLy2tetphq8Mys3SFYmlrOe5xN+jz21QgmXM8NL33teHSeVWZO2XrrID/QpOhz1TfC8jyQq7szIxaWLUHti52icR/SrASPJMGqHiOGEZ5p64Pk5hwq8ghyKrGRGfbAv3qZGt9PUbjNs933MQO8A==
+la45nq1eju6igj9mnkpakjm4o8d06nej.select.	900	in	rrsig	NSEC3 8 2 900 20250923145152 20250909140714 58470 select. iTjqC72r5Dzkz6gC/+1MAxrJ1M0hjLwwc4f4EvVIvb15tgZtypwmuzyab62aqUsm96w0UklVxIgSSEtMBuVcdtAMKpjcCS5Df5KeYFNCf585chxX6vWBjWB9JZ7EviH62NWmQFtTOliZNBVZHIHRLuh+Stn/mcxmQ2YKXQ9SpcHzgJLoMxZjhSkX/3OCP/uCpoYmI7qZwvqkfWWzKhZEGQ==
 lavenderforest.select.	3600	in	ns	ens1.net-chinese.com.tw.
 lavenderforest.select.	3600	in	ns	ens2.net-chinese.com.tw.
 lazard.select.	3600	in	ns	udns1.cscdns.net.
@@ -976,13 +986,13 @@ levels.select.	3600	in	ns	ns74.domaincontrol.com.
 lewesfc.select.	3600	in	ns	ns11.domaincontrol.com.
 lewesfc.select.	3600	in	ns	ns12.domaincontrol.com.
 lfi7rj2qdp86r27s2cms6vd0pmqnlfe4.select.	900	in	nsec3	1 1 0 - LVO3MSG4B889SSM4LLICJ8CL69EFAHAQ NS DS RRSIG
-lfi7rj2qdp86r27s2cms6vd0pmqnlfe4.select.	900	in	rrsig	NSEC3 8 2 900 20250913033742 20250830032944 58470 select. ghLJ73WSAO1lKGwIhb92jEdCXmg4AJ2UxtZGr7mNCeZ3Pyu+mVM2RCZmJRRcXLp4LSNV8v4m/OPpKqGQ/H8TuxN6kHEcmzdrC6Hqm9ZepnfWclv1ZiahTVeY5jrRUhfz8HyD1QVkS1EIdV5Kqr1E1YWktmAGT6xjOwvtHUziVgvFSi161wuGmS+TPAFYkCOcKL8+jLjER+3YnRwAYceZdQ==
+lfi7rj2qdp86r27s2cms6vd0pmqnlfe4.select.	900	in	rrsig	NSEC3 8 2 900 20250919025712 20250905023742 58470 select. CWN6OiFHxjT7MY2wCfV9xo3wrLNqeo7anF8O8aiW9KiB+GEZUcrLI3Jxy05HuxsyXzSoki/72EiyeEV0ZAdcJIFE5gnGk09xWMp8gYMl9FewP9g2xBASevV7Eg1wrGOo88gCDstn3qh2pdCXpx1fh2ZISP20TuUjq+YmVLCp7KTa4gbrZ4l6IWNRdmYQB9ZF3AfTLEYW9qENPKAFBFpMUw==
 ligentia.select.	3600	in	ds	61241 13 1 FC49709712C2BE1B32A6F2466AC9A91EAAD58BB8
 ligentia.select.	3600	in	ds	61241 13 2 F2BDA493BF91D233B36FFF08BF2B3A1BC8173792FB54A0056180060A8646746C
 ligentia.select.	3600	in	ns	x.ns.joker.com.
 ligentia.select.	3600	in	ns	y.ns.joker.com.
 ligentia.select.	3600	in	ns	z.ns.joker.com.
-ligentia.select.	3600	in	rrsig	DS 8 2 3600 20250913052315 20250830044633 58470 select. 3X+cKzuO98tlUbB2BwIQrQCV/oshFqfei6j5Q9+6anSBTGgzCEHREkieXVJ74GjUqlHhBoYBojpeqFUVoLdI1k0WNvJWD0hOlrQLitYn3ugB4rJ6nxMRIg37l2EwKJ3rdFYe3NFYRpoOk2OcHg/iecM13bEJERF9Hx1TrS17BXuDCLhUtP2UPLHKtazsdFNI0ZFIxRFUvaQv24fqcJ4V4w==
+ligentia.select.	3600	in	rrsig	DS 8 2 3600 20250919045931 20250905042315 58470 select. 3+YOWfdto5dyNl7MJS2W/irDbC5bqIiiDkEoS8yfHmYA+b0EzS6fkejzlVGku+/9cPiOd37Mkak8NZ6NMDLQo5uWx8IL7vuNjYDDWB3ZLIp97BLHD5JikK005Jg9xaKRE/c+lKVv1VqtkHSw1SDtnjGzUtLRRvudRg3K/IrZXawfS9wGpVF80aB5btFFpETHO6U4WrfE2WK+7ryK7FrvDQ==
 link.select.	3600	in	ns	ns-190-b.gandi.net.
 link.select.	3600	in	ns	ns-211-c.gandi.net.
 link.select.	3600	in	ns	ns-76-a.gandi.net.
@@ -991,13 +1001,13 @@ living.select.	3600	in	ns	ns2.variomedia.de.
 localhost.select.	3600	in	ds	2371 13 2 1E66991E01A7D29816B10A96587CC0386C5B5BBE2E2BD9F7B493CF0FBE905057
 localhost.select.	3600	in	ns	marissa.ns.cloudflare.com.
 localhost.select.	3600	in	ns	mcgrory.ns.cloudflare.com.
-localhost.select.	3600	in	rrsig	DS 8 2 3600 20250916105856 20250902103957 58470 select. U64PPR6MiOtF+dK7BjhYsmQaCEr8VPNLKQxdzT2TwahqMal5S7F/XMUH7UiMooDPQ3s8wis4k2n4pvSnX2p3SFziObQ4k4NfSXyvFu6otoVioSjK2cAeRQClxXLFc6Z3To5OCVJaSabJEvXJMg7pH3Lj4upuKcp06Mw0InOEblOl8ilC2Sstvu+VegDoSbsdQTqvwpf4sATGdTSImY9B0w==
+localhost.select.	3600	in	rrsig	DS 8 2 3600 20250922095935 20250908095856 58470 select. tGYpEXgIB22irj44CrqZ4evA2mTWinecbsTTQAkqEB5W0sZK59VGqYbU0f/bDjDkIQprq8qVkYb0WhI0ZkT0yf3KMjctbfw0vw52j/0xGS7fQ19uKhcf+coXyB5GOghXzXa4w9t2OLQug+LVJrfUUOb17mBClROuHuqK28nu4GOg+6wqdR8tyUFv8onNiB3JpxG6dDOQSyNi5I+68Mts0g==
 logicaldocs.select.	3600	in	ns	jerry.ns.cloudflare.com.
 logicaldocs.select.	3600	in	ns	olivia.ns.cloudflare.com.
 login.select.	3600	in	ds	2371 13 2 ABACE7E230A1AF7F2D706C3D39CE668CB4ED88C7507EE0CE7CA15015D75B8A52
 login.select.	3600	in	ns	moura.ns.cloudflare.com.
 login.select.	3600	in	ns	rafe.ns.cloudflare.com.
-login.select.	3600	in	rrsig	DS 8 2 3600 20250913052315 20250830044633 58470 select. wlzs2DNMY9oqixVPEfN9YyEKFFh6QdM41T8zD8/OmpL7jg6EreJmFT/iOFJy3rsj5Rao1kSw6/lO6ysFLBx9J8alkVA8xB1A71fOsjphytNMFWx6CvzFvAO599+hdfXQZO1a9CkP5chcdvsD8j98pISe8tx0JJhOVJOsnLpJ/xMQGOrZ44K7NjaZyYIQTcmb/LGCr1jzUrGynu1Rj5zhjA==
+login.select.	3600	in	rrsig	DS 8 2 3600 20250919045931 20250905042315 58470 select. wZ0dJXodcH2i3XulrBYjSY4JmnAhPBZNj2V7F+CXlHX67IqDka1+Q3Jh7xYzDoir9amKdRldvWs5R3wkAWXxM3QGjaSpoNS+fnYxPWZRqQfTMfHD06yQeJTcP3rU96XtI8aQYpJ3mz6MJSm/32AigQbgZq6cjOm5yk0ESC/ppSEFhYfjud06wGXDloq3/WL8KxtZs3n9/iMzeWsclLf/tg==
 lsm99.select.	3600	in	ns	shane.ns.cloudflare.com.
 lsm99.select.	3600	in	ns	zita.ns.cloudflare.com.
 lucky.select.	3600	in	ns	ns1.vercel-dns.com.
@@ -1009,9 +1019,9 @@ lulu.select.	3600	in	ns	ns12.domaincontrol.com.
 luxpart.select.	3600	in	ds	21859 13 2 F53C9872A3C2E7EB59C683751EEA7F5E64C4ADA2D4A833F2F90C747A64CCBF80
 luxpart.select.	3600	in	ns	nsany1.infomaniak.com.
 luxpart.select.	3600	in	ns	nsany2.infomaniak.com.
-luxpart.select.	3600	in	rrsig	DS 8 2 3600 20250913052315 20250830044633 58470 select. kmX/m2wvwg4aW3pGXGYAB3Y79On4DCXOIU2Cim7vXtxLsSnCr+sZMI+dBwuHR9eMEUJw655tCGPJZE50usU9bZgqUZT5wOaR5Q567b5X/DJAWT2lhPGxHIC9EfqfoKeWFfu7iy3xT6HqNDpR4Uxvc9GbIEozcy/Y/WWmx5jqk6Lk3zL2NcC9K211v14l5INYOXzXGq1jhjXwyPUaaHSe3w==
+luxpart.select.	3600	in	rrsig	DS 8 2 3600 20250919045931 20250905042315 58470 select. v8WKVDpDN9ynPWwy617DcS/l/TswnXQBejst20czwRroyJ+6Xeyz7cDbgwmjsng30UMlp/j+8UrUg+YE8UeZgyhtitbpGhwoDGQ1Co2Jhl6OIBClqhraXylS0tgCkMxfwR3ljJLDw/N1jItY1s7eirW5Tr9Hv9MssWCc7IaAOdwE/eZrfW7yKyL2Vmd+6/FEHSXJdsJ/ArxPIYFXF/x4fQ==
 lvo3msg4b889ssm4llicj8cl69efahaq.select.	900	in	nsec3	1 1 0 - NBJDLI86A45K7FR45PGQPNGD6FAHRCG1 TXT RRSIG
-lvo3msg4b889ssm4llicj8cl69efahaq.select.	900	in	rrsig	NSEC3 8 2 900 20250916142507 20250902135356 58470 select. BdZKY8oOECmln3yl+tHREFtz6ezQlJ22Bat7TtYhfo1FFNOpt5M4YchxpSvrospmrqur1kZ6dTDDZyIimk7edaNFZ2upHsiOfTyLftO0AxZw/sdnCn0Qg1ckJULfuUC0D7jxGmiDWdHPeDGS7KBReoZ4ImTJlZJy/TL9NjOFV6N5VOv7Fpe+N/6CDBQ+OqxPA1NwGDwAaOQVtUgHNWjsiA==
+lvo3msg4b889ssm4llicj8cl69efahaq.select.	900	in	rrsig	NSEC3 8 2 900 20250922140554 20250908132507 58470 select. PZmJ9avzc7udUkmmCDbUvOtf9zzc+EIe7pHJSwmyZ3MCGL9PN9BBMjIUa2B/9KQ5banEBkb7ERkr+VrWy4Iulk59UtRp7q5g68TqhztUqJMckRvOQeUcETe0tTFQS5Cnp75CEipb5RWhMO9uGkR4sxgMvlS/2UzOHrFwQYGWpQCvWWnJNJkYj+pnx+UJ4y9Kp+WZy5REgS35NbfYtYCTvw==
 lxr.select.	3600	in	ns	ns1.markmonitor.com.
 lxr.select.	3600	in	ns	ns2.markmonitor.com.
 lxr.select.	3600	in	ns	ns3.markmonitor.com.
@@ -1037,7 +1047,7 @@ manlymen.select.	3600	in	ds	44295 13 2 E22DF66DA2B174C05377DF87F0092535E7AD07A68
 manlymen.select.	3600	in	ns	ns1.combell.eu.
 manlymen.select.	3600	in	ns	ns3.combell.net.
 manlymen.select.	3600	in	ns	ns4.combell.net.
-manlymen.select.	3600	in	rrsig	DS 8 2 3600 20250915205010 20250901201351 58470 select. T40nVL4tw8T+pGiNG2z1Cc6DhqcsDcd3cCcsMxo8o7Cv46Em+6LVnAlc6ye1i+lJpOrJFt+DjFlrzNvKjcCD6nDXI0AvyxPU21mOV5o5D6opwmubFfww1gOHMNyP1rizgxgkvU8GwzJ+iTCVDI8UFBshg7HxQheFTZAG6kHsRHAmPJdv91n7XCgDBf6MoOvZbDoDL/IkOZrL1CjAEO2b9A==
+manlymen.select.	3600	in	rrsig	DS 8 2 3600 20250921201229 20250907195010 58470 select. 951cISIl4d/3Vfi6r2XL2E3LVqCV3iAQTR/NjFbjVI5dHnLoMxicLeAMao0KovAdHad50DrhcnU0EIokcnZXZSYe0nSigoe1cxCj7aOjOnntYWREsfBDIStrBjSUohd4aMlkx3xcHrkkf82ZgkJg1HdXiBJt+AAnmzwv8baBMCVDj7zX3a2uwUSso5mR7lSVf7RvnR7BJHq0Obw09v2NTA==
 marc.select.	3600	in	ns	ns37.domaincontrol.com.
 marc.select.	3600	in	ns	ns38.domaincontrol.com.
 markmonitor.select.	3600	in	ns	ns1.markmonitor.com.
@@ -1192,7 +1202,7 @@ name.select.	3600	in	ns	ns2.bargainhosts.co.uk.
 namen.select.	3600	in	ns	ns63.domaincontrol.com.
 namen.select.	3600	in	ns	ns64.domaincontrol.com.
 nbjdli86a45k7fr45pgqpngd6fahrcg1.select.	900	in	nsec3	1 1 0 - NNCN4HNFF2FPO8536JS2COVAE57897LL NS DS RRSIG
-nbjdli86a45k7fr45pgqpngd6fahrcg1.select.	900	in	rrsig	NSEC3 8 2 900 20250913212410 20250903075114 58470 select. R81I57pRcIXX+oAHuMILo6byglnJ3rKWahk1j4OZ1m87lmBus2b8u7nE0UejltHy1JIdBoPSwSApG5oZ80aqv3tF0ah/LKVeGmG+KNbtGwf/JNmVl+vZ2vBQYpuosMkzd1s/lJd/KxOZQrKoeWWeq4ya1oK16LG4HH/xgJeUO/EPITPEYnXJDiCtP8Wr1ZYQUealqTe6/JjrPuVSltbYpw==
+nbjdli86a45k7fr45pgqpngd6fahrcg1.select.	900	in	rrsig	NSEC3 8 2 900 20250919202954 20250905202410 58470 select. 8BcpqytNCDuEI/7L3cT34fIaWWLMZq4uIbmrZIc6lLuVj3YjCXhBPldw1j7DAYMYMP1Fw4p6kALiPG9jI2q4PginQRKtOPRkZ/nFOeCFtKLBL37P2QU096w4enOrDyyLPQr/WVd4p3Tgvhg3oM7Qn9YFc+4P/HR65SzMnzSfCBGUUZr25RFQqx8/b5X3undRyF7XTcLUq/y0JBHnHQsKMw==
 net.select.	3600	in	ns	ns-108-b.gandi.net.
 net.select.	3600	in	ns	ns-109-c.gandi.net.
 net.select.	3600	in	ns	ns-16-a.gandi.net.
@@ -1221,9 +1231,9 @@ nic.select.	172800	in	ns	x.nic.select.
 nic.select.	172800	in	ns	y.nic.select.
 nic.select.	172800	in	ns	z.nic.select.
 nic.select.	3600	in	ds	16555 8 2 6293457B3959D23F911311B5FA9CAAE4CA536EC7F61A57171B58A34259099C2B
-nic.select.	3600	in	rrsig	DS 8 2 3600 20250917150758 20250903143410 58470 select. H1mQm9qZx7MHoWXwnV4XlRPBR01KLVi/8k15pmTynQglLhU59Ti5JV9LukQYoL0By9KpA/Fa16w7qa5YwaNdyNsQ3vizeOmbCgXCsPfbtDPB0iaC4BVWcDx4GVao+/GE+MxU8GaC8TnwZB16ugKjEdvi4YQzQ8xOGpqcAiqDIfBmesRvlspXUkBrQgnXLEdfu3famCUq/EG3bVOYu0qSJg==
+nic.select.	3600	in	rrsig	DS 8 2 3600 20250923141906 20250909140758 58470 select. AVyl3atOAXBoYY3s3QhdiI3WM5xup6lmqIzS3LyWXSYIlq7BLA9cdNRgQOlz9aVtV/hIpeckXUybKpG76sq1YMna11f9hFGxuZbwoPOJAyguwI69Aywh7ZKeyuhqJUM3skXP3OAKY0dZgk+ftMsIwvPuRzpvowTc6YwlEsp2Rk7FWZV42KWQpJhyBRVQV8sYg7TFj3IL0wZ9/1YYmF5h+g==
 nncn4hnff2fpo8536js2covae57897ll.select.	900	in	nsec3	1 1 0 - OUL9BAVK8771A9MKUQBROTE5EV9K52SA NS DS RRSIG
-nncn4hnff2fpo8536js2covae57897ll.select.	900	in	rrsig	NSEC3 8 2 900 20250913212410 20250903075114 58470 select. gUk40v/StK6oyspAqTkH235UV3X2yWmWhyUU7TMWXV6Qp8Dm6uUqXZzd/7w60cvTxMxr6G7WOY2gIJCDl531e7V6AuhEzVOOHz55YKYsheLVWoqIiKzrRdk7rGFOAYO4H5KoS75iM13QLKv+ZQgM7NwLRNxGp9n5drarv6CbSW0Jr9DA7vwzTwdwnzGMblyDtm4b3SwdyVx0bKgLPXNmEQ==
+nncn4hnff2fpo8536js2covae57897ll.select.	900	in	rrsig	NSEC3 8 2 900 20250919202954 20250905202410 58470 select. TYUT5BNqQWFHZD1SSmgXfctRDniNzE8tmoUdfL42we8kLlMeezMLiPV9XbD5wAhTZYpYucEpKMiyBhMmJ8qhILRJ7qJJ0/BIO3+3ed8ccqyJpgq/Qt9if3jlYazJbVA0hrAhfMM/u3t8uNChV+wflgi1GCLg363NWCYTcWCg7Ow43BmgL3Uk4A/wDhzPIJTAvwSqLzlT71Gj/ylBafWRnA==
 nohu90.select.	3600	in	ns	bella.ns.cloudflare.com.
 nohu90.select.	3600	in	ns	ridge.ns.cloudflare.com.
 nok88.select.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -1253,17 +1263,15 @@ nortonrosefulbright.select.	3600	in	ns	ns7.markmonitor.com.
 nostr.select.	3600	in	ds	30117 13 2 4D745BCA8E00742CB277C5F5E2469AFBB1690742542A163BBAAC4E1A6038524B
 nostr.select.	3600	in	ns	ns41.infomaniak.com.
 nostr.select.	3600	in	ns	ns42.infomaniak.com.
-nostr.select.	3600	in	rrsig	DS 8 2 3600 20250917150758 20250903143410 58470 select. tuNpZSsIKIRb3Si01bC8KGB2jNUD3ubSoIfwBvOAEog4AT/Q4xPJJYV/1Qd2vUV+5HZEEDDU727QPX9Dz0OEZ6y7BryPmjiN31LauoNjN8tDZ8jngWWd41d/KZpvgsg6un1Dlh8kCxeanmWhrDQkjC3vFAEWdqO5zahFRQ1bRPDbJC+tQdwD5Mwxu/bKd5eCBO2gtwfSK9wK+TFDeby3Hg==
+nostr.select.	3600	in	rrsig	DS 8 2 3600 20250923141906 20250909140758 58470 select. YF1cjfVgMw2/sU07k8zODhB/V1CHOIzbOVo0jS7XzgygxOhwPzxyBhxDtl4UIKVS7SDwq/B0tiYGIKmweaiZ3iWQfkwxZd0zAex2nZDBQhxwOK+wnmT04NfG+52W+6K7D97/mPMS8BPkaG2X7lQzWDOJnCQfZWIFHjMZjkmBo6egq/MWtcWUMFeu3LN8YwJ22QbIIXiI5DJ1jpfoWh4L7w==
 novo.select.	3600	in	ns	curitiba.ns.porkbun.com.
 novo.select.	3600	in	ns	fortaleza.ns.porkbun.com.
 novo.select.	3600	in	ns	maceio.ns.porkbun.com.
 novo.select.	3600	in	ns	salvador.ns.porkbun.com.
 nowory.select.	3600	in	ns	ns23.domaincontrol.com.
 nowory.select.	3600	in	ns	ns24.domaincontrol.com.
-null.select.	3600	in	ds	2371 13 2 3EA2046806CFD2CF807531BE74D0D5997C00A32DBE3EBB8083FBD78538635E9E
 null.select.	3600	in	ns	gracie.ns.cloudflare.com.
 null.select.	3600	in	ns	nikon.ns.cloudflare.com.
-null.select.	3600	in	rrsig	DS 8 2 3600 20250917150758 20250903143410 58470 select. dtAv59akDNhj1GpFNkdM6KUm1Xx0XLthfpvZ1HecVVfyBCdOLYxUUxGKP0WjIhvqAEMZQ65fYuOcvF3RQ0mRo94/m+Ky218giPMC+Jcez3tpLgKqGVN++inPft5B3wqZ1BNutl/86W7B20sPMYPSTyKjF2RiYHfBhBPKOIuXROvWYjapUaA/oNSx7hQJGxwoPLxCt2B4FA/mZB+04cCTpA==
 nuworld.select.	3600	in	ns	ns21.domaincontrol.com.
 nuworld.select.	3600	in	ns	ns22.domaincontrol.com.
 oasis.select.	3600	in	ns	jim.ns.cloudflare.com.
@@ -1314,15 +1322,15 @@ org.select.	3600	in	ns	ns-95-a.gandi.net.
 orium.select.	3600	in	ns	dns1.cscdns.net.
 orium.select.	3600	in	ns	dns2.cscdns.net.
 oul9bavk8771a9mkuqbrote5ev9k52sa.select.	900	in	nsec3	1 1 0 - P8OB0CK22TJVTSEBSR351DOU7BRB2QC7 NS DS RRSIG
-oul9bavk8771a9mkuqbrote5ev9k52sa.select.	900	in	rrsig	NSEC3 8 2 900 20250914024737 20250831020508 58470 select. 9Ncax4DEfQtwZEWYv+LBJKh3t/M81LUULEoRxh5QTN7a8HYYhyxNmKDS+blo24VPaU0L0VJRBeBGoZhnk0VkcTBLOu+60WKOyIwq25WkSiUFzy2vlDWgAz+qn89G+sI2GKd8pqLvOWZpR8QJGwB9pFXOhiSXPhdxKhQ1uHZOwi4naJccsyL6qL7JrRA9ypV5FKYuu1HW6VsftxtKUYKA1w==
+oul9bavk8771a9mkuqbrote5ev9k52sa.select.	900	in	rrsig	NSEC3 8 2 900 20250920020349 20250906014737 58470 select. ZGBjEq5xCTQ7AU9oesnODQllDLYrBYUGOoStbbzerxa2mzd8i1tuv7kMbwRR/TAwTp0PwU8snZOLg7MH/3WUMWaMMAjRD/EnRIYN4z2W8gKsjg79IpTjcVUa3gq3zvOB/sEfubhnFYQwuzdVnwct9vJsSXWwF46GBwPKE28a38LPGJWUawtxpF+jZa5qPO5KsVCBMUtXN3EqR9Ru/rF4gw==
 our-team.select.	3600	in	ds	20043 13 2 DA184FEB22BA2AEEA72B4B6AE93202DEAB99FD9DE45DD899F2D9325C420E9D4B
 our-team.select.	3600	in	ns	launch1.spaceship.net.
 our-team.select.	3600	in	ns	launch2.spaceship.net.
-our-team.select.	3600	in	rrsig	DS 8 2 3600 20250918045516 20250904041618 58470 select. W1bojUIUHmINzeT/bwG+LISnCcj/NataOCSEG82V+oHTAY2SSQQYikjv/Qf0SgK/Cl55W+wn2ctrRVratMJPmTESm4igOi/T37r9uYZbf2RwpEFbQBMDKt5isnlKWCZSRDg00vRvjSM4nf+wGym8Qv+9bDnwv5L/nhTlTUuGvLwoL3Q2sto5GxV64gxd5oB0FqmiqGfYs1d+hAAlY99Lfw==
+our-team.select.	3600	in	rrsig	DS 8 2 3600 20250924043211 20250910035516 58470 select. rxE0tjPH7mjZjCugOE+5QujHmYY3KcLaIqX+gc/wndygia89sp47LvrMXFW1SY1x8uGTh8va1QgN5MY1yqKCaRSR9oWy6yte4CxZ4xfmKKql+gqYXuNXFA22rysuw6VfnuUPeI/sHrjloOfAGJ8Kfrs6xLWcMR6LhlyDXlTIIS4wcIhmVj5zu6DeIlCo4SKXQD0RN2bwpvwpr2DeAWiosg==
 outpost13.select.	3600	in	ns	christina.ns.cloudflare.com.
 outpost13.select.	3600	in	ns	coleman.ns.cloudflare.com.
 p8ob0ck22tjvtsebsr351dou7brb2qc7.select.	900	in	nsec3	1 1 0 - PPNMOJ8NA84P0I897PNOJC0PSOQKQM2P NS DS RRSIG
-p8ob0ck22tjvtsebsr351dou7brb2qc7.select.	900	in	rrsig	NSEC3 8 2 900 20250915060643 20250901060630 58470 select. 5Sa5XJOE1IjtwwbcC+iyWjzwUdg94H9ZyXGh5bTQIwKzPvv+Q98OYPQy/8x1RM6rYwciME6VlVpcVRYisWBpANuPB0fxpklsytz8HMBSSnKbkfEXXbUpwCUJzOqfN+zjV90LasQpAgdiaDuhIZLr8Z7YsHx34fLxm9sVdrhjByYOorrgwfkQtmi6tbwnm5v6YNJdQ+NYBDUfjb3YPhOaXw==
+p8ob0ck22tjvtsebsr351dou7brb2qc7.select.	900	in	rrsig	NSEC3 8 2 900 20250921051331 20250907050643 58470 select. fdpsKrG6Z10/9/6Fi5OCd/0imlqY8InTqsBIRyvPDrUEpAbGzVaa/fMNXUks27vYTO3+MERl3X+SF1GkaAmR2hv0HJbZ9+8c38okvOtGf0jjWI7m0o6vJovDa8uzu2k1gcMVqNENMzTTCEmHEFFvoiJ2+zdUZuhoAI92mdSnw7kDf7UVl7FrlthQhr+EQ+zghp5X7y5D8NX2Rig4YB/Z5A==
 paid.select.	3600	in	ns	ns-134-a.gandi.net.
 paid.select.	3600	in	ns	ns-146-c.gandi.net.
 paid.select.	3600	in	ns	ns-153-b.gandi.net.
@@ -1370,13 +1378,13 @@ plaza.select.	3600	in	ns	ns2.variomedia.de.
 pokemon.select.	3600	in	ds	4155 13 2 AF201DF1ABEE51640B40B6D86063F1F57CE09F58E8147BE3F81CDA3E1B8D55D1
 pokemon.select.	3600	in	ns	launch1.spaceship.net.
 pokemon.select.	3600	in	ns	launch2.spaceship.net.
-pokemon.select.	3600	in	rrsig	DS 8 2 3600 20250916142507 20250902135356 58470 select. Bsb4WYoXcRhDD/Y0BaANcZFDFjpUn7qfO22gQw+gGVOUaoxgB8G3S++M49AMj5YdSO+9o1v0PnkEUd4NyYjA2GMDGP8I07jr2d6bnRU+PfQtuJRtO+hkPUbNCd9kR5wPG10b18+/9xRrbG8qQdH16pP3JUzduJgLtAIo3Ujd+BQmKKyc5a/atAQqfKKotHPAmkbZ6qDX/VVeYez1T4x08A==
+pokemon.select.	3600	in	rrsig	DS 8 2 3600 20250922140554 20250908132507 58470 select. wy1N4eTR/TPQ2vwi/A+JQno7xjPsbRYBDUcix12A8dQ+bAJZc5xZKt5Ol3pWu4wAxdZQ6Q372fjkoc/PClYC+IR00K01VjmzrtVcIKi/xErB0VyfJgEORe6ZAnnMOFne6zt9cyNTFUombRIXFHdnkhM4kX2I417Fh+o5L4JgVP7JQ+pyfvGh0k5W8wXJ39iRR2tHZOOtK2SqhpiuGjGRYg==
 pooli.select.	3600	in	ns	ns33.domaincontrol.com.
 pooli.select.	3600	in	ns	ns34.domaincontrol.com.
 porno365.select.	3600	in	ds	61035 13 2 71363CD1E3180176E42F85E3BDD026579AE37607502E0E5AAEEEB7010824C742
 porno365.select.	3600	in	ns	launch1.spaceship.net.
 porno365.select.	3600	in	ns	launch2.spaceship.net.
-porno365.select.	3600	in	rrsig	DS 8 2 3600 20250917150758 20250903143410 58470 select. Zoy949x2auKygjUm9h1w3ovxYYKFhE4OTDUHzHyUe0eTc6rz+7Ck1oCUz20PdGUP9LBpwaSo8BVJDLvq2ltOc+onW1tzD0zqUV+BYq7Eyh1zmOQW4mHiB3zjU5GAMta/j/rzEQgEe2ytzU3LmnWE/ATaYvg29AxXqMSukLpxd5FVeyo4huunr2+zAs5+o7sn1mGLXXNLBwmhVaEE1+IUSg==
+porno365.select.	3600	in	rrsig	DS 8 2 3600 20250923141906 20250909140758 58470 select. fHwnrCCDSFU86e8O3HHZFDq7YJwgudb3blUq4+uJAHs12l1JPWX7B81SoipWINLglaXD3bnQNCo4/u2TfZkTYxnegIU6LlJy/D+jN0B5ziQ65ZblVjEee1ShD9gsLy4eEqh5e4A+4o264q1WVg3kmqEpS3XQp+DsWYlwloAqPNsqQDBMJuG+vsifX32YK9f6pAwQXvTnuqbrLMDYI12/bw==
 portal.select.	3600	in	ns	ns1.hosttech.de.
 portal.select.	3600	in	ns	ns2.hosttech.de.
 portal.select.	3600	in	ns	ns3.hosttech.de.
@@ -1387,7 +1395,7 @@ portfolioinsight.select.	3600	in	ns	udns2.cscdns.uk.
 powertools.select.	3600	in	ns	paige.ns.cloudflare.com.
 powertools.select.	3600	in	ns	sterling.ns.cloudflare.com.
 ppnmoj8na84p0i897pnojc0psoqkqm2p.select.	900	in	nsec3	1 1 0 - PVDD1GKRT6BK4A9V295KDO62JVN92UHO NS DS RRSIG
-ppnmoj8na84p0i897pnojc0psoqkqm2p.select.	900	in	rrsig	NSEC3 8 2 900 20250913033742 20250830032944 58470 select. 6ENnrCqRWe5OlrgS//2DbA3P8Ain9O1bGEqRYoP7CgT4Tk2s1hASTYqHr3N/3j7oelix+plUoDi0Lp02uKTSwn/faZAUyTpTXb05YwwZH2yrHisC+eiCiTLpUeQ4JiHKIGNU+wWSaxOxjLu7Sg/danPBSU2JlEnHUebQOEgJc9s7dzXclAQJtN+vKr5X8iJpzJsgVTsHw/YAmLzAeO+qlw==
+ppnmoj8na84p0i897pnojc0psoqkqm2p.select.	900	in	rrsig	NSEC3 8 2 900 20250919025712 20250905023742 58470 select. fLQmIdG+BVcO5XsjnH4XFN3HfLqylgnTuYM4ATK14TaElkLcLTdAP0ricn0tpq+hxWGzDtcpNvbGJriU8MS6HrAhQAvpP2j52pucK3k3j9Bmg735JYe7AytDGXi95rX7Kui3bgS7eJqmbEo6bwufRS+3pK2blpHx4GZppEcpwUvy8On+0EGTguxM0iOG5DekPXJ3ui4XS3TxDwTaO9nZeg==
 primary.select.	3600	in	ns	ns1.cyon.ch.
 primary.select.	3600	in	ns	ns2.cyon.ch.
 prime.select.	3600	in	ns	nsgbr.comlaude.co.uk.
@@ -1400,7 +1408,7 @@ primepicks.select.	3600	in	ns	ns26.domaincontrol.com.
 product.select.	3600	in	ds	26238 13 2 CC336B8A970B2B776A053088E52D3CAEDDE145001F1837D40F5D978122B05C77
 product.select.	3600	in	ns	launch1.spaceship.net.
 product.select.	3600	in	ns	launch2.spaceship.net.
-product.select.	3600	in	rrsig	DS 8 2 3600 20250917150758 20250903143410 58470 select. 3iWcFkcGh5bha5215Fcz39dLLdz0s/bhF4tijMeixfbVDgoFi5OdeW7RoDkPZh1VN2KVIt7QNVqV+JX/bEgCZMG0lqkO7XZgxPBU201EnEOsizelEVkL0oZwzwfyFIYkYOH1u1lM49WuGn/RzSmuld9T+pieYI84XLP2s7B/kO5pRnx8S1N46Qwikvt+q6flBzMVkpGPVsJC/UI0UHt6SQ==
+product.select.	3600	in	rrsig	DS 8 2 3600 20250923141906 20250909140758 58470 select. b+GPZKRXYIvc1FmlBsRWPNN1FyR/D6voLY5yaTpOXhZWaOMaNrmadJfjHnNJwfcqnpQkBcxTK+tJMdgxUH0ChLjgTONhH1PED3iL6sSwNDyVnUTLZEcarEhNQHZHE/9wLtAXT1Rve19Rdv6+8VQVd2ux9yul+I7UHREOt1jHgWvkJPIpeZhG9K5G368LK7y5XlJoeQkbYiKiQKen0psS+g==
 prompt.select.	3600	in	ns	dorthy.ns.cloudflare.com.
 prompt.select.	3600	in	ns	randall.ns.cloudflare.com.
 property.select.	3600	in	ns	ns17.domaincontrol.com.
@@ -1418,9 +1426,9 @@ psychedelic.select.	3600	in	ns	salvador.ns.porkbun.com.
 puaqh.select.	3600	in	ns	autumn.ns.cloudflare.com.
 puaqh.select.	3600	in	ns	johnny.ns.cloudflare.com.
 pvdd1gkrt6bk4a9v295kdo62jvn92uho.select.	900	in	nsec3	1 1 0 - Q65438I5D8CSICIA1F4QS7NDGKQ7NSKF NS DS RRSIG
-pvdd1gkrt6bk4a9v295kdo62jvn92uho.select.	900	in	rrsig	NSEC3 8 2 900 20250918193717 20250904183857 58470 select. gt2zeGLHG3xgKP6SyYZFFkoGvAAcmLGuGUYNAD82xP2NqfTT3oGqDmnJPdyzXQWd3CkvMbAxVigh4Qsk775QnzYCyGNgUmBh+jFYzRS65bbuP1EQMxGKdpg+OuJhkwNrJm9d2DFgcIdD/h2s5I9BqzSlJ7mbY9Y5BlH6mzPSbq8zgpiuHC2ZA8atmxNrp/KsezVNyHlOWz9OWgEr90LCjw==
+pvdd1gkrt6bk4a9v295kdo62jvn92uho.select.	900	in	rrsig	NSEC3 8 2 900 20250924191457 20250910183717 58470 select. DJs1OGWUvygfvl6O0JDGCc2ApZ6ysbA0hyeJ4oqle3wtABoLlOonqHTVAVLlMJd/Zd2uRs9sGjXdfuple/d9iXhQlmsh8asEbgQJnO0HaWnbACFAAM5DVI1NsU9IXkpS6YGNyz12lOSawcHgxH7l4he+ntnawLBL6R+/RP5VM2ilJWtel7nf8CK4cl7vBLVTfFQAVbKFdZ8oAxfNSSVDQw==
 q65438i5d8csicia1f4qs7ndgkq7nskf.select.	900	in	nsec3	1 1 0 - RP0UIA569Q4FA9I9KKGK1HQIVG11VCJ0 NS DS RRSIG
-q65438i5d8csicia1f4qs7ndgkq7nskf.select.	900	in	rrsig	NSEC3 8 2 900 20250913155957 20250830150726 58470 select. vX8x5kizBl1K8ROshx74E5ze1C4zgC4lCuggAh20eavnbveQjMK3fHPJzQMDNFHBNa8HlOfhNBklKwAAKXrSCPLN0CVMwoRE0WDS9904eu78vv1hyOkVQ8CCZrJ8+tuy3pA6BCMFSks4eDvZSEyG3kY25KtelQfyR+6RGdAS5y0sqnItgwiXg5aFhMYyvUQO/txt9Xg6NtysvW1RKWOqKg==
+q65438i5d8csicia1f4qs7ndgkq7nskf.select.	900	in	rrsig	NSEC3 8 2 900 20250919155916 20250905145957 58470 select. wzfclMkq5b+hgZUBPoD0udQEUEpU8upe6svr32nakhjWmYyI1wSz5aNRWCgU5ZUujArrCghYebOKpnyt4pxNvLIS1qxzGBkt5ilhMOQHZM45f6KtIM0aHzuoyASQaR4nWzHNJNWjigQYTR5sqgAjI02V1i9815N/4tFF2GSG4enRElyrV8OPPLu9SPC9xtUAQThGFZBjrSg14q1zTnS0gw==
 qh88.select.	3600	in	ns	dell.ns.cloudflare.com.
 qh88.select.	3600	in	ns	lakas.ns.cloudflare.com.
 qq88.select.	3600	in	ns	kallie.ns.cloudflare.com.
@@ -1536,7 +1544,7 @@ royale.select.	3600	in	ns	fortaleza.ns.porkbun.com.
 royale.select.	3600	in	ns	maceio.ns.porkbun.com.
 royale.select.	3600	in	ns	salvador.ns.porkbun.com.
 rp0uia569q4fa9i9kkgk1hqivg11vcj0.select.	900	in	nsec3	1 1 0 - S7K20UO87OFHDP3KEKRCU53LLRT70IR9 NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-rp0uia569q4fa9i9kkgk1hqivg11vcj0.select.	900	in	rrsig	NSEC3 8 2 900 20250917093942 20250903091917 58470 select. RUTWqcUxXrjx6igdCRnfl30WdDy7CX5gLgqNmv+PGvrhpgd/TnYNKBCFbqwzTzMA0yJrIcgJYqZR+PMmSxObAW4Cjg0V+wxwNykc+k17/PyVcZLSGFLzHmL9wrgYvkiHMtX3iR2V2MEjWgDozD0qE/BSDw9mAcD5WY2Zhht40aI3PvkBdVkrgbfclxqRpRTNUtmKUaB59MzpCaLiA7b0rA==
+rp0uia569q4fa9i9kkgk1hqivg11vcj0.select.	900	in	rrsig	NSEC3 8 2 900 20250923084306 20250909083942 58470 select. 6EcImcd6nhYyNBGBF5wiJqSB80A9hAFme8ebH7WcA+edzvsKnN40L1WUbp1XUO3PQO0GWoBMgvhEsIyiH66kDxR6hHz5aeX1uF//GrjU6DT1XmH74PHGXJAxmGWOLUX0k90A21lcN08TOrPiod8AQIWpTEhAMqD3e+K1pRARKJOuSkxK1EszVvV+Ji/hSq3VV5IfKgNG6M6n69+OPVy1Fg==
 rr88.select.	3600	in	ns	celeste.ns.cloudflare.com.
 rr88.select.	3600	in	ns	ruben.ns.cloudflare.com.
 rsvp.select.	3600	in	ns	ns1.atom.com.
@@ -1544,7 +1552,7 @@ rsvp.select.	3600	in	ns	ns2.atom.com.
 rubiar.select.	3600	in	ns	ns03.domaincontrol.com.
 rubiar.select.	3600	in	ns	ns04.domaincontrol.com.
 s7k20uo87ofhdp3kekrcu53llrt70ir9.select.	900	in	nsec3	1 1 0 - SAQ8RSL33LNJFBVN1EIAACIVEB2P379N NS DS RRSIG
-s7k20uo87ofhdp3kekrcu53llrt70ir9.select.	900	in	rrsig	NSEC3 8 2 900 20250915205010 20250901201351 58470 select. N2SW5uRMJ4jnKjpPDkgvZw8nwsKWmUw/Bh5gLOvQXJnygZCZZ3Zv5D7Ts3Hu6eEIHBxM7Jvz8wYjaCEGcG5nzwq6xc3VwSqPIPqoNhBPvpvGLOZrqrn02w3UGtqCa86UIm+T19p1kxM61h5YCW/ogLRucGHbqc3CO9YvA208KpgRw6h0UjS7wImSgYPpklB2LDN9l44nK2hYdJXRYy3j+w==
+s7k20uo87ofhdp3kekrcu53llrt70ir9.select.	900	in	rrsig	NSEC3 8 2 900 20250921201229 20250907195010 58470 select. XmTXEyy4jCqIYkswqzlD+2IAFinVn6IgWwwP/y8dngJp8uG/da3FhBBIfWfsMDSI4e9gMqje/67mdu001s/b1fpYKL2hyoi2JToita7zoQKbvx0WhSIQVNRvd3xGMKiR46L6mQswnKjyFBi6JGPSJJ36NY1b1yByXEhza4oKOk3yRZXu8zybBFtDLwrHBtIJ+a67yNOxL6WzfFmYg7++Rw==
 safety.select.	3600	in	ns	ns1.ms454.parklogic.com.
 safety.select.	3600	in	ns	ns2.ms454.parklogic.com.
 santander.select.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -1556,7 +1564,7 @@ sapphire.select.	3600	in	ns	ns06.jpmorganchase.com.
 sapphire.select.	3600	in	ns	ns1.jpmorganchase.com.
 sapphire.select.	3600	in	ns	ns2.jpmorganchase.com.
 saq8rsl33lnjfbvn1eiaaciveb2p379n.select.	900	in	nsec3	1 1 0 - TPKOIHHEU7J0P98GC89D2SH0IA705FO2 NS DS RRSIG
-saq8rsl33lnjfbvn1eiaaciveb2p379n.select.	900	in	rrsig	NSEC3 8 2 900 20250915205010 20250901201351 58470 select. xtCxsVhdyQWYJbxHYiM+PF6U8nklBITlE7jiEByYSHCKaurN/uh4o94dxUGOoNUaGfW3ECOgrwVbhij9LnjtUBDieoGKn/BFt94OrPoLnONEpSuvZfIOntTVvI9zBifi/SOR0JxdsxHj3MeVUyz4CT/FC/OOv6F735PNgXLjfZnsCfW4hOvVW29QuafbLCQ2cVEonCmBxwvQjnSE0Zqp2g==
+saq8rsl33lnjfbvn1eiaaciveb2p379n.select.	900	in	rrsig	NSEC3 8 2 900 20250921201229 20250907195010 58470 select. I6spEwAiMubcsqlJgaPPBQTHGX5p/g7XZp57ADi0buavNGAeNOI/b34T3pn5p5SffcGZ0pvC2DETIGCNZKpmvmjQqLUHuwUKjAa/43c/AXOK6azbh12DhrLp3b7LrVOq/Jj6gnahDYbefAbio0iflSaRSJFJ2w41BLG+aUdJMeq4HkbSPIbbtP/TrWj3xFo4M/QDiCXtmCShpS6ob9j3gA==
 satori.select.	3600	in	ns	ns1.greengeeks.net.
 satori.select.	3600	in	ns	ns2.greengeeks.net.
 sbtc.select.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -1571,22 +1579,22 @@ science.select.	3600	in	ns	ns.udag.org.
 searchmarkets.select.	3600	in	ns	ns03.domaincontrol.com.
 searchmarkets.select.	3600	in	ns	ns04.domaincontrol.com.
 select.	0	in	nsec3param	1 0 0 -
-select.	0	in	rrsig	NSEC3PARAM 8 1 0 20250916110028 20250902104542 58470 select. YSOSQRcuO3FkiFIIQzt+vvkdqTjKS0wbk8xClFOdBqlfWTcKYORwkzOAEnJaryefUTun+Icno7CfyQGB+CwymRD2CoQxcYFS76Ylvz+bXLDdVEBBpVSh11DkMc3KMNEbJI0nXNFwKEb8jUcUpZ9DCqeJLEvnIJdSoAqg2bBKluVcYOpqcC2iNLUUL2bDExCAzlgRihB+nhY4qEe6oC4SzA==
+select.	0	in	rrsig	NSEC3PARAM 8 1 0 20250922103547 20250908100028 58470 select. 1etTEehZRueQdVlBnjANPtI94JP1Qp403Ikfe1MA9Dve+M8RWDKFXMSotQ6vb08uH0ldbSJON5p1+q2rSg5QSIPZOtDJwoaPr6SboOcN5C9q2qgUUQZJCPuqQspaqa0PSvexNJotxk18i2VhM66U9sPtaJQUdmIw88hUL6NgVDu15hH9nXOL7oX9tAxJ4oP4BLzgrmaVaJ/GaeuNqrS2fw==
 select.	172800	in	ns	a.nic.select.
 select.	172800	in	ns	b.nic.select.
 select.	172800	in	ns	c.nic.select.
 select.	172800	in	ns	x.nic.select.
 select.	172800	in	ns	y.nic.select.
 select.	172800	in	ns	z.nic.select.
-select.	172800	in	rrsig	NS 8 1 172800 20250913052315 20250830044633 58470 select. M0VnpBnIYjPaFqtBoRGe9l7MQJe2d0/Tx9ToP9Olre54JgTnvjvfZcWRTKqu9Wq0A15i3DqaopXLluyFmt/C2xNNd/oG7vBxU0aduhPBnp9pR6YSLAE3C9lMi7iRl85uZvba69vo9SIvtSi9bT+ltatYrQ4ezk2J+HeUamVMqu3Oj7906baaJx4BITbhnRovfKBo8Nz6lNaC9eUSbrMUQA==
+select.	172800	in	rrsig	NS 8 1 172800 20250919045931 20250905042315 58470 select. svCpvMOBBd8ckL2WUROwPd/fqP7G0hn0ivuhyPhzZikbord1bHUt7Ygqtnhv8K2xXpus+jBZjYmFDiogWot8McSuhfeR9b/1nXNE0c9d71PvegQ+GyjO7nSy3a/KAlkJMTDQpgBtTtllBPQMs20/Mub24b7JliuBksH0XChDQSdDz9kugM2wyySfvpYbKeZqFlj+8iompoEggriv4Itmnw==
 select.	3600	in	cdnskey	257 3 8 AwEAAdiLAd///74pu+N9smFbCEWDFY3Kqc87dWcF8ne8fq4yXjYF8HBs109lIX4Cg5VrbLiOqIKRDuO9QC7SCYk+4JZQKDiLBI5i1d3kjoCEpfijjs8v54b5zqjRWVGaPGdAxchejHGoAJN8MOj5v5H8JuNcun5Rp83Hpbr5MxSVFln1220viOFPIzreXvVFjlJPEAUT4NQ2aFdfYQFOqs6/Wpp7oQ/LgQWsEsFIUhfO+VghoKCmZLFp9e9WHpys1cTnSreBGzUs+NLKikedaSNg5gIHihAadIYs2XrE/AIgGjU57adUg3fEwGa5fE/DK5SoojVa8oDFf0K02tOUCP6rm2E=
 select.	3600	in	cds	44725 8 2 5EE0DCF207475272E3D80571D3454D3EEE5753F3D71A102B58D38D14937EACC2
-select.	3600	in	rrsig	CDNSKEY 8 1 3600 20250916095811 20250902093359 44725 select. UxcLBL776yNp0FKl77NLGhOIDjUzO4cE3w00ciY66x7Hb4xh9kToBOBA85fL+MlnZH50A2+vT/RwEH0j72L14Wj9CmEgRkHsnbCZ6/OpR1w8warkYD92xwF1do6e1+k0IPh5lCvnGYEuKDEOoRYJg8B2FYbIcpuxJRYbU51mZVo1gQaTyUjFILl3rG3HnAr9+9tjLmr0MAwW8Urc7G/jxT04HNO6DMJoOw8B4Q9AdOF3zpcgxheEr4qF70ylI+QeWa39DYwRlYuycejKFNItSFI3d5LQsaY6bRpFsC8P4cKg1YVdgNLkVvcsSB7LdCGiPsPr0+i7iczD0Wj+uhyaGw==
-select.	3600	in	rrsig	CDS 8 1 3600 20250916095811 20250902093359 44725 select. ZqTESoBYLszuwCcKAqZUvlhZ2N0VZE6gYW9+Y9ydS8ZM3+UH7oOLKw1NFDxFuIXejZKtOOpr0SLr3+fyNgV58axQ6S24bWRUp/m8a5B5OBQqHs1sam4MZU+CukXQX71DBxbdi0yUXQiCMhfCGEjsAJxo9DUFACkc2ipDfRiwDUofAK3ZfWziQlfYsZl/4vLnhcr88TwG55rbF2mLMHWtWGlPkWSXCmYNuQu6Y4Q5FyHQp4Kqu42KroUSMueYrWXH8FgPPnijWDIISm7nbaRL5MZOgZXnZT8zwKrZA/H9vk1EWfBnC/cAJX0if99Nso/e67cxUOnzouy1BGpy4nRBPw==
+select.	3600	in	rrsig	CDNSKEY 8 1 3600 20250922091032 20250908085811 44725 select. gYgRyA4mPndK2XCfnYGddY3zs7qfh4UWfwDCkEFVj9cxBu9Xky9dwS9gLnoa7fQXmlsO6DDMIEZbxPeEdMfEqUz4El2t1rAj8FvH17thPA+nchYTXmOcQIkH0WD0CikrWOGppRIvz3zHU4Inx83f2N2hIlNPc4x+r7czIH60trZcvsxBhRpTyZr19UZA+9K0MzCagwatILEg7F5jxgvxEZUifmfFkdOIUoM8FlV+Qf9kc+oyJc3mcpiCvhLCZ+aohKZklgMG3xL3jnt9+qs/gcRXz9C+rVH03OcWZEAQlMqxjf6GaRLTkLEy2PO52YQsyJppwawziyXHy+hPDDgAug==
+select.	3600	in	rrsig	CDS 8 1 3600 20250922091032 20250908085811 44725 select. ZVmMSHOI4OKFJsoSv/YTK1tzKPHq1U+aY2UnVf5FM5P3LsfBjz2ToIwFgTg1Tnssp5qsSwiTleIdo95rrWk7HLZ96xnjYiGoPTsPlMzDp6QGmvFsLW1fVt/Z/KRhQGV5MSGvShClclDVIA9XADwjn3JLHV1R79ey1vY8rWM1lhPYBNfX44lzugT0F0AZL9ndko5zrgBB3CjmKAtCbNt0rt5bUNyP/qTkles5bert4XqQPWoa2bZsewKDqE4d1LlZld+VRVwidX18ofrKOnK8CGgZnx/mcjg/zzlKjHSmaiY9t8SscytQEeXx57PvNe6fqVrb+gTmyrm1uv7KB2vbfg==
 select.	7200	in	dnskey	256 3 8 AwEAAfhxu7jmidDVpT+HgNgSd87IiOKEFn55SR5BJY+kwTP4J59HOzw7kWZ1duG/kYrcPb5GyXPyuyqa6cNsh/bru0M/10iiZlEN2+Dzt6iOm/dituKftw8vdkCPlpuaLG8fJBmRPPfGA5H+hthSXiJ7ZkPxz5PYsQz7u3o8SeGvvW5WToBYi7FkMm5xR/0RwV69k8EO0o/slt6HDKhvpGPApKM=
 select.	7200	in	dnskey	257 3 8 AwEAAdiLAd///74pu+N9smFbCEWDFY3Kqc87dWcF8ne8fq4yXjYF8HBs109lIX4Cg5VrbLiOqIKRDuO9QC7SCYk+4JZQKDiLBI5i1d3kjoCEpfijjs8v54b5zqjRWVGaPGdAxchejHGoAJN8MOj5v5H8JuNcun5Rp83Hpbr5MxSVFln1220viOFPIzreXvVFjlJPEAUT4NQ2aFdfYQFOqs6/Wpp7oQ/LgQWsEsFIUhfO+VghoKCmZLFp9e9WHpys1cTnSreBGzUs+NLKikedaSNg5gIHihAadIYs2XrE/AIgGjU57adUg3fEwGa5fE/DK5SoojVa8oDFf0K02tOUCP6rm2E=
-select.	7200	in	rrsig	DNSKEY 8 1 7200 20250916095811 20250902093359 44725 select. wttFfjVjHV8YAks3hX0L9Elr6g4Wkty+WRhYMNekAF+owzNCpLeYzMZd2fKRQjjg7t+oDqtcvW4TPMS+QOJeXYJBA6mcukyVZNTk5k5mQoEx7XAnc/RwqRyVTqfZ4D2Xkv640ewPfWm2s+4XER6a2d/6m5hKGot5Y+64gV7fxbl2FR176bkrib9WVvLgDFbZvvAf+swBbM2amwsvQyWqM2QUUPmWxAwGfLOsQreqGovQjOkhQyylCVAFh6naQozSFFyPYwmm0a+4ZYBdQzuTfcQq1PNDMmUYMMeCubg8aXQCUUBJ9dvbys4ZqUNEHNPC1rkBRMJcN/Mg1TJoA1gh1g==
-select.	900	in	rrsig	SOA 8 1 900 20250918193857 20250904183857 58470 select. YpjfVev6gU/Ng4VOlCH9R6o7XeOXi2kGHlgND6FDePHrOIs1dbHorrIci4frzy/e9KYu1gYcuB3rLq7EkBzPbFJO4WlHZZHNkuVilVTYpZIM0eGXArMi9rY27yCFe7AZuxu3j2jULol//T78Ms7PIvstZSiqAL2lMd0NWgl9eWIk5e0K9rcHmslw9bbgDELkSd5P4AA6voDR0DIXP3q++g==
+select.	7200	in	rrsig	DNSKEY 8 1 7200 20250922091032 20250908085811 44725 select. l9mDzjKwOINjRur5fvW4khE19wHrpr+js6iSOGCJbwjAjIrRp1Sd9Xzcxd2byEWns8MiHzrp/uw1jCm4xCwguN2FGrvpzIowR3IJqNpWyNVfLnNgjNDpcmZ2ala9I/xgyCqM5zy9eIJ886IALSDtKzJU1HpF9M8SeQzFQPswyDQFH10lj5uXFLhoxkidho4WMWmkpyXkG/G7n+4rwhOXSUy44jGr0iFQAUKFwFdyc9YFoTRt8ye2Wah1lUK7j5b6vzHldd4wtdYlS6/+7DpZmfPxtp1Db43gt8b+2/QcUuTDLJB3eLf7PP09rP4Vt430GCJxrmUGW2FmCsekqKgmyw==
+select.	900	in	rrsig	SOA 8 1 900 20250924193717 20250910183717 58470 select. M9hlYYg2lnOVard12EXbcWQEaUpnEhYqkDeIHSeoLPq4MPj1pIRHpkjtQK6zwistM2VW0LK1PZb/+/j9L8CDCJxJF4f6idtMBmsAqcIITi84h2fHMRgUxzrGrYa/u8BVVyjK5IgRVYMWbGqQySMfZUfGa6L5UzbqUdrIsXtug8F7jQX36gWQzb3rBaueTBfdoGqwD8DRiVfLuGV17dobIA==
 select.select.	3600	in	ns	curitiba.ns.porkbun.com.
 select.select.	3600	in	ns	fortaleza.ns.porkbun.com.
 select.select.	3600	in	ns	maceio.ns.porkbun.com.
@@ -1634,7 +1642,7 @@ silicone-hydrogel.select.	3600	in	ns	ns7.markmonitor.com.
 sisaisolutions.select.	3600	in	ds	41504 13 2 FE87B48DA74FEBB1220B39428722EED8313EC895C0883EBFE6F177FDC7B2963D
 sisaisolutions.select.	3600	in	ns	launch1.spaceship.net.
 sisaisolutions.select.	3600	in	ns	launch2.spaceship.net.
-sisaisolutions.select.	3600	in	rrsig	DS 8 2 3600 20250917150714 20250903141958 58470 select. Qx47HDjbE8aNnEPaOtnYTI6GWgGoWlVmM1hFXXnIjrzwWJcwD5HMbZw9mXeKBBAHMj9Xpg6GqyGeblQhKVAjrITBcC0XvUYjvyo/MTDZcx2g+1V8rXnD1g8GrBdQozsxl491AitnZSoRQOyGAk0FIb7OeKOthTYj7xvjTkioBAjLb1WAaLKgEI3EJKv3wk3BZYXfhcdd3ZQaBi86q1XAmg==
+sisaisolutions.select.	3600	in	rrsig	DS 8 2 3600 20250923145152 20250909140714 58470 select. ERgPmDRT6/x0uPoSBfxkwdpJTbMg+c+8qFQYToB6j5/GW+DIe27+E3rf/SCpVcEHIG8HJfTtlF4hH+3P5D+2fgVsqmcj8/O6VeJzK0Mn2AyoGUtg81mePfa+EHcVBuuId50GbKAnpHq77UmlMFJEB3UkrBd8U420AOGDRwO0+y165kD8ru8VU50AOMPrnvvUfqJndsb8cDzVrPcgX2r0QQ==
 sky88.select.	3600	in	ns	destiny.ns.cloudflare.com.
 sky88.select.	3600	in	ns	kayden.ns.cloudflare.com.
 slug.select.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -1693,12 +1701,12 @@ swiss-life.select.	3600	in	ds	55095 13 2 2BCF54CDAACEF2EDBF90A4F018A6D6580A50FA8
 swiss-life.select.	3600	in	ns	ns-105-c.gandi.net.
 swiss-life.select.	3600	in	ns	ns-109-a.gandi.net.
 swiss-life.select.	3600	in	ns	ns-41-b.gandi.net.
-swiss-life.select.	3600	in	rrsig	DS 8 2 3600 20250917150758 20250903143410 58470 select. MGh+Y9M4OEHlN+YvCyEaK4AN4mjwmcG9b/8+voFAWfBnW7cjz6twLy2qxy5Mh9GwSSNFaVH3TfE05amKAydLUpThKIHJa7n4W4gALl4M1zpxoHG+72QkfPhZ5U3k81Z7VzNtg/ki6JV6/4SrTMxyEDpSOTwmJaBCK6Vq9yp74Ib9xXdRfW9J6/ie4XMhf6Os5s98qvbFRLEWfZIyeiMJjQ==
+swiss-life.select.	3600	in	rrsig	DS 8 2 3600 20250923141906 20250909140758 58470 select. R/nW705ct2H2npJYNtDTpb0eWDEfTRtMq4YRN+8Tv2vEo4pow63xbZ1S77hS4iVTi+2MZ8sBeAx/SQ/GrK2OjTtE+w23jOL+a6zPmQq2JJpsL+NEGLcw8hxy07Uh8GRmkSfWRCcEo0JMnQYH7enerQeG46Jdhw17Upvg0t1sh+hRYHK4zuBBYj9FW61LNLK3lqXPC54cyspA06dZM1VH3w==
 swisslife.select.	3600	in	ds	38376 13 2 70C9E7AE31E10FF6DE0317F161344FAD51DB89681D1498AE9A657F9B04C016DB
 swisslife.select.	3600	in	ns	ns-217-b.gandi.net.
 swisslife.select.	3600	in	ns	ns-243-a.gandi.net.
 swisslife.select.	3600	in	ns	ns-25-c.gandi.net.
-swisslife.select.	3600	in	rrsig	DS 8 2 3600 20250917150758 20250903143410 58470 select. sShXdRu0i8gTDgDlkYm5zStWiQjFnAg+eBYpUT/3rKI3InVq9ruRe/R9zyRB4YkbgHCL0lD8feufW52Fkvy/KTOhU8UHI7o4wfRaubmzi+PQgKMqdjjaKpMaNDgqHse2eHIyeSZMol0PLUVFVvUK5cA6mpG8s8PzqxxjwF5wZ/HkGxqZhh8JREGI4gcR0Nl4QEF+jMVxrKVrJqLXbfrXyg==
+swisslife.select.	3600	in	rrsig	DS 8 2 3600 20250923141906 20250909140758 58470 select. mIsTijKrxgd5CAeD/M2yK7Zi8lZoDfeML/stk6Ht+M1xFqhhGDKwFMdqT9u9nXzX8lqJXrBe03uyrzkkixGDyWfNNP1upNw2K3lW5nJvE/kYAkopFyJoF2Nrf/Si1/Qdu0WhOU1znnV0FvVFE6+3MIduMt2KRaj3Zon60Ki1DV1JJBWFc3eKoWYONfHjXsw+kUVPGgC/YHBBnWopzAC3Iw==
 switchup.select.	3600	in	ns	ns1.netim.net.
 switchup.select.	3600	in	ns	ns2.netim.net.
 switchup.select.	3600	in	ns	ns3.netim.net.
@@ -1715,7 +1723,7 @@ t2.select.	3600	in	ns	ns04.vandalay-industries.net.
 table.select.	3600	in	ds	59497 13 2 58C195B9AB2E671FD61404BFFBFCFAF2E63B211EEF0F6713FF8EDEDDCDE4BD9D
 table.select.	3600	in	ns	launch1.spaceship.net.
 table.select.	3600	in	ns	launch2.spaceship.net.
-table.select.	3600	in	rrsig	DS 8 2 3600 20250914114312 20250831112945 58470 select. TWAaN6wU+IGNKa5+DT3Uy3/RZwt2sHj/QMlw6y4eHYvBrsYzOBBLUIl+WozeQn96mzTMGPQGGCUx72mMdVqzD0Z2L2FG2fa3M6Gt8Cm696qcYXnWGlWKhauLrsGxYzfiszIa+U4zTeoB24cCdLsj7akDrJp8OIg9uUy6Ml0RN4pzdWphdGfaXbXOgMEEOpM66z1wwXtfGiV4P+oslHOZNw==
+table.select.	3600	in	rrsig	DS 8 2 3600 20250920112917 20250906104312 58470 select. CzTw02aCpddgobRLViyyKfEj2uBOaobdgRw9hs/f0eOh2qyOD/7wZp9OmrTf+NUmcIJtmUOAQkSLvAGJu1Xew1GmkKvZiPu+5KdOvUVqhbtgVM03zYz1eNSl8X5UzjJqvw3IRq3F55JFA6ktBuJCGn2St628dD3tP3mJaS9EiB3jpYCKWXhfkMpAFtHK/u/l0J2wYowgODBxbsx3FahiSA==
 taketwointeractive.select.	3600	in	ns	dns1.p05.nsone.net.
 taketwointeractive.select.	3600	in	ns	dns2.p05.nsone.net.
 taketwointeractive.select.	3600	in	ns	dns3.p05.nsone.net.
@@ -1820,7 +1828,7 @@ token.select.	3600	in	ns	ns2.crazydomains.com.
 tony.select.	3600	in	ds	2371 13 2 07C6FFA331E9FB32E998B09F7582DAF528A30D2C634B6147874BB5752B22DA74
 tony.select.	3600	in	ns	iris.ns.cloudflare.com.
 tony.select.	3600	in	ns	jeff.ns.cloudflare.com.
-tony.select.	3600	in	rrsig	DS 8 2 3600 20250917150758 20250903143410 58470 select. myV/U+SJ8Tbw2vSSo3PNg4i3cPPg8KTht3aTqaB+q2q8iRdFt20QFVVPsoEMeDD3ZeyMhU6ppxWjtCFQrkOGqpgKKjkqE7YhUf55HAvTzZBhW8nPGKU9q1qWxhxts5or/8Di0QdM6MUFYslE915DQ0U8Z6l2i+B6145irJiSCvBLOV7r0k95l0MviW1wwF3EC/zZT7KRGQave6UJMxHZiA==
+tony.select.	3600	in	rrsig	DS 8 2 3600 20250923141906 20250909140758 58470 select. gbX+puIYSTOZCnX+IDSzGQ7M5A2QB88VtyJb+tTps8Mps68fJDX6BPQiGk8FwuiUFddVbROqnRjItdtkcPFiHH+fFOE0Z9CigOl2TgRP5wSl/QvwO7nW1yaUTJHZ/4Rd/nHBshdK3HNuyXn/YYbcwiWK7BHT5zpl+mQ+J1TJHsS1G4TVAfI1JMvkME8u77lg8Vic1E8Ua50u9wOGSmITCQ==
 touchless.select.	3600	in	ns	curitiba.ns.porkbun.com.
 touchless.select.	3600	in	ns	fortaleza.ns.porkbun.com.
 touchless.select.	3600	in	ns	maceio.ns.porkbun.com.
@@ -1830,7 +1838,7 @@ tour.select.	3600	in	ns	fortaleza.ns.porkbun.com.
 tour.select.	3600	in	ns	maceio.ns.porkbun.com.
 tour.select.	3600	in	ns	salvador.ns.porkbun.com.
 tpkoihheu7j0p98gc89d2sh0ia705fo2.select.	900	in	nsec3	1 1 0 - UBMG6ULN3HQB27NQLLO6TGO9EPSRN79V NS DS RRSIG
-tpkoihheu7j0p98gc89d2sh0ia705fo2.select.	900	in	rrsig	NSEC3 8 2 900 20250916110028 20250902104542 58470 select. 75PUUB/siZq6Ih2Kzw6rJg0+fgEgTUHksCtZO0Blc3DMOj69tn27/krzQZ6UBo89CwdYPA1fkj0pqYmidGW+r18AHY8PcLUfV0AhXPLMFZEwNNwkO3bMTiftuBt5zsslV3fhNV9v/3X7DjTrL6SI0H0L0jEMy3iKTKv37pPZ0H0ipbPDFtUtrSFhiHap9AAKm9rxMSiGy969rJ6zJrCu4A==
+tpkoihheu7j0p98gc89d2sh0ia705fo2.select.	900	in	rrsig	NSEC3 8 2 900 20250922103547 20250908100028 58470 select. 7blSQKB2m7TtnlELOQ/g/I3kKLPPQeATEaQEZamN9133t/gHez5jIxUDRRHZXVi+L2+Kf9tRT9DPTsMhWVNArE8kGayTRB/sQ+RcqJjfjloib8isvTpnBtRR/xqZxpgwSChUmo76qdHijndbMvEJkoicp8IQZuar2ZgpLR2k7QqbnUEj/14Hk0QJ4wmfoJm+/TUAH8HkAievprn0tLgiUQ==
 tpriority.select.	3600	in	ns	dns1.cscdns.net.
 tpriority.select.	3600	in	ns	dns2.cscdns.net.
 track.select.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -1888,21 +1896,23 @@ u888.select.	3600	in	ns	gina.ns.cloudflare.com.
 u8885.select.	3600	in	ns	anahi.ns.cloudflare.com.
 u8885.select.	3600	in	ns	colin.ns.cloudflare.com.
 ubmg6uln3hqb27nqllo6tgo9epsrn79v.select.	900	in	nsec3	1 1 0 - 01QE39BS4UK7VKTSCH2OD6KAL0F40QBC NS DS RRSIG
-ubmg6uln3hqb27nqllo6tgo9epsrn79v.select.	900	in	rrsig	NSEC3 8 2 900 20250914134334 20250831130338 58470 select. x7fsRBQnom7c1T11IBRskBHL4r4wXTWi8LNmoDTYchEauE+4TnDWfowZfC1JOCeVnAQqT7PuHNsxeYHuAQHgTbKRoKkmku40Qq18zl25yuziBwFsy6LYmcr1cK0KrtCQYYXOftps/oMb3L7b6Z0yXuCnaIQOTbdjLNPX1j/ylPjxyW4BnCZ4IHRAPPMnQQ/Br8Ot+xS7kwoCiHeMdr/FSA==
+ubmg6uln3hqb27nqllo6tgo9epsrn79v.select.	900	in	rrsig	NSEC3 8 2 900 20250920124641 20250906124334 58470 select. l9paYriJn1zvfddrZYtTZ5ItAErbUXP8EtIm7O8Ie4hRnooSm5xxs7pYEsI1BpNECVOqojntIBj/3MD9pPFbmJUAUpImXgssXuVuQNi7yBVwjDiUb6K93GAEJJK4TDDPibDODL05k9+5vXR2Zuqqq8WDpOvrCBCquRdeoB2qyN/Kf8fdEMEeNAgL0NHVAZdcqYHpvWoziB4WihAjxsS04A==
 ufabet.select.	3600	in	ds	55390 13 2 83309BB4062DE8C658960A83A1F20EEE7F985BF415602B39EED67812B1BBD9A6
 ufabet.select.	3600	in	ns	launch1.spaceship.net.
 ufabet.select.	3600	in	ns	launch2.spaceship.net.
-ufabet.select.	3600	in	rrsig	DS 8 2 3600 20250913202730 20250830194732 58470 select. 7/bMP2Q0gWs3Mvs3gjPJE6FaUoOUBeeYFuwET1gMK19ue71Rz6I/esckFgS0TMheSYcEihTBXHw4/jevfpyeuBgoE39ILSH71qlaMh+aRrAUGgp0Rd3lqFjEHrfID6q1O28M5Q3N7s78y4BLns7P86wtERUZ0NdvMnBU5TgwQSHtW2OK/JnT4gVy4gHG1d4ZL8vStxPAUXcA9AzHxyILOA==
+ufabet.select.	3600	in	rrsig	DS 8 2 3600 20250919200754 20250905192730 58470 select. u8YdxAzQhkL0TcnG1opPycX6DUljBOHtbF4pqB/jRILdYRlIMm3DdoRVKV2AhecQWcuNrRRVoI1sMjjYzONtqYEO8hoIgMm/z56JFG822utq17J8XOW7WnZqB0w/ida2V4bSQjVkXNqQCGkqegJ36xGhZHf0IbqcOxaJwbmp9eNmPes5kCcUqnBgdZGepllSZN7eQeqcXmYTCVMzTD1cKQ==
 ufabet168.select.	3600	in	ns	kim.ns.cloudflare.com.
 ufabet168.select.	3600	in	ns	major.ns.cloudflare.com.
 ultra.select.	3600	in	ds	21887 13 2 5ECE4C5339F19C1C003857C537844FA723DA3E654C1A51AB8E5479DCDFA72DD6
 ultra.select.	3600	in	ns	launch1.spaceship.net.
 ultra.select.	3600	in	ns	launch2.spaceship.net.
-ultra.select.	3600	in	rrsig	DS 8 2 3600 20250917150758 20250903143410 58470 select. A+At4Own9EefvjHXDBdqceNnN57BPt5DvFpSaJhhLbOUancLkTcPCzAw5Y80PEc7bGjMvy+1Gcz5XTs3MtS1jvxpoWh87jeOCxUrSkFKp18l/XiLgTllhn/a7wX9B9GM2/60ztgNx7Q7lhiX2EW5YNv3CSLRvoflkJotJGeUL0ooXE85y2Y1XglP8xWZfHW7h4SXdTy8W9QrzA58eVyLWQ==
+ultra.select.	3600	in	rrsig	DS 8 2 3600 20250923141906 20250909140758 58470 select. sJKHVKgqQVwHEIG4nFiSSqX1vEIC7slb3vuEC9dLg6vnFNdRsrBqZshYnOIl9IzC5awQ0duCY5Zv70uWaZKibvghCKJol18E9I+2osEmH1tqhIYfW/bZtMOYO6EiTFjxVt0mEmCtsgFm6FXIy0ihbaIAvyqiYk+f37IbEha0VCG5beHqX79aUVR/y9+H7cLc1n9qOdJ5/uliygkGq6r1PA==
 union.select.	3600	in	ns	ada.ns.cloudflare.com.
 union.select.	3600	in	ns	chuck.ns.cloudflare.com.
 uniroyal.select.	3600	in	ns	dns1.cscdns.net.
 uniroyal.select.	3600	in	ns	dns2.cscdns.net.
+universe-ai.select.	3600	in	ns	ns19.domaincontrol.com.
+universe-ai.select.	3600	in	ns	ns20.domaincontrol.com.
 uranai.select.	3600	in	ns	ns-rs1.gmoserver.jp.
 uranai.select.	3600	in	ns	ns-rs2.gmoserver.jp.
 uscc.select.	3600	in	ns	ag.ns.uscc.com.
@@ -1927,7 +1937,7 @@ vantagepoint.select.	3600	in	ns	salvador.ns.porkbun.com.
 vanva.select.	3600	in	ds	21804 13 2 8641070A47D6A1CA802C1B4EBAAAC14CEF38BF0FD46EDBBF2A6B3404F72ABA98
 vanva.select.	3600	in	ns	launch1.spaceship.net.
 vanva.select.	3600	in	ns	launch2.spaceship.net.
-vanva.select.	3600	in	rrsig	DS 8 2 3600 20250915083609 20250901075705 58470 select. 646H8cqqN8ehSheB6NRxGx2gJVwVSp06p2CLMDPZPsQXATLn4+gDqFMRlC/DqovCOz33fb+bwIpz5VYfYUJiMIcYFgNq8Ro7yDVkPiyiDDA2TlRRJ5bqSUd2uoBfioluJHBz4UWiriG9vq1SoeIaOsdXkKrJw+OdtfdKDvoP7IbaW52jek7d7WaD6CzCFiWqLIF+BNmmT0J33wio0eEgHg==
+vanva.select.	3600	in	rrsig	DS 8 2 3600 20250921081327 20250907073609 58470 select. HECicBOnHy3p1nwnxjogd5+4meb0Tf6ZQtsKnn1HdxaeKFDFd7ettVkLemlfCqSqEbrYjJOCvAqc9u0jugQrpXL9y1g/1XXuKoAovATQf8Hbkkj+9KR7+hVmKAnRUVHpXsdI0ws83Kh6oHEEkXpNTD0z7eUpTc3h3xcXGPVlgr/AAlc1dcstU7IRd4Lh5EY5daHgsiw0vuA/RnA/fnaWdg==
 vc77.select.	3600	in	ns	ns1.dyna-ns.net.
 vc77.select.	3600	in	ns	ns2.dyna-ns.net.
 viiz.select.	3600	in	ns	ns47.domaincontrol.com.
@@ -1937,7 +1947,7 @@ virena.select.	3600	in	ds	17069 15 4 C2B777EE5D275697A778D2615165E840CDA4037BC00
 virena.select.	3600	in	ns	ns1.hyp.net.
 virena.select.	3600	in	ns	ns2.hyp.net.
 virena.select.	3600	in	ns	ns3.hyp.net.
-virena.select.	3600	in	rrsig	DS 8 2 3600 20250914024737 20250831020508 58470 select. hqeHt/Xe5ez8F/dTyzzSPGUldngL2/Ho/GsLLoiAWkF4IgAWv6lruHU0BXyk1iTxZ0DOTmIufkTTINb0E1DcM4bmA9J6ngzJ0HcAzkmF5e1QY9STI2d0QOBI+6ExQhWLEc3ASgVD2mce7FKTb4Bdh3UjrbOo06P9FoQDtHuyZ3WrilanmLfvgCgGm7aExJk7kE1M05PxDZqyngMdjEdUxQ==
+virena.select.	3600	in	rrsig	DS 8 2 3600 20250920020349 20250906014737 58470 select. DIe5NR8rroWRhmYAHRArb4TYLmhHXE9mPU4rR70kw75oSHj+UlqO1xCU9p2nicejCYCAyDAGczGr8jiy9Cf85JBaRAQZTLjsseIsal0/Ptz7IHnApM5oiWjDtfQIRItrFhbLVvqQcANDOJtiNSCkG1Z/pYZ75KHQdhQkkEip3EiVeOeDMtcswgjA5h+d13M00DPho1W2+dud2dSj03CCBg==
 virtually.select.	3600	in	ns	ns1.dan.com.
 virtually.select.	3600	in	ns	ns2.dan.com.
 virtually.select.	3600	in	ns	verification-7ccc4bac.ns3.dan.hosting.
@@ -1980,7 +1990,7 @@ whatsapp.select.	3600	in	ns	d.ns.facebook.com.
 wife.select.	3600	in	ds	55305 13 2 7B3E405C89F38EC5E02AF5F18E0FC4B54EDA4C90ABCD486CD08EFD18766E2082
 wife.select.	3600	in	ns	launch1.spaceship.net.
 wife.select.	3600	in	ns	launch2.spaceship.net.
-wife.select.	3600	in	rrsig	DS 8 2 3600 20250917150758 20250903143410 58470 select. 2VvcX2HAY1Q5Ze3en4EF7xefmoA51RixEA10lqwk1SoQ1RA7eYwZBTFaGjEsk6rEaSkD/Ge4TTvGyvTxyXwdbdU7I5Ka7u0ssQM0jxjkAn+c2zsFTSOPbrtrfDXtTz3tZkOeoq2xD6rJRahV6ctKOXMGgfXjTcnXNVFbIYPq8trKAu27wHcbTc4NQymimCxEugD9B8lqAzL6p0MoSzoEIQ==
+wife.select.	3600	in	rrsig	DS 8 2 3600 20250923141906 20250909140758 58470 select. kKXFtZ/F5Wm2Hk7RkocxGeldUG6cR1Wl4WHFkbOc+13RrQS//YQMcm0ZP3qkmBWWhoNquGjO3ptEkx9iTyviM6zUcglfGinUR4Vsc0uXZ5i624k7QytxnlHiF0T2eP7WuY7wCnFmkbcOYgbRXC+jsd2ZIXb6rWixfI+uf8ZHRU6UdAQoe/J1+a0gPli5tVWFwlU15F8FhdgaI8n5I9boaw==
 with.select.	3600	in	ns	ns.udag.de.
 with.select.	3600	in	ns	ns.udag.net.
 with.select.	3600	in	ns	ns.udag.org.
@@ -2035,4 +2045,4 @@ zappos.select.	3600	in	ns	nssui.comlaude.ch.
 zappos.select.	3600	in	ns	nsusa.comlaude.net.
 zbet.select.	3600	in	ns	brynne.ns.cloudflare.com.
 zbet.select.	3600	in	ns	curt.ns.cloudflare.com.
-select.	900	in	soa	a.nic.select. admin.tldns.godaddy. 1756996345 1800 300 604800 1800
+select.	900	in	soa	a.nic.select. admin.tldns.godaddy. 1757508926 1800 300 604800 1800
