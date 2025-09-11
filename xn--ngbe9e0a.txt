@@ -1,4 +1,4 @@
-xn--ngbe9e0a.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000353736 900 1800 6048000 3600
+xn--ngbe9e0a.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000354033 900 1800 6048000 3600
 a.nic.xn--ngbe9e0a.	3600	in	a	194.169.218.22
 a.nic.xn--ngbe9e0a.	3600	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0022
 apps.xn--ngbe9e0a.	3600	in	ns	dns1.kfh.com.
@@ -32,7 +32,7 @@ kfh.xn--ngbe9e0a.	3600	in	ns	dns3.kfh.com.
 kfh.xn--ngbe9e0a.	3600	in	ns	dns4.kfh.com.
 kfh.xn--ngbe9e0a.	3600	in	ns	ns3.kfh.com.
 lle3gtq24rr0gkqnd35m4i9jsq5i9ebf.xn--ngbe9e0a.	900	in	nsec3	1 1 0 - LLE3GTQ24RR0GKQND35M4I9JSQ5I9EBF NS SOA RRSIG DNSKEY NSEC3PARAM
-lle3gtq24rr0gkqnd35m4i9jsq5i9ebf.xn--ngbe9e0a.	900	in	rrsig	NSEC3 8 2 900 20250912220405 20250813203405 24370 xn--ngbe9e0a. X13cyfnTLFIUpanVz1I1GCtVWeNaqXT1UIiZBfm3nNaM1rLKeLAlK7vCVuiU8eogYlr95DUdBcCPp5YGl/iy92tTYnPLOfHml+nW6W/HqlCnSYRoMydLGEvX4nzgYI72fRQl7CHGUzWO+uc+xbIqDhDir9OqK3cVA8Z6PA1Zn98=
+lle3gtq24rr0gkqnd35m4i9jsq5i9ebf.xn--ngbe9e0a.	900	in	rrsig	NSEC3 8 2 900 20251009201500 20250909184500 24370 xn--ngbe9e0a. hoyF12RqS+BY9j/MAfN7qxVglp2b5K9aB00X6GTS0IkJilFEnjsfav9S4aRPZHYsGYaGxbCqXu6dQ0iF08blmXC/e0R7M/QXO0crVwP9IHT6pz0Y0bZxe9nB73PXTUZhCJbaPp1QXd/zwRpMFLxxj155LacqSKFHH2o02/aOcBo=
 mail.xn--ngbe9e0a.	3600	in	ns	dns1.kfh.com.
 mail.xn--ngbe9e0a.	3600	in	ns	dns2.kfh.com.
 mail.xn--ngbe9e0a.	3600	in	ns	dns3.kfh.com.
@@ -136,13 +136,13 @@ xn--ngbe9e0a.	172800	in	ns	a.nic.xn--ngbe9e0a.
 xn--ngbe9e0a.	172800	in	ns	b.nic.xn--ngbe9e0a.
 xn--ngbe9e0a.	172800	in	ns	c.nic.xn--ngbe9e0a.
 xn--ngbe9e0a.	172800	in	ns	d.nic.xn--ngbe9e0a.
-xn--ngbe9e0a.	172800	in	rrsig	NS 8 1 172800 20250912220405 20250813203405 24370 xn--ngbe9e0a. c70o/GKj5IZ4rlPojJs+9/640O06guq/iTqoIh5wWqQPcBq3ISGmqGMsTkzr8GV0njXaRW3JbWOBVMsClue9uw8vIUOdqEL8LfEXgZs+g0R7R1bKzujw124YkgrIOyrEQ8NlwqhBRpZeCN/dKmrfnj9iCGTGGZKIFBbjdPH+HH4=
+xn--ngbe9e0a.	172800	in	rrsig	NS 8 1 172800 20251009201500 20250909184500 24370 xn--ngbe9e0a. WIJocaetuwmKbS/r6XjSb7cgNVLwHGz0gND2EkDQN8fxNDWXWu4NUOQwjsVRtuyInjKuBuh2efkmhtXqZp2daNUpch8+FfD/XHbvb7CAuNSutB6QdpqxTuYJOVCX6nWSYWLLfU8TKWPjgJKo6U2cKd/ob9rV6xYgn9tYkXZgsYM=
 xn--ngbe9e0a.	3600	in	dnskey	256 3 8 AwEAAccYyx6xLG3dWvmaPWmIxXt5vSYlwd/OYzUbEhzGVopEbl7eM4pF4i+m+1GaO8GfNYln/tk/bJVxb6JKyWanpguJlNbmgMqw4m+x8YFuoEiwH5Y2hTatmIHRzqoEGVz7fDbKaVcK0AifxLQ83Isg0we3cypyyggbig4HpcHqrTAD
 xn--ngbe9e0a.	3600	in	dnskey	257 3 8 AwEAAdSL0CylnEeDLifNvenY3kJ2tuGa7BpTByaR4/rGTFkmIrHAjm4IrWVjMohj8ua8YhbGWSWWLXeEQI34h0YmCdgcz6pAB0mkRE+c/sxiQe2W4oy9juu/+rM24roHNQ1/fQ23lMI86eN4H1PMjeaRhTtvqRK/oXr40/xsqkdE5wycqkstoQEWlCQ8NvyFB+Pc2V1525EaQ1tJhKIyDmz5BuON6+oGWLuUAeSVf3lyH6NUQU53+3dlcPBaSl+0wwbA5IGidw3LaKA9L23GyCKK45zHRWX6zOInGnjbPnVnItYufpFvd3CK6Hk8fUbi41aNNhR+3NLBxv7FNO640J172ck=
-xn--ngbe9e0a.	3600	in	rrsig	DNSKEY 8 1 3600 20250912220405 20250813203405 5347 xn--ngbe9e0a. DH6XiQxVykZNQYDhokfV7LbRNG2xN2DmbmrRI1YfFI9H2TNR0pZn0FkxkLmNxLFuGwXzZUcUrZMRsqf89wOxKXFovkrAmK47wpyr3MLGvzRo8M5kF/3EejKHdOcvRV/FXaG11wepi3bBrFpchYC2R1SXazY8B8cxoBUazazK+8xmG2IshYDQG0tEAGoDrDq15/sx2Z8u2yoOJKYpC1oA5Yb0myPwCKlu5XwCAPu6vbGqMEHnbfBE6fVPDZCAxJFAhaeJvyHnaMd1DEaS2lrMLvBcPqa1yNx5NlA63BmbszfMINLNi59u+IFF94oGnLR3DA0BHb//f6T7M4F0bTsV0A==
+xn--ngbe9e0a.	3600	in	rrsig	DNSKEY 8 1 3600 20251009201500 20250909184500 5347 xn--ngbe9e0a. wmsqW7RyXT9cJtnfnjwfNz0tYLBFeQxHVWTKl5jVkTiiiQqZBZRIVA/B42CG5lSuz1Yuy84lSZ2b2BCtXxT+zSO7Ic9f17RSR5kt1/bik9euqRM4G0A3HSabAWu3igQLAMuBTk8mudUGponJRflvZy1GnbEcFbpuyhvgDM3kiQ74TvGsrhEyHfnMuYZ0uKiIQ11vL4BFPxvlOUm0kdO4zs0jkpcoqinvhMLy8rA0rAG6yJogl80KhVLl/KHNf/pIplGrRwlCoRAMh1mJa3XMl8eQvSBpwuNMQM7g0N/54GZwKbnAeLIvc3yIc+7EMPC1GlV7kMwYjWz04ly1nG2P7A==
 xn--ngbe9e0a.	900	in	nsec3param	1 0 0 -
-xn--ngbe9e0a.	900	in	rrsig	NSEC3PARAM 8 1 900 20250912220405 20250813203405 24370 xn--ngbe9e0a. By6R6BJaDxL6ZLCDm3apgdJkCqJWQMqeLi+ot0iOvzV17Y0Sux4oDUalXKy9Vu8YrySp3qY7iTsSE6Qzx9O2T4PAxqnA+FDXIaIiTo4FFhrEwj6Aammrk9jLjLF9Z5wst//c1m4YA0x2MNP+sD+GNnmzTWZsH/+TwsicL7o0kUg=
-xn--ngbe9e0a.	900	in	rrsig	SOA 8 1 900 20251005012300 20250904235300 24370 xn--ngbe9e0a. Xo5XrIeFpAW7YIXdxyWtSKE04E6DLsX+ITNdNmIwBp0NlyS6ifGyddyQX5YKWKsNm7OPPBYLt2zeVcOdmZzqcgyVSEPlzg6kaEBpJINKoM0II8GgHnexH2XZ3NsrBQjo811WAyup3LIaU4Vqz03Z9PY2PLiwW3/Zczn2d8gs9s0=
+xn--ngbe9e0a.	900	in	rrsig	NSEC3PARAM 8 1 900 20251009201500 20250909184500 24370 xn--ngbe9e0a. tpfCD+QIVIMiN9118LgFWdnGLQf8Et312WbD2o/ykqo9TSA6ocy1j2Vd0ru1dwaccgSRplVW5h71zciw3shxobHE+vmHMnJnkIX8K7LH73LpaPeDGW/mDkME3HuUJZ7FJ/vNIo5V8MM5c9E4rQxQ0JoS6AWnZQe6pZEU1BnBgnw=
+xn--ngbe9e0a.	900	in	rrsig	SOA 8 1 900 20251011011900 20250910234900 24370 xn--ngbe9e0a. tBESnY0Ju4AtjwWPTSOWZr3SbAC5f3HCikLMJrh8eOGUxQsvyvSlK1X0K7BZvzs4UMxDlW0fXACrwNQTAmQjPfRwIDNptbQxmY2loblug3NNhp17I1kvnNkZ+ROmulzIaBosFJSUQc/F8yIYUxi/M8lLfmb5B6xUovymrQqm8CI=
 xn--ogbh7a9as.xn--ngbe9e0a.	3600	in	ns	dns1.kfh.com.
 xn--ogbh7a9as.xn--ngbe9e0a.	3600	in	ns	dns2.kfh.com.
 xn--ogbh7a9as.xn--ngbe9e0a.	3600	in	ns	dns3.kfh.com.
@@ -153,4 +153,4 @@ xn--wgbkh5d.xn--ngbe9e0a.	3600	in	ns	dns2.kfh.com.
 xn--wgbkh5d.xn--ngbe9e0a.	3600	in	ns	dns3.kfh.com.
 xn--wgbkh5d.xn--ngbe9e0a.	3600	in	ns	dns4.kfh.com.
 xn--wgbkh5d.xn--ngbe9e0a.	3600	in	ns	ns3.kfh.com.
-xn--ngbe9e0a.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000353736 900 1800 6048000 3600
+xn--ngbe9e0a.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000354033 900 1800 6048000 3600
