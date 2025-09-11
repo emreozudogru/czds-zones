@@ -1,6 +1,6 @@
-sandvik.	900	in	soa	a.nic.sandvik. admin.tldns.godaddy. 1757029147 1800 300 604800 1800
-_forcedupdate.sandvik.	300	in	rrsig	TXT 8 2 300 20250914222704 20250904223908 48498 sandvik. HF7C06Cbg3TjoqLq+JNT5Ab7QYTzHPLU0g+3wrDeITQF9jFJ+V2Ht6ajQjdIGjGmrGu4XV8OpttowVk7BTmmFpV2whE6OY2ch0Trk3IvldvoxX1w/wADMVCP+hCzd/qp7mu0N+6iEe72d/gRGNTNpmJ5zi8XWIZKo0zS2pbml/LGI6rKnAmWSFVH13Co4hxKISGdeLwptkL1DF+vl61Byw==
-_forcedupdate.sandvik.	300	in	txt	"1757029147"
+sandvik.	900	in	soa	a.nic.sandvik. admin.tldns.godaddy. 1757504808 1800 300 604800 1800
+_forcedupdate.sandvik.	300	in	rrsig	TXT 8 2 300 20250921203308 20250910104649 48498 sandvik. NnMT3xg2LocU/SsuPe3IfQpgEU2hrYe9kP/vutKSjlB1tf259lisTiurtmKVYHB7wn5kbceAo07828OJJMDUQL6bl78jjLEaEMNn5k8jEbMmARXfiLmfXpuxVXebfCOXHPKL2yJdHD7gIT1n13JUmFF7yNOJv3sRRISdhS4vqmE5JHj8DdZp1m/YOaGkcfoGxvGJmhjNY+2pGnHXymCqWg==
+_forcedupdate.sandvik.	300	in	txt	"1757504808"
 a.nic.sandvik.	172800	in	a	37.209.192.9
 a.nic.sandvik.	172800	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 about.sandvik.	3600	in	ns	ns.sandvik.com.
@@ -65,8 +65,12 @@ dev.sandvik.	3600	in	ns	ns.sandvik.com.
 dev.sandvik.	3600	in	ns	nx1.sandvik.com.
 dev.sandvik.	3600	in	ns	nx2.sandvik.com.
 dev.sandvik.	3600	in	ns	nx3.sandvik.com.
+digitalmanufacturing.sandvik.	3600	in	ns	ns.sandvik.com.
+digitalmanufacturing.sandvik.	3600	in	ns	nx1.sandvik.com.
+digitalmanufacturing.sandvik.	3600	in	ns	nx2.sandvik.com.
+digitalmanufacturing.sandvik.	3600	in	ns	nx3.sandvik.com.
 fh02u3cjog7gma0b5ata2imvgrdnda6j.sandvik.	900	in	nsec3	1 1 0 - K2PFJKT14SG5DGP6QEGIQCF3NVD8451N NS DS RRSIG
-fh02u3cjog7gma0b5ata2imvgrdnda6j.sandvik.	900	in	rrsig	NSEC3 8 2 900 20250917055214 20250903054505 48498 sandvik. uLq+AfB7OWrEkWYOHNd74H8DHLslFoX6xsKHCx8zzmDHw17DMU1WQrB4Fnp+5MJzeZhoL7SsocdgFH4FPoHNALBz97pJSSNYM375N1AMyYJbaMuxPuZfcTmzeQM0A56aU6dNGwiQ8R0uU+eyD3NCGKgFgrIxX6zPGNegAwlRHDmM6N235qB8geh+E1VPyuBVT7e7wssm19V6hRfQyst77g==
+fh02u3cjog7gma0b5ata2imvgrdnda6j.sandvik.	900	in	rrsig	NSEC3 8 2 900 20250923054709 20250909045214 48498 sandvik. Enshw5TaTO+kagfZhcNJGC732VZD7438CwYxJjDG+atgzjfOSpVmys7/jZMbqJ1EOwc/C5BI4fbOeAwwKy2Nz6UWdbek23Ek1FLtgVnUhOCZz5Y2cmGXvhJyTwaA3QlolFshBTOh08GpkscwHfYt0+fxPU024f9f/uuZyYSst4WT6kuAifdJg7zkpVdK4/b9JDO5DQpe3khOdn1LvZjdgA==
 go.sandvik.	3600	in	ns	ns.sandvik.com.
 go.sandvik.	3600	in	ns	nx1.sandvik.com.
 go.sandvik.	3600	in	ns	nx2.sandvik.com.
@@ -80,7 +84,7 @@ home.sandvik.	3600	in	ns	nx1.sandvik.com.
 home.sandvik.	3600	in	ns	nx2.sandvik.com.
 home.sandvik.	3600	in	ns	nx3.sandvik.com.
 k2pfjkt14sg5dgp6qegiqcf3nvd8451n.sandvik.	900	in	nsec3	1 1 0 - PGVGOR2145EV58H2FO1MITQ12MRV3BEH TXT RRSIG
-k2pfjkt14sg5dgp6qegiqcf3nvd8451n.sandvik.	900	in	rrsig	NSEC3 8 2 900 20250917055214 20250903054505 48498 sandvik. LMcL1Rtfo92Db9seiMSK7g0ymrUOt1QVCaGrpioiTvX/jaD8js8RAGSv3tybGTVddyJg7mEcsPdp+3uB17O3HvQaIdjTBl+bI+jbjR4adW5p9AYfd5QQwt1Q0tOTAyEiOMXjUS9Yk+9x99nVO20M2Vgp6UaMo0BbZKdSn/l26zzxFqC6e08wNj29pMg42SyGYGheBu0wG8sOrQXrN/u3xg==
+k2pfjkt14sg5dgp6qegiqcf3nvd8451n.sandvik.	900	in	rrsig	NSEC3 8 2 900 20250923054709 20250909045214 48498 sandvik. cLv1Bq0I/+hTqZHPhcwHu/QN2PNxflxEydBbtO0vpWcrqLh9x2MFfi5fc0tOD+v54I2/o9tQGQGJnBDXqd4BfHwoJDSsAWqLE3SyGGZlL39Ly3X7eKB1mMree4qAZJouQLLEjVpgJlq0u+n8DdE+pJVh7rakkz+3ssk7RPkXoNYotv+ihU63ISSGwbbbeDloVvQIRZLoQxaRGttmyLmVuQ==
 m.nic.sandvik.	86400	in	a	204.74.104.90
 m.nic.sandvik.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
 manufacturingsolutions.sandvik.	3600	in	ns	ns.sandvik.com.
@@ -120,13 +124,13 @@ nic.sandvik.	172800	in	ns	x.nic.sandvik.
 nic.sandvik.	172800	in	ns	y.nic.sandvik.
 nic.sandvik.	172800	in	ns	z.nic.sandvik.
 nic.sandvik.	3600	in	ds	34147 8 2 25F50CC8000BB4FF83278A0F77F4C2DE1A5CF8C74ABC397ED77464D49C5A5DB3
-nic.sandvik.	3600	in	rrsig	DS 8 2 3600 20250917153251 20250903150940 48498 sandvik. N9NYYXkarZXwvCh+z+qqwUOa78mlPomSkKitLw19Og/VE2DcEs2BFuUYQd9zoMVP3FDuxND/ByDchCXppeOxyIIkB/DHu2HZvwHlYz9N08TDT3hsiW48L8FGF4eE8QFH6opO4MwFjzBrF+n79TW5hVsKt2uodEWxWT1443g+vX6dPGx0eeckubjwzOo9U+laFQb0LHkxmk7tRAdPmvLFLQ==
+nic.sandvik.	3600	in	rrsig	DS 8 2 3600 20250923144537 20250909143251 48498 sandvik. DnxA6S3ArFS9oU1SWJ/SqXUfSDlDuKx6qQVsVFFFf22WoR1y2KG6kaEzodoUyK8heLtoBu3rFsefEhDknv1kD0Tpam1gfH0X8UqprL7NfDNiJV6aLFeSevDqAjN64WTj1WIepl1BhntOIjE39nQ9GTkfM8+A6TkDKOOsdF7ov2SKkIpOm7JKDXd3GA8x5D4Wemb8CNJ5958yhhpLqcB35A==
 osprey.sandvik.	3600	in	ns	ns.sandvik.com.
 osprey.sandvik.	3600	in	ns	nx1.sandvik.com.
 osprey.sandvik.	3600	in	ns	nx2.sandvik.com.
 osprey.sandvik.	3600	in	ns	nx3.sandvik.com.
 pgvgor2145ev58h2fo1mitq12mrv3beh.sandvik.	900	in	nsec3	1 1 0 - FH02U3CJOG7GMA0B5ATA2IMVGRDNDA6J NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-pgvgor2145ev58h2fo1mitq12mrv3beh.sandvik.	900	in	rrsig	NSEC3 8 2 900 20250916090511 20250902082240 48498 sandvik. qIJf0cncLwoOgIxvtgrKqoznelcEyBD5NIlYKquJCAfKQl9fcX6kFFttCo+z7F2YhglfK2nwZXEpuZ9WcUx21Ki3K1WUd6krCafh+8rfff9etBoDpbqENgowHhhA6J8VAVUsvyMa/edvjf6jpzbrrUVnbVnZ8ujiMO8YkGj7STT/aU6t5Vjzl+215UwloUS9sbyBg9bIMV1JZYlQDu9W3A==
+pgvgor2145ev58h2fo1mitq12mrv3beh.sandvik.	900	in	rrsig	NSEC3 8 2 900 20250922081103 20250908080511 48498 sandvik. WmGpo0KkrXkPJPYLYyqgn9b5p1Wb/jrjT6YHnTjGw4969XMoZqSof3qG+R5UYglgO6gDunhP7b3dKU9tUI6m5igLDAsSYnQZIu4CCBl8SREsivRd2F4Gb3sA/qr4PW42fglNEDg8bWa+DMkJYSGEA3RrkE+Up/Rzp1PKb8DzLAgU0KQ8RES/W6Z/u4K1c5hEhB8zFxtmz6e5nvRiYfEstg==
 portal.sandvik.	3600	in	ns	ns.sandvik.com.
 portal.sandvik.	3600	in	ns	nx1.sandvik.com.
 portal.sandvik.	3600	in	ns	nx2.sandvik.com.
@@ -148,22 +152,22 @@ sam.sandvik.	3600	in	ns	nx1.sandvik.com.
 sam.sandvik.	3600	in	ns	nx2.sandvik.com.
 sam.sandvik.	3600	in	ns	nx3.sandvik.com.
 sandvik.	0	in	nsec3param	1 0 0 -
-sandvik.	0	in	rrsig	NSEC3PARAM 8 1 0 20250917055214 20250903054505 48498 sandvik. vbaHnyoQy8CoL5xt2ReIrOELa3UmPnznJOyTIWunSjFQ4tx9vSFuJIKisWQc5oC6kymKTqOHxiTtq6ZLZffgeufqrWesNf02dJunxaJTZjs546CMJGwheBk1rEVE9PCtz0Qqzz+je7kFMfj4/e7Ve88792mP7BcXbF0VInfYPEr2brd0Fiv6+SosP2VonVjS/DIFd1+Qf7tVobERsFY4Uw==
+sandvik.	0	in	rrsig	NSEC3PARAM 8 1 0 20250923054709 20250909045214 48498 sandvik. kFso8x1XVJt39nsZBHZlX7S8FWSBOji0fGzhPKngixNSt115c33PsdSQJkyaadzqz8w7j4hBpnU/Xcajv354DFypwX2G5HWzI3xe71dLnawzvKB/qLgThpzbyaltrpq5pEMt+PwdlNeggc5xmAJ1s2qggep7aMO1N9301LzlwE2v6e+BFNpBBgpnE9P153Zh/Rzy/JbHQFfuMBBNpiskfg==
 sandvik.	172800	in	ns	a.nic.sandvik.
 sandvik.	172800	in	ns	b.nic.sandvik.
 sandvik.	172800	in	ns	c.nic.sandvik.
 sandvik.	172800	in	ns	x.nic.sandvik.
 sandvik.	172800	in	ns	y.nic.sandvik.
 sandvik.	172800	in	ns	z.nic.sandvik.
-sandvik.	172800	in	rrsig	NS 8 1 172800 20250917153251 20250903150940 48498 sandvik. PmzlwY/HnSr7jjwXUapn0gcSyGDZQBqc5Y5YhHNb7LiVJJGPR9SVZlHRxo0qJBm6+wueXYKO2qBaq1ZDVA+m4J8r5scJHhyLCzkWwP0yDWQFLMAz7jb0zFZCkkOJCgSZL1mgwpJgc+F82jm6If0HybsXFj5T9vUGlDz30dQY4/16P88s2EgbHjxjO2wSlfD1XG9aPDUU4OTgdGlY44shKw==
+sandvik.	172800	in	rrsig	NS 8 1 172800 20250923144537 20250909143251 48498 sandvik. lCRb6T4rs4cWZPpiWLqYHjGlkf27kSo3yVCad0/y6j5Auyk1iVJ5fyoYs0PsASr+pkk7uuEY/VVSMMQqjpVXFWFIyuoCS5LMnCw8d/fKUwOfoxZ4Ex1YP3/EeTvytztASxz2AecvkrRfdWcrpbaEz+RTrNG8U0ZrKuxFSUYSfspcAUQ6SU2uvBE2klDTwyYf9OP6yXAZcdQjf5BWhPJq/A==
 sandvik.	3600	in	cdnskey	257 3 8 AwEAAbNzlSmnhhSLRlaqGcQYES28CVJrhHFpwksp+bLH6YF82CqTWV4rj6cyhnJKPGp2dGUQp+//uKkNuQ/ILNMgycxB1PIa0z2zLDG9FjIaYdrwUx+5Q9arJOFu3Y0CIHWr2MIDAW3EYFw3sS34dBqEs83CEp5pEA8GeZ/ygI8MzS7+cVSaNmCx+MmdL6m1IlaxeRgrf3+xBCiHZK8n2H8pW0hK/h42CflPo+Rjk7xxfg4d2ZQZNI3eNhN/JGkBC1IjMNqLtRh++HIKNwYIQKCXZg28I1LI9G17bSwaKGjYiFDsdF81T5wTGo94UWFPQmsiUwdTVAQyMdRE8L5SWRe2aJk=
 sandvik.	3600	in	cds	16237 8 2 8703222CAF60E541964F6804D51EB5D3C1748E095978350689324CF8C45F9F0E
-sandvik.	3600	in	rrsig	CDNSKEY 8 1 3600 20250916090511 20250902082240 16237 sandvik. c/QDDWIJYOhnVYS3aO9867G1Xpa9tv6fD4UnxHJ0f7P572dyjNYwaI/Yr6/zOikzqg+KLaCBqLKS0UcUnDBQNHOh5ABspT2D2Q4GK0Itn6w5BSBxilF+8tNAo0IqltvG7NSCxbzv7Yl0A36EWiKiVqPhBexP/b9bM/NJ4zvV0mXtInLsMjPczPwMWvRmfNjsJFgQ0WZVIeWplDCfKXHKFtdJroIBQFZDqTRECFCNwqpYgrQxiHzjye4GpOWG5LrFiPSnoKyuzorejEJNoO62sw/PxldNBTlAjBcQchWwrgFZVN8HeHsEIPJgyPjO3Yecv/apj2uWaY5F+7NL28beSQ==
-sandvik.	3600	in	rrsig	CDS 8 1 3600 20250916090511 20250902082240 16237 sandvik. HTw22uMsw/kgbC6XBukhct9VVGciUHiIsTWHGc5L9si9eOpXp4SW+7up2Jl+0oSHJpQYpFOErfFdGNzfhcG2KmVK1X6qRnyp4PRuNXf04jNscGMJQKcmWXRJ/lRo0/wV64tU/BYxKdmp3rYlkuHyAG5RZYbplCAjJTCYiYspJHm2r0MLtKYSkY0s2g/s1DtaKP42igDfOEbLnvkHBfohLvNTJSHhTjwZrqBLJNWLBYtTbjkKnu2/e7kvlzgY7KTUX544XzUgtT5CIatArOky02LlgB9yXNOBBTtikOJEouRptO2x8jGqddSi13GIKD5y+SHA1hNQv1tsVHxWtiTfPg==
+sandvik.	3600	in	rrsig	CDNSKEY 8 1 3600 20250922081103 20250908080511 16237 sandvik. KxwjqncD7oHVVEDkj5ygTx42MCEHpnd6hP/ynYMcvnf+DPRqSiax0z6hkM9Phq42HJkoIeiKZZt9//pdsuQ4UfQxlpwutQU9bFlJM54zn4E+HuHR2/GfgyJ3rZpm6EVK7+1/GXZttNol8svtu/pTZ9d/ocv6XZf9mYuRyh3WJp7seMFsv4xt76K7Bsw8wIB/1gjw13vsrDYv3dTFxyLE2BRSN/EnfmFQ6xF7qQwfYVwdOvTZx24zBCo1urTDcxLnmVY6ifItW1q9cs7Yr9s1sfV2SOjUy85C913nO/MT+QnBcmRb9V8iY5QHSsgQaPOZz5X5TavGEGYozaJazxi3+g==
+sandvik.	3600	in	rrsig	CDS 8 1 3600 20250922081103 20250908080511 16237 sandvik. klK0rqpZHx22o1Y7Mq7aYwevXw/lCPUorjzSh9ggZMzLyFTUoJzdv3FktHU0xNRlVp5zNYvlAVRTwHnipMEAytQ39shnPxFaCpAzrEp6Pu4VMSVQQ9wYgMQflImbLwadGYvZv69MeT84aqOPt6hKitUDQ12AbcSbWVZEWYikKVoj4eduyxA4xUYPCoiRcRixK4YrXLlty8Vr9HCJBz+Nu39/4oA3x1kKlyaw1sBGClbA5mJahgkhuTl2OWWTjtsQ+4Y4BjIJOhplmVSlex7g+mgJUZpEEeD6gVh3AZqZoVSTBTfcnw4/9maf+oipyG0jLoHmcHlu734P9pxfdUZtCg==
 sandvik.	7200	in	dnskey	256 3 8 AwEAAb8roaVoLxs+NgVNvXYJnzNeAQBH1ThyC4yU177egIg7A/Ig1433Azenvg1bB4M0i/W3zdwVbltDIykYOqyWpUiCRyu6SK4zCBRlsLmv9AC+pAdY3/3KoNQ+1kDsKXVfaEpRWP5Tck+Y5w3mwEQFO0CoiFq0MXoZiTfVU8td9C8rJTTFKct5LFnM/y0VWnJyPbRe1ly992NrX8hTQM+XShE=
 sandvik.	7200	in	dnskey	257 3 8 AwEAAbNzlSmnhhSLRlaqGcQYES28CVJrhHFpwksp+bLH6YF82CqTWV4rj6cyhnJKPGp2dGUQp+//uKkNuQ/ILNMgycxB1PIa0z2zLDG9FjIaYdrwUx+5Q9arJOFu3Y0CIHWr2MIDAW3EYFw3sS34dBqEs83CEp5pEA8GeZ/ygI8MzS7+cVSaNmCx+MmdL6m1IlaxeRgrf3+xBCiHZK8n2H8pW0hK/h42CflPo+Rjk7xxfg4d2ZQZNI3eNhN/JGkBC1IjMNqLtRh++HIKNwYIQKCXZg28I1LI9G17bSwaKGjYiFDsdF81T5wTGo94UWFPQmsiUwdTVAQyMdRE8L5SWRe2aJk=
-sandvik.	7200	in	rrsig	DNSKEY 8 1 7200 20250916090511 20250902082240 16237 sandvik. O+YaxGQka6DBAXjBFuGTduUQTrKk4+BFlHiPT+j0dIvU11Q3W03M/LVBmS31NOay4FYAaOzm9QUA4KOLS0/Agfu//PGZCkSMku+xL1DvgGxuFoY6oDzVtTGp7RCLVfJrWuWJK8ttnuR+dTVp6c4xLE9rmbro357ZvAEMu+nZvKCSu5V1Jgr6koEKcrS0dv5evTOkDtMJ77PKkwfwza02Rl6jv52FNvVV2eTfqyi8dR0w71m0cbQfLhaRMQvEYvNg39G+TkqIa467IGAu9IFdn3rrnXKtMuTDOGrbUS3Hav75kuD+/gQmkgrSexPHJ/WlZRHkc22CxVRReDtoQqVBpA==
-sandvik.	900	in	rrsig	SOA 8 1 900 20250918233908 20250904223908 48498 sandvik. qybcIG2GH8h7zO1OPEnDIJDOAH9RuT6KBaTS8rc78N5Ct5jtrGHnIUretydLnNYA5kgfTUNshlGTF+EnwtYyx5GSO0D+VxgnotyyYQwuJOEQr55qPCwPkuc9BoCfBRq+8L/R5Md1c5RfjqSwrdCgAs8I7htC4Ak5U4SFLwpFGFqI9p0fF8b9QW9BoH/cqxDnOhwwhqoOTDw7fwFfAENijg==
+sandvik.	7200	in	rrsig	DNSKEY 8 1 7200 20250922081103 20250908080511 16237 sandvik. lu+O377VxCnOjNShhkLbuF6xK4lFEF73Z+/VIjXQS23vezh5+UjhzRZ+4e2K2BM0Fio5yVnaMSrImKjLE+KH1ENHaG0JN3Dk4nBsV7VOu8LjknqKy52iaBWf0hLTPV1qk81LtKjSVezxsT7pylVdSXTFd7fzonlbQlilPjU4KWto4aXs3LVRCS2dwnE8XQk3O8lL7v7LDpkopqjx2/kO3FQt/bg59i33/0i8Ub5HSvSmalPDePMyoptbw2Xmo2LNWYGAU2aT4ud1p2URgeY1CtpdMLpa5fp0bB8KLFgeLJvzi3X84gCxPKIyEQTuVbZcO24+/EUEv6MV+RusLtrnew==
+sandvik.	900	in	rrsig	SOA 8 1 900 20250924114649 20250910104649 48498 sandvik. O59+dNROnTqsFQjbKNHn4en181/lRkBlzKxDR8jBzG+Qd4SzQYoTZ16bQHnTXYYF+2v2Z4AYWyzAnxXbUSAEnq2jgo8e4AT11Wq9iWwQhoVpEoDVA2EBhC2rwYNlaLQIb6BaMktxy/C3jMCkLb3J5fmlVXYDd1NgrlLf5ODFOOdIpPSdZ4+ALkndt7llB0RJlePQNu6uFJcD/FhMVJy2yw==
 smartsupply.sandvik.	3600	in	ns	ns.sandvik.com.
 smartsupply.sandvik.	3600	in	ns	nx1.sandvik.com.
 smartsupply.sandvik.	3600	in	ns	nx2.sandvik.com.
@@ -204,4 +208,4 @@ y.nic.sandvik.	172800	in	aaaa	2610:00a1:1073:0000:0000:0000:0001:0082
 y.nic.sandvik.	172800	in	aaaa	2610:00a1:1075:0000:0000:0000:0001:0082
 z.nic.sandvik.	172800	in	a	156.154.174.82
 z.nic.sandvik.	172800	in	aaaa	2610:00a1:1076:0000:0000:0000:0001:0082
-sandvik.	900	in	soa	a.nic.sandvik. admin.tldns.godaddy. 1757029147 1800 300 604800 1800
+sandvik.	900	in	soa	a.nic.sandvik. admin.tldns.godaddy. 1757504808 1800 300 604800 1800
