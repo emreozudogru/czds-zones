@@ -1,11 +1,11 @@
-mini.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019124757 900 1800 6048000 3600
+mini.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019125055 900 1800 6048000 3600
 3door.mini.	3600	in	ns	ns1.brandshelter.com.
 3door.mini.	3600	in	ns	ns2.brandshelter.de.
 3door.mini.	3600	in	ns	ns3.brandshelter.info.
 3door.mini.	3600	in	ns	ns4.brandshelter.net.
 3door.mini.	3600	in	ns	ns5.brandshelter.us.
 3fd2phel89jtounhksd5jevkihmftvhi.mini.	900	in	nsec3	1 1 0 - E6Q8U7C23T5SA7U628SH504JJ5VEEEGU NS DS RRSIG
-3fd2phel89jtounhksd5jevkihmftvhi.mini.	900	in	rrsig	NSEC3 8 2 900 20250912220413 20250813203413 42655 mini. OW6gcJ/4AfrwDuf9D2uU31gW+gb+pv4uRpE88Q77W7uhzlKHQx3SxEaKu7KjcuzaUBdt3wOEUjCeOsXW88eicMQr9rMQjoxpjuk+aR3EntCbs07Je09lunVGCEoLbaCykJnnyFqSkNqebEk+ijuXPs2f+sTmAh4LvqqkhOe+mhU=
+3fd2phel89jtounhksd5jevkihmftvhi.mini.	900	in	rrsig	NSEC3 8 2 900 20251009201508 20250909184508 42655 mini. ROnZT65X0YMexCKvJW2XB6N5ZMU+Ne6/xa0QwJEKTrhVF0E+o1DWma+6/XnIjk/A9ex5MYFC7HOhhJTIm1ySVME/XPjQW2M66pihePkjYmZuIsqxrHaUjmVaL2UZsZli5Qsxk4Bydz6XeVtD7Vw+QNwLuwX3p6VCQ93ePlk1mLk=
 5door.mini.	3600	in	ns	ns1.brandshelter.com.
 5door.mini.	3600	in	ns	ns2.brandshelter.de.
 5door.mini.	3600	in	ns	ns3.brandshelter.info.
@@ -117,7 +117,7 @@ duesseldorf.mini.	3600	in	ns	ns3.brandshelter.info.
 duesseldorf.mini.	3600	in	ns	ns4.brandshelter.net.
 duesseldorf.mini.	3600	in	ns	ns5.brandshelter.us.
 e6q8u7c23t5sa7u628sh504jj5veeegu.mini.	900	in	nsec3	1 1 0 - 3FD2PHEL89JTOUNHKSD5JEVKIHMFTVHI NS SOA RRSIG DNSKEY NSEC3PARAM
-e6q8u7c23t5sa7u628sh504jj5veeegu.mini.	900	in	rrsig	NSEC3 8 2 900 20250912220413 20250813203413 42655 mini. WM+ZfYCBZQjkMjW6blqJJz9UyzKOVekxLguJNrRY2GYqtltWFlLZwTR22T3MwvTMU6pwbEM0t6X3ja6Ny6tt/loTvSgI41jjFl9LaPDeLQ1eJFurKcbUhKKda2dZoYnPO8qV4tJ3o1ki5Zr+xHqcaeRN5MwVSIoK88CYEx1c70I=
+e6q8u7c23t5sa7u628sh504jj5veeegu.mini.	900	in	rrsig	NSEC3 8 2 900 20251009201508 20250909184508 42655 mini. psSJdbBaZJlXu8lJl4BZgQc9xu+I5ENF4RsKIOnTVQVxyMwO7bGFaZBC/F3ceg48lzKvnPVW1tWoon0fKKi8MmWlPD/2zTswr1MJ+JnL3lCIP02MpsZKsTzXuHtix1CDSeL5j7A7X1cJa4OpL9lHy2HZeJ4uWOJEDgwaYIJ2Jfk=
 electric.mini.	3600	in	ns	ns1.brandshelter.com.
 electric.mini.	3600	in	ns	ns2.brandshelter.de.
 electric.mini.	3600	in	ns	ns3.brandshelter.info.
@@ -201,13 +201,13 @@ mini.	172800	in	ns	a.nic.mini.
 mini.	172800	in	ns	b.nic.mini.
 mini.	172800	in	ns	c.nic.mini.
 mini.	172800	in	ns	d.nic.mini.
-mini.	172800	in	rrsig	NS 8 1 172800 20250912220413 20250813203413 42655 mini. UfrVDqRxqNQEn+/hxP+mktHJG8kG6GcuyNqJKrgvxiCzRQchzO4sYpn9Ba1v5bizv90ouyGg/tJintMDtbkH9vrfyw4/YGiAbGl9WbUP3hrrkpPiJEB/PlhbSWp1GbDgrUpLoD8V87YiSqQtaPKullubNKawjNp5BGon94Q+ME8=
+mini.	172800	in	rrsig	NS 8 1 172800 20251009201508 20250909184508 42655 mini. EYKMKAKUJf+qsIvzMj22NT/RlN4a6rAILAhPXXY/khg/sjrUc7BZzipCW50TcPMhqQfkUvB/NIrc2CypPNxcm4APgjzkBiUd1Hy0gq9EjHBDal61puaun219DwtQ8Kh901k9Eo+nTT3etO9dq8BMp1+yjycztdGBnZ77emK6pNs=
 mini.	3600	in	dnskey	256 3 8 AwEAAawJH+ICCJ/So67vs6Dc1Hd9uADWWCPu45w+d4KljHyu6pFY4YhztWM7h/tN+tA6plbsp0xX5Vd2V0ox1ICh427wuUak2nBiMkzjmYHut0pUA2AvdO8SK2S60tieSbKNzBjagUxINITPtAc8PyNfd6GHyUAOHpTknqnQP9doF0pB
 mini.	3600	in	dnskey	257 3 8 AwEAAcNgrBCMwdVn2vEvPxnhU5hglEC6dae/vjfkl4hqJd3/Y/vJabayGX3sUyObFFLPxgZV5eNqKUOO69eCvHqUieCPpRGe45Vqe3IcbmuSOLXsn4g27pD9XiPuOzp99KdmWiMu31mwTPRciCZ122d3MYhwo8gGPnDwIbh4UV4w/POSUC4Nz1ivRX/Lv6U3gE5BY7ARO0M3cV9uVTITknYeFbhq4ca2+NQI7hWcZ+kFlmii1Llco4UZEgm7RX9kVyByCcVcTO2+oxle/UdDLbhJLEb572MjNSLR4/fc3Sl7/IjIBbOLH378Fe3mBXhTPcwx2pgCIM7Bu2aCtz+bLIBRBwk=
-mini.	3600	in	rrsig	DNSKEY 8 1 3600 20250912220413 20250813203413 65330 mini. a5hk2O4TY9FiaANM/r0tWDib2LMb9PxhM68PDzxpO92uY5e8CMmR1EcGRe2vt8RFduB9cKwwyb1LXJTPCD4PkfRKSvoiqfQEotKlRGT0ChytmUf7Wwon7HdwwM5leyvyplta2QrNpOIfvxipfcBxinSH4oGFthn1LpwsWIjQwEfBV1oT9yYNfBCCpVHyKONJLzGjnr73dkVkDxWQv5XZLyD77eay6riooKvsb7vXARl5WkBstySXl8CON61ASF1dUztVi2mJPuFFIwkrVziyUt1B4eAoe7aWYrgVPuYayS7Xg3bc5PM3ZU6dzp3FuiEqKwW23UsXUWiF1uR/CSX/tw==
+mini.	3600	in	rrsig	DNSKEY 8 1 3600 20251009201508 20250909184508 65330 mini. MfN58sxXtX/vtvQiia/8/sxCna2+0zerCxfjVAAC6PiGQsADULU3tkGvVKR58rJQ3k3nPJQftRDCi++MiuCJ7IMeZepTK37ol5KfMYmfW2RMnzzQa3zRvzpQjQoPkQCZGWfqw0ygcYJne3wrMn2G6/M7uUppOwN+4DLuIY7IK6H9PxvMtwpFvQCl1XHcikQ4gJl9Ve86HTuieMjBidoQlBPqmcQuBTrHwNYkzj+B1+O/DAIsnbwjZuh1B3sov2iRCn0/b93N8nin8I7RRdRD48SGi6T6JpXZ2ZnFS5zcJVNMEy0/nmGB7AHy2AFDGyDKdSZtRI1pwZt18o/SnPKFzg==
 mini.	900	in	nsec3param	1 0 0 -
-mini.	900	in	rrsig	NSEC3PARAM 8 1 900 20250912220413 20250813203413 42655 mini. LDYuh+kyyzRQR6OapdUFBKGJDw7OU1x6rkG6X2Y+eT73scv5mlH2EDtaGmT5irFo5D4Cy7aW7cHHNTT/bzz/B9zd4U8G6iHeywMkRH+mTJEQqGhDUjv9K/1jbUxvGxUCLpkPTx6W8Xp+YWG7S8IhASuLS5eFGQLuCj/9bYUubsM=
-mini.	900	in	rrsig	SOA 8 1 900 20251005005401 20250904232401 42655 mini. GU3n/nOR5CQ+9QGlHT0MHXMCDtBhel0hi7+puRumnxh2MRdggDECLGc2+hgUT6XqO/nku3fSxYO6RqohcgxsFqbd49d4p/nbdTcvbIYGfz08WMt2S+9ZbaL8bf7KVdlJN7uAMXGHV8mMLuTgSJuV5P4bKblG3zNudlAWDMtqP/U=
+mini.	900	in	rrsig	NSEC3PARAM 8 1 900 20251009201508 20250909184508 42655 mini. oSocusmiZNC2Q4CiS4tncADLB/Yz7oCpRSfoF8tm8bNS2ByoVdBFrA+kjfycn5G1wfsmHJd9Qg+kLa/sfqVI7UYSmfkj1nrP7IO5MZUFxMH9sICTBMq+Niyd7dPsbrnQ92KTs9shCFG0VeZ6l+ztAiMrzquToe5dkR6SUI2Hso0=
+mini.	900	in	rrsig	SOA 8 1 900 20251011005116 20250910232116 42655 mini. o7i8QI5czwbFZanrduFxLNUoqILwhH8vk66olJRtY835Hr5NPDnH9JFnMU8lbYMLnY5Fq9sb3QBvj75KO92IwKHMLeF3916W9ZY3ymIM7/O25+saMjNbW7+LQ7iKK4GQzDjOrSht8Zn7QbK9mqVvUw/ko1W0xJNFdYyXycOyBwM=
 muenchen.mini.	3600	in	ns	ns1.brandshelter.com.
 muenchen.mini.	3600	in	ns	ns2.brandshelter.de.
 muenchen.mini.	3600	in	ns	ns3.brandshelter.info.
@@ -307,7 +307,7 @@ parklane.mini.	3600	in	ns	ns4.brandshelter.net.
 parklane.mini.	3600	in	ns	ns5.brandshelter.us.
 pdt-subdomain-test-18xyv1j.mini.	3600	in	ds	60485 5 1 2BB183AF5F22588179A53B0A98631FAD1A292118
 pdt-subdomain-test-18xyv1j.mini.	3600	in	ns	ns0.example.com.
-pdt-subdomain-test-18xyv1j.mini.	3600	in	rrsig	DS 8 2 3600 20250912234517 20250813221517 42655 mini. pakY7sFhd8ABFnh2eI2Ilm6AsLiK62dq3jrD8R31XTq5Fo0jbgoAAx1aJU2Yi9xDOJJ1rZYBEg8rGKS9KLB1KV9PK54Lg0utlswAjMFPyUjHc0/ipXA7zkzW9T3ol3L7wDR2gB/8T3vCriVIjLYBNeRjlvurwyDGxU2z/Zc9w8I=
+pdt-subdomain-test-18xyv1j.mini.	3600	in	rrsig	DS 8 2 3600 20251009220413 20250909203413 42655 mini. Vg6Kw2aGUv/KECy+Sk0C2oL0qOggCuhKCHalPL74ZNEG6zec4kNl9f40jEOCYVjyFCC3bTdb11xcTevdsJj9xfuYZ3Qio4ha6wOTehbLggN79wu23TljXkTFxSeIFgo/5Ai/Jp6FI1KTgiAHaylihWJ0XS9yJDhQqnv3OZ8rECI=
 saar-pfalz.mini.	3600	in	ns	ns1.brandshelter.com.
 saar-pfalz.mini.	3600	in	ns	ns2.brandshelter.de.
 saar-pfalz.mini.	3600	in	ns	ns3.brandshelter.info.
@@ -409,4 +409,4 @@ yourscustomized.mini.	3600	in	ns	ns2.brandshelter.de.
 yourscustomized.mini.	3600	in	ns	ns3.brandshelter.info.
 yourscustomized.mini.	3600	in	ns	ns4.brandshelter.net.
 yourscustomized.mini.	3600	in	ns	ns5.brandshelter.us.
-mini.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019124757 900 1800 6048000 3600
+mini.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019125055 900 1800 6048000 3600
