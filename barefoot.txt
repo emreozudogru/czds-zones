@@ -1,6 +1,6 @@
-barefoot.	3600	in	soa	a0.nic.barefoot. hostmaster.donuts.email. 1757033671 7200 900 1209600 3600
+barefoot.	3600	in	soa	a0.nic.barefoot. hostmaster.donuts.email. 1757552124 7200 900 1209600 3600
 098knik6vscjv5f1mkslqtgu6fvn3d24.barefoot.	3600	in	nsec3	1 1 0 73 FJLBCJLGEHPG407J4JK3EGPMKET9LKBI NS DS RRSIG
-098knik6vscjv5f1mkslqtgu6fvn3d24.barefoot.	3600	in	rrsig	NSEC3 8 2 3600 20250922155052 20250901145052 64554 barefoot. Xz5TU5sV+E5n3XOeLZVcgVWccUCUEVrqJD0alQnHDFFnwFO0VjQ8VoyMRJNb9/rJuRRcDoa6h7XT7pLJ+mB3ftFWzsjRimHLYtF1f7CjuemfXwv0+99L3q5hPM0XCbwQfSeA9KrBJjIVLruer4aN0IF5CmLl+aFVuhVWnj2wQK4=
+098knik6vscjv5f1mkslqtgu6fvn3d24.barefoot.	3600	in	rrsig	NSEC3 8 2 3600 20250930161533 20250909151533 64554 barefoot. TUSRgIaMWtL2a/oJv8bYh1u9tEPNZp2SHR2XewSdGKrsaYsCadu1oWZWWQ27tFM/eVAfVBQuiZ+EXUcsoHrrqKfPPSb0YQEO+AuR8PUwJbHXUDt22cG3wqxlogWFLG8vZadWFXFWHDq9GUZCO9p0kvlt3N4yDTcodywZMcIlsMc=
 a0.nic.barefoot.	3600	in	a	65.22.56.17
 a0.nic.barefoot.	3600	in	aaaa	2a01:8840:0036:0000:0000:0000:0000:0017
 a2.nic.barefoot.	3600	in	a	65.22.59.17
@@ -8,25 +8,25 @@ a2.nic.barefoot.	3600	in	aaaa	2a01:8840:0039:0000:0000:0000:0000:0017
 b0.nic.barefoot.	3600	in	a	65.22.57.17
 b0.nic.barefoot.	3600	in	aaaa	2a01:8840:0037:0000:0000:0000:0000:0017
 barefoot.	3600	in	dnskey	256 3 8 AwEAAZ4YM7/x0NjMwOFaAhPvrtlig8w7ZXr++HE3chxEBUBeqVedqPJpH+U7lXEZwvfFQGOyTLjb3+noz8wdOUMBfWplcspVKeehMmMGATcaOMjacvhDQb4D9FDCAeRxcCioLZ/et01AxN4mWm2hWc9rAmyfuZNdh+XEjGR9H6zS60pZ
-barefoot.	3600	in	dnskey	256 3 8 AwEAAd9XghgKG43bk4l9CbN8ODOdM43dB/M50s87ZwtClUDsxjW3zsVp9a0iNa+GwKWD/+to+mpzVnCZkbhl9eFBrtUtDbH/nlgfAAEy31p85umluX9nHvShyACrKokwvkehWlCmgDT5vRFAzce2YMzo3gfXjMaEfz75zPmHoW6NsiW5
+barefoot.	3600	in	dnskey	256 3 8 AwEAAbuWtLpmUfuMuPU/AgLY6rFKomUMiiKW8vNQNFPW3JNKt1BOxDbn3qo55E3nlTsedIpt7KQxpHOZihp/x5s+/S5+GB6YPozi6XWd/tY6d3Zorlp6RtclkEVd3/WCSPDk8lNVfybBO9LsYqqXd9himNFSldznlBKBqfdEOsrb0OP9
 barefoot.	3600	in	dnskey	257 3 8 AwEAAc2skWHhJ3QjaqOzdWIMeN5YgdadwPO5/wqZ/1f9Hooxv1fu7NJk5oTYiLY4jSpOiPZJz3HI9A9OD9AAds49bZmrDvuu4mGTIQ1nY4dm+UHk5/n8EWsFtglRhIz8tyzLMZh3HYiSGQh8Ih/UQ0t8Hhmu19b/uF7zA9GZ0gBllyigwQ/k1zjTLnYLqcwGrNfSfFra89f24ILX2jVXz1L5fRlVoIlyrDGdAyoL//O6w8MC5Q/h886X3XXW873ppopjPk/9mHiuaZD50Gh5Was9xaWnlYh/VGaYxrW0aKfU6p5LxxdTUSbhYgjy8KyD0/YqiWlm4oshNEwhwV5hpe36kIE=
 barefoot.	3600	in	ns	a0.nic.barefoot.
 barefoot.	3600	in	ns	a2.nic.barefoot.
 barefoot.	3600	in	ns	b0.nic.barefoot.
 barefoot.	3600	in	ns	c0.nic.barefoot.
 barefoot.	3600	in	nsec3param	1 0 0 73
-barefoot.	3600	in	rrsig	DNSKEY 8 1 3600 20250922155052 20250901145052 39166 barefoot. K5m1NqW1/+NcBAO6UdhKEVBFeHg/H3jFP7J0XDLOQ3Cg/qu6XXgKnEMfJrrvXXkIxnJjyE/Fc6ejK4zwbm2fSqgp6QiCBTE7wK18zuhwTNfTlxvr5qgnBeBvw0GSvThTcRnfDWoi2OxIgZZyI9GX24q1/8joPD8bmMwZf8b//uBbQYKCjjpTJm/LJpoffi9M2JtvWnGZW/rFvfHgAQjuJRED0WEKUJOWqmAGVpwtqplbiyTJSY91gaeZ72AGi/GT91LjnkxgPn+EQ11GM3jch3pMcnGwYI/hcxjoO07MQ4QQ3v+Jq1ZSOchtA/7xaTVdUVmJ0iNShbbC75lkL2e0nw==
-barefoot.	3600	in	rrsig	NS 8 1 3600 20250922155052 20250901145052 64554 barefoot. WZKW9sWcd/PH0VnQ5pu2kbODuHbvw3cQQTB6+cLiaF5y8KRqP5XFgeS0c6ffHygzxVAfhF/iw06PFMTrBrnknvX1vtUH+MGiH04NWDWhAuq69javchsbhm/HxKhFEeuQpLJvbwtfCeFbc0Z5ccJmihLagTy5wEhZothkx7CceEo=
-barefoot.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250922155052 20250901145052 64554 barefoot. Z49QGyWCvbI9IXrMlLk+0Ky8sE7YvVhcBpAQrCuzmRpNOuE+NFJVCI9LYS8hAkioU/KBrJdacs0NAgU9zVPJ/pzY3BvcTa6U8AADY3j8Fhd7k89p5orJm+SEuAmEPL/Tys1DFz5Qzuowvju2FkQVmMJjO9mQhKho/5cpa15cThg=
-barefoot.	3600	in	rrsig	SOA 8 1 3600 20250926005536 20250904235536 64554 barefoot. fC6eY1ChXenMijrXNevzu5Lppss71AoTgkaehbW1HQRY7iyzbdSA5QkXU7MqWkvPf/7wbtdaSYV6HpUWktTdMts9Hta8zbVKRUTtaZfxQNvmmMsp+/lFDU8+WhnWl8kQ0qWHJj0j4LjK/I23wWFRGM5sl1PS++CD06lE0sImGCU=
+barefoot.	3600	in	rrsig	DNSKEY 8 1 3600 20250930161533 20250909151533 39166 barefoot. Ru/GKOx8CYrYb4Pwkdz2m96Si1F5ZQKr5xErRok5In87BQaSU1vTrk2F5nQ/Zy4CNkTU6mQzuxhBL5puaktyQe6QNaKjKjsZ0N1jAvw8jo/r+yNXKK+/jH3A9/pqWg+mQsHuLKlppzYO2xS1wAsQb5iuX7bBzaf+mkNrN41HE0vWEOkEA0K3N/Z7lTCW3P67dyl6eBlF/sshY1dAcxiRatKSTWdW22wV0jkvECs/xIt7FpLPveJinyOVURblnc1FYLea3cPqaCrVugehTVCNBrxeGYOIMyEuOrrMTMeLt8pJqp466V4WgRKkLN7lCT9D/5DlQzXOTPxHpsbVAMjkaQ==
+barefoot.	3600	in	rrsig	NS 8 1 3600 20250930161533 20250909151533 64554 barefoot. WH89eJ5hYaLjBno7GXv+OaDAEDH4v4f1CMsj5RNUaSO+E8EMKTleEQGMN/KmHqKSljXWkR941b/kiobV3ioaL+l6V2lLu0tPUjolCKKtplbwuz/ZDFi7f7teL2be1ZfwBT+l9e84HL11PTdeZdq3lj2Li6ZCQc+eVH1KPfeSPV0=
+barefoot.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930161533 20250909151533 64554 barefoot. Zrg20I0g7i6QvHu6okzHd3CmY0O56GFOhM/D68F0kkYJKdoHEMDnaW6FA7tLloCOg/xZg/ks6UrJpBaBX5kAJncfm/WsziT1sKJZojXrEiZCj/vlsgTTUffa3HGGVNTlJsgTmEjr/Az+lepA6yN6Q3vtiOF4H8yP3gAiFyz3C6Q=
+barefoot.	3600	in	rrsig	SOA 8 1 3600 20251002005631 20250910235631 64554 barefoot. WU11kzjznToA06g2Y3bT0YsyTYGpLIlM/eNue9lwH2Wan7/J0GN43CXXk82rdVxrHreOC3u6nmhGIXaoKJNSXJDtTUBMTds7K5GM0nwNUc9dYGnkFIvow2DA28rv3WMdSzXHtd0xSTpGbZn0BNZacGwXpto+z4pS4KTnOVYrooM=
 c0.nic.barefoot.	3600	in	a	65.22.58.17
 c0.nic.barefoot.	3600	in	aaaa	2a01:8840:0038:0000:0000:0000:0000:0017
 fjlbcjlgehpg407j4jk3egpmket9lkbi.barefoot.	3600	in	nsec3	1 1 0 73 098KNIK6VSCJV5F1MKSLQTGU6FVN3D24 NS SOA RRSIG DNSKEY NSEC3PARAM
-fjlbcjlgehpg407j4jk3egpmket9lkbi.barefoot.	3600	in	rrsig	NSEC3 8 2 3600 20250926005536 20250904235536 64554 barefoot. Zi7ttEOfXQ49o6SlEcCpJQRpAA51o7CbVtf1Dg+C/evJqvRbgXULlB7EBXBmk22V86WJnNlyrypNC3+s4zRjoFWKQoJq1RiQpLRaz79MuKc3VixLjLsDSL2RzlI4dC4tGkiZJQwNBLYWUBQygG/kxp7hJnGjXiLT8z2XyLlGNdU=
+fjlbcjlgehpg407j4jk3egpmket9lkbi.barefoot.	3600	in	rrsig	NSEC3 8 2 3600 20251002005631 20250910235631 64554 barefoot. mWqRian54pSwY411ioR+OnPmwQy06CFdFzjs6VnnahfrHbGVSFe0KnQT5+BfG2knaoHP9FUv3XFL5E41kI9JfHlseGx9BIo05i9OZDLwr7O1r4cSxpxaSLUtUWILpxiOXGH4qh60khdONN87hgHjt240bJKPy5ari+gegW3fyUc=
 nic.barefoot.	3600	in	ds	22752 8 2 ADB5CD407166FA24B89B38A05ADEF755AF7CAA79BB5293A11228594B61DB4102
 nic.barefoot.	3600	in	ns	a0.nic.barefoot.
 nic.barefoot.	3600	in	ns	a2.nic.barefoot.
 nic.barefoot.	3600	in	ns	b0.nic.barefoot.
 nic.barefoot.	3600	in	ns	c0.nic.barefoot.
-nic.barefoot.	3600	in	rrsig	DS 8 2 3600 20250922155052 20250901145052 64554 barefoot. Z1XlpRBXVorwlkJOJUfiPHDXqv58G4+IxMdKON3WmGWaUWSbjfTQf9o5FxO4yxcFO4dFb9xV1+F3i7kz3TrtnWDa2oDjQZVhirzSmnKoXKcwFdg92JBuffzPQPngzjc7cm0igGmjhNIWPt8fOOsOqcmWMNaUx6DluIgIDsutEME=
-barefoot.	3600	in	soa	a0.nic.barefoot. hostmaster.donuts.email. 1757033671 7200 900 1209600 3600
+nic.barefoot.	3600	in	rrsig	DS 8 2 3600 20250930161533 20250909151533 64554 barefoot. h+3e5zmjesbqMFVnXFtu1GS6ShtG3O/BBTiJpJ4lW4J/EZgc9XS9hIxK9DbXP/A4HL4RjgZfLYbHvocs7DRY5CbcjM/bqj8JhOskGRfA4hUv8NXvUgnhQjcq3KTLzymV3JZRrFUL/dM4S7Zmu5TDMIjvh8IF2UuXS7GUokpeTLg=
+barefoot.	3600	in	soa	a0.nic.barefoot. hostmaster.donuts.email. 1757552124 7200 900 1209600 3600
