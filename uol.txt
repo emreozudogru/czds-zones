@@ -1,8 +1,6 @@
-uol.	172800	in	soa	a.dns.br. hostmaster.registro.br. 2025248036 1800 900 604800 900
-0k6neopt4dq3n5a6nuufpabthsnoldc5.uol.	900	in	nsec3	1 1 0 D6889C347B537701C96D 4CQ91NG84V6G9J2AGTUKN9C3KAHECGVG NS DS RRSIG
-0k6neopt4dq3n5a6nuufpabthsnoldc5.uol.	900	in	rrsig	NSEC3 13 2 900 20250917202501 20250902192501 49344 uol. 0MuzPa1fQnuXF7rhGS5PYIK+eto40PuMjRAzowNfzSPqlsWD96NYLMK+VwAbnq/Frf43pAZKZJ2OhRtnWuWlcw==
-4cq91ng84v6g9j2agtukn9c3kahecgvg.uol.	900	in	nsec3	1 1 0 D6889C347B537701C96D 0K6NEOPT4DQ3N5A6NUUFPABTHSNOLDC5 NS SOA RRSIG DNSKEY NSEC3PARAM
-4cq91ng84v6g9j2agtukn9c3kahecgvg.uol.	900	in	rrsig	NSEC3 13 2 900 20250920013001 20250905003001 49344 uol. t87qe48vucYq0vk4fpJsDSu+4orQgTho1BjuRRfH8UaGM3ZxkDG8yNQdJslOGkzQmRX59otv2WBVNhJWOjXb2w==
+uol.	172800	in	soa	a.dns.br. hostmaster.registro.br. 2025254034 1800 900 604800 900
+26khfhoa5fev5rats1t7dgr6p343e59a.uol.	900	in	nsec3	1 1 0 1A7B28D4D7E139728550 KT6BJO44C1F3KH9JCT4CG1AKCIMFH4Q2 NS SOA RRSIG DNSKEY NSEC3PARAM
+26khfhoa5fev5rats1t7dgr6p343e59a.uol.	900	in	rrsig	NSEC3 13 2 900 20250926012501 20250911002501 49344 uol. ZAcPoim5SamZjSNkBDjtcP32VRaMRK8/0Z+XOg72dSJgDfIKGVtmxgAsqZliAeAn/N6kY//N5ztaZSGlRXWc6Q==
 ads.uol.	86400	in	ns	borges.uol.com.br.
 ads.uol.	86400	in	ns	charles.uol.com.br.
 ads.uol.	86400	in	ns	eliot.uol.com.br.
@@ -86,6 +84,8 @@ ingles.uol.	86400	in	ns	eliot.uol.com.br.
 jogos.uol.	86400	in	ns	borges.uol.com.br.
 jogos.uol.	86400	in	ns	charles.uol.com.br.
 jogos.uol.	86400	in	ns	eliot.uol.com.br.
+kt6bjo44c1f3kh9jct4cg1akcimfh4q2.uol.	900	in	nsec3	1 1 0 1A7B28D4D7E139728550 26KHFHOA5FEV5RATS1T7DGR6P343E59A NS DS RRSIG
+kt6bjo44c1f3kh9jct4cg1akcimfh4q2.uol.	900	in	rrsig	NSEC3 13 2 900 20250923190501 20250908180501 49344 uol. 753RQbZFVqN4ggkr3vei9WcnjJPGZ9YYEwttR0CWL16BTek799O3lhZlhcsGV1vRFfbvgdxLVprkWyTXsqGllA==
 link.uol.	86400	in	ns	borges.uol.com.br.
 link.uol.	86400	in	ns	charles.uol.com.br.
 link.uol.	86400	in	ns	eliot.uol.com.br.
@@ -108,7 +108,7 @@ news.uol.	86400	in	ns	borges.uol.com.br.
 news.uol.	86400	in	ns	charles.uol.com.br.
 news.uol.	86400	in	ns	eliot.uol.com.br.
 nic.uol.	3600	in	ds	31346 13 2 89C3CCC16777FF1BB3C2D757954AA23FF9BC18A60FF3520CFB5FEDE677710E91
-nic.uol.	3600	in	rrsig	DS 13 2 3600 20250917202501 20250902192501 49344 uol. ooyTUg0ybo5XERDJHbUkzHZYeA7AJmGXeYOwGfPzYn+eu6zydNcRIye/aDnViKCd8EGZW1zlIuSDdTncIgPW1Q==
+nic.uol.	3600	in	rrsig	DS 13 2 3600 20250923190501 20250908180501 49344 uol. hSd/xuaPLDHTg7qyUAE6YPUVmGH8xMyoFcAWLnszddDiAARSC4BmGGGaDWaTTSenq3Em37ON9C1U8l2LdLDA2w==
 nic.uol.	86400	in	ns	ns.dns.br.
 nic.uol.	86400	in	ns	ns2.dns.br.
 noticias.uol.	86400	in	ns	borges.uol.com.br.
@@ -153,13 +153,13 @@ uol.	172800	in	ns	c.dns.br.
 uol.	172800	in	ns	d.dns.br.
 uol.	172800	in	ns	e.dns.br.
 uol.	172800	in	ns	f.dns.br.
-uol.	172800	in	nsec3param	1 0 0 D6889C347B537701C96D
-uol.	172800	in	rrsig	NS 13 1 172800 20250920013001 20250905003001 49344 uol. OLDFs2TAU0F0F1aWi3jAsogTRgjJbmsX6o506c3/yXJUj6qKLwO8/ALTqzKHFwQOOgyJUuEF2DRxFOm2JXna6g==
-uol.	172800	in	rrsig	NSEC3PARAM 13 1 172800 20250920013001 20250905003001 49344 uol. FUKP2KxerzlqpU8xvCB7oy8dT7Q4G0yY2t8Zs75wX5lKiIWEes3a2cifCCh8f6f5pKNkEkKCSNfxO45VizCRrQ==
-uol.	172800	in	rrsig	SOA 13 1 172800 20250920013001 20250905003001 49344 uol. nL+1Gh7t5ssWFTxGKuAKJ4TRJGit5J4axo5g+mZsYXWioDGhBNKkJgA2YYpSKcCQxHf2tfNtxxyVbbVwjfZSfg==
+uol.	172800	in	nsec3param	1 0 0 1A7B28D4D7E139728550
+uol.	172800	in	rrsig	NS 13 1 172800 20250926012501 20250911002501 49344 uol. 3XRgpzf+n82jsqlmpxfwtq6VeBZ6L88NG0ivVo6WXIqjXqaOjgmSlNHZhx/+u9Zu7Z/xRr8q3TSa6/KJP2VDrg==
+uol.	172800	in	rrsig	NSEC3PARAM 13 1 172800 20250926012501 20250911002501 49344 uol. qhYufzBllH9mxNSBUe70mlVzCamk/2PRM0Z5X2nTdMKU0c8rXNrsnsiaoz+u2bOXaHmCpz7B7IcPn8qmdijp3w==
+uol.	172800	in	rrsig	SOA 13 1 172800 20250926012501 20250911002501 49344 uol. BWiaPvKwxECrZ5LC2JeSYI9RnTg/rlggO/AqnrSUv1wNPSkuoJ1/mTx2zPzrMQc07EisNKqIILIb2HYYZDEpQQ==
 uol.	21600	in	dnskey	256 3 13 L3smZR4+Se+StwKKp1gp2KpcgIOAfWAMp/0/hOBFgKacCDM282+ea/tu2dA00QFLzSfgEVmH+6Fp+tzfk5/7Bw==
 uol.	21600	in	dnskey	257 3 13 aSLe8DKC4FAtlbuJ/oDAoYllx6gtswLz5ne7ARgyj70+ZHYwzr/sM1bAes2FNxR23ZfL6LKNqiMA8TA+LAi2Ow==
-uol.	21600	in	rrsig	DNSKEY 13 1 21600 20250914120000 20250824120000 50876 uol. bbz7KiHssGICD1S2o6lldkU79Uq09bSkt6V6ai/KFAvga8G4Tf6O4DUQRYJcvUBp6KHhMclemv3IcwZUvqlHmA==
+uol.	21600	in	rrsig	DNSKEY 13 1 21600 20250928120000 20250907120000 50876 uol. uyi1Ncye6kbKO8XRKfDUvKbKHlNMIwpfexMJqCEz+WZJHaKBGha47LD9SeUgwBXLE+KLYufRruF09yScW8/N5w==
 uolhost.uol.	86400	in	ns	borges.uol.com.br.
 uolhost.uol.	86400	in	ns	charles.uol.com.br.
 uolhost.uol.	86400	in	ns	eliot.uol.com.br.
@@ -188,4 +188,4 @@ wwww.uol.	86400	in	ns	eliot.uol.com.br.
 xlg.uol.	86400	in	ns	borges.uol.com.br.
 xlg.uol.	86400	in	ns	charles.uol.com.br.
 xlg.uol.	86400	in	ns	eliot.uol.com.br.
-uol.	172800	in	soa	a.dns.br. hostmaster.registro.br. 2025248036 1800 900 604800 900
+uol.	172800	in	soa	a.dns.br. hostmaster.registro.br. 2025254034 1800 900 604800 900
