@@ -1,4 +1,4 @@
-car.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1756037798 900 1800 6048000 3600
+car.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1756941527 900 1800 6048000 3600
 001.car.	3600	in	ns	ns73.domaincontrol.com.
 001.car.	3600	in	ns	ns74.domaincontrol.com.
 001.car.	900	in	nsec	1.car. NS RRSIG NSEC
@@ -11,8 +11,12 @@ car.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1756037798 900 18
 360.car.	3600	in	ns	ns-1537.awsdns-00.co.uk.
 360.car.	3600	in	ns	ns-210.awsdns-26.com.
 360.car.	3600	in	ns	ns-594.awsdns-10.net.
-360.car.	900	in	nsec	a.car. NS RRSIG NSEC
-360.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202 16662 car. 3LUBxZnBPd7X9wcEI8SxKETAoB9DaOjikkO2ynD3jzqvhRiTf06V7u9QFYPU4jt7cVnuMC7YWvwgAz6BgfJ/LQ==
+360.car.	900	in	nsec	8xbet.car. NS RRSIG NSEC
+360.car.	900	in	rrsig	NSEC 13 2 900 20250926064358 20250827051358 16662 car. mK3EyJ9kj172RXJCG+m0Hd4DZsadthFFxDj3k5BV7Z5drh4q1CjI2IwsM7S18PlLhrIRG0bt4NOOzqyU1G3VHA==
+8xbet.car.	3600	in	ns	a9.share-dns.com.
+8xbet.car.	3600	in	ns	b9.share-dns.net.
+8xbet.car.	900	in	nsec	a.car. NS RRSIG NSEC
+8xbet.car.	900	in	rrsig	NSEC 13 2 900 20250926064358 20250827051358 16662 car. ZHDN4g7fgD4I4uNHplhci1nQcUMTarZuKLHZDEy37Fsx0vIp/yq47mihnakdX9upwuBIJHCbHGZXgkk/rd+tkQ==
 a.car.	3600	in	ns	ns1.sedoparking.com.
 a.car.	3600	in	ns	ns2.sedoparking.com.
 a.car.	900	in	nsec	a1.car. NS RRSIG NSEC
@@ -48,9 +52,9 @@ afri.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202 16662 car. f1
 ai.car.	3600	in	ds	63768 13 2 B0009B47BB7602C9465701F3A6550101B43BE3277767BE69E53D0F725957563C
 ai.car.	3600	in	ns	launch1.spaceship.net.
 ai.car.	3600	in	ns	launch2.spaceship.net.
-ai.car.	3600	in	rrsig	DS 13 2 3600 20250902204459 20250803191459 16662 car. tl71K0cswEaipKSlh48xl2zfyhN9nzt/3w1OPq9lntPq9o2l6/AE1BAVtyc9ssZ1teQoYDkXOvlpdazTW4yO2g==
+ai.car.	3600	in	rrsig	DS 13 2 3600 20250929204459 20250830191459 16662 car. AgVodusyFbC7x/Yx+dofq49lzBo8HMZ9j9Iqhch8pi102syD589O/2B0q8G0JmzLuHZV7xl3N4ErUb3y3Owt1g==
 ai.car.	900	in	nsec	airion.car. NS DS RRSIG NSEC
-ai.car.	900	in	rrsig	NSEC 13 2 900 20250902204459 20250803191459 16662 car. lAIdAGxvsd2itoRTVmCxyJ/qsn5yEZAfLOA2hAUkuiW/3PDRXwTS3mPwsg10I9urpyE/sZnLgUo0Achemq0NLQ==
+ai.car.	900	in	rrsig	NSEC 13 2 900 20250929204459 20250830191459 16662 car. MwwqUxNAM8/oQsPnbwQFgJksZSJtdqVja4HFL9ldu05eCraAuhxTQCpJvteWoPBsr4Ylz6gBCWM5mpidx6+WHg==
 airion.car.	3600	in	ns	ns.udag.de.
 airion.car.	3600	in	ns	ns.udag.net.
 airion.car.	3600	in	ns	ns.udag.org.
@@ -255,11 +259,11 @@ bye.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202 16662 car. n2R
 byebye.car.	3600	in	ns	hans.ns.cloudflare.com.
 byebye.car.	3600	in	ns	irma.ns.cloudflare.com.
 byebye.car.	900	in	nsec	c.car. NS RRSIG NSEC
-byebye.car.	900	in	rrsig	NSEC 13 2 900 20250906191529 20250807174529 16662 car. hMnYU9BE7mOMouZl+/h//JbRdflv3eQ/wf4xcriuDjIgeZXKZpGzOvbAakD1XDYJGtluxjQY1ZQm/f1qs5SW3w==
+byebye.car.	900	in	rrsig	NSEC 13 2 900 20251003191529 20250903174529 16662 car. D9KBKlVVOfDE7WzwHx9JybOkseZ4oPUfh4wkHN2tUFDCLfwwWTZxDQotPy4Hc89eHHPMybJ7LVvjP2kKTyeTOA==
 c.car.	3600	in	ns	dns13.hichina.com.
 c.car.	3600	in	ns	dns14.hichina.com.
 c.car.	900	in	nsec	carfi.car. NS RRSIG NSEC
-c.car.	900	in	rrsig	NSEC 13 2 900 20250906191529 20250807174529 16662 car. ZbBtaNIbKz5oo6rcVBmTu6aYW5qTXc61BWxBATX5sAJgJ94beTNr2sEAoXoLoqOkDukFoYSLFnHpHcB+mvptdA==
+c.car.	900	in	rrsig	NSEC 13 2 900 20251003191529 20250903174529 16662 car. A8w4DIWauUXabj8ud6+LVlgVS2qXydWR/XGFUuyNuRivWkShSd/FYNstN9bK7XXFkVY2LhUtCzlXeHUhnA0JKQ==
 c.nic.car.	3600	in	a	212.18.248.130
 c.nic.car.	3600	in	aaaa	2a04:2b00:13ee:0000:0000:0000:0000:0130
 car.	172800	in	ns	a.nic.car.
@@ -272,7 +276,7 @@ car.	3600	in	dnskey	257 3 13 vP09I9WD4JeJtYQxmyQghpVtV6E+OyciYtoS9MoINDBELx0RxNU
 car.	3600	in	rrsig	DNSKEY 13 1 3600 20250913103202 20250814090202 35548 car. KsvCh2hszzUNvua5d7jM6kf9G7R5Qt2Zdko0eqF6wQiyMIkV2woHLX96tWNMavdsS8iGlQbGpjEhU86I0jbhMA==
 car.	900	in	nsec	001.car. NS SOA RRSIG NSEC DNSKEY
 car.	900	in	rrsig	NSEC 13 1 900 20250913103202 20250814090202 16662 car. ejbfRh+dg6l0f2qqj5/fHgiQDnKdXk6XV0otiS9i9LJUR9vfxnSSNensBpldgLaXYpSL86W4QciJJYNSmR5DZg==
-car.	900	in	rrsig	SOA 13 1 900 20250923121638 20250824104638 16662 car. pXHfTuA/+L3ujgvjppJSbGc6GE5aAEOzNgJgtVBkThxB8A2vhh2WOtGL8Ja8WqZpA12gdKzTPwjCqeFP3kTaCA==
+car.	900	in	rrsig	SOA 13 1 900 20251003231847 20250903214847 16662 car. NxE9i1x2C5oswJsvCWiEOKe90g7+uSVN2xPCCqkLRPIZ94WCu21T1S3s5Lio90m4VchQIL8r4EvuP3bEUkecbQ==
 carfi.car.	3600	in	ns	pdns03.domaincontrol.com.
 carfi.car.	3600	in	ns	pdns04.domaincontrol.com.
 carfi.car.	900	in	nsec	carplay.car. NS RRSIG NSEC
@@ -286,7 +290,7 @@ carplay.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202 16662 car.
 cashfor.car.	3600	in	ns	4995.ns1.abovedomains.com.
 cashfor.car.	3600	in	ns	4995.ns2.abovedomains.com.
 cashfor.car.	900	in	nsec	changan.car. NS RRSIG NSEC
-cashfor.car.	900	in	rrsig	NSEC 13 2 900 20250905081454 20250806064454 16662 car. 6xm9xgN8BLdOrxYB2sFvuugNoPaioN+SY2cP5YYZ5mdAhaGD8R6SkMBVpek6pSDg2e3nsZHfk7JLy+rDhhUa3w==
+cashfor.car.	900	in	rrsig	NSEC 13 2 900 20251002081454 20250902064454 16662 car. hlm2ht7y2Q6FMpL3ONCOk5z8BdW/Ci2HZLbZK7WQaVRgql0hrOZaLEgvwRre7UzzTqOgEFOubSraboDvfqWa4Q==
 changan.car.	3600	in	ns	ns3.myhostadmin.net.
 changan.car.	3600	in	ns	ns4.myhostadmin.net.
 changan.car.	900	in	nsec	charge.car. NS RRSIG NSEC
@@ -323,11 +327,11 @@ clever.car.	3600	in	ns	ns-1754.awsdns-27.co.uk.
 clever.car.	3600	in	ns	ns-90.awsdns-11.com.
 clever.car.	3600	in	ns	ns-965.awsdns-56.net.
 clever.car.	900	in	nsec	cloud.car. NS RRSIG NSEC
-clever.car.	900	in	rrsig	NSEC 13 2 900 20250904204132 20250805191132 16662 car. MYFc0JFHL9ZeyAMFGZLG5h3PKm/nwsnu2dj0fX+s0LT1SrqFCF2xBhQSn0ejlwrlUpAKsSmx2rkidCnHRkiUUQ==
+clever.car.	900	in	rrsig	NSEC 13 2 900 20251001204132 20250901191132 16662 car. MNbIDsaZRHP5rnYWgisWDvOUfTIWEGS8JDKiEV4QNXXfJSi7Z9EcVbaKFyC7MqtCsp+FXjOBppDKU5rj17yZaA==
 cloud.car.	3600	in	ns	ns33.domaincontrol.com.
 cloud.car.	3600	in	ns	ns34.domaincontrol.com.
 cloud.car.	900	in	nsec	compare.car. NS RRSIG NSEC
-cloud.car.	900	in	rrsig	NSEC 13 2 900 20250904204132 20250805191132 16662 car. /5mb/YSzhM1KS2QNDGIGYvGxUx10fQTZfcJYDbL4tWKM/pkUpcZopwMuCgOU2hOwcBbYCAw7m5hTeNcwCSR3tA==
+cloud.car.	900	in	rrsig	NSEC 13 2 900 20251001204132 20250901191132 16662 car. 6VtOP21l4F93vagHoK1kGRYozkH/2YcTWoHIM34tcDSPFPjP4AgOkl9x3RM1PCNUOV0BSOaFWofdiMp9Dx3Xbg==
 compare.car.	3600	in	ns	ns51.domaincontrol.com.
 compare.car.	3600	in	ns	ns52.domaincontrol.com.
 compare.car.	900	in	nsec	comparethemarket.car. NS RRSIG NSEC
@@ -543,7 +547,7 @@ ferrariart.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202 16662 c
 financebroker.car.	3600	in	ns	dns1.registrar-servers.com.
 financebroker.car.	3600	in	ns	dns2.registrar-servers.com.
 financebroker.car.	900	in	nsec	findmy.car. NS RRSIG NSEC
-financebroker.car.	900	in	rrsig	NSEC 13 2 900 20250830180751 20250731163751 16662 car. B5XH3DPhXGusdpHwSJ0nQXq9hqC26m23FAWC6pWfPhRCRzPi+JUOdvsYVAlSaT/tyDGEsC/teppw8qLm1PxmtA==
+financebroker.car.	900	in	rrsig	NSEC 13 2 900 20250926180751 20250827163751 16662 car. HqxmF9IYr2Y5E3tSnhQHfP4KQ3blfJL3LCHGjW1sUKfFa2O+KsaabfIwpkP8EJFaHZFMurOgyZ1/Tu1Np4l89g==
 findmy.car.	3600	in	ns	ns47.domaincontrol.com.
 findmy.car.	3600	in	ns	ns48.domaincontrol.com.
 findmy.car.	900	in	nsec	finn.car. NS RRSIG NSEC
@@ -555,7 +559,7 @@ finn.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202 16662 car. s0
 fixter.car.	3600	in	ns	anna.renault.fr.
 fixter.car.	3600	in	ns	xenia.renault.fr.
 fixter.car.	900	in	nsec	flip.car. NS RRSIG NSEC
-fixter.car.	900	in	rrsig	NSEC 13 2 900 20250831082547 20250801065547 16662 car. N+R4Bqr2S4TIWGAxQ6RHJzfiQntcuhNJ3dzDwCjdjKzEEmLJIBriNa0Hu5hu0CGpzEcQThqt5O6BdLn+XARtnw==
+fixter.car.	900	in	rrsig	NSEC 13 2 900 20250927082547 20250828065547 16662 car. 6Na3mwO5nzRlhHPe/gQR4+3CUjWdc+0yx8rSDRdqOTmq9vfIkIYdD4JHHrrjuGVTYfaz6C/Lt5bidiFJvfivFg==
 flip.car.	3600	in	ns	ns1.worldnic.com.
 flip.car.	3600	in	ns	ns2.worldnic.com.
 flip.car.	900	in	nsec	flying.car. NS RRSIG NSEC
@@ -583,11 +587,11 @@ formula1.car.	3600	in	ns	nsgbr.comlaude.co.uk.
 formula1.car.	3600	in	ns	nssui.comlaude.ch.
 formula1.car.	3600	in	ns	nsusa.comlaude.net.
 formula1.car.	900	in	nsec	futurama.car. NS RRSIG NSEC
-formula1.car.	900	in	rrsig	NSEC 13 2 900 20250902121748 20250803104748 16662 car. WGwc1ge1Oja+JyokLKcoVvgEkvPya7goXInfsLUtW9XB68i4IilS/qlEl3FypiqW1rm/3mZT932fFduzg6C4OA==
+formula1.car.	900	in	rrsig	NSEC 13 2 900 20250929121748 20250830104748 16662 car. Bxzqh8tQA1CEpqroGKUrS6pfDtet/euYcg12A5bCgRavaEWq9xoZTK/9lVZl04TAihuT6uUM+CILoF19SwoVhg==
 futurama.car.	3600	in	ns	dns1.cscdns.net.
 futurama.car.	3600	in	ns	dns2.cscdns.net.
 futurama.car.	900	in	nsec	geely.car. NS RRSIG NSEC
-futurama.car.	900	in	rrsig	NSEC 13 2 900 20250902121748 20250803104748 16662 car. igW1hbhO0slO8YMm46Hu7vbM0Q0J6b/U8S5kdM5KR8iVVOpVp7uIpjeiOaiP3QecgCfbLSfRA6kW5hrkFrB/5Q==
+futurama.car.	900	in	rrsig	NSEC 13 2 900 20250929121748 20250830104748 16662 car. ayYmhPLC1S8tks1PJWhIH4BGK/yL7J6/iplusOLo7nylzT5tjHX3MZa2o3OL9tEmYeeECGHholWCkxrVlY8a5g==
 geely.car.	3600	in	ns	ns1.gxkjdns.com.
 geely.car.	3600	in	ns	ns2.gxkjdns.com.
 geely.car.	900	in	nsec	geico.car. NS RRSIG NSEC
@@ -637,9 +641,9 @@ go.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202 16662 car. UHOr
 goa.car.	3600	in	ds	26167 8 2 B2E35923F36CFD6FA460C378B2ECA2EEB3EDC35A204E2EF729B22651294E89E9
 goa.car.	3600	in	ns	dns15.ovh.net.
 goa.car.	3600	in	ns	ns15.ovh.net.
-goa.car.	3600	in	rrsig	DS 13 2 3600 20250906150522 20250807133522 16662 car. OSVKdIu4O6txXJu5C0P45VtNzqXyjxPUMb0I1sRiGEQ9yGkCh0XJU8YD/7eyrBFVlJP8IroVzDwEZn2GSahVvQ==
+goa.car.	3600	in	rrsig	DS 13 2 3600 20251003150522 20250903133522 16662 car. WO3+NWi0YIPZLVG9RMU8VLVpWmqN9AANlLASPDOiUD+bsPR3C+J7TFl6xuAqR5klGZSuYEOmjrj7fbeQ2dRaqg==
 goa.car.	900	in	nsec	goco.car. NS DS RRSIG NSEC
-goa.car.	900	in	rrsig	NSEC 13 2 900 20250906150522 20250807133522 16662 car. k4qv62rJyCpzd/d2kSkJjxE5RHzC4xTQcTXZ6ZgeChPgaMHpYlI3EAh82nllcOC4jHYaBaMDmkvr4NrGkmdnqw==
+goa.car.	900	in	rrsig	NSEC 13 2 900 20251003150522 20250903133522 16662 car. y1VWCLEM5mgUU6ZI/bq6jyybZ2GGPIVtSWwDJp9+kPFM8gFABSTo+POBl87rVyZ4Laj46eEX3qXI2Fu7TQondw==
 goco.car.	3600	in	ns	ns1-01.azure-dns.com.
 goco.car.	3600	in	ns	ns2-01.azure-dns.net.
 goco.car.	3600	in	ns	ns3-01.azure-dns.org.
@@ -692,8 +696,13 @@ halo.car.	900	in	nsec	hartford.car. NS RRSIG NSEC
 halo.car.	900	in	rrsig	NSEC 13 2 900 20250923004722 20250823231722 16662 car. N52JfHl3tJIoHVU0lWHoeX58dbYaZRKXK2H5trfGaq6ZfzznFEc+nlxaVV8dNLj8nx3b30W5gTdFc3XhJqo77A==
 hartford.car.	3600	in	ns	dns1.cscdns.net.
 hartford.car.	3600	in	ns	dns2.cscdns.net.
-hartford.car.	900	in	nsec	hendrick.car. NS RRSIG NSEC
-hartford.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202 16662 car. sJ3XT3XPnx8bqcmAGWcAgpbLZJ4Jnlq5ylcsfrDnXUn9vq1jhGYdqr9xy55xofX8QenmgJ8gLoe03bKXEDrpkg==
+hartford.car.	900	in	nsec	hello.car. NS RRSIG NSEC
+hartford.car.	900	in	rrsig	NSEC 13 2 900 20251001120253 20250901103253 16662 car. ZE5AqIEN5vb9+gboVKAHuXcoJy1TRDZcQ8D+GnkU4k3+tbcUyUpzKLjS10wrFV5Nl8cynJqM42sQWksvmBnzHQ==
+hello.car.	3600	in	ns	ns-125-b.gandi.net.
+hello.car.	3600	in	ns	ns-253-a.gandi.net.
+hello.car.	3600	in	ns	ns-36-c.gandi.net.
+hello.car.	900	in	nsec	hendrick.car. NS RRSIG NSEC
+hello.car.	900	in	rrsig	NSEC 13 2 900 20251001120253 20250901103253 16662 car. Drdr+LZ5ON/DaVHF8zOCoWPgScW5of2B+BXyT7jDXB75qbrC7vue+SIC/FqjLbyFNQj8TmO3huWoAlCIvTfvwQ==
 hendrick.car.	3600	in	ns	ns05.gcd-dns.com.
 hendrick.car.	3600	in	ns	ns06.gcd-dns.com.
 hendrick.car.	900	in	nsec	hey.car. NS RRSIG NSEC
@@ -947,13 +956,8 @@ lynx.car.	900	in	nsec	lynxmotors.car. NS RRSIG NSEC
 lynx.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202 16662 car. zST7lg0d1si9nZ2ywFnUl3BsBGOjR0B4YF81INSScFyh55r+BMZ5WPK5WCi9qEuqU4p2gRZstQrA/bpA+7pWiw==
 lynxmotors.car.	3600	in	ns	ns65.domaincontrol.com.
 lynxmotors.car.	3600	in	ns	ns66.domaincontrol.com.
-lynxmotors.car.	900	in	nsec	manhart.car. NS RRSIG NSEC
-lynxmotors.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202 16662 car. Q9kwjeZbcsfF7j3gPrBGy9RQvYh9Ab/5C3BnILRHVo3FlVwb2CCD6zpYtDSATWuI5TNlxX/sHLdbXStpyCCBMA==
-manhart.car.	3600	in	ns	ns.udag.de.
-manhart.car.	3600	in	ns	ns.udag.net.
-manhart.car.	3600	in	ns	ns.udag.org.
-manhart.car.	900	in	nsec	maserati.car. NS RRSIG NSEC
-manhart.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202 16662 car. FNvsvLuGjLDMbdsmYfO0Q80UQiUtOHjQ86FbhKdsxQsPh4caB6lkL8NmhkY2T6h2kd7psUGJPm9e8yHzLVFIyw==
+lynxmotors.car.	900	in	nsec	maserati.car. NS RRSIG NSEC
+lynxmotors.car.	900	in	rrsig	NSEC 13 2 900 20251003003517 20250902230517 16662 car. Xkjw0NrwN2z8nmU8Py4S1/fNacZNyLpmUMKrKDAW25fX/VMpyeo/aab2kpSK+LbPgoOoxUM66VpnF2n/Bol7Fg==
 maserati.car.	3600	in	ns	ns-17-b.gandi.net.
 maserati.car.	3600	in	ns	ns-216-a.gandi.net.
 maserati.car.	3600	in	ns	ns-51-c.gandi.net.
@@ -1058,12 +1062,12 @@ monet-technologies.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202
 moto.car.	3600	in	ns	ns63.domaincontrol.com.
 moto.car.	3600	in	ns	ns64.domaincontrol.com.
 moto.car.	900	in	nsec	myparts.car. NS RRSIG NSEC
-moto.car.	900	in	rrsig	NSEC 13 2 900 20250905104831 20250806091831 16662 car. R4619HCRal6Pc9xizQa1cbNRNivwuXCU3p/uODVw/rnRL3nWLHIUsH9VGEsS9hcAf391EHCvmb+fIVDhylByGQ==
+moto.car.	900	in	rrsig	NSEC 13 2 900 20251002104831 20250902091831 16662 car. Fbs+L1rexKeMdSPCGsqYYAATtVfMKwoaLhNvzDXyea2vAzHyZI3LeGFCqNp+fMLs+fVN22fQ0o+moAlqmzVVPw==
 myparts.car.	3600	in	ns	ns.inwx.de.
 myparts.car.	3600	in	ns	ns2.inwx.de.
 myparts.car.	3600	in	ns	ns3.inwx.eu.
 myparts.car.	900	in	nsec	nas.car. NS RRSIG NSEC
-myparts.car.	900	in	rrsig	NSEC 13 2 900 20250905104831 20250806091831 16662 car. IE4VGSj8imFvbO3nRUYql0HOHNUqnDrewaPRLPjkcMEJxwBfFY4x5Si2PlXZZ8oADYoVnNrTajwK7niEF5+WJA==
+myparts.car.	900	in	rrsig	NSEC 13 2 900 20251002104831 20250902091831 16662 car. TDl9kcj76yn4gARtgd+mvdBcAR8GFfkK1nAOxogxGRFK2XNiim1fPnlmtW+qjczaQMFISUbhPMg1g3kjFxHfow==
 nas.car.	3600	in	ns	ns-1429.awsdns-50.org.
 nas.car.	3600	in	ns	ns-1781.awsdns-30.co.uk.
 nas.car.	3600	in	ns	ns-208.awsdns-26.com.
@@ -1284,11 +1288,11 @@ rentthe.car.	3600	in	ns	b.ns14.net.
 rentthe.car.	3600	in	ns	c.ns14.net.
 rentthe.car.	3600	in	ns	d.ns14.net.
 rentthe.car.	900	in	nsec	revinate.car. NS RRSIG NSEC
-rentthe.car.	900	in	rrsig	NSEC 13 2 900 20250906231847 20250807214847 16662 car. bkiizQUMZ0r6iF5I1kF4gZA+N1Niwp7FYO/MIG5+AD6RTAj24QwIleg3S9QSWvdwduid/OqEI5sL1LrAbd0cuA==
+rentthe.car.	900	in	rrsig	NSEC 13 2 900 20251003231847 20250903214847 16662 car. QdyKCC07LgMXhOSi/UglM0GkFNqXE+NxL6r04Isk5oVejOj7YqcTLLsqE94B6ypgvzjqQGAlM1QrxJ0DggbYCA==
 revinate.car.	3600	in	ns	ns69.domaincontrol.com.
 revinate.car.	3600	in	ns	ns70.domaincontrol.com.
 revinate.car.	900	in	nsec	rivian.car. NS RRSIG NSEC
-revinate.car.	900	in	rrsig	NSEC 13 2 900 20250906231847 20250807214847 16662 car. ks4EX+g+VYlZYtuMxTYzTQXv4OJgGk7zwe5wJhGxKUuPnipzttu04fcwnrVQeQKg0a357V2F8dZBFefCT/5eMg==
+revinate.car.	900	in	rrsig	NSEC 13 2 900 20251003231847 20250903214847 16662 car. aFF8TMiTjv+piMI6dO//+5Ze8MPFeogwHmB1KR9WF1YWiCnVQzMvawo7uHUDrrm8kr+oJRdtn991ej6hQIoXlA==
 rivian.car.	3600	in	ns	nsgbr.comlaude.co.uk.
 rivian.car.	3600	in	ns	nssui.comlaude.ch.
 rivian.car.	3600	in	ns	nsusa.comlaude.net.
@@ -1343,7 +1347,7 @@ sell.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202 16662 car. rf
 sellmy.car.	3600	in	ns	4995.ns1.abovedomains.com.
 sellmy.car.	3600	in	ns	4995.ns2.abovedomains.com.
 sellmy.car.	900	in	nsec	serra.car. NS RRSIG NSEC
-sellmy.car.	900	in	rrsig	NSEC 13 2 900 20250902073314 20250803060314 16662 car. vV+u7lz+usw2zvNsa5scPIkKYVi+wv5TfU1JeHLIe1wk9dhhy6yH+oiEQOoolI3PMlleOb48uUainEVY9gOJMg==
+sellmy.car.	900	in	rrsig	NSEC 13 2 900 20250929073314 20250830060314 16662 car. R6jAhbexNs8fbOHICtPWOsiHSu1VVZfe6nuOt5PuMx525gfyira1s4EiUQgVxnSqyOLZciycDPEf61BwDUmOJQ==
 serra.car.	3600	in	ns	ns1.uniregistry-dns.com.
 serra.car.	3600	in	ns	ns1.uniregistry-dns.net.
 serra.car.	3600	in	ns	ns2.uniregistry-dns.com.
@@ -1595,7 +1599,7 @@ yahoo.car.	3600	in	ns	ns5.markmonitor.com.
 yahoo.car.	3600	in	ns	ns6.markmonitor.com.
 yahoo.car.	3600	in	ns	ns7.markmonitor.com.
 yahoo.car.	900	in	nsec	youme.car. NS RRSIG NSEC
-yahoo.car.	900	in	rrsig	NSEC 13 2 900 20250906000725 20250806223725 16662 car. nUtXV/ZOQ2ivK3+/B8gwx/5hUbTf1fL0NiuL1op8uqBL3YtnkcVZH8qti1CzBWWXDDSnCr+D40MqO+0lFIaYPA==
+yahoo.car.	900	in	rrsig	NSEC 13 2 900 20251003000725 20250902223725 16662 car. qz5ZsN0XXGm5WEo7xdXpj8feIdVcG5VaEeA8pHayvlIO7N9prO7iwyRUYTMtevZNwzMxFxmTeP/t/BriJWFYZA==
 youme.car.	3600	in	ns	dns103.register.com.
 youme.car.	3600	in	ns	dns104.register.com.
 youme.car.	900	in	nsec	youtube.car. NS RRSIG NSEC
@@ -1620,4 +1624,4 @@ zip.car.	3600	in	ns	ns-1946.awsdns-51.co.uk.
 zip.car.	3600	in	ns	ns-897.awsdns-48.net.
 zip.car.	900	in	nsec	car. NS RRSIG NSEC
 zip.car.	900	in	rrsig	NSEC 13 2 900 20250913103202 20250814090202 16662 car. LOY6oWvt4O2z8dEyqAm3xN1VaWzcQ3fb5sZlYCxQxASRChvwmO6btjpPphjdQnlX5EEYUMMCcJ22jRLsA3Tfrg==
-car.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1756037798 900 1800 6048000 3600
+car.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1756941527 900 1800 6048000 3600
