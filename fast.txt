@@ -1,8 +1,8 @@
-fast.	172800	in	soa	dns1.nic.fast. hostmaster.nominet.org.uk. 1756233825 900 300 2419200 60
+fast.	172800	in	soa	dns1.nic.fast. hostmaster.nominet.org.uk. 1757002409 900 300 2419200 60
 1800flowers.fast.	172800	in	ns	dns1.cscdns.net.
 1800flowers.fast.	172800	in	ns	dns2.cscdns.net.
 5fohnkr36c46pbvfmkmoufp98apj6j74.fast.	60	in	nsec3	1 1 0 - CMHQB3U3D5U1NM3GDNMM7G1QOG87RPJ0 NS SOA RRSIG DNSKEY NSEC3PARAM TYPE65534
-5fohnkr36c46pbvfmkmoufp98apj6j74.fast.	60	in	rrsig	NSEC3 8 2 60 20250924074332 20250820070843 45928 fast. Vf2cJ5qNmhIVcjUnA/st8mLjq6he10xlzj0pHzhyyHYWyMrDE+abLCeBaacJoQDq05wZUjMD4Ry+9yTVR5zU6PmgO8S1QgfGBNJiCs2jqtv5T0EgcS09JEXR+i7fHD2n7zVUlsOY32ZQk+D5xmaaztEs2a5wWlO5NHqwXZ9k2uiVOXm+rS/16CzSZUt+WcXYBkmdVNyE41jvEuujEzVYOw12veg3Ki21HT2zHpsOXl7G+JFlcSv6rjY5mD3XAJR6fp3qCgynQweR6FS+dfpjWHxqXrYrHmrRHEmxHbxo/F/G1Aqq0Q9XJmkO6RF1ClWYICfpvJ8PXW7OZdSZwLWZbw==
+5fohnkr36c46pbvfmkmoufp98apj6j74.fast.	60	in	rrsig	NSEC3 8 2 60 20251008071655 20250903063556 45928 fast. pXLLcS33kKnTxk6d2niBnaEUsYJ9BE7Fk1xMySZSXYR8l67cVQ5YGG/vkQ5yR5sFhIkaYJ2AZPZ/IVeLgZY335Nf5VYZpZPFly5ytXN83UuChB9sXc7zJQEKKLwSeGHsqHEfnfdaOlyv/d3dtXnXVg0lgKWk+uYtVAsUWvU7hXtl/nAPxSZnkdOZljK2JTaGxWLVpit5zrRhc3qG1CiJHnkmW+48l33kADE3ssknbnMkskiBnK54ksCGfAIxX5KgIznTHsKV7K2DzlmvB9slmMHCUQyEQhJCwOsPNlIsTNY6yNmaMANc7KI0LpRxTM7yJeMwsrIPAUPJbHYRIcybCg==
 amazon.fast.	172800	in	ns	dns1.comlaude-dns.com.
 amazon.fast.	172800	in	ns	dns2.comlaude-dns.net.
 amazon.fast.	172800	in	ns	dns3.comlaude-dns.co.uk.
@@ -28,12 +28,28 @@ avangrid.fast.	172800	in	ns	dns.iberdrola.es.
 avangrid.fast.	172800	in	ns	dns2.iberdrola.es.
 avangrid.fast.	172800	in	ns	nsusctmar04.iberdrola.com.
 avangrid.fast.	172800	in	ns	nsusorsw104.iberdrola.com.
+aws.fast.	172800	in	ns	dns1.comlaude-dns.com.
+aws.fast.	172800	in	ns	dns2.comlaude-dns.net.
+aws.fast.	172800	in	ns	dns3.comlaude-dns.co.uk.
+aws.fast.	172800	in	ns	dns4.comlaude-dns.eu.
+bloomberg.fast.	172800	in	ns	dns1.p01.nsone.net.
+bloomberg.fast.	172800	in	ns	dns2.p01.nsone.net.
+bloomberg.fast.	172800	in	ns	dns3.p01.nsone.net.
+bloomberg.fast.	172800	in	ns	dns4.p01.nsone.net.
+bloomberg.fast.	172800	in	ns	ns51.ultradns2.com.
+bloomberg.fast.	172800	in	ns	ns51.ultradns2.org.
+bloomberg.fast.	172800	in	ns	pdns1.ultradns.net.
+bloomberg.fast.	172800	in	ns	pdns3.ultradns.org.
+bloomberg.fast.	172800	in	ns	pdns5.ultradns.info.
 broadcom.fast.	172800	in	ns	edns161.ultradns.biz.
 broadcom.fast.	172800	in	ns	edns161.ultradns.com.
 broadcom.fast.	172800	in	ns	edns161.ultradns.net.
 broadcom.fast.	172800	in	ns	edns161.ultradns.org.
 broadcom.fast.	172800	in	ns	ns96.ultradns2.com.
 broadcom.fast.	172800	in	ns	ns96.ultradns2.org.
+canva.fast.	172800	in	ns	dns1.safenames.com.
+canva.fast.	172800	in	ns	dns2.safenames.net.
+canva.fast.	172800	in	ns	dns3.safenames.org.
 claude.fast.	172800	in	ns	ns1.markmonitor.com.
 claude.fast.	172800	in	ns	ns2.markmonitor.com.
 claude.fast.	172800	in	ns	ns3.markmonitor.com.
@@ -42,9 +58,12 @@ claude.fast.	172800	in	ns	ns5.markmonitor.com.
 claude.fast.	172800	in	ns	ns6.markmonitor.com.
 claude.fast.	172800	in	ns	ns7.markmonitor.com.
 cmhqb3u3d5u1nm3gdnmm7g1qog87rpj0.fast.	60	in	nsec3	1 1 0 - QIFUBUDJ8CJOC3M6F2FT8GHLFDJ37CQI NS DS RRSIG
-cmhqb3u3d5u1nm3gdnmm7g1qog87rpj0.fast.	60	in	rrsig	NSEC3 8 2 60 20250924074332 20250820070843 45928 fast. rqO7ZNeKI4RmfflVOXIpsVHCruQ3W9hqKBxNJoCqKLX4AnSYZdo4rZzO6tPzM9wA4AIpTcWRyuNrO3bSbNLDs47Wepf9Z7MlIn3qFPfT8Xrtviz53RF+d8DHvDK+HOzWKdNpvNFRkiJTYIFd/m9ziRXZs6vEIgkGFY3vWxojbrNS5Icc+6R/4V9CDvGVQ+YvD9Mt0bEj38AmG7J9sA0bPljqgziF9yeyEpyeDXfqBif+QCZ3nffSv+5g4M8TmlR30AaQukykDRjEcQRMyqIUxgARHRdWtyR05DSe6U1z3RradRlLy/4/yGCPCnp5EhIYvB2XQwT7dzEOyA6kLGr8oQ==
+cmhqb3u3d5u1nm3gdnmm7g1qog87rpj0.fast.	60	in	rrsig	NSEC3 8 2 60 20251008071655 20250903063556 45928 fast. jRGWvl35lLzpJpa0RmWLkQSppGOUSWxNpnmkSfgtTeTRejbx6rUq+/cDNOA63Hy3HuJ0Sz+CsYufCe7MwXIpKnFlJ2WU1wrILW7POqxtUDr34qHs+HV6i/SmnIMnWjvfGzw4FIEj6PEkd0G4wYo7ytKZtJIMy70jL17leSlPhZ3RtCb0/O9uLpLtSftIMU8AwFJkaDdzFSj6ica6lxe42wEW/uiLeQsvdJFBJsyYHpQwe1w5gHSDMOtmeUkuEfONvjMrJwSf/5Qo8xtmCwvu5NW9yzMfoFM4EzhxLyvCWIiBYMb54MFpeUbPJp48p6mxldAbErhLaOYEtBkHSBZGJw==
 consciouscapital.fast.	172800	in	ns	ns1.101domain.com.
 consciouscapital.fast.	172800	in	ns	ns2.101domain.com.
+criteo.fast.	172800	in	ns	ns-54-a.gandi.net.
+criteo.fast.	172800	in	ns	ns-59-b.gandi.net.
+criteo.fast.	172800	in	ns	ns-88-c.gandi.net.
 digipen.fast.	172800	in	ns	ns1.101domain.com.
 digipen.fast.	172800	in	ns	ns2.101domain.com.
 dns1.nic.fast.	172800	in	a	213.248.218.66
@@ -63,9 +82,11 @@ dnsc.nic.fast.	172800	in	a	156.154.102.3
 dnsc.nic.fast.	172800	in	aaaa	2610:00a1:1009:0000:0000:0000:0000:0003
 dnsd.nic.fast.	172800	in	a	156.154.103.3
 dnsd.nic.fast.	172800	in	aaaa	2610:00a1:1010:0000:0000:0000:0000:0003
+fashionnova.fast.	172800	in	ns	ns1.101domain.com.
+fashionnova.fast.	172800	in	ns	ns2.101domain.com.
 fast.	0	in	nsec3param	1 0 0 -
-fast.	0	in	rrsig	NSEC3PARAM 8 1 0 20250924074332 20250820070843 45928 fast. DLIt7LghGm/hxTdZa5iU2qKgM0qRCPeJclmOfugvq+xLpN2+upcrUiTtCCzbFg+0DDW91ehSvZHvM/15ghObZKBNwpbcFA7duCrUry7BO8zuHxmEhEXXTJGpGXTCN65hETWOeTpcbJSZ5LZB/ZwkClz+H+XmcRAGF1updA4YkJCi4FIGSq2E5udRJefRYjKMYcOZTtcM4HC++d4spUHLVOyudUuDE6HNahFPmh+e41ZymYGG0bDDc4Tpp9STE/iu9NLTUBI2mqWtA1T8p+cj5qrkXqfaO6qbR1Nymb+HJDtTvN99dOu4b3i9sRFJ3TpAKSpRJSVZ9zxmVCRkWBYuBA==
-fast.	0	in	rrsig	TYPE65534 8 1 0 20250924074332 20250820070843 45928 fast. qH7zFqiKc61kTsSzxPc7aQKFitF+w2dkpgV3weovaXuXLS37L4rFrZRaxCzsQjq8pbueZk05OsJp3lSS5WBpyl0SKlxaxIYcdzLXpKFsMdAlfNtpw678Z3ejTiOBc/ppeHzKDYS/dHTFfLaje4GaLQMEcrifhZLl+FSmmKc5KOCFHEgJIL2lPGpjVofM5HC3cG+g2TvLwM04Li/idDPqH3++maNLtKgZhKhQt0PUCongu+5ROyJ7VdT0in6nxgdLas/ettr0d2X/DBmOuWXpO7J0k8SO4yTny7VcyeBJRelYgp4UJbsikmVgMrFH9mQCKBK7ci1T500gHrfSWT1a3g==
+fast.	0	in	rrsig	NSEC3PARAM 8 1 0 20251008071655 20250903063556 45928 fast. nLqqGbLbWKZ/Xvbp9mjetRNGVPZkj56Qva56A3OGvktGXKuNwZA5qv9W6gk8lx/hrHmHTpmSKUj3BM13Tb8QevoyXg0hFy957ckGIkGNq8mOFD9m1Crl7qq97JtWWJlaRgs7SZxpHCAmRCv712LK02206FA/BsZ13lMgSyAyNuABAtl2ZG4XZgMa2YasWu8txI03gLRUTYLT7Aecr48le3JiGGr9IO6yerKnSECMVYJBB690W/1pUNa9XxTy5/2FoYW0xp2cNpGQIgEjxnDvxFtzYiDPqLHEqQstfyMk8Bmfq46R7uguhfiy/9JnT78iEWA4jMrOP75ehTd4hIhQ4w==
+fast.	0	in	rrsig	TYPE65534 8 1 0 20251008071655 20250903063556 45928 fast. MveEahsnDIS1uweonN1pygdpXHKGacjrbjCLMDdT3wyazvtcRMXdcDg07VpgIn0oXghbgByVf+87Jh1tnUh61cuxOmC1BxQacoJfSG2SqfTiuuQO1Mr9taXZHizq8kDEHHXBqWwrgQQxgMJfFpt3/q8cY86eYvfXer4SKArX9rhIaNruhKXDcYVT685HzyI38we/2+9i3S1dQDr5c1BS7H3iakSPY+RUw+p+sbrzKQEkUn3ZspR5nUzV+RQPYxfrBZ4qsv3WsBUsFIUty84/GXVw/ssEsT17Z8ss5owyoIFm+ZWC+EOOA26QJ2pwiLGPXSM+SKrrStDDkTV8KSPPQg==
 fast.	0	in	type65534	\# 5 08B3680001
 fast.	0	in	type65534	\# 5 08C4DC0001
 fast.	172800	in	ns	dns1.nic.fast.
@@ -76,11 +97,15 @@ fast.	172800	in	ns	dnsa.nic.fast.
 fast.	172800	in	ns	dnsb.nic.fast.
 fast.	172800	in	ns	dnsc.nic.fast.
 fast.	172800	in	ns	dnsd.nic.fast.
-fast.	172800	in	rrsig	NS 8 1 172800 20250924020211 20250820012441 45928 fast. DOoH2dTRQYSM1+BjbiCJTzfLLzjA4bPWDVFJbpx+PpOPjHppcuWWMWdstA1BxAmlGHY4kzo+iBcMabbix5120goagAIhGGO3kfgFhQrdRrWZLG7VN5hocKhtD2IU1Gv+zrnuF7i+nKgX7XBRHeZ2015VQoyFkvRrNDGtUTUF2pGcuAGoguDn3LyVdDcf2QMYI9nHufNMnd5DGZmrtK/QPmNZ7A08aZaC4WHzqcAjzrOFKZ19dqJf9LDWNzu4zM31ac1dB4OruzmlstEPbpCHprbFY394XgV1+/qqkt6acxZb9XM53a2av1CvsMDr9RIk5INr3dkqhokdLyE9/ZoDdA==
-fast.	172800	in	rrsig	SOA 8 1 172800 20250930184345 20250826174345 45928 fast. P94xHmFzEnK37hjK28x9zXczx8jvv+SRcXcEd8xZ7xl7fHwP6BmYGCIIDVThb/IH73BKiS0tDD+/GzJPSUf379UhNiFMC1++ghR5FSMOclyI5uQK88HJsH6NenBfx0eyM5+fovpCpukvmsntbKdZizwAyqwVXgiiSKnH7Lj507rhYDAUvrfWnPPOVQevF2NiiNSpo2qO6/RruMpsBbKo5gUZBgis6EG/e2g8LVDyZHCGiQSkAY8u5AUJmrYQRkiOf9tx1w1aYwYWXa073yslPv0J83fGSfe7XycEmxev7cwD8tmFh4B4H/xEzqladrcbplENN5upU5nieltZUl8kAw==
+fast.	172800	in	rrsig	NS 8 1 172800 20251008001734 20250903001630 45928 fast. I4PvZXYzNtQPPBGKkD9xY0IrGnnxd9twEFI0liM0ZfNmLOAm4tfyBMHeq8KtdzIQxDg8aZQIPjJ/3Rk/HslibL4g5pKqpc5qifoA5wq53pIqbcmqQoQpBmYXM08chBXVhp0/ekASGvg0vcISGdJe+PJHs52S9adG00wY/Ypa3iFlxWu0Pv4wwIye9ty97WhUMKDdfp5MeUQXoAg5GfbrcAjncbr30bLK0jtKnnvoY02CfIuMxjlF0UgBntb6c9aNS9TmDlv6zbskcVfFRj18EMAT+OCIAyTA1fo69Hx1z/bCFXN7h6dz8KcXTQf05bc6CFB5VSZx6sNaCKznGWYSlA==
+fast.	172800	in	rrsig	SOA 8 1 172800 20251009161329 20250904151329 45928 fast. aPGtjMSu++VUu1Q61gaoq0msBeLFV+UyRqXA2sucnL95zF7d8VZYWRdfjLEZ45Is9yXS8MCLAJqIeGyP2C69f53+GI0Eu7lrp4lx+sZ+arJ3jVYHQayJUB0ffjWep53zkQFh7nhtX8cGr/bnQ/HHRIZY/xg2y6oz+iMqMx51QVVkm6MpUb1Yw9NonOSQII1BuoZqnRZ36UVP16jXA20Vy96EOlL35S1jc542aHiauzDzStWlN3+RHu5dvrw06hUWfzG47Wh//FO68GmoMjaUOtltHCsICid3YtBq1hY0BrTN44ges526JmID82fBarzR4fki7iPtrXmR9exQgWNKpA==
 fast.	7200	in	dnskey	256 3 8 AwEAAcJozXJwCn1xS6gy5m0OF3PcznDFz0ZWfEjdamkjGSh2RBjLPegV5RCmzXwg8kCSbu57+GeIMwKMNLCHm86ffpv+ztTZFQ9K3TCGfVFmnjYrvmNCtoR7zYd+WYvb45w6Iv24EZyYR6HzYi44DdVNCr9zRyVbnGspJMKoi3g2SpGmyx4n+2ng4DxwSfY9KMF5pE0LdXNxkL8OythLubBBME4CQI7KU/MkZv/xT3882n+o7M+u5wyfuOCw4NHOP+aHzgEg4nwkKAAAgRMFfxagdUYoFWQGGBetX5QwqSuqkt49CTtCQiobXnBxL/yjTa4cIGT/YrePSqhvWjaiwyPDmfE=
 fast.	7200	in	dnskey	257 3 8 AwEAAdRtDbRjd2EOr+e+Af3nJD6ca6FzhCxjxbaK+/xdBfTVIhshmbuMpQIFaA8mtoWdieXpx2uAbOQG2h3RDOV4oUgQuQllsLAOFMlMBVLOctwa8k5PkHfNNGKbu9Zxt5qGJTCI2TyoPtXoGEYZ1LlHys8Mu8EFCzdg73c26lhjVZc7RJGduSPnmYgr+cYqSr5lBKQrdNej38Qg4K1iQejUJvIkTYhngjo7rY4VCE5u/9KDpbaEFFC819J1NVWlz9wzsg1cYJq39nN3/RfyFFnVAnPQyUvvgviJLStzMPjiqZqhugZ8LQU4orhnwMweWScUdMIqzqfHGOp+5q0HpMXCce0=
-fast.	7200	in	rrsig	DNSKEY 8 1 7200 20250929011927 20250825003625 50396 fast. mwrPSoxqHbKGC3FOMGPYCOSCG+05N4qeKAkUkPnesdmGgHnL1VcCbNSlOnY0H/NEHDgJRdZifDZ+H0dPDbBLj7VGCgFAmKU/zbXkmnWFgU6SqdI25rsGqFJaHUgKdImEL0b98x5Y3liCRqERWI0VacdvbM7MdGaNMUQHaGSb1NG3hSDJFGMkwr3HuYL5xNYgnWa7H9BPMCYmd3NZrx/xxC9FFKXOL1wzDlSN1dPW8pD4LUlkOGMvURisgr1sw1Iy/I4WOuK0qXV4t/dUFHr3bNJty4vq3XQH3bkL6y+gOyuf2cLnYoHjQNTpTwgibxGHWCY4Ugpy0YCv83rg06z2sw==
+fast.	7200	in	rrsig	DNSKEY 8 1 7200 20251006002551 20250901001927 50396 fast. yP/Y8Nt1T7hD1kUQsNKyDUrJKlALTx3V8MLwChxCMv1fJ5UbFJdWUCIorGvIVDqZ8DDojCdNm4F7VBZQyh8G34L5You6vsyHPqCPCYZ3W7I2g2FSMNqErZ3w6TeeyI7+RRo7/QnHtET8FyMm5aBHQ6P2FXcH1wH2abuEs/0WM18cTyop73aTtbTTYdSDW5GEDTpY1FkSxhA7F3PxxQqb6/BMEbeoGEUJVcpCnf5wBK0veb1KPlVwcOA14IpMxodx0lNq2s3J5MCy7nm0KjNXX47Z3HyPQEPp8x1/mTBl5ipMYgIX+PD2WUDCAA6LsIMSP7xVBs8V939TFyDXxW59ig==
+fire.fast.	172800	in	ns	dns1.comlaude-dns.com.
+fire.fast.	172800	in	ns	dns2.comlaude-dns.net.
+fire.fast.	172800	in	ns	dns3.comlaude-dns.co.uk.
+fire.fast.	172800	in	ns	dns4.comlaude-dns.eu.
 flowers.fast.	172800	in	ns	dns1.cscdns.net.
 flowers.fast.	172800	in	ns	dns2.cscdns.net.
 freddiemac.fast.	172800	in	ns	dns1.cscdns.net.
@@ -96,8 +121,26 @@ iberdrola.fast.	172800	in	ns	dns.iberdrola.es.
 iberdrola.fast.	172800	in	ns	dns2.iberdrola.es.
 iberdrola.fast.	172800	in	ns	nsusctmar04.iberdrola.com.
 iberdrola.fast.	172800	in	ns	nsusorsw104.iberdrola.com.
+imdb.fast.	172800	in	ns	dns1.comlaude-dns.com.
+imdb.fast.	172800	in	ns	dns2.comlaude-dns.net.
+imdb.fast.	172800	in	ns	dns3.comlaude-dns.co.uk.
+imdb.fast.	172800	in	ns	dns4.comlaude-dns.eu.
+intesasanpaolo.fast.	172800	in	ns	ns01.trademarkarea.com.
+intesasanpaolo.fast.	172800	in	ns	ns02.trademarkarea.com.
+intesasanpaolo.fast.	172800	in	ns	ns03.trademarkarea.com.
+kindle.fast.	172800	in	ns	dns1.comlaude-dns.com.
+kindle.fast.	172800	in	ns	dns2.comlaude-dns.net.
+kindle.fast.	172800	in	ns	dns3.comlaude-dns.co.uk.
+kindle.fast.	172800	in	ns	dns4.comlaude-dns.eu.
+moneygram.fast.	172800	in	ns	ns1.markmonitor.com.
+moneygram.fast.	172800	in	ns	ns2.markmonitor.com.
+moneygram.fast.	172800	in	ns	ns3.markmonitor.com.
+moneygram.fast.	172800	in	ns	ns4.markmonitor.com.
+moneygram.fast.	172800	in	ns	ns5.markmonitor.com.
+moneygram.fast.	172800	in	ns	ns6.markmonitor.com.
+moneygram.fast.	172800	in	ns	ns7.markmonitor.com.
 monitor-nominet.fast.	172800	in	a	127.0.0.1
-monitor-nominet.fast.	172800	in	rrsig	A 8 2 172800 20250924020211 20250820012441 45928 fast. dxA7aNpGHJGW7/uwWxlo29izfPSg8zWIo4nUyHl6wYE+C9cJnchZZO+Y9e4UgOVrGg3VeIBrr7gYGsmCCLPP5Po4DRGQ9wrfvz+0/YtBpSM64LOfCyJNzbOCz+dKhQqP0e7nkH+7TnhPkJOB9rXWg2XRsnXX3pODrKMrbYMv9x8vlkpMk+j1Ztt0gVLObOCbKcnYJRMda/0W+OB7O9FC1LmQcKHtYhnSnB3hh8ALJUEid36xLSOGzlJpJHARJNWfKAQvm8asJVy6JD6U1jUojrP2mnGy/XYXf/qplnsXuChhm70VEsEKirmFY1q8GDvlnGWC05E8I1zHIDNCp//kOw==
+monitor-nominet.fast.	172800	in	rrsig	A 8 2 172800 20251008001734 20250903001630 45928 fast. fERsc/HxaQWQWbmORAJ6vBEFZmE7CEgj61C3RjCPy8piJmkr186acBtzKkLaIaBq2BAinSDwVrJ0qW/O/yRMOnaAjmcIRCAyVA6B1YYX3ygl036w/P8ELXK1JKRx5HuuR5wei1HQnKYWru41CWffQPRzdFvJ/9Me0i+aPZh+pVBe9nrLTZ6FQu4tP5j6RJhqe46bgRHfX+Zm9n28QdARjytR3AOw2TNF3/DdRoEhs8pCpVm4z5DWswwyR7RFVpxjgkESnJhu8++b4S2leBrsn2GipYo1fxchtTi6NMyCQj4DXsF+24suipPE9/SoR3oJVDgnUDTcj6c5IQS6TT/Gbw==
 nic.fast.	172800	in	ns	dns1.nic.fast.
 nic.fast.	172800	in	ns	dns2.nic.fast.
 nic.fast.	172800	in	ns	dns3.nic.fast.
@@ -107,7 +150,7 @@ nic.fast.	172800	in	ns	dnsb.nic.fast.
 nic.fast.	172800	in	ns	dnsc.nic.fast.
 nic.fast.	172800	in	ns	dnsd.nic.fast.
 nic.fast.	3600	in	ds	52666 8 2 F3E6B16CCB88523BBFECCFF9D889FC735320B7BF31E70230E87FBD6A49129DC8
-nic.fast.	3600	in	rrsig	DS 8 2 3600 20250924020211 20250820012441 45928 fast. K77x912OgheXdlEszkvAZvjg+2oFAFmwlpW9xEJHhjfWr9qfW7DOSQZXhNhih0QJBOkOzTTVreAEjazLc8MHIt/KbE1TwaoMRwl7+GmRKSUWEtHEh5oDJ7OfnVY+qiwAn9UCNkFg3SaYnRQiVz4/4kzd42i8ZPkiMMUMgaIm3ZsVupSgcHcP8ccLlYWsDZgS9XyeXnPwQqnQOsMvbEu6ODn9lMl8rhuy2+IRuVSH0KLXiZAvRcD4c3iIAldknreMhAzwx4lW5FSB1/ONAFSlGQnrYy5nNXkpQflxoVH+fBicNXC1SyAaSP7GqT7dnkbTEc57YTadN7xQ5OBXrGUwEw==
+nic.fast.	3600	in	rrsig	DS 8 2 3600 20251008001734 20250903001630 45928 fast. a9pHWSv0LKQHTKvF2MJq77VSITg2jzaUpM43qhXgTCNHANSvVbIwDX17IrACGkGVtcKRKwX8hocs94k6OOjQyOd6MTz8meDFJmPPZ7wqJNWYUTOPNg6p3SNC4lyoZ9lS35QmB3X3tadHcI3lP1SNCKF3HzQRKnaPRPVFMUSmnzAITJyS5y1XTwgKXhhfiXmUU1OIuxwBi9uOK8mK/nKiar2p62mdxfrDFwh5SkVA8/APt5fD8n9JI+PIF2NAw9SMyJ0Z0E5mOnzOwtvN/cKFcB7UU8i4GJVc26fVqJSM7fzUGQRjWv7jCdShFT/pehD2rmkXoPm8K8VzwyLQkcBzaw==
 petsmart.fast.	172800	in	ns	ns1.markmonitor.com.
 petsmart.fast.	172800	in	ns	ns2.markmonitor.com.
 petsmart.fast.	172800	in	ns	ns3.markmonitor.com.
@@ -115,12 +158,35 @@ petsmart.fast.	172800	in	ns	ns4.markmonitor.com.
 petsmart.fast.	172800	in	ns	ns5.markmonitor.com.
 petsmart.fast.	172800	in	ns	ns6.markmonitor.com.
 petsmart.fast.	172800	in	ns	ns7.markmonitor.com.
+puressentiel.fast.	172800	in	ns	ns-130-c.gandi.net.
+puressentiel.fast.	172800	in	ns	ns-211-a.gandi.net.
+puressentiel.fast.	172800	in	ns	ns-78-b.gandi.net.
 qifubudj8cjoc3m6f2ft8ghlfdj37cqi.fast.	60	in	nsec3	1 1 0 - 5FOHNKR36C46PBVFMKMOUFP98APJ6J74 A RRSIG
-qifubudj8cjoc3m6f2ft8ghlfdj37cqi.fast.	60	in	rrsig	NSEC3 8 2 60 20250924074332 20250820070843 45928 fast. q61Rn5sJQwY6R3eQ/CDxZTfck6bWInXdIAO44gEiDlpl3zYG6g/xfpSMclJH83UqgVT95vzTRV00+NYHSfjApppBPU85NIqgMi7Nfjg0Gxd1PpTjwwAJBI1EMmtgy3SGApURLJDHxdreAIasgN2hM5C23mNPz76Ta9Gjs2HY3IsCctgKjF3ROUq5KkUWvtdK6GHSYR/TdwVydyTcEhQbR9oG9ehwt2QWDoIV0wSwflZ0T5CwKQOwm6Oop56Dg7IdMCJ0c+/6jCWMsqrt3Q1j5X/GImMMrBoid+KofFg2ccsyR4KYGoidiLlb2j0YMvnhy1Vgq5A+MK8my1s6dIw1Qw==
+qifubudj8cjoc3m6f2ft8ghlfdj37cqi.fast.	60	in	rrsig	NSEC3 8 2 60 20251008071655 20250903063556 45928 fast. Hxea/tggdSn0/7LXf9bD8PsULMXZhP8Yx1sAb570q/AZ5uaJJOsbxa3eNF6S6B00qzRB0JZYZAt92yayJaYtKq6sqxX3Vzy+BImdeF160SVQ5vE+lOLYNzvumdIOwa7NFU9aMVeGLNv4hnmDyLSzVtVf90ioYTCYsTb29Mzdz7ndPnObpCX2z5DRlpJSB9HnnB/CdQhdjOP+Natd6zpkiHdg5Ynh0IZOyGAXhHR+xyVcInL2ghwxTCy/rmt91+3gBGxAZtQEL1rUsjKXuKgaW2ylu/kkIuL8ZG6DeL9YiL/Wbdfd9bJhGjua0e3b7cszAybu8Jz8YUKGXSG1spZh+g==
+reddit.fast.	172800	in	ns	ns1.markmonitor.com.
+reddit.fast.	172800	in	ns	ns2.markmonitor.com.
+reddit.fast.	172800	in	ns	ns3.markmonitor.com.
+reddit.fast.	172800	in	ns	ns4.markmonitor.com.
+reddit.fast.	172800	in	ns	ns5.markmonitor.com.
+reddit.fast.	172800	in	ns	ns6.markmonitor.com.
+reddit.fast.	172800	in	ns	ns7.markmonitor.com.
 rolex.fast.	172800	in	ns	dns1.p03.nsone.net.
 rolex.fast.	172800	in	ns	dns2.p03.nsone.net.
 rolex.fast.	172800	in	ns	dns3.p03.nsone.net.
 rolex.fast.	172800	in	ns	dns4.p03.nsone.net.
+soldejaneiro.fast.	172800	in	ns	ns1.iptwins.net.
+soldejaneiro.fast.	172800	in	ns	ns2.iptwins.net.
+soldejaneiro.fast.	172800	in	ns	ns3.iptwins.com.
+soldejaneiro.fast.	172800	in	ns	ns4.iptwins.com.
+stellantis.fast.	172800	in	ns	ns-183-b.gandi.net.
+stellantis.fast.	172800	in	ns	ns-46-a.gandi.net.
+stellantis.fast.	172800	in	ns	ns-65-c.gandi.net.
+superman.fast.	172800	in	ns	ns1-b6.warnerbros.com.
+superman.fast.	172800	in	ns	ns2-b6.warnerbros.com.
+superman.fast.	172800	in	ns	ns3-b6.warnerbros.com.
+superman.fast.	172800	in	ns	ns4-b6.warnerbros.com.
+target.fast.	172800	in	ns	ns03.gcd-dns.com.
+target.fast.	172800	in	ns	ns04.gcd-dns.com.
 tevapharm.fast.	172800	in	ns	ns3.tevapharm.com.
 tevapharm.fast.	172800	in	ns	ns4.tevapharm.com.
 tevapharm.fast.	172800	in	ns	ns5.tevapharm.com.
@@ -128,7 +194,20 @@ tudor.fast.	172800	in	ns	dns1.p02.nsone.net.
 tudor.fast.	172800	in	ns	dns2.p02.nsone.net.
 tudor.fast.	172800	in	ns	dns3.p02.nsone.net.
 tudor.fast.	172800	in	ns	dns4.p02.nsone.net.
+vinci-concessions.fast.	172800	in	ns	ns-171-a.gandi.net.
+vinci-concessions.fast.	172800	in	ns	ns-223-b.gandi.net.
+vinci-concessions.fast.	172800	in	ns	ns-87-c.gandi.net.
 vinci.fast.	172800	in	ns	ns-136-c.gandi.net.
 vinci.fast.	172800	in	ns	ns-229-b.gandi.net.
 vinci.fast.	172800	in	ns	ns-99-a.gandi.net.
-fast.	172800	in	soa	dns1.nic.fast. hostmaster.nominet.org.uk. 1756233825 900 300 2419200 60
+vmware.fast.	172800	in	ns	edns161.ultradns.biz.
+vmware.fast.	172800	in	ns	edns161.ultradns.com.
+vmware.fast.	172800	in	ns	edns161.ultradns.net.
+vmware.fast.	172800	in	ns	edns161.ultradns.org.
+vmware.fast.	172800	in	ns	ns96.ultradns2.com.
+vmware.fast.	172800	in	ns	ns96.ultradns2.org.
+wondery.fast.	172800	in	ns	dns1.comlaude-dns.com.
+wondery.fast.	172800	in	ns	dns2.comlaude-dns.net.
+wondery.fast.	172800	in	ns	dns3.comlaude-dns.co.uk.
+wondery.fast.	172800	in	ns	dns4.comlaude-dns.eu.
+fast.	172800	in	soa	dns1.nic.fast. hostmaster.nominet.org.uk. 1757002409 900 300 2419200 60
