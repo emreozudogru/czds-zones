@@ -1,4 +1,4 @@
-rich.	3600	in	soa	a0.nic.rich. hostmaster.donuts.email. 1757034956 7200 900 1209600 3600
+rich.	3600	in	soa	a0.nic.rich. hostmaster.donuts.email. 1757553403 7200 900 1209600 3600
 1.rich.	3600	in	ns	premium-ns1.dnsowl.com.
 1.rich.	3600	in	ns	premium-ns2.dnsowl.com.
 1.rich.	3600	in	ns	premium-ns3.dnsowl.com.
@@ -8,11 +8,11 @@ rich.	3600	in	soa	a0.nic.rich. hostmaster.donuts.email. 1757034956 7200 900 1209
 2.rich.	3600	in	ns	karina.ns.cloudflare.com.
 2.rich.	3600	in	ns	tosana.ns.cloudflare.com.
 2vihmqdah9t3deshkug1jdb4nitfbr30.rich.	3600	in	nsec3	1 1 0 73 39PVQKQEIOP8DCVL9FFUJQ1KQE4KMNL2 NS SOA RRSIG DNSKEY NSEC3PARAM
-2vihmqdah9t3deshkug1jdb4nitfbr30.rich.	3600	in	rrsig	NSEC3 8 2 3600 20250926011847 20250905001847 36063 rich. n5DfKgDM5A2VSHqbrpAZrNpRY/8GybLvBjHeI8BwX4CxGKGz106HJ4lmStn+Oo8b+p8wvIuVYSrGwnQpaUHAVTSMYV4lt+BZ6clIkZVXFTDfn1ZQfljs8+sqNdyUUlGFaXLT+VKTG+FKg5ke5G1boXafExVjFyHXiG9buPkpDvI=
+2vihmqdah9t3deshkug1jdb4nitfbr30.rich.	3600	in	rrsig	NSEC3 8 2 3600 20251002011938 20250911001938 36063 rich. UQD2kgdGO1FcebytXAbKjfNnlIoMUlYdtpIkIowuldd0AOCMBpwfQGMmtbRJrcy/boaMcZsO28a0D5lcTmy4TmFW+TN8FJXZA8Hu0FCIki2QJVz07Iz0FmoiFXUVCzIZ/NgU8+PMvz5WkHed3kEHm3vR1ud+3w8i2jjFjUsg0uY=
 365.rich.	3600	in	ns	ns1.4.cn.
 365.rich.	3600	in	ns	ns2.4.cn.
 39pvqkqeiop8dcvl9ffujq1kqe4kmnl2.rich.	3600	in	nsec3	1 1 0 73 IK84QUM3Q7MJNAT0F4P3SVJS8AIV8M4P NS DS RRSIG
-39pvqkqeiop8dcvl9ffujq1kqe4kmnl2.rich.	3600	in	rrsig	NSEC3 8 2 3600 20250922152927 20250901142927 36063 rich. caXQkF5NIakQMu6giEP8GSZCbfNBEfO+f77P8xKe1C+6mHJqu+5/Yvf680sl1aQfdLIG7FCTTTq0OPPDBVaqzy1jXQSHjN7gTqR3wyipi7UrspnE3a7dc2nYYTkXTh3ZD3U2MfVVmFv3lN4dOTLj5pViG5K8sYOVrZ48n9rAN4w=
+39pvqkqeiop8dcvl9ffujq1kqe4kmnl2.rich.	3600	in	rrsig	NSEC3 8 2 3600 20250930155512 20250909145512 36063 rich. CYDED6Pcc1fLDGXHRB1Xa8M2vvXwyT7b/Hj/wYR4whz8i46v/sC5Vja8jLnm46tvkRMSulnYCVMdUU1Q/1ikr8ZWbAIk/FQLhwfErxWXpc8dnd04jvjHjnoiGUbAw3AZ3ohU7uEC5OCgWMbTNKuo/CNjQbxoAy6mNDH1Q1/wWoI=
 5movierulz.rich.	3600	in	ns	hattie.ns.cloudflare.com.
 5movierulz.rich.	3600	in	ns	santino.ns.cloudflare.com.
 777.rich.	3600	in	ns	ns1.dyna-ns.net.
@@ -79,8 +79,8 @@ born.rich.	3600	in	ns	ns01.memail-dns.com.
 born.rich.	3600	in	ns	ns02.memail-dns.net.
 born.rich.	3600	in	ns	ns03.memail-dns.co.uk.
 born.rich.	3600	in	ns	ns04.memail-dns.org.
-btc.rich.	3600	in	ns	ns1.dyna-ns.net.
-btc.rich.	3600	in	ns	ns2.dyna-ns.net.
+btc.rich.	3600	in	ns	ns1.dn.com.
+btc.rich.	3600	in	ns	ns2.dn.com.
 bunni.rich.	3600	in	ns	nora.ns.cloudflare.com.
 bunni.rich.	3600	in	ns	rocky.ns.cloudflare.com.
 c0.nic.rich.	3600	in	a	65.22.138.17
@@ -113,14 +113,18 @@ dcxmarkets.rich.	3600	in	ns	dara.ns.cloudflare.com.
 dcxmarkets.rich.	3600	in	ns	jacob.ns.cloudflare.com.
 digitalmedia.rich.	3600	in	ns	ns1.dyna-ns.net.
 digitalmedia.rich.	3600	in	ns	ns2.dyna-ns.net.
-dn.rich.	3600	in	ns	launch1.spaceship.net.
-dn.rich.	3600	in	ns	launch2.spaceship.net.
+dn.rich.	3600	in	ns	ns1.atom.com.
+dn.rich.	3600	in	ns	ns2.atom.com.
 domain.rich.	3600	in	ns	ns1.rrpproxy.net.
 domain.rich.	3600	in	ns	ns2.rrpproxy.net.
 domain.rich.	3600	in	ns	ns3.rrpproxy.net.
 domains.rich.	3600	in	ns	ns1.rrpproxy.net.
 domains.rich.	3600	in	ns	ns2.rrpproxy.net.
 domains.rich.	3600	in	ns	ns3.rrpproxy.net.
+dr.rich.	3600	in	ns	curitiba.ns.porkbun.com.
+dr.rich.	3600	in	ns	fortaleza.ns.porkbun.com.
+dr.rich.	3600	in	ns	maceio.ns.porkbun.com.
+dr.rich.	3600	in	ns	salvador.ns.porkbun.com.
 e.rich.	3600	in	ns	curitiba.ns.porkbun.com.
 e.rich.	3600	in	ns	fortaleza.ns.porkbun.com.
 e.rich.	3600	in	ns	maceio.ns.porkbun.com.
@@ -211,13 +215,13 @@ howtobe.rich.	3600	in	ns	ns04.memail-dns.org.
 i.rich.	3600	in	ds	2371 13 2 16B38CD3AAEE4EC2DECE3C1565AD8BA7AE053656267A2A00B73F02005AF46C0A
 i.rich.	3600	in	ns	adi.ns.cloudflare.com.
 i.rich.	3600	in	ns	dexter.ns.cloudflare.com.
-i.rich.	3600	in	rrsig	DS 8 2 3600 20250922152927 20250901142927 36063 rich. QAuJ7lAhtEqvpphRKfIB7l/dooEgndlhMdMGh7eT7oGIjV1/S3d1+7bpSElUdjG8d2OZ8UIn8jdfuCPz4s+mHJx0H1jcZB2owJnGTMUTuOQbipDu12DQx/gcxJKNi0n2Lh4dADb9uzvlgKY6/wHoWMBAzc/3q4UNQL1Mus0x0SY=
+i.rich.	3600	in	rrsig	DS 8 2 3600 20250930155512 20250909145512 36063 rich. WuYm5UZ/DE6PYoWR5biRoXMnlvRy/toGLwHte4BUGr7o66NenQnr6/VNxTD0yhvVPgfRjOy6w56AvMJujELG81DOAisCi5j8BIestMWL3+aF3y0Zz6GUrZhROXGvn2n4nMMT61j0N3r3DUuMGiniB7x4BpnEvFG6urtM1Pg6IJo=
 iam.rich.	3600	in	ns	ns01.memail-dns.com.
 iam.rich.	3600	in	ns	ns02.memail-dns.net.
 iam.rich.	3600	in	ns	ns03.memail-dns.co.uk.
 iam.rich.	3600	in	ns	ns04.memail-dns.org.
 ik84qum3q7mjnat0f4p3svjs8aiv8m4p.rich.	3600	in	nsec3	1 1 0 73 LJKP1HBNU642992CM49VFVNA2L6V3L7I NS DS RRSIG
-ik84qum3q7mjnat0f4p3svjs8aiv8m4p.rich.	3600	in	rrsig	NSEC3 8 2 3600 20250922152927 20250901142927 36063 rich. JBUKc6kIdNJnMGUhLibeN6w86QVHVF+LEjUMYLPnCWsrAWT00jBqWXt6OTua/U2Nwoj/pyTKi8zpbjbt5RTJ1/C2ZQzCHq7hWMJAoj3aiIcx9vV2EZH5hfjKTfecxIpYq72xyQOr6ZhgaPBKTpaxkfarEj76aKQkgLVSmNnDcXM=
+ik84qum3q7mjnat0f4p3svjs8aiv8m4p.rich.	3600	in	rrsig	NSEC3 8 2 3600 20250930155512 20250909145512 36063 rich. K0vj2qOXz43xynP27mMVuRLbG3798St1oTGkKbULUfFo0W411zQthFz/Jkh6NSav5cACq9e/69FmN8cey7fZ/6Vt8rn3V0wYBWY4C9yNolyXmPLgOWJFBsf/NIl8x0mI32pp2bGyzETzebD3onJeBW+zDllJfICQQNV4eUcb/uI=
 im.rich.	3600	in	ns	curitiba.ns.porkbun.com.
 im.rich.	3600	in	ns	fortaleza.ns.porkbun.com.
 im.rich.	3600	in	ns	maceio.ns.porkbun.com.
@@ -273,7 +277,7 @@ linkedin.rich.	3600	in	ns	ns2-42.azure-dns.net.
 linkedin.rich.	3600	in	ns	ns3-42.azure-dns.org.
 linkedin.rich.	3600	in	ns	ns4-42.azure-dns.info.
 ljkp1hbnu642992cm49vfvna2l6v3l7i.rich.	3600	in	nsec3	1 1 0 73 2VIHMQDAH9T3DESHKUG1JDB4NITFBR30 NS DS RRSIG
-ljkp1hbnu642992cm49vfvna2l6v3l7i.rich.	3600	in	rrsig	NSEC3 8 2 3600 20250922152927 20250901142927 36063 rich. Ns6w4GhNTJ6gtNHr43N6V9SQGR6M2qzDOYpCcWkm9k67hWQosakXy2vsu3SbfSFhAfIx/QTfljnHN626fbvStLpG0PbQoeABz3oTQ9UGarCY0eWyDnZims/iAN/Kcayss8vmrn5FO63iYqSGNS3WaIT6nhpNYKhyaJXzDka9Vlw=
+ljkp1hbnu642992cm49vfvna2l6v3l7i.rich.	3600	in	rrsig	NSEC3 8 2 3600 20250930155512 20250909145512 36063 rich. K8pfwF5YcPum4WWe2xe01ITpDRjO49wmBc1mNDKsDNL5tySK5agHiI3gkqobo/z/Tq0bFqY5XHFEFuxgKbLGEIqH58epICi00C51K6oL3okJa/R5TbuT9Tioldyl+TZup1INR14C44s1kadCpVGn01mcXovclUPEL1ZYZv91qF4=
 local.rich.	3600	in	ns	karina.ns.cloudflare.com.
 local.rich.	3600	in	ns	tosana.ns.cloudflare.com.
 mail.rich.	3600	in	ns	ns01.memail-dns.com.
@@ -388,7 +392,7 @@ nic.rich.	3600	in	ns	a0.nic.rich.
 nic.rich.	3600	in	ns	a2.nic.rich.
 nic.rich.	3600	in	ns	b0.nic.rich.
 nic.rich.	3600	in	ns	c0.nic.rich.
-nic.rich.	3600	in	rrsig	DS 8 2 3600 20250922152927 20250901142927 36063 rich. p7hIoV6uZNKSH9qPp5SGwcuyICURo3AcgClJsBUt3lNPWBWjUbBjEoBdNkDSu67kz/lqc0MrioOVOWOZeUA7n5OsRT+Z0pgluvSSnulkDAIx7lwQWQvOWIYrSFljupGeaQM/QodaWwdKGNX4z7G10REOee2OaIJBlI8XnP8M6qg=
+nic.rich.	3600	in	rrsig	DS 8 2 3600 20250930155512 20250909145512 36063 rich. WF/H3cksyJ7vkmVKEskQe98DCEbKOIozWA52/YyBEdYD0PAcED8sU/P+V973VTv/74kAOS0rmopf5IHmN+V4H0EjOhwY0V1HtMeWXStLGC1ms+TbLa50moQ9bdY42LTcmAHc38xEtdenDoUtiRGBEHQWOpTCMwocWPVWCKqDYzI=
 oculus.rich.	3600	in	ns	a.ns.facebook.com.
 oculus.rich.	3600	in	ns	b.ns.facebook.com.
 oculus.rich.	3600	in	ns	c.ns.facebook.com.
@@ -419,9 +423,13 @@ pls.rich.	3600	in	ns	maceio.ns.porkbun.com.
 pls.rich.	3600	in	ns	salvador.ns.porkbun.com.
 pretty.rich.	3600	in	ns	izabella.ns.cloudflare.com.
 pretty.rich.	3600	in	ns	lennon.ns.cloudflare.com.
+real.rich.	3600	in	ns	curitiba.ns.porkbun.com.
+real.rich.	3600	in	ns	fortaleza.ns.porkbun.com.
+real.rich.	3600	in	ns	maceio.ns.porkbun.com.
+real.rich.	3600	in	ns	salvador.ns.porkbun.com.
 realestate.rich.	3600	in	ns	ns1.dyna-ns.net.
 realestate.rich.	3600	in	ns	ns2.dyna-ns.net.
-rich.	3600	in	dnskey	256 3 8 AwEAAargQhm9WKcuzo4OvnZ/ToM+XsADpIC3oTfdplDygTv4ZSg3rrouWVcnU1653Q6hNfcV4ydCjlwTsmONWNWnsvwOoidNc0v2Kfnm+5qG95rBpLghMe2+mnGrVQDHu6RYsacPtuCu0V/tqRNsDKCuiBs9Z3KU9uSyy4SjQIshcyjd
+rich.	3600	in	dnskey	256 3 8 AwEAAaoK7GHsFikCUni1m4W3Jz8ElEDfg0exddNWftsCB5gdD66CyqQGbjVH6XCiv8PV+ndUdYwDhYisenao/d672TE3i0/qbS5syPHn4FRvn3OVG5tWafSoH3m9VhZk1Qd9HxgEuo34jEl9TRFurCEeq2yF7bb0QWvVq4gvQYRjmiGF
 rich.	3600	in	dnskey	256 3 8 AwEAAbb6oWBqCsLTdRCVWB5bPJXG2uHg0Uh+KiRlc3udRbrqGRvIyCiWHQUyF44vFQtGeGrO1C9JyXye/O4c+Aj5EivXVE3c8ap0ADBU8l72iNCn8owlPej83aOSWn3JkUQ+2/WYlkKcZwejJC3Gx68uDBXKAVxvFSExw/oBRI8Acn9h
 rich.	3600	in	dnskey	257 3 8 AwEAAebbExPCdnzAt3s/HFHPMHOPaoQ/zdLNWtTCpgKigOlMr1MivrFyjbwi60AI4KkeizUejy5u8fRUzwxbQKyA5udnBXOtCilHU7YWcgB0qXaMGREtLTvBX2sAf2A+SqzACF/xs2h2s7U3wPfpz8oHo/YjFmqkgcFssyq6jSpzS0e1jur1Zw8Z+tHDhOkJ1p1TwUzO/QQ0dZlwvE21EMjUgZgp1co44DLxsi13KSzv2aKMzoVvK+cW6zG126klgdp1T8fPANwadyL5vtK8VdQR+Ea4AnxROgorSXqCDdfT34icL9b6Ufr0P2TtnYhd/cGLPd57bb6Ipdpm6+h+9LCaTZs=
 rich.	3600	in	ns	a0.nic.rich.
@@ -429,10 +437,10 @@ rich.	3600	in	ns	a2.nic.rich.
 rich.	3600	in	ns	b0.nic.rich.
 rich.	3600	in	ns	c0.nic.rich.
 rich.	3600	in	nsec3param	1 0 0 73
-rich.	3600	in	rrsig	DNSKEY 8 1 3600 20250922152927 20250901142927 12391 rich. MCqNsSqXJLOZr9FYE3eM3Kfrk+eqKUcIkMt4JeHIzxsmXhrmiiOc1mt0omIggBT3dsAitUSryx/QMzXoMhvcN++d30CRPHtyTy2sK+nQwop9VzDw+DqK4MalA29XEk2cknPC9sGTTQ/NawJ6TKv3cmmgm8wjXHY5dW2HzlXVErLBCO5o/uSEFDEkP7ueNb3GA6E6Frakp5hRPxmhzWil/JSfHHMlDLtdWlJkIJrt1Yl1IPtS07u4146fkxb8VBX87743jBpuSzy486hPHTfjBt/dY5N5gKF89yPtuOMqGXX9wpeMt2q3suGbL8SrdaHL+RFaRLDkQPwAV82KkH6C4w==
-rich.	3600	in	rrsig	NS 8 1 3600 20250922152927 20250901142927 36063 rich. bdqhUzJzB3WE/GTofiOr5yHlbf2tsNypN0tT72Hv6uvCUvOlxOUi3aNHnIfOHFselXXVHeWTeTItmFD4TRGOebQ+3Wt+z79r+epQnoL7/4ANNIElBpv+J0Y60yJGrZsgfMCVILS3bda0KxNT9g9DL6QgfyGWElJeZzNtLWLfFzo=
-rich.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250922152927 20250901142927 36063 rich. rkNmIoMZ/Cnr7ghQfkDkKONTi6YcSR7cgwYU4x7xToAJwoz9C2HFRiTaeOGXHU5bRX8XT7r7ZnByQYe6Neg2qM7uczqlCWd14zxbvHC0uu2q7f3Y4xAPV2Cwc50TZ/EhyBnZGtlGpwkvDGyFEkOgxa036rgxV0PYwJrZxp+Wfl8=
-rich.	3600	in	rrsig	SOA 8 1 3600 20250926011847 20250905001847 36063 rich. K0S0pxamDDlYl8lsSpFCVasCwttRwS9YQK6v2+CAWxHBpBmkT4OJSLKT8vSTad1O/aP0M2M0oMWPi79A+2fCrZ70TXPGEnqVN4Ia+fxp/TnvoDrdsuBHlzAJLFN6F2FyXQmkO0lDY3uPNmpvbysEDm6T9ghShL05HRjyP1ga/uI=
+rich.	3600	in	rrsig	DNSKEY 8 1 3600 20250930155512 20250909145512 12391 rich. qJiIJaU3WFvPHGaBUd0y390LeRWBdoDNwE3yEsHDCK//lP9lx5GtfjuGOch4Bbmklnf7eOr3iL4SiH0c5EM5N86vLd4hTz3zCWAuSdCNKV/dDBG1a0muALTcmmxvmERDUjgvhwEwGpNdIOpIvQntVEsdstznnvEQXmi7QsC4QVAQm1bwGzFFznAnMs5c2G8ga/Q05MXfMjYncgFCK922X756zH0Oa07w19UREJC+vQBKXmu3ZmWh5t/wovqjeWAydxeVQV93NC8Sd/6MIh9C68LFcWpYsCnGVSktFHRZxyeSAICcXKRLK1cNM09hHkv0r2UXI+smv+uvKwIAqshdvA==
+rich.	3600	in	rrsig	NS 8 1 3600 20250930155512 20250909145512 36063 rich. XVhYzRpXdnchVSrDvaz9uI1ZO3MlFmzJoJPx01smgKCZNn1C1rBKWJXCQfGgrMY1UrgfsbxE30ghD+zkQM+in9tcDFlrRJMQvnhfjR4sKVseJZutvJZZMADw1K8EHN4ym4GrcyxmzdtbY9CnSh5Cf3ykqvmNPdSs9Pdzkc9tMP8=
+rich.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930155512 20250909145512 36063 rich. HW1GO7vTqMNtl1danQsa9Z20jmf7oA/RPWwV6DRcD/tYp1fircuOJqqzMAGDloog5dN5N/Y79XIbG3I+9tiqFURgoLeJ468/zv3aoNW1O2qojPOCLh1U6a/WhBOty3/Zs4ByerHaIcaFdJlRPrtNGXAT93xfRwbPsJvDWnNlnz4=
+rich.	3600	in	rrsig	SOA 8 1 3600 20251002011938 20250911001938 36063 rich. ekmDikzXyC8sfyJrLU97yWgzrnnaryN5vHSfglKFvciaoRift3ei4VoEote+7WiLOCQW5ATBXNiQo7EkdgHXn6qSWUq3gVRWpwhYGILBJaVBzwMfXxaMWAJno5j4NbRd1mBogmZ43OWsn2Qr1zPQ/xJ9n4qQJ6caIHW7kEUx3lA=
 rich.rich.	3600	in	ns	ns01.memail-dns.com.
 rich.rich.	3600	in	ns	ns02.memail-dns.net.
 rich.rich.	3600	in	ns	ns03.memail-dns.co.uk.
@@ -444,7 +452,7 @@ richrichrich.rich.	3600	in	ns	ns2.dyna-ns.net.
 richy.rich.	3600	in	ds	2371 13 2 E1E41AE4B64FFB7D98628F311042321CFEF2F04541BB1D3293C6C664FBC0818B
 richy.rich.	3600	in	ns	martin.ns.cloudflare.com.
 richy.rich.	3600	in	ns	peaches.ns.cloudflare.com.
-richy.rich.	3600	in	rrsig	DS 8 2 3600 20250922152927 20250901142927 36063 rich. BCYS51Js8ZWaf9kvo7qDWEahqmpGsojDjhcC3ntipoIAbM0aDN/LZ6L1CaPhR0KZdPpQ235T2TVGA8jI+YBxqZY2AYW3mExJoUIBf2kifAaoHaqJNwb6YrXPYUNu5o/G2Qhgwlp+IgFxFBHEYV5Hbs4QL8WTa0lT8G+Z1isKf/M=
+richy.rich.	3600	in	rrsig	DS 8 2 3600 20250930155512 20250909145512 36063 rich. dBTTNKgmvlLqwSqdjeW/8CTfjXRtVO9GD7oZBpX1ZTAzyINTrJoGiXrVKtXPncIVuzgRNNlpzdCfNqUf5BysHE3srwme9m/Xd8Bq7XbaB2KPkjWtQePxA8zsML6+0zfaWVlqLKFICHIru6vw03OqSdXoLNzOL+x3nAkMQNqAZl8=
 rolex.rich.	3600	in	ns	dns1.p03.nsone.net.
 rolex.rich.	3600	in	ns	dns2.p03.nsone.net.
 rolex.rich.	3600	in	ns	dns3.p03.nsone.net.
@@ -477,8 +485,7 @@ super.rich.	3600	in	ns	ns03.memail-dns.co.uk.
 super.rich.	3600	in	ns	ns04.memail-dns.org.
 swissquote.rich.	3600	in	ns	dns1.namebay.com.
 swissquote.rich.	3600	in	ns	dns2.namebay.com.
-t.rich.	3600	in	ns	ns1.dyna-ns.net.
-t.rich.	3600	in	ns	ns2.dyna-ns.net.
+t.rich.	3600	in	ns	hsbbdjndndjssid.co.
 thats.rich.	3600	in	ns	curitiba.ns.porkbun.com.
 thats.rich.	3600	in	ns	fortaleza.ns.porkbun.com.
 thats.rich.	3600	in	ns	maceio.ns.porkbun.com.
@@ -580,4 +587,4 @@ zav.rich.	3600	in	ns	nora.ns.cloudflare.com.
 zav.rich.	3600	in	ns	rocky.ns.cloudflare.com.
 zu.rich.	3600	in	ns	ns1.afternic.com.
 zu.rich.	3600	in	ns	ns2.afternic.com.
-rich.	3600	in	soa	a0.nic.rich. hostmaster.donuts.email. 1757034956 7200 900 1209600 3600
+rich.	3600	in	soa	a0.nic.rich. hostmaster.donuts.email. 1757553403 7200 900 1209600 3600
