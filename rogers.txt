@@ -1,4 +1,4 @@
-rogers.	3600	in	soa	a0.nic.rogers. hostmaster.donuts.email. 1757034956 7200 900 1209600 3600
+rogers.	3600	in	soa	a0.nic.rogers. hostmaster.donuts.email. 1757553403 7200 900 1209600 3600
 a0.nic.rogers.	3600	in	a	65.22.108.33
 a0.nic.rogers.	3600	in	aaaa	2a01:8840:006a:0000:0000:0000:0000:0033
 a2.nic.rogers.	3600	in	a	65.22.111.33
@@ -8,7 +8,7 @@ b0.nic.rogers.	3600	in	aaaa	2a01:8840:006b:0000:0000:0000:0000:0033
 c0.nic.rogers.	3600	in	a	65.22.110.33
 c0.nic.rogers.	3600	in	aaaa	2a01:8840:006c:0000:0000:0000:0000:0033
 c0b4415346q3n7ao6q300f6qt7e17pn4.rogers.	3600	in	nsec3	1 1 0 73 QUPBGG6O4UQAVU4PJJD801G1RH9KLMC6 NS SOA RRSIG DNSKEY NSEC3PARAM
-c0b4415346q3n7ao6q300f6qt7e17pn4.rogers.	3600	in	rrsig	NSEC3 8 2 3600 20250926011918 20250905001918 52233 rogers. CiPnrMHj1hA2ZVvx8WejLcdHhampihiy1MmFBiXR50llSkbr4CuZyqr9ksdQhQOew4D/lZ1NVTY3MhdZ0DvwOVJnVg/25neTk/T6PaNmoMOvPGPNtOdfLujofz04oCURLiLBQ019oBVSiOyZJ2Sy0lSgTDGtJlwg9ZKznG8o2ic=
+c0b4415346q3n7ao6q300f6qt7e17pn4.rogers.	3600	in	rrsig	NSEC3 8 2 3600 20251002012203 20250911002203 52233 rogers. EbFYtb3b+/oruPzzIAB5LwTopu/OLeQqaq0sIag6wP/uGAO/Y0mfG2SEiEB0Aos+J7F230XVSekpidoZ6Uww79r5AcLcX2gMBs10036OoPiKYTpC3cKDB3j4czbSG6XApKbdbSU8nk0/6Gx91t+Xyee+gjdWDN3mScbPVnvT6UI=
 ignite-atlantic-offers.rogers.	3600	in	ns	ns1.rogers.com.
 ignite-atlantic-offers.rogers.	3600	in	ns	ns2.net.rss.rogers.com.
 ignite-atlantic-offers.rogers.	3600	in	ns	ns9.rogers.com.
@@ -20,22 +20,22 @@ nic.rogers.	3600	in	ns	a0.nic.rogers.
 nic.rogers.	3600	in	ns	a2.nic.rogers.
 nic.rogers.	3600	in	ns	b0.nic.rogers.
 nic.rogers.	3600	in	ns	c0.nic.rogers.
-nic.rogers.	3600	in	rrsig	DS 8 2 3600 20250922154125 20250901144125 52233 rogers. CI7NZVsGrb131SCDkaqvzUMOMn+4FxZgxd2jjAOt62MxqRVy2OvqvtSonw94rx5WyMt4d/A/vx/RTfjTvF/V6rexa39RrC9fMyY/cdPxsGtZw/OUKdHFEjBMLFHfG84dd22YlYBe8yGtcqN9P0LdbUpJBJcaAgeXIm+g31Aor88=
+nic.rogers.	3600	in	rrsig	DS 8 2 3600 20250930161534 20250909151534 52233 rogers. BP9vAUkaTv3028bnGbBzWF38bayWsxVvDdGV0KDk8lIdI1KZQlPGmvVE6l3SyvBX6sYoIf+KGS/akOhz2msLYnLH6t0m8mA1a3VkCWNNgPg39lVSq4w4eyPyO06oREk+rzgy3sYG++kW3tORiBGl8myZ6kAOwqUYUojDDMYswKY=
 qupbgg6o4uqavu4pjjd801g1rh9klmc6.rogers.	3600	in	nsec3	1 1 0 73 C0B4415346Q3N7AO6Q300F6QT7E17PN4 NS DS RRSIG
-qupbgg6o4uqavu4pjjd801g1rh9klmc6.rogers.	3600	in	rrsig	NSEC3 8 2 3600 20250922154125 20250901144125 52233 rogers. cDdkQraNs8OtHyEm80TrFNbK64Qllrh8rPgNyv821H9IjErPIH5X/sILRbhVnZ2ap/wGigsajSzbopUa5HEpmvHlIRcUjEjkJ/gEY+kScCBTWynux3jl3HiMncTE07t1X/9DmWwKlYSxVtOu5aJHIJTuQhr5peKhDnH72yNrikk=
+qupbgg6o4uqavu4pjjd801g1rh9klmc6.rogers.	3600	in	rrsig	NSEC3 8 2 3600 20250930161534 20250909151534 52233 rogers. ntOvFsq4y3clMcA+udrEz/YGgNdSxte4EDGqhUJNRxNrXPKJALY67LA2FwRTh0IG+w674pLfS3opLkDDkcZfc2d8cieh7Nap33dpT6sXR15VGnlx7+b6qX29M8xr55Zcwhf5CFX3lj2YxMkE0/BeDVcsvl/wfp99sr42v9uC2rQ=
+rogers.	3600	in	dnskey	256 3 8 AwEAAadvNtug5ZYIGeqMK5RW9G/TmMqdHJ/TXXgo221wDUjaKGuODkO4Or5HcDy1l507BsdzYSO1Oukiki9pc7FucL4HSwrioM1NrjnSMxeHsElxS4tKKJtwtF80fSnaiVHWqCveQePEVBg7QuKpBelD1Frz0uBbhlyysIlIjncVqFfN
 rogers.	3600	in	dnskey	256 3 8 AwEAAb0RxSW3HN8hQSkCfxl74tXSBrPZ2/iPwjJNZ0CBSNhVERuzSVvPmab7bT6GkgHrssuxWm4kL+6bJvJEKC2vUU7PHqyFRCKjR/zKGxF6aU7F02RIlUJutwwO/mPzicXN1V/uXiOpGUmgK6+ShbRriLx7r8F9tm7MCtbj9CWS6gVj
-rogers.	3600	in	dnskey	256 3 8 AwEAAeK4QRdqzaWe653BPJXXUFKthaTrOjFNRwIHz9FZ9oEmH3nOzizKSTPVvUaFYH61V1RMGDejsfocpR99oRxG5x9lAIDprwpcYvZ48L6Dyj5bbkZgLUWhJK+Vfk/DMv9hgugk49mD29ivAMkRXLiLP6Qo6mVxBKCB+RgqSucIi7xB
 rogers.	3600	in	dnskey	257 3 8 AwEAAdwxueFCpgwft8EmNhGHd5s+CS4MN/sCE/CoxLt4eyHoJDZ6eBRUUzftt32XRMumSMmE3hn8nLfsi6Y+wAky7vYLhXPThMAbwSLYiX7tVGatpTqCz5CAHWeLi4ArIOpfr0RbcbIxBFJZ3sa8NtZ+hBaszk7AMDY2yaI7lalSLloyQ3P5f+tChDCtGC0h4VxtjGnhqXsBCzYTPL3yNOFk91YD4yxJWDKZcCLcMP4StQZwJ38yOlJlxj+KZgbaM2PFzAZbinkY7tKP6WmUIs0G8pWjhjnpjcyR9TFvFhKTHE+g48SrLG0q9T4+muZV494MKbfbWekcBvVPjyK6ADt/t2k=
 rogers.	3600	in	ns	a0.nic.rogers.
 rogers.	3600	in	ns	a2.nic.rogers.
 rogers.	3600	in	ns	b0.nic.rogers.
 rogers.	3600	in	ns	c0.nic.rogers.
 rogers.	3600	in	nsec3param	1 0 0 73
-rogers.	3600	in	rrsig	DNSKEY 8 1 3600 20250922154125 20250901144125 46654 rogers. InOqhC3teUg3CUR8y2JYPDLKusuHYMJB7rC/WYL594powiCMRby2sgN1t+9rbQdTOOhI75jCtlQxTXXFrL9VUCr0aIbBbMQg58Rx/NZuZQKedMmrp40SIAI4wuNYe8oNvn67jv84TOzLLFmaiTViKcg/vWBVMd4P3PDf0ZizG5mhfubN/YiLYLGTtqkzhUpe66Yc7tCdaDb2+KKpVsFNcC+rdHJylrzNpix5SLiQDDChf0CxOsEA6iEn0JaDuYd0Y4eKcLGp6DnVOqqZq97MKM/jQwrpWjlDCaokh2FkFBBQI4G9IBEYwbdePckduQWmDzsnrgMjhjS4ilffwS5KFQ==
-rogers.	3600	in	rrsig	NS 8 1 3600 20250922154125 20250901144125 52233 rogers. uJvZkAohKzhAWi9qIETmZQPYIqKAq8nSQF+b+uiAKjTLssnAHqfk1zhqaNXrqOCVVu+0GVFdKae1vFvUNK5n7/2xzHyUC9A+24o5ra0VgSyOB8ISBUiL9/2NK5/4YSt77IM9on2DWlerCyGusMHrsii3Jo4T8yXDl5v4ObnTIBM=
-rogers.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250922154125 20250901144125 52233 rogers. YFxFfbLHEY2nCzumw5gEgVIUim0f/16FdzOFLXcdHpXW8RSj36U/JM1g2chwVqPfZRxtDg0LVvxGJzY5mIatEaFvclf8I58f6w5IBvS7cNDZUtKMF9dxCrLI294tt9+BF/x9KeNqT5CRJJ2wiMxbmbpqBDNcGh4xFc2VfExNdO0=
-rogers.	3600	in	rrsig	SOA 8 1 3600 20250926011918 20250905001918 52233 rogers. Sg7FUZ7lEsi84MzL2djh6i73+vYopnQcvPKnSQ+Y/niCUHxAAzL+rtK5X72Ikir0jDKp81VhdVFj6aKLD7ow0eVNniS+T97fM6DUFUOxIXBfiGVA/DNIolIDFFGcuJRr2fIuKviL8wcNYUBAfCfxfswm9hDKNc0bk/LTIL1zCn0=
+rogers.	3600	in	rrsig	DNSKEY 8 1 3600 20250930161534 20250909151534 46654 rogers. BYzENOBN0NYkRFxMqKdPGWVNbq9lQLSj1x7/1up3cE4NiHQhgUSyluOon0ctRcTJ2hJkCSSlvWYY2qBtI4TaG8e32QhTDgPYmnb5ZaMWhFvmEf/CW1NNsqGwMnF/J5c8mguAa3b67hMb1V7Lrfp9RDnpyniFuQpASQz40ZQEk1kFSgRobQhmaBVsO1SSMHhbCCb3KFEvUchfomZXWANS/9PQv14Zbj0uEba3XP7Fycoai+NIg50JD8FZfedgXi49nV4XhbbJBi9NQYqIkIZ1yPwS4SqQW6FrAGb7JryGlnlpFr79JHgKwAIxLFOSMzDJH6DHALqZDSaV/jJs4csCug==
+rogers.	3600	in	rrsig	NS 8 1 3600 20250930161534 20250909151534 52233 rogers. oUfyq22syxBlOQ+zerrcQBVWLvwxVHHmF7KUj6F6jvy6hkZAxe7gdW/8vg2wGCIMQbxd0F9ljdjjrzz9O91jZViwde+rtT4LFInttLyQP93HdVbGauc5+dOclxyHyAsV2RCRy8KNb+raAmU8mWRM6lfzEkg364jWqB3boOq4TYI=
+rogers.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930161534 20250909151534 52233 rogers. Gf8HCQvZqvjjz6J/m5oCc4RiYFC0MUmkfXhPLnTOmPpX8JHyZ+ga8Z9r1GMRHO3SHako38Y2woDlGC0tfn+LWaFW0pgUujbGTFBqpmo0Jb+0yeB1yMh7EbSq0RfuK3wH4Az2DnfRWhntl5l9Vd6TYBhL7hJY0BH8Zf+Qj4cp0Wk=
+rogers.	3600	in	rrsig	SOA 8 1 3600 20251002012203 20250911002203 52233 rogers. MFtjHGgAaQAwkmlnzL7v94rNQvK+YZg7Y53i6Kt6UQ20GltK0uxucvH/+cDaKELIArRvUFgyPR1DVF4jGRnHV4wlH7wTJ0FWZ7f4FMBVSuRY+JsLNoeeChNRajd6kwTxgZ16fPzGvtTjP3N7lTAWyLaeN4PlATnEssQlz3JyzNM=
 www.rogers.	3600	in	ns	ns1.rogers.com.
 www.rogers.	3600	in	ns	ns2.net.rss.rogers.com.
 www.rogers.	3600	in	ns	ns9.rogers.com.
-rogers.	3600	in	soa	a0.nic.rogers. hostmaster.donuts.email. 1757034956 7200 900 1209600 3600
+rogers.	3600	in	soa	a0.nic.rogers. hostmaster.donuts.email. 1757553403 7200 900 1209600 3600
