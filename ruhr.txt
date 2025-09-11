@@ -1,4 +1,4 @@
-ruhr.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2209127452 900 1800 6048000 3600
+ruhr.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2209127753 900 1800 6048000 3600
 1.ruhr.	3600	in	ns	anycast1.irondns.net.
 1.ruhr.	3600	in	ns	anycast2.irondns.net.
 1.ruhr.	900	in	nsec	1000-leben-retten.ruhr. NS RRSIG NSEC
@@ -198,8 +198,13 @@ abfallkraftwerk.ruhr.	3600	in	ns	ns1-eu.123ns.eu.
 abfallkraftwerk.ruhr.	3600	in	ns	ns2-eu.123ns.de.
 abfallkraftwerk.ruhr.	3600	in	ns	ns3-eu.123ns.eu.
 abfallkraftwerk.ruhr.	3600	in	ns	ns4-eu.123ns.de.
-abfallkraftwerk.ruhr.	900	in	nsec	abivorbereitung.ruhr. NS RRSIG NSEC
-abfallkraftwerk.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. MOrW+mG7MGhDtpXh9c6N2D/yFRayhn5ezQCfJ+B5EBRZ1ayB7jQ1HrxWBuPQSVRqzdX0fGOZOe4fyU/op7jJ+6KhdJ3iCuVG/4eux6CLI7pQXtAxzMk1eVnQRnBnbqK5YtejSpvDBEmWKrvsNTS0mIQoQAhWN43elR4vU7FuqNhd0ha0GN+BocxRH23o4GsuNm6+7W2OH9o+zVGLA19rng==
+abfallkraftwerk.ruhr.	900	in	nsec	abi.ruhr. NS RRSIG NSEC
+abfallkraftwerk.ruhr.	900	in	rrsig	NSEC 10 2 900 20251005103905 20250905090905 42248 ruhr. yev4E81jbBpJ6lss7bbvUyg6GxBAcT4Xh3lqA7pST/zMvaGkm2s8GKTGO6fjxVjjOshFkcBP4U4/dB+flsFGdodiqO7bQApnTPpaH59W19ahKpVGARQZDco3SzfPPtTQI6UGUUgjxywXYQncYHtAn3R+Q0plv22VuKX/4KS5ZywbZTbWG4TKmK8SwQldcv4rDRMtLH24W5yjwRrvWcWBXw==
+abi.ruhr.	3600	in	ns	ns.udag.de.
+abi.ruhr.	3600	in	ns	ns.udag.net.
+abi.ruhr.	3600	in	ns	ns.udag.org.
+abi.ruhr.	900	in	nsec	abivorbereitung.ruhr. NS RRSIG NSEC
+abi.ruhr.	900	in	rrsig	NSEC 10 2 900 20251005103905 20250905090905 42248 ruhr. Ab6BDTDrza3oHJnWvFrZF4ZQS8p5+PfTlAN6mAez4nPKgkfbKrfI8c8dSBatsFfOjlbSnx8mhysM6IrvFa+OsOQTgmYEgIMSR1+qyZVF4vrjukAy7ODjI6uNzlucEVtLfJXS/mlc83hh5M9mq5s8rRiblaKnlzDF7hnz8+sfoTWLRQ5gLtbcC81mTxzS6y9CjQzYr5FEoxxV463bOaIJyQ==
 abivorbereitung.ruhr.	3600	in	ns	dns.dns1.de.
 abivorbereitung.ruhr.	3600	in	ns	dns.dns2.de.
 abivorbereitung.ruhr.	3600	in	ns	dns.dns3.de.
@@ -2064,12 +2069,8 @@ bienenstockluft.ruhr.	900	in	nsec	bierbrodt.ruhr. NS RRSIG NSEC
 bienenstockluft.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. JYkSxZ8i/IjPrVwfnZ2lJRc+2czvNwzJE+xDSD/D3uv2yto1vzyqRvGLjGvPiNoqwMrKeM0HGYlXlhGop0htbjudQiTvQr1M5DeCi58r/ZrN161tEs+6XtqwgAemchfRRyL0ftNACc1oRK4zZ9d3x4fehIPZAea8p73fhbxzAUUEFBwXH72ODN+Xh/Qx5FDqvQRu6Ck5Vxh/+KBEAIvPyw==
 bierbrodt.ruhr.	3600	in	ns	docks02.rzone.de.
 bierbrodt.ruhr.	3600	in	ns	shades01.rzone.de.
-bierbrodt.ruhr.	900	in	nsec	bierbrot.ruhr. NS RRSIG NSEC
-bierbrodt.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. Pc0fqBLQN06k3ZR7HKjLO63MMHrWYEwa7keNQzwfPd+ZWq/HxnUVQHwoowRERqW0OcoCgF8FAvQT0i3J894TiQqVP1Q3m6pX+Nnur45PlzMIQUsqZaaRbAUfpZqZOPXQHgAb/wzwUVVhTH1T9RMAiuuho7ptS8Silvgi+WE5ebFu6J2E87T6T0DFMgO5UnI7SQ1MM1wpj8sJkRhyUafwfg==
-bierbrot.ruhr.	3600	in	ns	docks08.rzone.de.
-bierbrot.ruhr.	3600	in	ns	shades02.rzone.de.
-bierbrot.ruhr.	900	in	nsec	bierselig.ruhr. NS RRSIG NSEC
-bierbrot.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. F1lrSEkVbwPm9b3NxHcXaAY56rP1r6lpiCwjRdX+U1+8ESyOcH5NVeowbaEcGDeKDw+EWigYuMX4CPKPJCyoi0PQs3Y1XIb9Am7+vaLliGtWFcRdSRsxXlrbKDTAwkVVXIx/Py2AGX3m1yjfa26QBlPPb2KPhVlys4UkKKpntOQtcPoyfBK2zR/jxYDQ5eKtRcONfpl8bi5wDt/qWLSDIA==
+bierbrodt.ruhr.	900	in	nsec	bierselig.ruhr. NS RRSIG NSEC
+bierbrodt.ruhr.	900	in	rrsig	NSEC 10 2 900 20251007121926 20250907104926 42248 ruhr. HI2/SCRbi/AZjZlNgv6NkBMfP6SAIHpD/XymCanY5XuPt31E0eOkNVc1lRmpL/e5wJE7ozLMVfFEPeBIexDQ9HoG8cBBTlrTV4gRVonJ8R6Z7FlqPiOn5+0wiVyhO85mSR4Yfnl6ncVsHphDAFCk0/IgbdhoMUa0sgFImpEMM2XUXY1wYx8r/gX+mRGDmOtK2MmatNljk3cnjv1xpbDBhA==
 bierselig.ruhr.	3600	in	ns	ns5.kasserver.com.
 bierselig.ruhr.	3600	in	ns	ns6.kasserver.com.
 bierselig.ruhr.	900	in	nsec	biersommelier.ruhr. NS RRSIG NSEC
@@ -2201,8 +2202,14 @@ blackandwhite.ruhr.	3600	in	ns	ns1025.ui-dns.org.
 blackandwhite.ruhr.	3600	in	ns	ns1063.ui-dns.biz.
 blackandwhite.ruhr.	3600	in	ns	ns1095.ui-dns.com.
 blackandwhite.ruhr.	3600	in	ns	ns1098.ui-dns.de.
-blackandwhite.ruhr.	900	in	nsec	blankenstein.ruhr. NS RRSIG NSEC
-blackandwhite.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. ruJxMUPDHY+nB6cSu4+aR7IKZ0vtcrokkDCxORHfkesu7RbJDP9jxGeCa9i6COF5w9exCNbFACnwpeO2Bz79Kb4ehqRlMrAA6A8vs3XhuOS6yrwGJsI6KdVrzUFag84Npx2lDcBPfjNVsPFd3nch35mMs/J9SfukwV1XBScyPriRZADmZ1vOsFPGKfC0YjP8cKJ+vm7mVDBDMHSJhDEsAw==
+blackandwhite.ruhr.	900	in	nsec	blackhill.ruhr. NS RRSIG NSEC
+blackandwhite.ruhr.	900	in	rrsig	NSEC 10 2 900 20251009144927 20250909131927 42248 ruhr. CKLofG3HRZ9uFT4rYsXy1jEv3CGWgulpEFU/QpmL0dw/c+Yz7bWwdq4sZEX0xr6WEH6ZCFAUuJk5mXg3jWven187WcYtrLGn74mugk8sTnq/bvqB4RjVANxqE0Mfv+twitIl1VZFNN+1yBqcPQnOdaVSXiKqap0p45WARvFW45T2u67MnkdDKS9KppkDRSBobGwA6mgjcwtl8kzjuhTa7w==
+blackhill.ruhr.	3600	in	ns	ns1041.ui-dns.org.
+blackhill.ruhr.	3600	in	ns	ns1043.ui-dns.biz.
+blackhill.ruhr.	3600	in	ns	ns1043.ui-dns.de.
+blackhill.ruhr.	3600	in	ns	ns1109.ui-dns.com.
+blackhill.ruhr.	900	in	nsec	blankenstein.ruhr. NS RRSIG NSEC
+blackhill.ruhr.	900	in	rrsig	NSEC 10 2 900 20251009144927 20250909131927 42248 ruhr. PS0XfdELufkjC3bu8XIJk/Q3xdaMGRhLJulx4STD233BQ1bGpUpz/5Ad9+d3gQNHjpVjqc9Rq+9osEflMLkT/cqF3dRtBOIUEUUhOfIoJY6r+55SLMeWuKx51yjigZKnVXUpCbtu4qTtF/E+m2RaNvZqmZ68oQtJZBzvvvoZrgR3s6CmkLdkc+OeVinjI+8VgvOGUIv8m+j4sMonGriLyA==
 blankenstein.ruhr.	3600	in	ns	docks19.rzone.de.
 blankenstein.ruhr.	3600	in	ns	shades18.rzone.de.
 blankenstein.ruhr.	900	in	nsec	blattwerkmedia.ruhr. NS RRSIG NSEC
@@ -5117,8 +5124,8 @@ elixir.ruhr.	3600	in	ns	enes.zilium.de.
 elixir.ruhr.	3600	in	ns	ns.zilium.de.
 elixir.ruhr.	900	in	nsec	elkmann.ruhr. NS RRSIG NSEC
 elixir.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. lWQjS3/bKu/Nj5YMuNwKGlvKSR06ZtlsSms15A9tOH7aRfRByPBRJq2CVXyhftCFRFdB8HAKcilfpImTq3/YkTHVogAY1W+kPb80GGbljLpRTFcN0qLKc7XV4EZ+FqztiL8qiT3dGjQLqENP5As9yxXTGcofgBKnFB+Bl6IqmJwQmH2SZ5dVX5r1dCpSgW2aZPEq21NbAEz5FAMNl/9Tag==
-elkmann.ruhr.	3600	in	ns	docks14.rzone.de.
-elkmann.ruhr.	3600	in	ns	shades19.rzone.de.
+elkmann.ruhr.	3600	in	ns	ns5.kasserver.com.
+elkmann.ruhr.	3600	in	ns	ns6.kasserver.com.
 elkmann.ruhr.	900	in	nsec	elmec.ruhr. NS RRSIG NSEC
 elkmann.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. Gu1Obxnk09wNJ2HKjHumhqu7RbHlAnqaGT7Jg4rwY/tCv5zHS6co62+NTblmhQHh7enSpC+S1bFN+LilxtTXi3eAnV5aflaM9L17BHrYgzqfXkMJ0A4Z8y8865GiIADcdLfkea+p/DhPEDaSPsH6xdzw5VrjytTnDvyzptA+Xvv4sh8J6pdz9UiQhOt9hqF9sfievSy2k1wtZWqHTT+zIg==
 elmec.ruhr.	3600	in	ns	ns-de.1and1-dns.biz.
@@ -13131,12 +13138,8 @@ mobilitaet.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 
 mobility.ruhr.	3600	in	ns	ns1.resellerinterface.de.
 mobility.ruhr.	3600	in	ns	ns2.resellerinterface.de.
 mobility.ruhr.	3600	in	ns	ns3.resellerinterface.de.
-mobility.ruhr.	900	in	nsec	modshair.ruhr. NS RRSIG NSEC
-mobility.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. mn49s7UnrSdtSEH5LC/2D1ok05fHBVoEvtihucc1Z9hRu5zXRTrSGCEV/KWnxa/ZcSnV+d4Kl+I7ltkG6JcEBogmOHY4ArSpmqRAAwbMayZcdhIpRI/j4NTP+lE+WcORigqZxl7Vi24bHb/mLCTApMaLnUTNVqapjUhESE48XYa4B6nffE2rHZ+B/AiPEH6Euf4y7H8B9L92tgyWVQmGaA==
-modshair.ruhr.	3600	in	ns	ns75.domaincontrol.com.
-modshair.ruhr.	3600	in	ns	ns76.domaincontrol.com.
-modshair.ruhr.	900	in	nsec	moebeldesigner.ruhr. NS RRSIG NSEC
-modshair.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. JsxPxoBF0H2sPOM0oclAvDenvtktaw7wyDSrrraKz7+T6tUXNj9AyxeFIjQUCwVyyH5ZPdhBuZdX3CZKhEMUpkzQ/xjLqW7wCVAfZCx8VpTHH4bmrUjvDCgwJaSuPlBzgSic4inImqXc8PdxJ+B7Tyw5swAD2ju1IuA6PElWOEumSSvBXIu3XhLBXP3UuyJSmwKRoI5VBaHQ437Sphv/8g==
+mobility.ruhr.	900	in	nsec	moebeldesigner.ruhr. NS RRSIG NSEC
+mobility.ruhr.	900	in	rrsig	NSEC 10 2 900 20251007050803 20250907033803 42248 ruhr. eb4x8e3+GbzfYzZeV3/QWPxWD3VLvzlGH8VDtNWUWKOP2olhq0Nf+wAaPgj9vskTnPWcvVbm+q182tQaFOll9yF1l7MSBrg73EaHMdNhdowdCF4+pG0lGs6UzhUBft9l4ct0ZNujw4otjd8YmLrxOCbS8rAWO3BxM3r2av4xEt8+mFKwXPn48XCHKut6D/lxyXjZll/7/tWvTfvnOCWmrw==
 moebeldesigner.ruhr.	3600	in	ns	ns1.farbdenker.net.
 moebeldesigner.ruhr.	3600	in	ns	ns2.farbdenker.net.
 moebeldesigner.ruhr.	3600	in	ns	ns3.farbdenker.net.
@@ -13397,16 +13400,12 @@ mutterhaus.ruhr.	900	in	nsec	mvz.ruhr. NS RRSIG NSEC
 mutterhaus.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. bh4VyGhuyzPT+vFN2zLgHtunCDEGnojOipof6++VHDIypK8R+NL1jTou3fjsDJOse6bTIicae+leUWCpMG/YDO4bJkYZN/OMQKo4OsjK0URm0fNi5ETAlb+as8428cPh1brfrk5dtf6KdrX1clMe9sAjVCQT0zmCc0SkblPsSOgd5eadem1P/Td4XSgdv+L6laBHLWitpl4+D2SXxa1E4g==
 mvz-hausaerzte.ruhr.	3600	in	ns	ns39.domaincontrol.com.
 mvz-hausaerzte.ruhr.	3600	in	ns	ns40.domaincontrol.com.
-mvz-hausaerzte.ruhr.	900	in	nsec	mw-vt.ruhr. NS RRSIG NSEC
-mvz-hausaerzte.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. MA4yngBDca3lTzCLD5LNh+2O6j5fTPBrhTlZLYxzYM0frWdXUGR/xE9oU+nUt94iR2OjMR0Qh27yQvpLcR7YAy7c0rMyItJbwesCMlV1Y4fArAGAqL+V4NuGwFgvgXkaKqyi94dwJHPmKyJ2HfBzBFdVP85UJAgNoC62khUaD5tjjCO/bMlJJTc++rAFDUnFosssZ7aJ3Uw3Fy7V5hYNow==
+mvz-hausaerzte.ruhr.	900	in	nsec	mwb.ruhr. NS RRSIG NSEC
+mvz-hausaerzte.ruhr.	900	in	rrsig	NSEC 10 2 900 20251010143749 20250910130749 42248 ruhr. y2siL/irtcw6hJ7fWEWOedk83KiAJp645yWF/H88Zh/BpLWKfcJwUICGhGOmjtGINyJK75y8ggRVYNObEmZInQdP5LfJ2fhB2oSI7PLDYVA6D2qAWJELnlEAL80VNMYyOHyAYo4zrijFrRjAb5YpwE7ywQ1XHE3JTWeZzCk4reUIupUTN2DCRb86PHCPmvCXiFqUc+2NA61ODKfYftKZmA==
 mvz.ruhr.	3600	in	ns	ns37.domaincontrol.com.
 mvz.ruhr.	3600	in	ns	ns38.domaincontrol.com.
 mvz.ruhr.	900	in	nsec	mvz-hausaerzte.ruhr. NS RRSIG NSEC
 mvz.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. BZOxtjkrrfbWrBWLjk9Q4RC2oC6xJ1Ko5F54LzoVmelCpolt3pixpqh0eqqypmf744/SWf4hp1NpAmx5wAfuBKG8IUYKn2/RJMOi09dXIrSVy4+8mvc+0Ft1T7DCAhAxY4zA2JFOPKsxm7Aqdn/fjUm2AYSqBTDeom4RZjPWYc2aQUp4FBy3A8THUga2bLA/5vu9nU3EoFEvk1UdBb1aIw==
-mw-vt.ruhr.	3600	in	ns	docks08.rzone.de.
-mw-vt.ruhr.	3600	in	ns	shades08.rzone.de.
-mw-vt.ruhr.	900	in	nsec	mwb.ruhr. NS RRSIG NSEC
-mw-vt.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. zrSOMJD3ivRkfbSdQbZc3+x5laoKDuM+fEhY4XZZYufdpCVkwEfwJwvcKZxSk9oOeJKicBH4/81fz7YKz6JeFDpd+Uy4GSMul5lCAPRvJ0U87rLRmB4hOvYXzuffiZEXm+qsXIglJmiSkDZtwGNiF5Y5BjA+HhuExhQ4/ZSDouSffPwVuWYAjgwr6UC04aWn89VYP8WEBm3FJG1wXrMJ9A==
 mwb.ruhr.	3600	in	ns	ns1.dot-server.de.
 mwb.ruhr.	3600	in	ns	ns2.dot-server.de.
 mwb.ruhr.	900	in	nsec	my-dvg.ruhr. NS RRSIG NSEC
@@ -14002,9 +14001,8 @@ oester.ruhr.	3600	in	ns	ns5.kasserver.com.
 oester.ruhr.	3600	in	ns	ns6.kasserver.com.
 oester.ruhr.	900	in	nsec	off.ruhr. NS RRSIG NSEC
 oester.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. UQaI6KoZHe8cavVF6IM1hka2cRoXgv/yrO1vviSWSaGtyN4NelhsKRt5ShZfMIgVMQv27qJHPf8+vcltWwYRtcS/eu3EZxV2SAoqLuf00bnyDG96Zc5MK3iGskyMe/ThPSKBJwkkBODe7KWgvt+2RfX4KRnbo9PA6lhrToxcTLncYMpcNo7CuceFtzZa1JTxsNWrIRa0ncAW+LzHrbhxxw==
-off.ruhr.	3600	in	ns	ns1.ntdns.de.
-off.ruhr.	3600	in	ns	ns2.ntdns.de.
-off.ruhr.	3600	in	ns	ns3.ntdns.de.
+off.ruhr.	3600	in	ns	ns.serv1.blumental-server.de.
+off.ruhr.	3600	in	ns	ns2.serv1.blumental-server.de.
 off.ruhr.	900	in	nsec	office-schmidt.ruhr. NS RRSIG NSEC
 off.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. dou9pCO7/j6cUuI15dtmiWhz3ep7g4S/rpD0Ot9vMhUwDwV5J8orBYcNKGwCyi80qGOPnPb2iqxxLvGx4X0RyVkRBIBd1KypGLbYoKqU6H+qyZMofAcSKsPEsooydikwwpeVZucZRWHRLllN0V+hxhyVLQLMp+OUIS9bBq8mKD8OFLfkRt2ypAppdHYOpA6rh09WwO/p+dFFckLWUHifgw==
 office-schmidt.ruhr.	3600	in	ns	ns1030.ui-dns.org.
@@ -16098,8 +16096,12 @@ route.ruhr.	900	in	nsec	route-industriekultur.ruhr. NS RRSIG NSEC
 route.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. rL/MePrFrnhV0+EBaYdDZi9QiyVqAEqopUzOqWOPRcN1qnPoy7OFeJoAEKB+rdK9hHSNig9V9qAc7G3CQIksW0ktNd0t7AEw/gIf6x72iX3I9dB6Y1F2p4gyENAnC/j+3ip3j2tS4+oH37QBIfkydDj+NAIftvTeKP7AU2aCHxZOJPbNUGQzbK4sqVnNM9RkNfFms1SgGQNbflqTNiTOLw==
 rowing.ruhr.	3600	in	ns	ns3.ip-projects.de.
 rowing.ruhr.	3600	in	ns	ns4.ip-projects.de.
-rowing.ruhr.	900	in	nsec	rrs.ruhr. NS RRSIG NSEC
-rowing.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. a6mkmDtBUXdIpDkvTN15bzMjGKj6f3Pjd7z4nyvcByUa/yWfHJ2++d2PURhvBbEaFjm88tzr0ZWPbwNRK2nNfbFjqcrwdsJNYz33L67rMKpli4jYAG0EoAYQTbcmPtjZtr4dNDVPaw69C+QGL952UwoOGwioy4oKHq/AkBWKnFVopk0c6WnKZQ1GD3hi9tpMoRElE2rMBQpdUCvkyc7oMg==
+rowing.ruhr.	900	in	nsec	royal.ruhr. NS RRSIG NSEC
+rowing.ruhr.	900	in	rrsig	NSEC 10 2 900 20251005163519 20250905150519 42248 ruhr. mENhIJIB7WEH9l0BctPRGyX/Glxqyj590S1gVynKLTHduaqeEiojfrcy3RCdULOhyQjY2OgCqyQ7MMJ6lODm6jSjfOFXnqwyebYNA62e/D10KhLdzlz7WPc/ThV+eLwFXHOPqGID7Ccw8QDlM0CYwptpwwA2wPpO0M6l2PR6Sd1xJp/swj0mlhwc8nuS9VC7m2i2CKcfnK5H+5KrdQwHuw==
+royal.ruhr.	3600	in	ns	docks10.rzone.de.
+royal.ruhr.	3600	in	ns	shades16.rzone.de.
+royal.ruhr.	900	in	nsec	rrs.ruhr. NS RRSIG NSEC
+royal.ruhr.	900	in	rrsig	NSEC 10 2 900 20251005163519 20250905150519 42248 ruhr. bATJZMSlk5GenbFNe86RyoDL3Lq0ltRiJFLxT9cumUk9wjlajYhwiqMieXVq4yP5CGRw6euQ+JIaA6QyDV7cUR4O8sKZzxBFDCAqocr/2rp2vevPqgv5OAyRUlO+KEJ622eNR89cRS0FMLJOFhJCml+9F3v+UHk38lf7mCvPoQQJGvIxpA45Z6srwsim7UFA9ZPopasot0lF05/NIzFZIA==
 rrs.ruhr.	3600	in	ds	35201 8 2 0891459A5A47F7F6AAEA4D869B35B0571E6D88FBAAC4F2BB078211FE41DD9CA4
 rrs.ruhr.	3600	in	ns	dns100.ovh.net.
 rrs.ruhr.	3600	in	ns	ns100.ovh.net.
@@ -16225,7 +16227,7 @@ ruhr.	3600	in	dnskey	257 3 10 AwEAAb97/w4d27g+viXGnDWisAYf89ClEKCDemqtwZNcP++GSs
 ruhr.	3600	in	rrsig	DNSKEY 10 1 3600 20251003091910 20250903074910 46252 ruhr. FLFufUc9/P/lVcQsl6w3YWlYIm6Kkw4U0lhhfQwnAwql3jeOMvE3EIsQK4CNra5Y+qgcLW/2xT6N5y0MU8P4FqbmkqzJGD0aFjNqMJEeI2y+4/SC37eLsejvFKiY8dpJYnjOJtEyO7yk+Xs6XgYpU6bs4OUvx949isYYWvKwB0S7VhXDfyrvNKgGG/nUsoRFZZqhfLszErPRfYO/jcFkT8VhsL1D3+qxjaG4dGQEDIk/QSAI2zm+znKmwoJKwRSOdu5YLLSUBWnFjEomWe+Xggeh7dkjgug4LZiEXni5jQZeRwXHVI6ajWTdnvhc6IOjoFN7Oz09K9qq9UrOq5vEPw==
 ruhr.	900	in	nsec	1.ruhr. NS SOA RRSIG NSEC DNSKEY
 ruhr.	900	in	rrsig	NSEC 10 1 900 20251001081910 20250901064910 42248 ruhr. gMfJB0PLgy6mN+8zO9fb3+ii1NgkfOJbfaJ7iHGcGOyYtHdC6e9wUQeuU6i3BGBQJvdl0uS1CyaF0cuOJOFwVT/ceqmkh4yhfjMZW/2SFJ6P03mz+pO7CLOTl3UD0FtprbgO+6cnBH19C1ERnTvayR5wbfE8B2RdswgMEm3kOD78f98+XKF7WNeRh9rxoyh5DxNCmwwOiysxXd0g1iKafQ==
-ruhr.	900	in	rrsig	SOA 10 1 900 20251005010824 20250904233824 42248 ruhr. PchqVuNG3HZHJmm+f87MAd/pKbgpGJ7Z9L2iPyY68EGdJmnJ+0P7UAfCYdW65SvDPfJ2mogQ2fvpF1I+trE9ojwinBYUw9b3uxRoS11YU1QsfG2jcRD1vBFPV+U4fSg3tRFAdUt5AHDDg1sZPpN4PpnP91V9QB7FE6yErJ/k2jNuDYXvorX4HxkTKCl/BURZ4WdAy64vY5nD613dvwjYAg==
+ruhr.	900	in	rrsig	SOA 10 1 900 20251011010608 20250910233608 42248 ruhr. dfg4XCJbELKfaJc/jZrA7SBXBo9xhAO/dRJ0OCu26OkZjIggjBsl/YLgLzwMWlSMeRxLX2bvjZw0eCtqZIGmT/5b4iBmra+VLjvSH2/A671C3QjQ3KB6IkoqWySK0jLxECkpVNWsUBkw9gisbWm4I8+lFKcKHTjN09gWQ2X/VDjPlThnSfIS7BJujgBhtDnUaygBmv9BiK0Qm6pP0nUNuA==
 ruhrabenteuer.ruhr.	3600	in	ns	ns-de.1and1-dns.biz.
 ruhrabenteuer.ruhr.	3600	in	ns	ns-de.1and1-dns.com.
 ruhrabenteuer.ruhr.	3600	in	ns	ns-de.1and1-dns.de.
@@ -22159,9 +22161,8 @@ zahnarztangst.ruhr.	3600	in	ns	ns-de.1and1-dns.de.
 zahnarztangst.ruhr.	3600	in	ns	ns-de.1and1-dns.org.
 zahnarztangst.ruhr.	900	in	nsec	zahnarztpraxis.ruhr. NS RRSIG NSEC
 zahnarztangst.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. y9iDDfJhRy5ju+dFNb3te+3egLyQuB3FHjdU7W0+KkEQ+Ax15QZU9QsATDpUxiTaKYm7ePzJQOyGiOR9Q2UEcZJbrURYczszVfIoCvzvmTctLpBREaRiqEFI0wWawqL+hNIvbcH/gA/A/3VJO8JZLF0vA8K0cCRC+37cV3OYniC/s84iMYN1m/w63uV7LluDW+xB28G52QJW8D5p/sigFw==
-zahnarztpraxis.ruhr.	3600	in	ns	ns.udag.de.
-zahnarztpraxis.ruhr.	3600	in	ns	ns.udag.net.
-zahnarztpraxis.ruhr.	3600	in	ns	ns.udag.org.
+zahnarztpraxis.ruhr.	3600	in	ns	ns1.goneo.de.
+zahnarztpraxis.ruhr.	3600	in	ns	ns2.goneo.de.
 zahnarztpraxis.ruhr.	900	in	nsec	zahnbehandlungsangst.ruhr. NS RRSIG NSEC
 zahnarztpraxis.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. sWZLesenymA2Oqh0xNcScfRVvTPJUfdm0EnrrXEBUXtBSXOgF70CENuLbANG0v6S/bXkPUyUUauAxeUPddfjhTrUqnxTmTu2TRkeHr19RFxguPXI89MJeShKC1mlOFsVQQFoVdSx/UjqG7EU5ezsX0Q/9qqcoNY5cl6gWNkvDJ4PdJYNhJTWgzc/BTIFua6wlkvZl3jsodxyEeEIPA+crg==
 zahnbehandlungsangst.ruhr.	3600	in	ns	ns-de.1and1-dns.biz.
@@ -22462,4 +22463,4 @@ zweiteheimat.ruhr.	3600	in	ns	ns-de.1and1-dns.de.
 zweiteheimat.ruhr.	3600	in	ns	ns-de.1and1-dns.org.
 zweiteheimat.ruhr.	900	in	nsec	ruhr. NS RRSIG NSEC
 zweiteheimat.ruhr.	900	in	rrsig	NSEC 10 2 900 20251001081910 20250901064910 42248 ruhr. K8YexOYgU0RXK2YVUj/+VoI5G+Jz4I5WzO0M34TOvekAHXp9hVwpZ209f4PRgB4ck+ocLLVDsjXmGPVZcXE+dQuxPahfhUwNC4pCSgZJOsSv0jA6b2NKXw5DWJF1+BM0HuD2vSZDnj3MeLQ/d+hOiox+NqTR4gYhNQzQqTDaoE6KptNjIm6y4y4ck8zRr9VRiPQrSHYy4yPx8SxYpO8WQw==
-ruhr.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2209127452 900 1800 6048000 3600
+ruhr.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2209127753 900 1800 6048000 3600
