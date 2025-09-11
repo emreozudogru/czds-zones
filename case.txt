@@ -1,4 +1,4 @@
-case.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1620301455 900 1800 6048000 3600
+case.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1620301753 900 1800 6048000 3600
 a.nic.case.	172800	in	a	194.169.218.140
 a.nic.case.	172800	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0140
 airpods.case.	3600	in	ns	a.ns.apple.com.
@@ -59,13 +59,13 @@ case.	172800	in	ns	a.nic.case.
 case.	172800	in	ns	b.nic.case.
 case.	172800	in	ns	c.nic.case.
 case.	172800	in	ns	d.nic.case.
-case.	172800	in	rrsig	NS 13 1 172800 20250912213706 20250813200706 23112 case. eXu/TZTTdK8s6Mgmy8alsv1eB93Tz1co4zoNmEVD4z/r/91MWNO6leLL3gtjrvtlSZipwq6EGNLDQjnRuwnwVQ==
+case.	172800	in	rrsig	NS 13 1 172800 20251009194704 20250909181704 23112 case. /tggpbFH8qnzb3wlSKJ3xenV+bR/Efczs+YbaCucTl+fr059+1Ey4ifL1+MPK2WdZrwieNVA2MrTuLXz3RtVXw==
 case.	3600	in	dnskey	256 3 13 /mFHGdja9KqerJWTp7Ok54WpkBoBUrrTaprYF2scvbSKbPYHvDBatXh2TradmZuY5YWz7ENtx0IhdPdiAhQuKg==
 case.	3600	in	dnskey	257 3 13 xyFuxP0m4/B3cumxsoXl7iHg0jqfGdByxaN8wqpoZfny5/VG7ZOkDu938uqwQB+PFVS4l241WYGBuT+r+dPcOQ==
-case.	3600	in	rrsig	DNSKEY 13 1 3600 20250912213706 20250813200706 9262 case. fZC22eIivqGDLh3Eax0AFk4TQC5o5ysNhpdEnnsgwbcIsWiyMTrAHsEukZQXC7x0ihf+K7/2TdPaZFU4arU2Iw==
+case.	3600	in	rrsig	DNSKEY 13 1 3600 20251009194704 20250909181704 9262 case. 6gC5HjZpdnKUEBI0z4IAZJoCQu9+hK+akYRHwJ3Rv3ClmlsBXyxswn0KCmKNU/cuw9wR3ykUKHzKPJpJfxzWGQ==
 case.	900	in	nsec3param	1 0 0 -
-case.	900	in	rrsig	NSEC3PARAM 13 1 900 20250912213706 20250813200706 23112 case. 4YGH9it9bxmO+kV/grxKm6uxLFre2g6bi4bscctCLt5JaGhtqG/GR0l9FFpzHnPVdw9jYwOc/XHoVMsO1CjGtg==
-case.	900	in	rrsig	SOA 13 1 900 20251005005400 20250904232400 23112 case. hkrIpSKcFQzBKJRZ9N22qRoWD4yZMQ6jIkuKxmZWo82vfAlJwgN2buujJjSzMAdR31V8NZyLRzA98c+XQ5bZxQ==
+case.	900	in	rrsig	NSEC3PARAM 13 1 900 20251009194704 20250909181704 23112 case. zS4zrYDZ/E81bRtWjTHosEBBoq/4OABn+IobVDMeQyosooyHSiZ7MmH+QE7E+GP1A3WV9vD1vmLbSwx1FLcGBQ==
+case.	900	in	rrsig	SOA 13 1 900 20251011005110 20250910232110 23112 case. yE4d5oXA53C12de2JWii+Aa7JXhfjkk0AZvsY49EJ/YeIhBMx2rQlkvcL5muzInPLkxdrOZCBr+UNSV+MAXREg==
 csgo.case.	3600	in	ns	naomi.ns.cloudflare.com.
 csgo.case.	3600	in	ns	salvador.ns.cloudflare.com.
 d.nic.case.	172800	in	a	212.18.249.140
@@ -111,7 +111,7 @@ iphonese.case.	3600	in	ns	b.ns.apple.com.
 iphonese.case.	3600	in	ns	c.ns.apple.com.
 iphonese.case.	3600	in	ns	d.ns.apple.com.
 itnsovbtdhlaoorp94dhlurj2soil9hn.case.	900	in	nsec3	1 1 0 - N66SBS2I4P6PU4U2QCAST5PTTJ2CTHDM NS DS RRSIG
-itnsovbtdhlaoorp94dhlurj2soil9hn.case.	900	in	rrsig	NSEC3 13 2 900 20250912213706 20250813200706 23112 case. 7GheN4Z+wCrdO33ty0ZKb5fX9dthenSIP6lhgYZJZtduYNK71irRwj9O+qRZX09fP7XQFzXSJKKkiVMBnHxIrA==
+itnsovbtdhlaoorp94dhlurj2soil9hn.case.	900	in	rrsig	NSEC3 13 2 900 20251009194704 20250909181704 23112 case. s6ym+iUZkaKRFm1wIUc+iKAWsQ2G5m6O/i5Q5YPM8HFeB6Tkkl3A5oRhTDACE5RQwkVjuVyHy4np3zN24POskA==
 kindle.case.	3600	in	ns	dns1.comlaude-dns.com.
 kindle.case.	3600	in	ns	dns2.comlaude-dns.net.
 kindle.case.	3600	in	ns	dns3.comlaude-dns.co.uk.
@@ -133,12 +133,12 @@ macbookpro.case.	3600	in	ns	b.ns.apple.com.
 macbookpro.case.	3600	in	ns	c.ns.apple.com.
 macbookpro.case.	3600	in	ns	d.ns.apple.com.
 n66sbs2i4p6pu4u2qcast5pttj2cthdm.case.	900	in	nsec3	1 1 0 - ITNSOVBTDHLAOORP94DHLURJ2SOIL9HN NS SOA RRSIG DNSKEY NSEC3PARAM
-n66sbs2i4p6pu4u2qcast5pttj2cthdm.case.	900	in	rrsig	NSEC3 13 2 900 20250912213706 20250813200706 23112 case. JcDfVjBjaHRwSzv3Y9x3Jur/HSuganMikFayWgVG6JR3zqatr9j3nBz6r0ZQ8sWdMZdL4fG/VLH6fiOlfkidgw==
+n66sbs2i4p6pu4u2qcast5pttj2cthdm.case.	900	in	rrsig	NSEC3 13 2 900 20251009194704 20250909181704 23112 case. 91WxT4GvI8KZ/zAr4ieeWhFcdf67FpcCq2fvpdaLHF8yq74d2X2UWzMxOtHbKnaxbUGzLElsc1CN849ZEPExIw==
 nic.case.	3600	in	ds	41329 8 2 F2EEF4DE21495E3F6B61F624DB3363DBC44D7CDE5D05EA59088898948CF97DB0
 nic.case.	3600	in	ds	52897 8 2 C2F4368A5407E049FBFA58F475A5F521F7F85B69A4E7150837EAF10765500827
 nic.case.	3600	in	ns	jim.ns.cloudflare.com.
 nic.case.	3600	in	ns	zelda.ns.cloudflare.com.
-nic.case.	3600	in	rrsig	DS 13 2 3600 20250912231703 20250813214703 23112 case. 2lJ3CZkxofCuWW90OB3D635Q5jCSyYc6+iijs27tMjPmIDyMoJWVHLOK2f5ZY47ihgRTj8mc2mIZ0S9Mpnw+gw==
+nic.case.	3600	in	rrsig	DS 13 2 3600 20251009213706 20250909200706 23112 case. uydI24YSUqv8O7/XcEQBgGWutSt5vw8Zzyidobtmb9jVYQ9bu2YkQZzi7P1J6Go5Bp6MgDeTfVvk/yHVG/jR9w==
 prime.case.	3600	in	ns	dns1.comlaude-dns.com.
 prime.case.	3600	in	ns	dns2.comlaude-dns.net.
 prime.case.	3600	in	ns	dns3.comlaude-dns.co.uk.
@@ -179,4 +179,4 @@ youtube.case.	3600	in	ns	ns1.googledomains.com.
 youtube.case.	3600	in	ns	ns2.googledomains.com.
 youtube.case.	3600	in	ns	ns3.googledomains.com.
 youtube.case.	3600	in	ns	ns4.googledomains.com.
-case.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1620301455 900 1800 6048000 3600
+case.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1620301753 900 1800 6048000 3600
