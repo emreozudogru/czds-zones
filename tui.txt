@@ -1,6 +1,6 @@
-tui.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019118710 900 1800 6048000 3600
+tui.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019119009 900 1800 6048000 3600
 2o1slpef22q2grb3n5k01g19quiqfha6.tui.	900	in	nsec3	1 1 0 - J4N2LMKIQQFBOUQTRVUDETKL6IQVBJSR NS DS RRSIG
-2o1slpef22q2grb3n5k01g19quiqfha6.tui.	900	in	rrsig	NSEC3 8 2 900 20250912215002 20250813202002 53058 tui. fubZ5i/QU3ycavLr8lbfeyOkLZ3tNBdW9VqS+OERA/XDRSYugdg3pKEgM8hKEwTj2hq8PUH7RdwB7HWKy4Isv4BTsF8xcSBOYrmJCwC/dJiPUOrvHBP5b+bPhpRrjo+VbknrfLYSMrI4H465p5GwxUt+ifHC9+bIS0cRjjirXwg=
+2o1slpef22q2grb3n5k01g19quiqfha6.tui.	900	in	rrsig	NSEC3 8 2 900 20251009201505 20250909184505 53058 tui. Z+q9Bc/s9PEIVhXT26b49j4edQ4nZ8cE24k9WLWoMZkwU4Qe97KHq+Z/SjoefuU9x0uWtBuTvwE9N8SyO/sD02A7ilJZy8sOr+mLEuOCOniT2hDYbHbdWdwugKzjqePelkxw2q8219RI+YsAzxJDeEfm5SWshFl4TsGrEVvjIW8=
 a.nic.tui.	172800	in	a	194.169.218.103
 a.nic.tui.	172800	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0103
 access.tui.	3600	in	ns	ns01.brandshelter.com.
@@ -33,6 +33,10 @@ architecture.tui.	3600	in	ns	ns-1098.awsdns-09.org.
 architecture.tui.	3600	in	ns	ns-155.awsdns-19.com.
 architecture.tui.	3600	in	ns	ns-1973.awsdns-54.co.uk.
 architecture.tui.	3600	in	ns	ns-765.awsdns-31.net.
+atlas.tui.	3600	in	ns	ns-1136.awsdns-14.org.
+atlas.tui.	3600	in	ns	ns-132.awsdns-16.com.
+atlas.tui.	3600	in	ns	ns-1817.awsdns-35.co.uk.
+atlas.tui.	3600	in	ns	ns-594.awsdns-10.net.
 audit.tui.	3600	in	ns	ns-1241.awsdns-27.org.
 audit.tui.	3600	in	ns	ns-1789.awsdns-31.co.uk.
 audit.tui.	3600	in	ns	ns-49.awsdns-06.com.
@@ -201,8 +205,10 @@ images.tui.	3600	in	ns	ns01.brandshelter.com.
 images.tui.	3600	in	ns	ns02.brandshelter.net.
 inflight.tui.	3600	in	ns	ns01.brandshelter.com.
 inflight.tui.	3600	in	ns	ns02.brandshelter.net.
+internalcareers.tui.	3600	in	ns	ns01.brandshelter.com.
+internalcareers.tui.	3600	in	ns	ns02.brandshelter.net.
 j4n2lmkiqqfbouqtrvudetkl6iqvbjsr.tui.	900	in	nsec3	1 1 0 - 2O1SLPEF22Q2GRB3N5K01G19QUIQFHA6 NS SOA RRSIG DNSKEY NSEC3PARAM
-j4n2lmkiqqfbouqtrvudetkl6iqvbjsr.tui.	900	in	rrsig	NSEC3 8 2 900 20250912215002 20250813202002 53058 tui. Hi1TOpzsjnJ+GlbRFVTHaLfoXSmQ9+ORyZ0YOUX3ikwJ4GIu91g4819OEIFfgroewJLL3be6yfri3qIth0tOnMQQzScoVpknmQpwtE6ogJ5dfsVJhUz5mEC/lHV86L+Hh1hm7Feoha0HXKVot6538Zm+8hvl8LWlRb1vY9GJ4qM=
+j4n2lmkiqqfbouqtrvudetkl6iqvbjsr.tui.	900	in	rrsig	NSEC3 8 2 900 20251009201505 20250909184505 53058 tui. CDRAYi7h0SS2nVf/CA4srh/DNznXJ5Cw2ElmgE6RJfvDZQrAYXjLrMiCOc3jQxdArhFeJnzv6KNPyQhlWCtrWO8K8nER8FWGjVV3qp/siL8hIFDmA5xtSTrQ0kG5f5cip14e5GULneO65VH3vCHdRY1zvuBfkaYQMlAnjC5njA0=
 journey.tui.	3600	in	ns	ns01.brandshelter.com.
 journey.tui.	3600	in	ns	ns02.brandshelter.net.
 learn.tui.	3600	in	ns	ns-1116.awsdns-11.org.
@@ -243,7 +249,7 @@ partners.tui.	3600	in	ns	ns01.brandshelter.com.
 partners.tui.	3600	in	ns	ns02.brandshelter.net.
 pdt-subdomain-test-u9geqq.tui.	3600	in	ds	60485 5 1 2BB183AF5F22588179A53B0A98631FAD1A292118
 pdt-subdomain-test-u9geqq.tui.	3600	in	ns	ns0.example.com.
-pdt-subdomain-test-u9geqq.tui.	3600	in	rrsig	DS 8 2 3600 20250912234518 20250813221518 53058 tui. Ofe9W+r5kkiTW8x+SRn24t6HqSOGp6nR5c+JyZqK3jON1kmq/W736+or7UM1OlXQ7fxISNsWpGC8WCYRDJvrQxn+txkSShrPCHrVhJJdADpU9WJEsjzTi2tvd0ityLyWsHonSdWDMNX3sz+6edkNpCWNKM1L5Uj49WJN5gpbtvc=
+pdt-subdomain-test-u9geqq.tui.	3600	in	rrsig	DS 8 2 3600 20251009215002 20250909202002 53058 tui. OatWYORgDazDPutc/+P6T0/P4+4aoJoG/GwHUpzoGLE2ILfdpsAVZD3hwuXGJCMOwDy5//E0OEcwxD4frrt5Cma4/d3pGR7Ch+ByybHQZnZp9wkoK7l3Wfsq+cC+Xs8lKKB9atcLZEfDdI5MXTWu/9ts/0WpV+3+cbZHiEiH2ks=
 procurement.tui.	3600	in	ns	ns01.brandshelter.com.
 procurement.tui.	3600	in	ns	ns02.brandshelter.net.
 product.tui.	3600	in	ns	ns-1187.awsdns-20.org.
@@ -308,13 +314,13 @@ tui.	172800	in	ns	a.nic.tui.
 tui.	172800	in	ns	b.nic.tui.
 tui.	172800	in	ns	c.nic.tui.
 tui.	172800	in	ns	d.nic.tui.
-tui.	172800	in	rrsig	NS 8 1 172800 20250912215002 20250813202002 53058 tui. Ku8nUx5cHlJwYCv2k+zPMskACvQxsyJERgSAWttqgpGgfiTIw4ZkdetJQBioKC9BYlrVvU4PddlDRiulp9yDzGDUDXJB9yl0WUXxlnV57yQsVBJ2Co6dwWzD8nWpyrXxM5/YQoDfYXS7vQViF2X7iudRhd12ckVwaqKTxSi3+uI=
+tui.	172800	in	rrsig	NS 8 1 172800 20251009201505 20250909184505 53058 tui. elRPGciVT/1DlUlsJvq6DmmG8h7HaNbhmMz+hXsnVdWVUk9BgiDa+GiWhyLlWRv53/UCjdmneW5avzk9kxJp+ZSWZKmUZ4WpgLznrRYPTwAOTc5Fnj2Ozl51OUkG0hrWGe187qIc9IqxrBt/iWftlJErIFKCYAhCBNiYsZeBLyA=
 tui.	3600	in	dnskey	256 3 8 AwEAAcAHOVsdMutc7CRSKLh5ec334+72ZMJFcvvnFAWkxDFINWhzOx7vQbNhVPh69l9VcaQ3sW2rtmnH50vtaMkTR4p49LoWFpGrf1NN0RgvivptLD9ssxTceWmgAVqm3fBh1ti3VZ6BoPtIGeQUgRqmrDUvda83YttsSXVuTWPICGD9
 tui.	3600	in	dnskey	257 3 8 AwEAAdFbPwETwKbDxZgqVykjv9NbdYyVTAq7f/IUPyV7BdLg/LcpcWH/wUUmqNiH/DskGBuaeSoVUFiWq2+pF+dva1lIh9VEY7s49N1snAPG+pk4aefKJbcAWK4KMuRjOo2r0oOX2yF8EiFjYr5LdYTbJTFcivflVlYICMpbaMYi66k6dkP0LEHQ1qLxVX8Lkm3dNkvlidg2hkYvRofmWAFdqxpHcQPTZYtgoEa7ji/EwhwdL3nkmyQf6BMzthJ9/pOI2ddPZI6DEor2Cv77pFkn0LHtvVk9+nzc5p9pup9/yJrGe50cUr5CPRk/377GkdO6j2ne5qnx+auNiNExOWYZPaM=
-tui.	3600	in	rrsig	DNSKEY 8 1 3600 20250912215002 20250813202002 23341 tui. pKzVIKV0ResDVJS8rvCc5IVsi8kvWIvdnAbTgOVTHbEUPco8UH5ijOUb6v5c2/9LyYYaPN19bIQSP0QSEZv1M57RShYyCZe+8wl31DX+4cE/zRxCoSmjArp2FgEDfc0U+4eGoz2Kwy91ZslHPmalhQAKkjSjQhH/9U++0ekrgWx1B4hG3k3et7OAV1KMHj10qQ6uLlFXWOvpu1p1xLMC1HrDlgGq4DkSJk89LnRbrv/aTr8wftdLClGTYMz8tQ8QhvIkTJ7gFX/1EmR65ZCCpTIXgd4C+PDVcKJpKkj8qUY1F0sQNEGq6EjWqY43UNtDImS4awuFEI9rhf0bGT1zBw==
+tui.	3600	in	rrsig	DNSKEY 8 1 3600 20251009201505 20250909184505 23341 tui. V4iI6D5WIMFktvRWfuNCMxLaZNEfTaJdIkEQOK5T1qHVq1xkzXRx1ohE+y6Ew6CaaZUl1lBC1BpfcsV73ozfpvFKIcTH3zfZXsoGgsb8K90wA1TvNwzx/m2Al0ma8lqJTGShgNuIUtEj1xiNqb/Ia90bLUA1oS1F82BtQP35dnWVlLGWZl2Y5VYycY8Peiw4H6MkukornLALuYKn0Ed41lb2Aprg9ql5i25boZRIVAx70RMGbY6kU4fqXeuM0zd2Ur1vFiAub1HAPXFk0++pN+MIdCZrSbrOJ3j8y8kZ8Vd7QwfETEHrlhrCpEwoHNiIgtsMlPftjysV8wEUmkwGHw==
 tui.	900	in	nsec3param	1 0 0 -
-tui.	900	in	rrsig	NSEC3PARAM 8 1 900 20250912215002 20250813202002 53058 tui. hyQk2Ll1uSUCJ9guEMxQRTfDsyaJtPHAyKDsKcUpQU3dsd+2dxONuaLfQGzZ2CeTwMeYi5nZeVfNum4lTLif702/2QodQ96rAJib7hrqVy6nx8YKgJUPOmBBxgn+Wvb5Uc6Cz9zTC0uMyXw7X9fJdn+Qs377yCXIkxtM+IVZ87Q=
-tui.	900	in	rrsig	SOA 8 1 900 20251005012304 20250904235304 53058 tui. FPgLBhqpni9z/BEkGfRr7Iz2iv7hnPCP6wfF8zRP1qDQWf6DnXEpC6XjgSPIPf2CbhxYA6YhIOnPgWedVnhd0HlVV+ZSUTK0PDXK0NJxm/FaQOC7vzKbiAyGgSBfBbF05IRrQA2flQMsgm0ywRmLaJ6ltAfJM0PViPCUNrYJSCY=
+tui.	900	in	rrsig	NSEC3PARAM 8 1 900 20251009201505 20250909184505 53058 tui. aNCIEDdBk/BndUKWELieJD91lo9qjKQ6O+1nePywZ9D92aE0Yy58nqdbaKnCfSugG1wdGCNanZ4PgD4LVrV1YowlzbERRraO/hA/8B/WdKf9HyalacvNV2uYyyeeq3+QD7tf0PIJynba63GjX4ksR7zyK7p6VnjJH3fZZRRoiU0=
+tui.	900	in	rrsig	SOA 8 1 900 20251011010606 20250910233606 53058 tui. VOaktUfPez+5xbamyq0SA37xZsUwXquNBrxFNB4MKnSLGUHm7LQab/cLbJ9KMI6Odd05RFyD06myS2EsNYtbYcgF5+zh72VNoojG7nMHti7nW+yaXHMIgyIcmyfHTwBF6jeKCcfs9odSoOf93yrfNPI7VGMIzDbKBhEBAEK7KsU=
 url.tui.	3600	in	ns	ns-1209.awsdns-23.org.
 url.tui.	3600	in	ns	ns-126.awsdns-15.com.
 url.tui.	3600	in	ns	ns-1897.awsdns-45.co.uk.
@@ -327,4 +333,4 @@ wifi.tui.	3600	in	ns	ns01.brandshelter.com.
 wifi.tui.	3600	in	ns	ns02.brandshelter.net.
 wrd-service.tui.	3600	in	ns	ns01.brandshelter.com.
 wrd-service.tui.	3600	in	ns	ns02.brandshelter.net.
-tui.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019118710 900 1800 6048000 3600
+tui.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019119009 900 1800 6048000 3600
