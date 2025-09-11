@@ -1,4 +1,4 @@
-gucci.	172800	in	soa	dns1.nic.gucci. hostmaster.nominet.org.uk. 1718708809 900 300 2419200 3600
+gucci.	172800	in	soa	dns1.nic.gucci. hostmaster.nominet.org.uk. 1718708811 900 300 2419200 3600
 2dh840u6n50nq2vjk679gjiep2tep8j7.gucci.	3600	in	nsec3	1 1 0 - 2R6RCDHBEI5EDD290RP00VHJ9CEG9KN7 NS DS RRSIG
 2dh840u6n50nq2vjk679gjiep2tep8j7.gucci.	3600	in	rrsig	NSEC3 8 2 3600 20251009080624 20250904080545 3871 gucci. RPjn4tIfTgvB0y1M/i07UJCc1ufu8qyMtUExSKs8wTWSEbbPU1HaTbUbmNCUaRw+vvpPD1E9Ld+avJW+J3YjVdXElHcXJpX/Zn2RCGPBoNQa2oRJx0BEkJa/weQy1DprcKuQ8NDAZwoCGfM6uggy49ItMKvRScXNLmvaOyzK86ezl5PLw78712HNwil29uq6xTPbVAIONMXu0OddcWQ9NegANg1QqtSffN/BALAZiHaggkjBYIXgkLQLZLSNg+eQbM8YaZS8bLRzmWw72u6pzijKkkFbEVNn09+UqRzGYAVDVe9x4CL/9EIXEkPVLfiKNuvoqO1HccEqM4fjl6h0ow==
 2r6rcdhbei5edd290rp00vhj9ceg9kn7.gucci.	3600	in	nsec3	1 1 0 - MNEEK26BFDRVJPSIBIUCIP86HMTDEE9G NS SOA RRSIG DNSKEY NSEC3PARAM
@@ -8,7 +8,7 @@ gucci.	172800	in	soa	dns1.nic.gucci. hostmaster.nominet.org.uk. 1718708809 900 3
 3dream.gucci.	172800	in	ns	dns3.comlaude-dns.co.uk.
 3dream.gucci.	172800	in	ns	dns4.comlaude-dns.eu.
 3dream.gucci.	3600	in	ds	48553 13 2 E4ADBAE128B8BEDF53C4A327A2C74F6F42BD521245A42D69CEC48A2530A3D262
-3dream.gucci.	3600	in	rrsig	DS 8 2 3600 20251003014916 20250829012438 3871 gucci. X82KNdR7S811ZHoeFKM5cJkruKpFHwEtwcZCDxxx8lSZrG1B1HQpDJKJ6ceQMa3m+GkhSQ6bKB5eXB8Io3FAK1/xCuZ0azRTEFagrkQgUSarXpoY724bXRJDYliauNCBd7LYhDcFKhiOtYwLyVpeRbq8iCaAbVN9vvzxdRr3MnY3L5BpWm1CFH+UTprfaIGIycpMtE3EKfCjuOzC8PEoBFFCwVDPJ6lvXFLkhN+EQiVY79HAgUU4a2XYdyZK1g/nlrtXC89vA9mS16RUXzZqETNu85AkCAB93r8TbO5pzA2+oI8aN5rHP9pQSfNQQ2i3D/QBhGCuDfBpYWkeuhZvDw==
+3dream.gucci.	3600	in	rrsig	DS 8 2 3600 20251010011944 20250905004916 3871 gucci. B/smKg7bYYHlgOv46UuTTVhOHMn+y5A9PY4Q09v2t2x0BfpXY6iNjjv4sdRRu3Y/aW5cTDBLtHdlsa500QEYGUn+E8omHshdjY4xWRSCiQiCB66lLEy3QzRS41ciN6e+PzznHB1XQjuNRVzoDOin/Bwo3Dhl4ISL2M759s+okZhiAl9Rh4Jcq+2DNbb/HAiVzrD1+GOu9jCkZ9q2qFbdNNzAYI5YDKcH4I6lFJhXsBjd8rPhTA9Ht44hmiznc61gojbRJfBT7q55oJ1OvwFKGAIiXPuY3VmH2rSnaQqgM+TJioJE8WuvZOf6hZ4xjjqezB6rJ2JgFKNotTKkhXV37g==
 bitservices.gucci.	172800	in	ns	dns1.comlaude-dns.com.
 bitservices.gucci.	172800	in	ns	dns2.comlaude-dns.net.
 bitservices.gucci.	172800	in	ns	dns3.comlaude-dns.co.uk.
@@ -65,16 +65,16 @@ gucci.	172800	in	ns	dnsa.nic.gucci.
 gucci.	172800	in	ns	dnsb.nic.gucci.
 gucci.	172800	in	ns	dnsc.nic.gucci.
 gucci.	172800	in	ns	dnsd.nic.gucci.
-gucci.	172800	in	rrsig	DNSKEY 8 1 172800 20251006043549 20250901042934 54892 gucci. kmFx8R3fXOXLUnzlMnC87TH528bYr1dGSYduxiAEQcReXmSHynaKOGZsMKOOxJrU70q82OJXrxIwzc1jpfnRSyUzES/ZE/Ok6W8I/BPHx7//1AKxpYSrO7r4T+3ad+edyjqDCyGf2ie2EB8k9tJ5VIUEMOKM7AcpqfYRxJ2P97SkTdheXsQwkH1yymJHn/6Ifr6CeWO9bZpD9bHRiLnvoShmth5LO0BB1iJhoqRAghzA6nz1hgV1TL/5+GgMXhxPGRzyN8H5qvDkaz0tKy/BDdIMxQA77yPxNxmnZimZaAJtLjP78YG2AeHMY31Uc4IdHFOgwwYXxmr1KDHXjRLpGA==
-gucci.	172800	in	rrsig	NS 8 1 172800 20251003014916 20250829012438 3871 gucci. t+wYQfXUo7iXpm3aW8P5n0O049iOZTCV1EDYhae1UebPoXVDBy+EOkndaT8TiibViL1bvqbH3/GiJre//YFd3IxMoJURvG0nJqdyIOIOBixJqOnqCuV3JEc3ctNp1bE+XBbkaAUT3MgCuWBcLDEWqlJHuc/5K6gANKKceIOH5lmA5MFynOxPzCfRT82re6aIPifGTM+QhEdsfJ7ORl6Ugwutqq4yx2vtwdvPHE/m69jmVErL9OrYFPrkPR7/BwCn/auXrIr+BJyKYrk844lgvYAKLJDI4guEA7hCneBaWvNG5FYUag08HVcySNDj2yT7MYYvKftp5SP/7qcnfj7WPw==
-gucci.	172800	in	rrsig	SOA 8 1 172800 20251009090545 20250904080545 3871 gucci. bPEgfwe8d7msbhcJfntoI4n3zQDAnQi+i9cQn+AQk/NG+eqpZYw3cnlhnhAqJ5XSVj2zDBFtKJGI1KsIbOrH2PMdZJjXYDaSSMphlSFoD/K9Wt63SzyF7jACz/wfsOdt1kmhclqahkbyRw4GNEiRsBobu2TnjJpAXs+KFSdx5XzIOAci+U3lqn73B+lxVkdtf0uMgz9zVgBONrotK9NMjtvIpSdzgoVoLCumHS8b4457gRnDxcr6Io6eVtQ/kVy80M1J66nCOg6u/gjrpLZE96lNShXzFAjwdH2wbBBjaRiTw0PJmnNxbydXump6ReJ0VY4gOjSDtzgMuEwgeK4Ivg==
+gucci.	172800	in	rrsig	DNSKEY 8 1 172800 20251013041734 20250908033549 54892 gucci. rn8hV6WWr741f+YpJnQXA7DK9zU0zlqJ3KUV3gPG4DJsd+Rag0tWNl+vn8HRuCTD3eYNqXqtl7sDhDxo4FRGZvF2HZY5pDL+xpIYlAFMS6KjqiGI4weVfCdMGI2zXD+h8ZlYtEjzoUC2ZzZTq4jRVlsZGwOGSyGeFXe0zX6DkpF1t0760S/gllq2LgI6WLrESKaRZqF/ECByKnLy8rJp9kNvt8gWtQxZs1Gv5i0wA36cAgqU3sSpWDXc/2rMMINHTTH9FH6Lhb0cD3DRu5Co9MdK4pwkAMpL3tTKxS2dmxsanPdsM7KooyOXHI7PwjoskpVxUgJM/BRjsgqdt7xTtg==
+gucci.	172800	in	rrsig	NS 8 1 172800 20251010011944 20250905004916 3871 gucci. kKHAbj6dnOopVsm8aO++imTocwt1XsnZPgIv9FT2H2azWIZogT2cpxi1++qNz6KSzCb1AaHUAYOEwzEZCJXragRRqkfPfRTxAWTyN3D8iQIiRdiBpU/jPXQByiRF6i0OYy9NEeO8iEewHIPDbjCWPXp1lBDgFwPpwTIQyrCh2fJwrqLU5V/7rmBRBK9vjQ6xTzAIh2Hu/Rr9FMPtFHYKZG+SI2ffoFK0Gm2H1Q6xSJ4Nt8ZpL5qcZ75NO11NDTaVKz5mQTENaaM8JtNLF0CwwMShKoERGkWxSPMbl5IDoxoTKDxZX3hn5CI+yAiGtixsZ0Lk51tb8V1Qf3CIpCoNeg==
+gucci.	172800	in	rrsig	SOA 8 1 172800 20251013043549 20250908033549 3871 gucci. Y9bLV2jl1+q7LBM4GYxgFPMSsbiZRAsv1kDYOCqZwFgY+ed5q+BEroE+cKXWN1+p1bKWCSzo7QRo36tDaswRbDlelnnfsAQ3URfszdGEh0/T5WLCC7tBYywziB+EyWSVGUKfh5yzZyc3YvVAJuc0Xbmgwj6AjF+vpj75gkremo8IWbTYUsIBmd4x3U6+cdeR+N0PHtGXNeUe9Mjhzz3b0Z20hs3Edofd0+H8nV8NfXg31EObH5v1pVZZCpCkrJ/VHBA9PRFs2+pAHyglSvrCaQSvWwtl2UyeeUJNavCoH2zm1BCpxtqyYWxcPJ6fhxl7M+0+TKwDJDsFDYk9gdoeCQ==
 inbit.gucci.	172800	in	ns	nsgbr.comlaude.co.uk.
 inbit.gucci.	172800	in	ns	nssui.comlaude.ch.
 inbit.gucci.	172800	in	ns	nsusa.comlaude.net.
 mneek26bfdrvjpsibiucip86hmtdee9g.gucci.	3600	in	nsec3	1 1 0 - U2B2915FSJ89GTMJ8F7VOU960JT0VPRD A RRSIG
 mneek26bfdrvjpsibiucip86hmtdee9g.gucci.	3600	in	rrsig	NSEC3 8 2 3600 20251009080624 20250904080545 3871 gucci. nN2lDt1W0Ak6SaLt6CVQxFe9cC5gxoAE0PiZ+86omoa/sBJdgDtRoiWWUx/wr25Qy9BzLGbpvxKOuPMASRlzH7nV/10eWAMuhGR04pq5acrsZJ17nUDIOfWtSv8/bXljKu8CKKvW7mPyAy6fxkxH8vQkQpcz+V4G1oPj+Kg6F+Z4M8hK0KnIVqev2M5WRnzbqJay1c+QJAF/Az1xKAp+282yVRhToouf4KaHDL9vZckt+zJECIh7pByc8H5qKbZxhcvV6hK6V8c3d0C54gC1AK4CDbwey2hQu9yMD+AZfkws6csEjWZNzTqXpQ0xGYgx+bIglY8S5v9A9MzR3PugCg==
 monitor-nominet.gucci.	3600	in	a	127.0.0.1
-monitor-nominet.gucci.	3600	in	rrsig	A 8 2 3600 20251003014916 20250829012438 3871 gucci. NhihaBpv6XQX9gc9zL76t2/VZ3aEsSKD8Qo8zrnY4dZxTzYLVTKSLCirnQW6IV5DKe6SpOZ1J0Wtm0ZHgsC3fOvo2NykjJfKj+xsOuC9812dDp2/lPdC2GYtzeVKjElwocukMwCnY4ot/GIY7Ov0cw5CglMToOBvex49egy+M6XQfNv5h3g1NysP6BhFYSUpV49MJyN6beBrktkRmRtkMVmqzOsVa4zzrtc1db0WwwFqb3Uwoa3Prp6AhaS7PvLxEA8N6HIMxc5J1uioY0u3PrDsHWqqeBiMsH0xYnTSyYdgch2KyVRx9OoDBFdo/8wnnl297PTu4lju1JoHNqEUsQ==
+monitor-nominet.gucci.	3600	in	rrsig	A 8 2 3600 20251010011944 20250905004916 3871 gucci. hYFfGCQu+oxWUyQwe/UYKeCVYD+Pp37tuxK+iPJXuS1qYDZb/v6k/0VK+JwAa1Dvo9XXY4mKnt68ZI3eINLP2KGgYNxPOQ9t65mt9wCDB+g0JSjC51eIII+zNdW8GqAMky1NNZqnRtEhC559cncADqWfFS5lFZXwQyRcWGJWSpE7+V84nPESCIOVPXC2j9zrinfHdQV2RakNxROcLrwcN8McGNg+YsM0WRmpJpOFXHkw680naWvmKrzfJ+8i1g2Q/gUkC2rVuQM+7O4iONiSvLKuwCMC2F3n2kGH1Xss0EXh/eg5HG3PGeOVdYf46a/wYjbGq4uaqVRT/jgnXq3sow==
 nic.gucci.	172800	in	ds	37277 8 2 98AE62F2FFC9D4AE457A452A2D0284E82D1FE0804565B65AD62B6CAC804D9173
 nic.gucci.	172800	in	ns	dns1.nic.gucci.
 nic.gucci.	172800	in	ns	dns2.nic.gucci.
@@ -84,7 +84,7 @@ nic.gucci.	172800	in	ns	dnsa.nic.gucci.
 nic.gucci.	172800	in	ns	dnsb.nic.gucci.
 nic.gucci.	172800	in	ns	dnsc.nic.gucci.
 nic.gucci.	172800	in	ns	dnsd.nic.gucci.
-nic.gucci.	172800	in	rrsig	DS 8 2 172800 20251003014916 20250829012438 3871 gucci. aH2VouGtB13JJEi/mpbOYxtObRNC+oSFSTJSZtT41tks/E2XYEJt1vTgtVlROo8LDARvSxDtz2vFjvCBY8fRLb6iwovEaThYmcN22X7S6jsELuSzONLi5EN/xC/w1VN5EmL8XGPvSdHxNnsQZDedG4EPE3y97+TpnTIocoIpxl3p0QiRx48SpGzU/wCxNtQUCCcckgwfD6MjJbVjAIjM125pdVZb/2oI35dB2HYOexhoO3zUWbwsJVTVIZas1XPf4UPZnX39C1ruQPUpe0/y0+WF87C/DrSH2YH1/EHBbJFJPcIjz1i1jMzBRGb5p45RWm8JA9eMr+zuBbiJmlQaxw==
+nic.gucci.	172800	in	rrsig	DS 8 2 172800 20251010011944 20250905004916 3871 gucci. THvm5paL4jUfJhDteSjL8IHQRZKOvhYlZgT7YOdDX4bt68VfVBKFhFXHeO1MI55iJvYqTfG0ohuZWrEIS/H2sA4wqDgv/uFNJ2AFbwHv02NfD0qq9PYGFltNqrKHmFLPvRasLktduC/VNgND0Cj8ns7AtVrZ7XCAZyUcw2oSmUTqRRbT3IHjACnFL6nxQ/iGFrWBmoaAJYGufS/gwRuMTEYRAkbXHwUnTcpbfiS2OI5h9Jx3KbZm0Nr92R7wmJiSCZW31qJZxv3Uus7B5LAt4Ekaw1d95xQNxnGUctr85Bu5j8s+M0ABNjodAcvtSAYAWZyQPI1n4ky1sSIr8fRFuA==
 service.gucci.	172800	in	ns	ns-1196.awsdns-21.org.
 service.gucci.	172800	in	ns	ns-1671.awsdns-16.co.uk.
 service.gucci.	172800	in	ns	ns-370.awsdns-46.com.
@@ -107,4 +107,4 @@ www.gucci.	172800	in	ns	dns1.comlaude-dns.com.
 www.gucci.	172800	in	ns	dns2.comlaude-dns.net.
 www.gucci.	172800	in	ns	dns3.comlaude-dns.co.uk.
 www.gucci.	172800	in	ns	dns4.comlaude-dns.eu.
-gucci.	172800	in	soa	dns1.nic.gucci. hostmaster.nominet.org.uk. 1718708809 900 300 2419200 3600
+gucci.	172800	in	soa	dns1.nic.gucci. hostmaster.nominet.org.uk. 1718708811 900 300 2419200 3600
