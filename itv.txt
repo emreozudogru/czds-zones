@@ -1,6 +1,6 @@
-itv.	3600	in	soa	a0.nic.itv. hostmaster.donuts.email. 1757034314 7200 900 1209600 3600
+itv.	3600	in	soa	a0.nic.itv. hostmaster.donuts.email. 1757552763 7200 900 1209600 3600
 7d563gg8veq98740irt19lltlj5bd841.itv.	3600	in	nsec3	1 1 0 73 RHSPOKDSHOI6UG5FKCT6GHN3D7R3CNV5 NS SOA RRSIG DNSKEY NSEC3PARAM
-7d563gg8veq98740irt19lltlj5bd841.itv.	3600	in	rrsig	NSEC3 8 2 3600 20250926011034 20250905001034 13191 itv. QI5RJZWY+hglzShbjUzkh00wDXdDnsa7OwEIfCz9RVoi5blp+HnBaEDkKTEmJTWS5uK7H+eOavueqDVZAbLQESY5J01JihWNo2eKMBFuEVN/ZFnWx0/ajm/2p+qSl9h8NqqFA4K5bMcQ4jaRruDfMJhHh0gEWOkKs4wknBaeALE=
+7d563gg8veq98740irt19lltlj5bd841.itv.	3600	in	rrsig	NSEC3 8 2 3600 20251002011124 20250911001124 13191 itv. QQ5IhqFDApdovqs5kmwHz3BX+2A35Z8tYZ329ZT8RajFQySmRvqj6vlisrvraws3gH5AeHwdQ4EOjo2nGrjgH/qhJgay1wADjtxWHL9cswrARWgJHA4BLoXnZHJNyXxXb6fdw1LO7K525Vb1NemjZv1SmGWYkXYPYQinxM8seuU=
 a0.nic.itv.	3600	in	a	65.22.88.25
 a0.nic.itv.	3600	in	aaaa	2a01:8840:0056:0000:0000:0000:0000:0025
 a2.nic.itv.	3600	in	a	65.22.91.25
@@ -41,18 +41,18 @@ dressthenation.itv.	3600	in	ns	ns1.krystal.io.
 dressthenation.itv.	3600	in	ns	ns2.krystal.io.
 gtcentral.itv.	3600	in	ns	dns1.cscdns.net.
 gtcentral.itv.	3600	in	ns	dns2.cscdns.net.
+itv.	3600	in	dnskey	256 3 8 AwEAAc/rTeIKEO0h9dddwFv/cSC6O+5aUALli/Bc9rSrKIUbBj8WeVfJROmoBwxjwhLEnq+XY/TiACIWVRGrmWjvcDVPeSXtJYoyrFpAMPOrtEkRchaHEDjvaHvxNnxG0TbXmxeC+jVV1thY9ncwEkxLdx4Eh4Ze/CQ1CW8M01BMOSUh
 itv.	3600	in	dnskey	256 3 8 AwEAAcZpMBgIsbmb02cgF3yFLARmAlNNdIqMviyg4uev4cJ6Rl8k9UFxvbVD5cPkm2co8bhZhJBecsLONXhKBGJQ21GnBxUrU2gQ5Gep4BifN1fh/LmO8WUMxBBcjNHELegGPmRO7umJDG0OtmMj2e66qReCDws1i51rOhv9uq9rLlFL
-itv.	3600	in	dnskey	256 3 8 AwEAAevj7ve7XmhzsnP/I3VJd1fIwgfqOq2EW+/Oue9BOksn2EPVKF/9PRntegxfOBAJoCmiNXlRKbjN6EK82sLedB8o+Saa+jV8/56JeuHp1Wxa3pHoF5+sf+3IufCY5ftxSgx2kc9+qS5oxkSkMDLoPiJLKcfsLMCCwRmJ1LMxJyED
 itv.	3600	in	dnskey	257 3 8 AwEAAavOJ4m17bsFbHfXJ504PpH9000JsuLbvqwbES2Lcy2ANxFMDCbLJiOws+t1D8UkPQFBupP2Eq5vIvvvNnkvHJbDcLz0NL6dWYALdGagiGCn+RRL9lTHRZuboJZi54GKBgmLYIMcv9yCWbRnldH1aoMCRq0OfRoINBu9yOaSnpdXxmi3fdaaeaRBbkoTBr9Qom6PQ7IoWNL8YPNJKDvfxUh2on2HG9el8BFAVRAifXeRrX/rZryQFdjcKPg+GknwQ/S5SQZ6dQMeGB+jjfOFaNgVSwA6qcmnwUtk/xxFd7syL433TdmUiR/6W3+Jxo4mj0Q81Xio7IsG2NJKB0vyqj0=
 itv.	3600	in	ns	a0.nic.itv.
 itv.	3600	in	ns	a2.nic.itv.
 itv.	3600	in	ns	b0.nic.itv.
 itv.	3600	in	ns	c0.nic.itv.
 itv.	3600	in	nsec3param	1 0 0 73
-itv.	3600	in	rrsig	DNSKEY 8 1 3600 20250922154249 20250901144249 47554 itv. CFkLHg2JOq8zMPN9AvrkfFl4HmQFAaugLfjOwbM6qy9xhZt/aCMnLvQP0AhwVUM/70ce+/h41zBtXXTS40BaY2694lF5APZEeNyDIqbZGLxyWY0UoR7ZcMD90uSkjsxovLPXj5EY+qr801Wue8k3lFez4lPglnhx2NEz9lQL3ELs3kGEDQcF4kEjfvbFAVWcOnqanZmGkgA79NovpKPggpcxgVFcaI9ePd7++clrRoB1vwWk6XP1NPXAHTSzTlhUT/H1YFAzyakyt4ZqpKSPt2x5lYKObZYCiGxx2cucfOIHPYbBQXkQTTenR94UFs3NU1gYUXCmKSSkZ1V71FM0Xg==
-itv.	3600	in	rrsig	NS 8 1 3600 20250922154249 20250901144249 13191 itv. icsUXiLdh8KG0Bu9UqwIkGW7FY+oa2Cpl0WAMzNBT7Vkd8iCA0jkEyEPfTtT3IrMOOFib2fR/xL0XqsOONBLF2QO0jgs0/APoQtHHwNo18JfmN5G1I4gLzZq5oHM6bjQcwT3PVXH844J864zyZ86pEsQnrVZ+zovy7lxuOF2hqM=
-itv.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250922154249 20250901144249 13191 itv. Vlptfve5QL+aDRrTNejuOIoSwPoP6nf9297UDMGo8/l/4QrDW7LO98SEl1CGTcKfTs/q7j03vpQfumxNqv0engD9Ns9aNuzDowBpxFe9fec8dPbO05t0elezJegx0GFqu5kzkUtOEr5FODGqOzW4CgbtwwSHz6lVsFycZ8ESwQ4=
-itv.	3600	in	rrsig	SOA 8 1 3600 20250926011034 20250905001034 13191 itv. fh366UMdQuExMyd14niA1xoppUSMNeSziLAcpRbclVe6kzUnKmi+0F3N/epoaOSTIgvyqdc3NnsTYM9DBsB869bGDcSLDL4SOx/8PhR+BV0XxyfJxBo8NLh8LMHtXMdkPDAnjd8izD7ghugckCSWtTMPPs2atUJxpM3vCG4toFk=
+itv.	3600	in	rrsig	DNSKEY 8 1 3600 20250930154210 20250909144210 47554 itv. qubFSqLk1Fy7J55e8wsN2aJBtFTnrfozJtJEX9gJDDQp1dedGi4Mqom253KpVmqmIdlGJItjGKtyvOmUkLt3G4UqkjRKbAdf+YiGAPqdUEBmfbtlbsK522n+lT7jBOa4zEgf6g/ES9jUH+jUV9wZtVHWBqhk5KT7b7pSLm77Tg4cg65pyZ0A7Yyhv0+eHQmBfM/kNsiwnLktR3TxbRJhFll99B76TQB86bDONyctj21H1aUhUCfb5KQLZMoFgE6czHUEOaDorrX7tLEI2Qaf5Md9wuKsgMmrgro7W5x0ljszU6gmSxq3aO47rLhr56MNWk/3p+zPO7aRm32iPxmgRw==
+itv.	3600	in	rrsig	NS 8 1 3600 20250930154210 20250909144210 13191 itv. dKCZPE1tJAQJJZHZ8EP8WLjzNJ69ncix40+vA12ri17+/3fUIpbHUfINO1V3MruMaPeK2NzLffZ5XKijU7kASOZbyRzu1X1PPG17mlELXZia4Fm6LZJjcDOp6iFG3dINMDocGEK6ZCy9hwIOUvLeLyHOuiWiszO3b0UwxaC9TIw=
+itv.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930154210 20250909144210 13191 itv. Wh9iK3MTJMHOTyIUZYKWobZBc0lKxzkOdb4Ta4ATCgynh6KvIMdDhiHW4lU1AQU1/oanVdCCI395LGZnc/5iWHSXKgeX05LBFeuwVgfRIHq99bhcU7YhNmVj8QDcVKoYQrr5NJ+5FiGb+mCfRnyInR2Vn+CkfLVP8iJ4xD/BTDQ=
+itv.	3600	in	rrsig	SOA 8 1 3600 20251002011124 20250911001124 13191 itv. gQWV3QEfdP+pwsBB9Fr7jQNLoBzrONda50EiJw/9dH7i0OEqQKyCLBBI2uQfNEcMbkM43Zt/+vCOzHRlvUqNzltzAPOhCodBVYsSOKkozwEsCUtjBTnQFd/tDQUtDG8Ew2e34aAKF+FH1VCS39nBysOzV8lwVj2MbTgW3+0ivt0=
 itv.itv.	3600	in	ns	dns1.cscdns.net.
 itv.itv.	3600	in	ns	dns2.cscdns.net.
 itvdaytime.itv.	3600	in	ns	dns1.cscdns.net.
@@ -76,7 +76,7 @@ nic.itv.	3600	in	ns	a0.nic.itv.
 nic.itv.	3600	in	ns	a2.nic.itv.
 nic.itv.	3600	in	ns	b0.nic.itv.
 nic.itv.	3600	in	ns	c0.nic.itv.
-nic.itv.	3600	in	rrsig	DS 8 2 3600 20250922154249 20250901144249 13191 itv. uexu6ii2mCfldVib/5h96NqunMb2at/GrxrMfaQgvztQGBjRrlXW0t0YP8a15acC/p2Z31nFvW9VaDUqDCkARWaLKhdMW0VZz5JAVAdY5nHF/La8TEQTZSzr7GnSXiL/Z8t2cb3jz/2xkEt6nOJFWc4hl+k56BH/OXTg2KWnSrI=
+nic.itv.	3600	in	rrsig	DS 8 2 3600 20250930154210 20250909144210 13191 itv. Q7wi3Xbpgw72VyeINRnm4qOIyEKIVvhhWkRU15sS4beL4/I6BNemD/B7frFg3NXGT+VHzVPE5iVNOxpi3H6RhvzgJv9wCKAi6IuZv68A+DkyIO92inkcadqrCcV8X5evZPYUxcR2gLzVSND/t3WFal0yu20NrlyRj/o6Ty6G0vo=
 oraclearcs.itv.	3600	in	ns	dns1.cscdns.net.
 oraclearcs.itv.	3600	in	ns	dns2.cscdns.net.
 oraclecoa.itv.	3600	in	ns	dns1.cscdns.net.
@@ -94,7 +94,7 @@ production.itv.	3600	in	ns	dns2.cscdns.net.
 prologue.itv.	3600	in	ns	dns1.cscdns.net.
 prologue.itv.	3600	in	ns	dns2.cscdns.net.
 rhspokdshoi6ug5fkct6ghn3d7r3cnv5.itv.	3600	in	nsec3	1 1 0 73 7D563GG8VEQ98740IRT19LLTLJ5BD841 NS DS RRSIG
-rhspokdshoi6ug5fkct6ghn3d7r3cnv5.itv.	3600	in	rrsig	NSEC3 8 2 3600 20250922154249 20250901144249 13191 itv. B29H3Xc/qFN/GgLuut1ZGaaWxoaVPN3Bn1CZxSS6Taeza68kUUOXpO57EKJsX1t0FFi6Ss7AW6vglup11KOBwzPT0FZnk9Zlh8U+Lp7mci1ROlYOAbVw7v1Z/gO5yMVsw0T8xgN7eAgWLcSrb2CSeXXz9gpM1FTgD8I1mkDGx0A=
+rhspokdshoi6ug5fkct6ghn3d7r3cnv5.itv.	3600	in	rrsig	NSEC3 8 2 3600 20250930154210 20250909144210 13191 itv. rEUscBUle+HjjP3pdQXVDMOyc3m9aAnmud0Lq1TcM/rk8uyIRRnRzBa8wUZnbmZbqngspIvxfmkgTOVQlYVrO/SBZIiB7QaHbu15Eb+wZivqmEMNYfhbqUSW4bh+tJU/gqxmYYSrb3twT70W3mSj7UMHyRnpfCONR6PKArM9pao=
 showthemyourpride.itv.	3600	in	ns	dns1.cscdns.net.
 showthemyourpride.itv.	3600	in	ns	dns2.cscdns.net.
 socialmediaawarenesshub.itv.	3600	in	ns	dns1.cscdns.net.
@@ -111,4 +111,4 @@ www.itv.	3600	in	ns	dns1.cscdns.net.
 www.itv.	3600	in	ns	dns2.cscdns.net.
 zoo55.itv.	3600	in	ns	dns1.cscdns.net.
 zoo55.itv.	3600	in	ns	dns2.cscdns.net.
-itv.	3600	in	soa	a0.nic.itv. hostmaster.donuts.email. 1757034314 7200 900 1209600 3600
+itv.	3600	in	soa	a0.nic.itv. hostmaster.donuts.email. 1757552763 7200 900 1209600 3600
