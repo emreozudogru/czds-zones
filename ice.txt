@@ -1,4 +1,4 @@
-ice.	3600	in	soa	a0.nic.ice. hostmaster.donuts.email. 1757034313 7200 900 1209600 3600
+ice.	3600	in	soa	a0.nic.ice. hostmaster.donuts.email. 1757553396 7200 900 1209600 3600
 a0.nic.ice.	3600	in	a	65.22.112.9
 a0.nic.ice.	3600	in	aaaa	2a01:8840:006e:0000:0000:0000:0000:0009
 a2.nic.ice.	3600	in	a	65.22.115.9
@@ -40,10 +40,10 @@ ice.	3600	in	ns	a2.nic.ice.
 ice.	3600	in	ns	b0.nic.ice.
 ice.	3600	in	ns	c0.nic.ice.
 ice.	3600	in	nsec3param	1 0 0 73
-ice.	3600	in	rrsig	DNSKEY 8 1 3600 20250922160025 20250901150025 18844 ice. PR9X6aNGUsrgujhfTYuO09T4qWXf/1nHGUOsJoAMrEoU0u6wZ6uVuADMOePlc+650XwDL8WjFNAcEoSP7ub23vUeTJ93iP2nED/rbmVjYeEpfBXXT4qCFRnHWJSpSKrff5oLzWbtm8mxHXY0+ACQ8I3eKTcgAnTd24JyrHu/bTZ54Adby1DpbaQLAs5m0JSRZyDACCHDF5FqkAweSspMDPZyWSI8il3+Rg855BtrTizcDWuUDO0H6dHqV2fFexzSR4S4X6c5T+n6DeQqKVcrFH4KnF5me/xbaQLmxD395DRhFmNS9KBUs3QKkzILocYOcknfc9ZkG/j6VmD3A65w/Q==
-ice.	3600	in	rrsig	NS 8 1 3600 20250922160025 20250901150025 42471 ice. ka6ZSso40epe4Up0xW3YauWcvSPVTLbIAqsDaajoRaSzDpfSsEXBfozdRCbAag49l22UOas0hAh1JpIczY//TtaZdK5d4wfxGY82bIdCM0sFuOo3AUf4tfubhtuOh4FkwnB1iwCng1GWJe7+dZioRPMTAy8WTl6wYvoolWx6Pj0=
-ice.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250922160025 20250901150025 42471 ice. TcQ1GWoVY4Ne2CeeMGCfQ9MII1W3LPum5nJuWhWhoQTf2+INrEFZYoFjErbqkBTANwfUS1UowwWudN1EFDP648YUjZryL0Q1CErxFunAmmSSZxulLTI+me837uTUsKtihpJLz3G1fghQR4osuNaRT60rBOv4X896hhJT5jIOBpk=
-ice.	3600	in	rrsig	SOA 8 1 3600 20250926010627 20250905000627 42471 ice. BC4S5arFMkN6rE39cMY2mm17ZrQpQDoPRYhav4ukBR1xEp2iVVzNdHpksqp30HqbhWCfvulklZji9oxcqkuIiVIfG10zQMkg1CrMpokZJPEjgaHtJXdU52qENqRdYjzohh6wVLoIf7AUHbcdIDBmJuzAP2glP9F90PiocxmTphI=
+ice.	3600	in	rrsig	DNSKEY 8 1 3600 20250930161531 20250909151531 18844 ice. duIoOL6LKE/XT3LUFgORfxUuU/qYiPQ2fRVWjGhfwgemfCv0q1pCj9UL1tudNlDMxECZc7FvBmofPEtbuCAwKoVaHaK/QXFlcNZZHHcASWxu1TTtcuJQkcJ5pBoXv8fvleeRo5hQCXn/yQVXQ9IrjY1bFu1K+UhFauukPbX/WgaidCKQEv6zxcRZFHaUMabDPuSVcZMYB7yzgy9MurNePFGJMMVVXBzZNDdP/ARE4G+wGYlQLbCK8kxxDLwlG8H0PQOjP+60sYgC44ccGeRyRsSn138pCBvbAhWQUXqOaBE8Bh54CkN7STvnm8xnT59q3i9RVybbRmKHKjeq+CTwbQ==
+ice.	3600	in	rrsig	NS 8 1 3600 20250930161531 20250909151531 42471 ice. NVIvMdFFr6M9znbGVo+ClqDvbm/uiMd7sv75GpdddCEmsP1n55bXa8PrSmNiqSGsI150vpLSYQYW6TZSLuvi87OoN6rU9e+jkcjPH68n2fqogv8D/ZNRQe9URne62SKnxr34jl/2vXXEGs+98YCckv6CgzTznF1xjncR9ijJV34=
+ice.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930161531 20250909151531 42471 ice. hqHs4kn7V/Jvq9fL9xVWDuv2WSlbnXVwwNA1NDE/mj0lf7NAfooJ7/vsIyPKxDKLubpbooSa+hd+XoUcQdL6Afn3+RmSRaETtIfwmrm66DYJfscR1mfLxsGdylk24WLJm9cNVKTIqzRDhckrRGBe4YphIjTfuhmnOCpqoM3En2Y=
+ice.	3600	in	rrsig	SOA 8 1 3600 20251002011754 20250911001754 42471 ice. o2nrC8xWetG1Y6z57G9nePkwGok7LjVYogPbsVIYXa3j56cJ7gBD0uNAz8/gvRehoDxDU153b04swXY4m32r3CUDcKXRrsW2Hdm4wUBjdUwIERseFv4WYVS8fPqivFOmHqspgZbO2qgmnK4EZUOKdWwsrMr/eMan7r8STcYiZbk=
 im.ice.	3600	in	ns	dns1.p03.nsone.net.
 im.ice.	3600	in	ns	dns2.p03.nsone.net.
 im.ice.	3600	in	ns	dns3.p03.nsone.net.
@@ -81,7 +81,7 @@ nyse.ice.	3600	in	ns	edns1.ultradns.com.
 nyse.ice.	3600	in	ns	edns1.ultradns.net.
 nyse.ice.	3600	in	ns	edns1.ultradns.org.
 o0c0iu0untepp5p0dppq4988cbe8caoe.ice.	3600	in	nsec3	1 1 0 73 O0C0IU0UNTEPP5P0DPPQ4988CBE8CAOE NS SOA RRSIG DNSKEY NSEC3PARAM
-o0c0iu0untepp5p0dppq4988cbe8caoe.ice.	3600	in	rrsig	NSEC3 8 2 3600 20250926010627 20250905000627 42471 ice. OxZhDnsd80sizKvkQKKlhrCTEB1NUkKZHPtOx/GJa3eA9LTJF9uJbBJwASoVEOQbUZo7kx/+XmhBkG7p0cAnH+8hb/boYWk9Dz5TW2WDP4rBqlES748CoKUT5/6NYu2TVA+/mfIRkYOLvdnFe4pAs8Wsq8DddWg3d4td1DKD96E=
+o0c0iu0untepp5p0dppq4988cbe8caoe.ice.	3600	in	rrsig	NSEC3 8 2 3600 20251002011754 20250911001754 42471 ice. PiuQ0Q7Elol9UBf6X9BsqewGUsuqDgUnk5F5rO5yIuZo09yv3fsTHRmRhQYqvSHaT7UVyUvCfmxfqexem7tHjK1TJQK42kCYgcb7pqmBMVDyj0Flx0ZUH15lcdga4bVtj3ETZ7TvBV7Jk24sem4FbXQKfX184vBQzMteEuFk38g=
 secure.ice.	3600	in	ns	dns1.p03.nsone.net.
 secure.ice.	3600	in	ns	dns2.p03.nsone.net.
 secure.ice.	3600	in	ns	dns3.p03.nsone.net.
@@ -98,4 +98,4 @@ share.ice.	3600	in	ns	edns1.ultradns.biz.
 share.ice.	3600	in	ns	edns1.ultradns.com.
 share.ice.	3600	in	ns	edns1.ultradns.net.
 share.ice.	3600	in	ns	edns1.ultradns.org.
-ice.	3600	in	soa	a0.nic.ice. hostmaster.donuts.email. 1757034313 7200 900 1209600 3600
+ice.	3600	in	soa	a0.nic.ice. hostmaster.donuts.email. 1757553396 7200 900 1209600 3600
