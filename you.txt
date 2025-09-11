@@ -1,6 +1,8 @@
-you.	172800	in	soa	dns1.nic.you. hostmaster.nominet.org.uk. 1757005387 900 300 2419200 60
+you.	172800	in	soa	dns1.nic.you. hostmaster.nominet.org.uk. 1757489901 900 300 2419200 60
+101domain.you.	172800	in	ns	ns1.101domain.com.
+101domain.you.	172800	in	ns	ns2.101domain.com.
 8kb2q0t2u40qeg4tq28gqfg4la0dunj5.you.	60	in	nsec3	1 1 0 - ATGJ8NSUB44BD4P5NOU6ODA2V8CO3SRL A RRSIG
-8kb2q0t2u40qeg4tq28gqfg4la0dunj5.you.	60	in	rrsig	NSEC3 8 2 60 20251008085759 20250903080230 15933 you. ozJqgOJW51YplpXRNVHfkrwaYU/gHNvD1ou7sXzx5ldfa2zYfyxgqGoVY15Ke5PHvb1mxcmBRlVB987pKagirJ3LAvX6ZynAkW2Bj5w4IPHawkRf1aNOFsf08cWe535jaDSZhhxrcfqwKxYCG9NMEXOuwY1MeppCJ+Bfz3PcDcy7Dkyd2RFcAPHYJBs9d2lMVQ0gJM1zDS4fwCghqTy10htQ2Fui7q+Maw1VVhW53NnRHwIpbFapn3vlAzYAhtv9Bf8Dqlkx6/+5V5tgpWghM7WB5aNSi2Uz/q53Mdl/Sa5ZAjbzj4HdRgwn0IAjoqBCSjdSmID5XsjRkb+b1HJ5vA==
+8kb2q0t2u40qeg4tq28gqfg4la0dunj5.you.	60	in	rrsig	NSEC3 8 2 60 20251015083035 20250910075759 15933 you. mxbkIN3aYYCjsF8B1sDwC3UwE625IT3dTRgZ3ZUJoiMaW92dWBVoH6vifxIxZOHAffEMsCKssxNLDZPYJN/DDUcVvNOmfrlF/sdXOV03e5mP1s0O7akBFj/xTbwZu4S4JCAj5Wjr43r/Jd6TGkdR5a/olKyODuDJ9leUT60gBhaw5exIx+mBZx77NnzTNWaLUTsJJd5Imq2OxlinMR9eKItIElC8hfVgKjpTWUChcLX4Ly1nKdlKWHCVv+wyXo3WU6xxTKBjNmPmxR1m3mrLXVRRdcce5tJQPkH5fPfXEmaMOV08LV1PJPI9TTjfjmnfv5yAGVzTpeW2701Vlo6Jtg==
 abnamro.you.	172800	in	ns	dns1.cscdns.net.
 abnamro.you.	172800	in	ns	dns2.cscdns.net.
 amazon.you.	172800	in	ns	dns1.comlaude-dns.com.
@@ -18,7 +20,7 @@ astorg.you.	172800	in	ns	ns-154-a.gandi.net.
 astorg.you.	172800	in	ns	ns-179-c.gandi.net.
 astorg.you.	172800	in	ns	ns-240-b.gandi.net.
 atgj8nsub44bd4p5nou6oda2v8co3srl.you.	60	in	nsec3	1 1 0 - GP1RNFF30SVD1ITG10SVC6UKSP24M0G7 NS DS RRSIG
-atgj8nsub44bd4p5nou6oda2v8co3srl.you.	60	in	rrsig	NSEC3 8 2 60 20251008085759 20250903080230 15933 you. lsFqsv6B3/vDdIJblOjT00Pbv72OondL8mcKrdINop+ASazhFqTerSgX7hgl4JfLZWr6veFpYsOsaZV7zPI8EZYpdHNB46fByTx3M1KaIlCRcVThQ0PYkhVJqxt+/Nf6KNjI2KsQJMJtbJyl0xjloeJiysZ6D8OW5RnNAHhJjX26cZ18ypa+/5utXXIkF5aadzKCiN3xBkm9zfB4GY1I5fW0wJxquQnx47vOdU1MtKax2Koc2NAGpLnrHG9gtxQjH6nTXfBee1ysXA2y4/UKcTDi30AmhQaIF5kdz8iX1HPxh7RWQ7IUf+XLERZ851y//NOMf91cnHqXYlk8T2+SpA==
+atgj8nsub44bd4p5nou6oda2v8co3srl.you.	60	in	rrsig	NSEC3 8 2 60 20251015083035 20250910075759 15933 you. c43OZqQOlY6U2sTkMyaRPvSdJKW4OIXmPu/81PhXQ0PeuTyjxFzHUe2xmEv49l05vmdrTV3obm9jq9SbY1NIo28tZDSFZ0RjweWUkmfjHzIT+1xFNh0gd/2fbsho177dmhvVC7+c0qt3isT5xwvpf7QIyBkwizIBAmejnSBwIIjH3l7EvOAqRT9Z6X7WPxBZNaZXAdBgAcLfE1pXqTSo7RYyfL84h411PdRA95ecfwkBZuTzFNBGRHpO03ys8GbT1rjO5y+FQKjKp7im/HHPagwaxx+U4RqMWw60gMMO2VhENP1vDAos2dZM1YJv5G3XVEW5qyrNIPxR4eJSVUUfPw==
 audible.you.	172800	in	ns	dns1.comlaude-dns.com.
 audible.you.	172800	in	ns	dns2.comlaude-dns.net.
 audible.you.	172800	in	ns	dns3.comlaude-dns.co.uk.
@@ -74,6 +76,13 @@ claude.you.	172800	in	ns	ns7.markmonitor.com.
 criteo.you.	172800	in	ns	ns-172-a.gandi.net.
 criteo.you.	172800	in	ns	ns-55-b.gandi.net.
 criteo.you.	172800	in	ns	ns-67-c.gandi.net.
+dayforce.you.	172800	in	ns	ns1.markmonitor.com.
+dayforce.you.	172800	in	ns	ns2.markmonitor.com.
+dayforce.you.	172800	in	ns	ns3.markmonitor.com.
+dayforce.you.	172800	in	ns	ns4.markmonitor.com.
+dayforce.you.	172800	in	ns	ns5.markmonitor.com.
+dayforce.you.	172800	in	ns	ns6.markmonitor.com.
+dayforce.you.	172800	in	ns	ns7.markmonitor.com.
 dns1.nic.you.	172800	in	a	213.248.218.89
 dns1.nic.you.	172800	in	aaaa	2a01:0618:0402:0000:0000:0000:0000:0089
 dns2.nic.you.	172800	in	a	103.49.82.89
@@ -95,7 +104,7 @@ flowers.you.	172800	in	ns	dns2.cscdns.net.
 freddiemac.you.	172800	in	ns	dns1.cscdns.net.
 freddiemac.you.	172800	in	ns	dns2.cscdns.net.
 gp1rnff30svd1itg10svc6uksp24m0g7.you.	60	in	nsec3	1 1 0 - 8KB2Q0T2U40QEG4TQ28GQFG4LA0DUNJ5 NS SOA RRSIG DNSKEY NSEC3PARAM TYPE65534
-gp1rnff30svd1itg10svc6uksp24m0g7.you.	60	in	rrsig	NSEC3 8 2 60 20251008085759 20250903080230 15933 you. CBGmYpabO4XCkNHXtoy6OpSOpSVERJLi5d9yFfg/AhMfl8AYEtTpqjy3BQI8pUaPdut8RKKhebSJj2+pl89FF+uwcQruv/58uy5MnESngxTm4cTH0KjCA8xUbjZYR2ivfcUSwWH8kUCUCWcSqrjOVRIBmcqh4si6RCyT7eTrY5Ch3ASNKBm49US8K6WTs5ZOLR8QW3FpUjXm1igLD04aI0Gfd9I5ED4Ipy1nKSpmQN4UH1AUNrliTo7wMMbU0jtLLFMk0ovETTDK9EZ1AIw/TLkZp3eBPqCk9RkUQ0FUt7vyBRpdUDzR0EtOaAeYJw9hnQ8oktSiLwZk6++zGz3Yeg==
+gp1rnff30svd1itg10svc6uksp24m0g7.you.	60	in	rrsig	NSEC3 8 2 60 20251015083035 20250910075759 15933 you. Y2nHJmgSYIuUcz95x6C4leDFvfdsxg5KD0vC8Ml/Ls+pIELShI2gBVZjLDE7exwPN1pMF3VHdSz/4sipI5pAKDpZFEDekwfNl7CbVWamBwkuxG9ot0HYqVnMq1idmNnR25A1f5C/F9gaaHNO6StT04VxEYD7dQ6/Ft7YfNfSBjuBShR5REX7syE7dqb2CmFgLrsfVwUdlT41lnY+EV82efpQYlJIY3Lb/bfEnGjL2giy1IlrorMef32I8/weCNn1JvkQ9btPBtmzxT/Lzo01I2C2dQfjCyFs+cYY7+bmFkyjCJa66PGTX1konzNbBi9Qb2FyRxxZ90+pYQoFbgYEHw==
 hilton.you.	172800	in	ns	ns1.markmonitor.com.
 hilton.you.	172800	in	ns	ns2.markmonitor.com.
 hilton.you.	172800	in	ns	ns3.markmonitor.com.
@@ -122,6 +131,11 @@ kindle.you.	172800	in	ns	dns1.comlaude-dns.com.
 kindle.you.	172800	in	ns	dns2.comlaude-dns.net.
 kindle.you.	172800	in	ns	dns3.comlaude-dns.co.uk.
 kindle.you.	172800	in	ns	dns4.comlaude-dns.eu.
+magenta.you.	172800	in	ns	ns1.brandshelter.com.
+magenta.you.	172800	in	ns	ns2.brandshelter.de.
+magenta.you.	172800	in	ns	ns3.brandshelter.info.
+magenta.you.	172800	in	ns	ns4.brandshelter.net.
+magenta.you.	172800	in	ns	ns5.brandshelter.us.
 merrill.you.	172800	in	ns	dns1.cscdns.net.
 merrill.you.	172800	in	ns	dns2.cscdns.net.
 merrilledge.you.	172800	in	ns	dns1.cscdns.net.
@@ -134,7 +148,7 @@ moneygram.you.	172800	in	ns	ns5.markmonitor.com.
 moneygram.you.	172800	in	ns	ns6.markmonitor.com.
 moneygram.you.	172800	in	ns	ns7.markmonitor.com.
 monitor-nominet.you.	172800	in	a	127.0.0.1
-monitor-nominet.you.	172800	in	rrsig	A 8 2 172800 20251006174155 20250901171810 15933 you. kGad6TP8J4bwvT6tnjDKDXzFxws809rrjahsNMFy8Arhd/xsz0sHFfAkuigxBDOAr8idi/HZRvsbPpB8Vr2k4JDGsTm3CTaUSN/O7D/SESf/o7sIzvKvrzng3e39Q4hG3XFGcYbtja2J85ce3uhap4yFpigYXbWoVvxnqPBAnrrFeQPv76JL1HYsYXmacIWVZbfpEjeA/OrI1VWauBhkVZZtFizltqUKgeQaxb9+afd0RmyUc1WjM6jz9Ako0pfE3vGatEVxE+oRGkY+v2MHQ655ICz/veap7EmZAwSi3keHn8v/ZfVxdE5oLAr7mwb6fZzns5UfXOwCOIwlb2VBFw==
+monitor-nominet.you.	172800	in	rrsig	A 8 2 172800 20251013172628 20250908164155 15933 you. fBWC/SALUQuUM09scgKymQDSs3lsgcZh3ffnWuh+YBESbSeHznCU24wAcuU8KOCt+AcUTBo7aeh7Lmw2gD2kxHHfA6DLZqyvj1NaTJxj7AzXeg46ctFpI7A0CF3f0cYvtGSFCK6zAt9tQZLfxP+gxYwuQBEyZPdcfvrwMVxuU5+dXxlP3KgWBXeqFSwq3bg7xTsACKVRZL0LRxGvsqDTWnszni8rWqJVWEute0AhRCtxjLYwUkSVH3nWF47ql19sJKe7rufws5lqc6XbpOwGmDRxU0j3J3QeJXZeE73z9hoDbKuEUWcenxhEFlBgiUsm0qCiEaKpFyDmROFITHgCrw==
 nic.you.	172800	in	ns	dns1.nic.you.
 nic.you.	172800	in	ns	dns2.nic.you.
 nic.you.	172800	in	ns	dns3.nic.you.
@@ -144,7 +158,7 @@ nic.you.	172800	in	ns	dnsb.nic.you.
 nic.you.	172800	in	ns	dnsc.nic.you.
 nic.you.	172800	in	ns	dnsd.nic.you.
 nic.you.	3600	in	ds	18289 8 2 78F76E313E14B9EF8F5188D16029727DC9DDC477FFAD2234AB401C343F6334BB
-nic.you.	3600	in	rrsig	DS 8 2 3600 20251006174155 20250901171810 15933 you. abBY4PNwtqhukPXD8lGGoE0lTsRn5am73P8yKKfUhYM0nSi1duYtjWyPi793CNwlNvXd8PLvRb5e7yLnrNibAkOak82KEx9nuii03npIxts0DMB2gjpfiPe6UDxBP6rrDkGnA4Z2wSWL72lCzqEFV8zabWg1iYqnyNiWmj3cajzFD8eZPlci++1REdOSZs7mCXIEbwLBemLz0zbk6/DNj/t5znQQjgDiobf/DsLFR6nHdFT6vMDaf/qxYA4TA7vOHWnZes0HIjgQ+E5wlQ0lka9I99NekUgLW5tMlxyafCSAHgydstiUtwuUrATL4UP3PX9V9qDxImd8/4eGM16vYQ==
+nic.you.	3600	in	rrsig	DS 8 2 3600 20251013172628 20250908164155 15933 you. i+KnwoSpWQjcB3QeksAFLUZQkucWqd6F63yzdGJFNn0BuIImx62mrHdY+ImjZzfNbELZJWPF+xfcJxgrjQCx49fcMTYUU3WZ8828TR99TqHlZgIgiMwyCroN/bWnb3dcdOM9f/EXRPcQ/izXuhIma5Y3RLCNTBUt6hk94vlwp6CkJKUT32CgxbLU87uux64jIWq137z9IkZXtx6Is+HKwF+NXVkJ3gXQ90N7MDrr9cdyD09M6MOXrzAve+KmcJ6rRkObe5Fr9z5TkbQp1lfI2/K9mAjYVtBygrgrkEiwf+ZVRnqbth1+J9c595g717+/pGmQNg+34x1ocZJulPyrjg==
 petsmart.you.	172800	in	ns	ns1.markmonitor.com.
 petsmart.you.	172800	in	ns	ns2.markmonitor.com.
 petsmart.you.	172800	in	ns	ns3.markmonitor.com.
@@ -162,6 +176,15 @@ reddit.you.	172800	in	ns	ns4.markmonitor.com.
 reddit.you.	172800	in	ns	ns5.markmonitor.com.
 reddit.you.	172800	in	ns	ns6.markmonitor.com.
 reddit.you.	172800	in	ns	ns7.markmonitor.com.
+rolex.you.	172800	in	ns	ns-112-b.gandi.net.
+rolex.you.	172800	in	ns	ns-5-c.gandi.net.
+rolex.you.	172800	in	ns	ns-92-a.gandi.net.
+sasol.you.	172800	in	ns	ns1.lexsynergy.net.
+sasol.you.	172800	in	ns	ns2.lexsynergy.us.
+sasol.you.	172800	in	ns	ns3.lexsynergy.info.
+schindler.you.	172800	in	ns	ns1.lexsynergy.net.
+schindler.you.	172800	in	ns	ns2.lexsynergy.us.
+schindler.you.	172800	in	ns	ns3.lexsynergy.info.
 soldejaneiro.you.	172800	in	ns	ns1.iptwins.net.
 soldejaneiro.you.	172800	in	ns	ns2.iptwins.net.
 soldejaneiro.you.	172800	in	ns	ns3.iptwins.com.
@@ -169,13 +192,37 @@ soldejaneiro.you.	172800	in	ns	ns4.iptwins.com.
 stellantis.you.	172800	in	ns	ns-169-c.gandi.net.
 stellantis.you.	172800	in	ns	ns-178-b.gandi.net.
 stellantis.you.	172800	in	ns	ns-21-a.gandi.net.
+t-mobile.you.	172800	in	ns	ns1.brandshelter.com.
+t-mobile.you.	172800	in	ns	ns2.brandshelter.de.
+t-mobile.you.	172800	in	ns	ns3.brandshelter.info.
+t-mobile.you.	172800	in	ns	ns4.brandshelter.net.
+t-mobile.you.	172800	in	ns	ns5.brandshelter.us.
 target.you.	172800	in	ns	ns03.gcd-dns.com.
 target.you.	172800	in	ns	ns04.gcd-dns.com.
+telekom.you.	172800	in	ns	ns1.brandshelter.com.
+telekom.you.	172800	in	ns	ns2.brandshelter.de.
+telekom.you.	172800	in	ns	ns3.brandshelter.info.
+telekom.you.	172800	in	ns	ns4.brandshelter.net.
+telekom.you.	172800	in	ns	ns5.brandshelter.us.
 tevapharm.you.	172800	in	ns	ns3.tevapharm.com.
 tevapharm.you.	172800	in	ns	ns4.tevapharm.com.
 tevapharm.you.	172800	in	ns	ns5.tevapharm.com.
 tikkie.you.	172800	in	ns	dns1.cscdns.net.
 tikkie.you.	172800	in	ns	dns2.cscdns.net.
+tmobile.you.	172800	in	ns	ns1.brandshelter.com.
+tmobile.you.	172800	in	ns	ns2.brandshelter.de.
+tmobile.you.	172800	in	ns	ns3.brandshelter.info.
+tmobile.you.	172800	in	ns	ns4.brandshelter.net.
+tmobile.you.	172800	in	ns	ns5.brandshelter.us.
+tudor.you.	172800	in	ns	ns-135-c.gandi.net.
+tudor.you.	172800	in	ns	ns-214-a.gandi.net.
+tudor.you.	172800	in	ns	ns-8-b.gandi.net.
+tudorwatch.you.	172800	in	ns	ns-0-a.gandi.net.
+tudorwatch.you.	172800	in	ns	ns-180-b.gandi.net.
+tudorwatch.you.	172800	in	ns	ns-181-c.gandi.net.
+uriage.you.	172800	in	ns	ns-120-c.gandi.net.
+uriage.you.	172800	in	ns	ns-211-b.gandi.net.
+uriage.you.	172800	in	ns	ns-61-a.gandi.net.
 vinci-concessions.you.	172800	in	ns	ns-14-b.gandi.net.
 vinci-concessions.you.	172800	in	ns	ns-149-a.gandi.net.
 vinci-concessions.you.	172800	in	ns	ns-170-c.gandi.net.
@@ -192,8 +239,8 @@ wondery.you.	172800	in	ns	dns2.comlaude-dns.net.
 wondery.you.	172800	in	ns	dns3.comlaude-dns.co.uk.
 wondery.you.	172800	in	ns	dns4.comlaude-dns.eu.
 you.	0	in	nsec3param	1 0 0 -
-you.	0	in	rrsig	NSEC3PARAM 8 1 0 20251008085759 20250903080230 15933 you. AQJAud091FbswAyDGyT4qAHz9XbAoBrv5tozhm7ImHTUAMWhLdrVQwz7aRs8UknAcZAJwjAmUf94AZaIGN9qnDTxvqzTTm998m8pqS8CO/kD+bttcj2nfIHu3/SeJFojiAGFOcjbdYwXBE2IGEkV+PaE7Pz7G6iHy3JXgVXnqi+gNBO5ayyfYqLrPVq+iIyYEiz+FG0I4neLnyggw1aPZewgJwUhB+UwNqpxlZzY0dS6+1WqDhiNhHhm9U1xcg7J3s8yig85qYrIFLQkIO4Kw8LdMi9dMJkwuyXZdkNxtH6kHxoU8PxDw3XvKSomRVpF3SCIaL0wYPQvs4h6rcO2yg==
-you.	0	in	rrsig	TYPE65534 8 1 0 20251008085759 20250903080230 15933 you. LWeGZrWbaOLDQYsEl6oSZP6jhWlykyqW2Q1WBrHfuusV1sqPiOHdOhdtGTmv7JNGs2MOvq9KiRvzwRSiPQ9FnrcWd4qCJAAQZMzL5FKHKvjtEnnNXAva5blnp/PXqKX0+w7mKoxVmcH+D5QYaTwEfkH4hxzcFU8i8ZMirLkZVplMHplC83ZFninnD9SV7lt+xhXa3K4kZJ3YYBi3lA5qgT9lSNq+PSq7uIImsDjc5UUYOqAIWgZLd2ejMDfxuQQm4+cX7CH6e5TzIvb3ZvZByL0RJaby739mEfiw++/BA5RAp7T8R8VoSC5ynLkI/uWYNnvG6zLYSyyQ2PlT52eZWA==
+you.	0	in	rrsig	NSEC3PARAM 8 1 0 20251015083035 20250910075759 15933 you. XJnrXm+82HLAnjWk2zZCQQiL5K3pyDj/WWcsUqkpfPV2IvCP8Hr5n3ZnqmXvnkhHc2uKKeh2PsI1IG/bBiV+K+NPW10Q1HNYHGXWa5Nio+9SnIRr3H/a8PGdoyrC0Ac9VTqiNlgbqLTf4NeshDtZnxRmiaXxDSDJwnF6tzJvmXbb/z4DEhAOne1V94PPWTb0Y2IOztskPUSjwAAtPGZ1nkz19HQzk5jsPbugffodzrjMwUeG34XbTYYbDNRmAvdVxg2LBPMAiiXm1SEzPrFCn6Bth5vAPRDm8QIX3pS+TsMYwJvFrD1yefJZ5rY2VGW5WRL54uqm2GQNQI2gLaHj8Q==
+you.	0	in	rrsig	TYPE65534 8 1 0 20251015083035 20250910075759 15933 you. EBJHX0o6Oxb/eeLDqjxUFAgFXDxPztbhD2ET7cZLhJFAt/QL+9io92vFaAaypVtbRZbKtqL3vEIlbRoCwi2HUHjC7pxPJ/FiolxjJcpyORDW7X1mfOO2csiHiLKeDQR5NlVAXnoYTCDyxJloYbGnT2WDCOfdRUBcW5klLyZE+fTx3fnWNoG8SJLsBbxmNe3vi9k8V1+XxME7wcmqqh4TJgfSz226QVOO8Nzt+IdKyPWJPfT4YtN5QHmdSxSvS/2NPQ6jY80cUiqGo44U4k4pwYkNAFg9Vv9EhB2sL+dP3fO1l+7z8HbTF6bcTES/mbmn3Oj8zMBOSZPAh0C11U/JPw==
 you.	0	in	type65534	\# 5 083E3D0001
 you.	0	in	type65534	\# 5 08A2B80001
 you.	172800	in	ns	dns1.nic.you.
@@ -204,9 +251,9 @@ you.	172800	in	ns	dnsa.nic.you.
 you.	172800	in	ns	dnsb.nic.you.
 you.	172800	in	ns	dnsc.nic.you.
 you.	172800	in	ns	dnsd.nic.you.
-you.	172800	in	rrsig	NS 8 1 172800 20251006174155 20250901171810 15933 you. C8H8yDorI5UTIxakMcJ7QNbiSYzo55jvupZP91TNjUcRNAzmBHggwj+Sr6EL7OlCFRn4TansIfTqbDTDZF/niJYvXOmQ3H8exAEfbkwxyhOUnVqO6FpYS+OLws9J5Ht+8DJJ7YzY32UtY1+wMVYt1A4JREZz08ExgB6IK/Smvvk0uqRBg8rFKv8BDHaeJTMl77Z5qylIhu6teDRpDfzFlO7l2VHs0X2IOMkChfJd+Zea22uAvrt1EKYWKxZx3G/5fCTyRG1QEFHrJO2yk6XXnzoY5GwaYl3sbV3UcG43dy5yVdfQOQGjl4KRaE+/NnUogajfoFAYKvuSyrBKJ4iS8w==
-you.	172800	in	rrsig	SOA 8 1 172800 20251009170307 20250904160307 15933 you. GBp/iroUnumfoImpdoLijb7p079wW3TCRG305rwQEMQx0I9wLsNnTen0WfXdgpVMGLjpkjbk8P3SX9G6kGuyM2C6Bdq0yU+SYJILVYxmo6NZ5XP0/ZAmLnKIONTKbJtFW2C12EyahYkw7fSqg65TCiMudTDa4OliYa0LtXqPQKAHVtF9RUMp311/pE5Yd/Olv4TpvPJg0ZXrCFx2eCnSbSLV6xdt+MJkWyKBBVhIwERfUit7YyslwaQebx5DlMjzODCFf2xwslu0L+B51uH2lbxFJ1c4+WmJ4vpA4Pg/eK4NKaPSpvpVW28Ga1Q+mOCXkEue0krSa8qcK5Jg/fLtSw==
+you.	172800	in	rrsig	NS 8 1 172800 20251013172628 20250908164155 15933 you. egj8jXaSt/Enk7UL7lNT9Xwz7QRaoOBQzc3clgv/BYD4gNR9yfsq5P1NSed6xcQ4gIpMgSNLhBHMhpTnQmijaq0MX7GA8dn8KTWN+fmaVVlyolLm5IuexRDQNd0ssBD2E4rsf3wGB+QBdroX0e6KCo1NpI6hPYebvmGVHF9V0uX77TlIunDsVc8hs3gH68HaV1GQ2/ONKJt7ZcajPBdkbGSG5QBQUWjBGj9iqB38haE2w5WN9OgjNgKq62gszLBUXj0ohoclja9AiEEPjLqWkvDIadzKz7X9nuuCRZN1DGoMXzfa3FD/h0lNAPzwn2Pfx2wFnHa3IQaUYENf9bRW7g==
+you.	172800	in	rrsig	SOA 8 1 172800 20251015085759 20250910075759 15933 you. h5f31SfwZlktM9HZtSktq1JEY6L6khDH0954ryCIKuWmBVbwOOvI7gA+nc8syUJr6zPgnEG3xukjnJOuTkGyTuwVsqt4pqY4hBz0Sk1W5EBKPzwSrwGxDZk1c0VHvVCfqGYQP+mfO1GWPd31Hj2R8kjLJ6+Ju9JAKjcBnmoZIA2/t1QEgAQjUKA6q/hRZj52xiUCZ4/xPEpTnEb0swQPTFmQDJltYkLu3il3FOn7uYT4T9OvCqV9P5BtqOtuBvmOLuB3O0JxhA+VD8OxqXGHaHREzPy6dDgmod4qnb++adsKrili4d02FqjhG5NzHX49kvu8Vdc5uc/Uzqvl8pe3tQ==
 you.	7200	in	dnskey	256 3 8 AwEAAa3vmZT+Fr0Ra/wdFdxATYspXbPsVFjwkYK8+xIh9Q+b+xqrTmtaCnHsrSA9lDIPdIuH3D1boOhv6wH/yDLUTiszgjLoi6mPKueaBGLDvAe1WD/391Bxn7OXMd3KTRPBckX/3fdC/A/XvXTQ7oaleRXYpgjfvA1/KxsvF0jTwV3vHxNtZYxe3ieT/jKx5xpltFHr7vRBIwFy+LyBGMhI9NcgzRSjobAMdO7ojBnd0+4u0FE9A9dI3J8F0wFlZgK70uzE08OXYXpS1o+x1ukLy742OUzJ1PwS2oxqVhvyC+OrnkilYvVCz2JTIFJZcpe7+5BS9ERfRWbu4dVqB+8q2ss=
 you.	7200	in	dnskey	257 3 8 AwEAAZ76djkSqeD9ssMy75aNTDeBFJWCYox27gYpJDqBDgDZIVoCEttBEooNkOD6pzJaAQnY1mAveAlEvCRc2+hgx5AMFhkVoncXd2SKYB6H7i5BXLLQJiCteht+BKihiK7BW6vfTEZqmbkypMNsqhEE4TGMA6Fzk1cP6qOLU3q99I0wfc2Hgzb9L8aycLvzofM62E6W7/TgmZw+1bymAZ8DuTHApmG3I4mmDrNUvbRnna9oaQxVv3mkQNJD0rppP/dng7nFs0h1C9ckW3DimGxfAi3UIj12cLELYZSkWjx50nFju+6p67whx73pKkmFt+kJrzkGzn4U85CBViNw1wWbh50=
-you.	7200	in	rrsig	DNSKEY 8 1 7200 20251006075857 20250901072716 41656 you. ONq2qOKzTWOCdPcDUDiNZrN0YBLYAJvvOlTxHpZfEKa/EuTvaXWqy0pC076J0O7H5CcPcEIxN+vnchgl2fWS/iVsBiL0ocuMTNzWm2ISBpt8jHABqyXZLI3EQYlupIkum92/u+G1hE6Tv03SqDdKzCDR23TkKINrxt0CI59vnCQpmyCousC0B1kIMEaHU4o77onkwXYH/UFfHESDzX1HXqQlyZFaDvjnyR6mu8lONScCzsv0no7FCAiVwbDbstwJuC4vXfvB9tqQwvSSP/BuEt0Vc7vLx9rnNY+4bCvMrsSYViggS6lyY2u1P4G6+J8iUolHRA6QtQGC4zwV5Nxv1w==
-you.	172800	in	soa	dns1.nic.you. hostmaster.nominet.org.uk. 1757005387 900 300 2419200 60
+you.	7200	in	rrsig	DNSKEY 8 1 7200 20251013072438 20250908065857 41656 you. iuLZMhjUtnbmDpkoZrU7iHOGLWysT/vokV8Hth4Bsq1j4csk2AK31DBz3wQtygUxzrwUVi7t8YqqQ9XZomem6tRaKhRBZnvbUmWKZOjU+MGvNYLofNwYJMxd+8iubzd0kdVEeRfrRneYf5988w31ceLSMf2Gp0J/zwUNqdgy+aeT85zqYBambc8PjmpTDFFseCMK1EM57EpaAr8ZzBuoD11VZQ4VsNt+PQo4QXCTmMSaBfgMsyvcjA18Y8xVqL0hUKk9IWg+dV2PnIIXyVSWzGU1e/ghuj+skmU+5YNWa+r6kZ9NIbIm2sUeCoXSCH99B2KQKuBy0N3H94X2CIXRpw==
+you.	172800	in	soa	dns1.nic.you. hostmaster.nominet.org.uk. 1757489901 900 300 2419200 60
