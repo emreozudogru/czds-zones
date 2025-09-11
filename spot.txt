@@ -1,4 +1,7 @@
-spot.	172800	in	soa	dns1.nic.spot. hostmaster.nominet.org.uk. 1756217537 900 300 2419200 60
+spot.	172800	in	soa	dns1.nic.spot. hostmaster.nominet.org.uk. 1756994657 900 300 2419200 60
+0ct0pu5.spot.	172800	in	ns	ns1.0ct0pu5.dev.
+0ct0pu5.spot.	172800	in	ns	ns2.0ct0pu5.dev.
+0ct0pu5.spot.	172800	in	ns	ns3.0ct0pu5.dev.
 101domain.spot.	172800	in	ns	ns1.101domain.com.
 101domain.spot.	172800	in	ns	ns2.101domain.com.
 10x.spot.	172800	in	ns	ns1.dyna-ns.net.
@@ -10,32 +13,38 @@ spot.	172800	in	soa	dns1.nic.spot. hostmaster.nominet.org.uk. 1756217537 900 300
 188bet.spot.	172800	in	ns	alec.ns.cloudflare.com.
 188bet.spot.	172800	in	ns	love.ns.cloudflare.com.
 1faarsk0nvbu15uop5lvpj7dhcrp5o8r.spot.	60	in	nsec3	1 1 0 - 2IQ823GOPSK2CUS906VP811ABPVTD7FL NS DS RRSIG
-1faarsk0nvbu15uop5lvpj7dhcrp5o8r.spot.	60	in	rrsig	NSEC3 8 2 60 20250924154302 20250820154218 44589 spot. humHCkCdlMj3u0ZYDI/X0Em2iRCqBh1GxSdIueIapNwSGixO8n1Z+jHS4XaId+IsYCmPEln0BkAiJdQYtJAs98kaREVIn3IWsfvELqyOLNI/XSUSddpqu3FYnUL/XtTpHTazk3bOCW/Q2h0BMNvNdFVl1AvCdOr6BAmIT+sjvZTPqJwbqsAGF3gvUxn9o21VPPzZjeaPjjtWYRyg52kiyg4hgYwjSsrTCIQf3uFo3DInYSjquWb0j1wxSiGLMJrirCtoukTpoFnMjwrj+n07q49QbR2aRcfcIz/cxhw8Ks/LV1Q6SfykWTz2W6iXob/ldTLGBAALqmmkJeYA85KOxQ==
+1faarsk0nvbu15uop5lvpj7dhcrp5o8r.spot.	60	in	rrsig	NSEC3 8 2 60 20251008143001 20250903140003 44589 spot. z8MnexeBA+vyR19LPRm7Rlt3weAtOkZf0jVbOxOH4NeFT4t2aERlcsqnDAWoAh/LIr5AvkZ5Wg8jSziLcZLIuU73cHVrY2YbyD4UDS4Tikpwo7rhcxEe09BYt3Am9j6v/ukXfUWdCoPJD1YQ+WYzkRJrziEOKrD1ME0/HRJbMeIVXKU2JwOKiAHt1n9YD6X09luAqABUVv8KVcnUa9hibHN8DZHsX+g1bbwpmiWDYm6CM2tCl9prsoOUMCP2QysPEhLnNlmej8c80fycL9pa2mosR/tL0ZHyi+PZjn8aU9XQ8T7Nh0nENisfgKTAc1BLpfg7SKfjn+rYbrl7n1LXWw==
 1tamilyogi.spot.	172800	in	ns	aida.ns.cloudflare.com.
 1tamilyogi.spot.	172800	in	ns	byron.ns.cloudflare.com.
+1win.spot.	172800	in	ns	dns1.registrar-servers.com.
+1win.spot.	172800	in	ns	dns2.registrar-servers.com.
 1xbet.spot.	172800	in	ns	dns1.safenames.com.
 1xbet.spot.	172800	in	ns	dns2.safenames.net.
 1xbet.spot.	172800	in	ns	dns3.safenames.org.
+22bet.spot.	172800	in	ns	nikon.ns.cloudflare.com.
+22bet.spot.	172800	in	ns	savanna.ns.cloudflare.com.
 23win.spot.	172800	in	ns	barbara.ns.cloudflare.com.
 23win.spot.	172800	in	ns	khalid.ns.cloudflare.com.
-2iq823gopsk2cus906vp811abpvtd7fl.spot.	60	in	nsec3	1 1 0 - 3QH1BR8AG8ATNI0UKI12VGTQBSK4008H NS DS RRSIG
-2iq823gopsk2cus906vp811abpvtd7fl.spot.	60	in	rrsig	NSEC3 8 2 60 20250925023801 20250821022526 44589 spot. r8ytrTQXc5C6zKl1n86doxRA+zLMoGQ5ApPX0X/j0CH9hR0r6Zf5om9IhWlSVTnpa9iViAZElDu33MH1KTUiJnaheD8RKMr8PrME7dymc/nL/6xdVbbPPIacAhW1lVTmCVTXbky5auycU7EEJvAvX3TyzsneGg14024UhJqLCipFZLjSKp+Tqoqyb+sD+JvR618FnSR7Vi49fhSB/bQ4B6B+Sv0Yv5ymAcpD30iSr5xyE31Xc3LpZgdakvFFzpfPur5HI6hd5tJPQlubQeWTsbKSlXqqy0j+MiYGend2cEmNdtMylOCDw4qT1oE+VeSpwkS31eX5uf7W/ZRQ4eL1rg==
+2iq823gopsk2cus906vp811abpvtd7fl.spot.	60	in	nsec3	1 1 0 - 3I1BN0N9L4M3V37VM1IQHMBP95O9727S NS DS RRSIG
+2iq823gopsk2cus906vp811abpvtd7fl.spot.	60	in	rrsig	NSEC3 8 2 60 20251006083024 20250901073118 44589 spot. U9PxwqPrQBWnw++CfxRJ/wMi9QCZT2HOI0cWfaM/5UDdVt3hZAXvECcb07t6idulSV2AvihpeB5lJOVO521yF1UT0eS+jIlyVmTLwsBkDdf9+CnNy/9166mRjTZLtl2aUfIz01XKE51HKu8AulciDqKV8p51ymiM+A0jFhFiwTVIp6ta74zBZoPgMqXQLXy3baWyrV3WFWff+RU+cPC0U8yBGpdiCx7bygnPYzDBp5plj+KcCfpvZgA5Hyy6YvXIKDwKNJA20x9t45+6OOMu/hAmHfHj55w1viBgOEI0E990859OfulqL/0b4g1INEziNnZFdU3UUDRcGExmAsC2Dw==
 33win.spot.	172800	in	ns	lovisa.ns.cloudflare.com.
 33win.spot.	172800	in	ns	west.ns.cloudflare.com.
+3i1bn0n9l4m3v37vm1iqhmbp95o9727s.spot.	60	in	nsec3	1 1 0 - 3QH1BR8AG8ATNI0UKI12VGTQBSK4008H NS DS RRSIG
+3i1bn0n9l4m3v37vm1iqhmbp95o9727s.spot.	60	in	rrsig	NSEC3 8 2 60 20251006083024 20250901073118 44589 spot. bdMFCVdunGmMpL/XN9b79IlvfPBSmrLhjlnClSvA6gr2qSYV/Xg6QZeMfne2vPAJlwbcEUIDRyM6n34cgnwQF3sHxOTedFaGUfo4t9KSTFfQqhW1dIP0uxP8jn2N5U2qsI7X4QQ7Z1oCBr5Sa9Zw8G0zr2rAlV0jwdCqmVjqHOxuQgfMY9ICGCJj6YMlZdtmw5lxx1lMNXLI8NqraKwumq2hEh1y5C9FROMI6Dc4q++0FIr5rqZVRn/FhQfM5GLdsGxwAyvHUGTb1v8kcDtUnn1fMwb5g8oMIdvPXq97pg68YBeyqca8MhzNSd4DAIIpC2+r04X8GW0P2cj8tRfhAQ==
 3qh1br8ag8atni0uki12vgtqbsk4008h.spot.	60	in	nsec3	1 1 0 - 5321S5MR1CLAUQRRHEBIS353FCISU5AQ NS DS RRSIG
-3qh1br8ag8atni0uki12vgtqbsk4008h.spot.	60	in	rrsig	NSEC3 8 2 60 20250925023801 20250821022526 44589 spot. QgQuGPQ42zpsJ44z+hDq3Rj6ORHmrNuQvjukqJy9CIVu2Z9BMQGEAWKvAvQdwX2NWwjST5K3S2jzLZOQe+6neAsY5rgNCsnN3GCq/GKJdkYhUxRWXxcfqaNSX9+ZaEypUrf/8P7+aU1lIJQr+amADMv67vUshCVjO3AWgouzeEv/ZmFKk/JhP1EjnlghaDz96xNJT1+E26ULCuyT8es2sAK1wyShAsKByU7By2c0SpPGLZXdcTMNwJs3u5zPE13su4I0jqDeUNRgJQYqYhEqxoqO4LJLLbn6/3uWRlFm0/idB/BBIpy1Dhf30m81s8F0up6wxkArr/NA25Rmo56f+A==
+3qh1br8ag8atni0uki12vgtqbsk4008h.spot.	60	in	rrsig	NSEC3 8 2 60 20251009015755 20250904013701 44589 spot. lGe3CsqQnAxhwHN8tiORrNyrMa6PSRYizaTlJoebMRKpLb9xZVq3O0QwLu5sJmMyR4ZDbyNER2wEHxS/DKrtkV9bcPsh25HGjeLPN2aMdhocbS6ei/gJvIUf624LzmQpHnrb3BEad3GkbsLQT6E6lq2Hjnsu/t249z0/SnJlcLLm9WV0B/EDbUKki7R9bZMeclBMtCW9RRMh5NGxODz6jQrwgxzaNZCJLB8QdP/Nw0+3M5HYld0OP5CbIoocSA4h15J4MIx55l9E/TVSMiM8cJxbI8MPnKQ9SSRBoS12H7TeNhgiTvDLnx1LQQRBoVKzr7AtMgb4WCkmcF2otQs9/Q==
 5321s5mr1clauqrrhebis353fcisu5aq.spot.	60	in	nsec3	1 1 0 - 5IRD92GIDEM73R4Q3EKRKODUISVTTSR0 NS DS RRSIG
-5321s5mr1clauqrrhebis353fcisu5aq.spot.	60	in	rrsig	NSEC3 8 2 60 20250925080509 20250825114335 44589 spot. xqwVeXNx/SPjzsOe1HVOdziabL5VEPsDMhS7XNAgRzQcpS6aPfTKjUEpRyDEUD8qZddi2C6TKna5g/PjmsCBPuWusIFPx+gaQUqISUuFmgBqnR6bLqBphTB10jarfpI4mxtH73tMhFgniSC9HAq7pjPoPzVgy7dsmBqsjaJW5naeJFvHTP0GExtxRjvr8fWHE5IWIBjpgn9VKPL97rzW7qXnUA72DRVl4QgfyGAM4QPQeOrTYwPhEGNuPTBfXNeAThlBpw2PRbeczVwJYI1GrawwO7CZ9ZQj0Qmu7PuR1KtwI/zRlcz3vpVOW4tvLp8v8NUyRdFyyxXeSIb/2anibQ==
+5321s5mr1clauqrrhebis353fcisu5aq.spot.	60	in	rrsig	NSEC3 8 2 60 20251009071717 20250904070253 44589 spot. kU+RZ7GWv4k/ha0pHNB696PV2eBVkZU/WBLhBYaHEoU0tJb+dMvR6NZhhxjROk25TWL8biEXqqXFuif73bxe2BoxXkL/mH0ES4KUeD87gdLhK0dePJtSjXzMCOiZvaS4YBZnZGhGnSm+WBVWmmw+YB3iXAV1HVAjnJCf365WYps5wVM6rNCq4iywrmXJUO/eISVq0xzbNkqoGS8IS981bfmxkiJ//g/EbtWjUVdcfxxbzeOHUdGOOZNcKXZ7K1h5ElnuFdO/gLbY1PEeCn5EvGa2OyFfSRYWdsNg3ItuR5havvm6N0yGYi83Y7A87zgCte8vYbtAovJ/o/ymdaWMiQ==
 58win.spot.	172800	in	ns	austin.ns.cloudflare.com.
 58win.spot.	172800	in	ns	leanna.ns.cloudflare.com.
 5ird92gidem73r4q3ekrkoduisvttsr0.spot.	60	in	nsec3	1 1 0 - 5MP45HVI0K7NK5SNCCV6J2ONI0QILRE9 NS DS RRSIG
-5ird92gidem73r4q3ekrkoduisvttsr0.spot.	60	in	rrsig	NSEC3 8 2 60 20250925080509 20250825114335 44589 spot. VOwGnXoiN1mlF78lOAdIkE/oToJWBsG1jmh1Wy5qyWGd8ekjNC/lQI80nyAoe3VvzTMAz3L6UGRzGC2GGKoqkIlyx6Hw4Y2btr35xtX+frBIMirlS4hHT6X40kJvL0gT03G3+9XwaCiQ7b5PD2GTw8g1Y/3NeVyBQI5rjzS0ptgmbPgGGo9VCfAHJ408FCCt/SSzqZCw8z3NMKN6/3+4keHV1jNLuWVyrTcUGRX8+ti4cjsVET0gEQ9ZSiXwoxolJplyLw5BlDwAJcdtVOD20bDT2hzAkiu9+EGRnowv299fJ0ASHvKEKRAmZzNhszrVbgJN299DD7gxOoalmnEWYA==
+5ird92gidem73r4q3ekrkoduisvttsr0.spot.	60	in	rrsig	NSEC3 8 2 60 20251009071717 20250904070253 44589 spot. W2ZlwRGNq6V6JPXiXsoOYCMXAQYcxpspWOfBw4bUCD2NVSnT2RdRpRckTugB1ayZ2EaNrZyeeIzEp4esIMq+4LXItyxI+jDVz3FS67bVY+fACz69KfLJ+sW1PR46W8BMbiEI0LbEqJjY35WCL9eQfX/ffYQE5XcGnPfJzYTDszl3aUD/Gan9+IZWzDQUvsOOdMzL+k7Q/2UIY0pD6uwl5fF7pX3CFelZhrPyeHLQzuOYYYYyhgv9tDeYDGvoMKJuJCprZZvTX479MMEeeo1YHlgq6RQSmnAw0hbgT9lAPvkpcKXyTKGrIFZH/S0T56EsfZkgAxxRT49hye1XuE11XQ==
 5mp45hvi0k7nk5snccv6j2oni0qilre9.spot.	60	in	nsec3	1 1 0 - 6V54DJCOI8N20ALFB25NO91UOQ2TL123 NS DS RRSIG
-5mp45hvi0k7nk5snccv6j2oni0qilre9.spot.	60	in	rrsig	NSEC3 8 2 60 20250928030414 20250824025835 44589 spot. bEPBau6xVhCysnTvxeo751Wgwc3Y6QhkCyPVlYym7jRbTrWWLftxE30oLQGLZI1PdZyyekBMmpTtnYVS7AkLoAMGkWam7DlbLoZGNbWfI6ijech93KQKauxwMKbElmosWvHKKxzlN0hxLuqMsJRfZGMnllnUxxkbMP4cf3J9FIiWAb3YVhq9MTSGBJqxZzjaqt3RIkzAaCLKGrAj3pkVxFyGS2ubhOXLIhMomCfeQ7dIVD/lVXJS78R2DFB8RTiGxfwzdWp4mhWP8Nrf/Mk9TgToP1Tz7+mL9OEdRn4CHX1XHfADIaTneD6CfKzevwAUIcxEAGJKjmfrFzkyYru55w==
+5mp45hvi0k7nk5snccv6j2oni0qilre9.spot.	60	in	rrsig	NSEC3 8 2 60 20251005021030 20250831020414 44589 spot. XrVhuMW5+ILg2N0MBLqCQErwjStg8MgD5zTdYBzAh/zWXG0ingfG1GzY+GyVVIzCLA1xCfqUIO7fU8dw6wy98lrHdBM2mH97tB84abnh+e2As7hAQTodsoXhxn4gyorSVQI9Vgm/M43ISkuw1mF7HPXTk641UM9d6qrb+tYZXj27oHEmj0cexInslErX3R+AgtGVoL5kQAs5dTMp0plVZbTAOIcWPLm6qsF43kY4EFg+z5WKmgj3FHKbFYIkAgMVvl3pvDfDHSVELE+C1Mor23yyihVwgsd/jbR/Bn8Jxma2M2sPpXz6YMg/I+Rt4sZJvqhVUCH5vFcCeIUiJQaprQ==
 69vn.spot.	172800	in	ns	barbara.ns.cloudflare.com.
 69vn.spot.	172800	in	ns	khalid.ns.cloudflare.com.
 6v54djcoi8n20alfb25no91uoq2tl123.spot.	60	in	nsec3	1 1 0 - 7NKK2GGJ0QBVA944BQTRH6306B2JF32T NS DS RRSIG
-6v54djcoi8n20alfb25no91uoq2tl123.spot.	60	in	rrsig	NSEC3 8 2 60 20250930231945 20250826224219 44589 spot. Glrfr9LW45GPB0zb0Z+PEywRKSLkKAG9UZPp2ObZuCAEeaBkul87N5pDDzn9Ms3yCJw8K30BuDgaUvQLTx3TQUJk9a8E3Rn7v4oeGuO8oGZIELXjNpeJgUDX1lY27RrLdiHAsAY7mGMtj486/UviEEUDOUPL4y9IYMVm5oPvrDJTkrJe9P+1DpOmkTzd07yVkZ5yzQnLkM44usWeUZx5UXmctPcPr/txCs2cQKlBCXHkoJe7QomLYB7vKWLSsoQ9LZ8MmyiE3BvcwBlkphqtzSBn+nHrnjUlSiWK6ZOxRoaPC58IDefm+gzzXnS8EUwe2FNa3ho7PKSFdaMke41ZAg==
+6v54djcoi8n20alfb25no91uoq2tl123.spot.	60	in	rrsig	NSEC3 8 2 60 20251007224127 20250902221945 44589 spot. JyJ965xZATjJyhijZEBUr2vfWfHshgH/3sT0ph2tSD5FcDVHXe19xYnLouYD7dPRUt781NLBHHuNNpo+UPzJDIDHB//LIHwfBsUpFDhq9jf7bVZhO0+pAEn5tpAO03t5gBa+eHexMZswqnP+0iGZjLwvn3mNpk820TiGh+x6NJYYRQxu1IqHYLs4Z9RNn+Gj0Va4X9IpBBhEnTwdXiFPYT2tTf1N0izxt4Hedy95rETh8CY0WgunkIjGF32Qjjrvuiw+608KsxTFgO4GYf8r+SwUOL1D3bcF2o85iphvqkNmsJmWpsrqfwsESy1ZAkc9Rd8Zb+eCiae64WLR67tahg==
 789bet.spot.	172800	in	ns	gemma.ns.cloudflare.com.
 789bet.spot.	172800	in	ns	vick.ns.cloudflare.com.
 789club.spot.	172800	in	ns	dns1.registrar-servers.com.
@@ -49,7 +58,7 @@ spot.	172800	in	soa	dns1.nic.spot. hostmaster.nominet.org.uk. 1756217537 900 300
 79king.spot.	172800	in	ns	carmelo.ns.cloudflare.com.
 79king.spot.	172800	in	ns	jill.ns.cloudflare.com.
 7nkk2ggj0qbva944bqtrh6306b2jf32t.spot.	60	in	nsec3	1 1 0 - 8TLE7NPFLSD6PU48GJ4U2K5KJVRKF04S A RRSIG
-7nkk2ggj0qbva944bqtrh6306b2jf32t.spot.	60	in	rrsig	NSEC3 8 2 60 20250924061427 20250820055220 44589 spot. a+9V5+xT7gDLAzNhYPdmcDpiuW6pbnRtZP7UbjF/TN3DVNRKBp1qmOvTof+/7A1TQJtkHETIUvGQa58TH3pn5TkzSnxXfufxRJXZnqpbfC+lV2+cdRwi+QG5nVF1j2UwW2Sv9rKdq6+bRN6yg5P3yTnq/h8hwiZcjIVx/eMiUMI1lfHLCVud8xtPjMrvfNHLAUJJkSTm04mq2DnNLLrXgr6lDQpaRGDvWar/Un3McHNQ7Pe1TiDOf/BcXQaeirrErfarzt1t/c2+o22VV6N7CYyYpweMizmuNXM8TaHOuuBhvkHYJ2NQXbpqilX3+MRi/aTfj29gfaCyYODkNmJRBw==
+7nkk2ggj0qbva944bqtrh6306b2jf32t.spot.	60	in	rrsig	NSEC3 8 2 60 20251008045754 20250903042612 44589 spot. g3odL3AgUR5lpIgBJG8Oq9K7l11qYesKNtA7OTrDjcK+7FhtfohhNpyMw9zPpumhsfqbNmlDjfgs3MKk1VogMR3zUPIyu2+TwafjuNuNSToXaOuOI2yF2YYtgMsDt3kcagtk4FN7J+ihsdpMfZ5vaq5hXPKU5rl3Q7gH33lP9AfDKnmaXbPwH7ZwUVMtB3gRRZSrQRJhLNofJIuszjccjPmaMJBvD2I83QmpfARQI3lC6lkwveXC1jhIjV5GFHdRpLQ4O4A441nBXeo/E1YWzHzW3neMz3UtGjSzAfAnpwp3IvlkRpM24H3tjJyh/Oo4VU9xuTiAgCGaKQzpBQt5gQ==
 7starhd.spot.	172800	in	ns	lee.ns.cloudflare.com.
 7starhd.spot.	172800	in	ns	meilani.ns.cloudflare.com.
 888starz.spot.	172800	in	ns	dns1.registrar-servers.com.
@@ -61,7 +70,7 @@ spot.	172800	in	soa	dns1.nic.spot. hostmaster.nominet.org.uk. 1756217537 900 300
 8kbet.spot.	172800	in	ns	barbara.ns.cloudflare.com.
 8kbet.spot.	172800	in	ns	khalid.ns.cloudflare.com.
 8tle7npflsd6pu48gj4u2k5kjvrkf04s.spot.	60	in	nsec3	1 1 0 - A0B204O3B20A19VQDPU45CMPIQJIAGSU NS DS RRSIG
-8tle7npflsd6pu48gj4u2k5kjvrkf04s.spot.	60	in	rrsig	NSEC3 8 2 60 20250927040751 20250823032412 44589 spot. gDQiy+TMzi4Elob92ri6YMPdIs3rg+AnO3R+EPoM41G2EkQ+YHHEYh7InF/Cpf4g4Gu5cSFA5JYyrzkIh71pUKNWFK0FXjsPdmwP4MynkchLA8RB+fWBGJEAzxbIoGJRAmQZQJ7dRDxrn6gN7XxGPKr/FyofUcALAucT18pr7PfaPXlMx+PuciLxGrZ5jRekW+mz9xUhxE9IxX7IIp9cFtprT9/VTI2zjiFkoSzsjIUKSUVHFR1not2veOzk061YIUyqz4cAKaGqo7et+T/zYw+LHTgSCRWepvaPYggvMWko0nvWqosQG5oHviSHXJnrjAQJ5iMzG2Xyw3+avqX03g==
+8tle7npflsd6pu48gj4u2k5kjvrkf04s.spot.	60	in	rrsig	NSEC3 8 2 60 20251005235630 20250904130416 44589 spot. Yu5rGyJfkMBwshQE+rP+L60xgKQodeo5OwamF5WGMnqXt61ItG+dOO05mayY9ooQUUDsw+Lu0dy2bGZvySPhKUR8mxCqqOMvxMnnMCRjPPpNpaybaHMSMM1TveroONoO2BQKYRnvaxKMhFkv/MgeDkzgKSOfopcfDhZ1/DbMAtBh/cUpro2U25SQPcxh7oiZn5cYdaUeFCG7zsqIHkRKc/7l1snvKGRdKE9nZLtx9Y9EMmVe7aiKRZfPXVACt6CO7U0i6akISM+/AqMFTGYD+iTZ+/KSilOdxtkzCr6WnmLK+jW/Mr6Zw5gh1CoO8YCdj9SYzzDWFJ7Dnw1YmrjkbA==
 8xbet.spot.	172800	in	ns	beth.ns.cloudflare.com.
 8xbet.spot.	172800	in	ns	bob.ns.cloudflare.com.
 98win.spot.	172800	in	ns	harleigh.ns.cloudflare.com.
@@ -70,10 +79,12 @@ spot.	172800	in	soa	dns1.nic.spot. hostmaster.nominet.org.uk. 1756217537 900 300
 99ok.spot.	172800	in	ns	neil.ns.cloudflare.com.
 9xmovies.spot.	172800	in	ns	sara.ns.cloudflare.com.
 9xmovies.spot.	172800	in	ns	wilson.ns.cloudflare.com.
+a-i.spot.	172800	in	ns	dns1.registrar-servers.com.
+a-i.spot.	172800	in	ns	dns2.registrar-servers.com.
 a0b204o3b20a19vqdpu45cmpiqjiagsu.spot.	60	in	nsec3	1 1 0 - A82CCFC3MDQ9TMM97KUKET3H49S34H4J NS DS RRSIG
-a0b204o3b20a19vqdpu45cmpiqjiagsu.spot.	60	in	rrsig	NSEC3 8 2 60 20250928133354 20250824130702 44589 spot. S2xRCx7HZGIjM3vc0jrrc1F3GtR8HBj8WIQT7eKsap3r0BEuD1OB4rdOR0a90Dis1NMk4JXRYV5wibMlND7NzW5yHSXvkqKGd9lTkOGpan9h31nD5qwmk4iXoG7+dVM78DBH0VKXmBN9VQzyJPXHlAna4sAMr4iHRdPAaV2Umk0yi/L1W9OSeXRF8HwdJPthChn+EOOcuaYg6ETOiOUlkeCNIvTxvcSwGH5eGYlE3jSqg1O+zFKBpAQnf5Va3h5ZNdfh4tr9jcX1c9gFKLvxDi6xxPIPssjWwSL03JLKPvw4pzUQmjhb//IQkFpCqgeo9Y45Bn7JrDVIWl7bTGAIow==
-a82ccfc3mdq9tmm97kuket3h49s34h4j.spot.	60	in	nsec3	1 1 0 - AQQ5SNJ5T11QMVBFVQS9EHOTMNN7IO5O NS SOA RRSIG DNSKEY NSEC3PARAM TYPE65534
-a82ccfc3mdq9tmm97kuket3h49s34h4j.spot.	60	in	rrsig	NSEC3 8 2 60 20250929010159 20250825003300 44589 spot. 0n/EBw0wi0oMRHJh852+GpL2bjFHDBlujqfqD0IG6bpI5FdcqjX0nxdetudz6ZEU7vo1UK9TNruOFGo9sBZ7CbyZ/KMUWbj3PKkvbgEXrIZFKXfCXp2VVsOMbo87ArToR3tB6kEQ2iaOHFI/7XARTIKI4uyw83fDVdAIyb/D2eOzHb2Dd+0YmpdRU7RB832rJ9TFi/HndnnLkj1Ip5MEimjCV/HP9jGnbPS6D1ggUzdDfp2xu+kXYlFvxY785VWxjJcww/TYMCKIeFGgI6HVNMDKddHEuZOBEmPWTXP+qI3Bwseg5CVj5ktpKl7tj+eDszroMdk6KPK1cmkHMSGbtA==
+a0b204o3b20a19vqdpu45cmpiqjiagsu.spot.	60	in	rrsig	NSEC3 8 2 60 20251005132706 20250831123354 44589 spot. f2ygxmOpOJRRFQiw7FV9hzVqjijyErzPx0vey17HhqBbFZysJgwdzluEvlkGtn2esvOuQWZxQt/QsRyedMdPmjXsnqlywWimKGwmMgGxc62Sh9cpwut33/r/XgqRG4Emo4cV4SrE5MzhyJLFeuapC5j0OFEOVONavLEnoIvyM5MtIrBoKr3O9NPgVZR6VqMIIX8u2Tu41rZFPfQlwdaEpiKKWJiNySoMrlQvR2p7VjDdppkyumcTtJ3zZymqAKwebt0VWpxoSZ+/EqZYvuMQUhVCdQk7n1zxvs0lZPLmUFfFjcCcMpVsWH5Xzm8UGuCX7VTFEys+CUnC+XaGJ89mDw==
+a82ccfc3mdq9tmm97kuket3h49s34h4j.spot.	60	in	nsec3	1 1 0 - AEQUAD49TQ15FI647KCN51UI6AS96EBF NS SOA RRSIG DNSKEY NSEC3PARAM TYPE65534
+a82ccfc3mdq9tmm97kuket3h49s34h4j.spot.	60	in	rrsig	NSEC3 8 2 60 20251009233742 20250904232041 44589 spot. bgBBoXKKgVcGkGf4BWD4WEbo5hIhQDmH9FRxMlVkeOYVITexofaelqB/rYEElbYjrSA8P5Bs/gnqoscoC7j774z8R2LQaCXSLCgbCGEO2BhTXt/dintc/mZ/tDglj5BJ2QrfmvttLnFXx8uJQ3+kI+vc7IQtzURKKTTI/ZSwQKimehO9xDOyKJVK16uYL/AKnPc4fDRsPOtzefdOm94J7IIdQgsUfDNs75IDXT0uA/Cq/+yGr7rlUZQnPUr9agh687AYg0ZzhpbyWbVnvt1WzwSninmJUaK4l3COAzg8xuVODt50Yuf8R+atT05/gnJMxlX3xRU3wiwgHI+7OE6mjQ==
 aannemer.spot.	172800	in	ns	ns01.hostnet.nl.
 aannemer.spot.	172800	in	ns	ns02.hostnet.nl.
 abb.spot.	172800	in	ns	a1-226.akam.net.
@@ -84,6 +95,8 @@ abb.spot.	172800	in	ns	a4-64.akam.net.
 abb.spot.	172800	in	ns	a7-64.akam.net.
 abc8.spot.	172800	in	ns	barbara.ns.cloudflare.com.
 abc8.spot.	172800	in	ns	khalid.ns.cloudflare.com.
+aequad49tq15fi647kcn51ui6as96ebf.spot.	60	in	nsec3	1 1 0 - AQQ5SNJ5T11QMVBFVQS9EHOTMNN7IO5O NS DS RRSIG
+aequad49tq15fi647kcn51ui6as96ebf.spot.	60	in	rrsig	NSEC3 8 2 60 20251009233742 20250904232041 44589 spot. MSKy5dAqSVSAqTJwnO6Uwu3Fb5XafMINqYhN7jUDkh7/3g1aG+Sdys6CJhjm8Z7uov2TqNQLC95BCOwIqYA4v+b0ppsigacCyI7b7jppWpNh21Z+HDwy5C0CoM78sjOuRkayD9c2jrXvI17AQfb+6GUQYoQefAj2J0+GFo4SIEY0gZrMqr85A+rkWvy6XqV9ggwj8BTjr3apBD1rAA9AiOvKriV8vgZloxzf0wKxnNd0PjReG4U0IZmgHIw1eXPMw/nGSEkRL9tDWT3n+LYzGpekc2UG2ZAR0LB5JVK7uOa6tClDQnZWcg5hoO3Jjnb+lxSjTlFcJBNiEz0lrpBi+Q==
 aetna.spot.	172800	in	ns	ns1.markmonitor.com.
 aetna.spot.	172800	in	ns	ns2.markmonitor.com.
 aetna.spot.	172800	in	ns	ns3.markmonitor.com.
@@ -95,6 +108,8 @@ agent.spot.	172800	in	ns	kate.ns.cloudflare.com.
 agent.spot.	172800	in	ns	sid.ns.cloudflare.com.
 agentic.spot.	172800	in	ns	ns1.atom.com.
 agentic.spot.	172800	in	ns	ns2.atom.com.
+agenticai.spot.	172800	in	ns	ns1.atom.com.
+agenticai.spot.	172800	in	ns	ns2.atom.com.
 agentive.spot.	172800	in	ns	ns1.atom.com.
 agentive.spot.	172800	in	ns	ns2.atom.com.
 aiagent.spot.	172800	in	ns	launch1.spaceship.net.
@@ -119,8 +134,8 @@ alexa.spot.	172800	in	ns	dns1.comlaude-dns.com.
 alexa.spot.	172800	in	ns	dns2.comlaude-dns.net.
 alexa.spot.	172800	in	ns	dns3.comlaude-dns.co.uk.
 alexa.spot.	172800	in	ns	dns4.comlaude-dns.eu.
-alfa77.spot.	172800	in	ns	dns1.registrar-servers.com.
-alfa77.spot.	172800	in	ns	dns2.registrar-servers.com.
+alfa77.spot.	172800	in	ns	perla.ns.cloudflare.com.
+alfa77.spot.	172800	in	ns	pranab.ns.cloudflare.com.
 algo.spot.	172800	in	ns	ns1.dyna-ns.net.
 algo.spot.	172800	in	ns	ns2.dyna-ns.net.
 allai.spot.	172800	in	ns	bob.ns.cloudflare.com.
@@ -128,7 +143,7 @@ allai.spot.	172800	in	ns	kay.ns.cloudflare.com.
 amaravati.spot.	172800	in	ns	launch1.spaceship.net.
 amaravati.spot.	172800	in	ns	launch2.spaceship.net.
 amaravati.spot.	3600	in	ds	15532 13 2 933CB3A85ACB849D9296B880EF047632FEFF9348BFFFBEC814454590637ADBAB
-amaravati.spot.	3600	in	rrsig	DS 8 2 3600 20250928150101 20250824140733 44589 spot. sIXneql8PBqvEsf+xleSS9wHy1wc7VGs8/seZH1UlO16qDTUyy/XFnzc1q23jFvt5+94q7ZHkTclKEZXMPNAl1j+VTbTXHhg9vIs8OkbYxqBsKTdslHG/jXhSLFrC/BZr4LEGiTxqwVM3Y24Tycm4G0uz1jrmVm4vBuYHHSaHZ1Zy/S5MSSqbyO7z02QTDNWGBigkZzwK+HymeExV5Q2e4IE5zG9e0DlnOgo71H1kK3VbHsPOM+DVVGZLOUVbBzFqMZmsl1KJDJiuH24VBDpAaeOpMXodM8vDdSe5WFhyurPvynYbqXdyRood/k6szncrJC6nwehbhDP9fFBcwqh/g==
+amaravati.spot.	3600	in	rrsig	DS 8 2 3600 20251005140205 20250831140101 44589 spot. g/rF+DFn8ZmAZyv5kOo8b8X/s8yHfLkBej0kkrMqc+ozf6AyLfKM6C9SYw6AtNhnjVVDduUDbt8PwGldY1qAQK+/le5MZk5vpmwE2zbH9MvhnFvn+Z5yV5e8f2x2oK49NkfnRsxJOepFWlnwVLzs1oN2x458ygQnpyWuA0I5DnY0hM08Xry4b7ZEhb10t2D1XU4Y7ntLKyPWMFtQ1dhth2NoRQZK9DsRZjwWV9egL4z+QOd1yqkj8jxtiagicZ99O2eQDAzh7aoDJHxVpOnY2Kj3CpO0MdRKBGAxxuBt+o/qSqHfd4FLY0TRxNiPaC9SDfs4gPxrtWq5akLCIk5cDw==
 amazon.spot.	172800	in	ns	dns1.comlaude-dns.com.
 amazon.spot.	172800	in	ns	dns2.comlaude-dns.net.
 amazon.spot.	172800	in	ns	dns3.comlaude-dns.co.uk.
@@ -150,7 +165,7 @@ apple.spot.	172800	in	ns	d.ns.apple.com.
 apse.spot.	172800	in	ns	dns1.registrar-servers.com.
 apse.spot.	172800	in	ns	dns2.registrar-servers.com.
 aqq5snj5t11qmvbfvqs9ehotmnn7io5o.spot.	60	in	nsec3	1 1 0 - BESM8UP5F9V6LOHN5V4135T3C6PJKUKP NS DS RRSIG
-aqq5snj5t11qmvbfvqs9ehotmnn7io5o.spot.	60	in	rrsig	NSEC3 8 2 60 20250927224536 20250823215121 44589 spot. H0TL2izCkSitLFb1/JPZDmPg2XjH7Z3KxgRleQKFT9a2BN84eoWYXc9/1KCHlHXFYMOPzHIlFJ5crQVDzqcZnNQ7ZmpF/3z56+4ev9/NDDNjNhdpUQPVuqrs0/CYTQ7R56GxxsKYLojM5Flz9f0tHnuTLh2WXjGfOJVEO/sKxJC5yj2LzW969bOQUZM+DZud8c3ISqQT4MNrHihZOKZnmW/jvuHUDqCmNq0lc8VmuOnZXK9Zm+n9svIVScvXUcvbp+qtXbPBZagyHnW71hmWaRYmgpja9MOteuMeUiBEkq+AqE1WSCGZGd4aau6whb2jahjMJELBfVb4uxJEnawjhQ==
+aqq5snj5t11qmvbfvqs9ehotmnn7io5o.spot.	60	in	rrsig	NSEC3 8 2 60 20251004220406 20250830214536 44589 spot. z9ZVRd4+VMEmkcG2/3TbbPJJxjVhRl5kmt5g8zaSUUwp6D3aAx65xSQ9SjrBsI7xo3hvqexOOGvpPieZ8jyQzQpBhUeRGiKzd3rm2UJ9cHaDUYKd0zw/K7arPUpty3qh7oy0MBQw1EJ4paVfiDIeglKSrSe1PPbdEoSqlKN8aD4ILbncotww/X80vFad8JYXjJlJ/t7Zg0rZKLGl2fQHQtMjmVpKEhywCXqCzIyTvJEIHUY5BBVFdvNTaTptlV2fLUAw91BYWG3tFZOlJnM0M/qh8czIN+7+s1iqlETg/tBJy23+9mdnqMZiWMEETIK2EIQkr6o3YiRfgSUja38xSA==
 artificer.spot.	172800	in	ns	dns1.registrar-servers.com.
 artificer.spot.	172800	in	ns	dns2.registrar-servers.com.
 artificialintelligence.spot.	172800	in	ns	ns1.atom.com.
@@ -189,6 +204,8 @@ automate.spot.	172800	in	ns	ns1.dyna-ns.net.
 automate.spot.	172800	in	ns	ns2.dyna-ns.net.
 autoris.spot.	172800	in	ns	dns1.registrar-servers.com.
 autoris.spot.	172800	in	ns	dns2.registrar-servers.com.
+aviator.spot.	172800	in	ns	celine.ns.cloudflare.com.
+aviator.spot.	172800	in	ns	paul.ns.cloudflare.com.
 awaze.spot.	172800	in	ns	dns1.idp365.net.
 awaze.spot.	172800	in	ns	dns2.idp365.net.
 awaze.spot.	172800	in	ns	dns3.idp365.net.
@@ -209,7 +226,7 @@ b-and-b-hotels.spot.	172800	in	ns	ns4.iptwins.com.
 backorder.spot.	172800	in	ns	launch1.spaceship.net.
 backorder.spot.	172800	in	ns	launch2.spaceship.net.
 backorder.spot.	3600	in	ds	62719 13 2 9DA5C52A0E2E638B926F0A6071A70CEA85B1C4660F5E2A782D90EA0BAB4A998C
-backorder.spot.	3600	in	rrsig	DS 8 2 3600 20250929063836 20250825063312 44589 spot. aaIdiMMvEE1sLbNbvQxf3aFknFvFXBIq5dX3l2hbm9YUlYZYXReN4WdQog8S86T4YFRmZXvh7iDlGNeUk3B2+BtPz7BWxNeikEujkaedceT1qswa+VxWe4jclRr+QaQZrfXpMrlMd0OTKjzmSglQEaBURRJerDAWztirpet9/icnhSwT4Eh/GFHM7KGyp/i8oquJtagESJ16QZg9h6/+BUHYMY2wOT+A4HYWTOuHYwoNHU7NU74JgwP286IgZxFi/E88PtSZFpM50ye5gjkAjo6GTpLbzDUmLKOMYvwQUR9HHY3vZtwEWyxRHVAO3OcGGd/XjHQc1TNICiwz2JQrgw==
+backorder.spot.	3600	in	rrsig	DS 8 2 3600 20251006055747 20250901053836 44589 spot. 0m1h2MYAmKSd4wTMGrAq9zmekehKXDlMHLSqr/IQroBSNPh8EXVZygrXu3WKgV0ny4eu+f6c9A5IHr+Gidcg+GqWndPpU5S5yHzugTrIY+7szwkX1SoAz3bdjwQkyCeT2pELWvOejxecTlRV+WLgURBAUKOyLZCMGbO6KAh/XrFdM17m5oaY4QWD8QXs7ysGUr05BpHXuF+3Cj6963h6h/GxKfMDt3ArMaSxtLY6uMDMDgvk+5kSLdOLbwIBsG2Sex31qBlM+PEA5J0uQLAzGLOZ+1maaETbO5wgqJYKKW/S726P/bYaqjW19bbTLW2x3tG8mIoTib/0Laz2wlSpHg==
 bagel.spot.	172800	in	ns	ns1.101domain.com.
 bagel.spot.	172800	in	ns	ns2.101domain.com.
 baidu.spot.	172800	in	ns	ns1.brandshelter.com.
@@ -237,6 +254,10 @@ barber.spot.	172800	in	ns	ns1.dns-parking.com.
 barber.spot.	172800	in	ns	ns2.dns-parking.com.
 bard.spot.	172800	in	ns	gail.ns.cloudflare.com.
 bard.spot.	172800	in	ns	ken.ns.cloudflare.com.
+battle.spot.	172800	in	ns	dns1.p07.nsone.net.
+battle.spot.	172800	in	ns	dns2.p07.nsone.net.
+battle.spot.	172800	in	ns	dns3.p07.nsone.net.
+battle.spot.	172800	in	ns	dns4.p07.nsone.net.
 bb-hotel.spot.	172800	in	ns	ns1.iptwins.net.
 bb-hotel.spot.	172800	in	ns	ns2.iptwins.net.
 bb-hotel.spot.	172800	in	ns	ns3.iptwins.com.
@@ -264,7 +285,7 @@ beats.spot.	172800	in	ns	b.ns.apple.com.
 beats.spot.	172800	in	ns	c.ns.apple.com.
 beats.spot.	172800	in	ns	d.ns.apple.com.
 besm8up5f9v6lohn5v4135t3c6pjkukp.spot.	60	in	nsec3	1 1 0 - BJNS3CPA3FSCHFC1LIQ59S6POHT8K27C NS DS RRSIG
-besm8up5f9v6lohn5v4135t3c6pjkukp.spot.	60	in	rrsig	NSEC3 8 2 60 20250924174128 20250820173430 44589 spot. djRs1hh07p3HPeDkeIRESNDuocYrmjmwi9nFVnnNM2p7LDpEMxNkY00k3qGt7scS4BdslW9rpE9lsWUNImgUTGwM+ZEms83bfBGTGnYws0225kD4YVVkMRqkoV/jkUaz6Wfh/lvfGCN0zlJNVEU8XFGw31NAMgi1PAPM4LKE8tVCpD74FuwWv/6HB8Dz0prnYGmSvxGpKTpTEJFSPqlldLDci4vIZTUZ3DcpbEJHu01xeTxzzhR2SDGJ5G+GQQ1V+MbwMgfkveWarkpOc7B3sLX7Es8gSN8DPGOfjAos1H7L6yejqrvtJr3b0tclbOBMQSlhEQNX48Ixtl6Tx8fD2Q==
+besm8up5f9v6lohn5v4135t3c6pjkukp.spot.	60	in	rrsig	NSEC3 8 2 60 20251008164705 20250903162710 44589 spot. FdIg1uZ+agmjptnQSda+bkH4gvqQbeeGqQ9ectbrS3Z7fTU/xeCcbbeYaWU41W6ASN/vgaRDBlRfVibxfusz+AhifAiMhuRNqM2M9mDpSOAcPoh24qcqHvbX2rnqGyzOVv6ccV+sOCB980iJ5QpPuAw9iwGROcxiolaR5VJU4DwB30tm5A9V81S9kVdFMzDAeXOywddkPiCsKxvyL5Qo5jt6cK3b51EtcGGhA6AOs0OxentYlE1SwMAEg6TP6fdK+ExNJaGCIlPT6Y6LbBrLYT8rtTejXaMPMj7mpwhNl8H6I5GLd4D2G0RasMAs+3KkbKr25PYXSR1nOn+g2L9nYw==
 bet404.spot.	172800	in	ns	derek.ns.cloudflare.com.
 bet404.spot.	172800	in	ns	izabella.ns.cloudflare.com.
 bet88.spot.	172800	in	ns	chuck.ns.cloudflare.com.
@@ -286,10 +307,8 @@ binance.spot.	172800	in	ns	ns1.dns-parking.com.
 binance.spot.	172800	in	ns	ns2.dns-parking.com.
 binarium.spot.	172800	in	ns	dns1.registrar-servers.com.
 binarium.spot.	172800	in	ns	dns2.registrar-servers.com.
-biogaran.spot.	172800	in	ns	ns1.iptwins.net.
-biogaran.spot.	172800	in	ns	ns2.iptwins.net.
-biogaran.spot.	172800	in	ns	ns3.iptwins.com.
-biogaran.spot.	172800	in	ns	ns4.iptwins.com.
+biogaran.spot.	172800	in	ns	dns1.cscdns.net.
+biogaran.spot.	172800	in	ns	dns2.cscdns.net.
 biomerieux.spot.	172800	in	ns	ns01.eolas.fr.
 biomerieux.spot.	172800	in	ns	ns02.eolas.fr.
 biomerieux.spot.	172800	in	ns	ns03.eolas-dns.eu.
@@ -298,9 +317,11 @@ bitcoinprice.spot.	172800	in	ns	ns2.101domain.com.
 bj88.spot.	172800	in	ns	curt.ns.cloudflare.com.
 bj88.spot.	172800	in	ns	dalary.ns.cloudflare.com.
 bjns3cpa3fschfc1liq59s6poht8k27c.spot.	60	in	nsec3	1 1 0 - EMS0VDJLGGGLDTM9401D0N89HOF2M5HQ NS DS RRSIG
-bjns3cpa3fschfc1liq59s6poht8k27c.spot.	60	in	rrsig	NSEC3 8 2 60 20251001002440 20250826235030 44589 spot. J2jhGoVhV7eZxN0b00FVY0vNp/0/yMiksKmdgy5oQDijprEDefgGnR2T+whF9LCE7tPPnmpXh0i5e1uv/rARmCH57vErTaAdyxoH+FMUSh43bZBbnEYII2VcvAElzMlsQpYg8B3Zs2bN4aYp4hJeEcQctY9ZUisgc25wSSNsct9iK2JeViTjO7OZwlhoLuHw+ltI/XG+j8edAYjiCTRrKe7rkvALRXMlX3oUVVCwI+xWzEu/dAbUg+PpIDyAYkc2qTinUT4R6p7F/ujrZcIcToBrwOjigIz+llYxW6hB06/CkC0PdLwgY22Dind3XCox99FMaZZKCU/ghNuqaVg53w==
+bjns3cpa3fschfc1liq59s6poht8k27c.spot.	60	in	rrsig	NSEC3 8 2 60 20251007234526 20250902232440 44589 spot. ANnTo67dEwav9HObMyNHT4st9A0zBalNFu3qSWnc5oA/Wm5JvoV2BI6NU2kF+rSVB83O29btkcG2YQc8ODPUxf2Z61Ey4ny8ANceoqVfvxxRlOT+wxaG3aoiYNqXsI/eeOiwK5axML/V2QtctzRCe6b8EXptuzgJuZWcLJfNlkxfmXaOks4Yxdl+AZgZ7lYP8mII68mMkDSx9mYwxQUvccw4TkOkF5a9Gv/w9xG6bgyXbwka9Av65yR6HAVHDqLzTDxl7hQxi7kqDFviBuTOm6P/fk33mJ61FdxM4zS5FU1PfoOhYmbba6ErRWaid+O/FUoy0J2+4q7jR93uaSqNhw==
 bk8.spot.	172800	in	ns	aisha.ns.cloudflare.com.
 bk8.spot.	172800	in	ns	nero.ns.cloudflare.com.
+bl555.spot.	172800	in	ns	damien.ns.cloudflare.com.
+bl555.spot.	172800	in	ns	gina.ns.cloudflare.com.
 blackjack.spot.	172800	in	ns	ns1.dyna-ns.net.
 blackjack.spot.	172800	in	ns	ns2.dyna-ns.net.
 blackrock.spot.	172800	in	ns	ns1.blackrock.com.
@@ -331,7 +352,7 @@ breitling.spot.	172800	in	ns	a22-64.akam.net.
 breitling.spot.	172800	in	ns	a24-64.akam.net.
 breitling.spot.	172800	in	ns	a9-66.akam.net.
 breitling.spot.	3600	in	ds	58200 13 2 1932D905686055BC674B7E47C4F23CE0B0A7F5B00C84607C189EF9A390206FA8
-breitling.spot.	3600	in	rrsig	DS 8 2 3600 20250929181418 20250825173343 44589 spot. 1xlSe+rCPgyyQFO/iawssW93mMarpFVGmP9JzbNXB5ng1WOY5D7qeFpGONM2ODEVITUzpstA67mf0HfH4S0Dxa6p/hVl+J0UFQbTWr9dclPD35evZ0MI7cHgLHmFDVyn913YWqobYEYYum0BDJ2lJMhzYjkFaFwgwMkw6gKr0j+vcfteWbMIMohnFVUIbx/BXfyz3j25Mw0hK6YlaVLIMnNGg+jYlCxFjY9Lrwq1Uw48lZVTjxJlBeXKWwOEc+NMHqeL00ANi1ydEotSeemeARJFo3WIwW2sgVpTgAhds5tH/IAnC/EoEFn3vBUMGW52EuvrBu4g1Rpu1Z/Be4sbOA==
+breitling.spot.	3600	in	rrsig	DS 8 2 3600 20251006171812 20250901171418 44589 spot. VPa/GJvCK+Vl7HRd5I2iXFwKHxcOJFjYW/MLxple5nOwbBrIcCTFLO07BLCKtLnpjtQ2W20QESTPXhY8zRIqA/DOGUOD2Q6cp5wftYk4OF/aq7EChVynXhAi6FA/YSPJpV9XxnMLDJSYoTG6DEoR8cvLoC9MybUIH4yxLxeCit1FmM2j1anyzU62DDXiImZ+Po0RkBfqIV2q+5he5QmhDXCt38m8wtEx05hqg5hwgXuLkfC9ZmC5V7dJb9Z6xekon8PgO9C2DRu/HaAwWVrAR8IjKRp4tPww1cTNyxdkYDGKiH4MeZ8+F9CI3CTH9/n0ZruG1FPPX7J6aAM1Exu2xw==
 brite.spot.	172800	in	ns	ns1.atom.com.
 brite.spot.	172800	in	ns	ns2.atom.com.
 broadcom.spot.	172800	in	ns	edns161.ultradns.biz.
@@ -381,7 +402,7 @@ cashy.spot.	172800	in	ns	dns2.registrar-servers.com.
 casino.spot.	172800	in	ns	launch1.spaceship.net.
 casino.spot.	172800	in	ns	launch2.spaceship.net.
 casino.spot.	3600	in	ds	9749 13 2 C506EAD5919C20D6BB8F537165A4FFE3753F60CF8008058201EC6EC7C3C861E1
-casino.spot.	3600	in	rrsig	DS 8 2 3600 20250926124940 20250822124317 44589 spot. s53weU3l+K8oFXoG1Gnbhpeg35gRwWWx08jpTUbvZKXihnpeZUF36vyK0FYN1miKzIgGiJSS+++GRR+RgbIlmYIEprRDxLYwNm5yGQ5OjwiKOEkC2dBZVk7iZ1LxMgJ3tjFS/rk6PIiooPl/5BylXKu7sfPpB3hFTSCRWeZtYcrj2G/TcAey/3yA4NK7dcjfEWTasXDSx/Hr97NxKw9QHT3zlt/Z9DwLos5nhD0hd16V0nvdfwXYT3MToZen974/Yw8iZe1/w+r8bV2sp8Yn6B7iSDVexJNumLjRFINEYEamc8FP+Lxv3+7Z/89ff9CysC7/3nwad222OsoUVW/QzQ==
+casino.spot.	3600	in	rrsig	DS 8 2 3600 20251003123103 20250829114940 44589 spot. boNI/31yaKb4vc3WiQZqkKIjTHuMpzVDbbiYm2guBPcdIgUJni9tzDuP97sxkf7MTult722JOVi3ttN6Fu+vEz9bU2oZ1vrq0H2A0wbr2wUn2/Vcnpu9wpEMXvHvVqOkI8UPQtx+JCSHnFd4xt1apByxbm1b/c8E9qL2vKUgK+uYIxPnKu4x73lrzXXaBN0dYG8pbJ0niOPZeg3HdQ1R3pRiE3WQxac2w38+3TPm5QdkkjkCceF3madBiugrKnykA4eSa0cjATkUYD93GGdiFXWvi3VLF64oaA411bgIWMp37y6ZU4CXmlpbkOCBHjKy6/jEhyl6ZELxkgT4Gl5IYA==
 cbre.spot.	172800	in	ns	dns1.cscdns.net.
 cbre.spot.	172800	in	ns	dns2.cscdns.net.
 charge.spot.	172800	in	ns	curitiba.ns.porkbun.com.
@@ -389,7 +410,7 @@ charge.spot.	172800	in	ns	fortaleza.ns.porkbun.com.
 charge.spot.	172800	in	ns	maceio.ns.porkbun.com.
 charge.spot.	172800	in	ns	salvador.ns.porkbun.com.
 charge.spot.	3600	in	ds	2371 13 2 14F45BB0F2AD36BCEEFC634951893B3496F199C5726908242390FA9E89809C5C
-charge.spot.	3600	in	rrsig	DS 8 2 3600 20251001002440 20250826235030 44589 spot. 0cXGSaUq2OUCIab1bIbht90uTfBgPu31U1buMOAwKQEg1SBn7HRw24L33ZtlAVVehN6lul/A9I2se+CnMHdQdTYEAro97GZLi0sFE4g47p2x43VKW0J/9LUySivQCQPCe3S2LV021UR0KtZSpuMGy07PzJOgG+i2a2TlTZiY2e3P5XZBF6G/W8WgDT5sFfSeqL0MCm8PKWZ3sDHU3hN5b0+kM56H3TyDWvOOszaGDvGAiZqoY1zw1Vo58hxCh30dsuL5ope5+z5PhofCGP3fsQf8FfVRdMntHsHkZYgKFvn8vjPrpqE9z5VLklY8E0gDlOoFdZuZL/OR907AnxTw7Q==
+charge.spot.	3600	in	rrsig	DS 8 2 3600 20251007234526 20250902232440 44589 spot. DliYPUX90fAwqj7E01RBQJS0SNngCbDoy06zT4Rtekzm7eaQqKqscp9YRetWnxVneusj2gCjnWiK775uUoXpCh3ar2cKSYZlYyAHm0znqa9r7310WsZUAVFjkggUzbZ9/KkTH43UKTiLBSY9ZhlgTK3FgaRL+zVbI0ILr3jaiUOqJkJyYQVQvhmTcOqcS6GyYgWwqXOk22hp2LSaUsgk0iCpYJjKoqN1McgBqhoOI+VrIwkZPiia1ldyYm4m0/zdjjdhFjcQ/gHBiMMVOV6CSgQcfDVMHQg6W9DBH4g1IjvTaKjk0tgt7SFSi2p5fb2NjMO+HvobQnZSzWp2lmW2Yg==
 charging.spot.	172800	in	ns	ns1.atom.com.
 charging.spot.	172800	in	ns	ns2.atom.com.
 charik.spot.	172800	in	ns	ns-139-c.gandi.net.
@@ -402,13 +423,13 @@ checker.spot.	172800	in	ns	fortaleza.ns.porkbun.com.
 checker.spot.	172800	in	ns	maceio.ns.porkbun.com.
 checker.spot.	172800	in	ns	salvador.ns.porkbun.com.
 checker.spot.	3600	in	ds	2371 13 2 994AA5EF7892BE506637E24272851D2F6DEA4421C0DA86284930F41EB1893C5E
-checker.spot.	3600	in	rrsig	DS 8 2 3600 20250929164203 20250825163621 44589 spot. xgvHCczrj7cj2PVSPdeHH+oTbYxSnmPGtB/Ffm0hxc1cqybxYwJV9nySj0s0Hyc61+j2xYg/8+VSIJ4b6sotfvZaBTnL+bO2yJ3+tYergVd4tZ70Iy7o9LOc1iyc4gfXuJx4xHgF4Gz1/OegLd6yzZNCiaV7dCsbFNfueZ05DCmpCGTT9nzQkIHP6GTebk78XK9GpIjl9O9sSTQJagsnNwsaZx2PK09YTZaoXdxKN9ZPMr31/T6Sl9RiYSCMNjK6nWC3e41tmU40LWjFZ6oFFRV7f05PuN/8LJdx0mvgr/hT5BPromjsqY96a0NOeD8WQRpcowON6r+4uwahLcYzVw==
+checker.spot.	3600	in	rrsig	DS 8 2 3600 20251006162124 20250901154203 44589 spot. Bt9Ze21wSCqLwT1vktBPiGEjUmUjKyTZx3Q63Q92Z9fcu+WqyPBIV/sySE7tab/o9l0cYW1oDZtHthm9LARKXjyHlXCJ6n9OPgqldxo5Co8dUfZRJT8kJHtQf725Q6u6np+8jD2nRQpwA+k1foRf3rHzokBgIh7UCNr55Z8TtIaRlunul6tcjdmzrCFGlWSUU8vb57LJqjC5XlEsbbhImdLYZ6oY4eb/5jrxasY1sEoRHjW6q/BPjsiaN4fjN0VrMatInnYVUf3fW5DMx7oRJUjQJXMMNoQjA4uRsDEFLD2EDnmJrmtXzKFdLorvEmRv02+atU2YcMWJpgFe6DS/tw==
 cheer.spot.	172800	in	ns	curitiba.ns.porkbun.com.
 cheer.spot.	172800	in	ns	fortaleza.ns.porkbun.com.
 cheer.spot.	172800	in	ns	maceio.ns.porkbun.com.
 cheer.spot.	172800	in	ns	salvador.ns.porkbun.com.
 cheer.spot.	3600	in	ds	2371 13 2 21FCDAB6412B3B79E031B534045E0238C6BACD911090F53CF690BEA58198B394
-cheer.spot.	3600	in	rrsig	DS 8 2 3600 20251001002440 20250826235030 44589 spot. DZO9pnr1oE4ttNiQAuVVeLeztDoDP9cpJoUBblWS6WOadbfuCnMG4S0UA9XNChCxULXkFE1jyB75dxjQfF2iOU2NFHIgrBM/jdbwqSjUVJbjnLL6/JjLY4USRN8Vn8jRfHzXBb+KV9M8v6/LWuXh1JacIA/MhHWf5FL5OIEBK+zebyOouCFX3VTzEn0vBAgiO5K6zvwYcnW1LY1LNRFAxOxRUy0ggKhzgszAvOc1BQcPtGUyCW/WYDn29h2/gDXsZ44w0cPz1kTtNZlB4acJsOfunaCkrBkOykFFMR2RWGK6XE+WMSFCl5BkjUMl1xNciqcVRYth9jnvE3GVDNQj3A==
+cheer.spot.	3600	in	rrsig	DS 8 2 3600 20251007234526 20250902232440 44589 spot. ED/GaJkl//K1R8Fh2QSZTNN3v1UxKQdgJXuRqwm/cebJo8/3L423odAryaVojrflxYZk5gZGuqPxs7maJjheI3zumXx8PdIdTRYkelzFSdC0PRqFIfacz4j2wLykmS12CUTIBnbkW4QuTC5FtbwIKiwmC1AmMGxxOXtOf09nJyU7+4Ca299gjkVRVe6e08b/eNpSNRSzMIYIShx8RfJiqYXqbt2pZkIXlGvESbddAQuyjuAaMsNd5Um4kI4Pxgd2KtEr/wbGe2xhAsUhg4d0sOC8OLxVRjIrOYUp+AZGq9ju9k3f9uGHzcQp50YeJTROCVL7DDnPwQMTzWiBjiAQTw==
 chic.spot.	172800	in	ns	ns1.dyna-ns.net.
 chic.spot.	172800	in	ns	ns2.dyna-ns.net.
 chill.spot.	172800	in	ns	ns1.101domain.com.
@@ -463,6 +484,10 @@ cozy.spot.	172800	in	ns	ns2.dyna-ns.net.
 criteo.spot.	172800	in	ns	ns-220-c.gandi.net.
 criteo.spot.	172800	in	ns	ns-226-a.gandi.net.
 criteo.spot.	172800	in	ns	ns-235-b.gandi.net.
+crown.spot.	172800	in	ns	dns1.p07.nsone.net.
+crown.spot.	172800	in	ns	dns2.p07.nsone.net.
+crown.spot.	172800	in	ns	dns3.p07.nsone.net.
+crown.spot.	172800	in	ns	dns4.p07.nsone.net.
 cruise.spot.	172800	in	ns	ns1.dyna-ns.net.
 cruise.spot.	172800	in	ns	ns2.dyna-ns.net.
 cryptoalerts.spot.	172800	in	ns	ns1.dyna-ns.net.
@@ -520,6 +545,10 @@ cysmos.spot.	172800	in	ns	ns2.netim.net.
 cysmos.spot.	172800	in	ns	ns3.netim.net.
 da88.spot.	172800	in	ns	ns1.dyna-ns.net.
 da88.spot.	172800	in	ns	ns2.dyna-ns.net.
+dabet.spot.	172800	in	ns	launch1.spaceship.net.
+dabet.spot.	172800	in	ns	launch2.spaceship.net.
+dabet.spot.	3600	in	ds	35182 13 2 E74CA750045DFCB4637CEC5F352A2DADE2D3443ED3F373B7A135BA8508C5EEE4
+dabet.spot.	3600	in	rrsig	DS 8 2 3600 20251009233742 20250904232041 44589 spot. tHmacvD4eMMXkr/EdapO9J0RvOLFHm0aHbltppLxgY5rZ3MAX4qT9lII2lNSQUbcVe+9E1TPwUbDF7bts3Kl7+VB7vEhRIrJoJiJfRp2xkKo6kFUCHRF2GeVUFps5tu9xfspUXT4CU5p6d03D9W1YcLHePUenxvYd7qPoJqVumYMJ/OT1uEfVLonDPmAjclPsMu/9YBj7G0Lqd0YPCk+bfJkXTWlgA3fOwPPxtx1PwNoDMggHFH4bIUvyEpIYjSGAaCC46AjW18nghog5fpGM9mYjoS/lGSVdPCaAwGkgQWDQHr0AlHxIaFeZ03duXKVho3gtPrAZcX4Qaqv+XhHSA==
 dalkia.spot.	172800	in	ns	ns1.iptwins.net.
 dalkia.spot.	172800	in	ns	ns2.iptwins.net.
 dalkia.spot.	172800	in	ns	ns3.iptwins.com.
@@ -602,7 +631,7 @@ eatable.spot.	172800	in	ns	fortaleza.ns.porkbun.com.
 eatable.spot.	172800	in	ns	maceio.ns.porkbun.com.
 eatable.spot.	172800	in	ns	salvador.ns.porkbun.com.
 eatable.spot.	3600	in	ds	2371 13 2 3624E50E5BDDCD855FF3E7EDDC3E9D227B0B6F52111C311EA9C2F142CD943317
-eatable.spot.	3600	in	rrsig	DS 8 2 3600 20250925023801 20250821022526 44589 spot. G9N95YxNzs+WJ0beqoDvwepRDXnggK9129qMiNzkVn/smi7lMpHuz0fQtOAbHa0HRUPSfQrgTmhuoAqSLsMIDQgrKnuAQ1Uzfb+Rf5ZJeO6TjmDrTTPhI6GrHy2BlA/RtgXm+8cEqTeh8BMwkQbDnwXdXn1r/0FmhY3NH/vQix62H81o/7sWwysOUovsFJk8OU8V86ai8TP6X3IO8h972Jg33MYJ3VkSJFrB233uvRkaWzMPhiSGwuvOWJOUai0Q6x9zKQCgFh9s7bdyPwAXlEWTWKOXQ6GmKUaysAVT40nvOQIIG+7tKI9efKeGQVQMxRP7EZdgJhOl2LPfMB+xkw==
+eatable.spot.	3600	in	rrsig	DS 8 2 3600 20251009015755 20250904013701 44589 spot. jzMTRZf6A6d+TOHbNLKtaYEDAEATDRBGXcJM2oLWF5qBaKFwkcJCnhvog/JzcvjzpzIErvT+9qrxXFrNmj2ebu9zJPASeUzZk18p/QxWEc81C30ZA8O4X20jjgnaVTlrmfGXXyeyQpDhWKDPL/CXT+0xPEJcZ5dof+2gVpQOgMz9Aki+zbrC1WNh/VALRDLES6ixHn4LKGzCkQfpys5Z2BjvilkoQ1A3srGNq+Rf+e755wU/f6JZWinib4UQndEcpsXUZNTaIE1V29hdHeAJb7IbliN+Ju0eMLaULxPl2Aob5dRZo+Bbssn1P2P/hYjqq6BxWTnXlc0qPimT6TywTw==
 ecom.spot.	172800	in	ns	ns1.dyna-ns.net.
 ecom.spot.	172800	in	ns	ns2.dyna-ns.net.
 ee88.spot.	172800	in	ns	lina.ns.cloudflare.com.
@@ -619,7 +648,7 @@ elevate.spot.	172800	in	ns	pdns2.registrar-servers.com.
 emoji.spot.	172800	in	ns	ns1.dyna-ns.net.
 emoji.spot.	172800	in	ns	ns2.dyna-ns.net.
 ems0vdjlgggldtm9401d0n89hof2m5hq.spot.	60	in	nsec3	1 1 0 - F250SIV84F6ESHD20JF1LBSVH500H60O NS DS RRSIG
-ems0vdjlgggldtm9401d0n89hof2m5hq.spot.	60	in	rrsig	NSEC3 8 2 60 20251001002440 20250826235030 44589 spot. LOxckSb3BOKdESXq4xucTatrHfzuDzpCBKfzQCcJCGqTuu+c98Lc4mljR3vAS7/KmVlIfPwVGFtAbIDVPgJHUr5xlAKajh79OhDmqdAYip63ANTotZ4lNG7KI055SM+yoA88igNwcpQLyNh2+PpwHHWY6n1PD/V1L3h2mgD1HJeWa/TaE3KdU7tFkBx/oesPXfHyJ+m5Km7WcnxMu7OJUOCV06IajxgKfotPu8tK/n7Lnaoc/lhpUMBPXxpBOAHV2KDckbe8mwVsYPWcij6C0D1srwIMwg+kB1F4Ch2xpYGY4iJVQoJ3HP44q6m2iIhnE4YE/nWBgLvP5/8QDiKh2Q==
+ems0vdjlgggldtm9401d0n89hof2m5hq.spot.	60	in	rrsig	NSEC3 8 2 60 20251007234526 20250902232440 44589 spot. gWXL9sO2LBx/PzVevYDyGEuYMCeUTWKbEbX7MQHU6eXUpfBP4rdPQXC09q21qy039G9pF8o3HUEcCtQmxa/X+FgEErbTjTf+I4VMT686xN+bfBc1T4SdSDWKMFVr9F3kcQRZQVjKoeVxEZfUw/iacTP4p0DeXsqPUfbsYzgMPc/0Q2WWvTlsQjDqO0pYILA8mQSq1lKwRAyiJ8FU88gHSk8VIB25jfdzyA5AcRRf/ozyT0KxVgttXsY2itXiM3+1WjuURozhL6TK4OmfMBxJ4YOjxKfvgfNUrCbmXHc0I1jtGLq3E3Q9oEpPuILAOFw6A6utO+bW+sF95bP2E68uRQ==
 enablement.spot.	172800	in	ns	ns1.markmonitor.com.
 enablement.spot.	172800	in	ns	ns2.markmonitor.com.
 enablement.spot.	172800	in	ns	ns3.markmonitor.com.
@@ -663,23 +692,27 @@ eversoft.spot.	172800	in	ns	dns2.registrar-servers.com.
 evtol.spot.	172800	in	ns	launch1.spaceship.net.
 evtol.spot.	172800	in	ns	launch2.spaceship.net.
 evtol.spot.	3600	in	ds	29385 13 2 D49B79E7A3D8C543E35A68F3F27D3B5038EF9E008C0BA6317E094D14F3F21738
-evtol.spot.	3600	in	rrsig	DS 8 2 3600 20250929011147 20250825005053 44589 spot. uEgq2aNfLvlb3Xvl816rnGX0MFdAvKBppi+FDOql5+YjwgjjzuS0JVfoM2MCmZn8ominHsVaxSQ8WTeAOSNAhktRHZlQXMoRuNDXzN977RMHx7dTBHZDYMvGgbFNw+LJihpnm0NPeW5hnaOZUWVtVI4CyVNm852FdnR0xJ5Vg3X9B2LWE0Mp6CKHdnmhci3bpz7JlThb+STJSQ56N8WmoMBTpdnvK6bavCI8owM/AzdFSObINHWk4Xob0A+UvBFqoJKmOvzlo8tUk+wIzhpe48DJvZeO4lcKnpbi1QvvVY8rkkMEekF1JFZxUol+kptE07A13fbdo0jHip7N/7QbVw==
+evtol.spot.	3600	in	rrsig	DS 8 2 3600 20251006005249 20250901001147 44589 spot. WXC4zHHfoYS+xMQr6wxmHTGsh4PfDaU4jCohOxP93+A+gi9fCjBM+dBIsNZPjLWryUdLafa5Q5zxIH+xNO5KZIH22NuBtnbcurMDxGW01cFNtTOxmiWmpxm3S9VNYpPh9bLtnPATvfe1838sFWTe4INGOyFKTT90nMR25ZHHCRuqmd34qqwuyLgPDB/DqVPUsgllvd6r0mtT2L3sWDGyD0w4EChwKFKeljIf7FA/P2INPTuLQNeEY4e2B8hdgxH6o/7heuNFFGNrVsn5xjQQQXipxHaE+INWvBi2sBIHVFFYFFE+fZbX+/ndd/lbph2xHtm8yn2IZwL/1KbbMQSXsg==
+exhibitiononline.spot.	172800	in	ns	dns1.registrar-servers.com.
+exhibitiononline.spot.	172800	in	ns	dns2.registrar-servers.com.
 exot.spot.	172800	in	ns	launch1.spaceship.net.
 exot.spot.	172800	in	ns	launch2.spaceship.net.
 exot.spot.	3600	in	ds	21565 13 2 C144CBD3DC61188780BF39DD5AEA240349EBE47284EA0119227C48CCE93F455A
-exot.spot.	3600	in	rrsig	DS 8 2 3600 20250927115057 20250823110643 44589 spot. vbtJg8RxaSlEh7BMNSNEp/nXQdDPMSthpJPuThDdpfde9Ao/Rm5Ai0KBRuIqVyOCkvTe1c0ETQjuxrpdKE0F9WH/mZl6Rh6s6dZudtJQJLSwlJaJhySR1E+la9gEs3msLbGVrsjZIxheAzvUSzqmshhb4+3Q71zP+gwgv5ZM0joFgpN/4XC4mIL9+MAS3trWGQGS2UjVUt1efbeVYmbhwohd0SyaQQhoWUaGY6ofsI/qNRBCTUzAf4GU2hASxzmSo4mDl9i0K+BS7M8jOurW9iCQIkoyAD+BSKUGG+wUhjXvOue4gAu31UK4EcPZ1IniPtxA3ntc2dFvFjKGBh6KVw==
+exot.spot.	3600	in	rrsig	DS 8 2 3600 20251004110716 20250830105057 44589 spot. nLSwVyv0if59v9Ul/61j2BQsXG1uizAJhi/t3nIhMSozwOZvccuZa3yhMYxtpRWys8WfkajZA+VYryzL4zuyuX3vjXqvnPoR8uRXb1WEsJwbXWhB6E9tvPJ6SxRrBvQPE0/e6WG1PznkOlfjRlW37VbNi+jclSNKIZ6Jp+zF1q5GqrDJlAIo5c707LwkEndxUDDks0Wf0BuyyoTwQrqXW+uIHR2PQAKhZfpshvrOso9YbItxQxokStGv5fYREKsBZxn1O/XVlyf5oQPHgLbdAUUSR7mUHB9VQToJ8YedblJoUkzMmSpMJOeTHlJrgrG3p9itDw64akkbtV7I5BWVEA==
 f168.spot.	172800	in	ns	dns1.registrar-servers.com.
 f168.spot.	172800	in	ns	dns2.registrar-servers.com.
 f250siv84f6eshd20jf1lbsvh500h60o.spot.	60	in	nsec3	1 1 0 - GNR8REFRDVBKIQ9L4E7IKIC1FRC334OR NS DS RRSIG
-f250siv84f6eshd20jf1lbsvh500h60o.spot.	60	in	rrsig	NSEC3 8 2 60 20250927154452 20250823153500 44589 spot. cWM+/rBZY5nZ/ZSw1J876faZBSshc0CEFkoxYYnee9MTYjrXOi70Gnx4QZxR2ncc6oaY5ghBiBrvooYdU1Ensh5VBJM562u3FeRPpUkQMxLTwfCJgwarVBI3jhFeNBF3XfQTOMAhwArYITm0YKSznWzLGoE5Hew9Lg80rfpOjgRULluC7g9Wkl9Ti81QvDNw5IX9kTNw0axqHFmvYKmj54YtoLCEZ+m6oYOiAQDUjCG2HsLSXJKz77QU68FoB1BqsQGiYRkmCYV2slK76C8lKScQxoa5xKcQNzrMp00PQcNPXFiPNrLuUQBloC1wCRflpauM6ypK6AihFl3uwOh+kw==
+f250siv84f6eshd20jf1lbsvh500h60o.spot.	60	in	rrsig	NSEC3 8 2 60 20251004153012 20250830144452 44589 spot. O1TTe6as4HhdhSM7QHQsDFj31UzIuWbQlXtkcZ+ndXVheaa0vqkignU+c9WawFFbw1pNmJtqFoMJKsuUv9gPvKrshEi6uV+XtxsNm3eQ0gKEj7dgkpdXfQN0avTW8U0e5EiLR8b/RGVnK5krthl+V+ia/BaqL/+hk8elIw3hx5/Daua9CtLNa1Ht2y+LX7gfmlhCpFi85DzuFShda+t3F+R6JRKYYRM8g+N7py0nkITiyBN4hS6xQ5JfhtgPDoSLsdEWC60E+XX4Mjqv6n4RJO8Y/71icpXfqjr/nIXmDPXqK2E2oqDfIe94hx7TaXuDQJLIJxyOVJpaStyAoSHmlA==
 f8bet.spot.	172800	in	ns	benedict.ns.cloudflare.com.
 f8bet.spot.	172800	in	ns	lilyana.ns.cloudflare.com.
 fabet.spot.	172800	in	ns	launch1.spaceship.net.
 fabet.spot.	172800	in	ns	launch2.spaceship.net.
 fabet.spot.	3600	in	ds	39832 13 2 F5FF5D03E7020746CC202B2BF0431E3B6FDE1225F67C2757DE43CF052FF83852
-fabet.spot.	3600	in	rrsig	DS 8 2 3600 20250924154302 20250820154218 44589 spot. hp5KzuMMJNRZn106+L5oKdaXlYTgde5lKTchKcL1bDyvZgpcAXWhEbgC83TlVMcBNDd1oBucDtls7tB4p4FRSflv0hmsAupe/LsBQDAIqPZhl4gToli2Ui37LkGLm/wybV0cRVrng7czAVZozpnfzWhw663K+haNwytBwgOYm0qVaQ76gWXwn59hWq4p+5boZJTj6ngy9v8qj5S6jImB65aO/8JqGYuxeJfwt2A5Mi7B4pUlYeIm0avMaZzDaQOadjpLXDAJa05O4GnbsewJFU3V6zZtpnK6Ah36BVDysdDmJ/zrlS7IONjvo/1AG9M427R/9mzsBYKkET3yommzfw==
+fabet.spot.	3600	in	rrsig	DS 8 2 3600 20251008143001 20250903140003 44589 spot. fQ0bDAhyzYUbHmFEEdKIySSEsCYhvLTrvY/rbG/2Pimv4GIxcbi12HbQWMKUuD6Kw4JidUwr/rXlHIeixYVUYbYpsvk9NUEEhqnqRxCofPqni6zHX06zIsRmKx8Gge1MOOta7LsJdj2b1Ed83U+bxUSgTn6er9tXPqpPxsOpzb1GyZHo1YT93Q2E2quJoiaKE5/PnG9DvXNWGnK8LYe4R+te9ZUk4WKe0iLLfsiI3Hg5DXcyh3I9ClgcBXi5dHAoQ9StIYedywn9KOvRneTs3S/HtP5QgvaorGSb+zg+7PT2nrdlM7/LsnjAcQdznK0R7a0Zt3Meqe17Njd7q25yvQ==
 fairplay.spot.	172800	in	ns	dns1.registrar-servers.com.
 fairplay.spot.	172800	in	ns	dns2.registrar-servers.com.
+fanclub.spot.	172800	in	ns	corey.ns.cloudflare.com.
+fanclub.spot.	172800	in	ns	joselyn.ns.cloudflare.com.
 farcry.spot.	172800	in	ns	ns-25-b.gandi.net.
 farcry.spot.	172800	in	ns	ns-28-c.gandi.net.
 farcry.spot.	172800	in	ns	ns-9-a.gandi.net.
@@ -702,6 +735,8 @@ fire.spot.	172800	in	ns	dns3.comlaude-dns.co.uk.
 fire.spot.	172800	in	ns	dns4.comlaude-dns.eu.
 five88.spot.	172800	in	ns	clyde.ns.cloudflare.com.
 five88.spot.	172800	in	ns	elle.ns.cloudflare.com.
+fivebelow.spot.	172800	in	ns	dns1.cscdns.net.
+fivebelow.spot.	172800	in	ns	dns2.cscdns.net.
 flcmanage.spot.	172800	in	ns	dns1.registrar-servers.com.
 flcmanage.spot.	172800	in	ns	dns2.registrar-servers.com.
 flexi.spot.	172800	in	ns	curitiba.ns.porkbun.com.
@@ -749,11 +784,11 @@ gamechanger.spot.	172800	in	ns	dns2.cscdns.net.
 gamefai.spot.	172800	in	ns	launch1.spaceship.net.
 gamefai.spot.	172800	in	ns	launch2.spaceship.net.
 gamefai.spot.	3600	in	ds	20711 13 2 60676CD2D5620481165C9FFDC3DA47C29168EC7D03E7A5B0DA3984FFC0DF1F7D
-gamefai.spot.	3600	in	rrsig	DS 8 2 3600 20250930231945 20250826224219 44589 spot. kl/pV3wVi+bBJz+E9VgF8IdlrQt+j6knSnuy8lXnnzcrnm/i7YgkFpkuQ8MKiIifLgVv2r4idAmDTodcyuTCuY1d2KC2eBbjXWZ8T9YRWCHiN4waDcoDnXepSdcSnpjxKetOhnvj/xPvv+JDYIqxRZ6xrjcXqeahZJIZKdlmPzesWOcJPsvqfBroP7NB/hI6CrSuf9lp3KlmaZLgjD4lgZD4L+f+fKbnA9BRjNaLXf1ya7GL4KKdN/oxcKyPkTBDjKtpVsNYZ97j+FRARD5UpzRz/3xaXkHXA5Ca7DU3k8M4d7+ikgTpM2JJ5JZlFKSQQbZ3efXU9V/rqgWjWOubGg==
+gamefai.spot.	3600	in	rrsig	DS 8 2 3600 20251007224127 20250902221945 44589 spot. CcJ1wVnnvYCQyUZjk6FaKtoThmJ4FKyL99eqjtlH3Hudvw60f+JNjWfppYFt1Em+Ic2i0nJ/ZA/urSajW4mIdO436t12/HHrV0dEGxV+XXOziSOQD6Y9N6ewe/MzoPvbxZyjXJiFqL3xrLLxxcaCt6WM4wnOK8x2UgvyIr/kMFfku7FfofmRsUnkwWURhQq9LzHbhD2crL1VBpiKT0G5Q5sCEWpiw61BN52u65QDbyKr0HWp5WEtnb8jDzODBapKEWb+3EWwWF7+fXNHNKtZfRGXURihmMzp0zzsopeBswFZ4qn4DrvJYOrl0vh9rwQS0CE09HnpZHIXfqHCjr+wow==
 gamefi.spot.	172800	in	ns	launch1.spaceship.net.
 gamefi.spot.	172800	in	ns	launch2.spaceship.net.
 gamefi.spot.	3600	in	ds	59473 13 2 64E565046A1FB965DC9D49635FD8A830B3AC7BF0D50070D09BBFF41F21DEB709
-gamefi.spot.	3600	in	rrsig	DS 8 2 3600 20250925130940 20250821124233 44589 spot. AqrbeASGdgxRaWP+Z9jVe4wdHEiPSQMusSQNVgC0zFR6ahAow4uA9DcxNsVZ0vDAleYWqD0+48PWPEei3YqF7G6JdLqhYMteOahNWQTXPTFYVwLg+g7/hh9999n/gJBVvPpGKr/sL+UnXwwQTS5xuqXOK+qojTQ1pLmq/7k0jA2oAoJZoeYmjKi4HE9GbcyqVoLb4elMr2bjicKdE1RSh/SufgRXiWtwtE5xAwG8XG/unA1yUBIZtci0JVLzg2ZEwMV6a62dyb4TzebRiQNXRARDwHucAAN+Shlu6kuvbyJUAHrtaKr4y0vsTaWlksE/oL95MObFT+6PAHSvTqExtQ==
+gamefi.spot.	3600	in	rrsig	DS 8 2 3600 20251009120448 20250904113612 44589 spot. jlHuKDgxkKns1ZNSaGowlymobTShVKKlAYiBGquPK65BcKNtqSNDCcb4rG7Q1mUbqRE+t2HkEqwfPjjhsdJcsj344Q5ZUAZdC7/HyKy88VSuS2cJLywPaEIMV0J/vNBXODX+JijVvw5+A72pfqCtYWA+bGtCKUo4jZC9jjhWo85qPa4FOlVe5+V8J1ZNYcMuKOMjqICO73Mwv2Jp6KUknUsKsdgVrXVJodIjJzPhSxRUP8e3wtiQgcMiLDsIuyfjxpzDO5UJPjI/Nz9xOuDOHoNl5TpKHqfQJTVfZPDt+EyirCa7P70JO497sjMYtia3c9lrcu4v15choT7i/B/cFA==
 gc.spot.	172800	in	ns	dns1.cscdns.net.
 gc.spot.	172800	in	ns	dns2.cscdns.net.
 gemini.spot.	172800	in	ns	ns1.googledomains.com.
@@ -765,11 +800,11 @@ genai.spot.	172800	in	ns	ns2.101domain.com.
 gentlemens.spot.	172800	in	ns	launch1.spaceship.net.
 gentlemens.spot.	172800	in	ns	launch2.spaceship.net.
 gentlemens.spot.	3600	in	ds	60531 13 2 9ECDAEE5587A5A4D0D7237ADAA8A1F328F6D64F0408C2D81EC5B6301F3DCF998
-gentlemens.spot.	3600	in	rrsig	DS 8 2 3600 20250928015758 20250824012632 44589 spot. RNsO7sEC/p5gCOVr+FEm2mSj9WPM5Fv2svI3VVxWJ8UVn1fsT4xqPeeW9ESWPCRqw6itFCVDH7e0kpn9JIEZ23ZnvdVl/Ml6jRXYDJn05UyLF7bc3PnURi4Dd4zC9sIhIkveiYQjxHAPZAS+q7s1KH4lGaHjogBqpZYOkuahubPp8efoETSVI7kdKLfqqHM4MtVfyBLk72nXEYGA9RyRtVmPITzGBTEU18DMMw0JqsNYHUoWTCV8qd+K1P9oetEu7gOTa2AvceO3GFRG2kNsnAyi4tFvYJ3+xz52dpxNyrADomfo7ciyH7w6iqTfTQ4k/jjMlkyCOUHfqD6cUE0OlQ==
+gentlemens.spot.	3600	in	rrsig	DS 8 2 3600 20251005015454 20250831005758 44589 spot. 0/aWnYetJ/NUW8QnBlxbXr3fiA5HC5N+YfJSTQAfE/1iVHJrIYMvqcK8SS0Hzfg0iqCNnfshnOpbsp23AmfjAqYGM3RfBBxWS7VXRWmKSPvCDX1NOQxe38FbC0lP8d7cVXf7KZadUqQUQUO02CPCoTp12LnJBFgPFEo4+lNhqEJ/2/MkLBKQlHfGfsewwVby3iBhC3mcK/IjuXrXyq+WPDImWiD6c7Gz2/Xsog9KXs3yGUClZDwnWU/POxKlQN6yViM98RoYcpfRxazfKkjOgS/2Oh7dnzwiZMJR+XuSovh7pZuvOWQ0jIDo6LL6GJBPWQLsGWQBgK8Tq2TW0KSpdA==
 georges.spot.	172800	in	ns	launch1.spaceship.net.
 georges.spot.	172800	in	ns	launch2.spaceship.net.
 georges.spot.	3600	in	ds	18453 13 2 EA069EA40F285F47674BF2AB10D5FFD3C61F4AE34EDAF5A1D5F1B6A426EC0AD5
-georges.spot.	3600	in	rrsig	DS 8 2 3600 20250924223702 20250820220351 44589 spot. HhWZnZwnmn+jaEFWV8zTFytvLUYUYf20/SjqQvEVAAI8GpG+/aSARS2xuyzjA0qQ/4nNADJTxwWgz9PyCUJJVM1oZ5pAAFG+xSGJzNfjki5pBgfNKwHh9EusBVB1nYi/YwlBXq/xTAN5x9pWefywaGsoz8bB8sh4Weq4d7rXpA00AfuGHYO2JXXYjvdSDdW9nbrgV1mVdm88AXoh1d9CDAHw32EtHWnAtWCWMF9Ho+mEAQyVzJ/KR0/EQaAluD1+cE8+wVBKw0+2eh1RTB5yvEByKZPVNhituAhOO/pAYEmVy9LEz10b16J+xaDrglG6l9mwno1A22jz05MUzvmnFw==
+georges.spot.	3600	in	rrsig	DS 8 2 3600 20251008220332 20250903211048 44589 spot. tg8I9CsqiZVNHOS9m6D/2u7a+UDINxk+ke0HQwcafwUY2oI9KXaXC7tRe1TNV1vpcFoqGYLIN4V5MhU6MxRWeZF8EXOEMXjNzgf7A/W9bsHvEUiE07saV0VG06zeJ+RY4NFkxZmbHvPCbpq8ibYBusxyBOYucUG2iiLMxlK2EygrU/vAg0JMi0KBO3y9m4M6MJRwhRTfBVmNUqjCAPIMh3zDpQNO/5hjCtsGX3O58WhEUFADdeyTOJYkQZeBq/Ljr2nkhQlZFrLl38q4A+odzgU3FhBZGt30acl7M6ZramI0KTkecd3P8/Sf75Mvjhs4OXqTZ/4bA2KzhdYxlt91Mw==
 getaway.spot.	172800	in	ns	ns1.afternic.com.
 getaway.spot.	172800	in	ns	ns2.afternic.com.
 ggmgastro.spot.	172800	in	ns	ns1.dnsdienst.de.
@@ -788,7 +823,7 @@ gmail.spot.	172800	in	ns	ns2.googledomains.com.
 gmail.spot.	172800	in	ns	ns3.googledomains.com.
 gmail.spot.	172800	in	ns	ns4.googledomains.com.
 gnr8refrdvbkiq9l4e7ikic1frc334or.spot.	60	in	nsec3	1 1 0 - HGMN4P7DAIHE02KQJCVQ84JNCQVPV97L NS DS RRSIG
-gnr8refrdvbkiq9l4e7ikic1frc334or.spot.	60	in	rrsig	NSEC3 8 2 60 20250929164203 20250825163621 44589 spot. YTsqeK2kpfmQVZ38iq0VQjU9GlwyMg/9TBjmyvhP9I4/nI+4AY/4baihmlSwL85EIr+34yABxoTnMu1zFwknkFkxg8g8YAzBek3RU1hCnatHSnWWMaGe+YSISXwO5Do7NnktCketqAtQdazeTEvkntLigXXJNisjGnsgL5yxZQ5VoOi6qSGVqpqh2QZBMDr4jUo1GEZ5e34Nt9Duz5IGscC9nUnvMEALjOxbG24LjW9nB0j9xR1kgYj8RFyKs6IxXLj+uwbX8nhq6mDbDHOnCZRRkSAFVPjbecyB9G1B2LrsYECzrR1Pf8tpmP59sIyfxtPjY+6dKA4bSLV9Ew6t7Q==
+gnr8refrdvbkiq9l4e7ikic1frc334or.spot.	60	in	rrsig	NSEC3 8 2 60 20251006162124 20250901154203 44589 spot. V6diCUxxUZo/qMB8eo46YgevrohpDNORgI+k0cq3+IKiHbi+R9bBNhsN1LIvXY0IOBjjnjmO1UdHVf2dEeosXGluYaaS6VIME/OVVt4cIFuNI95oQIrYqA54CDo9K9evJWaZdakvCEmUXnOLAO7vaMO2eg6o99rOX6Fc+IcxweGBKOC5xhXo3ktak8e6SsPHcbT8iUk7qRh0cGk9NDjyZbuNNeVzdeizRZJW/zBGwEGsbElxMPNJ1he6puLi93EZBUKQCGPEj0IXRJSxyn0vcfQqmkwmB0NUpGni4ngpmIA533ZxWExqAIwNXdY1/Um5tQidSLMDcv+rrqt9/KR9Lw==
 go2.spot.	172800	in	ns	ns1.premiumdomains.cloud.
 go2.spot.	172800	in	ns	ns2.premiumdomains.cloud.
 go88.spot.	172800	in	ns	dns1.registrar-servers.com.
@@ -806,6 +841,10 @@ golf.spot.	172800	in	ns	dns1.cscdns.net.
 golf.spot.	172800	in	ns	dns2.cscdns.net.
 golfgalaxy.spot.	172800	in	ns	dns1.cscdns.net.
 golfgalaxy.spot.	172800	in	ns	dns2.cscdns.net.
+goob.spot.	172800	in	ns	launch1.spaceship.net.
+goob.spot.	172800	in	ns	launch2.spaceship.net.
+goob.spot.	3600	in	ds	61096 13 2 19D6FA27290EF7D839259E74D9EF6C5F76782DDA67448174EEBB7C02D74B4264
+goob.spot.	3600	in	rrsig	DS 8 2 3600 20251006083024 20250901073118 44589 spot. EZd+/Av99wD9Sk8y6ollb6PeNH9wWqMnihO7GA4msTZJkGDI0LUYUhdCq1+7N4YLk0iFcCYp9APkzaG0uaUjyk9En010o8/HkYEjlSqHbWlQvV1LY+4+CHT88B29AIi05nh5ggZyUCy/Dnq4qn2WaCcAiwrWuh3pctLSCsOs/Ihdu2OJO9CFEpvlsAPXLoNFyXofjYI6MuUBcpDwx6L23zwaySDeCvmq+QUwDY0qD6bBXDZkJwrwQvYMz5Umw3hdSp3fYte/nM/43yLx8z09a4ETX8nuJ51FfO3gcQ+nqB40tdeAjHJyklGTHsDNBMgGcxRf1H5CRu45TX+qKnNTqQ==
 good88.spot.	172800	in	ns	emma.ns.cloudflare.com.
 good88.spot.	172800	in	ns	leonard.ns.cloudflare.com.
 google.spot.	172800	in	ns	ns1.googledomains.com.
@@ -819,6 +858,8 @@ granterre.spot.	172800	in	ns	ns02.trademarkarea.com.
 granterre.spot.	172800	in	ns	ns03.trademarkarea.com.
 groom.spot.	172800	in	ns	dns1.registrar-servers.com.
 groom.spot.	172800	in	ns	dns2.registrar-servers.com.
+growthfactory.spot.	172800	in	ns	dns1.registrar-servers.com.
+growthfactory.spot.	172800	in	ns	dns2.registrar-servers.com.
 grub.spot.	172800	in	ns	dns1.registrar-servers.com.
 grub.spot.	172800	in	ns	dns2.registrar-servers.com.
 gymshark.spot.	172800	in	ns	ha1.markmonitor.zone.
@@ -833,7 +874,7 @@ halal.spot.	172800	in	ns	ns1.netim.net.
 halal.spot.	172800	in	ns	ns2.netim.net.
 halal.spot.	172800	in	ns	ns3.netim.net.
 halal.spot.	3600	in	ds	7684 8 2 8A9C001B1B18851ACDB40E8B656A776628D53476F60316676D1DCC1DC0E75659
-halal.spot.	3600	in	rrsig	DS 8 2 3600 20250928133354 20250824130702 44589 spot. griOuHlgObsr6Y5SLsVIE+db0z00X2r3qo26oyE13ttk0P8C6H/JYyk/X8FH763niML8QftvQNqnBuQG7YZjWxzaLkyF2uqpX7sCeCywzMgeyzL0eDTOPXFa8AoHN9AjnXqbKDGBOAqWj8RvT1Ako4lSI7Qs5VxDoF3r3XnFiEwRIyI+awpT0h/pUtXhLSJl4v6Oo+Ne/M6MFqXYrgg0Pw8dg6muwACkAWFWaMztz9E5QKqjAO79M5exJlBN5EFmQ4tdt/7hmckC3i+0eCElMjn57NpzlrFrZQRVInnXCX1Y014PU0Y9mA61MhJJZP+6QvhML4Jo/R/H+ctxf/gOnw==
+halal.spot.	3600	in	rrsig	DS 8 2 3600 20251005132706 20250831123354 44589 spot. MXu6jrxx65tUuuHQCGnAMMIiUFI40DLakjciUI+hDC509m/Z+3rSfhjdtvr+ozX0MDv6KxCE1KAO7I1hsnlk7zsqP9Am4k43kjwfQuz2dLtGTUWXGO9gzzU5VwLdl4/8KqOgL0FAQzB/3Qsu5GHq+F7xH3b1Hxs5rbpahzoTrmBOjMSy5ObeYhnzOtJVBjPH7qvbhXvakjNlAldSEHcR6Sb6awTNU2dB83UoctJ5bI2RJI1WzElf1YqP9ZD32y0aVLfyKrIh08QNfhCgD6fVXXMEtbiMs42uq0Qc7A0yFPh/kMCZ1suUD//NUblzYARevt2ox3OTgXGP/H9VjZdBkg==
 hangout.spot.	172800	in	ns	dns1.registrar-servers.com.
 hangout.spot.	172800	in	ns	dns2.registrar-servers.com.
 haute.spot.	172800	in	ns	ns1.dyna-ns.net.
@@ -852,8 +893,8 @@ heli.spot.	172800	in	ns	ns1.101domain.com.
 heli.spot.	172800	in	ns	ns2.101domain.com.
 hengongbet.spot.	172800	in	ns	dns1.registrar-servers.com.
 hengongbet.spot.	172800	in	ns	dns2.registrar-servers.com.
-hgmn4p7daihe02kqjcvq84jncqvpv97l.spot.	60	in	nsec3	1 1 0 - IDFCO5ASBPV59B094AP76CACGGJHB9LN NS DS RRSIG
-hgmn4p7daihe02kqjcvq84jncqvpv97l.spot.	60	in	rrsig	NSEC3 8 2 60 20251001002440 20250826235030 44589 spot. yniqzsQlCXBmAJjGw4aKMYD0bh1cnHp+pPAR0m7FaZEpB/vnhb2ThLtrXq2xqv1j+y9uIUkjI2R0LCxbPm4yy2cgC2KURpcEy7I9icNIuO/DllePHW+Yto6ZHb40JKx/yhhkrV/255BEggqqDz8hbQxMlnDYhhZt1RS2HQZ9VB9R8BrSPuM/vQKRFiLxn5tPHu+DWP07LkxP0kS0QJOVjSNqHpqd3wYgoNbaz2PFmqfu9PMSISIkLFdV8Hzyfn88PSHJ07hYymyidma+td1Lrw856R1kAspa0W0WuVlENx4B2PRCgM/YhCn3Kptsg5OhqyUoCQuHkTkIBekQKBy9qA==
+hgmn4p7daihe02kqjcvq84jncqvpv97l.spot.	60	in	nsec3	1 1 0 - ICS6UVLVSH3PM10L8TTUVVSB0MSHPILK NS DS RRSIG
+hgmn4p7daihe02kqjcvq84jncqvpv97l.spot.	60	in	rrsig	NSEC3 8 2 60 20251009233742 20250904232041 44589 spot. Mm4w2NqZdAa9k2Aae4hOZDysY7ktAcTDZOJfrV+LsbqSRcAwVlQkJES7LAXMkY1EPZqb6cnUcsqg/vHUxQ8HXT0XbBQe+q01gHRRNGgVL0lK6TDsP4uelWEh2/IvvPGXe8PaC+kLSYY/xIjVv5vzR2yVltbgLFUSeygSyC9Tv1/JD8hoiL8j3NuaoLocfWeHBxMsIYTgeDX3Ik9nIzSllYh2zMw67Mvm+4O5KtDdKh3be6hcgp+lzRRIwv0eXKOYISB8IEqTfRC4noRuvIXnLOJIBgPtBbdQRIPM2tXw02u/tY8Nn4i+qEcEJGBHJ8hjfyyduMNHaWIIWfhMQzZL0g==
 hi88.spot.	172800	in	ns	brenda.ns.cloudflare.com.
 hi88.spot.	172800	in	ns	bruce.ns.cloudflare.com.
 high.spot.	172800	in	ns	ns1.markmonitor.com.
@@ -869,14 +910,14 @@ highspot.spot.	172800	in	ns	ns6.markmonitor.com.
 highspot.spot.	172800	in	ns	ns7.markmonitor.com.
 hiking.spot.	172800	in	ns	dns1.registrar-servers.com.
 hiking.spot.	172800	in	ns	dns2.registrar-servers.com.
-hitclub.spot.	172800	in	ns	dns1.registrar-servers.com.
-hitclub.spot.	172800	in	ns	dns2.registrar-servers.com.
+hitclub.spot.	172800	in	ns	michael.ns.cloudflare.com.
+hitclub.spot.	172800	in	ns	summer.ns.cloudflare.com.
 hitsthe.spot.	172800	in	ns	ns1.101domain.com.
 hitsthe.spot.	172800	in	ns	ns2.101domain.com.
 hodl.spot.	172800	in	ns	launch1.spaceship.net.
 hodl.spot.	172800	in	ns	launch2.spaceship.net.
 hodl.spot.	3600	in	ds	1758 13 2 D73020D086212F267F179C58C36928E1244367114E526E7F395F5E7C98A42832
-hodl.spot.	3600	in	rrsig	DS 8 2 3600 20250925080509 20250825114335 44589 spot. sWngQYZxnCkEsLvj7LTwILFYAkjPUGKWV865Buo2AHTnFdya8bzqODQuxmVPGbd+G0/oGaZih4SEDDiU8OURF+TkPJlC151YbVoZj/M/nouxfl7Y4BrrFt83EvRoIeisc4V5fjmcIU3CRrQpdkxASKxxud0BG5M+fvRvkL1SySLokD70KhCo1i7Eqi0eDeOYPDsc6xTqGTHslLPr1uH0nt2LZDD1nvUdYvPdq5RCI397boDYaYEiebXaSaSZkBbxFjvdo0Y2MKKPadIBM0j6MMsBKxBYLV5vXqeePqh68NdYBogsiRaOSf/xgu04cL9Y/9CP19dRtI0Ry5B/bT7+FQ==
+hodl.spot.	3600	in	rrsig	DS 8 2 3600 20251009071717 20250904070253 44589 spot. g3b2hygCVH+tto1eiy+ocdi6rSPd0AF3rxvX700DtK7h4lE9duOUweeLLw4GQD6c/t5TcyGxVQiX38R7HFM9gqX1e7IR6yyrUP9uvii7UMTOEZC7GCesJZgdKjDRMv7CwM9Vx9LSa7AiRX9dOY7BFBNAcLSvbD5fKpO6goXuW3N9lOrWz/3YgGkxbiMPrYjfVkaWBRbF5UndgebirLmE2mgU9Mq5c64mKOX9j4SC5t+ZKkFZeNKMs5trSgJ5KcOEteZvGs0aBaxbgxWo5n+p0CG9jBS8XdM4Kf4hJPNLdMw4kQo8UCdv9UEmhxPnKl8tuPogVTOWlCad2ZKUJagTgA==
 holidays.spot.	172800	in	ns	ns-149-a.gandi.net.
 holidays.spot.	172800	in	ns	ns-233-c.gandi.net.
 holidays.spot.	172800	in	ns	ns-241-b.gandi.net.
@@ -885,7 +926,7 @@ holistic.spot.	172800	in	ns	ns2.dyna-ns.net.
 holo.spot.	172800	in	ns	launch1.spaceship.net.
 holo.spot.	172800	in	ns	launch2.spaceship.net.
 holo.spot.	3600	in	ds	10892 13 2 09598DD1B5012A10D189427D3F31099374B3647CA149B0260EB62D72DA0167C2
-holo.spot.	3600	in	rrsig	DS 8 2 3600 20250927013214 20250823005251 44589 spot. gACw/wP5yntc7z75R9MLc1gajvGB1NYzW6W6ZwFQQpeybBpiBMVGdwHIkbDBq8K/LXN4l49umTMLyKtnYp6nmOJm0a9gCWSNzqL9jdZvgLjl3lVXckwb+27e9tDySHo6Ie3kk/xYPr2YeHNp46xZFMBGVI4Yhd8eBaPLOSe0fULT5w5OIV3kQjb4oDzejb7Z6bGJ1pqsTe8+PUbxXSQHhqYrUBz74Ens6mF1b56GGkpcaAef3CNfsDA4vlg21MNVKv2e/MHarsHfY6JrrPUdTx+tjLhr1XX0rfyBWfCHLSIgrcB+FsH/b6XeXGMkuXRUWYunmlbFE0BpR7kf5g8MmA==
+holo.spot.	3600	in	rrsig	DS 8 2 3600 20251004010611 20250830003214 44589 spot. v75lEOAkOO8CkhQjrCEXCzfoe9jL1ZJ1ajxMmegyktYEUWGgaGMzjeWNE5eL+Al5U834q4i/Yxy6k+aFxd68ivF9DLmAhGr8brvz4I5IOtFM+pv7t/6GRg2iETx32a79F54bheRxrxDrQoI8ilaUaoUprd1//oGYnWKDdRTB52HCy/FLuVoCyx9l1CntGn3Zp7+L9jBlzAj5cAW9YYu3NoDdjXS3/293hpqJZ5bCRFKl6cjCAX9mYciNXRsftja8ClXuW7aEwCz1Ntprh9NNvg4eD9shqIcZHKHCUHKfwc4BqBDmh4RvWXyR5JUEjqEfGYEqmZwN9Ub5FK1Ibv1c6w==
 homelab.spot.	172800	in	ns	dns1.registrar-servers.com.
 homelab.spot.	172800	in	ns	dns2.registrar-servers.com.
 hopp.spot.	172800	in	ns	ns1.ithesion.com.
@@ -929,6 +970,13 @@ houseofsport.spot.	172800	in	ns	dns1.cscdns.net.
 houseofsport.spot.	172800	in	ns	dns2.cscdns.net.
 hub.spot.	172800	in	ns	jerry.ns.cloudflare.com.
 hub.spot.	172800	in	ns	yolanda.ns.cloudflare.com.
+hubb.spot.	172800	in	ns	curitiba.ns.porkbun.com.
+hubb.spot.	172800	in	ns	fortaleza.ns.porkbun.com.
+hubb.spot.	172800	in	ns	maceio.ns.porkbun.com.
+hubb.spot.	172800	in	ns	salvador.ns.porkbun.com.
+huddle.spot.	172800	in	ns	ns1.digitalocean.com.
+huddle.spot.	172800	in	ns	ns2.digitalocean.com.
+huddle.spot.	172800	in	ns	ns3.digitalocean.com.
 i9bet.spot.	172800	in	ns	dylan.ns.cloudflare.com.
 i9bet.spot.	172800	in	ns	hazel.ns.cloudflare.com.
 iberdrola.spot.	172800	in	ns	dns.iberdrola.es.
@@ -937,8 +985,10 @@ iberdrola.spot.	172800	in	ns	nsusctmar04.iberdrola.com.
 iberdrola.spot.	172800	in	ns	nsusorsw104.iberdrola.com.
 iconic.spot.	172800	in	ns	launch1.spaceship.net.
 iconic.spot.	172800	in	ns	launch2.spaceship.net.
+ics6uvlvsh3pm10l8ttuvvsb0mshpilk.spot.	60	in	nsec3	1 1 0 - IDFCO5ASBPV59B094AP76CACGGJHB9LN NS DS RRSIG
+ics6uvlvsh3pm10l8ttuvvsb0mshpilk.spot.	60	in	rrsig	NSEC3 8 2 60 20251009233742 20250904232041 44589 spot. WSnMZo2RlITgqKcLJjQT2aXEwvYpjKFScEbivdLcWig1jxIIJ/EA/1MaL9bdBP9C/iiw1rEvhNoplo25j+eMB+3RX27M4PhcYW+AtmLm8cvrh3WTru7V/WXeylETQ4U7W1QaF4jWK6Fl65oOJ6gvwwu7dkPr5yOEtzjYLm8PkUCjdgCcWsSoPxMIhVb2PPv2l79cyzzSFfbKSwMh5zzrWxZomX4MCmO4csAOHNGj9JlLrei0TPqgwvnvWsryXyyc2LQzfu+4PuAN5hzFvf6xNTFQSJwyHgx8VPbDwox9+bXXHEOnwbGFRcLxbNcTWN2+LsHQ4pHuU2EHQZYabYKgbA==
 idfco5asbpv59b094ap76cacggjhb9ln.spot.	60	in	nsec3	1 1 0 - KRM9R0SEQMCJ9C0Q1RU321KH7SAU53OG NS DS RRSIG
-idfco5asbpv59b094ap76cacggjhb9ln.spot.	60	in	rrsig	NSEC3 8 2 60 20251001002440 20250826235030 44589 spot. NHvCatiOFmFIrKpHfWFGrThn9P2fZXwFTraDpul/HR9LZzKfjPQE6eq7wnCu9wu/Z2+KcyG+d4aKoKxfcrtT7fN8lstQc8ZZdhqUGSaWEE5a9yymBWJ5egGwxh7o1QwTm6lzb8RuOBQaeBzAngFzXqNgZoMwzdqAJOZCOhh4qORdjHs+pFlWA3gmnpOY9XdmtYvLnmyHCe80iX8vmp2pk3j4afSmzythVNsN3TSeOFRXRT8YNeLdI+7aNk+AhiN3RtmRAB2eR+0zFF+P7EXs1+XWo7NNG4BKXdkHtxtRuQu4SO1fFw8gSux/TKBKyoJu+SVKF6OVxemRmXSwVCS06w==
+idfco5asbpv59b094ap76cacggjhb9ln.spot.	60	in	rrsig	NSEC3 8 2 60 20251007234526 20250902232440 44589 spot. BDHBXbldDR8akQpIGZDIawLeLTmDaXNM1079/3o4Pbvls/E0ZwvZghpoEGJNb1oerhPFxZheEBJUWUZLLtIT3WPBoRuAWw526ctkeu90ZmcdtewemVo9jU2pmz1mzHnCd11bcdNazzqSf16+t3rTtILLdqmfMtrCezw8PXI2WIYSR2raEYYDs5NfPg9Z/7Z7WokhJ46b45R6a5xx3xVHjEPwgs12gFJVOpm7cvMkvnhRTvQ3P54lE7yBlYAT0XZZht5XTgGKcq3EjXvT7/LhasWrqnX6l0pDX90kpcxmyTEiSbkfieEcIb/ahBA8amgszqHvNAa/Yb8IF1aKYkxa/g==
 imdb.spot.	172800	in	ns	dns1.comlaude-dns.com.
 imdb.spot.	172800	in	ns	dns2.comlaude-dns.net.
 imdb.spot.	172800	in	ns	dns3.comlaude-dns.co.uk.
@@ -950,7 +1000,7 @@ inatight.spot.	172800	in	ns	ns1.namepros-dns.com.
 inferno.spot.	172800	in	ns	launch1.spaceship.net.
 inferno.spot.	172800	in	ns	launch2.spaceship.net.
 inferno.spot.	3600	in	ds	60213 13 2 14DAC9FAABB6A6CF2C76FC1C8F536972B9BD759992C5A72141A3FED0B6350EA8
-inferno.spot.	3600	in	rrsig	DS 8 2 3600 20250927122511 20250823122436 44589 spot. mgZMOLpacVB1euLmd7YfLw4mCpMQV0TjLBPLTymLzSyq+W4sBYEJPb2caZ96MU2owR9CaYDhmed0h8AeV5W8UcmeQJE6b9pnZ6ZzF1PiS8newU0tVvXqgf8qmdsTS24ff4D01E+amESXp8nPFdoXVjibQExw/tQJ3NIzW6JZpgrrNsLbkg20V6Pq9z+LrwmxGYkypYWhq4gOg/3lUuBgqtfkGImRS2MK6hcQJAHcJGnjFrlSlSTSv9V1h7YLw5ZUuQrTiuIA3nIar9pRcMy6AQqb23EIyV9uTbkapWVNnsXU+jbWn8TCy27dqGSvfBc/D86e8laI6DW6AVhwyoXqPw==
+inferno.spot.	3600	in	rrsig	DS 8 2 3600 20251004122156 20250830112511 44589 spot. B5FiwEF4v1Ug0okwqNKBwV7RfLldkN6Iw6ksXCppG7SfVXsbxWn5i6CeoZoZDmg7npx8pwtq2G+BtQ1ZQpqE67hLSAa8WPj/pcZtAk5kW0s3mpockGmAwB3HYOB4rBt8N895DyZaLDyhBjBn75O/USs1qCelY+Yz0zX3tNnvtHfU4/+UrsuVRTlZ9wbn10NtQ2LBTDuNPL8Ti0ZDkB+QcelaTqBmUIFAifdB2Tru0uvX91caK7LRoZQjnG6cgZWN7a0fBlVlioP4tFNxlPj+I4S2y4qMTv8AZrLCmJbvz6giNxQttX2c3KGpM7nzRoO5PrTVpZijwyG+vvEDDOjuWw==
 infinity.spot.	172800	in	ns	dns1.registrar-servers.com.
 infinity.spot.	172800	in	ns	dns2.registrar-servers.com.
 influ.spot.	172800	in	ns	dns1.registrar-servers.com.
@@ -960,7 +1010,7 @@ influencer.spot.	172800	in	ns	ns2.dyna-ns.net.
 influx.spot.	172800	in	ns	launch1.spaceship.net.
 influx.spot.	172800	in	ns	launch2.spaceship.net.
 influx.spot.	3600	in	ds	39830 13 2 64EE3399A3AAC456488E69AC9C9BEAFB756ABC39F20CBAEDD8B77E8CEEF1460C
-influx.spot.	3600	in	rrsig	DS 8 2 3600 20250926162526 20250825174353 44589 spot. f/chYc8gbluqfaUWMyFUoQ9HFU7Xq3rREhrgxDLOGGDuL8a1yFGkiahx1EZMpXchWylff3VfIBAK5RI51WMw+sRhXHnni9X50yh3ZAajzd4IQ48RE57CSZC7IPRQcPLo5kmwcF6sJGTVtvc5H9CwDnSyCj3193bmrTR0fj9LXpGbm0rJPYK08DDj6nVrF9y/bBlBz/P+ChSajlPGZFmGE75D2f1GrX/H/bEwnNGaKaQ4YCL2HalpzbHPp/mEncrKCL3AKqvID9p/09RAn/UWOrOD1ev9kXAy3ricGLMzZeiURRp3w9GDMYDLNHz7Yc/xXgkCfYQlJ4kXmfqCOvg8/g==
+influx.spot.	3600	in	rrsig	DS 8 2 3600 20251003160331 20250829152526 44589 spot. WKlxlQYHtZoSIhoj/dgYsaJmztuRCq/yEbTzHstu5VNLAhCQ4FX1HxZMtbTNwgBuH2rdHTAWbWO1LVkqktdrbP3ovh2Mwm3XR4YaypsZf/YGB1Uvb3UYuwl7rmy7gb2vSjSGdDyrqNZAMfrkAZObjT95jmEANkI9c1KguJ+90+tgUh4VOPumYQtSYIjMyI9IpioHSxXWmv2jtKSdkwQUDWdHGVzm9NXk4owrGnk9fN9x8/e2KHp2FVehIUDw/9hCRv6QkCwv1Ar7NNFdCl/aOfJAe49LKH3sHseterO9CDWEogymPibY9br18u3/swGEtgtF1NXXlL8wbxy2mB13FA==
 infosec.spot.	172800	in	ns	ns1.dyna-ns.net.
 infosec.spot.	172800	in	ns	ns2.dyna-ns.net.
 inkr.spot.	172800	in	ns	dns1.registrar-servers.com.
@@ -1003,6 +1053,10 @@ json.spot.	172800	in	ns	ns1.dyna-ns.net.
 json.spot.	172800	in	ns	ns2.dyna-ns.net.
 jun88.spot.	172800	in	ns	anna.ns.cloudflare.com.
 jun88.spot.	172800	in	ns	mack.ns.cloudflare.com.
+jut-su.spot.	172800	in	ns	dante.ns.cloudflare.com.
+jut-su.spot.	172800	in	ns	nelly.ns.cloudflare.com.
+k88.spot.	172800	in	ns	dns1.registrar-servers.com.
+k88.spot.	172800	in	ns	dns2.registrar-servers.com.
 k8bet.spot.	172800	in	ns	drake.ns.cloudflare.com.
 k8bet.spot.	172800	in	ns	lara.ns.cloudflare.com.
 kawaii.spot.	172800	in	ns	ns1.dyna-ns.net.
@@ -1011,6 +1065,8 @@ kelitros.spot.	172800	in	ns	aria.ns.cloudflare.com.
 kelitros.spot.	172800	in	ns	karl.ns.cloudflare.com.
 keonhacai.spot.	172800	in	ns	josephine.ns.cloudflare.com.
 keonhacai.spot.	172800	in	ns	tadeo.ns.cloudflare.com.
+kerala.spot.	172800	in	ns	dns1.registrar-servers.com.
+kerala.spot.	172800	in	ns	dns2.registrar-servers.com.
 keto.spot.	172800	in	ns	dns1.registrar-servers.com.
 keto.spot.	172800	in	ns	dns2.registrar-servers.com.
 kicks.spot.	172800	in	ns	dns1.cscdns.net.
@@ -1038,7 +1094,7 @@ krema.spot.	172800	in	ns	ns4.iptwins.com.
 krikya.spot.	172800	in	ns	dns1.registrar-servers.com.
 krikya.spot.	172800	in	ns	dns2.registrar-servers.com.
 krm9r0seqmcj9c0q1ru321kh7sau53og.spot.	60	in	nsec3	1 1 0 - L1BK2D2QDHM0IG4E2DV4O5BDCQDSH9IN NS DS RRSIG
-krm9r0seqmcj9c0q1ru321kh7sau53og.spot.	60	in	rrsig	NSEC3 8 2 60 20250928015758 20250824012632 44589 spot. lV5WVjdDjLFKXsTjUBsjsznVaCLD2lcpoP94h2wL9sYmTktQMxTZ1fA0cokjdT4xWaA2Om+04RJBc++x49dyKq57AR4TIEB8AP9n9sppKa2KWGJxUCaka5Tbg+FqJH93ZhgWEJH3jaAlWsBHGkz1IiqARM2FTe9x+Oz71cI8EsY87MWFUSTW0HqPJ76PlAt/yLnsvSlqCuzp2Gat1gYdwDzWyEjRGD6EZag244Yv53cbN8MZmLwxTPMeRWTrzpzw5docCxI4mzVNgGz3CUcA7Voo5vkyxk3Hntckzk2PEyqTlA1DYgO4LAT8Qgfh1WaABAaPzziWnwKG0B2hshL2lQ==
+krm9r0seqmcj9c0q1ru321kh7sau53og.spot.	60	in	rrsig	NSEC3 8 2 60 20251005015454 20250831005758 44589 spot. XzWh7yIwoRYchdwxIvDAff8T4zlZJlhiXAC8yZahtjXFxLENMvKcobOWGoRU5uhg94UF92ryKw9UnvQPxZnLW/VRSSqfuCZXE4YF+vMlV3QJ6Kd1Qm2HwHx1o8B1sN6l81OEG2NvjN6WQ6y6wh38wUu7ulP+R+bA9Rd87kT+dz84WREO7yi/h6O9TNOeFNu8qulvRas53DvUocjrhCAYGpC/71ghqOukljgcHp06v2dcFyuR6jDmVm53+6yga0MZKPEYRKe/dVkiBJxu78VJkvnttULdw2svYsTbK4dQaXrvBagVtAN4/zcRRzpc2xS7juifjWqX5k2XBvkaDX5muQ==
 kubet.spot.	172800	in	ns	dns1.registrar-servers.com.
 kubet.spot.	172800	in	ns	dns2.registrar-servers.com.
 kuttymovies.spot.	172800	in	ns	lilyana.ns.cloudflare.com.
@@ -1046,9 +1102,9 @@ kuttymovies.spot.	172800	in	ns	tadeo.ns.cloudflare.com.
 kuwin.spot.	172800	in	ns	damien.ns.cloudflare.com.
 kuwin.spot.	172800	in	ns	gina.ns.cloudflare.com.
 l1bk2d2qdhm0ig4e2dv4o5bdcqdsh9in.spot.	60	in	nsec3	1 1 0 - L5USDPIN2FOFQIH4VUHRSV97VRMA0501 NS DS RRSIG
-l1bk2d2qdhm0ig4e2dv4o5bdcqdsh9in.spot.	60	in	rrsig	NSEC3 8 2 60 20250927025004 20250823022407 44589 spot. hzcp82ADgMuOQorJkibDUG+Pdk6CAh+brOCPYk5yjUYzF46BvXdqc/lMqy9ZiO54qLxkg6qAqBd8snHexnUO+R3fxcjEjWT7SDa3E8X57bBYJON0bfMxiSbd09vWUK70A71xDIRC/y8beCJ29K91wRQVHWL9jnd6aaq5oVfUxrAKdVrjpo4bNIHBj1SztwhiRHDzvqx+7Bg5n0gvyaTZ6UUlQa3P6fMqONShqy4fg91+LWHjdMiDsazxVMJEIOlyhqYgImMHbLdA7MXvNQ92UEpxdz7rx848Yc50rtrNjAsvfwGBRBAMkX8i6nrbdPN+x414y4blnvo+mvvcsmg0mg==
+l1bk2d2qdhm0ig4e2dv4o5bdcqdsh9in.spot.	60	in	rrsig	NSEC3 8 2 60 20251004024042 20250830015004 44589 spot. ISfoKm2GhFhyxtY5o2hX6sJuFK3csbeleoXuZmO6Ha0SU+KCKb/js9M2NeBIhbpac3Uph68qmcSMO1+1FwzLAhkAQ3L6SxU+KQLS2VHKZ9To/705B+dR60iEheI9M5q2cjp7h0vOYstIwn2IiBC1ZvK1kGWOpfiR++5IVSZLwmwEC2H6TKPL8fiZWLjx+itNIRjDeqgtry6v2v85GZc7NUfmT2vupqf59G+gTCzc/gGcWhiB6ueg34H/WmEUfPSOOJIi0aeDDoos2n/LqwzACKri/TwmxDMb20PgtJdWUecHM57RlIN66vGkjkKWQc3PV5qthMpM1Yt9bbV5tM7XzQ==
 l5usdpin2fofqih4vuhrsv97vrma0501.spot.	60	in	nsec3	1 1 0 - M6ORC51Q38MKJSP6I9UTHKBB4SMSA7RK NS DS RRSIG
-l5usdpin2fofqih4vuhrsv97vrma0501.spot.	60	in	rrsig	NSEC3 8 2 60 20250924223702 20250820220351 44589 spot. k4doZlmUxnoEiCwqzvbnuZiDIUdyfx9Z7WGN+4GixiIuWSMANRBta6FUCKPyBaXUISqvcsI4SJR+m0HHf8StoY0Ji/vjG0gazQkfuwYao3ZuAhFvC9FLLQLIU3O+VTDn4McRC16Kq7GEjzyk9+1sJn/1a7GZGAeLJ4U2IMP7+nwrh1FfUjvM1lv9s4bHWjug8nGJVhJCQ0kVQRRec0Qnouz5EEnFVUS3dkEkTdjNPbo/Q2WPJYc+Os954cdFjvxM9DqOPcP5ulquNMOfbquwrAoPtX1ADlTvRkXvMi08NWqHNv7uMUgx18gwIC6Epy87/XBQkK9QljWutbUNoZ6lVg==
+l5usdpin2fofqih4vuhrsv97vrma0501.spot.	60	in	rrsig	NSEC3 8 2 60 20251008220332 20250903211048 44589 spot. sgOp/d9hXWfUwCCK0/Udfeql1yo/TVjRgVCveI0xhOyFzHm0IkxxYhTMyCjIlpU7Vzzw2gJiI6ZN8R+zW2eEsS1mH0rkNJVnjOK8NNViVA6af8pq6IVGItap7xTQU3P1f73zHkMhaxx9G3QfyRa1U4Pmdcn1x3X5mptNpnPX+6UuW4k/w55VOuSIqo4ulUdvHEgZn81hY9MiNuj6Hnt7Jy4Gy+mSQEXpWZ5Qo3jPyyPPKAIdAFjBITYgLK2FK4TKQnFv8QacQpn3zKdgLqkfWXupPGwonu7qXpvmd1kEY6CW4K+Vsw9hnqS8WWOrGI4B7vXQMFvhvSxOVtIK2kRA2w==
 lact.spot.	172800	in	ns	jonah.ns.cloudflare.com.
 lact.spot.	172800	in	ns	maria.ns.cloudflare.com.
 lacta.spot.	172800	in	ns	ns1.dyna-ns.net.
@@ -1103,7 +1159,7 @@ lutti.spot.	172800	in	ns	ns2.iptwins.net.
 lutti.spot.	172800	in	ns	ns3.iptwins.com.
 lutti.spot.	172800	in	ns	ns4.iptwins.com.
 m6orc51q38mkjsp6i9uthkbb4smsa7rk.spot.	60	in	nsec3	1 1 0 - MEI8TQJ44OVHU8CTJPVIFJ6F5E8QA24U NS DS RRSIG
-m6orc51q38mkjsp6i9uthkbb4smsa7rk.spot.	60	in	rrsig	NSEC3 8 2 60 20250924223702 20250820220351 44589 spot. WTGQCpXmRmVxI71wAaAI79pN9F6w6a6n09rEUqx1pkL3f2Eh8vD+lJpzi/orIQZvgThJtL9+sXqBl8NdlFigkAjiUQ2tM1UqvXuN5uyIIWrLqkUmFxyBa0cQUq8g6YpBUs9t6OyJkhcl4Bm4HHnd47LJc0FzQhoJFLNrbALOZZAxY6LAGLI8T6rnW/DO6uw0IY7bZyEQEYu4pDEFzU57eE240+4MrdiBOnn8EEZsNk6gN8inyWPOWMFuyeQD8UsuAAVXddW8CvB+i8OEfrRKWyqhf+GsM6pZXTi2vViB+0aSbWs8zcxyc1rwPxG++ytDvYMRtdh7prI2JqZNAwjjTQ==
+m6orc51q38mkjsp6i9uthkbb4smsa7rk.spot.	60	in	rrsig	NSEC3 8 2 60 20251008220332 20250903211048 44589 spot. PlH3Zw1Do5BSU3hXxuKDqWr5VdEb2e0IcOZ6q//Y/A3hBg8yQhEza7rK1ZvZBhLGQW1BWMxcFoQZfBdnSFbAbRwQRXVe07yRbc2HIrLKKzm30eZPt6U4bj9DNjNERMlawQRGkHJsor7oVDapSzlFFXPcmMK7SLzXJd7+53GyGf2M4hyM7z0MCvok86W6rXAnBzG23jG4L0X6ErZDP8EzFOx86ML/EOEEBYdA13tEoWO5VZdfq0Uz30ZChbTQNvfBCmwLZNLG4Qmv6vMn8s40epc0akdn3jU9LxG8PwQNzcMb014GNAgCjvmwIHmM08NavYM8ct9FKIfWWC/H0zdPZA==
 maak.spot.	172800	in	ns	ns01.hostnet.nl.
 maak.spot.	172800	in	ns	ns02.hostnet.nl.
 mac.spot.	172800	in	ns	a.ns.apple.com.
@@ -1126,7 +1182,7 @@ matcha.spot.	172800	in	ns	raina.ns.cloudflare.com.
 mb66.spot.	172800	in	ns	georgia.ns.cloudflare.com.
 mb66.spot.	172800	in	ns	houston.ns.cloudflare.com.
 mei8tqj44ovhu8ctjpvifj6f5e8qa24u.spot.	60	in	nsec3	1 1 0 - OBJEOAD165L0AGMAAPJT0H1C43BP9431 NS DS RRSIG
-mei8tqj44ovhu8ctjpvifj6f5e8qa24u.spot.	60	in	rrsig	NSEC3 8 2 60 20250926162526 20250825174353 44589 spot. dAAJK/k18rDYG9DxiRhDaTJWp7mrqu4XnUwS6e6Yz7EjmKO0GiqKctEaZcJ9248KI5XpG8rboRgaYCZs78na9yIhtGgNyCniJQ7mNFkumiWlaLEtsNOVnSU4m8alJNkagQntIxjVs0AAHB9I6NpsbyYqRQobxGXpMTHYPA0TofRaFj0Npzj+t7uNDIO7tIABeQHg3F5QNCMOyJ/39K+DaEVg+DTNHpxFsu+Rng7ZOXXqt4dDoGybi4LnqnyOz/WFjDeFgO/ROmYjRrKS9oz7VCJk1ZHQt8t2ryVbCSwrgGJVtqM4eGnktE0fKsv/0hn4KW6CL2E9fM8nh5G3baXxfg==
+mei8tqj44ovhu8ctjpvifj6f5e8qa24u.spot.	60	in	rrsig	NSEC3 8 2 60 20251003160331 20250829152526 44589 spot. adRS/u7CzQxLWSvig9GEqQy33CtJGS61SxvG13RuxuEfZgrEamCQBY4evw802cHO0sDeaXUon4WlLhMxhWdNPgGJISi69r87rwuP6tGcTcTMLIh5Wy3uxn2vy7B3xxf12TMOm9D5QycONXjrf7jzRMKl+sW5cvurPLu6m2hE5manhCn03SvfuvWW8bxrrLJJw6c0G4a1XiWvaOzr9uAOFTt2l0DEuZZdZGKB0J0JpGf3SU/mBBSkDPfLH4jKn1eboDlarMX3Tfp43XbYm91kjFvMR8pV0XQgxij0kJ0Kd9bkMcJ52gNAnyQ8i5K1TpxcQT0fAlCpzhs8LSiUV+UVeQ==
 mellstroy.spot.	172800	in	ns	dns1.registrar-servers.com.
 mellstroy.spot.	172800	in	ns	dns2.registrar-servers.com.
 melody77.spot.	172800	in	ns	brenda.ns.cloudflare.com.
@@ -1157,6 +1213,8 @@ mio.spot.	172800	in	ns	dns03.ports.se.
 mio.spot.	172800	in	ns	dns04.ports.net.
 mm88.spot.	172800	in	ns	anna.ns.cloudflare.com.
 mm88.spot.	172800	in	ns	mack.ns.cloudflare.com.
+mojo.spot.	172800	in	ns	dns1.registrar-servers.com.
+mojo.spot.	172800	in	ns	dns2.registrar-servers.com.
 momo.spot.	172800	in	ns	curitiba.ns.porkbun.com.
 momo.spot.	172800	in	ns	fortaleza.ns.porkbun.com.
 momo.spot.	172800	in	ns	maceio.ns.porkbun.com.
@@ -1164,7 +1222,9 @@ momo.spot.	172800	in	ns	salvador.ns.porkbun.com.
 mongolian.spot.	172800	in	ns	ns1.101domain.com.
 mongolian.spot.	172800	in	ns	ns2.101domain.com.
 monitor-nominet.spot.	172800	in	a	127.0.0.1
-monitor-nominet.spot.	172800	in	rrsig	A 8 2 172800 20250925131432 20250821130615 44589 spot. rC2DDVMTLwvPCNcT1Dwgc4UoQA1fZjxD7pLW+wDJJ3JtbqvJibbG62y8Y2U77qx23Dh68fVu14PR2pNuInfUbJ0gr0rOuNORYkKq9My6LuIcYKwoT+XSQRq3zKp6l3+OesNhcDsQ113N7Z6q8N+PsYrdZ3j5k7YvPT6rej3uZqBQKBAQQZASmrHQqNF7TVBmZPYVNvmlikDJ5qL6xdX03jYtdSD81n1CK9GxyukMh2JX8uC2aMJwPzPRYfzRhY7S0TfInekUqez+BvXnC1Wf2pc/hl8wv8zcJbCkT3D3waxJzfiPShhyq0rNzlGTiHO/+XI61sAU8x0lpxPv3CTulg==
+monitor-nominet.spot.	172800	in	rrsig	A 8 2 172800 20251009115656 20250904114519 44589 spot. GZWAAViH6gx0U14hoDhGvLYj22njFJhNIeTzf9qhVBJt4UwhVYaAvOLiiWwGjrCyW5gJFgf6YKfxrv5LCUNrpY5jMw3+CjT9TefRHKt315bvVk+vy/O0V8kkdTb1jgxY+tRaoBhq+JKCU3TtNWO3oF0QWsRZ44jXEhHaydO23e809dSBKm7wMiQU9R1U2WojqQrBLrqVWWsWYQaxmG+qqSnOldWOK5oiJiBVViGBKXjfiQVPXbJmGlcLr7ykXtu0FIfkNh7m821/yMLPchLETsfrSesqGhju41uKmqBVzK1jrnhH6zdSIsLdRNHso15DbfYG7jZU7AUQmv0XjK0kiA==
+mostbet.spot.	172800	in	ns	dns1.registrar-servers.com.
+mostbet.spot.	172800	in	ns	dns2.registrar-servers.com.
 motchill.spot.	172800	in	ns	deb.ns.cloudflare.com.
 motchill.spot.	172800	in	ns	karl.ns.cloudflare.com.
 motphim.spot.	172800	in	ns	johnny.ns.cloudflare.com.
@@ -1218,6 +1278,9 @@ nft.spot.	172800	in	ns	ns1.parkingcrew.net.
 nft.spot.	172800	in	ns	ns2.parkingcrew.net.
 nhacaiuytin.spot.	172800	in	ns	lovisa.ns.cloudflare.com.
 nhacaiuytin.spot.	172800	in	ns	mark.ns.cloudflare.com.
+nibble.spot.	172800	in	ns	ns1.nibbledns.com.
+nibble.spot.	172800	in	ns	ns2.nibbledns.com.
+nibble.spot.	172800	in	ns	ns3.nibbledns.com.
 nic.spot.	172800	in	ns	dns1.nic.spot.
 nic.spot.	172800	in	ns	dns2.nic.spot.
 nic.spot.	172800	in	ns	dns3.nic.spot.
@@ -1227,7 +1290,7 @@ nic.spot.	172800	in	ns	dnsb.nic.spot.
 nic.spot.	172800	in	ns	dnsc.nic.spot.
 nic.spot.	172800	in	ns	dnsd.nic.spot.
 nic.spot.	3600	in	ds	58885 8 2 E81BE8E597E380ECC698ECAA05E8217F2A3C30871A520FCC62E5D0E9BCEF7D61
-nic.spot.	3600	in	rrsig	DS 8 2 3600 20250925131432 20250821130615 44589 spot. UKa0GJc74TalR/iMGqFOJO1EyxikEQW3FYRbkHWAOqHIbm48CMTCtQ0wjnY+V+w3iNPI1YzLIDBJB1/DnWqO96cb7qgnuZCiOMK+0tz7tcuMXH+9tTYr64VTLjfen+SYQvvzEHE95bzVAnK5AU6Xa1/0kBk8j8jWrMsNWG5PsSUqbHupQne7l3lAROhi9uzVqcGMaRMwlP/2oWgn6b/sKZ2W560jc+rl2/IGXlcOKTDuD/TAOmjbiZ7ZkBaQrlo762bFV9prmhjZuhvDusyjpRrcjLvZ6pYwMey26MvvMmpm3oHqE1AVBfvUcOa8B/SFEHA+bpvJawXUIWPtEmQrag==
+nic.spot.	3600	in	rrsig	DS 8 2 3600 20251009115656 20250904114519 44589 spot. UlNEQTg379veyaIqJzhDEkg7D9MqQ1Oad5uZoeRGk8Oqa9tEblsuQ8TAQiOPLop8jRnKHi1JdtRqzBPPTg5A1jiRCxCFNzvAou3uAnR7XEYMRxXtcSLsugdxOhm+xo0dVaT6wmGbat20w4YHCHeDgNV8SeK25X9nb9mtJ05aoItKujxs6eq1fjjAVMDxp0KYfaHE/ukHa1B3HADlHXcb9YwnyaWw+ZYWhVrmtEFddBinqZOZr1nLCS2IBLI9fHumfE9UafrSM+A+xK/QFkc3aOsiesJxyEQopiOfjJIOhLZBMyDFcGioqqBsQG9P6ztAMuFCZbQsPMBerPDnYO0ffg==
 niche.spot.	172800	in	ns	ns1.dyna-ns.net.
 niche.spot.	172800	in	ns	ns2.dyna-ns.net.
 nifty.spot.	172800	in	ns	ns1.dyna-ns.net.
@@ -1242,6 +1305,8 @@ nomad.spot.	172800	in	ns	ns1.101domain.com.
 nomad.spot.	172800	in	ns	ns2.101domain.com.
 nomi.spot.	172800	in	ns	lynn.ns.cloudflare.com.
 nomi.spot.	172800	in	ns	tori.ns.cloudflare.com.
+nook.spot.	172800	in	ns	dns1.registrar-servers.com.
+nook.spot.	172800	in	ns	dns2.registrar-servers.com.
 nordstrom.spot.	172800	in	ns	ns1.markmonitor.com.
 nordstrom.spot.	172800	in	ns	ns2.markmonitor.com.
 nordstrom.spot.	172800	in	ns	ns3.markmonitor.com.
@@ -1259,7 +1324,7 @@ number1.spot.	172800	in	ns	ns2.dyna-ns.net.
 numberone.spot.	172800	in	ns	ns1.dyna-ns.net.
 numberone.spot.	172800	in	ns	ns2.dyna-ns.net.
 objeoad165l0agmaapjt0h1c43bp9431.spot.	60	in	nsec3	1 1 0 - P41PR12BUAGN1L9MG6VHSRIBDVGPVNCA NS DS RRSIG
-objeoad165l0agmaapjt0h1c43bp9431.spot.	60	in	rrsig	NSEC3 8 2 60 20250926162526 20250825174353 44589 spot. IGg4jQHTK/zuUhqnU4ffXlbb1ymfMSXxKreY+iCrBFoolc7Jps3IqdAlIGNjbaftkswZAzSiNLwQGxnevdXkVoO2u3vm3dzG1es5TxHPGuxYcxtDci+yPSfKDKDOfb7BSWIhdoTtuy5OR8SKywK+6jOFAF3z+f5dcvcoj1WYWzxLfP9YHlO4JFQvtkUHKplCvfAjdHHiCwLyxF+wQhYL5aHOEXqGmQMzZQvE0y5q3sESsQ0f+d858Z26AcPpisroxkEwhSH1DbSAZCguiL/K6+PQdV9i8VYdvcAJ++JM0dvv91KA5TrQDan3T527Xb9PEFp9BMX24X0MOmsirgkjnQ==
+objeoad165l0agmaapjt0h1c43bp9431.spot.	60	in	rrsig	NSEC3 8 2 60 20251003160331 20250829152526 44589 spot. Gv1V0WabbvMfjT1dtgiUnEVvgL+MkJJGsaVqMHDV4fOnn3DY+yWLsTaGJ4qD5CDH1rbWWLG6NlgfQ4vXqfBM4a6Q+PLHfd0y96B7Q6fIjyDq+38BQ9JHJqXh40KtXb/3WjzPoy7oXY6raLzXJZWEERtqRYt2s9kqAoh/H/kezSvdZFK7D67Pm7O1HE9FkziZ8pgiX1mRv+nzQu0WmPGLgn+kL6EBTfsqI2pOo3wf0J6LPcZyKg7cnaXMI2cEzCDC4KBrsJJgp+fF+GAndHZVwBVGLOGhyuqkczEjOD3TNVzlK9i/b2wKBLmClKDW5uCSmj9/cSaqVvO933FAQznLmw==
 ohyesthatsthe.spot.	172800	in	ns	ns1.dyna-ns.net.
 ohyesthatsthe.spot.	172800	in	ns	ns2.dyna-ns.net.
 omni.spot.	172800	in	ns	ns1.dyna-ns.net.
@@ -1289,7 +1354,7 @@ otark.spot.	172800	in	ns	ns-783.awsdns-33.net.
 p2p.spot.	172800	in	ns	launch1.spaceship.net.
 p2p.spot.	172800	in	ns	launch2.spaceship.net.
 p41pr12buagn1l9mg6vhsribdvgpvnca.spot.	60	in	nsec3	1 1 0 - PE8E3B800OTGF6J2RE3RJ0DHH0E7B2HQ NS DS RRSIG
-p41pr12buagn1l9mg6vhsribdvgpvnca.spot.	60	in	rrsig	NSEC3 8 2 60 20250926124940 20250822124317 44589 spot. 025uucUYXwfh5B5g5Atc2zFb30Bk6fI4eQhYlXfYRa0vqvUraSx37x00P9JBgqf28+U8g6PjGgLQoevGwlfjHuBUX5fPi1YqH+gAK5F2EJ8YypEn7PYnHgD/BAaaQWQHid+3BW+pQEPrQnlYbNZt1O5XBwYQ8aNgtRhU9HfZOocooxZb41IbvauQGPjtJJzMU6rbJZA+7UuHkiZ6UiqNNq5u9Db3w2E+VTLed1FVKm/HDxjeP743tcemfMcg6k3XenPNpEi327M35PGCma8wlGz3+5IFTGYSBbhx/Y8JjPjw+e6XP/v8Nht4dyelI3npdDVlWbwcEs6v+S0tznl1JA==
+p41pr12buagn1l9mg6vhsribdvgpvnca.spot.	60	in	rrsig	NSEC3 8 2 60 20251003123103 20250829114940 44589 spot. r9DQkIsm9UMY04X+REpj7V7PzZIs+PLRBbD1eSa52qURVdxQ3vzJuMdd3V1FHtVK93T06x0RBAU/tMuwOA8ItMxmEwv9wZvtZ1BbWdCEH+wUM9cGDKG4FjPH+yfvItlBggvmoVlJGNx4z7xJZ+OLsTxcMeY4wffjD5iHxylP52dyP5jcQM2PXC0DvyRJ6Z+HVm/mCc/dxKeqh98nZdVhLJqLvKPHblWW9l1UXmaRi6rq9AMgX/jtvlj/ovhx+aIs8LOpYL6F1c4K6hASN0yKbjwYW/xfsZZu/vmMIAa+9+Q9rZbUQ2ltg4dOansUaZHVDriRqMiT8zXIjs5gvs5ZFg==
 paconsulting.spot.	172800	in	ns	dns1.cscdns.net.
 paconsulting.spot.	172800	in	ns	dns2.cscdns.net.
 padel.spot.	172800	in	ns	ns01.hostnet.nl.
@@ -1299,6 +1364,10 @@ paglieri.spot.	172800	in	ns	ns02.trademarkarea.com.
 paglieri.spot.	172800	in	ns	ns03.trademarkarea.com.
 pakbos77.spot.	172800	in	ns	darl.ns.cloudflare.com.
 pakbos77.spot.	172800	in	ns	rosa.ns.cloudflare.com.
+palma.spot.	172800	in	ns	ns1stv.name.com.
+palma.spot.	172800	in	ns	ns2fkr.name.com.
+palma.spot.	172800	in	ns	ns3dgr.name.com.
+palma.spot.	172800	in	ns	ns4blx.name.com.
 parkour.spot.	172800	in	ns	ns1.101domain.com.
 parkour.spot.	172800	in	ns	ns2.101domain.com.
 parmareggio.spot.	172800	in	ns	ns01.trademarkarea.com.
@@ -1311,7 +1380,7 @@ pastille-vichy.spot.	172800	in	ns	ns4.iptwins.com.
 patternswap.spot.	172800	in	ns	ns1.bluehost.com.
 patternswap.spot.	172800	in	ns	ns2.bluehost.com.
 pe8e3b800otgf6j2re3rj0dhh0e7b2hq.spot.	60	in	nsec3	1 1 0 - Q74T4K01QNKOJ041T9LPIN0SMN28CMTK NS DS RRSIG
-pe8e3b800otgf6j2re3rj0dhh0e7b2hq.spot.	60	in	rrsig	NSEC3 8 2 60 20250926124940 20250822124317 44589 spot. y48PpcCHR3+cmAUckkkoGMNEFigo67h1hESSXAOqxEqmBzBq2rmS7EttFOuNoAPGHUknyr85R0KD1+TNlbwisStSIgbvf8t4Pms5Etd8ZK6kvxJ4CFVZpgJ+eJo1f61tITLezt8gupwv9D5vuNGb8EXhdGKSfWijYQMvR1/TeyqIc2OFaHfd4D6BsZvSaaHnvDr/Mbaej5eUtz3rjF1KLZEBFtX6PidJp4DscP4xUt9fbBazbG64ndS2ANWvoIUTRm8uf7gVX717oGFIaNMKQ0PrjNDOlqkQJZVr9Zeul5rpov9XLLvhURwWlmvSc/1wtawdmbsi4D0q650isUhwcg==
+pe8e3b800otgf6j2re3rj0dhh0e7b2hq.spot.	60	in	rrsig	NSEC3 8 2 60 20251003123103 20250829114940 44589 spot. KdBONal3jDMONCboV78hfFavvGkOUeBmNbwQE2r5vwYvp1jxNLqKiYamP+5NROjMQrhDwLdEqihNWIo7sCTydbdRGyGiHnhW4WIK7RTaVP7czAnMVroc6+eQt8KfyAOPgJ6f6YdFLPDZDrux1/PiaWFj3Xol2mwenIRJyb4ZvjNYjEsx2JWBmg2VxZWfUVLefxX5unDFZ5tD5AbfHVmxL87JHz/IA1eUBkpJDrkSOsbMqQ6wYna0ZIHUFpDiGTohFWbTeSeZJDMQQALFHNUmUlgMqEw3H17oalrTklvzTp8fgy8NxgBVGAAnLD7CrNNMNgOyXQ80Fsjiz0NFSlYmdw==
 pearson.spot.	172800	in	ns	ns1.pearson.com.
 pearson.spot.	172800	in	ns	ns2.pearson.com.
 perfect.spot.	172800	in	ns	ns1.dyna-ns.net.
@@ -1371,7 +1440,7 @@ productivity.spot.	172800	in	ns	ns2.dyna-ns.net.
 project.spot.	172800	in	ns	launch1.spaceship.net.
 project.spot.	172800	in	ns	launch2.spaceship.net.
 project.spot.	3600	in	ds	16917 13 2 F2516A0DF05526AC756B9C2FC1ACBBCFCADC612B9259E2EB4FFA78A84195A49C
-project.spot.	3600	in	rrsig	DS 8 2 3600 20250928082620 20250824073556 44589 spot. czMEN31CP/13+rXRi5n1N9xNry23e/K7h/hjIE+Upzk9LI8YL/eZrd7VgrIyxKLki2Nh2VsIvHcp5u0mzQ74wPovkdM2COEXRZD64qCeOjMhJhtqK4YcHiLRK0k7G6NV19kto4Jf4+yqm1JaXNvOlU+tnHTZHAPomtatV/SjSUuneWHfFQDptr0XmL/XQGxEjRRZx556/A/8VeHR/KIIv0fKU4UCwQp3iFEKYKbGvPN32Rkdx4jashY+f6eLWFwWAr32M12OmXghCZ+orlPYOpCSryAV0aXQbR6lHSOiwdx8t9PpLZASojRYZcNia3yc8hOWICS3E1SljygkRll3QA==
+project.spot.	3600	in	rrsig	DS 8 2 3600 20251005075636 20250831072620 44589 spot. AIHTr5yV629nVDisRMFHDjacgJgLcSvQnsswWP5C/X+ab8kYtJMc7AZ8LqiI4jLZk0mZrQddAHQBk7owA+uFY0Z1yur5MDovPbC6cmOGJCspx+ZVgdOSlZP5qtC8YpetqsCDpXBOdMmx4s/FUrA5RkfX5D3+FJiwWFC2Oqfp8iVMmuUHgKPDbOLd4mPiC0vUKBzday/0ANVZfeUlxSdrGI5AdadUpXmiDH6qdQsmWBQlv9Jps1oCaP6eEcWR8N6/Rtos4G6VKPG2QMrDT9gCzOTqRIV+/RNgrPyE1zA6Fr6wUQ45exwOsBkbbQnqt+ZtgpLB7wJVwBNXuJHyxcULew==
 prompt.spot.	172800	in	ns	ns1.bluehost.com.
 prompt.spot.	172800	in	ns	ns2.bluehost.com.
 promptgen.spot.	172800	in	ns	ns1.dyna-ns.net.
@@ -1381,13 +1450,13 @@ prop.spot.	172800	in	ns	dns2.registrar-servers.com.
 prospera.spot.	172800	in	ns	pdns1.registrar-servers.com.
 prospera.spot.	172800	in	ns	pdns2.registrar-servers.com.
 q74t4k01qnkoj041t9lpin0smn28cmtk.spot.	60	in	nsec3	1 1 0 - QJBFD02AOTS4F57QJSN0920HV25JRT9T NS DS RRSIG
-q74t4k01qnkoj041t9lpin0smn28cmtk.spot.	60	in	rrsig	NSEC3 8 2 60 20251001002440 20250826235030 44589 spot. vtwaWopZ/M9TajIwSRCjY0vsWll7jUZemeT4J8/JIBF6zKHI+ms5MLmaLNwJor+iAC8vsfYrkD11du+H6v/m24qMUNsKTvNhgeUDqHv3AlRHteHBuupMqrL5r4HOHB+wMrrzutmysnCue0X+OGsLdq6ujNcmi7br3ptjGvNcG3/5Sf6yUxpRqwlnuyaDlQpkqCVzuYZnfg2DNxcJ7nR8H7DTn+qibP21LI1AiW+zPXVAkdvZLnisGs+iMCnQYHMmOj1fP2vTbrIl0Lif/FwKar9O59NwQcPZdnr8C8oWnupE0iSIw52DmwxPB54PJWyoBm+dvrJxa8SHr3dkPzjEqA==
+q74t4k01qnkoj041t9lpin0smn28cmtk.spot.	60	in	rrsig	NSEC3 8 2 60 20251007234526 20250902232440 44589 spot. j/iPbj00Wr0eULaawnfClKxVtZw3ITIs2VcsUL5XVzwWCTIcadaWue6bM3mlB1l3/FVg8m7n5Iap/geViHffsKqA8Sjwx/S5BZUAOsJBzMudd3L8JGvLUmJ+fgmxC7XlRxL7NpTgvn2yWTQE4y4e5VpLAIl3TZcXSLRjGbY5mfbPejdcKNt+3nr8FJeRaoqxemBAOH/EMoyhomZnLmVRDeUs8WBA/Rh9ZeuwuwEWfcdUaW5KUSJo54aJNENiTyfZmPVgH+A31UK3J8gdNOodHeMtm3oa4UfRwx4EGOcI26/T1A+J7o3EEMTjmXc4apuHIw+OdR46Tt5+it/4nMi3wQ==
 qbee.spot.	172800	in	ns	dns1.registrar-servers.com.
 qbee.spot.	172800	in	ns	dns2.registrar-servers.com.
 qh88.spot.	172800	in	ns	ariella.ns.cloudflare.com.
 qh88.spot.	172800	in	ns	peyton.ns.cloudflare.com.
 qjbfd02aots4f57qjsn0920hv25jrt9t.spot.	60	in	nsec3	1 1 0 - R2QMLIV9VMNUBKH6L65GQC1T9F9SJ2PK NS DS RRSIG
-qjbfd02aots4f57qjsn0920hv25jrt9t.spot.	60	in	rrsig	NSEC3 8 2 60 20251001002440 20250826235030 44589 spot. x90BQAjbjJpqpDeiBiAYn27LbDKlBoCH7ZWx1HILYg5hxJrmXeZDcvjqf+/9L1maXqG4BVVaFvZK0vbI5XHRFd69CAuc+a1YZgN5XGSP7+RzQxgq2uRvJ9Th8SysMgpLS9NNKsdfmEL9oPpiCr+lxxZc/W3UfN4KP1xVUsYBMTWFsIGlAKvLIon5selGMszNwoPsifJmWViDVsJMwPSBeztFk07l7mlJDXBos5FJWyrs1RvucbOnrj3e8ADQgggAB8IvsDi8gyruevcCuv/tBJQ3fZySJqiY3/vaQf5RbX+IATNqTiQUm6YaAEXfDjMTT9hwlPk0OCzqCbOycDv7yQ==
+qjbfd02aots4f57qjsn0920hv25jrt9t.spot.	60	in	rrsig	NSEC3 8 2 60 20251007234526 20250902232440 44589 spot. dSVpfaHzGoGTCGbnH0E6IHRbhfrCBPq+HfvvYFvqo19JAUGXSvlyl7YgHqPTAXN41My0xwJ/NWemMCPTLQnOIffTkQLNvG+IH2wH3A9mGFys+2r4M2RucE2Q+AdSraWJHA5c79+258J0rGMH+3mt8zWpT0xsywUcM8R4gIBCiUdXGj6zDFFoCwrVptdM3jCDOw2hRWq4wCWQa1C2jqCSmWabxO2N8HSLm7Tg9M1UmnNGb4pwgzYi2RdrWk7XVSUsVS40jr6aq+TPGiCIGftUtWedV1awyZ3uzQem4pthXlOxnIVayLCrQaFO99zUCha5/xKw9+9dFMthBgSGaKO81Q==
 qq88.spot.	172800	in	ns	meg.ns.cloudflare.com.
 qq88.spot.	172800	in	ns	neil.ns.cloudflare.com.
 qrcode.spot.	172800	in	ns	ns1.dyna-ns.net.
@@ -1403,7 +1472,7 @@ queer.spot.	172800	in	ns	ns2.dyna-ns.net.
 quovadis.spot.	172800	in	ns	dns1.namebay.com.
 quovadis.spot.	172800	in	ns	dns2.namebay.com.
 r2qmliv9vmnubkh6l65gqc1t9f9sj2pk.spot.	60	in	nsec3	1 1 0 - SA12FH48SKCEF30UGDLKHR3OQK5O6PP0 NS DS RRSIG
-r2qmliv9vmnubkh6l65gqc1t9f9sj2pk.spot.	60	in	rrsig	NSEC3 8 2 60 20250927154452 20250823153500 44589 spot. Up+ZPHQfnCzN1I8K2rOjib7xBziqAXioNJVIIOetVe/sLyqzWtQ3P6Raq5nuaea3ulEpdGnimvwYCPwvwjymfdMyMuV9y29t8n4p5VKwpFDNc48suKUo6GYNWrr93Av16SIMU+YpYh0VZwwhvRUIyF0/tBLIaBGQ0RugOodz70Wz8REEgyz/hMHBbbu+6n3XJeNvHie33UmH8XkmyZbsTv6DC5AF6vPKIcPsnPOrJYdt9NYTjNEZ6vS1LRRzlVH8RH0SBUQy7CDSUX4Xxo85D774yGEP3Aiz7eCbDF0BETcOqMpndKe8knk24QlWvoPzgypQgfxZ5GoVLbfrDQEwCw==
+r2qmliv9vmnubkh6l65gqc1t9f9sj2pk.spot.	60	in	rrsig	NSEC3 8 2 60 20251004153012 20250830144452 44589 spot. Qt9oK9LSXnSzCXy+cWlgERU9g8Mhr0Ks9UK3gRTo6Cfg8sTxIAZ8l04SdrXxU1UwaIuScVVfKBOdvdeSqjEThIf7LHi413hZX1HAafZDQCENRzJ+An78S9A0vlzBZxcH/HyxLvJHtx+qbubKbKHEPiMP938voFfrwk9wNeRD0e7fImHlx58pbASOmoOsiJGwRv1bnNNGq4zmp9rZd26UKoxCzTNoyk/hJYQ7zHrbXQFsUVcfCvpVJEWua0A9d6s5NShLV8/xjX7JdiWtyX2l3QQ7TnzRb8He1IZgHiIRbSXWCDFVeBWx6WSI4fsVMe38g4dnKl1+WCbGkM6HBVraHg==
 raffle.spot.	172800	in	ns	ns5.kasserver.com.
 raffle.spot.	172800	in	ns	ns6.kasserver.com.
 rainbowsix.spot.	172800	in	ns	ns-130-a.gandi.net.
@@ -1474,9 +1543,11 @@ rust.spot.	172800	in	ns	ns2.dyna-ns.net.
 s666.spot.	172800	in	ns	leonard.ns.cloudflare.com.
 s666.spot.	172800	in	ns	susan.ns.cloudflare.com.
 sa12fh48skcef30ugdlkhr3oqk5o6pp0.spot.	60	in	nsec3	1 1 0 - SVD6RURHS2UD9EV6FQ5URLO8IKHVBERM NS DS RRSIG
-sa12fh48skcef30ugdlkhr3oqk5o6pp0.spot.	60	in	rrsig	NSEC3 8 2 60 20250928082620 20250824073556 44589 spot. ueUWU4sEO0LAPiTkYw/8enbM0if9eeOIMdEykyKXB658+1IKuyIIIid2Pkw8PEqdgRivnGrc3wDPdIWhv7l9N5RbOvjBk+MkSAvhA14K5m9+gYjJRU3RNI7ZRFuF7FpqsLrUqEoy7q/x5O4zYGyUSfBtVzr19JuwhLwRv802dPc1XZEg7Oxzw8hpdMS8KglJDg7nGQdFSE9cGwZFVCTk7FellgUkNmOoXhPx/rPVs4pMXAVJ0SmZpEprznWDn8clb+qt6DaMxFWMWwX6hMeJtWOC6j/t2XoqcjsKRlQ8AleKNZR8UzyXWBDCg6m3qnqGjiPeSFMXtW1PQlQBargIjg==
+sa12fh48skcef30ugdlkhr3oqk5o6pp0.spot.	60	in	rrsig	NSEC3 8 2 60 20251005075636 20250831072620 44589 spot. kIjrgA/AV8UrbfPcg9aGeBzYacmPU5gmd9T03ntsZfZt6p1G+Qc9Vd1BlM4WqVhQuI/HmYg8RmtaA2nfn0LoWbY1TsdBzLCnB/qDjNDLhu72u98W+K//O78e7DvlgRsHMU+WPNzNmW663jeOOUNVkk3JeNuCnrnXAik37+qSgy4ajmpqnCgWG3d3CsNzojE9qBkOvcfjSLNUWlajGHRkhH1+3KDcAhctrhDwDj8nDL4jkPutqsHbIHmM1IbTYxNLbIUXmh2+e7GTjfNPS9W+OunZ7+NtA5XFJdFBRh1AXj0yamp+AYJ8vy1+OwMOMcidGj1herbZOavBxgyrAn9PxA==
 saas.spot.	172800	in	ns	ns1.101domain.com.
 saas.spot.	172800	in	ns	ns2.101domain.com.
+sabong67.spot.	172800	in	ns	clarissa.ns.cloudflare.com.
+sabong67.spot.	172800	in	ns	kai.ns.cloudflare.com.
 samsclub.spot.	172800	in	ns	ns1.markmonitor.com.
 samsclub.spot.	172800	in	ns	ns2.markmonitor.com.
 samsclub.spot.	172800	in	ns	ns3.markmonitor.com.
@@ -1495,20 +1566,22 @@ schindler.spot.	172800	in	ns	ns2.lexsynergy.us.
 schindler.spot.	172800	in	ns	ns3.lexsynergy.info.
 secure.spot.	172800	in	ns	ns1.101domain.com.
 secure.spot.	172800	in	ns	ns2.101domain.com.
+seeq.spot.	172800	in	ns	dns1.registrar-servers.com.
+seeq.spot.	172800	in	ns	dns2.registrar-servers.com.
 selfie.spot.	172800	in	ns	launch1.spaceship.net.
 selfie.spot.	172800	in	ns	launch2.spaceship.net.
 selfie.spot.	3600	in	ds	42471 13 2 F5B7CE3BAF811D5232D6B05CDE2696B3F7692D2690192FA8100CA242ABCB6514
-selfie.spot.	3600	in	rrsig	DS 8 2 3600 20250924125127 20250820115449 44589 spot. la7JpnLDxwx7S2d+ErXnjM8T1n0Y0gcrd6XTdxUlAQZ0/j99viI+fiBNAquTO9OJuI6iV5ZW7mP2RkhIC9CtbI/B+ZQJmoQLZAbtS3aveuDH+y/THruHLxLzkk8iPMzq1H5oLCdHZ/wiB8vk2CvS7lbKgb6GTsaSyP80oJGwdgP+7V5b9j9leWs4n4uBoSmvBGSlal8SNyBFeSLkz5Lf7gBVaT2sXtzarQ6Tr8wEcfqzoyR+8JEekZAPDbRTZ/a+QCkaCA6orZlGrodBFbGKPw24jyKt7hY/+NZaoQFopBVCXv4kSQxGD2uw3dpkUHvIB4cfbcRsYosr9DUHEk0m+Q==
+selfie.spot.	3600	in	rrsig	DS 8 2 3600 20251008122059 20250903112213 44589 spot. PU6HlQhXounkXZnjLN4Wgn527Ng1KQyehPXsg0oU3q4LcXNB++F/sTe4r9DmXIkp8lwQCUUTk8S/iZ/a7o0wGPBEN4xfpUk132SAjcdPjWh+8alzyUGW52WQ4/fqZUhOLZqrcp+CvLQQHeKSf6hthgwb5Uf9xp3Ly8V0wEAewcPXUaH99W36rCe7TRedb+No5NX6Lv2RWfRy3SvH8G/oa4WQGaTT+T3qPSDp1fHICBGeG1ZHi4zpr1rLGoQDp4uvJDg+xTbIL/7VDDUKfWJo+k4f2qzIFEUYrTfUb9dfQ+Q1AFwSuY4RBalJGjdhCIEq+5bitrlGXKskSEOYnAsVbA==
 serene.spot.	172800	in	ns	launch1.spaceship.net.
 serene.spot.	172800	in	ns	launch2.spaceship.net.
 serene.spot.	3600	in	ds	52135 13 2 2CAAA0E87FE44CC0C462D8A14327D13AAE480B3A7B92BE79985CA7C7A771B155
-serene.spot.	3600	in	rrsig	DS 8 2 3600 20250924203456 20250820200617 44589 spot. HITBE0r5P2DfXvwmqil8HJCqlDbVy4RVnqU+OhID2ybG2hSOtGHp5hXW74Jl9UB+El5PyjePtM13+UQG8mWNnP9eh0pxsr8poESXqjuf5LtuMbxixo+iYxDioay/tmMKHSsZtxlT/x5yiWVz2d1p9a/h4d09cveMFsW3F+Ud4Uqj/0gtiZMh4iMJiVp9VZXCDH/BXAjRFe4xh98FDEJ+3HOpbwJ9K5tRDjeBZs9e/pdgPdiOj/COcZJsnO+GpPzKAekzuajd2QvhQhHkQYrVmOVvkm3T/9FdcQ1infMNjO+t7St2fmOvAy57rw1c1TPPLEAQ3YfT9DG2d9+ZAhW9qw==
+serene.spot.	3600	in	rrsig	DS 8 2 3600 20251008193221 20250903185150 44589 spot. LtuAtnqFM0lwlnha3sQPovwu2ReWIl5vOXC3Ua9dwaLwMY8NpZCdrTRvUcrl5cvQZWXbIq0K5vnM4qSi71O/t3LmojpldEfABrNoTfoBp4hux4zVv+1q1C+ykZ1zCophh0wbPaShxD0sWaAUkbxQyViz17l29yzO8avPg6PspRG4SOZw8lUQM0LNQvXa2nSxsU/RfDJAuTfWfeOiMtvmw+8fu0ybthrktB61w4UtMkzMqRQYtWPnmCauug1BWB4BRXVJTZG9UVt9WLj/+RMyn/dGqiUBNTsXg04HRJcmldnX7g8Krljeh38+1xvJnbzP/6+7uz6YCM5PT7+pQkpiwg==
 share.spot.	172800	in	ns	curitiba.ns.porkbun.com.
 share.spot.	172800	in	ns	fortaleza.ns.porkbun.com.
 share.spot.	172800	in	ns	maceio.ns.porkbun.com.
 share.spot.	172800	in	ns	salvador.ns.porkbun.com.
 share.spot.	3600	in	ds	2371 13 2 F4263BD76450BEDCB37D7A7E6F633B8956BA6922B7FE6816FC9322733EA73C4A
-share.spot.	3600	in	rrsig	DS 8 2 3600 20251001002440 20250826235030 44589 spot. OSIp71bp7EkZK/sUYRJVaTByxtHylyd8yX7D23FybgMqlzlxlctzQEUdfkQqrX4IKXhNxM1mrgtLOHj2QS0ZKzPxDf9w+aPeEhdCWupFMGpPzDeLCCa92+8+LYuDGYTtt+6Eg9EjjbtSZwTYB/Ir/uMLeDQmPf88UrbhxfC58Aca8R6PoLzgKaf0r4M30w4Gyn7D2sEFJjW/9yTWTM+s5CxnGDzCzpIohzk0GVCc4DMs/U9+/86jdlP6yV+XjBvoJFrpv2SKnD0OsC1+9bPfPxLGo6Ls37zp/S/z96o1UAqI6xtHUcArNIhiT5dKg3DSCMJ6NuT9TaM+0sTaQMhwFA==
+share.spot.	3600	in	rrsig	DS 8 2 3600 20251007234526 20250902232440 44589 spot. ZTa1arkAhvKUSFV9FDYKPxty4konaOv73otNPk2iWEohWWTg9PRdEmwfMTd8PVMv8nbr4Szqs1a7hKlxSX3xgQP/B7xMcAvNvZtIry+ze2uussyOdnyAKctVLPsqzy4rWSmB9r/yo5fLTBGQXNgDA/iK8YhKDhVjxAhpz7Qkdocbb/H2dHkUpX3zohfFVyNpXRTJsAjv6zJieKSvepqmrMarvfeHHzU+COnq5C0pP2grJm/xoZ5Jg/31GT4fWoqfuwjaHLDjkWRgkdGL8pxReooKp+RvzptCSV7GVDeLmPICxdFL90f9mzFHUuGnetZsP1mBu/eqUNBxOcs7i0AfDg==
 shbet.spot.	172800	in	ns	dns1.registrar-servers.com.
 shbet.spot.	172800	in	ns	dns2.registrar-servers.com.
 siargao.spot.	172800	in	ns	dns1.registrar-servers.com.
@@ -1518,7 +1591,7 @@ sin88.spot.	172800	in	ns	khalid.ns.cloudflare.com.
 sisaisolutions.spot.	172800	in	ns	launch1.spaceship.net.
 sisaisolutions.spot.	172800	in	ns	launch2.spaceship.net.
 sisaisolutions.spot.	3600	in	ds	4888 13 2 579680EDFDF3AB969CF3C405A567C9C26F3FAB5C9728FE7AA9C29C9B50D56EF9
-sisaisolutions.spot.	3600	in	rrsig	DS 8 2 3600 20250929142045 20250825141549 44589 spot. IENiDO8X0iOS4L0D1g0fmd/ZqmjF5u/NK+05BkaXdiyREFWEjwDGUaLmWeQaiVr6GGvkr8Q3dA3V0g+ZrC5WFVVeFARRxxJXjFxsbid5eEtUgSo9HjGH7ecb5IibAMVNsval9GJsjzPLcicR2CqOuugM5Npy/n/QxFFruv/RMNegprAWYeBKLkztMuE5U5+c3b49F94DSb3smfZs98AkT49wjptVQpNe3+9aEkJfqt2NItAQWyIHCaIq72dHyCUFnZTWeIyF6dRLB4p8/0sP3CVJ2ASoecn3tPZX9cZ8ou6TA/kGQFmm3XuezdX5gc+X2LeaKbRJNmQGIaNmpojZ4Q==
+sisaisolutions.spot.	3600	in	rrsig	DS 8 2 3600 20251006134946 20250901132045 44589 spot. hwTB/rK9qXGWHH1KA/SUz3jpnjEMNYPVxxAsRSSJtgmVZHxk8DHgJQJ1gg7oyVNRKSEHFrP7ChwIRcwCRCHb/V8ymQvUXzV7wrtNvjBfIbotmx5G+scL+HzT9fpsPDqawqhEPyhdsXsFamQqzjJ8I0opN2RNFCvgTHfDnWSMCRkklKQ/rUtriBjAa4zN9jlFYhP8wU+R3WHwUayHeJH2vPKQF7HAnxzN6BoI66XubEyTYvbnzQUBmTWWIRj6U3daRquHOYLqhbSTNQ7jIk+t323sGuZRlBdPyeCn5a8AUZ+k8LNpI/pdwm3w8WVixWH/Q/KwS/Nl57vxDP4GOb1FZA==
 skokka.spot.	172800	in	ns	ns1.markmonitor.com.
 skokka.spot.	172800	in	ns	ns2.markmonitor.com.
 skokka.spot.	172800	in	ns	ns3.markmonitor.com.
@@ -1526,6 +1599,10 @@ skokka.spot.	172800	in	ns	ns4.markmonitor.com.
 skokka.spot.	172800	in	ns	ns5.markmonitor.com.
 skokka.spot.	172800	in	ns	ns6.markmonitor.com.
 skokka.spot.	172800	in	ns	ns7.markmonitor.com.
+sky88.spot.	172800	in	ns	launch1.spaceship.net.
+sky88.spot.	172800	in	ns	launch2.spaceship.net.
+sky88.spot.	3600	in	ds	26390 13 2 C26C186EF474EF361161226767904FD3AD6E51AF8478D0048CBCE4094B0B4B00
+sky88.spot.	3600	in	rrsig	DS 8 2 3600 20251009233742 20250904232041 44589 spot. 1hXMiExxlE8KwkLI9ElZVRxwuWLuJd6jRZlsnyaDmVdlOvEk07fHsXaqTsMGTCq3bAHCUJwwRHuX7ha+N561crABZmXlt16VpI9LieyGANX7rraZUfWB60wHXAnCy/t/CgtJSK9YTtPB3gnnn3HEr3nRADQi/2w+NPvQrA3KBMJDPs/46rZ6TyLEbd3v/UGcZTPRkv1sgk0H7R4H6lJdwkJf9d1vkOItVW0iGUKyKaXXyw1Cb2Kk/vGLmUNEn2+/VDgeUfqf0AInWhGn3vYL+pb1L6qfM2C9NBY2jrI3SM8Aib63L/oRp3D2ZZG62j3I7h4ldF0abOzIyVhzoKbdJA==
 slop.spot.	172800	in	ns	curitiba.ns.porkbun.com.
 slop.spot.	172800	in	ns	fortaleza.ns.porkbun.com.
 slop.spot.	172800	in	ns	maceio.ns.porkbun.com.
@@ -1562,8 +1639,8 @@ spicy.spot.	172800	in	ns	ns2.dyna-ns.net.
 spinbetter.spot.	172800	in	ns	dns1.registrar-servers.com.
 spinbetter.spot.	172800	in	ns	dns2.registrar-servers.com.
 spot.	0	in	nsec3param	1 0 0 -
-spot.	0	in	rrsig	NSEC3PARAM 8 1 0 20250927170708 20250823164554 44589 spot. s3nZynBzReAcm0CtuJqtbMP+Th03KapPorzbmDzpqXVtZwq1UU80UPrkF5BX4w60UDTWPlFzOm2TRV2FIYwOt+JhwufvophzLVDp2o4+cz7vslJ8KlTiGwk87Ab+PqVEAK1xf1FziI/jhs6W96U/C4wdeaIZRpQCO7ZM1xXjsd3oAjctMdGsPGDq6l+TzbfGlwRe6DyySqwoqTsq6vlteeI/l3aMlyPa3RbAV1zYk1xznzUd9do5uubJsl8H2GrwmvtHCyiua0XiBn4LNU2vLRaU1TcPEO+s5hvzPpLmaPAxEYI0qaudiWvXAonO9yr0tbgvAhoijsDkW31+9AXLng==
-spot.	0	in	rrsig	TYPE65534 8 1 0 20250927170708 20250823164554 44589 spot. I5qSBSQon2TH9qX227CFG6H23Sy+O3kvoXA3PruRT/R1q17K3dNRko+UeKHgQO6rtfGoYQrG9QqQ2mDY9vZ8S2zYyOEqAjDrTr/m/SbxnuKO/heXc4ekTNk4TfE2i1ZkRuGvJGfKG0AV1dQL4wqPfBmhD3tT3NFUqO6Pso6REqkMVmE2/gyq3bv2NVePng3gEwzuA8Fkg+qOhYhXXL3g93NBcgSdn2CI+w038Q0zjZMC9ixDK4gvBpwcpNTHqN9p0Uz5nvo6UP3sLc2JUWup5CACrOxWKlrrGXT5yBILT0OwUK02YP+zt9tK9SXZ2qU/NcdeOjdQkNooKhlCPKEqIA==
+spot.	0	in	rrsig	NSEC3PARAM 8 1 0 20251004161549 20250830160708 44589 spot. xYqRlBHl7vz1c5NcyqS1q/9Ne9psuaPeMqkmR2O2/kn5E3aGUBDYHY8NZ0vQfIdveuEWDOBlOAN8MGgeQ6wbGKEcJHYM3aoJMniJPZEMP0uZi+7qubCFBuydGJfgkDftCMqBEjoIe2LifRzcDoHgF/nqF/nLF+Vqkce3pMpNkSHvqVKB5zUdzMxpoWW88tsX3ILlok9zOkHsC4JDph4126Z1/dmNF2fYmKJ60qh0F99Cp0PQ5mVuM/816liSaK+IZdePT/rUlVmtQFjwJrsiZiQhq+0XRHSQXs8zWNAJ/4q/mY6LhCumCgX4Sb7Nyl7pHpVKXoX49FLJvB/+eB1y1Q==
+spot.	0	in	rrsig	TYPE65534 8 1 0 20251004161549 20250830160708 44589 spot. Ul5Ij7Zm9i7cEE/2KxoR0hagKEwNkGPta3dRUGMCC1+oPgtqK/hQy2bHMM5Z28iovmeZR/TBTtaxF/23zTpRsUhaEdGcvA+RUBRWx0WqGmzvs2DJJhIrn0a7mSwAZ++uOfppG+3PrzNUdHUxEb5W25hIBSK444dg8M9et3LMunEi45NrHF/GDl4BiUioMFuIZFrIfWNUSwYH5h5oCCINJdtNdF5BnTVoP9JRNsE+V/Bh+9671ATwI7fl1PpswdYyv4nbglwBIwYc0ixakrtmyYWoRzf2U1on1zVJ9lOOBmsYcwgTKvRwd/qPWHrQye7AcDRY4hJtDoQ9TJZDM5BMCQ==
 spot.	0	in	type65534	\# 5 08AE2D0001
 spot.	0	in	type65534	\# 5 08E9B30001
 spot.	172800	in	ns	dns1.nic.spot.
@@ -1574,11 +1651,11 @@ spot.	172800	in	ns	dnsa.nic.spot.
 spot.	172800	in	ns	dnsb.nic.spot.
 spot.	172800	in	ns	dnsc.nic.spot.
 spot.	172800	in	ns	dnsd.nic.spot.
-spot.	172800	in	rrsig	NS 8 1 172800 20250925131432 20250821130615 44589 spot. kbYSWhl4GyKl2hSo3RZtDvkD2SDVgzYNlwlVqivRCCoh1yWMMIboRxUr9UiDlKWpCVMhSbcv+o/PbAaG22K2r2TKEgnCgE9zt/TWF4IrG4YKOjjLPL7+WyqbPWSEVp5c54wrVPwAhU70FmUIcAvYh4P8/0YZHNqJa+T270hUjrXxxZFE+VhXAmanT2C0HoSXge3hjA1KV4yjp5GlooJjZlBxF43cnug8fhNYUgSdCUsWGoj6mlzmlSiTdGpPAX37PfsKRs0UvXJj17bLG64g8mA9OZbu3DfdZD7fX3JHfLGjIDkFzX2DJAi9FPhROAXELpy9I0WuTDJdCvYBTnYhUg==
-spot.	172800	in	rrsig	SOA 8 1 172800 20251001005030 20250826235030 44589 spot. d48xVs2gDKXpP4uZB1Hh+mAWZf9fD5MrhIO6ubRtEyx+WD39HFontHkz3ECrsCvX9MUGvCLZ3aivQIEpEcHTHOVvRpn33ChlPH/8vnn4Ikx1GUlJbPugI0pZzT04RxqBGUs7Z1UxAUMkAoOc/+0FZp/TqiLbxQ6Ew/208EGi3ckFooZbe1Aqi8yntsmFykSM6plQPfazp6TC2zazNwOxdC4NFq815yZP9yzaUxdot3/18J6UAdUasE0opcQ5wiJ2MyWtgUyOugrB0n+CJcsiUyDt714FQt1WQe9ho3hVZjAGMdLsljEfSRHD3u2gb+AWMrH5tzvMcFKY2RJpuS6XWg==
+spot.	172800	in	rrsig	NS 8 1 172800 20251009115656 20250904114519 44589 spot. oIBTKYDdoBxx2c8XbU9AD9Gd2D/0zukAuGxr4OrlrM+xYKF7jjkGOYFhuSp+XwBoPCiUnf7nw7pdFJQ7cvwGSVg5ahykqkqRzfxUkznpaQhQz1m1YFL/yo1keevCnOM9LegHLNLDAN4zZ11cW/Aw2zN4rV0dpMsL+3klLOYKwW8XUx8gTJFnOhwiZEcMkMK2988AiLqZdNTkDDhFhpu2eRiFYs2xaueplIFpol5gFpXlQtQpOnr5yhvqRaaAccUrX76i0iXNfJTQxk4wbPVyBqzhH9ICvGTF+oH9hg4PuRda2ZQksFKzA5/lh2vC/SlWSSU4UX9QNVLu1ZPjfH4xUA==
+spot.	172800	in	rrsig	SOA 8 1 172800 20251010002041 20250904232041 44589 spot. SNItOMfpnG4DGYjfqvrxMYHbnf5Sz1OWwSElpnG4HTz5eN8sEvjlH6vi+j0P38IqN42fCUHDoWFlj192skBZEs39mUtwzFdkbiCr3NFpv6MBRTvPMVHIkCl5PLjZSqIgCK6haJvZ8gF4H1lMeWa+k91Yhq82ZdqshKayu8tQdosVgZqaNnrrsgoWN6T3xO2n/eZU/J7BBdQAM97VOHeUq3Kk/DljEtyPDNXagNVXDdTlaVjTZW8NJolbzq2rXvfjPgtkUtHzgYpWsc11xot4Gi9cf7bDoij9WTjAlXGMEh5qUCQoxtnXqRSqw2lJCgy0iP9Mt85O+W7m50zLZIN2uQ==
 spot.	7200	in	dnskey	256 3 8 AwEAAdeVyCw+6HmZyMnCHAU6vxgkUalotN7kpkNt/8RJaVbZiVlgzsk/4N3DtKhs5HigYQO7qa9kSAX5CmcUQVDbchkrz9Bl33NicrVl/lNJQfsC/UsM0AdBf28K5A3VpPkxTWWfJGgXxe3d7CHi/iVG0ODUDD7Y19fZ8Nm//nK0a5F2zCsn9uPk3nFOTKylb2L3Plb9hlP+sQJo08dIx1ZA6C2+hLc7UAW7nAgdmGqMyuEqg0eSHXBGLEF09gc/u389zqwlio9P5ZzGK+opy2QE2pxg8v3aHttoG2l1qp3y8OBMdgnKYtlucHW215dRP8EnyjWBXf8dwGgNOjGS1Yv6COc=
 spot.	7200	in	dnskey	257 3 8 AwEAAcm8p60H2zMEmg6X1hZWOa2hic4I7kU6tOrpUENKa3HkQb2HqpfgXXkf8YZ1vwofQfdS0OHYl1qi0TD9g2zizK7TeP6gYTKK6Uu/q36fSixxjbsGz4Y765wI1p19gZ3twMo+t84F6ikdRYB7brOPGvS7nW2RXhcgLuH64m5gXn6zCkkemY68CcLbee9vV0CL0OJm5g2sqo/g+K/Z0XfAxkTV8tbJaEEoOgeTjBKCa2nYka6RefZUTVBOSMaKs/cpg46OdeE6DhsJXv3dO64O5jJ9koKbxusBhi7FD06C8TEXCqpX+BlPKQKN13YRjor+cMUUnxwLFNUHVK3XrKDK7V8=
-spot.	7200	in	rrsig	DNSKEY 8 1 7200 20250929075713 20250825073029 59827 spot. wia0RoOTKpJCeuyQxk8arQjg3SVHCC+C7VVJpqnpYOP1+tPSeqX8+6CPG1EVgWzGUZ6+L3biw2IFOuExTE3pjpr7EbLBgML2Eflz5cBF8o/X7GbUMFpRd2lm0tjrKyHIasRaRkEpUV9+q1AeONSIS/kHsNODRwyyVzSTKH2E1lrmRr9xLBXUyMZEXmW5gdoHZj9QJnAbJfk5OdpvPnFyZN+fE37AA20aADPr68GPHTMNCmGRv0suIMl4lEFWsnUbtW1zA5WMKP+vm85oHgPBI5DPAd+hQOvdvphEMznPWOkNIISqnlwqSbS08Vzk0LBrJoFQSLrZa8F+YqTZ680kUg==
+spot.	7200	in	rrsig	DNSKEY 8 1 7200 20251006073326 20250901065713 59827 spot. Q+SWt8KRvG3vTXIF6sHLA2HiIuYnwzST7NCYSS8TPmPIOiZFxQiZnJUryidIW7DFkbypHSyrh7oQclxTtEwHEGTUXSgtqsPmvz8UGx2T0WlvdPd0bu8VQ/xgg4Ye5pbN1kZ2hPg1+2ubSBUYKsmwGgMDOYCQ6QJqvdiJ4jI7ya1kY4Y1ISWIfea7c2GvxD+A1I8KL3FwQnP0PSrO/Ca18bjiQMJU0qUGv86bheYM8QYF7tEAvQOCHCl8/8W0dr2IQdBESmmNvPLBQs0h9hTk8oi70d0qAu189muqfzXiH846h0bJF/iUYU1wXytscziCw9WTj2vQtcT4kdh3DmNW8w==
 spotspot.spot.	172800	in	ns	ns1.dyna-ns.net.
 spotspot.spot.	172800	in	ns	ns2.dyna-ns.net.
 sprout.spot.	172800	in	ns	bayan.ns.cloudflare.com.
@@ -1588,13 +1665,17 @@ squat.spot.	172800	in	ns	ns2.dyna-ns.net.
 stablecoin.spot.	172800	in	ns	launch1.spaceship.net.
 stablecoin.spot.	172800	in	ns	launch2.spaceship.net.
 stablecoin.spot.	3600	in	ds	33875 13 2 5AC725FB2AD9E4D7C3D1E1A06481504018DDCDF1F64B39DFB19284A39373837A
-stablecoin.spot.	3600	in	rrsig	DS 8 2 3600 20250924174128 20250820173430 44589 spot. BwRHKxqKUFjJ+hzYmzOj/X+bA/y3XfPmg5rfCOC1Pkpq+q0Qe9rOBxgWUiWwz98KrdmjaTKR+Mg/Md4QhZMaEzLWTh4lI3kC0RMDP/p62rD3HMtzOL79mf2L7Zz8nOWgdK1jkTZ1DFi62c8fTGLoqCufGc5TcHDq4p74FDCy+TOQ0fhied7kbB4gCJaVyarfvT5pZoPz4S2PqUOujkfS+OZyuWDRaNIyRdLVYYl0IrxjCzv4Z1S7iayI+MRi3tcF5JRg2m1wTtgIOCGACiIXTSYcEdXRuS4pt30mMsSmIcCbyeM5qeRGDIe4Zj41H2kX3jWeTbRdTpL5vgXHZStjBA==
+stablecoin.spot.	3600	in	rrsig	DS 8 2 3600 20251008164705 20250903162710 44589 spot. MoSZVBV2eOuxrOLTiLHD0vtFN0B3mDH6B12a/wysYQogMuGJQHtjzQDrs4SuGi5xlSlmT9gWxb71KpK7Av5H9cZ4Aco/JzEeQSpbsaYc74s6mKQ8r0lweCDszR6ijp6v/f3hWbh9CBphQpn2jZhh/FKInVJJ084rJrHP435LCZroI7/Txk2/25PKrEF6ci8GzdalYGThBKV/KAGKpZJybCq+rjBmo7lxhmeEYkBTEpLIAJvukxPW/W5WKwCKUYL+5P3HeIVk7oA/UO5lIIsjrmptBRTiE9Q+7hRMJGbzpvEsyFsfmWcs+mg7Tk2h6saotjqYtiPTXFlfRCXAGSD+Dg==
 standup.spot.	172800	in	ns	dns1.registrar-servers.com.
 standup.spot.	172800	in	ns	dns2.registrar-servers.com.
 startup.spot.	172800	in	ns	ns1.101domain.com.
 startup.spot.	172800	in	ns	ns2.101domain.com.
 stash.spot.	172800	in	ns	dayana.ns.cloudflare.com.
 stash.spot.	172800	in	ns	decker.ns.cloudflare.com.
+stateofhub.spot.	172800	in	ns	curitiba.ns.porkbun.com.
+stateofhub.spot.	172800	in	ns	fortaleza.ns.porkbun.com.
+stateofhub.spot.	172800	in	ns	maceio.ns.porkbun.com.
+stateofhub.spot.	172800	in	ns	salvador.ns.porkbun.com.
 stealth.spot.	172800	in	ns	ns1.dyna-ns.net.
 stealth.spot.	172800	in	ns	ns2.dyna-ns.net.
 stellantis.spot.	172800	in	ns	ns-231-b.gandi.net.
@@ -1628,7 +1709,7 @@ sv368.spot.	172800	in	ns	dns2.registrar-servers.com.
 sv388.spot.	172800	in	ns	dawn.ns.cloudflare.com.
 sv388.spot.	172800	in	ns	noel.ns.cloudflare.com.
 svd6rurhs2ud9ev6fq5urlo8ikhvberm.spot.	60	in	nsec3	1 1 0 - VA8A2KBOUNGQUKT10KAALD1BL1E1JOKN NS DS RRSIG
-svd6rurhs2ud9ev6fq5urlo8ikhvberm.spot.	60	in	rrsig	NSEC3 8 2 60 20250929074256 20250825065359 44589 spot. Io0JIdODzkHZ0uTN6y+8ewDolSbm9ZYwDFOp+rpzBgzrI9t7pkEtdrI0o1kHG3QML20W7FJ75IB5PdmYCLGw2d6BFyyt4TwV4vs0m8cU2hkl77j9CN3zuI1TGEE4mM0TI/4NRPN6eJWykk0r3lFMP+TVTFg2klPvy48q71o1DOsx3cQuRWXAD/A6FhLaOLSKitWJ/ByqpI/yRwE4scqF+CNCHrgGnsDgZzg3JVM0SBVInfBfwi+k2n/xVxsRtNMJ0KmjqsgwuieUOGJgcwye/7M7wFuw5jDCb3eTtRlSkMcHk8ry2Z6BerSNJEAX45ekXKezOqSqPc+UeGI+FgLr5w==
+svd6rurhs2ud9ev6fq5urlo8ikhvberm.spot.	60	in	rrsig	NSEC3 8 2 60 20251006065854 20250901064256 44589 spot. fC9KnGgI+vmweTLfa2MsmMyUuTAjoeXczc8XLLWuCUNbVASudwlDMExFwM4kEPFcxW4G2ZL7ncxfb/xvVTeVjA1bIDH09dd/EVa5Hck7fmcyHXom5qA9ePHvf2m3Y3I+l+v64P5oTKStH4IZsvZK6pUD7v9KBuGfeuz1WLmVhZ9FrVk4M4c0POahZeDgUUuYw9WHBT5bNLFIWpfjsaSB8QnYJKYii9Reafdd+PWS0I1FPV5IEyZnMeFr1djKCVp1a7GC1aWz0ovd96WryBFrt22z43UsujBDiLj8krkWI8kHpW1ZqHDq3iG0K4U56FxR6uxPW33k25pm94bQGA3zuw==
 swag.spot.	172800	in	ns	ns1.dyna-ns.net.
 swag.spot.	172800	in	ns	ns2.dyna-ns.net.
 switchup.spot.	172800	in	ns	ns1.netim.net.
@@ -1638,6 +1719,8 @@ syncup.spot.	172800	in	ns	dns1.registrar-servers.com.
 syncup.spot.	172800	in	ns	dns2.registrar-servers.com.
 synergy.spot.	172800	in	ns	ns1.dyna-ns.net.
 synergy.spot.	172800	in	ns	ns2.dyna-ns.net.
+t4t.spot.	172800	in	ns	dns1.registrar-servers.com.
+t4t.spot.	172800	in	ns	dns2.registrar-servers.com.
 taco.spot.	172800	in	ns	ns1.101domain.com.
 taco.spot.	172800	in	ns	ns2.101domain.com.
 takis.spot.	172800	in	ns	ns1.markmonitor.com.
@@ -1693,7 +1776,7 @@ theg.spot.	172800	in	ns	ns02.hostnet.nl.
 thehot.spot.	172800	in	ns	launch1.spaceship.net.
 thehot.spot.	172800	in	ns	launch2.spaceship.net.
 thehot.spot.	3600	in	ds	44487 13 2 40C23D57C06D5370B8DE221C71635A29223F3337E7DFE68E7EA1D573C9F39FBE
-thehot.spot.	3600	in	rrsig	DS 8 2 3600 20250926024118 20250822020406 44589 spot. S8jkYuRvGe+SKP8r5AvigfDJSkg0QqU8ZJA72PHeoARAUTGWxQV/C4s3O8E9fpSW1BkpH6PpMIKyuFmod/ma77LkzqrpwGWOBiyYEeJwrAnI5xX1qZcw0ghxCbr4vcasRYpy+k6DIfjcZtFB0AFBNiJayWdLG2jdlXsgOnZmCYgjeLSY6r4sLPtCKIbN81xS7QwUfVpYVudrAcmUZ6kIUi7kqJ6qMrseR8gqKMLa+XCgBQJWDyitGt6kBfYCoL5rTqO8Epd15kxyj2tI2Jyp9bPmCUcaZAya4j5NoBMPcDhjVaMRpjQn8IOsP7eJpuF9Y94J1OrIH5Tqz2No6N2DfQ==
+thehot.spot.	3600	in	rrsig	DS 8 2 3600 20251003014858 20250829014118 44589 spot. pSIHGpoTF73BCUsVfTpOqD6tbmCNrJFYCbo39uWlMR3X2PB2zX8J6OjpCUwfJMUhASWJI1EZ78klq5llXjLysGLS9opqM+4WB9QTAlS5blwjywWH4JKPVFZqjWX5SEMQzlBg+Hd7GBeGRiSO6faiAkEErsdQKwq4cLH1WTntDby8K40aZH8eImdzzJAExvEv1mJwPuWYbW7FEDsBlUQXFgPLBtKnvzTYyTM9gGiYQBr0/O7m2hs/HfjFCn/kiw5QBpzzAK5WFIKrBrD5lWLWgdr88k3DE8EFKPjvXAAS1a0GmgA5y9/FUZLuMyyuCy0GC3gHwhrz2k7VlDnw5h0i0g==
 thesweet.spot.	172800	in	ns	ns1.aftermarket.com.
 thesweet.spot.	172800	in	ns	ns2.aftermarket.com.
 thisis.spot.	172800	in	ns	ns1cny.name.com.
@@ -1719,7 +1802,7 @@ toast.spot.	172800	in	ns	fortaleza.ns.porkbun.com.
 toast.spot.	172800	in	ns	maceio.ns.porkbun.com.
 toast.spot.	172800	in	ns	salvador.ns.porkbun.com.
 toast.spot.	3600	in	ds	2371 13 2 B658A287E104FF012223EB9DC27D15AE42904B544962F63DC0EE408E46919489
-toast.spot.	3600	in	rrsig	DS 8 2 3600 20250927084714 20250823083050 44589 spot. 149EyTyoZ4xR76Wo8QK/i+mZHItH7OIWEqp/4HkMuo0owGIW/og1xsmBcOCKVIvwzFvVvOPN47q1LGjO8vcF/N0urT1Gd27jNjJiMj13bZSXe7OU737eW4oQgT2q9KJ1+NraSPdWgEBfTxlIBXTw9IPiPy9JN/97oFPSWqloNd4bWf5liQcQzCJPIL2zu2H9bBf6Za7g2uUxcq8jTTLNLwApZw0I02aq3EdhwXKIKBd4yADzfEuqaO9AE+9z0YTVnVKjLnZ/RisNth1f7sY4hMkN96w5+cbriuiHzKNk/NGnfVlx8wIqrmwn4q7Ee6qvooqGUj353GOV5De+X3yvbw==
+toast.spot.	3600	in	rrsig	DS 8 2 3600 20251004082537 20250830074714 44589 spot. O1r7gl+NTEUn5dBxkXRFaSxC2akkRK19V7fLlTcl3KQBLbpoTXiXbdHPhpk6glcSdhIucBY8oZigi68OTfNIpVzD+wJxVxaKpZY6dAxtxeDL56m8e4fqUc+sYWWa/GKecLHkMwD63WPmRLXfmdp96+mACfxIeSw7U2ZhWI+09YC7JRWe4c9WH13wmnbsHdmG1/d0KziSKQnA9rS2MWCz7HgXhSaJG6ywDa77CwB9aC8V/oZY+RAFh1mcvPyhjKsvcPJ9hq2mHZOdQMqNvC3azQFZivTk7kWXhmPegjwoQcSxGt64loQ+O7ZZ9sCHK8m6LKT1DXKrkHf5Eqookc5r2Q==
 todo.spot.	172800	in	ns	ns1.dyna-ns.net.
 todo.spot.	172800	in	ns	ns2.dyna-ns.net.
 toryburch.spot.	172800	in	ns	udns1.cscdns.net.
@@ -1784,7 +1867,7 @@ utopia.spot.	172800	in	ns	riya.ns.cloudflare.com.
 v9bet.spot.	172800	in	ns	ariadne.ns.cloudflare.com.
 v9bet.spot.	172800	in	ns	dale.ns.cloudflare.com.
 va8a2kboungqukt10kaald1bl1e1jokn.spot.	60	in	nsec3	1 1 0 - 1FAARSK0NVBU15UOP5LVPJ7DHCRP5O8R NS DS RRSIG
-va8a2kboungqukt10kaald1bl1e1jokn.spot.	60	in	rrsig	NSEC3 8 2 60 20250927004449 20250823004255 44589 spot. OkuRs9PL/aXtSNVKVnmSAoWzBqY+WQJjHbXkshAWJIZB6/XH22frv8AoPmjGNhePR0tJ1uILr7rCwAx5BssUxzr1YzEImf1YBXaLgOffCO1FHvjxmWo3gdM8gJkkyjWYipfND8DiUq+riRoWa5BT2CxzJST3VA8nPpcKfKAH/mALs+V9wFqy6TyXoVXYFDsxvAEnmZaJIZsbJn/GFNuCFLV2hwiNS7RZTgEztBDPoXcqXUtcYvuVty5Wr/hYH+i3evtR56+COyvGfXf+mZNlgngvnnlMe9cnrZdBlKuAnqp2O2DrWOjarX5R3pwB33NRP/ZTJmHbILu+AFtpj2uhSg==
+va8a2kboungqukt10kaald1bl1e1jokn.spot.	60	in	rrsig	NSEC3 8 2 60 20251004002138 20250829234449 44589 spot. oVmvuXUSSTP32fSqb+thb6eCt9J0zmVytRbVw6JsL+jMCCKj8aBJUkLFvF2ChfpPq70sSyHceM0KmCXl0sSSTMooB5RjPJ6pGgpzS09zEIm1Tzi3Ospjrfvr2wYD8lGr8AlFpGaVILgpR94uhcsMXC6PoCe7janN395Xer1y+h1fxbb2djNv4NykuAfRVzmFqOofR703fk3Rp4yuevoDExhEl+PU8tTSGqbyn3u28xS3H1bft2SFgx0nK/ew/aggzaYqdU/4cOJLiHlSXqLJQL1Yn72rGlzdi8lcG1PUWxi0MVbSaxKZnXRaPriCqm2mxQzgHZQKtwAwhulCjzOhWA==
 vacant.spot.	172800	in	ns	ns1.101domain.com.
 vacant.spot.	172800	in	ns	ns2.101domain.com.
 vacation.spot.	172800	in	ns	ns1.dyna-ns.net.
@@ -1870,7 +1953,7 @@ vuoriclothing.spot.	172800	in	ns	ns7.markmonitor.com.
 vvip.spot.	172800	in	ns	launch1.spaceship.net.
 vvip.spot.	172800	in	ns	launch2.spaceship.net.
 vvip.spot.	3600	in	ds	44970 13 2 1923F7592DF060BE8AF18EEB9B79C04DBED8C3D6A8494CB6F05C31F3454BD6BC
-vvip.spot.	3600	in	rrsig	DS 8 2 3600 20250928025523 20250824020933 44589 spot. t/pO7oTWbqF+X4oFDNemJyJtwpsRlDG7EHw/VuLu5/ChQbXBhTRKg+xJ7n8Y7XgPe9V4k9Un3wphU+ZDT9G+SRZMuzB0McTRciExgbJj4hdUOwkjfNZqZcKBFT169qgx0RWwUEmEs2rnEl2ISf7ivA5eEZou6INxa5q54XaZQWoe5EJR5iWJkbaqTf3tsA2aD7P053x+/rnU0VI4vEWDTlqL8QHis6mZIjz/nhYNr5bilh4n0yKfoXtrqch9SSiehMTIpctBA6EIoXf2wUbcvY4efY572/OHu6qGFB3U+E0zSaLWc+G4tUXb9Gkyx0bi9TXQKUtwWfoRfFzuCaZwyQ==
+vvip.spot.	3600	in	rrsig	DS 8 2 3600 20251005022131 20250831015523 44589 spot. 1c6UpXEJjtoY6OC5ZUtK2/y5S4sNA/ia1CuBCSVnR+XHuSn5ltAvTstWr2Na/25vU73BZKxU5yvB16YH6tdIniWcUKBtvGPtvZwe1j7TUgTPNUm9f2EMO6TNzBDzdafkaxSc9XDCnD/FuaVBiOLWpxzApF7XEQyd6cu0nuS7/mQYIgYSvLSm7Diyojf33u3h2SgZmss409Z/aex1Cq2qtMR829ypBK2E3Izimwu3lLvhHdetkV+28GNr+zEvlZVGSydRTmj6Gop2swLg+zEYgDqdIzo6fP2HhMhtl5vdzpJ+CPyF/8ZtUsVQ0HSy368RzfwL9wcvpOzkO7/zQEfu2w==
 vz99.spot.	172800	in	ns	aarav.ns.cloudflare.com.
 vz99.spot.	172800	in	ns	dee.ns.cloudflare.com.
 w0lf.spot.	172800	in	ns	dns1.registrar-servers.com.
@@ -1931,7 +2014,7 @@ wrkr.spot.	172800	in	ns	dns2.registrar-servers.com.
 wspr.spot.	172800	in	ns	launch1.spaceship.net.
 wspr.spot.	172800	in	ns	launch2.spaceship.net.
 wspr.spot.	3600	in	ds	36299 13 2 C24958A5D02892B88A8C4BDA788B1FD4F41B3FE1520B0B99FF83C8E28FCFACB7
-wspr.spot.	3600	in	rrsig	DS 8 2 3600 20250928120656 20250824120007 44589 spot. rlt8gICfogkiVCgP1dn5C134gr84ROmz4tMbc3y46+k6AdlAdid7bW3la/Xhu7P8LxAh32Sk++/L4UX738Pz+dmiZH4P44od6X5bA+PN8rRfjd4fH3jW6KGx3pEkg5XCPEekFOwrdkL3F45oQ3D7zQ+nnvsrUuGAGqIAbFZZ+BDYscrUVBhxJUMk9pBUo3mcIgljl3ea8dM1FZrDIASCX5olch+wlXvqyKRl6LjJ6ommAv+6StChIUc3LY/4si1nis3+gAz4qLk/QUhKJORPChtqa/bSkU8Drba9ql5sf0vJRYkMB5e+3Xl5q6fdkraD3OhWRy+KDSOgeMyf/t/9mQ==
+wspr.spot.	3600	in	rrsig	DS 8 2 3600 20251005111826 20250831110656 44589 spot. KuQWcfVAeL30rVsLycmW+PLwPKZlHapZI2ttOQXZVo+BJdWo8zWI4P/FZtVHDudf6gKdb5yPTOMMmswVHTElqVuBuJbFW4HZlxIJ8tTZ0TGb7h58h9gGjpgQ5PPc5AzE9rrc9nXJfI/IOvfn/ilr4mXhT0pxT6Ka3POhLTMvMoTOIv8p0OT8zhUk6XeUiTknImC7HlK3OTDOmuouLKM4TfEdABmW+mDpPkaq4W3n3lM3wuf1yLTAREJClKM+3Z+NEyaNUospU90koh3v2q+brUgG5M4GmXaAAoQR/ES9klXMh7UpLpNMVgwFFyRsehnuSlhnXZ71xSeFWXJyJg0DxA==
 ww88.spot.	172800	in	ns	dns1.registrar-servers.com.
 ww88.spot.	172800	in	ns	dns2.registrar-servers.com.
 x88.spot.	172800	in	ns	curitiba.ns.porkbun.com.
@@ -2003,4 +2086,4 @@ zbet.spot.	172800	in	ns	zita.ns.cloudflare.com.
 zugbnki.spot.	172800	in	ns	ns1.hukot.cz.
 zugbnki.spot.	172800	in	ns	ns2.securitynet.cz.
 zugbnki.spot.	172800	in	ns	ns3.hukot.cz.
-spot.	172800	in	soa	dns1.nic.spot. hostmaster.nominet.org.uk. 1756217537 900 300 2419200 60
+spot.	172800	in	soa	dns1.nic.spot. hostmaster.nominet.org.uk. 1756994657 900 300 2419200 60
