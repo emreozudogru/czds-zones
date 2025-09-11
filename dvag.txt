@@ -1,4 +1,4 @@
-dvag.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019127025 900 1800 6048000 3600
+dvag.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019127502 900 1800 6048000 3600
 2tqhicvjfck3ltir044pmh2o1aqs4dg5.dvag.	900	in	nsec3	1 1 0 - 86MN9AJ97FUOO9BDQK6TT3NF80RPAATK NS SOA RRSIG DNSKEY NSEC3PARAM
 2tqhicvjfck3ltir044pmh2o1aqs4dg5.dvag.	900	in	rrsig	NSEC3 8 2 900 20250912213717 20250813200717 42129 dvag. IGk5AiOLwrrGXlK7JveuTZ4rJ15S3YeglzMPLt3KVgRfHEyVpYXB8K89c/ahaId9maD4EGES2ktkE1YD3I/NUzegbdWafKR6Ggea21WDoZiEAp+TNz9uInMt5VMnrqdjCIHtMWgLa4jBwXGGhjFIIVhEYHD5GFSaUWqUa13cCY4=
 86mn9aj97fuoo9bdqk6tt3nf80rpaatk.dvag.	900	in	nsec3	1 1 0 - 2TQHICVJFCK3LTIR044PMH2O1AQS4DG5 NS DS RRSIG
@@ -2401,6 +2401,11 @@ anja-hemzal.dvag.	3600	in	ns	ns2.brandshelter.de.
 anja-hemzal.dvag.	3600	in	ns	ns3.brandshelter.info.
 anja-hemzal.dvag.	3600	in	ns	ns4.brandshelter.net.
 anja-hemzal.dvag.	3600	in	ns	ns5.brandshelter.us.
+anja-hock-wagner.dvag.	3600	in	ns	ns1.brandshelter.com.
+anja-hock-wagner.dvag.	3600	in	ns	ns2.brandshelter.de.
+anja-hock-wagner.dvag.	3600	in	ns	ns3.brandshelter.info.
+anja-hock-wagner.dvag.	3600	in	ns	ns4.brandshelter.net.
+anja-hock-wagner.dvag.	3600	in	ns	ns5.brandshelter.us.
 anja-jouaux.dvag.	3600	in	ns	ns01.brandshelter.com.
 anja-jouaux.dvag.	3600	in	ns	ns02.brandshelter.net.
 anja-jungbluth.dvag.	3600	in	ns	ns01.brandshelter.com.
@@ -3309,6 +3314,11 @@ azdns-test.dvag.	3600	in	ns	ns3-06.azure-dns.org.
 azdns-test.dvag.	3600	in	ns	ns4-06.azure-dns.info.
 b.nic.dvag.	172800	in	a	185.24.64.84
 b.nic.dvag.	172800	in	aaaa	2a04:2b00:13cc:0000:0000:0000:0001:0084
+babett-schomburg-2457040.dvag.	3600	in	ns	ns1.brandshelter.com.
+babett-schomburg-2457040.dvag.	3600	in	ns	ns2.brandshelter.de.
+babett-schomburg-2457040.dvag.	3600	in	ns	ns3.brandshelter.info.
+babett-schomburg-2457040.dvag.	3600	in	ns	ns4.brandshelter.net.
+babett-schomburg-2457040.dvag.	3600	in	ns	ns5.brandshelter.us.
 babita-alexandra-madalina.dvag.	3600	in	ns	ns1.brandshelter.com.
 babita-alexandra-madalina.dvag.	3600	in	ns	ns2.brandshelter.de.
 babita-alexandra-madalina.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -7950,7 +7960,7 @@ dvag.	3600	in	dnskey	257 3 8 AwEAAa+Q8UcK0idw4UZFrNw/2Tu0IfMFQnJeAC3eog15AuHJIWy
 dvag.	3600	in	rrsig	DNSKEY 8 1 3600 20250912213717 20250813200717 43019 dvag. jlTAH6XbqZAcbZSSL4nLv2xTgARFvCR7ZPClwuhPKBV8lIvJ7CMGyT4HC1iBlDgz8e2ifIn6C597j4NVIZIMteHB5KOy9O7c/l88raEEaB2C7WoP4pw4tulVFvNx8q03ToR3Pdmo2fW+oIcDwOqtPQul6l0EwCAkoaCWkXdCpZCgAnIqKr2NLuiOXwEk7EIYn/bOz4zub2ZyrNl4EW7hGV04t6DVm1oLhHp18gReM0bWFGUFoV5XK0DbHE+kkKLgtVTamvY+QXCYmQ0m89JcdRLqZuQbDSvLJJi+BmPDSAVpvWUw10Vdg0vQ4gXfb8bxShZsbbp3xyBWdjGxh8rX/g==
 dvag.	900	in	nsec3param	1 0 0 -
 dvag.	900	in	rrsig	NSEC3PARAM 8 1 900 20250912213717 20250813200717 42129 dvag. ZT00eE+nw5C4gx0Uy0caMn3EStTh6w4k5EGOsD2/ichj7woKXAEhKb2WyTX7ZZOlOPC51G9i4ZGxj7q32tQHU783L6h4N7MwYDqaoGRf/FqzF6/qjh4vWhs31nwkuLLwn/YMNxPs+jE4B/JxrwncZok41nYnWVoBEaNmOcpBKrk=
-dvag.	900	in	rrsig	SOA 8 1 900 20250926004421 20250826231421 42129 dvag. aIGJTw78DkWG9RLL/SGMOonvB0IJgeEqhkdE74d7fCdANj/Pxi+nvfJJS18FdtpDD9XcqyXoqeqFsB47B+6vegiprKBwe53MENq5ygNxPm/f7oqlDNOzqF49McHnt0got65rPa4YNpqapwvimSd2pZLibEY+HuH3BHKQUcLfW7s=
+dvag.	900	in	rrsig	SOA 8 1 900 20251005005412 20250904232412 42129 dvag. JqK7E/XMWQT07AAOGdaD0ubuq6fcXFMnTlX7OP6tiHewi85FKfqHon/y0QjQPaqpV19cloq31GaGnZr8TNi1V4z2kUuqlM1ZnvxEeQqfdE340x+TD36Wjh2JkhTIav4ooLKRF7nRv47Cp+OKDzmg6786jabCF9/Ce13tb/KwgUM=
 dyck-david.dvag.	3600	in	ns	ns1.brandshelter.com.
 dyck-david.dvag.	3600	in	ns	ns2.brandshelter.de.
 dyck-david.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -10454,6 +10464,11 @@ georgios-charalampiadis.dvag.	3600	in	ns	ns2.brandshelter.de.
 georgios-charalampiadis.dvag.	3600	in	ns	ns3.brandshelter.info.
 georgios-charalampiadis.dvag.	3600	in	ns	ns4.brandshelter.net.
 georgios-charalampiadis.dvag.	3600	in	ns	ns5.brandshelter.us.
+georgios-velopoulos.dvag.	3600	in	ns	ns1.brandshelter.com.
+georgios-velopoulos.dvag.	3600	in	ns	ns2.brandshelter.de.
+georgios-velopoulos.dvag.	3600	in	ns	ns3.brandshelter.info.
+georgios-velopoulos.dvag.	3600	in	ns	ns4.brandshelter.net.
+georgios-velopoulos.dvag.	3600	in	ns	ns5.brandshelter.us.
 gerald-ehrlich.dvag.	3600	in	ns	ns01.brandshelter.com.
 gerald-ehrlich.dvag.	3600	in	ns	ns02.brandshelter.net.
 gerald-gase.dvag.	3600	in	ns	ns01.brandshelter.com.
@@ -12793,6 +12808,11 @@ jan-schoof.dvag.	3600	in	ns	ns4.brandshelter.net.
 jan-schoof.dvag.	3600	in	ns	ns5.brandshelter.us.
 jan-seifert.dvag.	3600	in	ns	ns01.brandshelter.com.
 jan-seifert.dvag.	3600	in	ns	ns02.brandshelter.net.
+jan-selditz.dvag.	3600	in	ns	ns1.brandshelter.com.
+jan-selditz.dvag.	3600	in	ns	ns2.brandshelter.de.
+jan-selditz.dvag.	3600	in	ns	ns3.brandshelter.info.
+jan-selditz.dvag.	3600	in	ns	ns4.brandshelter.net.
+jan-selditz.dvag.	3600	in	ns	ns5.brandshelter.us.
 jan-sliwa.dvag.	3600	in	ns	ns1.brandshelter.com.
 jan-sliwa.dvag.	3600	in	ns	ns2.brandshelter.de.
 jan-sliwa.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -14510,6 +14530,11 @@ julian-schenk.dvag.	3600	in	ns	ns2.brandshelter.de.
 julian-schenk.dvag.	3600	in	ns	ns3.brandshelter.info.
 julian-schenk.dvag.	3600	in	ns	ns4.brandshelter.net.
 julian-schenk.dvag.	3600	in	ns	ns5.brandshelter.us.
+julian-scherb.dvag.	3600	in	ns	ns1.brandshelter.com.
+julian-scherb.dvag.	3600	in	ns	ns2.brandshelter.de.
+julian-scherb.dvag.	3600	in	ns	ns3.brandshelter.info.
+julian-scherb.dvag.	3600	in	ns	ns4.brandshelter.net.
+julian-scherb.dvag.	3600	in	ns	ns5.brandshelter.us.
 julian-schmidt.dvag.	3600	in	ns	ns01.brandshelter.com.
 julian-schmidt.dvag.	3600	in	ns	ns02.brandshelter.net.
 julian-spillner.dvag.	3600	in	ns	ns1.brandshelter.com.
@@ -15069,6 +15094,11 @@ katarzyna-wrzeszcz.dvag.	3600	in	ns	ns2.brandshelter.de.
 katarzyna-wrzeszcz.dvag.	3600	in	ns	ns3.brandshelter.info.
 katarzyna-wrzeszcz.dvag.	3600	in	ns	ns4.brandshelter.net.
 katarzyna-wrzeszcz.dvag.	3600	in	ns	ns5.brandshelter.us.
+kateryna-hubarieva-3986680.dvag.	3600	in	ns	ns1.brandshelter.com.
+kateryna-hubarieva-3986680.dvag.	3600	in	ns	ns2.brandshelter.de.
+kateryna-hubarieva-3986680.dvag.	3600	in	ns	ns3.brandshelter.info.
+kateryna-hubarieva-3986680.dvag.	3600	in	ns	ns4.brandshelter.net.
+kateryna-hubarieva-3986680.dvag.	3600	in	ns	ns5.brandshelter.us.
 katharina-bitter.dvag.	3600	in	ns	ns01.brandshelter.com.
 katharina-bitter.dvag.	3600	in	ns	ns02.brandshelter.net.
 katharina-bolte.dvag.	3600	in	ns	ns1.brandshelter.com.
@@ -17608,6 +17638,11 @@ mailhelfer.dvag.	3600	in	ns	ns3-01.azure-dns.org.
 mailhelfer.dvag.	3600	in	ns	ns4-01.azure-dns.info.
 maja-kalasidou.dvag.	3600	in	ns	ns01.brandshelter.com.
 maja-kalasidou.dvag.	3600	in	ns	ns02.brandshelter.net.
+maja-konzag-2406310.dvag.	3600	in	ns	ns1.brandshelter.com.
+maja-konzag-2406310.dvag.	3600	in	ns	ns2.brandshelter.de.
+maja-konzag-2406310.dvag.	3600	in	ns	ns3.brandshelter.info.
+maja-konzag-2406310.dvag.	3600	in	ns	ns4.brandshelter.net.
+maja-konzag-2406310.dvag.	3600	in	ns	ns5.brandshelter.us.
 malte-grossestrangmann.dvag.	3600	in	ns	ns01.brandshelter.com.
 malte-grossestrangmann.dvag.	3600	in	ns	ns02.brandshelter.net.
 malte-stuehmeyer.dvag.	3600	in	ns	ns1.brandshelter.com.
@@ -20173,6 +20208,11 @@ maximilian-geiger.dvag.	3600	in	ns	ns2.brandshelter.de.
 maximilian-geiger.dvag.	3600	in	ns	ns3.brandshelter.info.
 maximilian-geiger.dvag.	3600	in	ns	ns4.brandshelter.net.
 maximilian-geiger.dvag.	3600	in	ns	ns5.brandshelter.us.
+maximilian-geisel.dvag.	3600	in	ns	ns1.brandshelter.com.
+maximilian-geisel.dvag.	3600	in	ns	ns2.brandshelter.de.
+maximilian-geisel.dvag.	3600	in	ns	ns3.brandshelter.info.
+maximilian-geisel.dvag.	3600	in	ns	ns4.brandshelter.net.
+maximilian-geisel.dvag.	3600	in	ns	ns5.brandshelter.us.
 maximilian-geyer.dvag.	3600	in	ns	ns1.brandshelter.com.
 maximilian-geyer.dvag.	3600	in	ns	ns2.brandshelter.de.
 maximilian-geyer.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -20358,6 +20398,11 @@ mehmet-cira.dvag.	3600	in	ns	ns2.brandshelter.de.
 mehmet-cira.dvag.	3600	in	ns	ns3.brandshelter.info.
 mehmet-cira.dvag.	3600	in	ns	ns4.brandshelter.net.
 mehmet-cira.dvag.	3600	in	ns	ns5.brandshelter.us.
+mehmet-erduran.dvag.	3600	in	ns	ns1.brandshelter.com.
+mehmet-erduran.dvag.	3600	in	ns	ns2.brandshelter.de.
+mehmet-erduran.dvag.	3600	in	ns	ns3.brandshelter.info.
+mehmet-erduran.dvag.	3600	in	ns	ns4.brandshelter.net.
+mehmet-erduran.dvag.	3600	in	ns	ns5.brandshelter.us.
 mehmet-guelenc-1555360.dvag.	3600	in	ns	ns1.brandshelter.com.
 mehmet-guelenc-1555360.dvag.	3600	in	ns	ns2.brandshelter.de.
 mehmet-guelenc-1555360.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -20395,11 +20440,10 @@ meine-kunden.dvag.	3600	in	ns	ns1-09.azure-dns.com.
 meine-kunden.dvag.	3600	in	ns	ns2-09.azure-dns.net.
 meine-kunden.dvag.	3600	in	ns	ns3-09.azure-dns.org.
 meine-kunden.dvag.	3600	in	ns	ns4-09.azure-dns.info.
-meine.dvag.	3600	in	ns	ns1.brandshelter.com.
-meine.dvag.	3600	in	ns	ns2.brandshelter.de.
-meine.dvag.	3600	in	ns	ns3.brandshelter.info.
-meine.dvag.	3600	in	ns	ns4.brandshelter.net.
-meine.dvag.	3600	in	ns	ns5.brandshelter.us.
+meine.dvag.	3600	in	ns	ns1-05.azure-dns.com.
+meine.dvag.	3600	in	ns	ns2-05.azure-dns.net.
+meine.dvag.	3600	in	ns	ns3-05.azure-dns.org.
+meine.dvag.	3600	in	ns	ns4-05.azure-dns.info.
 meineakademie.dvag.	3600	in	ns	ns1.brandshelter.com.
 meineakademie.dvag.	3600	in	ns	ns2.brandshelter.de.
 meineakademie.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -21053,6 +21097,11 @@ michael-ritter-6932460.dvag.	3600	in	ns	ns2.brandshelter.de.
 michael-ritter-6932460.dvag.	3600	in	ns	ns3.brandshelter.info.
 michael-ritter-6932460.dvag.	3600	in	ns	ns4.brandshelter.net.
 michael-ritter-6932460.dvag.	3600	in	ns	ns5.brandshelter.us.
+michael-ritter.dvag.	3600	in	ns	ns1.brandshelter.com.
+michael-ritter.dvag.	3600	in	ns	ns2.brandshelter.de.
+michael-ritter.dvag.	3600	in	ns	ns3.brandshelter.info.
+michael-ritter.dvag.	3600	in	ns	ns4.brandshelter.net.
+michael-ritter.dvag.	3600	in	ns	ns5.brandshelter.us.
 michael-rude.dvag.	3600	in	ns	ns01.brandshelter.com.
 michael-rude.dvag.	3600	in	ns	ns02.brandshelter.net.
 michael-ruppel.dvag.	3600	in	ns	ns1.brandshelter.com.
@@ -21286,6 +21335,11 @@ michelle-otte.dvag.	3600	in	ns	ns2.brandshelter.de.
 michelle-otte.dvag.	3600	in	ns	ns3.brandshelter.info.
 michelle-otte.dvag.	3600	in	ns	ns4.brandshelter.net.
 michelle-otte.dvag.	3600	in	ns	ns5.brandshelter.us.
+michelle-reiners.dvag.	3600	in	ns	ns1.brandshelter.com.
+michelle-reiners.dvag.	3600	in	ns	ns2.brandshelter.de.
+michelle-reiners.dvag.	3600	in	ns	ns3.brandshelter.info.
+michelle-reiners.dvag.	3600	in	ns	ns4.brandshelter.net.
+michelle-reiners.dvag.	3600	in	ns	ns5.brandshelter.us.
 michelle-roeschner.dvag.	3600	in	ns	ns1.brandshelter.com.
 michelle-roeschner.dvag.	3600	in	ns	ns2.brandshelter.de.
 michelle-roeschner.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -22289,6 +22343,11 @@ nele-luebke-1547560.dvag.	3600	in	ns	ns2.brandshelter.de.
 nele-luebke-1547560.dvag.	3600	in	ns	ns3.brandshelter.info.
 nele-luebke-1547560.dvag.	3600	in	ns	ns4.brandshelter.net.
 nele-luebke-1547560.dvag.	3600	in	ns	ns5.brandshelter.us.
+nenad-filipovic.dvag.	3600	in	ns	ns1.brandshelter.com.
+nenad-filipovic.dvag.	3600	in	ns	ns2.brandshelter.de.
+nenad-filipovic.dvag.	3600	in	ns	ns3.brandshelter.info.
+nenad-filipovic.dvag.	3600	in	ns	ns4.brandshelter.net.
+nenad-filipovic.dvag.	3600	in	ns	ns5.brandshelter.us.
 neo-effertz.dvag.	3600	in	ns	ns1.brandshelter.com.
 neo-effertz.dvag.	3600	in	ns	ns2.brandshelter.de.
 neo-effertz.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -23322,6 +23381,11 @@ olga-lesovoj.dvag.	3600	in	ns	ns01.brandshelter.com.
 olga-lesovoj.dvag.	3600	in	ns	ns02.brandshelter.net.
 olga-maslov.dvag.	3600	in	ns	ns01.brandshelter.com.
 olga-maslov.dvag.	3600	in	ns	ns02.brandshelter.net.
+olga-nikontschik.dvag.	3600	in	ns	ns1.brandshelter.com.
+olga-nikontschik.dvag.	3600	in	ns	ns2.brandshelter.de.
+olga-nikontschik.dvag.	3600	in	ns	ns3.brandshelter.info.
+olga-nikontschik.dvag.	3600	in	ns	ns4.brandshelter.net.
+olga-nikontschik.dvag.	3600	in	ns	ns5.brandshelter.us.
 olga-smirnow.dvag.	3600	in	ns	ns1.brandshelter.com.
 olga-smirnow.dvag.	3600	in	ns	ns2.brandshelter.de.
 olga-smirnow.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -24239,6 +24303,11 @@ pavel-komusidi.dvag.	3600	in	ns	ns4.brandshelter.net.
 pavel-komusidi.dvag.	3600	in	ns	ns5.brandshelter.us.
 pavlin-stamenov.dvag.	3600	in	ns	ns01.brandshelter.com.
 pavlin-stamenov.dvag.	3600	in	ns	ns02.brandshelter.net.
+pavlo-rul-1842290.dvag.	3600	in	ns	ns1.brandshelter.com.
+pavlo-rul-1842290.dvag.	3600	in	ns	ns2.brandshelter.de.
+pavlo-rul-1842290.dvag.	3600	in	ns	ns3.brandshelter.info.
+pavlo-rul-1842290.dvag.	3600	in	ns	ns4.brandshelter.net.
+pavlo-rul-1842290.dvag.	3600	in	ns	ns5.brandshelter.us.
 pawel-stachewicz-3107390.dvag.	3600	in	ns	ns01.brandshelter.com.
 pawel-stachewicz-3107390.dvag.	3600	in	ns	ns02.brandshelter.net.
 pawel-turko.dvag.	3600	in	ns	ns1.brandshelter.com.
@@ -24921,6 +24990,11 @@ rachel-gudevici.dvag.	3600	in	ns	ns4.brandshelter.net.
 rachel-gudevici.dvag.	3600	in	ns	ns5.brandshelter.us.
 rachel-louise-hunter.dvag.	3600	in	ns	ns01.brandshelter.com.
 rachel-louise-hunter.dvag.	3600	in	ns	ns02.brandshelter.net.
+radoan-al-khayal.dvag.	3600	in	ns	ns1.brandshelter.com.
+radoan-al-khayal.dvag.	3600	in	ns	ns2.brandshelter.de.
+radoan-al-khayal.dvag.	3600	in	ns	ns3.brandshelter.info.
+radoan-al-khayal.dvag.	3600	in	ns	ns4.brandshelter.net.
+radoan-al-khayal.dvag.	3600	in	ns	ns5.brandshelter.us.
 rafael-gharib.dvag.	3600	in	ns	ns1.brandshelter.com.
 rafael-gharib.dvag.	3600	in	ns	ns2.brandshelter.de.
 rafael-gharib.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -26498,6 +26572,11 @@ sabrina-gross-1523300.dvag.	3600	in	ns	ns2.brandshelter.de.
 sabrina-gross-1523300.dvag.	3600	in	ns	ns3.brandshelter.info.
 sabrina-gross-1523300.dvag.	3600	in	ns	ns4.brandshelter.net.
 sabrina-gross-1523300.dvag.	3600	in	ns	ns5.brandshelter.us.
+sabrina-luckhaus.dvag.	3600	in	ns	ns1.brandshelter.com.
+sabrina-luckhaus.dvag.	3600	in	ns	ns2.brandshelter.de.
+sabrina-luckhaus.dvag.	3600	in	ns	ns3.brandshelter.info.
+sabrina-luckhaus.dvag.	3600	in	ns	ns4.brandshelter.net.
+sabrina-luckhaus.dvag.	3600	in	ns	ns5.brandshelter.us.
 sabrina-mehlhemmer.dvag.	3600	in	ns	ns01.brandshelter.com.
 sabrina-mehlhemmer.dvag.	3600	in	ns	ns02.brandshelter.net.
 sabrina-neubing.dvag.	3600	in	ns	ns01.brandshelter.com.
@@ -26770,6 +26849,11 @@ sandy-kremer.dvag.	3600	in	ns	ns2.brandshelter.de.
 sandy-kremer.dvag.	3600	in	ns	ns3.brandshelter.info.
 sandy-kremer.dvag.	3600	in	ns	ns4.brandshelter.net.
 sandy-kremer.dvag.	3600	in	ns	ns5.brandshelter.us.
+sanja-dietmar-mueller.dvag.	3600	in	ns	ns1.brandshelter.com.
+sanja-dietmar-mueller.dvag.	3600	in	ns	ns2.brandshelter.de.
+sanja-dietmar-mueller.dvag.	3600	in	ns	ns3.brandshelter.info.
+sanja-dietmar-mueller.dvag.	3600	in	ns	ns4.brandshelter.net.
+sanja-dietmar-mueller.dvag.	3600	in	ns	ns5.brandshelter.us.
 saphira-evita-saalmueller-1789770.dvag.	3600	in	ns	ns1.brandshelter.com.
 saphira-evita-saalmueller-1789770.dvag.	3600	in	ns	ns2.brandshelter.de.
 saphira-evita-saalmueller-1789770.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -28744,6 +28828,11 @@ steffen-lange.dvag.	3600	in	ns	ns01.brandshelter.com.
 steffen-lange.dvag.	3600	in	ns	ns02.brandshelter.net.
 steffen-logk.dvag.	3600	in	ns	ns01.brandshelter.com.
 steffen-logk.dvag.	3600	in	ns	ns02.brandshelter.net.
+steffen-maschmann.dvag.	3600	in	ns	ns1.brandshelter.com.
+steffen-maschmann.dvag.	3600	in	ns	ns2.brandshelter.de.
+steffen-maschmann.dvag.	3600	in	ns	ns3.brandshelter.info.
+steffen-maschmann.dvag.	3600	in	ns	ns4.brandshelter.net.
+steffen-maschmann.dvag.	3600	in	ns	ns5.brandshelter.us.
 steffen-merz.dvag.	3600	in	ns	ns01.brandshelter.com.
 steffen-merz.dvag.	3600	in	ns	ns02.brandshelter.net.
 steffen-moeller.dvag.	3600	in	ns	ns1.brandshelter.com.
@@ -31443,6 +31532,10 @@ vb-apps.dvag.	3600	in	ns	ns1-05.azure-dns.com.
 vb-apps.dvag.	3600	in	ns	ns2-05.azure-dns.net.
 vb-apps.dvag.	3600	in	ns	ns3-05.azure-dns.org.
 vb-apps.dvag.	3600	in	ns	ns4-05.azure-dns.info.
+vb-auskunft.dvag.	3600	in	ns	ns1-08.azure-dns.com.
+vb-auskunft.dvag.	3600	in	ns	ns2-08.azure-dns.net.
+vb-auskunft.dvag.	3600	in	ns	ns3-08.azure-dns.org.
+vb-auskunft.dvag.	3600	in	ns	ns4-08.azure-dns.info.
 vb-shop.dvag.	3600	in	ns	ns1.brandshelter.com.
 vb-shop.dvag.	3600	in	ns	ns2.brandshelter.de.
 vb-shop.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -32629,4 +32722,4 @@ zwei-trm.dvag.	3600	in	ns	ns2.brandshelter.de.
 zwei-trm.dvag.	3600	in	ns	ns3.brandshelter.info.
 zwei-trm.dvag.	3600	in	ns	ns4.brandshelter.net.
 zwei-trm.dvag.	3600	in	ns	ns5.brandshelter.us.
-dvag.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019127025 900 1800 6048000 3600
+dvag.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019127502 900 1800 6048000 3600
