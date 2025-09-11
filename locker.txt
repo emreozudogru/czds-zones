@@ -1,6 +1,8 @@
-locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604800 300
+locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757035224 1800 900 604800 300
 000.locker.	900	in	ns	ns41.domaincontrol.com.
 000.locker.	900	in	ns	ns42.domaincontrol.com.
+0000.locker.	900	in	ns	ns47.domaincontrol.com.
+0000.locker.	900	in	ns	ns48.domaincontrol.com.
 00005.locker.	900	in	ns	n1.xundns.com.
 00005.locker.	900	in	ns	n2.xundns.com.
 000097.locker.	900	in	ns	n1.xundns.com.
@@ -51,8 +53,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 00179.locker.	900	in	ns	ns2.dnsip.com.
 001862.locker.	900	in	ns	ns1.1233dns.com.
 001862.locker.	900	in	ns	ns2.951dns.com.
-00190.locker.	900	in	ns	dakota.ns.cloudflare.com.
-00190.locker.	900	in	ns	maria.ns.cloudflare.com.
+00190.locker.	900	in	ns	ns1.dyna-ns.net.
+00190.locker.	900	in	ns	ns2.dyna-ns.net.
 00194.locker.	900	in	ns	n1.xundns.com.
 00194.locker.	900	in	ns	n2.xundns.com.
 00215.locker.	900	in	ns	ns1.dnsip.com.
@@ -264,10 +266,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 00986.locker.	900	in	ns	ns2.dnsip.com.
 00996.locker.	900	in	ns	ns1.dnsip.com.
 00996.locker.	900	in	ns	ns2.dnsip.com.
-009bet.locker.	900	in	ds	55819 13 2 72FBBBFAF063EA5B25FAEC62BEF775600A596A00C72F77ED8FDB683684C2DFA2
-009bet.locker.	900	in	ns	launch1.spaceship.net.
-009bet.locker.	900	in	ns	launch2.spaceship.net.
-009bet.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. cQ9TSjvQ42q8q39hu3OZpJWHKF2mdoaOuF0aCJH4sch24V4iUvYVf+GaWI2yKEGMD4BNYH374OEUHavG/EPhYg==
+009bet.locker.	900	in	ns	cody.ns.cloudflare.com.
+009bet.locker.	900	in	ns	teagan.ns.cloudflare.com.
 010153.locker.	900	in	ns	n1.xundns.com.
 010153.locker.	900	in	ns	n2.xundns.com.
 01029.locker.	900	in	ns	n1.xundns.com.
@@ -563,8 +563,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 02217.locker.	900	in	ns	n2.xundns.com.
 02230.locker.	900	in	ns	n1.xundns.com.
 02230.locker.	900	in	ns	n2.xundns.com.
-02235.locker.	900	in	ns	dakota.ns.cloudflare.com.
-02235.locker.	900	in	ns	maria.ns.cloudflare.com.
+02235.locker.	900	in	ns	ns1.dyna-ns.net.
+02235.locker.	900	in	ns	ns2.dyna-ns.net.
 02238.locker.	900	in	ns	ns7.alidns.com.
 02238.locker.	900	in	ns	ns8.alidns.com.
 02243.locker.	900	in	ns	ns1.dnsip.com.
@@ -1452,8 +1452,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 05363.locker.	900	in	ns	n2.xundns.com.
 05369.locker.	900	in	ns	ns1.dnsip.com.
 05369.locker.	900	in	ns	ns2.dnsip.com.
-05370.locker.	900	in	ns	dakota.ns.cloudflare.com.
-05370.locker.	900	in	ns	maria.ns.cloudflare.com.
+05370.locker.	900	in	ns	ns1.dyna-ns.net.
+05370.locker.	900	in	ns	ns2.dyna-ns.net.
 05371.locker.	900	in	ns	a.dnspod.com.
 05371.locker.	900	in	ns	b.dnspod.com.
 05371.locker.	900	in	ns	c.dnspod.com.
@@ -1995,8 +1995,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 07332.locker.	900	in	ns	n2.xundns.com.
 07347.locker.	900	in	ns	ns1.dns.com.
 07347.locker.	900	in	ns	ns2.dns.com.
-07362.locker.	900	in	ns	dakota.ns.cloudflare.com.
-07362.locker.	900	in	ns	maria.ns.cloudflare.com.
+07362.locker.	900	in	ns	ns1.dyna-ns.net.
+07362.locker.	900	in	ns	ns2.dyna-ns.net.
 07385.locker.	900	in	ns	a10.share-dns.com.
 07385.locker.	900	in	ns	b10.share-dns.net.
 07389.locker.	900	in	ns	ns1.dnsip.com.
@@ -2589,6 +2589,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 09995.locker.	900	in	ns	n2.xundns.com.
 09996.locker.	900	in	ns	n1.xundns.com.
 09996.locker.	900	in	ns	n2.xundns.com.
+0bf1tul9p9ki9sbki5aktk6dkrvjgm2o.locker.	300	in	nsec3	1 1 0 - 1UEQC7CU7B0U5E3PGLA1G68LV4A76103 NS DS RRSIG
+0bf1tul9p9ki9sbki5aktk6dkrvjgm2o.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. z4WS4whoD4RniNjc7NeD+AHAh/BS1nytIX6YYfl2eP4Mh6dpkE/hHAHIwL+OaxJFiGMF4pWnyiOz+D795zkRXQ==
 0mega.locker.	900	in	ns	dns1.registrar-servers.com.
 0mega.locker.	900	in	ns	dns2.registrar-servers.com.
 10000.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -3323,15 +3325,15 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 123win.locker.	900	in	ds	31961 13 2 B96FC43B572E0FE5B228C47159909A23A08F803E78C1AD407BDCDC8997717769
 123win.locker.	900	in	ns	launch1.spaceship.net.
 123win.locker.	900	in	ns	launch2.spaceship.net.
-123win.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. 0SOHLKrvP644huwbyvkN96kYQgT/FYbQp1rvHCujsNFgqyoViLUSzfQPz09OCKEhBbhEPx972WdnitanxnHGjQ==
+123win.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. rLCNPjODY40rA3nPxu/SVNmmQRPJbT9EcESGCNhbAkQ5gGH95tnRUuae5JcXdeU8rRs7zdK2Dzn9zzAKyJZEMA==
 12402.locker.	900	in	ns	ns1.dyna-ns.net.
 12402.locker.	900	in	ns	ns2.dyna-ns.net.
 12403.locker.	900	in	ns	ns1.dnsip.com.
 12403.locker.	900	in	ns	ns2.dnsip.com.
 124080.locker.	900	in	ns	n1.xundns.com.
 124080.locker.	900	in	ns	n2.xundns.com.
-12413.locker.	900	in	ns	dakota.ns.cloudflare.com.
-12413.locker.	900	in	ns	maria.ns.cloudflare.com.
+12413.locker.	900	in	ns	ns1.dyna-ns.net.
+12413.locker.	900	in	ns	ns2.dyna-ns.net.
 12417.locker.	900	in	ns	ns1.1233dns.com.
 12417.locker.	900	in	ns	ns2.951dns.com.
 12433.locker.	900	in	ns	ns7.alidns.com.
@@ -3887,8 +3889,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 13910.locker.	900	in	ns	n2.xundns.com.
 139101.locker.	900	in	ns	ns1.1233dns.com.
 139101.locker.	900	in	ns	ns2.951dns.com.
-13916.locker.	900	in	ns	dakota.ns.cloudflare.com.
-13916.locker.	900	in	ns	maria.ns.cloudflare.com.
+13916.locker.	900	in	ns	ns1.dyna-ns.net.
+13916.locker.	900	in	ns	ns2.dyna-ns.net.
 13922.locker.	900	in	ns	ns1.dnsip.com.
 13922.locker.	900	in	ns	ns2.dnsip.com.
 13927.locker.	900	in	ns	n1.xundns.com.
@@ -4422,8 +4424,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 155188.locker.	900	in	ns	ns2.dyna-ns.net.
 15528.locker.	900	in	ns	ns1.dnsip.com.
 15528.locker.	900	in	ns	ns2.dnsip.com.
-15529.locker.	900	in	ns	dakota.ns.cloudflare.com.
-15529.locker.	900	in	ns	maria.ns.cloudflare.com.
+15529.locker.	900	in	ns	ns1.dyna-ns.net.
+15529.locker.	900	in	ns	ns2.dyna-ns.net.
 15532.locker.	900	in	ns	ns7.alidns.com.
 15532.locker.	900	in	ns	ns8.alidns.com.
 15535.locker.	900	in	ns	n1.xundns.com.
@@ -5913,12 +5915,14 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 1password.locker.	900	in	ns	ns2.vercel-dns.com.
 1tamilyogi.locker.	900	in	ns	aida.ns.cloudflare.com.
 1tamilyogi.locker.	900	in	ns	byron.ns.cloudflare.com.
+1ueqc7cu7b0u5e3pgla1g68lv4a76103.locker.	300	in	nsec3	1 1 0 - 22KFG7MA887I7H7E8LF6BID95072VOHU NS DS RRSIG
+1ueqc7cu7b0u5e3pgla1g68lv4a76103.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 6eIhu2fpXeUkD1M6zUx5JE+/zA0bIr+6n51I9W/CgiHQi9pDmuy1UsFJgOhov01XmWxT5NBsKvYt+oVHkdyTxw==
 1win.locker.	900	in	ns	ns1.dyna-ns.net.
 1win.locker.	900	in	ns	ns2.dyna-ns.net.
 1xbet.locker.	900	in	ds	48213 13 2 44B374CB71DF15D7FB690246AE918148521A3CFFA14AD5EBC3998EF2D963278B
 1xbet.locker.	900	in	ns	launch1.spaceship.net.
 1xbet.locker.	900	in	ns	launch2.spaceship.net.
-1xbet.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. YFHvtMHcocx3cG00vUnSMECxZoWUXI0/zpKOO5gIgJ8aoT4PmAfEZav67KKubxzKobNVQVS5gb8tnZNz60/LgQ==
+1xbet.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. yBoeMu1rwjYiKiO8AG9xFaMxNWZeBN1J1QzqCwWtmyCL7NSh9VfrCQ6S2/A9l2C49TFs7l+K3wVCuTh6aDpWDg==
 20000.locker.	900	in	ns	ns1.dns.com.
 20000.locker.	900	in	ns	ns2.dns.com.
 20007.locker.	900	in	ns	n1.xundns.com.
@@ -5931,8 +5935,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 20012.locker.	900	in	ns	ns2.dns.com.
 20021.locker.	900	in	ns	n1.xundns.com.
 20021.locker.	900	in	ns	n2.xundns.com.
-20042.locker.	900	in	ns	dakota.ns.cloudflare.com.
-20042.locker.	900	in	ns	maria.ns.cloudflare.com.
+20042.locker.	900	in	ns	ns1.dyna-ns.net.
+20042.locker.	900	in	ns	ns2.dyna-ns.net.
 20049.locker.	900	in	ns	ns1.dnsip.com.
 20049.locker.	900	in	ns	ns2.dnsip.com.
 20051.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -6076,8 +6080,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 20483.locker.	900	in	ns	ns2.dnsip.com.
 20486.locker.	900	in	ns	ns1.dnsip.com.
 20486.locker.	900	in	ns	ns2.dnsip.com.
-20488.locker.	900	in	ns	dakota.ns.cloudflare.com.
-20488.locker.	900	in	ns	maria.ns.cloudflare.com.
+20488.locker.	900	in	ns	ns1.dyna-ns.net.
+20488.locker.	900	in	ns	ns2.dyna-ns.net.
 2049.locker.	900	in	ns	ns1.dns-parking.com.
 2049.locker.	900	in	ns	ns2.dns-parking.com.
 20490.locker.	900	in	ns	n1.xundns.com.
@@ -6195,8 +6199,6 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 208518.locker.	900	in	ns	ns2.951dns.com.
 20870.locker.	900	in	ns	v1.xdp.dnsxdp.com.
 20870.locker.	900	in	ns	v2.xdp.dnsxdp.com.
-20871.locker.	900	in	ns	ns1.dnsip.com.
-20871.locker.	900	in	ns	ns2.dnsip.com.
 20872.locker.	900	in	ns	ns7.alidns.com.
 20872.locker.	900	in	ns	ns8.alidns.com.
 20875.locker.	900	in	ns	ns1.dnsip.com.
@@ -6513,8 +6515,6 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 21835.locker.	900	in	ns	n2.xundns.com.
 21837.locker.	900	in	ns	ns1.dnsip.com.
 21837.locker.	900	in	ns	ns2.dnsip.com.
-218609.locker.	900	in	ns	ns1.1233dns.com.
-218609.locker.	900	in	ns	ns2.951dns.com.
 21870.locker.	900	in	ns	ns1.dnsip.com.
 21870.locker.	900	in	ns	ns2.dnsip.com.
 21871.locker.	900	in	ns	ns1.dnsip.com.
@@ -6539,8 +6539,6 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 21908.locker.	900	in	ns	n2.xundns.com.
 219149.locker.	900	in	ns	ns1.1233dns.com.
 219149.locker.	900	in	ns	ns2.951dns.com.
-219175.locker.	900	in	ns	ns1.1233dns.com.
-219175.locker.	900	in	ns	ns2.951dns.com.
 21927.locker.	900	in	ns	ns1.dnsip.com.
 21927.locker.	900	in	ns	ns2.dnsip.com.
 21930.locker.	900	in	ns	n1.xundns.com.
@@ -6871,8 +6869,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 22782.locker.	900	in	ns	ns2.dyna-ns.net.
 22785.locker.	900	in	ns	ns1.1233dns.com.
 22785.locker.	900	in	ns	ns2.951dns.com.
-22791.locker.	900	in	ns	dakota.ns.cloudflare.com.
-22791.locker.	900	in	ns	maria.ns.cloudflare.com.
+22791.locker.	900	in	ns	ns1.dyna-ns.net.
+22791.locker.	900	in	ns	ns2.dyna-ns.net.
 22798.locker.	900	in	ns	n1.xundns.com.
 22798.locker.	900	in	ns	n2.xundns.com.
 22801.locker.	900	in	ns	ns1.dnsip.com.
@@ -6936,7 +6934,7 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 22995.locker.	900	in	ns	ns1.dns.com.
 22995.locker.	900	in	ns	ns2.dns.com.
 22kfg7ma887i7h7e8lf6bid95072vohu.locker.	300	in	nsec3	1 1 0 - 2I0PH17BEQ6N29V2V897TP5I3V700VBA NS DS RRSIG
-22kfg7ma887i7h7e8lf6bid95072vohu.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. YTTnqWHp2bWouMVu83G+OSk3uzcJeQ5tqgSo6RG7DT3rxfyhsXxSjWLtMitf3cPvXWWiuc8mTJEIVvwKJPDnAw==
+22kfg7ma887i7h7e8lf6bid95072vohu.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. plu4ALkgZmOrW4VtBlmqCiEAvOPMtOF8o58oGR4OhrLBINC8tudrAiZ1h+BxnDQStc41v32R/VmtaP+nxqApHg==
 23015.locker.	900	in	ns	ns1.dnsip.com.
 23015.locker.	900	in	ns	ns2.dnsip.com.
 23018.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -7029,8 +7027,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 23282.locker.	900	in	ns	ns2.dnsip.com.
 23287.locker.	900	in	ns	ns1.1233dns.com.
 23287.locker.	900	in	ns	ns2.951dns.com.
-23289.locker.	900	in	ns	dakota.ns.cloudflare.com.
-23289.locker.	900	in	ns	maria.ns.cloudflare.com.
+23289.locker.	900	in	ns	ns1.dyna-ns.net.
+23289.locker.	900	in	ns	ns2.dyna-ns.net.
 23293.locker.	900	in	ns	ns1.dnsip.com.
 23293.locker.	900	in	ns	ns2.dnsip.com.
 23296.locker.	900	in	ns	n1.xundns.com.
@@ -7117,8 +7115,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 235114.locker.	900	in	ns	ns2.dyna-ns.net.
 23513.locker.	900	in	ns	n1.xundns.com.
 23513.locker.	900	in	ns	n2.xundns.com.
-23516.locker.	900	in	ns	dakota.ns.cloudflare.com.
-23516.locker.	900	in	ns	maria.ns.cloudflare.com.
+23516.locker.	900	in	ns	ns1.dyna-ns.net.
+23516.locker.	900	in	ns	ns2.dyna-ns.net.
 23523.locker.	900	in	ns	a11.share-dns.com.
 23523.locker.	900	in	ns	b11.share-dns.net.
 23535.locker.	900	in	ns	n1.xundns.com.
@@ -7285,8 +7283,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 23896.locker.	900	in	ns	n2.xundns.com.
 23897.locker.	900	in	ns	n1.xundns.com.
 23897.locker.	900	in	ns	n2.xundns.com.
-23900.locker.	900	in	ns	dakota.ns.cloudflare.com.
-23900.locker.	900	in	ns	maria.ns.cloudflare.com.
+23900.locker.	900	in	ns	ns1.dyna-ns.net.
+23900.locker.	900	in	ns	ns2.dyna-ns.net.
 23912.locker.	900	in	ns	n1.xundns.com.
 23912.locker.	900	in	ns	n2.xundns.com.
 23913.locker.	900	in	ns	ns1.1233dns.com.
@@ -8538,8 +8536,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 27369.locker.	900	in	ns	ns2.dnsip.com.
 27378.locker.	900	in	ns	ns1.dnsip.com.
 27378.locker.	900	in	ns	ns2.dnsip.com.
-27381.locker.	900	in	ns	dakota.ns.cloudflare.com.
-27381.locker.	900	in	ns	maria.ns.cloudflare.com.
+27381.locker.	900	in	ns	ns1.dyna-ns.net.
+27381.locker.	900	in	ns	ns2.dyna-ns.net.
 27382.locker.	900	in	ns	ns1.dnsip.com.
 27382.locker.	900	in	ns	ns2.dnsip.com.
 27385.locker.	900	in	ns	ns1.1233dns.com.
@@ -8751,8 +8749,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 279913.locker.	900	in	ns	n2.xundns.com.
 27995.locker.	900	in	ns	n1.xundns.com.
 27995.locker.	900	in	ns	n2.xundns.com.
-27996.locker.	900	in	ns	dakota.ns.cloudflare.com.
-27996.locker.	900	in	ns	maria.ns.cloudflare.com.
+27996.locker.	900	in	ns	ns1.dyna-ns.net.
+27996.locker.	900	in	ns	ns2.dyna-ns.net.
 27998.locker.	900	in	ns	n1.xundns.com.
 27998.locker.	900	in	ns	n2.xundns.com.
 28000.locker.	900	in	ns	n1.xundns.com.
@@ -9465,14 +9463,14 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 29978.locker.	900	in	ns	n2.xundns.com.
 29981.locker.	900	in	ns	n1.xundns.com.
 29981.locker.	900	in	ns	n2.xundns.com.
-29983.locker.	900	in	ns	dakota.ns.cloudflare.com.
-29983.locker.	900	in	ns	maria.ns.cloudflare.com.
+29983.locker.	900	in	ns	ns1.dyna-ns.net.
+29983.locker.	900	in	ns	ns2.dyna-ns.net.
 29992.locker.	900	in	ns	n1.xundns.com.
 29992.locker.	900	in	ns	n2.xundns.com.
 2fa.locker.	900	in	ns	nash.ns.cloudflare.com.
 2fa.locker.	900	in	ns	sandy.ns.cloudflare.com.
 2i0ph17beq6n29v2v897tp5i3v700vba.locker.	300	in	nsec3	1 1 0 - 38ATHPHLO6CDRBKA1M4N3LQ3RVTM908M NS DS RRSIG
-2i0ph17beq6n29v2v897tp5i3v700vba.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. rxSPrRYOr4aOmb/XAbBBTDMW/D0wD0ZP1OhtNqacvrUXLox58HHj2Welps1pXseSCTxvNnN53pxZaCS7u9w64w==
+2i0ph17beq6n29v2v897tp5i3v700vba.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. QW0XoOA8OTI7S9eLpVb6C2+GoH0UaPsDUL+yZvvVLdbcJz7rlhU3uoK/0HOHkPedmRcWQqZjYGYAq5Cx+0BmRg==
 2kr5h.locker.	900	in	ns	ns1.dyna-ns.net.
 2kr5h.locker.	900	in	ns	ns2.dyna-ns.net.
 3000.locker.	900	in	ns	ns1.dnsip.com.
@@ -10543,8 +10541,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 33009.locker.	900	in	ns	a.dnspod.com.
 33009.locker.	900	in	ns	b.dnspod.com.
 33009.locker.	900	in	ns	c.dnspod.com.
-33010.locker.	900	in	ns	dakota.ns.cloudflare.com.
-33010.locker.	900	in	ns	maria.ns.cloudflare.com.
+33010.locker.	900	in	ns	ns1.dyna-ns.net.
+33010.locker.	900	in	ns	ns2.dyna-ns.net.
 33012.locker.	900	in	ns	ns1.dnsip.com.
 33012.locker.	900	in	ns	ns2.dnsip.com.
 33016.locker.	900	in	ns	ns1.dnsip.com.
@@ -11980,8 +11978,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 36253.locker.	900	in	ns	c.dnspod.com.
 36254.locker.	900	in	ns	n1.xundns.com.
 36254.locker.	900	in	ns	n2.xundns.com.
-36255.locker.	900	in	ns	dakota.ns.cloudflare.com.
-36255.locker.	900	in	ns	maria.ns.cloudflare.com.
+36255.locker.	900	in	ns	ns1.dyna-ns.net.
+36255.locker.	900	in	ns	ns2.dyna-ns.net.
 36258.locker.	900	in	ns	ns1.1233dns.com.
 36258.locker.	900	in	ns	ns2.951dns.com.
 36259.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -12118,7 +12116,7 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 365bet.locker.	900	in	ds	5591 13 2 61C837765B9BB4AA04CD95B480D4A94AA46A3F96E219738947B9C3779BF6DF0C
 365bet.locker.	900	in	ns	launch1.spaceship.net.
 365bet.locker.	900	in	ns	launch2.spaceship.net.
-365bet.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. +DBHGzroSKI7cVN2jkMDy1VFD1pkFWX4jE27KinpivpXHDyjp21qHlrD6BLX/StW6tFTlmnl71f+4iwC7ottFg==
+365bet.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. Wh/XsJTnP4TeeWeqMrFTawjv/cyt5kZnJBBeEHwX1oojb23ZYvSgtm8ZfAt2v2kd8hdsQwwTnoGyT1LuvKyEPw==
 36607.locker.	900	in	ns	n1.xundns.com.
 36607.locker.	900	in	ns	n2.xundns.com.
 36609.locker.	900	in	ns	ns1.dnsip.com.
@@ -12497,8 +12495,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 37558.locker.	900	in	ns	n2.xundns.com.
 37565.locker.	900	in	ns	grannbo.ns.cloudflare.com.
 37565.locker.	900	in	ns	norm.ns.cloudflare.com.
-37574.locker.	900	in	ns	dakota.ns.cloudflare.com.
-37574.locker.	900	in	ns	maria.ns.cloudflare.com.
+37574.locker.	900	in	ns	ns1.dyna-ns.net.
+37574.locker.	900	in	ns	ns2.dyna-ns.net.
 37575.locker.	900	in	ns	n1.xundns.com.
 37575.locker.	900	in	ns	n2.xundns.com.
 37583.locker.	900	in	ns	n1.xundns.com.
@@ -12602,8 +12600,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 37805.locker.	900	in	ns	n2.xundns.com.
 37807.locker.	900	in	ns	ns1.dnsip.com.
 37807.locker.	900	in	ns	ns2.dnsip.com.
-37812.locker.	900	in	ns	dakota.ns.cloudflare.com.
-37812.locker.	900	in	ns	maria.ns.cloudflare.com.
+37812.locker.	900	in	ns	ns1.dyna-ns.net.
+37812.locker.	900	in	ns	ns2.dyna-ns.net.
 37813.locker.	900	in	ns	cheryl.ns.cloudflare.com.
 37813.locker.	900	in	ns	pranab.ns.cloudflare.com.
 37827.locker.	900	in	ns	boyd.ns.cloudflare.com.
@@ -12822,8 +12820,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 38330.locker.	900	in	ns	ns2.dyna-ns.net.
 38332.locker.	900	in	ns	ns1.1233dns.com.
 38332.locker.	900	in	ns	ns2.951dns.com.
-38336.locker.	900	in	ns	dakota.ns.cloudflare.com.
-38336.locker.	900	in	ns	maria.ns.cloudflare.com.
+38336.locker.	900	in	ns	ns1.dyna-ns.net.
+38336.locker.	900	in	ns	ns2.dyna-ns.net.
 38338.locker.	900	in	ns	n1.xundns.com.
 38338.locker.	900	in	ns	n2.xundns.com.
 38342.locker.	900	in	ns	n1.xundns.com.
@@ -12846,8 +12844,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 38422.locker.	900	in	ns	n2.xundns.com.
 38426.locker.	900	in	ns	n1.xundns.com.
 38426.locker.	900	in	ns	n2.xundns.com.
-38428.locker.	900	in	ns	dakota.ns.cloudflare.com.
-38428.locker.	900	in	ns	maria.ns.cloudflare.com.
+38428.locker.	900	in	ns	ns1.dyna-ns.net.
+38428.locker.	900	in	ns	ns2.dyna-ns.net.
 38432.locker.	900	in	ns	ns7.alidns.com.
 38432.locker.	900	in	ns	ns8.alidns.com.
 38442.locker.	900	in	ns	n1.xundns.com.
@@ -13037,7 +13035,7 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 38990.locker.	900	in	ns	ns1.dnsip.com.
 38990.locker.	900	in	ns	ns2.dnsip.com.
 38athphlo6cdrbka1m4n3lq3rvtm908m.locker.	300	in	nsec3	1 1 0 - 3C2G1GD3VUOR9P69U67U7VBNG531TT3N NS DS RRSIG
-38athphlo6cdrbka1m4n3lq3rvtm908m.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. tKme8tRb1gtV+TigLUwXRKHcNjUKjDLGJjbXDSVAy2JvFMfb7xLaQFVd1odoxKU4JX8q4jGYLHpw8kAtgzQtuQ==
+38athphlo6cdrbka1m4n3lq3rvtm908m.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 0MXU4RFMEQtsCszzRsU+OciikFrBSCNcljlVKUuQENLTHmxe9Thd0CVIJftD8wBejHd/yeWVAEc4OOsu9GqUMg==
 39001.locker.	900	in	ns	n1.xundns.com.
 39001.locker.	900	in	ns	n2.xundns.com.
 39012.locker.	900	in	ns	n1.xundns.com.
@@ -13400,7 +13398,7 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 39999.locker.	900	in	ns	ns1.dnsip.com.
 39999.locker.	900	in	ns	ns2.dnsip.com.
 3c2g1gd3vuor9p69u67u7vbng531tt3n.locker.	300	in	nsec3	1 1 0 - 434RREND8PL745ARERAHOCDJF6APNGM6 NS DS RRSIG
-3c2g1gd3vuor9p69u67u7vbng531tt3n.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. I0ej11ib6bSaZcxHVS6cIYnrAY4MscZkrfhCtZs1EccAFdv5h8OCTjKI2yFd04e3NMM6QBkMiP7zDIfMisNzgw==
+3c2g1gd3vuor9p69u67u7vbng531tt3n.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 1i1cQzp8Y+d4rlbT6ISOTgGza+f8uSXzqekHQ/Q4foAerBMZib3mO6Kt6ZkhKwQ9C/4qtKX+XkGLtEPWLz+nnw==
 40001.locker.	900	in	ns	ns1.dnsip.com.
 40001.locker.	900	in	ns	ns2.dnsip.com.
 40018.locker.	900	in	ns	ns1.dnsip.com.
@@ -14087,8 +14085,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 42705.locker.	900	in	ns	n2.xundns.com.
 42708.locker.	900	in	ns	n1.xundns.com.
 42708.locker.	900	in	ns	n2.xundns.com.
-42720.locker.	900	in	ns	dakota.ns.cloudflare.com.
-42720.locker.	900	in	ns	maria.ns.cloudflare.com.
+42720.locker.	900	in	ns	ns1.dyna-ns.net.
+42720.locker.	900	in	ns	ns2.dyna-ns.net.
 42728.locker.	900	in	ns	ns1.dnsip.com.
 42728.locker.	900	in	ns	ns2.dnsip.com.
 42731.locker.	900	in	ns	ns1.1233dns.com.
@@ -14278,7 +14276,7 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 43482.locker.	900	in	ns	ns1.1233dns.com.
 43482.locker.	900	in	ns	ns2.951dns.com.
 434rrend8pl745arerahocdjf6apngm6.locker.	300	in	nsec3	1 1 0 - 47LQUUDG1A7E34KFJE2NBQ2RNPHNC1UP NS DS RRSIG
-434rrend8pl745arerahocdjf6apngm6.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. h/TQ8t0gkJfNCw/GdYyWXPsxfPJShOUc8aFGg69IHhaCN76wHRoIWdLFIvvj5RaK2Kou9tnnCIDhytSTOBWGZQ==
+434rrend8pl745arerahocdjf6apngm6.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. y1ZKO+yDzJKBL4y8pclnEjF7MVQ4BzcBjc2bbOty9r8G3HsK6mvWbcGuG4d3ynpiokpyQH6+xmmsLTAgAnyjjA==
 43513.locker.	900	in	ns	n1.xundns.com.
 43513.locker.	900	in	ns	n2.xundns.com.
 43518.locker.	900	in	ns	n1.xundns.com.
@@ -14323,8 +14321,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 43592.locker.	900	in	ns	ns2.dnsip.com.
 43609.locker.	900	in	ns	n1.xundns.com.
 43609.locker.	900	in	ns	n2.xundns.com.
-43619.locker.	900	in	ns	dakota.ns.cloudflare.com.
-43619.locker.	900	in	ns	maria.ns.cloudflare.com.
+43619.locker.	900	in	ns	ns1.dyna-ns.net.
+43619.locker.	900	in	ns	ns2.dyna-ns.net.
 43621.locker.	900	in	ns	n1.xundns.com.
 43621.locker.	900	in	ns	n2.xundns.com.
 43629.locker.	900	in	ns	ns1.dnsip.com.
@@ -14387,8 +14385,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 43840.locker.	900	in	ns	n2.xundns.com.
 43843.locker.	900	in	ns	ns1.dnsip.com.
 43843.locker.	900	in	ns	ns2.dnsip.com.
-43849.locker.	900	in	ns	dakota.ns.cloudflare.com.
-43849.locker.	900	in	ns	maria.ns.cloudflare.com.
+43849.locker.	900	in	ns	ns1.dyna-ns.net.
+43849.locker.	900	in	ns	ns2.dyna-ns.net.
 43859.locker.	900	in	ns	ns1.dnsip.com.
 43859.locker.	900	in	ns	ns2.dnsip.com.
 43861.locker.	900	in	ns	n1.xundns.com.
@@ -14635,8 +14633,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 44684.locker.	900	in	ns	ns2.dnsip.com.
 44689.locker.	900	in	ns	n1.xundns.com.
 44689.locker.	900	in	ns	n2.xundns.com.
-44690.locker.	900	in	ns	dakota.ns.cloudflare.com.
-44690.locker.	900	in	ns	maria.ns.cloudflare.com.
+44690.locker.	900	in	ns	ns1.dyna-ns.net.
+44690.locker.	900	in	ns	ns2.dyna-ns.net.
 44693.locker.	900	in	ns	n1.xundns.com.
 44693.locker.	900	in	ns	n2.xundns.com.
 44696.locker.	900	in	ns	ns1.dnsip.com.
@@ -15197,8 +15195,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 46390.locker.	900	in	ns	ns2.dnsip.com.
 46394.locker.	900	in	ns	ns1.dnsip.com.
 46394.locker.	900	in	ns	ns2.dnsip.com.
-46397.locker.	900	in	ns	dakota.ns.cloudflare.com.
-46397.locker.	900	in	ns	maria.ns.cloudflare.com.
+46397.locker.	900	in	ns	ns1.dyna-ns.net.
+46397.locker.	900	in	ns	ns2.dyna-ns.net.
 46426.locker.	900	in	ns	ns1.dnsip.com.
 46426.locker.	900	in	ns	ns2.dnsip.com.
 46428.locker.	900	in	ns	a.dnspod.com.
@@ -15702,7 +15700,7 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 47995.locker.	900	in	ns	a1.share-dns.com.
 47995.locker.	900	in	ns	b1.share-dns.net.
 47lquudg1a7e34kfje2nbq2rnphnc1up.locker.	300	in	nsec3	1 1 0 - 5N6NP5JV4VNAN11FSRTT6389C0HJNVHG NS DS RRSIG
-47lquudg1a7e34kfje2nbq2rnphnc1up.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. KTdIX5N0CIFkPMaPZp8W77XGVOuqUlbIzoUU4xqAm/kAycxps0fnpapgoVUagVezZ9McuKNfTYAkslSCqXWXTw==
+47lquudg1a7e34kfje2nbq2rnphnc1up.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. l0o8JSEjjGAORYFb6vQCo5GRcP2pRTgfgRq32Dc9Evz1YTi42vrfpcTyk52DTjQniiCvsFUkY9hnDGhYdntJEg==
 48004.locker.	900	in	ns	ns7.alidns.com.
 48004.locker.	900	in	ns	ns8.alidns.com.
 48009.locker.	900	in	ns	n1.xundns.com.
@@ -16729,8 +16727,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 51235.locker.	900	in	ns	ns2.dyna-ns.net.
 51247.locker.	900	in	ns	ns1.dnsip.com.
 51247.locker.	900	in	ns	ns2.dnsip.com.
-51249.locker.	900	in	ns	dakota.ns.cloudflare.com.
-51249.locker.	900	in	ns	maria.ns.cloudflare.com.
+51249.locker.	900	in	ns	ns1.dyna-ns.net.
+51249.locker.	900	in	ns	ns2.dyna-ns.net.
 51250.locker.	900	in	ns	ns1.dnsip.com.
 51250.locker.	900	in	ns	ns2.dnsip.com.
 51258.locker.	900	in	ns	ns1.dnsip.com.
@@ -16985,8 +16983,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 51935.locker.	900	in	ns	ns2.dnsip.com.
 51937.locker.	900	in	ns	n1.xundns.com.
 51937.locker.	900	in	ns	n2.xundns.com.
-51940.locker.	900	in	ns	dakota.ns.cloudflare.com.
-51940.locker.	900	in	ns	maria.ns.cloudflare.com.
+51940.locker.	900	in	ns	ns1.dyna-ns.net.
+51940.locker.	900	in	ns	ns2.dyna-ns.net.
 51963.locker.	900	in	ns	a6.share-dns.com.
 51963.locker.	900	in	ns	b6.share-dns.net.
 51964.locker.	900	in	ns	ns1.dnsip.com.
@@ -17807,8 +17805,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 53808.locker.	900	in	ns	n2.xundns.com.
 53814.locker.	900	in	ns	n1.xundns.com.
 53814.locker.	900	in	ns	n2.xundns.com.
-53815.locker.	900	in	ns	dakota.ns.cloudflare.com.
-53815.locker.	900	in	ns	maria.ns.cloudflare.com.
+53815.locker.	900	in	ns	ns1.dyna-ns.net.
+53815.locker.	900	in	ns	ns2.dyna-ns.net.
 53817.locker.	900	in	ns	ns1.dns.com.
 53817.locker.	900	in	ns	ns2.dns.com.
 53819.locker.	900	in	ns	n1.xundns.com.
@@ -17984,8 +17982,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 54388.locker.	900	in	ns	ns2.dnsip.com.
 54389.locker.	900	in	ns	ns1.dnsip.com.
 54389.locker.	900	in	ns	ns2.dnsip.com.
-54391.locker.	900	in	ns	dakota.ns.cloudflare.com.
-54391.locker.	900	in	ns	maria.ns.cloudflare.com.
+54391.locker.	900	in	ns	ns1.dyna-ns.net.
+54391.locker.	900	in	ns	ns2.dyna-ns.net.
 54399.locker.	900	in	ns	ns1.dnsip.com.
 54399.locker.	900	in	ns	ns2.dnsip.com.
 54400.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -18799,8 +18797,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 56183.locker.	900	in	ns	n2.xundns.com.
 561837.locker.	900	in	ns	ns1.dns.com.
 561837.locker.	900	in	ns	ns2.dns.com.
-56195.locker.	900	in	ns	dakota.ns.cloudflare.com.
-56195.locker.	900	in	ns	maria.ns.cloudflare.com.
+56195.locker.	900	in	ns	ns1.dyna-ns.net.
+56195.locker.	900	in	ns	ns2.dyna-ns.net.
 56198.locker.	900	in	ns	ns1.dyna-ns.net.
 56198.locker.	900	in	ns	ns2.dyna-ns.net.
 56213.locker.	900	in	ns	n1.xundns.com.
@@ -19084,8 +19082,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 56895.locker.	900	in	ns	ns2.dnsip.com.
 56897.locker.	900	in	ns	ns1.1233dns.com.
 56897.locker.	900	in	ns	ns2.951dns.com.
-56909.locker.	900	in	ns	dakota.ns.cloudflare.com.
-56909.locker.	900	in	ns	maria.ns.cloudflare.com.
+56909.locker.	900	in	ns	ns1.dyna-ns.net.
+56909.locker.	900	in	ns	ns2.dyna-ns.net.
 56910.locker.	900	in	ns	ns1.dnsip.com.
 56910.locker.	900	in	ns	ns2.dnsip.com.
 56911.locker.	900	in	ns	n1.xundns.com.
@@ -19154,8 +19152,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 570913.locker.	900	in	ns	n2.xundns.com.
 57097.locker.	900	in	ns	ns1.1233dns.com.
 57097.locker.	900	in	ns	ns2.951dns.com.
-57099.locker.	900	in	ns	dakota.ns.cloudflare.com.
-57099.locker.	900	in	ns	maria.ns.cloudflare.com.
+57099.locker.	900	in	ns	ns1.dyna-ns.net.
+57099.locker.	900	in	ns	ns2.dyna-ns.net.
 57102.locker.	900	in	ns	n1.xundns.com.
 57102.locker.	900	in	ns	n2.xundns.com.
 57124.locker.	900	in	ns	ns1.dnsip.com.
@@ -19554,8 +19552,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 58093.locker.	900	in	ns	ns2.dyna-ns.net.
 58099.locker.	900	in	ns	a6.share-dns.com.
 58099.locker.	900	in	ns	b6.share-dns.net.
-58110.locker.	900	in	ns	dakota.ns.cloudflare.com.
-58110.locker.	900	in	ns	maria.ns.cloudflare.com.
+58110.locker.	900	in	ns	ns1.dyna-ns.net.
+58110.locker.	900	in	ns	ns2.dyna-ns.net.
 58111.locker.	900	in	ns	n1.xundns.com.
 58111.locker.	900	in	ns	n2.xundns.com.
 581124.locker.	900	in	ns	james.ns.cloudflare.com.
@@ -20000,8 +19998,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 59248.locker.	900	in	ns	a.dnspod.com.
 59248.locker.	900	in	ns	b.dnspod.com.
 59248.locker.	900	in	ns	c.dnspod.com.
-59264.locker.	900	in	ns	dakota.ns.cloudflare.com.
-59264.locker.	900	in	ns	maria.ns.cloudflare.com.
+59264.locker.	900	in	ns	ns1.dyna-ns.net.
+59264.locker.	900	in	ns	ns2.dyna-ns.net.
 59274.locker.	900	in	ns	n1.xundns.com.
 59274.locker.	900	in	ns	n2.xundns.com.
 59278.locker.	900	in	ns	ns1.dnsip.com.
@@ -20265,9 +20263,9 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 5mb.locker.	900	in	ns	susan.ns.cloudflare.com.
 5mb.locker.	900	in	ns	tate.ns.cloudflare.com.
 5n6np5jv4vnan11fsrtt6389c0hjnvhg.locker.	300	in	nsec3	1 1 0 - 5VGG974V3TIEK4AFDPTOR44FOHS9ULQ5 NS DS RRSIG
-5n6np5jv4vnan11fsrtt6389c0hjnvhg.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. dIZo9aQ3JUAiUa7jNBlpu/Ej1d12VlzcBajNpZqHVDkX1y9NaKBBkwsN/DATqR33rrjZlN9OnrQYCJKKN89toQ==
+5n6np5jv4vnan11fsrtt6389c0hjnvhg.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. f0pK+g6/gwMi87p+VQMlMmeI02mxSBLchAAW7CE/JMKKW6wYwCOmTYSLq/A7lEuUSRO/6TO3tZynLSscAcplhQ==
 5vgg974v3tiek4afdptor44fohs9ulq5.locker.	300	in	nsec3	1 1 0 - 6AS2TERSQSGCKU63TQCSFKL0BAARLVOU NS DS RRSIG
-5vgg974v3tiek4afdptor44fohs9ulq5.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. sruLYPDIgcXl71Ma9iV3XH/0ip6IpynezLU5z9cjYLfO7TCqHxE3kfAmRKSMjfqdD/3up70x4zNjs/C99kjJwg==
+5vgg974v3tiek4afdptor44fohs9ulq5.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. r0lIpqsFWCbu3oynaiF/6e3PEi+AjMfZNOt5dPee7AcdlQ7SnLR0MdSoSZbwCLE4Ni30DbEjxonmOC33sHvuwg==
 60000.locker.	900	in	ns	ns1.dnsip.com.
 60000.locker.	900	in	ns	ns2.dnsip.com.
 600029.locker.	900	in	ns	ns1.1233dns.com.
@@ -21739,8 +21737,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 63918.locker.	900	in	ns	ns2.dnsip.com.
 63921.locker.	900	in	ns	ns1.dyna-ns.net.
 63921.locker.	900	in	ns	ns2.dyna-ns.net.
-63922.locker.	900	in	ns	dakota.ns.cloudflare.com.
-63922.locker.	900	in	ns	maria.ns.cloudflare.com.
+63922.locker.	900	in	ns	ns1.dyna-ns.net.
+63922.locker.	900	in	ns	ns2.dyna-ns.net.
 63925.locker.	900	in	ns	n1.xundns.com.
 63925.locker.	900	in	ns	n2.xundns.com.
 63927.locker.	900	in	ns	ns1.1233dns.com.
@@ -21805,8 +21803,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 64103.locker.	900	in	ns	n2.xundns.com.
 64106.locker.	900	in	ns	n1.xundns.com.
 64106.locker.	900	in	ns	n2.xundns.com.
-64109.locker.	900	in	ns	dakota.ns.cloudflare.com.
-64109.locker.	900	in	ns	maria.ns.cloudflare.com.
+64109.locker.	900	in	ns	ns1.dyna-ns.net.
+64109.locker.	900	in	ns	ns2.dyna-ns.net.
 64124.locker.	900	in	ns	n1.xundns.com.
 64124.locker.	900	in	ns	n2.xundns.com.
 64130.locker.	900	in	ns	ns1.1233dns.com.
@@ -21917,8 +21915,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 64378.locker.	900	in	ns	ns2.dyna-ns.net.
 64379.locker.	900	in	ns	ns1.dyna-ns.net.
 64379.locker.	900	in	ns	ns2.dyna-ns.net.
-64381.locker.	900	in	ns	dakota.ns.cloudflare.com.
-64381.locker.	900	in	ns	maria.ns.cloudflare.com.
+64381.locker.	900	in	ns	ns1.dyna-ns.net.
+64381.locker.	900	in	ns	ns2.dyna-ns.net.
 64383.locker.	900	in	ns	ns1.dnsip.com.
 64383.locker.	900	in	ns	ns2.dnsip.com.
 64390.locker.	900	in	ns	ns1.dnsip.com.
@@ -21950,8 +21948,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 64491.locker.	900	in	ns	n2.xundns.com.
 64506.locker.	900	in	ns	ns1.dnsip.com.
 64506.locker.	900	in	ns	ns2.dnsip.com.
-64507.locker.	900	in	ns	dakota.ns.cloudflare.com.
-64507.locker.	900	in	ns	maria.ns.cloudflare.com.
+64507.locker.	900	in	ns	ns1.dyna-ns.net.
+64507.locker.	900	in	ns	ns2.dyna-ns.net.
 645136.locker.	900	in	ns	ns1.1233dns.com.
 645136.locker.	900	in	ns	ns2.951dns.com.
 64524.locker.	900	in	ns	n1.xundns.com.
@@ -22342,8 +22340,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 655227.locker.	900	in	ns	ns2.951dns.com.
 65524.locker.	900	in	ns	n1.xundns.com.
 65524.locker.	900	in	ns	n2.xundns.com.
-65526.locker.	900	in	ns	dakota.ns.cloudflare.com.
-65526.locker.	900	in	ns	maria.ns.cloudflare.com.
+65526.locker.	900	in	ns	ns1.dyna-ns.net.
+65526.locker.	900	in	ns	ns2.dyna-ns.net.
 65527.locker.	900	in	ns	ns1.dnsip.com.
 65527.locker.	900	in	ns	ns2.dnsip.com.
 65528.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -22931,6 +22929,10 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 6666.locker.	900	in	ns	b4.share-dns.net.
 666640.locker.	900	in	ns	ns1.1233dns.com.
 666640.locker.	900	in	ns	ns2.951dns.com.
+666666.locker.	900	in	ds	12352 13 2 F7BBFA921838CCFE04FF2AE41B31B3E6CC7FEC99DE5B01CE0C84DF5310010FD2
+666666.locker.	900	in	ns	launch1.spaceship.net.
+666666.locker.	900	in	ns	launch2.spaceship.net.
+666666.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. 8Ji1qQjKTbhxbBYQWGxBLtKuAsnnDLaMYmlPlzZnJWFYBVlO70iy80MKU5/aRGvoKeUzChcjM3fGwpyROQ59vg==
 66667.locker.	900	in	ns	n1.xundns.com.
 66667.locker.	900	in	ns	n2.xundns.com.
 66668.locker.	900	in	ns	n1.xundns.com.
@@ -23538,8 +23540,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 67428.locker.	900	in	ns	ns2.951dns.com.
 67434.locker.	900	in	ns	n1.xundns.com.
 67434.locker.	900	in	ns	n2.xundns.com.
-67453.locker.	900	in	ns	dakota.ns.cloudflare.com.
-67453.locker.	900	in	ns	maria.ns.cloudflare.com.
+67453.locker.	900	in	ns	ns1.dyna-ns.net.
+67453.locker.	900	in	ns	ns2.dyna-ns.net.
 67485.locker.	900	in	ns	ns1.dnsip.com.
 67485.locker.	900	in	ns	ns2.dnsip.com.
 67498.locker.	900	in	ns	ns1.1233dns.com.
@@ -24686,8 +24688,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 699118.locker.	900	in	ns	ns2.951dns.com.
 69920.locker.	900	in	ns	n1.xundns.com.
 69920.locker.	900	in	ns	n2.xundns.com.
-69928.locker.	900	in	ns	dakota.ns.cloudflare.com.
-69928.locker.	900	in	ns	maria.ns.cloudflare.com.
+69928.locker.	900	in	ns	ns1.dyna-ns.net.
+69928.locker.	900	in	ns	ns2.dyna-ns.net.
 69930.locker.	900	in	ns	ns1.dnsip.com.
 69930.locker.	900	in	ns	ns2.dnsip.com.
 69937.locker.	900	in	ns	n1.xundns.com.
@@ -24711,15 +24713,15 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 69vnn.locker.	900	in	ns	harleigh.ns.cloudflare.com.
 69vnn.locker.	900	in	ns	peyton.ns.cloudflare.com.
 6as2tersqsgcku63tqcsfkl0baarlvou.locker.	300	in	nsec3	1 1 0 - 6EPI8UC1071NA5ESOSG24A1K8N249CME NS DS RRSIG
-6as2tersqsgcku63tqcsfkl0baarlvou.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. UjAoUBt9uUMhU3w3RsDFxQCPJ18LjygBpBz0NVvWJvIoYBElo9cB2DQ30jgbtLbwlOB4wRf7hW+SUUuOzjiYKw==
+6as2tersqsgcku63tqcsfkl0baarlvou.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. Bhf17hRLTR3/6khBASsQAPwBvJaKgeEEBiWVAfBeFkaRgN0c5xjVx40yGr8iuD0HjheExkI1mxmuoWSQc9i8JQ==
 6epi8uc1071na5esosg24a1k8n249cme.locker.	300	in	nsec3	1 1 0 - 6I2P1U5PQLOL0T3QORRER5MC65D8GBCL NS DS RRSIG
-6epi8uc1071na5esosg24a1k8n249cme.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. Hbf09z3oAfD/0Cnz1NYc64gotZEiBjNOBETJnJ8E1gKida+zIHEuteuJ9W2evdwalaPabzWB1r2mPdxna1Gn/Q==
+6epi8uc1071na5esosg24a1k8n249cme.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. lxTogYYpbNpRvk1sr50ciNcqyATQ75b4GZ5P59wGer4gRqLZw5PjvfIgUOhyhj0447ePtp4Z3BL/kfipy5G97A==
 6gamebai.locker.	900	in	ns	dns1.registrar-servers.com.
 6gamebai.locker.	900	in	ns	dns2.registrar-servers.com.
 6i2p1u5pqlol0t3qorrer5mc65d8gbcl.locker.	300	in	nsec3	1 1 0 - 6LN0M19LVQDD2L9TC46MIV6PTKV8G3LK NS DS RRSIG
-6i2p1u5pqlol0t3qorrer5mc65d8gbcl.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. Dypgm5YWzwB4YqQhWOis9zFGmTEqnrIcsMtfYONXkTlaPBMn1T2X10xr1wgGEYAeSpNxDm2qTeswAAWU1GFqHQ==
+6i2p1u5pqlol0t3qorrer5mc65d8gbcl.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. Kt70oul3kkLwgfIFErHEBlRblFfYcKzccQAbva4FYWSc0J+gl+svEhVoRs4iiGzk+tZ6l6fnKaYbAdTtbTbZ/w==
 6ln0m19lvqdd2l9tc46miv6ptkv8g3lk.locker.	300	in	nsec3	1 1 0 - 7GQK7MC7RHG4G54PSF97L5COMO7L4K9E NS DS RRSIG
-6ln0m19lvqdd2l9tc46miv6ptkv8g3lk.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. /qSUw/3X+UxDko6YUZMoNDy4T5oZHdyfVeMa2zDMspaTTLIxzIfDu+RmGDDs0OtE3nYi6o+SKnQybDjNsFL5VA==
+6ln0m19lvqdd2l9tc46miv6ptkv8g3lk.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. NX7KjPyRDPmv5f7qe9Nm+ajlXZxdg14MWILmIMoiEy1irzaLcZtnDakrIbaMmj5P1izabfjf/jE9A3d8R/na0w==
 70000.locker.	900	in	ns	ns1.dnsip.com.
 70000.locker.	900	in	ns	ns2.dnsip.com.
 70009.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -24982,8 +24984,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 708948.locker.	900	in	ns	n2.xundns.com.
 70896.locker.	900	in	ns	n1.xundns.com.
 70896.locker.	900	in	ns	n2.xundns.com.
-70900.locker.	900	in	ns	dakota.ns.cloudflare.com.
-70900.locker.	900	in	ns	maria.ns.cloudflare.com.
+70900.locker.	900	in	ns	ns1.dyna-ns.net.
+70900.locker.	900	in	ns	ns2.dyna-ns.net.
 70905.locker.	900	in	ns	ns1.dnsip.com.
 70905.locker.	900	in	ns	ns2.dnsip.com.
 70911.locker.	900	in	ns	n1.xundns.com.
@@ -25530,8 +25532,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 72276.locker.	900	in	ns	n2.xundns.com.
 72278.locker.	900	in	ns	n1.xundns.com.
 72278.locker.	900	in	ns	n2.xundns.com.
-72285.locker.	900	in	ns	dakota.ns.cloudflare.com.
-72285.locker.	900	in	ns	maria.ns.cloudflare.com.
+72285.locker.	900	in	ns	ns1.dyna-ns.net.
+72285.locker.	900	in	ns	ns2.dyna-ns.net.
 72287.locker.	900	in	ns	n1.xundns.com.
 72287.locker.	900	in	ns	n2.xundns.com.
 723156.locker.	900	in	ns	luciane.ns.cloudflare.com.
@@ -26020,8 +26022,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 73521.locker.	900	in	ns	n2.xundns.com.
 73526.locker.	900	in	ns	n1.xundns.com.
 73526.locker.	900	in	ns	n2.xundns.com.
-73529.locker.	900	in	ns	dakota.ns.cloudflare.com.
-73529.locker.	900	in	ns	maria.ns.cloudflare.com.
+73529.locker.	900	in	ns	ns1.dyna-ns.net.
+73529.locker.	900	in	ns	ns2.dyna-ns.net.
 73530.locker.	900	in	ns	n1.xundns.com.
 73530.locker.	900	in	ns	n2.xundns.com.
 73536.locker.	900	in	ns	dom.ns.cloudflare.com.
@@ -26890,8 +26892,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 75428.locker.	900	in	ns	n2.xundns.com.
 75430.locker.	900	in	ns	n1.xundns.com.
 75430.locker.	900	in	ns	n2.xundns.com.
-75434.locker.	900	in	ns	dakota.ns.cloudflare.com.
-75434.locker.	900	in	ns	maria.ns.cloudflare.com.
+75434.locker.	900	in	ns	ns1.dyna-ns.net.
+75434.locker.	900	in	ns	ns2.dyna-ns.net.
 75449.locker.	900	in	ns	n1.xundns.com.
 75449.locker.	900	in	ns	n2.xundns.com.
 75462.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -27216,8 +27218,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 76038.locker.	900	in	ns	n2.xundns.com.
 76046.locker.	900	in	ns	ns1.dnsip.com.
 76046.locker.	900	in	ns	ns2.dnsip.com.
-76053.locker.	900	in	ns	dakota.ns.cloudflare.com.
-76053.locker.	900	in	ns	maria.ns.cloudflare.com.
+76053.locker.	900	in	ns	ns1.dyna-ns.net.
+76053.locker.	900	in	ns	ns2.dyna-ns.net.
 76057.locker.	900	in	ns	ns1.dyna-ns.net.
 76057.locker.	900	in	ns	ns2.dyna-ns.net.
 76058.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -28279,8 +28281,6 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 78543.locker.	900	in	ns	b6.share-dns.net.
 78544.locker.	900	in	ns	n1.xundns.com.
 78544.locker.	900	in	ns	n2.xundns.com.
-78555.locker.	900	in	ns	ns1.dnsip.com.
-78555.locker.	900	in	ns	ns2.dnsip.com.
 78559.locker.	900	in	ns	n1.xundns.com.
 78559.locker.	900	in	ns	n2.xundns.com.
 78563.locker.	900	in	ns	n1.xundns.com.
@@ -28997,8 +28997,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 799381.locker.	900	in	ns	ns2.951dns.com.
 79940.locker.	900	in	ns	ns1.1233dns.com.
 79940.locker.	900	in	ns	ns2.951dns.com.
-79961.locker.	900	in	ns	dakota.ns.cloudflare.com.
-79961.locker.	900	in	ns	maria.ns.cloudflare.com.
+79961.locker.	900	in	ns	ns1.dyna-ns.net.
+79961.locker.	900	in	ns	ns2.dyna-ns.net.
 79967.locker.	900	in	ns	ns1.dnsip.com.
 79967.locker.	900	in	ns	ns2.dnsip.com.
 79974.locker.	900	in	ns	a10.share-dns.com.
@@ -29026,7 +29026,7 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 7fqiy8xc.locker.	900	in	ns	ns1.dnsip.com.
 7fqiy8xc.locker.	900	in	ns	ns2.dnsip.com.
 7gqk7mc7rhg4g54psf97l5como7l4k9e.locker.	300	in	nsec3	1 1 0 - 8BOG2J35KKU367AUIC07GQOAOFDS2ESL NS DS RRSIG
-7gqk7mc7rhg4g54psf97l5como7l4k9e.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. MgeMUd2ln+1HSL7DuatDzhCEiY53C4f9Sco+XQYre+3jRxXQu+5FBAPW/zPLg9bWTucPOZ7sXsvexQLiksOy3Q==
+7gqk7mc7rhg4g54psf97l5como7l4k9e.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 5/7ycowXjYkQGL3QUz59tF+eJarjBBzwBqgXsYLKwyXFa6t5fAa7nHBGJ4kAbrEsjauLIcpKzL87Z4/YwOMnTA==
 7j77.locker.	900	in	ns	amy.ns.cloudflare.com.
 7j77.locker.	900	in	ns	armando.ns.cloudflare.com.
 80002.locker.	900	in	ns	ns1.dnsip.com.
@@ -29176,8 +29176,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 804994.locker.	900	in	ns	n2.xundns.com.
 80502.locker.	900	in	ns	n1.xundns.com.
 80502.locker.	900	in	ns	n2.xundns.com.
-80505.locker.	900	in	ns	dakota.ns.cloudflare.com.
-80505.locker.	900	in	ns	maria.ns.cloudflare.com.
+80505.locker.	900	in	ns	ns1.dyna-ns.net.
+80505.locker.	900	in	ns	ns2.dyna-ns.net.
 80512.locker.	900	in	ns	ns1.dnsip.com.
 80512.locker.	900	in	ns	ns2.dnsip.com.
 80514.locker.	900	in	ns	ns1.dns.com.
@@ -29619,8 +29619,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 81761.locker.	900	in	ns	ns2.dnsip.com.
 81762.locker.	900	in	ns	cheryl.ns.cloudflare.com.
 81762.locker.	900	in	ns	pranab.ns.cloudflare.com.
-81763.locker.	900	in	ns	dakota.ns.cloudflare.com.
-81763.locker.	900	in	ns	maria.ns.cloudflare.com.
+81763.locker.	900	in	ns	ns1.dyna-ns.net.
+81763.locker.	900	in	ns	ns2.dyna-ns.net.
 81764.locker.	900	in	ns	ns7.alidns.com.
 81764.locker.	900	in	ns	ns8.alidns.com.
 81768.locker.	900	in	ns	n1.xundns.com.
@@ -29741,8 +29741,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 82070.locker.	900	in	ns	n2.xundns.com.
 820913.locker.	900	in	ns	n1.xundns.com.
 820913.locker.	900	in	ns	n2.xundns.com.
-82093.locker.	900	in	ns	dakota.ns.cloudflare.com.
-82093.locker.	900	in	ns	maria.ns.cloudflare.com.
+82093.locker.	900	in	ns	ns1.dyna-ns.net.
+82093.locker.	900	in	ns	ns2.dyna-ns.net.
 82094.locker.	900	in	ns	n1.xundns.com.
 82094.locker.	900	in	ns	n2.xundns.com.
 82095.locker.	900	in	ns	ns1.dnsip.com.
@@ -30414,8 +30414,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 83772.locker.	900	in	ns	ns2.951dns.com.
 83775.locker.	900	in	ns	ns1.dyna-ns.net.
 83775.locker.	900	in	ns	ns2.dyna-ns.net.
-83788.locker.	900	in	ns	dakota.ns.cloudflare.com.
-83788.locker.	900	in	ns	maria.ns.cloudflare.com.
+83788.locker.	900	in	ns	ns1.dyna-ns.net.
+83788.locker.	900	in	ns	ns2.dyna-ns.net.
 83790.locker.	900	in	ns	boyd.ns.cloudflare.com.
 83790.locker.	900	in	ns	sara.ns.cloudflare.com.
 83799.locker.	900	in	ns	ns1.dnsip.com.
@@ -30697,8 +30697,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 84668.locker.	900	in	ns	n2.xundns.com.
 84671.locker.	900	in	ns	ns7.alidns.com.
 84671.locker.	900	in	ns	ns8.alidns.com.
-84672.locker.	900	in	ns	dakota.ns.cloudflare.com.
-84672.locker.	900	in	ns	maria.ns.cloudflare.com.
+84672.locker.	900	in	ns	ns1.dyna-ns.net.
+84672.locker.	900	in	ns	ns2.dyna-ns.net.
 84673.locker.	900	in	ns	ns1.1233dns.com.
 84673.locker.	900	in	ns	ns2.951dns.com.
 84680.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -32050,8 +32050,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 88381.locker.	900	in	ns	n2.xundns.com.
 88383.locker.	900	in	ns	ns1.1233dns.com.
 88383.locker.	900	in	ns	ns2.951dns.com.
-88388.locker.	900	in	ns	dakota.ns.cloudflare.com.
-88388.locker.	900	in	ns	maria.ns.cloudflare.com.
+88388.locker.	900	in	ns	ns1.dyna-ns.net.
+88388.locker.	900	in	ns	ns2.dyna-ns.net.
 88394.locker.	900	in	ns	n1.xundns.com.
 88394.locker.	900	in	ns	n2.xundns.com.
 88400.locker.	900	in	ns	n1.xundns.com.
@@ -32387,6 +32387,10 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 88887.locker.	900	in	ns	n2.xundns.com.
 88888.locker.	900	in	ns	n1.xundns.com.
 88888.locker.	900	in	ns	n2.xundns.com.
+888888.locker.	900	in	ds	63489 13 2 2CC0E89028D1E9A5FCF45216B7B67F8E3A408C4BD894A36EABC247F9796ACE5E
+888888.locker.	900	in	ns	launch1.spaceship.net.
+888888.locker.	900	in	ns	launch2.spaceship.net.
+888888.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. DfAw/Sg9rQpxQRhBE6YHA0/RdKJLjUx8N9lI1uFKPDsZfzQY/JvsWM96YFvlo5CEhv1hXKb9aCVxL56iHVOUZQ==
 88889.locker.	900	in	ns	n1.xundns.com.
 88889.locker.	900	in	ns	n2.xundns.com.
 88890.locker.	900	in	ns	n1.xundns.com.
@@ -32869,8 +32873,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 89646.locker.	900	in	ns	a.dnspod.com.
 89646.locker.	900	in	ns	b.dnspod.com.
 89646.locker.	900	in	ns	c.dnspod.com.
-89647.locker.	900	in	ns	dakota.ns.cloudflare.com.
-89647.locker.	900	in	ns	maria.ns.cloudflare.com.
+89647.locker.	900	in	ns	ns1.dyna-ns.net.
+89647.locker.	900	in	ns	ns2.dyna-ns.net.
 89648.locker.	900	in	ns	ns1.dnsip.com.
 89648.locker.	900	in	ns	ns2.dnsip.com.
 896483.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -33141,7 +33145,7 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 8base.locker.	900	in	ns	dns1.registrar-servers.com.
 8base.locker.	900	in	ns	dns2.registrar-servers.com.
 8bog2j35kku367auic07gqoaofds2esl.locker.	300	in	nsec3	1 1 0 - 8NUO2LKAJKJEO58Q9A81OQ69SNNKQM75 NS DS RRSIG
-8bog2j35kku367auic07gqoaofds2esl.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. jOIxNF6JEqI5LAyjfqUp3ze2jwYnRunGNZ5KHafWxytYKbrKZXizlSbjM12ghmVf7xkE9Kl3jwjqySV58sw/7w==
+8bog2j35kku367auic07gqoaofds2esl.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 5Y7/2mVcKkmdcprUAMmbvy8ST6stPB6qCEcX9zIJGIH9ooq+l4yfeuFlu4A2c8pdrfFUoZt/F6XjmsQBknHwTg==
 8d777.locker.	900	in	ns	cullen.ns.cloudflare.com.
 8d777.locker.	900	in	ns	ophelia.ns.cloudflare.com.
 8day.locker.	900	in	ns	cora.ns.cloudflare.com.
@@ -33153,7 +33157,7 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 8live.locker.	900	in	ns	felicity.ns.cloudflare.com.
 8live.locker.	900	in	ns	jo.ns.cloudflare.com.
 8nuo2lkajkjeo58q9a81oq69snnkqm75.locker.	300	in	nsec3	1 1 0 - 90OPQVU3815FGVVRN8U58GIJD13UQFNG NS DS RRSIG
-8nuo2lkajkjeo58q9a81oq69snnkqm75.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. T4eazJ+uKlxip+3/gJlxb6To1HnlZbnQHJR7FVlY97kadm1LJq5gvzvFKzAeG9eLR1VAFzJ2vGvaChS2u5iIiA==
+8nuo2lkajkjeo58q9a81oq69snnkqm75.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 59zAj4EfgmB4zBTFIgp8LBepcbNA4DDDn8K9KVjZVM7U2Ce4KfrWOLJ1fCYSXaUYXTLNIVvg9i5eYEJhecm1WA==
 8us.locker.	900	in	ns	cortney.ns.cloudflare.com.
 8us.locker.	900	in	ns	rodrigo.ns.cloudflare.com.
 8xbet.locker.	900	in	ns	cora.ns.cloudflare.com.
@@ -33249,8 +33253,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 90229.locker.	900	in	ns	ns2.dnsip.com.
 90243.locker.	900	in	ns	ns1.dns.com.
 90243.locker.	900	in	ns	ns2.dns.com.
-90265.locker.	900	in	ns	dakota.ns.cloudflare.com.
-90265.locker.	900	in	ns	maria.ns.cloudflare.com.
+90265.locker.	900	in	ns	ns1.dyna-ns.net.
+90265.locker.	900	in	ns	ns2.dyna-ns.net.
 90271.locker.	900	in	ns	ns1.dnsip.com.
 90271.locker.	900	in	ns	ns2.dnsip.com.
 90272.locker.	900	in	ns	n1.xundns.com.
@@ -33489,8 +33493,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 90982.locker.	900	in	ns	ns2.dns.com.
 90998.locker.	900	in	ns	ns1.dnsip.com.
 90998.locker.	900	in	ns	ns2.dnsip.com.
-90opqvu3815fgvvrn8u58gijd13uqfng.locker.	300	in	nsec3	1 1 0 - 97GPH4L6B2TARHJEV73LIJ7PG2C7RA3J NS DS RRSIG
-90opqvu3815fgvvrn8u58gijd13uqfng.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. yhiq/CF3lArpkhyK+sSLwOPPTPLaiSCEH/IDtFLhsOFeYuvEguoEpT5UdCL54A/Y3faKaY75+Ugb+RGFbKT94A==
+90opqvu3815fgvvrn8u58gijd13uqfng.locker.	300	in	nsec3	1 1 0 - 953BK5AM97VE9MLPKMISHM2PT13JB2EF NS DS RRSIG
+90opqvu3815fgvvrn8u58gijd13uqfng.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. cJSHXxfWbptAXKR0JBLamTzNg8Y9zoF0qt9bwbqaLFCFBDwL3r3KzudVH0S8bEG4hqV+ua8DAppBg5mpupLbOA==
 91002.locker.	900	in	ns	ns1.dnsip.com.
 91002.locker.	900	in	ns	ns2.dnsip.com.
 91015.locker.	900	in	ns	n1.xundns.com.
@@ -33768,8 +33772,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 91583.locker.	900	in	ns	ns2.951dns.com.
 915913.locker.	900	in	ns	n1.xundns.com.
 915913.locker.	900	in	ns	n2.xundns.com.
-91592.locker.	900	in	ns	dakota.ns.cloudflare.com.
-91592.locker.	900	in	ns	maria.ns.cloudflare.com.
+91592.locker.	900	in	ns	ns1.dyna-ns.net.
+91592.locker.	900	in	ns	ns2.dyna-ns.net.
 91602.locker.	900	in	ns	n1.xundns.com.
 91602.locker.	900	in	ns	n2.xundns.com.
 91605.locker.	900	in	ns	n1.xundns.com.
@@ -34305,8 +34309,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 93189.locker.	900	in	ns	n2.xundns.com.
 931913.locker.	900	in	ns	n1.xundns.com.
 931913.locker.	900	in	ns	n2.xundns.com.
-93193.locker.	900	in	ns	dakota.ns.cloudflare.com.
-93193.locker.	900	in	ns	maria.ns.cloudflare.com.
+93193.locker.	900	in	ns	ns1.dyna-ns.net.
+93193.locker.	900	in	ns	ns2.dyna-ns.net.
 93196.locker.	900	in	ns	ns1.dnsip.com.
 93196.locker.	900	in	ns	ns2.dnsip.com.
 93206.locker.	900	in	ns	ns1.dnsip.com.
@@ -34677,8 +34681,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 94239.locker.	900	in	ns	ns2.dnsip.com.
 94240.locker.	900	in	ns	n1.xundns.com.
 94240.locker.	900	in	ns	n2.xundns.com.
-94245.locker.	900	in	ns	dakota.ns.cloudflare.com.
-94245.locker.	900	in	ns	maria.ns.cloudflare.com.
+94245.locker.	900	in	ns	ns1.dyna-ns.net.
+94245.locker.	900	in	ns	ns2.dyna-ns.net.
 94247.locker.	900	in	ns	n1.xundns.com.
 94247.locker.	900	in	ns	n2.xundns.com.
 94250.locker.	900	in	ns	donald.ns.cloudflare.com.
@@ -34999,6 +35003,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 95382.locker.	900	in	ns	ns2.dnsip.com.
 953913.locker.	900	in	ns	n1.xundns.com.
 953913.locker.	900	in	ns	n2.xundns.com.
+953bk5am97ve9mlpkmishm2pt13jb2ef.locker.	300	in	nsec3	1 1 0 - 97GPH4L6B2TARHJEV73LIJ7PG2C7RA3J NS DS RRSIG
+953bk5am97ve9mlpkmishm2pt13jb2ef.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. FqoHHIISi7Suoa3+EdNvfttCYeZJUvQLDP+XMpJP5SozMhU3xRLOKPQQ3n8HUoyUdKqsIZcouP765UzTtrlSJA==
 95400.locker.	900	in	ns	n1.xundns.com.
 95400.locker.	900	in	ns	n2.xundns.com.
 95405.locker.	900	in	ns	n1.xundns.com.
@@ -35781,8 +35787,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 97359.locker.	900	in	ns	ns8.alidns.com.
 97375.locker.	900	in	ns	n1.xundns.com.
 97375.locker.	900	in	ns	n2.xundns.com.
-97381.locker.	900	in	ns	dakota.ns.cloudflare.com.
-97381.locker.	900	in	ns	maria.ns.cloudflare.com.
+97381.locker.	900	in	ns	ns1.dyna-ns.net.
+97381.locker.	900	in	ns	ns2.dyna-ns.net.
 97389.locker.	900	in	ns	n1.xundns.com.
 97389.locker.	900	in	ns	n2.xundns.com.
 97393.locker.	900	in	ns	n1.xundns.com.
@@ -35970,7 +35976,7 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 97988.locker.	900	in	ns	ns1.dns.com.
 97988.locker.	900	in	ns	ns2.dns.com.
 97gph4l6b2tarhjev73lij7pg2c7ra3j.locker.	300	in	nsec3	1 1 0 - 99SF13QH8OG4AE0UUQH70ACP68PV80N2 NS DS RRSIG
-97gph4l6b2tarhjev73lij7pg2c7ra3j.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. wgs3wDMQiGedEGjXj4jQLoWDjuif2p4I0eSIfQhgZbFhW9ogQMc6+HDwTcsXQWO2LaTXuOjBiXP61YZ97vXDKg==
+97gph4l6b2tarhjev73lij7pg2c7ra3j.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. NnxjeXYrocotSnFEDolWNXsSvcQboA4kPT6yXWDeCP1zLVS3cacAIWEElgwQrifyxNb7TlJAe1WgqYW6Lzlv4w==
 97win.locker.	900	in	ns	amir.ns.cloudflare.com.
 97win.locker.	900	in	ns	riya.ns.cloudflare.com.
 98010.locker.	900	in	ns	n1.xundns.com.
@@ -36478,8 +36484,8 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 99395.locker.	900	in	ns	n2.xundns.com.
 99396.locker.	900	in	ns	ns1.dnsip.com.
 99396.locker.	900	in	ns	ns2.dnsip.com.
-99399.locker.	900	in	ns	dakota.ns.cloudflare.com.
-99399.locker.	900	in	ns	maria.ns.cloudflare.com.
+99399.locker.	900	in	ns	ns1.dyna-ns.net.
+99399.locker.	900	in	ns	ns2.dyna-ns.net.
 99403.locker.	900	in	ns	ns1.dnsip.com.
 99403.locker.	900	in	ns	ns2.dnsip.com.
 99418.locker.	900	in	ns	n1.xundns.com.
@@ -36724,7 +36730,7 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 99ok.locker.	900	in	ns	reza.ns.cloudflare.com.
 99ok.locker.	900	in	ns	sean.ns.cloudflare.com.
 99sf13qh8og4ae0uuqh70acp68pv80n2.locker.	300	in	nsec3	1 1 0 - 9B03O7U583AKOS50KCBRDCJ5HCGTEOU2 NS DS RRSIG
-99sf13qh8og4ae0uuqh70acp68pv80n2.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. TNUiV0wtmUuK+8+cGDQmn5g4JA6FlF2NRz9Tbu7IzB+lwMJBKknbkQyo3JeLKNjBN43mvac4mS+PvCZZj6U50A==
+99sf13qh8og4ae0uuqh70acp68pv80n2.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 1NTfaH+0qC37DqT2dj+jpTl6Xiu3CLQ7N8BysVv6ZdqwoXyAu4aUDNza5f2lO+6/mK33cNxKxnQEvO8VOD2AAA==
 99win.locker.	900	in	ns	ns1.dyna-ns.net.
 99win.locker.	900	in	ns	ns2.dyna-ns.net.
 9ajili.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -36732,13 +36738,15 @@ locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604
 9awin.locker.	900	in	ns	ns1.dyna-ns.net.
 9awin.locker.	900	in	ns	ns2.dyna-ns.net.
 9b03o7u583akos50kcbrdcj5hcgteou2.locker.	300	in	nsec3	1 1 0 - A7UTEH20I4QETV6QIDM1MAVFM77S7SPF NS DS RRSIG
-9b03o7u583akos50kcbrdcj5hcgteou2.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. kHiaHNYLBCusLs/VCdbwgs/PnQWXiDjm2isuqbO90evRuihztXGWMySjXxqG7QLrUwIqgE+SG+Yd9tTG2bzA7w==
+9b03o7u583akos50kcbrdcj5hcgteou2.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. GEL/XpBJ2Yy2oJxv3/3/lCEkZd3BYXzRTM0JbjbELF3ColMTf/eQSGVuA5kRfs7Knpt45Nmv/hXf71V765j6tg==
 9bet.locker.	900	in	ns	fattouche.ns.cloudflare.com.
 9bet.locker.	900	in	ns	love.ns.cloudflare.com.
+a-i.locker.	900	in	ns	dns1.registrar-servers.com.
+a-i.locker.	900	in	ns	dns2.registrar-servers.com.
 a2a.locker.	900	in	ns	dns1.registrar-servers.com.
 a2a.locker.	900	in	ns	dns2.registrar-servers.com.
-a7uteh20i4qetv6qidm1mavfm77s7spf.locker.	300	in	nsec3	1 1 0 - AMH1AEPSFK05E2EEAMGJTKOP5NRLEB70 NS DS RRSIG
-a7uteh20i4qetv6qidm1mavfm77s7spf.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. CPycZbThl8qNawHXHmq3WqtwhiZo10dAlsmG/IeS8qrqGaJzyYsVtYskbrVIbynwolFEO+dGhQu+ozb4SBJFBg==
+a7uteh20i4qetv6qidm1mavfm77s7spf.locker.	300	in	nsec3	1 1 0 - AHG6E752U8FCCJKVE291SPSMA8JH6OH7 NS DS RRSIG
+a7uteh20i4qetv6qidm1mavfm77s7spf.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. PgXB3CbYM98wDVfAuZtV8U5lo6jJJsbxYbBLY2LdbxMO/Aqin4oQ7thwJiWOyo8yaM6Q52VTRCgjdQqa/RDzWw==
 a88casino.locker.	900	in	ns	damian.ns.cloudflare.com.
 a88casino.locker.	900	in	ns	eve.ns.cloudflare.com.
 aaaa.locker.	900	in	ns	darwin.ns.cloudflare.com.
@@ -36837,6 +36845,8 @@ agree.locker.	900	in	ns	ns1.vercel-dns.com.
 agree.locker.	900	in	ns	ns2.vercel-dns.com.
 agzvyf.locker.	900	in	ns	ns1.dnsip.com.
 agzvyf.locker.	900	in	ns	ns2.dnsip.com.
+ahg6e752u8fccjkve291spsma8jh6oh7.locker.	300	in	nsec3	1 1 0 - AMH1AEPSFK05E2EEAMGJTKOP5NRLEB70 NS DS RRSIG
+ahg6e752u8fccjkve291spsma8jh6oh7.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. qLH7cGtCCNuYiWPnpzoP/qYW8Ari8Am/lDmjHs8bMa3gOGS2/wHHgIJvWYZmI8BDCyWg5RqnZsoWMMXNO8W9Qg==
 ahmed.locker.	900	in	ns	dns1.registrar-servers.com.
 ahmed.locker.	900	in	ns	dns2.registrar-servers.com.
 aiagent.locker.	900	in	ns	ns77.domaincontrol.com.
@@ -36846,7 +36856,7 @@ aiagents.locker.	900	in	ns	dns2.registrar-servers.com.
 aibot.locker.	900	in	ds	18278 13 2 71329BF10BBB63CD26B940F31D84C17A1CD97EC47E04713398F2F3D8FCBD4AE2
 aibot.locker.	900	in	ns	launch1.spaceship.net.
 aibot.locker.	900	in	ns	launch2.spaceship.net.
-aibot.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. ohU6dbSNsrkEzqsaLMJpeCOtQKwlOofojoizgASm6HgQ6WPRbkBU6cmjoO+3HZd5hHMfP90uGpSExMq3qrChMQ==
+aibot.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. z/TocK9GF5zUBRTII2Al4J4xWNifuJ0HWI4iVVpAzhj8RN4RWRUCZcxbFxJdcpyyaFRl66QS5wEbZCjR4IGIVA==
 aichat.locker.	900	in	ns	dns1.registrar-servers.com.
 aichat.locker.	900	in	ns	dns2.registrar-servers.com.
 aicoin.locker.	900	in	ns	ns07.domaincontrol.com.
@@ -36889,11 +36899,11 @@ akthq.locker.	900	in	ns	n2.xundns.com.
 alaskacoin.locker.	900	in	ds	2371 13 2 BCFAB7D2B7545795CC57D7D360DA1955FA1D59C2AC3E8BC24C1618A416B9694B
 alaskacoin.locker.	900	in	ns	addyson.ns.cloudflare.com.
 alaskacoin.locker.	900	in	ns	marty.ns.cloudflare.com.
-alaskacoin.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. bxLMabOwql1HCLwNYZl1UFPh8Rb0GBRbHAnjfOdo8WKIEq64ESovSLImMZQtyJBE/ysejNHOEx0e6njkZdy8yg==
+alaskacoin.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. /wUMFPbZeIk2CVyQNn1x+JwTEiZSYPwG3x6xWzzik2bb7sD+SdJulWhX2isG3xN0aZUGHDRSZKW9qBBeUQ94mA==
 alaskatoken.locker.	900	in	ds	2371 13 2 4D04F682DA5408959D6E89CE2D4D46102CA12500E4C13194A626D5FA08D66DAD
 alaskatoken.locker.	900	in	ns	bowen.ns.cloudflare.com.
 alaskatoken.locker.	900	in	ns	diana.ns.cloudflare.com.
-alaskatoken.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. +ULnI5sqxlilO5288wkkiYy2FEqvtcUXdY5AaRnRMV3ijNMUDeqKl4f4eacIvUTwX4rKmG9ZW6tisIM1OnMyBg==
+alaskatoken.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. RsxE89va94LtyYsy/8CFUco6/tQDi4HnA7qg9suFOa312qiZXjvZ2hUB/3EP47/nSVLOh9NEuSshkvgPMwRXtw==
 alephium.locker.	900	in	ns	dns1.registrar-servers.com.
 alephium.locker.	900	in	ns	dns2.registrar-servers.com.
 alexa.locker.	900	in	ns	dns1.comlaude-dns.com.
@@ -36940,7 +36950,7 @@ alo789.locker.	900	in	ns	maisie.ns.cloudflare.com.
 alo88.locker.	900	in	ds	9156 13 2 75255CAA4A784C88CA0A039514E08B5C24928308E505234539EB2C6D80522510
 alo88.locker.	900	in	ns	launch1.spaceship.net.
 alo88.locker.	900	in	ns	launch2.spaceship.net.
-alo88.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. +bLW7gYsW0R/r8hyi+vzwkpCMN3+JR4bvARkgLTUtuqysge9mTr93mF3WEu/siC1hESCbwjbKdIgzdb0zMStIg==
+alo88.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. Fm1L6XhtvnYKlgohO2G51LLfKEo0ZjsjsDi07yZhhrOQ+trL9tgPgVQ0m03VSk2ljIQn1GZVRqPVYEahZKx+sA==
 alofj.locker.	900	in	ns	n1.xundns.com.
 alofj.locker.	900	in	ns	n2.xundns.com.
 aloha.locker.	900	in	ns	ns03.domaincontrol.com.
@@ -36971,7 +36981,7 @@ amazon.locker.	900	in	ns	nsusa.comlaude.net.
 amco.locker.	900	in	ns	ns71.domaincontrol.com.
 amco.locker.	900	in	ns	ns72.domaincontrol.com.
 amh1aepsfk05e2eeamgjtkop5nrleb70.locker.	300	in	nsec3	1 1 0 - B6FHKG9VMHIR11484SI9QCSBIAMR3EMH NS SOA RRSIG DNSKEY NSEC3PARAM
-amh1aepsfk05e2eeamgjtkop5nrleb70.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. ALYoHa8P6lnyw5NGcxEdr0xikRgGbM9yhX9nvt3WvfQnMA1l6eydRVxd2v3UACmv3jnY1UutILlAsAJXBth5Aw==
+amh1aepsfk05e2eeamgjtkop5nrleb70.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. rfQeC52ZBIy7Om99v7AZmUbtBkmWXj1i+xF/NppIXpj5bwd74m2anEqE+IOLPl60gbtEtGn0wVqUO8Z1434g2Q==
 amir.locker.	900	in	ns	ns51.domaincontrol.com.
 amir.locker.	900	in	ns	ns52.domaincontrol.com.
 amkmk.locker.	900	in	ns	ns1.dnsip.com.
@@ -37052,6 +37062,8 @@ aquan.locker.	900	in	ns	ns1.hover.com.
 aquan.locker.	900	in	ns	ns2.hover.com.
 aqwbtr.locker.	900	in	ns	ns1.dnsip.com.
 aqwbtr.locker.	900	in	ns	ns2.dnsip.com.
+arca.locker.	900	in	ns	dns1.registrar-servers.com.
+arca.locker.	900	in	ns	dns2.registrar-servers.com.
 arcanum.locker.	900	in	ns	dns1.registrar-servers.com.
 arcanum.locker.	900	in	ns	dns2.registrar-servers.com.
 aria.locker.	900	in	ns	launch1.spaceship.net.
@@ -37155,12 +37167,12 @@ authkey.locker.	900	in	ns	grant.ns.cloudflare.com.
 authkey.locker.	900	in	ns	wally.ns.cloudflare.com.
 authorize.locker.	900	in	ns	launch1.spaceship.net.
 authorize.locker.	900	in	ns	launch2.spaceship.net.
-automate.locker.	900	in	ns	ns1.atom.com.
-automate.locker.	900	in	ns	ns2.atom.com.
-automated.locker.	900	in	ns	ns1.atom.com.
-automated.locker.	900	in	ns	ns2.atom.com.
-automaton.locker.	900	in	ns	ns1.atom.com.
-automaton.locker.	900	in	ns	ns2.atom.com.
+automate.locker.	900	in	ns	launch1.spaceship.net.
+automate.locker.	900	in	ns	launch2.spaceship.net.
+automated.locker.	900	in	ns	launch1.spaceship.net.
+automated.locker.	900	in	ns	launch2.spaceship.net.
+automaton.locker.	900	in	ns	launch1.spaceship.net.
+automaton.locker.	900	in	ns	launch2.spaceship.net.
 avaddon.locker.	900	in	ns	dns1.registrar-servers.com.
 avaddon.locker.	900	in	ns	dns2.registrar-servers.com.
 avdft.locker.	900	in	ns	n1.xundns.com.
@@ -37214,7 +37226,7 @@ b52.locker.	900	in	ns	ziggy.ns.cloudflare.com.
 b52club.locker.	900	in	ns	danica.ns.cloudflare.com.
 b52club.locker.	900	in	ns	dexter.ns.cloudflare.com.
 b6fhkg9vmhir11484si9qcsbiamr3emh.locker.	300	in	nsec3	1 1 0 - CCPBOC0QLRQJ38LCSDD7QMCAF9O4IN5U NS DS RRSIG
-b6fhkg9vmhir11484si9qcsbiamr3emh.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. 2RAq6EDH3iPkISYARrVEwUmGeB7cz6BB+2Azlk5cgSZjYaPqukqqQWE1iqSmuPHdZo/g+hgtZUqfM9dXJkgezw==
+b6fhkg9vmhir11484si9qcsbiamr3emh.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. O846CAnNBWAskcYEpo0xWHEsrxy1UBE/qGMuIUYnADqOJXkp3OQSWeP0AgcJk3SzoBlQn/616daKMWUPf3q7xA==
 babawin.locker.	900	in	ns	heather.ns.cloudflare.com.
 babawin.locker.	900	in	ns	rex.ns.cloudflare.com.
 babuk.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -37257,10 +37269,12 @@ barnett.locker.	900	in	ns	ns1.hover.com.
 barnett.locker.	900	in	ns	ns2.hover.com.
 barter.locker.	900	in	ns	ns1.dyna-ns.net.
 barter.locker.	900	in	ns	ns2.dyna-ns.net.
-base.locker.	900	in	ns	ns1.kpn.net.
-base.locker.	900	in	ns	ns11.kpn.net.
+base.locker.	900	in	ns	ns1.renewyourname.net.
+base.locker.	900	in	ns	ns2.renewyourname.net.
 based.locker.	900	in	ns	dns1.registrar-servers.com.
 based.locker.	900	in	ns	dns2.registrar-servers.com.
+basilisk.locker.	900	in	ns	brenna.ns.cloudflare.com.
+basilisk.locker.	900	in	ns	ed.ns.cloudflare.com.
 baszn.locker.	900	in	ns	ns1.dns.com.
 baszn.locker.	900	in	ns	ns2.dns.com.
 battle.locker.	900	in	ns	ns1.hover.com.
@@ -37375,8 +37389,8 @@ binance.locker.	900	in	ns	ns39.domaincontrol.com.
 binance.locker.	900	in	ns	ns40.domaincontrol.com.
 binary.locker.	900	in	ns	pdns1.registrar-servers.com.
 binary.locker.	900	in	ns	pdns2.registrar-servers.com.
-bing.locker.	900	in	ns	emily.ns.cloudflare.com.
-bing.locker.	900	in	ns	leland.ns.cloudflare.com.
+bing.locker.	900	in	ns	dns1.registrar-servers.com.
+bing.locker.	900	in	ns	dns2.registrar-servers.com.
 bingx.locker.	900	in	ns	ns1.dyna-ns.net.
 bingx.locker.	900	in	ns	ns2.dyna-ns.net.
 bird.locker.	900	in	ns	ns1.birdns.org.
@@ -37531,7 +37545,7 @@ blocks.locker.	900	in	ns	ns70.domaincontrol.com.
 blogcast.locker.	900	in	ds	2371 13 2 7E2813C645C96C0D884D3DB211972B79A243A10A39422CE8B380BDD52DF17326
 blogcast.locker.	900	in	ns	dave.ns.cloudflare.com.
 blogcast.locker.	900	in	ns	kara.ns.cloudflare.com.
-blogcast.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. ufIaRXyPyDEhsehvGG88dRt0tNlL+CP/wEavUxFN2x5l9aExZMj3y+ZpJk01Q+CFmh2Kt1FxzwzO+cmJ7TSUvg==
+blogcast.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. HN9b0Oc2hrgHdaE1egN1eo7hRYTxO63MlgPNH++VC/mSoKoduHlbY2zAtxdhZgoHhn9tpXDbekz3ajdd8qXGQw==
 blqwp.locker.	900	in	ns	n1.xundns.com.
 blqwp.locker.	900	in	ns	n2.xundns.com.
 blu89.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -37584,7 +37598,7 @@ bouddhisme.locker.	900	in	ns	ns2.dyna-ns.net.
 bourbon.locker.	900	in	ds	62552 13 2 A066BDD2B480F8E44698D3125F12D15613A6460E4E180E7E986FFCB623BA1631
 bourbon.locker.	900	in	ns	launch1.spaceship.net.
 bourbon.locker.	900	in	ns	launch2.spaceship.net.
-bourbon.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. yZiXPvuDXuyIXgugBG8aQAEYF1p7Fplqdj3CfYYzklWg0ZdpyDjuhb4q/zJhrw9ZHvu05TyyuLaAB0XCy0qW+A==
+bourbon.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. dynv0JTW4N8MGMx6W7DJZ3iBNqNXOy22WW0bPStHmbP7OWneRMN2wHX3Q0n9Ws2MmIJoptD+JbOnxDfemvW1Zg==
 box2box.locker.	900	in	ns	dns1.registrar-servers.com.
 box2box.locker.	900	in	ns	dns2.registrar-servers.com.
 boyfriend.locker.	900	in	ns	launch1.spaceship.net.
@@ -37630,6 +37644,10 @@ btcoin.locker.	900	in	ns	standard3.encirca.net.
 btcoin.locker.	900	in	ns	standard4.encirca.net.
 btcreserve.locker.	900	in	ns	ns73.domaincontrol.com.
 btcreserve.locker.	900	in	ns	ns74.domaincontrol.com.
+btcs.locker.	900	in	ds	55359 13 2 92F94B46117D2A4360F9D9AB0FE581EB99BFE6E059DAE78A2323CA3D423D6EFB
+btcs.locker.	900	in	ns	launch1.spaceship.net.
+btcs.locker.	900	in	ns	launch2.spaceship.net.
+btcs.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. UPhMx/cbwacxNPLG0sw3nHOWAQcgDQ3xgjKzOJeqLNr6at76gLixGGWQe3I0pXQBryAtbgbG4+yZLYdHp0GrnA==
 btcsmartcontracts.locker.	900	in	ns	ns1.hover.com.
 btcsmartcontracts.locker.	900	in	ns	ns2.hover.com.
 btcsmartcontracts.locker.	900	in	ns	ns3.hover.com.
@@ -37639,8 +37657,8 @@ btwbz.locker.	900	in	ns	ns1.1233dns.com.
 btwbz.locker.	900	in	ns	ns2.951dns.com.
 buber.locker.	900	in	ns	ns1.dyna-ns.net.
 buber.locker.	900	in	ns	ns2.dyna-ns.net.
-bubet.locker.	900	in	ns	ns1.dyna-ns.net.
-bubet.locker.	900	in	ns	ns2.dyna-ns.net.
+bubet.locker.	900	in	ns	mariah.ns.cloudflare.com.
+bubet.locker.	900	in	ns	watson.ns.cloudflare.com.
 buidl.locker.	900	in	ns	dns1.registrar-servers.com.
 buidl.locker.	900	in	ns	dns2.registrar-servers.com.
 builtonbitcoin.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -37652,7 +37670,7 @@ bullion.locker.	900	in	ns	dns2.registrar-servers.com.
 bun.locker.	900	in	ds	10176 13 2 262F7A53B9EA64D8D0C59F80C5EFB040581BE1FC23F8BA1D3E8F94FEF0C48242
 bun.locker.	900	in	ns	launch1.spaceship.net.
 bun.locker.	900	in	ns	launch2.spaceship.net.
-bun.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. s3A/FeYTNvvaFMSmyvbTtPj1xpW48hWN6wgsEETzfGmZEXSJdjrlmtiXmJQkXF1zdx7jIueep6umWHx3QyykEg==
+bun.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. Jb46ckRVH8oWRs/QM4ShSeZG8J/yPGcKdEijNV32p9MPlNPL85A1Wv7yUyMIt9BQ4Gzyz/FVUoJ07Ht/GwNt8Q==
 bupqx.locker.	900	in	ns	ns1.dnsip.com.
 bupqx.locker.	900	in	ns	ns2.dnsip.com.
 burberry.locker.	900	in	ns	ns59.domaincontrol.com.
@@ -37679,7 +37697,7 @@ bybit.locker.	900	in	ds	4023 13 2 125D5FEFFF639B2B3114913DBC76888A8FB9E66C481EBE
 bybit.locker.	900	in	ds	45206 13 2 26AA8406DAEA2F19DC6B816A99EDC20FC923BFBD86ACC12327E3B8DA6BADCF03
 bybit.locker.	900	in	ns	ns29.domaincontrol.com.
 bybit.locker.	900	in	ns	ns30.domaincontrol.com.
-bybit.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. wApj+U830VEdOnkgWs2QTPDhPskJRARL0IAjMxLF8QVqdLCqKxsAbZzxX0/EVif9JUp+6LoHekT3lTBdpGuxZw==
+bybit.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. pPvZrnAjaxkfF9jacb3Vihsxq1ORVRwa3iimcEhZIgCwcDdfkt1lxdUW5RlTyTkoqU6nBdW5ZpZqFCXgjNLAPA==
 bycjm.locker.	900	in	ns	ns1.dns.com.
 bycjm.locker.	900	in	ns	ns2.dns.com.
 byhov.locker.	900	in	ns	n1.xundns.com.
@@ -37705,7 +37723,7 @@ cakhiatv.locker.	900	in	ns	jo.ns.cloudflare.com.
 calc.locker.	900	in	ds	54291 13 2 A24379313882EF1B20FDA5E91A61D13459771752CC5FBDC1CA03AF6D7E8FBCB7
 calc.locker.	900	in	ns	launch1.spaceship.net.
 calc.locker.	900	in	ns	launch2.spaceship.net.
-calc.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. AAuEiYkJWN16PY/DIFRR/tood7zaThRdeJz9Q5O5U3g8+1rFZV43rNaZr30qmtWuhczy62fXirWoIsVuBcoUlA==
+calc.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. JIeRzlLkfS6qw1xXHGLcp/5V/6rNzhB7ld/xKrKaxl4zq4Cx5kusUeXJlVFbM5TizpefdRdqKMdMLAYymqv75g==
 camo.locker.	900	in	ns	dina.ns.cloudflare.com.
 camo.locker.	900	in	ns	peyton.ns.cloudflare.com.
 canadian.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -37748,7 +37766,7 @@ carrot.locker.	900	in	ns	ns12.domaincontrol.com.
 carsrecall.locker.	900	in	ds	36942 13 2 C9ABEE59BDF54A1D6B704B1A226FCBF183231ECD605253D825C5F7C51C417112
 carsrecall.locker.	900	in	ns	launch1.spaceship.net.
 carsrecall.locker.	900	in	ns	launch2.spaceship.net.
-carsrecall.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. 6YfM3GKol3pezwQav9x2khgfxpEEj6wSwjBsXmbCRH+IL681me0blZ18AL3r1w0fbXy9X7l0xl6SmFbO8TNPjQ==
+carsrecall.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. Rnye4oUZnPr8Cn1R3nmioY4xoOkRU2Dc4iTacBAA/Xvf5rTMZjZqBPZO6NpEyCgDLLJEPnViILVrl0Zy1Us7Nw==
 cashbuyerspeoria.locker.	900	in	ns	ns63.domaincontrol.com.
 cashbuyerspeoria.locker.	900	in	ns	ns64.domaincontrol.com.
 casinra.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -37764,7 +37782,7 @@ cblxsr.locker.	900	in	ns	ns2.dnsip.com.
 cc7.locker.	900	in	ns	ns31.constellix.com.
 cc7.locker.	900	in	ns	ns41.constellix.net.
 ccpboc0qlrqj38lcsdd7qmcaf9o4in5u.locker.	300	in	nsec3	1 1 0 - D0L1F77B211MOFNIP078T85GM216T5LN NS DS RRSIG
-ccpboc0qlrqj38lcsdd7qmcaf9o4in5u.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. g2QjaHEPQsywTzHAGAZxRxc3CmRWiv6CueNhBjqkLh6oSVhfGlnI0vlHbZxj4IyRcGbKZTf2WrVa7B2CWey4uQ==
+ccpboc0qlrqj38lcsdd7qmcaf9o4in5u.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. em2AQbVGqxMG2uuPNyMQxifQZOJvCOX31NVFjUNIpgt0y7gw942mCA3fyiXIRTtNiNvfI47eGAWb2FkLkJpDSA==
 cderf.locker.	900	in	ns	ns1.dnsip.com.
 cderf.locker.	900	in	ns	ns2.dnsip.com.
 cdn.locker.	900	in	ns	konnor.ns.cloudflare.com.
@@ -37905,11 +37923,11 @@ clicknpay.locker.	900	in	ds	43084 13 2 01EA0EA48C6F040B9269B3DA9A757A896F8DC89C7
 clicknpay.locker.	900	in	ds	7294 13 2 7D1D90333D0F0029D7AC3BE3F6D262E90597824B70786D5C598BCA0FD13E0C0B
 clicknpay.locker.	900	in	ns	ns53.domaincontrol.com.
 clicknpay.locker.	900	in	ns	ns54.domaincontrol.com.
-clicknpay.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. l6XmPgGpesEPOjqpxCxXuDULo82zKme+hbBnbQ5BT3f69igUqmjnwpyevIEzMDc+LMgMfMlxng9GZQ4kfdBPZQ==
+clicknpay.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. Tg7vah0XH9lujhrea+rlRa27OWO+A/2nljVxjsLU3ROpQr6QtkdLWOqccQRpSJz23AnTmnTx7WAlReqIfBaoJA==
 clikclik.locker.	900	in	ds	11696 13 1 D095ADD818B70DA8011BDD4F1DAB16EEC97F8994
 clikclik.locker.	900	in	ns	dns1.registrar-servers.com.
 clikclik.locker.	900	in	ns	dns2.registrar-servers.com.
-clikclik.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. o8E8mpgMdEfb/n6qvYp1++IWQ2mcd0jIVcNKPgVecXxQejTrZiw3DCwvmkAyRB9Z2lAZKJchpO/Wt+96ouksbA==
+clikclik.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. 4RXAzjCehkA7DCrYX/VheRnJG9Cq8hYTz9W/frsNa5Uj9HvRXo1WYml5V4zGqYxjORnVngkmlZT0afD8Z32ESw==
 clmsbh.locker.	900	in	ns	ns1.dnsip.com.
 clmsbh.locker.	900	in	ns	ns2.dnsip.com.
 cloak.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -37960,7 +37978,7 @@ cock-b.locker.	900	in	ns	rita.ns.cloudflare.com.
 cock.locker.	900	in	ds	17794 13 1 7E122CA58433922A0F8FF0C99201636D6443B4D2
 cock.locker.	900	in	ns	dns1.registrar-servers.com.
 cock.locker.	900	in	ns	dns2.registrar-servers.com.
-cock.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. KYvmi1oXIia47kC6redNWyCyIkk8mvWxt7n6uphNdiQggF+6aV9n3cbBCpgeEdKteJm9+jv+yuKaXS8blsDiMg==
+cock.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. HcA2OeeS81PkD58GOkbHlDjCR7+wIqL3Y1ldhx4jJaxJOqR/GZAUSRNFlV98bYYfWtbMtzjxugKPZ6F2x8BWTw==
 cockb.locker.	900	in	ns	ns1.afternic.com.
 cockb.locker.	900	in	ns	ns2.afternic.com.
 cockb.locker.	900	in	ns	verification-urj2ap2akmgcchkhharttb.ns101.verify.hn.
@@ -38207,13 +38225,13 @@ cxuuu.locker.	900	in	ns	n2.xundns.com.
 cyb.locker.	900	in	ds	21654 13 2 EA5CB14DE308DB5A7E87EA636A51D1F60E770C314BD308A8AA3D9B07314164F8
 cyb.locker.	900	in	ns	launch1.spaceship.net.
 cyb.locker.	900	in	ns	launch2.spaceship.net.
-cyb.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. DOMK50ReB4TyR2FvLbLuy3S8ZDdWbVHQCRdMgHqD0+ooev/zMiNZj5GjNW5+RM+SztiD7AiDkLWXJdT/a/gJlg==
+cyb.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. LCsuPgtEzb6EYNNrO7YGWZ1loNy60Axj86D/7iVWYstJZiNBWO13995YiGWi0TWbwrqDu7OIu6//rDDRYlSG2w==
 cyberlocker.locker.	900	in	ns	ns11.domaincontrol.com.
 cyberlocker.locker.	900	in	ns	ns12.domaincontrol.com.
 cyborg.locker.	900	in	ds	63564 13 2 798595A23BF1C11DDB2B9D006DC251369E65B7A2E899AA933969BD0349FD5992
 cyborg.locker.	900	in	ns	launch1.spaceship.net.
 cyborg.locker.	900	in	ns	launch2.spaceship.net.
-cyborg.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. VRUpFntvX9rRdHCD0H5MB0/rDgjqjpSA2gh3G96l22b0KKpSlWq1ig4dvEPHidZMGYjiM52GPSQmKtYTWXLPRQ==
+cyborg.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. ji1qan4GJFMYAEmX4gp8+9+4dHV8WgTRPAnhxGD1QxHaEERREJMFCKeUXruSzH890h6EyFutycxvqAdAGi3pTA==
 cyclops.locker.	900	in	ns	dns1.registrar-servers.com.
 cyclops.locker.	900	in	ns	dns2.registrar-servers.com.
 cycrux.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -38223,7 +38241,7 @@ cyderes.locker.	900	in	ns	dns2.registrar-servers.com.
 czgtkc.locker.	900	in	ns	ns1.dyna-ns.net.
 czgtkc.locker.	900	in	ns	ns2.dyna-ns.net.
 d0l1f77b211mofnip078t85gm216t5ln.locker.	300	in	nsec3	1 1 0 - DB5S2B9P1C7VUJHFPFGCKUMEG85IQ5VL NS DS RRSIG
-d0l1f77b211mofnip078t85gm216t5ln.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. pDSKkEhJZRD0t/JyaQFpFnxsMfj8BcINwx+1Ygw1zqXVoiIpvBXtpwsr1++FcmcofsIq2plyTouZfIXstpk6HQ==
+d0l1f77b211mofnip078t85gm216t5ln.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. VZ7coJdHRHZLxo5rFkoQU14dKmHdZQJ9Z5h04eWlGymzoVH+XFKcdIvzCr+9yDpliaQ3iPc/gjSicBvEgkJm8A==
 d79bet.locker.	900	in	ns	nash.ns.cloudflare.com.
 d79bet.locker.	900	in	ns	sima.ns.cloudflare.com.
 da88.locker.	900	in	ns	greg.ns.cloudflare.com.
@@ -38270,6 +38288,10 @@ darkvault.locker.	900	in	ns	dns1.registrar-servers.com.
 darkvault.locker.	900	in	ns	dns2.registrar-servers.com.
 dashlane.locker.	900	in	ns	ns1.vercel-dns.com.
 dashlane.locker.	900	in	ns	ns2.vercel-dns.com.
+dat.locker.	900	in	ds	28484 13 2 E833C2E9AACC65712714DD6442710BBE19F945B5F27B822CE942ECE1ED1D69AC
+dat.locker.	900	in	ns	launch1.spaceship.net.
+dat.locker.	900	in	ns	launch2.spaceship.net.
+dat.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. rpRIrappQN9VZBkx+u+VdzZIWK9LLr+pyYyiZSCubtswY4rzFjfjXjzxyTUCvoiZyF6N5iNgOHdDWT+aCkuIsg==
 databricks.locker.	900	in	ns	ns71.domaincontrol.com.
 databricks.locker.	900	in	ns	ns72.domaincontrol.com.
 dataset.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -38302,7 +38324,7 @@ davyjones.locker.	900	in	ns	standard4.encirca.net.
 davyjoness.locker.	900	in	ns	dns1.registrar-servers.com.
 davyjoness.locker.	900	in	ns	dns2.registrar-servers.com.
 db5s2b9p1c7vujhfpfgckumeg85iq5vl.locker.	300	in	nsec3	1 1 0 - E1VR0M9LBPA9BM74E5JNM43ONM47G8AN NS DS RRSIG
-db5s2b9p1c7vujhfpfgckumeg85iq5vl.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. 0hm88rksObbqGzV6CbDJA/6gZWPM4VR3Bu9e1AlP579ui4PJRZXvbQBtPsz57oXHnIelll8f0Lxn/oC5ibDqkg==
+db5s2b9p1c7vujhfpfgckumeg85iq5vl.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. idvZ/F/I9T2q0Vx1fkC+ZagUtap786GzGcssNudpfLYW3W4Cc6vIG7HUrYrBQVO0LoxhZIcp9QTmvvHH+0QXyg==
 dbs.locker.	900	in	ns	quentin.ns.cloudflare.com.
 dbs.locker.	900	in	ns	riya.ns.cloudflare.com.
 dccgtn.locker.	900	in	ns	ns1.dnsip.com.
@@ -38329,6 +38351,8 @@ deepseek.locker.	900	in	ns	dns1.registrar-servers.com.
 deepseek.locker.	900	in	ns	dns2.registrar-servers.com.
 defai.locker.	900	in	ns	ns1.dyna-ns.net.
 defai.locker.	900	in	ns	ns2.dyna-ns.net.
+defending.locker.	900	in	ns	ns43.domaincontrol.com.
+defending.locker.	900	in	ns	ns44.domaincontrol.com.
 definance.locker.	900	in	ns	ns07.domaincontrol.com.
 definance.locker.	900	in	ns	ns08.domaincontrol.com.
 deleon.locker.	900	in	ns	ns31.domaincontrol.com.
@@ -38356,8 +38380,8 @@ depin.locker.	900	in	ns	dns1.registrar-servers.com.
 depin.locker.	900	in	ns	dns2.registrar-servers.com.
 desci.locker.	900	in	ns	ns11.domaincontrol.com.
 desci.locker.	900	in	ns	ns12.domaincontrol.com.
-deskace.locker.	900	in	ns	ns1.dyna-ns.net.
-deskace.locker.	900	in	ns	ns2.dyna-ns.net.
+deskace.locker.	900	in	ns	elijah.ns.cloudflare.com.
+deskace.locker.	900	in	ns	norah.ns.cloudflare.com.
 deskgame.locker.	900	in	ns	elijah.ns.cloudflare.com.
 deskgame.locker.	900	in	ns	norah.ns.cloudflare.com.
 desklucky.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -38365,7 +38389,9 @@ desklucky.locker.	900	in	ns	ns2.dyna-ns.net.
 deus.locker.	900	in	ds	44794 13 2 AFD3D283DCC973F4E81A0CE2E14808E4ADF415B45F51CDB234C7FA9AD3D085B9
 deus.locker.	900	in	ns	launch1.spaceship.net.
 deus.locker.	900	in	ns	launch2.spaceship.net.
-deus.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. 2YKGqJJ9OM3BtFLbI7JZLK+gXfh7pQuFmbfd9vM1eyJJ1dMt+t23zhxw6bF+cZ+qdm/GpvJs/4BI5g8xPlwjcw==
+deus.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. tjJLv+648QCU+kcAhNuUShGCZqWM4kdSZyS9AlnBOeJUAYUaCdqeB0J38vDhtnxnrDS0Sh9nubtHml0izoXqWg==
+deusexmachina.locker.	900	in	ns	ns1.dyna-ns.net.
+deusexmachina.locker.	900	in	ns	ns2.dyna-ns.net.
 deutzboyz.locker.	900	in	ns	ns71.domaincontrol.com.
 deutzboyz.locker.	900	in	ns	ns72.domaincontrol.com.
 developer.locker.	900	in	ns	ns1.hover.com.
@@ -38518,7 +38544,7 @@ dqwexa.locker.	900	in	ns	n2.xundns.com.
 dr88.locker.	900	in	ds	51206 13 2 1C847B65AC6DA63C16551AC26B8EDFB2E007D993CC31D26AA38F605D076FDC95
 dr88.locker.	900	in	ns	launch1.spaceship.net.
 dr88.locker.	900	in	ns	launch2.spaceship.net.
-dr88.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. VE7Nske3AbEx3qHTdIc2FFgbVgz0yCxwGCW2xIknPGEnNgLr0eTxs24kr78HC+9RhvNExiIpyLP2GymmYyS6pg==
+dr88.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. pHdBQp7CPzxSL0ofKAcIgCgBGPC0jTqEUVeOlhuB13RbPEzHCT9BRF0EPmIvscTENmkt90kaDhsJRj0lfzrm+A==
 draftkings.locker.	900	in	ns	ns57.domaincontrol.com.
 draftkings.locker.	900	in	ns	ns58.domaincontrol.com.
 dread.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -38576,7 +38602,7 @@ dynamic.locker.	900	in	ns	launch2.spaceship.net.
 dyor.locker.	900	in	ns	dns1.registrar-servers.com.
 dyor.locker.	900	in	ns	dns2.registrar-servers.com.
 e1vr0m9lbpa9bm74e5jnm43onm47g8an.locker.	300	in	nsec3	1 1 0 - EJ5UVU266U7FPU4ICJA9F656CC7624GA NS DS RRSIG
-e1vr0m9lbpa9bm74e5jnm43onm47g8an.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. VavExM4z2cvjeuFyqsnPo2fI3tuHM9mv4728/hGPWtnosoe7CtAKOGLhAFUP83ebQUpQO9HCso+t9FtpFW/BJQ==
+e1vr0m9lbpa9bm74e5jnm43onm47g8an.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. CzRykRokkbozv+ruyxfLQJiDKxhF96sQ9gOzsAoVseJKI3dUTjlcSWD18ux1qlasfoumXbu+bihJe9K5b3+wiA==
 e2bet.locker.	900	in	ns	dns1.registrar-servers.com.
 e2bet.locker.	900	in	ns	dns2.registrar-servers.com.
 eagle.locker.	900	in	ns	ns1.atom.com.
@@ -38586,7 +38612,7 @@ eagyr.locker.	900	in	ns	ns2.dns.com.
 earth.locker.	900	in	ds	2644 13 2 3ED2B80B40A88D00B0BA76C0E11A47DFF2ECBE7BE6CEC68134934EE70DD27531
 earth.locker.	900	in	ns	launch1.spaceship.net.
 earth.locker.	900	in	ns	launch2.spaceship.net.
-earth.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. XgEIEu6j/BUxZ7IAyeejEtRBq4yG0s4Cd3eHkuCeFMRqIYWHuuXuwOxnjolN8B1uNUW913emg7NNLtJF+9AR8Q==
+earth.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. DbTYgeBJnMn+qYEVVm0s2JC8t2C6ZVXv6+dCb5WQNvQiXF0i5P54O5MBpS4UkmC9FUb/X+1yDT3eIXvulOMk5A==
 earthid.locker.	900	in	ns	ns05.domaincontrol.com.
 earthid.locker.	900	in	ns	ns06.domaincontrol.com.
 easyday.locker.	900	in	ns	ns21.domaincontrol.com.
@@ -38624,7 +38650,7 @@ ecster.locker.	900	in	ns	c.dns.tele2.net.
 ecster.locker.	900	in	ns	ns1.handelsbanken.se.
 ecster.locker.	900	in	ns	ns2.handelsbanken.se.
 ecster.locker.	900	in	ns	ns3.handelsbanken.se.
-ecster.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. 72ZIr/yVVoDCZxAGfCcSBTethp37RCf8m58+am7CaJ4EMXoQMzzn+nlFL0TkOETRZHndsComgFQfujaNsbnQ3g==
+ecster.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. JVZ755Fts7IujnR2l4vEbBp8aaL3rJ3Qu26dhyeQm8IRXbF+rU8HTgFZ/89rNpV/6AMiSal/MHUJqT+sSOOuaQ==
 edcvb.locker.	900	in	ns	ns1.dnsip.com.
 edcvb.locker.	900	in	ns	ns2.dnsip.com.
 eden.locker.	900	in	ns	ns1.cargo.site.
@@ -38645,7 +38671,7 @@ eiffeltower.locker.	900	in	ns	ns2.dyna-ns.net.
 einfach.locker.	900	in	ns	dns1.registrar-servers.com.
 einfach.locker.	900	in	ns	dns2.registrar-servers.com.
 ej5uvu266u7fpu4icja9f656cc7624ga.locker.	300	in	nsec3	1 1 0 - F17HBTCGT84QPTSERR0G0JBKHSUFODA8 NS DS RRSIG
-ej5uvu266u7fpu4icja9f656cc7624ga.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. pOQerBqoeHi6KngQOgVvF4ewt7vcLcNmQvCTU8lBF35W7bKnxLlIAiXwVei+AcwbsNOHc0mxwSx+SBSD36S9og==
+ej5uvu266u7fpu4icja9f656cc7624ga.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. qskhVeywvhfzXDiGHnp1eXvnqdc0+1pX+YLTRtmYp6XUDGktJ8bEK+ZgTvhbpjHxsmxXGIBggtIKL25YaJCQBQ==
 ejhwjyq.locker.	900	in	ns	ns1.dnsip.com.
 ejhwjyq.locker.	900	in	ns	ns2.dnsip.com.
 ejxkmc.locker.	900	in	ns	n1.xundns.com.
@@ -38843,8 +38869,10 @@ f00t.locker.	900	in	ns	dns1.registrar-servers.com.
 f00t.locker.	900	in	ns	dns2.registrar-servers.com.
 f168.locker.	900	in	ns	dns1.registrar-servers.com.
 f168.locker.	900	in	ns	dns2.registrar-servers.com.
-f17hbtcgt84qptserr0g0jbkhsufoda8.locker.	300	in	nsec3	1 1 0 - FE22PBGRV1RO370P2DIA9HG8P6HJ2FME NS DS RRSIG
-f17hbtcgt84qptserr0g0jbkhsufoda8.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. xjV5/PGEYsM0v3FAT365g5osppMEtZxCmpOP9gCqJkT8Ya/OctOETCBbW7PKh1cieWSyAfhTEtJe9bttogDq0w==
+f17hbtcgt84qptserr0g0jbkhsufoda8.locker.	300	in	nsec3	1 1 0 - F4ALDADAO44J4R0AO1NC8R6IMUU09FEQ NS DS RRSIG
+f17hbtcgt84qptserr0g0jbkhsufoda8.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. lmx9ySSMTeCDOqRjdoDiXPT/MHUKuTdCdKXGrdgbG4BLcDUHWPQUY+FDi6ucxgUmKHiuw+Io3F3LiD88y5SJMQ==
+f4aldadao44j4r0ao1nc8r6imuu09feq.locker.	300	in	nsec3	1 1 0 - FE22PBGRV1RO370P2DIA9HG8P6HJ2FME NS DS RRSIG
+f4aldadao44j4r0ao1nc8r6imuu09feq.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. VTuhwvQLnOjmemoBAX0rS+5zS6Dd5of0oPgTt96Ht2XQNGwGHZZwIB6A1wPH6p+IZ+ApF9NPnW3PK/9pP0zjlQ==
 f8bet.locker.	900	in	ns	angelina.ns.cloudflare.com.
 f8bet.locker.	900	in	ns	uriah.ns.cloudflare.com.
 f8bet8.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -38928,7 +38956,7 @@ fcmrt.locker.	900	in	ns	ns8.alidns.com.
 fcsec.locker.	900	in	ns	ns1.dnsip.com.
 fcsec.locker.	900	in	ns	ns2.dnsip.com.
 fe22pbgrv1ro370p2dia9hg8p6hj2fme.locker.	300	in	nsec3	1 1 0 - GJQEC5Q3VB7N7QA543EDH7V2CCKPRO03 NS DS RRSIG
-fe22pbgrv1ro370p2dia9hg8p6hj2fme.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. XEGeUfwojTzCLWuC653kOXBKiWA8zQCHobiI6bumwrb5bWDvgOXLpbxFyirZVhAA+OmAJV9iwzmN2Mh5l70mIA==
+fe22pbgrv1ro370p2dia9hg8p6hj2fme.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 7WpRvCTejPScQmTkKGEX0veTMcQyD8xiHW69mAkOtZL5dITI8yBTKHUyIaQ3/wCnMzG+EFgokR6Kxet0RubpKQ==
 feawcd.locker.	900	in	ns	n1.xundns.com.
 feawcd.locker.	900	in	ns	n2.xundns.com.
 fecly.locker.	900	in	ns	ns1.dns.com.
@@ -38944,7 +38972,7 @@ feet.locker.	900	in	ns	dns2.registrar-servers.com.
 felix.locker.	900	in	ds	33808 13 2 4FC03D558DD5D97BD3941B7C20DCCB5CD8232108CC270BF8104ADE3BFA6EB0FC
 felix.locker.	900	in	ns	launch1.spaceship.net.
 felix.locker.	900	in	ns	launch2.spaceship.net.
-felix.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. Gh8iQdPMXDv4numgmZWodOOFIflGZz/bGcLrKR6vST+70Y4p+UJnDP03hrTh8yX3hXBH7ZgIvhTgwq2qCFdTsA==
+felix.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. SU4n6LxCHWq+om5EH8usRo03nfzBkmRiVUcjM/yZy8gEdIuSO72y3+qCeLOwjiB+afoz3fluRxgJ5J/hmtYN4g==
 femboy.locker.	900	in	ns	danica.ns.cloudflare.com.
 femboy.locker.	900	in	ns	patrick.ns.cloudflare.com.
 fems.locker.	900	in	ns	karsyn.ns.cloudflare.com.
@@ -39070,8 +39098,8 @@ frank.locker.	900	in	ns	ns1.dyna-ns.net.
 frank.locker.	900	in	ns	ns2.dyna-ns.net.
 franks.locker.	900	in	ns	emily.ns.cloudflare.com.
 franks.locker.	900	in	ns	pranab.ns.cloudflare.com.
-fraser.locker.	900	in	ns	ns1.dyna-ns.net.
-fraser.locker.	900	in	ns	ns2.dyna-ns.net.
+fraser.locker.	900	in	ns	ns1.atom.com.
+fraser.locker.	900	in	ns	ns2.atom.com.
 frederik.locker.	900	in	ns	ns1.hover.com.
 frederik.locker.	900	in	ns	ns2.hover.com.
 freelancer.locker.	900	in	ns	standard3.encirca.net.
@@ -39157,7 +39185,7 @@ gaoqit.locker.	900	in	ns	n2.xundns.com.
 garett.locker.	900	in	ds	19719 13 1 520D0ACD983ECCA179E89CE2B2744C790EC07C8B
 garett.locker.	900	in	ns	dns1.registrar-servers.com.
 garett.locker.	900	in	ns	dns2.registrar-servers.com.
-garett.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. O1ZuFULRiukFll7oSWCBk+890lm+KiqgEu8CterFW2v+PsFOxIwZ2LZBG9iZZt1lHCOAjmUmgOfD7gYVafiaAg==
+garett.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. vVgeKEYmuKqTVcaPbculyMAzvlJvhXwayJbfGRCRZICRqZ4MeGiYml1Mo6MtyuKzaSusNvWX23fKgoVz9ofetg==
 garuda88.locker.	900	in	ns	dns1.namecheaphosting.com.
 garuda88.locker.	900	in	ns	dns2.namecheaphosting.com.
 gateway.locker.	900	in	ns	ns1.atom.com.
@@ -39195,16 +39223,16 @@ gemstone.locker.	900	in	ns	ns1.dyna-ns.net.
 gemstone.locker.	900	in	ns	ns2.dyna-ns.net.
 gemwin.locker.	900	in	ns	cortney.ns.cloudflare.com.
 gemwin.locker.	900	in	ns	rodrigo.ns.cloudflare.com.
-generate.locker.	900	in	ns	ns1.atom.com.
-generate.locker.	900	in	ns	ns2.atom.com.
-generator.locker.	900	in	ns	ns1.atom.com.
-generator.locker.	900	in	ns	ns2.atom.com.
+generate.locker.	900	in	ns	launch1.spaceship.net.
+generate.locker.	900	in	ns	launch2.spaceship.net.
+generator.locker.	900	in	ns	launch1.spaceship.net.
+generator.locker.	900	in	ns	launch2.spaceship.net.
 genesis.locker.	900	in	ns	ns1.atom.com.
 genesis.locker.	900	in	ns	ns2.atom.com.
 gentlemens.locker.	900	in	ds	1054 13 2 9D62EDFB60BE98A5BB51F7F45C669B525DABB6BAA56A1161D01603215F47255E
 gentlemens.locker.	900	in	ns	launch1.spaceship.net.
 gentlemens.locker.	900	in	ns	launch2.spaceship.net.
-gentlemens.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. xZaa5WfpXGvkt885ipFpwN9aFMS6qKb7WrolfqB0teMblnmq8RfaExB6skHYDbw8YATyxgx4czrdU/mM5QkjsA==
+gentlemens.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. DTg+XcV7gySZBxQsrXQeXZ1kON2aP3GdFCI1HXvQWIrDgXtnWLrYUyqkkwVYYPzolkCWPpM+uAVllr3cBOkLQQ==
 george.locker.	900	in	ns	dns1.namecheaphosting.com.
 george.locker.	900	in	ns	dns2.namecheaphosting.com.
 getaccept.locker.	900	in	ns	ns1.vercel-dns.com.
@@ -39246,7 +39274,7 @@ gjddy.locker.	900	in	ns	ns8.alidns.com.
 gjltz.locker.	900	in	ns	ns1.dns.com.
 gjltz.locker.	900	in	ns	ns2.dns.com.
 gjqec5q3vb7n7qa543edh7v2cckpro03.locker.	300	in	nsec3	1 1 0 - H6SGB6UC7DC2MMKLPJDTCA3HVMTHOEA2 NS DS RRSIG
-gjqec5q3vb7n7qa543edh7v2cckpro03.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. 0AcJXog/6TRSWNmxJXhZddVgS29vdZpA13jXOZbuv3u/o+Sgfiq1SvzNcL5e2qABc6SlR7GOs8yVVUPP3nKXYQ==
+gjqec5q3vb7n7qa543edh7v2cckpro03.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. cg39ZLPQPR7Hi5NkFuESeA5Kbaf8tgupVFvEY8cKG5zTbCnhVTDmhupJziFBkgWJ/TeLxw6O/bsCTDfOm/OHzw==
 gjuevn.locker.	900	in	ns	n1.xundns.com.
 gjuevn.locker.	900	in	ns	n2.xundns.com.
 gk88.locker.	900	in	ns	jaziel.ns.cloudflare.com.
@@ -39254,7 +39282,7 @@ gk88.locker.	900	in	ns	martha.ns.cloudflare.com.
 gkfdsjiew7.locker.	900	in	ds	18912 13 2 BBB9EF83562265CD61E9ED86F8F0D3654F4F454697992D890A6CC50B252DB2B7
 gkfdsjiew7.locker.	900	in	ns	launch1.spaceship.net.
 gkfdsjiew7.locker.	900	in	ns	launch2.spaceship.net.
-gkfdsjiew7.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. 1T9cG4cyLdJymr726QzW2aRKuaSg+r2vRDmUastaalWcC1FHH6RvgT8FcLyU21m41njyiYeVFf1mIC5ykm+q5g==
+gkfdsjiew7.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. RsAEs9cybK7Z1qmFhd4jXu7ud7u/kn8VI8hGNO5w3hyCE/1GmYTk6on2sKEdDDEgK4Nz8zMbR9xoouks4bw4+A==
 gkhymf.locker.	900	in	ns	ns1.dns.com.
 gkhymf.locker.	900	in	ns	ns2.dns.com.
 gkxdup.locker.	900	in	ns	n1.xundns.com.
@@ -39410,13 +39438,13 @@ gymshark.locker.	900	in	ns	ha2.markmonitor.zone.
 gymshark.locker.	900	in	ns	ha3.markmonitor.zone.
 gymshark.locker.	900	in	ns	ha4.markmonitor.zone.
 h6sgb6uc7dc2mmklpjdtca3hvmthoea2.locker.	300	in	nsec3	1 1 0 - H8K2PBTMPTVDFBDBJ921V3OO3AVUVSQ6 NS DS RRSIG
-h6sgb6uc7dc2mmklpjdtca3hvmthoea2.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. ObyJh/uQxY4D0hJkBO3okC9f2tOrNjIjBoEYjzPILDZdH5sBHBDZEKpSVPEqtYA6gv3y9yFyOSirHsyltjT+sw==
+h6sgb6uc7dc2mmklpjdtca3hvmthoea2.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. ymWPZoC4Zm+BzMw+XRMCTYri2hJA59vufWtjkGDFWR9RWZePJWZO2Emqq3eXbPTaaV2gabfG5n/kUhjv6SbgCw==
 h88.locker.	900	in	ds	43407 13 2 ECC2DA9B6B5EF8C1F09C8C9E17883546120DB1F114D64DBA9DDB1CC68A19A9C4
 h88.locker.	900	in	ns	launch1.spaceship.net.
 h88.locker.	900	in	ns	launch2.spaceship.net.
-h88.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. DDg62PbQ/5eDXEJf0Ecn7HvlfZ4ONwLJ+er9dF+W5lAGgdq1Cmy9XM9DPbgXT0lJua2LuUHKED7AumukJ9gPcA==
+h88.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. WtZxFO0M6q/SI+aYbuA4MNIvIHI8YLYfNyHo3LN9DkBVmkoJC0igQjPwNQZ6w7ZRi92+uhxTt2vODz3WuxC/VQ==
 h8k2pbtmptvdfbdbj921v3oo3avuvsq6.locker.	300	in	nsec3	1 1 0 - HQD16ACSU0Q2ODIIG5BUQA6ISTE6TGPU NS DS RRSIG
-h8k2pbtmptvdfbdbj921v3oo3avuvsq6.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. 2mgUBxwKZHyTlnDf/z4aaDX9rKCqPukXWxYeOGGYiLNiqTnk+qvJ0DySjVd6hqx0RUGaFGd/488vIkukg5JDaw==
+h8k2pbtmptvdfbdbj921v3oo3avuvsq6.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. L2o8enVhG8gjY5WzfREncEz1TbQmPTXwhwogJyPzR3FN06VPjmihuP70M6X3nRgv6F5zamJ3ibMduyfVpvAPsQ==
 hackathon.locker.	900	in	ns	ns1.dyna-ns.net.
 hackathon.locker.	900	in	ns	ns2.dyna-ns.net.
 hades.locker.	900	in	ns	failed-whois-verification.namecheap.com.
@@ -39438,11 +39466,11 @@ handelsbanken.locker.	900	in	ns	c.dns.tele2.net.
 handelsbanken.locker.	900	in	ns	ns1.handelsbanken.se.
 handelsbanken.locker.	900	in	ns	ns2.handelsbanken.se.
 handelsbanken.locker.	900	in	ns	ns3.handelsbanken.se.
-handelsbanken.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. DeFfmKgEAdotjx0EAQ0lPni5C0sq65zJB7vJB6C2iuZupSK3u7NpdOtpuaSxCRgf2wwkjw4nwOVzM2NLCWxQkg==
+handelsbanken.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. IqjpG0jvUsYCKZ/Y+mUSRYdncpb5VfuZkqLbB8x0GaNW8nv5jxo2ToGay8G6A+JnPv71cp86jE52JogHJhXNow==
 harbor.locker.	900	in	ds	49399 13 2 C7FE2A6B5974769233FF7729351538F89B9E99A66F24CF96AA7E7F06E32553F6
 harbor.locker.	900	in	ns	launch1.spaceship.net.
 harbor.locker.	900	in	ns	launch2.spaceship.net.
-harbor.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. 7rz/sGwbImsIp/aFEW6mfxzWfPQ18nHyxWDyaGLm4/i+KtgrPPt05o8XSInQo4SWATOMHJeWxsZmU2w75VPEtQ==
+harbor.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. gVaXzq7V9jEVAIbTzqGFmR047bfwfBKjhzmPRjx7bQ4uIgh4nITVehH55SbtcV8V/1JFtKD1glhZpsrcdsmODg==
 harrison.locker.	900	in	ns	ns55.domaincontrol.com.
 harrison.locker.	900	in	ns	ns56.domaincontrol.com.
 haunted.locker.	900	in	ns	jade.ns.cloudflare.com.
@@ -39480,7 +39508,7 @@ head.locker.	900	in	ns	verification-urj2ap2akmgcchkhharttb.ns101.verify.hn.
 heat.locker.	900	in	ds	65534 13 2 9F617CBDD4F8B881022555C2C9B75CCFAAB4DD7E80CD5A82DBF23C5F39226CFC
 heat.locker.	900	in	ns	launch1.spaceship.net.
 heat.locker.	900	in	ns	launch2.spaceship.net.
-heat.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. CMWodEXcWCIqDfqeaoli7Hnb0+imEtut4pJZpDojHt3LzoTOehx+Uyc7mU+bM0SBaFVJRWdtjykKvm/fucSejA==
+heat.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. +vvLRXGwi7kzUBqWf1jfxydqW6NL3pWychdhsvhJPn/pDED1lKZ8ehN0cX9tr0Cc8G+mEYXBWZwnYdtYglkz/Q==
 hedera.locker.	900	in	ns	ns1.dyna-ns.net.
 hedera.locker.	900	in	ns	ns2.dyna-ns.net.
 hedge.locker.	900	in	ns	ns39.domaincontrol.com.
@@ -39506,7 +39534,7 @@ helo88.locker.	900	in	ns	elma.ns.cloudflare.com.
 hentai.locker.	900	in	ds	2371 13 2 6D705CB873EB1E2E5DDD6A4B23995682A2B0A0D3A52F63FF61339F76705D2EAC
 hentai.locker.	900	in	ns	ines.ns.cloudflare.com.
 hentai.locker.	900	in	ns	nicolas.ns.cloudflare.com.
-hentai.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. Do1Q4X5zIDDEpgjI/oR9AQBUYK0lgYX/0zQ9bCKZfEza2RONP5ksJN/IaCyAPc44geCRHIahH/6HKZam3Yyncg==
+hentai.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. 9FePHYDbiAf74onFN353eVcgkh0aw8ePhSgrLROY3J5mGvn5PWqP5FOCK4BJm37aBHe52tOjDBgokuHcJGS7cw==
 herbalsalvation.locker.	900	in	ns	ns39.domaincontrol.com.
 herbalsalvation.locker.	900	in	ns	ns40.domaincontrol.com.
 heroagent.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -39636,7 +39664,7 @@ hpbejz.locker.	900	in	ns	ns2.dns.com.
 hpsce.locker.	900	in	ns	n1.xundns.com.
 hpsce.locker.	900	in	ns	n2.xundns.com.
 hqd16acsu0q2odiig5buqa6iste6tgpu.locker.	300	in	nsec3	1 1 0 - IO81M9SOLC2DQGQ7D7LTP55NJHHU7IQO NS DS RRSIG
-hqd16acsu0q2odiig5buqa6iste6tgpu.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. 1hkphIGntikSfdNknwOfGXMx4D7rs9mMMjw+O7zl8ZKd2nKUdpVffHvxJR8F49bhCuOu0pzLzfjfxiXvl4DM/w==
+hqd16acsu0q2odiig5buqa6iste6tgpu.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. M73Xpq+8uiIizHOkGiypv8EusitGKOeHMsonnG5xaRSoNyzlpj/7e/gEPowT/5pCLsG4qHIaH+YwVAQ2RLDvDg==
 hqdb-pay.locker.	900	in	ns	ns35.domaincontrol.com.
 hqdb-pay.locker.	900	in	ns	ns36.domaincontrol.com.
 hseun.locker.	900	in	ns	ns1.dnsip.com.
@@ -39792,7 +39820,7 @@ inmy.locker.	900	in	ns	ns68.domaincontrol.com.
 innercircle.locker.	900	in	ds	11192 13 1 8CC0266D23245762356BE83DC27936C819F99101
 innercircle.locker.	900	in	ns	pdns1.registrar-servers.com.
 innercircle.locker.	900	in	ns	pdns2.registrar-servers.com.
-innercircle.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. AerUDvvICyHI76jR6+sIxjdyHioz31fdmlG/xSm92bqu0u4cXIDA3P87npTse99eq70bzG/fwXi8Awf4L80QvQ==
+innercircle.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. bBX1/tNrh4hKap0OnLPF2lMDLD8lievVduvKRtyicdJxzi2AFvGzPX+WLvdclkFOafyN/yMn201elMfzRwYnsQ==
 innwxt.locker.	900	in	ns	ns1.dnsip.com.
 innwxt.locker.	900	in	ns	ns2.dnsip.com.
 inpost.locker.	900	in	ns	ns21.domaincontrol.com.
@@ -39831,8 +39859,8 @@ intu.locker.	900	in	ns	ns1.dyna-ns.net.
 intu.locker.	900	in	ns	ns2.dyna-ns.net.
 invoice.locker.	900	in	ns	failed-whois-verification.namecheap.com.
 invoice.locker.	900	in	ns	verify-contact-details.namecheap.com.
-io81m9solc2dqgq7d7ltp55njhhu7iqo.locker.	300	in	nsec3	1 1 0 - JOVB6CQN4RL0EN8HC5295PEFJCCOLUOJ NS DS RRSIG
-io81m9solc2dqgq7d7ltp55njhhu7iqo.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. pmdMMkN4f0OGUupLRg1eEZ9P85Wl3zNzyHNeo0ZFLNxj6QTd2jLBS7b4Du3425hooWdtNooTBWsLbmat+gjtzA==
+io81m9solc2dqgq7d7ltp55njhhu7iqo.locker.	300	in	nsec3	1 1 0 - KAFNKI64OUJMUP2EVQT0DTU284TBGCVO NS DS RRSIG
+io81m9solc2dqgq7d7ltp55njhhu7iqo.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. /FTmKvcEsIQpfDbR41Vojc7ySEji2OgfnHW8A+PxZfhyAvRLdJOiEbQHUZ9cm4lx9Tbg5tVSkbbR7MopQqzPCA==
 ioc.locker.	900	in	ns	quentin.ns.cloudflare.com.
 ioc.locker.	900	in	ns	riya.ns.cloudflare.com.
 iodpq.locker.	900	in	ns	ns1.dns.com.
@@ -39932,7 +39960,7 @@ jens.locker.	900	in	ds	15844 13 2 DD257A7664C794A528D483FE49E76AEA454341B9BCA7B4
 jens.locker.	900	in	ds	64639 13 2 FC3198287EBEFC036526077F5A0F769C6D0FD43BB11659097A984D821F29224F
 jens.locker.	900	in	ns	ns71.domaincontrol.com.
 jens.locker.	900	in	ns	ns72.domaincontrol.com.
-jens.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. VWI/oTfFt6Ghv29+QPdiuu5U9Y75mDfkTj6Bui32AIXgW6gfLNHa/g8el19qhQyQ3eY8ji0EEO+EIzZstJfz7A==
+jens.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. rPIx0RNiyd1dbSChmxkAP6gd4cdtJTNswqZFMzF59RkJLH5l9cUL0/0UztPZITqxrd0VNXOKsYwcpugP4s4Mkg==
 jesse.locker.	900	in	ns	amanda.ns.cloudflare.com.
 jesse.locker.	900	in	ns	cris.ns.cloudflare.com.
 jesuschrist.locker.	900	in	ns	ns21.domaincontrol.com.
@@ -39959,8 +39987,10 @@ jloiqb.locker.	900	in	ns	n1.xundns.com.
 jloiqb.locker.	900	in	ns	n2.xundns.com.
 jmdcwm.locker.	900	in	ns	ns1.dns.com.
 jmdcwm.locker.	900	in	ns	ns2.dns.com.
-jmp.locker.	900	in	ns	ns03.gcd-dns.com.
-jmp.locker.	900	in	ns	ns04.gcd-dns.com.
+jmp.locker.	900	in	ns	extdns01.na.sas.com.
+jmp.locker.	900	in	ns	extdns02.na.sas.com.
+jmp.locker.	900	in	ns	extdns03.na.sas.com.
+jmp.locker.	900	in	ns	extdns04.na.sas.com.
 jngdg.locker.	900	in	ns	ns1.dyna-ns.net.
 jngdg.locker.	900	in	ns	ns2.dyna-ns.net.
 jngfl.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -39987,8 +40017,6 @@ joshs.locker.	900	in	ns	dns1.registrar-servers.com.
 joshs.locker.	900	in	ns	dns2.registrar-servers.com.
 joshua.locker.	900	in	ns	ns1.hover.com.
 joshua.locker.	900	in	ns	ns2.hover.com.
-jovb6cqn4rl0en8hc5295pefjccoluoj.locker.	300	in	nsec3	1 1 0 - KAFNKI64OUJMUP2EVQT0DTU284TBGCVO NS DS RRSIG
-jovb6cqn4rl0en8hc5295pefjccoluoj.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. APFqDdu6nRdqu0850AVMOWiXFbHjwcLAnpt7rsTv4fJFtrQeIFjUEZwpXHJ0t13tbAdtVexhgdrj+nKHWhmMUA==
 jpbku.locker.	900	in	ns	ns1.dns.com.
 jpbku.locker.	900	in	ns	ns2.dns.com.
 jpmorgan.locker.	900	in	ns	ns71.domaincontrol.com.
@@ -40043,7 +40071,7 @@ k9cc.locker.	900	in	ns	dns2.registrar-servers.com.
 k9win.locker.	900	in	ns	felicity.ns.cloudflare.com.
 k9win.locker.	900	in	ns	jo.ns.cloudflare.com.
 kafnki64oujmup2evqt0dtu284tbgcvo.locker.	300	in	nsec3	1 1 0 - KQ80740T8VDH1N707FONTRCT3OD756QH NS DS RRSIG
-kafnki64oujmup2evqt0dtu284tbgcvo.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. FnFQzSrT0ZOyg8983FPZjoGIeAGFNDs+MvxjOHrTTCn1BMNxvJSQHbOkmYcQum/AT2PJ1X+S4X2JD3WNlF74Vg==
+kafnki64oujmup2evqt0dtu284tbgcvo.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. xSq3bA+2luOi7kqDObVhTLLCE1jGtk0ykY3u+iCf7jHaMzKbBc7zq52k9Qplbb/FUdZKiRUxx2oPTRhipzaGyw==
 kahsbq.locker.	900	in	ns	n1.xundns.com.
 kahsbq.locker.	900	in	ns	n2.xundns.com.
 kaizen88.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -40077,7 +40105,7 @@ kdlzgp.locker.	900	in	ns	ns2.dnsip.com.
 keeb.locker.	900	in	ds	31964 13 2 C0A9A33EEB4AE03BC77F99CBF77B443C90488AA37C9060FBF8B5CF28941D87F1
 keeb.locker.	900	in	ns	launch1.spaceship.net.
 keeb.locker.	900	in	ns	launch2.spaceship.net.
-keeb.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. rtwXt8W060YT3v2HOCzKSrbhHK6/mc52/jsjg+KEcFtLYkVKMPbiHsKWYwnQumqnQ7mfO1HU0My/c0MQ4u6u+A==
+keeb.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. tOePN5rOqWIm2AZDdBhcgf/1EGe9j0fB+KW9HXYoxCkCGiNABQvGZe4ZrdNVnqE5yfb/zN6vZpH6tvWw1Q7W8A==
 keepitsafe.locker.	900	in	ns	ns1.dyna-ns.net.
 keepitsafe.locker.	900	in	ns	ns2.dyna-ns.net.
 keinsell.locker.	900	in	ns	amir.ns.cloudflare.com.
@@ -40154,7 +40182,7 @@ kingking.locker.	900	in	ds	10914 13 2 C3F102FBF5158DADEB3D86F784CA1342758B374C83
 kingking.locker.	900	in	ds	45972 13 2 6D481ED66693D4538AF72187622BD9FFDAB8F9CF6BDAB478D3B0712320ACC28D
 kingking.locker.	900	in	ns	ns69.domaincontrol.com.
 kingking.locker.	900	in	ns	ns70.domaincontrol.com.
-kingking.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. IcAGq4BNdjgi/hw5MwR11Yni94Nn9lCCnWcYr+MwuK+Z4BzAYrbkzsd4WbW4I6tmZ9876PjipAptyMPSuWDnMg==
+kingking.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. 0NuCc5hJ5Up0NfdQCcocO6jzwXRid05eljQGWH4POa34+S2IceEm/R/iOjN6OxLk8fpfOAijafPw5hrzB3onhw==
 kingkong788.locker.	900	in	ns	apollo.ns.cloudflare.com.
 kingkong788.locker.	900	in	ns	crystal.ns.cloudflare.com.
 kiorc.locker.	900	in	ns	n1.xundns.com.
@@ -40213,7 +40241,7 @@ kpmg.locker.	900	in	ns	ns2.vercel-dns.com.
 kpn.locker.	900	in	ns	ns1.kpn.net.
 kpn.locker.	900	in	ns	ns11.kpn.net.
 kq80740t8vdh1n707fontrct3od756qh.locker.	300	in	nsec3	1 1 0 - KT0QEA4EDAIEFL5RBEAQ9P2D2C46VGRD NS DS RRSIG
-kq80740t8vdh1n707fontrct3od756qh.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. qgaY0Ks8ykjQES7hYuMfY5rMJ+t12uMfL8P4Y9Xd8fGULBf14Xi2bUjC6sObLdqOdhQmpLkLsS3MEGqaqE8EaQ==
+kq80740t8vdh1n707fontrct3od756qh.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. rUkaFgk6eVutkpaxLV7v0UYSrP8qhmm8kThizwwj08lHGtDp9lg4ypxuYkiF66OSGlh9YGg97bOuT7suGh4CYw==
 kqund.locker.	900	in	ns	n1.xundns.com.
 kqund.locker.	900	in	ns	n2.xundns.com.
 kraken.locker.	900	in	ns	ns39.domaincontrol.com.
@@ -40227,7 +40255,7 @@ krypto.locker.	900	in	ns	ns2.dyna-ns.net.
 ksdih.locker.	900	in	ns	ns1.dyna-ns.net.
 ksdih.locker.	900	in	ns	ns2.dyna-ns.net.
 kt0qea4edaiefl5rbeaq9p2d2c46vgrd.locker.	300	in	nsec3	1 1 0 - KVNNNPE5K3P5JV0UT3JPR93D2SHI53DH NS DS RRSIG
-kt0qea4edaiefl5rbeaq9p2d2c46vgrd.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. kSpwy9Zne4Ul9KtY/6OBgRd7ECA5Kxk6D3gM8B8UwYHfU04f7gXgZwJsgzZC+CfG3YPMwzHDhdyShm2h3HuHmw==
+kt0qea4edaiefl5rbeaq9p2d2c46vgrd.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. GmBKM3gJgr9BUaCPQsaW4WQxNKaY7PXaZAZY08xPfZOavjqY7CeWubwkJLaJOPf6TZbH1tI7eJoXk+dl2ABAbQ==
 ku88.locker.	900	in	ns	dns1.registrar-servers.com.
 ku88.locker.	900	in	ns	dns2.registrar-servers.com.
 kubet.locker.	900	in	ns	arely.ns.cloudflare.com.
@@ -40255,7 +40283,7 @@ kuwinzhz.locker.	900	in	ns	ns2.dyna-ns.net.
 kuyhg.locker.	900	in	ns	ns1.dyna-ns.net.
 kuyhg.locker.	900	in	ns	ns2.dyna-ns.net.
 kvnnnpe5k3p5jv0ut3jpr93d2shi53dh.locker.	300	in	nsec3	1 1 0 - L8DTVTH90MB6HOHIJG17MMOKS08ICFTK NS DS RRSIG
-kvnnnpe5k3p5jv0ut3jpr93d2shi53dh.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. lCm3Hf7p4Fy9/a5n3/NbSGrR8x821OSCOpm3GWf6AwVVWh/2vUaewnejvGaYRjhl2fhdki8CXYncMhRO23MkNg==
+kvnnnpe5k3p5jv0ut3jpr93d2shi53dh.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. +5VuSCZwA+NYl5wsHpXZjcoP/t3U3a36XvHrAF9jtxwVmW1EfvLyNAVyrEzWE7kwcuH/HoiRd6jXxBFMb/YckA==
 kwdhbh.locker.	900	in	ns	n1.xundns.com.
 kwdhbh.locker.	900	in	ns	n2.xundns.com.
 kwin.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -40280,7 +40308,7 @@ kznxt.locker.	900	in	ns	n2.xundns.com.
 kzympk.locker.	900	in	ns	ns1.dns.com.
 kzympk.locker.	900	in	ns	ns2.dns.com.
 l8dtvth90mb6hohijg17mmoks08icftk.locker.	300	in	nsec3	1 1 0 - LKPN3VC92H380MTO7TEVGTLBI0TR2GJT NS DS RRSIG
-l8dtvth90mb6hohijg17mmoks08icftk.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. s0XHl+d4bLtZ6Arf1tlLQIT64DKGE0rRYVtU0ggL/dtDkyIuLIsYxT2cNJPf9HsdpHJB8gCBrHPGJZBBbPN6Mw==
+l8dtvth90mb6hohijg17mmoks08icftk.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 0qx0r7qynOqpTNQOR06aIKeXh3mxHGh+oxfTxjiJE+8ZZpyhNccc0WEgQfIUA2YL6cUCMS5gdxl2RACt04KwVg==
 l9777.locker.	900	in	ns	angelina.ns.cloudflare.com.
 l9777.locker.	900	in	ns	nikon.ns.cloudflare.com.
 laasx.locker.	900	in	ns	n1.xundns.com.
@@ -40297,17 +40325,17 @@ larp.locker.	900	in	ns	dns1.registrar-servers.com.
 larp.locker.	900	in	ns	dns2.registrar-servers.com.
 las-vegas.locker.	900	in	ns	ns1.dyna-ns.net.
 las-vegas.locker.	900	in	ns	ns2.dyna-ns.net.
-lasers247.locker.	900	in	ns	ns1.indiandns.net.
-lasers247.locker.	900	in	ns	ns2.indiandns.net.
-lasers247.locker.	900	in	ns	ns3.indiandns.net.
-lasers247.locker.	900	in	ns	ns4.indiandns.net.
+lasers247.locker.	900	in	ns	ns1.protondns.net.
+lasers247.locker.	900	in	ns	ns2.protondns.net.
+lasers247.locker.	900	in	ns	ns3.protondns.net.
+lasers247.locker.	900	in	ns	ns4.protondns.net.
 lastpass.locker.	900	in	ns	ns1.vercel-dns.com.
 lastpass.locker.	900	in	ns	ns2.vercel-dns.com.
 laststraw.locker.	900	in	ds	20409 13 2 11FDCA0D28D2C1BA5DBC6D9E30FACD20E5AFE92C04616916FA556FD80BD3A1F6
 laststraw.locker.	900	in	ds	60783 13 2 ACA78E6DF332F721D19523786D7F5D883D0FF9FD0466B95E4D2C79CBB198C1C1
 laststraw.locker.	900	in	ns	ns01.domaincontrol.com.
 laststraw.locker.	900	in	ns	ns02.domaincontrol.com.
-laststraw.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. TqE0Bvd8TMDQj7c2Gi5mlvURhom1Qo9iBHTbzdPuaGBw4lYaLeqEQwsxp968w5REzfuWQ9YC+lBwmdcgcVPHcA==
+laststraw.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. TrF7wKT0vRcY/WIK8gxNyIczJWLTYYFo3uCeRvBdSC/iu41gpEgX3Bx+MK8USmjBFPQD65ICGGyFZN6+E0iTcw==
 lasvegas.locker.	900	in	ns	ns1.dyna-ns.net.
 lasvegas.locker.	900	in	ns	ns2.dyna-ns.net.
 latex.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -40351,6 +40379,8 @@ lens.locker.	900	in	ns	dns1.registrar-servers.com.
 lens.locker.	900	in	ns	dns2.registrar-servers.com.
 leo88.locker.	900	in	ns	ace.ns.cloudflare.com.
 leo88.locker.	900	in	ns	alexandra.ns.cloudflare.com.
+less-online-creat.locker.	900	in	ns	johnathan.ns.cloudflare.com.
+less-online-creat.locker.	900	in	ns	margot.ns.cloudflare.com.
 leung.locker.	900	in	ns	ns1.hover.com.
 leung.locker.	900	in	ns	ns2.hover.com.
 leverage.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -40417,7 +40447,7 @@ littlewood.locker.	900	in	ns	ns12.domaincontrol.com.
 livebeats.locker.	900	in	ds	34477 13 2 1B61B96FC9540D98425DE76585B50BD19A4B0618F775184C9F25C6135B22E729
 livebeats.locker.	900	in	ns	launch1.spaceship.net.
 livebeats.locker.	900	in	ns	launch2.spaceship.net.
-livebeats.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. vJE61YZITMIApb+1Jk3sQAXys21u4xSBtXUlF2VWAmBLES+0tLQ6wI30cTk2hYImc1ib1YwRG+46ud+cY7ZdUg==
+livebeats.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. niB5fgSjoZ64/p2A5vmvlopZ9uYt9bEBQ3Ubqo/NUCRlvC10ask1VYmvUex2CnSH4o8MWjuH1ElndOYd9+S2Og==
 livecasino.locker.	900	in	ns	dns1.registrar-servers.com.
 livecasino.locker.	900	in	ns	dns2.registrar-servers.com.
 liviu.locker.	900	in	ns	launch1.spaceship.net.
@@ -40432,8 +40462,8 @@ lkjmn.locker.	900	in	ns	ns1.dnsip.com.
 lkjmn.locker.	900	in	ns	ns2.dnsip.com.
 lkleb.locker.	900	in	ns	ns1.dnsip.com.
 lkleb.locker.	900	in	ns	ns2.dnsip.com.
-lkpn3vc92h380mto7tevgtlbi0tr2gjt.locker.	300	in	nsec3	1 1 0 - MCC876SHBNDKHO9CFU2C059GOJPS8AGP NS DS RRSIG
-lkpn3vc92h380mto7tevgtlbi0tr2gjt.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. JF6K+yYNkXRzQEgKx9IbhMeR1P5TUg6DVFNtehXzbe6B1kJrjfW2ni2kcZ6CPO7kNvDU2fB7iZemk2ve4k0+DA==
+lkpn3vc92h380mto7tevgtlbi0tr2gjt.locker.	300	in	nsec3	1 1 0 - M0R3AJDATVKTMQJ434R9MRR56P0LV0IU NS DS RRSIG
+lkpn3vc92h380mto7tevgtlbi0tr2gjt.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. q9HMmTfUAMvbMAFJUWo0L3mbJQN1P6kFQ53FS8mPXx6ZJtLo0OVcJA7Qi3e4UtNJhJuV8Hsjk/MbucpGM8twdA==
 llama.locker.	900	in	ns	launch1.spaceship.net.
 llama.locker.	900	in	ns	launch2.spaceship.net.
 llm.locker.	900	in	ns	ns1.vercel-dns.com.
@@ -40470,17 +40500,17 @@ lockbit3.locker.	900	in	ns	dns2.registrar-servers.com.
 locked.locker.	900	in	ns	ns1.dyna-ns.net.
 locked.locker.	900	in	ns	ns2.dyna-ns.net.
 locker.	0	in	nsec3param	1 0 0 -
-locker.	0	in	rrsig	NSEC3PARAM 13 1 0 20250926001529 20250827001529 4145 locker. y6Xj2niJUrHq+OUCX3wrA6Lb1Z0zv+CCNfsrNN46VCR92Vxncae0FlEYGp+gPgTFBfgtkjTRhZ2Dx4E2L07tLA==
+locker.	0	in	rrsig	NSEC3PARAM 13 1 0 20251005002029 20250905002029 4145 locker. lDhRY8A+Whu+mPwUIOKr2VSl0atgf33i5d+uvLRtkegY7X1GVWvR2ouwxs3DjMbI9smp2vEgJv27RCvulXvuJA==
 locker.	172800	in	ns	ns01.trs-dns.com.
 locker.	172800	in	ns	ns01.trs-dns.info.
 locker.	172800	in	ns	ns01.trs-dns.net.
 locker.	172800	in	ns	ns01.trs-dns.org.
-locker.	172800	in	rrsig	NS 13 1 172800 20250926001529 20250827001529 4145 locker. bvhyK1wO+OlwNnnZoR85/76C4XeCsfCV6/LX+vX3fqLfctCdYDhZmLWsWbkHnHDE2ivDuld/YnJTN1zs3u5u5A==
+locker.	172800	in	rrsig	NS 13 1 172800 20251005002029 20250905002029 4145 locker. 6PXRJivL081+uO1JKw3HMAmQR+aYzO9ofLPlm4Xw95GI+AGzE2xGBZd0doiMJ+A2rrPuYOvYddANWQmVe4jQXw==
 locker.	86400	in	dnskey	256 3 13 p98Wi7KSPz3YwyB+ZlNu5qEzCsC0Aj183NxKXF5hwXeJHT5TxD+n+qBNh0Itg/fx1pgYxg2hqg+/s+P3kvNKiQ==
 locker.	86400	in	dnskey	257 3 13 BCov+DBWtVai1p1ALYj48oNDrQzthEQHlWYv9D9vXoYh60QJhyqiR+BcErVDeDMtiKXzJQP7866Z+CP24M3f2Q==
-locker.	86400	in	rrsig	DNSKEY 13 1 86400 20250926001529 20250827001529 13510 locker. 0SwdEj8+bIoDlLmqKqgmVDNj90bH/8CUKpBQGuHI8OcorEMeqIF+2OdKidAb7Wx8h3v3qanDJla3xj+ydyzgXA==
-locker.	86400	in	rrsig	DNSKEY 13 1 86400 20250926001529 20250827001529 4145 locker. mcZodwBdgwiWnFHnCA+OKS6wn0o5hvCrajSwrq9XKRRi5ByvUKqVcW07LWGFlVNGRRH4x4/DtGIAeXuLYS4CoA==
-locker.	86400	in	rrsig	SOA 13 1 86400 20250926001529 20250827001529 4145 locker. ZzzSeyDNWtpGX12BZlbH8MPMERFIBc6pHxjYptByFeseXz50NkKMZN3RyaFPQfKKrA5lH3CEzrQrH4V1uOq7mQ==
+locker.	86400	in	rrsig	DNSKEY 13 1 86400 20251005002029 20250905002029 13510 locker. J4n7qJV2OqJY5ljMItbGos4KOXNG59zVpJ0iSLp+uDwC2s9CCLkNU9tn8Nk8OlOeMic8uX8kY3fij5TpNDOA2w==
+locker.	86400	in	rrsig	DNSKEY 13 1 86400 20251005002029 20250905002029 4145 locker. oYpOg/K8/d2M3KlAbyichffE8QGAN10Xk1I5nn7waW4e8V/HZ8Mw8jvPjD9I2TaOBsTXhkBB0D8cFVTPFz1jsg==
+locker.	86400	in	rrsig	SOA 13 1 86400 20251005002029 20250905002029 4145 locker. 7A8fqB4W6FiqvvlkjZR2/FzpE+ncY63N42eB6epmgofqMEo2xYgF9mBmzCWE3bz97QRa1ZJtfS289C7U0dWaHw==
 lockerlocker.locker.	900	in	ns	ns1.dyna-ns.net.
 lockerlocker.locker.	900	in	ns	ns2.dyna-ns.net.
 lockerroomquotes.locker.	900	in	ns	standard3.encirca.net.
@@ -40567,6 +40597,8 @@ lynx.locker.	900	in	ns	dns1.registrar-servers.com.
 lynx.locker.	900	in	ns	dns2.registrar-servers.com.
 lyric.locker.	900	in	ns	dns1.registrar-servers.com.
 lyric.locker.	900	in	ns	dns2.registrar-servers.com.
+m0r3ajdatvktmqj434r9mrr56p0lv0iu.locker.	300	in	nsec3	1 1 0 - MCC876SHBNDKHO9CFU2C059GOJPS8AGP NS DS RRSIG
+m0r3ajdatvktmqj434r9mrr56p0lv0iu.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. qeJy5YCZTdnKh3QaINQvSEQrYDxwCo0Sm40JAxWy1R9aG2gAxQaE5W/Z+rNOFi3UsabHsTyaijfcZHwo+7Dlig==
 m168.locker.	900	in	ns	delilah.ns.cloudflare.com.
 m168.locker.	900	in	ns	mcgrory.ns.cloudflare.com.
 m88.locker.	900	in	ns	eloise.ns.cloudflare.com.
@@ -40686,7 +40718,7 @@ mbgnsc.locker.	900	in	ns	ns2.dyna-ns.net.
 mbgtf.locker.	900	in	ns	ns1.dnsip.com.
 mbgtf.locker.	900	in	ns	ns2.dnsip.com.
 mcc876shbndkho9cfu2c059gojps8agp.locker.	300	in	nsec3	1 1 0 - N31AAEEM0L3S9GE23QJVF3GAL98NC8NQ NS DS RRSIG
-mcc876shbndkho9cfu2c059gojps8agp.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. lpkgy3Irghw3DjMJAY1nc9ToX+CqTla5y0zxnSHHJkWh91cCCwKmlywAMevHvsW25PZzb8k/fsIAvTbVOtu+Ag==
+mcc876shbndkho9cfu2c059gojps8agp.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. g4es3Se52MHwGTOs2f/7+FdHqTXb1EchOpqnLPHHbIHCWupXOx8XVXGyPV2B7KipeDymrhrtv3IkhjNzFZa4hQ==
 mcdonalds.locker.	900	in	ns	ns75.domaincontrol.com.
 mcdonalds.locker.	900	in	ns	ns76.domaincontrol.com.
 mce.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -40830,8 +40862,8 @@ mlopi.locker.	900	in	ns	ns1.dnsip.com.
 mlopi.locker.	900	in	ns	ns2.dnsip.com.
 mlst.locker.	900	in	ns	dns1.registrar-servers.com.
 mlst.locker.	900	in	ns	dns2.registrar-servers.com.
-mm88.locker.	900	in	ns	a5.share-dns.com.
-mm88.locker.	900	in	ns	b5.share-dns.net.
+mm88.locker.	900	in	ns	ignacio.ns.cloudflare.com.
+mm88.locker.	900	in	ns	tia.ns.cloudflare.com.
 mmoo.locker.	900	in	ns	etienne.ns.cloudflare.com.
 mmoo.locker.	900	in	ns	tara.ns.cloudflare.com.
 mnbvc.locker.	900	in	ns	ns1.dnsip.com.
@@ -40931,13 +40963,13 @@ musk.locker.	900	in	ds	285 13 2 CF445DA6FD81774FAF18E7CDFD12B461F2DB7BEEB1A4807C
 musk.locker.	900	in	ds	3959 13 2 14A7790E213171B4AD8785D9A1A82963E7E539DC629E71829C3A85A93CD87307
 musk.locker.	900	in	ns	ns75.domaincontrol.com.
 musk.locker.	900	in	ns	ns76.domaincontrol.com.
-musk.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. GYRmcFUXDHgw79xJQLCGd2dlf8yCbXC7q3PpErX4qW/T/ONh7kRAyNn7JlmQH5gBquQwl6YjRduQ249FwqKI/Q==
+musk.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. wWJRhAY7UNu1FvV0SBnXdK04DlNYjL4f1uAYSGOcihyYVhh9NrwKzLtFykCVEoekjPD1nK8Ox8nIlrguJQk2uw==
 mxbjak.locker.	900	in	ns	n1.xundns.com.
 mxbjak.locker.	900	in	ns	n2.xundns.com.
 my.locker.	900	in	ds	52587 13 2 B34CF7D48BC04FC560CE87403BA8FEDA0188C18DDA7FE32B6ADBEAD5819B43D5
 my.locker.	900	in	ns	ns02.trs-dns.com.
 my.locker.	900	in	ns	ns02.trs-dns.net.
-my.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. vkNMlNIbdWKxdW2lCYlwaN41aKHeADM5SpwokSGdecAr4GIEAnJqoIIoyhZUhzDmbHt2e0euf+Vnpb6z6bNGcg==
+my.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. t7UUZcMEA5EAvfurtpAs2bPFoDfAAM0FKcjmqPb2xCM7EM4xuoQFakWNu4EN67RtWueMRR1nFIgn0FmmpmL3xw==
 myai.locker.	900	in	ns	angelina.ns.cloudflare.com.
 myai.locker.	900	in	ns	ivan.ns.cloudflare.com.
 myb.locker.	900	in	ns	ns1.hover.com.
@@ -41015,10 +41047,12 @@ myvault.locker.	900	in	ns	ns57.domaincontrol.com.
 myvault.locker.	900	in	ns	ns58.domaincontrol.com.
 mywallet.locker.	900	in	ns	standard3.encirca.net.
 mywallet.locker.	900	in	ns	standard4.encirca.net.
+n0hot.locker.	900	in	ns	ns1.hover.com.
+n0hot.locker.	900	in	ns	ns2.hover.com.
 n26.locker.	900	in	ns	ns1.dyna-ns.net.
 n26.locker.	900	in	ns	ns2.dyna-ns.net.
 n31aaeem0l3s9ge23qjvf3gal98nc8nq.locker.	300	in	nsec3	1 1 0 - ONLN4R6EHBFKG0SCJ97AVOPKRUBVOF9I NS DS RRSIG
-n31aaeem0l3s9ge23qjvf3gal98nc8nq.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. 7XAYndYprg7kG8rnRV31GGSoEkVzjI8jgfqUn44DmcBdDLF8keYgsWL735co5ZllsRahvUxhc/a9sJMfXSBisg==
+n31aaeem0l3s9ge23qjvf3gal98nc8nq.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. z1NWcgVanO2FWJMHpC+56O9rQIl39QKp0e6sJoKBFV2INIWknHYmZzTZ585Xw3/ZW6SOYwxIjP78JAvjYu6ISQ==
 n88.locker.	900	in	ns	ainsley.ns.cloudflare.com.
 n88.locker.	900	in	ns	quinton.ns.cloudflare.com.
 na99.locker.	900	in	ns	ariadne.ns.cloudflare.com.
@@ -41026,9 +41060,11 @@ na99.locker.	900	in	ns	dale.ns.cloudflare.com.
 naked.locker.	900	in	ds	22030 13 2 87AF84A041E43488992FE30B09546E8E7EBABD4665A729975DD82205FF0FE691
 naked.locker.	900	in	ns	launch1.spaceship.net.
 naked.locker.	900	in	ns	launch2.spaceship.net.
-naked.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. +MI6gVP3kH5jYQilSJ6SNWRHEzkyH4WjVNgJzjfYkeBAX/H6Uog1/EXwdL+fpKv//cQCbvCrqHMIceVZ5+gdXg==
+naked.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. CgCwMKml5JCmr96ddqCqZox28jKK+SRIfuxFFQXm9PSSRXyVNVXytAvky/Aro/4xOwSalUH0oxgk4B4ZBC6mVQ==
 namechain.locker.	900	in	ns	pdns09.domaincontrol.com.
 namechain.locker.	900	in	ns	pdns10.domaincontrol.com.
+nanobanana.locker.	900	in	ns	ns1.dyna-ns.net.
+nanobanana.locker.	900	in	ns	ns2.dyna-ns.net.
 nasa.locker.	900	in	ns	ns55.domaincontrol.com.
 nasa.locker.	900	in	ns	ns56.domaincontrol.com.
 naturalminerals.locker.	900	in	ns	ns1.hover.com.
@@ -41059,7 +41095,7 @@ neo79.locker.	900	in	ns	wilson.ns.cloudflare.com.
 neon.locker.	900	in	ds	25115 13 2 554778F470B872711A8369B187B82435A129B50B7A016B8ED7A611D11247BB50
 neon.locker.	900	in	ns	launch1.spaceship.net.
 neon.locker.	900	in	ns	launch2.spaceship.net.
-neon.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. W3ztW3K2asDBZ59dqoydCjexclXQk/BaE5/Okeg2+R55RusceOGHvgXE5izp92dy/S395tfy1kmxuv1S4Wd5Kw==
+neon.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. gY79QEErN8VftE0siQNGTcE0PuCBv1XxQgJXU4n7naovVjs4sF6CRjWYtRNZqE308Fd/odzqEExNEbG+S4QZlQ==
 neopepe.locker.	900	in	ns	dns1.registrar-servers.com.
 neopepe.locker.	900	in	ns	dns2.registrar-servers.com.
 nermalthehun.locker.	900	in	ns	ns75.domaincontrol.com.
@@ -41077,7 +41113,7 @@ netflix.locker.	900	in	ns	ns12.domaincontrol.com.
 neuro.locker.	900	in	ds	1443 13 2 E37DDF2FA40A33B78DBE5559D9DC7827AA74BE2ECCE6C805AC035885135AA67F
 neuro.locker.	900	in	ns	launch1.spaceship.net.
 neuro.locker.	900	in	ns	launch2.spaceship.net.
-neuro.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. oZf+7UtSaelhNGlut4Cr+sfpIwPIEAM/lZht0RdQq8b1LvfcHlYoEaEHNIGjJvZoOW76nCn0yPbT9WHtKW6B0A==
+neuro.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. cOgtrUC9X2ntjgz3v4fcw+bPX/gAzzTS1W6CIodkr/5JlhePQEEIJ0cGIh2qMGkDRiengZFB+F4rS5RuDBoMSA==
 new-work.locker.	900	in	ns	ns1.dyna-ns.net.
 new-work.locker.	900	in	ns	ns2.dyna-ns.net.
 new-york.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -41096,6 +41132,8 @@ newssources.locker.	900	in	ns	dns1.registrar-servers.com.
 newssources.locker.	900	in	ns	dns2.registrar-servers.com.
 nexdrive.locker.	900	in	ns	ethan.ns.cloudflare.com.
 nexdrive.locker.	900	in	ns	olga.ns.cloudflare.com.
+nexgen.locker.	900	in	ns	cora.ns.cloudflare.com.
+nexgen.locker.	900	in	ns	noel.ns.cloudflare.com.
 next.locker.	900	in	ns	dns1.cscdns.net.
 next.locker.	900	in	ns	dns2.cscdns.net.
 nextgen.locker.	900	in	ns	pdns1.registrar-servers.com.
@@ -41123,7 +41161,7 @@ nhatvip.locker.	900	in	ns	phil.ns.cloudflare.com.
 nic.locker.	900	in	ds	33989 13 2 BE82D31A97F38D2C027944E5D0A99E36D0591B511E6A41223953AF4DAA3FB341
 nic.locker.	900	in	ns	ns03.trs-dns.com.
 nic.locker.	900	in	ns	ns03.trs-dns.net.
-nic.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. ygiX6txpJSQNcDBZREyMIoIjCOaZvfwd5NzV5i2ZE6g6k5Ne5lhg7jfo9/NCHZ7RsEpgQjjfNmAGrAZoTgzdhA==
+nic.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. BQFYOG05pDXt84Up1/ioOl4r6Ec12nu1C7OqWbZ4LoFPYMQFZ9j1gHe41+Wj3NSQGRpObkThT+TAekY0ClZ/Mw==
 nickel.locker.	900	in	ns	ns1.dyna-ns.net.
 nickel.locker.	900	in	ns	ns2.dyna-ns.net.
 nicklee.locker.	900	in	ns	ns1.hover.com.
@@ -41192,7 +41230,7 @@ noqnxu.locker.	900	in	ns	n2.xundns.com.
 nord.locker.	900	in	ds	45524 13 2 5FEBC9F3A1D1A85363BD7BC07D0C0BE92248552059F7F1316FB535B71A9F904B
 nord.locker.	900	in	ns	launch1.spaceship.net.
 nord.locker.	900	in	ns	launch2.spaceship.net.
-nord.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. +afdgX0Jiot4fP2VfrG6wXpAANZxayCEb1+7M6zY9B1IXBNTyPdeJVlvZAQJ7bBZGyGbg0gCpmtUz4IOxBAcOQ==
+nord.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. kZj4FyGHgAxMQF8qIQcbKQ5AvqPmTkbokX+urz3/7TwrCZWgdxTNpD5YamWQFGLgUrtKTQc6seT7lzs7yNmcRA==
 nordpass.locker.	900	in	ns	ns1.vercel-dns.com.
 nordpass.locker.	900	in	ns	ns2.vercel-dns.com.
 noss.locker.	900	in	ns	ns1.hover.com.
@@ -41229,7 +41267,7 @@ ntirgb.locker.	900	in	ns	ns2.dnsip.com.
 nub.locker.	900	in	ds	54482 13 2 C3526E9AE98DCC80EDF66FDB9EA040B2B30467DCE01843B44AF148E32055BB6D
 nub.locker.	900	in	ns	launch1.spaceship.net.
 nub.locker.	900	in	ns	launch2.spaceship.net.
-nub.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. QgWtcJw+0d+kdfc830F5N+fndRVGpCyeDtDlWp5YA5s0Z+IaEgzSwR9PHeEmw4oEGx4FgLtgc8B1WXxGA+ASjQ==
+nub.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. KfRLmWMf4GWDa2XqWRHsf7PDg2K9O/EcKaGV4ea5oBENB2jWAwjTJJTChp0XhtG2YK9zjpADq1FbymR4B2Lkfg==
 nucleus.locker.	900	in	ns	dns1.registrar-servers.com.
 nucleus.locker.	900	in	ns	dns2.registrar-servers.com.
 nug.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -41312,7 +41350,7 @@ oksecure.locker.	900	in	ds	31612 13 2 C8BF591380506DAABA4293749895FD1AE6ACB6E8F8
 oksecure.locker.	900	in	ds	55628 13 2 FA7A97A180D640E1179A5FC6D9D78B0A2368B153169E1E4257951BB9318F15B0
 oksecure.locker.	900	in	ns	ns75.domaincontrol.com.
 oksecure.locker.	900	in	ns	ns76.domaincontrol.com.
-oksecure.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. 6YmAvwlOM7wNNU94POwGZCqWNVyPNRka+wXb0gcMEHbrF5iIBZatwHwqhcblc4SFNBbHrsWWx55FEsyK8eW65w==
+oksecure.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. U5HRd3f18C81v2YK7PC8vAQ/Np0uJOdFWd/BM57dj9rCYmJeIlo5MwlL0hqELjJdmARXYKNioXi34hNP8mY/PA==
 okvip.locker.	900	in	ns	benedict.ns.cloudflare.com.
 okvip.locker.	900	in	ns	lilyana.ns.cloudflare.com.
 okwin.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -41346,7 +41384,7 @@ onlinecasinos.locker.	900	in	ns	ns20.domaincontrol.com.
 onlinegambling.locker.	900	in	ns	ns49.domaincontrol.com.
 onlinegambling.locker.	900	in	ns	ns50.domaincontrol.com.
 onln4r6ehbfkg0scj97avopkrubvof9i.locker.	300	in	nsec3	1 1 0 - P8HS4HI4AV0LP22BCQBMJ101HFKMG1MB NS DS RRSIG
-onln4r6ehbfkg0scj97avopkrubvof9i.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. 5rBoov/MAjVuZm+VAmsYfGtj6jPLnGIQvkfygah5nc6164aF7vLOk8LwtdMrRC3tfA1zUuobIsA+xn77QN5BBg==
+onln4r6ehbfkg0scj97avopkrubvof9i.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. BNgCrk0YmoPd1fk09TnLS1wI6R5Y65ZR1cwTNCYn5nO+NUgsUWRSUTeiQ/YTspZXQ9A3nsnQwvDtO0qgnq10ow==
 only.locker.	900	in	ns	launch1.spaceship.net.
 only.locker.	900	in	ns	launch2.spaceship.net.
 onlyfans.locker.	900	in	ns	ns75.domaincontrol.com.
@@ -41418,7 +41456,7 @@ ozrtmo.locker.	900	in	ns	ns2.dnsip.com.
 p4ms.locker.	900	in	ns	ns11.domaincontrol.com.
 p4ms.locker.	900	in	ns	ns12.domaincontrol.com.
 p8hs4hi4av0lp22bcqbmj101hfkmg1mb.locker.	300	in	nsec3	1 1 0 - PMF6E0G267S9NTK7JA1KA7J3HD0QRLKQ NS DS RRSIG
-p8hs4hi4av0lp22bcqbmj101hfkmg1mb.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. Q17WWN7Gy5o4u3/ouMmnnnDCAOu9vb91RMYumuYIseOOb9s7BJ/4ql3if36gHl9wP7nQfHht6J+8bd4IM+OHnA==
+p8hs4hi4av0lp22bcqbmj101hfkmg1mb.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. PkU28+iG6JmePVFG/j/LeM92Y8U55FDoKsJQxcRbfdZiP9DkM+5fLFRRaAv61GGnUPFdWPaPHWZVzAPB7g3Gog==
 pace.locker.	900	in	ns	earl.ns.cloudflare.com.
 pace.locker.	900	in	ns	lana.ns.cloudflare.com.
 packed.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -41450,10 +41488,10 @@ parimatch.locker.	900	in	ns	ns1.siteground.net.
 parimatch.locker.	900	in	ns	ns2.siteground.net.
 partnerize.locker.	900	in	ns	ns1.dyna-ns.net.
 partnerize.locker.	900	in	ns	ns2.dyna-ns.net.
-pass.locker.	900	in	ds	21342 13 2 C61C5EF2009660A06A4CF73D0AD08C003623F1CCBE3A8314FFBB067B6728AA4C
+pass.locker.	900	in	ds	51312 13 2 08E70EC6981B84F1D7241B95C9418321B43884F9F027BCE4589F7857381A1C5F
 pass.locker.	900	in	ns	launch1.spaceship.net.
 pass.locker.	900	in	ns	launch2.spaceship.net.
-pass.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. X2mUyPqU861K9pOT1Jjzxz8gjuMQ27b+8NB38BQS4Je47IFEKFxvEiFVaZaJcZKdAqF2pGQw9T4clg14TKyu6A==
+pass.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. Der+WdQkDHZYXDvp1+v2e6vV7cNq0Ah8v8JPtipQcMiDs2tcchlHBO1e7tDW+uRPtRF/mlkHnXiwZlrMDNniYw==
 passcode.locker.	900	in	ns	ns1.dyna-ns.net.
 passcode.locker.	900	in	ns	ns2.dyna-ns.net.
 passcodes.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -41462,6 +41500,8 @@ passkey.locker.	900	in	ns	ns1.dyna-ns.net.
 passkey.locker.	900	in	ns	ns2.dyna-ns.net.
 passkeys.locker.	900	in	ns	ns1.dyna-ns.net.
 passkeys.locker.	900	in	ns	ns2.dyna-ns.net.
+passport.locker.	900	in	ns	ns1.dyna-ns.net.
+passport.locker.	900	in	ns	ns2.dyna-ns.net.
 passwort.locker.	900	in	ns	ns1.first-ns.de.
 passwort.locker.	900	in	ns	robotns2.second-ns.de.
 passwort.locker.	900	in	ns	robotns3.second-ns.com.
@@ -41485,6 +41525,8 @@ paybitty.locker.	900	in	ns	ns19.domaincontrol.com.
 paybitty.locker.	900	in	ns	ns20.domaincontrol.com.
 paycheck.locker.	900	in	ns	ns1.dyna-ns.net.
 paycheck.locker.	900	in	ns	ns2.dyna-ns.net.
+paydays.locker.	900	in	ns	ns03.domaincontrol.com.
+paydays.locker.	900	in	ns	ns04.domaincontrol.com.
 payforyoursins.locker.	900	in	ns	ns33.domaincontrol.com.
 payforyoursins.locker.	900	in	ns	ns34.domaincontrol.com.
 paymint.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -41564,8 +41606,8 @@ pho77.locker.	900	in	ns	ns1.dyna-ns.net.
 pho77.locker.	900	in	ns	ns2.dyna-ns.net.
 pho789.locker.	900	in	ns	ns1.dyna-ns.net.
 pho789.locker.	900	in	ns	ns2.dyna-ns.net.
-phopen.locker.	900	in	ns	ns1.dyna-ns.net.
-phopen.locker.	900	in	ns	ns2.dyna-ns.net.
+phopen.locker.	900	in	ns	algin.ns.cloudflare.com.
+phopen.locker.	900	in	ns	violet.ns.cloudflare.com.
 physical.locker.	900	in	ns	dns1.registrar-servers.com.
 physical.locker.	900	in	ns	dns2.registrar-servers.com.
 pickit.locker.	900	in	ns	geo.dyna-ns.net.
@@ -41612,7 +41654,7 @@ plmnh.locker.	900	in	ns	ns2.dnsip.com.
 plus.locker.	900	in	ns	ns1.dyna-ns.net.
 plus.locker.	900	in	ns	ns2.dyna-ns.net.
 pmf6e0g267s9ntk7ja1ka7j3hd0qrlkq.locker.	300	in	nsec3	1 1 0 - PS94RNLSCR1V8EG5LA66EIF3D954IGEU NS DS RRSIG
-pmf6e0g267s9ntk7ja1ka7j3hd0qrlkq.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. FmHVg4HRnrQNOeqczA1ZBHY8CEwg+aGEeY5crqmmI+ZL22aTMC/d1du6oP+om7o2J1WKd5iJVPTkCAXbMpDulg==
+pmf6e0g267s9ntk7ja1ka7j3hd0qrlkq.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. TWNtPIqOptE4P+farVgaXpzlijfXv9MZgNLhVqHpXwrHo1ig0PEc5e7KV2aOVMnLAtvAkcEUBBYrLWAuEkHtCQ==
 pmjymw.locker.	900	in	ns	ns1.dns.com.
 pmjymw.locker.	900	in	ns	ns2.dns.com.
 poap.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -41645,13 +41687,13 @@ pornhub.locker.	900	in	ns	ns56.domaincontrol.com.
 porno365.locker.	900	in	ds	31759 13 2 65FA2F7F297D569AF13B6052BD4CB717C5CD07CCD6A66F6C84797DEEB2CD6AC1
 porno365.locker.	900	in	ns	launch1.spaceship.net.
 porno365.locker.	900	in	ns	launch2.spaceship.net.
-porno365.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. H6EaT1lQnXdwB9k8AT5rpGi4xd+Wp3Rx0T8yolytUS/fyC/pHvjm1t+cEnIQHb09xFGmJReBYdjliZqB8b845A==
+porno365.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. ATVkYNyx8FTQzk13es5KSMjTwjQzCUcb4mgWBwKvhJhxG7IsZf9GdVWDIqUk45pckRdUbNM5cqFoBp/iapOvmA==
 port.locker.	900	in	ns	ns1.dyna-ns.net.
 port.locker.	900	in	ns	ns2.dyna-ns.net.
 porta.locker.	900	in	ds	2371 13 2 7B6BCEA17C86F45AB0D016E59D01B73899B052CE2476CEFA15B8CCB00F5A6CA9
 porta.locker.	900	in	ns	barbara.ns.cloudflare.com.
 porta.locker.	900	in	ns	earl.ns.cloudflare.com.
-porta.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. YtMbLxwLDzybJEEeSidLNZ1Ipx6WBr+swCcbJyN3a7OWs7AtJakJnec4fYcci2koAP1WBbyb/u5vq987sNz5Rg==
+porta.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. JOKNxceAdYRli4ZnD5KFwwP2sDjzxjRYP0k48hqdQLnUarix4AIi1LH5rZwDz+PUDpqcDqMunNNz1i649MycRw==
 powergaming88.locker.	900	in	ns	nile.ns.cloudflare.com.
 powergaming88.locker.	900	in	ns	sasha.ns.cloudflare.com.
 powerplant.locker.	900	in	ns	ns03.domaincontrol.com.
@@ -41716,7 +41758,7 @@ prtclh.locker.	900	in	ns	pdns2.registrar-servers.com.
 przkt.locker.	900	in	ns	n1.xundns.com.
 przkt.locker.	900	in	ns	n2.xundns.com.
 ps94rnlscr1v8eg5la66eif3d954igeu.locker.	300	in	nsec3	1 1 0 - Q4FSDOFPJ9IE4JMHEJ1R1OIDBD2LLJNF NS DS RRSIG
-ps94rnlscr1v8eg5la66eif3d954igeu.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. DRPzZGve4qcST1XI/APfsNug7EgEgAvM/xWknJCKVjlxR8+/jd6VhJOjfeDEx7lIYQbq/r720O52s84uDQirTg==
+ps94rnlscr1v8eg5la66eif3d954igeu.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. p5ZCSJB5Q30y9Szi3uEBaxtaiuDA+EOBC2X9QVYzfu1rHMpF7HXO/fY1NOJcjJ7YOZYnWG7WeOfFVfdRNoykdg==
 psfcm.locker.	900	in	ns	n1.xundns.com.
 psfcm.locker.	900	in	ns	n2.xundns.com.
 pskfh.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -41764,11 +41806,11 @@ pzqtw.locker.	900	in	ns	n2.xundns.com.
 pzyaza.locker.	900	in	ns	ns1.dnsip.com.
 pzyaza.locker.	900	in	ns	ns2.dnsip.com.
 q4fsdofpj9ie4jmhej1r1oidbd2lljnf.locker.	300	in	nsec3	1 1 0 - QBH5CH3C8OVGO2QBJ5LO6O6FH0488FC0 NS DS RRSIG
-q4fsdofpj9ie4jmhej1r1oidbd2lljnf.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. nEf8kdTShKaw9ZRjdKBDjEwEo8ScV4FQ2oAnedoh5NKQNh3nFMIKdkVXvlRX2GubUn0KwkeSCQ1Vef3k/tntQQ==
+q4fsdofpj9ie4jmhej1r1oidbd2lljnf.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. ePnVtyJmHQ5KatGplBPsXxGdKAl5Hd5m7IoHuLsUiz60EM0XTM/medY8iMqyb5xfMuDr8yqY+TVIustChcb8Hw==
 qazws.locker.	900	in	ns	ns1.dnsip.com.
 qazws.locker.	900	in	ns	ns2.dnsip.com.
 qbh5ch3c8ovgo2qbj5lo6o6fh0488fc0.locker.	300	in	nsec3	1 1 0 - QFSC03LVH97L2GU1QR2BSJ9QU825770S NS DS RRSIG
-qbh5ch3c8ovgo2qbj5lo6o6fh0488fc0.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. U+XeixXmD4iHlrxOxFeciJ67UgROy1N9/grUYp2aCjTHJolohdeDTFuV8AI18T6/kI3yMwWK5xsJBlE39/dzcg==
+qbh5ch3c8ovgo2qbj5lo6o6fh0488fc0.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 84Jrvx33RD7Nq/c+DHk0FE7/DGT8iza/AxH/tcRrWLYuARIckj6/3Gt1jMM8gTyJvEEsfaKH4b7n+S1DRsFmnA==
 qbit.locker.	900	in	ns	ns1.dyna-ns.net.
 qbit.locker.	900	in	ns	ns2.dyna-ns.net.
 qcmbfp.locker.	900	in	ns	ns1.dns.com.
@@ -41784,7 +41826,7 @@ qeqnim.locker.	900	in	ns	n2.xundns.com.
 qeucug.locker.	900	in	ns	n1.xundns.com.
 qeucug.locker.	900	in	ns	n2.xundns.com.
 qfsc03lvh97l2gu1qr2bsj9qu825770s.locker.	300	in	nsec3	1 1 0 - QIB468UPAS8QC6GJ93V2QEDJ47P5CCJ2 NS DS RRSIG
-qfsc03lvh97l2gu1qr2bsj9qu825770s.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. K7rkHBZ6/3HSQ2McYOBxMtrArjkgYR6LRRUP5Cu2Xpns/8gHoYi219/tR1jlzRP4mW0161e0XsSQGCki8LsXQQ==
+qfsc03lvh97l2gu1qr2bsj9qu825770s.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. F+H7PESbtHMxQun8HPl/5srNjUWkWUSc08IZ81poFkwBinGdWa2HosVynAqKy72j+vcmFNqn4Kj134DLBS8suQ==
 qgozfw.locker.	900	in	ns	ns1.dyna-ns.net.
 qgozfw.locker.	900	in	ns	ns2.dyna-ns.net.
 qh88.locker.	900	in	ns	darwin.ns.cloudflare.com.
@@ -41792,7 +41834,7 @@ qh88.locker.	900	in	ns	rosalyn.ns.cloudflare.com.
 qhkfqs.locker.	900	in	ns	n1.xundns.com.
 qhkfqs.locker.	900	in	ns	n2.xundns.com.
 qib468upas8qc6gj93v2qedj47p5ccj2.locker.	300	in	nsec3	1 1 0 - QM1OKJ7NAB6QP7VRPS4GQV5MP3KNB8CB NS DS RRSIG
-qib468upas8qc6gj93v2qedj47p5ccj2.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. Yn6+SJdvQIQyCTDcqKPAFd/Y48rHYxiTpuHv4XSAoyNYX4AZ3iwMRPasRxOUrKhcWASjZE60HlRHK1qz69okqg==
+qib468upas8qc6gj93v2qedj47p5ccj2.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. q1YIJYs0N9yz/ouU5l/DwI7qaJp7EdXj9qi/BOIkmJy0NQwIuvoUGmY1psHr/PA9Z1A/4GhifG8yGgJFac65kw==
 qilin.locker.	900	in	ns	dns1.registrar-servers.com.
 qilin.locker.	900	in	ns	dns2.registrar-servers.com.
 qiydwt.locker.	900	in	ns	n1.xundns.com.
@@ -41804,7 +41846,7 @@ qjwmhd.locker.	900	in	ns	ns2.dns.com.
 qksgrz.locker.	900	in	ns	ns1.dyna-ns.net.
 qksgrz.locker.	900	in	ns	ns2.dyna-ns.net.
 qm1okj7nab6qp7vrps4gqv5mp3knb8cb.locker.	300	in	nsec3	1 1 0 - R08ULCLL08USLBNMFV3UGJUHO49QOLEQ NS DS RRSIG
-qm1okj7nab6qp7vrps4gqv5mp3knb8cb.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. 9NVZ+L5wHYg5mB2GDpTZTSkVYldQvBnr/KSgacknnNzMy1Iks0sU8DKl2kNdsW/FFak8Bx5nZ4K3bwUHsYVo1A==
+qm1okj7nab6qp7vrps4gqv5mp3knb8cb.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. NNO7xJY+ocE7FLEX6XTHmODuekvSikc21FWHi3NKgqIDpBOYxwGnd5QVNbivMIzlo1b+KLGXBk14gd05s33Pkw==
 qmidp.locker.	900	in	ns	n1.xundns.com.
 qmidp.locker.	900	in	ns	n2.xundns.com.
 qmrgy.locker.	900	in	ns	ns1.dnsip.com.
@@ -41833,6 +41875,8 @@ quanhs.locker.	900	in	ns	n1.xundns.com.
 quanhs.locker.	900	in	ns	n2.xundns.com.
 quantumcomputing.locker.	900	in	ns	ns1.namepros-dns.com.
 quantumcomputing.locker.	900	in	ns	z3s8z3bjz9b8fhs25dh5jp3jp9rfj6b6.ns.namepros-dns.is.
+quantumsentinelvault.locker.	900	in	ns	ns71.domaincontrol.com.
+quantumsentinelvault.locker.	900	in	ns	ns72.domaincontrol.com.
 quantumthaumaturge.locker.	900	in	ns	ns1.all-harmless.domains.
 quantumthaumaturge.locker.	900	in	ns	ns2.all-harmless.domains.
 quantumthronearch.locker.	900	in	ns	ns1.all-harmless.domains.
@@ -41870,7 +41914,7 @@ qygwyh.locker.	900	in	ns	ns2.dnsip.com.
 qyroz.locker.	900	in	ns	ns1.1233dns.com.
 qyroz.locker.	900	in	ns	ns2.951dns.com.
 r08ulcll08uslbnmfv3ugjuho49qoleq.locker.	300	in	nsec3	1 1 0 - RCQDB0RSI13D548R91NNGBFII1TTI1FF NS DS RRSIG
-r08ulcll08uslbnmfv3ugjuho49qoleq.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. y/9gYZcn6rdQbyCAzAfEczzRhjSGRoaitlp7FCG+53tDmD/j97Fwm/GPyIbKU1uqVmsSHjLAKw6uyE7Pc8PrcQ==
+r08ulcll08uslbnmfv3ugjuho49qoleq.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. AiKzTmV4E34F0/9INFW/F/N5OOrC2eY538dn3nQrVcioOsEXaSHGXmpZA2gqh7RP+RIk+y522rJqjnkVUme68g==
 r6skins.locker.	900	in	ns	kip.ns.cloudflare.com.
 r6skins.locker.	900	in	ns	mary.ns.cloudflare.com.
 rabit.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -41925,7 +41969,7 @@ rclsa.locker.	900	in	ns	n2.xundns.com.
 rcpnc.locker.	900	in	ns	ns1.dnsip.com.
 rcpnc.locker.	900	in	ns	ns2.dnsip.com.
 rcqdb0rsi13d548r91nngbfii1tti1ff.locker.	300	in	nsec3	1 1 0 - RJC1TOCR9320JBMS5V7JTKCCJ7M8MABI NS DS RRSIG
-rcqdb0rsi13d548r91nngbfii1tti1ff.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. yf1+xGgc5M2FDWjHpsDXo1izhvs6cH7fRrqNFItaLSirEQw3N5tlGcHDPFX0uuYhN0wwKZLbIvQM71aiGfoUyA==
+rcqdb0rsi13d548r91nngbfii1tti1ff.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. KH8q5qFWXzucO254FazNs9OTydRIXNksJZ3gFJNEX1AhyrZJRrEc++VYBDk9OOdv0ennDK8KZSdoJeGQOYYmGQ==
 rdsfw.locker.	900	in	ns	n1.xundns.com.
 rdsfw.locker.	900	in	ns	n2.xundns.com.
 read.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -41947,7 +41991,7 @@ redpill.locker.	900	in	ns	ns2.hover.com.
 registry.locker.	900	in	ds	56125 13 2 1B6A25E6E2DADC6BF22F0676D2FEDBC533632299D5DE4A63B062B3280C9B85F5
 registry.locker.	900	in	ns	ns02.trs-dns.com.
 registry.locker.	900	in	ns	ns02.trs-dns.net.
-registry.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. 3xSKyR4YfDemICxycJZ8Dg6AyexPkcYAOHIUdOWve5TlyKGmQJ8y1ykf9lLl+x/ONvWIct4b0NrT/keRckLxog==
+registry.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. pkqDS62U2Rj3io+2RjrCyc+SHSqHu3mw+DhUfOLufefD746CJd+8Y/HZzsonWtheyYdXgX+iJz6+lkMEWRll7w==
 reilly.locker.	900	in	ns	ns1.hover.com.
 reilly.locker.	900	in	ns	ns2.hover.com.
 reilly.locker.	900	in	ns	ns3.hover.com.
@@ -41983,8 +42027,8 @@ revil.locker.	900	in	ns	dns1.registrar-servers.com.
 revil.locker.	900	in	ns	dns2.registrar-servers.com.
 revinate.locker.	900	in	ns	ns73.domaincontrol.com.
 revinate.locker.	900	in	ns	ns74.domaincontrol.com.
-revolut.locker.	900	in	ns	launch1.spaceship.net.
-revolut.locker.	900	in	ns	launch2.spaceship.net.
+revolut.locker.	900	in	ns	ns1.dynadot.com.
+revolut.locker.	900	in	ns	ns2.dynadot.com.
 revolution.locker.	900	in	ns	ns75.domaincontrol.com.
 revolution.locker.	900	in	ns	ns76.domaincontrol.com.
 revolutionlandscape.locker.	900	in	ns	ns11.domaincontrol.com.
@@ -42026,7 +42070,7 @@ rippleai.locker.	900	in	ns	ns2.dyna-ns.net.
 rix.locker.	900	in	ns	ns1.hover.com.
 rix.locker.	900	in	ns	ns2.hover.com.
 rjc1tocr9320jbms5v7jtkccj7m8mabi.locker.	300	in	nsec3	1 1 0 - S9C19QM15U0AE7MUHLKDAR4A044MGD43 NS DS RRSIG
-rjc1tocr9320jbms5v7jtkccj7m8mabi.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. ZITt7wNjmzKW9T2OVeuGL9ociMLVWVSKaDsKiKriIvG71L8i7Ulgic9rqTwVjEXREzLhtxSaK03BpQDnWLZhjA==
+rjc1tocr9320jbms5v7jtkccj7m8mabi.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. jew9VF7DumgeQ53Wz3KF3mQGLM2k2rW1cDlHJ45B0VWm+sIlSw3YHKsBzD1hB0vIstAd8DVAFk0COvvghnF3GA==
 rjkwxh.locker.	900	in	ns	ns1.dnsip.com.
 rjkwxh.locker.	900	in	ns	ns2.dnsip.com.
 rjmtig.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -42135,7 +42179,7 @@ s2obet168.locker.	900	in	ns	terry.ns.cloudflare.com.
 s666.locker.	900	in	ns	cora.ns.cloudflare.com.
 s666.locker.	900	in	ns	kyrie.ns.cloudflare.com.
 s9c19qm15u0ae7muhlkdar4a044mgd43.locker.	300	in	nsec3	1 1 0 - SMH32QH3JTBJ4UGNS3R70918LDLGHPDG NS DS RRSIG
-s9c19qm15u0ae7muhlkdar4a044mgd43.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. avxyFzGL0WkEXS/Mke1EvQIBsUi3+z1e3NQrv8XqQssGNn6OmAgybXCJ7FIt3E7MOyJEXWTbPPTVi3WV82LSeg==
+s9c19qm15u0ae7muhlkdar4a044mgd43.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. l71KQkoupSiTAQG90VY+g2NNBBS7lquY1dcjRzOgTblz2xARd50F9WiIGwlRN/FZYXukd4/ELlSQlyC7b26FzQ==
 sa88.locker.	900	in	ns	bella.ns.cloudflare.com.
 sa88.locker.	900	in	ns	trace.ns.cloudflare.com.
 saas.locker.	900	in	ns	ns11.domaincontrol.com.
@@ -42178,8 +42222,10 @@ saowin.locker.	900	in	ns	chance.ns.cloudflare.com.
 saowin.locker.	900	in	ns	colette.ns.cloudflare.com.
 sarah.locker.	900	in	ns	dns1.registrar-servers.com.
 sarah.locker.	900	in	ns	dns2.registrar-servers.com.
-sas.locker.	900	in	ns	ns03.gcd-dns.com.
-sas.locker.	900	in	ns	ns04.gcd-dns.com.
+sas.locker.	900	in	ns	extdns01.na.sas.com.
+sas.locker.	900	in	ns	extdns02.na.sas.com.
+sas.locker.	900	in	ns	extdns03.na.sas.com.
+sas.locker.	900	in	ns	extdns04.na.sas.com.
 satoshis.locker.	900	in	ns	ns1.dyna-ns.net.
 satoshis.locker.	900	in	ns	ns2.dyna-ns.net.
 saudi.locker.	900	in	ns	park1.encirca.net.
@@ -42219,7 +42265,7 @@ scholarbots.locker.	900	in	ns	ns20.domaincontrol.com.
 schraube.locker.	900	in	ds	49943 13 1 2FB0A186028624B2A1A1DE4166DAE67C08FFA44D
 schraube.locker.	900	in	ns	dns1.registrar-servers.com.
 schraube.locker.	900	in	ns	dns2.registrar-servers.com.
-schraube.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. iA45SYMR1+WTt95ppX3Qdzt1foRqTgt3EIyncdD9x7pf6FCYejQPc9ZlOjd7wID3fnonQytFBPQ8/RxmPgTRLQ==
+schraube.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. lbMaib18U90qPy4dmtSwIykWcql6SblzsIr2HGVlL5GrAUUQ+rACEk8NGjE4SrgqI/AvXwbecMwHNsuH+7v7VA==
 schrauben.locker.	900	in	ns	dns1.registrar-servers.com.
 schrauben.locker.	900	in	ns	dns2.registrar-servers.com.
 schwab.locker.	900	in	ns	ns55.domaincontrol.com.
@@ -42229,7 +42275,7 @@ scientia.locker.	900	in	ns	dns2.registrar-servers.com.
 script.locker.	900	in	ds	9564 13 1 5127109251B5795750B204B218BF4FF3FEB27C0C
 script.locker.	900	in	ns	dns1.registrar-servers.com.
 script.locker.	900	in	ns	dns2.registrar-servers.com.
-script.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. 5FFs1jDDjLwRBUwuvt5kabdQGTa1DNFFtzT9HJ7dIbHFAxRsbV6a5ngtzJmFgKwFi58tNUySRaBU3m3FFWS6PA==
+script.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. UbLmGltvr5r/3vqXSuvpbf3zv+drBlbBJG63RjLQAUha34wiXg/dBmyKw908Icpo8U1OKNlzMlSfaIk5e+BmDw==
 sdeol.locker.	900	in	ns	n1.xundns.com.
 sdeol.locker.	900	in	ns	n2.xundns.com.
 sdnbo.locker.	900	in	ns	ns1.dnsip.com.
@@ -42351,7 +42397,7 @@ singha25.locker.	900	in	ns	terry.ns.cloudflare.com.
 sisaisolutions.locker.	900	in	ds	30242 13 2 4A054EFF3A5B6F0BAFABCADE4CD7698BC11397492327C15719853E015CA59C85
 sisaisolutions.locker.	900	in	ns	launch1.spaceship.net.
 sisaisolutions.locker.	900	in	ns	launch2.spaceship.net.
-sisaisolutions.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. aqZL6tpwclmN57mk0Nk2qa6wIYmjxZGSjWTJwt9PD7+NGJ2obhPIzM6RLqQSVRnJT6g+cbayQ0ruI6YgpNGSpg==
+sisaisolutions.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. Fo4Z+35OI8/NTEFykGEGdVAa2hm+jzMnhfJjVa4dafAQkn+moxqVqrcY0QdBfDYfctkjqGgaD2q4dKN1fkZlPg==
 sisson.locker.	900	in	ns	ns1.hover.com.
 sisson.locker.	900	in	ns	ns2.hover.com.
 sissy.locker.	900	in	ns	ns07.domaincontrol.com.
@@ -42369,7 +42415,7 @@ skins.locker.	900	in	ns	dns2.registrar-servers.com.
 skool.locker.	900	in	ds	51645 13 2 2F391DA7845AD14EBBACC1423F980FF59DD1FA5267F0A21E260B125D93DEE726
 skool.locker.	900	in	ns	launch1.spaceship.net.
 skool.locker.	900	in	ns	launch2.spaceship.net.
-skool.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. vsjninIJCilxbP25b40ckSimI3l8iPOi3ZP52JzMzkAv8+wzwoi9SwFSTfs7yYAN66On+TSX+6VCimYUjC476A==
+skool.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. qxLgYagiYCbxpY836IUwhha6i3GwHTC6NdgQ5pt+5TovTwq2Y0gc7vTQItxAXRN9KGLIzGZV7Or+E9tDOR8AWg==
 sky88.locker.	900	in	ns	chase.ns.cloudflare.com.
 sky88.locker.	900	in	ns	macy.ns.cloudflare.com.
 skyshipsdesign.locker.	900	in	ns	ns1.hover.com.
@@ -42386,7 +42432,7 @@ slobo.locker.	900	in	ds	39778 13 2 496100B3130556D9EEE2AE5AC22F5D3782C0A39EF8813
 slobo.locker.	900	in	ds	59888 13 2 CFEB2ADC1C993C0F2DBF528F8DF28C2DF587DC539ED1A67A5735ADAC9C896146
 slobo.locker.	900	in	ns	ns47.domaincontrol.com.
 slobo.locker.	900	in	ns	ns48.domaincontrol.com.
-slobo.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. Tze6GZvFB9WDHKNR2iFsErcPZ+4Vd2AbpRsQVr938EfBeXHczwlFPBOk+ReyIDj1wTiVc9bExZfuk/B2tYg0Jg==
+slobo.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. Bl8c3IKbHV0oQA0s9gprKmY5UQbPK7ge93p3hvnLt5hVKxOuowoUV4uQtfdPoySHFUP147hdLrjYHcQArTRopg==
 slotgacor.locker.	900	in	ns	david.ns.cloudflare.com.
 slotgacor.locker.	900	in	ns	laila.ns.cloudflare.com.
 sltbr.locker.	900	in	ns	n1.xundns.com.
@@ -42398,7 +42444,7 @@ smelly.locker.	900	in	ns	dns2.registrar-servers.com.
 smfux.locker.	900	in	ns	ns1.dns.com.
 smfux.locker.	900	in	ns	ns2.dns.com.
 smh32qh3jtbj4ugns3r70918ldlghpdg.locker.	300	in	nsec3	1 1 0 - SRVJ35VQT9JJKLU7KSVCM41JROLB57KR NS DS RRSIG
-smh32qh3jtbj4ugns3r70918ldlghpdg.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. pCPyiDVXqSwUyyYXr6BSD4eBvARGKCapkbxR2KKcsCsaTIauPb6Iz0b5TDfWmQ35fXZBXfYlJEH8P89WzGWLsw==
+smh32qh3jtbj4ugns3r70918ldlghpdg.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 9mnphdeDYYZYclvGp0fwfhs0nfKVWLIqElsQa9NQfOvrrz54gGQG2vmjjl1oO5oSn5mX5sfNlbXLjdxxB3XaOA==
 smile.locker.	900	in	ns	ns1.atom.com.
 smile.locker.	900	in	ns	ns2.atom.com.
 smith.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -42436,8 +42482,8 @@ solcon.locker.	900	in	ns	ns1.kpn.net.
 solcon.locker.	900	in	ns	ns11.kpn.net.
 solic.locker.	900	in	ns	max.ns.cloudflare.com.
 solic.locker.	900	in	ns	serena.ns.cloudflare.com.
-solid.locker.	900	in	ns	ns1.dyna-ns.net.
-solid.locker.	900	in	ns	ns2.dyna-ns.net.
+solid.locker.	900	in	ns	launch1.spaceship.net.
+solid.locker.	900	in	ns	launch2.spaceship.net.
 solideo.locker.	900	in	ns	curitiba.ns.porkbun.com.
 solideo.locker.	900	in	ns	fortaleza.ns.porkbun.com.
 solideo.locker.	900	in	ns	maceio.ns.porkbun.com.
@@ -42512,7 +42558,7 @@ spotify.locker.	900	in	ns	ns76.domaincontrol.com.
 srhefn.locker.	900	in	ns	ns1.dnsip.com.
 srhefn.locker.	900	in	ns	ns2.dnsip.com.
 srvj35vqt9jjklu7ksvcm41jrolb57kr.locker.	300	in	nsec3	1 1 0 - STOB2AJB7UNH073IOMCUOCDIU9UO18NG NS DS RRSIG
-srvj35vqt9jjklu7ksvcm41jrolb57kr.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. Of1pOu+X6GMtXAPx2wzkIaqqD9gWYiMtbRe39JctgjoGSn3DcTqF/DL1GopPo+pYQnGVLG3jL/OnI/0OtasRqA==
+srvj35vqt9jjklu7ksvcm41jrolb57kr.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. adyrvje601ex7e27vsrMgIqDiMKt3s/sLyLYBZGDmBApcCvc0YIK65EROSXiJiJX8sE9Knc6HBqWfTMwRRZ1RA==
 ssfox.locker.	900	in	ns	ns75.domaincontrol.com.
 ssfox.locker.	900	in	ns	ns76.domaincontrol.com.
 ssl.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -42536,7 +42582,7 @@ stadshypotek.locker.	900	in	ns	c.dns.tele2.net.
 stadshypotek.locker.	900	in	ns	ns1.handelsbanken.se.
 stadshypotek.locker.	900	in	ns	ns2.handelsbanken.se.
 stadshypotek.locker.	900	in	ns	ns3.handelsbanken.se.
-stadshypotek.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. k0kQhGsE5lWiDVKVgl1mp+G7/BGXcSksWkciMgZB0mwofdoOBGmG67zstpgmZkjb1U+YiHTFvSizBU+3xaPCXQ==
+stadshypotek.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. 1NxCNpqm5eG+8ogTCLXxKNPCyCdZfgaRZOIHMlTtfcC6ozbQBuRJGxyl0UMxGkpS32DwWY0FL4zqvycI/lwhtw==
 stake.locker.	900	in	ns	park1.encirca.net.
 stake.locker.	900	in	ns	park2.encirca.net.
 staker.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -42574,7 +42620,7 @@ stewart.locker.	900	in	ns	ns72.domaincontrol.com.
 stinky.locker.	900	in	ns	dns1.registrar-servers.com.
 stinky.locker.	900	in	ns	dns2.registrar-servers.com.
 stob2ajb7unh073iomcuocdiu9uo18ng.locker.	300	in	nsec3	1 1 0 - T871ET6FK9TEIG5P05DMNRMBPN9I60E0 NS DS RRSIG
-stob2ajb7unh073iomcuocdiu9uo18ng.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. hpZ5/rMqd13lA9RihoZFBkqEitXlWvZEyaeKobgxujG5jlo0KSOiMRWvtI5EnHIy94FU1drRaYgbVqNYBLSAkw==
+stob2ajb7unh073iomcuocdiu9uo18ng.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 6BRUNUgn2NLDHLdn+JmgbJEbTpNpB94fZgWmSEHE9UO7UgyldusBg7ijf61QfNx/zJkriBhFyba07CJsI4/+Nw==
 stoic.locker.	900	in	ns	ns37.domaincontrol.com.
 stoic.locker.	900	in	ns	ns38.domaincontrol.com.
 streak.locker.	900	in	ns	ns1.hover.com.
@@ -42650,7 +42696,11 @@ svenskahandelsbanken.locker.	900	in	ns	c.dns.tele2.net.
 svenskahandelsbanken.locker.	900	in	ns	ns1.handelsbanken.se.
 svenskahandelsbanken.locker.	900	in	ns	ns2.handelsbanken.se.
 svenskahandelsbanken.locker.	900	in	ns	ns3.handelsbanken.se.
-svenskahandelsbanken.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. 757XesoApV5qi50f51sisXJ1nK83lXe859vtXedWHEoOatdBr/Hny+GZVsZNzuSJ2aWRQMhR2Pz/s2WLx/Ql0g==
+svenskahandelsbanken.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. efdVU512XtgmpO2RGUUVZD+tm8ZMAiphKhC5WSmpQioPGzjrQGY9lLfjRW3lzFX3VOrBrQDH/AIQgECoArHU0Q==
+svrncore.locker.	900	in	ds	17156 13 2 5AB0DC962EBF6F5A7EB8BC12BFEA80394824300815517DFE4B56FE0F63497D33
+svrncore.locker.	900	in	ns	launch1.spaceship.net.
+svrncore.locker.	900	in	ns	launch2.spaceship.net.
+svrncore.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. NAKlMxVd36sWbdJ5ieSgbjIrtt/KrZwGF0+iWzDOrLUGu/CT2ABi/aa0mDspcCrmBqLW1uATw0t1N3iM/6qqYQ==
 swingphiswing.locker.	900	in	ns	ns07.domaincontrol.com.
 swingphiswing.locker.	900	in	ns	ns08.domaincontrol.com.
 swipbox.locker.	900	in	ns	ns1.zenbox.pl.
@@ -42668,7 +42718,7 @@ sylph.locker.	900	in	ns	dns2.registrar-servers.com.
 symbol.locker.	900	in	ds	260 13 2 ED33EADA298A417F6D8F8376D932849DF5685A8B73D383E62C728EBE1E6E0E0B
 symbol.locker.	900	in	ns	launch1.spaceship.net.
 symbol.locker.	900	in	ns	launch2.spaceship.net.
-symbol.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. rPM2xull7CzeQCeu93LvBcd+Qgj6Q7lIpXoyyytnqRcoZUwm8AcbXpbKLzmfw6rI5Rn/zpL/NuXfOClscTvuqQ==
+symbol.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. 6J2YeRLNanvv8dSyRiLdAfRq2GaH6V7ZKQz7V/ygMHE6dDn/5PlhY8kzuwlxU6a4g25BqYE7tXrciDQllv6BWg==
 synapse.locker.	900	in	ns	dns1.namecheaphosting.com.
 synapse.locker.	900	in	ns	dns2.namecheaphosting.com.
 synth.locker.	900	in	ns	julian.ns.cloudflare.com.
@@ -42706,9 +42756,9 @@ szzopz.locker.	900	in	ns	ns2.dnsip.com.
 t-eam.locker.	900	in	ds	56524 13 2 0393433CDC22749E136C43BF9FEE3DEBF8CC73A2D2924BFCCB742B18E165C570
 t-eam.locker.	900	in	ns	launch1.spaceship.net.
 t-eam.locker.	900	in	ns	launch2.spaceship.net.
-t-eam.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. SRX5WmcbRDMPmSyvQKgcbVbH6im4lY7SNbJ5cN1glRILyfk6jbotPcgF25QjmgWNflAAKkjP3sVmyNkZDndU3Q==
-t871et6fk9teig5p05dmnrmbpn9i60e0.locker.	300	in	nsec3	1 1 0 - U3QNREBC4M6TSBVSIBFVOTS6K339I63C NS DS RRSIG
-t871et6fk9teig5p05dmnrmbpn9i60e0.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. RyfqfwutHgSLfdgiUP97Rw4whgdJKSbbsWluFOFSzVtNBVhRVeCxMT8NXjo4G5R0W9ub62pb3TEE2/kD8GkThg==
+t-eam.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. bXen2pJdDhfXxM9NND0347ovjQS/vhbNAf8gEKt6M1LeyRk40em5nVv061ABqFMaJFBd1/s1gPkEq3QXR4+6bw==
+t871et6fk9teig5p05dmnrmbpn9i60e0.locker.	300	in	nsec3	1 1 0 - TR6AMPB191QDBE68TTJ10EJJFP99TEDH NS DS RRSIG
+t871et6fk9teig5p05dmnrmbpn9i60e0.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. xXub/5M5qalj7Z5IafvSp2UEGdamYGOIkoSoI0LRq0VzI2XpbUuv1c6yKcOQCnwp2hUHyuqZIpXW+HAgzQQFkA==
 t88daz5k.locker.	900	in	ns	ns1.dnsip.com.
 t88daz5k.locker.	900	in	ns	ns2.dnsip.com.
 ta88.locker.	900	in	ns	colin.ns.cloudflare.com.
@@ -42735,7 +42785,7 @@ talha.locker.	900	in	ns	ns3.hover.com.
 tanaporta.locker.	900	in	ds	2371 13 2 E366F1920821D3738667DF658A960F41F2B7C9CEF42C2C79AEDA712039CC4926
 tanaporta.locker.	900	in	ns	barbara.ns.cloudflare.com.
 tanaporta.locker.	900	in	ns	earl.ns.cloudflare.com.
-tanaporta.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. pncJ4Gom5IbNjTopjLHuX1e9KU5D/pDT+d3e2TsHbiPusdiFLDbGknume8u/civdUrGdVjDgK3PpU/0miMyLgQ==
+tanaporta.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. F2sOQsWvDptEwGw3w/wxHIJ7FN5HP8zTnu6Nrtij9GT2Kvd32Y+wlf3Y8f1PKWAl5HPmoE9OGrNKblABFvTTfg==
 tandemintelligence.locker.	900	in	ns	ns15.domaincontrol.com.
 tandemintelligence.locker.	900	in	ns	ns16.domaincontrol.com.
 tankcomyns.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -42821,6 +42871,8 @@ theajaysharma.locker.	900	in	ns	ns71.domaincontrol.com.
 theajaysharma.locker.	900	in	ns	ns72.domaincontrol.com.
 thearmoredvault.locker.	900	in	ns	ns45.domaincontrol.com.
 thearmoredvault.locker.	900	in	ns	ns46.domaincontrol.com.
+theblockchain.locker.	900	in	ns	ns45.domaincontrol.com.
+theblockchain.locker.	900	in	ns	ns46.domaincontrol.com.
 thecitadel.locker.	900	in	ns	ns1.dyna-ns.net.
 thecitadel.locker.	900	in	ns	ns2.dyna-ns.net.
 thecrypto.locker.	900	in	ns	ns75.domaincontrol.com.
@@ -42938,6 +42990,10 @@ tokenise.locker.	900	in	ns	ns1.dyna-ns.net.
 tokenise.locker.	900	in	ns	ns2.dyna-ns.net.
 tokenize.locker.	900	in	ns	ns1.dyna-ns.net.
 tokenize.locker.	900	in	ns	ns2.dyna-ns.net.
+tokenized.locker.	900	in	ds	40420 13 2 3211E2E8FD8B28BE132EBEFD48213FBDA9F78D9DAF64DD38EF7D15BDA33B49F8
+tokenized.locker.	900	in	ns	launch1.spaceship.net.
+tokenized.locker.	900	in	ns	launch2.spaceship.net.
+tokenized.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. LJlIgNffHlhxJVnKLpv7PBZqLPxK4MxN5Qilr2VXHBf/3fWMRBs9BJu2uY6dwgHYd36MB9W4Oo28BLPxVNIYow==
 tokenomics.locker.	900	in	ns	ns53.domaincontrol.com.
 tokenomics.locker.	900	in	ns	ns54.domaincontrol.com.
 tokgmp.locker.	900	in	ns	n1.xundns.com.
@@ -42978,11 +43034,13 @@ tough.locker.	900	in	ns	ns2.hover.com.
 toyota.locker.	900	in	ds	46885 13 2 496FE527E64BC0DBD75A667A1A342E1B5628E31892BC53EBDA612EF4E6B68593
 toyota.locker.	900	in	ns	launch1.spaceship.net.
 toyota.locker.	900	in	ns	launch2.spaceship.net.
-toyota.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. qHNsdHpqnEDk4UuOOj+R7073eJBZFqHC5/f51JPv18EDJ0TTTF6kXIajioT4TBksCiredMJp/R2WiWBfMM63nQ==
+toyota.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. sWEW/AJG/tHnXTCphrmmnplhycL535avG1XJ7HMrN5N7h1uoDJnOSddJIRAArmmTAaQ2Nk/r1Caum1o1v0D2RA==
 tp88.locker.	900	in	ns	alec.ns.cloudflare.com.
 tp88.locker.	900	in	ns	love.ns.cloudflare.com.
 tqvvml.locker.	900	in	ns	n1.xundns.com.
 tqvvml.locker.	900	in	ns	n2.xundns.com.
+tr6ampb191qdbe68ttj10ejjfp99tedh.locker.	300	in	nsec3	1 1 0 - U3QNREBC4M6TSBVSIBFVOTS6K339I63C NS DS RRSIG
+tr6ampb191qdbe68ttj10ejjfp99tedh.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. fhH6BQUGztlx3pz/oG4mtCxibuOWf091QWZxv2P5wM9sBzr8y4f2CyzcmRlZ1LuwYr+awkCzXBYvyCLyY/ziEw==
 trace.locker.	900	in	ns	ns1.hover.com.
 trace.locker.	900	in	ns	ns2.hover.com.
 tracking.locker.	900	in	ns	ns1.hover.com.
@@ -43032,6 +43090,11 @@ trusteconomy.locker.	900	in	ns	dns1.registrar-servers.com.
 trusteconomy.locker.	900	in	ns	dns2.registrar-servers.com.
 trustpoint.locker.	900	in	ns	ns1.hover.com.
 trustpoint.locker.	900	in	ns	ns2.hover.com.
+truthsocial.locker.	900	in	ns	dns1.name-services.com.
+truthsocial.locker.	900	in	ns	dns2.name-services.com.
+truthsocial.locker.	900	in	ns	dns3.name-services.com.
+truthsocial.locker.	900	in	ns	dns4.name-services.com.
+truthsocial.locker.	900	in	ns	dns5.name-services.com.
 trvok.locker.	900	in	ns	n1.xundns.com.
 trvok.locker.	900	in	ns	n2.xundns.com.
 tshirt.locker.	900	in	ns	ns1.dreamhost.com.
@@ -43064,7 +43127,7 @@ tune.locker.	900	in	ns	jule.ns.cloudflare.com.
 tupismo.locker.	900	in	ds	37610 13 2 70E8E0BECCEB8184691C436C5E662AD424EF8B6691252C120F82182C1876AC1B
 tupismo.locker.	900	in	ns	launch1.spaceship.net.
 tupismo.locker.	900	in	ns	launch2.spaceship.net.
-tupismo.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. YX4bVt3qz3Ktpr7uaS6RpH+syNq+OSBAJd0EJuNHmwhMw04wKWhNkyOW8sT0BDvEOAWw78QZKQHYfMZ+P6gcnw==
+tupismo.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. CIoNT9l4JHczrHH0I1EIxERE8Cwq76isx7L/z7Hc5onF6G3HIjdjcDkdr9dncgjk7HOUblVmDVAtts0uKwa47w==
 turbo78.locker.	900	in	ns	ns1.dyna-ns.net.
 turbo78.locker.	900	in	ns	ns2.dyna-ns.net.
 turkcasino.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -43074,7 +43137,7 @@ turkialalshikh.locker.	900	in	ns	ns12.domaincontrol.com.
 turners.locker.	900	in	ds	19405 13 2 9C407FA0BE5D5582F2F55BB4FC72138D3216A54A06AAF848150C94A7082E1253
 turners.locker.	900	in	ns	launch1.spaceship.net.
 turners.locker.	900	in	ns	launch2.spaceship.net.
-turners.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. OuqCtVnuHX06ds0C/JzIpTpHBXTeJVDm53ROxD3/MG7yE3tQarqv5yaVYKwtWmeu9LCS9qc8lbf2mTNd/gaNYw==
+turners.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. MoezVo+khG1gDuZta2x/8NiunGWrzEvUSjG9Z4bMrXgcSFJjt2vbbQi3MzWyz4BiywZQ7Xq1c16fKqVWfvokbw==
 turtles.locker.	900	in	ns	kyree.ns.cloudflare.com.
 turtles.locker.	900	in	ns	maxine.ns.cloudflare.com.
 tvaogs.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -43104,15 +43167,15 @@ tyrgnj.locker.	900	in	ns	ns2.dyna-ns.net.
 tzrikj.locker.	900	in	ns	ns1.dyna-ns.net.
 tzrikj.locker.	900	in	ns	ns2.dyna-ns.net.
 u3qnrebc4m6tsbvsibfvots6k339i63c.locker.	300	in	nsec3	1 1 0 - U9NOCR73T512M0I6G43V2KPKPL5S8DAH NS DS RRSIG
-u3qnrebc4m6tsbvsibfvots6k339i63c.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. PlkluYKIpT7l7NYaOzXsldqW6NfCXjB8j1wY/yJLn8XetR2V8b17QpqEjavYior5p5eXVtdP4kPzf4q20+vcSw==
+u3qnrebc4m6tsbvsibfvots6k339i63c.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. tT0p+1bzdm5OvwT361HLzymO9iQUQUpieALIEFcRe4+lrq0U8qkV0h++Ezwt53XDJ9rkbgapprXsSezeTC8fWw==
 u888.locker.	900	in	ns	raphaela.ns.cloudflare.com.
 u888.locker.	900	in	ns	stanley.ns.cloudflare.com.
 u9nocr73t512m0i6g43v2kpkpl5s8dah.locker.	300	in	nsec3	1 1 0 - UAPK9KTCR8918PCVCRIQQ0S4THPUK15J NS DS RRSIG
-u9nocr73t512m0i6g43v2kpkpl5s8dah.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. Gl/jboZPv98rOLyaEECsYNR4Gy2/NrEkIGMGu80i/sH0KXiQlHqReBYhnkGBV8rlriIt92zVJQkKyW2sxC8wAw==
+u9nocr73t512m0i6g43v2kpkpl5s8dah.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. bevQ4TYfODWXmZsTqvP5zgMGXHqyaJvcNkYq/hLlA0BFtz7bOBz/mq/drncWAFis+4D5qnp93obfhfpSibgO8w==
 uapk9ktcr8918pcvcriqq0s4thpuk15j.locker.	300	in	nsec3	1 1 0 - UB8NKCAB6VKAJIGOI61NHT2GIEL6PQ1T NS DS RRSIG
-uapk9ktcr8918pcvcriqq0s4thpuk15j.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. 2B67cQ8a0Wve/uAHdxZN37y6TRGOaHf7wAKfZurB+vqW7GS+aleL1Rd3jcX5wyoPdQnmS/F40w6NhcgTCfOSdg==
+uapk9ktcr8918pcvcriqq0s4thpuk15j.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 589ifqrP8FSDDA990pBcf5xYKILe+9Pf+GmjkZl2xFlllm5dPovc5Ey9J9+/pVT7vsHZqLLlu9h7rsLGgcMX2g==
 ub8nkcab6vkajigoi61nht2giel6pq1t.locker.	300	in	nsec3	1 1 0 - UPLG487619QGUGVPFT586I8SBGPQ4SSO NS DS RRSIG
-ub8nkcab6vkajigoi61nht2giel6pq1t.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. BOzMe7+nMJiSOlSsE9Og7YpPxgGxw3Bbb01xOu1vbZ7nsu0czX5SLoTOOAmUcQ24OT8pPdyMHiS1NvyOsOp45g==
+ub8nkcab6vkajigoi61nht2giel6pq1t.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. hwwelmjzmHOd2r0Rt5kwYJ4rSM8udXdYLUT34wBNgyfbEBPkx0afXh/oWK7xgcXR26744lzSIEAoAa8RGQTtuQ==
 uber.locker.	900	in	ns	ns75.domaincontrol.com.
 uber.locker.	900	in	ns	ns76.domaincontrol.com.
 ubmovm.locker.	900	in	ns	n1.xundns.com.
@@ -43186,6 +43249,8 @@ unisat.locker.	900	in	ns	dns1.registrar-servers.com.
 unisat.locker.	900	in	ns	dns2.registrar-servers.com.
 unitedkey.locker.	900	in	ns	ns1.dyna-ns.net.
 unitedkey.locker.	900	in	ns	ns2.dyna-ns.net.
+unitycoin.locker.	900	in	ns	ns09.domaincontrol.com.
+unitycoin.locker.	900	in	ns	ns10.domaincontrol.com.
 unitypoint.locker.	900	in	ns	ns1.dyna-ns.net.
 unitypoint.locker.	900	in	ns	ns2.dyna-ns.net.
 universa.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -43207,7 +43272,7 @@ uousd.locker.	900	in	ns	ns2.951dns.com.
 uphold.locker.	900	in	ns	ns59.domaincontrol.com.
 uphold.locker.	900	in	ns	ns60.domaincontrol.com.
 uplg487619qgugvpft586i8sbgpq4sso.locker.	300	in	nsec3	1 1 0 - VBT7ULDGDM3D1CUV659THDK4FF3UR02I NS DS RRSIG
-uplg487619qgugvpft586i8sbgpq4sso.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. zROXb4AqvRk2VVIGrh6WD+paoGCCrUSa7Pe+PlqtykGSR+nJwaBVa2e8Y3lnp069Cxcubtvk3XMnoesD8BdAyQ==
+uplg487619qgugvpft586i8sbgpq4sso.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 1/Cca/XVSrNO6uSaYm05RC6XlZEhBBviRppViafXPiAkAhM8NWyTwjaBUMWbLyOo4Dpq/Guiy+NlKwZC8XMRbA==
 upmkbv.locker.	900	in	ns	n1.xundns.com.
 upmkbv.locker.	900	in	ns	n2.xundns.com.
 ups.locker.	900	in	ns	nsa.ups.com.
@@ -43279,7 +43344,7 @@ vb88.locker.	900	in	ns	yadiel.ns.cloudflare.com.
 vbo99.locker.	900	in	ns	reza.ns.cloudflare.com.
 vbo99.locker.	900	in	ns	sean.ns.cloudflare.com.
 vbt7uldgdm3d1cuv659thdk4ff3ur02i.locker.	300	in	nsec3	1 1 0 - VM92HEC7GS45DDAE2FTL9US24R0QS5Q8 NS DS RRSIG
-vbt7uldgdm3d1cuv659thdk4ff3ur02i.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. jKRjIem4DNo7gcrK+aN7b9OXuEhKuyzm6f/P6U21a2xptJgMnPU9Wpf/cxOyu0jmeJBFZoNK9xGElD0wP/RDfQ==
+vbt7uldgdm3d1cuv659thdk4ff3ur02i.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. OfeC249Ly5ilaOCfYxN7HVLPz2+B85OSsuOWX5tN0f7j5jIwiLs1pEYlP/ReZpjT9K5bN4Y4mXhPICZqA7LEOw==
 vc77.locker.	900	in	ns	ns1.dyna-ns.net.
 vc77.locker.	900	in	ns	ns2.dyna-ns.net.
 vc77aa.locker.	900	in	ns	ns1.dyna-ns.net.
@@ -43361,14 +43426,20 @@ virtualblue.locker.	900	in	ns	karina.ns.cloudflare.com.
 virtualblue.locker.	900	in	ns	tosana.ns.cloudflare.com.
 visa.locker.	900	in	ns	dns1.registrar-servers.com.
 visa.locker.	900	in	ns	dns2.registrar-servers.com.
+vitalik.locker.	900	in	ds	55017 13 2 92C1B65F089266524213B36B260CA2E8E3BBAF5DC3CB70986C5EBC0128EA2AEE
+vitalik.locker.	900	in	ns	launch1.spaceship.net.
+vitalik.locker.	900	in	ns	launch2.spaceship.net.
+vitalik.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. GjGE8vqoLW2lY54WO2SVqCVJ4Z5s1+GwzZ+8S6MnRLSdV3tY1oFrqq5+pOHy1BzskUfnYGV2tyRMWNO09jb0Tw==
 viva88.locker.	900	in	ns	jewel.ns.cloudflare.com.
 viva88.locker.	900	in	ns	sullivan.ns.cloudflare.com.
 vivu88.locker.	900	in	ds	61766 13 2 D2ECCE1DF946A2501708C0FAE3392D654B9920EC77E4D2336984FF8813668176
 vivu88.locker.	900	in	ns	launch1.spaceship.net.
 vivu88.locker.	900	in	ns	launch2.spaceship.net.
-vivu88.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. kb4FLM1p+h/Ib08O1URLEl5LAuuarLA4xdjuIDB49uiJ8VFgCsxZ2yQEb/kJMqQ7mPRBRqoTHNuf1PP6Tcm6+w==
-viya.locker.	900	in	ns	ns03.gcd-dns.com.
-viya.locker.	900	in	ns	ns04.gcd-dns.com.
+vivu88.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. +67HjLnQ0HqH9A8vYQ4dN79fVc+dfcoV/sS+oMi5BPgDoqEBH5OWCgcBj1I+kd+cIH4B9yZ74nvbdIyVo46FhA==
+viya.locker.	900	in	ns	extdns01.na.sas.com.
+viya.locker.	900	in	ns	extdns02.na.sas.com.
+viya.locker.	900	in	ns	extdns03.na.sas.com.
+viya.locker.	900	in	ns	extdns04.na.sas.com.
 vjywv.locker.	900	in	ns	ns1.dns.com.
 vjywv.locker.	900	in	ns	ns2.dns.com.
 vkeqql.locker.	900	in	ns	ns1.dnsip.com.
@@ -43376,7 +43447,7 @@ vkeqql.locker.	900	in	ns	ns2.dnsip.com.
 vlxx.locker.	900	in	ns	a12.share-dns.com.
 vlxx.locker.	900	in	ns	b12.share-dns.net.
 vm92hec7gs45ddae2ftl9us24r0qs5q8.locker.	300	in	nsec3	1 1 0 - VS4SD16O3K25Q2EOKU8VSU1KQN9AIA4M NS DS RRSIG
-vm92hec7gs45ddae2ftl9us24r0qs5q8.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. qZqc0f2dyjlzLbISkZ3kTiKssmwGhvLEvbz+N+fY0KysGM/8ctixlw+KNgHQY42vvDbv6713yIEKt6pb4edY6w==
+vm92hec7gs45ddae2ftl9us24r0qs5q8.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. /R4M9cxLMFexe1Tn1IWgOqU29Mmu+ZIOPp9nFQxqrM5G9vdWPE1veZGrLlZPAn1byLljG/E3/SkPhNKKp5zTnA==
 vmhjxu.locker.	900	in	ns	n1.xundns.com.
 vmhjxu.locker.	900	in	ns	n2.xundns.com.
 vmowp.locker.	900	in	ns	n1.xundns.com.
@@ -43408,13 +43479,13 @@ vrbo.locker.	900	in	ns	ns56.domaincontrol.com.
 vruny.locker.	900	in	ns	n1.xundns.com.
 vruny.locker.	900	in	ns	n2.xundns.com.
 vs4sd16o3k25q2eoku8vsu1kqn9aia4m.locker.	300	in	nsec3	1 1 0 - VTTEIEFIGMOHHL656HUD7P3NG3IIA99I NS DS RRSIG
-vs4sd16o3k25q2eoku8vsu1kqn9aia4m.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. mj0FGrVsDY54I+isDwy2LLzplE+N7TW7nCcUqp8l6ANKPcoa64xG1zwmX48CWZYC4t1rS3CIHjrybfwxAHfyQQ==
+vs4sd16o3k25q2eoku8vsu1kqn9aia4m.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. oAWVnzt3+SyO9No0St3PGQS+ez6e6Nt40ovKVL5kMI7pQfbnU/5QJYpfBU80ZSy9a5s5FIh4MirkptcxXgU20w==
 vsaciu.locker.	900	in	ns	n1.xundns.com.
 vsaciu.locker.	900	in	ns	n2.xundns.com.
 vswin.locker.	900	in	ns	noel.ns.cloudflare.com.
 vswin.locker.	900	in	ns	wally.ns.cloudflare.com.
-vtteiefigmohhl656hud7p3ng3iia99i.locker.	300	in	nsec3	1 1 0 - 22KFG7MA887I7H7E8LF6BID95072VOHU NS DS RRSIG
-vtteiefigmohhl656hud7p3ng3iia99i.locker.	300	in	rrsig	NSEC3 13 2 300 20250926001529 20250827001529 4145 locker. OQwCW+zKTfLZquXUMh0rlT+fcfO+gdP5YX7L7YEOeK43OHe0OdZhwss/KSAR8+rU/Mi9Y047bSPGr7OPl0waAg==
+vtteiefigmohhl656hud7p3ng3iia99i.locker.	300	in	nsec3	1 1 0 - 0BF1TUL9P9KI9SBKI5AKTK6DKRVJGM2O NS DS RRSIG
+vtteiefigmohhl656hud7p3ng3iia99i.locker.	300	in	rrsig	NSEC3 13 2 300 20251005002029 20250905002029 4145 locker. 9hUn7rvSRZxw+V4T/7Fu/xtl15baUcd1NlWXCPabv/UCRB6qsjD3OmxIs41D9P+z6gtCjpNmS32LKAzXoo8nHw==
 vua88.locker.	900	in	ns	ns57.domaincontrol.com.
 vua88.locker.	900	in	ns	ns58.domaincontrol.com.
 vua99.locker.	900	in	ns	harley.ns.cloudflare.com.
@@ -43424,7 +43495,7 @@ vudqp.locker.	900	in	ns	n2.xundns.com.
 vulnerability.locker.	900	in	ds	49094 13 1 9AD78E74A5D43306E2E6E92F74A70352FB03E3BE
 vulnerability.locker.	900	in	ns	dns1.registrar-servers.com.
 vulnerability.locker.	900	in	ns	dns2.registrar-servers.com.
-vulnerability.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. JpeNevodNNBLpoCtN7izUZ2Z+ysQmVphQE2adhBUALg4u1YhnJc3A+ADKm0rbSf6nc18qINmLosnp2AuOihBdQ==
+vulnerability.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. U/dIrHiB8enAOQ9HM1ZyDXKLMaJvDk7DJQiHruXjiAB7SZleWM624qhpV0+2Rcl7JMqaGxLmwtxPdZIif+FR3Q==
 vvlbeo.locker.	900	in	ns	n1.xundns.com.
 vvlbeo.locker.	900	in	ns	n2.xundns.com.
 vvvwin.locker.	900	in	ns	chase.ns.cloudflare.com.
@@ -43462,7 +43533,7 @@ wallet4.locker.	900	in	ns	ns2.dyna-ns.net.
 walletun.locker.	900	in	ds	12312 13 2 8D62137B1B1F1CEB092856F2D5D820A397DD84AC66D89472D9F1206DB8A3B0D7
 walletun.locker.	900	in	ns	launch1.spaceship.net.
 walletun.locker.	900	in	ns	launch2.spaceship.net.
-walletun.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. rG9Br05ZC1m0dD4b8DT4iY4OOzKu/Q2GIU4HwgcdmyYVlcQAKuyx8R2lk55aHKoiOj3vfzD6XCP86CqrpVyBbw==
+walletun.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. lYv5ame157ZMT054gKnyVNN8Xd1gg3i/9lqokNR2gmfJUh5p8pKKhkzIx/8K6KB4A5aKhKFT2jR0QU7ncFa8cA==
 walmart.locker.	900	in	ns	ns11.domaincontrol.com.
 walmart.locker.	900	in	ns	ns12.domaincontrol.com.
 wang.locker.	900	in	ns	dns1.registrar-servers.com.
@@ -43470,11 +43541,13 @@ wang.locker.	900	in	ns	dns2.registrar-servers.com.
 warframe.locker.	900	in	ds	13738 13 2 12EC90B20892AA9350BF1976BA71B01A3F71CE0976677D7A9306756B2B3662A5
 warframe.locker.	900	in	ns	launch1.spaceship.net.
 warframe.locker.	900	in	ns	launch2.spaceship.net.
-warframe.locker.	900	in	rrsig	DS 13 2 900 20250926001529 20250827001529 4145 locker. ObPKbi/0tEuTZ8fyvUbH5Sf311HZFazmqwudHRIy9WTC/FN+KJvsPWI4Jzu9X5zRS/792IT5Ftq7XZ69RpTIjg==
+warframe.locker.	900	in	rrsig	DS 13 2 900 20251005002029 20250905002029 4145 locker. qWITOVjotBbjXTTvZq9VEj5E8AzWsK8SoCVY59Ue5XlRJWy7/74eo5bM6A+diLOUDIrutfhNMhss/KIoz+snvQ==
 wasabi.locker.	900	in	ns	dns1.registrar-servers.com.
 wasabi.locker.	900	in	ns	dns2.registrar-servers.com.
 waterrestoration.locker.	900	in	ns	ns31.domaincontrol.com.
 waterrestoration.locker.	900	in	ns	ns32.domaincontrol.com.
+watt.locker.	900	in	ns	ns1.hover.com.
+watt.locker.	900	in	ns	ns2.hover.com.
 wavelo.locker.	900	in	ns	ns1.systemdns.com.
 wavelo.locker.	900	in	ns	ns2.systemdns.com.
 wavelo.locker.	900	in	ns	ns3.systemdns.com.
@@ -43704,8 +43777,8 @@ xgeotn.locker.	900	in	ns	ns1.dyna-ns.net.
 xgeotn.locker.	900	in	ns	ns2.dyna-ns.net.
 xhrou.locker.	900	in	ns	ns1.dnsip.com.
 xhrou.locker.	900	in	ns	ns2.dnsip.com.
-xin88.locker.	900	in	ns	jaziel.ns.cloudflare.com.
-xin88.locker.	900	in	ns	martha.ns.cloudflare.com.
+xin88.locker.	900	in	ns	garrett.ns.cloudflare.com.
+xin88.locker.	900	in	ns	lisa.ns.cloudflare.com.
 xiuuqp.locker.	900	in	ns	ns1.dnsip.com.
 xiuuqp.locker.	900	in	ns	ns2.dnsip.com.
 xkeog.locker.	900	in	ns	n1.xundns.com.
@@ -43981,4 +44054,4 @@ zysjzt.locker.	900	in	ns	ns1.dnsip.com.
 zysjzt.locker.	900	in	ns	ns2.dnsip.com.
 zzgkn.locker.	900	in	ns	ns1.dns.com.
 zzgkn.locker.	900	in	ns	ns2.dns.com.
-locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1756257325 1800 900 604800 300
+locker.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757035224 1800 900 604800 300
