@@ -1,12 +1,18 @@
-talk.	172800	in	soa	dns1.nic.talk. hostmaster.nominet.org.uk. 1756233519 900 300 2419200 60
+talk.	172800	in	soa	dns1.nic.talk. hostmaster.nominet.org.uk. 1757005386 900 300 2419200 60
 101domain.talk.	172800	in	ns	ns1.101domain.com.
 101domain.talk.	172800	in	ns	ns2.101domain.com.
 465ueoqdne3gfhnu7ledvgpcc57n9qe3.talk.	60	in	nsec3	1 1 0 - 9GFIGR9749O7OSL9VHKBFUD92P108TDD A RRSIG
-465ueoqdne3gfhnu7ledvgpcc57n9qe3.talk.	60	in	rrsig	NSEC3 8 2 60 20250927014307 20250823014108 16755 talk. KWFZ5NbSKNJKI/kzB/eTGBfCUfR41fCOV21hZvKy5k6ytyBwfpLPQ5UfgXeWzYDCOb4KVPvSSYSdWf8Ftkv4ZDxPINLmAgDyy7pq4yysoAodUuxiKhDdMv+QErHl6kihNIzEObFfSC2t9j4tRN1xgMzK8U8KIImGTkqwTAwkE8Lhwi3V8yP3cVWGVIvdu/JiEZrUEmFTe0XFvLSd6MtO1gJ4wLx60f3KATt3cG4Ii1D19CuCuwJTF9RxFk3Ttzbc4mGcnbJpQUcKRL1BO9F8yoMKlIF3YmY55PKwuIx7gzmgJ2hKOMQGRT67tYg/u3NkFwX8pvyv+GpspFhLQU9udQ==
+465ueoqdne3gfhnu7ledvgpcc57n9qe3.talk.	60	in	rrsig	NSEC3 8 2 60 20251004011008 20250830004307 16755 talk. JR+VbWIwkNORHAfGY7xZSMsQZDqW/XmJ03bLmmPPxCFDC3MgzSuyod277ZdXvNb0h5b/96uZo/eCtARG1JkPqrZG3lqeSZWdKZ7O64x66KpMuFG60I1Ku4rtsK+feoThiQuPSeIA7rmWnn7ShIFPYpAawzMDrxXhNnbARBnN6HRKMnt0yaZv3yP5nJR41kEdOFUk6mS4CScH6yzYNds394eENxwEZmCzd5XCsVdFjm6rJW/EOPtIJjyLY+e58sXxqdkqdFh8Vl/VJmHY8q8N8WRmZnF6PoMaE0tXY/fMrG0l+Pxp7xGG9LwctgjOzbzKKe7Upcli0n/isjxcXga+gQ==
 9gfigr9749o7osl9vhkbfud92p108tdd.talk.	60	in	nsec3	1 1 0 - S1HCA5VAPDGSKOMSP5S52BSF8E4PR4LG NS DS RRSIG
-9gfigr9749o7osl9vhkbfud92p108tdd.talk.	60	in	rrsig	NSEC3 8 2 60 20250927014307 20250823014108 16755 talk. a3Vk/l9Yx4zrCxC53a2yPaAfCRl+rRP0AAmTVYSmKgUZoBRzrzYoFLacRQxxoJk3ztVnUEyrIHJlGDZ0zlQBc6ynWaPBaGjyaJW9GXmgv02T1kZ42CxfMgjNApx20H24E0ga8Ed+UIfH7d6j3WdsGBbMDhMIYAi8lH7UXT0WQ48YVpnQdn8g/vo1+6JXdkyYP6cHtS+8XhN0XlCv2Fr23Pc6p3Exw1DElP7NADTZ4+BlDd+UTT6bKoSq10BUFSVVAKZqQubkcyvNqILxbpOZJ5EqKzRIvJ7H1fhNUThWbp5WNxRcxj5C7xRmNQSZd53R/Ua9ikCqkfS9kHnoRD5nCw==
+9gfigr9749o7osl9vhkbfud92p108tdd.talk.	60	in	rrsig	NSEC3 8 2 60 20251004011008 20250830004307 16755 talk. WHeRTw/oCNbaEf8mqXBzcgcyNp88WhtCx3SVEJi7vilPnFEbhWA0Y1ZCdY5TS7asA7CH2RCJKNTvg8yUJRa46zvZPzW0OjEIAvO14DPZ2DVx+8tWdUA/44ya1CX3t0h4Y19nuGa8KXhQgncYNu4VRN/Si7Mrnwo061SoNugMpcgufw7f7AzLN/RBoSCodb23LVQYCP3tsryxcCQRzajwAQSjS4FKimi8XnWFknqVD11hwsK6CFUf79QrJhTYL3VYtUjDG5ZCdJ6trKFKsM6NshAB+ReXHairSuOk7wYIGXVvBx/ZNXjF0xmul+6IeY2g7CHUsa0HCU5JXRbu1Yn+OQ==
+abnamro.talk.	172800	in	ns	dns1.cscdns.net.
+abnamro.talk.	172800	in	ns	dns2.cscdns.net.
 acana.talk.	172800	in	ns	ns1.101domain.com.
 acana.talk.	172800	in	ns	ns2.101domain.com.
+amazon.talk.	172800	in	ns	dns1.comlaude-dns.com.
+amazon.talk.	172800	in	ns	dns2.comlaude-dns.net.
+amazon.talk.	172800	in	ns	dns3.comlaude-dns.co.uk.
+amazon.talk.	172800	in	ns	dns4.comlaude-dns.eu.
 anthropic.talk.	172800	in	ns	ns1.markmonitor.com.
 anthropic.talk.	172800	in	ns	ns2.markmonitor.com.
 anthropic.talk.	172800	in	ns	ns3.markmonitor.com.
@@ -17,6 +23,10 @@ anthropic.talk.	172800	in	ns	ns7.markmonitor.com.
 att.talk.	172800	in	ns	ns10a.attdns.net.
 att.talk.	172800	in	ns	ns10b.attdns.net.
 att.talk.	172800	in	ns	ns10d.attdns.net.
+audible.talk.	172800	in	ns	dns1.comlaude-dns.com.
+audible.talk.	172800	in	ns	dns2.comlaude-dns.net.
+audible.talk.	172800	in	ns	dns3.comlaude-dns.co.uk.
+audible.talk.	172800	in	ns	dns4.comlaude-dns.eu.
 avangrid.talk.	172800	in	ns	dns.iberdrola.es.
 avangrid.talk.	172800	in	ns	dns2.iberdrola.es.
 avangrid.talk.	172800	in	ns	nsusctmar04.iberdrola.com.
@@ -28,6 +38,21 @@ avisonyoung.talk.	172800	in	ns	ns4.markmonitor.com.
 avisonyoung.talk.	172800	in	ns	ns5.markmonitor.com.
 avisonyoung.talk.	172800	in	ns	ns6.markmonitor.com.
 avisonyoung.talk.	172800	in	ns	ns7.markmonitor.com.
+aws.talk.	172800	in	ns	dns1.comlaude-dns.com.
+aws.talk.	172800	in	ns	dns2.comlaude-dns.net.
+aws.talk.	172800	in	ns	dns3.comlaude-dns.co.uk.
+aws.talk.	172800	in	ns	dns4.comlaude-dns.eu.
+bankofamerica.talk.	172800	in	ns	dns1.cscdns.net.
+bankofamerica.talk.	172800	in	ns	dns2.cscdns.net.
+bloomberg.talk.	172800	in	ns	dns1.p01.nsone.net.
+bloomberg.talk.	172800	in	ns	dns2.p01.nsone.net.
+bloomberg.talk.	172800	in	ns	dns3.p01.nsone.net.
+bloomberg.talk.	172800	in	ns	dns4.p01.nsone.net.
+bloomberg.talk.	172800	in	ns	ns51.ultradns2.com.
+bloomberg.talk.	172800	in	ns	ns51.ultradns2.org.
+bloomberg.talk.	172800	in	ns	pdns1.ultradns.net.
+bloomberg.talk.	172800	in	ns	pdns3.ultradns.org.
+bloomberg.talk.	172800	in	ns	pdns5.ultradns.info.
 bofa.talk.	172800	in	ns	dns1.cscdns.net.
 bofa.talk.	172800	in	ns	dns2.cscdns.net.
 broadcom.talk.	172800	in	ns	edns161.ultradns.biz.
@@ -36,6 +61,9 @@ broadcom.talk.	172800	in	ns	edns161.ultradns.net.
 broadcom.talk.	172800	in	ns	edns161.ultradns.org.
 broadcom.talk.	172800	in	ns	ns96.ultradns2.com.
 broadcom.talk.	172800	in	ns	ns96.ultradns2.org.
+canva.talk.	172800	in	ns	dns1.safenames.com.
+canva.talk.	172800	in	ns	dns2.safenames.net.
+canva.talk.	172800	in	ns	dns3.safenames.org.
 championpetfoods.talk.	172800	in	ns	ns1.101domain.com.
 championpetfoods.talk.	172800	in	ns	ns2.101domain.com.
 claude.talk.	172800	in	ns	ns1.markmonitor.com.
@@ -52,6 +80,9 @@ coopervision.talk.	172800	in	ns	ns4.markmonitor.com.
 coopervision.talk.	172800	in	ns	ns5.markmonitor.com.
 coopervision.talk.	172800	in	ns	ns6.markmonitor.com.
 coopervision.talk.	172800	in	ns	ns7.markmonitor.com.
+criteo.talk.	172800	in	ns	ns-138-b.gandi.net.
+criteo.talk.	172800	in	ns	ns-53-c.gandi.net.
+criteo.talk.	172800	in	ns	ns-77-a.gandi.net.
 digipen.talk.	172800	in	ns	ns1.101domain.com.
 digipen.talk.	172800	in	ns	ns2.101domain.com.
 dns1.nic.talk.	172800	in	a	213.248.218.83
@@ -85,12 +116,23 @@ iberdrola.talk.	172800	in	ns	dns.iberdrola.es.
 iberdrola.talk.	172800	in	ns	dns2.iberdrola.es.
 iberdrola.talk.	172800	in	ns	nsusctmar04.iberdrola.com.
 iberdrola.talk.	172800	in	ns	nsusorsw104.iberdrola.com.
+imdb.talk.	172800	in	ns	dns1.comlaude-dns.com.
+imdb.talk.	172800	in	ns	dns2.comlaude-dns.net.
+imdb.talk.	172800	in	ns	dns3.comlaude-dns.co.uk.
+imdb.talk.	172800	in	ns	dns4.comlaude-dns.eu.
+intesasanpaolo.talk.	172800	in	ns	ns01.trademarkarea.com.
+intesasanpaolo.talk.	172800	in	ns	ns02.trademarkarea.com.
+intesasanpaolo.talk.	172800	in	ns	ns03.trademarkarea.com.
+kindle.talk.	172800	in	ns	dns1.comlaude-dns.com.
+kindle.talk.	172800	in	ns	dns2.comlaude-dns.net.
+kindle.talk.	172800	in	ns	dns3.comlaude-dns.co.uk.
+kindle.talk.	172800	in	ns	dns4.comlaude-dns.eu.
 merrill.talk.	172800	in	ns	dns1.cscdns.net.
 merrill.talk.	172800	in	ns	dns2.cscdns.net.
 merrilledge.talk.	172800	in	ns	dns1.cscdns.net.
 merrilledge.talk.	172800	in	ns	dns2.cscdns.net.
 monitor-nominet.talk.	172800	in	a	127.0.0.1
-monitor-nominet.talk.	172800	in	rrsig	A 8 2 172800 20250928183935 20250824174412 16755 talk. mkNIEiC0QDNhZT/tB92Cs/zhijDC36XO6tp85IZAoVea/A3thTCW2dCpzasByIQX9rBQFAR08rTLgAVtmL5b/pqvTZLbZKL0HuuixDoNfAckst7vsEMsaP4bwYow6HGYcBhpMQ4bIscpaP4FVyXRrKNf/gAgaUCIo6QDC6cJq5MQoOSlhjf+nrcw8KjJSURlOiEAH0UxNGq1dhHnJdlMrScDGz/get9Ook0H0nIvii78y0a0L2QF/UABCkqnUBUeluZC7Y+9EHx7Dt5skcLfwjslP5qT5KACPldszVVdXSj33iqu4fMOV+BvHbIIcIFP2X7QdLrEPKVnhBZUuABexQ==
+monitor-nominet.talk.	172800	in	rrsig	A 8 2 172800 20251005175838 20250831173935 16755 talk. K87TEscPmpDosSa6qRjPUB6KjJqHD1XKmcZaheEPL5H/+RdldblYDPm1SVHxeoyLb5boPfNefyKJI1sRMVcrO1PutV6+QC3iFmyYwwHKEpNpwsa+BqRLUeeBvRqyYil3r337V1EW94l7hlErvXZxTxJ6RFF8TI2GEAjvJFJZwjAxAPcZ4FKt4r9bIWjjJjKpViuDytku0ToK53cO6boHUbg6CqDOMt13jKKMZ5KBAueUBlNY2d/5wfxeOrZzodXJDd61g3LzpGjygA0D8z69aXwA/fKO0o/s69vpmiBProuL8XiHGmwRux/qngoTtFiDxdWcgoViTbPstHxzeEXq4Q==
 nic.talk.	172800	in	ns	dns1.nic.talk.
 nic.talk.	172800	in	ns	dns2.nic.talk.
 nic.talk.	172800	in	ns	dns3.nic.talk.
@@ -100,7 +142,7 @@ nic.talk.	172800	in	ns	dnsb.nic.talk.
 nic.talk.	172800	in	ns	dnsc.nic.talk.
 nic.talk.	172800	in	ns	dnsd.nic.talk.
 nic.talk.	3600	in	ds	1309 8 2 2FBE6749D4EB196CD5636245FDE118EA02EB316746AAD56AE3CACE487A6C5E09
-nic.talk.	3600	in	rrsig	DS 8 2 3600 20250928183935 20250824174412 16755 talk. PTFtBdQiFeuG4GOewaONQk6wirkufbp8wHCWF152V++gtDIEpbwswkMaOGsgp3utJmtRxp2Dhl14X8ImQxkXYJZWvUDzx+U85NIn0wWLrzrUBL1Y/jIidc5ty6Qq7G7dVbIHsUowBhXDAVzwh+PdJskLd/gNzunvAXHNclB8C1bXz+5NZHTs9KSZGFWGZ0CLKlz14XOs0wZ+Fp9kjxCN2mJv3YnReaDl8FkrUr227OwpG3Pqhj2ApCJPAXU21bOU9oMJKE102zRgMWYVbxUOwTLxK9IvLzHKVQtTSL3f3Kts/KGm9MzXoJQB2gjvEKJYycndnf/KFTi9WHyTMY2KvQ==
+nic.talk.	3600	in	rrsig	DS 8 2 3600 20251005175838 20250831173935 16755 talk. CyPFUjqDHZCrH/rrkDeQt9tSyJCE6TRchSBoxdGo/gb17D9VlFt0uolrhyEd/xty1CrjFbD+JYb7rG/BYhbktufbSsKljD6NeU4qT0LcyX0zlzwyhkK8dLpsTZdan4xrROJuz9JtIA7d3i6ip2+n68m6oo7CKkgkVYouxKUJiNmVCopLUrgH4t0eLAFbml3ebhS7k3UOFDLxMr8Z52GHqV+aFQ+bRtGgXSVv2IAja2GG5NSLh0YCv4zdnkdFq2E8zqiVqdlHEikDx1rA5frZ4brqQtCtwA6OSizc3DUWoZK1Lc6GZ629KtSE4slt3nwBQOpw2HbcA15dtaNcQsk8Jw==
 orijen.talk.	172800	in	ns	ns1.101domain.com.
 orijen.talk.	172800	in	ns	ns2.101domain.com.
 petsmart.talk.	172800	in	ns	ns1.markmonitor.com.
@@ -110,13 +152,26 @@ petsmart.talk.	172800	in	ns	ns4.markmonitor.com.
 petsmart.talk.	172800	in	ns	ns5.markmonitor.com.
 petsmart.talk.	172800	in	ns	ns6.markmonitor.com.
 petsmart.talk.	172800	in	ns	ns7.markmonitor.com.
+puressentiel.talk.	172800	in	ns	ns-111-c.gandi.net.
+puressentiel.talk.	172800	in	ns	ns-141-a.gandi.net.
+puressentiel.talk.	172800	in	ns	ns-9-b.gandi.net.
+reddit.talk.	172800	in	ns	ns1.markmonitor.com.
+reddit.talk.	172800	in	ns	ns2.markmonitor.com.
+reddit.talk.	172800	in	ns	ns3.markmonitor.com.
+reddit.talk.	172800	in	ns	ns4.markmonitor.com.
+reddit.talk.	172800	in	ns	ns5.markmonitor.com.
+reddit.talk.	172800	in	ns	ns6.markmonitor.com.
+reddit.talk.	172800	in	ns	ns7.markmonitor.com.
 s1hca5vapdgskomsp5s52bsf8e4pr4lg.talk.	60	in	nsec3	1 1 0 - 465UEOQDNE3GFHNU7LEDVGPCC57N9QE3 NS SOA RRSIG DNSKEY NSEC3PARAM TYPE65534
-s1hca5vapdgskomsp5s52bsf8e4pr4lg.talk.	60	in	rrsig	NSEC3 8 2 60 20250927014307 20250823014108 16755 talk. cSnffOXuAjp2zovU7FSmSv5LWnejvR+AcYoF2tdeiv+hDodSNiiwZiEVDevB2W25pMlyrgM7v0Dis88JAtf1WWM1TdR44VZsYESQqKwmDLf81pIQk1HUGbKrOh/ScjbSxZZcKP1ALvRVE2EiKrvX/kBGz50sPBYDm8Y6K0J2nm6v4kYOhjc7Gjj/2jUDKeKdlOL5qEI/3tYze026x5tvZVQmUBES68kdjK2vOh5iqilEcnCcdOZgFndK96LGCLmWgLmmBLz+bupH+HatR0pyKkqWkcfYkMe8/V6qADS9lYVacic87xBndmsi9wTAVBeLa2xVxBniPErjue2TqA+bZQ==
+s1hca5vapdgskomsp5s52bsf8e4pr4lg.talk.	60	in	rrsig	NSEC3 8 2 60 20251004011008 20250830004307 16755 talk. FO5ZXw1WLxad/fcFnHssm6uh256wmGwwxUAyesTLMRjGTQ/L4qDHB9kxz2wdBqMxFhGe0p1Y30Wry3wWRai4Qd9O6LpEE5mnTI/2FBsbGsyzAmrBTVUAvv/SkRmMdNK0sBdDT26BnFp6AlhFoSzcIStdg32n9wsAA6MgysNEuP5hzEegugizvlIAq3Kq4qNXXBMXaGoEkk4MCQJu9BzgtIXgMrPe1Wl4j2dmVdX+CDLYg7ywx8SAQC9+8lt6qzh6jUVpVBRRdNMP5Zjk9nmYf/azMOKjdCfMnElpO7zTYlaxfB4Ba7JgvDSdW+57ob+qdq4bdxMpcGxYbHtyi0+2Cw==
 spar.talk.	172800	in	ns	anton.ns.cloudflare.com.
 spar.talk.	172800	in	ns	uma.ns.cloudflare.com.
+stellantis.talk.	172800	in	ns	ns-107-c.gandi.net.
+stellantis.talk.	172800	in	ns	ns-54-b.gandi.net.
+stellantis.talk.	172800	in	ns	ns-57-a.gandi.net.
 talk.	0	in	nsec3param	1 0 0 -
-talk.	0	in	rrsig	NSEC3PARAM 8 1 0 20250927014307 20250823014108 16755 talk. HnbR6NImF4Bkw/TqllhGf2oi8NSIMXLJte39RcRCHiyBCE4ZTWnVzpH7HiuIXQuHbCogUsd0FOej1v9yWOJaufs05EoZ8iubQH26TlOM9L5QMHZnIO94vktrRlM4J+fd+ymQyC2aKsjjc7wS4qe8Zj4fsTgRrzbaWXTmw3rb5F0NAfRVocrIe3VJhjF7UMaLhR6NgLCePCGWoCy6b5YbuMrZblAA0QV+vx1IVeBZhKClD7DuZvyNED5qinf2uvq/yJj7boXQuQqwHwVyjnE93l33lECh4HW7g396n9R0uu2pCNuPX6j0OXGAnkLeWtOhdBAXJZ/2LEexFUsLtGK9nA==
-talk.	0	in	rrsig	TYPE65534 8 1 0 20250927014307 20250823014108 16755 talk. RB++0Put2mH0Y3dNbgEcs1mGq5iFdC1RW/G86u8OLDiU7M3zcd82KhUap+CTOs29Dq0RRVyrXKfwtNiKycbtM+juvKeDaJGFgslyGXi6mAww8eR/6OcehyIaNPq6fs9Aqi3l9+qk1IeWa28Dq9WbalxQr3LQHBNy5VnY21Eo3hFRrjZ2IeRJrF+Yrxt6lLNOh4cKHymVy+CghYWY+FYjz+qZsCcn0VhEoQNIsHzAAOS2Q/MP+08EL22mDAhTIAu5ajkKhTkmjcv2koSxSfrxMl2kqold61D/Kl2enZfx13JHGHXXrHopokXpOH3RliSJHnJgi0dg/KkIHuGyPy/FSw==
+talk.	0	in	rrsig	NSEC3PARAM 8 1 0 20251004011008 20250830004307 16755 talk. Xq0fbEHMB61/me9aaeeH9QPyL4Uvb14k2lzhw3u6zNfORbeCeFrQqeGe2SUaG38wGApPwQY2CdjYpAQ6jxXDZfOvjw7iqqoPT6WZTBSUjeAn5q7QfODTc6YorJ9QOTZUmCFIbUDDk9pllsVIQLzSx3ze/UVTA/d2/xdprg89OLJhFKvN+lgD7VgL/YNQHWLj5TpFnyanGaytuykxUXysqDZkVqGuAPiSN20z5JOSv5+vuRpwuJU74jrUelXWO1FxaR7TJZLolYy3/AX6mlg+4XE+75+O2crAffrgm/KFc9rkJGoc+T9aYp3yhID5E8EqoDQcXiVUKyb9gLX1f4VGOw==
+talk.	0	in	rrsig	TYPE65534 8 1 0 20251004011008 20250830004307 16755 talk. iNZrTvx7k5XNbyZeS4eKRtk13MdzHQlyJ7yZTfOGDtaVaoTQvZl9EtrZ/YvaVKqGQmAQzcYFXDTg+Tx7M5g+j4t5EZxlLedsxuQ0vtF7+F+Br5/GzBH9BGzw2SRa2zOjFi59EiK4+chUV1stNWSMcWhjPZ8XtW+Wqz62TBrpCoRLtdFRNWJLcwD2NYYHGgLu8VgEecE7yCdv6eFXGMjXegl+vbG8eIskCaWcZGRmRc9oDmf1bgcE4CqM+3imBZLyE4knMpyW5EY8qad2I8G7EaBwRyD+1p7DpKFTFi9uNZzGJWDf5mitXX0xdiohHwp8G5tZsfv90KJOfeZ+1uaA4Q==
 talk.	0	in	type65534	\# 5 0841730001
 talk.	0	in	type65534	\# 5 08F8D50001
 talk.	172800	in	ns	dns1.nic.talk.
@@ -127,14 +182,18 @@ talk.	172800	in	ns	dnsa.nic.talk.
 talk.	172800	in	ns	dnsb.nic.talk.
 talk.	172800	in	ns	dnsc.nic.talk.
 talk.	172800	in	ns	dnsd.nic.talk.
-talk.	172800	in	rrsig	NS 8 1 172800 20250928183935 20250824174412 16755 talk. ikYToefuEj8A5IF0NcL6yXvy2HRIhaw1zJzXd/ZpjzogOxP9BFB5wTnaNlPTGcRwBQiEoJfLzNEgSbJrQieOg28EM7ORGYPLKwXmvkF/IjtplChQFtJquDbcxkit+hwblZgcfW2ryhzBUVfV2SyY6UTVrcTD2HLp1dFwiXp3HAuZ59PGJ2tNo81BPzoBR0ddMQ/sHRWr25grtAxcSIirQujDpUGfAkF1pqzhG+Ghb9/nJVV4u1W41U+VBcC0aKX3wL2OEoniovUWfnibcvdEdFaA+sWjb9NqMPvovDYuhameqMK6d8k4xfxAdyS3EoIBSVT2AYDlaoSQjY/AXynYxg==
-talk.	172800	in	rrsig	SOA 8 1 172800 20250930183839 20250826173839 16755 talk. nz5pSaxnqHBTWqS+UwbawDAdqiycrdzCL4GWSeHj2fy1WpnSBRx+uZDfOHilbpLzoguQXN3HFy7yQE5bOP++vo+IPaK/Wy0GzQW4SxbOFuq6eLswzOV0bTQ+n4OnZWd4idC/Q2XSojfln9O8Ys5b0PfGSeN+HnsdicL2VzRjpmzLr297JlziPQ6MjV/nDo9j7eAsWopGz7gvAD11xblop8Y9kSdxirgAkkqChPcGz9qo6qc5EZz7NLd8+j1sPeVxfO4cGs+89zHYbeJGZwvKbb1clqHiL3gSwj5mWgJVKld35ppe1XqhV0w2mUnxZJk6EJjYepdeHgF1YexXH6POKQ==
+talk.	172800	in	rrsig	NS 8 1 172800 20251005175838 20250831173935 16755 talk. Ui3X06nX7zCFQm4bXYRok1CJayyeh4XFVhcCcrVv6iC/hpL/GsfFJq4bJHs3G3gtIhRwOOeeLQjLx9GIDXSVNtmqxM94pDXXEivqBwV6SZxkmnoIEMaLoL3smorJFzmuSLlcFI7O5xw+tvRAFfNaP5KLm4/WB/UZ+2j44pZ8+q17vzCRk3r5UPHUfRKhHtpMxS4pIIcSXwsW2eEXG5CfkL6zditNW0XV0YQnc4oo6K9/Q447yKqDvx4P3/WkT87ahG2DltwPHL1M0VIJgjKp9Ct+qMrmYOfGMjwYN5cAlrvYxuvkW644NXYOutQL9t0BI729fAmOQex+/VY87GmM5Q==
+talk.	172800	in	rrsig	SOA 8 1 172800 20251009170306 20250904160306 16755 talk. Gs2K8993J3v31sMr7JcQ+RGoIwL4hLen43KEHv+Z+bzCiMrrzjwu0S2RBd4JQ2RWnJZNrLw8eiFNDBCF3ypixfTEkECd1yPjL5FRVCu/DQTY6s+UwZGEJylSeS5FleW3ZNXysAfngO1kvIMXDa9nWDM+1wZ5dhWNB3EVdwHbpi2qxo4AMZhT2a5YEi1HZV53HLtScLOUjkXu2O634N1nZsmp5HWoL2bwMY/KNNI7LhtM0onxc4Ig4d+8x2Ymt1FNfQLK8GwpwcZlzPZvRi72AIy1ZmTVcIQOwZ8R3VS9P7S5BodhlG1f+KHx7IJZXOCX53f5MkOLuNf9iqXUkiRuyw==
 talk.	7200	in	dnskey	256 3 8 AwEAAamdLnKNCqRtA3qVF9H1ZeYqqTdjNdIvu2OHvd3j/AXQBCr6fZl3y2pFasTUV5iW1YQmYUasQM00D1ghAPfJU+23byb0uhdI75bwYh2kRlUIEIZGTbblCJ5aSyhabBfOM67ZcfxTDHNTGmp8QY7KU2wCCM1khWqTjJdN151TNmygkAr0eHFUyYHhM6cFCoza7fNyGYXACuyAYfPpzQv3JBq+2a76AChXAGDAvd/WZjyjHAb6Qy7qBa72HOUMQWvVnd1CVkW79PoB/27tt+CPLzb7cHrMTiXXljlVYJRlcNBsh88xXM/zuPPPV9JbQNeFNTPlFz8sXUnY2H60P9tkfJM=
 talk.	7200	in	dnskey	257 3 8 AwEAAYUTdZbzpNhiMIIKrrsTIBsmFEeUfbuy872flv2P+XgODThOexE25mPcdn+OFsd0c1979KZTYpa3DJmI2Dg6Cq8sXAr8umQm1TkUAEZG3H0cM2k63qut08Rb+UG91tSFpMS60gW3cnwMIfgy8lz7uEcAalSre2PF20gtVGG3x0XeGiqCIBBPPyQaFa/4m+aAtK9cCzVBLJ+D8QN9St6wcHrpL1CzR5l1xISokzdCYAcQSrTvkN6VH6S5AhKhhx56DJ5w4LkCRk7d2CvUSb6ycDImaKBibEmqwmqTIvDiLqFi6GvTp7yY0u6RnIbIU4CHkBQRwr++Um/8pZCk7XKwQN0=
-talk.	7200	in	rrsig	DNSKEY 8 1 7200 20250929044955 20250825041009 63701 talk. O1o3gpg3Zljj1P6No9D1E5Hi05VzZenQjlxDZIRGYW77gpw+YdHwAeu27Dl+KLuEw+i4ofg31C4eF/kKjeexgcZNiDWOqtRT1RuEi0HT8N6oiPNicEImN2ZlDfl1cu5guvxopqcgyXV1uSqt4CAfom3M5bQABxlGT0kbOt4m2B46GAWXc+D8KYbAMlfLtKmClhkxYLHyfjuOnE7p1gUau+PuTC+BhgkllRYDJm1lzGqbGTIWrUBYssj5DL7M04SNXUrxfwLsy8Dkd6nnA5kKp1htDaZGPLPQg03/Ruz4qX/MiLXqOWwkOYvbA18m8nY6KNKpPV0aIzdthYskB6gcmA==
+talk.	7200	in	rrsig	DNSKEY 8 1 7200 20251006043954 20250901034955 63701 talk. GcU4z3EgPazKGP2EnI/+FFP5MTGngVXJEX+jP6Yp/jnh+a2jUtwXG+xEGx409K56/a1tybgYfdekln5GKaCWBpMqJFY/6c7u/k/5Oo17T4sKPaBHFdkR86KycyLLdsS6GKPl0MN+D4ILqy/JZkHEiR2Hiy1Y+2DW20v86lRcML4PhEpFiBDbTzQ15AK6fj/t69Ge1iwtx+QRm3/63hsVnik0kx0Z4wH4AMiRqRHfEFJdL6DXdwngcEAxUnnwIvSyugq5ncbKURSCWI2PgM+fIl9hrtsZRDCEDqwiPWQ7xZ8jOZ4emekJT1ln98xafsy3D1Z6fDwTHYrzJAQOxYVevg==
+target.talk.	172800	in	ns	ns03.gcd-dns.com.
+target.talk.	172800	in	ns	ns04.gcd-dns.com.
 tevapharm.talk.	172800	in	ns	ns3.tevapharm.com.
 tevapharm.talk.	172800	in	ns	ns4.tevapharm.com.
 tevapharm.talk.	172800	in	ns	ns5.tevapharm.com.
+tikkie.talk.	172800	in	ns	dns1.cscdns.net.
+tikkie.talk.	172800	in	ns	dns2.cscdns.net.
 tudor.talk.	172800	in	ns	dns1.p02.nsone.net.
 tudor.talk.	172800	in	ns	dns2.p02.nsone.net.
 tudor.talk.	172800	in	ns	dns3.p02.nsone.net.
@@ -149,4 +208,22 @@ vinci-concessions.talk.	172800	in	ns	ns-239-b.gandi.net.
 vinci.talk.	172800	in	ns	ns-1-b.gandi.net.
 vinci.talk.	172800	in	ns	ns-43-c.gandi.net.
 vinci.talk.	172800	in	ns	ns-56-a.gandi.net.
-talk.	172800	in	soa	dns1.nic.talk. hostmaster.nominet.org.uk. 1756233519 900 300 2419200 60
+vmware.talk.	172800	in	ns	edns161.ultradns.biz.
+vmware.talk.	172800	in	ns	edns161.ultradns.com.
+vmware.talk.	172800	in	ns	edns161.ultradns.net.
+vmware.talk.	172800	in	ns	edns161.ultradns.org.
+vmware.talk.	172800	in	ns	ns96.ultradns2.com.
+vmware.talk.	172800	in	ns	ns96.ultradns2.org.
+wondery.talk.	172800	in	ns	dns1.comlaude-dns.com.
+wondery.talk.	172800	in	ns	dns2.comlaude-dns.net.
+wondery.talk.	172800	in	ns	dns3.comlaude-dns.co.uk.
+wondery.talk.	172800	in	ns	dns4.comlaude-dns.eu.
+wood.talk.	172800	in	ns	ns1.101domain.com.
+wood.talk.	172800	in	ns	ns2.101domain.com.
+wrestlemania.talk.	172800	in	ns	ns1.wwe.com.
+wrestlemania.talk.	172800	in	ns	ns2.wwe.com.
+wrestlemania.talk.	172800	in	ns	ns3.wwe.com.
+wwe.talk.	172800	in	ns	ns1.wwe.com.
+wwe.talk.	172800	in	ns	ns2.wwe.com.
+wwe.talk.	172800	in	ns	ns3.wwe.com.
+talk.	172800	in	soa	dns1.nic.talk. hostmaster.nominet.org.uk. 1757005386 900 300 2419200 60
