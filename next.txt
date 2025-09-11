@@ -1,4 +1,4 @@
-next.	3600	in	soa	a0.nic.next. hostmaster.donuts.email. 1757034953 7200 900 1209600 3600
+next.	3600	in	soa	a0.nic.next. hostmaster.donuts.email. 1757552766 7200 900 1209600 3600
 a0.nic.next.	3600	in	a	65.22.112.62
 a0.nic.next.	3600	in	aaaa	2a01:8840:006e:0000:0000:0000:0000:0062
 a2.nic.next.	3600	in	a	65.22.115.62
@@ -28,7 +28,7 @@ isms.next.	3600	in	ns	ns-cloud-d2.googledomains.com.
 isms.next.	3600	in	ns	ns-cloud-d3.googledomains.com.
 isms.next.	3600	in	ns	ns-cloud-d4.googledomains.com.
 l904gq1s35g8s14c86ovko57ehconpdl.next.	3600	in	nsec3	1 1 0 73 L904GQ1S35G8S14C86OVKO57EHCONPDL NS SOA RRSIG DNSKEY NSEC3PARAM
-l904gq1s35g8s14c86ovko57ehconpdl.next.	3600	in	rrsig	NSEC3 8 2 3600 20250926012110 20250905002110 56613 next. HD/lNxVH8Z0mC3SxunZRTsEbiAMneHdkmjCvmu6/jLJ2WcPKPkvdPPm6i2wyD0T1tq/p5d8UqIBjZ4ycv3YQyX0OQsbnqKMGBqxkNF44On0rekhYNh1YmqcozwjDwoKpFnCH/z2HxtFpYLOmbKTh/+a9D+rjIkSPyCoRSZASRfY=
+l904gq1s35g8s14c86ovko57ehconpdl.next.	3600	in	rrsig	NSEC3 8 2 3600 20251002011125 20250911001125 56613 next. UQm/RUEwXB1uHKhPYBx9/XlbKBitTqpgha3fSKCTRd/F+Yg39CzzavDKVTd9zhQBNue8NTXALOrWbHCqxHNwhF+NAIKUYlr1GaIj3PU1Xcvj1NDcZkHKpaNdD1KdPpUrQKRpIDenDWmiNkRYW0rfiGgPwXkXFVH/a/eE4dYKoIs=
 neos.next.	3600	in	ns	ns1-04.azure-dns.com.
 neos.next.	3600	in	ns	ns2-04.azure-dns.net.
 neos.next.	3600	in	ns	ns3-04.azure-dns.org.
@@ -44,10 +44,10 @@ next.	3600	in	ns	a2.nic.next.
 next.	3600	in	ns	b0.nic.next.
 next.	3600	in	ns	c0.nic.next.
 next.	3600	in	nsec3param	1 0 0 73
-next.	3600	in	rrsig	DNSKEY 8 1 3600 20250922152030 20250901142030 39380 next. qniJ47zhoyDMQ6fNE9oi/sbmjmWDaDVF9WlDICQnUZLwdr8vN49b2017P2sgSgP7eDTDB5WtQ3tYr6ZHqVKle2a4+PrCCkHu+Y/n9Cxdjg2YvGkDlfvS+HfAH553IIj3nn9vGfrbic7SX+/FyR3Tfw+7n8THCQIWSbmWXL179Xam8iLOOaMW3a64QOTQIS1cnRGFrtVyRDWN9fy1pPQt0R6HgFC1ayFJMDTl3tO/z6hqoUiazXxKSsNKhz1D4Po+si1IAkuT0VTay8oLGW9CcWxAMsj0UK4Z3DU68keMrQcOHewtQIn4JQ9bAm9JPGNWrURal8XK9yFz0rzzYlen2g==
-next.	3600	in	rrsig	NS 8 1 3600 20250922152030 20250901142030 56613 next. SOEZqqb0XmZSmFZyCHAzDhz79TJFxm2f1QdYOc0kHf6Pp+/TKbca20K7aXUbH6gtJBAAvPy1UInm2xBZLWrEzM8Da+hV0AIFgXu5mwzIRqAsH5fSC01zvhsHURabQZrgt7ni3ZoOzpNOjhN67AdRl0rw5jrkBA8s+B6JL+dE910=
-next.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250922152030 20250901142030 56613 next. RnJAhFaJ2cNMXYd4ISpd4nU5v4Cw3fwQ8DGbNdPzbp8lDzfOqs75U+UmSabGCDUwtzD5W+AjnCMNwi/oyQMdGeIDZKU6p+szIiAtk2UCGzmG5892i2qT+WIL0r+588xX1ilhJsCzOo+xSdTnMSMLpQPi6lJdbb6faBkYIZhmkuA=
-next.	3600	in	rrsig	SOA 8 1 3600 20250926012110 20250905002110 56613 next. IjfxpfHcBZxsZ0oo6qnhsrGqXUktdY/fMJbMCSkIG2j0up5Mk+KS6L6o26kj1KS3O/cTiEymuhys0Rf1d5VnXTglHaGip4pTYg7X7l6vPLXw1GVBwxH/3cSQ6LpScXhI7wgFhnnZuEtnDUXufjDXkDcql9YA+ryl2bBkIgSFc1w=
+next.	3600	in	rrsig	DNSKEY 8 1 3600 20250930160203 20250909150203 39380 next. OW6LfII7ah9nPUF1QoevtqnH3s0Cjs002+dN9Xsfw+dC92LDsCSqGEzcqeJY456F8jAfhA9700BJTq3/e1wOkNeHA5XQQs4q5bQ/F6JmmXtXZnF8gXroBSfv3fxTAUvYoP3ourFqCp24TAousDDTkGRdjZHtmCbjz34JKn2na8sREoWcxZ2DMHdK7vT0pRFTxZEmnKeE+WCmtjJrLPWFTFy9C0cTgn/gMEEC+4W4nekqA2OlR7nuWaPVOIpYZVMTSXH23pLMJLFjKT+R9Wlnqcy2H4vAuQ+sPLNIrBf8rvQsK1i1I6tp58k9aspyKiLlgcvEODVAAd3PeqAVJdobvQ==
+next.	3600	in	rrsig	NS 8 1 3600 20250930160203 20250909150203 56613 next. bwYki1RXFSZvBUWVlDnkXoJHNvesKLK4bA18VSm/FdRiCpRWaDcT+s1MxUmcwaIfDqQYeE3iYclKy60/M06j/XOBuMYfViDLWNQWeXGwryMylApMmG0dmk37TRhQhH6hzwz2lNCiLzXSlUbrrxEGiboAD7hyktAIgFuYlrlxX+M=
+next.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930160203 20250909150203 56613 next. VzQ+JreZajj/RuSOSdqZa2j6lQHURBgHoCbqKJVZD42a4EjRTI6DJApiRT8hh6eEmsT7IjUGFSTsxHDHnTU5dE/LtYghsb/aVqBp2C2qu9pnIbE4Hpe5Hfy7TQnR+oa/JtnFlhUPs7EPxQ9b/n0feEo9/UzZ+w9CRb+HSzuAXdM=
+next.	3600	in	rrsig	SOA 8 1 3600 20251002011125 20250911001125 56613 next. C4xAm8zgnhtVps4QIFQR02E+lRsag6LpphyWFffhfMe9d5sqxhST/1h++IeJU70cqNus787e465ayTcPkSTNfpH9exWgM8XPoul16+w5/eTp4Jiz70dKd/JJP27wudgxVmpLtnfDTULHjX1AuLe1Tnb0qjuEkNltEVQhVxFiqmI=
 next.next.	3600	in	ns	udns1.cscdns.net.
 next.next.	3600	in	ns	udns2.cscdns.uk.
 nic.next.	3600	in	ns	a0.nic.next.
@@ -68,4 +68,4 @@ tp.next.	3600	in	ns	udns1.cscdns.net.
 tp.next.	3600	in	ns	udns2.cscdns.uk.
 www.next.	3600	in	ns	udns1.cscdns.net.
 www.next.	3600	in	ns	udns2.cscdns.uk.
-next.	3600	in	soa	a0.nic.next. hostmaster.donuts.email. 1757034953 7200 900 1209600 3600
+next.	3600	in	soa	a0.nic.next. hostmaster.donuts.email. 1757552766 7200 900 1209600 3600
