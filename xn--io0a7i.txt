@@ -1,4 +1,4 @@
-xn--io0a7i.	21600	in	soa	a.ngtld.cn. sysmgr.cnnic.cn. 2018816043 14400 3600 2419200 21600
+xn--io0a7i.	21600	in	soa	a.ngtld.cn. sysmgr.cnnic.cn. 2018816192 14400 3600 2419200 21600
 00.xn--io0a7i.	86400	in	ns	ns3.dns.com.
 00.xn--io0a7i.	86400	in	ns	ns4.dns.com.
 000.xn--io0a7i.	86400	in	ns	ns1.22.cn.
@@ -19,8 +19,8 @@ xn--io0a7i.	21600	in	soa	a.ngtld.cn. sysmgr.cnnic.cn. 2018816043 14400 3600 2419
 0421.xn--io0a7i.	86400	in	ns	dns22.hichina.com.
 0474.xn--io0a7i.	86400	in	ns	dns7.hichina.com.
 0474.xn--io0a7i.	86400	in	ns	dns8.hichina.com.
-05.xn--io0a7i.	86400	in	ns	pk3.22.cn.
-05.xn--io0a7i.	86400	in	ns	pk4.22.cn.
+05.xn--io0a7i.	86400	in	ns	ns1.22.cn.
+05.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 0517.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 0517.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 06.xn--io0a7i.	86400	in	ns	ns3.dns.com.
@@ -29,8 +29,8 @@ xn--io0a7i.	21600	in	soa	a.ngtld.cn. sysmgr.cnnic.cn. 2018816043 14400 3600 2419
 06030.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 08.xn--io0a7i.	86400	in	ns	ns3.dns.com.
 08.xn--io0a7i.	86400	in	ns	ns4.dns.com.
-09.xn--io0a7i.	86400	in	ns	pk3.22.cn.
-09.xn--io0a7i.	86400	in	ns	pk4.22.cn.
+09.xn--io0a7i.	86400	in	ns	ns1.22.cn.
+09.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 09889.xn--io0a7i.	86400	in	ns	ns41.8hy.cn.
 09889.xn--io0a7i.	86400	in	ns	ns42.8hy.cn.
 10000.xn--io0a7i.	86400	in	ns	ns1.22.cn.
@@ -545,6 +545,8 @@ chatgpt.xn--io0a7i.	86400	in	ns	dns15.hichina.com.
 chatgpt.xn--io0a7i.	86400	in	ns	dns16.hichina.com.
 chengshi.xn--io0a7i.	86400	in	ns	dns1.hichina.com.
 chengshi.xn--io0a7i.	86400	in	ns	dns2.hichina.com.
+chengyu.xn--io0a7i.	86400	in	ns	dns19.hichina.com.
+chengyu.xn--io0a7i.	86400	in	ns	dns20.hichina.com.
 chengziyinhang.xn--io0a7i.	86400	in	ns	ns1.8hy.cn.
 chengziyinhang.xn--io0a7i.	86400	in	ns	ns2.8hy.cn.
 chickensoup.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
@@ -1099,8 +1101,6 @@ hakakxjbzzhewaz.xn--io0a7i.	86400	in	ns	dns13.hichina.com.
 hakakxjbzzhewaz.xn--io0a7i.	86400	in	ns	dns14.hichina.com.
 hao.xn--io0a7i.	86400	in	ns	dns11.hichina.com.
 hao.xn--io0a7i.	86400	in	ns	dns12.hichina.com.
-hao123.xn--io0a7i.	86400	in	ns	ns1.expirationwarning.net.
-hao123.xn--io0a7i.	86400	in	ns	ns5.expirationwarning.net.
 haowang.xn--io0a7i.	86400	in	ns	chelsea.ns.cloudflare.com.
 haowang.xn--io0a7i.	86400	in	ns	patryk.ns.cloudflare.com.
 haowayou.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -1115,8 +1115,8 @@ havanaclub.xn--io0a7i.	86400	in	ns	ns01.brandshelter.com.
 havanaclub.xn--io0a7i.	86400	in	ns	ns02.brandshelter.net.
 hbdgjt.xn--io0a7i.	86400	in	ns	dns25.hichina.com.
 hbdgjt.xn--io0a7i.	86400	in	ns	dns26.hichina.com.
-hdd.xn--io0a7i.	86400	in	ns	dns27.hichina.com.
-hdd.xn--io0a7i.	86400	in	ns	dns28.hichina.com.
+hdd.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
+hdd.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
 hefa.xn--io0a7i.	86400	in	ns	dns17.hichina.com.
 hefa.xn--io0a7i.	86400	in	ns	dns18.hichina.com.
 heika.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
@@ -1288,6 +1288,10 @@ jiangshaofang.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 jiangshaofang.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 jiangshaofang.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 jiangshaofang.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
+jiangxilvyoupingtai.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
+jiangxilvyoupingtai.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
+jiangxilvyoupingtai.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
+jiangxilvyoupingtai.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 jiangxin.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 jiangxin.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 jiangxin.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -1500,6 +1504,8 @@ luoxin.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
 luoxin.xn--io0a7i.	86400	in	ns	dns9.hichina.com.
 luoxingroup.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
 luoxingroup.xn--io0a7i.	86400	in	ns	dns9.hichina.com.
+lvyoupingtai.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
+lvyoupingtai.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 lxy.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 lxy.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 lxy.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -1569,6 +1575,8 @@ motionmagic.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 motionmagic.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 motionmagic.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 motionmagic.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
+mount.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
+mount.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 moutai.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 moutai.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 mouvent.xn--io0a7i.	86400	in	ns	ns-137-c.gandi.net.
@@ -1582,8 +1590,8 @@ multiverse.xn--io0a7i.	86400	in	ns	dns27.hichina.com.
 multiverse.xn--io0a7i.	86400	in	ns	dns28.hichina.com.
 mutu.xn--io0a7i.	86400	in	ns	dns3.hichina.com.
 mutu.xn--io0a7i.	86400	in	ns	dns4.hichina.com.
-mvs.xn--io0a7i.	86400	in	ns	dns11.hichina.com.
-mvs.xn--io0a7i.	86400	in	ns	dns12.hichina.com.
+mvs.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
+mvs.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
 myaiclass.xn--io0a7i.	86400	in	ns	dns1.hichina.com.
 myaiclass.xn--io0a7i.	86400	in	ns	dns2.hichina.com.
 myhuaweicloud.xn--io0a7i.	86400	in	ns	ns1.huaweicloud-dns.cn.
@@ -1755,7 +1763,6 @@ qqxczx.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 qqxczx.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 qstheory.xn--io0a7i.	86400	in	ns	dns1.hichina.com.
 qstheory.xn--io0a7i.	86400	in	ns	dns2.hichina.com.
-quanzhouxieye.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 quickloader.xn--io0a7i.	86400	in	ns	a.dns.gandi.net.
 quickloader.xn--io0a7i.	86400	in	ns	b.dns.gandi.net.
 quickloader.xn--io0a7i.	86400	in	ns	c.dns.gandi.net.
@@ -1891,8 +1898,6 @@ shengbaoluojituan.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 shengbaoluojituan.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 shengbaoluojituan.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 shengbaoluojituan.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
-shengpai.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
-shengpai.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
 shigfc.xn--io0a7i.	86400	in	ns	dns19.hichina.com.
 shigfc.xn--io0a7i.	86400	in	ns	dns20.hichina.com.
 shishangshuma.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -1946,8 +1951,6 @@ skycn.xn--io0a7i.	86400	in	ns	ns4.brandshelter.net.
 skycn.xn--io0a7i.	86400	in	ns	ns5.brandshelter.us.
 skyworth.xn--io0a7i.	86400	in	ns	ns1.8hy.cn.
 skyworth.xn--io0a7i.	86400	in	ns	ns2.8hy.cn.
-slt.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
-slt.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
 smbcs.xn--io0a7i.	86400	in	ns	dns31.hichina.com.
 smbcs.xn--io0a7i.	86400	in	ns	dns32.hichina.com.
 smics.xn--io0a7i.	86400	in	ns	ns1.8hy.cn.
@@ -2018,8 +2021,6 @@ taikangluojia.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 taikangluojia.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 talentech.xn--io0a7i.	86400	in	ns	dns7.hichina.com.
 talentech.xn--io0a7i.	86400	in	ns	dns8.hichina.com.
-taloph.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
-taloph.xn--io0a7i.	86400	in	ns	v1s2.xundns.com.
 tamfelt.xn--io0a7i.	86400	in	ns	ns1.plat.fi.
 tamfelt.xn--io0a7i.	86400	in	ns	ns2.plat.fi.
 tamfelt.xn--io0a7i.	86400	in	ns	ns3.plat.fi.
@@ -2381,8 +2382,8 @@ wsiis.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
 wsiis.xn--io0a7i.	86400	in	ns	dns9.hichina.com.
 wsnsyh.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 wsnsyh.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
-wsr.xn--io0a7i.	86400	in	ns	dns29.hichina.com.
-wsr.xn--io0a7i.	86400	in	ns	dns30.hichina.com.
+wsr.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
+wsr.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
 wsy.xn--io0a7i.	86400	in	ns	dns15.hichina.com.
 wsy.xn--io0a7i.	86400	in	ns	dns16.hichina.com.
 wtoun.xn--io0a7i.	86400	in	ns	dns25.hichina.com.
@@ -2568,8 +2569,8 @@ xn--0lq286e.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--0lq4a652ac63b.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--0lq70e.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
 xn--0lq70e.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
-xn--0lq70em3xf5v.xn--io0a7i.	86400	in	ns	hedda.dnspod.net.
-xn--0lq70em3xf5v.xn--io0a7i.	86400	in	ns	popcorn.dnspod.net.
+xn--0lq70em3xf5v.xn--io0a7i.	86400	in	ns	ns1.pending-renewal-domain.com.
+xn--0lq70em3xf5v.xn--io0a7i.	86400	in	ns	ns2.pending-renewal-domain.com.
 xn--0lq70er5j1s7c.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 xn--0lq70er5j1s7c.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
 xn--0lqr4kw2hjukuo3c.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -2581,8 +2582,8 @@ xn--0lqx4ktpax39s.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--0lqx4ktpax39s.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--0m4ap1g.xn--io0a7i.	86400	in	ns	ns3.dns.com.
 xn--0m4ap1g.xn--io0a7i.	86400	in	ns	ns4.dns.com.
-xn--0mzw45b.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
-xn--0mzw45b.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
+xn--0mzw45b.xn--io0a7i.	86400	in	ns	dns7.hichina.com.
+xn--0mzw45b.xn--io0a7i.	86400	in	ns	dns8.hichina.com.
 xn--0mzy01b.xn--io0a7i.	86400	in	ns	ns1.cnolnic.net.
 xn--0mzy01b.xn--io0a7i.	86400	in	ns	ns2.cnolnic.net.
 xn--0ns37o3xr9kb7wz.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
@@ -2590,8 +2591,6 @@ xn--0ns37o3xr9kb7wz.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--0ns37o3xr9kb7wzv0oggv.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--0ns54ggvw6op.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--0ns54ggvw6op.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
-xn--0ns97qflpp9a.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
-xn--0ns97qflpp9a.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--0nsp8ar77c8pgfy1b.xn--io0a7i.	86400	in	ns	ns1.8hy.hk.
 xn--0nsp8ar77c8pgfy1b.xn--io0a7i.	86400	in	ns	ns2.8hy.hk.
 xn--0nst0ppvroyf.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -2805,8 +2804,8 @@ xn--11x120b.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--11x120b.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--11xaa.xn--io0a7i.	86400	in	ns	stone.dnspod.net.
 xn--11xaa.xn--io0a7i.	86400	in	ns	van.dnspod.net.
-xn--11xm0z05m.xn--io0a7i.	86400	in	ns	ns1.yumidns.com.
-xn--11xm0z05m.xn--io0a7i.	86400	in	ns	ns2.yumidns.com.
+xn--11xm0z05m.xn--io0a7i.	86400	in	ns	ns100.webnic.cc.
+xn--11xm0z05m.xn--io0a7i.	86400	in	ns	ns101.webnic.cc.
 xn--11xm61a.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--11xm61a.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
 xn--11xn3m.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
@@ -3100,16 +3099,10 @@ xn--1iut5glft0a.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--1iut5glft0a.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--1iuv6i.xn--io0a7i.	86400	in	ns	ns1.cnolnic.com.
 xn--1iuv6i.xn--io0a7i.	86400	in	ns	ns2.cnolnic.com.
-xn--1iuv6i0wg3uf.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
-xn--1iuv6i0wg3uf.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
-xn--1iuv6i0wg3uf.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
-xn--1iuv6i0wg3uf.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--1iuv6i10oc8k.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--1iuv6i10oc8k.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--1iuv6i10oc8k.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--1iuv6i10oc8k.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
-xn--1iuv6ie42b.xn--io0a7i.	86400	in	ns	expdns1.expdns.net.
-xn--1iuv6ie42b.xn--io0a7i.	86400	in	ns	expdns2.expdns.net.
 xn--1iuv6ilzzyex.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--1iuv6ilzzyex.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--1iuv6inyfem9a.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
@@ -3549,8 +3542,6 @@ xn--1tq374c79rlgaj17i.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--1tq84jq9qvgy0x0a.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--1tq97pz0mfb245u.xn--io0a7i.	86400	in	ns	ns1.sfn.cn.
 xn--1tq97pz0mfb245u.xn--io0a7i.	86400	in	ns	ns2.sfn.cn.
-xn--1ts778c.xn--io0a7i.	86400	in	ns	ns1-domain-expired.myhostadmin.net.
-xn--1ts778c.xn--io0a7i.	86400	in	ns	ns2-domain-expired.myhostadmin.net.
 xn--1ys122d4ql.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--1ys122d4ql.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--1ys122d4ql.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -3695,6 +3686,8 @@ xn--29ss6a.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 xn--29ss6a.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
 xn--29su63eggfv5v.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--29su63eggfv5v.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--29su81e0lw.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
+xn--29su81e0lw.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--29sv68k.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--29sv68k.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
 xn--29svb.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -3840,16 +3833,16 @@ xn--2lq604j4kf39q.xn--io0a7i.	86400	in	ns	ns1.nowcndns.com.
 xn--2lq604j4kf39q.xn--io0a7i.	86400	in	ns	ns2.nowcndns.com.
 xn--2lw02sw4knqn.xn--io0a7i.	86400	in	ns	ns7.cnmsn.net.
 xn--2lw02sw4knqn.xn--io0a7i.	86400	in	ns	ns8.cnmsn.net.
-xn--2lw148e.xn--io0a7i.	86400	in	ns	ns3.dns.com.
-xn--2lw148e.xn--io0a7i.	86400	in	ns	ns4.dns.com.
+xn--2lw148e.xn--io0a7i.	86400	in	ns	exp1.ename.net.
+xn--2lw148e.xn--io0a7i.	86400	in	ns	exp2.ename.net.
 xn--2lw274b.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--2lw274b.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--2lw274b.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--2lw274b.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--2lw46v.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
 xn--2lw46v.xn--io0a7i.	86400	in	ns	dns9.hichina.com.
-xn--2lw57br8j3o4a.xn--io0a7i.	86400	in	ns	ns3.dns.com.
-xn--2lw57br8j3o4a.xn--io0a7i.	86400	in	ns	ns4.dns.com.
+xn--2lw57br8j3o4a.xn--io0a7i.	86400	in	ns	exp1.ename.net.
+xn--2lw57br8j3o4a.xn--io0a7i.	86400	in	ns	exp2.ename.net.
 xn--2lw62s.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--2lw62s.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--2lwt33fh4c.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -3937,8 +3930,8 @@ xn--2qu01w9xjn0v.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--2qu01w9xjn0v.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--2qu092boldp72c.xn--io0a7i.	86400	in	ns	dns1.hichina.com.
 xn--2qu092boldp72c.xn--io0a7i.	86400	in	ns	dns2.hichina.com.
-xn--2qu14krqc4tah9w78dp7j.xn--io0a7i.	86400	in	ns	dns3.4cun.com.
-xn--2qu14krqc4tah9w78dp7j.xn--io0a7i.	86400	in	ns	dns4.51dns.top.
+xn--2qu14krqc4tah9w78dp7j.xn--io0a7i.	86400	in	ns	ns1.exp.4cun.com.
+xn--2qu14krqc4tah9w78dp7j.xn--io0a7i.	86400	in	ns	ns2.exp.4cun.com.
 xn--2qu298bgmbc78a.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 xn--2qu298bgmbc78a.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
 xn--2qu37h.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
@@ -4081,8 +4074,8 @@ xn--2ywv59e.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--2ywv59e.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--2zyr5r.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--2zyr5r.xn--io0a7i.	86400	in	ns	ns2.22.cn.
-xn--2zyt96a.xn--io0a7i.	86400	in	ns	ns7.cnmsn.net.
-xn--2zyt96a.xn--io0a7i.	86400	in	ns	ns8.cnmsn.net.
+xn--2zyt96a.xn--io0a7i.	86400	in	ns	ns1.pending-renewal-domain.com.
+xn--2zyt96a.xn--io0a7i.	86400	in	ns	ns2.pending-renewal-domain.com.
 xn--3-o27ax1p3b612ae8kklg1ycf66aml7a291b.xn--io0a7i.	86400	in	ns	ns1-domain-expired.myhostadmin.net.
 xn--3-o27ax1p3b612ae8kklg1ycf66aml7a291b.xn--io0a7i.	86400	in	ns	ns2-domain-expired.myhostadmin.net.
 xn--3-vw6a30n2rb72je6d9wokjhmcs5o9c936hh8l.xn--io0a7i.	86400	in	ns	ns1-domain-expired.myhostadmin.net.
@@ -4119,8 +4112,6 @@ xn--35tt8x.xn--io0a7i.	86400	in	ns	n1.xundns.com.
 xn--35tt8x.xn--io0a7i.	86400	in	ns	n2.xundns.com.
 xn--35wo34e.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
 xn--35wo34e.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
-xn--360-bm0e977ffo4cvmi.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
-xn--360-bm0e977ffo4cvmi.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
 xn--360-gw1eq2ubribt7acv1c.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--360-gw1eq2ubribt7acv1c.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--360-gw1eq2ubribt7acv1c.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -4211,8 +4202,6 @@ xn--3bs32kw7b8t6egmce4shga86m.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--3bs32kw7b8t6egmce4shga86m.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--3bs32kwu8btejf0c45d.xn--io0a7i.	86400	in	ns	dns25.hichina.com.
 xn--3bs32kwu8btejf0c45d.xn--io0a7i.	86400	in	ns	dns26.hichina.com.
-xn--3bs33yvzsgtlea101w.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
-xn--3bs33yvzsgtlea101w.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--3bs348bs15afqb.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--3bs348bs15afqb.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--3bs356amhw3er.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -4227,6 +4216,8 @@ xn--3bs35yfl6bn8a.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--3bs35yfl6bn8a.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--3bs35yfl6bn8a.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--3bs35yfl6bn8a.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
+xn--3bs35yuq8af9i.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
+xn--3bs35yuq8af9i.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--3bs37iz5shz2b.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--3bs37iz5shz2b.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--3bs3f22wtv3d.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -4867,6 +4858,8 @@ xn--3lru57bjrdt66c.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--3lru57bjrdt66c.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--3mq128frgl.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--3mq128frgl.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--3mq32isuj.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
+xn--3mq32isuj.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--3mq564n.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--3mq564n.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--3mq564n.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -4947,6 +4940,8 @@ xn--3oqt49awjkrd530jdgs.xn--io0a7i.	86400	in	ns	ns1.zxnic.net.
 xn--3oqt49awjkrd530jdgs.xn--io0a7i.	86400	in	ns	ns2.zxnic.net.
 xn--3oqv3qrp1au13a.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
 xn--3oqv3qrp1au13a.xn--io0a7i.	86400	in	ns	v1s2.xundns.com.
+xn--3oqv85e.xn--io0a7i.	86400	in	ns	n1.xundns.com.
+xn--3oqv85e.xn--io0a7i.	86400	in	ns	n2.xundns.com.
 xn--3oqw6k.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--3oqw6k.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--3oqw6k.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -5265,8 +5260,6 @@ xn--49sp3fna4310akge.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--49sp3fna4310akge.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 xn--49sq21ephg0ybs61b.xn--io0a7i.	86400	in	ns	ns1.everdns.com.
 xn--49sq21ephg0ybs61b.xn--io0a7i.	86400	in	ns	ns2.everdns.com.
-xn--49sq81ee7obc.xn--io0a7i.	86400	in	ns	ns1-domain-expired.myhostadmin.net.
-xn--49sq81ee7obc.xn--io0a7i.	86400	in	ns	ns2-domain-expired.myhostadmin.net.
 xn--49sq92bnzn.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--49sq92bnzn.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--49sr04l.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
@@ -5499,8 +5492,8 @@ xn--4gq28ai2dzz5a84m.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 xn--4gq28ai2dzz5a84m.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
 xn--4gq28ll3g.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--4gq28ll3g.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
-xn--4gq2pn3imgr1yhvl.xn--io0a7i.	86400	in	ns	ns1.cnolnic.net.
-xn--4gq2pn3imgr1yhvl.xn--io0a7i.	86400	in	ns	ns2.cnolnic.net.
+xn--4gq2pn3imgr1yhvl.xn--io0a7i.	86400	in	ns	expire1.cnolnic.com.
+xn--4gq2pn3imgr1yhvl.xn--io0a7i.	86400	in	ns	expire2.cnolnic.com.
 xn--4gq319cfse.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--4gq319cfse.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--4gq31dmxe0vaj87ai68flyi.xn--io0a7i.	86400	in	ns	ns7.cnmsn.net.
@@ -5729,6 +5722,8 @@ xn--4kqa.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--4kqa.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 xn--4kqj2dw0y5sw8ffor5c740a.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--4kqj2dw0y5sw8ffor5c740a.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
+xn--4kqq42hque.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--4kqq42hque.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--4kqt5gxt6arzav47j3fi.xn--io0a7i.	86400	in	ns	ns7.cnolnic.net.
 xn--4kqt5gxt6arzav47j3fi.xn--io0a7i.	86400	in	ns	ns8.cnolnic.net.
 xn--4kqt7kfyeqolnje.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -5753,6 +5748,8 @@ xn--4kr132k.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
 xn--4kr132k.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--4kr499e.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--4kr499e.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
+xn--4kr513c.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--4kr513c.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--4krp9pgsw4ne.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
 xn--4krp9pgsw4ne.xn--io0a7i.	86400	in	ns	dns9.hichina.com.
 xn--4krr65da471i.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -5839,8 +5836,8 @@ xn--4oq645e9lm.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--4oq664b.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
 xn--4oq664b.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--4oq664bd0a356h.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
-xn--4oq93mys5abdn.xn--io0a7i.	86400	in	ns	hedda.dnspod.net.
-xn--4oq93mys5abdn.xn--io0a7i.	86400	in	ns	popcorn.dnspod.net.
+xn--4oq93mys5abdn.xn--io0a7i.	86400	in	ns	ns1.pending-renewal-domain.com.
+xn--4oq93mys5abdn.xn--io0a7i.	86400	in	ns	ns2.pending-renewal-domain.com.
 xn--4oq94dc79g.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--4oq94dc79g.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 xn--4oqa215b.xn--io0a7i.	86400	in	ns	dns3.hichina.com.
@@ -5879,8 +5876,8 @@ xn--4oqz13n.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--4oqz13n.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--4oqz9f.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--4oqz9f.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
-xn--4oqz9f9vcly0f.xn--io0a7i.	86400	in	ns	hedda.dnspod.net.
-xn--4oqz9f9vcly0f.xn--io0a7i.	86400	in	ns	popcorn.dnspod.net.
+xn--4oqz9f9vcly0f.xn--io0a7i.	86400	in	ns	ns1.pending-renewal-domain.com.
+xn--4oqz9f9vcly0f.xn--io0a7i.	86400	in	ns	ns2.pending-renewal-domain.com.
 xn--4oqz9f9vcx6i8k0bcwt.xn--io0a7i.	86400	in	ns	hedda.dnspod.net.
 xn--4oqz9f9vcx6i8k0bcwt.xn--io0a7i.	86400	in	ns	popcorn.dnspod.net.
 xn--4p3a.xn--io0a7i.	86400	in	ns	dns17.hichina.com.
@@ -6593,8 +6590,8 @@ xn--55qzyk0b1y5bj14a83hn3rfgh.xn--io0a7i.	86400	in	ns	ns1.8hy.hk.
 xn--55qzyk0b1y5bj14a83hn3rfgh.xn--io0a7i.	86400	in	ns	ns2.8hy.hk.
 xn--55tt8x.xn--io0a7i.	86400	in	ns	n1.xundns.com.
 xn--55tt8x.xn--io0a7i.	86400	in	ns	n2.xundns.com.
-xn--56v146b.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
-xn--56v146b.xn--io0a7i.	86400	in	ns	dns9.hichina.com.
+xn--56v146b.xn--io0a7i.	86400	in	ns	exp1.ename.net.
+xn--56v146b.xn--io0a7i.	86400	in	ns	exp2.ename.net.
 xn--57q7lk42j4vb.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--57q7lk42j4vb.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--58-ln6co6l.xn--io0a7i.	86400	in	ns	ns1.cnolnic.net.
@@ -6648,10 +6645,6 @@ xn--5br681m.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--5br681m.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--5br681m.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--5br681m.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
-xn--5br695a.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
-xn--5br695a.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
-xn--5br695a.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
-xn--5br695a.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--5br695a6u5a.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--5br695a6u5a.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 xn--5br777a.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
@@ -6662,6 +6655,8 @@ xn--5brp31b5sek1t.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--5brp31b5sek1t.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--5brp31bpvciq2a.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
 xn--5brp31bpvciq2a.xn--io0a7i.	86400	in	ns	v1s2.xundns.com.
+xn--5brp51b.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--5brp51b.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--5brq5od9kj2p.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--5brq5od9kj2p.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--5brqmx2ql0pgveezkr42e.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
@@ -6712,6 +6707,10 @@ xn--5bx907d.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--5bx907d.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--5bx907d.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--5bx907d.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
+xn--5bxz35f.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
+xn--5bxz35f.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
+xn--5bxz35f.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
+xn--5bxz35f.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--5cxa.xn--io0a7i.	86400	in	ns	ns2.guoxuwang.com.
 xn--5cxa.xn--io0a7i.	86400	in	ns	ns3.guoxuwang.com.
 xn--5cxa.xn--io0a7i.	86400	in	ns	ns4.guoxuwang.com.
@@ -7011,6 +7010,8 @@ xn--5nxs59e.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--5nxs59e.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 xn--5nxz5x.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--5nxz5x.xn--io0a7i.	86400	in	ns	ns2.22.cn.
+xn--5oq03j.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--5oq03j.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--5oq68fvy4cqeq.xn--io0a7i.	86400	in	ns	dns3.hichina.com.
 xn--5oq68fvy4cqeq.xn--io0a7i.	86400	in	ns	dns4.hichina.com.
 xn--5qr023j.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -7337,6 +7338,8 @@ xn--6frwjqw41nkxhkr1dgdlsle833a.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--6frwjqw41nkxhkr1dgdlsle833a.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--6frwjqw522akua005a211atthbos.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--6frwjqw522akua005a211atthbos.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
+xn--6frwjt0ksxrp16a.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
+xn--6frwjt0ksxrp16a.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--6frx5av5nwsn5sq720c.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 xn--6frx5av5nwsn5sq720c.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
 xn--6frx5rq87a0tj.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
@@ -7420,8 +7423,6 @@ xn--6kr773df9lt2iu3u.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--6kr773df9lt2iu3u.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--6kr867m.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--6kr867m.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
-xn--6kr88kv6sh61c.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
-xn--6kr88kv6sh61c.xn--io0a7i.	86400	in	ns	v1s2.xundns.com.
 xn--6kro28e.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--6kro28e.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--6kro47e61qzlf.xn--io0a7i.	86400	in	ns	ns1.sfn.cn.
@@ -7572,10 +7573,14 @@ xn--6mrra232af1uyk9c.xn--io0a7i.	86400	in	ns	ns7.cnolnic.net.
 xn--6mrra232af1uyk9c.xn--io0a7i.	86400	in	ns	ns8.cnolnic.net.
 xn--6mwu03e.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--6mwu03e.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
+xn--6myv02e.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
+xn--6myv02e.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--6n2an4ee9l.xn--io0a7i.	86400	in	ns	ns1.8hy.cn.
 xn--6n2an4ee9l.xn--io0a7i.	86400	in	ns	ns2.8hy.cn.
 xn--6nq04jp3jjqaw71ientqtkd7l.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--6nq04jp3jjqaw71ientqtkd7l.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
+xn--6nq238h.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--6nq238h.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--6nq259l.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--6nq259l.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 xn--6nq640dz3h62g.xn--io0a7i.	86400	in	ns	ns1.bodis.com.
@@ -7701,8 +7706,6 @@ xn--6oqz0dv5ag13a1jhuq5dluppqp.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--6oqz0dv5ag13a1jhuq5dluppqp.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--6or02fjue.xn--io0a7i.	86400	in	ns	dns7.hichina.com.
 xn--6or02fjue.xn--io0a7i.	86400	in	ns	dns8.hichina.com.
-xn--6or180d0tm.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
-xn--6or180d0tm.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--6or25a52m03aq91frh4bx4n.xn--io0a7i.	86400	in	ns	ns2.east.net.
 xn--6or25a52m03aq91frh4bx4n.xn--io0a7i.	86400	in	ns	ns2.east.net.cn.
 xn--6or3o21dv1auz6e080byhqtto.xn--io0a7i.	86400	in	ns	dns1.cscdns.net.
@@ -7912,10 +7915,10 @@ xn--6xww7as83cxhp.xn--io0a7i.	86400	in	ns	ns11.72dns.com.
 xn--6xww7as83cxhp.xn--io0a7i.	86400	in	ns	ns12.72dns.com.
 xn--6xwx14h.xn--io0a7i.	86400	in	ns	ns1.01isp.com.
 xn--6xwx14h.xn--io0a7i.	86400	in	ns	ns2.01isp.net.
-xn--6yv54d5o.xn--io0a7i.	86400	in	ns	dns3.4cun.com.
-xn--6yv54d5o.xn--io0a7i.	86400	in	ns	dns4.51dns.top.
-xn--6yv54d5os4sesd.xn--io0a7i.	86400	in	ns	dns3.4cun.com.
-xn--6yv54d5os4sesd.xn--io0a7i.	86400	in	ns	dns4.51dns.top.
+xn--6yv54d5o.xn--io0a7i.	86400	in	ns	ns1.exp.4cun.com.
+xn--6yv54d5o.xn--io0a7i.	86400	in	ns	ns2.exp.4cun.com.
+xn--6yv54d5os4sesd.xn--io0a7i.	86400	in	ns	ns1.exp.4cun.com.
+xn--6yv54d5os4sesd.xn--io0a7i.	86400	in	ns	ns2.exp.4cun.com.
 xn--6yvo94fikbdh.xn--io0a7i.	86400	in	ns	ns1.dns.com.cn.
 xn--6yvo94fikbdh.xn--io0a7i.	86400	in	ns	ns2.dns.com.cn.
 xn--6yvs10brin.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -8262,10 +8265,6 @@ xn--7hv738fh5b.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--7hv738fh5b.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--7hv779c.xn--io0a7i.	86400	in	ns	ns1.huaweicloud-dns.cn.
 xn--7hv779c.xn--io0a7i.	86400	in	ns	ns1.huaweicloud-dns.com.
-xn--7hv90a154f4gg.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
-xn--7hv90a154f4gg.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
-xn--7hv90a154f4gg.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
-xn--7hv90a154f4gg.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--7hvn2a044fl4c.xn--io0a7i.	86400	in	ns	apollo.lvs.dupont.com.
 xn--7hvn2a044fl4c.xn--io0a7i.	86400	in	ns	dnsauth1.sys.gtei.net.
 xn--7hvn2a044fl4c.xn--io0a7i.	86400	in	ns	dnsauth2.sys.gtei.net.
@@ -8514,6 +8513,8 @@ xn--7qv743j.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--7qv743j.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 xn--7qvn9p483a.xn--io0a7i.	86400	in	ns	ns1.ckp.hk.
 xn--7qvn9p483a.xn--io0a7i.	86400	in	ns	ns5.ckp.hk.
+xn--7qvp3up40ap5fd7c.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
+xn--7qvp3up40ap5fd7c.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 xn--7qvv9r.xn--io0a7i.	86400	in	ns	dns21.hichina.com.
 xn--7qvv9r.xn--io0a7i.	86400	in	ns	dns22.hichina.com.
 xn--7qvx9vfoltzqfzk.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
@@ -8638,8 +8639,6 @@ xn--8ey35noyfla.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--8ey35noyfla.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--8ey574ae7g7yepsh.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 xn--8ey574ae7g7yepsh.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
-xn--8ey86ap0r.xn--io0a7i.	86400	in	ns	expire1.cnolnic.com.
-xn--8ey86ap0r.xn--io0a7i.	86400	in	ns	expire2.cnolnic.com.
 xn--8eyn03bs6d7qf.xn--io0a7i.	86400	in	ns	ns1.everdns.com.
 xn--8eyn03bs6d7qf.xn--io0a7i.	86400	in	ns	ns2.everdns.com.
 xn--8eyq94c.xn--io0a7i.	86400	in	ns	ns1.22.cn.
@@ -8814,6 +8813,8 @@ xn--8prr0j324b.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--8prr0j324b.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--8prr0jq4fov7a.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--8prr0jq4fov7a.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--8prs50h.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--8prs50h.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--8prt2aq6t.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--8prt2aq6t.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--8pru15l45bfj.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -8863,6 +8864,8 @@ xn--8tt231ipja.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--8tt231ipja.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--8tt27oxvrfrz.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--8tt27oxvrfrz.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
+xn--8tt595h.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--8tt595h.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--8ttr17bo9b6a.xn--io0a7i.	86400	in	ns	dns3.4cun.com.
 xn--8ttr17bo9b6a.xn--io0a7i.	86400	in	ns	dns4.51dns.top.
 xn--8ttr2h4zbzy8a6lzzsn.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
@@ -8927,6 +8930,10 @@ xn--8uqq99k.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--8uqq99k.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 xn--8uqq99ka181o.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--8uqq99ka181o.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--8uqr2ol1e6vbkzj483c.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
+xn--8uqr2ol1e6vbkzj483c.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
+xn--8uqr2ol1e6vbkzj483c.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
+xn--8uqr2ol1e6vbkzj483c.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--8uqr8zktninrozsz9o.xn--io0a7i.	86400	in	ns	dns7.hichina.com.
 xn--8uqr8zktninrozsz9o.xn--io0a7i.	86400	in	ns	dns8.hichina.com.
 xn--8uqs08a6ig179a.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -8939,6 +8946,10 @@ xn--8uqu18c36it8a.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--8uqu18c36it8a.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--8uqu18c36it8a272a.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--8uqu18c36it8a272a.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--8uqu49bw8wutea517w.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
+xn--8uqu49bw8wutea517w.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
+xn--8uqu49bw8wutea517w.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
+xn--8uqu49bw8wutea517w.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--8uqv39f.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--8uqv39f.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--8uqv5q2vs11x33d.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
@@ -9309,6 +9320,7 @@ xn--9iq509jmop.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--9iq509jmop.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 xn--9iq639f.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--9iq639f.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
+xn--9iq78hi3gbwc6wnc5g.xn--io0a7i.	86400	in	ns	mns.xinnet.com.
 xn--9iq853a8ni.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--9iq853a8ni.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
 xn--9iq89ebt6cltb.xn--io0a7i.	86400	in	ns	ns7.alidns.com.
@@ -9343,6 +9355,7 @@ xn--9iqq4luol3oc.xn--io0a7i.	86400	in	ns	ns1.huaweicloud-dns.cn.
 xn--9iqq4luol3oc.xn--io0a7i.	86400	in	ns	ns1.huaweicloud-dns.com.
 xn--9iqq59agx1aqrx.xn--io0a7i.	86400	in	ns	dns1.cscdns.net.
 xn--9iqq59agx1aqrx.xn--io0a7i.	86400	in	ns	dns2.cscdns.net.
+xn--9iqq83aqmj.xn--io0a7i.	86400	in	ns	mns.xinnet.com.
 xn--9iqr1yq4e.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--9iqr1yq4e.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--9iqr63atzo.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
@@ -9475,6 +9488,8 @@ xn--9kq29ik71abuz.xn--io0a7i.	86400	in	ns	a.ezdnscenter.com.
 xn--9kq29ik71abuz.xn--io0a7i.	86400	in	ns	b.ezdnscenter.com.
 xn--9kq323b19j3r7a.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--9kq323b19j3r7a.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--9kq342atzh.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
+xn--9kq342atzh.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--9kq39i38u4yw23d.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--9kq39i38u4yw23d.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--9kq39i3rn2iv.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -10345,10 +10360,14 @@ xn--ai-ub3cl61ae1v.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--ai-ub3cl61ae1v.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--ai-ub3ct01cjjm.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--ai-ub3ct01cjjm.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
+xn--ai-v62dq68m.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
+xn--ai-v62dq68m.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--ai-x67dq38g.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--ai-x67dq38g.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--ai-yo3c219fum3a.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--ai-yo3c219fum3a.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
+xn--al-lz4cm62k.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
+xn--al-lz4cm62k.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--amazon-8i8ig185bqsta.xn--io0a7i.	86400	in	ns	ns1.markmonitor.com.
 xn--amazon-8i8ig185bqsta.xn--io0a7i.	86400	in	ns	ns3.markmonitor.com.
 xn--amazon-8i8ig185bqsta.xn--io0a7i.	86400	in	ns	ns4.markmonitor.com.
@@ -10359,12 +10378,8 @@ xn--anddejar-er2m611hlvj.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--anddejar-er2m611hlvj.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--app-020it7h.xn--io0a7i.	86400	in	ns	hedda.dnspod.net.
 xn--app-020it7h.xn--io0a7i.	86400	in	ns	popcorn.dnspod.net.
-xn--app-128d7l715a5x1amwzwsf002eykf.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
-xn--app-128d7l715a5x1amwzwsf002eykf.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
-xn--app-128d7l715a5x1amwzwsf002eykf.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
-xn--app-128d7l715a5x1amwzwsf002eykf.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
-xn--app-128d7l715a5x1amwzwsf002eykf.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
-xn--app-128d7l715a5x1amwzwsf002eykf.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
+xn--app-128d7l715a5x1amwzwsf002eykf.xn--io0a7i.	86400	in	ns	ns1-domain-expired.myhostadmin.net.
+xn--app-128d7l715a5x1amwzwsf002eykf.xn--io0a7i.	86400	in	ns	ns2-domain-expired.myhostadmin.net.
 xn--app-bk9dqg213o.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
 xn--app-bk9dqg213o.xn--io0a7i.	86400	in	ns	dns9.hichina.com.
 xn--april-0k1h5710a.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -10479,8 +10494,6 @@ xn--b0tu52akmcgyq.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--b0tu52akmcgyq.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--b0tv05a.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--b0tv05a.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
-xn--b0tv4ui4ob2z.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
-xn--b0tv4ui4ob2z.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--b0tv62j.xn--io0a7i.	86400	in	ns	ns1.ckp.hk.
 xn--b0tv62j.xn--io0a7i.	86400	in	ns	ns5.ckp.hk.
 xn--b1v32r4rcd83c.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -10707,8 +10720,8 @@ xn--bjqz66g30vbwg.xn--io0a7i.	86400	in	ns	ns1.cnolnic.net.
 xn--bjqz66g30vbwg.xn--io0a7i.	86400	in	ns	ns2.cnolnic.net.
 xn--bjqz7gq24axnw.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--bjqz7gq24axnw.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
-xn--bkx414adjr.xn--io0a7i.	86400	in	ns	ns3.dns.com.
-xn--bkx414adjr.xn--io0a7i.	86400	in	ns	ns4.dns.com.
+xn--bkx414adjr.xn--io0a7i.	86400	in	ns	exp1.ename.net.
+xn--bkx414adjr.xn--io0a7i.	86400	in	ns	exp2.ename.net.
 xn--blq26zc2o641b.xn--io0a7i.	86400	in	ns	ns1.dnsip.com.
 xn--blq26zc2o641b.xn--io0a7i.	86400	in	ns	ns2.dnsip.com.
 xn--blq42l7zjhi8a8bb.xn--io0a7i.	86400	in	ns	ns1.everdns.com.
@@ -10784,14 +10797,16 @@ xn--bnq875cukl.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
 xn--bnq875cukl.xn--io0a7i.	86400	in	ns	dns9.hichina.com.
 xn--bnq875czl4afce.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--bnq875czl4afce.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
-xn--bnqr41hhhnplb.xn--io0a7i.	86400	in	ns	dns17.hichina.com.
-xn--bnqr41hhhnplb.xn--io0a7i.	86400	in	ns	dns18.hichina.com.
+xn--bnqr41hhhnplb.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
+xn--bnqr41hhhnplb.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
 xn--bnqu71avuh0uq8n5aa43b543a.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--bnqu71avuh0uq8n5aa43b543a.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--bnqu71avuh0uq8n5aa43b543a.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--bnqu71avuh0uq8n5aa43b543a.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--bnqu74e.xn--io0a7i.	86400	in	ns	n1.xundns.com.
 xn--bnqu74e.xn--io0a7i.	86400	in	ns	n2.xundns.com.
+xn--bnqw3te6k.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--bnqw3te6k.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--bnqy78bp7b0xc.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
 xn--bnqy78bp7b0xc.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--bnqz6dv1bba356h7no0w2c3ow.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -10915,8 +10930,8 @@ xn--btt344e.xn--io0a7i.	86400	in	ns	dns27.hichina.com.
 xn--btt344e.xn--io0a7i.	86400	in	ns	dns28.hichina.com.
 xn--btt53p.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--btt53p.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
-xn--bttr44i.xn--io0a7i.	86400	in	ns	ns3.dns.com.
-xn--bttr44i.xn--io0a7i.	86400	in	ns	ns4.dns.com.
+xn--bttr44i.xn--io0a7i.	86400	in	ns	exp1.ename.net.
+xn--bttr44i.xn--io0a7i.	86400	in	ns	exp2.ename.net.
 xn--bttw8a243c.xn--io0a7i.	86400	in	ns	ns1.cnolnic.com.
 xn--bttw8a243c.xn--io0a7i.	86400	in	ns	ns2.cnolnic.com.
 xn--bttw8at1xn0idof.xn--io0a7i.	86400	in	ns	ns1.cnolnic.com.
@@ -10998,6 +11013,8 @@ xn--bxy669d.xn--io0a7i.	86400	in	ns	ns1.eurodns.com.
 xn--bxy669d.xn--io0a7i.	86400	in	ns	ns2.eurodns.com.
 xn--bxy669d.xn--io0a7i.	86400	in	ns	ns3.eurodns.com.
 xn--bxy669d.xn--io0a7i.	86400	in	ns	ns4.eurodns.com.
+xn--bxy869b.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
+xn--bxy869b.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--bxym24ap8m.xn--io0a7i.	86400	in	ns	ns1.brandshelter.com.
 xn--bxym24ap8m.xn--io0a7i.	86400	in	ns	ns2.brandshelter.de.
 xn--bxym24ap8m.xn--io0a7i.	86400	in	ns	ns3.brandshelter.info.
@@ -11283,8 +11300,6 @@ xn--chqq6f5vc2c.xn--io0a7i.	86400	in	ns	ns1.sfn.cn.
 xn--chqq6f5vc2c.xn--io0a7i.	86400	in	ns	ns2.sfn.cn.
 xn--chqq6f5vc2ct7n450k.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--chqq6f5vc2ct7n450k.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
-xn--chqq86j.xn--io0a7i.	86400	in	ns	dm1.longmingdns.com.
-xn--chqq86j.xn--io0a7i.	86400	in	ns	dm2.longmingdns.com.
 xn--chqr10j6wkkig.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--chqr10j6wkkig.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--chqr10j6wkkig.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -11444,6 +11459,8 @@ xn--cjr84w79flvrhrl.xn--io0a7i.	86400	in	ns	ns7.cnmsn.net.
 xn--cjr84w79flvrhrl.xn--io0a7i.	86400	in	ns	ns8.cnmsn.net.
 xn--cjr84w9ws4qec5gfoa32e.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--cjr84w9ws4qec5gfoa32e.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
+xn--cjr84w9zk66c9qgv7m.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
+xn--cjr84w9zk66c9qgv7m.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--cjr84wizg20g.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--cjr84wizg20g.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--cjr84wky0amdd.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -11503,8 +11520,8 @@ xn--cjrq7hjxdown10jfo0awzz.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--cjrq7hjxdown10jfo0awzz.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--cjrq7hjxdownr16c.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--cjrq7hjxdownr16c.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
-xn--cjrq7hjxdownskqv11b7jd.xn--io0a7i.	86400	in	ns	dns11.hichina.com.
-xn--cjrq7hjxdownskqv11b7jd.xn--io0a7i.	86400	in	ns	dns12.hichina.com.
+xn--cjrq7hjxdownskqv11b7jd.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
+xn--cjrq7hjxdownskqv11b7jd.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
 xn--cjrr0m13d1pt.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--cjrr0m13d1pt.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--cjrr2bt0gmpq.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -12533,6 +12550,8 @@ xn--dkrp89fv4iy5p.xn--io0a7i.	86400	in	ns	1ns.yahoo.com.
 xn--dkrp89fv4iy5p.xn--io0a7i.	86400	in	ns	2ns.yahoo.com.
 xn--dkrq9g3w4e.xn--io0a7i.	86400	in	ns	pk3.22.cn.
 xn--dkrq9g3w4e.xn--io0a7i.	86400	in	ns	pk4.22.cn.
+xn--dkrq9gh0l0tm8h1c.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--dkrq9gh0l0tm8h1c.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--dkrt02djta80cq5fe2tcsd.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--dkrt02djta80cq5fe2tcsd.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--dkrt2gn2fm2lhoz.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -12625,6 +12644,8 @@ xn--dlqt92afo2c.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--dlqt92afo2c.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--dlqt92afo2c.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--dlqt92afo2c.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
+xn--dlqu15alk8aq7hda.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
+xn--dlqu15alk8aq7hda.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 xn--dlqu41d11j801a.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--dlqu41d11j801a.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--dlqu41d11j801a.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -12671,6 +12692,8 @@ xn--doq22d51c26hfxg63cq4s3tepp7dcl6b.xn--io0a7i.	86400	in	ns	ens2.net-chinese.co
 xn--doq22d51cc3ej6l7nmmu7bx2mw10a82c.xn--io0a7i.	86400	in	ns	ns1.cnolnic.com.
 xn--doq22d51cc3ej6l7nmmu7bx2mw10a82c.xn--io0a7i.	86400	in	ns	ns2.cnolnic.com.
 xn--doq22d51cdvbvz2c7uii47ax2mw10a82c.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
+xn--doq22d51cg8d35dq9ydfctv6fq11bu7a.xn--io0a7i.	86400	in	ns	ns1.cnolnic.net.
+xn--doq22d51cg8d35dq9ydfctv6fq11bu7a.xn--io0a7i.	86400	in	ns	ns2.cnolnic.net.
 xn--doq22d51cg8djxj86qdxjkv3bq13bu7a.xn--io0a7i.	86400	in	ns	vip7.alidns.com.
 xn--doq22d51cg8djxj86qdxjkv3bq13bu7a.xn--io0a7i.	86400	in	ns	vip8.alidns.com.
 xn--doq22d51cjuefwvryeeomjv3ba138o6t0a25l.xn--io0a7i.	86400	in	ns	ns1.cnolnic.net.
@@ -12779,7 +12802,6 @@ xn--doqw35ag11avrs.xn--io0a7i.	86400	in	ns	dns27.hichina.com.
 xn--doqw35ag11avrs.xn--io0a7i.	86400	in	ns	dns28.hichina.com.
 xn--doqw3d4xcdt0f.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
 xn--doqw3d4xcdt0f.xn--io0a7i.	86400	in	ns	v1s2.xundns.com.
-xn--doqy75hrje28s.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--doqz0j85vb1w.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--doqz0j85vb1w.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--doqz23e7znerx.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
@@ -12792,8 +12814,7 @@ xn--doqz8htz5cxkc.xn--io0a7i.	86400	in	ns	ns1.everdns.com.
 xn--doqz8htz5cxkc.xn--io0a7i.	86400	in	ns	ns2.everdns.com.
 xn--dpq015j.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--dpq015j.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
-xn--dpq18wnvaz90p.xn--io0a7i.	86400	in	ns	ns1.22.cn.
-xn--dpq18wnvaz90p.xn--io0a7i.	86400	in	ns	ns2.22.cn.
+xn--dpq18wnvaz90p.xn--io0a7i.	86400	in	ns	please-renew-your-domain-in-www.22.cn.
 xn--dpq30ebb129d411c.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--dpq30ebb129d411c.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--dpq30ebb129d411c.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -12821,8 +12842,6 @@ xn--dpq69gzsa09r47eswmusdeze.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--dpq69gzsa09r47eswmusdeze.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 xn--dpq79gwyuq2x.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--dpq79gwyuq2x.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
-xn--dpq85e1zkh2l.xn--io0a7i.	86400	in	ns	ns1.pending-renewal-domain.com.
-xn--dpq85e1zkh2l.xn--io0a7i.	86400	in	ns	ns2.pending-renewal-domain.com.
 xn--dpq89gg5h2kej8kumx.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--dpq89gg5h2kej8kumx.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--dpq92jpxg848c.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
@@ -13865,6 +13884,8 @@ xn--eqrx9oka600k.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
 xn--eqrx9oka600k.xn--io0a7i.	86400	in	ns	dns9.hichina.com.
 xn--eqry5gfsg.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--eqry5gfsg.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
+xn--eqrz47a.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--eqrz47a.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--eqrz74f.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--eqrz74f.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--eqrz94k.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -14228,6 +14249,8 @@ xn--fcsrk424brj6b.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--fcsrk424brj6b.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
 xn--fcss10b79d1qv.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--fcss10b79d1qv.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--fcss10bw1r.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
+xn--fcss10bw1r.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--fcsx00cz5k.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--fcsx00cz5k.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--fcsx00cz5k.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -14390,6 +14413,8 @@ xn--feus21h.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--feus21h.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 xn--feuth.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--feuth.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
+xn--feuu39f.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--feuu39f.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--feuv6j803a.xn--io0a7i.	86400	in	ns	ns7.cnmsn.net.
 xn--feuv6j803a.xn--io0a7i.	86400	in	ns	ns8.cnmsn.net.
 xn--fhq05v3ol43yl6mohckx1c.xn--io0a7i.	86400	in	ns	ns1.8hy.hk.
@@ -14502,6 +14527,8 @@ xn--fhq6az1ylzaq02lhygixi96k762a.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
 xn--fhq6az1ylzaq02lhygixi96k762a.xn--io0a7i.	86400	in	ns	v1s2.xundns.com.
 xn--fhq755dr3b4tak7d.xn--io0a7i.	86400	in	ns	dns3.4cun.com.
 xn--fhq755dr3b4tak7d.xn--io0a7i.	86400	in	ns	dns4.51dns.top.
+xn--fhq79jksa81na5874b.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
+xn--fhq79jksa81na5874b.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
 xn--fhq7v8c56x.xn--io0a7i.	86400	in	ns	dns7.hichina.com.
 xn--fhq7v8c56x.xn--io0a7i.	86400	in	ns	dns8.hichina.com.
 xn--fhq82g4kh41g6untzy.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -14787,10 +14814,6 @@ xn--fiq094b63ip6wpfa.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--fiq094b63ip6wpfa.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--fiq0a6b18cn8kdxak3vu27h4fp.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 xn--fiq0a6b18cn8kdxak3vu27h4fp.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
-xn--fiq0a963a47g.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
-xn--fiq0a963a47g.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
-xn--fiq0a963a47g.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
-xn--fiq0a963a47g.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--fiq0vt3qon5d.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--fiq0vt3qon5d.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 xn--fiq11k59c835cpwe.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -15892,8 +15915,8 @@ xn--fiqp7f96fett9m2a.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--fiqp7f96fett9m2a.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--fiqp7f96fett9m2a.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--fiqp7f96fett9m2a.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
-xn--fiqp7f96fzqzpi6a04p.xn--io0a7i.	86400	in	ns	ns1.dns-china.cn.
-xn--fiqp7f96fzqzpi6a04p.xn--io0a7i.	86400	in	ns	ns2.dns-china.cn.
+xn--fiqp7f96fzqzpi6a04p.xn--io0a7i.	86400	in	ns	exp1.ename.net.
+xn--fiqp7f96fzqzpi6a04p.xn--io0a7i.	86400	in	ns	exp2.ename.net.
 xn--fiqp7ffub5z2e.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--fiqp7ffub5z2e.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--fiqp7fky7abtfk4r.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -16219,10 +16242,6 @@ xn--fiqs8s01bn5gzslvzc.xn--io0a7i.	86400	in	ns	dns23.hichina.com.
 xn--fiqs8s01bn5gzslvzc.xn--io0a7i.	86400	in	ns	dns24.hichina.com.
 xn--fiqs8s0ogqyk.xn--io0a7i.	86400	in	ns	ns1.dns.com.cn.
 xn--fiqs8s0ogqyk.xn--io0a7i.	86400	in	ns	ns2.dns.com.cn.
-xn--fiqs8s0tbi54cu2ah84bfqu.xn--io0a7i.	86400	in	ns	ns3.gzidc.com.
-xn--fiqs8s0tbi54cu2ah84bfqu.xn--io0a7i.	86400	in	ns	ns3.ns365.net.
-xn--fiqs8s0tbi54cu2ah84bfqu.xn--io0a7i.	86400	in	ns	ns4.gzidc.com.
-xn--fiqs8s0tbi54cu2ah84bfqu.xn--io0a7i.	86400	in	ns	ns4.ns365.net.
 xn--fiqs8s0tbmyd3vsz31bfgs.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--fiqs8s0tbmyd3vsz31bfgs.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--fiqs8s0tbmyd3vsz31bfgs.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -16607,8 +16626,6 @@ xn--fiqs8ss2ipifb7juu7d.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--fiqs8ss2ipifb7juu7d.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
 xn--fiqs8ss4ds77bfkaw18n.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--fiqs8ss4ds77bfkaw18n.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
-xn--fiqs8ssm4ahxe3ye.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
-xn--fiqs8ssm4ahxe3ye.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--fiqs8ssmssgu.xn--io0a7i.	86400	in	ns	ns4.ce.net.cn.
 xn--fiqs8ssmssgu.xn--io0a7i.	86400	in	ns	ns5.ce.net.cn.
 xn--fiqs8sspsfzz.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -16929,8 +16946,8 @@ xn--fiqv1nf2b6x2eten.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--fiqv1nf2b6x2eten.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
 xn--fiqv1nf2bc6kk03aswdnvg3rd2wlex6a262a.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--fiqv1nf2bc6kk03aswdnvg3rd2wlex6a262a.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
-xn--fiqv1nf2be3x0t4aqzb326a.xn--io0a7i.	86400	in	ns	ns1.lnhndf.com.
-xn--fiqv1nf2be3x0t4aqzb326a.xn--io0a7i.	86400	in	ns	ns2.lnhndf.com.
+xn--fiqv1nf2be3x0t4aqzb326a.xn--io0a7i.	86400	in	ns	ns100.webnic.cc.
+xn--fiqv1nf2be3x0t4aqzb326a.xn--io0a7i.	86400	in	ns	ns101.webnic.cc.
 xn--fiqv2fqvgvznfn5c1feul.xn--io0a7i.	86400	in	ns	ns1.8hy.hk.
 xn--fiqv2fqvgvznfn5c1feul.xn--io0a7i.	86400	in	ns	ns2.8hy.hk.
 xn--fiqv36e.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -17528,8 +17545,6 @@ xn--fjq011bg4r5s4a.xn--io0a7i.	86400	in	ns	ns4.brandshelter.net.
 xn--fjq011bg4r5s4a.xn--io0a7i.	86400	in	ns	ns5.brandshelter.us.
 xn--fjq012n.xn--io0a7i.	86400	in	ns	dns13.hichina.com.
 xn--fjq012n.xn--io0a7i.	86400	in	ns	dns14.hichina.com.
-xn--fjq01qbw6c.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
-xn--fjq01qbw6c.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--fjq043b.xn--io0a7i.	86400	in	ns	ns1.sfn.cn.
 xn--fjq043b.xn--io0a7i.	86400	in	ns	ns2.sfn.cn.
 xn--fjq11gx3h010d.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -17752,10 +17767,10 @@ xn--fjqz24be76a.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--fjqz24be76a.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--fjqz95gysg.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--fjqz95gysg.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
-xn--fjqzu.xn--io0a7i.	86400	in	ns	dns23.hichina.com.
-xn--fjqzu.xn--io0a7i.	86400	in	ns	dns24.hichina.com.
-xn--fjqzuf60m.xn--io0a7i.	86400	in	ns	dns31.hichina.com.
-xn--fjqzuf60m.xn--io0a7i.	86400	in	ns	dns32.hichina.com.
+xn--fjqzu.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
+xn--fjqzu.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
+xn--fjqzuf60m.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
+xn--fjqzuf60m.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
 xn--fjr285hwfl0uc00k.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--fjr285hwfl0uc00k.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 xn--flw21mf2p.xn--io0a7i.	86400	in	ns	dns17.hichina.com.
@@ -17955,7 +17970,6 @@ xn--g4ts90a.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--g4ts90a.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 xn--g4tu96b.xn--io0a7i.	86400	in	ns	ns1.8hy.cn.
 xn--g4tu96b.xn--io0a7i.	86400	in	ns	ns2.8hy.cn.
-xn--g5t41bl8h2n5a.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--g5t99og8r.xn--io0a7i.	86400	in	ns	ns1.huaweicloud-dns.cn.
 xn--g5t99og8r.xn--io0a7i.	86400	in	ns	ns1.huaweicloud-dns.com.
 xn--g5t99oozx.xn--io0a7i.	86400	in	ns	ns1.huaweicloud-dns.cn.
@@ -18015,6 +18029,8 @@ xn--ghqu2mj6juzy.xn--io0a7i.	86400	in	ns	ns4.brandshelter.net.
 xn--ghqu2mj6juzy.xn--io0a7i.	86400	in	ns	ns5.brandshelter.us.
 xn--ghqv4y.xn--io0a7i.	86400	in	ns	n1.xundns.com.
 xn--ghqv4y.xn--io0a7i.	86400	in	ns	n2.xundns.com.
+xn--ghqv4y12b.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
+xn--ghqv4y12b.xn--io0a7i.	86400	in	ns	v1s2.xundns.com.
 xn--ghqv4y2p0abcm0li.xn--io0a7i.	86400	in	ns	ns3.dns.com.
 xn--ghqv4y2p0abcm0li.xn--io0a7i.	86400	in	ns	ns4.dns.com.
 xn--ghqv4y3mpgis.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -18149,6 +18165,8 @@ xn--gmq90an6sgy5c.xn--io0a7i.	86400	in	ns	ns1.bluecatdns.com.
 xn--gmq90an6sgy5c.xn--io0a7i.	86400	in	ns	ns1.bluecatdns.net.
 xn--gmq90an6sgy5c.xn--io0a7i.	86400	in	ns	ns1.bluecatdns.org.
 xn--gmq90an6sgy5c.xn--io0a7i.	86400	in	ns	sgns01.pruconnect.net.
+xn--gmq978agy8a8fi.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
+xn--gmq978agy8a8fi.xn--io0a7i.	86400	in	ns	v1s2.xundns.com.
 xn--gmq989f.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--gmq989f.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
 xn--gmq9il49h6l8a.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -18622,6 +18640,8 @@ xn--hjtz96e.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--hlqy2k.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--hlr06kbwr.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--hlr06kbwr.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
+xn--hlr1oja011jiqjno3cnss.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
+xn--hlr1oja011jiqjno3cnss.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--hlr34iwqoba.xn--io0a7i.	86400	in	ns	dns1.cscdns.net.
 xn--hlr34iwqoba.xn--io0a7i.	86400	in	ns	dns2.cscdns.net.
 xn--hlr573in9exrbx6x.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
@@ -18802,8 +18822,6 @@ xn--hut83gq0m.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
 xn--hut83gq0m.xn--io0a7i.	86400	in	ns	dns9.hichina.com.
 xn--hv1a583c.xn--io0a7i.	86400	in	ns	pk3.22.cn.
 xn--hv1a583c.xn--io0a7i.	86400	in	ns	pk4.22.cn.
-xn--hv1a63h.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
-xn--hv1a63h.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--hvs51c.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--hvs51c.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--hvsa244ansa362k.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
@@ -18822,6 +18840,8 @@ xn--hwtt06e.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--hwtt06e.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--hwtu97j.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--hwtu97j.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
+xn--hxqzy.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--hxqzy.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--hxqzyj2wvy5b3cu.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 xn--hxqzyj2wvy5b3cu.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
 xn--hxt033f.xn--io0a7i.	86400	in	ns	ns1.cnolnic.com.
@@ -18885,6 +18905,8 @@ xn--i01ay92b.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--i01ay92b.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--i0y310c3qh.xn--io0a7i.	86400	in	ns	dns17.hichina.com.
 xn--i0y310c3qh.xn--io0a7i.	86400	in	ns	dns18.hichina.com.
+xn--i0yx0w.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--i0yx0w.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--i0yy51b5reevj.xn--io0a7i.	86400	in	ns	dns31.hichina.com.
 xn--i0yy51b5reevj.xn--io0a7i.	86400	in	ns	dns32.hichina.com.
 xn--i6q00d.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -18909,8 +18931,8 @@ xn--i6q463l6mf.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--i6q463l6mf.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--i6q83v.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--i6q83v.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
-xn--i6qr15a.xn--io0a7i.	86400	in	ns	ns1.yiyu.com.
-xn--i6qr15a.xn--io0a7i.	86400	in	ns	ns2.yiyu.com.
+xn--i6qr15a.xn--io0a7i.	86400	in	ns	exp1.ename.net.
+xn--i6qr15a.xn--io0a7i.	86400	in	ns	exp2.ename.net.
 xn--i6qr28m.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--i6qr28m.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--i6qr46fmvnr3l.xn--io0a7i.	86400	in	ns	dns1.cscdns.net.
@@ -18945,14 +18967,6 @@ xn--i7qj030ib9b.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--i7qj030ib9b.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--i7qj030ib9b.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--i7qj030ib9b.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
-xn--i7qr26d0rwhpi.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
-xn--i7qr26d0rwhpi.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
-xn--i7qr26d0rwhpi.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
-xn--i7qr26d0rwhpi.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
-xn--i7qr26d0rwxxi.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
-xn--i7qr26d0rwxxi.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
-xn--i7qr26d0rwxxi.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
-xn--i7qr26d0rwxxi.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--i7qs29bepb.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--i7qs29bepb.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 xn--i7qx54azqf.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -19383,6 +19397,10 @@ xn--inr50qpsfqs9d.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--inr50qpsfqs9d.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--inr50qpsfqs9d.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--inr50qpsfqs9d.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
+xn--inr78qiotefxymnb2i.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
+xn--inr78qiotefxymnb2i.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
+xn--inr78qiotefxymnb2i.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
+xn--inr78qiotefxymnb2i.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--inr8f83mwug28e84f295agf1b.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--inr8f83mwug28e84f295agf1b.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--inr92viqdz73f.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -19395,7 +19413,7 @@ xn--int--jn5fy6n1t1b25g.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--int--jn5fy6n1t1b25g.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--io0a7i.	0	in	nsec3param	1 0 10 AEF123AC
 xn--io0a7i.	0	in	rrsig	NSEC3PARAM 8 1 0 20250919192139 20250820191430 23448 xn--io0a7i. ACiJqdhkYErCvlAF+H5KitBvrms2MyIOgoe7CsPOry0pNHEF1RpjpjLn1Nk1At5XS9Ah9VUllY0lmXXgrx34O3fi+Cbp/OgE/qJwNW2LOu5h55RIMReW0qtHphXOVlg5Jvdlq4SvhQcmHg6gFxnYRpQqILDE1bHzgz6dadvpfpo=
-xn--io0a7i.	21600	in	rrsig	SOA 8 1 21600 20251004234048 20250904224048 23448 xn--io0a7i. TD+l3w6fgcfbB7It1LTrSwf22QK7q2NmbNGdD+6TILBiofGHXQic3N9AAS1bQwNOlfraeB1DOS6AGxOs8n2rCjTTNGjXdtXQgIr638F7yDTTdExWs9BP5L2ybnnv2QI5vOOSpK89vlcXfnR2GVsylmJcDF1tjXrUPtDV/23izmQ=
+xn--io0a7i.	21600	in	rrsig	SOA 8 1 21600 20251011012240 20250911002240 23448 xn--io0a7i. qQmgGvLTv/d3uf2qs2bNBgMKPDgdQY9H7HecTYi2/AT9SI6nXS4hpV9rPiMkDQhCgk5yER249pAk51lu+hQFST8rYM3Ap/WzktnKBGq5oKGm/ZNzIpZkz4Uny+S26EAfGBEwkAHpihsagVxHRFRlBUp/u+2h6d6mzOmPE6M552w=
 xn--io0a7i.	86400	in	dnskey	256 3 8 AwEAAbEfYzd0/hEiQCasiGDbUeRghwvpy0/s/2mtHMELl8WOFWipLVgm0z8/UdLkn/4sdWpoBJhoIlTiJ2j5ZRIi4DmRFGCvsCjvD0HaNVu3LtqAxHzcUM2S7K5Tg9KcWoBDdqC9F4tU4BB60pFu6HoRhCYGYakimxjutCjEBdBJGM8j
 xn--io0a7i.	86400	in	dnskey	257 3 8 AwEAAcl4mjLmbmwcZclFleUhdq4Eb/R3IsaB/DDvDd1OALCBDQpGFuA4ERPxNp3coGOh0cWosYRpPcDN/U46Nz06Ok0LOv+n50H7cAJtNbpEhwvkMuFsJHbTcqmfoLG8x8iraiSNF8sBIHkxXu1f/PVnSpDb8NBqaZ3UEoJ+LnNPu6tfr0G3YWFu20pHE2Gdw05Mpdx1nji+x6fKMX6ZzYsYRLEOntJ8AQFmeqlHwFkKczE8yITIIqqSyIZy1RrqK7qt+jp9sfIWqva0YNYRGhH6/cHut4K62pzzQ/DYAg+CVnmW2Yac5tRmZUmHf9CCE4Hr8AoIbGfF9twj3N1Jjq+lNzE=
 xn--io0a7i.	86400	in	ns	a.ngtld.cn.
@@ -19447,10 +19465,10 @@ xn--ioru5ej1fhy8e.xn--io0a7i.	86400	in	ns	ns1.cnolnic.com.
 xn--ioru5ej1fhy8e.xn--io0a7i.	86400	in	ns	ns2.cnolnic.com.
 xn--ioru5en45ec8i.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--ioru5en45ec8i.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
-xn--iorw22k.xn--io0a7i.	86400	in	ns	dns11.hichina.com.
-xn--iorw22k.xn--io0a7i.	86400	in	ns	dns12.hichina.com.
-xn--iorw22k52a.xn--io0a7i.	86400	in	ns	dns19.hichina.com.
-xn--iorw22k52a.xn--io0a7i.	86400	in	ns	dns20.hichina.com.
+xn--iorw22k.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
+xn--iorw22k.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
+xn--iorw22k52a.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
+xn--iorw22k52a.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
 xn--iorw33b.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--iorw33b.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--iorw51a.xn--io0a7i.	86400	in	ns	ns1.xundns.com.
@@ -19643,8 +19661,6 @@ xn--j7q491g.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--j7q491g.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--j7q50hdvd.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
 xn--j7q50hdvd.xn--io0a7i.	86400	in	ns	v1s2.xundns.com.
-xn--j7q520c27atyj.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
-xn--j7q520c27atyj.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--j7q576l.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--j7q576l.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--j7q621f.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
@@ -19891,8 +19907,8 @@ xn--jiu288b.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--jiu288b.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--jj4a.xn--io0a7i.	86400	in	ns	pk3.22.cn.
 xn--jj4a.xn--io0a7i.	86400	in	ns	pk4.22.cn.
-xn--jjq069as8y9yl.xn--io0a7i.	86400	in	ns	ns3.dns.com.
-xn--jjq069as8y9yl.xn--io0a7i.	86400	in	ns	ns4.dns.com.
+xn--jjq069as8y9yl.xn--io0a7i.	86400	in	ns	exp1.ename.net.
+xn--jjq069as8y9yl.xn--io0a7i.	86400	in	ns	exp2.ename.net.
 xn--jjq214a.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--jjq214a.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--jjq50p516c.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -20496,8 +20512,6 @@ xn--k8qy86j.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--k8qy86j.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--kbr1x44xtl2a.xn--io0a7i.	86400	in	ns	dns11.hichina.com.
 xn--kbr1x44xtl2a.xn--io0a7i.	86400	in	ns	dns12.hichina.com.
-xn--kbr599e4ot.xn--io0a7i.	86400	in	ns	ns1.huaweicloud-dns.cn.
-xn--kbr599e4ot.xn--io0a7i.	86400	in	ns	ns1.huaweicloud-dns.com.
 xn--kbr719l.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--kbr719l.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 xn--kbr719l4mhtme.xn--io0a7i.	86400	in	ns	harley.dnspod.net.
@@ -20602,6 +20616,8 @@ xn--kcr53uh9c.xn--io0a7i.	86400	in	ns	expire1.cnolnic.com.
 xn--kcr53uh9c.xn--io0a7i.	86400	in	ns	expire2.cnolnic.com.
 xn--kcr61u.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--kcr61u.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--kcr637g.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--kcr637g.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--kcr66jutv2h4a.xn--io0a7i.	86400	in	ns	dns1.cscdns.net.
 xn--kcr66jutv2h4a.xn--io0a7i.	86400	in	ns	dns2.cscdns.net.
 xn--kcr66jutvixkz4zglj.xn--io0a7i.	86400	in	ns	dns1.cscdns.net.
@@ -20630,6 +20646,8 @@ xn--kcr93wstby65d.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--kcr93wstby65d.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--kcr949ecs1a.xn--io0a7i.	86400	in	ns	dns1.cscdns.net.
 xn--kcr949ecs1a.xn--io0a7i.	86400	in	ns	dns2.cscdns.net.
+xn--kcr98bj2hba.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
+xn--kcr98bj2hba.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--kcr98bm0mon9c.xn--io0a7i.	86400	in	ns	dns29.hichina.com.
 xn--kcr98bm0mon9c.xn--io0a7i.	86400	in	ns	dns30.hichina.com.
 xn--kcr98bm95bcxmw81a.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -21136,6 +21154,8 @@ xn--kpr97vtlap81lgmcxyw.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--kpr97vtlap81lgmcxyw.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--kpr97vtlap8zp3ar1cd19ifxd.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--kpr97vtlap8zp3ar1cd19ifxd.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
+xn--kpr97vtlap8zqvzgxj.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
+xn--kpr97vtlap8zqvzgxj.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--kpr97vtlap8zyoc1z6f.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--kpr97vtlap8zyoc1z6f.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--kpr97vtlap8zyoc6y6b.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
@@ -21980,10 +22000,6 @@ xn--l9q18a33ps0aba624ak13i.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--l9q18a33ps0aba624ak13i.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--l9q18a81hg7rm1bd6mfn4cj5aq24eexa.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--l9q18a81hg7rm1bd6mfn4cj5aq24eexa.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
-xn--l9q39vxyy4x7a.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
-xn--l9q39vxyy4x7a.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
-xn--l9q39vxyy4x7a.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
-xn--l9q39vxyy4x7a.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--l9q40w2i83eydz43gwpk.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--l9q40w2i83eydz43gwpk.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--l9q40w2i83eydz43gwpk.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -22204,8 +22220,6 @@ xn--lms85kia253mnj4c.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--lms85kia253mnj4c.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--lms964gg0aq8d.xn--io0a7i.	86400	in	ns	ns1.8hy.hk.
 xn--lms964gg0aq8d.xn--io0a7i.	86400	in	ns	ns2.8hy.hk.
-xn--lmsr3kcphl6v0ya643l.xn--io0a7i.	86400	in	ns	ns1.cndns.cn.
-xn--lmsr3kcphl6v0ya643l.xn--io0a7i.	86400	in	ns	ns2.cndns.cn.
 xn--lmsr3krv8aqwt.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--lmsr3krv8aqwt.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--lmsr3ks1blui2na462h.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -23035,7 +23049,6 @@ xn--nitx7m.xn--io0a7i.	86400	in	ns	a.ezdnscenter.com.
 xn--nitx7m.xn--io0a7i.	86400	in	ns	b.ezdnscenter.com.
 xn--nity93m.xn--io0a7i.	86400	in	ns	ns7.cnmsn.net.
 xn--nity93m.xn--io0a7i.	86400	in	ns	ns8.cnmsn.net.
-xn--njq482p.xn--io0a7i.	86400	in	ns	please-renew-your-domain-in-www.22.cn.
 xn--nkv3r88aw27g.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--nkv3r88aw27g.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--nkv6b.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -23070,12 +23083,8 @@ xn--nmq04lxox63y.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--nmq04lxox63y.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--nmq04lxox63y.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--nmq04lxox63y.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
-xn--nmq12ju7hc76d.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
-xn--nmq12ju7hc76d.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
-xn--nmq12ju7hc76d.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
-xn--nmq12ju7hc76d.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
-xn--nmq130f90z.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
-xn--nmq130f90z.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
+xn--nmq130f90z.xn--io0a7i.	86400	in	ns	ns1-domain-expired.myhostadmin.net.
+xn--nmq130f90z.xn--io0a7i.	86400	in	ns	ns2-domain-expired.myhostadmin.net.
 xn--nmq423b27d23bmw6c1x7a.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--nmq423b27d23bmw6c1x7a.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
 xn--nmq4n22xiz2alzoqez.xn--io0a7i.	86400	in	ns	ns1.8hy.hk.
@@ -23110,10 +23119,6 @@ xn--nmqtq.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--nmqtq.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
 xn--nmqu37c.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--nmqu37c.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
-xn--nmqy2iywiy66b.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
-xn--nmqy2iywiy66b.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
-xn--nmqy2iywiy66b.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
-xn--nmqy2iywiy66b.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--nmqz4lc95a.xn--io0a7i.	86400	in	ns	ns7.cnmsn.net.
 xn--nmqz4lc95a.xn--io0a7i.	86400	in	ns	ns8.cnmsn.net.
 xn--nmz731b.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
@@ -23351,6 +23356,8 @@ xn--nyq96e.xn--io0a7i.	86400	in	ns	dns21.hichina.com.
 xn--nyq96e.xn--io0a7i.	86400	in	ns	dns22.hichina.com.
 xn--nyq96s8vce30e2ib.xn--io0a7i.	86400	in	ns	ns1.ce.net.cn.
 xn--nyq96s8vce30e2ib.xn--io0a7i.	86400	in	ns	ns2.ce.net.cn.
+xn--nyq982ae4ar64k.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
+xn--nyq982ae4ar64k.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--nyqp4nu5gln6d.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--nyqp4nu5gln6d.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--nyqq7s3vei02f.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -23377,8 +23384,6 @@ xn--nyqy26a323bfzd.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--nyqy26a323bfzd.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 xn--nyqy26a64bpwh.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--nyqy26a64bpwh.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
-xn--nyqy26a7mfr3p1xb91p.xn--io0a7i.	86400	in	ns	ns1.pending-renewal-domain.com.
-xn--nyqy26a7mfr3p1xb91p.xn--io0a7i.	86400	in	ns	ns2.pending-renewal-domain.com.
 xn--nyqy26a8jsjwj.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--nyqy26a8jsjwj.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
 xn--nyqy26aimr.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -23917,6 +23922,8 @@ xn--ozsy38a93b6z4d.xn--io0a7i.	86400	in	ns	ns1.8hy.hk.
 xn--ozsy38a93b6z4d.xn--io0a7i.	86400	in	ns	ns2.8hy.hk.
 xn--ozvo7o.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
 xn--ozvo7o.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
+xn--p0xw54b.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--p0xw54b.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--p1u43a43ctycd69bolsn0d.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--p1u43a43ctycd69bolsn0d.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--p2vv1h.xn--io0a7i.	86400	in	ns	n1.xundns.com.
@@ -24732,6 +24739,8 @@ xn--qevwb827etqjstb.xn--io0a7i.	86400	in	ns	ns13.dns.com.cn.
 xn--qevwb827etqjstb.xn--io0a7i.	86400	in	ns	ns14.dns.com.cn.
 xn--qevwbz5hm0j.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--qevwbz5hm0j.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--qevx69f.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--qevx69f.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--qevy51d.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--qevy51d.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--qevy9o.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -24812,6 +24821,8 @@ xn--qkrw0q36ie1pi53c.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--qkrw0q36ie1pi53c.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--qkrx38eb0s.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--qkrx38eb0s.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--qkz12lx7v.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
+xn--qkz12lx7v.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--qkz91k.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--qkz91k.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--qkz953d.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
@@ -24980,8 +24991,6 @@ xn--qvr47e02q.xn--io0a7i.	86400	in	ns	dns1.cscdns.net.
 xn--qvr47e02q.xn--io0a7i.	86400	in	ns	dns2.cscdns.net.
 xn--qvr640fh31a.xn--io0a7i.	86400	in	ns	dns1.cscdns.net.
 xn--qvr640fh31a.xn--io0a7i.	86400	in	ns	dns2.cscdns.net.
-xn--qvra.xn--io0a7i.	86400	in	ns	ns1-domain-expired.myhostadmin.net.
-xn--qvra.xn--io0a7i.	86400	in	ns	ns2-domain-expired.myhostadmin.net.
 xn--qvra921b.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--qvra921b.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--qvrq6nkwc58l4j5a.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -25139,6 +25148,10 @@ xn--rgvo2bi41c.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--rgvo2bi41c.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 xn--rgvp76c.xn--io0a7i.	86400	in	ns	ns1.cnolnic.net.
 xn--rgvp76c.xn--io0a7i.	86400	in	ns	ns2.cnolnic.net.
+xn--rgvr92bt3v.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
+xn--rgvr92bt3v.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
+xn--rgvr92bt3v.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
+xn--rgvr92bt3v.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--rhq034ajrfv5e80u.xn--io0a7i.	86400	in	ns	ns1.cdns.cn.
 xn--rhq034ajrfv5e80u.xn--io0a7i.	86400	in	ns	ns2.cdns.cn.
 xn--rhq03jgr9axjq.xn--io0a7i.	86400	in	ns	ns7.cnmsn.net.
@@ -25586,8 +25599,6 @@ xn--rnyy93e.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--rnyy93e.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--rort7j5r4a162a.xn--io0a7i.	86400	in	ns	ns7.cnmsn.net.
 xn--rort7j5r4a162a.xn--io0a7i.	86400	in	ns	ns8.cnmsn.net.
-xn--rpr156jvjj.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
-xn--rpr156jvjj.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--rpr9uf6h.xn--io0a7i.	86400	in	ns	ns3.dns.com.
 xn--rpr9uf6h.xn--io0a7i.	86400	in	ns	ns4.dns.com.
 xn--rprq25f.xn--io0a7i.	86400	in	ns	ns1.22.cn.
@@ -26145,6 +26156,10 @@ xn--s1r88m6y2c.xn--io0a7i.	86400	in	ns	dns1.cscdns.net.
 xn--s1r88m6y2c.xn--io0a7i.	86400	in	ns	dns2.cscdns.net.
 xn--s1r88mo1bf53glbb.xn--io0a7i.	86400	in	ns	dns1.cscdns.net.
 xn--s1r88mo1bf53glbb.xn--io0a7i.	86400	in	ns	dns2.cscdns.net.
+xn--s1r95f.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
+xn--s1r95f.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
+xn--s1r95f.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
+xn--s1r95f.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--s1r95ff89d2gb.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--s1r95ff89d2gb.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--s1r95ff89d2gb.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -26211,8 +26226,8 @@ xn--s6wz2m.xn--io0a7i.	86400	in	ns	n2.xundns.com.
 xn--s7y014c.xn--io0a7i.	86400	in	ns	ns1.brandcloudns.com.
 xn--s7y014c.xn--io0a7i.	86400	in	ns	ns2.brandcloudns.com.
 xn--s7y014c.xn--io0a7i.	86400	in	ns	ns3.brandcloudns.com.
-xn--s7ys49avyk.xn--io0a7i.	86400	in	ns	ns1.cnolnic.net.
-xn--s7ys49avyk.xn--io0a7i.	86400	in	ns	ns2.cnolnic.net.
+xn--s7ys49avyk.xn--io0a7i.	86400	in	ns	expire1.cnolnic.com.
+xn--s7ys49avyk.xn--io0a7i.	86400	in	ns	expire2.cnolnic.com.
 xn--s8s51dow1bria.xn--io0a7i.	86400	in	ns	dns17.hichina.com.
 xn--s8s51dow1bria.xn--io0a7i.	86400	in	ns	dns18.hichina.com.
 xn--s8so6ud2ww7b.xn--io0a7i.	86400	in	ns	ns.domainnetwork.se.
@@ -26315,8 +26330,8 @@ xn--siqq7j799eyjb.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--siqq7j799eyjb.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--siqq7jd0cd4wu23ag2dpqu.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--siqq7jd0cd4wu23ag2dpqu.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
-xn--siqq7jd0cd4wzrihl1anpe.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
-xn--siqq7jd0cd4wzrihl1anpe.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
+xn--siqq7jd0cd4wzrihl1anpe.xn--io0a7i.	86400	in	ns	ns1-domain-expired.myhostadmin.net.
+xn--siqq7jd0cd4wzrihl1anpe.xn--io0a7i.	86400	in	ns	ns2-domain-expired.myhostadmin.net.
 xn--siqq7jd3mvnn.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--siqq7jd3mvnn.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--siqq7jg0s4y0a.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
@@ -26528,10 +26543,6 @@ xn--srsv34gl7ahxt.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--srsv34gl7ahxt.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--srsv34gl7ahxt.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--srsv34gl7ahxt.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
-xn--srsv62aqqay0cv31djdcx23a.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
-xn--srsv62aqqay0cv31djdcx23a.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
-xn--srsv62aqqay0cv31djdcx23a.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
-xn--srsv62aqqay0cv31djdcx23a.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--srsv62aqqay0cx85d9qn.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--srsv62aqqay0cx85d9qn.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--srsv62aqqay0cx85d9qn.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -26556,8 +26567,6 @@ xn--sss288epyai38b.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--sss288epyai38b.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--sss29ek19c.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--sss29ek19c.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
-xn--sss30eb05g.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
-xn--sss30eb05g.xn--io0a7i.	86400	in	ns	v1s2.xundns.com.
 xn--sss460aorgepv.xn--io0a7i.	86400	in	ns	dns21.hichina.com.
 xn--sss460aorgepv.xn--io0a7i.	86400	in	ns	dns22.hichina.com.
 xn--sss513kh0c.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -27130,6 +27139,8 @@ xn--tkv84l.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--tkv84l.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--tkv84l.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--tkv84l.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
+xn--tkv93m.xn--io0a7i.	86400	in	ns	ns1.cnolnic.net.
+xn--tkv93m.xn--io0a7i.	86400	in	ns	ns2.cnolnic.net.
 xn--tkv93mgxu.xn--io0a7i.	86400	in	ns	pk3.22.cn.
 xn--tkv93mgxu.xn--io0a7i.	86400	in	ns	pk4.22.cn.
 xn--tkv93mz3q.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -27568,10 +27579,14 @@ xn--ubt123i.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--ubt123i.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--ubt19y.xn--io0a7i.	86400	in	ns	ns1-show.myhostadmin.net.
 xn--ubt19y.xn--io0a7i.	86400	in	ns	ns2-show.myhostadmin.net.
+xn--ubt754b.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--ubt754b.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--ubt9b32a448ar1e6y2g.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--ubt9b32a448ar1e6y2g.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--ubt9b32a448ar1e6y2g.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--ubt9b32a448ar1e6y2g.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
+xn--ubtq9x.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--ubtq9x.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--ubtq9x6t8afzd.xn--io0a7i.	86400	in	ns	hedda.dnspod.net.
 xn--ubtq9x6t8afzd.xn--io0a7i.	86400	in	ns	popcorn.dnspod.net.
 xn--ubtr73b.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -27877,6 +27892,8 @@ xn--unup4y7y1brba.xn--io0a7i.	86400	in	ns	dns30.hichina.com.
 xn--unup4y95psla.xn--io0a7i.	86400	in	ns	ns.shanda.com.cn.
 xn--unup4y95psla.xn--io0a7i.	86400	in	ns	ns1.shanda.com.cn.
 xn--unup4y95psla.xn--io0a7i.	86400	in	ns	ns2.shanda.com.cn.
+xn--unup4ye3mmna.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--unup4ye3mmna.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--unup4yf9zxpe.xn--io0a7i.	86400	in	ns	ns.shanda.com.cn.
 xn--unup4yf9zxpe.xn--io0a7i.	86400	in	ns	ns1.shanda.com.cn.
 xn--unup4yf9zxpe.xn--io0a7i.	86400	in	ns	ns2.shanda.com.cn.
@@ -28143,6 +28160,8 @@ xn--v6qu2dqwoiqat67ae70az8g23lul0b.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--v6qu2dqwoiqat67ae70az8g23lul0b.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--v6qu2dqwoiqax71ifin.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--v6qu2dqwoiqax71ifin.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
+xn--v6qu2dw8of4ko5dnoz.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
+xn--v6qu2dw8of4ko5dnoz.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--v6qu2dw8oopao74afj8bjtmivi.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--v6qu2dw8oopao74afj8bjtmivi.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--v6qu2dw8oyn2b8mb633d.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -28197,12 +28216,8 @@ xn--v6qzb98bk2bo71aprm8ia778r.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--v6qzb98bk2bo71aprm8ia778r.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--v6t753e.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--v6t753e.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
-xn--vapp-894fv1ek4qzj2g721a22e.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
-xn--vapp-894fv1ek4qzj2g721a22e.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
-xn--vapp-894fv1ek4qzj2g721a22e.xn--io0a7i.	86400	in	ns	ns3.myhostadmin.net.
-xn--vapp-894fv1ek4qzj2g721a22e.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
-xn--vapp-894fv1ek4qzj2g721a22e.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
-xn--vapp-894fv1ek4qzj2g721a22e.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
+xn--vapp-894fv1ek4qzj2g721a22e.xn--io0a7i.	86400	in	ns	ns1-domain-expired.myhostadmin.net.
+xn--vapp-894fv1ek4qzj2g721a22e.xn--io0a7i.	86400	in	ns	ns2-domain-expired.myhostadmin.net.
 xn--vb0a937c.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--vb0a937c.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--vbt72m.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -28234,8 +28249,8 @@ xn--vcs571cm7a322g.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 xn--vcs571cm7a322g.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
 xn--vcs69pg59a.xn--io0a7i.	86400	in	ns	ns1.sfn.cn.
 xn--vcs69pg59a.xn--io0a7i.	86400	in	ns	ns2.sfn.cn.
-xn--vcs73cyy6b985a.xn--io0a7i.	86400	in	ns	hedda.dnspod.net.
-xn--vcs73cyy6b985a.xn--io0a7i.	86400	in	ns	popcorn.dnspod.net.
+xn--vcs73cyy6b985a.xn--io0a7i.	86400	in	ns	ns1.pending-renewal-domain.com.
+xn--vcs73cyy6b985a.xn--io0a7i.	86400	in	ns	ns2.pending-renewal-domain.com.
 xn--vcs794f4xs0fe.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--vcs794f4xs0fe.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--vcs7t34a714n.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -28612,7 +28627,6 @@ xn--vhq279a1na77v.xn--io0a7i.	86400	in	ns	ns1.35.net.
 xn--vhq279a1na77v.xn--io0a7i.	86400	in	ns	ns2.35.net.
 xn--vhq279a1na77v.xn--io0a7i.	86400	in	ns	ns3.35.net.
 xn--vhq279a1na77v.xn--io0a7i.	86400	in	ns	ns4.35.net.
-xn--vhq279alil9u5b.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--vhq279alilvof.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 xn--vhq279alilvof.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
 xn--vhq29lwtd89v645a.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
@@ -28867,8 +28881,6 @@ xn--vhq3mk9kh4ik4coyaj37ixji0tobpt.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--vhq3mk9kh4ik4coyaj37ixji0tobpt.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--vhq3mk9kh4ik4coyarno91p.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--vhq3mk9kh4ik4coyarno91p.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
-xn--vhq3mk9kh4ik4coyarno91pny1af38a.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
-xn--vhq3mk9kh4ik4coyarno91pny1af38a.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--vhq3mk9kh4ik4coyaz62lf3za.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--vhq3mk9kh4ik4coyaz62lf3za.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--vhq3mk9kh4ik4coyaz62lxvya1mbc65f.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -29656,6 +29668,8 @@ xn--vhq615me5cb0d.xn--io0a7i.	86400	in	ns	ns4.ce.net.cn.
 xn--vhq615me5cb0d.xn--io0a7i.	86400	in	ns	ns5.ce.net.cn.
 xn--vhq638bjge41b.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--vhq638bjge41b.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--vhq64je1k.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
+xn--vhq64je1k.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--vhq65aj1yvic.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--vhq65aj1yvic.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 xn--vhq69ueodwvdgp9ccta.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
@@ -29767,8 +29781,8 @@ xn--vhq94fpd58j9suz13a.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
 xn--vhq94fpd58j9suz13a.xn--io0a7i.	86400	in	ns	v1s2.xundns.com.
 xn--vhq960gqutnec.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--vhq960gqutnec.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
-xn--vhq9kx1x38w.xn--io0a7i.	86400	in	ns	ns1.22.cn.
-xn--vhq9kx1x38w.xn--io0a7i.	86400	in	ns	ns2.22.cn.
+xn--vhq9kx1x38w.xn--io0a7i.	86400	in	ns	ns7.alidns.com.
+xn--vhq9kx1x38w.xn--io0a7i.	86400	in	ns	ns8.alidns.com.
 xn--vhq9o34ez04i.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--vhq9o34ez04i.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--vhq9o68j3n4d.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -30479,6 +30493,8 @@ xn--vhqylm4ydtu.xn--io0a7i.	86400	in	ns	ns1.cnolnic.net.
 xn--vhqylm4ydtu.xn--io0a7i.	86400	in	ns	ns2.cnolnic.net.
 xn--vhqyxm4df8coyub36dpmf3qu.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--vhqyxm4df8coyub36dpmf3qu.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
+xn--vhqz0fqh44d7vak57b.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
+xn--vhqz0fqh44d7vak57b.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--vhqz3uk9ay20bhp8a.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--vhqz3uk9ay20bhp8a.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--vhqz3uk9ay8irps.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -30646,8 +30662,8 @@ xn--vnur33arozw2l.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 xn--vnur33arozw2l.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
 xn--vnuu6m.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--vnuu6m.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
-xn--vnuv9g.xn--io0a7i.	86400	in	ns	expire1.cnolnic.com.
-xn--vnuv9g.xn--io0a7i.	86400	in	ns	expire2.cnolnic.com.
+xn--vnuv9g.xn--io0a7i.	86400	in	ns	ns1.cnolnic.net.
+xn--vnuv9g.xn--io0a7i.	86400	in	ns	ns2.cnolnic.net.
 xn--vnux56hwca56u.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--vnux56hwca56u.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--vnux95cvnqyxd.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -30694,6 +30710,14 @@ xn--voq07c.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--voq07c.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--voq07cn55dgvs.xn--io0a7i.	86400	in	ns	dns29.hichina.com.
 xn--voq07cn55dgvs.xn--io0a7i.	86400	in	ns	dns30.hichina.com.
+xn--voq07cu3c6y0d.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
+xn--voq07cu3c6y0d.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
+xn--voq07cu3c6y0d.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
+xn--voq07cu3c6y0d.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
+xn--voq07cu3c6y0dztk.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
+xn--voq07cu3c6y0dztk.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
+xn--voq07cu3c6y0dztk.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
+xn--voq07cu3c6y0dztk.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--voqr99i.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--voqr99i.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 xn--vor760d.xn--io0a7i.	86400	in	ns	ns7.cnolnic.net.
@@ -30732,8 +30756,10 @@ xn--vrv50i414a.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--vrv50i414a.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--vrv653j.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--vrv653j.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
-xn--vrv70ms25a.xn--io0a7i.	86400	in	ns	expire1.cnolnic.com.
-xn--vrv70ms25a.xn--io0a7i.	86400	in	ns	expire2.cnolnic.com.
+xn--vrv97vlxx.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
+xn--vrv97vlxx.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
+xn--vrv97vlxx.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
+xn--vrv97vlxx.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--vrv986c90r.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--vrvp70i.xn--io0a7i.	86400	in	ns	n1.xundns.com.
 xn--vrvp70i.xn--io0a7i.	86400	in	ns	n2.xundns.com.
@@ -30741,8 +30767,6 @@ xn--vrvq28b.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--vrvq28b.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--vrvx71g.xn--io0a7i.	86400	in	ns	n1.xundns.com.
 xn--vrvx71g.xn--io0a7i.	86400	in	ns	n2.xundns.com.
-xn--vsq05cmze13ebti44v70ay82p8ls.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
-xn--vsq05cmze13ebti44v70ay82p8ls.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--vsq141eovac26aez7a.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--vsq141eovac26aez7a.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--vsq141eq0irlq0rn.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -30942,6 +30966,8 @@ xn--vuq28ffv4b.xn--io0a7i.	86400	in	ns	ns1.sedoparking.com.
 xn--vuq28ffv4b.xn--io0a7i.	86400	in	ns	ns2.sedoparking.com.
 xn--vuq28fr2mhyw71vbvm3gf.xn--io0a7i.	86400	in	ns	ns3.dns-china.cn.
 xn--vuq28fr2mhyw71vbvm3gf.xn--io0a7i.	86400	in	ns	ns4.dns-china.cn.
+xn--vuq298g.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--vuq298g.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--vuq32z24dl5f.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--vuq32z24dl5f.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 xn--vuq365fjmigqr.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -30964,6 +30990,8 @@ xn--vuq56fx2x4j9a.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 xn--vuq56fx2x4j9a.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
 xn--vuq58g33m5ta.xn--io0a7i.	86400	in	ns	ns1.huaweicloud-dns.cn.
 xn--vuq58g33m5ta.xn--io0a7i.	86400	in	ns	ns1.huaweicloud-dns.com.
+xn--vuq59iosmiy7b.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--vuq59iosmiy7b.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--vuq609b.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--vuq609b.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--vuq630a5nfiv4c.xn--io0a7i.	86400	in	ns	edns2.ultradns.biz.
@@ -31748,10 +31776,8 @@ xn--wbsq7hzrhj1uvifyzk.xn--io0a7i.	86400	in	ns	ns1.dnszw.com.
 xn--wbsq7hzrhj1uvifyzk.xn--io0a7i.	86400	in	ns	ns2.dnszw.com.
 xn--wbss0a955e.xn--io0a7i.	86400	in	ns	dns27.hichina.com.
 xn--wbss0a955e.xn--io0a7i.	86400	in	ns	dns28.hichina.com.
-xn--wbsu43bkzz.xn--io0a7i.	86400	in	ns	ns.cnkuai.cn.
-xn--wbsu43bkzz.xn--io0a7i.	86400	in	ns	ns.cnkuai.com.
-xn--wbsu43bkzz.xn--io0a7i.	86400	in	ns	ns2.cnkuai.cn.
-xn--wbsu43bkzz.xn--io0a7i.	86400	in	ns	ns2.cnkuai.com.
+xn--wbsu43bkzz.xn--io0a7i.	86400	in	ns	ns1.pending-renewal-domain.com.
+xn--wbsu43bkzz.xn--io0a7i.	86400	in	ns	ns2.pending-renewal-domain.com.
 xn--wbsu73k.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--wbsu73k.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--wbsus28nf2hc2be6c.xn--io0a7i.	86400	in	ns	ns1.nowcndns.com.
@@ -31788,8 +31814,6 @@ xn--wbsy6nj7hvf5rs1uw79a.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--wbsy6nj7hvf5rs1uw79a.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--wbsy6nkt4ayfv.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--wbsy6nkt4ayfv.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
-xn--wbsy6nqnibroz2l.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
-xn--wbsy6nqnibroz2l.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--wbsy6nv1ggxnn50b.xn--io0a7i.	86400	in	ns	ns4.myhostadmin.net.
 xn--wbsy6nv1ggxnn50b.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 xn--wbsy6nv3cp2g.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
@@ -32316,7 +32340,6 @@ xn--wlqv63bpvf7tcc7t288bna.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--wlqvh2yo2c0xdj3aj96a8mw8w0aj5pi67bra83b249h.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--wlqw1s.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--wlqw1s.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
-xn--wlqw1s383afcu.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--wlqw1s3ubowqxyw.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
 xn--wlqw1s3ubowqxyw.xn--io0a7i.	86400	in	ns	v1s2.xundns.com.
 xn--wlqw1sdsb432h.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
@@ -32467,8 +32490,6 @@ xn--wlqy1i333b7vo.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--wlqy1i333b7vo.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--wlqy1iw27a2zkv51a.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--wlqy1iw27a2zkv51a.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
-xn--wlqy4k3paf3f8tm48vx73a.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
-xn--wlqy4k3paf3f8tm48vx73a.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--wlqz5hjtegqg3zqmkgo5td0byx7b6ux.xn--io0a7i.	86400	in	ns	ns1.cnolnic.com.
 xn--wlqz5hjtegqg3zqmkgo5td0byx7b6ux.xn--io0a7i.	86400	in	ns	ns2.cnolnic.com.
 xn--wlqz6r.xn--io0a7i.	86400	in	ns	ns1.everdns.com.
@@ -32679,6 +32700,8 @@ xn--wxtq0ny6olw3a.xn--io0a7i.	86400	in	ns	ns2.brandshelter.de.
 xn--wxtq0ny6olw3a.xn--io0a7i.	86400	in	ns	ns3.brandshelter.info.
 xn--wxtq0ny6olw3a.xn--io0a7i.	86400	in	ns	ns4.brandshelter.net.
 xn--wxtq0ny6olw3a.xn--io0a7i.	86400	in	ns	ns5.brandshelter.us.
+xn--wxtr44c.xn--io0a7i.	86400	in	ns	ns1.cnolnic.com.
+xn--wxtr44c.xn--io0a7i.	86400	in	ns	ns2.cnolnic.com.
 xn--wxtr44c0hau9c.xn--io0a7i.	86400	in	ns	ns1.brandshelter.com.
 xn--wxtr44c0hau9c.xn--io0a7i.	86400	in	ns	ns2.brandshelter.de.
 xn--wxtr44c0hau9c.xn--io0a7i.	86400	in	ns	ns3.brandshelter.info.
@@ -32733,6 +32756,8 @@ xn--wyu50ih15avns.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--wyu50ih15avns.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--wyu62q5t0b.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--wyu62q5t0b.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--wyu77km93a.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--wyu77km93a.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--x1sx49i.xn--io0a7i.	86400	in	ns	n1.xundns.com.
 xn--x1sx49i.xn--io0a7i.	86400	in	ns	n2.xundns.com.
 xn--x41a47vo9b.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -32905,6 +32930,8 @@ xn--xgv438e.xn--io0a7i.	86400	in	ns	ns3.dns.com.
 xn--xgv438e.xn--io0a7i.	86400	in	ns	ns4.dns.com.
 xn--xhq024a2rc5xl.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--xhq024a2rc5xl.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--xhq028f.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
+xn--xhq028f.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--xhq02y8ncd4n.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--xhq02y8ncd4n.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--xhq042b6igh08b.xn--io0a7i.	86400	in	ns	v1s1.xundns.com.
@@ -33220,8 +33247,6 @@ xn--xhqp9tsub6vvbq0b.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--xhqp9tsub6vvbq0b.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--xhqpct77tqia.xn--io0a7i.	86400	in	ns	ns1.yumidns.com.
 xn--xhqpct77tqia.xn--io0a7i.	86400	in	ns	ns2.yumidns.com.
-xn--xhqq28cdvp3wm.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
-xn--xhqq28cdvp3wm.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--xhqq4f5vc69qlh5bi1t.xn--io0a7i.	86400	in	ns	dm1.longmingdns.com.
 xn--xhqq4f5vc69qlh5bi1t.xn--io0a7i.	86400	in	ns	dm2.longmingdns.com.
 xn--xhqq4f5vcevbuz2cyltv55bvtl6nf.xn--io0a7i.	86400	in	ns	ns1.8hy.cn.
@@ -33428,6 +33453,8 @@ xn--xkr29kt5ce07eueav29b.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--xkr29kt5ce07eueav29b.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 xn--xkr34q9uifwbeyyvlk7r1d.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--xkr34q9uifwbeyyvlk7r1d.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--xkr34qq48c.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
+xn--xkr34qq48c.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--xkr369cba880u.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--xkr369cba880u.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--xkr36q30o.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
@@ -33837,6 +33864,8 @@ xn--xv0ab.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--xv0ab.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 xn--xv0av9dx2ykoc.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--xv0av9dx2ykoc.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
+xn--xw0a15v.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--xw0a15v.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--xw0ap87a.xn--io0a7i.	86400	in	ns	dns31.hichina.com.
 xn--xw0ap87a.xn--io0a7i.	86400	in	ns	dns32.hichina.com.
 xn--xwr61f968aqwl.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
@@ -33902,6 +33931,8 @@ xn--xyst6k.xn--io0a7i.	86400	in	ns	ns1.8hy.hk.
 xn--xyst6k.xn--io0a7i.	86400	in	ns	ns2.8hy.hk.
 xn--xysw23g05a.xn--io0a7i.	86400	in	ns	ns1.alidns.com.
 xn--xysw23g05a.xn--io0a7i.	86400	in	ns	ns2.alidns.com.
+xn--xysw4rr83blwe.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
+xn--xysw4rr83blwe.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--xysx2m.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--xysx2m.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--xysx2m.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
@@ -34245,6 +34276,8 @@ xn--yhqr4yyov4wa.xn--io0a7i.	86400	in	ns	dns19.hichina.com.
 xn--yhqr4yyov4wa.xn--io0a7i.	86400	in	ns	dns20.hichina.com.
 xn--yhqu35aa0385b.xn--io0a7i.	86400	in	ns	ns1.cnolnic.com.
 xn--yhqu35aa0385b.xn--io0a7i.	86400	in	ns	ns2.cnolnic.com.
+xn--yhqu3zny4b.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
+xn--yhqu3zny4b.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--yhqv60h.xn--io0a7i.	86400	in	ns	ns1.22.cn.
 xn--yhqv60h.xn--io0a7i.	86400	in	ns	ns2.22.cn.
 xn--yhqwks1px69d.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
@@ -34382,8 +34415,8 @@ xn--z3v61f18f1rftml.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--z3v61f18f1rftml.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--z3v61f18f1rftml.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--z3v61f18f1rftml.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
-xn--z4q06a014beqs.xn--io0a7i.	86400	in	ns	hedda.dnspod.net.
-xn--z4q06a014beqs.xn--io0a7i.	86400	in	ns	popcorn.dnspod.net.
+xn--z4q06a014beqs.xn--io0a7i.	86400	in	ns	ns1.pending-renewal-domain.com.
+xn--z4q06a014beqs.xn--io0a7i.	86400	in	ns	ns2.pending-renewal-domain.com.
 xn--z4q08ds5jccv5q.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 xn--z4q08ds5jccv5q.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
 xn--z4q0fv6eqtmuc9111a.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -34398,8 +34431,8 @@ xn--z4q13wtb046s.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
 xn--z4q13wtb046s.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
 xn--z4q13wtb046s.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
 xn--z4q13wtb046s.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
-xn--z4q13wtb433bu85e.xn--io0a7i.	86400	in	ns	ns1.nowcndns.com.
-xn--z4q13wtb433bu85e.xn--io0a7i.	86400	in	ns	ns2.nowcndns.com.
+xn--z4q13wtb433bu85e.xn--io0a7i.	86400	in	ns	park.i-now.cn.
+xn--z4q13wtb433bu85e.xn--io0a7i.	86400	in	ns	park.i-now.com.
 xn--z4q13wtb768k9xonnb.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 xn--z4q13wtb768k9xonnb.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 xn--z4q13wtbt00d8yihoa496i.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -34953,6 +34986,8 @@ xn--zfrrsl32pswa.xn--io0a7i.	86400	in	ns	ce1.xincache.com.
 xn--zfrrsl32pswa.xn--io0a7i.	86400	in	ns	ce2.xincache.com.
 xn--zfrt9agym71cuj4a06n.xn--io0a7i.	86400	in	ns	dns15.hichina.com.
 xn--zfrt9agym71cuj4a06n.xn--io0a7i.	86400	in	ns	dns16.hichina.com.
+xn--zfrtnj9hxtueg8c.xn--io0a7i.	86400	in	ns	ns1.volcengine-dns.com.
+xn--zfrtnj9hxtueg8c.xn--io0a7i.	86400	in	ns	ns2.volcengine-dns.com.
 xn--zfrv35h.xn--io0a7i.	86400	in	ns	ns1.myhostadmin.net.
 xn--zfrv35h.xn--io0a7i.	86400	in	ns	ns2.myhostadmin.net.
 xn--zfrv6aq6ff5eu5cjxupm5b.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
@@ -35127,10 +35162,6 @@ xn--zuutt.xn--io0a7i.	86400	in	ns	ns1.sedoparking.com.
 xn--zuutt.xn--io0a7i.	86400	in	ns	ns2.sedoparking.com.
 xn--zux738d.xn--io0a7i.	86400	in	ns	ns1.guoxuwang.com.
 xn--zux738d.xn--io0a7i.	86400	in	ns	ns2.guoxuwang.com.
-xn--zuxw4lwwg.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
-xn--zuxw4lwwg.xn--io0a7i.	86400	in	ns	ns.nagor.com.cn.
-xn--zuxw4lwwg.xn--io0a7i.	86400	in	ns	ns1.dnsnw.com.
-xn--zuxw4lwwg.xn--io0a7i.	86400	in	ns	ns2.dnsnw.com.
 xn--zw0al8f8vx.xn--io0a7i.	86400	in	ns	dns17.hichina.com.
 xn--zw0al8f8vx.xn--io0a7i.	86400	in	ns	dns18.hichina.com.
 xn--zw0am3odtg.xn--io0a7i.	86400	in	ns	ens1.net-chinese.com.tw.
@@ -35175,8 +35206,6 @@ xunxi.xn--io0a7i.	86400	in	ns	ns1.zxnic.net.
 xunxi.xn--io0a7i.	86400	in	ns	ns2.zxnic.net.
 xwc.xn--io0a7i.	86400	in	ns	dns19.hichina.com.
 xwc.xn--io0a7i.	86400	in	ns	dns20.hichina.com.
-xxywg.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
-xxywg.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
 xxz.xn--io0a7i.	86400	in	ns	dns31.hichina.com.
 xxz.xn--io0a7i.	86400	in	ns	dns32.hichina.com.
 xxzxxw.xn--io0a7i.	86400	in	ns	dns17.hichina.com.
@@ -35198,8 +35227,6 @@ yahoo.xn--io0a7i.	86400	in	ns	ns4.markmonitor.com.
 yahoo.xn--io0a7i.	86400	in	ns	ns5.markmonitor.com.
 yahoo.xn--io0a7i.	86400	in	ns	ns6.markmonitor.com.
 yahoo.xn--io0a7i.	86400	in	ns	ns7.markmonitor.com.
-yaliao.xn--io0a7i.	86400	in	ns	ns1.pending-renewal-domain.com.
-yaliao.xn--io0a7i.	86400	in	ns	ns2.pending-renewal-domain.com.
 yamaxun.xn--io0a7i.	86400	in	ns	nsgbr.comlaude.co.uk.
 yamaxun.xn--io0a7i.	86400	in	ns	nssui.comlaude.ch.
 yamaxun.xn--io0a7i.	86400	in	ns	nsusa.comlaude.net.
@@ -35291,8 +35318,8 @@ youtx.xn--io0a7i.	86400	in	ns	dns9.hichina.com.
 ysl.xn--io0a7i.	86400	in	ns	nsgbr.comlaude.co.uk.
 ysl.xn--io0a7i.	86400	in	ns	nssui.comlaude.ch.
 ysl.xn--io0a7i.	86400	in	ns	nsusa.comlaude.net.
-yto.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
-yto.xn--io0a7i.	86400	in	ns	dns9.hichina.com.
+yto.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
+yto.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
 yudan.xn--io0a7i.	86400	in	ns	ns5.myhostadmin.net.
 yudan.xn--io0a7i.	86400	in	ns	ns6.myhostadmin.net.
 yuezheng.xn--io0a7i.	86400	in	ns	ns.nagor.cn.
@@ -35325,8 +35352,8 @@ yyds.xn--io0a7i.	86400	in	ns	dns11.hichina.com.
 yyds.xn--io0a7i.	86400	in	ns	dns12.hichina.com.
 yzg.xn--io0a7i.	86400	in	ns	dns1.hichina.com.
 yzg.xn--io0a7i.	86400	in	ns	dns2.hichina.com.
-yzs.xn--io0a7i.	86400	in	ns	dns10.hichina.com.
-yzs.xn--io0a7i.	86400	in	ns	dns9.hichina.com.
+yzs.xn--io0a7i.	86400	in	ns	expirens3.hichina.com.
+yzs.xn--io0a7i.	86400	in	ns	expirens4.hichina.com.
 zaochen.xn--io0a7i.	86400	in	ns	ns3.dns.com.
 zaochen.xn--io0a7i.	86400	in	ns	ns4.dns.com.
 zero.xn--io0a7i.	86400	in	ns	dns29.hichina.com.
@@ -35479,4 +35506,4 @@ zyxczx.xn--io0a7i.	86400	in	ns	ns1.gxkjdns.com.
 zyxczx.xn--io0a7i.	86400	in	ns	ns2.gxkjdns.com.
 zzsm.xn--io0a7i.	86400	in	ns	dns-ch.xinnet.com.
 zzsm.xn--io0a7i.	86400	in	ns	dns-ch2.xinnet.com.
-xn--io0a7i.	21600	in	soa	a.ngtld.cn. sysmgr.cnnic.cn. 2018816043 14400 3600 2419200 21600
+xn--io0a7i.	21600	in	soa	a.ngtld.cn. sysmgr.cnnic.cn. 2018816192 14400 3600 2419200 21600
