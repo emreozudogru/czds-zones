@@ -1,10 +1,12 @@
-box.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1756255459 900 1800 6048000 3600
+box.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757033650 900 1800 6048000 3600
 0.box.	3600	in	ns	ns1.3dns.box.
 0.box.	3600	in	ns	ns2.3dns.box.
 00.box.	3600	in	ns	ns1.3dns.box.
 00.box.	3600	in	ns	ns2.3dns.box.
 000.box.	3600	in	ns	ns1.3dns.box.
 000.box.	3600	in	ns	ns2.3dns.box.
+0000.box.	3600	in	ns	ns1.3dns.box.
+0000.box.	3600	in	ns	ns2.3dns.box.
 00000.box.	3600	in	ns	ns1.3dns.box.
 00000.box.	3600	in	ns	ns2.3dns.box.
 000000.box.	3600	in	ns	ns1.3dns.box.
@@ -260,6 +262,8 @@ box.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1756255459 900 18
 688.box.	3600	in	ns	ns2.3dns.box.
 69.box.	3600	in	ns	ns1.3dns.box.
 69.box.	3600	in	ns	ns2.3dns.box.
+6969.box.	3600	in	ns	ns1.3dns.box.
+6969.box.	3600	in	ns	ns2.3dns.box.
 699.box.	3600	in	ns	ns1.3dns.box.
 699.box.	3600	in	ns	ns2.3dns.box.
 7.box.	3600	in	ns	ns1.3dns.box.
@@ -270,6 +274,8 @@ box.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1756255459 900 18
 717.box.	3600	in	ns	ns2.3dns.box.
 719.box.	3600	in	ns	ns1.3dns.box.
 719.box.	3600	in	ns	ns2.3dns.box.
+721.box.	3600	in	ns	ns1.3dns.box.
+721.box.	3600	in	ns	ns2.3dns.box.
 73.box.	3600	in	ns	ns1.3dns.box.
 73.box.	3600	in	ns	ns2.3dns.box.
 76.box.	3600	in	ns	ns1.3dns.box.
@@ -408,6 +414,8 @@ adam.box.	3600	in	ns	ns1.3dns.box.
 adam.box.	3600	in	ns	ns2.3dns.box.
 adidas.box.	3600	in	ns	ns1.3dns.box.
 adidas.box.	3600	in	ns	ns2.3dns.box.
+admin.box.	3600	in	ns	ns1.3dns.box.
+admin.box.	3600	in	ns	ns2.3dns.box.
 ads.box.	3600	in	ns	ns1.3dns.box.
 ads.box.	3600	in	ns	ns2.3dns.box.
 adult.box.	3600	in	ns	ns1.3dns.box.
@@ -470,8 +478,9 @@ airdrop.box.	3600	in	ns	derek.ns.cloudflare.com.
 airdrop.box.	3600	in	ns	sara.ns.cloudflare.com.
 airport.box.	3600	in	ns	ns1.3dns.box.
 airport.box.	3600	in	ns	ns2.3dns.box.
-aix.box.	3600	in	ns	ns1.3dns.box.
-aix.box.	3600	in	ns	ns2.3dns.box.
+aix.box.	3600	in	ns	ns1.dnsowl.com.
+aix.box.	3600	in	ns	ns2.dnsowl.com.
+aix.box.	3600	in	ns	ns3.dnsowl.com.
 ak.box.	3600	in	ns	ns1.3dns.box.
 ak.box.	3600	in	ns	ns2.3dns.box.
 aka.box.	3600	in	ns	ns1.3dns.box.
@@ -593,6 +602,8 @@ arcade.box.	3600	in	ns	ns1.3dns.box.
 arcade.box.	3600	in	ns	ns2.3dns.box.
 arcane.box.	3600	in	ns	ns1.ns306.parklogic.com.
 arcane.box.	3600	in	ns	ns2.ns306.parklogic.com.
+archive.box.	3600	in	ns	ns1.3dns.box.
+archive.box.	3600	in	ns	ns2.3dns.box.
 ard.box.	3600	in	ns	ns1.3dns.box.
 ard.box.	3600	in	ns	ns2.3dns.box.
 arena.box.	3600	in	ns	ns1.3dns.box.
@@ -662,6 +673,8 @@ aurora.box.	3600	in	ns	ns1.3dns.box.
 aurora.box.	3600	in	ns	ns2.3dns.box.
 auth.box.	3600	in	ns	ns1.3dns.box.
 auth.box.	3600	in	ns	ns2.3dns.box.
+automation.box.	3600	in	ns	ns1.3dns.box.
+automation.box.	3600	in	ns	ns2.3dns.box.
 autonomy.box.	3600	in	ns	ns1.3dns.box.
 autonomy.box.	3600	in	ns	ns2.3dns.box.
 av.box.	3600	in	ns	ns1.3dns.box.
@@ -725,12 +738,16 @@ bae.box.	3600	in	ns	coleman.ns.cloudflare.com.
 bae.box.	3600	in	ns	liberty.ns.cloudflare.com.
 bagel.box.	3600	in	ns	ns1.3dns.box.
 bagel.box.	3600	in	ns	ns2.3dns.box.
+baidu.box.	3600	in	ns	ns1.3dns.box.
+baidu.box.	3600	in	ns	ns2.3dns.box.
 bailey.box.	3600	in	ns	ns1.3dns.box.
 bailey.box.	3600	in	ns	ns2.3dns.box.
 baip.box.	3600	in	ns	ns1.3dns.box.
 baip.box.	3600	in	ns	ns2.3dns.box.
 baipoker.box.	3600	in	ns	ns1.3dns.box.
 baipoker.box.	3600	in	ns	ns2.3dns.box.
+bait.box.	3600	in	ns	ns1.3dns.box.
+bait.box.	3600	in	ns	ns2.3dns.box.
 baker.box.	3600	in	ns	ns1.3dns.box.
 baker.box.	3600	in	ns	ns2.3dns.box.
 bakery.box.	3600	in	ns	ns1.3dns.box.
@@ -807,8 +824,9 @@ bc.box.	3600	in	ns	ns1.3dns.box.
 bc.box.	3600	in	ns	ns2.3dns.box.
 bday.box.	3600	in	ns	ns1.3dns.box.
 bday.box.	3600	in	ns	ns2.3dns.box.
-bdsm.box.	3600	in	ns	ns1.3dns.box.
-bdsm.box.	3600	in	ns	ns2.3dns.box.
+bdsm.box.	3600	in	ns	ns1.dnsowl.com.
+bdsm.box.	3600	in	ns	ns2.dnsowl.com.
+bdsm.box.	3600	in	ns	ns3.dnsowl.com.
 be.box.	3600	in	ns	ns1.3dns.box.
 be.box.	3600	in	ns	ns2.3dns.box.
 beam.box.	3600	in	ns	kinsley.ns.cloudflare.com.
@@ -825,6 +843,8 @@ bed.box.	3600	in	ns	ns1.3dns.box.
 bed.box.	3600	in	ns	ns2.3dns.box.
 bee.box.	3600	in	ns	ns1.3dns.box.
 bee.box.	3600	in	ns	ns2.3dns.box.
+beef.box.	3600	in	ns	ns1.3dns.box.
+beef.box.	3600	in	ns	ns2.3dns.box.
 beep.box.	3600	in	ns	ns1.3dns.box.
 beep.box.	3600	in	ns	ns2.3dns.box.
 beer.box.	3600	in	ns	ns1.3dns.box.
@@ -994,8 +1014,8 @@ box.	3600	in	rrsig	DNSKEY 8 1 3600 20250912212212 20250813195212 872 box. jRY/3q
 box.	900	in	nsec3param	1 0 0 -
 box.	900	in	rrsig	NSEC3PARAM 8 1 900 20250912212212 20250813195212 23355 box. BCsNa+hkVBraOZXnGmD5VS7Z9Lp0MDMVcv4aQDc4eKD/OWqEmpuwcxXOkd1m8PoBkGuqb1zkLN93jjTZHABJRzLazXpDIGy5F67/W9P0WFNfX4UT6J1WoW5TT/76BMs9NlznsTbI75w+uilr1YyGeMP1LDuoXv73O1r9mzFwuIU=
 box.	900	in	rrsig	NSEC3PARAM 8 1 900 20250912212212 20250813195212 25033 box. bTz9eDc+BHpJDLUrQCpVLLnYvVHUmzy4dGVBSmIO6ugADuELlPVuhmNr+TyeUfAKxehzEzdjYxQdMG8E0EcME/GSUkmY00pEFCkvQOss5SyWpDiFBqKNrYG4QvpAmLsd4JjLpS2y3Rgliy7OIRW+t0voHJKAnCEQh5gWpDN6rTA=
-box.	900	in	rrsig	SOA 8 1 900 20250926004419 20250826231419 23355 box. b4ZbG21KmhIhvVNca5HtA7ILftM4LR+iHqs9tslT94IkvIstjso1jR2IGMnETaJsqL/WsUhHBclRe/6b5EVIHZuAwcFU4Idf6yTPIJaZnoSyFEhvwUuXO1fGai90VB8pcXLyv+s7/NoybZTkV9Umy0Rqj1j3KSr4gN8CrXH+s78=
-box.	900	in	rrsig	SOA 8 1 900 20250926004419 20250826231419 25033 box. R7/fPW+jv5hpM8Bif6PbOaVhtwzHTudKbgptSOodcJK5atnwFWHI6lOBWCtNC/+VwaN05JJXgO8fe6WQX8fT/jGGT0jWuu+7gv94kBwj+e6cL2LxEfTRwwyfMw5B7N+mIVz6EpwDJcG0T2IAIAbjH0jSA+ADDtZvRrHewBMfl1w=
+box.	900	in	rrsig	SOA 8 1 900 20251005005410 20250904232410 23355 box. HYtG3PlRBEG4XRA1kRlkYPVRz0tkofv8KfqWsp7EYAaf/Z/mA0mtbb5qXhPj50X9lMcd0Tm1HE0JRNnlF450A6poASUp5GC/wYsInYapsCArnLLSPBVFje9PSiCC2Yw7yWdYmQvll6Yj3BQyhnPIRsuU+tqQxztMCXQHLXCRGVY=
+box.	900	in	rrsig	SOA 8 1 900 20251005005410 20250904232410 25033 box. tzDXo2/zPJgHgj/OX6Hwv4Av4l5QOuVN9OxgN6psJAsQSI/H6Z2oPGa+2N0xnsRCs/97fXZqE9JefKOfbLFVzO1rbkMmPPejz2OWg8cj/FqqYGWaXbAtLrAmJONvSdLMq3XcdYL0G5KAfjsREVOwppVf2sn5zv8/Pn/CHFWk4lU=
 box.box.	3600	in	ns	ns1.3dns.box.
 box.box.	3600	in	ns	ns2.3dns.box.
 boxbox.box.	3600	in	ns	ns1.3dns.box.
@@ -1347,9 +1367,6 @@ commissionroad.box.	3600	in	ns	jihoon.ns.cloudflare.com.
 commissionroad.box.	3600	in	ns	rayne.ns.cloudflare.com.
 commit.box.	3600	in	ns	ns1.3dns.box.
 commit.box.	3600	in	ns	ns2.3dns.box.
-compare.box.	3600	in	ns	ns1.dnsowl.com.
-compare.box.	3600	in	ns	ns2.dnsowl.com.
-compare.box.	3600	in	ns	ns3.dnsowl.com.
 competition.box.	3600	in	ns	ns1.3dns.box.
 competition.box.	3600	in	ns	ns2.3dns.box.
 computer.box.	3600	in	ns	ns1.3dns.box.
@@ -1419,6 +1436,8 @@ coupons.box.	3600	in	ns	ns1.3dns.box.
 coupons.box.	3600	in	ns	ns2.3dns.box.
 courier.box.	3600	in	ns	ns1.3dns.box.
 courier.box.	3600	in	ns	ns2.3dns.box.
+cow.box.	3600	in	ns	ns1.3dns.box.
+cow.box.	3600	in	ns	ns2.3dns.box.
 cox.box.	3600	in	ns	ns1.3dns.box.
 cox.box.	3600	in	ns	ns2.3dns.box.
 cp.box.	3600	in	ns	ns1.3dns.box.
@@ -1724,8 +1743,6 @@ don.box.	3600	in	ns	ns1.3dns.box.
 don.box.	3600	in	ns	ns2.3dns.box.
 donald.box.	3600	in	ns	ns1.3dns.box.
 donald.box.	3600	in	ns	ns2.3dns.box.
-donaldjtrump.box.	3600	in	ns	ns1.ns306.parklogic.com.
-donaldjtrump.box.	3600	in	ns	ns2.ns306.parklogic.com.
 donaldtrump.box.	3600	in	ns	ns1.3dns.box.
 donaldtrump.box.	3600	in	ns	ns2.3dns.box.
 donate.box.	3600	in	ns	ns1.3dns.box.
@@ -2084,6 +2101,8 @@ fhe.box.	3600	in	ns	ns1.3dns.box.
 fhe.box.	3600	in	ns	ns2.3dns.box.
 fhtc.box.	3600	in	ns	ns1.3dns.box.
 fhtc.box.	3600	in	ns	ns2.3dns.box.
+fi.box.	3600	in	ns	ns1.3dns.box.
+fi.box.	3600	in	ns	ns2.3dns.box.
 fiat.box.	3600	in	ns	ns1.3dns.box.
 fiat.box.	3600	in	ns	ns2.3dns.box.
 fib.box.	3600	in	ns	ns1.3dns.box.
@@ -2163,12 +2182,16 @@ flow.box.	3600	in	ns	ns1.3dns.box.
 flow.box.	3600	in	ns	ns2.3dns.box.
 flower.box.	3600	in	ns	ns1.3dns.box.
 flower.box.	3600	in	ns	ns2.3dns.box.
+fluid.box.	3600	in	ns	ns1.3dns.box.
+fluid.box.	3600	in	ns	ns2.3dns.box.
 fly.box.	3600	in	ns	ns1.3dns.box.
 fly.box.	3600	in	ns	ns2.3dns.box.
 flycar.box.	3600	in	ns	ns1.3dns.box.
 flycar.box.	3600	in	ns	ns2.3dns.box.
 flyingcar.box.	3600	in	ns	ns1.3dns.box.
 flyingcar.box.	3600	in	ns	ns2.3dns.box.
+fm.box.	3600	in	ns	ns1.3dns.box.
+fm.box.	3600	in	ns	ns2.3dns.box.
 fn.box.	3600	in	ns	ns1.3dns.box.
 fn.box.	3600	in	ns	ns2.3dns.box.
 fogphos.box.	3600	in	ns	ns1.3dns.box.
@@ -2229,11 +2252,10 @@ freedom.box.	3600	in	ns	ns1.3dns.box.
 freedom.box.	3600	in	ns	ns2.3dns.box.
 freeyou.box.	3600	in	ns	ns1.3dns.box.
 freeyou.box.	3600	in	ns	ns2.3dns.box.
+fresh.box.	3600	in	ns	ns1.3dns.box.
+fresh.box.	3600	in	ns	ns2.3dns.box.
 frey.box.	3600	in	ns	ns1.3dns.box.
 frey.box.	3600	in	ns	ns2.3dns.box.
-friend.box.	3600	in	ns	ns1.dnsowl.com.
-friend.box.	3600	in	ns	ns2.dnsowl.com.
-friend.box.	3600	in	ns	ns3.dnsowl.com.
 friends.box.	3600	in	ns	ns1.3dns.box.
 friends.box.	3600	in	ns	ns2.3dns.box.
 fritz-nas.box.	3600	in	ns	ns1.3dns.box.
@@ -2260,8 +2282,9 @@ funds.box.	3600	in	ns	ns1.3dns.box.
 funds.box.	3600	in	ns	ns2.3dns.box.
 furry.box.	3600	in	ns	ezra.ns.cloudflare.com.
 furry.box.	3600	in	ns	wanda.ns.cloudflare.com.
-fusaka-light.box.	3600	in	ns	ns1.3dns.box.
-fusaka-light.box.	3600	in	ns	ns2.3dns.box.
+fusaka-light.box.	3600	in	ns	ns1.dnsowl.com.
+fusaka-light.box.	3600	in	ns	ns2.dnsowl.com.
+fusaka-light.box.	3600	in	ns	ns3.dnsowl.com.
 fuse.box.	3600	in	ns	ns1.3dns.box.
 fuse.box.	3600	in	ns	ns2.3dns.box.
 future.box.	3600	in	ns	ns1.3dns.box.
@@ -2337,8 +2360,6 @@ getmy.box.	3600	in	ns	ns1.3dns.box.
 getmy.box.	3600	in	ns	ns2.3dns.box.
 gg.box.	3600	in	ns	ns1.3dns.box.
 gg.box.	3600	in	ns	ns2.3dns.box.
-ghost.box.	3600	in	ns	ns1.ns306.parklogic.com.
-ghost.box.	3600	in	ns	ns2.ns306.parklogic.com.
 gift.box.	3600	in	ns	ns1.3dns.box.
 gift.box.	3600	in	ns	ns2.3dns.box.
 gig.box.	3600	in	ns	ns1.3dns.box.
@@ -2462,6 +2483,8 @@ hairdresser.box.	3600	in	ns	ns1.3dns.box.
 hairdresser.box.	3600	in	ns	ns2.3dns.box.
 hairy.box.	3600	in	ns	ns1.3dns.box.
 hairy.box.	3600	in	ns	ns2.3dns.box.
+hako.box.	3600	in	ns	ns1.3dns.box.
+hako.box.	3600	in	ns	ns2.3dns.box.
 hal9000.box.	3600	in	ns	ns1.3dns.box.
 hal9000.box.	3600	in	ns	ns2.3dns.box.
 hall.box.	3600	in	ns	ns1.3dns.box.
@@ -2512,6 +2535,8 @@ her.box.	3600	in	ns	ns1.3dns.box.
 her.box.	3600	in	ns	ns2.3dns.box.
 herb.box.	3600	in	ns	ns1.3dns.box.
 herb.box.	3600	in	ns	ns2.3dns.box.
+herbal.box.	3600	in	ns	ns1.3dns.box.
+herbal.box.	3600	in	ns	ns2.3dns.box.
 hermes.box.	3600	in	ns	ns1.3dns.box.
 hermes.box.	3600	in	ns	ns2.3dns.box.
 hern.box.	3600	in	ns	ns1.3dns.box.
@@ -2632,8 +2657,9 @@ hunter.box.	3600	in	ns	ns1.3dns.box.
 hunter.box.	3600	in	ns	ns2.3dns.box.
 hunting.box.	3600	in	ns	ns1.3dns.box.
 hunting.box.	3600	in	ns	ns2.3dns.box.
-hus.box.	3600	in	ns	ns1.3dns.box.
-hus.box.	3600	in	ns	ns2.3dns.box.
+hus.box.	3600	in	ns	ns1.dnsowl.com.
+hus.box.	3600	in	ns	ns2.dnsowl.com.
+hus.box.	3600	in	ns	ns3.dnsowl.com.
 hvm.box.	3600	in	ns	ns1.3dns.box.
 hvm.box.	3600	in	ns	ns2.3dns.box.
 hw.box.	3600	in	ns	ns1.3dns.box.
@@ -2664,9 +2690,6 @@ ic.box.	3600	in	ns	ns1.3dns.box.
 ic.box.	3600	in	ns	ns2.3dns.box.
 iced.box.	3600	in	ns	ns1.3dns.box.
 iced.box.	3600	in	ns	ns2.3dns.box.
-icert.box.	3600	in	ns	ns1.dnsowl.com.
-icert.box.	3600	in	ns	ns2.dnsowl.com.
-icert.box.	3600	in	ns	ns3.dnsowl.com.
 icon.box.	3600	in	ns	ns1.3dns.box.
 icon.box.	3600	in	ns	ns2.3dns.box.
 id.box.	3600	in	ns	ns1.3dns.box.
@@ -2701,8 +2724,9 @@ ind.box.	3600	in	ns	ns1.3dns.box.
 ind.box.	3600	in	ns	ns2.3dns.box.
 industry.box.	3600	in	ns	ns1.3dns.box.
 industry.box.	3600	in	ns	ns2.3dns.box.
-inexplicable.box.	3600	in	ns	ns1.3dns.box.
-inexplicable.box.	3600	in	ns	ns2.3dns.box.
+inexplicable.box.	3600	in	ns	ns1.dnsowl.com.
+inexplicable.box.	3600	in	ns	ns2.dnsowl.com.
+inexplicable.box.	3600	in	ns	ns3.dnsowl.com.
 infinex.box.	3600	in	ns	ns1.3dns.box.
 infinex.box.	3600	in	ns	ns2.3dns.box.
 influence.box.	3600	in	ns	ns1.3dns.box.
@@ -2999,8 +3023,6 @@ kol.box.	3600	in	ns	ns1.3dns.box.
 kol.box.	3600	in	ns	ns2.3dns.box.
 kong.box.	3600	in	ns	ns1.ns306.parklogic.com.
 kong.box.	3600	in	ns	ns2.ns306.parklogic.com.
-kosh.box.	3600	in	ns	ns1.ns306.parklogic.com.
-kosh.box.	3600	in	ns	ns2.ns306.parklogic.com.
 kr.box.	3600	in	ns	ns1.3dns.box.
 kr.box.	3600	in	ns	ns2.3dns.box.
 kraid.box.	3600	in	ns	ns1.3dns.box.
@@ -3065,8 +3087,9 @@ laws.box.	3600	in	ns	ns1.3dns.box.
 laws.box.	3600	in	ns	ns2.3dns.box.
 lawyer.box.	3600	in	ns	ns1.3dns.box.
 lawyer.box.	3600	in	ns	ns2.3dns.box.
-lawyers.box.	3600	in	ns	ns1.3dns.box.
-lawyers.box.	3600	in	ns	ns2.3dns.box.
+lawyers.box.	3600	in	ns	ns1.dnsowl.com.
+lawyers.box.	3600	in	ns	ns2.dnsowl.com.
+lawyers.box.	3600	in	ns	ns3.dnsowl.com.
 layer3.box.	3600	in	ns	ns1.3dns.box.
 layer3.box.	3600	in	ns	ns2.3dns.box.
 le.box.	3600	in	ns	ns1.3dns.box.
@@ -3105,6 +3128,8 @@ lena.box.	3600	in	ns	ns1.3dns.box.
 lena.box.	3600	in	ns	ns2.3dns.box.
 lend.box.	3600	in	ns	ns1.3dns.box.
 lend.box.	3600	in	ns	ns2.3dns.box.
+lender.box.	3600	in	ns	ns1.3dns.box.
+lender.box.	3600	in	ns	ns2.3dns.box.
 lending.box.	3600	in	ns	ns1.3dns.box.
 lending.box.	3600	in	ns	ns2.3dns.box.
 lens.box.	3600	in	ns	diana.ns.cloudflare.com.
@@ -3139,6 +3164,8 @@ lightcode.box.	3600	in	ns	ns1.ns306.parklogic.com.
 lightcode.box.	3600	in	ns	ns2.ns306.parklogic.com.
 lihi.box.	3600	in	ns	ns1.3dns.box.
 lihi.box.	3600	in	ns	ns2.3dns.box.
+lime.box.	3600	in	ns	ns1.3dns.box.
+lime.box.	3600	in	ns	ns2.3dns.box.
 limeum.box.	3600	in	ns	ns1.3dns.box.
 limeum.box.	3600	in	ns	ns2.3dns.box.
 linda.box.	3600	in	ns	ns1.3dns.box.
@@ -3274,6 +3301,8 @@ maas.box.	3600	in	ns	ns1.3dns.box.
 maas.box.	3600	in	ns	ns2.3dns.box.
 macbook.box.	3600	in	ns	ns1.3dns.box.
 macbook.box.	3600	in	ns	ns2.3dns.box.
+machinery.box.	3600	in	ns	ns1.3dns.box.
+machinery.box.	3600	in	ns	ns2.3dns.box.
 mad.box.	3600	in	ns	ns1.3dns.box.
 mad.box.	3600	in	ns	ns2.3dns.box.
 madrid.box.	3600	in	ns	ns1.3dns.box.
@@ -3298,6 +3327,8 @@ makeethereumgreatagain.box.	3600	in	ns	ns1.3dns.box.
 makeethereumgreatagain.box.	3600	in	ns	ns2.3dns.box.
 makemoney.box.	3600	in	ns	ns1.3dns.box.
 makemoney.box.	3600	in	ns	ns2.3dns.box.
+maker.box.	3600	in	ns	ns1.3dns.box.
+maker.box.	3600	in	ns	ns2.3dns.box.
 makeup.box.	3600	in	ns	ns1.3dns.box.
 makeup.box.	3600	in	ns	ns2.3dns.box.
 malachi.box.	3600	in	ns	ns1.3dns.box.
@@ -3385,6 +3416,10 @@ mdb.box.	3600	in	ns	ns1.3dns.box.
 mdb.box.	3600	in	ns	ns2.3dns.box.
 mdt.box.	3600	in	ns	ns1.3dns.box.
 mdt.box.	3600	in	ns	ns2.3dns.box.
+meals.box.	3600	in	ns	ns1.3dns.box.
+meals.box.	3600	in	ns	ns2.3dns.box.
+meat.box.	3600	in	ns	ns1.3dns.box.
+meat.box.	3600	in	ns	ns2.3dns.box.
 mecha.box.	3600	in	ns	ns1.3dns.box.
 mecha.box.	3600	in	ns	ns2.3dns.box.
 med.box.	3600	in	ns	ns1.3dns.box.
@@ -3417,8 +3452,10 @@ memegobox.box.	3600	in	ns	ns1.3dns.box.
 memegobox.box.	3600	in	ns	ns2.3dns.box.
 memes.box.	3600	in	ns	ns1.3dns.box.
 memes.box.	3600	in	ns	ns2.3dns.box.
-memory.box.	3600	in	ns	ns1.3dns.box.
-memory.box.	3600	in	ns	ns2.3dns.box.
+memory.box.	3600	in	ns	kelly.ns.cloudflare.com.
+memory.box.	3600	in	ns	piers.ns.cloudflare.com.
+men.box.	3600	in	ns	ns1.3dns.box.
+men.box.	3600	in	ns	ns2.3dns.box.
 mens.box.	3600	in	ns	ns1.3dns.box.
 mens.box.	3600	in	ns	ns2.3dns.box.
 menu.box.	3600	in	ns	ns1.3dns.box.
@@ -3469,8 +3506,6 @@ mid.box.	3600	in	ns	ns1.3dns.box.
 mid.box.	3600	in	ns	ns2.3dns.box.
 mike.box.	3600	in	ns	jo.ns.cloudflare.com.
 mike.box.	3600	in	ns	syeef.ns.cloudflare.com.
-mil.box.	3600	in	ns	ns1.ns306.parklogic.com.
-mil.box.	3600	in	ns	ns2.ns306.parklogic.com.
 milk.box.	3600	in	ns	ns1.3dns.box.
 milk.box.	3600	in	ns	ns2.3dns.box.
 miller.box.	3600	in	ns	ns1.3dns.box.
@@ -3531,8 +3566,9 @@ momentum.box.	3600	in	ns	ns1.3dns.box.
 momentum.box.	3600	in	ns	ns2.3dns.box.
 moneybadgers.box.	3600	in	ns	ns1.3dns.box.
 moneybadgers.box.	3600	in	ns	ns2.3dns.box.
-monke.box.	3600	in	ns	ns1.3dns.box.
-monke.box.	3600	in	ns	ns2.3dns.box.
+monke.box.	3600	in	ns	ns1.dnsowl.com.
+monke.box.	3600	in	ns	ns2.dnsowl.com.
+monke.box.	3600	in	ns	ns3.dnsowl.com.
 monopoly.box.	3600	in	ns	ns1.3dns.box.
 monopoly.box.	3600	in	ns	ns2.3dns.box.
 monster.box.	3600	in	ns	ns1.3dns.box.
@@ -3545,6 +3581,8 @@ moon.box.	3600	in	ns	ns1.3dns.box.
 moon.box.	3600	in	ns	ns2.3dns.box.
 moore.box.	3600	in	ns	ns1.3dns.box.
 moore.box.	3600	in	ns	ns2.3dns.box.
+mortgage.box.	3600	in	ns	ns1.3dns.box.
+mortgage.box.	3600	in	ns	ns2.3dns.box.
 mosaic.box.	3600	in	ns	ns1.3dns.box.
 mosaic.box.	3600	in	ns	ns2.3dns.box.
 moscow.box.	3600	in	ns	ns1.3dns.box.
@@ -3608,8 +3646,9 @@ my.box.	3600	in	ns	ns-326.awsdns-40.com.
 my.box.	3600	in	ns	ns-726.awsdns-26.net.
 mycash.box.	3600	in	ns	ns1.3dns.box.
 mycash.box.	3600	in	ns	ns2.3dns.box.
-myclub.box.	3600	in	ns	ns1.3dns.box.
-myclub.box.	3600	in	ns	ns2.3dns.box.
+myclub.box.	3600	in	ns	ns1.dnsowl.com.
+myclub.box.	3600	in	ns	ns2.dnsowl.com.
+myclub.box.	3600	in	ns	ns3.dnsowl.com.
 mycoin.box.	3600	in	ns	ns1.3dns.box.
 mycoin.box.	3600	in	ns	ns2.3dns.box.
 mydrug.box.	3600	in	ns	ns1.3dns.box.
@@ -3906,6 +3945,8 @@ ord.box.	3600	in	ns	ns1.3dns.box.
 ord.box.	3600	in	ns	ns2.3dns.box.
 order.box.	3600	in	ns	ns1.3dns.box.
 order.box.	3600	in	ns	ns2.3dns.box.
+organic.box.	3600	in	ns	ns1.3dns.box.
+organic.box.	3600	in	ns	ns2.3dns.box.
 organisation.box.	3600	in	ns	ns1.3dns.box.
 organisation.box.	3600	in	ns	ns2.3dns.box.
 original.box.	3600	in	ns	ns1.sawsells.com.
@@ -4057,6 +4098,8 @@ pete.box.	3600	in	ns	ns1.ns306.parklogic.com.
 pete.box.	3600	in	ns	ns2.ns306.parklogic.com.
 peter.box.	3600	in	ns	ns1.3dns.box.
 peter.box.	3600	in	ns	ns2.3dns.box.
+pets.box.	3600	in	ns	ns1.3dns.box.
+pets.box.	3600	in	ns	ns2.3dns.box.
 pewdiepie.box.	3600	in	ns	ns1.3dns.box.
 pewdiepie.box.	3600	in	ns	ns2.3dns.box.
 pfizer.box.	3600	in	ns	ns1.3dns.box.
@@ -4079,6 +4122,8 @@ phil.box.	3600	in	ns	ns1.3dns.box.
 phil.box.	3600	in	ns	ns2.3dns.box.
 photos.box.	3600	in	ns	ns1.3dns.box.
 photos.box.	3600	in	ns	ns2.3dns.box.
+pi.box.	3600	in	ns	ns1.3dns.box.
+pi.box.	3600	in	ns	ns2.3dns.box.
 pic.box.	3600	in	ns	ns1.3dns.box.
 pic.box.	3600	in	ns	ns2.3dns.box.
 piccolaitalia.box.	3600	in	ns	dns1.namecheaphosting.com.
@@ -4219,6 +4264,8 @@ project.box.	3600	in	ns	ns1.3dns.box.
 project.box.	3600	in	ns	ns2.3dns.box.
 promi.box.	3600	in	ns	ns1.3dns.box.
 promi.box.	3600	in	ns	ns2.3dns.box.
+promo.box.	3600	in	ns	ns1.3dns.box.
+promo.box.	3600	in	ns	ns2.3dns.box.
 prompt.box.	3600	in	ns	igor.ns.cloudflare.com.
 prompt.box.	3600	in	ns	maya.ns.cloudflare.com.
 proof.box.	3600	in	ns	ns1.3dns.box.
@@ -4297,8 +4344,9 @@ quench.box.	3600	in	ns	ns1.3dns.box.
 quench.box.	3600	in	ns	ns2.3dns.box.
 quick.box.	3600	in	ns	ns1.3dns.box.
 quick.box.	3600	in	ns	ns2.3dns.box.
-quran.box.	3600	in	ns	ns1.3dns.box.
-quran.box.	3600	in	ns	ns2.3dns.box.
+quran.box.	3600	in	ns	ns1.dnsowl.com.
+quran.box.	3600	in	ns	ns2.dnsowl.com.
+quran.box.	3600	in	ns	ns3.dnsowl.com.
 r.box.	3600	in	ns	ns1.3dns.box.
 r.box.	3600	in	ns	ns2.3dns.box.
 radar.box.	3600	in	ns	ns1.3dns.box.
@@ -4367,8 +4415,8 @@ records.box.	3600	in	ns	ns1.3dns.box.
 records.box.	3600	in	ns	ns2.3dns.box.
 recruitment.box.	3600	in	ns	ashley.ns.cloudflare.com.
 recruitment.box.	3600	in	ns	vicente.ns.cloudflare.com.
-red.box.	3600	in	ns	ns1.3dns.box.
-red.box.	3600	in	ns	ns2.3dns.box.
+red.box.	3600	in	ns	adi.ns.cloudflare.com.
+red.box.	3600	in	ns	dexter.ns.cloudflare.com.
 red3.box.	3600	in	ns	ns1.3dns.box.
 red3.box.	3600	in	ns	ns2.3dns.box.
 redbelly.box.	3600	in	ns	ns1.3dns.box.
@@ -4409,10 +4457,9 @@ repair.box.	3600	in	ns	ns1.3dns.box.
 repair.box.	3600	in	ns	ns2.3dns.box.
 reply.box.	3600	in	ns	ns1.3dns.box.
 reply.box.	3600	in	ns	ns2.3dns.box.
-res.box.	3600	in	ns	ns-cloud-d1.googledomains.com.
-res.box.	3600	in	ns	ns-cloud-d2.googledomains.com.
-res.box.	3600	in	ns	ns-cloud-d3.googledomains.com.
-res.box.	3600	in	ns	ns-cloud-d4.googledomains.com.
+res.box.	3600	in	ns	ns1.dnsowl.com.
+res.box.	3600	in	ns	ns2.dnsowl.com.
+res.box.	3600	in	ns	ns3.dnsowl.com.
 research.box.	3600	in	ns	ns1.3dns.box.
 research.box.	3600	in	ns	ns2.3dns.box.
 reserve.box.	3600	in	ns	ns1.3dns.box.
@@ -4545,9 +4592,6 @@ rsid.box.	3600	in	ns	ns1.3dns.box.
 rsid.box.	3600	in	ns	ns2.3dns.box.
 rss.box.	3600	in	ns	ns1.3dns.box.
 rss.box.	3600	in	ns	ns2.3dns.box.
-rsvp.box.	3600	in	ns	ns1.dnsowl.com.
-rsvp.box.	3600	in	ns	ns2.dnsowl.com.
-rsvp.box.	3600	in	ns	ns3.dnsowl.com.
 rtfkt.box.	3600	in	ns	ns1.3dns.box.
 rtfkt.box.	3600	in	ns	ns2.3dns.box.
 rugdoctor.box.	3600	in	ns	ns1.3dns.box.
@@ -4588,8 +4632,9 @@ safeallsync.box.	3600	in	ns	ns1.3dns.box.
 safeallsync.box.	3600	in	ns	ns2.3dns.box.
 safetydeposit.box.	3600	in	ns	ns1.3dns.box.
 safetydeposit.box.	3600	in	ns	ns2.3dns.box.
-sai.box.	3600	in	ns	ns1.3dns.box.
-sai.box.	3600	in	ns	ns2.3dns.box.
+sai.box.	3600	in	ns	ns1.dnsowl.com.
+sai.box.	3600	in	ns	ns2.dnsowl.com.
+sai.box.	3600	in	ns	ns3.dnsowl.com.
 salad.box.	3600	in	ns	ns1.3dns.box.
 salad.box.	3600	in	ns	ns2.3dns.box.
 sale.box.	3600	in	ns	ns1.3dns.box.
@@ -4672,11 +4717,12 @@ scifi.box.	3600	in	ns	ns1.3dns.box.
 scifi.box.	3600	in	ns	ns2.3dns.box.
 scoin.box.	3600	in	ns	ns1.3dns.box.
 scoin.box.	3600	in	ns	ns2.3dns.box.
+score.box.	3600	in	ns	ns1.3dns.box.
+score.box.	3600	in	ns	ns2.3dns.box.
 scott.box.	3600	in	ns	ns1.3dns.box.
 scott.box.	3600	in	ns	ns2.3dns.box.
-scrap.box.	3600	in	ns	ns1.dnsowl.com.
-scrap.box.	3600	in	ns	ns2.dnsowl.com.
-scrap.box.	3600	in	ns	ns3.dnsowl.com.
+scrap.box.	3600	in	ns	ns1.3dns.box.
+scrap.box.	3600	in	ns	ns2.3dns.box.
 screen.box.	3600	in	ns	ns1.3dns.box.
 screen.box.	3600	in	ns	ns2.3dns.box.
 sdlt.box.	3600	in	ns	ns1.3dns.box.
@@ -4685,8 +4731,6 @@ sdt.box.	3600	in	ns	ns1.3dns.box.
 sdt.box.	3600	in	ns	ns2.3dns.box.
 se.box.	3600	in	ns	ns1.3dns.box.
 se.box.	3600	in	ns	ns2.3dns.box.
-searchgpt.box.	3600	in	ns	ns1.ns306.parklogic.com.
-searchgpt.box.	3600	in	ns	ns2.ns306.parklogic.com.
 sebastian.box.	3600	in	ns	ns1.3dns.box.
 sebastian.box.	3600	in	ns	ns2.3dns.box.
 sec.box.	3600	in	ns	ns1.3dns.box.
@@ -4745,8 +4789,9 @@ sexy.box.	3600	in	ns	ns1.3dns.box.
 sexy.box.	3600	in	ns	ns2.3dns.box.
 sf.box.	3600	in	ns	ns1.3dns.box.
 sf.box.	3600	in	ns	ns2.3dns.box.
-sgi.box.	3600	in	ns	ns1.3dns.box.
-sgi.box.	3600	in	ns	ns2.3dns.box.
+sgi.box.	3600	in	ns	ns1.dnsowl.com.
+sgi.box.	3600	in	ns	ns2.dnsowl.com.
+sgi.box.	3600	in	ns	ns3.dnsowl.com.
 shakira.box.	3600	in	ns	ns1.3dns.box.
 shakira.box.	3600	in	ns	ns2.3dns.box.
 shang.box.	3600	in	ns	ns1.3dns.box.
@@ -4889,6 +4934,8 @@ sound.box.	3600	in	ns	ns1.3dns.box.
 sound.box.	3600	in	ns	ns2.3dns.box.
 sovereign.box.	3600	in	ns	ns1.3dns.box.
 sovereign.box.	3600	in	ns	ns2.3dns.box.
+spa.box.	3600	in	ns	ns1.3dns.box.
+spa.box.	3600	in	ns	ns2.3dns.box.
 spacex.box.	3600	in	ns	ns1.3dns.box.
 spacex.box.	3600	in	ns	ns2.3dns.box.
 spam.box.	3600	in	ns	ns1.3dns.box.
@@ -4937,12 +4984,14 @@ stablecoins.box.	3600	in	ns	ns1.3dns.box.
 stablecoins.box.	3600	in	ns	ns2.3dns.box.
 stabletokens.box.	3600	in	ns	ns1.3dns.box.
 stabletokens.box.	3600	in	ns	ns2.3dns.box.
+stage.box.	3600	in	ns	nola.ns.cloudflare.com.
+stage.box.	3600	in	ns	zeus.ns.cloudflare.com.
 staker.box.	3600	in	ns	ns1.3dns.box.
 staker.box.	3600	in	ns	ns2.3dns.box.
 stakeswap.box.	3600	in	ns	ezra.ns.cloudflare.com.
 stakeswap.box.	3600	in	ns	harleigh.ns.cloudflare.com.
-stamp.box.	3600	in	ns	ns1.3dns.box.
-stamp.box.	3600	in	ns	ns2.3dns.box.
+stamp.box.	3600	in	ns	aaron.ns.cloudflare.com.
+stamp.box.	3600	in	ns	raegan.ns.cloudflare.com.
 star.box.	3600	in	ns	ns1.3dns.box.
 star.box.	3600	in	ns	ns2.3dns.box.
 starbucks.box.	3600	in	ns	ns1.3dns.box.
@@ -4967,8 +5016,6 @@ steal.box.	3600	in	ns	ns1.3dns.box.
 steal.box.	3600	in	ns	ns2.3dns.box.
 stealth.box.	3600	in	ns	ns1.3dns.box.
 stealth.box.	3600	in	ns	ns2.3dns.box.
-stellar.box.	3600	in	ns	ns1.ns306.parklogic.com.
-stellar.box.	3600	in	ns	ns2.ns306.parklogic.com.
 stereo.box.	3600	in	ns	ns1.3dns.box.
 stereo.box.	3600	in	ns	ns2.3dns.box.
 sterling.box.	3600	in	ns	ns1.3dns.box.
@@ -4987,8 +5034,6 @@ streamer.box.	3600	in	ns	ns1.3dns.box.
 streamer.box.	3600	in	ns	ns2.3dns.box.
 streaming.box.	3600	in	ns	ns1.3dns.box.
 streaming.box.	3600	in	ns	ns2.3dns.box.
-stripe.box.	3600	in	ns	ns1.ns306.parklogic.com.
-stripe.box.	3600	in	ns	ns2.ns306.parklogic.com.
 strong.box.	3600	in	ns	ns1.3dns.box.
 strong.box.	3600	in	ns	ns2.3dns.box.
 student.box.	3600	in	ns	ns1.3dns.box.
@@ -5021,9 +5066,6 @@ survival.box.	3600	in	ns	ns1.3dns.box.
 survival.box.	3600	in	ns	ns2.3dns.box.
 survive.box.	3600	in	ns	ns1.3dns.box.
 survive.box.	3600	in	ns	ns2.3dns.box.
-susan.box.	3600	in	ns	ns1.dnsowl.com.
-susan.box.	3600	in	ns	ns2.dnsowl.com.
-susan.box.	3600	in	ns	ns3.dnsowl.com.
 sushi.box.	3600	in	ns	ns1.3dns.box.
 sushi.box.	3600	in	ns	ns2.3dns.box.
 susu.box.	3600	in	ns	ns1.3dns.box.
@@ -5204,8 +5246,6 @@ theswitch.box.	3600	in	ns	ns1.3dns.box.
 theswitch.box.	3600	in	ns	ns2.3dns.box.
 theta.box.	3600	in	ns	ns1.3dns.box.
 theta.box.	3600	in	ns	ns2.3dns.box.
-thewatch.box.	3600	in	ns	ns1.ns306.parklogic.com.
-thewatch.box.	3600	in	ns	ns2.ns306.parklogic.com.
 thomas.box.	3600	in	ns	ns1.3dns.box.
 thomas.box.	3600	in	ns	ns2.3dns.box.
 thompson.box.	3600	in	ns	ns1.3dns.box.
@@ -5329,8 +5369,6 @@ tribe.box.	3600	in	ns	ns1.3dns.box.
 tribe.box.	3600	in	ns	ns2.3dns.box.
 tribeth.box.	3600	in	ns	ns1.3dns.box.
 tribeth.box.	3600	in	ns	ns2.3dns.box.
-trinity.box.	3600	in	ns	ns1.ns306.parklogic.com.
-trinity.box.	3600	in	ns	ns2.ns306.parklogic.com.
 trinitydao.box.	3600	in	ns	ns1.3dns.box.
 trinitydao.box.	3600	in	ns	ns2.3dns.box.
 trip.box.	3600	in	ns	ns1.3dns.box.
@@ -5423,6 +5461,8 @@ unicorns.box.	3600	in	ns	ns1.3dns.box.
 unicorns.box.	3600	in	ns	ns2.3dns.box.
 uninorte.box.	3600	in	ns	ns1.3dns.box.
 uninorte.box.	3600	in	ns	ns2.3dns.box.
+union.box.	3600	in	ns	ns1.3dns.box.
+union.box.	3600	in	ns	ns2.3dns.box.
 uniport.box.	3600	in	ns	ns1.ns306.parklogic.com.
 uniport.box.	3600	in	ns	ns2.ns306.parklogic.com.
 unit.box.	3600	in	ns	ns1.3dns.box.
@@ -5474,8 +5514,9 @@ v.box.	3600	in	ns	ns1.3dns.box.
 v.box.	3600	in	ns	ns2.3dns.box.
 vacation.box.	3600	in	ns	ns1.3dns.box.
 vacation.box.	3600	in	ns	ns2.3dns.box.
-valid.box.	3600	in	ns	ns1.3dns.box.
-valid.box.	3600	in	ns	ns2.3dns.box.
+valid.box.	3600	in	ns	ns1.dnsowl.com.
+valid.box.	3600	in	ns	ns2.dnsowl.com.
+valid.box.	3600	in	ns	ns3.dnsowl.com.
 validator.box.	3600	in	ns	ns1.3dns.box.
 validator.box.	3600	in	ns	ns2.3dns.box.
 vancouver.box.	3600	in	ns	ns1.3dns.box.
@@ -5506,6 +5547,8 @@ vegard.box.	3600	in	ns	ns1.3dns.box.
 vegard.box.	3600	in	ns	ns2.3dns.box.
 vegas.box.	3600	in	ns	ns1.3dns.box.
 vegas.box.	3600	in	ns	ns2.3dns.box.
+veggie.box.	3600	in	ns	ns1.3dns.box.
+veggie.box.	3600	in	ns	ns2.3dns.box.
 velodrome.box.	3600	in	ns	ns1.3dns.box.
 velodrome.box.	3600	in	ns	ns2.3dns.box.
 ventures.box.	3600	in	ns	ns1.3dns.box.
@@ -5552,6 +5595,8 @@ visible.box.	3600	in	ns	ns1.3dns.box.
 visible.box.	3600	in	ns	ns2.3dns.box.
 vit.box.	3600	in	ns	ns1.3dns.box.
 vit.box.	3600	in	ns	ns2.3dns.box.
+vitamin.box.	3600	in	ns	ns1.3dns.box.
+vitamin.box.	3600	in	ns	ns2.3dns.box.
 viz.box.	3600	in	ns	ns1.3dns.box.
 viz.box.	3600	in	ns	ns2.3dns.box.
 vm.box.	3600	in	ns	ns1.3dns.box.
@@ -5684,8 +5729,6 @@ wine.box.	3600	in	ns	ns1.3dns.box.
 wine.box.	3600	in	ns	ns2.3dns.box.
 winner.box.	3600	in	ns	ns1.3dns.box.
 winner.box.	3600	in	ns	ns2.3dns.box.
-wire.box.	3600	in	ns	ns1.ns306.parklogic.com.
-wire.box.	3600	in	ns	ns2.ns306.parklogic.com.
 wish.box.	3600	in	ns	ns1.3dns.box.
 wish.box.	3600	in	ns	ns2.3dns.box.
 wk.box.	3600	in	ns	ns1.3dns.box.
@@ -5900,4 +5943,4 @@ zz.box.	3600	in	ns	ns1.3dns.box.
 zz.box.	3600	in	ns	ns2.3dns.box.
 zzz.box.	3600	in	ns	ns1.3dns.box.
 zzz.box.	3600	in	ns	ns2.3dns.box.
-box.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1756255459 900 1800 6048000 3600
+box.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757033650 900 1800 6048000 3600
