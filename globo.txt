@@ -1,4 +1,4 @@
-globo.	172800	in	soa	a.dns.br. hostmaster.registro.br. 2025239028 1800 900 604800 900
+globo.	172800	in	soa	a.dns.br. hostmaster.registro.br. 2025248028 1800 900 604800 900
 academias.globo.	86400	in	ns	ns01.oghost.com.br.
 academias.globo.	86400	in	ns	ns02.oghost.com.br.
 academias.globo.	86400	in	ns	ns03.oghost.com.br.
@@ -276,9 +276,9 @@ globo.	172800	in	ns	d.dns.br.
 globo.	172800	in	ns	e.dns.br.
 globo.	172800	in	ns	f.dns.br.
 globo.	172800	in	nsec3param	1 0 0 7552AD84201E8FECB4E4
-globo.	172800	in	rrsig	NS 13 1 172800 20250911011001 20250827001001 37608 globo. JZyoKqPML0kei28qdfcUGr4sVnKEPgySzPJYtZC6neKXQueSc2MQty+kWaALec9JlQjziQVbaXvEjkrloe1YdA==
-globo.	172800	in	rrsig	NSEC3PARAM 13 1 172800 20250911011001 20250827001001 37608 globo. RJ2T/obijUDQ6jMpvY8Bd1eixg5SS9uVxgM5WSNKl+vPmLlTtAGwsBawaWBEIOF/Wy7Y6GnvXt8d3EL0njliJA==
-globo.	172800	in	rrsig	SOA 13 1 172800 20250911011001 20250827001001 37608 globo. KMZbw0CzC4aEfrGjC3wxamQs5vZXKpg9M3WOgXo4YEFs/LHNWndMA4BWHhbt4b0aQwJ5MMybMa30Ds9WU1daag==
+globo.	172800	in	rrsig	NS 13 1 172800 20250920011001 20250905001001 37608 globo. VZ3YjZAoXl0V+mUFqfFW7FYr7gZFMtWzflvSIh838o60I6UqGPFG2iobN1vVIyEBcNCcmMXHCspovF+4j4s/cg==
+globo.	172800	in	rrsig	NSEC3PARAM 13 1 172800 20250920011001 20250905001001 37608 globo. ehAFD/S7n5i5yWu1iK3F4MgogxPw6T/pU34DpWChR0MQyqeSItNC1HyUpTmijrIQzz+n1vEhiuDx44D6ZyjDow==
+globo.	172800	in	rrsig	SOA 13 1 172800 20250920011001 20250905001001 37608 globo. msW/wK8fCqgCYt5a2HTMGX6vxAnufrGnmfHrRgzY1NWLzydQijyB2Fb/PUHEVDsbtQUmJGUyJ4IPI8q576j4LA==
 globo.	21600	in	dnskey	256 3 13 4yUSrgj92OujFcfdmIMb0LgfzWnloA4hHy61X4lOY+9fiCSjeDRztAX+nkCKJOc0G8GdNuoyBoGvde/fC/mCGQ==
 globo.	21600	in	dnskey	257 3 13 aSLe8DKC4FAtlbuJ/oDAoYllx6gtswLz5ne7ARgyj70+ZHYwzr/sM1bAes2FNxR23ZfL6LKNqiMA8TA+LAi2Ow==
 globo.	21600	in	rrsig	DNSKEY 13 1 21600 20250914120000 20250824120000 50876 globo. tpysbSnO/nVeXh0Kf0AO9kFxZO4+VQPKujVcnQK++ltt1HWlyYa9GA0KZ4PkxhNjVfVLmh+TKBmOK3MTGIx1og==
@@ -431,7 +431,7 @@ juriprofissionaisdoano.globo.	86400	in	ns	ns02.oghost.com.br.
 juriprofissionaisdoano.globo.	86400	in	ns	ns03.oghost.com.br.
 juriprofissionaisdoano.globo.	86400	in	ns	ns04.oghost.com.br.
 k70j1e16hl6en5d5cjtf7u5n68os4deu.globo.	900	in	nsec3	1 1 0 7552AD84201E8FECB4E4 U6CNAC9TFEOC8TIC2D5OT6QQM67GIA69 NS SOA RRSIG DNSKEY NSEC3PARAM
-k70j1e16hl6en5d5cjtf7u5n68os4deu.globo.	900	in	rrsig	NSEC3 13 2 900 20250911011001 20250827001001 37608 globo. qAtFjvK8hFvmbawMfCm1EKt8OdoTCUnrJhP3GfiD1WfklWC9Xz1VhqHZ0toJQSi6+u670cw9AsqEWrruoqPeRg==
+k70j1e16hl6en5d5cjtf7u5n68os4deu.globo.	900	in	rrsig	NSEC3 13 2 900 20250920011001 20250905001001 37608 globo. 3cmGJ/kwF6v2tCpp4yPcQ0yLP/b9TonwxHvLMtAECy4xOyu0DJUdowkoouXdJAHdGFRoDqWrcTQ6fTegWmxftQ==
 kogut.globo.	86400	in	ns	ns01.globo.com.
 kogut.globo.	86400	in	ns	ns02.globo.com.
 kogut.globo.	86400	in	ns	ns03.globo.com.
@@ -487,7 +487,7 @@ nft.globo.	86400	in	ns	ns02.globo.com.
 nft.globo.	86400	in	ns	ns03.globo.com.
 nft.globo.	86400	in	ns	ns04.globo.com.
 nic.globo.	3600	in	ds	61877 13 2 7560503BA946DE0A465CB121E604AF7263C26FF03529A9330F1AA47EA987DC70
-nic.globo.	3600	in	rrsig	DS 13 2 3600 20250904123501 20250820113501 37608 globo. NLQfuvnjVugohmeFv9GXOdcIiTvhjXXJSm1KdlchDfZAL0RwV/4rybe+hTniN2a1ojmQ/3a+t9A4xZNQ6glWkw==
+nic.globo.	3600	in	rrsig	DS 13 2 3600 20250918185501 20250903175501 37608 globo. YrVdQwExiP6hZAjMezZpXJ/6jtAMqSXEMjqmNyu+P+a2tQzQICsH2jHjnH6R7ZBaRumRPutxxsf/GVXv7Qh/qQ==
 nic.globo.	86400	in	ns	ns.dns.br.
 nic.globo.	86400	in	ns	ns2.dns.br.
 noticia.globo.	86400	in	ns	ns01.globo.com.
@@ -574,6 +574,10 @@ reality.globo.	86400	in	ns	ns01.globo.com.
 reality.globo.	86400	in	ns	ns02.globo.com.
 reality.globo.	86400	in	ns	ns03.globo.com.
 reality.globo.	86400	in	ns	ns04.globo.com.
+realtime.globo.	86400	in	ns	ns01.globo.com.
+realtime.globo.	86400	in	ns	ns02.globo.com.
+realtime.globo.	86400	in	ns	ns03.globo.com.
+realtime.globo.	86400	in	ns	ns04.globo.com.
 receitas.globo.	86400	in	ns	ns01.globo.com.
 receitas.globo.	86400	in	ns	ns02.globo.com.
 receitas.globo.	86400	in	ns	ns03.globo.com.
@@ -663,7 +667,7 @@ triare.globo.	86400	in	ns	ns02.globo.com.
 triare.globo.	86400	in	ns	ns03.globo.com.
 triare.globo.	86400	in	ns	ns04.globo.com.
 u6cnac9tfeoc8tic2d5ot6qqm67gia69.globo.	900	in	nsec3	1 1 0 7552AD84201E8FECB4E4 K70J1E16HL6EN5D5CJTF7U5N68OS4DEU NS DS RRSIG
-u6cnac9tfeoc8tic2d5ot6qqm67gia69.globo.	900	in	rrsig	NSEC3 13 2 900 20250904123501 20250820113501 37608 globo. PueYyBToyaLyKS6upGYy0t+o/+B44ALOsJvhrNh/WphOolX4uEy9ANscq9F/ucPeC8C/tEvAGxLqxQyjYp4H+w==
+u6cnac9tfeoc8tic2d5ot6qqm67gia69.globo.	900	in	rrsig	NSEC3 13 2 900 20250918185501 20250903175501 37608 globo. OW3Wy1ZdcaDtDE7KQUMEgSCeXXmxZ/e9UHeRXfgcCrrbphf0bz+FX4PX3PxNSyBolRRg6tWHa3fvaH3MKyQIOg==
 upfront.globo.	86400	in	ns	ns01.globo.com.
 upfront.globo.	86400	in	ns	ns02.globo.com.
 upfront.globo.	86400	in	ns	ns03.globo.com.
@@ -704,4 +708,4 @@ www.globo.	86400	in	ns	ns01.oghost.com.br.
 www.globo.	86400	in	ns	ns02.oghost.com.br.
 www.globo.	86400	in	ns	ns03.oghost.com.br.
 www.globo.	86400	in	ns	ns04.oghost.com.br.
-globo.	172800	in	soa	a.dns.br. hostmaster.registro.br. 2025239028 1800 900 604800 900
+globo.	172800	in	soa	a.dns.br. hostmaster.registro.br. 2025248028 1800 900 604800 900
