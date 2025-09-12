@@ -1,4 +1,4 @@
-pru.	900	in	soa	ns1.dns.nic.pru. admin.tldns.godaddy. 1757479107 1800 300 604800 1800
+pru.	900	in	soa	ns1.dns.nic.pru. admin.tldns.godaddy. 1757569107 1800 300 604800 1800
 401k.pru.	3600	in	ns	ns1.a0.impervasecuredns.net.
 401k.pru.	3600	in	ns	ns1.a1.impervasecuredns.net.
 401k.pru.	3600	in	ns	ns1.a2.impervasecuredns.net.
@@ -7,8 +7,8 @@ pru.	900	in	soa	ns1.dns.nic.pru. admin.tldns.godaddy. 1757479107 1800 300 604800
 401klogin.pru.	3600	in	ns	ns1.a2.impervasecuredns.net.
 5v9hku1fhf5nk9im4gjota984maqq7jq.pru.	900	in	nsec3	1 1 0 - IAV1SAHKRD3KK4V2T048FMFUSNOH9S3F NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
 5v9hku1fhf5nk9im4gjota984maqq7jq.pru.	900	in	rrsig	NSEC3 8 2 900 20250922090256 20250908080410 39651 pru. uRX+tGTa+PQ2GsDQYCpBKxe0tJcevMgLoTih9LEWq+aJeMi1iTnxMNbFMhHVheAtaKkg6rTxm2cDisVEMd8KisunsKya63427+WOPcNgX2LPxErTix5pwiI8vopxc2zEuScH1rxT2WY1bRwoGBIWh3mxOZ7wvKjkXlubxd2HnAJBN2Z8aQB2pVQ4hTVu5Vg8wqRvC+BUFS7MNqTvRWEP4Q==
-_forcedupdate.pru.	300	in	rrsig	TXT 8 2 300 20250919071708 20250910033827 39651 pru. BNwtvql+8satlpsH3TInBVnmz16iZOmXvm1HxdYgAHVDT3ePBmWririNqYm9Pd609S7P4Ye6+D1rBuKv60Os8jZNOqRtJf7NiTCshwc6LC9alr60NRVvXCDnR82OeGrRXbdCob+9LT2MK+XR6RPhkSuu8/RRduzXURSg9Thf5JONoBHhlvAeEvuqFu/whQexlSrQQN6FGIa0S5e0YIWXWw==
-_forcedupdate.pru.	300	in	txt	"1757479107"
+_forcedupdate.pru.	300	in	rrsig	TXT 8 2 300 20250923063232 20250911043827 39651 pru. dmaP8ZcTA+A6Pt3DXT3XMwp8ex3UgI+efOv7YyN2mJYHwMinYGla2jHHNLqUAqNDmF5TXTXFqRvvqoCFO6EH1QUzouGY9jJcBevQ/hM58zoG4VLn/rTre0oVUzzXQbV9hU+7s1jEaZKWnq8Kf9IClVBcifh6Vw22XXCGrhCoXXjM9vyoLxJSMQmJFlMrgQJErUxFS0YuRBxLIqAl67+Dcg==
+_forcedupdate.pru.	300	in	txt	"1757569107"
 a.nic.pru.	3600	in	a	37.209.192.9
 a.nic.pru.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 about.pru.	3600	in	ns	ns1.a0.impervasecuredns.net.
@@ -221,7 +221,7 @@ pru.	86400	in	ns	ns1.dns.nic.pru.
 pru.	86400	in	ns	ns2.dns.nic.pru.
 pru.	86400	in	ns	ns3.dns.nic.pru.
 pru.	86400	in	rrsig	NS 8 1 86400 20250920181850 20250906180241 39651 pru. oMY4B06g7GnHfk2qp6LE4qCqLZIimjOTZCtNJSJJAV4wGUDa0vA85riaqwGobf7y3dsZgAmziKJY8tb+qp4D36epWACjHBtJCiWGJ+8UB7tTLzWtJMQWrAGPSd8hFwkbqL3KoHgWjpZFeLqFAA3Mz1q/QdmIDsvBEoiZQIJfN3U7L+EeiL3HIICBi6XrRci9sHVJZ1Nfdr+i584/DHSB/Q==
-pru.	900	in	rrsig	SOA 8 1 900 20250924043827 20250910033827 39651 pru. vVUElxrCgo4Xq4GZDqk7eTK/N/Gagj7s8i3jfJFEnVhTQyh5pe/j6JiI++6QXySbx4QSTK7nhX/XYmG9PnUAzZp/FIl+5zeIBMwf4dAzAtW+I2mJjovA3kHJGWJ/SGAkOVGy1sYjG87QPz/rhu7zHdVzPMy99lss5axCfbNEwQff8QQ8q4YDAI4ADVhq94xP/u7+QJU7QvCvTy+dIYT5Yw==
+pru.	900	in	rrsig	SOA 8 1 900 20250925053827 20250911043827 39651 pru. btSt6ueAQitbL7Qr/hrTnnsJSBiYUGHE6shzndw01mwljWr8h2hfWBC6nzkhNbRYxXqCmF+Kpv2P5ffPiuvTm3Y4DEfFipPK+mUh6/lMT+1R+bubYV/bM9nmH5QJUmxW3vdRzACSGJUaKWn+pFKDLFbnkP0oTOTcOHqZSyBSHrQzKAkCmRGVHtRurC67iGnK8UVtgQCmOyt0sf2ubpt+HA==
 pru.pru.	3600	in	ns	ns1.a0.impervasecuredns.net.
 pru.pru.	3600	in	ns	ns1.a1.impervasecuredns.net.
 pru.pru.	3600	in	ns	ns1.a2.impervasecuredns.net.
@@ -282,4 +282,4 @@ videos.pru.	3600	in	ns	ns1.a2.impervasecuredns.net.
 www.pru.	3600	in	ns	ns1.a0.impervasecuredns.net.
 www.pru.	3600	in	ns	ns1.a1.impervasecuredns.net.
 www.pru.	3600	in	ns	ns1.a2.impervasecuredns.net.
-pru.	900	in	soa	ns1.dns.nic.pru. admin.tldns.godaddy. 1757479107 1800 300 604800 1800
+pru.	900	in	soa	ns1.dns.nic.pru. admin.tldns.godaddy. 1757569107 1800 300 604800 1800
