@@ -1,4 +1,4 @@
-jcb.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757551134 1800 900 604800 3600
+jcb.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757639461 1800 900 604800 3600
 0nrk8h6s0mia919256gmlom9mbsoeabn.jcb.	3600	in	nsec3	1 0 0 - 35LJ6I5Q7NVRCAE1B4NHASM642J6N59K NS SOA RRSIG DNSKEY NSEC3PARAM
 0nrk8h6s0mia919256gmlom9mbsoeabn.jcb.	3600	in	rrsig	NSEC3 8 2 3600 20250917222315 20250910204639 44089 jcb. gYIyXxrmHQGpd23k737mdyP2a9Ebkku+j8vcbyl+a36b8GHN/fJRCdpMEdJviPLf/YSa4ug5XGNyiRogoshOv65Q3VkP0LdZXEBRmQpFiZPcwBrIVBH1OkLQg558F1awHGNJATOCscc64rgUqKvB1SDlOvUhGiMtHbRNw94duUY=
 35lj6i5q7nvrcae1b4nhasm642j6n59k.jcb.	3600	in	nsec3	1 0 0 - 6107V67OEV1GJ2VV4SQHHL8D1QK422Q8 NS
@@ -13,9 +13,9 @@ jcb.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757551134 1800 900 60
 87am40fb97gffhnhs9rgh5ggda3htk4l.jcb.	3600	in	rrsig	NSEC3 8 2 3600 20250917213004 20250910204639 44089 jcb. PXrIwVUtPJ8NUIezR7DF1O5EQrRObjeRXHG9orEUkM3uB13BjapFdos1Fc1pDFRoAf4kDARBM6ZovsnoAWHgVwcIliZCUTacYtdGq6qhn4f/pynZCDazP9weNgfg20VQrhemfs0I3TfPJL35/Ihjd+RpBfocJgkzt0fbpmhhqiE=
 9qrusi3vajpmi0rqi2sd3o659gcuohln.jcb.	3600	in	nsec3	1 0 0 - GR83KFR3UVUG4S47VGS33EGDSFP4H60B NS
 9qrusi3vajpmi0rqi2sd3o659gcuohln.jcb.	3600	in	rrsig	NSEC3 8 2 3600 20250918055128 20250910204639 44089 jcb. vsyDhNOepnEN2XPAG4BcP+WdFhymeaicpBe5y1Q8QYJANLk8tmVxob/hLE2wsUO/aNJqhcJLTPUX/E1BGH9zOxz7uz8IeIESoYSSWMqynKIO6pvSJHjIMTd8LoMAaG5UUwQDfU3op4GcLIJuF4eW88fVE2qTq8hETPAd5HvXYlw=
-__zone_status.jcb.	0	in	rrsig	TXT 8 2 0 20250918090826 20250910233840 44089 jcb. aPWcqHFaxI06fJwISM5nk2Dll51Ksx1tcfVH7QjmzWElEdtpkTw9drr7XodoiEgn09sxbWEkUTcPAPiX+trlqQJSshNrP0CqSvdvJ0dVSRcsadZyd4wNe3so1Z+fUpytyg64bDfXxr5fWn/CViI0rub3iodjx3Yk+eGtvtjXdy0=
-__zone_status.jcb.	0	in	txt	"original-serial=73617"
-__zone_status.jcb.	0	in	txt	"original-timestamp=1757551092.13139"
+__zone_status.jcb.	0	in	rrsig	TXT 8 2 0 20250919130423 20250912001046 44089 jcb. efAUnzCgWTKyM5402yAcLpLXOxRzfwpUcGfYSs2bMEG6qCQSXLc0z9kBR9F63R1Vzc4LKVie/9+Tmi2w3MfRmoi4KLI1UZYZZwr7LjVJTSRb7y2cntpTxY6ie1DgG9FOlfLjri/EKjuoI3M9RISpO5QQgAvdKnvQJWjNdNE8kkI=
+__zone_status.jcb.	0	in	txt	"original-serial=73640"
+__zone_status.jcb.	0	in	txt	"original-timestamp=1757639410.75774"
 bizconnect.jcb.	86400	in	ns	ns-cloud-c1.googledomains.com.
 bizconnect.jcb.	86400	in	ns	ns-cloud-c2.googledomains.com.
 bizconnect.jcb.	86400	in	ns	ns-cloud-c3.googledomains.com.
@@ -55,7 +55,7 @@ jcb.	86400	in	ns	k.gmoregistry.net.
 jcb.	86400	in	ns	l.gmoregistry.net.
 jcb.	86400	in	rrsig	DNSKEY 8 1 86400 20250917122257 20250910204639 8039 jcb. IxAtjuxVfoXycJ6T3HwkJEiBZkqlw3UH1Yd3oIxJPilG94I6Iq9PhaGxKzAthiAzUdAvKIVCCWjEVi5etqKvfQiSB5gVf4Pior5DOZD/F/OvrMQbEOCmk0xs4XolPiL1ucZiBxOL9mkOBBXbnAvBE+VonA3T3uucNw6Dburnl+RiIG4SJ825MiAwGdZxCjzf7oeaZOa/JjKLPD5vZKEHfR6eGmYyGA2ur6dbtVG15ZfwoWarncvJLp7FyqhLHi12JTv8+r28XELbnRyJ8mrCkqtS8bb4Y+487ACkEML8RpROcRPZIRqcZD/IikH4mMYbiP/ANAjnZLdtTfe9CY+6EQ==
 jcb.	86400	in	rrsig	NS 8 1 86400 20250917133922 20250910204639 44089 jcb. G1ViplnrWF/bckYKhKOliRw05ZFFJnLRbZRgHJRe++wC7UYnrrKDyn7NFL36VehNCwWq8EXVgmCTLgR+drmJzPchcPSdP1YbwAi9PUw6m1H5bTPLz7Y6q02YaGKaAg/N3dzY9zlYuW86z3To0RTrRiyff02bb+e2ycEXy8Ayk20=
-jcb.	86400	in	rrsig	SOA 8 1 86400 20250917222048 20250910233840 44089 jcb. Wi1rl94jZxbwFDjFBahfZxXyL/J/YcTyU0y2k1yD1WhYHk+M7sJwH1P262n74X1NMDv/jdSI5/YZvSimxZ0gKb8RqhZ66qZk6HE6Ll+o730sbXU370bG6URMwtLFt27y8ZZfbRR6KDq1ur34jp4d6WOjovqam1ZVCPJREXdaXQ8=
+jcb.	86400	in	rrsig	SOA 8 1 86400 20250919105418 20250912001046 44089 jcb. FuWLMhcspjMefDdKi0Nw62hmLyKZKBp46TI37js58CTZ6a0hokQsGot5mb5YyBHhPVtjgOuWGUPOzbrFWdhDWk1to4TI9twZVHxLILE+2nS1t1q7MpQlrv7NHO6KLSxvF4pZNjmJgwszXaRmb50tmsljjP+1EN80zLDvQ0Oe7Y0=
 jll16q1q30jgo29r93fdb7i2r5tv2e06.jcb.	3600	in	nsec3	1 0 0 - KB8BDEPLAL0QA7DBS3J108EEO2K1HLQN NS
 jll16q1q30jgo29r93fdb7i2r5tv2e06.jcb.	3600	in	rrsig	NSEC3 8 2 3600 20250917164921 20250910204639 44089 jcb. eUkT2A/nL32ChWl3ryZYbqGx+qnIshDMPZJD/m07hUqDtAPRoWebf+PcheAvC+7pfg6fzS2C6Dc0buw2SLbXsyOwUCZQeisIQbJK//m3aXPlFpz3QH8iBzyGTmB57m+RYDVvMgqIDd56S3D14HcPm1+Nb0BnCnmxMtr1RUk7ajU=
 kb8bdeplal0qa7dbs3j108eeo2k1hlqn.jcb.	3600	in	nsec3	1 0 0 - N425IB303ESP7RP9PTVEQ380EQEKHTPD NS
@@ -111,4 +111,4 @@ vn.jcb.	86400	in	ns	ns00.vips.ne.jp.
 vn.jcb.	86400	in	ns	ns01.vips.ne.jp.
 vto50dq8vt2ded97dvuh6ch6gj2083qp.jcb.	3600	in	nsec3	1 0 0 - 0NRK8H6S0MIA919256GMLOM9MBSOEABN NS
 vto50dq8vt2ded97dvuh6ch6gj2083qp.jcb.	3600	in	rrsig	NSEC3 8 2 3600 20250918013612 20250910204639 44089 jcb. wpOT59NhmkSGhsuCS4xnh3gmSfRmeXATc/kDdEJ1EY8ou3T2CuAuMBrJiFjC9DYj3okD3Npgv58dR82gm8aM1juARL1Ex2NHlUpFE3pXH0KxQbtYUFxg1tRtYRQqmGHIQFCLxdNBJnvSmM8+4CzPlzsk28ielgDlu+r7orNUSh0=
-jcb.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757551134 1800 900 604800 3600
+jcb.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757639461 1800 900 604800 3600
