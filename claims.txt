@@ -1,4 +1,4 @@
-claims.	3600	in	soa	v0n0.nic.claims. hostmaster.donuts.email. 1757552001 7200 900 1209600 3600
+claims.	3600	in	soa	v0n0.nic.claims. hostmaster.donuts.email. 1757638846 7200 900 1209600 3600
 0.claims.	3600	in	ns	dean.ns.cloudflare.com.
 0.claims.	3600	in	ns	sierra.ns.cloudflare.com.
 00a4esofbbeqe4247uvgd4bc87ui8bhf.claims.	3600	in	nsec3	1 1 0 73 00ARO8AID3M414209GVK6Q09J0S619LL NS DS RRSIG
@@ -29,6 +29,8 @@ claims.	3600	in	soa	v0n0.nic.claims. hostmaster.donuts.email. 1757552001 7200 90
 0o6k3fsg22eogp7kcip611t6l03o4cqo.claims.	3600	in	rrsig	NSEC3 8 2 3600 20250930154223 20250909144223 63120 claims. kpewXXYTX4nAb08OkVDOyBUYzCgDrT8ZK+t2puBZxW7P8/XucjqSVjMrrTmcH599HMgqJqJmt7PhweALs+/L/OE4Q8xKboPu+uMC4aWZOPqHZ2ftPdjKqkJU0VbfmLKwsI864GgDpqJM+5d2/X+JTHtQsYXAybQJfAaSoj5fb2c=
 0x.claims.	3600	in	ns	dns100.ovh.net.
 0x.claims.	3600	in	ns	ns100.ovh.net.
+0x0.claims.	3600	in	ns	charles.ns.cloudflare.com.
+0x0.claims.	3600	in	ns	zoe.ns.cloudflare.com.
 0xzerebro.claims.	3600	in	ns	harleigh.ns.cloudflare.com.
 0xzerebro.claims.	3600	in	ns	odin.ns.cloudflare.com.
 1155pm.claims.	3600	in	ns	ns5.kasserver.com.
@@ -1142,10 +1144,6 @@ aifreight.claims.	3600	in	ns	ns35.domaincontrol.com.
 aifreight.claims.	3600	in	ns	ns36.domaincontrol.com.
 aiko.claims.	3600	in	ns	dns1.registrar-servers.com.
 aiko.claims.	3600	in	ns	dns2.registrar-servers.com.
-aimdrops.claims.	3600	in	ns	curitiba.ns.porkbun.com.
-aimdrops.claims.	3600	in	ns	fortaleza.ns.porkbun.com.
-aimdrops.claims.	3600	in	ns	maceio.ns.porkbun.com.
-aimdrops.claims.	3600	in	ns	salvador.ns.porkbun.com.
 aios.claims.	3600	in	ns	failed-whois-verification.namecheap.com.
 aios.claims.	3600	in	ns	verify-contact-details.namecheap.com.
 aioz.claims.	3600	in	ns	dns1.registrar-servers.com.
@@ -1499,8 +1497,6 @@ appstore-google.claims.	3600	in	ns	ns1.dyna-ns.net.
 appstore-google.claims.	3600	in	ns	ns2.dyna-ns.net.
 aptoslabs.claims.	3600	in	ns	lennon.ns.cloudflare.com.
 aptoslabs.claims.	3600	in	ns	nataly.ns.cloudflare.com.
-apu.claims.	3600	in	ns	dns101.registrar-servers.com.
-apu.claims.	3600	in	ns	dns102.registrar-servers.com.
 apugza.claims.	3600	in	ns	n1.xundns.com.
 apugza.claims.	3600	in	ns	n2.xundns.com.
 aqssu.claims.	3600	in	ns	n1.xundns.com.
@@ -3127,8 +3123,6 @@ calvary.claims.	3600	in	ns	ns59.domaincontrol.com.
 calvary.claims.	3600	in	ns	ns60.domaincontrol.com.
 camco.claims.	3600	in	ns	ns09.domaincontrol.com.
 camco.claims.	3600	in	ns	ns10.domaincontrol.com.
-camplejeunelawsuit.claims.	3600	in	ns	ns1.dyna-ns.net.
-camplejeunelawsuit.claims.	3600	in	ns	ns2.dyna-ns.net.
 camwhores.claims.	3600	in	ns	dns1.registrar-servers.com.
 camwhores.claims.	3600	in	ns	dns2.registrar-servers.com.
 canaldigital.claims.	3600	in	ns	dns01.dipcon.com.
@@ -3547,7 +3541,7 @@ claims.	3600	in	nsec3param	1 0 0 73
 claims.	3600	in	rrsig	DNSKEY 8 1 3600 20250930154223 20250909144223 2119 claims. gn/LFs/n6fIrnZYoV0yeLv+3Fu2xQvQTn4AqCdwuknkcHJa8+pGEmhpzWFHDCiuqIGrQkcRFJK+YpEPxf2CWnEZ+D2jMsjO7+dVlHUrPb8hXPXOagc6CCEzvL2Omm1r6nzkPkeCBm/HLkop3ClLRvCNL+9e1HR2RKylPwfxuuOQ2D1T15StbrJgisB2/eGbZ+2WGpYm6C3YrZB4utNCbVwOhKyJFcnGrNNXn6K3uFE4D7mWF3JxOzbfi2VKiFt3/fFYlN3fNLi3zGVaThqlFFAJwnKFsh5rc+aBvGOw3MicIIT09X77Il5rReyTZhIMUVxh74QZruMmef6IMffprdg==
 claims.	3600	in	rrsig	NS 8 1 3600 20250930154223 20250909144223 63120 claims. jaCArc+tUm96Ud023Xn/WbaCtOYciiWcmi90EkekkGUzXLzc+izNZ/q8cjbtjwvjTcPR0sRh01PiJktcS0YaJlnQzX1DH+B673FGzfNGpE4VlC58+UJDYbJ1Hdb3lknSCnXuQ9BpveMcEaDub3bbd8sEAUM3uDkmAnm4q+HK7FU=
 claims.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930154223 20250909144223 63120 claims. VO8o/N3TpM+N4zh8XUxv/mPzXvFyLaZw9W2yfxSTMzgZ2xMbVm6TbSqfcK7LQMMr8NU3BQuSNazdAvd1mwZBCWszYNNXcVO6OLuFx17U2+jE+PuiVFOh8dh5NTTKZ72etg+olQzNJFYSe4bzaBAajzAFvhmbryCj0Qm+LkB7nqQ=
-claims.	3600	in	rrsig	SOA 8 1 3600 20251002005659 20250910235659 63120 claims. iZHizcReR9UjF8W4zkjGhxCl8ylH/uT9v+ElKLVGosXd20pUyNUMdvvcOrGg83qbbFwM7ZjczKCtczvkBOHs2Y4JXYDb0IdZOnp5YNECe+toTWa49L+BlNcOpPruzHhzjRNWgVHNbK+pY7Ms7op8QfwWd2hJsM31p0iDaNzGL+8=
+claims.	3600	in	rrsig	SOA 8 1 3600 20251003010411 20250912000411 63120 claims. FO8oEszS+v9+rBT+moKOdWxFfb9pzdPjpLFHCZDNT4gXEaXswvdetGEKeY3x7IqlH4kpwxct9WZorLa/9FlglHiDITyol+RT8bk/Ntdi1LY8o5YYrFdGw7l5Nn1+ywVAJst91ogzTKBzleRXhX+RZd4wOFVc+Yi9yTUHsdOQp28=
 claims.claims.	3600	in	ns	ns1.dyna-ns.net.
 claims.claims.	3600	in	ns	ns2.dyna-ns.net.
 claims911.claims.	3600	in	ns	dns1.registrar-servers.com.
@@ -3958,6 +3952,8 @@ cotton.claims.	3600	in	ns	dns101.registrar-servers.com.
 cotton.claims.	3600	in	ns	dns102.registrar-servers.com.
 counsel.claims.	3600	in	ns	dns101.registrar-servers.com.
 counsel.claims.	3600	in	ns	dns102.registrar-servers.com.
+counter.claims.	3600	in	ns	dns1.registrar-servers.com.
+counter.claims.	3600	in	ns	dns2.registrar-servers.com.
 coupon.claims.	3600	in	ns	ns55.domaincontrol.com.
 coupon.claims.	3600	in	ns	ns56.domaincontrol.com.
 coupons.claims.	3600	in	ns	ns1.dns-redirect.com.
@@ -4413,8 +4409,6 @@ dannkansahenterprise.claims.	3600	in	ns	ns1.dyna-ns.net.
 dannkansahenterprise.claims.	3600	in	ns	ns2.dyna-ns.net.
 dao.claims.	3600	in	ns	dns1.registrar-servers.com.
 dao.claims.	3600	in	ns	dns2.registrar-servers.com.
-dappadar.claims.	3600	in	ns	expired-ns1.niceisp.com.
-dappadar.claims.	3600	in	ns	expired-ns2.niceisp.com.
 darag.claims.	3600	in	ns	ns0.terralink.de.
 darag.claims.	3600	in	ns	ns1.terralink.de.
 das.claims.	3600	in	ns	dns1.registrar-servers.com.
@@ -4470,8 +4464,8 @@ dbfgj.claims.	3600	in	ns	n1.xundns.com.
 dbfgj.claims.	3600	in	ns	n2.xundns.com.
 dboqk.claims.	3600	in	ns	n1.xundns.com.
 dboqk.claims.	3600	in	ns	n2.xundns.com.
-dbs.claims.	3600	in	ns	ns1.bodis.com.
-dbs.claims.	3600	in	ns	ns2.bodis.com.
+dbs.claims.	3600	in	ns	ns1.dns-redirect.com.
+dbs.claims.	3600	in	ns	ns2.dns-redirect.com.
 dc9qpn0hufcorm2kimhurek6gaeig9ok.claims.	3600	in	nsec3	1 1 0 73 DDHOIAIS0GO88A07N80GI1EV6IDO7C8H NS DS RRSIG
 dc9qpn0hufcorm2kimhurek6gaeig9ok.claims.	3600	in	rrsig	NSEC3 8 2 3600 20250930154223 20250909144223 63120 claims. fpBX2vCMV4523qVtv++uCpn1xz/ia4mgGFdU0QRLgeFq1SuJf5s4+v4ktJrruDAbFTybLIns9l7Hy8HUaDlSDKvPoObF7WwI3WzI4Cd5L7gzLqvh1shnM8lzTIFSqgT/mMpPV2lpsxwDn9dXvwf1i1ZlEr5ywpYdONcQbm4+q18=
 dcb.claims.	3600	in	ns	ns1.net4india.com.
@@ -4500,8 +4494,8 @@ dctnorthe.claims.	3600	in	ns	ns57.domaincontrol.com.
 dctnorthe.claims.	3600	in	ns	ns58.domaincontrol.com.
 ddhjkx.claims.	3600	in	ns	ns1.dyna-ns.net.
 ddhjkx.claims.	3600	in	ns	ns2.dyna-ns.net.
-ddhoiais0go88a07n80gi1ev6ido7c8h.claims.	3600	in	nsec3	1 1 0 73 E34BFAFR8QDFTD6AE3P4KEA1GLK57HBF NS DS RRSIG
-ddhoiais0go88a07n80gi1ev6ido7c8h.claims.	3600	in	rrsig	NSEC3 8 2 3600 20250930154223 20250909144223 63120 claims. aE+slRBiDfUJGTdEcx6bg4JjNwCph9sWgmnavgkYUwiBegfNqsV0RYbB9yyA/eHP+iRDmx0t+Vv+b0K/FTmM+Gbg8mIOFEIbGP50gKRkOup3WYcGSV38hvZ5vpRp8sZ2d3YtuZvFms0bb342ZxpGp6PKo5ekp4nfU0MChA0Vbns=
+ddhoiais0go88a07n80gi1ev6ido7c8h.claims.	3600	in	nsec3	1 1 0 73 DF8ST5460BRGNLRR3S71N3N1RTBOQE9I NS DS RRSIG
+ddhoiais0go88a07n80gi1ev6ido7c8h.claims.	3600	in	rrsig	NSEC3 8 2 3600 20251002093424 20250911083424 63120 claims. IPz0/ZAZvTYL11KklA81gst5ZhJSw+MnwlAECVlZs0YAkRQd8d8YLALUXHh1Kz2CQTbGD+ONMuqZoeJia1gNfUd4kDGxUQq9dkAUE7okEZOPXZBCk1v+KfB6og6zOCyqVe/as3B4VJUpudeTn00QdSS2aYajiSF/THTdYG7R/5c=
 ddqqb.claims.	3600	in	ns	ns1.dyna-ns.net.
 ddqqb.claims.	3600	in	ns	ns2.dyna-ns.net.
 dds.claims.	3600	in	ns	ns1.dns-redirect.com.
@@ -4606,6 +4600,8 @@ dewa123.claims.	3600	in	ns	nile.ns.cloudflare.com.
 dewa123.claims.	3600	in	ns	sasha.ns.cloudflare.com.
 dex.claims.	3600	in	ns	ns1.vercel-dns.com.
 dex.claims.	3600	in	ns	ns2.vercel-dns.com.
+df8st5460brgnlrr3s71n3n1rtboqe9i.claims.	3600	in	nsec3	1 1 0 73 E34BFAFR8QDFTD6AE3P4KEA1GLK57HBF NS DS RRSIG
+df8st5460brgnlrr3s71n3n1rtboqe9i.claims.	3600	in	rrsig	NSEC3 8 2 3600 20251002093424 20250911083424 63120 claims. lRtvTnyv6yS2bI6xcRykw2kFu8rrHUrCQTiE+ghDn5urczeZH9yl/MQ7w9ENUo3eihnRCiQ/mFVXiPyDJama11VJNWlrNfhhGj4fX6H5Rz/qFB6O3NX2YlmNLknjUrbE2qkRTvxQA+D6hhAfbXvGRWpJrBBQae1aigrB8x2u/S8=
 dfckr.claims.	3600	in	ns	n1.xundns.com.
 dfckr.claims.	3600	in	ns	n2.xundns.com.
 dfgfef.claims.	3600	in	ns	ns1.1233dns.com.
@@ -4691,8 +4687,8 @@ directredress.claims.	3600	in	ns	ns33.domaincontrol.com.
 directredress.claims.	3600	in	ns	ns34.domaincontrol.com.
 dirtydrafts.claims.	3600	in	ns	ns1.dyna-ns.net.
 dirtydrafts.claims.	3600	in	ns	ns2.dyna-ns.net.
-disaster.claims.	3600	in	ns	ns3.afternic.com.
-disaster.claims.	3600	in	ns	ns4.afternic.com.
+disaster.claims.	3600	in	ns	ns47.domaincontrol.com.
+disaster.claims.	3600	in	ns	ns48.domaincontrol.com.
 discover.claims.	3600	in	ns	ns69.domaincontrol.com.
 discover.claims.	3600	in	ns	ns70.domaincontrol.com.
 dismissal.claims.	3600	in	ns	ns73.domaincontrol.com.
@@ -4949,8 +4945,6 @@ eab.claims.	3600	in	ns	ns3.eurodns.com.
 eab.claims.	3600	in	ns	ns4.eurodns.com.
 eabe.claims.	3600	in	ns	dns1.cscdns.net.
 eabe.claims.	3600	in	ns	dns2.cscdns.net.
-eagle-ia.claims.	3600	in	ns	dns101.registrar-servers.com.
-eagle-ia.claims.	3600	in	ns	dns102.registrar-servers.com.
 eaglemutual.claims.	3600	in	ns	ns71.worldnic.com.
 eaglemutual.claims.	3600	in	ns	ns72.worldnic.com.
 eahru.claims.	3600	in	ns	ns7.alidns.com.
@@ -6214,8 +6208,8 @@ glo.claims.	3600	in	ns	ns2.livedns.co.uk.
 glo.claims.	3600	in	ns	ns3.livedns.co.uk.
 global.claims.	3600	in	ns	ns31.domaincontrol.com.
 global.claims.	3600	in	ns	ns32.domaincontrol.com.
-globaldensitytrade.claims.	3600	in	ns	ns1.dyna-ns.net.
-globaldensitytrade.claims.	3600	in	ns	ns2.dyna-ns.net.
+globaldensitytrade.claims.	3600	in	ns	ns103.my-control-panel.com.
+globaldensitytrade.claims.	3600	in	ns	ns104.my-control-panel.com.
 globalpro.claims.	3600	in	ns	ns55.domaincontrol.com.
 globalpro.claims.	3600	in	ns	ns56.domaincontrol.com.
 gloucester.claims.	3600	in	ns	ns69.domaincontrol.com.
@@ -8583,7 +8577,7 @@ m0t04ncv8vbego7uoekf13ji912v99in.claims.	3600	in	rrsig	NSEC3 8 2 3600 2025093015
 m88.claims.	3600	in	ns	giancarlo.ns.cloudflare.com.
 m88.claims.	3600	in	ns	leah.ns.cloudflare.com.
 m9v7n8pjpbpleepcievl18pt20gtegcl.claims.	3600	in	nsec3	1 1 0 73 MBS43NFG8SMLHP8S6U0IRJK7AJIUU7TV NS SOA RRSIG DNSKEY NSEC3PARAM
-m9v7n8pjpbpleepcievl18pt20gtegcl.claims.	3600	in	rrsig	NSEC3 8 2 3600 20251002005659 20250910235659 63120 claims. fljg2+iQXu+RkF4dH5mpWxzDep1iuW0BmXJnWtLSmYeRJ6SGiKYKhaw1bc13IO1s4/Ok3tZr12efeYyKt9o9Or+JSSJDPD63mYWSLxam0nbDDyPW+DmmT3B7IapMGTO4VIDy1ySlSwVDfnKl/rs3KxWRAPoBjEthYNOCy70q264=
+m9v7n8pjpbpleepcievl18pt20gtegcl.claims.	3600	in	rrsig	NSEC3 8 2 3600 20251003010411 20250912000411 63120 claims. LJsuGKRGchcBXcc+86W4xNtMYZO5pVvwidanm5+1k3wFa435d3os0499ml9oqzDgLjZnLx3Coi7VrpUPwX9SQDayqZE7aMYTktTssLKOoaZoGCXlC+vA3hjyncnyjovwMAVlUwQiYdf0Gdj7YkkcssRuYDNBc+bKzqDnUCexGh8=
 maa.claims.	3600	in	ns	ns53.domaincontrol.com.
 maa.claims.	3600	in	ns	ns54.domaincontrol.com.
 macau.claims.	3600	in	ns	ns73.domaincontrol.com.
@@ -8595,8 +8589,9 @@ magacoin.claims.	3600	in	ns	pns2.regery.net.
 magacoin.claims.	3600	in	ns	pns3.regery.net.
 magamemcoin.claims.	3600	in	ns	ajay.ns.cloudflare.com.
 magamemcoin.claims.	3600	in	ns	clarissa.ns.cloudflare.com.
-magamemecoin.claims.	3600	in	ns	damiete.ns.cloudflare.com.
-magamemecoin.claims.	3600	in	ns	roxy.ns.cloudflare.com.
+magamemecoin.claims.	3600	in	ns	pns1.regery.net.
+magamemecoin.claims.	3600	in	ns	pns2.regery.net.
+magamemecoin.claims.	3600	in	ns	pns3.regery.net.
 magma.claims.	3600	in	ns	dns1.registrar-servers.com.
 magma.claims.	3600	in	ns	dns2.registrar-servers.com.
 mail.claims.	3600	in	ns	ns1.afternic.com.
@@ -9394,8 +9389,6 @@ mulkkp.claims.	3600	in	ns	ns1.dnsip.com.
 mulkkp.claims.	3600	in	ns	ns2.dnsip.com.
 multicanais.claims.	3600	in	ns	dns1.registrar-servers.com.
 multicanais.claims.	3600	in	ns	dns2.registrar-servers.com.
-multisender.claims.	3600	in	ns	dns101.registrar-servers.com.
-multisender.claims.	3600	in	ns	dns102.registrar-servers.com.
 munyc.claims.	3600	in	ns	docks02.rzone.de.
 munyc.claims.	3600	in	ns	shades07.rzone.de.
 muraibetgacor.claims.	3600	in	ns	carla.ns.cloudflare.com.
@@ -9641,6 +9634,10 @@ nctsw.claims.	3600	in	ns	n1.xundns.com.
 nctsw.claims.	3600	in	ns	n2.xundns.com.
 ndlxh.claims.	3600	in	ns	grannbo.ns.cloudflare.com.
 ndlxh.claims.	3600	in	ns	norm.ns.cloudflare.com.
+nealpro.claims.	3600	in	ns	ns-cloud-a1.googledomains.com.
+nealpro.claims.	3600	in	ns	ns-cloud-a2.googledomains.com.
+nealpro.claims.	3600	in	ns	ns-cloud-a3.googledomains.com.
+nealpro.claims.	3600	in	ns	ns-cloud-a4.googledomains.com.
 neemo.claims.	3600	in	ns	hold1.luxhost.org.
 neemo.claims.	3600	in	ns	hold2.luxhost.org.
 negotiate.claims.	3600	in	ds	28654 8 2 D35494766D2A9870D696ADD49A4E76D0C9E7034BAE8E8548221B812018F79300
@@ -10541,8 +10538,8 @@ personalproperty.claims.	3600	in	ns	maceio.ns.porkbun.com.
 personalproperty.claims.	3600	in	ns	salvador.ns.porkbun.com.
 personenschade.claims.	3600	in	ns	ns01.hostnet.nl.
 personenschade.claims.	3600	in	ns	ns02.hostnet.nl.
-pesticides.claims.	3600	in	ns	ns1.bodis.com.
-pesticides.claims.	3600	in	ns	ns2.bodis.com.
+pesticides.claims.	3600	in	ns	ns1.dns-redirect.com.
+pesticides.claims.	3600	in	ns	ns2.dns-redirect.com.
 pestshare.claims.	3600	in	ns	ns1.verification-hold.suspended-domain.com.
 pestshare.claims.	3600	in	ns	ns2.verification-hold.suspended-domain.com.
 pet.claims.	3600	in	ns	ns1.netnames.net.
@@ -11092,8 +11089,6 @@ pudgy-penguins.claims.	3600	in	ns	dayana.ns.cloudflare.com.
 pudgy-penguins.claims.	3600	in	ns	matteo.ns.cloudflare.com.
 pudgy.claims.	3600	in	ns	haley.ns.cloudflare.com.
 pudgy.claims.	3600	in	ns	javon.ns.cloudflare.com.
-pudgypenguin.claims.	3600	in	ns	haley.ns.cloudflare.com.
-pudgypenguin.claims.	3600	in	ns	javon.ns.cloudflare.com.
 pudgypenguins.claims.	3600	in	ns	jack.ns.cloudflare.com.
 pudgypenguins.claims.	3600	in	ns	serenity.ns.cloudflare.com.
 pudqypenguins.claims.	3600	in	ns	ezra.ns.cloudflare.com.
@@ -11358,6 +11353,8 @@ rabbit.claims.	3600	in	ns	dns1.p02.nsone.net.
 rabbit.claims.	3600	in	ns	dns2.p02.nsone.net.
 rabbit.claims.	3600	in	ns	dns3.p02.nsone.net.
 rabbit.claims.	3600	in	ns	dns4.p02.nsone.net.
+rac.claims.	3600	in	ns	ns1.syd6.hostyourservices.net.
+rac.claims.	3600	in	ns	ns2.syd6.hostyourservices.net.
 racv.claims.	3600	in	ns	dns1.cscdns.net.
 racv.claims.	3600	in	ns	dns2.cscdns.net.
 radiantcapital.claims.	3600	in	ns	ns1.managedns1.com.
@@ -11684,15 +11681,15 @@ rlusds.claims.	3600	in	ns	jasper.ns.cloudflare.com.
 rlusds.claims.	3600	in	ns	sandy.ns.cloudflare.com.
 rlv83l0b6j6q93c5kmc2tj3ie5fnusth.claims.	3600	in	nsec3	1 1 0 73 RM2SCU387805BEJVL1KT9UN45U334BNC NS DS RRSIG
 rlv83l0b6j6q93c5kmc2tj3ie5fnusth.claims.	3600	in	rrsig	NSEC3 8 2 3600 20250930154223 20250909144223 63120 claims. RWXvE5+pTX4wEUnA/8czCvm4SUw3gWoJhZgJS27XyTMUxsRLYfz5r363pfCR57ndGptXykuDxr/MR3WdWlXgtK94ZFmiMkXgMHBtehvJ4Rqre/Cf10x3kTaP61dlg8Bmnd144NUeUV+sE/Zmud3VfQQ3EGinLmlyLbVej1tegsA=
-rm2scu387805bejvl1kt9un45u334bnc.claims.	3600	in	nsec3	1 1 0 73 SCLP6G2U4AJKMFN5CMJ4N7HE5V86A5UM NS DS RRSIG
-rm2scu387805bejvl1kt9un45u334bnc.claims.	3600	in	rrsig	NSEC3 8 2 3600 20250930154223 20250909144223 63120 claims. ggcnm9XHfDabpAu/+5eigUrtETi73Mfmrx0czTEtlL9ee8ywJrNeEDYzDKCCCMByp8smwchiTPrvKg14Rxc0aQIUZd3N4EWu66DcS33MwX/0G9iBspKieVc9PPPpxyl7lookZTmHzsDuo+2yA3XqP7+R6XCCpU+Jz8Jqir7jyF8=
+rm2scu387805bejvl1kt9un45u334bnc.claims.	3600	in	nsec3	1 1 0 73 SA6IEVTGQNMUPEU2JICAOHB2SR44A7VV NS DS RRSIG
+rm2scu387805bejvl1kt9un45u334bnc.claims.	3600	in	rrsig	NSEC3 8 2 3600 20251002233939 20250911223939 63120 claims. Sn4dscrRCqQ2E9gIRo4Fq8/qjtjZglPCFa3BjnrPCRELfy+oNwJgjALWQ25c7Of/j7gRJ9HPRsw8opTgNDvNZ807rEv2eyMGBcE1ML4Td0ZJIbkIjec+MFtpdHYHaTYc9k1c7XFqt7pOVk7O3uintCl0skEEVSHzFxwhf5j9eUs=
 rmb.claims.	3600	in	ns	ns1.lexsynergy.net.
 rmb.claims.	3600	in	ns	ns2.lexsynergy.us.
 rmb.claims.	3600	in	ns	ns3.lexsynergy.info.
 rmqlk.claims.	3600	in	ns	n1.xundns.com.
 rmqlk.claims.	3600	in	ns	n2.xundns.com.
-rnd.claims.	3600	in	ns	ns1.bodis.com.
-rnd.claims.	3600	in	ns	ns2.bodis.com.
+rnd.claims.	3600	in	ns	ns1.dns-redirect.com.
+rnd.claims.	3600	in	ns	ns2.dns-redirect.com.
 rnksx.claims.	3600	in	ns	ns1.dyna-ns.net.
 rnksx.claims.	3600	in	ns	ns2.dyna-ns.net.
 rnsyf.claims.	3600	in	ns	ns1.dns.com.
@@ -11874,6 +11871,8 @@ s8.claims.	3600	in	ns	ada.ns.cloudflare.com.
 s8.claims.	3600	in	ns	jay.ns.cloudflare.com.
 sa.claims.	3600	in	ns	ns77.domaincontrol.com.
 sa.claims.	3600	in	ns	ns78.domaincontrol.com.
+sa6ievtgqnmupeu2jicaohb2sr44a7vv.claims.	3600	in	nsec3	1 1 0 73 SCLP6G2U4AJKMFN5CMJ4N7HE5V86A5UM NS DS RRSIG
+sa6ievtgqnmupeu2jicaohb2sr44a7vv.claims.	3600	in	rrsig	NSEC3 8 2 3600 20251002233939 20250911223939 63120 claims. gmFvEPYUkd/oDqIFz8/mXE6xi+ykslHVmdGf58txGWAnpNjj5UuUjPz4sevLyyo59GNr6tBwd2cmzn2KGrJPG9ZOJsW40sPtqmVtkyrtbnUJLV5xPJ3EYmp7D547nRLvv4pHuYWwbIVmKAJepGQ5IVj8K8CUtiRagS/7ygFWzLM=
 safe.claims.	3600	in	ns	ns1.afternic.com.
 safe.claims.	3600	in	ns	ns2.afternic.com.
 safeguard.claims.	3600	in	ns	cruz.ns.cloudflare.com.
@@ -11992,14 +11991,10 @@ scroii.claims.	3600	in	ns	dns1.regway.com.
 scroii.claims.	3600	in	ns	dns2.regway.com.
 scroii.claims.	3600	in	ns	dns3.regway.com.
 scroii.claims.	3600	in	ns	dns4.regway.com.
-scroll.claims.	3600	in	ns	ns1.ns306.parklogic.com.
-scroll.claims.	3600	in	ns	ns2.ns306.parklogic.com.
 scrollscr.claims.	3600	in	ns	konnor.ns.cloudflare.com.
 scrollscr.claims.	3600	in	ns	sonia.ns.cloudflare.com.
 scscat.claims.	3600	in	ns	ns17.domaincontrol.com.
 scscat.claims.	3600	in	ns	ns18.domaincontrol.com.
-scu.claims.	3600	in	ns	dns101.registrar-servers.com.
-scu.claims.	3600	in	ns	dns102.registrar-servers.com.
 sda.claims.	3600	in	ns	ns1019.ui-dns.de.
 sda.claims.	3600	in	ns	ns1020.ui-dns.org.
 sda.claims.	3600	in	ns	ns1032.ui-dns.com.
@@ -12330,6 +12325,10 @@ smilecare.claims.	3600	in	ns	dns1.register.com.
 smilecare.claims.	3600	in	ns	dns2.register.com.
 smilecare.claims.	3600	in	ns	ns69.worldnic.com.
 smilecare.claims.	3600	in	ns	ns70.worldnic.com.
+smiley.claims.	3600	in	ds	30427 13 2 F04091087686034AAE3181934FB96E31517C93FFAC8DA59DCA0DFD6AD2968C37
+smiley.claims.	3600	in	ns	launch1.spaceship.net.
+smiley.claims.	3600	in	ns	launch2.spaceship.net.
+smiley.claims.	3600	in	rrsig	DS 8 2 3600 20251002093424 20250911083424 63120 claims. FL53nscbYiCp3dSaunMpAAV9fFm77MyiSDfjpx2wTOIu2qc+DrfqSj8KWzOCS4K2MDp01JEbEgSwBJJS3RrvUzJ3GI8/e/qNJsoWeHdaZ9enWpz/zUfOCcmstUALQC3iwXTI8O6DECHDNrU2xUQBelZ1cI5+xHRCgSwWouSzW64=
 smith.claims.	3600	in	ns	ns47.domaincontrol.com.
 smith.claims.	3600	in	ns	ns48.domaincontrol.com.
 smjrw.claims.	3600	in	ns	ns1.dyna-ns.net.
@@ -12440,6 +12439,12 @@ solix.claims.	3600	in	ns	curitiba.ns.porkbun.com.
 solix.claims.	3600	in	ns	fortaleza.ns.porkbun.com.
 solix.claims.	3600	in	ns	maceio.ns.porkbun.com.
 solix.claims.	3600	in	ns	salvador.ns.porkbun.com.
+solsea.claims.	3600	in	ds	29101 8 2 26B779B30437AF059907AC51EE77CA431957AEDC8B8A98254BEDE5FF2081A4A3
+solsea.claims.	3600	in	ns	ns-cloud-e1.googledomains.com.
+solsea.claims.	3600	in	ns	ns-cloud-e2.googledomains.com.
+solsea.claims.	3600	in	ns	ns-cloud-e3.googledomains.com.
+solsea.claims.	3600	in	ns	ns-cloud-e4.googledomains.com.
+solsea.claims.	3600	in	rrsig	DS 8 2 3600 20251002233939 20250911223939 63120 claims. LM896EhoCYtTmNr402n9IJL+FkYh2uWzG0VEuo0aoBc6hWzlc0SF72WZGY8RZD2dsuODga9W470cSeBDnNau8WuLgzxnOMfhcyGg3jdKKCzy+vThabinpoiROebveRI5G0ZwasxyuA1JsnewwjGpEaF2DlM+IrEtFwcL/U5/fD8=
 solstice.claims.	3600	in	ns	ns65.domaincontrol.com.
 solstice.claims.	3600	in	ns	ns66.domaincontrol.com.
 soltj.claims.	3600	in	ns	ns1.dyna-ns.net.
@@ -14890,6 +14895,8 @@ xvfey.claims.	3600	in	ns	ns1.dnsip.com.
 xvfey.claims.	3600	in	ns	ns2.dnsip.com.
 xvkont.claims.	3600	in	ns	ns1.dnsip.com.
 xvkont.claims.	3600	in	ns	ns2.dnsip.com.
+xvm.claims.	3600	in	ns	dns1.registrar-servers.com.
+xvm.claims.	3600	in	ns	dns2.registrar-servers.com.
 xvnqw.claims.	3600	in	ns	n1.xundns.com.
 xvnqw.claims.	3600	in	ns	n2.xundns.com.
 xwfus.claims.	3600	in	ns	n1.xundns.com.
@@ -15257,4 +15264,4 @@ zzawqw.claims.	3600	in	ns	n1.xundns.com.
 zzawqw.claims.	3600	in	ns	n2.xundns.com.
 zzwsm.claims.	3600	in	ns	ns1.dyna-ns.net.
 zzwsm.claims.	3600	in	ns	ns2.dyna-ns.net.
-claims.	3600	in	soa	v0n0.nic.claims. hostmaster.donuts.email. 1757552001 7200 900 1209600 3600
+claims.	3600	in	soa	v0n0.nic.claims. hostmaster.donuts.email. 1757638846 7200 900 1209600 3600
