@@ -1,4 +1,4 @@
-seven.	900	in	soa	a.nic.seven. admin.tldns.godaddy. 1757525837 1800 300 604800 1800
+seven.	900	in	soa	a.nic.seven. admin.tldns.godaddy. 1757615838 1800 300 604800 1800
 7news.seven.	3600	in	ns	dns1.cscdns.net.
 7news.seven.	3600	in	ns	dns2.cscdns.net.
 7olympics.seven.	3600	in	ns	ns-1304.awsdns-35.org.
@@ -9,8 +9,8 @@ seven.	900	in	soa	a.nic.seven. admin.tldns.godaddy. 1757525837 1800 300 604800 1
 7plus.seven.	3600	in	ns	dns2.cscdns.net.
 7sport.seven.	3600	in	ns	dns1.cscdns.net.
 7sport.seven.	3600	in	ns	dns2.cscdns.net.
-_forcedupdate.seven.	300	in	rrsig	TXT 8 2 300 20250919121255 20250910163717 23589 seven. QFhwGd6csf87180lh+ZB4t8RizQ1080+sNVpEMkyUK7hed3jxwvDHfPdmcvWwV6LiEJTW/D+nr/n8k6ag3c2GcLhp7w+bSb+0OAAiyHqrjDYgkOOsuDdAyX3SE06JjWA04X506eBy7ozWApGCybvXaV5HAiPpdc5kWfh9SdaoiWE0qgq+UpuA7hTGMOxa8RScM7gu+Zt5kZKHIXrxH2yRw==
-_forcedupdate.seven.	300	in	txt	"1757525837"
+_forcedupdate.seven.	300	in	rrsig	TXT 8 2 300 20250922101447 20250911173718 23589 seven. oEd/mak0IxgPi7kzEWDVl/LDxYidwniU/gmft+n3Bmsvj31Fof9oIbseJrbKmlEPnpSIuh6dPYJsA6vUH752COD+XhOJiBfLltEtVQhMKak6kwyODxEhlgNXSTNXwDH9z85aXtIClfFVDxY0uWVx5Iu88YIAE3yvl3QhAoKOkSYVRBp82lDpmro1cXXdSLrZPUwfOXrdKn6x+wayX948kQ==
+_forcedupdate.seven.	300	in	txt	"1757615838"
 a.nic.seven.	172800	in	a	37.209.192.9
 a.nic.seven.	172800	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 app.seven.	3600	in	ns	dns1.cscdns.net.
@@ -61,7 +61,7 @@ seven.	3600	in	rrsig	CDS 8 1 3600 20250922093932 20250908092752 18001 seven. H9v
 seven.	7200	in	dnskey	256 3 8 AwEAAeBWCTLypsCPDazONQ1Kg3pMynmjpzPvW+w0bCqzh861gdYDFAyu7xtaF+BAT9l7r80dF2OXg1EJ7ssSM+S1uYT0gSaPdcqQfJC+U9qYJOaxKI6yHchRI1+drvcQVJgSBr9OwpoBoX0SIxWlcmwGMDU3XVeHBopQZ0BgSYXDznsl8WrF6wIe+62b8SOMt11/r/ulJcdE9xYhYiYoJJQYgBU=
 seven.	7200	in	dnskey	257 3 8 AwEAAe8yQi74b7J6i4YXMIgU3DUVRneSMfuizKjIg+H8G1HtQMRfgDovqBKsiqI9ddX/9+jlWVPhYgMmRYV8fviKKsDXw80OhBn14sBAOPjo1t9SSUMdOr2nDZe8FrAOxhfTj1wo6mdc4UTRZHVH9jXgCsVGt34Xy1c7r/CgGHaIForTPocw2k0j8VzxHY7ZW7vGmRLDpmbEd0MYPWXTv/Z7cKihskorP6czMm95lwiEEVahRqBaqMWL+dr21U/ZZLj6cmu588xluJ1nhGytqp72yhQu4kSAfwKhaYK7+3yUa/sTczVAEUMpbelaxg38ealxvELPtqfc4Tcv3xOd/fWDr/s=
 seven.	7200	in	rrsig	DNSKEY 8 1 7200 20250922093932 20250908092752 18001 seven. F+oyqlvnBwIgY6l5R/u1AhJp+DeaSGz93Lb1EsHe/wbZAxCAezddrzrQUeXqqRH9cjGFpwwnAxWMs9tOgc5A/HlPynHiuYnBBLnPPwSpKl3coJVXV1Hb6kOUnN7CCX+gJ2Fowc1SulnZ2t7QDc3RUoeueh41iBctFc/73dhuOyjNseLFF2NHY5hA/vdFr1TLHlqnvDT0Tnctv5c6gqHUdxAXSkalTQ6Orzavj57bDPecwisY/ai0VLGfrZ+Eyu3m3hB3hHKLEasSjTXoXtCztoNPg3iUSeu5tbE3SrJoQ2eFZo3xNwIjD8n+bq/UZOxI9PT8SIR2rIzUKmC0KyCcwA==
-seven.	900	in	rrsig	SOA 8 1 900 20250924173717 20250910163717 23589 seven. Ny0aznxaaauW5pOC02je+uwIuOqLOSVKgOE4AD+ZG6oUwFjcwWu0Ps01CiQ+EbURj9Sd60jG8qAfGukShj4dtIF+5YHd1TCBxHWgiY9Hp+k/Qb+cM6DGwOrr9C8WUa/XGAkToGwUyCZaLXEF/uXQz7KkfXHZbZPKgf8vEx1P+3HIAtqLKvXKjXJx/GaSWdt7gExZ4jwJQq7tveahB10OEw==
+seven.	900	in	rrsig	SOA 8 1 900 20250925183718 20250911173718 23589 seven. butYV3j3ke+u85QeEKSNmurBneLoWao1HfgqkBfk5ZneEL6UenttZGLx/QVQH2JCdQaya1e4VHViRKuFzY80WGFc4tJj9xhir7vwvQ+1QPN4zTY/o6hqb+YJFg/3PByYKSM05cP5wMmC0+fFSEuyBJmbEXKbKageyBoyAfIh/esrGfv/O17y+jhWY80eHu4uQrHO2qcbcVrbKMYz48J+fw==
 sunrise.seven.	3600	in	ns	dns1.cscdns.net.
 sunrise.seven.	3600	in	ns	dns2.cscdns.net.
 u.nic.seven.	172800	in	a	156.154.169.82
@@ -78,4 +78,4 @@ y.nic.seven.	172800	in	aaaa	2610:00a1:1073:0000:0000:0000:0001:0082
 y.nic.seven.	172800	in	aaaa	2610:00a1:1075:0000:0000:0000:0001:0082
 z.nic.seven.	172800	in	a	156.154.174.82
 z.nic.seven.	172800	in	aaaa	2610:00a1:1076:0000:0000:0000:0001:0082
-seven.	900	in	soa	a.nic.seven. admin.tldns.godaddy. 1757525837 1800 300 604800 1800
+seven.	900	in	soa	a.nic.seven. admin.tldns.godaddy. 1757615838 1800 300 604800 1800
