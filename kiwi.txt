@@ -1,4 +1,4 @@
-kiwi.	86400	in	soa	prd-fzp-03.corp.cira.ca. admin-dns.cira.ca. 2509110115 1800 900 3456000 3600
+kiwi.	86400	in	soa	prd-fzp-03.corp.cira.ca. admin-dns.cira.ca. 2509120115 1800 900 3456000 3600
 0.kiwi.	86400	in	ns	ns1.dan.com.
 0.kiwi.	86400	in	ns	ns2.dan.com.
 0.kiwi.	86400	in	ns	verification-j2j1x73s.ns3.dan.hosting.
@@ -338,8 +338,8 @@ kiwi.	86400	in	soa	prd-fzp-03.corp.cira.ca. admin-dns.cira.ca. 2509110115 1800 9
 78win.kiwi.	86400	in	ns	zahir.ns.cloudflare.com.
 7annrdm5puha8f94crr29j0jt0lstucp.kiwi.	3600	in	nsec3	1 1 0 - 7I4694VSFL5RDJ901R9F2OMD05NT5T31 NS DS RRSIG
 7annrdm5puha8f94crr29j0jt0lstucp.kiwi.	3600	in	rrsig	NSEC3 8 2 3600 20250915170649 20250908141523 28323 kiwi. avdLFz49hHtq+jc+1PwO+EZx/dF5cD30WpWIproXmeKjeYDuSqbfwln6eNEVZfu8Je31Er5ihxMxBLIxCQ1Hd5dw31HFO7FP4QVx0o/Ka7RoJXhoRmQyjTedfDB40DJhUIi0IHZX9ea5+Tm8THnB1rdHULzcrFvlbeH8/eiLEG4=
-7ball.kiwi.	86400	in	ns	ns1.dyna-ns.net.
-7ball.kiwi.	86400	in	ns	ns2.dyna-ns.net.
+7ball.kiwi.	86400	in	ns	paityn.ns.cloudflare.com.
+7ball.kiwi.	86400	in	ns	ram.ns.cloudflare.com.
 7bitcasino.kiwi.	86400	in	ns	nancy.ns.cloudflare.com.
 7bitcasino.kiwi.	86400	in	ns	ram.ns.cloudflare.com.
 7i4694vsfl5rdj901r9f2omd05nt5t31.kiwi.	3600	in	nsec3	1 1 0 - 85LO7UF9EP390PPCFH552IQ2DHP0EANU NS DS RRSIG
@@ -420,8 +420,8 @@ kiwi.	86400	in	soa	prd-fzp-03.corp.cira.ca. admin-dns.cira.ca. 2509110115 1800 9
 9spokes.kiwi.	86400	in	ns	lia.ns.cloudflare.com.
 9t2kla2n6sslkjlnv72utsg4mvhs9ob4.kiwi.	3600	in	nsec3	1 1 0 - A9P72SCQDJA39QACDAHDRHTPCPSQUAIF NS DS RRSIG
 9t2kla2n6sslkjlnv72utsg4mvhs9ob4.kiwi.	3600	in	rrsig	NSEC3 8 2 3600 20250915040736 20250908141523 28323 kiwi. B8kmSMRV2okZSOkf+y4XT1XFEeCKDBQHaj2gVd0ZVCs4wNwSOByTSAEws2RIrk4bHGYQlfk1sN/iKUb/QbfGhgxSXDttzsjE4hI4UZfN3eHtkFrbnGak+SD67KbuncSeKpqbK18rc8lM9CqGBXWx8DXinUWdetBiezB1klMGTuY=
-_incoming_serial.kiwi.	86400	in	rrsig	TXT 8 2 86400 20250917185858 20250911001530 28323 kiwi. Yem0vd6RVu+2W5Bf+lh4QmDrpc5gjHTBk7AemUoTTiTcZqPewyWm5PIiARGooxhLe/v2W60GzKWYdJGke5NmbKojO33eWAoB9EW85tHCpCpuoyvktxqpUOH3F9AOKOoQWOkF/iPnjdbaeDlZPuUBlHyaShPdK5mcW2+mFUcEF0M=
-_incoming_serial.kiwi.	86400	in	txt	"2509110115"
+_incoming_serial.kiwi.	86400	in	rrsig	TXT 8 2 86400 20250918163224 20250912001526 28323 kiwi. B06jCWF+LYpmZZ0z1Cf+/Al0gtT2QU8wrvq8tniHmuYB/nLwUe3pIs4QtK1Tp+Al5NLLlh0n5S47CUcpCTFCN32gXk1L99Eh3XIQhMB0gmx/lBaeuPyqpHUK87EKpmRdquw7CiKfyxyx97zyySIuOwQwa2bmN812S+msFuu6fnM=
+_incoming_serial.kiwi.	86400	in	txt	"2509120115"
 a-good.kiwi.	86400	in	ns	ns1.linode.com.
 a-good.kiwi.	86400	in	ns	ns2.linode.com.
 a-good.kiwi.	86400	in	ns	ns3.linode.com.
@@ -1100,7 +1100,7 @@ allantaylor.kiwi.	86400	in	ds	2371 13 2 48F6901D63E083EB53290050F32BB98E335E4233
 allantaylor.kiwi.	86400	in	ds	34505 13 2 A983396DBC979BDAD0A2ADB95A62D43FE3F9E061DDD51B05541EE68559794AC0
 allantaylor.kiwi.	86400	in	ns	arya.ns.cloudflare.com.
 allantaylor.kiwi.	86400	in	ns	terin.ns.cloudflare.com.
-allantaylor.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914161305 20250907224534 28323 kiwi. SonPBZaIKum4sg6rhSz34Kt/2q5es5j8ocCgo66djuSJNOMpnhM1c7qBBghGJSuWNsb1PqgmN+Q25OPyGcgGuXI0F8cXDrdPqxTnSa95crasOORbQpiuH07VjgpB3FEnf1djO/QVzknN7uB2nYHuXBFxtWeDd5i1ciACWL6k3us=
+allantaylor.kiwi.	86400	in	rrsig	DS 8 2 86400 20250919001702 20250911151530 28323 kiwi. lsbfST7GKzYbie/stI6M/UG4KXwS16RCsdd/8rudxG0RVr/hyhSbvUwkTz86y6yqUHH9kwIg9s+HzSAjcD50jbJTs0kealswkvHn9F8j79kjJyZIKWAYdurxgU43Vd8RuMPwZx5uFcDNxMXLXSSfR+oTN8X8Noua9QqZfrpxV6Y=
 allaymassage.kiwi.	86400	in	ns	ns1.openhost.net.nz.
 allaymassage.kiwi.	86400	in	ns	ns2.openhost.net.nz.
 allbirds.kiwi.	86400	in	ns	ns-1044.awsdns-02.org.
@@ -1315,7 +1315,7 @@ andersonsurfboards.kiwi.	86400	in	ns	ns3.openhost.co.nz.
 andral.kiwi.	86400	in	ds	3679 8 2 A4B79EE6EDFF0BEE8A81ADDC6154B2609EA1757ABCB4C54A097A4756B438B4A5
 andral.kiwi.	86400	in	ns	dns14.ovh.net.
 andral.kiwi.	86400	in	ns	ns14.ovh.net.
-andral.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914154928 20250907081518 28323 kiwi. awBe5wWFdOMunUhbtPlr46ck8jYHmlz/OGLsDAIo9P3qcQ8N/Bv/WphaFvlfPEhFq8v0yZKpvEMdqCcRz8XGQF6iPk0T53AIoq4TzgjfQhAg6Tr66OyowcIwBuXHJkUo5Gxso4qhgvEnJJiYZn79SliXwnynL0+yU7O6fPvUNcU=
+andral.kiwi.	86400	in	rrsig	DS 8 2 86400 20250919030020 20250911151530 28323 kiwi. rbv2Wqk3GKyxSBG3nOnJmsXUiOheU9e2CdwvJcjLmL2arTTcbX2v/pe6WZlLD4c4vc/A8S9Q+WdADlfDhZ0Yx57DQ2yKhcGytvCHIMoRk9XGHAIFzEjX8dke+BiQTgevp9GfJZDqM/fqMkvop94GH9aLErnQIFB1krJCKPB3GB8=
 andrea.kiwi.	86400	in	ns	ns2.soundspeed.co.nz.
 andrea.kiwi.	86400	in	ns	ns5.aucklandhosting.co.nz.
 andreafacepainting.kiwi.	86400	in	ns	ns1.1stdomains.net.nz.
@@ -1433,7 +1433,7 @@ anzed.kiwi.	86400	in	ns	ns4.arkwebhost.net.
 aopnkiwidefrance.kiwi.	86400	in	ds	40357 8 2 C3328B0F76CFB96F2EF681E1456441F2872049A1A35D7E415B12895C86137B93
 aopnkiwidefrance.kiwi.	86400	in	ns	dns110.ovh.net.
 aopnkiwidefrance.kiwi.	86400	in	ns	ns110.ovh.net.
-aopnkiwidefrance.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914090650 20250906211518 28323 kiwi. dsOmB2r5ciipHixSfmrXB2b82/+xF3fQsL7cNo4lEZFjUyaxFEcWMEL5kGx2EZvBZDK4i3xM82dSGGB6Uem2rcol0NlpIAMMI8Z9vrUOF/zqt5RYi8laFCGra7PGEC94YjZMsD42J0clY4Hur/L3z3wDvhMKW8NGfyg8de2NmKQ=
+aopnkiwidefrance.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918071655 20250911081526 28323 kiwi. hJw+JqFLpokPFG1j0glCFzju4i9gI4vdjTWcIoHuIhxFWC883+/bR8CSAfnfXD7Eqm7RHZo5VN7aERSZWF3lOuckrcI8xho/dGbOkcy+9qLTVzDI9tyIsiOI8IM0oWN/ZDXpL7Q6hhyOPNbGJRjZnqQtY3VhO2TAmfF7qnYKGso=
 aoraki.kiwi.	86400	in	ns	ns1.1stdomains.net.nz.
 aoraki.kiwi.	86400	in	ns	ns2.1stdomains.net.nz.
 aorangimerchants.kiwi.	86400	in	ns	ns.freeparking.co.nz.
@@ -2903,7 +2903,7 @@ bluffpool.kiwi.	86400	in	ns	ns2.syrahost.com.
 bms.kiwi.	86400	in	ds	48428 5 1 91ADA5C51589DA2ADCC867AB5FE130B2DA16B83F
 bms.kiwi.	86400	in	ns	ns1.secureparkme.com.
 bms.kiwi.	86400	in	ns	ns2.secureparkme.com.
-bms.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914222425 20250908051518 28323 kiwi. RouarFEkIPVFyuiY4vG6k36txkle3GPSo3CvK1SZZF/tDIAmD5lLRSX+wWf7t6sNBRuoitVyc651IR3vxPgaOqpK9utr+7rkqdvT0KFiehxPLEhVykStJwgeKO09N5EWEa3YwSEZJR9L2OXttNhHCudgAR9/t1f37yYx7EM5MTA=
+bms.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918130558 20250911214541 28323 kiwi. nx630baR5DLaGL64sQkJPmBQCMgLM3G6N9tX0GvDphgmc+ylii5o0IIlzxL7iAsnlOmfdPNND5lrfTtpjt4UThAHKS6FWuGja8YJ9PhqKMhxp44F+WopRfrr6gVR1/c23KPngPVJ8uosP0JOLVYNHN/fXqCpN/PmS7YkDvooklM=
 bmsgroup.kiwi.	86400	in	ns	ns1.secureparkme.com.
 bmsgroup.kiwi.	86400	in	ns	ns2.secureparkme.com.
 bmsrisk.kiwi.	86400	in	ns	ns1.secureparkme.com.
@@ -3216,7 +3216,7 @@ brumbys.kiwi.	86400	in	ns	ns-1423.awsdns-49.org.
 brumbys.kiwi.	86400	in	ns	ns-1558.awsdns-02.co.uk.
 brumbys.kiwi.	86400	in	ns	ns-369.awsdns-46.com.
 brumbys.kiwi.	86400	in	ns	ns-685.awsdns-21.net.
-brumbys.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914185533 20250907131518 28323 kiwi. TQKXIe2+YTGFaZ4fGFtuDbWAIAFvlziwb5YAQzWpHkWqVsGgcqSqP3P+Kp/oQfXtqAY1iCgKRT6ixX4BekPyfdy6rJ/vctB+1d+feasQVT3Gr2txe24EsKvHZd6qY9+n0RTzLFGnUbz8Y7s8Q2KGk53MxStcHpUdmDQn5XA1RMo=
+brumbys.kiwi.	86400	in	rrsig	DS 8 2 86400 20250919002358 20250911181524 28323 kiwi. A5JMy7BrrQMs9VjUYV0kQF2iDYuDLtNcUj9sQJdwpuwo/7fpfpMMRnXmeNd7QBhrcMGobNwUIr8d09SsA/N9KBfRfv/8F/xROWyFDI+Rxt/xtDoDJyYTjv5M40JsOliVcOQFRWlHYOGEx4VxxG19Bu8Q4/6CJeW5qEPN0xUuqYc=
 brun.kiwi.	86400	in	ns	ns1.inf-brun.ch.
 brun.kiwi.	86400	in	ns	ns2.inf-brun.ch.
 brun.kiwi.	86400	in	ns	ns3.inf-brun.net.
@@ -3421,10 +3421,6 @@ buycat.kiwi.	86400	in	ns	ns3.discountdomains.co.nz.
 buyer.kiwi.	86400	in	ns	ns1.101domain.com.
 buyer.kiwi.	86400	in	ns	ns2.101domain.com.
 buyer.kiwi.	86400	in	ns	ns5.101domain.com.
-buyland.kiwi.	86400	in	ns	ns1.moreweb.nz.
-buyland.kiwi.	86400	in	ns	ns2.moreweb.nz.
-buyland.kiwi.	86400	in	ns	ns3.moreweb.nz.
-buyland.kiwi.	86400	in	ns	ns4.moreweb.nz.
 buymycar.kiwi.	86400	in	ns	ns.freeparking.co.nz.
 buymycar.kiwi.	86400	in	ns	ns2.freeparking.co.nz.
 buynow.kiwi.	86400	in	ns	ns1.syrahost.com.
@@ -3586,8 +3582,6 @@ candc.kiwi.	86400	in	ns	ns1.crazydomains.com.
 candc.kiwi.	86400	in	ns	ns2.crazydomains.com.
 cando.kiwi.	86400	in	ns	ns1.1stdomains.net.nz.
 cando.kiwi.	86400	in	ns	ns2.1stdomains.net.nz.
-canlearn.kiwi.	86400	in	ns	ns1.renewyourname.net.
-canlearn.kiwi.	86400	in	ns	ns2.renewyourname.net.
 cannabis.kiwi.	86400	in	ns	ns1.sedoparking.com.
 cannabis.kiwi.	86400	in	ns	ns2.sedoparking.com.
 cannabisdirect.kiwi.	86400	in	ns	ns.freeparking.co.nz.
@@ -4641,7 +4635,7 @@ comites.kiwi.	86400	in	ns	ns1.moreweb.nz.
 comites.kiwi.	86400	in	ns	ns2.moreweb.nz.
 comites.kiwi.	86400	in	ns	ns3.moreweb.nz.
 comites.kiwi.	86400	in	ns	ns4.moreweb.nz.
-comites.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914073829 20250907121519 28323 kiwi. KAwCFqs21n9KDo5Gj0yy+R7L108MfJV7G8gD3CjZqKAGteYbyDTU+arzSb9zm8nDHUruaJvLg17QlrxwwNI9W8p0bL7sC1aVW0v3Tm5skqYrUKps4n8o+rtBclhz09ss8HXYLcwwxco3h6mCMrBz1TdAVbMPKZVhYzSom/AYIwc=
+comites.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918030602 20250911064543 28323 kiwi. M5TMObOHbDNLd9zn2jV5s95GxXJ6SnfoGb77bgbw9/gPuFp6jIs1IzsfTQhaiT6+Fmf6a+hfbU4ZNIlj3JhkIkSeMHPfopeqm9ZeVFICLWAh1Gtpqt7wlHfLnmt7TRmsKyWjsebXnar89y+3ufAi9OjR3DfhHLsoTqKXUi2iZnU=
 comm-unity.kiwi.	86400	in	ns	ns1.discountdomains.co.nz.
 comm-unity.kiwi.	86400	in	ns	ns2.discountdomains.co.nz.
 comm-unity.kiwi.	86400	in	ns	ns3.discountdomains.co.nz.
@@ -5893,7 +5887,7 @@ dim.kiwi.	86400	in	rrsig	DS 8 2 86400 20250916152810 20250909191529 28323 kiwi. 
 dimicology.kiwi.	86400	in	ds	46685 8 2 09E2A2DB7E02114C6E0F002B09D67AF0202D7858414E1835D56834710A57215E
 dimicology.kiwi.	86400	in	ns	dns112.ovh.net.
 dimicology.kiwi.	86400	in	ns	ns112.ovh.net.
-dimicology.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914235529 20250908011517 28323 kiwi. Sa8kdcwbF5ry9ZL8JXEm9AxwMD+inuFBC0No5Y/7vEa+SRGl8p8bjyayJWwlp0f1yAzpS2kNGMSl0uIdl+UxBcizroflqEDmkAf1LkTTvoqrrMoKIVJZ68HZTjVhiWr2N1TmGoIHJH+LnDpmKedxPkgrsbNpydwXu7YHMLmCz/c=
+dimicology.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918141238 20250911231525 28323 kiwi. YRESsBqLe7GYgxJPajSSn/gEJ2g5ymgjJZCASA/d7QJmEpwVlFGAyGwHUyyhiBb/l1OdM8FUJg4k0hX4S9NVTjf232ayEXh/db4SMbNjoAHyKvjd4ED/iBGgsFRWVgn/RqoXKvnMJKdG8H05oYfc60J6qBcm5CBGguJmlYxDRDg=
 dingle.kiwi.	86400	in	ns	ns.freeparking.co.nz.
 dingle.kiwi.	86400	in	ns	ns2.freeparking.co.nz.
 diningout.kiwi.	86400	in	ns	ns1.nameserver.net.nz.
@@ -6528,8 +6522,8 @@ edwardw.kiwi.	86400	in	ns	ns1.scott-pxpost.openhost.net.nz.
 edwardw.kiwi.	86400	in	ns	ns2.scott-pxpost.openhost.net.nz.
 edwardw5.kiwi.	86400	in	ns	ns1.scott-pxpost.openhost.net.nz.
 edwardw5.kiwi.	86400	in	ns	ns2.scott-pxpost.openhost.net.nz.
-ee88.kiwi.	86400	in	ns	dns1.registrar-servers.com.
-ee88.kiwi.	86400	in	ns	dns2.registrar-servers.com.
+ee88.kiwi.	86400	in	ns	vicente.ns.cloudflare.com.
+ee88.kiwi.	86400	in	ns	ximena.ns.cloudflare.com.
 eekie.kiwi.	86400	in	ns	ns1.siteground.net.
 eekie.kiwi.	86400	in	ns	ns2.siteground.net.
 eetimes.kiwi.	86400	in	ns	pdns77.ultradns.biz.
@@ -7128,7 +7122,7 @@ exampl.kiwi.	86400	in	ds	24479 5 1 755E386C66A3C22BBD2666AB7DCA24C84C47CB0E
 exampl.kiwi.	86400	in	ns	ns1.openhost.co.nz.
 exampl.kiwi.	86400	in	ns	ns2.openhost.co.nz.
 exampl.kiwi.	86400	in	ns	ns3.openhost.co.nz.
-exampl.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914230657 20250907121519 28323 kiwi. J88jbAKJbCTo/e3AOwm0AHETd+HOZqiE/k1g3Sv0lyHmMUHfyhNhhDPS8pe25LnZH3bG4sMpMq0T338gGsGJGq12cC7uPtBQJisE3nwLnPYdUU1ttNHurMiA0xWWsntCbtFHdI0rDhi1bt2lP6BJSIbtSxvoHueaerOf4M3m7/Q=
+exampl.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918124934 20250911221526 28323 kiwi. iDLqzABMN6zcEAPvVTj6ymWvPo+xZnBNRO7qIkmEXclrgOZq5G5OeVxNd7kQhod4ju9fdhh4ZXzfNjSWav5QYhrCsMeC+MPafkTZT4zxqFnV2cEkhBjtPi4aGs8tc9UF2kutWxEwv5USwJVo/Bkup1eMWJU/+Jei+8k0b1Otx88=
 example-facturation-orange.kiwi.	86400	in	ns	ns1.openhost.co.nz.
 example-facturation-orange.kiwi.	86400	in	ns	ns2.openhost.co.nz.
 example-facturation-orange.kiwi.	86400	in	ns	ns3.openhost.co.nz.
@@ -7779,7 +7773,7 @@ florascape.kiwi.	86400	in	ns	ns2.freeparking.co.nz.
 florenzabala.kiwi.	86400	in	ds	24241 8 2 4C4E2CEAEB10210CC098CF51ED8B0F6930622B25914A46B13DEC0694508A8A87
 florenzabala.kiwi.	86400	in	ns	dns103.ovh.net.
 florenzabala.kiwi.	86400	in	ns	ns103.ovh.net.
-florenzabala.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914015759 20250906184534 28323 kiwi. I9uDu2mONLxK9rvrywoEeHdDjGblupbkqpJKCHKVSyP+eObOvkLSEqcL+zqzxS1FyEnBpKWqkwf+GCzU1HtpoVtex2Pn1vVtPMZes/csRpkVpCcjYTs54yHtfngBrHhSOE3mXL5PfNrs7Aqgv5/yzDDywQ6Uq86khnAiv9io4NU=
+florenzabala.kiwi.	86400	in	rrsig	DS 8 2 86400 20250917231955 20250911011528 28323 kiwi. ehIpkICA+T7L5uxyALrbq9bQD9TI082qIVcKaxrfO8IKu1ts3jChz0l6jdfhFfMpKyFueH6/R9feXjXIHUSkQoaQoX9i/yh7NrbDxBueemXNOO73uHk821pilOGvpiwoQ0nALZ7c+Wv8DT6LRZGJAsQ20GiKiCsaL+EHmYyW1kQ=
 flourishlife.kiwi.	86400	in	ns	ns43.domaincontrol.com.
 flourishlife.kiwi.	86400	in	ns	ns44.domaincontrol.com.
 flow.kiwi.	86400	in	ns	ns-1509.awsdns-60.org.
@@ -8863,10 +8857,8 @@ goodprovisions.kiwi.	86400	in	ns	ns1.openhost.net.nz.
 goodprovisions.kiwi.	86400	in	ns	ns2.openhost.net.nz.
 goodshares.kiwi.	86400	in	ns	ns1.1stdomains.net.nz.
 goodshares.kiwi.	86400	in	ns	ns2.1stdomains.net.nz.
-goodshit.kiwi.	86400	in	ns	ns1.whsl206.com.
 goodshit.kiwi.	86400	in	ns	ns2.whsl206.com.
-goodshit.kiwi.	86400	in	ns	ns3.whsl206.com.
-goodshit.kiwi.	86400	in	ns	ns4.whsl206.com.
+goodshit.kiwi.	86400	in	ns	shops.myshopify.com.
 goodsports.kiwi.	86400	in	ns	ns1.sitehost.co.nz.
 goodsports.kiwi.	86400	in	ns	ns2.sitehost.co.nz.
 goodsports.kiwi.	86400	in	ns	ns3.sitehost.co.nz.
@@ -9316,8 +9308,6 @@ hall.kiwi.	86400	in	ns	ns2.1stdomains.net.nz.
 hallmark.kiwi.	86400	in	ns	ns1.discountdomains.co.nz.
 hallmark.kiwi.	86400	in	ns	ns2.discountdomains.co.nz.
 hallmark.kiwi.	86400	in	ns	ns3.discountdomains.co.nz.
-halo.kiwi.	86400	in	ns	ns.freeparking.co.nz.
-halo.kiwi.	86400	in	ns	ns2.freeparking.co.nz.
 halofire.kiwi.	86400	in	ns	ns4.wixdns.net.
 halofire.kiwi.	86400	in	ns	ns5.wixdns.net.
 halswellrealestate.kiwi.	86400	in	ns	ns1.dns-parking.com.
@@ -10453,6 +10443,8 @@ icti.kiwi.	86400	in	ns	ns1.bdm.microsoftonline.com.
 icti.kiwi.	86400	in	ns	ns2.bdm.microsoftonline.com.
 icti.kiwi.	86400	in	ns	ns3.bdm.microsoftonline.com.
 icti.kiwi.	86400	in	ns	ns4.bdm.microsoftonline.com.
+icy.kiwi.	86400	in	ns	dns10.ovh.net.
+icy.kiwi.	86400	in	ns	ns10.ovh.net.
 ideaexchange.kiwi.	86400	in	ns	ns1.partnerconsole.net.
 ideaexchange.kiwi.	86400	in	ns	ns2.partnerconsole.net.
 idigital.kiwi.	86400	in	ns	ns.freeparking.co.nz.
@@ -11189,7 +11181,7 @@ jesse-kenton-smith.kiwi.	86400	in	ns	ns3.discountdomains.co.nz.
 jesse.kiwi.	86400	in	ds	2371 13 2 7AC7F965C6FAE458F575E1840805CC2D3873C65F0690A1C3038DF077B09DF4DC
 jesse.kiwi.	86400	in	ns	igor.ns.cloudflare.com.
 jesse.kiwi.	86400	in	ns	lola.ns.cloudflare.com.
-jesse.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914233117 20250907151518 28323 kiwi. EXUncIe69HZ2OGNQUrm1+418Og0fC7hXJ9jIh3m7IuYaBt9h0aTkWRohtse86kVxrgULtJ7ClhBJ3kbLlvu4YzTWdVlXxGIdAYVRRDIPdbHYtQ30aWRN2JhLxStc+ibs8YqtANKK+kFU24IW6VYWuX4b98LapIb6eL1VZrhroQM=
+jesse.kiwi.	86400	in	rrsig	DS 8 2 86400 20250919004713 20250911224542 28323 kiwi. qWUfuCB4ajn6wexzfYsfg3V1hVmDV253awfPQa1JobWe3FFdZCQkONKDSKqWr8Od7F+flAo2bp5FvVOr/oMWEdbgQrbtYUIjskqJzOBPD0nh8PZrDnIo37KG1vpnbVbVrpeeQc/6phNJ6rpfWQENQ483rqol/gvt349h/bfKVbg=
 jessekentonsmith.kiwi.	86400	in	ns	ns1.discountdomains.co.nz.
 jessekentonsmith.kiwi.	86400	in	ns	ns2.discountdomains.co.nz.
 jessekentonsmith.kiwi.	86400	in	ns	ns3.discountdomains.co.nz.
@@ -11748,7 +11740,7 @@ kida.kiwi.	86400	in	ns	dns5.name-services.com.
 kiff.kiwi.	86400	in	ds	5468 13 2 107C2BE081F825A11C55F5D411BC167D12B72E7CD1129688D4C4686F98ED2B8F
 kiff.kiwi.	86400	in	ns	nsany1.infomaniak.com.
 kiff.kiwi.	86400	in	ns	nsany2.infomaniak.com.
-kiff.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914025922 20250907031518 28323 kiwi. LHYDRxqn0eZZbvpVuOnpTd65qTtfLjkM+9U0JMLMWXV9o3VEHLeCj4KuePjAnGd6KH6UZPXnD7gH7Lcsk9c+wEdmw2P2G4ATBRK0sjBCtJxsY7t4yE1nIN9pThZI17gF4tF6G86NIpvu+UAK2+5/R1gaGSL4bUUMY7SBcHKRVyw=
+kiff.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918112707 20250911021526 28323 kiwi. l2rEoIZOWFazPZ+NojBNDKkwng4WodE43HJg5wT127XlpItWe9/4cNDn0O/Dzfg+VPpUYSfDTaR4XOmNq/fu/miNjfrytyJzdYPfo4HN2E+IgpoSx5x1ZluhsAAnUMUfOSNy6zyaqlsCkJzADtBzIhmf+K/tzY4zdEKsNqtSpEc=
 kiio.kiwi.	86400	in	ns	ns1.rimuhosting.com.
 kiio.kiwi.	86400	in	ns	ns2.rimuhosting.com.
 kilkenny.kiwi.	86400	in	ns	ns1.1stdomains.net.nz.
@@ -11865,8 +11857,8 @@ kiwi.	86400	in	ns	a.ns.nic.kiwi.
 kiwi.	86400	in	ns	b.ns.nic.kiwi.
 kiwi.	86400	in	ns	c.ns.nic.kiwi.
 kiwi.	86400	in	ns	d.ns.nic.kiwi.
-kiwi.	86400	in	rrsig	NS 8 1 86400 20250914131811 20250907064535 28323 kiwi. Vpbp7Ap9W27zuQ9CruOiqE6yVODQfLq+QeePcmuZhHdXB2il448nrlcu0K7qV7UswekOXf5skMrqhiJ6rxkGicPRbJ0N44FQydLwGosMQAvHCBuvn/r2ws2WfkrpPIqZwHY2FDCsMWuzBZvL+oLCFc4jtJXpgisL307PgowZE3I=
-kiwi.	86400	in	rrsig	SOA 8 1 86400 20250918003944 20250911001530 28323 kiwi. O00128SHqKfMCYtLZLM/KazhfxU5pjYzHtudwWjlbPFl7/XFNMhRlrTOXmvBmbfz062IFi8qOUfW2NC2zDsldCLCqYoF3GMqw6+asxZ/bYV3Wl9K9xIWRxtPoF+g9IumcTTu5K1hIE67Ykcc/lVIE0Q5H1AwWzGT9DRBTyoxls8=
+kiwi.	86400	in	rrsig	NS 8 1 86400 20250918210803 20250911124541 28323 kiwi. NrSjbjZy0tytlCkbr3uNh2M7tb2YhlQinWmLCVcD3uzfJSM2HFXkiqE5TFbj/jEIWSm2GB7a+mZigD+zN66+zMUwzIghH2d3MOW7sScIXbaTe6JrfNJR8aABHLUJh1yhCe/0allANk+ul1hIN6Mi+Rt4d7eFacQqzFyXIbZi50g=
+kiwi.	86400	in	rrsig	SOA 8 1 86400 20250918232551 20250912001526 28323 kiwi. IepxP0HfNNxkzyYNfpuQy9XTZrDmfslKUl6xMRhRUvEj1VC9YgKJcP6IyQoZNabongkyzdC3e5cMMnyTKXh6QBcaNDqipDCBPZEri/uyC+VtwORiRjoZBMQUGEmhKjBRE3h/IEdz4n5mPM1Pk+gEvRjmudBThMrCyy7spvw+CKM=
 kiwi1.kiwi.	86400	in	ns	ns.freeparking.co.nz.
 kiwi1.kiwi.	86400	in	ns	ns2.freeparking.co.nz.
 kiwibank.kiwi.	86400	in	ns	ns1.kiwibank.co.nz.
@@ -12480,7 +12472,7 @@ ldw.kiwi.	86400	in	ns	ns3.discountdomains.co.nz.
 le.kiwi.	86400	in	ds	49126 8 2 9E25182DBC88FAF19D608BD75834BC423C48144A50072D8190ED0673D3819D5F
 le.kiwi.	86400	in	ns	dns10.ovh.net.
 le.kiwi.	86400	in	ns	ns10.ovh.net.
-le.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914102043 20250907054535 28323 kiwi. Ii9RKMatnQNNKmOGFx8d+ELruyBKD3PE1RD4bnFILkS5yHV9bxlbqKWJJr+nVVRgm9gP+TTq91WH9RtoqLHVUhmmNny1b6Bn22sNVRjNpjYhDRmrM/z/l20d3HnGfq/BX4jYxWdecIf7hm5p1e+A/7Af/6ZYjNOxgQHAaEdTH4I=
+le.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918114405 20250911094543 28323 kiwi. TznvfONuA/ogura9RmxG5jKEn6NAmckTiayuu/CBOqEqFga6CnWgIfIezpSmLazxv3q/tJMsNvd/gecx++9AvxXW/bs1787CEZ6SiDr4xitj5gPThmjTZkYBJXlpCoTQsQ54YTqu+GzR31kZCfEHNjm7bP9gc+byn3NMsfmLs1c=
 lea.kiwi.	86400	in	ns	ns1.1stdomains.net.nz.
 lea.kiwi.	86400	in	ns	ns2.1stdomains.net.nz.
 leach.kiwi.	86400	in	ns	ns1.secureparkme.com.
@@ -13377,7 +13369,7 @@ mahuika.kiwi.	86400	in	ns	ns2.freeparking.co.nz.
 mai.kiwi.	86400	in	ds	2371 13 2 829F4235930F26AC6AD7A0A5918FE79FBCA37774F79B222E090608066C04C45B
 mai.kiwi.	86400	in	ns	autumn.ns.cloudflare.com.
 mai.kiwi.	86400	in	ns	roan.ns.cloudflare.com.
-mai.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914122810 20250906234534 28323 kiwi. MzO5G4zUfAbHOyU3zIKE63tvhWw+1uFeXsDxJblhIohvNgGOiTMg3rlcCd+f8citwEukd7wghV5WR+JVouPDTTvaFQYWiIzX3B8QpQqAVCfmdlVAEGqC+78Pwb1knhjk0a52tMZc5hdUlDL0bOzTMMSfLCiCbYMouzN1gdNyHxg=
+mai.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918030328 20250911114545 28323 kiwi. dnNsW3+p7FIWEdNvdfwJgOSPVghP0BrOm1neLVnW3qqkU/udtAJO5NqyCgY6DXgWwnwckCdIMqlMRyS2rQbUrTVrcIjr0fwkKGfP5AJ3f2GNitEWjx5xYpI9nX7p8E/mokGKQVmBsLSOOBJ7OlRSvxsTLZg8733hCOGtGDojdt8=
 maidment.kiwi.	86400	in	ns	dns1.auckland.ac.nz.
 maidment.kiwi.	86400	in	ns	dns2.auckland.ac.nz.
 maikar.kiwi.	86400	in	ns	ns1.discountdomains.co.nz.
@@ -14065,7 +14057,7 @@ mhc.kiwi.	86400	in	ns	ns2.discountdomains.co.nz.
 mia.kiwi.	86400	in	ds	2165 13 2 797612437B307DEA73E1EC587F8918C8A0CFD675E475A18DA605F52FEF33AB62
 mia.kiwi.	86400	in	ns	nsany1.infomaniak.com.
 mia.kiwi.	86400	in	ns	nsany2.infomaniak.com.
-mia.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914200937 20250907154535 28323 kiwi. F4+YlePncNIyXN8PBtdDol2VwL3OgXWyNBR/KOs/hwJGPZx6hvSd/TQpnIhxISDG1E8pRVMhrAtQBnTanyVB8DiZtXs4GlmhjpLmFRSnLjHcLpP6qD9OEfj4sl7l3Kt1ytKZLFqaSfImMJvENSqsuYYTefF4uD7dncOON5ycrC8=
+mia.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918154415 20250911191525 28323 kiwi. M4co/nmzCEoNPZ3yZlIlW4Ye8ROayc6aOOZ6LoG+SIGe9u20442K4gh358/e0nFT3zbBYFMRmB7CE+/PmK8KVmzUN/CqMwiRndDb84lR7MD7he0k32/05WPw+QBUPet5LxcCFrprDaSMi6mlchGFRZNMMELonwMgIVgC713SmAM=
 miamiwinecooler.kiwi.	86400	in	ns	ns10.wixdns.net.
 miamiwinecooler.kiwi.	86400	in	ns	ns11.wixdns.net.
 mibet.kiwi.	86400	in	ns	holly.ns.cloudflare.com.
@@ -14881,7 +14873,7 @@ natalieleary.kiwi.	86400	in	ns	ns4.stackdns.com.
 nathan.kiwi.	86400	in	ds	35261 8 2 00E4BA7BF62E402A5D7F438A0A6B979CC248EAD2EECB0D4C743DBB32DAEBFCC9
 nathan.kiwi.	86400	in	ns	dns19.ovh.net.
 nathan.kiwi.	86400	in	ns	ns19.ovh.net.
-nathan.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914211054 20250908001518 28323 kiwi. Ey52Wk3j7d6bhTBxQgQUzqoogClQZtpDA9ncHfoe5P+SoYgDvWqPoJNxIYkXaM/83QHLS+kx20lciZ/tF6Rguha/XYotgd1W6SsLEVEbhGqd2FZiuLy4pbuiT3cLQlNYkD3Db3kfUaoUt1mj8UxDZuZQvhvB7hwDYx7KAsh2vuc=
+nathan.kiwi.	86400	in	rrsig	DS 8 2 86400 20250919044241 20250911201524 28323 kiwi. WwIHq+UEAVeyZ6UpDL2yRnSTM7lza7zezfaLp5HE9Ixy1R6iQ/QRSO8aK6IXTiQVYv/yDmOunvgGH/KxbDCg0+KMN2uiGTN8j/fwXg4tl0U/QOL0q7fBiPclTPyo3Aj1NrHjMVzwbgR8A+HHi9E9ooaGU+hVFQTDrIPvucEpSyE=
 nationalaquaticcentre.kiwi.	86400	in	ns	angelina.ns.cloudflare.com.
 nationalaquaticcentre.kiwi.	86400	in	ns	cosmin.ns.cloudflare.com.
 nationalparty.kiwi.	86400	in	ns	ns1.vercel-dns.com.
@@ -16472,7 +16464,7 @@ oris.kiwi.	86400	in	ns	ns2.glipac.ch.
 oris.kiwi.	86400	in	ns	ns3.glipac.ch.
 oris.kiwi.	86400	in	ns	ns76.irondns.net.
 oris.kiwi.	86400	in	ns	ns78.irondns.net.
-oris.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914215646 20250907201519 28323 kiwi. mj8OLt+BYr3hV8RUzRofFjqyue0p8U0H2UNBx2l6u05Ysr8mhWR0cRwGouKzZFSXHCLEwg83kPBzgDNRpRNGCPeSDWhXP5LbKoxkB/puOQFWxH/ZsGANs3UbMCNRcL9g1FGNKGO5MIxM2cCbD+TPYS/in7zVTlP5C8CeePQJh0Q=
+oris.kiwi.	86400	in	rrsig	DS 8 2 86400 20250919022804 20250911211525 28323 kiwi. V+46fdlIqCLwXTYgaszGg2H1lIzYViCTTZ2iS5YaSX8Nw+MzDaO5qtHRCM0q9e7eXh7NZg+q5ixM69qPOoJ8/cHXStzBd3UeZfgajAmbNzNt9YQ25rCI299SjKseBEZ+MyqV9y1ha0P0++43XPqXyHUhEIcp2LqYl8BTHk0aqr0=
 orkland.kiwi.	86400	in	ns	ns1.crazydomains.com.
 orkland.kiwi.	86400	in	ns	ns2.crazydomains.com.
 ormrod.kiwi.	86400	in	ns	ns1.nsserver.net.nz.
@@ -16781,7 +16773,7 @@ parse.kiwi.	86400	in	ns	d.ns.facebook.com.
 parsons.kiwi.	86400	in	ds	2371 13 2 56D8D5D8183E4F40F7D3E215795485FBAB7B4021D96F734876C0A8B19DDE51D8
 parsons.kiwi.	86400	in	ns	irma.ns.cloudflare.com.
 parsons.kiwi.	86400	in	ns	junade.ns.cloudflare.com.
-parsons.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914145938 20250907181518 28323 kiwi. IZd6Wsgm8uUYu9H/AaUaB1oQrykUlu5tEinpwaVmGpIeIBtvr2+BE15fOTt05Mw8CMzAyGJX3k1xSFyhT2gsl/ZFrJZeluKYG3ZqNM20gdh4GJ+4M98tm0yfGeluFM5/u58SQUTbX5QxImW98VtNXooA/R9peCyZHhAm0YWPPqQ=
+parsons.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918045703 20250911141526 28323 kiwi. mMyybqcN6BYnCl+Pzn6Kq+nnTnh5AO5R8pIvRhZvZUZufT+wJpMisJVDdW6ZxC4JAn7paOznBLQhY6AqOWVw+wdNYOrO0En1sk1ZNBeWVmC2hjpQnrpmyYu1Xe1DdkFUBjCa5cnFBaQt9rfVqZfZgTP9Ez3tMOjmVjdkw3/J8WE=
 participate.kiwi.	86400	in	ns	ns13.domaincontrol.com.
 participate.kiwi.	86400	in	ns	ns14.domaincontrol.com.
 partmaster.kiwi.	86400	in	ns	kiki.ns.cloudflare.com.
@@ -16846,11 +16838,8 @@ pathwaysnz.kiwi.	86400	in	ns	ns2.quickstart.net.nz.
 pathwaytopodium.kiwi.	86400	in	ns	ns1.mitdps.net.
 pathwaytopodium.kiwi.	86400	in	ns	ns2.mitdps.net.
 pathwaytopodium.kiwi.	86400	in	ns	ns3.mitdps.net.
-patrick.kiwi.	86400	in	ns	dns1.name-services.com.
-patrick.kiwi.	86400	in	ns	dns2.name-services.com.
-patrick.kiwi.	86400	in	ns	dns3.name-services.com.
-patrick.kiwi.	86400	in	ns	dns4.name-services.com.
-patrick.kiwi.	86400	in	ns	dns5.name-services.com.
+patrick.kiwi.	86400	in	ns	dns1.registrar-servers.com.
+patrick.kiwi.	86400	in	ns	dns2.registrar-servers.com.
 patterson.kiwi.	86400	in	ns	ns1.openhost.co.nz.
 patterson.kiwi.	86400	in	ns	ns2.openhost.co.nz.
 patterson.kiwi.	86400	in	ns	ns3.openhost.co.nz.
@@ -18256,7 +18245,7 @@ radiant.kiwi.	86400	in	ns	rodney.ns.cloudflare.com.
 radical.kiwi.	86400	in	ds	32665 8 2 89EA42536C28BDD66D3D4FD0DFDCD19CAF43EE220A9D024467068C38D78059E6
 radical.kiwi.	86400	in	ns	dns100.ovh.net.
 radical.kiwi.	86400	in	ns	ns100.ovh.net.
-radical.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914023724 20250906214535 28323 kiwi. F3rLdOQlqOUVx8aJYBOCD23zMyerciPT0ochCykEu8PDNuPeHtBJ1qY1qowLfEmPBRB5NvlhsOdgn88izVVxQXLNDdzg0yOxtNN2ODYn8vqKe2wrUm6kfBMjzec6P9sFozPmUzpNIPFVgEdYJ/rwp3nfuQOrYjddmPF98e1hNKo=
+radical.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918072855 20250911014546 28323 kiwi. dGxpZWjMZi04VKHTjZApqU8yJ5HmDTK0ZZBgIne1l4LtxZWHIrYhwlKolsDVK/9k5BXsGSvm0iiWRApOUo2cvkfgsZma64f10RCF435yB9wp6mjYGUBe4I4D53o8Tu5V5MHOlNbrRTfgH92JOGDJ09UQ7R31Z6s6aR1jYLkC+G8=
 radio.kiwi.	86400	in	ns	ns1.nsserver.net.nz.
 radio.kiwi.	86400	in	ns	ns2.nsserver.net.nz.
 radio.kiwi.	86400	in	ns	ns3.nsserver.net.nz.
@@ -19568,7 +19557,7 @@ schramm.kiwi.	86400	in	ns	ns6.kasserver.com.
 schwimmbad.kiwi.	86400	in	ds	29498 13 2 B854A3853934A0EF084B17EAD4A085E8A50B28C5FBB3A7E395106DD032E508AA
 schwimmbad.kiwi.	86400	in	ns	ns1.cyon.ch.
 schwimmbad.kiwi.	86400	in	ns	ns2.cyon.ch.
-schwimmbad.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914110107 20250907121519 28323 kiwi. LcyFGoVE5gGh0E0BnyRWwO7GLAPlYb59mUBAR9sEZDEmYadKeP7I8mSnLtFAa4MBs7Ug2XY6DAu4UAntRIZDHwRvtuHDJf1rcdF2fh0DjoXIfgoHolHul98aB1BBaU5JXeJQl1TTVU/n5qSbiTi2CNzCsmktB8ruTnxIW+adWKo=
+schwimmbad.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918052040 20250911101524 28323 kiwi. lnxCUhMqUZ937TW11An1K41KVTvUiXZ/gZ7IVhjD3Qtf3igH707J8R7esDZyD/tyWHdvfKI/W83BTAfTtHTBkUklfDOLRj6iOSaKCpOYy6c7B5BYEwITPdcTOxGwbs8ZPBHHTj97JjTkf2p3jLpXuwVdff0PBXOncaArgkN+JUo=
 sci.kiwi.	86400	in	ns	jill.ns.cloudflare.com.
 sci.kiwi.	86400	in	ns	jim.ns.cloudflare.com.
 scienceintoaction.kiwi.	86400	in	ns	ns1.openhost.net.nz.
@@ -20915,11 +20904,6 @@ sportnz.kiwi.	86400	in	ns	ns3.mitdps.net.
 sportsbet.kiwi.	86400	in	ns	dns1.safenames.com.
 sportsbet.kiwi.	86400	in	ns	dns2.safenames.net.
 sportsbet.kiwi.	86400	in	ns	dns3.safenames.org.
-sportsground.kiwi.	86400	in	ns	dns1.name-services.com.
-sportsground.kiwi.	86400	in	ns	dns2.name-services.com.
-sportsground.kiwi.	86400	in	ns	dns3.name-services.com.
-sportsground.kiwi.	86400	in	ns	dns4.name-services.com.
-sportsground.kiwi.	86400	in	ns	dns5.name-services.com.
 sporttutor.kiwi.	86400	in	ns	ns1.mitdps.net.
 sporttutor.kiwi.	86400	in	ns	ns2.mitdps.net.
 sporttutor.kiwi.	86400	in	ns	ns3.mitdps.net.
@@ -24044,7 +24028,7 @@ vac-stills.kiwi.	86400	in	ns	ns2.1stdomains.net.nz.
 vache.kiwi.	86400	in	ds	2371 13 2 6AE8E4E99D9318486070ADE29E701ECC134D39FA04A871CFBF569EA7BE1C1379
 vache.kiwi.	86400	in	ns	dane.ns.cloudflare.com.
 vache.kiwi.	86400	in	ns	sandy.ns.cloudflare.com.
-vache.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914012847 20250906131518 28323 kiwi. cSDXBXsY+QMvHWRWyYxR/jUx//cdtWZB2uLVXmK+rXmgFfKVVFo4mKJQvGKXKPgFtjB74bYKKDP5nOOZP7AepDRTEZ+2mIabNqvj2gMLHspXFAvmQHdxI69g4TRuyMatvJbSOo14ypuWKWE14287EyrkxKZlCAVuwx8OKda4BQM=
+vache.kiwi.	86400	in	rrsig	DS 8 2 86400 20250917201439 20250911004550 28323 kiwi. nolwyRENDkTMIwRrhGtIcGOHOrlfHuK5TER5wk2EdFth2V+dNBHN9mOC5QB1LtYMSVP7EMLu+IkuRkW5cvaZ/YlMttALxZqCK3fbWOrjp1A7w4ONGKo4muudZvFPzrNyQLCvaX9bXyuSQ7yTFwS3vtobXjgHOpJk8Um6Sh+ZOkA=
 vacuumlifter.kiwi.	86400	in	ns	ns.freeparking.co.nz.
 vacuumlifter.kiwi.	86400	in	ns	ns2.freeparking.co.nz.
 vacuumpumps.kiwi.	86400	in	ns	ns.freeparking.co.nz.
@@ -24221,11 +24205,6 @@ vetcity.kiwi.	86400	in	ns	ns3.olato.com.
 vetpharmacy.kiwi.	86400	in	ns	ns1.nsserver.net.nz.
 vetpharmacy.kiwi.	86400	in	ns	ns2.nsserver.net.nz.
 vetpharmacy.kiwi.	86400	in	ns	ns3.nsserver.net.nz.
-vetpro.kiwi.	86400	in	ns	dns1.name-services.com.
-vetpro.kiwi.	86400	in	ns	dns2.name-services.com.
-vetpro.kiwi.	86400	in	ns	dns3.name-services.com.
-vetpro.kiwi.	86400	in	ns	dns4.name-services.com.
-vetpro.kiwi.	86400	in	ns	dns5.name-services.com.
 vetstauranga.kiwi.	86400	in	ns	ns33.domaincontrol.com.
 vetstauranga.kiwi.	86400	in	ns	ns34.domaincontrol.com.
 vettauranga.kiwi.	86400	in	ns	ns31.domaincontrol.com.
@@ -24379,7 +24358,7 @@ volkoren.kiwi.	86400	in	ns	ns02.one.com.
 vombat.kiwi.	86400	in	ds	10332 13 2 14C02B67C6CEB40C656FFFD2C593A5C8E1176E0B711D4C3B915D66DA16BE6C67
 vombat.kiwi.	86400	in	ns	nsany1.infomaniak.com.
 vombat.kiwi.	86400	in	ns	nsany2.infomaniak.com.
-vombat.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914174320 20250907101518 28323 kiwi. a67lzVjNXfpT2fmsxnsUntePVPFxflbp+7kYkM0cdxSbezSga+TcEnpORkzBGlapu4FCWtyesqUHWFMcirI4IYLcwNy6ySbLjPOAh8GH5O2pt0FUndW4ZLYSB3oKLUojnzjQPdr+8A1jXt9rEss+Dy3jUIWSArjW5GVJBFRrNi0=
+vombat.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918214226 20250911164540 28323 kiwi. blduMqfQ0loBQonRd2KS2X2s6Ud97cnV+4aKf2paK4KJnw9Xz/2Kd40cUI+ksqe5wusAgYiEyIEhKLHotXzKotMYD5HF5IUi09PelPmMXx3PEGIGMqchA1fY2FSe2vuk0Izk9B9cKKheRR9Kf/VnIehXiMhgGL+1cZhKG+7Vnw0=
 vorlon.kiwi.	86400	in	ns	ns.freeparking.co.nz.
 vorlon.kiwi.	86400	in	ns	ns2.freeparking.co.nz.
 vorster.kiwi.	86400	in	ns	ns1.1stdomains.net.nz.
@@ -24923,7 +24902,7 @@ websy.kiwi.	86400	in	ds	64907 13 2 C58C361D9A0639DAF201553E9156C311C706CFFC6542C
 websy.kiwi.	86400	in	ds	64907 13 4 F94F9DEEFB69BDCAFC279C846F0E13AB25C0C6D1F5A182D808312F654289F1850F79740D51CE5489CA8B27C0F2B072A5
 websy.kiwi.	86400	in	ns	names1.ds.network.
 websy.kiwi.	86400	in	ns	names2.ds.network.
-websy.kiwi.	86400	in	rrsig	DS 8 2 86400 20250914075602 20250907064535 28323 kiwi. Xk6iXYy3V/M8f72NsvUEVoSsvkqfeC6+iC+lNJxcR4HJj2SQ2SdrrJEEiERZMcxq2rh+5BDb7ywD+62SOXr93ue5vlZPyvDtoIS/48UzzmggBxB3LbCk8wGZVC65ENdMRcYEk0cfsFXlJUS4KP1028Kh9wpx7jDGEqNHiqIpTZQ=
+websy.kiwi.	86400	in	rrsig	DS 8 2 86400 20250918065927 20250911071527 28323 kiwi. ECBTDQ8+NFFFaAaQK3pwzsNM7v1WZJVdr4GL8utiGf+kMqSJzPqUy41Msu7h+JlluLbv5pJnjsjqe5psUI5ov7ct1p4XkNcF9DokpXHH8p85LYxNOyjessotOV4Fkh8zGO3SfXgmDX4HnQcc53TD80bKRAP05SSUYT5krLwHxis=
 webtech.kiwi.	86400	in	ns	aurora.ns.cloudflare.com.
 webtech.kiwi.	86400	in	ns	joel.ns.cloudflare.com.
 webzings.kiwi.	86400	in	ns	dns1.yandex.net.
@@ -25944,4 +25923,4 @@ zx.kiwi.	86400	in	ns	ns2.domainz.net.nz.
 zxpanel.kiwi.	86400	in	ns	ns1.sitehost.co.nz.
 zxpanel.kiwi.	86400	in	ns	ns2.sitehost.co.nz.
 zxpanel.kiwi.	86400	in	ns	ns3.sitehost.co.nz.
-kiwi.	86400	in	soa	prd-fzp-03.corp.cira.ca. admin-dns.cira.ca. 2509110115 1800 900 3456000 3600
+kiwi.	86400	in	soa	prd-fzp-03.corp.cira.ca. admin-dns.cira.ca. 2509120115 1800 900 3456000 3600
