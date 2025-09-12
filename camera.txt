@@ -1,4 +1,4 @@
-camera.	3600	in	soa	v0n0.nic.camera. hostmaster.donuts.email. 1757551949 7200 900 1209600 3600
+camera.	3600	in	soa	v0n0.nic.camera. hostmaster.donuts.email. 1757638797 7200 900 1209600 3600
 0.camera.	3600	in	ns	dean.ns.cloudflare.com.
 0.camera.	3600	in	ns	sierra.ns.cloudflare.com.
 00p8qkrjkd2v77p7s4doqjpqe45uqehg.camera.	3600	in	nsec3	1 1 0 73 0APDD25LS5B8QP8S6A65T7I95AJ195GI NS DS RRSIG
@@ -219,7 +219,7 @@ camera.	3600	in	soa	v0n0.nic.camera. hostmaster.donuts.email. 1757551949 7200 90
 9j476pbscmf8b64hgkl4965b37e234de.camera.	3600	in	nsec3	1 1 0 73 9KFP7GU0PJA49CEDKMPBKQPKTDOEKMEN NS DS RRSIG
 9j476pbscmf8b64hgkl4965b37e234de.camera.	3600	in	rrsig	NSEC3 8 2 3600 20250930151956 20250909141956 35028 camera. Nt8F5W+yM8YrNGc5E499fpr/dz9vUrWra32V0rmcJR+vqaXbLVEovf5GelKFYbTzOQ4UGs3DpIne+cJtrUQUVo4qCjRN0UPJ4Y5IbKFPU7R12XAzQL/FbjdsezvGcn+UwlfVCdgnWS1IezSRqGrInjSulT/IE910i7ggN0dcw4E=
 9kfp7gu0pja49cedkmpbkqpktdoekmen.camera.	3600	in	nsec3	1 1 0 73 9P42CGULCEVA1MC9D77CB6PMDO8O0U9A NS SOA RRSIG DNSKEY NSEC3PARAM
-9kfp7gu0pja49cedkmpbkqpktdoekmen.camera.	3600	in	rrsig	NSEC3 8 2 3600 20251002005629 20250910235629 35028 camera. pXfWhD3FMbNHyIUjrkHKRF6Olj3AUmrdQuClyvlvyLa1CBBeTpFMbPjgwOIz6BgKfGr06I0KbuPCaup1WqEBlgtIGcGyVf3p9oqccmhzmM9r9dYwIv4J5ddgsiUh1eUbuki82saBgPRaUTImKQAkXav1zYBk1rhMGkzrxCHTGgI=
+9kfp7gu0pja49cedkmpbkqpktdoekmen.camera.	3600	in	rrsig	NSEC3 8 2 3600 20251003010341 20250912000341 35028 camera. xORFqWZU1koSTeIhazBGcxi9E5/NVr2CoZMGsaE3WuFihCpCvoOdyh6FbufNRXMXSarnL8/arjA2GiqlocPlNLaUFQaNr4pCk/HwWMqIdIK6YCIjxFDfFHcFuta8truahnxZ9/3sif0R0W/ty0owRgshLL+TjuUfafy2PktXY1I=
 9p42cgulceva1mc9d77cb6pmdo8o0u9a.camera.	3600	in	nsec3	1 1 0 73 9S9DABOIRMAHV64GI451O4V4L9G9QGG7 NS DS RRSIG
 9p42cgulceva1mc9d77cb6pmdo8o0u9a.camera.	3600	in	rrsig	NSEC3 8 2 3600 20250930151956 20250909141956 35028 camera. wFJo81vtXebwLrLpdOOqJ/WRUwg7r4CZPBkOc/c05Dc73E1Qy+QAeNE9tnuMjnFyX1rXA3xM8GNmR+xZpoSdzmtt/dao8npkcVzVgkPlmpexeR13FeweJrdxNp1csJIKzqtgIzU5D8HPL3VFPEI2eywzVlmEkyPO/KWY3o44j2c=
 9s9daboirmahv64gi451o4v4l9g9qgg7.camera.	3600	in	nsec3	1 1 0 73 ABBFT03Q85IASAAS65C4CCPSMM46SGKV NS DS RRSIG
@@ -919,8 +919,8 @@ auv0rq21296pd9digipjj2vjkkptjkjk.camera.	3600	in	nsec3	1 1 0 73 BGF15JTEV5Q7S5LR
 auv0rq21296pd9digipjj2vjkkptjkjk.camera.	3600	in	rrsig	NSEC3 8 2 3600 20250930151956 20250909141956 35028 camera. Xd2oI3tXWYrIP7DuBC0X7M87+xgWt8FZMxOTRkfBYQodNNElpQrd08556JKvcUa8nvrhSKIHdvM91vDt5BIfcyQZMj+TivGVJZz1Cpj6W0XYIzqHaXgeAf1lH71lrB1ZM7jGODzQ2n91LDqT144+GPeaJWP9e8mHv4zQueTDQiA=
 av8.camera.	3600	in	ns	ns4005.hostgator.com.
 av8.camera.	3600	in	ns	ns4006.hostgator.com.
-avi.camera.	3600	in	ns	ns1.bodis.com.
-avi.camera.	3600	in	ns	ns2.bodis.com.
+avi.camera.	3600	in	ns	ns1.dns-redirect.com.
+avi.camera.	3600	in	ns	ns2.dns-redirect.com.
 avigilon.camera.	3600	in	ns	lina.ns.cloudflare.com.
 avigilon.camera.	3600	in	ns	todd.ns.cloudflare.com.
 avp.camera.	3600	in	ns	ns1.digitalocean.com.
@@ -988,6 +988,8 @@ ball.camera.	3600	in	ns	ns-de.1and1-dns.biz.
 ball.camera.	3600	in	ns	ns-de.1and1-dns.com.
 ball.camera.	3600	in	ns	ns-de.1and1-dns.de.
 ball.camera.	3600	in	ns	ns-de.1and1-dns.org.
+banana.camera.	3600	in	ns	clark.ns.cloudflare.com.
+banana.camera.	3600	in	ns	monroe.ns.cloudflare.com.
 bang.camera.	3600	in	ns	ns15.domaincontrol.com.
 bang.camera.	3600	in	ns	ns16.domaincontrol.com.
 bark.camera.	3600	in	ns	ns47.domaincontrol.com.
@@ -1500,10 +1502,6 @@ cadencerpm.camera.	3600	in	ns	ns-cloud-b1.googledomains.com.
 cadencerpm.camera.	3600	in	ns	ns-cloud-b2.googledomains.com.
 cadencerpm.camera.	3600	in	ns	ns-cloud-b3.googledomains.com.
 cadencerpm.camera.	3600	in	ns	ns-cloud-b4.googledomains.com.
-cai.camera.	3600	in	ns	curitiba.ns.porkbun.com.
-cai.camera.	3600	in	ns	fortaleza.ns.porkbun.com.
-cai.camera.	3600	in	ns	maceio.ns.porkbun.com.
-cai.camera.	3600	in	ns	salvador.ns.porkbun.com.
 caia.camera.	3600	in	ns	ns-cloud-a1.googledomains.com.
 caia.camera.	3600	in	ns	ns-cloud-a2.googledomains.com.
 caia.camera.	3600	in	ns	ns-cloud-a3.googledomains.com.
@@ -1565,7 +1563,7 @@ camera.	3600	in	nsec3param	1 0 0 73
 camera.	3600	in	rrsig	DNSKEY 8 1 3600 20250930151956 20250909141956 23809 camera. qjr/7+4LdAOUE7fmCV2In9DjUiR+IMV5LD+gqlBzigKtqX412EmZWOel8JT5Akd688dN60vfMIAM4Syx2OAPM0sm8JKUbxPwDHtLk8YYyPkALbzF2PwiktL/UxN0Hft+VyEr04PSOvf6S8Rl6RAmdiB6FxJ33jA896q8/SWDyEx3Sh/eryzxiggQZ3AFmn/PfZ4ZB2JGsmKtjOKn3dAkkGwRZRBOPCP25QmxvCHyOLoOXVdgDF6TMN3dYhfhAXmKz+4rhWnpBGZCzPVQVx+bjjbacAsWMxfZjaO3Ozb3bBrCtP61cDepCcv0Y413qZ0Bb4sAkjH2K3ehKvegPItfEw==
 camera.	3600	in	rrsig	NS 8 1 3600 20250930151956 20250909141956 35028 camera. AEGzsMy7r/vmf4HH/Rrv2f3dWSporfWw38TMkpK4s8wt/gEX9rB0IiKtrbuLJ/CQBdV9PIicMKhNOqLpaDsL+Nm9RfP3FqUJSAAkr9Pu764WvX17wwvZqxzxQ5k6zkavjOvdD+ciTe3Miyx3Q6BQgGzW2KzOJMPxFZexk70cXA8=
 camera.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930151956 20250909141956 35028 camera. O5oRBZeMi8tcbWKc6KkRX3qI27PaIEQcv3iZ1Cnye/K8ARF0tNO1JJoxPwCpNhn5cBZU1/KM9tfCQzA1ft3KE5TUHs9O7KEoxwZ9L9Knxds6L+1WYFgJk0T/XfldMGM6VbZoYenJGHHbYpMYi1G+NU9CEnNq7edu5XfRuGuyAxQ=
-camera.	3600	in	rrsig	SOA 8 1 3600 20251002005629 20250910235629 35028 camera. NSvaY1C6lO6Pf89K3ARmDcI6pFg9PqU7Awz6qH4rKCwA0qCVDSo1r6/w4UMN/MePuFuYLPXVl28PsRlmjJXEOh5LAkw7RhpFdqLNhYqjdPJYhN8CcKIJ/0w2pB7GafW1e6FNPNpQVkTTAdoQNNbjOx1EiKcJXn9HrX4YzeHmmZM=
+camera.	3600	in	rrsig	SOA 8 1 3600 20251003010341 20250912000341 35028 camera. nNaXSATdD4fz/Ebu0Nhym0j0VpRHMlPg+UF10rPfmWj2sESdxzYIcAwgZ50i+prsRHpHzsAhEwWeGHcfDWxen1xwlSKxZpTgKwDO19v6Kz0X5Ccf65gXbSwxp/9tJRz9SXpofKJjjU3QWkV6K9OKx9nUW1HPavbKcpKNpB/VTE8=
 cameracamera.camera.	3600	in	ns	dns1.onamae.com.
 cameracamera.camera.	3600	in	ns	dns2.onamae.com.
 cameracrewgermany.camera.	3600	in	ns	name01.nameservyng.net.
@@ -2305,8 +2303,6 @@ danielschade.camera.	3600	in	ns	ns73.domaincontrol.com.
 danielschade.camera.	3600	in	ns	ns74.domaincontrol.com.
 dans.camera.	3600	in	ns	ns09.domaincontrol.com.
 dans.camera.	3600	in	ns	ns10.domaincontrol.com.
-dante.camera.	3600	in	ns	fattouche.ns.cloudflare.com.
-dante.camera.	3600	in	ns	kate.ns.cloudflare.com.
 danys.camera.	3600	in	ns	dns1.p03.nsone.net.
 danys.camera.	3600	in	ns	dns2.p03.nsone.net.
 danys.camera.	3600	in	ns	dns3.p03.nsone.net.
@@ -2474,6 +2470,10 @@ digitalframeworks.camera.	3600	in	ns	ns8.wixdns.net.
 digitalframeworks.camera.	3600	in	ns	ns9.wixdns.net.
 digitalling.camera.	3600	in	ns	augustus.ns.cloudflare.com.
 digitalling.camera.	3600	in	ns	laura.ns.cloudflare.com.
+digitalone.camera.	3600	in	ns	ns-cloud-b1.googledomains.com.
+digitalone.camera.	3600	in	ns	ns-cloud-b2.googledomains.com.
+digitalone.camera.	3600	in	ns	ns-cloud-b3.googledomains.com.
+digitalone.camera.	3600	in	ns	ns-cloud-b4.googledomains.com.
 dijie.camera.	3600	in	ns	ns11.domaincontrol.com.
 dijie.camera.	3600	in	ns	ns12.domaincontrol.com.
 dino.camera.	3600	in	ns	dns1.onamae.com.
@@ -2772,6 +2772,10 @@ elegant.camera.	3600	in	ns	dns1.elegant.camera.
 elegant.camera.	3600	in	ns	dns2.elegant.camera.
 elgato.camera.	3600	in	ns	ns01.1blu.de.
 elgato.camera.	3600	in	ns	ns02.1blu.de.
+elinchrom.camera.	3600	in	ns	ephemera.nmugroup.se.
+elinchrom.camera.	3600	in	ns	origo.nmugroup.com.
+elinchrom.camera.	3600	in	ns	unit.nmugroup.com.
+elinchrom.camera.	3600	in	ns	vertex.nmugroup.se.
 elitesystemsgroup.camera.	3600	in	ns	ns23.domaincontrol.com.
 elitesystemsgroup.camera.	3600	in	ns	ns24.domaincontrol.com.
 ellevator.camera.	3600	in	ns	ns1.internex.at.
@@ -6120,8 +6124,8 @@ nikopenfilm888.camera.	3600	in	ns	ns1.dns.ne.jp.
 nikopenfilm888.camera.	3600	in	ns	ns2.dns.ne.jp.
 nils.camera.	3600	in	ns	ns1.hover.com.
 nils.camera.	3600	in	ns	ns2.hover.com.
-nimbus.camera.	3600	in	ns	ns1.bodis.com.
-nimbus.camera.	3600	in	ns	ns2.bodis.com.
+nimbus.camera.	3600	in	ns	ns1.dns-redirect.com.
+nimbus.camera.	3600	in	ns	ns2.dns-redirect.com.
 nina.camera.	3600	in	ns	dns1.p06.nsone.net.
 nina.camera.	3600	in	ns	dns2.p06.nsone.net.
 nina.camera.	3600	in	ns	dns3.p06.nsone.net.
@@ -6357,8 +6361,6 @@ offworld.camera.	3600	in	ns	curitiba.ns.porkbun.com.
 offworld.camera.	3600	in	ns	fortaleza.ns.porkbun.com.
 offworld.camera.	3600	in	ns	maceio.ns.porkbun.com.
 offworld.camera.	3600	in	ns	salvador.ns.porkbun.com.
-ogawagaiko.camera.	3600	in	ns	dns1.onamae.com.
-ogawagaiko.camera.	3600	in	ns	dns2.onamae.com.
 okanagan.camera.	3600	in	ns	ns19.domaincontrol.com.
 okanagan.camera.	3600	in	ns	ns20.domaincontrol.com.
 oko.camera.	3600	in	ds	21565 8 2 D2318992B80651F8CA24FEB398F7A683C1B5190DEAB2D28D6ECF5BDA62E6146A
@@ -6644,8 +6646,8 @@ people.camera.	3600	in	ns	ns2.dan.com.
 pepe.camera.	3600	in	ns	ns.forpsi.cz.
 pepe.camera.	3600	in	ns	ns.forpsi.it.
 pepe.camera.	3600	in	ns	ns.forpsi.net.
-perception.camera.	3600	in	ns	ns1.bodis.com.
-perception.camera.	3600	in	ns	ns2.bodis.com.
+perception.camera.	3600	in	ns	ns1.dns-redirect.com.
+perception.camera.	3600	in	ns	ns2.dns-redirect.com.
 perfect.camera.	3600	in	ns	ns1.inmotionhosting.com.
 perfect.camera.	3600	in	ns	ns2.inmotionhosting.com.
 perfecta.camera.	3600	in	ns	ns01.cashparking.com.
@@ -6991,8 +6993,8 @@ portable.camera.	3600	in	ns	ns1.markmonitor.com.
 portable.camera.	3600	in	ns	ns3.markmonitor.com.
 portable.camera.	3600	in	ns	ns4.markmonitor.com.
 portable.camera.	3600	in	ns	ns5.markmonitor.com.
-portal.camera.	3600	in	ns	ns1.bodis.com.
-portal.camera.	3600	in	ns	ns2.bodis.com.
+portal.camera.	3600	in	ns	ns1.dns-redirect.com.
+portal.camera.	3600	in	ns	ns2.dns-redirect.com.
 portics.camera.	3600	in	ds	20846 13 2 476D3E25FD8D8F8D1482C205BF600F21328934927A2DF5BE171EE17C99DDF0E5
 portics.camera.	3600	in	ns	ns3.combell.net.
 portics.camera.	3600	in	ns	ns4.combell.net.
@@ -8265,8 +8267,8 @@ soft.camera.	3600	in	ns	clara.ns.cloudflare.com.
 soft.camera.	3600	in	ns	hal.ns.cloudflare.com.
 software.camera.	3600	in	ns	ns1.sedoparking.com.
 software.camera.	3600	in	ns	ns2.sedoparking.com.
-sola.camera.	3600	in	ns	ns1.bodis.com.
-sola.camera.	3600	in	ns	ns2.bodis.com.
+sola.camera.	3600	in	ns	ns1.dns-redirect.com.
+sola.camera.	3600	in	ns	ns2.dns-redirect.com.
 solarsystem.camera.	3600	in	ns	ns51.domaincontrol.com.
 solarsystem.camera.	3600	in	ns	ns52.domaincontrol.com.
 solve.camera.	3600	in	ns	alina.ns.cloudflare.com.
@@ -8277,8 +8279,6 @@ sonoma.camera.	3600	in	ns	ns57.domaincontrol.com.
 sonoma.camera.	3600	in	ns	ns58.domaincontrol.com.
 sooscreek.camera.	3600	in	ns	dns1.registrar-servers.com.
 sooscreek.camera.	3600	in	ns	dns2.registrar-servers.com.
-sophie.camera.	3600	in	ns	ns1.dotster.com.
-sophie.camera.	3600	in	ns	ns2.dotster.com.
 sora.camera.	3600	in	ns	ns1.xserver.jp.
 sora.camera.	3600	in	ns	ns2.xserver.jp.
 sora.camera.	3600	in	ns	ns3.xserver.jp.
@@ -8656,6 +8656,10 @@ tcf-sony-lens.camera.	3600	in	ns	ns-de.1and1-dns.de.
 tcf-sony-lens.camera.	3600	in	ns	ns-de.1and1-dns.org.
 tcl.camera.	3600	in	ns	3433.ns1.above.com.
 tcl.camera.	3600	in	ns	3433.ns2.above.com.
+team.camera.	3600	in	ns	ns1stv.name.com.
+team.camera.	3600	in	ns	ns2cqs.name.com.
+team.camera.	3600	in	ns	ns3bfm.name.com.
+team.camera.	3600	in	ns	ns4fpy.name.com.
 teamviewer.camera.	3600	in	ns	tv-ns1.teamviewer.com.
 teamviewer.camera.	3600	in	ns	tv-ns2.teamviewer.com.
 teamviewer.camera.	3600	in	ns	tv-ns3.teamviewer.com.
@@ -9315,8 +9319,8 @@ vehicle.camera.	3600	in	ns	dns1.registrar-servers.com.
 vehicle.camera.	3600	in	ns	dns2.registrar-servers.com.
 vejqu9tbd2p5m6cqkt23rb7k1d61j006.camera.	3600	in	nsec3	1 1 0 73 VFGPGCK4C7E6DTP4HLQPDASAUTKT6JRA NS DS RRSIG
 vejqu9tbd2p5m6cqkt23rb7k1d61j006.camera.	3600	in	rrsig	NSEC3 8 2 3600 20250930151956 20250909141956 35028 camera. pV9NpMKXY43i1R9dQ6V7Sx0Jx0kL3eP2CdgDIHHmEJF1qIh8XQneNSBwV7We6iVqjh/M8dk/BHoTqGOal0lXWqfjll1LoQ4mrMSQnCv9Q6/NfnYpEG3pkPMznNze4aYr32h9mRYpTv4OPyedjjkbhcFa4xGbCONdfw+ba0pRepw=
-veneer.camera.	3600	in	ns	ns1.bodis.com.
-veneer.camera.	3600	in	ns	ns2.bodis.com.
+veneer.camera.	3600	in	ns	ns1.dns-redirect.com.
+veneer.camera.	3600	in	ns	ns2.dns-redirect.com.
 veo.camera.	3600	in	ns	ns1.aftermarket.com.
 veo.camera.	3600	in	ns	ns2.aftermarket.com.
 veragavrilovic.camera.	3600	in	ns	ns71.domaincontrol.com.
@@ -9508,8 +9512,8 @@ vwfndr.camera.	3600	in	ns	ns3.cdmon.net.
 vwfndr.camera.	3600	in	ns	ns4.cdmondns-01.org.
 vwfndr.camera.	3600	in	ns	ns5.cdmondns-01.com.
 vwfndr.camera.	3600	in	rrsig	DS 8 2 3600 20250930151956 20250909141956 35028 camera. pdXqR6Utwor+meq9l2RAcyHd2ls5W6UJI6CjA2h1hSZwucJkhBtc1EePjyiA9VU6S5zMrmRfceXRWNRAD1OdC3xKdA2r8K5Mq1Y9k1M6eHxyYiMlMg60U+RPMl1C2oTMAr4inxbj+9fO2T2aGzBhRNNBtXwUupSJFF2vkdJHOME=
-w88.camera.	3600	in	ns	ns1.bodis.com.
-w88.camera.	3600	in	ns	ns2.bodis.com.
+w88.camera.	3600	in	ns	ns1.dns-redirect.com.
+w88.camera.	3600	in	ns	ns2.dns-redirect.com.
 wabba.camera.	3600	in	ns	ns0.wixdns.net.
 wabba.camera.	3600	in	ns	ns1.wixdns.net.
 wadifapress.camera.	3600	in	ns	ns1.dan.com.
@@ -10015,4 +10019,4 @@ zuhause.camera.	3600	in	ns	ns-de.1and1-dns.de.
 zuhause.camera.	3600	in	ns	ns-de.1and1-dns.org.
 zurhg.camera.	3600	in	ns	ali.ns.cloudflare.com.
 zurhg.camera.	3600	in	ns	nicolas.ns.cloudflare.com.
-camera.	3600	in	soa	v0n0.nic.camera. hostmaster.donuts.email. 1757551949 7200 900 1209600 3600
+camera.	3600	in	soa	v0n0.nic.camera. hostmaster.donuts.email. 1757638797 7200 900 1209600 3600
