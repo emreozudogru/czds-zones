@@ -1,8 +1,8 @@
-booking.	900	in	soa	ns1.dns.nic.booking. admin.tldns.godaddy. 1757540382 1800 300 604800 1800
+booking.	900	in	soa	ns1.dns.nic.booking. admin.tldns.godaddy. 1757630382 1800 300 604800 1800
 36o1dsjcdtajp7jlf26bko4h76s3u5j5.booking.	900	in	nsec3	1 1 0 - PFDHEAS16MLKUMB8QQJEVHM26R4N0HMR NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
 36o1dsjcdtajp7jlf26bko4h76s3u5j5.booking.	900	in	rrsig	NSEC3 8 2 900 20250922100237 20250908092624 37548 booking. mr65iHMEy+DDUoEVh9MQNyueriIhnOhLKI4+d8+6ingXIxXM1NSAV4ges3WzH33yotlLmKt7HVIvlyWtRbeGGOvNhPFuzRT2G1nhK/6tUoTW1mY9coMqDRtjeb2dhpHgt3ZRLcLANhn06+84xe0o5YqMnIsARu/EaHY+QD5U78fEfmXWJXQZQFp/KCSjcQ+SNHR49CugtiTcf/UZfVm5XA==
-_forcedupdate.booking.	300	in	rrsig	TXT 8 2 300 20250922210603 20250910203942 37548 booking. FGBBJejAE7mGScGajDsZw94b2M0tb/rQZfmA6hbrg4JeUdZ1zwyp4M3i/CqH/UTKVUdwtbtGbXjNLRAzpcCtD/ANPH1OlrFJnQC/jBGrvhTY6q2hVYs4Um6Z/JJMT9Nq+riZCZv4A99hSutlXZBS+0WfbFACgd//n2pkWmJsFkr4SDIHzlgovycvYJ6WxWjWkJZFZ4pd2innkE4pf5F59Q==
-_forcedupdate.booking.	300	in	txt	"1757540382"
+_forcedupdate.booking.	300	in	rrsig	TXT 8 2 300 20250922133551 20250911213942 37548 booking. SleqrGiTlCsTzI6JQyFuQobB1NqIc6yNTiaW4QnZ+zR3LLeu34CqefNYeG7O8KWbpJxOIa4ew60oCttTa0iOw0ZNxUSvr4LKoldRWccDPzelvxEmCH+IpgJHi2ddWIZPopS7Ux30383pFdbo1FJVjDdu6U8VS9MHDcYIhX13AhC4HRTQGFkrjLzc6W72VGGIQVN4wmrsKhqOIdpiAsix3A==
+_forcedupdate.booking.	300	in	txt	"1757630382"
 a.nic.booking.	3600	in	a	37.209.192.9
 a.nic.booking.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 b.nic.booking.	3600	in	a	37.209.194.9
@@ -23,7 +23,7 @@ booking.	86400	in	ns	ns1.dns.nic.booking.
 booking.	86400	in	ns	ns2.dns.nic.booking.
 booking.	86400	in	ns	ns3.dns.nic.booking.
 booking.	86400	in	rrsig	NS 8 1 86400 20250921054424 20250907050528 37548 booking. gtKKWejGPP9dGeNy8/sWIBnvDEoKpLM7LC7TiIoK2RVv/0NXBxNqwrrhYYBoHOjLXXsesfm9A0wpmnF2nmAcVJMM2BgwWeFE07HBMnFYOvP4BOFIF457ZnZSpAw1dO0iM7jhB4/HnmdqMQkTbVKzZA66wUxEeJuTDotcwv4BIqBLTE19aFiANTYdWNARC9O1Dz0NKz5pwrlhPyyeNBNLjQ==
-booking.	900	in	rrsig	SOA 8 1 900 20250924213942 20250910203942 37548 booking. S9ZUhuxYFRWU2AxZcO5zowoE147G06EAXzFNYsrPnqcTBKcVUkhFMmTN4R6W/wzQBnzbUCuwV7r9SUX5CxU/Dg+xkMX4N2T5rVBsSuxu8E3MRSjNDSFtGfs7cY/VDBcd2GnjhRM++8AZ712Nn9bPh3+suX11IMdY6X/NH5DZNBMdeSP3QhbBLhTYssNN8YSb+wjtM8ZDDj1qCgNLfJB/0A==
+booking.	900	in	rrsig	SOA 8 1 900 20250925223942 20250911213942 37548 booking. ER55w6lNLn7fyGxNuq80HpB0lb82SzqxFOY5d8kcixyK/tKJPORRWQUVClzjuodhjtXmGyoqEKajGKxrgWdSVt3PHHKlQzM9aTeEFLRTWoqIpT2xmp96umplEZJhvnCWejQPg1a03b4yxeLXLwZsoZ+DbXsEfmXnbpYei3P7DtkommrQpRM0iVyNsuHbbtL6n4s6UljqXLau3NODdnL4ZQ==
 c.nic.booking.	3600	in	a	37.209.196.9
 c.nic.booking.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
 d.nic.booking.	3600	in	a	37.209.198.9
@@ -56,4 +56,4 @@ pfdheas16mlkumb8qqjevhm26r4n0hmr.booking.	900	in	nsec3	1 1 0 - SFS3KISAVB1ORGR1J
 pfdheas16mlkumb8qqjevhm26r4n0hmr.booking.	900	in	rrsig	NSEC3 8 2 900 20250921215150 20250907211553 37548 booking. Oo61zULFMdbHgGT3m9jMmOoRJ2ax/QRSOt35svJmEJX++9M4udfObqV6uKLbiANkY6dYOeLCKeRLbUCRk9P3WxrWDMK68g/ZF665xO4X+aHxCm99DQukiC00ZK/aZ6Japy4s7pPsTxs1fM5+W/5MyyunvoEI7ayGvf4lF564yVVgEtaQIVkwAdbMjUvuNaWFTnDPnyiORDCg5pHcfNP9PA==
 sfs3kisavb1orgr1jm6rmjggodnnqnof.booking.	900	in	nsec3	1 1 0 - 36O1DSJCDTAJP7JLF26BKO4H76S3U5J5 NS DS RRSIG
 sfs3kisavb1orgr1jm6rmjggodnnqnof.booking.	900	in	rrsig	NSEC3 8 2 900 20250921215150 20250907211553 37548 booking. oG9Y82tOEad6BdR4VF7j/D4LKpxK3ZC6pn1sW8cOmN/PVETn6Ebp69Bhfzwev1EWPSUma16SVGpe5KeahXMjc7owSJ4QNLG39Pb1X4t3a55Cwf+mWLb3L0OJaVUDf5Ab8oglHaKsA2aodGqXm+JRoi+FE6vAmDV2Nn/uzcZf2+EISHu0V959WVSL4YBh6mUtlpfYqAqZQF8Ej4hqcji2sA==
-booking.	900	in	soa	ns1.dns.nic.booking. admin.tldns.godaddy. 1757540382 1800 300 604800 1800
+booking.	900	in	soa	ns1.dns.nic.booking. admin.tldns.godaddy. 1757630382 1800 300 604800 1800
