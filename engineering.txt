@@ -1,4 +1,4 @@
-engineering.	3600	in	soa	v0n0.nic.engineering. hostmaster.donuts.email. 1757552638 7200 900 1209600 3600
+engineering.	3600	in	soa	v0n0.nic.engineering. hostmaster.donuts.email. 1757638848 7200 900 1209600 3600
 0.engineering.	3600	in	ds	49595 8 2 91F58743625AC2F9D76033AE8919F8B42D1119EB45E3BE4787C9AB32991EF850
 0.engineering.	3600	in	ns	ns-cloud-b1.googledomains.com.
 0.engineering.	3600	in	ns	ns-cloud-b2.googledomains.com.
@@ -723,6 +723,8 @@ engineering.	3600	in	soa	v0n0.nic.engineering. hostmaster.donuts.email. 17575526
 79ikfvr6l9gii4q8n0tgrrtr90ojsg6a.engineering.	3600	in	rrsig	NSEC3 8 2 3600 20250930152403 20250909142403 37086 engineering. ZAn1KyzultHVoUdsr87FvmdPZzUeDium6y6uiyKnc8nCbydC2DQRuyWB1AQlisK1ri2RXn8p27gVw9/CMuNE5pYBviN2n4PT48wv41YWByVzVlug+GOi9FM2G73enjYGHF/4uMtAr+/tW8yfRsfYCATXH+403TmHkrRCYI7oXOI=
 79king.engineering.	3600	in	ns	drake.ns.cloudflare.com.
 79king.engineering.	3600	in	ns	laura.ns.cloudflare.com.
+7b.engineering.	3600	in	ns	athena.ns.cloudflare.com.
+7b.engineering.	3600	in	ns	austin.ns.cloudflare.com.
 7b5v75ong67aqsfgi98r0qgfnmtejbnb.engineering.	3600	in	nsec3	1 1 0 73 7BKBE3E8CVKQLDUJK050JSGH7MFJTR9H NS DS RRSIG
 7b5v75ong67aqsfgi98r0qgfnmtejbnb.engineering.	3600	in	rrsig	NSEC3 8 2 3600 20250930152403 20250909142403 37086 engineering. J7rkyKqCsGl4Pkp/1RHOjpKS5IZgBtjfjZoT8PzqVoHu/7vuzl2Lkdwk7YEX++nq/pxNTGNvhwmYMrZ/Cr7ZUzRFt6DyLeQtlfZT+AUWyU1QHDyIBv51I+FlcNTvBvC+SzWYP6ROmv0iCIaOPQeZmUtN1dEN73sdvGJdatZduVY=
 7bkbe3e8cvkqldujk050jsgh7mfjtr9h.engineering.	3600	in	nsec3	1 1 0 73 7D0DQFIJ8GPOLP8I37EAG2GC2SOQEBSB NS DS RRSIG
@@ -1218,12 +1220,12 @@ actions.engineering.	3600	in	ns	ns1.vercel-dns.com.
 actions.engineering.	3600	in	ns	ns2.vercel-dns.com.
 active.engineering.	3600	in	ns	ns1.atom.com.
 active.engineering.	3600	in	ns	ns2.atom.com.
-activesourcing.engineering.	3600	in	ns	docks10.rzone.de.
-activesourcing.engineering.	3600	in	ns	shades10.rzone.de.
 activewayz.engineering.	3600	in	ns	ns10.wixdns.net.
 activewayz.engineering.	3600	in	ns	ns11.wixdns.net.
 acuitusag.engineering.	3600	in	ns	pdns1.registrar-servers.com.
 acuitusag.engineering.	3600	in	ns	pdns2.registrar-servers.com.
+acuity.engineering.	3600	in	ns	ns47.domaincontrol.com.
+acuity.engineering.	3600	in	ns	ns48.domaincontrol.com.
 acumen.engineering.	3600	in	ns	ns1.hover.com.
 acumen.engineering.	3600	in	ns	ns2.hover.com.
 acutaaschemicalpvtltd.engineering.	3600	in	ns	bingo.ns.cloudflare.com.
@@ -1331,8 +1333,8 @@ adhawk.engineering.	3600	in	ns	ns-cloud-e3.googledomains.com.
 adhawk.engineering.	3600	in	ns	ns-cloud-e4.googledomains.com.
 adhd.engineering.	3600	in	ns	ns10.wixdns.net.
 adhd.engineering.	3600	in	ns	ns11.wixdns.net.
-adhoc.engineering.	3600	in	ns	ns1.bodis.com.
-adhoc.engineering.	3600	in	ns	ns2.bodis.com.
+adhoc.engineering.	3600	in	ns	ns1.dns-redirect.com.
+adhoc.engineering.	3600	in	ns	ns2.dns-redirect.com.
 adidas.engineering.	3600	in	ns	dns1.registrar-servers.com.
 adidas.engineering.	3600	in	ns	dns2.registrar-servers.com.
 adif.engineering.	3600	in	ns	ns1.adif.es.
@@ -1698,6 +1700,8 @@ airview.engineering.	3600	in	ns	ns12.wixdns.net.
 airview.engineering.	3600	in	ns	ns13.wixdns.net.
 airy.engineering.	3600	in	ns	dns101.registrar-servers.com.
 airy.engineering.	3600	in	ns	dns102.registrar-servers.com.
+ais.engineering.	3600	in	ns	ns1.dyna-ns.net.
+ais.engineering.	3600	in	ns	ns2.dyna-ns.net.
 aisoftware.engineering.	3600	in	ns	ns67.domaincontrol.com.
 aisoftware.engineering.	3600	in	ns	ns68.domaincontrol.com.
 aisystems.engineering.	3600	in	ns	dns1.registrar-servers.com.
@@ -2512,8 +2516,6 @@ aquatimer.engineering.	3600	in	ns	dns3.comlaude-dns.co.uk.
 aquatimer.engineering.	3600	in	ns	dns4.comlaude-dns.eu.
 aquila.engineering.	3600	in	ns	dns1.registrar-servers.com.
 aquila.engineering.	3600	in	ns	dns2.registrar-servers.com.
-ar.engineering.	3600	in	ns	ns05.domaincontrol.com.
-ar.engineering.	3600	in	ns	ns06.domaincontrol.com.
 aracreate.engineering.	3600	in	ns	aria.ns.cloudflare.com.
 aracreate.engineering.	3600	in	ns	trey.ns.cloudflare.com.
 arambol.engineering.	3600	in	ns	aragorn.ns.cloudflare.com.
@@ -3068,8 +3070,8 @@ atomic.engineering.	3600	in	ns	dns1.registrar-servers.com.
 atomic.engineering.	3600	in	ns	dns2.registrar-servers.com.
 atomlearning.engineering.	3600	in	ns	david.ns.cloudflare.com.
 atomlearning.engineering.	3600	in	ns	hadlee.ns.cloudflare.com.
-ats.engineering.	3600	in	ns	ns1.bodis.com.
-ats.engineering.	3600	in	ns	ns2.bodis.com.
+ats.engineering.	3600	in	ns	ns1.dns-redirect.com.
+ats.engineering.	3600	in	ns	ns2.dns-redirect.com.
 atta.engineering.	3600	in	ns	ns61.domaincontrol.com.
 atta.engineering.	3600	in	ns	ns62.domaincontrol.com.
 attainable.engineering.	3600	in	ns	dns1.registrar-servers.com.
@@ -6250,10 +6252,6 @@ clay.engineering.	3600	in	ns	ns-cloud-c4.googledomains.com.
 clay.engineering.	3600	in	rrsig	DS 8 2 3600 20250930152403 20250909142403 37086 engineering. z8dmGz9X0MGn9+CS4k7NjSz7jowX3Y8STT5HrKlchUDpsdhbed7aIdQwGoSi75IhubYmBUO7NFJELiLKJj18yAvsXguV8e5kpzB5Lusp4iHESu8T0p29n4wmc4oQtxXo6JQiqbzf7UhZjA649bzV+K+m8+69+UjQmScYvP1Iqfg=
 cle.engineering.	3600	in	ns	ns1.dns-redirect.com.
 cle.engineering.	3600	in	ns	ns2.dns-redirect.com.
-clean.engineering.	3600	in	ds	2402 13 2 BA96D299C1F32EFC38371F89BD3B8FD2F51F7C3A57B451D4DFAA0B46170D2699
-clean.engineering.	3600	in	ns	launch1.spaceship.net.
-clean.engineering.	3600	in	ns	launch2.spaceship.net.
-clean.engineering.	3600	in	rrsig	DS 8 2 3600 20250930152403 20250909142403 37086 engineering. 0NDZKNbx8CFSmRdcO9Xhs4Flfdp58ALbqWYHWSTrNqk2fOgzLlcLlMoBbZwAtmDg0Vr4abk4kSaz+bdUfZ79oq7Y6wHmdq22UvjxiiU3I3XxrX1IJMTXyV55NSRaxBsYtjreVgY8UO2rSUr4hs5D46xLUZ2vAoX/9ehUUeEls3I=
 cleanr.engineering.	3600	in	ns	ns35.domaincontrol.com.
 cleanr.engineering.	3600	in	ns	ns36.domaincontrol.com.
 cleanspark.engineering.	3600	in	ns	dns1.registrar-servers.com.
@@ -9136,8 +9134,8 @@ ecc.engineering.	3600	in	ns	ns3gnv.name.com.
 ecc.engineering.	3600	in	ns	ns4fqz.name.com.
 eccentric.engineering.	3600	in	ns	ns1.dns-redirect.com.
 eccentric.engineering.	3600	in	ns	ns2.dns-redirect.com.
-ece.engineering.	3600	in	ns	ns1.bodis.com.
-ece.engineering.	3600	in	ns	ns2.bodis.com.
+ece.engineering.	3600	in	ns	ns1.dns-redirect.com.
+ece.engineering.	3600	in	ns	ns2.dns-redirect.com.
 ecg.engineering.	3600	in	ns	ns1a.dodns.net.
 ecg.engineering.	3600	in	ns	ns2a.dodns.net.
 echelon.engineering.	3600	in	ns	ns-cloud-b1.googledomains.com.
@@ -9833,7 +9831,7 @@ engineering.	3600	in	nsec3param	1 0 0 73
 engineering.	3600	in	rrsig	DNSKEY 8 1 3600 20250930152403 20250909142403 60949 engineering. jto5G7jZPpk20p3NgZZ4PCGBmv31FlUB5LLsbeei1HaW5MZ5O44J/g3mlmxTWZffODroc7EVlpfHFeRh6ivZPiov4dpK6AchhwMMl4svV868njXrlcFuxdeQibFwtP03iLxM+5SKLKtSMgG4NWxj4d67PTcK7xvGNJdtfOU0UmLv+Lo3sgAU1GodqsNuI6D6VyDe9R6l84Lohmb9zDu0J7RlxZ7NTEszGJ/MDGp1KORo/ye/3c3AMYNwCb+40NI63lbZXtEbrt976lI8i1qcVMfk06lnPkqSjmds4PbQUpXBvPhP5AnG/GSEAcqTS2e/M9GASHFg3nNpcWTvjh+AaA==
 engineering.	3600	in	rrsig	NS 8 1 3600 20250930152403 20250909142403 37086 engineering. gWqU2RxoDtsGSjEuHS6u+g+cTJtcl3wBeQ6JKhSD5UXwt9eKQrKvEN5xBjaMfe24bsOJPF1lgctx9oJfdvDA7W2Fi8UsTIgrCMkL/G4IqwtN7DHlPm5qe79mnnK+gPlHt/JhaWuaVHsxQ4GNTLmhdqOH8iruZAUc7om4jBatnL4=
 engineering.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930152403 20250909142403 37086 engineering. dWwSSx8lzDCimvSsV1fNss6h/CStV5sIbt3Ne/aheHp9XZQbTE7v/51ge/MHoFURCILB6bjmx2Mi04UhMe1y9PCx/b1RsCO4ejg47sH7gAOjhEkWoyqvXXoSEtie9wp2L3JXy91AJDXvcvI7qZJmQZ2dENPAaqVlQyyvIVcHmBU=
-engineering.	3600	in	rrsig	SOA 8 1 3600 20251002010706 20250911000706 37086 engineering. QUr4/UdLC3jrDiZ7VIwvUWoPfJv5U/azAD7xeWioGRUD92SBqcZ9rsen1a6KOkc7hvVS1C4flXWStLkhWlq9WXQSdRAxWUGWqBR1hqYMR6Ag4xC+qLj94J3Xd9kwGaMnubCwbRqvtlC3S/SQqMtLL4qO/+q3/LhIAy4sl+hgRMI=
+engineering.	3600	in	rrsig	SOA 8 1 3600 20251003010348 20250912000348 37086 engineering. hjTN7mOCP0VzjPoxeEmRCl4f3qBKWvaTUuBIb3e3nFhvYzanJEgHXPPMztIJNc2N66tYOAxRBD5HSzwu1Ug4ygnPvCBY0zk7P7eWeooGE/ZSEgIMvi/gYUEq2bEnPhdmfLlAm2tYvQrLM1L11e/wfiHHzsbJwaIoBmyp/9zcB70=
 engineering.engineering.	3600	in	ns	ns1.dyna-ns.net.
 engineering.engineering.	3600	in	ns	ns2.dyna-ns.net.
 engineeringassociates.engineering.	3600	in	ns	ns75.domaincontrol.com.
@@ -10108,8 +10106,8 @@ essential.engineering.	3600	in	ns	ns2.wordpress.com.
 essential.engineering.	3600	in	ns	ns3.wordpress.com.
 estabrooks.engineering.	3600	in	ns	ns1.us89.siteground.us.
 estabrooks.engineering.	3600	in	ns	ns2.us89.siteground.us.
-esteemed.engineering.	3600	in	ns	dns1.registrar-servers.com.
-esteemed.engineering.	3600	in	ns	dns2.registrar-servers.com.
+esteemed.engineering.	3600	in	ns	dns101.registrar-servers.com.
+esteemed.engineering.	3600	in	ns	dns102.registrar-servers.com.
 estonmondo.engineering.	3600	in	ns	curitiba.ns.porkbun.com.
 estonmondo.engineering.	3600	in	ns	fortaleza.ns.porkbun.com.
 estonmondo.engineering.	3600	in	ns	maceio.ns.porkbun.com.
@@ -12305,8 +12303,8 @@ gmi6v13isc3vevu8u35hi8gfko1orpk2.engineering.	3600	in	nsec3	1 1 0 73 GR5D2B9089C
 gmi6v13isc3vevu8u35hi8gfko1orpk2.engineering.	3600	in	rrsig	NSEC3 8 2 3600 20250930152403 20250909142403 37086 engineering. zzWbCRU/X/TPSRyXro1JXYx+j946sjRm4MU3RC9mV4pmZi9fxhnwMlw4aWFOyDqFY9iQKcen4pFhx3eodgVgQUSO6M4xXoYZIvf15mtOfd/XdLVF+XqNex2dqhj7Gn90jD6KlXbv22fdWjQsGX6uWcPGDJfJrqiGODK8iP7f73k=
 gmo.engineering.	3600	in	ns	dns1.onamae.com.
 gmo.engineering.	3600	in	ns	dns2.onamae.com.
-gmp.engineering.	3600	in	ns	ns1.bodis.com.
-gmp.engineering.	3600	in	ns	ns2.bodis.com.
+gmp.engineering.	3600	in	ns	ns1.dns-redirect.com.
+gmp.engineering.	3600	in	ns	ns2.dns-redirect.com.
 gmuer.engineering.	3600	in	ns	ns-cloud-b1.googledomains.com.
 gmuer.engineering.	3600	in	ns	ns-cloud-b2.googledomains.com.
 gmuer.engineering.	3600	in	ns	ns-cloud-b3.googledomains.com.
@@ -13448,10 +13446,8 @@ hex.engineering.	3600	in	ns	ns-cloud-a2.googledomains.com.
 hex.engineering.	3600	in	ns	ns-cloud-a3.googledomains.com.
 hex.engineering.	3600	in	ns	ns-cloud-a4.googledomains.com.
 hexagon.engineering.	3600	in	ds	64630 8 2 141B9BB90992DA1FC57C82AD8BF68F582D8B0379E4900820FFE9A08FA5E4CDD2
-hexagon.engineering.	3600	in	ns	ns-cloud-e1.googledomains.com.
-hexagon.engineering.	3600	in	ns	ns-cloud-e2.googledomains.com.
-hexagon.engineering.	3600	in	ns	ns-cloud-e3.googledomains.com.
-hexagon.engineering.	3600	in	ns	ns-cloud-e4.googledomains.com.
+hexagon.engineering.	3600	in	ns	ns3.afternic.com.
+hexagon.engineering.	3600	in	ns	ns4.afternic.com.
 hexagon.engineering.	3600	in	rrsig	DS 8 2 3600 20250930152403 20250909142403 37086 engineering. OsMySzi48JHl23Ha9Jc1y/J7nmGnHHV25JOAN38i/PiBAbCJ+oCmOzLX6VulFhto+uwPrHsnSMQ71tKtQ824gK+d4tF3kUfG7LRfzdtpGtdY/ZGLdLAY7SSsoleyLOk9t+UyeggNqJLvz5E2ZHfv93OYVS4NsIAhOmaGHuoKroc=
 hexagonal.engineering.	3600	in	ns	ns69.domaincontrol.com.
 hexagonal.engineering.	3600	in	ns	ns70.domaincontrol.com.
@@ -20865,8 +20861,8 @@ nusolutions.engineering.	3600	in	ns	ns01.squarespacedns.com.
 nusolutions.engineering.	3600	in	ns	ns02.squarespacedns.com.
 nusolutions.engineering.	3600	in	ns	ns03.squarespacedns.com.
 nusolutions.engineering.	3600	in	ns	ns04.squarespacedns.com.
-nutj8fbqkck1r270p5ql0ubff7bekeip.engineering.	3600	in	nsec3	1 1 0 73 NVCGLM2CPSC981S0G0U6QK7BOT8FAU3N NS DS RRSIG
-nutj8fbqkck1r270p5ql0ubff7bekeip.engineering.	3600	in	rrsig	NSEC3 8 2 3600 20250930152403 20250909142403 37086 engineering. dgfgR9Mwm5rKxgdKX28lZuHFZp5AtIE6L+Q07+tG9ECFEwkpaqZkvqiYsN5uB04qO/eKUs66Km8moaVsQecKvWGXKRvmhPT3xI8BBM/hTtmXUmBGSA+Ldt/EC3EyjJM4s+4mrX/dzjc66sk08FEYFsWcJQ6AJvc3DFLfrJO4ySc=
+nutj8fbqkck1r270p5ql0ubff7bekeip.engineering.	3600	in	nsec3	1 1 0 73 NVMQ6F92PRCTOSVO4LBD5O7G77UDF209 NS DS RRSIG
+nutj8fbqkck1r270p5ql0ubff7bekeip.engineering.	3600	in	rrsig	NSEC3 8 2 3600 20251002082011 20250911072011 37086 engineering. Aapm2jpdPgLqC7Mp1pAWxCdnYS1QYMgX3UQJLWphFm0DxA7ahqJUvKD9GVOmgPWW9ZwmG4O0G34SIoNbw5ORI5VhyFQFaRmU65vujD8xjpfPROITiEM/KhAVVTCDA4niz5K3qiKHEs4CdCZ3N2Jjzexu9UIb5b+aUDIC4yLOd5o=
 nutrifresh.engineering.	3600	in	ns	ns-1283.awsdns-32.org.
 nutrifresh.engineering.	3600	in	ns	ns-1764.awsdns-28.co.uk.
 nutrifresh.engineering.	3600	in	ns	ns-295.awsdns-36.com.
@@ -20887,8 +20883,6 @@ nv5.engineering.	3600	in	ns	ns29.worldnic.com.
 nv5.engineering.	3600	in	ns	ns30.worldnic.com.
 nvance.engineering.	3600	in	ns	ns29.domaincontrol.com.
 nvance.engineering.	3600	in	ns	ns30.domaincontrol.com.
-nvcglm2cpsc981s0g0u6qk7bot8fau3n.engineering.	3600	in	nsec3	1 1 0 73 NVMQ6F92PRCTOSVO4LBD5O7G77UDF209 NS DS RRSIG
-nvcglm2cpsc981s0g0u6qk7bot8fau3n.engineering.	3600	in	rrsig	NSEC3 8 2 3600 20250930152403 20250909142403 37086 engineering. OxRpIV9TKKdgXIro3knaH1CIBlHFjffJzFKyrMnExLuYXroCZGHoaOZc/2SyqgAxWMNn85NWK/mPlKh8DsGbvFT97epfr9AxSbOl7BhBTRWzp4GMDp/IQ/pR5wbntcCALclqMRHjge6ehpOjrRaA1vNzQJXqnkpJFdEVPsqoURA=
 nvidia.engineering.	3600	in	ns	curitiba.ns.porkbun.com.
 nvidia.engineering.	3600	in	ns	fortaleza.ns.porkbun.com.
 nvidia.engineering.	3600	in	ns	maceio.ns.porkbun.com.
@@ -22594,7 +22588,7 @@ pjnmcmj45lc03m4v44pq1semsgihtg8u.engineering.	3600	in	rrsig	NSEC3 8 2 3600 20250
 pk.engineering.	3600	in	ns	ns43.domaincontrol.com.
 pk.engineering.	3600	in	ns	ns44.domaincontrol.com.
 pk4s2nv9a629jdj09d7mb8d43tt5aur6.engineering.	3600	in	nsec3	1 1 0 73 PK5LD2CNML09HA80HH64JE01LM33987Q NS DS RRSIG
-pk4s2nv9a629jdj09d7mb8d43tt5aur6.engineering.	3600	in	rrsig	NSEC3 8 2 3600 20250930152403 20250909142403 37086 engineering. wJklJGtNvFTJ7TIk+sC2hW6ptlZHuusgvgEO7Zizx8o9m58OA9AYhn9yMQe03G86OeYV7ptb41ijQfu0a75xjpyERtNywYievnhVa1or5TJzIEL6RxDFy1jHyE2T4jDmm4cd+aFkBu5DgDEA9DGsBMiAIESdhxxJ932MTCNwp0Q=
+pk4s2nv9a629jdj09d7mb8d43tt5aur6.engineering.	3600	in	rrsig	NSEC3 8 2 3600 20251002230736 20250911220736 37086 engineering. uqpVcMbPJuimac63O9UAuCaFKAz3ioE1O4UnvR13MiGDnRTjH49TenPyhbK+gXwrv0GX8v5540IjUY3XrMN0yJn4kuNYS4yQOAxBtQYyOoN+XLUxo2pYCaJ8i2Enz00TRjQmnXwhcPjF6SdvB8I4YWxET5Gff4xZTc+K6EelLaI=
 pk5ld2cnml09ha80hh64je01lm33987q.engineering.	3600	in	nsec3	1 1 0 73 PLHK3AD9AMG92K10895RD013FN9R83HO NS DS RRSIG
 pk5ld2cnml09ha80hh64je01lm33987q.engineering.	3600	in	rrsig	NSEC3 8 2 3600 20250930152403 20250909142403 37086 engineering. XN1LIYMCK3JOV8CZDmfZ2kFHXjru+juPbHKs/ndVd2mlKr0sUw/vtkUGaz2vKUwHtPPkhB9dKjPFx9ZnS8HuWJLaJKTlKfb+u9w1Uyz5jejw5yRDUNJkQbIh7Dral5Ey4Tu6qc72jKhsuzFEfnLOMzrwWaZdlIYHq4yLb5LtCJM=
 pki-rail.engineering.	3600	in	ns	docks06.rzone.de.
@@ -23756,7 +23750,7 @@ r3verse.engineering.	3600	in	ns	ns-cloud-b3.googledomains.com.
 r3verse.engineering.	3600	in	ns	ns-cloud-b4.googledomains.com.
 r3verse.engineering.	3600	in	rrsig	DS 8 2 3600 20250930152403 20250909142403 37086 engineering. cYluGXuAUd6E9lmoj/ng0gjArucRabxBdd4bSFLmawinA8/ARfwtLwl7FjNEUQB0qSwB3/NmhRm49QiDML0nYz16W2IO4dvSsIAtx5HzXRoGfZzbcFYNDxblAPnGurqwGYFiXTl6rNMjukP5CzuL8Mi7LYxKZSEcPGWAQr2XesY=
 r4bkhpgdlpmjaajbgah2qub4linv38n6.engineering.	3600	in	nsec3	1 1 0 73 R6IM4GL89CEN9K20CRMJ9M3R1ELFOP47 NS SOA RRSIG DNSKEY NSEC3PARAM
-r4bkhpgdlpmjaajbgah2qub4linv38n6.engineering.	3600	in	rrsig	NSEC3 8 2 3600 20251002010706 20250911000706 37086 engineering. S9VNhPipRCUR9WmwyzPBJ/esof08y3MGbWCSctbtMS+piI3Uy8Fg1mUZMymzD8g40PSf7MvDgmodvfH218s5oyXVTOWd8yjM6WtrIW6SzWGfNJRoOpirNrxC18LVGBYm21SgvvPqtw66qQlMaRHAaHXcdui9REt13HZKB9+zbyU=
+r4bkhpgdlpmjaajbgah2qub4linv38n6.engineering.	3600	in	rrsig	NSEC3 8 2 3600 20251003010348 20250912000348 37086 engineering. UmQqRrXoNROU7DbG13TH0rxDFtmD2BRXbP4GvENBf4kUsDBAdw28jNZJJ/Mrzh0TcF4bOIS28TsL2YGVkBN5+lRgUjhgTylme3lH9jfmVOaT/I+AwHHp4BObC8+cqgT+m23DQPSZw/P4mIU0wV4F3kBfXy/qBXHPtsFchpML9G8=
 r6im4gl89cen9k20crmj9m3r1elfop47.engineering.	3600	in	nsec3	1 1 0 73 R7MFBJPBFVI0JL4O68O24BIF5L3A5588 NS DS RRSIG
 r6im4gl89cen9k20crmj9m3r1elfop47.engineering.	3600	in	rrsig	NSEC3 8 2 3600 20250930152403 20250909142403 37086 engineering. qnvIdUeNQgjhq2oIbwKeZNo0zPVVQtV1Jutnii4hRQVuZLpWIytNENXtkvk1EyTax5h7nX/pEKbatxaxgtVf4BqB8W6fFpgkCy/oeo0l8ugckh6t9uZVw0cHFNmBG8YtDlvm2MxjFHIDo/k9KWcdZDFhuQ/fUWgfU+nmyngV27Q=
 r7mfbjpbfvi0jl4o68o24bif5l3a5588.engineering.	3600	in	nsec3	1 1 0 73 R8H3FGM5F8OO6NPM79IHF85PEC8J09TO NS DS RRSIG
@@ -24410,6 +24404,10 @@ resend.engineering.	3600	in	ns	ns1.vercel-dns.com.
 resend.engineering.	3600	in	ns	ns2.vercel-dns.com.
 reservoir.engineering.	3600	in	ns	ns01.hostnet.nl.
 reservoir.engineering.	3600	in	ns	ns02.hostnet.nl.
+reshape.engineering.	3600	in	ns	ns1027.ui-dns.org.
+reshape.engineering.	3600	in	ns	ns1052.ui-dns.de.
+reshape.engineering.	3600	in	ns	ns1105.ui-dns.com.
+reshape.engineering.	3600	in	ns	ns1106.ui-dns.biz.
 resilient.engineering.	3600	in	ns	dns101.registrar-servers.com.
 resilient.engineering.	3600	in	ns	dns102.registrar-servers.com.
 resistance.engineering.	3600	in	ns	dns1.registrar-servers.com.
@@ -24501,8 +24499,8 @@ rewa.engineering.	3600	in	ns	ns1085.ui-dns.de.
 rewa.engineering.	3600	in	ns	ns1126.ui-dns.biz.
 reward.engineering.	3600	in	ns	launch1.spaceship.net.
 reward.engineering.	3600	in	ns	launch2.spaceship.net.
-rewardgateway.engineering.	3600	in	ns	ns1.bodis.com.
-rewardgateway.engineering.	3600	in	ns	ns2.bodis.com.
+rewardgateway.engineering.	3600	in	ns	ns1.dns-redirect.com.
+rewardgateway.engineering.	3600	in	ns	ns2.dns-redirect.com.
 rewind.engineering.	3600	in	ns	ns-1365.awsdns-42.org.
 rewind.engineering.	3600	in	ns	ns-2044.awsdns-63.co.uk.
 rewind.engineering.	3600	in	ns	ns-402.awsdns-50.com.
@@ -24983,8 +24981,8 @@ route.engineering.	3600	in	ns	ns-cloud-c3.googledomains.com.
 route.engineering.	3600	in	ns	ns-cloud-c4.googledomains.com.
 rover.engineering.	3600	in	ns	ns75.domaincontrol.com.
 rover.engineering.	3600	in	ns	ns76.domaincontrol.com.
-rowland.engineering.	3600	in	ns	ns1.bodis.com.
-rowland.engineering.	3600	in	ns	ns2.bodis.com.
+rowland.engineering.	3600	in	ns	ns1.dns-redirect.com.
+rowland.engineering.	3600	in	ns	ns2.dns-redirect.com.
 roy.engineering.	3600	in	ds	40286 8 2 3FBD7C72AFA0E9D0C42888ED5177F8AFD801CB959A0367F1182A2FCDD07F187E
 roy.engineering.	3600	in	ns	ns-cloud-b1.googledomains.com.
 roy.engineering.	3600	in	ns	ns-cloud-b2.googledomains.com.
@@ -27958,8 +27956,8 @@ superyachts.engineering.	3600	in	ns	curitiba.ns.porkbun.com.
 superyachts.engineering.	3600	in	ns	fortaleza.ns.porkbun.com.
 superyachts.engineering.	3600	in	ns	maceio.ns.porkbun.com.
 superyachts.engineering.	3600	in	ns	salvador.ns.porkbun.com.
-supper.engineering.	3600	in	ns	ns1.bodis.com.
-supper.engineering.	3600	in	ns	ns2.bodis.com.
+supper.engineering.	3600	in	ns	ns1.dns-redirect.com.
+supper.engineering.	3600	in	ns	ns2.dns-redirect.com.
 supplyframe.engineering.	3600	in	ns	ns-1488.awsdns-58.org.
 supplyframe.engineering.	3600	in	ns	ns-1562.awsdns-03.co.uk.
 supplyframe.engineering.	3600	in	ns	ns-294.awsdns-36.com.
@@ -28342,8 +28340,6 @@ tale.engineering.	3600	in	ns	etta.ns.cloudflare.com.
 tale.engineering.	3600	in	ns	josh.ns.cloudflare.com.
 talent.engineering.	3600	in	ns	ns33.domaincontrol.com.
 talent.engineering.	3600	in	ns	ns34.domaincontrol.com.
-talentsourcing.engineering.	3600	in	ns	docks17.rzone.de.
-talentsourcing.engineering.	3600	in	ns	shades12.rzone.de.
 talethril.engineering.	3600	in	ns	jamie.ns.cloudflare.com.
 talethril.engineering.	3600	in	ns	walt.ns.cloudflare.com.
 talis.engineering.	3600	in	ns	ns-1098.awsdns-09.org.
@@ -29078,8 +29074,8 @@ threat.engineering.	3600	in	ns	ns12.dnsmadeeasy.com.
 threat.engineering.	3600	in	ns	ns13.dnsmadeeasy.com.
 threat.engineering.	3600	in	ns	ns14.dnsmadeeasy.com.
 threat.engineering.	3600	in	ns	ns15.dnsmadeeasy.com.
-three.engineering.	3600	in	ns	ns1.bodis.com.
-three.engineering.	3600	in	ns	ns2.bodis.com.
+three.engineering.	3600	in	ns	ns1.dns-redirect.com.
+three.engineering.	3600	in	ns	ns2.dns-redirect.com.
 threebie.engineering.	3600	in	ns	ns1-05.azure-dns.com.
 threebie.engineering.	3600	in	ns	ns2-05.azure-dns.net.
 threebie.engineering.	3600	in	ns	ns3-05.azure-dns.org.
@@ -32635,4 +32631,4 @@ zynergy.engineering.	3600	in	ns	ns19.domaincontrol.com.
 zynergy.engineering.	3600	in	ns	ns20.domaincontrol.com.
 zzz.engineering.	3600	in	ns	dns1.onamae.com.
 zzz.engineering.	3600	in	ns	dns2.onamae.com.
-engineering.	3600	in	soa	v0n0.nic.engineering. hostmaster.donuts.email. 1757552638 7200 900 1209600 3600
+engineering.	3600	in	soa	v0n0.nic.engineering. hostmaster.donuts.email. 1757638848 7200 900 1209600 3600
