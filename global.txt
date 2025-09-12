@@ -1,4 +1,4 @@
-global.	3600	in	soa	a0.nic.global. hostmaster.donuts.email. 1757553335 7200 900 1209600 3600
+global.	3600	in	soa	a0.nic.global. hostmaster.donuts.email. 1757638905 7200 900 1209600 3600
 0-0.global.	3600	in	ns	apollo.ns.cloudflare.com.
 0-0.global.	3600	in	ns	donna.ns.cloudflare.com.
 0.global.	3600	in	ns	ns1218.ispapi.net.
@@ -302,12 +302,6 @@ global.	3600	in	soa	a0.nic.global. hostmaster.donuts.email. 1757553335 7200 900 
 1000.global.	3600	in	ns	dns4.hichina.com.
 10000.global.	3600	in	ns	ns39.domaincontrol.com.
 10000.global.	3600	in	ns	ns40.domaincontrol.com.
-1000days.global.	3600	in	ds	42761 15 2 8E09CAACB499F7E74E1560DD8DAF7047FB26BC2C59D5AA7151C204117032B110
-1000days.global.	3600	in	ds	42761 15 4 D014A39DC3A209C62F02F309AC3F52BD683FB97CAF5978FD2EE82DF9B10C1363D08A1EB31CD5F54C09E7626FC2E4E933
-1000days.global.	3600	in	ns	ns1.expireddomain.hyp.net.
-1000days.global.	3600	in	ns	ns2.expireddomain.hyp.net.
-1000days.global.	3600	in	ns	ns3.expireddomain.hyp.net.
-1000days.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. ipws7Ta80CgO6+swEBKMmWD+GYaSsN3SbhZnTYyyEFk4XgOnmXLqDk23jPDOY/7J33SfsQHT20SVXHx2PuZSflyuTjnxVRC92qZ6p+vlQb91BuU8lRBZWgGXikCviJKZLbkO7rQEmQDxNBmlnmXsK4QrRfImDDCb9KhIjDovE5E=
 1000intercessors.global.	3600	in	ns	ns6.wixdns.net.
 1000intercessors.global.	3600	in	ns	ns7.wixdns.net.
 1000prayers.global.	3600	in	ns	ns59.domaincontrol.com.
@@ -1172,6 +1166,8 @@ global.	3600	in	soa	a0.nic.global. hostmaster.donuts.email. 1757553335 7200 900 
 24k.global.	3600	in	ns	ns54.domaincontrol.com.
 24med.global.	3600	in	ns	ns29.domaincontrol.com.
 24med.global.	3600	in	ns	ns30.domaincontrol.com.
+24ri.global.	3600	in	ns	ns37.domaincontrol.com.
+24ri.global.	3600	in	ns	ns38.domaincontrol.com.
 24sam.global.	3600	in	ns	ns25.domaincontrol.com.
 24sam.global.	3600	in	ns	ns26.domaincontrol.com.
 24seven.global.	3600	in	ns	ns1.dns-parking.com.
@@ -4220,8 +4216,10 @@ global.	3600	in	soa	a0.nic.global. hostmaster.donuts.email. 1757553335 7200 900 
 9b0b5tqpoi51gerotot1een62u2i9orv.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. U40rlwZ9YXSNBkQi4s+epCXI496oRupWdiKm+zi9R26oaRyAFfRJAEGMhwuBGpxS9giA10gjZKrPm+jptxRS9zjr3sg1OR46RxNplBT1VWdVmPesyOYbE7xVQBR1Wl3evv/898y16UfemP8UvsCJL0+NNbrA94F0WT3E1VGfRMU=
 9bj88l5hfd1buhdrnup7sjpk2rks1lf5.global.	3600	in	nsec3	1 1 0 73 9BVVG7PICR81FP6IILMG2FKG2UMRA4R6 NS DS RRSIG
 9bj88l5hfd1buhdrnup7sjpk2rks1lf5.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. kk9wCwiPT86tnYvrIgCn/3H9ZZqGuzqOw/8z2prG2Jkc+jgJS1aWaKtZMVFwmnq8B/M4bvkge27Ic39sbzq5JlSwG3PKmJvFuaUQ6owVyVHah5FiRnXEZ611PB+3BjP26EE7+QKsacnXsfWsh3Bsc8DSXJ1OvwreX2PfdLlh6Kk=
-9bvvg7picr81fp6iilmg2fkg2umra4r6.global.	3600	in	nsec3	1 1 0 73 9C6PFDC32MBSGQMSA7JKJUDUNJG6VKVE NS DS RRSIG
-9bvvg7picr81fp6iilmg2fkg2umra4r6.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. kjJ5dCQxIQ1OAQyl9fedxGH/MObQjR7RFSxubGOb8j4wta2oEYkVsk2h1xzSK4N89tddRGqL/lvbWqg/jc66adkLpqc976esvMsDOeI7pJQ3Lizgqq+cMesTjwx3ZVhIMV3Bo6fapTDRUzW680dxxdQaDz6StxGbHBSbn/QnBfo=
+9bvvg7picr81fp6iilmg2fkg2umra4r6.global.	3600	in	nsec3	1 1 0 73 9C0ITAOI9910PO1ADFAAQUPHMCLPNPPS NS DS RRSIG
+9bvvg7picr81fp6iilmg2fkg2umra4r6.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002134916 20250911124916 63453 global. hrUB0xjs7KbEyegtl7IBFgdKExa+4qhtpysfqeZ/nnCgbqH1MjEQAm4YFKCmampah4SoNHQL14rTjrCzGXWFRv/PqMYtrVCGuGBvh1egYft6hkj072TXUh/tUDI/qiiTxlo+21MgAaPNY3sKz1ey7Fd+j0BsX9VKcbGpWYwqEzc=
+9c0itaoi9910po1adfaaquphmclpnpps.global.	3600	in	nsec3	1 1 0 73 9C6PFDC32MBSGQMSA7JKJUDUNJG6VKVE NS DS RRSIG
+9c0itaoi9910po1adfaaquphmclpnpps.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002134916 20250911124916 63453 global. BI0/Yt6cAZ5ofExLU1dtBwn3cFgC0Un4KwRt2npGCwxBUYEvZLGa10YmP8HIjru14EMLK6upoNWRokp4eUdDNVId6+ajGpaRyTnK7d79BowOb0mZ33wN++ddpC6+v2Xut+m7QP9o6BA+iSaoAk40vAfVPWyxXGgUL3MMqO+uVeQ=
 9c6pfdc32mbsgqmsa7jkjudunjg6vkve.global.	3600	in	nsec3	1 1 0 73 9DC34J55QT0RBMCBCF84178D1JH9HJNV NS DS RRSIG
 9c6pfdc32mbsgqmsa7jkjudunjg6vkve.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. kVb6pe/+wmCO/GwhGcjE7O369/+MfwaLbYPqFVNqblzGQhMy2YXjSR8VjvnJq1EG2uoBu8wfv53EXrfrA3fav6PDclsTljQzAVPx1rAKXGGPsjqqofwxc1ZUbD8b5O3IDs6NIltXekgbrD9LdRtYvAZRI67v0/pzw5D4966mwM0=
 9dc34j55qt0rbmcbcf84178d1jh9hjnv.global.	3600	in	nsec3	1 1 0 73 9E41NU4MV3O576GHJTODMMQQ30JLN5M6 NS DS RRSIG
@@ -6040,6 +6038,8 @@ adhoc.global.	3600	in	ns	dns2.name-services.com.
 adhoc.global.	3600	in	ns	dns3.name-services.com.
 adhoc.global.	3600	in	ns	dns4.name-services.com.
 adhoc.global.	3600	in	ns	dns5.name-services.com.
+adib.global.	3600	in	ns	ns37.domaincontrol.com.
+adib.global.	3600	in	ns	ns38.domaincontrol.com.
 adicom.global.	3600	in	ns	dns7.hichina.com.
 adicom.global.	3600	in	ns	dns8.hichina.com.
 adieu.global.	3600	in	ds	64319 13 2 F38D7CC6542F6C6FD63818BD3A6D73B61F225620AC667E5345C9BA8FBB3B4EA4
@@ -6489,8 +6489,8 @@ aempartners.global.	3600	in	ns	ns75.domaincontrol.com.
 aempartners.global.	3600	in	ns	ns76.domaincontrol.com.
 aenz.global.	3600	in	ns	dns1.registrar-servers.com.
 aenz.global.	3600	in	ns	dns2.registrar-servers.com.
-aeoncoin.global.	3600	in	ns	dns1.registrar-servers.com.
-aeoncoin.global.	3600	in	ns	dns2.registrar-servers.com.
+aeoncoin.global.	3600	in	ns	dns101.registrar-servers.com.
+aeoncoin.global.	3600	in	ns	dns102.registrar-servers.com.
 aeonmall.global.	3600	in	ns	01.dnsv.jp.
 aeonmall.global.	3600	in	ns	02.dnsv.jp.
 aeonmall.global.	3600	in	ns	03.dnsv.jp.
@@ -6996,6 +6996,8 @@ afrvihp6q083lib1aavo9d1mlgo39pu8.global.	3600	in	nsec3	1 1 0 73 AFTU4AGRA9EF8C9H
 afrvihp6q083lib1aavo9d1mlgo39pu8.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. tfll4mOAy4jBc+qcpQlJClCyfFzknr8fIfzdeiPR8yq3TQz9qoigGy1SfsW94n2r/g87CNpP5gaoYmVX/EEOpkZ7VATbtK4YXdyN+AqinFXMvXIkFuJsr7P0b6KinEDlnn8ayczJTsjTqcwcJcBXVs67bkLbmlTCBCGKRT5RaYM=
 afs.global.	3600	in	ns	pdns05.domaincontrol.com.
 afs.global.	3600	in	ns	pdns06.domaincontrol.com.
+afsc.global.	3600	in	ns	ns31.domaincontrol.com.
+afsc.global.	3600	in	ns	ns32.domaincontrol.com.
 afsifilters.global.	3600	in	ns	ns59.domaincontrol.com.
 afsifilters.global.	3600	in	ns	ns60.domaincontrol.com.
 after-market.global.	3600	in	ns	dns200.anycast.me.
@@ -8108,6 +8110,8 @@ aiemployee.global.	3600	in	ns	dns1.registrar-servers.com.
 aiemployee.global.	3600	in	ns	dns2.registrar-servers.com.
 aiemployees.global.	3600	in	ns	dns1.registrar-servers.com.
 aiemployees.global.	3600	in	ns	dns2.registrar-servers.com.
+aiequity.global.	3600	in	ns	ns67.domaincontrol.com.
+aiequity.global.	3600	in	ns	ns68.domaincontrol.com.
 aier.global.	3600	in	ns	ns-1299.awsdns-34.org.
 aier.global.	3600	in	ns	ns-1985.awsdns-56.co.uk.
 aier.global.	3600	in	ns	ns-634.awsdns-15.net.
@@ -8373,8 +8377,6 @@ aimi.global.	3600	in	ns	ns13.domaincontrol.com.
 aimi.global.	3600	in	ns	ns14.domaincontrol.com.
 aimil.global.	3600	in	ns	ns03.domaincontrol.com.
 aimil.global.	3600	in	ns	ns04.domaincontrol.com.
-aimilpharma.global.	3600	in	ns	ns65.domaincontrol.com.
-aimilpharma.global.	3600	in	ns	ns66.domaincontrol.com.
 aimindex.global.	3600	in	ns	ns1.reg.ru.
 aimindex.global.	3600	in	ns	ns2.reg.ru.
 aimm.global.	3600	in	ns	ns27.domaincontrol.com.
@@ -8430,6 +8432,10 @@ aio.global.	3600	in	ns	ns-cloud-e2.googledomains.com.
 aio.global.	3600	in	ns	ns-cloud-e3.googledomains.com.
 aio.global.	3600	in	ns	ns-cloud-e4.googledomains.com.
 aio.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. XVy5LkXOal7VQK0ewz/8H+J8LP+nWhkuApVOqc0jbsxOEweV4k1is26gwAoWfu1H25ZRHiKLlsi8yKYm3PSnN+rIWenzpWCNaG+PKSuOkNDYtGvd8xcYPA8c2KQVzESYI29NwxkqtNwYpfk8jQxw8qwFBFbwK/245H4qtw64opw=
+aioffset.global.	3600	in	ns	ns47.domaincontrol.com.
+aioffset.global.	3600	in	ns	ns48.domaincontrol.com.
+aioffsets.global.	3600	in	ns	ns37.domaincontrol.com.
+aioffsets.global.	3600	in	ns	ns38.domaincontrol.com.
 aion.global.	3600	in	ns	ns25.domaincontrol.com.
 aion.global.	3600	in	ns	ns26.domaincontrol.com.
 aione.global.	3600	in	ns	ns3.za-dns.com.
@@ -10466,6 +10472,8 @@ altrava.global.	3600	in	ns	ns13.dnsmadeeasy.com.
 altrava.global.	3600	in	ns	ns14.dnsmadeeasy.com.
 altrego.global.	3600	in	ns	jermaine.ns.cloudflare.com.
 altrego.global.	3600	in	ns	peaches.ns.cloudflare.com.
+altrextrade.global.	3600	in	ns	ns1.dns-parking.com.
+altrextrade.global.	3600	in	ns	ns2.dns-parking.com.
 altria.global.	3600	in	ns	dns1.cscdns.net.
 altria.global.	3600	in	ns	dns2.cscdns.net.
 altrics.global.	3600	in	ns	ns71.domaincontrol.com.
@@ -11274,6 +11282,8 @@ anax.global.	3600	in	ns	ns37.domaincontrol.com.
 anax.global.	3600	in	ns	ns38.domaincontrol.com.
 anba.global.	3600	in	ns	ns45.domaincontrol.com.
 anba.global.	3600	in	ns	ns46.domaincontrol.com.
+ancestralintelligence.global.	3600	in	ns	ns47.domaincontrol.com.
+ancestralintelligence.global.	3600	in	ns	ns48.domaincontrol.com.
 ancestryindia.global.	3600	in	ns	ns41.domaincontrol.com.
 ancestryindia.global.	3600	in	ns	ns42.domaincontrol.com.
 ancestrylocator.global.	3600	in	ns	ns1.bodis.com.
@@ -11310,6 +11320,10 @@ ancientfuture.global.	3600	in	ns	ns67.domaincontrol.com.
 ancientfuture.global.	3600	in	ns	ns68.domaincontrol.com.
 ancillary.global.	3600	in	ns	ns77.domaincontrol.com.
 ancillary.global.	3600	in	ns	ns78.domaincontrol.com.
+ancort.global.	3600	in	ns	ns-cloud-d1.googledomains.com.
+ancort.global.	3600	in	ns	ns-cloud-d2.googledomains.com.
+ancort.global.	3600	in	ns	ns-cloud-d3.googledomains.com.
+ancort.global.	3600	in	ns	ns-cloud-d4.googledomains.com.
 and.global.	3600	in	ns	ns-1303.awsdns-34.org.
 and.global.	3600	in	ns	ns-1713.awsdns-22.co.uk.
 and.global.	3600	in	ns	ns-83.awsdns-10.com.
@@ -11930,8 +11944,6 @@ anything.global.	3600	in	ns	ns1.eftydns.com.
 anything.global.	3600	in	ns	ns2.eftydns.com.
 anythingconnected.global.	3600	in	ns	ns.canaca.net.
 anythingconnected.global.	3600	in	ns	ns2.canaca.net.
-anythingispossible.global.	3600	in	ns	ns51.domaincontrol.com.
-anythingispossible.global.	3600	in	ns	ns52.domaincontrol.com.
 anytime.global.	3600	in	ns	ns3-l2.nic.ru.
 anytime.global.	3600	in	ns	ns4-cloud.nic.ru.
 anytime.global.	3600	in	ns	ns4-l2.nic.ru.
@@ -13696,8 +13708,6 @@ artemis-investments.global.	3600	in	ns	ns21.domaincontrol.com.
 artemis-investments.global.	3600	in	ns	ns22.domaincontrol.com.
 artemis.global.	3600	in	ns	ns2.wixdns.net.
 artemis.global.	3600	in	ns	ns3.wixdns.net.
-artemisgroup.global.	3600	in	ns	ns39.domaincontrol.com.
-artemisgroup.global.	3600	in	ns	ns40.domaincontrol.com.
 artemisx.global.	3600	in	ns	ns1.netfirms.com.
 artemisx.global.	3600	in	ns	ns2.netfirms.com.
 artemon.global.	3600	in	ns	dns1.namecheaphosting.com.
@@ -14095,8 +14105,6 @@ asgar.global.	3600	in	ns	ns39.domaincontrol.com.
 asgar.global.	3600	in	ns	ns40.domaincontrol.com.
 asgard.global.	3600	in	ns	ns57.domaincontrol.com.
 asgard.global.	3600	in	ns	ns58.domaincontrol.com.
-asgroup.global.	3600	in	ns	ns1.ns306.parklogic.com.
-asgroup.global.	3600	in	ns	ns2.ns306.parklogic.com.
 asgs.global.	3600	in	ns	brenna.ns.cloudflare.com.
 asgs.global.	3600	in	ns	kaiser.ns.cloudflare.com.
 asha.global.	3600	in	ns	ns61.domaincontrol.com.
@@ -14740,8 +14748,10 @@ at-net.global.	3600	in	ns	ns2.digitalocean.com.
 at-net.global.	3600	in	ns	ns3.digitalocean.com.
 at-one.global.	3600	in	ns	ns53.domaincontrol.com.
 at-one.global.	3600	in	ns	ns54.domaincontrol.com.
-at1788dpivhehshtssp1lgm1830g68h9.global.	3600	in	nsec3	1 1 0 73 AT33RU93EA0TRJ9KHJ5R62EEBAAVOJ91 NS DS RRSIG
-at1788dpivhehshtssp1lgm1830g68h9.global.	3600	in	rrsig	NSEC3 8 2 3600 20251001035038 20250910025038 63453 global. lFQLwsqdGDjsU1U04x27mt60SYyFsFXooAbIgdPHx1e0slU2dJjc3K6+A4pGIhHNTvGiiYSrbAzJhDcEVOTORjXzn7mCR3Oh6Bb3QxT6XB3PwgBUgIN6tziTx/SXc6ujkudOovhE+OmpIJ3XCgWUkuiQCloKM2GagoC4IAF7Ask=
+at1788dpivhehshtssp1lgm1830g68h9.global.	3600	in	nsec3	1 1 0 73 AT1TKPP8TNHAERTPRQC5IM0BEKUPPOBL NS DS RRSIG
+at1788dpivhehshtssp1lgm1830g68h9.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002034704 20250911024704 63453 global. GvcCjjy4ikzFW6MyQ4rKu33CGZRY3gjQ3xR7f6EdJ9VEmIF18zj7tyuigBPyb8/yFZvMWBSimNe6Tna74woHbWsNrvHSpzK3ny+/Nbjq9G0QP/506oW9rj2tsRWKMjUtEN/gPS9cg0W+EAZYUxZ2HaFDxvRL7LWNeaqdVtlIbYE=
+at1tkpp8tnhaertprqc5im0bekuppobl.global.	3600	in	nsec3	1 1 0 73 AT33RU93EA0TRJ9KHJ5R62EEBAAVOJ91 NS DS RRSIG
+at1tkpp8tnhaertprqc5im0bekuppobl.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002034704 20250911024704 63453 global. ZAPDjhxoBA8JaIzFTC6Vy4C7Ln17lsndU+DK6c6WZ0aUQN3ysxz5lrN0QGGmFMKjaTXpJkiMjbjeplQgFIUIJsHZ1/Bj1ynjFOHPpUdft3p7zQEuq17Odsl0Gn0zcejAeCCVTjkXPTpCiN2PXsfAhtvsXqjj6kZfKzwCegj4gPk=
 at33ru93ea0trj9khj5r62eebaavoj91.global.	3600	in	nsec3	1 1 0 73 ATMMQ5MO4G8VV79K3S0E6VLJ29SH01J4 NS DS RRSIG
 at33ru93ea0trj9khj5r62eebaavoj91.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. a3oHhmekzUbl5A5XFg0zJ4Zv0ZzfxpkUtqm39R07BuG39rKuz9Mggy/hOQrFFvtq9TFB4s4dkF0DurpUsjCsk1QVM9R0U655hGlHiE83CSCSDqa+6vphfXh/jwNkRYEsT68noQf94nXOX25om3D8Ld+3PXvquPKgMYaR2odQM9Q=
 at4.global.	3600	in	ns	dns1.registrar-servers.com.
@@ -15565,8 +15575,8 @@ auth.global.	3600	in	ns	ns-cloud-e2.googledomains.com.
 auth.global.	3600	in	ns	ns-cloud-e3.googledomains.com.
 auth.global.	3600	in	ns	ns-cloud-e4.googledomains.com.
 auth.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. nCoCnVvC7P3+Xv5CZv/I9j4SmAN8iO6U9yB6fzrjMuA0mVp3ONqm7lCgwtFRSmOp/LFyi9ORgR50iSNtp/6MQJ35YrIeYtsv+2gvPkZ7kaXYXNKVAN79AHoRDQoD0xyb+dOuo0iJUgcVr0IJWnPbPVkIblrgEF2RRof4jlE/NrE=
-authentech.global.	3600	in	ns	ns1.infraestrutura-manus.com.
-authentech.global.	3600	in	ns	ns2.infraestrutura-manus.com.
+authentech.global.	3600	in	ns	ns1.dns-parking.com.
+authentech.global.	3600	in	ns	ns2.dns-parking.com.
 authentic.global.	3600	in	ns	dns101.register.com.
 authentic.global.	3600	in	ns	dns102.register.com.
 authenticate.global.	3600	in	ns	abby.ns.cloudflare.com.
@@ -15915,6 +15925,8 @@ avaonline.global.	3600	in	ns	ns-1387.awsdns-45.org.
 avaonline.global.	3600	in	ns	ns-1558.awsdns-02.co.uk.
 avaonline.global.	3600	in	ns	ns-308.awsdns-38.com.
 avaonline.global.	3600	in	ns	ns-926.awsdns-51.net.
+avara.global.	3600	in	ns	ns47.domaincontrol.com.
+avara.global.	3600	in	ns	ns48.domaincontrol.com.
 avari.global.	3600	in	ns	ns73.worldnic.com.
 avari.global.	3600	in	ns	ns74.worldnic.com.
 avarice.global.	3600	in	ns	ns15.worldnic.com.
@@ -16384,10 +16396,8 @@ axcelus.global.	3600	in	ns	dns1.comlaude-dns.com.
 axcelus.global.	3600	in	ns	dns2.comlaude-dns.net.
 axcelus.global.	3600	in	ns	dns3.comlaude-dns.co.uk.
 axcelus.global.	3600	in	ns	dns4.comlaude-dns.eu.
-axcess.global.	3600	in	ns	ns1.stackdns.com.
-axcess.global.	3600	in	ns	ns2.stackdns.com.
-axcess.global.	3600	in	ns	ns3.stackdns.com.
-axcess.global.	3600	in	ns	ns4.stackdns.com.
+axcess.global.	3600	in	ns	ns67.domaincontrol.com.
+axcess.global.	3600	in	ns	ns68.domaincontrol.com.
 axclusive.global.	3600	in	ns	eric.ns.cloudflare.com.
 axclusive.global.	3600	in	ns	zoe.ns.cloudflare.com.
 axe.global.	3600	in	ns	ns53.domaincontrol.com.
@@ -16427,6 +16437,10 @@ axiomsl.global.	3600	in	ns	ns71.domaincontrol.com.
 axiomsl.global.	3600	in	ns	ns72.domaincontrol.com.
 axion.global.	3600	in	ns	aisha.ns.cloudflare.com.
 axion.global.	3600	in	ns	yevgen.ns.cloudflare.com.
+axionedge.global.	3600	in	ns	main.nameserver1.co.za.
+axionedge.global.	3600	in	ns	main.nameserver2.co.za.
+axionedge.global.	3600	in	ns	main.nameserver3.co.za.
+axionedge.global.	3600	in	ns	main.nameserver4.co.za.
 axiontech.global.	3600	in	ns	ns1.dns-parking.com.
 axiontech.global.	3600	in	ns	ns2.dns-parking.com.
 axios.global.	3600	in	ns	ns37.domaincontrol.com.
@@ -22390,8 +22404,9 @@ bollyflix.global.	3600	in	ns	bart.ns.cloudflare.com.
 bollyflix.global.	3600	in	ns	cortney.ns.cloudflare.com.
 bolt-token.global.	3600	in	ns	chris.ns.cloudflare.com.
 bolt-token.global.	3600	in	ns	gemma.ns.cloudflare.com.
-bolt.global.	3600	in	ns	cameron.ns.cloudflare.com.
-bolt.global.	3600	in	ns	chelsea.ns.cloudflare.com.
+bolt.global.	3600	in	ns	ns1.digitalocean.com.
+bolt.global.	3600	in	ns	ns2.digitalocean.com.
+bolt.global.	3600	in	ns	ns3.digitalocean.com.
 boltech.global.	3600	in	ns	dns1.registrar-servers.com.
 boltech.global.	3600	in	ns	dns2.registrar-servers.com.
 bolton.global.	3600	in	ns	ns23.domaincontrol.com.
@@ -22568,6 +22583,8 @@ boomerbenefits.global.	3600	in	ns	dns1.registrar-servers.com.
 boomerbenefits.global.	3600	in	ns	dns2.registrar-servers.com.
 boompoker.global.	3600	in	ns	dns1.registrar-servers.com.
 boompoker.global.	3600	in	ns	dns2.registrar-servers.com.
+boon.global.	3600	in	ns	dns1.registrar-servers.com.
+boon.global.	3600	in	ns	dns2.registrar-servers.com.
 boonedam.global.	3600	in	ds	32851 8 2 0A1EDF051A26738E1AE8DA24CE0A7798E8B3390DEC3A67EF550156E7C845767D
 boonedam.global.	3600	in	ns	ns1.argewebhosting.eu.
 boonedam.global.	3600	in	ns	ns2.argewebhosting.com.
@@ -25574,10 +25591,6 @@ callme.global.	3600	in	ns	casey.ns.cloudflare.com.
 callme.global.	3600	in	ns	melina.ns.cloudflare.com.
 calltaxee.global.	3600	in	ns	ns31.worldnic.com.
 calltaxee.global.	3600	in	ns	ns32.worldnic.com.
-calltoprayer.global.	3600	in	ds	1876 13 2 B09BD1769E2C7FD41968492679AF5B12295FB01823FA6F18E99D53FA3DC1A6A2
-calltoprayer.global.	3600	in	ns	ns3.epik.com.
-calltoprayer.global.	3600	in	ns	ns4.epik.com.
-calltoprayer.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. FAwQmUDiUlR2R9PQGCp+mVU28eWMQGJ5LlzKMgSuSB30YAP2x9LeZt4n/moIYZ6OZ+6qthpC761gCCGk0wbzdLy1TLd6Uo8WFiK+sk/tDd674FOGvjPhNAoKzA8vF6yhdFUql5xw41y09YMVrAAA+BDZk5/h49THYi6djS4dt1Q=
 calltower.global.	3600	in	ns	ns53.domaincontrol.com.
 calltower.global.	3600	in	ns	ns54.domaincontrol.com.
 calspec.global.	3600	in	ns	ns1.dns-h.com.
@@ -26911,9 +26924,9 @@ castledine.global.	3600	in	ns	ns2.digitalocean.com.
 castledine.global.	3600	in	ns	ns3.digitalocean.com.
 castler.global.	3600	in	ns	ns01.domaincontrol.com.
 castler.global.	3600	in	ns	ns02.domaincontrol.com.
-castman.global.	3600	in	ns	ina1.registrar.eu.
-castman.global.	3600	in	ns	ina2.registrar.eu.
-castman.global.	3600	in	ns	ina3.registrar.eu.
+castman.global.	3600	in	ns	ns1.openprovider.nl.
+castman.global.	3600	in	ns	ns2.openprovider.be.
+castman.global.	3600	in	ns	ns3.openprovider.eu.
 casto.global.	3600	in	ns	ns15.domaincontrol.com.
 casto.global.	3600	in	ns	ns16.domaincontrol.com.
 castor.global.	3600	in	ds	19912 8 2 E9F76985851A993E3C3B1FE978D437778E90D738BC0B8113D423A7B06C6E01E9
@@ -27018,8 +27031,8 @@ catgirl.global.	3600	in	ns	ns3.as207960.net.
 catgirl.global.	3600	in	ns	ns4.as207960.net.
 catharsys.global.	3600	in	ns	ns10.wixdns.net.
 catharsys.global.	3600	in	ns	ns11.wixdns.net.
-cathay.global.	3600	in	ns	ns1.inmotionhosting.com.
-cathay.global.	3600	in	ns	ns2.inmotionhosting.com.
+cathay.global.	3600	in	ns	ns67.domaincontrol.com.
+cathay.global.	3600	in	ns	ns68.domaincontrol.com.
 cathedral.global.	3600	in	ns	ns41.domaincontrol.com.
 cathedral.global.	3600	in	ns	ns42.domaincontrol.com.
 cathedraloftruth.global.	3600	in	ns	ns49.domaincontrol.com.
@@ -27253,11 +27266,9 @@ cccpkg.global.	3600	in	ns	ns1.whois.com.
 cccpkg.global.	3600	in	ns	ns2.whois.com.
 cccpkg.global.	3600	in	ns	ns3.whois.com.
 cccpkg.global.	3600	in	ns	ns4.whois.com.
-cccreate.global.	3600	in	ds	10984 8 2 DE4E48D3DFE2399FEFB4F2A9A0228E1660DF3AF42150D3276AE3A7554C9FDEAD
-cccreate.global.	3600	in	ns	ns1.openprovider.nl.
-cccreate.global.	3600	in	ns	ns2.openprovider.be.
-cccreate.global.	3600	in	ns	ns3.openprovider.eu.
-cccreate.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. Tw4qzCLq/V7oPdgt048idA7/oOgShdjC4DVzz7RI4a0W4dA176YfU1SQO4JTJIT9hGiDpJ/esqE5/vSxfGn+TjAOR0zvvA+fiBMH5i7tIMyJniVPHklSkElTDlI36hGoqzVE0nYOnSi9hSrkODmFgZRLK0JPCkNUiJiIzux/yXs=
+cccreate.global.	3600	in	ns	ina1.registrar.eu.
+cccreate.global.	3600	in	ns	ina2.registrar.eu.
+cccreate.global.	3600	in	ns	ina3.registrar.eu.
 ccd.global.	3600	in	ns	ns53.domaincontrol.com.
 ccd.global.	3600	in	ns	ns54.domaincontrol.com.
 ccec.global.	3600	in	ns	ns51.domaincontrol.com.
@@ -27781,6 +27792,8 @@ centralasiaforum.global.	3600	in	ns	ns1.dns-parking.com.
 centralasiaforum.global.	3600	in	ns	ns2.dns-parking.com.
 centralbank.global.	3600	in	ns	dns1.registrar-servers.com.
 centralbank.global.	3600	in	ns	dns2.registrar-servers.com.
+centralcommand.global.	3600	in	ns	hybrid2094-1.ca.ns.planethoster.net.
+centralcommand.global.	3600	in	ns	hybrid2094.ca.ns.planethoster.net.
 centralfloridaland.global.	3600	in	ns	ns27.domaincontrol.com.
 centralfloridaland.global.	3600	in	ns	ns28.domaincontrol.com.
 centralis.global.	3600	in	ns	ns1.eurodns.com.
@@ -31070,6 +31083,8 @@ cnex.global.	3600	in	ns	dns1.registrar-servers.com.
 cnex.global.	3600	in	ns	dns2.registrar-servers.com.
 cnf.global.	3600	in	ns	ns03.domaincontrol.com.
 cnf.global.	3600	in	ns	ns04.domaincontrol.com.
+cnfans.global.	3600	in	ns	ns67.domaincontrol.com.
+cnfans.global.	3600	in	ns	ns68.domaincontrol.com.
 cngsbrasn024qputb5kft5kcgeebb8du.global.	3600	in	nsec3	1 1 0 73 CNU1HABH59QATQBSADPDKR22UQI4GH3R NS DS RRSIG
 cngsbrasn024qputb5kft5kcgeebb8du.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. XdMHBes/f++kVL8Yo7DrVfh6j2TKtf+SL1TRpHc1cn70oz7gw9nXfXMlw3V92gB+zXZJFkemnviURMHZmUNpzXcoWicbZSLSaqsLYFfa+PM6NwyIkJwis/2XcUd3ew168xaStGc7UwyCJRdwJG4Cnp+aKaSDEbA9vwGEyH2C8wk=
 cnhaul.global.	3600	in	ns	ns1.dyna-ns.net.
@@ -32304,6 +32319,8 @@ complex.global.	3600	in	ns	ns1023.ui-dns.de.
 complex.global.	3600	in	ns	ns1039.ui-dns.biz.
 complex.global.	3600	in	ns	ns1061.ui-dns.org.
 complex.global.	3600	in	ns	ns1062.ui-dns.com.
+complexity.global.	3600	in	ns	ns31.domaincontrol.com.
+complexity.global.	3600	in	ns	ns32.domaincontrol.com.
 compliancebazaar.global.	3600	in	ns	ns1.netfirms.com.
 compliancebazaar.global.	3600	in	ns	ns2.netfirms.com.
 compliancescore.global.	3600	in	ns	ns31.domaincontrol.com.
@@ -36280,7 +36297,7 @@ d0i0jinjr28la94vllrous769qd87e64.global.	3600	in	rrsig	NSEC3 8 2 3600 2025093015
 d0rihm86f357dc6tk3o0rdi2v1f6sfoq.global.	3600	in	nsec3	1 1 0 73 D0UTA7ME64I0VM6DVDKG938M5NKE88G7 NS DS RRSIG
 d0rihm86f357dc6tk3o0rdi2v1f6sfoq.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. gjGddCCjFg4IE5FSfvQuhqYoXBpjWvGoast82C/ykQZIzAY29QUQeqq1efVsCItvEqf0fjOQJwKP3aFnXzknGwAKbKfEbhe+H/7Wd4Ins3xXH2qhgQrXdfHgJNWlSrYvZTeTIRQYsoPrCzxNACjgiJzyMLRdM3lr39mWZ2hwK80=
 d0uta7me64i0vm6dvdkg938m5nke88g7.global.	3600	in	nsec3	1 1 0 73 D13BFN95J07VN910B9NQONVVNHD834I3 NS DS RRSIG
-d0uta7me64i0vm6dvdkg938m5nke88g7.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. slvxPYDYUHtKz0OFuUWVlEXiybCWHOgrqo0b9AaLnGbSusRUIfr8bOwH/LE2npvc/OlsSmiHHERGLxImQxYNtSILS9rmF1c3Ufl4z+iLmK7eTpZguEZB485BdRNdb06d1RXILXWP8WMyuCPeXyvCs4m/pwTKn7S6pjq7eT8y478=
+d0uta7me64i0vm6dvdkg938m5nke88g7.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002130710 20250911120710 63453 global. ltlKZQCsJyvWZc5CPUDcNh7YDsif//u9EvthS/6ZSenEAaggTHYqRFYSn8EgOcJHQeCX6oKoiOaPGb3U/xk2xCmUvNUYggdAPgAg6aa+pt4O57JQYiFtVJ2Fgxlot7SBe+LPul7cbq6W9xJ/0C+QdmpBArVSRKKrDWe0oFzLQD0=
 d13bfn95j07vn910b9nqonvvnhd834i3.global.	3600	in	nsec3	1 1 0 73 D13UCH4BU1I3H2S860UFQ27PIR1OH24S NS DS RRSIG
 d13bfn95j07vn910b9nqonvvnhd834i3.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. tWZGrraL8qZRqRgwLitR58x9mK0fUeQLa1uyKnaF1uSOwGAEjMB7EVJDnBArqOZrSIOCN8rCVZdnDOVpRLaTp5JkS55EkqGRgZP/m0bK0uF5ULMdJ7Bf/bCzleT/12UrKfhoQuaRVWYCy3b+F2K6bUHDDNxbEnjAeKTg7CpkkH0=
 d13uch4bu1i3h2s860ufq27pir1oh24s.global.	3600	in	nsec3	1 1 0 73 D29TKGO1KKIGTFLQM88ILBJ7ALCV5EM5 NS DS RRSIG
@@ -38670,6 +38687,8 @@ destiny.global.	3600	in	ns	ns5.afternic.com.
 destiny.global.	3600	in	ns	ns6.afternic.com.
 destinyfilms.global.	3600	in	ns	ns1.domain.com.
 destinyfilms.global.	3600	in	ns	ns2.domain.com.
+destrava.global.	3600	in	ns	ns25.domaincontrol.com.
+destrava.global.	3600	in	ns	ns26.domaincontrol.com.
 det.global.	3600	in	ns	cody.ns.cloudflare.com.
 det.global.	3600	in	ns	elsa.ns.cloudflare.com.
 deta.global.	3600	in	ns	ns1.1stdomains.net.nz.
@@ -38703,6 +38722,8 @@ detroitartfair.global.	3600	in	ns	ns43.domaincontrol.com.
 detroitartfair.global.	3600	in	ns	ns44.domaincontrol.com.
 detta.global.	3600	in	ns	ns1.dns-parking.com.
 detta.global.	3600	in	ns	ns2.dns-parking.com.
+deulax.global.	3600	in	ns	ns1.loopia.se.
+deulax.global.	3600	in	ns	ns2.loopia.se.
 deus.global.	3600	in	ns	ns37.domaincontrol.com.
 deus.global.	3600	in	ns	ns38.domaincontrol.com.
 deutsch-online.global.	3600	in	ns	ns1026.ui-dns.org.
@@ -38822,6 +38843,8 @@ devopsteam.global.	3600	in	ns	dns1.namecheaphosting.com.
 devopsteam.global.	3600	in	ns	dns2.namecheaphosting.com.
 devpro.global.	3600	in	ns	coco.ns.cloudflare.com.
 devpro.global.	3600	in	ns	rick.ns.cloudflare.com.
+devreport.global.	3600	in	ns	ns47.domaincontrol.com.
+devreport.global.	3600	in	ns	ns48.domaincontrol.com.
 devresources.global.	3600	in	ns	ns1.hover.com.
 devresources.global.	3600	in	ns	ns2.hover.com.
 devrev.global.	3600	in	ns	pdns09.domaincontrol.com.
@@ -43083,6 +43106,8 @@ earthwalk.global.	3600	in	ns	ns13.domaincontrol.com.
 earthwalk.global.	3600	in	ns	ns14.domaincontrol.com.
 earthwalkschoolofevolution.global.	3600	in	ns	ns41.domaincontrol.com.
 earthwalkschoolofevolution.global.	3600	in	ns	ns42.domaincontrol.com.
+earthwave.global.	3600	in	ns	ns1.renewyourname.net.
+earthwave.global.	3600	in	ns	ns2.renewyourname.net.
 earthwise.global.	3600	in	ns	art.ns.cloudflare.com.
 earthwise.global.	3600	in	ns	tess.ns.cloudflare.com.
 earthx.global.	3600	in	ns	ns51.domaincontrol.com.
@@ -43343,8 +43368,8 @@ eazzy.global.	3600	in	ns	ns-474.awsdns-59.com.
 eazzy.global.	3600	in	ns	ns-855.awsdns-42.net.
 eb.global.	3600	in	ns	lana.ns.cloudflare.com.
 eb.global.	3600	in	ns	santino.ns.cloudflare.com.
-eb5.global.	3600	in	ns	ns1.servconfig.com.
-eb5.global.	3600	in	ns	ns2.servconfig.com.
+eb5.global.	3600	in	ns	ns37.domaincontrol.com.
+eb5.global.	3600	in	ns	ns38.domaincontrol.com.
 eb854jccf5avitp2j9q9uofsa68mgq6q.global.	3600	in	nsec3	1 1 0 73 ECJ7B0EBJUQ3LO7JRNU7AR3S6UA5L3U0 NS DS RRSIG
 eb854jccf5avitp2j9q9uofsa68mgq6q.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. l2c+W16/Q5NzHwMzQ9xpdqPPSWfvTKabfjSGLNYvms8HA7s8SeM24wvtUKon+vyUBy5Yyp7ZUKNc1QjipqfMWqEE50AXasxBIdHMSTxbjjS6jpnEppeGp1VJM1JSr8yyrNYvONQTRZUVZ908i7YBEmtQPnIJDspqy3kCLlxPpXs=
 ebanking.global.	3600	in	ns	dns1.registrar-servers.com.
@@ -44270,8 +44295,6 @@ educatecreate.global.	3600	in	ds	54723 13 2 C0F9F59FC27E1160EB27657BBAD0DD8A5B57
 educatecreate.global.	3600	in	ns	ns53.domaincontrol.com.
 educatecreate.global.	3600	in	ns	ns54.domaincontrol.com.
 educatecreate.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. JKz/cZ3RIovUoCmlaS2qDJIYHw0EJIPIs9EYvLzLiZIbjggQ29eEn44z87XcIwQsqL/69pk1JDY8I0r/akm2u8gyY45wYEoK8ODCr6ApB9kl21RkvzQjjmG5Fuz+pJFlfwa8uL0e2wuEA2hwDXSmuDer5jF5LEpI53iNsQ86QyA=
-educated.global.	3600	in	ns	ns73.domaincontrol.com.
-educated.global.	3600	in	ns	ns74.domaincontrol.com.
 educateme.global.	3600	in	ns	ns.heartinternet.uk.
 educateme.global.	3600	in	ns	ns2.heartinternet.uk.
 education.global.	3600	in	ns	ns1.afternic.com.
@@ -46727,6 +46750,8 @@ enorsecurities.global.	3600	in	ns	ns17.domaincontrol.com.
 enorsecurities.global.	3600	in	ns	ns18.domaincontrol.com.
 enosys.global.	3600	in	ns	jamie.ns.cloudflare.com.
 enosys.global.	3600	in	ns	ray.ns.cloudflare.com.
+enosysv3.global.	3600	in	ns	lewis.ns.cloudflare.com.
+enosysv3.global.	3600	in	ns	miki.ns.cloudflare.com.
 enough.global.	3600	in	ns	ns1.dyna-ns.net.
 enough.global.	3600	in	ns	ns2.dyna-ns.net.
 enoughalready.global.	3600	in	ns	ns15.domaincontrol.com.
@@ -46841,10 +46866,8 @@ enteignetfacebook.global.	3600	in	ns	ns1097.ui-dns.com.
 enteignetfacebook.global.	3600	in	ns	ns1110.ui-dns.org.
 entel.global.	3600	in	ns	ns23.domaincontrol.com.
 entel.global.	3600	in	ns	ns24.domaincontrol.com.
-enter.global.	3600	in	ns	curitiba.ns.porkbun.com.
-enter.global.	3600	in	ns	fortaleza.ns.porkbun.com.
-enter.global.	3600	in	ns	maceio.ns.porkbun.com.
-enter.global.	3600	in	ns	salvador.ns.porkbun.com.
+enter.global.	3600	in	ns	walk.ns.cloudflare.com.
+enter.global.	3600	in	ns	wilson.ns.cloudflare.com.
 entera.global.	3600	in	ns	ns17.domaincontrol.com.
 entera.global.	3600	in	ns	ns18.domaincontrol.com.
 enterconstruction.global.	3600	in	ns	ns1.hosting.reg.ru.
@@ -46854,8 +46877,10 @@ enterp.global.	3600	in	ns	dns2.registrar-servers.com.
 enterprise365.global.	3600	in	ns	ns1.livedns.co.uk.
 enterprise365.global.	3600	in	ns	ns2.livedns.co.uk.
 enterprise365.global.	3600	in	ns	ns3.livedns.co.uk.
-enterpriseai.global.	3600	in	ns	ns1.crazydomains.com.
-enterpriseai.global.	3600	in	ns	ns2.crazydomains.com.
+enterpriseai.global.	3600	in	ns	ns1-04.azure-dns.com.
+enterpriseai.global.	3600	in	ns	ns2-04.azure-dns.net.
+enterpriseai.global.	3600	in	ns	ns3-04.azure-dns.org.
+enterpriseai.global.	3600	in	ns	ns4-04.azure-dns.info.
 enterpriseapps.global.	3600	in	ns	pdns09.domaincontrol.com.
 enterpriseapps.global.	3600	in	ns	pdns10.domaincontrol.com.
 enterpriseblockchain.global.	3600	in	ns	ns39.domaincontrol.com.
@@ -47562,6 +47587,8 @@ equity-lab.global.	3600	in	ns	ns1030.ui-dns.org.
 equity-lab.global.	3600	in	ns	ns1034.ui-dns.de.
 equity-lab.global.	3600	in	ns	ns1046.ui-dns.biz.
 equity-lab.global.	3600	in	ns	ns1124.ui-dns.com.
+equityai.global.	3600	in	ns	ns31.domaincontrol.com.
+equityai.global.	3600	in	ns	ns32.domaincontrol.com.
 equitybuild.global.	3600	in	ns	ns65.domaincontrol.com.
 equitybuild.global.	3600	in	ns	ns66.domaincontrol.com.
 equitybuildfinance.global.	3600	in	ns	ns65.domaincontrol.com.
@@ -49441,6 +49468,8 @@ exexex.global.	3600	in	ns	docks18.rzone.de.
 exexex.global.	3600	in	ns	shades14.rzone.de.
 exf.global.	3600	in	ns	ns63.domaincontrol.com.
 exf.global.	3600	in	ns	ns64.domaincontrol.com.
+exgo.global.	3600	in	ns	dora.ns.cloudflare.com.
+exgo.global.	3600	in	ns	yichun.ns.cloudflare.com.
 exhibitions.global.	3600	in	ns	ns03.domaincontrol.com.
 exhibitions.global.	3600	in	ns	ns04.domaincontrol.com.
 exhibits.global.	3600	in	ns	ns1.dns-parking.com.
@@ -49865,7 +49894,7 @@ extrinsica.global.	3600	in	ns	ns-uk.1and1-dns.com.
 extrinsica.global.	3600	in	ns	ns-uk.1and1-dns.org.
 extsy.global.	3600	in	ns	ns11.domaincontrol.com.
 extsy.global.	3600	in	ns	ns12.domaincontrol.com.
-extusw2.monitoringtest.global.	3600	in	a	104.194.34.163
+extusw2.monitoringtest.global.	3600	in	a	104.195.112.219
 exu.global.	3600	in	ns	ns1039.ui-dns.biz.
 exu.global.	3600	in	ns	ns1051.ui-dns.de.
 exu.global.	3600	in	ns	ns1052.ui-dns.org.
@@ -50018,6 +50047,8 @@ ezshop.global.	3600	in	ns	ns1.supercp.com.
 ezshop.global.	3600	in	ns	ns2.supercp.com.
 ezshop.global.	3600	in	ns	ns3.supercp.com.
 ezshop.global.	3600	in	ns	ns4.supercp.com.
+ezslot.global.	3600	in	ns	athena.ns.cloudflare.com.
+ezslot.global.	3600	in	ns	nick.ns.cloudflare.com.
 eztech.global.	3600	in	ns	dns27.hichina.com.
 eztech.global.	3600	in	ns	dns28.hichina.com.
 eztrack.global.	3600	in	ns	ns75.domaincontrol.com.
@@ -50056,7 +50087,7 @@ f10ventures.global.	3600	in	ns	dns2.registrar-servers.com.
 f13ea85be6n5i0vgjfs8o2sfigrsqtab.global.	3600	in	nsec3	1 1 0 73 F13SBCGGU0KTP0464FK9I2DEUVKFQD5U NS DS RRSIG
 f13ea85be6n5i0vgjfs8o2sfigrsqtab.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. mdmCBJnhoTKVM/+355Q04UN5KYHOsXZXR+qSxWjYbhbclb8PID6UDYf9ahlsYr2dSdoCA03iHIFpvM1jVpAErRKV0tDXmy7/Ixe322wBpk7w+blbcUK8lEkBibxIp2CT8aWDOn4N5aW5HzuROzLZ13WhYdJ+U454rDd61znpxJg=
 f13sbcggu0ktp0464fk9i2deuvkfqd5u.global.	3600	in	nsec3	1 1 0 73 F1L8O1IUJBH5UFP8R53QKEQ0KMLMG9LI NS DS RRSIG
-f13sbcggu0ktp0464fk9i2deuvkfqd5u.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. PTneeEMFMzNI1CE0e6r1duS96FgCKYJAt8CA000X1lvBvR2iac5C3UsjiuNkqiGWpbV5+y1DoOZCX6xouIGwpHUXi7BrnjVHoNIP/Aq9kvDlLJY3G7i7jcsDdiNfJYf81fcGwivOfJPGvyz1Gx0LmIlfVPezUlARoxUkUa0+O3U=
+f13sbcggu0ktp0464fk9i2deuvkfqd5u.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002080055 20250911070055 63453 global. FOcqOQzL5zKYLk7+y9CfSzXoadgjg21jlbK2klIk5wIUywYypH745PEIkzln/FFZjYYd75v+3d4ZEt8SkbqSuYvba4LSkgaU7KFBCzi5+K0VesPvDhd0dZoWWkrl1IpEouKHOnGY4mV51MhJguRSJ9byvIvavR8fIVl092k1E6g=
 f168.global.	3600	in	ns	elsa.ns.cloudflare.com.
 f168.global.	3600	in	ns	odin.ns.cloudflare.com.
 f1it.global.	3600	in	ns	ns67.domaincontrol.com.
@@ -50130,6 +50161,8 @@ f91t5404a9avb04bqgg9ck9np27jisu0.global.	3600	in	nsec3	1 1 0 73 F9QSPF2FCIQKCU3S
 f91t5404a9avb04bqgg9ck9np27jisu0.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. XXXcaCM8qPRexiZLQkWChSZ4T5ERhGjhPEOoOmru9ff02nUgsrdjBdkfBkHDfJ3kSU1NNuHG8F7Y02TzdYdcKPOdzo+IjtCXrB+v1073NBB/9OHUzsIpb91rp1rCT5ZswJKXOVnT5idtpJ7ETpZqVHqJ16gzwgL7Xo/+gJpLBVI=
 f9qspf2fciqkcu3srhb4il2bi16s4uuq.global.	3600	in	nsec3	1 1 0 73 FB41IDQ62E2QVN4V9PNCRL790E6AOTLO NS DS RRSIG
 f9qspf2fciqkcu3srhb4il2bi16s4uuq.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. q+twdH5HbKzWdu4qUJRK7ThbTaa2p1Il+VBMDgXEv5Qh0C3B95bXcx34aNNEmDYcmHXY8+9DvE97+4W+wGEaaf92c2Lj3N0kuPoDiw/1/SPoDFyX07EiqiUDXl5AlFU9KwWxcJzK5XLAQRvtRrjBOjna6WcuLCjll4H14jk1L5s=
+fa777.global.	3600	in	ns	ns25.domaincontrol.com.
+fa777.global.	3600	in	ns	ns26.domaincontrol.com.
 fa999.global.	3600	in	ns	ns67.domaincontrol.com.
 fa999.global.	3600	in	ns	ns68.domaincontrol.com.
 faai.global.	3600	in	ns	dns1.registrar-servers.com.
@@ -50383,6 +50416,8 @@ fairtradecoop.global.	3600	in	ns	ns41.domaincontrol.com.
 fairtradecoop.global.	3600	in	ns	ns42.domaincontrol.com.
 fairtransfer.global.	3600	in	ns	ns31.domaincontrol.com.
 fairtransfer.global.	3600	in	ns	ns32.domaincontrol.com.
+fairwarning.global.	3600	in	ns	dns1.registrar-servers.com.
+fairwarning.global.	3600	in	ns	dns2.registrar-servers.com.
 fairway.global.	3600	in	ns	dns1.registrar-servers.com.
 fairway.global.	3600	in	ns	dns2.registrar-servers.com.
 fairwinds.global.	3600	in	ns	ns1.mydomain.com.
@@ -51260,6 +51295,8 @@ feniksfunds.global.	3600	in	ns	ns01.domaincontrol.com.
 feniksfunds.global.	3600	in	ns	ns02.domaincontrol.com.
 fenix.global.	3600	in	ns	ns5.kasserver.com.
 fenix.global.	3600	in	ns	ns6.kasserver.com.
+fenix168.global.	3600	in	ns	athena.ns.cloudflare.com.
+fenix168.global.	3600	in	ns	nick.ns.cloudflare.com.
 fenner.global.	3600	in	ns	dns1.registrar-servers.com.
 fenner.global.	3600	in	ns	dns2.registrar-servers.com.
 fennix.global.	3600	in	ns	ns59.domaincontrol.com.
@@ -54807,6 +54844,8 @@ frontiergroup.global.	3600	in	ns	ns1.loopia.se.
 frontiergroup.global.	3600	in	ns	ns2.loopia.se.
 frontierpartners.global.	3600	in	ns	ns47.domaincontrol.com.
 frontierpartners.global.	3600	in	ns	ns48.domaincontrol.com.
+frontierphysics.global.	3600	in	ns	ns37.domaincontrol.com.
+frontierphysics.global.	3600	in	ns	ns38.domaincontrol.com.
 frontiers.global.	3600	in	ns	ns1.sunyhost.com.
 frontiers.global.	3600	in	ns	ns2.sunyhost.com.
 frontiersoftware.global.	3600	in	ns	ns69.worldnic.com.
@@ -55080,8 +55119,8 @@ fullbooking.global.	3600	in	ns	ns1110.ui-dns.biz.
 fullcircle.global.	3600	in	ns	ns1.digitalocean.com.
 fullcircle.global.	3600	in	ns	ns2.digitalocean.com.
 fullcircle.global.	3600	in	ns	ns3.digitalocean.com.
-fullcloud.global.	3600	in	ns	ns1.mydomain.com.
-fullcloud.global.	3600	in	ns	ns2.mydomain.com.
+fullcloud.global.	3600	in	ns	ns1.bienvenidohosting.com.
+fullcloud.global.	3600	in	ns	ns2.bienvenidohosting.com.
 fullerllp.global.	3600	in	ns	dns1.namecheaphosting.com.
 fullerllp.global.	3600	in	ns	dns2.namecheaphosting.com.
 fullex.global.	3600	in	ns	ns49.domaincontrol.com.
@@ -55618,10 +55657,8 @@ fuzion.global.	3600	in	ns	ns1057.ui-dns.biz.
 fuzion.global.	3600	in	ns	ns1092.ui-dns.org.
 fuzion.global.	3600	in	ns	ns1096.ui-dns.com.
 fuzion.global.	3600	in	ns	ns1124.ui-dns.de.
-fuzz.global.	3600	in	ns	ns-cloud-d1.googledomains.com.
-fuzz.global.	3600	in	ns	ns-cloud-d2.googledomains.com.
-fuzz.global.	3600	in	ns	ns-cloud-d3.googledomains.com.
-fuzz.global.	3600	in	ns	ns-cloud-d4.googledomains.com.
+fuzz.global.	3600	in	ns	ns47.domaincontrol.com.
+fuzz.global.	3600	in	ns	ns48.domaincontrol.com.
 fuzzy.global.	3600	in	ns	ns-uk.1and1-dns.biz.
 fuzzy.global.	3600	in	ns	ns-uk.1and1-dns.co.uk.
 fuzzy.global.	3600	in	ns	ns-uk.1and1-dns.com.
@@ -56619,7 +56656,7 @@ gbw.global.	3600	in	ns	ns4.dnsmadeeasy.com.
 gbx.global.	3600	in	ns	elly.ns.cloudflare.com.
 gbx.global.	3600	in	ns	fonzie.ns.cloudflare.com.
 gc6anqf7uuj3tjgfvuoa20eo2japnbdr.global.	3600	in	nsec3	1 1 0 73 GCT3UKG7C1CLFHHVRK8RT0J5VQDHGVUD NS DS RRSIG
-gc6anqf7uuj3tjgfvuoa20eo2japnbdr.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. vXY1eyW4dEKZTdbvPkZnJg76yA5FyZiMGhjAT+bOsS1IaF/7eOWWOOWBkCIMuqgb8KaTHPRESbXidpNjADOfP5iL7WALWKPgZSLAjnoJLSVWB+yC6pW95LDZ/wZLOGTdaz2PEN4EMswXjAs6jELVLIIxSNrLsOTlpVcLEopggng=
+gc6anqf7uuj3tjgfvuoa20eo2japnbdr.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002051145 20250911041145 63453 global. DhE4qSkLbWMDiHglB6uFgqTYI3vJsYuHmKUXMw5CSyQKQqpTgy0M+o0gFen1s0lcKxz2nFBnXFY8gtHHIlyUQuyMBI1UdT+pQQUbvpiOd7FTtvcfKHoHJYHQ3hVE4tAhrXAaEqW6KscK4eNYMWQ+8xzxhguxK8nJBx2y2wKxtBQ=
 gca.global.	3600	in	ns	ns01.trademarkarea.com.
 gca.global.	3600	in	ns	ns02.trademarkarea.com.
 gca.global.	3600	in	ns	ns03.trademarkarea.com.
@@ -57504,8 +57541,10 @@ gesloten.global.	3600	in	ns	betty.ns.cloudflare.com.
 gesloten.global.	3600	in	ns	ezra.ns.cloudflare.com.
 gess.global.	3600	in	ns	dns1.registrar-servers.com.
 gess.global.	3600	in	ns	dns2.registrar-servers.com.
+gestem.global.	3600	in	ds	47356 8 2 02D312C51E5B50F67FF2424C7FF9FA878B9E6BA59ABE310457F3716EB682CD82
 gestem.global.	3600	in	ns	dns112.ovh.net.
 gestem.global.	3600	in	ns	ns112.ovh.net.
+gestem.global.	3600	in	rrsig	DS 8 2 3600 20251002034704 20250911024704 63453 global. pMfO492vnOxIv03Ir5We48ul/oqT/YcLEdcuFwJCCsmch5iK5+2TSXjzTNGy61gZPAcs1hLU90dlHWigQz/Ein9nfIycYhac44L5yFMXUJo2MzjXpRAJ6d3Ai4N5e5rpLKvV/gtyJyTx5513rawYKM9p4Z02+Orzl/cfB1v5vxI=
 gestion.global.	3600	in	ns	ns-1288.awsdns-33.org.
 gestion.global.	3600	in	ns	ns-1623.awsdns-10.co.uk.
 gestion.global.	3600	in	ns	ns-404.awsdns-50.com.
@@ -57565,8 +57604,8 @@ getc.global.	3600	in	ns	ns05.domaincontrol.com.
 getc.global.	3600	in	ns	ns06.domaincontrol.com.
 getcoach.global.	3600	in	ns	ns63.domaincontrol.com.
 getcoach.global.	3600	in	ns	ns64.domaincontrol.com.
-getconnected.global.	3600	in	ns	ns2.wixdns.net.
-getconnected.global.	3600	in	ns	ns3.wixdns.net.
+getconnected.global.	3600	in	ns	ns25.domaincontrol.com.
+getconnected.global.	3600	in	ns	ns26.domaincontrol.com.
 getcrackin.global.	3600	in	ns	eprodns1a.eflorist.com.
 getcrackin.global.	3600	in	ns	eprodns2a.eflorist.com.
 getcustomgift.global.	3600	in	ns	ns73.domaincontrol.com.
@@ -57839,6 +57878,8 @@ ggoat.global.	3600	in	ns	ns55.domaincontrol.com.
 ggoat.global.	3600	in	ns	ns56.domaincontrol.com.
 ggpanalo.global.	3600	in	ns	celine.ns.cloudflare.com.
 ggpanalo.global.	3600	in	ns	cleo.ns.cloudflare.com.
+ggperya.global.	3600	in	ns	ns31.domaincontrol.com.
+ggperya.global.	3600	in	ns	ns32.domaincontrol.com.
 ggr.global.	3600	in	ns	clyde.ns.cloudflare.com.
 ggr.global.	3600	in	ns	zoe.ns.cloudflare.com.
 ggrace.global.	3600	in	ns	ns21.domaincontrol.com.
@@ -57957,8 +57998,8 @@ gi2t485pthc85j5ljhmviduhdfuoq4jb.global.	3600	in	nsec3	1 1 0 73 GI4CM4UQS4MOKB0Q
 gi2t485pthc85j5ljhmviduhdfuoq4jb.global.	3600	in	rrsig	NSEC3 8 2 3600 20251001035038 20250910025038 63453 global. EGqfQfqaDDLihIPIP5M2qDJMYyNOofU/h3o1VfKyx5fN5Mw58HXM0arenNcVnx6pbORa7b3fGddSSfkBsz+HjagDAFmZIdoKtWL8aldox0VSemJruztn+ZuMhvxklOgNKvr++aOMuquRQhQ2EVn/UnppTlT2kzpXZs3AT63CiFo=
 gi4cm4uqs4mokb0qm2ln2uq18cjj42ud.global.	3600	in	nsec3	1 1 0 73 GI4D19973I23GU9BL1P2MMNI91H1P8E3 NS DS RRSIG
 gi4cm4uqs4mokb0qm2ln2uq18cjj42ud.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. Vpru4a2kCdhT2idzee7HCb2V8STepXaEscPeiHSSDxK867GKezAkgppG1Ou8yIaqbKo5lktkBzrEm3bQ+qPRMmDny6ZNhDgmbM4Uhsaf8DVIuFjCd9L6CInhHdzKRMnX98betPekg4HX1iQn+swaHtxXJ0h6wFisGiXgCBnpTrM=
-gi4d19973i23gu9bl1p2mmni91h1p8e3.global.	3600	in	nsec3	1 1 0 73 GIE5DFRAH5OUL5U9IROEOSVKFCI3IMS3 NS DS RRSIG
-gi4d19973i23gu9bl1p2mmni91h1p8e3.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. itHOfe2JXpr2VgVtO5UH+TnaMIkddEh3TZ+c9zsXBz4/D9jx4EcRjlLdIOECUEl8KHjtFjCRQAy1OZBJ6TIzfH2LcsRvrWWOTmYxwR4aFMw8+tErxb05znBvrSQ7/HGJGi0VZeMVgftH56BrNEfwxP4rJReHw4P5Mmv1/0F0BZ4=
+gi4d19973i23gu9bl1p2mmni91h1p8e3.global.	3600	in	nsec3	1 1 0 73 GJHTD6HRIDGUAD2HFBKKT9EQR88MEAFT NS DS RRSIG
+gi4d19973i23gu9bl1p2mmni91h1p8e3.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002030503 20250911020503 63453 global. HAPIRdlnnqh/beBCb91eM+FlWLboFgQduGYdu1OCbnn/pjha5M79qVi+fOzubLQiWXbUQAot/paNqxDA9tC7lgrLGw1sqYVRtOwTEW6XIz9k+gfoquFGMFH+mXCCCFRs63PTUAGyZef7inDUaQTpon3aRh9W5ee0YUUXfnNoyZw=
 gia.global.	3600	in	ns	ns1.siteground.net.
 gia.global.	3600	in	ns	ns2.siteground.net.
 gianelly.global.	3600	in	ns	ns75.worldnic.com.
@@ -58011,8 +58052,6 @@ gide.global.	3600	in	ns	ns67.domaincontrol.com.
 gide.global.	3600	in	ns	ns68.domaincontrol.com.
 gidogu.global.	3600	in	ns	ns73.domaincontrol.com.
 gidogu.global.	3600	in	ns	ns74.domaincontrol.com.
-gie5dfrah5oul5u9iroeosvkfci3ims3.global.	3600	in	nsec3	1 1 0 73 GJHTD6HRIDGUAD2HFBKKT9EQR88MEAFT NS DS RRSIG
-gie5dfrah5oul5u9iroeosvkfci3ims3.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. F4nmfCKVopt3Oovj4WrdOHkTKOAE9DcqvnOTvjBgRiy2+PI+db0ugGTIdl2xNbVLwBrm1OBhBk4C8Eqgy+7GhxEBEguWZgH1HGEu/7JzMIwHZdhjc1B6ocDkxZiw3USbmjMK7QunymdO8/NtBYzg8A2Ug23jqpOmG/7SdkjGVaA=
 gieblergrp.global.	3600	in	ns	dns15.parkpage.foundationapi.com.
 gieblergrp.global.	3600	in	ns	dns16.parkpage.foundationapi.com.
 gieni.global.	3600	in	ds	18449 13 2 C2FE2BF259921F91D3C63777336BD10C98A09D97AB5A8551792699C6B560585F
@@ -58709,7 +58748,7 @@ global.	3600	in	nsec3param	1 0 0 73
 global.	3600	in	rrsig	DNSKEY 8 1 3600 20250930155319 20250909145319 13060 global. e0BHP5OT/fAKPi0s/gwV6MbQZtXVUUNUGZ80jHJqOlpm9Q8SlE9sg1KsisZ2O6zmzT/Dgf5M/h4/Suprmv87zRRPpNkD3jJxlHvj+917NFm/FVfOEsrVQ3q8JxLPvdnHnR6Ql6OeAMemjxZBBa+4DAuWCkTM099rc4MnWLxnyRZtofCcvc6a2yjdWql3YLjkPnFrQnRG21Onz+3FigqjRDlBy9ts044Q36hYkDcKWWtrkElGwkixCshQB9uA2CrYGOQkXc6E1FE4++iGWA8UrQxw9UclPr+a+C4HJ2Mej6U3AZbu7o6MdgfZVARWupMVU2QXAEU3fuuFp3DaNLYF+A==
 global.	3600	in	rrsig	NS 8 1 3600 20250930155319 20250909145319 63453 global. M0+b1Ptxf/Hkrer7H+FypIU6BclEJWoFRwIxgbKwdab5hHb3/DTKJ5HdoUQcyHmoF2E9bJzisxveiik2tdGep/cYBSBsKFPG67//oXV8X3dDm/Wjc1V6JAcbSIBjm66+cpL2SZ2Y29FF/TuAxT6WOL7mqy8TMkO/zjkCicpYvvE=
 global.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930155319 20250909145319 63453 global. cW0vphVvkKrRAoWhqDdy6RFTcQLTG7ROzFvc9N2/UWag5ILUMJ2kwmrb2x4w52oTyfN4qNyhQLwvWwN4xghSY1+qxvoz2MSFnJnjKL+Wo7/RBOejjaYqhcBFpg7rLQvcYUZbMST9sD2PA9nBGVMX/ocBx89B5V6VvcV4ZheZ4r4=
-global.	3600	in	rrsig	SOA 8 1 3600 20251002011915 20250911001915 63453 global. JW4Q4yR43L6xyEeuhP1tuYFIO+61pSALS69XeCTTd+LdzUHY/1IDT4XvGqHilIOsJKLSwtYico2P0nkIbP5dswbXH2C6n5W+BHmxl+s09Vv5DUW4CHeQEil67/LhBE+OEgYiknGdXOyUayMMs3ZIiFtTRsyJ8mXTD1xS05I2EN0=
+global.	3600	in	rrsig	SOA 8 1 3600 20251003010533 20250912000533 63453 global. h0xk1Ui1B+W1RXGOEeQ804AnSyVL72w/nAGKZn5rl0TgqvmAKtjaDEkQocXh/HvoU8PxeeWfxeJAhY4Zf+3qkey+3R4RbHzsbYCosRLOKI8hBXLTdtKhtkK+Jo88AjSZq5xXSk2LHQpRGDhf8BJppLp7QgOcEYF1WCLvxah2Na4=
 global.global.	3600	in	ns	f1g1ns1.dnspod.net.
 global.global.	3600	in	ns	f1g1ns2.dnspod.net.
 global10.global.	3600	in	ns	ns.liquidweb.com.
@@ -59116,6 +59155,8 @@ glory.global.	3600	in	ns	maceio.ns.porkbun.com.
 glory.global.	3600	in	ns	salvador.ns.porkbun.com.
 glossbro.global.	3600	in	ns	jasmine.ns.cloudflare.com.
 glossbro.global.	3600	in	ns	miles.ns.cloudflare.com.
+glossier.global.	3600	in	ns	ns3.afternic.com.
+glossier.global.	3600	in	ns	ns4.afternic.com.
 glosta.global.	3600	in	ns	ns77.domaincontrol.com.
 glosta.global.	3600	in	ns	ns78.domaincontrol.com.
 glotica.global.	3600	in	ns	micah.ns.cloudflare.com.
@@ -59318,11 +59359,11 @@ gnsp.global.	3600	in	ds	63024 13 2 E023D98F9282A08CE44F83A815D3D651BF1CD72555455
 gnsp.global.	3600	in	ns	ns17.domaincontrol.com.
 gnsp.global.	3600	in	ns	ns18.domaincontrol.com.
 gnsp.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. El/iTA2c2WP7U/Y3mBmCVPxKVcgylvzdCFn8qssBsA5lGpRCv2t9AHnL+FDAvKJbuRqputNfinZnZ/pSc8lMxmXEOE+MZLb9a1upitRobKHse6UCAAGFYcfgDKCQpcKmeHGDnz9z8cbk04eRp4r1DmoxMroxoaapV25AO8tjrBM=
-gnt.global.	3600	in	ds	23166 13 2 09B63525B1680A3EFFABC5E505CCA0F3CFB8C048C4AD5DF9E56BF0D72593444C
+gnt.global.	3600	in	ds	54715 13 2 2D5722E902EACC092F2C979EA9CC3F11AA2255BA5877FC89F0F1C22A0D395AF8
 gnt.global.	3600	in	ds	63607 13 2 96EFD1F50478383E3C87B9F4648F94EEBFCC2C7BDDCB06E0D73D00DBA5C4D4E3
 gnt.global.	3600	in	ns	ns29.domaincontrol.com.
 gnt.global.	3600	in	ns	ns30.domaincontrol.com.
-gnt.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. gEvJsrRDkEqzcs0cKNBqXNqnR0Tv0Xb2e0AioXF/Z8MUaiESgc9+vq+gzfaEg8qHszHNC5P9GiuJKvddT5zxrgqX0BMx8hhoV72zlzn57O+QCZKQv5+tUikCjjvIotL6PvqZTxSDkceCt5Fg5OVly2Emvr2/xqW4KYyi1TCbB0Q=
+gnt.global.	3600	in	rrsig	DS 8 2 3600 20251002115307 20250911105307 63453 global. iT68dZW6OcFm/QaoStbpo3E2nKcNoRiNmMgRkYftgmpwGyVV6wBpRv4lCuMlD4uSsAVpfAxnprP7qQuEtgi9jaUYlUyo9J8kvSYFDJac4a3Ql2vKlR0VCblhVDlSGx7HG0hCmkajes9In9I/PtKsywtttdUvsfVaIa9l+6R1MV0=
 gntle.global.	3600	in	ns	ns7.alidns.com.
 gntle.global.	3600	in	ns	ns8.alidns.com.
 gnts.global.	3600	in	ns	ns10.wixdns.net.
@@ -61355,6 +61396,8 @@ greyhats.global.	3600	in	ns	ns41.domaincontrol.com.
 greyhats.global.	3600	in	ns	ns42.domaincontrol.com.
 greyhealth.global.	3600	in	ns	diana.ns.cloudflare.com.
 greyhealth.global.	3600	in	ns	plato.ns.cloudflare.com.
+greylist.global.	3600	in	ns	pdns03.domaincontrol.com.
+greylist.global.	3600	in	ns	pdns04.domaincontrol.com.
 greymatter.global.	3600	in	ns	ns59.domaincontrol.com.
 greymatter.global.	3600	in	ns	ns60.domaincontrol.com.
 greynolds.global.	3600	in	ns	ns-us.1and1-dns.com.
@@ -62339,8 +62382,6 @@ guud.global.	3600	in	ns	ns20.domaincontrol.com.
 guud.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. eFYmEDH5VUNwc9MK/X+6I/fZ6dp9TLO73wSXVpxZivNNykuIyWV5JBUNGiLg4IhE4aTb2cxRLY6iVL11moVhU1d0J3HZ7npixN1ed3ixNHaIr8H7dECZe4xw/SegA9eqUn/Hf8fE+97zPzx69PnBqmdp3fM8a9aIYJW5RCSZFwg=
 guudimpact.global.	3600	in	ns	ns23.domaincontrol.com.
 guudimpact.global.	3600	in	ns	ns24.domaincontrol.com.
-guy.global.	3600	in	ns	ns17.domaincontrol.com.
-guy.global.	3600	in	ns	ns18.domaincontrol.com.
 guyanaoil.global.	3600	in	ns	ns13.domaincontrol.com.
 guyanaoil.global.	3600	in	ns	ns14.domaincontrol.com.
 guzmangray.global.	3600	in	ns	ns15.domaincontrol.com.
@@ -62919,8 +62960,11 @@ hamiltonbeach.global.	3600	in	ns	pdns11.domaincontrol.com.
 hamiltonbeach.global.	3600	in	ns	pdns12.domaincontrol.com.
 hamiltonbyyoop.global.	3600	in	ns	ns01.hostnet.nl.
 hamiltonbyyoop.global.	3600	in	ns	ns02.hostnet.nl.
-hamiltonjet.global.	3600	in	ns	ns1.1stdomains.net.nz.
-hamiltonjet.global.	3600	in	ns	ns2.1stdomains.net.nz.
+hamiltonjet.global.	3600	in	ns	dns1.name-services.com.
+hamiltonjet.global.	3600	in	ns	dns2.name-services.com.
+hamiltonjet.global.	3600	in	ns	dns3.name-services.com.
+hamiltonjet.global.	3600	in	ns	dns4.name-services.com.
+hamiltonjet.global.	3600	in	ns	dns5.name-services.com.
 hamiltonsquare.global.	3600	in	ns	ns13.domaincontrol.com.
 hamiltonsquare.global.	3600	in	ns	ns14.domaincontrol.com.
 hamiltontrust.global.	3600	in	ds	47639 8 2 4B63669B209CD6C5AE6E0EB2640357DAE8236C270C31782CD206432EE6D764A9
@@ -63621,8 +63665,8 @@ hbidfirrysrvw.global.	3600	in	ns	bryce.ns.cloudflare.com.
 hbidfirrysrvw.global.	3600	in	ns	gwen.ns.cloudflare.com.
 hbk.global.	3600	in	ns	ns11.domaincontrol.com.
 hbk.global.	3600	in	ns	ns12.domaincontrol.com.
-hbl.global.	3600	in	ns	ns12.wixdns.net.
-hbl.global.	3600	in	ns	ns13.wixdns.net.
+hbl.global.	3600	in	ns	pdns1.registrar-servers.com.
+hbl.global.	3600	in	ns	pdns2.registrar-servers.com.
 hbpo.global.	3600	in	ns	ns03.domaincontrol.com.
 hbpo.global.	3600	in	ns	ns04.domaincontrol.com.
 hbq7css2oao59nkfmi31v3sk14752utg.global.	3600	in	nsec3	1 1 0 73 HC0GBCNARDD39C7VQ7G39FAJ8OQ92ONH NS DS RRSIG
@@ -63980,8 +64024,6 @@ healthcareers.global.	3600	in	ns	dan.ns.cloudflare.com.
 healthcareers.global.	3600	in	ns	emma.ns.cloudflare.com.
 healthcareheroes.global.	3600	in	ns	ns17.domaincontrol.com.
 healthcareheroes.global.	3600	in	ns	ns18.domaincontrol.com.
-healthcareprofessionals.global.	3600	in	ns	ns07.domaincontrol.com.
-healthcareprofessionals.global.	3600	in	ns	ns08.domaincontrol.com.
 healthcarers.global.	3600	in	ns	ns49.domaincontrol.com.
 healthcarers.global.	3600	in	ns	ns50.domaincontrol.com.
 healthcaresafety.global.	3600	in	ns	ns41.domaincontrol.com.
@@ -64752,6 +64794,8 @@ hep-b-med.global.	3600	in	ns	ns5.netnames.net.
 hep-b-med.global.	3600	in	ns	ns6.netnames.net.
 hep.global.	3600	in	ns	docks04.rzone.de.
 hep.global.	3600	in	ns	shades16.rzone.de.
+hepa.global.	3600	in	ns	ns67.domaincontrol.com.
+hepa.global.	3600	in	ns	ns68.domaincontrol.com.
 hepatis-b-med.global.	3600	in	ns	ns1.netnames.net.
 hepatis-b-med.global.	3600	in	ns	ns2.netnames.net.
 hepatis-b-med.global.	3600	in	ns	ns5.netnames.net.
@@ -66388,6 +66432,8 @@ honghai.global.	3600	in	ns	dns27.hichina.com.
 honghai.global.	3600	in	ns	dns28.hichina.com.
 hongji.global.	3600	in	ns	ns51.domaincontrol.com.
 hongji.global.	3600	in	ns	ns52.domaincontrol.com.
+hongqi.global.	3600	in	ns	launch1.spaceship.net.
+hongqi.global.	3600	in	ns	launch2.spaceship.net.
 hongyi.global.	3600	in	ns	a.g-dns.com.
 hongyi.global.	3600	in	ns	b.g-dns.com.
 hongyi.global.	3600	in	ns	c.g-dns.com.
@@ -69134,6 +69180,8 @@ idema.global.	3600	in	ns	guy.ns.cloudflare.com.
 iden.global.	3600	in	ns	ns0.phase8.net.
 iden.global.	3600	in	ns	ns1.phase8.net.
 iden.global.	3600	in	ns	ns2.phase8.net.
+identia.global.	3600	in	ns	ns31.domaincontrol.com.
+identia.global.	3600	in	ns	ns32.domaincontrol.com.
 identifeye.global.	3600	in	ns	ns-1321.awsdns-37.org.
 identifeye.global.	3600	in	ns	ns-1699.awsdns-20.co.uk.
 identifeye.global.	3600	in	ns	ns-221.awsdns-27.com.
@@ -69172,6 +69220,8 @@ idex.global.	3600	in	ns	dns5.name-services.com.
 idexchange.global.	3600	in	ns	ns1.onlydomains.com.
 idexchange.global.	3600	in	ns	ns2.onlydomains.com.
 idexchange.global.	3600	in	ns	ns3.onlydomains.com.
+idfcc.global.	3600	in	ns	ns31.domaincontrol.com.
+idfcc.global.	3600	in	ns	ns32.domaincontrol.com.
 idg.global.	3600	in	ns	ns13.domaincontrol.com.
 idg.global.	3600	in	ns	ns14.domaincontrol.com.
 idgg.global.	3600	in	ns	jarred.ns.cloudflare.com.
@@ -70944,8 +70994,6 @@ incaeexed.global.	3600	in	ns	ns41.domaincontrol.com.
 incaeexed.global.	3600	in	ns	ns42.domaincontrol.com.
 incasu.global.	3600	in	ns	ns57.domaincontrol.com.
 incasu.global.	3600	in	ns	ns58.domaincontrol.com.
-incend.global.	3600	in	ns	ns1.rr585.parklogic.com.
-incend.global.	3600	in	ns	ns2.rr585.parklogic.com.
 incense.global.	3600	in	ns	ingrid.ns.cloudflare.com.
 incense.global.	3600	in	ns	toby.ns.cloudflare.com.
 incentix.global.	3600	in	ns	ns-1140.awsdns-14.org.
@@ -76669,6 +76717,8 @@ jointheplanet.global.	3600	in	ns	ns21.domaincontrol.com.
 jointheplanet.global.	3600	in	ns	ns22.domaincontrol.com.
 jointherepublic.global.	3600	in	ns	cora.ns.cloudflare.com.
 jointherepublic.global.	3600	in	ns	kyrie.ns.cloudflare.com.
+jointhesquad.global.	3600	in	ns	ns37.domaincontrol.com.
+jointhesquad.global.	3600	in	ns	ns38.domaincontrol.com.
 jointhesyndicate.global.	3600	in	ns	ns1.redrite.co.uk.
 jointhesyndicate.global.	3600	in	ns	ns2.redrite.co.uk.
 jointheteam.global.	3600	in	ns	ns03.domaincontrol.com.
@@ -76856,8 +76906,8 @@ joytime.global.	3600	in	ns	ns-a2.tenten.vn.
 joytime.global.	3600	in	ns	ns-a3.tenten.vn.
 joywellnessinstitute.global.	3600	in	ns	ns21.domaincontrol.com.
 joywellnessinstitute.global.	3600	in	ns	ns22.domaincontrol.com.
-jp74jrg368uiiqkk13trjuuc5ljoqk5k.global.	3600	in	nsec3	1 1 0 73 JQ6H1IK273SAINFVUAQOGDQDASCHP4BV NS DS RRSIG
-jp74jrg368uiiqkk13trjuuc5ljoqk5k.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. pBAgvE99FWbmR8yq124P0SpAcngzc8eX9tIV4ncwZu4JoEcIIt+UI7FGPwu/lcF9iPbqA/LDNbtzyBLkPJ+iEeSeavCfp2ikc6T6qbmnRthVr6gKmTmA75ODUmpW0hfGzfunDx6+LGoETtrxMeO0fWudA3LRYb4rtI26OkE2DVk=
+jp74jrg368uiiqkk13trjuuc5ljoqk5k.global.	3600	in	nsec3	1 1 0 73 JRKAKNUDRJ3HHESH73GOMJ8V3SVP3VGU NS DS RRSIG
+jp74jrg368uiiqkk13trjuuc5ljoqk5k.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002055245 20250911045245 63453 global. BcsrsUzydhxZHz1gMndrpBRStwW3Wo5vfaaooXPiX9YnVkcyJK/hTHKeo5FMHWOcsqrwfLeI/Q69aBLF4AHUAlcQANe8kzQcjS59L6A3//oAmUaKZAr57JcVOWqzaAUdM1UQp8cuwa5cSWqjzEtoDxIJfw50hUqfux3sBxawRC4=
 jpa.global.	3600	in	ns	ns75.domaincontrol.com.
 jpa.global.	3600	in	ns	ns76.domaincontrol.com.
 jpac.global.	3600	in	ns	dns1.namecheaphosting.com.
@@ -76916,8 +76966,6 @@ jpsb.global.	3600	in	ns	ns3.stackdns.com.
 jpsb.global.	3600	in	ns	ns4.stackdns.com.
 jpyg.global.	3600	in	ns	ns1.gmointernet.com.
 jpyg.global.	3600	in	ns	ns1.gmointernet.jp.
-jq6h1ik273sainfvuaqogdqdaschp4bv.global.	3600	in	nsec3	1 1 0 73 JRKAKNUDRJ3HHESH73GOMJ8V3SVP3VGU NS DS RRSIG
-jq6h1ik273sainfvuaqogdqdaschp4bv.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. HfIeVWIcBCUs5iO8PaWZQSsU8F1aebd/nCUgRY2anQ8TGJbAWDRb/zGgKAGn2Hl6MQhXfoabhOEAbFO1kuIWwyjK1DKOIYjOptObuXQhEEavZqPgEYfg8rZd1rZ6nmSOUie6pTVo0WX5gi0CGuBxp5+j//jo0qf4K6ZawpaLdLU=
 jqk.global.	3600	in	ns	pns101.cloudns.net.
 jqk.global.	3600	in	ns	pns102.cloudns.net.
 jqkslot.global.	3600	in	ns	cruz.ns.cloudflare.com.
@@ -77665,8 +77713,8 @@ kaizen.global.	3600	in	ns	dns102.registrar-servers.com.
 kaizenfoundation.global.	3600	in	ns	ns1.instradns.com.
 kaizenfoundation.global.	3600	in	ns	ns2.instradns.com.
 kaizenfoundation.global.	3600	in	ns	ns3.instradns.com.
-kaizenvest.global.	3600	in	ns	ns1.qlc.co.in.
-kaizenvest.global.	3600	in	ns	ns2.qlc.co.in.
+kaizenvest.global.	3600	in	ns	ns25.domaincontrol.com.
+kaizenvest.global.	3600	in	ns	ns26.domaincontrol.com.
 kakao.global.	3600	in	ns	ns75.domaincontrol.com.
 kakao.global.	3600	in	ns	ns76.domaincontrol.com.
 kakaobank.global.	3600	in	ns	cleo.ns.cloudflare.com.
@@ -79473,14 +79521,12 @@ kjp.global.	3600	in	ns	ns53.domaincontrol.com.
 kjp.global.	3600	in	ns	ns54.domaincontrol.com.
 kjsi.global.	3600	in	ns	ns63.domaincontrol.com.
 kjsi.global.	3600	in	ns	ns64.domaincontrol.com.
-kk4dkq6ke4v6qk4kma6ss6dibi1hnmn2.global.	3600	in	nsec3	1 1 0 73 KKFR1D45U8FBAIG5KV5Q90ON5VO5M88E NS DS RRSIG
-kk4dkq6ke4v6qk4kma6ss6dibi1hnmn2.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. PpamE8OatvX40TUlnBy5c3z6k7EWaJEEspSGopuA0fYkxP6xfiedAv87W213ftXrhnstPx1Q8X9KDyo+2QL5Fo5iZ9pfYA+QDm++vngu4PAbBlkiBDc9sOZw9orA2rYJrnVjLsoZw31ruSVCEhX40l3cN/D8td8Nyr8m4ZyvEi0=
+kk4dkq6ke4v6qk4kma6ss6dibi1hnmn2.global.	3600	in	nsec3	1 1 0 73 KKSJT0UBD5HEBU1TTQGVBM6I2G5IA65B NS DS RRSIG
+kk4dkq6ke4v6qk4kma6ss6dibi1hnmn2.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002085320 20250911075320 63453 global. T1ibKtPdZUooq2CvNXnNeQW/SDQz38akj4APH9SYGMvVgy2gD6DsbLtfuyC+yQ+vs7ecQzC5GljOm+jbUb2xcZP/G/E9ZhywMoZVgVNLR3fxgaKp6Pue2iQmGL7Dpnskc6hg1EVFsiWxMxBXWX/SUUDswmY472rSf6nKYzl8sw0=
 kkcev.global.	3600	in	ns	ns1.dyna-ns.net.
 kkcev.global.	3600	in	ns	ns2.dyna-ns.net.
 kkdc.global.	3600	in	ns	ns11.domaincontrol.com.
 kkdc.global.	3600	in	ns	ns12.domaincontrol.com.
-kkfr1d45u8fbaig5kv5q90on5vo5m88e.global.	3600	in	nsec3	1 1 0 73 KKSJT0UBD5HEBU1TTQGVBM6I2G5IA65B NS DS RRSIG
-kkfr1d45u8fbaig5kv5q90on5vo5m88e.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. Etc72fMKA4nDXI/3AgD56mtMIS5Oxj2owcb/MBatH4Qckyy8qBAMbWt6Tm51U+uVDoYrM8PpccOFuPhmGOnU++7bA0TCzs3EXKu9G3oKVCaG7l0YLxz6wqQI0KF8auBpbVGOX2lTuk/D6fQJZoZg8KMB1q05IZE5jT/yinxQxp0=
 kki.global.	3600	in	ns	ns51.domaincontrol.com.
 kki.global.	3600	in	ns	ns52.domaincontrol.com.
 kkog.global.	3600	in	ns	ns75.domaincontrol.com.
@@ -79545,8 +79591,10 @@ kleinerperkins.global.	3600	in	ns	ns6.markmonitor.com.
 kleinerperkins.global.	3600	in	ns	ns7.markmonitor.com.
 kleintools.global.	3600	in	ns	ns27.domaincontrol.com.
 kleintools.global.	3600	in	ns	ns28.domaincontrol.com.
-kleopatra.global.	3600	in	ns	ns67.domaincontrol.com.
-kleopatra.global.	3600	in	ns	ns68.domaincontrol.com.
+kleopatra.global.	3600	in	ns	ns-1415.awsdns-48.org.
+kleopatra.global.	3600	in	ns	ns-2020.awsdns-60.co.uk.
+kleopatra.global.	3600	in	ns	ns-468.awsdns-58.com.
+kleopatra.global.	3600	in	ns	ns-690.awsdns-22.net.
 klever.global.	3600	in	ns	ns-1444.awsdns-52.org.
 klever.global.	3600	in	ns	ns-1994.awsdns-57.co.uk.
 klever.global.	3600	in	ns	ns-31.awsdns-03.com.
@@ -81257,8 +81305,8 @@ lale.global.	3600	in	ns	ns1043.ui-dns.com.
 lale.global.	3600	in	ns	ns1107.ui-dns.biz.
 lalhub.global.	3600	in	ns	aida.ns.cloudflare.com.
 lalhub.global.	3600	in	ns	donald.ns.cloudflare.com.
-lalvani.global.	3600	in	ns	ns1.qlc.co.in.
-lalvani.global.	3600	in	ns	ns2.qlc.co.in.
+lalvani.global.	3600	in	ns	ns47.domaincontrol.com.
+lalvani.global.	3600	in	ns	ns48.domaincontrol.com.
 lama.global.	3600	in	ns	ns1.beget.com.
 lama.global.	3600	in	ns	ns1.beget.pro.
 lama.global.	3600	in	ns	ns2.beget.com.
@@ -81981,6 +82029,8 @@ leaderandteamcoaching.global.	3600	in	ns	ns1.r4l.com.
 leaderandteamcoaching.global.	3600	in	ns	ns2.r4l.com.
 leaderarena.global.	3600	in	ns	ns29.domaincontrol.com.
 leaderarena.global.	3600	in	ns	ns30.domaincontrol.com.
+leaderbet.global.	3600	in	ns	ns67.domaincontrol.com.
+leaderbet.global.	3600	in	ns	ns68.domaincontrol.com.
 leaderinme.global.	3600	in	ns	owen.ns.cloudflare.com.
 leaderinme.global.	3600	in	ns	rita.ns.cloudflare.com.
 leadernow.global.	3600	in	ns	ns13.domaincontrol.com.
@@ -83154,8 +83204,6 @@ liderancaexponencial.global.	3600	in	ns	ns1.101domain.com.
 liderancaexponencial.global.	3600	in	ns	ns2.101domain.com.
 lideres.global.	3600	in	ns	ns39.domaincontrol.com.
 lideres.global.	3600	in	ns	ns40.domaincontrol.com.
-lido.global.	3600	in	ns	ns47.domaincontrol.com.
-lido.global.	3600	in	ns	ns48.domaincontrol.com.
 lie.global.	3600	in	ns	dean.ns.cloudflare.com.
 lie.global.	3600	in	ns	sierra.ns.cloudflare.com.
 lied-international.global.	3600	in	ns	ns59.domaincontrol.com.
@@ -85794,6 +85842,8 @@ lumi.global.	3600	in	ns	fay.ns.cloudflare.com.
 lumi.global.	3600	in	ns	theo.ns.cloudflare.com.
 lumiar.global.	3600	in	ns	ns09.domaincontrol.com.
 lumiar.global.	3600	in	ns	ns10.domaincontrol.com.
+lumieredesigns.global.	3600	in	ns	ns67.domaincontrol.com.
+lumieredesigns.global.	3600	in	ns	ns68.domaincontrol.com.
 lumiex.global.	3600	in	ns	ns11.domaincontrol.com.
 lumiex.global.	3600	in	ns	ns12.domaincontrol.com.
 lumihealth.global.	3600	in	ns	ns1019.ui-dns.org.
@@ -85888,6 +85938,8 @@ lunasea.global.	3600	in	ns	ns1.domain.com.
 lunasea.global.	3600	in	ns	ns2.domain.com.
 lunastra.global.	3600	in	ns	ns1.dns-parking.com.
 lunastra.global.	3600	in	ns	ns2.dns-parking.com.
+lunaversex.global.	3600	in	ns	ns1.dns-parking.com.
+lunaversex.global.	3600	in	ns	ns2.dns-parking.com.
 lunera.global.	3600	in	ns	ns01.domaincontrol.com.
 lunera.global.	3600	in	ns	ns02.domaincontrol.com.
 lunes.global.	3600	in	ns	ns1158.hostgator.com.br.
@@ -86254,9 +86306,9 @@ m-tech.global.	3600	in	ns	jo.ns.cloudflare.com.
 m-tech.global.	3600	in	ns	ram.ns.cloudflare.com.
 m-terrain.global.	3600	in	ds	34546 15 2 3FA06361383E1A81D76B6C58E1CC7D3CC8C31EC8CF64A857AC757A53C00C00F6
 m-terrain.global.	3600	in	ds	34546 15 4 C10F9E9BFC52E07B8193400C7E5F52A308B811EFCCB18590934F500428F3866CABD4AE429F90636D936FCB85E701DF94
-m-terrain.global.	3600	in	ns	ns1.hyp.net.
-m-terrain.global.	3600	in	ns	ns2.hyp.net.
-m-terrain.global.	3600	in	ns	ns3.hyp.net.
+m-terrain.global.	3600	in	ns	ns1.expireddomain.hyp.net.
+m-terrain.global.	3600	in	ns	ns2.expireddomain.hyp.net.
+m-terrain.global.	3600	in	ns	ns3.expireddomain.hyp.net.
 m-terrain.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. JeWEYTgYPzx2ooil3TLDls63H4xibTTFiY+cn4ouWqKWCiJ0VC2YtDj0GHejZCFEkemEQP4IWmk6u/Gcl9B3tyimSvy/jk1rsixTW0svAkXI50MmOnAi4sGaoMIG5PWJdxEGfDBwRukOo7whXFGZoJSp9kKv+RSIqDO5M/6gFvI=
 m.global.	3600	in	ns	dean.ns.cloudflare.com.
 m.global.	3600	in	ns	sierra.ns.cloudflare.com.
@@ -86503,6 +86555,8 @@ maclellanprograms.global.	3600	in	ns	ns3.stackdns.com.
 maclellanprograms.global.	3600	in	ns	ns4.stackdns.com.
 macloud.global.	3600	in	ns	ns1.dyna-ns.net.
 macloud.global.	3600	in	ns	ns2.dyna-ns.net.
+maco.global.	3600	in	ns	ns37.domaincontrol.com.
+maco.global.	3600	in	ns	ns38.domaincontrol.com.
 macpayments.global.	3600	in	ns	dns1.registrar-servers.com.
 macpayments.global.	3600	in	ns	dns2.registrar-servers.com.
 macphio.global.	3600	in	ns	dns1.cscdns.net.
@@ -87035,6 +87089,8 @@ maitai.global.	3600	in	ns	ns37.domaincontrol.com.
 maitai.global.	3600	in	ns	ns38.domaincontrol.com.
 maited.global.	3600	in	ns	ns53.domaincontrol.com.
 maited.global.	3600	in	ns	ns54.domaincontrol.com.
+maitreya.global.	3600	in	ns	ns47.domaincontrol.com.
+maitreya.global.	3600	in	ns	ns48.domaincontrol.com.
 maitrise.global.	3600	in	ns	dns1.registrar-servers.com.
 maitrise.global.	3600	in	ns	dns2.registrar-servers.com.
 maj.global.	3600	in	ns	dns10.ovh.net.
@@ -87237,8 +87293,6 @@ mamalemonhotels.global.	3600	in	ns	ns1043.ui-dns.de.
 mamalemonhotels.global.	3600	in	ns	ns1081.ui-dns.com.
 mamalemonhotels.global.	3600	in	ns	ns1097.ui-dns.biz.
 mamalemonhotels.global.	3600	in	ns	ns1099.ui-dns.org.
-mamamuse.global.	3600	in	ns	ns11.domaincontrol.com.
-mamamuse.global.	3600	in	ns	ns12.domaincontrol.com.
 mamashouse.global.	3600	in	ns	ns13.domaincontrol.com.
 mamashouse.global.	3600	in	ns	ns14.domaincontrol.com.
 mamba.global.	3600	in	ns	joan.ns.cloudflare.com.
@@ -87893,6 +87947,10 @@ marketingsecrets.global.	3600	in	ns	ns.udag.net.
 marketingsecrets.global.	3600	in	ns	ns.udag.org.
 marketingstrategy.global.	3600	in	ns	ns01.domaincontrol.com.
 marketingstrategy.global.	3600	in	ns	ns02.domaincontrol.com.
+marketleaders.global.	3600	in	ns	ns1stv.name.com.
+marketleaders.global.	3600	in	ns	ns2hkt.name.com.
+marketleaders.global.	3600	in	ns	ns3flt.name.com.
+marketleaders.global.	3600	in	ns	ns4hmp.name.com.
 marketlink.global.	3600	in	ns	ns21.domaincontrol.com.
 marketlink.global.	3600	in	ns	ns22.domaincontrol.com.
 marketmate.global.	3600	in	ns	ns01.trademarkarea.com.
@@ -89379,10 +89437,6 @@ media.global.	3600	in	ns	ns1.domaineasy.coom.
 media.global.	3600	in	ns	ns2.domaineasy.com.
 mediabuy.global.	3600	in	ns	dns1.registrar-servers.com.
 mediabuy.global.	3600	in	ns	dns2.registrar-servers.com.
-mediabuying.global.	3600	in	ns	ns1.tld-ns.net.
-mediabuying.global.	3600	in	ns	ns2.tld-ns.com.
-mediabuying.global.	3600	in	ns	ns3.tld-ns.net.
-mediabuying.global.	3600	in	ns	ns4.tld-ns.com.
 mediacloud.global.	3600	in	ns	ns1017.ui-dns.biz.
 mediacloud.global.	3600	in	ns	ns1038.ui-dns.de.
 mediacloud.global.	3600	in	ns	ns1078.ui-dns.org.
@@ -89829,6 +89883,10 @@ mehra.global.	3600	in	ns	ns55.domaincontrol.com.
 mehra.global.	3600	in	ns	ns56.domaincontrol.com.
 mei.global.	3600	in	ns	ns57.domaincontrol.com.
 mei.global.	3600	in	ns	ns58.domaincontrol.com.
+meid.global.	3600	in	ds	49576 13 2 A69B9C2A756DD2644D1EEFCEF64F67A2E8F09150438C3757200C96E87B11391C
+meid.global.	3600	in	ns	ns1.loopiagroup.com.
+meid.global.	3600	in	ns	ns2.loopiagroup.com.
+meid.global.	3600	in	rrsig	DS 8 2 3600 20251002134916 20250911124916 63453 global. reecOBe9A8UiPtt5MZZ8DZJDdaSlSmXqDpgborFwqsflGu2aueTDBChos0u9JG5ULRpmtls/ro4Q4hEH/n89/wa8MpEc6QspiCzlz/UspP+TNUdCi43eM9KoTvCMQdygMJhcQCoB2r84GByu7ULnDj6/ZDSBgIFC7jnEWxdUAjc=
 meier.global.	3600	in	ns	ns57.domaincontrol.com.
 meier.global.	3600	in	ns	ns58.domaincontrol.com.
 meif.global.	3600	in	ns	ns-1405.awsdns-47.org.
@@ -90637,8 +90695,11 @@ metalottery.global.	3600	in	ns	ns-1096.awsdns-09.org.
 metalottery.global.	3600	in	ns	ns-1690.awsdns-19.co.uk.
 metalottery.global.	3600	in	ns	ns-413.awsdns-51.com.
 metalottery.global.	3600	in	ns	ns-736.awsdns-28.net.
-metama.global.	3600	in	ns	ns77.domaincontrol.com.
-metama.global.	3600	in	ns	ns78.domaincontrol.com.
+metama.global.	3600	in	ns	ns1.linode.com.
+metama.global.	3600	in	ns	ns2.linode.com.
+metama.global.	3600	in	ns	ns3.linode.com.
+metama.global.	3600	in	ns	ns4.linode.com.
+metama.global.	3600	in	ns	ns5.linode.com.
 metamark.global.	3600	in	ns	ns51.domaincontrol.com.
 metamark.global.	3600	in	ns	ns52.domaincontrol.com.
 metamarket.global.	3600	in	ns	ns3.afternic.com.
@@ -91002,6 +91063,10 @@ mexicana.global.	3600	in	ns	ns1.accountsupport.com.
 mexicana.global.	3600	in	ns	ns2.accountsupport.com.
 mexicanamro.global.	3600	in	ns	pdns09.domaincontrol.com.
 mexicanamro.global.	3600	in	ns	pdns10.domaincontrol.com.
+mexo.global.	3600	in	ns	curitiba.ns.porkbun.com.
+mexo.global.	3600	in	ns	fortaleza.ns.porkbun.com.
+mexo.global.	3600	in	ns	maceio.ns.porkbun.com.
+mexo.global.	3600	in	ns	salvador.ns.porkbun.com.
 mexus.global.	3600	in	ns	ns05.domaincontrol.com.
 mexus.global.	3600	in	ns	ns06.domaincontrol.com.
 meya.global.	3600	in	ns	ns1.bh-in-14.webhostbox.net.
@@ -92135,8 +92200,8 @@ mintgroup.global.	3600	in	ns	ns-uk.1and1-dns.com.
 mintgroup.global.	3600	in	ns	ns-uk.1and1-dns.org.
 mintme.global.	3600	in	ns	cass.ns.cloudflare.com.
 mintme.global.	3600	in	ns	vern.ns.cloudflare.com.
-minto.global.	3600	in	ns	ns65.worldnic.com.
-minto.global.	3600	in	ns	ns66.worldnic.com.
+minto.global.	3600	in	ns	edward.ns.cloudflare.com.
+minto.global.	3600	in	ns	virginia.ns.cloudflare.com.
 mintomoney.global.	3600	in	ns	ns29.domaincontrol.com.
 mintomoney.global.	3600	in	ns	ns30.domaincontrol.com.
 minton.global.	3600	in	ns	ns71.domaincontrol.com.
@@ -92804,10 +92869,8 @@ mmm2025.global.	3600	in	ns	ns1gjz.name.com.
 mmm2025.global.	3600	in	ns	ns2ckr.name.com.
 mmm2025.global.	3600	in	ns	ns3cqz.name.com.
 mmm2025.global.	3600	in	ns	ns4cgs.name.com.
-mmmuseum.global.	3600	in	ns	ns1033.ui-dns.biz.
-mmmuseum.global.	3600	in	ns	ns1069.ui-dns.de.
-mmmuseum.global.	3600	in	ns	ns1085.ui-dns.com.
-mmmuseum.global.	3600	in	ns	ns1102.ui-dns.org.
+mmmuseum.global.	3600	in	ns	a.ns36.de.
+mmmuseum.global.	3600	in	ns	b.ns36.de.
 mmp.global.	3600	in	ns	ns21.domaincontrol.com.
 mmp.global.	3600	in	ns	ns22.domaincontrol.com.
 mmr.global.	3600	in	ns	ns0.clara.net.
@@ -93779,6 +93842,8 @@ moos.global.	3600	in	ns	ns1094.ui-dns.biz.
 moos.global.	3600	in	ns	ns1097.ui-dns.org.
 moose.global.	3600	in	ns	ns03.domaincontrol.com.
 moose.global.	3600	in	ns	ns04.domaincontrol.com.
+moosmoos.global.	3600	in	ns	ns5.kasserver.com.
+moosmoos.global.	3600	in	ns	ns6.kasserver.com.
 mootc.global.	3600	in	ns	a.share-dns.com.
 mootc.global.	3600	in	ns	b.share-dns.net.
 moove.global.	3600	in	ns	dns15.hichina.com.
@@ -94332,14 +94397,12 @@ mozido.global.	3600	in	ns	ns05.domaincontrol.com.
 mozido.global.	3600	in	ns	ns06.domaincontrol.com.
 mozsweden.global.	3600	in	ns	ns1.dnshost.net.
 mozsweden.global.	3600	in	ns	ns2.dnshost.net.
-mp102vcdf7qmjah0acr7qi84plp8fb6k.global.	3600	in	nsec3	1 1 0 73 MP6RDNDT8LUT7GVMAJL8H7KAFT3VFR73 NS DS RRSIG
-mp102vcdf7qmjah0acr7qi84plp8fb6k.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. FoVzmacDOFpZZAetg75JToJqTawYKP5ILI6Y9NXxM4cr0tSZL9Uy0YV506sq8H0IoMvdscHDmiq6O2H3+abjBECPT3oDnXaBvObWv4eSEz3xCjQKdh9B6QMTO6bzG1TPc/SPGkVASgbO//bXZHlDZ0YE8PjoshpbJ1jhojTPGFY=
+mp102vcdf7qmjah0acr7qi84plp8fb6k.global.	3600	in	nsec3	1 1 0 73 MPBB172GCOMVKF87H4C3N4AA6QUGL4EJ NS DS RRSIG
+mp102vcdf7qmjah0acr7qi84plp8fb6k.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002080055 20250911070055 63453 global. jyDd7K8qQYm41kn4pTsfYuU8Dqzld5EINQs3lApNF0w4uxwmG7VKcHOISfh0uO30dlNH5MQWXGCHd2vE95qFbjQzzfdyZqoyFXp85A/z4eSURrSrvw+pfWH6nd7NDEB+jk5qaMQMdRG2/vbVusGq0KlYVY4Gc6fXHT5g1TdcCqk=
 mp3juice.global.	3600	in	ns	lauryn.ns.cloudflare.com.
 mp3juice.global.	3600	in	ns	norman.ns.cloudflare.com.
 mp4moviez.global.	3600	in	ns	dns101.registrar-servers.com.
 mp4moviez.global.	3600	in	ns	dns102.registrar-servers.com.
-mp6rdndt8lut7gvmajl8h7kaft3vfr73.global.	3600	in	nsec3	1 1 0 73 MPBB172GCOMVKF87H4C3N4AA6QUGL4EJ NS DS RRSIG
-mp6rdndt8lut7gvmajl8h7kaft3vfr73.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. thEhAhtoda63B+ekf5+TvXqvVHEpr/DBzxMFhXYIBuEPuUz/9vVXCPhGKt7xrycc82xfyDdetmW1521j3s6g6ps9Sg5gpY08gEtCItB31oLo1fi58x/VQj06ueeq3KPk77BTS+nOfFvQsaXh40Bo9PAo4GT7EzO+3z2irvNeJLo=
 mpact.global.	3600	in	ns	ns8.wixdns.net.
 mpact.global.	3600	in	ns	ns9.wixdns.net.
 mpass.global.	3600	in	ns	ns-1246.awsdns-27.org.
@@ -94644,6 +94707,8 @@ mstar.global.	3600	in	ns	pdns1.registrar-servers.com.
 mstar.global.	3600	in	ns	pdns2.registrar-servers.com.
 mstdn.global.	3600	in	ns	austin.ns.cloudflare.com.
 mstdn.global.	3600	in	ns	kristina.ns.cloudflare.com.
+mstr.global.	3600	in	ns	ns31.domaincontrol.com.
+mstr.global.	3600	in	ns	ns32.domaincontrol.com.
 msu.global.	3600	in	ns	ns1.justhost.com.
 msu.global.	3600	in	ns	ns2.justhost.com.
 msv.global.	3600	in	ns	ns11.zooku.com.
@@ -95924,6 +95989,8 @@ mypassport.global.	3600	in	ns	wdcns01.wdc.com.
 mypassport.global.	3600	in	ns	wdcns02.wdc.com.
 mypath.global.	3600	in	ns	ns27.domaincontrol.com.
 mypath.global.	3600	in	ns	ns28.domaincontrol.com.
+mypathway.global.	3600	in	ns	ns25.domaincontrol.com.
+mypathway.global.	3600	in	ns	ns26.domaincontrol.com.
 mypathways.global.	3600	in	ns	ns-149.awsdns-18.com.
 mypathways.global.	3600	in	ns	ns-1495.awsdns-58.org.
 mypathways.global.	3600	in	ns	ns-1606.awsdns-08.co.uk.
@@ -96455,7 +96522,7 @@ n.global.	3600	in	ns	ns1218.ispapi.net.
 n.global.	3600	in	ns	ns2167.ispapi.net.
 n.global.	3600	in	ns	ns3219.ispapi.net.
 n0j3qam1bd2ha0vns5egffaslmo79j7p.global.	3600	in	nsec3	1 1 0 73 N0NRROJR4RS8P6CDFPRFM305GFLIRRAN NS SOA RRSIG DNSKEY NSEC3PARAM
-n0j3qam1bd2ha0vns5egffaslmo79j7p.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002011915 20250911001915 63453 global. aPoCt9+W6M5B0gN9K3val/lfqPe5OMCZyI1pf1JSO1T6zc+fWpoF5+AIPFHm0p+lXbF6BblSopurgFyCyo8NyDEi37xyJSgjYaKpRWNBybuuikZ6Ep4z8cxfkMeJt6ItrOieHO3CQ/CmKX26MjKKmX1Yvbg8vMEVgA1Vdhal5w8=
+n0j3qam1bd2ha0vns5egffaslmo79j7p.global.	3600	in	rrsig	NSEC3 8 2 3600 20251003010533 20250912000533 63453 global. RZyIHlJYJQhHyRYRASSPlg+d6gaFYM05Q6c95OzDUQ92yiwWbNmwLj+p16ug/iwPqpkzcwsopHsfPl5lyTfgjT61/Kg22xbVK7y3S7H9xK4aQ2Zie4wkwK0+AZhFlsqFo2V7wxgvxtyzWWyw/yr0kd5Q6Dm+9JVpvX6qboRbG80=
 n0nrrojr4rs8p6cdfprfm305gflirran.global.	3600	in	nsec3	1 1 0 73 N0V3TU5JLTP00VRM2O998VIMENET474M NS DS RRSIG
 n0nrrojr4rs8p6cdfprfm305gflirran.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. Nv/EpHasNEhcXx0v2GLTq1awROaicBNm67Fwj6wSpWkAFrZfMHJlXMap5EBB2DLah0ojBB2ChuWppbDG26YU3WgyLPGA1U2tP1mZcB0CjlEvfhLe8qYkDLBKWSFGF7qWp6gg7el3TcxBD7vR1a700tQXL9ge3jbiMb3rRDONP2Q=
 n0v3tu5jltp00vrm2o998vimenet474m.global.	3600	in	nsec3	1 1 0 73 N161HT4C8PUEKSHC0A0NM668GJC1OFHR NS DS RRSIG
@@ -99261,8 +99328,9 @@ ni9dfpu77dtdejtbn9culoaoaucor0j5.global.	3600	in	nsec3	1 1 0 73 NID7PJGD1UGSGK9L
 ni9dfpu77dtdejtbn9culoaoaucor0j5.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. qG/F/De8YV/qmGio148Yga0u3UKhpMY0wr1iMu1JC2v2U5YklC155bFhYxzZflVKhcixvA04rTeHN6DBx6qzX1uhIPoMc78ZFmSbKO5/E1Q4cNjQs6GPrWSaHNkkhc//OYfXmHNqY2Td5drcfoA5acX5/Lyd/HLEYEV6cvkUWic=
 niac.global.	3600	in	ns	ns1.elevology.com.
 niac.global.	3600	in	ns	ns2.elevology.com.
-niagara.global.	3600	in	ns	ns1.blazingfast.io.
-niagara.global.	3600	in	ns	ns2.blazingfast.io.
+niagara.global.	3600	in	ns	ina1.registrar.eu.
+niagara.global.	3600	in	ns	ina2.registrar.eu.
+niagara.global.	3600	in	ns	ina3.registrar.eu.
 nialfuller.global.	3600	in	ns	ns1jlp.name.com.
 nialfuller.global.	3600	in	ns	ns2nsw.name.com.
 nialfuller.global.	3600	in	ns	ns3dgj.name.com.
@@ -100065,8 +100133,8 @@ nolimit.global.	3600	in	ns	ns75.domaincontrol.com.
 nolimit.global.	3600	in	ns	ns76.domaincontrol.com.
 nolimitmarkets.global.	3600	in	ns	ns73.domaincontrol.com.
 nolimitmarkets.global.	3600	in	ns	ns74.domaincontrol.com.
-nolimits.global.	3600	in	ns	dns1.registrar-servers.com.
-nolimits.global.	3600	in	ns	dns2.registrar-servers.com.
+nolimits.global.	3600	in	ns	ns14.wixdns.net.
+nolimits.global.	3600	in	ns	ns15.wixdns.net.
 nolo.global.	3600	in	ns	ns1.whois.com.
 nolo.global.	3600	in	ns	ns2.whois.com.
 nolo.global.	3600	in	ns	ns3.whois.com.
@@ -100859,6 +100927,8 @@ nplww.global.	3600	in	ns	ns10.wixdns.net.
 nplww.global.	3600	in	ns	ns11.wixdns.net.
 npp6sg90e590b07b7dv6oq26a4r86grs.global.	3600	in	nsec3	1 1 0 73 NQ4NB0U4FRAIU9T71V8MHP6IHT68C2Q3 NS DS RRSIG
 npp6sg90e590b07b7dv6oq26a4r86grs.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. oA59A9aj/DA1z82+1TOjSdd0q1vuaUwkAhSTWpYVwPOauwZzqZRJpz/tXVKsYiS2zP4vns9z4vpODYuvNF/SXIMOLVZGw+zQEW2PnoiIiTti/aoxGbbAun+5XRGDRret/GjRQtBdxbHS5QzRc8bsANsW0bDMMzS1jbvN48bgRdI=
+npre.global.	3600	in	ns	ns37.domaincontrol.com.
+npre.global.	3600	in	ns	ns38.domaincontrol.com.
 nps.global.	3600	in	ns	ns55.domaincontrol.com.
 nps.global.	3600	in	ns	ns56.domaincontrol.com.
 npsource.global.	3600	in	ns	dns1.registrar-servers.com.
@@ -100931,10 +101001,10 @@ ns0.hear.global.	3600	in	a	51.178.81.211
 ns0.hear.global.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns0.meetups.global.	3600	in	a	51.178.81.211
 ns0.meetups.global.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
-ns0.propagacion.global.	3600	in	a	46.105.30.208
-ns0.propagacion.global.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
-ns0.propagation.global.	3600	in	a	46.105.30.208
-ns0.propagation.global.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns0.propagacion.global.	3600	in	a	51.178.81.211
+ns0.propagacion.global.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
+ns0.propagation.global.	3600	in	a	51.178.81.211
+ns0.propagation.global.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns0.unicas.global.	3600	in	a	84.20.255.43
 ns01.dsa.global.	3600	in	a	94.23.162.163
 ns01.lwn.global.	3600	in	a	202.181.101.102
@@ -101140,11 +101210,12 @@ ns1.photoshoot.global.	3600	in	a	77.68.98.238
 ns1.pinaps.global.	3600	in	a	194.5.159.251
 ns1.pressmf.global.	3600	in	a	162.214.155.39
 ns1.prismgroup.global.	3600	in	a	148.105.251.16
-ns1.propagacion.global.	3600	in	a	46.105.30.208
-ns1.propagacion.global.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
-ns1.propagation.global.	3600	in	a	46.105.30.208
-ns1.propagation.global.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns1.propagacion.global.	3600	in	a	51.178.81.211
+ns1.propagacion.global.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
+ns1.propagation.global.	3600	in	a	51.178.81.211
+ns1.propagation.global.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns1.properties-mag.global.	3600	in	a	15.206.142.42
+ns1.queer.global.	3600	in	a	46.31.79.55
 ns1.quiz.global.	3600	in	a	203.161.62.139
 ns1.qwords.global.	3600	in	a	103.28.13.247
 ns1.rcoin.global.	3600	in	a	162.144.93.205
@@ -101398,11 +101469,12 @@ ns2.pdp.global.	3600	in	a	52.201.58.240
 ns2.photoshoot.global.	3600	in	a	77.68.35.195
 ns2.pinaps.global.	3600	in	a	194.5.159.251
 ns2.pressmf.global.	3600	in	a	162.214.155.40
-ns2.propagacion.global.	3600	in	a	46.105.30.208
-ns2.propagacion.global.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
-ns2.propagation.global.	3600	in	a	46.105.30.208
-ns2.propagation.global.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns2.propagacion.global.	3600	in	a	51.178.81.211
+ns2.propagacion.global.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
+ns2.propagation.global.	3600	in	a	51.178.81.211
+ns2.propagation.global.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns2.properties-mag.global.	3600	in	a	15.206.142.42
+ns2.queer.global.	3600	in	a	46.31.79.55
 ns2.qwords.global.	3600	in	a	103.28.13.57
 ns2.realstatus.global.	3600	in	a	185.78.220.84
 ns2.redleaf.global.	3600	in	a	173.208.188.171
@@ -101738,6 +101810,8 @@ nui.global.	3600	in	ns	ns2.discountdomains.co.nz.
 nui.global.	3600	in	ns	ns3.discountdomains.co.nz.
 nuj.global.	3600	in	ns	jakub.ns.cloudflare.com.
 nuj.global.	3600	in	ns	kristina.ns.cloudflare.com.
+nuke.global.	3600	in	ns	ns1.cnolnic.net.
+nuke.global.	3600	in	ns	ns2.cnolnic.net.
 nukethefridge.global.	3600	in	ns	ns55.domaincontrol.com.
 nukethefridge.global.	3600	in	ns	ns56.domaincontrol.com.
 nul.global.	3600	in	ns	brenda.ns.cloudflare.com.
@@ -101839,16 +101913,10 @@ nuron.global.	3600	in	ns	ns09.domaincontrol.com.
 nuron.global.	3600	in	ns	ns10.domaincontrol.com.
 nurse.global.	3600	in	ns	ns21.domaincontrol.com.
 nurse.global.	3600	in	ns	ns22.domaincontrol.com.
-nursingcareers.global.	3600	in	ns	ns49.domaincontrol.com.
-nursingcareers.global.	3600	in	ns	ns50.domaincontrol.com.
 nursingconference.global.	3600	in	ns	pdns05.domaincontrol.com.
 nursingconference.global.	3600	in	ns	pdns06.domaincontrol.com.
-nursingjobs.global.	3600	in	ns	ns45.domaincontrol.com.
-nursingjobs.global.	3600	in	ns	ns46.domaincontrol.com.
 nursingnow.global.	3600	in	ns	ns71.domaincontrol.com.
 nursingnow.global.	3600	in	ns	ns72.domaincontrol.com.
-nursingprofessionals.global.	3600	in	ns	ns59.domaincontrol.com.
-nursingprofessionals.global.	3600	in	ns	ns60.domaincontrol.com.
 nurtuous.global.	3600	in	ns	ns23.domaincontrol.com.
 nurtuous.global.	3600	in	ns	ns24.domaincontrol.com.
 nurture.global.	3600	in	ns	ns-cloud-b1.googledomains.com.
@@ -101910,6 +101978,8 @@ nuva.global.	3600	in	ns	ns17.domaincontrol.com.
 nuva.global.	3600	in	ns	ns18.domaincontrol.com.
 nuvai.global.	3600	in	ns	ns01.domaincontrol.com.
 nuvai.global.	3600	in	ns	ns02.domaincontrol.com.
+nuvara.global.	3600	in	ns	ns37.domaincontrol.com.
+nuvara.global.	3600	in	ns	ns38.domaincontrol.com.
 nuvaris.global.	3600	in	ns	aaron.ns.cloudflare.com.
 nuvaris.global.	3600	in	ns	aurora.ns.cloudflare.com.
 nuvei.global.	3600	in	ns	ns35.domaincontrol.com.
@@ -102154,8 +102224,8 @@ o-o.global.	3600	in	ns	ns4-cloud.nic.ru.
 o-o.global.	3600	in	ns	ns4-l2.nic.ru.
 o-o.global.	3600	in	ns	ns8-cloud.nic.ru.
 o-o.global.	3600	in	ns	ns8-l2.nic.ru.
-o-star.global.	3600	in	ns	ns0.wixdns.net.
-o-star.global.	3600	in	ns	ns1.wixdns.net.
+o-star.global.	3600	in	ns	ns31.domaincontrol.com.
+o-star.global.	3600	in	ns	ns32.domaincontrol.com.
 o.global.	3600	in	ns	ns1218.ispapi.net.
 o.global.	3600	in	ns	ns2167.ispapi.net.
 o.global.	3600	in	ns	ns3219.ispapi.net.
@@ -102947,6 +103017,8 @@ offsec.global.	3600	in	ns	2-can.njalla.in.
 offsec.global.	3600	in	ns	3-get.njalla.fo.
 offset.global.	3600	in	ns	ns39.domaincontrol.com.
 offset.global.	3600	in	ns	ns40.domaincontrol.com.
+offsetai.global.	3600	in	ns	ns47.domaincontrol.com.
+offsetai.global.	3600	in	ns	ns48.domaincontrol.com.
 offshorebooks.global.	3600	in	ns	ns07.domaincontrol.com.
 offshorebooks.global.	3600	in	ns	ns08.domaincontrol.com.
 offshorefx.global.	3600	in	ns	ns12.wixdns.net.
@@ -105545,8 +105617,8 @@ orenco.global.	3600	in	ns	dns1.registrar-servers.com.
 orenco.global.	3600	in	ns	dns2.registrar-servers.com.
 orenda.global.	3600	in	ns	maxim.ns.cloudflare.com.
 orenda.global.	3600	in	ns	nancy.ns.cloudflare.com.
-oreta-energy.global.	3600	in	ns	ns1.dyna-ns.net.
-oreta-energy.global.	3600	in	ns	ns2.dyna-ns.net.
+oreta-energy.global.	3600	in	ns	ns103.my-control-panel.com.
+oreta-energy.global.	3600	in	ns	ns104.my-control-panel.com.
 orex.global.	3600	in	ns	dns1.registrar-servers.com.
 orex.global.	3600	in	ns	dns2.registrar-servers.com.
 orexiburn.global.	3600	in	ns	dns1.registrar-servers.com.
@@ -105642,8 +105714,8 @@ originlabs.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453
 originos.global.	3600	in	ns	ns1.brandcloudns.com.
 originos.global.	3600	in	ns	ns2.brandcloudns.com.
 originos.global.	3600	in	ns	ns3.brandcloudns.com.
-originprotocol.global.	3600	in	ns	failed-whois-verification.namecheap.com.
-originprotocol.global.	3600	in	ns	verify-contact-details.namecheap.com.
+originprotocol.global.	3600	in	ns	dns1.registrar-servers.com.
+originprotocol.global.	3600	in	ns	dns2.registrar-servers.com.
 origins2.global.	3600	in	ds	2371 13 2 E9101C839186528B2CD441CFA3D9EB226DAEED8529B3DBCDDCC593173E024917
 origins2.global.	3600	in	ns	dorthy.ns.cloudflare.com.
 origins2.global.	3600	in	ns	emerson.ns.cloudflare.com.
@@ -106783,6 +106855,8 @@ pagarbook.global.	3600	in	ns	burt.ns.cloudflare.com.
 pagarbook.global.	3600	in	ns	elsa.ns.cloudflare.com.
 pagedesign.global.	3600	in	ns	ns23.domaincontrol.com.
 pagedesign.global.	3600	in	ns	ns24.domaincontrol.com.
+pagerous.global.	3600	in	ns	ns1.dyna-ns.net.
+pagerous.global.	3600	in	ns	ns2.dyna-ns.net.
 pagfast.global.	3600	in	ns	ns17.domaincontrol.com.
 pagfast.global.	3600	in	ns	ns18.domaincontrol.com.
 pago.global.	3600	in	ns	ns1.sedoparking.com.
@@ -110040,8 +110114,8 @@ pindoo.global.	3600	in	ns	ns1.crazydomains.com.
 pindoo.global.	3600	in	ns	ns2.crazydomains.com.
 pindoopro.global.	3600	in	ns	ns1.crazydomains.com.
 pindoopro.global.	3600	in	ns	ns2.crazydomains.com.
-pindot.global.	3600	in	ns	ns101.777servers.com.
-pindot.global.	3600	in	ns	ns102.777servers.com.
+pindot.global.	3600	in	ns	ns37.domaincontrol.com.
+pindot.global.	3600	in	ns	ns38.domaincontrol.com.
 pine.global.	3600	in	ns	ns33.domaincontrol.com.
 pine.global.	3600	in	ns	ns34.domaincontrol.com.
 pineapple.global.	3600	in	ns	ns1.afternic.com.
@@ -110498,8 +110572,6 @@ planckdata.global.	3600	in	ns	gannon.ns.cloudflare.com.
 planckdata.global.	3600	in	ns	kinsley.ns.cloudflare.com.
 planckplatform.global.	3600	in	ns	gannon.ns.cloudflare.com.
 planckplatform.global.	3600	in	ns	kinsley.ns.cloudflare.com.
-plandemic.global.	3600	in	ns	expired-domain-ns50.directnic.com.
-plandemic.global.	3600	in	ns	expired-domain-ns51.directnic.com.
 planergy.global.	3600	in	ns	pdns03.domaincontrol.com.
 planergy.global.	3600	in	ns	pdns04.domaincontrol.com.
 planet-a.global.	3600	in	ns	ns57.domaincontrol.com.
@@ -111400,6 +111472,8 @@ polyconnect.global.	3600	in	ns	ns1.101domain.com.
 polyconnect.global.	3600	in	ns	ns2.101domain.com.
 polydom.global.	3600	in	ns	ns69.domaincontrol.com.
 polydom.global.	3600	in	ns	ns70.domaincontrol.com.
+polyester.global.	3600	in	ns	dns1.registrar-servers.com.
+polyester.global.	3600	in	ns	dns2.registrar-servers.com.
 polygon.global.	3600	in	ns	dns1.cscdns.net.
 polygon.global.	3600	in	ns	dns2.cscdns.net.
 polygraph.global.	3600	in	ns	ns18.inhostedns.com.
@@ -111931,6 +112005,8 @@ poweredbyidun.global.	3600	in	ns	ns53.domaincontrol.com.
 poweredbyidun.global.	3600	in	ns	ns54.domaincontrol.com.
 poweredbyomd.global.	3600	in	ns	ns75.domaincontrol.com.
 poweredbyomd.global.	3600	in	ns	ns76.domaincontrol.com.
+poweredbypeople.global.	3600	in	ns	ns25.domaincontrol.com.
+poweredbypeople.global.	3600	in	ns	ns26.domaincontrol.com.
 powerfactors.global.	3600	in	ns	ns53.domaincontrol.com.
 powerfactors.global.	3600	in	ns	ns54.domaincontrol.com.
 powerfinance.global.	3600	in	ns	ns43.domaincontrol.com.
@@ -112519,6 +112595,10 @@ prf.global.	3600	in	ns	ns32.domaincontrol.com.
 pricebailey.global.	3600	in	ns	ns1.websupport.cz.
 pricebailey.global.	3600	in	ns	ns2.websupport.cz.
 pricebailey.global.	3600	in	ns	ns3.websupport.eu.
+pricelessplanet.global.	3600	in	ns	curitiba.ns.porkbun.com.
+pricelessplanet.global.	3600	in	ns	fortaleza.ns.porkbun.com.
+pricelessplanet.global.	3600	in	ns	maceio.ns.porkbun.com.
+pricelessplanet.global.	3600	in	ns	salvador.ns.porkbun.com.
 priceline.global.	3600	in	ns	ash1-dns-dmz.dmz.priceline.com.
 priceline.global.	3600	in	ns	nw-dns-dmz.dmz.priceline.com.
 priceline.global.	3600	in	ns	ny-dns-dmz.dmz.priceline.com.
@@ -113674,6 +113754,9 @@ prove-it.global.	3600	in	ns	ns62.domaincontrol.com.
 proveg.global.	3600	in	ns	ns.inwx.de.
 proveg.global.	3600	in	ns	ns2.inwx.de.
 proveg.global.	3600	in	ns	ns3.inwx.eu.
+provemewrong.global.	3600	in	ns	ns1.tigertech.net.
+provemewrong.global.	3600	in	ns	ns2.tigertech.biz.
+provemewrong.global.	3600	in	ns	ns3.tigertech.org.
 provenance.global.	3600	in	ns	ns17.domaincontrol.com.
 provenance.global.	3600	in	ns	ns18.domaincontrol.com.
 provenancedata.global.	3600	in	ns	ns29.domaincontrol.com.
@@ -113756,12 +113839,6 @@ proyectotribal.global.	3600	in	ns	ns2.cdmon.net.
 proyectotribal.global.	3600	in	ns	ns3.cdmon.net.
 proyectotribal.global.	3600	in	ns	ns4.cdmondns-01.org.
 proyectotribal.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. KdgJUKzV+meK1iELgJNB93XOKoRMGoU9c2Gfdi0fiDJn0eRpkdUD6gvahgdDfqyyzuUkI9fSyhXW0ueyQ35u9cNfUx7AErEWYZIHusK17X8kKqgamV5YRElXUPBH2IxEYdLZ7htejwRbPWM5pKceeCZlgXE3Wv7B82gQrEaUubU=
-proyectotribu.global.	3600	in	ds	51997 14 2 7B4E37AAAA7586DB5F0581AA138F90CA9D13F19ED2EA320C88DE1D81DE834F20
-proyectotribu.global.	3600	in	ns	ns1.cdmon.net.
-proyectotribu.global.	3600	in	ns	ns2.cdmon.net.
-proyectotribu.global.	3600	in	ns	ns3.cdmon.net.
-proyectotribu.global.	3600	in	ns	ns4.cdmondns-01.org.
-proyectotribu.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. WtS5wEeSxBqak74tWftqUqq+eRLvkROc0XFebFtQaw3nnbP3S088KqLtZfDgyoJCYJTMdt7Or+Z0GVSdduSqa06RbX4qvNSwwy+N3R6Upz6qcSChgGQSILbsAA+hg5KyNxZcvpajhog+Go4nNwmgCWrtnqqIOXdjFwkWKJ27xGk=
 prozyme.global.	3600	in	ns	ns1.crazydomains.com.
 prozyme.global.	3600	in	ns	ns2.crazydomains.com.
 prozyn.global.	3600	in	ns	ns75.domaincontrol.com.
@@ -114618,8 +114695,10 @@ q4ctoe5pkmpeh9vi2pavaccs6tsvruii.global.	3600	in	nsec3	1 1 0 73 Q4D8ERBTMRJNF7CO
 q4ctoe5pkmpeh9vi2pavaccs6tsvruii.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. U4PqXQI10chzOp/xzZY1pt236fX4AuX2UhygumuSqoaF65pWejNlcbzNuJbariLUq2gVxfPS7aeG8eeTy1a1WSvlnvNX7QJj941pZBAnNeG6S1SGmflA8eIZPs7fst4IpxEB2UJAriCy6tiYJGnFln4Wc+uFZo/rMv6kuA9YRSQ=
 q4d8erbtmrjnf7cor1s66rv3n5hfckbs.global.	3600	in	nsec3	1 1 0 73 Q4DGC458IHSUSPSD9EVN9T9T77B452BC NS DS RRSIG
 q4d8erbtmrjnf7cor1s66rv3n5hfckbs.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. R6/h8eMP6jsy9oTC85K02+kYDv4fksLsAXfFwdC/xKhfng9khUfxgdqwV5a37x2vE1DeDMaVgr+sSwq1O9NFhDi49Z3gmtvKfVq4fgotaKNsazyOyIrxlIFSLu1kD9A/fSScV1czcBGYI9DrZUTevcZKz6epkcSkelyE2CQZY90=
-q4dgc458ihsuspsd9evn9t9t77b452bc.global.	3600	in	nsec3	1 1 0 73 Q54TDVRURG14CCI17FV9V3BGO2M9F2BC NS DS RRSIG
-q4dgc458ihsuspsd9evn9t9t77b452bc.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. AKBZ8EIsUo5Eqz23SeaWAsUYTqjWjzhG3xKC6SRnP+a+MKlyE+08nSMxyvWnObvW+lJGnlNfWB1+2W6rgjQcOwc1e80t5s1E7QT6TBwvrECC8gAlXIhUNYvoJ6w7PcyRFLhclRz/G05koU06m8FpNvPZBei4T1h/5hQhs0Q9WHY=
+q4dgc458ihsuspsd9evn9t9t77b452bc.global.	3600	in	nsec3	1 1 0 73 Q4NTECT8BDG8B3BCA1CK019RP0T3UFS7 NS DS RRSIG
+q4dgc458ihsuspsd9evn9t9t77b452bc.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002151349 20250911141349 63453 global. TKGfKZYKbiAoVhGwUX91eAThp7aMYeLWdm435KI2mcRf0AdwJ79DzFKhG59eYo3h5N5XDK04tu+OSZa9zN6eRqa/Bw+5KPbr7VYkdOV3q4idtT6+jMlImAYehPbMTKWcwwMLMezJVZELbS2qx5PNSwxB52b3hXxQF7hki0tmNNY=
+q4ntect8bdg8b3bca1ck019rp0t3ufs7.global.	3600	in	nsec3	1 1 0 73 Q54TDVRURG14CCI17FV9V3BGO2M9F2BC NS DS RRSIG
+q4ntect8bdg8b3bca1ck019rp0t3ufs7.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002151349 20250911141349 63453 global. iXZwQRPZhaIoqqEmXvJoie5oRrb6IykNgIyRock5pzbjqfERVgsXC3tVgIUj/dxCF4XUJAUlAvm99gGRGvR0Os7gSyevRO/H7nrJSVawVrSiYWWiDcR4BTlaiStF2dZDyCycPugfZtusxw1KBDUT8reVqwHiO8FiDEGYQZrIoIA=
 q500.global.	3600	in	ns	dns1.registrar-servers.com.
 q500.global.	3600	in	ns	dns2.registrar-servers.com.
 q54tdvrurg14cci17fv9v3bgo2m9f2bc.global.	3600	in	nsec3	1 1 0 73 Q583282VNF171S3TULEOKNHLF73OQL22 NS DS RRSIG
@@ -114819,8 +114898,8 @@ qgsm1hafg05tu62thp9gq96pncen6q8g.global.	3600	in	nsec3	1 1 0 73 QH1O2HJDRS7C015F
 qgsm1hafg05tu62thp9gq96pncen6q8g.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. soe7+ppDt2OE1RqKFGFmpVajTujgwwcstj+pP83We4QmItc78Ek80Dy0chrkOPa0TfLXGX2KXqV41Ib2LMD/UnTMGRR5n3K4WD30XTSEUJNoAy+j8KDSlcPnRMVAo8rucH4tfHYk+Smh79DFwc9YkPmusVezhR5vt4FilY33kK0=
 qh1o2hjdrs7c015fmra0b2amipopjlqm.global.	3600	in	nsec3	1 1 0 73 QHK9HBPEH6DAH05IQQA7U5MPQENHNJNA NS DS RRSIG
 qh1o2hjdrs7c015fmra0b2amipopjlqm.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. pOq6deIJedeMc7+BsyvgTa31YcHxK3kQTYee2DlVcMwVEv8j89NI6NdULV9JojhOAO4CCi+GqefYfyNujQuYDC6WxV7nwHSfwwG1C6/SZkXzGjRQLd8+GuuQYuUZ9sDXfelj5B/JqpC7Tjry2gFAwWeM8YJVUfivUouPFrZNRcA=
-qh88.global.	3600	in	ns	dns1.registrar-servers.com.
-qh88.global.	3600	in	ns	dns2.registrar-servers.com.
+qh88.global.	3600	in	ns	gwen.ns.cloudflare.com.
+qh88.global.	3600	in	ns	morgan.ns.cloudflare.com.
 qhanapharm.global.	3600	in	ns	ns-us.1and1-dns.com.
 qhanapharm.global.	3600	in	ns	ns-us.1and1-dns.de.
 qhanapharm.global.	3600	in	ns	ns-us.1and1-dns.org.
@@ -115264,6 +115343,8 @@ quantumbanq.global.	3600	in	ns	ns1042.ui-dns.de.
 quantumbanq.global.	3600	in	ns	ns1057.ui-dns.biz.
 quantumbanq.global.	3600	in	ns	ns1094.ui-dns.org.
 quantumbanq.global.	3600	in	ns	ns1118.ui-dns.com.
+quantumbiofeedback.global.	3600	in	ns	ns01.no.brand.one.com.
+quantumbiofeedback.global.	3600	in	ns	ns02.no.brand.one.com.
 quantumbiology.global.	3600	in	ns	ns53.domaincontrol.com.
 quantumbiology.global.	3600	in	ns	ns54.domaincontrol.com.
 quantumbiz.global.	3600	in	ns	ns43.domaincontrol.com.
@@ -115310,8 +115391,6 @@ quantumip.global.	3600	in	ns	ns03.domaincontrol.com.
 quantumip.global.	3600	in	ns	ns04.domaincontrol.com.
 quantumlabs.global.	3600	in	ns	daniella.ns.cloudflare.com.
 quantumlabs.global.	3600	in	ns	moura.ns.cloudflare.com.
-quantumleadership.global.	3600	in	ns	ns41.domaincontrol.com.
-quantumleadership.global.	3600	in	ns	ns42.domaincontrol.com.
 quantumleaf.global.	3600	in	ns	ns63.domaincontrol.com.
 quantumleaf.global.	3600	in	ns	ns64.domaincontrol.com.
 quantumleap.global.	3600	in	ns	ns49.domaincontrol.com.
@@ -115424,8 +115503,8 @@ queenstreetfinance.global.	3600	in	ns	ns1093.ui-dns.com.
 queenstreetfinance.global.	3600	in	ns	ns1095.ui-dns.de.
 queenthangz.global.	3600	in	ns	ns49.domaincontrol.com.
 queenthangz.global.	3600	in	ns	ns50.domaincontrol.com.
-queer.global.	3600	in	ns	ns1.ihscp.com.
-queer.global.	3600	in	ns	ns2.ihscp.com.
+queer.global.	3600	in	ns	ns25.domaincontrol.com.
+queer.global.	3600	in	ns	ns26.domaincontrol.com.
 queesbitcoin.global.	3600	in	ns	dns1.uk2.net.
 queesbitcoin.global.	3600	in	ns	dns2.uk2.net.
 queesbitcoin.global.	3600	in	ns	dns3.uk2.net.
@@ -115939,8 +116018,6 @@ rafflesgroup.global.	3600	in	ns	ns75.domaincontrol.com.
 rafflesgroup.global.	3600	in	ns	ns76.domaincontrol.com.
 rafid.global.	3600	in	ns	ns71.domaincontrol.com.
 rafid.global.	3600	in	ns	ns72.domaincontrol.com.
-rafiki.global.	3600	in	ns	dns101.registrar-servers.com.
-rafiki.global.	3600	in	ns	dns102.registrar-servers.com.
 rag.global.	3600	in	ns	ns51.domaincontrol.com.
 rag.global.	3600	in	ns	ns52.domaincontrol.com.
 raga.global.	3600	in	ns	ns07.domaincontrol.com.
@@ -118979,6 +119056,10 @@ revelator.global.	3600	in	ns	ns67.domaincontrol.com.
 revelator.global.	3600	in	ns	ns68.domaincontrol.com.
 revelo.global.	3600	in	ns	roan.ns.cloudflare.com.
 revelo.global.	3600	in	ns	tina.ns.cloudflare.com.
+revelry.global.	3600	in	ns	curitiba.ns.porkbun.com.
+revelry.global.	3600	in	ns	fortaleza.ns.porkbun.com.
+revelry.global.	3600	in	ns	maceio.ns.porkbun.com.
+revelry.global.	3600	in	ns	salvador.ns.porkbun.com.
 reveltondistilling.global.	3600	in	ns	ns71.domaincontrol.com.
 reveltondistilling.global.	3600	in	ns	ns72.domaincontrol.com.
 revenant.global.	3600	in	ns	ns-cloud-e1.googledomains.com.
@@ -123602,6 +123683,8 @@ schnell.global.	3600	in	ns	ns1.gnldm1045.siteground.biz.
 schnell.global.	3600	in	ns	ns2.gnldm1045.siteground.biz.
 schnitz.global.	3600	in	ns	ns1.crazydomains.com.
 schnitz.global.	3600	in	ns	ns2.crazydomains.com.
+scho.global.	3600	in	ns	dns1.mydevil.net.
+scho.global.	3600	in	ns	dns2.mydevil.net.
 schoeller.global.	3600	in	ns	ns.udag.de.
 schoeller.global.	3600	in	ns	ns.udag.net.
 schoeller.global.	3600	in	ns	ns.udag.org.
@@ -124456,8 +124539,9 @@ seedchange.global.	3600	in	ns	dns.rebel.com.
 seedchange.global.	3600	in	ns	dns2.rebel.com.
 seedforum.global.	3600	in	ns	ns1.dns-parking.com.
 seedforum.global.	3600	in	ns	ns2.dns-parking.com.
-seedhub.global.	3600	in	ns	dns1.registrar-servers.com.
-seedhub.global.	3600	in	ns	dns2.registrar-servers.com.
+seedhub.global.	3600	in	ns	ns1.pavietnam.vn.
+seedhub.global.	3600	in	ns	ns2.pavietnam.vn.
+seedhub.global.	3600	in	ns	nsbak.pavietnam.net.
 seedo.global.	3600	in	ns	hgns1.hostgator.com.
 seedo.global.	3600	in	ns	hgns2.hostgator.com.
 seedsessions.global.	3600	in	ns	pdns13.domaincontrol.com.
@@ -126094,8 +126178,6 @@ shielded.global.	3600	in	ns	dns1.registrar-servers.com.
 shielded.global.	3600	in	ns	dns2.registrar-servers.com.
 shienindia.global.	3600	in	ns	ns75.domaincontrol.com.
 shienindia.global.	3600	in	ns	ns76.domaincontrol.com.
-shifa.global.	3600	in	ns	ns71.domaincontrol.com.
-shifa.global.	3600	in	ns	ns72.domaincontrol.com.
 shift.global.	3600	in	ns	ns.udag.de.
 shift.global.	3600	in	ns	ns.udag.net.
 shift.global.	3600	in	ns	ns.udag.org.
@@ -128353,8 +128435,8 @@ smartelearning.global.	3600	in	ns	es.log1.dns.hosting.
 smartelearning.global.	3600	in	ns	es.mad1.dns.hosting.
 smarteq.global.	3600	in	ns	dns19.parkpage.foundationapi.com.
 smarteq.global.	3600	in	ns	dns20.parkpage.foundationapi.com.
-smarter.global.	3600	in	ns	ns15.domaincontrol.com.
-smarter.global.	3600	in	ns	ns16.domaincontrol.com.
+smarter.global.	3600	in	ns	ns25.domaincontrol.com.
+smarter.global.	3600	in	ns	ns26.domaincontrol.com.
 smarterlearning.global.	3600	in	ns	emma.ns.cloudflare.com.
 smarterlearning.global.	3600	in	ns	merlin.ns.cloudflare.com.
 smartexperience.global.	3600	in	ns	ns14.wixdns.net.
@@ -130171,8 +130253,6 @@ sox.global.	3600	in	ns	ns15.domaincontrol.com.
 sox.global.	3600	in	ns	ns16.domaincontrol.com.
 soyglobal.global.	3600	in	ns	pdns13.domaincontrol.com.
 soyglobal.global.	3600	in	ns	pdns14.domaincontrol.com.
-sozo.global.	3600	in	ns	ns37.domaincontrol.com.
-sozo.global.	3600	in	ns	ns38.domaincontrol.com.
 sp.global.	3600	in	ns	curitiba.ns.porkbun.com.
 sp.global.	3600	in	ns	fortaleza.ns.porkbun.com.
 sp.global.	3600	in	ns	maceio.ns.porkbun.com.
@@ -134173,6 +134253,8 @@ supremeconnections.global.	3600	in	ns	ns63.domaincontrol.com.
 supremeconnections.global.	3600	in	ns	ns64.domaincontrol.com.
 supremedominion.global.	3600	in	ns	dns1.registrar-servers.com.
 supremedominion.global.	3600	in	ns	dns2.registrar-servers.com.
+supremegrup.global.	3600	in	ns	ns1.reg.ru.
+supremegrup.global.	3600	in	ns	ns2.reg.ru.
 supremeimports.global.	3600	in	ns	ns27.domaincontrol.com.
 supremeimports.global.	3600	in	ns	ns28.domaincontrol.com.
 supremelounge.global.	3600	in	ns	ns1.101domain.com.
@@ -135976,8 +136058,8 @@ talentmind.global.	3600	in	ns	ns63.domaincontrol.com.
 talentmind.global.	3600	in	ns	ns64.domaincontrol.com.
 talentnavigator.global.	3600	in	ns	ns1.loopia.se.
 talentnavigator.global.	3600	in	ns	ns2.loopia.se.
-talento.global.	3600	in	ns	dns1.registrar-servers.com.
-talento.global.	3600	in	ns	dns2.registrar-servers.com.
+talento.global.	3600	in	ns	dns101.registrar-servers.com.
+talento.global.	3600	in	ns	dns102.registrar-servers.com.
 talentopedia.global.	3600	in	ns	pid1.srv53.net.
 talentopedia.global.	3600	in	ns	pid2.srv53.org.
 talentopy.global.	3600	in	ns	ns49.domaincontrol.com.
@@ -138141,6 +138223,8 @@ tgsky.global.	3600	in	ns	ns-cloud-c4.googledomains.com.
 tgsky.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. c3Jqt0qCXk3hC6g+1RyAVVePMni6CEpX2fPDK2IGyW1z0jx2oZlgwDbwc/bzao8vYw4ucAaaPOdyx7G4IV2nvBgPa5os5aQRux7i2kGT1cjv00YiHd/jXaPovMzKDQhhgg/xuQ7OUfX35XIWdKZtxAM+9amY9cGHljAMSzTb2XQ=
 tgt.global.	3600	in	ns	ns1.technohosting.com.au.
 tgt.global.	3600	in	ns	ns2.technohosting.com.au.
+tgu.global.	3600	in	ns	ns25.domaincontrol.com.
+tgu.global.	3600	in	ns	ns26.domaincontrol.com.
 tgudfitkm5ik9mkob2q3gj3n5pcddksj.global.	3600	in	nsec3	1 1 0 73 TGVPRHR46N5IMBM2S6IUAB2KQN9I6DGM NS DS RRSIG
 tgudfitkm5ik9mkob2q3gj3n5pcddksj.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. wXBO/rPdlurJJxgtJ5EvrMcOAwqvyZ+VdmfyF6zbq1JhfNce07je+ioKqQqYo+vmuri4Y/3N9P3yyoYDAdyYWAqLnQKBzfvMweeJ1SoZuPh63Dxu6rLcyWujrdX9OWh3480sCJ3PHQNFycNDUUY3Uqs+vGtU3pH3y1b5asXGP8M=
 tgvprhr46n5imbm2s6iuab2kqn9i6dgm.global.	3600	in	nsec3	1 1 0 73 THI6TVDQH66L9UOSIUBABLDENKSU1OQS NS DS RRSIG
@@ -138325,6 +138409,8 @@ thea.global.	3600	in	ns	isla.ns.cloudflare.com.
 thea.global.	3600	in	ns	jeremy.ns.cloudflare.com.
 theacademy.global.	3600	in	ns	ns1.siteground.net.
 theacademy.global.	3600	in	ns	ns2.siteground.net.
+theace.global.	3600	in	ns	dns1.registrar-servers.com.
+theace.global.	3600	in	ns	dns2.registrar-servers.com.
 theactfoundation.global.	3600	in	ns	ns43.domaincontrol.com.
 theactfoundation.global.	3600	in	ns	ns44.domaincontrol.com.
 theadventuresofmazzymookameyer.global.	3600	in	ns	dns1.registrar-servers.com.
@@ -138414,8 +138500,8 @@ theateamagency.global.	3600	in	ns	ns37.domaincontrol.com.
 theateamagency.global.	3600	in	ns	ns38.domaincontrol.com.
 theathlete.global.	3600	in	ns	ns69.domaincontrol.com.
 theathlete.global.	3600	in	ns	ns70.domaincontrol.com.
-theatlasproject.global.	3600	in	ns	dns1.registrar-servers.com.
-theatlasproject.global.	3600	in	ns	dns2.registrar-servers.com.
+theatlasproject.global.	3600	in	ns	failed-whois-verification.namecheap.com.
+theatlasproject.global.	3600	in	ns	verify-contact-details.namecheap.com.
 theatredna.global.	3600	in	ns	ns1035.ui-dns.com.
 theatredna.global.	3600	in	ns	ns1058.ui-dns.biz.
 theatredna.global.	3600	in	ns	ns1090.ui-dns.de.
@@ -138619,8 +138705,8 @@ thecementalliance.global.	3600	in	ns	nsc0.schlundtech.de.
 thecementalliance.global.	3600	in	ns	nsd0.schlundtech.de.
 thecenter.global.	3600	in	ns	ns1.domain.com.
 thecenter.global.	3600	in	ns	ns2.domain.com.
-theceomagazine.global.	3600	in	ns	ns73.domaincontrol.com.
-theceomagazine.global.	3600	in	ns	ns74.domaincontrol.com.
+theceomagazine.global.	3600	in	ns	dom.ns.cloudflare.com.
+theceomagazine.global.	3600	in	ns	ulla.ns.cloudflare.com.
 thecgc.global.	3600	in	ns	ns73.domaincontrol.com.
 thecgc.global.	3600	in	ns	ns74.domaincontrol.com.
 thechange.global.	3600	in	ns	docks10.rzone.de.
@@ -141961,10 +142047,8 @@ tnsi.global.	3600	in	ns	dns1.tnsi.com.
 tnsi.global.	3600	in	ns	dns2.tnsi.com.
 tnsi.global.	3600	in	ns	dns3.tnsi.com.
 tnsi.global.	3600	in	ns	dns4.tnsi.com.
-tnu.global.	3600	in	ns	ns1.whois.com.
-tnu.global.	3600	in	ns	ns2.whois.com.
-tnu.global.	3600	in	ns	ns3.whois.com.
-tnu.global.	3600	in	ns	ns4.whois.com.
+tnu.global.	3600	in	ns	dns19.parkpage.foundationapi.com.
+tnu.global.	3600	in	ns	dns20.parkpage.foundationapi.com.
 toa.global.	3600	in	ns	uns01.lolipop.jp.
 toa.global.	3600	in	ns	uns02.lolipop.jp.
 tobaccofreecombustion.global.	3600	in	ns	ns1069.ui-dns.org.
@@ -142006,10 +142090,10 @@ toddenergy.global.	3600	in	ns	ns2.freeparking.co.nz.
 toddsnyder.global.	3600	in	ns	dns1.cscdns.net.
 toddsnyder.global.	3600	in	ns	dns2.cscdns.net.
 todo.global.	3600	in	ds	25837 13 2 1CF6B20DB6565329D61F2B01E558D4C365318128C587DE870CDDC49EADF669C5
-todo.global.	3600	in	ds	31840 13 2 67316D78642B53583DE33B6EF26F01870F5D2EC99218288F065C85B04F233DB3
+todo.global.	3600	in	ds	38355 13 2 2FABF12DA16649BBAF43CCD0117A670250546E900F6634DF203D5B0085A07573
 todo.global.	3600	in	ns	ns53.domaincontrol.com.
 todo.global.	3600	in	ns	ns54.domaincontrol.com.
-todo.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. HYuyseT9MM230RREmE5r6kk8FF8O6al9IHsc7iUJ8o2vdJ/+fDo0XYdhFjedXlVcD6C17tLcF29MgyFnTVeLySy6jrFw0tjwo2g1sw+xOYOdi/0ZcjSZEuQCkJfM4SODR7DRXUaCs8GOkv03FZ5W9KGtZtpFukvPUzrGTybtwqo=
+todo.global.	3600	in	rrsig	DS 8 2 3600 20251002051145 20250911041145 63453 global. b/OuaQq/8ze36D3E589aMHqfKEr2UBtGDsjzrHf9MtyRASKp1cwLuRGOLVqKVL0NzwZ98XXM7QXoI17PMeZivcSlm0a89qoNOQPYJ97vIko69BPYfbGmO3m5KfYc5NpGz2oGn3I2BDrWcaLtaRralC/ljs5C9ZuCMvg9q0k2Cs8=
 todoclub.global.	3600	in	ns	ns55.domaincontrol.com.
 todoclub.global.	3600	in	ns	ns56.domaincontrol.com.
 todoimporta.global.	3600	in	ns	ns45.domaincontrol.com.
@@ -143262,6 +143346,8 @@ trait.global.	3600	in	ns	curitiba.ns.porkbun.com.
 trait.global.	3600	in	ns	fortaleza.ns.porkbun.com.
 trait.global.	3600	in	ns	maceio.ns.porkbun.com.
 trait.global.	3600	in	ns	salvador.ns.porkbun.com.
+trajectory.global.	3600	in	ns	elijah.ns.cloudflare.com.
+trajectory.global.	3600	in	ns	sara.ns.cloudflare.com.
 trak.global.	3600	in	ns	ns67.domaincontrol.com.
 trak.global.	3600	in	ns	ns68.domaincontrol.com.
 traka.global.	3600	in	ns	ns41.domaincontrol.com.
@@ -146554,8 +146640,6 @@ uniapply.global.	3600	in	ns	ns2.dnsowl.com.
 uniapply.global.	3600	in	ns	ns3.dnsowl.com.
 uniapt.global.	3600	in	ns	dns101.registrar-servers.com.
 uniapt.global.	3600	in	ns	dns102.registrar-servers.com.
-unibiz.global.	3600	in	ns	dns101.registrar-servers.com.
-unibiz.global.	3600	in	ns	dns102.registrar-servers.com.
 unibo.global.	3600	in	ns	park1.livedns.co.il.
 unibo.global.	3600	in	ns	park2.livedns.co.il.
 unibrick.global.	3600	in	ns	webhostingserver.g1-dns.com.
@@ -146975,8 +147059,10 @@ unitedmuslims.global.	3600	in	ns	dns1.registrar-servers.com.
 unitedmuslims.global.	3600	in	ns	dns2.registrar-servers.com.
 unitednetwork.global.	3600	in	ns	ns1.dns-parking.com.
 unitednetwork.global.	3600	in	ns	ns2.dns-parking.com.
-unitedone.global.	3600	in	ns	dns1.registrar-servers.com.
-unitedone.global.	3600	in	ns	dns2.registrar-servers.com.
+unitedone.global.	3600	in	ds	2371 13 2 C98B4593188E4238640706ED46D5618128B56A03F7494E5276D473E006496E73
+unitedone.global.	3600	in	ns	jake.ns.cloudflare.com.
+unitedone.global.	3600	in	ns	novalee.ns.cloudflare.com.
+unitedone.global.	3600	in	rrsig	DS 8 2 3600 20251002151349 20250911141349 63453 global. law6jOmJQlbXJFc4mWtF4jLdbytQxRiKcD31+NUjI16nNL7LTS7Fb+5rKpCTOiI2i3B/lnByGt7SF2flnsdKI4YG7Tzr/qIVndsVRn2MHG5EEVueoynuRlr1+Gyu0TPmUvA9hA163MjJ4bFfaYdr1CN0TNvJBcjtiG/22n9fxSg=
 unitedparking.global.	3600	in	ns	ns39.domaincontrol.com.
 unitedparking.global.	3600	in	ns	ns40.domaincontrol.com.
 unitedparty.global.	3600	in	ns	ns47.domaincontrol.com.
@@ -147308,8 +147394,6 @@ unsafespace.global.	3600	in	ns	ns11.domaincontrol.com.
 unsafespace.global.	3600	in	ns	ns12.domaincontrol.com.
 unschooled.global.	3600	in	ns	ns07.domaincontrol.com.
 unschooled.global.	3600	in	ns	ns08.domaincontrol.com.
-unscripted.global.	3600	in	ns	ns37.domaincontrol.com.
-unscripted.global.	3600	in	ns	ns38.domaincontrol.com.
 unseenlabs.global.	3600	in	ds	58289 8 2 7F3133A813E534A182F4370B32E8CFA4788F308B155D757BEED66B5750A5A321
 unseenlabs.global.	3600	in	ns	dns104.ovh.net.
 unseenlabs.global.	3600	in	ns	ns104.ovh.net.
@@ -147790,6 +147874,10 @@ urrur.global.	3600	in	ns	dns1.registrar-servers.com.
 urrur.global.	3600	in	ns	dns2.registrar-servers.com.
 urs.global.	3600	in	ns	anderson.ns.cloudflare.com.
 urs.global.	3600	in	ns	tegan.ns.cloudflare.com.
+ursaconsulting.global.	3600	in	ns	curitiba.ns.porkbun.com.
+ursaconsulting.global.	3600	in	ns	fortaleza.ns.porkbun.com.
+ursaconsulting.global.	3600	in	ns	maceio.ns.porkbun.com.
+ursaconsulting.global.	3600	in	ns	salvador.ns.porkbun.com.
 ursapharm.global.	3600	in	ns	nsa6.schlundtech.de.
 ursapharm.global.	3600	in	ns	nsb6.schlundtech.de.
 ursapharm.global.	3600	in	ns	nsc6.schlundtech.de.
@@ -148536,6 +148624,8 @@ valka.global.	3600	in	ns	ns53.domaincontrol.com.
 valka.global.	3600	in	ns	ns54.domaincontrol.com.
 valkir.global.	3600	in	ns	dns112.ovh.net.
 valkir.global.	3600	in	ns	ns112.ovh.net.
+valko.global.	3600	in	ns	ns67.domaincontrol.com.
+valko.global.	3600	in	ns	ns68.domaincontrol.com.
 valkyre.global.	3600	in	ds	21560 8 2 1A5693598D66DAEED2441C3CCBB626CE1C10256862353E2FF336C02FAC99E9A6
 valkyre.global.	3600	in	ns	ns-cloud-b1.googledomains.com.
 valkyre.global.	3600	in	ns	ns-cloud-b2.googledomains.com.
@@ -150750,6 +150840,8 @@ visma.global.	3600	in	ns	dns4.vismadns.com.
 visma.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. f1qx3+x6yLOo8h7cpz5b+2OLpHJj/4oZ6znAEYyEdhrHcUgscfY4tT0tnVEUG7ZtPeuV/anJ9U55r9X4kPb6c/EOl81SQXZrfyXSCbfbTlmvupBIFiPeASKz3bAFa349NH/ifEk1aMcRDueURmzlry1cKBbZaDHpTuuDj6E8cf8=
 viso.global.	3600	in	ns	ns71.domaincontrol.com.
 viso.global.	3600	in	ns	ns72.domaincontrol.com.
+visora.global.	3600	in	ns	dns1.registrar-servers.com.
+visora.global.	3600	in	ns	dns2.registrar-servers.com.
 vista.global.	3600	in	ns	ns35.domaincontrol.com.
 vista.global.	3600	in	ns	ns36.domaincontrol.com.
 vistacapital.global.	3600	in	ns	ns05.domaincontrol.com.
@@ -150949,6 +151041,8 @@ vivaacp.global.	3600	in	ns	ns3.afternic.com.
 vivaacp.global.	3600	in	ns	ns4.afternic.com.
 vivace.global.	3600	in	ns	ns03.domaincontrol.com.
 vivace.global.	3600	in	ns	ns04.domaincontrol.com.
+vivaia.global.	3600	in	ns	ns3.afternic.com.
+vivaia.global.	3600	in	ns	ns4.afternic.com.
 vivakaraoke.global.	3600	in	ns	ns43.domaincontrol.com.
 vivakaraoke.global.	3600	in	ns	ns44.domaincontrol.com.
 vivaldi.global.	3600	in	ns	ns35.domaincontrol.com.
@@ -151058,10 +151152,8 @@ vltn.global.	3600	in	ds	579 13 2 5F6432D01559FC0D3E0BCFAF461192D8AD869D0EF322B71
 vltn.global.	3600	in	ns	launch1.spaceship.net.
 vltn.global.	3600	in	ns	launch2.spaceship.net.
 vltn.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. MWfwUYN79/k6JS2UheNDSNDmYiB/GmNUROCaX3D/UMqnjGJnB7enmRxmfJlLSFhKxFFSCW1UZA3KvRzkmQCVzD4ng+8o353vtGc0lX1vy7mBnfy6D3n2WP9EkOnMK6LyO+eMM+4IMJ1tIcLzDC53yHFahW7uYx756fLk8KCAaPA=
-vlu.global.	3600	in	ns	ns1027.ui-dns.com.
-vlu.global.	3600	in	ns	ns1037.ui-dns.biz.
-vlu.global.	3600	in	ns	ns1041.ui-dns.org.
-vlu.global.	3600	in	ns	ns1064.ui-dns.de.
+vlu.global.	3600	in	ns	a.ns36.de.
+vlu.global.	3600	in	ns	b.ns36.de.
 vlvt.global.	3600	in	ns	ns1a.dodns.net.
 vlvt.global.	3600	in	ns	ns2a.dodns.net.
 vlx.global.	3600	in	ns	ns41.domaincontrol.com.
@@ -151461,8 +151553,6 @@ voonops.global.	3600	in	ns	ns77.domaincontrol.com.
 voonops.global.	3600	in	ns	ns78.domaincontrol.com.
 voopoo.global.	3600	in	ns	ns13.domaincontrol.com.
 voopoo.global.	3600	in	ns	ns14.domaincontrol.com.
-voorwaarts.global.	3600	in	ns	ns1.renewyourname.net.
-voorwaarts.global.	3600	in	ns	ns2.renewyourname.net.
 voosbaratos.global.	3600	in	ns	ns1.bodis.com.
 voosbaratos.global.	3600	in	ns	ns2.bodis.com.
 vooz.global.	3600	in	ns	ns1.livedns.co.uk.
@@ -151663,9 +151753,9 @@ vqcg.global.	3600	in	ns	ns3.dreamhost.com.
 vqp3cs23n00i0sjbphqmfv4441h4bmsi.global.	3600	in	nsec3	1 1 0 73 VQQLOLH8UCJ938VB51FOBNJ8PVN9P3U1 NS DS RRSIG
 vqp3cs23n00i0sjbphqmfv4441h4bmsi.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. s3+rmopK8ie+qgqWMjDIa/p1oQ8JpBVOEvBQFo8eBfcYjv/cblvnRWDJmUDHIB0TBsMs5CIzasH8KIsSSPfOEEU00l2bPVpGw/LYEZB3JNEEp46qFxbVaqkI7sxpHZ256hIbX8JYaCqw5R87Y9Qu6lD1uQO9xTrpdX4ZVrnHy+o=
 vqqlolh8ucj938vb51fobnj8pvn9p3u1.global.	3600	in	nsec3	1 1 0 73 VR8503E5NQA909C275FF9R940F65BJS1 NS DS RRSIG
-vqqlolh8ucj938vb51fobnj8pvn9p3u1.global.	3600	in	rrsig	NSEC3 8 2 3600 20250930155319 20250909145319 63453 global. RUX3tqKUyfju5PKn40334Y3B8qyCJxWoaU9YX8+uzS6Q1/QeSJlfRPHLTWio1y1DbYltao2fjRQqzzsZI95RNXypEQ/esWEgcXDcj+nuFPTLpw7PtetL7xyc7ZZbYeSAuL4u8LFlc4WSndxiY7/hrQoa+zRJJFgLr41+iLNbdmw=
-vr-online.global.	3600	in	ns	ns1.bodis.com.
-vr-online.global.	3600	in	ns	ns2.bodis.com.
+vqqlolh8ucj938vb51fobnj8pvn9p3u1.global.	3600	in	rrsig	NSEC3 8 2 3600 20251002115307 20250911105307 63453 global. VCyqRmmIgCc2UV46OV3g1Efz0J/n1Ip4+fvZEAtGf1iBLqKlInOIg0e4EMHXgB9PZLwAcT3hEZ5pNKw+HtgVlGXG69AvU/AmEBip2JqD81wBnPhjZAloLEK1alAL1NveyH2zGCFUfGwN17sJw/vE3rWT/I79BX4pbzqnoXJCY1k=
+vr-online.global.	3600	in	ns	ns1.dns-redirect.com.
+vr-online.global.	3600	in	ns	ns2.dns-redirect.com.
 vr8.global.	3600	in	ns	ns1.nameserver.net.au.
 vr8.global.	3600	in	ns	ns2.nameserver.net.au.
 vr8.global.	3600	in	ns	ns3.nameserver.net.au.
@@ -151958,6 +152048,10 @@ vycer.global.	3600	in	ns	dns1.registrar-servers.com.
 vycer.global.	3600	in	ns	dns2.registrar-servers.com.
 vyconwallcovering.global.	3600	in	ns	ns23.domaincontrol.com.
 vyconwallcovering.global.	3600	in	ns	ns24.domaincontrol.com.
+vyda.global.	3600	in	ns	mrddns001.misterdomain.eu.
+vyda.global.	3600	in	ns	mrddns002.misterdomain.eu.
+vyda.global.	3600	in	ns	mrddns003.misterdomain.eu.
+vyda.global.	3600	in	ns	mrddns004.misterdomain.eu.
 vyglodgers.global.	3600	in	ns	armando.ns.cloudflare.com.
 vyglodgers.global.	3600	in	ns	perla.ns.cloudflare.com.
 vygr.global.	3600	in	ns	dns1.registrar-servers.com.
@@ -153298,8 +153392,8 @@ websafe.global.	3600	in	ns	ns1023.ui-dns.com.
 websafe.global.	3600	in	ns	ns1037.ui-dns.de.
 websafe.global.	3600	in	ns	ns1076.ui-dns.biz.
 websafe.global.	3600	in	ns	ns1120.ui-dns.org.
-webseo.global.	3600	in	ns	ns1.dns-parking.com.
-webseo.global.	3600	in	ns	ns2.dns-parking.com.
+webseo.global.	3600	in	ns	ns1.dns-expired.com.
+webseo.global.	3600	in	ns	ns2.dns-expired.com.
 webserver.global.	3600	in	ds	2371 13 2 DDC6B62B4AC2A3D116A01C0FDC6DCFC849FBD0DC95962A1E03E43768F60DFA3E
 webserver.global.	3600	in	ns	curitiba.ns.porkbun.com.
 webserver.global.	3600	in	ns	fortaleza.ns.porkbun.com.
@@ -153343,8 +153437,8 @@ webteam.global.	3600	in	ns	ns1.dns-parking.com.
 webteam.global.	3600	in	ns	ns2.dns-parking.com.
 webtech.global.	3600	in	ns	ns1.dyna-ns.net.
 webtech.global.	3600	in	ns	ns2.dyna-ns.net.
-webtelmobi.global.	3600	in	ns	domain.canceled.namesrs.com.
-webtelmobi.global.	3600	in	ns	status.pending.delete.namesrs.com.
+webtelmobi.global.	3600	in	ns	inactive.namesrs.com.
+webtelmobi.global.	3600	in	ns	pendingdelegation.namesrs.com.
 webthree.global.	3600	in	ds	1379 8 2 11DF3206D0AC6CEE04589605DCC8BCE87EBB335A60F9B44678D0917A7FF207D9
 webthree.global.	3600	in	ns	ns-cloud-e1.googledomains.com.
 webthree.global.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -154383,8 +154477,8 @@ whiskeylore.global.	3600	in	ns	ns27.domaincontrol.com.
 whiskeylore.global.	3600	in	ns	ns28.domaincontrol.com.
 whiskycastle.global.	3600	in	ns	ns33.domaincontrol.com.
 whiskycastle.global.	3600	in	ns	ns34.domaincontrol.com.
-whiskyprice.global.	3600	in	ns	megan.ns.cloudflare.com.
-whiskyprice.global.	3600	in	ns	neil.ns.cloudflare.com.
+whiskyprice.global.	3600	in	ns	ns1.all-harmless.domains.
+whiskyprice.global.	3600	in	ns	ns2.all-harmless.domains.
 whisper.global.	3600	in	ns	ns1.afternic.com.
 whisper.global.	3600	in	ns	ns2.afternic.com.
 whispers.global.	3600	in	ns	linda.ns.cloudflare.com.
@@ -155194,11 +155288,11 @@ wisebitcoin.global.	3600	in	ns	ns-258.awsdns-32.com.
 wisebitcoin.global.	3600	in	ns	ns-825.awsdns-39.net.
 wisec.global.	3600	in	ns	ns1.turkticaret.net.
 wisec.global.	3600	in	ns	ns3.turkticaret.net.
+wisecrowd.global.	3600	in	ds	13490 13 2 CA99583521E2F9DA986DC7751EB97A827822D74E94D422CF8BFCDD36682C3DCA
 wisecrowd.global.	3600	in	ds	64176 13 2 C4DF0EC25AA341A64342AADF2C37A6FD87DDB24C687D1EA98DE18F7CF18A28A6
-wisecrowd.global.	3600	in	ds	683 13 2 9DFEAEF59CBE22E531D64BB5CE5C92F228AA84A5C078429E9199D5F95A939F60
 wisecrowd.global.	3600	in	ns	ns69.domaincontrol.com.
 wisecrowd.global.	3600	in	ns	ns70.domaincontrol.com.
-wisecrowd.global.	3600	in	rrsig	DS 8 2 3600 20250930155319 20250909145319 63453 global. gKsxfG00jYjL3Jz7bUheHZqbkr40uP8c+e2PlEYY8NdJtwM5fEM8WKzbycecm4f0jINLwhuUAgbIGQsLQnEykaBnU2x0lWESJjxiM6Yj2cTcwog5AXcMZqAxKLGX3SoWF20qNcTA8QRMqRZ/ZaJKCgfQ1P1YuFXf8KRPZ4pKy80=
+wisecrowd.global.	3600	in	rrsig	DS 8 2 3600 20251002130710 20250911120710 63453 global. gkaWv3GWqPZdrkMn/B/SWh76oXkkSkUCly7YOHWhS6SNjlXvfT3rlR9MpAaQEyrUjxROcLrwOSzXPEfxcd2cRsJ/kDbLLjzyTDuOc2dDrdMd4vBILfBfmf14MsgjcuC6gmf56CaUssfRrzkMLkkqoQ5r/wZC/2FmTJbEvlQdJv0=
 wisegroup.global.	3600	in	ns	ns73.domaincontrol.com.
 wisegroup.global.	3600	in	ns	ns74.domaincontrol.com.
 wiselink.global.	3600	in	ns	ns01.domaincontrol.com.
@@ -155827,8 +155921,8 @@ workforcefutures.global.	3600	in	ns	ns27.domaincontrol.com.
 workforcefutures.global.	3600	in	ns	ns28.domaincontrol.com.
 workfromanywhere.global.	3600	in	ns	ns31.domaincontrol.com.
 workfromanywhere.global.	3600	in	ns	ns32.domaincontrol.com.
-workfromhome.global.	3600	in	ns	ns1.bodis.com.
-workfromhome.global.	3600	in	ns	ns2.bodis.com.
+workfromhome.global.	3600	in	ns	ns1.dns-redirect.com.
+workfromhome.global.	3600	in	ns	ns2.dns-redirect.com.
 workgear.global.	3600	in	ns	ns1.syrahost.com.
 workgear.global.	3600	in	ns	ns2.syrahost.com.
 workhorse.global.	3600	in	ns	dns.internic.ca.
@@ -158647,6 +158741,8 @@ ymt123.global.	3600	in	ns	ns1.myhostadmin.net.
 ymt123.global.	3600	in	ns	ns2.myhostadmin.net.
 ymusic.global.	3600	in	ns	ns17.domaincontrol.com.
 ymusic.global.	3600	in	ns	ns18.domaincontrol.com.
+yng.global.	3600	in	ns	ns37.domaincontrol.com.
+yng.global.	3600	in	ns	ns38.domaincontrol.com.
 ynk.global.	3600	in	ns	ns39.domaincontrol.com.
 ynk.global.	3600	in	ns	ns40.domaincontrol.com.
 ynot.global.	3600	in	ns	dns1.registrar-servers.com.
@@ -159501,6 +159597,8 @@ zellar.global.	3600	in	ns	ns19.domaincontrol.com.
 zellar.global.	3600	in	ns	ns20.domaincontrol.com.
 zelle.global.	3600	in	ns	dns1.cscdns.net.
 zelle.global.	3600	in	ns	dns2.cscdns.net.
+zellecoin.global.	3600	in	ns	dns1.cscdns.net.
+zellecoin.global.	3600	in	ns	dns2.cscdns.net.
 zellepay.global.	3600	in	ns	dns1.cscdns.net.
 zellepay.global.	3600	in	ns	dns2.cscdns.net.
 zelustech.global.	3600	in	ns	ns1040.ui-dns.org.
@@ -160345,4 +160443,4 @@ zzyzx.global.	3600	in	ns	ns57.domaincontrol.com.
 zzyzx.global.	3600	in	ns	ns58.domaincontrol.com.
 zzz.global.	3600	in	ns	ns1.afternic.com.
 zzz.global.	3600	in	ns	ns2.afternic.com.
-global.	3600	in	soa	a0.nic.global. hostmaster.donuts.email. 1757553335 7200 900 1209600 3600
+global.	3600	in	soa	a0.nic.global. hostmaster.donuts.email. 1757638905 7200 900 1209600 3600
