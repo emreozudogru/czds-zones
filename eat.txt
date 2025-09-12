@@ -1,34 +1,34 @@
-eat.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2025091010 21600 3600 259200 900
+eat.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2025091110 21600 3600 259200 900
 domaintest.eat.	10800	in	ns	ns1.google.com.
 domaintest.eat.	10800	in	ns	ns2.google.com.
 domaintest.eat.	10800	in	ns	ns3.google.com.
 domaintest.eat.	10800	in	ns	ns4.google.com.
 eat.	0	in	nsec3param	1 0 1 0C13DA1A93C212F5
-eat.	0	in	rrsig	NSEC3PARAM 8 1 0 20250928030532 20250906030532 50799 eat. mKJDTG03vrKje6hYWVRO5VUAWW0eElBy3eWS9pDQz+K4EMUy9Il38QjCCGSsHhluu6EsEhrPPxVVVHWWiEzlDWSxUhT18pdehYj6sP5TRWg8JTmqSC4qryjvRSVMs5uvSTRDNyctmnWr6L2Bi/S51QjxWeNOV2z+AfRgmcPBypg=
+eat.	0	in	rrsig	NSEC3PARAM 8 1 0 20251001033252 20250909033252 50799 eat. DgAxHrGfIPxKY4x1B6I+bzYYSoPrcVWpvD4tNmvf2J6mZ2D7KL3nvjsrw69kEmNkRm148IdiYxukTpdo5m3HzPkbwhtLBTA1mWVAejyg/mqF1sD5p+vYXoKoaS+qMKaHcRSm5xktdTnqgWgwYVS6JT1FghuJ44i7abW6zt19ZdM=
 eat.	21600	in	ns	ns-tld1.charlestonroadregistry.com.
 eat.	21600	in	ns	ns-tld2.charlestonroadregistry.com.
 eat.	21600	in	ns	ns-tld3.charlestonroadregistry.com.
 eat.	21600	in	ns	ns-tld4.charlestonroadregistry.com.
 eat.	21600	in	ns	ns-tld5.charlestonroadregistry.com.
-eat.	21600	in	rrsig	NS 8 1 21600 20250928030532 20250906030532 50799 eat. BLLU/6bNbhEIv0gBZxj38mAbVMkmw5PTclFtNucAt+XqvtJZo2Cak7braRsCBs+YHaVD9UVpL0o8EnlfQuKiWaT3hDq1q3OdBcFnsebzsfed1i7eA9X6F0oA6hk8PGO9o8+6bLTK1JVUInJDmLBPfT05nvGljCSeIDmhWAsMjV4=
-eat.	21600	in	rrsig	SOA 8 1 21600 20250928030532 20250906030532 50799 eat. YDJAs5z9+AGR2orLFaXOZQ+qw9NBhVMCHr5DfLBeX1BmVbzoNea9sVu/nmLwpkIV8LWxwmGDxPvetAY0atBiIw+mvR+Qq0NAPQ24/eEGoqASzslrmjqfFXHjNfao5/moXhZBW+KEtNrk668aDDXSk/m1qgtrYZ+YbjZFwltSCNU=
+eat.	21600	in	rrsig	NS 8 1 21600 20251001033252 20250909033252 50799 eat. IBrSGzdY66iQejt/8jqxWCBHj0Cltm7xion9wJ8wQ50t3CR/R5mMvOu0m/QAodi3AFvVacJ7sI+lI0QnABatNE6ERGiQLs9CenI1gwW0qIHUzKTRKb2rJZ2Gm765Y7bmTQPOu3/8/5l6WmsdrHBF8LJ+DT+wU8lEkKXbglbLxV0=
+eat.	21600	in	rrsig	SOA 8 1 21600 20251001033252 20250909033252 50799 eat. a8a4z53qhCZoZABiJiizfLtu9wVJXnwCF0wgWX/94ngoKT+fPHVfL709EL3RciDSA1LYdT5qLFV2hDjvOIiiiJ3JFpd/MTlwC5LxhStplFzpvjZK3AMzlrWJF9p33GCtrT+cXpCeMC0dn++dg+9ejTqh7WcjpliJen8L/888w/M=
 eat.	300	in	dnskey	256 3 8 AwEAAbSQgl0G7CYrSRZOiFveQ8MXfXN8ka3OoWi9EcjIARJ//5MYQGcqAMtOsf2bJRrtKPXLM3AoaKr9I04S9Q+h0RBdW+8tOM5R67tAYPd4A/uloJ9s/FSRmdjh3+fDPBtCkotid2RCqrYjfiGconulbFI82lvPGnW4Q8jZJCuLpGQH
 eat.	300	in	dnskey	257 3 8 AwEAAa5zEvvIfGD5JxMTy3KxMNttpTOJKBOZ+ckymhHJqXGMa2kYk/lw0qPCnqDk2CMDidG5Umb1b9AzDBhLkqR6+MQ4zXlWwc2lAogD8Hm+OkmFdwRkmZ+Jz1cLBw+vxnJqEDuL3HC++jw5UI5Y+wyk6DAKd/VA93DuM69455II3KpIgxSJDC6ZKacsO0DukJ5qEXbnJ2rjE+eBXfR9I//Iq4zyM3hDEZMsIW+2VdRwjfVrA0pvv64s37R2diIAv3vO715Y6VBOZsHrXbaHX1nUSSPjhiocstmZD65qa+ajnPaPf3mNhIMV4WHjBeyz/Ng+ir81iN5696ZMu8SZu3SD62E=
-eat.	300	in	rrsig	DNSKEY 8 1 300 20250928030532 20250906030532 36982 eat. bStzfOFY3tI34SyqzAE1G9M5ahpo2e44Ky58tp3MwQtiZDuDkWlbLhzLI/rMqOZwnqFDurAxpVZNKKiix2H3m1wpWGx36GMC/VpQ9Q7t7Kw8w0CSHDouMPuqA7Fe+KAxiMXk7CY9uIjSwQzHonKrTFZGf3jPr9Ygx3XKpg/Nwp+zF7QJ7GTQNzJRjjJCnacT4zj28+ESzPQvTDy3iBya0ntEvw5TBqjsFFgJ/Ze/FHZpIbcyWIqOHiLS3Yb86DP74BDXEjUxAbrSLBUErGCtbxobUrgwQ7Ml9oMXYeoIbmgX0mdZAoQMcU3vt0v38dvbxcsKiDFktUS0NfsTjKB3gw==
+eat.	300	in	rrsig	DNSKEY 8 1 300 20251001033252 20250909033252 36982 eat. ZnDAFtVwsaDgOVN+zHeemwvQ/PhbAfyefexi3dflQFdh11BvmXdxA3R5B/PRzWDgcsQb0vGkUVoNWoRSFN6i0s1nTgzSzEwcfMjtApiULREsycngwrZ0lu7Po8gaTLUVY5ImpxbaJClBvhkra0oVMLDeDmeU4qry6YG6qVVnNiWVTU7r+MkL9cJ6SpR7RqSbntpvWnjssbNDsKciyvomKPrRQ+xiVeMQxEHvyD14eV93cNbgTaEJVuZC6ALKtXffB0nHrOiIVMCMohbWq5hQOHQtw/oWzST139IRb33hR7KyxBBU9KBf4k/LB5Fl+m5gMr/pYPnkftGP4el+wXCgOA==
 get.eat.	10800	in	ns	ns1.googledomains.com.
 get.eat.	10800	in	ns	ns2.googledomains.com.
 get.eat.	10800	in	ns	ns3.googledomains.com.
 get.eat.	10800	in	ns	ns4.googledomains.com.
 ijd9d2nu32fukqjdsv90kvbklm8qov0k.eat.	900	in	nsec3	1 0 1 0C13DA1A93C212F5 K5HPJIMVACG41KJ0SPJBHQBSJR9373EN NS SOA RRSIG DNSKEY NSEC3PARAM
-ijd9d2nu32fukqjdsv90kvbklm8qov0k.eat.	900	in	rrsig	NSEC3 8 2 900 20250928030532 20250906030532 50799 eat. hJ7HZlxHR7iKxjVVIWYA/oVQjscvqt/8Z5r+90zJ/g69IMdNH8BX6DMzj7k4hjAn+1dRsknjACi8QyF+P4rFY1R5wuIjMofUZONl5+nWxAWjWSwAafZhaZ0ECG8eMxFFsairJzRG7PGCurcv16nQGosbljPebdz2YVRLHe4/klg=
+ijd9d2nu32fukqjdsv90kvbklm8qov0k.eat.	900	in	rrsig	NSEC3 8 2 900 20251001033252 20250909033252 50799 eat. sAuZkJIIuO0X0i1QLG8H0bF5H4Sq5fQhtw1rfdvWfhoG1X8EprFD+B6krs7vymdEyNTtXVNZaR3MOIi0JLuQuxgnV5xAS7BpKMpElHX8UrIcnQZm1OSBod+LWzidzzLamkSBd0K5WQ5KralmyCYJMlRNpn+riGuBmMw7yyvb2FM=
 k5hpjimvacg41kj0spjbhqbsjr9373en.eat.	900	in	nsec3	1 0 1 0C13DA1A93C212F5 N2L4B4QS1A5MLIFH9NVQGFB8Q9PL5NUD NS
-k5hpjimvacg41kj0spjbhqbsjr9373en.eat.	900	in	rrsig	NSEC3 8 2 900 20250928030532 20250906030532 50799 eat. XFVm/Dl1Jzl0xqGiT8VI+NACY8kUDy5oTx+Yl7aN5MvFB0EIG2mKCcMD7NESVOFXyxE/Kv97hiiHRztnifZ1FPNckBedlv6DZDErJ/H7uyulsYJ7sRQjzTZPDojQqBNQ+N4aFkX5n3AeyO3TVNcvsDelc77leGtQQnKOdShA7NU=
+k5hpjimvacg41kj0spjbhqbsjr9373en.eat.	900	in	rrsig	NSEC3 8 2 900 20251001033252 20250909033252 50799 eat. aipBFbqBd2UDLHe2WvuWNwyjdjDWLZxAIdLF+9/Y911wVZl5eqY4dQ1HsagFW4iK60r2goUMR9DntB3Igu2xDoHGgVtDve+vidA7ehnsyXjODeQq5nHmMOAfm595NFslWSNIJfEsUjr+u4yRli30tw+BWU7AjC5xoYh+92Wc9SI=
 n2l4b4qs1a5mlifh9nvqgfb8q9pl5nud.eat.	900	in	nsec3	1 0 1 0C13DA1A93C212F5 RMTEFF3HDUQSGTSPTD1V1URR6E7BIMSU NS
-n2l4b4qs1a5mlifh9nvqgfb8q9pl5nud.eat.	900	in	rrsig	NSEC3 8 2 900 20250928030532 20250906030532 50799 eat. KILhXxB+++SzJHAUbt7FS3X00xeRsCxDBFGyy8LqzHtDsBQ7pAYpg5vJAe3Fq+DVwfFfXDNs0Egh/oGWZPGB+nQmTM2VSSPWT4IA6kn9ZWqkiNS0Aj2jlqYNPr9HOVByvUHUIIYHMN0hOeF57nvAHUKer03BS4/uS6ZZzU5FxTc=
+n2l4b4qs1a5mlifh9nvqgfb8q9pl5nud.eat.	900	in	rrsig	NSEC3 8 2 900 20251001033252 20250909033252 50799 eat. nExrwth5WvVNzrjdKfkoydqlbbaeXxbkQuXh/G9zYYeFjL6eYhs+b19qyyzgGxHCB7Y9XCtSL/7ti+9OvIv3SWhRG8/S0taSjF5DsppgLVPmA7yQkD8J9iFJiEIInJosdZTWYEvcTYsBw2ZoeszfrtjreIS4Vz/lHuy+AFSHPII=
 nic.eat.	10800	in	ns	ns1.google.com.
 nic.eat.	10800	in	ns	ns2.google.com.
 nic.eat.	10800	in	ns	ns3.google.com.
 nic.eat.	10800	in	ns	ns4.google.com.
 rmteff3hduqsgtsptd1v1urr6e7bimsu.eat.	900	in	nsec3	1 0 1 0C13DA1A93C212F5 IJD9D2NU32FUKQJDSV90KVBKLM8QOV0K NS
-rmteff3hduqsgtsptd1v1urr6e7bimsu.eat.	900	in	rrsig	NSEC3 8 2 900 20250928030532 20250906030532 50799 eat. TMpGIBgUpO1TgWPZpSF/d6Sdz6NYIgGTm2B/kRDZweNsgUYlWKUBIzMWhE9+PDM8fg/bhcArVfXaozGDlQWKW5+yvBSDNfUTaSkBkPGcpHoXlS8+y9VTQE/upgAg71Jn0jkEN0EW6Sug7TyDRVFJbKwzXhh9Vt7KRzZbRe9o9s8=
-eat.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2025091010 21600 3600 259200 900
+rmteff3hduqsgtsptd1v1urr6e7bimsu.eat.	900	in	rrsig	NSEC3 8 2 900 20251001033252 20250909033252 50799 eat. j1zG3A7vammKHTtSdjKREcrscOEFi8gkhK9GNug04WeBlT5Pd4/7hHkbmJHqeivZn5KJcOLk3EkfXJa45Uqykyxd/k3ntJRxk+92nLICbB7oi5y3/fwKJX2mTFY7RXq9fHRyTiiE4nrzv2LSRpUmcnpVkc5qffKBfc3MGU4ldgc=
+eat.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2025091110 21600 3600 259200 900
