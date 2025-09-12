@@ -1,4 +1,4 @@
-hosting.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757552046 900 1800 6048000 3600
+hosting.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757635430 900 1800 6048000 3600
 0049.hosting.	3600	in	ns	dns-01.jintelligence.com.
 0049.hosting.	3600	in	ns	dns-02.jintelligence.com.
 0049.hosting.	900	in	nsec	007names.hosting. NS RRSIG NSEC
@@ -121,7 +121,7 @@ hosting.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757552046 90
 3iweb.hosting.	3600	in	ns	ns1.servconfig.com.
 3iweb.hosting.	3600	in	ns	ns2.servconfig.com.
 3iweb.hosting.	900	in	nsec	42sd.hosting. NS RRSIG NSEC
-3iweb.hosting.	900	in	rrsig	NSEC 13 2 900 20250914180537 20250815163537 56523 hosting. bgBvYpcmm6Fw6zkriDcP6kPDFU0io61v4mZ3vs9IHOnlUSP9fYmDIme6oYsg134Az/Oe5y5QygFZWpiYrdohyg==
+3iweb.hosting.	900	in	rrsig	NSEC 13 2 900 20251011180537 20250911163537 56523 hosting. X7X64XJLaiytZbVnfm2sDZproFe0oq4QAnK57gc4UQgWfKeAo6nQKMpuCx89m4EyJELBmHa9jBAK/QoxVTDvyg==
 42sd.hosting.	3600	in	ns	ns1.mediatemple.net.
 42sd.hosting.	3600	in	ns	ns2.mediatemple.net.
 42sd.hosting.	900	in	nsec	4ever.hosting. NS RRSIG NSEC
@@ -714,7 +714,7 @@ anonymous.hosting.	900	in	rrsig	NSEC 13 2 900 20250927214238 20250828201238 5652
 antagonist.hosting.	3600	in	ns	auth.g1-dns.com.
 antagonist.hosting.	3600	in	ns	auth.g1-dns.one.
 antagonist.hosting.	900	in	nsec	antalya.hosting. NS RRSIG NSEC
-antagonist.hosting.	900	in	rrsig	NSEC 13 2 900 20250914082328 20250815065328 56523 hosting. Pf/JqB5T+N3ZmHV7/LdGx6czhco0LtrE62DD39i3JQt32ajfuWuT4m3JI1gs9QlO1fjMLIDnWo5v4tJHntRPLg==
+antagonist.hosting.	900	in	rrsig	NSEC 13 2 900 20251011082328 20250911065328 56523 hosting. OspSHhWgxjOG4OXnIoag0ELXFtuuEo+t1f3fAUNzlo1BCm7i8mlGJDzmfNRSYK7N2vYZtd6cYj+pMUCZSPU7bg==
 antalya.hosting.	3600	in	ns	ns51.domaincontrol.com.
 antalya.hosting.	3600	in	ns	ns52.domaincontrol.com.
 antalya.hosting.	900	in	nsec	anteor.hosting. NS RRSIG NSEC
@@ -816,17 +816,17 @@ apptastic.hosting.	900	in	rrsig	NSEC 13 2 900 20251010081235 20250910064235 5652
 ara.hosting.	3600	in	ds	2371 13 2 A80D077490E8E04EC214A6E5D98D031DE83ED047CBDE00AD9ED5AC2F1BF91F64
 ara.hosting.	3600	in	ns	clark.ns.cloudflare.com.
 ara.hosting.	3600	in	ns	jule.ns.cloudflare.com.
-ara.hosting.	3600	in	rrsig	DS 13 2 3600 20250914145809 20250815132809 56523 hosting. CU1CNJo/X+ayxDP13dPYdyhQPHO5xHjEd/usDDWuZdlMRru4wTdxVjaEGTrFlpYihGbIPlOimA3zpv8xW62L1Q==
+ara.hosting.	3600	in	rrsig	DS 13 2 3600 20251011145052 20250911132052 56523 hosting. IC/MkC3vOHyZtqAb1/wpIqwCxsDlyMnUXulXOGi3PaLUM4jL1DW0VQ7nnoufAarM7Pc1yMsYsrW59gVCGG5g2g==
 ara.hosting.	900	in	nsec	arctic.hosting. NS DS RRSIG NSEC
-ara.hosting.	900	in	rrsig	NSEC 13 2 900 20250914094504 20250815081504 56523 hosting. et/j8lq07iSBxrCuxGHyida4VfrU0/knm4Oy8HG8au1QkIa/slE+OZqE3F2sI/QhFK3LnOo2/kaD4aA5ZlLHlA==
+ara.hosting.	900	in	rrsig	NSEC 13 2 900 20251011082328 20250911065328 56523 hosting. XtTQDk8z9K4igH8Z3Ng6Sw7piVZQl4LbJvJDUyNA0+tOe3me1TCmYrzRLGY4U7rq6b8IDIeU7NaS58+NXu33EA==
 arctic.hosting.	3600	in	ds	5310 15 2 D2BD1178BF0F54C13C3D76AF6A50483D62BF95F1D904CB86935221FCEE5BBEE1
 arctic.hosting.	3600	in	ds	5310 15 4 3D2386541B04C3A3374F4015B97A071CE503EE031F584224858021EE3AF34BB4B84BCBE2B1AF6F059557345E1BC7C460
 arctic.hosting.	3600	in	ns	ns1.hyp.net.
 arctic.hosting.	3600	in	ns	ns2.hyp.net.
 arctic.hosting.	3600	in	ns	ns3.hyp.net.
-arctic.hosting.	3600	in	rrsig	DS 13 2 3600 20250914094807 20250815081807 56523 hosting. YBRTi7nEzgh7fBg7OULevOBhjCAJDUmxlVsl3h4StUNBG8p86LIWCFA2DnYSHFWs+eI8pE+SH/tDE0Hb5lhOWw==
+arctic.hosting.	3600	in	rrsig	DS 13 2 3600 20251011082328 20250911065328 56523 hosting. v3Ma6h7LMD379adwxAny85i9rqWh3Eys2o4UOLX4RJBetjBmvdBzmm4TlRdGm4EaO5I41fRTFzjCH7EP6IYioQ==
 arctic.hosting.	900	in	nsec	areaproject.hosting. NS DS RRSIG NSEC
-arctic.hosting.	900	in	rrsig	NSEC 13 2 900 20250914094807 20250815081807 56523 hosting. bU61RP9eYxyuNlcGQE7Avn9Bj2vAycKXleTS2MI2Gz2HcI8kj2LgSMly9riQ69MLQEBxXXwhZ6aX8jVg1L+DFA==
+arctic.hosting.	900	in	rrsig	NSEC 13 2 900 20251011082328 20250911065328 56523 hosting. dxmj93IxAHDevZi4VNmq9NTlIRwtSg41Dj1h0hmXSN5l4FlhhDhQ0hSMhH2D/Uen9yIoyqhn7UGIlILwTjECqw==
 areaproject.hosting.	3600	in	ns	b.ns14.net.
 areaproject.hosting.	3600	in	ns	panel010.areaproject.net.
 areaproject.hosting.	3600	in	ns	sdns.areaproject.net.
@@ -2136,9 +2136,9 @@ computerwacht.hosting.	3600	in	ds	7379 13 2 D714333B6FAED5351F9798962A6B0500B9CC
 computerwacht.hosting.	3600	in	ns	ns0.transip.net.
 computerwacht.hosting.	3600	in	ns	ns1.transip.nl.
 computerwacht.hosting.	3600	in	ns	ns2.transip.eu.
-computerwacht.hosting.	3600	in	rrsig	DS 13 2 3600 20250914140413 20250815123413 56523 hosting. 0l5zNPjBGmiGFj8H0Sf/eqpbRc8Kj21kUgNMyotG+BR7cxU1eiIV0wuBNtuObQNnvIXMsBs7QNkPIn9bVkOjnQ==
+computerwacht.hosting.	3600	in	rrsig	DS 13 2 3600 20251011124125 20250911111125 56523 hosting. 7uVAjpDh+38KX0RLXpAPH/RwQGKCOMKjJKtU2Xgdvb1uPfMO4fGYeHSdtSH6ahLtFh9PZJuSLQVN3iLuW0hN7w==
 computerwacht.hosting.	900	in	nsec	computuners.hosting. NS DS RRSIG NSEC
-computerwacht.hosting.	900	in	rrsig	NSEC 13 2 900 20250914140413 20250815123413 56523 hosting. Lgb0ZPiah9zXdtkKkNt2rYWRVSLI3pzCPfzgPvNQEJNhluGW5PQrlN9kB/zeCcIeo2NzJdUFtzzDgcIXKpHRaA==
+computerwacht.hosting.	900	in	rrsig	NSEC 13 2 900 20251011124125 20250911111125 56523 hosting. qIOzUxWHZDh9+fJcDheA8Zvbf6lKW+0cDCCcp0Lyj4LPEDn2Ehmo7WIb3/pX8B2oAthuPqbqzq0wEBlhOB6B5Q==
 computuners.hosting.	3600	in	ns	cash.ns.cloudflare.com.
 computuners.hosting.	3600	in	ns	yolanda.ns.cloudflare.com.
 computuners.hosting.	900	in	nsec	comvive.hosting. NS RRSIG NSEC
@@ -4791,7 +4791,7 @@ hosting.	3600	in	dnskey	257 3 13 uPF1HOdgfjFgJLZad1aQ24mztV6XjiNli4Kv2PY3ghmwWpi
 hosting.	3600	in	rrsig	DNSKEY 13 1 3600 20251010081235 20250910064235 52534 hosting. Z/wT88+wPqB8V8pCbrrNFG+g/L8w/poZ5sbbYaphJoA6l/pJnl/qFj1I3xxMS0f4MPc5J9BSgOMH81fhA8FwMw==
 hosting.	900	in	nsec	0049.hosting. NS SOA RRSIG NSEC DNSKEY
 hosting.	900	in	rrsig	NSEC 13 1 900 20251010081235 20250910064235 56523 hosting. nT20bniI2LcKEXZNQgpcwWAs2MaZLq83p1DWaxCQvUxTd/q8fe7icxFOQwB171n+a9cUWop0DgnmclwKnZ4m7w==
-hosting.	900	in	rrsig	SOA 13 1 900 20251011005406 20250910232406 56523 hosting. THghPwWmmA2MlDXYd0+xj5wDygTRvAO8Hvwh13+Oq21+DojGg2GS7QXvqqZAlwMf0nFE3OV6Bl5Qoe+wBPr8fA==
+hosting.	900	in	rrsig	SOA 13 1 900 20251012000350 20250911223350 56523 hosting. ky8CSjEEBtk7baFMbHJjUabnF0sVGOsutuN98S823+T5xDKA+3ss4QG2E2ySajosREU2eLDoRZRnbvDhv559Rg==
 hostingprovider.hosting.	3600	in	ns	ns1.world4you.at.
 hostingprovider.hosting.	3600	in	ns	ns2.world4you.at.
 hostingprovider.hosting.	900	in	nsec	hostingstrike.hosting. NS RRSIG NSEC
@@ -4873,7 +4873,7 @@ humantouch.hosting.	3600	in	ns	ns-de.1and1-dns.com.
 humantouch.hosting.	3600	in	ns	ns-de.1and1-dns.de.
 humantouch.hosting.	3600	in	ns	ns-de.1and1-dns.org.
 humantouch.hosting.	900	in	nsec	hyper.hosting. NS RRSIG NSEC
-humantouch.hosting.	900	in	rrsig	NSEC 13 2 900 20250915000350 20250815223350 56523 hosting. viCUoovRnmaP2Z7kTVXGNZPin/eOjDTLLNLqHCyxyKd15iVF8x06LtKp7EfkOouU1FlgXaVFW2GF1MdwwS+yfQ==
+humantouch.hosting.	900	in	rrsig	NSEC 13 2 900 20251012000350 20250911223350 56523 hosting. Bq3fjOLTn5s5kP/htDZ+X79GHyxH/p20CgKU0XtrUQZtyIEJfSaK/Aioy1VIX9TgeIAGHGMxGPzD362yh/+ZGQ==
 hyper.hosting.	3600	in	ns	bailey.ns.cloudflare.com.
 hyper.hosting.	3600	in	ns	cullen.ns.cloudflare.com.
 hyper.hosting.	900	in	nsec	hyperlinc.hosting. NS RRSIG NSEC
@@ -7943,9 +7943,9 @@ outbox.hosting.	900	in	rrsig	NSEC 13 2 900 20251010081235 20250910064235 56523 h
 ovh-cloud.hosting.	3600	in	ds	29614 8 2 483449944E0F4409FDDFA072979D67C29B0439A41F7C787B1135AFC14D4DA092
 ovh-cloud.hosting.	3600	in	ns	dns104.ovh.net.
 ovh-cloud.hosting.	3600	in	ns	ns104.ovh.net.
-ovh-cloud.hosting.	3600	in	rrsig	DS 13 2 3600 20250914124125 20250815111125 56523 hosting. FXfgXamAcgVn6saG62n+dmiCRyrwSJ4mI23lPmt0vzrPJOcywtx0UAtjbrZZKwoqWZi/VbpxIZA+Diz68SHN7g==
+ovh-cloud.hosting.	3600	in	rrsig	DS 13 2 3600 20251011124125 20250911111125 56523 hosting. jDsMqHNlkeRz0pevZF9K98n/qXN6C5eikHJJxSj8aENeBgtOLeq3TAuPBFsywQZnpxMsqqoClkfG0sJCDz2XLg==
 ovh-cloud.hosting.	900	in	nsec	ovh-container.hosting. NS DS RRSIG NSEC
-ovh-cloud.hosting.	900	in	rrsig	NSEC 13 2 900 20250914124125 20250815111125 56523 hosting. 1FwJBL5Hu8TcjYpn1CrrMNwSf4+XNqLdtxkNl580jmipbJ+dhfci5Pbs2F85L6mou8Gw6anhpl0h9flHOzhLrw==
+ovh-cloud.hosting.	900	in	rrsig	NSEC 13 2 900 20251011124125 20250911111125 56523 hosting. ojlxvxhfO/oS7L+0ZbXxYiSeaaJD1juTjaxR4Kb0cC51dDmGXy2HB+wNm1sHIDCUlI/Oqsb7I83T2FMrS3oksg==
 ovh-container.hosting.	3600	in	ns	dns102.ovh.net.
 ovh-container.hosting.	3600	in	ns	ns102.ovh.net.
 ovh-container.hosting.	900	in	nsec	ovh-containers.hosting. NS RRSIG NSEC
@@ -8905,11 +8905,11 @@ redy.hosting.	900	in	rrsig	NSEC 13 2 900 20251010081235 20250910064235 56523 hos
 refinedimpact.hosting.	3600	in	ns	dns1.registrar-servers.com.
 refinedimpact.hosting.	3600	in	ns	dns2.registrar-servers.com.
 refinedimpact.hosting.	900	in	nsec	reflow.hosting. NS RRSIG NSEC
-refinedimpact.hosting.	900	in	rrsig	NSEC 13 2 900 20250914145809 20250815132809 56523 hosting. +dWr1V0RBCnc0gNOggEoqK71YS2sd4B+PQzteL69ZREvOaJp3jq/6scn7pj5tFxwU7tfiWQVoldbhJzlEWXa9Q==
+refinedimpact.hosting.	900	in	rrsig	NSEC 13 2 900 20251011145052 20250911132052 56523 hosting. a8S5RY7v4hfPHfr4LQxltZ2o9PVEyNWSGCP+YEY10OdWUJNT3YpwHvN2zN48n8NTu+rteJqQW1bQ474g7jaSkA==
 reflow.hosting.	3600	in	ns	dns1.registrar-servers.com.
 reflow.hosting.	3600	in	ns	dns2.registrar-servers.com.
 reflow.hosting.	900	in	nsec	regencyweb.hosting. NS RRSIG NSEC
-reflow.hosting.	900	in	rrsig	NSEC 13 2 900 20250914145809 20250815132809 56523 hosting. NGQxSBZApE72/cPL53cg6GuCRH0BNJPqQ06gbBhFosnklQ8PM5eFXojIEGpCaM9Qc/58a9TfxbJwwBeEmjG1sw==
+reflow.hosting.	900	in	rrsig	NSEC 13 2 900 20251011145052 20250911132052 56523 hosting. 7Y4yP1gVqGRXBgXE9fIeMAzYhzeuEBe/Ij6Y9zg/8LEzX9B5PzjSPLG10cF7O9iXfUgGOWfu6DZIQTEzmMleDw==
 regencyweb.hosting.	3600	in	ns	ns69.domaincontrol.com.
 regencyweb.hosting.	3600	in	ns	ns70.domaincontrol.com.
 regencyweb.hosting.	900	in	nsec	regensburg.hosting. NS RRSIG NSEC
@@ -9007,7 +9007,7 @@ rimu.hosting.	3600	in	ns	a.dns.gandi.net.
 rimu.hosting.	3600	in	ns	b.dns.gandi.net.
 rimu.hosting.	3600	in	ns	c.dns.gandi.net.
 rimu.hosting.	900	in	nsec	risetec.hosting. NS RRSIG NSEC
-rimu.hosting.	900	in	rrsig	NSEC 13 2 900 20250914082328 20250815065328 56523 hosting. TRc05oIPCBjRjlHiVWzOos3N+SdJS6MotTVsXDlETyVGrm2w9xOnDadHu2co20YDLpKkj2jE/2XnPltkeF/CvA==
+rimu.hosting.	900	in	rrsig	NSEC 13 2 900 20251011082328 20250911065328 56523 hosting. 1xWW0VBAISGk0vUV2gd9efZBH4CIFbASe8O0Ce6xzAHYEES8gHNqZR2+mcIFJGjezGCLY5XSiaDV8y03on/FvA==
 risetec.hosting.	3600	in	ns	ns1.whn24.net.
 risetec.hosting.	3600	in	ns	ns2.whn24.net.
 risetec.hosting.	3600	in	ns	ns3.whn24.net.
@@ -11066,11 +11066,11 @@ up2date.hosting.	3600	in	ns	ns1069.ui-dns.org.
 up2date.hosting.	3600	in	ns	ns1084.ui-dns.com.
 up2date.hosting.	3600	in	ns	ns1104.ui-dns.biz.
 up2date.hosting.	900	in	nsec	usa.hosting. NS RRSIG NSEC
-up2date.hosting.	900	in	rrsig	NSEC 13 2 900 20250914082328 20250815065328 56523 hosting. INQsvV0oQwCK1Xp3g6XDMD3o0k8Zgd5M5/ei/8d1UCUr1E6MzIJwAQ+tpA40A0JfGkUA4K8laMwhoyfYF3Gn+g==
+up2date.hosting.	900	in	rrsig	NSEC 13 2 900 20251011082328 20250911065328 56523 hosting. PTVre/lHqd1jh6xbH0+mPAIoOK3p9Stfi1WQLdraO3Kj1YSqV8fzMHsmZ65cS9uwmz6RKRRfE8kzG+lgvdTqMg==
 usa.hosting.	3600	in	ns	launch1.spaceship.net.
 usa.hosting.	3600	in	ns	launch2.spaceship.net.
 usa.hosting.	900	in	nsec	usbluemoon.hosting. NS RRSIG NSEC
-usa.hosting.	900	in	rrsig	NSEC 13 2 900 20250914082328 20250815065328 56523 hosting. vr3nYcvQUmSJyl72NuA1beOLYbs89OUARiYxQy+zvAEXAX/QRGDE3hl86aRBp9rKPGpx9fOgnVRySJ9Slmknww==
+usa.hosting.	900	in	rrsig	NSEC 13 2 900 20251011082328 20250911065328 56523 hosting. ZBgzPCyghKtkeuekaf8NeO1CWItzBiUY8yu6X1pxCA+5cUOf3FSgw6mgLJKfpV0fuE7Shbl0HEg4xYGDgugDjg==
 usbluemoon.hosting.	3600	in	ns	ns1.usbluemoon.hosting.
 usbluemoon.hosting.	3600	in	ns	ns2.usbluemoon.hosting.
 usbluemoon.hosting.	900	in	nsec	ustrust.hosting. NS RRSIG NSEC
@@ -11476,7 +11476,7 @@ webagency.hosting.	900	in	rrsig	NSEC 13 2 900 20251010081235 20250910064235 5652
 webagentur.hosting.	3600	in	ns	ns1.webagentur.hosting.
 webagentur.hosting.	3600	in	ns	ns2.webagentur.hosting.
 webagentur.hosting.	900	in	nsec	webcent.hosting. NS RRSIG NSEC
-webagentur.hosting.	900	in	rrsig	NSEC 13 2 900 20250914082328 20250815065328 56523 hosting. AHC0Ey/iM3Y72wfRizjC0w2yNQ8eFnYYt11i10CK46VZMVp88fp5U4RLwTNDBKvSlao/64X6vRhRHBXKB/tU2Q==
+webagentur.hosting.	900	in	rrsig	NSEC 13 2 900 20251011082328 20250911065328 56523 hosting. /v1p623mDNmXy8vYBhIWXo9m7ZGcASVS9OOmR/q/lZsV7piTgT4IViZPDxRtaAh6tnNFmaCPvgTF6v5T8S/JNQ==
 webcent.hosting.	3600	in	ns	ns-ca.ui-dns.biz.
 webcent.hosting.	3600	in	ns	ns-ca.ui-dns.com.
 webcent.hosting.	3600	in	ns	ns-ca.ui-dns.de.
@@ -12064,7 +12064,7 @@ yorkshire.hosting.	900	in	rrsig	NSEC 13 2 900 20251010081235 20250910064235 5652
 yotta.hosting.	3600	in	ns	ns1.web-shop.domains.
 yotta.hosting.	3600	in	ns	ns2.web-shop.domains.
 yotta.hosting.	900	in	nsec	yourcloud.hosting. NS RRSIG NSEC
-yotta.hosting.	900	in	rrsig	NSEC 13 2 900 20250915000350 20250815223350 56523 hosting. +6yV+iUwFnAqo+pACtnsk/QxIUH+MOF9xSfx6SgmoN/ysEOKUKFmkv1diTtA/zHPsL//iII0doRomwJMN91mPQ==
+yotta.hosting.	900	in	rrsig	NSEC 13 2 900 20251012000350 20250911223350 56523 hosting. 5dmQXg5gNdLQ/dw6nWk1fbETvajqw85ZIEZ34eTC/V2ggdA/M3qw6v3+Q9/xjUJiGQxuQixf6mJ9ArC7AQwxlA==
 yourcloud.hosting.	3600	in	ns	ns1.yourcloud.hosting.
 yourcloud.hosting.	3600	in	ns	ns2.yourcloud.hosting.
 yourcloud.hosting.	3600	in	ns	ns3.yourcloud.hosting.
@@ -12206,4 +12206,4 @@ zuver.hosting.	3600	in	ns	ns2.corp.ventraip.net.au.
 zuver.hosting.	3600	in	ns	ns3.corp.ventraip.net.au.
 zuver.hosting.	900	in	nsec	hosting. NS RRSIG NSEC
 zuver.hosting.	900	in	rrsig	NSEC 13 2 900 20251010081235 20250910064235 56523 hosting. QQbnxRqktaMuzVJVKlU4Kl6E8gEQ9CegJ1qZ6/dRqm+lJ69h1LG86WhHt93QKfN19J7bTS6xfdbmx+bhvU30CA==
-hosting.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757552046 900 1800 6048000 3600
+hosting.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757635430 900 1800 6048000 3600
