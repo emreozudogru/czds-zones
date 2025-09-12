@@ -1,4 +1,4 @@
-coffee.	3600	in	soa	v0n0.nic.coffee. hostmaster.donuts.email. 1757551974 7200 900 1209600 3600
+coffee.	3600	in	soa	v0n0.nic.coffee. hostmaster.donuts.email. 1757638820 7200 900 1209600 3600
 0.coffee.	3600	in	ns	pdns13.domaincontrol.com.
 0.coffee.	3600	in	ns	pdns14.domaincontrol.com.
 00.coffee.	3600	in	ns	dns1.registrar-servers.com.
@@ -1073,8 +1073,8 @@ coffee.	3600	in	soa	v0n0.nic.coffee. hostmaster.donuts.email. 1757551974 7200 90
 33rdstreet.coffee.	3600	in	ns	ns1.transip.nl.
 33rdstreet.coffee.	3600	in	ns	ns2.transip.eu.
 33rdstreet.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. pJGNd7vmqRFjQYhGp9eICw16MoIVYM/A82uGFfYWGsZoXO78tcaO4UDe41rogb9kntVsBetW5O8nCpL85SBe8H+k6QPZ8Ab5RnPuMVu7wTHyL/2/EKaSjvcWMOUXoXJp/wOLUh/gVwNnvDUt5aIoKOFTUY+sUjxjZ7GkFpdSMTw=
-33win.coffee.	3600	in	ns	ns1.bodis.com.
-33win.coffee.	3600	in	ns	ns2.bodis.com.
+33win.coffee.	3600	in	ns	ns1.dns-redirect.com.
+33win.coffee.	3600	in	ns	ns2.dns-redirect.com.
 344.coffee.	3600	in	ns	01.dnsv.jp.
 344.coffee.	3600	in	ns	02.dnsv.jp.
 344.coffee.	3600	in	ns	03.dnsv.jp.
@@ -1881,7 +1881,7 @@ coffee.	3600	in	soa	v0n0.nic.coffee. hostmaster.donuts.email. 1757551974 7200 90
 6r0mnkbvnliouf6mjcbs9l5s54fkjcrl.coffee.	3600	in	nsec3	1 1 0 73 6RIK7BVGJIR5P793DAHJLCM7GPEJ2TCI NS DS RRSIG
 6r0mnkbvnliouf6mjcbs9l5s54fkjcrl.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. kxYLIB2ye6Bc4UhVchz0Z8l09mUJ/BrX2/PFJtJLB1lBzk4EUGzbbxuTUzCSic57xJkDep7HxoS7pN4jTyevIR36n9RiRCBGddqI57wQpCglxxSYHvt+P83UcMt9LgCkGoE/tkzx76ZNCmx5F9cjc4SAa2vcbrt5Bm3IQvgB84w=
 6rik7bvgjir5p793dahjlcm7gpej2tci.coffee.	3600	in	nsec3	1 1 0 73 6RS0DLUB459RNGM92CV35HKBGVNLD6UC NS DS RRSIG
-6rik7bvgjir5p793dahjlcm7gpej2tci.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. r4pWbxcj2esYho+W9LIVEvAWdv1tvUsCtNwaOG6pknHH/vNNm2/W0nLSjBwKqk0nfV2DiK2S9DNcmH/5v3JMPGEJPD6cOWz9Ye/t/3Ub/rZrGe0wgbVRM0oaVTXKk7U8AdViPncOX9KuSDJtD8r8v6MLniFyY81FOx6/y7FoFAc=
+6rik7bvgjir5p793dahjlcm7gpej2tci.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20251002044848 20250911034848 47520 coffee. B1aC+Wdb7cslyt972/xEHT48JGo4dTNSNScljHtTcQMIqU40jnW5Xfl6oMlFd5eWYQIlLkaZdv+fROaTEJy68DA+69ZtQnyhgXM9IZX2QiioaGGrzBbf/cUexs69OP7pLI8zZaPlRyl6D4eDd1pG+kXyt/aUG1Dphw6EIFrN6qQ=
 6rs0dlub459rngm92cv35hkbgvnld6uc.coffee.	3600	in	nsec3	1 1 0 73 6TNPP76H9ED9FIEFNCPM78L5A477MSNE NS DS RRSIG
 6rs0dlub459rngm92cv35hkbgvnld6uc.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. q2VlzZTJ3HzXQ/WPNYT4LiBscJTKjdFbF4FJrB4JMmmeHXtYLH//enqP0gcK59C1Pj+dbt0m7EviD3g+SZGZeZkoB/aHpAsNEEN6OF6sOL85LdP59ANhoBGTnWqGRMvkb4hJihYvoQuCyJLzMCQN0fCrSiTZQZZf2ARhaEuHVQ0=
 6thwave.coffee.	3600	in	ns	ns1.blacknightdns.com.
@@ -1940,8 +1940,8 @@ coffee.	3600	in	soa	v0n0.nic.coffee. hostmaster.donuts.email. 1757551974 7200 90
 732nloccabg9mp9nc7e8bfvtf5jd49om.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. uwv4hj4zcDg0bcwFTdJ70G9ZoMifQveoAkLVHkjcVmaxz5qU7mEyfBjTEneiVT05eBO3sa1yGx/PR8spaBjVNJNHc+6fEgo9GmvFf2fxtpmZppIJPFPvCMSAZIO5GhaDEz426OYUPrNVoN3bh5Zt+Go3Iuo1LBHUx5AD1XTU1kg=
 740u5d5fegkmi4ini583dj4d8scd6a4d.coffee.	3600	in	nsec3	1 1 0 73 74EJVV0MCN2HI7C284G3EAQSD56GHC9B NS DS RRSIG
 740u5d5fegkmi4ini583dj4d8scd6a4d.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. C8jSvO3HgL4YMptF7rQd79uFfLwupl6pzXhOEZlLZEdtpWcHVjAya6Tlp4jSpqKGM0nkn8EhsJfidvct4UGWIZ8IeQn4amHZPVdv6mF2pUusERnhrN3/bmV5Ky7pMxu5SoFWkygCliP8wqG4t4uxijN4+16/kyimD0G1w6ZzVLc=
-742.coffee.	3600	in	ns	dns1.registrar-servers.com.
-742.coffee.	3600	in	ns	dns2.registrar-servers.com.
+742.coffee.	3600	in	ns	dns101.registrar-servers.com.
+742.coffee.	3600	in	ns	dns102.registrar-servers.com.
 74ejvv0mcn2hi7c284g3eaqsd56ghc9b.coffee.	3600	in	nsec3	1 1 0 73 74JT8VEQ3NILF2O1DQ8RFRAKLGJALBLI NS DS RRSIG
 74ejvv0mcn2hi7c284g3eaqsd56ghc9b.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. lCepeuds6aXx36RsnBnOuFd4Q7xBgN84OV1ewQciit5ZcBJixUftvFud8H4B5RppaL9qwH9RJNGBwIVmLchf8L2Ptu7w0jN0FUmKR66A/HsCzTd8/sd8mjOmQYGb+DkYJOpV6La4QhpUWMWrXKpiEdi8EHvJ03zCXRJ1yBOSsYI=
 74jt8veq3nilf2o1dq8rfraklgjalbli.coffee.	3600	in	nsec3	1 1 0 73 7544JK93BAKP3JMUM6AT9735VCCKFQ4J NS DS RRSIG
@@ -2834,8 +2834,6 @@ about.coffee.	3600	in	ns	ns-cloud-d2.googledomains.com.
 about.coffee.	3600	in	ns	ns-cloud-d3.googledomains.com.
 about.coffee.	3600	in	ns	ns-cloud-d4.googledomains.com.
 about.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. JQMjvWVSdQstPkKe5cp6Slj8jYRCe/KTbavUtG+EJif/eSdH3XJrDQ99DjQUdsgJNQdgeoSmfTlmRsDVogrONadAUmqZhujaGgbGr85DsTWAi3UWdTjkcxbitjub0QBm6bCVUw3FRlq9Fa1pkTh9+xvckguDARnhbY6E4oOXjaA=
-aboutlife.coffee.	3600	in	ns	ns1-expired.sav.com.
-aboutlife.coffee.	3600	in	ns	ns2-expired.sav.com.
 abouttime.coffee.	3600	in	ns	ns10.wixdns.net.
 abouttime.coffee.	3600	in	ns	ns11.wixdns.net.
 above.coffee.	3600	in	ns	ns5.kasserver.com.
@@ -4470,6 +4468,8 @@ ameri.coffee.	3600	in	ns	maceio.ns.porkbun.com.
 ameri.coffee.	3600	in	ns	salvador.ns.porkbun.com.
 america.coffee.	3600	in	ns	ns1.bodis.com.
 america.coffee.	3600	in	ns	ns2.bodis.com.
+americaffeine.coffee.	3600	in	ns	dns1.registrar-servers.com.
+americaffeine.coffee.	3600	in	ns	dns2.registrar-servers.com.
 americafirst.coffee.	3600	in	ns	ns1.siteground.net.
 americafirst.coffee.	3600	in	ns	ns2.siteground.net.
 americana.coffee.	3600	in	ns	ns25.domaincontrol.com.
@@ -4767,6 +4767,8 @@ andmore.coffee.	3600	in	ns	dns1.p02.nsone.net.
 andmore.coffee.	3600	in	ns	dns2.p02.nsone.net.
 andmore.coffee.	3600	in	ns	dns3.p02.nsone.net.
 andmore.coffee.	3600	in	ns	dns4.p02.nsone.net.
+ando.coffee.	3600	in	ns	ns47.domaincontrol.com.
+ando.coffee.	3600	in	ns	ns48.domaincontrol.com.
 andreatti.coffee.	3600	in	ns	dns1.registrar-servers.com.
 andreatti.coffee.	3600	in	ns	dns2.registrar-servers.com.
 andres.coffee.	3600	in	ns	ns-1073.awsdns-06.org.
@@ -5176,6 +5178,8 @@ aq0pl6hci39jekddc65g18uh5rre5v72.coffee.	3600	in	nsec3	1 1 0 73 AQ7VJ4948G5620I7
 aq0pl6hci39jekddc65g18uh5rre5v72.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. i1FF3VLok0/DsF6BIxCcIzc64t7xXGc9oJD6wBBnJBaKm25TqJuczMf+iSMuC/HRap3KwwG1Us+25IeZ73qO1uzpxm0/gTAI9jwe1cdO/6VQyxzs6ozw/FQ9LJvigZki6plrqE757qpd/AOFmHGi3MjVYVEOIKDjl65+8E/jQPs=
 aq7vj4948g5620i7j8g7g6d41pqi7g7b.coffee.	3600	in	nsec3	1 1 0 73 ARE8D6IMFS0E5C56GALC99OC12H9O8HD NS DS RRSIG
 aq7vj4948g5620i7j8g7g6d41pqi7g7b.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. mtSaGvi9oeQ8OfREzS59FO7mcviaxhCByZCG1FLYi9Gl7incFqhsMo/uXIMlkhUE9iS8zhpvNyk3uuWUiVsdwXZkGsgnYwg48QUv7osBllWI/n762VLTq29qkRfiNrxuMCh6xjZjb0DgO3EE7hqIrlDFttxktQnx2OTnDjBRcfw=
+aqua.coffee.	3600	in	ns	ns1.dyna-ns.net.
+aqua.coffee.	3600	in	ns	ns2.dyna-ns.net.
 aquagaruda.coffee.	3600	in	ns	ns1.dyna-ns.net.
 aquagaruda.coffee.	3600	in	ns	ns2.dyna-ns.net.
 aquajava.coffee.	3600	in	ns	ns51.domaincontrol.com.
@@ -6434,6 +6438,8 @@ awakencity.coffee.	3600	in	ns	ns1.bluehost.com.
 awakencity.coffee.	3600	in	ns	ns2.bluehost.com.
 awakeninggrounds.coffee.	3600	in	ns	dns1.registrar-servers.com.
 awakeninggrounds.coffee.	3600	in	ns	dns2.registrar-servers.com.
+awakethesoul.coffee.	3600	in	ns	ns67.domaincontrol.com.
+awakethesoul.coffee.	3600	in	ns	ns68.domaincontrol.com.
 awassa.coffee.	3600	in	ns	ns1.dns.services.
 awassa.coffee.	3600	in	ns	ns2.dns.services.
 awassa.coffee.	3600	in	ns	ns3.dns.services.
@@ -6840,8 +6846,8 @@ bagira.coffee.	3600	in	ns	ns2.101domain.com.
 bagira.coffee.	3600	in	ns	ns5.101domain.com.
 bagof.coffee.	3600	in	ns	dns1.registrar-servers.com.
 bagof.coffee.	3600	in	ns	dns2.registrar-servers.com.
-bags.coffee.	3600	in	ns	ns1.bodis.com.
-bags.coffee.	3600	in	ns	ns2.bodis.com.
+bags.coffee.	3600	in	ns	ns1.dns-redirect.com.
+bags.coffee.	3600	in	ns	ns2.dns-redirect.com.
 bagsof.coffee.	3600	in	ns	dns1.registrar-servers.com.
 bagsof.coffee.	3600	in	ns	dns2.registrar-servers.com.
 baguio.coffee.	3600	in	ns	ns1037.ui-dns.de.
@@ -8320,8 +8326,8 @@ beginnersluck.coffee.	3600	in	ns	ns71.domaincontrol.com.
 beginnersluck.coffee.	3600	in	ns	ns72.domaincontrol.com.
 begladcoffee.coffee.	3600	in	ns	dns1.registrar-servers.com.
 begladcoffee.coffee.	3600	in	ns	dns2.registrar-servers.com.
-begood.coffee.	3600	in	ns	ns1.bodis.com.
-begood.coffee.	3600	in	ns	ns2.bodis.com.
+begood.coffee.	3600	in	ns	ns1.dns-redirect.com.
+begood.coffee.	3600	in	ns	ns2.dns-redirect.com.
 begur.coffee.	3600	in	ns	ns63.domaincontrol.com.
 begur.coffee.	3600	in	ns	ns64.domaincontrol.com.
 behance.coffee.	3600	in	ns	dns1.namecheaphosting.com.
@@ -8725,6 +8731,8 @@ bestepause.coffee.	3600	in	ns	ens02.drei.host.
 bester-gastro.coffee.	3600	in	ns	cns1.alfahosting.info.
 bester-gastro.coffee.	3600	in	ns	cns2.alfahosting.info.
 bester-gastro.coffee.	3600	in	ns	cns3.alfahosting.info.
+bestespressomachines.coffee.	3600	in	ns	ns1.creemhost.net.
+bestespressomachines.coffee.	3600	in	ns	ns2.creemhost.net.
 bestfriend.coffee.	3600	in	ns	pdns1.registrar-servers.com.
 bestfriend.coffee.	3600	in	ns	pdns2.registrar-servers.com.
 bestfriends.coffee.	3600	in	ns	dns1.registrar-servers.com.
@@ -9162,8 +9170,8 @@ biggear.coffee.	3600	in	ns	dns104.register.com.
 biggersmaller.coffee.	3600	in	ns	ns17.domaincontrol.com.
 biggersmaller.coffee.	3600	in	ns	ns18.domaincontrol.com.
 bighair.rainer.coffee.	3600	in	a	23.239.28.203
-bighead.coffee.	3600	in	ns	ns1.bodis.com.
-bighead.coffee.	3600	in	ns	ns2.bodis.com.
+bighead.coffee.	3600	in	ns	ns1.dns-redirect.com.
+bighead.coffee.	3600	in	ns	ns2.dns-redirect.com.
 bigislandhawaii.coffee.	3600	in	ns	ns0.directnic.com.
 bigislandhawaii.coffee.	3600	in	ns	ns1.directnic.com.
 bigislandhawaii.coffee.	3600	in	ns	ns2.directnic.com.
@@ -9830,10 +9838,8 @@ blackopal.coffee.	3600	in	ns	ns6.wixdns.net.
 blackopal.coffee.	3600	in	ns	ns7.wixdns.net.
 blackops.coffee.	3600	in	ns	ns27.domaincontrol.com.
 blackops.coffee.	3600	in	ns	ns28.domaincontrol.com.
-blackorwhite.coffee.	3600	in	ns	ns1.dns-parking.com.
-blackorwhite.coffee.	3600	in	ns	ns1521.securen.net.
-blackorwhite.coffee.	3600	in	ns	ns1522.securen.net.
-blackorwhite.coffee.	3600	in	ns	ns2.dns-parking.com.
+blackorwhite.coffee.	3600	in	ns	ns1.dns-expired.com.
+blackorwhite.coffee.	3600	in	ns	ns2.dns-expired.com.
 blackowl.coffee.	3600	in	ns	ns3.afternic.com.
 blackowl.coffee.	3600	in	ns	ns4.afternic.com.
 blackowlcoffee.coffee.	3600	in	ns	ns3.afternic.com.
@@ -10556,8 +10562,8 @@ boardroom.coffee.	3600	in	ns	ns-cloud-c2.googledomains.com.
 boardroom.coffee.	3600	in	ns	ns-cloud-c3.googledomains.com.
 boardroom.coffee.	3600	in	ns	ns-cloud-c4.googledomains.com.
 boardroom.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. MoAeBSlLX7+V/OaFX2ElDFGBI/iBA7JwxjG+555st12/JSkVI2wSdAqE/dlIYd/VAmo6lpfhgqJqEhb9VVu6viHomYiWiipvIAUNAfurKB/FjW0+eVKLSFj9Rfha/k4Oj28sORoHQB1ZLZMfUKnwoHZ5oznN2JqF1mmryxDW28c=
-boardwalk.coffee.	3600	in	ns	ns1.bodis.com.
-boardwalk.coffee.	3600	in	ns	ns2.bodis.com.
+boardwalk.coffee.	3600	in	ns	ns1.dns-redirect.com.
+boardwalk.coffee.	3600	in	ns	ns2.dns-redirect.com.
 boasbros.coffee.	3600	in	ds	33665 13 2 E736D1DDFF57E42C3E18178A597290C2F6000D3983CC9B7F09E701E91C96FD51
 boasbros.coffee.	3600	in	ns	webhostingserver.g1-dns.com.
 boasbros.coffee.	3600	in	ns	webhostingserver.g1-dns.one.
@@ -12100,8 +12106,8 @@ brightside.coffee.	3600	in	ns	ns1.crazydomains.com.
 brightside.coffee.	3600	in	ns	ns2.crazydomains.com.
 brilhe.coffee.	3600	in	ns	ns-a1.conoha.io.
 brilhe.coffee.	3600	in	ns	ns-a2.conoha.io.
-brilliant.coffee.	3600	in	ns	ns1.bodis.com.
-brilliant.coffee.	3600	in	ns	ns2.bodis.com.
+brilliant.coffee.	3600	in	ns	ns1.dns-redirect.com.
+brilliant.coffee.	3600	in	ns	ns2.dns-redirect.com.
 brim.coffee.	3600	in	ns	ns05.domaincontrol.com.
 brim.coffee.	3600	in	ns	ns06.domaincontrol.com.
 brims.coffee.	3600	in	ns	ns65.domaincontrol.com.
@@ -12287,6 +12293,9 @@ bros.coffee.	3600	in	ns	dns3.supremepanel.com.
 bros.coffee.	3600	in	ns	dns4.supremepanel.com.
 brotein.coffee.	3600	in	ns	ns11.domaincontrol.com.
 brotein.coffee.	3600	in	ns	ns12.domaincontrol.com.
+brotherhood.coffee.	3600	in	ns	x.ns.joker.com.
+brotherhood.coffee.	3600	in	ns	y.ns.joker.com.
+brotherhood.coffee.	3600	in	ns	z.ns.joker.com.
 brotherofmine.coffee.	3600	in	ns	ns1.netregistry.net.
 brotherofmine.coffee.	3600	in	ns	ns2.netregistry.net.
 brotherofmine.coffee.	3600	in	ns	ns3.netregistry.net.
@@ -13759,6 +13768,8 @@ cafeverde.coffee.	3600	in	ns	ns03.domaincontrol.com.
 cafeverde.coffee.	3600	in	ns	ns04.domaincontrol.com.
 cafewilliam.coffee.	3600	in	ns	ns21.domaincontrol.com.
 cafewilliam.coffee.	3600	in	ns	ns22.domaincontrol.com.
+cafexporto.coffee.	3600	in	ns	dns1.registrar-servers.com.
+cafexporto.coffee.	3600	in	ns	dns2.registrar-servers.com.
 cafezal.coffee.	3600	in	ns	ns1.domain.com.
 cafezal.coffee.	3600	in	ns	ns2.domain.com.
 cafezin.coffee.	3600	in	ns	ns17.domaincontrol.com.
@@ -14330,8 +14341,8 @@ cantresist.coffee.	3600	in	ns	dion.ns.cloudflare.com.
 cantresist.coffee.	3600	in	ns	keyla.ns.cloudflare.com.
 canuck.coffee.	3600	in	ns	ns1.mydomain.com.
 canuck.coffee.	3600	in	ns	ns2.mydomain.com.
-canucks.coffee.	3600	in	ns	ns1.bodis.com.
-canucks.coffee.	3600	in	ns	ns2.bodis.com.
+canucks.coffee.	3600	in	ns	ns1.dns-redirect.com.
+canucks.coffee.	3600	in	ns	ns2.dns-redirect.com.
 canuuck.coffee.	3600	in	ns	dns101.register.com.
 canuuck.coffee.	3600	in	ns	dns102.register.com.
 canvas.coffee.	3600	in	ns	ns23.domaincontrol.com.
@@ -16913,7 +16924,7 @@ coffee.	3600	in	nsec3param	1 0 0 73
 coffee.	3600	in	rrsig	DNSKEY 8 1 3600 20250930153223 20250909143223 37636 coffee. H+/antV7MMHQGTL0Wn8r6yBgy8rdBZbtgywSWquJPLQ7OgtevqO/SruMwB59MNNn4uYtctct+mhPzk1lPsb44h2ezwC8y+R5dv4swgoGHYvFbMN8qZx49ObNkOvtyLcCTK6pj9XkbBDMDai8RZIPalATMPHeTisFzZ4UswSw7FriYJwNLZ0JAUoedREmP3knsGVHE5tX/uKAF2KAtkSepiSS2nLA351KNtwqjNtIzMQijDchPXtBKmM8p3DsggfcIC08IUlVEF3X3xddQg/TyNLcuPawP/FGuSwcZBaiNpKHkJBOkaYEKcGnvel9D68KpW5EGycgWBhcRSr0XpPMbg==
 coffee.	3600	in	rrsig	NS 8 1 3600 20250930153223 20250909143223 47520 coffee. xE9nCCQBI9o7CzufHUIbbvqgXQE9L0DzV0FwiH5AUyfC//OHCkPTngg5/eZYC1SYjpQctwMFFNgA+DnUpcEIjznHrpqKag/gqLZ0Dt4fcepFByveMqR1DUR/C90v3J9j9/AI8lg1O8kG1gEvHuReXVmLfyD0JCovfJH5lIXj/Yw=
 coffee.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930153223 20250909143223 47520 coffee. EVd2VOAqaqIdUtVWnM6F6tGlOoz26EtHAh36HzozEDrRB3cU7i7xJ0UMJLmcwODl+QprXHjK/eT5HAUN2jQQWFMOario1zsTs8SpLTESwRByFvVDWyGoAcQ3sLrvZM2EdPb/BOVUTzgSPOnSyYjqngykwzwkHtRnuzbiQHo2Z3Y=
-coffee.	3600	in	rrsig	SOA 8 1 3600 20251002005637 20250910235637 47520 coffee. aF9EXW8OHKPg4A7O57N62rPzJXxJesc+DoCa/fKbWBfyWV+6yn3r6FEh5WbDModqUzChGtaBHWilYTZ9L/WRKhJf2uO0kOfpOH7Srh0//lFCVQKx/sr/UQTUVYC8npr96niqbdnTOpdWCO3cR+fPMW9Nm5S4UZeY9nWcAxmUpX4=
+coffee.	3600	in	rrsig	SOA 8 1 3600 20251003010343 20250912000343 47520 coffee. hLn+IIxDoOMbv2D96B4508cYlEeizZVh6jBtkvmWfccJNQiwpYf8M8x69Gs5OSEav/rM10CnL2j6xe71l5T4p67bvbehYQFwLFIuYTwk1V4E1yuaIiC9E5v3EjShWlVdFUavNfasL1XJT5Yug0ADDHstSMP0mIDpMvpnuyE9D70=
 coffee.coffee.	3600	in	ns	ns63.domaincontrol.com.
 coffee.coffee.	3600	in	ns	ns64.domaincontrol.com.
 coffee1.coffee.	3600	in	ns	dns1.cscdns.net.
@@ -17867,8 +17878,8 @@ commons.coffee.	3600	in	ns	dns1.register.com.
 commons.coffee.	3600	in	ns	dns2.register.com.
 commonscents.coffee.	3600	in	ns	ns1.siteground.net.
 commonscents.coffee.	3600	in	ns	ns2.siteground.net.
-commonsense.coffee.	3600	in	ns	ns1.bodis.com.
-commonsense.coffee.	3600	in	ns	ns2.bodis.com.
+commonsense.coffee.	3600	in	ns	ns1.dns-redirect.com.
+commonsense.coffee.	3600	in	ns	ns2.dns-redirect.com.
 commonthriving.coffee.	3600	in	ns	ns1.renewyourname.net.
 commonthriving.coffee.	3600	in	ns	ns2.renewyourname.net.
 commonwealthjoe.coffee.	3600	in	ns	ns07.domaincontrol.com.
@@ -19321,16 +19332,14 @@ crowncattle.coffee.	3600	in	ns	ns53.domaincontrol.com.
 crowncattle.coffee.	3600	in	ns	ns54.domaincontrol.com.
 crowns.coffee.	3600	in	ns	ns1.dns-parking.com.
 crowns.coffee.	3600	in	ns	ns2.dns-parking.com.
-crows.coffee.	3600	in	ns	ns1.bodis.com.
-crows.coffee.	3600	in	ns	ns2.bodis.com.
+crows.coffee.	3600	in	ns	ns1.dns-redirect.com.
+crows.coffee.	3600	in	ns	ns2.dns-redirect.com.
 crowsnest.coffee.	3600	in	ns	dns1.register.com.
 crowsnest.coffee.	3600	in	ns	dns2.register.com.
 crqn0br2d3ait3jje6f2gf4m7eshvf7h.coffee.	3600	in	nsec3	1 1 0 73 CSO2U1K5IGMB5BL8OCMEFL5TFBSP76RK NS DS RRSIG
 crqn0br2d3ait3jje6f2gf4m7eshvf7h.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. UM/fosfsPoPSUSy0lZfpIXd3hGWZ9qJLn6Kk0bg2OHsJXd456qt2uMd93hzck/6auru/tJk3ghrO24zg5DhsUcJWG4o4eqNPraBs/TXNBe8xJ18jagX3sOy559oOTLYtOy0cwrgivOgI1RWOq2XpBq7+JzOq4kSlLgWFU6xO4tc=
 crtv.coffee.	3600	in	ns	jo.ns.cloudflare.com.
 crtv.coffee.	3600	in	ns	langston.ns.cloudflare.com.
-crucial.coffee.	3600	in	ns	ns1.dns-redirect.com.
-crucial.coffee.	3600	in	ns	ns2.dns-redirect.com.
 crucible.coffee.	3600	in	ns	ns1030.ui-dns.de.
 crucible.coffee.	3600	in	ns	ns1035.ui-dns.org.
 crucible.coffee.	3600	in	ns	ns1042.ui-dns.com.
@@ -21380,8 +21389,8 @@ dfgrinders.coffee.	3600	in	ds	381 13 2 C1D49884D971664A68078876CC6221259F0FBBF19
 dfgrinders.coffee.	3600	in	ns	ns01.one.com.
 dfgrinders.coffee.	3600	in	ns	ns02.one.com.
 dfgrinders.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. rkV9aQ2STQH2AzAZCa3aSdkGFMW4/gqBr0kWIU7y+6AX+hFBjJUjw5nLfCffroZ+DRxjpLRyANxdVFTy+XfFtyFLXYjJ+qhdnTFPyXlreoVGvaKfuzeUQiebeEZvZR4Z+alXBC67fhjfhaLEOY/45RoYzD444Mgs7gFIvGJnJlM=
-dfir.coffee.	3600	in	ns	ns1.bodis.com.
-dfir.coffee.	3600	in	ns	ns2.bodis.com.
+dfir.coffee.	3600	in	ns	ns1.dns-redirect.com.
+dfir.coffee.	3600	in	ns	ns2.dns-redirect.com.
 dfkd31lrta05amnd6m4o5fccsudume8j.coffee.	3600	in	nsec3	1 1 0 73 DG3TD8NU2DRV60CHPH363FFC574MU15V NS DS RRSIG
 dfkd31lrta05amnd6m4o5fccsudume8j.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. mRSaMC/w7N4g/gE9m/ghjYmWbjRN6muqsmPg+oUEBbZXrx37MIrLBIy+tsYSe8pU2BlYs2s9mO4vjRlEbWtsxFjUtQSfkHEQjDCr1fDEQbH+kIVmPhHLXMlavYVZ/ykNuHT1+YjHrAOKeFRIRw804FEOMOa0zz3VWVGEUg9zgds=
 dfrnt.coffee.	3600	in	ns	dns102.ovh.net.
@@ -22075,8 +22084,8 @@ doma.coffee.	3600	in	ns	ns3.whois.com.
 doma.coffee.	3600	in	ns	ns4.whois.com.
 domain.coffee.	3600	in	ns	2sb852b9bjp5pjhj3p5f23h3jhp9b59b.ns.namepros-dns.is.
 domain.coffee.	3600	in	ns	ns1.namepros-dns.com.
-domains.coffee.	3600	in	ns	ns1.bodis.com.
-domains.coffee.	3600	in	ns	ns2.bodis.com.
+domains.coffee.	3600	in	ns	ns1.dns-redirect.com.
+domains.coffee.	3600	in	ns	ns2.dns-redirect.com.
 domani.coffee.	3600	in	ns	abdullah.ns.cloudflare.com.
 domani.coffee.	3600	in	ns	ada.ns.cloudflare.com.
 domba.coffee.	3600	in	ns	ns-cloud-c1.googledomains.com.
@@ -23421,6 +23430,8 @@ easy.coffee.	3600	in	ns	ns6.markmonitor.com.
 easy.coffee.	3600	in	ns	ns7.markmonitor.com.
 easygo.coffee.	3600	in	ns	ns09.domaincontrol.com.
 easygo.coffee.	3600	in	ns	ns10.domaincontrol.com.
+easyice.coffee.	3600	in	ns	ns1.dondominio.com.
+easyice.coffee.	3600	in	ns	ns2.dondominio.com.
 eat.coffee.	3600	in	ns	ns01.cashparking.com.
 eat.coffee.	3600	in	ns	ns02.cashparking.com.
 eataly.coffee.	3600	in	ns	ns132.24-7-network.com.
@@ -23563,6 +23574,8 @@ ecru.coffee.	3600	in	ns	greg.ns.cloudflare.com.
 ecru.coffee.	3600	in	ns	sara.ns.cloudflare.com.
 ecs.coffee.	3600	in	ns	dns.domainsatcost.ca.
 ecs.coffee.	3600	in	ns	dns2.domainsatcost.ca.
+ecuadorspecialty.coffee.	3600	in	ns	dns1.registrar-servers.com.
+ecuadorspecialty.coffee.	3600	in	ns	dns2.registrar-servers.com.
 ed101.coffee.	3600	in	ns	kay.ns.cloudflare.com.
 ed101.coffee.	3600	in	ns	matt.ns.cloudflare.com.
 ed27493vk4oe3cmra8mh5lqiqruod20p.coffee.	3600	in	nsec3	1 1 0 73 EDRQQTOHIAJ91LQI9TRJMAQG2DP3TQ7L NS DS RRSIG
@@ -23938,8 +23951,8 @@ elegance.coffee.	3600	in	ds	19204 13 2 4D9FFBCDFC1F949394F42D35A43E5C0776A2CFC64
 elegance.coffee.	3600	in	ns	ns11.infomaniak.ch.
 elegance.coffee.	3600	in	ns	ns12.infomaniak.ch.
 elegance.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. igY5s6vJu645Eit4H0pLFRvvizZ4BxgaLSbMDtBFT80LP9tafeLcYuKxY4ZEff1r44NBScDoUycqeK9gGicCNsi2DKxPrhs99EPdYQhcDtl9HHjdS+lo0/zZb5ZIs8Qq0Kp8YtyOkuJDeCCnu1j8Wfun9ucmcI8Jt9KJc+y8KXs=
-elegant.coffee.	3600	in	ns	ns1.bodis.com.
-elegant.coffee.	3600	in	ns	ns2.bodis.com.
+elegant.coffee.	3600	in	ns	ns1.dns-redirect.com.
+elegant.coffee.	3600	in	ns	ns2.dns-redirect.com.
 elegante.coffee.	3600	in	ns	ns27.domaincontrol.com.
 elegante.coffee.	3600	in	ns	ns28.domaincontrol.com.
 elektra.coffee.	3600	in	ns	ns.udag.de.
@@ -25377,8 +25390,6 @@ exponent.coffee.	3600	in	ns	ns47.domaincontrol.com.
 exponent.coffee.	3600	in	ns	ns48.domaincontrol.com.
 export.coffee.	3600	in	ns	ns51.domaincontrol.com.
 export.coffee.	3600	in	ns	ns52.domaincontrol.com.
-exports.coffee.	3600	in	ns	ns05.domaincontrol.com.
-exports.coffee.	3600	in	ns	ns06.domaincontrol.com.
 express-o.coffee.	3600	in	ns	ns1.sedoparking.com.
 express-o.coffee.	3600	in	ns	ns2.sedoparking.com.
 express.coffee.	3600	in	ns	ns1.afternic.com.
@@ -26552,8 +26563,8 @@ finless.coffee.	3600	in	ns	ns-cloud-e2.googledomains.com.
 finless.coffee.	3600	in	ns	ns-cloud-e3.googledomains.com.
 finless.coffee.	3600	in	ns	ns-cloud-e4.googledomains.com.
 finless.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. X+E9vPDpWr/vY0yVw2i73cDI+/sXQ3WMTCWjsai0lLDH3cknxbs3HIdYpLXsPcm38RO45+Q8CjigJC8LXRHOvvqTpR7dBSbR94aFKhMjc6QHK0D4x4sRp1BECR4d5MNo7PiX2wu1PA2vXeCf8MuNw+GvCuRK4eHL8BLXrDqt/DI=
-finn.coffee.	3600	in	ns	ns1.bodis.com.
-finn.coffee.	3600	in	ns	ns2.bodis.com.
+finn.coffee.	3600	in	ns	ns1.dns-redirect.com.
+finn.coffee.	3600	in	ns	ns2.dns-redirect.com.
 finndrinks.coffee.	3600	in	ns	erin.ns.cloudflare.com.
 finndrinks.coffee.	3600	in	ns	noah.ns.cloudflare.com.
 finsh.coffee.	3600	in	ns	carioca.ns.cloudflare.com.
@@ -27784,8 +27795,6 @@ freedombrews.coffee.	3600	in	ns	ns25.domaincontrol.com.
 freedombrews.coffee.	3600	in	ns	ns26.domaincontrol.com.
 freedomforged.coffee.	3600	in	ns	ns75.domaincontrol.com.
 freedomforged.coffee.	3600	in	ns	ns76.domaincontrol.com.
-freedomroasting.coffee.	3600	in	ns	ns07.domaincontrol.com.
-freedomroasting.coffee.	3600	in	ns	ns08.domaincontrol.com.
 freefor.coffee.	3600	in	ns	ns63.domaincontrol.com.
 freefor.coffee.	3600	in	ns	ns64.domaincontrol.com.
 freeform.coffee.	3600	in	ns	ns57.domaincontrol.com.
@@ -28411,10 +28420,8 @@ fuzzy.coffee.	3600	in	ns	ns-cloud-c2.googledomains.com.
 fuzzy.coffee.	3600	in	ns	ns-cloud-c3.googledomains.com.
 fuzzy.coffee.	3600	in	ns	ns-cloud-c4.googledomains.com.
 fuzzy.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. Le0UMYjlGY53gi3LvtroZBZgBscCQ2g680cNA+j3zzuMQsnsMp+EsYphHUlpQ2/nbtRvGhj/moVWhCm0+8TqGUKDiiCMebCOU/Jx5DGwhWehBI7HQk2l6FtjxGnwbl9jxF45zkBqUtmuqwzMpWQlG0GaXZrXKfl+AWJ/s0pmQ9I=
-fvbgod4t9m8hh4qnf2hgdj7slp4t1f8c.coffee.	3600	in	nsec3	1 1 0 73 FVT1QD577HVL6M1DK1V405DP54J91E2A NS DS RRSIG
-fvbgod4t9m8hh4qnf2hgdj7slp4t1f8c.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. lkXfFzWq0U6PBGpDu37vaYJdPioa/A/FBbHsxRNYfhnQFYF60mLVHPA29R3UIE9k2kxNJDXeqMhQB8tE97hadj04EIQjXQwsk67E1EtQN/CZh0BlKrheX2RDwZVUiEr1q8EqfBmEBdTFxKDQ2nUi9tyHrEL7L5lkuCihlc4D6G4=
-fvt1qd577hvl6m1dk1v405dp54j91e2a.coffee.	3600	in	nsec3	1 1 0 73 FVVUM6V6VVGGO7PVRODGUGDUU83K4DRE NS DS RRSIG
-fvt1qd577hvl6m1dk1v405dp54j91e2a.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. vnLlHXxLbEsKSk+SRglykZ+FWmlzVyJTQ3FFt/bAVi1XBggThraFtnoU4CTo0gu3pqmQGSWWwZ5Gg/8CgSr8YQLs6EVVGyXB/N8NAipX2R8RemJcbT9k0SwLFQI5/D4yV6x4cQUpOpAmD6WmYBFBw2PKA8fHwt/EJ5BdJerrV2o=
+fvbgod4t9m8hh4qnf2hgdj7slp4t1f8c.coffee.	3600	in	nsec3	1 1 0 73 FVVUM6V6VVGGO7PVRODGUGDUU83K4DRE NS DS RRSIG
+fvbgod4t9m8hh4qnf2hgdj7slp4t1f8c.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20251002200815 20250911190815 47520 coffee. oOeU389vd5eP61Q7B8YDER+41rqyvzGnbJrBIpkfLACsMyXAuoHZ/BzZEEeaJWVJf+Pr4Scm5kgBB8FqHukfI9GEWj9BFtGY60PGIWFE/5bfHprYVlfMM2dDZUfTU+09h/NxxHqdXIDGRd4UlbaF/JGophY0A5tcuFYMB7ls0ps=
 fvvum6v6vvggo7pvrodgugduu83k4dre.coffee.	3600	in	nsec3	1 1 0 73 G0NO7GD17E2JS1UBBULSUQSD66AS9N4Q NS DS RRSIG
 fvvum6v6vvggo7pvrodgugduu83k4dre.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. c0FnXsmkHoIsUrWuDPbf0qSdopsfUdUjrPSER7ommE5nlQf086cFgZ8ScfCa2gHnSj7ByCWzILzXaZkwkGjfyXvNDdmsBu2vchixAglpJEyAK+fA9VC0t8qUuLPtLKHIf1vETy9GbPER/bf7YdfFyddr7h/F2p7KFhstK6Bb4B0=
 fwb.coffee.	3600	in	ns	ns01.domaincontrol.com.
@@ -28650,6 +28657,8 @@ gaphe.coffee.	3600	in	ns	ns63.domaincontrol.com.
 gaphe.coffee.	3600	in	ns	ns64.domaincontrol.com.
 gara.coffee.	3600	in	ns	dns1.registrar-servers.com.
 gara.coffee.	3600	in	ns	dns2.registrar-servers.com.
+garage.coffee.	3600	in	ns	ns25.domaincontrol.com.
+garage.coffee.	3600	in	ns	ns26.domaincontrol.com.
 garagedog.coffee.	3600	in	ns	ns03.domaincontrol.com.
 garagedog.coffee.	3600	in	ns	ns04.domaincontrol.com.
 gardencity.coffee.	3600	in	ns	ns43.domaincontrol.com.
@@ -29132,8 +29141,8 @@ getyourdose.coffee.	3600	in	ns	curitiba.ns.porkbun.com.
 getyourdose.coffee.	3600	in	ns	fortaleza.ns.porkbun.com.
 getyourdose.coffee.	3600	in	ns	maceio.ns.porkbun.com.
 getyourdose.coffee.	3600	in	ns	salvador.ns.porkbun.com.
-getyourmug.coffee.	3600	in	ns	ns1.bodis.com.
-getyourmug.coffee.	3600	in	ns	ns2.bodis.com.
+getyourmug.coffee.	3600	in	ns	ns1.dns-redirect.com.
+getyourmug.coffee.	3600	in	ns	ns2.dns-redirect.com.
 gevalia.coffee.	3600	in	ns	ns23.domaincontrol.com.
 gevalia.coffee.	3600	in	ns	ns24.domaincontrol.com.
 geyser.coffee.	3600	in	ds	24367 8 2 C99C173196E4F3A910A0C57715769DD5A47EE5F94E657C63129364C954455578
@@ -29793,8 +29802,8 @@ goldensunrise.coffee.	3600	in	ns	ns2.digitalocean.com.
 goldensunrise.coffee.	3600	in	ns	ns3.digitalocean.com.
 goldentop.coffee.	3600	in	ns	ns23.domaincontrol.com.
 goldentop.coffee.	3600	in	ns	ns24.domaincontrol.com.
-goldffee.coffee.	3600	in	ns	dns1.registrar-servers.com.
-goldffee.coffee.	3600	in	ns	dns2.registrar-servers.com.
+goldffee.coffee.	3600	in	ns	dns101.registrar-servers.com.
+goldffee.coffee.	3600	in	ns	dns102.registrar-servers.com.
 goldfinch.coffee.	3600	in	ns	scott.ns.cloudflare.com.
 goldfinch.coffee.	3600	in	ns	vida.ns.cloudflare.com.
 goldflake.coffee.	3600	in	ns	ns1.ms454.parklogic.com.
@@ -30819,6 +30828,8 @@ grinroast.coffee.	3600	in	ns	ns01.squarespacedns.com.
 grinroast.coffee.	3600	in	ns	ns02.squarespacedns.com.
 grinroast.coffee.	3600	in	ns	ns03.squarespacedns.com.
 grinroast.coffee.	3600	in	ns	ns04.squarespacedns.com.
+grip.coffee.	3600	in	ns	ns1.dns-redirect.com.
+grip.coffee.	3600	in	ns	ns2.dns-redirect.com.
 gripps.coffee.	3600	in	ns	ns07.domaincontrol.com.
 gripps.coffee.	3600	in	ns	ns08.domaincontrol.com.
 grit.coffee.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -31297,8 +31308,8 @@ gwo.coffee.	3600	in	ns	dns1.registrar-servers.com.
 gwo.coffee.	3600	in	ns	dns2.registrar-servers.com.
 gya.coffee.	3600	in	ns	s133-a.maindns.net.
 gya.coffee.	3600	in	ns	s133-b.maindns.net.
-gym.coffee.	3600	in	ns	ns1.bodis.com.
-gym.coffee.	3600	in	ns	ns2.bodis.com.
+gym.coffee.	3600	in	ns	ns1.dns-redirect.com.
+gym.coffee.	3600	in	ns	ns2.dns-redirect.com.
 gypsy.coffee.	3600	in	ns	ns1.beget.com.
 gypsy.coffee.	3600	in	ns	ns1.beget.pro.
 gypsy.coffee.	3600	in	ns	ns2.beget.com.
@@ -31388,6 +31399,8 @@ hacibaba.coffee.	3600	in	ns	anuj.ns.cloudflare.com.
 hacibaba.coffee.	3600	in	ns	bonnie.ns.cloudflare.com.
 haciendaelcreo.coffee.	3600	in	ns	dns1.registrar-servers.com.
 haciendaelcreo.coffee.	3600	in	ns	dns2.registrar-servers.com.
+haciendalapapaya.coffee.	3600	in	ns	dns1.registrar-servers.com.
+haciendalapapaya.coffee.	3600	in	ns	dns2.registrar-servers.com.
 haciendanavarro.coffee.	3600	in	ns	ns13.domaincontrol.com.
 haciendanavarro.coffee.	3600	in	ns	ns14.domaincontrol.com.
 hack.coffee.	3600	in	ns	ns13.domaincontrol.com.
@@ -32245,6 +32258,8 @@ head.coffee.	3600	in	ns	ns1.sedoparking.com.
 head.coffee.	3600	in	ns	ns2.sedoparking.com.
 headcount.coffee.	3600	in	ns	dns1.registrar-servers.com.
 headcount.coffee.	3600	in	ns	dns2.registrar-servers.com.
+headquarters-nkg.coffee.	3600	in	ns	ns1.dyna-ns.net.
+headquarters-nkg.coffee.	3600	in	ns	ns2.dyna-ns.net.
 heads.coffee.	3600	in	ns	dns1.registrar-servers.com.
 heads.coffee.	3600	in	ns	dns2.registrar-servers.com.
 headshot.coffee.	3600	in	ns	albert.ns.cloudflare.com.
@@ -32422,6 +32437,9 @@ heeldewereld.coffee.	3600	in	ns	ns3.tiscomhosting.eu.
 heeldewereld.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. GXs1Q02eKBNf2lSx1KDvLRpXppGc4v6yE+AcaJYgvm6WY3v7QQBqR2LBUVrr+XcogKcd4uSw6B4psyZW+IaHUN073rIRXBsLdyROE7aFBn+S8VAtocjysQIfbUHN9BZIyF4+bD2H4y2221rp9hoqScd8cUYnvZFDwNefeT0yvbw=
 hei.coffee.	3600	in	ns	docks13.rzone.de.
 hei.coffee.	3600	in	ns	shades04.rzone.de.
+heide.coffee.	3600	in	ns	ns.udag.de.
+heide.coffee.	3600	in	ns	ns.udag.net.
+heide.coffee.	3600	in	ns	ns.udag.org.
 heimatkiosk.coffee.	3600	in	ns	ns.udag.de.
 heimatkiosk.coffee.	3600	in	ns	ns.udag.net.
 heimatkiosk.coffee.	3600	in	ns	ns.udag.org.
@@ -32581,8 +32599,6 @@ hendriks.coffee.	3600	in	ns	dns2.hosted.nl.
 hendriks.coffee.	3600	in	ns	dns3.hosted.nl.
 hendrys.coffee.	3600	in	ns	dns1.registrar-servers.com.
 hendrys.coffee.	3600	in	ns	dns2.registrar-servers.com.
-hendys.coffee.	3600	in	ns	ns75.domaincontrol.com.
-hendys.coffee.	3600	in	ns	ns76.domaincontrol.com.
 henlo.coffee.	3600	in	ns	simon.ns.cloudflare.com.
 henlo.coffee.	3600	in	ns	wanda.ns.cloudflare.com.
 henri.coffee.	3600	in	ns	ns.profiwh.com.
@@ -32631,8 +32647,8 @@ hereandnow.coffee.	3600	in	ns	ns49.domaincontrol.com.
 hereandnow.coffee.	3600	in	ns	ns50.domaincontrol.com.
 hereandthere.coffee.	3600	in	ns	ns21.domaincontrol.com.
 hereandthere.coffee.	3600	in	ns	ns22.domaincontrol.com.
-herefor.coffee.	3600	in	ns	3433.ns1.above.com.
-herefor.coffee.	3600	in	ns	3433.ns2.above.com.
+herefor.coffee.	3600	in	ns	ns1.dyna-ns.net.
+herefor.coffee.	3600	in	ns	ns2.dyna-ns.net.
 herencia.coffee.	3600	in	ns	dns1.register.com.
 herencia.coffee.	3600	in	ns	dns2.register.com.
 heresy.coffee.	3600	in	ns	ns1.hostido.net.pl.
@@ -33630,10 +33646,8 @@ horslab.coffee.	3600	in	ns	ns1vwx.name.com.
 horslab.coffee.	3600	in	ns	ns2btz.name.com.
 horslab.coffee.	3600	in	ns	ns3jkl.name.com.
 horslab.coffee.	3600	in	ns	ns4ksy.name.com.
-hortonsorganiccolombian.coffee.	3600	in	ns	ns61.domaincontrol.com.
-hortonsorganiccolombian.coffee.	3600	in	ns	ns62.domaincontrol.com.
-horus.coffee.	3600	in	ns	ns1.bodis.com.
-horus.coffee.	3600	in	ns	ns2.bodis.com.
+horus.coffee.	3600	in	ns	ns1.dns-redirect.com.
+horus.coffee.	3600	in	ns	ns2.dns-redirect.com.
 hospitality.coffee.	3600	in	ns	ns1.dns-redirect.com.
 hospitality.coffee.	3600	in	ns	ns2.dns-redirect.com.
 host.coffee.	3600	in	ns	ns1.register.it.
@@ -34449,6 +34463,8 @@ iconik.coffee.	3600	in	ns	verify-contact-details.namecheap.com.
 iconosquare.coffee.	3600	in	ns	a.dns.gandi.net.
 iconosquare.coffee.	3600	in	ns	b.dns.gandi.net.
 iconosquare.coffee.	3600	in	ns	c.dns.gandi.net.
+icp.coffee.	3600	in	ns	dns1.registrar-servers.com.
+icp.coffee.	3600	in	ns	dns2.registrar-servers.com.
 ics.coffee.	3600	in	ns	ns13.domaincontrol.com.
 ics.coffee.	3600	in	ns	ns14.domaincontrol.com.
 ict.coffee.	3600	in	ns	pdns05.domaincontrol.com.
@@ -34758,8 +34774,8 @@ ilikethis.coffee.	3600	in	ns	dns1.registrar-servers.com.
 ilikethis.coffee.	3600	in	ns	dns2.registrar-servers.com.
 ilive4.coffee.	3600	in	ns	ns1.justhost.com.
 ilive4.coffee.	3600	in	ns	ns2.justhost.com.
-ilivefor.coffee.	3600	in	ns	3433.ns1.above.com.
-ilivefor.coffee.	3600	in	ns	3433.ns2.above.com.
+ilivefor.coffee.	3600	in	ns	ns1.dyna-ns.net.
+ilivefor.coffee.	3600	in	ns	ns2.dyna-ns.net.
 ilkedj178ge0snvdlpg9baulaa25bl97.coffee.	3600	in	nsec3	1 1 0 73 IM0R82VMPFGRHH3IRUVFK227CQS6DI9D NS DS RRSIG
 ilkedj178ge0snvdlpg9baulaa25bl97.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. LYRUyyiod6BhnB2npWghoLt9Cdlwn4vMLJcEE/piV6gQtiMtenBS1NgkILE9kQxE2Sl8PHYXVuXgTBphSvrIY9WV3vdBHtNFbXYIdXDkJVGqCQQOHelKpdOZn4JokFiFguhDUzYTKzb0Zu7Xw2am+7Rc8Y/tc1eiLLwRWYokfQs=
 ill.coffee.	3600	in	ns	ns1.ibspark.com.
@@ -35024,8 +35040,8 @@ incommon.coffee.	3600	in	ns	ns19.domaincontrol.com.
 incommon.coffee.	3600	in	ns	ns20.domaincontrol.com.
 incontro.coffee.	3600	in	ns	dns1.registrar-servers.com.
 incontro.coffee.	3600	in	ns	dns2.registrar-servers.com.
-incredible.coffee.	3600	in	ns	ns1.bodis.com.
-incredible.coffee.	3600	in	ns	ns2.bodis.com.
+incredible.coffee.	3600	in	ns	ns1.dns-redirect.com.
+incredible.coffee.	3600	in	ns	ns2.dns-redirect.com.
 independent.coffee.	3600	in	ns	ns1021.ui-dns.com.
 independent.coffee.	3600	in	ns	ns1038.ui-dns.de.
 independent.coffee.	3600	in	ns	ns1064.ui-dns.org.
@@ -35216,8 +35232,8 @@ injoy.coffee.	3600	in	ns	ns-135.awsdns-16.com.
 injoy.coffee.	3600	in	ns	ns-1405.awsdns-47.org.
 injoy.coffee.	3600	in	ns	ns-1901.awsdns-45.co.uk.
 injoy.coffee.	3600	in	ns	ns-914.awsdns-50.net.
-inked.coffee.	3600	in	ns	ns1.bodis.com.
-inked.coffee.	3600	in	ns	ns2.bodis.com.
+inked.coffee.	3600	in	ns	ns1.dns-redirect.com.
+inked.coffee.	3600	in	ns	ns2.dns-redirect.com.
 inklings.coffee.	3600	in	ns	ns1.siteground341.com.
 inklings.coffee.	3600	in	ns	ns2.siteground341.com.
 inkwell.coffee.	3600	in	ns	dns1.registrar-servers.com.
@@ -35459,6 +35475,10 @@ inthenameofjustice.coffee.	3600	in	ns	ns53.domaincontrol.com.
 inthenameofjustice.coffee.	3600	in	ns	ns54.domaincontrol.com.
 inti.coffee.	3600	in	ns	ns1.siteground.net.
 inti.coffee.	3600	in	ns	ns2.siteground.net.
+intimeover.coffee.	3600	in	ns	curitiba.ns.porkbun.com.
+intimeover.coffee.	3600	in	ns	fortaleza.ns.porkbun.com.
+intimeover.coffee.	3600	in	ns	maceio.ns.porkbun.com.
+intimeover.coffee.	3600	in	ns	salvador.ns.porkbun.com.
 into.coffee.	3600	in	ns	nsn1.mijndomein.nl.
 into.coffee.	3600	in	ns	nsn2.mijndomein.nl.
 intown.coffee.	3600	in	ns	dns1.name-services.com.
@@ -37314,6 +37334,8 @@ jua43k8ndlndle9fgbfviautp4cos1kv.coffee.	3600	in	nsec3	1 1 0 73 JV16PT8E1RJR1ETN
 jua43k8ndlndle9fgbfviautp4cos1kv.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. kWPm9iloG5f677LgOwtLYJxmLORYCedlocNIfTR7YrGzT0A5R66h9qmUSz1HWPRyz+j09H650ei7/+gJfl0tEiwWAAhOX914VRHFnuTTDEpTpjn9UrXFsR2Tk33JYsnhEdQYKC6KP8FeTdJygNMEiWxuATnPT4FUYfQLy928hbY=
 juanana.coffee.	3600	in	ns	ns61.worldnic.com.
 juanana.coffee.	3600	in	ns	ns62.worldnic.com.
+juanpena.coffee.	3600	in	ns	dns1.registrar-servers.com.
+juanpena.coffee.	3600	in	ns	dns2.registrar-servers.com.
 juantwothree.coffee.	3600	in	ns	ns35.domaincontrol.com.
 juantwothree.coffee.	3600	in	ns	ns36.domaincontrol.com.
 juanvaldez.coffee.	3600	in	ns	pdns05.domaincontrol.com.
@@ -38304,8 +38326,6 @@ kat.coffee.	3600	in	ns	curitiba.ns.porkbun.com.
 kat.coffee.	3600	in	ns	fortaleza.ns.porkbun.com.
 kat.coffee.	3600	in	ns	maceio.ns.porkbun.com.
 kat.coffee.	3600	in	ns	salvador.ns.porkbun.com.
-kata.coffee.	3600	in	ns	ns1.dns-expired.com.
-kata.coffee.	3600	in	ns	ns2.dns-expired.com.
 katahdin.coffee.	3600	in	ns	ns23.worldnic.com.
 katahdin.coffee.	3600	in	ns	ns24.worldnic.com.
 katerco.coffee.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -38422,8 +38442,6 @@ kaymaki.coffee.	3600	in	ns	launch2.spaceship.net.
 kaymaki.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. hGgGBqKZoNjp6I+I0dwnVx0Fi3GMQG9Zme6qyZQ2YRZ0tRt1DcWkB7hAMnCpZ7bXoUoyHjaJMyFG2AoibPMh6Ma2/zWWb5T1q+V66Ay+zP6G1F7aJBpvelVpI61fqbvQhYDkw/h35IQgPmT4w6huA9JX3pZhMhtW/558k/Rhchw=
 kaypoh.coffee.	3600	in	ns	ns1.hover.com.
 kaypoh.coffee.	3600	in	ns	ns2.hover.com.
-kayu.coffee.	3600	in	ns	dns101.registrar-servers.com.
-kayu.coffee.	3600	in	ns	dns102.registrar-servers.com.
 kaz.coffee.	3600	in	ns	ns1.kaz.host.
 kaz.coffee.	3600	in	ns	ns2.kaz.host.
 kaz.coffee.	3600	in	ns	reed.kaz.host.
@@ -40623,8 +40641,8 @@ landscaping.coffee.	3600	in	ns	ns1.dns-redirect.com.
 landscaping.coffee.	3600	in	ns	ns2.dns-redirect.com.
 laneway.coffee.	3600	in	ns	ns17.domaincontrol.com.
 laneway.coffee.	3600	in	ns	ns18.domaincontrol.com.
-lang.coffee.	3600	in	ns	ns1.bodis.com.
-lang.coffee.	3600	in	ns	ns2.bodis.com.
+lang.coffee.	3600	in	ns	ns1.dns-redirect.com.
+lang.coffee.	3600	in	ns	ns2.dns-redirect.com.
 langen.coffee.	3600	in	ns	ns.inwx.de.
 langen.coffee.	3600	in	ns	ns2.inwx.de.
 langen.coffee.	3600	in	ns	ns3.inwx.eu.
@@ -40933,8 +40951,8 @@ lavazzaespression.coffee.	3600	in	ns	ns2.barbero.zone.
 laveen.coffee.	3600	in	ns	ns1.nameserver.net.au.
 laveen.coffee.	3600	in	ns	ns2.nameserver.net.au.
 laveen.coffee.	3600	in	ns	ns3.nameserver.net.au.
-lavender.coffee.	3600	in	ns	ns1.bodis.com.
-lavender.coffee.	3600	in	ns	ns2.bodis.com.
+lavender.coffee.	3600	in	ns	ns1.dns-redirect.com.
+lavender.coffee.	3600	in	ns	ns2.dns-redirect.com.
 lavidarica.coffee.	3600	in	ns	ns1.dotster.com.
 lavidarica.coffee.	3600	in	ns	ns2.dotster.com.
 lavie.coffee.	3600	in	ns	ns03.domaincontrol.com.
@@ -41358,6 +41376,8 @@ letssip.coffee.	3600	in	ns	dns1.registrar-servers.com.
 letssip.coffee.	3600	in	ns	dns2.registrar-servers.com.
 letstalk.coffee.	3600	in	ns	ns1.r4l.com.
 letstalk.coffee.	3600	in	ns	ns2.r4l.com.
+letstrade.coffee.	3600	in	ns	ns31.domaincontrol.com.
+letstrade.coffee.	3600	in	ns	ns32.domaincontrol.com.
 lett.coffee.	3600	in	ns	ns09.domaincontrol.com.
 lett.coffee.	3600	in	ns	ns10.domaincontrol.com.
 letter.coffee.	3600	in	ns	cloe.ns.cloudflare.com.
@@ -41761,8 +41781,8 @@ liomatic.coffee.	3600	in	ns	ns1.register.it.
 liomatic.coffee.	3600	in	ns	ns2.register.it.
 lion.coffee.	3600	in	ns	ns1.afternic.com.
 lion.coffee.	3600	in	ns	ns2.afternic.com.
-lioness.coffee.	3600	in	ns	ns1.bodis.com.
-lioness.coffee.	3600	in	ns	ns2.bodis.com.
+lioness.coffee.	3600	in	ns	ns1.dns-redirect.com.
+lioness.coffee.	3600	in	ns	ns2.dns-redirect.com.
 lionman.coffee.	3600	in	ds	48661 8 2 9153B91012FE88B734AFD45CD09C8BAA93C97299AECBDC02C6F17F358BD7C7D2
 lionman.coffee.	3600	in	ns	ns-cloud-a1.googledomains.com.
 lionman.coffee.	3600	in	ns	ns-cloud-a2.googledomains.com.
@@ -42207,8 +42227,8 @@ loffee.coffee.	3600	in	ns	ns4htz.name.com.
 lofficiel.coffee.	3600	in	ns	ns-146-b.gandi.net.
 lofficiel.coffee.	3600	in	ns	ns-15-c.gandi.net.
 lofficiel.coffee.	3600	in	ns	ns-167-a.gandi.net.
-lofi.coffee.	3600	in	ns	ns1.dns-redirect.com.
-lofi.coffee.	3600	in	ns	ns2.dns-redirect.com.
+lofi.coffee.	3600	in	ns	dns10.ovh.net.
+lofi.coffee.	3600	in	ns	ns10.ovh.net.
 loft.coffee.	3600	in	ns	01.dnsv.jp.
 loft.coffee.	3600	in	ns	02.dnsv.jp.
 loft.coffee.	3600	in	ns	03.dnsv.jp.
@@ -43365,8 +43385,8 @@ magicleap.coffee.	3600	in	ns	ns-1185.awsdns-20.org.
 magicleap.coffee.	3600	in	ns	ns-1897.awsdns-45.co.uk.
 magicleap.coffee.	3600	in	ns	ns-372.awsdns-46.com.
 magicleap.coffee.	3600	in	ns	ns-893.awsdns-47.net.
-magicreviews.coffee.	3600	in	ns	dns1.registrar-servers.com.
-magicreviews.coffee.	3600	in	ns	dns2.registrar-servers.com.
+magicreviews.coffee.	3600	in	ns	ns1.dns-parking.com.
+magicreviews.coffee.	3600	in	ns	ns2.dns-parking.com.
 magicshroom.coffee.	3600	in	ns	ns43.domaincontrol.com.
 magicshroom.coffee.	3600	in	ns	ns44.domaincontrol.com.
 magictricksand.coffee.	3600	in	ds	15694 8 2 0DE7290128BDB1847EE196DA5453027771ED037C41D383B9A64DCC68A6249924
@@ -43514,8 +43534,8 @@ maitland.coffee.	3600	in	ns	ns47.domaincontrol.com.
 maitland.coffee.	3600	in	ns	ns48.domaincontrol.com.
 majas.coffee.	3600	in	ns	ns55.domaincontrol.com.
 majas.coffee.	3600	in	ns	ns56.domaincontrol.com.
-majestic.coffee.	3600	in	ns	ns1.bodis.com.
-majestic.coffee.	3600	in	ns	ns2.bodis.com.
+majestic.coffee.	3600	in	ns	ns1.dns-redirect.com.
+majestic.coffee.	3600	in	ns	ns2.dns-redirect.com.
 majjoe.coffee.	3600	in	ns	dayana.ns.cloudflare.com.
 majjoe.coffee.	3600	in	ns	garret.ns.cloudflare.com.
 majlis.coffee.	3600	in	ds	20750 8 2 E43408266D12ECB2BA5F143EB8529FD83F344FA302406F786BF75442A267713A
@@ -44119,8 +44139,8 @@ mart.coffee.	3600	in	ns	ns2.digitalocean.com.
 mart.coffee.	3600	in	ns	ns3.digitalocean.com.
 marta.coffee.	3600	in	ns	ns1.zenbox.pl.
 marta.coffee.	3600	in	ns	ns2.zenbox.pl.
-martian.coffee.	3600	in	ns	ns1.bodis.com.
-martian.coffee.	3600	in	ns	ns2.bodis.com.
+martian.coffee.	3600	in	ns	ns1.dns-redirect.com.
+martian.coffee.	3600	in	ns	ns2.dns-redirect.com.
 martin.coffee.	3600	in	ns	ns-cloud-e1.googledomains.com.
 martin.coffee.	3600	in	ns	ns-cloud-e2.googledomains.com.
 martin.coffee.	3600	in	ns	ns-cloud-e3.googledomains.com.
@@ -45467,8 +45487,8 @@ meum.coffee.	3600	in	ns	ns-1460.awsdns-54.org.
 meum.coffee.	3600	in	ns	ns-1543.awsdns-00.co.uk.
 meum.coffee.	3600	in	ns	ns-176.awsdns-22.com.
 meum.coffee.	3600	in	ns	ns-970.awsdns-57.net.
-mex.coffee.	3600	in	ns	ns1.bodis.com.
-mex.coffee.	3600	in	ns	ns2.bodis.com.
+mex.coffee.	3600	in	ns	ns1.dns-redirect.com.
+mex.coffee.	3600	in	ns	ns2.dns-redirect.com.
 mexicancake.coffee.	3600	in	ns	ns41.domaincontrol.com.
 mexicancake.coffee.	3600	in	ns	ns42.domaincontrol.com.
 mexicolindo.coffee.	3600	in	ns	ns37.domaincontrol.com.
@@ -47231,8 +47251,8 @@ motojp.coffee.	3600	in	ns	ns1.gm111.parklogic.com.
 motojp.coffee.	3600	in	ns	ns2.gm111.parklogic.com.
 motorcraft.coffee.	3600	in	ns	ns71.domaincontrol.com.
 motorcraft.coffee.	3600	in	ns	ns72.domaincontrol.com.
-motorcycle.coffee.	3600	in	ns	ns1.bodis.com.
-motorcycle.coffee.	3600	in	ns	ns2.bodis.com.
+motorcycle.coffee.	3600	in	ns	ns1.dns-redirect.com.
+motorcycle.coffee.	3600	in	ns	ns2.dns-redirect.com.
 motoring.coffee.	3600	in	ns	ns69.domaincontrol.com.
 motoring.coffee.	3600	in	ns	ns70.domaincontrol.com.
 motorpool.coffee.	3600	in	ns	dns1.registrar-servers.com.
@@ -47632,10 +47652,8 @@ mudsugar.coffee.	3600	in	ns	ns-cloud-b4.googledomains.com.
 mudsugar.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. AB8fu7dggb3SZJn9MomkAIz0L2y8AOcT2b5eJ2YPc6oJkEtj3316ds7xskxDhrKD5vhwK7Gj6eQHe+O0Skve56ckJHgoPvRyoGpQovcKHwWNaJV4iwUok/X+RMyP0cB850G9G0pgt/INoS5ifPcNKv/a0KFFzyhveX6IvTdsR3I=
 muek8vdu54kmufepulu9ige8nfog4apg.coffee.	3600	in	nsec3	1 1 0 73 MUOMBKNQUEU7LPDNLIDBQGLOMGQQ5EVP NS DS RRSIG
 muek8vdu54kmufepulu9ige8nfog4apg.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. gJizckIcBc3Mg8XpfMp8pok7q5c5RW1lfhCwuP3Z1m7R06ZPy/TQ1aUQ5cECslYYIkIw05ZYN4gXl5B3cZJtPoJIyyG0FLvn/JXkgEL8H9wCBCfCU87wX6jRYJyRZS3W5URz4I16HWNmgVg0vffryY/5H5iQZ0t4dDfJQ/G2MpQ=
-mueller.coffee.	3600	in	ns	dns.dns1.de.
-mueller.coffee.	3600	in	ns	dns.dns2.de.
-mueller.coffee.	3600	in	ns	dns.dns3.de.
-mueller.coffee.	3600	in	ns	dns.dns4.de.
+mueller.coffee.	3600	in	ns	nsany1.infomaniak.com.
+mueller.coffee.	3600	in	ns	nsany2.infomaniak.com.
 muenchen.coffee.	3600	in	ns	ns1.domaindiscount24.net.
 muenchen.coffee.	3600	in	ns	ns2.domaindiscount24.net.
 muenchen.coffee.	3600	in	ns	ns3.domaindiscount24.net.
@@ -48436,6 +48454,8 @@ nanu.coffee.	3600	in	ns	ns3.dns24.hu.
 nanu.coffee.	3600	in	ns	ns4.dns24.hu.
 nao.coffee.	3600	in	ns	dns1.onamae.com.
 nao.coffee.	3600	in	ns	dns2.onamae.com.
+naom.coffee.	3600	in	ns	ns1.dns-parking.com.
+naom.coffee.	3600	in	ns	ns2.dns-parking.com.
 naomi.coffee.	3600	in	ns	ns1.siteground.net.
 naomi.coffee.	3600	in	ns	ns2.siteground.net.
 napa.coffee.	3600	in	ns	ns1.dyna-ns.net.
@@ -51019,8 +51039,8 @@ odt.coffee.	3600	in	ns	maceio.ns.porkbun.com.
 odt.coffee.	3600	in	ns	salvador.ns.porkbun.com.
 odv1a3gdel0haenbmje6drrh0iv8ufo7.coffee.	3600	in	nsec3	1 1 0 73 OEFBJUP7222B45VFCK0QFVOGSJ7CVS1O NS DS RRSIG
 odv1a3gdel0haenbmje6drrh0iv8ufo7.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. b4IY7JxB2nmOOYZHh3ZqDP0hTQbKWCR60RMhOn9/Ckw8HQI3qoa03IrGcqQCeg/pAxl0pLbX6TcJmUOdUxWyoqDEEv2M6dFLhUlnTIiEXhtXJT/b2ZrmgQ7RiYDnRNpQ9dtULbzHtql969HmfCu+Y/40lCv3w9ov3mi6s0t8CWM=
-odyssey.coffee.	3600	in	ns	ns1.bodis.com.
-odyssey.coffee.	3600	in	ns	ns2.bodis.com.
+odyssey.coffee.	3600	in	ns	ns1.dns-redirect.com.
+odyssey.coffee.	3600	in	ns	ns2.dns-redirect.com.
 oefbjup7222b45vfck0qfvogsj7cvs1o.coffee.	3600	in	nsec3	1 1 0 73 OFIFRBHA0L321FNE58SJN5R1GVLSKL1A NS DS RRSIG
 oefbjup7222b45vfck0qfvogsj7cvs1o.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. OtURP0/aotvS4k+mv59rvda0S28BP2ZjyYDT2tg/DhNXQWDr3R8qttTKUC8hm/GujJ53B0JXCylSLmWN/Nd+ksAgDQ/3FmnitVfGOsSGNn5DchKbetcKgnRrLw7X2ZtsnCBt3kncFvNPnY5TQ55Ioo/uvOV0PO2KuRMG5T8wGjk=
 oefferl.coffee.	3600	in	ns	ns5.kasserver.com.
@@ -51606,8 +51626,8 @@ onkncn6alqqaeb35offv163ab86cbrh2.coffee.	3600	in	nsec3	1 1 0 73 OP8IN9EO0MQQFVSJ
 onkncn6alqqaeb35offv163ab86cbrh2.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. C8izPlteE6jESWgPm4mEoZ1v51xvSjWoYe8K7sNg7C+jo9Zy5L2DQMRj3HmXSqaRt3oevmMgLyIgNaaTdODxU3rrTx+izgIzFIEaegXeeQLf/DnXDZQ9loftF4s+2jOCDViv5fB/jtXLqYF1CMZKSchAN5vWZmGqKtLFOZYnxuo=
 onli.coffee.	3600	in	ns	ns41.domaincontrol.com.
 onli.coffee.	3600	in	ns	ns42.domaincontrol.com.
-online.coffee.	3600	in	ns	ns1.sedoparking.com.
-online.coffee.	3600	in	ns	ns2.sedoparking.com.
+online.coffee.	3600	in	ns	ns1.afternic.com.
+online.coffee.	3600	in	ns	ns2.afternic.com.
 onlineshop.coffee.	3600	in	ns	ns35.domaincontrol.com.
 onlineshop.coffee.	3600	in	ns	ns36.domaincontrol.com.
 onlinestore.coffee.	3600	in	ns	ns53.domaincontrol.com.
@@ -53788,7 +53808,7 @@ petunia.coffee.	3600	in	ns	salvador.ns.porkbun.com.
 pf5gehbc791l41sbgaer311iv1iichck.coffee.	3600	in	nsec3	1 1 0 73 PF8HQ75OAPQOBJDV47U4POSQ1P0VR98J NS DS RRSIG
 pf5gehbc791l41sbgaer311iv1iichck.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. mIagnh0Qm1sNZ7Oq97itEWPkynw8IkrU3xELi0X1fsNnOo3OW+h102f06tjuuC9RyQNGYzkEpAVeMiJuPGd0bvQ6jlCx7ibWbHi3L+dplomKtzz41/1qmqXl6GPoUEFf20FoLC/v+4Qj+Zy14zDF2RtcGRz/BTxN7a4E042M2FQ=
 pf8hq75oapqobjdv47u4posq1p0vr98j.coffee.	3600	in	nsec3	1 1 0 73 PG1TMRO28PCRB2JKCR9VGV2OLJBR20EH NS SOA RRSIG DNSKEY NSEC3PARAM
-pf8hq75oapqobjdv47u4posq1p0vr98j.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20251002005637 20250910235637 47520 coffee. DR9kM5KLzmw4zQehS/ZCEVMjEDc3o5Ic7SFm0QCL6Ybi644rw/xuV14BMoV9WnQaEicLGpJ/DrsksxgVlbQZQudWsTi8cTtHSeduJilyuq5TuszfmMXA4C2dm3yg8OmXcinUoWIz7eFtV/a5KyrNsbd0AfF5eJOrVYRJdd2K6nw=
+pf8hq75oapqobjdv47u4posq1p0vr98j.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20251003010343 20250912000343 47520 coffee. bYJk0HaixArZYTVdZMNwxzeH39uvkBR3DrOnyoScTQJ9BBT3AUBkxChsEeTlGSfP4bzsZRGYYtdYX6FOUs1KCAtFAXX+SBpqSbQKmWg45cV2rzgMvYo4p+XBojiJsrnkRmAfYNTV0CoVZHpWeeInc3Z6DJVyvCxHm/HlqDaBGS0=
 pfaff.coffee.	3600	in	ds	58897 13 1 9741754E5DD28EF281FB42025A0E1CA7413343CB
 pfaff.coffee.	3600	in	ns	dns1.registrar-servers.com.
 pfaff.coffee.	3600	in	ns	dns2.registrar-servers.com.
@@ -55230,8 +55250,8 @@ prep.coffee.	3600	in	ns	maceio.ns.porkbun.com.
 prep.coffee.	3600	in	ns	salvador.ns.porkbun.com.
 prepress.coffee.	3600	in	ns	dns1.registrar-servers.com.
 prepress.coffee.	3600	in	ns	dns2.registrar-servers.com.
-prescribed.coffee.	3600	in	ns	ns1.bodis.com.
-prescribed.coffee.	3600	in	ns	ns2.bodis.com.
+prescribed.coffee.	3600	in	ns	ns1.dns-redirect.com.
+prescribed.coffee.	3600	in	ns	ns2.dns-redirect.com.
 prescription.coffee.	3600	in	ns	dns1.registrar-servers.com.
 prescription.coffee.	3600	in	ns	dns2.registrar-servers.com.
 presence.coffee.	3600	in	ns	ns-cloud-b1.googledomains.com.
@@ -55782,8 +55802,8 @@ puertoricois.coffee.	3600	in	ns	ns-cloud-a1.googledomains.com.
 puertoricois.coffee.	3600	in	ns	ns-cloud-a2.googledomains.com.
 puertoricois.coffee.	3600	in	ns	ns-cloud-a3.googledomains.com.
 puertoricois.coffee.	3600	in	ns	ns-cloud-a4.googledomains.com.
-puff.coffee.	3600	in	ns	ns1.bodis.com.
-puff.coffee.	3600	in	ns	ns2.bodis.com.
+puff.coffee.	3600	in	ns	ns1.dns-redirect.com.
+puff.coffee.	3600	in	ns	ns2.dns-redirect.com.
 pug.coffee.	3600	in	ns	ns1.siteground.net.
 pug.coffee.	3600	in	ns	ns2.siteground.net.
 puglia.coffee.	3600	in	ns	dns.technorail.com.
@@ -58741,8 +58761,8 @@ roastmovie.coffee.	3600	in	ns	ns7.wixdns.net.
 roastmy.coffee.	3600	in	ns	ns1.partnerconsole.net.
 roastmy.coffee.	3600	in	ns	ns2.partnerconsole.net.
 roastmy.coffee.	3600	in	ns	ns3.partnerconsole.net.
-roastmyown.coffee.	3600	in	ns	ns1.bodis.com.
-roastmyown.coffee.	3600	in	ns	ns2.bodis.com.
+roastmyown.coffee.	3600	in	ns	ns1.dns-redirect.com.
+roastmyown.coffee.	3600	in	ns	ns2.dns-redirect.com.
 roastnride.coffee.	3600	in	ns	curitiba.ns.porkbun.com.
 roastnride.coffee.	3600	in	ns	fortaleza.ns.porkbun.com.
 roastnride.coffee.	3600	in	ns	maceio.ns.porkbun.com.
@@ -60061,8 +60081,8 @@ saisho.coffee.	3600	in	ns	ns-cloud-b1.googledomains.com.
 saisho.coffee.	3600	in	ns	ns-cloud-b2.googledomains.com.
 saisho.coffee.	3600	in	ns	ns-cloud-b3.googledomains.com.
 saisho.coffee.	3600	in	ns	ns-cloud-b4.googledomains.com.
-saitama.coffee.	3600	in	ns	ns1.bodis.com.
-saitama.coffee.	3600	in	ns	ns2.bodis.com.
+saitama.coffee.	3600	in	ns	ns1.dns-redirect.com.
+saitama.coffee.	3600	in	ns	ns2.dns-redirect.com.
 saiu.coffee.	3600	in	ns	ns1.muumuu-domain.com.
 saiu.coffee.	3600	in	ns	ns2.muumuu-domain.com.
 sajang.coffee.	3600	in	ns	ns1.dns-parking.com.
@@ -61030,8 +61050,8 @@ searchingfor.coffee.	3600	in	ns	gwen.ns.cloudflare.com.
 searchingfor.coffee.	3600	in	ns	simon.ns.cloudflare.com.
 searchlocal.coffee.	3600	in	ns	dns1.registrar-servers.com.
 searchlocal.coffee.	3600	in	ns	dns2.registrar-servers.com.
-seasalt.coffee.	3600	in	ns	ns1.bodis.com.
-seasalt.coffee.	3600	in	ns	ns2.bodis.com.
+seasalt.coffee.	3600	in	ns	ns1.dns-redirect.com.
+seasalt.coffee.	3600	in	ns	ns2.dns-redirect.com.
 seasmith.coffee.	3600	in	ns	ns63.domaincontrol.com.
 seasmith.coffee.	3600	in	ns	ns64.domaincontrol.com.
 seasonal.coffee.	3600	in	ns	pdns13.domaincontrol.com.
@@ -62249,6 +62269,8 @@ signalinstereo.coffee.	3600	in	ns	ns75.domaincontrol.com.
 signalinstereo.coffee.	3600	in	ns	ns76.domaincontrol.com.
 signalroasters.coffee.	3600	in	ns	ns05.domaincontrol.com.
 signalroasters.coffee.	3600	in	ns	ns06.domaincontrol.com.
+signals.coffee.	3600	in	ns	ns1.dns-redirect.com.
+signals.coffee.	3600	in	ns	ns2.dns-redirect.com.
 signalsingles.coffee.	3600	in	ns	ns11.domaincontrol.com.
 signalsingles.coffee.	3600	in	ns	ns12.domaincontrol.com.
 signature.coffee.	3600	in	ns	ns45.domaincontrol.com.
@@ -63400,6 +63422,10 @@ snova.coffee.	3600	in	ns	ns02.trademarkarea.com.
 snova.coffee.	3600	in	ns	ns03.trademarkarea.com.
 snow.coffee.	3600	in	ns	ns7.alidns.com.
 snow.coffee.	3600	in	ns	ns8.alidns.com.
+snowbirdsperch.coffee.	3600	in	ns	ns-cloud-e1.googledomains.com.
+snowbirdsperch.coffee.	3600	in	ns	ns-cloud-e2.googledomains.com.
+snowbirdsperch.coffee.	3600	in	ns	ns-cloud-e3.googledomains.com.
+snowbirdsperch.coffee.	3600	in	ns	ns-cloud-e4.googledomains.com.
 snowdome.coffee.	3600	in	ns	ns1.webnames.ca.
 snowdome.coffee.	3600	in	ns	ns2.webnames.ca.
 snowdome.coffee.	3600	in	ns	ns3.webnames.ca.
@@ -63700,8 +63726,8 @@ somethingnew.coffee.	3600	in	ns	ns.otherdns.com.
 somethingnew.coffee.	3600	in	ns	ns.otherdns.net.
 somethingsbrewing.coffee.	3600	in	ns	ns77.domaincontrol.com.
 somethingsbrewing.coffee.	3600	in	ns	ns78.domaincontrol.com.
-sometimes.coffee.	3600	in	ns	ns1.bodis.com.
-sometimes.coffee.	3600	in	ns	ns2.bodis.com.
+sometimes.coffee.	3600	in	ns	ns1.dns-redirect.com.
+sometimes.coffee.	3600	in	ns	ns2.dns-redirect.com.
 somewhere.coffee.	3600	in	ns	ns53.domaincontrol.com.
 somewhere.coffee.	3600	in	ns	ns54.domaincontrol.com.
 somis.coffee.	3600	in	ns	directi1.irandns.com.
@@ -64093,8 +64119,8 @@ spatialty.coffee.	3600	in	ns	dns1.p03.nsone.net.
 spatialty.coffee.	3600	in	ns	dns2.p03.nsone.net.
 spatialty.coffee.	3600	in	ns	dns3.p03.nsone.net.
 spatialty.coffee.	3600	in	ns	dns4.p03.nsone.net.
-spb.coffee.	3600	in	ns	ns1.reg.ru.
-spb.coffee.	3600	in	ns	ns2.reg.ru.
+spb.coffee.	3600	in	ns	ns1.expired.reg.ru.
+spb.coffee.	3600	in	ns	ns2.expired.reg.ru.
 spce.coffee.	3600	in	ns	curitiba.ns.porkbun.com.
 spce.coffee.	3600	in	ns	fortaleza.ns.porkbun.com.
 spce.coffee.	3600	in	ns	maceio.ns.porkbun.com.
@@ -66118,8 +66144,8 @@ superspecial.coffee.	3600	in	ns	ns1.hover.com.
 superspecial.coffee.	3600	in	ns	ns2.hover.com.
 superstore.coffee.	3600	in	ns	ns35.domaincontrol.com.
 superstore.coffee.	3600	in	ns	ns36.domaincontrol.com.
-superstrong.coffee.	3600	in	ns	dns1.registrar-servers.com.
-superstrong.coffee.	3600	in	ns	dns2.registrar-servers.com.
+superstrong.coffee.	3600	in	ns	dns101.registrar-servers.com.
+superstrong.coffee.	3600	in	ns	dns102.registrar-servers.com.
 superthing.coffee.	3600	in	ns	ns1.dnsimple.com.
 superthing.coffee.	3600	in	ns	ns2.dnsimple-edge.net.
 superthing.coffee.	3600	in	ns	ns3.dnsimple.com.
@@ -66135,8 +66161,8 @@ supply.coffee.	3600	in	ns	cody.ns.cloudflare.com.
 supply.coffee.	3600	in	ns	etta.ns.cloudflare.com.
 supplychain.coffee.	3600	in	ns	ns1.dns-redirect.com.
 supplychain.coffee.	3600	in	ns	ns2.dns-redirect.com.
-support.coffee.	3600	in	ns	ns1.bodis.com.
-support.coffee.	3600	in	ns	ns2.bodis.com.
+support.coffee.	3600	in	ns	ns1.dns-redirect.com.
+support.coffee.	3600	in	ns	ns2.dns-redirect.com.
 supportcanadian.coffee.	3600	in	ns	ns11.domaincontrol.com.
 supportcanadian.coffee.	3600	in	ns	ns12.domaincontrol.com.
 supportcoffee.coffee.	3600	in	ns	ns33.domaincontrol.com.
@@ -66247,8 +66273,8 @@ sustainable.coffee.	3600	in	ns	maceio.ns.porkbun.com.
 sustainable.coffee.	3600	in	ns	salvador.ns.porkbun.com.
 sustainableharvest.coffee.	3600	in	ns	ns1.r4l.com.
 sustainableharvest.coffee.	3600	in	ns	ns2.r4l.com.
-susu.coffee.	3600	in	ns	ns1.bodis.com.
-susu.coffee.	3600	in	ns	ns2.bodis.com.
+susu.coffee.	3600	in	ns	ns1.dns-redirect.com.
+susu.coffee.	3600	in	ns	ns2.dns-redirect.com.
 sutra.coffee.	3600	in	ns	ns29.domaincontrol.com.
 sutra.coffee.	3600	in	ns	ns30.domaincontrol.com.
 suvugvks7lhhdjegf0h1qgermsc5dhv3.coffee.	3600	in	nsec3	1 1 0 73 SV4JCF6CPS1F6LKCUHPAFGSU4BRP15V6 NS DS RRSIG
@@ -66439,8 +66465,8 @@ swingbrew.coffee.	3600	in	ns	pdns1.registrar-servers.com.
 swingbrew.coffee.	3600	in	ns	pdns2.registrar-servers.com.
 swip.coffee.	3600	in	ns	ns23.domaincontrol.com.
 swip.coffee.	3600	in	ns	ns24.domaincontrol.com.
-swipe.coffee.	3600	in	ns	ns1.bodis.com.
-swipe.coffee.	3600	in	ns	ns2.bodis.com.
+swipe.coffee.	3600	in	ns	ns1.dns-redirect.com.
+swipe.coffee.	3600	in	ns	ns2.dns-redirect.com.
 swiperight.coffee.	3600	in	ns	ns1.markmonitor.com.
 swiperight.coffee.	3600	in	ns	ns2.markmonitor.com.
 swiperight.coffee.	3600	in	ns	ns3.markmonitor.com.
@@ -66546,8 +66572,8 @@ syn.coffee.	3600	in	ns	ns-1511.awsdns-60.org.
 syn.coffee.	3600	in	ns	ns-1901.awsdns-45.co.uk.
 syn.coffee.	3600	in	ns	ns-297.awsdns-37.com.
 syn.coffee.	3600	in	ns	ns-646.awsdns-16.net.
-synapse.coffee.	3600	in	ns	ns1.bodis.com.
-synapse.coffee.	3600	in	ns	ns2.bodis.com.
+synapse.coffee.	3600	in	ns	ns1.dns-redirect.com.
+synapse.coffee.	3600	in	ns	ns2.dns-redirect.com.
 sync.coffee.	3600	in	ns	ns-1355.awsdns-41.org.
 sync.coffee.	3600	in	ns	ns-2027.awsdns-61.co.uk.
 sync.coffee.	3600	in	ns	ns-440.awsdns-55.com.
@@ -67118,6 +67144,8 @@ tau.coffee.	3600	in	ns	curitiba.ns.porkbun.com.
 tau.coffee.	3600	in	ns	fortaleza.ns.porkbun.com.
 tau.coffee.	3600	in	ns	maceio.ns.porkbun.com.
 tau.coffee.	3600	in	ns	salvador.ns.porkbun.com.
+tauko.coffee.	3600	in	ns	dns1.registrar-servers.com.
+tauko.coffee.	3600	in	ns	dns2.registrar-servers.com.
 taurfeine.coffee.	3600	in	ns	ns05.domaincontrol.com.
 taurfeine.coffee.	3600	in	ns	ns06.domaincontrol.com.
 taxi.coffee.	3600	in	ns	ns1.dns-parking.com.
@@ -67459,8 +67487,6 @@ tera.coffee.	3600	in	ns	ns1036.ui-dns.com.
 tera.coffee.	3600	in	ns	ns1036.ui-dns.de.
 tera.coffee.	3600	in	ns	ns1073.ui-dns.biz.
 tera.coffee.	3600	in	ns	ns1098.ui-dns.org.
-teralu.coffee.	3600	in	ns	ns73.domaincontrol.com.
-teralu.coffee.	3600	in	ns	ns74.domaincontrol.com.
 terbodore.coffee.	3600	in	ns	lindsey.ns.cloudflare.com.
 terbodore.coffee.	3600	in	ns	randall.ns.cloudflare.com.
 teri.coffee.	3600	in	ns	ns1.bluehost.com.
@@ -68717,8 +68743,8 @@ thesmith.coffee.	3600	in	ns	ns.otherdns.com.
 thesmith.coffee.	3600	in	ns	ns.otherdns.net.
 thesommelier.coffee.	3600	in	ns	ns11.domaincontrol.com.
 thesommelier.coffee.	3600	in	ns	ns12.domaincontrol.com.
-thesoulfulroast.coffee.	3600	in	ns	ns23.domaincontrol.com.
-thesoulfulroast.coffee.	3600	in	ns	ns24.domaincontrol.com.
+thesoulfulroast.coffee.	3600	in	ns	ns12.wixdns.net.
+thesoulfulroast.coffee.	3600	in	ns	ns13.wixdns.net.
 thespacebetween.coffee.	3600	in	ds	5311 8 2 8DAB686A4725B841D1581308040450A668573B32392CD8F27393F334515BDBC3
 thespacebetween.coffee.	3600	in	ns	ns-cloud-e1.googledomains.com.
 thespacebetween.coffee.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -69769,10 +69795,10 @@ tonarino.coffee.	3600	in	ns	ns-cloud-b2.googledomains.com.
 tonarino.coffee.	3600	in	ns	ns-cloud-b3.googledomains.com.
 tonarino.coffee.	3600	in	ns	ns-cloud-b4.googledomains.com.
 tonarino.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. vOWljsFPb6OfVsKYGnSNgOp0CQJPC6UBLeMlrPnoCNTmuUW4YOip8nJvQS0yXE71m5VmsABenltel8Myw16FLldIfLS3ksNbdF0+BcPqeOQrwBnkZC9hUyDtSi9glV6Tmy2ijbwgwK7kwZqwd7gZ9piQSLUtU9JP+HF4N+P7U9w=
-tone.coffee.	3600	in	ns	ns1.name.com.
-tone.coffee.	3600	in	ns	ns2.name.com.
-tone.coffee.	3600	in	ns	ns3.name.com.
-tone.coffee.	3600	in	ns	ns4.name.com.
+tone.coffee.	3600	in	ns	ns1kwy.name.com.
+tone.coffee.	3600	in	ns	ns2qvz.name.com.
+tone.coffee.	3600	in	ns	ns3dgj.name.com.
+tone.coffee.	3600	in	ns	ns4cgs.name.com.
 toneff.coffee.	3600	in	ns	ns1.delta.bg.
 toneff.coffee.	3600	in	ns	ns2.delta.bg.
 toneff.coffee.	3600	in	ns	ns3.delta.bg.
@@ -69973,6 +69999,8 @@ tothemoon.coffee.	3600	in	ns	ns-cloud-e2.googledomains.com.
 tothemoon.coffee.	3600	in	ns	ns-cloud-e3.googledomains.com.
 tothemoon.coffee.	3600	in	ns	ns-cloud-e4.googledomains.com.
 tothemoon.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. LW0KIU1C9mfU1gOEUZ83FtE98u7rT0Xra4lZjAsv6eWRJ3yJZ/7p4RSHg1X7DPi44I+l6DSZeuKbjqYquKkZv/dGQ5hOd60mc/i8OTJEJrV3rj/lb0kM1dnnX5ZDDQbmgqVJci/2uSC11cNZ0Ao3Xnoh5Lc8jxYoyBSiZFzUPnM=
+totor.coffee.	3600	in	ns	dns200.anycast.me.
+totor.coffee.	3600	in	ns	ns200.anycast.me.
 totrfqj4vq20ga544slt7kqb8pbm9a7f.coffee.	3600	in	nsec3	1 1 0 73 TP1NEHCT3918OM9T545J02DGTGJGD5C8 NS DS RRSIG
 totrfqj4vq20ga544slt7kqb8pbm9a7f.coffee.	3600	in	rrsig	NSEC3 8 2 3600 20250930153223 20250909143223 47520 coffee. rd8SU4H3sh+yzCb59TekbRINSo8wfkAlALciO7DzswvWe0TwvTdvjxsPLa8ksF8vftIW6nPRNSd5i+LPyw/su/oRE0UXHb+uoukpuXI8ti3RT5ijBR1Fwr2WlW0+xoQr50mRixyYJU3fW6mtDNocdVJfb5NceGTy7Ja9X6aDCKI=
 totum.coffee.	3600	in	ds	50023 13 2 8130504A2A96CD33ED4D719345BA646F4E9D94053EA4FC624B0533FC70DE13F3
@@ -71418,6 +71446,8 @@ umlaut.coffee.	3600	in	ns	ns-cloud-e4.googledomains.com.
 umlaut.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. bVLqRc09V1Eii+OhNla7Vpcdr9BI3/cFnGGXkHrOC+hcj1DX8qMMXkDJ2iKoYtA2VDkj3CXD4ybaJG3y/GC1i8bEJJF+B7FUrXDB1rVZR0bXGH27tgAZvQxn9CUGf7cHYM63CtQhY0HXi106s4uDg2/Avq1qjM/62UnOWK9iFjw=
 umm.coffee.	3600	in	ns	connect1.squarespacedns.com.
 umm.coffee.	3600	in	ns	connect2.squarespacedns.com.
+ummahtea.coffee.	3600	in	ns	cory.ns.cloudflare.com.
+ummahtea.coffee.	3600	in	ns	harmony.ns.cloudflare.com.
 ummatea.coffee.	3600	in	ns	dns1.p01.nsone.net.
 ummatea.coffee.	3600	in	ns	dns2.p01.nsone.net.
 ummatea.coffee.	3600	in	ns	dns3.p01.nsone.net.
@@ -71758,12 +71788,6 @@ uppercase.coffee.	3600	in	ds	2371 13 2 F31EF8578C27271A02625AE600CE9EA5EBD724347
 uppercase.coffee.	3600	in	ns	aspen.ns.cloudflare.com.
 uppercase.coffee.	3600	in	ns	watson.ns.cloudflare.com.
 uppercase.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. X6caKs5Jurzpx/ICRPtoKsCWVXyJgQCzDoGXlgWLbcRb8gqr8Ay1CsoTG2QWJ8NZRAnRNQV+74HYMWKGnPLAjRikRCOiXlfT8b4rTgZCqKch974Me4MmBiLLdLXyWmNvdvc8n0lmVI+VNhfvCWVx9kX8onrgmXAj6mvs30Spay0=
-upperhudson.coffee.	3600	in	ds	40661 8 2 DD22CEF921B0AE6C1AF0488A53DFFF04BE6CC515B5B3BE2CCD931597C04FD0AE
-upperhudson.coffee.	3600	in	ns	ns-cloud-b1.googledomains.com.
-upperhudson.coffee.	3600	in	ns	ns-cloud-b2.googledomains.com.
-upperhudson.coffee.	3600	in	ns	ns-cloud-b3.googledomains.com.
-upperhudson.coffee.	3600	in	ns	ns-cloud-b4.googledomains.com.
-upperhudson.coffee.	3600	in	rrsig	DS 8 2 3600 20250930153223 20250909143223 47520 coffee. nfPCdt18E6DcTkbmufxMJ0mKeUf+WqzCgEDaL/27/O+AD12D3/b4H9eKc6tyrLQTa+ZPU1TrS03pHlWy/0ZQGKNdD4tPdYxP5sJv2vUznaiY/Pz69Ej+iGvN81deUPz2CG8gc7TDKQHlYjj3RE9JvpPlwRB2zzRVFHKTh6ib0GU=
 upperpeninsula.coffee.	3600	in	ns	ns31.domaincontrol.com.
 upperpeninsula.coffee.	3600	in	ns	ns32.domaincontrol.com.
 uppers.coffee.	3600	in	ns	ns19.domaincontrol.com.
@@ -73247,8 +73271,8 @@ vortex.coffee.	3600	in	ns	dns1.comlaude-dns.com.
 vortex.coffee.	3600	in	ns	dns2.comlaude-dns.net.
 vortex.coffee.	3600	in	ns	dns3.comlaude-dns.co.uk.
 vortex.coffee.	3600	in	ns	dns4.comlaude-dns.eu.
-vot.coffee.	3600	in	ns	ns1.bodis.com.
-vot.coffee.	3600	in	ns	ns2.bodis.com.
+vot.coffee.	3600	in	ns	ns1.dns-redirect.com.
+vot.coffee.	3600	in	ns	ns2.dns-redirect.com.
 vote.coffee.	3600	in	ns	ns17.domaincontrol.com.
 vote.coffee.	3600	in	ns	ns18.domaincontrol.com.
 vouh.coffee.	3600	in	ns	ns25.domaincontrol.com.
@@ -75413,8 +75437,6 @@ xch.coffee.	3600	in	ns	dns1.registrar-servers.com.
 xch.coffee.	3600	in	ns	dns2.registrar-servers.com.
 xcr.coffee.	3600	in	ns	ns45.domaincontrol.com.
 xcr.coffee.	3600	in	ns	ns46.domaincontrol.com.
-xcy8.coffee.	3600	in	ns	ns15.domaincontrol.com.
-xcy8.coffee.	3600	in	ns	ns16.domaincontrol.com.
 xenia.coffee.	3600	in	ns	alexis.ns.cloudflare.com.
 xenia.coffee.	3600	in	ns	mira.ns.cloudflare.com.
 xero.coffee.	3600	in	ns	ns-1400.awsdns-47.org.
@@ -75619,6 +75641,8 @@ xxl.coffee.	3600	in	ns	ns1030.ui-dns.com.
 xxl.coffee.	3600	in	ns	ns1074.ui-dns.de.
 xxl.coffee.	3600	in	ns	ns1074.ui-dns.org.
 xxl.coffee.	3600	in	ns	ns1079.ui-dns.biz.
+xxmugshots.coffee.	3600	in	ns	dns1.registrar-servers.com.
+xxmugshots.coffee.	3600	in	ns	dns2.registrar-servers.com.
 xxs.coffee.	3600	in	ns	ns7.alidns.com.
 xxs.coffee.	3600	in	ns	ns8.alidns.com.
 xxx.coffee.	3600	in	ns	dns1.registrar-servers.com.
@@ -76636,4 +76660,4 @@ zzz.coffee.	3600	in	ns	maceio.ns.porkbun.com.
 zzz.coffee.	3600	in	ns	salvador.ns.porkbun.com.
 zzzz.coffee.	3600	in	ns	harlan.ns.cloudflare.com.
 zzzz.coffee.	3600	in	ns	maisie.ns.cloudflare.com.
-coffee.	3600	in	soa	v0n0.nic.coffee. hostmaster.donuts.email. 1757551974 7200 900 1209600 3600
+coffee.	3600	in	soa	v0n0.nic.coffee. hostmaster.donuts.email. 1757638820 7200 900 1209600 3600
