@@ -1,8 +1,8 @@
-netflix.	900	in	soa	ns1.dns.nic.netflix. admin.tldns.godaddy. 1757544034 1800 300 604800 1800
+netflix.	900	in	soa	ns1.dns.nic.netflix. admin.tldns.godaddy. 1757634043 1800 300 604800 1800
 1qnjgv0af0hivtsuia29u6lhvenfebqu.netflix.	900	in	nsec3	1 1 0 - J7LMVGBOOIHSHEUDCT3OB93PVNIBU6IV TXT RRSIG
 1qnjgv0af0hivtsuia29u6lhvenfebqu.netflix.	900	in	rrsig	NSEC3 8 2 900 20250921022504 20250907022233 12990 netflix. eT3uSACiO0zo4bi0ty4peQjVLsX/4q+jyEMtmsPOUu3NAjLuh6yAAAwb7VewIHxsqpmdfDRNitvQ/9leRGrXLGJD+Gi9Qk2dYSKVX3V8ChjRfAqrPOb65Ktx8FvCGnN3se1brpw0fg0tE06L5OXSPf+D9hXSOOmgIQusZf+Ol0YjLaM1AGOTl0wmO5IATEB1YEkbeLtQmVzqXYnkY5AgCA==
-_forcedupdate.netflix.	300	in	rrsig	TXT 8 2 300 20250923191331 20250910214034 12990 netflix. bWZN2LcehA9O4q8owpblxvSLfcdfXPV0HYGm9vvNvwfJfTmWKXlqK+vzbz/BcvpFJ8wzqPYLhI6I0Y5Jf5RipOaANkq6AJWl0OJn5rjyYziwuqyFMu67RKqfE69GVNY3E4oqWtSv7uCFGkSx2tSTgcKUH/pC+VgZzFm/KQkB923r3xHjsIAHvzng6cCYfc46VSi0FjkdeW/eQtIjcEVxHg==
-_forcedupdate.netflix.	300	in	txt	"1757544034"
+_forcedupdate.netflix.	300	in	rrsig	TXT 8 2 300 20250924160831 20250911224044 12990 netflix. nHB4j7l40YvQ9BIIQZ/kw+Ix4gBYeV7UQGQxub0g6O5ahunzPp8mZCIoHACuT4CINx6FF49hkpACl0rGoU957WaIcj/VvbwXYlP3J1SoNMwQJJDSVAZnJXvntdhbAgwzdKsHHWL4bFTf6lyWlc2RIueRe6EEgF2xmdNEN3i2fIihHZR1kJRU8LdKZMnMswhf0sXr5ZsIARPGNYzdubpOng==
+_forcedupdate.netflix.	300	in	txt	"1757634043"
 a.nic.netflix.	3600	in	a	37.209.192.9
 a.nic.netflix.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 b.nic.netflix.	3600	in	a	37.209.194.9
@@ -31,7 +31,7 @@ netflix.	3600	in	rrsig	CDS 8 1 3600 20250922094249 20250908092300 35611 netflix.
 netflix.	7200	in	dnskey	256 3 8 AwEAAaRGLPCHUQsNXDYCHryLaOsL5gkBjC1cEKBbag7hh89orefyMq+nS9sOq2nZ8fpRDEDdE/4g3g0Sx6OFzjIlcG7530C+QicO90R8uPZklZkZdGqth0fTMD8dQg3IsbCJoD0jzu4x1hoq0cEaqUfhSUdyAWRaOKxuj13zEfLhGiEooDyJ+sqbwb+qmsz4/ItTUmiU6H3P4EvbV6NOyKWaPls=
 netflix.	7200	in	dnskey	257 3 8 AwEAAfG1zN7NM3BjyburfJ29PP4LecXo0p4WuDaRfbHrwVsAcxF8gHl9NIcZl56xUdSxgMWa+h4VHXPIaDFHHAtrvmQ0gCWpAZpAbENgivC96jf0vvO+I3GSxPV7MUKaWc54/8LS+r9F/wzJ6K5a0vYtQXZurnbcdaMmPn1pQCmsSiu4Op+pt8GzNEqruNjHZrJ3cHVobODIMfFl3orHI5MQUwm1ccQJacKVoFpCwwwAd5FkmO38g7Ji0t15AbaMPEoaD3Ge53iATVlpur963I8KTpVx5TG+S3g9wCa0qZIpQl9v0KYHsbnsNT/DyQN2vnl4OgYL1CcxqLhEgnTdc63/j4M=
 netflix.	7200	in	rrsig	DNSKEY 8 1 7200 20250922094249 20250908092300 35611 netflix. cPeBNWC+8fj93VH1bgHg6g7VmG8iKJWwAvNapB+CtptVIJ14l+sogNu0Oyhd/WNw5nRwlzJScLdzxiXaTF+Y0oaycHYt/zzP+Nckdoeg1i3fzao//JjCE5AMkbwITnRnfnLAS389K5y5ufyNZb8ZORJ0qRF13BS49E5ruYAcUdGW2p9JwslOV4w4W3kbmVntpgBJdNPAoVmfYZoi3ArmlILUS8KAJcaxVf+Scg8+3nPGiAzWJUPC+1SLMZ839EzDOpwS0Nu0X77Q27iF1uPpXO7Wf+5kl1x7ypvNbeVzPVbcy+edfZrhXmQoNk6ligHWjbKImluylj99654YKZK0+w==
-netflix.	900	in	rrsig	SOA 8 1 900 20250924224034 20250910214034 12990 netflix. B7OEukZG8zimsLSMEfj111yr0xH6F8nSE/fcMnzLVJJRcSb3K35XNr2F8p9TuZ+T9FAc/mvNk01aOIuO14bAJuusdKcv+pP9gefcIsCYmX8rkaw4uxMJ8wX31UhiYw6oQdCqNaLjoP4SL4EFCmrUK1i2OA9hNSVG+rI66Mv/zrwL/V8Idpl7+Lr4C646M/y7U0JuLGhUMSNIPkl8HmSAJA==
+netflix.	900	in	rrsig	SOA 8 1 900 20250925234044 20250911224044 12990 netflix. WFqClQmtckC45hRgYKuO0Z36h7pVz7JSMlObwwpzvJXoR7Ooz+9KEhvlr8ij9OTvTmyDjuvq5pi+SBxAgXjd06vYyeVQitRIAlOq/3yhckT68Vzr60fjsUoGO5baaO2TUW5XrUcULl0S576hEc7I7464NLeDpW8/ov8js2LGcD4XBp2pQwylh0PyNyBuqiOisuva0QbLH668QdUd2XBxKA==
 nic.netflix.	3600	in	ds	23506 8 2 134A4C56AB2D02D9C029B5FB5455FA9765F57398DC435D9F63C1044E6654797C
 nic.netflix.	3600	in	ns	a.nic.netflix.
 nic.netflix.	3600	in	ns	b.nic.netflix.
@@ -48,4 +48,4 @@ ns3.dns.nic.netflix.	7200	in	a	156.154.159.121
 ns3.dns.nic.netflix.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0000:0079
 quknkls4d1me9ocrn2ej2puc384aj6ea.netflix.	900	in	nsec3	1 1 0 - 1QNJGV0AF0HIVTSUIA29U6LHVENFEBQU NS DS RRSIG
 quknkls4d1me9ocrn2ej2puc384aj6ea.netflix.	900	in	rrsig	NSEC3 8 2 900 20250921022504 20250907022233 12990 netflix. P918zm6Y0nZ5QToQLB7A32Y/lo2SGThd2x95wjA+lmw32EW1xhvgELONhrTNTC0Hxjz2GVWg0xMYnogU+1dB/N3IuPXMCqAl6e9rirOSi6ZaU4ToQXijy5z9ao9OMsKnRNTJwPeFxwin61DGx8Xq/a1CyiMTibT61fILX7L4z4tXZxNsLeOWcSfHnu+3wJdOdAMKWDzsgVtOMuWdSdyrUA==
-netflix.	900	in	soa	ns1.dns.nic.netflix. admin.tldns.godaddy. 1757544034 1800 300 604800 1800
+netflix.	900	in	soa	ns1.dns.nic.netflix. admin.tldns.godaddy. 1757634043 1800 300 604800 1800
