@@ -1,4 +1,4 @@
-fitness.	3600	in	soa	v0n0.nic.fitness. hostmaster.donuts.email. 1757552641 7200 900 1209600 3600
+fitness.	3600	in	soa	v0n0.nic.fitness. hostmaster.donuts.email. 1757638851 7200 900 1209600 3600
 0043i2ugu4cdom736r47rj2iacdabvck.fitness.	3600	in	nsec3	1 1 0 73 00ARMGDREGLH6MJECFJH5SPRATOIJPGN NS DS RRSIG
 0043i2ugu4cdom736r47rj2iacdabvck.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. R39/wiht3xbMcuKbc2AJm7DlZrhy+66ySGmKUKleHlS7oVwscNPZSf1ivbGnQk+n8OXBTXnC1p1hOD/e9JJYWytmN1HiGOTiGbP0+Ahz0R96qLz1W4oiZlOaluXaKp6i0AZO4HmFN0srEWBrNOpZ856dx4o7vvNoC7NdMaQq9Eg=
 0049.fitness.	3600	in	ns	docks14.rzone.de.
@@ -44,7 +44,7 @@ fitness.	3600	in	soa	v0n0.nic.fitness. hostmaster.donuts.email. 1757552641 7200 
 0fu13fvire851pfj1dpch0q1f8ijg2hn.fitness.	3600	in	nsec3	1 1 0 73 0KFM9B7492CK0N3EU0TJM98RDDF1JUNQ NS DS RRSIG
 0fu13fvire851pfj1dpch0q1f8ijg2hn.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. fo7ze13SLz4ITlpM4SkXwM+vOHPMHBvoZKjg2K0ptLy5T4AvTyG/YTH9fQJ7HXjp42w8t9NSc3lxNQh+MQgCT71+7BfoBbfYLAKz8CT2NSWiYLuKDT6u1YH1SMSEx0czZmITMGSv3U+hEmx+4v4OPUJmQMs8OW6rVetIBDPoWEQ=
 0kfm9b7492ck0n3eu0tjm98rddf1junq.fitness.	3600	in	nsec3	1 1 0 73 0KIU3KBPGGBCUL97Q4MGIRECGPBTGVPG NS SOA RRSIG DNSKEY NSEC3PARAM
-0kfm9b7492ck0n3eu0tjm98rddf1junq.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251002010717 20250911000717 45009 fitness. Vgu/Zg8SvxpJXuzPBVl1v4N3j4R/lIveAR2XpSu517OWEqNF10A4pTTYK1SSYZgAMT1JQMmn89BwnyZ+hx/j5au4JPriZW5CMlyetOaup1YaHyDFbJdPUykO7DtmZnr68v4YIRKdCR4upbNCfLT31fDj1c3hMjoJuICTK6+og2Q=
+0kfm9b7492ck0n3eu0tjm98rddf1junq.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251003010356 20250912000356 45009 fitness. XnPaaTt+M0Nv6KWlkKMQtTaWjZsv11a2A5Talgvsf0VmAUcX783bJriL0qPgkrRhmca53DListpMq4COZi/zkng+s0eLrev8FLY8n8wxUz7dWqiy+F2asHnF+gvMOhw8RepDxctPQby9u49F6XtSgxuSIVYV8isF31VZGy5aKuM=
 0kiu3kbpggbcul97q4mgirecgpbtgvpg.fitness.	3600	in	nsec3	1 1 0 73 0L51FGUGABKLMF8BDU98F4TNJU2D74G6 NS DS RRSIG
 0kiu3kbpggbcul97q4mgirecgpbtgvpg.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. OAKymEZ+m7H/DfRIQVSSzovbtHllEUQcf788h7/kTCvMPw+hhToUNfn02CKzTQE7p4/YeDEYP7UpaG17or1Iu4coY0fjFX+yB1SiBueZKGO/su0JwM2eOvo+abpUYfZybt8agyj3nvh63ZqrI/iTvnWf6vaaTKjrjjRIpCLT8qY=
 0l51fgugabklmf8bdu98f4tnju2d74g6.fitness.	3600	in	nsec3	1 1 0 73 0LQ06O0G5SM7T2Q1FA7SK3GUH0H6STHV NS DS RRSIG
@@ -88,8 +88,8 @@ fitness.	3600	in	soa	v0n0.nic.fitness. hostmaster.donuts.email. 1757552641 7200 
 10x.fitness.	3600	in	ns	ns26.domaincontrol.com.
 10x10.fitness.	3600	in	ns	ns21.domaincontrol.com.
 10x10.fitness.	3600	in	ns	ns22.domaincontrol.com.
-1111.fitness.	3600	in	ns	ns1.bodis.com.
-1111.fitness.	3600	in	ns	ns2.bodis.com.
+1111.fitness.	3600	in	ns	ns1.dns-redirect.com.
+1111.fitness.	3600	in	ns	ns2.dns-redirect.com.
 1131sport.fitness.	3600	in	ns	dns101.registrar-servers.com.
 1131sport.fitness.	3600	in	ns	dns102.registrar-servers.com.
 11iua42a5ic837gou78qjml2hlbmi7l5.fitness.	3600	in	nsec3	1 1 0 73 12HVNDQVRQ1UH3GLTGVUNQPQF34BRVH2 NS DS RRSIG
@@ -960,8 +960,8 @@ fitness.	3600	in	soa	v0n0.nic.fitness. hostmaster.donuts.email. 1757552641 7200 
 8day.fitness.	3600	in	ns	sydney.ns.cloudflare.com.
 8jevm94dkkt2e2on90249o73k8834lti.fitness.	3600	in	nsec3	1 1 0 73 8NU25IJTQBD11HR0HA4PMA00HLC2ACCE NS DS RRSIG
 8jevm94dkkt2e2on90249o73k8834lti.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. oqwgEGjFJj+HMi4fAKebBZZM7yoIsd68MvUDL1fnWIouDEcKMDxo72i65K/DahmQZizGbBJgQAA04v1VGsF9/Qad63H1OIkc0l9myPRKK/ASeK9T9vWTG8kTUDPJfp61nZWrYCJXlzLQINcmi/AAH/aRoTyDyQ1nMvEEz1J5B1A=
-8kbet.fitness.	3600	in	ns	anirban.ns.cloudflare.com.
-8kbet.fitness.	3600	in	ns	mia.ns.cloudflare.com.
+8kbet.fitness.	3600	in	ns	ns31.domaincontrol.com.
+8kbet.fitness.	3600	in	ns	ns32.domaincontrol.com.
 8nu25ijtqbd11hr0ha4pma00hlc2acce.fitness.	3600	in	nsec3	1 1 0 73 8ODN1RPCQJ3IC8N4K75EUNJRJDNHHD2S NS DS RRSIG
 8nu25ijtqbd11hr0ha4pma00hlc2acce.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. iTuFamKQUMFk7T5gQzMROW6OjtCTA+tiXHLQRzW/+Rpr+b6xunRZe63RoJA24vLMBde8bzg3Ut27IUmF1b9qqPb4cG633JXxLTHAhEHymElYdjUAdkMtHk9qpd9ZOYOjtZX2o7y1OVGladwsV6SkCDBD/pNoxy68hkvFShNhP10=
 8odn1rpcqj3ic8n4k75eunjrjdnhhd2s.fitness.	3600	in	nsec3	1 1 0 73 8PRJDNN2NVRA0054B6JJQUU8GD7359QE NS DS RRSIG
@@ -2484,8 +2484,8 @@ andrew.fitness.	3600	in	ns	ns1.atom.com.
 andrew.fitness.	3600	in	ns	ns2.atom.com.
 andrewlansdell.fitness.	3600	in	ns	dns1.registrar-servers.com.
 andrewlansdell.fitness.	3600	in	ns	dns2.registrar-servers.com.
-andrewpap.fitness.	3600	in	ns	ns1.bodis.com.
-andrewpap.fitness.	3600	in	ns	ns2.bodis.com.
+andrewpap.fitness.	3600	in	ns	ns1.dns-redirect.com.
+andrewpap.fitness.	3600	in	ns	ns2.dns-redirect.com.
 androgel.fitness.	3600	in	ns	ns2.observatoiredesmarques.fr.
 androgel.fitness.	3600	in	ns	ns3.nameshield.net.
 androgel.fitness.	3600	in	ns	obs.ns1.fr.
@@ -2525,6 +2525,8 @@ animal.fitness.	3600	in	ns	ns51.domaincontrol.com.
 animal.fitness.	3600	in	ns	ns52.domaincontrol.com.
 animalhouse.fitness.	3600	in	ns	ns8.wixdns.net.
 animalhouse.fitness.	3600	in	ns	ns9.wixdns.net.
+animated.fitness.	3600	in	ns	dns1.registrar-servers.com.
+animated.fitness.	3600	in	ns	dns2.registrar-servers.com.
 anime.fitness.	3600	in	ns	dns1.registrar-servers.com.
 anime.fitness.	3600	in	ns	dns2.registrar-servers.com.
 animo.fitness.	3600	in	ds	2371 13 2 24630316D04BD31D54C3038EDEC08DB063D3A2F1127D312D63434C2CA7741FE9
@@ -2558,8 +2560,8 @@ annoki.fitness.	3600	in	ns	ns4blx.name.com.
 annytime.fitness.	3600	in	ns	verify1.registrar.eu.
 annytime.fitness.	3600	in	ns	verify2.registrar.eu.
 annytime.fitness.	3600	in	ns	verify3.registrar.eu.
-anoauhl7sgsv37g7ruc0a4fs6dc6st8g.fitness.	3600	in	nsec3	1 1 0 73 AO37DDUIQ47QSEO9VM9JVTM92G5532IP NS DS RRSIG
-anoauhl7sgsv37g7ruc0a4fs6dc6st8g.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251001212507 20250910202507 45009 fitness. hsxKANObyaX6tKnvE+75azJJjER490IKN7ffzTtnucF/8V23LDZWurcZ7FgJO0tdWQ2Z4V7bL/9yNQhL9KZCOzVxrFagO8jX0LVt2x3mwXkBOqBdh9vRLI7yWbkp2DFdIVFpfp5Q5pdo5XRQ6POEVPvAvjJg48mZQZ/HwB9hlXg=
+anoauhl7sgsv37g7ruc0a4fs6dc6st8g.fitness.	3600	in	nsec3	1 1 0 73 AOSGNQMHB68SO9TV2Q6FCBQ6JC40S37C NS DS RRSIG
+anoauhl7sgsv37g7ruc0a4fs6dc6st8g.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251002141926 20250911131926 45009 fitness. PRwOQCdsgzCrvOuoXHB5IBz74/SfUAdhFpecWC0FR/q2oV3bMVAxnC4I/dt7CJdFDG1baR7cL0jgSBcZFwFXvM3/8cc327wjmwi9eZPI0eEV01q/Zor2FikzJ5q257d2gmuWU2cHNKIluIkkruLLqhWIy7PefX0Wt8cQdpb8B+4=
 anonymous.fitness.	3600	in	ns	dns1.registrar-servers.com.
 anonymous.fitness.	3600	in	ns	dns2.registrar-servers.com.
 anotherlevel.fitness.	3600	in	ns	ns07.domaincontrol.com.
@@ -2610,8 +2612,6 @@ anytimefitnessdesignnotice.fitness.	3600	in	ns	dns1.registrar-servers.com.
 anytimefitnessdesignnotice.fitness.	3600	in	ns	dns2.registrar-servers.com.
 anytimenavigator.fitness.	3600	in	ns	ivan.ns.cloudflare.com.
 anytimenavigator.fitness.	3600	in	ns	leanna.ns.cloudflare.com.
-ao37dduiq47qseo9vm9jvtm92g5532ip.fitness.	3600	in	nsec3	1 1 0 73 AOSGNQMHB68SO9TV2Q6FCBQ6JC40S37C NS DS RRSIG
-ao37dduiq47qseo9vm9jvtm92g5532ip.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251001212507 20250910202507 45009 fitness. bIDMztVuxZ9kT/Gr8Fxb+ePETv8SRrqWoiOyfnQoYDxi2ffJoNUSfKvisPoMbuuSBsqH47ulXw7YBxX1hKOXa9D7+mQG67U0S4NODPAEERDkgzg14WaLflyxlo2JKvvPg5J8WHBKkjoZ9elH3QNTf/K05ULvxZiU5MYJhebngbY=
 aok.fitness.	3600	in	ns	ns-de.1and1-dns.biz.
 aok.fitness.	3600	in	ns	ns-de.1and1-dns.com.
 aok.fitness.	3600	in	ns	ns-de.1and1-dns.de.
@@ -2871,6 +2871,8 @@ arize.fitness.	3600	in	ns	ns23.domaincontrol.com.
 arize.fitness.	3600	in	ns	ns24.domaincontrol.com.
 arizona.fitness.	3600	in	ns	ns23.domaincontrol.com.
 arizona.fitness.	3600	in	ns	ns24.domaincontrol.com.
+arkh.fitness.	3600	in	ns	ns31.domaincontrol.com.
+arkh.fitness.	3600	in	ns	ns32.domaincontrol.com.
 arki.fitness.	3600	in	ns	ns25.domaincontrol.com.
 arki.fitness.	3600	in	ns	ns26.domaincontrol.com.
 armada.fitness.	3600	in	ns	dns1.registrar-servers.com.
@@ -3050,8 +3052,8 @@ atcbjj.fitness.	3600	in	ns	ns1.mrbhost.com.
 atcbjj.fitness.	3600	in	ns	ns2.mrbhost.com.
 atech.fitness.	3600	in	ns	ns55.domaincontrol.com.
 atech.fitness.	3600	in	ns	ns56.domaincontrol.com.
-athena.fitness.	3600	in	ns	ns1.afternic.com.
-athena.fitness.	3600	in	ns	ns2.afternic.com.
+athena.fitness.	3600	in	ns	ns1.atom.com.
+athena.fitness.	3600	in	ns	ns2.atom.com.
 athlete.fitness.	3600	in	ns	ns37.domaincontrol.com.
 athlete.fitness.	3600	in	ns	ns38.domaincontrol.com.
 athletes.fitness.	3600	in	ns	dns1.registrar-servers.com.
@@ -3171,10 +3173,8 @@ augsburggym.fitness.	3600	in	ns	ns.udag.net.
 augsburggym.fitness.	3600	in	ns	ns.udag.org.
 aum.fitness.	3600	in	ns	ns07.domaincontrol.com.
 aum.fitness.	3600	in	ns	ns08.domaincontrol.com.
-aura.fitness.	3600	in	ds	13064 13 2 31315D3519E70DD14B4A6C70B2DFD616B87902C1AFCBA4FDA352FC9A91152121
-aura.fitness.	3600	in	ns	launch1.spaceship.net.
-aura.fitness.	3600	in	ns	launch2.spaceship.net.
-aura.fitness.	3600	in	rrsig	DS 8 2 3600 20251001212507 20250910202507 45009 fitness. b8h2GkR23cAe8verJdumZTQ8fadVvDLy34eDL4zs+XfCXhy6D6BvLAcenrUl1UCJYEWbFZStjqoRGMCvdd3czaXaX97xund7lhRIacIIsqdC/WRHuITgLwFrKqykrtf59HO68EXw4MG9fN00q8bNz/nniahkpIZjDzslPo+2g7k=
+aura.fitness.	3600	in	ns	ns1.afternic.com.
+aura.fitness.	3600	in	ns	ns2.afternic.com.
 aurafit.fitness.	3600	in	ds	64744 13 2 173B213BFB08941C9FB349BEF98F113DAFFD638423F9FE7112B01B1AADA71328
 aurafit.fitness.	3600	in	ns	launch1.spaceship.net.
 aurafit.fitness.	3600	in	ns	launch2.spaceship.net.
@@ -3243,8 +3243,8 @@ avyoga.fitness.	3600	in	ns	ns49.domaincontrol.com.
 avyoga.fitness.	3600	in	ns	ns50.domaincontrol.com.
 awa.fitness.	3600	in	ns	ns1.awa.fitness.
 awa.fitness.	3600	in	ns	ns2.awa.fitness.
-awaken.fitness.	3600	in	ns	ns1.bodis.com.
-awaken.fitness.	3600	in	ns	ns2.bodis.com.
+awaken.fitness.	3600	in	ns	ns1.dns-redirect.com.
+awaken.fitness.	3600	in	ns	ns2.dns-redirect.com.
 award.fitness.	3600	in	ns	ns1.reg.ru.
 award.fitness.	3600	in	ns	ns2.reg.ru.
 awarehealth.fitness.	3600	in	ns	dns1.p04.nsone.net.
@@ -4130,8 +4130,8 @@ besweet.fitness.	3600	in	ns	ns2.dreamhost.com.
 besweet.fitness.	3600	in	ns	ns3.dreamhost.com.
 bet.fitness.	3600	in	ns	ns1.afternic.com.
 bet.fitness.	3600	in	ns	ns2.afternic.com.
-bet88.fitness.	3600	in	ns	ns1.bodis.com.
-bet88.fitness.	3600	in	ns	ns2.bodis.com.
+bet88.fitness.	3600	in	ns	ns1.dns-redirect.com.
+bet88.fitness.	3600	in	ns	ns2.dns-redirect.com.
 beta.fitness.	3600	in	ns	ns31.domaincontrol.com.
 beta.fitness.	3600	in	ns	ns32.domaincontrol.com.
 betaku.fitness.	3600	in	ns	ali.ns.cloudflare.com.
@@ -4749,9 +4749,10 @@ bodyage.fitness.	3600	in	ns	ns1.iptwins.net.
 bodyage.fitness.	3600	in	ns	ns2.iptwins.net.
 bodyage.fitness.	3600	in	ns	ns3.iptwins.com.
 bodyage.fitness.	3600	in	ns	ns4.iptwins.com.
+bodyagency.fitness.	3600	in	ns	de0.ns.1gate.eu.
 bodyagency.fitness.	3600	in	ns	de1.ns.1gate.eu.
-bodyagency.fitness.	3600	in	ns	de2.ns.1gate.eu.
-bodyagency.fitness.	3600	in	ns	de3.ns.1gate.eu.
+bodyagency.fitness.	3600	in	ns	es0.ns.1gate.eu.
+bodyagency.fitness.	3600	in	ns	fr0.ns.1gate.eu.
 bodyalchemy.fitness.	3600	in	ns	ns41.domaincontrol.com.
 bodyalchemy.fitness.	3600	in	ns	ns42.domaincontrol.com.
 bodyandsoul.fitness.	3600	in	ns	ns-1178.awsdns-19.org.
@@ -4843,6 +4844,8 @@ bodyforge.fitness.	3600	in	ns	ns-cloud-a1.googledomains.com.
 bodyforge.fitness.	3600	in	ns	ns-cloud-a2.googledomains.com.
 bodyforge.fitness.	3600	in	ns	ns-cloud-a3.googledomains.com.
 bodyforge.fitness.	3600	in	ns	ns-cloud-a4.googledomains.com.
+bodyfriendly.fitness.	3600	in	ns	ns67.domaincontrol.com.
+bodyfriendly.fitness.	3600	in	ns	ns68.domaincontrol.com.
 bodygenius.fitness.	3600	in	ns	ns1.siteground.net.
 bodygenius.fitness.	3600	in	ns	ns2.siteground.net.
 bodygyan.fitness.	3600	in	ns	ns33.domaincontrol.com.
@@ -4876,12 +4879,6 @@ bodykrush.fitness.	3600	in	ns	ns14.wixdns.net.
 bodykrush.fitness.	3600	in	ns	ns15.wixdns.net.
 bodylab.fitness.	3600	in	ns	ns55.domaincontrol.com.
 bodylab.fitness.	3600	in	ns	ns56.domaincontrol.com.
-bodylicious.fitness.	3600	in	ds	13039 8 2 9AC1282717407E08D14619B2A30F9F49ABB9358DF319BC1F462F9BA99CAB0B04
-bodylicious.fitness.	3600	in	ns	ns-cloud-a1.googledomains.com.
-bodylicious.fitness.	3600	in	ns	ns-cloud-a2.googledomains.com.
-bodylicious.fitness.	3600	in	ns	ns-cloud-a3.googledomains.com.
-bodylicious.fitness.	3600	in	ns	ns-cloud-a4.googledomains.com.
-bodylicious.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. FfDqy4cNMrQ2+iANUcMyaEFkbtOf4xEKyyrGmI/veCsBQNA5m8Yp2hNih24v99LD8VG+uF4crGEzQxvKBbewpPaPcQZr2LMG4jyx4iKrbuxGxdJvH5HRoTthGzXcLkXWHy80pzlXhTyTLWTXZzqwv7RXuuAZEyNKnG7K810wP+I=
 bodyline.fitness.	3600	in	ns	ns3.stratoserver.net.
 bodyline.fitness.	3600	in	ns	ns4.stratoserver.net.
 bodymedia.fitness.	3600	in	ns	ns.udag.de.
@@ -5355,8 +5352,8 @@ bridgeto.fitness.	3600	in	ns	ns2.dreamhost.com.
 bridgeto.fitness.	3600	in	ns	ns3.dreamhost.com.
 brigade.fitness.	3600	in	ns	evangeline.ns.cloudflare.com.
 brigade.fitness.	3600	in	ns	titan.ns.cloudflare.com.
-bright.fitness.	3600	in	ns	ns1.afternic.com.
-bright.fitness.	3600	in	ns	ns2.afternic.com.
+bright.fitness.	3600	in	ns	ns1.atom.com.
+bright.fitness.	3600	in	ns	ns2.atom.com.
 brik.fitness.	3600	in	ns	ns-cloud-c1.googledomains.com.
 brik.fitness.	3600	in	ns	ns-cloud-c2.googledomains.com.
 brik.fitness.	3600	in	ns	ns-cloud-c3.googledomains.com.
@@ -6324,8 +6321,8 @@ charz.fitness.	3600	in	ns	ns01.domaincontrol.com.
 charz.fitness.	3600	in	ns	ns02.domaincontrol.com.
 chat.fitness.	3600	in	ns	dns1.registrar-servers.com.
 chat.fitness.	3600	in	ns	dns2.registrar-servers.com.
-chatbot.fitness.	3600	in	ns	ns1.sedoparking.com.
-chatbot.fitness.	3600	in	ns	ns2.sedoparking.com.
+chatbot.fitness.	3600	in	ns	launch1.spaceship.net.
+chatbot.fitness.	3600	in	ns	launch2.spaceship.net.
 chatgpt.fitness.	3600	in	ns	dns15.ovh.net.
 chatgpt.fitness.	3600	in	ns	ns15.ovh.net.
 cheatcode.fitness.	3600	in	ns	ns59.domaincontrol.com.
@@ -6633,8 +6630,8 @@ clan.fitness.	3600	in	ns	ns3fgh.name.com.
 clan.fitness.	3600	in	ns	ns4blx.name.com.
 clara.fitness.	3600	in	ns	ns73.domaincontrol.com.
 clara.fitness.	3600	in	ns	ns74.domaincontrol.com.
-clarity.fitness.	3600	in	ns	ns1.afternic.com.
-clarity.fitness.	3600	in	ns	ns2.afternic.com.
+clarity.fitness.	3600	in	ns	ns1.atom.com.
+clarity.fitness.	3600	in	ns	ns2.atom.com.
 clarityandbody.fitness.	3600	in	ns	ns1.wordpress.com.
 clarityandbody.fitness.	3600	in	ns	ns2.wordpress.com.
 clarityandbody.fitness.	3600	in	ns	ns3.wordpress.com.
@@ -8110,10 +8107,8 @@ deload.fitness.	3600	in	ns	ha3.markmonitor.zone.
 deload.fitness.	3600	in	ns	ha4.markmonitor.zone.
 delphi.fitness.	3600	in	ns	ns1.sawsells.com.
 delphi.fitness.	3600	in	ns	ns2.sawsells.com.
-delta.fitness.	3600	in	ds	43908 13 2 1B5C56B4E473B8AC54D03F8145B310582CC73BE0A395029C1E1F71243733C58E
-delta.fitness.	3600	in	ns	launch1.spaceship.net.
-delta.fitness.	3600	in	ns	launch2.spaceship.net.
-delta.fitness.	3600	in	rrsig	DS 8 2 3600 20251001212507 20250910202507 45009 fitness. XNsf3rOs/apIMYhncoQSe8y9evt1obljSETyClDgw/m9HaQPyEp0zuKb7bBS92kt/D17PhbOYrs39NF0SlGsfcVD0JzACSLZaLKeunewPt5tdEc32G9jpnTqN7p8ci4HS8tDkmnFF2NuKdiU+7fzvEE8WRirvdwyTMGRYCcH7zQ=
+delta.fitness.	3600	in	ns	ns1.afternic.com.
+delta.fitness.	3600	in	ns	ns2.afternic.com.
 deltalife.fitness.	3600	in	ns	ns55.domaincontrol.com.
 deltalife.fitness.	3600	in	ns	ns56.domaincontrol.com.
 deltapt.fitness.	3600	in	ns	ns-cloud-d1.googledomains.com.
@@ -8513,8 +8508,6 @@ dogba.fitness.	3600	in	ns	ns-cloud-d1.googledomains.com.
 dogba.fitness.	3600	in	ns	ns-cloud-d2.googledomains.com.
 dogba.fitness.	3600	in	ns	ns-cloud-d3.googledomains.com.
 dogba.fitness.	3600	in	ns	ns-cloud-d4.googledomains.com.
-doge.fitness.	3600	in	ns	ns1-expired.sav.com.
-doge.fitness.	3600	in	ns	ns2-expired.sav.com.
 doghouse.fitness.	3600	in	ns	ns37.domaincontrol.com.
 doghouse.fitness.	3600	in	ns	ns38.domaincontrol.com.
 dogmom.fitness.	3600	in	ns	ns11.domaincontrol.com.
@@ -8561,8 +8554,6 @@ donaldjoseph.fitness.	3600	in	ns	ns-cloud-e2.googledomains.com.
 donaldjoseph.fitness.	3600	in	ns	ns-cloud-e3.googledomains.com.
 donaldjoseph.fitness.	3600	in	ns	ns-cloud-e4.googledomains.com.
 donaldjoseph.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. mRhaYOhTI4WnJOA7YZJlhrrchgJt+pSxJtcNFMVvqEBZk/mQNpR8gHZ6DHpvuY19zB/OBji7acSF7pJ6QvcH2Oh/C+nQfPLN5XQ8z7L7FHPnwU6FAFcxjMpF4Pmjr7kc7M1Kzt/OTDWg6YZckBxPmGyopbmLzUXLN5pPPqnTqCw=
-done.fitness.	3600	in	ns	dns101.registrar-servers.com.
-done.fitness.	3600	in	ns	dns102.registrar-servers.com.
 donmaguire.fitness.	3600	in	ns	dns1.p02.nsone.net.
 donmaguire.fitness.	3600	in	ns	dns2.p02.nsone.net.
 donmaguire.fitness.	3600	in	ns	dns3.p02.nsone.net.
@@ -8835,8 +8826,6 @@ durham.fitness.	3600	in	ns	ns-cloud-b1.googledomains.com.
 durham.fitness.	3600	in	ns	ns-cloud-b2.googledomains.com.
 durham.fitness.	3600	in	ns	ns-cloud-b3.googledomains.com.
 durham.fitness.	3600	in	ns	ns-cloud-b4.googledomains.com.
-duro.fitness.	3600	in	ns	ns1.ipower-expired.domainparkingserver.net.
-duro.fitness.	3600	in	ns	ns2.ipower-expired.domainparkingserver.net.
 dust2glory.fitness.	3600	in	ns	ns13.domaincontrol.com.
 dust2glory.fitness.	3600	in	ns	ns14.domaincontrol.com.
 dvizh.fitness.	3600	in	ns	ns3.nic.ru.
@@ -9208,8 +9197,8 @@ element6.fitness.	3600	in	ns	ns-cloud-d1.googledomains.com.
 element6.fitness.	3600	in	ns	ns-cloud-d2.googledomains.com.
 element6.fitness.	3600	in	ns	ns-cloud-d3.googledomains.com.
 element6.fitness.	3600	in	ns	ns-cloud-d4.googledomains.com.
-elemental.fitness.	3600	in	ns	ns1.afternic.com.
-elemental.fitness.	3600	in	ns	ns2.afternic.com.
+elemental.fitness.	3600	in	ns	ns1.atom.com.
+elemental.fitness.	3600	in	ns	ns2.atom.com.
 elements-ansbach.fitness.	3600	in	ns	ns6.wixdns.net.
 elements-ansbach.fitness.	3600	in	ns	ns7.wixdns.net.
 elements.fitness.	3600	in	ns	ns1bqx.name.com.
@@ -9599,8 +9588,8 @@ energystation.fitness.	3600	in	ns	ns5.netnames.net.
 energystation.fitness.	3600	in	ns	ns6.netnames.net.
 enfit.fitness.	3600	in	ns	blair.ns.cloudflare.com.
 enfit.fitness.	3600	in	ns	wells.ns.cloudflare.com.
-engage.fitness.	3600	in	ns	ns1.afternic.com.
-engage.fitness.	3600	in	ns	ns2.afternic.com.
+engage.fitness.	3600	in	ns	ns1.atom.com.
+engage.fitness.	3600	in	ns	ns2.atom.com.
 engaged.fitness.	3600	in	ds	31537 8 2 578EAD2056E9B104E25B899E71968F60915D4AB959D1101E00DA3045CB14A920
 engaged.fitness.	3600	in	ns	ns-cloud-b1.googledomains.com.
 engaged.fitness.	3600	in	ns	ns-cloud-b2.googledomains.com.
@@ -10265,8 +10254,8 @@ fambul.fitness.	3600	in	ns	ns-cloud-b1.googledomains.com.
 fambul.fitness.	3600	in	ns	ns-cloud-b2.googledomains.com.
 fambul.fitness.	3600	in	ns	ns-cloud-b3.googledomains.com.
 fambul.fitness.	3600	in	ns	ns-cloud-b4.googledomains.com.
-fame.fitness.	3600	in	ns	ns1.afternic.com.
-fame.fitness.	3600	in	ns	ns2.afternic.com.
+fame.fitness.	3600	in	ns	ns1.atom.com.
+fame.fitness.	3600	in	ns	ns2.atom.com.
 familia.fitness.	3600	in	ds	30784 8 2 294A262DAB70B43EDEA6474085B7AE364EE46EE37939BBF4BF414E1F9B377B9D
 familia.fitness.	3600	in	ns	ns-cloud-a1.googledomains.com.
 familia.fitness.	3600	in	ns	ns-cloud-a2.googledomains.com.
@@ -10820,9 +10809,8 @@ firo.fitness.	3600	in	ns	dns1.registrar-servers.com.
 firo.fitness.	3600	in	ns	dns2.registrar-servers.com.
 firofit.fitness.	3600	in	ns	dns1.registrar-servers.com.
 firofit.fitness.	3600	in	ns	dns2.registrar-servers.com.
-first-class.fitness.	3600	in	ns	ns.inwx.de.
-first-class.fitness.	3600	in	ns	ns2.inwx.de.
-first-class.fitness.	3600	in	ns	ns3.inwx.eu.
+first-class.fitness.	3600	in	ns	expired-domain.domrobot.com.
+first-class.fitness.	3600	in	ns	please-renew-domain.domrobot.com.
 first.fitness.	3600	in	ns	ns1.afternic.com.
 first.fitness.	3600	in	ns	ns2.afternic.com.
 firstclass.fitness.	3600	in	ns	ns1.afternic.com.
@@ -11156,7 +11144,7 @@ fitness.	3600	in	nsec3param	1 0 0 73
 fitness.	3600	in	rrsig	DNSKEY 8 1 3600 20250930152608 20250909142608 65515 fitness. GHcxqq5AJYvnE7HYps3S5CgrWbtAlpRRQG8i93Mh4SHvqmoHTP5r+8p6VFaBAQe1m6CNve4Zx31yJny0vF/FZZfn+WsZYeUBkvy/mscHnYxJlAWKL8n48rRSA8cveL+MoyNLB9ZHDetHktd0lZSIZwWLoheOZIdjX3rRwbTQCC3kYaiTVGU+F0g3ztPNBZ+X/GFp1oBOkg+MLBeHAEWaBoom+d8zS05N3F3IWqDlR7pw7ZIdGuOfgT7zit7tijyOS0RirIfsnDhxPMSGRi0q+O0kpv4GCB3wKwOx5ENgOrDarnay0++qxm5YkHI4858KK8tpODFaQWKh0hjdXPm+4Q==
 fitness.	3600	in	rrsig	NS 8 1 3600 20250930152608 20250909142608 45009 fitness. px1S7BquFzw6iu1uv9KOHC2ZAvORsiS8Bc3nyCZim+knNvehwYC7DQihwFcUPoFm1aa6/1wrRoe00E+6Zt+1kjRqU/0+FbrPa9E6KekOJSPPZC7hiyoNzmfKm1f0lEd/QdFefFUE0kVt6fTJv6rhGMZQh5+uYvgVDS2wAUeVeX0=
 fitness.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930152608 20250909142608 45009 fitness. YDPs6WtM1zWobXEXLb0X7CW48rNbAV4jnn9gyIc67unQ/7X4/T1QMb/yQ+pxMRz3IG8TETl054rXpsUcCeMOBp1onV59hgryI0zOi5DtRK6xbD/AzxhuGMLugFDmvVb2ibPKWS/XVViKuLQawoZN+V+ZtcXGzZWxvsLv/IO9kTI=
-fitness.	3600	in	rrsig	SOA 8 1 3600 20251002010717 20250911000717 45009 fitness. OT0c7fc1aYGG4ImLwkKY9DwLGssjIZ4gMND6k0S8QKsgIVlH6bHU6Lshtjb2+Vl7/8Fqg+ns/XH1KXltCL9rqWwWI7jSv3uESmuzgx0bZ4x2X+8yTSsLYR9tRPP89NrFklyIeJK0aZg11AjSlgzkILf89ZThbUI1d153jTAyIr4=
+fitness.	3600	in	rrsig	SOA 8 1 3600 20251003010356 20250912000356 45009 fitness. ELYtfBZk7NaIESlHpqUJy6d+U/iJw92Os8F65qXg+kgUta13AsD4Pn6Htnz1yrl3OUZpQWc65R8ndOiayZV+z45KWqiQcyhTrZaRcbjjY1EFMMDH4yTMgLzsai9B7EMrW6zvNJdtRT+4QKcY9qANfL0GhHvJJeFHaul+9SmSfsA=
 fitness.fitness.	3600	in	ns	ns1.dyna-ns.net.
 fitness.fitness.	3600	in	ns	ns2.dyna-ns.net.
 fitness19castelldefels.fitness.	3600	in	ns	ns1.incloud.cat.
@@ -11495,8 +11483,8 @@ flexflow.fitness.	3600	in	ns	ns1052.ui-dns.de.
 flexflow.fitness.	3600	in	ns	ns1071.ui-dns.biz.
 flexforcex.fitness.	3600	in	ns	ns53.domaincontrol.com.
 flexforcex.fitness.	3600	in	ns	ns54.domaincontrol.com.
-flexi.fitness.	3600	in	ns	ns1.afternic.com.
-flexi.fitness.	3600	in	ns	ns2.afternic.com.
+flexi.fitness.	3600	in	ns	ns1.atom.com.
+flexi.fitness.	3600	in	ns	ns2.atom.com.
 flexible.fitness.	3600	in	ns	ns1.afternic.com.
 flexible.fitness.	3600	in	ns	ns2.afternic.com.
 flexies.fitness.	3600	in	ns	dns1.registrar-servers.com.
@@ -12101,6 +12089,10 @@ freee.fitness.	3600	in	ns	ns6.wixdns.net.
 freee.fitness.	3600	in	ns	ns7.wixdns.net.
 freekarate.fitness.	3600	in	ns	adele.ns.cloudflare.com.
 freekarate.fitness.	3600	in	ns	chad.ns.cloudflare.com.
+freelance.fitness.	3600	in	ns	ns-cloud-d1.googledomains.com.
+freelance.fitness.	3600	in	ns	ns-cloud-d2.googledomains.com.
+freelance.fitness.	3600	in	ns	ns-cloud-d3.googledomains.com.
+freelance.fitness.	3600	in	ns	ns-cloud-d4.googledomains.com.
 freeman.fitness.	3600	in	ns	ns53.domaincontrol.com.
 freeman.fitness.	3600	in	ns	ns54.domaincontrol.com.
 freemotionfitness.fitness.	3600	in	ns	ns1.iconl2.com.
@@ -12108,8 +12100,8 @@ freemotionfitness.fitness.	3600	in	ns	ns2.iconl2.com.
 freemotionfitness.fitness.	3600	in	ns	ns3.iconl2.com.
 freeno.fitness.	3600	in	ns	a.portsdns.se.
 freeno.fitness.	3600	in	ns	b.portsdns.net.
-freestyle.fitness.	3600	in	ns	ns1.afternic.com.
-freestyle.fitness.	3600	in	ns	ns2.afternic.com.
+freestyle.fitness.	3600	in	ns	ns1.atom.com.
+freestyle.fitness.	3600	in	ns	ns2.atom.com.
 freestyler.fitness.	3600	in	ns	ns63.domaincontrol.com.
 freestyler.fitness.	3600	in	ns	ns64.domaincontrol.com.
 freetime.fitness.	3600	in	ns	ns1.register.it.
@@ -12200,10 +12192,10 @@ frontend.fitness.	3600	in	ns	ns-cloud-e4.googledomains.com.
 frontend.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. gHt6hxCVuW6l8abxt47cWvDLQ35ukjKb1gPS8rrX10nXt4h+XFTPIZQwRowDCgk+wnu5jX+mh6cIa5S2EerjsUfG/1nqNs9VQyS1ewMvljGirjJv1qx0TxKgLza6APY1dCSsubko4HaExFjEbzBAOztVFLmAx+6IJvcFKDrKYbA=
 frontier.fitness.	3600	in	ns	ns55.domaincontrol.com.
 frontier.fitness.	3600	in	ns	ns56.domaincontrol.com.
-frontline.fitness.	3600	in	ns	ns1.afternic.com.
-frontline.fitness.	3600	in	ns	ns2.afternic.com.
-frost.fitness.	3600	in	ns	ns1.afternic.com.
-frost.fitness.	3600	in	ns	ns2.afternic.com.
+frontline.fitness.	3600	in	ns	ns1.atom.com.
+frontline.fitness.	3600	in	ns	ns2.atom.com.
+frost.fitness.	3600	in	ns	ns1.atom.com.
+frost.fitness.	3600	in	ns	ns2.atom.com.
 fructan.fitness.	3600	in	ns	angela.ns.cloudflare.com.
 fructan.fitness.	3600	in	ns	jack.ns.cloudflare.com.
 fructanlifestyle.fitness.	3600	in	ns	angela.ns.cloudflare.com.
@@ -12315,8 +12307,8 @@ func.fitness.	3600	in	ns	ns43.domaincontrol.com.
 func.fitness.	3600	in	ns	ns44.domaincontrol.com.
 funcional.fitness.	3600	in	ns	ns14.wixdns.net.
 funcional.fitness.	3600	in	ns	ns15.wixdns.net.
-function.fitness.	3600	in	ns	ns1.afternic.com.
-function.fitness.	3600	in	ns	ns2.afternic.com.
+function.fitness.	3600	in	ns	ns1.atom.com.
+function.fitness.	3600	in	ns	ns2.atom.com.
 functional.fitness.	3600	in	ns	dns1.registrar-servers.com.
 functional.fitness.	3600	in	ns	dns2.registrar-servers.com.
 functionalpt.fitness.	3600	in	ns	dns1.parastorage.com.
@@ -12785,8 +12777,8 @@ getguru.fitness.	3600	in	ns	ns-1364.awsdns-42.org.
 getguru.fitness.	3600	in	ns	ns-1596.awsdns-07.co.uk.
 getguru.fitness.	3600	in	ns	ns-234.awsdns-29.com.
 getguru.fitness.	3600	in	ns	ns-553.awsdns-05.net.
-gethigh.fitness.	3600	in	ns	dns101.registrar-servers.com.
-gethigh.fitness.	3600	in	ns	dns102.registrar-servers.com.
+gethigh.fitness.	3600	in	ns	dns1.registrar-servers.com.
+gethigh.fitness.	3600	in	ns	dns2.registrar-servers.com.
 getinchargeofyour.fitness.	3600	in	ns	ns-de.1and1-dns.biz.
 getinchargeofyour.fitness.	3600	in	ns	ns-de.1and1-dns.com.
 getinchargeofyour.fitness.	3600	in	ns	ns-de.1and1-dns.de.
@@ -12956,8 +12948,8 @@ gladius.fitness.	3600	in	ns	launch1.spaceship.net.
 gladius.fitness.	3600	in	ns	launch2.spaceship.net.
 glam.fitness.	3600	in	ns	ns1.dns-redirect.com.
 glam.fitness.	3600	in	ns	ns2.dns-redirect.com.
-glamour.fitness.	3600	in	ns	ns1.afternic.com.
-glamour.fitness.	3600	in	ns	ns2.afternic.com.
+glamour.fitness.	3600	in	ns	ns1.atom.com.
+glamour.fitness.	3600	in	ns	ns2.atom.com.
 glamourfit.fitness.	3600	in	ns	1-you.njalla.no.
 glamourfit.fitness.	3600	in	ns	2-can.njalla.in.
 glamourfit.fitness.	3600	in	ns	3-get.njalla.fo.
@@ -12989,8 +12981,8 @@ glodruemp.fitness.	3600	in	ns	ns1.dyna-ns.net.
 glodruemp.fitness.	3600	in	ns	ns2.dyna-ns.net.
 glorious.fitness.	3600	in	ns	dns1.registrar-servers.com.
 glorious.fitness.	3600	in	ns	dns2.registrar-servers.com.
-glory.fitness.	3600	in	ns	ns1.bodis.com.
-glory.fitness.	3600	in	ns	ns2.bodis.com.
+glory.fitness.	3600	in	ns	ns1.dns-redirect.com.
+glory.fitness.	3600	in	ns	ns2.dns-redirect.com.
 gloryroad.fitness.	3600	in	ns	ns13.domaincontrol.com.
 gloryroad.fitness.	3600	in	ns	ns14.domaincontrol.com.
 glow.fitness.	3600	in	ns	ns1.markmonitor.com.
@@ -13791,6 +13783,8 @@ gymlab.fitness.	3600	in	ns	ns3.argewebhosting.nl.
 gymlab.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. fwdLkCcfj95YbvigQ06Kus54cZwNMORBWeIKPnb9Fss8nv/ivx4y5uelBJt3dJw8l2Xja8PLHA9GKJWGZ6Hv1nYC+OTlla1bQjQQKTUecMeVr9/uvwAPg0/zZ33QxMz04M4537pSSD50mei5y9PcyqoJ5J8UKPMWEJOh98lhh4A=
 gymlaunch.fitness.	3600	in	ns	ns77.domaincontrol.com.
 gymlaunch.fitness.	3600	in	ns	ns78.domaincontrol.com.
+gymless.fitness.	3600	in	ns	ns25.domaincontrol.com.
+gymless.fitness.	3600	in	ns	ns26.domaincontrol.com.
 gymlete.fitness.	3600	in	ns	dns1.icertified.net.
 gymlete.fitness.	3600	in	ns	dns2.icertified.net.
 gymletics.fitness.	3600	in	ns	ns1.dnsowl.com.
@@ -14273,8 +14267,8 @@ hds.fitness.	3600	in	ns	ns-us.1and1-dns.com.
 hds.fitness.	3600	in	ns	ns-us.1and1-dns.de.
 hds.fitness.	3600	in	ns	ns-us.1and1-dns.org.
 hds.fitness.	3600	in	ns	ns-us.1and1-dns.us.
-head.fitness.	3600	in	ns	ns1.afternic.com.
-head.fitness.	3600	in	ns	ns2.afternic.com.
+head.fitness.	3600	in	ns	ns1.atom.com.
+head.fitness.	3600	in	ns	ns2.atom.com.
 headstart.fitness.	3600	in	ns	ns0.1984.is.
 headstart.fitness.	3600	in	ns	ns1.1984hosting.com.
 headstart.fitness.	3600	in	ns	ns1.domain.com.
@@ -16048,8 +16042,6 @@ ironmaster.fitness.	3600	in	ns	ns1.openprovider.nl.
 ironmaster.fitness.	3600	in	ns	ns2.openprovider.be.
 ironmaster.fitness.	3600	in	ns	ns3.openprovider.eu.
 ironmaster.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. dgxiXYCuBTi73WVqJhzVql9NOYGwXtrP67BasryRww27GeGTZHPebcvjo/Ftr5lPtJrGah9JKFPubjS/zmqz0Cvbd26qcyDg/5fkEtMYVy8nG4WoVMzn6aDCdWA4F/D9Li8EEAoADD9ixGLhRzND6CHeUxggvL4Z6E9SX7lT6FY=
-ironmind.fitness.	3600	in	ns	ns6.wixdns.net.
-ironmind.fitness.	3600	in	ns	ns7.wixdns.net.
 ironmonk.fitness.	3600	in	ns	ns12.wixdns.net.
 ironmonk.fitness.	3600	in	ns	ns13.wixdns.net.
 ironmonkey.fitness.	3600	in	ns	connect1.squarespacedns.com.
@@ -17219,8 +17211,8 @@ karina.fitness.	3600	in	ns	maceio.ns.porkbun.com.
 karina.fitness.	3600	in	ns	salvador.ns.porkbun.com.
 karinstaubin.fitness.	3600	in	ns	pdns07.domaincontrol.com.
 karinstaubin.fitness.	3600	in	ns	pdns08.domaincontrol.com.
-karma.fitness.	3600	in	ns	ns1.afternic.com.
-karma.fitness.	3600	in	ns	ns2.afternic.com.
+karma.fitness.	3600	in	ns	ns1.atom.com.
+karma.fitness.	3600	in	ns	ns2.atom.com.
 karunayoga.fitness.	3600	in	ns	ns11.domaincontrol.com.
 karunayoga.fitness.	3600	in	ns	ns12.domaincontrol.com.
 karve.fitness.	3600	in	ns	ns05.domaincontrol.com.
@@ -17488,8 +17480,8 @@ kidsfirstsports.fitness.	3600	in	ns	miles.ns.cloudflare.com.
 kidsfirstsports.fitness.	3600	in	ns	sasha.ns.cloudflare.com.
 kik.fitness.	3600	in	ns	ns1.afternic.com.
 kik.fitness.	3600	in	ns	ns2.afternic.com.
-kiki.fitness.	3600	in	ns	ns1.afternic.com.
-kiki.fitness.	3600	in	ns	ns2.afternic.com.
+kiki.fitness.	3600	in	ns	ns1.atom.com.
+kiki.fitness.	3600	in	ns	ns2.atom.com.
 kilimanjaro.fitness.	3600	in	ns	dns1.p01.nsone.net.
 kilimanjaro.fitness.	3600	in	ns	dns2.p01.nsone.net.
 kilimanjaro.fitness.	3600	in	ns	dns3.p01.nsone.net.
@@ -17520,8 +17512,8 @@ kimlowe.fitness.	3600	in	ns	ns2.dreamhost.com.
 kimlowe.fitness.	3600	in	ns	ns3.dreamhost.com.
 kimspiration.fitness.	3600	in	ns	dns1.registrar-servers.com.
 kimspiration.fitness.	3600	in	ns	dns2.registrar-servers.com.
-kind.fitness.	3600	in	ns	ns1.afternic.com.
-kind.fitness.	3600	in	ns	ns2.afternic.com.
+kind.fitness.	3600	in	ns	ns1.atom.com.
+kind.fitness.	3600	in	ns	ns2.atom.com.
 kinderturnen.fitness.	3600	in	ns	ns.second-ns.com.
 kinderturnen.fitness.	3600	in	ns	ns1.your-server.de.
 kinderturnen.fitness.	3600	in	ns	ns3.second-ns.de.
@@ -17793,10 +17785,6 @@ koodza.fitness.	3600	in	ns	ns-147-a.gandi.net.
 koodza.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. RQdpVZRYHwcOBACRwtPTc3T0oj0XF67bPR3UjUqZ4J4RtNlJrMdooQ13ihNK7IIL07RR1GUGBCsTv4ur3awarjdoR0cTGAJrjkXXQauTUT7kilkO2fGomw+2WYyNRr2KSkWIeKSuxwz2dP9SCn/+mSMgOtW3r4k0v/bGp6cwYMg=
 kook.fitness.	3600	in	ns	dns1.registrar-servers.com.
 kook.fitness.	3600	in	ns	dns2.registrar-servers.com.
-koor.fitness.	3600	in	ns	ns1dns.name.com.
-koor.fitness.	3600	in	ns	ns2bls.name.com.
-koor.fitness.	3600	in	ns	ns3hjx.name.com.
-koor.fitness.	3600	in	ns	ns4bfy.name.com.
 kopf.fitness.	3600	in	ns	ns4.wixdns.net.
 kopf.fitness.	3600	in	ns	ns5.wixdns.net.
 kore.fitness.	3600	in	ns	ns1.portdns.com.
@@ -18529,6 +18517,9 @@ lft.fitness.	3600	in	ns	hgns1.hostgator.com.
 lft.fitness.	3600	in	ns	hgns2.hostgator.com.
 lft1vntskoujp0ajnjmvruj0hssepa8k.fitness.	3600	in	nsec3	1 1 0 73 LH4U8RRUB18E0LDL2M3HL1MH5HKF88GE NS DS RRSIG
 lft1vntskoujp0ajnjmvruj0hssepa8k.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. QuYBevXx8eJ2O1sMN2lO0uadY3h2A/L1uh96/ylKLSBTa4ujNg3Gzuw7bg7Vxhe10mLfubqgjmb7jrCuwNFomlvje35FBgBaukQRj71IAj73OhZzuk/qUGziKvl4DmzWXMckQg6xgZDJSB7V7oLdVTWYKRdImrmVNzKWU9R339A=
+lg.fitness.	3600	in	ns	ns-216-c.gandi.net.
+lg.fitness.	3600	in	ns	ns-248-a.gandi.net.
+lg.fitness.	3600	in	ns	ns-28-b.gandi.net.
 lgndry.fitness.	3600	in	ns	ns-1282.awsdns-32.org.
 lgndry.fitness.	3600	in	ns	ns-1852.awsdns-39.co.uk.
 lgndry.fitness.	3600	in	ns	ns-202.awsdns-25.com.
@@ -18899,6 +18890,8 @@ lizzhome.fitness.	3600	in	ns	henry.ns.cloudflare.com.
 lizzhome.fitness.	3600	in	ns	rita.ns.cloudflare.com.
 lk1vra6hh8mv17tqfmt4qjbea66t9ebc.fitness.	3600	in	nsec3	1 1 0 73 LK6R4405LEROCBN9P5UOJS8PCJA6FP6T NS DS RRSIG
 lk1vra6hh8mv17tqfmt4qjbea66t9ebc.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. j7cBc6DcKgAP/4hcljFraFOUncKPmSjm7AqcevQkIRM8xU3922Hntgqm1taTCV7mSwrIqkzcNCtuHvV5GxNv1wwII9Rf7ooG3iMlXw5bH8ORk8zw6Jb+edGp6uPuqkgrNty2LBtCUrVLAGwrb2PxwJXRWXJfn3KZqHNLQyA/o9o=
+lk21.fitness.	3600	in	ns	dns1.registrar-servers.com.
+lk21.fitness.	3600	in	ns	dns2.registrar-servers.com.
 lk6r4405lerocbn9p5uojs8pcja6fp6t.fitness.	3600	in	nsec3	1 1 0 73 LMDQ5307OGERFQCOABALINQBH8V3DQ3L NS DS RRSIG
 lk6r4405lerocbn9p5uojs8pcja6fp6t.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. ZYzdwSgo9ceezfLEaHeNwoWEoJObOk6ghtjFX0smeRKAwMSj+uFfcf0YRNRVwiWBvnkAWFh7UPVAm5FEk0uetWnbpssaEcpxlknaEXoHVPXPEbVtaKlSEWp6L+mA0TZKXVUjptQWLKLZe0OlpOwsrfewmts8hjAlBAY+ftTRsNQ=
 lkn.fitness.	3600	in	ns	ns3.afternic.com.
@@ -18945,6 +18938,8 @@ locomotion.fitness.	3600	in	ns	ns-cloud-d2.googledomains.com.
 locomotion.fitness.	3600	in	ns	ns-cloud-d3.googledomains.com.
 locomotion.fitness.	3600	in	ns	ns-cloud-d4.googledomains.com.
 locomotion.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. jm8wBc6953up94PbUyxKLffcDoWF17M3DYwqtFfOqxfiSHiFgya0e1Z7xevxBKUIpzaCGZ4TvVeZXagDK4FYf0De6LyTiImWofBAzYNE6yk2Sdl3TyJfENL8UJ2ziI+y6KxEWAhpJcSNzgd1lR6pGUuQP4fQqafexxcdaz10yec=
+lodestar.fitness.	3600	in	ns	ns31.domaincontrol.com.
+lodestar.fitness.	3600	in	ns	ns32.domaincontrol.com.
 loft.fitness.	3600	in	ns	ns.udag.de.
 loft.fitness.	3600	in	ns	ns.udag.net.
 loft.fitness.	3600	in	ns	ns.udag.org.
@@ -19244,8 +19239,8 @@ m2m.fitness.	3600	in	ns	ns41.domaincontrol.com.
 m2m.fitness.	3600	in	ns	ns42.domaincontrol.com.
 m39hnaliiqamli1b9jsv3ci7brhug48g.fitness.	3600	in	nsec3	1 1 0 73 M3T3QMRVR800ADDLC1GUS3LL5H7FC9FL NS DS RRSIG
 m39hnaliiqamli1b9jsv3ci7brhug48g.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. I/jmIUzeb4M55jbjlZGeQq2HYEgVyD7QAMS1ZdbLu2hkADVKCqLo9FyLKxqGyrRg4A6Fo7kd3P9EaAJ27sjthKawI8DYNfWKVzGqeKb6+t1WCBBWjVKYvmHr2x5uMtM+DYHzg8nUdEdrGFo+xjMgd50tzRx4LrbV1GZ1uGftaOs=
-m3ga.fitness.	3600	in	ns	ns1.bodis.com.
-m3ga.fitness.	3600	in	ns	ns2.bodis.com.
+m3ga.fitness.	3600	in	ns	ns1.dns-redirect.com.
+m3ga.fitness.	3600	in	ns	ns2.dns-redirect.com.
 m3t3qmrvr800addlc1gus3ll5h7fc9fl.fitness.	3600	in	nsec3	1 1 0 73 M484809REPSVVKGCV6OAQ8OG8Q00A9U4 NS DS RRSIG
 m3t3qmrvr800addlc1gus3ll5h7fc9fl.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. hd45l0DvRLcf44ZKDYbves8K2T+JtizWWXAMAcU2/HbqYAdUx9TFPCEWW8765gTz8Bb0vsbBPTKs8r28LwGa91GYFiZnj00lfdYXUqbZzz0WhxddTGU1ldhSqUqY8I4IEgV+mQFBQ2eNIlUaWSZfUkzS8NYQ39JVvyh2NC3zxEQ=
 m484809repsvvkgcv6oaq8og8q00a9u4.fitness.	3600	in	nsec3	1 1 0 73 M6O86IJBOH7KTESE5FC5E8IDOIHCAGUC NS DS RRSIG
@@ -19752,8 +19747,8 @@ mauricerichardson.fitness.	3600	in	ns	ns-cloud-b3.googledomains.com.
 mauricerichardson.fitness.	3600	in	ns	ns-cloud-b4.googledomains.com.
 maven.fitness.	3600	in	ns	ns75.domaincontrol.com.
 maven.fitness.	3600	in	ns	ns76.domaincontrol.com.
-maverick.fitness.	3600	in	ns	ns1.afternic.com.
-maverick.fitness.	3600	in	ns	ns2.afternic.com.
+maverick.fitness.	3600	in	ns	ns1.atom.com.
+maverick.fitness.	3600	in	ns	ns2.atom.com.
 mavic.fitness.	3600	in	ns	dns1.registrar-servers.com.
 mavic.fitness.	3600	in	ns	dns2.registrar-servers.com.
 mavie.fitness.	3600	in	ns	ns5.kasserver.com.
@@ -20426,8 +20421,8 @@ milkshape.fitness.	3600	in	ns	ns-cloud-a2.googledomains.com.
 milkshape.fitness.	3600	in	ns	ns-cloud-a3.googledomains.com.
 milkshape.fitness.	3600	in	ns	ns-cloud-a4.googledomains.com.
 milkshape.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. nBm6NUAL2O7AY2TP7mcWfyZpwXpgYg/XBpwRt5AeqrwWbq5Wyq1VKWVpsvE7zJ7Kt75FQlQsxK/kEHIXNukQyq9X5frOkQU0qcP0d8iBSyPlAj/ovnnLFUkk9QaaFUm6zpGGMk6yeyeSqhB+8c2B8RD1uMAUNdN7y5rPemf/x4E=
-millenium.fitness.	3600	in	ns	ns1.bodis.com.
-millenium.fitness.	3600	in	ns	ns2.bodis.com.
+millenium.fitness.	3600	in	ns	ns1.dns-redirect.com.
+millenium.fitness.	3600	in	ns	ns2.dns-redirect.com.
 millennial.fitness.	3600	in	ns	ns1.wordpress.com.
 millennial.fitness.	3600	in	ns	ns2.wordpress.com.
 millennial.fitness.	3600	in	ns	ns3.wordpress.com.
@@ -21739,16 +21734,14 @@ nado.fitness.	3600	in	ns	ns4.he.net.
 nado.fitness.	3600	in	ns	ns5.he.net.
 nagaikanarenazona.fitness.	3600	in	ns	dns101.registrar-servers.com.
 nagaikanarenazona.fitness.	3600	in	ns	dns102.registrar-servers.com.
-nagf9rr093512a2oth9usbbtp76ev7ao.fitness.	3600	in	nsec3	1 1 0 73 NAL2FA61OBIET9OB7IUAH0ATT999RJ1Q NS DS RRSIG
-nagf9rr093512a2oth9usbbtp76ev7ao.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251001212507 20250910202507 45009 fitness. IVBZz+4Ucf+T33ljVutFuK3BtuvrnNnfck8xFt8irJzUZgWPf1/ZO01hNzlTTi1khiAhdUgWMKk1QCEp/Fu0mwFoM1C5015K/fAg5sUWmU3CJCvk+XusS3wE+OrUmFV/DJO8hJEl9bUvU2uz8XxDmYbqDBgru0VWw0SREkdutQY=
+nagf9rr093512a2oth9usbbtp76ev7ao.fitness.	3600	in	nsec3	1 1 0 73 NEM71JFBCHK65IOAIJQD61AQGFM1C00J NS DS RRSIG
+nagf9rr093512a2oth9usbbtp76ev7ao.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251002142958 20250911132958 45009 fitness. Cp08bvGEks7Ygo/jXBy6sD823+NyWlHnQXoKnMxNYv2Ov0NpWIKBvw+G/FHKFfdFn3fcvtGMKElnIfzsiXTeV3i+gkL7Nme5iNslrRG8o8KyAuSmoJCQer/9JTm/S3jeBja4Ylit4yGrCSfs+O2ArS1/UKTQRf6aqO+zKJ9C0wU=
 nagham.fitness.	3600	in	ns	ns1dnx.name.com.
 nagham.fitness.	3600	in	ns	ns2dqx.name.com.
 nagham.fitness.	3600	in	ns	ns3hjx.name.com.
 nagham.fitness.	3600	in	ns	ns4sxy.name.com.
 naked.fitness.	3600	in	ns	ns1.afternic.com.
 naked.fitness.	3600	in	ns	ns2.afternic.com.
-nal2fa61obiet9ob7iuah0att999rj1q.fitness.	3600	in	nsec3	1 1 0 73 NEM71JFBCHK65IOAIJQD61AQGFM1C00J NS DS RRSIG
-nal2fa61obiet9ob7iuah0att999rj1q.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251001212507 20250910202507 45009 fitness. ScgzheuFAA+KI/91zOnHprV9WypMdspveJ46jcYgMQYoQZ3NUC2xt3lnFYTJHv3UIIWfcjrz/ER9yFLvLpM5/OG8ba0N9TpgVlKBGr/g4pLaWuvUtHFYX9k8ozwLQQRb+l0wt/3gOXfwC+xIkjEzVLLffQRAPRQkNnY61ahxv+c=
 name.fitness.	3600	in	ns	ns1.name.com.
 name.fitness.	3600	in	ns	ns2.name.com.
 name.fitness.	3600	in	ns	ns3.name.com.
@@ -21810,8 +21803,8 @@ natimeo.fitness.	3600	in	ns	ns-238-a.gandi.net.
 natimeo.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. bWYtlI0FRtTqlRmAYbzNkmOxhcIb2vDi5sSUBI4iOQBvGLydTXaxBqw38bV7Yn6nb5fa+kyPuOejdtAweVpod1iufRKO0/aZgQLd/MfKvwGggYlLrx8Jv9Lt5Avt8A+4znukiVQRKaeDyxuGMAq2mviDj9yeb/IoMa4Cos/Eblg=
 nation.fitness.	3600	in	ns	ns35.domaincontrol.com.
 nation.fitness.	3600	in	ns	ns36.domaincontrol.com.
-native.fitness.	3600	in	ns	ns1.afternic.com.
-native.fitness.	3600	in	ns	ns2.afternic.com.
+native.fitness.	3600	in	ns	ns1.atom.com.
+native.fitness.	3600	in	ns	ns2.atom.com.
 natlive.fitness.	3600	in	ns	dns.technorail.com.
 natlive.fitness.	3600	in	ns	dns2.technorail.com.
 natlive.fitness.	3600	in	ns	dns3.arubadns.net.
@@ -21934,6 +21927,10 @@ neogym.fitness.	3600	in	ns	ns1.dns-de.de.
 neogym.fitness.	3600	in	ns	ns2.dns-de.de.
 neogym.fitness.	3600	in	ns	ns3.dns-de.de.
 neogym.fitness.	3600	in	ns	ns4.dns-de.de.
+neom.fitness.	3600	in	ds	37146 13 2 8CBA24247FE2306670CDB2D7460800D3F67EDF985F93140E306C926147835E1F
+neom.fitness.	3600	in	ns	launch1.spaceship.net.
+neom.fitness.	3600	in	ns	launch2.spaceship.net.
+neom.fitness.	3600	in	rrsig	DS 8 2 3600 20251002042746 20250911032746 45009 fitness. RYqhlsTPjmtM3TBDWf5Ch+i4xvKMf9NF/+bfwq9Y0Sw6suAfXrWV8lJ1dPuhnD1Vu68it45fbngA8OdZ3wrdiVCitQEd5Gwdk8FskYqiFCpn+R6z5Fx2s/aUV26DLhOksOXE6RWwPO5dCGyVTeRaLyhT70fEFnKcVIrgrZuuzgs=
 neomuscle.fitness.	3600	in	ns	ns1.dotster-default.domainparkingserver.net.
 neomuscle.fitness.	3600	in	ns	ns2.dotster-default.domainparkingserver.net.
 neon.fitness.	3600	in	ns	ns1.sawsells.com.
@@ -22799,8 +22796,8 @@ nxtlevel.fitness.	3600	in	ns	ns09.domaincontrol.com.
 nxtlevel.fitness.	3600	in	ns	ns10.domaincontrol.com.
 nxtlvl.fitness.	3600	in	ns	ns27.domaincontrol.com.
 nxtlvl.fitness.	3600	in	ns	ns28.domaincontrol.com.
-nyalabetarenazona.fitness.	3600	in	ns	gene.ns.cloudflare.com.
-nyalabetarenazona.fitness.	3600	in	ns	john.ns.cloudflare.com.
+nyalabetarenazona.fitness.	3600	in	ns	dns101.registrar-servers.com.
+nyalabetarenazona.fitness.	3600	in	ns	dns102.registrar-servers.com.
 nyamba.fitness.	3600	in	ds	21736 13 2 E12C7060DE53AFAE590C2285EFC1AC948756B78F6AB76BB5690BA8740DE10933
 nyamba.fitness.	3600	in	ns	ns-108-a.gandi.net.
 nyamba.fitness.	3600	in	ns	ns-179-b.gandi.net.
@@ -22833,12 +22830,10 @@ o-gym.fitness.	3600	in	ns	ns3.websupport.eu.
 o-gym.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. eB7eZ5Snvpb6JAnuqb9dCvHSAWYHQfuRePzh7yvX/1gaiySrJo+H+fLOsiB8a1DA2+699HiQFoQQW/js/WbvkPR2UWzUoo0Mp3qpN9lntE7ZXT1i1Wbi0PikhuONBrNtfOZC782ZMWJPyH1f8iIv6lqAbnlZRDS65v2Mk+7sMsY=
 o18ukav8m7ldlud7d7u6tsqigpt6tl2t.fitness.	3600	in	nsec3	1 1 0 73 O198HII2FR3JFPKVH3U9C8BNLOH24IFS NS DS RRSIG
 o18ukav8m7ldlud7d7u6tsqigpt6tl2t.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. gVayhvL3sTDcJePcZTtjVwa3ecr1vczr1OZmYiqkbmzgT8M9nPc5S3M3dcglKSa2M0IlZwRunAHOBl7FP8NIDAMeqEBCoRl2VoW1VYWju0HJcy4HBpWbxCJV4rpzGyhQdOrKbsuzvVqJdl3qN+n90/w7iyMObjt7tA6h2ORIZ8I=
-o198hii2fr3jfpkvh3u9c8bnloh24ifs.fitness.	3600	in	nsec3	1 1 0 73 O23JCNRJL6JKJLQC1ULT9ASPCBDR0GQ5 NS DS RRSIG
-o198hii2fr3jfpkvh3u9c8bnloh24ifs.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. FITDxdATVZ5yfJsiEfcjYsCSkqHCua4iqDWoxrt8kS54nQd+RAFYA34xmwh36HPagyZNRYTOTz9WN/RYUo6Fa2UWUrA/DYSHg7VDfQ2giZ7IZMYpimM8KuUrW20TBGioiX6KAkNvnaXGVsUsxI1YCoTdbqJVv5PX0Ha4r33pN5M=
+o198hii2fr3jfpkvh3u9c8bnloh24ifs.fitness.	3600	in	nsec3	1 1 0 73 O364TVTI0SKO4T0R3A2JM60N9V0R9PFA NS DS RRSIG
+o198hii2fr3jfpkvh3u9c8bnloh24ifs.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251002140845 20250911130845 45009 fitness. AHiQBTFgpDzDN5MBhy/Yf3jSWRLQqIJLDhO1NgYt+h9jUJ8ATAvThUEcIsSlmb+3z0mhCB+Byka8r/MzFVYfx22NFOHhh4rzz2DkcfPeuPOsY3twP7IgJIOXI4IK4CmSu2dZMOTlPjHr5zgP6lfjPyZvePOjdQcKCRLFvdZLxrM=
 o2.fitness.	3600	in	ns	ns73.domaincontrol.com.
 o2.fitness.	3600	in	ns	ns74.domaincontrol.com.
-o23jcnrjl6jkjlqc1ult9aspcbdr0gq5.fitness.	3600	in	nsec3	1 1 0 73 O364TVTI0SKO4T0R3A2JM60N9V0R9PFA NS DS RRSIG
-o23jcnrjl6jkjlqc1ult9aspcbdr0gq5.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. NBwj0jESzvW6VaakJ+AzxucCRfwMRmyIkhMS30HB+lvi9KuoOsaDoBRk0VcedLbpp4+z5WV++CBS/RFyo5C+Levs6ZFlrTRbBLP5alywPoFXgOXDXoVTQcRuyEK7soxAdE59wNjThmtQE5TE0eEuWJvIkCJpLnaPKuE/8HOOza8=
 o2fitnessclubs.fitness.	3600	in	ns	ns73.domaincontrol.com.
 o2fitnessclubs.fitness.	3600	in	ns	ns74.domaincontrol.com.
 o364tvti0sko4t0r3a2jm60n9v0r9pfa.fitness.	3600	in	nsec3	1 1 0 73 O66ODC8G52M28AM3LQV3CCLUHMC9MGS7 NS DS RRSIG
@@ -23293,8 +23288,8 @@ online-marketing.fitness.	3600	in	ns	ns.udag.net.
 online-marketing.fitness.	3600	in	ns	ns.udag.org.
 online-shop.fitness.	3600	in	ns	lady.ns.cloudflare.com.
 online-shop.fitness.	3600	in	ns	skip.ns.cloudflare.com.
-online.fitness.	3600	in	ns	ns1.sedoparking.com.
-online.fitness.	3600	in	ns	ns2.sedoparking.com.
+online.fitness.	3600	in	ns	ns1.afternic.com.
+online.fitness.	3600	in	ns	ns2.afternic.com.
 onlineclasses.fitness.	3600	in	ns	dns101.registrar-servers.com.
 onlineclasses.fitness.	3600	in	ns	dns102.registrar-servers.com.
 onlinegym.fitness.	3600	in	ns	ns-a.axcelx.net.
@@ -23817,8 +23812,8 @@ pantera.fitness.	3600	in	ns	ns1.reg.ru.
 pantera.fitness.	3600	in	ns	ns2.reg.ru.
 pantheon.fitness.	3600	in	ns	ns01.domaincontrol.com.
 pantheon.fitness.	3600	in	ns	ns02.domaincontrol.com.
-panther.fitness.	3600	in	ns	ns1.afternic.com.
-panther.fitness.	3600	in	ns	ns2.afternic.com.
+panther.fitness.	3600	in	ns	ns1.atom.com.
+panther.fitness.	3600	in	ns	ns2.atom.com.
 pantherinae.fitness.	3600	in	ns	dns1.p01.nsone.net.
 pantherinae.fitness.	3600	in	ns	dns2.p01.nsone.net.
 pantherinae.fitness.	3600	in	ns	dns3.p01.nsone.net.
@@ -24417,8 +24412,8 @@ pickitup.fitness.	3600	in	ns	ns3fhx.name.com.
 pickitup.fitness.	3600	in	ns	ns4kmw.name.com.
 pickle.fitness.	3600	in	ns	ns67.domaincontrol.com.
 pickle.fitness.	3600	in	ns	ns68.domaincontrol.com.
-pickleball.fitness.	3600	in	ns	ns1.siteground.net.
-pickleball.fitness.	3600	in	ns	ns2.siteground.net.
+pickleball.fitness.	3600	in	ns	ns1.dyna-ns.net.
+pickleball.fitness.	3600	in	ns	ns2.dyna-ns.net.
 picklepals.fitness.	3600	in	ns	ns-cloud-b1.googledomains.com.
 picklepals.fitness.	3600	in	ns	ns-cloud-b2.googledomains.com.
 picklepals.fitness.	3600	in	ns	ns-cloud-b3.googledomains.com.
@@ -25269,8 +25264,8 @@ product-market.fitness.	3600	in	ns	ns1jsv.name.com.
 product-market.fitness.	3600	in	ns	ns2jqz.name.com.
 product-market.fitness.	3600	in	ns	ns3sxz.name.com.
 product-market.fitness.	3600	in	ns	ns4dls.name.com.
-product.fitness.	3600	in	ns	ns1.bodis.com.
-product.fitness.	3600	in	ns	ns2.bodis.com.
+product.fitness.	3600	in	ns	ns1.dns-redirect.com.
+product.fitness.	3600	in	ns	ns2.dns-redirect.com.
 productmarket.fitness.	3600	in	ns	ns27.domaincontrol.com.
 productmarket.fitness.	3600	in	ns	ns28.domaincontrol.com.
 proesce.fitness.	3600	in	ns	dns1.uk2.net.
@@ -25322,8 +25317,6 @@ programs.fitness.	3600	in	ns	ns1.afternic.com.
 programs.fitness.	3600	in	ns	ns2.afternic.com.
 progress.fitness.	3600	in	ns	ns09.domaincontrol.com.
 progress.fitness.	3600	in	ns	ns10.domaincontrol.com.
-progression.fitness.	3600	in	ns	ns1-expired.sav.com.
-progression.fitness.	3600	in	ns	ns2-expired.sav.com.
 progressive.fitness.	3600	in	ns	ns5.afternic.com.
 progressive.fitness.	3600	in	ns	ns6.afternic.com.
 progresso.fitness.	3600	in	ns	ns45.domaincontrol.com.
@@ -25425,8 +25418,8 @@ proshop.fitness.	3600	in	ns	ns1.nexcess.net.
 proshop.fitness.	3600	in	ns	ns2.nexcess.net.
 proshop.fitness.	3600	in	ns	ns3.nexcess.net.
 proshop.fitness.	3600	in	ns	ns4.nexcess.net.
-prosper.fitness.	3600	in	ns	ns1.afternic.com.
-prosper.fitness.	3600	in	ns	ns2.afternic.com.
+prosper.fitness.	3600	in	ns	ns1.atom.com.
+prosper.fitness.	3600	in	ns	ns2.atom.com.
 prosto.fitness.	3600	in	ns	ns1.reg.ru.
 prosto.fitness.	3600	in	ns	ns2.reg.ru.
 protein.fitness.	3600	in	ns	launch1.spaceship.net.
@@ -25711,8 +25704,8 @@ pvga2185cc0acavr0auvfe16pijfducb.fitness.	3600	in	rrsig	NSEC3 8 2 3600 202509301
 pvolve.fitness.	3600	in	ns	ns.udag.de.
 pvolve.fitness.	3600	in	ns	ns.udag.net.
 pvolve.fitness.	3600	in	ns	ns.udag.org.
-pvp.fitness.	3600	in	ns	ns1.bodis.com.
-pvp.fitness.	3600	in	ns	ns2.bodis.com.
+pvp.fitness.	3600	in	ns	ns1.dns-redirect.com.
+pvp.fitness.	3600	in	ns	ns2.dns-redirect.com.
 pvpvjh9orh34lcj3kjiine7r73mqa0ht.fitness.	3600	in	nsec3	1 1 0 73 Q028I23QOM2KE3J1VDB96MGAMTL3H1F6 NS DS RRSIG
 pvpvjh9orh34lcj3kjiine7r73mqa0ht.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. DiNyRiSqFNTfzQVSoUXJxzPOz1n+3gR+wxlhwSB4XlAV6/OgMM4YfARmRrxyHqgg7d+1AlMBbjCFxt/vVkMhqW7kvkCIUy/il/9BWWgOlCE+940Cfk6l7QYi3d25aOFdLg7h3L8Tsjlpq1EX6RnuLH45jJzaebJiNbwU6JKPy2U=
 pwh.fitness.	3600	in	ns	dns1.namecheaphosting.com.
@@ -25740,14 +25733,12 @@ pzp.fitness.	3600	in	ns	ns-cloud-c1.googledomains.com.
 pzp.fitness.	3600	in	ns	ns-cloud-c2.googledomains.com.
 pzp.fitness.	3600	in	ns	ns-cloud-c3.googledomains.com.
 pzp.fitness.	3600	in	ns	ns-cloud-c4.googledomains.com.
-q028i23qom2ke3j1vdb96mgamtl3h1f6.fitness.	3600	in	nsec3	1 1 0 73 Q17GSKUR47JSRQ4KUBD2GPUSBAIDC4HQ NS DS RRSIG
-q028i23qom2ke3j1vdb96mgamtl3h1f6.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251001212507 20250910202507 45009 fitness. guZzwwstYbT9JUb2oniCMYUAXSbFUQ3RwKnFL2Vgu/stbYqmcrzVnp7FnlM40BLQCdrZunLMoRYToZ6ySKBcBBkEMzrYTmck//mWjLpWWDZGuPyH3znAwPK+gssVm5PdxtsR4rncMDWFCtQuAscwwO/C5TP4F5Diw8/jh8Ln1WQ=
+q028i23qom2ke3j1vdb96mgamtl3h1f6.fitness.	3600	in	nsec3	1 1 0 73 Q1E9G50UT813MBE6N0EJLPGD8A13BJ1R NS DS RRSIG
+q028i23qom2ke3j1vdb96mgamtl3h1f6.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251002141926 20250911131926 45009 fitness. fqM1sjVN/SRQfxUvTCPquEgMlz1svI94QDLnOir5Y6l5pFAkKFwdY/fTS9jWcaCwOr9TVEvlphDveDZISGGi6iBRAzV+dH1QbW47T4H3H2ZK8lb5FS25JJj+BZO0xgRC8H0EmcT5FRtgSnv+nVKs0DGEDVnB2XSiDRS5PYFdKxg=
 q10.fitness.	3600	in	ns	ns1018.ui-dns.biz.
 q10.fitness.	3600	in	ns	ns1077.ui-dns.com.
 q10.fitness.	3600	in	ns	ns1092.ui-dns.org.
 q10.fitness.	3600	in	ns	ns1113.ui-dns.de.
-q17gskur47jsrq4kubd2gpusbaidc4hq.fitness.	3600	in	nsec3	1 1 0 73 Q1E9G50UT813MBE6N0EJLPGD8A13BJ1R NS DS RRSIG
-q17gskur47jsrq4kubd2gpusbaidc4hq.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251001212507 20250910202507 45009 fitness. M4W7puGFFvBO3btO4Sehrt8f8n/P6wkULkOFmMm5rEyJ6mo6i1bmqKfEl7RPAvnQUO3YRrjdi3Vm1oS3IVIh39NUuE3rhjZUREsUuOpnTQBUGqypPppCSKiACKJBz9eOWRDvMAE/ysP9FXfGsOjXRr0CcPR4+gaUaep0bh8sCcw=
 q1e9g50ut813mbe6n0ejlpgd8a13bj1r.fitness.	3600	in	nsec3	1 1 0 73 Q1LSFMV18NJDUSSQH1OOJ7BF8F9DASJD NS DS RRSIG
 q1e9g50ut813mbe6n0ejlpgd8a13bj1r.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. bo26TuvTh5mn2+gozg4ICbvB82weoAtKCovd2KOD0dEy6nSQ4Zcvs8g46EloHqYyRZzQlcFlVKkDUney4vne5AOzvrkP/MURtqUscyFKhw9HZTdMVQWhjDDwAuVSfQxAO+XJeJ7+UDu97930kvCIOVQIG9FdOmfp1IOM0KRN3DY=
 q1lsfmv18njdussqh1ooj7bf8f9dasjd.fitness.	3600	in	nsec3	1 1 0 73 Q3R12ENPT4AIGJNHNBUQS8J4334NOFHO NS DS RRSIG
@@ -25965,8 +25956,8 @@ radiate.fitness.	3600	in	ns	ns-cloud-a2.googledomains.com.
 radiate.fitness.	3600	in	ns	ns-cloud-a3.googledomains.com.
 radiate.fitness.	3600	in	ns	ns-cloud-a4.googledomains.com.
 radiate.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. SK95e2w+P7+g3JeVvk6cvaO7L6BHaX/F+1Su8/e5ij6ghX65hlBxJA+/lgnSmD0y4Cc0ap1Wm40Bqzur6irQYWYOLkFaUfFvAb+PsQjCTUehx1cauQeS4/iaW8w/Poy58vF1ii694QO/hJdYAkRDkqH0NtO3z7I939/c1Zg3KeM=
-radical.fitness.	3600	in	ns	ns1.afternic.com.
-radical.fitness.	3600	in	ns	ns2.afternic.com.
+radical.fitness.	3600	in	ns	ns1.atom.com.
+radical.fitness.	3600	in	ns	ns2.atom.com.
 radicalhome.fitness.	3600	in	ns	ns01.domaincontrol.com.
 radicalhome.fitness.	3600	in	ns	ns02.domaincontrol.com.
 radio.fitness.	3600	in	ns	ns-cloud-c1.googledomains.com.
@@ -26244,6 +26235,8 @@ rebirth.fitness.	3600	in	ns	ns8.wixdns.net.
 rebirth.fitness.	3600	in	ns	ns9.wixdns.net.
 rebirthperformance.fitness.	3600	in	ns	doug.ns.cloudflare.com.
 rebirthperformance.fitness.	3600	in	ns	melinda.ns.cloudflare.com.
+rebody.fitness.	3600	in	ns	dns1.registrar-servers.com.
+rebody.fitness.	3600	in	ns	dns2.registrar-servers.com.
 reboot.fitness.	3600	in	ns	ns1.afternic.com.
 reboot.fitness.	3600	in	ns	ns2.afternic.com.
 rebootbootcamp.fitness.	3600	in	ns	ns1027.ui-dns.com.
@@ -26349,6 +26342,8 @@ redfox.fitness.	3600	in	ns	dns1.p01.nsone.net.
 redfox.fitness.	3600	in	ns	dns2.p01.nsone.net.
 redfox.fitness.	3600	in	ns	dns3.p01.nsone.net.
 redfox.fitness.	3600	in	ns	dns4.p01.nsone.net.
+redi.fitness.	3600	in	ns	ns37.domaincontrol.com.
+redi.fitness.	3600	in	ns	ns38.domaincontrol.com.
 redlight.fitness.	3600	in	ns	dns1.registrar-servers.com.
 redlight.fitness.	3600	in	ns	dns2.registrar-servers.com.
 redline.fitness.	3600	in	ns	dns1.p03.nsone.net.
@@ -26672,8 +26667,6 @@ restoration.fitness.	3600	in	ns	dns101.registrar-servers.com.
 restoration.fitness.	3600	in	ns	dns102.registrar-servers.com.
 restorative.fitness.	3600	in	ns	derek.ns.cloudflare.com.
 restorative.fitness.	3600	in	ns	wren.ns.cloudflare.com.
-restore.fitness.	3600	in	ns	ns1-expired.sav.com.
-restore.fitness.	3600	in	ns	ns2-expired.sav.com.
 restored.fitness.	3600	in	ns	dns1.registrar-servers.com.
 restored.fitness.	3600	in	ns	dns2.registrar-servers.com.
 resultsbased.fitness.	3600	in	ns	ns1028.ui-dns.biz.
@@ -26840,8 +26833,8 @@ rhb.fitness.	3600	in	ns	ns49.domaincontrol.com.
 rhb.fitness.	3600	in	ns	ns50.domaincontrol.com.
 rhein.fitness.	3600	in	ns	nina.ns.cloudflare.com.
 rhein.fitness.	3600	in	ns	rick.ns.cloudflare.com.
-rhino.fitness.	3600	in	ns	ns1.afternic.com.
-rhino.fitness.	3600	in	ns	ns2.afternic.com.
+rhino.fitness.	3600	in	ns	ns1.atom.com.
+rhino.fitness.	3600	in	ns	ns2.atom.com.
 rhodes.fitness.	3600	in	ns	ns1.usm94.siteground.biz.
 rhodes.fitness.	3600	in	ns	ns2.usm94.siteground.biz.
 rhs87ekdr0jrttr0ai1q8lq5fegs4uin.fitness.	3600	in	nsec3	1 1 0 73 RJORADPHQ754BCU315FBQI933S3J0LTK NS DS RRSIG
@@ -27771,8 +27764,8 @@ satoshi.fitness.	3600	in	ns	dns1.registrar-servers.com.
 satoshi.fitness.	3600	in	ns	dns2.registrar-servers.com.
 saudi.fitness.	3600	in	ns	ns41.domaincontrol.com.
 saudi.fitness.	3600	in	ns	ns42.domaincontrol.com.
-saul.fitness.	3600	in	ns	ns1.bluehost.com.
-saul.fitness.	3600	in	ns	ns2.bluehost.com.
+saul.fitness.	3600	in	ns	ns37.domaincontrol.com.
+saul.fitness.	3600	in	ns	ns38.domaincontrol.com.
 saultena.fitness.	3600	in	ns	ns47.domaincontrol.com.
 saultena.fitness.	3600	in	ns	ns48.domaincontrol.com.
 sauna.fitness.	3600	in	ns	ns1.dyna-ns.net.
@@ -28838,8 +28831,8 @@ smilex.fitness.	3600	in	ns	ns-de.1and1-dns.de.
 smilex.fitness.	3600	in	ns	ns-de.1and1-dns.org.
 smiley.fitness.	3600	in	ns	ns1.aj423.parklogic.com.
 smiley.fitness.	3600	in	ns	ns2.aj423.parklogic.com.
-smith.fitness.	3600	in	ns	ns1.afternic.com.
-smith.fitness.	3600	in	ns	ns2.afternic.com.
+smith.fitness.	3600	in	ns	ns1.atom.com.
+smith.fitness.	3600	in	ns	ns2.atom.com.
 smitheo.fitness.	3600	in	ns	dns1.registrar-servers.com.
 smitheo.fitness.	3600	in	ns	dns2.registrar-servers.com.
 smittysolutions.fitness.	3600	in	ns	ns3.noraahost.com.
@@ -29133,8 +29126,8 @@ soulspace.fitness.	3600	in	ns	ns3.a2hosting.com.
 soulspace.fitness.	3600	in	ns	ns4.a2hosting.com.
 soultemple.fitness.	3600	in	ns	ns29.domaincontrol.com.
 soultemple.fitness.	3600	in	ns	ns30.domaincontrol.com.
-sound.fitness.	3600	in	ns	ns1.afternic.com.
-sound.fitness.	3600	in	ns	ns2.afternic.com.
+sound.fitness.	3600	in	ns	ns1.atom.com.
+sound.fitness.	3600	in	ns	ns2.atom.com.
 soundmindbody.fitness.	3600	in	ns	ns43.domaincontrol.com.
 soundmindbody.fitness.	3600	in	ns	ns44.domaincontrol.com.
 source.fitness.	3600	in	ns	ns1.atom.com.
@@ -29215,8 +29208,8 @@ spartan.fitness.	3600	in	ns	ns-200.awsdns-25.com.
 spartan.fitness.	3600	in	ns	ns-799.awsdns-35.net.
 spartn.fitness.	3600	in	ns	dns1.registrar-servers.com.
 spartn.fitness.	3600	in	ns	dns2.registrar-servers.com.
-spatial.fitness.	3600	in	ns	ns1.atom.com.
-spatial.fitness.	3600	in	ns	ns2.atom.com.
+spatial.fitness.	3600	in	ns	ns1-expired.sav.com.
+spatial.fitness.	3600	in	ns	ns2-expired.sav.com.
 spb-sup.fitness.	3600	in	ns	ns1.reg.ru.
 spb-sup.fitness.	3600	in	ns	ns2.reg.ru.
 spcm7dpcumdp0v6hij85ub60gbr7j2tq.fitness.	3600	in	nsec3	1 1 0 73 SPQIV7STO2L9BTB0OPPSSO1R9O8VVS41 NS DS RRSIG
@@ -29241,8 +29234,8 @@ spec.fitness.	3600	in	ns	ns-cloud-c2.googledomains.com.
 spec.fitness.	3600	in	ns	ns-cloud-c3.googledomains.com.
 spec.fitness.	3600	in	ns	ns-cloud-c4.googledomains.com.
 spec.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. avConQRECCe5tEoDSAteU+7y+6nS/R5+2/na1Q5yXij133hsmMGZzGEuwjt/4AL0k1OJXfLMosACfmIMyEML/yyzLOaDST1kSaS1U9USMFUMBRhSJxaEDDXRH8yCnsMDEYfWjtsUvTYLSxrr2Mj014SVbG/PIsgVx7gCblLVB7E=
-special.fitness.	3600	in	ns	ns1.afternic.com.
-special.fitness.	3600	in	ns	ns2.afternic.com.
+special.fitness.	3600	in	ns	ns1.atom.com.
+special.fitness.	3600	in	ns	ns2.atom.com.
 specialistoutdoor.fitness.	3600	in	ns	ns63.domaincontrol.com.
 specialistoutdoor.fitness.	3600	in	ns	ns64.domaincontrol.com.
 specialized.fitness.	3600	in	ds	62106 13 2 69EE05F43286DBEF3E018CCA2DE911E537E7E2F3C392BB453C8C5EABEAC87393
@@ -29808,6 +29801,8 @@ storytime.fitness.	3600	in	ns	salvador.ns.porkbun.com.
 stpete.fitness.	3600	in	ns	ns1.stellar.hosting.
 stpete.fitness.	3600	in	ns	ns2.stellar.hosting.
 stpete.fitness.	3600	in	ns	ns3.stellar.hosting.
+straightup.fitness.	3600	in	ns	dns1.registrar-servers.com.
+straightup.fitness.	3600	in	ns	dns2.registrar-servers.com.
 strategicallylean.fitness.	3600	in	ns	ns1.livedns.co.uk.
 strategicallylean.fitness.	3600	in	ns	ns2.livedns.co.uk.
 strategicallylean.fitness.	3600	in	ns	ns3.livedns.co.uk.
@@ -29887,8 +29882,8 @@ strictlyphysical.fitness.	3600	in	ds	2371 13 2 02CAF5E7CF9171BFCC116BBCA2CC2C993
 strictlyphysical.fitness.	3600	in	ns	jamie.ns.cloudflare.com.
 strictlyphysical.fitness.	3600	in	ns	mitch.ns.cloudflare.com.
 strictlyphysical.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. jYuMPkCsM5fRGg47KSlH3kpLuKySeGRJkzPS7tdRAHv5+jKcncrqJrBiB7BoT5D2Sg98doQzdASvrd70ck336oXyZj4ZtwljmhKTa6kQvMFq8pKWnot12Mo9xYSexB58M78Pr47GRrgP/FYiuOAnH3FoSXw4hc2SdZefm64pDIM=
-stride.fitness.	3600	in	ns	ns1.afternic.com.
-stride.fitness.	3600	in	ns	ns2.afternic.com.
+stride.fitness.	3600	in	ns	ns1.atom.com.
+stride.fitness.	3600	in	ns	ns2.atom.com.
 stripe.fitness.	3600	in	ns	ns11.domaincontrol.com.
 stripe.fitness.	3600	in	ns	ns12.domaincontrol.com.
 strit.fitness.	3600	in	ns	ns1.mojsite.com.
@@ -30308,8 +30303,8 @@ sushi.fitness.	3600	in	ns	docks16.rzone.de.
 sushi.fitness.	3600	in	ns	shades15.rzone.de.
 suspensionflow.fitness.	3600	in	ns	ns.freeparking.co.nz.
 suspensionflow.fitness.	3600	in	ns	ns2.freeparking.co.nz.
-sustainable.fitness.	3600	in	ns	ns1.afternic.com.
-sustainable.fitness.	3600	in	ns	ns2.afternic.com.
+sustainable.fitness.	3600	in	ns	ns1.atom.com.
+sustainable.fitness.	3600	in	ns	ns2.atom.com.
 sustainabull.fitness.	3600	in	ds	30325 8 2 7E3F32CC95F7856F9B9F4974C6A913D84025DB56A6D0C7EDD7B52E8279199ACE
 sustainabull.fitness.	3600	in	ns	ns-cloud-a1.googledomains.com.
 sustainabull.fitness.	3600	in	ns	ns-cloud-a2.googledomains.com.
@@ -30356,8 +30351,8 @@ svg.fitness.	3600	in	ns	ns01.squarespacedns.com.
 svg.fitness.	3600	in	ns	ns02.squarespacedns.com.
 svg.fitness.	3600	in	ns	ns03.squarespacedns.com.
 svg.fitness.	3600	in	ns	ns04.squarespacedns.com.
-svns6amdkc1jgpstl11rcvasr41ejnhb.fitness.	3600	in	nsec3	1 1 0 73 T2MCFN9D3B2J1O73M8VCG8ORT9GPCI7J NS DS RRSIG
-svns6amdkc1jgpstl11rcvasr41ejnhb.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. B/njPC80JAomTCb2Y2xM2iyPTV5tp+k8Nb5uGyjqhXQ3LyLB2lbKi0IVD+QtiNBDNQDxgUN2ltjZavN4n6JHlvWVOFkpoNyLKQV48r+vc+jXJP+uuXy+w0r7kUIutIHHf+dRC3LPzVz/Q+CSps5sWHugbM0o9S9bN1AQQ61jBPM=
+svns6amdkc1jgpstl11rcvasr41ejnhb.fitness.	3600	in	nsec3	1 1 0 73 T1V1SIOF8SGN7217QN3HA2MS7E0TLD8N NS DS RRSIG
+svns6amdkc1jgpstl11rcvasr41ejnhb.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251002042746 20250911032746 45009 fitness. FNWu0Ox/2weUnmkY5Mo7PWvrctwY7Wnj2sjo50NiPrgOXg0NLaUtXt0AnQnFuk6X8xcUtkhXRMkMaRZ0CZTpVgMe/+HP354WyA4mtc7Qu9qB4AbLkPF160yRD0dfFA7PoRX2RMp0hxMi7UbQfIJ/fAyr27VZo/pzLNfy9s0kWQk=
 svoboda.fitness.	3600	in	ns	ns1.beget.com.
 svoboda.fitness.	3600	in	ns	ns1.beget.pro.
 svoboda.fitness.	3600	in	ns	ns2.beget.com.
@@ -30559,6 +30554,8 @@ t1.fitness.	3600	in	ns	ns1643.bwfdns.net.
 t1.fitness.	3600	in	ns	ns1644.bwfdns.net.
 t12.fitness.	3600	in	ns	ns1.dns-parking.com.
 t12.fitness.	3600	in	ns	ns2.dns-parking.com.
+t1v1siof8sgn7217qn3ha2ms7e0tld8n.fitness.	3600	in	nsec3	1 1 0 73 T2MCFN9D3B2J1O73M8VCG8ORT9GPCI7J NS DS RRSIG
+t1v1siof8sgn7217qn3ha2ms7e0tld8n.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20251002042746 20250911032746 45009 fitness. Gv6IA2CJM9rfB6IywhWgNIxpmNbQrV15FJ9yFSK2CZCWWmhX76cm3cmy9D9sfOaMbGzAQYa6RyHhwzEJPfXfw5kLmJPhEXGIoT6EJZkAE2c8ETo7xPJDlTqlAkcn+fR3Hri3CkWZc+H6nBzTDcr34HGsgQdMaHG7TSvm8LdfQZE=
 t2mcfn9d3b2j1o73m8vcg8ort9gpci7j.fitness.	3600	in	nsec3	1 1 0 73 T560POTTNTROAL9299MHPKHQL3TDCU0D NS DS RRSIG
 t2mcfn9d3b2j1o73m8vcg8ort9gpci7j.fitness.	3600	in	rrsig	NSEC3 8 2 3600 20250930152608 20250909142608 45009 fitness. IfDTkQBIXkD2i2IURgTBN0P8z9l0wOly6iO1P9Xbao09zX5nmX2/5oXUvt5ETbWJar/aIDm3iVdSL3HKYpvQBVOSVlPpzFyl+hbvqI2i3YOK0pwPnDe9dl3StmfnjOVEeGMu2UvsX21+zALkWV49hrF73StlHRGJhhUy+TdwVHY=
 t3.fitness.	3600	in	ns	launch1.spaceship.net.
@@ -30835,8 +30832,8 @@ tekno.fitness.	3600	in	ns	dns102.ovh.net.
 tekno.fitness.	3600	in	ns	ns102.ovh.net.
 teko.fitness.	3600	in	ns	ns4.wixdns.net.
 teko.fitness.	3600	in	ns	ns5.wixdns.net.
-tele.fitness.	3600	in	ns	ns1.afternic.com.
-tele.fitness.	3600	in	ns	ns2.afternic.com.
+tele.fitness.	3600	in	ns	ns1.atom.com.
+tele.fitness.	3600	in	ns	ns2.atom.com.
 telemetry.fitness.	3600	in	ns	ns8.wixdns.net.
 telemetry.fitness.	3600	in	ns	ns9.wixdns.net.
 tema.fitness.	3600	in	ns	dns1.registrar-servers.com.
@@ -31191,8 +31188,8 @@ thekickhouse.fitness.	3600	in	ns	ns47.domaincontrol.com.
 thekickhouse.fitness.	3600	in	ns	ns48.domaincontrol.com.
 thekingdom.fitness.	3600	in	ns	chloe.ns.cloudflare.com.
 thekingdom.fitness.	3600	in	ns	jay.ns.cloudflare.com.
-thelab.fitness.	3600	in	ns	ns1.bodis.com.
-thelab.fitness.	3600	in	ns	ns2.bodis.com.
+thelab.fitness.	3600	in	ns	ns1.dns-redirect.com.
+thelab.fitness.	3600	in	ns	ns2.dns-redirect.com.
 thelastrep.fitness.	3600	in	ds	50089 13 2 383A8CF816EEBC18547FCCC03B16639D4B67169A12A709ACF66C14AAE5C6AF7C
 thelastrep.fitness.	3600	in	ns	launch1.spaceship.net.
 thelastrep.fitness.	3600	in	ns	launch2.spaceship.net.
@@ -31469,8 +31466,8 @@ thisweekin.fitness.	3600	in	ns	ns2.hover.com.
 thisweekin.fitness.	3600	in	ns	ns3.hover.com.
 thoinguyen.fitness.	3600	in	ns	dns1.registrar-servers.com.
 thoinguyen.fitness.	3600	in	ns	dns2.registrar-servers.com.
-thomas.fitness.	3600	in	ns	ns1.afternic.com.
-thomas.fitness.	3600	in	ns	ns2.afternic.com.
+thomas.fitness.	3600	in	ns	ns1.atom.com.
+thomas.fitness.	3600	in	ns	ns2.atom.com.
 thonyqr.fitness.	3600	in	ns	ariella.ns.cloudflare.com.
 thonyqr.fitness.	3600	in	ns	jermaine.ns.cloudflare.com.
 thor.fitness.	3600	in	ns	clay.ns.cloudflare.com.
@@ -31512,8 +31509,8 @@ thuis.fitness.	3600	in	ns	ns0.transip.net.
 thuis.fitness.	3600	in	ns	ns1.transip.nl.
 thuis.fitness.	3600	in	ns	ns2.transip.eu.
 thuis.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. gwnv3ewDX8Hk1wK+DPID+ln3rrhzeE60odnFSvV4IuGV/8e/BvTHtW534ikCJILiW3uFYmx5AxG9LmIfk++Trfl8oYrgRcayzgul528hDM5NwxxY5Gccm2P5VBuJxiLx2ESbL+TrA7f5O6UqnjuxxM7satskA5DkfLLCens/XS4=
-thunder.fitness.	3600	in	ns	ns1.afternic.com.
-thunder.fitness.	3600	in	ns	ns2.afternic.com.
+thunder.fitness.	3600	in	ns	ns1.atom.com.
+thunder.fitness.	3600	in	ns	ns2.atom.com.
 thundermisthealth.fitness.	3600	in	ns	ns17.domaincontrol.com.
 thundermisthealth.fitness.	3600	in	ns	ns18.domaincontrol.com.
 thunderwave.fitness.	3600	in	ns	ns-cloud-e1.googledomains.com.
@@ -32118,8 +32115,8 @@ trainyourvessel.fitness.	3600	in	ns	ns-cloud-d4.googledomains.com.
 trainyourvessel.fitness.	3600	in	rrsig	DS 8 2 3600 20250930152608 20250909142608 45009 fitness. ZwCPQBSCeBCMXA+r7Gv2iFCFHoMGhmIHQSDsYaIhfJhLDej/M8VpoU5SKb6jbj4yTCtWsvVthWKvfJFhpWopqOZnJY+8U9w5H9nb2OhKe/zGMSzw5KHLmqVsuj0WUizDyL60Wvafrz5tDNjj6Gi8usBSLPAN9dgzxJ1PLnbxEZ8=
 trak.fitness.	3600	in	ns	dns10.ovh.ca.
 trak.fitness.	3600	in	ns	ns10.ovh.ca.
-tramp2lean.fitness.	3600	in	ns	ns1.afternic.com.
-tramp2lean.fitness.	3600	in	ns	ns2.afternic.com.
+tramp2lean.fitness.	3600	in	ns	170.ns1.abovedomains.com.
+tramp2lean.fitness.	3600	in	ns	170.ns2.abovedomains.com.
 trampolin.fitness.	3600	in	ns	ns01.nethosting4you.de.
 trampolin.fitness.	3600	in	ns	ns02.nethosting4you.de.
 trampolin.fitness.	3600	in	ns	ns03.nethosting4you.de.
@@ -32450,8 +32447,8 @@ tumblr.fitness.	3600	in	ns	ns3.tumblr.com.
 tumblr.fitness.	3600	in	ns	ns4.tumblr.com.
 tummy.fitness.	3600	in	ns	dns1.registrar-servers.com.
 tummy.fitness.	3600	in	ns	dns2.registrar-servers.com.
-tune.fitness.	3600	in	ns	ns1.afternic.com.
-tune.fitness.	3600	in	ns	ns2.afternic.com.
+tune.fitness.	3600	in	ns	ns1.atom.com.
+tune.fitness.	3600	in	ns	ns2.atom.com.
 tunguska.fitness.	3600	in	ns	ns27.domaincontrol.com.
 tunguska.fitness.	3600	in	ns	ns28.domaincontrol.com.
 tunturi.fitness.	3600	in	ds	53926 8 2 066440D4F14CBA46C4F9129F58352AEC8363325226BAD50649926FDB59E432A3
@@ -33153,8 +33150,8 @@ vedran.fitness.	3600	in	ns	ns71.domaincontrol.com.
 vedran.fitness.	3600	in	ns	ns72.domaincontrol.com.
 vegains.fitness.	3600	in	ns	dns1.registrar-servers.com.
 vegains.fitness.	3600	in	ns	dns2.registrar-servers.com.
-vegamovies.fitness.	3600	in	ns	elisa.ns.cloudflare.com.
-vegamovies.fitness.	3600	in	ns	johnathan.ns.cloudflare.com.
+vegamovies.fitness.	3600	in	ns	dns101.registrar-servers.com.
+vegamovies.fitness.	3600	in	ns	dns102.registrar-servers.com.
 vegan.fitness.	3600	in	ns	ns1.dan.com.
 vegan.fitness.	3600	in	ns	ns2.dan.com.
 vegas.fitness.	3600	in	ns	ns1.sav.com.
@@ -33733,6 +33730,10 @@ vvz.fitness.	3600	in	ns	ns3.websupport.sk.
 vyb.fitness.	3600	in	ns	ns.udag.de.
 vyb.fitness.	3600	in	ns	ns.udag.net.
 vyb.fitness.	3600	in	ns	ns.udag.org.
+vyda.fitness.	3600	in	ns	mrddns001.misterdomain.eu.
+vyda.fitness.	3600	in	ns	mrddns002.misterdomain.eu.
+vyda.fitness.	3600	in	ns	mrddns003.misterdomain.eu.
+vyda.fitness.	3600	in	ns	mrddns004.misterdomain.eu.
 vyledge.fitness.	3600	in	ns	ns57.domaincontrol.com.
 vyledge.fitness.	3600	in	ns	ns58.domaincontrol.com.
 vyqra.fitness.	3600	in	ns	ns1.dreamhost.com.
@@ -33954,8 +33955,8 @@ webify.fitness.	3600	in	ns	ns2.hover.com.
 webshop.fitness.	3600	in	ns	ns1.sudos.co.
 webshop.fitness.	3600	in	ns	ns2.sudos.co.
 webshop.fitness.	3600	in	ns	verification-tt3ritgz01.ns3.sudos.me.
-websites.fitness.	3600	in	ns	ns1.bodis.com.
-websites.fitness.	3600	in	ns	ns2.bodis.com.
+websites.fitness.	3600	in	ns	ns1.dns-redirect.com.
+websites.fitness.	3600	in	ns	ns2.dns-redirect.com.
 websupport.fitness.	3600	in	ns	ns1.websupport.sk.
 websupport.fitness.	3600	in	ns	ns2.websupport.sk.
 websupport.fitness.	3600	in	ns	ns3.websupport.sk.
@@ -33972,10 +33973,6 @@ wedge.fitness.	3600	in	ns	ns2.websupport.sk.
 wedge.fitness.	3600	in	ns	ns3.websupport.sk.
 wedo.fitness.	3600	in	ns	ns1.dan.com.
 wedo.fitness.	3600	in	ns	ns2.dan.com.
-weed.fitness.	3600	in	ns	curitiba.ns.porkbun.com.
-weed.fitness.	3600	in	ns	fortaleza.ns.porkbun.com.
-weed.fitness.	3600	in	ns	maceio.ns.porkbun.com.
-weed.fitness.	3600	in	ns	salvador.ns.porkbun.com.
 weekendwarrior.fitness.	3600	in	ns	ns35.domaincontrol.com.
 weekendwarrior.fitness.	3600	in	ns	ns36.domaincontrol.com.
 weekendwarriors.fitness.	3600	in	ns	ns17.domaincontrol.com.
@@ -35179,8 +35176,8 @@ zanzibar.fitness.	3600	in	ns	adam.ns.cloudflare.com.
 zanzibar.fitness.	3600	in	ns	adel.ns.cloudflare.com.
 zaya.fitness.	3600	in	ns	dns1.registrar-servers.com.
 zaya.fitness.	3600	in	ns	dns2.registrar-servers.com.
-zeal.fitness.	3600	in	ns	ns1.afternic.com.
-zeal.fitness.	3600	in	ns	ns2.afternic.com.
+zeal.fitness.	3600	in	ns	ns1.atom.com.
+zeal.fitness.	3600	in	ns	ns2.atom.com.
 zebra.fitness.	3600	in	ns	ns1.sprinthost.ru.
 zebra.fitness.	3600	in	ns	ns2.sprinthost.ru.
 zebra.fitness.	3600	in	ns	ns3.sprinthost.net.
@@ -35201,10 +35198,8 @@ zenhealth.fitness.	3600	in	ns	ns-cloud-a1.googledomains.com.
 zenhealth.fitness.	3600	in	ns	ns-cloud-a2.googledomains.com.
 zenhealth.fitness.	3600	in	ns	ns-cloud-a3.googledomains.com.
 zenhealth.fitness.	3600	in	ns	ns-cloud-a4.googledomains.com.
-zenith.fitness.	3600	in	ds	34101 13 2 978CB688EB57950E7946F0F43F8D0320E0A5083057022F5BF309FC738A4B3857
-zenith.fitness.	3600	in	ns	launch1.spaceship.net.
-zenith.fitness.	3600	in	ns	launch2.spaceship.net.
-zenith.fitness.	3600	in	rrsig	DS 8 2 3600 20251001212507 20250910202507 45009 fitness. JhRU3/g2Z6AACS92elAYvW49gfkFAMp4xCpiLCIl6GI0Em8EtTZX5858ntgnLUka1PvLyYyolgAZtaoBtSENh5wRqfMgp65MQHhgTJp1EEJ/RuRbftqkO1U3/sVMtrnQPT7VDR4XvZHbjmDW45Ad21ga3GM9ScfC2EG7xPIfbP4=
+zenith.fitness.	3600	in	ns	ns1.afternic.com.
+zenith.fitness.	3600	in	ns	ns2.afternic.com.
 zenkie.fitness.	3600	in	ns	ns1.dyna-ns.net.
 zenkie.fitness.	3600	in	ns	ns2.dyna-ns.net.
 zenlabs.fitness.	3600	in	ns	ns43.domaincontrol.com.
@@ -35353,4 +35348,4 @@ zyf.fitness.	3600	in	ns	nsn1.mijndomein.nl.
 zyf.fitness.	3600	in	ns	nsn2.mijndomein.nl.
 zzyzx.fitness.	3600	in	ns	ns09.domaincontrol.com.
 zzyzx.fitness.	3600	in	ns	ns10.domaincontrol.com.
-fitness.	3600	in	soa	v0n0.nic.fitness. hostmaster.donuts.email. 1757552641 7200 900 1209600 3600
+fitness.	3600	in	soa	v0n0.nic.fitness. hostmaster.donuts.email. 1757638851 7200 900 1209600 3600
