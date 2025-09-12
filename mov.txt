@@ -1,4 +1,4 @@
-mov.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2025091010 21600 3600 259200 900
+mov.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2025091110 21600 3600 259200 900
 0000.mov.	10800	in	ns	lara.ns.cloudflare.com.
 0000.mov.	10800	in	ns	roman.ns.cloudflare.com.
 0000.mov.	900	in	ds	2371 13 2 4B14B66263CC19F49290729E52B6B4FB37ECA5CD9498514081BE44B428B29279
@@ -643,8 +643,8 @@ mov.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.googl
 123.mov.	10800	in	ns	ns4fmw.name.com.
 123b.mov.	10800	in	ns	ns1.fp261.parklogic.com.
 123b.mov.	10800	in	ns	ns2.fp261.parklogic.com.
-123b1.mov.	10800	in	ns	dns1.registrar-servers.com.
-123b1.mov.	10800	in	ns	dns2.registrar-servers.com.
+123b1.mov.	10800	in	ns	chan.ns.cloudflare.com.
+123b1.mov.	10800	in	ns	joaquin.ns.cloudflare.com.
 123movie.mov.	10800	in	ns	betty.ns.cloudflare.com.
 123movie.mov.	10800	in	ns	roan.ns.cloudflare.com.
 12421.mov.	10800	in	ns	n1.xundns.com.
@@ -2848,8 +2848,10 @@ mov.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.googl
 4tqob7stgdv09mos8j4jljv1u5jrdrl0.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. AEzQP6NnNGyQtbxIyWzR7rngJF9L1cibcYkH7Goap34mRUbquAXXv+NonCL2TEOutEXBdzif41tIoAnFU1cUWSJyhFJO8AGlbQloWS3M2ZD3H/ItZ4+DKS3GeS7hOJ34mQl7qvBtmT+9cTY2Us38p5FJAbJMVjNKuVFxUHjOFQQ=
 4u1tsg167s0t709l4fvp0pjiuci9bkg3.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 4U5RVG5KFPMJ1U0SC7207DF64H9HC4EJ NS
 4u1tsg167s0t709l4fvp0pjiuci9bkg3.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. TeYThqjY3ktcGRSEEH2gMebwDFpaUdwUqaDTNd5R1N6Ha+TfNm3Sv1t8bUTkN/qgiK3LOTA3t5B1k+p+2uYht8dYwwSQpxJaSrXZ3lmd0vaYyuJ4852Ts7GImuT8U2Dn1dj4BYEwj+4FRRjimni29Kekon1TEoliMgbHGk650ug=
-4u5rvg5kfpmj1u0sc7207df64h9hc4ej.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 4U8GRUH83PFP9NKRPMSILV5IGH5C2KCP NS
-4u5rvg5kfpmj1u0sc7207df64h9hc4ej.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. YywKONvfK+XzqkQlJzJpfRdO+kzxldvQ4/m+zfdxJwdwfHXLcBHv6aFaZdHgs4Wd5C5mW8mhJca4HkpM0dNlpqkx+bVg1fU34UislNYhijjZmgD4jV0ZjaJS8hhKq5oClDfzXLHVACMH3rgrXJT4zbrvAB5K+yFG9dWra6CHqjw=
+4u5rvg5kfpmj1u0sc7207df64h9hc4ej.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 4U6D1JEBF5UHB9NNNC3NIFOCIBE6MNNK NS
+4u5rvg5kfpmj1u0sc7207df64h9hc4ej.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. F5JCBJNczKNHuZ19lgq68XFP/U7SROL5gU7a3KttEPM7ab+iR7V24lBhE7ujfD/rr5d/D6WrVNIwZHqiASJ+TdVS5NBREIhVhNhz+IPATK1zpe4jOCuH+/rK+BddrHkgbKqJ3rOZOEgQDv5rXue/E05Pk31Fo63nXa/A5NmyR5M=
+4u6d1jebf5uhb9nnnc3nifocibe6mnnk.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 4U8GRUH83PFP9NKRPMSILV5IGH5C2KCP NS
+4u6d1jebf5uhb9nnnc3nifocibe6mnnk.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. WBp7piYNjfxkXKQi2Q/RBJrkLwg95tEiL2LPnGGClkfQbYsQ0BZ+9MmaqDX4VbZqmwQ9uLgaDhbxSCUsZxX8gFEguksr34vcvSrVVsMRmc1xrXA2+gooOpr6a6fE7Nk4fabg9iG9W1vsQJKu9F7gRxOHOIhVTUcqn/RSQOXJbEE=
 4u8gruh83pfp9nkrpmsilv5igh5c2kcp.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 4UANI89Q5ENHLNVMHQ1AOUUEPUI52NJT NS
 4u8gruh83pfp9nkrpmsilv5igh5c2kcp.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. dR+/uNxMzJ7Lg7td7TKfZm62Wje7GHSvaB9OkW70MtT6wbX8HxReY/DX+Di2Y8v0KaEuhLpS8H+Nd2nlhRxc7tR6J6Ex+2edDi9Nr80DTl10gLpWMOfX0AsTgaVAQcgEOoni99CXo0cL/sCEw0MLs6YFD4xxk6Oh+SgUB2n6KGA=
 4uani89q5enhlnvmhq1aouuepui52njt.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 4UCAQNHULIM9POCP2FEP9R6DSPCAE1R2 NS
@@ -3393,8 +3395,10 @@ mov.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.googl
 5pi9gtpp4na86t5j0ru3bv13caqj5uds.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. VQAmevrzHY8FBMxTDRlkiYihNA22aMAT6N2li/4zCG7/Dr4urePtNAgG1BGoht66XMzqJIQGsMAQHkAt+J5KihRFdgn+HTlvbRRvx0xs2axzmD7lLZTpcH3Djmy2B24OkFMeG8wLi7DGOxAIYCmzvq6tc7hfpRT60HNhltJaUf8=
 5pjk07e2309sc5pkhm1908hmhvc14vgo.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 5PV4I87AQKFDK4V98ICIQTI099IJMFD0 NS
 5pjk07e2309sc5pkhm1908hmhvc14vgo.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. UnunaVVu80uIjmkQMs3HucJTtSwO6+5fyPKj0b0tCjMgC5w0jyddO/UW4CPck95eWz2WihzsYwx6Prdzzo5DWAu89+LETOGgzNMhqYE8Zpz/CtjvRoc/ru6ldQaxjO3zfc6H3ldfwtoH2doebCjxzp1XQtaZFe1B5byV6y3es2c=
-5pv4i87aqkfdk4v98iciqti099ijmfd0.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 5Q68H83GEDFMSB99475OGGVKE86T958I NS
-5pv4i87aqkfdk4v98iciqti099ijmfd0.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. EeQmwzgLrdta/2qiyPpB9FjBDSQ4NN1vQBzXPpTnk3biB/scFYLRWtnkotS3+8mPv/z6qxn0nbhciaI+wT0nko2Zx4nhkn89AmtUxj3f0KMFjp46fXbRLq0V2RJn+2lTLaK9zVpkwV5neVy4jb/+PmdFbq4pFxSfxcbe7fCsJwk=
+5pv4i87aqkfdk4v98iciqti099ijmfd0.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 5Q10IC0GRCCV34LKGPIMHD8B2ORKGLVJ NS
+5pv4i87aqkfdk4v98iciqti099ijmfd0.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. JqRLavewMZIczRmNjyTSoBxgcqpiRuUV7uQDrkxlSLzbWBNI+bLEBT2jWSj2zg+R3VzyvLwqUZjPgdYmt8Wad3UIx2DMQ2edTw3xM34qLOyIoJi6arWFJaRJad6Rhk13845yxV7IK0ZIisOFdbcG0u8GKEaAm0GRbaWMRvQXk7w=
+5q10ic0grccv34lkgpimhd8b2orkglvj.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 5Q68H83GEDFMSB99475OGGVKE86T958I NS
+5q10ic0grccv34lkgpimhd8b2orkglvj.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. fAajrQ2Gbg+bPA6RNnv9pBsMkgJKSK78Q1LadqOrlAnOzkNEYm9UZ5UzFY3B1dU5IVl70oFJqH3fJFAND3Ohd13qSIxYLR3WkhAxLzK7Pe/tn9iAhXwaYf8LSrlyZsL9y9/2Syta1ecPDd5XC34su0JLgUfyiR9JzgGaq/6Fziw=
 5q68h83gedfmsb99475oggvke86t958i.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 5Q6K8FVIE8NJ9HJC09OHDG03E49HT683 NS
 5q68h83gedfmsb99475oggvke86t958i.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. Y1rFmZ8WHAh/SW6AbAjqPQ7Y0ukyr8TiaMuBjbXZApA2PmwLmypIFGuNEwEwp+msmZtm4e1n3yNE7/K1GhBWhmmpcIskkLbQILdcpOeVaRUFqwOM+EGezk64+esJW0TaFK2b5Y+rrPzvpCduX5fPspJKo+m0j5qfA7nww7z8lG0=
 5q6k8fvie8nj9hjc09ohdg03e49ht683.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 5QAOFHBV4IQLT8VCU1T2ILA43I8MO5VL NS
@@ -4444,10 +4448,8 @@ mov.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.googl
 7oav74jci6gt7pla4uss079arq443l52.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. QtO3afiGiEklcRt6GG07i/Qv9wtI3efcPxU/m9zCJKhZJ6XL41Mlvg7mXCLLTrzh4ftpIR+CxcyE0jrUKQO+A/U8ybmeu/S9TN34VQzuBcx4gv1yJX6x7uU/25a/xsjl5ZU/+gILiAILMmhG1Ilr9X+ruvvSDrgDZogUDQLq0kQ=
 7ondo4f7j4miden9avp47a63tsfia26e.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 7OP7MNG0TSCQ79M263QJO44750RO421V NS
 7ondo4f7j4miden9avp47a63tsfia26e.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. cnDCFZ9B0pDBR0PpUmKN2XgWqwVGYOB6hM5/dzddmYBN4h2LH/VsJBer9cPlpV9NfUjtmAKaxenQzguYTdsdKHixX0Loj/f68SVaSSXIxnlDsVu7Dp2DQKIcNJ03ta4HtNGIsUAv1uxhEZaSsUo7krBdlJVC7qGuAScR/robIV8=
-7op7mng0tscq79m263qjo44750ro421v.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 7OVNTQ69UHVFP7OPINUTPUCH345V3UCG NS
-7op7mng0tscq79m263qjo44750ro421v.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. LdFImEs6oeb3d8ctArpvZy0THfV7p+B2oyZTqiiprSjUhVs0gA2fXphji78/gF5uCnRaCXEddQ1c57ypp/ZwjIFrn2ktbe0Xh14URUPoz0Oknik5U65n7L+gKdzy5ZNIbWu98VdmBuvB9lOEHTvOMZ32Sn3EZHusJ/SiqaKHUcg=
-7ovntq69uhvfp7opinutpuch345v3ucg.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 7PEF5E98I7V5E8PDNHAUTTFJ3Q7C0S72 NS
-7ovntq69uhvfp7opinutpuch345v3ucg.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. bjvT9NzBsDWVRtoLVNie1mAMrGHYD/BxVPbJfoPXnu9TMh/PRAiZS8MVskdWwJpPiKLEzJxMBpZBLtWfqJ6y0RvLG7clCxRvxCRe2GOqQ7kxtZNhnsxCXKsnKX8XMuA6gOc1jM6uR0BvEGFvQr3uW4cC/F+cG5JBA+iEH5dJZs8=
+7op7mng0tscq79m263qjo44750ro421v.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 7PEF5E98I7V5E8PDNHAUTTFJ3Q7C0S72 NS
+7op7mng0tscq79m263qjo44750ro421v.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. dIT5NfrjakdfPEIop9qy6XUdkeYSz5Qsnw3XSrMztVnfVMN/UcLfj9eWzQBJB3gNFOgTJ97fZPSJs/hF1nOBpgAsb+Cj1K5GWRFinLdXcxmgTbd5DA0eVf8o2itkLXMAqbi1x28KKiNWPy5ELmkdvhlxEUtSbFrk4AZ1weuw4Vc=
 7pef5e98i7v5e8pdnhauttfj3q7c0s72.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 7PG5HB8DTBBHJJJHCU5EDOV9INT9O6OE NS
 7pef5e98i7v5e8pdnhauttfj3q7c0s72.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. Vi9XMpmrz4YE7CeQSb+iJ+QR50ApJTiIcowJGEE0XBJwhsZmUADVhpaYcrBMaqurrgKQG9q2RobYupa7pgUZ+dfApSTKsh+Yso8rAQsLAYRCr4/FT2NcDp4zqfrtpAOf7ck2O9xLdfgNaBWYuErlvT4AtJj1uG9Srhycj8P3+7E=
 7pg5hb8dtbbhjjjhcu5edov9int9o6oe.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 7PNAKIACP8GKIFC3LHQ0LN1BM19PBC26 NS
@@ -4736,8 +4738,6 @@ mov.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.googl
 888b.mov.	10800	in	ns	savanna.ns.cloudflare.com.
 888iqsmvk11uskv2ilrs8ggo60qkr9si.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 88D8VELNLUKDNSM1DI4USBI31S7AG7I3 NS
 888iqsmvk11uskv2ilrs8ggo60qkr9si.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. WZEUPluvUJjyb/dQ8eWGOJBjLIdpaS3dFD3F3E7jlLNOw02ZeO/1PCijt1qb5Nx9J14KkPfJkkripp8zFMavhj5tJiRNX/v3Ikd0Efs7NWGCdGLnU/eycAti7J2brdpC4e1xWq7zqVSALByPMj0oVVldAUDbX+A/lKao/GsNdbY=
-88clb.mov.	10800	in	ns	dns101.registrar-servers.com.
-88clb.mov.	10800	in	ns	dns102.registrar-servers.com.
 88d8velnlukdnsm1di4usbi31s7ag7i3.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 88EA7AFN8VQ4G4A6QN00F5GIBG55J014 NS
 88d8velnlukdnsm1di4usbi31s7ag7i3.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. HPBg7dAF3QkGcs6KB2mnXNwZmVFUYNt5r93BEbRn4ANJc2zRsJYm3jLEXrXv9a+4T/O/lN1Ww9iBFAKMsQB9JN3Ia8SHEqCgzw8fbxBwb3+CBe0nO6Goro8d2emI0Mq+KOQ47CwDz7oKzZVZ9vhusuPj/lTBgrDhXOBBX+PuVAo=
 88ea7afn8vq4g4a6qn00f5gibg55j014.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 890TJ3EELG1O903V8GTRBT29NOBVFF53 NS
@@ -4841,10 +4841,8 @@ mov.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.googl
 8f7gevmbtipvobrloje3fgf15nh9qpej.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. eR9fCJvoWXdLil/Pvgur9H4qxT4u5I5koY3gH/yCRgh/Jm4SiAwFy8pGU6VxsmjBa+dEGuh1WmdjeVVTXRnOiwTtGgm/Lu9fxebe/AMITAiAKkrHuAz/xFBtn3xlC9rDMJ/L1dDSCzqaPZKxaC6G5SHj+ZDKaEwMo6cL+zWKQcw=
 8f89sfsgq1877r6d986ps56g05f76o3u.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 8FAUAQ4BM0I9QJKG1MTJFLR7INM1UKFG NS
 8f89sfsgq1877r6d986ps56g05f76o3u.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. f9S/UyFJ0q85uxuulVQ+vbx/GQv2D/zCbZBnql4GkPStzANDW3LKTDSD5VnfOTmuCZJWBrxPMI8NjQUw3MfiGgdmnPlx4qzg37ZccBcchLwYoebVQkhME2fu1Im8/F68B1rj/d4fu1buJ+pAMaZRs4SwqCekTf+htblaVP2BOb8=
-8fauaq4bm0i9qjkg1mtjflr7inm1ukfg.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 8FBMF6QRNNGCS0LUKVQ3LHU00BRLSUJ5 NS
-8fauaq4bm0i9qjkg1mtjflr7inm1ukfg.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. bx9DRLAO3H3oEHYuU065+wALnc8exJ0uxDmGwlFkYTxWtxv5fTofHQDRVExFpjhHH45ml1P/52Li/seX9r2paQfbpDIq0UWQlREJFekBtBxzbbTajk2OjRRsA5rBFQtqheG/+jm4VQKZEmcNOg4rHN44msKYH2Cd/5vNm/gKS48=
-8fbmf6qrnngcs0lukvq3lhu00brlsuj5.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 8FDQ0OTRUC7CCN7RP01I45A5QVTT2LVM NS
-8fbmf6qrnngcs0lukvq3lhu00brlsuj5.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. SjxW42wbfzUDjwn9UJyUPUrRxAGIP2ep3conQEyyEG36+sexJFcQnUJOG0s9Eb/CT5dmrQfKa0bpIGj82C7Kc2xw03DVYtkpyNbz8ApB9jHsdx+8HwgedD+q0uq8R6llBz9vvvfi5QsSJv7tz681qnlTqpHCqbF3+cGl/jOfBkM=
+8fauaq4bm0i9qjkg1mtjflr7inm1ukfg.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 8FDQ0OTRUC7CCN7RP01I45A5QVTT2LVM NS
+8fauaq4bm0i9qjkg1mtjflr7inm1ukfg.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. VdJibZnoN3W4igJJ2YTkxqQMHf2Sbj0yFaTRR9ibbdd+P4LlGn42V141BR6Ov1sq86uWGkoyMpAJNJdTN2pRMboXtX3LNaB3kCTn6g6J404WeWYUSko6NqkX/oGyptA2f3BqZuJzNIrDp7BE103b6Ao5a7iY4GiZqEdBxiZBV4A=
 8fdq0otruc7ccn7rp01i45a5qvtt2lvm.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 8FFFVV9KLOPA2VC1CMRTN6DTMRPV8HOP NS
 8fdq0otruc7ccn7rp01i45a5qvtt2lvm.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. Lqm5cSOPx1ecZS0WmOwF57pIY9XcLFV7yPvB4wzqtXyPB6zUF3RVgvPhpaZU/e6yGskD31GJvJNdGlXiA5jo1Qo6jO5y9CJ7p0pnNT7Iw2GjRJAtoAfyhJSaZ9Wu68FKfTzPefFGHAEdfVNM15c07SZkU0txJKudqElCX3sqJoU=
 8fffvv9klopa2vc1cmrtn6dtmrpv8hop.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 8FSO6D5B9LKPOVJSCQU8QKOPSUBPJQMT NS
@@ -5351,8 +5349,10 @@ mov.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.googl
 9bvq7uahpb6i1frjpb6sttal89p06jk7.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. GK17PrFleanKkXOImBoaIxbAAMIuDHtjBYguIMvmApYCQP5t6M27JpB/wPKoymUGB6iCB7i9iCpkQ6HQyQBwqobDO4l0HMCERqVnEWPIyqvWMSiUBD2LQgduAZXSpHKB2/ZwQFveT7o9XcxgJ/751xMI3qvDjqpNSLnwIqf613Q=
 9c4gdt2ihv11v8p2jvlfgr7elv843ei2.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 9C8MU6G0FIBVHH791GPPCB6BN1L7QBJR NS
 9c4gdt2ihv11v8p2jvlfgr7elv843ei2.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. Bcs2dhVQ6K6Fib4nLHsLHLEslJVENz0kUcPFI7wtwvR9Ob2Bt4Knjxy/+W/BuCoii4ODiaGEzoPD64KkaC+e7BEYNL5Z+v+GaSaw9fCRy828JZZ/smBEWHA700tiobaHHjVR+AibiLjMSeYXQ0nB8elZpCTyyXJXRx7SEIsLFtk=
-9c8mu6g0fibvhh791gppcb6bn1l7qbjr.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 9CD2C724164BBB2N818CO11Q8AA1IJU6 NS
-9c8mu6g0fibvhh791gppcb6bn1l7qbjr.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. gtKhtP+giRYyl9BvS7RIOikuunTxZ0zrHX0OiGVW3F6CU/B5WcQkAiRMgNieFmknLJPOFEk/4HxKN3Az0FGmXSiiP4ASPAvh/ywa9V8s6Z+6W/4VftAkHRnikyVSo6Cnxc/T6moMKm22jjiM9CZGyzYXSK4t8I1yz2kDE8ui7F4=
+9c8mu6g0fibvhh791gppcb6bn1l7qbjr.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 9C8PQKUM14TJ8CDKV5IH0U28ME6OE2LI NS
+9c8mu6g0fibvhh791gppcb6bn1l7qbjr.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. K2nzAG2qJC1Lrju+W4kQeYcu3Ef9eh/8F9w4YSVWdM5L3NqDvyJYCRApxFUbwqReu62rV4AiaMhK3jFUwTUWLTuRH18BZE8TyVja+Q+WPTFxpbWiANiarVGWadbg4BIQhLCLfAgxOczvcabnRFUvKXn8yvprEnWY7DkKm4IXAVA=
+9c8pqkum14tj8cdkv5ih0u28me6oe2li.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 9CD2C724164BBB2N818CO11Q8AA1IJU6 NS
+9c8pqkum14tj8cdkv5ih0u28me6oe2li.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. OxvykQh+MyOO2hKdEmmogBL1kzuhm26n/wti8gnxmKWv40l9sZQyPu4kyDsp+7p8e7f6CuROdH9XZbsbVKDhb3bpurrjLA3RuivyG8ZhxGwcBXEj9Awu3ep+iqDkxK3OpBveKrJ9bBD80Picny0b1ll9p/jLHIWxEDM30mHrWJQ=
 9cd2c724164bbb2n818co11q8aa1iju6.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 9CNQ65LNTFR89Q171NAV2F93ELT9BUHN NS
 9cd2c724164bbb2n818co11q8aa1iju6.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. XTy9Xvoop3Y5XIcLjJqEzXjqyehnEJNda4CGJVQ+rCi0z8aZYMbPVb6OT/+nHupnhUm7igattHv8hem2Wk3dxlKKEcPqTcKQrjP7Q2J4OPLbhasIRj8fRZLbtTSm8sn9oBnDG63gC5XeHJBoFeJxw+C2iC0R9nNP+c3YXulS4mg=
 9cnq65lntfr89q171nav2f93elt9buhn.mov.	900	in	nsec3	1 0 1 5230C18414B3894A 9D54OQUJQIJQ3OLS5V5OJ3KKEMG67EUR NS
@@ -6989,6 +6989,8 @@ aviva.mov.	10800	in	ns	udns1.cscdns.net.
 aviva.mov.	10800	in	ns	udns2.cscdns.uk.
 avl8bohj5333hcms1396m02mbtafk5so.mov.	900	in	nsec3	1 0 1 5230C18414B3894A AVPGR5SQQ0UA83N0IHAG00P1G0BM9JBN NS
 avl8bohj5333hcms1396m02mbtafk5so.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. bY7R8wJq5NZTfaOZzGUr+AeJLwUO63Adm6Jn/F/vUfQdfRRu4BeA4ZvBGWEox5x2gEYOnl+2d9KZA89VpepL0f4Jh6I3RWa7qQsfljCjJI5o8+/L5R2tqVvIfpC034boxU1vTWzwcD2aIR1zUMZv1cvCEqhekbWduVp4EzUkUc8=
+avnori.mov.	10800	in	ns	ns1.renewyourname.net.
+avnori.mov.	10800	in	ns	ns2.renewyourname.net.
 avpgr5sqq0ua83n0ihag00p1g0bm9jbn.mov.	900	in	nsec3	1 0 1 5230C18414B3894A B0N05LNJBB6BSV5HRG2I44MP76TL2GI7 NS
 avpgr5sqq0ua83n0ihag00p1g0bm9jbn.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. hRWnzmXBXkU32PAjH4o1otcr4KUM8xIxogBuR7DOykMJnwmjlAnRpeENqGGaQrFu+jgapk63HpaTQuDlw62MwxwbFqNY2kVZx5NGuAC9hn71e2y7MkkDJhj31cnKMryorjsXEpWnyBz7m5hJ2OlgNRKQOHhe5cnsMJr+W5Ujwzg=
 awawawa.mov.	10800	in	ns	guy.ns.cloudflare.com.
@@ -7279,8 +7281,8 @@ batman.mov.	10800	in	ns	ns-cloud-c3.googledomains.com.
 batman.mov.	10800	in	ns	ns-cloud-c4.googledomains.com.
 batman.mov.	900	in	ds	2267 8 2 2F9108187C0FA6477CA093BF8593F41C682DCD1D044AC3975EAE04B640F6DDCE
 batman.mov.	900	in	rrsig	DS 8 2 900 20251001024148 20250909024148 6535 mov. Y4qImENhBK5ncjW9hEVlhT9M+ZLO4Lp1zb7KVhhUp6rZ5EJlynsBbCxXXnkqXOrwzsX0cD0r1pavPxfSDFVbsYavYj0CR6q2a/qdsJafkdXCtIVuzXuLMm93f9r6CC73V3mvAjLIwSWeTmQfWSvv6t8OZyPBipNRKhLnOXqiq/Y=
-batponysnufffilm.mov.	10800	in	ns	burt.ns.cloudflare.com.
-batponysnufffilm.mov.	10800	in	ns	elly.ns.cloudflare.com.
+batponysnufffilm.mov.	10800	in	ns	dns101.registrar-servers.com.
+batponysnufffilm.mov.	10800	in	ns	dns102.registrar-servers.com.
 baw.mov.	10800	in	ns	ns-cloud-a1.googledomains.com.
 baw.mov.	10800	in	ns	ns-cloud-a2.googledomains.com.
 baw.mov.	10800	in	ns	ns-cloud-a3.googledomains.com.
@@ -8026,6 +8028,8 @@ boone.mov.	10800	in	ns	dns1.registrar-servers.com.
 boone.mov.	10800	in	ns	dns2.registrar-servers.com.
 bopeak04m9itbjlmnmucdq8skqeqeles.mov.	900	in	nsec3	1 0 1 5230C18414B3894A BPAKJL0FQQGSGNR1V3ARGEK6O37DN9P4 NS
 bopeak04m9itbjlmnmucdq8skqeqeles.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. BasqY5GLB/NVyvKeRzpcwaGkkZM3ckNs2ipmLj3x62HzEH2LlBSmi3U9rbD4Z3B1L/S9lqx6FveHV5OMDsIyfKoActz2HE79eTEFSOECr5xT0e4HNHWI7JbMXWStm9MYcupu2dqv1SapnMrulx4gk8guprl3S/mrrUhLNc7HHg0=
+boredflix.mov.	10800	in	ns	adele.ns.cloudflare.com.
+boredflix.mov.	10800	in	ns	cesar.ns.cloudflare.com.
 bos.mov.	10800	in	ns	ns2.lloydstsb.co.uk.
 bos.mov.	10800	in	ns	ns4.lloydstsb.com.
 bos.mov.	10800	in	ns	ns5.lloydstsb.net.
@@ -10405,6 +10409,9 @@ devreel.mov.	10800	in	ns	dns1.p09.nsone.net.
 devreel.mov.	10800	in	ns	dns2.p09.nsone.net.
 devreel.mov.	10800	in	ns	dns3.p09.nsone.net.
 devreel.mov.	10800	in	ns	dns4.p09.nsone.net.
+devtech.mov.	10800	in	ns	1-you.njalla.no.
+devtech.mov.	10800	in	ns	2-can.njalla.in.
+devtech.mov.	10800	in	ns	3-get.njalla.fo.
 dex.mov.	10800	in	ns	dns1.registrar-servers.com.
 dex.mov.	10800	in	ns	dns2.registrar-servers.com.
 dext.mov.	10800	in	ns	ns-cloud-c1.googledomains.com.
@@ -12154,9 +12161,8 @@ f8n12uhf00vqocgem1op1ubsrmvsstqg.mov.	900	in	nsec3	1 0 1 5230C18414B3894A F95JBG
 f8n12uhf00vqocgem1op1ubsrmvsstqg.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. MZ2tAcOKo9WOPRB7l57fItj8b+sk9ggTk2cCAoXJuASsdHshgjcx93/ZlwtKonSrdmukE5wE6NaS75ZQKV0LeIAv5jPN314+xS+Odb4zNZJMbpAMWJ1XEq4BXLKIWATACaR0r10OWLrDZXqBPSfyyDIzpLcvG1yMMk50T5755E0=
 f95jbghdodg2evr2s9nfom3phptugvvf.mov.	900	in	nsec3	1 0 1 5230C18414B3894A F99V1JEAKB2Q56HUF861TFGBEFMV8V3M NS
 f95jbghdodg2evr2s9nfom3phptugvvf.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. KeIQ68P9pHjT5cPLruakiEbgZxaCCLtOcTaQlBfywEqJ/u2cV/z3wgwPMFvesL5ASH8599sncdTLuElcunBEQRslXNmY2s7yTPUB8MBBRyzAG89OA3l5gpTAQmTz7lnl0jOp+Mg4OpoJsvbqtYkyEQHsxZDoqgP6AcDrfGI8jLU=
-f95zone.mov.	10800	in	ns	1-you.njalla.no.
-f95zone.mov.	10800	in	ns	2-can.njalla.in.
-f95zone.mov.	10800	in	ns	3-get.njalla.fo.
+f95zone.mov.	10800	in	ns	ezra.ns.cloudflare.com.
+f95zone.mov.	10800	in	ns	may.ns.cloudflare.com.
 f99v1jeakb2q56huf861tfgbefmv8v3m.mov.	900	in	nsec3	1 0 1 5230C18414B3894A F9KTTQKLEK2IST0UV6HK7158ULUULF22 NS
 f99v1jeakb2q56huf861tfgbefmv8v3m.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. awLzGS7OaCJp2Py76QI1pUSQELlYWtl/+sXGq49jMxa1aVIBO4j5aEwsJJbWHa4KW9VYS8QQMy3lUB1Rw11yjpX6o3hFA+Akx5xU4p6JDBx8piNyZjWjr/jIuju38XwSv7xV4OeasflrYGazt24H4vwwFyZaX5ntsk+DW2H0unk=
 f9kttqklek2ist0uv6hk7158uluulf22.mov.	900	in	nsec3	1 0 1 5230C18414B3894A F9LBNG56L0A0KBTPT5GIGKTS1TFDTUOF NS
@@ -12619,8 +12625,6 @@ fl861a5vme6gfb93j095mk59eccrbt4h.mov.	900	in	nsec3	1 0 1 5230C18414B3894A FLCH46
 fl861a5vme6gfb93j095mk59eccrbt4h.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. MupxESkzC/SK4marA3olcpko1du1BWDtcIvrNRoIlYwdmOTxoD6MF9Vu+N8bMX3ENxGyLuiDMUUw9iAq8RLHrf2lkAeiGDENRgU1u6MaPqQkO8TyojGvVdTFByOk43MXatBa8y1d1XOp4Mu9YbwxTewTcGaip5mt5gRpB32x41g=
 flagandbanner.mov.	10800	in	ns	ns09.domaincontrol.com.
 flagandbanner.mov.	10800	in	ns	ns10.domaincontrol.com.
-flakes.mov.	10800	in	ns	ns1.renewyourname.net.
-flakes.mov.	10800	in	ns	ns2.renewyourname.net.
 flch46s5d0su2nsgqq4b47ku10paohlu.mov.	900	in	nsec3	1 0 1 5230C18414B3894A FLNAK0E1T50AMCNUQF0M99JIJLH40NH1 NS
 flch46s5d0su2nsgqq4b47ku10paohlu.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. ci1jbfWCxJ91NeCtvreGbXxpF3AQazSlA+t/dk5qkLvrFhxqqpe4j66LniJwpkUZ91xEsIfKUx4hCxrJA+ko6GnFiWqUWZ9rCZxhB56/oArHX0E4rbguM6ghyXzZ6lBRkgjhzV/gRLFmNRv9NlHul5k/7GEt4B1wwDsZE7P1cTI=
 flemix.mov.	10800	in	ns	baiyun.ns.giantpanda.com.
@@ -12839,8 +12843,10 @@ fp3h4o6lusgua4mjlnupbl4ilp73cqas.mov.	900	in	nsec3	1 0 1 5230C18414B3894A FP7SUS
 fp3h4o6lusgua4mjlnupbl4ilp73cqas.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. Tr72dhY1foZVf5dHA9NHHPA6g2hkxGQ8IHTzJq9pbY5BqDIoje6uSVvqyPWUNRJ0qzA3hk7tkjuSqwgND3Xx8o8u+8qTH62zPOrDrBZF3m+HVc8cb7CoTjSU6CrmMGhxLO1CmqzaoQa+Pbmk9Th7+5EyTMAbfDlhnhSGufAMaUg=
 fp7sus3g86u1f2p443prbi9dchi73r4n.mov.	900	in	nsec3	1 0 1 5230C18414B3894A FPB4CUMQIOC8HR54O8UGBPKENSC3UQFL NS
 fp7sus3g86u1f2p443prbi9dchi73r4n.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. d1Te8hOm+QyviRzdRKt7yV9mmyjtJA7SSbXrcgK7ptOXflfZZBVJaypEg0cBaw39naFObbsyIgXa515+sMGYWFccr2DE4/DYBGdpxIY+L/oziXzgQ36v3q/5zIQkjoRw434eGLJt2UHwBOz1sT6IguzY1VvjJdoHCghiR9ZpMPM=
-fpb4cumqioc8hr54o8ugbpkensc3uqfl.mov.	900	in	nsec3	1 0 1 5230C18414B3894A FPF947KHTOQ9UMG3NITACVH6082O3KRP NS
-fpb4cumqioc8hr54o8ugbpkensc3uqfl.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. YoSLfxtmRzfzXRV8U1I+LOTHoL9gOQEHbcTAJbLWOaghPSPSH4pAaX6O/Ub7PoHtjhflx4jZrg4EbqH5Okil/Ib3/8E28i0ZZMv9i5FDjNGeB/VszE9eU0F0rmwhWWlM9lgcxzT2El87CPw2tfffLl0TM0VXGpxWE6tzENnmwLQ=
+fpb4cumqioc8hr54o8ugbpkensc3uqfl.mov.	900	in	nsec3	1 0 1 5230C18414B3894A FPB9ILFQN4BE49NE47JIHHH180ARGR7B NS
+fpb4cumqioc8hr54o8ugbpkensc3uqfl.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. KBu+JYHY9gXDQMmj4v8B/+Hk9xnCOlg1KUrLnfoH9C1XlQk/vI0ysr3eWa/AxaokxRGxD5B0xvq+HogQOgseh0Ze/5OlZp6Q2+S86cy1wE8KW7F9xOAzwRO/duNtHtD2tdHnGzi2+bUJWhOpBZGMEUrZhRhd6HDDGBBuA5q6DMs=
+fpb9ilfqn4be49ne47jihhh180argr7b.mov.	900	in	nsec3	1 0 1 5230C18414B3894A FPF947KHTOQ9UMG3NITACVH6082O3KRP NS
+fpb9ilfqn4be49ne47jihhh180argr7b.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. Y9IFR+Y2lW079tC7NhuyWe4w/4mpzcy+HUS1ZvJSaQaId4x2FziavLjjQ+EfAZI5U72TNCanYlJ2BlbUDkMFrhGnRqMFWBDfEmEbaswCXMvudUQnp7tx761UtzJZO/Xe2UdJfI53Pa627mMk1SC8QZyElwPvmdS9tLEzXNKNzOE=
 fpf947khtoq9umg3nitacvh6082o3krp.mov.	900	in	nsec3	1 0 1 5230C18414B3894A FPFBT1MR4S7TUKUVS9HKT0L65E1KQ3G8 NS
 fpf947khtoq9umg3nitacvh6082o3krp.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. Da73DT+mS7BqXr3U8I4CPcSi5LaBeACg0vFjhWdudRKjO1vzRYMSTQsvqjSfU7hjipalqtxQbEQBKyfEcgsBgEhW+UOu3yhZuKKNHj0RtQQCyiHFezSxcj26cnG6OT6IcZHWL1I5EtIozN1zjj/JyCXTU+iPbx/dCC36Rzollj8=
 fpfbt1mr4s7tukuvs9hkt0l65e1kq3g8.mov.	900	in	nsec3	1 0 1 5230C18414B3894A FPHBBV68UOD2P2RLR6QTS7VBAOQD05K3 NS
@@ -13002,8 +13008,6 @@ fullsizerender.mov.	10800	in	ns	maceio.ns.porkbun.com.
 fullsizerender.mov.	10800	in	ns	salvador.ns.porkbun.com.
 fumdx.mov.	10800	in	ns	ns1.1233dns.com.
 fumdx.mov.	10800	in	ns	ns2.951dns.com.
-fun88.mov.	10800	in	ns	lilyana.ns.cloudflare.com.
-fun88.mov.	10800	in	ns	norm.ns.cloudflare.com.
 fundquest.mov.	10800	in	ns	ns1.bnpparibas.com.
 fundquest.mov.	10800	in	ns	ns2.bnpparibas.com.
 fundquest.mov.	10800	in	ns	ns3.domivesta.net.
@@ -13689,8 +13693,9 @@ godaddy.mov.	900	in	ds	17374 8 2 97BF3D3EB3353DE4EBE9A9EF127F5D1E61A27D10124803A
 godaddy.mov.	900	in	rrsig	DS 8 2 900 20251001024148 20250909024148 6535 mov. Fb7h6/Jq9lVhb69SfSFihwl+sE/E26qKw9NF1Zt0uF43m0qw/uvCtbXAMWu/aws6HnGRybN28A7MW20gpss8+bz9zpnwKzTONX70aKY6n/e5ASWHQ5CcsTcpMOCdf12lXJidjw0j/buabpMRhFgS8T0fXZ5nLEGYr0jx6iNoKV4=
 godoy.mov.	10800	in	ns	iris.ns.cloudflare.com.
 godoy.mov.	10800	in	ns	ruben.ns.cloudflare.com.
-godtier.mov.	10800	in	ns	hassan.ns.cloudflare.com.
-godtier.mov.	10800	in	ns	lindsey.ns.cloudflare.com.
+godtier.mov.	10800	in	ns	1-you.njalla.no.
+godtier.mov.	10800	in	ns	2-can.njalla.in.
+godtier.mov.	10800	in	ns	3-get.njalla.fo.
 gogoanime.mov.	10800	in	ns	crystal.ns.cloudflare.com.
 gogoanime.mov.	10800	in	ns	kurt.ns.cloudflare.com.
 gogoys.mov.	10800	in	ns	gannon.ns.cloudflare.com.
@@ -15936,10 +15941,8 @@ j52vu0gkdo78v4h6hpunebmt0jrhra73.mov.	900	in	nsec3	1 0 1 5230C18414B3894A J54C50
 j52vu0gkdo78v4h6hpunebmt0jrhra73.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. RMjD8rvC7Bg4UL+AfIiSX9I+rSJgA9QANvhG1xS6de+xDUwy7sG14wZQHeWCWB/pAQiurRhmeLoK3oY6dMaf6IDzJ1l34kOh0/dsjw1ag3sAX0Q3+SRnB/CctrwwRADKMTJwn2n443lgj/l3milNZPs32Jcb1D3VFpeW7t/GX+Y=
 j54c50bl4thklmiq768fn2ctl0k6t37e.mov.	900	in	nsec3	1 0 1 5230C18414B3894A J5A8UFNT9JETS6L2UNFLAUEG5CUF96QJ NS
 j54c50bl4thklmiq768fn2ctl0k6t37e.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. WLMeupy3LGnOoIVF8D/re6rUUOcB668ZiHCtjL4fKKbbH+11sc6voNsMzf68zlLZpeKX3LhALHvo8NimrzU9Ki9fxni3bZeSjcKBwrtFup3ghiZuKend3pnroxOxbB31tF+mfZKpNAxsTdsm5JBVURvxdI8TPxVvJhWdcjIYOFw=
-j5a8ufnt9jets6l2unflaueg5cuf96qj.mov.	900	in	nsec3	1 0 1 5230C18414B3894A J5AJEKN7HGRMMPPQ4HV0EMBINP12L04B NS
-j5a8ufnt9jets6l2unflaueg5cuf96qj.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. R+LXGl9YuHL23VOANUmvH73OaJjIvOMw/tDtQkpN1QkukURUqThvUnSabVDX1Nt7GI+mH8XVUAg7IKyYSvFQbWXn5g9JXjOmjJczRtjDk9lSE8FjcxmyozWcM9dDya7sSSEqOgrLZJS7eWVhVG67ikQJ4Q2f6ONRziC+lzi1nmQ=
-j5ajekn7hgrmmppq4hv0embinp12l04b.mov.	900	in	nsec3	1 0 1 5230C18414B3894A J5BKJBVU9O6P9LHUDCTV1JF9DTVD51BM NS
-j5ajekn7hgrmmppq4hv0embinp12l04b.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. ZxWGjjhPj5wxxA+W+bqfgmv40hmVVGCuQXsfSHB/eaJF8sQbWSbi2QLf7K0xJ4uErCrCh6crcsxUbfxMFWV3v6eqvex5SPN1n9mCWTiOYVbAeuZ8BUG70u9dlqqOrf86HL7k9ZAUOwDO5Nvnvwh/p73gT3BRrpRCX+q0Qqmo5Bw=
+j5a8ufnt9jets6l2unflaueg5cuf96qj.mov.	900	in	nsec3	1 0 1 5230C18414B3894A J5BKJBVU9O6P9LHUDCTV1JF9DTVD51BM NS
+j5a8ufnt9jets6l2unflaueg5cuf96qj.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. bPvOcdJTMMSxf2Zopyr6m/q6dzttwJaMur3D2bXrFUtzlI/HJaJ8EG12A1dlN25TEkPngX8cOlEnYK+l9eT/psHoflK01LRtyKztyq7osxcuQwD53oiFm7xFrm7mCYO0I2dOZP7I2m0vc+zQdMVuHH1B7BdQeYmR9AKyOUuElCA=
 j5bkjbvu9o6p9lhudctv1jf9dtvd51bm.mov.	900	in	nsec3	1 0 1 5230C18414B3894A J5IG64TCPUL26K8T77RIRDR72LNISTRG NS
 j5bkjbvu9o6p9lhudctv1jf9dtvd51bm.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. RN8zTJkb/A+ukVbRLNMCKr4LIDdm3P2aR9uNe1m8JyNWkLD6uUehp0ZcRqYvMLo6C49hoyw7QrIrXm7s3aMSl3eIoprX90gAFnYpDv7Z4+5spctY2UNcFySPGZd8b6oSVHWuXw8mF52BQeOqRO948ljxsDbkQifU+RdROQ4FMPM=
 j5ig64tcpul26k8t77rirdr72lnistrg.mov.	900	in	nsec3	1 0 1 5230C18414B3894A J5SMKV4T6ELCBPCJ4PNH0A0VI3LEV5SD NS
@@ -18936,8 +18939,6 @@ mediusflow.mov.	10800	in	ns	ns1.dnshost.net.
 mediusflow.mov.	10800	in	ns	ns2.dnshost.net.
 medwastecleveland.mov.	10800	in	ns	ns61.domaincontrol.com.
 medwastecleveland.mov.	10800	in	ns	ns62.domaincontrol.com.
-medwasteohio.mov.	10800	in	ns	ns05.domaincontrol.com.
-medwasteohio.mov.	10800	in	ns	ns06.domaincontrol.com.
 medwasteohiocom.mov.	10800	in	ns	ns69.domaincontrol.com.
 medwasteohiocom.mov.	10800	in	ns	ns70.domaincontrol.com.
 meekm948pk7dhmqdkrdhlca5eq59aalh.mov.	900	in	nsec3	1 0 1 5230C18414B3894A MEM72UKM7A25U5G37B8PD2C4MDTRITR9 NS
@@ -19512,10 +19513,10 @@ movart.mov.	10800	in	ns	ns25.domaincontrol.com.
 movart.mov.	10800	in	ns	ns26.domaincontrol.com.
 move37.mov.	10800	in	ns	felipe.ns.cloudflare.com.
 move37.mov.	10800	in	ns	teagan.ns.cloudflare.com.
-movements.mov.	10800	in	ns	ns-cloud-a1.googledomains.com.
-movements.mov.	10800	in	ns	ns-cloud-a2.googledomains.com.
-movements.mov.	10800	in	ns	ns-cloud-a3.googledomains.com.
-movements.mov.	10800	in	ns	ns-cloud-a4.googledomains.com.
+movements.mov.	10800	in	ns	ns-1387.awsdns-45.org.
+movements.mov.	10800	in	ns	ns-1896.awsdns-45.co.uk.
+movements.mov.	10800	in	ns	ns-400.awsdns-50.com.
+movements.mov.	10800	in	ns	ns-662.awsdns-18.net.
 moves4u.mov.	10800	in	ns	baiyun.ns.giantpanda.com.
 moves4u.mov.	10800	in	ns	meilan.ns.giantpanda.com.
 movetocanada.mov.	10800	in	ns	ns3.invictus.ca.
@@ -19983,8 +19984,8 @@ n5pcecpiuns7lva19c9e51mg0jr3nves.mov.	900	in	nsec3	1 0 1 5230C18414B3894A N5VR32
 n5pcecpiuns7lva19c9e51mg0jr3nves.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. hYPmGUXC50RaDh5VJIjfxu19CZMT3tzOjXOcClTzToBgHvY1P8cgIp5mnrYB3LLxBWgbkLWXro52uohMs/OaMRyR0CuenRJsupgzl3aSfBRMIuV8i6q3BBSDd7KFk6dNhIQf4HaQENHfyyTvNNUQGQeCJiN2F6/+uBmNSm8ywzw=
 n5vr32mup7kjiv6eqjbkrr0bgkvlm8gt.mov.	900	in	nsec3	1 0 1 5230C18414B3894A N6F985KC8ESQTSNTFQNP2LRSVKFN2SMV NS
 n5vr32mup7kjiv6eqjbkrr0bgkvlm8gt.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. I2CQwE9amvB3i5Eogq0D302KoHk3Oto0M3OUG0FOnAQE/S4OxlB5U0QrJU48FjPuQDdkWlV/+oaYFGL+GSfKJ0/QvILFdB5TyqtCb863fC1flzP/a1s8E5HZSDl9Lyckdmb/iqIjS+Mh5HTKUhnVQBfZMWJ5h3T/brhKVz4WyqU=
-n666.mov.	10800	in	ns	harleigh.ns.cloudflare.com.
-n666.mov.	10800	in	ns	peyton.ns.cloudflare.com.
+n666.mov.	10800	in	ns	dns101.registrar-servers.com.
+n666.mov.	10800	in	ns	dns102.registrar-servers.com.
 n6f985kc8esqtsntfqnp2lrsvkfn2smv.mov.	900	in	nsec3	1 0 1 5230C18414B3894A N6GHRIQHQFMF363TU1LJB1JK4I5J76LI NS
 n6f985kc8esqtsntfqnp2lrsvkfn2smv.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. XohOGuTQTTQKaJutolvnNnrxLVwO+GzIdyZ/KYNqSG93GNfLKnGLOBwu4e4+FcFdjWu4LKQdvI6012ps1Qq3RX0N9DorufmKk5creghm8SgOHGQKhxoBAPzz9VrvaQ2+/L5BTZcWMkk1DT6I3VWsNsviafkm53bnyXmVj+zdIKc=
 n6ghriqhqfmf363tu1ljb1jk4i5j76li.mov.	900	in	nsec3	1 0 1 5230C18414B3894A N74NU32SIH6SAURAIJCJU2LI5Q94TT83 NS
@@ -23555,12 +23556,10 @@ rbjli.mov.	10800	in	ns	b.dnspod.com.
 rbjli.mov.	10800	in	ns	c.dnspod.com.
 rbjonesinsurance.mov.	10800	in	ns	pdns01.domaincontrol.com.
 rbjonesinsurance.mov.	10800	in	ns	pdns02.domaincontrol.com.
-rbn1pjkditcj6j38eik58rkohc1mk8to.mov.	900	in	nsec3	1 0 1 5230C18414B3894A RC7NNBBSSF2EQMJVRFNO1FDVLBDR9R0V NS
-rbn1pjkditcj6j38eik58rkohc1mk8to.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. dF7ye2uHPrabWAV51HkVNtwpJmnQXwM5XpJmp4n7rAGcfAaQ/BJnkK6EvSNKYyhey2in6tDxnr6zGkXdogLiGx1jW5R7e/i5mETrUgH8w6eUERTbFi1lFc2o8JbnxV8jWUtHxwUHX6ud4PEfI5YZckj3/G80wDgOMZ0NIh4yGUU=
+rbn1pjkditcj6j38eik58rkohc1mk8to.mov.	900	in	nsec3	1 0 1 5230C18414B3894A RCAHRE3UFJIA3LJ0AADB46PRLL07ELG5 NS
+rbn1pjkditcj6j38eik58rkohc1mk8to.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. fQywGSII6NpYIVtGWHJIoGKPlyOkquoJ21MYi/5LQzLbNya7WKS0MLI3DJSRlHv/N2wqxJSFq3uI2QKxu83bOoJS1fRQPZo+RPotaRxk0qY70oqkvAeCP0SBfSHGao6zAoS6ATvadTVwXuirpDWFBltT7PEzGfmUY5OdFm8UIaI=
 rbwve.mov.	10800	in	ns	n1.xundns.com.
 rbwve.mov.	10800	in	ns	n2.xundns.com.
-rc7nnbbssf2eqmjvrfno1fdvlbdr9r0v.mov.	900	in	nsec3	1 0 1 5230C18414B3894A RCAHRE3UFJIA3LJ0AADB46PRLL07ELG5 NS
-rc7nnbbssf2eqmjvrfno1fdvlbdr9r0v.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. QGfKUCe9dBjW3YBGEn/T06fjD/m1d91nZi4S27yCCu9NsSgt2PCh0UTZYT8Tw3v2Ut3ep6lDNNHHZAtOKgdAE3Np/2uXoyUmVwYDm/ChpHuAZY1lu3ysfjb4zBBMeQiMk1Na/7op4bVqkzXaMzLjdIg4+Z/KhnyZEOxA1Gck8hA=
 rcahre3ufjia3lj0aadb46prll07elg5.mov.	900	in	nsec3	1 0 1 5230C18414B3894A RCLA65RAABISAFP9BQ6AC2EPQEKLHAAE NS DS RRSIG
 rcahre3ufjia3lj0aadb46prll07elg5.mov.	900	in	rrsig	NSEC3 8 2 900 20251001024148 20250909024148 6535 mov. BmayGWe9InelMAGQ5bFaT03SN/fpNKhnY4mVhedecC7vp9xvx/A5lKTDYZsSlM0FnfI0C9i4Oeru46Y+GPi+sbotbkOVzfV3kpOWpEZHFRRo9tXFo6wapFCXNc882oymZkJVIWunEyUeUn5tN+c6rfALGEJBJYYdrGveF5G0w2Y=
 rcghhk.mov.	10800	in	ns	ns1.1233dns.com.
@@ -25063,8 +25062,8 @@ societe.mov.	10800	in	ns	nsb.perf1.com.
 societe.mov.	10800	in	ns	nsc.perf1.com.
 sodexo.mov.	10800	in	ns	dns1.cscdns.net.
 sodexo.mov.	10800	in	ns	dns2.cscdns.net.
-sodo66.mov.	10800	in	ns	harleigh.ns.cloudflare.com.
-sodo66.mov.	10800	in	ns	peyton.ns.cloudflare.com.
+sodo66.mov.	10800	in	ns	dns101.registrar-servers.com.
+sodo66.mov.	10800	in	ns	dns102.registrar-servers.com.
 soff.mov.	10800	in	ns	bristol.ns.cloudflare.com.
 soff.mov.	10800	in	ns	norman.ns.cloudflare.com.
 sofidy.mov.	10800	in	ns	ns-143-c.gandi.net.
@@ -28573,6 +28572,8 @@ websitedesign.mov.	10800	in	ns	ns59.domaincontrol.com.
 websitedesign.mov.	10800	in	ns	ns60.domaincontrol.com.
 webwatcher.mov.	10800	in	ns	dns1.registrar-servers.com.
 webwatcher.mov.	10800	in	ns	dns2.registrar-servers.com.
+wecima.mov.	10800	in	ns	jule.ns.cloudflare.com.
+wecima.mov.	10800	in	ns	leland.ns.cloudflare.com.
 weddingday.mov.	10800	in	ns	ns1.digitalocean.com.
 weddingday.mov.	10800	in	ns	ns2.digitalocean.com.
 weddingday.mov.	10800	in	ns	ns3.digitalocean.com.
@@ -29459,4 +29460,4 @@ zyymc.mov.	10800	in	ns	ns1.dnsip.com.
 zyymc.mov.	10800	in	ns	ns2.dnsip.com.
 zzmeb.mov.	10800	in	ns	ns1.dnsip.com.
 zzmeb.mov.	10800	in	ns	ns2.dnsip.com.
-mov.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2025091010 21600 3600 259200 900
+mov.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2025091110 21600 3600 259200 900
