@@ -1,4 +1,4 @@
-museum.	3600	in	soa	a.nic.fr. dnsmaster.afnic.fr. 2222691025 3600 1800 1209600 600
+museum.	3600	in	soa	a.nic.fr. dnsmaster.afnic.fr. 2222691173 3600 1800 1209600 600
 0panmrmk84lh2qm8bhk9rancm5mgdc6a.museum.	600	in	nsec3	1 1 0 - 0SFL89HTJVIIVKUTG7M28ILQLH5KFCK2 NS DS RRSIG
 0panmrmk84lh2qm8bhk9rancm5mgdc6a.museum.	600	in	rrsig	NSEC3 13 2 600 20251008175830 20250908171736 40450 museum. 8bRjuqbQoqVo73aQYiSvHH7mszg6nqXBUWRjsMTRrAKKSxa/h/JaHOVf6y28mXNpZ0zNGBY3+H8qPUbZrWB0rg==
 0sfl89htjviivkutg7m28ilqlh5kfck2.museum.	600	in	nsec3	1 1 0 - 17U4TVHDU3VKSG6M9C4VRC2R41BC4DR5 NS DS RRSIG
@@ -280,7 +280,7 @@ ask.museum.	3600	in	rrsig	DS 13 2 3600 20251009042658 20250909040458 40450 museu
 asta.museum.	3600	in	ds	38681 8 2 9B72E500A4CFB6682E48D1CCDE85EA06902716C202BD7C2461656C62102B7C2C
 asta.museum.	3600	in	ns	dns20.ovh.net.
 asta.museum.	3600	in	ns	ns20.ovh.net.
-asta.museum.	3600	in	rrsig	DS 13 2 3600 20250918183025 20250901113024 40450 museum. JOolYHmXDZ4LMIYrxWjxGPZ6k/eO4fyLO7kH42H/hpuZE9vIBic2FjGL+KdhHxMnv550h47bBGae0v4yBb5Xcw==
+asta.museum.	3600	in	rrsig	DS 13 2 3600 20251011174220 20250911173025 40450 museum. 2WgerNH6tXCKjgeJBbvIO/KCT5V6yH8ew3c6RATjalqvVJhQKX8/S+cIQfIIKYsd+eeHl5tEt5Ggjac83zOyOg==
 athens.museum.	3600	in	ns	ns1.netim.net.
 athens.museum.	3600	in	ns	ns2.netim.net.
 athens.museum.	3600	in	ns	ns3.netim.net.
@@ -323,7 +323,7 @@ auto-250616-dudiwebopumuwidekanu.museum.	3600	in	ns	jazax.auto-250616-matavaxejo
 auto-250616-dudiwebopumuwidekanu.museum.	3600	in	rrsig	DS 13 2 3600 20250920025941 20250901113024 40450 museum. P8VcE5pPmuXl4yiKViAWHm6YfuiXVEGbKNs4ujUHZUgXoe4drMi8t/Tp+b9YqoOxCHhcdcG+0by5CawuvtALhQ==
 auto-250616-gidivucizijejamavolo.museum.	3600	in	ds	11639 15 2 76CDC1301D625018D414511880C36CF37332F88184104A00786E32BEBCC35529
 auto-250616-gidivucizijejamavolo.museum.	3600	in	ns	zutex.auto-250616-lowubacigifawezodofo.org.
-auto-250616-gidivucizijejamavolo.museum.	3600	in	rrsig	DS 13 2 3600 20250918212231 20250901113024 40450 museum. d8NiQuITMACgHTecMBTX3bWYbxyRrUrK5+Q7a/fFuNecGNYcRHEwuVcjDMqp50EoKVPRafIllOuO7zuE3ElgWg==
+auto-250616-gidivucizijejamavolo.museum.	3600	in	rrsig	DS 13 2 3600 20251011210236 20250911202232 40450 museum. qN47bjAXxqX6toFZjMbfzs6pQcCYgP4sfl6pZ7y3F9QJiUceE1P0u3uR+UeKqVVI+//9pR2Hu9K0vIBs8NRaTA==
 auto-250616-lofapiwegurazedijuze.museum.	3600	in	ds	11629 8 4 D5E39ADBDBCDC0C89AC22E1BE9797A61210AC99FBFA5F7A535A03BB9BB2A6820ADEB05CB19328F86538A845AA8193531
 auto-250616-lofapiwegurazedijuze.museum.	3600	in	ns	zuwad.auto-250616-mulizovocazozaranule.org.
 auto-250616-lofapiwegurazedijuze.museum.	3600	in	rrsig	DS 13 2 3600 20251004142030 20250904135508 40450 museum. 9rqkNqVwmP42lamipsXare1AoCG57RzSqTv4GX2L0gwD6rOQwGIoJ4sODUkmmfVewqCINfWfZ5vHlEN8sTkugg==
@@ -2028,11 +2028,11 @@ museum.	3600	in	dnskey	257 3 13 KGvDSziZ229J0EIWCp4qVIqhYzqOJ5KC+7J/0Cmk5OERtVzw
 museum.	3600	in	ns	d.nic.fr.
 museum.	3600	in	ns	f.ext.nic.fr.
 museum.	3600	in	ns	g.ext.nic.fr.
-museum.	3600	in	rrsig	DNSKEY 13 1 3600 20250918150355 20250901112602 21025 museum. V58tfT00nzp4z8yHF1F4b7r422xFdi3zHGmpItjCzsN6VjyKUCfvBqgKzNUBCEbXeVi9bvIWiqQGrc1qN2vr9Q==
+museum.	3600	in	rrsig	DNSKEY 13 1 3600 20251011144133 20250911140355 21025 museum. jP00EB2hi1Cq/g6p3E7jFMOY/bJER+8B+fLYWTSjHt8Oj2WUwNLS+C5kOB4c49WV/YLFMkyUqUI9YMIgQVEvoA==
 museum.	3600	in	rrsig	NS 13 1 3600 20251008034818 20250908034146 40450 museum. GCBQp2oDyq6niy9stz+2wQxwpekMt2JAk+Ht0Be9CTFTobIBecEGsMVhfMRHlq+bnkbxJ8HhqlCjMU0vWUOK6w==
-museum.	3600	in	rrsig	SOA 13 1 3600 20251011000020 20250910230020 40450 museum. m++DUc50PuLC6NVei3Z0uy829GuGitKIQKCBSgH+9sxl3gkX2EyxshWiNQpjdG+skh5kdckKMv1B+rs1mSTK/A==
-museum.	3600	in	rrsig	TXT 13 1 3600 20251010133237 20250910230020 40450 museum. mhy8wq8ZXAuG495TuJS4nqmKyPgNVcus3iZKQ4t8uqXMKyh0lw/nattMfeXNt2RyXGaBct5HI6BWKfXSaWfqJA==
-museum.	3600	in	txt	"No RRs processed [11/09/2025 00H00:19]"
+museum.	3600	in	rrsig	SOA 13 1 3600 20251012000021 20250911230021 40450 museum. LZCWHF3sMltd4Y6WiEyPkPdoXT9XaVet8RoRFsq2gB0jd81H5M9fF0dpk0Z26rSxt0LwSjHGw0kVf8zX6stpqQ==
+museum.	3600	in	rrsig	TXT 13 1 3600 20251011155104 20250911230021 40450 museum. jfOX80R13wk4lsqMDFKEpFLuuYFpKgn2Ywblr0OkUAlWOGJGcWvmFkPXRXKF79ZC/aA2aGe7s9HEdU96CuqZ+A==
+museum.	3600	in	txt	"No RRs processed [12/09/2025 00H00:19]"
 museum.museum.	3600	in	ns	ns-164-a.gandi.net.
 museum.museum.	3600	in	ns	ns-236-c.gandi.net.
 museum.museum.	3600	in	ns	ns-65-b.gandi.net.
@@ -3082,7 +3082,7 @@ usk8k5od2l595qmlav54e9om9lk8ltqc.museum.	600	in	rrsig	NSEC3 13 2 600 20251001054
 uvobg5fjdfvst813uf52aa82kvthnms8.museum.	600	in	nsec3	1 1 0 - V3N3Q4F9BRI6DM8VQPMKCLCCQFQHAKST NS DS RRSIG
 uvobg5fjdfvst813uf52aa82kvthnms8.museum.	600	in	rrsig	NSEC3 13 2 600 20251008173023 20250908170120 40450 museum. BZmCWgIWgYHvCdR/95pbAaooGmst9wFUyDW70n86DXuHCwY5bbb9J16FVKaJFisfEYhUOzhD76nYlGTxg0moRg==
 v3n3q4f9bri6dm8vqpmkclccqfqhakst.museum.	600	in	nsec3	1 1 0 - V3OK7DBROORANL3TR38LHP2SOI4VV8E4 NS DS RRSIG
-v3n3q4f9bri6dm8vqpmkclccqfqhakst.museum.	600	in	rrsig	NSEC3 13 2 600 20250918010918 20250901113024 40450 museum. BiodC7f+xTwG/CtPHDo2xrA5jSKAq+259sftSVErCX3Xb2RPd92PG+20dBprTjTU5PDfxEb5vofq1Vaas7/vyw==
+v3n3q4f9bri6dm8vqpmkclccqfqhakst.museum.	600	in	rrsig	NSEC3 13 2 600 20251011005023 20250911000918 40450 museum. TgvbxLRqdNJMJ/ILL7KQrlhFs0vI4MTLBBiv5n65i/t2/fRqvCkX+fUu/Jp/QKX6flmm5OaWEhc8oeEE+0v++Q==
 v3ok7dbrooranl3tr38lhp2soi4vv8e4.museum.	600	in	nsec3	1 1 0 - V70K02NF7OG4NP6OEEE070NN35LO3GG6 NS DS RRSIG
 v3ok7dbrooranl3tr38lhp2soi4vv8e4.museum.	600	in	rrsig	NSEC3 13 2 600 20251008201916 20250908200315 40450 museum. zyL5hDckeDJq8atF/FrwSmpgZFXFHtOowDfTphOXhk4lBv3zi8rpZKzg4TNPphIRW/7tfcjiQKor5PNitChK5g==
 v70k02nf7og4np6oeee070nn35lo3gg6.museum.	600	in	nsec3	1 1 0 - VA3MVNO455PO510DT062FB4LDFT96CCK NS DS RRSIG
@@ -3323,4 +3323,4 @@ zomi.museum.	3600	in	ns	ns1.server.plus.
 zomi.museum.	3600	in	ns	ns1.zomi.net.
 zomi.museum.	3600	in	ns	ns2.server.plus.
 zomi.museum.	3600	in	ns	ns2.zomi.net.
-museum.	3600	in	soa	a.nic.fr. dnsmaster.afnic.fr. 2222691025 3600 1800 1209600 600
+museum.	3600	in	soa	a.nic.fr. dnsmaster.afnic.fr. 2222691173 3600 1800 1209600 600
