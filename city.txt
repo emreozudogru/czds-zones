@@ -1,4 +1,4 @@
-city.	3600	in	soa	v0n0.nic.city. hostmaster.donuts.email. 1757552654 7200 900 1209600 3600
+city.	3600	in	soa	v0n0.nic.city. hostmaster.donuts.email. 1757638864 7200 900 1209600 3600
 0.city.	3600	in	ns	ns01.domaincontrol.com.
 0.city.	3600	in	ns	ns02.domaincontrol.com.
 0001.city.	3600	in	ns	dns13.hichina.com.
@@ -202,7 +202,7 @@ city.	3600	in	soa	v0n0.nic.city. hostmaster.donuts.email. 1757552654 7200 900 12
 0k760khvheb1e9edea78debrmgj4hbc6.city.	3600	in	nsec3	1 1 0 73 0L07P6QVMP2L9M2KH60GE2OTGPLHLC58 NS DS RRSIG
 0k760khvheb1e9edea78debrmgj4hbc6.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. LHndpQzIPDwZFYxytwZeRK8Kqh0V3dSKP7R8wl0Xkpb6UN6fGkqfClIgLufOwJCib9knre0uZ1iPogmewqMBUs1R36Ps6yXJE0qP8CNai7KDp8lgwz99nga7dYpmXCLwaeakN4i4Fb9sEIH4vpChbCLmeQGVl7xf3wp92rJaYfo=
 0l07p6qvmp2l9m2kh60ge2otgplhlc58.city.	3600	in	nsec3	1 1 0 73 0NDTJFDB6VRS4DJLRLJ4A4UBH9G0H838 NS DS RRSIG
-0l07p6qvmp2l9m2kh60ge2otgplhlc58.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. itXwuljAgulziGfn3izXOzuNJ2lr85B6SlggdvtRR6yP86DPR93st2kSEjF8WTqNWXDQ0d5X5Q7Xn8w8xFvRPTVnnxeAXcAubuvQiXoPV4bKhKxjl9XzGuuLtx0BDDc5z7JKaRvODfdRmUdE4CaJw2ewcYBEzoOzA0K1Ngend+8=
+0l07p6qvmp2l9m2kh60ge2otgplhlc58.city.	3600	in	rrsig	NSEC3 8 2 3600 20251002224634 20250911214634 55041 city. Wb1GSbyvqwdJUXim9nF8TpAGH0Fzl3E1wcvHGcFllezTe1iveDGBksyUb/7LW1benYu1UwQqwt+ic3MK0LFIoZn6ZdQhZO2Cv2flQYhn5GQJCiqbmRw9eILg3fe3q1bUa4bSE8WKG8rXCsBsb6maezG4uinxzoA5LoL79Gpyzxw=
 0ndtjfdb6vrs4djlrlj4a4ubh9g0h838.city.	3600	in	nsec3	1 1 0 73 0NON0J61TVSU0CL2VLKPAHR6DP4UHHAQ NS DS RRSIG
 0ndtjfdb6vrs4djlrlj4a4ubh9g0h838.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. LzKExe9cPoCwmjcq6WaWOm6wLQPtDObo0qU06pJocS9i2qhbloyurBSFfxZCqkc7Q29l+FPLe9TZUVbMcx1X/nArG8vL0JNI5Q4EbfA11fN8tOmJkjs1SeUcLX3vwHMjfJPM/yfx7gX6JalsCaPya60HU51iZKmJ1xzZw5ODEf8=
 0ne.city.	3600	in	ns	ns0.directnic.com.
@@ -921,8 +921,8 @@ city.	3600	in	soa	v0n0.nic.city. hostmaster.donuts.email. 1757552654 7200 900 12
 25mfda6o6rni2rj4im0ff2aqfbbvncn0.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. Cr33cPbl43V+JTyDG9hm6rAnQFb9KPhCxGI50SDP4N+AqjT6kHymnLHFW7L3MHVWkM20J7Jre8KxQMqio6E/xH8Hwnar067RV+USIxfasAhbVPnXWFFVw418wYv6/iBadMYCM7uJmpVXSDquoBoqb8Xu5NBixC2lS4accMPLsMY=
 25mr9h9m0geo031kb667r6o04r2jhajb.city.	3600	in	nsec3	1 1 0 73 26EPSAG81OQ0A33EHMJ8LGJQ16BSB1KU NS DS RRSIG
 25mr9h9m0geo031kb667r6o04r2jhajb.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. je6xLWtY0I6AMDOBrc9A937T++1D+Rvf+Kr6NpQG0pR999f9EsTMZa/T5Icb0ePwwWJll6p9eVmSgjfnsLLP4nAewtNEmwfTtALcz05WhNhd2s7mBFjVLqRbVlIea83ePtCOsuvcSB/1e5xvGP7zkT3gTL8/OrtapRxR/gblrso=
-25questions.city.	3600	in	ns	ns1.bodis.com.
-25questions.city.	3600	in	ns	ns2.bodis.com.
+25questions.city.	3600	in	ns	ns1.dns-redirect.com.
+25questions.city.	3600	in	ns	ns2.dns-redirect.com.
 25thward.city.	3600	in	ds	49652 8 2 AA8A8721252F6DCB75F93D35D2CD03786F9622575AF9C894421B2A2ED18B3BD8
 25thward.city.	3600	in	ns	ns-cloud-c1.googledomains.com.
 25thward.city.	3600	in	ns	ns-cloud-c2.googledomains.com.
@@ -1306,7 +1306,7 @@ city.	3600	in	soa	v0n0.nic.city. hostmaster.donuts.email. 1757552654 7200 900 12
 37ri8udu4o5kvddpkcnnkqa64g64jhct.city.	3600	in	nsec3	1 1 0 73 385HINABLFQBOPSL5ANBRU7BQ02M5BT1 NS DS RRSIG
 37ri8udu4o5kvddpkcnnkqa64g64jhct.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. uNlvywDIE8W1NJ0C5H+FoYzEWidoK0uWxffsUbmf29xmBv3oGMRZ+XbSxRombKroVRomDUfa8OELhRd5jp4S6TYfqk4SIIFeGoECkY8K9HfvBwBqWETYPBcABryd5reOIkBPsYojtEfRO85TNI4lIzT+PFOjI6ZCQiXQfEa2mnA=
 385hinablfqbopsl5anbru7bq02m5bt1.city.	3600	in	nsec3	1 1 0 73 399HE077O7R5UCCM6N2D44CQTCOF2MCN NS DS RRSIG
-385hinablfqbopsl5anbru7bq02m5bt1.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. RYJozUEj9xGdXAO3TnQN2uAi5Lft3zrOCo1ok6QoxRK2hZLQKXVh2JRr4GvEb2E+YmBqT7vzeX75DnMDyKnqCyOPc/yCiLSNbGtb/CC0FyquJB4idFopUAIMr04l7YGEYMEEd8a2raVQuFZUpvgNoiB7C8pHLDZp59KNlor6l5Q=
+385hinablfqbopsl5anbru7bq02m5bt1.city.	3600	in	rrsig	NSEC3 8 2 3600 20251002224634 20250911214634 55041 city. RCNNCSi8Lc//4R6xdRl4eT3XIZggyr103ffKLQyIvFCqeDU4fkNlJsy4VTfnldfkHAWiAgvfF1OXfQgFd2bNg9i0qUbfSGD0+Zv7WX8vAkyl8cHWcyPUvQVvmT1L9vUDlsmqOyGyswZ6TooyjKpHChxfieY4+YZvmKzRCp595jY=
 386527.city.	3600	in	ns	ns1.dnsip.com.
 386527.city.	3600	in	ns	ns2.dnsip.com.
 388bet.city.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -1460,7 +1460,7 @@ city.	3600	in	soa	v0n0.nic.city. hostmaster.donuts.email. 1757552654 7200 900 12
 3uqdcb9nog1b6s3etdmqhrkskq1c75g6.city.	3600	in	nsec3	1 1 0 73 3V59NFT2UR010QTP7BNM9M2K1UTQMMFK NS DS RRSIG
 3uqdcb9nog1b6s3etdmqhrkskq1c75g6.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. tr33xg1r2G2jkp+X3FgCucDuJ1Jqngfj0tytV4N0GcCO37NwFOCCFsczEshnYFZoEigWKNYrvWOn5WjWMiWkGzyukR8cZyL/AC5vuvOWwvlVFWDyO+INzQt3gFB1r4/OtvcXKLNbjfgTNTQzTnQ80gdEAbD4owcIp//ROvwoksU=
 3v59nft2ur010qtp7bnm9m2k1utqmmfk.city.	3600	in	nsec3	1 1 0 73 44FE33UQ4KFVGA8Q58C2O73C3HH5HLAU NS DS RRSIG
-3v59nft2ur010qtp7bnm9m2k1utqmmfk.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. cJYGCGqsGnUTtXOTzIFhX6nCh1vQYGQIBhHBOb7eMecuSJi12PZwch1AfrsN9DzZVVPbHGam4mCqLXW5KtECvV96OQoMsfE3CnbJyCgz/iQq6ouoERgk1/tBH9tT5k12BqwZxF2hiGJeysc5N+amUgle6MZpBT7qaKtjMOolrb4=
+3v59nft2ur010qtp7bnm9m2k1utqmmfk.city.	3600	in	rrsig	NSEC3 8 2 3600 20251002224634 20250911214634 55041 city. DGFaYHrPjycTQs2W4TNVOiZoZfbaZndlfdRNVPY9HLt3Rb+iTF+ZcXITi81VSETIVnOXmImEyCOe5n/k/wYJ6MTlWCwMb3uxrs4eEjClidqOOVh0ybp5a0w8RuYW4Ji9D3F5rVOlvy1wQCccPqSMbwu7lMvnDzdI8LvSbmegp8w=
 3win8.city.	3600	in	ns	naomi.ns.cloudflare.com.
 3win8.city.	3600	in	ns	noel.ns.cloudflare.com.
 3xbet.city.	3600	in	ns	charles.ns.cloudflare.com.
@@ -2633,8 +2633,6 @@ city.	3600	in	soa	v0n0.nic.city. hostmaster.donuts.email. 1757552654 7200 900 12
 88b.city.	3600	in	ns	jasper.ns.cloudflare.com.
 88bet.city.	3600	in	ns	ns1.afternic.com.
 88bet.city.	3600	in	ns	ns2.afternic.com.
-88clb.city.	3600	in	ns	dns101.registrar-servers.com.
-88clb.city.	3600	in	ns	dns102.registrar-servers.com.
 88clb88.city.	3600	in	ns	eric.ns.cloudflare.com.
 88clb88.city.	3600	in	ns	may.ns.cloudflare.com.
 88club.city.	3600	in	ns	dns1.registrar-servers.com.
@@ -3104,9 +3102,6 @@ city.	3600	in	soa	v0n0.nic.city. hostmaster.donuts.email. 1757552654 7200 900 12
 9vnt7df9she0i82gvfcjrrqsq6og2l8u.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. JkSZhS+klgGbRPIX9Ijceh03E2tcgHXeZlNflbU3Cb7Y8wbpMBg3sm7Ze/WHVpEk7tKGzsMcVwMiihnFagU7TlavT+lmBDBanh+GmVYVgvosCW25npTR/y5Tr+8LS6wm2m2Gbbjdre1YPHPE5P77cfFUXqtA47ePlOvJ1LHICxI=
 9vquhmkrr3leagrvdkuf4hvj1vk8f29a.city.	3600	in	nsec3	1 1 0 73 A06F82H8Q3207RRDMB9P0FKJ333EV400 NS DS RRSIG
 9vquhmkrr3leagrvdkuf4hvj1vk8f29a.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. hmW3+9FRGGydYFkyrJuNRLnr+B3GPdheltYlPeyD7Sg3ZgwQR2tNCcFQnDznBW9Xc7bpVN+DzO/Yi2ghkJizCb81Un866/UsUFesfSB5RpZgJ95FkcA+s2HBazglU1rxDgd8GW5Jnis3/KxDlozLVjDvN6l6aCHolf4/SQSM6D0=
-9xflix.city.	3600	in	ns	ns1.dnsowl.com.
-9xflix.city.	3600	in	ns	ns2.dnsowl.com.
-9xflix.city.	3600	in	ns	ns3.dnsowl.com.
 9xmovies.city.	3600	in	ns	ns1.brainydns.com.
 9xmovies.city.	3600	in	ns	ns2.brainydns.com.
 a-gate.city.	3600	in	ns	ns1.xserver.jp.
@@ -3624,6 +3619,9 @@ acu.city.	3600	in	ds	2371 13 2 1BF2E3AF877C04B58C83A112AE12B8C64C84AB71C2B4C88B6
 acu.city.	3600	in	ns	bob.ns.cloudflare.com.
 acu.city.	3600	in	ns	michelle.ns.cloudflare.com.
 acu.city.	3600	in	rrsig	DS 8 2 3600 20250930153337 20250909143337 55041 city. DjKaveJI6tnZuslBsKlrWlnMduRs10+Eu2nCnsWlM5Qpwbm9BHFpsWJVWitxq3HjJ8kLVOAv9D8Azkc8xZf94cyHtxEx5Lapv1UOhrVOZUnkSb33Yx84nGiRnhcontdxwTbBI3qV2pUcCyPuqazj9aD/j6UCkonOsG/oIZb/l6M=
+acultinthe.city.	3600	in	ns	ns1.wordpress.com.
+acultinthe.city.	3600	in	ns	ns2.wordpress.com.
+acultinthe.city.	3600	in	ns	ns3.wordpress.com.
 acumen.city.	3600	in	ns	ns1.atom.com.
 acumen.city.	3600	in	ns	ns2.atom.com.
 acupuncture.city.	3600	in	ns	ns55.domaincontrol.com.
@@ -4061,6 +4059,8 @@ agde.city.	3600	in	ds	59767 8 2 FC73ECE6173EB90D5E7E82C055906A0028E1E4A51E9CA93F
 agde.city.	3600	in	ns	dns20.ovh.net.
 agde.city.	3600	in	ns	ns20.ovh.net.
 agde.city.	3600	in	rrsig	DS 8 2 3600 20250930153337 20250909143337 55041 city. glzFpWU484fo2n0xxNyOWQ/XYwEu7z9GnsWzKJf5bSU79HaY/X3ymLyyCaO8OUCQOPktvqJTpi3497rPZ73xbXu98dce9uDbzkiAAW092VQOndzIxOPy6gLnzvJsNkJHErYQ5gojKeA4ZNHByFEKgZajm2jMjP+8h5bvGQ1jOGE=
+agedcare.city.	3600	in	ns	paige.ns.cloudflare.com.
+agedcare.city.	3600	in	ns	rick.ns.cloudflare.com.
 agefriendlycycling.city.	3600	in	ns	ns1.wordpress.com.
 agefriendlycycling.city.	3600	in	ns	ns2.wordpress.com.
 agefriendlycycling.city.	3600	in	ns	ns3.wordpress.com.
@@ -4267,8 +4267,6 @@ aibitcoin.city.	3600	in	ns	ns1.afternic.com.
 aibitcoin.city.	3600	in	ns	ns2.afternic.com.
 aibiz.city.	3600	in	ns	dns101.registrar-servers.com.
 aibiz.city.	3600	in	ns	dns102.registrar-servers.com.
-aibizmarketimpact.city.	3600	in	ns	dns101.registrar-servers.com.
-aibizmarketimpact.city.	3600	in	ns	dns102.registrar-servers.com.
 aiblog.city.	3600	in	ds	9404 8 2 51EEB171BD660A67B8DB5DD099FFF6685262CC96991BABCC1C7CBFD9746F02E5
 aiblog.city.	3600	in	ns	dns200.anycast.me.
 aiblog.city.	3600	in	ns	ns200.anycast.me.
@@ -5712,8 +5710,8 @@ animehay.city.	3600	in	ns	coby.ns.cloudflare.com.
 animehay.city.	3600	in	ns	desi.ns.cloudflare.com.
 animekaizoku.city.	3600	in	ns	dale.ns.cloudflare.com.
 animekaizoku.city.	3600	in	ns	mallory.ns.cloudflare.com.
-animesuge.city.	3600	in	ns	aarav.ns.cloudflare.com.
-animesuge.city.	3600	in	ns	angelina.ns.cloudflare.com.
+animesuge.city.	3600	in	ns	dns101.registrar-servers.com.
+animesuge.city.	3600	in	ns	dns102.registrar-servers.com.
 animetitty.city.	3600	in	ns	ns-cloud-a1.googledomains.com.
 animetitty.city.	3600	in	ns	ns-cloud-a2.googledomains.com.
 animetitty.city.	3600	in	ns	ns-cloud-a3.googledomains.com.
@@ -6331,8 +6329,8 @@ archive.city.	3600	in	ns	ns1.dyna-ns.net.
 archive.city.	3600	in	ns	ns2.dyna-ns.net.
 archiveny.city.	3600	in	ns	norah.ns.cloudflare.com.
 archiveny.city.	3600	in	ns	vasilii.ns.cloudflare.com.
-arcoiris.city.	3600	in	ns	ns1.bodis.com.
-arcoiris.city.	3600	in	ns	ns2.bodis.com.
+arcoiris.city.	3600	in	ns	ns1.dns-redirect.com.
+arcoiris.city.	3600	in	ns	ns2.dns-redirect.com.
 arcology.city.	3600	in	ns	ns39.domaincontrol.com.
 arcology.city.	3600	in	ns	ns40.domaincontrol.com.
 arcrate.city.	3600	in	ns	ns51.domaincontrol.com.
@@ -8156,9 +8154,8 @@ baldosa.city.	3600	in	ns	maceio.ns.porkbun.com.
 baldosa.city.	3600	in	ns	salvador.ns.porkbun.com.
 baldwinpark.city.	3600	in	ns	ns1.dyna-ns.net.
 baldwinpark.city.	3600	in	ns	ns2.dyna-ns.net.
-bale.city.	3600	in	ns	1-you.njalla.no.
-bale.city.	3600	in	ns	2-can.njalla.in.
-bale.city.	3600	in	ns	3-get.njalla.fo.
+bale.city.	3600	in	ns	conrad.ns.cloudflare.com.
+bale.city.	3600	in	ns	raquel.ns.cloudflare.com.
 balharbor.city.	3600	in	ns	ns1.whois.com.
 balharbor.city.	3600	in	ns	ns2.whois.com.
 balharbor.city.	3600	in	ns	ns3.whois.com.
@@ -8361,10 +8358,10 @@ banzai.city.	3600	in	ns	ns3.jino.ru.
 banzai.city.	3600	in	ns	ns4.jino.ru.
 bao.city.	3600	in	ns	ns1.alidns.com.
 bao.city.	3600	in	ns	ns2.alidns.com.
+bao99.city.	3600	in	ns	elisa.ns.cloudflare.com.
+bao99.city.	3600	in	ns	porter.ns.cloudflare.com.
 baobab.city.	3600	in	ns	ns1.dns-redirect.com.
 baobab.city.	3600	in	ns	ns2.dns-redirect.com.
-baobao.city.	3600	in	ns	expirens3.hichina.com.
-baobao.city.	3600	in	ns	expirens4.hichina.com.
 baohbm6t9joni1mvsidmtaoom1sdbfr4.city.	3600	in	nsec3	1 1 0 73 BB9KNTERS40LPQTQF14NP1J2VAMD9QU2 NS DS RRSIG
 baohbm6t9joni1mvsidmtaoom1sdbfr4.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. 0M9h9dKGGFCzw6HzzUAN/Vn12RBo6ZRVRDR0351RpLr3K36V3HKvarDlLybNqmhg9wxgpMGAaRpO5eXKPUHwYRauHNOynu0B8FjwUrE31ovb68ih6wQzm4281B4NER2m/DRENPxPOeD/Abh1L/5BQ6FNMkdc2JIBYua5N4sKpHg=
 baojie.city.	3600	in	ns	ns1.myhostadmin.net.
@@ -9140,6 +9137,9 @@ belviewgleizeslangi.city.	3600	in	ns	bowen.ns.cloudflare.com.
 belviewgleizeslangi.city.	3600	in	ns	fay.ns.cloudflare.com.
 bembel.city.	3600	in	ns	ns1.dombox.eu.
 bembel.city.	3600	in	ns	ns2.dombox.eu.
+bemcartao.city.	3600	in	ns	ns1.locaweb.com.br.
+bemcartao.city.	3600	in	ns	ns2.locaweb.com.br.
+bemcartao.city.	3600	in	ns	ns3.locaweb.com.br.
 bemyride.city.	3600	in	ns	dns104.ovh.net.
 bemyride.city.	3600	in	ns	ns104.ovh.net.
 ben.city.	3600	in	ns	anderson.ns.cloudflare.com.
@@ -9165,6 +9165,8 @@ benditong.city.	3600	in	ns	kimberley.dnspod.net.
 benefit.city.	3600	in	ns	helium.ns.hetzner.de.
 benefit.city.	3600	in	ns	hydrogen.ns.hetzner.com.
 benefit.city.	3600	in	ns	oxygen.ns.hetzner.com.
+benefitland.city.	3600	in	ns	ns1.dyna-ns.net.
+benefitland.city.	3600	in	ns	ns2.dyna-ns.net.
 bengaluru.city.	3600	in	ns	ns53.domaincontrol.com.
 bengaluru.city.	3600	in	ns	ns54.domaincontrol.com.
 bengbu.city.	3600	in	ns	dns15.hichina.com.
@@ -10711,8 +10713,8 @@ bluelight.city.	3600	in	ns	ns3jnr.name.com.
 bluelight.city.	3600	in	ns	ns4dls.name.com.
 bluelink.city.	3600	in	ns	dns1.registrar-servers.com.
 bluelink.city.	3600	in	ns	dns2.registrar-servers.com.
-bluemonkey.city.	3600	in	ns	ns1.bodis.com.
-bluemonkey.city.	3600	in	ns	ns2.bodis.com.
+bluemonkey.city.	3600	in	ns	ns1.dns-redirect.com.
+bluemonkey.city.	3600	in	ns	ns2.dns-redirect.com.
 bluemoon.city.	3600	in	ns	ns1.afternic.com.
 bluemoon.city.	3600	in	ns	ns2.afternic.com.
 bluemountains.city.	3600	in	ns	ns1.stabletransit.com.
@@ -11012,8 +11014,8 @@ bolly2tolly.city.	3600	in	ns	ns1.afternic.com.
 bolly2tolly.city.	3600	in	ns	ns2.afternic.com.
 bolly4u.city.	3600	in	ns	kaiser.ns.cloudflare.com.
 bolly4u.city.	3600	in	ns	roxy.ns.cloudflare.com.
-bollyflix.city.	3600	in	ns	ns1.bodis.com.
-bollyflix.city.	3600	in	ns	ns2.bodis.com.
+bollyflix.city.	3600	in	ns	ns1.dns-redirect.com.
+bollyflix.city.	3600	in	ns	ns2.dns-redirect.com.
 bologna.city.	3600	in	ns	ns3.afternic.com.
 bologna.city.	3600	in	ns	ns4.afternic.com.
 bolognasmart.city.	3600	in	ds	62179 8 2 FCA74BEECA09741550E180C4B6797E2EA44517B5F09E787DD41A63D8AFD78637
@@ -11099,6 +11101,10 @@ bongdalu.city.	3600	in	ns	jarred.ns.cloudflare.com.
 bongdalu.city.	3600	in	ns	princess.ns.cloudflare.com.
 bongdaso66.city.	3600	in	ns	adel.ns.cloudflare.com.
 bongdaso66.city.	3600	in	ns	cody.ns.cloudflare.com.
+bonghwa.city.	3600	in	ns	ns1.hosting.co.kr.
+bonghwa.city.	3600	in	ns	ns2.hosting.co.kr.
+bonghwa.city.	3600	in	ns	ns3.hosting.co.kr.
+bonghwa.city.	3600	in	ns	ns4.hosting.co.kr.
 bongjamin.city.	3600	in	ns	ada.ns.cloudflare.com.
 bongjamin.city.	3600	in	ns	piers.ns.cloudflare.com.
 bongvip.city.	3600	in	ns	dns101.registrar-servers.com.
@@ -12874,8 +12880,8 @@ cams.city.	3600	in	ns	ns65.domaincontrol.com.
 cams.city.	3600	in	ns	ns66.domaincontrol.com.
 camsafeweb.city.	3600	in	ns	dahlia.ns.cloudflare.com.
 camsafeweb.city.	3600	in	ns	dakota.ns.cloudflare.com.
-camus.city.	3600	in	ns	ns1.bodis.com.
-camus.city.	3600	in	ns	ns2.bodis.com.
+camus.city.	3600	in	ns	ns1.dns-redirect.com.
+camus.city.	3600	in	ns	ns2.dns-redirect.com.
 camuy.city.	3600	in	ns	dns1.registrar-servers.com.
 camuy.city.	3600	in	ns	dns2.registrar-servers.com.
 camwhore.city.	3600	in	ns	dns1.registrar-servers.com.
@@ -13064,9 +13070,9 @@ capital.city.	3600	in	ns	ns2.afternic.com.
 capital.city.	3600	in	ns	verification-qaxpgh9dahjr9zkpwwmdzx.ns101.verify.hn.
 capital303.city.	3600	in	ns	dns1.registrar-servers.com.
 capital303.city.	3600	in	ns	dns2.registrar-servers.com.
-capitalexchange.city.	3600	in	ns	dns.capitalexchange.ee.
-capitalexchange.city.	3600	in	ns	dns.capitalexchange.markets.
-capitalexchange.city.	3600	in	ns	dns.capitalexchange.to.
+capitalexchange.city.	3600	in	ns	nsa.capitalexchange.cloud.
+capitalexchange.city.	3600	in	ns	nsd.capitalexchange.cx.
+capitalexchange.city.	3600	in	ns	nsx.capitalexchange.ax.
 capitalpro.city.	3600	in	ns	ns47.domaincontrol.com.
 capitalpro.city.	3600	in	ns	ns48.domaincontrol.com.
 capitalsmart.city.	3600	in	ns	dns1.registrar-servers.com.
@@ -13301,6 +13307,9 @@ cart.city.	3600	in	ns	maceio.ns.porkbun.com.
 cart.city.	3600	in	ns	salvador.ns.porkbun.com.
 cartagena.city.	3600	in	ns	ns35.domaincontrol.com.
 cartagena.city.	3600	in	ns	ns36.domaincontrol.com.
+cartao.city.	3600	in	ns	ns1.locaweb.com.br.
+cartao.city.	3600	in	ns	ns2.locaweb.com.br.
+cartao.city.	3600	in	ns	ns3.locaweb.com.br.
 cartel.city.	3600	in	ns	ns23.domaincontrol.com.
 cartel.city.	3600	in	ns	ns24.domaincontrol.com.
 carthage.city.	3600	in	ds	18551 8 2 3DB8E8414F69A3713523DDEEEF37BDDBC82349B4011E00438EB20E0E03F448F3
@@ -13601,6 +13610,9 @@ cbdoil.city.	3600	in	ns	ns1.hyp.net.
 cbdoil.city.	3600	in	ns	ns2.hyp.net.
 cbdoil.city.	3600	in	ns	ns3.hyp.net.
 cbdoil.city.	3600	in	rrsig	DS 8 2 3600 20250930153337 20250909143337 55041 city. Lt3k/QlvaMqsysxpUzkmNDOgtZaEfnWdCbkbaakmFuPBxPCrAxXR49cwmoZyHOWwlL0hQsK78bz7HZ8JAHBaO6ZmF7f3xbdBwpUDbTKald4CP8JpqMOZ7kQepn+h5p7YpeRalUtJS+wB1p/4vIZuqbVqVWaWHu2ymd2hPf5coZA=
+cbem.city.	3600	in	ns	ns1.locaweb.com.br.
+cbem.city.	3600	in	ns	ns2.locaweb.com.br.
+cbem.city.	3600	in	ns	ns3.locaweb.com.br.
 cbio.city.	3600	in	ns	ns1.hostmidia.com.br.
 cbio.city.	3600	in	ns	ns2.hostmidia.com.br.
 cbirz.city.	3600	in	ns	ns1.dyna-ns.net.
@@ -14285,8 +14297,8 @@ cheer.city.	3600	in	ns	ns1.afternic.com.
 cheer.city.	3600	in	ns	ns2.afternic.com.
 cheerreal.city.	3600	in	ns	dns31.hichina.com.
 cheerreal.city.	3600	in	ns	dns32.hichina.com.
-cheers.city.	3600	in	ns	ns1.bodis.com.
-cheers.city.	3600	in	ns	ns2.bodis.com.
+cheers.city.	3600	in	ns	ns1.dns-redirect.com.
+cheers.city.	3600	in	ns	ns2.dns-redirect.com.
 cheese.city.	3600	in	ns	ns1.atom.com.
 cheese.city.	3600	in	ns	ns2.atom.com.
 cheesecake.city.	3600	in	ns	ns65.domaincontrol.com.
@@ -14555,12 +14567,8 @@ chino.city.	3600	in	ns	ns1.dyna-ns.net.
 chino.city.	3600	in	ns	ns2.dyna-ns.net.
 chinohills.city.	3600	in	ns	ns1.dyna-ns.net.
 chinohills.city.	3600	in	ns	ns2.dyna-ns.net.
-chip.city.	3600	in	ns	ns1.myhostadmin.net.
-chip.city.	3600	in	ns	ns2.myhostadmin.net.
-chip.city.	3600	in	ns	ns3.myhostadmin.net.
-chip.city.	3600	in	ns	ns4.myhostadmin.net.
-chip.city.	3600	in	ns	ns5.myhostadmin.net.
-chip.city.	3600	in	ns	ns6.myhostadmin.net.
+chip.city.	3600	in	ns	ns1.afternic.com.
+chip.city.	3600	in	ns	ns2.afternic.com.
 chipiona.city.	3600	in	ns	ns1.siteground.net.
 chipiona.city.	3600	in	ns	ns2.siteground.net.
 chipli.city.	3600	in	ns	pdns07.domaincontrol.com.
@@ -15070,7 +15078,7 @@ city.	3600	in	nsec3param	1 0 0 73
 city.	3600	in	rrsig	DNSKEY 8 1 3600 20250930153337 20250909143337 32800 city. Umvv0mGAizueSDK5fsFhnku42JhjD/PPt8EyOMlmB/KaM9/p0uKHq6zE76OVh/ckq3GS7IAK0680kafm4U+9LmbBlop1AEsvaIxN16otIqSFxLT/n8uHhPQyClI12VsQh9gWPgfMoc2TZE59nIzVQysoN818GWzHHbSptqsNC65X0CZ0/mEOzEgDvWDE5j9E05j9+cBIE8BHKXIXt+ufJaqD/CbJCFnt5LolCh7gRFQQ25tMpDu1Sbv9d/wPAe9PSZ7RlyIdaR8cRPcUqCm8ypc/71K+19VQXao/oTVYq7Vw3h3N8wgscfEFMgI6GdI2yYNm0q222cXpAezsYPPr7Q==
 city.	3600	in	rrsig	NS 8 1 3600 20250930153337 20250909143337 55041 city. WdL+O/FyEl3Ty0E/oXmkDjVgEMOaTjY2qfuS1W5mNXvsKN0eq2YkJFVQbWMtJ3M+nkwOzwBIDRaWtcSkJ7Iq/jfPJ0XYIO+xrNQzNMEzlJdkBD04jhpXHyP9Eok1RE4mT6eWLx23tofCutvxxS9BHBBh/Hffety2YX2uTkyeMfQ=
 city.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930153337 20250909143337 55041 city. XOhWmBVfmm0DRQuydTI/t/Sra/kSpVNg3lGN54reOGg/KQ6umats7mPn3BwJ6Fy0mopY6r5qcCVHLu1dWY+C5AsBbmakWtGGpyW9keYTcZbaFF/ZIvniipxUP1D6Gze5RFEsXzc7U7OWNRQmQAGlEMaygxY60iiou7fUrcBDQbs=
-city.	3600	in	rrsig	SOA 8 1 3600 20251002010709 20250911000709 55041 city. N4tuIbbnoTi3mJaHCBAkGoC2/pXyF7m25wJyhPnGX/yVObQwrf91TN210Gmv4KpHSF0O4qWR3ncJ3F4lLWCPDW6ef2E1J/EPg/z0XHCBLXoOiwI+Ocn5jo2PV5lM2kM+FGswdOBqklaZGTnKIhTSsS6zz2rrj3mpp1Z4vK1M+mo=
+city.	3600	in	rrsig	SOA 8 1 3600 20251003010349 20250912000349 55041 city. v/Yo0/J/Tfnfhhp8sPCOt+kP9R7/+QtVRJAHjdQT8NE6we9ODOpYUAUfNhJGbeHayUYe8tkjBj1xsJdEXRoBOVuzXxmVzB1nqqK0xVgxjfBGU8LJWrKtOzcsiSn8vE6iQ4+SGx5xNeVLtAmro/Z2ZWnuQRyFrKS2UYYtl0mhVPw=
 city.city.	3600	in	ns	ns1.myhostadmin.net.
 city.city.	3600	in	ns	ns2.myhostadmin.net.
 city.city.	3600	in	ns	ns3.myhostadmin.net.
@@ -15457,6 +15465,8 @@ civic1.city.	3600	in	ns	ns-cloud-d3.googledomains.com.
 civic1.city.	3600	in	ns	ns-cloud-d4.googledomains.com.
 civicdramaturgy.city.	3600	in	ns	dns1.registrar-servers.com.
 civicdramaturgy.city.	3600	in	ns	dns2.registrar-servers.com.
+civicos.city.	3600	in	ns	ns67.domaincontrol.com.
+civicos.city.	3600	in	ns	ns68.domaincontrol.com.
 civics.city.	3600	in	ns	ns-1198.awsdns-21.org.
 civics.city.	3600	in	ns	ns-1759.awsdns-27.co.uk.
 civics.city.	3600	in	ns	ns-506.awsdns-63.com.
@@ -15685,8 +15695,8 @@ cliftonburke.city.	3600	in	ns	docks14.rzone.de.
 cliftonburke.city.	3600	in	ns	shades06.rzone.de.
 clima.city.	3600	in	ns	ns1.afternic.com.
 clima.city.	3600	in	ns	ns2.afternic.com.
-climate-fit.city.	3600	in	ns	ns1.bodis.com.
-climate-fit.city.	3600	in	ns	ns2.bodis.com.
+climate-fit.city.	3600	in	ns	ns1.dns-redirect.com.
+climate-fit.city.	3600	in	ns	ns2.dns-redirect.com.
 climate-resilient.city.	3600	in	ns	ns45.domaincontrol.com.
 climate-resilient.city.	3600	in	ns	ns46.domaincontrol.com.
 climate.city.	3600	in	ns	ns35.domaincontrol.com.
@@ -17064,8 +17074,8 @@ corfu.city.	3600	in	ns	dns1.papaki.gr.
 corfu.city.	3600	in	ns	dns2.papaki.gr.
 cork.city.	3600	in	ns	buynow.nametime.com.
 cork.city.	3600	in	ns	forsale.nametime.com.
-corla188.city.	3600	in	ns	davina.ns.cloudflare.com.
-corla188.city.	3600	in	ns	thaddeus.ns.cloudflare.com.
+corla188.city.	3600	in	ns	kurt.ns.cloudflare.com.
+corla188.city.	3600	in	ns	zita.ns.cloudflare.com.
 corleone.city.	3600	in	ns	ns1.easyname.eu.
 corleone.city.	3600	in	ns	ns2.easyname.eu.
 corn.city.	3600	in	ns	ns1.afternic.com.
@@ -17313,8 +17323,8 @@ cp-berage.city.	3600	in	ns	curt.ns.cloudflare.com.
 cp-berage.city.	3600	in	ns	melody.ns.cloudflare.com.
 cpanel.city.	3600	in	ns	ns75.domaincontrol.com.
 cpanel.city.	3600	in	ns	ns76.domaincontrol.com.
-cpasbien.city.	3600	in	ns	ns1.bodis.com.
-cpasbien.city.	3600	in	ns	ns2.bodis.com.
+cpasbien.city.	3600	in	ns	ns1.dns-redirect.com.
+cpasbien.city.	3600	in	ns	ns2.dns-redirect.com.
 cpasmieux.city.	3600	in	ns	ns1.dns-redirect.com.
 cpasmieux.city.	3600	in	ns	ns2.dns-redirect.com.
 cpec.city.	3600	in	ds	32492 8 2 3EF4C3109FD41AABA74A3E96F490C142E220DA9A733EFB8ED08FDCF22D33CB10
@@ -17991,8 +18001,8 @@ curacaomap.city.	3600	in	ns	dns1.p05.nsone.net.
 curacaomap.city.	3600	in	ns	dns2.p05.nsone.net.
 curacaomap.city.	3600	in	ns	dns3.p05.nsone.net.
 curacaomap.city.	3600	in	ns	dns4.p05.nsone.net.
-curate.city.	3600	in	ns	ns1.bodis.com.
-curate.city.	3600	in	ns	ns2.bodis.com.
+curate.city.	3600	in	ns	ns1.dns-redirect.com.
+curate.city.	3600	in	ns	ns2.dns-redirect.com.
 curated.city.	3600	in	ns	ns05.domaincontrol.com.
 curated.city.	3600	in	ns	ns06.domaincontrol.com.
 curative.city.	3600	in	ns	ns-11-a.gandi.net.
@@ -18596,8 +18606,6 @@ dao.city.	3600	in	ns	ns1.uniregistry-dns.com.
 dao.city.	3600	in	ns	ns1.uniregistry-dns.net.
 dao.city.	3600	in	ns	ns2.uniregistry-dns.com.
 dao.city.	3600	in	ns	ns2.uniregistry-dns.net.
-daodao.city.	3600	in	ns	ns1.muumuu-domain.com.
-daodao.city.	3600	in	ns	ns2.muumuu-domain.com.
 daojia.city.	3600	in	ns	dns11.hichina.com.
 daojia.city.	3600	in	ns	dns12.hichina.com.
 daos.city.	3600	in	ns	drake.ns.cloudflare.com.
@@ -19718,8 +19726,8 @@ dew.city.	3600	in	ns	ns1cmt.name.com.
 dew.city.	3600	in	ns	ns2fgp.name.com.
 dew.city.	3600	in	ns	ns3gmt.name.com.
 dew.city.	3600	in	ns	ns4dls.name.com.
-dewa303.city.	3600	in	ns	ns1.bodis.com.
-dewa303.city.	3600	in	ns	ns2.bodis.com.
+dewa303.city.	3600	in	ns	ns1.dns-redirect.com.
+dewa303.city.	3600	in	ns	ns2.dns-redirect.com.
 dewagg.city.	3600	in	ns	candy.ns.cloudflare.com.
 dewagg.city.	3600	in	ns	henry.ns.cloudflare.com.
 dewapoker.city.	3600	in	ns	candy.ns.cloudflare.com.
@@ -21169,8 +21177,8 @@ dr88.city.	3600	in	ns	lewis.ns.cloudflare.com.
 dr88.city.	3600	in	ns	nola.ns.cloudflare.com.
 draft.city.	3600	in	ns	ns1.afternic.com.
 draft.city.	3600	in	ns	ns2.afternic.com.
-dragon-money.city.	3600	in	ns	rory.ns.cloudflare.com.
-dragon-money.city.	3600	in	ns	sonia.ns.cloudflare.com.
+dragon-money.city.	3600	in	ns	dns101.registrar-servers.com.
+dragon-money.city.	3600	in	ns	dns102.registrar-servers.com.
 dragon.city.	3600	in	ns	curitiba.ns.porkbun.com.
 dragon.city.	3600	in	ns	fortaleza.ns.porkbun.com.
 dragon.city.	3600	in	ns	maceio.ns.porkbun.com.
@@ -21218,8 +21226,8 @@ drank.city.	3600	in	ns	dns1.registrar-servers.com.
 drank.city.	3600	in	ns	dns2.registrar-servers.com.
 draper.city.	3600	in	ns	margot.ns.cloudflare.com.
 draper.city.	3600	in	ns	wesley.ns.cloudflare.com.
-draw.city.	3600	in	ns	ns1.bodis.com.
-draw.city.	3600	in	ns	ns2.bodis.com.
+draw.city.	3600	in	ns	ns1.dns-redirect.com.
+draw.city.	3600	in	ns	ns2.dns-redirect.com.
 drawbridge.city.	3600	in	ns	dns1.registrar-servers.com.
 drawbridge.city.	3600	in	ns	dns2.registrar-servers.com.
 drawing.city.	3600	in	ns	ns1.atom.com.
@@ -23433,8 +23441,8 @@ ep50brm3g562je1412i2cvn7uk26t3lo.city.	3600	in	nsec3	1 1 0 73 EQDH78SR6TU6RQSEH3
 ep50brm3g562je1412i2cvn7uk26t3lo.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. qUNYNA6KG/wV9sp3kkosGBKyYdCM7si12nogaLi1s7anHx4dtV5yFgP2+pKAp5On1FkYJ7ui8+X1S7c1QBrvMiji4dv88KhkmxE136p7p4xMcnjJ73PZG/09ZXZMRthjNzHEmdQf1bHOV5f13QWDwiwZqNG5jhLZIBvRvMNgXYc=
 epass.city.	3600	in	ns	pdns03.domaincontrol.com.
 epass.city.	3600	in	ns	pdns04.domaincontrol.com.
-epay.city.	3600	in	ns	dns7.hichina.com.
-epay.city.	3600	in	ns	dns8.hichina.com.
+epay.city.	3600	in	ns	expirens3.hichina.com.
+epay.city.	3600	in	ns	expirens4.hichina.com.
 epg.city.	3600	in	ns	john.ns.cloudflare.com.
 epg.city.	3600	in	ns	sandy.ns.cloudflare.com.
 epgov.city.	3600	in	ns	ns1.ns306.parklogic.com.
@@ -23772,8 +23780,6 @@ esimpli.city.	3600	in	ns	ns1.iwantmyname.net.
 esimpli.city.	3600	in	ns	ns2.iwantmyname.net.
 esimpli.city.	3600	in	ns	ns3.iwantmyname.net.
 esimpli.city.	3600	in	ns	ns4.iwantmyname.net.
-eskate.city.	3600	in	ns	ns53.domaincontrol.com.
-eskate.city.	3600	in	ns	ns54.domaincontrol.com.
 eskilstuna.city.	3600	in	ns	ns1.eurodns.com.
 eskilstuna.city.	3600	in	ns	ns2.eurodns.com.
 eskilstuna.city.	3600	in	ns	ns3.eurodns.com.
@@ -24025,6 +24031,9 @@ euronat.city.	3600	in	ns	dns102.ovh.net.
 euronat.city.	3600	in	ns	ns102.ovh.net.
 europa.city.	3600	in	ns	ns1.afternic.com.
 europa.city.	3600	in	ns	ns2.afternic.com.
+europe.city.	3600	in	ns	ns1.dnsowl.com.
+europe.city.	3600	in	ns	ns2.dnsowl.com.
+europe.city.	3600	in	ns	ns3.dnsowl.com.
 eurovea.city.	3600	in	ns	curitiba.ns.porkbun.com.
 eurovea.city.	3600	in	ns	fortaleza.ns.porkbun.com.
 eurovea.city.	3600	in	ns	maceio.ns.porkbun.com.
@@ -24388,6 +24397,8 @@ exquisite.city.	3600	in	ns	ns1.uniregistry-dns.com.
 exquisite.city.	3600	in	ns	ns1.uniregistry-dns.net.
 exquisite.city.	3600	in	ns	ns2.uniregistry-dns.com.
 exquisite.city.	3600	in	ns	ns2.uniregistry-dns.net.
+extend.city.	3600	in	ns	dns10.hichina.com.
+extend.city.	3600	in	ns	dns9.hichina.com.
 extended.city.	3600	in	ns	ns35.domaincontrol.com.
 extended.city.	3600	in	ns	ns36.domaincontrol.com.
 extension.city.	3600	in	ns	dns21.hichina.com.
@@ -24606,8 +24617,6 @@ fact.city.	3600	in	ns	verification-ilzyovyxkjcylcmj8rbffy.ns101.verify.hn.
 facti.city.	3600	in	ns	ns1.wordpress.com.
 facti.city.	3600	in	ns	ns2.wordpress.com.
 facti.city.	3600	in	ns	ns3.wordpress.com.
-faction.city.	3600	in	ns	dns101.registrar-servers.com.
-faction.city.	3600	in	ns	dns102.registrar-servers.com.
 factoria.city.	3600	in	ns	ns3.nic.ru.
 factoria.city.	3600	in	ns	ns4.nic.ru.
 factoria.city.	3600	in	ns	ns8.nic.ru.
@@ -25062,6 +25071,8 @@ feishe.city.	3600	in	ns	johnathan.ns.cloudflare.com.
 feishe.city.	3600	in	ns	poppy.ns.cloudflare.com.
 feiyi.city.	3600	in	ns	dns31.hichina.com.
 feiyi.city.	3600	in	ns	dns32.hichina.com.
+feli-cidade.city.	3600	in	ns	pdns07.domaincontrol.com.
+feli-cidade.city.	3600	in	ns	pdns08.domaincontrol.com.
 feli.city.	3600	in	ns	ns-cloud-c1.googledomains.com.
 feli.city.	3600	in	ns	ns-cloud-c2.googledomains.com.
 feli.city.	3600	in	ns	ns-cloud-c3.googledomains.com.
@@ -25801,8 +25812,8 @@ flip.city.	3600	in	ns	ns3.dreamhost.com.
 flipclock.city.	3600	in	ns	ns1.dnsowl.com.
 flipclock.city.	3600	in	ns	ns2.dnsowl.com.
 flipclock.city.	3600	in	ns	ns3.dnsowl.com.
-flipside.city.	3600	in	ns	ns1.bodis.com.
-flipside.city.	3600	in	ns	ns2.bodis.com.
+flipside.city.	3600	in	ns	ns1.dns-redirect.com.
+flipside.city.	3600	in	ns	ns2.dns-redirect.com.
 flirt.city.	3600	in	ns	ns1.mamba.ru.
 flirt.city.	3600	in	ns	ns2.mamba.ru.
 flit.city.	3600	in	ns	dns101.registrar-servers.com.
@@ -26647,6 +26658,10 @@ freedompay.city.	3600	in	ns	pdns13.domaincontrol.com.
 freedompay.city.	3600	in	ns	pdns14.domaincontrol.com.
 freefall.city.	3600	in	ns	harvey.ns.cloudflare.com.
 freefall.city.	3600	in	ns	ophelia.ns.cloudflare.com.
+freefrom.city.	3600	in	ds	5740 8 2 24BE291EC52950A2C72D57D55EB0188463A0882E5F12FFF2E1236D1EC299D83C
+freefrom.city.	3600	in	ns	dns10.ovh.net.
+freefrom.city.	3600	in	ns	ns10.ovh.net.
+freefrom.city.	3600	in	rrsig	DS 8 2 3600 20251002175047 20250911165047 55041 city. APnGVI7hWiGeKDeh9En4CIQzKfmb07CVZBFgcyoEFehn2Oa+GZBdLVKuppZQVrvxuMuZlfMDUFKnT8QvFtWlEFeE7SUJAHnLqefIEaGLbio5rKBxRF8VqnWjlU9f/zmn60/FiFYJsmQPhYcI2eO2AWn4FnI5JTsNkmb9cJcOXsA=
 freegames.city.	3600	in	ns	hehua.ns.giantpanda.com.
 freegames.city.	3600	in	ns	xiaoliwu.ns.giantpanda.com.
 freeglobal.city.	3600	in	ns	dns1.registrar-servers.com.
@@ -27200,8 +27215,8 @@ futaba.city.	3600	in	ns	ns-1068.awsdns-05.org.
 futaba.city.	3600	in	ns	ns-1555.awsdns-02.co.uk.
 futaba.city.	3600	in	ns	ns-225.awsdns-28.com.
 futaba.city.	3600	in	ns	ns-817.awsdns-38.net.
-futbollibre.city.	3600	in	ns	ns1.bodis.com.
-futbollibre.city.	3600	in	ns	ns2.bodis.com.
+futbollibre.city.	3600	in	ns	ns1.dns-redirect.com.
+futbollibre.city.	3600	in	ns	ns2.dns-redirect.com.
 futebol.city.	3600	in	ns	ns1.afternic.com.
 futebol.city.	3600	in	ns	ns2.afternic.com.
 futemax.city.	3600	in	ns	dns1.registrar-servers.com.
@@ -27552,8 +27567,8 @@ gamebai.city.	3600	in	ns	ns1.dns-redirect.com.
 gamebai.city.	3600	in	ns	ns2.dns-redirect.com.
 gamebai88.city.	3600	in	ns	ns1.dns-redirect.com.
 gamebai88.city.	3600	in	ns	ns2.dns-redirect.com.
-gamebaidoithuong.city.	3600	in	ns	ns1.bodis.com.
-gamebaidoithuong.city.	3600	in	ns	ns2.bodis.com.
+gamebaidoithuong.city.	3600	in	ns	ns1.dns-redirect.com.
+gamebaidoithuong.city.	3600	in	ns	ns2.dns-redirect.com.
 gamebet.city.	3600	in	ns	ezra.ns.cloudflare.com.
 gamebet.city.	3600	in	ns	serenity.ns.cloudflare.com.
 gamedev.city.	3600	in	ns	ns1.digitalocean.com.
@@ -28446,8 +28461,8 @@ gigabit.city.	3600	in	ds	2371 13 2 FC8E6A9884792C92887674B4984022975D0A1333370A9
 gigabit.city.	3600	in	ns	diva.ns.cloudflare.com.
 gigabit.city.	3600	in	ns	gordon.ns.cloudflare.com.
 gigabit.city.	3600	in	rrsig	DS 8 2 3600 20250930153337 20250909143337 55041 city. LnD5tukKjVqWHHZRQY+W4myqAOu4mxvmlYQ0nDSx5uXlnRX+UjRBD9QGCoXj+Kis1oHY0tvVCX2dN6l40szzKlmbQQ2tbpv+KxznId4mNQSrfCM5R+iVp5zLysjr/9SbYxmmBiLn+E5+vNTmlki7RcDrotVDJMI/CgwBQxsPGtI=
-gigachad.city.	3600	in	ns	ns1.bodis.com.
-gigachad.city.	3600	in	ns	ns2.bodis.com.
+gigachad.city.	3600	in	ns	ns1.dns-redirect.com.
+gigachad.city.	3600	in	ns	ns2.dns-redirect.com.
 gigahub.city.	3600	in	ns	dns101.register.com.
 gigahub.city.	3600	in	ns	dns102.register.com.
 gigantic.city.	3600	in	ns	selah.ns.cloudflare.com.
@@ -28531,8 +28546,8 @@ gis.city.	3600	in	ns	launch2.spaceship.net.
 gis.city.	3600	in	rrsig	DS 8 2 3600 20250930153337 20250909143337 55041 city. cPM9yBjE5Hhaj+N+qSlLW9Cu/Wyyi1qDkeAWXkiNeKrwbnfNoF9dcHXrSlye0LzUPVYPytdMzTg1TJko1F8K0KXhhzTqtCxk3Gkc+K+cyNoNGP2wSJUpyupmaSsF89icFG91H4dhUUgZxytfh9O/hl5RjaFPPykAS6oQBKyLux4=
 gis4smart.city.	3600	in	ns	desi.ns.cloudflare.com.
 gis4smart.city.	3600	in	ns	vern.ns.cloudflare.com.
-git.city.	3600	in	ns	ns1.ibspark.com.
-git.city.	3600	in	ns	ns2.ibspark.com.
+git.city.	3600	in	ns	ns1.sedoparking.com.
+git.city.	3600	in	ns	ns2.sedoparking.com.
 gitee.city.	3600	in	ns	f1g1ns1.dnspod.net.
 gitee.city.	3600	in	ns	f1g1ns2.dnspod.net.
 gitlo.city.	3600	in	ns	ivy.ns.cloudflare.com.
@@ -28919,8 +28934,8 @@ goboundless.city.	3600	in	ns	ns60.domaincontrol.com.
 gocanvas.city.	3600	in	ns	cns1.alfahosting.info.
 gocanvas.city.	3600	in	ns	cns2.alfahosting.info.
 gocanvas.city.	3600	in	ns	cns3.alfahosting.info.
-gocart.city.	3600	in	ns	ns1.bodis.com.
-gocart.city.	3600	in	ns	ns2.bodis.com.
+gocart.city.	3600	in	ns	ns1.dns-redirect.com.
+gocart.city.	3600	in	ns	ns2.dns-redirect.com.
 gochina.city.	3600	in	ns	ns25.domaincontrol.com.
 gochina.city.	3600	in	ns	ns26.domaincontrol.com.
 gocircular.city.	3600	in	ns	dns1.papaki.gr.
@@ -31651,10 +31666,6 @@ hertz.city.	3600	in	ns	ns15.domaincontrol.com.
 hertz.city.	3600	in	ns	ns16.domaincontrol.com.
 herveybay.city.	3600	in	ns	ns1.stabletransit.com.
 herveybay.city.	3600	in	ns	ns2.stabletransit.com.
-herz.city.	3600	in	ns	ns1029.ui-dns.org.
-herz.city.	3600	in	ns	ns1055.ui-dns.biz.
-herz.city.	3600	in	ns	ns1057.ui-dns.de.
-herz.city.	3600	in	ns	ns1058.ui-dns.com.
 herzliya.city.	3600	in	ns	augustus.ns.cloudflare.com.
 herzliya.city.	3600	in	ns	laura.ns.cloudflare.com.
 herzo.city.	3600	in	ns	ns01.srvz.it.
@@ -32176,8 +32187,8 @@ hodgson.city.	3600	in	ns	ns1043.ui-dns.com.
 hodgson.city.	3600	in	ns	ns1067.ui-dns.biz.
 hodl.city.	3600	in	ns	ns39.domaincontrol.com.
 hodl.city.	3600	in	ns	ns40.domaincontrol.com.
-hodler.city.	3600	in	ns	ns1.bodis.com.
-hodler.city.	3600	in	ns	ns2.bodis.com.
+hodler.city.	3600	in	ns	ns1.dns-redirect.com.
+hodler.city.	3600	in	ns	ns2.dns-redirect.com.
 hodlwood.city.	3600	in	ns	ns63.domaincontrol.com.
 hodlwood.city.	3600	in	ns	ns64.domaincontrol.com.
 hodollar.city.	3600	in	ns	amanda.ns.cloudflare.com.
@@ -32420,8 +32431,8 @@ homey.city.	3600	in	ns	ns77.domaincontrol.com.
 homey.city.	3600	in	ns	ns78.domaincontrol.com.
 homi.city.	3600	in	ns	ns1.vercel-dns.com.
 homi.city.	3600	in	ns	ns2.vercel-dns.com.
-homietec.city.	3600	in	ns	dns10.hichina.com.
-homietec.city.	3600	in	ns	dns9.hichina.com.
+homietec.city.	3600	in	ns	expirens3.hichina.com.
+homietec.city.	3600	in	ns	expirens4.hichina.com.
 homietechealth.city.	3600	in	ns	dns15.hichina.com.
 homietechealth.city.	3600	in	ns	dns16.hichina.com.
 homietecmedical.city.	3600	in	ns	dns25.hichina.com.
@@ -32442,8 +32453,8 @@ honey.city.	3600	in	ns	ns1.afternic.com.
 honey.city.	3600	in	ns	ns2.afternic.com.
 honeybadger.city.	3600	in	ns	ns17.domaincontrol.com.
 honeybadger.city.	3600	in	ns	ns18.domaincontrol.com.
-honeybee.city.	3600	in	ns	ns1.bodis.com.
-honeybee.city.	3600	in	ns	ns2.bodis.com.
+honeybee.city.	3600	in	ns	ns1.dns-redirect.com.
+honeybee.city.	3600	in	ns	ns2.dns-redirect.com.
 honeybees.city.	3600	in	ns	ns23.domaincontrol.com.
 honeybees.city.	3600	in	ns	ns24.domaincontrol.com.
 honeymoon.city.	3600	in	ns	ns1.atom.com.
@@ -33093,6 +33104,8 @@ huih4sd4dp545491d6ndnd7ev63nesqj.city.	3600	in	nsec3	1 1 0 73 HUSDMG47OPIN5HAOD5
 huih4sd4dp545491d6ndnd7ev63nesqj.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. aI+8Zwtbmy8wzKJ3eQ+bqB7st3tXnoyj/AxMCe1XC1Qlpim4Q96UoIV7B8VHLpCJbKrG4Pboyh+APoSiOyrXb52AiszeVKQJ+AvkJFEhy8HpnYhmhU7Ad8FKsuDFCVV0gCbLfVYTqebH6JABfzELWHetIFhWzPm35CwW4LF3jDU=
 huijia.city.	3600	in	ns	dns25.hichina.com.
 huijia.city.	3600	in	ns	dns26.hichina.com.
+huike.city.	3600	in	ns	ns1.cnolnic.net.
+huike.city.	3600	in	ns	ns2.cnolnic.net.
 huimin.city.	3600	in	ns	audience.dnspod.net.
 huimin.city.	3600	in	ns	blair.dnspod.net.
 huione.city.	3600	in	ns	a1.share-dns.com.
@@ -33554,8 +33567,6 @@ iameknes.city.	3600	in	ns	nsn1.mijndomein.nl.
 iameknes.city.	3600	in	ns	nsn2.mijndomein.nl.
 iamerzouga.city.	3600	in	ns	nsn1.mijndomein.nl.
 iamerzouga.city.	3600	in	ns	nsn2.mijndomein.nl.
-iamin.city.	3600	in	ns	ns1.ns306.parklogic.com.
-iamin.city.	3600	in	ns	ns2.ns306.parklogic.com.
 iamman.city.	3600	in	ns	nsn1.mijndomein.nl.
 iamman.city.	3600	in	ns	nsn2.mijndomein.nl.
 iammfitmj835bra5gfeqk1ss4gah46c9.city.	3600	in	nsec3	1 1 0 73 IAQ7L3VASJQJ1VU97L363LGV1UT4H8VJ NS DS RRSIG
@@ -34042,8 +34053,8 @@ im.city.	3600	in	ns	arvind.ns.cloudflare.com.
 im.city.	3600	in	ns	ryleigh.ns.cloudflare.com.
 im2kp1kefb0hraag6cv8afldg66vgg4e.city.	3600	in	nsec3	1 1 0 73 IMGPVQ1L2A5EQ1GGD2GTI701J9ACP5DM NS DS RRSIG
 im2kp1kefb0hraag6cv8afldg66vgg4e.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. j7LDwU35f1bzAp2xzMpRc26rip9KN7lDYrQeLq8HqKWg/JWVw+4M4uNMedtlu9V3urUiwGGN6WrT2OpjjXWnUMBle3UDZW+snCgvsmT80NxJ0XUWe6OmEJWrBqcHly7Jlhke2yCuRG3qETiJbDCsNLAODdCs1NeGacbf10HE+1I=
-imag.city.	3600	in	ns	ns1.bodis.com.
-imag.city.	3600	in	ns	ns2.bodis.com.
+imag.city.	3600	in	ns	ns1.dns-redirect.com.
+imag.city.	3600	in	ns	ns2.dns-redirect.com.
 imagazine.city.	3600	in	ns	ns57.domaincontrol.com.
 imagazine.city.	3600	in	ns	ns58.domaincontrol.com.
 image.city.	3600	in	ns	ns21.domaincontrol.com.
@@ -35137,8 +35148,8 @@ ipoh.city.	3600	in	ns	ns-cloud-c3.googledomains.com.
 ipoh.city.	3600	in	ns	ns-cloud-c4.googledomains.com.
 ipoint.city.	3600	in	ns	basi.ns.giantpanda.com.
 ipoint.city.	3600	in	ns	qizai.ns.giantpanda.com.
-ipollo.city.	3600	in	ns	ns1.bodis.com.
-ipollo.city.	3600	in	ns	ns2.bodis.com.
+ipollo.city.	3600	in	ns	ns1.dns-redirect.com.
+ipollo.city.	3600	in	ns	ns2.dns-redirect.com.
 iporntv.city.	3600	in	ns	ns1.dns-redirect.com.
 iporntv.city.	3600	in	ns	ns2.dns-redirect.com.
 ipoteka.city.	3600	in	ns	ns3-l2.nic.ru.
@@ -35948,6 +35959,8 @@ jdhr.city.	3600	in	ns	firefly.dnspod.net.
 jdhr.city.	3600	in	ns	rainbow.dnspod.net.
 jdl.city.	3600	in	ns	ns11.xincache.com.
 jdl.city.	3600	in	ns	ns12.xincache.com.
+jdm888.city.	3600	in	ns	ns67.domaincontrol.com.
+jdm888.city.	3600	in	ns	ns68.domaincontrol.com.
 jdq4993.city.	3600	in	ns	snm1mek.js55cne.com.
 jdq4993.city.	3600	in	ns	snn3mek.js55cne.com.
 jdq4993.city.	3600	in	ns	snp2mek.js55cne.com.
@@ -36165,6 +36178,8 @@ jiangmen.city.	3600	in	ns	ns2.dnsowl.com.
 jiangmen.city.	3600	in	ns	ns3.dnsowl.com.
 jiangshaofang.city.	3600	in	ns	ns1.gxkjdns.com.
 jiangshaofang.city.	3600	in	ns	ns2.gxkjdns.com.
+jiangxilvyoupingtai.city.	3600	in	ns	ns5.myhostadmin.net.
+jiangxilvyoupingtai.city.	3600	in	ns	ns6.myhostadmin.net.
 jianhua.city.	3600	in	ns	ns65.domaincontrol.com.
 jianhua.city.	3600	in	ns	ns66.domaincontrol.com.
 jiankang.city.	3600	in	ns	dns3.hichina.com.
@@ -36697,8 +36712,8 @@ jtevjdimlitm7f46600hh89al15ri60b.city.	3600	in	nsec3	1 1 0 73 JTMBDJ2ADONVRSIK9M
 jtevjdimlitm7f46600hh89al15ri60b.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. HAim71DW2eOJwzxeY8GgcEcg38cTSjKwnfY82Ssmk7B5YcmY2ayoVG2ZPs4a08eFUmU8kluolZGpOO7NXIKRqxBRTIqPuAsCj8BBzbkdS0/DMPim56SwTLYC+cYcAGByul17k4JKRogNXUnynLDFNvS/J/wcxg1t7uKpuRmTmqA=
 jthotel.city.	3600	in	ns	ns11.xincache.com.
 jthotel.city.	3600	in	ns	ns12.xincache.com.
-jtmbdj2adonvrsik9m5meqn1q2k665nc.city.	3600	in	nsec3	1 1 0 73 JUUKKTD4U2L72G2N0N0R1AFLS0ENFPHL NS DS RRSIG
-jtmbdj2adonvrsik9m5meqn1q2k665nc.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. g2gyfPZLSP2IooyvTbR0h9ZSygqtYmmcc7YS+q3Eso3E3qCR9Hs+mVGRDgxRFPB4BpSvAbQ6iOUKGhHI9bpZBTZgjz1X1qShef14R0VMSxGORYAvfnFiHTNAEyJkCu96Ypo7aSb6aTSFrQ6gSFMy3ZZnfKBaD41rB3LMnS1gIWs=
+jtmbdj2adonvrsik9m5meqn1q2k665nc.city.	3600	in	nsec3	1 1 0 73 JUIE1C74C5NGH27AD7F844LTE7Q2N5ER NS DS RRSIG
+jtmbdj2adonvrsik9m5meqn1q2k665nc.city.	3600	in	rrsig	NSEC3 8 2 3600 20251002175047 20250911165047 55041 city. DarFE1lpDSCN8k15DVvaksqvwfA6A+kcJlxE23eh+pWCZ0AJ9Z1jqsWP4/A4wT0btWLWQH1uhUUnShLj8coXkI3KgkZcCnhM+2THcDdX6QRPEW+avwqSaHkzMcC2G7VROrdblIpOPaD8m3haaYvNO3LZ7+rz7IBOI2IyciX92SM=
 jtnvz.city.	3600	in	ns	ns1.dnsip.com.
 jtnvz.city.	3600	in	ns	ns2.dnsip.com.
 juan.city.	3600	in	ns	ns1.redwebhost.com.
@@ -36752,6 +36767,8 @@ juice.city.	3600	in	ns	ns-cloud-a3.googledomains.com.
 juice.city.	3600	in	ns	ns-cloud-a4.googledomains.com.
 juicy.city.	3600	in	ns	ns1.siteground.net.
 juicy.city.	3600	in	ns	ns2.siteground.net.
+juie1c74c5ngh27ad7f844lte7q2n5er.city.	3600	in	nsec3	1 1 0 73 JUUKKTD4U2L72G2N0N0R1AFLS0ENFPHL NS DS RRSIG
+juie1c74c5ngh27ad7f844lte7q2n5er.city.	3600	in	rrsig	NSEC3 8 2 3600 20251002175047 20250911165047 55041 city. GU8hxUb60cF5RklnrMatjoR6xWlxzpofy2wIR6U9teLBfaPY/Qg9/bL7htTVYWrNWi89co1GjPbj1Poh4CBeWA3l0udTUHddsjY8pOvb98WWjphzF9bDxO8oP73pPwn1o8tTLD1zoEusPgMs2Dm0yFzeLfwvYlDBeXFGNDHociw=
 juja.city.	3600	in	ns	ns1.fuzucloud.ovh.
 juja.city.	3600	in	ns	ns2.fuzucloud.ovh.
 jujia.city.	3600	in	ns	dorothy.dnspod.net.
@@ -36858,8 +36875,8 @@ jupcat.city.	3600	in	ns	ns1.dyna-ns.net.
 jupcat.city.	3600	in	ns	ns2.dyna-ns.net.
 jupiter.city.	3600	in	ns	ns1.afternic.com.
 jupiter.city.	3600	in	ns	ns2.afternic.com.
-jurassic.city.	3600	in	ns	ns1.bodis.com.
-jurassic.city.	3600	in	ns	ns2.bodis.com.
+jurassic.city.	3600	in	ns	ns1.dns-redirect.com.
+jurassic.city.	3600	in	ns	ns2.dns-redirect.com.
 jurere.city.	3600	in	ns	dns.rebel.com.
 jurere.city.	3600	in	ns	dns2.rebel.com.
 juris.city.	3600	in	ns	dns1.registrar-servers.com.
@@ -36924,8 +36941,6 @@ juwelier-wagner.city.	3600	in	ns	ns.udag.org.
 jux5363.city.	3600	in	ns	snm1mek.js55cne.com.
 jux5363.city.	3600	in	ns	snn3mek.js55cne.com.
 jux5363.city.	3600	in	ns	snp2mek.js55cne.com.
-juxiang.city.	3600	in	ns	expirens3.hichina.com.
-juxiang.city.	3600	in	ns	expirens4.hichina.com.
 jvizn.city.	3600	in	ns	n1.xundns.com.
 jvizn.city.	3600	in	ns	n2.xundns.com.
 jvpmcejt2agsu2us5hp3m1vp3ur5sl15.city.	3600	in	nsec3	1 1 0 73 JVUBNN743UNLSAH55NF9AUNII5N1CRJ0 NS DS RRSIG
@@ -37013,8 +37028,8 @@ k9bet.city.	3600	in	ns	launch2.spaceship.net.
 k9bet.city.	3600	in	rrsig	DS 8 2 3600 20250930153337 20250909143337 55041 city. TxVltImhyQKr+TKxRUQo5j8ySTxFIWbHtDQQ74vHrDDYFmOjOpK7nPCW62LUP4YmJyFTxQnZ94Q00bXYVxO2iEjddpxzIJT1OgLzecin8xlakEL+RVFfcpe+NeUwcSL2OiHacylFA/5E7xNrMTCKFgxcEUBkyI1TOZAHYO2FhQw=
 k9win.city.	3600	in	ns	arvind.ns.cloudflare.com.
 k9win.city.	3600	in	ns	riya.ns.cloudflare.com.
-ka-ssa.city.	3600	in	ns	ns1.bodis.com.
-ka-ssa.city.	3600	in	ns	ns2.bodis.com.
+ka-ssa.city.	3600	in	ns	ns1.dns-redirect.com.
+ka-ssa.city.	3600	in	ns	ns2.dns-redirect.com.
 ka.city.	3600	in	ns	ns1.usm113.siteground.biz.
 ka.city.	3600	in	ns	ns2.usm113.siteground.biz.
 ka605qsnfedttm9es41235glv11q3slk.city.	3600	in	nsec3	1 1 0 73 KB0QVIUVADFNIBU1SJ2F7U5HJ0Q8JOH9 NS DS RRSIG
@@ -37831,8 +37846,6 @@ kfz-kennzeichen.city.	3600	in	ds	48060 13 2 E8C0983DA44D42DDF151729AEBFA758341A3
 kfz-kennzeichen.city.	3600	in	ns	ns01.one.com.
 kfz-kennzeichen.city.	3600	in	ns	ns02.one.com.
 kfz-kennzeichen.city.	3600	in	rrsig	DS 8 2 3600 20250930153337 20250909143337 55041 city. eA9Xr+uqHxvxXjfdIKO9n4CahHep0Je5qvVMrG4S6GPcCz5F9tEDuel4SIcBmZ4YBSoRczm5emvPFlDpOiHDG63FjG3n5+fbowuN1QwUQy7TcegoglfbOa1mV8SGflc7AOti1YCIvBKKvDK0ZlEURhs/GeHom8AAPyIXwVTeqM0=
-kfz-werkstatt.city.	3600	in	ns	ns.dyn-serv.de.
-kfz-werkstatt.city.	3600	in	ns	ns2.dyn-serv.de.
 kfzkennzeichen.city.	3600	in	ds	48746 13 2 A1009578D9FD9026466963E0BE1C6DF0B2654A3BFD141A41F1F9B41900BD450E
 kfzkennzeichen.city.	3600	in	ns	ns01.one.com.
 kfzkennzeichen.city.	3600	in	ns	ns02.one.com.
@@ -38565,8 +38578,8 @@ kokomo.city.	3600	in	ns	ns01.domaincontrol.com.
 kokomo.city.	3600	in	ns	ns02.domaincontrol.com.
 kokomomo.city.	3600	in	ns	dns1.registrar-servers.com.
 kokomomo.city.	3600	in	ns	dns2.registrar-servers.com.
-kokoro.city.	3600	in	ns	ns1.bodis.com.
-kokoro.city.	3600	in	ns	ns2.bodis.com.
+kokoro.city.	3600	in	ns	ns1.dns-redirect.com.
+kokoro.city.	3600	in	ns	ns2.dns-redirect.com.
 kokotogel.city.	3600	in	ns	dakota.ns.cloudflare.com.
 kokotogel.city.	3600	in	ns	fatima.ns.cloudflare.com.
 kokubunji.city.	3600	in	ns	dns01.muumuu-domain.com.
@@ -42564,7 +42577,7 @@ m-tax.city.	3600	in	ns	ns.udag.org.
 m.city.	3600	in	ns	ns1.sav.com.
 m.city.	3600	in	ns	ns2.sav.com.
 m01c8vsmcev5ljk749r9gu6nj9rdb11e.city.	3600	in	nsec3	1 1 0 73 M0PH4JPH23P7D3IJIINV87C3RLSO7718 NS SOA RRSIG DNSKEY NSEC3PARAM
-m01c8vsmcev5ljk749r9gu6nj9rdb11e.city.	3600	in	rrsig	NSEC3 8 2 3600 20251002010709 20250911000709 55041 city. T1EzmkMxX1UFQQO2Na3i6ed/71JWSqJMa+KmiNBY7O1yYOjIQHrpm9wUU8GgNCvljsKTSAJ46ELSQVtm4EuxkB5emkay+WFIi0j1uFDhpJ2k1aIT+DK4vi9Sg19EeOzm/CYvvN+dVCCMwDCIQNcQiVSQcXJ4TIVpcgs/C6N0lk8=
+m01c8vsmcev5ljk749r9gu6nj9rdb11e.city.	3600	in	rrsig	NSEC3 8 2 3600 20251003010349 20250912000349 55041 city. u9icvvedDheYdnSdNfAlbjpFEKGy9EZiXMJT2lF78/6TI3A7m3ALa8QX/eQyNG4uQASMK4D1AOdyAXJZAGKQ5TnvSQFmO202HoYGAW0LGrq+/DeWh8UdhDOq5C4+TqVQptuhczNYUU0CieSsjCQmAeMnsTQAEcSmbiFEVrU36ZA=
 m0ph4jph23p7d3ijiinv87c3rlso7718.city.	3600	in	nsec3	1 1 0 73 M1DR9K8PO3G48U933680FH8RU51QOLSS NS DS RRSIG
 m0ph4jph23p7d3ijiinv87c3rlso7718.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. ar1E1ta7jbW8meF/JNN3JgdNDYqE+wsy98mbqorLxOrutHeXe/rfazknLY7QE7luKBoJIHq/805tnFzunctBCfkN9e7AyHexRsuDyRbqm8eD0NqmEDWGlOI8UKZOaqdi3hqge4Zwiu17crY7lK595cp7TEC4C8O99f8ybVZBgXE=
 m1069.city.	3600	in	ns	ns11.domaincontrol.com.
@@ -44734,8 +44747,6 @@ merlot.city.	3600	in	ns	ns1-07.azure-dns.com.
 merlot.city.	3600	in	ns	ns2-07.azure-dns.net.
 merlot.city.	3600	in	ns	ns3-07.azure-dns.org.
 merlot.city.	3600	in	ns	ns4-07.azure-dns.info.
-merong.city.	3600	in	ns	ns05.domaincontrol.com.
-merong.city.	3600	in	ns	ns06.domaincontrol.com.
 merpatislot88.city.	3600	in	ns	ns1.bhhdns.com.
 merpatislot88.city.	3600	in	ns	ns2.bhhdns.com.
 mersin.city.	3600	in	ns	ns37.domaincontrol.com.
@@ -45769,8 +45780,8 @@ mixin.city.	3600	in	ns	jamie.ns.cloudflare.com.
 mixin.city.	3600	in	ns	zod.ns.cloudflare.com.
 mixit.city.	3600	in	ns	ns03.domaincontrol.com.
 mixit.city.	3600	in	ns	ns04.domaincontrol.com.
-mixtape.city.	3600	in	ns	ns1.dns-redirect.com.
-mixtape.city.	3600	in	ns	ns2.dns-redirect.com.
+mixtape.city.	3600	in	ns	ns37.domaincontrol.com.
+mixtape.city.	3600	in	ns	ns38.domaincontrol.com.
 miya.city.	3600	in	ns	f1g1ns1.dnspod.net.
 miya.city.	3600	in	ns	f1g1ns2.dnspod.net.
 miyako.city.	3600	in	ns	fish.ns.cloudflare.com.
@@ -45787,8 +45798,6 @@ mjamt.city.	3600	in	ns	ns1.dnsip.com.
 mjamt.city.	3600	in	ns	ns2.dnsip.com.
 mjekpi.city.	3600	in	ns	vip7.alidns.com.
 mjekpi.city.	3600	in	ns	vip8.alidns.com.
-mjkxyafsa.city.	3600	in	ns	ns1.domainnamedns.com.
-mjkxyafsa.city.	3600	in	ns	ns2.domainnamedns.com.
 mjslot777.city.	3600	in	ns	darl.ns.cloudflare.com.
 mjslot777.city.	3600	in	ns	rosa.ns.cloudflare.com.
 mk.city.	3600	in	ns	alina.ns.cloudflare.com.
@@ -45855,10 +45864,6 @@ mmm.city.	3600	in	ns	ns3.digitalocean.com.
 mmmm.city.	3600	in	ns	ns1.digitalocean.com.
 mmmm.city.	3600	in	ns	ns2.digitalocean.com.
 mmmm.city.	3600	in	ns	ns3.digitalocean.com.
-mmmuseum.city.	3600	in	ns	ns1074.ui-dns.biz.
-mmmuseum.city.	3600	in	ns	ns1101.ui-dns.com.
-mmmuseum.city.	3600	in	ns	ns1103.ui-dns.de.
-mmmuseum.city.	3600	in	ns	ns1125.ui-dns.org.
 mmnsctg.city.	3600	in	ns	ns1.dyna-ns.net.
 mmnsctg.city.	3600	in	ns	ns2.dyna-ns.net.
 mmoo.city.	3600	in	ns	meilani.ns.cloudflare.com.
@@ -46865,8 +46870,8 @@ moviesdaa.city.	3600	in	ns	baiyun.ns.giantpanda.com.
 moviesdaa.city.	3600	in	ns	meilan.ns.giantpanda.com.
 movieshd.city.	3600	in	ns	gigi.ns.cloudflare.com.
 movieshd.city.	3600	in	ns	oswald.ns.cloudflare.com.
-moviesjoy.city.	3600	in	ns	ns1.bodis.com.
-moviesjoy.city.	3600	in	ns	ns2.bodis.com.
+moviesjoy.city.	3600	in	ns	ns1.dns-redirect.com.
+moviesjoy.city.	3600	in	ns	ns2.dns-redirect.com.
 moviesmod.city.	3600	in	ns	dns101.registrar-servers.com.
 moviesmod.city.	3600	in	ns	dns102.registrar-servers.com.
 moviesnation.city.	3600	in	ns	imani.ns.cloudflare.com.
@@ -47119,6 +47124,8 @@ multicanais.city.	3600	in	ns	quentin.ns.cloudflare.com.
 multicanais.city.	3600	in	ns	summer.ns.cloudflare.com.
 multimedia.city.	3600	in	ns	ns1.dn.com.
 multimedia.city.	3600	in	ns	ns2.dn.com.
+multimovies.city.	3600	in	ns	damon.ns.cloudflare.com.
+multimovies.city.	3600	in	ns	grace.ns.cloudflare.com.
 multiple.city.	3600	in	ns	launch1.spaceship.net.
 multiple.city.	3600	in	ns	launch2.spaceship.net.
 multipli-city.city.	3600	in	ns	dns1.registrar-servers.com.
@@ -47447,8 +47454,6 @@ mycam.city.	3600	in	ns	dns1.p01.nsone.net.
 mycam.city.	3600	in	ns	dns2.p01.nsone.net.
 mycam.city.	3600	in	ns	dns3.p01.nsone.net.
 mycam.city.	3600	in	ns	dns4.p01.nsone.net.
-mycampus.city.	3600	in	ns	ns61.domaincontrol.com.
-mycampus.city.	3600	in	ns	ns62.domaincontrol.com.
 mycar.city.	3600	in	ns	ns73.domaincontrol.com.
 mycar.city.	3600	in	ns	ns74.domaincontrol.com.
 mycbd.city.	3600	in	ns	ns25.domaincontrol.com.
@@ -49160,8 +49165,8 @@ newhealth.city.	3600	in	ns	ns101.mschosting.com.
 newhealth.city.	3600	in	ns	ns102.mschosting.com.
 newhomebuilders.city.	3600	in	ns	ns1.dyna-ns.net.
 newhomebuilders.city.	3600	in	ns	ns2.dyna-ns.net.
-newhope.city.	3600	in	ns	ns1.bodis.com.
-newhope.city.	3600	in	ns	ns2.bodis.com.
+newhope.city.	3600	in	ns	ns1.dns-redirect.com.
+newhope.city.	3600	in	ns	ns2.dns-redirect.com.
 newhorizon.city.	3600	in	ns	curitiba.ns.porkbun.com.
 newhorizon.city.	3600	in	ns	fortaleza.ns.porkbun.com.
 newhorizon.city.	3600	in	ns	maceio.ns.porkbun.com.
@@ -49668,8 +49673,6 @@ nightlife.city.	3600	in	ns	basi.ns.giantpanda.com.
 nightlife.city.	3600	in	ns	qizai.ns.giantpanda.com.
 nightly.city.	3600	in	ns	pdns03.domaincontrol.com.
 nightly.city.	3600	in	ns	pdns04.domaincontrol.com.
-nightmarket.city.	3600	in	ns	ns11.domaincontrol.com.
-nightmarket.city.	3600	in	ns	ns12.domaincontrol.com.
 nightout.city.	3600	in	ns	ns1.vercel-dns.com.
 nightout.city.	3600	in	ns	ns2.vercel-dns.com.
 nightrose.city.	3600	in	ns	dns1.registrar-servers.com.
@@ -51018,8 +51021,8 @@ numic.city.	3600	in	ns	nsa8.schlundtech.de.
 numic.city.	3600	in	ns	nsb8.schlundtech.de.
 numic.city.	3600	in	ns	nsc8.schlundtech.de.
 numic.city.	3600	in	ns	nsd8.schlundtech.de.
-numizmat.city.	3600	in	ns	ns1.bodis.com.
-numizmat.city.	3600	in	ns	ns2.bodis.com.
+numizmat.city.	3600	in	ns	ns1.dns-redirect.com.
+numizmat.city.	3600	in	ns	ns2.dns-redirect.com.
 nunflix.city.	3600	in	ns	christina.ns.cloudflare.com.
 nunflix.city.	3600	in	ns	kaiser.ns.cloudflare.com.
 nur.city.	3600	in	ns	ns1.dreamhost.com.
@@ -51344,6 +51347,9 @@ ocala.city.	3600	in	ns	ns19.domaincontrol.com.
 ocala.city.	3600	in	ns	ns20.domaincontrol.com.
 occult.city.	3600	in	ns	dnsproxy1.fm.nic.ru.
 occult.city.	3600	in	ns	dnsproxy2.fm.nic.ru.
+occultinthe.city.	3600	in	ns	ns1.wordpress.com.
+occultinthe.city.	3600	in	ns	ns2.wordpress.com.
+occultinthe.city.	3600	in	ns	ns3.wordpress.com.
 occupied.city.	3600	in	ns	ns1.linode.com.
 occupied.city.	3600	in	ns	ns2.linode.com.
 occupied.city.	3600	in	ns	ns3.linode.com.
@@ -51694,6 +51700,8 @@ okay.city.	3600	in	ns	dns3.hichina.com.
 okay.city.	3600	in	ns	dns4.hichina.com.
 okayama.city.	3600	in	ns	ns1.dan.com.
 okayama.city.	3600	in	ns	ns2.dan.com.
+okazje.city.	3600	in	ns	ns1.dyna-ns.net.
+okazje.city.	3600	in	ns	ns2.dyna-ns.net.
 okc.city.	3600	in	ns	ns61.domaincontrol.com.
 okc.city.	3600	in	ns	ns62.domaincontrol.com.
 oke179.city.	3600	in	ns	pdns05.domaincontrol.com.
@@ -51832,8 +51840,8 @@ olx.city.	3600	in	ns	ns1djs.name.com.
 olx.city.	3600	in	ns	ns2bkr.name.com.
 olx.city.	3600	in	ns	ns3dkz.name.com.
 olx.city.	3600	in	ns	ns4lqx.name.com.
-olxhoki.city.	3600	in	ns	ns1.bodis.com.
-olxhoki.city.	3600	in	ns	ns2.bodis.com.
+olxhoki.city.	3600	in	ns	ns1.dns-redirect.com.
+olxhoki.city.	3600	in	ns	ns2.dns-redirect.com.
 olympia.city.	3600	in	ns	ns1.dyna-ns.net.
 olympia.city.	3600	in	ns	ns2.dyna-ns.net.
 olympian.city.	3600	in	ns	dns10.hichina.com.
@@ -51930,8 +51938,8 @@ onakasuita.city.	3600	in	ns	kyle.ns.cloudflare.com.
 onakasuita.city.	3600	in	ns	phoenix.ns.cloudflare.com.
 onamae.city.	3600	in	ns	ns-rs1.gmoserver.jp.
 onamae.city.	3600	in	ns	ns-rs2.gmoserver.jp.
-onbet.city.	3600	in	ns	ns1.bodis.com.
-onbet.city.	3600	in	ns	ns2.bodis.com.
+onbet.city.	3600	in	ns	ns1.dns-redirect.com.
+onbet.city.	3600	in	ns	ns2.dns-redirect.com.
 onboard.city.	3600	in	ns	ns59.domaincontrol.com.
 onboard.city.	3600	in	ns	ns60.domaincontrol.com.
 onbuka.city.	3600	in	ns	expirens3.hichina.com.
@@ -52138,6 +52146,8 @@ onlythebest.city.	3600	in	ns	ns-cloud-b2.googledomains.com.
 onlythebest.city.	3600	in	ns	ns-cloud-b3.googledomains.com.
 onlythebest.city.	3600	in	ns	ns-cloud-b4.googledomains.com.
 onlythebest.city.	3600	in	rrsig	DS 8 2 3600 20250930153337 20250909143337 55041 city. Sf5KBmV2+2YiUxA3uU3+wecbT8v0NQUAqYrxLQcFd3LqBKGmY4vp7dQqc1I5q/M7vzqzmBZkW/Zw3pbJWPpibo8Dn78gG//lJ7S/IA0mvSAYUQKQGBphi5aSfp3kuCeZOlqpkxnZh5RSBZ1eNJ2tPAHjC8b5p1rn8WtMmvj13T8=
+onlyvibes.city.	3600	in	ns	amos.ns.cloudflare.com.
+onlyvibes.city.	3600	in	ns	zainab.ns.cloudflare.com.
 onmymind.city.	3600	in	ns	ns1.dns-parking.com.
 onmymind.city.	3600	in	ns	ns2.dns-parking.com.
 onojo.city.	3600	in	ns	ns11.value-domain.com.
@@ -52246,8 +52256,9 @@ opalocka.city.	3600	in	ns	ns2.dnsowl.com.
 opalocka.city.	3600	in	ns	ns3.dnsowl.com.
 opatija.city.	3600	in	ns	ns1.sedoparking.com.
 opatija.city.	3600	in	ns	ns2.sedoparking.com.
-opava.city.	3600	in	ns	ns.parktons.com.
-opava.city.	3600	in	ns	ns2.parktons.com.
+opava.city.	3600	in	ns	ns1.wordpress.com.
+opava.city.	3600	in	ns	ns2.wordpress.com.
+opava.city.	3600	in	ns	ns3.wordpress.com.
 ope.city.	3600	in	ds	32537 8 2 0C75FFD327933B9C87C3B7537F4ADD06DDCB4B97FF65B889A718A205FDBD274F
 ope.city.	3600	in	ns	ns-cloud-c1.googledomains.com.
 ope.city.	3600	in	ns	ns-cloud-c2.googledomains.com.
@@ -52779,8 +52790,8 @@ otc.city.	3600	in	ns	ns3.afternic.com.
 otc.city.	3600	in	ns	ns4.afternic.com.
 otcuvlom1s30lv5hf4i6o0hjs2kdeqqo.city.	3600	in	nsec3	1 1 0 73 OUBHF7GBOLJ3I81DD7V5SKM2PAI55P52 NS DS RRSIG
 otcuvlom1s30lv5hf4i6o0hjs2kdeqqo.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. TGkykuCuImHzWHdI15ckhxKNpTn0HkUdoZ5qipMCsHXTyZCGJOBFCqTVJlDae91KrJinigU/ohu10Q7Fdn/+M6LsvEBXcTINSqvEqp0NteJLwFHWB87CfMmhQDcugaZ+U8ALJKuQdgFA1GIJ8S2I6Fw9YAK+UMs10SuZ+3UVsPo=
-otdelkino.city.	3600	in	ns	dns1.yandex.net.
-otdelkino.city.	3600	in	ns	dns2.yandex.net.
+otdelkino.city.	3600	in	ns	dnsproxy1.fm.nic.ru.
+otdelkino.city.	3600	in	ns	dnsproxy2.fm.nic.ru.
 otel.city.	3600	in	ns	demi.ns.cloudflare.com.
 otel.city.	3600	in	ns	hans.ns.cloudflare.com.
 otg.city.	3600	in	ns	ns65.domaincontrol.com.
@@ -52968,8 +52979,8 @@ outline.city.	3600	in	ns	ns1.dns-redirect.com.
 outline.city.	3600	in	ns	ns2.dns-redirect.com.
 outmax.city.	3600	in	ns	dns1.registrar-servers.com.
 outmax.city.	3600	in	ns	dns2.registrar-servers.com.
-outnabout.city.	3600	in	ns	dns1.namecheaphosting.com.
-outnabout.city.	3600	in	ns	dns2.namecheaphosting.com.
+outnabout.city.	3600	in	ns	dns1.registrar-servers.com.
+outnabout.city.	3600	in	ns	dns2.registrar-servers.com.
 outopia.city.	3600	in	ns	dns7.hichina.com.
 outopia.city.	3600	in	ns	dns8.hichina.com.
 outpost.city.	3600	in	ns	ns1.atom.com.
@@ -53955,8 +53966,8 @@ paylo.city.	3600	in	ns	ns50.domaincontrol.com.
 payme.city.	3600	in	ns	ns1.nameserver.net.au.
 payme.city.	3600	in	ns	ns2.nameserver.net.au.
 payme.city.	3600	in	ns	ns3.nameserver.net.au.
-payments.city.	3600	in	ns	ns49.domaincontrol.com.
-payments.city.	3600	in	ns	ns50.domaincontrol.com.
+payments.city.	3600	in	ns	ns3.afternic.com.
+payments.city.	3600	in	ns	ns4.afternic.com.
 paymentus.city.	3600	in	ns	ns63.domaincontrol.com.
 paymentus.city.	3600	in	ns	ns64.domaincontrol.com.
 paymy.city.	3600	in	ns	ns1.p08.dynect.net.
@@ -54769,8 +54780,10 @@ photovoltaik.city.	3600	in	ns	ns1027.ui-dns.de.
 photovoltaik.city.	3600	in	ns	ns1082.ui-dns.com.
 photovoltaik.city.	3600	in	ns	ns1083.ui-dns.org.
 photovoltaik.city.	3600	in	ns	ns1119.ui-dns.biz.
+photoz.city.	3600	in	ds	1604 8 2 5C5D621C65E56B13FF0DDF589A8802C8F831D8E71DFE13B7163FE712339D9A00
 photoz.city.	3600	in	ns	dns16.ovh.net.
 photoz.city.	3600	in	ns	ns16.ovh.net.
+photoz.city.	3600	in	rrsig	DS 8 2 3600 20251002105836 20250911095836 55041 city. mcZHru+6o6aLId8OUrI22wf1mtnR9SYPSQGOc3VcaXKilUEvI5bsR43XDdGm9EXZvj/DkWQXHGxacnGR1Lvg9+u+nc3zbUYSy/NmTSaEMz4K36FRMlw7wL1zNW3Hnp0miBkcKuKntqgGyC6RU2ZXF0p8L//4kPaKbBogEFhpHq8=
 php.city.	3600	in	ns	ns1.sedoparking.com.
 php.city.	3600	in	ns	ns2.sedoparking.com.
 phpvip.city.	3600	in	ns	ns1.dyna-ns.net.
@@ -55615,8 +55628,8 @@ po18.city.	3600	in	ns	ns03.domaincontrol.com.
 po18.city.	3600	in	ns	ns04.domaincontrol.com.
 po2.city.	3600	in	ns	ns95.worldnic.com.
 po2.city.	3600	in	ns	ns96.worldnic.com.
-poa.city.	3600	in	ns	lia.ns.cloudflare.com.
-poa.city.	3600	in	ns	renan.ns.cloudflare.com.
+poa.city.	3600	in	ns	ns47.domaincontrol.com.
+poa.city.	3600	in	ns	ns48.domaincontrol.com.
 poaucnun5f49rvdq9sgmqm6vt5k16ova.city.	3600	in	nsec3	1 1 0 73 PPUVE4525TC16G53LJLF8OBKJC7TFLQ8 NS DS RRSIG
 poaucnun5f49rvdq9sgmqm6vt5k16ova.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. JG5IuhKk3dFRZaOdMBoM/sqQTk0TQNNl37Iua989a5EqTLFbfG7ZLgz7y5T0V5/OuBA/3BdGhlc2ofwOMdcyrrbKyxM/9WH99WfRmYvMKDwaMY61UBqFMoTSBWmE0OpixZoCeRgUpxu1GygVtPYWOit2Ey+hqEWuMwdtlRvWdjg=
 pobreflix.city.	3600	in	ns	kami.ns.cloudflare.com.
@@ -56527,8 +56540,6 @@ priv.city.	3600	in	ns	1-you.njalla.no.
 priv.city.	3600	in	ns	2-can.njalla.in.
 priv.city.	3600	in	ns	3-get.njalla.fo.
 priv.city.	3600	in	rrsig	DS 8 2 3600 20250930153337 20250909143337 55041 city. s6SgaCVy+GyRXm4LZGQ/KUFLacmeN2KCh2HsCHfBejMsvWoUdRw+2+EMw4c1lwdsSVHAnQ13Q/vhnm3A7lfJKU4r+JeCdGZf6avpDDSPDTF7GcQf7Id8JqzhCKhjH8SAjO0QxVlBUjrqV6l5esHUvQcxs0dTkfvKqsRKJfg16Jg=
-privacy.city.	3600	in	ns	ns49.domaincontrol.com.
-privacy.city.	3600	in	ns	ns50.domaincontrol.com.
 privat.city.	3600	in	ns	ns-ca.ui-dns.biz.
 privat.city.	3600	in	ns	ns-ca.ui-dns.com.
 privat.city.	3600	in	ns	ns-ca.ui-dns.de.
@@ -57356,8 +57367,6 @@ q9ccpfil3lblt831fi7fnhksn7n6aj43.city.	3600	in	nsec3	1 1 0 73 QA0RP6JMM8SFRPBR7A
 q9ccpfil3lblt831fi7fnhksn7n6aj43.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. AxdvFjfYB3oxXAi/g/4ubxuksiqLHZYkD4JZiKwdIiK0IkTd8mEMyTTI//6JDPxTPHBzy4/45RoRgAAOtmbHfoFhQ5Irv0BFYVLEb5DFATk9PwOixRK9n+GIqRvtNfUaVQM1i2yvJ80z+y1D2vs1VO26GlW9Tu22uSskzi684mo=
 qa0rp6jmm8sfrpbr7ahbhpjs5v3vrdng.city.	3600	in	nsec3	1 1 0 73 QAG5JE1EVQ2F9N167PDB2LPFBN99F8KH NS DS RRSIG
 qa0rp6jmm8sfrpbr7ahbhpjs5v3vrdng.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. xzz/gBhThjfPlMx0tyEjocpU0SKGC/6pG4Dv9/zgPMULGPRVGtomBwYw636gDq+mn3e4p/MCDEJ+DSginuUErG6cAPsMUfcUSJ1/bCyjx6IFWc+PniMFJWsHaTeRPc9S0DLgAaeTgwUDU1xw/hAPqcvC2muyt4ue6oFZQHiWC/Y=
-qaer.city.	3600	in	ns	dee.ns.cloudflare.com.
-qaer.city.	3600	in	ns	isaac.ns.cloudflare.com.
 qag5je1evq2f9n167pdb2lpfbn99f8kh.city.	3600	in	nsec3	1 1 0 73 QAJCL256BDBI9T1K4R0R4IB9KJUI1TAI NS DS RRSIG
 qag5je1evq2f9n167pdb2lpfbn99f8kh.city.	3600	in	rrsig	NSEC3 8 2 3600 20250930153337 20250909143337 55041 city. JCSOOXUIFKgnp257q87Oc6kQycrgrzCByVUpdutm3/V+b6pLF52X47j/6yktViz9zJHWVRkshUbt0E1/SzG9ZC4+rdy6LBKR+qnO//pp8qU4g9K0CFKkGa3fxZtfS6wRxTMfwgOaZKn9eP393SrZeiu1myeVcPB1Ul/d+PUEb6E=
 qaiwan.city.	3600	in	ns	dns1.registrar-servers.com.
@@ -57744,8 +57753,8 @@ queritory.city.	3600	in	ns	ns1124.ui-dns.com.
 queritory.city.	3600	in	ns	ns1126.ui-dns.de.
 querodelivery.city.	3600	in	ns	chloe.ns.cloudflare.com.
 querodelivery.city.	3600	in	ns	marek.ns.cloudflare.com.
-query.city.	3600	in	ns	ns1.bodis.com.
-query.city.	3600	in	ns	ns2.bodis.com.
+query.city.	3600	in	ns	ns1.dns-redirect.com.
+query.city.	3600	in	ns	ns2.dns-redirect.com.
 quest.city.	3600	in	ns	ns1.afternic.com.
 quest.city.	3600	in	ns	ns2.afternic.com.
 questa.city.	3600	in	ns	ns03.domaincontrol.com.
@@ -58778,8 +58787,6 @@ redesign.city.	3600	in	ns	ns2.atom.com.
 redflag.city.	3600	in	ns	ns1.webglobe.sk.
 redflag.city.	3600	in	ns	ns2.webglobe.sk.
 redflag.city.	3600	in	ns	ns3.webglobe.com.
-redg.city.	3600	in	ns	dee.ns.cloudflare.com.
-redg.city.	3600	in	ns	isaac.ns.cloudflare.com.
 redi.city.	3600	in	ns	ns07.domaincontrol.com.
 redi.city.	3600	in	ns	ns08.domaincontrol.com.
 redire.city.	3600	in	ns	ns-canada.topdns.com.
@@ -60598,14 +60605,10 @@ ruko.city.	3600	in	ns	dns25.hichina.com.
 ruko.city.	3600	in	ns	dns26.hichina.com.
 rukou.city.	3600	in	ns	harlan.ns.cloudflare.com.
 rukou.city.	3600	in	ns	lila.ns.cloudflare.com.
-rule34.city.	3600	in	ns	ns1.ultahost.com.
-rule34.city.	3600	in	ns	ns2.ultahost.com.
-rule34.city.	3600	in	ns	ns3.ultahost.com.
-rule34.city.	3600	in	ns	ns4.ultahost.com.
-rule34video.city.	3600	in	ns	ns1.ultahost.com.
-rule34video.city.	3600	in	ns	ns2.ultahost.com.
-rule34video.city.	3600	in	ns	ns3.ultahost.com.
-rule34video.city.	3600	in	ns	ns4.ultahost.com.
+rule34.city.	3600	in	ns	barbara.ns.cloudflare.com.
+rule34.city.	3600	in	ns	keanu.ns.cloudflare.com.
+rule34video.city.	3600	in	ns	barbara.ns.cloudflare.com.
+rule34video.city.	3600	in	ns	keanu.ns.cloudflare.com.
 rules.city.	3600	in	ns	jeff.ns.cloudflare.com.
 rules.city.	3600	in	ns	ximena.ns.cloudflare.com.
 rumahbsd.city.	3600	in	ns	nicole.ns.cloudflare.com.
@@ -61321,6 +61324,8 @@ san.city.	3600	in	ns	ns4-cloud.nic.ru.
 san.city.	3600	in	ns	ns4-l2.nic.ru.
 san.city.	3600	in	ns	ns8-cloud.nic.ru.
 san.city.	3600	in	ns	ns8-l2.nic.ru.
+sana.city.	3600	in	ns	ns1.dns-redirect.com.
+sana.city.	3600	in	ns	ns2.dns-redirect.com.
 sanandreas.city.	3600	in	ns	ns1.supercp.com.
 sanandreas.city.	3600	in	ns	ns2.supercp.com.
 sanandreas.city.	3600	in	ns	ns3.supercp.com.
@@ -62210,8 +62215,6 @@ sdcey.city.	3600	in	ns	ns1.dyna-ns.net.
 sdcey.city.	3600	in	ns	ns2.dyna-ns.net.
 sderot.city.	3600	in	ns	augustus.ns.cloudflare.com.
 sderot.city.	3600	in	ns	laura.ns.cloudflare.com.
-sdeu.city.	3600	in	ns	dee.ns.cloudflare.com.
-sdeu.city.	3600	in	ns	isaac.ns.cloudflare.com.
 sdg.city.	3600	in	ns	ns49.domaincontrol.com.
 sdg.city.	3600	in	ns	ns50.domaincontrol.com.
 sdgs.city.	3600	in	ns	dns01.muumuu-domain.com.
@@ -64165,8 +64168,6 @@ simplyrp.city.	3600	in	ns	ns-cloud-e2.googledomains.com.
 simplyrp.city.	3600	in	ns	ns-cloud-e3.googledomains.com.
 simplyrp.city.	3600	in	ns	ns-cloud-e4.googledomains.com.
 simplyrp.city.	3600	in	rrsig	DS 8 2 3600 20250930153337 20250909143337 55041 city. rsR0fKajRNOfUQOo44OLG3IvJKi5RwAOnnaLFLnjD2c1u0hXrQFndYcx9EGMnUiT4quyHW0OF8ksLDaVGZTpQNVPW3r+N8wbVtVHHuywcMDYGufPSypbxil1FEPvlQs64tcMGKVXoy4itn9908aEm9SpGBg9q+14MWRRSj6VzpY=
-simpson.city.	3600	in	ns	ns15.domaincontrol.com.
-simpson.city.	3600	in	ns	ns16.domaincontrol.com.
 simrig.city.	3600	in	ns	ns13.domaincontrol.com.
 simrig.city.	3600	in	ns	ns14.domaincontrol.com.
 simrigs.city.	3600	in	ns	ns47.domaincontrol.com.
@@ -64410,10 +64411,6 @@ skat.city.	3600	in	ns	cns2.cloudpit.com.
 skat.city.	3600	in	ns	cns3.cloudpit.io.
 skate.city.	3600	in	ns	ns1.afternic.com.
 skate.city.	3600	in	ns	ns2.afternic.com.
-skateboard.city.	3600	in	ns	ns69.domaincontrol.com.
-skateboard.city.	3600	in	ns	ns70.domaincontrol.com.
-skater.city.	3600	in	ns	ns65.domaincontrol.com.
-skater.city.	3600	in	ns	ns66.domaincontrol.com.
 skein.city.	3600	in	ns	ns-105.awsdns-13.com.
 skein.city.	3600	in	ns	ns-1087.awsdns-07.org.
 skein.city.	3600	in	ns	ns-1956.awsdns-52.co.uk.
@@ -64743,6 +64740,8 @@ slimecity.city.	3600	in	ns	dee.ns.cloudflare.com.
 slimecity.city.	3600	in	ns	peyton.ns.cloudflare.com.
 slimygrimy.city.	3600	in	ns	ns45.domaincontrol.com.
 slimygrimy.city.	3600	in	ns	ns46.domaincontrol.com.
+sling.city.	3600	in	ns	ns1.dns-redirect.com.
+sling.city.	3600	in	ns	ns2.dns-redirect.com.
 slingshot.city.	3600	in	ns	ns1.atom.com.
 slingshot.city.	3600	in	ns	ns2.atom.com.
 sll4i2bptlqqiropbbumeuc0ve9sgsrc.city.	3600	in	nsec3	1 1 0 73 SM5OCF8P1BLDA54RGQO7KVTCTA7HPEDU NS DS RRSIG
@@ -65921,6 +65920,8 @@ song.city.	3600	in	ns	ns1.afternic.com.
 song.city.	3600	in	ns	ns2.afternic.com.
 songdo.city.	3600	in	ns	sl1.sedo.com.
 songdo.city.	3600	in	ns	sl2.sedo.com.
+songhong.city.	3600	in	ns	dns1.registrar-servers.com.
+songhong.city.	3600	in	ns	dns2.registrar-servers.com.
 songs.city.	3600	in	ns	ns1.siteground.net.
 songs.city.	3600	in	ns	ns2.siteground.net.
 soni.city.	3600	in	ns	ns1.afternic.com.
@@ -66530,8 +66531,8 @@ spool.city.	3600	in	ns	amir.ns.cloudflare.com.
 spool.city.	3600	in	ns	lorna.ns.cloudflare.com.
 sport.city.	3600	in	ns	ns1.sedoparking.com.
 sport.city.	3600	in	ns	ns2.sedoparking.com.
-sportbet.city.	3600	in	ns	ns1.bodis.com.
-sportbet.city.	3600	in	ns	ns2.bodis.com.
+sportbet.city.	3600	in	ns	ns1.dns-redirect.com.
+sportbet.city.	3600	in	ns	ns2.dns-redirect.com.
 sporthub.city.	3600	in	ns	ns15.domaincontrol.com.
 sporthub.city.	3600	in	ns	ns16.domaincontrol.com.
 sportin.city.	3600	in	ns	ns-fr.1and1-dns.biz.
@@ -67575,8 +67576,8 @@ storytelling.city.	3600	in	ns	ns2.dreamhost.com.
 storytelling.city.	3600	in	ns	ns3.dreamhost.com.
 storytime.city.	3600	in	ns	ns1.afternic.com.
 storytime.city.	3600	in	ns	ns2.afternic.com.
-stoughton.city.	3600	in	ns	augustus.ns.cloudflare.com.
-stoughton.city.	3600	in	ns	laura.ns.cloudflare.com.
+stoughton.city.	3600	in	ns	ns1-expired.sav.com.
+stoughton.city.	3600	in	ns	ns2-expired.sav.com.
 stove.city.	3600	in	ns	cory.ns.cloudflare.com.
 stove.city.	3600	in	ns	zoe.ns.cloudflare.com.
 stow.city.	3600	in	ds	45082 8 2 16148105789231CD41FE21A5C3D1460E2F2F9F0E8D571C7DE52879B7B24C5714
@@ -67795,8 +67796,6 @@ stroika.city.	3600	in	ns	ns4-cloud.nic.ru.
 stroika.city.	3600	in	ns	ns4-l2.nic.ru.
 stroika.city.	3600	in	ns	ns8-cloud.nic.ru.
 stroika.city.	3600	in	ns	ns8-l2.nic.ru.
-strojmet.city.	3600	in	ns	dnsproxy1.fm.nic.ru.
-strojmet.city.	3600	in	ns	dnsproxy2.fm.nic.ru.
 stroke.city.	3600	in	ns	ns19.domaincontrol.com.
 stroke.city.	3600	in	ns	ns20.domaincontrol.com.
 strollin.city.	3600	in	ds	5671 8 2 55822590176B22163A2BBCC6E09516B2E700136E19AE9BDC0564138B58DE6C0A
@@ -68276,8 +68275,9 @@ suntat.city.	3600	in	ns	ns2.dnsowl.com.
 suntat.city.	3600	in	ns	ns3.dnsowl.com.
 suntec.city.	3600	in	ns	ns1.afternic.com.
 suntec.city.	3600	in	ns	ns2.afternic.com.
-suntech.city.	3600	in	ns	pablo.ns.cloudflare.com.
-suntech.city.	3600	in	ns	rita.ns.cloudflare.com.
+suntech.city.	3600	in	ns	ns12.inhostedns.com.
+suntech.city.	3600	in	ns	ns22.inhostedns.net.
+suntech.city.	3600	in	ns	ns32.inhostedns.org.
 suntheory.city.	3600	in	ns	ns47.domaincontrol.com.
 suntheory.city.	3600	in	ns	ns48.domaincontrol.com.
 sunvalley.city.	3600	in	ns	ns1.dyna-ns.net.
@@ -70099,8 +70099,8 @@ tempe.city.	3600	in	ns	ns1.afternic.com.
 tempe.city.	3600	in	ns	ns2.afternic.com.
 tempelhof.city.	3600	in	ns	docks17.rzone.de.
 tempelhof.city.	3600	in	ns	shades18.rzone.de.
-template.city.	3600	in	ns	ns1.bodis.com.
-template.city.	3600	in	ns	ns2.bodis.com.
+template.city.	3600	in	ns	ns1.dns-redirect.com.
+template.city.	3600	in	ns	ns2.dns-redirect.com.
 templates.city.	3600	in	ns	ns71.domaincontrol.com.
 templates.city.	3600	in	ns	ns72.domaincontrol.com.
 temple.city.	3600	in	ns	ns1.afternic.com.
@@ -72263,8 +72263,6 @@ top3.city.	3600	in	ns	ns1030.ui-dns.de.
 top3.city.	3600	in	ns	ns1040.ui-dns.com.
 top3.city.	3600	in	ns	ns1077.ui-dns.biz.
 top3.city.	3600	in	ns	ns1104.ui-dns.org.
-top500.city.	3600	in	ns	ns11.xincache.com.
-top500.city.	3600	in	ns	ns12.xincache.com.
 top54.city.	3600	in	ns	ns1.dyna-ns.net.
 top54.city.	3600	in	ns	ns2.dyna-ns.net.
 top88.city.	3600	in	ns	donald.ns.cloudflare.com.
@@ -72347,8 +72345,8 @@ topwalks.city.	3600	in	ns	dns1.registrar-servers.com.
 topwalks.city.	3600	in	ns	dns2.registrar-servers.com.
 topzo.city.	3600	in	ns	dayana.ns.cloudflare.com.
 topzo.city.	3600	in	ns	grant.ns.cloudflare.com.
-tor.city.	3600	in	ns	ns57.domaincontrol.com.
-tor.city.	3600	in	ns	ns58.domaincontrol.com.
+tor.city.	3600	in	ns	clint.ns.cloudflare.com.
+tor.city.	3600	in	ns	miki.ns.cloudflare.com.
 tor6.city.	3600	in	ns	ns1.afternic.com.
 tor6.city.	3600	in	ns	ns2.afternic.com.
 tora.city.	3600	in	ns	dns1.p03.nsone.net.
@@ -73132,6 +73130,8 @@ trips.city.	3600	in	ns	ns1.afternic.com.
 trips.city.	3600	in	ns	ns2.afternic.com.
 trips2mexico.city.	3600	in	ns	ns05.domaincontrol.com.
 trips2mexico.city.	3600	in	ns	ns06.domaincontrol.com.
+tripster.city.	3600	in	ns	ns1.r01.ru.
+tripster.city.	3600	in	ns	ns2.r01.ru.
 tripz.city.	3600	in	ns	ns07.domaincontrol.com.
 tripz.city.	3600	in	ns	ns08.domaincontrol.com.
 triskelion.city.	3600	in	ns	ns75.domaincontrol.com.
@@ -73761,8 +73761,6 @@ txvlog.city.	3600	in	ns	ns1.1233dns.com.
 txvlog.city.	3600	in	ns	ns2.951dns.com.
 ty.city.	3600	in	ns	dns1.registrar-servers.com.
 ty.city.	3600	in	ns	dns2.registrar-servers.com.
-tyap.city.	3600	in	ns	dee.ns.cloudflare.com.
-tyap.city.	3600	in	ns	isaac.ns.cloudflare.com.
 tybeeisland.city.	3600	in	ns	dns1.registrar-servers.com.
 tybeeisland.city.	3600	in	ns	dns2.registrar-servers.com.
 tychy.city.	3600	in	ns	ns1.dyna-ns.net.
@@ -74102,8 +74100,6 @@ ujjainmahakal.city.	3600	in	ns	ns8.dnsboost.com.
 ujjainmahakal.city.	3600	in	ns	ns9.dnsboost.com.
 uk.city.	3600	in	ns	ns1.dan.com.
 uk.city.	3600	in	ns	ns2.dan.com.
-uk88.city.	3600	in	ns	dns101.registrar-servers.com.
-uk88.city.	3600	in	ns	dns102.registrar-servers.com.
 ukai.city.	3600	in	ns	ns1.101domain.com.
 ukai.city.	3600	in	ns	ns2.101domain.com.
 ukai.city.	3600	in	ns	ns5.101domain.com.
@@ -74920,8 +74916,6 @@ usadba.city.	3600	in	ns	dnsproxy1.fm.nic.ru.
 usadba.city.	3600	in	ns	dnsproxy2.fm.nic.ru.
 usak.city.	3600	in	ns	ns1.partnerbase.net.
 usak.city.	3600	in	ns	ns2.partnerbase.net.
-usaz.city.	3600	in	ns	dee.ns.cloudflare.com.
-usaz.city.	3600	in	ns	isaac.ns.cloudflare.com.
 usb.city.	3600	in	ns	dns1.namecheaphosting.com.
 usb.city.	3600	in	ns	dns2.namecheaphosting.com.
 usc.city.	3600	in	ns	ns1.whois.com.
@@ -75024,8 +75018,8 @@ util.city.	3600	in	ns	ns15.domaincontrol.com.
 util.city.	3600	in	ns	ns16.domaincontrol.com.
 utili.city.	3600	in	ns	connect1.squarespacedns.com.
 utili.city.	3600	in	ns	connect2.squarespacedns.com.
-utilities.city.	3600	in	ns	dns1.registrar-servers.com.
-utilities.city.	3600	in	ns	dns2.registrar-servers.com.
+utilities.city.	3600	in	ns	dns101.registrar-servers.com.
+utilities.city.	3600	in	ns	dns102.registrar-servers.com.
 utiyniuq.city.	3600	in	ns	chance.ns.cloudflare.com.
 utiyniuq.city.	3600	in	ns	gwen.ns.cloudflare.com.
 uto7v6erka9vkp9s0sk1upeh7gh2ol2s.city.	3600	in	nsec3	1 1 0 73 UUBID4J1C9M5GFB9217RD0R131E45CLP NS DS RRSIG
@@ -75407,8 +75401,8 @@ varel.city.	3600	in	ns	ns33.domaincontrol.com.
 varel.city.	3600	in	ns	ns34.domaincontrol.com.
 varese.city.	3600	in	ns	ns1.gavd.org.
 varese.city.	3600	in	ns	ns2.gavd.org.
-varia.city.	3600	in	ns	ns1.bodis.com.
-varia.city.	3600	in	ns	ns2.bodis.com.
+varia.city.	3600	in	ns	ns1.dns-redirect.com.
+varia.city.	3600	in	ns	ns2.dns-redirect.com.
 variable.city.	3600	in	ns	ns12.wixdns.net.
 variable.city.	3600	in	ns	ns13.wixdns.net.
 varlamov.city.	3600	in	ns	ns1.reg.ru.
@@ -75863,8 +75857,8 @@ vevey.city.	3600	in	ns	ns2.o2switch.net.
 vex.city.	3600	in	ns	ns.udag.de.
 vex.city.	3600	in	ns	ns.udag.net.
 vex.city.	3600	in	ns	ns.udag.org.
-vexmail.city.	3600	in	ns	ns1.yoncu.com.
-vexmail.city.	3600	in	ns	ns2.yoncu.com.
+vexmail.city.	3600	in	ns	dns3.parkpage.foundationapi.com.
+vexmail.city.	3600	in	ns	dns4.parkpage.foundationapi.com.
 vexpo.city.	3600	in	ns	alan.ns.cloudflare.com.
 vexpo.city.	3600	in	ns	beth.ns.cloudflare.com.
 vf555.city.	3600	in	ns	janet.ns.cloudflare.com.
@@ -77041,8 +77035,8 @@ vrcloud.city.	3600	in	ns	ns1.cnolnic.net.
 vrcloud.city.	3600	in	ns	ns2.cnolnic.net.
 vreality.city.	3600	in	ns	ns57.domaincontrol.com.
 vreality.city.	3600	in	ns	ns58.domaincontrol.com.
-vrfp1t7urqroo5dhn6r4ssj2liggo9u3.city.	3600	in	nsec3	1 1 0 73 VTHLP16DQ0NFMUFLQHA7QS46LPED51FF NS DS RRSIG
-vrfp1t7urqroo5dhn6r4ssj2liggo9u3.city.	3600	in	rrsig	NSEC3 8 2 3600 20251001110148 20250910100148 55041 city. DeDQCtSRConcskEMoy7nVZ0BV503t2JEwnJgimcWC9Iao2a8ulfM2QO3BUMf3kfgh18uml9c9B/lmY5/I2DekYIoPd0ANFxlDXEzk5zuiyCbtHbsw8cj1jlYgUGKx3igTQgf+wZ+fjG/4e1mlcbeTASzTSho24Sl//5HlZIK+vo=
+vrfp1t7urqroo5dhn6r4ssj2liggo9u3.city.	3600	in	nsec3	1 1 0 73 VT1AFSSIIGBUPKQOSPHEE0QLFHP6FGDE NS DS RRSIG
+vrfp1t7urqroo5dhn6r4ssj2liggo9u3.city.	3600	in	rrsig	NSEC3 8 2 3600 20251002105836 20250911095836 55041 city. Gyqr8v8IiTe8TaFYrruITCBJkOTjBBFtrXMvCoQGjXPehd4sZ4yi3/ZMuyXOmBAD0A2fscVn/pD7Jh3GUcgQl1ZEl9Bhdwj79tSr84lCWQiymYrwIXxYZrGF4gGpBdhkzPYDnym+0uOcwmhw1ocdk30sHtvC8tJRndJ0aSp8CsI=
 vril.city.	3600	in	ns	ns1.dns-parking.com.
 vril.city.	3600	in	ns	ns2.dns-parking.com.
 vrilissia.city.	3600	in	ns	dns101.registrar-servers.com.
@@ -77089,6 +77083,8 @@ vsrru.city.	3600	in	ns	ns1.dyna-ns.net.
 vsrru.city.	3600	in	ns	ns2.dyna-ns.net.
 vswin.city.	3600	in	ns	doug.ns.cloudflare.com.
 vswin.city.	3600	in	ns	gloria.ns.cloudflare.com.
+vt1afssiigbupkqosphee0qlfhp6fgde.city.	3600	in	nsec3	1 1 0 73 VTHLP16DQ0NFMUFLQHA7QS46LPED51FF NS DS RRSIG
+vt1afssiigbupkqosphee0qlfhp6fgde.city.	3600	in	rrsig	NSEC3 8 2 3600 20251002105836 20250911095836 55041 city. EUq/cM6SG5d8WP5uTuMQ0vg8lUmywVJ6XphICtowGve+UyAomxmpA3dD/AEodMkQ2rxyFZU3hBYwzMIwGqt0X50cCIPTVuYNnCvB0bO+7fatkl9soR3rXmQOr27lbxQ2L7ho17+yZI+C8LC2X3zDszIpNAZ0fdsvxl/fPPB3H6Q=
 vt999.city.	3600	in	ns	annabel.ns.cloudflare.com.
 vt999.city.	3600	in	ns	justin.ns.cloudflare.com.
 vtech.city.	3600	in	ns	dns1.namecheaphosting.com.
@@ -77135,8 +77131,8 @@ vuivui.city.	3600	in	ns	ns3flt.name.com.
 vuivui.city.	3600	in	ns	ns4clq.name.com.
 vukovar.city.	3600	in	ns	docks02.rzone.de.
 vukovar.city.	3600	in	ns	shades09.rzone.de.
-vulcan.city.	3600	in	ns	ns1.bodis.com.
-vulcan.city.	3600	in	ns	ns2.bodis.com.
+vulcan.city.	3600	in	ns	ns1.dns-redirect.com.
+vulcan.city.	3600	in	ns	ns2.dns-redirect.com.
 vulffhornn.city.	3600	in	ns	dns1.registrar-servers.com.
 vulffhornn.city.	3600	in	ns	dns2.registrar-servers.com.
 vulkan-platinum.city.	3600	in	ns	dns101.registrar-servers.com.
@@ -77430,8 +77426,6 @@ wangzhan.city.	3600	in	ns	ns3.myhostadmin.net.
 wangzhan.city.	3600	in	ns	ns4.myhostadmin.net.
 wangzhan.city.	3600	in	ns	ns5.myhostadmin.net.
 wangzhan.city.	3600	in	ns	ns6.myhostadmin.net.
-wanju.city.	3600	in	ns	expirens3.hichina.com.
-wanju.city.	3600	in	ns	expirens4.hichina.com.
 wankdorf.city.	3600	in	ns	curitiba.ns.porkbun.com.
 wankdorf.city.	3600	in	ns	fortaleza.ns.porkbun.com.
 wankdorf.city.	3600	in	ns	maceio.ns.porkbun.com.
@@ -79082,8 +79076,9 @@ wonderlife.city.	3600	in	ns	docks10.rzone.de.
 wonderlife.city.	3600	in	ns	shades20.rzone.de.
 wong.city.	3600	in	ns	dns23.hichina.com.
 wong.city.	3600	in	ns	dns24.hichina.com.
-wonju.city.	3600	in	ns	ns15.cleannameservers.com.
-wonju.city.	3600	in	ns	ns16.cleannameservers.com.
+wonju.city.	3600	in	ns	ns1.dnsowl.com.
+wonju.city.	3600	in	ns	ns2.dnsowl.com.
+wonju.city.	3600	in	ns	ns3.dnsowl.com.
 wonplay888.city.	3600	in	ns	dns101.registrar-servers.com.
 wonplay888.city.	3600	in	ns	dns102.registrar-servers.com.
 wonsan.city.	3600	in	ns	ns.gabia.co.kr.
@@ -82112,8 +82107,8 @@ zhongguohuazhuangpin.city.	3600	in	ns	ns1.gxkjdns.com.
 zhongguohuazhuangpin.city.	3600	in	ns	ns2.gxkjdns.com.
 zhongguoyimei.city.	3600	in	ns	ns1.gxkjdns.com.
 zhongguoyimei.city.	3600	in	ns	ns2.gxkjdns.com.
-zhongqin.city.	3600	in	ns	dns29.hichina.com.
-zhongqin.city.	3600	in	ns	dns30.hichina.com.
+zhongqin.city.	3600	in	ns	expirens3.hichina.com.
+zhongqin.city.	3600	in	ns	expirens4.hichina.com.
 zhongqingroup.city.	3600	in	ns	dns11.hichina.com.
 zhongqingroup.city.	3600	in	ns	dns12.hichina.com.
 zhongqinhealth.city.	3600	in	ns	dns10.hichina.com.
@@ -82588,4 +82583,4 @@ zzzz.city.	3600	in	ns	dns1.p09.nsone.net.
 zzzz.city.	3600	in	ns	dns2.p09.nsone.net.
 zzzz.city.	3600	in	ns	dns3.p09.nsone.net.
 zzzz.city.	3600	in	ns	dns4.p09.nsone.net.
-city.	3600	in	soa	v0n0.nic.city. hostmaster.donuts.email. 1757552654 7200 900 1209600 3600
+city.	3600	in	soa	v0n0.nic.city. hostmaster.donuts.email. 1757638864 7200 900 1209600 3600
