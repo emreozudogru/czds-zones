@@ -1,4 +1,4 @@
-plumbing.	3600	in	soa	v0n0.nic.plumbing. hostmaster.donuts.email. 1757553221 7200 900 1209600 3600
+plumbing.	3600	in	soa	v0n0.nic.plumbing. hostmaster.donuts.email. 1757639434 7200 900 1209600 3600
 02521.plumbing.	3600	in	ns	ns1.dyna-ns.net.
 02521.plumbing.	3600	in	ns	ns2.dyna-ns.net.
 02fgfaacz2.plumbing.	3600	in	ns	gracie.ns.cloudflare.com.
@@ -99,7 +99,7 @@ plumbing.	3600	in	soa	v0n0.nic.plumbing. hostmaster.donuts.email. 1757553221 720
 31963.plumbing.	3600	in	ns	ns1.dyna-ns.net.
 31963.plumbing.	3600	in	ns	ns2.dyna-ns.net.
 320shfm0nefgp9orb6tf9fdmloe4sfvb.plumbing.	3600	in	nsec3	1 1 0 73 324DLFE93EDE80ENM0OD4OL8NTA81EMH NS SOA RRSIG DNSKEY NSEC3PARAM
-320shfm0nefgp9orb6tf9fdmloe4sfvb.plumbing.	3600	in	rrsig	NSEC3 8 2 3600 20251002011947 20250911001947 7215 plumbing. txz6nnJmCV5nUQS2yx6jy+2GEuSGVk3dtLXj00sx+FAK4EhOp+5o67a6xbQLhZNPD70RTS3OFhJPmw4VnUhJSSg83EN2LXZfynfTgkuxTRQk7JiAEYpblcqJBBjjYy8AfqgcHTlx8h9OfoO3jMa+QyT9WEEsJTDfjRSTUOb9j9U=
+320shfm0nefgp9orb6tf9fdmloe4sfvb.plumbing.	3600	in	rrsig	NSEC3 8 2 3600 20251003011631 20250912001631 7215 plumbing. PPYlnGsM5j4egE9Tsojx/6hosWbmgLyf1lV8bwm7ti4aYdt3DhEXpxKDpNJRj3xoA11TDMcaogZvRIKdkTxznVjPJG8Stttfu5BCS5V22yYn6Ty7EJueal8e8Z+EERfeQhEEbHKlVfurWDUi0VzZE1bpTjlmEXI7vo6L6Uy02Gc=
 324dlfe93ede80enm0od4ol8nta81emh.plumbing.	3600	in	nsec3	1 1 0 73 32U2545GL04AQ1R26NLD6V4QLNAJJ7UD NS DS RRSIG
 324dlfe93ede80enm0od4ol8nta81emh.plumbing.	3600	in	rrsig	NSEC3 8 2 3600 20250930155333 20250909145333 7215 plumbing. lECgRfNnuuAcGqBjpWqpoDca9FLip40+q9WDN5Mbqh8Twp202sMQG2OOGl5ZhZqQpGLp6czA9HcS7/JFnDJpe30bNtIvWAPgBsdtpOhz8sBf5z/9F8teSITWP/g89j/8p5ca9hWAOQBJTq/YSf2xVEjH/rQXWsQReWQA3e3cYKA=
 329571.plumbing.	3600	in	ns	ns1.dyna-ns.net.
@@ -160,8 +160,8 @@ plumbing.	3600	in	soa	v0n0.nic.plumbing. hostmaster.donuts.email. 1757553221 720
 4r1gei6i52pohllrssv8b25334f7rv78.plumbing.	3600	in	rrsig	NSEC3 8 2 3600 20250930155333 20250909145333 7215 plumbing. 2PPNecrHgEKSDH/VrZyUENVKrTenlN7G/bRxqQKdh0RI10UFqO5KYzxDEqz4J/Zz4wzxy7AFtygzyg2vYucWkivPauuICf6buMtl2S0/BxZv0ese2iHEF6sV0auvkKS/ECJv0bcYEZGeD9f+AdHU0AsqubAtsgHAzxKAIs0Qezc=
 4v117pd0f5kgl5r2o6aurv33nqcmdnjj.plumbing.	3600	in	nsec3	1 1 0 73 58UA94F18E22RTMFAVB5PVGS4V87QRBQ NS DS RRSIG
 4v117pd0f5kgl5r2o6aurv33nqcmdnjj.plumbing.	3600	in	rrsig	NSEC3 8 2 3600 20250930155333 20250909145333 7215 plumbing. 6HLFMB4J850bcetBWb+sjU/yxQCT17HQJot7WXbJ0bn5CbZH/qcQDKAyYqDDswA5JnHIvX8jsD3gG+CF6FTpCPpeYC4Qd3IcctVc5T0rf4cX1imPnnKGGbgcN3VSM0RTp4CTLFapDOBmSwzPLtyjkwuENWIDzCLDrQ1JVeBEuVU=
-518.plumbing.	3600	in	ns	ns1.bodis.com.
-518.plumbing.	3600	in	ns	ns2.bodis.com.
+518.plumbing.	3600	in	ns	ns1.dns-redirect.com.
+518.plumbing.	3600	in	ns	ns2.dns-redirect.com.
 518108.plumbing.	3600	in	ns	ns1.dyna-ns.net.
 518108.plumbing.	3600	in	ns	ns2.dyna-ns.net.
 570932.plumbing.	3600	in	ns	ns1.dyna-ns.net.
@@ -3260,6 +3260,8 @@ ian.plumbing.	3600	in	ns	ns-uk.1and1-dns.biz.
 ian.plumbing.	3600	in	ns	ns-uk.1and1-dns.co.uk.
 ian.plumbing.	3600	in	ns	ns-uk.1and1-dns.com.
 ian.plumbing.	3600	in	ns	ns-uk.1and1-dns.org.
+ianhayandson.plumbing.	3600	in	ns	ns25.domaincontrol.com.
+ianhayandson.plumbing.	3600	in	ns	ns26.domaincontrol.com.
 ic1m47urrj5fsv7hj9mosu2rfsnerc5v.plumbing.	3600	in	nsec3	1 1 0 73 ICC881R2246LN4QI3SFU2G6IOM84LTG9 NS DS RRSIG
 ic1m47urrj5fsv7hj9mosu2rfsnerc5v.plumbing.	3600	in	rrsig	NSEC3 8 2 3600 20250930155333 20250909145333 7215 plumbing. hQPEfxcAixlpfpHdtt3Sw0lbpnrR/8O9EWpwtZN+jgYXHm9alCpS8JbRdUj0yqZQheBJY/XLE2jawfKfxrqTkYxSPW7X4b3sFPXDzUnTBKPdHtmhx2XPCwkEp4fm42AM8hxY+7UW0mA2okaD+ofT17/ZR+wiqm34M/0mQCKA364=
 icann.plumbing.	3600	in	ns	a.icann-servers.net.
@@ -4806,8 +4808,6 @@ og.plumbing.	3600	in	ns	ns-cloud-d2.googledomains.com.
 og.plumbing.	3600	in	ns	ns-cloud-d3.googledomains.com.
 og.plumbing.	3600	in	ns	ns-cloud-d4.googledomains.com.
 og.plumbing.	3600	in	rrsig	DS 8 2 3600 20250930155333 20250909145333 7215 plumbing. UUdUB5kQUlfuorJMN+ZJQA/B6Xf16Qb9w8sNY+V5UPKiAyMIf23PvwPVb/18JGtDzVEIGOCKs/Hrruw7MooIpRq0U91vV/hghHc3yupOPCan9ANmr2FgxZGhzCrdJw+kn/bPlTKAdTOk+fm/BUVVfpKBNhqSuJNn4YKaH3S6Ys8=
-ogawagaiko.plumbing.	3600	in	ns	dns1.onamae.com.
-ogawagaiko.plumbing.	3600	in	ns	dns2.onamae.com.
 ogborn.plumbing.	3600	in	ns	ns-1459.awsdns-54.org.
 ogborn.plumbing.	3600	in	ns	ns-1727.awsdns-23.co.uk.
 ogborn.plumbing.	3600	in	ns	ns-481.awsdns-60.com.
@@ -5276,7 +5276,7 @@ plumbing.	3600	in	nsec3param	1 0 0 73
 plumbing.	3600	in	rrsig	DNSKEY 8 1 3600 20250930155333 20250909145333 48722 plumbing. u6puMDgUCYeTMkeRdHnayiSwtOZCkqUFcilmBTURwgB2iyw2D5lC7KeYnUt8rsnDVky55fsVQ/8RnV49A+XwAESruHp8lsFUX3oqTs5xiEK5BgIcz9OGNLQeeSEqCx+IsaGFN6FQPtnWjWHy+onrJPR8RYOPUkwrgyyRULYeb1yVx1OvX48jvgE7cZrRmi6RssHuQ2svhu+ZLaL0AOi4GWk/eYk0Dp/zxEDdBQZagc34WR900E0JOMLtWZvqeiCwDwk02Xs1/1axHC+ULFV5VeSQL16lyu8HSDQQiCK6ZLBVK4kDtCVVjUlFoUotQLr4cE1enj2e/wM8Lcn9uQo+Gw==
 plumbing.	3600	in	rrsig	NS 8 1 3600 20250930155333 20250909145333 7215 plumbing. SmZZ9xNo5btC7f4yI6wsU90teZvUtwETejrJC7OvPWm25sOmjcRxVtO8odZD0VzxRDHFMrqIc/cpB4CXUqi/XIAFqdsbHg5exZAqNMLa8mvLAtC6/tXPgJv9vgjuj9bj2Y7kxMkZ44wwY39anQo3Mq5yNyanOo9M+RL1AYzPHu8=
 plumbing.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930155333 20250909145333 7215 plumbing. 4PxuqhhLs6FMoYySnOdPnVfGCZHyuHVWP3RuIn9YCggmSnMRwm8jQJbIhkQ+D06/p+xmrBmdIuSKuyRJ3q4DH83mG/EbbzblOEpk+W77V5wlYLoGO5/Z5tBP+LrmSJ6fXSJ4BR9rxIXrG73CKo1GQAtiyIfeLTc/iUsiZByD/8Y=
-plumbing.	3600	in	rrsig	SOA 8 1 3600 20251002011947 20250911001947 7215 plumbing. IfwZJ5ySMUvMvS7Th2ThtxjwuPjZ7JEY4cuLXXA1srFgBLrbJT5YczpMrxvIyNLww2mTG7gfD+zwBnMiUKwhH9mZOGvlhwWaJmFNknOBgHWusX3R9GFRwJJcuS24JGNZLlxLjBbLLQjTC9FIcwCDSZIOwVgDAqsexwhZ5EQSuDA=
+plumbing.	3600	in	rrsig	SOA 8 1 3600 20251003011631 20250912001631 7215 plumbing. ElOgwjj3U2wnHRsEd7ejJRFVr73IHMYt4muoQaMwCk3ZwCQ4kgWmFX0mJ12vHMPEepTB5bqmuTZ4IRpzDX/4dqO3gUJ7x2ItnIVf0saALFWY19VGO9G8As3TreOkVwUZY6ndfQisXY5TrqMs5Hfhc/PtKhkc0mtUTKrfWoijdPI=
 plumbingbyjay.plumbing.	3600	in	ns	ns33.domaincontrol.com.
 plumbingbyjay.plumbing.	3600	in	ns	ns34.domaincontrol.com.
 plumbinghelptoday.plumbing.	3600	in	ns	ns43.domaincontrol.com.
@@ -7495,4 +7495,4 @@ zzz-ssl-ag-de.plumbing.	3600	in	ns	ns-de.1and1-dns.biz.
 zzz-ssl-ag-de.plumbing.	3600	in	ns	ns-de.1and1-dns.com.
 zzz-ssl-ag-de.plumbing.	3600	in	ns	ns-de.1and1-dns.de.
 zzz-ssl-ag-de.plumbing.	3600	in	ns	ns-de.1and1-dns.org.
-plumbing.	3600	in	soa	v0n0.nic.plumbing. hostmaster.donuts.email. 1757553221 7200 900 1209600 3600
+plumbing.	3600	in	soa	v0n0.nic.plumbing. hostmaster.donuts.email. 1757639434 7200 900 1209600 3600
