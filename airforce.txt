@@ -1,4 +1,4 @@
-airforce.	3600	in	soa	v0n0.nic.airforce. hostmaster.donuts.email. 1757552059 7200 900 1209600 3600
+airforce.	3600	in	soa	v0n0.nic.airforce. hostmaster.donuts.email. 1757638266 7200 900 1209600 3600
 0ph590v5fle3tffhqfkhln3t8h3anq4p.airforce.	3600	in	nsec3	1 1 0 73 0SLNP0P6NT16G6VTCBU5AGTOMK88QH88 NS DS RRSIG
 0ph590v5fle3tffhqfkhln3t8h3anq4p.airforce.	3600	in	rrsig	NSEC3 8 2 3600 20250930152248 20250909142248 63864 airforce. NlKMto0zzPQ+P1fphYxr/xKMyXVzgBOFxA4+dKuJ9v9rvhoF1LxsHYBAN5bvhyzRqb94yrc88e5jQNpteiFL0YQfoCr/j6GUig3+gLIyByjaBgQW639ET4b+rENTcCRZf7kBy9PDC52xwdtLxXu5QvZpYt7aI07TGfKyVzUevB0=
 0slnp0p6nt16g6vtcbu5agtomk88qh88.airforce.	3600	in	nsec3	1 1 0 73 112V7K127J84ACAS4HDKHTBKU7JMHI1B NS DS RRSIG
@@ -10,7 +10,7 @@ airforce.	3600	in	soa	v0n0.nic.airforce. hostmaster.donuts.email. 1757552059 720
 1337.airforce.	3600	in	ns	cruz.ns.cloudflare.com.
 1337.airforce.	3600	in	ns	micah.ns.cloudflare.com.
 1420b2ddksoguavea0icsj1qifp7nhvs.airforce.	3600	in	nsec3	1 1 0 73 14LC6S81Q7ST54UF0EVM2D9GOHHI01U3 NS SOA RRSIG DNSKEY NSEC3PARAM
-1420b2ddksoguavea0icsj1qifp7nhvs.airforce.	3600	in	rrsig	NSEC3 8 2 3600 20251002005627 20250910235627 63864 airforce. lyBqE6zL+ic8qSY/TZ4fEKfYvK3yEvh51o4C2Wl8A4g+9CqSWATs3xJdw+x/VCvOtmgj5Ir/lvSNIqVnuLiWj81bzdCTDmOJ0rcPLuCrAsk8SRIRpmvXicDPoOg23c/xnQa65IWxCJacAxXkdfPB9KWQxMuswQmnyitnQDzqSDQ=
+1420b2ddksoguavea0icsj1qifp7nhvs.airforce.	3600	in	rrsig	NSEC3 8 2 3600 20251003005306 20250911235306 63864 airforce. BNDJh58/3EabJoPKdBmKByd78rVK3Hr8Z5GmK3C/ay91mDeal92jb+IzyWlUPPbAcnJPISCT3qBQy8SbaLoezFZgh29NNchQqm10F7OdZAVjrIgc8GUywKur73R3Nve1pSxCwf/SAAjZT6m8Vltpn1CfsXCdNmulThC6GUpo978=
 14lc6s81q7st54uf0evm2d9gohhi01u3.airforce.	3600	in	nsec3	1 1 0 73 1LB08A8RTHKCDBP8S0H6VK9EASAJ7LFR NS DS RRSIG
 14lc6s81q7st54uf0evm2d9gohhi01u3.airforce.	3600	in	rrsig	NSEC3 8 2 3600 20250930152248 20250909142248 63864 airforce. ov7mPSVAzzOEBBGyLR3sSScHhXTy8lLNyWzDd35P24WssPYrxcylM98qA+MlD84iRpoVsCnTRWT0hr39DnRkVi8etmQm8WONxK384/pLEyd6AqBEETGLfraDazPCmuiMsuA78gZqmOJMdAtXYO8uMKpe3sduvKDq691GlIP5cAg=
 167dgn.airforce.	3600	in	ns	alec.ns.cloudflare.com.
@@ -222,6 +222,10 @@ aim-hi.airforce.	3600	in	ns	jobs.ns.cloudflare.com.
 aim-hi.airforce.	3600	in	ns	nucum.ns.cloudflare.com.
 aimhi.airforce.	3600	in	ns	jobs.ns.cloudflare.com.
 aimhi.airforce.	3600	in	ns	nucum.ns.cloudflare.com.
+aipathfinder.airforce.	3600	in	ns	curitiba.ns.porkbun.com.
+aipathfinder.airforce.	3600	in	ns	fortaleza.ns.porkbun.com.
+aipathfinder.airforce.	3600	in	ns	maceio.ns.porkbun.com.
+aipathfinder.airforce.	3600	in	ns	salvador.ns.porkbun.com.
 airemout.airforce.	3600	in	ns	ns-cloud-b1.googledomains.com.
 airemout.airforce.	3600	in	ns	ns-cloud-b2.googledomains.com.
 airemout.airforce.	3600	in	ns	ns-cloud-b3.googledomains.com.
@@ -239,7 +243,7 @@ airforce.	3600	in	nsec3param	1 0 0 73
 airforce.	3600	in	rrsig	DNSKEY 8 1 3600 20250930152248 20250909142248 3715 airforce. tBWHAswe3o4lz/dzcwCSMW33wdmFR83Mbhh2AI1y8NjZEDGa3/Dgx5mds3cyDg8eqgf/vZV4Ut6lle5ulLamk65p5e3Q7dL1RS/7ZpmfaAxvncNRyT47pWpoLTzLRyTjaUZpq5eUBEQ5bsuYCccWQKqyQmMgTaI40yeKNKpjR3L/KIwJooKfEkPhqlNKbqRjcHMkTxeBnJk2SKVKUskiAUTG5uS/fNpobSWGE8wag8zGOLQL9ifHHGkOZNELv3EHnzIrEDJ7PIx19S049QmvkW+u/pSPTvFXMja8SbRwIrbbu1bP7OEHvW+AlSqge+OVwYP9VJWgsqB1oDn93ZIPrw==
 airforce.	3600	in	rrsig	NS 8 1 3600 20250930152248 20250909142248 63864 airforce. drggaEeBmdInKmG0q7gZxdlkblbSwcKhUdEQPC5zkktvs28iWdDhmF6LZK6PZK90sAHh3Q1pu/VgDCNSSBu1Udprt1GcievtBC6C7ifEd1f/zvNbAgCJW5XC/hOUiUdhdayIv8UVfNN1loYb9eHPlV6ed9p2AL7zap/UtjWwCWo=
 airforce.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930152248 20250909142248 63864 airforce. XeOY00nTuQ82Z2l/PTdNXhtQ42RVR1AMdItmlOWJVeIxdZxDoFDp4ezsMj6S329afxZi6fT6TLRMX22lo37hM2y6J2XSUiwguNK6i1OoKRu/Fwjy4SONTuFnaL1q0P3d+wwjDKdzq8PEBwsRl7gsz7aFT3YWWCXqFPCzu2TQx/Y=
-airforce.	3600	in	rrsig	SOA 8 1 3600 20251002005627 20250910235627 63864 airforce. g2KYVcuoIHW1oo4A7aMgahCyhgV14ZfPzcSTirAot1hu9ZGdPwhrVQKRGuAW5593kUxQP1vbfr41+5pzn5n61k3L9J9qlRNvAB5mZ7P31mnNYYS3CWZ5KWoini7ZP/rqr015UY2gtugWnnhncn2c4ryQ+aoGrGAB8t3VEt2bHIA=
+airforce.	3600	in	rrsig	SOA 8 1 3600 20251003005306 20250911235306 63864 airforce. ql4/a5MAzMPtWCJHfWKBx7swXCgAQt9nJlztKO+jvnXuf07vIsguYfadxYtnzz6WRYC2uCp+54amdWEltCFoxAU3PO7uC+MwiQ+DHh+H+zIiv6yat0lYFg/2lvDHNFeS08iUPQYjBDyu5I/+y0fMuZ/l8thQ9ckDOGJX5GGcKQo=
 airforceairforce.airforce.	3600	in	ns	ns1.dyna-ns.net.
 airforceairforce.airforce.	3600	in	ns	ns2.dyna-ns.net.
 aiu.airforce.	3600	in	ns	a1.uberns.com.
@@ -2705,4 +2709,4 @@ zones.airforce.	3600	in	ns	ns-1465.awsdns-55.org.
 zones.airforce.	3600	in	ns	ns-1719.awsdns-22.co.uk.
 zones.airforce.	3600	in	ns	ns-260.awsdns-32.com.
 zones.airforce.	3600	in	ns	ns-549.awsdns-04.net.
-airforce.	3600	in	soa	v0n0.nic.airforce. hostmaster.donuts.email. 1757552059 7200 900 1209600 3600
+airforce.	3600	in	soa	v0n0.nic.airforce. hostmaster.donuts.email. 1757638266 7200 900 1209600 3600
