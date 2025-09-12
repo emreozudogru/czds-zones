@@ -1,4 +1,4 @@
-audio.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757548815 900 1800 6048000 3600
+audio.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757636985 900 1800 6048000 3600
 1001histoires.audio.	3600	in	ns	ns1016.ui-dns.com.
 1001histoires.audio.	3600	in	ns	ns1031.ui-dns.biz.
 1001histoires.audio.	3600	in	ns	ns1071.ui-dns.de.
@@ -333,8 +333,8 @@ abcnews.audio.	3600	in	ns	dns1.cscdns.net.
 abcnews.audio.	3600	in	ns	dns2.cscdns.net.
 abcnews.audio.	900	in	nsec	abnorm.audio. NS RRSIG NSEC
 abcnews.audio.	900	in	rrsig	NSEC 13 2 900 20250922230019 20250823213019 5894 audio. YZuuJYQaIQHy8u6Xm56lsnMgQpZ1BrkmEUKMXkVMO3QKijMPFqbHf6/BIC04fsrh+Ls59Kkta16h8IlmaERCmQ==
-abnorm.audio.	3600	in	ns	dns1.registrar-servers.com.
-abnorm.audio.	3600	in	ns	dns2.registrar-servers.com.
+abnorm.audio.	3600	in	ns	ns.stratoserver.net.
+abnorm.audio.	3600	in	ns	ns2.stratoserver.net.
 abnorm.audio.	900	in	nsec	abovethesky.audio. NS RRSIG NSEC
 abnorm.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio. CU4SPXNxhYuL71nHTNgrLNjDq/8Z7N05u5aLDPSnU2GHdA0AvvmEsIK8nc5HCsBLobQSZxOn/YCgYIhzUf8NrA==
 abovethesky.audio.	3600	in	ns	ns5.kasserver.com.
@@ -636,7 +636,7 @@ agent.audio.	3600	in	ns	ns-cloud-a2.googledomains.com.
 agent.audio.	3600	in	ns	ns-cloud-a3.googledomains.com.
 agent.audio.	3600	in	ns	ns-cloud-a4.googledomains.com.
 agent.audio.	900	in	nsec	agentic.audio. NS RRSIG NSEC
-agent.audio.	900	in	rrsig	NSEC 13 2 900 20250914075444 20250815062444 5894 audio. NdmTiiELtguXw94BmOuaBFYXi9ZnrfwX+v0C2/DbhHkKB5PJYXUiVllP0uw5FwUKT7egb+jVprTWUcGLgKodrw==
+agent.audio.	900	in	rrsig	NSEC 13 2 900 20251011075444 20250911062444 5894 audio. uM71p/S0yZFkpvJJWKezKppLKuYdOEI4y4IIgF2TyX3QHE9GEM4mI3YuuFKdffB4PKTDktTblpOn8NjNalKeRQ==
 agentic.audio.	3600	in	ns	dns1.registrar-servers.com.
 agentic.audio.	3600	in	ns	dns2.registrar-servers.com.
 agentic.audio.	900	in	nsec	agents.audio. NS RRSIG NSEC
@@ -1337,11 +1337,11 @@ anarchy.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 aud
 andreasmueller.audio.	3600	in	ns	docks03.rzone.de.
 andreasmueller.audio.	3600	in	ns	shades09.rzone.de.
 andreasmueller.audio.	900	in	nsec	andres.audio. NS RRSIG NSEC
-andreasmueller.audio.	900	in	rrsig	NSEC 13 2 900 20250914082218 20250815065218 5894 audio. /UupysUWoY31K/6spQpCeHbgGh1Yu7iB3UhMUugaTgDcWmeI5Qi2YIjcOFGIgWDa8Q+BZR5BM+vppY1Hfs/AJw==
+andreasmueller.audio.	900	in	rrsig	NSEC 13 2 900 20251011075444 20250911062444 5894 audio. v4VGaReEFSVjNIqHKPy5BF8uXXoGt4+L4Z+IEu53TViQU5bYTcUXD3sY3g/859zgPlSmE+dZfc2Nuhsr4LqUUA==
 andres.audio.	3600	in	ns	dns1.registrar-servers.com.
 andres.audio.	3600	in	ns	dns2.registrar-servers.com.
 andres.audio.	900	in	nsec	andresen.audio. NS RRSIG NSEC
-andres.audio.	900	in	rrsig	NSEC 13 2 900 20250914082218 20250815065218 5894 audio. 5NZHDPjH0JXtdWdnJAzQBDvljDI8QCMRWV9IXlC5NDlt39OGGRUQq46lEEhNhESERRMzHMke1ARDPOBgdaV8qQ==
+andres.audio.	900	in	rrsig	NSEC 13 2 900 20251011075444 20250911062444 5894 audio. yubNU7FEh9RAS+JUtDcgRWeX/9Vqh9pZqmVl715WOyyHc96bXqXaLdHUqRIACH8udlFughnE6IOBdnGT2f6NIg==
 andresen.audio.	3600	in	ns	ns1.hover.com.
 andresen.audio.	3600	in	ns	ns2.hover.com.
 andresen.audio.	900	in	nsec	andrewclarke.audio. NS RRSIG NSEC
@@ -2048,7 +2048,7 @@ audio.	3600	in	dnskey	257 3 13 Rn1fK474dnSQhEZ0l41vyBDAhDJoLI1jkt9KuIcThm5TYs6wn
 audio.	3600	in	rrsig	DNSKEY 13 1 3600 20251010045705 20250910032705 12469 audio. MStXTYrzpFrpcPwi1ruFgZSKAKy0vdMBW1IFQ9oSEsW0cMPHGixDkDH7aNUNFB6lD+RoR3GRBiffpw+oRAGOKw==
 audio.	900	in	nsec	1001histoires.audio. NS SOA RRSIG NSEC DNSKEY
 audio.	900	in	rrsig	NSEC 13 1 900 20250920032259 20250821015259 5894 audio. alPbkqTTAh8lIIgvQkjRJzea1yKaWpiPGNpq9N8yUr2MGAeNqXAuvj/rjCHbJkFaxP3pO05vljjNcxgPrIMXwg==
-audio.	900	in	rrsig	SOA 13 1 900 20251011000015 20250910223015 5894 audio. OGT7J0NXo3k9CVqQ218sgX8RU9To7yxtdfX/snQC5szwAV4n7wtMC8Nw54xvIypmXE3kS6o6ZL+TMQ2MgNxs0g==
+audio.	900	in	rrsig	SOA 13 1 900 20251012002945 20250911225945 5894 audio. N8Q+8y8pDn9t9OHTQdAsDIYE4fMNELpllMnxIoTmqkWoL3MlLueOe0EJmtX6FJR0DTBGGGHAnbSlGEbVcvarhw==
 audiobob.audio.	3600	in	ns	ns291.websitewelcome.com.
 audiobob.audio.	3600	in	ns	ns292.websitewelcome.com.
 audiobob.audio.	900	in	nsec	audiobooks.audio. NS RRSIG NSEC
@@ -2078,7 +2078,7 @@ audiognosis.audio.	3600	in	ds	33033 15 4 7648A772327965D001DA1837565AB93E227711F
 audiognosis.audio.	3600	in	ns	ns1.hyp.net.
 audiognosis.audio.	3600	in	ns	ns2.hyp.net.
 audiognosis.audio.	3600	in	ns	ns3.hyp.net.
-audiognosis.audio.	3600	in	rrsig	DS 13 2 3600 20250914220842 20250815203842 5894 audio. 4js2gcYMO+tmMxPudhKir+lzzVObbWvIfQOGGjk037yy1LZGKPaQjtuVISL9zdc2pcyqaGxM1kiBCY32qE7LRg==
+audiognosis.audio.	3600	in	rrsig	DS 13 2 3600 20251011220842 20250911203842 5894 audio. +Eg6KObkoLRsVZuRQHajt+3ShxHMfnhPXSEfQg59IoGrrfqGlhm4g0kECyt+xLkIoy4bX46DrJAh+z0LVs4SKw==
 audiognosis.audio.	900	in	nsec	audiographica.audio. NS DS RRSIG NSEC
 audiognosis.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio. DkakSMtbGKz13aNtHKArIjKK1naaAPGbWLfx5oVSvbt4ZQWnQ13SrWLRo7hOsbrqV/p2MZzJ/cXihbPgUMXqBg==
 audiographica.audio.	3600	in	ns	ns35.domaincontrol.com.
@@ -2470,7 +2470,7 @@ baltimoreorioles.audio.	900	in	rrsig	NSEC 13 2 900 20250928112314 20250829095314
 banana.audio.	3600	in	ns	ns59.domaincontrol.com.
 banana.audio.	3600	in	ns	ns60.domaincontrol.com.
 banana.audio.	900	in	nsec	bandlab.audio. NS RRSIG NSEC
-banana.audio.	900	in	rrsig	NSEC 13 2 900 20250914220842 20250815203842 5894 audio. dnolH8T+wwEGFgZZbLrQrWqRNdiTNYbXIIuYhyX0LAe8fYZaBlxIYfTr8a9lP0JpM1wVJyXHPvmIZeh9cUc8gg==
+banana.audio.	900	in	rrsig	NSEC 13 2 900 20251011220842 20250911203842 5894 audio. /tysUtw+n8dzwolifK+Idzy4v5Qwya4Outl37Ml/BXk35/qH7IxaqEKQksYLJW3MFbOcuParDn05Z7d5/RJO3A==
 bandlab.audio.	3600	in	ns	ns-1444.awsdns-52.org.
 bandlab.audio.	3600	in	ns	ns-1655.awsdns-14.co.uk.
 bandlab.audio.	3600	in	ns	ns-194.awsdns-24.com.
@@ -3215,7 +3215,7 @@ blut.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio.
 bmclmedia.audio.	3600	in	ns	dns1.registrar-servers.com.
 bmclmedia.audio.	3600	in	ns	dns2.registrar-servers.com.
 bmclmedia.audio.	900	in	nsec	bodo.audio. NS RRSIG NSEC
-bmclmedia.audio.	900	in	rrsig	NSEC 13 2 900 20250914220842 20250815203842 5894 audio. Mm8L1uOOvGdvSjrZzZ0/akq+0fbMySrzop66UkkH+uAdDQuj8qWi+1ZJZPLLoduxVavIVBOmWCYJvHAn264J6g==
+bmclmedia.audio.	900	in	rrsig	NSEC 13 2 900 20251011220842 20250911203842 5894 audio. FJQKDPXPjBte31qLp/z5LMpwxQw6aqr7T7ICiMz92F+NOjdZPK3ZWqOF5s+RQyygIpRK/DePIIF4gEL6/vmVVQ==
 bodo.audio.	3600	in	ns	ns1.digitalocean.com.
 bodo.audio.	3600	in	ns	ns2.digitalocean.com.
 bodo.audio.	3600	in	ns	ns3.digitalocean.com.
@@ -3355,10 +3355,10 @@ bounce.audio.	3600	in	ns	ns173.papaki.gr.
 bounce.audio.	3600	in	ns	ns273.papaki.gr.
 bounce.audio.	900	in	nsec	bounced.audio. NS RRSIG NSEC
 bounce.audio.	900	in	rrsig	NSEC 13 2 900 20251006215107 20250906202107 5894 audio. gdeN0MJG1cDUwrnBdELrXo7tBCCa0GA6pFKLm4Jszx11hfyFmqa0Rhzzc7QUPX1zvBtwGCVuGkRIhfV6lkPftw==
-bounced.audio.	3600	in	ns	dns1.p06.nsone.net.
-bounced.audio.	3600	in	ns	dns2.p06.nsone.net.
-bounced.audio.	3600	in	ns	dns3.p06.nsone.net.
-bounced.audio.	3600	in	ns	dns4.p06.nsone.net.
+bounced.audio.	3600	in	ns	curitiba.ns.porkbun.com.
+bounced.audio.	3600	in	ns	fortaleza.ns.porkbun.com.
+bounced.audio.	3600	in	ns	maceio.ns.porkbun.com.
+bounced.audio.	3600	in	ns	salvador.ns.porkbun.com.
 bounced.audio.	900	in	nsec	bouncehouse.audio. NS RRSIG NSEC
 bounced.audio.	900	in	rrsig	NSEC 13 2 900 20251006215107 20250906202107 5894 audio. tmcXyPgExlrhbyTv4JRDc5dMbsANNdWLMZYXt8nE0AfaHgUj2IZ+09RaEuNhARBkqKlf+VS+UKBD2TPrNK6CJg==
 bouncehouse.audio.	3600	in	ns	ns1.a2hosting.com.
@@ -4283,9 +4283,9 @@ chromaglow.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 
 chromatic.audio.	3600	in	ds	12364 8 2 A15F99B9C7455D0B38339A1DED97451E30B71AB010026E475C6BBF17EC4A554F
 chromatic.audio.	3600	in	ns	dns107.ovh.net.
 chromatic.audio.	3600	in	ns	ns107.ovh.net.
-chromatic.audio.	3600	in	rrsig	DS 13 2 3600 20250914152903 20250815135903 5894 audio. oKk3nAQx2acrpwuZwUPh5jv8Gzq84rgDOWBOZx+P3Q+1y++eW/LppAPgdPkAiB7BgQY55RTmrED71UDImsBs/Q==
+chromatic.audio.	3600	in	rrsig	DS 13 2 3600 20251011140912 20250911123912 5894 audio. rDGe/YT/McGwUAsLX3g766z4iuH7O180XwXhQ8ZerGnzgNK7uldmXj/GtJ+1F6hEyIhSQuOIaQP+s6LK26lAtw==
 chromatic.audio.	900	in	nsec	chrome.audio. NS DS RRSIG NSEC
-chromatic.audio.	900	in	rrsig	NSEC 13 2 900 20250914152903 20250815135903 5894 audio. fGZ24pVcQn/MI+Dwl2qCDHhUbk7p3DkUOQSVE0Uz6u67MdVeOs5tc1ZDAUPDzOJdQn1l11c/Hm7Yy69SjaxfCQ==
+chromatic.audio.	900	in	rrsig	NSEC 13 2 900 20251011140912 20250911123912 5894 audio. pKtttJNwzd3vnveH1uGEftHVhz4uwpmahe+Yb9LfFrHJjRdCnaL05SbHHnWxHoojYyW8i8qbN8ujwrAfEVpo/g==
 chrome.audio.	3600	in	ns	ns1.googledomains.com.
 chrome.audio.	3600	in	ns	ns2.googledomains.com.
 chrome.audio.	3600	in	ns	ns3.googledomains.com.
@@ -4634,11 +4634,11 @@ coloradorockies.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 
 colorcord.audio.	3600	in	ns	ns55.domaincontrol.com.
 colorcord.audio.	3600	in	ns	ns56.domaincontrol.com.
 colorcord.audio.	900	in	nsec	combat.audio. NS RRSIG NSEC
-colorcord.audio.	900	in	rrsig	NSEC 13 2 900 20250914195452 20250815182452 5894 audio. C5r9prQYRuUQ1ZtPqzxaHT9e3dEYpu9A5CkMrBNgwY+gsKFRduDEE1qIs97QeLbrIl0nHR9uk6K1EwLZknsYsQ==
+colorcord.audio.	900	in	rrsig	NSEC 13 2 900 20251011195452 20250911182452 5894 audio. nvT+cFB6T0CjOsZSLFgGcH3FB6pRlEMzlDznnlTjRn2p5hTIEy0n4AdJ/lAOvongVby/ftM+ihD1TwIhSzVMJA==
 combat.audio.	3600	in	ns	albert.ns.cloudflare.com.
 combat.audio.	3600	in	ns	annalise.ns.cloudflare.com.
 combat.audio.	900	in	nsec	combustion.audio. NS RRSIG NSEC
-combat.audio.	900	in	rrsig	NSEC 13 2 900 20250914195452 20250815182452 5894 audio. bwZjXXGXXOMSqGms20qSAWQbIWc+JS6SKGikEV/DA1KM2grlU8oJJn9JrxckjpJwfONP6/6sJCRLS5VmyofIIQ==
+combat.audio.	900	in	rrsig	NSEC 13 2 900 20251011195452 20250911182452 5894 audio. uOMeAyguUnPvF91NlC4aB/SqRRhuHMOEYndQXkgKZkeLkuPk+akdYl5LsCafJp68enfFoVKhSzzQgZxVdDsptg==
 combustion.audio.	3600	in	ns	ns1.dreamhost.com.
 combustion.audio.	3600	in	ns	ns2.dreamhost.com.
 combustion.audio.	3600	in	ns	ns3.dreamhost.com.
@@ -5176,7 +5176,7 @@ damage.audio.	900	in	rrsig	NSEC 13 2 900 20251010021755 20250910004755 5894 audi
 dance.audio.	3600	in	ns	dns1.registrar-servers.com.
 dance.audio.	3600	in	ns	dns2.registrar-servers.com.
 dance.audio.	900	in	nsec	dangelo.audio. NS RRSIG NSEC
-dance.audio.	900	in	rrsig	NSEC 13 2 900 20250914195452 20250815182452 5894 audio. EkZ50j93v5KI5V26jLtvys3UYwi3T5PrJ6+/1wQcTWT3TSJsC1WgGNb9m+xME6v3vEloPUXW+ledUw2mZQaGrg==
+dance.audio.	900	in	rrsig	NSEC 13 2 900 20251011195452 20250911182452 5894 audio. /yiGErMiciFE/Yw+cXIz0nQ1hfTw9HL4d04+rfeBLsh7S271MSbATwDs/sCrv6gKZlRbQuEg1nuEOLBbYbcm2w==
 dangelo.audio.	3600	in	ns	ns1.dnshigh.com.
 dangelo.audio.	3600	in	ns	ns2.dnshigh.com.
 dangelo.audio.	900	in	nsec	danielnatoli.audio. NS RRSIG NSEC
@@ -5195,12 +5195,8 @@ dansemon.audio.	3600	in	ns	ns-us.1and1-dns.com.
 dansemon.audio.	3600	in	ns	ns-us.1and1-dns.de.
 dansemon.audio.	3600	in	ns	ns-us.1and1-dns.org.
 dansemon.audio.	3600	in	ns	ns-us.1and1-dns.us.
-dansemon.audio.	900	in	nsec	dante.audio. NS RRSIG NSEC
-dansemon.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio. Oahw1I3iu8iKaoQEm5bGddyzerPMU0YjhmS2TxOG2aDPM5NLMbkj5gZgfQWWGS8Kw/8kTk0KUcWMKyneNGc3ig==
-dante.audio.	3600	in	ns	dion.ns.cloudflare.com.
-dante.audio.	3600	in	ns	gina.ns.cloudflare.com.
-dante.audio.	900	in	nsec	darinfong.audio. NS RRSIG NSEC
-dante.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio. SdPJ0VNmApS+JIETFrO4QQ1PwEEzHj5nrDwLId5pwW1h2DDoKF7Cp0E72ztanqCwyETonKaOx3Hz+zsyHRmW5g==
+dansemon.audio.	900	in	nsec	darinfong.audio. NS RRSIG NSEC
+dansemon.audio.	900	in	rrsig	NSEC 13 2 900 20251012001109 20250911224109 5894 audio. n+lBVf9NtfDwjbAniuDmyoPSqpWvGl+ZmCm/ntp8VoENZYRP4mehNHFgj6ymNaIw3B+cYDM/tu9l1QmeLLYlTg==
 darinfong.audio.	3600	in	ns	dns1.name-services.com.
 darinfong.audio.	3600	in	ns	dns2.name-services.com.
 darinfong.audio.	3600	in	ns	dns3.name-services.com.
@@ -5389,7 +5385,7 @@ declassified.audio.	3600	in	ns	helium.ns.hetzner.de.
 declassified.audio.	3600	in	ns	hydrogen.ns.hetzner.com.
 declassified.audio.	3600	in	ns	oxygen.ns.hetzner.com.
 declassified.audio.	900	in	nsec	deepbass.audio. NS RRSIG NSEC
-declassified.audio.	900	in	rrsig	NSEC 13 2 900 20250914120057 20250815103057 5894 audio. CYY2PiFxuuo1lfheSiR5lB1UXRB9aC4YVVrUI5L428NoKqHd8IKQ/cdv5YCKyei+0m2ZeU8fTwwYXFHjt3F/0A==
+declassified.audio.	900	in	rrsig	NSEC 13 2 900 20251011120057 20250911103057 5894 audio. qSgbz7498Ca04ISBYzTQj7NyIl14FTea1bl3tCSnFFGD0qyTIkUVCyrHrb5MD1DBkC8BhnUZ8Sv7ORSotjyuBg==
 deepbass.audio.	3600	in	ns	ns1.grimmel.net.
 deepbass.audio.	3600	in	ns	ns2.grimmel.net.
 deepbass.audio.	900	in	nsec	deepdive.audio. NS RRSIG NSEC
@@ -6274,7 +6270,7 @@ dspi.audio.	3600	in	ns	ns.udag.de.
 dspi.audio.	3600	in	ns	ns.udag.net.
 dspi.audio.	3600	in	ns	ns.udag.org.
 dspi.audio.	900	in	nsec	dubai.audio. NS RRSIG NSEC
-dspi.audio.	900	in	rrsig	NSEC 13 2 900 20250914082218 20250815065218 5894 audio. xyZelE3swCjm/T+096FVaJRjOtX9hNj7uX2NtrGJrIrpVC96L7H7P74iczQQXQ+A1cA+Zs4OuOLw6yvux7cakg==
+dspi.audio.	900	in	rrsig	NSEC 13 2 900 20251011075444 20250911062444 5894 audio. GfMnC5edXHm3bM4I4I+f0vM7EG1PkoMlAeKsCNiD7Dli2flKW7ojrxL+BtqztXHLnkliUJAWnDoZmRQpGLDXTw==
 dubai.audio.	3600	in	ns	ns21.domaincontrol.com.
 dubai.audio.	3600	in	ns	ns22.domaincontrol.com.
 dubai.audio.	900	in	nsec	ducmanh.audio. NS RRSIG NSEC
@@ -7152,13 +7148,13 @@ euphonie.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 au
 euphonos.audio.	3600	in	ns	ns03.domaincontrol.com.
 euphonos.audio.	3600	in	ns	ns04.domaincontrol.com.
 euphonos.audio.	900	in	nsec	euphony.audio. NS RRSIG NSEC
-euphonos.audio.	900	in	rrsig	NSEC 13 2 900 20250914043915 20250815030915 5894 audio. c8ghEkmksUSkG7J6VeZ7Acc1njJSd70u2aWPZRF1V7c9h0WWfZnHUWEMrUiFlivGhXVXjTxHuLjCJiF2STv8QA==
+euphonos.audio.	900	in	rrsig	NSEC 13 2 900 20251011030304 20250911013304 5894 audio. btFW97l50wuycbm7XDhUK4fvaJo1GZyn9M+t52ub0uL/RRYcwn6t8/9a8JvDdywFXK9oZaVgUl3wPPd9a9faJg==
 euphony.audio.	3600	in	ns	ns-cloud-e1.googledomains.com.
 euphony.audio.	3600	in	ns	ns-cloud-e2.googledomains.com.
 euphony.audio.	3600	in	ns	ns-cloud-e3.googledomains.com.
 euphony.audio.	3600	in	ns	ns-cloud-e4.googledomains.com.
 euphony.audio.	900	in	nsec	eurobass.audio. NS RRSIG NSEC
-euphony.audio.	900	in	rrsig	NSEC 13 2 900 20250914043915 20250815030915 5894 audio. X4g4bKPYbohHoJVht5N907sZMzKarIoQQFh8XloNvP5qOVM0j69h0aNeQGfBz8gabBXA8BddR6Ff4HBZ8ARgxw==
+euphony.audio.	900	in	rrsig	NSEC 13 2 900 20251011030304 20250911013304 5894 audio. ivvXQqgC+IhXwXq8LiWd/QV2Q/b/iHBe7i1siJlXUIn5jRvJ3wE65Vkqi+eK8OQFbiaBqsmEL6Nd67eCJGPmDQ==
 eurobass.audio.	3600	in	ns	ns23.domaincontrol.com.
 eurobass.audio.	3600	in	ns	ns24.domaincontrol.com.
 eurobass.audio.	900	in	nsec	eurodance.audio. NS RRSIG NSEC
@@ -7547,7 +7543,7 @@ field.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio
 fieldrecording.audio.	3600	in	ns	dns101.registrar-servers.com.
 fieldrecording.audio.	3600	in	ns	dns102.registrar-servers.com.
 fieldrecording.audio.	900	in	nsec	fierce.audio. NS RRSIG NSEC
-fieldrecording.audio.	900	in	rrsig	NSEC 13 2 900 20250914140912 20250815123912 5894 audio. gBOgS3iArUVANHUw1Xi8N8UFBbs0SHwtKYaA1tVuMtnOM1QAzOxzv9KsO/76umMxROGrzlgZsnXPJk1g0m56kQ==
+fieldrecording.audio.	900	in	rrsig	NSEC 13 2 900 20251011140912 20250911123912 5894 audio. ouxRsPpqX5JR+W271n7BLAlZ9uzzpPnzVELRNOEaR4SB0LlDwpsVPVWAx9bM4FnbG9Uz57UNJuNgc5LHIVhNlA==
 fierce.audio.	3600	in	ns	a.dns.gandi.net.
 fierce.audio.	3600	in	ns	b.dns.gandi.net.
 fierce.audio.	3600	in	ns	c.dns.gandi.net.
@@ -9098,7 +9094,7 @@ hallow.audio.	900	in	rrsig	NSEC 13 2 900 20250918171921 20250819154921 5894 audi
 hamboorg.audio.	3600	in	ns	clark.ns.cloudflare.com.
 hamboorg.audio.	3600	in	ns	sunny.ns.cloudflare.com.
 hamboorg.audio.	900	in	nsec	hammer.audio. NS RRSIG NSEC
-hamboorg.audio.	900	in	rrsig	NSEC 13 2 900 20250914120057 20250815103057 5894 audio. 9s6nW7Lnk3bl7thvngQFceC5DwMiuhbURSKjIs6inEpgAGmXoLz2QcUUroFqAG1POVH/IYEE0K1PkNbcPcwNgg==
+hamboorg.audio.	900	in	rrsig	NSEC 13 2 900 20251011120057 20250911103057 5894 audio. l2g6pC8JdBp79bfddk4l+gM+AyD0ukMNbAFnAGm7HLNoO0dXyTjZQtts4JAUd0aQzoEE7hANks60x0qi2RPkag==
 hammer.audio.	3600	in	ns	dns1.registrar-servers.com.
 hammer.audio.	3600	in	ns	dns2.registrar-servers.com.
 hammer.audio.	900	in	nsec	handcrafted.audio. NS RRSIG NSEC
@@ -11936,7 +11932,7 @@ lessonsihavelearnedintheorchardbook.audio.	900	in	rrsig	NSEC 13 2 900 2025101006
 lesvoixhumaines.audio.	3600	in	ns	dns12.ovh.net.
 lesvoixhumaines.audio.	3600	in	ns	ns12.ovh.net.
 lesvoixhumaines.audio.	900	in	nsec	levels.audio. NS RRSIG NSEC
-lesvoixhumaines.audio.	900	in	rrsig	NSEC 13 2 900 20250914082218 20250815065218 5894 audio. bTPiJRnbt9rNfXdFjtx21K1Byd7CC5VkFJz79hCP4XzzYllb8S6R3tTu5RMEaurPzEkBwRxSYUJ7CGndhr8ypQ==
+lesvoixhumaines.audio.	900	in	rrsig	NSEC 13 2 900 20251011075444 20250911062444 5894 audio. EXZYwLIVmN7t6D7gC602adrMkZP29GbnYKwsgW1cB68IQUgiwh90ou0dnoyQxUBT/2pJtkflbWc8YCYv10BdwA==
 levels.audio.	3600	in	ns	ns5.kasserver.com.
 levels.audio.	3600	in	ns	ns6.kasserver.com.
 levels.audio.	900	in	nsec	lewave.audio. NS RRSIG NSEC
@@ -12241,13 +12237,13 @@ logitek.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 aud
 logos.audio.	3600	in	ns	ns3.epik.com.
 logos.audio.	3600	in	ns	ns4.epik.com.
 logos.audio.	900	in	nsec	loh-humm.audio. NS RRSIG NSEC
-logos.audio.	900	in	rrsig	NSEC 13 2 900 20250914120057 20250815103057 5894 audio. y5SSeP19cxQkFW+LCkpKAvKUBk4v0PFqBTsVfFyWpLXyqXc4uQBHGzCt5XSqllJJU55QecemJNbgviwNdtNBtw==
+logos.audio.	900	in	rrsig	NSEC 13 2 900 20251011120057 20250911103057 5894 audio. 5TmsaayXdNRJxGQ06NZfRyX6y66iKWSLwQtT6vIY5IIT1s4kZODVGo+DCI4rponPJYh+ScLJQCnFAxqZgcjBFA==
 loh-humm.audio.	3600	in	ns	ns0.uk.umis.co.uk.
 loh-humm.audio.	3600	in	ns	ns1.uk.umis.net.
 loh-humm.audio.	3600	in	ns	ns2.uk.umis.net.
 loh-humm.audio.	3600	in	ns	ns3.uk.umis.co.uk.
 loh-humm.audio.	900	in	nsec	lola.audio. NS RRSIG NSEC
-loh-humm.audio.	900	in	rrsig	NSEC 13 2 900 20250914120057 20250815103057 5894 audio. xtwFC6x4u+Vpi+Yh4mVcISYmBUAwnKRrLcFh33PChTOaVYg7xU6RCcUYfr2K0ZBZcJX0nVdh7tF10Grwi1e1fg==
+loh-humm.audio.	900	in	rrsig	NSEC 13 2 900 20251011120057 20250911103057 5894 audio. p+ZZMT/kbAwHXpkhFKmrh2NyQmnbic/kVvVxVZFeEXcOS+eR7BopFdbvafdUlRK4/Mi3myKEzKDachIzaPNiEg==
 lola.audio.	3600	in	ns	dns1.registrar-servers.com.
 lola.audio.	3600	in	ns	dns2.registrar-servers.com.
 lola.audio.	900	in	nsec	loli.audio. NS RRSIG NSEC
@@ -12298,19 +12294,19 @@ loops.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio
 looptown.audio.	3600	in	ns	ns1.mediatemple.net.
 looptown.audio.	3600	in	ns	ns2.mediatemple.net.
 looptown.audio.	900	in	nsec	lord-alge.audio. NS RRSIG NSEC
-looptown.audio.	900	in	rrsig	NSEC 13 2 900 20250914195452 20250815182452 5894 audio. aXF4RLVC+9IrAeJk7yxJIM5zFWnaZSKvhQ/XIlSl8GFgtarIJHX+uZh1YTl3sd5DCjvxfhUIF0YMbiXL7fA7yg==
+looptown.audio.	900	in	rrsig	NSEC 13 2 900 20251011195452 20250911182452 5894 audio. uMddfvlVgxMfwrxTbsXWjJhdUzcNDiLHPeVAe9JL+/LRNzifG+uNu8N8cW0NlcMpee7og7vZ25Yvf6DVibczmA==
 lord-alge.audio.	3600	in	ds	42311 13 2 7B6D51F2AC0BE6ABF5E763A7A44E9E7130F6FB4FFD626A2637A943BF4985B233
 lord-alge.audio.	3600	in	ns	launch1.spaceship.net.
 lord-alge.audio.	3600	in	ns	launch2.spaceship.net.
-lord-alge.audio.	3600	in	rrsig	DS 13 2 3600 20250914195452 20250815182452 5894 audio. WTgHRBLhUAAZPCmy7BHzwZljKZIg1N0Q1xtrJ8mNx5tGnCasWxUCHEga5gVneIThwaniE2JW2+PpGZBtzAhFnw==
+lord-alge.audio.	3600	in	rrsig	DS 13 2 3600 20251011195452 20250911182452 5894 audio. kTqPE/JmVrHzib3Baxja5jCNtzFCcQvKpuKus6OMaCBS6fWbvnWyiIK77pu8CNXUTeeQxq158DOfOovk6ctbFg==
 lord-alge.audio.	900	in	nsec	lordalge.audio. NS DS RRSIG NSEC
-lord-alge.audio.	900	in	rrsig	NSEC 13 2 900 20250914195452 20250815182452 5894 audio. nIYmT9X9RvjpFZjMsqf0MjvG5ioiU5mlDWvhZuoi+NGGngpYxe+/Y10p7NyXz5suVSc7X05tXgLPCrryT7mKjw==
+lord-alge.audio.	900	in	rrsig	NSEC 13 2 900 20251011195452 20250911182452 5894 audio. yDPOhYfUTbA9ad+rvBvBWg/dhJ4Uck5/tUONw4gJCSMn0WjrQFGhewIlFfLwJXq3sK+HasgqjjSAuNRiJpwJbA==
 lordalge.audio.	3600	in	ds	3584 13 2 0B9F5E87B36D7FB564B60FD810D776B75C43C30D27EA95AA17DF2FBBED692A9B
 lordalge.audio.	3600	in	ns	launch1.spaceship.net.
 lordalge.audio.	3600	in	ns	launch2.spaceship.net.
-lordalge.audio.	3600	in	rrsig	DS 13 2 3600 20250914195452 20250815182452 5894 audio. tZch2j5bYcm0V4kJOtkUbzvxnWc/kyDbkq7C0kfkELX15buS7ip2zqG43Gn3ddlpRbZTf2v5ISJP/A9w8EWTcw==
+lordalge.audio.	3600	in	rrsig	DS 13 2 3600 20251011195452 20250911182452 5894 audio. DEe6gn26nxxV4fhYso5ELl33hDcDIajGsjPWQ2pRvO9ckGGtPJSJvzMy/wnLhAJKQKhc3vK636+I+8TVNZBsjw==
 lordalge.audio.	900	in	nsec	losangelesangels.audio. NS DS RRSIG NSEC
-lordalge.audio.	900	in	rrsig	NSEC 13 2 900 20250914195452 20250815182452 5894 audio. U3Xq+q7FKWOwQgJ8eaBPcXzeAqojWWAGBV5m389KMYv7PeLLaqDOAyBfFO5U278aw6Vv5gA1oS2FtiE/ak1a6g==
+lordalge.audio.	900	in	rrsig	NSEC 13 2 900 20251011195452 20250911182452 5894 audio. EFN/+kCU5b58OS3mBYFstwPRqrklLxmr5yWpms4eM9BJmf4lbGBcxY9RkQxcbTHeepgayBzhle8/4y3vKyA+zQ==
 losangelesangels.audio.	3600	in	ns	ns1.p38.dynect.net.
 losangelesangels.audio.	3600	in	ns	ns2.p38.dynect.net.
 losangelesangels.audio.	3600	in	ns	ns3.p38.dynect.net.
@@ -12464,7 +12460,7 @@ lukecraig.audio.	900	in	rrsig	NSEC 13 2 900 20251004144406 20250904131406 5894 a
 lume.audio.	3600	in	ns	ns1.domain.com.
 lume.audio.	3600	in	ns	ns2.domain.com.
 lume.audio.	900	in	nsec	luminal.audio. NS RRSIG NSEC
-lume.audio.	900	in	rrsig	NSEC 13 2 900 20250914082218 20250815065218 5894 audio. EvU8dup+oHghd1Q2/gKim1u/eE6rVmW+9SfsRTwiZ4LJL1U39KFQKnY6l7b/YqEsIopgo4tW71XqsLkw4q9W8Q==
+lume.audio.	900	in	rrsig	NSEC 13 2 900 20251011075444 20250911062444 5894 audio. P7LHVDPiMmwRCCh80rELKKAGm3tOYxADHuWTQgS3lTO2Qnp3F1GWvfy8za538zqaz7JyrpJvhRsh/Rz/5LtO6w==
 luminal.audio.	3600	in	ns	nitin.ns.cloudflare.com.
 luminal.audio.	3600	in	ns	sonia.ns.cloudflare.com.
 luminal.audio.	900	in	nsec	luminary.audio. NS RRSIG NSEC
@@ -13742,7 +13738,7 @@ mixkit.audio.	900	in	rrsig	NSEC 13 2 900 20250928092009 20250829075009 5894 audi
 mixology.audio.	3600	in	ns	ns11.domaincontrol.com.
 mixology.audio.	3600	in	ns	ns12.domaincontrol.com.
 mixology.audio.	900	in	nsec	mixtur.audio. NS RRSIG NSEC
-mixology.audio.	900	in	rrsig	NSEC 13 2 900 20250914220842 20250815203842 5894 audio. gi9bMFNTCg+HDgXGwViKcl12OBi15wS6JMFgjg8MeX0EiIsb8Jf1qKdl6ocX+m2ZCDWoGjeM+qQFYOZLHWw3Gg==
+mixology.audio.	900	in	rrsig	NSEC 13 2 900 20251011220842 20250911203842 5894 audio. MD/x7S2GkeYtxPF8zD2Ts4/AKMB0vQKIXweCQvrTAsMaXGVaFFsaU75d7ZYFq6HPdwS4zUqQe8a8SJv+bMARMA==
 mixtur.audio.	3600	in	ns	ns21.domaincontrol.com.
 mixtur.audio.	3600	in	ns	ns22.domaincontrol.com.
 mixtur.audio.	900	in	nsec	mixup.audio. NS RRSIG NSEC
@@ -13941,7 +13937,7 @@ monotone.audio.	3600	in	ns	ns1.dreamhost.com.
 monotone.audio.	3600	in	ns	ns2.dreamhost.com.
 monotone.audio.	3600	in	ns	ns3.dreamhost.com.
 monotone.audio.	900	in	nsec	monsters.audio. NS RRSIG NSEC
-monotone.audio.	900	in	rrsig	NSEC 13 2 900 20250914120057 20250815103057 5894 audio. Ro61E5JKk7g/rIqV4taVAerDQKNttDpIe+uKre9VQ7Agz6KdeplDvjmj0yG37z8c7KtHWW1SZ7j11wKR1xbBWw==
+monotone.audio.	900	in	rrsig	NSEC 13 2 900 20251011120057 20250911103057 5894 audio. IuxVHfziV2+t2NdpRL0fQVq794R//KzuJPyf2wiT5DxK45IEVth6OA1YD1mhywxgfpx3MB8JBKNGpX6O0wutfA==
 monsters.audio.	3600	in	ns	ns1.101domain.com.
 monsters.audio.	3600	in	ns	ns2.101domain.com.
 monsters.audio.	3600	in	ns	ns5.101domain.com.
@@ -14839,7 +14835,7 @@ nifty.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio
 nightfall.audio.	3600	in	ns	ns21.domaincontrol.com.
 nightfall.audio.	3600	in	ns	ns22.domaincontrol.com.
 nightfall.audio.	900	in	nsec	nighthawk.audio. NS RRSIG NSEC
-nightfall.audio.	900	in	rrsig	NSEC 13 2 900 20250914220842 20250815203842 5894 audio. vTVYaB5tcao4c53/o0k3MEH1TNX8dE5Di/ROIba9w0Opw1Xhvkvqkikm4PIKSnJlUfeRyyNuPMtxSd10asrGIw==
+nightfall.audio.	900	in	rrsig	NSEC 13 2 900 20251011220842 20250911203842 5894 audio. 28/kOMVVbh76reIpuW5WA0mwLT+3wCeBJMfKmhclR9OoEwXNDq/s0tka4eMh1pN6qruUXy7RXr19XPQpfYEFbw==
 nighthawk.audio.	3600	in	ns	dns1.sitezoogle.com.
 nighthawk.audio.	3600	in	ns	dns2.sitezoogle.com.
 nighthawk.audio.	3600	in	ns	dns3.sitezoogle.com.
@@ -15531,7 +15527,7 @@ ome.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio. 
 omegaf2k.audio.	3600	in	ns	dns01.gmoserver.jp.
 omegaf2k.audio.	3600	in	ns	dns02.gmoserver.jp.
 omegaf2k.audio.	900	in	nsec	omegle.audio. NS RRSIG NSEC
-omegaf2k.audio.	900	in	rrsig	NSEC 13 2 900 20250914220842 20250815203842 5894 audio. F3wNV3Cq7lM5IoaGEDeBw/dx/KGCErRLkW7fWRm2lYOmsu8Pq3zmjXlodsFWqVZco3fLTHVP4OhSrm5T390diw==
+omegaf2k.audio.	900	in	rrsig	NSEC 13 2 900 20251011220842 20250911203842 5894 audio. j6xnPqVsjmdpFO2T+/0js+Ar70FmBf1dlBsonj4bomKnTgfxGg/BNoOoNqipFXL4Mwsl1LqzuboLmO/SWrWfMA==
 omegle.audio.	3600	in	ns	ns29.domaincontrol.com.
 omegle.audio.	3600	in	ns	ns30.domaincontrol.com.
 omegle.audio.	900	in	nsec	omen.audio. NS RRSIG NSEC
@@ -15659,14 +15655,8 @@ onkowissen.audio.	3600	in	ns	dns.dns1.de.
 onkowissen.audio.	3600	in	ns	dns.dns2.de.
 onkowissen.audio.	3600	in	ns	dns.dns3.de.
 onkowissen.audio.	3600	in	ns	dns.dns4.de.
-onkowissen.audio.	900	in	nsec	online-mastering.audio. NS RRSIG NSEC
-onkowissen.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio. 6oFgzpAacGau3WNtkhuXJotR4LDI5CUnGeg6tehpHNz7brSREayqC8pMLBEWbvkx1rwYYGHqNCQnntkEiLcBlA==
-online-mastering.audio.	3600	in	ns	ns-de.1and1-dns.biz.
-online-mastering.audio.	3600	in	ns	ns-de.1and1-dns.com.
-online-mastering.audio.	3600	in	ns	ns-de.1and1-dns.de.
-online-mastering.audio.	3600	in	ns	ns-de.1and1-dns.org.
-online-mastering.audio.	900	in	nsec	online-mixing.audio. NS RRSIG NSEC
-online-mastering.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio. f0SSujhwW//IvRjW/5nOLszlNFV1u6iN/p7xLCV2UDc74ZFh8LSpBxJ4NOMYkPp7yZmymgwMR4kUgGNSouxyYw==
+onkowissen.audio.	900	in	nsec	online-mixing.audio. NS RRSIG NSEC
+onkowissen.audio.	900	in	rrsig	NSEC 13 2 900 20251012002945 20250911225945 5894 audio. JLwwTAB4mlgkk3JK/1Qv5oiMyH7FAIkEYnNLbpGYi3yuZjw2PqzJ+qH8LEInhAupzx4fnwZbkr9kHSqNMNVxsg==
 online-mixing.audio.	3600	in	ns	ns-de.1and1-dns.biz.
 online-mixing.audio.	3600	in	ns	ns-de.1and1-dns.com.
 online-mixing.audio.	3600	in	ns	ns-de.1and1-dns.de.
@@ -15677,14 +15667,8 @@ online-office.audio.	3600	in	ns	ns-ca.ui-dns.biz.
 online-office.audio.	3600	in	ns	ns-ca.ui-dns.com.
 online-office.audio.	3600	in	ns	ns-ca.ui-dns.de.
 online-office.audio.	3600	in	ns	ns-ca.ui-dns.org.
-online-office.audio.	900	in	nsec	online-summing.audio. NS RRSIG NSEC
-online-office.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio. 4R+gXxVzOkRkcQN2wTX0tdvut6V82/Ij+M8kaV3lmgnrOln9fGpQ0IiremFEq57CQkHYjQWS3+LumYEXFq0hxA==
-online-summing.audio.	3600	in	ns	ns-de.1and1-dns.biz.
-online-summing.audio.	3600	in	ns	ns-de.1and1-dns.com.
-online-summing.audio.	3600	in	ns	ns-de.1and1-dns.de.
-online-summing.audio.	3600	in	ns	ns-de.1and1-dns.org.
-online-summing.audio.	900	in	nsec	onlineoffice.audio. NS RRSIG NSEC
-online-summing.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio. nUe8FPnn9KmCm3Jh3Ibzrsw1Y3P9qqySeiMEYOy9kvqMGnPqDJjjzz7JZbLP8uR+jv37OQA0Wcla4LnJk7A0Rg==
+online-office.audio.	900	in	nsec	onlineoffice.audio. NS RRSIG NSEC
+online-office.audio.	900	in	rrsig	NSEC 13 2 900 20251012002103 20250911225103 5894 audio. mDEEI5ZkOGMwjF8tYO6bnGkuD57pDRudwAdhkj04RUdR3rN5kEXt2vUhbf1f+Ezh+E4TldwEM+/tz5Z/r7Effw==
 onlineoffice.audio.	3600	in	ns	ns-ca.ui-dns.biz.
 onlineoffice.audio.	3600	in	ns	ns-ca.ui-dns.com.
 onlineoffice.audio.	3600	in	ns	ns-ca.ui-dns.de.
@@ -15967,7 +15951,7 @@ ownbrain.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 au
 oyez.audio.	3600	in	ds	39837 13 2 7815A5B30E1D5C9621F40826E19B7AE2CA0DA4BF3E7D0A2B144492E69085A376
 oyez.audio.	3600	in	ns	ns1.amenworld.com.
 oyez.audio.	3600	in	ns	ns2.amenworld.com.
-oyez.audio.	3600	in	rrsig	DS 13 2 3600 20250914152221 20250815135221 5894 audio. PkqABNEaSaAGthzO5jtQkswCAIn8yFEGuElRGRiFCsXdZIhRx82++U49GgO2F3ysqRQs/K3AeZFfSA5ynHWOAQ==
+oyez.audio.	3600	in	rrsig	DS 13 2 3600 20251011140912 20250911123912 5894 audio. ftTjI3zbVsvzWDDtZ8/uyOjVeSOc32eSeQKJdCf22loHmfiCzjKO0hn8NpbVLmjQpNkEGWEDmJOmUN/2vOuBiw==
 oyez.audio.	900	in	nsec	paat.audio. NS DS RRSIG NSEC
 oyez.audio.	900	in	rrsig	NSEC 13 2 900 20251004091134 20250904074134 5894 audio. 7sQSr4YanFuvAcUrLMJV5IyPXt2JtLYmRK+LViAEnGSAymgl9TqevxIWDC59Rr+7YiMSzUVQcHyowx7Wyd+fng==
 paat.audio.	3600	in	ns	ns1.hover.com.
@@ -16671,8 +16655,14 @@ pottermoreshop.audio.	900	in	rrsig	NSEC 13 2 900 20251001075659 20250901062659 5
 pouet.audio.	3600	in	ns	ns-183-b.gandi.net.
 pouet.audio.	3600	in	ns	ns-69-a.gandi.net.
 pouet.audio.	3600	in	ns	ns-75-c.gandi.net.
-pouet.audio.	900	in	nsec	powerdynamics.audio. NS RRSIG NSEC
-pouet.audio.	900	in	rrsig	NSEC 13 2 900 20251001075659 20250901062659 5894 audio. w7Urkkiet989DZwsbh/WxlV+WUVdRolS+5Uy894jC/gI476YfSGIji0NoyVPrPDFA9LBJlBxb0jNEF1eFXto0Q==
+pouet.audio.	900	in	nsec	powerbeatsfit.audio. NS RRSIG NSEC
+pouet.audio.	900	in	rrsig	NSEC 13 2 900 20251011223306 20250911210306 5894 audio. e+S+tZ/OEudP6S2UfisxPCtbbkEvbKRXNy9foSYuDxTXCqND9nCqLKb7anXorDoskhRx58qzOHSz6kJwvCIZfw==
+powerbeatsfit.audio.	3600	in	ns	a.ns.apple.com.
+powerbeatsfit.audio.	3600	in	ns	b.ns.apple.com.
+powerbeatsfit.audio.	3600	in	ns	c.ns.apple.com.
+powerbeatsfit.audio.	3600	in	ns	d.ns.apple.com.
+powerbeatsfit.audio.	900	in	nsec	powerdynamics.audio. NS RRSIG NSEC
+powerbeatsfit.audio.	900	in	rrsig	NSEC 13 2 900 20251011223306 20250911210306 5894 audio. RRUmRp9siXyTlLwlKXe7K30dL4Y+ksIGkxRiRV/kFmQy0yopqjvZYCzINPXYJoDjqQz8AoE+YdrsuQPfkjrKAA==
 powerdynamics.audio.	3600	in	ds	46099 13 2 38D1EAA5DC12680A9DBF28BF7930BA9EFFF208CA6E195166919F8E6F616FC082
 powerdynamics.audio.	3600	in	ns	ns0.transip.net.
 powerdynamics.audio.	3600	in	ns	ns1.transip.nl.
@@ -17821,11 +17811,11 @@ reshape.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 aud
 resilience.audio.	3600	in	ns	ns1.netfirms.com.
 resilience.audio.	3600	in	ns	ns2.netfirms.com.
 resilience.audio.	900	in	nsec	resin.audio. NS RRSIG NSEC
-resilience.audio.	900	in	rrsig	NSEC 13 2 900 20250914214921 20250815201921 5894 audio. Zsp0VUwWTIPezNxJyx3ETd1qielWFyx7y79wVbEeAuI5h3RCB9//PJxgyvl+gU4blTOBPJLtAfd/9HtFpwzwXQ==
+resilience.audio.	900	in	rrsig	NSEC 13 2 900 20251011195452 20250911182452 5894 audio. sUz+uaw68rYo/aLS6V8FvuijsxwIE3oUuGge39iBGya8R6chgzLAMhKM7YFG4UfVRjLOB6TMbVi9aEwy//c0pA==
 resin.audio.	3600	in	ns	ns27.domaincontrol.com.
 resin.audio.	3600	in	ns	ns28.domaincontrol.com.
 resin.audio.	900	in	nsec	resistors.audio. NS RRSIG NSEC
-resin.audio.	900	in	rrsig	NSEC 13 2 900 20250914214921 20250815201921 5894 audio. IOMU3Sr+/0luLCmIIvB3YnKiCE8BAluSO/bQT0FCxWgUVfDdr5NZUb+/y4JhCsdQ7zTULsImJC/ZCwjzP6k2KQ==
+resin.audio.	900	in	rrsig	NSEC 13 2 900 20251011195452 20250911182452 5894 audio. nICSdTscYzniRF/8vKYhPvSJRpSc0CdOvQoMdpnCXqliCYPlJTmDeWwstdYunPkG5vHUyRdHwSrqePr+qbjz5A==
 resistors.audio.	3600	in	ns	ns1.parkingcrew.net.
 resistors.audio.	3600	in	ns	ns2.parkingcrew.net.
 resistors.audio.	900	in	nsec	resolution.audio. NS RRSIG NSEC
@@ -18417,7 +18407,7 @@ samplebase.audio.	3600	in	ns	ns1.systemdns.com.
 samplebase.audio.	3600	in	ns	ns2.systemdns.com.
 samplebase.audio.	3600	in	ns	ns3.systemdns.com.
 samplebase.audio.	900	in	nsec	samro.audio. NS RRSIG NSEC
-samplebase.audio.	900	in	rrsig	NSEC 13 2 900 20250914090953 20250815073953 5894 audio. 4VCtJDjOq8qtIQFg+BELC7RKRRa/erO/pV2kyQ9a7q7t8Z/IBgb6IktXHRaa70qDtB+lIwKwiq0aJq9Bhm/WwA==
+samplebase.audio.	900	in	rrsig	NSEC 13 2 900 20251011075444 20250911062444 5894 audio. 3NN+xY2Pewhjxb7pre1HLIdCSGZKw/FWIzc1Zzc1AB1oFV8ARtRziZU7nRU9dNprZnfkeQBT+Y1jKsmbGBKQ1g==
 samro.audio.	3600	in	ns	ns1.lexsynergy.net.
 samro.audio.	3600	in	ns	ns2.lexsynergy.us.
 samro.audio.	3600	in	ns	ns3.lexsynergy.info.
@@ -19912,11 +19902,11 @@ soundscouts.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894
 soundseparator.audio.	3600	in	ns	ns1.hover.com.
 soundseparator.audio.	3600	in	ns	ns2.hover.com.
 soundseparator.audio.	900	in	nsec	soundsgood.audio. NS RRSIG NSEC
-soundseparator.audio.	900	in	rrsig	NSEC 13 2 900 20250914030304 20250815013304 5894 audio. aADm3oYoTyPZNuTAwcM/hiTp5alceg8r7nyXW4ryeySMDKpKsbPN6WtTysndRUropObVNF1Veyx9o4701LQhFA==
+soundseparator.audio.	900	in	rrsig	NSEC 13 2 900 20251011030304 20250911013304 5894 audio. PW1B24a26HE/atUni0QqN6tSQf2rPfYZOkzi5vjSCLx+ru9qKdGrHgfK3t0igUWxGkijlAKiJv13K+2BnPwhOw==
 soundsgood.audio.	3600	in	ns	dns1.registrar-servers.com.
 soundsgood.audio.	3600	in	ns	dns2.registrar-servers.com.
 soundsgood.audio.	900	in	nsec	soundshadow.audio. NS RRSIG NSEC
-soundsgood.audio.	900	in	rrsig	NSEC 13 2 900 20250914030304 20250815013304 5894 audio. 7vC8D5LOdKTnKCjMXy9AcoEbY2swZR2zfYgEdrM3sRuMNm/l34KVrc4aXMjP5UmyJW5EjGjgfAKVsG+JALe/kw==
+soundsgood.audio.	900	in	rrsig	NSEC 13 2 900 20251011030304 20250911013304 5894 audio. Ig8cwGXZB9eNpcCfpga0nRPAFgpnS0I+4dC4y98eM/tjkTB1TnwpLtr4Yuda+rDnN9iSdMyBrxCv9onSY7f0Zw==
 soundshadow.audio.	3600	in	ns	ns1.ipage.com.
 soundshadow.audio.	3600	in	ns	ns2.ipage.com.
 soundshadow.audio.	900	in	nsec	soundsmith.audio. NS RRSIG NSEC
@@ -20436,11 +20426,11 @@ stickz.audio.	900	in	rrsig	NSEC 13 2 900 20251007133636 20250907120636 5894 audi
 stillness.audio.	3600	in	ns	james.ns.cloudflare.com.
 stillness.audio.	3600	in	ns	venus.ns.cloudflare.com.
 stillness.audio.	900	in	nsec	stimmzeit.audio. NS RRSIG NSEC
-stillness.audio.	900	in	rrsig	NSEC 13 2 900 20250914120057 20250815103057 5894 audio. 9E2OGBz9pkp5PKBW9+xQsEKbj47RCfUnw/q065Py3LpAVzXaMxiM4UKxK8L8iAVYlAoKxjogk+EabKRTmdWmLA==
+stillness.audio.	900	in	rrsig	NSEC 13 2 900 20251011120057 20250911103057 5894 audio. pEpgT1BMkJmVc0tfz6pMKdej5E7usXk4aM+8MGzfVvrYyXiNX3hZNWB+iCjQY8JRuMfTJjt9JrXckQOQq8/0fQ==
 stimmzeit.audio.	3600	in	ns	dns1.registrar-servers.com.
 stimmzeit.audio.	3600	in	ns	dns2.registrar-servers.com.
 stimmzeit.audio.	900	in	nsec	stir.audio. NS RRSIG NSEC
-stimmzeit.audio.	900	in	rrsig	NSEC 13 2 900 20250914120057 20250815103057 5894 audio. RiB/6WPzraacW2CatrgXf8vGjxTS4MiJB4EaKZ7h5GNHrtu8U2E05IXL4fLhdHP5d1jrQcqjGD4m1cyB5Y/7hA==
+stimmzeit.audio.	900	in	rrsig	NSEC 13 2 900 20251011120057 20250911103057 5894 audio. jWcKy5m846RNaIKiZRtE05imU/i8ALGAh0HBahqoixdV/Jgv4WUyzdcdXYXilN3bjiQPn/icVE2vmb8h04qJEg==
 stir.audio.	3600	in	ns	ns1.iwantmyname.net.
 stir.audio.	3600	in	ns	ns2.iwantmyname.net.
 stir.audio.	3600	in	ns	ns3.iwantmyname.net.
@@ -20626,14 +20616,14 @@ studiogate.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 
 studiomm.audio.	3600	in	ns	ns03.domaincontrol.com.
 studiomm.audio.	3600	in	ns	ns04.domaincontrol.com.
 studiomm.audio.	900	in	nsec	studiotracks.audio. NS RRSIG NSEC
-studiomm.audio.	900	in	rrsig	NSEC 13 2 900 20250914120057 20250815103057 5894 audio. ePIOwkPWN9zC0XLfEHPpHMNSIPabccxbt98UwYzZtyhUjLFRgLiSt1vjW+lksA729NVFGFhWnI+Y6MhkpB/Fjw==
+studiomm.audio.	900	in	rrsig	NSEC 13 2 900 20251011120057 20250911103057 5894 audio. fnnLLbeeiImx0LtKAA0KnYoHWJxtHuU1wEXzJ9q0t/ZL/EAlTcOrHazBm+ILhUNtokNyG91BX6mpGmNYrZNS1w==
 studiotracks.audio.	3600	in	ds	9222 13 2 0C094CD2F7FF75AE94382744274FA1CE8394F71E6DB46532FC2B30CBD49DEC57
 studiotracks.audio.	3600	in	ns	ns.keurigonline.be.
 studiotracks.audio.	3600	in	ns	ns.keurigonline.com.
 studiotracks.audio.	3600	in	ns	ns.keurigonline.eu.
 studiotracks.audio.	3600	in	ns	ns.keurigonline.net.
 studiotracks.audio.	3600	in	ns	ns.keurigonline.nl.
-studiotracks.audio.	3600	in	rrsig	DS 13 2 3600 20250914120057 20250815103057 5894 audio. dyVMrZ1Tu8GaE9NdkadOPJFNO4nMsgdGse+0Krtfn7cgm+Rgp5OvPueOSsXZ5ojOkUXc+UJ/UNIKfF7f8FAPRw==
+studiotracks.audio.	3600	in	rrsig	DS 13 2 3600 20251011120057 20250911103057 5894 audio. KCjdXoHJoNVQbq/ByZceEFjPHTs3ZAU9lTyJBWusXSt66Ce6RA8lL9MhwrOJ/6tHzmwo2iPvFL4CNGDlr5v3iQ==
 studiotracks.audio.	900	in	nsec	subculture.audio. NS DS RRSIG NSEC
 studiotracks.audio.	900	in	rrsig	NSEC 13 2 900 20251003020311 20250903003311 5894 audio. P4iTHh2ifQwtZZyuVoKq1bM+nZp1cAbV3jFE54qIxqWiygQW+D3Vfy0lPClA4ghzz9/VjuyaJo0+Q/LeZP9DRQ==
 subculture.audio.	3600	in	ns	leia.ns.cloudflare.com.
@@ -20690,7 +20680,7 @@ summum.audio.	900	in	rrsig	NSEC 13 2 900 20250925081104 20250826064104 5894 audi
 sunny.audio.	3600	in	ns	dns1.registrar-servers.com.
 sunny.audio.	3600	in	ns	dns2.registrar-servers.com.
 sunny.audio.	900	in	nsec	sunnystream.audio. NS RRSIG NSEC
-sunny.audio.	900	in	rrsig	NSEC 13 2 900 20250914220842 20250815203842 5894 audio. SCE9Ou7aRCFuCTAwKte632RPOlC1E85qMXo7dAxr9KQaQVxGeY3PwnxX2VrTATZnj0tjPFz1d4Sb9A5PxmBnnA==
+sunny.audio.	900	in	rrsig	NSEC 13 2 900 20251011220842 20250911203842 5894 audio. wZPr7CPHvUSLSzhO8CntGr2rxh0hJdsyZYbdw5I2kGQJU6DOjxj9LMVN93h26gE2I0v2h9/NS3Rek1El6cYStA==
 sunnystream.audio.	3600	in	ns	dns1.registrar-servers.com.
 sunnystream.audio.	3600	in	ns	dns2.registrar-servers.com.
 sunnystream.audio.	900	in	nsec	suno.audio. NS RRSIG NSEC
@@ -20791,13 +20781,13 @@ supersonicspp.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 58
 supreme.audio.	3600	in	ns	ns1.tildadns.com.
 supreme.audio.	3600	in	ns	ns2.tildadns.com.
 supreme.audio.	900	in	nsec	surprise.audio. NS RRSIG NSEC
-supreme.audio.	900	in	rrsig	NSEC 13 2 900 20250914152221 20250815135221 5894 audio. eAC+qi7MVBLdCGWdEGrbqLErFuyU1v9mkPOjOb3af6sncnmURx8mvKqAUvikU1IvMcFRrBRe3hVnX/iPefrASA==
+supreme.audio.	900	in	rrsig	NSEC 13 2 900 20251011140912 20250911123912 5894 audio. Q/XDjIJe2CWtzFvwu9KuVXX1axeDtnW8HToB5oxlwZdVZWkT44Nn9JBeOk0om/ALkupEs2ZWQkfkbNaxoJBcxw==
 surprise.audio.	3600	in	ds	6922 8 2 37D11C4F2EA677DD30A301ECEBB4B8230EB0DCB2BD9938D58D5F1E491667651B
 surprise.audio.	3600	in	ns	dns20.ovh.net.
 surprise.audio.	3600	in	ns	ns20.ovh.net.
-surprise.audio.	3600	in	rrsig	DS 13 2 3600 20250914152221 20250815135221 5894 audio. H2Fin2AMrcW1uxJlgvfasWp42Z64Fm0qYG4SCWxcOVfFECLpDNdktqFt21fF+g91kSn1b9+sJWHQK5bpPHvtUA==
+surprise.audio.	3600	in	rrsig	DS 13 2 3600 20251011140912 20250911123912 5894 audio. styvdRb47bi7ai3iKR9Cas78+HxS4+EdT9lXnmJpkEC1uu53Id9nJ+hTjf5dQqtZlenvkx6NRL6Gb6TSYscEPg==
 surprise.audio.	900	in	nsec	surrounded.audio. NS DS RRSIG NSEC
-surprise.audio.	900	in	rrsig	NSEC 13 2 900 20250914152221 20250815135221 5894 audio. GsyMc+iOYDLeYzQcyOgHocTSKFI98u+q25GDOuUuHn9T1/HWj/zCoY3NbV5kyvr9hLCs4/Wmw43QZ2WkO+NUEA==
+surprise.audio.	900	in	rrsig	NSEC 13 2 900 20251011140912 20250911123912 5894 audio. bepJtcklyhp8oPYnr3aetvR5G1PvjUbXGsguTiQtDQoAHbpzUAScCaBZE9Bx5P2vxYLNmFFcbsa/t2ElhPLugg==
 surrounded.audio.	3600	in	ns	curitiba.ns.porkbun.com.
 surrounded.audio.	3600	in	ns	fortaleza.ns.porkbun.com.
 surrounded.audio.	3600	in	ns	maceio.ns.porkbun.com.
@@ -21188,7 +21178,7 @@ tech.audio.	3600	in	ns	ns1.dreamhost.com.
 tech.audio.	3600	in	ns	ns2.dreamhost.com.
 tech.audio.	3600	in	ns	ns3.dreamhost.com.
 tech.audio.	900	in	nsec	techno.audio. NS RRSIG NSEC
-tech.audio.	900	in	rrsig	NSEC 13 2 900 20250914195452 20250815182452 5894 audio. tUBgWczziqTy7tTGMwvQ0QomVpv0wpeqB5KDsUXUvKd87G5ceNK540Uy5wrjYKuHoHQ9qPNBvdDDlZDHz6wNow==
+tech.audio.	900	in	rrsig	NSEC 13 2 900 20251011195452 20250911182452 5894 audio. aSgbGTC5iq8RH/YQAZsyDWl99rEbONg8RY/Ie18TruNU2TrodpU7YjjU/ua+tFaDUfT0ALpTck/SC8Y00FEwpQ==
 techno.audio.	3600	in	ns	curitiba.ns.porkbun.com.
 techno.audio.	3600	in	ns	fortaleza.ns.porkbun.com.
 techno.audio.	3600	in	ns	maceio.ns.porkbun.com.
@@ -22022,11 +22012,11 @@ treefort.audio.	3600	in	ns	ns2kry.name.com.
 treefort.audio.	3600	in	ns	ns3gxy.name.com.
 treefort.audio.	3600	in	ns	ns4kpx.name.com.
 treefort.audio.	900	in	nsec	trending.audio. NS RRSIG NSEC
-treefort.audio.	900	in	rrsig	NSEC 13 2 900 20250914120057 20250815103057 5894 audio. ItACmmuSLgHtVhcYyIUUbmvkkFq5rT3fI63zpCT8GwXYpgtRlwaufTCmvpve/s9+J8f2ZfpNdIAhw3QFfm7ABQ==
+treefort.audio.	900	in	rrsig	NSEC 13 2 900 20251011120057 20250911103057 5894 audio. OdGFqRBEpb6IJzakE/Ul4CmO9M5JpJY5+WVKUJ27mg9dxsiJhrDOWbw/OudssWH9BkeQQi/YRieRCZpx6sxaFQ==
 trending.audio.	3600	in	ns	dns1.registrar-servers.com.
 trending.audio.	3600	in	ns	dns2.registrar-servers.com.
 trending.audio.	900	in	nsec	tribeca.audio. NS RRSIG NSEC
-trending.audio.	900	in	rrsig	NSEC 13 2 900 20250914120057 20250815103057 5894 audio. //Pzys83htYOnbvrwFtJ+4wDs8bWzSX8cIsDrVDu7aKVhwnXdfkQfu0zrW9BprPx4bcCCV33urEl65QQL42YVw==
+trending.audio.	900	in	rrsig	NSEC 13 2 900 20251011120057 20250911103057 5894 audio. +mkavxo1pyU4+Z9jNFgjWFnJJe9rgu9EJ7Ssfh37sdY9O79uEelOVid61uE7MF09+cv7ucdCgFrdbzBd3rQA/w==
 tribeca.audio.	3600	in	ns	ns51.worldnic.com.
 tribeca.audio.	3600	in	ns	ns52.worldnic.com.
 tribeca.audio.	900	in	nsec	trigger.audio. NS RRSIG NSEC
@@ -22695,8 +22685,12 @@ vcl.audio.	900	in	nsec	vebotv.audio. NS RRSIG NSEC
 vcl.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio. 8IUk7nsL4rcVBbtGFSicYXHVDa+s456w1W1NgOAjWvjRWt4iYo/NQ12Zfkw5oy4KFUfgZ1nS3J+BjvZ7AN8cfQ==
 vebotv.audio.	3600	in	ns	hal.ns.cloudflare.com.
 vebotv.audio.	3600	in	ns	mckinley.ns.cloudflare.com.
-vebotv.audio.	900	in	nsec	velocitysedge.audio. NS RRSIG NSEC
-vebotv.audio.	900	in	rrsig	NSEC 13 2 900 20250929232441 20250830215441 5894 audio. GuhDdzXZfF/J5wXYip53FeFqkeFu6s5fGY6sPZXaDjc59mkTC0XdwmhbC/sSSkNByjIiAIuD5kh2ckaQ5MR3qg==
+vebotv.audio.	900	in	nsec	vector.audio. NS RRSIG NSEC
+vebotv.audio.	900	in	rrsig	NSEC 13 2 900 20251011122224 20250911105224 5894 audio. avx/t7u0yGefSuSrALhmNKIVQB++VTdvXyKAPM2Zx/VrU3Yk0CxgNHMs5h+KTPMrGH2B4uOi9L6z8weV36JkBg==
+vector.audio.	3600	in	ns	dns1.registrar-servers.com.
+vector.audio.	3600	in	ns	dns2.registrar-servers.com.
+vector.audio.	900	in	nsec	velocitysedge.audio. NS RRSIG NSEC
+vector.audio.	900	in	rrsig	NSEC 13 2 900 20251011122224 20250911105224 5894 audio. WjBPlaYI+o619wwybrJPsq+buI30mXSPp7fRO9mEOrikZqvxLTmF4XcVTRZCTC9k5+l4f0Hnl5cwSCxysvPDkQ==
 velocitysedge.audio.	3600	in	ns	curitiba.ns.porkbun.com.
 velocitysedge.audio.	3600	in	ns	fortaleza.ns.porkbun.com.
 velocitysedge.audio.	3600	in	ns	maceio.ns.porkbun.com.
@@ -22778,13 +22772,13 @@ vexus.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio
 vibe.audio.	3600	in	ns	elma.ns.cloudflare.com.
 vibe.audio.	3600	in	ns	rajeev.ns.cloudflare.com.
 vibe.audio.	900	in	nsec	vibes.audio. NS RRSIG NSEC
-vibe.audio.	900	in	rrsig	NSEC 13 2 900 20250914141025 20250815124025 5894 audio. QU5yahRrtZHHRkkEmTbRK3N0G3HcTHiMBmZ/hH1ozhWFyI6DNECfCtBMrRQGSflcMGMofy5IeqR2JMf6CAlE1g==
+vibe.audio.	900	in	rrsig	NSEC 13 2 900 20251011140912 20250911123912 5894 audio. HqCnOd+H0uD26wHXFRzzuPWkJ/eK2DLXaLIiNSFp7mZR196+HBGy9e9mRXMXkPrqdyShJXNo025eM1s4VZTaRQ==
 vibes.audio.	3600	in	ns	curitiba.ns.porkbun.com.
 vibes.audio.	3600	in	ns	fortaleza.ns.porkbun.com.
 vibes.audio.	3600	in	ns	maceio.ns.porkbun.com.
 vibes.audio.	3600	in	ns	salvador.ns.porkbun.com.
 vibes.audio.	900	in	nsec	vibot.audio. NS RRSIG NSEC
-vibes.audio.	900	in	rrsig	NSEC 13 2 900 20250914141025 20250815124025 5894 audio. RxMSHu25o2Tolqqi//hZhC0dLhU2dtAJGX56i391SCyHG7RMVqgQJcp3QFhNizdnHQN2SdLxYomuqNxy5lID7Q==
+vibes.audio.	900	in	rrsig	NSEC 13 2 900 20251011140912 20250911123912 5894 audio. h2YLrR1WEp4mQSQz0O7zFE8jazxbXbaqloDsGCrpC4w5053L35zwww6pCZFGiLINfJZWIDExoQbypua4o4kxbw==
 vibot.audio.	3600	in	ns	ns.hostpoint.ch.
 vibot.audio.	3600	in	ns	ns2.hostpoint.ch.
 vibot.audio.	3600	in	ns	ns3.hostpoint.ch.
@@ -24154,4 +24148,4 @@ zzz.audio.	3600	in	ns	ns1.vercel-dns.com.
 zzz.audio.	3600	in	ns	ns2.vercel-dns.com.
 zzz.audio.	900	in	nsec	audio. NS RRSIG NSEC
 zzz.audio.	900	in	rrsig	NSEC 13 2 900 20251010063440 20250910050440 5894 audio. mQlWS2orS2ECHKp0c5SaGl3nD4f8sBGXuEtFmSNBgIngooMQrn4fMm8p2ZhzKYy5tFo1Ys/qJ3+jpEnswIQeMw==
-audio.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757548815 900 1800 6048000 3600
+audio.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757636985 900 1800 6048000 3600
