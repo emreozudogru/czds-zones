@@ -1,4 +1,4 @@
-rent.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000356417 900 1800 6048000 3600
+rent.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000356456 900 1800 6048000 3600
 000.rent.	3600	in	ns	ns1.vultr.com.
 000.rent.	3600	in	ns	ns2.vultr.com.
 001.rent.	3600	in	ns	ns1.vps-dns.info.
@@ -482,8 +482,8 @@ rent.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000356417 900 1
 5movierulz.rent.	3600	in	ns	ns2.google.com.
 5sivcdg.rent.	3600	in	ns	dns29.hichina.com.
 5sivcdg.rent.	3600	in	ns	dns30.hichina.com.
-5ue1iia4v5en826u7d9urvl9shcrmg96.rent.	900	in	nsec3	1 1 0 - 65OGLJOI9I4FDDKLONC4D35FG7O02KU2 NS DS RRSIG
-5ue1iia4v5en826u7d9urvl9shcrmg96.rent.	900	in	rrsig	NSEC3 8 2 900 20251008000103 20250907223103 45721 rent. BoZCfUPHMtoLD/P6OPeoSAY1oRPGwMNor536YlTiP8rAaEYhsyEF6PxQsqy6/CAxbyv2TVhY8PnC40mCTqZP1egsokj2jHGCQqXRXkRzHieNkd9N/Vl7oFyMLIl+vcGWR50xDP6Blzio225MYFrKUtsziqd/iBE+2epGr5PbxLg=
+5ue1iia4v5en826u7d9urvl9shcrmg96.rent.	900	in	nsec3	1 1 0 - 65VRSEG4J5T9N5JGUEVEG85HMDDS3TH7 NS DS RRSIG
+5ue1iia4v5en826u7d9urvl9shcrmg96.rent.	900	in	rrsig	NSEC3 8 2 900 20251011175631 20250911162631 45721 rent. mi8s/9BvD+Q9lGhf4GS3HMoYp4QpsHBCojVki2faYeH1b5ELlds/5QVi8OIS/VlPaI+Lud2c9PecgavD07fATTBCyfX2wLdiubvhsFkKnBt0SamzZFWFFm+o387oPPJPmi+BJmB/gIVR4GLfPyxy50SNqkhzPzi4j+cziH79thw=
 5zero7.rent.	3600	in	ns	ns13.domaincontrol.com.
 5zero7.rent.	3600	in	ns	ns14.domaincontrol.com.
 604.rent.	3600	in	ns	ns75.domaincontrol.com.
@@ -496,8 +496,6 @@ rent.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000356417 900 1
 618.rent.	3600	in	ns	ns26.domaincontrol.com.
 633palms.rent.	3600	in	ns	ns19.domaincontrol.com.
 633palms.rent.	3600	in	ns	ns20.domaincontrol.com.
-65ogljoi9i4fddklonc4d35fg7o02ku2.rent.	900	in	nsec3	1 1 0 - 65VRSEG4J5T9N5JGUEVEG85HMDDS3TH7 NS DS RRSIG
-65ogljoi9i4fddklonc4d35fg7o02ku2.rent.	900	in	rrsig	NSEC3 8 2 900 20251003083043 20250903070043 45721 rent. JNVSYp89CaTdCBTmo+WeA8EzBRlOQFmUlOQ5pBcAL9zz+WU5iadDnFNOBIJcLJypiKg30BVjyn8agQKh6mZbWGHLplaD1g/3iivJ/H9HlYsQqYy7VygaGt8CE8mAmICO5Rhp1mVpNlDCfi2zjZ+D2VOv1SoC2sOm88E4omBcc/c=
 65vrseg4j5t9n5jgueveg85hmdds3th7.rent.	900	in	nsec3	1 1 0 - 6D3LRH8H68K3VME278P0JDALVR8G1VEU NS DS RRSIG
 65vrseg4j5t9n5jgueveg85hmdds3th7.rent.	900	in	rrsig	NSEC3 8 2 900 20251004061322 20250904044322 45721 rent. Mci52Yl9stABp7rzdtwOx+8P3WBvADAJMsmZDk/OypA6f6mttAP4SfivucDfsjOsyfLsrX+G8s5qOtBTywqYh4alTDoxPKhV7NMhKUsQvG/QXJEtN7La0Wka1x/PVU5MKVHrnbdfXp3qagEpnRqVgdzX4s7IvK2LxYkurlmIR1c=
 6623.rent.	3600	in	ns	arvind.ns.cloudflare.com.
@@ -635,6 +633,10 @@ rent.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000356417 900 1
 8888.rent.	3600	in	rrsig	DS 8 2 3600 20251009231445 20250909214445 45721 rent. J42os8dk30RctCaYdgrDSx9WrvEumuIbv9Zhen4J9Eh+MHjSzk33f2TDrJ9s7orY+p4X2SeOBPB5OQcP8v9Ww+trZOGm5pIFPBgIC+lOg2G8vs3zQAoi1f5FJfWPAqbW66w9TZKhvyFmcs3dlT4j3eQbr0npvcZGB7D8HygCcf0=
 888b.rent.	3600	in	ns	doug.ns.cloudflare.com.
 888b.rent.	3600	in	ns	sue.ns.cloudflare.com.
+88aa.rent.	3600	in	ds	10427 13 2 EDC8018931EA430CD0DD062FE56536FC614A71E84DA17E7E56BD64B963274F75
+88aa.rent.	3600	in	ns	launch1.spaceship.net.
+88aa.rent.	3600	in	ns	launch2.spaceship.net.
+88aa.rent.	3600	in	rrsig	DS 8 2 3600 20251011023639 20250911010639 45721 rent. Tbta6/s/YPedkA9byV0Ux5A74JIqrhwkHypd4laGh2M/ETLGI4r/e84jD+X77sEZIo1qBszoQmAr3auIcCuSN+weneOdvUEoonlcSHGJeH4MaNEa16QkEfMw9R7nDcK4AOB6CYG1Fk23bcMQI/pR+urGe9nj5Ivo7fQraacfFzE=
 88bet.rent.	3600	in	ns	art.ns.cloudflare.com.
 88bet.rent.	3600	in	ns	ryleigh.ns.cloudflare.com.
 88capcut.rent.	3600	in	ns	nile.ns.cloudflare.com.
@@ -785,8 +787,10 @@ rent.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000356417 900 1
 9e2uu2nu3dg9os24r96l83v3fgmjs0ku.rent.	900	in	rrsig	NSEC3 8 2 900 20250923141154 20250824124154 45721 rent. flaM4MOszgiRFlz9rx72Zpcw+09pICi0SKqZpgvR05Lct02gWS2MltAUylhTWrQxmtagMt64D51NDxqksvsPh1xZCj+lT/hiO/eIFvEQdYzAiz5cdgThhyORbMLzTQ9qInybzTvJcWWR2zqDfYy3s9Soyd6SjskaWd2/uOeNRDo=
 9fkv1foibh68r5meqn6k629vq95im2cs.rent.	900	in	nsec3	1 1 0 - 9FO2LBHBCGNS2NQLEHP9C3IC0P2253G3 NS DS RRSIG
 9fkv1foibh68r5meqn6k629vq95im2cs.rent.	900	in	rrsig	NSEC3 8 2 900 20250924082551 20250825065551 45721 rent. LpXtVuKpCL21km5pTmMmE2Iq3GtiR1uzKIMZFn90//UOnRhvLqZTwFUC/zt4YGSjcbEWkqv5GGs718An4dXPi20HBGyYzq460//wyfV0X83gs6TDAKe8CG3s7rZniNLcG9wueoBDQYQw0nRNZRIiKKDJUdDwXZtCiEUlJ8AhEl4=
-9fo2lbhbcgns2nqlehp9c3ic0p2253g3.rent.	900	in	nsec3	1 1 0 - 9MOCLO3I80FPJBJ6RSCGLSSSU1C3JLER NS DS RRSIG
-9fo2lbhbcgns2nqlehp9c3ic0p2253g3.rent.	900	in	rrsig	NSEC3 8 2 900 20251002093304 20250902080304 45721 rent. Vp8OG8caZYhyhBIDm1Ww8x3dqVgJRECgNYsc2Jqzs+hpaoKM3d+al8IiGAQHvUN39Yq8WV0qmS5JujG2PpTud7vc+wQAohBipLG5+E6oz1/c7MIiDLl8q6VuOpvU+M4yL0AEf3O+8KiVLqxFmugoqMCgtxwDCwLqUpNLchCUyxU=
+9fo2lbhbcgns2nqlehp9c3ic0p2253g3.rent.	900	in	nsec3	1 1 0 - 9GT59LINJ8AJ1PQ49I6C80SDAVAR7IE7 NS DS RRSIG
+9fo2lbhbcgns2nqlehp9c3ic0p2253g3.rent.	900	in	rrsig	NSEC3 8 2 900 20251011023639 20250911010639 45721 rent. IJWW5GTFbkgAaGNsUiPosjIInjXMhR7fuCHC9G7KprnNcSUWAgpXLhzOtqapGaVfMr8NQ2V1FOVzJYUIYC/GBeGTyFwbfOTtlqKVU7F/tVLmQHVz+IpMSzSwTVwEPNZur/DFxZ7FwYfeykGFkY+2WMRv4rqpmzcB2Dhu/+fxBWI=
+9gt59linj8aj1pq49i6c80sdavar7ie7.rent.	900	in	nsec3	1 1 0 - 9MOCLO3I80FPJBJ6RSCGLSSSU1C3JLER NS DS RRSIG
+9gt59linj8aj1pq49i6c80sdavar7ie7.rent.	900	in	rrsig	NSEC3 8 2 900 20251011023639 20250911010639 45721 rent. iqcWHSImRvyC7n5quN+uYsygXcV7N0ni4m4QWyOAcPW9quByrL5vh+V7uSjnHkpKjtBp4H8gkI5trBTXwp0cBFlZ9kRGgi7ux8MGBlwNa7DscamMCeAHHUjm9UJ38SIYQehA8deTjUdq0rc4FVVlbNpmylBV3yVLsfge9V6B6pg=
 9incr.rent.	3600	in	ns	ns63.domaincontrol.com.
 9incr.rent.	3600	in	ns	ns64.domaincontrol.com.
 9irqi.rent.	3600	in	ns	ns15.domaincontrol.com.
@@ -1005,10 +1009,8 @@ adretto.rent.	3600	in	ns	ns2.hostpoint.ch.
 adretto.rent.	3600	in	ns	ns3.hostpoint.ch.
 adria.rent.	3600	in	ns	emma.ns.cloudflare.com.
 adria.rent.	3600	in	ns	ian.ns.cloudflare.com.
-adriatic.rent.	3600	in	ds	40701 13 2 0E444DBE0293F66FF5B8BF8DF0906FF1ABCD37BB2EF7CD2A1D50BF193A7CCC9F
-adriatic.rent.	3600	in	ns	launch1.spaceship.net.
-adriatic.rent.	3600	in	ns	launch2.spaceship.net.
-adriatic.rent.	3600	in	rrsig	DS 8 2 3600 20251003083043 20250903070043 45721 rent. NCIoirdjPya9wnKFQlxBjX2+MEgP+AYLypeQYVtj+tUckTB1PEF9rsjGZw++sWpYFSgl1pQGyHRoDDkVIVX/XoVV+RW6IHzllvPtxxN3nvVxQ2JStzh5aIJ2HYXpYYCpSR7aJ8hV18HHO+wK7rVOSumFJVjHAG/GCy7iH9ImgBg=
+adriatic.rent.	3600	in	ns	ns1.afternic.com.
+adriatic.rent.	3600	in	ns	ns2.afternic.com.
 adsense.rent.	3600	in	ns	ns1.googledomains.com.
 adsense.rent.	3600	in	ns	ns2.googledomains.com.
 adsense.rent.	3600	in	ns	ns3.googledomains.com.
@@ -3264,8 +3266,6 @@ blacklist.rent.	3600	in	ns	ns1.sprinthost.ru.
 blacklist.rent.	3600	in	ns	ns2.sprinthost.ru.
 blacklist.rent.	3600	in	ns	ns3.sprinthost.net.
 blacklist.rent.	3600	in	ns	ns4.sprinthost.net.
-blackloan63.rent.	3600	in	ns	ns45.domaincontrol.com.
-blackloan63.rent.	3600	in	ns	ns46.domaincontrol.com.
 blackloanss.rent.	3600	in	ns	ns15.domaincontrol.com.
 blackloanss.rent.	3600	in	ns	ns16.domaincontrol.com.
 blackoak.rent.	3600	in	ns	dns1.registrar-servers.com.
@@ -3308,8 +3308,6 @@ blissfulwellness.rent.	3600	in	ns	jasmine.ns.cloudflare.com.
 blissfulwellness.rent.	3600	in	ns	keenan.ns.cloudflare.com.
 blkmkt.rent.	3600	in	ns	dns1.registrar-servers.com.
 blkmkt.rent.	3600	in	ns	dns2.registrar-servers.com.
-bloc.rent.	3600	in	ns	ns01.domaincontrol.com.
-bloc.rent.	3600	in	ns	ns02.domaincontrol.com.
 block.rent.	3600	in	ns	ns1.afternic.com.
 block.rent.	3600	in	ns	ns2.afternic.com.
 blockchain.rent.	3600	in	ns	ns1.afternic.com.
@@ -5256,8 +5254,6 @@ colorprinter.rent.	3600	in	ns	ns2.minibird.jp.
 colorprinter.rent.	3600	in	ns	ns3.minibird.jp.
 colukid.rent.	3600	in	ns	dns1.hichina.com.
 colukid.rent.	3600	in	ns	dns2.hichina.com.
-comblack.rent.	3600	in	ns	dawn.ns.cloudflare.com.
-comblack.rent.	3600	in	ns	eugene.ns.cloudflare.com.
 comeagain.rent.	3600	in	ns	clyde.ns.cloudflare.com.
 comeagain.rent.	3600	in	ns	wanda.ns.cloudflare.com.
 comfort.rent.	3600	in	ns	ns1.afternic.com.
@@ -5381,7 +5377,7 @@ contatto.rent.	3600	in	ns	dns2.registrar-servers.com.
 contentement.rent.	3600	in	ds	43163 13 2 1FB0AEEBE4661A96DB2B7DB7E27318C88BCA6AFC5F0CD5C203BA472D3B080462
 contentement.rent.	3600	in	ns	ns1.desec.io.
 contentement.rent.	3600	in	ns	ns2.desec.org.
-contentement.rent.	3600	in	rrsig	DS 8 2 3600 20250914070213 20250815053213 45721 rent. JjGrOWSyczHW6oXFCx+hQK1Sydc0jCIZ6StxpPkGrAlK6fI/t9Dy5L3wxLmHMzatc9QMHxkR2N9Zwx6ZJYhk1Da7nNORghViMhTPw5h2qKNT2qrMyUPS/RjgFLST2Q5cxLyI8DMxTL95ERUDzrbf12TT9tSh3ktukX2UOlcSAMg=
+contentement.rent.	3600	in	rrsig	DS 8 2 3600 20251011070213 20250911053213 45721 rent. I6apHp6S5yF1EHG+tiMzBj3DJ3OeCroJT0Leik9XoNcDweDa7v4TTJ/tvHslLEqLj8SxFT/pRUPF8GBjCv+9heydRyghspcdUuBsi8QVrOOZ5E2MtO/7u94d6/c/0PGUfK9pvXO43+Jsl0s/i1c32Pl7C1QDgy0Exg7UpR2jfOU=
 contest.rent.	3600	in	ns	ns67.domaincontrol.com.
 contest.rent.	3600	in	ns	ns68.domaincontrol.com.
 context.rent.	3600	in	ns	dns1.registrar-servers.com.
@@ -6169,8 +6165,6 @@ destinationgite.rent.	3600	in	ns	ns1022.ui-dns.com.
 destinationgite.rent.	3600	in	ns	ns1026.ui-dns.de.
 destinationgite.rent.	3600	in	ns	ns1038.ui-dns.biz.
 destinationgite.rent.	3600	in	ns	ns1053.ui-dns.org.
-destinbeachvacation.rent.	3600	in	ns	ns29.domaincontrol.com.
-destinbeachvacation.rent.	3600	in	ns	ns30.domaincontrol.com.
 destino.rent.	3600	in	ns	ns55.domaincontrol.com.
 destino.rent.	3600	in	ns	ns56.domaincontrol.com.
 destrehan.rent.	3600	in	ns	ns31.domaincontrol.com.
@@ -6774,10 +6768,6 @@ e-cargo2.rent.	3600	in	ns	ns.udag.net.
 e-cargo2.rent.	3600	in	ns	ns.udag.org.
 e-cars.rent.	3600	in	ns	ns59.domaincontrol.com.
 e-cars.rent.	3600	in	ns	ns60.domaincontrol.com.
-e-mobility.rent.	3600	in	ns	ns1bcp.name.com.
-e-mobility.rent.	3600	in	ns	ns2bkr.name.com.
-e-mobility.rent.	3600	in	ns	ns3hjx.name.com.
-e-mobility.rent.	3600	in	ns	ns4bfy.name.com.
 e-pay.rent.	3600	in	ns	ns37.domaincontrol.com.
 e-pay.rent.	3600	in	ns	ns38.domaincontrol.com.
 e-rent.rent.	3600	in	ns	dns1.registrar-servers.com.
@@ -6848,8 +6838,8 @@ eastvan.rent.	3600	in	ns	curitiba.ns.porkbun.com.
 eastvan.rent.	3600	in	ns	fortaleza.ns.porkbun.com.
 eastvan.rent.	3600	in	ns	maceio.ns.porkbun.com.
 eastvan.rent.	3600	in	ns	salvador.ns.porkbun.com.
-easy-drive.rent.	3600	in	ns	armavir.ens.mail.ru.
-easy-drive.rent.	3600	in	ns	kaluga.ens.mail.ru.
+easy-drive.rent.	3600	in	ns	dns101.registrar-servers.com.
+easy-drive.rent.	3600	in	ns	dns102.registrar-servers.com.
 easy.rent.	3600	in	ns	ns45.domaincontrol.com.
 easy.rent.	3600	in	ns	ns46.domaincontrol.com.
 easy4.rent.	3600	in	ns	ns17.domaincontrol.com.
@@ -7164,10 +7154,6 @@ emeraldclub.rent.	3600	in	ns	ns6.markmonitor.com.
 emeraldclub.rent.	3600	in	ns	ns7.markmonitor.com.
 emeraldcourts.rent.	3600	in	ns	ns75.domaincontrol.com.
 emeraldcourts.rent.	3600	in	ns	ns76.domaincontrol.com.
-emergencyloan26.rent.	3600	in	ns	ns17.domaincontrol.com.
-emergencyloan26.rent.	3600	in	ns	ns18.domaincontrol.com.
-emergencyloans3u.rent.	3600	in	ns	ns39.domaincontrol.com.
-emergencyloans3u.rent.	3600	in	ns	ns40.domaincontrol.com.
 emi.rent.	3600	in	ns	ns63.domaincontrol.com.
 emi.rent.	3600	in	ns	ns64.domaincontrol.com.
 emiliaromagna.rent.	3600	in	ns	ns51.domaincontrol.com.
@@ -7557,10 +7543,8 @@ eventlocation.rent.	3600	in	ns	ns1034.ui-dns.com.
 eventlocation.rent.	3600	in	ns	ns1052.ui-dns.de.
 eventlocation.rent.	3600	in	ns	ns1092.ui-dns.org.
 eventlocation.rent.	3600	in	ns	ns1103.ui-dns.biz.
-eventpro.rent.	3600	in	ns	ns1.flexbe.com.
-eventpro.rent.	3600	in	ns	ns2.flexbe.com.
-eventpro.rent.	3600	in	ns	ns3.flexbe.net.
-eventpro.rent.	3600	in	ns	ns4.flexbe.net.
+eventpro.rent.	3600	in	ns	ns31.domaincontrol.com.
+eventpro.rent.	3600	in	ns	ns32.domaincontrol.com.
 eventrent.rent.	3600	in	ns	ns07.domaincontrol.com.
 eventrent.rent.	3600	in	ns	ns08.domaincontrol.com.
 events.rent.	3600	in	ns	ns11.domaincontrol.com.
@@ -7727,8 +7711,8 @@ f168vip.rent.	3600	in	ns	sloan.ns.cloudflare.com.
 f168vip.rent.	3600	in	ns	trey.ns.cloudflare.com.
 f1j3svlt9mbvbolo69cuhdvvad2irt40.rent.	900	in	nsec3	1 1 0 - F4V3TQLACJBUFDRCQRBVCSU37GTCUBU6 NS DS RRSIG
 f1j3svlt9mbvbolo69cuhdvvad2irt40.rent.	900	in	rrsig	NSEC3 8 2 900 20250930094102 20250831081102 45721 rent. RY8W1Np5t7hma6Fh+KI7Q9tZEB6g4Drsp6MEXky7s8GjyeUl23064ruBhRsudoQFPiyFzs7Xz+vrEmXQ6LGffK7P9dHwTqAkkBL/s9764MnRfUO+tsjHh870ZL4hjrt7bdA+VcrY9P2i/szF2bB/qm11xe6yxHMnPvQstaLIndI=
-f4v3tqlacjbufdrcqrbvcsu37gtcubu6.rent.	900	in	nsec3	1 1 0 - FD08UKHJGHHITMK2U7BRLRSHTFU9H5D4 NS DS RRSIG
-f4v3tqlacjbufdrcqrbvcsu37gtcubu6.rent.	900	in	rrsig	NSEC3 8 2 900 20251004041350 20250904024350 45721 rent. Ygffy02NGrKLrRLmUXsT3z/twfDpCqv2HFsVk/GCqVTaalYpuP+xCQXbcQ4l3IA88yjG6Z7BIpzp8ZyYpD6AkNbuvFXlOhztzKjhsf8OdS6jFwBBQMK1yMzk+FypeGCIg3CTmN1ts8SCGzNoTVnZOOi8D/G8TsPhqajm4ydCnG8=
+f4v3tqlacjbufdrcqrbvcsu37gtcubu6.rent.	900	in	nsec3	1 1 0 - FBPAGD5THHE3SI3E44D7UK83RPB92FDL NS DS RRSIG
+f4v3tqlacjbufdrcqrbvcsu37gtcubu6.rent.	900	in	rrsig	NSEC3 8 2 900 20251011132539 20250911115539 45721 rent. Gir7pfqN1WmKbwXnI6+sj4NtR1BtgbHBNdqLFzRKVB1aIzzWa0ZJcvesmTKJpwMRNRKIRR8S88M9NEdA5zdA5uNlQDeUGdaj8YIf6LcWmxFYDDv4HYBN9lOleZ9yIU9sQ0OWSLXvXWQqQpgCZapdZTnJaBwaM4DCXzZcwMzUSj8=
 f8bet.rent.	3600	in	ns	dns1.registrar-servers.com.
 f8bet.rent.	3600	in	ns	dns2.registrar-servers.com.
 fa88.rent.	3600	in	ns	ns1.dyna-ns.net.
@@ -7872,6 +7856,8 @@ fb68.rent.	3600	in	ns	lorna.ns.cloudflare.com.
 fb68.rent.	3600	in	ns	sterling.ns.cloudflare.com.
 fb88.rent.	3600	in	ns	cullen.ns.cloudflare.com.
 fb88.rent.	3600	in	ns	elisabeth.ns.cloudflare.com.
+fbpagd5thhe3si3e44d7uk83rpb92fdl.rent.	900	in	nsec3	1 1 0 - FD08UKHJGHHITMK2U7BRLRSHTFU9H5D4 NS DS RRSIG
+fbpagd5thhe3si3e44d7uk83rpb92fdl.rent.	900	in	rrsig	NSEC3 8 2 900 20251011132539 20250911115539 45721 rent. ktfPOOgEMVdNq+0SB5jbOQq5JpoS5QDN3TadBgpqXAJFrixEComce2xpzQATd6ZC1js7DSRYJQCaqDu/W2DleRKC5Fo6pccGmkIRv6CcJfjCJSbvr+1CyMvOqXlrGDMGl8LICPdL5GY+AC00BRx/JAjrISAYRhu8uDaXxmga5tQ=
 fc88.rent.	3600	in	ns	amber.ns.cloudflare.com.
 fc88.rent.	3600	in	ns	jonah.ns.cloudflare.com.
 fclass.rent.	3600	in	ns	ns1.beget.com.
@@ -8270,8 +8256,8 @@ fourpoints.rent.	3600	in	ns	ns-402.awsdns-50.com.
 fourpoints.rent.	3600	in	ns	ns-724.awsdns-26.net.
 fra.rent.	3600	in	ns	ns19.domaincontrol.com.
 fra.rent.	3600	in	ns	ns20.domaincontrol.com.
-fractional.rent.	3600	in	ns	dns1.registrar-servers.com.
-fractional.rent.	3600	in	ns	dns2.registrar-servers.com.
+fractional.rent.	3600	in	ns	dns101.registrar-servers.com.
+fractional.rent.	3600	in	ns	dns102.registrar-servers.com.
 frame.rent.	3600	in	ns	ns05.domaincontrol.com.
 frame.rent.	3600	in	ns	ns06.domaincontrol.com.
 framer.rent.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -8849,7 +8835,7 @@ glide.rent.	3600	in	ns	ns30.domaincontrol.com.
 glimmerfastglowfresh.rent.	3600	in	ds	1748 13 2 C0D9CE91D07458AD6482903C9451A465461687797CB0EA8D206122535FF32A41
 glimmerfastglowfresh.rent.	3600	in	ns	launch1.spaceship.net.
 glimmerfastglowfresh.rent.	3600	in	ns	launch2.spaceship.net.
-glimmerfastglowfresh.rent.	3600	in	rrsig	DS 8 2 3600 20250914040225 20250815023225 45721 rent. QBewYH6ShvfXXxj0bJ4k/A82j2Ydt9momDPLs80DQRomefKJEl0hPVE0XogHIsZ+Qxs/AP9qZ6TXBW0Of/f7G4ToBmaU02UpNmVjZOeNOh3P6e3jt2PDy6X24Q5lIxXV0miegpMiude4BYMraGZYNOAdJGVthKtSpLDk+OVjumY=
+glimmerfastglowfresh.rent.	3600	in	rrsig	DS 8 2 3600 20251011040225 20250911023225 45721 rent. e5HgFUM0WNg/Z/D4mwZ01j1jk6huB2mjcRrnWIMiUPAjDrL4rbeEwy/EBcBhqUhrpga/DVEG1vRvMOakv9EfsyysvVSQdFcrlQ2OSBzjjq+ebqfPUtrPn7Qw1fhKvVp3XqDw9OLDFV8UJC8TXeXYfsMMaYLCzQUwZWWmxW4FZro=
 glimpses.rent.	3600	in	ns	dns1.namecheaphosting.com.
 glimpses.rent.	3600	in	ns	dns2.namecheaphosting.com.
 gll.rent.	3600	in	ns	ns45.domaincontrol.com.
@@ -9858,6 +9844,8 @@ highlite.rent.	3600	in	ns	ns0.transip.net.
 highlite.rent.	3600	in	ns	ns1.transip.nl.
 highlite.rent.	3600	in	ns	ns2.transip.eu.
 highlite.rent.	3600	in	rrsig	DS 8 2 3600 20251009231445 20250909214445 45721 rent. fcnfM5T8Czp/2uLdEkXQa8wu3RQoIQ941qA9aah9I6YP4c43kZHKd2L6l8epuEaHK706/YNXMbn5nxDT9ybhRg2cz/QuZdCJ920njNSLaQm0+Pgf32ZXyPizzx+8wgyzio2xGkwdT1+0W9IFm2qslc4EB9R8sfymPqjANWE2vyM=
+highreach.rent.	3600	in	ns	ns47.domaincontrol.com.
+highreach.rent.	3600	in	ns	ns48.domaincontrol.com.
 highriseapartments.rent.	3600	in	ns	ns59.domaincontrol.com.
 highriseapartments.rent.	3600	in	ns	ns60.domaincontrol.com.
 highrisecondos.rent.	3600	in	ns	ns13.domaincontrol.com.
@@ -11166,6 +11154,8 @@ joor.rent.	3600	in	ns	ns1.joor.rent.
 joor.rent.	3600	in	ns	ns2.joor.rent.
 josie.rent.	3600	in	ns	dns1.registrar-servers.com.
 josie.rent.	3600	in	ns	dns2.registrar-servers.com.
+journalwa.rent.	3600	in	ns	charles.ns.cloudflare.com.
+journalwa.rent.	3600	in	ns	liberty.ns.cloudflare.com.
 journey.rent.	3600	in	ns	ns1.atom.com.
 journey.rent.	3600	in	ns	ns2.atom.com.
 joy.rent.	3600	in	ns	ns1.reg.ru.
@@ -11737,6 +11727,10 @@ kqsvfgmddhiu.rent.	3600	in	ns	sc-c.sinkhole.shadowserver.org.
 kqsvfgmddhiu.rent.	3600	in	ns	sc-d.sinkhole.shadowserver.org.
 kra.rent.	3600	in	ns	darwin.ns.cloudflare.com.
 kra.rent.	3600	in	ns	ingrid.ns.cloudflare.com.
+kran.rent.	3600	in	ds	65065 13 2 CBFEBAD9FAAF9A46FF5BA664EDD31DEBF8C2E0ADBC008B3023288066C9099B87
+kran.rent.	3600	in	ns	launch1.spaceship.net.
+kran.rent.	3600	in	ns	launch2.spaceship.net.
+kran.rent.	3600	in	rrsig	DS 8 2 3600 20251011102942 20250911085942 45721 rent. XNVKa4/g+4YnGsreNGezUO+cNuSbtd+jdwnyBiE1ojBAQ2JxuvKcznxpZxAqH1Ec1SDfbzSyWprSYsMZnmtx3JtVVUjl/XjhM4uMRXDODs6bRGWqtKbO9Y3NgP6kBpijxSwElKXUyi1z/uDpxJ0E+N+BYohXR417vA8dWnR7Kig=
 krasilov.rent.	3600	in	ns	ns1.reg.ru.
 krasilov.rent.	3600	in	ns	ns2.reg.ru.
 krasnodar.rent.	3600	in	ns	algin.ns.cloudflare.com.
@@ -13614,8 +13608,8 @@ mgcars.rent.	3600	in	ns	meilan.ns.giantpanda.com.
 mgk.rent.	3600	in	ns	dns.home.pl.
 mgk.rent.	3600	in	ns	dns2.home.pl.
 mgk.rent.	3600	in	ns	dns3.home.pl.
-mglbet.rent.	3600	in	ns	gerald.ns.cloudflare.com.
-mglbet.rent.	3600	in	ns	millie.ns.cloudflare.com.
+mglbet.rent.	3600	in	ns	dns1.registrar-servers.com.
+mglbet.rent.	3600	in	ns	dns2.registrar-servers.com.
 mgmt.rent.	3600	in	ns	ns33.domaincontrol.com.
 mgmt.rent.	3600	in	ns	ns34.domaincontrol.com.
 mgp.rent.	3600	in	ns	dns9.linuxpl.com.
@@ -14093,6 +14087,8 @@ mos.rent.	3600	in	ns	ns10.ovh.ca.
 mos.rent.	3600	in	rrsig	DS 8 2 3600 20251006195412 20250906182412 45721 rent. aRMnN5IQjEvxufvrZLygXRZPR+KTp+GM91tgktH447g8905kgtSXnIHiOP/RRodRzKJutT6ohr3Wb22d9uvwd0GIiCRFAp0uBkFE17NYQyQIFnkxDYhFtRcf/6rG1StjsjXYfMo16gdm40d4uSiMpXQ5OnXTLDvQVrLYwiiSaHc=
 mosaic.rent.	3600	in	ns	ns77.domaincontrol.com.
 mosaic.rent.	3600	in	ns	ns78.domaincontrol.com.
+mostai.rent.	3600	in	ns	ns1.dyna-ns.net.
+mostai.rent.	3600	in	ns	ns2.dyna-ns.net.
 motchill.rent.	3600	in	ns	pola.ns.cloudflare.com.
 motchill.rent.	3600	in	ns	vasilii.ns.cloudflare.com.
 motel.rent.	3600	in	ns	ns1.afternic.com.
@@ -14172,6 +14168,8 @@ movetampa.rent.	3600	in	ns	ns-cloud-d4.googledomains.com.
 movi.rent.	3600	in	ns	dns.home.pl.
 movi.rent.	3600	in	ns	dns2.home.pl.
 movi.rent.	3600	in	ns	dns3.home.pl.
+movie4k.rent.	3600	in	ns	ns1.sedoparking.com.
+movie4k.rent.	3600	in	ns	ns2.sedoparking.com.
 movies.rent.	3600	in	ns	ns59.domaincontrol.com.
 movies.rent.	3600	in	ns	ns60.domaincontrol.com.
 movies4u.rent.	3600	in	ns	ns1.dns-parking.com.
@@ -14526,8 +14524,10 @@ n0w.rent.	3600	in	ns	ns31.domaincontrol.com.
 n0w.rent.	3600	in	ns	ns32.domaincontrol.com.
 n1.rent.	3600	in	ns	ns31.domaincontrol.com.
 n1.rent.	3600	in	ns	ns32.domaincontrol.com.
-n161asrukt1fcfo4lkbqhn6o8ljum9tm.rent.	900	in	nsec3	1 1 0 - N6P95H3HEDOEOBVESFVKQM6LPVGHBUK4 NS DS RRSIG
-n161asrukt1fcfo4lkbqhn6o8ljum9tm.rent.	900	in	rrsig	NSEC3 8 2 900 20250926082357 20250827065357 45721 rent. R9H4zXRLEAZlpaSi92XK9SbkxwtB6NpIvH7DeNJyQPLyXqADLjAgNFWW5lVvAmpxCKiYqhTVj6hXrGQ2eYalDSn5jE0TfOitOK02uP+IaDsbdvTxURBUmbud4f54WvVsx3p3p+lyShaJHYSedkSFCQdFgXbMsRnkwDaZbcEt9Qc=
+n161asrukt1fcfo4lkbqhn6o8ljum9tm.rent.	900	in	nsec3	1 1 0 - N1FLL3R5S60IR4F1VVUI6O79QQOUDA70 NS DS RRSIG
+n161asrukt1fcfo4lkbqhn6o8ljum9tm.rent.	900	in	rrsig	NSEC3 8 2 900 20251011102942 20250911085942 45721 rent. D/pTk36iIdNKBSRKk1Brp5XD4zMrbEsfnAC1H6388SGnrXjt120px/Wm650EPMGa9uF3qE+lVG6Zn2rdaVg5wTKJHYsV9Vzf2+kpbAhd+ZOWUPdfw9pkfZa5k2q4joPLzXwKFooGe74DDzs8QF8ej227hr1KhxknCQ9FsnqsDaA=
+n1fll3r5s60ir4f1vvui6o79qqouda70.rent.	900	in	nsec3	1 1 0 - N6P95H3HEDOEOBVESFVKQM6LPVGHBUK4 NS DS RRSIG
+n1fll3r5s60ir4f1vvui6o79qqouda70.rent.	900	in	rrsig	NSEC3 8 2 900 20251011102942 20250911085942 45721 rent. qcSwO+Ckfy3o+TQ7/FD81eKUxxvWQEQ8EpkK9ObzeheZYgDzH4myuGsCkprftyQzTWDv/kG/+0NFZDwrLMYgDnNZ0SM2aSqytHcQIrTozDkJsX59yxJygb991e7s4C/BqN1c2rjc7BN94E+IlWG6tj84/NiKLs3rDpIwe2t6xcI=
 n6p95h3hedoeobvesfvkqm6lpvghbuk4.rent.	900	in	nsec3	1 1 0 - NAD3QHA2TVQ0PKJV3UJP17CBJEPEL5FJ NS DS RRSIG
 n6p95h3hedoeobvesfvkqm6lpvghbuk4.rent.	900	in	rrsig	NSEC3 8 2 900 20251002093310 20250902080310 45721 rent. dY5ZH7w3d0MvAB+6eowJ93w5K4T1qa3W8Dknr9leyUYakUYbwZmFyIuBN0YX+s6RGucTzSoVkFwBmFzJNLtXY0Z8nt18h0GrSOiTEA6/ZNWZiTyhHCn+yu6pQrvPeHU5X6BiaUof3KsaNndAxHly73UFSdrpXai4SrMhaNM8blQ=
 n8n.rent.	3600	in	ns	ns75.domaincontrol.com.
@@ -14892,9 +14892,9 @@ nlt.rent.	3600	in	ns	dns2.registrar-servers.com.
 nm8r8t4s7t6tipvsa71rh6al3t6g6l1n.rent.	900	in	nsec3	1 1 0 - NNQP7N1JUQTLPE7UQ1OT7D0QSV9PKSEV NS DS RRSIG
 nm8r8t4s7t6tipvsa71rh6al3t6g6l1n.rent.	900	in	rrsig	NSEC3 8 2 900 20250926082456 20250827065456 45721 rent. DdhiwQsBu8C18llTU/ZNsmtBb5b3JPVjSL5s8pVQBcLgv1G9JJttG0foHn/iVzedVUaLV5i86VcGkbNDu86RIsR1f4wQ91P81U7bI6XVudbP5S2DFgqnU9Ppn886yAl8U3sdoSG2c50UZp34Bwu2SV7PGZ2xapCtW4339yMSMMc=
 nnqp7n1juqtlpe7uq1ot7d0qsv9pksev.rent.	900	in	nsec3	1 1 0 - NNRADC18EU6ET11ILJLNS7BMSRO4MUS2 NS DS RRSIG
-nnqp7n1juqtlpe7uq1ot7d0qsv9pksev.rent.	900	in	rrsig	NSEC3 8 2 900 20250914141652 20250815124652 45721 rent. p4/ts5iNtxnLh8nuaLi2xHYwlGdAAYu+TEmiu7zeCYftX58ZpQbT7q0KU/T385Bkapf5fpWmCVJBBrJE6g2ZnOf8ESgjmzQYtUnZcOHjtrX9UtMJjWi/hQO/6Ls6x26b6C5z7L7WRILmL9pO6Rs5m1oPXvZncvzndVquSCFDP7k=
+nnqp7n1juqtlpe7uq1ot7d0qsv9pksev.rent.	900	in	rrsig	NSEC3 8 2 900 20251011141652 20250911124652 45721 rent. CR/9O7uHbkd/LkDFiCGaZC8qBX99j6+i6bNl44gZNBKFzoEwyfuangWvDWTKwEQ213/2EBLjPbyxlRItKqQqP6wp1t6gQf7nPccbq5nYvB9QjO0H4VMKlJlmP52C3ZNr9sfmnX9OcLZ/a/wMcGbzqdFHrb7+ILqIiwJI96fCGhQ=
 nnradc18eu6et11iljlns7bmsro4mus2.rent.	900	in	nsec3	1 1 0 - NO7ISC901SDK3RQL0LOCMNP0HOB2JICT NS DS RRSIG
-nnradc18eu6et11iljlns7bmsro4mus2.rent.	900	in	rrsig	NSEC3 8 2 900 20250914141652 20250815124652 45721 rent. Q+EU4wI1HHY7CX6gnQIUVSS+A3GSS+PbMLUcyV8LXCAPzDN+LBGBZrwyG8ndMT3CTvKNIFbXKem0WwZdsEthFRlL5cVxw7xcJEgOYjXXkaYnhpf5pBjMaCqTbroIGYA4iWWKhLUZ4WyFXhU8SdhoHQDKkpdQG08LJzptXYMXdLw=
+nnradc18eu6et11iljlns7bmsro4mus2.rent.	900	in	rrsig	NSEC3 8 2 900 20251011141652 20250911124652 45721 rent. dS6Wa5iq8gFxfkLk/7gJEspzkHYOCoJ+i/tzPVZ6ep2ycrr7Yg74wA5JakHKe+Af9qgK2wyk7BiVw58jlIATOfsokzUuRhbDfWofiw7sg/hH4t+1DoAeZUK4JjDtwvNPzCTP+FZzKOE0NpsxjA97sYqzrsPlD+ByGUiXzSnkPlE=
 no7isc901sdk3rql0locmnp0hob2jict.rent.	900	in	nsec3	1 1 0 - NQ301MTS5HDE5JQR72102FQLSE1JBGAM NS DS RRSIG
 no7isc901sdk3rql0locmnp0hob2jict.rent.	900	in	rrsig	NSEC3 8 2 900 20250925092053 20250826075053 45721 rent. hkhTEIrt8sUD3wB2c3pKdZOX+BR+ke6GmrzW7B+Q7yCxOnnD558W7+STuuhDIc+v7eOzmgma+x/L5brZTvmaJkdIDIYcOjVdI8QG61A1JnyWCpB+/3UbXuIErGkZjpjgTg+WWeqU1AxVZSkb1hG4ERKIpvJAlcKh7O00x4Zmf+k=
 noblelift.rent.	3600	in	ns	ns1.spaceweb.ru.
@@ -14982,7 +14982,7 @@ noncur.rent.	3600	in	ns	curitiba.ns.porkbun.com.
 noncur.rent.	3600	in	ns	fortaleza.ns.porkbun.com.
 noncur.rent.	3600	in	ns	maceio.ns.porkbun.com.
 noncur.rent.	3600	in	ns	salvador.ns.porkbun.com.
-noncur.rent.	3600	in	rrsig	DS 8 2 3600 20250914201940 20250815184940 45721 rent. T/jnsWy5PYmc5gfD80+v/gIZG7KbOExA7/z+pEpxs0rjdMl3Umwpkm4gm7Q+2r1KXhB8aRDqPuSM8JsRRk7rXNjAKpahgKBAC+qIoG2W1H+zxr1vThGMo3TtS9TP7xuf473E4q0ORCXTQKetb5rCUCkXlSKRAcQh4UMoISvVT1g=
+noncur.rent.	3600	in	rrsig	DS 8 2 3600 20251011201940 20250911184940 45721 rent. JVV/rlmw3btZMCTHI3rCuoeiQWMj+2Byv26Eotl/5PMskV7D4kKjb9/tv9j2dvz/2T8Gxy2ENt+s9FEncgv52Vv1Lett3i1jvfrjwDoQ3iJeS/5+MsZjTARL255OzpwTe+H3z/QiHVwLp2DZ3NYPGCj1K/YbOeLlWfDOQB0T5XM=
 nonorm.rent.	3600	in	ns	ns51.domaincontrol.com.
 nonorm.rent.	3600	in	ns	ns52.domaincontrol.com.
 nonsolo.rent.	3600	in	ns	ns47.domaincontrol.com.
@@ -15376,8 +15376,6 @@ ok9.rent.	3600	in	ns	bill.ns.cloudflare.com.
 ok9.rent.	3600	in	ns	gracie.ns.cloudflare.com.
 ok996787.rent.	3600	in	ns	ns73.domaincontrol.com.
 ok996787.rent.	3600	in	ns	ns74.domaincontrol.com.
-ok9prs.rent.	3600	in	ns	ns29.domaincontrol.com.
-ok9prs.rent.	3600	in	ns	ns30.domaincontrol.com.
 okazjonalny.rent.	3600	in	ns	dns.home.pl.
 okazjonalny.rent.	3600	in	ns	dns2.home.pl.
 okazjonalny.rent.	3600	in	ns	dns3.home.pl.
@@ -15598,6 +15596,11 @@ ops.rent.	3600	in	ns	ns75.domaincontrol.com.
 ops.rent.	3600	in	ns	ns76.domaincontrol.com.
 opt.rent.	3600	in	ns	ns25.domaincontrol.com.
 opt.rent.	3600	in	ns	ns26.domaincontrol.com.
+opti.rent.	3600	in	ds	61935 13 2 52457292367B43D081D8E183A516BE4C9613052C38251A7928D5409D36A1FF5D
+opti.rent.	3600	in	ns	ns1.combell.eu.
+opti.rent.	3600	in	ns	ns3.combell.net.
+opti.rent.	3600	in	ns	ns4.combell.net.
+opti.rent.	3600	in	rrsig	DS 8 2 3600 20251011132539 20250911115539 45721 rent. MRHNurYUT7Jyve3rjIGhpkGEj914Y59l7V6Ovz23+RJdUpAsv6hIfYdBSx3oSNZjii0atD0AzNCL2aANk/TxzpCPDb5CxmR9u3RSVg6FZ9DzVrI5htmuVDmI5R5jCQKwnF9bc/w1Z5HttG82XsmKzIICtssEhJIGoXX6j+7Xnjo=
 optics.rent.	3600	in	ns	dns101.registrar-servers.com.
 optics.rent.	3600	in	ns	dns102.registrar-servers.com.
 optimize.rent.	3600	in	ds	9451 8 2 A964312EC039E3D31AB2A33632FD7EED0E22555F9DDAF772F5AF103C5D5CD95A
@@ -15806,6 +15809,8 @@ palaceplace.rent.	3600	in	ns	ns07.domaincontrol.com.
 palaceplace.rent.	3600	in	ns	ns08.domaincontrol.com.
 palawan.rent.	3600	in	ns	ns1.dns-parking.com.
 palawan.rent.	3600	in	ns	ns2.dns-parking.com.
+pali.rent.	3600	in	ns	ns37.domaincontrol.com.
+pali.rent.	3600	in	ns	ns38.domaincontrol.com.
 pallet.rent.	3600	in	ns	ns13.domaincontrol.com.
 pallet.rent.	3600	in	ns	ns14.domaincontrol.com.
 pallets.rent.	3600	in	ns	ns15.domaincontrol.com.
@@ -16329,8 +16334,6 @@ pixelperfectiondesigns.rent.	3600	in	ns	burt.ns.cloudflare.com.
 pixelperfectiondesigns.rent.	3600	in	ns	stephane.ns.cloudflare.com.
 pizza.rent.	3600	in	ns	ns1.afternic.com.
 pizza.rent.	3600	in	ns	ns2.afternic.com.
-pizzagone.rent.	3600	in	ns	cris.ns.cloudflare.com.
-pizzagone.rent.	3600	in	ns	nancy.ns.cloudflare.com.
 pizzapizza.rent.	3600	in	ns	ns51.domaincontrol.com.
 pizzapizza.rent.	3600	in	ns	ns52.domaincontrol.com.
 pjjihghilkfj.rent.	3600	in	ns	sc-a.sinkhole.shadowserver.org.
@@ -16359,7 +16362,7 @@ placesfor.rent.	3600	in	ns	ns1.ok-connect.com.
 placeto.rent.	3600	in	ds	2371 13 2 1D7A7B3CB47C6733F1CCF1F2B4734B848B0B7AFF3E2BE589E49D4E3F34B0928A
 placeto.rent.	3600	in	ns	harlan.ns.cloudflare.com.
 placeto.rent.	3600	in	ns	uma.ns.cloudflare.com.
-placeto.rent.	3600	in	rrsig	DS 8 2 3600 20250914111118 20250815094118 45721 rent. qcHQTKHpAVJz4860q1k1diqwtiVBp2YfiRmGA3bq+bb5JH5IZOt+5Mk1cLf7LBQS2gbp8Ofca8fW2Up1OfE3Whir9Oz9dT1uge/JTtfIt0F5RZrTSjQwgbKMkG+nw9/jACA7c/Oq8Si7qHDqTc4NNIzPGNlwcsV/WtDV/N89XUc=
+placeto.rent.	3600	in	rrsig	DS 8 2 3600 20251011111118 20250911094118 45721 rent. A5rnbvbxOlvihiQjwsSbT4XDA1LrjR65rC83I04Ht73YdERf8UH22yvrEUIwNFEVQuBWRp3aTjLkWmBF4B4lkF2PiiUmq8OiyPJbWu9dwD39zbi2liIzSeZTdF27lft6tFWYchFS20cXJtbDqpyOWsk4vnazPwy2MRRXxf+njNE=
 placidblue.rent.	3600	in	ns	ns41.domaincontrol.com.
 placidblue.rent.	3600	in	ns	ns42.domaincontrol.com.
 plan.rent.	3600	in	ns	ns1.afternic.com.
@@ -17259,6 +17262,10 @@ rakuten.rent.	3600	in	ns	nssui.comlaude.ch.
 rakuten.rent.	3600	in	ns	nsusa.comlaude.net.
 ralisdoa7re6gaorc1kufc780sfe3ibe.rent.	900	in	nsec3	1 1 0 - RD2GKD72MFUKSPG5HDNJ2CV8ICC8P8J7 NS DS RRSIG
 ralisdoa7re6gaorc1kufc780sfe3ibe.rent.	900	in	rrsig	NSEC3 8 2 900 20250926121738 20250827104738 45721 rent. BBBYdprYBBD1ldDM92j7sPlA+bhuRJLImkqVn28qnhImiVAjIl4AKELpsfLIHT7vCjGtyEMnT76B68S1pMyHiLVFFSMGMGEhHMy1wVv49l+93cpIYaYXMF9dowwFukgE9MgnLgIJDDSeF+lDA+8lip+rH5bCA5xHLkRc3b8l/Zs=
+rally.rent.	3600	in	ns	ns.gestiondecuenta.com.
+rally.rent.	3600	in	ns	ns2.gestiondecuenta.com.
+rally.rent.	3600	in	ns	ns3.gestiondecuenta.com.
+rally.rent.	3600	in	ns	ns4.gestiondecuenta.com.
 rallycar.rent.	3600	in	ns	ns1.reg.ru.
 rallycar.rent.	3600	in	ns	ns2.reg.ru.
 ramirent.rent.	3600	in	ns	ns27.domaincontrol.com.
@@ -17328,8 +17335,8 @@ rbi.rent.	3600	in	ns	ns4.nic.ru.
 rbi.rent.	3600	in	ns	ns8.nic.ru.
 rbs.rent.	3600	in	ns	ns1.reg.ru.
 rbs.rent.	3600	in	ns	ns2.reg.ru.
-rcb.rent.	3600	in	ns	dean.ns.cloudflare.com.
-rcb.rent.	3600	in	ns	joan.ns.cloudflare.com.
+rcb.rent.	3600	in	ns	dns101.registrar-servers.com.
+rcb.rent.	3600	in	ns	dns102.registrar-servers.com.
 rci.rent.	3600	in	ns	ns3.level3.net.
 rci.rent.	3600	in	ns	ns4.level3.net.
 rcm.rent.	3600	in	ns	ns67.domaincontrol.com.
@@ -17567,7 +17574,7 @@ rent.	3600	in	dnskey	257 3 8 AwEAAZPPsYIXg4ZP/eNDkFnKyiP+pEsVWi7sdp3/waEQMTopSvW
 rent.	3600	in	rrsig	DNSKEY 8 1 3600 20251009220938 20250909203938 51469 rent. JKnuZoe0X50p1cnUSsGpbmyy1ooErekv9u+Gs0oTuYLZNOWGMNNymywqUu7u8kHs0ItcS98u6FMnwahH/2lmb9ZYaMDf9jGHDG1OCnSV6FDEg2yH9X44i5vfDgG2zarJv7v9CvsOQhHKeI5A2qb05xvtQJRmXAYZhVC/6FLyRUXV376kia6kxka3hPPXFQsPTyrr8sgVF/cLYdedycZaSN5jTmcZZpXBYWbEz8EqEtYHgsHdoWF1bF5B1W1AYuHylaA/be6/yvGQtAXekQnByDoaoePYb7GWurkYZvr3lffJmMmV35Qo3QWqCFAkRPmTFMJzhCvUIzo4ZKCcNJ3AFg==
 rent.	900	in	nsec3param	1 0 0 -
 rent.	900	in	rrsig	NSEC3PARAM 8 1 900 20251009220938 20250909203938 45721 rent. l+pmqPiFTaIIEkrZj4CjoXzyOMhaXJDAyUZQHDc0aKmKYt/seFEWxfZ+3ER96vJnLJ0yj1dIGTACbtszl4OWMZujTZ9L38jqZmn/lL3v+lzVWiCbiv28zs+HCVNbI8bcJaqHHnNCFYD3uPOrc98t+FCf2FIDAUGM0Fejkd7CtSM=
-rent.	900	in	rrsig	SOA 8 1 900 20251011001234 20250910224234 45721 rent. okW/NOAuFuRlIN4JHurvP7KhQ3osW/ybzsG2R5h78TpxzGNzfhZnrqdDXab7AL4/o006v/OhQ7imHJbKZ4tE/GJ41Yu1RNsz9gi0VgJnaKsd8zWgylq8YT3QdJdI8KgXJ9rIFR98828SrbwimHb6KCe4KSOHPs3T1UdYDrhSVzk=
+rent.	900	in	rrsig	SOA 8 1 900 20251012001307 20250911224307 45721 rent. niW8mi6vs43veY+YLQhwvtQFX4OgJbx95sc91VNs8VSOu+42dou1Y0ylV0gyYcEdgQpzuyu5pLWoxyUd2Pipqh7Y7iZHbxfuIK3g8AiVKwA7fLhKrjkhdofK+hZRuhVvemlwvp2kZeCgJayGz3luI51APig6T8fa5r9dL6NObbo=
 rent.rent.	3600	in	ns	ns77.domaincontrol.com.
 rent.rent.	3600	in	ns	ns78.domaincontrol.com.
 rent4event.rent.	3600	in	ns	ns33.domaincontrol.com.
@@ -18851,7 +18858,7 @@ semitranspa.rent.	3600	in	ns	curitiba.ns.porkbun.com.
 semitranspa.rent.	3600	in	ns	fortaleza.ns.porkbun.com.
 semitranspa.rent.	3600	in	ns	maceio.ns.porkbun.com.
 semitranspa.rent.	3600	in	ns	salvador.ns.porkbun.com.
-semitranspa.rent.	3600	in	rrsig	DS 8 2 3600 20250914201940 20250815184940 45721 rent. Wbg7edDkb06glVQKrS4ykexICy0F84d+FhJIs9QJXrACr6Y+azPYbsVo/FBvCuDdH6eVvgCqIzyL323gLZli7pzV5lh9N0rh5oWTVLJoTbcO17Tj/Be1jl2MLAiYxK4q3pDcFRNL5Hht/yKG3ygStjNlYpi9a0SZr3J4oBaJUtA=
+semitranspa.rent.	3600	in	rrsig	DS 8 2 3600 20251011201940 20250911184940 45721 rent. nT/QofvT0cTiGu/+MH84DwH2rfH1dFhDyOsI9AZgEuFGdT0hCrgCkSIxCZNkEzLj2F7w1muiBB+HXV1vCiRnP1yG+gLa7FuaxPiYbWPdUyW4M77xuRgRjfgmB4hKPQCwIfGDKcl6KgehJXkojnzJFjCfbVeSyzevdCBdYht+FzQ=
 send.rent.	3600	in	ns	ns57.domaincontrol.com.
 send.rent.	3600	in	ns	ns58.domaincontrol.com.
 sender.rent.	3600	in	ns	ns07.domaincontrol.com.
@@ -20016,7 +20023,7 @@ stake.rent.	3600	in	ds	33423 13 2 500290FDE7BF7DD7C0BECC372F93D2B245DFB68C0DE94B
 stake.rent.	3600	in	ds	53428 13 2 D721DCF186AEDC54CCDEF353A0DD8257CFDB5835876A726F790DEE29646325A0
 stake.rent.	3600	in	ns	elias.ns.cloudflare.com.
 stake.rent.	3600	in	ns	simone.ns.cloudflare.com.
-stake.rent.	3600	in	rrsig	DS 8 2 3600 20250914040225 20250815023225 45721 rent. l3g81QGNM76Zdfln4wJjwGLAOoIO7eont2tiz5YVUkE6KRthfBmBDzCz3O5kjeQOIgKr50Fo0jtKfj7P6QkMKa0E/OebBPztAJ/DEjd3615DoU6LpaEtoph5k9+/7T+PgzpiXswy9O2K91VQq0Or6AOYWRjS5CvytYi/yTzAYU8=
+stake.rent.	3600	in	rrsig	DS 8 2 3600 20251011040225 20250911023225 45721 rent. HfffdokjTZ+MRCnQQLWWsl+kNY693O4C0BaRsKgldes6vo6RJ65xmRVJRvkXi8APq7cvsbqt4ftWKsgVVfUaL6bS+Bg/NCQ09R2FDzGnTHHc16mE7/IkhsFmJjh9eqGV4hbmTN91m7N0NKqQnW55nt0nDxkVgEWfBD5QOHaLpQ0=
 stake88.rent.	3600	in	ns	ns1.bhhdns.com.
 stake88.rent.	3600	in	ns	ns2.bhhdns.com.
 stall.rent.	3600	in	ns	ns1.atom.com.
@@ -22468,6 +22475,8 @@ vanture.rent.	3600	in	ds	770 13 2 8FD7500B9963D029B720A61B8892760D61E4AA907C80AF
 vanture.rent.	3600	in	ns	ns3.european-server.com.
 vanture.rent.	3600	in	ns	ns4.european-server.com.
 vanture.rent.	3600	in	rrsig	DS 8 2 3600 20251009231445 20250909214445 45721 rent. bcE4ic1HZox7plZoG5HQQNLvc3QDpHf45a8spVfcX7JKpZ1RiB5YD3levdwhjWTS8xLoCSO7j3Cri7Q5xFYNm/EVWotLDLHmltQItGAPZph7w5Uh2sUWIWx7vbWe3oV2NeoKDcqt/4NkLerQh89IdcLgfOxDiETAMdCa0bdIQB4=
+vanup.rent.	3600	in	ns	ns25.domaincontrol.com.
+vanup.rent.	3600	in	ns	ns26.domaincontrol.com.
 varicam.rent.	3600	in	ns	ns1.markmonitor.com.
 varicam.rent.	3600	in	ns	ns2.markmonitor.com.
 varicam.rent.	3600	in	ns	ns3.markmonitor.com.
@@ -23343,8 +23352,8 @@ wifi.rent.	3600	in	ns	ns2.afternic.com.
 wifi.rent.	3600	in	ns	verification-tsrs7rutxjrfehr4j7agch.ns101.verify.hn.
 wifi4.rent.	3600	in	ns	ns71.domaincontrol.com.
 wifi4.rent.	3600	in	ns	ns72.domaincontrol.com.
-wiki.rent.	3600	in	ns	dns27.hichina.com.
-wiki.rent.	3600	in	ns	dns28.hichina.com.
+wiki.rent.	3600	in	ns	expirens3.hichina.com.
+wiki.rent.	3600	in	ns	expirens4.hichina.com.
 wild.rent.	3600	in	ns	ns69.domaincontrol.com.
 wild.rent.	3600	in	ns	ns70.domaincontrol.com.
 wild88jackpot.rent.	3600	in	ns	kelly.ns.cloudflare.com.
@@ -23398,8 +23407,8 @@ winery.rent.	3600	in	ns	ns2.afternic.com.
 winery.rent.	3600	in	ns	verification-tsrs7rutxjrfehr4j7agch.ns101.verify.hn.
 wings.rent.	3600	in	ns	ns29.domaincontrol.com.
 wings.rent.	3600	in	ns	ns30.domaincontrol.com.
-winner.rent.	3600	in	ns	howard.ns.cloudflare.com.
-winner.rent.	3600	in	ns	stella.ns.cloudflare.com.
+winner.rent.	3600	in	ns	dns101.registrar-servers.com.
+winner.rent.	3600	in	ns	dns102.registrar-servers.com.
 winnergame.rent.	3600	in	ns	dns101.registrar-servers.com.
 winnergame.rent.	3600	in	ns	dns102.registrar-servers.com.
 winnipeg.rent.	3600	in	ns	dns1.registrar-servers.com.
@@ -23978,7 +23987,7 @@ yzw.rent.	3600	in	ns	dns9.hichina.com.
 z-lib.rent.	3600	in	ds	2371 13 2 09E73417532A59AF8357D6813AC8E70C0FE93DC536FC5C6ED0B9864A84CACBE7
 z-lib.rent.	3600	in	ns	elliot.ns.cloudflare.com.
 z-lib.rent.	3600	in	ns	gloria.ns.cloudflare.com.
-z-lib.rent.	3600	in	rrsig	DS 8 2 3600 20250914141652 20250815124652 45721 rent. I3aTgRawjLxbHpq+iMgGmfURosli+dHAQSMH2pQJOLt/atgpwIJ/VF9IMtJtR/MJ5b2qMg1afSP4wAPvA3X+nAqETusVLtjawNeprV5hH6E8I+BhL1pF6WTZAN6oYxnROVp1J7mqtOoFzszGxruH1Em3PjhYGVaAZRDwhPoa1Wc=
+z-lib.rent.	3600	in	rrsig	DS 8 2 3600 20251011141652 20250911124652 45721 rent. PJwWQkfMjr6lxZRHtVB2mHluk5G2/YIVjYP1JVosyoB7Lw2h8OaOoxLTV/3rrZTIjnrFhTh2ghXTOd2oxryGaz7KC3i/zTPYRSCJewZXTFXbmnq+JR2oZRy/N4AiF20fQStVnRdsYhBBkmFk0rLht+PWBuhGmaFouhJH4hXBdis=
 zaberdeals.rent.	3600	in	ns	albert.ns.cloudflare.com.
 zaberdeals.rent.	3600	in	ns	meadow.ns.cloudflare.com.
 zackarybrothers.rent.	3600	in	ns	ns71.domaincontrol.com.
@@ -24142,4 +24151,4 @@ zymma.rent.	3600	in	ns	ns1.cyon.ch.
 zymma.rent.	3600	in	ns	ns2.cyon.ch.
 zyn.rent.	3600	in	ns	ns1.sedoparking.com.
 zyn.rent.	3600	in	ns	ns2.sedoparking.com.
-rent.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000356417 900 1800 6048000 3600
+rent.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000356456 900 1800 6048000 3600
