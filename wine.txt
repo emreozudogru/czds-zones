@@ -1,4 +1,4 @@
-wine.	3600	in	soa	v0n0.nic.wine. hostmaster.donuts.email. 1757553307 7200 900 1209600 3600
+wine.	3600	in	soa	v0n0.nic.wine. hostmaster.donuts.email. 1757640148 7200 900 1209600 3600
 0.wine.	3600	in	ns	ns1.afternic.com.
 0.wine.	3600	in	ns	ns2.afternic.com.
 00.wine.	3600	in	ns	ns1.afternic.com.
@@ -467,10 +467,8 @@ wine.	3600	in	soa	v0n0.nic.wine. hostmaster.donuts.email. 1757553307 7200 900 12
 2hills.wine.	3600	in	ns	nsd9.schlundtech.de.
 2hqanolted5o23lqnsr7vrk0b0du13db.wine.	3600	in	nsec3	1 1 0 73 2I09P5O2E9AMS27R5OP7T9JLEA4AGKAK NS DS RRSIG
 2hqanolted5o23lqnsr7vrk0b0du13db.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. l9lsdFoIvQXM0K05JPLYNQS4qP5/k/YHp3NgD99xJOTS4740TsrxdLx+yR4z2GIZRYxb+4xjUsu4LojGjL+4MI2ElPEYBq0xE8ONb5VVFCg4+4hCyPmTJ2Ji3REPLMcNub3h9wSL1Ewp75JZ3rh1yaJWK5kQjSkTaKbAjvEYaXY=
-2i09p5o2e9ams27r5op7t9jlea4agkak.wine.	3600	in	nsec3	1 1 0 73 2I1VVQA4AI18TEAOACTJUQD5IAR7TR25 NS DS RRSIG
-2i09p5o2e9ams27r5op7t9jlea4agkak.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. mPslzGXdjF1Hr6StXhcVu7TcI8maz2ehzaHlD6ZsTXv6WDzC8pNucXZCSDotooZAMJTnPEvr1qJuGGAvMnSEQsjDt8rqm/l1i79RZXaYKisOt6Py3NxicE9/ERUlNZZ2VfSEjd2dMDRgqdQvmhLqaaN414I7AN63qSGDhTsESu8=
-2i1vvqa4ai18teaoactjuqd5iar7tr25.wine.	3600	in	nsec3	1 1 0 73 2JIGLM5ASMK9MTT163FU54P0S6QD330G NS DS RRSIG
-2i1vvqa4ai18teaoactjuqd5iar7tr25.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. Bxcqye2OpH3p3NhQ2t3uoJE1fu9Fx0eF8UE5j+ZRxD620A7xK9kPlTYpfdnuv7+P59jTjwCNYsUTxbDWGTtorxhBRTbiuN4RslwXA4sHXnA21dC5zWPmzSZHOohtaCn9W3akKbRakvguTrN6+HZ7+iy/ntQmYXWMKgDjgZH6iW0=
+2i09p5o2e9ams27r5op7t9jlea4agkak.wine.	3600	in	nsec3	1 1 0 73 2JIGLM5ASMK9MTT163FU54P0S6QD330G NS DS RRSIG
+2i09p5o2e9ams27r5op7t9jlea4agkak.wine.	3600	in	rrsig	NSEC3 8 2 3600 20251002124704 20250911114704 61524 wine. fREJ7QGa1sPzHpGd1i8rrtBEMuQyHkMDEl2lKJbTyZ3+8sdiCjBrPMagKmpW3GVsMODlj1OBuNyd7jnH+j4U47RY6AMGxNE8mLK0Z0k4O3mPbub8TEbREvGQjKi0eg7N0WDeyeSsxvPli4PyoeviNzo3u/R5kHhyV+lXz5hlXec=
 2jiglm5asmk9mtt163fu54p0s6qd330g.wine.	3600	in	nsec3	1 1 0 73 2JT72H6GQ6C460K3FNGBGEESLLTN0R7N NS DS RRSIG
 2jiglm5asmk9mtt163fu54p0s6qd330g.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. o76QXegOm4ZJdtzQ6dcYdb//9lFsNBoPXA01x5mZIHn5T9DnAZ742cXt2izIfGW86bdWiROZVj7ewGzQ5DGx29oDLAsSHM4Kgak7IcQY9S4H1gcTdx9b0/5RKxnVq8yHmLOI0uM68JegVkLsfGNghTHx4SeAEhRSZJzn4EGhthA=
 2jt72h6gq6c460k3fngbgeeslltn0r7n.wine.	3600	in	nsec3	1 1 0 73 2KAGRD3ELPKICIC7V1DLPG22FBN0FMRE NS DS RRSIG
@@ -1238,6 +1236,10 @@ wine.	3600	in	soa	v0n0.nic.wine. hostmaster.donuts.email. 1757553307 7200 900 12
 8888.wine.	3600	in	ns	ns2.afternic.com.
 888b.wine.	3600	in	ns	beth.ns.cloudflare.com.
 888b.wine.	3600	in	ns	huxley.ns.cloudflare.com.
+88aa.wine.	3600	in	ds	40537 13 2 FF45C702CC0D6CF62C35806333502501A600ECD4D9A834C00240742F91C756EB
+88aa.wine.	3600	in	ns	launch1.spaceship.net.
+88aa.wine.	3600	in	ns	launch2.spaceship.net.
+88aa.wine.	3600	in	rrsig	DS 8 2 3600 20251002024459 20250911014459 61524 wine. RWg21aYZ7iKNGB9Z/DAIRorX9O38Bm8igb91oiwOu8cirA1yOm0J0TP1fxg4qnPJ15vuDQxTf431k0wXg06WUVLSJqK/Il0T3ryx8SwRGn6rg4EngG1zaVMU4A4roU/54knSvssgKJRRX507Rw7WCh22XzjMxJpzI2y6MYbdRvU=
 88clb.wine.	3600	in	ns	dns101.registrar-servers.com.
 88clb.wine.	3600	in	ns	dns102.registrar-servers.com.
 88coclo5eag4jf8huqe2b340q2465f9e.wine.	3600	in	nsec3	1 1 0 73 88VHUIG053IT6UUFKSA0FP8IVOCN34H7 NS DS RRSIG
@@ -2676,8 +2678,8 @@ amusee.wine.	3600	in	ns	ns53.domaincontrol.com.
 amusee.wine.	3600	in	ns	ns54.domaincontrol.com.
 amv.wine.	3600	in	ns	ns63.domaincontrol.com.
 amv.wine.	3600	in	ns	ns64.domaincontrol.com.
-amy.wine.	3600	in	ns	ns1.bodis.com.
-amy.wine.	3600	in	ns	ns2.bodis.com.
+amy.wine.	3600	in	ns	ns1.dns-redirect.com.
+amy.wine.	3600	in	ns	ns2.dns-redirect.com.
 an2.wine.	3600	in	ns	ns.weiserver.net.
 an2.wine.	3600	in	ns	ns1.weiserver.net.
 an2.wine.	3600	in	ns	ns2.weiserver.net.
@@ -3295,10 +3297,8 @@ arno.wine.	3600	in	ds	3686 8 2 16BC34D8F6F8802D7C99F15ED4CD9453EE320ED1726203569
 arno.wine.	3600	in	ns	dns12.ovh.net.
 arno.wine.	3600	in	ns	ns12.ovh.net.
 arno.wine.	3600	in	rrsig	DS 8 2 3600 20250930160952 20250909150952 61524 wine. HeNEiNgZ7aG1eBRp2dTC9uE4gQuQRA54V/YqJxL5VtrRpPOSYfoJ+WSCX60fo6hMVxyhiaRaD++w4cZeCsgWGwAMIwS2iVfGfdC6G8L8oDM37DtwACLiCBw5awlvg3vNAQ6WBxTiEt1yKbBTSQi8Bj48kWsZ2ckF1KcmktIAXJE=
-arnoux.wine.	3600	in	ds	45074 8 2 6B5864FCEE652B58052B5206C8CE406898E1117CEFEFD5FB137BA9060DBE9350
 arnoux.wine.	3600	in	ns	dns17.ovh.net.
 arnoux.wine.	3600	in	ns	ns17.ovh.net.
-arnoux.wine.	3600	in	rrsig	DS 8 2 3600 20250930160952 20250909150952 61524 wine. JrbhFpiUb7m6zjzoBgs4wUxKSeykvSeX32cAbg5cM0alI1G3xjysrP5oUWBmnEc+pFg7Ij7CmQpVxhL8eT63ezRSkcuKzs2SD95WQvxLEFWmIMeA0LGr80L0dbCS4p1epkydEaFDKCueORygdPMdIwQqFELITMYGZJH56SdhfGo=
 aroma.wine.	3600	in	ns	ns-de.1and1-dns.biz.
 aroma.wine.	3600	in	ns	ns-de.1and1-dns.com.
 aroma.wine.	3600	in	ns	ns-de.1and1-dns.de.
@@ -4293,8 +4293,6 @@ bandit923.wine.	3600	in	ns	ns35.domaincontrol.com.
 bandit923.wine.	3600	in	ns	ns36.domaincontrol.com.
 banff.wine.	3600	in	ns	ns1.dns-parking.com.
 banff.wine.	3600	in	ns	ns2.dns-parking.com.
-banfi.wine.	3600	in	ns	tmp.nscluster.eu.
-banfi.wine.	3600	in	ns	tmp.nscluster.us.
 bangalore.wine.	3600	in	ns	ns1.daaz.org.
 bangalore.wine.	3600	in	ns	ns2.daaz.org.
 bangersonly.wine.	3600	in	ns	ns1dns.name.com.
@@ -4505,6 +4503,10 @@ barton-guestier.wine.	3600	in	ds	54671 8 2 5D7B048C19A4F22700F3F069F3D552F8C90A3
 barton-guestier.wine.	3600	in	ns	dns18.ovh.net.
 barton-guestier.wine.	3600	in	ns	ns18.ovh.net.
 barton-guestier.wine.	3600	in	rrsig	DS 8 2 3600 20250930160952 20250909150952 61524 wine. C7oFWcrsjcHeWkhDinK9VctQRMqYmrb7Exz2ZPIZrF7aYDEOibiWm54VsTZ0PenfJvMhNsXJKG7xgRLnFxirzmk0Rc7fLE5YawAwF+8HW+cqtGLlyTb78Rj4szAsGRW7JdA10CLdcEhz1uWgiAAhmv9oUkEJRkd2DcjpIRzVAXw=
+barton.wine.	3600	in	ns	ns.dns1.co.za.
+barton.wine.	3600	in	ns	ns.dns2.co.za.
+barton.wine.	3600	in	ns	ns.otherdns.com.
+barton.wine.	3600	in	ns	ns.otherdns.net.
 bartonguestier.wine.	3600	in	ds	52226 8 2 DF2E3F4121E5D0EB3F7F6D08D5528EE249D73F05367777D450AF94F4CBA3CD57
 bartonguestier.wine.	3600	in	ns	dns18.ovh.net.
 bartonguestier.wine.	3600	in	ns	ns18.ovh.net.
@@ -11631,8 +11633,6 @@ crouch.wine.	3600	in	ns	ns77.domaincontrol.com.
 crouch.wine.	3600	in	ns	ns78.domaincontrol.com.
 crouchvalley.wine.	3600	in	ns	ns0.lcn.com.
 crouchvalley.wine.	3600	in	ns	ns1.lcn.com.
-crowandcork.wine.	3600	in	ns	ns01.domaincontrol.com.
-crowandcork.wine.	3600	in	ns	ns02.domaincontrol.com.
 crowd.wine.	3600	in	ds	7774 8 2 C6A0C5FEACFC5E856028DF648F5580C1FF41449B56837D5CA79039B8E9E73A8F
 crowd.wine.	3600	in	ns	ns-cloud-e1.googledomains.com.
 crowd.wine.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -12312,8 +12312,9 @@ davisfamilyestate.wine.	3600	in	ns	ns07.domaincontrol.com.
 davisfamilyestate.wine.	3600	in	ns	ns08.domaincontrol.com.
 davisfamilyestates.wine.	3600	in	ns	ns07.domaincontrol.com.
 davisfamilyestates.wine.	3600	in	ns	ns08.domaincontrol.com.
-davydov.wine.	3600	in	ns	dnsproxy1.fm.nic.ru.
-davydov.wine.	3600	in	ns	dnsproxy2.fm.nic.ru.
+davydov.wine.	3600	in	ns	ns3.nic.ru.
+davydov.wine.	3600	in	ns	ns4.nic.ru.
+davydov.wine.	3600	in	ns	ns8.nic.ru.
 dawningwoods.wine.	3600	in	ns	docks20.rzone.de.
 dawningwoods.wine.	3600	in	ns	shades18.rzone.de.
 day.wine.	3600	in	ns	ns5.afternic.com.
@@ -13151,12 +13152,14 @@ dixon.wine.	3600	in	ns	curitiba.ns.porkbun.com.
 dixon.wine.	3600	in	ns	fortaleza.ns.porkbun.com.
 dixon.wine.	3600	in	ns	maceio.ns.porkbun.com.
 dixon.wine.	3600	in	ns	salvador.ns.porkbun.com.
-dj0lrr5eoijsd65koenha0d0qqqn3s7r.wine.	3600	in	nsec3	1 1 0 73 DLVRBMP4HKUAE1FR1GK92G4HO7AEKJES NS DS RRSIG
-dj0lrr5eoijsd65koenha0d0qqqn3s7r.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. bJzU4zDgEdiUNev9WMAdYt50pBLz1NTmoD11uN+8zEiV39u4M4VlmyWIzEJCjBAhlxfTsA81OFxJ9ENtyG7ihKrjxAP3bVbzzXs8wMHw0A+cPAhGxUBGCNzmR4o5XN6OZUftbcLUBgVRNM5UGfX/HZGiFmthT/KyNUN4SaWBzWQ=
+dj0lrr5eoijsd65koenha0d0qqqn3s7r.wine.	3600	in	nsec3	1 1 0 73 DKKK1A0VB5VKN8SBOM8NURI32IUPCBBI NS DS RRSIG
+dj0lrr5eoijsd65koenha0d0qqqn3s7r.wine.	3600	in	rrsig	NSEC3 8 2 3600 20251002035853 20250911025853 61524 wine. ej9ZikwhviBuDA1Ehuy0GsC+4qDbpwySPh8swILVr1rHYQ/V/izc2Yws+r0EnBf90M3j+KF/Lcf1ImVopAo+5PE9HkSejhUDsZivN2HdTVlGk6QMmdvrKrNubvnpFUVhYVAyMEkuwNblcRpXYLshDqr7U9c9XesjlCTtwsSQJrQ=
 djarumtoto.wine.	3600	in	ns	dns1.registrar-servers.com.
 djarumtoto.wine.	3600	in	ns	dns2.registrar-servers.com.
 djuce.wine.	3600	in	ns	ns1.hover.com.
 djuce.wine.	3600	in	ns	ns2.hover.com.
+dkkk1a0vb5vkn8sbom8nuri32iupcbbi.wine.	3600	in	nsec3	1 1 0 73 DLVRBMP4HKUAE1FR1GK92G4HO7AEKJES NS DS RRSIG
+dkkk1a0vb5vkn8sbom8nuri32iupcbbi.wine.	3600	in	rrsig	NSEC3 8 2 3600 20251002035853 20250911025853 61524 wine. KYiyz5uBPDpe8hQMJL/f1a4AX9l/Pzva0/zWdd3Hq7A0D8INfWQ0FySDjINtJNOoFigUtLiVbxv1Ky7UT//62Xj4JizcrifyvR0++EyyhM5et7P+Wo8fKdyNzRWcbtcxcHPQ2IORPLlGDCyN7YxR95NRheRU4wBGlhlO5k7+CxM=
 dlvrbmp4hkuae1fr1gk92g4ho7aekjes.wine.	3600	in	nsec3	1 1 0 73 DMPGK6MQMM4TFK92RL4NR1QDI0CEF97K NS DS RRSIG
 dlvrbmp4hkuae1fr1gk92g4ho7aekjes.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. SgI74mQQTFNdbNXOdd21S8xSoGJMk28Qeopg4iTYAcEJSBURw8IU2h4nX+PVFXQAbUHiNDioikWt/xlEjuikR8UFfnlbt9YQJ3Bes41GQvS/pepKw5Q5fRl+uaa0BcBAen8IDgo5ZiNBa+oKLLDmSUs/Piy1CaBF2ENjH/3dDng=
 dmag.wine.	3600	in	ns	ns-cloud-b1.googledomains.com.
@@ -14529,8 +14532,6 @@ echt5v0smsskq1ejq8avdsuqvgpte45g.wine.	3600	in	nsec3	1 1 0 73 ECJ5EG34GBOI19PLAH
 echt5v0smsskq1ejq8avdsuqvgpte45g.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. Vx93qws7Pml8iXnYWLSCJou9xNMp0uwtzyluMVHT+t8vt0ZFozLBmLTYfyQV/DbwSvo0ikFsl4/5HWUAv/8RSK89Y1gCxKGSx4brIy62DBI0AXIayaG267Uq9+AS7/BD0wKVhkR95QVEQ+hyL6GCQjfAju/k2nksZU7e5nuSLhg=
 ecj5eg34gboi19plahsfetn97gov7elq.wine.	3600	in	nsec3	1 1 0 73 ED7U30LRLK2HE62NJ962MRGOTS8AHSD5 NS DS RRSIG
 ecj5eg34gboi19plahsfetn97gov7elq.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. jN0nolPS/g+vVbBjJLNVy6ouLsFy7o+pGDQAOiWAzPEPdZ75syHeEPXwB/00rHPh9QOkP52HhbSor0K6WaDXm92rmrZ5rePMvGKYrNJj00uhqg5vIgmgHAfV0lvmQu3fjwrKUuT49Ot3cIAvUhtCSpHNJudww+iO1w6+wzB2+ek=
-eclectic.wine.	3600	in	ns	ns1.afternic.com.
-eclectic.wine.	3600	in	ns	ns2.afternic.com.
 eclipse.wine.	3600	in	ns	dns1.registrar-servers.com.
 eclipse.wine.	3600	in	ns	dns2.registrar-servers.com.
 ecological.wine.	3600	in	ds	53985 15 2 4D02F0107E49D8E9B4DAF5615266EFA5AF4A73DFEDE4E2B2020691E5838247EF
@@ -14712,7 +14713,7 @@ eiselevineyard.wine.	3600	in	ns	ns10.domaincontrol.com.
 ejchurch.wine.	3600	in	ns	ns59.domaincontrol.com.
 ejchurch.wine.	3600	in	ns	ns60.domaincontrol.com.
 ejee9tna8gvt6l5iathn6asuetdonbkb.wine.	3600	in	nsec3	1 1 0 73 ELP2M0HEIT27FG834CCSR6INIPBKQOMC NS SOA RRSIG DNSKEY NSEC3PARAM
-ejee9tna8gvt6l5iathn6asuetdonbkb.wine.	3600	in	rrsig	NSEC3 8 2 3600 20251002012035 20250911002035 61524 wine. h70ypYLQYBihktyH5lrNZBP3Y34652hJUR132Foc5lXY34PKDmLzev1CRT1nd0NxJOqm4ZrfYAPqR3Qqvs3Gr4t8BF1JWaczWNE+DAt+ZB3QAUjZ5TkJwd0q0U+w15tYFoewvARq3l9JOkh0S06TvieMF/Ghd9T2SKszQ3mluwk=
+ejee9tna8gvt6l5iathn6asuetdonbkb.wine.	3600	in	rrsig	NSEC3 8 2 3600 20251003012758 20250912002758 61524 wine. dffYu7l5YC9YAnGPhJeHiiwTqafuBQCs4CVQdarBviZZt7Sle/39oiJTgwhW+jSrYD++XRS09iwwMsD3ps9e6hL2mSaJD9ApJ27EkBTj8SDXg5sLTY9kTxHJzHwqP1gGoW/W3huBVqk82skUT1jxlG6pqLkfnp41MMjvbPfIYFk=
 ejm.wine.	3600	in	ns	dns1.p06.nsone.net.
 ejm.wine.	3600	in	ns	dns2.p06.nsone.net.
 ejm.wine.	3600	in	ns	dns3.p06.nsone.net.
@@ -15821,8 +15822,6 @@ exic.wine.	3600	in	ns	ns1045.ui-dns.de.
 exic.wine.	3600	in	ns	ns1066.ui-dns.org.
 exic.wine.	3600	in	ns	ns1072.ui-dns.biz.
 exic.wine.	3600	in	ns	ns1086.ui-dns.com.
-exotic.wine.	3600	in	ns	dns101.registrar-servers.com.
-exotic.wine.	3600	in	ns	dns102.registrar-servers.com.
 exp.wine.	3600	in	ns	dns1.registrar-servers.com.
 exp.wine.	3600	in	ns	dns2.registrar-servers.com.
 expat.wine.	3600	in	ns	joan.ns.cloudflare.com.
@@ -16009,6 +16008,8 @@ fairhaven.wine.	3600	in	ns	ns54.domaincontrol.com.
 fairhills.wine.	3600	in	ns	ns1.lexsynergy.net.
 fairhills.wine.	3600	in	ns	ns2.lexsynergy.us.
 fairhills.wine.	3600	in	ns	ns3.lexsynergy.info.
+fairplay.wine.	3600	in	ns	ns47.domaincontrol.com.
+fairplay.wine.	3600	in	ns	ns48.domaincontrol.com.
 fairway.wine.	3600	in	ns	ns43.domaincontrol.com.
 fairway.wine.	3600	in	ns	ns44.domaincontrol.com.
 fairy.wine.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -16109,6 +16110,8 @@ famillesack.wine.	3600	in	ds	32780 8 2 02204D3D38952CECC109519073054BD1F86729E0B
 famillesack.wine.	3600	in	ns	dns19.ovh.net.
 famillesack.wine.	3600	in	ns	ns19.ovh.net.
 famillesack.wine.	3600	in	rrsig	DS 8 2 3600 20250930160952 20250909150952 61524 wine. CFqXUX8lMG5X0rYM17VaVhe2RU1C2Ik9XFCfWmCEwOkhiA6VFY94VMV8wJhhkphH1SygT5G54Nh5OvQDCnVG+53xcxQWwsivhWNswkMs/BiCG5N1P2b69sgHv2Eo9Dw8guNhOlRioru1uStDZNzb4OS8AdVszoDx1TlEVvrUJBs=
+family.wine.	3600	in	ns	ns1.dns-redirect.com.
+family.wine.	3600	in	ns	ns2.dns-redirect.com.
 familytree.wine.	3600	in	ns	ns13.domaincontrol.com.
 familytree.wine.	3600	in	ns	ns14.domaincontrol.com.
 famouslastwords.wine.	3600	in	ns	ns69.domaincontrol.com.
@@ -17988,8 +17991,8 @@ gastropara.wine.	3600	in	ns	ns7.worldnic.com.
 gastropara.wine.	3600	in	ns	ns8.worldnic.com.
 gatao.wine.	3600	in	ns	ns1.amenworld.com.
 gatao.wine.	3600	in	ns	ns2.amenworld.com.
-gatch.wine.	3600	in	ns	ns1.bodis.com.
-gatch.wine.	3600	in	ns	ns2.bodis.com.
+gatch.wine.	3600	in	ns	ns1.dns-redirect.com.
+gatch.wine.	3600	in	ns	ns2.dns-redirect.com.
 gatekeeper.wine.	3600	in	ns	ns6.wixdns.net.
 gatekeeper.wine.	3600	in	ns	ns7.wixdns.net.
 gateway.wine.	3600	in	ns	pdns07.domaincontrol.com.
@@ -18036,14 +18039,12 @@ gcab06mfk088iro6kh6sc86gr16qo89m.wine.	3600	in	rrsig	NSEC3 8 2 3600 202509301609
 gce.wine.	3600	in	ns	ns01.trademarkarea.com.
 gce.wine.	3600	in	ns	ns02.trademarkarea.com.
 gce.wine.	3600	in	ns	ns03.trademarkarea.com.
-gcrm3gb78ainguj870fd9842aj4d3v9e.wine.	3600	in	nsec3	1 1 0 73 GDDOEAFFA32MC0P3DE1AVVVEUD0L4P5A NS DS RRSIG
-gcrm3gb78ainguj870fd9842aj4d3v9e.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. PIGh+7RGB77nopRyeALwf/jOEuCaqRC4FeW1wo/qL6PzBqA9iZbI3Mcl1UqSivBQQa4gSjARyQePhMh04JITT9cEg1smnTGjRpDrXMMxwslPY+8ahGCjyktHz7AGsxVdquArfz/pDXTLNG3Ck/rO4bgMVJQeLHmOjo7aZYctrT0=
+gcrm3gb78ainguj870fd9842aj4d3v9e.wine.	3600	in	nsec3	1 1 0 73 GEDOE14970L10OLOHTJ9BMSUC9L26A2O NS DS RRSIG
+gcrm3gb78ainguj870fd9842aj4d3v9e.wine.	3600	in	rrsig	NSEC3 8 2 3600 20251002104026 20250911094026 61524 wine. c5dOwGfNdonWoK8IFWaJHlFeKbpZCpdxHqf3I8ot2Q7x9Nl7AVJpL2lPgknScBhHaRA+5+NFCJhTUFx70byIiJb3RfIW39SKFCrA7OFaRdksRMIqeZ2WfXovYbHor+I/lzKN+3AmD3sK3NPpc2TTFh/l3h5wIUw2+SqZPOrBJzg=
 gday.wine.	3600	in	ns	ns-cloud-b1.googledomains.com.
 gday.wine.	3600	in	ns	ns-cloud-b2.googledomains.com.
 gday.wine.	3600	in	ns	ns-cloud-b3.googledomains.com.
 gday.wine.	3600	in	ns	ns-cloud-b4.googledomains.com.
-gddoeaffa32mc0p3de1avvveud0l4p5a.wine.	3600	in	nsec3	1 1 0 73 GEDOE14970L10OLOHTJ9BMSUC9L26A2O NS DS RRSIG
-gddoeaffa32mc0p3de1avvveud0l4p5a.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. Eo0k+anu+MCZyzQWCjOINj+gYaz/p6Ya1Iis8fcTonV0B3QmZF7ZxRBewQIR0PNazDqxbMxmWYIbCH7UUJcr5uWQaV4aNjap1zNpUoR3DgAVXTezY7NKvD0g008qRHpXOqfZrfHMKn7XHZPMalGCJQFwFwdKALT41S9CmnqL0DY=
 gdo.wine.	3600	in	ns	ns1.o2switch.net.
 gdo.wine.	3600	in	ns	ns2.o2switch.net.
 ge.wine.	3600	in	ns	dns1.registrar-servers.com.
@@ -18789,6 +18790,10 @@ gp0c797c5lbivoj0k47du413a91moo55.wine.	3600	in	nsec3	1 1 0 73 GPA93BS65CIJMMG7IR
 gp0c797c5lbivoj0k47du413a91moo55.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. Da9hVy1jtHje8XPYaXhsgBvxB1RMnMHVZoQiSZqcfmZ3zsVV0nbS2IoXIu9WDoZTYSO8ePxT+0IfnUe+tdyQFEJide8qUrjCJvcAhB6jjQR020dt1FeoTlWmtsHjZyNCSeer+MsrTQ1oDMMqx8/aTm5HVjkGBdUbZpnlGOrpzGk=
 gpa93bs65cijmmg7ir16vc75damcc3u2.wine.	3600	in	nsec3	1 1 0 73 GPUNN72QGKAQHSLDUSVJQO67COK1ESC0 NS DS RRSIG
 gpa93bs65cijmmg7ir16vc75damcc3u2.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. iYTGzKg8+OOJWePtZseeZuykzGx3limeY7jmrvzw9Dtshy4oucfttnqVCuvDLiV3VMTl8m7cJbmEQ4hb8r7jrqV3V5x/4jKkgY9DGi45c9Kz4WvfaKviPJQcg767pJXrmnjs+J5Urs2EkQoz85LHdAtf8fTYrk7d9tQg3hrVXtQ=
+gps.wine.	3600	in	ds	16555 13 2 C98AF6F8695C7BD5C24E4D9BA2A10B4DBECC6A53DA4C33EA7D252A2AE57F5151
+gps.wine.	3600	in	ns	launch1.spaceship.net.
+gps.wine.	3600	in	ns	launch2.spaceship.net.
+gps.wine.	3600	in	rrsig	DS 8 2 3600 20251002035853 20250911025853 61524 wine. bXQHp8Mvbqqg1S2lYRhFFf0GFBU1qvaAjS8Eg/hQiHS+lSOPdRmUSTn/if5UV3ks4GOH+h7KM6U1zGsVlO/azzUd7ev1x8nZJeY4e8oNrtNdiFf7rAJ3GZI0nU5p3z4NAzszevba2xdf6Q5gGRRSA5S6ULf29q940h5CExxRFcs=
 gpunn72qgkaqhsldusvjqo67cok1esc0.wine.	3600	in	nsec3	1 1 0 73 GQIVH3I7DJ5LRR3HHQINE08TC0DFE7R5 NS DS RRSIG
 gpunn72qgkaqhsldusvjqo67cok1esc0.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. ZouuGmykKzkKvDr7PiQcO0YcbsPHULpHyqufG4UmIRo5wbZek8Ns9H6RkmTolx7wsI6ZKTByTcvtDkDfm31DhNfKx+Wps+KMiCKc3tsc2jMJc2UyZL1+PnsoHOaRM6lzU6HB42UACwVgaHV+fegtAEO13Mz0Qxu2oa63xUaWP2w=
 gqivh3i7dj5lrr3hhqine08tc0dfe7r5.wine.	3600	in	nsec3	1 1 0 73 GS1PKG31O0DC9S5MJ5CME6PBJM6OAF64 NS DS RRSIG
@@ -19942,8 +19947,8 @@ hdh.wine.	3600	in	ns	ns77.domaincontrol.com.
 hdh.wine.	3600	in	ns	ns78.domaincontrol.com.
 hdhub4u.wine.	3600	in	ns	paislee.ns.cloudflare.com.
 hdhub4u.wine.	3600	in	ns	robert.ns.cloudflare.com.
-hdmovie2.wine.	3600	in	ns	ns1.bodis.com.
-hdmovie2.wine.	3600	in	ns	ns2.bodis.com.
+hdmovie2.wine.	3600	in	ns	ns1.dns-redirect.com.
+hdmovie2.wine.	3600	in	ns	ns2.dns-redirect.com.
 hdmovieshub.wine.	3600	in	ns	braden.ns.cloudflare.com.
 hdmovieshub.wine.	3600	in	ns	nelly.ns.cloudflare.com.
 he.wine.	3600	in	ns	ns13.domaincontrol.com.
@@ -22528,10 +22533,10 @@ judging.wine.	3600	in	ns	ns3dty.name.com.
 judging.wine.	3600	in	ns	ns4fqz.name.com.
 judgment.wine.	3600	in	ns	ns63.domaincontrol.com.
 judgment.wine.	3600	in	ns	ns64.domaincontrol.com.
-judy.wine.	3600	in	ns	dns1.registrar-servers.com.
-judy.wine.	3600	in	ns	dns2.registrar-servers.com.
-judytlv.wine.	3600	in	ns	dns1.registrar-servers.com.
-judytlv.wine.	3600	in	ns	dns2.registrar-servers.com.
+judy.wine.	3600	in	ns	dns101.registrar-servers.com.
+judy.wine.	3600	in	ns	dns102.registrar-servers.com.
+judytlv.wine.	3600	in	ns	dns101.registrar-servers.com.
+judytlv.wine.	3600	in	ns	dns102.registrar-servers.com.
 juggernaut.wine.	3600	in	ns	pdns11.domaincontrol.com.
 juggernaut.wine.	3600	in	ns	pdns12.domaincontrol.com.
 jugoclub.wine.	3600	in	ns	ns07.domaincontrol.com.
@@ -25038,8 +25043,8 @@ lfeast.wine.	3600	in	ns	hope.ns.cloudflare.com.
 lfeast.wine.	3600	in	ns	nash.ns.cloudflare.com.
 lfg.wine.	3600	in	ns	ns63.domaincontrol.com.
 lfg.wine.	3600	in	ns	ns64.domaincontrol.com.
-lft1ph751qtsukru35bhr0ectr5ivuve.wine.	3600	in	nsec3	1 1 0 73 LH74PKCEC4OLHQ6CF102MG73Q8HSVJEV NS DS RRSIG
-lft1ph751qtsukru35bhr0ectr5ivuve.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. M8cNUjUFuvCChqcrZmdG8B7yWWTKdUhc4abz6lyoPmf0KGEWsa/sJIhgzEn6kzAeR4GueTE+kMboBz/JzGf8lFe6dR2pm3dZPJ7ZRXGhONRHgHwt4M5MHeH519IUufP2AiSzsdkBlVDQBYVx6nIWYg0crT+EtAZBRD2WU8GKc/U=
+lft1ph751qtsukru35bhr0ectr5ivuve.wine.	3600	in	nsec3	1 1 0 73 LGMS7IB9049PA61LCVSVFLL842MR6CFG NS DS RRSIG
+lft1ph751qtsukru35bhr0ectr5ivuve.wine.	3600	in	rrsig	NSEC3 8 2 3600 20251002024459 20250911014459 61524 wine. HgTL8vfstOvJ+BYrbNnfD61T/kKEC0rG9PPtSO86JlFPOIz/KokRTtgC90VaQuGECq8NgfpWGCpySvgHw6Y71tW3t2HH5yUXgq/2Kf7QfV1ungHeDdQIWw11MXVUlQ0jdDkWc97jcLlv2W3nqtlJPHtEB3u6GOSYxHtDSBfcbns=
 lfv.wine.	3600	in	ns	ns47.domaincontrol.com.
 lfv.wine.	3600	in	ns	ns48.domaincontrol.com.
 lfwinery.wine.	3600	in	ns	dns105.register.com.
@@ -25048,6 +25053,8 @@ lgiwines.wine.	3600	in	ds	20150 8 2 CDB89AE605B689FBBF76A2E2B958FE28C8FBB78355B2
 lgiwines.wine.	3600	in	ns	dns15.ovh.net.
 lgiwines.wine.	3600	in	ns	ns15.ovh.net.
 lgiwines.wine.	3600	in	rrsig	DS 8 2 3600 20250930160952 20250909150952 61524 wine. IZ5KBAq2t0jGmM0WW8CBfjHWRYeuPtVZkSVzSwGj5VkMFayfa80NzYe5Dres4mvVd2fboDdd75axCJv1Bb9Ue9NBvF1v4FIOYYsv8BY6bcBMi0OTt0LaPSTao6FU3u3JA9uBVTj9yaGnfG9dAHNBIJ2uc75LFa7TbypR5LUO1P0=
+lgms7ib9049pa61lcvsvfll842mr6cfg.wine.	3600	in	nsec3	1 1 0 73 LH74PKCEC4OLHQ6CF102MG73Q8HSVJEV NS DS RRSIG
+lgms7ib9049pa61lcvsvfll842mr6cfg.wine.	3600	in	rrsig	NSEC3 8 2 3600 20251002024459 20250911014459 61524 wine. K0t/C4DsznolZtPXhsobiRaRBLQEfS0l9EesDv888LuxdbJgkuFfGp+3q8nMOnb7wrWdwu1edI9YODqqzYPQIMwrX7PvrzVB1iXe7QPs/el9NUXdE2LCTI6mMHcpT1VOta4tN5nLnZunmZOf0dK5UY729g3goMg5g3oiP/lnuVc=
 lgmsrl.wine.	3600	in	ns	dns.technorail.com.
 lgmsrl.wine.	3600	in	ns	dns2.technorail.com.
 lgmsrl.wine.	3600	in	ns	dns3.arubadns.net.
@@ -25815,8 +25822,8 @@ loyaltothesoil.wine.	3600	in	ns	ns-cloud-d4.googledomains.com.
 loza.wine.	3600	in	ns	ns.megagroup.ru.
 loza.wine.	3600	in	ns	ns1.megagroup.ru.
 loza.wine.	3600	in	ns	ns2.megagroup.ru.
-lozan.wine.	3600	in	ns	dns1.registrar-servers.com.
-lozan.wine.	3600	in	ns	dns2.registrar-servers.com.
+lozan.wine.	3600	in	ns	dns101.registrar-servers.com.
+lozan.wine.	3600	in	ns	dns102.registrar-servers.com.
 lp650gos9ll0rvur0sc6aov8lkm08069.wine.	3600	in	nsec3	1 1 0 73 LRCUPVMSVD4R6P3OVOF56QEM91FR2A90 NS DS RRSIG
 lp650gos9ll0rvur0sc6aov8lkm08069.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. ggUFSzu0kdcmvaT6TDYz3FxNLOSlHUwURnvM+mpHXknVdFW2A1WUvpVIHG76pTfO6dijQQUtO1G8LjTQYO3czpCGN1YdXQGilbXbqN5kyx38O9zQ+090kLSQYmTuBIxbSJ5dEWpsCeqpFwB/xJA0rFfQGcT0/TaarhCbDCfDRxU=
 lph.wine.	3600	in	ns	ns1.siteground.net.
@@ -27542,8 +27549,6 @@ mexculturexp.wine.	3600	in	ns	ns25.domaincontrol.com.
 mexculturexp.wine.	3600	in	ns	ns26.domaincontrol.com.
 mexican.wine.	3600	in	ns	ns59.domaincontrol.com.
 mexican.wine.	3600	in	ns	ns60.domaincontrol.com.
-meyers.wine.	3600	in	ns	dns101.registrar-servers.com.
-meyers.wine.	3600	in	ns	dns102.registrar-servers.com.
 meyron.wine.	3600	in	ns	ns1.hosting.reg.ru.
 meyron.wine.	3600	in	ns	ns2.hosting.reg.ru.
 mezyb.wine.	3600	in	ns	ns3.nic.ru.
@@ -30674,8 +30679,8 @@ oep9bubfqrtp00qvb713fq4lcb7v498q.wine.	3600	in	nsec3	1 1 0 73 OFT5NE16TCCEMJON2E
 oep9bubfqrtp00qvb713fq4lcb7v498q.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. YBVOdm0aStJjawqLPU034iakdiDSAM4d9wRVcgdplXUjrFNkweMBC+w7LhH0EvvP+MWmsIPQRZ5Qdin4jPgRKaKDWuQLIgz7JlRowt/WSACrxe4/a8D7Dn18gDHi7/7YpjBD+IycjlmUtBbo6gvW+OIJK8kxewz28lZ5DSTvSPM=
 oesse.wine.	3600	in	ns	dns.widhost.net.
 oesse.wine.	3600	in	ns	dns2.widhost.net.
-oesterreich.wine.	3600	in	ns	ns1.bodis.com.
-oesterreich.wine.	3600	in	ns	ns2.bodis.com.
+oesterreich.wine.	3600	in	ns	ns1.dns-redirect.com.
+oesterreich.wine.	3600	in	ns	ns2.dns-redirect.com.
 of.wine.	3600	in	ns	ns1hwy.name.com.
 of.wine.	3600	in	ns	ns2bkr.name.com.
 of.wine.	3600	in	ns	ns3cpr.name.com.
@@ -33941,6 +33946,8 @@ proteafinancial.wine.	3600	in	ns	ns55.domaincontrol.com.
 proteafinancial.wine.	3600	in	ns	ns56.domaincontrol.com.
 protector.wine.	3600	in	ns	ns25.domaincontrol.com.
 protector.wine.	3600	in	ns	ns26.domaincontrol.com.
+protein.wine.	3600	in	ns	ns25.domaincontrol.com.
+protein.wine.	3600	in	ns	ns26.domaincontrol.com.
 protos.wine.	3600	in	ns	dns1.interdominios.com.
 protos.wine.	3600	in	ns	dns2.interdominios.com.
 provenance.wine.	3600	in	ns	ns23.domaincontrol.com.
@@ -35317,10 +35324,8 @@ reve-de-vin.wine.	3600	in	ns	ns4.xserver.jp.
 reve-de-vin.wine.	3600	in	ns	ns5.xserver.jp.
 reveal.wine.	3600	in	ns	ns01.cashparking.com.
 reveal.wine.	3600	in	ns	ns02.cashparking.com.
-revelation.wine.	3600	in	ns	ns1.panthur.com.
-revelation.wine.	3600	in	ns	ns2.panthur.com.
-revelation.wine.	3600	in	ns	ns3.panthur.com.
-revelation.wine.	3600	in	ns	ns4.panthur.com.
+revelation.wine.	3600	in	ns	alexandra.ns.cloudflare.com.
+revelation.wine.	3600	in	ns	kyle.ns.cloudflare.com.
 revelette.wine.	3600	in	ds	706 8 2 3E6F1C3106C98379D9D11AE1AF8DC0080515FC86085699D3FDE0FF01B87C1F38
 revelette.wine.	3600	in	ns	dns16.ovh.net.
 revelette.wine.	3600	in	ns	ns16.ovh.net.
@@ -36954,8 +36959,8 @@ saudade.wine.	3600	in	ns	ns-cloud-d1.googledomains.com.
 saudade.wine.	3600	in	ns	ns-cloud-d2.googledomains.com.
 saudade.wine.	3600	in	ns	ns-cloud-d3.googledomains.com.
 saudade.wine.	3600	in	ns	ns-cloud-d4.googledomains.com.
-saudi.wine.	3600	in	ns	ns1.afternic.com.
-saudi.wine.	3600	in	ns	ns2.afternic.com.
+saudi.wine.	3600	in	ns	ns1.dyna-ns.net.
+saudi.wine.	3600	in	ns	ns2.dyna-ns.net.
 sausalito.wine.	3600	in	ns	curitiba.ns.porkbun.com.
 sausalito.wine.	3600	in	ns	fortaleza.ns.porkbun.com.
 sausalito.wine.	3600	in	ns	maceio.ns.porkbun.com.
@@ -39439,6 +39444,8 @@ sportbet.wine.	3600	in	ns	dns1.registrar-servers.com.
 sportbet.wine.	3600	in	ns	dns2.registrar-servers.com.
 sportila.wine.	3600	in	ns	dns1.registrar-servers.com.
 sportila.wine.	3600	in	ns	dns2.registrar-servers.com.
+sportnews.wine.	3600	in	ns	ns1.dns-redirect.com.
+sportnews.wine.	3600	in	ns	ns2.dns-redirect.com.
 sports.wine.	3600	in	ns	dns1.namecheaphosting.com.
 sports.wine.	3600	in	ns	dns2.namecheaphosting.com.
 sports2022game.wine.	3600	in	ns	nero.ns.cloudflare.com.
@@ -39455,8 +39462,6 @@ sporttok.wine.	3600	in	ns	chuck.ns.cloudflare.com.
 sporttok.wine.	3600	in	ns	natasha.ns.cloudflare.com.
 sportydad.wine.	3600	in	ns	dns1.registrar-servers.com.
 sportydad.wine.	3600	in	ns	dns2.registrar-servers.com.
-sportyupdates25.wine.	3600	in	ns	dns101.registrar-servers.com.
-sportyupdates25.wine.	3600	in	ns	dns102.registrar-servers.com.
 sportzone.wine.	3600	in	ns	ns3.films.org.
 sportzone.wine.	3600	in	ns	ns4.films.org.
 spottedowl.wine.	3600	in	ns	ns71.domaincontrol.com.
@@ -40484,6 +40489,9 @@ sybarita.wine.	3600	in	ns	ns1.dns-parking.com.
 sybarita.wine.	3600	in	ns	ns2.dns-parking.com.
 syber.wine.	3600	in	ns	dns1.registrar-servers.com.
 syber.wine.	3600	in	ns	dns2.registrar-servers.com.
+syfany.wine.	3600	in	ns	ns.forpsi.cz.
+syfany.wine.	3600	in	ns	ns.forpsi.it.
+syfany.wine.	3600	in	ns	ns.forpsi.net.
 sylvan.wine.	3600	in	ns	ns43.domaincontrol.com.
 sylvan.wine.	3600	in	ns	ns44.domaincontrol.com.
 sylvester.wine.	3600	in	ns	ns1.dns-redirect.com.
@@ -41469,8 +41477,8 @@ tgaqs8ll4oi40kta01rgi7ld2ird2jql.wine.	3600	in	nsec3	1 1 0 73 TH63LUI5EAU5GP1F3D
 tgaqs8ll4oi40kta01rgi7ld2ird2jql.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. Z1AuAhbyQYfRJlQE3talRTBgAr8wAzZPNYYIrU92zMya3Gs8oyZm5anhd8D0j1/AY3TH6exljIqM5zbrq3GJ8ta8ViqQehHyriGWMQtXxUMmabUxhtC2iIwckxj7uQWCKLL1cINjuW29GYftCccN+8UGVziHxDj7AV8PBrtjKF8=
 th63lui5eau5gp1f3dlpfk29a4nd958p.wine.	3600	in	nsec3	1 1 0 73 TIK1VN4P3VRBI4MQD1DEOLGGOSUF5UAB NS DS RRSIG
 th63lui5eau5gp1f3dlpfk29a4nd958p.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. mgrtM217nvCHKidIdaIQxqhWWVcJsdLGTMsxrqNb9c3rS/3U1llC+Wr3oDI0iZ1RjJZU3LFmL2IeY1u6pIGKEJoF26/YuZSCdXVhYDMBM2xoERDpF7An1kA1HvQxhQaNkLUqHSwY38OIl959VR7docXwKmsH2Bl3ZPn2eio3Gqg=
-thabet.wine.	3600	in	ns	ainsley.ns.cloudflare.com.
-thabet.wine.	3600	in	ns	jihoon.ns.cloudflare.com.
+thabet.wine.	3600	in	ns	dns101.registrar-servers.com.
+thabet.wine.	3600	in	ns	dns102.registrar-servers.com.
 thai.wine.	3600	in	ns	curitiba.ns.porkbun.com.
 thai.wine.	3600	in	ns	fortaleza.ns.porkbun.com.
 thai.wine.	3600	in	ns	maceio.ns.porkbun.com.
@@ -43510,8 +43518,8 @@ u8qqig3dio4epcbuvjj221vs191grvmj.wine.	3600	in	nsec3	1 1 0 73 UAII9273Q9K0MJNO10
 u8qqig3dio4epcbuvjj221vs191grvmj.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. ikVBUnokaIlyRFzYapQKnHcYTYo6jzG4UvIuJJcP2BWjbxpv2jgveItQxNxBtSnrt/cXRzOTWM2PnroB/sG6Riq1M2xz77dUOeaAYadmA+T7mNt7zH3OEzSyAEIhZ3STjNzzMK/xzl0xAV/JxqXiMeg2JpIQ6Tk8F+pauiTKG/w=
 ua.wine.	3600	in	ns	statuspage1.nic.ru.
 ua.wine.	3600	in	ns	statuspage2.nic.ru.
-uae.wine.	3600	in	ns	ns3.afternic.com.
-uae.wine.	3600	in	ns	ns4.afternic.com.
+uae.wine.	3600	in	ns	ns67.domaincontrol.com.
+uae.wine.	3600	in	ns	ns68.domaincontrol.com.
 uai.wine.	3600	in	ns	ns71.domaincontrol.com.
 uai.wine.	3600	in	ns	ns72.domaincontrol.com.
 uaii9273q9k0mjno10uj33h9k6m17imb.wine.	3600	in	nsec3	1 1 0 73 UCRTU8BLNC4PJ41RRDSV5GHM33QJE4LL NS DS RRSIG
@@ -44307,8 +44315,8 @@ vdp.wine.	3600	in	ns	ns4.eurodns.com.
 vdv.wine.	3600	in	ns	ns.abdns.biz.
 vdv.wine.	3600	in	ns	ns.abdns.eu.
 vdv.wine.	3600	in	ns	ns.abdns.info.
-veda.wine.	3600	in	ns	ns1.bodis.com.
-veda.wine.	3600	in	ns	ns2.bodis.com.
+veda.wine.	3600	in	ns	ns1.dns-redirect.com.
+veda.wine.	3600	in	ns	ns2.dns-redirect.com.
 vedentiasema.wine.	3600	in	ns	ns1037.ui-dns.org.
 vedentiasema.wine.	3600	in	ns	ns1063.ui-dns.de.
 vedentiasema.wine.	3600	in	ns	ns1076.ui-dns.biz.
@@ -45506,10 +45514,8 @@ vinoq.wine.	3600	in	ns	ns1.svdns.net.
 vinoq.wine.	3600	in	ns	ns2.svdns.net.
 vinoq.wine.	3600	in	ns	ns3.svdns.eu.
 vinoq.wine.	3600	in	ns	ns4.svdns.eu.
-vinora.wine.	3600	in	ds	44861 8 2 C318C6C475031628BDEC81A6D27E84076C7912F71A433737E88B778D675862FD
 vinora.wine.	3600	in	ns	dns16.ovh.net.
 vinora.wine.	3600	in	ns	ns16.ovh.net.
-vinora.wine.	3600	in	rrsig	DS 8 2 3600 20250930160952 20250909150952 61524 wine. ghhDrhzzuqBVNbS8B/RV9Lvy2OurTd/oY+Xh6KnOTHAnFXGItDeWspqM3ipTlUxJQ//MO8VDKRiLxzH85vmFheXbHJrXQZ+fBuE8gzqDlSbMnfDHCRnbiqjkZM7zuHkObS/ywOakAr08nCRWroQjUk/C7wFnWQCWw/TbNDlYcBI=
 vinorama.wine.	3600	in	ns	ns.woergl.at.
 vinorama.wine.	3600	in	ns	ns2.woergl.at.
 vinorichmond.wine.	3600	in	ns	dns1.p08.nsone.net.
@@ -46282,8 +46288,8 @@ vse.wine.	3600	in	ns	ns1.dreamhost.com.
 vse.wine.	3600	in	ns	ns2.dreamhost.com.
 vsf.wine.	3600	in	ns	ns4.wixdns.net.
 vsf.wine.	3600	in	ns	ns5.wixdns.net.
-vsport.wine.	3600	in	ns	lovisa.ns.cloudflare.com.
-vsport.wine.	3600	in	ns	mark.ns.cloudflare.com.
+vsport.wine.	3600	in	ns	ns31.domaincontrol.com.
+vsport.wine.	3600	in	ns	ns32.domaincontrol.com.
 vsqppf6kmqkkl7mrl77s0jkin7lq5dbr.wine.	3600	in	nsec3	1 1 0 73 VTLNBDNIHTHD9FMAAQBQLP578DQ32TSR NS DS RRSIG
 vsqppf6kmqkkl7mrl77s0jkin7lq5dbr.wine.	3600	in	rrsig	NSEC3 8 2 3600 20250930160952 20250909150952 61524 wine. KrPKPiTizMUF14hEisCgyYr6hP4IlHxEAI17a+G2POvxyOhh2eSnd8Bq70kl4qL2pc+l8wjH1sOxafOzotbUvIvli+T6KB5C3EKh6zuOtTatx1qs9bvw+8PiUcPnt4TgeHxDng4YVP1FOAbsdeNuLutKwoSnjoEyD7lBDivGCR4=
 vtlnbdnihthd9fmaaqbqlp578dq32tsr.wine.	3600	in	nsec3	1 1 0 73 VUBGT0E3URFP05CA7NOI5A3ENC92HLA2 NS DS RRSIG
@@ -46332,8 +46338,8 @@ vyne.wine.	3600	in	ns	ns43.domaincontrol.com.
 vyne.wine.	3600	in	ns	ns44.domaincontrol.com.
 vyno.wine.	3600	in	ns	ns59.domaincontrol.com.
 vyno.wine.	3600	in	ns	ns60.domaincontrol.com.
-vz99.wine.	3600	in	ns	ainsley.ns.cloudflare.com.
-vz99.wine.	3600	in	ns	evan.ns.cloudflare.com.
+vz99.wine.	3600	in	ns	ns47.domaincontrol.com.
+vz99.wine.	3600	in	ns	ns48.domaincontrol.com.
 w.wine.	3600	in	ns	curitiba.ns.porkbun.com.
 w.wine.	3600	in	ns	fortaleza.ns.porkbun.com.
 w.wine.	3600	in	ns	maceio.ns.porkbun.com.
@@ -47338,7 +47344,7 @@ wine.	3600	in	nsec3param	1 0 0 73
 wine.	3600	in	rrsig	DNSKEY 8 1 3600 20250930160952 20250909150952 4210 wine. HwO3c8jMll+PFZS4mU0CG8oFEdBeCB8pdKoLNqCCrSRO7l7CKI2ER5Yt46OFnaij7KlrAo8eDcaoED6eoAOXYGnQcTCK/MSAHz/ZuDfmmraPq2tJuHj47sMnqspQh2aL+k8x9WzJyM0f7eqEslE2SVmp+E/O3R3ENcqCOGeHK+F5O5QO03PGXk6T5gZykkcs/G/5KKxaldWKgNy8YXTgbL0R5TEQ15AxlUwu4ge7O/ZzUejHWPmwNojqfZJAUp+gJKROAxPuc/k/+hEX/deM1thQpXADfZ8E8UFOp+W98MxunF95LwL+9LXC00WCTupYuPlnNSeNlNRF4cOEVwB/jg==
 wine.	3600	in	rrsig	NS 8 1 3600 20250930160952 20250909150952 61524 wine. DEXj/tVjQ6ZJQE1rFqhtlACe2vLhnQDm4yS/3xQ0ed8jYbmg5qPI6FWlBxiuRrGvw3ZbAFCoCW3nAvAv+F/ef6KQrq41HHq+EfXGGSloJSLMtuv0qzfFTtDfBeXIeUr/UfYl7uN8JiEGhABWo9cwgsVvWbvxs76NPoSdiSDK9NM=
 wine.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930160952 20250909150952 61524 wine. cJoXBSgAbxPZ3iRBTXb21JcNPWbmviqVoyqUJePigWFJrXvodBiy5GXWwd0TLNgexYxXjj/QSYQV+/FhPXH0ouMHwrGCsSN+zZ0q/RZbtrbWRCbXLnZtzGWmp4upxJD8ts2pnmA5bUrqW5vGNZbuSUmqv2k2qel0EkPPtsWv1/k=
-wine.	3600	in	rrsig	SOA 8 1 3600 20251002012035 20250911002035 61524 wine. S4fZv3EmpFD7cMFuoca/PWsHxmuetfMeh/wrCyIQhL7ooT5ecQpMjjNyFX2Y1E0AVDeGH52VjZerw/0UC1S3UOqhQGgVUzp5H3VbCTXZnTpPCVF/F2wyLnQpgQ3qYmR/0r2l7XlcnhVtfJszhPpk+CWxXIIIQUm8XnyxU4ymvf0=
+wine.	3600	in	rrsig	SOA 8 1 3600 20251003012758 20250912002758 61524 wine. NhRjbGmtrDAyL4xrkrdhrTvkATeLRzZ2vAqm6rnySE9RZT4QUZIKquNoGGrgBqID8w549HtdSGvQGe8XKzSq4SKiXcJk6LEGPbG24Sx1w6hVi/c36ORuPLZb9XlVRpMiFEKZDIWdwmboomHBMFDwaW1VOKahBu3ySE60yIFrmu0=
 wine.wine.	3600	in	ns	ns1.dyna-ns.net.
 wine.wine.	3600	in	ns	ns2.dyna-ns.net.
 wine101.wine.	3600	in	ds	2371 13 2 1842C1395D401E33FCF3382E0BEA72D0AA3AB1FC1B053AFBEF04285818B631BA
@@ -48042,8 +48048,8 @@ wir-sind-die-geilsten.wine.	3600	in	ns	docks03.rzone.de.
 wir-sind-die-geilsten.wine.	3600	in	ns	shades07.rzone.de.
 wiredbeans.wine.	3600	in	ns	dns1.onamae.com.
 wiredbeans.wine.	3600	in	ns	dns2.onamae.com.
-wireless.wine.	3600	in	ns	ns1.bodis.com.
-wireless.wine.	3600	in	ns	ns2.bodis.com.
+wireless.wine.	3600	in	ns	ns1.dns-redirect.com.
+wireless.wine.	3600	in	ns	ns2.dns-redirect.com.
 wirsinddiegeilsten.wine.	3600	in	ns	docks10.rzone.de.
 wirsinddiegeilsten.wine.	3600	in	ns	shades05.rzone.de.
 wisco.wine.	3600	in	ns	1-you.njalla.no.
@@ -48463,8 +48469,9 @@ ximenez-spinola.wine.	3600	in	ns	parking1.neodigit.net.
 ximenez-spinola.wine.	3600	in	ns	parking2.neodigit.net.
 ximenezspinola.wine.	3600	in	ns	parking1.neodigit.net.
 ximenezspinola.wine.	3600	in	ns	parking2.neodigit.net.
-xin88.wine.	3600	in	ns	bradley.ns.cloudflare.com.
-xin88.wine.	3600	in	ns	gina.ns.cloudflare.com.
+xin88.wine.	3600	in	ns	ns1.dnsowl.com.
+xin88.wine.	3600	in	ns	ns2.dnsowl.com.
+xin88.wine.	3600	in	ns	ns3.dnsowl.com.
 xinjiang.wine.	3600	in	ns	ns25.domaincontrol.com.
 xinjiang.wine.	3600	in	ns	ns26.domaincontrol.com.
 xiraz.wine.	3600	in	ns	a.ns14.net.
@@ -49208,4 +49215,4 @@ zz.wine.	3600	in	ns	ns4.epik.com.
 zz.wine.	3600	in	rrsig	DS 8 2 3600 20250930160952 20250909150952 61524 wine. VQLlRlP7Taq5mcGC/eAnTjIgGdwdljJD2uAP7bl10c128xF8cHhpNOGBnq6JF6FlJIKvhVk1WrP5jAfi6rMCNg0J9Whtb3sBwW1A8aPxElayiqYEqTLOp1+cTpamucrnBvgp7B3JNtiUO56OyClbXtftOUtgtLGBGzcqW6E63s4=
 zzyzx.wine.	3600	in	ns	ns45.domaincontrol.com.
 zzyzx.wine.	3600	in	ns	ns46.domaincontrol.com.
-wine.	3600	in	soa	v0n0.nic.wine. hostmaster.donuts.email. 1757553307 7200 900 1209600 3600
+wine.	3600	in	soa	v0n0.nic.wine. hostmaster.donuts.email. 1757640148 7200 900 1209600 3600
