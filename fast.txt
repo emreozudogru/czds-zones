@@ -1,12 +1,23 @@
-fast.	172800	in	soa	dns1.nic.fast. hostmaster.nominet.org.uk. 1757489901 900 300 2419200 60
+fast.	172800	in	soa	dns1.nic.fast. hostmaster.nominet.org.uk. 1757620401 900 300 2419200 60
 1800flowers.fast.	172800	in	ns	dns1.cscdns.net.
 1800flowers.fast.	172800	in	ns	dns2.cscdns.net.
+1xbet.fast.	172800	in	ns	dns1.safenames.com.
+1xbet.fast.	172800	in	ns	dns2.safenames.net.
+1xbet.fast.	172800	in	ns	dns3.safenames.org.
 5fohnkr36c46pbvfmkmoufp98apj6j74.fast.	60	in	nsec3	1 1 0 - CMHQB3U3D5U1NM3GDNMM7G1QOG87RPJ0 NS SOA RRSIG DNSKEY NSEC3PARAM TYPE65534
 5fohnkr36c46pbvfmkmoufp98apj6j74.fast.	60	in	rrsig	NSEC3 8 2 60 20251015062450 20250910061655 45928 fast. msrG+a0HRjVHc2OlSwmjMk1T8o7hvBaT6eRD5xMq41kZS1bBiAT699Qtn1E5dXqQnjeD9vsY1Ue0MCMFedjsqaeXsdLmDcCvX7J+Id48EA+YDf2L5wAuZxfyLz4OKj3KP3BP5l7tq0F+988252xtXWUdtnHXw0Ov3gFN1xBXnK3koK9C2BKRzIzcjUoYGCzDisRLCukqeoyl9i1/yZayCFpZTb5GqPuBPAGmnozL59FCQeGHKBqnVfpsT9ZZ9KHKHKTtPHw4APxSkbIDQV8SjJjU9OVMfmpzfjLofZFSyj8ehV+cdPsZv7fWVFNbpbcyiHZB1t2NksULkh6cm6Fg7Q==
+alphabet.fast.	172800	in	ns	ns1.googledomains.com.
+alphabet.fast.	172800	in	ns	ns2.googledomains.com.
+alphabet.fast.	172800	in	ns	ns3.googledomains.com.
+alphabet.fast.	172800	in	ns	ns4.googledomains.com.
 amazon.fast.	172800	in	ns	dns1.comlaude-dns.com.
 amazon.fast.	172800	in	ns	dns2.comlaude-dns.net.
 amazon.fast.	172800	in	ns	dns3.comlaude-dns.co.uk.
 amazon.fast.	172800	in	ns	dns4.comlaude-dns.eu.
+android.fast.	172800	in	ns	ns1.googledomains.com.
+android.fast.	172800	in	ns	ns2.googledomains.com.
+android.fast.	172800	in	ns	ns3.googledomains.com.
+android.fast.	172800	in	ns	ns4.googledomains.com.
 anthropic.fast.	172800	in	ns	ns1.markmonitor.com.
 anthropic.fast.	172800	in	ns	ns2.markmonitor.com.
 anthropic.fast.	172800	in	ns	ns3.markmonitor.com.
@@ -32,6 +43,9 @@ aws.fast.	172800	in	ns	dns1.comlaude-dns.com.
 aws.fast.	172800	in	ns	dns2.comlaude-dns.net.
 aws.fast.	172800	in	ns	dns3.comlaude-dns.co.uk.
 aws.fast.	172800	in	ns	dns4.comlaude-dns.eu.
+biomerieux.fast.	172800	in	ns	ns01.eolas.fr.
+biomerieux.fast.	172800	in	ns	ns02.eolas.fr.
+biomerieux.fast.	172800	in	ns	ns03.eolas-dns.eu.
 bloomberg.fast.	172800	in	ns	dns1.p01.nsone.net.
 bloomberg.fast.	172800	in	ns	dns2.p01.nsone.net.
 bloomberg.fast.	172800	in	ns	dns3.p01.nsone.net.
@@ -50,6 +64,10 @@ broadcom.fast.	172800	in	ns	ns96.ultradns2.org.
 canva.fast.	172800	in	ns	dns1.safenames.com.
 canva.fast.	172800	in	ns	dns2.safenames.net.
 canva.fast.	172800	in	ns	dns3.safenames.org.
+chrome.fast.	172800	in	ns	ns1.googledomains.com.
+chrome.fast.	172800	in	ns	ns2.googledomains.com.
+chrome.fast.	172800	in	ns	ns3.googledomains.com.
+chrome.fast.	172800	in	ns	ns4.googledomains.com.
 claude.fast.	172800	in	ns	ns1.markmonitor.com.
 claude.fast.	172800	in	ns	ns2.markmonitor.com.
 claude.fast.	172800	in	ns	ns3.markmonitor.com.
@@ -105,7 +123,7 @@ fast.	172800	in	ns	dnsb.nic.fast.
 fast.	172800	in	ns	dnsc.nic.fast.
 fast.	172800	in	ns	dnsd.nic.fast.
 fast.	172800	in	rrsig	NS 8 1 172800 20251015000628 20250909231734 45928 fast. uJX2kUh0jp4jZ45X1GGLFmIxwPZY9pdBG6Kbgf21wYFE7ks1A61jGfGgEswz912Z8mfcPK1CPpuPn8SBjlQihVfr1b5AxLipELBgyCZ551vcTarQq9KTkb28tPkGwlkHl9skYDn/nsc43s11PyB6Gf75HQEM/maecVDVPbPbOy7YupQD2OOqfuUk2HP8Y7PDB3338v7/fjY8A2uiNVADm7kRETH71hZVMFayF/ePH09oWc0x+mLZFW9hm7K9MtWW92JIsxDKWLY4xudrUVQFjqacHLjQfngqmQOxcMiaDlnea9Bi8IoRZcNudXOOluiVl1MxWimCSz8PsMlratdtKw==
-fast.	172800	in	rrsig	SOA 8 1 172800 20251015073821 20250910063821 45928 fast. FImEKagHlaYjwweHS7Nxv+gCReh+5UOQDWOz6OYRknZJrRrmGh9Dl1tz9n94lq/2KuSWHJtBwNJ6gZ+xt4nnab4K3C/fHBXpe0tQo6+oC5Wm2QPUSP9Ll0Nd16mCm9kMOxKKHZPSj8o7Wx7e8hFJFFdblo75/X443GTDxUuAynVpQgo04A/lCySqFKUdVwKgh2GbtJStSy66v4VCq/IlRoz3AvktrkcSPBmJpnjFTL1hO9K9/toTJQ8AyNr7g+xnN4rajrpTp/1bw+NklzY4jFFPsrcwvgH36JHJb1Ko1FfTFM1y09RRi5871Ri8ht2q8Uuoo4M+g8QVXkFQeu4sfg==
+fast.	172800	in	rrsig	SOA 8 1 172800 20251016195321 20250911185321 45928 fast. kk+tl8DGHzlf/TSlGdFGFHvk3KF9TDfoi4Me1FiOzuscSEvu5Ifwj3gUFGzSDVI6NrXNkU1JiSY2RQQvuvFNv8aaXtZn0mMaPfSnmbmmW6w6EPePuqD63ouyDNDkXYymEKstRr/vsTzLRx56nAMhcyxRKwFiKoN00lNVofM0JFLRPOesXzEWwGIeA7T+SGO6tTScsoVJIdd2iZMxhrC1nZ06xyao7VP525L95IseCwxzAtnLKzT9DTTliN0EjdJcjZ+b3zpau1QkBj60GGv2GPRL0SI5pKCNC5gxi781+kFeYktm5710pXkuTi9m5oSgFiW/H5nGLx8Q7JZ5VGbsCQ==
 fast.	7200	in	dnskey	256 3 8 AwEAAcJozXJwCn1xS6gy5m0OF3PcznDFz0ZWfEjdamkjGSh2RBjLPegV5RCmzXwg8kCSbu57+GeIMwKMNLCHm86ffpv+ztTZFQ9K3TCGfVFmnjYrvmNCtoR7zYd+WYvb45w6Iv24EZyYR6HzYi44DdVNCr9zRyVbnGspJMKoi3g2SpGmyx4n+2ng4DxwSfY9KMF5pE0LdXNxkL8OythLubBBME4CQI7KU/MkZv/xT3882n+o7M+u5wyfuOCw4NHOP+aHzgEg4nwkKAAAgRMFfxagdUYoFWQGGBetX5QwqSuqkt49CTtCQiobXnBxL/yjTa4cIGT/YrePSqhvWjaiwyPDmfE=
 fast.	7200	in	dnskey	257 3 8 AwEAAdRtDbRjd2EOr+e+Af3nJD6ca6FzhCxjxbaK+/xdBfTVIhshmbuMpQIFaA8mtoWdieXpx2uAbOQG2h3RDOV4oUgQuQllsLAOFMlMBVLOctwa8k5PkHfNNGKbu9Zxt5qGJTCI2TyoPtXoGEYZ1LlHys8Mu8EFCzdg73c26lhjVZc7RJGduSPnmYgr+cYqSr5lBKQrdNej38Qg4K1iQejUJvIkTYhngjo7rY4VCE5u/9KDpbaEFFC819J1NVWlz9wzsg1cYJq39nN3/RfyFFnVAnPQyUvvgviJLStzMPjiqZqhugZ8LQU4orhnwMweWScUdMIqzqfHGOp+5q0HpMXCce0=
 fast.	7200	in	rrsig	DNSKEY 8 1 7200 20251012235236 20250907232551 50396 fast. dcrP546xNTKhGBeqEgVEAwhyHMjRMoPUw55pjp4hrEpQOtRIaYru1yI/NWGeM4lY0JR9miKBoKY53CNz0D/nZhUGtgf3ebR2m4F9Q4AzhFEmKrWRe/Dv4MVwRRGBDkL4ogzvGrccoD9dEwmjnAZ6p2RlhcZMuPTvoAm75xUJyYeBqaEut1tnYiOGpoStQaFWxpQQpegH5nIg0733kLhEEjT+E180FSJJ6F3fLikAdBRwX37IB5Idq4CbMBjJQPDcMTLrU38MnclM55k3SwBNmewcl8pVdgBZ00MwabpGru6KjjpNjMomRv0AQ9xDQfeGuN36BaqksmegEv1a7jjqHg==
@@ -117,6 +135,18 @@ flowers.fast.	172800	in	ns	dns1.cscdns.net.
 flowers.fast.	172800	in	ns	dns2.cscdns.net.
 freddiemac.fast.	172800	in	ns	dns1.cscdns.net.
 freddiemac.fast.	172800	in	ns	dns2.cscdns.net.
+gemini.fast.	172800	in	ns	ns1.googledomains.com.
+gemini.fast.	172800	in	ns	ns2.googledomains.com.
+gemini.fast.	172800	in	ns	ns3.googledomains.com.
+gemini.fast.	172800	in	ns	ns4.googledomains.com.
+gmail.fast.	172800	in	ns	ns1.googledomains.com.
+gmail.fast.	172800	in	ns	ns2.googledomains.com.
+gmail.fast.	172800	in	ns	ns3.googledomains.com.
+gmail.fast.	172800	in	ns	ns4.googledomains.com.
+google.fast.	172800	in	ns	ns1.googledomains.com.
+google.fast.	172800	in	ns	ns2.googledomains.com.
+google.fast.	172800	in	ns	ns3.googledomains.com.
+google.fast.	172800	in	ns	ns4.googledomains.com.
 hilton.fast.	172800	in	ns	ns1.markmonitor.com.
 hilton.fast.	172800	in	ns	ns2.markmonitor.com.
 hilton.fast.	172800	in	ns	ns3.markmonitor.com.
@@ -172,6 +202,10 @@ petsmart.fast.	172800	in	ns	ns4.markmonitor.com.
 petsmart.fast.	172800	in	ns	ns5.markmonitor.com.
 petsmart.fast.	172800	in	ns	ns6.markmonitor.com.
 petsmart.fast.	172800	in	ns	ns7.markmonitor.com.
+pixel.fast.	172800	in	ns	ns1.googledomains.com.
+pixel.fast.	172800	in	ns	ns2.googledomains.com.
+pixel.fast.	172800	in	ns	ns3.googledomains.com.
+pixel.fast.	172800	in	ns	ns4.googledomains.com.
 puressentiel.fast.	172800	in	ns	ns-130-c.gandi.net.
 puressentiel.fast.	172800	in	ns	ns-211-a.gandi.net.
 puressentiel.fast.	172800	in	ns	ns-78-b.gandi.net.
@@ -251,4 +285,8 @@ wondery.fast.	172800	in	ns	dns1.comlaude-dns.com.
 wondery.fast.	172800	in	ns	dns2.comlaude-dns.net.
 wondery.fast.	172800	in	ns	dns3.comlaude-dns.co.uk.
 wondery.fast.	172800	in	ns	dns4.comlaude-dns.eu.
-fast.	172800	in	soa	dns1.nic.fast. hostmaster.nominet.org.uk. 1757489901 900 300 2419200 60
+youtube.fast.	172800	in	ns	ns1.googledomains.com.
+youtube.fast.	172800	in	ns	ns2.googledomains.com.
+youtube.fast.	172800	in	ns	ns3.googledomains.com.
+youtube.fast.	172800	in	ns	ns4.googledomains.com.
+fast.	172800	in	soa	dns1.nic.fast. hostmaster.nominet.org.uk. 1757620401 900 300 2419200 60
