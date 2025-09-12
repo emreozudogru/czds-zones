@@ -1,4 +1,4 @@
-dvag.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019127802 900 1800 6048000 3600
+dvag.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019127852 900 1800 6048000 3600
 2tqhicvjfck3ltir044pmh2o1aqs4dg5.dvag.	900	in	nsec3	1 1 0 - 86MN9AJ97FUOO9BDQK6TT3NF80RPAATK NS SOA RRSIG DNSKEY NSEC3PARAM
 2tqhicvjfck3ltir044pmh2o1aqs4dg5.dvag.	900	in	rrsig	NSEC3 8 2 900 20251009194718 20250909181718 42129 dvag. ecHRkM9CEhcVmBc4K3CqOmXWM9Jmm7wdJ58jjabM0uXjURMF6SdcBSsy8RBd+FrBdisn6oDYg9UqDijYSr0W7Gt8QqZk94f8bM/dE20dvutWjExSTzC6Hp1WN5qhDtuvJAYqB8FXm+KEkYa6VBq8tb5T3+MMcZ/EclscUyU1j7o=
 86mn9aj97fuoo9bdqk6tt3nf80rpaatk.dvag.	900	in	nsec3	1 1 0 - 2TQHICVJFCK3LTIR044PMH2O1AQS4DG5 NS DS RRSIG
@@ -7970,7 +7970,7 @@ dvag.	3600	in	dnskey	257 3 8 AwEAAa+Q8UcK0idw4UZFrNw/2Tu0IfMFQnJeAC3eog15AuHJIWy
 dvag.	3600	in	rrsig	DNSKEY 8 1 3600 20251009194718 20250909181718 43019 dvag. ha0VVzDuVUU1tp/D4HZq9CF/3vn3eWWvp3TL6tIrGMH68qKPmv8xMjBG64UY+dkIpJh7+iTzMBMhHspkY1r3h93B3vs0bI2vUj1e9N7oPIsqlUkZF2vPZ2h5XK+Is9vGmab6Dp01JffGi21TJrVYRkeszLg/1ujBzk6uTdwbhrI6gVZwz+siR/iM7F3Yxg2HyFdSJdznblpjDlws2rP///jBCStK6enkIocaq/tVQbbt4neDD1QJxrCMrsINCcyp3ggZXWqtkOeKpSRhJX9NxlNVRgWmgF31rR99/dmkBFBl0lmYtOD659Ic4qpTWGt6QIIDrSTFU/nmj6nq00j0lQ==
 dvag.	900	in	nsec3param	1 0 0 -
 dvag.	900	in	rrsig	NSEC3PARAM 8 1 900 20251009194718 20250909181718 42129 dvag. IpZwXE+DyCCUwo52M8uVcJDLXrKVZIHpQ07hzyZ58UYhjbvHAI5OMMXb8lUVMeofJn1zL/FdtC7CA24uuWs8JaHEUA/fNCOqhYCBQut7/rI5fBpRDoklkpq6T0d39/K1gSyf6JKYiNHDcmvzzJt+QUEZ4hw4oPkm+oauUGui4Hc=
-dvag.	900	in	rrsig	SOA 8 1 900 20251011010611 20250910233611 42129 dvag. JecTFsaAF24HMw9KlIqeM/h5pE+PQcQKRJDPdjaJVydOAHx6XxpAuvCRIu03tDJDPp6btb3KteDj7QkeIi1Z+3VqupEoJI2hIGHK+Gq32FMC3AdVfZU3h0CdCF3aRJvlcueHQz/lStLBui4pF/Bn4ykcGwRFEFPpzREokMFu9pc=
+dvag.	900	in	rrsig	SOA 8 1 900 20251012004109 20250911231109 42129 dvag. hLKb/Oh5HHOGXta1a8ZXds8SQFr4BvGKgniyY1S3CSbyiDMpqZsqfOWA9WsVGCEm+XG5yNVAYh3E3Mjv4KHrCxIpmH9qeC/uY4qAO/5xQE2jIYMHNtBMApTN2X2ZIGry1FeOSgqxXXyeqzBLwatr3FLFXX3isuo1xEVWhpFl5pw=
 dyck-david.dvag.	3600	in	ns	ns1.brandshelter.com.
 dyck-david.dvag.	3600	in	ns	ns2.brandshelter.de.
 dyck-david.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -24162,6 +24162,11 @@ paul-belz-1509150.dvag.	3600	in	ns	ns2.brandshelter.de.
 paul-belz-1509150.dvag.	3600	in	ns	ns3.brandshelter.info.
 paul-belz-1509150.dvag.	3600	in	ns	ns4.brandshelter.net.
 paul-belz-1509150.dvag.	3600	in	ns	ns5.brandshelter.us.
+paul-bohnensack.dvag.	3600	in	ns	ns1.brandshelter.com.
+paul-bohnensack.dvag.	3600	in	ns	ns2.brandshelter.de.
+paul-bohnensack.dvag.	3600	in	ns	ns3.brandshelter.info.
+paul-bohnensack.dvag.	3600	in	ns	ns4.brandshelter.net.
+paul-bohnensack.dvag.	3600	in	ns	ns5.brandshelter.us.
 paul-braehler-1610750.dvag.	3600	in	ns	ns1.brandshelter.com.
 paul-braehler-1610750.dvag.	3600	in	ns	ns2.brandshelter.de.
 paul-braehler-1610750.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -28403,6 +28408,11 @@ sonja-straub.dvag.	3600	in	ns	ns4.brandshelter.net.
 sonja-straub.dvag.	3600	in	ns	ns5.brandshelter.us.
 sophia-blum.dvag.	3600	in	ns	ns01.brandshelter.com.
 sophia-blum.dvag.	3600	in	ns	ns02.brandshelter.net.
+sophia-haack-1806440.dvag.	3600	in	ns	ns1.brandshelter.com.
+sophia-haack-1806440.dvag.	3600	in	ns	ns2.brandshelter.de.
+sophia-haack-1806440.dvag.	3600	in	ns	ns3.brandshelter.info.
+sophia-haack-1806440.dvag.	3600	in	ns	ns4.brandshelter.net.
+sophia-haack-1806440.dvag.	3600	in	ns	ns5.brandshelter.us.
 sophia-justus.dvag.	3600	in	ns	ns1.brandshelter.com.
 sophia-justus.dvag.	3600	in	ns	ns2.brandshelter.de.
 sophia-justus.dvag.	3600	in	ns	ns3.brandshelter.info.
@@ -30142,6 +30152,11 @@ thorsten-kriegel.dvag.	3600	in	ns	ns01.brandshelter.com.
 thorsten-kriegel.dvag.	3600	in	ns	ns02.brandshelter.net.
 thorsten-lobenstein.dvag.	3600	in	ns	ns01.brandshelter.com.
 thorsten-lobenstein.dvag.	3600	in	ns	ns02.brandshelter.net.
+thorsten-radtke.dvag.	3600	in	ns	ns1.brandshelter.com.
+thorsten-radtke.dvag.	3600	in	ns	ns2.brandshelter.de.
+thorsten-radtke.dvag.	3600	in	ns	ns3.brandshelter.info.
+thorsten-radtke.dvag.	3600	in	ns	ns4.brandshelter.net.
+thorsten-radtke.dvag.	3600	in	ns	ns5.brandshelter.us.
 thorsten-schreiber.dvag.	3600	in	ns	ns01.brandshelter.com.
 thorsten-schreiber.dvag.	3600	in	ns	ns02.brandshelter.net.
 thorsten-serguhn.dvag.	3600	in	ns	ns01.brandshelter.com.
@@ -32752,4 +32767,4 @@ zwei-trm.dvag.	3600	in	ns	ns2.brandshelter.de.
 zwei-trm.dvag.	3600	in	ns	ns3.brandshelter.info.
 zwei-trm.dvag.	3600	in	ns	ns4.brandshelter.net.
 zwei-trm.dvag.	3600	in	ns	ns5.brandshelter.us.
-dvag.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019127802 900 1800 6048000 3600
+dvag.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019127852 900 1800 6048000 3600
