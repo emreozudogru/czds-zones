@@ -1,4 +1,4 @@
-dating.	3600	in	soa	v0n0.nic.dating. hostmaster.donuts.email. 1757552624 7200 900 1209600 3600
+dating.	3600	in	soa	v0n0.nic.dating. hostmaster.donuts.email. 1757638835 7200 900 1209600 3600
 00ub679fc3mqr5hjf0me9q3775t5t976.dating.	3600	in	nsec3	1 1 0 73 0C3NI7O3T3DPHA5DN2KC12GIP9RP7N12 NS DS RRSIG
 00ub679fc3mqr5hjf0me9q3775t5t976.dating.	3600	in	rrsig	NSEC3 8 2 3600 20250930153300 20250909143300 10383 dating. n9i/ReZXwi1cb7UAWkDBuHzU2r/Z7GwJqEiH00NUtJVGEF8axjQss+E6QimhMaOyR+uzYJIlo+vFtHxzGQIBoNDPkWuJGgXG4Dj0A6QZ7qdgjclUpdrDiZt3wenDzovrnMWXzZfNpED94LprNNQpNw6+m1QpbnK72gm5ZkXs/yk=
 0c3ni7o3t3dpha5dn2kc12gip9rp7n12.dating.	3600	in	nsec3	1 1 0 73 0IQ4C0KG3165PDDMTUMG2KJVLVLJ63CE NS DS RRSIG
@@ -1054,8 +1054,8 @@ autism.dating.	3600	in	ns	dns2.registrar-servers.com.
 autonomous.dating.	3600	in	ns	ns1.afternic.com.
 autonomous.dating.	3600	in	ns	ns2.afternic.com.
 autonomous.dating.	3600	in	ns	verification-wv4fzkw6deyekgfrapjxbm.ns101.verify.hn.
-ava.dating.	3600	in	ns	dns101.registrar-servers.com.
-ava.dating.	3600	in	ns	dns102.registrar-servers.com.
+ava.dating.	3600	in	ns	ns1.brainydns.com.
+ava.dating.	3600	in	ns	ns2.brainydns.com.
 available.dating.	3600	in	ns	david.ns.cloudflare.com.
 available.dating.	3600	in	ns	lara.ns.cloudflare.com.
 avatara.dating.	3600	in	ns	ns77.domaincontrol.com.
@@ -1148,8 +1148,6 @@ balatonbuchitecaesura.dating.	3600	in	ns	dorthy.ns.cloudflare.com.
 balatonbuchitecaesura.dating.	3600	in	ns	justin.ns.cloudflare.com.
 bald-match.dating.	3600	in	ns	ndns1.cosmotown.com.
 bald-match.dating.	3600	in	ns	ndns2.cosmotown.com.
-bald-singles.dating.	3600	in	ns	ndns1.cosmotown.com.
-bald-singles.dating.	3600	in	ns	ndns2.cosmotown.com.
 bald.dating.	3600	in	ns	meiling.ns.cloudflare.com.
 bald.dating.	3600	in	ns	nick.ns.cloudflare.com.
 ballbusting.dating.	3600	in	ns	md1.caerussolutions.net.
@@ -1697,8 +1695,10 @@ brown.dating.	3600	in	ns	ns1.dns-redirect.com.
 brown.dating.	3600	in	ns	ns2.dns-redirect.com.
 browser.dating.	3600	in	ns	diva.ns.cloudflare.com.
 browser.dating.	3600	in	ns	nolan.ns.cloudflare.com.
-brppq6omrpgqmre60a88ag3o7r8ils92.dating.	3600	in	nsec3	1 1 0 73 C3ATT7NQP6SPIHKBRIJKKCK8F4F7GLAT NS DS RRSIG
-brppq6omrpgqmre60a88ag3o7r8ils92.dating.	3600	in	rrsig	NSEC3 8 2 3600 20250930153300 20250909143300 10383 dating. eG3283XEkNZo8Qhrq2dKeXBN2UbnI4qsmBp0J1ZSPPSbkZdkjEpu6fIXHLACDE7I8DH6p2OK7zIYM8ScAXyiGUV1ab6btICAhe9LkhF4MUhng7RrPj5nyXGDcVJ++rYrnSbHvcMpFTOcqr+5kO+oQmUwZrkJB+OxJ6+v5jFlGUY=
+brppq6omrpgqmre60a88ag3o7r8ils92.dating.	3600	in	nsec3	1 1 0 73 BSILHH5HDOO2RFS8SB11KD5UGOLCI2AC NS DS RRSIG
+brppq6omrpgqmre60a88ag3o7r8ils92.dating.	3600	in	rrsig	NSEC3 8 2 3600 20251002191531 20250911181531 10383 dating. CZQgZN7BV/0q5UwUzKToj+NgW3PI0AwXPdz4QIE+N8X4K0NTUTR6SEE1PGJQ4P8j1FuyK0Jf4WTrHI5hSR3N5wX1qZPLgyuRjtP0A7fq62922WXLj2xwrsdQCMVk385SWA7HwgDdp7p1Qg6yiY4VlI+7+HSCmPYJvz2Un6iudLE=
+bsilhh5hdoo2rfs8sb11kd5ugolci2ac.dating.	3600	in	nsec3	1 1 0 73 C3ATT7NQP6SPIHKBRIJKKCK8F4F7GLAT NS DS RRSIG
+bsilhh5hdoo2rfs8sb11kd5ugolci2ac.dating.	3600	in	rrsig	NSEC3 8 2 3600 20251002191531 20250911181531 10383 dating. Fq3IjC+nN5lFJvG1o4Ltcf5ZH8G8c14GB6Fp8qRHWH/edqTXB+3FWrI2hhBfkbPzOsXEIW9Zn2YiMqRLo1AxLW532l+tY0gPEfpOKt/kQ53vcdZHEtaaVrUNjVa/5l28yBP8CXgR79qqrcyWTnzkJxB/bfsxs8BOMwcyhhTs4SM=
 btc.dating.	3600	in	ns	dns101.registrar-servers.com.
 btc.dating.	3600	in	ns	dns102.registrar-servers.com.
 btcdapp.dating.	3600	in	ns	ns-1124.awsdns-12.org.
@@ -2069,10 +2069,6 @@ chicano.dating.	3600	in	ns	maceio.ns.porkbun.com.
 chicano.dating.	3600	in	ns	salvador.ns.porkbun.com.
 childfree.dating.	3600	in	ns	dns1.registrar-servers.com.
 childfree.dating.	3600	in	ns	dns2.registrar-servers.com.
-chill.dating.	3600	in	ns	ns1dns.name.com.
-chill.dating.	3600	in	ns	ns2dfg.name.com.
-chill.dating.	3600	in	ns	ns3qty.name.com.
-chill.dating.	3600	in	ns	ns4hmp.name.com.
 chinacupid.dating.	3600	in	ns	ns1.hosting.com.
 chinacupid.dating.	3600	in	ns	ns2.hosting.com.
 chinacupid.dating.	3600	in	ns	ns3.hosting.com.
@@ -2634,7 +2630,7 @@ dating.	3600	in	nsec3param	1 0 0 73
 dating.	3600	in	rrsig	DNSKEY 8 1 3600 20250930153300 20250909143300 14914 dating. YWGxTt6+tffRZaCyOxsvhHhlHLAAw9g354P+bzvQtasNp1l5IUwEl7U5C4rydaAKy8CP0WFqwhalFwR0KJXxdUfCldx+TnGoa8YnwW6ATp+7hgRaAxegCjfPMtJqbk5nAtYwAoQRq19IXR3Wjhi8bow0+Pg2P17Vqz1O7y+wy06HmAN3YvUeNf5H+hVwr+moEdO58iZlh7JwQ01sdUsCOlpn8SlVk+yXCz3+h/gUxnVybn8+uwU9A7gZs0xyZOI/UNzBJDrttNUMmHtAIE5Du7FalSlNdLtIfzDMDwBHApUerAVo2u7PoZ+85OPucVrWrZE3RmhN+w5SH6muHLFGxA==
 dating.	3600	in	rrsig	NS 8 1 3600 20250930153300 20250909143300 10383 dating. f77aEFv5HEbS+RZzxzj5R7PDDjWLowqFb1MBcaV8zlSUBn7/IwMX8m2XSNeA6adYin7E6y0fUCl6UKptFya2klPoTLeTPRjPKeKAr46aEkERqmOZKHbeZd8M5mZW3X09cKSFiDFz0CTwM1skLsIghZIHNnnUjtIBTDV1bPQiEYM=
 dating.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930153300 20250909143300 10383 dating. OXnlVCxdFhwPYMOTbgfvUpQszQoOY1KZ6kXDxb4aeXjrDcikoBWq32d5d3yBUuc/Q8AsQIfp8Wvb8iSDCcW9uP2m1ASRzK1nZ++K5SyWtmDQueFM2ZaEQPYFqx73mXjDmCl6fpMaBpzzt6dt5ZZtXk9tt3ckrfnNSj+9lqZLzoM=
-dating.	3600	in	rrsig	SOA 8 1 3600 20251002010715 20250911000715 10383 dating. IBDm9u6I/kxXJ1UaaXkiUKR39y8vl+YAuXU/9GGhRBrXaAUTg1Gy7q3m2yD66l4u6ByV+BHfePd9OkjIlt8s8oR/GAGq6dw7U1Vlb1WtzUI/zjQQ57s7fLRUVcBBbzU7ms/wO37f7J+g5OyMWyUD6SmAk1OIAQRsxfuC8mper+s=
+dating.	3600	in	rrsig	SOA 8 1 3600 20251003010359 20250912000359 10383 dating. aieXNwCXM1znreDz0VOcV1K/56fKuwv1/vI0vkCxrJ8S8DF3OpJYm1+9ZwFL0rUhd/E9XYAxtrlkqIQEa+fygJw02a2RwfeywWkg4MCKZHcGr0RF8x7gYvCfjfS0waF+k8yOwEk0ieZraQyF0uCc4uq3aOm0yKSIxTM5BwCd0Vo=
 dating.dating.	3600	in	ns	ns1.dyna-ns.net.
 dating.dating.	3600	in	ns	ns2.dyna-ns.net.
 datingdating.dating.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -2760,8 +2756,8 @@ deutschland.dating.	3600	in	ns	ns1016.ui-dns.de.
 deutschland.dating.	3600	in	ns	ns1017.ui-dns.biz.
 deutschland.dating.	3600	in	ns	ns1017.ui-dns.com.
 deutschland.dating.	3600	in	ns	ns1034.ui-dns.org.
-dev.dating.	3600	in	ns	ns1.dev.dating.
-dev.dating.	3600	in	ns	ns2.dev.dating.
+dev.dating.	3600	in	ns	pam.ns.cloudflare.com.
+dev.dating.	3600	in	ns	will.ns.cloudflare.com.
 devil.dating.	3600	in	ns	dns101.registrar-servers.com.
 devil.dating.	3600	in	ns	dns102.registrar-servers.com.
 devotion.dating.	3600	in	ns	ns-cloud-b1.googledomains.com.
@@ -2886,6 +2882,8 @@ divergent.dating.	3600	in	ns	ns35.domaincontrol.com.
 divergent.dating.	3600	in	ns	ns36.domaincontrol.com.
 divine.dating.	3600	in	ns	ns01.domaincontrol.com.
 divine.dating.	3600	in	ns	ns02.domaincontrol.com.
+divorced.dating.	3600	in	ns	ns31.domaincontrol.com.
+divorced.dating.	3600	in	ns	ns32.domaincontrol.com.
 dleai5tgl4c7gfc8bmcbd5kfgrqm3qhb.dating.	3600	in	nsec3	1 1 0 73 DOAVVHCQH92ENIE6L860TPARDV05JFGQ NS DS RRSIG
 dleai5tgl4c7gfc8bmcbd5kfgrqm3qhb.dating.	3600	in	rrsig	NSEC3 8 2 3600 20250930153300 20250909143300 10383 dating. BafS+k1bQwFy4yG9lQaeEvkZdGTmDuSHVJ9K84KyFdl6M2f+o3x/hyItx5Az806/0C4v0DOEOVqS+4LgSIIyCkKQFDHOx4zyNFvXI/kW9r44uQxD8sBn0SJUNCyp6iD9BvpBdz4iBqdR3CxtBGDqAMnvtccZ3OKJOg1i25WxrxE=
 dmf.dating.	3600	in	ns	ns29.domaincontrol.com.
@@ -2898,8 +2896,6 @@ dna.dating.	3600	in	ns	keanu.ns.cloudflare.com.
 dna.dating.	3600	in	ns	rose.ns.cloudflare.com.
 doavvhcqh92enie6l860tpardv05jfgq.dating.	3600	in	nsec3	1 1 0 73 DTSOIAM125V2MVKF650PFC0DTIOGOOPA NS DS RRSIG
 doavvhcqh92enie6l860tpardv05jfgq.dating.	3600	in	rrsig	NSEC3 8 2 3600 20250930153300 20250909143300 10383 dating. LVmw+/EnowPgJKp3JyDYsX8JWjq7YRK4qZCqZ/++7Us71v2scw35oVG16Q+V4nKd65P4lLivDz0mxUASH+FX8c/05ZFQFlhHAHvuJoiHC+l2BO+EGEC+5hvt2bdo0R+LPek2j+s5KPASUYleA9ZFV7I5LIY/ZzGa/2q31RayT9I=
-dog.dating.	3600	in	ns	ns47.domaincontrol.com.
-dog.dating.	3600	in	ns	ns48.domaincontrol.com.
 dogging.dating.	3600	in	ns	augustus.ns.cloudflare.com.
 dogging.dating.	3600	in	ns	laura.ns.cloudflare.com.
 dogs.dating.	3600	in	ds	62367 13 2 BE1028BD3A0DDBE306D4D10952177419B42544715D43E246DE69AA6435966BF7
@@ -3741,8 +3737,8 @@ flip.dating.	3600	in	ns	ns1.dns-redirect.com.
 flip.dating.	3600	in	ns	ns2.dns-redirect.com.
 flirt.dating.	3600	in	ns	dns1.registrar-servers.com.
 flirt.dating.	3600	in	ns	dns2.registrar-servers.com.
-flirt2love.dating.	3600	in	ns	ns31.domaincontrol.com.
-flirt2love.dating.	3600	in	ns	ns32.domaincontrol.com.
+flirt2love.dating.	3600	in	ns	ns1.skadate.net.
+flirt2love.dating.	3600	in	ns	ns2.skadate.net.
 flirt4free.dating.	3600	in	ns	ns-1187.awsdns-20.org.
 flirt4free.dating.	3600	in	ns	ns-1727.awsdns-23.co.uk.
 flirt4free.dating.	3600	in	ns	ns-391.awsdns-48.com.
@@ -3972,6 +3968,8 @@ friendly.dating.	3600	in	ns	ns57.domaincontrol.com.
 friendly.dating.	3600	in	ns	ns58.domaincontrol.com.
 friends-with-benefits.dating.	3600	in	ns	ns35.domaincontrol.com.
 friends-with-benefits.dating.	3600	in	ns	ns36.domaincontrol.com.
+friends.dating.	3600	in	ns	ns1.namebrightdns.com.
+friends.dating.	3600	in	ns	ns2.namebrightdns.com.
 friendship.dating.	3600	in	ns	dns1.registrar-servers.com.
 friendship.dating.	3600	in	ns	dns2.registrar-servers.com.
 friendswithbenefits.dating.	3600	in	ns	ns1.101domain.com.
@@ -4125,8 +4123,6 @@ gelegenheits.dating.	3600	in	ns	ns1.bucksmedia.co.uk.
 gelegenheits.dating.	3600	in	ns	ns2.bucksmedia.co.uk.
 gemwin.dating.	3600	in	ns	ace.ns.cloudflare.com.
 gemwin.dating.	3600	in	ns	betty.ns.cloudflare.com.
-gene.dating.	3600	in	ns	ns45.domaincontrol.com.
-gene.dating.	3600	in	ns	ns46.domaincontrol.com.
 generations.dating.	3600	in	ns	kara.ns.cloudflare.com.
 generations.dating.	3600	in	ns	sean.ns.cloudflare.com.
 genital.dating.	3600	in	ns	ns1.101domain.com.
@@ -4370,8 +4366,6 @@ grownup.dating.	3600	in	ns	curitiba.ns.porkbun.com.
 grownup.dating.	3600	in	ns	fortaleza.ns.porkbun.com.
 grownup.dating.	3600	in	ns	maceio.ns.porkbun.com.
 grownup.dating.	3600	in	ns	salvador.ns.porkbun.com.
-grumpygamer.dating.	3600	in	ns	ns1.renewyourname.net.
-grumpygamer.dating.	3600	in	ns	ns2.renewyourname.net.
 grwn.dating.	3600	in	ns	curitiba.ns.porkbun.com.
 grwn.dating.	3600	in	ns	fortaleza.ns.porkbun.com.
 grwn.dating.	3600	in	ns	maceio.ns.porkbun.com.
@@ -4718,8 +4712,8 @@ hot.dating.	3600	in	ns	desi.ns.cloudflare.com.
 hot.dating.	3600	in	ns	norm.ns.cloudflare.com.
 hot789.dating.	3600	in	ns	candy.ns.cloudflare.com.
 hot789.dating.	3600	in	ns	cartman.ns.cloudflare.com.
-hotandsexy.dating.	3600	in	ns	ns1.bodis.com.
-hotandsexy.dating.	3600	in	ns	ns2.bodis.com.
+hotandsexy.dating.	3600	in	ns	ns1.dns-redirect.com.
+hotandsexy.dating.	3600	in	ns	ns2.dns-redirect.com.
 hotbabes.dating.	3600	in	ns	ns1.sedoparking.com.
 hotbabes.dating.	3600	in	ns	ns2.sedoparking.com.
 hotchat.dating.	3600	in	ns	alla.ns.cloudflare.com.
@@ -4974,6 +4968,8 @@ insgfk9mk6plkl4ou0l7c4ncm5hv2m1v.dating.	3600	in	nsec3	1 1 0 73 IOSPGKJF0T4VLM1K
 insgfk9mk6plkl4ou0l7c4ncm5hv2m1v.dating.	3600	in	rrsig	NSEC3 8 2 3600 20250930153300 20250909143300 10383 dating. Xh2sEBSgnVqJ3gqRIi8hGzF7MXHSCQY91vLFbNlUCzA0DEomJN8Ws3sJo3GHVWl6ZetyCeYL+UyGN2B9ufAqvksB8bE1pMKSEG2nNdiVtnVEJ/ySwQcRrDpKuv/6LrLJxses1UQNRAyV3pAAChFFqQvu3x4LnzCl3YxeHYSTJt0=
 insta.dating.	3600	in	ns	launch1.spaceship.net.
 insta.dating.	3600	in	ns	launch2.spaceship.net.
+instacams.dating.	3600	in	ns	ns1.dns-parking.com.
+instacams.dating.	3600	in	ns	ns2.dns-parking.com.
 instantly.dating.	3600	in	ns	ns-cloud-e1.googledomains.com.
 instantly.dating.	3600	in	ns	ns-cloud-e2.googledomains.com.
 instantly.dating.	3600	in	ns	ns-cloud-e3.googledomains.com.
@@ -5288,8 +5284,6 @@ jvs1gir13605j0s4ji3opieh7mpnh3t7.dating.	3600	in	nsec3	1 1 0 73 K1QKONUJJNKN92IC
 jvs1gir13605j0s4ji3opieh7mpnh3t7.dating.	3600	in	rrsig	NSEC3 8 2 3600 20250930153300 20250909143300 10383 dating. ddBn7Jxgp/mI/qURzNE2QzRUtjmack2GGxGtzX1qzdW+sKRhA0Tt2WoMmUQTtUxFxkQgZ+WYBup1X6o+FtWoRsh7+O1SnHVQrDEWBohfrEXsON0Svq8e4/aEjc7ogmHgw7p3FaJmTBLck/jQ1pP+9U1TkwTTIKymTwGD44op9fU=
 jw.dating.	3600	in	ns	ns1.dan.com.
 jw.dating.	3600	in	ns	ns2.dan.com.
-jx.dating.	3600	in	ns	ns1.bodis.com.
-jx.dating.	3600	in	ns	ns2.bodis.com.
 k1qkonujjnkn92ica1th86bme4a144tv.dating.	3600	in	nsec3	1 1 0 73 K8KCDASTNQ186EP9CBS39DKIPDUV10UM NS DS RRSIG
 k1qkonujjnkn92ica1th86bme4a144tv.dating.	3600	in	rrsig	NSEC3 8 2 3600 20250930153300 20250909143300 10383 dating. Sz8ZAtCQq3hmyoMlJCFoypaiZe689QjKKd60l8gY3O8CKxuwu9CUczX9Ju2OqnRZlaofq20mLzrPTYKEgYQJkzSGrisj6dkndVTHoZg1qb7f06tTvohvZaGNRzk1SnaovuOYClILUCN+YrEpHlN5hnFDqXRCYDVRNm94dCG8W0o=
 k8kcdastnq186ep9cbs39dkipduv10um.dating.	3600	in	nsec3	1 1 0 73 K9G9G39C9IBFOGUHC8O47GLG3LI99PR4 NS DS RRSIG
@@ -5318,7 +5312,7 @@ kaylabrooks.dating.	3600	in	ns	ns4.a2hosting.com.
 kbmcrqfdiqq4mp7qgirkiun03qhjbrnp.dating.	3600	in	nsec3	1 1 0 73 KC0V03VGUKGRHSJ5D67EH0066682901B NS DS RRSIG
 kbmcrqfdiqq4mp7qgirkiun03qhjbrnp.dating.	3600	in	rrsig	NSEC3 8 2 3600 20250930153300 20250909143300 10383 dating. l/TfMggSDH7vTtMw9UvhKIPRpicPBQ0GJ+Ubygm10xRUGQX5+Kz2gDBJ0bPH8Av8lBZs9pHw3SAYcxo+M/RwGemfIhuqVdeHSJdLnohkUryvzpE8SB69T3XCeLt0MdKUbqvUGow5zjrPwSbEeU0tG9qqq7uNohaG1/hd4RDuK6Q=
 kc0v03vgukgrhsj5d67eh0066682901b.dating.	3600	in	nsec3	1 1 0 73 KKIN5GPOHU252N7F47O0T9UN4PODQCTC NS SOA RRSIG DNSKEY NSEC3PARAM
-kc0v03vgukgrhsj5d67eh0066682901b.dating.	3600	in	rrsig	NSEC3 8 2 3600 20251002010715 20250911000715 10383 dating. R/iibcVieDgvmpKLTq5dSenyYMnIQMtCNYYNJp5cFJwtbfpeY12wVYmtQUtv7CxNi8PiVwCZ2O/CYKQZ7lPL9bpNMgIfj08noYQUbJKaBVZtJ4fA6TSRcIl3BX8QwMUGzkfxMvv32Lk1ODagUiBYrkeKVfk2gFam1eEdu9Wdjrw=
+kc0v03vgukgrhsj5d67eh0066682901b.dating.	3600	in	rrsig	NSEC3 8 2 3600 20251003010359 20250912000359 10383 dating. S/KJ3RFZ2G8NOzNRmrW+A4OVP8CYHivUsXVKylVSEmwQVhdLlkQISkqBmDUuj+udChW/6XvL6zjsLWTlCYHFn8ZRncCk2yKiyJs8/p4l2rYEDKg2kx69xwpA5JbiEYlms7XruY0s8O9LEMC5x7HyxzbaqxVem3kW4MvkQketRqY=
 kebab.dating.	3600	in	ns	clay.ns.cloudflare.com.
 kebab.dating.	3600	in	ns	gabriella.ns.cloudflare.com.
 keeper.dating.	3600	in	ns	ns-1165.awsdns-17.org.
@@ -5781,8 +5775,8 @@ lokd.dating.	3600	in	ns	ns05.domaincontrol.com.
 lokd.dating.	3600	in	ns	ns06.domaincontrol.com.
 lokett.dating.	3600	in	ns	dexter.ns.cloudflare.com.
 lokett.dating.	3600	in	ns	mimi.ns.cloudflare.com.
-lola.dating.	3600	in	ns	ns1.bodis.com.
-lola.dating.	3600	in	ns	ns2.bodis.com.
+lola.dating.	3600	in	ns	ns1.dns-redirect.com.
+lola.dating.	3600	in	ns	ns2.dns-redirect.com.
 loli.dating.	3600	in	ns	lars.ns.cloudflare.com.
 loli.dating.	3600	in	ns	val.ns.cloudflare.com.
 lollipop.dating.	3600	in	ns	ns.inwx.de.
@@ -6000,6 +5994,8 @@ luxury.dating.	3600	in	ns	ns-1104.awsdns-10.org.
 luxury.dating.	3600	in	ns	ns-1779.awsdns-30.co.uk.
 luxury.dating.	3600	in	ns	ns-41.awsdns-05.com.
 luxury.dating.	3600	in	ns	ns-681.awsdns-21.net.
+luxurychicas.dating.	3600	in	ns	ns67.domaincontrol.com.
+luxurychicas.dating.	3600	in	ns	ns68.domaincontrol.com.
 luxus.dating.	3600	in	ns	ns-1218.awsdns-24.org.
 luxus.dating.	3600	in	ns	ns-2035.awsdns-62.co.uk.
 luxus.dating.	3600	in	ns	ns-293.awsdns-36.com.
@@ -6627,8 +6623,8 @@ muaythai.dating.	3600	in	ns	ns42.domaincontrol.com.
 muenchen.dating.	3600	in	ns	ns.udag.de.
 muenchen.dating.	3600	in	ns	ns.udag.net.
 muenchen.dating.	3600	in	ns	ns.udag.org.
-muenster.dating.	3600	in	ns	ns1.bodis.com.
-muenster.dating.	3600	in	ns	ns2.bodis.com.
+muenster.dating.	3600	in	ns	ns1.dns-redirect.com.
+muenster.dating.	3600	in	ns	ns2.dns-redirect.com.
 muffin.dating.	3600	in	ns	devin.ns.cloudflare.com.
 muffin.dating.	3600	in	ns	karina.ns.cloudflare.com.
 multi.dating.	3600	in	ns	hasslo.ns.cloudflare.com.
@@ -7003,6 +6999,8 @@ not.dating.	3600	in	ns	ns1vwx.name.com.
 not.dating.	3600	in	ns	ns2qvz.name.com.
 not.dating.	3600	in	ns	ns3jnr.name.com.
 not.dating.	3600	in	ns	ns4fpy.name.com.
+notbot.dating.	3600	in	ns	dns1.registrar-servers.com.
+notbot.dating.	3600	in	ns	dns2.registrar-servers.com.
 noticeboard.dating.	3600	in	ns	ns1.bdm.microsoftonline.com.
 noticeboard.dating.	3600	in	ns	ns2.bdm.microsoftonline.com.
 noticeboard.dating.	3600	in	ns	ns3.bdm.microsoftonline.com.
@@ -7036,7 +7034,6 @@ ns1.batmantechnologiesxxx.dating.	3600	in	a	49.249.114.78
 ns1.bonerapp.dating.	3600	in	a	49.249.114.78
 ns1.callmeet.dating.	3600	in	a	49.249.114.78
 ns1.chatbotintegration.dating.	3600	in	a	49.249.114.78
-ns1.chill.dating.	3600	in	a	49.249.114.78
 ns1.connecthub.dating.	3600	in	a	49.249.114.78
 ns1.datingrevamp.dating.	3600	in	a	49.249.114.78
 ns1.dear.dating.	3600	in	a	49.249.114.78
@@ -7178,8 +7175,6 @@ o987ip0nrf9q68m750vejbsm74vtkluo.dating.	3600	in	rrsig	NSEC3 8 2 3600 2025093015
 oberberg.dating.	3600	in	ns	ns.udag.de.
 oberberg.dating.	3600	in	ns	ns.udag.net.
 oberberg.dating.	3600	in	ns	ns.udag.org.
-ocd.dating.	3600	in	ns	ndns1.cosmotown.com.
-ocd.dating.	3600	in	ns	ndns2.cosmotown.com.
 ocean.dating.	3600	in	ns	curitiba.ns.porkbun.com.
 ocean.dating.	3600	in	ns	fortaleza.ns.porkbun.com.
 ocean.dating.	3600	in	ns	maceio.ns.porkbun.com.
@@ -8244,6 +8239,10 @@ rideshare.dating.	3600	in	ns	ns-1223.awsdns-24.org.
 rideshare.dating.	3600	in	ns	ns-1614.awsdns-09.co.uk.
 rideshare.dating.	3600	in	ns	ns-21.awsdns-02.com.
 rideshare.dating.	3600	in	ns	ns-925.awsdns-51.net.
+right.dating.	3600	in	ds	8154 13 2 1C500596642445EC23AD425FD7226127414308F3F46BE71E50E2AA1EBAC538C3
+right.dating.	3600	in	ns	launch1.spaceship.net.
+right.dating.	3600	in	ns	launch2.spaceship.net.
+right.dating.	3600	in	rrsig	DS 8 2 3600 20251002191531 20250911181531 10383 dating. cAKab/w4Pat4MlmLUegQ7UPTz6vMEQnf/kDLrucGMhTWHHk5tTKyqYiJxQvc9+8bbJzKksduZSYZp0dZjbzrDlh/jIUXQnTnEI/paiaP7Qy5dWoVFiHqzYeSfM0PfUlnD2zeoTqQJ1WGQ9A0+ksvTw/emTT7eSXhSqRUFy230Gw=
 rikvip.dating.	3600	in	ns	curt.ns.cloudflare.com.
 rikvip.dating.	3600	in	ns	dalary.ns.cloudflare.com.
 rilly.dating.	3600	in	ns	ns-1526.awsdns-62.org.
@@ -9347,10 +9346,8 @@ stainlessrose.dating.	3600	in	ns	ns10.domaincontrol.com.
 standards.dating.	3600	in	ns	ns1.digitalocean.com.
 standards.dating.	3600	in	ns	ns2.digitalocean.com.
 standards.dating.	3600	in	ns	ns3.digitalocean.com.
-star.dating.	3600	in	ns	ns1.name.com.
-star.dating.	3600	in	ns	ns2.name.com.
-star.dating.	3600	in	ns	ns3.name.com.
-star.dating.	3600	in	ns	ns4.name.com.
+star.dating.	3600	in	ns	dean.ns.cloudflare.com.
+star.dating.	3600	in	ns	sierra.ns.cloudflare.com.
 starkmanassociates.dating.	3600	in	ns	dns1.namecheaphosting.com.
 starkmanassociates.dating.	3600	in	ns	dns2.namecheaphosting.com.
 starscore.dating.	3600	in	ns	ns41.domaincontrol.com.
@@ -10591,8 +10588,8 @@ w.dating.	3600	in	ns	ns-1363.awsdns-42.org.
 w.dating.	3600	in	ns	ns-1845.awsdns-38.co.uk.
 w.dating.	3600	in	ns	ns-446.awsdns-55.com.
 w.dating.	3600	in	ns	ns-589.awsdns-09.net.
-w88.dating.	3600	in	ns	ns1.bodis.com.
-w88.dating.	3600	in	ns	ns2.bodis.com.
+w88.dating.	3600	in	ns	ns1.dns-redirect.com.
+w88.dating.	3600	in	ns	ns2.dns-redirect.com.
 wahre-liebe.dating.	3600	in	ns	ns.udag.de.
 wahre-liebe.dating.	3600	in	ns	ns.udag.net.
 wahre-liebe.dating.	3600	in	ns	ns.udag.org.
@@ -10614,6 +10611,8 @@ wanderlustflirt.dating.	3600	in	ns	ns02.one.com.
 wanderlustflirt.dating.	3600	in	rrsig	DS 8 2 3600 20250930153300 20250909143300 10383 dating. JVCRvoYwT//264TIrqliVSJWNjSxoFnEQBXj6g8H+OIMNQRUQGGbY6T5rOQZ+YpdWT4/ZRJJd735xCdozDlKOaIT0m/nNOw991PJv7Zba5nCNy7fDT/9I49tGZbKvn/k6p44KHZUc9e/3tjtO3BU6dJg6DynltkABf3phDBYQ1U=
 wanna.dating.	3600	in	ns	isla.ns.cloudflare.com.
 wanna.dating.	3600	in	ns	walt.ns.cloudflare.com.
+wannahookup.dating.	3600	in	ns	ns1.dns-parking.com.
+wannahookup.dating.	3600	in	ns	ns2.dns-parking.com.
 want.dating.	3600	in	ns	ns.inwx.de.
 want.dating.	3600	in	ns	ns2.inwx.de.
 want.dating.	3600	in	ns	ns3.inwx.eu.
@@ -10791,8 +10790,8 @@ wings.dating.	3600	in	ns	ns105.ovh.net.
 wings.dating.	3600	in	rrsig	DS 8 2 3600 20250930153300 20250909143300 10383 dating. WE8K6gX93nH2ijczCYoMpWl5Gt9Lv/OyzVUtRI4EkI+ZmwrFV1EfSCUZApXRhZc7TQ4gpe87u6kZMzVeDwR+W8vHMmuOVe3s/GpQ3o0BuRBNlp3FYhzbeEbNBM8ozzxyvvrNxsTMKi52ZHNDOH+Xlsf3sKXaVPCkZvX1HjHLBBs=
 wingwoman.dating.	3600	in	ns	ns09.domaincontrol.com.
 wingwoman.dating.	3600	in	ns	ns10.domaincontrol.com.
-wink.dating.	3600	in	ns	ns1.bodis.com.
-wink.dating.	3600	in	ns	ns2.bodis.com.
+wink.dating.	3600	in	ns	ns1.dns-redirect.com.
+wink.dating.	3600	in	ns	ns2.dns-redirect.com.
 winkee.dating.	3600	in	ns	dns1.registrar-servers.com.
 winkee.dating.	3600	in	ns	dns2.registrar-servers.com.
 wish.dating.	3600	in	ns	ns1.101domain.com.
@@ -11059,4 +11058,4 @@ zolushka-project.dating.	3600	in	ns	ns21.domaincontrol.com.
 zolushka-project.dating.	3600	in	ns	ns22.domaincontrol.com.
 zp.dating.	3600	in	ns	ns21.domaincontrol.com.
 zp.dating.	3600	in	ns	ns22.domaincontrol.com.
-dating.	3600	in	soa	v0n0.nic.dating. hostmaster.donuts.email. 1757552624 7200 900 1209600 3600
+dating.	3600	in	soa	v0n0.nic.dating. hostmaster.donuts.email. 1757638835 7200 900 1209600 3600
