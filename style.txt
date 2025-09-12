@@ -1,4 +1,4 @@
-style.	3600	in	soa	v0n0.nic.style. hostmaster.donuts.email. 1757553305 7200 900 1209600 3600
+style.	3600	in	soa	v0n0.nic.style. hostmaster.donuts.email. 1757639512 7200 900 1209600 3600
 0-6.style.	3600	in	ns	dns01.muumuu-domain.com.
 0-6.style.	3600	in	ns	dns02.muumuu-domain.com.
 0.style.	3600	in	ns	ns1.sedoparking.com.
@@ -1038,8 +1038,6 @@ style.	3600	in	soa	v0n0.nic.style. hostmaster.donuts.email. 1757553305 7200 900 
 88abj08ubnk5ha2g9sqgh3n4ektfqj1l.style.	3600	in	rrsig	NSEC3 8 2 3600 20250930161403 20250909151403 4179 style. Pblpdm1PbzXC7eG/0In6tgni5a2y8y4MRZq/DjBq8p4cbpEqLfWJwF7aK+tlWV5xm/G90BtyDrAa/G7OXACrRa80zr+oOmeVLfx5VKNLHAfDDDu+LhFejNU/Cb2yl7Q8/cwXZY9ASL8CzI9MZKmARlAbGm8AhvonDbN0q+nZS3E=
 88b.style.	3600	in	ns	elly.ns.cloudflare.com.
 88b.style.	3600	in	ns	jasper.ns.cloudflare.com.
-88clb.style.	3600	in	ns	dns101.registrar-servers.com.
-88clb.style.	3600	in	ns	dns102.registrar-servers.com.
 88go.style.	3600	in	ds	15430 13 2 6513F54B8A31DCDBDDA28864B75A1AC958A0AE8F3D8A7105FA7A12299C11F5F9
 88go.style.	3600	in	ns	launch1.spaceship.net.
 88go.style.	3600	in	ns	launch2.spaceship.net.
@@ -1303,8 +1301,8 @@ abyat.style.	3600	in	ns	dns1.registrar-servers.com.
 abyat.style.	3600	in	ns	dns2.registrar-servers.com.
 abyra.style.	3600	in	ns	ns43.domaincontrol.com.
 abyra.style.	3600	in	ns	ns44.domaincontrol.com.
-acad.style.	3600	in	ns	ns1.bodis.com.
-acad.style.	3600	in	ns	ns2.bodis.com.
+acad.style.	3600	in	ns	ns1.dns-redirect.com.
+acad.style.	3600	in	ns	ns2.dns-redirect.com.
 academic.style.	3600	in	ns	ns113.inhostedns.com.
 academic.style.	3600	in	ns	ns213.inhostedns.net.
 academic.style.	3600	in	ns	ns313.inhostedns.org.
@@ -1803,8 +1801,8 @@ alegria.style.	3600	in	ns	ns1.afternic.com.
 alegria.style.	3600	in	ns	ns2.afternic.com.
 aleksana.style.	3600	in	ns	ns55.domaincontrol.com.
 aleksana.style.	3600	in	ns	ns56.domaincontrol.com.
-aleksandra.style.	3600	in	ns	ns1.bodis.com.
-aleksandra.style.	3600	in	ns	ns2.bodis.com.
+aleksandra.style.	3600	in	ns	ns1.dns-redirect.com.
+aleksandra.style.	3600	in	ns	ns2.dns-redirect.com.
 aleo.style.	3600	in	ds	56902 8 2 C75DB2E95FA298BB6DD32D11BE2A4ACF17EB0CD7D51ACB46958773CF51EC61E7
 aleo.style.	3600	in	ns	ns-cloud-c1.googledomains.com.
 aleo.style.	3600	in	ns	ns-cloud-c2.googledomains.com.
@@ -2383,8 +2381,8 @@ annaschilling.style.	3600	in	ns	ns01.squarespacedns.com.
 annaschilling.style.	3600	in	ns	ns02.squarespacedns.com.
 annaschilling.style.	3600	in	ns	ns03.squarespacedns.com.
 annaschilling.style.	3600	in	ns	ns04.squarespacedns.com.
-annaspreckley.style.	3600	in	ns	ns1.bodis.com.
-annaspreckley.style.	3600	in	ns	ns2.bodis.com.
+annaspreckley.style.	3600	in	ns	ns1.dns-redirect.com.
+annaspreckley.style.	3600	in	ns	ns2.dns-redirect.com.
 annatrevelyan.style.	3600	in	ds	15655 8 2 E6C856ACF43C3FF575DF61DC37D69607ECFA5325CC8DBF779EF033EEB69FC2DB
 annatrevelyan.style.	3600	in	ns	ns-cloud-c1.googledomains.com.
 annatrevelyan.style.	3600	in	ns	ns-cloud-c2.googledomains.com.
@@ -2521,6 +2519,8 @@ app.style.	3600	in	ns	ns1.markmonitor.com.
 app.style.	3600	in	ns	ns2.markmonitor.com.
 appalachian.style.	3600	in	ns	ns47.domaincontrol.com.
 appalachian.style.	3600	in	ns	ns48.domaincontrol.com.
+apparel.style.	3600	in	ns	ns1.afternic.com.
+apparel.style.	3600	in	ns	ns2.afternic.com.
 appearance.style.	3600	in	ns	ns.udag.de.
 appearance.style.	3600	in	ns	ns.udag.net.
 appearance.style.	3600	in	ns	ns.udag.org.
@@ -2829,11 +2829,6 @@ askip.style.	3600	in	ns	ns-cloud-c1.googledomains.com.
 askip.style.	3600	in	ns	ns-cloud-c2.googledomains.com.
 askip.style.	3600	in	ns	ns-cloud-c3.googledomains.com.
 askip.style.	3600	in	ns	ns-cloud-c4.googledomains.com.
-aslan.style.	3600	in	ns	ns1.value-domain.com.
-aslan.style.	3600	in	ns	ns2.value-domain.com.
-aslan.style.	3600	in	ns	ns3.value-domain.com.
-aslan.style.	3600	in	ns	ns4.value-domain.com.
-aslan.style.	3600	in	ns	ns5.value-domain.com.
 aslinkage.style.	3600	in	ns	ns1.xserver.jp.
 aslinkage.style.	3600	in	ns	ns2.xserver.jp.
 aslinkage.style.	3600	in	ns	ns3.xserver.jp.
@@ -4219,8 +4214,8 @@ bks.style.	3600	in	ns	nash.ns.cloudflare.com.
 bks.style.	3600	in	ns	sandra.ns.cloudflare.com.
 bl555.style.	3600	in	ns	lars.ns.cloudflare.com.
 bl555.style.	3600	in	ns	sandra.ns.cloudflare.com.
-bl8g63c5r5mf7o1bauf4a83r69i2j82s.style.	3600	in	nsec3	1 1 0 73 BSI93I8DQFE9UA0VC97DHRRB8FHAHKDM NS DS RRSIG
-bl8g63c5r5mf7o1bauf4a83r69i2j82s.style.	3600	in	rrsig	NSEC3 8 2 3600 20250930161403 20250909151403 4179 style. O87NRv4ulHisrZf07iNJ8yVXCmSO2TIs2RFfbhs0I+MnjZgwsN8krpuS+CGsaZngyvUJfA9viTKsSLVdMralcEtQlvR+g/yFcwq3KK7FJPt33De8zyjpX1687XyiZGecfcoiqtV1M6up0RBfmwuRyil4zxCw4IBncDp3oDpNwKs=
+bl8g63c5r5mf7o1bauf4a83r69i2j82s.style.	3600	in	nsec3	1 1 0 73 BOVBFDLKE8266TVHO3NE6RH5TDB0ASI2 NS DS RRSIG
+bl8g63c5r5mf7o1bauf4a83r69i2j82s.style.	3600	in	rrsig	NSEC3 8 2 3600 20251002013102 20250911003102 4179 style. BbPtyithiaJFZBSzlDWWWRMDZuPU8SXb0LvttsRa524ZjZzI12oYtc1fXnL08UdD3qlM8A95YlMRe2Y3Le++UmOuKZDHGrayC34EP+sngdrHTEni4aiSm5psViB3xxA4SzAk+e/fMdXvoscxCpmGr33DlDk9gWkTDuFpovvWlrg=
 black.style.	3600	in	ds	3280 8 2 1905A0384178188F3DF62155B1A95FA28FE9E851A83D52439C9A30D9F173C3CD
 black.style.	3600	in	ns	ns-cloud-e1.googledomains.com.
 black.style.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -4575,6 +4570,10 @@ boomer.style.	3600	in	ns	ns69.domaincontrol.com.
 boomer.style.	3600	in	ns	ns70.domaincontrol.com.
 boop.style.	3600	in	ns	amanda.ns.cloudflare.com.
 boop.style.	3600	in	ns	david.ns.cloudflare.com.
+boost.style.	3600	in	ns	ns-1113.awsdns-11.org.
+boost.style.	3600	in	ns	ns-1951.awsdns-51.co.uk.
+boost.style.	3600	in	ns	ns-406.awsdns-50.com.
+boost.style.	3600	in	ns	ns-985.awsdns-59.net.
 booster.style.	3600	in	ns	uns01.lolipop.jp.
 booster.style.	3600	in	ns	uns02.lolipop.jp.
 boostyourlife.style.	3600	in	ns	docks01.rzone.de.
@@ -4609,8 +4608,8 @@ boozt.style.	3600	in	ns	ns3.eurodns.com.
 boozt.style.	3600	in	ns	ns4.eurodns.com.
 border.style.	3600	in	ns	kenia.ns.cloudflare.com.
 border.style.	3600	in	ns	thomas.ns.cloudflare.com.
-boricua.style.	3600	in	ns	ns1.bodis.com.
-boricua.style.	3600	in	ns	ns2.bodis.com.
+boricua.style.	3600	in	ns	ns1.dns-redirect.com.
+boricua.style.	3600	in	ns	ns2.dns-redirect.com.
 borscht.style.	3600	in	ns	uns01.lolipop.jp.
 borscht.style.	3600	in	ns	uns02.lolipop.jp.
 borsetta.style.	3600	in	ns	ns.hostpoint.ch.
@@ -4647,6 +4646,8 @@ bounce.style.	3600	in	ns	ns-1521.awsdns-62.org.
 bounce.style.	3600	in	ns	ns-1825.awsdns-36.co.uk.
 bounce.style.	3600	in	ns	ns-375.awsdns-46.com.
 bounce.style.	3600	in	ns	ns-990.awsdns-59.net.
+bouncingcrazy.style.	3600	in	ns	dns1.registrar-servers.com.
+bouncingcrazy.style.	3600	in	ns	dns2.registrar-servers.com.
 bound.style.	3600	in	ns	ns-cloud-e1.googledomains.com.
 bound.style.	3600	in	ns	ns-cloud-e2.googledomains.com.
 bound.style.	3600	in	ns	ns-cloud-e3.googledomains.com.
@@ -4671,6 +4672,8 @@ boutiques.style.	3600	in	ns	ns-1244.awsdns-27.org.
 boutiques.style.	3600	in	ns	ns-1892.awsdns-44.co.uk.
 boutiques.style.	3600	in	ns	ns-420.awsdns-52.com.
 boutiques.style.	3600	in	ns	ns-781.awsdns-33.net.
+bovbfdlke8266tvho3ne6rh5tdb0asi2.style.	3600	in	nsec3	1 1 0 73 BSI93I8DQFE9UA0VC97DHRRB8FHAHKDM NS DS RRSIG
+bovbfdlke8266tvho3ne6rh5tdb0asi2.style.	3600	in	rrsig	NSEC3 8 2 3600 20251002013102 20250911003102 4179 style. kaTTKvcDtelVIRrzWzzNUSwXAmp5PbHpigGkRHH+jXpRbT2cy/q6FKiR94CtH9yvlS/WgWYpWBt7IvD1/Nf0jrhgqSF6eINpo6qxKvaW/S+pHbiYDSZvI4RFg26jrMYiQPYOWX/aVXxrO9oKdy7e/l2kd+cCAkoYbd2VvTDgH6o=
 box.style.	3600	in	ns	ns25.domaincontrol.com.
 box.style.	3600	in	ns	ns26.domaincontrol.com.
 boxof.style.	3600	in	ns	ns1.dotster-expired.domainparkingserver.net.
@@ -4835,8 +4838,8 @@ bringwordstolife.style.	3600	in	ns	ns0.transip.net.
 bringwordstolife.style.	3600	in	ns	ns1.transip.nl.
 bringwordstolife.style.	3600	in	ns	ns2.transip.eu.
 bringwordstolife.style.	3600	in	rrsig	DS 8 2 3600 20250930161403 20250909151403 4179 style. Evz2t2FaAJ0YLA4hYCAvE8kkZnS74neNsMNaCj/HNA8D0njQ8+mczH1ThKK7KhAzAXdWqk+2hhqtUKN2j+o7R9gDetsu9aHiPe5TmKILOeh/ufT9TbWDqF8O3z8NyFiypYRa6rb+GT3NXKk0UL3cxkGaNOaAIVL1/YaaP7pu/PU=
-brisk.style.	3600	in	ns	ns1.bodis.com.
-brisk.style.	3600	in	ns	ns2.bodis.com.
+brisk.style.	3600	in	ns	ns1.dns-redirect.com.
+brisk.style.	3600	in	ns	ns2.dns-redirect.com.
 britalo.style.	3600	in	ns	ns1.hosting.de.
 britalo.style.	3600	in	ns	ns2.hosting.de.
 britalo.style.	3600	in	ns	ns3.hosting.de.
@@ -5562,8 +5565,8 @@ catalog.style.	3600	in	ns	dns3.p04.nsone.net.
 catalog.style.	3600	in	ns	dns4.p04.nsone.net.
 catch.style.	3600	in	ns	ns29.domaincontrol.com.
 catch.style.	3600	in	ns	ns30.domaincontrol.com.
-catchy.style.	3600	in	ns	ns1.dyna-ns.net.
-catchy.style.	3600	in	ns	ns2.dyna-ns.net.
+catchy.style.	3600	in	ns	ns1.afternic.com.
+catchy.style.	3600	in	ns	ns2.afternic.com.
 catesheehy.style.	3600	in	ns	ns27.domaincontrol.com.
 catesheehy.style.	3600	in	ns	ns28.domaincontrol.com.
 cathy.style.	3600	in	ns	ns.hostpoint.ch.
@@ -5794,10 +5797,6 @@ charlottewei.style.	3600	in	ns	pdns1.registrar-servers.com.
 charlottewei.style.	3600	in	ns	pdns2.registrar-servers.com.
 charm-house.style.	3600	in	ns	dns01.muumuu-domain.com.
 charm-house.style.	3600	in	ns	dns02.muumuu-domain.com.
-charm.style.	3600	in	ns	curitiba.ns.porkbun.com.
-charm.style.	3600	in	ns	fortaleza.ns.porkbun.com.
-charm.style.	3600	in	ns	maceio.ns.porkbun.com.
-charm.style.	3600	in	ns	salvador.ns.porkbun.com.
 charma.style.	3600	in	ns	ns49.domaincontrol.com.
 charma.style.	3600	in	ns	ns50.domaincontrol.com.
 charmingmoment.style.	3600	in	ds	56530 13 2 7F41C23BA1DFEB477530F02E3E3744841482F79E6255AB771790E0DD3907E327
@@ -6195,10 +6194,6 @@ clas.style.	3600	in	ns	ns-1339.awsdns-39.org.
 clas.style.	3600	in	ns	ns-1679.awsdns-17.co.uk.
 clas.style.	3600	in	ns	ns-208.awsdns-26.com.
 clas.style.	3600	in	ns	ns-687.awsdns-21.net.
-class.style.	3600	in	ns	curitiba.ns.porkbun.com.
-class.style.	3600	in	ns	fortaleza.ns.porkbun.com.
-class.style.	3600	in	ns	maceio.ns.porkbun.com.
-class.style.	3600	in	ns	salvador.ns.porkbun.com.
 classes.style.	3600	in	ns	dns1.registrar-servers.com.
 classes.style.	3600	in	ns	dns2.registrar-servers.com.
 classic.style.	3600	in	ds	22062 13 2 6D327BF264166BC387144B68B32D5F5475D9FAA9E7D5E16FD090D7B3CDF9C10B
@@ -6724,6 +6719,8 @@ containerquery.style.	3600	in	ns	ns1.blacknight.com.
 containerquery.style.	3600	in	ns	ns2.blacknight.com.
 containerquery.style.	3600	in	ns	ns3.blacknight.com.
 containerquery.style.	3600	in	ns	ns4.blacknight.com.
+conte.style.	3600	in	ns	ns1.dns-redirect.com.
+conte.style.	3600	in	ns	ns2.dns-redirect.com.
 content-marketing.style.	3600	in	ns	dns1.onamae.com.
 content-marketing.style.	3600	in	ns	dns2.onamae.com.
 content.style.	3600	in	ns	ns07.domaincontrol.com.
@@ -6911,8 +6908,6 @@ cowboy.style.	3600	in	ns	curitiba.ns.porkbun.com.
 cowboy.style.	3600	in	ns	fortaleza.ns.porkbun.com.
 cowboy.style.	3600	in	ns	maceio.ns.porkbun.com.
 cowboy.style.	3600	in	ns	salvador.ns.porkbun.com.
-cowboyblades.style.	3600	in	ns	pdns07.domaincontrol.com.
-cowboyblades.style.	3600	in	ns	pdns08.domaincontrol.com.
 cowgirl.style.	3600	in	ns	curitiba.ns.porkbun.com.
 cowgirl.style.	3600	in	ns	fortaleza.ns.porkbun.com.
 cowgirl.style.	3600	in	ns	maceio.ns.porkbun.com.
@@ -7435,8 +7430,6 @@ dark.style.	3600	in	ns	ns4.no-ip.com.
 dark.style.	3600	in	ns	ns5.no-ip.com.
 darkmode.style.	3600	in	ns	dns1.registrar-servers.com.
 darkmode.style.	3600	in	ns	dns2.registrar-servers.com.
-darktable.style.	3600	in	ns	dns101.registrar-servers.com.
-darktable.style.	3600	in	ns	dns102.registrar-servers.com.
 darlenegolden.style.	3600	in	ns	ns-cloud-b1.googledomains.com.
 darlenegolden.style.	3600	in	ns	ns-cloud-b2.googledomains.com.
 darlenegolden.style.	3600	in	ns	ns-cloud-b3.googledomains.com.
@@ -7659,8 +7652,6 @@ defineyour.style.	3600	in	ns	dns19.ovh.net.
 defineyour.style.	3600	in	ns	ns19.ovh.net.
 defy.style.	3600	in	ns	cdns1.main-hosting.eu.
 defy.style.	3600	in	ns	cdns2.main-hosting.eu.
-degen.style.	3600	in	ns	ns1-expired.sav.com.
-degen.style.	3600	in	ns	ns2-expired.sav.com.
 dein-friseur.style.	3600	in	ns	ns1020.ui-dns.de.
 dein-friseur.style.	3600	in	ns	ns1037.ui-dns.com.
 dein-friseur.style.	3600	in	ns	ns1040.ui-dns.org.
@@ -8047,6 +8038,8 @@ dinamica.style.	3600	in	ns	ns.iperhosting.com.
 dinamica.style.	3600	in	ns	ns2.iperhosting.com.
 dinasti923raja.style.	3600	in	ns	ns1.dyna-ns.net.
 dinasti923raja.style.	3600	in	ns	ns2.dyna-ns.net.
+dine.style.	3600	in	ns	dns01.muumuu-domain.com.
+dine.style.	3600	in	ns	dns02.muumuu-domain.com.
 dinner.style.	3600	in	ns	uns01.lolipop.jp.
 dinner.style.	3600	in	ns	uns02.lolipop.jp.
 dino.style.	3600	in	ns	dns1.hu.
@@ -8521,8 +8514,8 @@ drgn.style.	3600	in	ns	01.dnsv.jp.
 drgn.style.	3600	in	ns	02.dnsv.jp.
 drgn.style.	3600	in	ns	03.dnsv.jp.
 drgn.style.	3600	in	ns	04.dnsv.jp.
-drift.style.	3600	in	ns	ns1.bodis.com.
-drift.style.	3600	in	ns	ns2.bodis.com.
+drift.style.	3600	in	ns	ns1.dns-redirect.com.
+drift.style.	3600	in	ns	ns2.dns-redirect.com.
 drink.style.	3600	in	ns	ns07.domaincontrol.com.
 drink.style.	3600	in	ns	ns08.domaincontrol.com.
 drip.style.	3600	in	ns	dns1.registrar-servers.com.
@@ -8719,8 +8712,8 @@ e0k792vutleh4euvu0ugvgpsufdqdmto.style.	3600	in	nsec3	1 1 0 73 E0KULQ2C9K2VPHD3F
 e0k792vutleh4euvu0ugvgpsufdqdmto.style.	3600	in	rrsig	NSEC3 8 2 3600 20250930161403 20250909151403 4179 style. oQVgUU2rHGq5kA6z1M3AZuDB8BEcO8jzbrjqbcN+tSBCUMM+1vZDyFYlN8iMUIvUbjjDed02bN4FUXOgOfnhRUkOaGg0tYxrQzBXfIdz5k+WkiXRdUvxIwZKMiC7pgC/Vgpf6QoxA1VfXEvGDzPONu3/Xp+pzYESnhHLfpbQDLE=
 e0kulq2c9k2vphd3f8v5p36jf6k4g8df.style.	3600	in	nsec3	1 1 0 73 E31U95BAC7O2F2A4AF556DSBVTDMPHC3 NS DS RRSIG
 e0kulq2c9k2vphd3f8v5p36jf6k4g8df.style.	3600	in	rrsig	NSEC3 8 2 3600 20250930161403 20250909151403 4179 style. N5NtysfKsXri05sDMyCLoQPrryebBATUbqjagTBcW40xODa3xub9DIDI6rmAU9/ixqJI10eVHu1wYnOIDE2pT6OSSfDnDQQPvGuIRbmQfkiIL6v5DlWns+9MN/kdWT7Y02uhtmxVjIdCPre95wGYOa1/EbnbaSYTrcmkp9bi9pE=
-e2.style.	3600	in	ns	ns1.bodis.com.
-e2.style.	3600	in	ns	ns2.bodis.com.
+e2.style.	3600	in	ns	ns1.dns-redirect.com.
+e2.style.	3600	in	ns	ns2.dns-redirect.com.
 e2bet.style.	3600	in	ns	ezra.ns.cloudflare.com.
 e2bet.style.	3600	in	ns	melody.ns.cloudflare.com.
 e31u95bac7o2f2a4af556dsbvtdmphc3.style.	3600	in	nsec3	1 1 0 73 E4G9MP0PV0BV0C7A12LPDLTR4DG0GV2A NS DS RRSIG
@@ -10286,7 +10279,7 @@ fb68.style.	3600	in	ns	launch1.spaceship.net.
 fb68.style.	3600	in	ns	launch2.spaceship.net.
 fb68.style.	3600	in	rrsig	DS 8 2 3600 20250930161403 20250909151403 4179 style. gy/WN1YY/72mKaYdR9bypaNNu1S5AuTislbdPezfr0YmR0HvJH7+MWwf+wJ6q5GB4B7ff/wA31lCD7XEg8diRuB+5ChK8S9hfQkEVCB+nYT+TD+QN7ygcX4DaDT6hSDKhQ/wuSE0trpTj5XsxarAt5fyz/lkxLDgt8BHHMdiaVs=
 fb86h0lceo6hvkmgo09br65bukjk53e2.style.	3600	in	nsec3	1 1 0 73 FD1QP3E67H35VG0BVFS0LGARFBRO78VJ NS SOA RRSIG DNSKEY NSEC3PARAM
-fb86h0lceo6hvkmgo09br65bukjk53e2.style.	3600	in	rrsig	NSEC3 8 2 3600 20251002012035 20250911002035 4179 style. Qswwi7ttRvcUP+jvDkj7S8NOITF0EdnIWgBX3t07IWVpvtilLSaln0hEDthDw05eN3dGFnc6M94xRw9WGcbL1Sxk0X1qx10PFACghHur8H6ySa8KiifBqLdMldC4ynsISHFtwlnAmKpTMjgHG6xisJhsQ2PzblsK31fEjywnPSA=
+fb86h0lceo6hvkmgo09br65bukjk53e2.style.	3600	in	rrsig	NSEC3 8 2 3600 20251003011653 20250912001653 4179 style. yqkLzOz7A4ZZ0JZFJ1jIuo+By0wVcNzW9xrUMRXC3yRxRskG89SJ2Sb7iC4AW6IKoVpMo83dBjtPGAG5TodgP93+IXlI00BnFzG/cApOnc9NhHS7QIG0+pORV1KqojTJYdUGqXH8m9gyAyBVh4JposViwd0Ko142Uj3XM85z/7Q=
 fb88.style.	3600	in	ns	meg.ns.cloudflare.com.
 fb88.style.	3600	in	ns	neil.ns.cloudflare.com.
 fc.style.	3600	in	ns	ns.udag.de.
@@ -11259,6 +11252,11 @@ fuck.style.	3600	in	ns	ns1.vultr.com.
 fuck.style.	3600	in	ns	ns2.vultr.com.
 fucking.style.	3600	in	ns	ace.ns.cloudflare.com.
 fucking.style.	3600	in	ns	tani.ns.cloudflare.com.
+fudo.style.	3600	in	ns	ns1.xserver.jp.
+fudo.style.	3600	in	ns	ns2.xserver.jp.
+fudo.style.	3600	in	ns	ns3.xserver.jp.
+fudo.style.	3600	in	ns	ns4.xserver.jp.
+fudo.style.	3600	in	ns	ns5.xserver.jp.
 fudousan.style.	3600	in	ns	ns0.kagoya.net.
 fudousan.style.	3600	in	ns	ns1.kagoya.net.
 fuel.style.	3600	in	ns	ns1.xdomain.ne.jp.
@@ -11584,8 +11582,8 @@ geek.style.	3600	in	ns	ns3.dnsowl.com.
 geekanista.style.	3600	in	ns	ns1.wordpress.com.
 geekanista.style.	3600	in	ns	ns2.wordpress.com.
 geekanista.style.	3600	in	ns	ns3.wordpress.com.
-geeks.style.	3600	in	ns	ns1.bodis.com.
-geeks.style.	3600	in	ns	ns2.bodis.com.
+geeks.style.	3600	in	ns	ns1.dns-redirect.com.
+geeks.style.	3600	in	ns	ns2.dns-redirect.com.
 geeky.style.	3600	in	ns	curitiba.ns.porkbun.com.
 geeky.style.	3600	in	ns	fortaleza.ns.porkbun.com.
 geeky.style.	3600	in	ns	maceio.ns.porkbun.com.
@@ -14421,8 +14419,8 @@ itscurlyjones.style.	3600	in	ns	ns2.dreamhost.com.
 itscurlyjones.style.	3600	in	ns	ns3.dreamhost.com.
 itskiva.style.	3600	in	ns	docks03.rzone.de.
 itskiva.style.	3600	in	ns	shades06.rzone.de.
-itsme.style.	3600	in	ns	ns1.bodis.com.
-itsme.style.	3600	in	ns	ns2.bodis.com.
+itsme.style.	3600	in	ns	ns1.dns-redirect.com.
+itsme.style.	3600	in	ns	ns2.dns-redirect.com.
 itsmy.style.	3600	in	ns	ns01.domaincontrol.com.
 itsmy.style.	3600	in	ns	ns02.domaincontrol.com.
 itsourturn.style.	3600	in	ns	ns31.domaincontrol.com.
@@ -14537,9 +14535,11 @@ james.style.	3600	in	ns	ns55.domaincontrol.com.
 james.style.	3600	in	ns	ns56.domaincontrol.com.
 jamie.style.	3600	in	ns	pdns1.registrar-servers.com.
 jamie.style.	3600	in	ns	pdns2.registrar-servers.com.
+jamiepaigeisgoatedwiththesaucewatchherbustitdownsexual.style.	3600	in	ds	42464 8 2 D75FECBC0F43F2BA9DA1C7C292E5B13F904FD5163ACD9F55632D564A1DD2A6EC
 jamiepaigeisgoatedwiththesaucewatchherbustitdownsexual.style.	3600	in	ns	ns1.netim.net.
 jamiepaigeisgoatedwiththesaucewatchherbustitdownsexual.style.	3600	in	ns	ns2.netim.net.
 jamiepaigeisgoatedwiththesaucewatchherbustitdownsexual.style.	3600	in	ns	ns3.netim.net.
+jamiepaigeisgoatedwiththesaucewatchherbustitdownsexual.style.	3600	in	rrsig	DS 8 2 3600 20251002013102 20250911003102 4179 style. FCzXkMxjTh2eRIH5gpZsFCgOKK2HqtuLGl4iopg17Vd+SWZ1nyB/YsWitku8RIQTPO0+BQyBZl6ijgdRcvauEu69J9Kmu9x43lDi0JjbjApDLlm3o7R6X7ssbwux6f+1t/RjP6G85OLCdhfh0VOK835RRMSSdpXNNPtBoUv4SO0=
 jams.style.	3600	in	ns	ns-a1.conoha.io.
 jams.style.	3600	in	ns	ns-a2.conoha.io.
 jams.style.	3600	in	ns	ns-a3.conoha.io.
@@ -15990,8 +15990,8 @@ koral.style.	3600	in	ns	curitiba.ns.porkbun.com.
 koral.style.	3600	in	ns	fortaleza.ns.porkbun.com.
 koral.style.	3600	in	ns	maceio.ns.porkbun.com.
 koral.style.	3600	in	ns	salvador.ns.porkbun.com.
-kord.style.	3600	in	ns	ns1.bodis.com.
-kord.style.	3600	in	ns	ns2.bodis.com.
+kord.style.	3600	in	ns	ns1.dns-redirect.com.
+kord.style.	3600	in	ns	ns2.dns-redirect.com.
 korea.style.	3600	in	ns	ns1.bodis.com.
 korea.style.	3600	in	ns	ns2.bodis.com.
 korean.style.	3600	in	ns	ns1.afternic.com.
@@ -17342,10 +17342,8 @@ london.style.	3600	in	ns	ns23.domaincontrol.com.
 london.style.	3600	in	ns	ns24.domaincontrol.com.
 londonfashionweek.style.	3600	in	ns	ns07.domaincontrol.com.
 londonfashionweek.style.	3600	in	ns	ns08.domaincontrol.com.
-londres.style.	3600	in	ds	42355 8 2 7D32A30988D59C5CF7263DF6D3635C1FEF6F4760FDB8DB4AC23D144CA5E2B21A
 londres.style.	3600	in	ns	dns101.ovh.net.
 londres.style.	3600	in	ns	ns101.ovh.net.
-londres.style.	3600	in	rrsig	DS 8 2 3600 20250930161403 20250909151403 4179 style. ToS2jGkoGKPSOKpRcR6qICtbU/697dj6eldM0INAGWAFF+lW7MP4NLyOmZgHrB4O+yIcE0K9HnWTtHYwCw41S8jB3hnwaT326RB9vin5iNM8P9FFN6qsXkQatec9Yw1QSPnqXSunO8vrPHoWoCaHVmin3KEmlIfy2QMPgev6IQ0=
 longandfoster.style.	3600	in	ns	n-s1691.awsdns-19.co.uk.
 longandfoster.style.	3600	in	ns	ns-1198.awsdns-21.org.
 longandfoster.style.	3600	in	ns	ns-173.awsdns-21.com.
@@ -17619,8 +17617,8 @@ lulas.style.	3600	in	ns	ns4.xserver.jp.
 lulas.style.	3600	in	ns	ns5.xserver.jp.
 lulufashion.style.	3600	in	ns	ns41.domaincontrol.com.
 lulufashion.style.	3600	in	ns	ns42.domaincontrol.com.
-luma.style.	3600	in	ns	ns1.bodis.com.
-luma.style.	3600	in	ns	ns2.bodis.com.
+luma.style.	3600	in	ns	ns1.dns-redirect.com.
+luma.style.	3600	in	ns	ns2.dns-redirect.com.
 lumavelle.style.	3600	in	ns	ns47.domaincontrol.com.
 lumavelle.style.	3600	in	ns	ns48.domaincontrol.com.
 lumax.style.	3600	in	ns	dns1.registrar-servers.com.
@@ -17815,8 +17813,8 @@ m2pro.style.	3600	in	ns	docks03.rzone.de.
 m2pro.style.	3600	in	ns	shades02.rzone.de.
 m358.style.	3600	in	ns	aiden.ns.cloudflare.com.
 m358.style.	3600	in	ns	julissa.ns.cloudflare.com.
-m3ga.style.	3600	in	ns	ns1.bodis.com.
-m3ga.style.	3600	in	ns	ns2.bodis.com.
+m3ga.style.	3600	in	ns	ns1.dns-redirect.com.
+m3ga.style.	3600	in	ns	ns2.dns-redirect.com.
 m3ta.style.	3600	in	ns	ns57.domaincontrol.com.
 m3ta.style.	3600	in	ns	ns58.domaincontrol.com.
 m48mmthm9fjt9gdh8dd0sdfc438e7ao7.style.	3600	in	nsec3	1 1 0 73 M4ICH7U3E93K00F9DIJKN7O51FLFH6N3 NS DS RRSIG
@@ -17825,8 +17823,8 @@ m4ich7u3e93k00f9dijkn7o51flfh6n3.style.	3600	in	nsec3	1 1 0 73 M5H3RB2V4JLN2SPEL
 m4ich7u3e93k00f9dijkn7o51flfh6n3.style.	3600	in	rrsig	NSEC3 8 2 3600 20250930161403 20250909151403 4179 style. W5OGcRDG6+Ivo/wIBcnEfnxIilSKiP0fQY9OrqxaER2xYCxfYegixCytnp5J76QFpXf2h8h2zOHO0Rl+Zq5EbpsI2a5dPm+Pmhck54PkNyb3Q+ipPQqv12E0aBeIjXy6lPXtQ/dOLD8Pq6WYv9gprBh/g8B2cvy8Tm7urx7c+7w=
 m5h3rb2v4jln2spelo36pg0pg3b8hcng.style.	3600	in	nsec3	1 1 0 73 MDIOVE5JASRKSSVAA3CCPM1F3Q60J670 NS DS RRSIG
 m5h3rb2v4jln2spelo36pg0pg3b8hcng.style.	3600	in	rrsig	NSEC3 8 2 3600 20250930161403 20250909151403 4179 style. wY+nm9pKuKRnYYWwB+sZbj4Kzrxbgtky7Md6ycSHePUZ0hMlVdR5+E0ZNB9kPfgNMOclXT2YizD/aFPzNs13Ze4ZPbRILFL0w1VGMnTUsBDoVNf4EsWwJJcdH9yQ8RQBO48gujzdOHGRj1B7aE/bAqgxt1vNN67eO7ePNS6vKy0=
-m88.style.	3600	in	ns	ns1.bodis.com.
-m88.style.	3600	in	ns	ns2.bodis.com.
+m88.style.	3600	in	ns	ns1.dns-redirect.com.
+m88.style.	3600	in	ns	ns2.dns-redirect.com.
 ma-fleur.style.	3600	in	ns	dns01.muumuu-domain.com.
 ma-fleur.style.	3600	in	ns	dns02.muumuu-domain.com.
 maad.style.	3600	in	ns	dns1.p01.nsone.net.
@@ -20074,6 +20072,10 @@ myempire.style.	3600	in	ns	statuspage1.nic.ru.
 myempire.style.	3600	in	ns	statuspage2.nic.ru.
 myenergy.style.	3600	in	ns	ns1.tildadns.com.
 myenergy.style.	3600	in	ns	ns2.tildadns.com.
+myfashion.style.	3600	in	ns	ns1055.ui-dns.biz.
+myfashion.style.	3600	in	ns	ns1066.ui-dns.com.
+myfashion.style.	3600	in	ns	ns1089.ui-dns.de.
+myfashion.style.	3600	in	ns	ns1107.ui-dns.org.
 myfashionmyvision.style.	3600	in	ns	dns1.registrar-servers.com.
 myfashionmyvision.style.	3600	in	ns	dns2.registrar-servers.com.
 myfavoritethings.style.	3600	in	ns	ns77.domaincontrol.com.
@@ -20635,6 +20637,8 @@ neutral.style.	3600	in	ns	ns4.xserver.jp.
 neutral.style.	3600	in	ns	ns5.xserver.jp.
 neutron.style.	3600	in	ns	casey.ns.cloudflare.com.
 neutron.style.	3600	in	ns	serenity.ns.cloudflare.com.
+nevado.style.	3600	in	ns	directi1.irandns.com.
+nevado.style.	3600	in	ns	directi2.irandns.com.
 new-york.style.	3600	in	ns	ns.udag.de.
 new-york.style.	3600	in	ns	ns.udag.net.
 new-york.style.	3600	in	ns	ns.udag.org.
@@ -20885,14 +20889,12 @@ njoya.style.	3600	in	ns	andy.ns.cloudflare.com.
 njoya.style.	3600	in	ns	brenda.ns.cloudflare.com.
 nlqoi21huace817pab6guicoha88apnc.style.	3600	in	nsec3	1 1 0 73 NLS7L9MVVSD25C0FKCRQKV5VVQBKI15D NS DS RRSIG
 nlqoi21huace817pab6guicoha88apnc.style.	3600	in	rrsig	NSEC3 8 2 3600 20250930161403 20250909151403 4179 style. bsjg2mgKtCpK4jOBl5NYOT0H0BhLEAM6atoP8s2O2E7LVJP9lvJWdab0q5HSuDf3CDroQrwFIKoL9R/gyA1+b/sVSNduI8fHY/oxjJwVLWY+dqFz05x6cv6a3k3nLDtF4/fLu6fCvXV4WyCuu/phHGwn7D9gDkFpznUV7+VkA6I=
-nls7l9mvvsd25c0fkcrqkv5vvqbki15d.style.	3600	in	nsec3	1 1 0 73 NM5TPNUJ2Q4N97AQSC5DVN287IC5B44I NS DS RRSIG
-nls7l9mvvsd25c0fkcrqkv5vvqbki15d.style.	3600	in	rrsig	NSEC3 8 2 3600 20250930161403 20250909151403 4179 style. oknXfkhqqhb4SD3ua9nAf37CaFle9+ZPXDvirKvTIqRIQsYqSNDrwRegAhb5mDogI1kFQGAWQ/yuV8QCBzV2Uvg3KHn7cBJh+2L6AalOmwDGQmsI/2E1K5dWfL1JexNbw/PHjvtNBEIjf6yL4MzsKSDB1oY1V6L2PC8kxe6o+88=
+nls7l9mvvsd25c0fkcrqkv5vvqbki15d.style.	3600	in	nsec3	1 1 0 73 NOSF3327806LINB424J7PPE40N4AH6H3 NS DS RRSIG
+nls7l9mvvsd25c0fkcrqkv5vvqbki15d.style.	3600	in	rrsig	NSEC3 8 2 3600 20251002165002 20250911155002 4179 style. js9aKvLKgOP28frIArAzmuRJGS9b/lKxza+HSSZIf4jLst/8/5BmHdp1QNyUXgYBc/qLTeEW2+e5Rs+WCjzHClRgzV8tTVytrXkAUWkoZF211Bb61ynZ9UbuYcZy6/T9buPtev4M9BW0hUXS6kkEvF9JUS80On0+sEIiGqx7XWs=
 nlt-store.style.	3600	in	ns	dns1.onamae.com.
 nlt-store.style.	3600	in	ns	dns2.onamae.com.
 nltstore.style.	3600	in	ns	dns1.onamae.com.
 nltstore.style.	3600	in	ns	dns2.onamae.com.
-nm5tpnuj2q4n97aqsc5dvn287ic5b44i.style.	3600	in	nsec3	1 1 0 73 NOSF3327806LINB424J7PPE40N4AH6H3 NS DS RRSIG
-nm5tpnuj2q4n97aqsc5dvn287ic5b44i.style.	3600	in	rrsig	NSEC3 8 2 3600 20250930161403 20250909151403 4179 style. UkLIpsXVyEosEmZHku0fFKOgMlTuxmZAomvlAwDRsXNMoCB5Hm4/2QY/VjYlD789AtZIRIv/4olgjpwfRrSs7IdNt13O6erPaLqe5sMi3kqjY7Vo5Wb7kwn1tasiXPkXP/P6gK6vKsiIagTE0sogZTcmzfHX4V3pzsn2KBhfF6k=
 nmg.style.	3600	in	ns	dns1.registrar-servers.com.
 nmg.style.	3600	in	ns	dns2.registrar-servers.com.
 nn.style.	3600	in	ns	malcolm.ns.cloudflare.com.
@@ -21013,6 +21015,11 @@ nolimits.style.	3600	in	ns	ns-cloud-a1.googledomains.com.
 nolimits.style.	3600	in	ns	ns-cloud-a2.googledomains.com.
 nolimits.style.	3600	in	ns	ns-cloud-a3.googledomains.com.
 nolimits.style.	3600	in	ns	ns-cloud-a4.googledomains.com.
+nomaco.style.	3600	in	ns	ns1.xserver.jp.
+nomaco.style.	3600	in	ns	ns2.xserver.jp.
+nomaco.style.	3600	in	ns	ns3.xserver.jp.
+nomaco.style.	3600	in	ns	ns4.xserver.jp.
+nomaco.style.	3600	in	ns	ns5.xserver.jp.
 nomad.style.	3600	in	ns	ns71.domaincontrol.com.
 nomad.style.	3600	in	ns	ns72.domaincontrol.com.
 nomadlife.style.	3600	in	ds	21962 8 2 214A07752A32FFE83263D7DE12AB10F543872CEAACBA0162A515725BC408B7C9
@@ -22108,8 +22115,8 @@ ouxyi.style.	3600	in	ns	ns-521.awsdns-01.net.
 ouxyi.style.	3600	in	rrsig	DS 8 2 3600 20250930161403 20250909151403 4179 style. Wdxw6pjVAoFbwuvDI+p2KdUz1pRJRERWIfdq9V8fI//GvhILTx0SD49JZOrNCotNlzA5n9+E9gA81XiF/jHGxocnIufppXLHn5zfaO8b6krDpws+PrGKb+4Yc/eUiQ0JlhR3NgMcelEWe0Kq8Hgmlyel1j2/4o+SNa/RfMomHr4=
 oventfresh.style.	3600	in	ns	pdns1.registrar-servers.com.
 oventfresh.style.	3600	in	ns	pdns2.registrar-servers.com.
-over.style.	3600	in	ns	ns1.bodis.com.
-over.style.	3600	in	ns	ns2.bodis.com.
+over.style.	3600	in	ns	ns1.dns-redirect.com.
+over.style.	3600	in	ns	ns2.dns-redirect.com.
 overfit.style.	3600	in	ns	ns27.domaincontrol.com.
 overfit.style.	3600	in	ns	ns28.domaincontrol.com.
 ovh.style.	3600	in	ns	dns13.ovh.net.
@@ -22244,8 +22251,6 @@ paloma.style.	3600	in	ns	ns-cloud-b1.googledomains.com.
 paloma.style.	3600	in	ns	ns-cloud-b2.googledomains.com.
 paloma.style.	3600	in	ns	ns-cloud-b3.googledomains.com.
 paloma.style.	3600	in	ns	ns-cloud-b4.googledomains.com.
-pamelaidstrom.style.	3600	in	ns	ns27.domaincontrol.com.
-pamelaidstrom.style.	3600	in	ns	ns28.domaincontrol.com.
 panacea.style.	3600	in	ns	dns1.onamae.com.
 panacea.style.	3600	in	ns	dns2.onamae.com.
 panache.style.	3600	in	ns	ns1.afternic.com.
@@ -22554,8 +22559,8 @@ pencil.style.	3600	in	ns	ns38.domaincontrol.com.
 penguin.style.	3600	in	ns	dns2.pery.com.
 penguin.style.	3600	in	ns	dns3.pery.com.
 penguin.style.	3600	in	ns	dns4.pery.com.
-penis.style.	3600	in	ns	ns1.bodis.com.
-penis.style.	3600	in	ns	ns2.bodis.com.
+penis.style.	3600	in	ns	ns1.dns-redirect.com.
+penis.style.	3600	in	ns	ns2.dns-redirect.com.
 pennin.style.	3600	in	ns	eric.ns.cloudflare.com.
 pennin.style.	3600	in	ns	indie.ns.cloudflare.com.
 pennington.style.	3600	in	ns	ns53.domaincontrol.com.
@@ -22800,8 +22805,6 @@ php.style.	3600	in	ns	walt.ns.cloudflare.com.
 php.style.	3600	in	ns	zoe.ns.cloudflare.com.
 phq3ollaoedlmgf2hm1f978c907ciqh5.style.	3600	in	nsec3	1 1 0 73 PHVKD6AHFSIL7P4NJOAQ75T4T7DH2SE6 NS DS RRSIG
 phq3ollaoedlmgf2hm1f978c907ciqh5.style.	3600	in	rrsig	NSEC3 8 2 3600 20250930161403 20250909151403 4179 style. iAa1yL233Iyt2BKeNOSkyigTf7vVI5fCeWHVYFBo8CYBMj10DOXZrt1wnveKqHRqf3stpoSVRseBRTUkcgY7n7V2gsjGiaUC/IZbZJYe3woZh+qeDOndI/yh7oyOBN8493WK2i7oTJNvu+kMzG0+K1i893LR1rvIt3OIzGww+jk=
-pht.style.	3600	in	ns	ns10.wixdns.net.
-pht.style.	3600	in	ns	ns11.wixdns.net.
 phvkd6ahfsil7p4njoaq75t4t7dh2se6.style.	3600	in	nsec3	1 1 0 73 PN715DBTMR761S8NQPBEEA9LJ74PTSH8 NS DS RRSIG
 phvkd6ahfsil7p4njoaq75t4t7dh2se6.style.	3600	in	rrsig	NSEC3 8 2 3600 20250930161403 20250909151403 4179 style. eKQUBXq0awwFzjuXvwb6B5YUgGh9Ca4PI6pwfNcwE2r0Y/0+5EQvEvCdeEq7ghwwpesdut94RuVqJ1PnfpMFB85N4wiTu3E0ouLfAXOMxFaFThsdnPmkE9D0DVjZi4TqZxOKbmkHr97rWE71RhO3HX35WFhvZ0wNjqpP8L3C9Vk=
 phygic.style.	3600	in	ns	01.dnsv.jp.
@@ -23465,8 +23468,8 @@ promille.style.	3600	in	ns	ns1023.ui-dns.de.
 promille.style.	3600	in	ns	ns1032.ui-dns.biz.
 promille.style.	3600	in	ns	ns1041.ui-dns.org.
 promille.style.	3600	in	ns	ns1079.ui-dns.com.
-promotion.style.	3600	in	ns	ns1.bodis.com.
-promotion.style.	3600	in	ns	ns2.bodis.com.
+promotion.style.	3600	in	ns	ns1.dns-redirect.com.
+promotion.style.	3600	in	ns	ns2.dns-redirect.com.
 prompt.style.	3600	in	ns	ns1.aftermarket.com.
 prompt.style.	3600	in	ns	ns2.aftermarket.com.
 prompto.style.	3600	in	ns	dns1.registrar-servers.com.
@@ -23877,6 +23880,8 @@ raddad.style.	3600	in	ns	ns01.squarespacedns.com.
 raddad.style.	3600	in	ns	ns02.squarespacedns.com.
 raddad.style.	3600	in	ns	ns03.squarespacedns.com.
 raddad.style.	3600	in	ns	ns04.squarespacedns.com.
+radhakrishna.style.	3600	in	ns	dns1.registrar-servers.com.
+radhakrishna.style.	3600	in	ns	dns2.registrar-servers.com.
 radi.style.	3600	in	ns	dns1.registrar-servers.com.
 radi.style.	3600	in	ns	dns2.registrar-servers.com.
 radiant.style.	3600	in	ns	ns35.domaincontrol.com.
@@ -24526,8 +24531,8 @@ revinate.style.	3600	in	ns	ns-cloud-c4.googledomains.com.
 revivalife.style.	3600	in	ns	ns75.domaincontrol.com.
 revivalife.style.	3600	in	ns	ns76.domaincontrol.com.
 revive.style.	3600	in	a	139.59.68.225
-revive.style.	3600	in	ns	joyce.ns.cloudflare.com.
-revive.style.	3600	in	ns	koa.ns.cloudflare.com.
+revive.style.	3600	in	ns	ns47.domaincontrol.com.
+revive.style.	3600	in	ns	ns48.domaincontrol.com.
 revivefashion.style.	3600	in	ns	ns51.domaincontrol.com.
 revivefashion.style.	3600	in	ns	ns52.domaincontrol.com.
 revivepeptides.style.	3600	in	ns	ns29.domaincontrol.com.
@@ -24957,8 +24962,8 @@ roza.style.	3600	in	ns	uns01.lolipop.jp.
 roza.style.	3600	in	ns	uns02.lolipop.jp.
 roze.style.	3600	in	ns	dolly.ns.cloudflare.com.
 roze.style.	3600	in	ns	noel.ns.cloudflare.com.
-rpa5rssa4htck7cvuoukudunptfcnis3.style.	3600	in	nsec3	1 1 0 73 RUDHIGIPT2K391M66S7QINTOKMJB76GC NS DS RRSIG
-rpa5rssa4htck7cvuoukudunptfcnis3.style.	3600	in	rrsig	NSEC3 8 2 3600 20251001212757 20250910202757 4179 style. P7Nn2a0qBKNT0JXTKgTA0nyQqK8YWzZJd5GIo1M1hs8LyLynropaGAWIHj0bGK71ZOrJTT6ildlWAwsPMYjew8qGEkfangUGxdOSSdf3BYLJBEvtk7wlYV50REFU4eUC1uniFBoFIRYf0FfS01lup024w7Wr1KspZ2ZNcR92lGA=
+rpa5rssa4htck7cvuoukudunptfcnis3.style.	3600	in	nsec3	1 1 0 73 S6CNLKUVOD8GROMMIVIB4QV5AQAVOBVI NS DS RRSIG
+rpa5rssa4htck7cvuoukudunptfcnis3.style.	3600	in	rrsig	NSEC3 8 2 3600 20251002142205 20250911132205 4179 style. vepSIFYhQT84tAh9oaba9/Bw+ifgMTh6O+ffRtaqq5ZzrS6J2Edl8Smt8uzxwqKph/ZA0AZwEbPXtbDOPsPZ8+W2N8RNkUFiykJ+4rriSjA91xbWzmG/GJY7FCIyrJ+lSCzHmXVsXGz4rzftjEiRsHEKEg2/XwE0k8qHd1MTd5M=
 rpt.style.	3600	in	ns	ns-cloud-a1.googledomains.com.
 rpt.style.	3600	in	ns	ns-cloud-a2.googledomains.com.
 rpt.style.	3600	in	ns	ns-cloud-a3.googledomains.com.
@@ -25012,8 +25017,6 @@ ruby.style.	3600	in	ns	ns.udag.net.
 ruby.style.	3600	in	ns	ns.udag.org.
 ruche.style.	3600	in	ns	ns1.domain.com.
 ruche.style.	3600	in	ns	ns2.domain.com.
-rudhigipt2k391m66s7qintokmjb76gc.style.	3600	in	nsec3	1 1 0 73 S6CNLKUVOD8GROMMIVIB4QV5AQAVOBVI NS DS RRSIG
-rudhigipt2k391m66s7qintokmjb76gc.style.	3600	in	rrsig	NSEC3 8 2 3600 20251001212757 20250910202757 4179 style. jr+jujVXpqlGY3HNqoApRKz29JVM8aRcqG5B1jxJkyMA/OoMoJ47loWfW74FhDwt5Pw2GZLj4btgN9yE9JW1ldDKMcGX4Fn6aydQMvyh5hd/pMLz2O2EQr9lxnMkRfLi7C7HUct1DrzLoEYEV25ahSzqjmShHkDumM3WdjXVfRU=
 rudra.style.	3600	in	ns	ns73.domaincontrol.com.
 rudra.style.	3600	in	ns	ns74.domaincontrol.com.
 ruelala.style.	3600	in	ns	ns67.domaincontrol.com.
@@ -26174,6 +26177,8 @@ sheets.style.	3600	in	ns	ns-cloud-a4.googledomains.com.
 sheets.style.	3600	in	rrsig	DS 8 2 3600 20250930161403 20250909151403 4179 style. EkQM0aEsH2NP0cGEaprvfoYs/fb/x3tKbG+CnJYDH2Ax1+kSjhcBSAfbVbiMwK/FCnrUNN4K7bc1hA7vm1wlmxL88We9puxfRFo8NV4bRRyqkc/UKzJ//bXo4n4Ee6HI+WbpMCk+5VbUDvW960hgeq/tsrynArjwlKFQDels7eY=
 shein.style.	3600	in	ns	elinore.ns.cloudflare.com.
 shein.style.	3600	in	ns	oswald.ns.cloudflare.com.
+shelala.style.	3600	in	ns	ns25.domaincontrol.com.
+shelala.style.	3600	in	ns	ns26.domaincontrol.com.
 shelfie.style.	3600	in	ns	ns37.domaincontrol.com.
 shelfie.style.	3600	in	ns	ns38.domaincontrol.com.
 shemetov.style.	3600	in	ns	ns3.nic.ru.
@@ -26510,8 +26515,6 @@ sigorny.style.	3600	in	ns	nspro66.hostgator.com.br.
 sigorny.style.	3600	in	ns	nspro67.hostgator.com.br.
 sikh.style.	3600	in	ns	ns1.krystal.co.uk.
 sikh.style.	3600	in	ns	ns2.krystal.co.uk.
-silent.style.	3600	in	ns	ns45.domaincontrol.com.
-silent.style.	3600	in	ns	ns46.domaincontrol.com.
 sileo.style.	3600	in	ns	dns01.muumuu-domain.com.
 sileo.style.	3600	in	ns	dns02.muumuu-domain.com.
 silhouette.style.	3600	in	ns	ns-cloud-a1.googledomains.com.
@@ -26536,10 +26539,8 @@ silly.style.	3600	in	ns	ns1.ihredomainadresse.de.
 silly.style.	3600	in	ns	ns2.ihredomainadresse.de.
 silo.style.	3600	in	ns	ns1.empirezero.net.
 silo.style.	3600	in	ns	ns2.empirezero.net.
-silver.style.	3600	in	ds	53313 13 2 DD94BCFB6398FAB6E701E563AF888C7CFA301D3D5016E4CFA3FE7CFC8D2E8823
-silver.style.	3600	in	ns	launch1.spaceship.net.
-silver.style.	3600	in	ns	launch2.spaceship.net.
-silver.style.	3600	in	rrsig	DS 8 2 3600 20251001212757 20250910202757 4179 style. iVtvgA8gwAdPfyfdFqTJWZJyazYdLyiRUhzEo22L4sKznOf05pyK/KVrSptVfUEy/glbwBPUr98KsmaT314wUBbJ5UY0vh6xxdcVws86dbczR9v/Exad3YMNeuGkOjET+vibiVB264NrZFEi4IAI/6D5KbAw47J0ZE6XRusJnio=
+silver.style.	3600	in	ns	ns1.afternic.com.
+silver.style.	3600	in	ns	ns2.afternic.com.
 silverback.style.	3600	in	ns	ns17.domaincontrol.com.
 silverback.style.	3600	in	ns	ns18.domaincontrol.com.
 silverfox.style.	3600	in	ns	ns-cloud-b1.googledomains.com.
@@ -27069,8 +27070,8 @@ soma.style.	3600	in	ns	dns2.cscdns.net.
 somatic.style.	3600	in	ns	ns118.inhostedns.com.
 somatic.style.	3600	in	ns	ns218.inhostedns.net.
 somatic.style.	3600	in	ns	ns318.inhostedns.org.
-some.style.	3600	in	ns	ns1.bodis.com.
-some.style.	3600	in	ns	ns2.bodis.com.
+some.style.	3600	in	ns	ns1.dns-redirect.com.
+some.style.	3600	in	ns	ns2.dns-redirect.com.
 somebody.style.	3600	in	ns	ns1.melbourneit.net.
 somebody.style.	3600	in	ns	ns2.melbourneit.net.
 somebody.style.	3600	in	ns	ns3.melbourneit.net.
@@ -27887,7 +27888,7 @@ style.	3600	in	nsec3param	1 0 0 73
 style.	3600	in	rrsig	DNSKEY 8 1 3600 20250930161403 20250909151403 64534 style. QQV8UqGSByeB0FA3wfNH/UHNnzzTKwTpH0CDkU148dg5ERAb6J9dJDWiTL0sG01JD3YZEePVNU46U/DdYsCRrXyQh5JoIWKpd4VsAdEmqvOaQXhWRe+lNfUhg2/omJJPcIu4WLQFItBuqduwP1gyQ8Sfix1l7mK7Iws4YIEo/uNwbt24AIuQaVp2qg6g3MuPqCRjX1U5wgHNlZwqWePzNyoZlLaTfcJZj4KV7SkphkAxrd4ji/LjnhZcee7+HbmOKU0ES0TVq9cW96NQ+gb+T5gES0HL9RKad6CKwmF0UBShpaCs+JQpXmLaMAiuLJK4/is7AdS/nzq5VqEznX0Hxw==
 style.	3600	in	rrsig	NS 8 1 3600 20250930161403 20250909151403 4179 style. rfo2FJss6/wzVJUasCw/KYZTiyzoxVvxa1jObpTKcbXgexxM6IwMAItVJOlFCIbfmJmHlI5zyiHxdEOHYy1nfcjTTMPwqWixZpGbQim0Xp4+6DwJsJ9ERgWiKIlf3W87X21qeYDmzm590XOAZN1b01m22zC6Nzs2Mj+p5RXTdt0=
 style.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930161403 20250909151403 4179 style. jc2+wBAcS8ScbCfnv+A8aXZJCjQuVSrG4OCR6Qldatv4US9dX5WeoASpjIbfIUcmuI1Jh7Hp5BQ5/cG+qfzLa17f57iuS05ntJ2qwjEYD/Fb0i6J1+5PMYsat72lHJ73PcNadtRKBxiKlQlXF7SoFUWP6NeqTWEw0ryaIZZCY+A=
-style.	3600	in	rrsig	SOA 8 1 3600 20251002012035 20250911002035 4179 style. K5kCf38ZTj3FQF/RifRpIFohYsKFC73mhePmMghTgTERT4wW8UMk+uKgRn7lOMSqsZU/dG21Ofqbc7q8O29i0TiJgEiVvbOwMoqqg5Xl4etC3OJVSC2phH7uVSXU34+jseLkHm1iMr4ByNDVGBex8C8gW7ObuOnT2tbc9zWUc8k=
+style.	3600	in	rrsig	SOA 8 1 3600 20251003011653 20250912001653 4179 style. D+lXsw48ArQagMDbiw2DRX5oVKglhsHwdBgrhRH0M/jKjbBUNWteuuU/r74Cg8bpnOOC5iEFOAe1NG95wO+BKQNJJY8ihX75igFa5UcffN4zgDFywnHHP1fzN9zEhTfgGXbyPKJbIxW5JESXa/WP/4IV7vXypc06CZwq12lvIjw=
 style.style.	3600	in	ns	ns1.ni593.parklogic.com.
 style.style.	3600	in	ns	ns2.ni593.parklogic.com.
 styleai.style.	3600	in	ns	ns-cloud-b1.googledomains.com.
@@ -28257,8 +28258,8 @@ swap.style.	3600	in	ns	ns53.domaincontrol.com.
 swap.style.	3600	in	ns	ns54.domaincontrol.com.
 swapping.style.	3600	in	ns	ns35.domaincontrol.com.
 swapping.style.	3600	in	ns	ns36.domaincontrol.com.
-swarm.style.	3600	in	ns	ns1.bodis.com.
-swarm.style.	3600	in	ns	ns2.bodis.com.
+swarm.style.	3600	in	ns	ns1.dns-redirect.com.
+swarm.style.	3600	in	ns	ns2.dns-redirect.com.
 swashbuckler.style.	3600	in	ns	docks13.rzone.de.
 swashbuckler.style.	3600	in	ns	shades09.rzone.de.
 swat.style.	3600	in	ns	dns1.p07.nsone.net.
@@ -28347,8 +28348,6 @@ sylt.style.	3600	in	ns	ns-de.1and1-dns.biz.
 sylt.style.	3600	in	ns	ns-de.1and1-dns.com.
 sylt.style.	3600	in	ns	ns-de.1and1-dns.de.
 sylt.style.	3600	in	ns	ns-de.1and1-dns.org.
-sylvana.style.	3600	in	ns	ns1.pclients.com.
-sylvana.style.	3600	in	ns	ns2.pclients.com.
 symposium.style.	3600	in	ns	ns3.nic.ru.
 symposium.style.	3600	in	ns	ns4.nic.ru.
 symposium.style.	3600	in	ns	ns8.nic.ru.
@@ -28751,8 +28750,8 @@ tell.style.	3600	in	ns	dns1.registrar-servers.com.
 tell.style.	3600	in	ns	dns2.registrar-servers.com.
 tellimed.style.	3600	in	ns	ns59.domaincontrol.com.
 tellimed.style.	3600	in	ns	ns60.domaincontrol.com.
-temp.style.	3600	in	ns	ns1.bodis.com.
-temp.style.	3600	in	ns	ns2.bodis.com.
+temp.style.	3600	in	ns	ns1.dns-redirect.com.
+temp.style.	3600	in	ns	ns2.dns-redirect.com.
 template.style.	3600	in	ns	electronic.dnspod.net.
 template.style.	3600	in	ns	trees.dnspod.net.
 temple.style.	3600	in	ns	lob1.sibername.com.
@@ -30956,10 +30955,10 @@ vegete.style.	3600	in	ns	ns2.xserver.jp.
 vegete.style.	3600	in	ns	ns3.xserver.jp.
 vegete.style.	3600	in	ns	ns4.xserver.jp.
 vegete.style.	3600	in	ns	ns5.xserver.jp.
-vegi.style.	3600	in	ns	ns1.bodis.com.
-vegi.style.	3600	in	ns	ns2.bodis.com.
-vehicle.style.	3600	in	ns	ns1.bodis.com.
-vehicle.style.	3600	in	ns	ns2.bodis.com.
+vegi.style.	3600	in	ns	ns1.dns-redirect.com.
+vegi.style.	3600	in	ns	ns2.dns-redirect.com.
+vehicle.style.	3600	in	ns	ns1.dns-redirect.com.
+vehicle.style.	3600	in	ns	ns2.dns-redirect.com.
 veil.style.	3600	in	ns	ns1.dns.ne.jp.
 veil.style.	3600	in	ns	ns2.dns.ne.jp.
 veins.style.	3600	in	ns	ns1.xserver.jp.
@@ -31074,6 +31073,8 @@ vetter.style.	3600	in	ns	docks06.rzone.de.
 vetter.style.	3600	in	ns	shades17.rzone.de.
 vevo.style.	3600	in	ns	ns1.messagingengine.com.
 vevo.style.	3600	in	ns	ns2.messagingengine.com.
+veyra.style.	3600	in	ns	ns25.domaincontrol.com.
+veyra.style.	3600	in	ns	ns26.domaincontrol.com.
 vf555.style.	3600	in	ns	ariadne.ns.cloudflare.com.
 vf555.style.	3600	in	ns	norm.ns.cloudflare.com.
 vfghp.style.	3600	in	ns	ns1.dyna-ns.net.
@@ -32292,10 +32293,8 @@ wp2.style.	3600	in	ns	hadlee.ns.cloudflare.com.
 wp2.style.	3600	in	ns	vasilii.ns.cloudflare.com.
 wplace.style.	3600	in	ns	karsyn.ns.cloudflare.com.
 wplace.style.	3600	in	ns	sid.ns.cloudflare.com.
-wrap.style.	3600	in	ns	01.dnsv.jp.
-wrap.style.	3600	in	ns	02.dnsv.jp.
-wrap.style.	3600	in	ns	03.dnsv.jp.
-wrap.style.	3600	in	ns	04.dnsv.jp.
+wrap.style.	3600	in	ns	ns1.gm111.parklogic.com.
+wrap.style.	3600	in	ns	ns2.gm111.parklogic.com.
 wrapp.style.	3600	in	ns	dns1.namecheaphosting.com.
 wrapp.style.	3600	in	ns	dns2.namecheaphosting.com.
 wrapt.style.	3600	in	ns	ns-cloud-a1.googledomains.com.
@@ -33156,4 +33155,4 @@ zzdugna.style.	3600	in	ns	ns29.domaincontrol.com.
 zzdugna.style.	3600	in	ns	ns30.domaincontrol.com.
 zzyzx.style.	3600	in	ns	ns53.domaincontrol.com.
 zzyzx.style.	3600	in	ns	ns54.domaincontrol.com.
-style.	3600	in	soa	v0n0.nic.style. hostmaster.donuts.email. 1757553305 7200 900 1209600 3600
+style.	3600	in	soa	v0n0.nic.style. hostmaster.donuts.email. 1757639512 7200 900 1209600 3600
