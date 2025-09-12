@@ -1,4 +1,4 @@
-press.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000478749 900 1800 6048000 3600
+press.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000478849 900 1800 6048000 3600
 00000.press.	3600	in	ns	pam.ns.cloudflare.com.
 00000.press.	3600	in	ns	titan.ns.cloudflare.com.
 000design.press.	3600	in	ns	ns1.bdydns.cn.
@@ -34,7 +34,7 @@ press.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000478749 900 
 0grae381u9aubg9s4dscppedmchans4n.press.	900	in	nsec3	1 1 0 - 0NLSQOJ4MGHLC9IAH0LOL4FNV77O5AAV NS DS RRSIG
 0grae381u9aubg9s4dscppedmchans4n.press.	900	in	rrsig	NSEC3 8 2 900 20251010000048 20250909223048 18631 press. Hwd1gpUbr27gDnbxIfzLw2owWvB9KkwGZI/Y+TM/5jQ7kES5FnTV9u52f+VeLy0olTO22AM9aoZ3ht11QWV51X3wDgoyCf12Qt0CAAy/6Wx6JWC8X1kgFXuWYDIMV2C1tqwwETeK2JtAue6yRSLa+2retL3WtsdRYe1rzSHCV9c=
 0nlsqoj4mghlc9iah0lol4fnv77o5aav.press.	900	in	nsec3	1 1 0 - 0NVJDS9V2SJB859BIMN8J1HHDQJVPQV9 NS DS RRSIG
-0nlsqoj4mghlc9iah0lol4fnv77o5aav.press.	900	in	rrsig	NSEC3 8 2 900 20250915000138 20250815223138 18631 press. Nr8gf7pE1xG0yB/vzSF3yT6ueBcI5V0fiYYJuwwObn0V7fjTBagZncXuEXjAcSPVX331lkKV3d/5PcDW0e1zF28aJ+T0zYE5TL8V6j92E/eM4XvODX61Xqy1eAH4MZqSjJdK1w79itgbM6UA+M+qgMo5K8dj03ZcOXlotpBKcuc=
+0nlsqoj4mghlc9iah0lol4fnv77o5aav.press.	900	in	rrsig	NSEC3 8 2 900 20251012000117 20250911223117 18631 press. LDsgFRXzxFiacFGRuAniLvSTnYuVDfzW/FiRP2s13a2kFJMCRF5ii30TFSvDTJfVkz5E2L6u3sWjaBGk6Z/EmJmtVQjf5Pp2DsEYsdCWB/2qYa3Srr0hW8iraraQKWQPpDF62Z9s+Gyk517Jz1WeuHWQwOHPtf1Ua9CoEx+TD4Y=
 0nvjds9v2sjb859bimn8j1hhdqjvpqv9.press.	900	in	nsec3	1 1 0 - 0OFPFJ4FFSS5LK2MIPA9NIJ82D9T9SDU NS DS RRSIG
 0nvjds9v2sjb859bimn8j1hhdqjvpqv9.press.	900	in	rrsig	NSEC3 8 2 900 20251003052555 20250903035555 18631 press. zRfp4cP79RN18WTjFLZe7QfcYIibsZ9eg1zmvMSmMqu/e95p/+LBfVT1mUKDCDocDU1jusCyvVBhnfbD4WizelULQnmjqcXehvJ7oiVNbNVH9tCftcKO/MeIshjD/7sthF9TCXdblMjKk70ZuTfjgm8gNxP63kso/+nJZURVaVY=
 0ofpfj4ffss5lk2mipa9nij82d9t9sdu.press.	900	in	nsec3	1 1 0 - 0PGHBRGVK7DNLHJ7P6OMM7G2FUP0JLPD NS DS RRSIG
@@ -50,7 +50,7 @@ press.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000478749 900 
 0x.press.	3600	in	ds	29595 13 2 6FC3B1A2F4D064B49FCAC4132AEB0A146F978745A20F0328918420BAE2A94DFB
 0x.press.	3600	in	ns	launch1.spaceship.net.
 0x.press.	3600	in	ns	launch2.spaceship.net.
-0x.press.	3600	in	rrsig	DS 8 2 3600 20250914154831 20250815141831 18631 press. tmujhHZu+MXGwrnDHqTzSm8bD8XaL00D7S/JD96NezKjHRB7GbvFSoSYqIPpZRQ2duMhYtIk5AO7VrI6GVxaEj/eJNBihFi27rQb7eNQshpLcNytpZh3QsCoOI3blrkKwgKt9dNai7Y9tsYFuwtdJQFOrKioadpeuSg80BZbStk=
+0x.press.	3600	in	rrsig	DS 8 2 3600 20251011145043 20250911132043 18631 press. xTuIdYVRKrZ0Vovq83Ve5VxfUueh8G9nW4mFP3i2SduFbd1IH0qT+txIkCWBJAb52ma+H9+kiFnYB5wvnfw35vHfJ2iSHIR3tCt7dsVDc14T3NeYk6gREYezDc0Sy4cZP+e902wbNLUDWPHwS/FJATlhqarlyIlARauFKukO3So=
 0xc1.press.	3600	in	ns	grasshopper.dnspod.net.
 0xc1.press.	3600	in	ns	sow.dnspod.net.
 1-21.press.	3600	in	ds	55912 13 2 AE54C798F462F39C0E8D943B54714CB1543F8915ABF03014F1DA502C6FBB94C3
@@ -163,6 +163,10 @@ press.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000478749 900 
 134g4g1i27e9g4lf3ojmaqcj47nq3950.press.	900	in	rrsig	NSEC3 8 2 900 20251010000048 20250909223048 18631 press. a+vuwpj79uGo4pMm7XVbdUHN2K5RJRdlKA6Jb++e5vOTLlit1LZZQc4UjDy5dDKf65JbiMR4PO2mZLovixG4UUerfhWmW0rTfbVlMb5F2GoduI1l6856K7Ry5xR/PbYTDALEUIQBhUZ0Y1D9nob2I9ENXTmhM/QuYKgQSicUNsM=
 13b4q1udh9r0mp6g9nq46f6jrisjs02n.press.	900	in	nsec3	1 1 0 - 154Q4N4OJHU8G6S5O4A009652B4IJSM1 NS DS RRSIG
 13b4q1udh9r0mp6g9nq46f6jrisjs02n.press.	900	in	rrsig	NSEC3 8 2 900 20250925000101 20250825223101 18631 press. tuILkXKACNZwdZOxSog1ujvBMl/3YOlIHTzXNhGeH/wsuS1QKdfLy0V0f9yedcNeSP78/d87H7NllGx7ZEknkQvYIPuGpT1dm+1uU4OR7BNuFHau/a0o9Wf9u0m1TT1ix1jnPzmmN3Rrpu7Vj8dGMu4k5yLGvJy5inKckYLODLs=
+142800.press.	3600	in	ns	ns1.spaceweb.ru.
+142800.press.	3600	in	ns	ns2.spaceweb.ru.
+142800.press.	3600	in	ns	ns3.spaceweb.pro.
+142800.press.	3600	in	ns	ns4.spaceweb.pro.
 142857.press.	3600	in	ns	dns25.hichina.com.
 142857.press.	3600	in	ns	dns26.hichina.com.
 1452.press.	3600	in	ns	ns1.reg.ru.
@@ -198,7 +202,7 @@ press.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000478749 900 
 18win.press.	3600	in	ds	63486 13 2 EB211FDB3729A612D94D090E5FA31A79F918FE25C71F00C828632863D9F2E121
 18win.press.	3600	in	ns	launch1.spaceship.net.
 18win.press.	3600	in	ns	launch2.spaceship.net.
-18win.press.	3600	in	rrsig	DS 8 2 3600 20250914090236 20250815073236 18631 press. gGORq9jfsLkgqjTJxEgjP17L9RyJ+LI5IESYOwcUOcd9u1DsxAHK43X7T7MWfTGSOeoecefxnowcApQ9JN7rJjRZ1AUBqxxRXf//incaJPiSF9iGbkyEHGqgOU8VAUB5EYUsH4tXd3M1Megm9y9wBLr8z/4ujT6PHm6W07QQpMM=
+18win.press.	3600	in	rrsig	DS 8 2 3600 20251011090236 20250911073236 18631 press. SW1hXMUDLE1n2vyt3WbNIOb5UWBfCE06nHfvz02A7ub5vXWYalHStADF/BnR1axQKuaqB6zc5rb1y9k7jnyLf/7R1xA8zMFhu0Ai0nHqZEcZVSNDpfHadvUiPEnxyNyJS7RKG2lrt+kYNgnBWBhwJgi2POSh7y1ZwM7tK8JfSl0=
 1913.press.	3600	in	ns	dns1.register.com.
 1913.press.	3600	in	ns	dns2.register.com.
 1913.press.	3600	in	ns	ns63.worldnic.com.
@@ -453,7 +457,7 @@ press.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000478749 900 
 3ao0bf0i0tdld4k7a9aejm431dk63drv.press.	900	in	nsec3	1 1 0 - 3B69SDR9MB1E7IH92T5PMPPF9GTNM9F8 NS DS RRSIG
 3ao0bf0i0tdld4k7a9aejm431dk63drv.press.	900	in	rrsig	NSEC3 8 2 900 20251010000048 20250909223048 18631 press. x3NG+w+mEt/zK40Omat7svgJJtMqODLMxg9vwXzSPUYh0vPH08iVqklBFWWfnL2DkW8aqqmhRfRHAOqwHoIYfL2xKiq+2R0M2DH1e6Xmm8N0HVoJckvNWBbzsohbC17d1Sr4/64OaDG0Pdu9bzTJJqRcmLbKm2d3TWdahUJ+szc=
 3b69sdr9mb1e7ih92t5pmppf9gtnm9f8.press.	900	in	nsec3	1 1 0 - 3EES9624VQKUCUJ7S1P0MRQVNVHRPEJP NS DS RRSIG
-3b69sdr9mb1e7ih92t5pmppf9gtnm9f8.press.	900	in	rrsig	NSEC3 8 2 900 20250914050613 20250815033613 18631 press. QySZcOZYxBoLztIt1Ve44iEePZACdW0JT4EZ8uvyxH0UfKztPrTS8deo2R8IgBZ28AoBtBf0iDxnC2h5wo49FLiwNAyfeqmvuuWlixU3R+8uerKvZWno3cfnfHe8FoLBGL0+VLltuDvOmTv3Bo3kJzKq5+LlmYLoICpfcpkCTd4=
+3b69sdr9mb1e7ih92t5pmppf9gtnm9f8.press.	900	in	rrsig	NSEC3 8 2 900 20251011050613 20250911033613 18631 press. xCURaGApjuM2st4SqeU8pEM/WLRmwfKoXXOB2mOMfYWfFzviZILF3YihdgxbY8phlzt4NWlPgllkVw5Me0OPjCQKFAnYQrJlh6HgIN3feQOFwZ9HRlmpXN5BhaRa3BDpkCxfr+NRbSqnw3nnTX7EFjeiw6Spjwsetg506tjau3I=
 3bin.press.	3600	in	ns	ns1.reg.ru.
 3bin.press.	3600	in	ns	ns2.reg.ru.
 3bln.press.	3600	in	ns	ns1.reg.ru.
@@ -475,7 +479,7 @@ press.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000478749 900 
 3ds.press.	3600	in	ns	ns19.ovh.net.
 3ds.press.	3600	in	rrsig	DS 8 2 3600 20251010000048 20250909223048 18631 press. zPc8Pa89ivD62Rqmc1+lwzHEN8XayToj7HGitDTOqqgEtxo2ZU2TFIdlbKNl4Q0Ln95IGTqjyXWnRCvZc5NAtVdAEjVns+33XVNh/JB/NVr0XRoPp34ATqDo0XjslFciwTSMS/Bzmz8hOdnM3gqQPnlAisHYBOVY0MJx9cjeu1I=
 3ees9624vqkucuj7s1p0mrqvnvhrpejp.press.	900	in	nsec3	1 1 0 - 3GHBHL8D9HQGVR11SV1AEFRAC7SAENBA NS DS RRSIG
-3ees9624vqkucuj7s1p0mrqvnvhrpejp.press.	900	in	rrsig	NSEC3 8 2 900 20250914050613 20250815033613 18631 press. r++S/yVYTfrn5DUqGWM2V1rT72tPJ+rjCiM3Thlr8bttt9WY/fknUT1t1aufahncnetCxfSjWlsyJ9SrWygyhG++EIveNrpEGINYJs2ssqwQQLigKHN/sZ//mDXrYMt+fd/SuAqFyHBQZCyLppB3ro1YfwWQF4vwc38Hh/kr32s=
+3ees9624vqkucuj7s1p0mrqvnvhrpejp.press.	900	in	rrsig	NSEC3 8 2 900 20251011050613 20250911033613 18631 press. Rv24OWKQouH56Sk9/r2pBx1dnGpGyFcU6S4Nfl449gBWi8Cx7I7PHfbAno6lAIR1fNqHykm7GePytEFAhX/ZJJp3sR4KLtz4Bw93fu5ihQ3cgfK4gBRy1u0MPBdChkcbt7iDqC4gADFewhHRm0dxdf07AkX2HjoQYBYYE+VsPlc=
 3fprod.press.	3600	in	ns	dns13.ovh.net.
 3fprod.press.	3600	in	ns	ns13.ovh.net.
 3ghbhl8d9hqgvr11sv1aefrac7saenba.press.	900	in	nsec3	1 1 0 - 3HH0SFLR0MBEE4GFSRS052L7E3VNV840 NS DS RRSIG
@@ -487,7 +491,7 @@ press.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000478749 900 
 3jhg89co3g823abvtr0ol34at73srj45.press.	900	in	nsec3	1 1 0 - 3M7JD7PIODCDTG628NFV5HSREB4KMEUE NS DS RRSIG
 3jhg89co3g823abvtr0ol34at73srj45.press.	900	in	rrsig	NSEC3 8 2 900 20251001214904 20250901201904 18631 press. ojroOvSwsQlEbjtYdmLkgr7BXKQdaJtDSnICJ7X/tNghi9l2YYQCw6lscV3Rs8Kcp7JnqDVmHAgdC2LlAqCNt8E0Vl/pfUq1/qUGGtcW72xoPgBeKNvciWcene67HlVF0vuMqziqvMzB5znQOI+d14x/Sj3rkSk7bhWYbrnSqEg=
 3m7jd7piodcdtg628nfv5hsreb4kmeue.press.	900	in	nsec3	1 1 0 - 3P7D7U55NAVQ97UNGAB7ACGARNVNH7IA NS DS RRSIG
-3m7jd7piodcdtg628nfv5hsreb4kmeue.press.	900	in	rrsig	NSEC3 8 2 900 20250914194932 20250815181932 18631 press. fAS5LCxpVBz1VdLAXTzgIjzB6hRXA3/bQeHxbEvanfEgck5+rlDoqkzCoInkG7KGnVurhDUmfO7oBfRbUrKibzSJTlOl4rLd7cAkCl/g/4epPk6Uzl2wfb8ByrwEUysnzFYe8ovU/+p3jJfnAWvI33VgsbeCSWeCMSdy/72hkcA=
+3m7jd7piodcdtg628nfv5hsreb4kmeue.press.	900	in	rrsig	NSEC3 8 2 900 20251011194932 20250911181932 18631 press. tBK5iFstZbximqkXC1myJmoCyS0z2/roQpcaPSU2wUDYr67BMxB21FSep8+D3mtXBSGgHceX3eK5HpTK6ZzJVlPl6A4HJp/GLLABP63Xr+bgD8mrrOkdk8e0XlXgAV8zw++ZTrcvf28QaohFwQ0QJNbsS3lbERrxtWCBDi1fir4=
 3minute.press.	3600	in	ns	dns1.registrar-servers.com.
 3minute.press.	3600	in	ns	dns2.registrar-servers.com.
 3news.press.	3600	in	ns	ns-us.1and1-dns.com.
@@ -495,7 +499,7 @@ press.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000478749 900 
 3news.press.	3600	in	ns	ns-us.1and1-dns.org.
 3news.press.	3600	in	ns	ns-us.1and1-dns.us.
 3p7d7u55navq97ungab7acgarnvnh7ia.press.	900	in	nsec3	1 1 0 - 3PB5D3EL2H3OS6IU9RELOL009GE16NBJ NS DS RRSIG
-3p7d7u55navq97ungab7acgarnvnh7ia.press.	900	in	rrsig	NSEC3 8 2 900 20250914194932 20250815181932 18631 press. f/Qbjej3IBQzwUELwX9imC9m8D5wvrM33F1hBPkZkhDFq/26tIAEqwiLM8XpBHlbLmQUwy+vh3hgpJH272QfOelcu6JVMOnclPpVkHtef90txlVua3xC8umUaajPwtNGlIcKSl9ktDNgpal3NmqDfcgHTzrC56yqN0bjSc3TKp4=
+3p7d7u55navq97ungab7acgarnvnh7ia.press.	900	in	rrsig	NSEC3 8 2 900 20251011194932 20250911181932 18631 press. AcFO8xuGE00S9+NKuP92CrVk/GNN14Yuy0+POqDAlKZXrTsDoY7Aan+mQBUWfIfZ/yVJEXm77QZDbRvi/SuDMD1SPKJBPeS+WK72NM+iaHt3eMboCsv4TVNdTicQ2ezJuDA/MiBGKrBk+GiJipoO9NjXUE1dwRqBuM/cqA4YVew=
 3pb5d3el2h3os6iu9relol009ge16nbj.press.	900	in	nsec3	1 1 0 - 3RBETUCKVH3UUHV2VP67JLU6L47LCGAT NS DS RRSIG
 3pb5d3el2h3os6iu9relol009ge16nbj.press.	900	in	rrsig	NSEC3 8 2 900 20251010000048 20250909223048 18631 press. Iz66nFm8snidBCwLW0ufNWF4zffwVBA/PAhR1XIIcwXSgtPAb2Gs2dZoGKCovJvRCa1O2+scBVsYquoXomaamIEtZefDGxaLplTMfClxCKNSiORsJmeFSwQAkDDqha1JJXH4zmWHM2+nJZx9P741nzFQs5gdov4UHVRPx/oe9Os=
 3rbetuckvh3uuhv2vp67jlu6l47lcgat.press.	900	in	nsec3	1 1 0 - 3V3SB0AVHN0AF69CHV62H1BUAQQRJ1E2 NS DS RRSIG
@@ -623,8 +627,8 @@ press.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000478749 900 
 59bet.press.	3600	in	ns	mitch.ns.cloudflare.com.
 59r63kdt5a4f9561n3t3c4m3qf89likc.press.	900	in	nsec3	1 1 0 - 5EK1JQKHHO745R23NNTPLD05HVRDSH84 NS DS RRSIG
 59r63kdt5a4f9561n3t3c4m3qf89likc.press.	900	in	rrsig	NSEC3 8 2 900 20251006084017 20250906071017 18631 press. zOKOIgp+qiTp8eia8NqLmZaZnU05T+cKemFF1x9oGb2PuKpIPI0r7q1SEar0xib5HnVEmr4ybc9J63XQuN6QgOnz6V71Gry07VuH7QolaFs0w8xN/+lu6SiRl6bJdw5jSxP/jEi/u3F08gaRglO/Uw7W8fCKyL5CgybCJlJZNao=
-5abari.press.	3600	in	ns	dns1.namecheaphosting.com.
-5abari.press.	3600	in	ns	dns2.namecheaphosting.com.
+5abari.press.	3600	in	ns	dns101.registrar-servers.com.
+5abari.press.	3600	in	ns	dns102.registrar-servers.com.
 5ek1jqkhho745r23nntpld05hvrdsh84.press.	900	in	nsec3	1 1 0 - 5LHETTSJPC6A34Q5E6M6NDJOUTBQ51EU NS DS RRSIG
 5ek1jqkhho745r23nntpld05hvrdsh84.press.	900	in	rrsig	NSEC3 8 2 900 20251002140045 20250902123045 18631 press. ZiN7KceJiulPOZenJTKx9p5DzeU6nSTlWXqwNzwPvJakkA9IhKh4xK0a51qtfUwmjkR/BR1pxDldyRAIjwHg0BzIaz8T5eVOocyCGDbTf5xgbazcvIi+lxrV2xfzhjBar6Uk3dgiXBresakfXEeipNX13HnOCcqwHZgoZ8mwOUQ=
 5gbet.press.	3600	in	ns	gabe.ns.cloudflare.com.
@@ -1052,8 +1056,8 @@ aabidjhdiz.press.	3600	in	ns	dns1.registrar-servers.com.
 aabidjhdiz.press.	3600	in	ns	dns2.registrar-servers.com.
 aaff.press.	3600	in	ns	ns1.esm7.siteground.biz.
 aaff.press.	3600	in	ns	ns2.esm7.siteground.biz.
-aalyar.press.	3600	in	ns	ns1.dns-parking.com.
-aalyar.press.	3600	in	ns	ns2.dns-parking.com.
+aalyar.press.	3600	in	ns	ns1.verification-hold.dns-suspended.com.
+aalyar.press.	3600	in	ns	ns2.verification-hold.dns-suspended.com.
 aapl.press.	3600	in	ns	a.ns.apple.com.
 aapl.press.	3600	in	ns	b.ns.apple.com.
 aapl.press.	3600	in	ns	c.ns.apple.com.
@@ -1095,7 +1099,7 @@ abbywaters.press.	3600	in	ns	dns2.registrar-servers.com.
 abc8.press.	3600	in	ds	64704 13 2 BEC70D3379DAA4CF246C2E7CC7ADF7ED8BE8D5462AB1CD67D3ADD2FB37929B2F
 abc8.press.	3600	in	ns	launch1.spaceship.net.
 abc8.press.	3600	in	ns	launch2.spaceship.net.
-abc8.press.	3600	in	rrsig	DS 8 2 3600 20250914090242 20250815073242 18631 press. wVPOlSVcj4uTI4j6c+MWI8EhwVy3IjmGbEbFbWzNgOswUJ3NoVhWzIvEhEZwMU5YutKfliYVwNVmDGhDxDGBVWJN8yFN6Jwy9iBK1ukiJjsJB0ZFDAmjSdDjrYiX17j9D39E8XwEzmpuOE/25mOycXJ+cRy4/JTVwfHlsi0RJ1c=
+abc8.press.	3600	in	rrsig	DS 8 2 3600 20251011090236 20250911073236 18631 press. vMgYey32aLbXtFgb04/dTzMVLicSNabGs/y2hd+vl4Gz5kDnAjVwcyX1CAC+C27cs1CEEd9ZaMrdwZyWU0QU9/lAKHP8dzdDugLzzo1yPz+3AQgn/Jn78Wq628L4QGf/qgjGMSoeSNqbQHbwHXBYUiZFEFbcwvaQQKMHgOE+ssE=
 abcd.press.	3600	in	ns	ns3.nic.ru.
 abcd.press.	3600	in	ns	ns4.nic.ru.
 abcd.press.	3600	in	ns	ns8.nic.ru.
@@ -1665,8 +1669,6 @@ agoranews.press.	3600	in	ns	ns1.dns-parking.com.
 agoranews.press.	3600	in	ns	ns2.dns-parking.com.
 agranibarta.press.	3600	in	ns	nsbd1.hostseba.com.
 agranibarta.press.	3600	in	ns	nsbd2.hostseba.com.
-agree.press.	3600	in	ns	ns29.domaincontrol.com.
-agree.press.	3600	in	ns	ns30.domaincontrol.com.
 agregate.press.	3600	in	ns	ns1.ultahost.com.
 agregate.press.	3600	in	ns	ns2.ultahost.com.
 agregate.press.	3600	in	ns	ns3.ultahost.com.
@@ -2234,6 +2236,8 @@ alibaba.press.	3600	in	ns	ns1.atom.com.
 alibaba.press.	3600	in	ns	ns2.atom.com.
 aliberatedlife.press.	3600	in	ns	ns71.domaincontrol.com.
 aliberatedlife.press.	3600	in	ns	ns72.domaincontrol.com.
+alibest.press.	3600	in	ns	statuspage1.nic.ru.
+alibest.press.	3600	in	ns	statuspage2.nic.ru.
 alicdn.press.	3600	in	ns	ns3.dnsv2.com.
 alicdn.press.	3600	in	ns	ns4.dnsv2.com.
 alicebettinelli.press.	3600	in	ns	ns1.wordpress.com.
@@ -2245,12 +2249,18 @@ aligned.press.	3600	in	ns	ns1.hover.com.
 aligned.press.	3600	in	ns	ns2.hover.com.
 alignment.press.	3600	in	ns	ns37.domaincontrol.com.
 alignment.press.	3600	in	ns	ns38.domaincontrol.com.
+alireviews.press.	3600	in	ns	statuspage1.nic.ru.
+alireviews.press.	3600	in	ns	statuspage2.nic.ru.
 alisa.press.	3600	in	ns	dns1.registrar-servers.com.
 alisa.press.	3600	in	ns	dns2.registrar-servers.com.
 alisonkentish.press.	3600	in	ns	dotpress.earth.orderbox-dns.com.
 alisonkentish.press.	3600	in	ns	dotpress.mars.orderbox-dns.com.
 alisonkentish.press.	3600	in	ns	dotpress.mercury.orderbox-dns.com.
 alisonkentish.press.	3600	in	ns	dotpress.venus.orderbox-dns.com.
+alitop.press.	3600	in	ns	statuspage1.nic.ru.
+alitop.press.	3600	in	ns	statuspage2.nic.ru.
+alitrends.press.	3600	in	ns	statuspage1.nic.ru.
+alitrends.press.	3600	in	ns	statuspage2.nic.ru.
 aliyun.press.	3600	in	ns	expire01.dnspod.net.
 aliyun.press.	3600	in	ns	expire02.dnspod.net.
 aljaliya.press.	3600	in	ns	ns1.serverwassla1.in.
@@ -2315,6 +2325,12 @@ allnews.press.	3600	in	ns	ns1.us-dns.net.in.
 allnews.press.	3600	in	ns	ns2.us-dns.net.in.
 allnexus.press.	3600	in	ns	ns07.domaincontrol.com.
 allnexus.press.	3600	in	ns	ns08.domaincontrol.com.
+alloyed.press.	3600	in	ns	ns31.domaincontrol.com.
+alloyed.press.	3600	in	ns	ns32.domaincontrol.com.
+alloyedadvisor.press.	3600	in	ns	ns31.domaincontrol.com.
+alloyedadvisor.press.	3600	in	ns	ns32.domaincontrol.com.
+alloyedadvisors.press.	3600	in	ns	ns31.domaincontrol.com.
+alloyedadvisors.press.	3600	in	ns	ns32.domaincontrol.com.
 allprint.press.	3600	in	ns	ns1.domain.com.
 allprint.press.	3600	in	ns	ns2.domain.com.
 allpurpose.press.	3600	in	ns	hgns1.hostgator.com.
@@ -2393,8 +2409,8 @@ alphabetzero.press.	3600	in	ns	ns09.domaincontrol.com.
 alphabetzero.press.	3600	in	ns	ns10.domaincontrol.com.
 alphabooks.press.	3600	in	ns	ns61.domaincontrol.com.
 alphabooks.press.	3600	in	ns	ns62.domaincontrol.com.
-alphaman.press.	3600	in	ns	ns1.dns-parking.com.
-alphaman.press.	3600	in	ns	ns2.dns-parking.com.
+alphaman.press.	3600	in	ns	ns1.dns-expired.com.
+alphaman.press.	3600	in	ns	ns2.dns-expired.com.
 alpman.press.	3600	in	ns	docks11.rzone.de.
 alpman.press.	3600	in	ns	shades17.rzone.de.
 alqudsliberation.press.	3600	in	ns	ns1.dns-parking.com.
@@ -2958,6 +2974,8 @@ anylvl.press.	3600	in	ns	ns1.expired.reg.ru.
 anylvl.press.	3600	in	ns	ns2.expired.reg.ru.
 anymom.press.	3600	in	ns	ns31.domaincontrol.com.
 anymom.press.	3600	in	ns	ns32.domaincontrol.com.
+anyone.press.	3600	in	ns	ns31.domaincontrol.com.
+anyone.press.	3600	in	ns	ns32.domaincontrol.com.
 anypublish.press.	3600	in	ns	ns1.vercel-dns.com.
 anypublish.press.	3600	in	ns	ns2.vercel-dns.com.
 ao5au5ajc3jf865vpeam7fvhfcaeen94.press.	900	in	nsec3	1 1 0 - APKDNQRCN5BP6BM9NR5MRPDJR4L67QD9 NS DS RRSIG
@@ -3064,6 +3082,8 @@ app-jasmy.press.	3600	in	ns	ns1.dns-parking.com.
 app-jasmy.press.	3600	in	ns	ns2.dns-parking.com.
 app-schwabs.press.	3600	in	ns	ns1.dns-parking.com.
 app-schwabs.press.	3600	in	ns	ns2.dns-parking.com.
+app-talismans.press.	3600	in	ns	ns1.dns-parking.com.
+app-talismans.press.	3600	in	ns	ns2.dns-parking.com.
 app-thruster.press.	3600	in	ns	ns1.dns-parking.com.
 app-thruster.press.	3600	in	ns	ns2.dns-parking.com.
 app-wilderworlds.press.	3600	in	ns	ns1.dns-parking.com.
@@ -3100,6 +3120,8 @@ applenews.press.	3600	in	ns	c.ns.apple.com.
 applenews.press.	3600	in	ns	d.ns.apple.com.
 appleschool.press.	3600	in	ns	dns1.registrar-servers.com.
 appleschool.press.	3600	in	ns	dns2.registrar-servers.com.
+appleslim.press.	3600	in	ns	ns67.domaincontrol.com.
+appleslim.press.	3600	in	ns	ns68.domaincontrol.com.
 applestore.press.	3600	in	ns	a.ns.apple.com.
 applestore.press.	3600	in	ns	b.ns.apple.com.
 applestore.press.	3600	in	ns	c.ns.apple.com.
@@ -3167,6 +3189,8 @@ arabamericantv.press.	3600	in	ns	ns63.domaincontrol.com.
 arabamericantv.press.	3600	in	ns	ns64.domaincontrol.com.
 arabi.press.	3600	in	ns	dns1.registrar-servers.com.
 arabi.press.	3600	in	ns	dns2.registrar-servers.com.
+arabica.press.	3600	in	ns	ns47.domaincontrol.com.
+arabica.press.	3600	in	ns	ns48.domaincontrol.com.
 arachnid.press.	3600	in	ns	ns27.domaincontrol.com.
 arachnid.press.	3600	in	ns	ns28.domaincontrol.com.
 aradex.press.	3600	in	ns	ns1.cnolnic.com.
@@ -5027,9 +5051,6 @@ bitterbrush.press.	3600	in	ns	ns-cloud-c4.googledomains.com.
 bitterbrush.press.	3600	in	rrsig	DS 8 2 3600 20251010000048 20250909223048 18631 press. n61Qlg+M9jil8OTZtjQPqwUb/V+h8D9F8YKv+pYWoztPwC6Fbx/ARCQiDGxzP7W//Hh/gP9bfknIvwuxet4EHmjkReANyv9w2bFveqSyZpdnc4ihbonxUGwMQtXjn+sTLv2isWvxhbdzyETii2NjS9o99D7HKFSGfKteEldI0f0=
 bitternut.press.	3600	in	ns	dns1.namecheaphosting.com.
 bitternut.press.	3600	in	ns	dns2.namecheaphosting.com.
-bittget.press.	3600	in	ns	ns-a1.tenten.vn.
-bittget.press.	3600	in	ns	ns-a2.tenten.vn.
-bittget.press.	3600	in	ns	ns-a3.tenten.vn.
 bituk-media.press.	3600	in	ns	ns45.domaincontrol.com.
 bituk-media.press.	3600	in	ns	ns46.domaincontrol.com.
 bitx.press.	3600	in	ns	dns101.registrar-servers.com.
@@ -6195,7 +6216,7 @@ c5kncfcb4h5rdc549dptlrj56nu29kuk.press.	900	in	rrsig	NSEC3 8 2 900 2025101000004
 c6749kieu0ulpvr5i3p0bu4in401334u.press.	900	in	nsec3	1 1 0 - C6QKM9341RI4CR78VJB18ODO0PS3ISE1 NS DS RRSIG
 c6749kieu0ulpvr5i3p0bu4in401334u.press.	900	in	rrsig	NSEC3 8 2 900 20251010000048 20250909223048 18631 press. bKWTSRNA8RsCGq0KtDHm7rxy3LrgHOFY/AlbFIwz+g2eDW6tQPM/ZX1cquQSg/1OyFJk4FRgFN7nSoIIBfcCME8M+oKgD5JcIpDKNIii4J0PxtEPkeHeilKumgoIFZOoDxfFSjkATPrFKJKS++tvMREjnjxFU9FfwAkZRpwCrqE=
 c6qkm9341ri4cr78vjb18odo0ps3ise1.press.	900	in	nsec3	1 1 0 - CFIDLAM447KPUI8VMVDFQJDA925P68IN NS DS RRSIG
-c6qkm9341ri4cr78vjb18odo0ps3ise1.press.	900	in	rrsig	NSEC3 8 2 900 20250914090251 20250815073251 18631 press. p7dS+QC9s+EjEnFMUgoGbKEVrVLMaFb0wqI/Tfb125GdA8136aMLwl4G4VllrrpdM9bY06p1Z9XR8ASDVJ71X2hbmSMSHC/lm1OrbjqRUIyPUdQ4aOsgR88CNuNXtIRLjdNgmZyUxFe4aLR2p206ertPHGI2FSD0EN9Z31NcZiw=
+c6qkm9341ri4cr78vjb18odo0ps3ise1.press.	900	in	rrsig	NSEC3 8 2 900 20251011090236 20250911073236 18631 press. cfiiHRg8rYU8ntieNXoT8KZ4KnymIsi2lngMiOPIsKuGdWgB4e64clH7Yobf/Kx0V6JpwJfGe3PRVU16LL/4G+5S0K0aBLQLwZu510o/xfJoNeQ2SLYNOyXRjCvNQRvYo/eQgYvEWiN7tiqep/n+ZBCEnGDs5NFq2fWMHKQ2oq0=
 cabalho.press.	3600	in	ns	dns1.qnez.net.
 cabalho.press.	3600	in	ns	dns2.qnez.net.
 cabalho.press.	3600	in	ns	dns3.qnez.net.
@@ -6339,8 +6360,8 @@ camoin.press.	3600	in	ns	ns4.holystardev.com.
 camoin.press.	3600	in	ns	ns6.holystardev.com.
 camp.press.	3600	in	ns	doug.ns.cloudflare.com.
 camp.press.	3600	in	ns	gloria.ns.cloudflare.com.
-campos.press.	3600	in	ns	ns1.dns-parking.com.
-campos.press.	3600	in	ns	ns2.dns-parking.com.
+campos.press.	3600	in	ns	ns1.dns-expired.com.
+campos.press.	3600	in	ns	ns2.dns-expired.com.
 campustimes.press.	3600	in	ns	damian.ns.cloudflare.com.
 campustimes.press.	3600	in	ns	pam.ns.cloudflare.com.
 campustoday.press.	3600	in	ns	aron.ns.cloudflare.com.
@@ -6814,7 +6835,7 @@ cetacea.press.	3600	in	ns	fortaleza.ns.porkbun.com.
 cetacea.press.	3600	in	ns	maceio.ns.porkbun.com.
 cetacea.press.	3600	in	ns	salvador.ns.porkbun.com.
 cfidlam447kpui8vmvdfqjda925p68in.press.	900	in	nsec3	1 1 0 - CHLQKEC3L10I6MDLN5H1FG7JS7PQFVBF NS DS RRSIG
-cfidlam447kpui8vmvdfqjda925p68in.press.	900	in	rrsig	NSEC3 8 2 900 20250914090251 20250815073251 18631 press. h5aIX9F4AENZraveYn//sJX2S4i36K0sc3HQSiPo079dnPh3eWpMzVe3Gnb1gAQz4yev9z6+DynMcAsPoOq86kEciryhMRdI37xSpkqzXAFHT0GhH5OIb1aIOmSTPcdginikX6lRrCC4/TG/Q+raDc3zA92Op2T5DZbc4UfaURU=
+cfidlam447kpui8vmvdfqjda925p68in.press.	900	in	rrsig	NSEC3 8 2 900 20251011090236 20250911073236 18631 press. JJP3XXrLTw0ajLSbttoHKKJDjd+aO01AZsAOummJw28GWdEwwIrLGeh3l0hhEHfqcsK4ZLx9Jb7dAUyR9qMl9+ETF9lYqt0CYqOHr6tW/jvgvZRx84rXsfaIk+4k2YLzfuiZQTGNZ5X86Kd/P2D/ylcaXfqQbG84EbXBHL0y+fo=
 cfxy.press.	3600	in	ns	dns31.hichina.com.
 cfxy.press.	3600	in	ns	dns32.hichina.com.
 cgc.press.	3600	in	ns	dns10.hichina.com.
@@ -8796,6 +8817,8 @@ daginfo.press.	3600	in	ns	ns1.reg.ru.
 daginfo.press.	3600	in	ns	ns2.reg.ru.
 daginform.press.	3600	in	ns	ns1.reg.ru.
 daginform.press.	3600	in	ns	ns2.reg.ru.
+dagmedia.press.	3600	in	ns	ns1.reg.ru.
+dagmedia.press.	3600	in	ns	ns2.reg.ru.
 daici.press.	3600	in	ds	40717 8 2 9FD09DA23F08F2A06A435A505B769AB9E366AC3AD974632D149A4D7EC7F36200
 daici.press.	3600	in	ns	dns107.ovh.net.
 daici.press.	3600	in	ns	ns107.ovh.net.
@@ -8818,7 +8841,7 @@ dailybrief.press.	3600	in	ns	ns66.domaincontrol.com.
 dailycrypto.press.	3600	in	ds	47016 13 2 9A10CD011D62B1052ECB00644C5FC240AF660CF3B28E9406D19E124CE25268B7
 dailycrypto.press.	3600	in	ns	launch1.spaceship.net.
 dailycrypto.press.	3600	in	ns	launch2.spaceship.net.
-dailycrypto.press.	3600	in	rrsig	DS 8 2 3600 20250915000138 20250815223138 18631 press. zNTwiHaleinfMlbLtO4GvtT4izoniDw3Srl8HWAuVsMTTcGYYePUlsiKvDsfTUuOFRoQjgiVgG3aXObPW0GDB77qkbAIU+DdQS7bdSp9btiFXSj9vK9KYnWCmszveXns/WDizEwMVbPoTIp87Ds2jmYRu8/WLi1ZWgH+VUja6sA=
+dailycrypto.press.	3600	in	rrsig	DS 8 2 3600 20251012000117 20250911223117 18631 press. k4Z7ESvQzfK852sg/KFkjL9k2U0eDefS527QS/le+2YH6yDN22CIoy9kqZA1qEsdHUh82Mu8Kvmu76a3H1bGkGp3Wguof4Z9dNYd6M0n/iph4ZGBZqDz46oRZEptRylyCFgYzCePmNZICldSJkLwieiPGixgxIFFBroVXp7eaDo=
 dailycumilla.press.	3600	in	ns	dns101.registrar-servers.com.
 dailycumilla.press.	3600	in	ns	dns102.registrar-servers.com.
 dailydigest.press.	3600	in	ns	hydrogen.ns.hetzner.com.
@@ -9098,8 +9121,8 @@ debowl.press.	3600	in	ns	autumn.ns.cloudflare.com.
 debowl.press.	3600	in	ns	norman.ns.cloudflare.com.
 debuffet.press.	3600	in	ns	autumn.ns.cloudflare.com.
 debuffet.press.	3600	in	ns	norman.ns.cloudflare.com.
-debug.press.	3600	in	ns	ns1.siteground.net.
-debug.press.	3600	in	ns	ns2.siteground.net.
+debug.press.	3600	in	ns	dns101.registrar-servers.com.
+debug.press.	3600	in	ns	dns102.registrar-servers.com.
 debut-studio.press.	3600	in	ns	ns-cloud-b1.googledomains.com.
 debut-studio.press.	3600	in	ns	ns-cloud-b2.googledomains.com.
 debut-studio.press.	3600	in	ns	ns-cloud-b3.googledomains.com.
@@ -9577,6 +9600,8 @@ didim.press.	3600	in	ns	ns51.domaincontrol.com.
 didim.press.	3600	in	ns	ns52.domaincontrol.com.
 dietzel.press.	3600	in	ns	dns1.registrar-servers.com.
 dietzel.press.	3600	in	ns	dns2.registrar-servers.com.
+differentpublishing.press.	3600	in	ns	ns25.domaincontrol.com.
+differentpublishing.press.	3600	in	ns	ns26.domaincontrol.com.
 differentstory.press.	3600	in	ns	dns1.namecheaphosting.com.
 differentstory.press.	3600	in	ns	dns2.namecheaphosting.com.
 digest.press.	3600	in	ns	dns.fastdns24.com.
@@ -9837,8 +9862,6 @@ djimarket.press.	3600	in	ns	ns1.reg.ru.
 djimarket.press.	3600	in	ns	ns2.reg.ru.
 djkflay.press.	3600	in	ns	dns1.registrar-servers.com.
 djkflay.press.	3600	in	ns	dns2.registrar-servers.com.
-djspade.press.	3600	in	ns	dns101.registrar-servers.com.
-djspade.press.	3600	in	ns	dns102.registrar-servers.com.
 dkra.press.	3600	in	ns	ns1.pavietnam.vn.
 dkra.press.	3600	in	ns	ns2.pavietnam.vn.
 dkra.press.	3600	in	ns	nsbak.pavietnam.net.
@@ -10297,9 +10320,7 @@ dsccberlin.press.	3600	in	ns	ns2.expired.reg.ru.
 dsffgdss.press.	3600	in	ns	dns17.hichina.com.
 dsffgdss.press.	3600	in	ns	dns18.hichina.com.
 dsjnlahljfupld3ciii17dak46vurf9a.press.	900	in	nsec3	1 1 0 - E0SGG16MKAL3UC34M3S5D0GIT5VLBQN9 NS DS RRSIG
-dsjnlahljfupld3ciii17dak46vurf9a.press.	900	in	rrsig	NSEC3 8 2 900 20250914050613 20250815033613 18631 press. URCOJACOP5m/9SFVZFb732xW4P8Azy1+gtJIvlOfLcaSJ8G7vIpxOJtweP/wA4r23MfniLTg7N4b9n66XdN4yn0lHrDZUU3SB3O2g1GnpWC/67GcMaJBmjh0KQYrncSt2DBBKYNGIgXlkRbi3hVGs7CgMbMfs/F0T4Jhf3nzTvE=
-dsnews.press.	3600	in	ns	ns1.dns-expired.com.
-dsnews.press.	3600	in	ns	ns2.dns-expired.com.
+dsjnlahljfupld3ciii17dak46vurf9a.press.	900	in	rrsig	NSEC3 8 2 900 20251011050613 20250911033613 18631 press. FarrzJl1rYNyTITN5cqrRaGlzGWY6ol9j68E7JIehC//IqH5IP+xjmo/jOuyVoPu+xFPZFCtqYqoqPk3DN11BTj/YdIvNnaxecNjGaKGBjtVNyGG8vGrZ7O9eQv+geJU0OrfrXIEIkvD40AEjRYcMnv4ieN0Y8MATDTaezIpLS4=
 dssk.press.	3600	in	ns	ivy.ns.cloudflare.com.
 dssk.press.	3600	in	ns	micah.ns.cloudflare.com.
 dstlry.press.	3600	in	ds	42707 8 2 7F988BE369597B01AE7039F38A51992DFA703050D63D92A3F20DD23D03097F59
@@ -11114,6 +11135,10 @@ eliminalia.press.	3600	in	ns	ns13.ovh.net.
 eliminalia.press.	3600	in	rrsig	DS 8 2 3600 20250919204158 20250820191158 18631 press. y/3uuSQII0SSwiNUqklBWaMDyxPcL/v4pN50OgYILGGPmfd1K+WyxF1QO//IppeG/A7+AX2gLnWEfqFCe5284j4VCn4CJkFamMOoRWhCq2tVOOzwRAszQRdqc/n7txbYYFGDC9MVs6hvXyf4uwXJiuV1CvCaYOQnt0WmpmwLpaY=
 elis.press.	3600	in	ns	ns1.cargo.site.
 elis.press.	3600	in	ns	ns2.cargo.site.
+elisov.press.	3600	in	ns	a.ns.selectel.ru.
+elisov.press.	3600	in	ns	b.ns.selectel.ru.
+elisov.press.	3600	in	ns	c.ns.selectel.ru.
+elisov.press.	3600	in	ns	d.ns.selectel.ru.
 elitefts.press.	3600	in	ns	dns1.registrar-servers.com.
 elitefts.press.	3600	in	ns	dns2.registrar-servers.com.
 elixir.press.	3600	in	ns	dns1.onamae.com.
@@ -11165,8 +11190,8 @@ elsielvier.press.	3600	in	ns	ns2.cloudoon.net.
 elterwater.press.	3600	in	ns	ns-197-c.gandi.net.
 elterwater.press.	3600	in	ns	ns-230-a.gandi.net.
 elterwater.press.	3600	in	ns	ns-39-b.gandi.net.
-eltiempo.press.	3600	in	ns	ns55.domaincontrol.com.
-eltiempo.press.	3600	in	ns	ns56.domaincontrol.com.
+eltiempo.press.	3600	in	ns	ns1.jetthost.net.
+eltiempo.press.	3600	in	ns	ns2.jetthost.net.
 elyon.press.	3600	in	ns	dns1.registrar-servers.com.
 elyon.press.	3600	in	ns	dns2.registrar-servers.com.
 elysian.press.	3600	in	ns	ns07.domaincontrol.com.
@@ -12573,8 +12598,8 @@ filmyzilla.press.	3600	in	ns	ns1.dns-parking.com.
 filmyzilla.press.	3600	in	ns	ns2.dns-parking.com.
 filosofiadevida.press.	3600	in	ns	ns1.dns-parking.com.
 filosofiadevida.press.	3600	in	ns	ns2.dns-parking.com.
-filsmyhit.press.	3600	in	ns	leanna.ns.cloudflare.com.
-filsmyhit.press.	3600	in	ns	trevor.ns.cloudflare.com.
+filsmyhit.press.	3600	in	ns	dns101.registrar-servers.com.
+filsmyhit.press.	3600	in	ns	dns102.registrar-servers.com.
 filter.press.	3600	in	ns	ns1.sprinthost.ru.
 filter.press.	3600	in	ns	ns2.sprinthost.ru.
 filter.press.	3600	in	ns	ns3.sprinthost.net.
@@ -13419,7 +13444,7 @@ futsal.press.	3600	in	ns	ns2.reg.ru.
 futur.press.	3600	in	ds	27556 8 2 7F4A6F0286E74DDC7468E33DE590AA276522F54929574DA694DEE65BFCF49243
 futur.press.	3600	in	ns	dns107.ovh.net.
 futur.press.	3600	in	ns	ns107.ovh.net.
-futur.press.	3600	in	rrsig	DS 8 2 3600 20250914102150 20250815085150 18631 press. sV6IH9THxKbG4f8hFO+JuyDq/QiUqApAFZcnGaN9/aEoRc7NLNbBX7SmY8o3wZmNBr0E1uwo1D5tCFie6Id7niNktTwKjSImMH9GhgbhBRmoRIgDv8LVNWkmKNJPFjAZCVF2RKOE7+n4kZJT+D2c9RNLqtGF9LeURrckSzi4wkA=
+futur.press.	3600	in	rrsig	DS 8 2 3600 20251011090236 20250911073236 18631 press. SRH7K84VbDtJE7VExCO6BZNm52nCgCAUUhJjUrFH0OSPZcZFg2UUc+TbKd+19Vaq9d413ag1nmzGXG3/RSqtai37xJvI3m9UWAc6KRyVMN3GQWKi6Vbd7DaP5jnOo8gXKBjVDJU0l6FIgK1I9+dOKvvXrAB93JSySz3wdVF1/ss=
 futura.press.	3600	in	ns	ns1.dns-parking.com.
 futura.press.	3600	in	ns	ns2.dns-parking.com.
 future-proof.press.	3600	in	ns	ns4.wixdns.net.
@@ -14223,10 +14248,6 @@ gooddeal.press.	3600	in	ns	ns1.dns-parking.com.
 gooddeal.press.	3600	in	ns	ns2.dns-parking.com.
 goodenergy.press.	3600	in	ns	dns1.registrar-servers.com.
 goodenergy.press.	3600	in	ns	dns2.registrar-servers.com.
-goodenough.press.	3600	in	ns	ns-cloud-e1.googledomains.com.
-goodenough.press.	3600	in	ns	ns-cloud-e2.googledomains.com.
-goodenough.press.	3600	in	ns	ns-cloud-e3.googledomains.com.
-goodenough.press.	3600	in	ns	ns-cloud-e4.googledomains.com.
 goodgraces.press.	3600	in	ns	ns6051.hostgator.com.
 goodgraces.press.	3600	in	ns	ns6052.hostgator.com.
 goodgrief.press.	3600	in	ns	ns47.domaincontrol.com.
@@ -15161,6 +15182,8 @@ healthdemon.press.	3600	in	ns	ns45.domaincontrol.com.
 healthdemon.press.	3600	in	ns	ns46.domaincontrol.com.
 healthfixchannel.press.	3600	in	ns	dns1.registrar-servers.com.
 healthfixchannel.press.	3600	in	ns	dns2.registrar-servers.com.
+healthguide.press.	3600	in	ns	ns1.dns-parking.com.
+healthguide.press.	3600	in	ns	ns2.dns-parking.com.
 healthjourney.press.	3600	in	ns	cruz.ns.cloudflare.com.
 healthjourney.press.	3600	in	ns	ram.ns.cloudflare.com.
 healthlife.press.	3600	in	ns	ns1.dns-parking.com.
@@ -15618,6 +15641,8 @@ hiscox.press.	3600	in	ns	ns5.netnames.net.
 hiscox.press.	3600	in	ns	ns6.netnames.net.
 hitachi.press.	3600	in	ns	rns1.rightsdns.com.
 hitachi.press.	3600	in	ns	rns2.rightsdns.com.
+hitali.press.	3600	in	ns	statuspage1.nic.ru.
+hitali.press.	3600	in	ns	statuspage2.nic.ru.
 hitchamvale.press.	3600	in	ns	ns73.domaincontrol.com.
 hitchamvale.press.	3600	in	ns	ns74.domaincontrol.com.
 hitched.press.	3600	in	ns	ns13.gcd-dns.com.
@@ -15631,6 +15656,8 @@ hitlists.press.	3600	in	ns	ns2.dns-parking.com.
 hitomi.press.	3600	in	ns	ns1.wpx.ne.jp.
 hitomi.press.	3600	in	ns	ns2.wpx.ne.jp.
 hitomi.press.	3600	in	ns	ns3.wpx.ne.jp.
+hitreview.press.	3600	in	ns	statuspage1.nic.ru.
+hitreview.press.	3600	in	ns	statuspage2.nic.ru.
 hk01.press.	3600	in	ns	ns11.xincache.com.
 hk01.press.	3600	in	ns	ns12.xincache.com.
 hl8vimeqj58ogbblusnoftnnvogbc1o1.press.	900	in	nsec3	1 1 0 - HLVLV1H5LMJPUG2FKQTP8JFUMK4KVGKB NS DS RRSIG
@@ -15872,6 +15899,8 @@ hot10-games.press.	3600	in	ns	denver.ns.cloudflare.com.
 hot10-games.press.	3600	in	ns	poppy.ns.cloudflare.com.
 hot51.press.	3600	in	ns	ns1.dns-parking.com.
 hot51.press.	3600	in	ns	ns2.dns-parking.com.
+hotdeals.press.	3600	in	ns	statuspage1.nic.ru.
+hotdeals.press.	3600	in	ns	statuspage2.nic.ru.
 hotdrop.press.	3600	in	ns	kenneth.ns.cloudflare.com.
 hotdrop.press.	3600	in	ns	ullis.ns.cloudflare.com.
 hotfire.press.	3600	in	ns	ns-cloud-a1.googledomains.com.
@@ -15890,6 +15919,9 @@ hotoffthe.press.	3600	in	ns	dns11.registrar-servers.com.
 hotoffthe.press.	3600	in	ns	dns12.registrar-servers.com.
 hotpoint-ariston.press.	3600	in	ns	ns1.register.it.
 hotpoint-ariston.press.	3600	in	ns	ns2.register.it.
+hottrends.press.	3600	in	ns	ns3.nic.ru.
+hottrends.press.	3600	in	ns	ns4.nic.ru.
+hottrends.press.	3600	in	ns	ns8.nic.ru.
 hotwire.press.	3600	in	ns	ns01.hotwire.com.
 hotwire.press.	3600	in	ns	ns03.hotwire.com.
 houigaku.press.	3600	in	ns	clark.ns.cloudflare.com.
@@ -16364,6 +16396,8 @@ idear.press.	3600	in	ns	dns27.hichina.com.
 idear.press.	3600	in	ns	dns28.hichina.com.
 ideas.press.	3600	in	ns	ns3.afternic.com.
 ideas.press.	3600	in	ns	ns4.afternic.com.
+ideax.press.	3600	in	ns	dns7.hichina.com.
+ideax.press.	3600	in	ns	dns8.hichina.com.
 ideefixe.press.	3600	in	ns	ns1.hover.com.
 ideefixe.press.	3600	in	ns	ns2.hover.com.
 ideia.press.	3600	in	ns	dns1.registrar-servers.com.
@@ -17355,8 +17389,8 @@ irbv4dt5ip3ia06lhq1ath09nhp647jv.press.	900	in	nsec3	1 1 0 - ISNOINS8A2LA8RB5JLQ
 irbv4dt5ip3ia06lhq1ath09nhp647jv.press.	900	in	rrsig	NSEC3 8 2 900 20251010000048 20250909223048 18631 press. gdsTs/kGbQ1RYTgqm9WLe9GAqIuwaSMPKssOmcSb4OMWXxciJQaUnkHe6zqVEM9ZIxod93Le+97ALigKVL0ECRlmEJwAfV2B1NRoK+lNQ0fAdTVJ85fxBDNhyTmX+AGQHcpYcztwv24fTAHovMxi2q1zgogJEb6LInovrQ5hwZc=
 ireport.press.	3600	in	ns	ns53.domaincontrol.com.
 ireport.press.	3600	in	ns	ns54.domaincontrol.com.
-irfanattarikashmiri.press.	3600	in	ns	ns1.dns-parking.com.
-irfanattarikashmiri.press.	3600	in	ns	ns2.dns-parking.com.
+irfanattarikashmiri.press.	3600	in	ns	ns1.dns-expired.com.
+irfanattarikashmiri.press.	3600	in	ns	ns2.dns-expired.com.
 iridesse.press.	3600	in	ns	ns69.domaincontrol.com.
 iridesse.press.	3600	in	ns	ns70.domaincontrol.com.
 irish.press.	3600	in	ns	ns3.afternic.com.
@@ -17399,6 +17433,8 @@ iskra.press.	3600	in	ds	65311 13 2 4DCBCC56D6C8060608464544FAE6BD2C937F494519C5A
 iskra.press.	3600	in	ns	ns3.epik.com.
 iskra.press.	3600	in	ns	ns4.epik.com.
 iskra.press.	3600	in	rrsig	DS 8 2 3600 20251010000048 20250909223048 18631 press. ONQrbmZ4viIBQUoeOxoE8Z/TBjFdklza6HjIY7i5a+s43YBvqxEMb1jFxmAaRehsGqDnwHjfsz/NBMXjzy48o5rIA0XYa4aYf6UAMS1CW4YeCbBiT8G5OQuLIN6epIcj06vCaoku0ImB2vhWTcnk+P1XHP7rnzea6DmyFQZT68o=
+islamic.press.	3600	in	ns	dns1.registrar-servers.com.
+islamic.press.	3600	in	ns	dns2.registrar-servers.com.
 islamica.press.	3600	in	ds	6797 8 2 F55396A02984BC0C6BF2C78966E9C09C37E978BF1252E92D5A72C04E6E48BE52
 islamica.press.	3600	in	ns	dns200.anycast.me.
 islamica.press.	3600	in	ns	ns200.anycast.me.
@@ -17738,7 +17774,7 @@ jbsc.press.	3600	in	ns	sage.ns.cloudflare.com.
 jci.press.	3600	in	ds	56744 8 2 F1365BA24C8D2FBFCDA084CDBC51417D659FC10C62D6D29541EF74E9366572AD
 jci.press.	3600	in	ns	dns108.ovh.net.
 jci.press.	3600	in	ns	ns108.ovh.net.
-jci.press.	3600	in	rrsig	DS 8 2 3600 20250914194932 20250815181932 18631 press. OcDfT25P8JMQi1YtUh+fryQyZH0O+Q6+hzZlM3vkvbwgAayBw2d9qia5FBK6EGRc7DlddT7yEh2UWDRp0Be5eUbYNm7SJTJxS/abRuPiET+QdSnVMEN830drNZp/Yaxm1bJhXlZ+2Jr+y/5vj3AMm6JoxG0LbcN8529621/8Lx4=
+jci.press.	3600	in	rrsig	DS 8 2 3600 20251011194932 20250911181932 18631 press. A7XDLncI8caZYsiN7GfF3PRdyN3oVNwNlod96R8dNPtOIhtyC7Sx0IuIyendBKnPaCwK5W2mbPsESHJaGHM+V+ilwpUAhCKiT1SImDm++LKfqgTY5gNyiNB2VliZNG5kLqZZfr9ZUx3bpXjMNLETFvYZ8beGafIjYd6joqUBqfs=
 jcjuice.press.	3600	in	ns	failed-whois-verification.namecheap.com.
 jcjuice.press.	3600	in	ns	verify-contact-details.namecheap.com.
 jcs.press.	3600	in	ns	dns1.onamae.com.
@@ -18285,6 +18321,8 @@ kapitol.press.	3600	in	ns	ns1.dns-parking.com.
 kapitol.press.	3600	in	ns	ns2.dns-parking.com.
 kaprika.press.	3600	in	ns	ns1.reg.ru.
 kaprika.press.	3600	in	ns	ns2.reg.ru.
+kapyrin.press.	3600	in	ns	dns1.wfolio.ru.
+kapyrin.press.	3600	in	ns	dns2.wfolio.ru.
 kara.press.	3600	in	ns	ns1.taplink.cc.
 kara.press.	3600	in	ns	ns2.taplink.cc.
 karaimo.press.	3600	in	ns	haley.ns.cloudflare.com.
@@ -18350,12 +18388,14 @@ kaufhaus-stolz.press.	3600	in	rrsig	DS 8 2 3600 20251010000048 20250909223048 18
 kaufland.press.	3600	in	ns	ns.do-ex.com.
 kaufland.press.	3600	in	ns	ns.do-ex.net.
 kaufland.press.	3600	in	ns	ns.do-ex.org.
+kaustik.press.	3600	in	ns	ns47.domaincontrol.com.
+kaustik.press.	3600	in	ns	ns48.domaincontrol.com.
 kavalaris.press.	3600	in	ns	ns5.kasserver.com.
 kavalaris.press.	3600	in	ns	ns6.kasserver.com.
 kavkazru.press.	3600	in	ns	ns1.hosting.reg.ru.
 kavkazru.press.	3600	in	ns	ns2.hosting.reg.ru.
-kawaii.press.	3600	in	ns	uns01.lolipop.jp.
-kawaii.press.	3600	in	ns	uns02.lolipop.jp.
+kawaii.press.	3600	in	ns	ns1.muumuu-domain.com.
+kawaii.press.	3600	in	ns	ns2.muumuu-domain.com.
 kawasakiuk.press.	3600	in	ns	ns1.mcsvr.net.
 kawasakiuk.press.	3600	in	ns	ns2.mcsvr.net.
 kawasakiuk.press.	3600	in	ns	ns3.mcsvr.net.
@@ -18766,8 +18806,8 @@ kokokara.press.	3600	in	ns	ns2.xserver.jp.
 kokokara.press.	3600	in	ns	ns3.xserver.jp.
 kokokara.press.	3600	in	ns	ns4.xserver.jp.
 kokokara.press.	3600	in	ns	ns5.xserver.jp.
-kolaxoprint.press.	3600	in	ns	ns1.dns-parking.com.
-kolaxoprint.press.	3600	in	ns	ns2.dns-parking.com.
+kolaxoprint.press.	3600	in	ns	eva.ns.cloudflare.com.
+kolaxoprint.press.	3600	in	ns	terin.ns.cloudflare.com.
 kold.press.	3600	in	ns	dns1.registrar-servers.com.
 kold.press.	3600	in	ns	dns2.registrar-servers.com.
 kolibri.press.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -19017,7 +19057,7 @@ ktaylor.press.	3600	in	ns	dns2.registrar-servers.com.
 ktqtq3asmd3g43tm8spqn7lmum931v57.press.	900	in	nsec3	1 1 0 - KTVH0C8C8KAJ45QD9NABHA24DVRO5A68 NS DS RRSIG
 ktqtq3asmd3g43tm8spqn7lmum931v57.press.	900	in	rrsig	NSEC3 8 2 900 20250922010709 20250822233709 18631 press. FRqPi8DWChkrS+P1YpcYB/VMDhA7qw9bZelu6CGEXJ357O95TUA+XZKmRVwX9/50QNIaWiZwuUKkEWmuiE8+TozZOru3RGKBpre1LF/GWyPcpYO6+J4ZshVGQdvqIY86K7yLHt7VEhbjzuUABMCH5KYCK/7OVSFN+PzmXQtJgfI=
 ktvh0c8c8kaj45qd9nabha24dvro5a68.press.	900	in	nsec3	1 1 0 - L08M5SUD6IOHP1MQMQ25N0QUB2FKPL19 NS DS RRSIG
-ktvh0c8c8kaj45qd9nabha24dvro5a68.press.	900	in	rrsig	NSEC3 8 2 900 20250915000138 20250815223138 18631 press. FLqVKs7vAzuHb8OntDhTKjycGsgHSiHF1M5zGRoXbu8R69zUxjGpwUWAqDQePnPw1VJuJGTPyQDNcCFSBJVyVxgvyuusRLy+xc+w0MlGKgeVHuovT+rkfTJZktuE6cEAf5VcWgFBgnXVJ1UY0Ywbo1rPMknjwvDIAGipoG0zr64=
+ktvh0c8c8kaj45qd9nabha24dvro5a68.press.	900	in	rrsig	NSEC3 8 2 900 20251012000117 20250911223117 18631 press. I4XS9TCgzd92W2WZc4CJpSSlQC+xMAwEbpqpJ824Ysb7IbJqpP9cIu31TnyTP8tXvyT8u0CiyRdH2jwGAUhzxSzBx9yaOEOfd6KJ9Dqb2d7nunQt7M/8C/gKElPhDXhnXT5NnMeugho4Tv1SwkgIZYABzBuHHdhDizzWXVVJZXo=
 kuaidianhua.press.	3600	in	ns	dns17.hichina.com.
 kuaidianhua.press.	3600	in	ns	dns18.hichina.com.
 kuaishou.press.	3600	in	ns	dns17.hichina.com.
@@ -19047,6 +19087,8 @@ kulibayev.press.	3600	in	ns	dns2.registrar-servers.com.
 kultura.press.	3600	in	ns	ns3.nic.ru.
 kultura.press.	3600	in	ns	ns4.nic.ru.
 kultura.press.	3600	in	ns	ns8.nic.ru.
+kumparanindonesia.press.	3600	in	ns	dns1.namecheaphosting.com.
+kumparanindonesia.press.	3600	in	ns	dns2.namecheaphosting.com.
 kungfufinance.press.	3600	in	ns	pdns1.registrar-servers.com.
 kungfufinance.press.	3600	in	ns	pdns2.registrar-servers.com.
 kungfugirl.press.	3600	in	ns	pdns1.registrar-servers.com.
@@ -19111,7 +19153,7 @@ l-etalon-noir.press.	3600	in	ns	ns-180-b.gandi.net.
 l-etalon-noir.press.	3600	in	ns	ns-199-c.gandi.net.
 l-etalon-noir.press.	3600	in	ns	ns-235-a.gandi.net.
 l08m5sud6iohp1mqmq25n0qub2fkpl19.press.	900	in	nsec3	1 1 0 - L1AH0KM9CCDVE9BRKDF83BABGGVCKD7I NS DS RRSIG
-l08m5sud6iohp1mqmq25n0qub2fkpl19.press.	900	in	rrsig	NSEC3 8 2 900 20250915000138 20250815223138 18631 press. D9A0tzonf0Mu51dhcGHWNKov24eE20rGl4eWEFSrMnHnuqAm5RLtA+PhmmRhgYGpVdkp67a4kx14WmNCfPgYydbDRa68xLnxoTbiOJPtNUkgB8o3ZzXdwkP8DyjJX3ieeP48wQ7OsxrEMGeKY07xY+/LUTN78++P7l/vipkAQhg=
+l08m5sud6iohp1mqmq25n0qub2fkpl19.press.	900	in	rrsig	NSEC3 8 2 900 20251012000117 20250911223117 18631 press. sY2+GBo7wGngUV87QsqCpylIGEQ1llfy1CR+1ZVNw+6nm927a1AFpSX1whafeLAaFhRLL4G5V1wGwpzDaD79a7an+ZqgQNqZX4TWMt/Izd6emaStlhHc+Bjm+6fZEif0vF/R0+eq0l8PSFJAnI2hltxQkEKFKFqFODTQdFDHhCk=
 l0tek.press.	3600	in	ns	dns1.registrar-servers.com.
 l0tek.press.	3600	in	ns	dns2.registrar-servers.com.
 l19.press.	3600	in	ns	ns39.domaincontrol.com.
@@ -19121,9 +19163,9 @@ l1ah0km9ccdve9brkdf83babggvckd7i.press.	900	in	rrsig	NSEC3 8 2 900 2025101000004
 l1tu5rrpqh659n011qm0l3jl16qmkakj.press.	900	in	nsec3	1 1 0 - L3OV4H4DVJ84BGCP0DMNARCCB9KOJNJ8 NS DS RRSIG
 l1tu5rrpqh659n011qm0l3jl16qmkakj.press.	900	in	rrsig	NSEC3 8 2 900 20251010000048 20250909223048 18631 press. hcqdrYGGl+zIhA50a9fKIyPRigQTprgnvQLYYmehDhmX6y+YKCgNhBKAyfxY4sLU1ViAETq21Y9q9MTujrWth03muGxPBb/H/jqLymDfHlJ3HtnVAVM6+zDAx95oa7hdayuKRio1Kq9uIbEA/F51d9VuNGMu5sKE6/l2Fu1LLSk=
 l3ov4h4dvj84bgcp0dmnarccb9kojnj8.press.	900	in	nsec3	1 1 0 - L412U2GLTVHUHPA6JKUDF7O9IH763FUD NS DS RRSIG
-l3ov4h4dvj84bgcp0dmnarccb9kojnj8.press.	900	in	rrsig	NSEC3 8 2 900 20250914102150 20250815085150 18631 press. qwX0QdcrAVmwFOjCtguJOueFglYBGv0CetPc+ra9Vf4REmN6COzMPUGjIAd2iCUMY9Rs57dNTJkUO/Uq2KtQlyK0qfPiqpWLeKBIXrmv0B00JPTZbJU+bvaz/UFSDWhpoOysUKXFDz9d9BBzIk+mlRzfP9ydLdzk3GofT0lJpmw=
+l3ov4h4dvj84bgcp0dmnarccb9kojnj8.press.	900	in	rrsig	NSEC3 8 2 900 20251011090236 20250911073236 18631 press. mA/oIkTpsUofP/+W/VIAl35eTR6KnR2nP6wPErY7wOeZTEb1mmNmPrGVeMJDfuFsp7e/7fm0yIgikNEGxgY80J3kEiGI3ST0E+orborcvznCwr39gPNK/Yz/8b6X2aB5+75J/0Q95UwA27cnd8DBnWLxqGfGmm74/dLyxHXGoOA=
 l412u2gltvhuhpa6jkudf7o9ih763fud.press.	900	in	nsec3	1 1 0 - L9R3HU8LE7G36EPNQO4MP8TLNKG9HE7N NS DS RRSIG
-l412u2gltvhuhpa6jkudf7o9ih763fud.press.	900	in	rrsig	NSEC3 8 2 900 20250914102150 20250815085150 18631 press. TaCdBsfUj67WBZOCxr1f8v4dxlwWF0ozUwyOVje1QpgY84J5cB9x3sn8daoLuAawSVi4F0PmMfAhSiAtT8FSm/Oyqa+jkJKnx+xVj0EWTzFj6WQsL+7GkJQX1ruASqQMQ6kkoiZZZQqwWmFHmLqZ6nlrlILoqYGMJHDj2v3N6x0=
+l412u2gltvhuhpa6jkudf7o9ih763fud.press.	900	in	rrsig	NSEC3 8 2 900 20251011090236 20250911073236 18631 press. xdAbPJguIF7p9HL4qyy3Q1rNWGWq01o4ikniXjGNjtyONgIamMo5HSmZss2ZFZH8rK6vDapEBMTAuWOk0Byl1/CsZPYymou0TFMjMdDonjA0nheCZEhP1JQUsRt3CuGWjNR2C3ufB63ASwThxXudh8vSol5BLAQXGlbz1XGEWok=
 l6bet.press.	3600	in	ns	celine.ns.cloudflare.com.
 l6bet.press.	3600	in	ns	mitch.ns.cloudflare.com.
 l9r3hu8le7g36epnqo4mp8tlnkg9he7n.press.	900	in	nsec3	1 1 0 - LASG85IN2PDH9KRFEH6V9PM5FJTOFLB0 NS DS RRSIG
@@ -19443,8 +19485,8 @@ latter.press.	3600	in	ns	ns-cloud-e2.googledomains.com.
 latter.press.	3600	in	ns	ns-cloud-e3.googledomains.com.
 latter.press.	3600	in	ns	ns-cloud-e4.googledomains.com.
 latter.press.	3600	in	rrsig	DS 8 2 3600 20251010000048 20250909223048 18631 press. Tej93BcfO0jk4zV0td+x4BYMyULI3af05ktG9AFOXnmxvo246U8fuWYAfVzmz+nT9gUlfsc7fzRQYmkWtS7YpKO0+zRWcs2QG9okqgIGwMi6+OMRapmNakAKtmATWZMjzC6bz9pDk8WSv2n562tOPEPUSMYZnyxZ2rlk/dcFPr8=
-latteture.press.	3600	in	ns	dns1.registrar-servers.com.
-latteture.press.	3600	in	ns	dns2.registrar-servers.com.
+latteture.press.	3600	in	ns	dns101.registrar-servers.com.
+latteture.press.	3600	in	ns	dns102.registrar-servers.com.
 laukien.press.	3600	in	ns	dns1.registrar-servers.com.
 laukien.press.	3600	in	ns	dns2.registrar-servers.com.
 laula.press.	3600	in	ns	uns01.lolipop.jp.
@@ -19998,7 +20040,7 @@ lights.press.	3600	in	ns	dns02.muumuu-domain.com.
 lightstarhalospark.press.	3600	in	ds	64876 13 2 088F12C97F1DDB68AA82C7FFF39BC153C1389E32DBFBF90FE9B2D51646742B6A
 lightstarhalospark.press.	3600	in	ns	launch1.spaceship.net.
 lightstarhalospark.press.	3600	in	ns	launch2.spaceship.net.
-lightstarhalospark.press.	3600	in	rrsig	DS 8 2 3600 20250914050613 20250815033613 18631 press. Ryai0Qw2noNGi96zXflenTgD7aaG2U+HVes4it/3NVklNAqcYrVHHgkifzw6TQ/gCvahkzjFemP1Edsd7dI9bqO1p7ZDg8kyH+nnZ0TEY//477G2TIsyCeuP++Vy0Zp55DJYPwO+yNGo4IaWBaHlgIx1P1vdb+ynecizoIJYpSU=
+lightstarhalospark.press.	3600	in	rrsig	DS 8 2 3600 20251011050613 20250911033613 18631 press. Ml/kQZK1VnyTQvQGOUFEDH5q0fEA7yujQ7g66lC+VjxrTTPVrbkFf7x+Y+5w+o+5FnUVyEzvezdAfZ71vPUYIsDWgmUOUZrLXGXX2t8SNsxTA3LXrBTVPQofNk0neHdBL/xIDyt4foGcPQky8JGik14qPrLaT9SlicglCMXD2qA=
 lightward.press.	3600	in	ns	ns1.dnsimple.com.
 lightward.press.	3600	in	ns	ns2.dnsimple-edge.net.
 lightward.press.	3600	in	ns	ns3.dnsimple.com.
@@ -20081,8 +20123,6 @@ lindseyhebert.press.	3600	in	ns	dns1.registrar-servers.com.
 lindseyhebert.press.	3600	in	ns	dns2.registrar-servers.com.
 lindt.press.	3600	in	ns	ns1.reg.ru.
 lindt.press.	3600	in	ns	ns2.reg.ru.
-lineage2.press.	3600	in	ns	ns1.expired.reg.ru.
-lineage2.press.	3600	in	ns	ns2.expired.reg.ru.
 linebet.press.	3600	in	ns	emerie.ns.cloudflare.com.
 linebet.press.	3600	in	ns	frank.ns.cloudflare.com.
 linensandhutch.press.	3600	in	ns	ns23.domaincontrol.com.
@@ -20403,7 +20443,7 @@ lodzkie.press.	3600	in	ns	dns100.ovh.net.
 lodzkie.press.	3600	in	ns	ns100.ovh.net.
 lodzkie.press.	3600	in	rrsig	DS 8 2 3600 20250918121326 20250819104326 18631 press. PSgpgJxvnbiWdDZG6RE2+0xG3tH+x/eKCW0SvGph50MzkeEBHFTWmZoZXdfNooMcaL956x7O1cb+wjy53U1xjeiVtTvdzrFCRRIQuN6MlL1GWuq8Lg+x6F+UkVr/UekuNBkvl/b4/JTb2dRcxgirzLuI0coLhsR3WGpU8xluz0I=
 lof1cv44buf9jpgf07sarfnt42rels2p.press.	900	in	nsec3	1 1 0 - LOJS0FNG371T7H1U7QDDDVTVC6Q59NUR NS DS RRSIG
-lof1cv44buf9jpgf07sarfnt42rels2p.press.	900	in	rrsig	NSEC3 8 2 900 20250914090236 20250815073236 18631 press. TKfEv+UeMIXtwHV2GqdnB2FulRg9VkkTDb7DCpZUtdT+0eHAdtUO5RYJ2IdjcMaVm6uNUJdQXHstOWZAJNDr8IJPfmKpchuGtEc810N2n3cpf3jgiTjrz038UiQYD+KjtgdlsnLr4Dlr6SEi1NKUSqQaH4rs2DXiGn3+2R10q3o=
+lof1cv44buf9jpgf07sarfnt42rels2p.press.	900	in	rrsig	NSEC3 8 2 900 20251011090236 20250911073236 18631 press. zlnXvK5Lx0jbtp54CpC5RRGP37RSb7A+8e+Uk6wImpmcBiNfCiy7MnNGMKbBU9oSDlwMQ0XlYYx3rLrnC2IAB7gokuzytXMy16vwIBpb7MHnJieEMcvH1yKn6iBptPVJZ3VmS+7V0rUaKtep8lqbdD3sXxT9Tfzwfv1td1Wt0H0=
 loft.press.	3600	in	ns	ns23.domaincontrol.com.
 loft.press.	3600	in	ns	ns24.domaincontrol.com.
 logi.press.	3600	in	ns	ns7.alidns.com.
@@ -20428,7 +20468,7 @@ loislane.press.	3600	in	ns	ns3.wordpress.com.
 lojaonline.press.	3600	in	ns	ns1.dns-parking.com.
 lojaonline.press.	3600	in	ns	ns2.dns-parking.com.
 lojs0fng371t7h1u7qdddvtvc6q59nur.press.	900	in	nsec3	1 1 0 - LUCAS431BB3U9FL4GPD5495VGFLIPMPJ NS DS RRSIG
-lojs0fng371t7h1u7qdddvtvc6q59nur.press.	900	in	rrsig	NSEC3 8 2 900 20250914090236 20250815073236 18631 press. zx6jHUPPcJI4/Oz/QBZgJg53HLbqg/crlR7SVMlGP3ZpF6cC6yLTLQNYWyjOriSEtkBR7ZlpP5FZpzwRf+G3Bb6fB2NC1QoCRJMzqppVB2Dx/NxCsNc1z2Ic+13GJk6WLtr8IC+b1q/bnwpI4lWJv0RD1a/GhpsYJezEsb/qAnY=
+lojs0fng371t7h1u7qdddvtvc6q59nur.press.	900	in	rrsig	NSEC3 8 2 900 20251011090236 20250911073236 18631 press. IDlNLrVW6v43g6KRNfcSY69uwuqgbha5H1J/pXy5RaWRQQ6ZBfCNg7bZIBHUBpWu2OZUKyOGqzYeNWLWLtOGYuEdtnVeYxdqLuEG2ODIEtBw5qqwZsOPtHAoqCPhczrl5/DbulZFIPSeeajM0A95QTdJoKCn2wf9yOOdBD/yWFw=
 loka.press.	3600	in	ns	ns47.domaincontrol.com.
 loka.press.	3600	in	ns	ns48.domaincontrol.com.
 lokal.press.	3600	in	ns	ns1.xserver.jp.
@@ -20918,8 +20958,8 @@ maestromedia.press.	3600	in	ns	ns18.domaincontrol.com.
 maga.press.	3600	in	ns	ns1.dreamhost.com.
 maga.press.	3600	in	ns	ns2.dreamhost.com.
 maga.press.	3600	in	ns	ns3.dreamhost.com.
-magadan.press.	3600	in	ns	ns1.dyna-ns.net.
-magadan.press.	3600	in	ns	ns2.dyna-ns.net.
+magadan.press.	3600	in	ns	dns1.registrar-servers.com.
+magadan.press.	3600	in	ns	dns2.registrar-servers.com.
 magaero.press.	3600	in	ns	dns1.registrar-servers.com.
 magaero.press.	3600	in	ns	dns2.registrar-servers.com.
 magai.press.	3600	in	ns	dns1.registrar-servers.com.
@@ -21795,6 +21835,8 @@ mediskin.press.	3600	in	ns	ns5.mixhost.jp.
 meditari.press.	3600	in	ns	ns1.wordpress.com.
 meditari.press.	3600	in	ns	ns2.wordpress.com.
 meditari.press.	3600	in	ns	ns3.wordpress.com.
+medpulse.press.	3600	in	ns	dns1.namecheaphosting.com.
+medpulse.press.	3600	in	ns	dns2.namecheaphosting.com.
 medrf.press.	3600	in	ns	ns1.reg.ru.
 medrf.press.	3600	in	ns	ns2.reg.ru.
 medscan.press.	3600	in	ns	ns3.nic.ru.
@@ -22899,6 +22941,8 @@ moonhope.press.	3600	in	ns	ns1.dns-parking.com.
 moonhope.press.	3600	in	ns	ns2.dns-parking.com.
 moonlight.press.	3600	in	ns	ns1.hosting.reg.ru.
 moonlight.press.	3600	in	ns	ns2.hosting.reg.ru.
+moonlightmedia.press.	3600	in	ns	ns1.dns-parking.com.
+moonlightmedia.press.	3600	in	ns	ns2.dns-parking.com.
 moonlit.press.	3600	in	ns	dns1.registrar-servers.com.
 moonlit.press.	3600	in	ns	dns2.registrar-servers.com.
 moonsault.press.	3600	in	ns	ns-cloud-a1.googledomains.com.
@@ -22980,6 +23024,10 @@ mos-s.press.	3600	in	ns	ns-cloud-e1.googledomains.com.
 mos-s.press.	3600	in	ns	ns-cloud-e2.googledomains.com.
 mos-s.press.	3600	in	ns	ns-cloud-e3.googledomains.com.
 mos-s.press.	3600	in	ns	ns-cloud-e4.googledomains.com.
+moscowmx.press.	3600	in	ns	a.ns.selectel.ru.
+moscowmx.press.	3600	in	ns	b.ns.selectel.ru.
+moscowmx.press.	3600	in	ns	c.ns.selectel.ru.
+moscowmx.press.	3600	in	ns	d.ns.selectel.ru.
 moses.press.	3600	in	ns	ns1.verification-hold.dns-suspended.com.
 moses.press.	3600	in	ns	ns2.verification-hold.dns-suspended.com.
 mosf.press.	3600	in	ns	dns1.registrar-servers.com.
@@ -24634,6 +24682,8 @@ noname.press.	3600	in	ns	ns39.domaincontrol.com.
 noname.press.	3600	in	ns	ns40.domaincontrol.com.
 nonentropy.press.	3600	in	ns	dns3.hichina.com.
 nonentropy.press.	3600	in	ns	dns4.hichina.com.
+nonews.press.	3600	in	ns	ns1.dns-parking.com.
+nonews.press.	3600	in	ns	ns2.dns-parking.com.
 nonfictionfiction.press.	3600	in	ds	13196 8 2 575F438A19C805D6B0D2C03B0633F50A7B1D8FE782D49FE292693D9A54E6D876
 nonfictionfiction.press.	3600	in	ns	ns-cloud-c1.googledomains.com.
 nonfictionfiction.press.	3600	in	ns	ns-cloud-c2.googledomains.com.
@@ -24683,10 +24733,14 @@ normanstockwell.press.	3600	in	ns	ns16.domaincontrol.com.
 norosi.press.	3600	in	ns	ns1.xdomain.ne.jp.
 norosi.press.	3600	in	ns	ns2.xdomain.ne.jp.
 norosi.press.	3600	in	ns	ns3.xdomain.ne.jp.
-norstar.press.	3600	in	ns	dns23.hichina.com.
-norstar.press.	3600	in	ns	dns24.hichina.com.
+norstar.press.	3600	in	ns	expirens3.hichina.com.
+norstar.press.	3600	in	ns	expirens4.hichina.com.
 northcoast.press.	3600	in	ns	dns1.registrar-servers.com.
 northcoast.press.	3600	in	ns	dns2.registrar-servers.com.
+northeastfree.press.	3600	in	ns	curitiba.ns.porkbun.com.
+northeastfree.press.	3600	in	ns	fortaleza.ns.porkbun.com.
+northeastfree.press.	3600	in	ns	maceio.ns.porkbun.com.
+northeastfree.press.	3600	in	ns	salvador.ns.porkbun.com.
 northgull.press.	3600	in	ns	ns1.beget.com.
 northgull.press.	3600	in	ns	ns1.beget.pro.
 northgull.press.	3600	in	ns	ns2.beget.com.
@@ -24900,7 +24954,6 @@ ns1.localdirectory.press.	3600	in	a	69.16.236.252
 ns1.mail.hansa.press.	3600	in	a	141.144.254.243
 ns1.mediaoutreach.press.	3600	in	a	69.16.237.46
 ns1.mercados.press.	3600	in	a	67.205.146.74
-ns1.onenews.press.	3600	in	a	108.175.12.61
 ns1.personalfinances.press.	3600	in	a	72.52.144.63
 ns1.pethealth.press.	3600	in	a	67.225.210.16
 ns1.politicalnews.press.	3600	in	a	72.52.144.107
@@ -24943,7 +24996,6 @@ ns2.localdirectory.press.	3600	in	a	69.16.236.252
 ns2.mail.hansa.press.	3600	in	a	141.144.254.243
 ns2.mediaoutreach.press.	3600	in	a	69.16.237.46
 ns2.mercados.press.	3600	in	a	67.205.146.74
-ns2.onenews.press.	3600	in	a	108.175.12.61
 ns2.personalfinances.press.	3600	in	a	72.52.144.63
 ns2.pethealth.press.	3600	in	a	67.225.210.16
 ns2.politicalnews.press.	3600	in	a	72.52.144.107
@@ -25112,9 +25164,9 @@ o4ul0hde4sm24oup3g35gubpdmiam6t4.press.	900	in	rrsig	NSEC3 8 2 900 2025101000004
 o8ofi1nnsmrlod2jidt3ab8ssc76c25c.press.	900	in	nsec3	1 1 0 - O9IQVAQEI9M33O1V9VATKIK5V2U7CU1V NS DS RRSIG
 o8ofi1nnsmrlod2jidt3ab8ssc76c25c.press.	900	in	rrsig	NSEC3 8 2 900 20251002000129 20250901223129 18631 press. Aqv6vaOAtEVXfJVKMGz0X4apIHiWFVBHldCRwHk7H7wiP/a8+7yH0Uxd2TGh9bNZ2F8eBYKO8LpITDJsBxMSFOYZUXkYrjvhhphZ7EvnBgYaaddxzVJQKq5yFznt/1taV4oqVO4de48nPq6BMfLnrEd7f/PTo02jHTZiLUjR7io=
 o9iqvaqei9m33o1v9vatkik5v2u7cu1v.press.	900	in	nsec3	1 1 0 - O9SFKJ9IKQ2SJR8OC0S415PCR6M9UI7T NS DS RRSIG
-o9iqvaqei9m33o1v9vatkik5v2u7cu1v.press.	900	in	rrsig	NSEC3 8 2 900 20250914090242 20250815073242 18631 press. nKh3KC0jv2Q57inixnGpt4gcgeOubUzMZC6rp+U3RDUChdZb0U4kV8yRd5qALMzYYCeKX4ypJ74FPKuVfeW6YhSZIR4CR3fw34V3MDlU6P7SmIkGElEjCXiMUzGVMgxFyG0XdlxUWt1BdjMnjpQ2RVBpqfwef+sjIlmDMzQIUrA=
+o9iqvaqei9m33o1v9vatkik5v2u7cu1v.press.	900	in	rrsig	NSEC3 8 2 900 20251011090236 20250911073236 18631 press. m91nV4vTr0BwKnxAE5SdjPehHZBl9tZLHz2J2f4NgG8O3Zgv0x6SV3DPvxiqUa+GD6wYn48pi3OPT4wodDNjl/x7AHb711Du/iyo/wCkGGbDAB98Ya3MMX5m3ggHfl5Wp657L5sXXEbWDvnXkkYymKL9lM9lCDU1MvRID8Dendo=
 o9sfkj9ikq2sjr8oc0s415pcr6m9ui7t.press.	900	in	nsec3	1 1 0 - OJGKDVV7JI1V2PO3LHRH48C6SH398MIC NS DS RRSIG
-o9sfkj9ikq2sjr8oc0s415pcr6m9ui7t.press.	900	in	rrsig	NSEC3 8 2 900 20250914090242 20250815073242 18631 press. tgxEUJIl7Xn+voXoT9KGXAWUvtfjSm3cJ1MDLkmcJuXoyvUZvFgAtQB71zs87i0BjAvB4RgKEPHC4vABLNQNEwHP+GGWRUZPVJGESbPdxaPFeIns7jGVQ+k9fWYclTrrtpnu3qg4C3gPfOBJiXwHRX0+SJ9bv1+NHWEj5Mk3ApI=
+o9sfkj9ikq2sjr8oc0s415pcr6m9ui7t.press.	900	in	rrsig	NSEC3 8 2 900 20251011090236 20250911073236 18631 press. zrL30iEJAh3W86rj6hA6Tkz+Gupc4e7RvRb4jr+IdDQcvEVCrbKAaMxU3ycChZauUtUoe+bTkLj4Mdt9vLcMdaqr9Cawk1e7D4FocU7zI7kDkUUqsnM7EpjvE2AipfJBhx7bbiuhSGw+sShHdcn6goYc3C2iId12gvMUCy/dTdc=
 oaejournals.press.	3600	in	ns	dns10.hichina.com.
 oaejournals.press.	3600	in	ns	dns9.hichina.com.
 oaepublish.press.	3600	in	ns	adel.ns.cloudflare.com.
@@ -25531,8 +25583,8 @@ onefm.press.	3600	in	ns	ns2.dns-expired.com.
 oneills.press.	3600	in	ns	ns1.wordpress.com.
 oneills.press.	3600	in	ns	ns2.wordpress.com.
 oneills.press.	3600	in	ns	ns3.wordpress.com.
-onenews.press.	3600	in	ns	ns1.onenews.press.
-onenews.press.	3600	in	ns	ns2.onenews.press.
+onenews.press.	3600	in	ns	blakely.ns.cloudflare.com.
+onenews.press.	3600	in	ns	rex.ns.cloudflare.com.
 oneoossn.press.	3600	in	ns	dns3.hichina.com.
 oneoossn.press.	3600	in	ns	dns4.hichina.com.
 onepay.press.	3600	in	ns	ns1.dns-parking.com.
@@ -26295,6 +26347,8 @@ palmer.press.	3600	in	ns	ns-cloud-d2.googledomains.com.
 palmer.press.	3600	in	ns	ns-cloud-d3.googledomains.com.
 palmer.press.	3600	in	ns	ns-cloud-d4.googledomains.com.
 palmer.press.	3600	in	rrsig	DS 8 2 3600 20251010000048 20250909223048 18631 press. W8JeQ90kbkjZIsDUfu2eM4Ggu4xjS23EHktSFp+BvgkDgbMfVTgvY+YmuLOBNUfzUudeKQa3wbUUHbCnwMj50XemiEbE3LacXSIiCb7TNeYIurkGQYrN8YAEM2Yr5f+0wkSkc68iAZlsZ/8ArqaQacHZs5BGaLBRHipakYBda5A=
+palms.press.	3600	in	ns	ns1.dns-parking.com.
+palms.press.	3600	in	ns	ns2.dns-parking.com.
 palmtree.press.	3600	in	ns	ns11.domaincontrol.com.
 palmtree.press.	3600	in	ns	ns12.domaincontrol.com.
 paloaltonetworks.press.	3600	in	ns	ns1.markmonitor.com.
@@ -26806,8 +26860,6 @@ peeps.press.	3600	in	ns	ns3.afternic.com.
 peeps.press.	3600	in	ns	ns4.afternic.com.
 peer-review.press.	3600	in	ns	ns11.domaincontrol.com.
 peer-review.press.	3600	in	ns	ns12.domaincontrol.com.
-peerplays.press.	3600	in	ns	dns101.registrar-servers.com.
-peerplays.press.	3600	in	ns	dns102.registrar-servers.com.
 peers.press.	3600	in	ns	aleena.ns.cloudflare.com.
 peers.press.	3600	in	ns	nick.ns.cloudflare.com.
 peerscience.press.	3600	in	ns	ns07.domaincontrol.com.
@@ -27198,8 +27250,6 @@ photox.press.	3600	in	ns	ns-cloud-b4.googledomains.com.
 photox.press.	3600	in	rrsig	DS 8 2 3600 20251010000048 20250909223048 18631 press. lgoC79dzYVF/TW9WrY8T5rarc4FwrhjjvT6Oripz5pGfS+aik/0SWqEgblPT1SBPmYk/+6mSss8eNjmZ08ABlyiBVeO2bZx2qFBdYBr0RzIyyaMZHVvZagfaMfj28qbC/2S4/43By3wlCX9U4KM8WqUR2Cn1IW4IEEsAy38oo9c=
 phygital.press.	3600	in	ns	dns1.registrar-servers.com.
 phygital.press.	3600	in	ns	dns2.registrar-servers.com.
-physical.press.	3600	in	ns	ns61.domaincontrol.com.
-physical.press.	3600	in	ns	ns62.domaincontrol.com.
 piar.press.	3600	in	ns	ns1.reg.ru.
 piar.press.	3600	in	ns	ns2.reg.ru.
 pib.press.	3600	in	ns	dns1.stabletransit.com.
@@ -28200,7 +28250,7 @@ press.	3600	in	dnskey	257 3 8 AwEAAeyqzV4tL+JPvTvT1e5s/Oc150E3to1T1r1hb2F9ub7Qy5
 press.	3600	in	rrsig	DNSKEY 8 1 3600 20251009204402 20250909191402 56540 press. yLwclVVcwD7Ayxl4qJckj1R4b8T6M/IcFRU4LRIAvPy5iXnyZRmiYbCysjx5XWQ7mxCffa0P77RybmBc3Cxb0P/Lx612l2G9wraeZOHX2jR5A+PmRHbr6yBiuO9Ucfyj8wS8+GJUDPLnOqYE60ct0KO4CpR9MX8F7frTj0BvRnr5GU7pnt1JlsdQitCoBfKrIH4JZhSaQloZppDZYu+xTRdJdXqb8JdsdG4B+/JVJTXaFsv9HczZkRjkX50sdWccbLbAp4yTdUbtFdQ7xLZxEUayx+3OZ81u6z/xjq0VMz+sNnecJ18SP/0LGbM+K8jmcAVIZMyXyyV+BRSTFCOgBA==
 press.	900	in	nsec3param	1 0 0 -
 press.	900	in	rrsig	NSEC3PARAM 8 1 900 20251009204402 20250909191402 18631 press. YzyY24Sd3XnsI4dT2O1GU1gHlfuK4OLKdFnwRMlMTSy9KzWmG7ZKMvkCA92Vx9WLC0Gv9qYEgbXLagG01LXLxxtKG59DEhZilSysls+pDfgpnAfphkCJLfx7L1UVIdJZvAhcpJOSWjx1e4dURS0PN4Z2WFruIGT/1+SwgUqeN/4=
-press.	900	in	rrsig	SOA 8 1 900 20251011011346 20250910234346 18631 press. cD28bC+4yQgpQyJ2fwmuI36fcorws9qVLnmfee0GVWjnQOqk6/Jsbycni8nDTmFzmDhOReOCauyK5+DHRgJhpLIsof/nX7uSMRkZkbwD9WZs+tyjzXV0D/SN2nwNAsxILrH4DkpnVZNPx0Acuf1hiVCti5nq+JRuRTgGCy86Dqw=
+press.	900	in	rrsig	SOA 8 1 900 20251012010324 20250911233324 18631 press. pwuOhXWGLbR01EUuyQiEraRwO9EAjbuMC/VQjr/jE+wywFLU+AAI9ZaGqJrSzw8Xvb+NDVJGDDE3BEBhn05k9LL1/RLPhc9v4+p4A3sNtIIfRg5EOk/U1dS/WUoFbsdCslis9NcWkBlrVESyXwcXHBihBjzzas3IxAJtu2J6PlU=
 pressbooks.press.	3600	in	ns	ns1.hover.com.
 pressbooks.press.	3600	in	ns	ns2.hover.com.
 presscheck.press.	3600	in	ns	ns05.domaincontrol.com.
@@ -28380,8 +28430,8 @@ privatecitizen.press.	3600	in	ns	dns3.p08.nsone.net.
 privatecitizen.press.	3600	in	ns	dns4.p08.nsone.net.
 privateproperty.press.	3600	in	ns	ns1.1stdomains.net.nz.
 privateproperty.press.	3600	in	ns	ns2.1stdomains.net.nz.
-prix.press.	3600	in	ns	ns1.reg.ru.
-prix.press.	3600	in	ns	ns2.reg.ru.
+prix.press.	3600	in	ns	ns1.hosting.reg.ru.
+prix.press.	3600	in	ns	ns2.hosting.reg.ru.
 prkings.press.	3600	in	ns	ns1.dns-parking.com.
 prkings.press.	3600	in	ns	ns2.dns-parking.com.
 prndl.press.	3600	in	ds	47036 8 2 324E4241F228426CA3BE77857A345091C3B17AD137D7D066A815E6E181702168
@@ -28748,8 +28798,6 @@ pulp.press.	3600	in	ns	launch2.spaceship.net.
 pulp.press.	3600	in	rrsig	DS 8 2 3600 20251010000048 20250909223048 18631 press. F9XNDmloCEQhk3gk7QIfTlPZuNqThSFvuLEjAkCfwX1Hu757pYuwynC5olGqvJ+2u7XhnTIh29x87OZM7FA5CRAGPG3DV5mxVHgLde76zhAaHiPqF38YNtS7SpBylvSvwMYaNPCNJH8brBukUo69RQcxeB4XTUlFUd67VxLeE/s=
 pulpfiction.press.	3600	in	ns	dnsproxy1.fm.nic.ru.
 pulpfiction.press.	3600	in	ns	dnsproxy2.fm.nic.ru.
-pulse.press.	3600	in	ns	dns101.registrar-servers.com.
-pulse.press.	3600	in	ns	dns102.registrar-servers.com.
 pulsechain.press.	3600	in	ns	dns1.registrar-servers.com.
 pulsechain.press.	3600	in	ns	dns2.registrar-servers.com.
 pulsehub.press.	3600	in	ns	dom.ns.cloudflare.com.
@@ -28977,8 +29025,8 @@ quadient.press.	3600	in	ns	ns1-04.azure-dns.com.
 quadient.press.	3600	in	ns	ns2-04.azure-dns.net.
 quadient.press.	3600	in	ns	ns3-04.azure-dns.org.
 quadient.press.	3600	in	ns	ns4-04.azure-dns.info.
-quadrum.press.	3600	in	ns	ns1.expired.reg.ru.
-quadrum.press.	3600	in	ns	ns2.expired.reg.ru.
+quadrum.press.	3600	in	ns	ns1.hosting.reg.ru.
+quadrum.press.	3600	in	ns	ns2.hosting.reg.ru.
 qual.press.	3600	in	ns	dns1.namecheaphosting.com.
 qual.press.	3600	in	ns	dns2.namecheaphosting.com.
 qualico.press.	3600	in	ns	ns33.domaincontrol.com.
@@ -30787,6 +30835,8 @@ salam.press.	3600	in	ns	dns1.onamae.com.
 salam.press.	3600	in	ns	dns2.onamae.com.
 saleh.press.	3600	in	ns	ns1.dns-expired.com.
 saleh.press.	3600	in	ns	ns2.dns-expired.com.
+saleradar.press.	3600	in	ns	statuspage1.nic.ru.
+saleradar.press.	3600	in	ns	statuspage2.nic.ru.
 sales-hub.press.	3600	in	ns	ns73.domaincontrol.com.
 sales-hub.press.	3600	in	ns	ns74.domaincontrol.com.
 salesarena.press.	3600	in	ns	ns1.dns-parking.com.
@@ -30928,6 +30978,9 @@ sanofi.press.	3600	in	ns	ns1.sanofi-synthelabo.com.
 sanofi.press.	3600	in	ns	ns2.sanofi-synthelabo.com.
 sanofi.press.	3600	in	ns	ns3.sanofi-synthelabo.com.
 sanofi.press.	3600	in	ns	ns4.sanofi-synthelabo.com.
+sanogenesis.press.	3600	in	ns	ns3.nic.ru.
+sanogenesis.press.	3600	in	ns	ns4.nic.ru.
+sanogenesis.press.	3600	in	ns	ns8.nic.ru.
 sanoma.press.	3600	in	ns	ns1.sanoma.fi.
 sanoma.press.	3600	in	ns	ns2.sanoma.fi.
 sanshu.press.	3600	in	ns	ns1.mixhost.jp.
@@ -31092,8 +31145,9 @@ saynotobarbadoshighrises.press.	3600	in	ns	dns1.registrar-servers.com.
 saynotobarbadoshighrises.press.	3600	in	ns	dns2.registrar-servers.com.
 sbaq.press.	3600	in	ns	alaric.ns.cloudflare.com.
 sbaq.press.	3600	in	ns	hope.ns.cloudflare.com.
-sbcharm.press.	3600	in	ns	connie.ns.cloudflare.com.
-sbcharm.press.	3600	in	ns	jihoon.ns.cloudflare.com.
+sbcharm.press.	3600	in	ns	ns1.dnsowl.com.
+sbcharm.press.	3600	in	ns	ns2.dnsowl.com.
+sbcharm.press.	3600	in	ns	ns3.dnsowl.com.
 sbcnetwork.press.	3600	in	ns	ns-cloud-a1.googledomains.com.
 sbcnetwork.press.	3600	in	ns	ns-cloud-a2.googledomains.com.
 sbcnetwork.press.	3600	in	ns	ns-cloud-a3.googledomains.com.
@@ -31104,8 +31158,9 @@ sbg.press.	3600	in	ns	ns3.lexsynergy.info.
 sbgsecurities.press.	3600	in	ns	ns1.lexsynergy.net.
 sbgsecurities.press.	3600	in	ns	ns2.lexsynergy.us.
 sbgsecurities.press.	3600	in	ns	ns3.lexsynergy.info.
-sblcky.press.	3600	in	ns	connie.ns.cloudflare.com.
-sblcky.press.	3600	in	ns	jihoon.ns.cloudflare.com.
+sblcky.press.	3600	in	ns	ns1.dnsowl.com.
+sblcky.press.	3600	in	ns	ns2.dnsowl.com.
+sblcky.press.	3600	in	ns	ns3.dnsowl.com.
 sbtc.press.	3600	in	ns	curitiba.ns.porkbun.com.
 sbtc.press.	3600	in	ns	fortaleza.ns.porkbun.com.
 sbtc.press.	3600	in	ns	maceio.ns.porkbun.com.
@@ -31595,6 +31650,8 @@ serenity.press.	3600	in	ns	carl.ns.cloudflare.com.
 serenity.press.	3600	in	ns	sandy.ns.cloudflare.com.
 serenitysprings.press.	3600	in	ns	hgns1.hostgator.com.
 serenitysprings.press.	3600	in	ns	hgns2.hostgator.com.
+serindit.press.	3600	in	ns	ns67.domaincontrol.com.
+serindit.press.	3600	in	ns	ns68.domaincontrol.com.
 serotonin.press.	3600	in	ns	ns35.domaincontrol.com.
 serotonin.press.	3600	in	ns	ns36.domaincontrol.com.
 serp.press.	3600	in	ns	hayes.ns.cloudflare.com.
@@ -31822,6 +31879,8 @@ sheraton.press.	3600	in	ns	ns-1420.awsdns-49.org.
 sheraton.press.	3600	in	ns	ns-1645.awsdns-13.co.uk.
 sheraton.press.	3600	in	ns	ns-6.awsdns-00.com.
 sheraton.press.	3600	in	ns	ns-774.awsdns-32.net.
+sheric.press.	3600	in	ns	ns7.lite-host.in.
+sheric.press.	3600	in	ns	ns8.pluton-host.ru.
 sherman.press.	3600	in	ns	dns1.registrar-servers.com.
 sherman.press.	3600	in	ns	dns2.registrar-servers.com.
 shershakova.press.	3600	in	ns	ns1.vigbo.site.
@@ -32329,8 +32388,6 @@ skokka.press.	3600	in	ns	ns4.markmonitor.com.
 skokka.press.	3600	in	ns	ns5.markmonitor.com.
 skokka.press.	3600	in	ns	ns6.markmonitor.com.
 skokka.press.	3600	in	ns	ns7.markmonitor.com.
-skolford.press.	3600	in	ns	ns1.expired.reg.ru.
-skolford.press.	3600	in	ns	ns2.expired.reg.ru.
 skolkovoone.press.	3600	in	ns	ns1.reg.ru.
 skolkovoone.press.	3600	in	ns	ns2.reg.ru.
 skrap.press.	3600	in	ns	dns1.registrar-servers.com.
@@ -32694,6 +32751,8 @@ socialfitness.press.	3600	in	ns	dns1.registrar-servers.com.
 socialfitness.press.	3600	in	ns	dns2.registrar-servers.com.
 socialgood.press.	3600	in	ns	dns01.muumuu-domain.com.
 socialgood.press.	3600	in	ns	dns02.muumuu-domain.com.
+socialimpact.press.	3600	in	ns	ns1.hosting.reg.ru.
+socialimpact.press.	3600	in	ns	ns2.hosting.reg.ru.
 socialist.press.	3600	in	ns	ns1.dns-parking.com.
 socialist.press.	3600	in	ns	ns2.dns-parking.com.
 socialmediapublicist.press.	3600	in	ns	ns33.domaincontrol.com.
@@ -32850,6 +32909,16 @@ something.press.	3600	in	ns	ns23.domaincontrol.com.
 something.press.	3600	in	ns	ns24.domaincontrol.com.
 somewhere.press.	3600	in	ns	ns1.dns-parking.com.
 somewhere.press.	3600	in	ns	ns2.dns-parking.com.
+somniamemo.press.	3600	in	ns	ns1.dns-parking.com.
+somniamemo.press.	3600	in	ns	ns2.dns-parking.com.
+somnianetworknewsfeed.press.	3600	in	ns	ns1.dns-parking.com.
+somnianetworknewsfeed.press.	3600	in	ns	ns2.dns-parking.com.
+somnianetworknewsletter.press.	3600	in	ns	ns1.dns-parking.com.
+somnianetworknewsletter.press.	3600	in	ns	ns2.dns-parking.com.
+somnianewsfeed.press.	3600	in	ns	ns1.dns-parking.com.
+somnianewsfeed.press.	3600	in	ns	ns2.dns-parking.com.
+somniateamnews.press.	3600	in	ns	ns1.dns-parking.com.
+somniateamnews.press.	3600	in	ns	ns2.dns-parking.com.
 somniomancer.press.	3600	in	ns	dns1.namecheaphosting.com.
 somniomancer.press.	3600	in	ns	dns2.namecheaphosting.com.
 sonarqube.press.	3600	in	ns	ns-158-c.gandi.net.
@@ -33337,7 +33406,7 @@ srpski.press.	3600	in	ns	ns2.supercp.com.
 srpski.press.	3600	in	ns	ns3.supercp.com.
 srpski.press.	3600	in	ns	ns4.supercp.com.
 srt50bm65jstrfn34dtq6u2lnthvbn5c.press.	900	in	nsec3	1 1 0 - STM9P2LORIT7R43APO1OCNA8DM982J8V NS DS RRSIG
-srt50bm65jstrfn34dtq6u2lnthvbn5c.press.	900	in	rrsig	NSEC3 8 2 900 20250914154831 20250815141831 18631 press. kxAfbI6x72+IWPjGJZs33OHeh0u/T8GyJKGK5BiohLB1DTOcFvnT1bVspLlO6ydBAzpogDsBbzocb8Juq60XSm+gxyhvQPj7QPINAPg+TNwyl8BEOWhwCLicv8HCg7D3Qo5zHcY7qMhFV6yF+XGnlO/C98sxQIHZdpXdZOVCHRg=
+srt50bm65jstrfn34dtq6u2lnthvbn5c.press.	900	in	rrsig	NSEC3 8 2 900 20251011145043 20250911132043 18631 press. vc6MuC9XLwJ+hmxczKLTf2Q7bbwyn4W2qDVnhzlixC2k+HkDwzjyFmAPNmLizXDDyrl9ohPadTNLH2/fVHElqJEUA/OUEsbMqySr0c8ocABndHXUfprtim152CV6buPJ1WfM7O1Z9plxYcB1IOtxlMxVgrs41SGqNX+P9PNhm78=
 srvs.press.	3600	in	ns	curitiba.ns.porkbun.com.
 srvs.press.	3600	in	ns	fortaleza.ns.porkbun.com.
 srvs.press.	3600	in	ns	maceio.ns.porkbun.com.
@@ -33670,7 +33739,7 @@ stkcheck.press.	3600	in	ns	pdns77.ultradns.com.
 stkcheck.press.	3600	in	ns	pdns77.ultradns.net.
 stkcheck.press.	3600	in	ns	pdns77.ultradns.org.
 stm9p2lorit7r43apo1ocna8dm982j8v.press.	900	in	nsec3	1 1 0 - T4CFMO1HGC0N1UDQJL5J7KA87Q36QS18 NS DS RRSIG
-stm9p2lorit7r43apo1ocna8dm982j8v.press.	900	in	rrsig	NSEC3 8 2 900 20250915000117 20250815223117 18631 press. QaF0qTmI27f6QxKVswa7/qNVXJt5/iVIa1DeC0rSKkLS4iESbiYpgIjlGi/KI/+rXlF2mmjIxumTvM5cDoul8OXSlN9/YD9xyIQic1mlC7FN0MjO2J8mt+032Ok7yTP6S/JqiQXymjjTGBOPB+xYNaGpFQfF5kgxbqH+PzKAApw=
+stm9p2lorit7r43apo1ocna8dm982j8v.press.	900	in	rrsig	NSEC3 8 2 900 20251012000117 20250911223117 18631 press. v22YRUoRapq/761WIr6ngDIgDGf9uxC0i9fTM43OZrxDodcOBrYvdDeAuQzE/5BQnLqliBHoMXtLeYUzbLeHznqSOVJo5PvdyaYKITPrBL4HXDmi9qS+0X8Ebnd08pUc9eukXXbA+rZ631OR+b4yis1KefRrlq3pyS3J8Yb9ZtY=
 stockexchange.press.	3600	in	ns	dns1.registrar-servers.com.
 stockexchange.press.	3600	in	ns	dns2.registrar-servers.com.
 stocknews.press.	3600	in	ns	ns53.domaincontrol.com.
@@ -33716,6 +33785,9 @@ storied.press.	3600	in	ns	ns41.domaincontrol.com.
 storied.press.	3600	in	ns	ns42.domaincontrol.com.
 stormbird.press.	3600	in	ns	ns1.bluehost.com.
 stormbird.press.	3600	in	ns	ns2.bluehost.com.
+story-cakes.press.	3600	in	ns	ns3.nic.ru.
+story-cakes.press.	3600	in	ns	ns4.nic.ru.
+story-cakes.press.	3600	in	ns	ns8.nic.ru.
 story-teller.press.	3600	in	ns	ns1.fp261.parklogic.com.
 story-teller.press.	3600	in	ns	ns2.fp261.parklogic.com.
 storybloom.press.	3600	in	ns	dns1.registrar-servers.com.
@@ -34569,8 +34641,6 @@ taptap.press.	3600	in	ns	pdns95.ultradns.net.
 taptap.press.	3600	in	ns	pdns95.ultradns.org.
 taras.press.	3600	in	ns	dns1.registrar-servers.com.
 taras.press.	3600	in	ns	dns2.registrar-servers.com.
-targetolog.press.	3600	in	ns	ns1.expired.reg.ru.
-targetolog.press.	3600	in	ns	ns2.expired.reg.ru.
 targum.press.	3600	in	ns	ns1.powweb.com.
 targum.press.	3600	in	ns	ns2.powweb.com.
 tariffied.press.	3600	in	ns	ns77.domaincontrol.com.
@@ -34829,10 +34899,10 @@ tellysky.press.	3600	in	ns	dns1.registrar-servers.com.
 tellysky.press.	3600	in	ns	dns2.registrar-servers.com.
 telo.press.	3600	in	ns	ns1.reg.ru.
 telo.press.	3600	in	ns	ns2.reg.ru.
-telosannouncement.press.	3600	in	ns	ns1.dns-parking.com.
-telosannouncement.press.	3600	in	ns	ns2.dns-parking.com.
-telosnewsfeed.press.	3600	in	ns	ns1.dns-parking.com.
-telosnewsfeed.press.	3600	in	ns	ns2.dns-parking.com.
+telosannouncement.press.	3600	in	ns	ns1.verification-hold.dns-suspended.com.
+telosannouncement.press.	3600	in	ns	ns2.verification-hold.dns-suspended.com.
+telosnewsfeed.press.	3600	in	ns	ns1.verification-hold.dns-suspended.com.
+telosnewsfeed.press.	3600	in	ns	ns2.verification-hold.dns-suspended.com.
 telusinternational.press.	3600	in	ns	ns1.markmonitor.com.
 telusinternational.press.	3600	in	ns	ns2.markmonitor.com.
 telusinternational.press.	3600	in	ns	ns3.markmonitor.com.
@@ -35718,12 +35788,8 @@ thepop.press.	3600	in	ns	ns-cloud-d3.googledomains.com.
 thepop.press.	3600	in	ns	ns-cloud-d4.googledomains.com.
 thepositivesidenews.press.	3600	in	ns	pdns03.domaincontrol.com.
 thepositivesidenews.press.	3600	in	ns	pdns04.domaincontrol.com.
-thepost.press.	3600	in	ns	ns39.domaincontrol.com.
-thepost.press.	3600	in	ns	ns40.domaincontrol.com.
 thepowerofglobalconnections.press.	3600	in	ns	dns1.cscdns.net.
 thepowerofglobalconnections.press.	3600	in	ns	dns2.cscdns.net.
-theprepper.press.	3600	in	ns	ns53.domaincontrol.com.
-theprepper.press.	3600	in	ns	ns54.domaincontrol.com.
 thepress.press.	3600	in	ns	dns1.registrar-servers.com.
 thepress.press.	3600	in	ns	dns2.registrar-servers.com.
 thepressroom.press.	3600	in	ns	ns1.syd6.hostingplatform.net.au.
@@ -35760,6 +35826,10 @@ thereading.press.	3600	in	ns	ns59.domaincontrol.com.
 thereading.press.	3600	in	ns	ns60.domaincontrol.com.
 therealcolonel.press.	3600	in	ns	oswald.ns.cloudflare.com.
 therealcolonel.press.	3600	in	ns	tia.ns.cloudflare.com.
+thereciprical.press.	3600	in	ns	ns67.domaincontrol.com.
+thereciprical.press.	3600	in	ns	ns68.domaincontrol.com.
+thereciprocal.press.	3600	in	ns	ns47.domaincontrol.com.
+thereciprocal.press.	3600	in	ns	ns48.domaincontrol.com.
 thereporter.press.	3600	in	ns	ns1.hover.com.
 thereporter.press.	3600	in	ns	ns2.hover.com.
 theresistance.press.	3600	in	ns	ns03.domaincontrol.com.
@@ -36478,6 +36548,8 @@ toppy.press.	3600	in	ns	ns-a2.conoha.io.
 toppy.press.	3600	in	ns	ns-a3.conoha.io.
 topradio.press.	3600	in	ns	ns1.reg.ru.
 topradio.press.	3600	in	ns	ns2.reg.ru.
+topsales.press.	3600	in	ns	statuspage1.nic.ru.
+topsales.press.	3600	in	ns	statuspage2.nic.ru.
 topsite.press.	3600	in	ds	40157 8 2 BFED58867AEDF6ED12133738C3A091496EA30BCFD0AA6DAF7ED887FA557472E2
 topsite.press.	3600	in	ns	ns-cloud-c1.googledomains.com.
 topsite.press.	3600	in	ns	ns-cloud-c2.googledomains.com.
@@ -37472,9 +37544,10 @@ unitypoint.press.	3600	in	ns	ns3-09.azure-dns.org.
 unitypoint.press.	3600	in	ns	ns4-09.azure-dns.info.
 unitypress.press.	3600	in	ns	ns09.domaincontrol.com.
 unitypress.press.	3600	in	ns	ns10.domaincontrol.com.
-univer.press.	3600	in	ns	ns3.nic.ru.
-univer.press.	3600	in	ns	ns4.nic.ru.
-univer.press.	3600	in	ns	ns8.nic.ru.
+univer.press.	3600	in	ns	ns1.sprinthost.ru.
+univer.press.	3600	in	ns	ns2.sprinthost.ru.
+univer.press.	3600	in	ns	ns3.sprinthost.net.
+univer.press.	3600	in	ns	ns4.sprinthost.net.
 universalbet.press.	3600	in	ns	ns1.netfirms.com.
 universalbet.press.	3600	in	ns	ns2.netfirms.com.
 universalfaith.press.	3600	in	ns	ns11.domaincontrol.com.
@@ -38087,8 +38160,8 @@ vechainteamnewsfeed.press.	3600	in	ns	ns2.dns-parking.com.
 vecs301pj.press.	3600	in	ns	ns1.dnsowl.com.
 vecs301pj.press.	3600	in	ns	ns2.dnsowl.com.
 vecs301pj.press.	3600	in	ns	ns3.dnsowl.com.
-vedomosti.press.	3600	in	ns	ns1.reg.ru.
-vedomosti.press.	3600	in	ns	ns2.reg.ru.
+vedomosti.press.	3600	in	ns	ns1.expired.reg.ru.
+vedomosti.press.	3600	in	ns	ns2.expired.reg.ru.
 veeam.press.	3600	in	ns	ns-1207.awsdns-22.org.
 veeam.press.	3600	in	ns	ns-1810.awsdns-34.co.uk.
 veeam.press.	3600	in	ns	ns-377.awsdns-47.com.
@@ -38756,8 +38829,6 @@ w88.press.	3600	in	ns	ns03.domaincontrol.com.
 w88.press.	3600	in	ns	ns04.domaincontrol.com.
 waas.press.	3600	in	ns	serena.ns.cloudflare.com.
 waas.press.	3600	in	ns	zeus.ns.cloudflare.com.
-waawfawgg.press.	3600	in	ns	ns1.expired.reg.ru.
-waawfawgg.press.	3600	in	ns	ns2.expired.reg.ru.
 wacken.press.	3600	in	ns	ns01.yourserver.de.
 wacken.press.	3600	in	ns	ns02.yourserver.de.
 wacken.press.	3600	in	ns	ns03.yourserver.de.
@@ -39541,11 +39612,8 @@ wingame.press.	3600	in	ns	connie.ns.cloudflare.com.
 wingame.press.	3600	in	ns	jihoon.ns.cloudflare.com.
 wingclub.press.	3600	in	ns	ns21.domaincontrol.com.
 wingclub.press.	3600	in	ns	ns22.domaincontrol.com.
-winged-web.press.	3600	in	ns	ns1.xserver.jp.
-winged-web.press.	3600	in	ns	ns2.xserver.jp.
-winged-web.press.	3600	in	ns	ns3.xserver.jp.
-winged-web.press.	3600	in	ns	ns4.xserver.jp.
-winged-web.press.	3600	in	ns	ns5.xserver.jp.
+winged-web.press.	3600	in	ns	ns1.xe329.parklogic.com.
+winged-web.press.	3600	in	ns	ns2.xe329.parklogic.com.
 wingfold.press.	3600	in	ns	ns37.domaincontrol.com.
 wingfold.press.	3600	in	ns	ns38.domaincontrol.com.
 winity.press.	3600	in	ns	ns1.eurobyte.ru.
@@ -40259,7 +40327,7 @@ ximi.press.	3600	in	ns	dns12.hichina.com.
 xin88.press.	3600	in	ds	15272 13 2 6A20FB3A874F0D05388C40D39E24FF7FDE9A1647420B94D16D40D6FDBDBE6605
 xin88.press.	3600	in	ns	launch1.spaceship.net.
 xin88.press.	3600	in	ns	launch2.spaceship.net.
-xin88.press.	3600	in	rrsig	DS 8 2 3600 20250914090251 20250815073251 18631 press. X0cxvURjJMfdtHmOLOhwJveiSWa7CAfBnEdSXhXT/EkYk6X7VfHAJSzyKAwWbrm0eR7zJ0UEZej5c8ldYb5UBlwDLPlSpTRgxVu24mDNJGKUou7imcknQPateqNvSy1xJDstoKH5RKuULhs+lzziTQAOohrDhSj+mzDQV+GZhdE=
+xin88.press.	3600	in	rrsig	DS 8 2 3600 20251011090236 20250911073236 18631 press. NrH4uV/6ku6WIKV8rgYsk3bo7dlR/mrEENnpPWPobdIuSLHOIXqgdvTff0iSTAx6m6gT5IlAvSWeZRhBJzensncxWHkHJwMS6sES2EZzTkGEx/2LCxnl8vpljWO14oCPV6gT3LYuUQVVuXqlXVv9HoQ4HUSRKtueA9UFAgid8rM=
 xincaizhi.press.	3600	in	ns	dns10.hichina.com.
 xincaizhi.press.	3600	in	ns	dns9.hichina.com.
 xing.press.	3600	in	ns	dns25.hichina.com.
@@ -40306,10 +40374,16 @@ xn----7sbab4b0aa9aj.press.	3600	in	ns	ns1.reg.ru.
 xn----7sbab4b0aa9aj.press.	3600	in	ns	ns2.reg.ru.
 xn----7sbabr0aq9b9as.press.	3600	in	ns	ns1.reg.ru.
 xn----7sbabr0aq9b9as.press.	3600	in	ns	ns2.reg.ru.
+xn----7sbba0bob3a7ad3ci.press.	3600	in	ns	ns3.nic.ru.
+xn----7sbba0bob3a7ad3ci.press.	3600	in	ns	ns4.nic.ru.
+xn----7sbba0bob3a7ad3ci.press.	3600	in	ns	ns8.nic.ru.
 xn----7sbba1b6aa1aj.press.	3600	in	ns	ns1.reg.ru.
 xn----7sbba1b6aa1aj.press.	3600	in	ns	ns2.reg.ru.
 xn----7sbbaqysmhmmnkr.press.	3600	in	ns	ns5.hosting.reg.ru.
 xn----7sbbaqysmhmmnkr.press.	3600	in	ns	ns6.hosting.reg.ru.
+xn----7sbbga4ai8bb1bg2d.press.	3600	in	ns	ns3.nic.ru.
+xn----7sbbga4ai8bb1bg2d.press.	3600	in	ns	ns4.nic.ru.
+xn----7sbbga4ai8bb1bg2d.press.	3600	in	ns	ns8.nic.ru.
 xn----7sbhmaoapvdx5agh.press.	3600	in	ns	ns1.reg.ru.
 xn----7sbhmaoapvdx5agh.press.	3600	in	ns	ns2.reg.ru.
 xn----8sbcoclec5bafg3bhh2d.press.	3600	in	ns	ns1.tildadns.com.
@@ -40899,8 +40973,6 @@ xxxxxx.press.	3600	in	ns	dns1.onamae.com.
 xxxxxx.press.	3600	in	ns	dns2.onamae.com.
 xxyy.press.	3600	in	ns	dns25.hichina.com.
 xxyy.press.	3600	in	ns	dns26.hichina.com.
-xykj.press.	3600	in	ns	ns3.myhostadmin.net.
-xykj.press.	3600	in	ns	ns4.myhostadmin.net.
 xynol.press.	3600	in	ns	dns23.hichina.com.
 xynol.press.	3600	in	ns	dns24.hichina.com.
 xyz.press.	3600	in	ns	dns1.registrar-servers.com.
@@ -41644,4 +41716,4 @@ zzbeilei.press.	3600	in	ns	dns19.hichina.com.
 zzbeilei.press.	3600	in	ns	dns20.hichina.com.
 zzzhome.press.	3600	in	ns	dns11.hichina.com.
 zzzhome.press.	3600	in	ns	dns12.hichina.com.
-press.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000478749 900 1800 6048000 3600
+press.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000478849 900 1800 6048000 3600
