@@ -1,4 +1,4 @@
-events.	3600	in	soa	v0n0.nic.events. hostmaster.donuts.email. 1757552624 7200 900 1209600 3600
+events.	3600	in	soa	v0n0.nic.events. hostmaster.donuts.email. 1757638835 7200 900 1209600 3600
 0.events.	3600	in	ns	arvind.ns.cloudflare.com.
 0.events.	3600	in	ns	ryleigh.ns.cloudflare.com.
 000n4kfo16s7ukgbfoidt321j1dr3dfe.events.	3600	in	nsec3	1 1 0 73 00C2FIB1JI3BCT5P5JM7H4555EI7CSE9 NS DS RRSIG
@@ -287,8 +287,8 @@ events.	3600	in	soa	v0n0.nic.events. hostmaster.donuts.email. 1757552624 7200 90
 123hooray.events.	3600	in	ns	salvador.ns.porkbun.com.
 123movies.events.	3600	in	ns	ns1.dns-parking.com.
 123movies.events.	3600	in	ns	ns2.dns-parking.com.
-123movies2022.events.	3600	in	ns	ines.ns.cloudflare.com.
-123movies2022.events.	3600	in	ns	mitch.ns.cloudflare.com.
+123movies2022.events.	3600	in	ns	ns1.dyna-ns.net.
+123movies2022.events.	3600	in	ns	ns2.dyna-ns.net.
 123win.events.	3600	in	ns	jocelyn.ns.cloudflare.com.
 123win.events.	3600	in	ns	tom.ns.cloudflare.com.
 128.events.	3600	in	ds	35132 8 2 D24D5ED155B2252F41C4E513C61B3B42E3D82E2E0F16097BD5C5B10593A1CE01
@@ -843,10 +843,10 @@ events.	3600	in	soa	v0n0.nic.events. hostmaster.donuts.email. 1757552624 7200 90
 2drvbf2hlvc6dd5rd9llk03bggvkdvvu.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. OvnrSvd+XRHEXZiYnOCoThTnWf5eDU1z0zmMWwFGG+kT9DcWnRtQKJp4hhj/dxNfH8dcvSWjJ2d3zKNL0FxDQ927PAUanXL2qVeaPioAwC7wSkGO9+//2FSkl1r9adlsLrWiPOUxuIeH7MB642CPNM+nyiTtUV3ZmKO9Ni67Dgw=
 2e144bdbnp36og5u0m6qlcllla454khr.events.	3600	in	nsec3	1 1 0 73 2E7Q6CTL7O8O1UTHJ554TEE3L6IEDU3B NS DS RRSIG
 2e144bdbnp36og5u0m6qlcllla454khr.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. r9CcpH0xnva5VJsmGjPFcjX/+IckvOSDkFfkh+FG3csNfOW7F68IaurZ/O4ChJX0/ClPt/j0OhUBFfX1+vXJAWS5GaHXQ9IPGB8falSuRi1Rrx882uYUmqoP2sKYeIADQ64zjI2DKeUOss3gjKB9cXlG11FBrca90hLIPMs9PWA=
-2e7q6ctl7o8o1uthj554tee3l6iedu3b.events.	3600	in	nsec3	1 1 0 73 2EEM7RBROEHP4GI89O45G90C1IBDKPCB NS DS RRSIG
-2e7q6ctl7o8o1uthj554tee3l6iedu3b.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. dATsKd4S8UeLAsfHS/i0O3v1rhdayOLi9hN8H4G2Y5t0aqr6FzuiNElPlTlBwQQtN0hXgRIFe2ET2x/nxWAuHIHSrao0KPjwwq2HNqFRwzBuLXH0Nfta/+ijoLwnR/Y5Nvv01A8Jeb4isr97OO/hzxO2lXnB5Mm+ozw56vDA6iE=
-2eem7rbroehp4gi89o45g90c1ibdkpcb.events.	3600	in	nsec3	1 1 0 73 2FK7APQT2HASB1CIFUGT8IRHBF6MV546 NS DS RRSIG
-2eem7rbroehp4gi89o45g90c1ibdkpcb.events.	3600	in	rrsig	NSEC3 8 2 3600 20251001064815 20250910054815 24630 events. PqhgtvgTm11p/264vAcfpSwAknYD9XrNHeu+kAHajKz07jI36x4gqjxA0f4NgoxDO+AU2f9b5XmcHZKIS9PKGSRUEmVEQSW2nIaqmBxHz6v4ltAI+njhXB8v2fIFPAmL2OJrN1vCkTpOZ7HZfj3pMsYmgHIyF2ookMiOmKGV+bk=
+2e7q6ctl7o8o1uthj554tee3l6iedu3b.events.	3600	in	nsec3	1 1 0 73 2FK792GPOTC0I473NOD4B1AIGM25Q5P3 NS DS RRSIG
+2e7q6ctl7o8o1uthj554tee3l6iedu3b.events.	3600	in	rrsig	NSEC3 8 2 3600 20251002104809 20250911094809 24630 events. H4kDa6lKyVAi5url3CJ6Buz82Fny4Ex0x5rkF7fYuUZWaMXdlsXMUOLZAih6YqceVdhS8Pu10egQOHstzPaA4G1AMWlpvILgEEkmWEYv8EPbg/RhEVao6hjTi29KRjbcRCz6Nb35cNTzmnKgdmRmMBULz3HXvwLbmIvrFxB8VhM=
+2fk792gpotc0i473nod4b1aigm25q5p3.events.	3600	in	nsec3	1 1 0 73 2FK7APQT2HASB1CIFUGT8IRHBF6MV546 NS DS RRSIG
+2fk792gpotc0i473nod4b1aigm25q5p3.events.	3600	in	rrsig	NSEC3 8 2 3600 20251002065550 20250911055550 24630 events. CRUiMytobgz2VswWYDYKA0JrR/KFpdYEcJc56JPhNYK9+zfuWPfkURgvxEy81M2VbVHsDAiBSZyg8YlnEMbbTsIMbHkjes/GXOAADIKJeigGkXT8i1Hvl8TNwFIYUH+lEixM6GI9dBojbvfAgCMXAksuPpEZ3IoMZbfTociRH3s=
 2fk7apqt2hasb1cifugt8irhbf6mv546.events.	3600	in	nsec3	1 1 0 73 2GHOOBHOAPG4MN1BTU5QNBKBNNT2ROAT NS DS RRSIG
 2fk7apqt2hasb1cifugt8irhbf6mv546.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. v2KbI2N56bCnCCF/UkvEuxz8IpRaA+avk2UthGKpD375Qy+1/Nk7bEfhlUKegX/mQXZdxglxoHN8Wmd9T3KKv5zp9FqcTF3+9ogAYI5FyZbH+sCcUHGdO/icdg8hE2s1yl+xTgfegdWGWRV+C6KxQZ/0x4HIlABO7f2eA3idPxI=
 2fold.events.	3600	in	ns	dns1.registrar-servers.com.
@@ -956,8 +956,8 @@ events.	3600	in	soa	v0n0.nic.events. hostmaster.donuts.email. 1757552624 7200 90
 30533.events.	3600	in	ns	ns-cloud-b2.googledomains.com.
 30533.events.	3600	in	ns	ns-cloud-b3.googledomains.com.
 30533.events.	3600	in	ns	ns-cloud-b4.googledomains.com.
-307.events.	3600	in	ns	ns1.bodis.com.
-307.events.	3600	in	ns	ns2.bodis.com.
+307.events.	3600	in	ns	ns1.dns-redirect.com.
+307.events.	3600	in	ns	ns2.dns-redirect.com.
 30a.events.	3600	in	ns	ns43.domaincontrol.com.
 30a.events.	3600	in	ns	ns44.domaincontrol.com.
 30daysofchange.events.	3600	in	ns	ns11.domaincontrol.com.
@@ -1394,8 +1394,6 @@ events.	3600	in	soa	v0n0.nic.events. hostmaster.donuts.email. 1757552624 7200 90
 49s.events.	3600	in	ns	sean.ns.cloudflare.com.
 4all.events.	3600	in	ns	ns1.afternic.com.
 4all.events.	3600	in	ns	ns2.afternic.com.
-4am.events.	3600	in	ns	ns71.domaincontrol.com.
-4am.events.	3600	in	ns	ns72.domaincontrol.com.
 4bqn4hdaa70e2bua5k7mpgmnaj9pqcim.events.	3600	in	nsec3	1 1 0 73 4C3EF5BA9OHDASRV074MPEJIMLI54E1B NS DS RRSIG
 4bqn4hdaa70e2bua5k7mpgmnaj9pqcim.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. gI2LJfuHXvind4xjsnRrBEnuVavcGDt97H7ZVU5y5dWzb9tF9b7scnNiil3gxKKUGHhDqPi/T7ffICq8NRu8Wkredxepy+yK6kzFX5f49VgGTxypPKf3Hel5/uVPlopUbXPWcS4/L9cPGaIUgrAOZktTI8ui+bUWo3TOu7rZCkk=
 4business.events.	3600	in	ns	ns1.esm18.siteground.biz.
@@ -2028,8 +2026,8 @@ events.	3600	in	soa	v0n0.nic.events. hostmaster.donuts.email. 1757552624 7200 90
 789bet.events.	3600	in	ns	lila.ns.cloudflare.com.
 789club.events.	3600	in	ns	frida.ns.cloudflare.com.
 789club.events.	3600	in	ns	kevin.ns.cloudflare.com.
-789f.events.	3600	in	ns	ian.ns.cloudflare.com.
-789f.events.	3600	in	ns	suzanne.ns.cloudflare.com.
+789f.events.	3600	in	ns	garrett.ns.cloudflare.com.
+789f.events.	3600	in	ns	lisa.ns.cloudflare.com.
 789p.events.	3600	in	ns	rory.ns.cloudflare.com.
 789p.events.	3600	in	ns	teresa.ns.cloudflare.com.
 789win.events.	3600	in	ns	jasmine.ns.cloudflare.com.
@@ -2281,8 +2279,6 @@ events.	3600	in	soa	v0n0.nic.events. hostmaster.donuts.email. 1757552624 7200 90
 889club.events.	3600	in	ns	ns-965.awsdns-56.net.
 88bet.events.	3600	in	ns	fatima.ns.cloudflare.com.
 88bet.events.	3600	in	ns	noel.ns.cloudflare.com.
-88clb.events.	3600	in	ns	dns101.registrar-servers.com.
-88clb.events.	3600	in	ns	dns102.registrar-servers.com.
 88i.events.	3600	in	ns	rosalie.ns.cloudflare.com.
 88i.events.	3600	in	ns	salvador.ns.cloudflare.com.
 88m.events.	3600	in	ns	ns57.domaincontrol.com.
@@ -2391,10 +2387,8 @@ events.	3600	in	soa	v0n0.nic.events. hostmaster.donuts.email. 1757552624 7200 90
 8niu1to7m64pv7kiqpfgfrcgbdq673ra.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. M/Qy8uzzUqQONy+etzUroUIO2RFfFL6Y6H4/BdxsReJRss1QM8aKuBj/fA8VGU2AHZxaS1kLAnBBwA/B9m28Nl4BxFA0I174B+3RTbDEXJD6bNvlvLDs64BXmrQP4qX0G8+J4HHZQTKBMP8zQJtrnC/TazFFcrxHqebhvXdl3e0=
 8nl1ab57p12u4f1ubcjub3bno2dmc60b.events.	3600	in	nsec3	1 1 0 73 8OGA80C2A8DHPM2A414QMTS6N4IJA4J4 NS DS RRSIG
 8nl1ab57p12u4f1ubcjub3bno2dmc60b.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. Uy0geEltdqgYvqdIUa3YK2spzhhiVwSGwlJ+pAJT0nkTtZEm9acceiX8+7XywOCFQRumKMFmQZw8dM57nbLLhdkdcsmkgY6StrTh5qSzbbmbsmicZNgxtBxEzFXlbQ3QPGZ4i0aIilVqXRgbjjYSKD45lQkgitMFVDDDLqZ3XZQ=
-8oga80c2a8dhpm2a414qmts6n4ija4j4.events.	3600	in	nsec3	1 1 0 73 8OMVDL1P1V9L3K9OIC16RKL50L8SE5A4 NS DS RRSIG
-8oga80c2a8dhpm2a414qmts6n4ija4j4.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. hfkEAP2P4lSG0iigZFNmHAQ0+mSfXriXjPpVTLOY9nzdfjRCLrfTEUyaaxjH2XaigPHWXbrC3PWOI6b97cTw77ndho7KW2s+Vkr9OVwAm0gN5dXidpQ7OsnEWw/a7WOqsqZHhavTpsKyv1ycGTdRp6vMCTOTZ2iIuwUHZvFJbUg=
-8omvdl1p1v9l3k9oic16rkl50l8se5a4.events.	3600	in	nsec3	1 1 0 73 8PFN04CQ6H5JU0EBI94U4UP19ESORF41 NS DS RRSIG
-8omvdl1p1v9l3k9oic16rkl50l8se5a4.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. pBVkpNSJ/XV1771moN7/LaIcKAzP5L/CLidwBiq3Ao1XOU4I5BxR5ldGfxsgpz/BtHPd8iqNb1PbVRbv4W5rIC8wNroFytZyIRYzYA4VqbXunZ2g3sHXMZ09LyBgwY9I9R2Qs7kB7YpM2taHiZ98lTvjS1PXw33hBaxc8Kg+8C0=
+8oga80c2a8dhpm2a414qmts6n4ija4j4.events.	3600	in	nsec3	1 1 0 73 8PFN04CQ6H5JU0EBI94U4UP19ESORF41 NS DS RRSIG
+8oga80c2a8dhpm2a414qmts6n4ija4j4.events.	3600	in	rrsig	NSEC3 8 2 3600 20251002122306 20250911112306 24630 events. ls/IRlcwzyMR0YOIXgqw4EIhkQJqDzpiMzHG/hx+8QvIX9/hHLDQhM+VwxmrXbjFSA6f2jtfq1HFFbRNuXfUijlWpvB5+O4LAoTFAzP2IsdI0nYQczRZAJdy0w09lj1LHbeAKq5S2DeMpJC7f5/DDACnJ0FsM9jvonRJBXtmzl8=
 8pfn04cq6h5ju0ebi94u4up19esorf41.events.	3600	in	nsec3	1 1 0 73 8Q2ADOAA6EABD0DELNSDGGBQ1TGJFIIK NS DS RRSIG
 8pfn04cq6h5ju0ebi94u4up19esorf41.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. lSWc5KiEUFZ6hqALkj+43dF1yo0nKoVOtEQyHTdIeQKNuVS5tkO1ACkQyzHY3Otzi2E98cVEAyafWJwDOXJZ9K1wObpoGMUdTQfiF4zguuReKakrpXOc9aqRfCD2z5AbSo+1XtvPu76l3o3wnOxrNM4bhqWQ0z/N85cacJxjp+Y=
 8q2adoaa6eabd0delnsdggbq1tgjfiik.events.	3600	in	nsec3	1 1 0 73 8R6UTHCN60BDQ218UQ3O1HSRGGKOJNVG NS DS RRSIG
@@ -2797,8 +2791,6 @@ aardling.events.	3600	in	ds	12209 13 1 C9691A939254B7922C6A163EE805DFB30A327A13
 aardling.events.	3600	in	ns	ns3.combell.net.
 aardling.events.	3600	in	ns	ns4.combell.net.
 aardling.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. o1q84IXww4t38XJU0ueC5Hh6OmlOlEK9b19qCpSBldaebz16UQ5J7ssdJFVHJtP1MOIkOOMR1javODQe8d6nS9gqP3lxeEZUH4iRPRoFhoWf0IXrOsWSGfHi8W2t7hfezZ0yAmr24ShkCRTfW7/STon3IgoZ+Af1r/Rr3CrRePU=
-aarete.events.	3600	in	ns	ns03.domaincontrol.com.
-aarete.events.	3600	in	ns	ns04.domaincontrol.com.
 aarhus.events.	3600	in	ns	ns1.dns-redirect.com.
 aarhus.events.	3600	in	ns	ns2.dns-redirect.com.
 aaronlewis.events.	3600	in	ns	dns1.registrar-servers.com.
@@ -3584,8 +3576,8 @@ adon.events.	3600	in	ns	ns3.inleed.net.
 adon.events.	3600	in	ns	ns4.inleed.net.
 adon.events.	3600	in	ns	ns5.inleed.net.
 adon.events.	3600	in	ns	ns6.inleed.net.
-adoption.events.	3600	in	ns	ns1.bodis.com.
-adoption.events.	3600	in	ns	ns2.bodis.com.
+adoption.events.	3600	in	ns	ns1.dns-redirect.com.
+adoption.events.	3600	in	ns	ns2.dns-redirect.com.
 adora.events.	3600	in	ns	ns-cloud-c1.googledomains.com.
 adora.events.	3600	in	ns	ns-cloud-c2.googledomains.com.
 adora.events.	3600	in	ns	ns-cloud-c3.googledomains.com.
@@ -4220,8 +4212,8 @@ agroup.events.	3600	in	ds	42564 13 2 7C8A563B28562B6F61A46DACDED9FDE16C2DA237406
 agroup.events.	3600	in	ns	ns41.infomaniak.com.
 agroup.events.	3600	in	ns	ns42.infomaniak.com.
 agroup.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. c3/rf9ijQ5cYF0bD8CKSMgNz/KKpevnuaatLxoEhI1G37nCkLpdb0rClcAVyQrRmh5Hu+fO19wgddRvd7M6Uk0rHkY/3mWerbvtK/l8HrVUxM/JZeqW6UaFSvkCzOv4fbuLQzYfNSPh6ISVg+9xV3cgoCHNZglXN4CTfLamjXoE=
-ags.events.	3600	in	ns	ns1.bodis.com.
-ags.events.	3600	in	ns	ns2.bodis.com.
+ags.events.	3600	in	ns	ns1.dns-redirect.com.
+ags.events.	3600	in	ns	ns2.dns-redirect.com.
 ags9t4cpp8rsf0fv0m7f05vlbllp48j1.events.	3600	in	nsec3	1 1 0 73 AHI2GC74DMS7LPQ73JTG5VPHGV1RKS5F NS DS RRSIG
 ags9t4cpp8rsf0fv0m7f05vlbllp48j1.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. aLwQbJJsWjwcq9pWJs8f9kHkYv7nDeeAJYWaiR2eMeOnCnlp6Lk44/AxVMjdGhj3gBehNNnyCJPIjcQkAaDiWN0zDP048ayBpaApUf/cIIl/4myrIYwLt8rP3kttQra5P6/FxkDjSGd/4bVv7ehfb9XbSzaxWmWzu04ktMPU6ew=
 agstartechnoledge.events.	3600	in	ns	ns33.domaincontrol.com.
@@ -6195,8 +6187,6 @@ ano5ffb289laoim5gkvk8ovk1bm4gcmh.events.	3600	in	nsec3	1 1 0 73 AO0LKFNJK6AM4JCC
 ano5ffb289laoim5gkvk8ovk1bm4gcmh.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. jrqCkwgsdCBQz9mEz5nxcytQ+I3u3uqVW5ROho1HGTCfqr1VxWPRVWsNHMHrRqIH9oYT4OPN97t/MQ7Wqh2C0nFW80MzqGWvp1967+8vPP0gmMjbbVbPt+OsrkgDq54VKU1pQhmMOG0FNfMZmNGZu9SjoOgUgGe4ozc8xSq9O+k=
 anomaly.events.	3600	in	ns	ns35.domaincontrol.com.
 anomaly.events.	3600	in	ns	ns36.domaincontrol.com.
-anonymous.events.	3600	in	ns	ns1-expired.sav.com.
-anonymous.events.	3600	in	ns	ns2-expired.sav.com.
 another.events.	3600	in	ds	36251 8 2 57F164495C22CCB188ACE0D5692EDFC55F71A3628F630A4CE97B033A1955D9E2
 another.events.	3600	in	ns	dns19.ovh.net.
 another.events.	3600	in	ns	ns19.ovh.net.
@@ -6492,8 +6482,6 @@ apelab.events.	3600	in	ns	ns2-06.azure-dns.net.
 apelab.events.	3600	in	ns	ns3-06.azure-dns.org.
 apelab.events.	3600	in	ns	ns4-06.azure-dns.info.
 apelab.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. 05HFY/FgJEIb0Q4daguXGpzDD/WMrpc4AOb8bG/Gw7vhgLSPfGpkw8tUlpWQLfzMP9/CkUYc46wWRjhqC41GAMQOXXskXOKZPWJXsfiY54YYTqHNkATYAxtjIfz4uem4OFrJt/cNxQ6AO2l1tqQwU6nO4e89hrqEJO82hZJyp1g=
-aperatif.events.	3600	in	ns	dns101.registrar-servers.com.
-aperatif.events.	3600	in	ns	dns102.registrar-servers.com.
 apero.events.	3600	in	ns	ns.udag.de.
 apero.events.	3600	in	ns	ns.udag.net.
 apero.events.	3600	in	ns	ns.udag.org.
@@ -7264,8 +7252,8 @@ artificer.events.	3600	in	ns	dns1.registrar-servers.com.
 artificer.events.	3600	in	ns	dns2.registrar-servers.com.
 artificial-intelligence.events.	3600	in	ns	dns1.registrar-servers.com.
 artificial-intelligence.events.	3600	in	ns	dns2.registrar-servers.com.
-artificial.events.	3600	in	ns	ns1.bodis.com.
-artificial.events.	3600	in	ns	ns2.bodis.com.
+artificial.events.	3600	in	ns	ns1.dns-redirect.com.
+artificial.events.	3600	in	ns	ns2.dns-redirect.com.
 artificialintelligenc.events.	3600	in	ns	curitiba.ns.porkbun.com.
 artificialintelligenc.events.	3600	in	ns	fortaleza.ns.porkbun.com.
 artificialintelligenc.events.	3600	in	ns	maceio.ns.porkbun.com.
@@ -8332,8 +8320,8 @@ autopro.events.	3600	in	ns	dns1.cscdns.net.
 autopro.events.	3600	in	ns	dns2.cscdns.net.
 autorent.events.	3600	in	ns	ns1.yandexcloud.net.
 autorent.events.	3600	in	ns	ns2.yandexcloud.net.
-autoshow.events.	3600	in	ns	ns1.afternic.com.
-autoshow.events.	3600	in	ns	ns2.afternic.com.
+autoshow.events.	3600	in	ns	ns1.dyna-ns.net.
+autoshow.events.	3600	in	ns	ns2.dyna-ns.net.
 autosport.events.	3600	in	ns	ns1.dreamhost.com.
 autosport.events.	3600	in	ns	ns2.dreamhost.com.
 autosport.events.	3600	in	ns	ns3.dreamhost.com.
@@ -8532,10 +8520,6 @@ avigan.events.	3600	in	ns	ns5.kasserver.com.
 avigan.events.	3600	in	ns	ns6.kasserver.com.
 avila.events.	3600	in	ns	docks08.rzone.de.
 avila.events.	3600	in	ns	shades16.rzone.de.
-avilaweddings.events.	3600	in	ns	ns1019.ui-dns.com.
-avilaweddings.events.	3600	in	ns	ns1041.ui-dns.org.
-avilaweddings.events.	3600	in	ns	ns1044.ui-dns.biz.
-avilaweddings.events.	3600	in	ns	ns1088.ui-dns.de.
 avinit.events.	3600	in	ds	55199 8 2 853E20ED5C4352DA91B21F122CADF9D777A5E35C7EDFA4C7FA1EA1E908CE5AF1
 avinit.events.	3600	in	ns	dns103.ovh.net.
 avinit.events.	3600	in	ns	ns103.ovh.net.
@@ -9130,6 +9114,8 @@ baguet.events.	3600	in	ns	ns1.combell.eu.
 baguet.events.	3600	in	ns	ns3.combell.net.
 baguet.events.	3600	in	ns	ns4.combell.net.
 baguet.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. leTg9TV7zrVY0Dyn2l1xh3GDStygK1ow1QIuNbrMfkaLewQBl5sIK1yPzyCncZeQtaNT+B6IxajR/q9YVFn+VOairC/FNtnN32PMckEz1ZJY+n3Ov6qB6QENBFehmqEuIEVBemLv+iXCzKP9O4jMv5JKg2yh+wCFamT0vhwff84=
+baha.events.	3600	in	ns	ns1.dns-redirect.com.
+baha.events.	3600	in	ns	ns2.dns-redirect.com.
 bahai.events.	3600	in	ns	dns1.name-services.com.
 bahai.events.	3600	in	ns	dns2.name-services.com.
 bahai.events.	3600	in	ns	dns3.name-services.com.
@@ -10012,6 +9998,8 @@ beaute.events.	3600	in	ns	ns1.syd5.hostyourservices.net.
 beaute.events.	3600	in	ns	ns2.syd5.hostyourservices.net.
 beautiful.events.	3600	in	ns	ns1.afternic.com.
 beautiful.events.	3600	in	ns	ns2.afternic.com.
+beautifulbeginnings.events.	3600	in	ns	ns1.renewyourname.net.
+beautifulbeginnings.events.	3600	in	ns	ns2.renewyourname.net.
 beautifuldesign.events.	3600	in	ns	ns73.domaincontrol.com.
 beautifuldesign.events.	3600	in	ns	ns74.domaincontrol.com.
 beauty-art.events.	3600	in	ns	dns19.ovh.net.
@@ -10110,8 +10098,10 @@ beehappy.events.	3600	in	ns	dns1.registrar-servers.com.
 beehappy.events.	3600	in	ns	dns2.registrar-servers.com.
 beehive.events.	3600	in	ns	ns63.domaincontrol.com.
 beehive.events.	3600	in	ns	ns64.domaincontrol.com.
-beekeeping.events.	3600	in	ns	ns1.uk63.siteground.eu.
-beekeeping.events.	3600	in	ns	ns2.uk63.siteground.eu.
+beekeeping.events.	3600	in	ns	ns1dhl.name.com.
+beekeeping.events.	3600	in	ns	ns2dqx.name.com.
+beekeeping.events.	3600	in	ns	ns3gmv.name.com.
+beekeeping.events.	3600	in	ns	ns4gvx.name.com.
 beeline.events.	3600	in	ns	ns1.wordpress.com.
 beeline.events.	3600	in	ns	ns2.wordpress.com.
 beeline.events.	3600	in	ns	ns3.wordpress.com.
@@ -11429,10 +11419,6 @@ bisbee.events.	3600	in	ds	2371 13 2 790AA00E1A794511256B9DE12DEF55444273444ABC9E
 bisbee.events.	3600	in	ns	fiona.ns.cloudflare.com.
 bisbee.events.	3600	in	ns	wesley.ns.cloudflare.com.
 bisbee.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. LmogY0XPSoDPMaUO7I+8yfqEmMaKT6slBPfleFaFJ248sdkQtXsZDjNgJyr/MJzYrDnp1Cuv7riw5/CuuHVTH8TS/uZZyZvyVv/2YAiutoVc1mrbqCF0J1eYnL+08KEI0jXkXw49s2pOoRXo/co4r+SFdCg/RA2W/qkwKu9amYU=
-bisboccia.events.	3600	in	ds	29527 8 2 93356DCECBEC062885775F45537A3999AC9460A571C1A388E713D8E5C8C1ED62
-bisboccia.events.	3600	in	ns	dns20.ovh.net.
-bisboccia.events.	3600	in	ns	ns20.ovh.net.
-bisboccia.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. ol0WCBTnGnLULg1Oqp7J+8fxnwA6SE1EmIFX3Hhdo4gQyg6P3ucAaVzbsxCRWNBHY6fP3w+AsdUFAJgUlin85g13eS8u2dx5GiYsUjcmZidh9wunCfe6Uk7tv848bQXPyRzHXzfQngTZFsFzr5FeaiTfYAnzng/hYgA10ZfC178=
 bischof.events.	3600	in	ns	ns4.wixdns.net.
 bischof.events.	3600	in	ns	ns5.wixdns.net.
 bischoff.events.	3600	in	ds	39757 8 2 F1D027A54C86FC772F5FBE13CBB016F73E2A6D03ADA2BD903F64DBF0744230E8
@@ -12087,6 +12073,10 @@ bluefoundry.events.	3600	in	ns	ns6.wixdns.net.
 bluefoundry.events.	3600	in	ns	ns7.wixdns.net.
 bluehat.events.	3600	in	ns	ns03.domaincontrol.com.
 bluehat.events.	3600	in	ns	ns04.domaincontrol.com.
+blueheaven.events.	3600	in	ns	ns35.parkns.com.
+blueheaven.events.	3600	in	ns	ns36.parkns.com.
+blueheaven.events.	3600	in	ns	ns37.parkns.com.
+blueheaven.events.	3600	in	ns	ns38.parkns.com.
 bluehills.events.	3600	in	ns	ds.tbros.net.
 bluehills.events.	3600	in	ns	ns.xgoth.com.
 bluehills.events.	3600	in	ns	ns1.xgoth.com.
@@ -12252,8 +12242,8 @@ bmail.events.	3600	in	ns	dns5.rr.com.
 bmail.events.	3600	in	ns	dns6.rr.com.
 bmckipbv3iimo33rqbf9n8oc37om2tp0.events.	3600	in	nsec3	1 1 0 73 BME0I2UEN6CRI92IS8CBK8P8E6H6H99G NS DS RRSIG
 bmckipbv3iimo33rqbf9n8oc37om2tp0.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. zuAW4984tanLtIktU4qHAq22o8wSdlkmYWCKMRpLT6QAouR/xjcgLt2ru706qimC3EA4MMfqEvDkcifQ5pxhHDKuhvQoRJndmr4NJFoIeQmFjF8/+3e25XzH726DxNxpw4zpPEjUrNhduWOdMZcjQRh4ClvsGbM44v8AGeqxVMY=
-bmd.events.	3600	in	ns	ns1.bodis.com.
-bmd.events.	3600	in	ns	ns2.bodis.com.
+bmd.events.	3600	in	ns	ns1.dns-redirect.com.
+bmd.events.	3600	in	ns	ns2.dns-redirect.com.
 bme.events.	3600	in	ns	ns13.domaincontrol.com.
 bme.events.	3600	in	ns	ns14.domaincontrol.com.
 bme0i2uen6cri92is8cbk8p8e6h6h99g.events.	3600	in	nsec3	1 1 0 73 BMT9T0F6V9V3G2C4GO8ASJGRM43LC840 NS DS RRSIG
@@ -13916,8 +13906,6 @@ budbiz.events.	3600	in	ns	ns65.domaincontrol.com.
 budbiz.events.	3600	in	ns	ns66.domaincontrol.com.
 buddha.events.	3600	in	ns	ns25.domaincontrol.com.
 buddha.events.	3600	in	ns	ns26.domaincontrol.com.
-buddies.events.	3600	in	ns	dns101.registrar-servers.com.
-buddies.events.	3600	in	ns	dns102.registrar-servers.com.
 buddy.events.	3600	in	ns	ns75.domaincontrol.com.
 buddy.events.	3600	in	ns	ns76.domaincontrol.com.
 buddygo.events.	3600	in	ns	ns45.domaincontrol.com.
@@ -14074,8 +14062,8 @@ bunker.events.	3600	in	ds	16448 13 2 5B5841626EB6141516471B67595D1DA100F86D84912
 bunker.events.	3600	in	ns	ns01.one.com.
 bunker.events.	3600	in	ns	ns02.one.com.
 bunker.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. fvaWYThynINPRIIhuYDoAIuSkWK5kzta0acfdmlCwRBjJI3K0uqpKLvpjHm0e6YMMkQQfi31LRAJ8TIeWd/W1GjsZDFq8Ua/D07n+CTy+5V86yDhzSwPLPtB2n+pdbcUXnoIPds0bFcRCFEvhMsSxty8vrkvMxAyYMtYEjbAUPk=
-bunkr.events.	3600	in	ns	ns1.bodis.com.
-bunkr.events.	3600	in	ns	ns2.bodis.com.
+bunkr.events.	3600	in	ns	ns1.dns-redirect.com.
+bunkr.events.	3600	in	ns	ns2.dns-redirect.com.
 bunniesagents.events.	3600	in	ns	dns1.onamae.com.
 bunniesagents.events.	3600	in	ns	dns2.onamae.com.
 bunny.events.	3600	in	ns	ns63.domaincontrol.com.
@@ -14243,8 +14231,8 @@ busybee.events.	3600	in	ns	ns-cloud-a3.googledomains.com.
 busybee.events.	3600	in	ns	ns-cloud-a4.googledomains.com.
 busybees.events.	3600	in	ns	ns1.namecity.com.
 busybees.events.	3600	in	ns	ns2.namecity.com.
-buterin.events.	3600	in	ns	ken.ns.cloudflare.com.
-buterin.events.	3600	in	ns	rafe.ns.cloudflare.com.
+buterin.events.	3600	in	ns	dnsproxy1.fm.nic.ru.
+buterin.events.	3600	in	ns	dnsproxy2.fm.nic.ru.
 butler.events.	3600	in	ns	ns71.domaincontrol.com.
 butler.events.	3600	in	ns	ns72.domaincontrol.com.
 butlerhailey.events.	3600	in	ds	11947 8 2 A6D2F87BB5ACCD2F92B3B239EE713ADDA27FBB476BDC8295B7A767DBD937CAC6
@@ -14394,6 +14382,12 @@ byob.events.	3600	in	ns	ns16.domaincontrol.com.
 byoc.events.	3600	in	ns	ns1.wordpress.com.
 byoc.events.	3600	in	ns	ns2.wordpress.com.
 byoc.events.	3600	in	ns	ns3.wordpress.com.
+byod.events.	3600	in	ds	42350 8 2 BA1E16831E0A4AA625ED7C51990BCFACD36B56FF439B175EAC8A092717419AE8
+byod.events.	3600	in	ns	ns-cloud-c1.googledomains.com.
+byod.events.	3600	in	ns	ns-cloud-c2.googledomains.com.
+byod.events.	3600	in	ns	ns-cloud-c3.googledomains.com.
+byod.events.	3600	in	ns	ns-cloud-c4.googledomains.com.
+byod.events.	3600	in	rrsig	DS 8 2 3600 20251002212205 20250911202205 24630 events. AX1TOHsDZM0yBmIN6yQLe/sBh3ry14U3Qxdwjn86mHi1ClZHXSs+rPEOzBjSSP+/7YuO149GQEHrfeosSgXIiCBRI2JtOVcuEAVOfA4LenQiVzb77MPmJHUoNX7Md7Efwq1G9j/y8/4sd1zrBlJJWuDywh+S6bo5eq1N7iD3Krs=
 bypass.events.	3600	in	ns	dns1.p02.nsone.net.
 bypass.events.	3600	in	ns	dns2.p02.nsone.net.
 bypass.events.	3600	in	ns	dns3.p02.nsone.net.
@@ -15161,8 +15155,8 @@ capsule.events.	3600	in	ns	ns-cloud-b4.googledomains.com.
 capsule.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. rSgFe6nhofb1x5FGcwhZgckbnvSZ6mIQhf2Zs4fVlaHqErp2OeI1WhXvMSYUpkPhAFBb4NvhPp3kdzJhbMruCkw50KxfxVS2k3ty5rEzrtQK5mqvvnhki/Ztt6gPR6LAa8SJCIR2h9CEOld1L4Oikj3sa93F3H3fmge495Nqsz0=
 captag.events.	3600	in	ns	brett.ns.cloudflare.com.
 captag.events.	3600	in	ns	venus.ns.cloudflare.com.
-captain.events.	3600	in	ns	ns1.bodis.com.
-captain.events.	3600	in	ns	ns2.bodis.com.
+captain.events.	3600	in	ns	ns1.dns-redirect.com.
+captain.events.	3600	in	ns	ns2.dns-redirect.com.
 captainkerry.events.	3600	in	ds	1940 8 2 B2DBBEC9323A0969F2B011488857FE6B0A2CE282FA8DC79AC28A29B1CEA912FC
 captainkerry.events.	3600	in	ns	ns-cloud-d1.googledomains.com.
 captainkerry.events.	3600	in	ns	ns-cloud-d2.googledomains.com.
@@ -15253,8 +15247,8 @@ carclub.events.	3600	in	ns	ns-1457.awsdns-54.org.
 carclub.events.	3600	in	ns	ns-1602.awsdns-08.co.uk.
 carclub.events.	3600	in	ns	ns-380.awsdns-47.com.
 carclub.events.	3600	in	ns	ns-828.awsdns-39.net.
-carcom.events.	3600	in	ns	ns1.bodis.com.
-carcom.events.	3600	in	ns	ns2.bodis.com.
+carcom.events.	3600	in	ns	ns1.dns-redirect.com.
+carcom.events.	3600	in	ns	ns2.dns-redirect.com.
 card.events.	3600	in	ns	ns29.domaincontrol.com.
 card.events.	3600	in	ns	ns30.domaincontrol.com.
 cardano.events.	3600	in	ns	ns1bcp.name.com.
@@ -15643,8 +15637,8 @@ catholic.events.	3600	in	ns	ns-1266.awsdns-30.org.
 catholic.events.	3600	in	ns	ns-1620.awsdns-10.co.uk.
 catholic.events.	3600	in	ns	ns-42.awsdns-05.com.
 catholic.events.	3600	in	ns	ns-867.awsdns-44.net.
-catizenai.events.	3600	in	ns	failed-whois-verification.namecheap.com.
-catizenai.events.	3600	in	ns	verify-contact-details.namecheap.com.
+catizenai.events.	3600	in	ns	dns101.registrar-servers.com.
+catizenai.events.	3600	in	ns	dns102.registrar-servers.com.
 catlady.events.	3600	in	ns	dns1.registrar-servers.com.
 catlady.events.	3600	in	ns	dns2.registrar-servers.com.
 catpro.events.	3600	in	ns	ns-cloud-e1.googledomains.com.
@@ -16368,8 +16362,10 @@ charge.events.	3600	in	ns	ishaan.ns.cloudflare.com.
 charge.events.	3600	in	ns	mona.ns.cloudflare.com.
 charing.events.	3600	in	ns	ns1.register.it.
 charing.events.	3600	in	ns	ns2.register.it.
-charitable.events.	3600	in	ns	ns1.afternic.com.
-charitable.events.	3600	in	ns	ns2.afternic.com.
+charitable.events.	3600	in	ns	ns1.dyna-ns.net.
+charitable.events.	3600	in	ns	ns2.dyna-ns.net.
+charitos.events.	3600	in	ns	ns1.renewyourname.net.
+charitos.events.	3600	in	ns	ns2.renewyourname.net.
 charityauctioneer.events.	3600	in	ns	ns59.domaincontrol.com.
 charityauctioneer.events.	3600	in	ns	ns60.domaincontrol.com.
 charitybooster.events.	3600	in	ns	ns1.uniregistry-dns.com.
@@ -16819,8 +16815,8 @@ chocolatemilk.events.	3600	in	ns	ns65.domaincontrol.com.
 chocolatemilk.events.	3600	in	ns	ns66.domaincontrol.com.
 chogan.events.	3600	in	ns	maleah.ns.cloudflare.com.
 chogan.events.	3600	in	ns	rocky.ns.cloudflare.com.
-choir.events.	3600	in	ns	ns.microlite1.com.
-choir.events.	3600	in	ns	ns2.microlite1.com.
+choir.events.	3600	in	ns	ns1.cloudhosting.uk.
+choir.events.	3600	in	ns	ns2.cloudhosting.uk.
 chok.events.	3600	in	ns	ns31.domaincontrol.com.
 chok.events.	3600	in	ns	ns32.domaincontrol.com.
 cholti.events.	3600	in	ns	dns1.registrar-servers.com.
@@ -17947,8 +17943,6 @@ cobusvisser.events.	3600	in	ns	ns1055.ui-dns.biz.
 cobusvisser.events.	3600	in	ns	ns1079.ui-dns.de.
 cobusvisser.events.	3600	in	ns	ns1091.ui-dns.com.
 cobusvisser.events.	3600	in	ns	ns1091.ui-dns.org.
-coc.events.	3600	in	ns	ns1.afternic.com.
-coc.events.	3600	in	ns	ns2.afternic.com.
 coca.events.	3600	in	ns	dns1.registrar-servers.com.
 coca.events.	3600	in	ns	dns2.registrar-servers.com.
 coceptual.events.	3600	in	ns	ns67.domaincontrol.com.
@@ -18431,10 +18425,6 @@ commonpeople.events.	3600	in	ds	16431 13 2 2CD2B8695570894659851E10F5042C047ADD4
 commonpeople.events.	3600	in	ns	ns01.one.com.
 commonpeople.events.	3600	in	ns	ns02.one.com.
 commonpeople.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. ngQig7IonpvYvaRxGE7XGY/byLuFGAOb4iXt5KjgnhSL7JA4uDBd39hS46PZLcdyfRMeNGlUWggBg4JgBN8jSnW68tL9/ve6+nDv5KjTf5V/CT8UsaKVu8z6HQE9DtUKu+vYmMV1y5eZVzOpiQxmZmRkTe9LaT6YIbqQEnXeWHA=
-commonpower.events.	3600	in	ns	ns-cloud-d1.googledomains.com.
-commonpower.events.	3600	in	ns	ns-cloud-d2.googledomains.com.
-commonpower.events.	3600	in	ns	ns-cloud-d3.googledomains.com.
-commonpower.events.	3600	in	ns	ns-cloud-d4.googledomains.com.
 commonsense.events.	3600	in	ns	brynne.ns.cloudflare.com.
 commonsense.events.	3600	in	ns	mike.ns.cloudflare.com.
 commonspirit.events.	3600	in	ns	ns-1079.awsdns-06.org.
@@ -18956,8 +18946,6 @@ contatto.events.	3600	in	ns	dns3.arubadns.net.
 contatto.events.	3600	in	ns	dns4.arubadns.cz.
 content.events.	3600	in	ns	ns1.dns-redirect.com.
 content.events.	3600	in	ns	ns2.dns-redirect.com.
-contentcon.events.	3600	in	ns	ns27.domaincontrol.com.
-contentcon.events.	3600	in	ns	ns28.domaincontrol.com.
 contentux.events.	3600	in	ns	dns1.registrar-servers.com.
 contentux.events.	3600	in	ns	dns2.registrar-servers.com.
 contessaandco.events.	3600	in	ns	ns37.domaincontrol.com.
@@ -21401,8 +21389,8 @@ data-energy.events.	3600	in	ns	ns2.livedns.co.uk.
 data-energy.events.	3600	in	ns	ns3.livedns.co.uk.
 data.events.	3600	in	ns	ns75.domaincontrol.com.
 data.events.	3600	in	ns	ns76.domaincontrol.com.
-database.events.	3600	in	ns	ns1.bodis.com.
-database.events.	3600	in	ns	ns2.bodis.com.
+database.events.	3600	in	ns	ns1.dns-redirect.com.
+database.events.	3600	in	ns	ns2.dns-redirect.com.
 databeschikbaarheid.events.	3600	in	ds	40123 13 2 C6833CE2207034893B49E0999BDC4F7B3EF25BAD5CDE1B37E60FDF66357E8D3A
 databeschikbaarheid.events.	3600	in	ns	ns0.transip.net.
 databeschikbaarheid.events.	3600	in	ns	ns1.transip.nl.
@@ -21713,6 +21701,8 @@ dbt.events.	3600	in	ns	ns4.markmonitor.com.
 dbt.events.	3600	in	ns	ns5.markmonitor.com.
 dbt.events.	3600	in	ns	ns6.markmonitor.com.
 dbt.events.	3600	in	ns	ns7.markmonitor.com.
+dbx.events.	3600	in	ns	ns1.dns-parking.com.
+dbx.events.	3600	in	ns	ns2.dns-parking.com.
 dc.events.	3600	in	ns	ns1.digitalocean.com.
 dc.events.	3600	in	ns	ns2.digitalocean.com.
 dc.events.	3600	in	ns	ns3.digitalocean.com.
@@ -22780,8 +22770,8 @@ diaper.events.	3600	in	ns	ns1.sedoparking.com.
 diaper.events.	3600	in	ns	ns2.sedoparking.com.
 diary.events.	3600	in	ns	dns1.registrar-servers.com.
 diary.events.	3600	in	ns	dns2.registrar-servers.com.
-diaspora.events.	3600	in	ns	ns1.bodis.com.
-diaspora.events.	3600	in	ns	ns2.bodis.com.
+diaspora.events.	3600	in	ns	ns1.dns-redirect.com.
+diaspora.events.	3600	in	ns	ns2.dns-redirect.com.
 diasporagov.events.	3600	in	ns	ns1.hayhost.net.
 diasporagov.events.	3600	in	ns	ns2.hayhost.net.
 dibsy.events.	3600	in	ns	dns1.registrar-servers.com.
@@ -24296,8 +24286,8 @@ dreamentertainment.events.	3600	in	ns	ns0.wixdns.net.
 dreamentertainment.events.	3600	in	ns	ns1.wixdns.net.
 dreamfactory.events.	3600	in	ns	ns5.kasserver.com.
 dreamfactory.events.	3600	in	ns	ns6.kasserver.com.
-dreamforce.events.	3600	in	ns	dns1.registrar-servers.com.
-dreamforce.events.	3600	in	ns	dns2.registrar-servers.com.
+dreamforce.events.	3600	in	ns	pdns1.registrar-servers.com.
+dreamforce.events.	3600	in	ns	pdns2.registrar-servers.com.
 dreamhaus.events.	3600	in	ns	ns.udag.de.
 dreamhaus.events.	3600	in	ns	ns.udag.net.
 dreamhaus.events.	3600	in	ns	ns.udag.org.
@@ -26353,9 +26343,9 @@ ellzian.events.	3600	in	ns	dns101.registrar-servers.com.
 ellzian.events.	3600	in	ns	dns102.registrar-servers.com.
 elm.events.	3600	in	ns	dns01.manitu.net.
 elm.events.	3600	in	ns	dns02.manitu.net.
-elmolino.events.	3600	in	ns	ns1.losdns.net.
-elmolino.events.	3600	in	ns	ns2.losdns.net.
-elmolino.events.	3600	in	ns	ns3.losdns.net.
+elmolino.events.	3600	in	ns	ns1.serviciodns.es.
+elmolino.events.	3600	in	ns	ns2.serviciodns.es.
+elmolino.events.	3600	in	ns	ns3.serviciodns.es.
 eln.events.	3600	in	ns	ns1034.ui-dns.de.
 eln.events.	3600	in	ns	ns1035.ui-dns.biz.
 eln.events.	3600	in	ns	ns1043.ui-dns.com.
@@ -27821,8 +27811,6 @@ esse.events.	3600	in	ns	ns24.inhostedns.net.
 esse.events.	3600	in	ns	ns34.inhostedns.org.
 essence.events.	3600	in	ns	junade.ns.cloudflare.com.
 essence.events.	3600	in	ns	serena.ns.cloudflare.com.
-essenceofdance.events.	3600	in	ns	docks14.rzone.de.
-essenceofdance.events.	3600	in	ns	shades14.rzone.de.
 essensedesigns.events.	3600	in	ns	ns73.domaincontrol.com.
 essensedesigns.events.	3600	in	ns	ns74.domaincontrol.com.
 essential.events.	3600	in	ns	dns101.registrar-servers.com.
@@ -28612,7 +28600,7 @@ events.	3600	in	nsec3param	1 0 0 73
 events.	3600	in	rrsig	DNSKEY 8 1 3600 20250930153907 20250909143907 12487 events. pmFaqZ9hPg5b2ikC5lAGqL93lN/3XkWYydCzmse/HKmunjYjsfBp1nrbjHmgVA/kLsRxVtiAS+lgq63Nnz+JDR6rEulk8RjZXwHeTHU5QBtroy4anh7LoEjlY4mU+4Bg41CltkzoZv0ImKkVPCwP6QCXJSZ3JH5kmWHPK+P05bP8nEHqhXo3IKcLtzmRLDh+yvEt95j/pa1cIlicsTXiijLIn9UtZAvyKEXyrvaSfmjhvaJA9LuQJSyyKzSnQqUuZQ4jCrvPk+58rlIysnvuGPD9p2E5sUQQgb8wpBPNs/FU1YL8CjtX7l9PzKi2PibuR22QIOL4Lp66QZq8uBfw4Q==
 events.	3600	in	rrsig	NS 8 1 3600 20250930153907 20250909143907 24630 events. eRg2L/GFwVbt1u6F6Jop6UW4Pxf+hRISACQrkOt2Q7wbvErkjExlIFbVvMpgD4AxjBBV0xMcgXXfqbugqiECU1eyqTtW5s6AaidE+ZERvZBWXGgTn9jMXlydNafz9YIZ/WdyQIM/BKzmh+UrdJF8VhRfqtzXrlecaay2mjG+WfU=
 events.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930153907 20250909143907 24630 events. ufXGMTxVZ4qYxH3U/Bk1e/6yVfIgX/DJ/ruhu0IvBIHljOyBlhbNXjyqys4oFX8/zCRoWDRV/lFeoFYMeFuW5P+mM1VSqEF4gmEUlR/gUlfwYHCL5g7i2q217Lsyv5HpRgBVVosTX9C9iGV0PBNKIMDPgIxjru0w4Utbvab7Bts=
-events.	3600	in	rrsig	SOA 8 1 3600 20251002010708 20250911000708 24630 events. KaM1qlx6AR3Plo7pH2a/5WTYy+5cZDh0yelr/ssYZ4uU87fEDouPSFckJxCg/yD+8LDRhFfJ4VmV2/YkDYaB4TZeXPnQwNck8kGsaHe9S3uQ0s74XC4/RCT9ZnslMe5OTPdDzn44pznPUI97z7/FSTUQxWPVjU0PBjByswz2Ikg=
+events.	3600	in	rrsig	SOA 8 1 3600 20251003010350 20250912000350 24630 events. UNjA4xrjtAvr4AOPLTwSWtk29xEzROCINyTTyBrMOKfaB8miW1Q2rLLy3S53OEQxHu8h0OfQv8popOcvsW6voTBwer9uU+koRCyOi/664GWUuh1TgPVSrjkhE1YxNBc7KkWCRtt5dDNCZRtAPhesOmCW/efK7MRVlo/Zbk34ha0=
 events.events.	3600	in	ns	ns1.101domain.com.
 events.events.	3600	in	ns	ns2.101domain.com.
 events.events.	3600	in	ns	ns5.101domain.com.
@@ -29624,10 +29612,8 @@ facts.events.	3600	in	ns	ns03.domaincontrol.com.
 facts.events.	3600	in	ns	ns04.domaincontrol.com.
 factualbitcoin.events.	3600	in	ns	donovan.ns.cloudflare.com.
 factualbitcoin.events.	3600	in	ns	dora.ns.cloudflare.com.
-faded.events.	3600	in	ns	ns1.dnsexit.com.
-faded.events.	3600	in	ns	ns2.dnsexit.com.
-faded.events.	3600	in	ns	ns3.dnsexit.com.
-faded.events.	3600	in	ns	ns4.dnsexit.com.
+faded.events.	3600	in	ns	dns101.registrar-servers.com.
+faded.events.	3600	in	ns	dns102.registrar-servers.com.
 fadedfriends.events.	3600	in	ns	ns17.domaincontrol.com.
 fadedfriends.events.	3600	in	ns	ns18.domaincontrol.com.
 fadr.events.	3600	in	ns	dns10.ovh.net.
@@ -31548,8 +31534,8 @@ fluency.events.	3600	in	ns	dns1.registrar-servers.com.
 fluency.events.	3600	in	ns	dns2.registrar-servers.com.
 fluent.events.	3600	in	ns	ns43.domaincontrol.com.
 fluent.events.	3600	in	ns	ns44.domaincontrol.com.
-fluff.events.	3600	in	ns	ns1.bodis.com.
-fluff.events.	3600	in	ns	ns2.bodis.com.
+fluff.events.	3600	in	ns	ns1.dns-redirect.com.
+fluff.events.	3600	in	ns	ns2.dns-redirect.com.
 fluffe.events.	3600	in	ns	adam.ns.cloudflare.com.
 fluffe.events.	3600	in	ns	olga.ns.cloudflare.com.
 fluffy.events.	3600	in	ns	ns31.domaincontrol.com.
@@ -32464,6 +32450,8 @@ freemanemea.events.	3600	in	ns	dns1.cscdns.net.
 freemanemea.events.	3600	in	ns	dns2.cscdns.net.
 freemanuk.events.	3600	in	ns	dns1.cscdns.net.
 freemanuk.events.	3600	in	ns	dns2.cscdns.net.
+freemusic.events.	3600	in	ns	ns1.renewyourname.net.
+freemusic.events.	3600	in	ns	ns2.renewyourname.net.
 freepeople.events.	3600	in	ns	pdns1.ultradns.net.
 freepeople.events.	3600	in	ns	pdns2.ultradns.net.
 freepeople.events.	3600	in	ns	pdns3.ultradns.org.
@@ -35480,8 +35468,8 @@ goldenrod.events.	3600	in	ns	ns39.domaincontrol.com.
 goldenrod.events.	3600	in	ns	ns40.domaincontrol.com.
 goldensamarkand.events.	3600	in	ns	ns1.ahost.cloud.
 goldensamarkand.events.	3600	in	ns	ns2.ahost.cloud.
-goldenstage.events.	3600	in	ns	ns1.bodis.com.
-goldenstage.events.	3600	in	ns	ns2.bodis.com.
+goldenstage.events.	3600	in	ns	ns1.dns-redirect.com.
+goldenstage.events.	3600	in	ns	ns2.dns-redirect.com.
 goldenstatelp.events.	3600	in	ns	ns25.domaincontrol.com.
 goldenstatelp.events.	3600	in	ns	ns26.domaincontrol.com.
 goldensufi.events.	3600	in	ns	ns73.worldnic.com.
@@ -35739,8 +35727,8 @@ goonsite.events.	3600	in	ns	ns-1404.awsdns-47.org.
 goonsite.events.	3600	in	ns	ns-1827.awsdns-36.co.uk.
 goonsite.events.	3600	in	ns	ns-393.awsdns-49.com.
 goonsite.events.	3600	in	ns	ns-583.awsdns-08.net.
-gooo.events.	3600	in	ns	ns1.bodis.com.
-gooo.events.	3600	in	ns	ns2.bodis.com.
+gooo.events.	3600	in	ns	ns1.dns-redirect.com.
+gooo.events.	3600	in	ns	ns2.dns-redirect.com.
 goood.events.	3600	in	ns	ns12.inhostedns.com.
 goood.events.	3600	in	ns	ns22.inhostedns.net.
 goood.events.	3600	in	ns	ns32.inhostedns.org.
@@ -37067,8 +37055,6 @@ gysenberg.events.	3600	in	ns	a.ns14.net.
 gysenberg.events.	3600	in	ns	b.ns14.net.
 gysenberg.events.	3600	in	ns	c.ns14.net.
 gysenberg.events.	3600	in	ns	d.ns14.net.
-gyumri.events.	3600	in	ns	dns101.registrar-servers.com.
-gyumri.events.	3600	in	ns	dns102.registrar-servers.com.
 h-m.events.	3600	in	ns	a1-139.akam.net.
 h-m.events.	3600	in	ns	a11-66.akam.net.
 h-m.events.	3600	in	ns	a12-67.akam.net.
@@ -37815,9 +37801,6 @@ hauntedmafia.events.	3600	in	ns	ns43.domaincontrol.com.
 hauntedmafia.events.	3600	in	ns	ns44.domaincontrol.com.
 haupt.events.	3600	in	ns	docks17.rzone.de.
 haupt.events.	3600	in	ns	shades13.rzone.de.
-hauptstadt.events.	3600	in	ns	root-dns.netcup.net.
-hauptstadt.events.	3600	in	ns	second-dns.netcup.net.
-hauptstadt.events.	3600	in	ns	third-dns.netcup.net.
 haus.events.	3600	in	ds	27619 8 2 3B393FAC656DC2D678133F4B370DB9586B25EDAD3A9BA692D129CFD9863A368E
 haus.events.	3600	in	ns	ns-cloud-e1.googledomains.com.
 haus.events.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -37991,8 +37974,6 @@ hdc.events.	3600	in	ns	ns2.wordpress.com.
 hdc.events.	3600	in	ns	ns3.wordpress.com.
 hdhbppfk6lei0pt7b5rb8vc9d9jto5ld.events.	3600	in	nsec3	1 1 0 73 HDJ2I4NQQ5C5G55B70S3SKLN7DFPNL1I NS DS RRSIG
 hdhbppfk6lei0pt7b5rb8vc9d9jto5ld.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. bUnmpymwRJ1aywWEN2JLq2EHoVNb8rw6EZQ2KWQ6kV6dMoUbl4kuVj9rV7COKMB5lsBaghQQpBleg5GuhRNfPcrLYzP8B1lzTONhPlXHUKcmv9DZk1UPodbOV37EOG6rg38S4K1uiJPyHNg6M0q9oDrst3nfWj8PhkeY8MJpNxA=
-hdhub4u.events.	3600	in	ns	ns1.dns-expired.com.
-hdhub4u.events.	3600	in	ns	ns2.dns-expired.com.
 hdj2i4nqq5c5g55b70s3skln7dfpnl1i.events.	3600	in	nsec3	1 1 0 73 HEHDPTMN8H10E0AU877UT73G2KCCDU97 NS DS RRSIG
 hdj2i4nqq5c5g55b70s3skln7dfpnl1i.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. xe20gBf0yHvsftCJWZrZbtuT0jYHN9agIyQ41+nFz0FpigzkehbSBIi3Xe28Kj/SyCHqSP16UsCzweMHSZrhS+eQM/xdbmAmTRp/7s2dNMqkcNb4/RWB9fkRA0v3akg1qeL8YDnysLJcK4FvnuWipuxPtnU0mZFg9yMY/0mPvWQ=
 hdk.events.	3600	in	ns	bowen.ns.cloudflare.com.
@@ -38895,8 +38876,6 @@ him.events.	3600	in	ns	curitiba.ns.porkbun.com.
 him.events.	3600	in	ns	fortaleza.ns.porkbun.com.
 him.events.	3600	in	ns	maceio.ns.porkbun.com.
 him.events.	3600	in	ns	salvador.ns.porkbun.com.
-himalayanclub.events.	3600	in	ns	ns39.domaincontrol.com.
-himalayanclub.events.	3600	in	ns	ns40.domaincontrol.com.
 himmel.events.	3600	in	ns	dns.iwelt-ag.net.
 himmel.events.	3600	in	ns	dns2.iwelt-ag.net.
 himmel.events.	3600	in	ns	dns3.iwelt-ag.de.
@@ -38950,8 +38929,8 @@ hipsy.events.	3600	in	ns	ns2.transip.eu.
 hipsy.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. iXKisGwkolEOnNa55HwbrPx4F+MTOz2Q9ww5wtUcCWyGghrle5IvBUkQATSLJ0UmzSC8Dimt62GMLUGZ219rDpP7gPW1ASDrdrUFFb2j6gpNkiJ4GFkHlV3JZd1eO4jK6TPcbb9+nzEFaVpDeqWqL06nxmKVejXEZp7h7z/hSYM=
 hire.events.	3600	in	ns	ns39.domaincontrol.com.
 hire.events.	3600	in	ns	ns40.domaincontrol.com.
-hiring.events.	3600	in	ns	ns1.dyna-ns.net.
-hiring.events.	3600	in	ns	ns2.dyna-ns.net.
+hiring.events.	3600	in	ns	ns1.afternic.com.
+hiring.events.	3600	in	ns	ns2.afternic.com.
 hirschhorn.events.	3600	in	ns	ns1.whois.com.
 hirschhorn.events.	3600	in	ns	ns2.whois.com.
 hirschhorn.events.	3600	in	ns	ns3.whois.com.
@@ -39990,12 +39969,14 @@ hq.events.	3600	in	ns	ns3.sprinthost.net.
 hq.events.	3600	in	ns	ns4.sprinthost.net.
 hq20gbcu4ejmthvco0dgs4nmkhs919mk.events.	3600	in	nsec3	1 1 0 73 HQKH0LOILBIC9K568FBDKBE03NLVKIA7 NS DS RRSIG
 hq20gbcu4ejmthvco0dgs4nmkhs919mk.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. VDcclGlBk45QXDTVaqskAhVlDzjcvJSsHfZpds3WWKwGW8w5HKgDJ3MjjUktNAwSbiL2X8XLvYQo82V4iPwkYQj6Kxo2d0Bjpk+apmkdzH1s22Eydi4eeHmzsUsM3wBsjXiq6Xm3zfQ8xjIwpvUExVoflwk1dzmTLaFcartvNek=
-hqkh0loilbic9k568fbdkbe03nlvkia7.events.	3600	in	nsec3	1 1 0 73 HR9B6FERSN5LHVCOSLON8UHV4IR998JN NS DS RRSIG
-hqkh0loilbic9k568fbdkbe03nlvkia7.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. wNSmTrS8zXnwlywFIvZlJWtKcoAu0hbIYAjmGxSB+qJylz8vSdqBurS6aiG3gLyt1oVZrbOk16OXuh948e0ht8hb7GFWL/6e3XYqcgLmORAtacpH/QZ8ehQ5aRzUbY2Oebp0ykw/YALM0bFOt6NOAEHKwatyyCievjdFh/URlZ0=
+hqkh0loilbic9k568fbdkbe03nlvkia7.events.	3600	in	nsec3	1 1 0 73 HQPFNTC6GRNN77N1C078J0H56GO0SSCA NS DS RRSIG
+hqkh0loilbic9k568fbdkbe03nlvkia7.events.	3600	in	rrsig	NSEC3 8 2 3600 20251002085153 20250911075153 24630 events. nDeqNyq2hCthpKahDnEgvfZ749iGfKeWBIWmPNdgHwPaDSiTyl7Qm/iw6j+v8CXiGo8/SXCzfu6z4o16sMIrWNN96rjkT77KCfL8f2CMvUsdfzP+/3h7FT+DXS8VY2U2XNhxNK7NoZTqtEAo4lmY7PSJVxULlgCdj9rj5pwkviE=
 hqloud.events.	3600	in	ds	2371 13 2 66AF06F7B0B3793CD61818077B9C9DB67ADE2F5766E86A0F335019EBB025CF3C
 hqloud.events.	3600	in	ns	leia.ns.cloudflare.com.
 hqloud.events.	3600	in	ns	piers.ns.cloudflare.com.
 hqloud.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. cb19SgBKkdY38R1bJCAycm3IU4AF5rM7KYeW6cpWR7juv7JJKoG2ZfDznlrzNU9A3v8nP6/KFOI2htmlom1cebjsOAO9O7+iUg/Fyv6ukxob5bTQ0wQvI93HTxk4utqHsbKXyPPfR7nEhwoUG/dxtxiGURwUbzxAOwVQjUsxIZY=
+hqpfntc6grnn77n1c078j0h56go0ssca.events.	3600	in	nsec3	1 1 0 73 HR9B6FERSN5LHVCOSLON8UHV4IR998JN NS DS RRSIG
+hqpfntc6grnn77n1c078j0h56go0ssca.events.	3600	in	rrsig	NSEC3 8 2 3600 20251002085153 20250911075153 24630 events. zvku5+6solRZMkjp9BuzcaCZI+U5L/MpYj1PVKTqOcBaCD+GSCvLrptHUrkPILNs+g3tmTW0FX5PUZe0tJKGZGYT+LyL692r3e3lC9aa3lmfZsouy1KfNY93ZkYBXHOzUwx393hIBOAiywfJVi0T6YGM6cSEwAxxvJL+m0Mpwes=
 hr-bubin.events.	3600	in	ns	ns1.reg.ru.
 hr-bubin.events.	3600	in	ns	ns2.reg.ru.
 hr-dagen.events.	3600	in	ns	ns1.wk.se.
@@ -40302,14 +40283,6 @@ hunter.events.	3600	in	ns	ns-de.1and1-dns.biz.
 hunter.events.	3600	in	ns	ns-de.1and1-dns.com.
 hunter.events.	3600	in	ns	ns-de.1and1-dns.de.
 hunter.events.	3600	in	ns	ns-de.1and1-dns.org.
-huntergatherer.events.	3600	in	ns	dns1.p04.nsone.net.
-huntergatherer.events.	3600	in	ns	dns2.p04.nsone.net.
-huntergatherer.events.	3600	in	ns	dns3.p04.nsone.net.
-huntergatherer.events.	3600	in	ns	dns4.p04.nsone.net.
-huntergatherer.events.	3600	in	ns	ns01.squarespacedns.com.
-huntergatherer.events.	3600	in	ns	ns02.squarespacedns.com.
-huntergatherer.events.	3600	in	ns	ns03.squarespacedns.com.
-huntergatherer.events.	3600	in	ns	ns04.squarespacedns.com.
 hunterhub.events.	3600	in	ds	2371 13 2 A5D10A5A903B99D0A621C73E070BC3966BB6B2D775B649D396E9AB0246148880
 hunterhub.events.	3600	in	ns	eva.ns.cloudflare.com.
 hunterhub.events.	3600	in	ns	lars.ns.cloudflare.com.
@@ -42206,8 +42179,8 @@ infrarot.events.	3600	in	ns	ns1062.ui-dns.biz.
 infrarot.events.	3600	in	ns	ns1064.ui-dns.de.
 infrarot.events.	3600	in	ns	ns1095.ui-dns.org.
 infrarot.events.	3600	in	ns	ns1120.ui-dns.com.
-infused.events.	3600	in	ns	ns1.bodis.com.
-infused.events.	3600	in	ns	ns2.bodis.com.
+infused.events.	3600	in	ns	ns1.dns-redirect.com.
+infused.events.	3600	in	ns	ns2.dns-redirect.com.
 infusion.events.	3600	in	ns	ns1.markmonitor.com.
 infusion.events.	3600	in	ns	ns2.markmonitor.com.
 infusion.events.	3600	in	ns	ns3.markmonitor.com.
@@ -43525,8 +43498,6 @@ itic.events.	3600	in	ns	ns01.domaincontrol.com.
 itic.events.	3600	in	ns	ns02.domaincontrol.com.
 iticket.events.	3600	in	ns	nile.ns.cloudflare.com.
 iticket.events.	3600	in	ns	ximena.ns.cloudflare.com.
-itinerary.events.	3600	in	ns	ns1-expired.sav.com.
-itinerary.events.	3600	in	ns	ns2-expired.sav.com.
 itineris.events.	3600	in	ns	ns13.domaincontrol.com.
 itineris.events.	3600	in	ns	ns14.domaincontrol.com.
 itl.events.	3600	in	ns	ns4.itl.no.
@@ -44754,8 +44725,6 @@ josephworley.events.	3600	in	ns	dns2.registrar-servers.com.
 josh.events.	3600	in	ns	dns1.registrar-servers.com.
 josh.events.	3600	in	ns	dns2.registrar-servers.com.
 jothans.dns.events.	3600	in	a	67.23.254.63
-journalism.events.	3600	in	ns	ns1-expired.sav.com.
-journalism.events.	3600	in	ns	ns2-expired.sav.com.
 journey.events.	3600	in	ns	iris.ns.cloudflare.com.
 journey.events.	3600	in	ns	tim.ns.cloudflare.com.
 jovie.events.	3600	in	ns	ns1.dns-parking.com.
@@ -44840,6 +44809,9 @@ json.events.	3600	in	ns	ns77.domaincontrol.com.
 json.events.	3600	in	ns	ns78.domaincontrol.com.
 jsp.events.	3600	in	ns	dante.ns.cloudflare.com.
 jsp.events.	3600	in	ns	susan.ns.cloudflare.com.
+jspc.events.	3600	in	ns	ns1.dnsowl.com.
+jspc.events.	3600	in	ns	ns2.dnsowl.com.
+jspc.events.	3600	in	ns	ns3.dnsowl.com.
 jt379htumgl662ten1nohcvckb8uqinl.events.	3600	in	nsec3	1 1 0 73 JT3QAIAD4PJ8VN3TSNO6AK46OTS9CPB3 NS DS RRSIG
 jt379htumgl662ten1nohcvckb8uqinl.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. f+ivGKCIKkyqREqCrHraPhbzHQAt/uZZPkTn6hb6/+YBD9OCWMPc2zBp4W8A4j45isqfNDPZokxFcmF9OPMXY3flSbVoyIzY3LoH3pV0wNWNhXv9yfgm5H/aYZYtrCJEP/zacfjgtlh5ehq+JQkVx3QfcmZj+BRHZcUPvfJtgdI=
 jt3qaiad4pj8vn3tsno6ak46ots9cpb3.events.	3600	in	nsec3	1 1 0 73 JTH4C8DB2U2UG99FN5JCO0FS1H7KV0NU NS DS RRSIG
@@ -44923,8 +44895,8 @@ jules.events.	3600	in	ns	ns01.agenturserver.de.
 jules.events.	3600	in	ns	ns01.agenturserver.it.
 julia.events.	3600	in	ns	ns37.domaincontrol.com.
 julia.events.	3600	in	ns	ns38.domaincontrol.com.
-julian.events.	3600	in	ns	ns1.bodis.com.
-julian.events.	3600	in	ns	ns2.bodis.com.
+julian.events.	3600	in	ns	ns1.dns-redirect.com.
+julian.events.	3600	in	ns	ns2.dns-redirect.com.
 julianjenkins.events.	3600	in	ns	ns-cloud-a1.googledomains.com.
 julianjenkins.events.	3600	in	ns	ns-cloud-a2.googledomains.com.
 julianjenkins.events.	3600	in	ns	ns-cloud-a3.googledomains.com.
@@ -45112,8 +45084,10 @@ juwelier-wagner.events.	3600	in	ns	ns.udag.net.
 juwelier-wagner.events.	3600	in	ns	ns.udag.org.
 juwelis.events.	3600	in	ns	dns1.registrar-servers.com.
 juwelis.events.	3600	in	ns	dns2.registrar-servers.com.
-jv35me300qnvt3nfnktesnbmm7lmlbpn.events.	3600	in	nsec3	1 1 0 73 K01FBNKEVNUD82L34OHA1VR92MA6UF81 NS DS RRSIG
-jv35me300qnvt3nfnktesnbmm7lmlbpn.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. Ezx5z0ZwfdaGEp5GUKX15HHin3etZyiLkn1KcQjEeKUFDXPF86r8rKSN+8Itn3vNATpdAoRzdSNK1c99cSx7WEIvOxDvGZVv6NM96xi2CBD2Si9HtsZULkVcgXMjJbEcbBWgMTzdpRSSHMVfPlpD3N5HGmK0J6ICIX1nyYmfcBM=
+jv35me300qnvt3nfnktesnbmm7lmlbpn.events.	3600	in	nsec3	1 1 0 73 JV66TBACTLDAMR9QVJBL3OQQJJRFBNU1 NS DS RRSIG
+jv35me300qnvt3nfnktesnbmm7lmlbpn.events.	3600	in	rrsig	NSEC3 8 2 3600 20251002164709 20250911154709 24630 events. KDWFA5MfGucEaWVRHkbw6LDzFprabP0xYqy90BkjBEpUOLYVyL6bC9r4UwxZ3InuqhI6z4sLfBaVQoWJ7mjrtP/CJkOcBL8jGa0ZS50NaiStNNvqPXSAlxgvvWibG3ZMbRzGnwWDYXscTVUUeMA6seolJjyWDR5VqF4vE5jIPJY=
+jv66tbactldamr9qvjbl3oqqjjrfbnu1.events.	3600	in	nsec3	1 1 0 73 K01FBNKEVNUD82L34OHA1VR92MA6UF81 NS DS RRSIG
+jv66tbactldamr9qvjbl3oqqjjrfbnu1.events.	3600	in	rrsig	NSEC3 8 2 3600 20251002164709 20250911154709 24630 events. zDomQb0EOJYZj2QF192gHybfF4WBnjg3Au8xaGUcr4Hpidj7wRsc+R5671rh3RQuWgL6TVFbZuOENCJ6SWYs6pwD8Ji+WJk2d0ACRxyhzHbtM+frn+60E+1qxxIMaP87Ua3SuBSmuXLl+VNW0Tm2wjg47tpGcwO51Qq1c7anFg4=
 jvdluxe.events.	3600	in	ns	ns1051.ui-dns.com.
 jvdluxe.events.	3600	in	ns	ns1063.ui-dns.org.
 jvdluxe.events.	3600	in	ns	ns1097.ui-dns.de.
@@ -45382,10 +45356,8 @@ kalieber.events.	3600	in	ns	ns.udag.net.
 kalieber.events.	3600	in	ns	ns.udag.org.
 kalina.events.	3600	in	ns	ns65.domaincontrol.com.
 kalina.events.	3600	in	ns	ns66.domaincontrol.com.
-kalliste.events.	3600	in	ds	37325 13 2 AE9D6B82BC60D9DE7AFC9D6E18DCB18C6B8D8D923F127B13B0B2000AA9346002
-kalliste.events.	3600	in	ns	dns1.swizzonic.ch.
-kalliste.events.	3600	in	ns	dns2.swizzonic.ch.
-kalliste.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. PNFoZvz6BiVD9Bo4bGiuD/XiPpSip5YKhbajVVHDvsJ9q26QkkOJ4QbKx9EYIDljZjlxTb3wCb0ETJQESQO2tgJBb77aiAgS+mWA/yzXSBdKN1a9OFEMReiIfuc9spnFjw0I8IUJ1bsa815oCzotLNlq9k8Mfewi2V5E6qCIytg=
+kalliste.events.	3600	in	ns	dns1.p09.nsone.net.
+kalliste.events.	3600	in	ns	dns2.p09.nsone.net.
 kalon.events.	3600	in	ns	failed-whois-verification.namecheap.com.
 kalon.events.	3600	in	ns	verify-contact-details.namecheap.com.
 kaltura.events.	3600	in	ns	ns-1299.awsdns-34.org.
@@ -46024,13 +45996,6 @@ khanti.events.	3600	in	ns	ns17.lwsdns.com.
 khanti.events.	3600	in	ns	ns18.lwsdns.com.
 khanti.events.	3600	in	ns	ns19.lwsdns.com.
 khanti.events.	3600	in	ns	ns20.lwsdns.com.
-khaos.events.	3600	in	ds	24122 13 2 03D29CD692B65211C6592060AA0BEF0196B8CD10C35A4CBE0241C0814572C6CE
-khaos.events.	3600	in	ns	anexia.fifthns.com.
-khaos.events.	3600	in	ns	anexia.firstns.cc.
-khaos.events.	3600	in	ns	anexia.fourthns.systems.
-khaos.events.	3600	in	ns	anexia.secondns.at.
-khaos.events.	3600	in	ns	anexia.thirdns.de.
-khaos.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. xlzBi1WYpBgxakoE/Sy7hit6ujIpD4SHQ4vIHJB56UV3Wm+YiYntXPWNItspByhi7n2yadZ4NXOaADMpKPn6GUMTD+tSl0G3vjnQj/uXQ/izMyB8GPyUcRRtqjcgh+TzgUj7ljGVDpqPEaztSCcLmy2m9h4pX5aA7D+mmP69Xqk=
 kharma.events.	3600	in	ns	ns1065.ui-dns.de.
 kharma.events.	3600	in	ns	ns1075.ui-dns.org.
 kharma.events.	3600	in	ns	ns1083.ui-dns.biz.
@@ -46562,8 +46527,8 @@ kmtautomated.events.	3600	in	ns	ns-1524.awsdns-62.org.
 kmtautomated.events.	3600	in	ns	ns-1698.awsdns-20.co.uk.
 kmtautomated.events.	3600	in	ns	ns-278.awsdns-34.com.
 kmtautomated.events.	3600	in	ns	ns-959.awsdns-55.net.
-kn8lpkd4vovitjnu900lmpg8doveu1di.events.	3600	in	nsec3	1 1 0 73 KNATVL6IUA9FGRICGKIJ1GNS8KKF4853 NS DS RRSIG
-kn8lpkd4vovitjnu900lmpg8doveu1di.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. Usuz4Z39Jve+cfNYChV5oVmlJqDQp1UwcVdGe87MTcx3Vavf4JwU+5LIGREp46H5ipWXKHI6q/ZNISEqIkiLAvS5nq0J8GNDV1W/nGB0W2jOCK9C966J3ONc5w81qaZyNLN1XNfMbuTl9LpIMh0PXFfcVeFZA5HF7gQknONvq5A=
+kn8lpkd4vovitjnu900lmpg8doveu1di.events.	3600	in	nsec3	1 1 0 73 KNNC9DNBHVR8AOUCAMONREEQINJK50HV NS DS RRSIG
+kn8lpkd4vovitjnu900lmpg8doveu1di.events.	3600	in	rrsig	NSEC3 8 2 3600 20251003003218 20250911233218 24630 events. vMFClS/8x6Wp3qaBYgr+rmlIvV2rwtM0IWhaBNRFxOYLIuvUi8aOo+2VbT2DyJE5epCtN3nn+dK3DvKyxJ8/SLxx6fCT3+BJtUTHUMOMDwWRUKYRO/ixlQ9I6Z9vsvY/fIyj52HZ5Krix7mbIVnmFHXgax9GDftJRowzI4NfR3g=
 knallfrosch.events.	3600	in	ns	ns5.kasserver.com.
 knallfrosch.events.	3600	in	ns	ns6.kasserver.com.
 knapp.events.	3600	in	ds	10200 13 2 97649E918068C485ABBE55864DD26C68D3C828188C014495D7765C8C7F741DA4
@@ -46572,8 +46537,6 @@ knapp.events.	3600	in	ns	ns1.rrpproxy.net.
 knapp.events.	3600	in	ns	ns2.rrpproxy.net.
 knapp.events.	3600	in	ns	ns3.rrpproxy.net.
 knapp.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. nXCUz00g5dHiDuFeKe/BSNaAoWFxQcRTwUd1yrtJ+70zRZBydMxB4DyEb/MmK932DWHbedAym6EEuro7Jivtotrg13n1oQDBG+pDGN7eSfd2H+X7mSTqcw21hyFl67ntzBIdNNaS9sBRAXZ6w4skdeZnvyQZHTKTEiDCIXIYWwA=
-knatvl6iua9fgricgkij1gns8kkf4853.events.	3600	in	nsec3	1 1 0 73 KNNC9DNBHVR8AOUCAMONREEQINJK50HV NS DS RRSIG
-knatvl6iua9fgricgkij1gns8kkf4853.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. wvXz+rw8W3t/zLhFR/cbXUjY+iJ/tFH6c1jnVRrmMUSnE3hNXqeT6Il91Z5wXvzml92qEO5/lNglMZNPxDdfKMenaOpSmI+FCOsQhfkt6gADukulC4Hsfz0h0zOePgIYrw16v6d4skxd0WxMw5CWcbrueGUse7DCT3vXJ7Eg8UA=
 knc.events.	3600	in	ds	47231 8 2 ED88A484F32D6CB6FDB51184393C60FAEB21F4D7E7C5B8A71485C9FDF9092752
 knc.events.	3600	in	ns	ns-cloud-d1.googledomains.com.
 knc.events.	3600	in	ns	ns-cloud-d2.googledomains.com.
@@ -46752,6 +46715,8 @@ kohpi1l103h1c605rcshku8s4mhg2dvp.events.	3600	in	nsec3	1 1 0 73 KOK3C0301ICU138J
 kohpi1l103h1c605rcshku8s4mhg2dvp.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. 099A73zO+Qj4sJsXv+kgQnYE+TXd5VXo/NIIa50I4StBi0YxZq0I3fZxG4TpjCnkd1/qHzxlkhvibgM84UquHe8/CZyrfJvaxlazb+twx/N1ynUWy2Jamcah5wIXzm+GWM2Rz9J5KsXQFBRKCtC26N114WTItajYRpJc1as0VtQ=
 kohta.events.	3600	in	ns	dns1.registrar-servers.com.
 kohta.events.	3600	in	ns	dns2.registrar-servers.com.
+koi.events.	3600	in	ns	ns1.dns-redirect.com.
+koi.events.	3600	in	ns	ns2.dns-redirect.com.
 koinzer.events.	3600	in	ns	docks13.rzone.de.
 koinzer.events.	3600	in	ns	shades17.rzone.de.
 kok3c0301icu138jri1soc3t0uv6ilr4.events.	3600	in	nsec3	1 1 0 73 KOPOSEUUJP7RUVAFDOJSE0GBD5H2HSRP NS DS RRSIG
@@ -46876,9 +46841,8 @@ koora-live.events.	3600	in	ns	itzel.ns.cloudflare.com.
 koora-live.events.	3600	in	ns	john.ns.cloudflare.com.
 koordinatsya.events.	3600	in	ns	ns1.reg.ru.
 koordinatsya.events.	3600	in	ns	ns2.reg.ru.
-kootenay.events.	3600	in	ns	be.ns.vip.nl.
-kootenay.events.	3600	in	ns	dns.resolver.domains.
-kootenay.events.	3600	in	ns	nl.ns.vip.nl.
+kootenay.events.	3600	in	ns	ns1.rr585.parklogic.com.
+kootenay.events.	3600	in	ns	ns2.rr585.parklogic.com.
 kopfhoerer.events.	3600	in	ns	ns.checkdomain.de.
 kopfhoerer.events.	3600	in	ns	ns2.checkdomain.de.
 kopfkino.events.	3600	in	ns	ns1038.ui-dns.biz.
@@ -47059,8 +47023,8 @@ kreativekoncepts.events.	3600	in	ns	maceio.ns.porkbun.com.
 kreativekoncepts.events.	3600	in	ns	salvador.ns.porkbun.com.
 kreditbee.events.	3600	in	ns	ns31.domaincontrol.com.
 kreditbee.events.	3600	in	ns	ns32.domaincontrol.com.
-kremlpalace.events.	3600	in	ns	ns1.reg.ru.
-kremlpalace.events.	3600	in	ns	ns2.reg.ru.
+kremlpalace.events.	3600	in	ns	phil.ns.cloudflare.com.
+kremlpalace.events.	3600	in	ns	rafe.ns.cloudflare.com.
 krenn.events.	3600	in	ns	ns1.world4you.at.
 krenn.events.	3600	in	ns	ns2.world4you.at.
 kressler.events.	3600	in	ns	ns.checkdomain.de.
@@ -47217,8 +47181,10 @@ ktb.events.	3600	in	ns	ns01.squarespacedns.com.
 ktb.events.	3600	in	ns	ns02.squarespacedns.com.
 ktb.events.	3600	in	ns	ns03.squarespacedns.com.
 ktb.events.	3600	in	ns	ns04.squarespacedns.com.
-ktbmusic.events.	3600	in	ns	ns.microlite1.com.
-ktbmusic.events.	3600	in	ns	ns2.microlite1.com.
+ktbmusic.events.	3600	in	ns	ns1.cloudhosting.uk.
+ktbmusic.events.	3600	in	ns	ns1.krystal.uk.
+ktbmusic.events.	3600	in	ns	ns2.cloudhosting.uk.
+ktbmusic.events.	3600	in	ns	ns2.krystal.uk.
 ktc.events.	3600	in	ns	dns107.ovh.net.
 ktc.events.	3600	in	ns	ns107.ovh.net.
 ktckferb3u7o6gcb83nv4kve2c2t0iiq.events.	3600	in	nsec3	1 1 0 73 KTV41U1TV77QJ4BT15GQQI35FUVVF2MU NS DS RRSIG
@@ -50013,8 +49979,8 @@ livelink.events.	3600	in	ns	ns-cloud-e3.googledomains.com.
 livelink.events.	3600	in	ns	ns-cloud-e4.googledomains.com.
 livelong.events.	3600	in	ns	ns53.domaincontrol.com.
 livelong.events.	3600	in	ns	ns54.domaincontrol.com.
-livelovelaugh.events.	3600	in	ns	ns1.bodis.com.
-livelovelaugh.events.	3600	in	ns	ns2.bodis.com.
+livelovelaugh.events.	3600	in	ns	ns1.dns-redirect.com.
+livelovelaugh.events.	3600	in	ns	ns2.dns-redirect.com.
 liveloverock.events.	3600	in	ns	ns11.domaincontrol.com.
 liveloverock.events.	3600	in	ns	ns12.domaincontrol.com.
 livelyproductions.events.	3600	in	ns	ns0.wixdns.net.
@@ -51100,6 +51066,10 @@ lt60im3rigohcmpgtidq680c8l18aqgi.events.	3600	in	nsec3	1 1 0 73 LTLKTQ9SSME4LQF0
 lt60im3rigohcmpgtidq680c8l18aqgi.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. XCVjrWe+mbMEC+1wsfRTQH23Wf8UFyyE5f8TZFDuwTSjOcP1zSQ6fpsOmFuzMYbeRZemMqsCI+cpTTfzrPuFt4YFbAWE2YTDg/8cuGuIq5uGuKEFEAweisL/ZPwIGcDqQxpyFZIjYl9X6e3RAvH15aEWk//lSU4ZfIxnT7zbYC8=
 lt88.events.	3600	in	ns	ophelia.ns.cloudflare.com.
 lt88.events.	3600	in	ns	zod.ns.cloudflare.com.
+ltc.events.	3600	in	ns	curitiba.ns.porkbun.com.
+ltc.events.	3600	in	ns	fortaleza.ns.porkbun.com.
+ltc.events.	3600	in	ns	maceio.ns.porkbun.com.
+ltc.events.	3600	in	ns	salvador.ns.porkbun.com.
 ltk.events.	3600	in	ns	dns1.registrar-servers.com.
 ltk.events.	3600	in	ns	dns2.registrar-servers.com.
 ltle.events.	3600	in	ns	ns17.domaincontrol.com.
@@ -51247,8 +51217,8 @@ luisacerano.events.	3600	in	ns	ns1016.ui-dns.biz.
 luisacerano.events.	3600	in	ns	ns1059.ui-dns.org.
 luisacerano.events.	3600	in	ns	ns1068.ui-dns.de.
 luisacerano.events.	3600	in	ns	ns1108.ui-dns.com.
-luk6ntlquqktoktd2edvnkqrlne66krq.events.	3600	in	nsec3	1 1 0 73 LUVQ3B9HRHFE464MI63CLMROTV1A51UF NS DS RRSIG
-luk6ntlquqktoktd2edvnkqrlne66krq.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. lRtYc6g0GkIeptyYF+LHz2p5zsAS3C0gg5aPziq9p78j6HTJYi+j0gyi6CGaLHRhNEDpuaN0qy4lizAzbuIJhOYTh1CHRTvaoh1YDmUCZqnAr/K86wyFBRYzt9j1L3DTg5nU30srekRYPjUkhyyqMQnaBZ6+HftYfV/OndP4imY=
+luk6ntlquqktoktd2edvnkqrlne66krq.events.	3600	in	nsec3	1 1 0 73 LV3A8PU25P46435STQ5BOI89R91TKCOQ NS DS RRSIG
+luk6ntlquqktoktd2edvnkqrlne66krq.events.	3600	in	rrsig	NSEC3 8 2 3600 20251002191527 20250911181527 24630 events. YkauHBVPVRrdgZ7UpZoY8UHysLMQQJ/6v0qeaTda89AyTbebOPj/zQev+1eFttE/Gwjit7mTZ85v9IbP7ak5k9usqJsfCK/WjOU1OU98TDFy/HXFcjOUBnYNhPHMRK8qTRjYkKctEbhZKuW9OkjbsvrxiLYz2joHvQQtnzi5jrw=
 luka.events.	3600	in	ns	ns1030.ui-dns.de.
 luka.events.	3600	in	ns	ns1053.ui-dns.org.
 luka.events.	3600	in	ns	ns1088.ui-dns.biz.
@@ -51363,11 +51333,10 @@ lupstaging.events.	3600	in	ns	heather.ns.cloudflare.com.
 lupstaging.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. FkiAPiBVI0KNPc1bMsT7zO4rIwPXo0ajAxbIJpq3+M94P1KoIegNRmKGz5KYiDY/gRWoGz8g/w2qswqUm3HZQBEBzXSBwNCeuSjGUCzVIRqof8hk4HW0Ele7QTLDQGQ+ni2vBENvEBLaMhdgoMUVj/t3v8374ipsNtyb9o8RNqU=
 lure.events.	3600	in	ns	ns69.domaincontrol.com.
 lure.events.	3600	in	ns	ns70.domaincontrol.com.
-lus.events.	3600	in	ns	ns.gabia.co.kr.
-lus.events.	3600	in	ns	ns.gabia.net.
-lus.events.	3600	in	ns	ns1.gabia.co.kr.
 lusail.events.	3600	in	ns	ns1.dyna-ns.net.
 lusail.events.	3600	in	ns	ns2.dyna-ns.net.
+lusca.events.	3600	in	ns	ns47.domaincontrol.com.
+lusca.events.	3600	in	ns	ns48.domaincontrol.com.
 lusso.events.	3600	in	ns	ns51.domaincontrol.com.
 lusso.events.	3600	in	ns	ns52.domaincontrol.com.
 luton.events.	3600	in	ns	ajay.ns.cloudflare.com.
@@ -51388,8 +51357,6 @@ luun.events.	3600	in	ns	ns20.ovh.net.
 luun.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. k9zhG/Lw/MENzmEhVK7P+jf7YilraRLcSCiPGXIQ/bJjYufh3MrNhnTE97SpQQ9B3on96PCquQMsBAFVPbcSg7qqXTxyZkX01MfuHNbzZevRAJRh3FUL6+l2Ua/KpyktmAP6pFjFAA6BhCkbM/yWTaifCShE9dwfSiFKxoNG0cw=
 luvlifeinc.events.	3600	in	ns	ns37.domaincontrol.com.
 luvlifeinc.events.	3600	in	ns	ns38.domaincontrol.com.
-luvq3b9hrhfe464mi63clmrotv1a51uf.events.	3600	in	nsec3	1 1 0 73 LV3A8PU25P46435STQ5BOI89R91TKCOQ NS DS RRSIG
-luvq3b9hrhfe464mi63clmrotv1a51uf.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. OhRM6PA3os4wHLIEqLHymGzkYayCFKaiPdmhdn4xFyqLL9iTS6FIa2OGysMRvB1ORaYKo7hUB6lciucGnXy9DXIcvLBnGIMcn5b9VHZG6qNBmilwTBCAY3OdGZgkUI3m2XrvsCX1nqlO2MhKLVCoTJ6p8RVqmtbll9aaHoq/Qlk=
 luwed.events.	3600	in	ns	ns1.dns-parking.com.
 luwed.events.	3600	in	ns	ns2.dns-parking.com.
 lux.events.	3600	in	ns	ns73.domaincontrol.com.
@@ -51442,8 +51409,8 @@ luxurycollection.events.	3600	in	ns	dns2.cscdns.net.
 luxurytravelfair.events.	3600	in	ns	nsgbr.comlaude.co.uk.
 luxurytravelfair.events.	3600	in	ns	nssui.comlaude.ch.
 luxurytravelfair.events.	3600	in	ns	nsusa.comlaude.net.
-luxus.events.	3600	in	ns	ns1.bodis.com.
-luxus.events.	3600	in	ns	ns2.bodis.com.
+luxus.events.	3600	in	ns	ns1.dns-redirect.com.
+luxus.events.	3600	in	ns	ns2.dns-redirect.com.
 luxusgedanken.events.	3600	in	ns	docks01.rzone.de.
 luxusgedanken.events.	3600	in	ns	shades11.rzone.de.
 luxx.events.	3600	in	ns	cns1.cloudpit.de.
@@ -51571,7 +51538,7 @@ m-team.events.	3600	in	ns	ns13.ovh.net.
 m.events.	3600	in	ns	carl.ns.cloudflare.com.
 m.events.	3600	in	ns	kim.ns.cloudflare.com.
 m03r5ndur2hrfovqdf28abugvv8olh0j.events.	3600	in	nsec3	1 1 0 73 M0CVS36Q2P129BJ6VLAEU0QE0J1HE260 NS SOA RRSIG DNSKEY NSEC3PARAM
-m03r5ndur2hrfovqdf28abugvv8olh0j.events.	3600	in	rrsig	NSEC3 8 2 3600 20251002010708 20250911000708 24630 events. X9LXOVRdkylfhAYe02bfOHcDsW3yARo3Sln2BsYGW18qMKTJDYQkK/M4YSkvEUySXtgnWEr2t8fkHeSaSPTh074bfMgqSaH1OLOoGTn4+Nkjq0KuvJkPceyICRWze5nFcakA7xSYJgMuugGBt/rPxUJorHdQvMNvr8OIz3ExueI=
+m03r5ndur2hrfovqdf28abugvv8olh0j.events.	3600	in	rrsig	NSEC3 8 2 3600 20251003010350 20250912000350 24630 events. hVW4p2Iad2qdNjEJuwhELjJu5y9zzb+8MbOrhYcUfTmNSGX2Sff+36n69ol1Zaz53lg147qYXtgG6n1QGcf6TNqMGzw1lQvPlqI/R+C3N4Pz9kj9T4UftAeS/504gd6raNyrMiDz+T35fwGBd6xDnhJl5mj9j+HSChlzKtRNrbw=
 m0cvs36q2p129bj6vlaeu0qe0j1he260.events.	3600	in	nsec3	1 1 0 73 M1GSEBFOS49R6SC1N57AVBKDK3JRMEVG NS DS RRSIG
 m0cvs36q2p129bj6vlaeu0qe0j1he260.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. UGOv/WffFM/j3aHFBHTe173tzMu2vYcl7yxF51P4X8gYd5OQOBq0ssh0bndEI0Rud0byKoVqLBAWC+IykHdBA/rQLuM0nPBWTI/irQhgUAPCMUT0m8mtl8nqffQEE6rsnXe0Ss5jF1sbwV7kibVHvIEDjD4yXX+AI1t/RBVJHF0=
 m13.events.	3600	in	ns	nsa3.schlundtech.de.
@@ -51830,6 +51797,8 @@ maennerspielplatz.events.	3600	in	ns	ns-de.1and1-dns.biz.
 maennerspielplatz.events.	3600	in	ns	ns-de.1and1-dns.com.
 maennerspielplatz.events.	3600	in	ns	ns-de.1and1-dns.de.
 maennerspielplatz.events.	3600	in	ns	ns-de.1and1-dns.org.
+maestra.events.	3600	in	ns	ns47.domaincontrol.com.
+maestra.events.	3600	in	ns	ns48.domaincontrol.com.
 mafate.events.	3600	in	ns	ns-1276.awsdns-31.org.
 mafate.events.	3600	in	ns	ns-1678.awsdns-17.co.uk.
 mafate.events.	3600	in	ns	ns-508.awsdns-63.com.
@@ -52652,8 +52621,8 @@ marilynmonroe.events.	3600	in	ns	ns15.domserver.de.
 marilynmonroe.events.	3600	in	ns	ns16.domserver.de.
 marilynmonroe.events.	3600	in	ns	ns17.domserver.de.
 marilynmonroe.events.	3600	in	ns	ns18.domserver.de.
-marina.events.	3600	in	ns	ns1.afternic.com.
-marina.events.	3600	in	ns	ns2.afternic.com.
+marina.events.	3600	in	ns	ns1.dyna-ns.net.
+marina.events.	3600	in	ns	ns2.dyna-ns.net.
 marinaballoons.events.	3600	in	ns	ns-cloud-a1.googledomains.com.
 marinaballoons.events.	3600	in	ns	ns-cloud-a2.googledomains.com.
 marinaballoons.events.	3600	in	ns	ns-cloud-a3.googledomains.com.
@@ -54254,8 +54223,8 @@ meshru.events.	3600	in	ns	dorukdns2.doruk.net.tr.
 meshru.events.	3600	in	ns	dorukdns3.doruk.net.tr.
 mesi.events.	3600	in	ns	pdns1.registrar-servers.com.
 mesi.events.	3600	in	ns	pdns2.registrar-servers.com.
-mesinslot.events.	3600	in	ns	ns1.bodis.com.
-mesinslot.events.	3600	in	ns	ns2.bodis.com.
+mesinslot.events.	3600	in	ns	ns1.dns-redirect.com.
+mesinslot.events.	3600	in	ns	ns2.dns-redirect.com.
 mesmerize.events.	3600	in	ns	ns1022.ui-dns.biz.
 mesmerize.events.	3600	in	ns	ns1029.ui-dns.org.
 mesmerize.events.	3600	in	ns	ns1047.ui-dns.com.
@@ -56006,6 +55975,8 @@ momente.events.	3600	in	ns	ns1084.ui-dns.biz.
 momente.events.	3600	in	ns	ns1089.ui-dns.com.
 momentify.events.	3600	in	ns	dns1.namecheaphosting.com.
 momentify.events.	3600	in	ns	dns2.namecheaphosting.com.
+momentmakers.events.	3600	in	ns	ns37.domaincontrol.com.
+momentmakers.events.	3600	in	ns	ns38.domaincontrol.com.
 momento.events.	3600	in	ns	helium.ns.hetzner.de.
 momento.events.	3600	in	ns	hydrogen.ns.hetzner.com.
 momento.events.	3600	in	ns	oxygen.ns.hetzner.com.
@@ -56460,8 +56431,8 @@ morrow.events.	3600	in	ns	ns3cfp.name.com.
 morrow.events.	3600	in	ns	ns4dfh.name.com.
 mortgage.events.	3600	in	ns	ns1.bluehost.com.
 mortgage.events.	3600	in	ns	ns2.bluehost.com.
-morton.events.	3600	in	ns	ns1.bodis.com.
-morton.events.	3600	in	ns	ns2.bodis.com.
+morton.events.	3600	in	ns	ns1.dns-redirect.com.
+morton.events.	3600	in	ns	ns2.dns-redirect.com.
 mosaic.events.	3600	in	ns	liberty.ns.cloudflare.com.
 mosaic.events.	3600	in	ns	skip.ns.cloudflare.com.
 mosaicdesign.events.	3600	in	ns	ns51.domaincontrol.com.
@@ -57383,8 +57354,8 @@ must-have.events.	3600	in	ns	pid2.srv53.org.
 mustang-inn.events.	3600	in	ns	ns.udag.de.
 mustang-inn.events.	3600	in	ns	ns.udag.net.
 mustang-inn.events.	3600	in	ns	ns.udag.org.
-mustang-mieten.events.	3600	in	ns	ns1.bodis.com.
-mustang-mieten.events.	3600	in	ns	ns2.bodis.com.
+mustang-mieten.events.	3600	in	ns	ns1.dns-redirect.com.
+mustang-mieten.events.	3600	in	ns	ns2.dns-redirect.com.
 mustanginn.events.	3600	in	ns	ns.udag.de.
 mustanginn.events.	3600	in	ns	ns.udag.net.
 mustanginn.events.	3600	in	ns	ns.udag.org.
@@ -58203,6 +58174,10 @@ nano.events.	3600	in	ns	ns77.domaincontrol.com.
 nano.events.	3600	in	ns	ns78.domaincontrol.com.
 nanotech.events.	3600	in	ns	ns5.kasserver.com.
 nanotech.events.	3600	in	ns	ns6.kasserver.com.
+nantes.events.	3600	in	ds	1901 8 2 D24348FB1AB84389132601F89B58F7124EEA66B8E5B520E9C1C076DD7E1DC8C1
+nantes.events.	3600	in	ns	dns10.ovh.net.
+nantes.events.	3600	in	ns	ns10.ovh.net.
+nantes.events.	3600	in	rrsig	DS 8 2 3600 20251002164709 20250911154709 24630 events. YY/zCJ8WWpKG5/Ab7pr00RMtR5bsABX8TzjXAjI5yxGHRXHlZdI2lt/pfxowBvps1XmcizlpOuVVn6ao/7Jgpgwych3xMiMsKcv/dwJYfD8c0ZUSc0GX82LdZ9T1ieTV+FEVOe0IW8rE5oP9CTm/6EK1ekbwOXlw7JyXkAgIksc=
 nantoka.events.	3600	in	ns	uns01.lolipop.jp.
 nantoka.events.	3600	in	ns	uns02.lolipop.jp.
 nantucket.events.	3600	in	ns	ns1.dyna-ns.net.
@@ -58594,12 +58569,10 @@ nelli.events.	3600	in	ns	ns-de.1and1-dns.biz.
 nelli.events.	3600	in	ns	ns-de.1and1-dns.com.
 nelli.events.	3600	in	ns	ns-de.1and1-dns.de.
 nelli.events.	3600	in	ns	ns-de.1and1-dns.org.
-nelson-bc.events.	3600	in	ns	be.ns.vip.nl.
-nelson-bc.events.	3600	in	ns	dns.resolver.domains.
-nelson-bc.events.	3600	in	ns	nl.ns.vip.nl.
-nelsonbc.events.	3600	in	ns	be.ns.vip.nl.
-nelsonbc.events.	3600	in	ns	dns.resolver.domains.
-nelsonbc.events.	3600	in	ns	nl.ns.vip.nl.
+nelson-bc.events.	3600	in	ns	ns1.rr585.parklogic.com.
+nelson-bc.events.	3600	in	ns	ns2.rr585.parklogic.com.
+nelsonbc.events.	3600	in	ns	ns1.rr585.parklogic.com.
+nelsonbc.events.	3600	in	ns	ns2.rr585.parklogic.com.
 nemesis.events.	3600	in	ns	ns1056.ui-dns.de.
 nemesis.events.	3600	in	ns	ns1070.ui-dns.biz.
 nemesis.events.	3600	in	ns	ns1101.ui-dns.org.
@@ -59105,8 +59078,6 @@ nextbillioncapital.events.	3600	in	ns	connect1.squarespacedns.com.
 nextbillioncapital.events.	3600	in	ns	connect2.squarespacedns.com.
 nextcycle.events.	3600	in	ns	ns23.domaincontrol.com.
 nextcycle.events.	3600	in	ns	ns24.domaincontrol.com.
-nextdance.events.	3600	in	ns	docks19.rzone.de.
-nextdance.events.	3600	in	ns	shades17.rzone.de.
 nextday.events.	3600	in	ns	ns1045.ui-dns.biz.
 nextday.events.	3600	in	ns	ns1045.ui-dns.com.
 nextday.events.	3600	in	ns	ns1045.ui-dns.de.
@@ -60534,6 +60505,7 @@ ns1.sugarandtreats.events.	3600	in	a	194.164.92.241
 ns1.testckp.events.	3600	in	a	49.249.114.78
 ns1.tinkoff.events.	3600	in	a	178.248.239.11
 ns1.trescon.events.	3600	in	a	50.63.160.224
+ns1.uma.events.	3600	in	a	194.164.126.104
 ns1.unit.events.	3600	in	a	82.223.97.233
 ns1.venuesunlimited.events.	3600	in	a	107.152.108.165
 ns1.vinted.events.	3600	in	a	15.197.177.102
@@ -60641,6 +60613,7 @@ ns2.southdevonrailway.events.	3600	in	a	77.68.76.188
 ns2.sugarandtreats.events.	3600	in	a	194.164.92.241
 ns2.tinkoff.events.	3600	in	a	185.66.85.67
 ns2.trescon.events.	3600	in	a	50.63.160.224
+ns2.uma.events.	3600	in	a	194.164.126.104
 ns2.unit.events.	3600	in	a	82.223.97.233
 ns2.venuesunlimited.events.	3600	in	a	107.152.108.165
 ns2.vinted.events.	3600	in	a	3.33.188.145
@@ -60836,8 +60809,8 @@ nusantara.events.	3600	in	ns	ns1.dyna-ns.net.
 nusantara.events.	3600	in	ns	ns2.dyna-ns.net.
 nutanix.events.	3600	in	ns	dns1.cscdns.net.
 nutanix.events.	3600	in	ns	dns2.cscdns.net.
-nutcracker.events.	3600	in	ns	ns1.reg.ru.
-nutcracker.events.	3600	in	ns	ns2.reg.ru.
+nutcracker.events.	3600	in	ns	phil.ns.cloudflare.com.
+nutcracker.events.	3600	in	ns	rafe.ns.cloudflare.com.
 nutrafarms.events.	3600	in	ds	21392 8 2 AFBA3754B7AF8374AD44C39B3C22424522C5B6CF1E601104C2AB9A7BB54FD3BF
 nutrafarms.events.	3600	in	ns	ns-cloud-e1.googledomains.com.
 nutrafarms.events.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -61148,6 +61121,8 @@ obkan.events.	3600	in	ns	ns1115.ui-dns.org.
 obkan.events.	3600	in	ns	ns1118.ui-dns.biz.
 obn.events.	3600	in	ns	ns1.afternic.com.
 obn.events.	3600	in	ns	ns2.afternic.com.
+obscene.events.	3600	in	ns	ns1.nom-domaine.fr.
+obscene.events.	3600	in	ns	ns2.nom-domaine.fr.
 obscura.events.	3600	in	ns	ns10.wixdns.net.
 obscura.events.	3600	in	ns	ns11.wixdns.net.
 obscurite.events.	3600	in	ns	ns.second-ns.com.
@@ -61742,8 +61717,8 @@ oldskool.events.	3600	in	ns	ns41.domaincontrol.com.
 oldskool.events.	3600	in	ns	ns42.domaincontrol.com.
 oldstyle.events.	3600	in	ns	ns19.domaincontrol.com.
 oldstyle.events.	3600	in	ns	ns20.domaincontrol.com.
-oldtimer-mieten.events.	3600	in	ns	ns1.bodis.com.
-oldtimer-mieten.events.	3600	in	ns	ns2.bodis.com.
+oldtimer-mieten.events.	3600	in	ns	ns1.dns-redirect.com.
+oldtimer-mieten.events.	3600	in	ns	ns2.dns-redirect.com.
 oldtimer.events.	3600	in	ns	a.ns14.net.
 oldtimer.events.	3600	in	ns	b.ns14.net.
 oldtimer.events.	3600	in	ns	c.ns14.net.
@@ -61802,14 +61777,16 @@ ollama.events.	3600	in	ns	ned.ns.cloudflare.com.
 ollama.events.	3600	in	ns	teresa.ns.cloudflare.com.
 olly.events.	3600	in	ns	dns1.registrar-servers.com.
 olly.events.	3600	in	ns	dns2.registrar-servers.com.
-olmfulto4o0pqu5v97vlh01916i0gk44.events.	3600	in	nsec3	1 1 0 73 OM4OEO2BMN4C75MP5LP5LRGJ242CQL6B NS DS RRSIG
-olmfulto4o0pqu5v97vlh01916i0gk44.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. KgEaiMW/QOoBbVdN/YmF/e5CiDUjwo36isfPfJDYDuL6S6sMTrFewpMDH8WwVBLYkOC28YyGxZTsY7xDf5eeP9V6DDmdE04vVHIoPbyMNb0+9BpUNEazKPDWjpTkUk3GnFlmhqOxq84bNnnnu0M1U8Ed7SFAvgNS0YRIIjQ1mMg=
+olmfulto4o0pqu5v97vlh01916i0gk44.events.	3600	in	nsec3	1 1 0 73 OLR4ROFHSTHNOA9IK3GIOJG646DJP9TN NS DS RRSIG
+olmfulto4o0pqu5v97vlh01916i0gk44.events.	3600	in	rrsig	NSEC3 8 2 3600 20251002212205 20250911202205 24630 events. kZbeiOmc4QUWwlrfBC2eoJA+CvGrs1Qru3gaMEV7mwtQmR3Hwy/qdoatwST5p0CtD4Rsnw2/pfAH3KIfGwj16EsWtHJdeaWLhtbzVwh3rIBZ9AhfLRGb2IL8/Wz+w3vMtAiR+aq6lQhkG76L+y0bbd+OipBhcM4C68ztbffgOn4=
 olo.events.	3600	in	ns	ns-cloud-e1.googledomains.com.
 olo.events.	3600	in	ns	ns-cloud-e2.googledomains.com.
 olo.events.	3600	in	ns	ns-cloud-e3.googledomains.com.
 olo.events.	3600	in	ns	ns-cloud-e4.googledomains.com.
 oloco.events.	3600	in	ns	dns200.anycast.me.
 oloco.events.	3600	in	ns	ns200.anycast.me.
+olr4rofhsthnoa9ik3giojg646djp9tn.events.	3600	in	nsec3	1 1 0 73 OM4OEO2BMN4C75MP5LP5LRGJ242CQL6B NS DS RRSIG
+olr4rofhsthnoa9ik3giojg646djp9tn.events.	3600	in	rrsig	NSEC3 8 2 3600 20251002212205 20250911202205 24630 events. odCRafPUPVo8DRSpxArfVuKAR0/w1s1rP5aRDyxL2H1xyiDbBMHAJWjZhobLWM02E5xTEhYPOzhpC2bj2/5dYOsMcmB2PQ7uFf1d82eEVdSNjsDumtvCAZ30NtkwqOPy9tFXcjmV5U++WN95Qa9sWZDfu9OXe1uJd3CFRF3aijI=
 olson.events.	3600	in	ns	ns15.domaincontrol.com.
 olson.events.	3600	in	ns	ns16.domaincontrol.com.
 olymp.events.	3600	in	ns	ns.second-ns.com.
@@ -61895,10 +61872,10 @@ omniinterstrategic.events.	3600	in	ns	dns101.registrar-servers.com.
 omniinterstrategic.events.	3600	in	ns	dns102.registrar-servers.com.
 omnisense.events.	3600	in	ns	ns1.dns-parking.com.
 omnisense.events.	3600	in	ns	ns2.dns-parking.com.
-omnissa.events.	3600	in	ns	dns1.p05.nsone.net.
-omnissa.events.	3600	in	ns	dns2.p05.nsone.net.
-omnissa.events.	3600	in	ns	dns3.p05.nsone.net.
-omnissa.events.	3600	in	ns	dns4.p05.nsone.net.
+omnissa.events.	3600	in	ns	ns-1309.awsdns-35.org.
+omnissa.events.	3600	in	ns	ns-1602.awsdns-08.co.uk.
+omnissa.events.	3600	in	ns	ns-206.awsdns-25.com.
+omnissa.events.	3600	in	ns	ns-642.awsdns-16.net.
 oms.events.	3600	in	ns	dns1.registrar-servers.com.
 oms.events.	3600	in	ns	dns2.registrar-servers.com.
 omt.events.	3600	in	ns	ns35.domaincontrol.com.
@@ -62394,8 +62371,8 @@ oosh.events.	3600	in	ds	19747 13 2 606D43C94D2710558DFE1837059270A1C8886B510950D
 oosh.events.	3600	in	ns	ns01.one.com.
 oosh.events.	3600	in	ns	ns02.one.com.
 oosh.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. uGmh/mijuGjtzV9eGDsyXankffStN/RuVCZFzbfMr8CytQaC3TWmA1J4C0d35HwF6U3BVyaI9iFK8TXypx5/KFusQsSHbKTo/9pB10B6W19iijP19nuOD77M1eDmCk9toz2vblxk+yY99G1ml8+ezFmUwc03Nd5t9YzqLbgTrLU=
-ooti.events.	3600	in	ns	ns1.bodis.com.
-ooti.events.	3600	in	ns	ns2.bodis.com.
+ooti.events.	3600	in	ns	ns1.dns-redirect.com.
+ooti.events.	3600	in	ns	ns2.dns-redirect.com.
 oovgmdls1cubd9la5uf6esbt31614snr.events.	3600	in	nsec3	1 1 0 73 OP1R4AVJEOS4CF2GE5O1MECOVNVKK6KB NS DS RRSIG
 oovgmdls1cubd9la5uf6esbt31614snr.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. bUBYzTS4MdOXRgA1W5FJDF8xXi5kV1Mdg5ic9BYLjlERxN2Ylo1PIIUhMeVp2ySIHK55AwiXAj7hh1Kb3oTvgkUfyYDAtVXdgSHMuY3bo1XHz4AjEY9TMuSb/9q/vqrgzuJPswtrzDB7G1G5SbhzbPe72os/LeCBud1YFl0qM04=
 op1r4avjeos4cf2ge5o1mecovnvkk6kb.events.	3600	in	nsec3	1 1 0 73 OPO9S8KLDF4899OH201SSVST813E80I5 NS DS RRSIG
@@ -63169,6 +63146,9 @@ ourfundraiser.events.	3600	in	ns	ns-131.awsdns-16.com.
 ourfundraiser.events.	3600	in	ns	ns-1392.awsdns-46.org.
 ourfundraiser.events.	3600	in	ns	ns-1900.awsdns-45.co.uk.
 ourfundraiser.events.	3600	in	ns	ns-930.awsdns-52.net.
+ourhealthourfuture.events.	3600	in	ns	ns-173-c.gandi.net.
+ourhealthourfuture.events.	3600	in	ns	ns-189-a.gandi.net.
+ourhealthourfuture.events.	3600	in	ns	ns-224-b.gandi.net.
 ourlife.events.	3600	in	ns	ns45.domaincontrol.com.
 ourlife.events.	3600	in	ns	ns46.domaincontrol.com.
 ourlocal.events.	3600	in	ns	ns1045.ui-dns.biz.
@@ -63894,8 +63874,8 @@ panda.events.	3600	in	ns	simone.ns.cloudflare.com.
 panda.events.	3600	in	ns	vin.ns.cloudflare.com.
 pandora.events.	3600	in	ns	ns2.pandora.com.
 pandora.events.	3600	in	ns	ns4.pandora.com.
-pandorabox.events.	3600	in	ns	ns1.bodis.com.
-pandorabox.events.	3600	in	ns	ns2.bodis.com.
+pandorabox.events.	3600	in	ns	ns1.dns-redirect.com.
+pandorabox.events.	3600	in	ns	ns2.dns-redirect.com.
 pandu.events.	3600	in	ns	ns47.domaincontrol.com.
 pandu.events.	3600	in	ns	ns48.domaincontrol.com.
 panicomix.events.	3600	in	ns	ns1.reg.ru.
@@ -64513,6 +64493,8 @@ patriots.events.	3600	in	ns	ns16.domaincontrol.com.
 patrizia-ag.events.	3600	in	ns	ns1.rhsoftware.de.
 patrizia-ag.events.	3600	in	ns	ns2.rhsoftware.de.
 patrizia-ag.events.	3600	in	ns	ns3.rhsoftware.de.
+patron.events.	3600	in	ns	ns1.dns-redirect.com.
+patron.events.	3600	in	ns	ns2.dns-redirect.com.
 pattaya.events.	3600	in	ns	curitiba.ns.porkbun.com.
 pattaya.events.	3600	in	ns	fortaleza.ns.porkbun.com.
 pattaya.events.	3600	in	ns	maceio.ns.porkbun.com.
@@ -65698,8 +65680,8 @@ pilotwerk.events.	3600	in	ns	ns1101.ui-dns.de.
 pilz.events.	3600	in	ns	ns.udag.de.
 pilz.events.	3600	in	ns	ns.udag.net.
 pilz.events.	3600	in	ns	ns.udag.org.
-pim.events.	3600	in	ns	ns1.bodis.com.
-pim.events.	3600	in	ns	ns2.bodis.com.
+pim.events.	3600	in	ns	ns1.dns-redirect.com.
+pim.events.	3600	in	ns	ns2.dns-redirect.com.
 pimco.events.	3600	in	ns	ns1.netnames.net.
 pimco.events.	3600	in	ns	ns2.netnames.net.
 pimco.events.	3600	in	ns	ns5.netnames.net.
@@ -65757,10 +65739,8 @@ pinkminds.events.	3600	in	ns	ns.nscluster.uk.
 pinkminds.events.	3600	in	ns	ns.nscluster.us.
 pinknpeachparty.events.	3600	in	ns	dns1.registrar-servers.com.
 pinknpeachparty.events.	3600	in	ns	dns2.registrar-servers.com.
-pinkpalms.events.	3600	in	ds	18896 13 2 58274BE92DC35B55F0F73BAC3BCCAE5B9E8A5EB8C57034979112DD92D36FE02B
-pinkpalms.events.	3600	in	ns	ns01.one.com.
-pinkpalms.events.	3600	in	ns	ns02.one.com.
-pinkpalms.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. oyeFVQAeKsy80F+YYQO5rlC4YewCnSphiem3Tg6025fLb5DkLcfLtjZyN7+yEn3EQHwEdd2aHqD2hdgja1oIaH1dWK1PNQ3TibQfpcwJdD+HZ81/H15zJkLTYrL42PGnM1Ba9iKn6MN8TMRxhwZqG55aY0YQ63UYbNjzwkp2VsY=
+pinkpalms.events.	3600	in	ns	parked.g1-dns.com.
+pinkpalms.events.	3600	in	ns	parked.g1-dns.one.
 pinkpanther.events.	3600	in	ns	ns1019.ui-dns.org.
 pinkpanther.events.	3600	in	ns	ns1046.ui-dns.de.
 pinkpanther.events.	3600	in	ns	ns1074.ui-dns.biz.
@@ -67275,8 +67255,8 @@ prax.events.	3600	in	ns	ns.udag.net.
 prax.events.	3600	in	ns	ns.udag.org.
 prayer.events.	3600	in	ns	ns11.domaincontrol.com.
 prayer.events.	3600	in	ns	ns12.domaincontrol.com.
-prazdniki.events.	3600	in	ns	ns1.platformalp.ru.
-prazdniki.events.	3600	in	ns	ns2.platformalp.ru.
+prazdniki.events.	3600	in	ns	ns1.expired.reg.ru.
+prazdniki.events.	3600	in	ns	ns2.expired.reg.ru.
 prblockchain.events.	3600	in	ns	ns1.dreamhost.com.
 prblockchain.events.	3600	in	ns	ns2.dreamhost.com.
 prblockchain.events.	3600	in	ns	ns3.dreamhost.com.
@@ -67448,8 +67428,11 @@ presspublish.events.	3600	in	ns	ns2.wordpress.com.
 presspublish.events.	3600	in	ns	ns3.wordpress.com.
 prestataires.events.	3600	in	ns	ns1.dns-parking.com.
 prestataires.events.	3600	in	ns	ns2.dns-parking.com.
-prestige-society.events.	3600	in	ns	ns1.greengeeks.com.
-prestige-society.events.	3600	in	ns	ns2.greengeeks.com.
+prestige-society.events.	3600	in	ns	dns1.name-services.com.
+prestige-society.events.	3600	in	ns	dns2.name-services.com.
+prestige-society.events.	3600	in	ns	dns3.name-services.com.
+prestige-society.events.	3600	in	ns	dns4.name-services.com.
+prestige-society.events.	3600	in	ns	dns5.name-services.com.
 prestige.events.	3600	in	ns	ns1.afternic.com.
 prestige.events.	3600	in	ns	ns2.afternic.com.
 prestigecorporate.events.	3600	in	ns	ns71.domaincontrol.com.
@@ -67810,6 +67793,10 @@ profield.events.	3600	in	ds	60571 8 2 CBB1DC8FEF272A9ACA287B9E2A3B15399E6F79D8FA
 profield.events.	3600	in	ns	dns111.ovh.net.
 profield.events.	3600	in	ns	ns111.ovh.net.
 profield.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. W1ZDcxu1psrIKH6A65nWRXRSrbiNaCs2QZqg3BsX1fvAt64+YRdPqsF1gDVAnXRB+GObv1FuddF0ZxLRQ/7VbJbKtXqbitGnq929O1NKdPu7LcNEcNRBL3wyEHxRWSHpfKTxCPRs3gGqpi89psj4lXYhrbRxhyrqaGp2Pr+QSnQ=
+profil.events.	3600	in	ds	26882 8 2 6DD3E9901526C5A72D71D19970DFE7290D9D37FC056D55EDCF1F9344B182A44C
+profil.events.	3600	in	ns	dns101.ovh.net.
+profil.events.	3600	in	ns	ns101.ovh.net.
+profil.events.	3600	in	rrsig	DS 8 2 3600 20251002085153 20250911075153 24630 events. GEc3HbUQNxJTJ8X2/xflLdaDyzl3VzH7ydyUsi8SDvIxzkT/oy1URIi7M2bU7rnPVzwYU9dITrGQjBfdE/ylBXESbMdfK3X5Agu22UOWp+eEumUU4/Efva5UJr2WCc6s45zEbekzVetf5Y0vmjT7ctzNDi8ritl6EW4v8ydK5Pk=
 profile.events.	3600	in	ds	62242 8 2 906CF7B66CD8E87983AB4BCA4CC619B83D369AA2FD2B827583ED5257DED0AEFD
 profile.events.	3600	in	ns	ns-cloud-d1.googledomains.com.
 profile.events.	3600	in	ns	ns-cloud-d2.googledomains.com.
@@ -68061,6 +68048,8 @@ prosessipaivat.events.	3600	in	ns	ns-335.awsdns-41.com.
 prosessipaivat.events.	3600	in	ns	ns-924.awsdns-51.net.
 proshow.events.	3600	in	ns	ns03.domaincontrol.com.
 proshow.events.	3600	in	ns	ns04.domaincontrol.com.
+proshowservices.events.	3600	in	ns	ns25.domaincontrol.com.
+proshowservices.events.	3600	in	ns	ns26.domaincontrol.com.
 prosonix.events.	3600	in	ns	dns200.anycast.me.
 prosonix.events.	3600	in	ns	ns200.anycast.me.
 prospect.events.	3600	in	ns	ns51.domaincontrol.com.
@@ -68101,8 +68090,8 @@ protime.events.	3600	in	ns	ns1038.ui-dns.org.
 protime.events.	3600	in	ns	ns1103.ui-dns.biz.
 protime.events.	3600	in	ns	ns1107.ui-dns.de.
 protime.events.	3600	in	ns	ns1121.ui-dns.com.
-protocol.events.	3600	in	ns	ns1.bodis.com.
-protocol.events.	3600	in	ns	ns2.bodis.com.
+protocol.events.	3600	in	ns	ns1.dns-redirect.com.
+protocol.events.	3600	in	ns	ns2.dns-redirect.com.
 proton.events.	3600	in	ns	ns50371.webempresa.eu.
 proton.events.	3600	in	ns	ns50372.webempresa.eu.
 protospiel.events.	3600	in	ns	ns-1135.awsdns-13.org.
@@ -69799,6 +69788,10 @@ rausch.events.	3600	in	ns	ns-de.1and1-dns.de.
 rausch.events.	3600	in	ns	ns-de.1and1-dns.org.
 rauth.events.	3600	in	ns	ns1.easyname.eu.
 rauth.events.	3600	in	ns	ns2.easyname.eu.
+rava.events.	3600	in	ns	ns-cloud-a1.googledomains.com.
+rava.events.	3600	in	ns	ns-cloud-a2.googledomains.com.
+rava.events.	3600	in	ns	ns-cloud-a3.googledomains.com.
+rava.events.	3600	in	ns	ns-cloud-a4.googledomains.com.
 ravage.events.	3600	in	ns	ns-cloud-b1.googledomains.com.
 ravage.events.	3600	in	ns	ns-cloud-b2.googledomains.com.
 ravage.events.	3600	in	ns	ns-cloud-b3.googledomains.com.
@@ -70523,6 +70516,8 @@ region.events.	3600	in	ns	ns1.afternic.com.
 region.events.	3600	in	ns	ns2.afternic.com.
 regional.events.	3600	in	ns	ns1.parkingcrew.net.
 regional.events.	3600	in	ns	ns2.parkingcrew.net.
+regionale.events.	3600	in	ns	ns25.domaincontrol.com.
+regionale.events.	3600	in	ns	ns26.domaincontrol.com.
 regis.events.	3600	in	ns	dns1.registrar-servers.com.
 regis.events.	3600	in	ns	dns2.registrar-servers.com.
 regista.events.	3600	in	ns	01.dnsv.jp.
@@ -73791,8 +73786,8 @@ satchel.events.	3600	in	ns	chan.ns.cloudflare.com.
 satchel.events.	3600	in	ns	jack.ns.cloudflare.com.
 satelite.events.	3600	in	ns	ns73.domaincontrol.com.
 satelite.events.	3600	in	ns	ns74.domaincontrol.com.
-satellite.events.	3600	in	ns	ns1.siteground.net.
-satellite.events.	3600	in	ns	ns2.siteground.net.
+satellite.events.	3600	in	ns	ns1.dyna-ns.net.
+satellite.events.	3600	in	ns	ns2.dyna-ns.net.
 sathsara.events.	3600	in	ns	ns1.dns-parking.com.
 sathsara.events.	3600	in	ns	ns2.dns-parking.com.
 satin.events.	3600	in	ns	ns1.alldomains.hosting.
@@ -74952,8 +74947,10 @@ seductiongames.events.	3600	in	ns	ns-cloud-e3.googledomains.com.
 seductiongames.events.	3600	in	ns	ns-cloud-e4.googledomains.com.
 sedus.events.	3600	in	ns	ns1.telekom.net.
 sedus.events.	3600	in	ns	pns.dtag.de.
+see.events.	3600	in	ds	32576 8 2 D69AFDFDC239BA4FD12054102DA1AB526DCB4E76E8BEC4BC0DED17B248EA9C29
 see.events.	3600	in	ns	dns200.anycast.me.
 see.events.	3600	in	ns	ns200.anycast.me.
+see.events.	3600	in	rrsig	DS 8 2 3600 20251002065550 20250911055550 24630 events. QPbojpMpTnv/ZPE7EXhwjbOY5cXExwa+DN+MR09red2FxfZDA6Zg7L/8mGTkOptc55ekxSg6YuJ5OSXs0syJWACBWR7dzMyaAlNq2cXYaT5/hmIyzfaIGaE6AtJoFYimrr5eBUPLG5KErkX9zxxisY1Lv1V3bcHwPwDs0GYwWTU=
 seecatering.events.	3600	in	ns	ns12.wixdns.net.
 seecatering.events.	3600	in	ns	ns13.wixdns.net.
 seed.events.	3600	in	ns	ns55.domaincontrol.com.
@@ -77142,8 +77139,8 @@ skylinebricktown.events.	3600	in	ns	ns1.hover.com.
 skylinebricktown.events.	3600	in	ns	ns2.hover.com.
 skyliner.events.	3600	in	ns	ns43.domaincontrol.com.
 skyliner.events.	3600	in	ns	ns44.domaincontrol.com.
-skymoney.events.	3600	in	ns	failed-whois-verification.namecheap.com.
-skymoney.events.	3600	in	ns	verify-contact-details.namecheap.com.
+skymoney.events.	3600	in	ns	dns101.registrar-servers.com.
+skymoney.events.	3600	in	ns	dns102.registrar-servers.com.
 skynet.events.	3600	in	ns	ns1.bluehost.com.
 skynet.events.	3600	in	ns	ns2.bluehost.com.
 skyrise.events.	3600	in	ns	pdns03.domaincontrol.com.
@@ -77448,8 +77445,8 @@ smartgrid.events.	3600	in	ns	ns1.uniregistrymarket.link.
 smartgrid.events.	3600	in	ns	ns2.uniregistrymarket.link.
 smartgun.events.	3600	in	ns	greg.ns.cloudflare.com.
 smartgun.events.	3600	in	ns	jill.ns.cloudflare.com.
-smarthealth.events.	3600	in	ns	ns1.bodis.com.
-smarthealth.events.	3600	in	ns	ns2.bodis.com.
+smarthealth.events.	3600	in	ns	ns1.dns-redirect.com.
+smarthealth.events.	3600	in	ns	ns2.dns-redirect.com.
 smarthospitals.events.	3600	in	ns	ns1.cp-in-12.webhostbox.net.
 smarthospitals.events.	3600	in	ns	ns2.cp-in-12.webhostbox.net.
 smartii.events.	3600	in	ns	ns1.bluehost.com.
@@ -77721,6 +77718,8 @@ snob.events.	3600	in	ns	dns1.registrar-servers.com.
 snob.events.	3600	in	ns	dns2.registrar-servers.com.
 snoball.events.	3600	in	ns	hassan.ns.cloudflare.com.
 snoball.events.	3600	in	ns	kenia.ns.cloudflare.com.
+snow.events.	3600	in	ns	ns1.dns-redirect.com.
+snow.events.	3600	in	ns	ns2.dns-redirect.com.
 snowball.events.	3600	in	ns	dns1.registrar-servers.com.
 snowball.events.	3600	in	ns	dns2.registrar-servers.com.
 snowboard.events.	3600	in	ns	ns1.sedoparking.com.
@@ -77792,8 +77791,8 @@ soby.events.	3600	in	ns	nspro73.hostgator.com.br.
 soc.events.	3600	in	ns	ns.udag.de.
 soc.events.	3600	in	ns	ns.udag.net.
 soc.events.	3600	in	ns	ns.udag.org.
-soca.events.	3600	in	ns	ns1.bodis.com.
-soca.events.	3600	in	ns	ns2.bodis.com.
+soca.events.	3600	in	ns	ns1.dns-redirect.com.
+soca.events.	3600	in	ns	ns2.dns-redirect.com.
 socalpinball.events.	3600	in	ns	dns1.registrar-servers.com.
 socalpinball.events.	3600	in	ns	dns2.registrar-servers.com.
 socaltrail.events.	3600	in	ns	ns47.domaincontrol.com.
@@ -77894,8 +77893,8 @@ socialrepublic.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 2
 socialrising.events.	3600	in	ns	ns.second-ns.com.
 socialrising.events.	3600	in	ns	ns1.your-server.de.
 socialrising.events.	3600	in	ns	ns3.second-ns.de.
-socials.events.	3600	in	ns	ns1.bodis.com.
-socials.events.	3600	in	ns	ns2.bodis.com.
+socials.events.	3600	in	ns	ns1.dns-redirect.com.
+socials.events.	3600	in	ns	ns2.dns-redirect.com.
 socialscape.events.	3600	in	ns	curitiba.ns.porkbun.com.
 socialscape.events.	3600	in	ns	fortaleza.ns.porkbun.com.
 socialscape.events.	3600	in	ns	maceio.ns.porkbun.com.
@@ -78339,6 +78338,10 @@ sooma.events.	3600	in	ns	ns.udag.net.
 sooma.events.	3600	in	ns	ns.udag.org.
 soomore.events.	3600	in	ns	ns1.siteground.net.
 soomore.events.	3600	in	ns	ns2.siteground.net.
+sopha.events.	3600	in	ns	curitiba.ns.porkbun.com.
+sopha.events.	3600	in	ns	fortaleza.ns.porkbun.com.
+sopha.events.	3600	in	ns	maceio.ns.porkbun.com.
+sopha.events.	3600	in	ns	salvador.ns.porkbun.com.
 sophiadmc.events.	3600	in	ns	curitiba.ns.porkbun.com.
 sophiadmc.events.	3600	in	ns	fortaleza.ns.porkbun.com.
 sophiadmc.events.	3600	in	ns	maceio.ns.porkbun.com.
@@ -79985,8 +79988,8 @@ starshade.events.	3600	in	ns	ns1.easyhost.be.
 starshade.events.	3600	in	ns	ns2.easyhost.be.
 starshade.events.	3600	in	ns	ns3.easyhost.be.
 starshade.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. v5jXThM8+Z1vI1/X0wl8/NnycSdV3dSMyqNopPLLwDHr9+eE10C8GeoZKCfrQgMprCNS5r7ImCL+haPXLTNWwK/b7SR75rzgw6GKp77wW4LGcn8yv7UgvooDvlo6Ol29L3BHWSVoa0kc0fl7IQ8IfOddOvGoYoHjObHlupd1SJg=
-starship.events.	3600	in	ns	ns1.bodis.com.
-starship.events.	3600	in	ns	ns2.bodis.com.
+starship.events.	3600	in	ns	ns1.dns-redirect.com.
+starship.events.	3600	in	ns	ns2.dns-redirect.com.
 starstream.events.	3600	in	ns	ns-1373.awsdns-43.org.
 starstream.events.	3600	in	ns	ns-1614.awsdns-09.co.uk.
 starstream.events.	3600	in	ns	ns-439.awsdns-54.com.
@@ -82382,8 +82385,8 @@ taixiuonline.events.	3600	in	ns	ns1.dyna-ns.net.
 taixiuonline.events.	3600	in	ns	ns2.dyna-ns.net.
 tajraj.events.	3600	in	ns	ns8049.hostgator.com.
 tajraj.events.	3600	in	ns	ns8050.hostgator.com.
-tak.events.	3600	in	ns	ns1.bodis.com.
-tak.events.	3600	in	ns	ns2.bodis.com.
+tak.events.	3600	in	ns	ns1.dns-redirect.com.
+tak.events.	3600	in	ns	ns2.dns-redirect.com.
 take-off.events.	3600	in	ns	docks14.rzone.de.
 take-off.events.	3600	in	ns	shades19.rzone.de.
 take2.events.	3600	in	ns	ns43.domaincontrol.com.
@@ -82545,8 +82548,8 @@ tampabay.events.	3600	in	ns	maceio.ns.porkbun.com.
 tampabay.events.	3600	in	ns	salvador.ns.porkbun.com.
 tamykagardens.events.	3600	in	ns	ns1.dns-parking.com.
 tamykagardens.events.	3600	in	ns	ns2.dns-parking.com.
-tandem.events.	3600	in	ns	ns1.bodis.com.
-tandem.events.	3600	in	ns	ns2.bodis.com.
+tandem.events.	3600	in	ns	ns1.dns-redirect.com.
+tandem.events.	3600	in	ns	ns2.dns-redirect.com.
 tandm.events.	3600	in	ns	ns1.livedns.co.uk.
 tandm.events.	3600	in	ns	ns2.livedns.co.uk.
 tandm.events.	3600	in	ns	ns3.livedns.co.uk.
@@ -82840,8 +82843,8 @@ tbconnect.events.	3600	in	ns	ns37.domaincontrol.com.
 tbconnect.events.	3600	in	ns	ns38.domaincontrol.com.
 tbda4fpv3qv9an3gmhuqoh24ir2qofqs.events.	3600	in	nsec3	1 1 0 73 TBF6QJ7DSTFIAKU3VB928V9SV300CQAM NS DS RRSIG
 tbda4fpv3qv9an3gmhuqoh24ir2qofqs.events.	3600	in	rrsig	NSEC3 8 2 3600 20250930153907 20250909143907 24630 events. zfU7Ic1GoTcLLhhvSLDMP2SgmMIQBzsE7V//uUtG7QgQ3we0DWtRVGQBvyqSjgxJ3048mbNV72mOmgPw5xjCYNtca/iSICgwdtAMUaplHBt0A5La5DyfDwDhVk6EOrvEyDynu4DLMyCecv+tKce/Z9xCzaWuYQERaERsiaeS0oM=
-tbe.events.	3600	in	ns	ns1.bodis.com.
-tbe.events.	3600	in	ns	ns2.bodis.com.
+tbe.events.	3600	in	ns	ns1.dns-redirect.com.
+tbe.events.	3600	in	ns	ns2.dns-redirect.com.
 tbf.events.	3600	in	ds	2371 13 2 2911C8E0F4FF2B1408EE893C68A05F89103A97A694E6B3815DAFC4CE31094C9A
 tbf.events.	3600	in	ns	chance.ns.cloudflare.com.
 tbf.events.	3600	in	ns	leanna.ns.cloudflare.com.
@@ -86341,8 +86344,8 @@ toffee.events.	3600	in	ns	rita.ns.cloudflare.com.
 toffee.events.	3600	in	ns	rudy.ns.cloudflare.com.
 togather.events.	3600	in	ns	ns47.domaincontrol.com.
 togather.events.	3600	in	ns	ns48.domaincontrol.com.
-togc.events.	3600	in	ns	ns1.bodis.com.
-togc.events.	3600	in	ns	ns2.bodis.com.
+togc.events.	3600	in	ns	ns1.dns-redirect.com.
+togc.events.	3600	in	ns	ns2.dns-redirect.com.
 togdc.events.	3600	in	ns	ns-1483.awsdns-57.org.
 togdc.events.	3600	in	ns	ns-1810.awsdns-34.co.uk.
 togdc.events.	3600	in	ns	ns-455.awsdns-56.com.
@@ -87771,8 +87774,8 @@ tunes.events.	3600	in	ds	2371 13 2 050AF8F7DDBD69B7BD3C0630D03D2F0A4684F8154BF0E
 tunes.events.	3600	in	ns	konnor.ns.cloudflare.com.
 tunes.events.	3600	in	ns	mary.ns.cloudflare.com.
 tunes.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. CNCFq8JVg0+peJ3dSp5VLzEniQ6dmzXIHeEoQ+7zvqao+av/azpsrr2/sfRi2OXBQMetbITPR7fIzURVdSlZjhj/E7GqTRYA4jKsBXxnzzEDGLdlH5jBiWLirYNZ7XLiGLTBjmQvLftKbFNIFLGN813G3VmRk2zsCwpdpGypy3w=
-tungsten.events.	3600	in	ns	ns1.bodis.com.
-tungsten.events.	3600	in	ns	ns2.bodis.com.
+tungsten.events.	3600	in	ns	ns1.dns-redirect.com.
+tungsten.events.	3600	in	ns	ns2.dns-redirect.com.
 tuning-hannover.events.	3600	in	ns	ns.udag.de.
 tuning-hannover.events.	3600	in	ns	ns.udag.net.
 tuning-hannover.events.	3600	in	ns	ns.udag.org.
@@ -88489,6 +88492,8 @@ ultraxp.events.	3600	in	ns	ns45.domaincontrol.com.
 ultraxp.events.	3600	in	ns	ns46.domaincontrol.com.
 um6p.events.	3600	in	ns	kami.ns.cloudflare.com.
 um6p.events.	3600	in	ns	leonard.ns.cloudflare.com.
+uma.events.	3600	in	ns	ns1.umagroup.co.
+uma.events.	3600	in	ns	ns2.umagroup.co.
 umami.events.	3600	in	ns	ns1.dns-redirect.com.
 umami.events.	3600	in	ns	ns2.dns-redirect.com.
 umass-lowell.events.	3600	in	ns	ns1.digitalocean.com.
@@ -88578,8 +88583,8 @@ uncertain.events.	3600	in	ds	2371 13 2 85569F398359ABB8FF57ED230EF76EE9FC4CE0BFD
 uncertain.events.	3600	in	ns	ned.ns.cloudflare.com.
 uncertain.events.	3600	in	ns	simone.ns.cloudflare.com.
 uncertain.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. Ld5jq1yc8JK/ebLbmCxmdS/ONJn1RZwzHiv4Wq7QTPLnr0tYcgD+KFYpJxJnHP+BGOejXeo5+KXCMTDOOm2lqemI/eukdRAG06Zg3tMtwR+dmfOVSHuQMNkrZ+626ipOiXITIjkTGU+z9JQlRydDL2t/5YJO6XQUgBQEGjCTUUQ=
-unchained.events.	3600	in	ns	ns1.bodis.com.
-unchained.events.	3600	in	ns	ns2.bodis.com.
+unchained.events.	3600	in	ns	ns1.dns-redirect.com.
+unchained.events.	3600	in	ns	ns2.dns-redirect.com.
 uncommon.events.	3600	in	ns	ns01.domaincontrol.com.
 uncommon.events.	3600	in	ns	ns02.domaincontrol.com.
 uncover.events.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -88998,8 +89003,6 @@ unstop.events.	3600	in	ns	ns-1145.awsdns-15.org.
 unstop.events.	3600	in	ns	ns-138.awsdns-17.com.
 unstop.events.	3600	in	ns	ns-1567.awsdns-03.co.uk.
 unstop.events.	3600	in	ns	ns-839.awsdns-40.net.
-unsubscribe.events.	3600	in	ns	ns1-expired.sav.com.
-unsubscribe.events.	3600	in	ns	ns2-expired.sav.com.
 unsw.events.	3600	in	ns	ns1lmy.name.com.
 unsw.events.	3600	in	ns	ns2dky.name.com.
 unsw.events.	3600	in	ns	ns3dgr.name.com.
@@ -90181,6 +90184,8 @@ velvetandrose.events.	3600	in	ns	ns1.vercel-dns.com.
 velvetandrose.events.	3600	in	ns	ns2.vercel-dns.com.
 velvetandvine.events.	3600	in	ns	ns14.wixdns.net.
 velvetandvine.events.	3600	in	ns	ns15.wixdns.net.
+velvetliving.events.	3600	in	ns	ns31.domaincontrol.com.
+velvetliving.events.	3600	in	ns	ns32.domaincontrol.com.
 velvetmusic.events.	3600	in	ns	ns0.wixdns.net.
 velvetmusic.events.	3600	in	ns	ns1.wixdns.net.
 velvetpine.events.	3600	in	ns	connect1.squarespacedns.com.
@@ -90247,6 +90252,8 @@ venturini.events.	3600	in	ns	ns1.bluehost.com.
 venturini.events.	3600	in	ns	ns2.bluehost.com.
 ventus.events.	3600	in	ns	brad.ns.cloudflare.com.
 ventus.events.	3600	in	ns	cecelia.ns.cloudflare.com.
+venty.events.	3600	in	ns	dns1.registrar-servers.com.
+venty.events.	3600	in	ns	dns2.registrar-servers.com.
 venu.events.	3600	in	ns	curitiba.ns.porkbun.com.
 venu.events.	3600	in	ns	fortaleza.ns.porkbun.com.
 venu.events.	3600	in	ns	maceio.ns.porkbun.com.
@@ -90491,6 +90498,10 @@ vexp.events.	3600	in	ns	ns67.domaincontrol.com.
 vexp.events.	3600	in	ns	ns68.domaincontrol.com.
 vexpo.events.	3600	in	ns	ns1.newdiscovery.agency.
 vexpo.events.	3600	in	ns	ns2.newdiscovery.agency.
+vexra.events.	3600	in	ns	curitiba.ns.porkbun.com.
+vexra.events.	3600	in	ns	fortaleza.ns.porkbun.com.
+vexra.events.	3600	in	ns	maceio.ns.porkbun.com.
+vexra.events.	3600	in	ns	salvador.ns.porkbun.com.
 veya.events.	3600	in	ns	ns1.salla.cloud.
 veya.events.	3600	in	ns	ns2.salla.cloud.
 vezeeta.events.	3600	in	ns	ns65.domaincontrol.com.
@@ -92139,10 +92150,8 @@ walzwerk.events.	3600	in	ns	ns1024.ui-dns.org.
 walzwerk.events.	3600	in	ns	ns1111.ui-dns.de.
 walzwerk.events.	3600	in	ns	ns1114.ui-dns.biz.
 walzwerk.events.	3600	in	ns	ns1120.ui-dns.com.
-wam.events.	3600	in	ns	ns1.stackdns.com.
-wam.events.	3600	in	ns	ns2.stackdns.com.
-wam.events.	3600	in	ns	ns3.stackdns.com.
-wam.events.	3600	in	ns	ns4.stackdns.com.
+wam.events.	3600	in	ns	ns1.renewyourexpireddomain.com.
+wam.events.	3600	in	ns	ns2.renewyourexpireddomain.com.
 wandacommunity.events.	3600	in	ns	dns1.registrar-servers.com.
 wandacommunity.events.	3600	in	ns	dns2.registrar-servers.com.
 wandb.events.	3600	in	ns	ns-cloud-a1.googledomains.com.
@@ -92339,8 +92348,10 @@ watch.events.	3600	in	ns	hydrogen.ns.hetzner.com.
 watch.events.	3600	in	ns	oxygen.ns.hetzner.com.
 watchlive.events.	3600	in	ns	nelly.ns.cloudflare.com.
 watchlive.events.	3600	in	ns	yisroel.ns.cloudflare.com.
-watchmy.events.	3600	in	ns	dns1.registrar-servers.com.
-watchmy.events.	3600	in	ns	dns2.registrar-servers.com.
+watchmy.events.	3600	in	ns	ns-1132.awsdns-13.org.
+watchmy.events.	3600	in	ns	ns-116.awsdns-14.com.
+watchmy.events.	3600	in	ns	ns-2013.awsdns-59.co.uk.
+watchmy.events.	3600	in	ns	ns-810.awsdns-37.net.
 watchorgasm.events.	3600	in	ns	ns39.domaincontrol.com.
 watchorgasm.events.	3600	in	ns	ns40.domaincontrol.com.
 watchparty.events.	3600	in	ns	ns77.domaincontrol.com.
@@ -93310,8 +93321,8 @@ westbrook.events.	3600	in	ns	ns6.wixdns.net.
 westbrook.events.	3600	in	ns	ns7.wixdns.net.
 westcare.events.	3600	in	ns	dns1.registrar-servers.com.
 westcare.events.	3600	in	ns	dns2.registrar-servers.com.
-westchester.events.	3600	in	ns	ns1.afternic.com.
-westchester.events.	3600	in	ns	ns2.afternic.com.
+westchester.events.	3600	in	ns	ns1.dyna-ns.net.
+westchester.events.	3600	in	ns	ns2.dyna-ns.net.
 westcoast.events.	3600	in	ns	ns1.afternic.com.
 westcoast.events.	3600	in	ns	ns2.afternic.com.
 westconnex.events.	3600	in	ns	dns1.cscdns.net.
@@ -94580,8 +94591,8 @@ woodfordhall.events.	3600	in	ns	ns55.domaincontrol.com.
 woodfordhall.events.	3600	in	ns	ns56.domaincontrol.com.
 woodgate.events.	3600	in	ns	ns8469.hostgator.com.
 woodgate.events.	3600	in	ns	ns8470.hostgator.com.
-woodland.events.	3600	in	ns	dns1.registrar-servers.com.
-woodland.events.	3600	in	ns	dns2.registrar-servers.com.
+woodland.events.	3600	in	ns	dns101.registrar-servers.com.
+woodland.events.	3600	in	ns	dns102.registrar-servers.com.
 woodplc.events.	3600	in	ns	dns1.safenames.com.
 woodplc.events.	3600	in	ns	dns2.safenames.net.
 woodplc.events.	3600	in	ns	dns3.safenames.org.
@@ -94613,6 +94624,8 @@ woolliesbarn.events.	3600	in	ns	dns2.uk2.net.
 woolliesbarn.events.	3600	in	ns	dns3.uk2.net.
 word.events.	3600	in	ns	ns29.domaincontrol.com.
 word.events.	3600	in	ns	ns30.domaincontrol.com.
+wordofmouth.events.	3600	in	ns	ns67.domaincontrol.com.
+wordofmouth.events.	3600	in	ns	ns68.domaincontrol.com.
 wordsmith.events.	3600	in	ns	ns43.domaincontrol.com.
 wordsmith.events.	3600	in	ns	ns44.domaincontrol.com.
 workamajig.events.	3600	in	ns	ns14.midphase.com.
@@ -96555,8 +96568,8 @@ ziku.events.	3600	in	ns	ns-1475.awsdns-56.org.
 ziku.events.	3600	in	ns	ns-154.awsdns-19.com.
 ziku.events.	3600	in	ns	ns-1696.awsdns-20.co.uk.
 ziku.events.	3600	in	ns	ns-622.awsdns-13.net.
-zilina.events.	3600	in	ns	ns.parktons.com.
-zilina.events.	3600	in	ns	ns2.parktons.com.
+zilina.events.	3600	in	ns	expired1.parktons.com.
+zilina.events.	3600	in	ns	expired2.parktons.com.
 zillion.events.	3600	in	ds	9124 13 2 CEF7490F1B2EDD589D5CEA134C06B21B935B4DF5494C635C9ACF10AF2D319AC4
 zillion.events.	3600	in	ns	ns3.combell.net.
 zillion.events.	3600	in	ns	ns4.combell.net.
@@ -96833,4 +96846,4 @@ zzz.events.	3600	in	ds	2371 13 2 A94C9C5A3F632A64F471C115EBC3FA0F5F531AF4B58FEB2
 zzz.events.	3600	in	ns	bart.ns.cloudflare.com.
 zzz.events.	3600	in	ns	heather.ns.cloudflare.com.
 zzz.events.	3600	in	rrsig	DS 8 2 3600 20250930153907 20250909143907 24630 events. JZ54DSYIBkIvVXdzsGp4F2juNVOsOIEYTHL8mnHL5a8CisO0ajgHksE/YICWZD8nQmf08Nv9zBn9ixhqStfvk01BMTvjXuiTN91KfKT+HNF/k3cWi65i4c7T+yCEHsa2SJnF+k4hESzPzVRm8qoTVQz7c5slnycETSN3O+dQ7RU=
-events.	3600	in	soa	v0n0.nic.events. hostmaster.donuts.email. 1757552624 7200 900 1209600 3600
+events.	3600	in	soa	v0n0.nic.events. hostmaster.donuts.email. 1757638835 7200 900 1209600 3600
