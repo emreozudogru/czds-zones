@@ -1,4 +1,4 @@
-chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757552667 7200 900 1209600 3600
+chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757638875 7200 900 1209600 3600
 0-0.chat.	3600	in	ns	alex.ns.cloudflare.com.
 0-0.chat.	3600	in	ns	elle.ns.cloudflare.com.
 0-o.chat.	3600	in	ns	alex.ns.cloudflare.com.
@@ -151,12 +151,6 @@ chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757552667 7200 900 12
 06vpu0o5u96u134nbmok9isuiapkscch.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. t3f2XPKpBA5q9vlLYa06uqd+VmCi+8rl+fnENOAziCZbN20HHSyy2q5rnUbCALzA6GE9qRsJKrokM2jhysFm86yFFDmkkJOyLF8MXUn2Q8RiuUpePMf42YxwnJhnZ3YGmqsjdvwr+8gcZDzDcJfV0ngxZXlSCDhVliyn9/bMirs=
 07.chat.	3600	in	ns	ns1-show.myhostadmin.net.
 07.chat.	3600	in	ns	ns2-show.myhostadmin.net.
-0707.chat.	3600	in	ns	ns1.myhostadmin.net.
-0707.chat.	3600	in	ns	ns2.myhostadmin.net.
-0707.chat.	3600	in	ns	ns3.myhostadmin.net.
-0707.chat.	3600	in	ns	ns4.myhostadmin.net.
-0707.chat.	3600	in	ns	ns5.myhostadmin.net.
-0707.chat.	3600	in	ns	ns6.myhostadmin.net.
 0719.chat.	3600	in	ns	beacher.dnspod.net.
 0719.chat.	3600	in	ns	scutum.dnspod.net.
 0721.chat.	3600	in	ns	nina.ns.cloudflare.com.
@@ -374,6 +368,8 @@ chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757552667 7200 900 12
 1-1.chat.	3600	in	ns	ns2.imlns.com.
 1-1.chat.	3600	in	ns	ns3.imlns.com.
 1-1.chat.	3600	in	ns	ns4.imlns.com.
+1-foot.chat.	3600	in	ns	dns1.registrar-servers.com.
+1-foot.chat.	3600	in	ns	dns2.registrar-servers.com.
 1.chat.	3600	in	ns	ns1.huaweicloud-dns.cn.
 1.chat.	3600	in	ns	ns1.huaweicloud-dns.com.
 1.chat.	3600	in	ns	ns1.huaweicloud-dns.net.
@@ -676,12 +672,6 @@ chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757552667 7200 900 12
 133t.chat.	3600	in	ns	ns2.dyna-ns.net.
 1347gl7to4la5kbt6bl01sv11ugnp95g.chat.	3600	in	nsec3	1 1 0 73 13S4P33NOSD0FU2JNH2OEN0H0UB0E9RE NS DS RRSIG
 1347gl7to4la5kbt6bl01sv11ugnp95g.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. UMIiSYYm33CvhK6D9Bbx8pcJKb6s99ki2CLpJ+oWSARDx1C9EM3R9wnRHvKtN6lvkR6npKJC0HuP1eWkTZFcdTp5cA45L2WlJ/NePhc9y1T/s7hJoyBmKTNBtAnCTBnHMCgQ4c2q8D+5Ucm9VsPcZAFgKD4caqVGWhCqQ5SORSI=
-136.chat.	3600	in	ns	ns1.myhostadmin.net.
-136.chat.	3600	in	ns	ns2.myhostadmin.net.
-136.chat.	3600	in	ns	ns3.myhostadmin.net.
-136.chat.	3600	in	ns	ns4.myhostadmin.net.
-136.chat.	3600	in	ns	ns5.myhostadmin.net.
-136.chat.	3600	in	ns	ns6.myhostadmin.net.
 1368.chat.	3600	in	ns	ns1.dns-diy.net.
 1368.chat.	3600	in	ns	ns2.dns-diy.net.
 137.chat.	3600	in	ns	ns1.afternic.com.
@@ -762,8 +752,8 @@ chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757552667 7200 900 12
 16.chat.	3600	in	ns	ns2-show.myhostadmin.net.
 16.chat.	3600	in	ns	ns3.myhostadmin.net.
 16.chat.	3600	in	ns	ns4.myhostadmin.net.
-1618.chat.	3600	in	ns	ns1.bodis.com.
-1618.chat.	3600	in	ns	ns2.bodis.com.
+1618.chat.	3600	in	ns	ns1.dns-redirect.com.
+1618.chat.	3600	in	ns	ns2.dns-redirect.com.
 163.chat.	3600	in	ns	ns9.166.com.
 163.chat.	3600	in	ns	ns9.nease.net.
 164.chat.	3600	in	ns	dns17.hichina.com.
@@ -1281,7 +1271,7 @@ chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757552667 7200 900 12
 21a7ons51f04ffsq3pjh0qauts3tpcld.chat.	3600	in	nsec3	1 1 0 73 21AR3T2I3FAE47JK3129SJDJHQTGH6T5 NS DS RRSIG
 21a7ons51f04ffsq3pjh0qauts3tpcld.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. O5WuOE9wmjovZlU9l9VyR6tca7LavGk3z2HofAfDsmG0JLlG24mDcKezx0pRMYtZVasoDliyyS8ngm3EdwPEclw+zqLSrTDV2fB4IDYGIFXMVY049GIsClFjdKAo1o4BzfcQxLXYwWC/jWsGMXo1YPSnUUSgrJBfk9Ypa9DwWkA=
 21ar3t2i3fae47jk3129sjdjhqtgh6t5.chat.	3600	in	nsec3	1 1 0 73 21RJ8SVQKVECMOIBE2J5PSOE0UMOC7J5 NS DS RRSIG
-21ar3t2i3fae47jk3129sjdjhqtgh6t5.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. KLpFtqHrSEodJzTYgk734XAPWWSYMBuzGI+OCBDA6ioqODZ08cz2rX9tw1EgXN1Z2LHGXK2Ynh8n2xW8ttnua8sEFj7F+KQcxmgovFObnbI28yHSZgDhk1QGdrQPmGM+yLLH6rvll3rZ9xvdije/vC0y8Z2y69984zt/9wc/tdA=
+21ar3t2i3fae47jk3129sjdjhqtgh6t5.chat.	3600	in	rrsig	NSEC3 8 2 3600 20251002022125 20250911012125 1986 chat. J2TIgZcwakOthyMbQjV6QZVjMxcfQLXYO3F+E2aIgn1HyX7NEx11W18puDkUkkEuB3PgC25OwHuaU37wKVfmEaCFlIAR3G8kIHTfovqbc0k2Sz8AyRXfeKQwx9eFydhM6oYu0uF14eewoqj/3FoeAnjNS2AgIgmTH9qK7JiQvbI=
 21e8.chat.	3600	in	ns	ns1.vercel-dns.com.
 21e8.chat.	3600	in	ns	ns2.vercel-dns.com.
 21rj8svqkvecmoibe2j5psoe0umoc7j5.chat.	3600	in	nsec3	1 1 0 73 22VVQO7RFMUEOC74T9IFG4I3U4UN3BS7 NS DS RRSIG
@@ -1621,10 +1611,8 @@ chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757552667 7200 900 12
 2stats.chat.	3600	in	ns	ns2.fp261.parklogic.com.
 2svb594q6ebb0nr3i1vp7bc4a40v5v2q.chat.	3600	in	nsec3	1 1 0 73 2TCUTEH3952D255QE7IM7V0TDQKFRA8R NS DS RRSIG
 2svb594q6ebb0nr3i1vp7bc4a40v5v2q.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. nul4AZKFZ3V884pAWV1+E4dKW5drUv0X6e9tGwOmMM6oY6vIKGkJZefHQ2gmK6Wm/DChP7zxDZBxF4j3YfItSD8rm39Ke/zAvljlJ/h2RKuGEkr9NhPDsWTP0g//i7tZxekRjdFifZKDTKww7M8URVmdP8UagGb93W1IoMqKoJo=
-2tcuteh3952d255qe7im7v0tdqkfra8r.chat.	3600	in	nsec3	1 1 0 73 2THBDU5GGVA1JIIF1MSNM2PF1VIMR4KJ NS DS RRSIG
-2tcuteh3952d255qe7im7v0tdqkfra8r.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. QlrZGtbvTbjcOR2Fhq2YhBsRI3qUcjuXHRfdUiqBM+kOLhDJTf2L+rvLD6kDsj9vKyzGQrYbkkD2T6VNLz17pUjIV3onBeI4XntFyfrvPLGe7hKrK3Kki4xi5dHbwilnijIVveAM7uW7ZDSyoDzWJvWyC3d9tOcsX306DOwrJHQ=
-2thbdu5ggva1jiif1msnm2pf1vimr4kj.chat.	3600	in	nsec3	1 1 0 73 2UDJ7R5DFIIART4GTHSLUGTJMSD33AR5 NS DS RRSIG
-2thbdu5ggva1jiif1msnm2pf1vimr4kj.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. p0oHgKp2flvT1DxHLmepm94g0V2o1jHV7krhT+09DQ/bSzxoamBihAacidIimDvjCeagMFAALV1hKoNUfqtp6y0IN0cFZAN5hQSZivYzGTENuHk+kIoNq/pK5dpQGnpXyaznq2mjRdaXd38IutnjNr8EEksvwDX5JxLZ5/9T07E=
+2tcuteh3952d255qe7im7v0tdqkfra8r.chat.	3600	in	nsec3	1 1 0 73 2UDJ7R5DFIIART4GTHSLUGTJMSD33AR5 NS DS RRSIG
+2tcuteh3952d255qe7im7v0tdqkfra8r.chat.	3600	in	rrsig	NSEC3 8 2 3600 20251002224701 20250911214701 1986 chat. eON49yl7vcQfM9IuFbt0WTiEeR5YMv5zXj04A4T3klRI67+guAFnxWeRB4TuY3R5DVZ3wEOB4D+seXvnvzFTPvSMQEC42zl9Pcw1mNA+veaKXL8t4ujZnZKJL17z4GCIaomo5eyKT5Q9Jdls3H+vZUuRL5YsU1egoqdiYb1hK0s=
 2top.chat.	3600	in	ns	colbert.dnspod.net.
 2top.chat.	3600	in	ns	colin.dnspod.net.
 2tw5su.chat.	3600	in	ns	ns1.alidns.com.
@@ -3061,8 +3049,8 @@ chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757552667 7200 900 12
 66.chat.	3600	in	ns	ns2.afternic.com.
 6623.chat.	3600	in	ns	april.ns.cloudflare.com.
 6623.chat.	3600	in	ns	ed.ns.cloudflare.com.
-666.chat.	3600	in	ns	ns1.atom.com.
-666.chat.	3600	in	ns	ns2.atom.com.
+666.chat.	3600	in	ns	ns1-domain-expired.myhostadmin.net.
+666.chat.	3600	in	ns	ns2-domain-expired.myhostadmin.net.
 6666.chat.	3600	in	ns	ns1.dns-parking.com.
 6666.chat.	3600	in	ns	ns2.dns-parking.com.
 666666.chat.	3600	in	ns	header.dnspod.net.
@@ -3100,8 +3088,8 @@ chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757552667 7200 900 12
 6770.chat.	3600	in	ns	ram.dnspod.net.
 678.chat.	3600	in	ns	ns71.domaincontrol.com.
 678.chat.	3600	in	ns	ns72.domaincontrol.com.
-6789.chat.	3600	in	ns	ns1.bodis.com.
-6789.chat.	3600	in	ns	ns2.bodis.com.
+6789.chat.	3600	in	ns	ns1.dns-redirect.com.
+6789.chat.	3600	in	ns	ns2.dns-redirect.com.
 6789vip.chat.	3600	in	ns	ns1.dns-parking.com.
 6789vip.chat.	3600	in	ns	ns2.dns-parking.com.
 678bg.chat.	3600	in	ns	ns1.dnsowl.com.
@@ -3233,6 +3221,9 @@ chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757552667 7200 900 12
 6o1r8321affl8460rdec7mi8uqn61sq4.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. nVFi3NHNwqoKTQqKnur3xwI26G7TjILu2J+vMUYDw0aEjAX+sTXUz+8+Zc2dGqF7TNwlFrbjTkKTciD5kw0zq92dnMHIXpVoqIPB+LV1mngl/3fMfaCMEatR8bK0QnEQsorMJup4QRpfkHWbRSqzwM9UpdhjXhcuINiA2m1U4VM=
 6o1runinj08p8cflq0n5qu8hb1tvpusk.chat.	3600	in	nsec3	1 1 0 73 6PB3937GGQ3FSUG71QQ51RCNSCTLCR3T NS DS RRSIG
 6o1runinj08p8cflq0n5qu8hb1tvpusk.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. oL2oVPT78BkMsd7XrCUy4eogJ1a7OpicORQv1ufdVreFM4IQ/U+gcLPvyiCGvvObr1yCJFt2fyDgLCvqkKTvhALvE6W2tzG5csUZ1TQajP9aiN40hde4qsqJVLHpdlJa8sMWfvkdHfb9VFgArYKewbKpgRXNqdSBuEbFqUfpMm4=
+6obcy.chat.	3600	in	ns	fns1.42.pl.
+6obcy.chat.	3600	in	ns	fns2.42.pl.
+6obcy.chat.	3600	in	ns	ns1.vgr.pl.
 6pb3937ggq3fsug71qq51rcnsctlcr3t.chat.	3600	in	nsec3	1 1 0 73 6PIT47L3SHGPSFM7DFOIJ0NI97HJKTD6 NS DS RRSIG
 6pb3937ggq3fsug71qq51rcnsctlcr3t.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. npF1Rw4Gsb+qZPqC7sHqzR10GAUkHPktNKPfGqSXD22Rh3h2OizHpwAKeEa08GX7+OgJm73yx93v2JVNWt0jS0YVrrXOw3f8FCAfbtFv4paMh8WbR15HDmwA5FbVEUTnWShf0H+mOPZqEwyKnLog70TFXeihqf/Q98CaByzreq0=
 6pit47l3shgpsfm7dfoij0ni97hjktd6.chat.	3600	in	nsec3	1 1 0 73 6PTI7M06DL3KH3M1SIT7FHQ2KAPITDVK NS DS RRSIG
@@ -3992,12 +3983,6 @@ chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757552667 7200 900 12
 8us.chat.	3600	in	ns	pete.ns.cloudflare.com.
 8v.chat.	3600	in	ns	f1g1ns1.dnspod.net.
 8v.chat.	3600	in	ns	f1g1ns2.dnspod.net.
-8vip.chat.	3600	in	ns	ns1.myhostadmin.net.
-8vip.chat.	3600	in	ns	ns2.myhostadmin.net.
-8vip.chat.	3600	in	ns	ns3.myhostadmin.net.
-8vip.chat.	3600	in	ns	ns4.myhostadmin.net.
-8vip.chat.	3600	in	ns	ns5.myhostadmin.net.
-8vip.chat.	3600	in	ns	ns6.myhostadmin.net.
 8x.chat.	3600	in	ns	ns1kwy.name.com.
 8x.chat.	3600	in	ns	ns2jrt.name.com.
 8x.chat.	3600	in	ns	ns3gmt.name.com.
@@ -4950,6 +4935,10 @@ academician.chat.	3600	in	ns	launch1.spaceship.net.
 academician.chat.	3600	in	ns	launch2.spaceship.net.
 academy.chat.	3600	in	ns	ns1.dyna-ns.net.
 academy.chat.	3600	in	ns	ns2.dyna-ns.net.
+acadia.chat.	3600	in	ns	ns-1458.awsdns-54.org.
+acadia.chat.	3600	in	ns	ns-1834.awsdns-37.co.uk.
+acadia.chat.	3600	in	ns	ns-48.awsdns-06.com.
+acadia.chat.	3600	in	ns	ns-881.awsdns-46.net.
 acai.chat.	3600	in	ns	ns1.atom.com.
 acai.chat.	3600	in	ns	ns2.atom.com.
 acandy.chat.	3600	in	ns	bart.dnspod.net.
@@ -5511,12 +5500,8 @@ advisors.chat.	3600	in	ns	maceio.ns.porkbun.com.
 advisors.chat.	3600	in	ns	salvador.ns.porkbun.com.
 advisory.chat.	3600	in	ns	launch1.spaceship.net.
 advisory.chat.	3600	in	ns	launch2.spaceship.net.
-advo.chat.	3600	in	ns	ns1.myhostadmin.net.
-advo.chat.	3600	in	ns	ns2.myhostadmin.net.
-advo.chat.	3600	in	ns	ns3.myhostadmin.net.
-advo.chat.	3600	in	ns	ns4.myhostadmin.net.
-advo.chat.	3600	in	ns	ns5.myhostadmin.net.
-advo.chat.	3600	in	ns	ns6.myhostadmin.net.
+advo.chat.	3600	in	ns	ns1.afternic.com.
+advo.chat.	3600	in	ns	ns2.afternic.com.
 advocates.chat.	3600	in	ns	kim.ns.cloudflare.com.
 advocates.chat.	3600	in	ns	tim.ns.cloudflare.com.
 advoga.chat.	3600	in	ns	cheryl.ns.cloudflare.com.
@@ -7158,8 +7143,8 @@ aiflo.chat.	3600	in	ns	launch2.spaceship.net.
 aiflo.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. MX6Yvy3qS9CglmL82HVcxepQiUZ2CfV8Z4wrzN+yIo8h/JruXwOjSylS30+P8/B/3fs3dx7819WXQGjPWqSEmKCW0gFe0UhF3x292rw3Hb7S64RS+H3Uvg3ZO7T1b50p9un7Dhar6OGM5/4w02a01nIAJ027DltoTKK3Sfe0jM4=
 aiflow.chat.	3600	in	ns	ns1.dns-expired.com.
 aiflow.chat.	3600	in	ns	ns2.dns-expired.com.
-aifluence.chat.	3600	in	ns	dns1.registrar-servers.com.
-aifluence.chat.	3600	in	ns	dns2.registrar-servers.com.
+aifluence.chat.	3600	in	ns	dns101.registrar-servers.com.
+aifluence.chat.	3600	in	ns	dns102.registrar-servers.com.
 aifly.chat.	3600	in	ns	ns1.dns-parking.com.
 aifly.chat.	3600	in	ns	ns2.dns-parking.com.
 aifn.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -7174,8 +7159,8 @@ aiforme.chat.	3600	in	ns	ns03.domaincontrol.com.
 aiforme.chat.	3600	in	ns	ns04.domaincontrol.com.
 aiforseniors.chat.	3600	in	ns	dns1.registrar-servers.com.
 aiforseniors.chat.	3600	in	ns	dns2.registrar-servers.com.
-aiforum.chat.	3600	in	ns	dns25.hichina.com.
-aiforum.chat.	3600	in	ns	dns26.hichina.com.
+aiforum.chat.	3600	in	ns	expirens3.hichina.com.
+aiforum.chat.	3600	in	ns	expirens4.hichina.com.
 aiforx.chat.	3600	in	ns	clara.dnspod.net.
 aiforx.chat.	3600	in	ns	jared.dnspod.net.
 aiforyou.chat.	3600	in	ns	dns29.hichina.com.
@@ -7397,8 +7382,8 @@ aijob.chat.	3600	in	ns	launch1.spaceship.net.
 aijob.chat.	3600	in	ns	launch2.spaceship.net.
 aijobs.chat.	3600	in	ns	dns1.registrar-servers.com.
 aijobs.chat.	3600	in	ns	dns2.registrar-servers.com.
-aika.chat.	3600	in	ns	ns1.bodis.com.
-aika.chat.	3600	in	ns	ns2.bodis.com.
+aika.chat.	3600	in	ns	ns1.dns-redirect.com.
+aika.chat.	3600	in	ns	ns2.dns-redirect.com.
 aikao.chat.	3600	in	ns	dns15.hichina.com.
 aikao.chat.	3600	in	ns	dns16.hichina.com.
 aikb.chat.	3600	in	ns	dns21.hichina.com.
@@ -7946,8 +7931,8 @@ aireveo.chat.	3600	in	ns	dns1.registrar-servers.com.
 aireveo.chat.	3600	in	ns	dns2.registrar-servers.com.
 aireview.chat.	3600	in	ns	ns1.dns-expired.com.
 aireview.chat.	3600	in	ns	ns2.dns-expired.com.
-airfare.chat.	3600	in	ns	ns1.bodis.com.
-airfare.chat.	3600	in	ns	ns2.bodis.com.
+airfare.chat.	3600	in	ns	ns1.dns-redirect.com.
+airfare.chat.	3600	in	ns	ns2.dns-redirect.com.
 airg.chat.	3600	in	ns	ns1.monikerdns.net.
 airg.chat.	3600	in	ns	ns2.monikerdns.net.
 airg.chat.	3600	in	ns	ns3.monikerdns.net.
@@ -8434,12 +8419,6 @@ aiworm.chat.	3600	in	ns	dns1.registrar-servers.com.
 aiworm.chat.	3600	in	ns	dns2.registrar-servers.com.
 aiwow.chat.	3600	in	ns	colin.ns.cloudflare.com.
 aiwow.chat.	3600	in	ns	dina.ns.cloudflare.com.
-aiwrite.chat.	3600	in	ns	ns1.myhostadmin.net.
-aiwrite.chat.	3600	in	ns	ns2.myhostadmin.net.
-aiwrite.chat.	3600	in	ns	ns3.myhostadmin.net.
-aiwrite.chat.	3600	in	ns	ns4.myhostadmin.net.
-aiwrite.chat.	3600	in	ns	ns5.myhostadmin.net.
-aiwrite.chat.	3600	in	ns	ns6.myhostadmin.net.
 aiwriter.chat.	3600	in	ns	dns1.registrar-servers.com.
 aiwriter.chat.	3600	in	ns	dns2.registrar-servers.com.
 aiwriters.chat.	3600	in	ns	dns25.hichina.com.
@@ -8881,6 +8860,8 @@ algebra.chat.	3600	in	ns	ns2.hosting.de.
 algebra.chat.	3600	in	ns	ns3.hosting.de.
 algenie.chat.	3600	in	ns	dns1.registrar-servers.com.
 algenie.chat.	3600	in	ns	dns2.registrar-servers.com.
+alger.chat.	3600	in	ns	ns1.dns-parking.com.
+alger.chat.	3600	in	ns	ns2.dns-parking.com.
 algerian.chat.	3600	in	ns	ns-1040.awsdns-02.org.
 algerian.chat.	3600	in	ns	ns-1614.awsdns-09.co.uk.
 algerian.chat.	3600	in	ns	ns-543.awsdns-03.net.
@@ -8889,6 +8870,8 @@ algerie.chat.	3600	in	ds	22216 8 2 5F633EF56C68BA13C68007059277B42A03895AECA61C8
 algerie.chat.	3600	in	ns	dns107.ovh.net.
 algerie.chat.	3600	in	ns	ns107.ovh.net.
 algerie.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. ndG5q9maMwLySjKHN2GemoCVJudHBI2HTX2apyO8b2lk61IBy+99BFUZ5a+S6AcRXQ9f+pDuvQniFe2we3H45I7fLX7iX3wBLWwMd/lsX9fs1narqfZejGc9d+k/GawYptreLp2HLfPho5qGMx6F/D90Ns21KfzD9rZ1p5XbyYc=
+algiers.chat.	3600	in	ns	ns1.dns-parking.com.
+algiers.chat.	3600	in	ns	ns2.dns-parking.com.
 algo.chat.	3600	in	ns	ns1.afternic.com.
 algo.chat.	3600	in	ns	ns2.afternic.com.
 algo.chat.	3600	in	ns	verification-mzmjchcj28oatbtwxzgpt5.ns101.verify.hn.
@@ -9385,6 +9368,8 @@ alzheimers.chat.	3600	in	ns	dns1.registrar-servers.com.
 alzheimers.chat.	3600	in	ns	dns2.registrar-servers.com.
 am.chat.	3600	in	ns	nineteen.dnspod.net.
 am.chat.	3600	in	ns	shandy.dnspod.net.
+am24.chat.	3600	in	ns	ns67.domaincontrol.com.
+am24.chat.	3600	in	ns	ns68.domaincontrol.com.
 ama.chat.	3600	in	ns	dns1.registrar-servers.com.
 ama.chat.	3600	in	ns	dns2.registrar-servers.com.
 ama2h4815tdpifa759e0n1gvqqpek576.chat.	3600	in	nsec3	1 1 0 73 AMD0V1MTCRB3DLI7EPM4UHRFHO2TAPNE NS DS RRSIG
@@ -9679,8 +9664,8 @@ amora.chat.	3600	in	ns	dns2.registrar-servers.com.
 amora.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. XoAJzlIejAfp+KrVgLoa8oMWKw3wCuDOfhFGC9lvQYEfTPoY9iFmfblyCdRKlsTjAl+KNoN6k2Ze9av1X6kVbjhyPNCbjeLO4h9SsbAACCO77zFH+Q1ki/PIJht8GhMkmFOVKKsqzYLWmwG5AKjp83TXpmRYai2reHSEWlqe/XI=
 amorai.chat.	3600	in	ns	ryan.ns.cloudflare.com.
 amorai.chat.	3600	in	ns	stevie.ns.cloudflare.com.
-amore.chat.	3600	in	ns	ns1.bodis.com.
-amore.chat.	3600	in	ns	ns2.bodis.com.
+amore.chat.	3600	in	ns	ns1.dns-redirect.com.
+amore.chat.	3600	in	ns	ns2.dns-redirect.com.
 amori.chat.	3600	in	ns	nero.ns.cloudflare.com.
 amori.chat.	3600	in	ns	romina.ns.cloudflare.com.
 amoria.chat.	3600	in	ns	dns1.p01.nsone.net.
@@ -10147,8 +10132,8 @@ anitalk.chat.	3600	in	ns	ns-cloud-a2.googledomains.com.
 anitalk.chat.	3600	in	ns	ns-cloud-a3.googledomains.com.
 anitalk.chat.	3600	in	ns	ns-cloud-a4.googledomains.com.
 anitalk.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. cazbyxV0NcLe/RZGGPYlgvysunu1VRuEtv6OGYkVEiX7+iDqZREfbfPPDq5reUKVdIqLojt2fiOs+myoL6st0ez/Y1TILEnh7D7rqxjwPRT1EC08yjTj0H1kixATcKiY/tE9rSnB3KWT3yv5Pn0eOushB0h0n99bLEyyh/lhyo4=
-anjay4d.chat.	3600	in	ns	ns1.bodis.com.
-anjay4d.chat.	3600	in	ns	ns2.bodis.com.
+anjay4d.chat.	3600	in	ns	ns1.dns-redirect.com.
+anjay4d.chat.	3600	in	ns	ns2.dns-redirect.com.
 anjie.chat.	3600	in	ns	dorothy.dnspod.net.
 anjie.chat.	3600	in	ns	lawrence.dnspod.net.
 anjo.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -10268,6 +10253,10 @@ anontalk.chat.	3600	in	ns	ns1.jino.ru.
 anontalk.chat.	3600	in	ns	ns2.jino.ru.
 anontalk.chat.	3600	in	ns	ns3.jino.ru.
 anontalk.chat.	3600	in	ns	ns4.jino.ru.
+anonx.chat.	3600	in	ns	ns-cloud-a1.googledomains.com.
+anonx.chat.	3600	in	ns	ns-cloud-a2.googledomains.com.
+anonx.chat.	3600	in	ns	ns-cloud-a3.googledomains.com.
+anonx.chat.	3600	in	ns	ns-cloud-a4.googledomains.com.
 anonym.chat.	3600	in	ns	ns1.afternic.com.
 anonym.chat.	3600	in	ns	ns2.afternic.com.
 anonyma.chat.	3600	in	ns	ns1.dns-parking.com.
@@ -10363,6 +10352,8 @@ antalk.chat.	3600	in	ns	aspen.ns.cloudflare.com.
 antalk.chat.	3600	in	ns	casey.ns.cloudflare.com.
 antalya.chat.	3600	in	ns	ns1.dns-parking.com.
 antalya.chat.	3600	in	ns	ns2.dns-parking.com.
+antananarivo.chat.	3600	in	ns	ns1.dns-parking.com.
+antananarivo.chat.	3600	in	ns	ns2.dns-parking.com.
 antar.chat.	3600	in	ns	ns09.domaincontrol.com.
 antar.chat.	3600	in	ns	ns10.domaincontrol.com.
 antara.chat.	3600	in	ns	nora.ns.cloudflare.com.
@@ -13828,8 +13819,8 @@ babayaga.chat.	3600	in	ns	dns1.registrar-servers.com.
 babayaga.chat.	3600	in	ns	dns2.registrar-servers.com.
 babb.chat.	3600	in	ns	ns09.domaincontrol.com.
 babb.chat.	3600	in	ns	ns10.domaincontrol.com.
-babbage.chat.	3600	in	ns	dns1.registrar-servers.com.
-babbage.chat.	3600	in	ns	dns2.registrar-servers.com.
+babbage.chat.	3600	in	ns	clayton.ns.cloudflare.com.
+babbage.chat.	3600	in	ns	uma.ns.cloudflare.com.
 babbble.chat.	3600	in	ns	ns-1492.awsdns-58.org.
 babbble.chat.	3600	in	ns	ns-1713.awsdns-22.co.uk.
 babbble.chat.	3600	in	ns	ns-70.awsdns-08.com.
@@ -14232,6 +14223,8 @@ band.chat.	3600	in	ns	ns31.domaincontrol.com.
 band.chat.	3600	in	ns	ns32.domaincontrol.com.
 banda.chat.	3600	in	ns	lana.ns.cloudflare.com.
 banda.chat.	3600	in	ns	leif.ns.cloudflare.com.
+bandar.chat.	3600	in	ns	ns1.dns-parking.com.
+bandar.chat.	3600	in	ns	ns2.dns-parking.com.
 bandi.chat.	3600	in	ns	ns-1223.awsdns-24.org.
 bandi.chat.	3600	in	ns	ns-1901.awsdns-45.co.uk.
 bandi.chat.	3600	in	ns	ns-238.awsdns-29.com.
@@ -14267,8 +14260,8 @@ bangkoksex.chat.	3600	in	ns	ns1dnx.name.com.
 bangkoksex.chat.	3600	in	ns	ns2qvz.name.com.
 bangkoksex.chat.	3600	in	ns	ns3gxy.name.com.
 bangkoksex.chat.	3600	in	ns	ns4jnz.name.com.
-bangla.chat.	3600	in	ns	ns1.bodis.com.
-bangla.chat.	3600	in	ns	ns2.bodis.com.
+bangla.chat.	3600	in	ns	ns1.dns-redirect.com.
+bangla.chat.	3600	in	ns	ns2.dns-redirect.com.
 bangui.chat.	3600	in	ns	ns1.dns-parking.com.
 bangui.chat.	3600	in	ns	ns2.dns-parking.com.
 banjo.chat.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -14397,10 +14390,8 @@ barber.chat.	3600	in	ns	dns1.registrar-servers.com.
 barber.chat.	3600	in	ns	dns2.registrar-servers.com.
 barberia-chatbot.chat.	3600	in	ns	dns1.registrar-servers.com.
 barberia-chatbot.chat.	3600	in	ns	dns2.registrar-servers.com.
-barbers.chat.	3600	in	ns	ns1.afternic.com.
-barbers.chat.	3600	in	ns	ns1.sedoparking.com.
-barbers.chat.	3600	in	ns	ns2.afternic.com.
-barbers.chat.	3600	in	ns	ns2.sedoparking.com.
+barbers.chat.	3600	in	ns	ns1.dns-parking.com.
+barbers.chat.	3600	in	ns	ns2.dns-parking.com.
 barbershop.chat.	3600	in	ns	ns1.dns-parking.com.
 barbershop.chat.	3600	in	ns	ns2.dns-parking.com.
 barbosa.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -15304,6 +15295,8 @@ ben.chat.	3600	in	ns	ns-286.awsdns-35.com.
 ben.chat.	3600	in	ns	ns-682.awsdns-21.net.
 bena-n7azer.chat.	3600	in	ns	etta.ns.cloudflare.com.
 bena-n7azer.chat.	3600	in	ns	fonzie.ns.cloudflare.com.
+benaughty.chat.	3600	in	ns	ns1.dns-parking.com.
+benaughty.chat.	3600	in	ns	ns2.dns-parking.com.
 benben.chat.	3600	in	ns	dns17.hichina.com.
 benben.chat.	3600	in	ns	dns18.hichina.com.
 bench.chat.	3600	in	ns	ns-1502.awsdns-59.org.
@@ -15982,10 +15975,8 @@ bichonopix.chat.	3600	in	ns	austin.ns.cloudflare.com.
 bichonopix.chat.	3600	in	ns	kira.ns.cloudflare.com.
 bicycle.chat.	3600	in	ns	lionel.dnspod.net.
 bicycle.chat.	3600	in	ns	mule.dnspod.net.
-bid.chat.	3600	in	ds	27573 13 2 02C480C7919A4305530CE80316B31E2D5CD5C8DC11171C795A5F2A07ACCA6837
-bid.chat.	3600	in	ns	launch1.spaceship.net.
-bid.chat.	3600	in	ns	launch2.spaceship.net.
-bid.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. B/zzVXvzyGy+fEE3hN92lvwvTJGXd7EzQ8WOz8LRsbZRwCNVO0fcYzHKBihKrjzo2kaqFZ1NtSbAM534+kWTb/nX3VxnCxeWXp0Eh8qWPwB0HaJoLQH3/80ogGSS1GImGRugfQnOyrKHCJ10/8MyML1UHqcsRECbgL1tYGv7SaI=
+bid.chat.	3600	in	ns	ns1.afternic.com.
+bid.chat.	3600	in	ns	ns2.afternic.com.
 bida.chat.	3600	in	ns	dns10.hichina.com.
 bida.chat.	3600	in	ns	dns9.hichina.com.
 bidbeam.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -17668,6 +17659,10 @@ bonett.chat.	3600	in	ns	ns-239.awsdns-29.com.
 bonett.chat.	3600	in	ns	ns-645.awsdns-16.net.
 bonfire.chat.	3600	in	ns	ns73.domaincontrol.com.
 bonfire.chat.	3600	in	ns	ns74.domaincontrol.com.
+bonfires.chat.	3600	in	ns	curitiba.ns.porkbun.com.
+bonfires.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
+bonfires.chat.	3600	in	ns	maceio.ns.porkbun.com.
+bonfires.chat.	3600	in	ns	salvador.ns.porkbun.com.
 bonfireside.chat.	3600	in	ns	ns1.hover.com.
 bonfireside.chat.	3600	in	ns	ns2.hover.com.
 bong.chat.	3600	in	ns	coby.ns.cloudflare.com.
@@ -18053,8 +18048,10 @@ botbusiness.chat.	3600	in	ns	dns3.kinghost.com.br.
 botbusiness.chat.	3600	in	ns	dns4.kinghost.com.br.
 botbusiness.chat.	3600	in	ns	dns5.kinghost.com.br.
 botbusiness.chat.	3600	in	ns	dns6.kinghost.com.br.
-botcan.chat.	3600	in	ns	ns1.vercel-dns.com.
-botcan.chat.	3600	in	ns	ns2.vercel-dns.com.
+botcan.chat.	3600	in	ns	curitiba.ns.porkbun.com.
+botcan.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
+botcan.chat.	3600	in	ns	maceio.ns.porkbun.com.
+botcan.chat.	3600	in	ns	salvador.ns.porkbun.com.
 botcap.chat.	3600	in	ns	ns1.dns-parking.com.
 botcap.chat.	3600	in	ns	ns2.dns-parking.com.
 botchan.chat.	3600	in	ns	01.dnsv.jp.
@@ -18381,6 +18378,8 @@ brad.chat.	3600	in	ns	ns65.domaincontrol.com.
 brad.chat.	3600	in	ns	ns66.domaincontrol.com.
 bradai.chat.	3600	in	ns	ns23.worldnic.com.
 bradai.chat.	3600	in	ns	ns24.worldnic.com.
+bradesconetempresa.chat.	3600	in	ns	melody.ns.cloudflare.com.
+bradesconetempresa.chat.	3600	in	ns	sevki.ns.cloudflare.com.
 bradford.chat.	3600	in	ns	ns1.dns-redirect.com.
 bradford.chat.	3600	in	ns	ns2.dns-redirect.com.
 bradle.chat.	3600	in	ns	ns1kpv.name.com.
@@ -18595,6 +18594,8 @@ brazilvideo.chat.	3600	in	ns	major.ns.cloudflare.com.
 brazilvideo.chat.	3600	in	ns	sue.ns.cloudflare.com.
 brazink.chat.	3600	in	ns	ernest.ns.cloudflare.com.
 brazink.chat.	3600	in	ns	maria.ns.cloudflare.com.
+brazzaville.chat.	3600	in	ns	ns1.dns-parking.com.
+brazzaville.chat.	3600	in	ns	ns2.dns-parking.com.
 brazzers.chat.	3600	in	ns	ns15.abovedomains.com.
 brazzers.chat.	3600	in	ns	ns16.abovedomains.com.
 brb.chat.	3600	in	ds	50020 8 2 EAFD9092AAD57D745079A319E9030FA20F50B21DF1F45E3C945C4257FCCF2566
@@ -18960,6 +18961,8 @@ brum.chat.	3600	in	ns	dns1.registrar-servers.com.
 brum.chat.	3600	in	ns	dns2.registrar-servers.com.
 brunch.chat.	3600	in	ns	ns1.afternic.com.
 brunch.chat.	3600	in	ns	ns2.afternic.com.
+brunei.chat.	3600	in	ns	ns1.dns-parking.com.
+brunei.chat.	3600	in	ns	ns2.dns-parking.com.
 brunningandprice.chat.	3600	in	ns	ns01.domaincontrol.com.
 brunningandprice.chat.	3600	in	ns	ns02.domaincontrol.com.
 bruno.chat.	3600	in	ns	ns1.afternic.com.
@@ -19193,6 +19196,10 @@ buddyagent.chat.	3600	in	ns	curitiba.ns.porkbun.com.
 buddyagent.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
 buddyagent.chat.	3600	in	ns	maceio.ns.porkbun.com.
 buddyagent.chat.	3600	in	ns	salvador.ns.porkbun.com.
+buddyai.chat.	3600	in	ns	ns1cny.name.com.
+buddyai.chat.	3600	in	ns	ns2ckr.name.com.
+buddyai.chat.	3600	in	ns	ns3jkl.name.com.
+buddyai.chat.	3600	in	ns	ns4hny.name.com.
 buddybot.chat.	3600	in	ns	ns59.domaincontrol.com.
 buddybot.chat.	3600	in	ns	ns60.domaincontrol.com.
 buddybuddy.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -19402,8 +19409,8 @@ bunch.chat.	3600	in	ns	ajay.ns.cloudflare.com.
 bunch.chat.	3600	in	ns	cruz.ns.cloudflare.com.
 bunchatv.chat.	3600	in	ns	dns1.registrar-servers.com.
 bunchatv.chat.	3600	in	ns	dns2.registrar-servers.com.
-bunches.chat.	3600	in	ns	ns1.bodis.com.
-bunches.chat.	3600	in	ns	ns2.bodis.com.
+bunches.chat.	3600	in	ns	ns1.dns-redirect.com.
+bunches.chat.	3600	in	ns	ns2.dns-redirect.com.
 bundes.chat.	3600	in	ns	donald.ns.cloudflare.com.
 bundes.chat.	3600	in	ns	tina.ns.cloudflare.com.
 bundesgesetzblatt.chat.	3600	in	ns	docks05.rzone.de.
@@ -20170,8 +20177,8 @@ calln.chat.	3600	in	ns	ns-184.awsdns-23.com.
 calln.chat.	3600	in	ns	ns-699.awsdns-23.net.
 callnest.chat.	3600	in	ns	ns73.domaincontrol.com.
 callnest.chat.	3600	in	ns	ns74.domaincontrol.com.
-callnow.chat.	3600	in	ns	ns1.bodis.com.
-callnow.chat.	3600	in	ns	ns2.bodis.com.
+callnow.chat.	3600	in	ns	ns1.dns-redirect.com.
+callnow.chat.	3600	in	ns	ns2.dns-redirect.com.
 calls.chat.	3600	in	ns	ns73.domaincontrol.com.
 calls.chat.	3600	in	ns	ns74.domaincontrol.com.
 callsign.chat.	3600	in	ns	ns-1166.awsdns-17.org.
@@ -20903,8 +20910,6 @@ carport.chat.	3600	in	ns	ns21.domaincontrol.com.
 carport.chat.	3600	in	ns	ns22.domaincontrol.com.
 carrental.chat.	3600	in	ns	ns65.domaincontrol.com.
 carrental.chat.	3600	in	ns	ns66.domaincontrol.com.
-carrentals.chat.	3600	in	ns	dns101.registrar-servers.com.
-carrentals.chat.	3600	in	ns	dns102.registrar-servers.com.
 carreviews.chat.	3600	in	ns	ns1mpz.name.com.
 carreviews.chat.	3600	in	ns	ns2fgv.name.com.
 carreviews.chat.	3600	in	ns	ns3fgq.name.com.
@@ -20919,8 +20924,8 @@ carrillo.chat.	3600	in	ns	dns1.registrar-servers.com.
 carrillo.chat.	3600	in	ns	dns2.registrar-servers.com.
 carroll.chat.	3600	in	ns	ns1.dns-redirect.com.
 carroll.chat.	3600	in	ns	ns2.dns-redirect.com.
-carrot.chat.	3600	in	ns	expirens3.hichina.com.
-carrot.chat.	3600	in	ns	expirens4.hichina.com.
+carrot.chat.	3600	in	ns	ns1.afternic.com.
+carrot.chat.	3600	in	ns	ns2.afternic.com.
 carrot1122.chat.	3600	in	ns	durian.dnspod.net.
 carrot1122.chat.	3600	in	ns	sector.dnspod.net.
 carrotpatch.chat.	3600	in	ns	fred.ns.cloudflare.com.
@@ -21880,12 +21885,6 @@ changemylife.chat.	3600	in	ns	ns5.wixdns.net.
 changer.chat.	3600	in	ns	ns-115-a.gandi.net.
 changer.chat.	3600	in	ns	ns-131-c.gandi.net.
 changer.chat.	3600	in	ns	ns-90-b.gandi.net.
-changes.chat.	3600	in	ns	ns1.myhostadmin.net.
-changes.chat.	3600	in	ns	ns2.myhostadmin.net.
-changes.chat.	3600	in	ns	ns3.myhostadmin.net.
-changes.chat.	3600	in	ns	ns4.myhostadmin.net.
-changes.chat.	3600	in	ns	ns5.myhostadmin.net.
-changes.chat.	3600	in	ns	ns6.myhostadmin.net.
 changetheroom.chat.	3600	in	ns	ns51.domaincontrol.com.
 changetheroom.chat.	3600	in	ns	ns52.domaincontrol.com.
 changliaoba.chat.	3600	in	ns	ns1cnb.name.com.
@@ -22149,7 +22148,7 @@ chat.	3600	in	nsec3param	1 0 0 73
 chat.	3600	in	rrsig	DNSKEY 8 1 3600 20250930153758 20250909143758 45004 chat. TCCEtU84A6yJ0WmSusjGDQMQhN8VE4uVIBLvSh8AqfWLha772OXUbz7AI6AI62PlReKZGo1pYyE5XsD2UiKdShBwpgkTHkzXiDpx7/bA9qgFSOmv3iEGm3mk1xmhPrHo+aLPl/+zcv+MjuP3wn8SB92DdyuHgdqcHWFOLzQKnHTIa8DOeeWz4LERdSUov4Pd14tJFzQMaTOirgFuC0iZfkw6VwMS7/taU6z6P7AQMw8sCWtdzrQ+EIKWRtgK1gqp9G4aR8nOePLlqeljZsO83pE+ozyHuYIkUE0w0ackVUrpB5ZoPBLMtVKAYsJC6UHkBK9T38lUR4dgLwqg4dqg6A==
 chat.	3600	in	rrsig	NS 8 1 3600 20250930153758 20250909143758 1986 chat. PjzcctydV4zF8OrXPWHMTWrydTRzFFtV4JZRTmDet6tc0ejLcnQQmZW/L6zSYvAQqAuQmcsn3tj7awB4fOgHLBYEjiCZBvt5y8vVHESGwVtDrierJsMmgQFu+pcTar7Q9XpPqU7gDErIP7wg2ZIuO1CWcwrQPRBmSpURNv2xWdo=
 chat.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930153758 20250909143758 1986 chat. JTgnoO2LQfpsLACzep2SQzBqaivSScEoR9XxHDvzLIfgclrS+1dkExcR5LKDcZ1uwvnX1Gyoza9pHYolUPcmBH/yMGGmlxTaakICY1CdgkQirQ7MPgrzp68uKYV/AJtw5A5/YOJFg65S2xANweAgFp9JyoJgomDE6N93Qp4w/lE=
-chat.	3600	in	rrsig	SOA 8 1 3600 20251002010723 20250911000723 1986 chat. hLFKJXCMkX/oJTKAbPL6iEC0bEDnwvlT5nqCtoTnCx2Xq7PiX/cQ8+RsDYG4eG5yfqua95YHTLK3dF2iQRy6ViG+1X1+3qDBshfIZ2uSXl2WZhzydjSHr7to+S2TwaJ7FSA8mMW1B2qZDCeLK/MvC7XjHYWLSpqCqA2f6yC1X2c=
+chat.	3600	in	rrsig	SOA 8 1 3600 20251003010411 20250912000411 1986 chat. s7JYt3QN1G+97F2d3WefrGiHC//q/io2W64yePSmaBQ9O58SrVD+1xgM2rZ1yTJUx4/Z9BO27LlEP7jwKQGFOLOtBQLlg5ZUsRzjjTXq3/Suwwa0lsSGkP8MpI/F7R3/T6aOCl1bkBsj5kkEjpWe7+fF3KoH2aXl6V4jOQlXcb8=
 chat.chat.	3600	in	ns	ns1cnb.name.com.
 chat.chat.	3600	in	ns	ns2bls.name.com.
 chat.chat.	3600	in	ns	ns3cna.name.com.
@@ -22161,8 +22160,8 @@ chat1.chat.	3600	in	ns	ns1.atom.com.
 chat1.chat.	3600	in	ns	ns2.atom.com.
 chat2.chat.	3600	in	ns	docks03.rzone.de.
 chat2.chat.	3600	in	ns	shades11.rzone.de.
-chat24.chat.	3600	in	ns	ns1.renewyourname.net.
-chat24.chat.	3600	in	ns	ns2.renewyourname.net.
+chat24.chat.	3600	in	ns	ns1.siteground.net.
+chat24.chat.	3600	in	ns	ns2.siteground.net.
 chat24h.chat.	3600	in	ns	dns1.namecheaphosting.com.
 chat24h.chat.	3600	in	ns	dns2.namecheaphosting.com.
 chat2707.chat.	3600	in	ns	chad.ns.cloudflare.com.
@@ -22348,8 +22347,6 @@ chatcristiano.chat.	3600	in	ns	andronicus.ns.cloudflare.com.
 chatcristiano.chat.	3600	in	ns	dahlia.ns.cloudflare.com.
 chatdeck.chat.	3600	in	ns	dns1.registrar-servers.com.
 chatdeck.chat.	3600	in	ns	dns2.registrar-servers.com.
-chatdemo.chat.	3600	in	ns	dns101.registrar-servers.com.
-chatdemo.chat.	3600	in	ns	dns102.registrar-servers.com.
 chatdesk.chat.	3600	in	ns	dns1.registrar-servers.com.
 chatdesk.chat.	3600	in	ns	dns2.registrar-servers.com.
 chatdiet.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -23555,10 +23552,8 @@ chicle.chat.	3600	in	ds	64123 13 2 116D47CF989F7CB26132BBAD88AE0FE3428BAA9DA0E26
 chicle.chat.	3600	in	ns	launch1.spaceship.net.
 chicle.chat.	3600	in	ns	launch2.spaceship.net.
 chicle.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. Xop2Rkxkd+n6QYCxpxM5Owe+LftN3lidv2O4x5KhYyYymutu3uBq6CvPabPWVbj41DOYYvxMnbbLJY/2HfSiJafrUhbrJhwjUtzz2fRM7kwRlwscO4JR0I10/AzcVsYWgAsBIkK2jNWBfAKjwxeND4mZ643xTxRSxtGYoJQLyWE=
-chico.chat.	3600	in	ns	ns1.hostoo.io.
-chico.chat.	3600	in	ns	ns2.hostoo.io.
-chico.chat.	3600	in	ns	ns3.hostoo.io.
-chico.chat.	3600	in	ns	ns4.hostoo.io.
+chico.chat.	3600	in	ns	elliot.ns.cloudflare.com.
+chico.chat.	3600	in	ns	hattie.ns.cloudflare.com.
 chicos.chat.	3600	in	ns	dns1.cscdns.net.
 chicos.chat.	3600	in	ns	dns2.cscdns.net.
 chieco.chat.	3600	in	ns	ns-1447.awsdns-52.org.
@@ -23687,8 +23682,10 @@ chirrup.chat.	3600	in	ns	ns-cloud-e2.googledomains.com.
 chirrup.chat.	3600	in	ns	ns-cloud-e3.googledomains.com.
 chirrup.chat.	3600	in	ns	ns-cloud-e4.googledomains.com.
 chirrup.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. gsJxiytqdic/SKOV0eymRJYpGp7YzVl8SB3fpr4l9LPn30pB/YhCE1RqgSRUWBdeDixkJwMmT1GqgUR5qBJjtSXxcFouEA5oUVKSlXmE3PNwAl1dbsZRod5qq4dfV4F0xUIfCljsTiPBl13m07CU9S6JygDS9PyOVqbExObEg6c=
-chisel.chat.	3600	in	ns	ns1.bodis.com.
-chisel.chat.	3600	in	ns	ns2.bodis.com.
+chisel.chat.	3600	in	ns	ns1.dns-redirect.com.
+chisel.chat.	3600	in	ns	ns2.dns-redirect.com.
+chisinau.chat.	3600	in	ns	ns1.dns-parking.com.
+chisinau.chat.	3600	in	ns	ns2.dns-parking.com.
 chit-chat.chat.	3600	in	ns	ns23.domaincontrol.com.
 chit-chat.chat.	3600	in	ns	ns24.domaincontrol.com.
 chit.chat.	3600	in	ns	ns39.domaincontrol.com.
@@ -25048,8 +25045,8 @@ clustr.chat.	3600	in	ns	crystal.ns.cloudflare.com.
 clustr.chat.	3600	in	ns	ernest.ns.cloudflare.com.
 clutch.chat.	3600	in	ns	ns1.dns-redirect.com.
 clutch.chat.	3600	in	ns	ns2.dns-redirect.com.
-clyde.chat.	3600	in	ns	ns1.bodis.com.
-clyde.chat.	3600	in	ns	ns2.bodis.com.
+clyde.chat.	3600	in	ns	ns1.dns-redirect.com.
+clyde.chat.	3600	in	ns	ns2.dns-redirect.com.
 clydra.chat.	3600	in	ns	ns11.domaincontrol.com.
 clydra.chat.	3600	in	ns	ns12.domaincontrol.com.
 clzup.chat.	3600	in	ns	ns7.alidns.com.
@@ -25545,6 +25542,8 @@ coherence.chat.	3600	in	ns	ns73.domaincontrol.com.
 coherence.chat.	3600	in	ns	ns74.domaincontrol.com.
 coherent.chat.	3600	in	ns	launch1.spaceship.net.
 coherent.chat.	3600	in	ns	launch2.spaceship.net.
+cohort.chat.	3600	in	ns	ns1.dns-redirect.com.
+cohort.chat.	3600	in	ns	ns2.dns-redirect.com.
 coil.chat.	3600	in	ns	ns1.iwantmyname.net.
 coil.chat.	3600	in	ns	ns2.iwantmyname.net.
 coil.chat.	3600	in	ns	ns3.iwantmyname.net.
@@ -26108,8 +26107,8 @@ comprar.chat.	3600	in	ns	dns1.registrar-servers.com.
 comprar.chat.	3600	in	ns	dns2.registrar-servers.com.
 compras.chat.	3600	in	ns	ashton.ns.cloudflare.com.
 compras.chat.	3600	in	ns	melinda.ns.cloudflare.com.
-comprasegura.chat.	3600	in	ns	bryce.ns.cloudflare.com.
-comprasegura.chat.	3600	in	ns	luciana.ns.cloudflare.com.
+comprasegura.chat.	3600	in	ns	ns1.dns-expired.com.
+comprasegura.chat.	3600	in	ns	ns2.dns-expired.com.
 comprasnet.chat.	3600	in	ns	ns-cloud-a1.googledomains.com.
 comprasnet.chat.	3600	in	ns	ns-cloud-a2.googledomains.com.
 comprasnet.chat.	3600	in	ns	ns-cloud-a3.googledomains.com.
@@ -26808,6 +26807,8 @@ coolcats.chat.	3600	in	ns	hayes.ns.cloudflare.com.
 coolcats.chat.	3600	in	ns	marjory.ns.cloudflare.com.
 coolcook.chat.	3600	in	ns	kitchen.dnspod.net.
 coolcook.chat.	3600	in	ns	loud.dnspod.net.
+cooler.chat.	3600	in	ns	terry.ns.cloudflare.com.
+cooler.chat.	3600	in	ns	wanda.ns.cloudflare.com.
 coolest.chat.	3600	in	ns	dns1.registrar-servers.com.
 coolest.chat.	3600	in	ns	dns2.registrar-servers.com.
 coolmeet.chat.	3600	in	ns	pdns01.domaincontrol.com.
@@ -27770,8 +27771,8 @@ crosstalk.chat.	3600	in	ns	cleo.ns.cloudflare.com.
 crosstalk.chat.	3600	in	ns	faye.ns.cloudflare.com.
 crossworld.chat.	3600	in	ns	vip1.alidns.com.
 crossworld.chat.	3600	in	ns	vip2.alidns.com.
-crow.chat.	3600	in	ns	ns1.afternic.com.
-crow.chat.	3600	in	ns	ns2.afternic.com.
+crow.chat.	3600	in	ns	expire1.cnolnic.com.
+crow.chat.	3600	in	ns	expire2.cnolnic.com.
 crowd.chat.	3600	in	ns	dns1.registrar-servers.com.
 crowd.chat.	3600	in	ns	dns2.registrar-servers.com.
 crowded.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -29015,6 +29016,8 @@ daivid.chat.	3600	in	ns	ns1.dns-parking.com.
 daivid.chat.	3600	in	ns	ns2.dns-parking.com.
 daiyuting.chat.	3600	in	ns	cetus.dnspod.net.
 daiyuting.chat.	3600	in	ns	washer.dnspod.net.
+daize.chat.	3600	in	ns	ns01.hostnet.nl.
+daize.chat.	3600	in	ns	ns02.hostnet.nl.
 daizw.chat.	3600	in	ns	thaddeus.ns.cloudflare.com.
 daizw.chat.	3600	in	ns	zariyah.ns.cloudflare.com.
 daji.chat.	3600	in	ns	ns1.huaweicloud-dns.cn.
@@ -30167,6 +30170,8 @@ deepedu.chat.	3600	in	ns	earl.dnspod.net.
 deepen.chat.	3600	in	ns	ns1.afternic.com.
 deepen.chat.	3600	in	ns	ns2.afternic.com.
 deepen.chat.	3600	in	ns	verification-6agdvpntkmaq6q5lxgwt92.ns101.verify.hn.
+deepengine.chat.	3600	in	ns	dns25.hichina.com.
+deepengine.chat.	3600	in	ns	dns26.hichina.com.
 deepep.chat.	3600	in	ns	dns21.hichina.com.
 deepep.chat.	3600	in	ns	dns22.hichina.com.
 deeper.chat.	3600	in	ns	dana.ns.cloudflare.com.
@@ -31517,8 +31522,8 @@ digitallyyours.chat.	3600	in	ns	curitiba.ns.porkbun.com.
 digitallyyours.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
 digitallyyours.chat.	3600	in	ns	maceio.ns.porkbun.com.
 digitallyyours.chat.	3600	in	ns	salvador.ns.porkbun.com.
-digitalmarketing.chat.	3600	in	ns	ns1.bodis.com.
-digitalmarketing.chat.	3600	in	ns	ns2.bodis.com.
+digitalmarketing.chat.	3600	in	ns	ns1.dns-redirect.com.
+digitalmarketing.chat.	3600	in	ns	ns2.dns-redirect.com.
 digitalme.chat.	3600	in	ds	55477 8 2 072FAF2FB5DE7A2F37BD2C912F5421AC3748F00ABBA723CF757C1F95560F5786
 digitalme.chat.	3600	in	ns	ns-cloud-e1.googledomains.com.
 digitalme.chat.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -31829,8 +31834,8 @@ disasters.chat.	3600	in	ns	ns1.dns-parking.com.
 disasters.chat.	3600	in	ns	ns2.dns-parking.com.
 disastex.chat.	3600	in	ns	ns1.dns-parking.com.
 disastex.chat.	3600	in	ns	ns2.dns-parking.com.
-disc.chat.	3600	in	ns	ns1.bodis.com.
-disc.chat.	3600	in	ns	ns2.bodis.com.
+disc.chat.	3600	in	ns	ns1.dns-redirect.com.
+disc.chat.	3600	in	ns	ns2.dns-redirect.com.
 discard.chat.	3600	in	ns	dns1.registrar-servers.com.
 discard.chat.	3600	in	ns	dns2.registrar-servers.com.
 discern.chat.	3600	in	ns	dan.ns.cloudflare.com.
@@ -32033,8 +32038,8 @@ divulgar.chat.	3600	in	ns	ns1.dns-parking.com.
 divulgar.chat.	3600	in	ns	ns2.dns-parking.com.
 divvy.chat.	3600	in	ns	launch1.spaceship.net.
 divvy.chat.	3600	in	ns	launch2.spaceship.net.
-diwali.chat.	3600	in	ns	ns1.bodis.com.
-diwali.chat.	3600	in	ns	ns2.bodis.com.
+diwali.chat.	3600	in	ns	ns1.dns-redirect.com.
+diwali.chat.	3600	in	ns	ns2.dns-redirect.com.
 diwan.chat.	3600	in	ds	41989 8 2 19FB46A3C60CBA5080AD9B5D7C0E73FB5182DA7065EA030506A0D201E080630D
 diwan.chat.	3600	in	ns	ns-cloud-c1.googledomains.com.
 diwan.chat.	3600	in	ns	ns-cloud-c2.googledomains.com.
@@ -32051,6 +32056,8 @@ diyforhappy.chat.	3600	in	ns	golf.dnspod.net.
 diyforhappy.chat.	3600	in	ns	train.dnspod.net.
 diyi.chat.	3600	in	ns	dns7.hichina.com.
 diyi.chat.	3600	in	ns	dns8.hichina.com.
+diyip.chat.	3600	in	ns	offside.dnspod.net.
+diyip.chat.	3600	in	ns	remove.dnspod.net.
 diypc.chat.	3600	in	ns	hedy.dnspod.net.
 diypc.chat.	3600	in	ns	latin.dnspod.net.
 diyrepair.chat.	3600	in	ds	7132 8 2 BB16544591B135AF7C0DDBBB910661DF2DCD938CEFDCD60042A99ED967EC5648
@@ -32223,8 +32230,8 @@ dnd.chat.	3600	in	ns	ns-cloud-a4.googledomains.com.
 dnd.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. lBdXfJeAwLsOXxn7nwHTZDk8UW4NB2w8tBoHrf9k7TSfOt1yyELZIlK4J86+BweFgaBGh0VMU3KsZ7Gz2bRMyw8le+hc+d9knrGgpHJ59OYwGYSDRFacMI1/vYfMn+lVlfbz5Wqi56NrWfz/jf8PtY2MxCATJSVearUW2E5SS0I=
 dnfa.chat.	3600	in	ns	door.dnspod.net.
 dnfa.chat.	3600	in	ns	mark.dnspod.net.
-dnfisnr7d2irhgvjlusc53od3fn26cni.chat.	3600	in	nsec3	1 1 0 73 DOFGJIN64B9EEABF6DMSS3K171KM4JP3 NS DS RRSIG
-dnfisnr7d2irhgvjlusc53od3fn26cni.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. PZdGnwHhyln25TZWKqF+j1db8co+FePjSsOeMEtrHamuS+l+GMSCxzFOmCjeY6PSF5QRJDzNC7xWtTFBqxyFbwaaw6a+2eCPrT7S1YXz+sbsEsK3JXmKYteVCpmxFHQ+2cj2NAINQjN9KsSB3do+raeWeQr1xEjQHsjASTV7nJw=
+dnfisnr7d2irhgvjlusc53od3fn26cni.chat.	3600	in	nsec3	1 1 0 73 DQ4ESC1C9J26FG84EGC2JG96OK46S9DL NS DS RRSIG
+dnfisnr7d2irhgvjlusc53od3fn26cni.chat.	3600	in	rrsig	NSEC3 8 2 3600 20251002082036 20250911072036 1986 chat. jt5TWsw5dWLig+8iTmn0zuTCxnuVgQWS0fioUlOFPAwTIj2XC72tzcRP5d6y5zVmc6ZC1k7BvaiCKlQRvLfikrm4Uk/0OhS7dQldDq03S+5xzQBbjWmu35FDKfZexb3eLHSc6Uu+ZDVa6ueX4Lq+nSXoTYyj3KgfekxDjX5IpQw=
 dniprolust.chat.	3600	in	ns	ariella.ns.cloudflare.com.
 dniprolust.chat.	3600	in	ns	jermaine.ns.cloudflare.com.
 dns.chat.	3600	in	ns	brett.ns.cloudflare.com.
@@ -32386,8 +32393,6 @@ does.chat.	3600	in	ns	curitiba.ns.porkbun.com.
 does.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
 does.chat.	3600	in	ns	maceio.ns.porkbun.com.
 does.chat.	3600	in	ns	salvador.ns.porkbun.com.
-dofgjin64b9eeabf6dmss3k171km4jp3.chat.	3600	in	nsec3	1 1 0 73 DQ4ESC1C9J26FG84EGC2JG96OK46S9DL NS DS RRSIG
-dofgjin64b9eeabf6dmss3k171km4jp3.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. omXg7GT82LykZOpuCnceTy0u4Fyt8tIVXwblwbIA7oj5dk4xxMuZc1ayaGKiyv/HnpVX4yIbbvulkLZTLVBgVr34CUGYd7DzuwLG5NnL7XOUsW8BLRObK5BxjyIjWrLbEz5qKqrBKv1RfvR/Xy4SwVyq1Rj+i/l3lh9orK0rK28=
 dofi.chat.	3600	in	ns	ns17.domaincontrol.com.
 dofi.chat.	3600	in	ns	ns18.domaincontrol.com.
 doforyou.chat.	3600	in	ns	eleanore.dnspod.net.
@@ -32584,8 +32589,8 @@ domination.chat.	3600	in	ns	ns67.domaincontrol.com.
 domination.chat.	3600	in	ns	ns68.domaincontrol.com.
 dominguez.chat.	3600	in	ns	dns1.registrar-servers.com.
 dominguez.chat.	3600	in	ns	dns2.registrar-servers.com.
-dominion.chat.	3600	in	ns	dns1.registrar-servers.com.
-dominion.chat.	3600	in	ns	dns2.registrar-servers.com.
+dominion.chat.	3600	in	ns	ns1.siteground.net.
+dominion.chat.	3600	in	ns	ns2.siteground.net.
 domino.chat.	3600	in	ns	ns15.abovedomains.com.
 domino.chat.	3600	in	ns	ns16.abovedomains.com.
 dominos.chat.	3600	in	ns	ns03.dominos.com.
@@ -32675,8 +32680,6 @@ donor.chat.	3600	in	ns	dns1.p09.nsone.net.
 donor.chat.	3600	in	ns	dns2.p09.nsone.net.
 donor.chat.	3600	in	ns	dns3.p09.nsone.net.
 donor.chat.	3600	in	ns	dns4.p09.nsone.net.
-dons.chat.	3600	in	ns	dns101.registrar-servers.com.
-dons.chat.	3600	in	ns	dns102.registrar-servers.com.
 dont.chat.	3600	in	ns	helium.ns.hetzner.de.
 dont.chat.	3600	in	ns	hydrogen.ns.hetzner.com.
 dont.chat.	3600	in	ns	oxygen.ns.hetzner.com.
@@ -33016,8 +33019,8 @@ drago.chat.	3600	in	ns	ns1.dns-parking.com.
 drago.chat.	3600	in	ns	ns2.dns-parking.com.
 dragon-long.chat.	3600	in	ns	extension.dnspod.net.
 dragon-long.chat.	3600	in	ns	papaya.dnspod.net.
-dragon-money.chat.	3600	in	ns	rory.ns.cloudflare.com.
-dragon-money.chat.	3600	in	ns	sonia.ns.cloudflare.com.
+dragon-money.chat.	3600	in	ns	dns101.registrar-servers.com.
+dragon-money.chat.	3600	in	ns	dns102.registrar-servers.com.
 dragon.chat.	3600	in	ns	dawn.ns.cloudflare.com.
 dragon.chat.	3600	in	ns	mark.ns.cloudflare.com.
 dragonball.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -33648,6 +33651,8 @@ duravit.chat.	3600	in	ns	ns.frei.net.
 duravit.chat.	3600	in	ns	ns2.frei.net.
 durian.chat.	3600	in	ns	ns1.afternic.com.
 durian.chat.	3600	in	ns	ns2.afternic.com.
+dushanbe.chat.	3600	in	ns	ns1.dns-parking.com.
+dushanbe.chat.	3600	in	ns	ns2.dns-parking.com.
 dushe.chat.	3600	in	ns	dns15.hichina.com.
 dushe.chat.	3600	in	ns	dns16.hichina.com.
 dusk.chat.	3600	in	ns	begonia.dnspod.net.
@@ -33711,8 +33716,10 @@ dvm.chat.	3600	in	ns	ns-cloud-d2.googledomains.com.
 dvm.chat.	3600	in	ns	ns-cloud-d3.googledomains.com.
 dvm.chat.	3600	in	ns	ns-cloud-d4.googledomains.com.
 dvm.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. NXdFEL1m3HHELvqtO+34wocLRHRAkiK6xGRO2/yfUJqQjeQLReWiil3w5zd1ULA+ApZMtXdeMxelIrnGX/qqviWDYjTn35MkpHRBMXvMVIXWwCnCn+0aLNL9bILZsoHsGNgsNzTxB+a29vuQkHFbYwciBGxuoDiFxFI1BYSuNMI=
-dvng6jl3hfb27eulmjdo1ir7rdb42vgq.chat.	3600	in	nsec3	1 1 0 73 E0UEK4FS3Q6NRKIJDOA9NBQQJPPCS9BD NS DS RRSIG
-dvng6jl3hfb27eulmjdo1ir7rdb42vgq.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. VCz6y1/3PQZqaoQFuJnMvPJ940D3mYN61pkVUt/I8u/HUTneLC3xm5lb3fZM5dmPnd5VtAfojaNMINxvcP6cdbdxRv2OH8eyXVEm9ZPBEn9r65LyS92jugJsfUFKm9wU5DEc1PsxrHgUaZ8z6aXOhu9jDMAxvBq2ld4lYFcZlx4=
+dvng6jl3hfb27eulmjdo1ir7rdb42vgq.chat.	3600	in	nsec3	1 1 0 73 DVRCGC9GIS6350N1G3UST5PNDCTI9NNI NS DS RRSIG
+dvng6jl3hfb27eulmjdo1ir7rdb42vgq.chat.	3600	in	rrsig	NSEC3 8 2 3600 20251003003235 20250911233235 1986 chat. tG9pL/JvVcw9ovaTj+VPHLrYxrQmq05DyMyD0Ib6aR/MAtK+rAnVB3nc0xUpe50Lle/exlO3MrlSQ8TVIjcGXyStKaAUxovLMecv12P9TqRUF5ejaL5nTbl+dDvHoOZ31ctr1vdUBS5OlIWfwVBnT4KwBjdxiS1jCbmBDlq/C3o=
+dvrcgc9gis6350n1g3ust5pndcti9nni.chat.	3600	in	nsec3	1 1 0 73 E0UEK4FS3Q6NRKIJDOA9NBQQJPPCS9BD NS DS RRSIG
+dvrcgc9gis6350n1g3ust5pndcti9nni.chat.	3600	in	rrsig	NSEC3 8 2 3600 20251003003235 20250911233235 1986 chat. jKZ0VyZ9nR321/1VoESg7FypKW8l/EMbwGjoeEiUwGTV0QU84oVFDRh5Be9L+MUyRhcOj6GIkEvYzKGnvZaSuA/aoLVJD9xk19E+j5UmaUpZybm/XwTK5/7hyLw026Qs7Mb03jEXrNk4J41AprBHIPQROLAUDYV9zxoq8RUPobY=
 dw.chat.	3600	in	ns	dns1.hichina.com.
 dw.chat.	3600	in	ns	dns2.hichina.com.
 dwako2koa.chat.	3600	in	ns	ns-1076.awsdns-06.org.
@@ -34021,8 +34028,8 @@ earnest.chat.	3600	in	ns	curitiba.ns.porkbun.com.
 earnest.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
 earnest.chat.	3600	in	ns	maceio.ns.porkbun.com.
 earnest.chat.	3600	in	ns	salvador.ns.porkbun.com.
-earnie.chat.	3600	in	ns	ns57.domaincontrol.com.
-earnie.chat.	3600	in	ns	ns58.domaincontrol.com.
+earnie.chat.	3600	in	ns	ns3.afternic.com.
+earnie.chat.	3600	in	ns	ns4.afternic.com.
 earnings.chat.	3600	in	ns	dns1.registrar-servers.com.
 earnings.chat.	3600	in	ns	dns2.registrar-servers.com.
 earningscalls.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -34918,8 +34925,8 @@ electrapod.chat.	3600	in	ns	dns1.registrar-servers.com.
 electrapod.chat.	3600	in	ns	dns2.registrar-servers.com.
 electric.chat.	3600	in	ns	ns1.afternic.com.
 electric.chat.	3600	in	ns	ns2.afternic.com.
-electrical.chat.	3600	in	ns	ns1.bodis.com.
-electrical.chat.	3600	in	ns	ns2.bodis.com.
+electrical.chat.	3600	in	ns	ns1.dns-redirect.com.
+electrical.chat.	3600	in	ns	ns2.dns-redirect.com.
 electriccar.chat.	3600	in	ns	failed-whois-verification.namecheap.com.
 electriccar.chat.	3600	in	ns	verify-contact-details.namecheap.com.
 electrician.chat.	3600	in	ns	ns15.abovedomains.com.
@@ -36351,8 +36358,8 @@ escorts.chat.	3600	in	ns	ns3.sedoparking.com.
 escorts.chat.	3600	in	ns	ns4.sedoparking.com.
 escrituras.chat.	3600	in	ns	ns1.dominios.expert.
 escrituras.chat.	3600	in	ns	ns2.dominios.expert.
-escrow.chat.	3600	in	ns	ns1.namebrightdns.com.
-escrow.chat.	3600	in	ns	ns2.namebrightdns.com.
+escrow.chat.	3600	in	ns	ns1.afternic.com.
+escrow.chat.	3600	in	ns	ns2.afternic.com.
 escuta.chat.	3600	in	ns	ns1.dns-parking.com.
 escuta.chat.	3600	in	ns	ns2.dns-parking.com.
 ese.chat.	3600	in	ns	ns1bqx.name.com.
@@ -37190,8 +37197,8 @@ explorers.chat.	3600	in	ns	dns1.p01.nsone.net.
 explorers.chat.	3600	in	ns	dns2.p01.nsone.net.
 explorers.chat.	3600	in	ns	dns3.p01.nsone.net.
 explorers.chat.	3600	in	ns	dns4.p01.nsone.net.
-explosion.chat.	3600	in	ns	cap.dnspod.net.
-explosion.chat.	3600	in	ns	plover.dnspod.net.
+explosion.chat.	3600	in	ns	expire01.dnspod.net.
+explosion.chat.	3600	in	ns	expire02.dnspod.net.
 expo.chat.	3600	in	ns	ns1.afternic.com.
 expo.chat.	3600	in	ns	ns2.afternic.com.
 expocitydubai.chat.	3600	in	ns	ns07.domaincontrol.com.
@@ -37495,8 +37502,8 @@ fabula.chat.	3600	in	ns	cruz.ns.cloudflare.com.
 fabula.chat.	3600	in	ns	trey.ns.cloudflare.com.
 fabuleuxlab.chat.	3600	in	ns	dns10.ovh.ca.
 fabuleuxlab.chat.	3600	in	ns	ns10.ovh.ca.
-fac6pdnno7kqjds6hog211t01j9orugn.chat.	3600	in	nsec3	1 1 0 73 FARAHEK7CBS8GJJCONERD64PB70JT8VI NS DS RRSIG
-fac6pdnno7kqjds6hog211t01j9orugn.chat.	3600	in	rrsig	NSEC3 8 2 3600 20251001140147 20250910130147 1986 chat. YYMCARnND9CabS1h6BtVy7i9sAERz5w+3nr3jcFF78iMdQWREOcqNWKbyRsIjTkR3pYb6h9h7ZMyjsX3ms4Fbfg0jFzusuU42SBZ2ousUtD1NkS8g8J2rWwNaeH9vF3PePey3gyKG1zCkX8ePxmQylgzaEoaD6ccB/zb3QHT0cA=
+fac6pdnno7kqjds6hog211t01j9orugn.chat.	3600	in	nsec3	1 1 0 73 FAGN0VU54S6D7Q6V01GAAJIN6TRUEEUV NS DS RRSIG
+fac6pdnno7kqjds6hog211t01j9orugn.chat.	3600	in	rrsig	NSEC3 8 2 3600 20251002140909 20250911130909 1986 chat. g4JAtoXcwfYB0Wn/AIkMfrzZ9GPY7edx9jfrENLwfcn7ui87RbZH6PQZIc8BlTqp43ecDqfYEtlUQ566Z2egl7YUER4lTYTRHYQLDdJLYqTU1NJw1F+siyrsfQRGRVzFkGWmuK1FkBKUGp7YyHPKwEILp5mqKeJpc4bno4K3cu4=
 facade-showcase.chat.	3600	in	ns	riya.ns.cloudflare.com.
 facade-showcase.chat.	3600	in	ns	stan.ns.cloudflare.com.
 facade.chat.	3600	in	ns	evelyn.ns.cloudflare.com.
@@ -37644,6 +37651,8 @@ faggot.chat.	3600	in	ns	peyton.ns.cloudflare.com.
 faggot.chat.	3600	in	ns	teagan.ns.cloudflare.com.
 faggots.chat.	3600	in	ns	ns1.dns-parking.com.
 faggots.chat.	3600	in	ns	ns2.dns-parking.com.
+fagn0vu54s6d7q6v01gaajin6trueeuv.chat.	3600	in	nsec3	1 1 0 73 FARAHEK7CBS8GJJCONERD64PB70JT8VI NS DS RRSIG
+fagn0vu54s6d7q6v01gaajin6trueeuv.chat.	3600	in	rrsig	NSEC3 8 2 3600 20251002140909 20250911130909 1986 chat. Srdk+cjNJl8YX0+yp8zhc2SwUvRIqQkK+yAM+iwarFvTTStIiMUvthdLENtGOFaM5zYxLs3/Xh/Pz9vF7A8kp4dyicC6Rq3sqgZlbzFvH3erP9iOZRQ5akW60Zv+nU8WqYm834a6W6Xni5w5D1oha0n2pdeTlAOJO2AB9Xg13Zg=
 faguanjia.chat.	3600	in	ns	dns11.hichina.com.
 faguanjia.chat.	3600	in	ns	dns12.hichina.com.
 faheng.chat.	3600	in	ns	dns11.hichina.com.
@@ -38023,6 +38032,8 @@ far.chat.	3600	in	ns	ns1.dreamhost.com.
 far.chat.	3600	in	ns	ns2.dreamhost.com.
 fara.chat.	3600	in	ns	ns15.abovedomains.com.
 fara.chat.	3600	in	ns	ns16.abovedomains.com.
+faraday.chat.	3600	in	ns	ns1.dns-redirect.com.
+faraday.chat.	3600	in	ns	ns2.dns-redirect.com.
 farah.chat.	3600	in	ns	fridge.dnspod.net.
 farah.chat.	3600	in	ns	yacht.dnspod.net.
 farahek7cbs8gjjconerd64pb70jt8vi.chat.	3600	in	nsec3	1 1 0 73 FAT8L9SRA03B8ELPLDHAMVLDOA91JVUJ NS DS RRSIG
@@ -38438,6 +38449,12 @@ feiai.chat.	3600	in	ns	aeroplane.dnspod.net.
 feiai.chat.	3600	in	ns	soup.dnspod.net.
 feidexiang.chat.	3600	in	ns	dragofly.dnspod.net.
 feidexiang.chat.	3600	in	ns	jellyfish.dnspod.net.
+feifan.chat.	3600	in	ns	ns1.myhostadmin.net.
+feifan.chat.	3600	in	ns	ns2.myhostadmin.net.
+feifan.chat.	3600	in	ns	ns3.myhostadmin.net.
+feifan.chat.	3600	in	ns	ns4.myhostadmin.net.
+feifan.chat.	3600	in	ns	ns5.myhostadmin.net.
+feifan.chat.	3600	in	ns	ns6.myhostadmin.net.
 feiji.chat.	3600	in	ns	dns17.hichina.com.
 feiji.chat.	3600	in	ns	dns18.hichina.com.
 feilongyun.chat.	3600	in	ns	ns1.huaweicloud-dns.cn.
@@ -38949,6 +38966,10 @@ fileai.chat.	3600	in	ns	dns101.registrar-servers.com.
 fileai.chat.	3600	in	ns	dns102.registrar-servers.com.
 filecoin.chat.	3600	in	ns	ns09.domaincontrol.com.
 filecoin.chat.	3600	in	ns	ns10.domaincontrol.com.
+filegpt.chat.	3600	in	ns	ns1.myhostadmin.net.
+filegpt.chat.	3600	in	ns	ns2.myhostadmin.net.
+filegpt.chat.	3600	in	ns	ns3.myhostadmin.net.
+filegpt.chat.	3600	in	ns	ns4.myhostadmin.net.
 filegpt.chat.	3600	in	ns	ns5.myhostadmin.net.
 filegpt.chat.	3600	in	ns	ns6.myhostadmin.net.
 filelist.chat.	3600	in	ns	beth.ns.cloudflare.com.
@@ -40769,8 +40790,10 @@ freebee.chat.	3600	in	ns	curitiba.ns.porkbun.com.
 freebee.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
 freebee.chat.	3600	in	ns	maceio.ns.porkbun.com.
 freebee.chat.	3600	in	ns	salvador.ns.porkbun.com.
+freebet.chat.	3600	in	ds	2371 13 2 FB47C0B96C99DA42BA209186EABF414AAF217D4B86B68754A487B2BA550E2BBE
 freebet.chat.	3600	in	ns	finley.ns.cloudflare.com.
 freebet.chat.	3600	in	ns	izabella.ns.cloudflare.com.
+freebet.chat.	3600	in	rrsig	DS 8 2 3600 20251003003235 20250911233235 1986 chat. i3jWY/PJdEvIHeMY+5hFxlcSN/hjy0K+UerlxJdRCvRsuMRvZd5+7XHOz3rNGTU+5TmuI0B9nnccd9PU30Q199QdzjOI/ZQALU879FBl8kyBB9FeEGZdT49IbI3Ucw/C5nststmoQmpowRcwNsRmzXntDk1vn0JsqS7YxnaGoZU=
 freebets.chat.	3600	in	ns	ns29.domaincontrol.com.
 freebets.chat.	3600	in	ns	ns30.domaincontrol.com.
 freebie.chat.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -40843,8 +40866,8 @@ freek.chat.	3600	in	ns	ns-cloud-b1.googledomains.com.
 freek.chat.	3600	in	ns	ns-cloud-b2.googledomains.com.
 freek.chat.	3600	in	ns	ns-cloud-b3.googledomains.com.
 freek.chat.	3600	in	ns	ns-cloud-b4.googledomains.com.
-freelance.chat.	3600	in	ns	expirens3.hichina.com.
-freelance.chat.	3600	in	ns	expirens4.hichina.com.
+freelance.chat.	3600	in	ns	ns1.afternic.com.
+freelance.chat.	3600	in	ns	ns2.afternic.com.
 freelancer.chat.	3600	in	ns	dns1.registrar-servers.com.
 freelancer.chat.	3600	in	ns	dns2.registrar-servers.com.
 freelea.chat.	3600	in	ns	ns1gjz.name.com.
@@ -41585,8 +41608,10 @@ fuwa.chat.	3600	in	ns	earl.ns.cloudflare.com.
 fuwa.chat.	3600	in	ns	maria.ns.cloudflare.com.
 fuwang.chat.	3600	in	ns	turkey.dnspod.net.
 fuwang.chat.	3600	in	ns	violet.dnspod.net.
-fuwu.chat.	3600	in	ns	dns29.hichina.com.
-fuwu.chat.	3600	in	ns	dns30.hichina.com.
+fuwu.chat.	3600	in	ns	ns1.myhostadmin.net.
+fuwu.chat.	3600	in	ns	ns2.myhostadmin.net.
+fuwu.chat.	3600	in	ns	ns3.myhostadmin.net.
+fuwu.chat.	3600	in	ns	ns4.myhostadmin.net.
 fux.chat.	3600	in	ns	greg.ns.cloudflare.com.
 fux.chat.	3600	in	ns	sima.ns.cloudflare.com.
 fuxi.chat.	3600	in	ns	doll.dnspod.net.
@@ -41664,6 +41689,8 @@ fyir.chat.	3600	in	ns	ns29.domaincontrol.com.
 fyir.chat.	3600	in	ns	ns30.domaincontrol.com.
 fyire.chat.	3600	in	ns	ns27.domaincontrol.com.
 fyire.chat.	3600	in	ns	ns28.domaincontrol.com.
+fyk861027.chat.	3600	in	ns	caelum.dnspod.net.
+fyk861027.chat.	3600	in	ns	tobey.dnspod.net.
 fyllo.chat.	3600	in	ns	ns-1491.awsdns-58.org.
 fyllo.chat.	3600	in	ns	ns-1759.awsdns-27.co.uk.
 fyllo.chat.	3600	in	ns	ns-724.awsdns-26.net.
@@ -43159,8 +43186,6 @@ gg777.chat.	3600	in	ns	anastasia.ns.cloudflare.com.
 gg777.chat.	3600	in	ns	aragorn.ns.cloudflare.com.
 gg789.chat.	3600	in	ns	ns63.domaincontrol.com.
 gg789.chat.	3600	in	ns	ns64.domaincontrol.com.
-ggbond.chat.	3600	in	ns	expire01.dnspod.net.
-ggbond.chat.	3600	in	ns	expire02.dnspod.net.
 ggebll1ottik99o81dm4vgmcigp6d9e0.chat.	3600	in	nsec3	1 1 0 73 GGGT8T2FAG6R2VR49UAJDV84V07K61KQ NS DS RRSIG
 ggebll1ottik99o81dm4vgmcigp6d9e0.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. OjkSVmnFH2lqicKkfx97BAMKmBuEK4xqlctD8mkj7ubcSRekEC6Uoa2YSXnDP+8bJF4q4X2vmniZFukLBm/Hh772XVaH4c4s3XwrLjeb96aBwTBUpvlE06X10DYDTayj2qaNzB3FzhnmZwht5QNwcglxLbqMC/lbMmzrVTA6Nac=
 ggez.chat.	3600	in	ns	dns15.hichina.com.
@@ -43697,10 +43722,8 @@ globalcell.chat.	3600	in	ns	albert.ns.cloudflare.com.
 globalcell.chat.	3600	in	ns	ruth.ns.cloudflare.com.
 globalgpt.chat.	3600	in	ns	launch1.spaceship.net.
 globalgpt.chat.	3600	in	ns	launch2.spaceship.net.
-globalimpact.chat.	3600	in	ns	ns-cloud-a1.googledomains.com.
-globalimpact.chat.	3600	in	ns	ns-cloud-a2.googledomains.com.
-globalimpact.chat.	3600	in	ns	ns-cloud-a3.googledomains.com.
-globalimpact.chat.	3600	in	ns	ns-cloud-a4.googledomains.com.
+globalimpact.chat.	3600	in	ns	pdns03.domaincontrol.com.
+globalimpact.chat.	3600	in	ns	pdns04.domaincontrol.com.
 globalis.chat.	3600	in	ds	2371 13 2 8155863DE74A07E17DAC139AC54BBE18BF36A43EC5ED1687B3D4D85E0B99F557
 globalis.chat.	3600	in	ns	jay.ns.cloudflare.com.
 globalis.chat.	3600	in	ns	lady.ns.cloudflare.com.
@@ -43904,8 +43927,8 @@ goai.chat.	3600	in	ns	dns1.registrar-servers.com.
 goai.chat.	3600	in	ns	dns2.registrar-servers.com.
 goal-mine.chat.	3600	in	ns	ns49.domaincontrol.com.
 goal-mine.chat.	3600	in	ns	ns50.domaincontrol.com.
-goal.chat.	3600	in	ns	expirens3.hichina.com.
-goal.chat.	3600	in	ns	expirens4.hichina.com.
+goal.chat.	3600	in	ns	ns1.afternic.com.
+goal.chat.	3600	in	ns	ns2.afternic.com.
 goal123.chat.	3600	in	ns	rory.ns.cloudflare.com.
 goal123.chat.	3600	in	ns	teresa.ns.cloudflare.com.
 goalmine.chat.	3600	in	ns	ns59.domaincontrol.com.
@@ -44700,6 +44723,10 @@ gptnet.chat.	3600	in	ns	ns1.huaweicloud-dns.org.
 gptnet.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. ZlsSwKd7SD/IsH+KRImQtzih4q+QTP32T0MMM5DgLZioE5SmlSsWUD2wPJrsc8fq9/JW6yOqbEpMdxOpZ6DjkIvuMSHm4KzaGmQQOPT685yRno1pVyaZ0vPWFmP63ejOJcgU+5L0Au004pEVbgMO7bHwjkuXA3B1zIRBMR5/PV8=
 gptnew.chat.	3600	in	ns	ns1.myhostadmin.net.
 gptnew.chat.	3600	in	ns	ns2.myhostadmin.net.
+gptnew.chat.	3600	in	ns	ns3.myhostadmin.net.
+gptnew.chat.	3600	in	ns	ns4.myhostadmin.net.
+gptnew.chat.	3600	in	ns	ns5.myhostadmin.net.
+gptnew.chat.	3600	in	ns	ns6.myhostadmin.net.
 gptnow.chat.	3600	in	ns	curitiba.ns.porkbun.com.
 gptnow.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
 gptnow.chat.	3600	in	ns	maceio.ns.porkbun.com.
@@ -46151,8 +46178,8 @@ haige888.chat.	3600	in	ns	chop.dnspod.net.
 haige888.chat.	3600	in	ns	nitrogen.dnspod.net.
 haigent.chat.	3600	in	ns	cerdar.dnspod.net.
 haigent.chat.	3600	in	ns	daniel.dnspod.net.
-haikou.chat.	3600	in	ns	expirens3.hichina.com.
-haikou.chat.	3600	in	ns	expirens4.hichina.com.
+haikou.chat.	3600	in	ns	dns31.hichina.com.
+haikou.chat.	3600	in	ns	dns32.hichina.com.
 haikouch.chat.	3600	in	ns	charlotte.dnspod.net.
 haikouch.chat.	3600	in	ns	gustave.dnspod.net.
 haiku.chat.	3600	in	ns	ns1.afternic.com.
@@ -46293,6 +46320,8 @@ hamal.chat.	3600	in	ns	dns1.registrar-servers.com.
 hamal.chat.	3600	in	ns	dns2.registrar-servers.com.
 hamburg.chat.	3600	in	ns	dns1.registrar-servers.com.
 hamburg.chat.	3600	in	ns	dns2.registrar-servers.com.
+hami.chat.	3600	in	ns	ns1.dns-redirect.com.
+hami.chat.	3600	in	ns	ns2.dns-redirect.com.
 hamisha.chat.	3600	in	ns	elisabeth.ns.cloudflare.com.
 hamisha.chat.	3600	in	ns	morgan.ns.cloudflare.com.
 hammer.chat.	3600	in	ns	cns1.alfahosting.info.
@@ -46504,8 +46533,8 @@ haoyu.chat.	3600	in	ns	helen.dnspod.net.
 haoyu.chat.	3600	in	ns	narrow.dnspod.net.
 haoyue.chat.	3600	in	ns	eight.dnspod.net.
 haoyue.chat.	3600	in	ns	volleyball.dnspod.net.
-haoyun.chat.	3600	in	ns	eagle.dnspod.net.
-haoyun.chat.	3600	in	ns	swordfish.dnspod.net.
+haoyun.chat.	3600	in	ns	adrian.ns.cloudflare.com.
+haoyun.chat.	3600	in	ns	pablo.ns.cloudflare.com.
 haozhumaoyi.chat.	3600	in	ns	radian.dnspod.net.
 haozhumaoyi.chat.	3600	in	ns	steak.dnspod.net.
 haozhun.chat.	3600	in	ns	dns10.hichina.com.
@@ -47800,8 +47829,6 @@ heypal.chat.	3600	in	ns	ns-cloud-a2.googledomains.com.
 heypal.chat.	3600	in	ns	ns-cloud-a3.googledomains.com.
 heypal.chat.	3600	in	ns	ns-cloud-a4.googledomains.com.
 heypal.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. jOrVu3xp62nubPIKR7z5xWSUt31PawwcOfIkvZxriFW/X5QSIpBtiHLRI9RquDbN8crwkqy5iCOo2gqbXH/YnoQq2QSqTDdg18JIEY1lgnliKW0h0c+ROBZzPJeZPB6HPfFxFpo3TK87AkvGjy0r7kQWGbEzGGbqcz7zHrT8lfo=
-heypanda.chat.	3600	in	ns	dns101.registrar-servers.com.
-heypanda.chat.	3600	in	ns	dns102.registrar-servers.com.
 heysally.chat.	3600	in	ns	dns101.registrar-servers.com.
 heysally.chat.	3600	in	ns	dns102.registrar-servers.com.
 heyscotty.chat.	3600	in	ns	ns1.hover.com.
@@ -48808,8 +48835,8 @@ homies.chat.	3600	in	ds	26466 13 2 BAA1ADBC2BABDC48C81911C80BCC487F8E651CDEE6EA9
 homies.chat.	3600	in	ns	ns3.epik.com.
 homies.chat.	3600	in	ns	ns4.epik.com.
 homies.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. Ech66bFTWIPMogS7V8XSKLnXo03Z7vzaav2k+dr3sTwE0TbLcRZw8yloNZrSWQwFB9fl3F6vyiy0eB//SanXj8AaIFL+plsyK72Mw8+ZcWRqqXDPJePtJODJWsIIYsQaFu7KivbFRwBpc69v8H8fXF5uKjhh/1QeQppUW9dc/P8=
-homietec.chat.	3600	in	ns	dns29.hichina.com.
-homietec.chat.	3600	in	ns	dns30.hichina.com.
+homietec.chat.	3600	in	ns	expirens3.hichina.com.
+homietec.chat.	3600	in	ns	expirens4.hichina.com.
 hominid.chat.	3600	in	ns	launch1.spaceship.net.
 hominid.chat.	3600	in	ns	launch2.spaceship.net.
 homki.chat.	3600	in	ns	ns-1215.awsdns-23.org.
@@ -49782,12 +49809,6 @@ huichazk.chat.	3600	in	ns	n1.xundns.com.
 huichazk.chat.	3600	in	ns	n2.xundns.com.
 huihuang.chat.	3600	in	ns	hydrogen.dnspod.net.
 huihuang.chat.	3600	in	ns	louise.dnspod.net.
-huijia.chat.	3600	in	ns	ns1.myhostadmin.net.
-huijia.chat.	3600	in	ns	ns2.myhostadmin.net.
-huijia.chat.	3600	in	ns	ns3.myhostadmin.net.
-huijia.chat.	3600	in	ns	ns4.myhostadmin.net.
-huijia.chat.	3600	in	ns	ns5.myhostadmin.net.
-huijia.chat.	3600	in	ns	ns6.myhostadmin.net.
 huijie.chat.	3600	in	ns	internship.dnspod.net.
 huijie.chat.	3600	in	ns	key.dnspod.net.
 huila.chat.	3600	in	ns	ns1.domain.com.
@@ -49871,10 +49892,8 @@ humain.chat.	3600	in	ns	dns1.registrar-servers.com.
 humain.chat.	3600	in	ns	dns2.registrar-servers.com.
 humainai.chat.	3600	in	ns	ns1.afternic.com.
 humainai.chat.	3600	in	ns	ns2.afternic.com.
-humainchat.chat.	3600	in	ds	40110 13 2 4418EFA98447A7CCE2D34A2246DEF342EAB03330CC865B9A77D1E9DF2715B4AA
-humainchat.chat.	3600	in	ns	launch1.spaceship.net.
-humainchat.chat.	3600	in	ns	launch2.spaceship.net.
-humainchat.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. MF8X7Qes4GcJg3pK6gVl/dxqpNaiiu5jJHGlD3+/IlhrUryJPjkX3O0n3slzyum1/MqALBhUME1Wxsgfg+Gv6+3UR+8etsbX5J4x6FE9rjiNssgs0boI0uPNdA1HeVrrRfiUT6G1wmvDPshGRAGv5MgI8iUlC5c1FmivuBrDjWs=
+humainchat.chat.	3600	in	ns	ns1.afternic.com.
+humainchat.chat.	3600	in	ns	ns2.afternic.com.
 humainos.chat.	3600	in	ds	6898 13 2 678ECA0FA34AF60EAA4D25F65331DC1B1203E22B517828C1A0C4B7DE0C9B642F
 humainos.chat.	3600	in	ns	launch1.spaceship.net.
 humainos.chat.	3600	in	ns	launch2.spaceship.net.
@@ -51709,8 +51728,8 @@ indic.chat.	3600	in	ns	dns1.registrar-servers.com.
 indic.chat.	3600	in	ns	dns2.registrar-servers.com.
 indicai.chat.	3600	in	ns	ns1.dns-parking.com.
 indicai.chat.	3600	in	ns	ns2.dns-parking.com.
-indicate.chat.	3600	in	ns	dns1.registrar-servers.com.
-indicate.chat.	3600	in	ns	dns2.registrar-servers.com.
+indicate.chat.	3600	in	ns	dns101.registrar-servers.com.
+indicate.chat.	3600	in	ns	dns102.registrar-servers.com.
 indicio.chat.	3600	in	ns	ns1.domaincom-default.domainparkingserver.net.
 indicio.chat.	3600	in	ns	ns2.domaincom-default.domainparkingserver.net.
 indie.chat.	3600	in	ns	ns1kwy.name.com.
@@ -52075,8 +52094,8 @@ innoshop.chat.	3600	in	ns	peanuts.dnspod.net.
 innoshop.chat.	3600	in	ns	peony.dnspod.net.
 innov.chat.	3600	in	ns	ns1.dns-parking.com.
 innov.chat.	3600	in	ns	ns2.dns-parking.com.
-innova.chat.	3600	in	ns	expire1.cnolnic.com.
-innova.chat.	3600	in	ns	expire2.cnolnic.com.
+innova.chat.	3600	in	ns	ns1.afternic.com.
+innova.chat.	3600	in	ns	ns2.afternic.com.
 innovate.chat.	3600	in	ns	dns1.registrar-servers.com.
 innovate.chat.	3600	in	ns	dns2.registrar-servers.com.
 innovation.chat.	3600	in	ns	ns1.afternic.com.
@@ -52408,8 +52427,8 @@ inteligencia-artificial.chat.	3600	in	ns	curitiba.ns.porkbun.com.
 inteligencia-artificial.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
 inteligencia-artificial.chat.	3600	in	ns	maceio.ns.porkbun.com.
 inteligencia-artificial.chat.	3600	in	ns	salvador.ns.porkbun.com.
-inteligencia.chat.	3600	in	ns	dora.ns.cloudflare.com.
-inteligencia.chat.	3600	in	ns	gabe.ns.cloudflare.com.
+inteligencia.chat.	3600	in	ns	dns101.registrar-servers.com.
+inteligencia.chat.	3600	in	ns	dns102.registrar-servers.com.
 intella.chat.	3600	in	ns	dns1.registrar-servers.com.
 intella.chat.	3600	in	ns	dns2.registrar-servers.com.
 intellect.chat.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -53138,6 +53157,8 @@ irregular.chat.	3600	in	ns	mark.ns.cloudflare.com.
 irregular.chat.	3600	in	ns	marlowe.ns.cloudflare.com.
 irs.chat.	3600	in	ns	pdns05.domaincontrol.com.
 irs.chat.	3600	in	ns	pdns06.domaincontrol.com.
+irshelp.chat.	3600	in	ns	dns1.registrar-servers.com.
+irshelp.chat.	3600	in	ns	dns2.registrar-servers.com.
 iru.chat.	3600	in	ns	dns1.p07.nsone.net.
 iru.chat.	3600	in	ns	dns2.p07.nsone.net.
 iru.chat.	3600	in	ns	dns3.p07.nsone.net.
@@ -53238,6 +53259,8 @@ isla.chat.	3600	in	ns	ns1.isla.chat.
 isla.chat.	3600	in	ns	ns2.isla.chat.
 islam.chat.	3600	in	ns	ns1.siteground.net.
 islam.chat.	3600	in	ns	ns2.siteground.net.
+islamabad.chat.	3600	in	ns	ns1.dns-parking.com.
+islamabad.chat.	3600	in	ns	ns2.dns-parking.com.
 islamiq.chat.	3600	in	ns	dns1.registrar-servers.com.
 islamiq.chat.	3600	in	ns	dns2.registrar-servers.com.
 islive.chat.	3600	in	ns	ns1.domainname4all.com.
@@ -53661,7 +53684,7 @@ j8qkkc78aco5oa2ri420gfcfus3cqi8s.chat.	3600	in	rrsig	NSEC3 8 2 3600 202509301537
 j9.chat.	3600	in	ns	a7.share-dns.com.
 j9.chat.	3600	in	ns	b7.share-dns.net.
 j94faa9r9nnfl2te4jtanlid4hjso49d.chat.	3600	in	nsec3	1 1 0 73 J9SSG2T3UO9GC5E9BTG70COU9DJDB435 NS SOA RRSIG DNSKEY NSEC3PARAM
-j94faa9r9nnfl2te4jtanlid4hjso49d.chat.	3600	in	rrsig	NSEC3 8 2 3600 20251002010723 20250911000723 1986 chat. odXzSj8ciI9WOfjN7lOFDlb5dIDN13ANTUtyqI0RNlp6Wm4NENHqyQXm/vLGsTGaNtL2Y6noxCicpjfP3NU3wDeVYUaRcnpmURf5l9mFwkR08DIwqSm+ii3oI6Lna230zokCJwUoskhUDJQs9Xh94ET9EKZPk7YO+Q9BeDmiIMs=
+j94faa9r9nnfl2te4jtanlid4hjso49d.chat.	3600	in	rrsig	NSEC3 8 2 3600 20251003010411 20250912000411 1986 chat. UWrFsozbZnSqN2+BNIVTEQwtm9O0HO+NQqgXZXu+AM1E3MBo3H0SUP1TLZ/7VdMqeYy55zRdYRULQSHOXQ1ZzUGPYGfwcQPNU0JF4kOQGI4OEaETH/h7JtHlU+3BgEqXgHGg7rSpHcbR2/G2+pOMgS0P+8vWNfHPA9rmCftKDwg=
 j9ssg2t3uo9gc5e9btg70cou9djdb435.chat.	3600	in	nsec3	1 1 0 73 J9VGGEI6GRO39HB2M5AJ26CULU8S8G2F NS DS RRSIG
 j9ssg2t3uo9gc5e9btg70cou9djdb435.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. fkFgX7U1wWOyGBRej3Cy76uJOyCuT6GwyRFESDKkYQkd2bgKUoO5r4iGQ7ufEDfQA/opY51aQI4GakXJfsp1WxyK8WgYXIKl/ZHB57qD/bs0O9GVxwuV5g2ZiOAxJbxDtZhWlQzXiKH6aEpD0FWSuoyEj7Y7GlameX7LdVnyqXc=
 j9vggei6gro39hb2m5aj26culu8s8g2f.chat.	3600	in	nsec3	1 1 0 73 JALUST37NSLSF54A84612E0M9KV3600L NS DS RRSIG
@@ -53753,6 +53776,8 @@ jah.chat.	3600	in	ns	sasha.ns.cloudflare.com.
 jah.chat.	3600	in	ns	sean.ns.cloudflare.com.
 jahrein.chat.	3600	in	ns	elsa.ns.cloudflare.com.
 jahrein.chat.	3600	in	ns	micah.ns.cloudflare.com.
+jai.chat.	3600	in	ns	ns25.domaincontrol.com.
+jai.chat.	3600	in	ns	ns26.domaincontrol.com.
 jaike.chat.	3600	in	ns	ns1.dns-parking.com.
 jaike.chat.	3600	in	ns	ns2.dns-parking.com.
 jail.chat.	3600	in	ns	mona.ns.cloudflare.com.
@@ -54004,10 +54029,8 @@ jbhg1mvel2ptc1kvj36qhogslgtnacth.chat.	3600	in	nsec3	1 1 0 73 JBJLNOAS4E4P32065I
 jbhg1mvel2ptc1kvj36qhogslgtnacth.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. paG7+rMtsi7+jquge9qmHvv84STB29HG/MmsqBhJnQ8i573JyqqKCQXsykwBWGQHaedS7HGU9gX1ghf+II5igZqMsoCPiGRFOhrEwL9/N6rfdj7aOcq1zMRlzWOB2bUtKAsu6wSxwHjUhxkMdmpwL31/hAG9yGc0L0SljlP4TVk=
 jbjlnoas4e4p32065isghjtio7ba52r2.chat.	3600	in	nsec3	1 1 0 73 JBL2UN54MT9IMEBV8I6DRRNHQG87LNA8 NS DS RRSIG
 jbjlnoas4e4p32065isghjtio7ba52r2.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. mMPoSMyvqWWF+oyZtloHkC9tDw/R4pXE+m1l+lZ3BGBvG4WF6k6F8JAT5YmCXkOknFBpdvSWT849tBwITwYaIVvjQKgs18bL2gpohC9hYCj5WpWOkE474z2JXIULyJKFg1hOXVUZ5In6eMlrOFjX2558+F4DC2wFgPerIsGXC/k=
-jbl2un54mt9imebv8i6drrnhqg87lna8.chat.	3600	in	nsec3	1 1 0 73 JBMSNTN5134CN40QAQEB2PQU2CMEGACH NS DS RRSIG
-jbl2un54mt9imebv8i6drrnhqg87lna8.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. kyH2829tmMJXFh7eZ9fGe9mN3uOJxRX2R6mZEAVOR1pxmgNw+Jwmiz55XuaSsbh55V+J64XQn/zoGarn1a1zOnX8p4GWlMqmZWAl5kjMkzfrEiq1NcDBIvSPMaNo3xk/n/8NtJvaX5yAW/4vhekKNRwIrx+2kx78wE7dwUWagSc=
-jbmsntn5134cn40qaqeb2pqu2cmegach.chat.	3600	in	nsec3	1 1 0 73 JBSJ7JGT03ATTBEC79PP9TUO2PRE1LLI NS DS RRSIG
-jbmsntn5134cn40qaqeb2pqu2cmegach.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. nWhdQoUdf8TTSji+uqJ/q0XBGxD7TfuBFQLQ2hs98bmmJIg4GrwbUGpQE7+Fu2NAPCo5FCQTKHEy5qSJsA5bOhB9GqjlCcY/lcFED0OJcVW57qHiG5u8hOk50bOfWNAiJEVH2JEtuhRnGhWAfPz+5eALEEy34I1LOeVOcrWJvp4=
+jbl2un54mt9imebv8i6drrnhqg87lna8.chat.	3600	in	nsec3	1 1 0 73 JBSJ7JGT03ATTBEC79PP9TUO2PRE1LLI NS DS RRSIG
+jbl2un54mt9imebv8i6drrnhqg87lna8.chat.	3600	in	rrsig	NSEC3 8 2 3600 20251002105858 20250911095858 1986 chat. lebCP2MtGpWEFCuWzIVJRXrrdd/qsjUbL+GYBuG3oEZLiTEhdirgGqyK8hddPB+BGcBw5WXCKjrBhioRZTmt+MnA+Y6vm/uKxK5SWF/lN0MW4P1MdL/7U7+IlEx0kAeny9JmSbzJQTdU95ZgNvMitRiLGQo/SO4Gr7kF3POWwIk=
 jbot.chat.	3600	in	ns	ns1031.ui-dns.biz.
 jbot.chat.	3600	in	ns	ns1045.ui-dns.org.
 jbot.chat.	3600	in	ns	ns1079.ui-dns.de.
@@ -54467,12 +54490,6 @@ jidan.chat.	3600	in	ns	hailstone.dnspod.net.
 jidan.chat.	3600	in	ns	honey.dnspod.net.
 jidemaoyi.chat.	3600	in	ns	catfish.dnspod.net.
 jidemaoyi.chat.	3600	in	ns	shirley.dnspod.net.
-jidi.chat.	3600	in	ns	ns1.myhostadmin.net.
-jidi.chat.	3600	in	ns	ns2.myhostadmin.net.
-jidi.chat.	3600	in	ns	ns3.myhostadmin.net.
-jidi.chat.	3600	in	ns	ns4.myhostadmin.net.
-jidi.chat.	3600	in	ns	ns5.myhostadmin.net.
-jidi.chat.	3600	in	ns	ns6.myhostadmin.net.
 jidu.chat.	3600	in	ns	ns1.bdydns.cn.
 jidu.chat.	3600	in	ns	ns2.bdydns.cn.
 jiefang.chat.	3600	in	ns	broken.dnspod.net.
@@ -54872,6 +54889,8 @@ jobfun.chat.	3600	in	ns	fitzgerald.dnspod.net.
 jobfun.chat.	3600	in	ns	suntan.dnspod.net.
 jobi.chat.	3600	in	ns	dns1.registrar-servers.com.
 jobi.chat.	3600	in	ns	dns2.registrar-servers.com.
+jobjob.chat.	3600	in	ns	dns29.hichina.com.
+jobjob.chat.	3600	in	ns	dns30.hichina.com.
 jobot.chat.	3600	in	ns	dns1.registrar-servers.com.
 jobot.chat.	3600	in	ns	dns2.registrar-servers.com.
 jobquick.chat.	3600	in	ns	ns1.aicovo-dns.info.
@@ -54932,8 +54951,8 @@ joeyzhou.chat.	3600	in	ns	canoeing.dnspod.net.
 joeyzhou.chat.	3600	in	ns	cat.dnspod.net.
 jogos.chat.	3600	in	ns	ns1.dns-parking.com.
 jogos.chat.	3600	in	ns	ns2.dns-parking.com.
-johan.chat.	3600	in	ns	ns1.dns-parking.com.
-johan.chat.	3600	in	ns	ns2.dns-parking.com.
+johan.chat.	3600	in	ns	brenda.ns.cloudflare.com.
+johan.chat.	3600	in	ns	jay.ns.cloudflare.com.
 johannesburg.chat.	3600	in	ns	ns1.dns-parking.com.
 johannesburg.chat.	3600	in	ns	ns2.dns-parking.com.
 john.chat.	3600	in	ns	ns1.afternic.com.
@@ -55677,8 +55696,6 @@ juvo.chat.	3600	in	ns	ns3.dreamhost.com.
 juvoleads.chat.	3600	in	ns	ns1.dreamhost.com.
 juvoleads.chat.	3600	in	ns	ns2.dreamhost.com.
 juvoleads.chat.	3600	in	ns	ns3.dreamhost.com.
-juxiang.chat.	3600	in	ns	expirens3.hichina.com.
-juxiang.chat.	3600	in	ns	expirens4.hichina.com.
 juxin.chat.	3600	in	ns	dns11.hichina.com.
 juxin.chat.	3600	in	ns	dns12.hichina.com.
 juyy.chat.	3600	in	ns	alice.ns.cloudflare.com.
@@ -56110,10 +56127,6 @@ kaltura.chat.	3600	in	ns	ns-1340.awsdns-39.org.
 kaltura.chat.	3600	in	ns	ns-1979.awsdns-55.co.uk.
 kaltura.chat.	3600	in	ns	ns-593.awsdns-10.net.
 kaltura.chat.	3600	in	ns	ns-91.awsdns-11.com.
-kamala.chat.	3600	in	ns	ns1vwx.name.com.
-kamala.chat.	3600	in	ns	ns2cvx.name.com.
-kamala.chat.	3600	in	ns	ns3sxz.name.com.
-kamala.chat.	3600	in	ns	ns4cfn.name.com.
 kaman.chat.	3600	in	ns	cygnet.dnspod.net.
 kaman.chat.	3600	in	ns	mint.dnspod.net.
 kamata.chat.	3600	in	ns	ns37.domaincontrol.com.
@@ -56312,10 +56325,10 @@ karobar.chat.	3600	in	ns	ns1.dns-parking.com.
 karobar.chat.	3600	in	ns	ns2.dns-parking.com.
 karolina.chat.	3600	in	ns	ns1.dns-parking.com.
 karolina.chat.	3600	in	ns	ns2.dns-parking.com.
-karpator.chat.	3600	in	ns	ns1-07.azure-dns.com.
-karpator.chat.	3600	in	ns	ns2-07.azure-dns.net.
-karpator.chat.	3600	in	ns	ns3-07.azure-dns.org.
-karpator.chat.	3600	in	ns	ns4-07.azure-dns.info.
+karpator.chat.	3600	in	ns	ns1-08.azure-dns.com.
+karpator.chat.	3600	in	ns	ns2-08.azure-dns.net.
+karpator.chat.	3600	in	ns	ns3-08.azure-dns.org.
+karpator.chat.	3600	in	ns	ns4-08.azure-dns.info.
 karriere.chat.	3600	in	ns	ns1.afternic.com.
 karriere.chat.	3600	in	ns	ns2.afternic.com.
 kartenlegen.chat.	3600	in	ns	ns.udag.de.
@@ -56840,6 +56853,8 @@ khalid.chat.	3600	in	ns	dns1.registrar-servers.com.
 khalid.chat.	3600	in	ns	dns2.registrar-servers.com.
 kharcha.chat.	3600	in	ns	ns1.dns-parking.com.
 kharcha.chat.	3600	in	ns	ns2.dns-parking.com.
+khartoum.chat.	3600	in	ns	ns1.dns-parking.com.
+khartoum.chat.	3600	in	ns	ns2.dns-parking.com.
 khatrimaza.chat.	3600	in	ns	sara.ns.cloudflare.com.
 khatrimaza.chat.	3600	in	ns	wilson.ns.cloudflare.com.
 khela.chat.	3600	in	ns	elma.ns.cloudflare.com.
@@ -57441,8 +57456,8 @@ klik-ini.chat.	3600	in	ns	dion.ns.cloudflare.com.
 klik-ini.chat.	3600	in	ns	mckinley.ns.cloudflare.com.
 klik-me.chat.	3600	in	ns	dion.ns.cloudflare.com.
 klik-me.chat.	3600	in	ns	mckinley.ns.cloudflare.com.
-klik.chat.	3600	in	ns	ns1.bodis.com.
-klik.chat.	3600	in	ns	ns2.bodis.com.
+klik.chat.	3600	in	ns	ns1.dns-redirect.com.
+klik.chat.	3600	in	ns	ns2.dns-redirect.com.
 klilala.chat.	3600	in	ns	dns31.hichina.com.
 klilala.chat.	3600	in	ns	dns32.hichina.com.
 klink.chat.	3600	in	ns	ns-1160.awsdns-17.org.
@@ -57937,10 +57952,14 @@ kosova.chat.	3600	in	ns	ns05.ch-dns.net.
 kosova.chat.	3600	in	ns	ns06.ch-dns.net.
 kosovarja.chat.	3600	in	ns	ns15.abovedomains.com.
 kosovarja.chat.	3600	in	ns	ns16.abovedomains.com.
+kosovo.chat.	3600	in	ns	ns1.dns-parking.com.
+kosovo.chat.	3600	in	ns	ns2.dns-parking.com.
 kostenloser.chat.	3600	in	ns	buynow.nametime.com.
 kostenloser.chat.	3600	in	ns	forsale.nametime.com.
+kot.chat.	3600	in	ds	47359 8 2 27D1AD679A7ECC2EF72CA9216BEBBA7BCCEC9B3094E89CCD507F3F6F1EA7371F
 kot.chat.	3600	in	ns	dns110.ovh.net.
 kot.chat.	3600	in	ns	ns110.ovh.net.
+kot.chat.	3600	in	rrsig	DS 8 2 3600 20251002140909 20250911130909 1986 chat. sicmvkVXgdkLLAsyTXwCj91YBGn/cgZ1AISD1ysn4Fehef+sDCf13i5xv9pw91y82q0x+k+CuwuSMcWrSYF7y6of4bzc0f5EUkBrKnOliG7+5m8bCLfUFh10zMGlb3zCirGWuvSV3Se37dOOLXQybulvTguxvOTgbPzjYAKt+mI=
 kotozna.chat.	3600	in	ns	ns-1353.awsdns-41.org.
 kotozna.chat.	3600	in	ns	ns-1936.awsdns-50.co.uk.
 kotozna.chat.	3600	in	ns	ns-384.awsdns-48.com.
@@ -59547,8 +59566,8 @@ lean.chat.	3600	in	ns	ns1.afternic.com.
 lean.chat.	3600	in	ns	ns2.afternic.com.
 leangpt.chat.	3600	in	ns	emily.ns.cloudflare.com.
 leangpt.chat.	3600	in	ns	jaime.ns.cloudflare.com.
-leanne.chat.	3600	in	ns	ns1.bodis.com.
-leanne.chat.	3600	in	ns	ns2.bodis.com.
+leanne.chat.	3600	in	ns	ns1.dns-redirect.com.
+leanne.chat.	3600	in	ns	ns2.dns-redirect.com.
 leanonme.chat.	3600	in	ns	ns2.wixdns.net.
 leanonme.chat.	3600	in	ns	ns3.wixdns.net.
 leanstartup.chat.	3600	in	ns	pdns05.domaincontrol.com.
@@ -59846,6 +59865,8 @@ lela.chat.	3600	in	ns	ns1.dns-parking.com.
 lela.chat.	3600	in	ns	ns2.dns-parking.com.
 lelahometer.chat.	3600	in	ns	ns1.dyna-ns.net.
 lelahometer.chat.	3600	in	ns	ns2.dyna-ns.net.
+lele.chat.	3600	in	ns	vip1.volcengine-dns.com.
+lele.chat.	3600	in	ns	vip2.volcengine-dns.com.
 leleka.chat.	3600	in	ns	piers.ns.cloudflare.com.
 leleka.chat.	3600	in	ns	treasure.ns.cloudflare.com.
 lelly.chat.	3600	in	ns	barbara.ns.cloudflare.com.
@@ -60192,8 +60213,6 @@ levity.chat.	3600	in	ns	ns1.vercel-dns.com.
 levity.chat.	3600	in	ns	ns2.vercel-dns.com.
 levy.chat.	3600	in	ns	dns1.registrar-servers.com.
 levy.chat.	3600	in	ns	dns2.registrar-servers.com.
-lewd.chat.	3600	in	ns	dns101.registrar-servers.com.
-lewd.chat.	3600	in	ns	dns102.registrar-servers.com.
 lewdai.chat.	3600	in	ns	dns1.registrar-servers.com.
 lewdai.chat.	3600	in	ns	dns2.registrar-servers.com.
 lewis.chat.	3600	in	ns	ns-102-b.gandi.net.
@@ -60541,6 +60560,8 @@ lifeapp.chat.	3600	in	ns	ns1.monikerdns.net.
 lifeapp.chat.	3600	in	ns	ns2.monikerdns.net.
 lifeapp.chat.	3600	in	ns	ns3.monikerdns.net.
 lifeapp.chat.	3600	in	ns	ns4.monikerdns.net.
+lifechain.chat.	3600	in	ns	cement.dnspod.net.
+lifechain.chat.	3600	in	ns	volcano.dnspod.net.
 lifecoach.chat.	3600	in	ns	dns1.registrar-servers.com.
 lifecoach.chat.	3600	in	ns	dns2.registrar-servers.com.
 lifecoachai.chat.	3600	in	ns	ns-1502.awsdns-59.org.
@@ -60753,6 +60774,8 @@ lilo.chat.	3600	in	ns	ns15.abovedomains.com.
 lilo.chat.	3600	in	ns	ns16.abovedomains.com.
 lilochat.chat.	3600	in	ns	dns1.registrar-servers.com.
 lilochat.chat.	3600	in	ns	dns2.registrar-servers.com.
+lilongwe.chat.	3600	in	ns	ns1.dns-parking.com.
+lilongwe.chat.	3600	in	ns	ns2.dns-parking.com.
 lilt.chat.	3600	in	ns	ns1.myhostadmin.net.
 lilt.chat.	3600	in	ns	ns2.myhostadmin.net.
 lily.chat.	3600	in	ns	ns1.us131.siteground.us.
@@ -60808,8 +60831,8 @@ linc.chat.	3600	in	ns	terin.ns.cloudflare.com.
 linc.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. GnjCfLkqMANmLSDP21QJjpgsNFEURBEwy0ldnTDzu0cfP7f4fXSFA9dHyABeRWhsWPzoklKdLlOl1Epc4B1ixTxuLChnDeKcjIqnmlJBpKAmkcwz6RccIeShKXQuyFMM0aad4mv/FAfy2jEBOQ+YySlGR9MFgkw89LnECNvB1ow=
 lincc.chat.	3600	in	ns	beautiful.dnspod.net.
 lincc.chat.	3600	in	ns	trace.dnspod.net.
-linda.chat.	3600	in	ns	ns1.bodis.com.
-linda.chat.	3600	in	ns	ns2.bodis.com.
+linda.chat.	3600	in	ns	ns1.dns-redirect.com.
+linda.chat.	3600	in	ns	ns2.dns-redirect.com.
 lindy.chat.	3600	in	ns	ns1.digitalocean.com.
 lindy.chat.	3600	in	ns	ns2.digitalocean.com.
 lindy.chat.	3600	in	ns	ns3.digitalocean.com.
@@ -61023,8 +61046,8 @@ linktoai.chat.	3600	in	ns	maceio.ns.porkbun.com.
 linktoai.chat.	3600	in	ns	salvador.ns.porkbun.com.
 linktopo.chat.	3600	in	ns	dns21.hichina.com.
 linktopo.chat.	3600	in	ns	dns22.hichina.com.
-linkup.chat.	3600	in	ns	ns1.bodis.com.
-linkup.chat.	3600	in	ns	ns2.bodis.com.
+linkup.chat.	3600	in	ns	ns1.dns-redirect.com.
+linkup.chat.	3600	in	ns	ns2.dns-redirect.com.
 linkwa.chat.	3600	in	ns	dns101.registrar-servers.com.
 linkwa.chat.	3600	in	ns	dns102.registrar-servers.com.
 linkwith.chat.	3600	in	ns	dns27.hichina.com.
@@ -62632,6 +62655,8 @@ lom067irn020l44ufgcntaji214mhj0i.chat.	3600	in	nsec3	1 1 0 73 LOM4DBBLUET4U6UCSF
 lom067irn020l44ufgcntaji214mhj0i.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. NKTMJzkXX7NviplFl0/DKkLr+vpoazCiTrsNCN/mNworD3ud+u6sptVDxFoFtcJHIPifMDAAptkorwD21w8gYvSoFGTmliXY8MTPB9wxqutcVomdKTssLPLOMNfDAjjgEtWWFz3TI6sTwhR53Oh7dH8aqJFjipasUXuKHTWyG54=
 lom4dbbluet4u6ucsf81jf6g208a8e50.chat.	3600	in	nsec3	1 1 0 73 LPLN20FVCCNMSVI7ELI996OMOR9AIMOG NS DS RRSIG
 lom4dbbluet4u6ucsf81jf6g208a8e50.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. gc6hlnIiY2FRAyy5aAqXXVVPl1G0hAHyDH7ywzyUxr0PIkRIWg7YooSMNFdG23/EwysQWpk+D04XYTAOuM3OoERl7FD6nTRaMLQ/UvRUZSUaM0XELSA7z7QgesKijO4mkrgN+uvkzzhSIERq5wVRsJU1cfNkYVU6qN03Ft1Tdbk=
+lome.chat.	3600	in	ns	ns1.dns-parking.com.
+lome.chat.	3600	in	ns	ns2.dns-parking.com.
 lomen.chat.	3600	in	ns	dns1.registrar-servers.com.
 lomen.chat.	3600	in	ns	dns2.registrar-servers.com.
 lomi.chat.	3600	in	ns	dns3.hichina.com.
@@ -63308,6 +63333,10 @@ ltdzrk5d.chat.	3600	in	ns	ns3.myhostadmin.net.
 ltdzrk5d.chat.	3600	in	ns	ns4.myhostadmin.net.
 ltdzrk5d.chat.	3600	in	ns	ns5.myhostadmin.net.
 ltdzrk5d.chat.	3600	in	ns	ns6.myhostadmin.net.
+ltm.chat.	3600	in	ns	curitiba.ns.porkbun.com.
+ltm.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
+ltm.chat.	3600	in	ns	maceio.ns.porkbun.com.
+ltm.chat.	3600	in	ns	salvador.ns.porkbun.com.
 ltrbhybk.chat.	3600	in	ns	abby.ns.cloudflare.com.
 ltrbhybk.chat.	3600	in	ns	rayden.ns.cloudflare.com.
 lttl.chat.	3600	in	ns	alina.ns.cloudflare.com.
@@ -63404,8 +63433,8 @@ luckoff.chat.	3600	in	ns	rodrigo.ns.cloudflare.com.
 luckoff.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. TqI+/udeXmuky2mnzdtz+bDyZTA9hBleKbM5dt+EzL2THvZSeempS6tYKsf2g7CvPgcwITlMLA+3x3ifw4TjACNUUgoVFJHrA2/QBuupX3PKo7wxRZXOvwuE7/I5fOTNKY7Jp6fG5EmkSrU9uUUJwOxxZO5P/hzDVI6KQtwY1tk=
 lucky-duck.chat.	3600	in	ns	coco.bunny.net.
 lucky-duck.chat.	3600	in	ns	kiki.bunny.net.
-lucky.chat.	3600	in	ns	expirens3.hichina.com.
-lucky.chat.	3600	in	ns	expirens4.hichina.com.
+lucky.chat.	3600	in	ns	ns1.afternic.com.
+lucky.chat.	3600	in	ns	ns2.afternic.com.
 lucky12358.chat.	3600	in	ns	llama.dnspod.net.
 lucky12358.chat.	3600	in	ns	macaw.dnspod.net.
 lucky88.chat.	3600	in	ns	andy.ns.cloudflare.com.
@@ -63442,12 +63471,6 @@ luffy.chat.	3600	in	ns	dns1.registrar-servers.com.
 luffy.chat.	3600	in	ns	dns2.registrar-servers.com.
 lugo.chat.	3600	in	ns	ns71.domaincontrol.com.
 lugo.chat.	3600	in	ns	ns72.domaincontrol.com.
-luhu.chat.	3600	in	ns	ns1.myhostadmin.net.
-luhu.chat.	3600	in	ns	ns2.myhostadmin.net.
-luhu.chat.	3600	in	ns	ns3.myhostadmin.net.
-luhu.chat.	3600	in	ns	ns4.myhostadmin.net.
-luhu.chat.	3600	in	ns	ns5.myhostadmin.net.
-luhu.chat.	3600	in	ns	ns6.myhostadmin.net.
 luhu0527.chat.	3600	in	ns	crust.dnspod.net.
 luhu0527.chat.	3600	in	ns	kitten.dnspod.net.
 luigi.chat.	3600	in	ns	ns1.sav.com.
@@ -63553,6 +63576,8 @@ lumity.chat.	3600	in	ns	iris.ns.cloudflare.com.
 lumity.chat.	3600	in	ns	todd.ns.cloudflare.com.
 lumivion.chat.	3600	in	ns	docks11.rzone.de.
 lumivion.chat.	3600	in	ns	shades04.rzone.de.
+lumo.chat.	3600	in	ns	dns1.registrar-servers.com.
+lumo.chat.	3600	in	ns	dns2.registrar-servers.com.
 lumos.chat.	3600	in	ns	ns47.domaincontrol.com.
 lumos.chat.	3600	in	ns	ns48.domaincontrol.com.
 lumosai.chat.	3600	in	ns	autumn.ns.cloudflare.com.
@@ -65636,6 +65661,8 @@ mb66.chat.	3600	in	ns	ns1.dns-redirect.com.
 mb66.chat.	3600	in	ns	ns2.dns-redirect.com.
 mb88.chat.	3600	in	ns	kara.ns.cloudflare.com.
 mb88.chat.	3600	in	ns	lou.ns.cloudflare.com.
+mbabane.chat.	3600	in	ns	ns1.dns-parking.com.
+mbabane.chat.	3600	in	ns	ns2.dns-parking.com.
 mbak4d.chat.	3600	in	ns	bowen.ns.cloudflare.com.
 mbak4d.chat.	3600	in	ns	wren.ns.cloudflare.com.
 mbak4d2.chat.	3600	in	ns	darl.ns.cloudflare.com.
@@ -65685,14 +65712,17 @@ mcbot.chat.	3600	in	ns	chips.dnspod.net.
 mcbot.chat.	3600	in	ns	line.dnspod.net.
 mcconnell.chat.	3600	in	ns	ns1.dns-redirect.com.
 mcconnell.chat.	3600	in	ns	ns2.dns-redirect.com.
-mccormick.chat.	3600	in	ns	domainpark1.grape.ca.
-mccormick.chat.	3600	in	ns	domainpark2.grape.ca.
+mccormick.chat.	3600	in	ns	dns1.name-services.com.
+mccormick.chat.	3600	in	ns	dns2.name-services.com.
+mccormick.chat.	3600	in	ns	dns3.name-services.com.
+mccormick.chat.	3600	in	ns	dns4.name-services.com.
+mccormick.chat.	3600	in	ns	dns5.name-services.com.
 mcdonald.chat.	3600	in	ns	dns1.registrar-servers.com.
 mcdonald.chat.	3600	in	ns	dns2.registrar-servers.com.
 mcdowell.chat.	3600	in	ns	ns1.dns-redirect.com.
 mcdowell.chat.	3600	in	ns	ns2.dns-redirect.com.
-mcdvoice.chat.	3600	in	ns	ns1.bodis.com.
-mcdvoice.chat.	3600	in	ns	ns2.bodis.com.
+mcdvoice.chat.	3600	in	ns	ns1.dns-redirect.com.
+mcdvoice.chat.	3600	in	ns	ns2.dns-redirect.com.
 mcgaff.chat.	3600	in	ns	ns1.dns-parking.com.
 mcgaff.chat.	3600	in	ns	ns2.dns-parking.com.
 mchat.chat.	3600	in	ns	ns75.domaincontrol.com.
@@ -65827,8 +65857,8 @@ meancareer.chat.	3600	in	ns	kim.ns.cloudflare.com.
 meancareer.chat.	3600	in	ns	todd.ns.cloudflare.com.
 meaning.chat.	3600	in	ns	expirens3.hichina.com.
 meaning.chat.	3600	in	ns	expirens4.hichina.com.
-meaningful.chat.	3600	in	ns	ns1.bodis.com.
-meaningful.chat.	3600	in	ns	ns2.bodis.com.
+meaningful.chat.	3600	in	ns	ns1.dns-redirect.com.
+meaningful.chat.	3600	in	ns	ns2.dns-redirect.com.
 meaningin.chat.	3600	in	ns	doug.ns.cloudflare.com.
 meaningin.chat.	3600	in	ns	ines.ns.cloudflare.com.
 means.chat.	3600	in	ns	jo.dnspod.net.
@@ -65975,6 +66005,8 @@ medicare.chat.	3600	in	ns	ns1.afternic.com.
 medicare.chat.	3600	in	ns	ns2.afternic.com.
 medicareadvantage.chat.	3600	in	ns	ns67.domaincontrol.com.
 medicareadvantage.chat.	3600	in	ns	ns68.domaincontrol.com.
+medicarehelp.chat.	3600	in	ns	dns1.registrar-servers.com.
+medicarehelp.chat.	3600	in	ns	dns2.registrar-servers.com.
 medici.chat.	3600	in	ns	ns3.afternic.com.
 medici.chat.	3600	in	ns	ns4.afternic.com.
 medicina.chat.	3600	in	ns	ns1.dns-parking.com.
@@ -66648,10 +66680,6 @@ merger.chat.	3600	in	ns	launch2.spaceship.net.
 meriad.chat.	3600	in	ns	ns1.openprovider.nl.
 meriad.chat.	3600	in	ns	ns2.openprovider.be.
 meriad.chat.	3600	in	ns	ns3.openprovider.eu.
-meridian.chat.	3600	in	ds	59623 13 2 9D45057625A8D4097EB7BAC390F150C573E6BD49860A2DDB30CB7EA3617B7C74
-meridian.chat.	3600	in	ns	launch1.spaceship.net.
-meridian.chat.	3600	in	ns	launch2.spaceship.net.
-meridian.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. Jrrh/lt/wLiNiDspmkVeUXV5sXs0Or79mwZ3W+J3xwjoilqIYW+JTQqsH9oh2xZkgqJrsy7RdsKtCIBruFMtyET2SY4PH3PUHkcSLGzsXuHHbGzpQC6lTP4ipBbzvJjCEcoABOog2Ohog5AyxMPKuSiOSbv7TEm3u0fco3ahyeI=
 meridien.chat.	3600	in	ns	ns1.whc.ca.
 meridien.chat.	3600	in	ns	ns2.whc.ca.
 meridien.chat.	3600	in	ns	ns3.whc.ca.
@@ -67666,6 +67694,8 @@ milksha.chat.	3600	in	ns	ns07.domaincontrol.com.
 milksha.chat.	3600	in	ns	ns08.domaincontrol.com.
 milkshake.chat.	3600	in	ns	ns1.afternic.com.
 milkshake.chat.	3600	in	ns	ns2.afternic.com.
+milky.chat.	3600	in	ns	ns37.domaincontrol.com.
+milky.chat.	3600	in	ns	ns38.domaincontrol.com.
 milla.chat.	3600	in	ns	ns1.afternic.com.
 milla.chat.	3600	in	ns	ns2.afternic.com.
 milldesk.chat.	3600	in	ns	dns1.stabletransit.com.
@@ -67903,6 +67933,8 @@ mindwave.chat.	3600	in	ns	ns1031.ui-dns.biz.
 mindwave.chat.	3600	in	ns	ns1044.ui-dns.org.
 mindwave.chat.	3600	in	ns	ns1053.ui-dns.com.
 mindwave.chat.	3600	in	ns	ns1118.ui-dns.de.
+mindway.chat.	3600	in	ns	dns23.hichina.com.
+mindway.chat.	3600	in	ns	dns24.hichina.com.
 mindwell.chat.	3600	in	ns	alberto.ns.cloudflare.com.
 mindwell.chat.	3600	in	ns	rosalie.ns.cloudflare.com.
 mindy.chat.	3600	in	ds	34450 8 2 D7FEB43439F3A3E5914B3EB5395F50FC56E2FD5101B88F46D1A7C57068394C90
@@ -68586,8 +68618,8 @@ mobian.chat.	3600	in	ns	ns1.hover.com.
 mobian.chat.	3600	in	ns	ns2.hover.com.
 mobifriends.chat.	3600	in	ns	ns27.domaincontrol.com.
 mobifriends.chat.	3600	in	ns	ns28.domaincontrol.com.
-mobile.chat.	3600	in	ns	ns1.sedoparking.com.
-mobile.chat.	3600	in	ns	ns2.sedoparking.com.
+mobile.chat.	3600	in	ns	ns1.afternic.com.
+mobile.chat.	3600	in	ns	ns2.afternic.com.
 mobileai.chat.	3600	in	ns	launch1.spaceship.net.
 mobileai.chat.	3600	in	ns	launch2.spaceship.net.
 mobileapp.chat.	3600	in	ns	launch1.spaceship.net.
@@ -68841,6 +68873,8 @@ moflow.chat.	3600	in	ns	dns21.hichina.com.
 moflow.chat.	3600	in	ns	dns22.hichina.com.
 moga.chat.	3600	in	ns	dns1.registrar-servers.com.
 moga.chat.	3600	in	ns	dns2.registrar-servers.com.
+mogadishu.chat.	3600	in	ns	ns1.dns-parking.com.
+mogadishu.chat.	3600	in	ns	ns2.dns-parking.com.
 mogai.chat.	3600	in	ns	dns13.hichina.com.
 mogai.chat.	3600	in	ns	dns14.hichina.com.
 mogli.chat.	3600	in	ns	ns-1342.awsdns-39.org.
@@ -70175,8 +70209,8 @@ muma.chat.	3600	in	ns	ns61.domaincontrol.com.
 muma.chat.	3600	in	ns	ns62.domaincontrol.com.
 mumbai.chat.	3600	in	ns	ns1.dns-parking.com.
 mumbai.chat.	3600	in	ns	ns2.dns-parking.com.
-mumble.chat.	3600	in	ns	ns1.bodis.com.
-mumble.chat.	3600	in	ns	ns2.bodis.com.
+mumble.chat.	3600	in	ns	ns1.dns-redirect.com.
+mumble.chat.	3600	in	ns	ns2.dns-redirect.com.
 mume.chat.	3600	in	ns	ns39.domaincontrol.com.
 mume.chat.	3600	in	ns	ns40.domaincontrol.com.
 mummy.chat.	3600	in	ns	failed-whois-verification.namecheap.com.
@@ -70403,8 +70437,8 @@ mvqe5uipgvmf8s9ovbckcg9ek25a7bng.chat.	3600	in	nsec3	1 1 0 73 N01AAJ37E2SHL4VT1T
 mvqe5uipgvmf8s9ovbckcg9ek25a7bng.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. N/nod+LwZaLBQq31pj7ogGGv6meup9HnrU6ZgYc/KSBvmhOp3QQujB144oiV4oqWUpnAQUoi8qfyKV+ex9kj1qRBiyfQfrkShVT/OAbSJJgvd0ucEl5g41MAPGvCCrEKIE4JvbF5OQTBV4vB8md+SLA3DR5KvWdccy5JY+T9V88=
 mvra.chat.	3600	in	ns	dns1.hichina.com.
 mvra.chat.	3600	in	ns	dns2.hichina.com.
-mvs.chat.	3600	in	ns	expirens3.hichina.com.
-mvs.chat.	3600	in	ns	expirens4.hichina.com.
+mvs.chat.	3600	in	ns	dns15.hichina.com.
+mvs.chat.	3600	in	ns	dns16.hichina.com.
 mwc.chat.	3600	in	ns	ns1.magnumwebserver.com.
 mwc.chat.	3600	in	ns	ns2.magnumwebserver.com.
 mwcbarcelona.chat.	3600	in	ns	ns-1098.awsdns-09.org.
@@ -70732,10 +70766,9 @@ mycucloud.chat.	3600	in	ns	ns1060.ui-dns.biz.
 mycucloud.chat.	3600	in	ns	ns1116.ui-dns.com.
 mycustom.chat.	3600	in	ns	ns3.afternic.com.
 mycustom.chat.	3600	in	ns	ns4.afternic.com.
-mycv.chat.	3600	in	ns	dns1.p04.nsone.net.
-mycv.chat.	3600	in	ns	dns2.p04.nsone.net.
-mycv.chat.	3600	in	ns	dns3.p04.nsone.net.
-mycv.chat.	3600	in	ns	dns4.p04.nsone.net.
+mycv.chat.	3600	in	ns	helium.ns.hetzner.de.
+mycv.chat.	3600	in	ns	hydrogen.ns.hetzner.com.
+mycv.chat.	3600	in	ns	oxygen.ns.hetzner.com.
 mycvision.chat.	3600	in	ns	mona.ns.cloudflare.com.
 mycvision.chat.	3600	in	ns	vicky.ns.cloudflare.com.
 mydata.chat.	3600	in	ns	ns1.dns-redirect.com.
@@ -70809,6 +70842,12 @@ myfeed.chat.	3600	in	ns	maceio.ns.porkbun.com.
 myfeed.chat.	3600	in	ns	salvador.ns.porkbun.com.
 myfeedback.chat.	3600	in	ns	dns101.registrar-servers.com.
 myfeedback.chat.	3600	in	ns	dns102.registrar-servers.com.
+myfile.chat.	3600	in	ns	ns1.myhostadmin.net.
+myfile.chat.	3600	in	ns	ns2.myhostadmin.net.
+myfile.chat.	3600	in	ns	ns3.myhostadmin.net.
+myfile.chat.	3600	in	ns	ns4.myhostadmin.net.
+myfile.chat.	3600	in	ns	ns5.myhostadmin.net.
+myfile.chat.	3600	in	ns	ns6.myhostadmin.net.
 myfleet.chat.	3600	in	ns	dns1.registrar-servers.com.
 myfleet.chat.	3600	in	ns	dns2.registrar-servers.com.
 myfoxzone.chat.	3600	in	ns	ns-1405.awsdns-47.org.
@@ -71226,8 +71265,8 @@ mystoop.chat.	3600	in	ns	ns1lmy.name.com.
 mystoop.chat.	3600	in	ns	ns2cvx.name.com.
 mystoop.chat.	3600	in	ns	ns3gxy.name.com.
 mystoop.chat.	3600	in	ns	ns4fpy.name.com.
-mystore.chat.	3600	in	ns	ns1.bodis.com.
-mystore.chat.	3600	in	ns	ns2.bodis.com.
+mystore.chat.	3600	in	ns	ns1.dns-redirect.com.
+mystore.chat.	3600	in	ns	ns2.dns-redirect.com.
 mystory.chat.	3600	in	ns	bertram.dnspod.net.
 mystory.chat.	3600	in	ns	west.dnspod.net.
 mystudy.chat.	3600	in	ns	ns1.vercel-dns.com.
@@ -71668,9 +71707,8 @@ nano-banana.chat.	3600	in	ns	john.ns.cloudflare.com.
 nano-banana.chat.	3600	in	ns	katja.ns.cloudflare.com.
 nano.chat.	3600	in	ns	ns1.afternic.com.
 nano.chat.	3600	in	ns	ns2.afternic.com.
-nanobanana.chat.	3600	in	ns	ns5.afternic.com.
-nanobanana.chat.	3600	in	ns	ns6.afternic.com.
-nanobanana.chat.	3600	in	ns	verification-agfh4euevkfxny9co582cj.ns101.verify.hn.
+nanobanana.chat.	3600	in	ns	ns1.sedoparking.com.
+nanobanana.chat.	3600	in	ns	ns2.sedoparking.com.
 nanobot.chat.	3600	in	ns	ns57.domaincontrol.com.
 nanobot.chat.	3600	in	ns	ns58.domaincontrol.com.
 nanog.chat.	3600	in	ns	leah.ns.cloudflare.com.
@@ -72045,8 +72083,8 @@ nds.chat.	3600	in	ns	ns77.domaincontrol.com.
 nds.chat.	3600	in	ns	ns78.domaincontrol.com.
 ndtyve.chat.	3600	in	ns	lochlan.ns.cloudflare.com.
 ndtyve.chat.	3600	in	ns	paloma.ns.cloudflare.com.
-ne.chat.	3600	in	ns	ns1.vercel-dns.com.
-ne.chat.	3600	in	ns	ns2.vercel-dns.com.
+ne.chat.	3600	in	ns	cass.ns.cloudflare.com.
+ne.chat.	3600	in	ns	melnicoff.ns.cloudflare.com.
 neable.chat.	3600	in	ns	dns1.registrar-servers.com.
 neable.chat.	3600	in	ns	dns2.registrar-servers.com.
 near.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -72671,8 +72709,8 @@ newyorkcity.chat.	3600	in	ns	ns2.dns-parking.com.
 nex.chat.	3600	in	ns	ns.udag.de.
 nex.chat.	3600	in	ns	ns.udag.net.
 nex.chat.	3600	in	ns	ns.udag.org.
-nexa.chat.	3600	in	ns	ns1.bodis.com.
-nexa.chat.	3600	in	ns	ns2.bodis.com.
+nexa.chat.	3600	in	ns	ns1.dns-redirect.com.
+nexa.chat.	3600	in	ns	ns2.dns-redirect.com.
 nexabot.chat.	3600	in	ns	bernard.dnspod.net.
 nexabot.chat.	3600	in	ns	magnesium.dnspod.net.
 nexacura.chat.	3600	in	ns	ns1061.ui-dns.de.
@@ -72802,8 +72840,6 @@ nextstop.chat.	3600	in	ns	ns1.vercel-dns.com.
 nextstop.chat.	3600	in	ns	ns2.vercel-dns.com.
 nexum.chat.	3600	in	ns	aubrey.dnspod.net.
 nexum.chat.	3600	in	ns	hubery.dnspod.net.
-nexus-engine.chat.	3600	in	ns	ns07.domaincontrol.com.
-nexus-engine.chat.	3600	in	ns	ns08.domaincontrol.com.
 nexus.chat.	3600	in	ns	ns-121-b.gandi.net.
 nexus.chat.	3600	in	ns	ns-173-a.gandi.net.
 nexus.chat.	3600	in	ns	ns-185-c.gandi.net.
@@ -72811,8 +72847,6 @@ nexuschats.chat.	3600	in	ns	dns1.registrar-servers.com.
 nexuschats.chat.	3600	in	ns	dns2.registrar-servers.com.
 nexusdynamix.chat.	3600	in	ns	ns47.domaincontrol.com.
 nexusdynamix.chat.	3600	in	ns	ns48.domaincontrol.com.
-nexusengine.chat.	3600	in	ns	ns73.domaincontrol.com.
-nexusengine.chat.	3600	in	ns	ns74.domaincontrol.com.
 nexusfi.chat.	3600	in	ns	ns1.dyna-ns.net.
 nexusfi.chat.	3600	in	ns	ns2.dyna-ns.net.
 nexvio.chat.	3600	in	ns	lex.ns.cloudflare.com.
@@ -73805,8 +73839,8 @@ noonehas.chat.	3600	in	ds	54879 13 2 ABF673236AB16092401D97E97450B4F225446BC57A8
 noonehas.chat.	3600	in	ns	ns01.one.com.
 noonehas.chat.	3600	in	ns	ns02.one.com.
 noonehas.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. tCDXxpokjG4QU0JdS3pxWViJ9rs5P9RyaEc2RpIBNo9oJrOwkDt/L9nUkCz+W8JR7Z+ezyvEsk9P1McT1vdmf81ceuMqFRH50ZnAtcvDg+LPuD55bNCB6TCGXhZUAvJ7cs4X+aC6N3hx87FEWAS7mFcfUgRWEl0E5MB3pmUlAso=
-noones.chat.	3600	in	ns	dns1.registrar-servers.com.
-noones.chat.	3600	in	ns	dns2.registrar-servers.com.
+noones.chat.	3600	in	ns	dns101.registrar-servers.com.
+noones.chat.	3600	in	ns	dns102.registrar-servers.com.
 noor.chat.	3600	in	ns	ns59.domaincontrol.com.
 noor.chat.	3600	in	ns	ns60.domaincontrol.com.
 nooro.chat.	3600	in	ns	ns-cloud-d1.googledomains.com.
@@ -73981,6 +74015,8 @@ notarize.chat.	3600	in	ns	dns1.registrar-servers.com.
 notarize.chat.	3600	in	ns	dns2.registrar-servers.com.
 notary.chat.	3600	in	ns	dns1.registrar-servers.com.
 notary.chat.	3600	in	ns	dns2.registrar-servers.com.
+notbot.chat.	3600	in	ns	dns1.registrar-servers.com.
+notbot.chat.	3600	in	ns	dns2.registrar-servers.com.
 notch.chat.	3600	in	ns	dns1.registrar-servers.com.
 notch.chat.	3600	in	ns	dns2.registrar-servers.com.
 note.chat.	3600	in	ns	ns1.afternic.com.
@@ -74232,10 +74268,10 @@ ns0.armoured.chat.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns0.f0rbidden.chat.	3600	in	a	51.178.81.211
 ns0.f0rbidden.chat.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns0.fullduplex.chat.	3600	in	a	81.187.183.71
-ns0.ph0rbidden.chat.	3600	in	a	46.105.30.208
-ns0.ph0rbidden.chat.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
-ns0.want.chat.	3600	in	a	46.105.30.208
-ns0.want.chat.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns0.ph0rbidden.chat.	3600	in	a	51.178.81.211
+ns0.ph0rbidden.chat.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
+ns0.want.chat.	3600	in	a	51.178.81.211
+ns0.want.chat.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns1.080.chat.	3600	in	a	51.79.240.81
 ns1.4ai.chat.	3600	in	a	147.234.84.144
 ns1.4xp.chat.	3600	in	a	64.20.39.170
@@ -74357,8 +74393,8 @@ ns1.paper.chat.	3600	in	a	18.214.67.177
 ns1.partei.chat.	3600	in	a	185.216.179.51
 ns1.partnerconsole.net.austnet.chat.	3600	in	a	15.197.215.15
 ns1.pasen.chat.	3600	in	a	109.236.81.132
-ns1.ph0rbidden.chat.	3600	in	a	46.105.30.208
-ns1.ph0rbidden.chat.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns1.ph0rbidden.chat.	3600	in	a	51.178.81.211
+ns1.ph0rbidden.chat.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns1.pigeonpost.chat.	3600	in	a	38.242.212.69
 ns1.proai.chat.	3600	in	a	136.243.145.217
 ns1.puzzlegame.chat.	3600	in	a	88.223.95.98
@@ -74396,8 +74432,8 @@ ns1.vercel-dns.com.faible.chat.	3600	in	a	76.76.21.21
 ns1.viazap.chat.	3600	in	a	162.214.107.94
 ns1.void.chat.	3600	in	a	185.27.134.11
 ns1.volcano.chat.	3600	in	a	157.230.94.115
-ns1.want.chat.	3600	in	a	46.105.30.208
-ns1.want.chat.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns1.want.chat.	3600	in	a	51.178.81.211
+ns1.want.chat.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns1.wbs.chat.	3600	in	a	74.50.76.50
 ns1.webim.chat.	3600	in	a	77.244.214.61
 ns1.whatssexy.chat.	3600	in	a	37.120.190.101
@@ -74517,8 +74553,8 @@ ns2.ozelot.chat.	3600	in	a	192.168.178.50
 ns2.paper.chat.	3600	in	a	18.214.67.177
 ns2.partei.chat.	3600	in	a	185.216.179.51
 ns2.pasen.chat.	3600	in	a	109.236.81.132
-ns2.ph0rbidden.chat.	3600	in	a	46.105.30.208
-ns2.ph0rbidden.chat.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns2.ph0rbidden.chat.	3600	in	a	51.178.81.211
+ns2.ph0rbidden.chat.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns2.pigeonpost.chat.	3600	in	a	38.242.212.69
 ns2.proai.chat.	3600	in	a	136.243.145.211
 ns2.quiky.chat.	3600	in	a	93.188.167.152
@@ -74553,8 +74589,8 @@ ns2.upload.chat.	3600	in	aaaa	2a01:04f8:0201:0625:0003:0000:0000:0002
 ns2.vercel-dns.com.faible.chat.	3600	in	a	76.76.21.21
 ns2.viazap.chat.	3600	in	a	162.214.118.28
 ns2.volcano.chat.	3600	in	a	178.128.1.169
-ns2.want.chat.	3600	in	a	46.105.30.208
-ns2.want.chat.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns2.want.chat.	3600	in	a	51.178.81.211
+ns2.want.chat.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns2.wbs.chat.	3600	in	a	74.50.76.50
 ns2.webim.chat.	3600	in	a	178.62.4.246
 ns2.whatssexy.chat.	3600	in	a	37.120.190.101
@@ -74883,8 +74919,10 @@ nuts.chat.	3600	in	ns	julian.dnspod.net.
 nuts.chat.	3600	in	ns	linen.dnspod.net.
 nutshell.chat.	3600	in	ns	ns1.dns-parking.com.
 nutshell.chat.	3600	in	ns	ns2.dns-parking.com.
-nutty.chat.	3600	in	ns	ns1.bodis.com.
-nutty.chat.	3600	in	ns	ns2.bodis.com.
+nutty.chat.	3600	in	ns	ns1.dns-redirect.com.
+nutty.chat.	3600	in	ns	ns2.dns-redirect.com.
+nuuk.chat.	3600	in	ns	ns1.dns-parking.com.
+nuuk.chat.	3600	in	ns	ns2.dns-parking.com.
 nuumera.chat.	3600	in	ns	dns1.registrar-servers.com.
 nuumera.chat.	3600	in	ns	dns2.registrar-servers.com.
 nuvana.chat.	3600	in	ns	ns-01.secured.services.
@@ -77245,8 +77283,8 @@ opsec.chat.	3600	in	ns	dns101.registrar-servers.com.
 opsec.chat.	3600	in	ns	dns102.registrar-servers.com.
 optasight.chat.	3600	in	ns	ns1.afternic.com.
 optasight.chat.	3600	in	ns	ns2.afternic.com.
-opti.chat.	3600	in	ns	ns1.bodis.com.
-opti.chat.	3600	in	ns	ns2.bodis.com.
+opti.chat.	3600	in	ns	ns1.dns-redirect.com.
+opti.chat.	3600	in	ns	ns2.dns-redirect.com.
 optic.chat.	3600	in	ns	edit.dnspod.net.
 optic.chat.	3600	in	ns	vega.dnspod.net.
 optical.chat.	3600	in	ns	ns1.afternic.com.
@@ -77841,6 +77879,8 @@ otve.chat.	3600	in	ns	dns1.registrar-servers.com.
 otve.chat.	3600	in	ns	dns2.registrar-servers.com.
 ou0daplhpq60v78lk350m09c5l8nrl17.chat.	3600	in	nsec3	1 1 0 73 OV7T1U5UUUU1G92U9OOGAQCCP56OOQBC NS DS RRSIG
 ou0daplhpq60v78lk350m09c5l8nrl17.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. FjBFRFFr8+gOLUpn59Pqn/caHIkVa/f1B7wGqcX5J0BLHfrTsxN8au4oMsxgKD/NZghSox9tSfMYOBciWSOwIfengzOyQVVX7FJ2Lzu56tEqO79ncbJFyAGDJb+FYrp6TmO3je0tJZ9ZmIepxQLdjCTJqphVEvxfWrFLlepElms=
+ouaga.chat.	3600	in	ns	ns1.dns-parking.com.
+ouaga.chat.	3600	in	ns	ns2.dns-parking.com.
 ouch.chat.	3600	in	ns	ns1.vultr.com.
 ouch.chat.	3600	in	ns	ns2.vultr.com.
 oui.chat.	3600	in	ns	cash.ns.cloudflare.com.
@@ -78843,8 +78883,6 @@ papri.chat.	3600	in	ns	ns-cloud-e2.googledomains.com.
 papri.chat.	3600	in	ns	ns-cloud-e3.googledomains.com.
 papri.chat.	3600	in	ns	ns-cloud-e4.googledomains.com.
 papri.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. pzkz7zBoPJVjJ4OnczjeM5jT4TywS75fN1+S3HhJSty9VaRen0zEIPye7GZQ99K9NAa0gq9flX/APkDUlf3JgfN4Fd8NBXI+tFb1XacQ10qvd7PfbdB6xjaKXbzoJ2OorhFedBIYuHgRehVuVI5uGKyOuAy/VwgNKw1vPOpjNRk=
-papyrus.chat.	3600	in	ns	dns101.registrar-servers.com.
-papyrus.chat.	3600	in	ns	dns102.registrar-servers.com.
 paqt.chat.	3600	in	ns	ns1jlp.name.com.
 paqt.chat.	3600	in	ns	ns2hkt.name.com.
 paqt.chat.	3600	in	ns	ns3jwx.name.com.
@@ -78916,8 +78954,8 @@ paramvr.chat.	3600	in	ns	ns-cloud-d1.googledomains.com.
 paramvr.chat.	3600	in	ns	ns-cloud-d2.googledomains.com.
 paramvr.chat.	3600	in	ns	ns-cloud-d3.googledomains.com.
 paramvr.chat.	3600	in	ns	ns-cloud-d4.googledomains.com.
-paranoid.chat.	3600	in	ns	ns1.bodis.com.
-paranoid.chat.	3600	in	ns	ns2.bodis.com.
+paranoid.chat.	3600	in	ns	ns1.dns-redirect.com.
+paranoid.chat.	3600	in	ns	ns2.dns-redirect.com.
 parasocial.chat.	3600	in	ns	dns101.registrar-servers.com.
 parasocial.chat.	3600	in	ns	dns102.registrar-servers.com.
 parati.chat.	3600	in	ns	ns1.siteground.net.
@@ -79356,6 +79394,10 @@ paws.chat.	3600	in	ns	dns102.registrar-servers.com.
 pawsatyou.chat.	3600	in	ns	ns1.dreamhost.com.
 pawsatyou.chat.	3600	in	ns	ns2.dreamhost.com.
 pawsatyou.chat.	3600	in	ns	ns3.dreamhost.com.
+pawse.chat.	3600	in	ns	curitiba.ns.porkbun.com.
+pawse.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
+pawse.chat.	3600	in	ns	maceio.ns.porkbun.com.
+pawse.chat.	3600	in	ns	salvador.ns.porkbun.com.
 pax.chat.	3600	in	ns	ns1.dnsowl.com.
 pax.chat.	3600	in	ns	ns2.dnsowl.com.
 pax.chat.	3600	in	ns	ns3.dnsowl.com.
@@ -79670,6 +79712,8 @@ peer.chat.	3600	in	ns	ns25.domaincontrol.com.
 peer.chat.	3600	in	ns	ns26.domaincontrol.com.
 peercoin.chat.	3600	in	ns	dns1.registrar-servers.com.
 peercoin.chat.	3600	in	ns	dns2.registrar-servers.com.
+peerkunt.chat.	3600	in	ns	dns1.registrar-servers.com.
+peerkunt.chat.	3600	in	ns	dns2.registrar-servers.com.
 peerplays.chat.	3600	in	ns	dns1.registrar-servers.com.
 peerplays.chat.	3600	in	ns	dns2.registrar-servers.com.
 peery.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -79753,8 +79797,6 @@ penelope.chat.	3600	in	ns	ns1.beecloudy.net.
 penelope.chat.	3600	in	ns	ns2.beecloudy.net.
 penfield.chat.	3600	in	ns	bryce.ns.cloudflare.com.
 penfield.chat.	3600	in	ns	evangeline.ns.cloudflare.com.
-penfriend.chat.	3600	in	ns	dns101.registrar-servers.com.
-penfriend.chat.	3600	in	ns	dns102.registrar-servers.com.
 peng.chat.	3600	in	ns	ns1.afternic.com.
 peng.chat.	3600	in	ns	ns2.afternic.com.
 peng123.chat.	3600	in	ns	bookstore.dnspod.net.
@@ -79810,8 +79852,8 @@ penprompt.chat.	3600	in	ns	dns25.hichina.com.
 penprompt.chat.	3600	in	ns	dns26.hichina.com.
 penprompts.chat.	3600	in	ns	dns11.hichina.com.
 penprompts.chat.	3600	in	ns	dns12.hichina.com.
-pensieve.chat.	3600	in	ns	ns1.bodis.com.
-pensieve.chat.	3600	in	ns	ns2.bodis.com.
+pensieve.chat.	3600	in	ns	ns1.dns-redirect.com.
+pensieve.chat.	3600	in	ns	ns2.dns-redirect.com.
 pensum.chat.	3600	in	ns	ns13.domaincontrol.com.
 pensum.chat.	3600	in	ns	ns14.domaincontrol.com.
 penta.chat.	3600	in	ns	ns1.afternic.com.
@@ -81589,6 +81631,8 @@ podcratic.chat.	3600	in	ns	ns33.domaincontrol.com.
 podcratic.chat.	3600	in	ns	ns34.domaincontrol.com.
 podefalar.chat.	3600	in	ns	burt.ns.cloudflare.com.
 podefalar.chat.	3600	in	ns	eva.ns.cloudflare.com.
+podgorica.chat.	3600	in	ns	ns1.dns-parking.com.
+podgorica.chat.	3600	in	ns	ns2.dns-parking.com.
 podhop.chat.	3600	in	ns	art.ns.cloudflare.com.
 podhop.chat.	3600	in	ns	courtney.ns.cloudflare.com.
 podium.chat.	3600	in	ns	ns-1502.awsdns-59.org.
@@ -81972,8 +82016,10 @@ porndig.chat.	3600	in	ns	ns101.acwebconnecting.com.
 porndig.chat.	3600	in	ns	ns102.acwebconnecting.com.
 porngirls.chat.	3600	in	ns	brynne.ns.cloudflare.com.
 porngirls.chat.	3600	in	ns	george.ns.cloudflare.com.
-pornhub.chat.	3600	in	ns	ns1.bodis.com.
-pornhub.chat.	3600	in	ns	ns2.bodis.com.
+pornhub.chat.	3600	in	ns	curitiba.ns.porkbun.com.
+pornhub.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
+pornhub.chat.	3600	in	ns	maceio.ns.porkbun.com.
+pornhub.chat.	3600	in	ns	salvador.ns.porkbun.com.
 pornhubai.chat.	3600	in	ns	gabriella.ns.cloudflare.com.
 pornhubai.chat.	3600	in	ns	marty.ns.cloudflare.com.
 pornisland.chat.	3600	in	ns	augustus.ns.cloudflare.com.
@@ -82356,6 +82402,8 @@ prague.chat.	3600	in	ns	ns1.dns-parking.com.
 prague.chat.	3600	in	ns	ns2.dns-parking.com.
 praha.chat.	3600	in	ns	ns1.dns-parking.com.
 praha.chat.	3600	in	ns	ns2.dns-parking.com.
+praia.chat.	3600	in	ns	ns1.dns-parking.com.
+praia.chat.	3600	in	ns	ns2.dns-parking.com.
 prairiefire.chat.	3600	in	ns	ns37.domaincontrol.com.
 prairiefire.chat.	3600	in	ns	ns38.domaincontrol.com.
 prairiemeadows.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -82717,6 +82765,8 @@ prison.chat.	3600	in	ns	ns1.dns-parking.com.
 prison.chat.	3600	in	ns	ns2.dns-parking.com.
 prisonvr.chat.	3600	in	ns	etta.ns.cloudflare.com.
 prisonvr.chat.	3600	in	ns	norm.ns.cloudflare.com.
+pristina.chat.	3600	in	ns	ns1.dns-parking.com.
+pristina.chat.	3600	in	ns	ns2.dns-parking.com.
 pritell.chat.	3600	in	ds	44557 8 2 46B057AD789384DF99DB7231DF4A4AD7F3682AA336EED7063823A0396A06AB89
 pritell.chat.	3600	in	ns	ns-cloud-d1.googledomains.com.
 pritell.chat.	3600	in	ns	ns-cloud-d2.googledomains.com.
@@ -83538,8 +83588,8 @@ psyai.chat.	3600	in	ns	ns14.wixdns.net.
 psyai.chat.	3600	in	ns	ns15.wixdns.net.
 psych.chat.	3600	in	ns	ns1.afternic.com.
 psych.chat.	3600	in	ns	ns2.afternic.com.
-psychedelic.chat.	3600	in	ns	ns1.bodis.com.
-psychedelic.chat.	3600	in	ns	ns2.bodis.com.
+psychedelic.chat.	3600	in	ns	ns1.dns-redirect.com.
+psychedelic.chat.	3600	in	ns	ns2.dns-redirect.com.
 psychic-contact.chat.	3600	in	ns	ns27.domaincontrol.com.
 psychic-contact.chat.	3600	in	ns	ns28.domaincontrol.com.
 psychic.chat.	3600	in	ns	ns1.sedoparking.com.
@@ -83741,8 +83791,8 @@ pulaai.chat.	3600	in	ns	dns1.registrar-servers.com.
 pulaai.chat.	3600	in	ns	dns2.registrar-servers.com.
 pulink.chat.	3600	in	ns	dns31.hichina.com.
 pulink.chat.	3600	in	ns	dns32.hichina.com.
-pull.chat.	3600	in	ns	ns1.bodis.com.
-pull.chat.	3600	in	ns	ns2.bodis.com.
+pull.chat.	3600	in	ns	ns1.dns-redirect.com.
+pull.chat.	3600	in	ns	ns2.dns-redirect.com.
 pullable.chat.	3600	in	ns	isla.ns.cloudflare.com.
 pullable.chat.	3600	in	ns	razvan.ns.cloudflare.com.
 pullses.chat.	3600	in	ns	ns35.domaincontrol.com.
@@ -83959,8 +84009,8 @@ puti.chat.	3600	in	ns	dns17.hichina.com.
 puti.chat.	3600	in	ns	dns18.hichina.com.
 putiq.chat.	3600	in	ns	ns45.domaincontrol.com.
 putiq.chat.	3600	in	ns	ns46.domaincontrol.com.
-putlocker.chat.	3600	in	ns	ns1.bodis.com.
-putlocker.chat.	3600	in	ns	ns2.bodis.com.
+putlocker.chat.	3600	in	ns	ns1.dns-redirect.com.
+putlocker.chat.	3600	in	ns	ns2.dns-redirect.com.
 putlockers.chat.	3600	in	ns	ns1.dns-redirect.com.
 putlockers.chat.	3600	in	ns	ns2.dns-redirect.com.
 puu938nk6m5cp91lqt6rp9q4f6p0ff4v.chat.	3600	in	nsec3	1 1 0 73 PV2QJUU09V9CDSSDNL7AQARSLAH0ASS7 NS DS RRSIG
@@ -85002,9 +85052,8 @@ quatangtrian.chat.	3600	in	ns	dns101.registrar-servers.com.
 quatangtrian.chat.	3600	in	ns	dns102.registrar-servers.com.
 quatangyody.chat.	3600	in	ns	dns101.registrar-servers.com.
 quatangyody.chat.	3600	in	ns	dns102.registrar-servers.com.
-quaternary.chat.	3600	in	ns	ns1.dan.com.
-quaternary.chat.	3600	in	ns	ns2.dan.com.
-quaternary.chat.	3600	in	ns	p8i389dx.verify.hn.
+quaternary.chat.	3600	in	ns	ns1-expired.sav.com.
+quaternary.chat.	3600	in	ns	ns2-expired.sav.com.
 quathemis.chat.	3600	in	ns	ivan.ns.cloudflare.com.
 quathemis.chat.	3600	in	ns	sureena.ns.cloudflare.com.
 quatro.chat.	3600	in	ns	ns-145.awsdns-18.com.
@@ -85317,9 +85366,8 @@ qurancomputing.chat.	3600	in	ns	ns23.domaincontrol.com.
 qurancomputing.chat.	3600	in	ns	ns24.domaincontrol.com.
 quriosity.chat.	3600	in	ns	ns73.domaincontrol.com.
 quriosity.chat.	3600	in	ns	ns74.domaincontrol.com.
-qutrit.chat.	3600	in	ns	ns1.dan.com.
-qutrit.chat.	3600	in	ns	ns2.dan.com.
-qutrit.chat.	3600	in	ns	p8i389dx.verify.hn.
+qutrit.chat.	3600	in	ns	ns1-expired.sav.com.
+qutrit.chat.	3600	in	ns	ns2-expired.sav.com.
 qutui.chat.	3600	in	ns	ns1.dnsip.com.
 qutui.chat.	3600	in	ns	ns2.dnsip.com.
 quwanlu.chat.	3600	in	ns	eucalytus.dnspod.net.
@@ -85588,8 +85636,9 @@ rabat.chat.	3600	in	ns	ns1.dns-parking.com.
 rabat.chat.	3600	in	ns	ns2.dns-parking.com.
 rabbi.chat.	3600	in	ns	dns1.registrar-servers.com.
 rabbi.chat.	3600	in	ns	dns2.registrar-servers.com.
-rabbit.chat.	3600	in	ns	expire1.cnolnic.com.
-rabbit.chat.	3600	in	ns	expire2.cnolnic.com.
+rabbit.chat.	3600	in	ns	ns1.afternic.com.
+rabbit.chat.	3600	in	ns	ns2.afternic.com.
+rabbit.chat.	3600	in	ns	verification-qaxpgh9dahjr9zkpwwmdzx.ns101.verify.hn.
 rabbitbet.chat.	3600	in	ns	jeremy.ns.cloudflare.com.
 rabbitbet.chat.	3600	in	ns	samara.ns.cloudflare.com.
 rabbithole.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -86397,6 +86446,9 @@ realmeat.chat.	3600	in	ns	ns-cloud-c4.googledomains.com.
 realmeat.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. NIqBfujEnNYe5X2LB43k9pIzEx9sXNBs2AMzkTQjTTvPxCfTmTV5cn0IMe3bazJUXbFrDdJe0g+BTvHQhOIbj4WqNj6Pck4dRBJ615gMFJz8r1pa66NgOeki1OFexOOS5K4BzZA9DidLwk3hOuXNmoAGtc+GGTTmmRIRfWz0cD8=
 realms.chat.	3600	in	ns	ns55.domaincontrol.com.
 realms.chat.	3600	in	ns	ns56.domaincontrol.com.
+realorfake.chat.	3600	in	ns	ns1.hostserv.eu.
+realorfake.chat.	3600	in	ns	ns2.hostserv.eu.
+realorfake.chat.	3600	in	ns	ns3.hostserv.eu.
 realperson.chat.	3600	in	ns	dns1.registrar-servers.com.
 realperson.chat.	3600	in	ns	dns2.registrar-servers.com.
 realplay.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -86530,12 +86582,6 @@ rechat.chat.	3600	in	ns	ns-1099.awsdns-09.org.
 rechat.chat.	3600	in	ns	ns-1716.awsdns-22.co.uk.
 rechat.chat.	3600	in	ns	ns-339.awsdns-42.com.
 rechat.chat.	3600	in	ns	ns-833.awsdns-40.net.
-rechen.chat.	3600	in	ns	ns1.myhostadmin.net.
-rechen.chat.	3600	in	ns	ns2.myhostadmin.net.
-rechen.chat.	3600	in	ns	ns3.myhostadmin.net.
-rechen.chat.	3600	in	ns	ns4.myhostadmin.net.
-rechen.chat.	3600	in	ns	ns5.myhostadmin.net.
-rechen.chat.	3600	in	ns	ns6.myhostadmin.net.
 rechtsschutz.chat.	3600	in	ds	2371 13 2 A91925F227163944F715E352E8FC68B3444963A2C4BD28E67A6853E003A44B46
 rechtsschutz.chat.	3600	in	ns	rafe.ns.cloudflare.com.
 rechtsschutz.chat.	3600	in	ns	simon.ns.cloudflare.com.
@@ -87571,10 +87617,8 @@ resq.chat.	3600	in	ns	ns1.dns-parking.com.
 resq.chat.	3600	in	ns	ns2.dns-parking.com.
 rest.chat.	3600	in	ns	pdns11.domaincontrol.com.
 rest.chat.	3600	in	ns	pdns12.domaincontrol.com.
-restart.chat.	3600	in	ds	64258 13 2 D6CDB606F9476F9B2F674620348173090E6C217C09D6EA5D1637AACAFBC6657C
-restart.chat.	3600	in	ns	launch1.spaceship.net.
-restart.chat.	3600	in	ns	launch2.spaceship.net.
-restart.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. dLV69n+pGtIOoXkCV8beR65+WnmU5NTeRn6NkBkSFnymZ4FmK9XpPSmcuib0B2qaY5EyqZb3oPi7jChvthH4KWzrELm+uPnc1Nc9lnKRpL1+XqsePftN1AbOL8wqIlqLlTkgoSKmY8puFMwRxJcehkEoJ4fhVe8kP0WOKS8cTYg=
+restart.chat.	3600	in	ns	ns1.afternic.com.
+restart.chat.	3600	in	ns	ns2.afternic.com.
 restaurant.chat.	3600	in	ns	aaron.ns.cloudflare.com.
 restaurant.chat.	3600	in	ns	donna.ns.cloudflare.com.
 restaurante.chat.	3600	in	ns	dns33.servidoresdns.net.
@@ -88457,8 +88501,8 @@ rob.chat.	3600	in	ns	ns63.domaincontrol.com.
 rob.chat.	3600	in	ns	ns64.domaincontrol.com.
 rob3o83ijuo5c3hao1mj9nb3ji56o8b2.chat.	3600	in	nsec3	1 1 0 73 ROQ5G2IH4TVU10BVQ8LRU018D6ESB1RA NS DS RRSIG
 rob3o83ijuo5c3hao1mj9nb3ji56o8b2.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. j9blBSnTl7nbtFQjqgZvHBCCNNJqzPjO8UfDbX2r6QD3UUe8eTdy4IFzfX3mgoyqg7zV3xpFPWhiuxClpS+s0iDp8liujMlbDEleXKguQorWLkT6tppQdSpOJhmuCE0hKRZyXHFHCu7KNtQKOR/y2+PWvGY7bDVbolmGqNqEN3Y=
-robbie.chat.	3600	in	ns	ns1.bodis.com.
-robbie.chat.	3600	in	ns	ns2.bodis.com.
+robbie.chat.	3600	in	ns	ns1.dns-redirect.com.
+robbie.chat.	3600	in	ns	ns2.dns-redirect.com.
 robee.chat.	3600	in	ns	dns27.hichina.com.
 robee.chat.	3600	in	ns	dns28.hichina.com.
 robert.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -88612,6 +88656,9 @@ rodriguez.chat.	3600	in	ns	dns1.registrar-servers.com.
 rodriguez.chat.	3600	in	ns	dns2.registrar-servers.com.
 roejogan.chat.	3600	in	ns	dns1.registrar-servers.com.
 roejogan.chat.	3600	in	ns	dns2.registrar-servers.com.
+rof.chat.	3600	in	ns	ns1.hosttech.ch.
+rof.chat.	3600	in	ns	ns2.hosttech.ch.
+rof.chat.	3600	in	ns	ns3.hosttech.ch.
 rofl.chat.	3600	in	ns	ns15.abovedomains.com.
 rofl.chat.	3600	in	ns	ns16.abovedomains.com.
 rog.chat.	3600	in	ns	isaac.ns.cloudflare.com.
@@ -89197,6 +89244,8 @@ ruanjiang.chat.	3600	in	ns	ns5.myhostadmin.net.
 ruanjiang.chat.	3600	in	ns	ns6.myhostadmin.net.
 ruanjishu.chat.	3600	in	ns	building.dnspod.net.
 ruanjishu.chat.	3600	in	ns	trainee.dnspod.net.
+ruankao.chat.	3600	in	ns	bed.dnspod.net.
+ruankao.chat.	3600	in	ns	hamiltion.dnspod.net.
 ruanwen.chat.	3600	in	ns	n1.xundns.com.
 ruanwen.chat.	3600	in	ns	n2.xundns.com.
 ruay.chat.	3600	in	ns	kehlani.ns.cloudflare.com.
@@ -90246,6 +90295,8 @@ sana-777.chat.	3600	in	ns	ns1.dyna-ns.net.
 sana-777.chat.	3600	in	ns	ns2.dyna-ns.net.
 sana.chat.	3600	in	ns	ns1.vercel-dns.com.
 sana.chat.	3600	in	ns	ns2.vercel-dns.com.
+sanaa.chat.	3600	in	ns	ns1.dns-parking.com.
+sanaa.chat.	3600	in	ns	ns2.dns-parking.com.
 sanad.chat.	3600	in	ns	dns1.registrar-servers.com.
 sanad.chat.	3600	in	ns	dns2.registrar-servers.com.
 sanag.chat.	3600	in	ns	dns17.hichina.com.
@@ -90435,6 +90486,8 @@ saobao.chat.	3600	in	ns	clean.dnspod.net.
 saobao.chat.	3600	in	ns	clifford.dnspod.net.
 saopaulo.chat.	3600	in	ns	ns1.dns-parking.com.
 saopaulo.chat.	3600	in	ns	ns2.dns-parking.com.
+saotome.chat.	3600	in	ns	ns1.dns-parking.com.
+saotome.chat.	3600	in	ns	ns2.dns-parking.com.
 sap.chat.	3600	in	ns	curitiba.ns.porkbun.com.
 sap.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
 sap.chat.	3600	in	ns	maceio.ns.porkbun.com.
@@ -91816,6 +91869,8 @@ selfhosted.chat.	3600	in	ns	henry.ns.cloudflare.com.
 selfhosted.chat.	3600	in	ns	kia.ns.cloudflare.com.
 selfie.chat.	3600	in	ns	ns57.domaincontrol.com.
 selfie.chat.	3600	in	ns	ns58.domaincontrol.com.
+selflearningai.chat.	3600	in	ns	dns1.registrar-servers.com.
+selflearningai.chat.	3600	in	ns	dns2.registrar-servers.com.
 selfless.chat.	3600	in	ns	garret.ns.cloudflare.com.
 selfless.chat.	3600	in	ns	rayne.ns.cloudflare.com.
 selfmade.chat.	3600	in	ns	piotr.ns.cloudflare.com.
@@ -92325,6 +92380,9 @@ seuai.chat.	3600	in	ns	dns15.hichina.com.
 seuai.chat.	3600	in	ns	dns16.hichina.com.
 seuchatgpt.chat.	3600	in	ns	dns1.registrar-servers.com.
 seuchatgpt.chat.	3600	in	ns	dns2.registrar-servers.com.
+seugpt.chat.	3600	in	ns	ns1.systemdns.com.
+seugpt.chat.	3600	in	ns	ns2.systemdns.com.
+seugpt.chat.	3600	in	ns	ns3.systemdns.com.
 seven.chat.	3600	in	ns	f1g1ns1.dnspod.net.
 seven.chat.	3600	in	ns	f1g1ns2.dnspod.net.
 seven7555.chat.	3600	in	ns	belle.dnspod.net.
@@ -93416,8 +93474,6 @@ shopnetio.chat.	3600	in	ds	62172 13 2 763D71D60E7DBF67DD7B7BBC8BD0CD8CC3A9549644
 shopnetio.chat.	3600	in	ns	launch1.spaceship.net.
 shopnetio.chat.	3600	in	ns	launch2.spaceship.net.
 shopnetio.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. BGbE0tpiQBmKcWKWoOB211awKfjcniL8T9KoKkfR7aD6tu0MrgqJjtJ2dk/q9IuW6+jaGTzwyj8Ni+zZ7FHf5rqBTBG/YmRAonwdN5ekzw5biPhysT5XBIFm84JA6HR4a26BzBDLwnFO50O04FUEWTUWoWnT39ofRwqkkFHdXHA=
-shopnow.chat.	3600	in	ns	ns1.centos-webpanel.com.
-shopnow.chat.	3600	in	ns	ns2.centos-webpanel.com.
 shopon.chat.	3600	in	ds	11803 13 2 B2DCC4AD45C89536EB0593003FC5C014AB8B3DA7DFD626A53CA0DC10CC612685
 shopon.chat.	3600	in	ns	launch1.spaceship.net.
 shopon.chat.	3600	in	ns	launch2.spaceship.net.
@@ -93726,8 +93782,6 @@ shuziai.chat.	3600	in	ns	dns23.hichina.com.
 shuziai.chat.	3600	in	ns	dns24.hichina.com.
 shuzijihe.chat.	3600	in	ns	dns21.hichina.com.
 shuzijihe.chat.	3600	in	ns	dns22.hichina.com.
-shuziren.chat.	3600	in	ns	expire01.dnspod.net.
-shuziren.chat.	3600	in	ns	expire02.dnspod.net.
 shwizard.chat.	3600	in	ds	58570 8 2 307203204D418787E35A5337510A1A978714D944268F6E71862961CDD15660C3
 shwizard.chat.	3600	in	ns	ns-cloud-b1.googledomains.com.
 shwizard.chat.	3600	in	ns	ns-cloud-b2.googledomains.com.
@@ -94832,8 +94886,8 @@ skywalker.chat.	3600	in	ns	ns1.dns-redirect.com.
 skywalker.chat.	3600	in	ns	ns2.dns-redirect.com.
 skyweaver.chat.	3600	in	ns	adel.ns.cloudflare.com.
 skyweaver.chat.	3600	in	ns	damon.ns.cloudflare.com.
-skywork.chat.	3600	in	ns	ns1.atom.com.
-skywork.chat.	3600	in	ns	ns2.atom.com.
+skywork.chat.	3600	in	ns	launch1.spaceship.net.
+skywork.chat.	3600	in	ns	launch2.spaceship.net.
 sl0429.chat.	3600	in	ns	dylan.ns.cloudflare.com.
 sl0429.chat.	3600	in	ns	melina.ns.cloudflare.com.
 slab.chat.	3600	in	ns	launch1.spaceship.net.
@@ -95813,6 +95867,8 @@ socials.chat.	3600	in	ns	docks07.rzone.de.
 socials.chat.	3600	in	ns	shades02.rzone.de.
 socialsanity.chat.	3600	in	ns	ns19.domaincontrol.com.
 socialsanity.chat.	3600	in	ns	ns20.domaincontrol.com.
+socialsecurity.chat.	3600	in	ns	dns1.registrar-servers.com.
+socialsecurity.chat.	3600	in	ns	dns2.registrar-servers.com.
 socialservices.chat.	3600	in	ns	ns-cloud-e1.googledomains.com.
 socialservices.chat.	3600	in	ns	ns-cloud-e2.googledomains.com.
 socialservices.chat.	3600	in	ns	ns-cloud-e3.googledomains.com.
@@ -96617,6 +96673,8 @@ spai.chat.	3600	in	ds	2371 13 2 775491B59717D7C130DD78879ED9008C94F0787129FA974E
 spai.chat.	3600	in	ns	evan.ns.cloudflare.com.
 spai.chat.	3600	in	ns	nadia.ns.cloudflare.com.
 spai.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. cj8/CeFRI8JTb7lMITcIcsidhOiIy8KTdAxVyQrjtrQlIxLhbWu8d5rJzQ/P8tq9hXQpD0N0GH36Wi7IxczziTCNCBqNk4uf5ETFupGR1qn/BDl7diNGCByemVZSMaNUpDOxw/PNJggBpsRCHjQuhk6ID/tXXz2mA+M/xmsyk1s=
+spainish.chat.	3600	in	ns	emerie.ns.cloudflare.com.
+spainish.chat.	3600	in	ns	harvey.ns.cloudflare.com.
 spal.chat.	3600	in	ns	dns3.hichina.com.
 spal.chat.	3600	in	ns	dns4.hichina.com.
 spam.chat.	3600	in	ns	ns1.dns-redirect.com.
@@ -97380,6 +97438,8 @@ srdate.chat.	3600	in	ns	carol.ns.cloudflare.com.
 srdate.chat.	3600	in	ns	vicente.ns.cloudflare.com.
 sre.chat.	3600	in	ns	dns1.registrar-servers.com.
 sre.chat.	3600	in	ns	dns2.registrar-servers.com.
+sri.chat.	3600	in	ns	ns1.dns-parking.com.
+sri.chat.	3600	in	ns	ns2.dns-parking.com.
 srichinmoy.chat.	3600	in	ds	18582 13 2 A96E9EC5CFABE177F46F86FB81DE8F8E8D3873B4033E4312F80941A4A44E7E59
 srichinmoy.chat.	3600	in	ns	launch1.spaceship.net.
 srichinmoy.chat.	3600	in	ns	launch2.spaceship.net.
@@ -98680,8 +98740,8 @@ suati.chat.	3600	in	ns	ns-1505.awsdns-60.org.
 suati.chat.	3600	in	ns	ns-1817.awsdns-35.co.uk.
 suati.chat.	3600	in	ns	ns-342.awsdns-42.com.
 suati.chat.	3600	in	ns	ns-523.awsdns-01.net.
-sub.chat.	3600	in	ns	dns1.hichina.com.
-sub.chat.	3600	in	ns	dns2.hichina.com.
+sub.chat.	3600	in	ns	expirens3.hichina.com.
+sub.chat.	3600	in	ns	expirens4.hichina.com.
 subat.chat.	3600	in	ns	mutton.dnspod.net.
 subat.chat.	3600	in	ns	vicky.dnspod.net.
 subconscious.chat.	3600	in	ns	ns53.domaincontrol.com.
@@ -98897,8 +98957,6 @@ sumari.chat.	3600	in	ns	maceio.ns.porkbun.com.
 sumari.chat.	3600	in	ns	salvador.ns.porkbun.com.
 sumclub.chat.	3600	in	ns	ns19.domaincontrol.com.
 sumclub.chat.	3600	in	ns	ns20.domaincontrol.com.
-sumi.chat.	3600	in	ns	ns1.ns306.parklogic.com.
-sumi.chat.	3600	in	ns	ns2.ns306.parklogic.com.
 summa.chat.	3600	in	ns	rocky.ns.cloudflare.com.
 summa.chat.	3600	in	ns	wally.ns.cloudflare.com.
 summarize.chat.	3600	in	ds	43921 8 2 655037D58C424794BA04FC8251A13440D47B2CA1E9E7B4ECE0236180FB515ECC
@@ -99023,6 +99081,8 @@ sunwin20.chat.	3600	in	ns	curt.ns.cloudflare.com.
 sunwin20.chat.	3600	in	ns	dalary.ns.cloudflare.com.
 sunwinn.chat.	3600	in	ns	leanna.ns.cloudflare.com.
 sunwinn.chat.	3600	in	ns	stan.ns.cloudflare.com.
+sunxin.chat.	3600	in	ns	canna.dnspod.net.
+sunxin.chat.	3600	in	ns	nickel.dnspod.net.
 sunyata.chat.	3600	in	ns	ns1-coming-soon.sav.com.
 sunyata.chat.	3600	in	ns	ns2-coming-soon.sav.com.
 sunye.chat.	3600	in	ns	kitty.dnspod.net.
@@ -99452,6 +99512,8 @@ sutyi.chat.	3600	in	ns	dns1.registrar-servers.com.
 sutyi.chat.	3600	in	ns	dns2.registrar-servers.com.
 sutz.chat.	3600	in	ns	dns1.registrar-servers.com.
 sutz.chat.	3600	in	ns	dns2.registrar-servers.com.
+suva.chat.	3600	in	ns	ns1.dns-parking.com.
+suva.chat.	3600	in	ns	ns2.dns-parking.com.
 suvenirka.chat.	3600	in	ns	nsa2.srv53.com.
 suvenirka.chat.	3600	in	ns	nsa3.srv53.net.
 suvenirka.chat.	3600	in	ns	nsa3.srv53.org.
@@ -99466,6 +99528,8 @@ suvenirka.chat.	3600	in	ns	nsd2.srv53.com.
 suvenirka.chat.	3600	in	ns	nsd3.srv53.net.
 suwen.chat.	3600	in	ns	array.dnspod.net.
 suwen.chat.	3600	in	ns	bishop.dnspod.net.
+suxian.chat.	3600	in	ns	beef.dnspod.net.
+suxian.chat.	3600	in	ns	schedar.dnspod.net.
 suyan.chat.	3600	in	ns	expire1.cnolnic.com.
 suyan.chat.	3600	in	ns	expire2.cnolnic.com.
 suyu.chat.	3600	in	ns	downpour.dnspod.net.
@@ -99957,12 +100021,6 @@ synkd.chat.	3600	in	ns	maceio.ns.porkbun.com.
 synkd.chat.	3600	in	ns	salvador.ns.porkbun.com.
 syno.chat.	3600	in	ns	ns33.domaincontrol.com.
 syno.chat.	3600	in	ns	ns34.domaincontrol.com.
-synology.chat.	3600	in	ns	ns1.myhostadmin.net.
-synology.chat.	3600	in	ns	ns2.myhostadmin.net.
-synology.chat.	3600	in	ns	ns3.myhostadmin.net.
-synology.chat.	3600	in	ns	ns4.myhostadmin.net.
-synology.chat.	3600	in	ns	ns5.myhostadmin.net.
-synology.chat.	3600	in	ns	ns6.myhostadmin.net.
 synq.chat.	3600	in	ns	annabel.ns.cloudflare.com.
 synq.chat.	3600	in	ns	byron.ns.cloudflare.com.
 synqly.chat.	3600	in	ns	nsn1.mijndomein.nl.
@@ -100880,6 +100938,8 @@ tamude.chat.	3600	in	ns	ns-485.awsdns-60.com.
 tamude.chat.	3600	in	ns	ns-873.awsdns-45.net.
 tan.chat.	3600	in	ns	ns1.sedoparking.com.
 tan.chat.	3600	in	ns	ns2.sedoparking.com.
+tana.chat.	3600	in	ns	ns1.dns-parking.com.
+tana.chat.	3600	in	ns	ns2.dns-parking.com.
 tanaland.chat.	3600	in	ns	kiki.ns.cloudflare.com.
 tanaland.chat.	3600	in	ns	lou.ns.cloudflare.com.
 tanaworld.chat.	3600	in	ns	ns1.dns-parking.com.
@@ -100929,6 +100989,8 @@ tangram.chat.	3600	in	ns	ns2.tanhost.com.
 tangram.chat.	3600	in	ns	ns3.tanhost.com.
 tangshuang.chat.	3600	in	ns	dns25.hichina.com.
 tangshuang.chat.	3600	in	ns	dns26.hichina.com.
+tanguo.chat.	3600	in	ns	dns21.hichina.com.
+tanguo.chat.	3600	in	ns	dns22.hichina.com.
 tangyuan.chat.	3600	in	ns	n1.xundns.com.
 tangyuan.chat.	3600	in	ns	n2.xundns.com.
 tania.chat.	3600	in	ns	ns15.domaincontrol.com.
@@ -102240,9 +102302,8 @@ terms.chat.	3600	in	ns	dns1.registrar-servers.com.
 terms.chat.	3600	in	ns	dns2.registrar-servers.com.
 termwave.chat.	3600	in	ns	dns1.registrar-servers.com.
 termwave.chat.	3600	in	ns	dns2.registrar-servers.com.
-ternary.chat.	3600	in	ns	ns1.dan.com.
-ternary.chat.	3600	in	ns	ns2.dan.com.
-ternary.chat.	3600	in	ns	p8i389dx.verify.hn.
+ternary.chat.	3600	in	ns	ns1-expired.sav.com.
+ternary.chat.	3600	in	ns	ns2-expired.sav.com.
 terra.chat.	3600	in	ns	ns1.us89.siteground.us.
 terra.chat.	3600	in	ns	ns2.us89.siteground.us.
 terraform.chat.	3600	in	ns	ns-1425.awsdns-50.org.
@@ -102411,8 +102472,8 @@ textfree.chat.	3600	in	ns	ns1.fp261.parklogic.com.
 textfree.chat.	3600	in	ns	ns2.fp261.parklogic.com.
 textgenie.chat.	3600	in	ns	dns23.hichina.com.
 textgenie.chat.	3600	in	ns	dns24.hichina.com.
-textgpt.chat.	3600	in	ns	ns1.bodis.com.
-textgpt.chat.	3600	in	ns	ns2.bodis.com.
+textgpt.chat.	3600	in	ns	ns1.dns-redirect.com.
+textgpt.chat.	3600	in	ns	ns2.dns-redirect.com.
 textify.chat.	3600	in	ns	ns51.domaincontrol.com.
 textify.chat.	3600	in	ns	ns52.domaincontrol.com.
 textile.chat.	3600	in	ns	aldebaran.dnspod.net.
@@ -103143,6 +103204,8 @@ thienduongtrochoi.chat.	3600	in	ns	john.ns.cloudflare.com.
 thienduongtrochoi.chat.	3600	in	ns	phoenix.ns.cloudflare.com.
 thiennguyenbk.chat.	3600	in	ns	ns1.sav.com.
 thiennguyenbk.chat.	3600	in	ns	ns2.sav.com.
+thimphu.chat.	3600	in	ns	ns1.dns-parking.com.
+thimphu.chat.	3600	in	ns	ns2.dns-parking.com.
 thin.chat.	3600	in	ns	ns1.afternic.com.
 thin.chat.	3600	in	ns	ns2.afternic.com.
 thing.chat.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -103780,8 +103843,8 @@ timex.chat.	3600	in	ns	ns19.domaincontrol.com.
 timex.chat.	3600	in	ns	ns20.domaincontrol.com.
 timmy.chat.	3600	in	ns	pdns1.registrar-servers.com.
 timmy.chat.	3600	in	ns	pdns2.registrar-servers.com.
-timo.chat.	3600	in	ns	ns1.bodis.com.
-timo.chat.	3600	in	ns	ns2.bodis.com.
+timo.chat.	3600	in	ns	ns1.dns-redirect.com.
+timo.chat.	3600	in	ns	ns2.dns-redirect.com.
 timomo.chat.	3600	in	ns	cormorant.dnspod.net.
 timomo.chat.	3600	in	ns	cow.dnspod.net.
 timothy.chat.	3600	in	ns	starfish.dnspod.net.
@@ -105189,8 +105252,8 @@ travel.chat.	3600	in	ns	ns2.afternic.com.
 travel.chat.	3600	in	ns	verification-qukgmcgqfzzspgyjzbmtps.ns101.verify.hn.
 travelagent.chat.	3600	in	ns	ns1.afternic.com.
 travelagent.chat.	3600	in	ns	ns2.afternic.com.
-travelagents.chat.	3600	in	ns	dns1.registrar-servers.com.
-travelagents.chat.	3600	in	ns	dns2.registrar-servers.com.
+travelagents.chat.	3600	in	ns	dns101.registrar-servers.com.
+travelagents.chat.	3600	in	ns	dns102.registrar-servers.com.
 travelai.chat.	3600	in	ns	ns1.dyna-ns.net.
 travelai.chat.	3600	in	ns	ns2.dyna-ns.net.
 travelassist.chat.	3600	in	ds	46895 13 2 CB41674E3D323FFD594F4B7543D0DD700B66106294F427040F0D19A93C32DC26
@@ -106226,6 +106289,8 @@ turn.chat.	3600	in	ns	ns2.digitalocean.com.
 turn.chat.	3600	in	ns	ns3.digitalocean.com.
 turner.chat.	3600	in	ns	dns1.registrar-servers.com.
 turner.chat.	3600	in	ns	dns2.registrar-servers.com.
+turningpointusa.chat.	3600	in	ns	dns1.registrar-servers.com.
+turningpointusa.chat.	3600	in	ns	dns2.registrar-servers.com.
 turnip.chat.	3600	in	ns	dns1.registrar-servers.com.
 turnip.chat.	3600	in	ns	dns2.registrar-servers.com.
 turnitin.chat.	3600	in	ns	column.dnspod.net.
@@ -106393,6 +106458,8 @@ twinflame.chat.	3600	in	ns	decker.ns.cloudflare.com.
 twinflame.chat.	3600	in	ns	fatima.ns.cloudflare.com.
 twink.chat.	3600	in	ns	george.ns.cloudflare.com.
 twink.chat.	3600	in	ns	ines.ns.cloudflare.com.
+twinkle.chat.	3600	in	ns	dns1.registrar-servers.com.
+twinkle.chat.	3600	in	ns	dns2.registrar-servers.com.
 twinsapp.chat.	3600	in	ns	curitiba.ns.porkbun.com.
 twinsapp.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
 twinsapp.chat.	3600	in	ns	maceio.ns.porkbun.com.
@@ -107353,8 +107420,6 @@ unichat.chat.	3600	in	ns	ns51.domaincontrol.com.
 unichat.chat.	3600	in	ns	ns52.domaincontrol.com.
 unico.chat.	3600	in	ns	ns07.domaincontrol.com.
 unico.chat.	3600	in	ns	ns08.domaincontrol.com.
-uniconbet.chat.	3600	in	ns	dns101.registrar-servers.com.
-uniconbet.chat.	3600	in	ns	dns102.registrar-servers.com.
 unicorn.chat.	3600	in	ns	ns1.afternic.com.
 unicorn.chat.	3600	in	ns	ns2.afternic.com.
 unicorn.chat.	3600	in	ns	verification-mzmjchcj28oatbtwxzgpt5.ns101.verify.hn.
@@ -107425,8 +107490,8 @@ unionllm.chat.	3600	in	ns	aurora.ns.cloudflare.com.
 unionllm.chat.	3600	in	ns	plato.ns.cloudflare.com.
 uniq.chat.	3600	in	ns	ns69.domaincontrol.com.
 uniq.chat.	3600	in	ns	ns70.domaincontrol.com.
-unirandy.chat.	3600	in	ns	monoceros.dnspod.net.
-unirandy.chat.	3600	in	ns	seventeen.dnspod.net.
+unirandy.chat.	3600	in	ns	coen.ns.cloudflare.com.
+unirandy.chat.	3600	in	ns	rosemary.ns.cloudflare.com.
 unison.chat.	3600	in	ns	ns1.aftermarket.com.
 unison.chat.	3600	in	ns	ns2.aftermarket.com.
 unit.chat.	3600	in	ns	ns-1200.awsdns-22.org.
@@ -107440,9 +107505,8 @@ unite.chat.	3600	in	ns	ns1.eurodns.com.
 unite.chat.	3600	in	ns	ns2.eurodns.com.
 unite.chat.	3600	in	ns	ns3.eurodns.com.
 unite.chat.	3600	in	ns	ns4.eurodns.com.
-united.chat.	3600	in	ns	ns.udag.de.
-united.chat.	3600	in	ns	ns.udag.net.
-united.chat.	3600	in	ns	ns.udag.org.
+unitea.chat.	3600	in	ns	albert.ns.cloudflare.com.
+unitea.chat.	3600	in	ns	sneh.ns.cloudflare.com.
 unitedcerebralpalsy.chat.	3600	in	ns	ns1.instradns.com.
 unitedcerebralpalsy.chat.	3600	in	ns	ns2.instradns.com.
 unitedcerebralpalsy.chat.	3600	in	ns	ns3.instradns.com.
@@ -108243,8 +108307,8 @@ v54pfjlvcvk898hrg986ij7revgpaa32.chat.	3600	in	nsec3	1 1 0 73 V5UK6CIPKNF5HREBTB
 v54pfjlvcvk898hrg986ij7revgpaa32.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. hZTG4FlRGSMfEV+bwtbrpi8yKko/EE9y8yx54Upr5mJCyGudeYr8c5i6fKiKAjHlXTh9ekYcSdtxlVLeBb7g+J0VOdDlnRoonBcX5a1o9JHnVEHsbtN/bF0F4SXu2rpRpeBwJ2/LrPw9tUonhLN+Ci2eUWDjo+ZMYwxXPg68Hcw=
 v5uk6cipknf5hrebtblaj3s3oomks2kt.chat.	3600	in	nsec3	1 1 0 73 V6UL21PPU4VAG830LQ34AJCOP3GPJ60T NS DS RRSIG
 v5uk6cipknf5hrebtblaj3s3oomks2kt.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. hIgM5Uc+HizHFQbd6l8Ze9ZdmsOX5ddqjK19v5IQB6Shu01CvwNpgS068ezaO8PIRdpdasv+eSRcRm7EkE2u325v/RwyFzTpq5t6qrkrMJXetFJ7NGfu13tlW+OyzOULGSOKec5+C9qwZTpndeGB1ZuaY0rquyfGBchlLw/gGAs=
-v6.chat.	3600	in	ns	ns1.bodis.com.
-v6.chat.	3600	in	ns	ns2.bodis.com.
+v6.chat.	3600	in	ns	ns1.dns-redirect.com.
+v6.chat.	3600	in	ns	ns2.dns-redirect.com.
 v6ul21ppu4vag830lq34ajcop3gpj60t.chat.	3600	in	nsec3	1 1 0 73 V72BG4251LM6KIULR8ID793AOVGGLTES NS DS RRSIG
 v6ul21ppu4vag830lq34ajcop3gpj60t.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. sQQBDV7vVslX957cJRyauwkUqJr55bD/zzxpqlAFn0KX2QIiZEhphgQr0720ezgifeJz2dPQ0l6DvFpOXXZ5hIcUjfN1MOrxz5eAwxHbeTHdMJPe4qoO9skvmcPfciG/uwNEniPIeQnvhnYtLwFR2S7NrDFouf9X259XjVW361E=
 v7.chat.	3600	in	ns	elmo.ns.cloudflare.com.
@@ -108297,12 +108361,12 @@ vacation.chat.	3600	in	ns	ns1.afternic.com.
 vacation.chat.	3600	in	ns	ns2.afternic.com.
 vacationrental.chat.	3600	in	ns	ns1.hover.com.
 vacationrental.chat.	3600	in	ns	ns2.hover.com.
-vacationrentals.chat.	3600	in	ns	dns101.registrar-servers.com.
-vacationrentals.chat.	3600	in	ns	dns102.registrar-servers.com.
 vace.chat.	3600	in	ns	ns1.afternic.com.
 vace.chat.	3600	in	ns	ns2.afternic.com.
 vader.chat.	3600	in	ns	dns1.registrar-servers.com.
 vader.chat.	3600	in	ns	dns2.registrar-servers.com.
+vaduz.chat.	3600	in	ns	ns1.dns-parking.com.
+vaduz.chat.	3600	in	ns	ns2.dns-parking.com.
 vagabond.chat.	3600	in	ds	36661 8 2 233824C690E39B1901358BC488C3F9B0A2CED807C9C7389869B941180F7AC89D
 vagabond.chat.	3600	in	ns	dns12.ovh.net.
 vagabond.chat.	3600	in	ns	ns12.ovh.net.
@@ -108416,6 +108480,8 @@ valkyrie.chat.	3600	in	ns	armando.ns.cloudflare.com.
 valkyrie.chat.	3600	in	ns	laila.ns.cloudflare.com.
 vall.chat.	3600	in	ns	ns59.domaincontrol.com.
 vall.chat.	3600	in	ns	ns60.domaincontrol.com.
+valletta.chat.	3600	in	ns	ns1.dns-parking.com.
+valletta.chat.	3600	in	ns	ns2.dns-parking.com.
 valleycenter.chat.	3600	in	ns	ns1.dreamhost.com.
 valleycenter.chat.	3600	in	ns	ns2.dreamhost.com.
 valleycenter.chat.	3600	in	ns	ns3.dreamhost.com.
@@ -108708,10 +108774,8 @@ vchat.chat.	3600	in	ds	1520 13 1 E0BFB53BC2837A5ABF65F1989BD15C95CA2D6A52
 vchat.chat.	3600	in	ns	dns1.registrar-servers.com.
 vchat.chat.	3600	in	ns	dns2.registrar-servers.com.
 vchat.chat.	3600	in	rrsig	DS 8 2 3600 20250930153758 20250909143758 1986 chat. nq9oDq1NwrpzJg/TsxhG+MpkVKrg5yEvVX6udHsDi0gSlugmOUm9xiLhG5VdZ16BQR0YeHIf4bbCwAWDyWGNFoG020xwdWUO5XYXNS+9he3pCDmq8nnG+X6hc4vzckoMYXFjRraEl2ZvAMceWgMHGCXU70iYJ+AmaKKre57igRE=
-vcno34qvt9nfn9c90jg1kj12c01m6te5.chat.	3600	in	nsec3	1 1 0 73 VCOM5G4RDL8EMF8R0ASLR9FNFMT147GM NS DS RRSIG
-vcno34qvt9nfn9c90jg1kj12c01m6te5.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. t4gr/KCZwQg3cDDNBixBYu3ewf+zZaqrD2RYwiOpeAmckrHzzEcrB6alhVegi9rqjGDFgZbXtrjqnjr4AcGcB9+qyowUHQIA8m0Z58OkzjypSQTf7wfJ7g3iQeEk+wbgcVtIeKM4pQPQf4NyjLQPwZRNOLjaujSPhYI/AS+ZSCs=
-vcom5g4rdl8emf8r0aslr9fnfmt147gm.chat.	3600	in	nsec3	1 1 0 73 VCSI4D8QKNB5Q446VI05FPN8V9IIE9EU NS DS RRSIG
-vcom5g4rdl8emf8r0aslr9fnfmt147gm.chat.	3600	in	rrsig	NSEC3 8 2 3600 20250930153758 20250909143758 1986 chat. CeF13DDqLXp8Xh0GdOgSzen/XTZUmPoj2tPXNrW6CGgwAUI2e+eCjDHWf1ucKSlRwCJwaqYzuFR4wTPfGSMfL2hclY6aYs9BpInVZRBMJkUGhWbGlOXUC+4MsU4hjkrtRMNt+ex8V08D3phL8+WLZrEP5Bk+xEmXlPYr1WoaYuI=
+vcno34qvt9nfn9c90jg1kj12c01m6te5.chat.	3600	in	nsec3	1 1 0 73 VCSI4D8QKNB5Q446VI05FPN8V9IIE9EU NS DS RRSIG
+vcno34qvt9nfn9c90jg1kj12c01m6te5.chat.	3600	in	rrsig	NSEC3 8 2 3600 20251002224701 20250911214701 1986 chat. lzTyhuAiCkhwf/dT9z1AbE/7faeDegzi/GOxyWt+mAS4mER/bvi5snSN0SXPbed/aN6mwnc1VzEQzW9E7LPuE7COxXcB25IVMcR/WsIWBHHEZmXhNJU4j3QABMWfx7SdEB4ELgJWBERwy3k8+/m17fCs5cQF0a3mN5MmkxSyBO8=
 vcs777.chat.	3600	in	ns	alla.ns.cloudflare.com.
 vcs777.chat.	3600	in	ns	bart.ns.cloudflare.com.
 vcsi4d8qknb5q446vi05fpn8v9iie9eu.chat.	3600	in	nsec3	1 1 0 73 VDJC3Q3QJGK9J9DUU07G8FAS50SSNA9E NS DS RRSIG
@@ -108967,8 +109031,8 @@ veolia.chat.	3600	in	ns	ns-cloud-a3.googledomains.com.
 veolia.chat.	3600	in	ns	ns-cloud-a4.googledomains.com.
 vera.chat.	3600	in	ns	ns3.afternic.com.
 vera.chat.	3600	in	ns	ns4.afternic.com.
-veracity.chat.	3600	in	ns	ns1.bodis.com.
-veracity.chat.	3600	in	ns	ns2.bodis.com.
+veracity.chat.	3600	in	ns	ns1.dns-redirect.com.
+veracity.chat.	3600	in	ns	ns2.dns-redirect.com.
 verano.chat.	3600	in	ns	dns1.registrar-servers.com.
 verano.chat.	3600	in	ns	dns2.registrar-servers.com.
 verb.chat.	3600	in	ns	ns1.dnsimple.com.
@@ -109528,6 +109592,8 @@ viefor.chat.	3600	in	ns	ens1.net-chinese.com.tw.
 viefor.chat.	3600	in	ns	ens2.net-chinese.com.tw.
 vienna.chat.	3600	in	ns	ns1.dns-parking.com.
 vienna.chat.	3600	in	ns	ns2.dns-parking.com.
+vientiane.chat.	3600	in	ns	ns1.dns-parking.com.
+vientiane.chat.	3600	in	ns	ns2.dns-parking.com.
 viento.chat.	3600	in	ns	ns1.dyna-ns.net.
 viento.chat.	3600	in	ns	ns2.dyna-ns.net.
 viet.chat.	3600	in	ds	49871 8 2 56DC468BB6CDC112453499C13F4D7F7DFFD8E63139FF31F66DB0BC50FF46CD8A
@@ -112392,8 +112458,8 @@ weimin.chat.	3600	in	ns	dns19.hichina.com.
 weimin.chat.	3600	in	ns	dns20.hichina.com.
 weiming.chat.	3600	in	ns	coco.ns.cloudflare.com.
 weiming.chat.	3600	in	ns	max.ns.cloudflare.com.
-wein.chat.	3600	in	ns	ns1.bodis.com.
-wein.chat.	3600	in	ns	ns2.bodis.com.
+wein.chat.	3600	in	ns	ns1.dns-redirect.com.
+wein.chat.	3600	in	ns	ns2.dns-redirect.com.
 weinas.chat.	3600	in	ns	kitchen.dnspod.net.
 weinas.chat.	3600	in	ns	loud.dnspod.net.
 weiqi.chat.	3600	in	ns	dns27.hichina.com.
@@ -112508,6 +112574,8 @@ welove.chat.	3600	in	ns	kara.ns.cloudflare.com.
 welovesex.chat.	3600	in	ns	ns1.dnsowl.com.
 welovesex.chat.	3600	in	ns	ns2.dnsowl.com.
 welovesex.chat.	3600	in	ns	ns3.dnsowl.com.
+wels.chat.	3600	in	ns	ns1.dns-parking.com.
+wels.chat.	3600	in	ns	ns2.dns-parking.com.
 welt.chat.	3600	in	ns	ns-cloud-a1.googledomains.com.
 welt.chat.	3600	in	ns	ns-cloud-a2.googledomains.com.
 welt.chat.	3600	in	ns	ns-cloud-a3.googledomains.com.
@@ -113082,8 +113150,6 @@ whereto.chat.	3600	in	ns	ns-cloud-b4.googledomains.com.
 wheretogo.chat.	3600	in	ns	ns.udag.de.
 wheretogo.chat.	3600	in	ns	ns.udag.net.
 wheretogo.chat.	3600	in	ns	ns.udag.org.
-whichllm.chat.	3600	in	ns	aria.ns.cloudflare.com.
-whichllm.chat.	3600	in	ns	chip.ns.cloudflare.com.
 whichway.chat.	3600	in	ns	ns1.monikerdns.net.
 whichway.chat.	3600	in	ns	ns2.monikerdns.net.
 whichway.chat.	3600	in	ns	ns3.monikerdns.net.
@@ -113953,8 +114019,8 @@ wj2222.chat.	3600	in	ns	adele.ns.cloudflare.com.
 wj2222.chat.	3600	in	ns	walt.ns.cloudflare.com.
 wjayy.chat.	3600	in	ns	andy.dnspod.net.
 wjayy.chat.	3600	in	ns	handball.dnspod.net.
-wjbridge.chat.	3600	in	ns	ann.dnspod.net.
-wjbridge.chat.	3600	in	ns	stacey.dnspod.net.
+wjbridge.chat.	3600	in	ns	expire01.dnspod.net.
+wjbridge.chat.	3600	in	ns	expire02.dnspod.net.
 wjxchat.chat.	3600	in	ns	dolly.ns.cloudflare.com.
 wjxchat.chat.	3600	in	ns	julio.ns.cloudflare.com.
 wk.chat.	3600	in	ns	dns10.hichina.com.
@@ -114569,8 +114635,8 @@ wpsimple.chat.	3600	in	ns	ns-cloud-a1.googledomains.com.
 wpsimple.chat.	3600	in	ns	ns-cloud-a2.googledomains.com.
 wpsimple.chat.	3600	in	ns	ns-cloud-a3.googledomains.com.
 wpsimple.chat.	3600	in	ns	ns-cloud-a4.googledomains.com.
-wpweb.chat.	3600	in	ns	ns1.bodis.com.
-wpweb.chat.	3600	in	ns	ns2.bodis.com.
+wpweb.chat.	3600	in	ns	ns1.dns-redirect.com.
+wpweb.chat.	3600	in	ns	ns2.dns-redirect.com.
 wq.chat.	3600	in	ns	ns3.myhostadmin.net.
 wq.chat.	3600	in	ns	ns4.myhostadmin.net.
 wqad.chat.	3600	in	ns	ns-1218.awsdns-24.org.
@@ -115141,6 +115207,8 @@ xaix.chat.	3600	in	ns	ns1.afternic.com.
 xaix.chat.	3600	in	ns	ns2.afternic.com.
 xama.chat.	3600	in	ns	ns29.domaincontrol.com.
 xama.chat.	3600	in	ns	ns30.domaincontrol.com.
+xamar.chat.	3600	in	ns	ns1.dns-parking.com.
+xamar.chat.	3600	in	ns	ns2.dns-parking.com.
 xamvn.chat.	3600	in	ns	kate.ns.cloudflare.com.
 xamvn.chat.	3600	in	ns	kip.ns.cloudflare.com.
 xanymygjlo.chat.	3600	in	ns	mitch.ns.cloudflare.com.
@@ -115397,8 +115465,8 @@ xiamentk.chat.	3600	in	ns	sid.ns.cloudflare.com.
 xiamentk.chat.	3600	in	ns	tess.ns.cloudflare.com.
 xiami.chat.	3600	in	ns	dns7.hichina.com.
 xiami.chat.	3600	in	ns	dns8.hichina.com.
-xian.chat.	3600	in	ns	ns1.bodis.com.
-xian.chat.	3600	in	ns	ns2.bodis.com.
+xian.chat.	3600	in	ns	ns1.dns-redirect.com.
+xian.chat.	3600	in	ns	ns2.dns-redirect.com.
 xiang.chat.	3600	in	ns	abyss.dnspod.net.
 xiang.chat.	3600	in	ns	pop.dnspod.net.
 xiangai.chat.	3600	in	ns	cetus.dnspod.net.
@@ -115574,6 +115642,8 @@ xiaomao.chat.	3600	in	ns	koa.ns.cloudflare.com.
 xiaomao.chat.	3600	in	ns	nicole.ns.cloudflare.com.
 xiaomiao.chat.	3600	in	ns	laila.ns.cloudflare.com.
 xiaomiao.chat.	3600	in	ns	leo.ns.cloudflare.com.
+xiaomifeng.chat.	3600	in	ns	amanda.dnspod.net.
+xiaomifeng.chat.	3600	in	ns	erase.dnspod.net.
 xiaoming.chat.	3600	in	ns	dns15.hichina.com.
 xiaoming.chat.	3600	in	ns	dns16.hichina.com.
 xiaomo.chat.	3600	in	ns	frost.dnspod.net.
@@ -115588,12 +115658,6 @@ xiaopang.chat.	3600	in	ns	jose.ns.cloudflare.com.
 xiaopang.chat.	3600	in	ns	mckinley.ns.cloudflare.com.
 xiaopeng.chat.	3600	in	ns	dns25.hichina.com.
 xiaopeng.chat.	3600	in	ns	dns26.hichina.com.
-xiaoqi.chat.	3600	in	ns	ns1.myhostadmin.net.
-xiaoqi.chat.	3600	in	ns	ns2.myhostadmin.net.
-xiaoqi.chat.	3600	in	ns	ns3.myhostadmin.net.
-xiaoqi.chat.	3600	in	ns	ns4.myhostadmin.net.
-xiaoqi.chat.	3600	in	ns	ns5.myhostadmin.net.
-xiaoqi.chat.	3600	in	ns	ns6.myhostadmin.net.
 xiaoqu.chat.	3600	in	ns	dns19.hichina.com.
 xiaoqu.chat.	3600	in	ns	dns20.hichina.com.
 xiaori1217.chat.	3600	in	ns	acorn.dnspod.net.
@@ -115728,8 +115792,6 @@ xilomo.chat.	3600	in	ns	dns1.hichina.com.
 xilomo.chat.	3600	in	ns	dns2.hichina.com.
 ximi.chat.	3600	in	ns	n1.xundns.com.
 ximi.chat.	3600	in	ns	n2.xundns.com.
-xin88.chat.	3600	in	ns	dns101.registrar-servers.com.
-xin88.chat.	3600	in	ns	dns102.registrar-servers.com.
 xinbaby.chat.	3600	in	ns	cygnet.dnspod.net.
 xinbaby.chat.	3600	in	ns	mint.dnspod.net.
 xinbao.chat.	3600	in	ns	dns25.hichina.com.
@@ -115810,6 +115872,8 @@ xinlian.chat.	3600	in	ns	baron.dnspod.net.
 xinlian.chat.	3600	in	ns	ninety.dnspod.net.
 xinliandashuju.chat.	3600	in	ns	steel.dnspod.net.
 xinliandashuju.chat.	3600	in	ns	vulture.dnspod.net.
+xinling.chat.	3600	in	ns	dns15.hichina.com.
+xinling.chat.	3600	in	ns	dns16.hichina.com.
 xinluaixue.chat.	3600	in	ns	dns10.hichina.com.
 xinluaixue.chat.	3600	in	ns	dns9.hichina.com.
 xinqing.chat.	3600	in	ns	frosty.dnspod.net.
@@ -115850,8 +115914,8 @@ xiong.chat.	3600	in	ns	ns1-show.myhostadmin.net.
 xiong.chat.	3600	in	ns	ns2-show.myhostadmin.net.
 xiongan.chat.	3600	in	ns	dns27.hichina.com.
 xiongan.chat.	3600	in	ns	dns28.hichina.com.
-xionggua.chat.	3600	in	ns	vip3.alidns.com.
-xionggua.chat.	3600	in	ns	vip4.alidns.com.
+xionggua.chat.	3600	in	ns	dns31.hichina.com.
+xionggua.chat.	3600	in	ns	dns32.hichina.com.
 xiongjie.chat.	3600	in	ns	active.dnspod.net.
 xiongjie.chat.	3600	in	ns	bootes.dnspod.net.
 xiongmiao.chat.	3600	in	ns	cosmos.dnspod.net.
@@ -116195,6 +116259,8 @@ xn--ebk.chat.	3600	in	ns	dns1.namecheaphosting.com.
 xn--ebk.chat.	3600	in	ns	dns2.namecheaphosting.com.
 xn--echage1265-eeb.chat.	3600	in	ns	ns45.domaincontrol.com.
 xn--echage1265-eeb.chat.	3600	in	ns	ns46.domaincontrol.com.
+xn--ekr6p94dl5mokng0sf15acqv.chat.	3600	in	ns	ns5.myhostadmin.net.
+xn--ekr6p94dl5mokng0sf15acqv.chat.	3600	in	ns	ns6.myhostadmin.net.
 xn--eytz4au2lj17b.chat.	3600	in	ns	rainy.dnspod.net.
 xn--eytz4au2lj17b.chat.	3600	in	ns	wallpaper.dnspod.net.
 xn--fhq82g4kh41g6untzy.chat.	3600	in	ns	dns23.hichina.com.
@@ -116338,8 +116404,8 @@ xn--nnqt1l.chat.	3600	in	ns	ns-53.awsdns-06.com.
 xn--nnqt1l.chat.	3600	in	ns	ns-969.awsdns-57.net.
 xn--no-bja.chat.	3600	in	ns	ns07.domaincontrol.com.
 xn--no-bja.chat.	3600	in	ns	ns08.domaincontrol.com.
-xn--ogblahmex2f1aw7b.chat.	3600	in	ns	riya.ns.cloudflare.com.
-xn--ogblahmex2f1aw7b.chat.	3600	in	ns	rustam.ns.cloudflare.com.
+xn--ogblahmex2f1aw7b.chat.	3600	in	ns	dns101.registrar-servers.com.
+xn--ogblahmex2f1aw7b.chat.	3600	in	ns	dns102.registrar-servers.com.
 xn--ogblahq.chat.	3600	in	ns	ns1.euukult1.armadaservers.com.
 xn--ogblahq.chat.	3600	in	ns	ns2.euukult1.armadaservers.com.
 xn--ogbpin3esa.chat.	3600	in	ns	ns1.dyna-ns.net.
@@ -116625,6 +116691,12 @@ xqbi.chat.	3600	in	ns	dns21.hichina.com.
 xqbi.chat.	3600	in	ns	dns22.hichina.com.
 xqc.chat.	3600	in	ns	isla.ns.cloudflare.com.
 xqc.chat.	3600	in	ns	ken.ns.cloudflare.com.
+xqcoder.chat.	3600	in	ns	ns1.myhostadmin.net.
+xqcoder.chat.	3600	in	ns	ns2.myhostadmin.net.
+xqcoder.chat.	3600	in	ns	ns3.myhostadmin.net.
+xqcoder.chat.	3600	in	ns	ns4.myhostadmin.net.
+xqcoder.chat.	3600	in	ns	ns5.myhostadmin.net.
+xqcoder.chat.	3600	in	ns	ns6.myhostadmin.net.
 xql.chat.	3600	in	ns	dns1.registrar-servers.com.
 xql.chat.	3600	in	ns	dns2.registrar-servers.com.
 xqm.chat.	3600	in	ns	dns1.registrar-servers.com.
@@ -117127,8 +117199,8 @@ yaka.chat.	3600	in	ns	dns7.hichina.com.
 yaka.chat.	3600	in	ns	dns8.hichina.com.
 yakala.chat.	3600	in	ns	cass.ns.cloudflare.com.
 yakala.chat.	3600	in	ns	stan.ns.cloudflare.com.
-yaki.chat.	3600	in	ns	ns1.bodis.com.
-yaki.chat.	3600	in	ns	ns2.bodis.com.
+yaki.chat.	3600	in	ns	ns1.dns-redirect.com.
+yaki.chat.	3600	in	ns	ns2.dns-redirect.com.
 yakkai.chat.	3600	in	ns	aryanna.ns.cloudflare.com.
 yakkai.chat.	3600	in	ns	coen.ns.cloudflare.com.
 yakkle.chat.	3600	in	ns	ns-cloud-b1.googledomains.com.
@@ -117276,6 +117348,8 @@ yaojx.chat.	3600	in	ns	cream.dnspod.net.
 yaojx.chat.	3600	in	ns	jogging.dnspod.net.
 yaoqwd.chat.	3600	in	ns	anastasia.ns.cloudflare.com.
 yaoqwd.chat.	3600	in	ns	phil.ns.cloudflare.com.
+yaounde.chat.	3600	in	ns	ns1.dns-parking.com.
+yaounde.chat.	3600	in	ns	ns2.dns-parking.com.
 yaoyao.chat.	3600	in	ns	stalk.dnspod.net.
 yaoyao.chat.	3600	in	ns	tina.dnspod.net.
 yaoyaolingxian.chat.	3600	in	ns	perimeter.dnspod.net.
@@ -118184,8 +118258,10 @@ youphoria.chat.	3600	in	ns	ns01.squarespacedns.com.
 youphoria.chat.	3600	in	ns	ns02.squarespacedns.com.
 youphoria.chat.	3600	in	ns	ns03.squarespacedns.com.
 youphoria.chat.	3600	in	ns	ns04.squarespacedns.com.
-youporn.chat.	3600	in	ns	ns1.bodis.com.
-youporn.chat.	3600	in	ns	ns2.bodis.com.
+youporn.chat.	3600	in	ns	curitiba.ns.porkbun.com.
+youporn.chat.	3600	in	ns	fortaleza.ns.porkbun.com.
+youporn.chat.	3600	in	ns	maceio.ns.porkbun.com.
+youporn.chat.	3600	in	ns	salvador.ns.porkbun.com.
 youpublic.chat.	3600	in	ns	ara.ns.cloudflare.com.
 youpublic.chat.	3600	in	ns	henry.ns.cloudflare.com.
 youqu.chat.	3600	in	ns	n1.xundns.com.
@@ -119852,8 +119928,8 @@ zhonghui.chat.	3600	in	ns	dns25.hichina.com.
 zhonghui.chat.	3600	in	ns	dns26.hichina.com.
 zhongke.chat.	3600	in	ns	eucalytus.dnspod.net.
 zhongke.chat.	3600	in	ns	slope.dnspod.net.
-zhongqin.chat.	3600	in	ns	dns10.hichina.com.
-zhongqin.chat.	3600	in	ns	dns9.hichina.com.
+zhongqin.chat.	3600	in	ns	expirens3.hichina.com.
+zhongqin.chat.	3600	in	ns	expirens4.hichina.com.
 zhongqingroup.chat.	3600	in	ns	dns21.hichina.com.
 zhongqingroup.chat.	3600	in	ns	dns22.hichina.com.
 zhongqinhealth.chat.	3600	in	ns	dns19.hichina.com.
@@ -119956,10 +120032,10 @@ zi.chat.	3600	in	ns	ns5.myhostadmin.net.
 zi.chat.	3600	in	ns	ns6.myhostadmin.net.
 zia.chat.	3600	in	ns	dns1.registrar-servers.com.
 zia.chat.	3600	in	ns	dns2.registrar-servers.com.
-ziai.chat.	3600	in	ns	ns-100.awsdns-12.com.
-ziai.chat.	3600	in	ns	ns-1206.awsdns-22.org.
-ziai.chat.	3600	in	ns	ns-1825.awsdns-36.co.uk.
-ziai.chat.	3600	in	ns	ns-564.awsdns-06.net.
+ziai.chat.	3600	in	ns	ns-cloud-c1.googledomains.com.
+ziai.chat.	3600	in	ns	ns-cloud-c2.googledomains.com.
+ziai.chat.	3600	in	ns	ns-cloud-c3.googledomains.com.
+ziai.chat.	3600	in	ns	ns-cloud-c4.googledomains.com.
 zidan.chat.	3600	in	ns	ns3.myhostadmin.net.
 zidan.chat.	3600	in	ns	ns4.myhostadmin.net.
 zidanduanxin.chat.	3600	in	ns	ns1.myhostadmin.net.
@@ -119987,12 +120063,6 @@ zii.chat.	3600	in	ns	cameron.ns.cloudflare.com.
 zii.chat.	3600	in	ns	princess.ns.cloudflare.com.
 zijin.chat.	3600	in	ns	dns31.hichina.com.
 zijin.chat.	3600	in	ns	dns32.hichina.com.
-zijing.chat.	3600	in	ns	ns1.myhostadmin.net.
-zijing.chat.	3600	in	ns	ns2.myhostadmin.net.
-zijing.chat.	3600	in	ns	ns3.myhostadmin.net.
-zijing.chat.	3600	in	ns	ns4.myhostadmin.net.
-zijing.chat.	3600	in	ns	ns5.myhostadmin.net.
-zijing.chat.	3600	in	ns	ns6.myhostadmin.net.
 ziju.chat.	3600	in	ns	elvis.dnspod.net.
 ziju.chat.	3600	in	ns	enneagon.dnspod.net.
 zik.chat.	3600	in	ns	dns20.ovh.net.
@@ -120717,4 +120787,4 @@ zzzzzjs.chat.	3600	in	ns	liqueur.dnspod.net.
 zzzzzjs.chat.	3600	in	ns	similar.dnspod.net.
 zzzzzz.chat.	3600	in	ns	bill.ns.cloudflare.com.
 zzzzzz.chat.	3600	in	ns	holly.ns.cloudflare.com.
-chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757552667 7200 900 1209600 3600
+chat.	3600	in	soa	v0n0.nic.chat. hostmaster.donuts.email. 1757638875 7200 900 1209600 3600
