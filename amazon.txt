@@ -1,4 +1,4 @@
-amazon.	172800	in	soa	dns1.nic.amazon. hostmaster.nominet.org.uk. 1756418102 900 300 2419200 60
+amazon.	172800	in	soa	dns1.nic.amazon. hostmaster.nominet.org.uk. 1756418111 900 300 2419200 60
 3dshopping.amazon.	172800	in	ns	ns-1261.awsdns-29.org.
 3dshopping.amazon.	172800	in	ns	ns-1778.awsdns-30.co.uk.
 3dshopping.amazon.	172800	in	ns	ns-452.awsdns-56.com.
@@ -43,13 +43,13 @@ ailab.amazon.	172800	in	ns	ns-1502.awsdns-59.org.
 ailab.amazon.	172800	in	ns	ns-1656.awsdns-15.co.uk.
 ailab.amazon.	172800	in	ns	ns-211.awsdns-26.com.
 ailab.amazon.	60	in	nsec	aircargo.amazon. NS RRSIG NSEC
-ailab.amazon.	60	in	rrsig	NSEC 8 2 60 20251009050317 20250904043734 44890 amazon. DruiDg0OWMjch/87FsyAN16fxnCLh1A+QETLajzluXyKUOWZlKD+qj2bzZj3S2P+NRGmVSYfqFnMbZ5HqSAQzyZBRWSVIh5UVrH/WmweVw+Cp2zvWsjvkC2ixoBWdfBgTbjG0c23rE5E6iJfaiFzgDKdWUB1Hh3tUdtWQfHhmEhD3DUuokpbMmDJ8q7rdS9UvmF6KHNIjOMv4FZtMwGkSdcniiM6BewB5AlZtCg8b8UgOgbeGswERggehKGDck1EBUlvh8salbnRbfUhBmkPvjyVYXS0zpcDnotfqo1Am9XkfYOA12VGB2qSydr2+ZumDtYcITuiSrFZpz+oSqJocQ==
+ailab.amazon.	60	in	rrsig	NSEC 8 2 60 20251016042042 20250911040317 44890 amazon. fDTykyoRAzI6NvEyo1v1WO/FVk00L1pf8BV14mSLY9nyvgO+tnqy7DPNW1LDDWcdDU+XEVZI4OzLg/QEoPJa4gRprfZ9ISK7gw9kf6TkbeeUcybxBdE9l/VTYQfOKRBYCq/yryY1TD0pL/p6TQ4ijB+MyM2zbC9hbUyBU3uIc2Qj6yMK+IXatUfTJBjGkd+aaErDNnkYpsr2LCdXA1Ot2wIG7rtxUmnzCq3Z8Fw1ytchSn238RVmMSGksWoo1XH/qybHjRfTuN6px5tw4z0Wu8bCp3Vy9vf9lO4ELNHmKNoiinn29uQTMAwNipp3eWqJe1JankAXzT3WFJ5/ByExqg==
 aircargo.amazon.	172800	in	ns	ns-1198.awsdns-21.org.
 aircargo.amazon.	172800	in	ns	ns-1622.awsdns-10.co.uk.
 aircargo.amazon.	172800	in	ns	ns-51.awsdns-06.com.
 aircargo.amazon.	172800	in	ns	ns-928.awsdns-52.net.
 aircargo.amazon.	60	in	nsec	aistudio.amazon. NS RRSIG NSEC
-aircargo.amazon.	60	in	rrsig	NSEC 8 2 60 20251009050317 20250904043734 44890 amazon. xdwd/NtgQbop/bRtKoN+Vz7N3XpB/RmGG3Zkh/oHKEqR9e7i/BTGPEwK69yvsNB95UCM6zeg8m3TtZn5UhV8Uho+nLOI4BUcW7h2ZpvQ70Nn9VpuLiPepMtnpw9MTzyDBblRW2Js3gmx4ZJo5DLMoP5QNkJMSmopnsKL6DEWme1CwOLbrGPnLJ1Xx0ZMNLlY1cI1iUdezhzkKb/7F5qOHSZdK7ycTGjuF07Gr5zQO1Tcy4AvHyZQr2+PEcHwzI44M41WE7FktLDzK5f+9BmcuZpZUC3wZD67DocTtkjFFU2k0NrR1sMPL2Ur/DEWcTkXTemm2gSxLUy6BHGMJfFStw==
+aircargo.amazon.	60	in	rrsig	NSEC 8 2 60 20251016042042 20250911040317 44890 amazon. OUCntb7fAE7YCl/YLWwHxK9T0QOR05qWkrpWY2EzNcbdKOWA8Z5PVdI4tGSpxFgcTneZfP6leyfsLKLs2KoTOGxcras7N3C/CX9qiDH7nnLFKFmmsvquO7dwzzN3GiUbTMFj45M09vwtNRSZSGPJv6MbsKKdeOKbiVidYuR7yrT/wbtz7JgJjqG0LGj7UlMeN40g8eAB/ubAy6PPwTtqV5AUSUUknPtCWPfF0+bq0u2EOMwa32k95QTf+qCdjf/xAT+7oF4ej/ORgzgw8Ru1JEBbYMgEb8QIvDnF+3HwaQvP4L1aN/i3jTlE1x3MkGTAuj7gLD5nv6D9zIcVd2SuTw==
 aistudio.amazon.	172800	in	ns	ns-1326.awsdns-37.org.
 aistudio.amazon.	172800	in	ns	ns-1807.awsdns-33.co.uk.
 aistudio.amazon.	172800	in	ns	ns-937.awsdns-53.net.
@@ -76,7 +76,7 @@ amazon.	172800	in	ns	dnsc.nic.amazon.
 amazon.	172800	in	ns	dnsd.nic.amazon.
 amazon.	172800	in	rrsig	DNSKEY 8 1 172800 20251014013459 20250909004318 14854 amazon. k97BFnlNPDoXGBgD4RW1wcVrdfK1de89EZ/IOaooyrabiBOGQt/MIgbrtDeGgJOuxgNV9d/kyjPTN5O87fU8EIV4XU9vIk6q/xezotl/eUmKvDiJvbCla3kQ/aQKS//1Caov5UULmJv27onzARbH7TG3yNksL12hl+T4VdV9IWogMOxULlOIQXrmkrBFg4OH6Xy262wRTRFMZUt3bgn55Ydt3TgNnSBu3irrdc8NuURI9mw8IrSMNmcjvfmx/CZRsyDSflF9Gj6iCRtuE43t4tE0DlrS38mn4w57ZvQXIWobOz6ozAuiUcvfcf4RnAoiWcx5IJBCLNzelCgl7Gu9RA==
 amazon.	172800	in	rrsig	NS 8 1 172800 20251014220515 20250909211312 44890 amazon. qa0KqBZzihZII2HBvuJFvzgxXI46RULjqhdrj3nV1L2d0iU8rDDZH8WUzTonSFB3zntsI1eqjtFiQ4iTwn/HTJL0QF2R61/5bh+0SaGHAm4k0rpK8SJ8Jp4yAYDe3gDFMpFvhA+0/08yMbsC8dFvp2+0167mNVOYjVQcWJyA0bSPFuyz9qL5yW/+7PO6nHPKaYD7V0UpXDI2xUpWBoQzlVQkPsDnWykxkQ9sDeGi4ZNSNhL/jjscPgkXpNOKizLzxA0oFWmX5pIrT+8xC3CCwYjWPkQ843g7xhRJCaq/8OupNzJzHiDoJbCggt9g2IBD2OU1Zmv1Ysp7nJj4d9k2KQ==
-amazon.	172800	in	rrsig	SOA 8 1 172800 20251015184529 20250910174529 44890 amazon. QQIhcaM2sDohQ8ubVkM0y7qRCEHsps/kPbPHWSi/KnKdrOuAq086xWXPggkmgnRO2ZhSmOPcxnxwk/UodMrkNeeVsSuX1evnCLIyiHNIBZ9e57jQptNWbrB+LAn0tV6wCot1IOUXeYFxteKWSniC3fAGnqd+t+C7DVNRjPRXM40MVfXf/xKwRhb2LmMwiDMc32XrPpf0UriFcFn0G8ywPiMLVqUm5InHNIzvqX/vey0c5ZIC8nBJvMR3sOW9Dtgu796yLKVdW0UQXfo0oxbJuWb+4RAxIIz7WxkqPRKBc+nDDwkDXOJTYfRfr8j+/ayJw93bj+d3T/oFLhlB+P1siw==
+amazon.	172800	in	rrsig	SOA 8 1 172800 20251016230206 20250911220206 44890 amazon. GbldAsngB8l0h50LyeBei1khOus7yE1YeXJnC1aT0OwDxMVuygkwITKLAT2FzwIAQZgRmsby4BSqINtaiir1JDvD085/Gs1LhCXJRFvTy/UD9bUcrCb4ZJt//q8b/epYDGkrSD01xi9UDknDL5Z94RSVjo9A5N0Q2vtC8ZlA3YiFphTZrgcKF6F9W1RXNcH+KpjELUz0NB64j1IAIBAUFskyuSzPxgIeWSgkU9x6rHggynoLgLqYzNpRFpRJTIoKm6KeK3REMTPSTD6GfWOL+oXyhdODUzzEN4gnYbseSB475QgcI8VNuVfY/0tpPze/hrwewJRB9dRmX32zI9amEg==
 amazon.	60	in	nsec	3dshopping.amazon. NS SOA RRSIG NSEC DNSKEY TYPE65534
 amazon.	60	in	rrsig	NSEC 8 1 60 20251014220515 20250909211312 44890 amazon. Vs9tkruA17AwJvfbKQxPydG8oNHzpa4F09zuqpiFXYYUoYHOZ2P8Rnaf6av6hLcpapW56ZEomCgXuxzQi5GaOcY1KroxFDqHx7kPsG5KVyd8sNM8/1l/QwQwk4+Uk6mjfgjSk3cknnEhj6CEbTjRIgw8X7G6unlZoRaHWM+3fJt2Qa5lZC8QILPVPLDPB5dKN/FINvJJgSd2ex/w03Bb8Od5G6RbpAAgAsf5rjEcufgnr/6mONH/rhgt85zg1PB1ocm3i/9wNnZKEeQifJS9rtbzZdOld/I1XhWzpZaZeS/6vXOcvgzHbIRI76iA07orhHtlrWNVFoGQ8xLVUK02rw==
 amazonbot.amazon.	172800	in	ns	ns-1450.awsdns-53.org.
@@ -179,7 +179,7 @@ creatorsapi.amazon.	172800	in	ns	ns-120.awsdns-15.com.
 creatorsapi.amazon.	172800	in	ns	ns-1670.awsdns-16.co.uk.
 creatorsapi.amazon.	172800	in	ns	ns-554.awsdns-05.net.
 creatorsapi.amazon.	60	in	nsec	data.amazon. NS RRSIG NSEC
-creatorsapi.amazon.	60	in	rrsig	NSEC 8 2 60 20251009042349 20250904041239 44890 amazon. q5YsxODZzRl0C8HFwLP+mYoZqes5qY7q0fu1/pRfGSTGHOtEk5cotSLXEbBgROxlqX21Ej/9/S4ekl5BY8cOBiL5njgpqzo8tDoekhnZp7eyS0cNQG8ojrIxjvOTk1HtIdBFWyRJ5ojBTWk9S94Uay3B38HTvyp/gqWwSTGE0a48F40wZ1/fY1DZ6yuxSKXJxsg6Bw7H2e2hzt1tdCsJLqskl8NlfcjxzTFcdPZK6nGA2zl6741JAka7+D+r0ocr6mth6piXdoYxZNu5s2/ELcrZCHWAs1O94JySCKQwaNtJiI74EYwL3jzz1z8QaYrAJVkPKs0ijrbu5qi3ZTnEhQ==
+creatorsapi.amazon.	60	in	rrsig	NSEC 8 2 60 20251016040658 20250911032349 44890 amazon. lg4nrIdpqaY8LmvZ0yuOjZQe+5dFXNgq6S8meyTEmnVn9Aa8z0TQGRT/b4UutpMNgswLq+LtH/ryUgqo8T/DKV5KTpEuaKEE8LOwYLnHplOUCOiWUdRybhNurQ0Up51yBt0VBZWws6I+CjfVdWOl4QTFTnlbP8c4Cg4fBi9YeJz/4g04L7EQALj7TQYijd444rCYlLghddmHl9SmQK6PFFUyFmnIIAE7bgwDUSFE37O0BFiQGWQT9wYVv1Moiita29Ynd6Ks/JxZTpHXlD+fa+JEKfk3vW1j2QRr/tBa2jRcH90wEgjhP9ER165FESI2onbHnTWGJMQd6OC71c6KNA==
 data.amazon.	172800	in	ns	ns-1039.awsdns-01.org.
 data.amazon.	172800	in	ns	ns-137.awsdns-17.com.
 data.amazon.	172800	in	ns	ns-1784.awsdns-31.co.uk.
@@ -197,7 +197,7 @@ devicemanagement.amazon.	172800	in	ns	ns-1556.awsdns-02.co.uk.
 devicemanagement.amazon.	172800	in	ns	ns-496.awsdns-62.com.
 devicemanagement.amazon.	172800	in	ns	ns-921.awsdns-51.net.
 devicemanagement.amazon.	60	in	nsec	devicereleasenotes.amazon. NS RRSIG NSEC
-devicemanagement.amazon.	60	in	rrsig	NSEC 8 2 60 20251009145351 20250904142741 44890 amazon. DxyarLYOsJir7bSS/n8U1MsgXdJccYFSJ//3i7UMZidpXAd2tQJvhr+jSWaaotSkpDfyA7XkTnwtWYX+d5WRJPf4HLvp7myGhDaBSW2EzzHp4jogoQXHVxRrbaAX4x9/8UrSKul3fcJf8Uczkcd71h3zdjGDTBf77edSI86g+nsi0PFScwQnEt+iEv3dHI1OXj3sFbwe4VvvF7h1sXv1ZKGgzaIa0slCuhRpJNzsdol3PJ2wfw/kE5y0iHyNuYFRgJN6KWYAysFX4GANH9/o1vgBNDHsXABQ8M1kArpBi0PUJYwq0Y+38EyC+Q+k79NIG1rXlDJ7KzknnMHDHu7OQA==
+devicemanagement.amazon.	60	in	rrsig	NSEC 8 2 60 20251016144701 20250911135351 44890 amazon. J846Grlcq9BayHJNt/+XdFUF7THQRQNS3Tm693ZRut9nuvH/66EjU54ez8YnODEoa1U7OdEjQBOLtoMk1cj+h2FN0iuzMZghDJW6XaG794zIwTh+KJcTFM3tUUqBI5kUyJqvMOadbGZX0CLbJ8WfWYNsbJ9mxLrNtAefjxc8d0Oax09DITx98n/5NKSSbmb9rO1hij7SOjt5wY389MlCXakagJcUToA2CvaFmK+/R91oRcvBj/5XWNAdbYt81nXSIY27GvgR5CGZ1ZJU2sqAg+BPNKoT6TE4FOSmW8gGS7ICcc453o2pN1FcOFm/YD5/TckvD0eznn1ktuITJfnOBA==
 devicereleasenotes.amazon.	172800	in	ns	ns-1298.awsdns-34.org.
 devicereleasenotes.amazon.	172800	in	ns	ns-1741.awsdns-25.co.uk.
 devicereleasenotes.amazon.	172800	in	ns	ns-372.awsdns-46.com.
@@ -382,13 +382,13 @@ interconnect.amazon.	172800	in	ns	ns-1568.awsdns-04.co.uk.
 interconnect.amazon.	172800	in	ns	ns-200.awsdns-25.com.
 interconnect.amazon.	172800	in	ns	ns-812.awsdns-37.net.
 interconnect.amazon.	60	in	nsec	jet.amazon. NS RRSIG NSEC
-interconnect.amazon.	60	in	rrsig	NSEC 8 2 60 20251009194946 20250904194000 44890 amazon. cd5MGt3SzTWUtSwu3hwOjB86anekwDkPwit+3RLES6NbHhWakQngAv2p4zs0CSNT8H8ngMFyY95UTuHwVlnv0KR5PglRIFSWPhtIeW8SVfdYK3GkCM2cSyZRtx6dLD3k/ocrgPwuA7ONc3OqudTpRxXRjIElu07VL7Km5uplbHMttUfMv7QCNt7HE+Bb0BXdJyPT1gLaDXuWGW0YqkKfVShVO1/ayKkOsQtOqBse8JYYrmQ6JL9nHQ8eEqc8RRh5KxKaoHOFFN5yekzs9vEDmcDAXlyLmEWoVDHyfTLfV0bcl2ycup+dM3AaJwqqDaJGajmfFyEirfuscp01QSt6Ag==
+interconnect.amazon.	60	in	rrsig	NSEC 8 2 60 20251016193154 20250911184946 44890 amazon. ArJFEs53PHjEOztOGiwft/umc11/cutSbM0cy0dkW+ZcdKoRDfV2Detcj4t0OEf7DYNIJok4BXpgQ/Ut9m+gZJmjMzE6dDYGl1nUxxE7E2CjxeanwLtHkg8/VD0iwZu+n+Y+XXrFZ0u1TbAiAY58M9NX45dkBGekH5/WkhY6y/zuET00CUc0mJ+K4/ogRfmt+DP/uWrYvvjDYuIp10GM7zLAqDgH+Ucl/Lb6FT8lePRErVBLqgsFobhUl0/dAKHc0Ye+dKm5Cw7YWXcVUN31z9Tap2QU+GJGU/rFI/nIlwLw8M2RRFG6xLR5+gkoNPX8rn2DvGi16hGn4hLrWBkLCA==
 jet.amazon.	172800	in	ns	ns-1047.awsdns-02.org.
 jet.amazon.	172800	in	ns	ns-2012.awsdns-59.co.uk.
 jet.amazon.	172800	in	ns	ns-33.awsdns-04.com.
 jet.amazon.	172800	in	ns	ns-977.awsdns-58.net.
 jet.amazon.	60	in	nsec	kaap.amazon. NS RRSIG NSEC
-jet.amazon.	60	in	rrsig	NSEC 8 2 60 20251009194946 20250904194000 44890 amazon. JLnuBytG1QgXkPQqUtu64SahBdMAiWXSUzI39eYAlm6a1JrFSElFEIYo4G2HauFPM23dVLKakmfXwkI+kIis6uYdf3dEw6IGISZao9e/8AvA/AFfwqdJWcZmmRSUxiYUC5R3J5kA4QQWGdE95j84H8Sb+2eupn6NhX/LQysEvC4OKECAnN0khytqfQBPJqdkSNb8qA7ao2ZSN2RF0h9SNud/6FvTh63M5bc+zHFWBvxPTz5eLKdwMll1Erg0uvZH6uKn4zlCdjVgXXinN3SEo3YKLYijZOSImJwGfyTPYhw3JWuMixM6SS1jJY4gk4GbNkw00GBIqMkpSx+x2+Xjtg==
+jet.amazon.	60	in	rrsig	NSEC 8 2 60 20251016193154 20250911184946 44890 amazon. oyUk0KA8pNRMyHWafy088D9R3Y+zWfi7u8/+VnvWYhINl/HbMfPnuHcGejVuOltgaCkefiftIJXa7r2DRyps5p116Vc5Y7Y4EjssnGVmEjp3szBN61s+z75GKXIcK8kYWOGhHaZyLdv8LmYxWS5JrVUzcsZK0Jrqj+G36HzATL9OU1oQF+Tz6kbljFbzSZ4GHFn8IwejJd9/ORzA4+Yg2kygK8B6mCui8nfXvoRB7CENZ2qh0XUz5tGbqzrq18Wg1wuw4ZrW8Ny/DouAEfDD2hXIpHzK73WIq5WSil8fOodc5ZG8Ejv8PCmmGOS1CvhP3dljxqGTPrRIQIxPAanCQg==
 kaap.amazon.	172800	in	ns	blue.foundationdns.com.
 kaap.amazon.	172800	in	ns	blue.foundationdns.net.
 kaap.amazon.	172800	in	ns	blue.foundationdns.org.
@@ -419,7 +419,7 @@ kfbaccess.amazon.	172800	in	ns	ns-172.awsdns-21.com.
 kfbaccess.amazon.	172800	in	ns	ns-1861.awsdns-40.co.uk.
 kfbaccess.amazon.	172800	in	ns	ns-874.awsdns-45.net.
 kfbaccess.amazon.	60	in	nsec	kgs.amazon. NS RRSIG NSEC
-kfbaccess.amazon.	60	in	rrsig	NSEC 8 2 60 20251009230206 20250904220520 44890 amazon. JCvj6w8AoCnuZvUmQSxw3bOZ/A5tS2IPxr6u6b/JgyPvIUEmqcz0pIUhoD/aCzsRH0Pbki0T8oCzr/r15NkxXVxE2+mAI29596Z5WL8SDGtSq01qu5wsDfiki8qG2Kmxb/l014Wj43Q7PhV9S3uXDJ+8BKeGwc8BhOOkgthZGU7L1yw1kDjI/L80XObSkRo/D5g9dPzGz4nPy/uL1QFFj+/2LEsmimUfEmlr/eYVjWpU8WjcVom7qrCdodotOiPisuxreisfeakTc3YQ/LeHfE+KGuSMN5+AJ8jqqgQfpJlHprFs7NVXxo0Zq5xpJQo5Vli9Zi/6YpRO4oWlmy0J0A==
+kfbaccess.amazon.	60	in	rrsig	NSEC 8 2 60 20251016221343 20250911220206 44890 amazon. AuZd7OuuCoriq8Y1Zmm16zR48ULSRDpY+WzM+hDzVDmcOwS9Spw1E7N0uJupKi5kG4YzopjBAUEf07SbAaYlGL9+JyCF/dRQJNdAKNW8MQVD/lYso74K6FQ5X3NZZtFl83YdecYHXn/4wMeI2qBm95VFFZrbrynATobVVN6RLBfobGAA1DxgXRmIQJCMVh5PUNs+6nHkWFX06mDe7GHGtN+iT3PAJ1wr8cVK4lifxlO4s1EXTZpQ9tSgG9ufFC89NXeip3oIqKsW8V0tMtk0gXXpJ+xojJXrRgGbJdjJfjPAe5+dJxFiS3Sb40tP0fRnUFsc5tIFBY9SWU3nfAd2sg==
 kgs.amazon.	172800	in	ns	blue.foundationdns.com.
 kgs.amazon.	172800	in	ns	blue.foundationdns.net.
 kgs.amazon.	172800	in	ns	blue.foundationdns.org.
@@ -477,13 +477,13 @@ lra.amazon.	172800	in	ns	ns-1881.awsdns-43.co.uk.
 lra.amazon.	172800	in	ns	ns-448.awsdns-56.com.
 lra.amazon.	172800	in	ns	ns-709.awsdns-24.net.
 lra.amazon.	60	in	nsec	lumos.amazon. NS RRSIG NSEC
-lra.amazon.	60	in	rrsig	NSEC 8 2 60 20251009184543 20250904181716 44890 amazon. PqkOs3pNWi1D5aU4aVKmxfIcIRXmrLi6Mnj9nHum273TGCZnerrd7Nqzm/BRQZxKWYp4q8SBdOJxQRx2pXKQqOoSkDgdCCZQwzBNYWZmjls363j9bJZUh++wOZT8aeprVtXKqeq4Fd9bj55+F0z2CWJ8EvYa20pTdyyuUlve81G6U/3VDEfh9BY+pD+Izjoft8DQSXIAso9XQFJEwbO17Az25iqIAhhEmGoGhhrnf64ZKOJUFe1WKFAZgFdd1xuJIbeAydK3Ted4QWxOlx1Va2nBmqMEE3O74bmcnLu6vHlsLWRLI8j50CKvJ54GQIc8bQaQnibbekm+jiihXWS0ig==
+lra.amazon.	60	in	rrsig	NSEC 8 2 60 20251016183549 20250911174543 44890 amazon. 3knxMQS5nQ/JaS/l3OpigyuPuVv4uKecmgiOPt+Ie5Uy+8Ull5CihwK9P6ViehWjgP2Oh7P23zq0gm8DjuI/vy8z7x2sdFEfOfxzc13P+Wbtf2pEkiMjF3IKvU7FwZutt7+FlSW3azqQK8yCQt18TldHk53L/C2SV0k0Dcfmbt/9tdAcOrkJ4jOH9THXGvXKMvQ+lqNsJCFR8NTHsiu8J8Ypl6ws1VL9HXGFaveFFXGP/xcWp28A1SI7DQZGC9csM4KY52MkM1dKlEqoRS8kGTw9r7RaZkgsjqq0QV3e68xyuYgVVkedL/mFfovUuY8ISiF9O+9w6o9MJT2GUv0ALw==
 lumos.amazon.	172800	in	ns	ns-1058.awsdns-04.org.
 lumos.amazon.	172800	in	ns	ns-1946.awsdns-51.co.uk.
 lumos.amazon.	172800	in	ns	ns-374.awsdns-46.com.
 lumos.amazon.	172800	in	ns	ns-559.awsdns-05.net.
 lumos.amazon.	60	in	nsec	marketingcloud.amazon. NS RRSIG NSEC
-lumos.amazon.	60	in	rrsig	NSEC 8 2 60 20251009184543 20250904181716 44890 amazon. jeSGEezMfMrEVomhq7gBtlJgwuEXTN67+dTHNWsUGehUkVk/Lrhx6EdmTL/P4i9reioh8gk0qdqnsaUYnhvyeF4L6fBxIzwkCKmgVDtCkzxPbGyYOdVEmQw0qyo6Sj+oVONWJGsBRkQnXcAm1MnTWEb0bPJtZ7NiwRaCWTG84R9fXCDpJSwtJ83D8P35I2VHt+L6su2EfzatCzDW/pyGJrXFAaVjZfS/T44R8bcwbAJNUAyABrt3KWx2crzOS/u13DyeBV+CU49qbwW2qgEUB/y2pDnblyjkps6gRfECNChgbMpj+/LWNcr+M4MiDRlZ1QlI09xut/Jl0SIqur9Evw==
+lumos.amazon.	60	in	rrsig	NSEC 8 2 60 20251016183549 20250911174543 44890 amazon. f/gEmaZbl8TpL+GweHXPtumZp3GvlsXhnRQ9a5wdz2cNpeqvH6L15+2H4XKikQFbhm3cvv1ipAa27WHzdtlqqBj6DukbhUT7WwIom7fcqmrs/r9if5M0oBkABvKQYcaONJjlO57dR0nPcSBHvmSeQ5aSHuqODcWhpaYXUUZQmEPw+EMUtf9EbU9Bek5nVlw1xMPAxCsBRmdkZK7+8kI3QQUkpj0sj5dYi5G1SJj+8hnDr8UVvBi5KIW9yNBker3NY84bbq3zzk/FHlZQS5UOzA83GVFFz5cMknS6TYd1fiDVbOueDnSsu2daX3+2ackLl0LSHhFKuGuw8RbZRaG0+w==
 marketingcloud.amazon.	172800	in	ns	ns-1365.awsdns-42.org.
 marketingcloud.amazon.	172800	in	ns	ns-1539.awsdns-00.co.uk.
 marketingcloud.amazon.	172800	in	ns	ns-479.awsdns-59.com.
@@ -533,13 +533,13 @@ one.amazon.	172800	in	ns	nsgbr.comlaude.co.uk.
 one.amazon.	172800	in	ns	nssui.comlaude.ch.
 one.amazon.	172800	in	ns	nsusa.comlaude.net.
 one.amazon.	60	in	nsec	onemedical.amazon. NS RRSIG NSEC
-one.amazon.	60	in	rrsig	NSEC 8 2 60 20251009024032 20250904014543 44890 amazon. cS9rSQDytfXnQ2LHUolzORo6iYsyjq/27L5/HyA6J65d3vK47g+nyx9IWKlIoNa+X/Zi4+Yq9YGrFhCLGNEBkGfE4N1bz/OooXHJZ07J1ORVPkOMsU8LihOUAgQpYznsivoquLwsuqw3CgCBXiUO+16kldKqhq9GMh4odRcEU4b7/ENU8xvyisvm6BM/JyWd6C+qXGuOp6Kib1LNiz35Wxv9JUVXZqD+FJI8OZ80cNYON8dLKS0jpRxbD6AoRTr5HnNPai++Ls57s0sBW0nszlU51NkM+FjG3mIPWPtOaE/O8qcta2zsRz5Wz8nE/o0Q9/G22flz9EV2E0UosmtS0A==
+one.amazon.	60	in	rrsig	NSEC 8 2 60 20251016015346 20250911014032 44890 amazon. 5mu9yRzW/31YZELR3YXUShmHhnilfaxBeMKspwrVomFTvnnp5yQf+x8+OC2/oAcO4/4F5MxD6/Q1FvC1/pLqLwckeeFLUFwDmhFlgsRcbxxivDjpxSjEnZq1zKvirXm9TZUG5DoKTsJ2q3ChzisPN3doKk3slg7BkE3aFSGutEj0NEWnJJX9eXc1+jWXk+Rs/340keYtV2baT8z2fUdn3SfIbSPIDU3yd3AZkg5sfpgWZHlJtBJkgxTyqIbYAV0VM+WZ5R5+mtgCTgUSGXTYAoCNRe4xGPnLVoXB0PpMDR8dbIV5v5sM5lpGpI/BTcfBAqbt5opUVYT7OxFZzUcY2w==
 onemedical.amazon.	172800	in	ns	ns-1350.awsdns-40.org.
 onemedical.amazon.	172800	in	ns	ns-1687.awsdns-18.co.uk.
 onemedical.amazon.	172800	in	ns	ns-334.awsdns-41.com.
 onemedical.amazon.	172800	in	ns	ns-558.awsdns-05.net.
 onemedical.amazon.	60	in	nsec	opseng.amazon. NS RRSIG NSEC
-onemedical.amazon.	60	in	rrsig	NSEC 8 2 60 20251009024032 20250904014543 44890 amazon. 0mVhHMyY4LXc2M/PEQc7K0ZIQexSNpwQO4elahyt6ubUthk8Kz1tsfmiiPvDpwwdMq2M2QG2VKv+H05EBmtuIqjGeZHapZ5Y0IKU9Ze2DzD1Su846ZZl0hfOCKIrG4TGWNHP57GxrymcRfYMY5goDlKSPcfJMX9Jp4ZwiAjNn+SKjiJNcUJAJNpXdIX2oZXaye8Hi97eatXrt7YDYG4TjVhPCvRlZxKPx8CSNDGq7AQ4jantIW/eUS/rfYhBQoVcimZcbJaNM1k20ZMJyWEa4c+WbCC1pdASspDlyguzK1BY78JoO+EXsdHaCUQsCpnlLh8w5mGke9VACJ+9vPm//g==
+onemedical.amazon.	60	in	rrsig	NSEC 8 2 60 20251016015346 20250911014032 44890 amazon. 2KuQT4gyXe2KMTE2n7nMdwjQbUyqyWkPfyAjFuV5Cwyq8C75RbrgPDYVLgW++aSPGeak3ehhvApsm6DYUWOaiEciP/rJruBpN+k/fNfhCRGF/0pMA2/Zs+Xsw60RPaXyJ59n8nPPz5CmJfNZJdw8MfLO8rGyB3+8+xHpsKEdgHuGOlK49n+etcEmFwcoO5coPa2/jp9P8qskVyl7PE1LQMe9riLN+/aQdFIQs6hDOKIoihlaK0kczrhcu3eqMq/TUVNcBpn1erYEhKxqiiJjlyDYeaeaGX6F/XMHqta/Wu9k9FsTN8/H6VORPlurJJ+n+x7aJlCPY3S6aAT1knmi7g==
 opseng.amazon.	172800	in	ns	ns-1179.awsdns-19.org.
 opseng.amazon.	172800	in	ns	ns-153.awsdns-19.com.
 opseng.amazon.	172800	in	ns	ns-1903.awsdns-45.co.uk.
@@ -638,7 +638,7 @@ projectkuiper.amazon.	172800	in	ns	ns-1739.awsdns-25.co.uk.
 projectkuiper.amazon.	172800	in	ns	ns-25.awsdns-03.com.
 projectkuiper.amazon.	172800	in	ns	ns-647.awsdns-16.net.
 projectkuiper.amazon.	60	in	nsec	pubtech.amazon. NS RRSIG NSEC
-projectkuiper.amazon.	60	in	rrsig	NSEC 8 2 60 20251009103137 20250904101458 44890 amazon. xqsVWAy3pGeVe2ggXdQ8H5xsTOJjezM/AhcujT4mjJXviVf20rMZgT3OxNsVgVYtW6Fj34mxGqNuLR0WGecfo6Y39tXvxuMm1trreE73cHe3d8dWa+MZvWt+jzWqkdxi0RYW6Je1dV/eeQyKoFYOpM5AMd7MLeJz6tUAmV9YY6JvSOKVeRefUHhsed3uKjYdmX7DzwZC5wPwX8uiYIUoPMXJ15sJXaPgmV5aHokEw4XSZAyvmQvxij8KEHr9w07a9p0hjoKXOfzNFF4B3UIVnxSweA0wz+cZ6OHUHdAGiWOGkcQJbYUClbwzyUfLGmyNKXfCciZYnrPmMr6scQgS9A==
+projectkuiper.amazon.	60	in	rrsig	NSEC 8 2 60 20251016093225 20250911093137 44890 amazon. z96X3a9UxK8z/HrCtUqB7Z/rHHhoL76CjXlIJOJVS3lTyM/Szl8zdcWYOmYslrfiIuTmExVLGF38hh1Hq0fCmKT5mr+TWdGaqJzSJnNc87B4NhFu9awgtPex1e5PLnKRuPwrTLIqk3ym86Qb/5VifvhuiYZWhh4DMhZogYkGrd9VvYdyw4upmkirDm1OWiUYQtq+rmrXph/lR1Urpns30oFAMq/7pm8O/dgyyTg+w77nnCpGC+iflNbI5SGcOLDiwbQC60z9wQM2PySR/Mj85ukZo6078KCd7s8BF0X9c52+hz2jJ7Q55NDIbBYzrmVsSuVWAG/X9vgTsNQzIfWayw==
 pubtech.amazon.	172800	in	ns	ns-1452.awsdns-53.org.
 pubtech.amazon.	172800	in	ns	ns-1766.awsdns-28.co.uk.
 pubtech.amazon.	172800	in	ns	ns-61.awsdns-07.com.
@@ -791,13 +791,13 @@ smallbusiness.amazon.	172800	in	ns	ns-1728.awsdns-24.co.uk.
 smallbusiness.amazon.	172800	in	ns	ns-326.awsdns-40.com.
 smallbusiness.amazon.	172800	in	ns	ns-954.awsdns-55.net.
 smallbusiness.amazon.	60	in	nsec	t05.amazon. NS RRSIG NSEC
-smallbusiness.amazon.	60	in	rrsig	NSEC 8 2 60 20251009051555 20250904043859 44890 amazon. cH8juxyB9C+gMtC5l7lW1m4X1iZ/BA/p67gK1tFjR+A0FSefLpp7yqz54Qy91cyQRUkOdTfk0Dl1rihzmuJNZ1g5SP+S53nlg94/abkfHd50zsWmdVHX0hYm7xBKzauqQ5dFvkngGJa9RhAZYjeasde8b1YfEB4Yo+pxgZZBJ7bYJrqO0cwQJdcZGwU5YfP7CZ0D/REcYGn/YvXsv/5lyko4calBqoAHCgLhN9FMwAM7V//qiCbwHj8x6YUWicwpjuPPbLQh9uHyihUPCg0kCdd/15bpM1sHY3n6a8Gi6AB/xFWKAfxmpuuCyBPRvpRcQ2HYIok/aDJ2/rumNnc6ZA==
+smallbusiness.amazon.	60	in	rrsig	NSEC 8 2 60 20251016043443 20250911041555 44890 amazon. gYOrsnoqN1kVqb1dXwgJ71uxsuErcULzeViuCAFD+PJKsFDwrckHFo16cjHPBzsyQ9KtfwDSkPOMg30sdj0RD7ggKwl5v6CfXGXY8HNsXNverTeJEqRlm6hXC5XX1lCxDBb39HE6GilEOzy7OxNoYLM0QmxWSfE1kHCNyhUyG+A94EK+Ph9y6znk3WmE2niSB8hvhj3OTfv2GGCKgDT40q5HpcCIazvZIb2XD2epgd+sk9XK0SMOPmxAnMM8BxmwGERQg9cRXtQKJUlqNT5bpxLMqRAkJTrQy9WB8U3Nd/bhyETJgq+VxS34QKq439ThRiYBELDwuRXobINraSKRhg==
 t05.amazon.	172800	in	ns	ns-1512.awsdns-61.org.
 t05.amazon.	172800	in	ns	ns-1913.awsdns-47.co.uk.
 t05.amazon.	172800	in	ns	ns-8.awsdns-01.com.
 t05.amazon.	172800	in	ns	ns-946.awsdns-54.net.
 t05.amazon.	60	in	nsec	tardigrade.amazon. NS RRSIG NSEC
-t05.amazon.	60	in	rrsig	NSEC 8 2 60 20251009051555 20250904043859 44890 amazon. z+KAIdNiC2TnwcBGbW+XNHYVOoJftLz9P6bLd/b5raYZMa7yJpP7do0jAAfVLK2Jwg/bW5OpbHmNs1MBKhpPBB+fOEzZVzHo8oAPXgggl1NZYRsHxB04gYKEVpcG0My8RayfCk3LTPowheIbhA3aWK8xDZfvKXRuEPk+ao3AAIGggwCxKMBOn36n1Is1+dEc2FrGJ2b3V+H7g2y3c1AwalN9zn7Y3OfKYiZddm5KK1efF4YhU4zqNZRqottjTsvdiItHrEGp53sfkcmT9hVGj4STyEeoelYBq6Bzm8mywEE/V8yiR1EdkawvFpD0EhQMo/wWtgDUZurttGmz89q2QA==
+t05.amazon.	60	in	rrsig	NSEC 8 2 60 20251016043443 20250911041555 44890 amazon. qYLA2JSTwbeexHc7g8Xxac1ZLkzeyGzNPDQweISmpK6GYf/Y4q8FduJfeBxhjB/97T7bdznulmqxF9DedCB23jo4XyycrlDGgzYWyRJsSBy5U47j7QE6S20vxmTQ8P6oZMIulY/yidvUehH5hT1b2XbPmQ4wmq5ke3qxPgRiZGRrarAd8LcbmuQsxmUojucX8wEN97C0/6S1ShUqDOb20hEhQwhBj1UaQVQLCwyEir1+P1WW1IFQBUaYNfqRJOizJxd9P4RrdSTUx8Rb4xDZLAzUjlYVcdw4eFC1yIHaIo/0uzeoRxTIve9vMWR6HCgB6qN/FFKBLZSAM9JbnsiSBw==
 tardigrade.amazon.	172800	in	ns	ns1.amzndns.co.uk.
 tardigrade.amazon.	172800	in	ns	ns1.amzndns.com.
 tardigrade.amazon.	172800	in	ns	ns1.amzndns.net.
@@ -895,4 +895,4 @@ xcm.amazon.	172800	in	ns	ns-196.awsdns-24.com.
 xcm.amazon.	172800	in	ns	ns-839.awsdns-40.net.
 xcm.amazon.	60	in	nsec	amazon. NS RRSIG NSEC
 xcm.amazon.	60	in	rrsig	NSEC 8 2 60 20251013194048 20250908185704 44890 amazon. VjzqSbXhLHCCC1TCJ3TmpGPgUnxsUMnw55GFlFMyJgFByeBPT7zWUHno2aLIt7W7oVvjUD0ghlHQ1MBuPdWIH7lITjZWRlyl2d7Hxllr/oaFG145p0pOJcfRYaWgtqJs+OtZQyTiSuFQJ/HZCGsm3eBh4kd+W86n+We+QGND+Co9j1RMIFE4AkGrr2YTEOgBVH2j497Hsi6e4ivM1CDDInytBST0W6vo7SDjtYOf8GzfwPt94/xvgTVaf8FJjCUsvDvASzthFE09/Yqj4mGvahQ0HQ73h2boBBnlNPH8Ta35DBO+fxOu82Pm7F2liOLqhxgz6oty4xfwinbC2ioTqg==
-amazon.	172800	in	soa	dns1.nic.amazon. hostmaster.nominet.org.uk. 1756418102 900 300 2419200 60
+amazon.	172800	in	soa	dns1.nic.amazon. hostmaster.nominet.org.uk. 1756418111 900 300 2419200 60
