@@ -1,4 +1,4 @@
-chase.	900	in	soa	ns1.dns.nic.chase. admin.tldns.godaddy. 1757479024 1800 300 604800 1800
+chase.	900	in	soa	ns1.dns.nic.chase. admin.tldns.godaddy. 1757569022 1800 300 604800 1800
 1stbanking.chase.	3600	in	ns	ns05.jpmorganchase.com.
 1stbanking.chase.	3600	in	ns	ns06.jpmorganchase.com.
 1stbanking.chase.	3600	in	ns	ns1.jpmorganchase.com.
@@ -9,8 +9,8 @@ chase.	900	in	soa	ns1.dns.nic.chase. admin.tldns.godaddy. 1757479024 1800 300 60
 1stchecking.chase.	3600	in	ns	ns2.jpmorganchase.com.
 92l6bgj2e8v1q2ndfskji4ssp0r8up74.chase.	900	in	nsec3	1 1 0 - MA7O4P2N1QH4O5GFPRMDN375JMF5ATDJ NS DS RRSIG
 92l6bgj2e8v1q2ndfskji4ssp0r8up74.chase.	900	in	rrsig	NSEC3 8 2 900 20250924150425 20250910144804 11463 chase. yeIXzXgshlrljHvvPE+S6GjaFN1PulVcynRL+4ASC7REIxtoyCMFNmE3G+6+81E560rX7+rplMoTTtvR2ql0OmFqrrxmVq97E73qSyEbse15cPxYBOTGrpseAOqH8IilFpNi7+Lv/MsPEkh1JYK1GD2dIF8E4OocwzwqlcxgppKQBvaBZi/1Hbd5xar/nKh0Y403kurFhFciYYPF3sc4Ow==
-_forcedupdate.chase.	300	in	rrsig	TXT 8 2 300 20250924170806 20250910164353 11463 chase. wSM0LWI7PzZ4Kq8f1C4RTniPQHZfWAp6ydAl3rZlnnjAsVdlJOWahA0PdsfIb+Z64rdVZZnkhy6F4IWvm6d6SZpvkyyC5RuHUM+VJ8F3M5gMSUy74uNAE0mgFoMuMW7+vShKqjc67Ig9FpOH3tf1VdZ60EypLaa7cWlkovkaIZa6eOuhqE3Xla/WL+dn18J7Spah10DoVN/xZCj4uwugAA==
-_forcedupdate.chase.	300	in	txt	"1757479022"
+_forcedupdate.chase.	300	in	rrsig	TXT 8 2 300 20250922111730 20250911043702 11463 chase. ogLin0cBC14dZmlz+hSisAeKgfFTr74nMyIgZnS8vB5DqjjmT9WjvNfWxnh+1pwL0ZY7FlzI9IxpbaUJ957qAcmjvn0uEmLPCY9Seu69lsNU9fNYySCQu76WgHeXwtajMyIAGgAGvV3aFVFUrtvcDQn22jge0Z9VNyENVMLUhQ1S5oBHE8AscGxTYPePNEAX+O2QJVqKt27iGv7M10HLkQ==
+_forcedupdate.chase.	300	in	txt	"1757569022"
 a.nic.chase.	3600	in	a	37.209.192.9
 a.nic.chase.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 access.chase.	3600	in	ns	ns0037.secondary.cloudflare.com.
@@ -75,7 +75,7 @@ chase.	3600	in	rrsig	CDS 8 1 3600 20250922113307 20250908111359 38962 chase. Hj7
 chase.	7200	in	dnskey	256 3 8 AwEAAc8JzABEaJVo2vMym7QAIiJXNWtPC/fDq22XkhPClUpIvnzFEiz35d7q7Gp1CyTe0/2bucwpzwaajY8wDTaYKhW/lZbDn/J/ZC4em6yNOI4gNWjqP6JYvd9SENN/a0O6d+3QH2ZIffAks78xJMI5ssSLKSNLQuljo1kUmk/+NX9wu6yGODUAP1gbVa/fiy7VuXYUGrnccjMrJ9m2KlfSDj8=
 chase.	7200	in	dnskey	257 3 8 AwEAAb9GTL6HG7Cc8joDX48GrDss/L8dbfc9q6xo95yxzIqym7Etzd7SEpqv/fcS/UfN4UkK/DSxQ7JnNdV/K56lImK4OIeb5ljEpEkf1F0bms3fCg/e8q6DyY5YxEucVpbWpzfPpzlnNM1poD/lwGE4FoPF3nhhmo+klmYxHG5ieCH5TZjFPDdx5XdmsLsybmoIQwcv/IY1jpTQH/kCx+RefFR6BDpTNFclmLsKOAiA5ZmVpU5g8f3Y4aS6hE6/blMUDVMzKW2RRbTw7YeP2zHA75yc3AYyVz1sztNkOCvfc+hR7BGNxb72dz2z+BGgC1beKNl6qEXyXbS/bdG4KETVZ/U=
 chase.	7200	in	rrsig	DNSKEY 8 1 7200 20250922113307 20250908111359 38962 chase. SnL+gtvThIbh4bjK5g+LMV6lMix13fSdWCO8R/dRdk0ROyhwknMa57/kXH7vmm8g+0yY2AexSTt3lyZAcMm/QwcTB050XsILfTgbLpPcsWEWx2X2rX16Xzw99FtayL+Rc4ZR+0YFeXmAf0JXZE6wmiDdiq2v4ztNMvVFDutw6G7MO5+dNpX115HcJqrTT2O9e34tXx+2LbRyX1b/pqHr1rEwOtu++W0NXwAFrt0C3R0PIY1AF0JKHopw9VJ/5+iOSP3THMWU8cH92gBS9+r6Fkv7K2RE072BrLgT7mMcRYodHRkTzQxnWcddSzei6FZKCVv1/RnJvb98ifTRwprvpQ==
-chase.	900	in	rrsig	SOA 8 1 900 20250924174353 20250910164353 11463 chase. n3j42CIWD6+H05IKtJrwTr5krVLYkPthhsB5y0Wn+uCcxtgL6r/PTED2Gp5hyx0sM0wtnGANHAQcx4CSiwX9aQ7DbCaX1uYEmJYYwMs70bH8pcsG3fOlHiX2rr2DeJDcV+3U4sfV+uvrKbRRN5ZrgIXKs6qtgwnFXdcYTV+g53wuOWpfkfCZtbU2el3b4jAeT0t1C4JjA9ARwIDMkRbFuA==
+chase.	900	in	rrsig	SOA 8 1 900 20250925053702 20250911043702 11463 chase. HQUQ8ES3ousHK5Bn1MojlsHHkIW3tTJKupVoSLdnKAoByHuYjvYsy3I8/Pecx8SpA5d5NcKqQrz60yy60d3xUZPps6kKqEWgUs7FFj4hvv/y8Y2Fedt+phstHZzriSG3gxOA8+7RcgMXOPXT279aCpndNzPBPl3u+9EacJQOFYgiKWVhpjyPJnFFeIO3fLoViPWrPUiUi6SyXcuw1wZOLg==
 chasefreedomrise.chase.	3600	in	ns	ns05.jpmorganchase.com.
 chasefreedomrise.chase.	3600	in	ns	ns06.jpmorganchase.com.
 chasefreedomrise.chase.	3600	in	ns	ns1.jpmorganchase.com.
@@ -470,4 +470,4 @@ workingcapital.chase.	3600	in	ns	ns1.jpmorganchase.com.
 workingcapital.chase.	3600	in	ns	ns2.jpmorganchase.com.
 www.chase.	3600	in	ns	ns1.markmonitor.com.
 www.chase.	3600	in	ns	ns2.markmonitor.com.
-chase.	900	in	soa	ns1.dns.nic.chase. admin.tldns.godaddy. 1757479024 1800 300 604800 1800
+chase.	900	in	soa	ns1.dns.nic.chase. admin.tldns.godaddy. 1757569022 1800 300 604800 1800
