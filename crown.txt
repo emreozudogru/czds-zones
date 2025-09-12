@@ -1,10 +1,10 @@
-crown.	86400	in	soa	prd-fzp-05.corp.cira.ca. admin-dns.cira.ca. 2509110105 1800 900 3456000 3600
+crown.	86400	in	soa	prd-fzp-05.corp.cira.ca. admin-dns.cira.ca. 2509120105 1800 900 3456000 3600
 4pvh85qbltojkvbbh4s97pkfor29g8j4.crown.	3600	in	nsec3	1 1 0 - 6REFQ5E1VR4UR5OGJ907A39OOR3148QH TXT RRSIG
 4pvh85qbltojkvbbh4s97pkfor29g8j4.crown.	3600	in	rrsig	NSEC3 8 2 3600 20250915215446 20250908143519 8190 crown. pj4geZcNHFs6zf84UrGfu+RVWT687D3d5La//Fy/Wtq36ca1SqCwznDQnBn87W0OFBCd7CBlUkghlVIwwyUVBF/giyViuMzvATl6jT7SQtEW7Gye67rYopXZhRgy3x25iO3I55ACsD/qnZugqEidLYpSPsOfkOjjsTVX9bNDvmM=
 6refq5e1vr4ur5ogj907a39oor3148qh.crown.	3600	in	nsec3	1 1 0 - BP20PC6VL44NH8765QS598DLJG2L6T0F NS SOA RRSIG DNSKEY NSEC3PARAM
 6refq5e1vr4ur5ogj907a39oor3148qh.crown.	3600	in	rrsig	NSEC3 8 2 3600 20250916002119 20250908143519 8190 crown. sm02uSBismDuvt8JrADdV86BadSAE7Jt6Y8nuVKJhtlNecdCqCcNKrqX6Wtnk9dKTq+IIeW3hw1wYnqLVEnEqvtpjx4Cz5tVnBJyItr3wDTgRneiWG+FUQu1XFtzwfNyADpu+vMHy14FK3L8ptXdh0muKcZAI7djMVp4m0Pzq4o=
-_incoming_serial.crown.	86400	in	rrsig	TXT 8 2 86400 20250918010121 20250911000538 8190 crown. bUkbCAAPuCoJoATkeuKBECjbqVWfU2s+PmuxijZjG1R81h/pixIDKv3u4jz6NfucwhvRKrwaxWORMSHrgq93tsvZ1RzWJRn+uj5Hm288VzqtkyWazXVULYWwbtqtmYeSYY92vsu7Zm6BRaEkdHn9B3ldQ4ZbNglgwSIo+frlUVk=
-_incoming_serial.crown.	86400	in	txt	"2509110105"
+_incoming_serial.crown.	86400	in	rrsig	TXT 8 2 86400 20250919022747 20250912000536 8190 crown. NNYK1qMhg1eiyIoyafUVJwfTNrZ++50HedKqdxLxGjmxg/HMSSL0SNCIYkJd5t3i8uUjnROfts9D8OlgEOzRe0W7pYplYn+mpOkbqoalY8xkoGvAOTVtW9NmnyvHGpYmmdAfYNMb0RZaJdWBo/DvMdHdiV2SzFtYGNi4oitlVU4=
+_incoming_serial.crown.	86400	in	txt	"2509120105"
 a.ns.nic.crown.	86400	in	a	185.159.197.5
 a.ns.nic.crown.	86400	in	aaaa	2620:010a:80aa:0000:0000:0000:0000:0005
 b.ns.nic.crown.	86400	in	a	185.159.198.5
@@ -14,7 +14,7 @@ bp20pc6vl44nh8765qs598dljg2l6t0f.crown.	3600	in	rrsig	NSEC3 8 2 3600 20250915154
 c.ns.nic.crown.	86400	in	a	45.142.220.101
 c.ns.nic.crown.	86400	in	aaaa	2a0e:dbc0:0000:0000:0000:0000:0000:0101
 crown.	0	in	nsec3param	1 0 0 -
-crown.	0	in	rrsig	NSEC3PARAM 8 1 0 20250914130656 20250907030531 8190 crown. Wev4+3n8jlD6RLrsXZGwcHaed/9x2Tt38JkL1EiFCwE0h3lSiVbuE9pTDyZ3qdaxnI4agEB4v9LPundsEI1EpEv30Prx8V+8HCDWPh2UzFZvO/E2G/t0MZ+rrXDDD2n7KLpG3ebt+z8oCBef9HJmnqLBSSM3R+oG4wWwvFR6R7A=
+crown.	0	in	rrsig	NSEC3PARAM 8 1 0 20250918030313 20250911123521 8190 crown. YJzrxQKJ61HWw/KG8OoPI2Nl9LbRhVd7D6Yx83RK2BdkawTofTPHFYOeQH5692XOkE0JuhU5V5mkU8ehM5EoNRYFqcW+yJ4VdUjtyLAgQ47/dzoUpw5ER0v0kCFrCkjJjdPqT+yR1SIq4yWsD7Y3kaDKm3kvVDd8Kajg7is/sB8=
 crown.	3600	in	dnskey	256 3 8 AwEAAa9vlxF6D+yG/2gSlYZpUBBkIR5yQFvHDUJnyvN6+3nUxs2U2CfjtAgprM1flT9Ggm8xDu6KDNl2hEz9SOfGUJ0Gg5YzLLWiW2k9rhl53+M5js3YmlE2/VU6whcSt+wsV6JG7oof20YAvL4U9qUoBZc8pqO5ZJT17rOw7do346IT
 crown.	3600	in	dnskey	256 3 8 AwEAAbPYp8rDA2aX7pm55ahgDmbnC63T3v1oQyNuRKMHBv3jPtMMtrzQAe8pFmWNvwBEv9kpRxgzWg8D8NBXX/0W98bvlCvO3bfRXqSczdgkyVVo+3lZ7jHImyNyfKZtXed7dc4eCr5dTdtrWDiDeGlOmbe+uoAGBmDh38/rpnavqqXh
 crown.	3600	in	dnskey	257 3 8 AwEAAbw9N+BdKII4TyRt53/DtZGnLZhBM0zAB+2avBryHjdyHuv6Pdnj3PzWaTSjABUKB5VzwSRndfky2C71ShHRB67JsgeNKSHDEPABIAAAg4mNHjvRvJIrfXIae3hVcxGLS+N8c/xJZmQtny5CeUjpwTyD+GoPvV0V1yWEdSPtBl7SOu2PS+Ke3oSrG3zSVgxAGaLgIul7TwlGXuFmMYIGFQRhiQbzgKR+14UxWWHBpj+Rtv9K7+uwxr/L63APNs+VqJfe4g/R9Mmrzs92arGOOlCILUtMa3TazO2U3w1FySYFxEiA+HfAD1/bVpdpeScuD4e0zAKm+BHk7p29qldokEs=
@@ -24,7 +24,7 @@ crown.	86400	in	ns	b.ns.nic.crown.
 crown.	86400	in	ns	c.ns.nic.crown.
 crown.	86400	in	ns	d.ns.nic.crown.
 crown.	86400	in	rrsig	NS 8 1 86400 20250915013622 20250908040533 8190 crown. Ycqku8F4ZmeRfaqiWsZ6+FNB8mGMacw0PGqgxPaFDsTN+zv8X1ssH3uPUfe18qDAW3I3DiuhFNypz0vDCvYyDP8SWEF4kPlZjwivuSLpp/vDbddD3TQAkPeH/ftKANhiMzo45kEYpP1DD3LlSEp98/TKLGrySzlxvp/GG5CLOMg=
-crown.	86400	in	rrsig	SOA 8 1 86400 20250918052652 20250911000538 8190 crown. a1R6hdKYvt91QnqRSB9f51M2xN9DhXTFmp6JtXwAlaD3bQCJYNaDaTovEFBFSW9a3Uk/hwd0KmUIAWInfR6HWdW07nDKP216DrJIXdYlpfRWFJS8FHHPsEheU2PG0yu4AwsOkYjWEQsYezFHVcyX6aO/wK77lj2Cz/c/pZeJfzA=
+crown.	86400	in	rrsig	SOA 8 1 86400 20250918153910 20250912000536 8190 crown. jF4UvPIkvFcRnNhsG0g271BTtiE3MMhiCs8RihPJL+sapMzx2URg7r6iv/2sq2u5ziBq+cua5osXYAFKMN2OYEoz1DiJ9JHRkguszxN46LcqeyzwJESsc2AuTdaOS2XlPbM3QLIsljgjUS/hI74hZEhmswha7tPWAh34ZHqVRtQ=
 d.ns.nic.crown.	86400	in	a	185.159.199.5
 d.ns.nic.crown.	86400	in	aaaa	2620:010a:80ac:0000:0000:0000:0000:0005
 employee.crown.	86400	in	ns	ns1-32.azure-dns.com.
@@ -41,4 +41,4 @@ nic.crown.	86400	in	ns	b.ns.nic.crown.
 nic.crown.	86400	in	ns	c.ns.nic.crown.
 nic.crown.	86400	in	ns	d.ns.nic.crown.
 nic.crown.	86400	in	rrsig	DS 8 2 86400 20250915023354 20250908090530 8190 crown. Pd9FsCQE9MuG95NdjvH2bhRq8Uvlj4zolYox7P9dR04PzisCj4RlON74FxwFKZDpj/K586uuohgQc0njXWzSPmiMO2cq11zA/oe0Vb+qNS8VjVenv4j4LLl6bekWs7oAcI+kKFp3G0rI143+JtnESdbfpOWXcopHYwb/No6GAfY=
-crown.	86400	in	soa	prd-fzp-05.corp.cira.ca. admin-dns.cira.ca. 2509110105 1800 900 3456000 3600
+crown.	86400	in	soa	prd-fzp-05.corp.cira.ca. admin-dns.cira.ca. 2509120105 1800 900 3456000 3600
