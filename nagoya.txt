@@ -1,4 +1,4 @@
-nagoya.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757553259 1800 900 604800 3600
+nagoya.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757639790 1800 900 604800 3600
 0000.nagoya.	86400	in	ns	dns01.muumuu-domain.com.
 0000.nagoya.	86400	in	ns	dns02.muumuu-domain.com.
 006qmmqrlcpsast3fsdu1rafugf8j93j.nagoya.	3600	in	nsec3	1 0 0 - 00GL7M14GN4H42PVL7FD2ON6EQT8SOM8 NS
@@ -2283,9 +2283,9 @@ nagoya.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757553259 1800 900
 9v95i3camg0jrbr1ocannk600ci2te9s.nagoya.	3600	in	rrsig	NSEC3 8 2 3600 20250918093554 20250910205306 2154 nagoya. nQoZFtAGUGG83V7PobYCbDNTuwiWNQQSo6K2iViVqF27/AcysaK9m7U/WkUyPLkNmw9WRbuP1G26nXey0NPoQQnykrcZyzfibUGjQ3AY/HEerRCz8nNzH4DSOlWTiXmAB1BZPh8zi/EMRxzKHr1qt2tYAAjLK7+3bKuXdkG5IWQ=
 9ve756hv0d9s1ecfa6f8dosr3iagfspr.nagoya.	3600	in	nsec3	1 0 0 - A1DLNTS2MA90JB1SFDFT6CPB5K84MPV0 NS
 9ve756hv0d9s1ecfa6f8dosr3iagfspr.nagoya.	3600	in	rrsig	NSEC3 8 2 3600 20250917144059 20250910205306 2154 nagoya. jqeseoz0upNQY4Bs1dlxs49xqkuH92sr6Y6WeOhn2u2TtjNV2b0FRM+IV3lO/mmx+f/MPyK5AIJYqQGvtqjpjSQ1It5NFuJ8XO2K+rs4hgSTzDUDZ1g1j5U97gTlLhI+Ra1H6UPKb4+ZeJsfVGMYSYAYB24sqm9+sx7iPwn/LSE=
-__zone_status.nagoya.	0	in	rrsig	TXT 8 2 0 20250918013648 20250911001410 2154 nagoya. pTcZyYeWvAlPGQ2LOyUlxWzoLUByDpZA5v/YKoEKaW5yXYQJS8yOSlv1b3t0YmlaoWMT7JR2ZHznQ/lpdaFlvOQVjFEi2hf++vVUdsBybFNodbzfkx1iVDF2EwekDuVh/syN7jzPdKU7NtWB6pCsy6+SRUpETSInziWZPHUw2KE=
-__zone_status.nagoya.	0	in	txt	"original-serial=110165"
-__zone_status.nagoya.	0	in	txt	"original-timestamp=1757553209.59975"
+__zone_status.nagoya.	0	in	rrsig	TXT 8 2 0 20250918193623 20250912001617 2154 nagoya. T5XLjrYp4IvFT7BQkGTgrSFiGGu2rnPlzqAzXIxM7oyO6cIef0dTdY6TfrX8IWks07maNAFC818MY+kucC9EojtMl77rhYVzuBOZMJbVEIfH2UXvwn8tusFentLo3jP5TtR9zPcYcZDIndmkXbhFzFEV4VojGeEktrkef1PlTKE=
+__zone_status.nagoya.	0	in	txt	"original-serial=110193"
+__zone_status.nagoya.	0	in	txt	"original-timestamp=1757639653.32946"
 a-create.nagoya.	86400	in	ns	dns01.muumuu-domain.com.
 a-create.nagoya.	86400	in	ns	dns02.muumuu-domain.com.
 a-planning.nagoya.	86400	in	ns	ns1.xserver.jp.
@@ -6505,9 +6505,8 @@ haruhime.nagoya.	86400	in	ns	ns2.xserver.jp.
 haruhime.nagoya.	86400	in	ns	ns3.xserver.jp.
 haruhime.nagoya.	86400	in	ns	ns4.xserver.jp.
 haruhime.nagoya.	86400	in	ns	ns5.xserver.jp.
-haruko.nagoya.	86400	in	ns	ns11.value-domain.com.
-haruko.nagoya.	86400	in	ns	ns12.value-domain.com.
-haruko.nagoya.	86400	in	ns	ns13.value-domain.com.
+haruko.nagoya.	86400	in	ns	nsexp1.value-domain.com.
+haruko.nagoya.	86400	in	ns	nsexp2.value-domain.com.
 harumichan.nagoya.	86400	in	ns	dns01.muumuu-domain.com.
 harumichan.nagoya.	86400	in	ns	dns02.muumuu-domain.com.
 harutam.nagoya.	86400	in	ns	dns01.gmoserver.jp.
@@ -10108,7 +10107,7 @@ nagoya.	86400	in	ns	k.gmoregistry.net.
 nagoya.	86400	in	ns	l.gmoregistry.net.
 nagoya.	86400	in	rrsig	DNSKEY 8 1 86400 20250917124928 20250910205306 44545 nagoya. jmmzUN+NWBePlst54gZkcaAivyQDoyGkkVWF452nvwzJf7QjpAizOcH5y3IFCJqzRv71odQQOqptmAe9H/sr56KiAQPFf6I2ksKS63DsUbO2r8aTojH75hGVsnj6wAwzByT5esWlW7LK7LZHKyiXLzlzDDghtEBtqoPAYtucU/aJxifIrF2rHALhFFRAhQ87Wv01v/Ojh8z/PFJ+3E6AF9oFZyxVairlnOzhnz+qE/0UHHhvP3P000s7sWCFXuR6oH5DVmATuM1l7FNFuu4XckWvKeQXnkcosNzqUgR4KiyeViHNVAQZW5E8U/EC9vOq/MkNoGJuvY++YZCKlmvJXg==
 nagoya.	86400	in	rrsig	NS 8 1 86400 20250917131618 20250910205306 2154 nagoya. DVecBhDrewXtAKJknm0EvmmLRbS42cbcpbECl+rCJb0N3EVhU8SRdx1oHgcb1SSf6v81A1ufsZOi1nPXaN106vsNOhatjvmKQkcmnrXmLaLtG797x83Vv8Tnv6x2ZkkZ0RAZULQqC5fkOVTn1kSLzy4ZxLqfhETkXHh2cEIyNvQ=
-nagoya.	86400	in	rrsig	SOA 8 1 86400 20250918072511 20250911001410 2154 nagoya. AA4L4DcFpcm6ZB8mHl02IE2sECTiOHOskW9sSsqTNZXc4iAs95wvQBc44DWMZWdWvb2IzEk+OOCJ7+Lp8DFZhinE2CefLJxrwgKSrRHE8OuMM/nAjdoE34CV9oC9L0fJja/x2pD2G3Geghm6xUFvTU6MdHvsEuBFWu5hlafCzic=
+nagoya.	86400	in	rrsig	SOA 8 1 86400 20250919052609 20250912001617 2154 nagoya. Sh1ic8sQqdgLjPO0iS5t6NjNuUq+QeQ5vqJ3oFU57m2DlMdcMOMs1ubrLsrIYnVkkEyMCVAYbIfLdTI5vY1QSKOWBo8wKEOWWEqnWRY0XcL0+VAO6CIjCem76zaTxsEBMN85u2Qk+RF0drDC+Ke8B2HKepblA1VKNEzU/i47Mok=
 nagoya758.nagoya.	86400	in	ns	dns1.onamae.com.
 nagoya758.nagoya.	86400	in	ns	dns2.onamae.com.
 nagoyajin.nagoya.	86400	in	ns	ns1.xserver.jp.
@@ -15782,4 +15781,4 @@ zsyuking.nagoya.	86400	in	ns	uns01.lolipop.jp.
 zsyuking.nagoya.	86400	in	ns	uns02.lolipop.jp.
 zuisenji.nagoya.	86400	in	ns	ns1.dns.ne.jp.
 zuisenji.nagoya.	86400	in	ns	ns2.dns.ne.jp.
-nagoya.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757553259 1800 900 604800 3600
+nagoya.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757639790 1800 900 604800 3600
