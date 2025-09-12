@@ -1,4 +1,4 @@
-host.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000535798 900 1800 6048000 3600
+host.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000535884 900 1800 6048000 3600
 0-0.host.	3600	in	ns	ns41.domaincontrol.com.
 0-0.host.	3600	in	ns	ns42.domaincontrol.com.
 000.host.	3600	in	ns	ns1.dn.com.
@@ -1008,6 +1008,8 @@ host.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000535798 900 1
 5200.host.	3600	in	ns	molly.ns.cloudflare.com.
 5211314.host.	3600	in	ns	dns15.hichina.com.
 5211314.host.	3600	in	ns	dns16.hichina.com.
+5280.host.	3600	in	ns	ns1.5280dev.com.
+5280.host.	3600	in	ns	ns2.5280dev.com.
 52dg.host.	3600	in	ns	ns3.myhostadmin.net.
 52dg.host.	3600	in	ns	ns4.myhostadmin.net.
 52kdf98ah1h2ehglq2t7svtofe4nib2b.host.	900	in	nsec3	1 1 0 - 53AIBNH044KDUJD9J1MC83PEGD4ISQCA NS DS RRSIG
@@ -1144,8 +1146,9 @@ host.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000535798 900 1
 6688.host.	3600	in	ns	rafe.ns.cloudflare.com.
 66888.host.	3600	in	ns	southeast.dnspod.net.
 66888.host.	3600	in	ns	twelve.dnspod.net.
-66lottery.host.	3600	in	ns	newt.ns.cloudflare.com.
-66lottery.host.	3600	in	ns	shubhi.ns.cloudflare.com.
+66lottery.host.	3600	in	ns	ns1.dnsowl.com.
+66lottery.host.	3600	in	ns	ns2.dnsowl.com.
+66lottery.host.	3600	in	ns	ns3.dnsowl.com.
 66ren.host.	3600	in	ns	logan.ns.cloudflare.com.
 66ren.host.	3600	in	ns	meilani.ns.cloudflare.com.
 672g8c18upmfbme7al9v1j0ctdl8e4d4.host.	900	in	nsec3	1 1 0 - 6772826D3B9D4H6CE1VIURLLTH5C8RPN NS DS RRSIG
@@ -1586,7 +1589,7 @@ host.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000535798 900 1
 9kqpja4fsc25g231qmgkpc2qhg5hfqqb.host.	900	in	nsec3	1 1 0 - 9LIAE9BFSSG3M3JATT69K0V596N4166O NS DS RRSIG
 9kqpja4fsc25g231qmgkpc2qhg5hfqqb.host.	900	in	rrsig	NSEC3 8 2 900 20251010021519 20250910004519 1338 host. elG3ib1cEFBCBrLYUQT6dbv+rzKo5R/bXfdxdX77S1BNnJgm6FYNuIVsU5zt7ZmdBgBZaCwecATXYmHG2FfHvYlNQNsC0Gir43n+rhf4qt/DRsg7MziRX7HdEVRSmg1/rclqt7YUjGSwwu08JHYX3T7Tgb3Rx2k8Q3qu33nKyMk=
 9liae9bfssg3m3jatt69k0v596n4166o.host.	900	in	nsec3	1 1 0 - 9N5FFAGS1VRQ57CNU32JQ8CV4TPJP7OK NS DS RRSIG
-9liae9bfssg3m3jatt69k0v596n4166o.host.	900	in	rrsig	NSEC3 8 2 900 20250914060013 20250815043013 1338 host. dKogi3XDZUobO/DpCcJx6zvuz1LNJouazoZPzrZ5ad/7d5VSigqqWyV7EoJ9qAOMyCr7ujG/2bKpQU8gV9MJo80I/ro4OjQLdqj4rhg5W0PSsa2z2PizkzN0k4pDf2Pj//Yehryt/NnVkRKXfSd62HhoTaI7VH1cpzAI5eXwrNM=
+9liae9bfssg3m3jatt69k0v596n4166o.host.	900	in	rrsig	NSEC3 8 2 900 20251011060013 20250911043013 1338 host. Q7ZQWR6bmkNkCuL4+ILVn7+l9q8RzZPrv7PjGnA0b8oVM2R+K+Kze4U7raGuyPy66Nzdt5x0XtCuu9XkBqCoZ7pgCj95S5IZA7YFa5+5ghxCfUM0UYOBEy/CCvaqV/IKH6ds1uXTBTy7PJ+XRnhcnmIUEM4g1JbdWwSqF0HmmE0=
 9list.host.	3600	in	ns	ns1.dyna-ns.net.
 9list.host.	3600	in	ns	ns2.dyna-ns.net.
 9n5ffags1vrq57cnu32jq8cv4tpjp7ok.host.	900	in	nsec3	1 1 0 - 9PELQJH83BVFKTTUPSN4HG6KARSFKKD3 NS DS RRSIG
@@ -1600,7 +1603,7 @@ host.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000535798 900 1
 9q2s5g6rs5b1svmcf6npjhigk5tqqdtk.host.	900	in	nsec3	1 1 0 - 9QJVHIEOUP6LDH4FM4VSC2MDL66TORUI NS DS RRSIG
 9q2s5g6rs5b1svmcf6npjhigk5tqqdtk.host.	900	in	rrsig	NSEC3 8 2 900 20251010021519 20250910004519 1338 host. kklul53CqOT3T/VCevlvnlzkCpMCWyvYM89T5MWPDBnf2OQF9VA/E9d+aYZpyDYdXW28nFEZAkI0lFeSn33BXVgQoP/QlEnKi6c8J6z1HGuEpOkvRrtPVGB/FU/2Zzpa8jd9b5kR+OZGyfGTqYFb0SMmcW0SiDiEv0Og3PAHV0k=
 9qjvhieoup6ldh4fm4vsc2mdl66torui.host.	900	in	nsec3	1 1 0 - 9SBGH5ITVLLHGATRGASVUS0BOFVEO7MH NS DS RRSIG
-9qjvhieoup6ldh4fm4vsc2mdl66torui.host.	900	in	rrsig	NSEC3 8 2 900 20250915000135 20250815223135 1338 host. SnQePWdkHMTVGetZiJJhMD4KBgsTE9h2f8iQ0q5pb3hLV9RxQNoGGhm7Bbr6Qq9S9K8uLrxBgzVpRtDlj69PFSNZtLs6cRplQU3j0tt2fZOIkyCHnN1sfJOBCN/ToufR+dBPuLQO9EHoc/YL7oUQquzhvujdoJxsmDMDQDwASO8=
+9qjvhieoup6ldh4fm4vsc2mdl66torui.host.	900	in	rrsig	NSEC3 8 2 900 20251012000135 20250911223135 1338 host. hWXY8kg/BJnSTT4Ucj7rke3AlbfPaHAgPvFk4ZZVegf+u+I6mG1G4kPx9mcz12QqJzItFz/8s5E8/9RuTPoulZXjyoMAzpVLOlNOVAstF6aMPpU+6ytOBDSsRApp33vPIg7/NK1RBocBgjfycmh8aPHvyIzaWSu/bP3Q/KG7ukg=
 9sbgh5itvllhgatrgasvus0bofveo7mh.host.	900	in	nsec3	1 1 0 - 9SCDDOGGLG7472ONCPJ8EJAM7BC1THTB NS DS RRSIG
 9sbgh5itvllhgatrgasvus0bofveo7mh.host.	900	in	rrsig	NSEC3 8 2 900 20251010021519 20250910004519 1338 host. geDkU6wMb6bI4FhsA5wJ+TqP0q1yjmfvLTQSHigZWkvHkdnVg1uKHFYXSKB+Ms0kfVGADrYHQYvD4VYNkYW7x41qg8hFyMXeV9zx0Q4AfHlSu9Lx2yIftcDXRaOlZ2qvo2gMInFJdxPvsb1wyGOBMQAmSxy8bPhbfbMSPdZUOyU=
 9scddogglg7472oncpj8ejam7bc1thtb.host.	900	in	nsec3	1 1 0 - 9SMDJ3JNCEKRBR20KT1T01PCG1FOUL9C NS DS RRSIG
@@ -2445,7 +2448,7 @@ agnet.host.	3600	in	ns	luciana.ns.cloudflare.com.
 agnus.host.	3600	in	ds	2371 13 2 EBC00DF6F5202A9E141742E522C4E93D57B78D814149D9EC299127CE0DA7277B
 agnus.host.	3600	in	ns	ricardo.ns.cloudflare.com.
 agnus.host.	3600	in	ns	tiffany.ns.cloudflare.com.
-agnus.host.	3600	in	rrsig	DS 8 2 3600 20250914153844 20250815140844 1338 host. F1TUIQvF1EOeuhvFY7vx1RvNhudVUoAEOBEHwC1bbcHXQXduz+6/JW/52JCCtQBgoDr6BsZ9jl9T1puPc2cDllE8I+Rus7laO1nVu+BDVvHyAH3pukQB4asqqJk76xgeMcJDogICRGU7CrHlwOPHmNCsOr8oJ/cbNaTzwSVizco=
+agnus.host.	3600	in	rrsig	DS 8 2 3600 20251011145030 20250911132030 1338 host. fGPjVfO8mqDyBdqiaSJ376OekrbJMHLHRfhjunYVkbkp25xzeP6PmWLmbFdUdk2bt3qo9dvm8GWnV7hwSAf8iiFCoWxhnsKDmNqH7KYjKXijWj7P14Kqiaw6vtgRY4V9l049hjp/dLRfYNsB4J0RBybybMxQSAnjrCtXtr3o6y4=
 agoda.host.	3600	in	ns	kip.ns.cloudflare.com.
 agoda.host.	3600	in	ns	wren.ns.cloudflare.com.
 agora.host.	3600	in	ns	ns1.atom.com.
@@ -2575,8 +2578,8 @@ aicode.host.	3600	in	ns	dns31.hichina.com.
 aicode.host.	3600	in	ns	dns32.hichina.com.
 aicoin.host.	3600	in	ns	dns27.hichina.com.
 aicoin.host.	3600	in	ns	dns28.hichina.com.
-aicompute.host.	3600	in	ns	dns10.hichina.com.
-aicompute.host.	3600	in	ns	dns9.hichina.com.
+aicompute.host.	3600	in	ns	expirens3.hichina.com.
+aicompute.host.	3600	in	ns	expirens4.hichina.com.
 aicomputer.host.	3600	in	ns	dns17.hichina.com.
 aicomputer.host.	3600	in	ns	dns18.hichina.com.
 aida.host.	3600	in	ns	dns1.onamae.com.
@@ -4295,8 +4298,8 @@ arriba.host.	3600	in	ns	dns2.name-services.com.
 arriba.host.	3600	in	ns	dns3.name-services.com.
 arriba.host.	3600	in	ns	dns4.name-services.com.
 arriba.host.	3600	in	ns	dns5.name-services.com.
-arrival.host.	3600	in	ns	ns1.dns-parking.com.
-arrival.host.	3600	in	ns	ns2.dns-parking.com.
+arrival.host.	3600	in	ns	ns1.dns-expired.com.
+arrival.host.	3600	in	ns	ns2.dns-expired.com.
 arrive.host.	3600	in	ns	ns55.domaincontrol.com.
 arrive.host.	3600	in	ns	ns56.domaincontrol.com.
 arrowclients.host.	3600	in	ns	pdns77.ultradns.biz.
@@ -4559,8 +4562,8 @@ assistally.host.	3600	in	ns	paris.ns.cloudflare.com.
 assistally.host.	3600	in	ns	sergi.ns.cloudflare.com.
 assistant.host.	3600	in	ns	cardboard.dnspod.net.
 assistant.host.	3600	in	ns	joyce.dnspod.net.
-assyria.host.	3600	in	ns	dns1.namecheaphosting.com.
-assyria.host.	3600	in	ns	dns2.namecheaphosting.com.
+assyria.host.	3600	in	ns	dns1.registrar-servers.com.
+assyria.host.	3600	in	ns	dns2.registrar-servers.com.
 aster.host.	3600	in	ns	dns1.registrar-servers.com.
 aster.host.	3600	in	ns	dns2.registrar-servers.com.
 astic.host.	3600	in	ns	dns1.registrar-servers.com.
@@ -4722,8 +4725,8 @@ atworthy.host.	3600	in	ns	ns-cloud-e3.googledomains.com.
 atworthy.host.	3600	in	ns	ns-cloud-e4.googledomains.com.
 atypical.host.	3600	in	ns	dns1.registrar-servers.com.
 atypical.host.	3600	in	ns	dns2.registrar-servers.com.
-aua5ur7smff17rg704bjgjs3bf5cd8b7.host.	900	in	nsec3	1 1 0 - AVGL8ITJKPPA7BGAATF0BD2LQPD3OU23 NS DS RRSIG
-aua5ur7smff17rg704bjgjs3bf5cd8b7.host.	900	in	rrsig	NSEC3 8 2 900 20251010082736 20250910065736 1338 host. dclamP5iw5KcqfL6SN6giY9LLfzPD/ygveBYYWcZA2469pE1NUSRrYL+jgNHdCnsAsBg+BF+48kD2xRj+lWRn188e5uN85/S6W+0P6675YiTzR0CSUEmp+U3/HDNw1CU0E4g1vY9k9FvwhGLOwMy2QAO6E+h9aX1hOco5UnDK0I=
+aua5ur7smff17rg704bjgjs3bf5cd8b7.host.	900	in	nsec3	1 1 0 - B0F195RO9BR6CGHAQAESDEQMIG8K478T NS DS RRSIG
+aua5ur7smff17rg704bjgjs3bf5cd8b7.host.	900	in	rrsig	NSEC3 8 2 900 20251011114007 20250911101007 1338 host. MuaPk3JcPLh0umq5Luz0E2GtbREefYZ60nmCZgZt0Uf4WNhqLrHkV/pa6oAaUYM9ZXycfw0eVrrSFcczXHPCvng2LjdSMbRbaBPbMWmnHddR+zZrXPMwhSgLd5zN+NTUN7M1i8tbUYiDW0dSUkIQ/leUC68L7tjyAgI3DfT8ZZ0=
 auar.host.	3600	in	ns	dns23.hichina.com.
 auar.host.	3600	in	ns	dns24.hichina.com.
 aubor.host.	3600	in	ns	ns11.xincache.com.
@@ -4742,8 +4745,8 @@ audio.host.	3600	in	ds	29591 13 2 761E7C2E0E807BA412680A078B18D978615D00F4F6ABF6
 audio.host.	3600	in	ns	launch1.spaceship.net.
 audio.host.	3600	in	ns	launch2.spaceship.net.
 audio.host.	3600	in	rrsig	DS 8 2 3600 20250917203820 20250818190820 1338 host. tOwbXYpbeWBr62iv3bsctQJtvGxGanv+sPD83BXCHk7R6uF7OMAkOl1ruhERLwPitzdvESCYZ/EWg0dwU5H59SZ+JrYFXOel+V+uXInZ3TmiGqUoUMMIlfiSbY3i3j9UVeYAwDHm0v6dNLkMILLxY/AnorfHS0hmg+HvYlfRRCg=
-audisi.host.	3600	in	ns	dns1.namecheaphosting.com.
-audisi.host.	3600	in	ns	dns2.namecheaphosting.com.
+audisi.host.	3600	in	ns	dns101.registrar-servers.com.
+audisi.host.	3600	in	ns	dns102.registrar-servers.com.
 aujad.host.	3600	in	ns	evelyn.ns.cloudflare.com.
 aujad.host.	3600	in	ns	felipe.ns.cloudflare.com.
 aula.host.	3600	in	ns	amanda.ns.cloudflare.com.
@@ -4900,8 +4903,6 @@ averroes.host.	3600	in	ds	47681 13 1 AFE7F65011347427B9EA5D4F6E7779E592A54657
 averroes.host.	3600	in	ns	dns1.registrar-servers.com.
 averroes.host.	3600	in	ns	dns2.registrar-servers.com.
 averroes.host.	3600	in	rrsig	DS 8 2 3600 20250923004553 20250823231553 1338 host. KKPa7ek2257w+yN9xvYIc1xgpiY53D6m6YCopnFpH6rcyp78M5orQxYL7FhRn1rXLf4HNF9kHSkcDgoDSkgDjj0rYVxXXhg9feFvi3Dsnwhk3Eg+yICWD2qreq6Yey+G8mH35LR7KchWIz2jil1wNvSCH1UtEJUSwXIESnaQoJw=
-avgl8itjkppa7bgaatf0bd2lqpd3ou23.host.	900	in	nsec3	1 1 0 - B0F195RO9BR6CGHAQAESDEQMIG8K478T NS DS RRSIG
-avgl8itjkppa7bgaatf0bd2lqpd3ou23.host.	900	in	rrsig	NSEC3 8 2 900 20250921131947 20250822114947 1338 host. afmXePNJceAYBGWEapJMXZI/ACLO0LULks82YaOnyORhTC34zfYBhslQl2LHH4Gk+enqsJMujXzypuQOlba6n/nuR+bvvo4ptFUakgyCHTq7dQVgHf4x8C+++TXei/rxrCSO5BUEbi/9j4g4LCgdAPFVMnSebCoJ6Hj18hHFGGk=
 avhi.host.	3600	in	ns	ns21.domaincontrol.com.
 avhi.host.	3600	in	ns	ns22.domaincontrol.com.
 avia.host.	3600	in	ns	ns1.aviahosting.net.
@@ -5199,8 +5200,6 @@ badban.host.	3600	in	ns	ns1.baadbaan.host.
 badban.host.	3600	in	ns	ns2.baadbaan.host.
 badboy.host.	3600	in	ns	khalid.ns.cloudflare.com.
 badboy.host.	3600	in	ns	malavika.ns.cloudflare.com.
-badboyz.host.	3600	in	ns	ns1.expired.beget.com.
-badboyz.host.	3600	in	ns	ns2.expired.beget.com.
 baddiehub.host.	3600	in	ns	ns1.dns-parking.com.
 baddiehub.host.	3600	in	ns	ns2.dns-parking.com.
 baden.host.	3600	in	ns	ns.leitwerk.net.
@@ -5245,6 +5244,8 @@ baidu.host.	3600	in	ns	ns2.brandshelter.de.
 baidu.host.	3600	in	ns	ns3.brandshelter.info.
 baidu.host.	3600	in	ns	ns4.brandshelter.net.
 baidu.host.	3600	in	ns	ns5.brandshelter.us.
+baifeibu.host.	3600	in	ns	ns5.myhostadmin.net.
+baifeibu.host.	3600	in	ns	ns6.myhostadmin.net.
 baike.host.	3600	in	ns	everton.ns.cloudflare.com.
 baike.host.	3600	in	ns	lia.ns.cloudflare.com.
 baily.host.	3600	in	ns	ns01.domaincontrol.com.
@@ -5412,6 +5413,8 @@ banquepictet.host.	3600	in	ns	ns2.net.pictet.
 banquepictet.host.	3600	in	ns	ns3.net.pictet.
 banshee.host.	3600	in	ns	dns101.registrar-servers.com.
 banshee.host.	3600	in	ns	dns102.registrar-servers.com.
+bantal.host.	3600	in	ns	dns1.namecheaphosting.com.
+bantal.host.	3600	in	ns	dns2.namecheaphosting.com.
 bantam.host.	3600	in	ns	brian.ns.cloudflare.com.
 bantam.host.	3600	in	ns	liberty.ns.cloudflare.com.
 baobab.host.	3600	in	ns	dns1.registrar-servers.com.
@@ -6239,8 +6242,8 @@ binder.host.	3600	in	ns	docks07.rzone.de.
 binder.host.	3600	in	ns	shades19.rzone.de.
 binderscadencylambeau.host.	3600	in	ns	bristol.ns.cloudflare.com.
 binderscadencylambeau.host.	3600	in	ns	vick.ns.cloudflare.com.
-bingx.host.	3600	in	ns	art.ns.cloudflare.com.
-bingx.host.	3600	in	ns	janet.ns.cloudflare.com.
+bingx.host.	3600	in	ns	ns1.expired-han1.cloud.z.com.
+bingx.host.	3600	in	ns	ns2.expired-han1.cloud.z.com.
 binomo.host.	3600	in	ns	cecelia.ns.cloudflare.com.
 binomo.host.	3600	in	ns	christian.ns.cloudflare.com.
 biocage-specialsauce.host.	3600	in	ns	ns1.mixhost.jp.
@@ -7437,7 +7440,7 @@ brim.host.	3600	in	ns	ns38.worldnic.com.
 bring.host.	3600	in	ds	17868 13 2 2C1FD2DAF31DADB8601D017AF39F288F6D0F4E71665FC93902901C3FE3102815
 bring.host.	3600	in	ns	ns3.dnsv2.com.
 bring.host.	3600	in	ns	ns4.dnsv2.com.
-bring.host.	3600	in	rrsig	DS 8 2 3600 20250914081523 20250815064523 1338 host. DGal07X62MebmdqFe3Q8wqz8tdeWcnw/dlmZdZggX2+G6p9UW/3ElH6+3tOPujM1zoguNfzSKPB49A9/3DndYhcXTQ4B/faEdcQ1VIIihxcDBiiUNj2EaPes+sKpcMjUQb2aKoS6kpp0SwB/jW8hnvQPytHosTKW+5LYmtX1ceY=
+bring.host.	3600	in	rrsig	DS 8 2 3600 20251011081523 20250911064523 1338 host. LXsHdikBgvSkZHF0Xh1T650lB1FedY1oprbR43UlG0K9Z8FB5+6GhOSH2SC5F+RN6hmtloo1W0bd4U+BM2lDIhKI0zxa7hHsJqdPsrXxrfbTWLCO3Zgha/9dHEuZcG9EuXiJcqi06YS3CujV8TlSjWjv65ELvoD2qDKnNpmJXPg=
 bringyourown.host.	3600	in	ns	curitiba.ns.porkbun.com.
 bringyourown.host.	3600	in	ns	fortaleza.ns.porkbun.com.
 bringyourown.host.	3600	in	ns	maceio.ns.porkbun.com.
@@ -8403,8 +8406,6 @@ cathialss.host.	3600	in	ns	ns3.dnsowl.com.
 cathiason.host.	3600	in	ns	ns1.dnsowl.com.
 cathiason.host.	3600	in	ns	ns2.dnsowl.com.
 cathiason.host.	3600	in	ns	ns3.dnsowl.com.
-catiablason.host.	3600	in	ns	ns1.ns306.parklogic.com.
-catiablason.host.	3600	in	ns	ns2.ns306.parklogic.com.
 catiamar.host.	3600	in	ns	ns1.dnsowl.com.
 catiamar.host.	3600	in	ns	ns2.dnsowl.com.
 catiamar.host.	3600	in	ns	ns3.dnsowl.com.
@@ -8427,9 +8428,8 @@ cauldron.host.	3600	in	ns	dns1.registrar-servers.com.
 cauldron.host.	3600	in	ns	dns2.registrar-servers.com.
 cawth.host.	3600	in	ns	ada.ns.cloudflare.com.
 cawth.host.	3600	in	ns	sri.ns.cloudflare.com.
-cbay.host.	3600	in	ns	eu.dnsenable.com.
-cbay.host.	3600	in	ns	tr.dnsenable.com.
-cbay.host.	3600	in	ns	us.dnsenable.com.
+cbay.host.	3600	in	ns	ns1.cbay.host.
+cbay.host.	3600	in	ns	ns2.cbay.host.
 cbcproject.host.	3600	in	ns	ns1.cbcproject.host.
 cbcproject.host.	3600	in	ns	ns2.cbcproject.host.
 cbdc.host.	3600	in	ns	ns1.afternic.com.
@@ -9390,8 +9390,8 @@ cloaking.host.	3600	in	ns	dns1.namecheaphosting.com.
 cloaking.host.	3600	in	ns	dns2.namecheaphosting.com.
 cloakingweb.host.	3600	in	ns	dns1.namecheaphosting.com.
 cloakingweb.host.	3600	in	ns	dns2.namecheaphosting.com.
-cloe.host.	3600	in	ns	ns1.verification-hold.suspended-domain.com.
-cloe.host.	3600	in	ns	ns2.verification-hold.suspended-domain.com.
+cloe.host.	3600	in	ns	ns1.dns-expired.com.
+cloe.host.	3600	in	ns	ns2.dns-expired.com.
 clof.host.	3600	in	ns	ns1.dnsboxnetwork.com.
 clof.host.	3600	in	ns	ns2.dnsboxnetwork.com.
 clof.host.	3600	in	ns	ns3.dnsboxnetwork.com.
@@ -9958,6 +9958,8 @@ coin.host.	3600	in	ns	nsany1.infomaniak.com.
 coin.host.	3600	in	ns	nsany2.infomaniak.com.
 coinage.host.	3600	in	ns	ns1.dns-expired.com.
 coinage.host.	3600	in	ns	ns2.dns-expired.com.
+coinbase.host.	3600	in	ns	ns3.myhostadmin.net.
+coinbase.host.	3600	in	ns	ns4.myhostadmin.net.
 coinbasecloud.host.	3600	in	ns	ns1.markmonitor.com.
 coinbasecloud.host.	3600	in	ns	ns2.markmonitor.com.
 coinbasecloud.host.	3600	in	ns	ns3.markmonitor.com.
@@ -9985,8 +9987,6 @@ coinexchange.host.	3600	in	ns	dns1.registrar-servers.com.
 coinexchange.host.	3600	in	ns	dns2.registrar-servers.com.
 coinhub.host.	3600	in	ns	ns1.bluehost.com.
 coinhub.host.	3600	in	ns	ns2.bluehost.com.
-coinit.host.	3600	in	ns	ns1.dns-expired.com.
-coinit.host.	3600	in	ns	ns2.dns-expired.com.
 coinsafe.host.	3600	in	ns	ns1.dns-parking.com.
 coinsafe.host.	3600	in	ns	ns2.dns-parking.com.
 coinshop.host.	3600	in	ns	ns1.dns-parking.com.
@@ -10526,8 +10526,8 @@ cornweb.host.	3600	in	ns	ns2.myhostadmin.net.
 coronation.host.	3600	in	ns	ns1.lexsynergy.net.
 coronation.host.	3600	in	ns	ns2.lexsynergy.us.
 coronation.host.	3600	in	ns	ns3.lexsynergy.info.
-corpoemforma.host.	3600	in	ns	hadlee.ns.cloudflare.com.
-corpoemforma.host.	3600	in	ns	shane.ns.cloudflare.com.
+corpoemforma.host.	3600	in	ns	dns3.parkpage.foundationapi.com.
+corpoemforma.host.	3600	in	ns	dns4.parkpage.foundationapi.com.
 corral.host.	3600	in	ns	annabel.ns.cloudflare.com.
 corral.host.	3600	in	ns	tom.ns.cloudflare.com.
 corrale.host.	3600	in	ns	dns1.registrar-servers.com.
@@ -10713,8 +10713,8 @@ craiglegal.host.	3600	in	ns	ns1.dns-parking.com.
 craiglegal.host.	3600	in	ns	ns2.dns-parking.com.
 craigsbilling.host.	3600	in	ns	hgns1.hostgator.com.
 craigsbilling.host.	3600	in	ns	hgns2.hostgator.com.
-crate.host.	3600	in	ns	gina.ns.cloudflare.com.
-crate.host.	3600	in	ns	hasslo.ns.cloudflare.com.
+crate.host.	3600	in	ns	bonnie.ns.cloudflare.com.
+crate.host.	3600	in	ns	glen.ns.cloudflare.com.
 crawlspace.host.	3600	in	ns	dns1.registrar-servers.com.
 crawlspace.host.	3600	in	ns	dns2.registrar-servers.com.
 crazydomain.host.	3600	in	ns	ns1.parkme.com.au.
@@ -12468,6 +12468,8 @@ dhgbfgprgava9cjp7lmvge831rh7n53d.host.	900	in	nsec3	1 1 0 - DL2032CMC9IOP25T1GD0
 dhgbfgprgava9cjp7lmvge831rh7n53d.host.	900	in	rrsig	NSEC3 8 2 900 20251010021519 20250910004519 1338 host. lN8PhxExVALHftDhBsR+WwU+gHcq0CLKH5ZOn7f4Wxe9fi92PkH+T5x/gBDUcTSokcCeTgUyQaO028stx3e5O0yvfxKhQsCZ4UKMLiZ1cnu2V5i2kZ0ZhG3trz6Bt6nw5U0S9rYEQ8HzdwWsGge8/kDLTUIn2Hj7xJPx1dJ6bgU=
 dhgf.host.	3600	in	ns	elmer.dnspod.net.
 dhgf.host.	3600	in	ns	many.dnspod.net.
+dhl-de.host.	3600	in	ns	ns1.dns-parking.com.
+dhl-de.host.	3600	in	ns	ns2.dns-parking.com.
 dhru.host.	3600	in	ns	ns1.yottasrc.net.
 dhru.host.	3600	in	ns	ns2.yottasrc.net.
 dhru.host.	3600	in	ns	ns3.yottasrc.com.
@@ -13270,8 +13272,6 @@ domi.host.	3600	in	ns	ns1.domi.host.
 domi.host.	3600	in	ns	ns2.domi.host.
 dominatus.host.	3600	in	ns	ns1.dns-parking.com.
 dominatus.host.	3600	in	ns	ns2.dns-parking.com.
-dominic.host.	3600	in	ns	dns101.registrar-servers.com.
-dominic.host.	3600	in	ns	dns102.registrar-servers.com.
 dominiobienal-13.host.	3600	in	ns	dns1.name-services.com.
 dominiobienal-13.host.	3600	in	ns	dns2.name-services.com.
 dominiobienal-13.host.	3600	in	ns	dns3.name-services.com.
@@ -13670,8 +13670,6 @@ droppy.host.	3600	in	ns	curitiba.ns.porkbun.com.
 droppy.host.	3600	in	ns	fortaleza.ns.porkbun.com.
 droppy.host.	3600	in	ns	maceio.ns.porkbun.com.
 droppy.host.	3600	in	ns	salvador.ns.porkbun.com.
-dropship.host.	3600	in	ns	ns1.expired.beget.com.
-dropship.host.	3600	in	ns	ns2.expired.beget.com.
 drovia.host.	3600	in	ns	nelly.ns.cloudflare.com.
 drovia.host.	3600	in	ns	ridge.ns.cloudflare.com.
 drpinoca.host.	3600	in	ns	ns-a1.tenten.vn.
@@ -13755,8 +13753,8 @@ duck.host.	3600	in	ns	hope.ns.cloudflare.com.
 duck.host.	3600	in	ns	scott.ns.cloudflare.com.
 duckdb.host.	3600	in	ns	dns19.hichina.com.
 duckdb.host.	3600	in	ns	dns20.hichina.com.
-ducki.host.	3600	in	ns	dns1.registrar-servers.com.
-ducki.host.	3600	in	ns	dns2.registrar-servers.com.
+ducki.host.	3600	in	ns	dns101.registrar-servers.com.
+ducki.host.	3600	in	ns	dns102.registrar-servers.com.
 duckweb.host.	3600	in	ns	ns1.dns-parking.com.
 duckweb.host.	3600	in	ns	ns2.dns-parking.com.
 ducor.host.	3600	in	ns	bethany.ns.cloudflare.com.
@@ -14607,8 +14605,6 @@ elumix.host.	3600	in	ns	ajay.ns.cloudflare.com.
 elumix.host.	3600	in	ns	aryanna.ns.cloudflare.com.
 elvora.host.	3600	in	ns	ns1.dns-parking.com.
 elvora.host.	3600	in	ns	ns2.dns-parking.com.
-elwy.host.	3600	in	ns	dns101.registrar-servers.com.
-elwy.host.	3600	in	ns	dns102.registrar-servers.com.
 elympics.host.	3600	in	ns	anirban.ns.cloudflare.com.
 elympics.host.	3600	in	ns	maya.ns.cloudflare.com.
 elyra.host.	3600	in	ns	anastasia.ns.cloudflare.com.
@@ -15304,8 +15300,6 @@ ethos.host.	3600	in	ns	dns1.registrar-servers.com.
 ethos.host.	3600	in	ns	dns2.registrar-servers.com.
 ethrieal.host.	3600	in	ns	becky.ns.cloudflare.com.
 ethrieal.host.	3600	in	ns	karl.ns.cloudflare.com.
-eticket.host.	3600	in	ns	dns101.registrar-servers.com.
-eticket.host.	3600	in	ns	dns102.registrar-servers.com.
 etik.host.	3600	in	ns	dns1.registrar-servers.com.
 etik.host.	3600	in	ns	dns2.registrar-servers.com.
 etikteknoloji.host.	3600	in	ns	elle.ns.cloudflare.com.
@@ -15948,9 +15942,8 @@ fastant.host.	3600	in	ns	dns11.hichina.com.
 fastant.host.	3600	in	ns	dns12.hichina.com.
 fastapi.host.	3600	in	ns	ns1.dns-parking.com.
 fastapi.host.	3600	in	ns	ns2.dns-parking.com.
-fastcloud.host.	3600	in	ns	ns1.dnsowl.com.
-fastcloud.host.	3600	in	ns	ns2.dnsowl.com.
-fastcloud.host.	3600	in	ns	ns3.dnsowl.com.
+fastcloud.host.	3600	in	ns	lila.ns.cloudflare.com.
+fastcloud.host.	3600	in	ns	newt.ns.cloudflare.com.
 fastcom.host.	3600	in	ns	aiden.ns.cloudflare.com.
 fastcom.host.	3600	in	ns	dayana.ns.cloudflare.com.
 fastcomet.host.	3600	in	ns	ns1.mysafedns.com.
@@ -16678,8 +16671,8 @@ fliptheclassroom.host.	3600	in	ns	ns1.bluehost.com.
 fliptheclassroom.host.	3600	in	ns	ns2.bluehost.com.
 flisperformance.host.	3600	in	ns	dns1.registrar-servers.com.
 flisperformance.host.	3600	in	ns	dns2.registrar-servers.com.
-flixbd.host.	3600	in	ns	ns1.bodis.com.
-flixbd.host.	3600	in	ns	ns2.bodis.com.
+flixbd.host.	3600	in	ns	ns1.dns-redirect.com.
+flixbd.host.	3600	in	ns	ns2.dns-redirect.com.
 flixnet.host.	3600	in	ns	ns1.dns-parking.com.
 flixnet.host.	3600	in	ns	ns2.dns-parking.com.
 flixtv.host.	3600	in	ns	ns1021.ui-dns.de.
@@ -17191,8 +17184,6 @@ freets3bots.host.	3600	in	ns	nameserver05.eu.
 freets3bots.host.	3600	in	ns	nameserver06.eu.
 freevps.host.	3600	in	ns	dns1.registrar-servers.com.
 freevps.host.	3600	in	ns	dns2.registrar-servers.com.
-freewargamer.host.	3600	in	ns	dns101.registrar-servers.com.
-freewargamer.host.	3600	in	ns	dns102.registrar-servers.com.
 freeway.host.	3600	in	ns	garrett.ns.cloudflare.com.
 freeway.host.	3600	in	ns	josephine.ns.cloudflare.com.
 freewebhosting.host.	3600	in	ns	ns1.dyna-ns.net.
@@ -17313,7 +17304,7 @@ ftb.host.	3600	in	rrsig	DS 8 2 3600 20251010021519 20250910004519 1338 host. hIx
 ftl.host.	3600	in	ds	2371 13 2 97C0049D378884C407C000533CEA46BDB7D3B00B8F27C4362B88C665DCB23B89
 ftl.host.	3600	in	ns	ben.ns.cloudflare.com.
 ftl.host.	3600	in	ns	isla.ns.cloudflare.com.
-ftl.host.	3600	in	rrsig	DS 8 2 3600 20250914044521 20250815031521 1338 host. v6ubR3LidyWSb+NhJy9trXmTMbhltp5jnNpA/8FUND1y8Z+a5zkLURChM9WlTma2uqGbIx+90bsuO57wuTpZx9zcQ6PSOLN3ZvrYCNRl6e1MmpDGu7nDjf/RD5CgqIcQCsw87MA0wZz3Vjft89p/ZaE7pQ5C06+rMn4hQOvrt9g=
+ftl.host.	3600	in	rrsig	DS 8 2 3600 20251011035230 20250911022230 1338 host. SxfkTqvTk9iXNoeZre/JMxTGn6Z2r1hor8GvwyWaeWRhsgQs3jmQviuQ6ZSHwGuBYEvmziV/Nml0ZEmExD8b7z7DR4YLuWMdSicRx0UnpyztCqu/4a0lvlDpKgl6xsJMrNfxTRM3HkNC/B9ugin35ZrkmjWB2S+sSWR23tp/Q2I=
 ftn.host.	3600	in	ns	devin.ns.cloudflare.com.
 ftn.host.	3600	in	ns	tina.ns.cloudflare.com.
 ftpserver.host.	3600	in	ns	ns.aspnext.de.
@@ -17339,8 +17330,8 @@ fucking.host.	3600	in	ns	ns2.zen-dns.net.
 fucking.host.	3600	in	ns	ns3.zen-dns.net.
 fucking.host.	3600	in	ns	ns4.zen-dns.net.
 fucking.host.	3600	in	ns	ns5.zen-dns.net.
-fucktube.host.	3600	in	ns	duke.ns.cloudflare.com.
-fucktube.host.	3600	in	ns	gail.ns.cloudflare.com.
+fucktube.host.	3600	in	ns	dns101.registrar-servers.com.
+fucktube.host.	3600	in	ns	dns102.registrar-servers.com.
 fuda.host.	3600	in	ns	dns10.hichina.com.
 fuda.host.	3600	in	ns	dns9.hichina.com.
 fudan.host.	3600	in	ns	dns15.hichina.com.
@@ -17878,8 +17869,8 @@ gda.host.	3600	in	ns	ns-107-b.gandi.net.
 gda.host.	3600	in	ns	ns-160-a.gandi.net.
 gdai.host.	3600	in	ns	dns1.registrar-servers.com.
 gdai.host.	3600	in	ns	dns2.registrar-servers.com.
-gdbypass.host.	3600	in	ns	ns1.bodis.com.
-gdbypass.host.	3600	in	ns	ns2.bodis.com.
+gdbypass.host.	3600	in	ns	ns1.dns-redirect.com.
+gdbypass.host.	3600	in	ns	ns2.dns-redirect.com.
 gde.host.	3600	in	ns	becky.ns.cloudflare.com.
 gde.host.	3600	in	ns	dale.ns.cloudflare.com.
 gdprcloud.host.	3600	in	ns	pdns09.domaincontrol.com.
@@ -18266,10 +18257,6 @@ gigcity.host.	3600	in	ns	curitiba.ns.porkbun.com.
 gigcity.host.	3600	in	ns	fortaleza.ns.porkbun.com.
 gigcity.host.	3600	in	ns	maceio.ns.porkbun.com.
 gigcity.host.	3600	in	ns	salvador.ns.porkbun.com.
-giggle.host.	3600	in	ns	ns1.myhostadmin.net.
-giggle.host.	3600	in	ns	ns2.myhostadmin.net.
-gighub.host.	3600	in	ns	ns1.dns-expired.com.
-gighub.host.	3600	in	ns	ns2.dns-expired.com.
 gigi.host.	3600	in	ns	dns1.registrar-servers.com.
 gigi.host.	3600	in	ns	dns2.registrar-servers.com.
 gigle.host.	3600	in	ns	ns1.vercel-dns.com.
@@ -18364,6 +18351,8 @@ gk2.host.	3600	in	ns	ns.br53.net.
 gk2.host.	3600	in	ns	ns.br53.org.
 gk2.host.	3600	in	ns	ns.br53.pro.
 gk2.host.	3600	in	ns	ns.br53.us.
+gk88.host.	3600	in	ns	garrett.ns.cloudflare.com.
+gk88.host.	3600	in	ns	lisa.ns.cloudflare.com.
 gkam18hdomk431phhfkf5o4orfr7k71a.host.	900	in	nsec3	1 1 0 - GL4ONU16LHL2H9PAGBKKKF45T1526IPI NS DS RRSIG
 gkam18hdomk431phhfkf5o4orfr7k71a.host.	900	in	rrsig	NSEC3 8 2 900 20251006001111 20250905224111 1338 host. YoMVMkBlBIy+vYzTU0zCIOKl8lIuYIcUcAPEnqyKABvpT5JfVj52YNE1D5EZec6daRH8tTtmiWJW7CNsQPSCZta/mTd8oFqjE5AtBozeWjO9YU4VFgL8cvfAdfm849Uz/Ja71K9Bvc1/C8mPp/uvmCENMEezBciOHFCAbd73m9g=
 gl-d.host.	3600	in	ns	ns-1405.awsdns-47.org.
@@ -18513,8 +18502,8 @@ glsuite.host.	3600	in	ns	ns51.worldnic.com.
 glsuite.host.	3600	in	ns	ns52.worldnic.com.
 gltis.host.	3600	in	ns	ns1.hostgator.com.
 gltis.host.	3600	in	ns	ns2.hostgator.com.
-gltotoserver.host.	3600	in	ns	dns1.namecheaphosting.com.
-gltotoserver.host.	3600	in	ns	dns2.namecheaphosting.com.
+gltotoserver.host.	3600	in	ns	dns101.registrar-servers.com.
+gltotoserver.host.	3600	in	ns	dns102.registrar-servers.com.
 gluck-system.host.	3600	in	ns	ns1.dns-parking.com.
 gluck-system.host.	3600	in	ns	ns2.dns-parking.com.
 glucky.host.	3600	in	ns	dns1.namecheaphosting.com.
@@ -18762,6 +18751,8 @@ goodeal.host.	3600	in	ns	ns51.domaincontrol.com.
 goodeal.host.	3600	in	ns	ns52.domaincontrol.com.
 goodgame.host.	3600	in	ns	dns1.registrar-servers.com.
 goodgame.host.	3600	in	ns	dns2.registrar-servers.com.
+goodlife.host.	3600	in	ns	ns1.dns-parking.com.
+goodlife.host.	3600	in	ns	ns2.dns-parking.com.
 goodluck.host.	3600	in	ns	ns1.dns-expired.com.
 goodluck.host.	3600	in	ns	ns2.dns-expired.com.
 goodnews.host.	3600	in	ns	opponent.dnspod.net.
@@ -19522,8 +19513,8 @@ hahn.host.	3600	in	ns	fay.ns.cloudflare.com.
 hahn.host.	3600	in	rrsig	DS 8 2 3600 20251010021519 20250910004519 1338 host. hbDBAADxAkIe8gsGwDpEEiNE4+kGvvsthoB4ucfriuHCHZaCm3rAIR1OUSvmfq3zSdM95OZi8fTMv3fHUpgMT5TfYUleHcLkEIcEKPqRbXuBbT9+QAVGtw0tawxt0XhLFuifBqLzmhI/nWqwPcSRbIkK0Sm31kWlCgUd083b9U4=
 haier.host.	3600	in	ns	dns10.hichina.com.
 haier.host.	3600	in	ns	dns9.hichina.com.
-haikou.host.	3600	in	ns	expirens3.hichina.com.
-haikou.host.	3600	in	ns	expirens4.hichina.com.
+haikou.host.	3600	in	ns	dns31.hichina.com.
+haikou.host.	3600	in	ns	dns32.hichina.com.
 haiku.host.	3600	in	ns	dns101.registrar-servers.com.
 haiku.host.	3600	in	ns	dns102.registrar-servers.com.
 haining.host.	3600	in	ns	dns3.hichina.com.
@@ -19898,8 +19889,8 @@ hdyx.host.	3600	in	ns	dns27.hichina.com.
 hdyx.host.	3600	in	ns	dns28.hichina.com.
 he9jep8ivb5ot294mkb5khnhok3unuie.host.	900	in	nsec3	1 1 0 - HGNPS2D7BV9IJ0UESN73H76PMPRNPEG7 NS DS RRSIG
 he9jep8ivb5ot294mkb5khnhok3unuie.host.	900	in	rrsig	NSEC3 8 2 900 20250923113251 20250824100251 1338 host. nu5dpXJPYjORCvW7z5iNZ7wEWyrwY97X2+Z2Ie/SvsN0xfKFcpCZk2Vvirbp1E3OHVWpHL1L/fLwDuwkuFjXZEwTO7LoeHA0Kwlauodea9dntzuhUPjydb32DtlE7ArsEGKwsXUbpCPt0cXcuiLkM3+EdSMCxN/+JJdiELNaF/s=
-headchief.host.	3600	in	ns	dns1.namecheaphosting.com.
-headchief.host.	3600	in	ns	dns2.namecheaphosting.com.
+headchief.host.	3600	in	ns	dns101.registrar-servers.com.
+headchief.host.	3600	in	ns	dns102.registrar-servers.com.
 headlesscms.host.	3600	in	ns	dan.ns.cloudflare.com.
 headlesscms.host.	3600	in	ns	nelly.ns.cloudflare.com.
 headspace.host.	3600	in	ns	ns1.bluehost.com.
@@ -20554,8 +20545,6 @@ home-comfort.host.	3600	in	ns	ns2.beget.com.
 home-comfort.host.	3600	in	ns	ns2.beget.pro.
 home-lab.host.	3600	in	ns	gene.ns.cloudflare.com.
 home-lab.host.	3600	in	ns	lynn.ns.cloudflare.com.
-home-rentals.host.	3600	in	ns	ns1.ns306.parklogic.com.
-home-rentals.host.	3600	in	ns	ns2.ns306.parklogic.com.
 homecloud.host.	3600	in	ns	drake.ns.cloudflare.com.
 homecloud.host.	3600	in	ns	zoe.ns.cloudflare.com.
 homedata.host.	3600	in	ns	dns29.hichina.com.
@@ -20600,9 +20589,6 @@ homenetwork.host.	3600	in	ns	jamie.ns.cloudflare.com.
 homenetwork.host.	3600	in	ns	zod.ns.cloudflare.com.
 homeos.host.	3600	in	ns	dns23.hichina.com.
 homeos.host.	3600	in	ns	dns24.hichina.com.
-homes2024.host.	3600	in	ns	ns1.dnsowl.com.
-homes2024.host.	3600	in	ns	ns2.dnsowl.com.
-homes2024.host.	3600	in	ns	ns3.dnsowl.com.
 homes24.host.	3600	in	ns	ns1.dnsowl.com.
 homes24.host.	3600	in	ns	ns2.dnsowl.com.
 homes24.host.	3600	in	ns	ns3.dnsowl.com.
@@ -20731,7 +20717,7 @@ host.	3600	in	dnskey	257 3 8 AwEAAcNQhEtpG5VtZM4/NDt5ZMQsH7QjB8cuEJ7Qtsxb6DK2XM1
 host.	3600	in	rrsig	DNSKEY 8 1 3600 20251009230924 20250909213924 1897 host. U6IBIpG69TihJ5a//VvQ2R96yDRb0sbqgNRW+h2rDP6/jgEthw+eG1+65plw/afCNtfCK8lqX0uz6Dd7cUWP2Y2IcMJ0zrnYqJlBZ5+oIPsq3y006yF6eAdIzIUXpSpEye4Xui0CYG8ZtYNzTBZWQ9OL9die3Zz8FEl9wBvvIrH3RRJPVxUrm2/z0TidEmgCscRuqPj8cHjuotGKJywogH3XYI2hrwneKCeQJfXDuUUp26krYn9OBwD0VNQQYLmg8pJgt4FvdWd/luEywm4TvIafFGd5MFDLvjhk9/1BkVd/YzSmocyaundxVG+fjmTKoERjjDAofhhS9KkIRPPN7A==
 host.	900	in	nsec3param	1 0 0 -
 host.	900	in	rrsig	NSEC3PARAM 8 1 900 20251009230924 20250909213924 1338 host. pY+hLgI4KakMqtVT12QZg1uWw7GWjRhIsoI3k8PCDslofoO3LI+R/pXmYyy/kLQvE4vFWphp9PKUD7EZRHImZO7nvdClKdhlvewE0889uHMZI2QppjupKZcBa+kh8pdDyJ/Wc6iMhI9ARDfLtWr1hIArBlocKHYJE37csff9XIY=
-host.	900	in	rrsig	SOA 8 1 900 20251011010347 20250910233347 1338 host. eWdVg+RH9Ws3XTbjqn/Xtt510pNGBIfWRTle0WLb8OxROO9BF2CC03PC7LBr5AKszaQMeH9rmU5cd1QVS7Tihn74Idjzm/w84zkYbZy49wIblvCucCY4aYCUoByEojhLz4wqjOpgF48alQGIWyQSW9Rh9+IsmI1N8Kta8dGeHhQ=
+host.	900	in	rrsig	SOA 8 1 900 20251012010947 20250911233947 1338 host. oC2aj8nE6I/k6if1V2Q3/pP6etIEyssNuFwxWfxRB0/XwXsAgNqTuNI+2177Tmit2Zvq5jTvIW2sNSFzhV80qTbZCHoXADInjGQJmwlr2TdrUuPEvY6frDLFNpcrRJz/eu4EbH8dCFo8+1tg++tQjyCGN3hhpGVa3fYo37JKELs=
 host01.host.	3600	in	ns	dns1.namecheaphosting.com.
 host01.host.	3600	in	ns	dns2.namecheaphosting.com.
 host02.host.	3600	in	ns	dns1.namecheaphosting.com.
@@ -21044,7 +21030,7 @@ hpe.host.	3600	in	ns	ns58.domaincontrol.com.
 hpex.host.	3600	in	ns	bob.ns.cloudflare.com.
 hpex.host.	3600	in	ns	ophelia.ns.cloudflare.com.
 hpf9j0upd9sqoqo89er4skmvpd7bdhhd.host.	900	in	nsec3	1 1 0 - HR84V0TJNALR2U0PBFNM0I2H6S6U798H NS DS RRSIG
-hpf9j0upd9sqoqo89er4skmvpd7bdhhd.host.	900	in	rrsig	NSEC3 8 2 900 20250914122301 20250815105301 1338 host. pY05hxjzo30Hd/lDDxGpmP9fzoKZQhVtl40yjcf+ZF5tgo4XTIcjVDTqorjeNP73Yx7MRbuuySWJGbgDwTWE7oLh6c0yPGwCijttVRL20x7qO43u5IlxpfzSdSIcpanJ7HJEonj48EtODe6Nw5B2nv17rOSHgfS4oRvnSl4BI6c=
+hpf9j0upd9sqoqo89er4skmvpd7bdhhd.host.	900	in	rrsig	NSEC3 8 2 900 20251011122301 20250911105301 1338 host. hgLSgshk0s4pk3KDbvzYz10k39bohr1do9Jio5Tqo/BlDafEYeMkRy4w+ADvqQwBMJE1J8QBkCY3hlhcRAjqMm5t2sf8HyTKqhLTVD8//9ixG6D5tbOmuSgTSpIBe6NMh+e/WukvOLhNg/T+6bBI/uQOtj3NjDWHxMZG82KussA=
 hpm.host.	3600	in	ns	ns1.bluehost.com.
 hpm.host.	3600	in	ns	ns2.bluehost.com.
 hptfr.host.	3600	in	ns	ns7.alidns.com.
@@ -21316,10 +21302,8 @@ hurst.host.	3600	in	ns	ns2.digitalocean.com.
 hurst.host.	3600	in	ns	ns3.digitalocean.com.
 husamkhalaf.host.	3600	in	ns	failed-whois-verification.namecheap.com.
 husamkhalaf.host.	3600	in	ns	verify-contact-details.namecheap.com.
-hush.host.	3600	in	ds	2371 13 2 E3834C7ACA533D9E5F58D16A7FD2F4CC97414E0D0601745D2B34B4B100DD1D7E
-hush.host.	3600	in	ns	betty.ns.cloudflare.com.
-hush.host.	3600	in	ns	rayden.ns.cloudflare.com.
-hush.host.	3600	in	rrsig	DS 8 2 3600 20251010021519 20250910004519 1338 host. L8IXEgQ9mcdyS2Bv5h8Xfg8018LNk1S0LOA67QsxZSC9k3dV5LxEDn8WL8Ew7S/Bg2lblCo3g2ndlyH6b9CZ1I4bn/Njx2GHSnsdYrlPCjRfOZgHf4EKBD9h8H0TOpVBSX3WoeET2dmCp73uAnEWaR9RnirxOcUpBv7AnGeW8KQ=
+hush.host.	3600	in	ns	dns101.registrar-servers.com.
+hush.host.	3600	in	ns	dns102.registrar-servers.com.
 hushi.host.	3600	in	ns	ns11.xincache.com.
 hushi.host.	3600	in	ns	ns12.xincache.com.
 husker.host.	3600	in	ns	austin.ns.cloudflare.com.
@@ -21983,7 +21967,7 @@ ikbenuw.host.	3600	in	rrsig	DS 8 2 3600 20250925121805 20250826104805 1338 host.
 iker.host.	3600	in	ns	ns1.dns-parking.com.
 iker.host.	3600	in	ns	ns2.dns-parking.com.
 ikn5pddb7e05vp1b583giufbe10uiu9t.host.	900	in	nsec3	1 1 0 - IP8FV7H883JOOH95KG8CNDD47T3R3G31 NS DS RRSIG
-ikn5pddb7e05vp1b583giufbe10uiu9t.host.	900	in	rrsig	NSEC3 8 2 900 20250914081523 20250815064523 1338 host. LP51nyROpUul4azudOlsKn9N/pcOjVaAQ+XJisTSMIFikMWPjATB8S3Ku8sXHczwz4YRgs/FBZ6TwnCJ/9wF+gOuctd+YLMxBiz4Fj2yqTuDqRgKGgDJgv08oRzRl7b+jvlN6+1cRiK8U0Djg6i7FXVX5C/hXCbdLxGlFV7zRSk=
+ikn5pddb7e05vp1b583giufbe10uiu9t.host.	900	in	rrsig	NSEC3 8 2 900 20251011081523 20250911064523 1338 host. l/M6+JiA1Y7rnPNxIShMBWAdkc/RoSrZjNPk4GATYs5kRYXe1m69zD5hQnukQRejH3TobAVSgTHnc0ky09RC4ig06b7NXivuRmKq5/N0RLBcRhF9OzQcLR70Y/bgKp9p3rW46cmBTJSvIpWn1pNzbqRA9eSQoW8H7qgHWaEE3Gw=
 iknow.host.	3600	in	ns	hattie.ns.cloudflare.com.
 iknow.host.	3600	in	ns	trace.ns.cloudflare.com.
 iknslot.host.	3600	in	ns	dns1.namecheaphosting.com.
@@ -22289,8 +22273,8 @@ infi.host.	3600	in	ns	ns1.mysecurecloudhost.com.
 infi.host.	3600	in	ns	ns2.mysecurecloudhost.com.
 infi.host.	3600	in	ns	ns3.mysecurecloudhost.com.
 infi.host.	3600	in	ns	ns4.mysecurecloudhost.com.
-infinexus.host.	3600	in	ns	braelyn.ns.cloudflare.com.
-infinexus.host.	3600	in	ns	leo.ns.cloudflare.com.
+infinexus.host.	3600	in	ns	dns3.parkpage.foundationapi.com.
+infinexus.host.	3600	in	ns	dns4.parkpage.foundationapi.com.
 infinite.host.	3600	in	ns	arturo.ns.cloudflare.com.
 infinite.host.	3600	in	ns	eleanor.ns.cloudflare.com.
 infiniteimprint.host.	3600	in	ns	dns1.registrar-servers.com.
@@ -23420,8 +23404,8 @@ j84r1nl1q30969tqvsnuaoh2plrduudt.host.	900	in	nsec3	1 1 0 - J8MF1SM64JB3OS3FA3QC
 j84r1nl1q30969tqvsnuaoh2plrduudt.host.	900	in	rrsig	NSEC3 8 2 900 20251010021519 20250910004519 1338 host. o/Gba3lGvxO6qk4b8UIFBdYwohIitBvG1UYSpawnzs+ROtF52j1XUWeAi7dPD2VvULdGi95WE2BGtFKxT2rEJZPvCXLajVdOsORNQ9dT281YtS3fqw3frUnudPuLTa3dFP0Q0DiKqhSQlZOYuJJoyzkjK9M6RWe4CKx8V4h2iWc=
 j88-online.host.	3600	in	ns	amy.ns.cloudflare.com.
 j88-online.host.	3600	in	ns	ken.ns.cloudflare.com.
-j88dl.host.	3600	in	ns	ns1-coming-soon.sav.com.
-j88dl.host.	3600	in	ns	ns2-coming-soon.sav.com.
+j88dl.host.	3600	in	ns	garrett.ns.cloudflare.com.
+j88dl.host.	3600	in	ns	lisa.ns.cloudflare.com.
 j88online.host.	3600	in	ns	garret.ns.cloudflare.com.
 j88online.host.	3600	in	ns	liberty.ns.cloudflare.com.
 j88vip.host.	3600	in	ns	art.ns.cloudflare.com.
@@ -24145,8 +24129,8 @@ jt00k2p9uvs43fdcj9i5ji3g0eje0urb.host.	900	in	nsec3	1 1 0 - JT8O2E07P7SBDCJHAL1R
 jt00k2p9uvs43fdcj9i5ji3g0eje0urb.host.	900	in	rrsig	NSEC3 8 2 900 20251010021519 20250910004519 1338 host. gMgOGHYoV4v7En9NGG2X0rWDqCBkJBsK8kYZVuRtiL5foYa0/aTN0YZFOQtoUpY90YEGk6U1DNiDkzKi9t4bboIT0Bedw2sdPjMSfDFyjv4Do9B6HFGxOdH3uMyV/j0nsNuUy4VQWE6I/1MGYQDieUlpl8Ajy2vYTL/6yd6+WIM=
 jt8o2e07p7sbdcjhal1r8fqdsi7jkcc0.host.	900	in	nsec3	1 1 0 - JTQ7K0AJAIISTIUG52TD5VQVACDEISBC NS DS RRSIG
 jt8o2e07p7sbdcjhal1r8fqdsi7jkcc0.host.	900	in	rrsig	NSEC3 8 2 900 20251008004300 20250907231300 1338 host. IBuoVXZj4it483adl06UGJzr5jKzPscWTmjXAuwyudKpvvVmnvPc2V0nqjQiEM0Chw/Z3RWtmCRrdwPq3iM6IKvNb+WN2Hnb7tptu3VMY0OOLQfbg/cS3z/+r0ZIJdHgsWOkpXRpvqVXchelNy+taUkMCJxSluhR1yjTUb3AoLE=
-jtc372.host.	3600	in	ns	dns101.registrar-servers.com.
-jtc372.host.	3600	in	ns	dns102.registrar-servers.com.
+jtc372.host.	3600	in	ns	ns6481.hostgator.com.
+jtc372.host.	3600	in	ns	ns6482.hostgator.com.
 jtq7k0ajaiistiug52td5vqvacdeisbc.host.	900	in	nsec3	1 1 0 - JU0CB209IJBLD40LLFG3RMGM4CPQKUCA NS DS RRSIG
 jtq7k0ajaiistiug52td5vqvacdeisbc.host.	900	in	rrsig	NSEC3 8 2 900 20251008004300 20250907231300 1338 host. fVZn1/UQVKm+bK5G/CkjTmfl3PRHIrTWDgS+gLGunvFVCeGWj0kr3bKC3Cc7MLXSAAF0aMzY/hTHfrH658FGTLOyZrqVUeye/ta1TPXLCN/aLFO0tkuO/JDc4ug7D0+pXZTQY3jkZRR74GN6q74JvLaJVLt+Yfuhqxf6AG+cE5k=
 jtservices.host.	3600	in	ns	ns1.dns-parking.com.
@@ -25041,7 +25025,7 @@ kmkcm.host.	3600	in	ns	ns8.alidns.com.
 kmt.host.	3600	in	ns	ns13.domaincontrol.com.
 kmt.host.	3600	in	ns	ns14.domaincontrol.com.
 kn82cotik6ks2c3kt8hjthbdp1lf3hlk.host.	900	in	nsec3	1 1 0 - KOLFIA4PU2O96LARQAHB8UJK3U7M405I NS DS RRSIG
-kn82cotik6ks2c3kt8hjthbdp1lf3hlk.host.	900	in	rrsig	NSEC3 8 2 900 20250914044521 20250815031521 1338 host. YTEaR8mndMHZ0SPorSciAw44jrmTPs3914mK2FN+eS45wdqoQm2Bz9SSZfOqlmRbW6g/NUZ3ylnYBMF8mzL9j5IQ/Mgp8rMZjU0x4rvwTkF3Z+feAW2Xj8KUlUWS/qy+DPYKtXAzzkR8oTQTPN/Qt7Mz6ZpCwtxEbUKHUtWiie8=
+kn82cotik6ks2c3kt8hjthbdp1lf3hlk.host.	900	in	rrsig	NSEC3 8 2 900 20251011035230 20250911022230 1338 host. bbUHjdQh4CewNsoJZ5kjZiEuPPt2gCbA/penmPlDvEXMZixGfc2b4ixsDmIoenOmuZ00cBeGjrqEEYk4pvki8GP/t9oBK77NmV88f7leiWShm5UBCBeeAIAB8JSSGEDBJI1ZeWp7A0kG7xP2Q3kUJoJT+rRE25vdaBq4dfe6APE=
 knapp.host.	3600	in	ns	sandy.ns.cloudflare.com.
 knapp.host.	3600	in	ns	yew.ns.cloudflare.com.
 knet.host.	3600	in	ns	helium.ns.hetzner.de.
@@ -25635,8 +25619,8 @@ lain.host.	3600	in	ns	gordon.ns.cloudflare.com.
 lain.host.	3600	in	ns	leah.ns.cloudflare.com.
 lait.host.	3600	in	ns	dns1.namecheaphosting.com.
 lait.host.	3600	in	ns	dns2.namecheaphosting.com.
-lakala.host.	3600	in	ns	expirens3.hichina.com.
-lakala.host.	3600	in	ns	expirens4.hichina.com.
+lakala.host.	3600	in	ns	dns11.hichina.com.
+lakala.host.	3600	in	ns	dns12.hichina.com.
 lake.host.	3600	in	ns	ns1.digitalocean.com.
 lake.host.	3600	in	ns	ns2.digitalocean.com.
 lake.host.	3600	in	ns	ns3.digitalocean.com.
@@ -26724,7 +26708,7 @@ lkrbj.host.	3600	in	ns	tenor.dnspod.net.
 lkweb.host.	3600	in	ns	dns1.registrar-servers.com.
 lkweb.host.	3600	in	ns	dns2.registrar-servers.com.
 ll1oo6atggsotehet11r7j2g0frrhlq4.host.	900	in	nsec3	1 1 0 - LLJ5EL1AJ2TLODRCB03DB28ULSCGSP1F NS DS RRSIG
-ll1oo6atggsotehet11r7j2g0frrhlq4.host.	900	in	rrsig	NSEC3 8 2 900 20250914044521 20250815031521 1338 host. R+sP9S5r8nzZdAhPOfYnwo8Xt04gY/TsBNYYRIzVI68wHD8gBVdNyuv5+LnADq88FGkRI2eYEOLb74sZGN3VFhuV+8YTJVdloS5JO5r22uMjjlFq1kTFxQhYSbR339FyzH8gOcoraWXtjjOnC8PYfwMVs3FoU/hB/xKx66uSUYI=
+ll1oo6atggsotehet11r7j2g0frrhlq4.host.	900	in	rrsig	NSEC3 8 2 900 20251011035230 20250911022230 1338 host. SQ1apBkJ41KxDDZisDVSxiS4U2h+TLESGovcctCszypLgO4ygFuW8Ga39d7gbFUBACe+kxlLmIGgL9eE/IKNZSNjVBZKF648lGE9AuJniiKgECTY80qRpameF6dJsj2yMzlKTSt/sIE0rBz8UCi4rGV+4YcCGHpeMvb6oauRQGA=
 llalev.host.	3600	in	ns	ara.ns.cloudflare.com.
 llalev.host.	3600	in	ns	thomas.ns.cloudflare.com.
 llama.host.	3600	in	ns	ns75.domaincontrol.com.
@@ -26732,7 +26716,7 @@ llama.host.	3600	in	ns	ns76.domaincontrol.com.
 llconcrete.host.	3600	in	ns	ns1.dns-parking.com.
 llconcrete.host.	3600	in	ns	ns2.dns-parking.com.
 llj5el1aj2tlodrcb03db28ulscgsp1f.host.	900	in	nsec3	1 1 0 - LMPD4T402OMCIVJEMN4MQO5FA89MJ1DU NS DS RRSIG
-llj5el1aj2tlodrcb03db28ulscgsp1f.host.	900	in	rrsig	NSEC3 8 2 900 20250914044521 20250815031521 1338 host. ISxnXUl842c0mFjhB6QtrnJCcOrdvBXgZNZPcsq5AadQFwDjAcktlzYwzK/WmRTWiU2KkSQfMT1vjglQKCghfvaijQWy61MQaWzSpxZM2Hb5xvuL0rzfWXnDkVJyDqKISFWpZfC0ugVvOS7ouHqbZSf5zUajzMYdDDY5twfuCE8=
+llj5el1aj2tlodrcb03db28ulscgsp1f.host.	900	in	rrsig	NSEC3 8 2 900 20251011035230 20250911022230 1338 host. KoZJ3VCFikBul/ytKj1CMFyhxERGjAVKEOpOz2yczHa0xbxsM0fOEvDn+c8g3MNZgqT7x/3uJPa0xBP3SomLssEDJJQn1AnM2tya3Css9tD7AfjVv+LxvHcgY7tkPNHy5r7aT5zqxESCx2c8DttC4kZFT9v8Nl7fkVJ0digN4zs=
 lll.host.	3600	in	ns	anderson.ns.cloudflare.com.
 lll.host.	3600	in	ns	joselyn.ns.cloudflare.com.
 llll.host.	3600	in	ns	kimora.ns.cloudflare.com.
@@ -27408,6 +27392,8 @@ lunatic.host.	3600	in	ns	dns1.registrar-servers.com.
 lunatic.host.	3600	in	ns	dns2.registrar-servers.com.
 lunavalos.host.	3600	in	ns	ns1.dns-parking.com.
 lunavalos.host.	3600	in	ns	ns2.dns-parking.com.
+lunax.host.	3600	in	ns	ns1.dyna-ns.net.
+lunax.host.	3600	in	ns	ns2.dyna-ns.net.
 lund.host.	3600	in	ns	fatima.ns.cloudflare.com.
 lund.host.	3600	in	ns	owen.ns.cloudflare.com.
 lunes.host.	3600	in	ns	diana.ns.cloudflare.com.
@@ -29620,8 +29606,10 @@ mio.host.	3600	in	ns	eric.ns.cloudflare.com.
 mio.host.	3600	in	ns	vera.ns.cloudflare.com.
 mios.host.	3600	in	ns	dns25.hichina.com.
 mios.host.	3600	in	ns	dns26.hichina.com.
-mique.host.	3600	in	ns	ns4910.banahosting.com.
-mique.host.	3600	in	ns	ns4911.banahosting.com.
+mique.host.	3600	in	ns	ns1.stackdns.com.
+mique.host.	3600	in	ns	ns2.stackdns.com.
+mique.host.	3600	in	ns	ns3.stackdns.com.
+mique.host.	3600	in	ns	ns4.stackdns.com.
 mir.host.	3600	in	ns	ns1.dnska.com.
 mir.host.	3600	in	ns	ns2.dnska.com.
 miracles.host.	3600	in	ns	ns1.dns-parking.com.
@@ -30275,8 +30263,6 @@ mplus.host.	3600	in	ns	hydrogen.ns.hetzner.com.
 mplus.host.	3600	in	ns	oxygen.ns.hetzner.com.
 mpmb.host.	3600	in	ns	ns8107.hostgator.com.
 mpmb.host.	3600	in	ns	ns8108.hostgator.com.
-mpo-77.host.	3600	in	ns	ns100.webnic.cc.
-mpo-77.host.	3600	in	ns	ns101.webnic.cc.
 mpoten.host.	3600	in	ns	karsyn.ns.cloudflare.com.
 mpoten.host.	3600	in	ns	sean.ns.cloudflare.com.
 mproofing.host.	3600	in	ns	dns1.registrar-servers.com.
@@ -30410,6 +30396,8 @@ mtyyzx.host.	3600	in	ns	dns17.hichina.com.
 mtyyzx.host.	3600	in	ns	dns18.hichina.com.
 mu88.host.	3600	in	ns	vicky.ns.cloudflare.com.
 mu88.host.	3600	in	ns	zita.ns.cloudflare.com.
+mu888.host.	3600	in	ns	garrett.ns.cloudflare.com.
+mu888.host.	3600	in	ns	lisa.ns.cloudflare.com.
 muchen.host.	3600	in	ns	dns11.hichina.com.
 muchen.host.	3600	in	ns	dns12.hichina.com.
 mucuh94r4ctfnqa6mofti44i4jphga9l.host.	900	in	nsec3	1 1 0 - N4V9BCUO7S3QA82FJL0KHF742MHF2B6T NS DS RRSIG
@@ -32174,10 +32162,6 @@ nhtukangcendol11.host.	3600	in	ns	dns101.registrar-servers.com.
 nhtukangcendol11.host.	3600	in	ns	dns102.registrar-servers.com.
 nhtukangcendol12.host.	3600	in	ns	dns101.registrar-servers.com.
 nhtukangcendol12.host.	3600	in	ns	dns102.registrar-servers.com.
-nhtukangcendol5.host.	3600	in	ns	dns101.registrar-servers.com.
-nhtukangcendol5.host.	3600	in	ns	dns102.registrar-servers.com.
-nhtukangcendol6.host.	3600	in	ns	dns101.registrar-servers.com.
-nhtukangcendol6.host.	3600	in	ns	dns102.registrar-servers.com.
 nhtukangcendol7.host.	3600	in	ns	dns101.registrar-servers.com.
 nhtukangcendol7.host.	3600	in	ns	dns102.registrar-servers.com.
 nhtukangcendol8.host.	3600	in	ns	dns101.registrar-servers.com.
@@ -32872,6 +32856,7 @@ ns1.brplt.host.	3600	in	a	45.67.203.188
 ns1.bsystems.host.	3600	in	a	174.136.37.89
 ns1.bytecloud.host.	3600	in	a	74.208.237.195
 ns1.caribe.host.	3600	in	a	154.53.40.248
+ns1.cbay.host.	3600	in	a	212.68.46.98
 ns1.cbcproject.host.	3600	in	a	134.209.54.79
 ns1.cerberusdev.host.	3600	in	a	64.20.45.26
 ns1.chainreaction.host.	3600	in	a	50.116.61.252
@@ -33422,6 +33407,7 @@ ns2.brplt.host.	3600	in	a	45.67.203.188
 ns2.bsystems.host.	3600	in	a	174.136.37.89
 ns2.bytecloud.host.	3600	in	a	74.208.237.195
 ns2.caribe.host.	3600	in	a	154.53.40.248
+ns2.cbay.host.	3600	in	a	212.68.46.99
 ns2.cbcproject.host.	3600	in	a	134.209.54.79
 ns2.cerberusdev.host.	3600	in	a	64.20.45.26
 ns2.cheapserrv.host.	3600	in	a	163.172.46.208
@@ -35201,6 +35187,10 @@ opjoooooooooooooooo.host.	3600	in	ns	dns1.namecheaphosting.com.
 opjoooooooooooooooo.host.	3600	in	ns	dns2.namecheaphosting.com.
 oplynx.host.	3600	in	ns	ns55.domaincontrol.com.
 oplynx.host.	3600	in	ns	ns56.domaincontrol.com.
+oppa.host.	3600	in	ns	ns1.beget.com.
+oppa.host.	3600	in	ns	ns1.beget.pro.
+oppa.host.	3600	in	ns	ns2.beget.com.
+oppa.host.	3600	in	ns	ns2.beget.pro.
 oppkey.host.	3600	in	ns	dns1.registrar-servers.com.
 oppkey.host.	3600	in	ns	dns2.registrar-servers.com.
 oppo.host.	3600	in	ns	expirens3.hichina.com.
@@ -35355,6 +35345,8 @@ orita.host.	3600	in	ns	ns-cloud-c4.googledomains.com.
 orita.host.	3600	in	rrsig	DS 8 2 3600 20251010021519 20250910004519 1338 host. ZaIHeK6ojA3i/HN51UaWAPKr0BYl8Z6UI5EROkA6mEH6nqRNzA96PZf9xwBWSw9MkyWLrmTC5QZKK142FSODgz8uUYeKoFRYencwOmyGzJ2cxze+SRPUOR0QSlH/7Y6Tr2mY4fqvQRgLRrc5C3RCsqMAwT+2tTL8SwBoCoKXF5Q=
 oriumdigital.host.	3600	in	ns	ns1.verification-hold.dns-suspended.com.
 oriumdigital.host.	3600	in	ns	ns2.verification-hold.dns-suspended.com.
+orizonte.host.	3600	in	ns	ns1.dns-parking.com.
+orizonte.host.	3600	in	ns	ns2.dns-parking.com.
 ortel.host.	3600	in	ds	52217 13 2 674A8416AB5DA63E42D62F244AC5B3AC16D232DA8B250EFD5C33CCFE36EB26A8
 ortel.host.	3600	in	ns	ns1.kpn.net.
 ortel.host.	3600	in	ns	ns11.kpn.net.
@@ -35418,7 +35410,7 @@ ouch.host.	3600	in	ns	ns4.dnsv2.com.
 ouguan.host.	3600	in	ns	ns1.judns.com.
 ouguan.host.	3600	in	ns	ns2.judns.com.
 ounn3gf2clqhojrkg5jqls18i0bdhue3.host.	900	in	nsec3	1 1 0 - OV16TL132SR89ED65USB488CTHPTAF4R NS DS RRSIG
-ounn3gf2clqhojrkg5jqls18i0bdhue3.host.	900	in	rrsig	NSEC3 8 2 900 20250914081523 20250815064523 1338 host. HxIYscWazke5iMd18WGzFffAeVsjJynsJjzVZu8TduHsyjFn5jBR2LUctnnSgK07iYeINlH+JjyKljNg5YJ/co+oNp80uhRDftKZF/d0EjkUEaJB+jAtz0KJLCZzkF80TIgLgt1TB7jWFn9KI5uNFUuVZBzSm+per8ArUYSjOJc=
+ounn3gf2clqhojrkg5jqls18i0bdhue3.host.	900	in	rrsig	NSEC3 8 2 900 20251011081523 20250911064523 1338 host. rsAaRfM7mp4mYdnnMntHaA1zluGPGkLA+qZhVqmLH0Tao7INbCACFAS+02gWfYP77n534iYPrIcmujdxeNJer9qbrKKYJ3aJLQslXpXDnEGa0lbOaLkDsKI24meVOruokM51AYkCK1Tl5Spw3PpRQl7pQrak/opOR1YD8vF+zoM=
 ourcloud.host.	3600	in	ns	dns1.registrar-servers.com.
 ourcloud.host.	3600	in	ns	dns2.registrar-servers.com.
 ourfamily.host.	3600	in	ns	ns1.the-commongood.com.
@@ -35478,7 +35470,7 @@ outsourcedmaverick.host.	3600	in	ns	ns2.dns-parking.com.
 ouyi.host.	3600	in	ns	emily.ns.cloudflare.com.
 ouyi.host.	3600	in	ns	skip.ns.cloudflare.com.
 ov16tl132sr89ed65usb488cthptaf4r.host.	900	in	nsec3	1 1 0 - P29A75DMFQPP4P8FSK4O4GRVP2M2VS7M NS DS RRSIG
-ov16tl132sr89ed65usb488cthptaf4r.host.	900	in	rrsig	NSEC3 8 2 900 20250914081523 20250815064523 1338 host. QkbsEhE6G5BIgt2aAshH8p/WQ5dnpo/gZLIhXtQ0xCi+9W6ju8uJWTvaOamdgP2G2GZdKTwQdmfnA2jLnobh0B6oj7oQwnWxkwYGrCmuO81TEuH7iFLkRzO0DXziLXYmnIIAomUG0ncjp4qY7QbmhknWCdM6EOcejGAAnI7yQzY=
+ov16tl132sr89ed65usb488cthptaf4r.host.	900	in	rrsig	NSEC3 8 2 900 20251011081523 20250911064523 1338 host. bpZUZUj1bzXVzJFuhDydHGpr7tXjjxhk5gVUobs/CNBGG/yXXuq8I9QL3C98Zb64+Fx8W9pshjOEXyNUNpqVmiYvZPMRKpvLR1FRqDjzMSjHU+ldzSbzT8DVHld2X6IFCu7br84AAptTvS2Ep+9ELfmfpqtj6w+EUgCebiVUqUc=
 ovconstructioninc.host.	3600	in	ns	ns1.dns-parking.com.
 ovconstructioninc.host.	3600	in	ns	ns2.dns-parking.com.
 overdose.host.	3600	in	ns	naomi.ns.cloudflare.com.
@@ -36166,8 +36158,6 @@ peepl.host.	3600	in	ns	buck.ns.cloudflare.com.
 peepl.host.	3600	in	ns	tessa.ns.cloudflare.com.
 peeps.host.	3600	in	ns	dns1.registrar-servers.com.
 peeps.host.	3600	in	ns	dns2.registrar-servers.com.
-peerplays.host.	3600	in	ns	dns101.registrar-servers.com.
-peerplays.host.	3600	in	ns	dns102.registrar-servers.com.
 peet.host.	3600	in	ns	cloe.ns.cloudflare.com.
 peet.host.	3600	in	ns	kellen.ns.cloudflare.com.
 pega.host.	3600	in	ns	ns3.afternic.com.
@@ -36885,8 +36875,6 @@ playbook.host.	3600	in	ns	ns09.domaincontrol.com.
 playbook.host.	3600	in	ns	ns10.domaincontrol.com.
 playerplus.host.	3600	in	ns	dns3.hichina.com.
 playerplus.host.	3600	in	ns	dns4.hichina.com.
-players99.host.	3600	in	ns	ns1.bodis.com.
-players99.host.	3600	in	ns	ns2.bodis.com.
 playfortuna-casino.host.	3600	in	ns	aryanna.ns.cloudflare.com.
 playfortuna-casino.host.	3600	in	ns	tadeo.ns.cloudflare.com.
 playfortuna.host.	3600	in	ns	newt.ns.cloudflare.com.
@@ -37732,8 +37720,8 @@ prosite.host.	3600	in	ns	ns1.beget.com.
 prosite.host.	3600	in	ns	ns1.beget.pro.
 prosite.host.	3600	in	ns	ns2.beget.com.
 prosite.host.	3600	in	ns	ns2.beget.pro.
-prosites.host.	3600	in	ns	rudy.ns.cloudflare.com.
-prosites.host.	3600	in	ns	zita.ns.cloudflare.com.
+prosites.host.	3600	in	ns	dns101.registrar-servers.com.
+prosites.host.	3600	in	ns	dns102.registrar-servers.com.
 prospectorridge.host.	3600	in	ns	ns1.domain.com.
 prospectorridge.host.	3600	in	ns	ns2.domain.com.
 prospera.host.	3600	in	ns	ns1.dns-parking.com.
@@ -38118,9 +38106,9 @@ q-sky.host.	3600	in	ns	ns2.qskyhosting.com.
 q-tech.host.	3600	in	ns	ns71.domaincontrol.com.
 q-tech.host.	3600	in	ns	ns72.domaincontrol.com.
 q03364kiir4o66nmvkiv48224a2dcmd8.host.	900	in	nsec3	1 1 0 - Q0B2CGO9LOLQEJ9NGEHUNVUDGNOR6MDR NS DS RRSIG
-q03364kiir4o66nmvkiv48224a2dcmd8.host.	900	in	rrsig	NSEC3 8 2 900 20250914094147 20250815081147 1338 host. PVRTgcZdcmpcORCvZcAP40Z1VJhTkd2Wmw8/5xkmJvjeNz/0hKek4Oc/lBW9dGQ04TOLZF46HbsXxmDEWcIKOP8VQg8DyIi5wuJsxV3PGsNXH3yx3kDOJGC4V0WoAhLwUv7XXT75tXtQzQg0GWgQZMUF2IcXxzt9ks5z8MZGHV0=
+q03364kiir4o66nmvkiv48224a2dcmd8.host.	900	in	rrsig	NSEC3 8 2 900 20251011081523 20250911064523 1338 host. RXgufVsIiZKqRWF23Joc+5oh6ki1MbTYsLd87DJB1DE/28S1T7z1Oc6YAO6tdBMZoffa+C0qxBzM1m9Zy+5qiEeY02pAO7+PPZng4+0Y9ItFaRWfZEAVGNr0TfW5/FEJovo0NpLLunTR2kCyvPCsTSAFPGc7kNvVmrwyoSyf2kY=
 q0b2cgo9lolqej9ngehunvudgnor6mdr.host.	900	in	nsec3	1 1 0 - Q0SPBFGPUKUAGNPJIA478B2G60E5VC47 NS DS RRSIG
-q0b2cgo9lolqej9ngehunvudgnor6mdr.host.	900	in	rrsig	NSEC3 8 2 900 20250914094147 20250815081147 1338 host. cSfVwY2/+IXJ8QpH0JkK1JO+MyzfnZGCh1cWkeow2jTXpxKIhWaCW9zaj4WH12PtjKxOgEKK1huR04LRCGtSyve8rtPPm61QvILo7IiZynA6FQUKQQD2Bc89LOvs7tsM6TT5RjSe3Grycpdjm0RMsTDwQIbLMnL1KkIp81jrhZw=
+q0b2cgo9lolqej9ngehunvudgnor6mdr.host.	900	in	rrsig	NSEC3 8 2 900 20251011081523 20250911064523 1338 host. KNxYP8MReSNcS0J2GXsAkbMSkGwVm2+FoW1zOh7DAQaCf6XPA85wH/EjGcq7UWxiBBdnSSwklxbNgVBAyJkto6MrFjuSvINZcqjxB/OBczgDpJZfC3DqGLzIcSs5Hj6JJT6B7Ok3FdCg5HzJqrMbm/0PrhZQhaN6hc4AitAsx0Y=
 q0spbfgpukuagnpjia478b2g60e5vc47.host.	900	in	nsec3	1 1 0 - Q0U3F6PVE7F93OF39G7K90R85RN3N8UR NS DS RRSIG
 q0spbfgpukuagnpjia478b2g60e5vc47.host.	900	in	rrsig	NSEC3 8 2 900 20251006082711 20250906065711 1338 host. sEpA5/72MHnVH59DRgWLgVC2RtkAe1cJCftJ8g6vfiaMK62zUfyu718sG3gWEltYUBlBU5UT9dqosSxiS2uUn4AxPzCJf3j2Pbiiga9817iNvBoTtCuOJUADtRV/Wf0ZFrSl78TKfs79cvYlbjQ3NPUGgGcGYWOGT5+4T9CdpwQ=
 q0u3f6pve7f93of39g7k90r85rn3n8ur.host.	900	in	nsec3	1 1 0 - Q1NMGTAVL198EBKIVQB57LLRBAMJQK24 NS DS RRSIG
@@ -38144,7 +38132,7 @@ q7p57mmbmh0qmpda45pllbnr57i3m1eh.host.	900	in	rrsig	NSEC3 8 2 900 20251010021519
 q8je2mptf2cap09i2chqkspum7vsqpcf.host.	900	in	nsec3	1 1 0 - Q8ORH3L8PT6CG774CE46HL8829VHL8E6 NS DS RRSIG
 q8je2mptf2cap09i2chqkspum7vsqpcf.host.	900	in	rrsig	NSEC3 8 2 900 20251010021519 20250910004519 1338 host. sdV+droYocyFdur2KoK379W+dSZjFojqJMcGUHqyOUsine9L9NGvSEPl2N3ZfmrCaJVx3o/tn/GbJBISaGbawCkgYQU+E2z+VMMcfigCJh2eeOgCjUTwlzf99CF5oENmRHzC48NxBnBxEbt0Zwcu4g0oruCtTsHDYIGf5VlDw1s=
 q8orh3l8pt6cg774ce46hl8829vhl8e6.host.	900	in	nsec3	1 1 0 - QC8551QGKID5OISQ6131EQR5QPGHM0CC NS DS RRSIG
-q8orh3l8pt6cg774ce46hl8829vhl8e6.host.	900	in	rrsig	NSEC3 8 2 900 20250914035230 20250815022230 1338 host. OCFl7H1JSZ5pOV2EwZZmqPVpvcujuCXR7mkJKnyh3BhHDMPQZeomd9UdIzKyGwW0H9pWvw/4E5CBssgJ8FiI+beNBV1JbieKMWD1e7t4kTsi6p9E+RTGNA1lOmBN1SARGSReg8GpIjSjuwNNd2aNJhsMnoQFyf4SUn/liP7cC+Y=
+q8orh3l8pt6cg774ce46hl8829vhl8e6.host.	900	in	rrsig	NSEC3 8 2 900 20251011035230 20250911022230 1338 host. sgZzQC6p4zQ0SFDswChYFhWok+hqYWzBX9JSCtcYBzUa2nMoqj/wYQZSPPtXWfvsk8cFXneHPE5Kzl0yNcSJ7rOj3JnyBwrvCQIKh2MpwTGLe6uASany9sBSawlAmfFlBP6ctpfaw67whj4ttkErPj7kF/BsVesPmac4AX2G6kk=
 q9bet.host.	3600	in	ns	celine.ns.cloudflare.com.
 q9bet.host.	3600	in	ns	mitch.ns.cloudflare.com.
 qarbon.host.	3600	in	ns	adi.ns.cloudflare.com.
@@ -38941,10 +38929,8 @@ razu.host.	3600	in	ns	dns1.registrar-servers.com.
 razu.host.	3600	in	ns	dns2.registrar-servers.com.
 razy.host.	3600	in	ns	ns1.razy.host.
 razy.host.	3600	in	ns	ns2.razy.host.
-rbconsulting.host.	3600	in	ns	ns61.cloudns.net.
-rbconsulting.host.	3600	in	ns	ns62.cloudns.com.
-rbconsulting.host.	3600	in	ns	ns63.cloudns.net.
-rbconsulting.host.	3600	in	ns	ns64.cloudns.uk.
+rbconsulting.host.	3600	in	ns	dns5.parkpage.foundationapi.com.
+rbconsulting.host.	3600	in	ns	dns6.parkpage.foundationapi.com.
 rbds.host.	3600	in	ns	dns1.namecheaphosting.com.
 rbds.host.	3600	in	ns	dns2.namecheaphosting.com.
 rbgsperformancestudio.host.	3600	in	ns	dns1.registrar-servers.com.
@@ -39574,6 +39560,9 @@ rentable.host.	3600	in	ns	ns1.dns-parking.com.
 rentable.host.	3600	in	ns	ns2.dns-parking.com.
 rentag.host.	3600	in	ns	drake.ns.cloudflare.com.
 rentag.host.	3600	in	ns	fay.ns.cloudflare.com.
+rentair.host.	3600	in	ns	ns1.dnsowl.com.
+rentair.host.	3600	in	ns	ns2.dnsowl.com.
+rentair.host.	3600	in	ns	ns3.dnsowl.com.
 rentalcar.host.	3600	in	ns	chelsea.ns.cloudflare.com.
 rentalcar.host.	3600	in	ns	eugene.ns.cloudflare.com.
 rentalme.host.	3600	in	ns	ns1.hsptbl.com.
@@ -41889,8 +41878,6 @@ serversync.host.	3600	in	ns	viddy.ns.cloudflare.com.
 serversync.host.	3600	in	ns	zainab.ns.cloudflare.com.
 servertorque.host.	3600	in	ns	ns07.domaincontrol.com.
 servertorque.host.	3600	in	ns	ns08.domaincontrol.com.
-serververify.host.	3600	in	ns	ns47.domaincontrol.com.
-serververify.host.	3600	in	ns	ns48.domaincontrol.com.
 serverwarp.host.	3600	in	ns	ns1.serverwarp.com.
 serverwarp.host.	3600	in	ns	ns2.serverwarp.com.
 serverwarp.host.	3600	in	ns	ns3.serverwarp.com.
@@ -42116,6 +42103,8 @@ sharkninja.host.	3600	in	ns	ns-1702.awsdns-20.co.uk.
 sharkninja.host.	3600	in	ns	ns-891.awsdns-47.net.
 sharks-dev.host.	3600	in	ns	ns1.verification-hold.dns-suspended.com.
 sharks-dev.host.	3600	in	ns	ns2.verification-hold.dns-suspended.com.
+sharonbikestowing.host.	3600	in	ns	ns1.dns-parking.com.
+sharonbikestowing.host.	3600	in	ns	ns2.dns-parking.com.
 sharp.host.	3600	in	ds	2371 13 2 208C720F274875471C2D942451A8FF0A629B9D9E7619227C51A08DEA64132B35
 sharp.host.	3600	in	ns	evan.ns.cloudflare.com.
 sharp.host.	3600	in	ns	princess.ns.cloudflare.com.
@@ -42750,8 +42739,8 @@ sisver.host.	3600	in	ns	ns2.sisver.host.
 sisver.host.	3600	in	rrsig	DS 8 2 3600 20251005044655 20250905031655 1338 host. FcXeTjP2qyASDXMiA+0qHzScgT+xqCZ3fII4qp7a2fxeAfKr2udf1nc/H96Mk894nDRX88j1PxofvDaLffzjdz1Yi9a5svN5Vtn+243T1RVfEBNBiFrFTEmY7XdtwkMfb7VoY/I67sTSUkBZuFbNh3/xD5TfMQUsJWbeVvc9zLc=
 site.host.	3600	in	ns	ns1.atom.com.
 site.host.	3600	in	ns	ns2.atom.com.
-site0.host.	3600	in	ns	ns1.myhostadmin.net.
-site0.host.	3600	in	ns	ns2.myhostadmin.net.
+site0.host.	3600	in	ns	n1.xundns.com.
+site0.host.	3600	in	ns	n2.xundns.com.
 sitebuild.host.	3600	in	ns	ns1.parkme.com.au.
 sitebuild.host.	3600	in	ns	ns2.parkme.com.au.
 sitecenter.host.	3600	in	ns	dns1.registrar-servers.com.
@@ -42771,6 +42760,8 @@ siteoficialcurso.host.	3600	in	ns	ns2.dns-parking.com.
 sitepatrol.host.	3600	in	ns	ina1.registrar.eu.
 sitepatrol.host.	3600	in	ns	ina2.registrar.eu.
 sitepatrol.host.	3600	in	ns	ina3.registrar.eu.
+sitepgsitedas.host.	3600	in	ns	arya.ns.cloudflare.com.
+sitepgsitedas.host.	3600	in	ns	malcolm.ns.cloudflare.com.
 siteplus.host.	3600	in	ns	ns1.crazydomains.com.
 siteplus.host.	3600	in	ns	ns2.crazydomains.com.
 sitepreview.host.	3600	in	ns	kim.ns.cloudflare.com.
@@ -43976,7 +43967,7 @@ spiderweb.host.	3600	in	ns	ns2.dns-parking.com.
 spidey.host.	3600	in	ds	38732 13 2 CDAC1391E9A0C5594978D11E42E934803AC35FCE6C90B50EF67210103E3942DB
 spidey.host.	3600	in	ns	launch1.spaceship.net.
 spidey.host.	3600	in	ns	launch2.spaceship.net.
-spidey.host.	3600	in	rrsig	DS 8 2 3600 20250914094147 20250815081147 1338 host. FuQ6kR4YAanGfhwtOLS57kwwPjlBeyClm+uzeHGyHeHkK/a3iRZ85NwgX4qRqDUww6ChYhFsybknfZZ5clX+tkcvBVyMeIkVszxBsacCzlzGuLHri4yOrjY5bBCcThXDB1jGBhMhiptqHjUEfcDQKyL8+rUT2yhha4iYswlVZD4=
+spidey.host.	3600	in	rrsig	DS 8 2 3600 20251011081523 20250911064523 1338 host. p8QBq9dmR8xV50ErnRbEQl9HQkwuuuoogHpozm1x5rfTFd13embVqJpgHhP+klO9KM+0rmgoqH6u4vnTdC1ahhoaynOr9XROEaA0py+U4NwJtVMCmxPa7XdqpirrfDfvOHV15HofEGrUVJjCT47ugPuWK7VuFAof+iIZJ6YJWk8=
 spidy.host.	3600	in	ns	ns1.spidy.host.
 spidy.host.	3600	in	ns	ns2.spidy.host.
 spill.host.	3600	in	ns	connie.ns.cloudflare.com.
@@ -45444,8 +45435,8 @@ sylvy.host.	3600	in	ns	hayes.ns.cloudflare.com.
 sylvy.host.	3600	in	ns	jule.ns.cloudflare.com.
 symbiosis.host.	3600	in	ns	clara.ns.cloudflare.com.
 symbiosis.host.	3600	in	ns	igor.ns.cloudflare.com.
-symbiote.host.	3600	in	ns	dns1.namecheaphosting.com.
-symbiote.host.	3600	in	ns	dns2.namecheaphosting.com.
+symbiote.host.	3600	in	ns	dns101.registrar-servers.com.
+symbiote.host.	3600	in	ns	dns102.registrar-servers.com.
 symetry.host.	3600	in	ns	dns1.namecheaphosting.com.
 symetry.host.	3600	in	ns	dns2.namecheaphosting.com.
 symmetry.host.	3600	in	ns	ns100.digicertdns.com.
@@ -45500,8 +45491,8 @@ synology.host.	3600	in	ns	dns1.hichina.com.
 synology.host.	3600	in	ns	dns2.hichina.com.
 syntax.host.	3600	in	ns	ns8401.hostgator.com.
 syntax.host.	3600	in	ns	ns8402.hostgator.com.
-synthetix.host.	3600	in	ns	ns1.bodis.com.
-synthetix.host.	3600	in	ns	ns2.bodis.com.
+synthetix.host.	3600	in	ns	ns1.dns-redirect.com.
+synthetix.host.	3600	in	ns	ns2.dns-redirect.com.
 synxa.host.	3600	in	ns	pete.ns.cloudflare.com.
 synxa.host.	3600	in	ns	zariyah.ns.cloudflare.com.
 syo.host.	3600	in	ns	helium.ns.hetzner.de.
@@ -46364,7 +46355,7 @@ terras.host.	3600	in	ns	ns2.dns-parking.com.
 terrestrial.host.	3600	in	ds	58018 13 1 D24F9ED67A90807C5B368819CF72AD430BF7F314
 terrestrial.host.	3600	in	ns	dns1.registrar-servers.com.
 terrestrial.host.	3600	in	ns	dns2.registrar-servers.com.
-terrestrial.host.	3600	in	rrsig	DS 8 2 3600 20250914044521 20250815031521 1338 host. kDDiYeLhYhrWaATMq+NL5H0nLSFGXDmo18HGyshAGVZZ1IA5UWkc44FsmePngWfmUeDe9UKLy+kMOGRdMuNrWlpLXEQPRGUIvnCYXkcUPQwDsQlJOKkmjHcz2bXVJ11LVAsSML+rx2JfV6ZtaahD0QIsY9xouq8XvYEA7gnaScU=
+terrestrial.host.	3600	in	rrsig	DS 8 2 3600 20251011035230 20250911022230 1338 host. fZx+fJYsGSpXMKapI/K8wRR7S9t/5qUQviwy+syDJwtICnRTGkfRK0ocYk8cJ2d9T4+EbXoVKYA5YAFqw9gp/7xLzPV6I6b9rkxHsCnAUjD4B6ZaoMxJozoy/FDHpHgSGy5YxzhlAOINgZ53L3JWCXGPB0wMI3X8fMhJaI8BTeI=
 terrid.host.	3600	in	ns	dns1.registrar-servers.com.
 terrid.host.	3600	in	ns	dns2.registrar-servers.com.
 terrific.host.	3600	in	ds	2371 13 2 C6862F1C281DDA1864E93DB5E198859E82D5617227727E349052B71EEA9E5C5F
@@ -46412,8 +46403,8 @@ test2.host.	3600	in	ns	ns1.dns-parking.com.
 test2.host.	3600	in	ns	ns2.dns-parking.com.
 testadweb.host.	3600	in	ns	dns1.namecheaphosting.com.
 testadweb.host.	3600	in	ns	dns2.namecheaphosting.com.
-testalveo3d.host.	3600	in	ns	ns1.dns-parking.com.
-testalveo3d.host.	3600	in	ns	ns2.dns-parking.com.
+testalveo3d.host.	3600	in	ns	ns1.dns-expired.com.
+testalveo3d.host.	3600	in	ns	ns2.dns-expired.com.
 testarea.host.	3600	in	ns	ns1.dns-expired.com.
 testarea.host.	3600	in	ns	ns2.dns-expired.com.
 testdev.host.	3600	in	ns	carl.ns.cloudflare.com.
@@ -46690,8 +46681,8 @@ thelema.host.	3600	in	ns	ns1.dns-parking.com.
 thelema.host.	3600	in	ns	ns2.dns-parking.com.
 thellama.host.	3600	in	ns	ns0.thundercloud.uk.
 thellama.host.	3600	in	ns	ns1.thundercloud.uk.
-thelocal.host.	3600	in	ns	dns7.hichina.com.
-thelocal.host.	3600	in	ns	dns8.hichina.com.
+thelocal.host.	3600	in	ns	ns1.afternic.com.
+thelocal.host.	3600	in	ns	ns2.afternic.com.
 thelocalco.host.	3600	in	ns	dns1.p08.nsone.net.
 thelocalco.host.	3600	in	ns	dns2.p08.nsone.net.
 thelocalco.host.	3600	in	ns	dns3.p08.nsone.net.
@@ -47769,8 +47760,6 @@ trav.host.	3600	in	ns	ns3-32.azure-dns.org.
 trav.host.	3600	in	ns	ns4-32.azure-dns.info.
 travefy.host.	3600	in	ns	ns53.domaincontrol.com.
 travefy.host.	3600	in	ns	ns54.domaincontrol.com.
-travel-day.host.	3600	in	ns	ns1.ns306.parklogic.com.
-travel-day.host.	3600	in	ns	ns2.ns306.parklogic.com.
 travel25.host.	3600	in	ns	ns1.dnsowl.com.
 travel25.host.	3600	in	ns	ns2.dnsowl.com.
 travel25.host.	3600	in	ns	ns3.dnsowl.com.
@@ -48479,7 +48468,7 @@ u6jpo8vvl1n2jkcp26f5k4q8n8r9nen3.host.	900	in	rrsig	NSEC3 8 2 900 20251006121235
 u888.host.	3600	in	ns	ns39.domaincontrol.com.
 u888.host.	3600	in	ns	ns40.domaincontrol.com.
 u9c275bclkhj1td4aduefkkucsus3ch2.host.	900	in	nsec3	1 1 0 - UDHLLQK3FM5VEFE6IATR49342QSDG706 NS DS RRSIG
-u9c275bclkhj1td4aduefkkucsus3ch2.host.	900	in	rrsig	NSEC3 8 2 900 20250914195903 20250815182903 1338 host. GKpY7jYAGC8Dta3crzExURrYD8HqGDD0mBcoycg1unVdtctW5KLyPrcmdnAAbYX4AkeCOYNXCdhWrqVgrjdmO9TstDnhiZxAQGNDnJghQacGToqOJyI6it6mOVlmMMV63dmvOdUWhRBCV/AC311NdI2Uuw4UFxtIrC+h7w2RCWE=
+u9c275bclkhj1td4aduefkkucsus3ch2.host.	900	in	rrsig	NSEC3 8 2 900 20251011195903 20250911182903 1338 host. uSBvvPv6iReg7ALIvyfdQkLGJIuN1aAJJPzwkHBvyn6ZGlhuXI5wH6pkUAkUIriJmcDCDx7ztsEvFX3efzoisBpAgB8Q00oRkfAhDTSMdG3tx2u1GiVkOICxNQw+DW3i9iqqI+ewBEfskcEx9UrfLN8evecnICpWeiTNZdXYTlk=
 ua-sbs.host.	3600	in	ns	cleo.ns.cloudflare.com.
 ua-sbs.host.	3600	in	ns	mira.ns.cloudflare.com.
 uae.host.	3600	in	ns	dns1.aeserver.com.
@@ -49647,8 +49636,8 @@ vewd.host.	3600	in	ns	ns.nscluster.tn.
 vewd.host.	3600	in	ns	ns2.nscluster.tn.
 vexa.host.	3600	in	ns	ricardo.ns.cloudflare.com.
 vexa.host.	3600	in	ns	ximena.ns.cloudflare.com.
-vexmail.host.	3600	in	ns	ns1.yoncu.com.
-vexmail.host.	3600	in	ns	ns2.yoncu.com.
+vexmail.host.	3600	in	ns	ns1.rr585.parklogic.com.
+vexmail.host.	3600	in	ns	ns2.rr585.parklogic.com.
 vexo.host.	3600	in	ns	ns1.verification-hold.suspended-domain.com.
 vexo.host.	3600	in	ns	ns2.verification-hold.suspended-domain.com.
 vexx.host.	3600	in	ns	ns-cloud-a1.googledomains.com.
@@ -50559,8 +50548,6 @@ waav.host.	3600	in	ns	pat.ns.cloudflare.com.
 waav.host.	3600	in	ns	ram.ns.cloudflare.com.
 wabisabi.host.	3600	in	ns	dns1.registrar-servers.com.
 wabisabi.host.	3600	in	ns	dns2.registrar-servers.com.
-wabu.host.	3600	in	ns	ns1.afternic.com.
-wabu.host.	3600	in	ns	ns2.afternic.com.
 wach.host.	3600	in	ns	dns19.hichina.com.
 wach.host.	3600	in	ns	dns20.hichina.com.
 wack.host.	3600	in	ns	jim.ns.cloudflare.com.
@@ -51796,8 +51783,8 @@ wiot.host.	3600	in	ns	dns3.hichina.com.
 wiot.host.	3600	in	ns	dns4.hichina.com.
 wiroos.host.	3600	in	ns	ray.ns.cloudflare.com.
 wiroos.host.	3600	in	ns	zara.ns.cloudflare.com.
-wisdomconsultpro.host.	3600	in	ns	ajay.ns.cloudflare.com.
-wisdomconsultpro.host.	3600	in	ns	itzel.ns.cloudflare.com.
+wisdomconsultpro.host.	3600	in	ns	ns1.dyna-ns.net.
+wisdomconsultpro.host.	3600	in	ns	ns2.dyna-ns.net.
 wisdome.host.	3600	in	ns	ns1.dns-parking.com.
 wisdome.host.	3600	in	ns	ns2.dns-parking.com.
 wisdomvalley.host.	3600	in	ns	dns25.hichina.com.
@@ -51955,8 +51942,8 @@ woody.host.	3600	in	ns	ns1.alidns.com.
 woody.host.	3600	in	ns	ns2.alidns.com.
 woodydecor.host.	3600	in	ns	ns1.dns-parking.com.
 woodydecor.host.	3600	in	ns	ns2.dns-parking.com.
-woof.host.	3600	in	ns	ns1.dns-parking.com.
-woof.host.	3600	in	ns	ns2.dns-parking.com.
+woof.host.	3600	in	ns	ns1.dns-expired.com.
+woof.host.	3600	in	ns	ns2.dns-expired.com.
 wooga.host.	3600	in	ns	dns1.registrar-servers.com.
 wooga.host.	3600	in	ns	dns2.registrar-servers.com.
 woohoo.host.	3600	in	ns	parkdns1.okens.domains.
@@ -53264,8 +53251,6 @@ xtom.host.	3600	in	ns	ns1.xtom.com.
 xtom.host.	3600	in	ns	ns2.xtom.com.
 xtream.host.	3600	in	ns	ns1.dns-parking.com.
 xtream.host.	3600	in	ns	ns2.dns-parking.com.
-xtusu.host.	3600	in	ns	dns10.parkpage.foundationapi.com.
-xtusu.host.	3600	in	ns	dns9.parkpage.foundationapi.com.
 xtx.host.	3600	in	ns	ns3.myhostadmin.net.
 xtx.host.	3600	in	ns	ns4.myhostadmin.net.
 xuan.host.	3600	in	ns	internship.dnspod.net.
@@ -53847,6 +53832,8 @@ yourgateltd.host.	3600	in	ns	ns19.domaincontrol.com.
 yourgateltd.host.	3600	in	ns	ns20.domaincontrol.com.
 yourghost.host.	3600	in	ns	ns21.domaincontrol.com.
 yourghost.host.	3600	in	ns	ns22.domaincontrol.com.
+yourguidetosmartbuy.host.	3600	in	ns	ns1.dns-parking.com.
+yourguidetosmartbuy.host.	3600	in	ns	ns2.dns-parking.com.
 yourhealth.host.	3600	in	ns	ns1.dns-parking.com.
 yourhealth.host.	3600	in	ns	ns2.dns-parking.com.
 yourhosting.host.	3600	in	ns	ns1.yoursrs.com.
@@ -54828,8 +54815,6 @@ zypp.host.	3600	in	ds	2371 13 2 6A3B277A76F95FD87677EFDACE734A4ADD2C44E27AF13865
 zypp.host.	3600	in	ns	felipe.ns.cloudflare.com.
 zypp.host.	3600	in	ns	tessa.ns.cloudflare.com.
 zypp.host.	3600	in	rrsig	DS 8 2 3600 20251010021519 20250910004519 1338 host. AFtkfDOmm7XstJ65IkWJkvgJZE9GCdy5THXtBskd1FbTKSvx2MzHGGHNxWYUJ6n884AJP/DW3KiyQd9pPql3ayWqWnebmoMZ+3cswTG5jhDzUlS1etKH0afe5XlZkpKsWa/S/G5ggc6E9To/iHmfssaIZp0Ymu+0Y3gOxj31abs=
-zyrox.host.	3600	in	ns	dns101.registrar-servers.com.
-zyrox.host.	3600	in	ns	dns102.registrar-servers.com.
 zyte.host.	3600	in	ns	ns-1037.awsdns-01.org.
 zyte.host.	3600	in	ns	ns-1729.awsdns-24.co.uk.
 zyte.host.	3600	in	ns	ns-442.awsdns-55.com.
@@ -54866,4 +54851,4 @@ zzzyz.host.	3600	in	ns	otto.ns.cloudflare.com.
 zzzyz.host.	3600	in	rrsig	DS 8 2 3600 20251010021519 20250910004519 1338 host. YPB1eBlY+wClgnxV8VFi9tVzWW82mz60TBIlAVzzIYsWpcmrjJm5k5Uxw0NI0I4UyNLzEuSVPN2KSs02BHZUiV3S5ynRmRg73C43XxdwhwfqJKr7SVzG4d+hGqvJ9WwlAheidx5131V6QmHG0gc47ehi//fd0/DUBE7XyduhWhI=
 zzzz.host.	3600	in	ns	dns15.hichina.com.
 zzzz.host.	3600	in	ns	dns16.hichina.com.
-host.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000535798 900 1800 6048000 3600
+host.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000535884 900 1800 6048000 3600
