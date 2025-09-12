@@ -1,4 +1,4 @@
-kyoto.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757551610 1800 900 604800 3600
+kyoto.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757637760 1800 900 604800 3600
 001.kyoto.	86400	in	ns	dns01.gmoserver.jp.
 001.kyoto.	86400	in	ns	dns02.gmoserver.jp.
 004salgn91otokttkhjj2m4u6175f6on.kyoto.	3600	in	nsec3	1 0 0 - 00D11H5M6772RDS153QETOS7NCGT9E2D NS
@@ -677,9 +677,9 @@ kyoto.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757551610 1800 900 
 9v00omo3rkjt9sr6tg8ojvcbug33fq58.kyoto.	3600	in	rrsig	NSEC3 8 2 3600 20250917173046 20250910204739 49770 kyoto. 4uA7H8ylKnduP7FfDQFgl4rBMgLNzcY+K2nz3GEI7930gqrVYnYmlqYFL+3IsoH5eyTpJUcOMfvQ0P2twPr33HVTlRCcgs4NLEAHyHjKduNwhBM5e1QCfGJDjajBD1I11AOdnPu8w2TvrJJSqQXLmDwymuBNENb6o10BWGwiFjI=
 9v1qmn23cocbe3avcvdjnqtctr1kjcc3.kyoto.	3600	in	nsec3	1 0 0 - A03582LJL83HBUGUQQLVH93LIV6219E4 NS
 9v1qmn23cocbe3avcvdjnqtctr1kjcc3.kyoto.	3600	in	rrsig	NSEC3 8 2 3600 20250917124748 20250910204739 49770 kyoto. nov3Xq4BO9O/2wmx3rLjY9fxJvtjqaDGIc/OZ/16SUyb5UJsCsn6qiA+5vFmQqCGUmiGmkfvEYugIOpfCWHTjiMHJCyw/YaN5adENBtUCALBZ4+JLw/RgAiledi8L/BRKi1kYTcLENbopgw5RF8ri1xM68iBMpopCgQHUlSH9Y4=
-__zone_status.kyoto.	0	in	rrsig	TXT 8 2 0 20250918071846 20250910234635 49770 kyoto. nckcvE6CQCWxxwD04C27MYirQPsIX8TOavRAJOi7Vp356L+O4XZQ2t/7SDow7FsxC8I/ywYdTof2/NWVSvpX0iq3IZN2uYRJEtNq3v5DU9DhigOGuEvQAxUKNIeprmuUisQgmsopPuvsvNUXt7VdJCn08RaxqR6flGYJiU1Ohx4=
-__zone_status.kyoto.	0	in	txt	"original-serial=78936"
-__zone_status.kyoto.	0	in	txt	"original-timestamp=1757551572.37555"
+__zone_status.kyoto.	0	in	rrsig	TXT 8 2 0 20250919113532 20250911234225 49770 kyoto. 0t5FZxgaxwBIrIPVAHoktjVYkhsFW1edr6PuaLA3tD5neOznbRYxDQPkl9LL8HdRf7G5xIsRfaXOHTYNjUzBLFZIpuovnAmlhQTcH1Q8mKAKMlfq3w+GMKOzs+YTjMtBC8L4j+WcqT7pKWJjVcNbCid+xTPTHt49DRLs7+yODs8=
+__zone_status.kyoto.	0	in	txt	"original-serial=78964"
+__zone_status.kyoto.	0	in	txt	"original-timestamp=1757637729.82114"
 a03582ljl83hbuguqqlvh93liv6219e4.kyoto.	3600	in	nsec3	1 0 0 - A1T28G9F4FI5K1T0VF47OMG6FTLP3669 NS
 a03582ljl83hbuguqqlvh93liv6219e4.kyoto.	3600	in	rrsig	NSEC3 8 2 3600 20250918045759 20250910204739 49770 kyoto. PhxcMtfdelc9RxMU7BGX+STEpWeTcWvUrmKu6SOPcBkKavjlECnbF/b8QaN1r0l5n22m9+GsfMtHLuEeYqGDkXrrLs8cWynK27tnxnLQ80o82OhHmuk/WKELFB1eMU25aUyNzxAJBFidjEsiOa1jfiqRPaTV6s9WMHXpNfuiUfQ=
 a1t28g9f4fi5k1t0vf47omg6ftlp3669.kyoto.	3600	in	nsec3	1 0 0 - A2E6831SEHMJ5TCURL0KLT2639AF0DLC NS
@@ -2639,7 +2639,7 @@ kyoto.	86400	in	ns	k.gmoregistry.net.
 kyoto.	86400	in	ns	l.gmoregistry.net.
 kyoto.	86400	in	rrsig	DNSKEY 8 1 86400 20250917203603 20250910204739 36767 kyoto. DFjK6JOOXRtrY9QDEImF2VSXogLlGrWJwM5Ro/Sz37GMvt7Cu+TqTNT4WYXALcv7Af6l9Z8fT5eBh/41m50HRGDDuQL2EhMp5Eu7kNg4gHEeoGLLWnwP5PZgkvv35QmfUrgU6t2fAcFoBjTXBrikcGTWgb48B69aLsAvZohnZTSR3dWTvA4xPnYK3wFTQr1pXk5D4wNqWHimpsrfqBJDTE2jFGD7dxa4tNVphlMvwZbE2lXbVQtLdYZBmjLWQa1iBMYIVLnP/yeH8UqIjc0yQ9BoarcOeyfM5wDqJN0qIXxAA/q+7T1v78+mjYWF7bDg2LKzS9XQPQ45h//KlufRrA==
 kyoto.	86400	in	rrsig	NS 8 1 86400 20250917113820 20250910204739 49770 kyoto. 6XCNU7vUdG1kZS457dzOtLjOn2jywsmB8j9j1uEN3Q1kdZ1e6CvyhXFzV5D2KxO+PsgRYVKZcywYSrycHKGwxIj6Jrdzps1UpCHCv9jEf81ULsALGuHv4ev5zw3uPp87iB0x0xMB0b+LtXeyBCSimiiux2EuZa7W4p6qfqqQrMQ=
-kyoto.	86400	in	rrsig	SOA 8 1 86400 20250918105841 20250910234635 49770 kyoto. if9vcrQS/Kpi/Nm3GukoWrLnj3RWDLAjz08o1TdDxlv/uIgkbXT0A6H8hG9iucv0I9flmfw/gfkPBXBw4hgEYIefQnfVFNPjFc4cfOUcmGOPBDgOPWCkQ+6lpU4D7T7qenfN6z8lU9e0Idj0IkJgvmgAlyvUAKCiTCKSKyc0PHo=
+kyoto.	86400	in	rrsig	SOA 8 1 86400 20250919011837 20250911234225 49770 kyoto. P38jkdfReqQp7lRv7rzpGwnZM82sKTeCk7JzF6MD7yHfmdi2AKosPu82V0t+Z0ODpucjZIa5n+q+1AsjXynLzg8DGNBCBE95JOnsBdZuL3QXGT8EKIQgHG8d5Usl/Tl9dlfUvijsgEyr/huv+4kkoeZw68IMlu+NgHJAWLkQi78=
 kyoto.kyoto.	86400	in	ns	ns1.kcg.edu.
 kyoto.kyoto.	86400	in	ns	ns1.kyoto-kcg.ac.jp.
 kyotolove.kyoto.	86400	in	ns	ns0.kagoya.net.
@@ -4741,4 +4741,4 @@ zipangu.kyoto.	86400	in	ns	ns2.xserver.jp.
 zipangu.kyoto.	86400	in	ns	ns3.xserver.jp.
 zipangu.kyoto.	86400	in	ns	ns4.xserver.jp.
 zipangu.kyoto.	86400	in	ns	ns5.xserver.jp.
-kyoto.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757551610 1800 900 604800 3600
+kyoto.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757637760 1800 900 604800 3600
