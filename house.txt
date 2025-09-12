@@ -1,4 +1,4 @@
-house.	3600	in	soa	v0n0.nic.house. hostmaster.donuts.email. 1757552612 7200 900 1209600 3600
+house.	3600	in	soa	v0n0.nic.house. hostmaster.donuts.email. 1757638824 7200 900 1209600 3600
 0.house.	3600	in	ns	dean.ns.cloudflare.com.
 0.house.	3600	in	ns	sierra.ns.cloudflare.com.
 00dk930moq6mnbin2ettck68goohtn01.house.	3600	in	nsec3	1 1 0 73 01OG1G34G2BOD33UPG3MEO0TU0HDOS2M NS DS RRSIG
@@ -228,8 +228,8 @@ house.	3600	in	soa	v0n0.nic.house. hostmaster.donuts.email. 1757552612 7200 900 
 12.house.	3600	in	ns	fortaleza.ns.porkbun.com.
 12.house.	3600	in	ns	maceio.ns.porkbun.com.
 12.house.	3600	in	ns	salvador.ns.porkbun.com.
-121.house.	3600	in	ns	ns1.bodis.com.
-121.house.	3600	in	ns	ns2.bodis.com.
+121.house.	3600	in	ns	ns1.dns-redirect.com.
+121.house.	3600	in	ns	ns2.dns-redirect.com.
 1234.house.	3600	in	ns	ns01.domaincontrol.com.
 1234.house.	3600	in	ns	ns02.domaincontrol.com.
 123homecare.house.	3600	in	ns	failed-whois-verification.namecheap.com.
@@ -1428,6 +1428,8 @@ house.	3600	in	soa	v0n0.nic.house. hostmaster.donuts.email. 1757552612 7200 900 
 518.house.	3600	in	ns	ns2.dns-redirect.com.
 51c9ki34b7m5dus3u99n7cgvfap0hvim.house.	3600	in	nsec3	1 1 0 73 5262O4H4K5UJOM0O5KOILC3DCE744318 NS DS RRSIG
 51c9ki34b7m5dus3u99n7cgvfap0hvim.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. UYR0Aow69FoRQV+onLKQwP6X9dFXPgMaeSEJ3Zjl+2YUddv5mHy1rlHvax0NYB5TPWh2FRPeYgHpR5XGc9uF742HY8sbu+JgtyulB3AeEFC6Gv4XE0waDMuZoi/PBIt/c0hHy34ig8nPkz/4HsPpqAL6PY6AU0wy/Wv2Q5Tgb/4=
+520.house.	3600	in	ns	ns1.dns-redirect.com.
+520.house.	3600	in	ns	ns2.dns-redirect.com.
 5262o4h4k5ujom0o5koilc3dce744318.house.	3600	in	nsec3	1 1 0 73 52FLSAF3ARPJJ5HI1Q578PN6IJAQI5G1 NS DS RRSIG
 5262o4h4k5ujom0o5koilc3dce744318.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. AnAmTrZeLwqeKjCoMiJRbZ1IJNDPDtSjvCC/RBvXeia/TQm7BY54s4epOhx/Z6P9vNgpS99qaMljI4PPupJz2bTFmb9aigO5cDIwl9hAyYPx44Cu4IsNApt3W0miSQshN4UN3Zd5xeMLuX3CKUvBxoooxZk8k1ROeGqWp/4L2K4=
 5280.house.	3600	in	ns	dns1.registrar-servers.com.
@@ -1724,10 +1726,8 @@ house.	3600	in	soa	v0n0.nic.house. hostmaster.donuts.email. 1757552612 7200 900 
 6ok10quc7v5f9l8hdkid8v5jaae3u514.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. BwMX7nIusrSpFNz7aUdJVErhQz3oOzxdhFjs3syrpNV6PwnoTjx+rs4uDcYBzyrO2C5aL9jlMLpWVKKyyjtA5WL7r1TtCIZAbHNQvg4dxtM1PMohrHCtG80pW/M0H8JpQU6eEkRNXFpWHu7PZOT0Jvz0dlRV2jXkpOnQDsE2tBw=
 6p7ran478odctoaqmku41m6o1m9aei1b.house.	3600	in	nsec3	1 1 0 73 6PAR3JTT12FNVTU40AM2IT5D7MEQBOR1 NS DS RRSIG
 6p7ran478odctoaqmku41m6o1m9aei1b.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. tWPXypxy4ygGAZh7eC6M3ndNiAz3TQGwvotG/ndKOeQM0uwMSPxMTyDVd2NUYRPm/JstLeHSJsQpZEK5Va1YVwva9bqEA+srZJr/mRcLoFb1W4MZmP7qvqWsmZq0snPE/yVR5Y5ayLkqx2aasPvptCThF9fMMWvy99Q2PCOU7Kc=
-6par3jtt12fnvtu40am2it5d7meqbor1.house.	3600	in	nsec3	1 1 0 73 6PPT6F2PJH63J7RR8FODL5Q93DAKRETL NS DS RRSIG
-6par3jtt12fnvtu40am2it5d7meqbor1.house.	3600	in	rrsig	NSEC3 8 2 3600 20251001212508 20250910202508 31266 house. tXyDkzPwLZ+Y/7dpoq/JoX6n21eEMpZN/vfDvleq11qC01dtXJtNhPb7siXvxdrhXw6mGzmHCVJrWYkz4QX+znM+XOKILIj34NveOGvYnKaBxqdMi1jq/qULImYruetXea4n4oQZUwz3q80G98bB3lVHvdmsUcXATtIoN0NtbMk=
-6ppt6f2pjh63j7rr8fodl5q93dakretl.house.	3600	in	nsec3	1 1 0 73 6Q0A64IJV8RA0MJG060F133J8UFNIGM8 NS DS RRSIG
-6ppt6f2pjh63j7rr8fodl5q93dakretl.house.	3600	in	rrsig	NSEC3 8 2 3600 20251001212508 20250910202508 31266 house. ohM+l/y6fQVAKWVVnt+NwyPHjCHnZLO264o3a7A8CfZ7IVjmfxwWzqyFKVWZfUN/PZL1B/DnqhzOeDCJ7GZusEUpn5s+06T0LqnxPQd4wZXD3hvlwqZU1QnknQZnGTVokDwFgxJvWf1IGo4djZ4LIJMb7TC0SYxuwWEN4hbOrvU=
+6par3jtt12fnvtu40am2it5d7meqbor1.house.	3600	in	nsec3	1 1 0 73 6Q0A64IJV8RA0MJG060F133J8UFNIGM8 NS DS RRSIG
+6par3jtt12fnvtu40am2it5d7meqbor1.house.	3600	in	rrsig	NSEC3 8 2 3600 20251002141933 20250911131933 31266 house. slmWyg1vGIF+wkjD2o22rxmFj9SC+46b0Xy43Iafux/DqadJbsdZqNaU2hosTfbrCQ/Im7K74b+ZtWMw3+874mQnYrwUYsEdfNn1GrO3JkXhqA42oVM0KA++BoVQqX61kTNDNrJOgBU4BUuPjnayi8Vex7WxSjjG6SwU1G0wjeA=
 6q0a64ijv8ra0mjg060f133j8ufnigm8.house.	3600	in	nsec3	1 1 0 73 6QTSBH04755L0CM04AKDN5BRQI7ALL50 NS DS RRSIG
 6q0a64ijv8ra0mjg060f133j8ufnigm8.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. G7fWv2SvEhYC5d7DGdusi24wpBOCfVXz0D60IELfoR9meHRqqoTE5n8IkvaHED+B3WtZHWax3wZ7vDWmT5i5MUyB8hYUboWTkKLDDpKBKuoQ0hTUZxn+tfdXNCsHjsjCDe9iGRLW4ggPpu9XTb4pVu7nuS54guBoU7inhGfyQMI=
 6qtsbh04755l0cm04akdn5brqi7all50.house.	3600	in	nsec3	1 1 0 73 6RCVA09L6GM1UILB94R3FDLTA5E0UQNF NS DS RRSIG
@@ -2133,10 +2133,8 @@ house.	3600	in	soa	v0n0.nic.house. hostmaster.donuts.email. 1757552612 7200 900 
 8fke273tep8umd9el4ptskcc68k2d9o4.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. Hw6dftqj5Ed2AAdfteU/9Qn4x2Qfd42s1yA2Y4UBJvjQCEl4V8K/PlyD7wjwRb5OqJTqSOqnl+PDdSuj5fo2qPxN3Nre4zVcvs///zgAzG+iREHGj+5FwxByQkPiAb47c+fHEdpFg/d9bh6xyqv8D/78h9nF32QYexdkKdoJH20=
 8g9iqjfefllrjd8d5ilbpb5ge548fcp7.house.	3600	in	nsec3	1 1 0 73 8GSHT7HJ80RUQK0B1JEMLI7FMI3FDC3K NS DS RRSIG
 8g9iqjfefllrjd8d5ilbpb5ge548fcp7.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. gceja2EFdqRJEMxCUXBv56XQJPBcEeCgld80dmxFgsytdHxaYt5Y8ykcxN0ty2sAcVUJX5gPDL/Urz+YwgrdNQ4nq6JFMOFmyG1rK/RcT8MJODu6ZqyiSnglMjyBuldIeepL987f4NqhjnBG33osjAdiJMw7cnwQsBN/qyUBxiE=
-8gsht7hj80ruqk0b1jemli7fmi3fdc3k.house.	3600	in	nsec3	1 1 0 73 8H40DLA9BU9SP4IM11UJ1KRCTB53FI0F NS DS RRSIG
-8gsht7hj80ruqk0b1jemli7fmi3fdc3k.house.	3600	in	rrsig	NSEC3 8 2 3600 20251001212508 20250910202508 31266 house. cRmUb4h47OWFrT6jPPPN0xStffxvA68YSJYJioL15CO9oaimaxX0IrmYzVjradW39YbI/m00JqWxWr34AglazNazc0ePpd/kqH8WB7XCdQPImTOzaW82VNRwYux01YG58vb0dPixH7hdloLsfNMichoXAvQ0mahB1U1owZBVum8=
-8h40dla9bu9sp4im11uj1krctb53fi0f.house.	3600	in	nsec3	1 1 0 73 8IJSBC3AS98QKGNB7SV43RTIN3FVV7AK NS DS RRSIG
-8h40dla9bu9sp4im11uj1krctb53fi0f.house.	3600	in	rrsig	NSEC3 8 2 3600 20251001212508 20250910202508 31266 house. hNnkt7Yn8UOzTkyaM6VOwPqc1WVwlwyGe7+p6jriokl0IME1yfld3B2M/YMJFdjZbsxTyUvhg71wxgxNWWrpjGZiAzBW5igWEbexoraO0vfS9Eyb472wrT4aRwgAiVuML9KweTsTvEqQKT/gB6DtaoRtKr1Sb1n4GvGYsz0KwqY=
+8gsht7hj80ruqk0b1jemli7fmi3fdc3k.house.	3600	in	nsec3	1 1 0 73 8IJSBC3AS98QKGNB7SV43RTIN3FVV7AK NS DS RRSIG
+8gsht7hj80ruqk0b1jemli7fmi3fdc3k.house.	3600	in	rrsig	NSEC3 8 2 3600 20251002141933 20250911131933 31266 house. FlMywXPC7aJkI/p7DDWv5TbIr+RQjqEy4gIcatBx3vJHcMbYKpVdiM9slfHx904BaLbt5AfHT4BW3cxgeswWPk5YSH9ez5CyQzVI89+wm/qT8WGnej8d04FA/PL2NpoHlZISwEujamKySo+ORASFj362kdKipLXvXKJDJFWh7NA=
 8ijsbc3as98qkgnb7sv43rtin3fvv7ak.house.	3600	in	nsec3	1 1 0 73 8JFM1ISQSOUU4L5DM6S3EUM0PEIRNI16 NS DS RRSIG
 8ijsbc3as98qkgnb7sv43rtin3fvv7ak.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. xPAhxY/ZRAmuBY/OltdlAuB8nYAsfa8TRUJsTyckszgnj0/4ZbqqIrveBB6sn4rWWzWH35GD/2Btx3iyLL78vKUuWXSUJ7idrtzMFGBgutIpXkBYYPpdCVfS3vRAunTl8IF1djyn0adWsRU3qJYAw3GneM4vLz1DlQZ5oJuvLqU=
 8jfm1isqsouu4l5dm6s3eum0peirni16.house.	3600	in	nsec3	1 1 0 73 8K7R6AJV97MIGDK1FSCDH5L5EH91988K NS DS RRSIG
@@ -4703,9 +4701,6 @@ apd.house.	3600	in	ns	ns4-cloud.nic.ru.
 apd.house.	3600	in	ns	ns4-l2.nic.ru.
 apd.house.	3600	in	ns	ns8-cloud.nic.ru.
 apd.house.	3600	in	ns	ns8-l2.nic.ru.
-ape.house.	3600	in	ns	ns1.afternic.com.
-ape.house.	3600	in	ns	ns2.afternic.com.
-ape.house.	3600	in	ns	verification-g8nwd62kj7zf8ncceqa5pj.ns101.verify.hn.
 aperol.house.	3600	in	ns	ns1.barbero.zone.
 aperol.house.	3600	in	ns	ns2.barbero.zone.
 apes.house.	3600	in	ns	ns1.vercel-dns.com.
@@ -4790,8 +4785,8 @@ appfolio.house.	3600	in	ns	ns4.markmonitor.com.
 appfolio.house.	3600	in	ns	ns5.markmonitor.com.
 appfolio.house.	3600	in	ns	ns6.markmonitor.com.
 appfolio.house.	3600	in	ns	ns7.markmonitor.com.
-appia.house.	3600	in	ns	ns1.bodis.com.
-appia.house.	3600	in	ns	ns2.bodis.com.
+appia.house.	3600	in	ns	ns1.dns-redirect.com.
+appia.house.	3600	in	ns	ns2.dns-redirect.com.
 apple.house.	3600	in	ns	a.ns.apple.com.
 apple.house.	3600	in	ns	b.ns.apple.com.
 apple.house.	3600	in	ns	c.ns.apple.com.
@@ -5405,12 +5400,8 @@ asi.house.	3600	in	ns	ns-460.awsdns-57.com.
 asi.house.	3600	in	ns	ns-831.awsdns-39.net.
 asian.house.	3600	in	ns	ns1.afternic.com.
 asian.house.	3600	in	ns	ns2.afternic.com.
-asiatea.house.	3600	in	ns	curitiba.ns.porkbun.com.
-asiatea.house.	3600	in	ns	fortaleza.ns.porkbun.com.
-asiatea.house.	3600	in	ns	maceio.ns.porkbun.com.
-asiatea.house.	3600	in	ns	salvador.ns.porkbun.com.
-asic.house.	3600	in	ns	ns1.bodis.com.
-asic.house.	3600	in	ns	ns2.bodis.com.
+asic.house.	3600	in	ns	ns1.dns-redirect.com.
+asic.house.	3600	in	ns	ns2.dns-redirect.com.
 asidepulic.house.	3600	in	ns	ns93.worldnic.com.
 asidepulic.house.	3600	in	ns	ns94.worldnic.com.
 asimple.house.	3600	in	ns	dns1.registrar-servers.com.
@@ -5727,8 +5718,6 @@ atvamodau02mtqh5p48ujhtvddh4uhqm.house.	3600	in	nsec3	1 1 0 73 AUKMP9G9Q85I7F4QE
 atvamodau02mtqh5p48ujhtvddh4uhqm.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. XH0N6ZoKFBpf5eQkiuISja6lXdOgnImqpQ4jIWuu5tMPteiXPa1bVe11vUOG66kLBq2xPhPSO5eJOllhXv9K1EzpKaGQjw1SIbyRtaBxtF/TOx/1AlT16m/X1Xclr26cpq050FIQAx7tWbLSdCpK19uRjAMXxeYWj/KIoRLswy4=
 atwater.house.	3600	in	ns	addyson.ns.cloudflare.com.
 atwater.house.	3600	in	ns	thaddeus.ns.cloudflare.com.
-atwo.house.	3600	in	ns	ns1.renewyourname.net.
-atwo.house.	3600	in	ns	ns2.renewyourname.net.
 atx.house.	3600	in	ns	ns77.domaincontrol.com.
 atx.house.	3600	in	ns	ns78.domaincontrol.com.
 atyour.house.	3600	in	ns	ns-cloud-a1.googledomains.com.
@@ -7016,8 +7005,8 @@ bbot.house.	3600	in	ns	ns-cloud-d1.googledomains.com.
 bbot.house.	3600	in	ns	ns-cloud-d2.googledomains.com.
 bbot.house.	3600	in	ns	ns-cloud-d3.googledomains.com.
 bbot.house.	3600	in	ns	ns-cloud-d4.googledomains.com.
-bbq.house.	3600	in	ns	ns1.siteground.net.
-bbq.house.	3600	in	ns	ns2.siteground.net.
+bbq.house.	3600	in	ns	ns1.dyna-ns.net.
+bbq.house.	3600	in	ns	ns2.dyna-ns.net.
 bbs.house.	3600	in	ns	ns1-show.myhostadmin.net.
 bbs.house.	3600	in	ns	ns2-show.myhostadmin.net.
 bbsr.house.	3600	in	ns	ns1.dns-expired.com.
@@ -9660,9 +9649,8 @@ brides.house.	3600	in	ns	ns-cloud-d4.googledomains.com.
 brides.house.	3600	in	rrsig	DS 8 2 3600 20250930153854 20250909143854 31266 house. qAusFvaWBCcBb4m90Su+ucohfpnHGF0J6Hrl9fl59oQRX66quq7M8lh4vy/LW5mZn8Ba0Qw4IUvCDokf9FLAj2f7PYOSQa9SaHzURvCkyLaBrCICh0BnIHORK4mU+L+PqD/+aIrb5ie7yg4Dv253nzXoFV9PYu/X4Hy4S1zUzUE=
 bridge.house.	3600	in	ns	ns1.afternic.com.
 bridge.house.	3600	in	ns	ns2.afternic.com.
-bridgebuilders.house.	3600	in	ns	ns1.websupport.sk.
-bridgebuilders.house.	3600	in	ns	ns2.websupport.sk.
-bridgebuilders.house.	3600	in	ns	ns3.websupport.sk.
+bridgebuilders.house.	3600	in	ns	ns.parktons.com.
+bridgebuilders.house.	3600	in	ns	ns2.parktons.com.
 bridges.house.	3600	in	ns	ns1.syd4.hostingplatform.net.au.
 bridges.house.	3600	in	ns	ns2.syd4.hostingplatform.net.au.
 bridgespublishing.house.	3600	in	ns	fiona.ns.cloudflare.com.
@@ -10113,8 +10101,8 @@ buddys.house.	3600	in	ns	ns-cloud-e4.googledomains.com.
 buddys.house.	3600	in	rrsig	DS 8 2 3600 20250930153854 20250909143854 31266 house. rHkNlX6sO2abCbBASKL7bg/mdR5cId3pgGqFIM90ghUTb3MWYoRt2UhqjpIf60UUs1J5daYQhc1Apskl2vDtL8iL6k90+Ju39BS8/bWy12CEHwHireQX5F4hstHLTuRHfrvfG/GeTOa9FOoOxpHGwiFe2098qivRu8Ai0hmNEZc=
 budget.house.	3600	in	ns	ns05.domaincontrol.com.
 budget.house.	3600	in	ns	ns06.domaincontrol.com.
-budgetnomad.house.	3600	in	ns	ns1.bodis.com.
-budgetnomad.house.	3600	in	ns	ns2.bodis.com.
+budgetnomad.house.	3600	in	ns	ns1.dns-redirect.com.
+budgetnomad.house.	3600	in	ns	ns2.dns-redirect.com.
 budgettravelware.house.	3600	in	ns	ns5.worldnic.com.
 budgettravelware.house.	3600	in	ns	ns6.worldnic.com.
 budman.house.	3600	in	ns	dns.home.pl.
@@ -10201,6 +10189,8 @@ buildingunlimited.house.	3600	in	ns	ns978.websitewelcome.com.
 buildmy.house.	3600	in	ns	ns.udag.de.
 buildmy.house.	3600	in	ns	ns.udag.net.
 buildmy.house.	3600	in	ns	ns.udag.org.
+buildmysmart.house.	3600	in	ns	mark.ns.cloudflare.com.
+buildmysmart.house.	3600	in	ns	rose.ns.cloudflare.com.
 buildnew.house.	3600	in	ns	pdns03.domaincontrol.com.
 buildnew.house.	3600	in	ns	pdns04.domaincontrol.com.
 buildsmy.house.	3600	in	ns	ns15.domaincontrol.com.
@@ -10423,6 +10413,8 @@ butterflyeffectpublishing.house.	3600	in	ns	ns3sxz.name.com.
 butterflyeffectpublishing.house.	3600	in	ns	ns4ksy.name.com.
 butterscotch.house.	3600	in	ns	ns1.dns-redirect.com.
 butterscotch.house.	3600	in	ns	ns2.dns-redirect.com.
+buttertea.house.	3600	in	ns	dns1.registrar-servers.com.
+buttertea.house.	3600	in	ns	dns2.registrar-servers.com.
 button.house.	3600	in	ds	2371 13 2 00098CD02F701E7CC2577D9C59885E2F436654C8C97FDA4CAB24AA5AE62F6534
 button.house.	3600	in	ns	rick.ns.cloudflare.com.
 button.house.	3600	in	ns	tara.ns.cloudflare.com.
@@ -10906,8 +10898,8 @@ callum.house.	3600	in	ns	ns10.wixdns.net.
 callum.house.	3600	in	ns	ns11.wixdns.net.
 callvandee.house.	3600	in	ns	ns45.domaincontrol.com.
 callvandee.house.	3600	in	ns	ns46.domaincontrol.com.
-calma.house.	3600	in	ns	ns1.bodis.com.
-calma.house.	3600	in	ns	ns2.bodis.com.
+calma.house.	3600	in	ns	ns1.dns-redirect.com.
+calma.house.	3600	in	ns	ns2.dns-redirect.com.
 calmdowntown.house.	3600	in	ns	imani.ns.cloudflare.com.
 calmdowntown.house.	3600	in	ns	rohin.ns.cloudflare.com.
 calmgreens.house.	3600	in	ns	imani.ns.cloudflare.com.
@@ -10998,8 +10990,8 @@ campus.house.	3600	in	ns	ns60.domaincontrol.com.
 cams.house.	3600	in	ns	ns1.dnsowl.com.
 cams.house.	3600	in	ns	ns2.dnsowl.com.
 cams.house.	3600	in	ns	ns3.dnsowl.com.
-camus.house.	3600	in	ns	ns1.bodis.com.
-camus.house.	3600	in	ns	ns2.bodis.com.
+camus.house.	3600	in	ns	ns1.dns-redirect.com.
+camus.house.	3600	in	ns	ns2.dns-redirect.com.
 can-llop.house.	3600	in	ds	46022 13 2 CEF75F0C75BD01CAFC44394E92A20D53F86D3DD40FBD28A72E1710A50CFB0416
 can-llop.house.	3600	in	ns	ns01.one.com.
 can-llop.house.	3600	in	ns	ns02.one.com.
@@ -11184,8 +11176,8 @@ capture.house.	3600	in	ns	ns-cloud-d2.googledomains.com.
 capture.house.	3600	in	ns	ns-cloud-d3.googledomains.com.
 capture.house.	3600	in	ns	ns-cloud-d4.googledomains.com.
 capture.house.	3600	in	rrsig	DS 8 2 3600 20250930153854 20250909143854 31266 house. SaQxQsAFHQVvNzxU1bc793JOdo1AOx8Z+DBCv1IEz4Dkm2blrnsevn9XA/fYLpwQVSHE4WMajYxBSQHGrTFy9NGTTbR19QapNAw+plEBtDfEYo6OK8xqVvuU6MO3uB/ETpISfUR48xAmm5p8Rwec71waL+al44qfKxM94M9i238=
-capy.house.	3600	in	ns	ns1.bodis.com.
-capy.house.	3600	in	ns	ns2.bodis.com.
+capy.house.	3600	in	ns	ns1.dns-redirect.com.
+capy.house.	3600	in	ns	ns2.dns-redirect.com.
 capybara.house.	3600	in	ns	dns1.registrar-servers.com.
 capybara.house.	3600	in	ns	dns2.registrar-servers.com.
 car.house.	3600	in	ns	ns19.domaincontrol.com.
@@ -11389,8 +11381,8 @@ carrhomelab.house.	3600	in	ns	agustin.ns.cloudflare.com.
 carrhomelab.house.	3600	in	ns	etta.ns.cloudflare.com.
 carriage.house.	3600	in	ns	buynow.nametime.com.
 carriage.house.	3600	in	ns	forsale.nametime.com.
-carribean.house.	3600	in	ns	sl1.sedo.com.
-carribean.house.	3600	in	ns	sl2.sedo.com.
+carribean.house.	3600	in	ns	ns1.dyna-ns.net.
+carribean.house.	3600	in	ns	ns2.dyna-ns.net.
 carriere.house.	3600	in	ns	ns1.ex2.com.
 carriere.house.	3600	in	ns	ns2.ex2.com.
 carriere.house.	3600	in	ns	ns3.ex2.com.
@@ -11908,8 +11900,8 @@ celebration.house.	3600	in	ds	33577 13 2 9FF5EB00B7F6192EE1C052F8DB95BC8EDA65C0B
 celebration.house.	3600	in	ns	launch1.spaceship.net.
 celebration.house.	3600	in	ns	launch2.spaceship.net.
 celebration.house.	3600	in	rrsig	DS 8 2 3600 20250930153854 20250909143854 31266 house. Ic0uAURWf95NyjoDnCBarHQAOpiMjrIKMHQuG5pY8x5fYRIunSrp0te21NlRO1FnbX0GGE0CSnq1OR7UY+Mj/sPDg3/DtsI/mKvGQ6AJWJZncXMLBUlXysXbrz7r6wPfkit31fnH8Vb3ppuluNSl0TZs4QCAhi8heJtcCWic5sI=
-celebrity.house.	3600	in	ns	ns1.siteground.net.
-celebrity.house.	3600	in	ns	ns2.siteground.net.
+celebrity.house.	3600	in	ns	ns1.dyna-ns.net.
+celebrity.house.	3600	in	ns	ns2.dyna-ns.net.
 celene.spiral.house.	3600	in	a	107.194.242.45
 celene.spiral.house.	3600	in	aaaa	2600:1700:958c:8030:0000:0000:0000:0045
 celestial.house.	3600	in	ns	ns1.dns-parking.com.
@@ -12361,8 +12353,8 @@ chefman.house.	3600	in	ns	ns21.domaincontrol.com.
 chefman.house.	3600	in	ns	ns22.domaincontrol.com.
 chelsea.house.	3600	in	ns	ns03.domaincontrol.com.
 chelsea.house.	3600	in	ns	ns04.domaincontrol.com.
-chem.house.	3600	in	ns	ns1.bodis.com.
-chem.house.	3600	in	ns	ns2.bodis.com.
+chem.house.	3600	in	ns	ns1.dns-redirect.com.
+chem.house.	3600	in	ns	ns2.dns-redirect.com.
 chemistware.house.	3600	in	ds	2371 13 2 73032516F901F214D47B216BE8D19548D5AC7390193AC140B1AE60DD5395E512
 chemistware.house.	3600	in	ns	cris.ns.cloudflare.com.
 chemistware.house.	3600	in	ns	meilani.ns.cloudflare.com.
@@ -12996,6 +12988,8 @@ clearfamily.house.	3600	in	ns	ns-cloud-d1.googledomains.com.
 clearfamily.house.	3600	in	ns	ns-cloud-d2.googledomains.com.
 clearfamily.house.	3600	in	ns	ns-cloud-d3.googledomains.com.
 clearfamily.house.	3600	in	ns	ns-cloud-d4.googledomains.com.
+clearhayes.house.	3600	in	ns	ns31.domaincontrol.com.
+clearhayes.house.	3600	in	ns	ns32.domaincontrol.com.
 clearing.house.	3600	in	ns	ns1.afternic.com.
 clearing.house.	3600	in	ns	ns2.afternic.com.
 clearingandsettlement.house.	3600	in	ns	ns1.101domain.com.
@@ -13494,8 +13488,8 @@ coherence.house.	3600	in	ns	ns71.domaincontrol.com.
 coherence.house.	3600	in	ns	ns72.domaincontrol.com.
 coin.house.	3600	in	ns	ns1.sedoparking.com.
 coin.house.	3600	in	ns	ns2.sedoparking.com.
-coins.house.	3600	in	ns	ns1-coming-soon.sav.com.
-coins.house.	3600	in	ns	ns2-coming-soon.sav.com.
+coins.house.	3600	in	ns	ns1-expired.sav.com.
+coins.house.	3600	in	ns	ns2-expired.sav.com.
 cointreau.house.	3600	in	ns	ns2.observatoiredesmarques.fr.
 cointreau.house.	3600	in	ns	ns3.nameshield.net.
 cointreau.house.	3600	in	ns	obs.ns1.fr.
@@ -14727,8 +14721,8 @@ createyour.house.	3600	in	ns	docks19.rzone.de.
 createyour.house.	3600	in	ns	shades10.rzone.de.
 creation.house.	3600	in	ns	ns3.afternic.com.
 creation.house.	3600	in	ns	ns4.afternic.com.
-creationcurtain.house.	3600	in	ns	ns14.wixdns.net.
-creationcurtain.house.	3600	in	ns	ns15.wixdns.net.
+creationcurtain.house.	3600	in	ns	dns101.registrar-servers.com.
+creationcurtain.house.	3600	in	ns	dns102.registrar-servers.com.
 creativ.house.	3600	in	ns	ns65.domaincontrol.com.
 creativ.house.	3600	in	ns	ns66.domaincontrol.com.
 creative-media.house.	3600	in	ns	cameron.ns.cloudflare.com.
@@ -14819,8 +14813,8 @@ cridhe.house.	3600	in	ns	ns21.domaincontrol.com.
 cridhe.house.	3600	in	ns	ns22.domaincontrol.com.
 crime.house.	3600	in	ns	ns13.domaincontrol.com.
 crime.house.	3600	in	ns	ns14.domaincontrol.com.
-crimson.house.	3600	in	ns	dns1.registrar-servers.com.
-crimson.house.	3600	in	ns	dns2.registrar-servers.com.
+crimson.house.	3600	in	ns	dns101.registrar-servers.com.
+crimson.house.	3600	in	ns	dns102.registrar-servers.com.
 crimsondesign.house.	3600	in	ns	gabriel.ns.cloudflare.com.
 crimsondesign.house.	3600	in	ns	grace.ns.cloudflare.com.
 cringe.house.	3600	in	ns	ns19.domaincontrol.com.
@@ -15016,6 +15010,8 @@ ctj1ckt3788t0cmp254j7p6bh3ra2eu8.house.	3600	in	nsec3	1 1 0 73 CTUGOOEVC9MMRHTRO
 ctj1ckt3788t0cmp254j7p6bh3ra2eu8.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. f/Rwp3WcxtmLrd6oRfVCsztTWs0hbf/IVQDXrxfR28Xf6LriEE+0SqPq2+u23YAR0FzNEkbORXSqWis8QwuMEcX7I+NNqeD6ZdpVOEBRlJgiicFmC3hGfUMd+GKET9kI1vSl0SGjmkIvXagD9QdC2Wei/Wd2N97oGrqZrKUpA1k=
 ctl.house.	3600	in	ns	ns1.domain.io.
 ctl.house.	3600	in	ns	ns2.domain.io.
+cto.house.	3600	in	ns	hugh.ns.cloudflare.com.
+cto.house.	3600	in	ns	sreeni.ns.cloudflare.com.
 ctopen.house.	3600	in	ns	ns23.domaincontrol.com.
 ctopen.house.	3600	in	ns	ns24.domaincontrol.com.
 ctp.house.	3600	in	ns	dns1.registrar-servers.com.
@@ -15292,6 +15288,8 @@ cycling.house.	3600	in	ns	ns1.afternic.com.
 cycling.house.	3600	in	ns	ns2.afternic.com.
 cygnus.house.	3600	in	ns	ns59.domaincontrol.com.
 cygnus.house.	3600	in	ns	ns60.domaincontrol.com.
+cylinder.house.	3600	in	ns	ns47.domaincontrol.com.
+cylinder.house.	3600	in	ns	ns48.domaincontrol.com.
 cynamonka.house.	3600	in	ns	ns1.feniks.in.
 cynamonka.house.	3600	in	ns	ns2.feniks.in.
 cynthia.house.	3600	in	ns	gerald.ns.cloudflare.com.
@@ -15607,8 +15605,8 @@ danu.house.	3600	in	ns	ns1.dyna-ns.net.
 danu.house.	3600	in	ns	ns2.dyna-ns.net.
 danwood.house.	3600	in	ns	docks06.rzone.de.
 danwood.house.	3600	in	ns	shades16.rzone.de.
-danzig.house.	3600	in	ns	ns1.bodis.com.
-danzig.house.	3600	in	ns	ns2.bodis.com.
+danzig.house.	3600	in	ns	ns1.dns-redirect.com.
+danzig.house.	3600	in	ns	ns2.dns-redirect.com.
 dao.house.	3600	in	ns	ns1.studio4web.com.
 dao.house.	3600	in	ns	ns2.studio4web.com.
 dapp.house.	3600	in	ns	ns1.atom.com.
@@ -15960,6 +15958,8 @@ debruin.house.	3600	in	ds	2371 13 2 C3663CD44EBBCCAD48A75D03979BE3B867DCEBA7196C
 debruin.house.	3600	in	ns	algin.ns.cloudflare.com.
 debruin.house.	3600	in	ns	phoenix.ns.cloudflare.com.
 debruin.house.	3600	in	rrsig	DS 8 2 3600 20250930153854 20250909143854 31266 house. KgHDAC9ZFDex+QYFsDp/mAd4EI8Vme9iFDLolSDwZM9SuZLhLxSZ9vooVKmqkqKrP+fwbeQzlaDXMnnPUFKVd5rn/Q6nWfCqboygkhKpE2gbBd5UVSncdUlP0uknaN5W6PNMUYovDXrJ1wFEvTGit6EY6KXtmudYdYnTSsshrQc=
+debt.house.	3600	in	ns	ns47.domaincontrol.com.
+debt.house.	3600	in	ns	ns48.domaincontrol.com.
 dec.house.	3600	in	ns	ns75.domaincontrol.com.
 dec.house.	3600	in	ns	ns76.domaincontrol.com.
 deca.house.	3600	in	ns	dns1.registrar-servers.com.
@@ -16174,10 +16174,8 @@ delraybeach.house.	3600	in	ns	ns47.domaincontrol.com.
 delraybeach.house.	3600	in	ns	ns48.domaincontrol.com.
 delsur.house.	3600	in	ns	ns39.domaincontrol.com.
 delsur.house.	3600	in	ns	ns40.domaincontrol.com.
-delta.house.	3600	in	ds	24703 13 2 C907521B09CB313E359027019DFCCC9411BA6503B1632D1B3BDB72C0D6AF8CB9
-delta.house.	3600	in	ns	launch1.spaceship.net.
-delta.house.	3600	in	ns	launch2.spaceship.net.
-delta.house.	3600	in	rrsig	DS 8 2 3600 20251001212508 20250910202508 31266 house. cFo/1na9KiWFdE89b49Y5PNEb+9rT0op1OeCjiI4D1F8TIvCG5xOT+aiGk8pvT05JQbH/pGz8nuG1bla5iJfMeS0JvgoeF310AyOA28/K1mZIvUxGjDOQNe+9wSiUEdi68cFjtIB3kvOY5xJEdFfgjeAURPlByuutcoIDYHn7UI=
+delta.house.	3600	in	ns	ns1.afternic.com.
+delta.house.	3600	in	ns	ns2.afternic.com.
 deltalake.house.	3600	in	ns	ns1gmz.name.com.
 deltalake.house.	3600	in	ns	ns2gtx.name.com.
 deltalake.house.	3600	in	ns	ns3dgr.name.com.
@@ -17039,6 +17037,8 @@ doc.house.	3600	in	ns	ns-cloud-a1.googledomains.com.
 doc.house.	3600	in	ns	ns-cloud-a2.googledomains.com.
 doc.house.	3600	in	ns	ns-cloud-a3.googledomains.com.
 doc.house.	3600	in	ns	ns-cloud-a4.googledomains.com.
+doc4.house.	3600	in	ns	ns31.domaincontrol.com.
+doc4.house.	3600	in	ns	ns32.domaincontrol.com.
 docisinda.house.	3600	in	ds	10687 8 2 33F14D08E2B7CCEA2CB8DD2D52C17BCAA2F3A0EF12F7B9580D4E2EF1AEBF92B1
 docisinda.house.	3600	in	ns	ns1.netim.net.
 docisinda.house.	3600	in	ns	ns2.netim.net.
@@ -19649,8 +19649,8 @@ eu4durr6s61nevpd39f1lv96dibkc2si.house.	3600	in	nsec3	1 1 0 73 EUCCV5BVU2G956ER9
 eu4durr6s61nevpd39f1lv96dibkc2si.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. AAmgVZ2dJ5Q0ePYWv9m7QT9rb9M/noQHpJX9gjIu8K5uefxkCTT0MYrrF4hZoCzrPZNcOYLTFQxGAHFT5mbbcc6jzoucVeN3Fr9fubkJ+d+PhRN0N6ilVxLGYGXwpQYnJlx3emigmrJhwI+FSsWF+b72LikpSvzzhzkSFUHcq7E=
 euai.house.	3600	in	ns	james.ns.cloudflare.com.
 euai.house.	3600	in	ns	ullis.ns.cloudflare.com.
-eucalyptus.house.	3600	in	ns	ns1.bodis.com.
-eucalyptus.house.	3600	in	ns	ns2.bodis.com.
+eucalyptus.house.	3600	in	ns	ns1.dns-redirect.com.
+eucalyptus.house.	3600	in	ns	ns2.dns-redirect.com.
 euccv5bvu2g956er96jr3tho73qmqo71.house.	3600	in	nsec3	1 1 0 73 EUIIIT08IVHCS1DH2NVNN9UDNDEBPMCH NS DS RRSIG
 euccv5bvu2g956er96jr3tho73qmqo71.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. lYXRFtpKprEbwU6qUqMqUZZohx0H3zzFU4uTTb54p+2GPXWuiIEDxOnwyB8RkCnUTab3Ew4SHERoiQEOslpGGXPzdFYETO9BSK1qLskGH1sYcaLzVa9936oC89vqeAA54SB7cZDQv8xxzGsK7R9KMIOQIqjYteZHb6OzSFffnIA=
 eugenefield.house.	3600	in	ns	ns11.worldnic.com.
@@ -20757,8 +20757,10 @@ ff8m3e1am5vv0er0ou7qh89m3pmm7rmq.house.	3600	in	nsec3	1 1 0 73 FFC5K5IJULN0HUKD0
 ff8m3e1am5vv0er0ou7qh89m3pmm7rmq.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. O5hPFDgJWGkVMu7nDhWsuNVvadSjk+wFCPRMCIY2ytsEPikhbVWXLCfDhpyTa+gbOcSiQMOHH7yR9Mvf85g4m5dFK8b7reu0/cRQPaX7JVRP8/cj6IVqtDv/M5tjoWJFf9tC8o5E+fnKyz4pQglUMbrFfSUfGywuczhgYfFIveE=
 ffc5k5ijuln0hukd0ctktmdaqvebmt6q.house.	3600	in	nsec3	1 1 0 73 FFCSIUT5C17407MQ1FT624J10HVKQ5FD NS DS RRSIG
 ffc5k5ijuln0hukd0ctktmdaqvebmt6q.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. EjZtW1yZVUuoctbgF10neoXWt66MPisn3pAQU+77bwbRAMWVPJxwZrKI/yf7+RTmnhePVFrIZUqXA4Mg7VMT2VUTMCOn3monRTPU1vXHBp6I3A0UMuCOoYcRYq/MvzLjVFagfWYVpzfdZ5G+6x7YJ86fNesPdB9kDXAiHhn8TpM=
-ffcsiut5c17407mq1ft624j10hvkq5fd.house.	3600	in	nsec3	1 1 0 73 FFL3SVCQDLVVFFM1J8CIIN6768EOK7EQ NS DS RRSIG
-ffcsiut5c17407mq1ft624j10hvkq5fd.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. Zp8SqwZ2l/qaoJfHMqc3rJKbXNEpTL2pOk5f8TCi9MWB7tCDGsBJpasxIxt0OaNvSEF25tTgt+EOyWvAnukVhwsq07MU15LJvocdwhScrHWMSufkFwpDDhX0p4BTup3KWJw2aftZUH9V2d5l5xfFjasXX85QcQOMdoYreepxjS4=
+ffcsiut5c17407mq1ft624j10hvkq5fd.house.	3600	in	nsec3	1 1 0 73 FFDRR10OMIK6ESDMJM4QVO6S725N9LE2 NS DS RRSIG
+ffcsiut5c17407mq1ft624j10hvkq5fd.house.	3600	in	rrsig	NSEC3 8 2 3600 20251002182240 20250911172240 31266 house. Arf941PJE8kOjkTiOvQr1biVhBLMbjfoVUtsI3RdSXfpwroNFG716hzvLq/D4k55B9n37uiFWYms3JiIe8MffefqvcZZuUgqCxju11Jts+yOiZEN++pf/I99vhSV5GyAQzKPi1LLFgZpTazwip32ZiSyEGB/uspFIv929d6Ch2w=
+ffdrr10omik6esdmjm4qvo6s725n9le2.house.	3600	in	nsec3	1 1 0 73 FFL3SVCQDLVVFFM1J8CIIN6768EOK7EQ NS DS RRSIG
+ffdrr10omik6esdmjm4qvo6s725n9le2.house.	3600	in	rrsig	NSEC3 8 2 3600 20251002182240 20250911172240 31266 house. BTVxsZhrqLhxJ4vF/5t/8i5TI5yCoZpdF9o3IZNaEXQbZzEJ44DmpNsu2UhKIsEjYnnc3SEJoayKk8fb+V/dLxQoWWpvQL7nEGwokUnFxGgksUqw1zVB9LJMWoIYpG4tY7qR/R3vr5VCCXKdvGbGrWUR3fnDjBhwiJ/cnwL+2EU=
 ffl3svcqdlvvffm1j8ciin6768eok7eq.house.	3600	in	nsec3	1 1 0 73 FFMCEO54JRJO56PHQAGUNN2V9C6GTC9U NS DS RRSIG
 ffl3svcqdlvvffm1j8ciin6768eok7eq.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. BJsmRlQ5lct9UlaziQyWoxs4EtCdoLR1I4nYyk7oy+RaXmDvQ4QE/PlC2614yamxoF++fZGOUjtV7xzNrUguTmBDGyUjO3UavmwZatE4W9BOMPn23cup4b5V4QI8UoBfUVq6kH/6WcSYm63aHSCY/v1UklTzBrCiOa+2wn+1nU4=
 ffmceo54jrjo56phqagunn2v9c6gtc9u.house.	3600	in	nsec3	1 1 0 73 FFSJPK59HDHU617QO4VCDRG33HA4HOL9 NS DS RRSIG
@@ -23181,8 +23183,8 @@ georgiaanna.house.	3600	in	ns	ns-cloud-e4.googledomains.com.
 georgiaanna.house.	3600	in	rrsig	DS 8 2 3600 20250930153854 20250909143854 31266 house. FPtrxpCLwYRoF/VKOpMwm7BWcJ0AE+dcMIEhFqL7qzh4psAIC0+zRJ4sxa8Yl8+JDErdbQa27p7FvV/pNysEkaa6arl3InwNCXwsGgqbtabOvxF7y5wj3MMF2uL39NKz1CUzMO1AKSByKru+Gtm4+ePgisWLtkdok6voE83jyy0=
 georgiabounce.house.	3600	in	ns	ns75.domaincontrol.com.
 georgiabounce.house.	3600	in	ns	ns76.domaincontrol.com.
-georgialake.house.	3600	in	ns	pdns1.registrar-servers.com.
-georgialake.house.	3600	in	ns	pdns2.registrar-servers.com.
+georgialake.house.	3600	in	ns	dns101.registrar-servers.com.
+georgialake.house.	3600	in	ns	dns102.registrar-servers.com.
 georgian.house.	3600	in	ds	40406 8 2 12DC2438AFBFEA3124FFEBFACCA24FF7E7140079B928839A833C43F95F26897E
 georgian.house.	3600	in	ns	ns-cloud-b1.googledomains.com.
 georgian.house.	3600	in	ns	ns-cloud-b2.googledomains.com.
@@ -24166,8 +24168,8 @@ grackle.house.	3600	in	ns	mark.ns.cloudflare.com.
 grackle.house.	3600	in	ns	tori.ns.cloudflare.com.
 grad.house.	3600	in	ns	ns49.domaincontrol.com.
 grad.house.	3600	in	ns	ns50.domaincontrol.com.
-grade.house.	3600	in	ns	ns1.bodis.com.
-grade.house.	3600	in	ns	ns2.bodis.com.
+grade.house.	3600	in	ns	ns1.dns-redirect.com.
+grade.house.	3600	in	ns	ns2.dns-redirect.com.
 gradjevinar.house.	3600	in	ns	ns1.oblak.host.
 gradjevinar.house.	3600	in	ns	ns2.oblak.host.
 gradjevinar.house.	3600	in	ns	ns3.oblak.host.
@@ -26666,10 +26668,8 @@ heywood.house.	3600	in	ns	ns-uk.1and1-dns.org.
 hf.house.	3600	in	ns	ns01.nominus.com.
 hf.house.	3600	in	ns	ns02.nominus.com.
 hf.house.	3600	in	ns	ns03.nominus.com.
-hfmvouqj23kjqms9ub96o4ifc9i33kuq.house.	3600	in	nsec3	1 1 0 73 HG9AKF9FT53OBP7RLJ6H09A1DROE1IKR NS DS RRSIG
-hfmvouqj23kjqms9ub96o4ifc9i33kuq.house.	3600	in	rrsig	NSEC3 8 2 3600 20251001212508 20250910202508 31266 house. hF29jkYfzmWgtBREab/EBd7ke4KYiIExZbhlG9FwbSpZQzTbXBnfyjXOu9VQBgWklgzMtwK3XcNY9q9pdJUBEzDvGFZNP7W/C8rGTMm1gKDDNiCVzoXgd8hhN1/zNhuMpI/YkLdam5J3NxShwohcAQ9kZbtS3Dylb9ch14gcwEc=
-hg9akf9ft53obp7rlj6h09a1droe1ikr.house.	3600	in	nsec3	1 1 0 73 HGG1AGEDT6UGK7ACTR5E8ED7TVCT9I3D NS DS RRSIG
-hg9akf9ft53obp7rlj6h09a1droe1ikr.house.	3600	in	rrsig	NSEC3 8 2 3600 20251001212508 20250910202508 31266 house. FlhzyiuWGSqWyiYTtxM828U5U3TLgFnfLwjbhgRrNVLcabCKmmkzVXP99kCwQfBAof5DKyha9wra/9v4DRT9T5yjy1WBfEM2O0eNA077qBBp742NVOd2i9m1lfmCToVpJvNjJkOPK8jNUkCsWkhHwxWZ+yHdoc6FhKAF3pXum2c=
+hfmvouqj23kjqms9ub96o4ifc9i33kuq.house.	3600	in	nsec3	1 1 0 73 HGG1AGEDT6UGK7ACTR5E8ED7TVCT9I3D NS DS RRSIG
+hfmvouqj23kjqms9ub96o4ifc9i33kuq.house.	3600	in	rrsig	NSEC3 8 2 3600 20251002141933 20250911131933 31266 house. EtbnqAK4HW2dndJ4UGIpYtkYsWWPA5hx3s/DWIFCQbZ8XwQv17sKxiFvCTOOU7mOxd751IgbshXJOsDMn439gkj403rcn8ay5Sb/AA7AFKOR7Bxd5vacURqt/Q1CkLKX+wQeXCmkcAt1JnagAm/rsmE9ND8Qq7JeHskru0ukwWE=
 hgg1agedt6ugk7actr5e8ed7tvct9i3d.house.	3600	in	nsec3	1 1 0 73 HH0CSMQV5NQD950VF46VP7C1AJSNKA7V NS DS RRSIG
 hgg1agedt6ugk7actr5e8ed7tvct9i3d.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. m6l04U+cMRUdPO+w3JzqvvYSV+sqUekIcI+bc8BlKI1SQEH0KrERcLKA+msab+gXJERlCmOYuqia8O0QpTvKesk8EvCC2nZMshV1aoG+kEFw5KSI951njteeuHK8wcCey+dw5jNFSLxgTFjZvxt9dTSBeR79URLy1Y13VunhzfE=
 hh.house.	3600	in	ns	ns-cloud-c1.googledomains.com.
@@ -27211,6 +27211,10 @@ hoboken.house.	3600	in	ns	ns1028.ui-dns.com.
 hoboken.house.	3600	in	ns	ns1043.ui-dns.de.
 hoboken.house.	3600	in	ns	ns1111.ui-dns.org.
 hoboken.house.	3600	in	ns	ns1112.ui-dns.biz.
+hobson.house.	3600	in	ns	ns-cloud-d1.googledomains.com.
+hobson.house.	3600	in	ns	ns-cloud-d2.googledomains.com.
+hobson.house.	3600	in	ns	ns-cloud-d3.googledomains.com.
+hobson.house.	3600	in	ns	ns-cloud-d4.googledomains.com.
 hochono.house.	3600	in	ns	ns-1233.awsdns-26.org.
 hochono.house.	3600	in	ns	ns-1982.awsdns-55.co.uk.
 hochono.house.	3600	in	ns	ns-222.awsdns-27.com.
@@ -28260,7 +28264,7 @@ house.	3600	in	nsec3param	1 0 0 73
 house.	3600	in	rrsig	DNSKEY 8 1 3600 20250930153854 20250909143854 12289 house. LTFisFRcYtEOr3gn35SPa3FZUN++rKlpHXwA/4p3TTHPZ2b3jdEnppt3asR94xGqpEkdJRB+I3I6W6qtz30JNUlN6J3Qbf1P+Ojr65q2f9k7Ez8eKjmfCI08EvweHLiajNTeuyeVAtnvzyCnRL3cq6iPZjIjbXcf1BVbmQvjGV5DnqvGNE/S5DbraighVjMcXtuy97KzOkV6PtLQ2Lbi5ozzU/elvIaeSMmL6fFCysHDWS126tBKvvsrYtXOf4dxBEA0mhIDtI9X9TSBMDK3uYjORzpa+WLJNpFY744Fq7ubcBhvNlGtvNslJnHIKchS5L4d0T7RY0nk54BAvM/kgw==
 house.	3600	in	rrsig	NS 8 1 3600 20250930153854 20250909143854 31266 house. wUdPY+1H5CU3Ql7dA0EdI74CwDEPt+tyN1zlA0qG9ZDWBBjoy1a9yQ6cUna3hfHdbR2tJ02S/OABl4tmw6utSf9Yr/CtoFpM4JglqCPhKgWm8cuWmrT8MWhebaUQ9o7oAcV+wLZN3xY+j5tEK5YFhwAwkXRUINgNrbBMouCfD0M=
 house.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930153854 20250909143854 31266 house. sCZ479IOSx5VXNEmnszBNunOUu4W1CyHpN1BNeVczo8utnRMb2tIiFx0e27nOkO289nlBRSJJeOrvHK4Lbfcfnlq4nz169ZLI0vRfrkOdMRzJIbCO3aUwHMInPpf48oOwwrSYRosDZnY2ONM7nQxAY/w5dJiNFU2Xfz/KPyoNhE=
-house.	3600	in	rrsig	SOA 8 1 3600 20251002010721 20250911000721 31266 house. iwd+myIXaSvBZIvk4S6IDdXWMqr1iiWiGxLWOFi5drEdIDwALrgiEPKK1p8hn2J1sJ3svt+7gkCGNnUpy3FW7AeLDj4hUz8bgvzR19zR9E0NqBRcJMBUp5VQWFCEF4nJoNlYTJhTbI90NaV4ZEj+nd1sNIbdZdPD4YBnaM7jaYc=
+house.	3600	in	rrsig	SOA 8 1 3600 20251003010357 20250912000357 31266 house. yPeLHuVV/SCaeqVnzCbd+TO5fQ7eTc3IpFxPhvHdPRlmgfdG/roHB6Wvqy+x6N23uug0/U/Lxp/kiAnUL+Cs6qfJWnF3leqsqWbeG1uO7ba8qT0CjCFXZcXOKbkk+8wreiFZbqlz3yHQ70j6MTHdrvdHpHLfmcNvmsjRwiE8oG8=
 house.house.	3600	in	ns	ns1.dn.com.
 house.house.	3600	in	ns	ns2.dn.com.
 houseagency.house.	3600	in	ns	pdns82.ultradns.biz.
@@ -28541,8 +28545,8 @@ hsbkjar0lekuj6dhisf8bmeo71kjn9h7.house.	3600	in	nsec3	1 1 0 73 HSSS4EVC4KBIHMSM9
 hsbkjar0lekuj6dhisf8bmeo71kjn9h7.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. CaihdL0VKBkTqJh0EnFj97tsdfi3FNvtyMUjPdhJBHpwQTlyU4UUDWMvli77hrZp/Ze8WL9wEIoGzXS24rV9+aRJyIcn6CLR3WAvOotrHvlPRYVMVN5XOXDSlCYsS7fYg8e41OStAUMSvRP0+JNupNkq2QEVX1TtLvVEJcJTGu0=
 hsemu.house.	3600	in	ns	dayana.ns.cloudflare.com.
 hsemu.house.	3600	in	ns	ram.ns.cloudflare.com.
-hsieh.house.	3600	in	ns	ens1.net-chinese.com.tw.
-hsieh.house.	3600	in	ns	ens2.net-chinese.com.tw.
+hsieh.house.	3600	in	ns	parking1.net-chinese.com.tw.
+hsieh.house.	3600	in	ns	parking2.net-chinese.com.tw.
 hsss4evc4kbihmsm90a4rreamnefohke.house.	3600	in	nsec3	1 1 0 73 HT2SHHE9LL5G2T9PMMR5E54FRAE5548L NS DS RRSIG
 hsss4evc4kbihmsm90a4rreamnefohke.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. i5XrBgFvss9A4r3aD3PnJ+jhnjR7QX+C8ZyL/LcTOckWLaUIumuC3RR/FRX0zJySamOpfTB+uotNhtziZc+jpK9IFlXo3no+T4lIHZEDZbf85xjcVDvG5Y5vJ6O3FMVCF0kjm1D2v0KdY2W9lB79ut993lO7y9p8xyPTBKi3elQ=
 ht2shhe9ll5g2t9pmmr5e54frae5548l.house.	3600	in	nsec3	1 1 0 73 HTICNOM87LO485PSRUHK3OBKFBLB55L5 NS DS RRSIG
@@ -28698,8 +28702,8 @@ humanright.house.	3600	in	ns	dns1.registrar-servers.com.
 humanright.house.	3600	in	ns	dns2.registrar-servers.com.
 humans.house.	3600	in	ns	ns17.domaincontrol.com.
 humans.house.	3600	in	ns	ns18.domaincontrol.com.
-humble.house.	3600	in	ns	ns2.wixdns.net.
-humble.house.	3600	in	ns	ns3.wixdns.net.
+humble.house.	3600	in	ns	ns25.domaincontrol.com.
+humble.house.	3600	in	ns	ns26.domaincontrol.com.
 humbleabode.house.	3600	in	ds	59084 8 2 E3852EFFD9D6BC012F391DDD5F0EAED416B4162D8C82467A5F42B3FE2C2C0CEC
 humbleabode.house.	3600	in	ns	ns-cloud-c1.googledomains.com.
 humbleabode.house.	3600	in	ns	ns-cloud-c2.googledomains.com.
@@ -29876,8 +29880,8 @@ inspecta.house.	3600	in	ns	curitiba.ns.porkbun.com.
 inspecta.house.	3600	in	ns	fortaleza.ns.porkbun.com.
 inspecta.house.	3600	in	ns	maceio.ns.porkbun.com.
 inspecta.house.	3600	in	ns	salvador.ns.porkbun.com.
-inspection.house.	3600	in	ns	dns1.registrar-servers.com.
-inspection.house.	3600	in	ns	dns2.registrar-servers.com.
+inspection.house.	3600	in	ns	dns101.registrar-servers.com.
+inspection.house.	3600	in	ns	dns102.registrar-servers.com.
 inspectionreport.house.	3600	in	ns	ns1.turbify.com.
 inspectionreport.house.	3600	in	ns	ns2.turbify.com.
 inspections.house.	3600	in	ns	dns1.website.com.
@@ -30744,10 +30748,8 @@ jakobson.house.	3600	in	ns	ns2.elkdata.ee.
 jakobson.house.	3600	in	ns	ns3.elkdata.net.
 jakubowski.house.	3600	in	ns	ns51.domaincontrol.com.
 jakubowski.house.	3600	in	ns	ns52.domaincontrol.com.
-jam.house.	3600	in	ds	31951 13 2 C40E4BFEC889F32ABD7FED60AA846E0E5AEFE768C1E9DA8EDC142D7A38AE3247
-jam.house.	3600	in	ns	launch1.spaceship.net.
-jam.house.	3600	in	ns	launch2.spaceship.net.
-jam.house.	3600	in	rrsig	DS 8 2 3600 20251001212508 20250910202508 31266 house. GbpklyUxL98IS9fGdkgXY1v0tDXXD324FlhZpcJoLh1ze9eNx/juiYNLzda4s9oWt9zTdemQBaD8AbxE8XPLU0X2VqNrGKQNB2IbyvcYcnlGA7c2x05R0bc6C68++LA5MVp8Fw8qIMY2hkMde7q56u0MsIwvL6GaUMDt/yGvX6E=
+jam.house.	3600	in	ns	ns1.afternic.com.
+jam.house.	3600	in	ns	ns2.afternic.com.
 jama.house.	3600	in	ns	barbara.ns.cloudflare.com.
 jama.house.	3600	in	ns	camilo.ns.cloudflare.com.
 jambalaya.house.	3600	in	ns	ns63.domaincontrol.com.
@@ -31747,8 +31749,10 @@ jywea.house.	3600	in	ns	n1.xundns.com.
 jywea.house.	3600	in	ns	n2.xundns.com.
 k-k.house.	3600	in	ns	ns2.wixdns.net.
 k-k.house.	3600	in	ns	ns3.wixdns.net.
-k0m18fl2o1h9vsfckndi026a6p66vm8t.house.	3600	in	nsec3	1 1 0 73 K0VQDQQGMOG6F7O97OU3QS197OR2MRDF NS DS RRSIG
-k0m18fl2o1h9vsfckndi026a6p66vm8t.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. KKelpckxojafwyOWNsmg0UmSPGyHR4V0rO/20a+pjgOUaDjI3xiQTsljVrf4OLamH5Z5baAdQO4RiwKQzRw8PT0jj7u22621MPIu+nWDYTrqA3stmpnMg2eAwHrsej8a8AxILl9cgzbflPzUtKRYqzajQvQ7i09D8e9ekpSfI4Q=
+k0m18fl2o1h9vsfckndi026a6p66vm8t.house.	3600	in	nsec3	1 1 0 73 K0QDTT45BU4I5PEGE8M6HKARKUDS3VQG NS DS RRSIG
+k0m18fl2o1h9vsfckndi026a6p66vm8t.house.	3600	in	rrsig	NSEC3 8 2 3600 20251002180129 20250911170129 31266 house. b5KbM73fN4r1afZEBuxdO589YbOWRcGN9P+IBFdN/HIsSD3lbVeFwtezAkIjAHtZ1k6v9jxBgVLVwhFBviuiaHEsNXto6WknpQUVro4GAj9ppO7s1PGtO0Ea644+3XyGC7ZFvoDXRTTUIw/NThBuTmvvASGygAj+I2T7NnHzq0k=
+k0qdtt45bu4i5pege8m6hkarkuds3vqg.house.	3600	in	nsec3	1 1 0 73 K0VQDQQGMOG6F7O97OU3QS197OR2MRDF NS DS RRSIG
+k0qdtt45bu4i5pege8m6hkarkuds3vqg.house.	3600	in	rrsig	NSEC3 8 2 3600 20251002180129 20250911170129 31266 house. U3r8KH4WgByQ4i53PvFQw/Ksh6bJjlvgerNYXjA9Mx76Qk65PmAPMKRm7di5tw+Ah7NFrjkgh/hjFQhWO6Wym7kZ/974HcS+DoEBb2xs/neTpC+tl1NP+9WRNeyvuU4q8royr18YLinmUDezKBs7SBiAdTBnLPSG18DcKPabSkU=
 k0vqdqqgmog6f7o97ou3qs197or2mrdf.house.	3600	in	nsec3	1 1 0 73 K0VRP6E7JEI3DORGGEQG20KSJ105NVMM NS DS RRSIG
 k0vqdqqgmog6f7o97ou3qs197or2mrdf.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. zq6292SZPgLnBkBWRjnOEkP0v6KV9tzcjyaFRQJiBXiRD/E1PJ9lhLjP4hP3sWig9jjAKzqeRyjzB+DzqVxO/AF081OVyKICR17E5C9VosZDMVcYnTw2yYqsdvhSEe1Gi6do4+zzTZTUF4EQJ8i804LJK1f7xk95Mn9YuxeSQzc=
 k0vrp6e7jei3dorggeqg20ksj105nvmm.house.	3600	in	nsec3	1 1 0 73 K136HNKRK1HK9AUMU6I5H740BBJ2B10R NS DS RRSIG
@@ -32975,8 +32979,8 @@ kochi.house.	3600	in	ns	dns2.registrar-servers.com.
 koctas.house.	3600	in	ns	dns1.idp365.net.
 koctas.house.	3600	in	ns	dns2.idp365.net.
 koctas.house.	3600	in	ns	dns3.idp365.net.
-kod.house.	3600	in	ns	ns1.bodis.com.
-kod.house.	3600	in	ns	ns2.bodis.com.
+kod.house.	3600	in	ns	ns1.dns-redirect.com.
+kod.house.	3600	in	ns	ns2.dns-redirect.com.
 koda.house.	3600	in	ns	root-dns.netcup.net.
 koda.house.	3600	in	ns	second-dns.netcup.net.
 koda.house.	3600	in	ns	third-dns.netcup.net.
@@ -33830,8 +33834,8 @@ lakejoseph.house.	3600	in	ns	ns41.domaincontrol.com.
 lakejoseph.house.	3600	in	ns	ns42.domaincontrol.com.
 lakekiowa.house.	3600	in	ns	ns07.domaincontrol.com.
 lakekiowa.house.	3600	in	ns	ns08.domaincontrol.com.
-lakelanier.house.	3600	in	ns	pdns1.registrar-servers.com.
-lakelanier.house.	3600	in	ns	pdns2.registrar-servers.com.
+lakelanier.house.	3600	in	ns	dns101.registrar-servers.com.
+lakelanier.house.	3600	in	ns	dns102.registrar-servers.com.
 lakelife.house.	3600	in	ns	ns67.domaincontrol.com.
 lakelife.house.	3600	in	ns	ns68.domaincontrol.com.
 lakeliferealty.house.	3600	in	ns	ns-1238.awsdns-26.org.
@@ -34093,10 +34097,10 @@ lark.house.	3600	in	ns	ns2.wixdns.net.
 lark.house.	3600	in	ns	ns3.wixdns.net.
 larkspur.house.	3600	in	ns	buck.ns.cloudflare.com.
 larkspur.house.	3600	in	ns	joan.ns.cloudflare.com.
-larnaca.house.	3600	in	ns	ns1.sedoparking.com.
-larnaca.house.	3600	in	ns	ns2.sedoparking.com.
-larnaka.house.	3600	in	ns	ns1.sedoparking.com.
-larnaka.house.	3600	in	ns	ns2.sedoparking.com.
+larnaca.house.	3600	in	ns	ns1.atom.com.
+larnaca.house.	3600	in	ns	ns2.atom.com.
+larnaka.house.	3600	in	ns	ns1.atom.com.
+larnaka.house.	3600	in	ns	ns2.atom.com.
 laroca.house.	3600	in	ns	ns12.wixdns.net.
 laroca.house.	3600	in	ns	ns13.wixdns.net.
 larp.house.	3600	in	ns	dns1.registrar-servers.com.
@@ -34345,8 +34349,8 @@ le.house.	3600	in	ns	chris.ns.cloudflare.com.
 le.house.	3600	in	ns	dana.ns.cloudflare.com.
 le1340.house.	3600	in	ns	guy.ns.cloudflare.com.
 le1340.house.	3600	in	ns	joan.ns.cloudflare.com.
-lea.house.	3600	in	ns	ns1.bodis.com.
-lea.house.	3600	in	ns	ns2.bodis.com.
+lea.house.	3600	in	ns	ns1.dns-redirect.com.
+lea.house.	3600	in	ns	ns2.dns-redirect.com.
 lead.house.	3600	in	ns	ns1.afternic.com.
 lead.house.	3600	in	ns	ns2.afternic.com.
 leaders.house.	3600	in	ns	ns1.wphost.me.
@@ -34933,8 +34937,8 @@ lily.house.	3600	in	ns	ns1.atom.com.
 lily.house.	3600	in	ns	ns2.atom.com.
 lilypad.house.	3600	in	ns	ns1.hover.com.
 lilypad.house.	3600	in	ns	ns2.hover.com.
-limassol.house.	3600	in	ns	ns1.dns-parking.com.
-limassol.house.	3600	in	ns	ns2.dns-parking.com.
+limassol.house.	3600	in	ns	ns1.atom.com.
+limassol.house.	3600	in	ns	ns2.atom.com.
 limbercreative.house.	3600	in	ns	ns-cloud-e1.googledomains.com.
 limbercreative.house.	3600	in	ns	ns-cloud-e2.googledomains.com.
 limbercreative.house.	3600	in	ns	ns-cloud-e3.googledomains.com.
@@ -35559,8 +35563,8 @@ loftypublishing.house.	3600	in	ns	ns3jnr.name.com.
 loftypublishing.house.	3600	in	ns	ns4sxy.name.com.
 log.house.	3600	in	ns	ns1.afternic.com.
 log.house.	3600	in	ns	ns2.afternic.com.
-loganroad.house.	3600	in	ns	ns47.domaincontrol.com.
-loganroad.house.	3600	in	ns	ns48.domaincontrol.com.
+loganroad.house.	3600	in	ns	ada.ns.cloudflare.com.
+loganroad.house.	3600	in	ns	clay.ns.cloudflare.com.
 logatech.house.	3600	in	ns	igor.ns.cloudflare.com.
 logatech.house.	3600	in	ns	sharon.ns.cloudflare.com.
 logbook.house.	3600	in	ns	dns1.registrar-servers.com.
@@ -35981,8 +35985,8 @@ lubbock.house.	3600	in	ns	ns61.domaincontrol.com.
 lubbock.house.	3600	in	ns	ns62.domaincontrol.com.
 luberon.house.	3600	in	ns	dns1.registrar-servers.com.
 luberon.house.	3600	in	ns	dns2.registrar-servers.com.
-luc.house.	3600	in	ns	ns1.bodis.com.
-luc.house.	3600	in	ns	ns2.bodis.com.
+luc.house.	3600	in	ns	ns1.dns-redirect.com.
+luc.house.	3600	in	ns	ns2.dns-redirect.com.
 luca.house.	3600	in	ns	ns1.dynu.com.
 luca.house.	3600	in	ns	ns2.dynu.com.
 luca.house.	3600	in	ns	ns3.dynu.com.
@@ -37948,10 +37952,8 @@ medal.house.	3600	in	ns	ns2.webglobe.cz.
 medal.house.	3600	in	ns	ns3.webglobe.com.
 medena.house.	3600	in	ns	dns1.cdn.hr.
 medena.house.	3600	in	ns	dns2.cdn.hr.
-medi.house.	3600	in	ds	17371 13 2 5C9F9921F31D2C96A335DF76B50DEBA78E3FA539F2A712129DBC95DFC68EB8E5
-medi.house.	3600	in	ns	launch1.spaceship.net.
-medi.house.	3600	in	ns	launch2.spaceship.net.
-medi.house.	3600	in	rrsig	DS 8 2 3600 20251001212508 20250910202508 31266 house. Ya4QA1OLKV8JXwqsWAtuRcdGORe//xW5RlfsGlb78tIl7vNn9lJ3Uf4MWlmwywtMO0QIX1K1O7HkiPoR/8SRQo81UvDKqTvUM5WhNtEmOElniPvKE5B7/dx5Rz4wWl0djhHds6Ey8upCZeWkbsDYl057NEV1dj9CcsdWxHsM3hQ=
+medi.house.	3600	in	ns	ns1.afternic.com.
+medi.house.	3600	in	ns	ns2.afternic.com.
 media.house.	3600	in	ns	ns1.afternic.com.
 media.house.	3600	in	ns	ns2.afternic.com.
 mediastore.house.	3600	in	ns	ns-1225.awsdns-25.org.
@@ -38128,10 +38130,8 @@ melocoton.house.	3600	in	ds	2371 13 2 C335C5EF4524967286F6618EE4CFD4684CBDE802C8
 melocoton.house.	3600	in	ns	cecelia.ns.cloudflare.com.
 melocoton.house.	3600	in	ns	troy.ns.cloudflare.com.
 melocoton.house.	3600	in	rrsig	DS 8 2 3600 20250930153854 20250909143854 31266 house. c1axN18rkGbb6wg/+amri9fHpE/7XSslgaFKpT4lwi42F9cPRIMnxg/XCRK7RQytdKvHU5ss5PUwqspq52rHDhHumuAB/8a8WGRLCCpophuYJuqq/6JChciW/N9dS0jF2uDBqpRdGAfrN9aOgCkXxllgWsbZnuCoy6m22q/y4Ag=
-melody.house.	3600	in	ns	ns1.bodis.com.
-melody.house.	3600	in	ns	ns2.bodis.com.
-melon.house.	3600	in	ns	ns11.domaincontrol.com.
-melon.house.	3600	in	ns	ns12.domaincontrol.com.
+melody.house.	3600	in	ns	ns1.dns-redirect.com.
+melody.house.	3600	in	ns	ns2.dns-redirect.com.
 melroseskyline.house.	3600	in	ns	imani.ns.cloudflare.com.
 melroseskyline.house.	3600	in	ns	rohin.ns.cloudflare.com.
 melt.house.	3600	in	ns	ns05.domaincontrol.com.
@@ -38324,6 +38324,8 @@ merry.house.	3600	in	ns	dns1.registrar-servers.com.
 merry.house.	3600	in	ns	dns2.registrar-servers.com.
 mersin.house.	3600	in	ns	ns1.hosting.com.tr.
 mersin.house.	3600	in	ns	ns2.hosting.com.tr.
+merton.house.	3600	in	ns	ns67.domaincontrol.com.
+merton.house.	3600	in	ns	ns68.domaincontrol.com.
 merula.house.	3600	in	ns	dns1.registrar-servers.com.
 merula.house.	3600	in	ns	dns2.registrar-servers.com.
 merwin.house.	3600	in	ns	dns1.p06.nsone.net.
@@ -39222,8 +39224,8 @@ mmive49f8hc8ol5mtghj238ovqp1gh8l.house.	3600	in	nsec3	1 1 0 73 MMK5H2IMV034P83OA
 mmive49f8hc8ol5mtghj238ovqp1gh8l.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. IiiU9hZyxwBg+jSEWsT7PJWCEqYOL7GsDkqjN6GibtKxSkuYgmC/OC4LVK1yAuxnrqpv+vlLTe77brfKGgnIEL37IsjAgdPPemVaoyZz+i5zBGBYD718HnBt4QeO/qV76aR2pgZVg+nXFu9IGQrvE6rAulJ6mQyrpWbkjegNMTs=
 mmk5h2imv034p83oagq54ec82rji22ps.house.	3600	in	nsec3	1 1 0 73 MMRU5E4DJA99EHSLFJRLTC48NFHBI0K7 NS DS RRSIG
 mmk5h2imv034p83oagq54ec82rji22ps.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. Mm9GNPclT4cZBfi7rbtbe2chZCRodWyXXxEzqacCa7xJQwpkY3FVtdBVhsxN4vajkLqNq7KKc5sZE30BXY1m84R3zdV+K+jg5H7T3Oj/UW0BRyWLtryHH97FLl2pFFVm7mBeAlx46duDrCUZ+VNMODviFZdE8r8OKh4IufeN6js=
-mmlive.house.	3600	in	ns	ns1.bodis.com.
-mmlive.house.	3600	in	ns	ns2.bodis.com.
+mmlive.house.	3600	in	ns	ns1.dns-redirect.com.
+mmlive.house.	3600	in	ns	ns2.dns-redirect.com.
 mmn.house.	3600	in	ns	alan.ns.cloudflare.com.
 mmn.house.	3600	in	ns	nelly.ns.cloudflare.com.
 mmru5e4dja99ehslfjrltc48nfhbi0k7.house.	3600	in	nsec3	1 1 0 73 MN7UF6TK0OUM5BO0VUMA7PBV6VMLH9IB NS DS RRSIG
@@ -40659,8 +40661,6 @@ myfab.house.	3600	in	ns	ns03.squarespacedns.com.
 myfab.house.	3600	in	ns	ns04.squarespacedns.com.
 myfamily.house.	3600	in	ns	ns1.dns-parking.com.
 myfamily.house.	3600	in	ns	ns2.dns-parking.com.
-myfarm.house.	3600	in	ns	ns1-expired.sav.com.
-myfarm.house.	3600	in	ns	ns2-expired.sav.com.
 myfashion.house.	3600	in	ns	ns-de.1and1-dns.biz.
 myfashion.house.	3600	in	ns	ns-de.1and1-dns.com.
 myfashion.house.	3600	in	ns	ns-de.1and1-dns.de.
@@ -40845,8 +40845,6 @@ mymoney.house.	3600	in	ns	amanda.ns.cloudflare.com.
 mymoney.house.	3600	in	ns	bob.ns.cloudflare.com.
 mymortgage.house.	3600	in	ns	ns1.inmotionhosting.com.
 mymortgage.house.	3600	in	ns	ns2.inmotionhosting.com.
-mymover.house.	3600	in	ns	ns15.domaincontrol.com.
-mymover.house.	3600	in	ns	ns16.domaincontrol.com.
 mymusic.house.	3600	in	ns	dns1.p02.nsone.net.
 mymusic.house.	3600	in	ns	dns2.p02.nsone.net.
 mymusic.house.	3600	in	ns	dns3.p02.nsone.net.
@@ -40914,8 +40912,6 @@ myperfectfrontporch.house.	3600	in	ns	ns19.domaincontrol.com.
 myperfectfrontporch.house.	3600	in	ns	ns20.domaincontrol.com.
 myphilly.house.	3600	in	ns	ns10.wixdns.net.
 myphilly.house.	3600	in	ns	ns11.wixdns.net.
-myplanned.house.	3600	in	ns	ns07.domaincontrol.com.
-myplanned.house.	3600	in	ns	ns08.domaincontrol.com.
 myportable.house.	3600	in	ns	dns1.registrar-servers.com.
 myportable.house.	3600	in	ns	dns2.registrar-servers.com.
 myportal.house.	3600	in	ns	irma.ns.cloudflare.com.
@@ -41291,8 +41287,8 @@ naplesrealestate.house.	3600	in	ns	ns51.domaincontrol.com.
 naplesrealestate.house.	3600	in	ns	ns52.domaincontrol.com.
 naplesvacationrental.house.	3600	in	ns	ns49.domaincontrol.com.
 naplesvacationrental.house.	3600	in	ns	ns50.domaincontrol.com.
-napraia.house.	3600	in	ns	ns1.bodis.com.
-napraia.house.	3600	in	ns	ns2.bodis.com.
+napraia.house.	3600	in	ns	ns1.dns-redirect.com.
+napraia.house.	3600	in	ns	ns2.dns-redirect.com.
 naqvi.house.	3600	in	ds	60245 8 2 37A841759A58EDC703806F2990ACD6A4D29971A8F1F366D569C86F4713194B89
 naqvi.house.	3600	in	ns	ns-cloud-a1.googledomains.com.
 naqvi.house.	3600	in	ns	ns-cloud-a2.googledomains.com.
@@ -41344,8 +41340,8 @@ nashvilletn.house.	3600	in	ns	konnor.ns.cloudflare.com.
 nashvilletn.house.	3600	in	ns	nova.ns.cloudflare.com.
 naskft9h0bctn2ghe193puhihckduot4.house.	3600	in	nsec3	1 1 0 73 NAUM2URQ69KOSIP1KHL77H8DB8K648GK NS DS RRSIG
 naskft9h0bctn2ghe193puhihckduot4.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. aL5pJ1bvd+kutDCi/3SYt480a5U0D9uDi9BV/dC6yxma4iYtrf8TdDIj17PkorLvLe65qkiOO2dWmZB//6U3QAhg1hfKU/YIywMlqxxZrQt+QFL3nkLlafgPAaoCvsJnf0I2TAG6qcb8kZNmTfwZQzKqIFWcIic6ls9wwvZHfz8=
-nasledie.house.	3600	in	ns	ns1.bodis.com.
-nasledie.house.	3600	in	ns	ns2.bodis.com.
+nasledie.house.	3600	in	ns	ns1.dns-redirect.com.
+nasledie.house.	3600	in	ns	ns2.dns-redirect.com.
 nata.house.	3600	in	ns	ns-cloud-c1.googledomains.com.
 nata.house.	3600	in	ns	ns-cloud-c2.googledomains.com.
 nata.house.	3600	in	ns	ns-cloud-c3.googledomains.com.
@@ -41753,6 +41749,8 @@ netzeromodern.house.	3600	in	ns	ns-cloud-d4.googledomains.com.
 netzeromodern.house.	3600	in	rrsig	DS 8 2 3600 20250930153854 20250909143854 31266 house. Tr5tB+Urkmq0YnsV0nZXsfFbkKCsa05w9LchWTsTzktnc6XowdqXShkJ2kI8UEXwh5sajDrK0eR9RigF3PDv0jqvY2IIIYiM2EaZhTxHWAP5DGLl2gn1TOpXobVMM43CfRrGAzZk/0fBIBgnnIJuQ6159xzoic91HbajnaYQaYI=
 neu.house.	3600	in	ns	irma.ns.cloudflare.com.
 neu.house.	3600	in	ns	valentin.ns.cloudflare.com.
+neue.house.	3600	in	ns	dns1.registrar-servers.com.
+neue.house.	3600	in	ns	dns2.registrar-servers.com.
 neumann.house.	3600	in	ns	ns1.he.net.
 neumann.house.	3600	in	ns	ns2.he.net.
 neumann.house.	3600	in	ns	ns3.he.net.
@@ -42056,8 +42054,8 @@ nh.house.	3600	in	ns	bns3.hostcocoa.com.
 nh.house.	3600	in	ns	bns4.hostcocoa.com.
 nhacaiuytin.house.	3600	in	ns	ns1.dns-redirect.com.
 nhacaiuytin.house.	3600	in	ns	ns2.dns-redirect.com.
-nhadat.house.	3600	in	ns	ns1.bodis.com.
-nhadat.house.	3600	in	ns	ns2.bodis.com.
+nhadat.house.	3600	in	ns	ns1.dns-redirect.com.
+nhadat.house.	3600	in	ns	ns2.dns-redirect.com.
 nhowe.house.	3600	in	ns	ns-1455.awsdns-53.org.
 nhowe.house.	3600	in	ns	ns-1619.awsdns-10.co.uk.
 nhowe.house.	3600	in	ns	ns-56.awsdns-07.com.
@@ -42107,8 +42105,8 @@ nicos.house.	3600	in	ns	dns.technorail.com.
 nicos.house.	3600	in	ns	dns2.technorail.com.
 nicos.house.	3600	in	ns	dns3.arubadns.net.
 nicos.house.	3600	in	ns	dns4.arubadns.cz.
-nicosia.house.	3600	in	ns	ns1.sedoparking.com.
-nicosia.house.	3600	in	ns	ns2.sedoparking.com.
+nicosia.house.	3600	in	ns	ns1.atom.com.
+nicosia.house.	3600	in	ns	ns2.atom.com.
 nido.house.	3600	in	ns	ns49.domaincontrol.com.
 nido.house.	3600	in	ns	ns50.domaincontrol.com.
 nielsen.house.	3600	in	ds	2371 13 2 6BAB63E63B3FD7D7E2DE29782E6ED69814A5921F5C81CB9E9F4134AD4E12154A
@@ -44930,8 +44928,8 @@ ozarkvistapool.house.	3600	in	ns	imani.ns.cloudflare.com.
 ozarkvistapool.house.	3600	in	ns	rohin.ns.cloudflare.com.
 ozcoffee.house.	3600	in	ns	ns63.domaincontrol.com.
 ozcoffee.house.	3600	in	ns	ns64.domaincontrol.com.
-oze.house.	3600	in	ns	ns1.bodis.com.
-oze.house.	3600	in	ns	ns2.bodis.com.
+oze.house.	3600	in	ns	ns1.dns-redirect.com.
+oze.house.	3600	in	ns	ns2.dns-redirect.com.
 ozlabs.house.	3600	in	ns	ns1.binarylane.com.au.
 ozlabs.house.	3600	in	ns	ns2.binarylane.com.au.
 ozlabs.house.	3600	in	ns	ns3.binarylane.com.au.
@@ -45060,8 +45058,8 @@ paella.house.	3600	in	ns	ns-cloud-d1.googledomains.com.
 paella.house.	3600	in	ns	ns-cloud-d2.googledomains.com.
 paella.house.	3600	in	ns	ns-cloud-d3.googledomains.com.
 paella.house.	3600	in	ns	ns-cloud-d4.googledomains.com.
-pafos.house.	3600	in	ns	ns1.sedoparking.com.
-pafos.house.	3600	in	ns	ns2.sedoparking.com.
+pafos.house.	3600	in	ns	ns1.atom.com.
+pafos.house.	3600	in	ns	ns2.atom.com.
 pagan.house.	3600	in	ds	2371 13 2 38A312A0B74C51629AF0D28AE8485483F472A091CE52037431A89A3D05F54741
 pagan.house.	3600	in	ns	jim.ns.cloudflare.com.
 pagan.house.	3600	in	ns	mary.ns.cloudflare.com.
@@ -45293,8 +45291,8 @@ papermoon.house.	3600	in	ns	ns-cloud-c2.googledomains.com.
 papermoon.house.	3600	in	ns	ns-cloud-c3.googledomains.com.
 papermoon.house.	3600	in	ns	ns-cloud-c4.googledomains.com.
 papermoon.house.	3600	in	rrsig	DS 8 2 3600 20250930153854 20250909143854 31266 house. GnY6uLMrZh92KlwuPEFSiHsQy5xIaPUj0tWjYqqPU1yPlVKxuWBvnafMp6ll3Gkp07fr+RZnl/ixmDAAyL28N2ETdK0pGmSxYLLLME1VJfIS0XKuVask57KZhuXFtloWyqED/I+D81NiPY8oaBVNpq7/yTFTLmWDOOKR96TYXZE=
-paphos.house.	3600	in	ns	ns1.sedoparking.com.
-paphos.house.	3600	in	ns	ns2.sedoparking.com.
+paphos.house.	3600	in	ns	ns1.atom.com.
+paphos.house.	3600	in	ns	ns2.atom.com.
 papillon.house.	3600	in	ns	lars.ns.cloudflare.com.
 papillon.house.	3600	in	ns	venus.ns.cloudflare.com.
 papillonstory.house.	3600	in	ns	ns17.domaincontrol.com.
@@ -45362,8 +45360,6 @@ paranormal.house.	3600	in	ns	ns05.domaincontrol.com.
 paranormal.house.	3600	in	ns	ns06.domaincontrol.com.
 paranormalescape.house.	3600	in	ns	ns21.domaincontrol.com.
 paranormalescape.house.	3600	in	ns	ns22.domaincontrol.com.
-parasite.house.	3600	in	ns	ns1.afternic.com.
-parasite.house.	3600	in	ns	ns2.afternic.com.
 parcel.house.	3600	in	ns	ns67.domaincontrol.com.
 parcel.house.	3600	in	ns	ns68.domaincontrol.com.
 parchment.house.	3600	in	ns	ns57.domaincontrol.com.
@@ -46332,8 +46328,8 @@ phonetic.house.	3600	in	ns	ns-cloud-e2.googledomains.com.
 phonetic.house.	3600	in	ns	ns-cloud-e3.googledomains.com.
 phonetic.house.	3600	in	ns	ns-cloud-e4.googledomains.com.
 phonetic.house.	3600	in	rrsig	DS 8 2 3600 20250930153854 20250909143854 31266 house. AAJxSi8zHEiqZOTmxlIsJcSogyjkjARrQmY2haygdcf6m5v/ZTGFnLE5Gf7W4e8wEj5yE2+w+g95Z6l0MkH6KSNzwYp7ZqETRO6Xo/+5DVBkjKoC5TnqB6V2/Noocq2GorFItVwVBr1Esv8Xz/3wJxcsu+wvWbH/8mA7GarX/1c=
-phonoodle.house.	3600	in	ns	ns1.bodis.com.
-phonoodle.house.	3600	in	ns	ns2.bodis.com.
+phonoodle.house.	3600	in	ns	ns1.dns-redirect.com.
+phonoodle.house.	3600	in	ns	ns2.dns-redirect.com.
 photo.house.	3600	in	ns	ns1.dntrust.com.
 photo.house.	3600	in	ns	ns2.dntrust.com.
 photo.house.	3600	in	ns	ns3.dntrust.com.
@@ -46558,6 +46554,10 @@ pin.house.	3600	in	ns	lara.ns.cloudflare.com.
 pin.house.	3600	in	ns	tim.ns.cloudflare.com.
 pina.house.	3600	in	ns	heather.ns.cloudflare.com.
 pina.house.	3600	in	ns	uriah.ns.cloudflare.com.
+pinasthika.house.	3600	in	ds	2371 13 2 8227AE54C2A720A162C9E8CDFA0BA6ABC53E3798ABF62748AD4921B857D1BB8B
+pinasthika.house.	3600	in	ns	dylan.ns.cloudflare.com.
+pinasthika.house.	3600	in	ns	wren.ns.cloudflare.com.
+pinasthika.house.	3600	in	rrsig	DS 8 2 3600 20251002182240 20250911172240 31266 house. fyzs3kvxwgEZETYaebspa/V5/OvU0VCmDUFdhqs3ZLmAxLQ9aHlZvQwfpo1JstQOQ9+0fG10XvKkdB0O25Juay229UMEloSbvP17elZ0FNrkuLDYz8ZvsYQRhG8iGWbpxMw/rvZ96HXvnyAQtqCqDTPhq07rm49CTLLyvt/eYKs=
 pinconningcheese.house.	3600	in	ns	ns45.domaincontrol.com.
 pinconningcheese.house.	3600	in	ns	ns46.domaincontrol.com.
 pine.house.	3600	in	ns	ns1.afternic.com.
@@ -47056,8 +47056,8 @@ pmf.house.	3600	in	ns	ns65.domaincontrol.com.
 pmf.house.	3600	in	ns	ns66.domaincontrol.com.
 pmoabnc8etfsssvpbg3eq78rm43h1jqp.house.	3600	in	nsec3	1 1 0 73 PNQ5GC18I8EQ1SUQ3I2SLM4LISA07AV7 NS DS RRSIG
 pmoabnc8etfsssvpbg3eq78rm43h1jqp.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. bUVKVNZgNJg9N18V/VOU9st94xFttaTniyOWT+0u+E+JFBlnLmt2wdHpJ776FbvNv1r3PM4g8GHOT+LW6HZFlhsooWxS/UviWtW+gF7fSAatSziJtUnm9pWiZwqS3TmrsgYf6z4GJh1mA/iUbEJyv1XYfFoTC01jRdj5TidtVvQ=
-pms.house.	3600	in	ns	ns1.bodis.com.
-pms.house.	3600	in	ns	ns2.bodis.com.
+pms.house.	3600	in	ns	ns1.dns-redirect.com.
+pms.house.	3600	in	ns	ns2.dns-redirect.com.
 pnp.house.	3600	in	ns	ns3.afternic.com.
 pnp.house.	3600	in	ns	ns4.afternic.com.
 pnq5gc18i8eq1suq3i2slm4lisa07av7.house.	3600	in	nsec3	1 1 0 73 PO5NGHLIGJE2J15LF1DBGC7HHA0EEKU9 NS DS RRSIG
@@ -47599,8 +47599,8 @@ prepair.house.	3600	in	ns	ns-cloud-c2.googledomains.com.
 prepair.house.	3600	in	ns	ns-cloud-c3.googledomains.com.
 prepair.house.	3600	in	ns	ns-cloud-c4.googledomains.com.
 prepair.house.	3600	in	rrsig	DS 8 2 3600 20250930153854 20250909143854 31266 house. f72sDH4NMmb9EtnWBlbQLSeLtKZeLg/CBSRTuauDIF42+yM/ljO+0f9XQtrQJrHDvBbRqkmhfL0lxsghaiWfqFD9v+x+XrtjTRWleEajczdqVGvmrX6MurKxhinL61m4JnszVHZbZwlb531wRWtbsTEs5aySUyjYG8bwQ1bc0SY=
-prepared.house.	3600	in	ns	ns1.bodis.com.
-prepared.house.	3600	in	ns	ns2.bodis.com.
+prepared.house.	3600	in	ns	ns1.dns-redirect.com.
+prepared.house.	3600	in	ns	ns2.dns-redirect.com.
 presale.house.	3600	in	ns	ns25.domaincontrol.com.
 presale.house.	3600	in	ns	ns26.domaincontrol.com.
 presales.house.	3600	in	ns	ns1.vercel-dns.com.
@@ -48229,6 +48229,10 @@ puppyskunk.house.	3600	in	ns	dns1.registrar-servers.com.
 puppyskunk.house.	3600	in	ns	dns2.registrar-servers.com.
 pura.house.	3600	in	ns	hank.ns.cloudflare.com.
 pura.house.	3600	in	ns	lina.ns.cloudflare.com.
+pure.house.	3600	in	ns	park1.dccdns.com.
+pure.house.	3600	in	ns	park2.dccdns.com.
+pure.house.	3600	in	ns	park3.dccdns.com.
+pure.house.	3600	in	ns	park4.dccdns.com.
 purealp.house.	3600	in	ns	ns03.domaincontrol.com.
 purealp.house.	3600	in	ns	ns04.domaincontrol.com.
 pureamerican.house.	3600	in	ns	pdns11.domaincontrol.com.
@@ -48429,7 +48433,7 @@ qbyam.house.	3600	in	ns	n2.xundns.com.
 qc.house.	3600	in	ns	amy.ns.cloudflare.com.
 qc.house.	3600	in	ns	eric.ns.cloudflare.com.
 qcr29r5u1gqec46u3qcpfgo09e83vhav.house.	3600	in	nsec3	1 1 0 73 QDODU6SBK1DOK801JI4NJP1BH2OSQPM9 NS SOA RRSIG DNSKEY NSEC3PARAM
-qcr29r5u1gqec46u3qcpfgo09e83vhav.house.	3600	in	rrsig	NSEC3 8 2 3600 20251002010721 20250911000721 31266 house. saLxdJba0P5V15bpvBrynmFciua2BviNqVDLNtEdt9kZc303JOU57xTcCYnOpGtitNirp6SUjnBwlZb4O9UhOTBtuRU3ROqH+SgFCoQtg/THTw4+zJ8AXq2YWquYH+0LMWgYCCPj/RzOlRyy1e1/6GWzltgforhqheRs4u+ajsQ=
+qcr29r5u1gqec46u3qcpfgo09e83vhav.house.	3600	in	rrsig	NSEC3 8 2 3600 20251003010357 20250912000357 31266 house. s8OidgKzlK/SMgW8Cv+W58fL3NtsJkSCqScNNpN0zTHTtpEa3V+6PLSSExEQvCymG1uugDW+HZw7SNDo2TejlTKomJwayQ4YRlGpghOZIuJcQbdPyJuIrFg9neo48q5n1p1bwc1H+LXaeX10LC6gXOl5swF7wIoY1aLDSbyO7Jg=
 qdodu6sbk1dok801ji4njp1bh2osqpm9.house.	3600	in	nsec3	1 1 0 73 QDTVNHMOC3CUA82FPAAUMSHMD4JR5S2N NS DS RRSIG
 qdodu6sbk1dok801ji4njp1bh2osqpm9.house.	3600	in	rrsig	NSEC3 8 2 3600 20250930153854 20250909143854 31266 house. xVSNB2xOHEGtREs/mFzHU+SxRhkNPANOqogwlKsmFh0dV9begKLYBUdLdvl2qfzRTRVSwJyA2dnltvwGpmbdfVOWnn3RzngCO3gfRbr3YmRddwkphMGB5F5/CwAm1WnbUYJ2Ohio8WdY+8y3lqaffm2wYx0jmBcQRs9at7e75JQ=
 qdtvnhmoc3cua82fpaaumshmd4jr5s2n.house.	3600	in	nsec3	1 1 0 73 QDV3L1QTUKHGTGPIJ24SIIT6L5D7QU99 NS DS RRSIG
@@ -48547,8 +48551,6 @@ quanta.house.	3600	in	ns	ns2.dns-redirect.com.
 quantapublishing.house.	3600	in	ns	ns1.wordpress.com.
 quantapublishing.house.	3600	in	ns	ns2.wordpress.com.
 quantapublishing.house.	3600	in	ns	ns3.wordpress.com.
-quantified.house.	3600	in	ns	ns53.domaincontrol.com.
-quantified.house.	3600	in	ns	ns54.domaincontrol.com.
 quantum.house.	3600	in	ns	ns1.afternic.com.
 quantum.house.	3600	in	ns	ns2.afternic.com.
 quarantined.house.	3600	in	ns	ns1.mydomaincom-default.domainparkingserver.net.
@@ -49913,8 +49915,8 @@ remy-martin.house.	3600	in	ns	obs.ns1.fr.
 remymartin.house.	3600	in	ns	ns2.observatoiredesmarques.fr.
 remymartin.house.	3600	in	ns	ns3.nameshield.net.
 remymartin.house.	3600	in	ns	obs.ns1.fr.
-ren.house.	3600	in	ns	ns1.dns-redirect.com.
-ren.house.	3600	in	ns	ns2.dns-redirect.com.
+ren.house.	3600	in	ns	plato.ns.cloudflare.com.
+ren.house.	3600	in	ns	rosalyn.ns.cloudflare.com.
 renaissance.house.	3600	in	ns	ns-cloud-e1.googledomains.com.
 renaissance.house.	3600	in	ns	ns-cloud-e2.googledomains.com.
 renaissance.house.	3600	in	ns	ns-cloud-e3.googledomains.com.
@@ -50612,6 +50614,8 @@ riot.house.	3600	in	ns	ns19.domaincontrol.com.
 riot.house.	3600	in	ns	ns20.domaincontrol.com.
 ripe.house.	3600	in	ns	ns39.domaincontrol.com.
 ripe.house.	3600	in	ns	ns40.domaincontrol.com.
+ripley.house.	3600	in	ns	chip.ns.cloudflare.com.
+ripley.house.	3600	in	ns	monika.ns.cloudflare.com.
 ripple.house.	3600	in	ds	64135 8 2 81D4933B2425F4E5E22E34E9C99FA96C8AA129E29F6F59A44A2F502BC8C48E4F
 ripple.house.	3600	in	ns	ns-cloud-e1.googledomains.com.
 ripple.house.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -51149,8 +51153,8 @@ rooftopdeluxe.house.	3600	in	ns	ns1023.ui-dns.com.
 rooftopdeluxe.house.	3600	in	ns	ns1057.ui-dns.de.
 rooftopdeluxe.house.	3600	in	ns	ns1060.ui-dns.biz.
 rooftopdeluxe.house.	3600	in	ns	ns1107.ui-dns.org.
-rook.house.	3600	in	ns	ns1.bodis.com.
-rook.house.	3600	in	ns	ns2.bodis.com.
+rook.house.	3600	in	ns	ns1.dns-redirect.com.
+rook.house.	3600	in	ns	ns2.dns-redirect.com.
 rookhaven.house.	3600	in	ns	fay.ns.cloudflare.com.
 rookhaven.house.	3600	in	ns	jihoon.ns.cloudflare.com.
 rookie.house.	3600	in	ns	fiona.ns.cloudflare.com.
@@ -53553,8 +53557,8 @@ seniorhousing.house.	3600	in	ns	dns101.registrar-servers.com.
 seniorhousing.house.	3600	in	ns	dns102.registrar-servers.com.
 seniorliving.house.	3600	in	ns	ns1.siteground.net.
 seniorliving.house.	3600	in	ns	ns2.siteground.net.
-seniors.house.	3600	in	ns	ns1.bodis.com.
-seniors.house.	3600	in	ns	ns2.bodis.com.
+seniors.house.	3600	in	ns	ns1.dns-redirect.com.
+seniors.house.	3600	in	ns	ns2.dns-redirect.com.
 senna.house.	3600	in	ds	2606 8 2 9710E49CD199AD972CC2DA7D84A2C6C92C2946F7AE8A65673EE32E9D95E72EF7
 senna.house.	3600	in	ns	ns-cloud-d1.googledomains.com.
 senna.house.	3600	in	ns	ns-cloud-d2.googledomains.com.
@@ -53832,8 +53836,8 @@ shackles.house.	3600	in	ns	ns2.no-ip.com.
 shackles.house.	3600	in	ns	ns3.no-ip.com.
 shackles.house.	3600	in	ns	ns4.no-ip.com.
 shackles.house.	3600	in	ns	ns5.no-ip.com.
-shadow.house.	3600	in	ns	ns1.bodis.com.
-shadow.house.	3600	in	ns	ns2.bodis.com.
+shadow.house.	3600	in	ns	ns1.dns-redirect.com.
+shadow.house.	3600	in	ns	ns2.dns-redirect.com.
 shadowcove.house.	3600	in	ns	imani.ns.cloudflare.com.
 shadowcove.house.	3600	in	ns	rohin.ns.cloudflare.com.
 shady.house.	3600	in	ns	ns13.domaincontrol.com.
@@ -54285,8 +54289,8 @@ showmethemoney.house.	3600	in	ns	ns07.domaincontrol.com.
 showmethemoney.house.	3600	in	ns	ns08.domaincontrol.com.
 showmy.house.	3600	in	ns	pdns1.registrar-servers.com.
 showmy.house.	3600	in	ns	pdns2.registrar-servers.com.
-showroom.house.	3600	in	ns	ns1.bodis.com.
-showroom.house.	3600	in	ns	ns2.bodis.com.
+showroom.house.	3600	in	ns	ns1.dns-redirect.com.
+showroom.house.	3600	in	ns	ns2.dns-redirect.com.
 showthat.house.	3600	in	ns	ns6.wixdns.net.
 showthat.house.	3600	in	ns	ns7.wixdns.net.
 showthis.house.	3600	in	ns	ns1.hover.com.
@@ -55536,8 +55540,8 @@ sociallink.house.	3600	in	ns	dns1.registrar-servers.com.
 sociallink.house.	3600	in	ns	dns2.registrar-servers.com.
 socialmedia.house.	3600	in	ns	ns1.afternic.com.
 socialmedia.house.	3600	in	ns	ns2.afternic.com.
-socialstyle.house.	3600	in	ns	ns1.bodis.com.
-socialstyle.house.	3600	in	ns	ns2.bodis.com.
+socialstyle.house.	3600	in	ns	ns1.dns-redirect.com.
+socialstyle.house.	3600	in	ns	ns2.dns-redirect.com.
 society.house.	3600	in	ns	ns1.sav.com.
 society.house.	3600	in	ns	ns2.sav.com.
 societypost.house.	3600	in	ds	62237 8 2 67B324CE233EEF97821858ACFBD0E9A938DE9B80E542417663A83EFC1904FC06
@@ -56241,8 +56245,8 @@ spirit.house.	3600	in	ns	ns.freeparking.co.nz.
 spirit.house.	3600	in	ns	ns2.freeparking.co.nz.
 spiritlevel.house.	3600	in	ns	dns1.registrar-servers.com.
 spiritlevel.house.	3600	in	ns	dns2.registrar-servers.com.
-spirits.house.	3600	in	ns	failed-whois-verification.namecheap.com.
-spirits.house.	3600	in	ns	verify-contact-details.namecheap.com.
+spirits.house.	3600	in	ns	dns1.registrar-servers.com.
+spirits.house.	3600	in	ns	dns2.registrar-servers.com.
 spiritual.house.	3600	in	ns	ns1.afternic.com.
 spiritual.house.	3600	in	ns	ns2.afternic.com.
 spiritualdesign.house.	3600	in	ns	dns1.p02.nsone.net.
@@ -57279,6 +57283,10 @@ stryker.house.	3600	in	ns	bethany.ns.cloudflare.com.
 stryker.house.	3600	in	ns	zod.ns.cloudflare.com.
 stu.house.	3600	in	ns	ns1.messagingengine.com.
 stu.house.	3600	in	ns	ns2.messagingengine.com.
+stubbe.house.	3600	in	ns	curitiba.ns.porkbun.com.
+stubbe.house.	3600	in	ns	fortaleza.ns.porkbun.com.
+stubbe.house.	3600	in	ns	maceio.ns.porkbun.com.
+stubbe.house.	3600	in	ns	salvador.ns.porkbun.com.
 stubbs.house.	3600	in	ns	ns-1235.awsdns-26.org.
 stubbs.house.	3600	in	ns	ns-1553.awsdns-02.co.uk.
 stubbs.house.	3600	in	ns	ns-250.awsdns-31.com.
@@ -57828,6 +57836,10 @@ susanna.house.	3600	in	ns	ns17.domaincontrol.com.
 susanna.house.	3600	in	ns	ns18.domaincontrol.com.
 sushi.house.	3600	in	ns	ns1.afternic.com.
 sushi.house.	3600	in	ns	ns2.afternic.com.
+sustainability.house.	3600	in	ns	curitiba.ns.porkbun.com.
+sustainability.house.	3600	in	ns	fortaleza.ns.porkbun.com.
+sustainability.house.	3600	in	ns	maceio.ns.porkbun.com.
+sustainability.house.	3600	in	ns	salvador.ns.porkbun.com.
 sustainable-energy.house.	3600	in	ns	ns1.linode.com.
 sustainable-energy.house.	3600	in	ns	ns2.linode.com.
 sustainable-energy.house.	3600	in	ns	ns3.linode.com.
@@ -57947,8 +57959,6 @@ swartz.house.	3600	in	ns	ns47.domaincontrol.com.
 swartz.house.	3600	in	ns	ns48.domaincontrol.com.
 swat.house.	3600	in	ns	emerie.ns.cloudflare.com.
 swat.house.	3600	in	ns	fred.ns.cloudflare.com.
-swc.house.	3600	in	ns	ns31.domaincontrol.com.
-swc.house.	3600	in	ns	ns32.domaincontrol.com.
 swd.house.	3600	in	ns	ns01.cashparking.com.
 swd.house.	3600	in	ns	ns02.cashparking.com.
 sweat.house.	3600	in	ns	ns1.afternic.com.
@@ -60919,8 +60929,8 @@ thenest.house.	3600	in	ns	ns02.one.com.
 thenest.house.	3600	in	rrsig	DS 8 2 3600 20250930153854 20250909143854 31266 house. oceQMsAiDbCXE7UWXsgiZeCBLC6deV+F45fCWFv5bUDDZf5Gg/YaNkXTVgpBCumIYOsi+dCwU7kGMLltGFCdmQlto5Bwq0+yE8Lx6LfkLvF2+d+wNGzgoXcDUvgPTliVwcTzzSn7JTGEC/6AXD4uisd0UKwjXw7zv5cplkbACMI=
 thenew.house.	3600	in	ns	ns1.afternic.com.
 thenew.house.	3600	in	ns	ns2.afternic.com.
-thenewell.house.	3600	in	ns	ns1.bodis.com.
-thenewell.house.	3600	in	ns	ns2.bodis.com.
+thenewell.house.	3600	in	ns	ns1.dns-redirect.com.
+thenewell.house.	3600	in	ns	ns2.dns-redirect.com.
 thenext.house.	3600	in	ns	connect1.squarespacedns.com.
 thenext.house.	3600	in	ns	connect2.squarespacedns.com.
 thenft.house.	3600	in	ns	ns1mtw.name.com.
@@ -62355,9 +62365,8 @@ titmuss.house.	3600	in	ds	2371 13 2 B60EAC7DB250C387C07F03E4060CFB481F078B437CE1
 titmuss.house.	3600	in	ns	marty.ns.cloudflare.com.
 titmuss.house.	3600	in	ns	tricia.ns.cloudflare.com.
 titmuss.house.	3600	in	rrsig	DS 8 2 3600 20250930153854 20250909143854 31266 house. fl/OGXBNNgVJgqsQZpwdTZfBI2WKHduRENF2kdTI8ppb1AqQKFeylvrM3so76Yef/slPey1GFk30Jp8fTND2Qj+F7RcO38nullnNSIeQH2e4ysYkTWkdDRRL03on9x41vOaIsokvacFbZdLygIn/7ADWhkUQUvHg2ZpkW7scn0E=
-tivoli.house.	3600	in	ns	ns1.dnsowl.com.
-tivoli.house.	3600	in	ns	ns2.dnsowl.com.
-tivoli.house.	3600	in	ns	ns3.dnsowl.com.
+tivoli.house.	3600	in	ns	keira.ns.cloudflare.com.
+tivoli.house.	3600	in	ns	leonard.ns.cloudflare.com.
 tiwari.house.	3600	in	ns	justin.ns.cloudflare.com.
 tiwari.house.	3600	in	ns	sky.ns.cloudflare.com.
 tiwary.house.	3600	in	ds	2371 13 2 38904670815171977B8E29F12386FF298A75789953290A6BF369FC75CA017FF7
@@ -62613,8 +62622,8 @@ top10.house.	3600	in	ns	dns1.registrar-servers.com.
 top10.house.	3600	in	ns	dns2.registrar-servers.com.
 top100.house.	3600	in	ns	roan.ns.cloudflare.com.
 top100.house.	3600	in	ns	vida.ns.cloudflare.com.
-topaz.house.	3600	in	ns	ns1.bodis.com.
-topaz.house.	3600	in	ns	ns2.bodis.com.
+topaz.house.	3600	in	ns	ns1.dns-redirect.com.
+topaz.house.	3600	in	ns	ns2.dns-redirect.com.
 topbathroom.house.	3600	in	ns	dns1.registrar-servers.com.
 topbathroom.house.	3600	in	ns	dns2.registrar-servers.com.
 topdollar.house.	3600	in	ns	ns31.domaincontrol.com.
@@ -65455,8 +65464,8 @@ vis.house.	3600	in	ns	ns73.domaincontrol.com.
 vis.house.	3600	in	ns	ns74.domaincontrol.com.
 visaliapoolservice.house.	3600	in	ns	ns1.afternic.com.
 visaliapoolservice.house.	3600	in	ns	ns2.afternic.com.
-visas.house.	3600	in	ns	ns1.bodis.com.
-visas.house.	3600	in	ns	ns2.bodis.com.
+visas.house.	3600	in	ns	ns1.dns-redirect.com.
+visas.house.	3600	in	ns	ns2.dns-redirect.com.
 visceralsound.house.	3600	in	ns	ns45.domaincontrol.com.
 visceralsound.house.	3600	in	ns	ns46.domaincontrol.com.
 viseo.house.	3600	in	ns	ns6.cpi.ad.jp.
@@ -66519,6 +66528,12 @@ weeb.house.	3600	in	ns	max.ns.cloudflare.com.
 weeds.house.	3600	in	ns	ina1.registrar.eu.
 weeds.house.	3600	in	ns	ina2.registrar.eu.
 weeds.house.	3600	in	ns	ina3.registrar.eu.
+weedware.house.	3600	in	ds	26644 8 2 B7DF0C17BF5F46977BF00D733175D150AA846CDE1427474D34F557279FB0C143
+weedware.house.	3600	in	ns	ns-cloud-d1.googledomains.com.
+weedware.house.	3600	in	ns	ns-cloud-d2.googledomains.com.
+weedware.house.	3600	in	ns	ns-cloud-d3.googledomains.com.
+weedware.house.	3600	in	ns	ns-cloud-d4.googledomains.com.
+weedware.house.	3600	in	rrsig	DS 8 2 3600 20251002180129 20250911170129 31266 house. HPw9G8t4MUUai06zZxDeo6IdrRSfeKYqx6YOFsM7GasbEriCxL13oNNIUDvSLXZCtAa7wzr0AS6esLfanw7RSM45rhkIrSxUoEG8V17Vpfe/w+Y7hDeuNGLZUjElHuyjFhjFHrNszbBXLO8vs6nYaUZLg0oWrSCG0Ly/VWRUNY8=
 weegree.house.	3600	in	ns	courtney.ns.cloudflare.com.
 weegree.house.	3600	in	ns	jeremy.ns.cloudflare.com.
 weekend.house.	3600	in	ns	ns1.eftydns.com.
@@ -67342,8 +67357,8 @@ winbetmax.house.	3600	in	ns	ns1.dyna-ns.net.
 winbetmax.house.	3600	in	ns	ns2.dyna-ns.net.
 winc.house.	3600	in	ns	ns51.domaincontrol.com.
 winc.house.	3600	in	ns	ns52.domaincontrol.com.
-winchester.house.	3600	in	ns	ns1.siteground.net.
-winchester.house.	3600	in	ns	ns2.siteground.net.
+winchester.house.	3600	in	ns	ns1.dyna-ns.net.
+winchester.house.	3600	in	ns	ns2.dyna-ns.net.
 wind.house.	3600	in	ns	ns1.afternic.com.
 wind.house.	3600	in	ns	ns2.afternic.com.
 winding.house.	3600	in	ns	mira.ns.cloudflare.com.
@@ -68086,8 +68101,6 @@ xiaomi.house.	3600	in	ns	ns3.insales.ru.
 xiaomi.house.	3600	in	ns	ns4.insales.ru.
 xijvt.house.	3600	in	ns	ns1.dyna-ns.net.
 xijvt.house.	3600	in	ns	ns2.dyna-ns.net.
-xin88.house.	3600	in	ns	dns101.registrar-servers.com.
-xin88.house.	3600	in	ns	dns102.registrar-servers.com.
 xingfu.house.	3600	in	ns	ns37.domaincontrol.com.
 xingfu.house.	3600	in	ns	ns38.domaincontrol.com.
 xio.house.	3600	in	ns	ns33.domaincontrol.com.
@@ -69200,4 +69213,4 @@ zzwdd.house.	3600	in	ns	ns1.dnsip.com.
 zzwdd.house.	3600	in	ns	ns2.dnsip.com.
 zzyzx.house.	3600	in	ns	ns23.domaincontrol.com.
 zzyzx.house.	3600	in	ns	ns24.domaincontrol.com.
-house.	3600	in	soa	v0n0.nic.house. hostmaster.donuts.email. 1757552612 7200 900 1209600 3600
+house.	3600	in	soa	v0n0.nic.house. hostmaster.donuts.email. 1757638824 7200 900 1209600 3600
