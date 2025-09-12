@@ -1,4 +1,4 @@
-solar.	3600	in	soa	v0n0.nic.solar. hostmaster.donuts.email. 1757553237 7200 900 1209600 3600
+solar.	3600	in	soa	v0n0.nic.solar. hostmaster.donuts.email. 1757640083 7200 900 1209600 3600
 0.solar.	3600	in	ns	kara.ns.cloudflare.com.
 0.solar.	3600	in	ns	paul.ns.cloudflare.com.
 000.solar.	3600	in	ns	janet.ns.cloudflare.com.
@@ -459,8 +459,8 @@ solar.	3600	in	soa	v0n0.nic.solar. hostmaster.donuts.email. 1757553237 7200 900 
 47al120i2nm2ndm8t61h8rhd7fdf4i8a.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. I1HtGfhL4WWUco3Pn5uf8QsdBcB2kN/TYezQltTu4Jgthktt9SBQvLUl6P7RKEWIgFP14UhO4Fw4ifDQF00BqKJ8FfNXCi9Ovx6O2TD1msuB0z9OwRxY3rlAVsSN65Qm2HJ/KBkCFLvUpMQY8pgCSpsmcLW5W6wQGdl7yaVX0xU=
 48rghi7pk340pddaoqsppfm3r6i9pa9f.solar.	3600	in	nsec3	1 1 0 73 49RUGK3DT9TNO24D1KF7QV82TQSD9HP6 NS DS RRSIG
 48rghi7pk340pddaoqsppfm3r6i9pa9f.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. ROOkWo2UM3qtAfeKtDbvcbKUtAeF1XRrDNqchbx73OujbaqNFYnXeb0+KClECZuJL/BtyM7Fr/lfLKDDUmCdPkSePoHfYSGCvHtzq668ADT+H0gdqehrTt5RtIiTtzdWMow/XmMUxTAEpOzAvZGnQYWV/t2S3Zz92+SDqcVlInQ=
-499.solar.	3600	in	ns	ns1.bodis.com.
-499.solar.	3600	in	ns	ns2.bodis.com.
+499.solar.	3600	in	ns	ns1.dns-redirect.com.
+499.solar.	3600	in	ns	ns2.dns-redirect.com.
 49rugk3dt9tno24d1kf7qv82tqsd9hp6.solar.	3600	in	nsec3	1 1 0 73 4CHOJDAIHQD6QBK6BON4EH49MAKNUPLV NS DS RRSIG
 49rugk3dt9tno24d1kf7qv82tqsd9hp6.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. Exii0b6wM+lKFfCZsG0xiftEmdUcdRgipZ7DTlMZpFdUSVxjAk+ke/DXs40LHJNUhvnPJMXgKvI2rcDvSEcflEATAJ48+7kkMBwqLrW2zQ8M49gdI8qWiCR3aGuIL0z0d8Sdba7zzIKy/27KOnPCh90MpVs0YILI+60IP4L7joo=
 4blue.solar.	3600	in	ds	7531 8 2 D67FFD5B2E2C3CBE6F5B42931E4D6510A8813CADFB53D4A55E6BCF1096015F2E
@@ -611,16 +611,14 @@ solar.	3600	in	soa	v0n0.nic.solar. hostmaster.donuts.email. 1757553237 7200 900 
 698iln3rens2qe79fd8upm8tmeb0uur7.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. cQJlUbwTjb7E0DH5DK8ICVU9RDG2YnC05963rqkV4ULqmAx1bVRSYp2QQGUF1zlQQuZ1vZZz7ZY2XHWEZ3B48pk3sF8skgZRFULKl+ZPbaNMgBmKr1TnNjDECSbc8btGgxo77jJ4hQNbU+BOSyXiHW4iQ3yo+5i6j4eogk9rJWg=
 69vn.solar.	3600	in	ns	chan.ns.cloudflare.com.
 69vn.solar.	3600	in	ns	moura.ns.cloudflare.com.
-6eboocndfne0of22a0bc3ngjcfpv7k3t.solar.	3600	in	nsec3	1 1 0 73 6G51KRCVN72HAU9UG3ETR4KN7OHB1CST NS DS RRSIG
-6eboocndfne0of22a0bc3ngjcfpv7k3t.solar.	3600	in	rrsig	NSEC3 8 2 3600 20251001212648 20250910202648 59715 solar. qToM6FB8Luk5ZnSXP4hSkjyg7rPEhMERa3VzYQMbz43GVoRq5HUfZbRU8MzR1LC4PdY+5Leadj8ag+DZLlg7hXR9szCif7P/1Foou+kLEg40TQW//j0KFo7Pdo2O4QnVAzG8MVADP0sX8haM/iu9pfvLelDc4MkeK1aGRBbH7Es=
+6eboocndfne0of22a0bc3ngjcfpv7k3t.solar.	3600	in	nsec3	1 1 0 73 6G8JOFRCAAI0F8EMRORIJPG3UB41PUDS NS DS RRSIG
+6eboocndfne0of22a0bc3ngjcfpv7k3t.solar.	3600	in	rrsig	NSEC3 8 2 3600 20251002143147 20250911133147 59715 solar. AtqBChOa7rPKr/i+6xJ4OV7Yu6q+kNFAc5eyPmqxgNI1VYWB0d6E/oIUnxPoz99sOhv/ujKB3FDXq4Ophu0XijtqTLcCoi3svvOXdUlGK3dZh+KDFDuZ5rB+qYqwp3Oqd62oEy7V3oagi2A/0c8kxETcnO1Z0UMNW+Pb9Pnjrfk=
 6emesens.solar.	3600	in	ns	ns-166-a.gandi.net.
 6emesens.solar.	3600	in	ns	ns-45-c.gandi.net.
 6emesens.solar.	3600	in	ns	ns-9-b.gandi.net.
 6esens.solar.	3600	in	ns	ns-161-a.gandi.net.
 6esens.solar.	3600	in	ns	ns-187-c.gandi.net.
 6esens.solar.	3600	in	ns	ns-221-b.gandi.net.
-6g51krcvn72hau9ug3etr4kn7ohb1cst.solar.	3600	in	nsec3	1 1 0 73 6G8JOFRCAAI0F8EMRORIJPG3UB41PUDS NS DS RRSIG
-6g51krcvn72hau9ug3etr4kn7ohb1cst.solar.	3600	in	rrsig	NSEC3 8 2 3600 20251001212648 20250910202648 59715 solar. XJ1BMGitqxHGZ3etzfsvUBuYiQIyV/EBP7rCl+t0vf4vfLn5jdNDb5Jt5/sxA0L9U+iCsZQOGFbKV+xs5w6l8YMM+mBiPPLBFvb+EDg1BxiG1G5nITwcx0+8UQkiWK+KzSDILmNElAsH9TQBJux7myELhGDJJcvyPCTF+TGSMoI=
 6g8jofrcaai0f8emrorijpg3ub41puds.solar.	3600	in	nsec3	1 1 0 73 6HQ73UC21VV8U7TURPB02QCVVC97GJSF NS DS RRSIG
 6g8jofrcaai0f8emrorijpg3ub41puds.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. RLiM/GINBJtD8XN1gNL7fdrahPxE/biCq/1xW2uezx+32pODmzxsXp2EbgkPKR5wIno8W0STl7oX1tDhr7uMYnTtA4hsG47oOD7UWdBVYORh2zMYBQ2qz5J6iK5JB8AK0tk3vzFdCi9IsrGWhiSmC7VF1ybK2k/IV9/ODfjZddA=
 6hq73uc21vv8u7turpb02qcvvc97gjsf.solar.	3600	in	nsec3	1 1 0 73 6K7954FN8Q3D7LIVT82JLCVQGHGBSTLT NS DS RRSIG
@@ -927,8 +925,8 @@ a5rkiq7gl6pjk8jls2l46fl7j32tis7m.solar.	3600	in	nsec3	1 1 0 73 A712DIO5KIEFD9O5R
 a5rkiq7gl6pjk8jls2l46fl7j32tis7m.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. gKZtGbypKgLvVcb+MiJ0LLZhUwcwxMfT/MUdb+qGl16mVkeSBWPdT+2hhfLAbq+NR2kp6oZ4ZMS0QfqTqYFdeeZTqIywL95hiJy5KdIoyP8roLTLkqmHafYjj3AUMZsC0Fufj/pu+F1ov5oZRPIp18sloGoReJlA5DGGzIW8GAE=
 a712dio5kiefd9o5rdqa8ngnu93817jn.solar.	3600	in	nsec3	1 1 0 73 AAQLG0HOMGTP5SMOPUM81AQ8LSJPDOJI NS DS RRSIG
 a712dio5kiefd9o5rdqa8ngnu93817jn.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. WYLmdWs5SzUJ6d5rTbSoQBuaZeXUq+HhYuzs75nGLKfTPop76kzIpxu4dDIMfBpD/BCyPT+BDD5Zjs7AJcQM1i1T2liMTVdlsuh/Gqor3sehnwJNd4kfH4MoL/SY339u0fi8+oo+AgO12hVyN38OrREKMP88fCCDlUG1kEKV23U=
-aaa.solar.	3600	in	ns	ns31.domaincontrol.com.
-aaa.solar.	3600	in	ns	ns32.domaincontrol.com.
+aaa.solar.	3600	in	ns	ns1.afternic.com.
+aaa.solar.	3600	in	ns	ns2.afternic.com.
 aachen.solar.	3600	in	ns	ns1.variomedia.de.
 aachen.solar.	3600	in	ns	ns2.variomedia.de.
 aah.solar.	3600	in	ns	pdns1.registrar-servers.com.
@@ -1709,6 +1707,8 @@ alten.solar.	3600	in	ns	dns1.namecheaphosting.com.
 alten.solar.	3600	in	ns	dns2.namecheaphosting.com.
 altenergypower.solar.	3600	in	ns	ns49.domaincontrol.com.
 altenergypower.solar.	3600	in	ns	ns50.domaincontrol.com.
+alterna.solar.	3600	in	ns	ns1.dyna-ns.net.
+alterna.solar.	3600	in	ns	ns2.dyna-ns.net.
 alternateenergyamerica.solar.	3600	in	ns	ns73.domaincontrol.com.
 alternateenergyamerica.solar.	3600	in	ns	ns74.domaincontrol.com.
 alternativa.solar.	3600	in	ns	ns1040.ui-dns.com.
@@ -2004,8 +2004,8 @@ aniketbhor.solar.	3600	in	ns	ns-cloud-e4.googledomains.com.
 aniketbhor.solar.	3600	in	rrsig	DS 8 2 3600 20250930160348 20250909150348 59715 solar. rk0ft9o4Zz2RTY3vQBIqmgblgGCIKJg+gaLAAGTT6JQu8e29Cv5I9FzK5O4PyoPBWu+NixdZryJmjfRmhoUrZtO6Zfofgu7/iohzF1szseUQAdcP3P0nPRgH7hxEEWtQxlOJaYBAzz1gRFHKjh8/cCQDUx3FZCnzlfuNBjm6eqQ=
 anilloatlante.solar.	3600	in	ns	dns37.servidoresdns.net.
 anilloatlante.solar.	3600	in	ns	dns38.servidoresdns.net.
-anime.solar.	3600	in	ns	ns1.bodis.com.
-anime.solar.	3600	in	ns	ns2.bodis.com.
+anime.solar.	3600	in	ns	ns1.dns-redirect.com.
+anime.solar.	3600	in	ns	ns2.dns-redirect.com.
 anka.solar.	3600	in	ns	ns1.dns-redirect.com.
 anka.solar.	3600	in	ns	ns2.dns-redirect.com.
 anker.solar.	3600	in	ns	ns1.aftermarket.com.
@@ -2384,8 +2384,8 @@ arundel.solar.	3600	in	ns	ns33.domaincontrol.com.
 arundel.solar.	3600	in	ns	ns34.domaincontrol.com.
 arvada.solar.	3600	in	ns	ns51.domaincontrol.com.
 arvada.solar.	3600	in	ns	ns52.domaincontrol.com.
-arvo.solar.	3600	in	ns	ns1.bodis.com.
-arvo.solar.	3600	in	ns	ns2.bodis.com.
+arvo.solar.	3600	in	ns	ns1.dns-redirect.com.
+arvo.solar.	3600	in	ns	ns2.dns-redirect.com.
 asa.solar.	3600	in	ns	ns53.domaincontrol.com.
 asa.solar.	3600	in	ns	ns54.domaincontrol.com.
 asc.solar.	3600	in	ns	ns1.websupport.sk.
@@ -2817,12 +2817,16 @@ aws.solar.	3600	in	ns	ns1.markmonitor.com.
 aws.solar.	3600	in	ns	ns3.markmonitor.com.
 aws.solar.	3600	in	ns	ns4.markmonitor.com.
 aws.solar.	3600	in	ns	ns5.markmonitor.com.
+ax.solar.	3600	in	ns	leif.ns.cloudflare.com.
+ax.solar.	3600	in	ns	veda.ns.cloudflare.com.
 axc.solar.	3600	in	ns	dns1.p03.nsone.net.
 axc.solar.	3600	in	ns	dns2.p03.nsone.net.
 axc.solar.	3600	in	ns	dns3.p03.nsone.net.
 axc.solar.	3600	in	ns	dns4.p03.nsone.net.
 axendis.solar.	3600	in	ns	ns51.domaincontrol.com.
 axendis.solar.	3600	in	ns	ns52.domaincontrol.com.
+axentum.solar.	3600	in	ns	leif.ns.cloudflare.com.
+axentum.solar.	3600	in	ns	veda.ns.cloudflare.com.
 axia.solar.	3600	in	ns	ns53.domaincontrol.com.
 axia.solar.	3600	in	ns	ns54.domaincontrol.com.
 axiom.solar.	3600	in	ns	ns6.wixdns.net.
@@ -3092,8 +3096,8 @@ battleborn.solar.	3600	in	ns	ns03.domaincontrol.com.
 battleborn.solar.	3600	in	ns	ns04.domaincontrol.com.
 bau.solar.	3600	in	ns	ns61.domaincontrol.com.
 bau.solar.	3600	in	ns	ns62.domaincontrol.com.
-bauer.solar.	3600	in	ns	ns1.bodis.com.
-bauer.solar.	3600	in	ns	ns2.bodis.com.
+bauer.solar.	3600	in	ns	ns1.dns-redirect.com.
+bauer.solar.	3600	in	ns	ns2.dns-redirect.com.
 bausatz.solar.	3600	in	ns	b.ns14.net.
 bausatz.solar.	3600	in	ns	io.prolink.de.
 bavaria.solar.	3600	in	ns	ns1042.ui-dns.com.
@@ -4290,6 +4294,8 @@ byzonrolluik.solar.	3600	in	ns	hank.ns.cloudflare.com.
 byzonrolluik.solar.	3600	in	ns	ivy.ns.cloudflare.com.
 byzonscreen.solar.	3600	in	ns	hank.ns.cloudflare.com.
 byzonscreen.solar.	3600	in	ns	ivy.ns.cloudflare.com.
+c0.solar.	3600	in	ns	dns1.registrar-servers.com.
+c0.solar.	3600	in	ns	dns2.registrar-servers.com.
 c0204k8ivhoe4spatrrfsi8g5afk2pgm.solar.	3600	in	nsec3	1 1 0 73 C0KEL60P8E7CV84LNJA31CQ2II9QAO56 NS DS RRSIG
 c0204k8ivhoe4spatrrfsi8g5afk2pgm.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. EPSwkGBNgtxTwfliVAnN3X4AbSNIvr+mDUnWx0fc4qWMUpVEOl+cKbNQMbccjw9ZN+Y9tHoMQDo5i/Yjyj6fjrML20Xx+z64oXa1nfNLqn2zpYIkfM2FgobXBQSZTUwhuHK+uXd0UxjTQZI7sk1cOtJZc53CPUzGQPChJ9xhMDE=
 c0kel60p8e7cv84lnja31cq2ii9qao56.solar.	3600	in	nsec3	1 1 0 73 C0N7KFBC6PF361C3RK2LEQLGUHBO8VBR NS DS RRSIG
@@ -4789,8 +4795,6 @@ centoku.solar.	3600	in	ns	ns1.dyna-ns.net.
 centoku.solar.	3600	in	ns	ns2.dyna-ns.net.
 central-coast.solar.	3600	in	ns	ns1.cheetahhosting.com.au.
 central-coast.solar.	3600	in	ns	ns2.cheetahhosting.com.au.
-central.solar.	3600	in	ns	ns29.domaincontrol.com.
-central.solar.	3600	in	ns	ns30.domaincontrol.com.
 centralamerica.solar.	3600	in	ns	ns01.cashparking.com.
 centralamerica.solar.	3600	in	ns	ns02.cashparking.com.
 centralamerican.solar.	3600	in	ns	ns01.cashparking.com.
@@ -5427,9 +5431,6 @@ columbia.solar.	3600	in	ns	dns2.name-services.com.
 columbia.solar.	3600	in	ns	dns3.name-services.com.
 columbia.solar.	3600	in	ns	dns4.name-services.com.
 columbia.solar.	3600	in	ns	dns5.name-services.com.
-columina.solar.	3600	in	ns	ns1.wordpress.com.
-columina.solar.	3600	in	ns	ns2.wordpress.com.
-columina.solar.	3600	in	ns	ns3.wordpress.com.
 com.solar.	3600	in	ns	ns-1041.awsdns-02.org.
 com.solar.	3600	in	ns	ns-1617.awsdns-10.co.uk.
 com.solar.	3600	in	ns	ns-185.awsdns-23.com.
@@ -5560,8 +5561,6 @@ connected.solar.	3600	in	ns	ns1ksz.name.com.
 connected.solar.	3600	in	ns	ns2qvz.name.com.
 connected.solar.	3600	in	ns	ns3cpr.name.com.
 connected.solar.	3600	in	ns	ns4cfn.name.com.
-connecting.solar.	3600	in	ns	ns1.crazydomains.com.
-connecting.solar.	3600	in	ns	ns2.crazydomains.com.
 connector.solar.	3600	in	ns	ns1.afternic.com.
 connector.solar.	3600	in	ns	ns2.afternic.com.
 connectors.solar.	3600	in	ns	ns1.dns-redirect.com.
@@ -5948,8 +5947,8 @@ csun.solar.	3600	in	ns	ns-cloud-b4.googledomains.com.
 csun.solar.	3600	in	rrsig	DS 8 2 3600 20250930160348 20250909150348 59715 solar. KOXD1f7gtvMANo9dJ1y7BRNyUrHOZGYYgXKOskYGVWfDIAF1LwWJvHifmMoJvZthyc6wf4D3ld/TxbTQyJSWlA9Uz9pmm457FuRXD8FZQh7kvxmdL6OYip+qwT4mQaur8bO292FAGHhBE5MDgSNWcwgOfUn46IgOf/qzDJ4cA48=
 csusa.solar.	3600	in	ns	ns13.domaincontrol.com.
 csusa.solar.	3600	in	ns	ns14.domaincontrol.com.
-csw.solar.	3600	in	ns	ns1.bodis.com.
-csw.solar.	3600	in	ns	ns2.bodis.com.
+csw.solar.	3600	in	ns	ns1.dns-redirect.com.
+csw.solar.	3600	in	ns	ns2.dns-redirect.com.
 ct.solar.	3600	in	ns	dean.ns.cloudflare.com.
 ct.solar.	3600	in	ns	linda.ns.cloudflare.com.
 ct400quicb952mp66q9b0sq1t80okv88.solar.	3600	in	nsec3	1 1 0 73 CUFPGL3O1PAU9IC137KBS999THO3VEMR NS DS RRSIG
@@ -6482,14 +6481,14 @@ diagnostic.solar.	3600	in	ns	ns1044.ui-dns.com.
 diagnostic.solar.	3600	in	ns	ns1065.ui-dns.org.
 diagnostic.solar.	3600	in	ns	ns1087.ui-dns.de.
 diagnostic.solar.	3600	in	ns	ns1094.ui-dns.biz.
-dialog.solar.	3600	in	ns	docks19.rzone.de.
-dialog.solar.	3600	in	ns	shades07.rzone.de.
 diamant.solar.	3600	in	ns	ns1.antagus.de.
 diamant.solar.	3600	in	ns	ns2.antagus.de.
 diamond.solar.	3600	in	ns	ns1.atom.com.
 diamond.solar.	3600	in	ns	ns2.atom.com.
 diamondenergy.solar.	3600	in	ns	dns1.registrar-servers.com.
 diamondenergy.solar.	3600	in	ns	dns2.registrar-servers.com.
+dienland.solar.	3600	in	ns	ns1.dyna-ns.net.
+dienland.solar.	3600	in	ns	ns2.dyna-ns.net.
 dienstcompany.solar.	3600	in	ns	ns27.domaincontrol.com.
 dienstcompany.solar.	3600	in	ns	ns28.domaincontrol.com.
 dienstleister.solar.	3600	in	ns	elliot.ns.cloudflare.com.
@@ -6641,8 +6640,8 @@ dmv.solar.	3600	in	ns	ns1.hover.com.
 dmv.solar.	3600	in	ns	ns2.hover.com.
 dn77rhgtm3othr1h59c589nrpnpqf7bj.solar.	3600	in	nsec3	1 1 0 73 DNQNGK4JK8MD56N0MSFG8OGLAT1I5Q0A NS DS RRSIG
 dn77rhgtm3othr1h59c589nrpnpqf7bj.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. cCsQ75RtKUe1It9XhTs9UOeLSEiWcDn7w60TL8LHiOyLeMgEzivH4mPKROrEaH/9UD8DMA7r0N7bkqx0qUPvocuNyu4duhXrjLUv8bDmCQnFMNHzYVjs4jVNr/gdiNZyydzngEb/FdZH0XcojB75CGFaTE8Zx9XPDXxIVSCS0nQ=
-dnqngk4jk8md56n0msfg8oglat1i5q0a.solar.	3600	in	nsec3	1 1 0 73 DPOM4E222TVGVE0VQF72CEPAPTRSCM78 NS DS RRSIG
-dnqngk4jk8md56n0msfg8oglat1i5q0a.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. Cqn4QkfiVH8i+Pf+Zb9UwW0iDxXiYzQQg/Ch1JOxHT+oV4yU6ThUdolXuwOdquSJuFrIoH/5muQyJA96qmleHxy069tRC89M9lxT85jsdBzrlp1sNkHT28E325yebd0qbvke0SFi/lOTbJDLZZ4dG7g0VQDyAMevGbE2C+VqJ8c=
+dnqngk4jk8md56n0msfg8oglat1i5q0a.solar.	3600	in	nsec3	1 1 0 73 DUL0NF20912APF2R3I5906F698V5DG8A NS DS RRSIG
+dnqngk4jk8md56n0msfg8oglat1i5q0a.solar.	3600	in	rrsig	NSEC3 8 2 3600 20251002131745 20250911121745 59715 solar. NFqRJT7V1MI9pgr6PqGL4g0UZMXIEU+8hv+o7Ls4bR6eDx+yl7qvYTfBb+4ZU6UEU1qUe+tWmXtMD7RfKDt08UqBrpTiOIfXl5+Y/YVW1eheq7BznZ2Sws5IeahZxNu1VlHivC0/+LwGIindwQ/ydG5qLBRdDdZjzvGKwg12SRY=
 dns.solar.	3600	in	ns	dns8.dns.solar.
 dns.solar.	3600	in	ns	ns10.dns.solar.
 dns5.dns.solar.	3600	in	a	23.135.24.25
@@ -6754,8 +6753,6 @@ doug.solar.	3600	in	ns	ns1.dns-redirect.com.
 doug.solar.	3600	in	ns	ns2.dns-redirect.com.
 douglashartley.solar.	3600	in	ns	ns1.netfirms.com.
 douglashartley.solar.	3600	in	ns	ns2.netfirms.com.
-dpom4e222tvgve0vqf72cepaptrscm78.solar.	3600	in	nsec3	1 1 0 73 DUL0NF20912APF2R3I5906F698V5DG8A NS DS RRSIG
-dpom4e222tvgve0vqf72cepaptrscm78.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. Vt+aDQvgtWx2E04AIFhQTEKp+OrizsRUHgchjbsCUnoKeYFo5I+m6MJAoxOLrIf5ZvH02GZMBGwj2dMbSBqw2ZcU6BoPKDYKlT7XS9vzefiye32wKjQKy2OaZEhXGxJX5XltQR2jIARMRLl2drY6Yfx+0j3IM1gTyWk9uhSMrQQ=
 dpp.solar.	3600	in	ds	21110 13 2 3B3123ABEDE8C1420B8A82B0877C31D769F8D581D310747CE23A484D5A45B959
 dpp.solar.	3600	in	ns	ns01.one.com.
 dpp.solar.	3600	in	ns	ns02.one.com.
@@ -7117,6 +7114,8 @@ ecanopy.solar.	3600	in	ns	ns1kpv.name.com.
 ecanopy.solar.	3600	in	ns	ns2hkt.name.com.
 ecanopy.solar.	3600	in	ns	ns3gmv.name.com.
 ecanopy.solar.	3600	in	ns	ns4kmw.name.com.
+ecar.solar.	3600	in	ns	ns1.dyna-ns.net.
+ecar.solar.	3600	in	ns	ns2.dyna-ns.net.
 ecarport.solar.	3600	in	ns	ns1kpv.name.com.
 ecarport.solar.	3600	in	ns	ns2hkt.name.com.
 ecarport.solar.	3600	in	ns	ns3gmv.name.com.
@@ -7361,7 +7360,7 @@ edmondsham.solar.	3600	in	ns	dns5.name-services.com.
 edmonton.solar.	3600	in	ns	ns63.domaincontrol.com.
 edmonton.solar.	3600	in	ns	ns64.domaincontrol.com.
 edq6ij4iniof29s5h2vf37c9g4u862b2.solar.	3600	in	nsec3	1 1 0 73 EFLD0CT4HHAI2GH56QPG7166193CL1K4 NS SOA RRSIG DNSKEY NSEC3PARAM
-edq6ij4iniof29s5h2vf37c9g4u862b2.solar.	3600	in	rrsig	NSEC3 8 2 3600 20251002011942 20250911001942 59715 solar. V7mm3JExqtcNTj+q3aCUotU7Cpxo1D1G8cgsIYarEo5C1OQLzLmGMMdgz5WDtPaznUDHSsDhmC895CHwZo/Z6HX7U0kFFjmiafsgBsI/rsbcGP8QKBAaouBZQMgDKsB4q2wgpX9NnPfCMuHyHU/iqD5/y6hr8oC87hndF8KifFM=
+edq6ij4iniof29s5h2vf37c9g4u862b2.solar.	3600	in	rrsig	NSEC3 8 2 3600 20251003012650 20250912002650 59715 solar. R6qmnEASc3stCu9cFscLvWwGxcVFYn99oFa3Swnj1PlD0Dg9IZPL8qcF0wYJLZe4BHSpYxRXelbzzZceIyR11bTATrCafDYzzVOen+hypuNekapYn5oq0QogMgOL1e7f4oy22RjWCgZqUZsEopQMnQzvCqElzdoJTvLlV/FmSOg=
 educate.solar.	3600	in	ns	ns09.domaincontrol.com.
 educate.solar.	3600	in	ns	ns10.domaincontrol.com.
 eea.solar.	3600	in	ns	ns1068.ui-dns.biz.
@@ -8612,8 +8611,6 @@ estimates.solar.	3600	in	ns	ns-833.awsdns-40.net.
 estudi.solar.	3600	in	ns	ns10.hostinguk.net.
 estudi.solar.	3600	in	ns	ns11.hostinguk.net.
 estudi.solar.	3600	in	ns	ns12.hostinguk.net.
-esustainable.solar.	3600	in	ns	ns11.worldnic.com.
-esustainable.solar.	3600	in	ns	ns12.worldnic.com.
 etask.solar.	3600	in	ns	ns.udag.de.
 etask.solar.	3600	in	ns	ns.udag.net.
 etask.solar.	3600	in	ns	ns.udag.org.
@@ -9046,10 +9043,6 @@ faux.solar.	3600	in	ns	ns35.domaincontrol.com.
 faux.solar.	3600	in	ns	ns36.domaincontrol.com.
 fazenda.solar.	3600	in	ns	ns750.hostgator.com.br.
 fazenda.solar.	3600	in	ns	ns751.hostgator.com.br.
-fb88.solar.	3600	in	ds	65416 13 2 D027F5D78D3CEABDCD729E02524686E277A5694FAE6DB89449033651671A5F2D
-fb88.solar.	3600	in	ns	launch1.spaceship.net.
-fb88.solar.	3600	in	ns	launch2.spaceship.net.
-fb88.solar.	3600	in	rrsig	DS 8 2 3600 20250930160348 20250909150348 59715 solar. IIl/Hm1g3rMjX8RCIyb1/PfttVP61thXITvZ8e+6/fVrB3ef1Rq/YzIH+YehHIYOyMUqDDni29lI/se2aBIxgHaOXtfhnKypKioDBzJZ7+vPCdxpZAmgxKtVDi45x6zBiD3mrr+HcuZYFZcoRScbqPDv2Q4DiULAgXDPMDCd+AE=
 fbis.solar.	3600	in	ns	ns13.domaincontrol.com.
 fbis.solar.	3600	in	ns	ns14.domaincontrol.com.
 fc.solar.	3600	in	ns	ns1.siteground.net.
@@ -11773,8 +11766,8 @@ hit.solar.	3600	in	ns	ns1.world4you.at.
 hit.solar.	3600	in	ns	ns2.world4you.at.
 hitclub.solar.	3600	in	ns	leonard.ns.cloudflare.com.
 hitclub.solar.	3600	in	ns	susan.ns.cloudflare.com.
-hitech.solar.	3600	in	ns	ns1.bodis.com.
-hitech.solar.	3600	in	ns	ns2.bodis.com.
+hitech.solar.	3600	in	ns	ns1.dns-redirect.com.
+hitech.solar.	3600	in	ns	ns2.dns-redirect.com.
 hive.solar.	3600	in	ns	launch1.spaceship.net.
 hive.solar.	3600	in	ns	launch2.spaceship.net.
 hiveenergy.solar.	3600	in	ds	37906 8 2 168AC976053EA6CF114E7E8EF2A09AC4A970CACA68F6DCA61957B4F3DA45C0BD
@@ -12184,8 +12177,6 @@ hyperenergy.solar.	3600	in	ns	ns1120.ui-dns.de.
 hyperion.solar.	3600	in	ns	ns5.afternic.com.
 hyperion.solar.	3600	in	ns	ns6.afternic.com.
 hyperion.solar.	3600	in	ns	verification-hqd4pehktqyh9a3u97fobi.ns101.verify.hn.
-hyphen.solar.	3600	in	ns	pdns01.domaincontrol.com.
-hyphen.solar.	3600	in	ns	pdns02.domaincontrol.com.
 hytech.solar.	3600	in	ns	ns01.domaincontrol.com.
 hytech.solar.	3600	in	ns	ns02.domaincontrol.com.
 i-finity.solar.	3600	in	ns	root-dns.netcup.net.
@@ -12220,8 +12211,8 @@ i7bcvoi8tfa13qbms77lushk9b84ssas.solar.	3600	in	nsec3	1 1 0 73 I7IE64R0TUKJAIIEV
 i7bcvoi8tfa13qbms77lushk9b84ssas.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. KuxoEUsSegwP1i9dRhXvkT3DOGMF+mVV05h0EhauR9dMpfHhHZh5ZBMB7jEPgrrocoJNdOubJ1IIX916tHaG0a9uqjQPlKyJZ2k7msI+9B9Qe01QOl9OZiuKMSa8jPvT53tgcl1wH280cBOhgOvmu5Uyo9sMVHLip2esD1Lmnho=
 i7ie64r0tukjaiiev8lm22o4id000drn.solar.	3600	in	nsec3	1 1 0 73 IDSSNJII1PNVE7QJN9EL1PSB6HFLBFU8 NS DS RRSIG
 i7ie64r0tukjaiiev8lm22o4id000drn.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. qp8+gFORwW/1s2utBpHTau1GRwDc39/95+lkSyBjO/BUZ/GRN3lML4uHvrXu5J8i9J3/srNU9hWsKW674YNW8vDWMSxMGDxWF1dxnQX5ART/jpVtrGv5gfyu8bQyUcPDRSz6P+qqhIc3WocS/18u6i1CSgr5KFqiAKu+H0GXYfk=
-i9bet.solar.	3600	in	ns	ns1.bodis.com.
-i9bet.solar.	3600	in	ns	ns2.bodis.com.
+i9bet.solar.	3600	in	ns	ns1.dns-redirect.com.
+i9bet.solar.	3600	in	ns	ns2.dns-redirect.com.
 iab.solar.	3600	in	ns	docks01.rzone.de.
 iab.solar.	3600	in	ns	shades19.rzone.de.
 iam.solar.	3600	in	ns	ns14.wixdns.net.
@@ -15289,8 +15280,6 @@ markt.solar.	3600	in	ns	ns1101.ui-dns.com.
 markt.solar.	3600	in	ns	ns1102.ui-dns.biz.
 marktplatz.solar.	3600	in	ns	docks01.rzone.de.
 marktplatz.solar.	3600	in	ns	shades05.rzone.de.
-marlex.solar.	3600	in	ns	docks07.rzone.de.
-marlex.solar.	3600	in	ns	shades11.rzone.de.
 marquesina.solar.	3600	in	ns	ns1033.ui-dns.biz.
 marquesina.solar.	3600	in	ns	ns1060.ui-dns.org.
 marquesina.solar.	3600	in	ns	ns1063.ui-dns.de.
@@ -16981,6 +16970,8 @@ newyorkcommunity.solar.	3600	in	ns	ns03.gcd-dns.com.
 newyorkcommunity.solar.	3600	in	ns	ns04.gcd-dns.com.
 newyorksolar.solar.	3600	in	ns	ns49.domaincontrol.com.
 newyorksolar.solar.	3600	in	ns	ns50.domaincontrol.com.
+newyorkstate.solar.	3600	in	ns	jamie.ns.cloudflare.com.
+newyorkstate.solar.	3600	in	ns	quentin.ns.cloudflare.com.
 nexamp.solar.	3600	in	ns	dns1.registrar-servers.com.
 nexamp.solar.	3600	in	ns	dns2.registrar-servers.com.
 nexans.solar.	3600	in	ns	ns-104-a.gandi.net.
@@ -18413,12 +18404,6 @@ palmer.solar.	3600	in	ns	ns-cloud-a3.googledomains.com.
 palmer.solar.	3600	in	ns	ns-cloud-a4.googledomains.com.
 palmetto.solar.	3600	in	ns	ns75.domaincontrol.com.
 palmetto.solar.	3600	in	ns	ns76.domaincontrol.com.
-palmgrove.solar.	3600	in	ds	2371 13 2 F53F54C877588A7AD496E2B23517428A434C4F392AF70A8BEDDE3E6E89687623
-palmgrove.solar.	3600	in	ns	curitiba.ns.porkbun.com.
-palmgrove.solar.	3600	in	ns	fortaleza.ns.porkbun.com.
-palmgrove.solar.	3600	in	ns	maceio.ns.porkbun.com.
-palmgrove.solar.	3600	in	ns	salvador.ns.porkbun.com.
-palmgrove.solar.	3600	in	rrsig	DS 8 2 3600 20250930160348 20250909150348 59715 solar. Va4iXoWPHRHoq92arNAGPbSF7QmoTPQG03AFSLeRQHqB7sPXfMrGJMxPDNXL1WH/jvERNLLbEg3MdausvlIEekpue245jrhlX9BnK2uBAe9ckE2H0Jxz5nB/MNT5yg5lkr5zsWLyYxaTB4plJL4PUcA1MIjMbXGoPDqPSKU9+t8=
 pals.solar.	3600	in	ns	ns1.dns-redirect.com.
 pals.solar.	3600	in	ns	ns2.dns-redirect.com.
 palz.solar.	3600	in	ns	ns1.bluehost.com.
@@ -19755,8 +19740,8 @@ proper.solar.	3600	in	ns	ns-cloud-c1.googledomains.com.
 proper.solar.	3600	in	ns	ns-cloud-c2.googledomains.com.
 proper.solar.	3600	in	ns	ns-cloud-c3.googledomains.com.
 proper.solar.	3600	in	ns	ns-cloud-c4.googledomains.com.
-property.solar.	3600	in	ns	ns1.atom.com.
-property.solar.	3600	in	ns	ns2.atom.com.
+property.solar.	3600	in	ns	ns1.dyna-ns.net.
+property.solar.	3600	in	ns	ns2.dyna-ns.net.
 proposal.solar.	3600	in	ns	dns1.registrar-servers.com.
 proposal.solar.	3600	in	ns	dns2.registrar-servers.com.
 proq.solar.	3600	in	ns	ns1038.ui-dns.de.
@@ -20430,8 +20415,6 @@ ralo.solar.	3600	in	ns	ns-cloud-a4.googledomains.com.
 ralo.solar.	3600	in	rrsig	DS 8 2 3600 20250930160348 20250909150348 59715 solar. YonZJRqEwz1aq89FCxnbnqqXL/3cQ85nq2qRJLWh8mmmoHcQJFQ9hSxpPQosaG18WN+mL1zDkyp/S5OKZfi9h+fBCio6OduboBoJn3HsQ5xn0l2RER+acE5Rs/04Jpn6O7bG2B7mZnW5tChRW/EjgJOyK0RnlKDcn+ts3uJ9zHs=
 ralos.solar.	3600	in	ns	houston.ns.cloudflare.com.
 ralos.solar.	3600	in	ns	sreeni.ns.cloudflare.com.
-ram.solar.	3600	in	ns	ns29.domaincontrol.com.
-ram.solar.	3600	in	ns	ns30.domaincontrol.com.
 ramp.solar.	3600	in	ns	ns1.bluehost.com.
 ramp.solar.	3600	in	ns	ns2.bluehost.com.
 rancho.solar.	3600	in	ns	ns63.domaincontrol.com.
@@ -20909,6 +20892,10 @@ reservemy.solar.	3600	in	ns	ns-cloud-e2.googledomains.com.
 reservemy.solar.	3600	in	ns	ns-cloud-e3.googledomains.com.
 reservemy.solar.	3600	in	ns	ns-cloud-e4.googledomains.com.
 reservemy.solar.	3600	in	rrsig	DS 8 2 3600 20250930160348 20250909150348 59715 solar. MTIW/Jr/W0SDsJ88z7j0aW8bI95Mr9g4uiau+b5yrYa5a4lMChvIetzCkHAPF7VH6CPaBDShh/ueWrPE1KS3t9fcsbX/y30udeIYooBRGYJU4jBy5fanUDHyIgmakcyXwwHsTudwitiZ/fxmGL7PCFnjtcbI/x3/NntzWbERs3A=
+reshape.solar.	3600	in	ns	ns1027.ui-dns.org.
+reshape.solar.	3600	in	ns	ns1052.ui-dns.de.
+reshape.solar.	3600	in	ns	ns1105.ui-dns.com.
+reshape.solar.	3600	in	ns	ns1106.ui-dns.biz.
 resi.solar.	3600	in	ns	ns19.domaincontrol.com.
 resi.solar.	3600	in	ns	ns20.domaincontrol.com.
 residential.solar.	3600	in	ns	ns31.domaincontrol.com.
@@ -23028,7 +23015,7 @@ solar.	3600	in	nsec3param	1 0 0 73
 solar.	3600	in	rrsig	DNSKEY 8 1 3600 20250930160348 20250909150348 55894 solar. IA5ujXop36UTz3qqUsjc7YKcPvFHEW/Up8OFoaEe9YIyUlk/IGY5NP5RMO0K+ZBra6ot/f+OcFq2p+Ky3ornbB4C8o4U3xsuYtnf5sEEqaOdwD3MHLBXrH6F0B4VFX4Mqs1w99y0G8wKgB2dU9GVOKtRKiFqH5RF2Rp0VfmC5a6xDFO8/KWMzhb9UUGF5PEeavNX0Gmi6Kr+F65LeqlZWxCGdoLDPTlykk9sMIfYfOuIq1tTjiH66dS1YUcv0skHXOPrfD4NTke35TI56vPblempdWh3eeFbFfgJDrIgLLU2jmAVzJ1XKrosd2/mVHewCs0aGgdAFQMhE+XRib21Jw==
 solar.	3600	in	rrsig	NS 8 1 3600 20250930160348 20250909150348 59715 solar. rg4/SamsqQkoEBjJWyZuIXrzA+70c4v6sO1EvDCLq3h8cHUR6XC5i2C9+aomvBijM8Nsr2mYTyN/Z/UMPg3SnJdsweCxhZQEJXCveVgnIUTHJorLsyYvOwTaCN96Pm20AW3aAbV9PCIQ/OQNz80brPbdtNqB6zTS0vsfpQ+vnY0=
 solar.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930160348 20250909150348 59715 solar. MmB2CcO1lDB3Eb1Plqc22D/ej+UxIVehqsjoznShEdcUQY+IFFiU/BpEPpoyfedZ2uWoVNXLhJBht/i2aMzW7vYg0J31oVWy92QwXxEHdJc7EJfFom5n3RpFC+ColefejX0SCCtbYxsGHAqn+JdNrapm7EqjHQSssrBtV11ttus=
-solar.	3600	in	rrsig	SOA 8 1 3600 20251002011942 20250911001942 59715 solar. eQzfz7negPzvELE93uhTml+CO1oiNFvaBBhrLzWR2CuiNGnriyA7UgLzyfGEugFgL6WeYfklWVsduPHs9Sda5uApsGUGraWUOr3FMIyGiytEnQHnjyAtcKJ2JvHDWOcng1MmUZQ3NgnfZfyu1nCieSVZqCtLlrZoWYVWxa9tIyo=
+solar.	3600	in	rrsig	SOA 8 1 3600 20251003012650 20250912002650 59715 solar. eBlkBiQhsuqOMLIVQxrAHVYcCLYLZMbxDwbHfYTYDMn3Nb4KDljeAPuBlTBlQDmbHv1JPe5xdRpluHA4vYLcX6IWwAhxT0ifHD4jpGCbnMSDyiSYcj7bDZSRDg7iTibfxJFQmMMQxAMx/Mof8vNGANC9DdlUx/EOlszcspRefEc=
 solar.solar.	3600	in	ns	ns1.dyna-ns.net.
 solar.solar.	3600	in	ns	ns2.dyna-ns.net.
 solar101.solar.	3600	in	ns	ns49.domaincontrol.com.
@@ -23242,6 +23229,10 @@ solarhome.solar.	3600	in	ns	ns49.domaincontrol.com.
 solarhome.solar.	3600	in	ns	ns50.domaincontrol.com.
 solarhotwater.solar.	3600	in	ns	ns45.domaincontrol.com.
 solarhotwater.solar.	3600	in	ns	ns46.domaincontrol.com.
+solaria.solar.	3600	in	ns	ns1cny.name.com.
+solaria.solar.	3600	in	ns	ns2ckr.name.com.
+solaria.solar.	3600	in	ns	ns3jkl.name.com.
+solaria.solar.	3600	in	ns	ns4hny.name.com.
 solarien.solar.	3600	in	ns	aiden.ns.cloudflare.com.
 solarien.solar.	3600	in	ns	tegan.ns.cloudflare.com.
 solarify.solar.	3600	in	ns	dns11.firestorm.ch.
@@ -23763,8 +23754,8 @@ solpower.solar.	3600	in	ns	ns-cloud-e3.googledomains.com.
 solpower.solar.	3600	in	ns	ns-cloud-e4.googledomains.com.
 solpro.solar.	3600	in	ns	ns29.domaincontrol.com.
 solpro.solar.	3600	in	ns	ns30.domaincontrol.com.
-solpros.solar.	3600	in	ns	ns1.dns-parking.com.
-solpros.solar.	3600	in	ns	ns2.dns-parking.com.
+solpros.solar.	3600	in	ns	ns67.domaincontrol.com.
+solpros.solar.	3600	in	ns	ns68.domaincontrol.com.
 solrif-net.solar.	3600	in	ns	ns1.emailverification.info.
 solrif-net.solar.	3600	in	ns	ns2.emailverification.info.
 solrif.solar.	3600	in	ns	ns1-35.azure-dns.com.
@@ -26067,8 +26058,8 @@ tata.solar.	3600	in	ns	ns1.hiya.digital.
 tata.solar.	3600	in	ns	ns2.hiya.digital.
 tata.solar.	3600	in	ns	ns3.hiya.digital.
 tata.solar.	3600	in	ns	ns4.hiya.digital.
-tate.solar.	3600	in	ns	ns1.bodis.com.
-tate.solar.	3600	in	ns	ns2.bodis.com.
+tate.solar.	3600	in	ns	ns1.dns-redirect.com.
+tate.solar.	3600	in	ns	ns2.dns-redirect.com.
 tatra.solar.	3600	in	ns	ns-cloud-b1.googledomains.com.
 tatra.solar.	3600	in	ns	ns-cloud-b2.googledomains.com.
 tatra.solar.	3600	in	ns	ns-cloud-b3.googledomains.com.
@@ -26263,10 +26254,8 @@ terra-mar-usa.solar.	3600	in	ns	ns3nrz.name.com.
 terra-mar-usa.solar.	3600	in	ns	ns4bty.name.com.
 terra-natal.solar.	3600	in	ns	ns5.kasserver.com.
 terra-natal.solar.	3600	in	ns	ns6.kasserver.com.
-terra.solar.	3600	in	ds	6021 13 2 9CED86CE5EAE619288D1AA07745C5DC4583D6FB88F45794B419AB9A3468EECEF
-terra.solar.	3600	in	ns	launch1.spaceship.net.
-terra.solar.	3600	in	ns	launch2.spaceship.net.
-terra.solar.	3600	in	rrsig	DS 8 2 3600 20251001212648 20250910202648 59715 solar. miHHaTN47UssIW7XGaUeRNRj66aAYCuRYOt5jyI31FlcPwS8Ur8qAWvo1P6dWh/0n5dGdxgven48GUkPsli92zn+gzSWr0brpDNYakiuBwMqcqAve/yIJ+D0V2mYoeqM1JWOrMVIXspN9IjDQduWMDWurn1p+p8VuACEXNoWiPo=
+terra.solar.	3600	in	ns	ns1.afternic.com.
+terra.solar.	3600	in	ns	ns2.afternic.com.
 terrachange.solar.	3600	in	ns	ns43.domaincontrol.com.
 terrachange.solar.	3600	in	ns	ns44.domaincontrol.com.
 terracon.solar.	3600	in	ns	nsa7.schlundtech.de.
@@ -27185,8 +27174,8 @@ ua.solar.	3600	in	ns	nsc4.srv53.net.
 ua.solar.	3600	in	ns	nsd1.srv53.org.
 ua.solar.	3600	in	ns	nsd3.srv53.net.
 ua.solar.	3600	in	ns	nsd4.srv53.com.
-ua90srsd34opo91k66brhr1svki2c5k1.solar.	3600	in	nsec3	1 1 0 73 UIAR46ACKN1U0SJNMMR556DN3HT5NDTM NS DS RRSIG
-ua90srsd34opo91k66brhr1svki2c5k1.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. LQqStpo80QDe9w9i0QYYk3pQ8J9mtyIfbOpz3ZuIPOVw9xopbKu8hK1nXL6GQO2Pt7s74hRZKNYxS/9RC2gB8as7mu8B/pkHm364xjdEbKZzgp9VkGsMTbsX7gEyvhaivruZh7YWgVr/KC3e6kdflf5CGyjESx2WKXheyHAxTeg=
+ua90srsd34opo91k66brhr1svki2c5k1.solar.	3600	in	nsec3	1 1 0 73 UIEUEJ4296JS99HGF75O95IGCP34UIA2 NS DS RRSIG
+ua90srsd34opo91k66brhr1svki2c5k1.solar.	3600	in	rrsig	NSEC3 8 2 3600 20251002181345 20250911171345 59715 solar. UQ6d6RP6lqsRXsHC60ZDtjfMTI7OW5pT2yASROYTtXBbHVnDxwT5EB8k/ymq6HGNP+9TxCG8I/G/x9iShjWmY7hkSiWBIxgQmdt/MDlwd0mhDnHy6X4U5o18H6QuP1rREfaa/gcBq93j5qRxdey68YjqnzTKjLakc0fePkTQYfM=
 uae.solar.	3600	in	ns	ns1.sawsells.com.
 uae.solar.	3600	in	ns	ns2.sawsells.com.
 ubh.solar.	3600	in	ns	dns1.p05.nsone.net.
@@ -27249,8 +27238,6 @@ ugo.solar.	3600	in	ns	ns14.dnsmadeeasy.com.
 uhl.solar.	3600	in	ns	cns1.cloudpit.de.
 uhl.solar.	3600	in	ns	cns2.cloudpit.com.
 uhl.solar.	3600	in	ns	cns3.cloudpit.io.
-uiar46ackn1u0sjnmmr556dn3ht5ndtm.solar.	3600	in	nsec3	1 1 0 73 UIEUEJ4296JS99HGF75O95IGCP34UIA2 NS DS RRSIG
-uiar46ackn1u0sjnmmr556dn3ht5ndtm.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. WmfWdiahWZEvhDpET7zyllOh/Rz3ukl2JZJcPd6PSVlhA0Wgya+j1S79513y8ZN8nRA6Mf2U0jX2o8Z7wn3sb5GWYlUi/7YM835xmL1XsGG1sYILcaK1/ZCavNrX8XtDtFOwVvc35SZe3fsisVvhZUQwB1KlybXkAj2BWhvIEvM=
 uieuej4296js99hgf75o95igcp34uia2.solar.	3600	in	nsec3	1 1 0 73 UIUKJ0VS71FAINCDJH0CLQ6NLOQ0OCVC NS DS RRSIG
 uieuej4296js99hgf75o95igcp34uia2.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. olCWhwGF9bkJ2wnKyp6fWqebbMEvDWg9214L5g6BaZRCuXNsXkG6V9Rie4MBPJwl/po4CEQtIXNx5z8QZ3PCk8UeO8uoagsmGr0HPKeXrQ123s9/JxauMCiBSkxUVYizkrH96Xj+E9DlIckk74SLMQ6FeTy3WC907mF9FCwK/1M=
 uiukj0vs71faincdjh0clq6nloq0ocvc.solar.	3600	in	nsec3	1 1 0 73 UOAKNH0MPCM7JTB5HLMF2K3LNKSETPA0 NS DS RRSIG
@@ -27387,8 +27374,6 @@ unlimitedengagement.solar.	3600	in	ns	ns17.domaincontrol.com.
 unlimitedengagement.solar.	3600	in	ns	ns18.domaincontrol.com.
 unlimitedfinancials.solar.	3600	in	ns	ns41.domaincontrol.com.
 unlimitedfinancials.solar.	3600	in	ns	ns42.domaincontrol.com.
-unlock.solar.	3600	in	ns	ns37.domaincontrol.com.
-unlock.solar.	3600	in	ns	ns38.domaincontrol.com.
 unltd.solar.	3600	in	ns	ns51.domaincontrol.com.
 unltd.solar.	3600	in	ns	ns52.domaincontrol.com.
 unmetered.solar.	3600	in	ns	ns63.domaincontrol.com.
@@ -28230,8 +28215,8 @@ vvgpb2qjkdm8ejnl16ne60lrusledvsr.solar.	3600	in	nsec3	1 1 0 73 00TBR9QR6J4U64RAA
 vvgpb2qjkdm8ejnl16ne60lrusledvsr.solar.	3600	in	rrsig	NSEC3 8 2 3600 20250930160348 20250909150348 59715 solar. dCBGDaRoSYKJquY0Omyi/mRFN6ujgdvBlS2MHOk79FCPDL7RykIFP1yTObJrlBzcUdx8xe2Lw03Nw4tf1fPecmwzQyztyzCUFhaO10XNpFjgm8F4TematafsNCZHgBJ7Li1Y5oSh2p4e8/rgeSAkW8qNpVy5AsI9CAL1p32aaLU=
 vz99.solar.	3600	in	ns	ainsley.ns.cloudflare.com.
 vz99.solar.	3600	in	ns	evan.ns.cloudflare.com.
-w88.solar.	3600	in	ns	ns1.bodis.com.
-w88.solar.	3600	in	ns	ns2.bodis.com.
+w88.solar.	3600	in	ns	ns1.dns-redirect.com.
+w88.solar.	3600	in	ns	ns2.dns-redirect.com.
 waechter.solar.	3600	in	ns	ns1.oz-dns.de.
 waechter.solar.	3600	in	ns	ns2.oz-dns.de.
 waerme.solar.	3600	in	ns	cns1.cloudpit.de.
@@ -29063,6 +29048,8 @@ xxkk.solar.	3600	in	ns	ns20.domaincontrol.com.
 xxl.solar.	3600	in	ns	ns.udag.de.
 xxl.solar.	3600	in	ns	ns.udag.net.
 xxl.solar.	3600	in	ns	ns.udag.org.
+xxx.solar.	3600	in	ns	ns1.google.com.
+xxx.solar.	3600	in	ns	ns2.google.com.
 xyx.solar.	3600	in	ns	duke.ns.cloudflare.com.
 xyx.solar.	3600	in	ns	zara.ns.cloudflare.com.
 xyz.solar.	3600	in	ns	ns1.dan.com.
@@ -29445,4 +29432,4 @@ zzz-fr-b11.solar.	3600	in	ns	a.ns14.net.
 zzz-fr-b11.solar.	3600	in	ns	b.ns14.net.
 zzz-fr-b11.solar.	3600	in	ns	c.ns14.net.
 zzz-fr-b11.solar.	3600	in	ns	d.ns14.net.
-solar.	3600	in	soa	v0n0.nic.solar. hostmaster.donuts.email. 1757553237 7200 900 1209600 3600
+solar.	3600	in	soa	v0n0.nic.solar. hostmaster.donuts.email. 1757640083 7200 900 1209600 3600
