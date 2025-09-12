@@ -1,4 +1,4 @@
-report.	3600	in	soa	v0n0.nic.report. hostmaster.donuts.email. 1757553896 7200 900 1209600 3600
+report.	3600	in	soa	v0n0.nic.report. hostmaster.donuts.email. 1757639473 7200 900 1209600 3600
 002ent.report.	3600	in	ns	ns10.wixdns.net.
 002ent.report.	3600	in	ns	ns11.wixdns.net.
 007.report.	3600	in	ds	41080 8 2 4901AEC56FBC708FDC1F0C4F9A6D89BFE59C1EDD193F7FE60F480F3FB487E8A4
@@ -702,8 +702,8 @@ report.	3600	in	soa	v0n0.nic.report. hostmaster.donuts.email. 1757553896 7200 90
 7vhlqgj61ap3ed27mk7hhmmgfp2ddhec.report.	3600	in	rrsig	NSEC3 8 2 3600 20250930161454 20250909151454 33750 report. Ck5Od9cQEB0n9d+fLsSSGVtg73bSD5ugNUBOtNVM0A/GhYVH3t53RlpSuJgPayclPlW6DQRwSKn/U/zigtu7UOY8gS2CH5dTGTjzqdlQ3JaBWdkJSTwEVZ5wxSDyDhcMTimjQekHOycc/pUy9KJHmB2fn9I/bAEnh2vJOZ9PNZE=
 7vokb19rb4bq8m7vk3mba262a20c1v6p.report.	3600	in	nsec3	1 1 0 73 80A9AJ31TE4N4PE73LQADDE6QUF5R30V NS DS RRSIG
 7vokb19rb4bq8m7vk3mba262a20c1v6p.report.	3600	in	rrsig	NSEC3 8 2 3600 20250930161454 20250909151454 33750 report. dL9Plr1r2BW7oktjAToO85qhcGaAIQB41Guhx4dVvQCT+O/l0w71G20vUt/POeomZR1u3+TTUgDdnGuhKINnR1Y2xHVTR9R6gNwomJ56f6/HFtMxcquR8BYgIjevWjEOgvIRQuFfm3Ho9i9zfljh+k3Sr0sMycJ/e46kSUtEF3g=
-802.report.	3600	in	ns	ns1.bodis.com.
-802.report.	3600	in	ns	ns2.bodis.com.
+802.report.	3600	in	ns	ns1.dns-redirect.com.
+802.report.	3600	in	ns	ns2.dns-redirect.com.
 80a9aj31te4n4pe73lqadde6quf5r30v.report.	3600	in	nsec3	1 1 0 73 824V6QGO6O8OALU6MKPHUUFEAIV90NLA NS DS RRSIG
 80a9aj31te4n4pe73lqadde6quf5r30v.report.	3600	in	rrsig	NSEC3 8 2 3600 20250930161454 20250909151454 33750 report. afQp5xssCTtbccK5yS4pRe19gOEM8KywWhS8zfmh6GuQ6BtyFof9A3uRvUsGsu9VK4ftqpv1l+XugQi4VqyrKXmTSGYhv5qLSg8/TaiKH1K3ayyvVHC38o0kiEWHydYtbayhPSEvroszX2Hqweoa3zANjVeSqASTMpwfv5gZzQw=
 824v6qgo6o8oalu6mkphuufeaiv90nla.report.	3600	in	nsec3	1 1 0 73 8252KK4CLA63FGAVNJ3FJ4L7IK2P4KSO NS DS RRSIG
@@ -738,10 +738,8 @@ report.	3600	in	soa	v0n0.nic.report. hostmaster.donuts.email. 1757553896 7200 90
 888.report.	3600	in	ns	ns2.sav.com.
 888888.report.	3600	in	ns	ns11.domaincontrol.com.
 888888.report.	3600	in	ns	ns12.domaincontrol.com.
-888b.report.	3600	in	ds	10512 13 2 348AEBF25D16C4A7EF75F1061F76A8FC5D3D582C8F0BCCC948D4127CD1ABCD96
-888b.report.	3600	in	ns	launch1.spaceship.net.
-888b.report.	3600	in	ns	launch2.spaceship.net.
-888b.report.	3600	in	rrsig	DS 8 2 3600 20250930161454 20250909151454 33750 report. by0hFguBLh5CEcthO9LsQpH/JvE/KknYk3Tn658TTarnWwdetYvZG3RI2QGn6kEFKwdAHI3Q2y/cfQu7T00d+yvfnATK98aLeAzDyQEp9l9zO24Z5iO7t9/tuOETGXlDNxIYoUPlA5XsQ5J413qymRhNbB/hXn3T90rpxkFIYIQ=
+888b.report.	3600	in	ns	leonard.ns.cloudflare.com.
+888b.report.	3600	in	ns	susan.ns.cloudflare.com.
 888starz.report.	3600	in	ns	dns1.registrar-servers.com.
 888starz.report.	3600	in	ns	dns2.registrar-servers.com.
 88aa.report.	3600	in	ns	pdns11.domaincontrol.com.
@@ -965,8 +963,10 @@ abie.report.	3600	in	ns	ns-cloud-d1.googledomains.com.
 abie.report.	3600	in	ns	ns-cloud-d2.googledomains.com.
 abie.report.	3600	in	ns	ns-cloud-d3.googledomains.com.
 abie.report.	3600	in	ns	ns-cloud-d4.googledomains.com.
-ability.report.	3600	in	ns	ns65.domaincontrol.com.
-ability.report.	3600	in	ns	ns66.domaincontrol.com.
+ability.report.	3600	in	ds	50920 13 2 2D0D89262CE28CF65DF5B2D37ADBF06C607168AE8E3375B77C0D01C4F3BAB64A
+ability.report.	3600	in	ns	ns01.one.com.
+ability.report.	3600	in	ns	ns02.one.com.
+ability.report.	3600	in	rrsig	DS 8 2 3600 20251002160903 20250911150903 33750 report. ObgqXCQ66eouUgwpo2+bhfgz4aN6zmw99WZ+Aw4MoHofE0P7mcp1q2HNsoUjaQTI3GiEMZigY0YDbuUpqX3SLJNAdLfEQvEK85Z/Nn2fHcWOg+GMSBBJBjovYPdOXCb+3FDICJnQR/JKraw06nrV7nWtOQKpV27uBfGxxJw2s28=
 abiondmarc.report.	3600	in	ns	dns01.dipcon.com.
 abiondmarc.report.	3600	in	ns	dns02.ports.se.
 abiondmarc.report.	3600	in	ns	dns03.ports.se.
@@ -1159,8 +1159,8 @@ addictiondata.report.	3600	in	ns	ns1.hover.com.
 addictiondata.report.	3600	in	ns	ns2.hover.com.
 addoomde.report.	3600	in	ns	galilea.ns.cloudflare.com.
 addoomde.report.	3600	in	ns	george.ns.cloudflare.com.
-address.report.	3600	in	ns	ns1.bodis.com.
-address.report.	3600	in	ns	ns2.bodis.com.
+address.report.	3600	in	ns	ns1.dns-redirect.com.
+address.report.	3600	in	ns	ns2.dns-redirect.com.
 adenso.report.	3600	in	ns	ns.checkdomain.de.
 adenso.report.	3600	in	ns	ns2.checkdomain.de.
 adgm.report.	3600	in	ns	dns101.registrar-servers.com.
@@ -1265,8 +1265,8 @@ aeer.report.	3600	in	ns	ns-233.awsdns-29.com.
 aeer.report.	3600	in	ns	ns-665.awsdns-19.net.
 aefpvs5p0g5ov5l1u7ghlbuj9pq3hbn9.report.	3600	in	nsec3	1 1 0 73 AEVGN4H6R3NP3B5B3VLJJE2E41JT1E1C NS DS RRSIG
 aefpvs5p0g5ov5l1u7ghlbuj9pq3hbn9.report.	3600	in	rrsig	NSEC3 8 2 3600 20250930161454 20250909151454 33750 report. Jt5srr3t+gMAumhuxnunyFAP05jI1ZGNAjarLjynLn8JWU8Y4jvJo+nLur8anTiT65Cl2S5H1Gy4S4/ww2wl//R4M5tKIh6YuBKbrFzrDBbhQG6h+X1fZikb/nnJHExFcyZ+mGIvg3ccjLDN/6WiOM4eNcmxRuOcJO8YSjx+hK4=
-aegis.report.	3600	in	ns	ns1.bodis.com.
-aegis.report.	3600	in	ns	ns2.bodis.com.
+aegis.report.	3600	in	ns	ns1.dns-redirect.com.
+aegis.report.	3600	in	ns	ns2.dns-redirect.com.
 aerodigital.report.	3600	in	ds	4486 8 2 D7414A418B71FAFBFB7A394E427CF06990D418A84070B97E8C8FDEA91B06B1AC
 aerodigital.report.	3600	in	ns	ns-cloud-c1.googledomains.com.
 aerodigital.report.	3600	in	ns	ns-cloud-c2.googledomains.com.
@@ -1941,8 +1941,8 @@ alx.report.	3600	in	ns	ns-238.awsdns-29.com.
 alx.report.	3600	in	ns	ns-519.awsdns-00.net.
 am.report.	3600	in	ns	dean.ns.cloudflare.com.
 am.report.	3600	in	ns	sierra.ns.cloudflare.com.
-ama.report.	3600	in	ns	ns1.bodis.com.
-ama.report.	3600	in	ns	ns2.bodis.com.
+ama.report.	3600	in	ns	ns1.dns-redirect.com.
+ama.report.	3600	in	ns	ns2.dns-redirect.com.
 amag.report.	3600	in	ns	ns1.rrpproxy.net.
 amag.report.	3600	in	ns	ns2.rrpproxy.net.
 amag.report.	3600	in	ns	ns3.rrpproxy.net.
@@ -2665,8 +2665,8 @@ atencionclientes.report.	3600	in	ns	curitiba.ns.porkbun.com.
 atencionclientes.report.	3600	in	ns	fortaleza.ns.porkbun.com.
 atencionclientes.report.	3600	in	ns	maceio.ns.porkbun.com.
 atencionclientes.report.	3600	in	ns	salvador.ns.porkbun.com.
-athena.report.	3600	in	ns	hank.ns.cloudflare.com.
-athena.report.	3600	in	ns	zoe.ns.cloudflare.com.
+athena.report.	3600	in	ns	ns.parktons.com.
+athena.report.	3600	in	ns	ns2.parktons.com.
 athlete.report.	3600	in	ns	ns1.domain.com.
 athlete.report.	3600	in	ns	ns2.domain.com.
 atis.report.	3600	in	ns	lunlun.ns.giantpanda.com.
@@ -3110,7 +3110,7 @@ bag.report.	3600	in	ns	ns2.uniregistry-dns.net.
 bagel.report.	3600	in	ns	luke.ns.cloudflare.com.
 bagel.report.	3600	in	ns	rosemary.ns.cloudflare.com.
 bagj5qb3g41tg1akdrn3vuu9kdocdqir.report.	3600	in	nsec3	1 1 0 73 BBI34S6POG1LPUO48HOSF9CM26TGOMQ0 NS SOA RRSIG DNSKEY NSEC3PARAM
-bagj5qb3g41tg1akdrn3vuu9kdocdqir.report.	3600	in	rrsig	NSEC3 8 2 3600 20251002013058 20250911003058 33750 report. Cj8ZIV1CUX1tVaYhXZbwCOhptz2Ot67dtAZZGQh0XlEYbvAPblnqbWsBHfGfWyIfhg0iAYaUNNjVqeV4VfEJg1GjJ9TZJNrSAScC1ypD4dRBY02vwcyGYWs0uG/L1qOyRBOv6BskGI4nhHv9jAAxhKZkbHq6Zv5vOMHSDgKp0po=
+bagj5qb3g41tg1akdrn3vuu9kdocdqir.report.	3600	in	rrsig	NSEC3 8 2 3600 20251003011700 20250912001700 33750 report. AP4wDmwU2On0BDZRotWoO3gLLL/lKhfmkVSFYXuqUGGkw0cCOOvWjnUbz5fg0IRKSs3F4axEvTwetW52Jd8Uqn1B9TEN94uLLyPqxMi3pHCjQ1UoMYLqDkFNjXYqhZsEdngrBQpgmmCT7guPYbIDChDDFSw0LoCohahtcEVqLGY=
 bahai.report.	3600	in	ns	elsa.ns.cloudflare.com.
 bahai.report.	3600	in	ns	shane.ns.cloudflare.com.
 bahaistb.report.	3600	in	ns	mina.ns.cloudflare.com.
@@ -4080,6 +4080,10 @@ blueorigin.report.	3600	in	ns	priscilla.ns.cloudflare.com.
 blueorigin.report.	3600	in	ns	seth.ns.cloudflare.com.
 bluepierecords.report.	3600	in	ns	ns19.domaincontrol.com.
 bluepierecords.report.	3600	in	ns	ns20.domaincontrol.com.
+bluerain.report.	3600	in	ns	curitiba.ns.porkbun.com.
+bluerain.report.	3600	in	ns	fortaleza.ns.porkbun.com.
+bluerain.report.	3600	in	ns	maceio.ns.porkbun.com.
+bluerain.report.	3600	in	ns	salvador.ns.porkbun.com.
 blueskyenergy.report.	3600	in	ns	dns103.register.com.
 blueskyenergy.report.	3600	in	ns	dns104.register.com.
 bluestate.report.	3600	in	ns	ns-cloud-c1.googledomains.com.
@@ -5494,6 +5498,8 @@ charitablegiving.report.	3600	in	ns	ns-cloud-b2.googledomains.com.
 charitablegiving.report.	3600	in	ns	ns-cloud-b3.googledomains.com.
 charitablegiving.report.	3600	in	ns	ns-cloud-b4.googledomains.com.
 charitablegiving.report.	3600	in	rrsig	DS 8 2 3600 20250930161454 20250909151454 33750 report. HROQ8a+5RGm3r9jb4tawhysjCfgy1e3Cz6FkyFanrSWkL3NPrXBQaq29vUHSqLZNdferze9n3xpP8UqpLHFyzdD11yXalrpMqJs0oEL6R6Vx9v6OIyBlDF/iskTzUMnL44m4blmWQCAnJSX+bcO5sqyiawiwhwLr+h/f1fOkmQM=
+charliekirkacademy.report.	3600	in	ns	dns1.registrar-servers.com.
+charliekirkacademy.report.	3600	in	ns	dns2.registrar-servers.com.
 charlotte.report.	3600	in	ns	ns1.afternic.com.
 charlotte.report.	3600	in	ns	ns2.afternic.com.
 charqu.report.	3600	in	ns	aron.ns.cloudflare.com.
@@ -5508,8 +5514,8 @@ chart.report.	3600	in	ns	ns-cloud-e2.googledomains.com.
 chart.report.	3600	in	ns	ns-cloud-e3.googledomains.com.
 chart.report.	3600	in	ns	ns-cloud-e4.googledomains.com.
 chart.report.	3600	in	rrsig	DS 8 2 3600 20250930161454 20250909151454 33750 report. NldoORLzAextafPSC4/PuYuup5U/pQs/NnMGL5n4nBbWaj9aCbzrkfY/jYx4xpbPh5rGN0QpikBMUeJh5hAiJc5EvEvOWTQqiUY7YdCKoFZCpmBdTlImQf9tNrZlAQgn/2BjdKtaKdJlkoToNHxMweMxaoyQuigXeMwDIVMUVrY=
-charts.report.	3600	in	ns	ns1.bodis.com.
-charts.report.	3600	in	ns	ns2.bodis.com.
+charts.report.	3600	in	ns	ns1.dns-redirect.com.
+charts.report.	3600	in	ns	ns2.dns-redirect.com.
 chat-financial.report.	3600	in	ns	elly.ns.cloudflare.com.
 chat-financial.report.	3600	in	ns	elmo.ns.cloudflare.com.
 chat.report.	3600	in	ns	ns-cloud-b1.googledomains.com.
@@ -7479,6 +7485,8 @@ dataoctopus.report.	3600	in	ns	ns1049.ui-dns.org.
 dataoctopus.report.	3600	in	ns	ns1063.ui-dns.com.
 dataoctopus.report.	3600	in	ns	ns1084.ui-dns.de.
 dataoctopus.report.	3600	in	ns	ns1092.ui-dns.biz.
+dataportal.report.	3600	in	ns	ns67.domaincontrol.com.
+dataportal.report.	3600	in	ns	ns68.domaincontrol.com.
 dataprivacy.report.	3600	in	ns	dns1.registrar-servers.com.
 dataprivacy.report.	3600	in	ns	dns2.registrar-servers.com.
 dataprotection.report.	3600	in	ns	ns1.sawsells.com.
@@ -7522,8 +7530,8 @@ dax.report.	3600	in	ns	ns1.dns-redirect.com.
 dax.report.	3600	in	ns	ns2.dns-redirect.com.
 day.report.	3600	in	ns	ns03.domaincontrol.com.
 day.report.	3600	in	ns	ns04.domaincontrol.com.
-daybreak.report.	3600	in	ns	dns1.registrar-servers.com.
-daybreak.report.	3600	in	ns	dns2.registrar-servers.com.
+daybreak.report.	3600	in	ns	dns101.registrar-servers.com.
+daybreak.report.	3600	in	ns	dns102.registrar-servers.com.
 daytrading.report.	3600	in	ns	ns1.amaraq.net.
 daytrading.report.	3600	in	ns	ns2.amaraq.net.
 dayzero.report.	3600	in	ns	ns1.domaincom-default.domainparkingserver.net.
@@ -7746,6 +7754,8 @@ deliver.report.	3600	in	ns	names3.phoenixgeeks.us.
 deliver.report.	3600	in	ns	names4.phoenixgeeks.us.
 deliverability.report.	3600	in	ns	dns1.namecheaphosting.com.
 deliverability.report.	3600	in	ns	dns2.namecheaphosting.com.
+deliveredfrompoland.report.	3600	in	ns	cns1.cloud4you.pl.
+deliveredfrompoland.report.	3600	in	ns	cns2.cloud4you.pl.
 delivery.report.	3600	in	ds	16171 8 2 4DC7EF8AE871F2345AEBBFA695811E683F58817F9B926D8C22AAC67E45A7F84B
 delivery.report.	3600	in	ns	ns-cloud-b1.googledomains.com.
 delivery.report.	3600	in	ns	ns-cloud-b2.googledomains.com.
@@ -9024,8 +9034,8 @@ ee101.report.	3600	in	ns	kay.ns.cloudflare.com.
 ee101.report.	3600	in	ns	matt.ns.cloudflare.com.
 ee88.report.	3600	in	ns	frank.ns.cloudflare.com.
 ee88.report.	3600	in	ns	lana.ns.cloudflare.com.
-eee9cqunt6r39bh1u46f3nkhdikdo59a.report.	3600	in	nsec3	1 1 0 73 EIJB3BCKQK2NUI96H05GA403J4AN8FT6 NS DS RRSIG
-eee9cqunt6r39bh1u46f3nkhdikdo59a.report.	3600	in	rrsig	NSEC3 8 2 3600 20250930161454 20250909151454 33750 report. SPAlQ/eMymwkkyLp8yjG3BN3nv6BkZqxcLPp1v0ZrJ0bWbcLy+UDf4vRFk10gHxgva94k0TwE1YD6ADVRJSv5xoNFThpA+1Q+IUYi//rlD/5WpAY9TaiLoey51vUQ+8tsFuXutuVtmg7mN+1E0DCJHLcnPVMr4RyG1uI4is0yMg=
+eee9cqunt6r39bh1u46f3nkhdikdo59a.report.	3600	in	nsec3	1 1 0 73 EIFTJ2C6UO6L428O0TDBD6M9VQU9IBNI NS DS RRSIG
+eee9cqunt6r39bh1u46f3nkhdikdo59a.report.	3600	in	rrsig	NSEC3 8 2 3600 20251002093654 20250911083654 33750 report. J67hTd+h10CKdTazopARrjCZ5VIRp6ZBcTaW4hDNdT7AQkwgmYc8ax3jrqwLWDYTOb/kE/g7LN8U30Y+s7X4IA02ZUTGxP+rMOvVxgMPWwSKSY4n7Zft5OKfT2jI+KcivbbkmrpIYkPhh+AXS90573oww0PwPL2yw1uHJ4nGs4c=
 eeg.report.	3600	in	ns	ns67.domaincontrol.com.
 eeg.report.	3600	in	ns	ns68.domaincontrol.com.
 eer.report.	3600	in	ns	ns1.syrahost.com.
@@ -9077,6 +9087,8 @@ eifel.report.	3600	in	ns	a.ns14.net.
 eifel.report.	3600	in	ns	b.ns14.net.
 eifel.report.	3600	in	ns	c.ns14.net.
 eifel.report.	3600	in	ns	d.ns14.net.
+eiftj2c6uo6l428o0tdbd6m9vqu9ibni.report.	3600	in	nsec3	1 1 0 73 EIJB3BCKQK2NUI96H05GA403J4AN8FT6 NS DS RRSIG
+eiftj2c6uo6l428o0tdbd6m9vqu9ibni.report.	3600	in	rrsig	NSEC3 8 2 3600 20251002093654 20250911083654 33750 report. WzOZnY9cPWvIw4I+800wxGdQrsS0WJqn1hbU9CX0oVjk9rFeiIcnSrqYlFOlRDBe8HJ+nToQtT/FdyDiNy0t55BHxYepmb5BCiTUJszWlJVCzoiQTtkvh0JNIYyHDcS1Aw8LROHEeYDHxP20okzBXuHbh3mY4/JETBy7Q/T6vmM=
 eigenehomepage.report.	3600	in	ns	ns-ca.ui-dns.biz.
 eigenehomepage.report.	3600	in	ns	ns-ca.ui-dns.com.
 eigenehomepage.report.	3600	in	ns	ns-ca.ui-dns.de.
@@ -11582,6 +11594,8 @@ gig.report.	3600	in	ns	ns1.usm16.siteground.biz.
 gig.report.	3600	in	ns	ns2.usm16.siteground.biz.
 gin.report.	3600	in	ns	ns1.inmotionhosting.com.
 gin.report.	3600	in	ns	ns2.inmotionhosting.com.
+girlfriend.report.	3600	in	ns	ns1.dns-parking.com.
+girlfriend.report.	3600	in	ns	ns2.dns-parking.com.
 gis.report.	3600	in	ns	dns1.registrar-servers.com.
 gis.report.	3600	in	ns	dns2.registrar-servers.com.
 git.report.	3600	in	ns	ns1.gronke.org.
@@ -11837,6 +11851,8 @@ gospeltruth.report.	3600	in	ns	dns1.registrar-servers.com.
 gospeltruth.report.	3600	in	ns	dns2.registrar-servers.com.
 gossip.report.	3600	in	ns	ns27.worldnic.com.
 gossip.report.	3600	in	ns	ns28.worldnic.com.
+gosuslugi.report.	3600	in	ns	ns1.dns-parking.com.
+gosuslugi.report.	3600	in	ns	ns2.dns-parking.com.
 goto.report.	3600	in	ns	camilo.ns.cloudflare.com.
 goto.report.	3600	in	ns	kristin.ns.cloudflare.com.
 gotoinfo.report.	3600	in	ns	ns11.serverbranch.com.
@@ -11888,8 +11904,8 @@ gq113b2vhofbmhfvmu0dv2it8eh3iafd.report.	3600	in	nsec3	1 1 0 73 GRIQ6IVSOP1KCEG5
 gq113b2vhofbmhfvmu0dv2it8eh3iafd.report.	3600	in	rrsig	NSEC3 8 2 3600 20250930161454 20250909151454 33750 report. YwlU2CaSPebEmxKsTmL1DlgJBGiTZ/97Ll29bKoOtTWRjHu8Qer14eGao8wWph44L9WXENMl1rhoOOSGxJgWM22UHOm2Php8N+qTCSBQzqjrsZ4wCSN6nYKyNh0JYFzXfSIs1puXsllk23h2aU2OSZPbGgMXzir5FujLLy6aIaY=
 gra.report.	3600	in	ns	ns5.private-nameserver.net.
 gra.report.	3600	in	ns	ns6.private-nameserver.net.
-gradient.report.	3600	in	ns	ns1.bodis.com.
-gradient.report.	3600	in	ns	ns2.bodis.com.
+gradient.report.	3600	in	ns	ns1.dns-redirect.com.
+gradient.report.	3600	in	ns	ns2.dns-redirect.com.
 graffiti.report.	3600	in	ns	ns1.dns-redirect.com.
 graffiti.report.	3600	in	ns	ns2.dns-redirect.com.
 grai.report.	3600	in	ns	ns69.domaincontrol.com.
@@ -11926,8 +11942,8 @@ gravity.report.	3600	in	ns	ns-cloud-b1.googledomains.com.
 gravity.report.	3600	in	ns	ns-cloud-b2.googledomains.com.
 gravity.report.	3600	in	ns	ns-cloud-b3.googledomains.com.
 gravity.report.	3600	in	ns	ns-cloud-b4.googledomains.com.
-grayman.report.	3600	in	ns	ns1.bodis.com.
-grayman.report.	3600	in	ns	ns2.bodis.com.
+grayman.report.	3600	in	ns	ns1.dns-redirect.com.
+grayman.report.	3600	in	ns	ns2.dns-redirect.com.
 grc-experts.report.	3600	in	ns	ns-1159.awsdns-16.org.
 grc-experts.report.	3600	in	ns	ns-2033.awsdns-62.co.uk.
 grc-experts.report.	3600	in	ns	ns-381.awsdns-47.com.
@@ -15340,8 +15356,8 @@ laporte.report.	3600	in	ns	ns1.hover.com.
 laporte.report.	3600	in	ns	ns2.hover.com.
 laptop.report.	3600	in	ns	ns75.domaincontrol.com.
 laptop.report.	3600	in	ns	ns76.domaincontrol.com.
-laravel.report.	3600	in	ns	dns1.registrar-servers.com.
-laravel.report.	3600	in	ns	dns2.registrar-servers.com.
+laravel.report.	3600	in	ns	dns101.registrar-servers.com.
+laravel.report.	3600	in	ns	dns102.registrar-servers.com.
 larix.report.	3600	in	ns	ns1.hosting.reg.ru.
 larix.report.	3600	in	ns	ns2.hosting.reg.ru.
 laser.report.	3600	in	ns	ns5.kasserver.com.
@@ -16839,8 +16855,8 @@ meinungsfreiheit.report.	3600	in	ns	d.ns14.net.
 meister.report.	3600	in	ns	ns1.domaindiscount24.net.
 meister.report.	3600	in	ns	ns2.domaindiscount24.net.
 meister.report.	3600	in	ns	ns3.domaindiscount24.net.
-meizhong.report.	3600	in	ns	ns1.bodis.com.
-meizhong.report.	3600	in	ns	ns2.bodis.com.
+meizhong.report.	3600	in	ns	ns1.dns-redirect.com.
+meizhong.report.	3600	in	ns	ns2.dns-redirect.com.
 melder.report.	3600	in	ns	ns0.hostkonzept.ch.
 melder.report.	3600	in	ns	ns2.hostkonzept.ch.
 melder.report.	3600	in	ns	ns3.hostkonzept.ch.
@@ -17627,8 +17643,8 @@ moonbase.report.	3600	in	ns	ns-cloud-d2.googledomains.com.
 moonbase.report.	3600	in	ns	ns-cloud-d3.googledomains.com.
 moonbase.report.	3600	in	ns	ns-cloud-d4.googledomains.com.
 moonbase.report.	3600	in	rrsig	DS 8 2 3600 20250930161454 20250909151454 33750 report. nF3EE3ibHIae7/8XWT3q2RoNSzwqp5kzm/iiDtlXKSLsogYvGgokgC5nUZ3EO+zUTHB8Iy7tKGQ2zJkjGO0FWwphbY6HIz1cJ/h8JuCbTvFZmwEsQegppfbFnfPahgFyCh2bxzJj3X+5Vkfpc1Gft0etDf758X9O5+QmUEwZRDI=
-moonlight.report.	3600	in	ns	ns1.bodis.com.
-moonlight.report.	3600	in	ns	ns2.bodis.com.
+moonlight.report.	3600	in	ns	ns1.dns-redirect.com.
+moonlight.report.	3600	in	ns	ns2.dns-redirect.com.
 moonshot.report.	3600	in	ns	170.ns1.abovedomains.com.
 moonshot.report.	3600	in	ns	170.ns2.abovedomains.com.
 moore.report.	3600	in	ns	ns71.domaincontrol.com.
@@ -17749,6 +17765,8 @@ mpoatm.report.	3600	in	ns	dns1.registrar-servers.com.
 mpoatm.report.	3600	in	ns	dns2.registrar-servers.com.
 mps.report.	3600	in	ns	ns01.domaincontrol.com.
 mps.report.	3600	in	ns	ns02.domaincontrol.com.
+mqtt.report.	3600	in	ns	dns1.registrar-servers.com.
+mqtt.report.	3600	in	ns	dns2.registrar-servers.com.
 mr.report.	3600	in	ns	ns13.domaincontrol.com.
 mr.report.	3600	in	ns	ns14.domaincontrol.com.
 mra.report.	3600	in	ns	dns1.registrar-servers.com.
@@ -18322,8 +18340,8 @@ naics.report.	3600	in	ns	ns-cloud-a3.googledomains.com.
 naics.report.	3600	in	ns	ns-cloud-a4.googledomains.com.
 nakamoto.report.	3600	in	ns	ns3.afternic.com.
 nakamoto.report.	3600	in	ns	ns4.afternic.com.
-namecheap.report.	3600	in	ns	ns71.domaincontrol.com.
-namecheap.report.	3600	in	ns	ns72.domaincontrol.com.
+namecheap.report.	3600	in	ns	trevor.ns.cloudflare.com.
+namecheap.report.	3600	in	ns	vivienne.ns.cloudflare.com.
 names.report.	3600	in	ns	ns1.dyna-ns.net.
 names.report.	3600	in	ns	ns2.dyna-ns.net.
 namespaces.report.	3600	in	ns	ns1.digitalocean.com.
@@ -20219,8 +20237,8 @@ pactsafe.report.	3600	in	ns	ns-cloud-d3.googledomains.com.
 pactsafe.report.	3600	in	ns	ns-cloud-d4.googledomains.com.
 pad.report.	3600	in	ns	dns1.registrar-servers.com.
 pad.report.	3600	in	ns	dns2.registrar-servers.com.
-padawan.report.	3600	in	ns	ns1.bodis.com.
-padawan.report.	3600	in	ns	ns2.bodis.com.
+padawan.report.	3600	in	ns	ns1.dns-redirect.com.
+padawan.report.	3600	in	ns	ns2.dns-redirect.com.
 padel.report.	3600	in	ds	34033 13 2 5240490C012E33A185917D5ED8378BAA6AF155C2C828EC30859CEBC03272110D
 padel.report.	3600	in	ns	launch1.spaceship.net.
 padel.report.	3600	in	ns	launch2.spaceship.net.
@@ -20571,8 +20589,8 @@ pennsylvania.report.	3600	in	ns	ns-cloud-e2.googledomains.com.
 pennsylvania.report.	3600	in	ns	ns-cloud-e3.googledomains.com.
 pennsylvania.report.	3600	in	ns	ns-cloud-e4.googledomains.com.
 pennsylvania.report.	3600	in	rrsig	DS 8 2 3600 20250930161454 20250909151454 33750 report. TXcAWX/04frkXfSKQSnEYgPpvTfvDs2xmGWvfH1zCbqpoYeb5rDgtrD3ujKV1grP3bwQndJslBfPZejN4oI0el7apAPPaRYEcI6M0xQK332enOMAzUjpygkqT0EGtl1/d6U/WVUyyd+Fir4Pt4pnrKBd1N9ax9n8CUnpirBy/tk=
-penny.report.	3600	in	ns	ns1.bodis.com.
-penny.report.	3600	in	ns	ns2.bodis.com.
+penny.report.	3600	in	ns	ns1.dns-redirect.com.
+penny.report.	3600	in	ns	ns2.dns-redirect.com.
 pennyworth.report.	3600	in	ns	pdns1.registrar-servers.com.
 pennyworth.report.	3600	in	ns	pdns2.registrar-servers.com.
 pentagon.report.	3600	in	ns	ns1.dns-redirect.com.
@@ -20775,8 +20793,8 @@ physiologie.report.	3600	in	ns	ns.abdns.eu.
 physiologie.report.	3600	in	ns	ns.abdns.info.
 pi.report.	3600	in	ns	chase.ns.cloudflare.com.
 pi.report.	3600	in	ns	luciane.ns.cloudflare.com.
-pi51hrpeci90e49uh7ulppd0vus29ior.report.	3600	in	nsec3	1 1 0 73 PN916M1M23SJM42FDOK8U3S4MJQU9915 NS DS RRSIG
-pi51hrpeci90e49uh7ulppd0vus29ior.report.	3600	in	rrsig	NSEC3 8 2 3600 20250930161454 20250909151454 33750 report. IKw11T+EDiarHMr1VV6fITJIvOhmQOy6AHtaN2u+OyRklqX9MnbqcSXRKPrFyOrkWhfYA9ALJDgQCIVrflBqlmrOrXB1xv6O3wTc/cUFtUQQmkK2H1TYjvLfxqbD/ztOXNck4HQDejWrsOb/OXdnmCkFg93T+uCLP+13Sp9Ijm4=
+pi51hrpeci90e49uh7ulppd0vus29ior.report.	3600	in	nsec3	1 1 0 73 PKD496INFDOMDTDO95OHA7KDEJ5128BJ NS DS RRSIG
+pi51hrpeci90e49uh7ulppd0vus29ior.report.	3600	in	rrsig	NSEC3 8 2 3600 20251002160903 20250911150903 33750 report. Q7r1NAQB+55R+wKRUkjupJw9eAPt4wCHFzrWpJbpUcb/+PO290H6yzSPGIh9nd1hjgCbMbDil3SA17InxZ297o2i0B/kgICyVCekGqr4AaKHuTjLCCyhriKLFbKPgy0m0JnVPutrULowvQHJVQuu5VscsG3O3qV17wiBawyfte4=
 pickleball.report.	3600	in	ns	ns-1384.awsdns-45.org.
 pickleball.report.	3600	in	ns	ns-1753.awsdns-27.co.uk.
 pickleball.report.	3600	in	ns	ns-63.awsdns-07.com.
@@ -20907,6 +20925,8 @@ pixels.report.	3600	in	ns	ns-105.awsdns-13.com.
 pixels.report.	3600	in	ns	ns-1433.awsdns-51.org.
 pixels.report.	3600	in	ns	ns-1834.awsdns-37.co.uk.
 pixels.report.	3600	in	ns	ns-881.awsdns-46.net.
+pkd496infdomdtdo95oha7kdej5128bj.report.	3600	in	nsec3	1 1 0 73 PN916M1M23SJM42FDOK8U3S4MJQU9915 NS DS RRSIG
+pkd496infdomdtdo95oha7kdej5128bj.report.	3600	in	rrsig	NSEC3 8 2 3600 20251002160903 20250911150903 33750 report. CExN6Fgu9QMV+0TBLjMihykiocWJ5/JPNyOsjxU7gBYVgda+d3jgMFHjv888MgEL0tqDlA62PIUo8KbclWRj9GtzexLo2yrrf2tUh8qJAKQ6Sx0D04aC5z7BK7A5Of+JKmNl2eqpRJ4oKcuttEeTIJJcPcMhen5Ni9Ry8kxHBqg=
 pkt.report.	3600	in	ns	ns191.pns.cjdns.fr.
 pkt.report.	3600	in	ns	ns191.pns.pkteer.com.
 pl.report.	3600	in	ns	ns6.wixdns.net.
@@ -21340,8 +21360,8 @@ prelisting.report.	3600	in	ns	ns01.squarespacedns.com.
 prelisting.report.	3600	in	ns	ns02.squarespacedns.com.
 prelisting.report.	3600	in	ns	ns03.squarespacedns.com.
 prelisting.report.	3600	in	ns	ns04.squarespacedns.com.
-premier.report.	3600	in	ns	ns1.bodis.com.
-premier.report.	3600	in	ns	ns2.bodis.com.
+premier.report.	3600	in	ns	ns1.dns-redirect.com.
+premier.report.	3600	in	ns	ns2.dns-redirect.com.
 premiermarketing.report.	3600	in	ns	dns1.name-services.com.
 premiermarketing.report.	3600	in	ns	dns2.name-services.com.
 premiermarketing.report.	3600	in	ns	dns3.name-services.com.
@@ -21688,8 +21708,8 @@ psy.report.	3600	in	ns	ns1.bodis.com.
 psy.report.	3600	in	ns	ns2.bodis.com.
 psych.report.	3600	in	ns	ns45.domaincontrol.com.
 psych.report.	3600	in	ns	ns46.domaincontrol.com.
-psychedelics.report.	3600	in	ns	ns1.bodis.com.
-psychedelics.report.	3600	in	ns	ns2.bodis.com.
+psychedelics.report.	3600	in	ns	ns1.dns-redirect.com.
+psychedelics.report.	3600	in	ns	ns2.dns-redirect.com.
 psychedelicstocks.report.	3600	in	ns	ns63.domaincontrol.com.
 psychedelicstocks.report.	3600	in	ns	ns64.domaincontrol.com.
 psychforce.report.	3600	in	ns	ns43.domaincontrol.com.
@@ -21910,15 +21930,13 @@ qlsco8u2jfvblr7db3c0ee16ffh6t6a1.report.	3600	in	nsec3	1 1 0 73 QMM9N8U65NBNQP88
 qlsco8u2jfvblr7db3c0ee16ffh6t6a1.report.	3600	in	rrsig	NSEC3 8 2 3600 20250930161454 20250909151454 33750 report. FicksnizHqmh1dhz6KHwuwQVgRsoKE8yfyc10rfdT3roon4737VWszeaw5yJ71s5bnEwR3npbmHtSOOtslziBqNrpfKCsY6C+B5W6VFMMXIJVTg1iM8qpy9uCMDkdFbDmzIx7Is/sqCw+DGSPQK2QAcXUn9BGrBOL/crOK0EZaA=
 qlureporting.report.	3600	in	ns	liberty.ns.cloudflare.com.
 qlureporting.report.	3600	in	ns	thomas.ns.cloudflare.com.
-qmm9n8u65nbnqp88uhurpri00c51khj0.report.	3600	in	nsec3	1 1 0 73 QOA3R1M9I7O0PVB2A0BFJ3V0PJOBCUHO NS DS RRSIG
-qmm9n8u65nbnqp88uhurpri00c51khj0.report.	3600	in	rrsig	NSEC3 8 2 3600 20250930161454 20250909151454 33750 report. QjYW0I+Cio1NFW+eaMHEkusxb8G9QIQ2JWSjwc9wvGgQs+BIHvaZaHZOaeZRg3L+dGYFNs1IB9kq4CvGOiVqgudPvO/DO/jMo/ABsxKLYXLaTqsLUj6x7au+l3Z5LZ50wLwMIs/iw1zI1/VEujN3vP/6ZFhzBiDmppftd41Sez4=
+qmm9n8u65nbnqp88uhurpri00c51khj0.report.	3600	in	nsec3	1 1 0 73 QQFLDT951F9A5R1T939TL1EKLNR6E4JV NS DS RRSIG
+qmm9n8u65nbnqp88uhurpri00c51khj0.report.	3600	in	rrsig	NSEC3 8 2 3600 20251002110103 20250911100103 33750 report. LTjCw4J6ViSJpDRm+1xoWNBu7eNPDrrohOu4KSNvKG0J0saFJJaVJZU92ZlGa4Cmj2sbX6eJMLTQiwP+ltCFb2Oc9fmA+NFfFYeXZc/jfXMTpWw9EEypeCDMj8HvL1Vjy3O+lCDQoc2I+x5wW42h6ddn854RW0X+r4fL39hssZ4=
 qndt.report.	3600	in	ns	ns1.linode.com.
 qndt.report.	3600	in	ns	ns2.linode.com.
 qndt.report.	3600	in	ns	ns3.linode.com.
 qndt.report.	3600	in	ns	ns4.linode.com.
 qndt.report.	3600	in	ns	ns5.linode.com.
-qoa3r1m9i7o0pvb2a0bfj3v0pjobcuho.report.	3600	in	nsec3	1 1 0 73 QQFLDT951F9A5R1T939TL1EKLNR6E4JV NS DS RRSIG
-qoa3r1m9i7o0pvb2a0bfj3v0pjobcuho.report.	3600	in	rrsig	NSEC3 8 2 3600 20250930161454 20250909151454 33750 report. boXKqlwITGZTErRefmJnxf2zK6G1p720PT6jNPqseDQsb9MPDlK8sxdV8kufpHmhz2VXnaltWavkHB+8U/qaoCN57pMefFYYBTT+tp3ZjUkcjCRMXQ0DEF6oxG9iFTEEDDRdld4SlgSnlOg/lGh0rbFVSNnfYZuY3BTWheEeXR0=
 qq.report.	3600	in	ns	fiona.ns.cloudflare.com.
 qq.report.	3600	in	ns	woz.ns.cloudflare.com.
 qq88.report.	3600	in	ns	arely.ns.cloudflare.com.
@@ -22474,6 +22492,10 @@ redflags.report.	3600	in	ns	ns-cloud-a1.googledomains.com.
 redflags.report.	3600	in	ns	ns-cloud-a2.googledomains.com.
 redflags.report.	3600	in	ns	ns-cloud-a3.googledomains.com.
 redflags.report.	3600	in	ns	ns-cloud-a4.googledomains.com.
+redline.report.	3600	in	ns	curitiba.ns.porkbun.com.
+redline.report.	3600	in	ns	fortaleza.ns.porkbun.com.
+redline.report.	3600	in	ns	maceio.ns.porkbun.com.
+redline.report.	3600	in	ns	salvador.ns.porkbun.com.
 redmondpolice.report.	3600	in	ns	dns1.registrar-servers.com.
 redmondpolice.report.	3600	in	ns	dns2.registrar-servers.com.
 redstate.report.	3600	in	ns	ns-cloud-a1.googledomains.com.
@@ -22694,7 +22716,7 @@ report.	3600	in	nsec3param	1 0 0 73
 report.	3600	in	rrsig	DNSKEY 8 1 3600 20250930161454 20250909151454 23221 report. cQ2tTScJSMh9zveZSaEfbBaasig7KscU2Kx9FKziP8B1neVwhKyiUifV3iCWoTSTVYUGfH6JW4rpsQTxdZG2lCiJBBEbdF7zPAXS8bLuXinVMWX0vV0Zi3UHIOcGUPJcVYHyyEPuEZC0BA2MBIZsBMeAcCPIjvhoX/mDZnstqDIN3L8bovq2IfZDxoIpyQObajjoRY4ujryRY8m3YwBDTm/hlLTup0q5q2mAXLv3KhXUYRxz6t/vnkngXgvKuNLta8dKCBBesNryG4O85ELu0VZDNKC9hwvhjaCXrR+4ctk8CYHJpBcShv7hyadR0W6bzw7vfK8vysITBOR+DyXuuA==
 report.	3600	in	rrsig	NS 8 1 3600 20250930161454 20250909151454 33750 report. JJ2ZGvN28JJ0MYt1+1Qpc2LRLcb393bfb4azIQIRdmKjRNi6acsRpVa5OuecziW+KwTJvX278J3+HB8hk0lgzMjq3yqux47LZNLKtrojdNyGlqMDe4ycR5MsIFDSoTomTYWbIld6QXrsqVcMcxNQVpMtdvvIMnc9RuQeR4Rtj4I=
 report.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930161454 20250909151454 33750 report. EQSm0bRWQJ0rkiAObPQBafEu4uDe+D4GzGfrhzCujmIiAhCMxZSomOIOTCKNGx327HXTiXpNoXV5CdMevsSr7TaYX9l+epXc4XkfCtBbgkZ8CDyxrVgZpn/HFojYLcPgTZj6y+D6GSL/XJkaIeQfLssgFcllOWAbq9i1dNKJTvU=
-report.	3600	in	rrsig	SOA 8 1 3600 20251002013058 20250911003058 33750 report. Mj/gh8qsw1iJoYljn9lodDNvMplIBqDh8aHnlRAgm7u/x/C5IE6qTD2OyUGKSOWkVbi+bTcHPsMxIdZcD0qR3dTkaBZdQwnUDjPbqrIEW+RlNgy9uqinqjgMeGFiexSPtUr5KxYgfXIdPmJKRDFA32VauF7xcRD5PDUdhY+Fo8c=
+report.	3600	in	rrsig	SOA 8 1 3600 20251003011700 20250912001700 33750 report. hwWi+dRfZIrBq8atuvn7RwAeebLnMpJa3l5ifCN/HxVHAX+NOuz4Yhemg8FznaupkYJRtya5J1rwpoN+KINnWLFblKiyJOTwcb6NMmyxKSy0eYflJfX1qEGtLmGBeTW1zdI6WgxsWd49GhAJBK1Ct5nyD2op3qC4La5T+LTWAT0=
 report.report.	3600	in	ns	ns1.he.net.
 report.report.	3600	in	ns	ns2.he.net.
 report.report.	3600	in	ns	ns3.he.net.
@@ -22817,8 +22839,8 @@ retain.report.	3600	in	ns	dns1.registrar-servers.com.
 retain.report.	3600	in	ns	dns2.registrar-servers.com.
 retention.report.	3600	in	ns	dns1.registrar-servers.com.
 retention.report.	3600	in	ns	dns2.registrar-servers.com.
-rethink.report.	3600	in	ns	ns1.bodis.com.
-rethink.report.	3600	in	ns	ns2.bodis.com.
+rethink.report.	3600	in	ns	ns1.dns-redirect.com.
+rethink.report.	3600	in	ns	ns2.dns-redirect.com.
 retirement.report.	3600	in	ns	pdns05.domaincontrol.com.
 retirement.report.	3600	in	ns	pdns06.domaincontrol.com.
 retirementincome.report.	3600	in	ns	dns1.registrar-servers.com.
@@ -23303,8 +23325,8 @@ ru90lc92jefnt36al6f4vt8u2l522nr4.report.	3600	in	nsec3	1 1 0 73 RUUD8UUE3VOLGFKF
 ru90lc92jefnt36al6f4vt8u2l522nr4.report.	3600	in	rrsig	NSEC3 8 2 3600 20250930161454 20250909151454 33750 report. HNmxUKfRsBHfzp1Vv23kTahOSIXjaRF/HfQi/zystLtnp1AnMdG1hQKkMIev5OikRGzqtPXIC+bE9K5syV9b/ZP8oRCnucnw4RMZIa5yieeFkq+fUgpadP4swIS+OT6VPDiUAmh5MJj1769ruXTcKDZJr8JrJwFLAvSOvmmIBTw=
 rua.report.	3600	in	ns	dns1.registrar-servers.com.
 rua.report.	3600	in	ns	dns2.registrar-servers.com.
-rubicon.report.	3600	in	ns	ns1.bodis.com.
-rubicon.report.	3600	in	ns	ns2.bodis.com.
+rubicon.report.	3600	in	ns	ns1.dns-redirect.com.
+rubicon.report.	3600	in	ns	ns2.dns-redirect.com.
 rubric.report.	3600	in	ns	dns1.registrar-servers.com.
 rubric.report.	3600	in	ns	dns2.registrar-servers.com.
 rubylife.report.	3600	in	ns	dns1.idp365.net.
@@ -23896,10 +23918,6 @@ seawatch.report.	3600	in	ns	mckenzie.ns.cloudflare.com.
 seawatch.report.	3600	in	ns	wells.ns.cloudflare.com.
 sec.report.	3600	in	ns	ns1.fp261.parklogic.com.
 sec.report.	3600	in	ns	ns2.fp261.parklogic.com.
-secfilings.report.	3600	in	ns	ns-1190.awsdns-20.org.
-secfilings.report.	3600	in	ns	ns-1854.awsdns-39.co.uk.
-secfilings.report.	3600	in	ns	ns-418.awsdns-52.com.
-secfilings.report.	3600	in	ns	ns-799.awsdns-35.net.
 secondary.report.	3600	in	ns	ns35.domaincontrol.com.
 secondary.report.	3600	in	ns	ns36.domaincontrol.com.
 secondopinion.report.	3600	in	ns	ns4.wixdns.net.
@@ -24709,6 +24727,10 @@ smic.report.	3600	in	ns	ns1.your-server.de.
 smic.report.	3600	in	ns	ns3.second-ns.de.
 smile.report.	3600	in	ns	ns23.domaincontrol.com.
 smile.report.	3600	in	ns	ns24.domaincontrol.com.
+smiley.report.	3600	in	ds	10994 13 2 A5042AFC777612681E1F82B2EC7AC59E9402A449935443D546E8CD6A8B618C2B
+smiley.report.	3600	in	ns	launch1.spaceship.net.
+smiley.report.	3600	in	ns	launch2.spaceship.net.
+smiley.report.	3600	in	rrsig	DS 8 2 3600 20251002093654 20250911083654 33750 report. WB3giWYpyjha1o9qDRhi9g8EiAhj7yWGT3TPFGNz1xKSi6eUWlciUn/Ghtup4DWH7HzxsiWtaZcYP58RXmEDyLzcWqai2VeaS3hoi2UZTTIiM+xxa1v6BpgcSMhfELWhj1X2qwtB8WQ4RdEWsxSAmWeOmfXvMyXissGQ7TxM7qY=
 smish.report.	3600	in	ns	blue.smish.report.
 smish.report.	3600	in	ns	green.smish.report.
 smish.report.	3600	in	ns	ns200.smish.report.
@@ -25332,6 +25354,8 @@ ssl.report.	3600	in	ns	kristin.ns.cloudflare.com.
 ssl.report.	3600	in	rrsig	DS 8 2 3600 20250930161454 20250909151454 33750 report. joZx+XTGsrZE270GBoE9nwxgXXnxXIDrWJwPut5eLQ1GES6f51opmJuuGTQpuR4wfMLi5O+zl3UjOqSGix5IShdNfmsRUvW389Y9xn96J+xwCsYl9zPFo1lgHc64KgXbdG3DG03yEYVKWIRcAGTCe5sFCSy8c9fMH1MX2YvqOeI=
 sso.report.	3600	in	ns	ns21.domaincontrol.com.
 sso.report.	3600	in	ns	ns22.domaincontrol.com.
+ssonder.report.	3600	in	ns	cruz.ns.cloudflare.com.
+ssonder.report.	3600	in	ns	isaac.ns.cloudflare.com.
 sss-inclusion.report.	3600	in	ns	ns1.nameserver.net.au.
 sss-inclusion.report.	3600	in	ns	ns2.nameserver.net.au.
 sss-inclusion.report.	3600	in	ns	ns3.nameserver.net.au.
@@ -26723,6 +26747,8 @@ thecbd.report.	3600	in	ns	ns03.domaincontrol.com.
 thecbd.report.	3600	in	ns	ns04.domaincontrol.com.
 thecelestial.report.	3600	in	ns	ns19.domaincontrol.com.
 thecelestial.report.	3600	in	ns	ns20.domaincontrol.com.
+thecharliekirkacademy.report.	3600	in	ns	dns1.registrar-servers.com.
+thecharliekirkacademy.report.	3600	in	ns	dns2.registrar-servers.com.
 thechickentender.report.	3600	in	ns	ns-1117.awsdns-11.org.
 thechickentender.report.	3600	in	ns	ns-1840.awsdns-38.co.uk.
 thechickentender.report.	3600	in	ns	ns-220.awsdns-27.com.
@@ -26906,6 +26932,8 @@ thegeorge.report.	3600	in	ns	ns17.domaincontrol.com.
 thegeorge.report.	3600	in	ns	ns18.domaincontrol.com.
 thegirl.report.	3600	in	ns	ns33.domaincontrol.com.
 thegirl.report.	3600	in	ns	ns34.domaincontrol.com.
+thegirlfriend.report.	3600	in	ns	ns1.dns-parking.com.
+thegirlfriend.report.	3600	in	ns	ns2.dns-parking.com.
 theglobalhealthnews.report.	3600	in	ns	ns15.domaincontrol.com.
 theglobalhealthnews.report.	3600	in	ns	ns16.domaincontrol.com.
 theglow.report.	3600	in	ns	dns1.registrar-servers.com.
@@ -27793,8 +27821,8 @@ topmail.report.	3600	in	ns	ns-ca.ui-dns.de.
 topmail.report.	3600	in	ns	ns-ca.ui-dns.org.
 topproperty.report.	3600	in	ns	bjorn.ns.cloudflare.com.
 topproperty.report.	3600	in	ns	jessica.ns.cloudflare.com.
-topshelf.report.	3600	in	ns	ns1.bodis.com.
-topshelf.report.	3600	in	ns	ns2.bodis.com.
+topshelf.report.	3600	in	ns	ns1.dns-redirect.com.
+topshelf.report.	3600	in	ns	ns2.dns-redirect.com.
 topslot88.report.	3600	in	ns	jason.ns.cloudflare.com.
 topslot88.report.	3600	in	ns	teresa.ns.cloudflare.com.
 toptech.report.	3600	in	ds	25397 8 2 984AD05BC0ABD6C788C13AC9988F88F2720D21DDD9C99896AAB5744B01041BD8
@@ -29669,8 +29697,8 @@ vulkandelux.report.	3600	in	ns	mike.ns.cloudflare.com.
 vulkandelux.report.	3600	in	ns	treasure.ns.cloudflare.com.
 vulkplatinum.report.	3600	in	ns	mike.ns.cloudflare.com.
 vulkplatinum.report.	3600	in	ns	treasure.ns.cloudflare.com.
-vuln.report.	3600	in	ns	ns1.bodis.com.
-vuln.report.	3600	in	ns	ns2.bodis.com.
+vuln.report.	3600	in	ns	ns1.dns-redirect.com.
+vuln.report.	3600	in	ns	ns2.dns-redirect.com.
 vulnerability.report.	3600	in	ns	ns21.domaincontrol.com.
 vulnerability.report.	3600	in	ns	ns22.domaincontrol.com.
 vulnerable.report.	3600	in	ns	ns55.domaincontrol.com.
@@ -30441,8 +30469,8 @@ work.report.	3600	in	ns	ns2.afternic.com.
 work.report.	3600	in	ns	verification-qaxpgh9dahjr9zkpwwmdzx.ns101.verify.hn.
 workday.report.	3600	in	ns	ns1.tacomadc.com.
 workday.report.	3600	in	ns	ns2.tacomadc.com.
-workflow.report.	3600	in	ns	ns1.bodis.com.
-workflow.report.	3600	in	ns	ns2.bodis.com.
+workflow.report.	3600	in	ns	ns1.dns-redirect.com.
+workflow.report.	3600	in	ns	ns2.dns-redirect.com.
 workflows.report.	3600	in	ns	ns1.digitalocean.com.
 workflows.report.	3600	in	ns	ns2.digitalocean.com.
 workflows.report.	3600	in	ns	ns3.digitalocean.com.
@@ -31095,4 +31123,4 @@ zwangsversteigerungen.report.	3600	in	ns	ns17.domserver.de.
 zwangsversteigerungen.report.	3600	in	ns	ns18.domserver.de.
 zzz.report.	3600	in	ns	pdns01.domaincontrol.com.
 zzz.report.	3600	in	ns	pdns02.domaincontrol.com.
-report.	3600	in	soa	v0n0.nic.report. hostmaster.donuts.email. 1757553896 7200 900 1209600 3600
+report.	3600	in	soa	v0n0.nic.report. hostmaster.donuts.email. 1757639473 7200 900 1209600 3600
