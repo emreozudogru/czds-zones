@@ -1,4 +1,4 @@
-black.	3600	in	soa	a0.nic.black. hostmaster.donuts.email. 1757552065 7200 900 1209600 3600
+black.	3600	in	soa	a0.nic.black. hostmaster.donuts.email. 1757638905 7200 900 1209600 3600
 000.black.	3600	in	ns	ns1.dns-redirect.com.
 000.black.	3600	in	ns	ns2.dns-redirect.com.
 000000.black.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -1598,6 +1598,8 @@ alias.black.	3600	in	ns	freedns2.registrar-servers.com.
 alias.black.	3600	in	ns	freedns3.registrar-servers.com.
 alias.black.	3600	in	ns	freedns4.registrar-servers.com.
 alias.black.	3600	in	ns	freedns5.registrar-servers.com.
+alien.black.	3600	in	ns	dns1.registrar-servers.com.
+alien.black.	3600	in	ns	dns2.registrar-servers.com.
 alissa.black.	3600	in	ns	ns35.domaincontrol.com.
 alissa.black.	3600	in	ns	ns36.domaincontrol.com.
 alister.black.	3600	in	ds	2371 13 2 8D9558DA688CBAD1CA1D01BDA4B3FE7EA9675701DE757ABB748608D906D9F089
@@ -1789,8 +1791,8 @@ ansoken.black.	3600	in	ns	dns01.muumuu-domain.com.
 ansoken.black.	3600	in	ns	dns02.muumuu-domain.com.
 ant.black.	3600	in	ns	ns43.domaincontrol.com.
 ant.black.	3600	in	ns	ns44.domaincontrol.com.
-antares.black.	3600	in	ns	ns1.bodis.com.
-antares.black.	3600	in	ns	ns2.bodis.com.
+antares.black.	3600	in	ns	ns1.dns-redirect.com.
+antares.black.	3600	in	ns	ns2.dns-redirect.com.
 anthony.black.	3600	in	ds	7564 8 2 0C05BE6072E594F90B67A4EDCB47CA49B95173442124584D4B92376CA8ACE849
 anthony.black.	3600	in	ns	ns-cloud-c1.googledomains.com.
 anthony.black.	3600	in	ns	ns-cloud-c2.googledomains.com.
@@ -2795,7 +2797,7 @@ black.	3600	in	nsec3param	1 0 0 73
 black.	3600	in	rrsig	DNSKEY 8 1 3600 20250930152822 20250909142822 28819 black. CUnCUDOD+V9umtNCfYKXvdapZ+Ulg7lYfaY6pJNUObLJYsyufgGgTD+4d+UP6W25Hr7+iC7q1Sq5SInwa2Au3N1CFlwaRVV/RkQUc3cpZH3FyiE+VZthmsvK2uSuoS2tIc+Q6AxtB7BfmRBccLS74IJGyWT1UO15cemW3rcV/8IhnNOxKI/t0xLmCcHeKdP3vYwhcSOK3zdaSGC4vtr18k7r2j7am3NanmOjQQJYl4wcfN2Mk7jj+Rhpr2KMNghNIIEk11J4zEpBBU2hXKW/aIzkMtDNFJz0PxgAMU+jwZKZH7BZATGyznXifLU2hpvfrBKVpJMHJA3ZD09F5maU6Q==
 black.	3600	in	rrsig	NS 8 1 3600 20250930152822 20250909142822 22725 black. ueJhQ9qyqYrds6EFumudWaZMstXjAHxpcIw21yTcs90js7Paa9SN1BpvJ6lc+ERrW+gp70CiziHfS7eg6BAoXSqNyeFdIQPNdkJrqpFnbYkBBOKq70ogB53GoQNEEVgK4vvGwqDYGsF8F0lMUVIa64H+DkbKBYoBVdtn6Hh5shc=
 black.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930152822 20250909142822 22725 black. vPWXBxsO0iQVSk8MIwVY6or/wzXGRGREtiVtKdc0wv2V25rjCGBDdNaRNJOmzTtvDWD10gzF16nR5J8OMd+cgYIRIaTOwk1vlOCucxzk0ozu2pIvV5K4kfp52FWNAj7MhVhlNyqpcmD/BYHZPATr8K6hS8WCdjvpnnJdxLIxdSs=
-black.	3600	in	rrsig	SOA 8 1 3600 20251002005651 20250910235651 22725 black. eBFRnl8UMJC8dhUt7BENz4xHuFn8l/8Eoop1werj3KoFY2icJAFQYP05jg02IYEEcs0lQ7IMCO+XhXlp+gdB1Te4v7qIUtwZaurWWp8dE0OmLSv0x8yjC47l6mSGPuDNdgspeUGPz9GIoAXaPCNklycpOQVTJ4RXg6riTG/z12I=
+black.	3600	in	rrsig	SOA 8 1 3600 20251003010402 20250912000402 22725 black. ZKrBaF6g48pjIjPJsjzKlGZoLCgXGmpTkJXtYqC4Zzza7zo4HSXohpyeLMP5YpVvc85ltnnk4LIMxPPYeF6OhaDmd+Ad4/0J+MVY2iF/Vb+9VUx/McsWiEGrPZwWk509J5zjm19nqPrJc3XR22C54rjanMDq3spCjZAOYiDLCXQ=
 black.black.	3600	in	ns	ben.ns.cloudflare.com.
 black.black.	3600	in	ns	connie.ns.cloudflare.com.
 black5.black.	3600	in	ns	ns57.domaincontrol.com.
@@ -3433,8 +3435,8 @@ breathe.black.	3600	in	ns	salvador.ns.porkbun.com.
 breathislife.black.	3600	in	ns	ns1.wordpress.com.
 breathislife.black.	3600	in	ns	ns2.wordpress.com.
 breathislife.black.	3600	in	ns	ns3.wordpress.com.
-breed.black.	3600	in	ns	ns1.bodis.com.
-breed.black.	3600	in	ns	ns2.bodis.com.
+breed.black.	3600	in	ns	ns1.dns-redirect.com.
+breed.black.	3600	in	ns	ns2.dns-redirect.com.
 brennah.black.	3600	in	ns	ns69.domaincontrol.com.
 brennah.black.	3600	in	ns	ns70.domaincontrol.com.
 brewer.black.	3600	in	ns	dns1.registrar-servers.com.
@@ -5256,8 +5258,8 @@ delta.black.	3600	in	ns	ns-cloud-e2.googledomains.com.
 delta.black.	3600	in	ns	ns-cloud-e3.googledomains.com.
 delta.black.	3600	in	ns	ns-cloud-e4.googledomains.com.
 delta.black.	3600	in	rrsig	DS 8 2 3600 20250930152822 20250909142822 22725 black. CSOufrgNiZDonS0hGYgGyZgEfUs0wwoM74wyuic93i/b/cp/BXeVtDoKWj9s78skAqccSDIUnPObfABYW51Vdg+cIAG+18DYBl1bywgZqelCi+6xwbQIAj7Xo1qT+l2NcUQnPyl5UgW+miw48QaYSXdVib4tDdmRHj8bmlthOwI=
-deluxe.black.	3600	in	ns	ns1.bodis.com.
-deluxe.black.	3600	in	ns	ns2.bodis.com.
+deluxe.black.	3600	in	ns	ns1.dns-redirect.com.
+deluxe.black.	3600	in	ns	ns2.dns-redirect.com.
 deme.black.	3600	in	ns	dom.ns.cloudflare.com.
 deme.black.	3600	in	ns	magali.ns.cloudflare.com.
 demnay.black.	3600	in	ns	emma.ns.cloudflare.com.
@@ -5863,6 +5865,10 @@ effingrooster.black.	3600	in	ns	ns3.eurodns.com.
 effingrooster.black.	3600	in	ns	ns4.eurodns.com.
 egablo.black.	3600	in	ns	kevin.ns.cloudflare.com.
 egablo.black.	3600	in	ns	nola.ns.cloudflare.com.
+ego.black.	3600	in	ns	curitiba.ns.porkbun.com.
+ego.black.	3600	in	ns	fortaleza.ns.porkbun.com.
+ego.black.	3600	in	ns	maceio.ns.porkbun.com.
+ego.black.	3600	in	ns	salvador.ns.porkbun.com.
 egyqepxv.black.	3600	in	ns	jule.ns.cloudflare.com.
 egyqepxv.black.	3600	in	ns	ned.ns.cloudflare.com.
 ehad.black.	3600	in	ds	12877 8 2 E5AD8A8CB0B272EA9A0466CE6CC10E013E9D4D679828FC41DABBB295A3811AF6
@@ -6340,7 +6346,7 @@ extremum.black.	3600	in	ns	a.ns.selectel.ru.
 extremum.black.	3600	in	ns	b.ns.selectel.ru.
 extremum.black.	3600	in	ns	c.ns.selectel.ru.
 extremum.black.	3600	in	ns	d.ns.selectel.ru.
-extusw2.monitoringtest.black.	3600	in	a	104.194.29.168
+extusw2.monitoringtest.black.	3600	in	a	104.195.112.204
 eye.black.	3600	in	ns	ns1.afternic.com.
 eye.black.	3600	in	ns	ns2.afternic.com.
 eyes.black.	3600	in	ns	ns1.sedoparking.com.
@@ -6821,6 +6827,8 @@ free.black.	3600	in	ns	ns5.afternic.com.
 free.black.	3600	in	ns	ns6.afternic.com.
 freedomisthenew.black.	3600	in	ns	ns21.domaincontrol.com.
 freedomisthenew.black.	3600	in	ns	ns22.domaincontrol.com.
+freelance.black.	3600	in	ns	ns1.cnolnic.net.
+freelance.black.	3600	in	ns	ns2.cnolnic.net.
 freelea.black.	3600	in	ns	ns1gjz.name.com.
 freelea.black.	3600	in	ns	ns2fgp.name.com.
 freelea.black.	3600	in	ns	ns3dgr.name.com.
@@ -7799,8 +7807,8 @@ hella.black.	3600	in	ns	ns3.afternic.com.
 hella.black.	3600	in	ns	ns4.afternic.com.
 hello.black.	3600	in	ns	ns1.afternic.com.
 hello.black.	3600	in	ns	ns2.afternic.com.
-hello88.black.	3600	in	ns	ns1.bodis.com.
-hello88.black.	3600	in	ns	ns2.bodis.com.
+hello88.black.	3600	in	ns	ns1.dns-redirect.com.
+hello88.black.	3600	in	ns	ns2.dns-redirect.com.
 hello88com.black.	3600	in	ns	garret.ns.cloudflare.com.
 hello88com.black.	3600	in	ns	liberty.ns.cloudflare.com.
 hello88z.black.	3600	in	ns	imani.ns.cloudflare.com.
@@ -7964,6 +7972,8 @@ holy.black.	3600	in	ns	ns127.grserver.gr.
 holy.black.	3600	in	ns	ns128.grserver.gr.
 holyblood.black.	3600	in	ns	dns01.muumuu-domain.com.
 holyblood.black.	3600	in	ns	dns02.muumuu-domain.com.
+home.black.	3600	in	ns	ns1.cnolnic.net.
+home.black.	3600	in	ns	ns2.cnolnic.net.
 homegroup.black.	3600	in	ns	ns1.domeny.host.
 homegroup.black.	3600	in	ns	ns2.domeny.host.
 homegroupblack.black.	3600	in	ns	ns1.domeny.host.
@@ -8866,10 +8876,8 @@ jeaux.black.	3600	in	ns	curitiba.ns.porkbun.com.
 jeaux.black.	3600	in	ns	fortaleza.ns.porkbun.com.
 jeaux.black.	3600	in	ns	maceio.ns.porkbun.com.
 jeaux.black.	3600	in	ns	salvador.ns.porkbun.com.
-jed.black.	3600	in	ns	ns1.a2hosting.com.
-jed.black.	3600	in	ns	ns2.a2hosting.com.
-jed.black.	3600	in	ns	ns3.a2hosting.com.
-jed.black.	3600	in	ns	ns4.a2hosting.com.
+jed.black.	3600	in	ns	dns101.registrar-servers.com.
+jed.black.	3600	in	ns	dns102.registrar-servers.com.
 jeff.black.	3600	in	ns	ns1.afternic.com.
 jeff.black.	3600	in	ns	ns2.afternic.com.
 jehjfq.black.	3600	in	ns	ns1.dnsip.com.
@@ -9114,10 +9122,18 @@ jun88.black.	3600	in	ns	dexter.ns.cloudflare.com.
 jun88.black.	3600	in	ns	zariyah.ns.cloudflare.com.
 jun881.black.	3600	in	ns	dexter.ns.cloudflare.com.
 jun881.black.	3600	in	ns	zariyah.ns.cloudflare.com.
+jun883.black.	3600	in	ns	nicole.ns.cloudflare.com.
+jun883.black.	3600	in	ns	sullivan.ns.cloudflare.com.
+jun885.black.	3600	in	ns	nicole.ns.cloudflare.com.
+jun885.black.	3600	in	ns	sullivan.ns.cloudflare.com.
+jun88e4.black.	3600	in	ns	nicole.ns.cloudflare.com.
+jun88e4.black.	3600	in	ns	sullivan.ns.cloudflare.com.
 jun88m.black.	3600	in	ns	charles.ns.cloudflare.com.
 jun88m.black.	3600	in	ns	gina.ns.cloudflare.com.
 jun88vn.black.	3600	in	ns	jermaine.ns.cloudflare.com.
 jun88vn.black.	3600	in	ns	yolanda.ns.cloudflare.com.
+jun88w.black.	3600	in	ns	nicole.ns.cloudflare.com.
+jun88w.black.	3600	in	ns	sullivan.ns.cloudflare.com.
 jupiter.black.	3600	in	ns	dns27.hichina.com.
 jupiter.black.	3600	in	ns	dns28.hichina.com.
 jus.black.	3600	in	ds	34799 8 2 F43DBAE92C87C3DF1905C0362EFA3EA18485BD7511EB509E7CEDDA155A4E4768
@@ -9315,8 +9331,8 @@ kennel-by.black.	3600	in	ns	ns8.wixdns.net.
 kennel-by.black.	3600	in	ns	ns9.wixdns.net.
 keonhacai.black.	3600	in	ns	alina.ns.cloudflare.com.
 keonhacai.black.	3600	in	ns	fonzie.ns.cloudflare.com.
-keonhacai5.black.	3600	in	ns	ns1.bodis.com.
-keonhacai5.black.	3600	in	ns	ns2.bodis.com.
+keonhacai5.black.	3600	in	ns	ns1.dns-redirect.com.
+keonhacai5.black.	3600	in	ns	ns2.dns-redirect.com.
 keonhacaiuytin.black.	3600	in	ns	deb.ns.cloudflare.com.
 keonhacaiuytin.black.	3600	in	ns	nolan.ns.cloudflare.com.
 kern.black.	3600	in	ns	ns.interhost.com.
@@ -9742,8 +9758,8 @@ launchpad.black.	3600	in	ns	jermaine.ns.cloudflare.com.
 launchpad.black.	3600	in	ns	joyce.ns.cloudflare.com.
 lauren.black.	3600	in	ns	ns23.domaincontrol.com.
 lauren.black.	3600	in	ns	ns24.domaincontrol.com.
-lava.black.	3600	in	ns	ns1.bodis.com.
-lava.black.	3600	in	ns	ns2.bodis.com.
+lava.black.	3600	in	ns	ns1.dns-redirect.com.
+lava.black.	3600	in	ns	ns2.dns-redirect.com.
 law.black.	3600	in	ns	ns-us.1and1-dns.com.
 law.black.	3600	in	ns	ns-us.1and1-dns.de.
 law.black.	3600	in	ns	ns-us.1and1-dns.org.
@@ -10067,8 +10083,8 @@ lordfilm0.black.	3600	in	ns	elisabeth.ns.cloudflare.com.
 lordfilm0.black.	3600	in	ns	milan.ns.cloudflare.com.
 lordfilm3.black.	3600	in	ns	ns1.brainydns.com.
 lordfilm3.black.	3600	in	ns	ns2.brainydns.com.
-lordfilm4.black.	3600	in	ns	ns1.bodis.com.
-lordfilm4.black.	3600	in	ns	ns2.bodis.com.
+lordfilm4.black.	3600	in	ns	ns1.dns-redirect.com.
+lordfilm4.black.	3600	in	ns	ns2.dns-redirect.com.
 lordfilms.black.	3600	in	ns	curitiba.ns.porkbun.com.
 lordfilms.black.	3600	in	ns	fortaleza.ns.porkbun.com.
 lordfilms.black.	3600	in	ns	maceio.ns.porkbun.com.
@@ -10401,8 +10417,8 @@ malibu.black.	3600	in	ns	curitiba.ns.porkbun.com.
 malibu.black.	3600	in	ns	fortaleza.ns.porkbun.com.
 malibu.black.	3600	in	ns	maceio.ns.porkbun.com.
 malibu.black.	3600	in	ns	salvador.ns.porkbun.com.
-mallorca.black.	3600	in	ns	ns1.bodis.com.
-mallorca.black.	3600	in	ns	ns2.bodis.com.
+mallorca.black.	3600	in	ns	ns1.dns-redirect.com.
+mallorca.black.	3600	in	ns	ns2.dns-redirect.com.
 mamba.black.	3600	in	ns	cody.ns.cloudflare.com.
 mamba.black.	3600	in	ns	dora.ns.cloudflare.com.
 man.black.	3600	in	ns	ns1.sedoparking.com.
@@ -11257,7 +11273,7 @@ mr2.black.	3600	in	ns	pearl.ns.cloudflare.com.
 mrkt.black.	3600	in	ns	dns1.stabletransit.com.
 mrkt.black.	3600	in	ns	dns2.stabletransit.com.
 mrr23etsbmm59pfarv8jbs0grpousmd7.black.	3600	in	nsec3	1 1 0 73 N0UPAQQT3CDOMJT5JHKN7KKG7Q11H6P1 NS SOA RRSIG DNSKEY NSEC3PARAM
-mrr23etsbmm59pfarv8jbs0grpousmd7.black.	3600	in	rrsig	NSEC3 8 2 3600 20251002005651 20250910235651 22725 black. rWnrLzV/VzzqdmG2uZ7y46SS+kMxCHHoR432pmA0e/JzhOFt8dNVyQ1XTab9Cx3edXgQvq1MHaP+gsOajiS9BQGnLP+6lAZw4NGn3hnjcmRPrjzWEp3cS0N2Dhz9aTBvLLiQTdBpLyNgOGYkR5eBgGpRAHDym1RZXaYgrnbfhAM=
+mrr23etsbmm59pfarv8jbs0grpousmd7.black.	3600	in	rrsig	NSEC3 8 2 3600 20251003010402 20250912000402 22725 black. VFYsbAJCn/21FK13lsYyHtlpkMjxiJzhl2sVbYUmiAFbqwSPQg3hvAEGr3E/hkAkZZaTATkq9+xUpJvrH5N2oiSYbnx/N4eWqop1/gwMi/2YytmoLMvDGP5TS1E7+K632OHon9c3mbKTbyAXCDv+KiTjOKGXQ9sZiGRTo1raY5c=
 mrs.black.	3600	in	ns	ns47.domaincontrol.com.
 mrs.black.	3600	in	ns	ns48.domaincontrol.com.
 msg.black.	3600	in	ns	pdns1.registrar-servers.com.
@@ -12523,8 +12539,8 @@ pac.black.	3600	in	ns	ns1.dan.com.
 pac.black.	3600	in	ns	ns1.sedoparking.com.
 pac.black.	3600	in	ns	ns2.dan.com.
 pac.black.	3600	in	ns	ns2.sedoparking.com.
-padawan.black.	3600	in	ns	ns1.bodis.com.
-padawan.black.	3600	in	ns	ns2.bodis.com.
+padawan.black.	3600	in	ns	ns1.dns-redirect.com.
+padawan.black.	3600	in	ns	ns2.dns-redirect.com.
 padel.black.	3600	in	ns	ns31.domaincontrol.com.
 padel.black.	3600	in	ns	ns32.domaincontrol.com.
 page.black.	3600	in	ns	ns1.afternic.com.
@@ -13098,8 +13114,6 @@ possible.black.	3600	in	ns	maceio.ns.porkbun.com.
 possible.black.	3600	in	ns	salvador.ns.porkbun.com.
 post.black.	3600	in	ns	ns1.dns-redirect.com.
 post.black.	3600	in	ns	ns2.dns-redirect.com.
-postbox.black.	3600	in	ns	ns69.domaincontrol.com.
-postbox.black.	3600	in	ns	ns70.domaincontrol.com.
 potkettle.black.	3600	in	ns	ns37.domaincontrol.com.
 potkettle.black.	3600	in	ns	ns38.domaincontrol.com.
 pouch.black.	3600	in	ns	plato.ns.cloudflare.com.
@@ -16030,6 +16044,8 @@ teicgermxq-vl.black.	3600	in	ns	alexandra.ns.cloudflare.com.
 teicgermxq-vl.black.	3600	in	ns	tosana.ns.cloudflare.com.
 teicgermxq-yn.black.	3600	in	ns	scott.ns.cloudflare.com.
 teicgermxq-yn.black.	3600	in	ns	yolanda.ns.cloudflare.com.
+teieasdzqw.black.	3600	in	ns	coby.ns.cloudflare.com.
+teieasdzqw.black.	3600	in	ns	raquel.ns.cloudflare.com.
 teiebnxri.black.	3600	in	ns	abdullah.ns.cloudflare.com.
 teiebnxri.black.	3600	in	ns	pat.ns.cloudflare.com.
 teiebram.black.	3600	in	ns	rosalyn.ns.cloudflare.com.
@@ -16046,30 +16062,60 @@ teiepbgmta.black.	3600	in	ns	drew.ns.cloudflare.com.
 teiepbgmta.black.	3600	in	ns	susan.ns.cloudflare.com.
 teieplmokn.black.	3600	in	ns	bingo.ns.cloudflare.com.
 teieplmokn.black.	3600	in	ns	christian.ns.cloudflare.com.
+teieploknb.black.	3600	in	ns	candy.ns.cloudflare.com.
+teieploknb.black.	3600	in	ns	dilbert.ns.cloudflare.com.
 teiepnbkv.black.	3600	in	ns	elma.ns.cloudflare.com.
 teiepnbkv.black.	3600	in	ns	scott.ns.cloudflare.com.
 teieqram.black.	3600	in	ns	raphaela.ns.cloudflare.com.
 teieqram.black.	3600	in	ns	simon.ns.cloudflare.com.
 teierfvcdx.black.	3600	in	ns	beau.ns.cloudflare.com.
 teierfvcdx.black.	3600	in	ns	keira.ns.cloudflare.com.
+teierfvcdz.black.	3600	in	ns	brit.ns.cloudflare.com.
+teierfvcdz.black.	3600	in	ns	hayes.ns.cloudflare.com.
+teierfvgbt.black.	3600	in	ns	wesley.ns.cloudflare.com.
+teierfvgbt.black.	3600	in	ns	yolanda.ns.cloudflare.com.
+teierfvqaz.black.	3600	in	ns	lara.ns.cloudflare.com.
+teierfvqaz.black.	3600	in	ns	seth.ns.cloudflare.com.
 teiergma.black.	3600	in	ns	irena.ns.cloudflare.com.
 teiergma.black.	3600	in	ns	tim.ns.cloudflare.com.
 teiertybnv.black.	3600	in	ns	george.ns.cloudflare.com.
 teiertybnv.black.	3600	in	ns	monroe.ns.cloudflare.com.
 teietawpgl.black.	3600	in	ns	bailey.ns.cloudflare.com.
 teietawpgl.black.	3600	in	ns	hans.ns.cloudflare.com.
+teietgbmko.black.	3600	in	ns	coby.ns.cloudflare.com.
+teietgbmko.black.	3600	in	ns	raquel.ns.cloudflare.com.
 teietgwlpa.black.	3600	in	ns	audrey.ns.cloudflare.com.
 teietgwlpa.black.	3600	in	ns	carter.ns.cloudflare.com.
+teieuhygtb.black.	3600	in	ns	margot.ns.cloudflare.com.
+teieuhygtb.black.	3600	in	ns	sri.ns.cloudflare.com.
+teieuhyjnm.black.	3600	in	ns	ryan.ns.cloudflare.com.
+teieuhyjnm.black.	3600	in	ns	tess.ns.cloudflare.com.
+teieuijnbv.black.	3600	in	ns	angelina.ns.cloudflare.com.
+teieuijnbv.black.	3600	in	ns	lakas.ns.cloudflare.com.
+teieuijnmk.black.	3600	in	ns	ken.ns.cloudflare.com.
+teieuijnmk.black.	3600	in	ns	nucum.ns.cloudflare.com.
+teieuopmkl.black.	3600	in	ns	margot.ns.cloudflare.com.
+teieuopmkl.black.	3600	in	ns	sri.ns.cloudflare.com.
 teieuwqasd.black.	3600	in	ns	jill.ns.cloudflare.com.
 teieuwqasd.black.	3600	in	ns	miles.ns.cloudflare.com.
 teiewpgbat.black.	3600	in	ns	beau.ns.cloudflare.com.
 teiewpgbat.black.	3600	in	ns	keira.ns.cloudflare.com.
 teiexswedc.black.	3600	in	ns	fred.ns.cloudflare.com.
 teiexswedc.black.	3600	in	ns	ulla.ns.cloudflare.com.
+teiexswplm.black.	3600	in	ns	wesley.ns.cloudflare.com.
+teiexswplm.black.	3600	in	ns	yolanda.ns.cloudflare.com.
+teieyhnmkl.black.	3600	in	ns	harlan.ns.cloudflare.com.
+teieyhnmkl.black.	3600	in	ns	noor.ns.cloudflare.com.
+teieyhnujb.black.	3600	in	ns	desiree.ns.cloudflare.com.
+teieyhnujb.black.	3600	in	ns	sage.ns.cloudflare.com.
+teieyhnujk.black.	3600	in	ns	raegan.ns.cloudflare.com.
+teieyhnujk.black.	3600	in	ns	seth.ns.cloudflare.com.
 teieyuioph.black.	3600	in	ns	fred.ns.cloudflare.com.
 teieyuioph.black.	3600	in	ns	ulla.ns.cloudflare.com.
 teiezxcasd.black.	3600	in	ns	jill.ns.cloudflare.com.
 teiezxcasd.black.	3600	in	ns	miles.ns.cloudflare.com.
+teiezxcvgh.black.	3600	in	ns	brodie.ns.cloudflare.com.
+teiezxcvgh.black.	3600	in	ns	ziggy.ns.cloudflare.com.
 teigarmcq-ux.black.	3600	in	ns	asa.ns.cloudflare.com.
 teigarmcq-ux.black.	3600	in	ns	moura.ns.cloudflare.com.
 teigrmn-qvzj.black.	3600	in	ns	kenneth.ns.cloudflare.com.
@@ -17410,6 +17456,8 @@ theobsidian.black.	3600	in	ns	dns1.p04.nsone.net.
 theobsidian.black.	3600	in	ns	dns2.p04.nsone.net.
 theobsidian.black.	3600	in	ns	dns3.p04.nsone.net.
 theobsidian.black.	3600	in	ns	dns4.p04.nsone.net.
+theofficialtribeofshabazz.black.	3600	in	ns	ns47.domaincontrol.com.
+theofficialtribeofshabazz.black.	3600	in	ns	ns48.domaincontrol.com.
 theology.black.	3600	in	ns	ns57.domaincontrol.com.
 theology.black.	3600	in	ns	ns58.domaincontrol.com.
 theomega.black.	3600	in	ns	ns1.srwp.net.
@@ -17759,8 +17807,8 @@ traditionalproductes.black.	3600	in	ns	ns1.dyna-ns.net.
 traditionalproductes.black.	3600	in	ns	ns2.dyna-ns.net.
 traffic.black.	3600	in	ns	elaine.ns.cloudflare.com.
 traffic.black.	3600	in	ns	mike.ns.cloudflare.com.
-trailblazer.black.	3600	in	ns	ns1.bodis.com.
-trailblazer.black.	3600	in	ns	ns2.bodis.com.
+trailblazer.black.	3600	in	ns	ns1.dns-redirect.com.
+trailblazer.black.	3600	in	ns	ns2.dns-redirect.com.
 train.black.	3600	in	ns	ns1.afternic.com.
 train.black.	3600	in	ns	ns2.afternic.com.
 trainer.black.	3600	in	ns	ns25.domaincontrol.com.
@@ -18416,8 +18464,8 @@ vector.black.	3600	in	ns	ns-cloud-b1.googledomains.com.
 vector.black.	3600	in	ns	ns-cloud-b2.googledomains.com.
 vector.black.	3600	in	ns	ns-cloud-b3.googledomains.com.
 vector.black.	3600	in	ns	ns-cloud-b4.googledomains.com.
-veda.black.	3600	in	ns	ns1.bodis.com.
-veda.black.	3600	in	ns	ns2.bodis.com.
+veda.black.	3600	in	ns	ns1.dns-redirect.com.
+veda.black.	3600	in	ns	ns2.dns-redirect.com.
 vega.black.	3600	in	ds	6073 13 2 2D9CF98F7566773A78BAEF439501A22306B6332C7874F3064CDD9F0445FA901C
 vega.black.	3600	in	ns	ns01.one.com.
 vega.black.	3600	in	ns	ns02.one.com.
@@ -19819,4 +19867,4 @@ zxxuowgr.black.	3600	in	ns	mia.ns.cloudflare.com.
 zxxuowgr.black.	3600	in	ns	mustafa.ns.cloudflare.com.
 zzz.black.	3600	in	ns	dns1.onamae.com.
 zzz.black.	3600	in	ns	dns2.onamae.com.
-black.	3600	in	soa	a0.nic.black. hostmaster.donuts.email. 1757552065 7200 900 1209600 3600
+black.	3600	in	soa	a0.nic.black. hostmaster.donuts.email. 1757638905 7200 900 1209600 3600
