@@ -1,4 +1,4 @@
-hockey.	3600	in	soa	v0n0.nic.hockey. hostmaster.donuts.email. 1757552685 7200 900 1209600 3600
+hockey.	3600	in	soa	v0n0.nic.hockey. hostmaster.donuts.email. 1757638892 7200 900 1209600 3600
 0.hockey.	3600	in	ns	ns45.domaincontrol.com.
 0.hockey.	3600	in	ns	ns46.domaincontrol.com.
 00.hockey.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -197,10 +197,6 @@ adultice.hockey.	3600	in	ns	ns5.worldnic.com.
 adultice.hockey.	3600	in	ns	ns6.worldnic.com.
 advanced.hockey.	3600	in	ns	cloud1.whc.ca.
 advanced.hockey.	3600	in	ns	cloud2.whc.ca.
-advisorpro.hockey.	3600	in	ns	ns-1092.awsdns-08.org.
-advisorpro.hockey.	3600	in	ns	ns-17.awsdns-02.com.
-advisorpro.hockey.	3600	in	ns	ns-1854.awsdns-39.co.uk.
-advisorpro.hockey.	3600	in	ns	ns-822.awsdns-38.net.
 advisors.hockey.	3600	in	ns	ns1.site.pro.
 advisors.hockey.	3600	in	ns	ns2.site.pro.
 advisors.hockey.	3600	in	ns	ns3.site.pro.
@@ -1469,6 +1465,10 @@ ehco.hockey.	3600	in	ns	ns3.cdmon.net.
 ehco.hockey.	3600	in	ns	ns4.cdmondns-01.org.
 ehco.hockey.	3600	in	ns	ns5.cdmondns-01.com.
 ehco.hockey.	3600	in	rrsig	DS 8 2 3600 20250930152657 20250909142657 2526 hockey. qtsnQSACBMUuNr5mXLobyp/PnBSnsjo7Js/rXhp/gH4Dn8Fg52vO7QxNXts/1bJeUL1b97UJOTE706KlzWZxLhTi4vasbC9zBT94e+ktcOpezuk9WMjgDQIzVXcbUyD9kAZEU7wLaidb2ZVT3kmZMnTL5148iMzT7tglDQWjf5U=
+ehl.hockey.	3600	in	ns	curitiba.ns.porkbun.com.
+ehl.hockey.	3600	in	ns	fortaleza.ns.porkbun.com.
+ehl.hockey.	3600	in	ns	maceio.ns.porkbun.com.
+ehl.hockey.	3600	in	ns	salvador.ns.porkbun.com.
 ei0ffsu78ukhofks1b3940ebhsc1tpno.hockey.	3600	in	nsec3	1 1 0 73 EJ34KIK6D05MBP1QOQ9QODBK65OSVLI0 NS DS RRSIG
 ei0ffsu78ukhofks1b3940ebhsc1tpno.hockey.	3600	in	rrsig	NSEC3 8 2 3600 20250930152657 20250909142657 2526 hockey. ESCCiCPM27NTkvLebGepl1dVJWP6pydkExOt7u94YuJmtn8gdH1za+IbdRKw3XHH+RBf9HNMVNOcCOwCV3PryWJLRbgqI2riR/cGx6z7JFff2W5tBacfnfb7b79QVJf/O+fkGGf6b+aWxHnELfo5VVL31aSYPdRL+M7c0evIfJc=
 einrad.hockey.	3600	in	ns	ns1030.ui-dns.org.
@@ -2126,7 +2126,7 @@ hockey.	3600	in	nsec3param	1 0 0 73
 hockey.	3600	in	rrsig	DNSKEY 8 1 3600 20250930152657 20250909142657 17029 hockey. Qfe55Y7/FmfDgmV/oKC8th5prNMbEnJ0+kR/siraqhwciT7hVklYT5myLFJY7xyIwQZJ7kZzAHec4T9CFa5rEqYP6CtDX8AjwrvqZO+RNf/AvYXpFyy3OzzImQUu22FtHmaFYBYuuBgI2OvG3UuPCwG+0fae9zIhXgAIBm8/PzitA3FoVuftSelhiEFqIF6PWevmz5BTcVMpKcg974HH29mg/wBzEwBkWytkBEhUvn4mmKzQWd3lYokE6CSHFyStwrvGMpANWMSgxwhiAXznrrq+gjwTIhSPgkTCBGYH2eMI5yWry2mkpxcEMhReb+L7hjcpu5OYYtwHIf5tNRZmtw==
 hockey.	3600	in	rrsig	NS 8 1 3600 20250930152657 20250909142657 2526 hockey. YBhWnYV7pjwTr9ToEx/roVJ/Z4bfqPFh6YkmkjkEOOpK+WVGnRGpYDAJwJsmD093sas0jV/P1084XPhRHYKP2YaL+dOnrZnhFPR9hJ3NjwAUJeNMZYZRtpSv7eU5rQURFm8HuuoofiOhJzDnBn27HwEf0kLIyMyA3NqIqofqr5c=
 hockey.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930152657 20250909142657 2526 hockey. OVL2imEwjY4UhsW8K3j6HABAOi+HXE1zuWBuz1Y1VA/G+vUpGFaTGcsjqQcGgD6m4M6DPjLH+y7fcYAKb5cH0xYyNgADUpH8KqWWzoCMeypdNIXkuNohIlMeS+bxU4C8NbmeaJBfZatDwgmtjWF7fOadivuq0zv1nX/dAKvituw=
-hockey.	3600	in	rrsig	SOA 8 1 3600 20251002010713 20250911000713 2526 hockey. ZNr344GR9/Ary0ZuNpI/JqZ7QeGC9h9+ck7DdVBw0K8ssigDQ3z3T6nr6SB+DRHBu8qTEqDdlmxCC+Wyv4MGQvZ5q+37ec3b4wLbADvcHy+f1zaHgn/kQUt7sSyqfxBVp8uZGqGS4IcMMU1hbBLcxstUgWgT6OJQt2wvu8Som9g=
+hockey.	3600	in	rrsig	SOA 8 1 3600 20251003010354 20250912000354 2526 hockey. NMdIEHG/Z0w/f/hZOnnVWFjAsVtRmpsT7WEJUPvu2iQxwPIXldKK1eBiAC0z32Dnwl2iXKf4kJTX+3Z9bUVvG5G/oJhTseQGInPzBdiwl0Xe5xgmtafdA7x3Cmb59KBEyLQRmQfoU8SQemukHx8MSAVR0jL5XbJuVslNOF0yGe4=
 hockey.hockey.	3600	in	ns	ns1.dyna-ns.net.
 hockey.hockey.	3600	in	ns	ns2.dyna-ns.net.
 hockey5s.hockey.	3600	in	ns	ns35.domaincontrol.com.
@@ -3797,8 +3797,8 @@ qv0t9tdnfl4pilipb5u2sc736au52ohc.hockey.	3600	in	nsec3	1 1 0 73 RCA6TM6BAU1VO0QS
 qv0t9tdnfl4pilipb5u2sc736au52ohc.hockey.	3600	in	rrsig	NSEC3 8 2 3600 20250930152657 20250909142657 2526 hockey. 5etAERlwK1i22yWNzTB2zh+qaZ5bLFD5/JcSqOptrNrDNLkMMp6mZn9+XzELPzCjp1KsAUAU7iadosBZbvBsXz20IIjWzp+tO03UBA73DDdMwqQJvHFL2OoLUumhgtkXDPu81s2pwNkd3rNLYxPV6SAiNkgXUu76mimOc/2gdNc=
 qvxnq.hockey.	3600	in	ns	ns1.dyna-ns.net.
 qvxnq.hockey.	3600	in	ns	ns2.dyna-ns.net.
-raha.hockey.	3600	in	ns	ns1.bodis.com.
-raha.hockey.	3600	in	ns	ns2.bodis.com.
+raha.hockey.	3600	in	ns	ns1.dns-redirect.com.
+raha.hockey.	3600	in	ns	ns2.dns-redirect.com.
 raiders.hockey.	3600	in	ns	curitiba.ns.porkbun.com.
 raiders.hockey.	3600	in	ns	fortaleza.ns.porkbun.com.
 raiders.hockey.	3600	in	ns	maceio.ns.porkbun.com.
@@ -4901,7 +4901,7 @@ used.hockey.	3600	in	ns	dns5.name-services.com.
 usedvandealership.hockey.	3600	in	ns	ns1.dyna-ns.net.
 usedvandealership.hockey.	3600	in	ns	ns2.dyna-ns.net.
 usiuf0p6n1nlotg30m3hn37h2rq4d1k9.hockey.	3600	in	nsec3	1 1 0 73 UVFQGEACIGAS6D2OD9DE12U64S1UFOTG NS SOA RRSIG DNSKEY NSEC3PARAM
-usiuf0p6n1nlotg30m3hn37h2rq4d1k9.hockey.	3600	in	rrsig	NSEC3 8 2 3600 20251002010713 20250911000713 2526 hockey. itY7jzvGgmc0Udy35dFk+VJlmn7+ht86bkktVT+jD4uEy4OtKxNx3oITa4kKWdvb6BtYf37L+1GfqgRmamc5Lta3O75+YsQI8ftGbjG/zQ+YMZMk1by/eCzfZORWUGmbOPH+lzb4X3cuDYwVoqnxlpbrM3z8nU4KkOcaGs9JbIc=
+usiuf0p6n1nlotg30m3hn37h2rq4d1k9.hockey.	3600	in	rrsig	NSEC3 8 2 3600 20251003010354 20250912000354 2526 hockey. wgrQKM0n3IKEQsRf2znPnbioZ18nB3AhhLXQjqhZols/G+J4kaEaegzux2XuxMTo9XR4ywyL2yVxIqArsE+61wzhRhHj7z6n7HwXJzmI78DseWGrM8vPtE5F/aHEKo5sXU/r8e69PELRm1MYFKr4PX0Sb8d4ipFGvHJGYs2e730=
 utah.hockey.	3600	in	ns	ns07.domaincontrol.com.
 utah.hockey.	3600	in	ns	ns08.domaincontrol.com.
 utahblades.hockey.	3600	in	ns	ns1.101domain.com.
@@ -5109,8 +5109,8 @@ vr1.hockey.	3600	in	ns	dns1.registrar-servers.com.
 vr1.hockey.	3600	in	ns	dns2.registrar-servers.com.
 vultureculture.hockey.	3600	in	ns	ns49.domaincontrol.com.
 vultureculture.hockey.	3600	in	ns	ns50.domaincontrol.com.
-w88.hockey.	3600	in	ns	ns1.bodis.com.
-w88.hockey.	3600	in	ns	ns2.bodis.com.
+w88.hockey.	3600	in	ns	ns1.dns-redirect.com.
+w88.hockey.	3600	in	ns	ns2.dns-redirect.com.
 wa.hockey.	3600	in	ns	ns-1.smartwire.net.au.
 wa.hockey.	3600	in	ns	ns-2.smartwire.net.au.
 wadu.hockey.	3600	in	ns	ns1.eurodns.com.
@@ -5396,4 +5396,4 @@ zerozero.hockey.	3600	in	ns	maceio.ns.porkbun.com.
 zerozero.hockey.	3600	in	ns	salvador.ns.porkbun.com.
 zhl.hockey.	3600	in	ns	ns01.domaincontrol.com.
 zhl.hockey.	3600	in	ns	ns02.domaincontrol.com.
-hockey.	3600	in	soa	v0n0.nic.hockey. hostmaster.donuts.email. 1757552685 7200 900 1209600 3600
+hockey.	3600	in	soa	v0n0.nic.hockey. hostmaster.donuts.email. 1757638892 7200 900 1209600 3600
