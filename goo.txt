@@ -1,9 +1,9 @@
-goo.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757551144 1800 900 604800 3600
+goo.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757635586 1800 900 604800 3600
 01clgt73se7ns6jde0bsnf76qe0ic5cs.goo.	3600	in	nsec3	1 0 0 - DE90BUK0EEA9M7ISFO6DPTJN0L0836QM NS
 01clgt73se7ns6jde0bsnf76qe0ic5cs.goo.	3600	in	rrsig	NSEC3 8 2 3600 20250918093402 20250910204533 13560 goo. eI7PWrQaNcaiSPtTcjRIMYOvqRlt9N4tHZYtA2k1R/ENL3hOwRgSOdLPzMngmsEp7JbM5Z+ICoGa9KO2mdR8/1NIpEnV7l/q9oDyuwXIFrvPj7/tHgdzuSxlV1SaniXadf79TN+rhEp19unz6Y38xhLlXNDzCMk80t6nIh2NfdY=
-__zone_status.goo.	0	in	rrsig	TXT 8 2 0 20250918093047 20250910233839 13560 goo. VoyZZEnLjGcRjPNXIAd8PkBSn06U+Wq1Twv1JHcdckmyYfTv7zN9BE7nnYSqMMaHf/gxYdNM/+/J/M8Lynwf8D9YsIZbf74HOwTyGTbNY7BYT/Et5VLkErKFYCkOlW3By4m4g/XfajgFWJqM30P5cElHv0b9IxiQzPdR/VofkjU=
-__zone_status.goo.	0	in	txt	"original-serial=73136"
-__zone_status.goo.	0	in	txt	"original-timestamp=1757551092.04345"
+__zone_status.goo.	0	in	rrsig	TXT 8 2 0 20250919024321 20250911230611 13560 goo. ukuy6MM/utgRj0JdJ4QtdlD0pAdHF8yiCyzPuOIjmzCWv/hki3FWofDjSGIw8EcHptWW1OyW7B6AGAK1xutiQ6TlT0gjTv2Mq7Q8Ymam5TO8SwQIs4KEIBMmX+qcUCP6uZnHxaQBu2JOWdst6THKPBEgal5UhjGPEAWBoVcibqA=
+__zone_status.goo.	0	in	txt	"original-serial=73158"
+__zone_status.goo.	0	in	txt	"original-timestamp=1757635571.39677"
 de90buk0eea9m7isfo6dptjn0l0836qm.goo.	3600	in	nsec3	1 0 0 - PE3E5CTPE723503RR3D8FR0C34KFGJEF NS SOA RRSIG DNSKEY NSEC3PARAM
 de90buk0eea9m7isfo6dptjn0l0836qm.goo.	3600	in	rrsig	NSEC3 8 2 3600 20250917122605 20250910204533 13560 goo. ulhIV4Z6I/ik5HhZCbBB3vm9DZ8opgEjk+fCVlndX2oAQYmPZahGhFVRZHkjQLhTtpXYVmN/09W9Jj7tMrxumupL3KUb8/9QZYHsdAijkyKp6s1gZ+2l23J1Ub0WpSYYpNCu4OxP/ljK5BIDYdtjIexIGUgG+6rx2whP4dRoIMM=
 goo.	0	in	nsec3param	1 0 0 -
@@ -16,7 +16,7 @@ goo.	86400	in	ns	k.gmoregistry.net.
 goo.	86400	in	ns	l.gmoregistry.net.
 goo.	86400	in	rrsig	DNSKEY 8 1 86400 20250917183935 20250910204533 6266 goo. Cckf6sbFFBF7DCJLFZY+t5sSgx0lyVVsSzS+EvJoc5L6BG9YIiadvQNXAwfaV+3ZcnBB/oj3xbhGxDvq2GRSDWGLGQLLyqKbw1DJ6kW6jfU9TYLtFDjbaRwZ7xZ7wS5B2+Sp22vBuqdBrBH1JAwBQgw/KIbbJ2Awq/4+LKZuPQ0dZRSAmmCLBx+H8R2VDVeZXY3KBzXix1r0zYYRrd+lkmb1olLVFMkzWgBqCHoOyLGR+unRlHa2IMDjwBp1OU7Cudh3KRV6OPD885S4tODuI2bXjIzhBhVfm0gLpLXz42bbGJmpPlU61HfROrhGCqW0mQbUVf3/x2769Q7/ZBKNkQ==
 goo.	86400	in	rrsig	NS 8 1 86400 20250917160135 20250910204533 13560 goo. h5mWgeAPVwdT+cmbPsqHo7yPchFivoQJiOcjSGxtq+CgfF5IoWRBoBppnx6ZOqbXE4NEWmqc9Sva33sufvIeWNg3QcRjqcPLO+ObhGRxcWMaqHevcUk6a9FGuZvXBo+vYeteD9n2IlzL7/hm4YNtU/ZwYZW/RD2NJyfzZJ/ypK0=
-goo.	86400	in	rrsig	SOA 8 1 86400 20250917204338 20250910233839 13560 goo. IvX0EFDARbx7/XQAlPtu0rBc1ALu0zEP3zfx0gVGmIBCOpu8E08jyQL5bGHNQb+m8llDiv3SVt+JtH/CYm6QfBVNK+CFJw/kYaCrKxBJCrgc87ilj/NgXM466LpRe1t0WhzOf3iFzdKxEp+V8/CnepWsfMRjNAV8KJPka5UcxBk=
+goo.	86400	in	rrsig	SOA 8 1 86400 20250918195957 20250911230611 13560 goo. JME3LphpJbQPfDSqTdejIj4/sRtET5ANLKSFSsCPioac8Y2H9/tklKGtDlFdzZo0wRBa5KKej+vpFPxF/KRfBNCx2VDVCxVtM+/MIJxXyHN7XPFLcjT2lqCqgcgJ5sJCaQpWLR4jlIwiJGj2IGaPZn8DUKYyO9xPQ963Rj8KjY4=
 nic.goo.	86400	in	ns	ns1.gmointernet.com.
 nic.goo.	86400	in	ns	ns1.gmointernet.jp.
 pe3e5ctpe723503rr3d8fr0c34kfgjef.goo.	3600	in	nsec3	1 0 0 - PNAHJP6M37SITQNBJ6P3LBEKE437BM88 NS
@@ -27,4 +27,4 @@ www.goo.	86400	in	ns	ns1.goo.ne.jp.
 www.goo.	86400	in	ns	ns2.goo.ne.jp.
 www.goo.	86400	in	ns	ns6.intervia.ad.jp.
 www.goo.	86400	in	ns	ns6.via.or.jp.
-goo.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757551144 1800 900 604800 3600
+goo.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757635586 1800 900 604800 3600
