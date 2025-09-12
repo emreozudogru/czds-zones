@@ -1,4 +1,4 @@
-guide.	3600	in	soa	v0n0.nic.guide. hostmaster.donuts.email. 1757552588 7200 900 1209600 3600
+guide.	3600	in	soa	v0n0.nic.guide. hostmaster.donuts.email. 1757638801 7200 900 1209600 3600
 0031.guide.	3600	in	ns	curitiba.ns.porkbun.com.
 0031.guide.	3600	in	ns	fortaleza.ns.porkbun.com.
 0031.guide.	3600	in	ns	maceio.ns.porkbun.com.
@@ -11,8 +11,8 @@ guide.	3600	in	soa	v0n0.nic.guide. hostmaster.donuts.email. 1757552588 7200 900 
 0066.guide.	3600	in	ns	salvador.ns.porkbun.com.
 00966.guide.	3600	in	ns	ns1.dns-parking.com.
 00966.guide.	3600	in	ns	ns2.dns-parking.com.
-009casino.guide.	3600	in	ns	ns1.bodis.com.
-009casino.guide.	3600	in	ns	ns2.bodis.com.
+009casino.guide.	3600	in	ns	ns1.dns-redirect.com.
+009casino.guide.	3600	in	ns	ns2.dns-redirect.com.
 00video.guide.	3600	in	ns	ns1.afternic.com.
 00video.guide.	3600	in	ns	ns2.afternic.com.
 01u7lq4qq0umrgf92m9s6aivdbmrol2q.guide.	3600	in	nsec3	1 1 0 73 02ILSJUDEJK6S0NQ90EJFIUGR7BCE3SU NS DS RRSIG
@@ -1012,8 +1012,8 @@ guide.	3600	in	soa	v0n0.nic.guide. hostmaster.donuts.email. 1757552588 7200 900 
 78win.guide.	3600	in	ns	matias.ns.cloudflare.com.
 79bk4h7q3kn7u2upibco881ei2ou835s.guide.	3600	in	nsec3	1 1 0 73 79VOAUMS2AT4TVA4ML5L4GB7UU3US1P4 NS DS RRSIG
 79bk4h7q3kn7u2upibco881ei2ou835s.guide.	3600	in	rrsig	NSEC3 8 2 3600 20250930154834 20250909144834 54198 guide. YaqrwjuEnvYW1gQwUunObMidYNOLlSa+uQSTrz0XV4E9xFQuTAyEuZNLDhgkd1EYtMApBeengpXW5t6jl1/HU2w8IqtGxnpSCni9/ijwCCRwLZmeSZ8ATo8+4DBPWK96GTcLOQ15QLkH/QbieidpqdD9FewGr+JCZ2wLUPxIZ9c=
-79king.guide.	3600	in	ns	ns1.bodis.com.
-79king.guide.	3600	in	ns	ns2.bodis.com.
+79king.guide.	3600	in	ns	ns1.dns-redirect.com.
+79king.guide.	3600	in	ns	ns2.dns-redirect.com.
 79voaums2at4tva4ml5l4gb7uu3us1p4.guide.	3600	in	nsec3	1 1 0 73 7COSN59OQCQK5CLIETVO5SLRLS2MABV8 NS DS RRSIG
 79voaums2at4tva4ml5l4gb7uu3us1p4.guide.	3600	in	rrsig	NSEC3 8 2 3600 20250930154834 20250909144834 54198 guide. BpbQgkKc5GPjKOOPLk1DxF9owF33M9Hm4vRxBL0nhdsvI+4ICWybEGp/bHezOI7qG5L9zQWRfMdzfePcM/r0J1uOWXn4QJXjhF/J/B8HHcYb9Vilu3rUHOgpB7/rfGbUc0OXcgMvhZaFEFUYRsqf3MeRP+EU8DdXQgP5iIvXRF4=
 7club.guide.	3600	in	ns	chance.ns.cloudflare.com.
@@ -1086,14 +1086,12 @@ guide.	3600	in	soa	v0n0.nic.guide. hostmaster.donuts.email. 1757552588 7200 900 
 85971.guide.	3600	in	ns	ns2jqz.name.com.
 85971.guide.	3600	in	ns	ns3cna.name.com.
 85971.guide.	3600	in	ns	ns4blx.name.com.
-86iis99m735ivbi6es9vet0v2kt5q0lj.guide.	3600	in	nsec3	1 1 0 73 87FTM00FHE0E14QJ4PACO49UD5TQ8Q07 NS DS RRSIG
-86iis99m735ivbi6es9vet0v2kt5q0lj.guide.	3600	in	rrsig	NSEC3 8 2 3600 20251001212648 20250910202648 54198 guide. jnU3VnmZ4OL0erg2mQfq0Fu1gGz7IZvqXD798GhBTOf7UVL4delmEh97xZxbH4rnu0MvY6eBwcxFS7a42XpXw+FwC/Z8G3Q+AgIunyiOrglPSKSJZMz+VjmFmLeSRjjkWN0uBR0ezK40nhpOPVjw4ZQKn7Jb+LeKnMtsVj12ASw=
+86iis99m735ivbi6es9vet0v2kt5q0lj.guide.	3600	in	nsec3	1 1 0 73 87IGE3QIDBNDLNQDFLG16V3TQ0R2J4TS NS DS RRSIG
+86iis99m735ivbi6es9vet0v2kt5q0lj.guide.	3600	in	rrsig	NSEC3 8 2 3600 20251002143122 20250911133122 54198 guide. ENxmHwOsofCjY1mZYIfZzA5fXkZNCfToIEWJ/XH0uweUcnXvbpE6p0KqzI3z3lQZril8A/tIcIofqOQTaP3q9kPcPH6mo506mk1NZebKWp9a6BpudU7bLdGu4vQBYbunlbsMroJBdh3IRZ5526Ns1KgTvX2iJWg3HYt+qLLCctU=
 8716.guide.	3600	in	ns	dean.ns.cloudflare.com.
 8716.guide.	3600	in	ns	sierra.ns.cloudflare.com.
 875623.guide.	3600	in	ns	ns1.dns.com.
 875623.guide.	3600	in	ns	ns2.dns.com.
-87ftm00fhe0e14qj4paco49ud5tq8q07.guide.	3600	in	nsec3	1 1 0 73 87IGE3QIDBNDLNQDFLG16V3TQ0R2J4TS NS DS RRSIG
-87ftm00fhe0e14qj4paco49ud5tq8q07.guide.	3600	in	rrsig	NSEC3 8 2 3600 20251001212648 20250910202648 54198 guide. gibb57OboGPhznzauubNkQCfH4dwoMikBbVNzr7BqtfY/fdDMg1HNa2hmEJxrdXNqiJF9MBaBlam+Zhm0+7N6K0BVGR7evlBrBpZA4uLnMDaD/dSUqLrmEegrASM3Qpu6Lu3lP825hZvOKeAVyszrHsFx+ieABSI47PpT7YujPs=
 87ige3qidbndlnqdflg16v3tq0r2j4ts.guide.	3600	in	nsec3	1 1 0 73 8AA1B7DKQJVV93A2VU9MJ1BG310EMRTC NS DS RRSIG
 87ige3qidbndlnqdflg16v3tq0r2j4ts.guide.	3600	in	rrsig	NSEC3 8 2 3600 20250930154834 20250909144834 54198 guide. gq1BhMq7sWzLR1+SmjS09MD7jpCnJW8BBbSTbQ58vSaSKMaEAkHXmhxUfiX+dv/lPJp1LWudEygOFVOy1qwLXdXBN+KLGVWDBryb0QfQhFBt2xr3hJvVileRxFT4LUF4cZZPqZ96FE4INRqgG/E55hXbgai0vj7il/cxXE4M4oo=
 888.guide.	3600	in	ns	dns1.idp365.net.
@@ -1370,8 +1368,8 @@ aa.guide.	3600	in	ns	ns-cloud-c4.googledomains.com.
 aa.guide.	3600	in	rrsig	DS 8 2 3600 20250930154834 20250909144834 54198 guide. YvQFM0JrMZKzp2Yrv2oPSK8lPVQarxP7A9CE+Rmqunbw9diEQdi/acoWBRk+zSu8YSSSA5CycQ/FDCiDsZeAfn6yzU+mx+i+Ahm7/kUQwWkPhzVXPqDBkPo77Ngs18WGGADX04L9yl9lpLd377w8Xl4zDvWAi95H1VJycUgc0zM=
 aac.guide.	3600	in	ns	ns1.dns-redirect.com.
 aac.guide.	3600	in	ns	ns2.dns-redirect.com.
-aadhaarcarddownload.guide.	3600	in	ns	ns1.dns-parking.com.
-aadhaarcarddownload.guide.	3600	in	ns	ns2.dns-parking.com.
+aadhaarcarddownload.guide.	3600	in	ns	ns1.dns-expired.com.
+aadhaarcarddownload.guide.	3600	in	ns	ns2.dns-expired.com.
 aapexshow.guide.	3600	in	ns	pdns13.domaincontrol.com.
 aapexshow.guide.	3600	in	ns	pdns14.domaincontrol.com.
 aapmr.guide.	3600	in	ns	ns1.hover.com.
@@ -3049,8 +3047,8 @@ americanelectioninstitute.guide.	3600	in	ns	ns11.domaincontrol.com.
 americanelectioninstitute.guide.	3600	in	ns	ns12.domaincontrol.com.
 americanelectioninstitutevoter.guide.	3600	in	ns	ns11.domaincontrol.com.
 americanelectioninstitutevoter.guide.	3600	in	ns	ns12.domaincontrol.com.
-americanholiday.guide.	3600	in	ns	ns1.dyna-ns.net.
-americanholiday.guide.	3600	in	ns	ns2.dyna-ns.net.
+americanholiday.guide.	3600	in	ns	ns1.atom.com.
+americanholiday.guide.	3600	in	ns	ns2.atom.com.
 americaninsurance.guide.	3600	in	ns	cortney.ns.cloudflare.com.
 americaninsurance.guide.	3600	in	ns	jerry.ns.cloudflare.com.
 americanmountain.guide.	3600	in	ns	ns45.domaincontrol.com.
@@ -3853,8 +3851,6 @@ arizonaroofingservice.guide.	3600	in	ns	ns1.dyna-ns.net.
 arizonaroofingservice.guide.	3600	in	ns	ns2.dyna-ns.net.
 arizonatravel.guide.	3600	in	ns	dns1.registrar-servers.com.
 arizonatravel.guide.	3600	in	ns	dns2.registrar-servers.com.
-arizonavoting.guide.	3600	in	ns	ns69.domaincontrol.com.
-arizonavoting.guide.	3600	in	ns	ns70.domaincontrol.com.
 ark.guide.	3600	in	ns	ns77.domaincontrol.com.
 ark.guide.	3600	in	ns	ns78.domaincontrol.com.
 arkana.guide.	3600	in	ns	dns200.anycast.me.
@@ -4220,8 +4216,8 @@ athome.guide.	3600	in	ns	ns-166-c.gandi.net.
 athome.guide.	3600	in	ns	ns-67-b.gandi.net.
 athos.guide.	3600	in	ns	desi.ns.cloudflare.com.
 athos.guide.	3600	in	ns	jermaine.ns.cloudflare.com.
-ati.guide.	3600	in	ns	ns1.bodis.com.
-ati.guide.	3600	in	ns	ns2.bodis.com.
+ati.guide.	3600	in	ns	ns1.dns-redirect.com.
+ati.guide.	3600	in	ns	ns2.dns-redirect.com.
 atko.guide.	3600	in	ns	ns-1376.awsdns-44.org.
 atko.guide.	3600	in	ns	ns-1850.awsdns-39.co.uk.
 atko.guide.	3600	in	ns	ns-388.awsdns-48.com.
@@ -4407,10 +4403,6 @@ austrianeagle.guide.	3600	in	ns	dns1.registrar-servers.com.
 austrianeagle.guide.	3600	in	ns	dns2.registrar-servers.com.
 austriatour.guide.	3600	in	ns	ns1.hoststar.hosting.
 austriatour.guide.	3600	in	ns	ns2.hoststar.hosting.
-auswandern.guide.	3600	in	ns	ns1.moreweb.nz.
-auswandern.guide.	3600	in	ns	ns2.moreweb.nz.
-auswandern.guide.	3600	in	ns	ns3.moreweb.nz.
-auswandern.guide.	3600	in	ns	ns4.moreweb.nz.
 auszeit.guide.	3600	in	ns	ns5.kasserver.com.
 auszeit.guide.	3600	in	ns	ns6.kasserver.com.
 auth.guide.	3600	in	ns	dns1.registrar-servers.com.
@@ -4687,8 +4679,6 @@ azubi.guide.	3600	in	ns	c.ns14.net.
 azubi.guide.	3600	in	ns	d.ns14.net.
 azvoter.guide.	3600	in	ns	ns53.domaincontrol.com.
 azvoter.guide.	3600	in	ns	ns54.domaincontrol.com.
-azvoting.guide.	3600	in	ns	ns69.domaincontrol.com.
-azvoting.guide.	3600	in	ns	ns70.domaincontrol.com.
 b-school.guide.	3600	in	ns	ns1.dyna-ns.net.
 b-school.guide.	3600	in	ns	ns2.dyna-ns.net.
 b.guide.	3600	in	ns	ns33.domaincontrol.com.
@@ -4834,8 +4824,8 @@ bag.guide.	3600	in	ns	ns1.uniregistry-dns.com.
 bag.guide.	3600	in	ns	ns1.uniregistry-dns.net.
 bag.guide.	3600	in	ns	ns2.uniregistry-dns.com.
 bag.guide.	3600	in	ns	ns2.uniregistry-dns.net.
-bagel.guide.	3600	in	ns	ns1.bodis.com.
-bagel.guide.	3600	in	ns	ns2.bodis.com.
+bagel.guide.	3600	in	ns	ns1.dns-redirect.com.
+bagel.guide.	3600	in	ns	ns2.dns-redirect.com.
 bague.guide.	3600	in	ns	dax.ns.cloudflare.com.
 bague.guide.	3600	in	ns	josephine.ns.cloudflare.com.
 baguio.guide.	3600	in	ds	2371 13 2 6F9720238822826C079C3440A8983C0FCE3500FAD3B97775DC08BFF69F07A7FA
@@ -5343,6 +5333,14 @@ beacon.guide.	3600	in	ns	ns101.ovh.net.
 beacon.guide.	3600	in	rrsig	DS 8 2 3600 20250930154834 20250909144834 54198 guide. ZFp/uSVnHjRy6ZZurh/HAmSBmo0BAUEsA0L217qot0WsOHraNRG8huKt2eFwh5PUiGod7cbSd/+TpFTjaasRO+tkoz0EqJf3QnrrZxGH+P5pxMq+PhakSgeL4gsrv5VTIeX+f7f6ZW413NjOWGJPk1bmSnxtN9wlrXte1LuXZiM=
 beacons.guide.	3600	in	ns	dns101.ovh.net.
 beacons.guide.	3600	in	ns	ns101.ovh.net.
+bead.guide.	3600	in	ns	curitiba.ns.porkbun.com.
+bead.guide.	3600	in	ns	fortaleza.ns.porkbun.com.
+bead.guide.	3600	in	ns	maceio.ns.porkbun.com.
+bead.guide.	3600	in	ns	salvador.ns.porkbun.com.
+beading.guide.	3600	in	ns	curitiba.ns.porkbun.com.
+beading.guide.	3600	in	ns	fortaleza.ns.porkbun.com.
+beading.guide.	3600	in	ns	maceio.ns.porkbun.com.
+beading.guide.	3600	in	ns	salvador.ns.porkbun.com.
 beam.guide.	3600	in	ns	ns11.domaincontrol.com.
 beam.guide.	3600	in	ns	ns12.domaincontrol.com.
 beams.guide.	3600	in	ns	dns1.registrar-servers.com.
@@ -5998,8 +5996,8 @@ bettingsites.guide.	3600	in	ns	ajay.ns.cloudflare.com.
 bettingsites.guide.	3600	in	ns	dahlia.ns.cloudflare.com.
 bettors.guide.	3600	in	ns	ns1.inceptionservers.com.
 bettors.guide.	3600	in	ns	ns2.inceptionservers.com.
-betvisa.guide.	3600	in	ns	edward.ns.cloudflare.com.
-betvisa.guide.	3600	in	ns	ryleigh.ns.cloudflare.com.
+betvisa.guide.	3600	in	ns	ns1.dyna-ns.net.
+betvisa.guide.	3600	in	ns	ns2.dyna-ns.net.
 betway88.guide.	3600	in	ns	ns1.dyna-ns.net.
 betway88.guide.	3600	in	ns	ns2.dyna-ns.net.
 betwin.guide.	3600	in	ns	fwd1.dccdns.com.
@@ -7194,8 +7192,8 @@ bracelet.guide.	3600	in	ns	dax.ns.cloudflare.com.
 bracelet.guide.	3600	in	ns	lila.ns.cloudflare.com.
 bracelets.guide.	3600	in	ns	ns1.dns-parking.com.
 bracelets.guide.	3600	in	ns	ns2.dns-parking.com.
-braces.guide.	3600	in	ns	ns1.bodis.com.
-braces.guide.	3600	in	ns	ns2.bodis.com.
+braces.guide.	3600	in	ns	ns1.dns-redirect.com.
+braces.guide.	3600	in	ns	ns2.dns-redirect.com.
 brad.guide.	3600	in	ns	ns31.domaincontrol.com.
 brad.guide.	3600	in	ns	ns32.domaincontrol.com.
 bradford.guide.	3600	in	ns	ns1.stabletransit.com.
@@ -8586,8 +8584,6 @@ cascadia.guide.	3600	in	ns	ns-cloud-a2.googledomains.com.
 cascadia.guide.	3600	in	ns	ns-cloud-a3.googledomains.com.
 cascadia.guide.	3600	in	ns	ns-cloud-a4.googledomains.com.
 cascadia.guide.	3600	in	rrsig	DS 8 2 3600 20250930154834 20250909144834 54198 guide. Mz9gLVU+mvDXn36cRSsJ268L8fEv4sRVq0b1B5OtgZ6uJl179ZIPunL6CRk3pv6FkgOoX7QgG9Ezo7Q14nvpp+efkJvD0p2AJzsv6KcQ19uLdxLRuAwbIXdTiNJNn7DUxus5JzwyFCupMGQPWQSau8Bu5N1mFFPE56LbfCRCqlI=
-cascais.guide.	3600	in	ns	ns1.dns-expired.com.
-cascais.guide.	3600	in	ns	ns2.dns-expired.com.
 casco.guide.	3600	in	ns	ns1.dns-parking.com.
 casco.guide.	3600	in	ns	ns2.dns-parking.com.
 case.guide.	3600	in	ns	ns-cloud-d1.googledomains.com.
@@ -8665,8 +8661,8 @@ cast.guide.	3600	in	ns	ns11.dnsmadeeasy.com.
 cast.guide.	3600	in	ns	ns12.dnsmadeeasy.com.
 cast.guide.	3600	in	ns	ns13.dnsmadeeasy.com.
 cast.guide.	3600	in	ns	ns14.dnsmadeeasy.com.
-castaway.guide.	3600	in	ns	ns1.bodis.com.
-castaway.guide.	3600	in	ns	ns2.bodis.com.
+castaway.guide.	3600	in	ns	ns1.dns-redirect.com.
+castaway.guide.	3600	in	ns	ns2.dns-redirect.com.
 castello-montalfina.guide.	3600	in	ns	ns1.consul.to.
 castello-montalfina.guide.	3600	in	ns	ns2.consul.to.
 castello.guide.	3600	in	ns	ns-cloud-c1.googledomains.com.
@@ -9867,10 +9863,10 @@ clever.guide.	3600	in	ns	ns33.domaincontrol.com.
 clever.guide.	3600	in	ns	ns34.domaincontrol.com.
 clevertravel.guide.	3600	in	ns	ns.namespace4you.de.
 clevertravel.guide.	3600	in	ns	ns2.namespace4you.de.
-clew.guide.	3600	in	ns	ns-1379.awsdns-44.org.
-clew.guide.	3600	in	ns	ns-2013.awsdns-59.co.uk.
-clew.guide.	3600	in	ns	ns-510.awsdns-63.com.
-clew.guide.	3600	in	ns	ns-677.awsdns-20.net.
+clew.guide.	3600	in	ns	ns-1153.awsdns-16.org.
+clew.guide.	3600	in	ns	ns-1851.awsdns-39.co.uk.
+clew.guide.	3600	in	ns	ns-205.awsdns-25.com.
+clew.guide.	3600	in	ns	ns-538.awsdns-03.net.
 clhbq6mq6u25nltr7vknce47tfg941ur.guide.	3600	in	nsec3	1 1 0 73 CMBOI23ONPSGI91BP1BTBGLB3MILI8SB NS DS RRSIG
 clhbq6mq6u25nltr7vknce47tfg941ur.guide.	3600	in	rrsig	NSEC3 8 2 3600 20250930154834 20250909144834 54198 guide. Fc2CjP1OXTtbmppyD9WFqSaVCw9zyt5F3/NE5vpRhLURUMZON9YOxqXzjHx/kZpozBeyHVHGPmlEGU1xPD8NDQTWIZ6X2N5Z5Ah8mih9Z8V54JcjvOoTt9RLWFJhNRJGxBuXZEGHMfW5sztNd0MpQCfhhNSm50IJEHMkruhNW9s=
 cli.guide.	3600	in	ns	ns1.dns-parking.com.
@@ -10021,7 +10017,7 @@ co2.guide.	3600	in	ns	ns-de.1and1-dns.com.
 co2.guide.	3600	in	ns	ns-de.1and1-dns.de.
 co2.guide.	3600	in	ns	ns-de.1and1-dns.org.
 coa0vaq2vtpst74nonfu1e1f368i8ebo.guide.	3600	in	nsec3	1 1 0 73 CRTHFQ73K08CEJ6L9296BN5ITU70RKH2 NS SOA RRSIG DNSKEY NSEC3PARAM
-coa0vaq2vtpst74nonfu1e1f368i8ebo.guide.	3600	in	rrsig	NSEC3 8 2 3600 20251002010737 20250911000737 54198 guide. bjrshZuCk1diiCFlGtUSP2xqqskBVZ7zkUTEJrkde5betjD81BBndE0ctuqux+V07NAz++1OL7nl3jpz8/RlIrP6G31ukSNtgQQ2WHxBmOyIOFawHMtSLOM6Kba9QqpEfTfouUdcm2OT0zEx3pSuDnmliMmp6T7EmTxLWaj5/2E=
+coa0vaq2vtpst74nonfu1e1f368i8ebo.guide.	3600	in	rrsig	NSEC3 8 2 3600 20251003010533 20250912000533 54198 guide. Jf7HcvTVY7xOBrYjJmF6/X/Z1RNB4zz0z1lSTECOijU0P3u8fUjLS4bbG/mNWd0v+BqL4aYGS0xUGYFqA+DwqKPmnSt5Np8P7xDrlf6u4r7RTnPl4n9C2ESo6h/AfaSlGhuV9lCLj5xHNljqrhSAYpytemGp/AZKzNXfWO/YQPU=
 coachme.guide.	3600	in	ns	dns1.registrar-servers.com.
 coachme.guide.	3600	in	ns	dns2.registrar-servers.com.
 coachsportif.guide.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -11502,8 +11498,8 @@ ctf.guide.	3600	in	ns	ns-cloud-e1.googledomains.com.
 ctf.guide.	3600	in	ns	ns-cloud-e2.googledomains.com.
 ctf.guide.	3600	in	ns	ns-cloud-e3.googledomains.com.
 ctf.guide.	3600	in	ns	ns-cloud-e4.googledomains.com.
-ctl.guide.	3600	in	ns	ns1.bodis.com.
-ctl.guide.	3600	in	ns	ns2.bodis.com.
+ctl.guide.	3600	in	ns	ns1.dns-redirect.com.
+ctl.guide.	3600	in	ns	ns2.dns-redirect.com.
 ctm.guide.	3600	in	ns	ns73.domaincontrol.com.
 ctm.guide.	3600	in	ns	ns74.domaincontrol.com.
 cto.guide.	3600	in	ns	ns-1404.awsdns-47.org.
@@ -11849,8 +11845,8 @@ daimon.guide.	3600	in	ns	dns1.registrar-servers.com.
 daimon.guide.	3600	in	ns	dns2.registrar-servers.com.
 dain.guide.	3600	in	ns	ns1.dyna-ns.net.
 dain.guide.	3600	in	ns	ns2.dyna-ns.net.
-daisy.guide.	3600	in	ns	ns1.bodis.com.
-daisy.guide.	3600	in	ns	ns2.bodis.com.
+daisy.guide.	3600	in	ns	ns1.dns-redirect.com.
+daisy.guide.	3600	in	ns	ns2.dns-redirect.com.
 daisys.guide.	3600	in	ns	ns1.dnsowl.com.
 daisys.guide.	3600	in	ns	ns2.dnsowl.com.
 daisys.guide.	3600	in	ns	ns3.dnsowl.com.
@@ -11914,8 +11910,6 @@ dantan.guide.	3600	in	ns	ns1035.ui-dns.org.
 dantan.guide.	3600	in	ns	ns1076.ui-dns.biz.
 dantas.guide.	3600	in	ns	gemma.ns.cloudflare.com.
 dantas.guide.	3600	in	ns	miguel.ns.cloudflare.com.
-dante.guide.	3600	in	ns	dion.ns.cloudflare.com.
-dante.guide.	3600	in	ns	gina.ns.cloudflare.com.
 dapp.guide.	3600	in	ns	dns1.registrar-servers.com.
 dapp.guide.	3600	in	ns	dns2.registrar-servers.com.
 dapp.guide.	3600	in	ns	dns3.registrar-servers.com.
@@ -12531,8 +12525,6 @@ desktop.guide.	3600	in	ns	ns2.uniregistry-dns.com.
 desktop.guide.	3600	in	ns	ns2.uniregistry-dns.net.
 deso.guide.	3600	in	ns	ns1.dan.com.
 deso.guide.	3600	in	ns	ns2.dan.com.
-despertandoamiser.guide.	3600	in	ns	dns10.parkpage.foundationapi.com.
-despertandoamiser.guide.	3600	in	ns	dns9.parkpage.foundationapi.com.
 dessert.guide.	3600	in	ns	ns35.domaincontrol.com.
 dessert.guide.	3600	in	ns	ns36.domaincontrol.com.
 destination.guide.	3600	in	ns	ns1.afternic.com.
@@ -13058,8 +13050,8 @@ distinct.guide.	3600	in	ns	ns-us.1and1-dns.us.
 distribution.guide.	3600	in	ns	a.dns.gandi.net.
 distribution.guide.	3600	in	ns	b.dns.gandi.net.
 distribution.guide.	3600	in	ns	c.dns.gandi.net.
-district.guide.	3600	in	ns	ns1.bodis.com.
-district.guide.	3600	in	ns	ns2.bodis.com.
+district.guide.	3600	in	ns	ns1.dns-redirect.com.
+district.guide.	3600	in	ns	ns2.dns-redirect.com.
 dita.guide.	3600	in	ns	ns1.iwantmyname.net.
 dita.guide.	3600	in	ns	ns2.iwantmyname.net.
 dita.guide.	3600	in	ns	ns3.iwantmyname.net.
@@ -14094,9 +14086,8 @@ easyway.guide.	3600	in	ns	ns4.markmonitor.com.
 easyway.guide.	3600	in	ns	ns5.markmonitor.com.
 easyway.guide.	3600	in	ns	ns6.markmonitor.com.
 easyway.guide.	3600	in	ns	ns7.markmonitor.com.
-easyweightloss.guide.	3600	in	ns	ns-a1.cloud.z.com.
-easyweightloss.guide.	3600	in	ns	ns-a2.cloud.z.com.
-easyweightloss.guide.	3600	in	ns	ns-a4.cloud.z.com.
+easyweightloss.guide.	3600	in	ns	ns67.domaincontrol.com.
+easyweightloss.guide.	3600	in	ns	ns68.domaincontrol.com.
 easyworld.guide.	3600	in	ns	ns1.siteground.net.
 easyworld.guide.	3600	in	ns	ns2.siteground.net.
 easywp.guide.	3600	in	ns	ns1.nameserver.net.au.
@@ -17534,10 +17525,8 @@ foodmenu.guide.	3600	in	ns	clara.ns.cloudflare.com.
 foodmenu.guide.	3600	in	ns	igor.ns.cloudflare.com.
 foodnote.guide.	3600	in	ns	ns13.domaincontrol.com.
 foodnote.guide.	3600	in	ns	ns14.domaincontrol.com.
-foodready.guide.	3600	in	ns	curitiba.ns.porkbun.com.
-foodready.guide.	3600	in	ns	fortaleza.ns.porkbun.com.
-foodready.guide.	3600	in	ns	maceio.ns.porkbun.com.
-foodready.guide.	3600	in	ns	salvador.ns.porkbun.com.
+foodready.guide.	3600	in	ns	ns1.icemaildns.com.
+foodready.guide.	3600	in	ns	ns2.icemaildns.com.
 foodsafety.guide.	3600	in	ns	dns1.registrar-servers.com.
 foodsafety.guide.	3600	in	ns	dns2.registrar-servers.com.
 foodshed.guide.	3600	in	ns	ns37.domaincontrol.com.
@@ -18225,8 +18214,8 @@ futurelog.guide.	3600	in	ns	a.portsdns.se.
 futurelog.guide.	3600	in	ns	b.portsdns.net.
 futureproof.guide.	3600	in	ns	dns1.registrar-servers.com.
 futureproof.guide.	3600	in	ns	dns2.registrar-servers.com.
-futures.guide.	3600	in	ns	ns1.bodis.com.
-futures.guide.	3600	in	ns	ns2.bodis.com.
+futures.guide.	3600	in	ns	ns1.dns-redirect.com.
+futures.guide.	3600	in	ns	ns2.dns-redirect.com.
 futureschool.guide.	3600	in	ns	dns1.p01.nsone.net.
 futureschool.guide.	3600	in	ns	dns2.p01.nsone.net.
 futureschool.guide.	3600	in	ns	dns3.p01.nsone.net.
@@ -20257,7 +20246,7 @@ guide.	3600	in	nsec3param	1 0 0 73
 guide.	3600	in	rrsig	DNSKEY 8 1 3600 20250930154834 20250909144834 49501 guide. D1TWEmFalR2RUj29aaYfsLwXygpQrz8RRopY2/BVTvFqVsslLO7k5BsUBuxl5KcK/L0TKX5mSV3va+UDAPLKz+n8UfQUbgb01RA88P0t9BHE1Gd9s9bc2Dv6XaRymcsg0GKmnLqUUsqGj5xku2YH8p++Sz8ai/0EcbdG1l9lFScvv9blbWWcxUn+5Nvf4Q8aIPtQYdU79JRBSC+0JRlIVP/MPmGYdQT+MqONbPVcxWsWEmikrUMdPEs1c/XAvdLGiXiCPbLgU1aYnfCXqkha6y3lyObIHGotwsDVfRouba9HF2ooT10bmnTPd0biyxyntCZVlda1/qqIClCGG6OkLw==
 guide.	3600	in	rrsig	NS 8 1 3600 20250930154834 20250909144834 54198 guide. ODohoInr0QhtL/nEOTVsEPnq6BF8RP1niU4B2eDXnJ36IqwDY2+72+N7dLLDrjfEvpDZIl01VbxHg0KqGk5QqiF5wzNef2xM1wcY5iMNkSW98yFl3H2zJCKLAiYkdJQrmO9eYY1AYurSwfxAw22QMZD0mMWYBerW1Z3e0x+Kqkg=
 guide.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930154834 20250909144834 54198 guide. GFL5Pp8XGrEKr3X93pZcrErvF55cSKDoIx3ib6QQ2xZ8kQ1uhwhf1jlA9B0QpryjwjJZfDGJpxQriYtKwp1dgZf+m6JSiaAYF1bRFogGtX1aEbVqC374RUup5wZBkfQvrT/70jkn2KOA+wZS/kFKwhE/3GCWdm8j3qU8KW2mADU=
-guide.	3600	in	rrsig	SOA 8 1 3600 20251002010737 20250911000737 54198 guide. BjCAnmE5YSrobpNSVfU5VuOMHiyWHjZEHpPmLPSIpvTRLFv91F/K4YIZWKcYX6aXCUNmY+ZXPUyDGK5nFGhgKu80kE3Up7VAvwnSnc3l+JPl8NWNYzLk4UeK3KLW8vp9MtJcLqo1MR7qN9N2avTRhjjWzDvtiz43CY8tdkeyq0E=
+guide.	3600	in	rrsig	SOA 8 1 3600 20251003010533 20250912000533 54198 guide. DAwk32N0/4HVzny6MdZNSfJZjI6OrZ//MePBrtIS9JH9TMCMZyOzFW0cfAnl3DGT4u5AEqsLr1ouVIw4Q2nXnvQWMOd4eZNyblvCcp/q7M+yHLdkmnkMLpsy/QUzSmC2D2rClptIq8gQJ2Bh4HyUDxCgYzRWLc0POcgrwAXe29s=
 guide.guide.	3600	in	ns	ns1.dyna-ns.net.
 guide.guide.	3600	in	ns	ns2.dyna-ns.net.
 guidea.guide.	3600	in	ns	alfa.ns.active24.cz.
@@ -22135,8 +22124,8 @@ hreflang.guide.	3600	in	ns	ns3.openprovider.eu.
 hreflang.guide.	3600	in	rrsig	DS 8 2 3600 20250930154834 20250909144834 54198 guide. Azd7Rm2k9IHpu7Oshzdqn30rmM92C8X4xSLAu1Doh3lpDTeFndGqDSdNwXBoieDX6NvI6TIqaTN4pA0YWQzsG+5DT6gyCW9mWn4UJsJ5sDcxSguEQRU6zN/tBiiH04qUn61rGTSv4o3IYp8v71PmFB07jnND2/1YW/+Ywi6B0Z8=
 hrleader.guide.	3600	in	ns	ns75.domaincontrol.com.
 hrleader.guide.	3600	in	ns	ns76.domaincontrol.com.
-hrms.guide.	3600	in	ns	ns1.bodis.com.
-hrms.guide.	3600	in	ns	ns2.bodis.com.
+hrms.guide.	3600	in	ns	ns1.dns-redirect.com.
+hrms.guide.	3600	in	ns	ns2.dns-redirect.com.
 hro.guide.	3600	in	ns	ns-cloud-e1.googledomains.com.
 hro.guide.	3600	in	ns	ns-cloud-e2.googledomains.com.
 hro.guide.	3600	in	ns	ns-cloud-e3.googledomains.com.
@@ -22896,8 +22885,8 @@ images.guide.	3600	in	ns	suzanne.ns.cloudflare.com.
 imagination.guide.	3600	in	ns	nsa.n0c.com.
 imagination.guide.	3600	in	ns	nsb.n0c.com.
 imagination.guide.	3600	in	ns	nsc.n0c.com.
-imagine.guide.	3600	in	ns	ns1.pl603.parklogic.com.
-imagine.guide.	3600	in	ns	ns2.pl603.parklogic.com.
+imagine.guide.	3600	in	ns	ns1.de11.fcomet.com.
+imagine.guide.	3600	in	ns	ns2.de11.fcomet.com.
 img.guide.	3600	in	ns	fred.ns.cloudflare.com.
 img.guide.	3600	in	ns	uma.ns.cloudflare.com.
 imgix.guide.	3600	in	ns	ns-29-b.gandi.net.
@@ -23958,8 +23947,8 @@ iru.guide.	3600	in	ns	dns4.p07.nsone.net.
 iru.guide.	3600	in	rrsig	DS 8 2 3600 20250930154834 20250909144834 54198 guide. RHQZ1GlR36wZCHQ3OAgtkHmyO7F/hLHjIQ9yEzMGb3NK9EoNJPYQYKgEMvQiZ+HSASQLsc7K1a2+Ecmz2Z/eOl8enZQINcEjA3SMbH2HwozgZ790TxQx0n/wuJWZQ7HDM7a71d5p24XaiBRqez1YmoxZOIQqv2lKxhKcb3XVtEM=
 isaidno.guide.	3600	in	ns	ns45.domaincontrol.com.
 isaidno.guide.	3600	in	ns	ns46.domaincontrol.com.
-isaltino.guide.	3600	in	ns	ns1.bodis.com.
-isaltino.guide.	3600	in	ns	ns2.bodis.com.
+isaltino.guide.	3600	in	ns	ns1.dns-redirect.com.
+isaltino.guide.	3600	in	ns	ns2.dns-redirect.com.
 ischgl.guide.	3600	in	ns	ns1.domaindiscount24.net.
 ischgl.guide.	3600	in	ns	ns2.domaindiscount24.net.
 ischgl.guide.	3600	in	ns	ns3.domaindiscount24.net.
@@ -24400,8 +24389,8 @@ jeetbuzzlogin.guide.	3600	in	ns	harlee.ns.cloudflare.com.
 jeetbuzzlogin.guide.	3600	in	ns	johnathan.ns.cloudflare.com.
 jeetwin.guide.	3600	in	ns	noah.ns.cloudflare.com.
 jeetwin.guide.	3600	in	ns	paloma.ns.cloudflare.com.
-jeetwinapp.guide.	3600	in	ns	chad.ns.cloudflare.com.
-jeetwinapp.guide.	3600	in	ns	novalee.ns.cloudflare.com.
+jeetwinapp.guide.	3600	in	ns	ns1.dyna-ns.net.
+jeetwinapp.guide.	3600	in	ns	ns2.dyna-ns.net.
 jef.guide.	3600	in	ns	ns.inwx.de.
 jef.guide.	3600	in	ns	ns2.inwx.de.
 jef.guide.	3600	in	ns	ns3.inwx.eu.
@@ -24496,8 +24485,8 @@ jg8k687sc6q2d3l59hlsle2i3s64pigb.guide.	3600	in	nsec3	1 1 0 73 JHPAVKTPBJ73DI53R
 jg8k687sc6q2d3l59hlsle2i3s64pigb.guide.	3600	in	rrsig	NSEC3 8 2 3600 20250930154834 20250909144834 54198 guide. L3vi05e3T8wsmW8eB898w4Qw+qhWKXWqpUFz8OtXUHPzPl/YoE00QhsbyIDZ+75w0yH+rK4j5EfyQyibC2uvydYaAm9/5sjLf+l8ozOcrARnbflbBm+6kvgsud560iSMecO/yJc316ltIu4vjYCwzp1bbrA0kDQyu20LU3yeono=
 jhpavktpbj73di53rt7fmb770csrlp5u.guide.	3600	in	nsec3	1 1 0 73 JJ9DJR5KHR28BA48GADRAANUQS408FTF NS DS RRSIG
 jhpavktpbj73di53rt7fmb770csrlp5u.guide.	3600	in	rrsig	NSEC3 8 2 3600 20250930154834 20250909144834 54198 guide. YqjM34QCUqYyrZTZ94gYCWn5UFqXXbje5b8tiDkqnFhRxZyyqx8dt6C0ndrBUuT/l3XnC3ryP216hLx037nP6N7IVWAkLlDLLBtrzIPO4VuqTCWYHh+8zLDMxhce0aPl5V0Csptkkd5KHWEzDqhuzPMMXIUp+A2y23FNK/wgqRE=
-jht.guide.	3600	in	ns	ns1.bodis.com.
-jht.guide.	3600	in	ns	ns2.bodis.com.
+jht.guide.	3600	in	ns	ns1.dns-redirect.com.
+jht.guide.	3600	in	ns	ns2.dns-redirect.com.
 jia.guide.	3600	in	ns	ns1dns.name.com.
 jia.guide.	3600	in	ns	ns2hjl.name.com.
 jia.guide.	3600	in	ns	ns3gmv.name.com.
@@ -24530,9 +24519,6 @@ jklai.guide.	3600	in	ns	ns1.dyna-ns.net.
 jklai.guide.	3600	in	ns	ns2.dyna-ns.net.
 jkp3kd1076rd0iu8i3qe78ghqh1ai649.guide.	3600	in	nsec3	1 1 0 73 JLLDD1Q5NGK44J5QB3GR0CGPVCRNGCKS NS DS RRSIG
 jkp3kd1076rd0iu8i3qe78ghqh1ai649.guide.	3600	in	rrsig	NSEC3 8 2 3600 20250930154834 20250909144834 54198 guide. AyRU6JbgIIKkhCo4Poz0nJprI231TWW4+ofWQv1n+OnK/ISa5TRWwd1eiB6TiopYyL0jilEG10nDqutOVj5OVSX5ZjI3WAaIvBT4uhnj3EgEZgJWBfwmZ3i53Ko0Ey9hzUsQWilJsMJQ2IV4rH0LLUVmrK0AJxX4i9MLqT458P8=
-jktour.guide.	3600	in	ns	ns1.wordpress.com.
-jktour.guide.	3600	in	ns	ns2.wordpress.com.
-jktour.guide.	3600	in	ns	ns3.wordpress.com.
 jlinkwine.guide.	3600	in	ds	55730 8 2 E86AED2DF96D36E6987F02C2A1959656508135014209127D2E50E548A4FB2335
 jlinkwine.guide.	3600	in	ns	ns-cloud-c1.googledomains.com.
 jlinkwine.guide.	3600	in	ns	ns-cloud-c2.googledomains.com.
@@ -24680,8 +24666,8 @@ journy.guide.	3600	in	ns	ns-cloud-a2.googledomains.com.
 journy.guide.	3600	in	ns	ns-cloud-a3.googledomains.com.
 journy.guide.	3600	in	ns	ns-cloud-a4.googledomains.com.
 journy.guide.	3600	in	rrsig	DS 8 2 3600 20250930154834 20250909144834 54198 guide. G1BBJsu933SXpQkSjzQ8gHx3c0WfwvV/AiXGWynItFYIGkc1fGcIrXwr7z7kHngjlrad7N8ROk3hs4Y3h8PkI2zyvELme7ncsqcFgx3Ui5+i7HqKYpylaxnia4NNB6gBxsM7lZOlELMp0RckJ5ftm5b2ADizDAQfDWFFpk+D00w=
-joya9.guide.	3600	in	ns	sonia.ns.cloudflare.com.
-joya9.guide.	3600	in	ns	yisroel.ns.cloudflare.com.
+joya9.guide.	3600	in	ns	ns1.dyna-ns.net.
+joya9.guide.	3600	in	ns	ns2.dyna-ns.net.
 joyfulwarrior.guide.	3600	in	ns	ns1.domain.com.
 joyfulwarrior.guide.	3600	in	ns	ns2.domain.com.
 joyinparis.guide.	3600	in	ns	dns10.ovh.net.
@@ -25954,8 +25940,8 @@ lamagro.guide.	3600	in	ns	ns1.timeweb.ru.
 lamagro.guide.	3600	in	ns	ns2.timeweb.ru.
 lamagro.guide.	3600	in	ns	ns3.timeweb.org.
 lamagro.guide.	3600	in	ns	ns4.timeweb.org.
-lamar.guide.	3600	in	ns	ns1.bodis.com.
-lamar.guide.	3600	in	ns	ns2.bodis.com.
+lamar.guide.	3600	in	ns	ns1.dns-redirect.com.
+lamar.guide.	3600	in	ns	ns2.dns-redirect.com.
 lambda.guide.	3600	in	ns	ns73.domaincontrol.com.
 lambda.guide.	3600	in	ns	ns74.domaincontrol.com.
 laminatecountertops.guide.	3600	in	ns	ns05.domaincontrol.com.
@@ -26861,8 +26847,8 @@ listings.guide.	3600	in	ns	ns35.domaincontrol.com.
 listings.guide.	3600	in	ns	ns36.domaincontrol.com.
 listojefe.guide.	3600	in	ns	celine.ns.cloudflare.com.
 listojefe.guide.	3600	in	ns	jaziel.ns.cloudflare.com.
-lists.guide.	3600	in	ns	ns1.bodis.com.
-lists.guide.	3600	in	ns	ns2.bodis.com.
+lists.guide.	3600	in	ns	ns1.dns-redirect.com.
+lists.guide.	3600	in	ns	ns2.dns-redirect.com.
 lit.guide.	3600	in	ns	ns1.dns-parking.com.
 lit.guide.	3600	in	ns	ns2.dns-parking.com.
 lite.guide.	3600	in	ns	ns-cloud-b1.googledomains.com.
@@ -29215,10 +29201,8 @@ metering.guide.	3600	in	ns	ns-1705.awsdns-21.co.uk.
 metering.guide.	3600	in	ns	ns-559.awsdns-05.net.
 method.guide.	3600	in	ns	dns1.registrar-servers.com.
 method.guide.	3600	in	ns	dns2.registrar-servers.com.
-metro.guide.	3600	in	ds	40528 13 2 AA359DC311859FA7D9D50C1265990D2B819DC95C0BCE1DAE1F24485CA2B916D2
-metro.guide.	3600	in	ns	launch1.spaceship.net.
-metro.guide.	3600	in	ns	launch2.spaceship.net.
-metro.guide.	3600	in	rrsig	DS 8 2 3600 20251001212648 20250910202648 54198 guide. MyijO+n/5NaQMKSWJIaTf7nayFkGqLi9rZTHSnbMrRfw8gXdxkA7AXyM4/dDxyb/9gKaoVJbudO/IW6kN7o3laFA6W0qgugBtaI4BcsBF120J33zj3K1tQ2UdHjsWND0f/IAEq6fkGkNcvA+3I+vHcomeSm9Wimklwhc96cjzt4=
+metro.guide.	3600	in	ns	ns1.afternic.com.
+metro.guide.	3600	in	ns	ns2.afternic.com.
 metro24.guide.	3600	in	ds	22723 13 2 ECF27ABC8082FE663635644143108030CBE3F3CB33E14ECBED727C17E32AE85F
 metro24.guide.	3600	in	ns	ns01.one.com.
 metro24.guide.	3600	in	ns	ns02.one.com.
@@ -29275,8 +29259,8 @@ mhk0n7ukjht3sddjq031pamsgas136kd.guide.	3600	in	nsec3	1 1 0 73 MHVF9BGTA7T63G4G8
 mhk0n7ukjht3sddjq031pamsgas136kd.guide.	3600	in	rrsig	NSEC3 8 2 3600 20250930154834 20250909144834 54198 guide. a8sjBEI1cr15YBmkd52xzk+t5yJCny6WNhuPgecKdAcFWvRhi0ghaTDH5SRaywzfprqq0whR4S5/gQ9Wuy2GaUqa2GPM5HMgFlGaQCk2G1Tafx1U4W9G2qSvpi2Fp18Hgr8hms9DOCiJoNRFF07yPsG/qYuUdG49IhH8qwXtGGA=
 mhs.guide.	3600	in	ns	ns1.fatcow.com.
 mhs.guide.	3600	in	ns	ns2.fatcow.com.
-mhvf9bgta7t63g4g89hc3bnb9vpnbsue.guide.	3600	in	nsec3	1 1 0 73 MJI99OLQO5MEOGJIKCMJ64H911SC2VDO NS DS RRSIG
-mhvf9bgta7t63g4g89hc3bnb9vpnbsue.guide.	3600	in	rrsig	NSEC3 8 2 3600 20250930154834 20250909144834 54198 guide. k50pVVukHEb7i7TNNI4fWGW9CIgGmRkhngDTVofbRqo34zNM2RjKTilrcDgV/goDlWSDFHT1HPIW4gGIF5kX4C+iknxLkrddz46AGpFAKHfKCHLP+lIk1pXMbypOmEQ5SFhm3EmwujofLWrKpUbc4c+CzirMP1JReLrkhxrLJeA=
+mhvf9bgta7t63g4g89hc3bnb9vpnbsue.guide.	3600	in	nsec3	1 1 0 73 MK4M95D2V3ITCNR821SJO3NOTBLJ3B0M NS DS RRSIG
+mhvf9bgta7t63g4g89hc3bnb9vpnbsue.guide.	3600	in	rrsig	NSEC3 8 2 3600 20251002230932 20250911220932 54198 guide. fugOgv4056ikjA8B7BCJhu/p0M4EcuaIMRWmNh0yv9sfzqtDMgZstzV+FMSJLK/u8E+NS/Jh1eSLdoFe2gIYEM5+l0Szy0Csck0rh5q7+EOQqVoX8Ex6m6bJkNrog3m2NhGQ6H459AShxoBN5V96Rt14CvgJxDWpXNlO9bGOg5I=
 mhwilds.guide.	3600	in	ns	ns73.domaincontrol.com.
 mhwilds.guide.	3600	in	ns	ns74.domaincontrol.com.
 mi.guide.	3600	in	ns	ns57.domaincontrol.com.
@@ -29725,8 +29709,6 @@ miyagi.guide.	3600	in	ns	dns1.onamae.com.
 miyagi.guide.	3600	in	ns	dns2.onamae.com.
 mj.guide.	3600	in	ns	ns77.domaincontrol.com.
 mj.guide.	3600	in	ns	ns78.domaincontrol.com.
-mji99olqo5meogjikcmj64h911sc2vdo.guide.	3600	in	nsec3	1 1 0 73 MK4M95D2V3ITCNR821SJO3NOTBLJ3B0M NS DS RRSIG
-mji99olqo5meogjikcmj64h911sc2vdo.guide.	3600	in	rrsig	NSEC3 8 2 3600 20250930154834 20250909144834 54198 guide. CY+93SwMGML/hQ82p/OIIfOTgw9X0Gpwhb5IxmE7SxZNmuN/SQfrgYLah52tCmbGNlVgredZdszoUiWAi0aO6SdmwJLkRwRR0Z+fIzcEYcd/JEFCL/FWVwxM5SqSks7RAVJaKKdvDMb7t0cKIAPxtY1VjNxtv9D9yk9AF3Ee284=
 mk4m95d2v3itcnr821sjo3notblj3b0m.guide.	3600	in	nsec3	1 1 0 73 MLI9EBQT5MEEP177QL8AMR59PDMJMQT0 NS DS RRSIG
 mk4m95d2v3itcnr821sjo3notblj3b0m.guide.	3600	in	rrsig	NSEC3 8 2 3600 20250930154834 20250909144834 54198 guide. Iu2qEA9wRwHLnpVynABVwzQ8k4BJr+HAtjjxDRhL/pHpKUzYJqFZaf4hy8X8xJHUNGZuCM3w7n2ovHhkGQBWivdIHZTJ8pETJa7Fyd/jWl4EGW/VosKemrR7IPY/hsjlqhJQsLEslCAhV2YrceWiohjK7RU9utdxi3x9VlLd2ww=
 mkr.guide.	3600	in	ns	dns1.registrar-servers.com.
@@ -30463,8 +30445,8 @@ mtgdraft.guide.	3600	in	ns	dns1.registrar-servers.com.
 mtgdraft.guide.	3600	in	ns	dns2.registrar-servers.com.
 mtgscavenger.guide.	3600	in	ns	ns1.dyna-ns.net.
 mtgscavenger.guide.	3600	in	ns	ns2.dyna-ns.net.
-mthood.guide.	3600	in	ns	ns1.dns-parking.com.
-mthood.guide.	3600	in	ns	ns2.dns-parking.com.
+mthood.guide.	3600	in	ns	artemis.dns-parking.com.
+mthood.guide.	3600	in	ns	hermes.dns-parking.com.
 mu88.guide.	3600	in	ns	dion.ns.cloudflare.com.
 mu88.guide.	3600	in	ns	princess.ns.cloudflare.com.
 muaik1637eviv14ubvjbu60b18e4a3c5.guide.	3600	in	nsec3	1 1 0 73 MUR64PCPN53G1I5C9CQ47IR7VKOB6PEK NS DS RRSIG
@@ -30746,6 +30728,8 @@ myaquarium.guide.	3600	in	ns	melinda.ns.cloudflare.com.
 myaquarium.guide.	3600	in	rrsig	DS 8 2 3600 20250930154834 20250909144834 54198 guide. G4KihYSuWZsGpx9a0E+jYY62jeqbpLsY3OMz+gtIBgtJdFdXht/0KzMmoN3hJsNcFkqwluA1KW3OES9jPxnc29DOhDG1sfYZFgbMBGROfCnZ+zzx+34sUwlZkrt3TaeOxT6eRk3aKLGcQyWG0BDMe5wtGDb1zrl6ENtFux+0CBE=
 myar.guide.	3600	in	ns	ns45.domaincontrol.com.
 myar.guide.	3600	in	ns	ns46.domaincontrol.com.
+myartisticstyle.guide.	3600	in	ns	dns1.registrar-servers.com.
+myartisticstyle.guide.	3600	in	ns	dns2.registrar-servers.com.
 myastrojourney.guide.	3600	in	ns	ns-cloud-b1.googledomains.com.
 myastrojourney.guide.	3600	in	ns	ns-cloud-b2.googledomains.com.
 myastrojourney.guide.	3600	in	ns	ns-cloud-b3.googledomains.com.
@@ -32138,6 +32122,8 @@ nextaction.guide.	3600	in	ns	ns2.dns-parking.com.
 nextadventure.guide.	3600	in	ns	ns1.site4now.net.
 nextadventure.guide.	3600	in	ns	ns2.site4now.net.
 nextadventure.guide.	3600	in	ns	ns3.site4now.net.
+nextchapter.guide.	3600	in	ns	ns1.dns-parking.com.
+nextchapter.guide.	3600	in	ns	ns2.dns-parking.com.
 nextchapterliving.guide.	3600	in	ns	ns63.domaincontrol.com.
 nextchapterliving.guide.	3600	in	ns	ns64.domaincontrol.com.
 nextgen.guide.	3600	in	ns	ns55.domaincontrol.com.
@@ -32282,10 +32268,6 @@ nickseav.guide.	3600	in	ns	ns33.domaincontrol.com.
 nickseav.guide.	3600	in	ns	ns34.domaincontrol.com.
 nico.guide.	3600	in	ns	dns1.registrar-servers.com.
 nico.guide.	3600	in	ns	dns2.registrar-servers.com.
-nicolas-dubai.guide.	3600	in	ns	ns1040.ui-dns.org.
-nicolas-dubai.guide.	3600	in	ns	ns1043.ui-dns.biz.
-nicolas-dubai.guide.	3600	in	ns	ns1050.ui-dns.de.
-nicolas-dubai.guide.	3600	in	ns	ns1122.ui-dns.com.
 nicole-vienna.guide.	3600	in	ns	ns79.worldnic.com.
 nicole-vienna.guide.	3600	in	ns	ns80.worldnic.com.
 nicolebrooks.guide.	3600	in	ns	ns-cloud-a1.googledomains.com.
@@ -32913,7 +32895,6 @@ ns2.ziyara.guide.	3600	in	a	194.60.201.198
 ns2.ziyara.guide.	3600	in	aaaa	2a02:c206:2143:1704:0000:0000:0000:0001
 ns3.p2p.guide.	3600	in	a	45.10.97.13
 ns3.skplanet.guide.	3600	in	a	113.217.247.73
-ns6285.hostgator.com.rafiki.guide.	3600	in	a	50.87.144.178
 nsandi-adviser.guide.	3600	in	ns	dns1.cscdns.net.
 nsandi-adviser.guide.	3600	in	ns	dns2.cscdns.net.
 nsandi-advisor.guide.	3600	in	ns	dns1.cscdns.net.
@@ -33450,8 +33431,8 @@ oldhavanawalking.guide.	3600	in	ns	ns68.domaincontrol.com.
 oldmontreal.guide.	3600	in	ns	ns1.wordpress.com.
 oldmontreal.guide.	3600	in	ns	ns2.wordpress.com.
 oldmontreal.guide.	3600	in	ns	ns3.wordpress.com.
-oldschool.guide.	3600	in	ns	ns1.bodis.com.
-oldschool.guide.	3600	in	ns	ns2.bodis.com.
+oldschool.guide.	3600	in	ns	ns1.dns-redirect.com.
+oldschool.guide.	3600	in	ns	ns2.dns-redirect.com.
 oldspeak.guide.	3600	in	ns	ns-cloud-d1.googledomains.com.
 oldspeak.guide.	3600	in	ns	ns-cloud-d2.googledomains.com.
 oldspeak.guide.	3600	in	ns	ns-cloud-d3.googledomains.com.
@@ -34155,6 +34136,8 @@ orthopaedic.guide.	3600	in	ns	ns1.ni593.parklogic.com.
 orthopaedic.guide.	3600	in	ns	ns2.ni593.parklogic.com.
 orthotics.guide.	3600	in	ns	ns1.dyna-ns.net.
 orthotics.guide.	3600	in	ns	ns2.dyna-ns.net.
+os-x.guide.	3600	in	ns	collins.ns.cloudflare.com.
+os-x.guide.	3600	in	ns	quentin.ns.cloudflare.com.
 os.guide.	3600	in	ns	dns1.registrar-servers.com.
 os.guide.	3600	in	ns	dns2.registrar-servers.com.
 osd.guide.	3600	in	ns	dns1.registrar-servers.com.
@@ -37183,8 +37166,8 @@ provence.guide.	3600	in	ns	curitiba.ns.porkbun.com.
 provence.guide.	3600	in	ns	fortaleza.ns.porkbun.com.
 provence.guide.	3600	in	ns	maceio.ns.porkbun.com.
 provence.guide.	3600	in	ns	salvador.ns.porkbun.com.
-proverbial.guide.	3600	in	ns	dns1.registrar-servers.com.
-proverbial.guide.	3600	in	ns	dns2.registrar-servers.com.
+proverbial.guide.	3600	in	ns	dns101.registrar-servers.com.
+proverbial.guide.	3600	in	ns	dns102.registrar-servers.com.
 proving-ground.guide.	3600	in	ns	ns1.hover.com.
 proving-ground.guide.	3600	in	ns	ns2.hover.com.
 provingground.guide.	3600	in	ns	ns1.hover.com.
@@ -37880,8 +37863,6 @@ radix.guide.	3600	in	ns	ns05.domaincontrol.com.
 radix.guide.	3600	in	ns	ns06.domaincontrol.com.
 radroutes.guide.	3600	in	ns	dns1.registrar-servers.com.
 radroutes.guide.	3600	in	ns	dns2.registrar-servers.com.
-rafiki.guide.	3600	in	ns	dns101.registrar-servers.com.
-rafiki.guide.	3600	in	ns	dns102.registrar-servers.com.
 rafm.guide.	3600	in	ns	doug.ns.cloudflare.com.
 rafm.guide.	3600	in	ns	sue.ns.cloudflare.com.
 rafting.guide.	3600	in	ns	ns43.worldnic.com.
@@ -40246,8 +40227,8 @@ sardinian.guide.	3600	in	ns	ns2.dns-parking.com.
 sarkariresult.guide.	3600	in	ns	ns1.digitalocean.com.
 sarkariresult.guide.	3600	in	ns	ns2.digitalocean.com.
 sarkariresult.guide.	3600	in	ns	ns3.digitalocean.com.
-sashimi.guide.	3600	in	ns	ns1.bodis.com.
-sashimi.guide.	3600	in	ns	ns2.bodis.com.
+sashimi.guide.	3600	in	ns	ns1.dns-redirect.com.
+sashimi.guide.	3600	in	ns	ns2.dns-redirect.com.
 sask.guide.	3600	in	ns	ns1.webnames.ca.
 sask.guide.	3600	in	ns	ns2.webnames.ca.
 sask.guide.	3600	in	ns	ns3.webnames.ca.
@@ -40381,8 +40362,8 @@ scaleup.guide.	3600	in	ns	ns59.domaincontrol.com.
 scaleup.guide.	3600	in	ns	ns60.domaincontrol.com.
 scan.guide.	3600	in	ns	ariella.ns.cloudflare.com.
 scan.guide.	3600	in	ns	rayden.ns.cloudflare.com.
-scandinavia.guide.	3600	in	ns	ns1.bodis.com.
-scandinavia.guide.	3600	in	ns	ns2.bodis.com.
+scandinavia.guide.	3600	in	ns	ns1.dns-redirect.com.
+scandinavia.guide.	3600	in	ns	ns2.dns-redirect.com.
 scanning.guide.	3600	in	ns	keaton.ns.cloudflare.com.
 scanning.guide.	3600	in	ns	liberty.ns.cloudflare.com.
 scene.guide.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -41593,8 +41574,8 @@ sightseeing.guide.	3600	in	ns	ns1072.ui-dns.de.
 sightseeing.guide.	3600	in	ns	ns1089.ui-dns.com.
 sigma.guide.	3600	in	ns	dns1.namecheaphosting.com.
 sigma.guide.	3600	in	ns	dns2.namecheaphosting.com.
-sign.guide.	3600	in	ns	ns1.dyna-ns.net.
-sign.guide.	3600	in	ns	ns2.dyna-ns.net.
+sign.guide.	3600	in	ns	ns1.afternic.com.
+sign.guide.	3600	in	ns	ns2.afternic.com.
 signa.guide.	3600	in	ns	ns1.cnh.at.
 signa.guide.	3600	in	ns	ns2.cnh.at.
 signa.guide.	3600	in	ns	ns3.cnh.at.
@@ -41781,8 +41762,6 @@ singthehours.guide.	3600	in	ns	ns2.dreamhost.com.
 singthehours.guide.	3600	in	ns	ns3.dreamhost.com.
 singularity.guide.	3600	in	ns	ns5.afternic.com.
 singularity.guide.	3600	in	ns	ns6.afternic.com.
-sintra.guide.	3600	in	ns	ns1.dns-expired.com.
-sintra.guide.	3600	in	ns	ns2.dns-expired.com.
 sip.guide.	3600	in	ns	dns1.registrar-servers.com.
 sip.guide.	3600	in	ns	dns2.registrar-servers.com.
 sirat.guide.	3600	in	ns	ns1029.ui-dns.org.
@@ -41827,8 +41806,8 @@ sitsafe.guide.	3600	in	ns	pdns1.registrar-servers.com.
 sitsafe.guide.	3600	in	ns	pdns2.registrar-servers.com.
 situ.guide.	3600	in	ns	ns8363.hostgator.com.
 situ.guide.	3600	in	ns	ns8364.hostgator.com.
-six6s.guide.	3600	in	ns	alexa.ns.cloudflare.com.
-six6s.guide.	3600	in	ns	everton.ns.cloudflare.com.
+six6s.guide.	3600	in	ns	ns1.dyna-ns.net.
+six6s.guide.	3600	in	ns	ns2.dyna-ns.net.
 sixty.guide.	3600	in	ns	alec.ns.cloudflare.com.
 sixty.guide.	3600	in	ns	kristin.ns.cloudflare.com.
 size.guide.	3600	in	ns	ns1.afternic.com.
@@ -43127,8 +43106,8 @@ sqou2q6rbn02doesvb9vr6ato8eg5jqm.guide.	3600	in	nsec3	1 1 0 73 SQP5HKBG4S6EG7BI0
 sqou2q6rbn02doesvb9vr6ato8eg5jqm.guide.	3600	in	rrsig	NSEC3 8 2 3600 20250930154834 20250909144834 54198 guide. jJ9PL9dfXj/UiGmOxPtF8kzFPnHwvVNCcqhu1KrRaZM70rsyeqqadxD9sYZb114XwI/borQe6ZN7+JdhrPgzIvn8pCrKGXAVcTA7G/WotXrIp7VF8L88VNPnHvlhInuuO3RllXzU35+OjMKlYEW5Hano7lxOn0HcjoMgXecIMao=
 sqp5hkbg4s6eg7bi07rofbfsnp8kmten.guide.	3600	in	nsec3	1 1 0 73 SSKNNUDJMSNNF53KVQKBFUGHCOICOUDK NS DS RRSIG
 sqp5hkbg4s6eg7bi07rofbfsnp8kmten.guide.	3600	in	rrsig	NSEC3 8 2 3600 20250930154834 20250909144834 54198 guide. BA/c1SvUgShR7DXhto5NYopT9k7OZ8R/8XaUE8C4R6hvhnxz/rLx4xBh+1Nt3lBfvBVmHalIX2Gu9blaPz3TUMU0SzjZtKZRDDatqLwnRHsg2Zb7kjfNxdm3SudsnwWjuyzRDOa/JpyRD7NBvS937LW8kyhjvVEACDN6c0nZ1KI=
-sqrl.guide.	3600	in	ns	ns1.bodis.com.
-sqrl.guide.	3600	in	ns	ns2.bodis.com.
+sqrl.guide.	3600	in	ns	ns1.dns-redirect.com.
+sqrl.guide.	3600	in	ns	ns2.dns-redirect.com.
 squamish.guide.	3600	in	ns	curitiba.ns.porkbun.com.
 squamish.guide.	3600	in	ns	fortaleza.ns.porkbun.com.
 squamish.guide.	3600	in	ns	maceio.ns.porkbun.com.
@@ -44834,8 +44813,8 @@ taskmanagement.guide.	3600	in	ns	ns13.domaincontrol.com.
 taskmanagement.guide.	3600	in	ns	ns14.domaincontrol.com.
 tasmania.guide.	3600	in	ns	ns1.stabletransit.com.
 tasmania.guide.	3600	in	ns	ns2.stabletransit.com.
-tasmanianwhisky.guide.	3600	in	ns	ns1.bodis.com.
-tasmanianwhisky.guide.	3600	in	ns	ns2.bodis.com.
+tasmanianwhisky.guide.	3600	in	ns	ns1.dns-redirect.com.
+tasmanianwhisky.guide.	3600	in	ns	ns2.dns-redirect.com.
 taste.guide.	3600	in	ns	ns71.domaincontrol.com.
 taste.guide.	3600	in	ns	ns72.domaincontrol.com.
 tastebuds.guide.	3600	in	ns	dns1.registrar-servers.com.
@@ -45103,8 +45082,6 @@ telefon.guide.	3600	in	ns	ns2.beget.com.
 telefon.guide.	3600	in	ns	ns2.beget.pro.
 telefonsex.guide.	3600	in	ns	ns.web11.eu.
 telefonsex.guide.	3600	in	ns	ns.web11.nl.
-telegram.guide.	3600	in	ns	ns1.ns306.parklogic.com.
-telegram.guide.	3600	in	ns	ns2.ns306.parklogic.com.
 telenovela.guide.	3600	in	ds	23596 13 1 EEDB950E8BC743D61475F4A6820D2770348513E5
 telenovela.guide.	3600	in	ds	23596 13 2 085400410DB2E8533B8A572AD5113A3670C879142A693C57D7548CCE186636A2
 telenovela.guide.	3600	in	ns	ns1.world4you.at.
@@ -47924,6 +47901,10 @@ traveltexas.guide.	3600	in	ns	dns7.cloudns.net.
 traveltexas.guide.	3600	in	ns	dns8.cloudns.net.
 traveltheworld.guide.	3600	in	ns	dns1.registrar-servers.com.
 traveltheworld.guide.	3600	in	ns	dns2.registrar-servers.com.
+traveltime.guide.	3600	in	ns	ns-cloud-b1.googledomains.com.
+traveltime.guide.	3600	in	ns	ns-cloud-b2.googledomains.com.
+traveltime.guide.	3600	in	ns	ns-cloud-b3.googledomains.com.
+traveltime.guide.	3600	in	ns	ns-cloud-b4.googledomains.com.
 traveltoday.guide.	3600	in	ns	ns3.nordicway.dk.
 traveltoday.guide.	3600	in	ns	ns4.nordicway.dk.
 traveltop10.guide.	3600	in	ns	ns.dandomain.dk.
@@ -48674,12 +48655,6 @@ ultimates.guide.	3600	in	ns	ingrid.ns.cloudflare.com.
 ultimates.guide.	3600	in	ns	ned.ns.cloudflare.com.
 ultimatesports.guide.	3600	in	ns	ns53.domaincontrol.com.
 ultimatesports.guide.	3600	in	ns	ns54.domaincontrol.com.
-ultimatetrademark.guide.	3600	in	ds	17105 8 2 552C7FFB52BE085942C8CB871D213831C909A08AA47C2F04E02304909D5FE89E
-ultimatetrademark.guide.	3600	in	ns	ns-cloud-a1.googledomains.com.
-ultimatetrademark.guide.	3600	in	ns	ns-cloud-a2.googledomains.com.
-ultimatetrademark.guide.	3600	in	ns	ns-cloud-a3.googledomains.com.
-ultimatetrademark.guide.	3600	in	ns	ns-cloud-a4.googledomains.com.
-ultimatetrademark.guide.	3600	in	rrsig	DS 8 2 3600 20250930154834 20250909144834 54198 guide. JxUv3FL68Fka6UzC1YHkpzkZJiqx+/9//+r/nAiQs8k8JBV4mvujZPihPdu97ESsWeXHfVurQ24v6Kbaf2cwTVrnGtUqncSWv5eYJnz81MOSxel3qjTLBOva6B7ROEvdFryFwG7G1HXspZItlUaZT/qv3KYwWifJszyve0ZfhNU=
 ultimatetransformation.guide.	3600	in	ns	ns63.domaincontrol.com.
 ultimatetransformation.guide.	3600	in	ns	ns64.domaincontrol.com.
 ultimatetv.guide.	3600	in	ns	ns1.bamtools.com.
@@ -50628,8 +50603,8 @@ wallrepair.guide.	3600	in	ns	b.dns.gandi.net.
 wallrepair.guide.	3600	in	ns	c.dns.gandi.net.
 wallstreet.guide.	3600	in	ns	ns1.zonetrax.net.
 wallstreet.guide.	3600	in	ns	ns2.zonetrax.net.
-wallstreets.guide.	3600	in	ns	ns1.zonetrax.net.
-wallstreets.guide.	3600	in	ns	ns2.zonetrax.net.
+wallstreets.guide.	3600	in	ns	marek.ns.cloudflare.com.
+wallstreets.guide.	3600	in	ns	melody.ns.cloudflare.com.
 walo.guide.	3600	in	ns	ns1.dns-redirect.com.
 walo.guide.	3600	in	ns	ns2.dns-redirect.com.
 wanchain.guide.	3600	in	ns	nsn1.mijndomein.nl.
@@ -51860,8 +51835,8 @@ wodka.guide.	3600	in	ns	ns.udag.net.
 wodka.guide.	3600	in	ns	ns.udag.org.
 wohn.guide.	3600	in	ns	ns1.world4you.at.
 wohn.guide.	3600	in	ns	ns2.world4you.at.
-wohnmobil.guide.	3600	in	ns	ns1.bodis.com.
-wohnmobil.guide.	3600	in	ns	ns2.bodis.com.
+wohnmobil.guide.	3600	in	ns	ns1.dns-redirect.com.
+wohnmobil.guide.	3600	in	ns	ns2.dns-redirect.com.
 woika.guide.	3600	in	ns	curitiba.ns.porkbun.com.
 woika.guide.	3600	in	ns	fortaleza.ns.porkbun.com.
 woika.guide.	3600	in	ns	maceio.ns.porkbun.com.
@@ -52772,6 +52747,8 @@ yourpersonal.guide.	3600	in	ns	docks19.rzone.de.
 yourpersonal.guide.	3600	in	ns	shades10.rzone.de.
 yourplanning.guide.	3600	in	ns	ns37.domaincontrol.com.
 yourplanning.guide.	3600	in	ns	ns38.domaincontrol.com.
+yourplymouth.guide.	3600	in	ns	dns1.registrar-servers.com.
+yourplymouth.guide.	3600	in	ns	dns2.registrar-servers.com.
 yourpot.guide.	3600	in	ds	13460 8 2 75A70CA6A91F61819E72A6718B363F4D422CCCCBB42080A3C287A6BE6BC919BF
 yourpot.guide.	3600	in	ns	ns-cloud-e1.googledomains.com.
 yourpot.guide.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -53076,4 +53053,4 @@ zypern.guide.	3600	in	ns	docks11.rzone.de.
 zypern.guide.	3600	in	ns	shades09.rzone.de.
 zzyzx.guide.	3600	in	ns	ns03.domaincontrol.com.
 zzyzx.guide.	3600	in	ns	ns04.domaincontrol.com.
-guide.	3600	in	soa	v0n0.nic.guide. hostmaster.donuts.email. 1757552588 7200 900 1209600 3600
+guide.	3600	in	soa	v0n0.nic.guide. hostmaster.donuts.email. 1757638801 7200 900 1209600 3600
