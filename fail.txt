@@ -1,4 +1,4 @@
-fail.	3600	in	soa	v0n0.nic.fail. hostmaster.donuts.email. 1757552639 7200 900 1209600 3600
+fail.	3600	in	soa	v0n0.nic.fail. hostmaster.donuts.email. 1757638850 7200 900 1209600 3600
 0.fail.	3600	in	ns	ns1.sedoparking.com.
 0.fail.	3600	in	ns	ns2.sedoparking.com.
 00.fail.	3600	in	ns	ns1-08.azure-dns.com.
@@ -766,8 +766,8 @@ alamode.fail.	3600	in	ns	dns1.alamode.com.
 alamode.fail.	3600	in	ns	dns2.alamode.com.
 alamode.fail.	3600	in	ns	dns3.alamode.com.
 alamode.fail.	3600	in	ns	dns4.alamode.com.
-alasdair.fail.	3600	in	ns	christina.ns.cloudflare.com.
-alasdair.fail.	3600	in	ns	pablo.ns.cloudflare.com.
+alasdair.fail.	3600	in	ns	dns101.registrar-servers.com.
+alasdair.fail.	3600	in	ns	dns102.registrar-servers.com.
 albanese.fail.	3600	in	ns	ns0.dnsmadeeasy.com.
 albanese.fail.	3600	in	ns	ns1.dnsmadeeasy.com.
 albanese.fail.	3600	in	ns	ns2.dnsmadeeasy.com.
@@ -968,6 +968,8 @@ ampsports.fail.	3600	in	ns	ns01.gcd-dns.com.
 ampsports.fail.	3600	in	ns	ns02.gcd-dns.com.
 amsi.fail.	3600	in	ns	dns1.registrar-servers.com.
 amsi.fail.	3600	in	ns	dns2.registrar-servers.com.
+amsinot.fail.	3600	in	ns	ns31.domaincontrol.com.
+amsinot.fail.	3600	in	ns	ns32.domaincontrol.com.
 analog.fail.	3600	in	ns	docks14.rzone.de.
 analog.fail.	3600	in	ns	shades04.rzone.de.
 anarchy.fail.	3600	in	ds	2371 13 2 966487450DA42A1CC597F0D578624A17591212551F02B2D2FDA03C6363B6B003
@@ -2053,6 +2055,8 @@ buster.fail.	3600	in	ns	dns2.registrar-servers.com.
 buster.fail.	3600	in	rrsig	DS 8 2 3600 20250930152351 20250909142351 2553 fail. aw2W8GlOPSjKdYuzNAd8vCzRNLuhrpUDE6+1/qZs0jLmmbqYC1dATJUeU4A5SqJgptKZea9QvnNO8IYX0qoJ7+lO4OTYTRNxrMFhmeVZMGxraQSKUBj16zdlPcycwMCiTy+HKZyHVimTM64kbQE3j261OrdH1bxBkv6bSKWAsbg=
 buttholding.fail.	3600	in	ns	johnathan.ns.cloudflare.com.
 buttholding.fail.	3600	in	ns	reza.ns.cloudflare.com.
+buttondown.fail.	3600	in	ns	joan.ns.cloudflare.com.
+buttondown.fail.	3600	in	ns	moura.ns.cloudflare.com.
 buyscores.fail.	3600	in	ns	launch1.spaceship.net.
 buyscores.fail.	3600	in	ns	launch2.spaceship.net.
 bvm.fail.	3600	in	ns	ns67.domaincontrol.com.
@@ -3877,7 +3881,7 @@ ej2m1156np37ra6ar2qmj99fvjopjfbe.fail.	3600	in	rrsig	NSEC3 8 2 3600 202509301523
 ejhnpte2a7jrhev4v62j2l5u0jkhhqm9.fail.	3600	in	nsec3	1 1 0 73 EKON84T1173PK2NGJEF5R8P954QK1M5O NS DS RRSIG
 ejhnpte2a7jrhev4v62j2l5u0jkhhqm9.fail.	3600	in	rrsig	NSEC3 8 2 3600 20250930152351 20250909142351 2553 fail. hvJZvmgxj3+iuEcPOvHEgsdyj1Xg9WjVVdwfErqN3UfRlm9N6C5ObbHZ+E3kzmQNn1qaO93ypG4GRCrRfqd0HckboMzQPBTk6fJ5kLTX0lDiuhVmnbi38W7OUxsB4GLM86xem/BJYqEi1LPU4ELI7an93TtHBcrTPvRjTyhKnug=
 ekon84t1173pk2ngjef5r8p954qk1m5o.fail.	3600	in	nsec3	1 1 0 73 EKUQ43VASQNE9JN560H2M2J9EQP662PJ NS SOA RRSIG DNSKEY NSEC3PARAM
-ekon84t1173pk2ngjef5r8p954qk1m5o.fail.	3600	in	rrsig	NSEC3 8 2 3600 20251002010702 20250911000702 2553 fail. hrABH/OSWuQK4Ssrt1+v1zMXZ50RtmRLrE2NKfV5jPhNjrO0hZl6LnEFpzvO0Nd3htYtNl7JuYHIXqrJb7fv9rrgmt6h0aulfR4emilIiipwFhHIqsXLtQO39AtEKgflDx1BjMRY6l+QwCcSAQ3eh7KU7hycfztr8QWA8TQf0lI=
+ekon84t1173pk2ngjef5r8p954qk1m5o.fail.	3600	in	rrsig	NSEC3 8 2 3600 20251003010343 20250912000343 2553 fail. K4ERBdM6ookf+w143tN+lcG4dVwsTU81pqlOvqfsL1t2XSde0OKbaGiUyElBDUSjY+7vegdS/Wnt3wsVMhMc8DJX8bo8zhXSGgcpzuCHc8YMWCEfKdWDjAIheUcOdlY4Fq3PfVpsT57fGiZIHele3+IUnxFCq+7livCshsuOPD4=
 ekuq43vasqne9jn560h2m2j9eqp662pj.fail.	3600	in	nsec3	1 1 0 73 EKVHCTG6CLHG6E7CQ9VCHJE6BL160LI2 NS DS RRSIG
 ekuq43vasqne9jn560h2m2j9eqp662pj.fail.	3600	in	rrsig	NSEC3 8 2 3600 20250930152351 20250909142351 2553 fail. ptl7Xv3Qx5OgiwjFC8o4Qc9dte8Do8jozNEupfvqiy/IT1/8pF0oiHpHFs6WvV3x6hzS86+22UwZqXnUja84JRhWBhRkp6duV6rYwWCjahpvh7HpMunAVCgAvNoVEMl+hFa/zNFAvFmg6NnpI9u9REvurN7PFhS6KEFhJw1mlEw=
 ekvhctg6clhg6e7cq9vchje6bl160li2.fail.	3600	in	nsec3	1 1 0 73 EL7V6TMB70J887073TSUE97G1AE7PB7E NS DS RRSIG
@@ -4204,6 +4208,10 @@ evolution.fail.	3600	in	ns	ns2.dreamhost.com.
 evolution.fail.	3600	in	ns	ns3.dreamhost.com.
 exam.fail.	3600	in	ns	ns27.domaincontrol.com.
 exam.fail.	3600	in	ns	ns28.domaincontrol.com.
+exams.fail.	3600	in	ns	curitiba.ns.porkbun.com.
+exams.fail.	3600	in	ns	fortaleza.ns.porkbun.com.
+exams.fail.	3600	in	ns	maceio.ns.porkbun.com.
+exams.fail.	3600	in	ns	salvador.ns.porkbun.com.
 exception.fail.	3600	in	ns	ns1.linode.com.
 exception.fail.	3600	in	ns	ns2.linode.com.
 exception.fail.	3600	in	ns	ns3.linode.com.
@@ -4308,7 +4316,7 @@ fail.	3600	in	nsec3param	1 0 0 73
 fail.	3600	in	rrsig	DNSKEY 8 1 3600 20250930152351 20250909142351 55696 fail. rlfg5yAZvT9Lx5o4m+qQWX2piDpaWscsgx+a2o24XxlDlr1Ey2zHsNK4cIyMa4M7q2CbByz5ACBHK5mO0sqEZju+wS1zu0KlByPqjBtu14qIh6fYb0nqiyFqt0s/O7PynptV1FVAv81moKTgydhOuOoIqkzwdFP5FjSk6w/7p0pCyTJlkwbLOpAUH0hEDzLllx2unGZUhzPpimCoDz0WMhj79PaDXuMq2frF+7/DbEK9zKl9qgSMIMzaN5iTV9qud5An8upO47pOMaHU0llcWv7qHWLRePomwd1RR3YtJFXQyflJH+DfM2Pz8liOHwGCuQGQgn/gJvq3Z7BCHdVrqA==
 fail.	3600	in	rrsig	NS 8 1 3600 20250930152351 20250909142351 2553 fail. SaaV1LahgxuvVpGymbc1WrCXblnHKK6x0b7DxFVk8G57QU/uxe03Q/OIG431QV7Ja5+ZAVEMlMEXHwbSaBsfnZIDjSY/Snah3OuKlHAZNplUU7VntpmjUtsQq3iZK9/sA9HSOxaiWT5XMda+cCK/VjKbbSfhcdfZcNf5S2mbG80=
 fail.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930152351 20250909142351 2553 fail. VEWRxJn0vCJBHNJGh6jxWUn/F2L7Qdk7dLJi2XJ7ID0k5xj9TaXOzCRQMg/30glIVO7ZcfPMh1Qob6f9g25+KlikIQsMou6o+lrV7ApkcAZw/m/sOfhK4q8BM4AmX74ZXxbygW1nNgqNLNM3f6sqdWFgRsB7GXsduKZAurhu13M=
-fail.	3600	in	rrsig	SOA 8 1 3600 20251002010702 20250911000702 2553 fail. KmVrXPacoVjVM2yfBUfN9yyLVp3NuMDRCEH1zIL5+Yt24BNL+o6iSR9WH1XAG1F1p8mbFmnwdQHmIpDB+qn4vIgNWBE01I1UryzswRdyaU2n+3U2co1cP6Sp+jS4KPeZjtsD1kaAHL5X6IupXUe6xzr95qsAyJfTMQEE+gEgzO0=
+fail.	3600	in	rrsig	SOA 8 1 3600 20251003010343 20250912000343 2553 fail. ea6Mj/evF68LY6GrsRLKVdYcIc2H3RC17TOMfTuOvT5oho6p25GpdIcKVVm2zsvhYj7OoerjY0KBajPL5j90HCHqLQGmxyWQZQxTsyKR3jcOTg3T2RpHAtGL7zWiD7Oo6ZberDPNx5aYH/e2e+HWQpfWu1NxnaIzaL2j6SWddEk=
 fail.fail.	3600	in	ns	buynow.nametime.com.
 fail.fail.	3600	in	ns	forsale.nametime.com.
 fail2.fail.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -4432,8 +4440,8 @@ fifapro.fail.	3600	in	ns	ns1dnx.name.com.
 fifapro.fail.	3600	in	ns	ns2gtx.name.com.
 fifapro.fail.	3600	in	ns	ns3gxy.name.com.
 fifapro.fail.	3600	in	ns	ns4lrt.name.com.
-files.fail.	3600	in	ns	ns1.bodis.com.
-files.fail.	3600	in	ns	ns2.bodis.com.
+files.fail.	3600	in	ns	ns1.dns-redirect.com.
+files.fail.	3600	in	ns	ns2.dns-redirect.com.
 fin.fail.	3600	in	ds	2371 13 2 A7E22C006871E5FF8D746FDC04C14960A0F795282D85CE5D4E1ABD9833EFC9EC
 fin.fail.	3600	in	ns	diva.ns.cloudflare.com.
 fin.fail.	3600	in	ns	uriah.ns.cloudflare.com.
@@ -5091,6 +5099,8 @@ govowst.fail.	3600	in	ns	amsdns1.nestle.com.
 govowst.fail.	3600	in	ns	aoadns1.nestle.com.
 govowst.fail.	3600	in	ns	ctrdns1.nestle.com.
 govowst.fail.	3600	in	ns	eurdns1.nestle.com.
+govt.fail.	3600	in	ns	gwen.ns.cloudflare.com.
+govt.fail.	3600	in	ns	oswald.ns.cloudflare.com.
 goya.fail.	3600	in	ns	ns31.worldnic.com.
 goya.fail.	3600	in	ns	ns32.worldnic.com.
 gpb.fail.	3600	in	ns	ns2.gazprombank.ru.
@@ -5135,8 +5145,8 @@ graph.fail.	3600	in	ds	2371 13 2 A0002608C07CAA0224C3CAF37706783165029C6220773E5
 graph.fail.	3600	in	ns	angela.ns.cloudflare.com.
 graph.fail.	3600	in	ns	rocky.ns.cloudflare.com.
 graph.fail.	3600	in	rrsig	DS 8 2 3600 20250930152351 20250909142351 2553 fail. JvbJv4U5HLcDEcaq5G+v80ssgQOAf9aFIZcUPOwMr8KTYlgmbI9JPhi0Jpk5EBlOaczQ6TmRxK0sFHkkkk7ZfEv9rCKlmnLeK6mcowHAZsjEn7BICbQcmwG7u1QEyxnBP5d9tPv96LRh8WbUkvf6CajXbWWTPANjfrCcagbqrYE=
-gravity.fail.	3600	in	ns	ns1.bodis.com.
-gravity.fail.	3600	in	ns	ns2.bodis.com.
+gravity.fail.	3600	in	ns	ns1.dns-redirect.com.
+gravity.fail.	3600	in	ns	ns2.dns-redirect.com.
 gray.fail.	3600	in	ns	ns15.domaincontrol.com.
 gray.fail.	3600	in	ns	ns16.domaincontrol.com.
 graysville.fail.	3600	in	ds	25897 8 2 E2FD4E0C6A538E44518C14FB71BF50989EBEE8A1053AB8CF694BD774E95A546D
@@ -6106,8 +6116,10 @@ j88.fail.	3600	in	ns	ns1.dyna-ns.net.
 j88.fail.	3600	in	ns	ns2.dyna-ns.net.
 j8i0b288tlq9jdqf0metgmkbp5opg0iu.fail.	3600	in	nsec3	1 1 0 73 J9FG7DFJFSQAQF2I20EM6GISFJTQ26MA NS DS RRSIG
 j8i0b288tlq9jdqf0metgmkbp5opg0iu.fail.	3600	in	rrsig	NSEC3 8 2 3600 20250930152351 20250909142351 2553 fail. hB2Pms6phvbXYnw6IFcomM9pfjC2Wt1L25N5PIohRJ7mDa+IGAPXuvE6KnBFuDWvjssJf8XhKfs8ytS7Jfp7n9S1IEOWiCyS3lx5g81+tPb9at9oqaps5SOZCY4unkpki+VwasYpsXjcKiIcZponCctmvVTozz9hD1AXngE20oU=
-j9fg7dfjfsqaqf2i20em6gisfjtq26ma.fail.	3600	in	nsec3	1 1 0 73 J9RK5O9K21QIAA036L6UNNF1B1CCMP6E NS DS RRSIG
-j9fg7dfjfsqaqf2i20em6gisfjtq26ma.fail.	3600	in	rrsig	NSEC3 8 2 3600 20250930152351 20250909142351 2553 fail. vUOLwOBQXdaBtAwcBLs7v54FxX+/0Ou6+ibT2x/S1MOtgBknLPed3PNkrnFCUNP/MVJRtCgfhSQ3TqAlsO42YetyWBIBL79BovJkyZu3A9A5JQ+aHpK97kxivNWt3pc0PEQCV5p34gs8IiSiAjobl89bCDcNFBw8uGYcJiDS+pc=
+j9fg7dfjfsqaqf2i20em6gisfjtq26ma.fail.	3600	in	nsec3	1 1 0 73 J9HQQD8LC599BQL7DGN58MOK1789KROG NS DS RRSIG
+j9fg7dfjfsqaqf2i20em6gisfjtq26ma.fail.	3600	in	rrsig	NSEC3 8 2 3600 20251002022056 20250911012056 2553 fail. OM1bwzPRgnvMCzjhO0UWm9SrAxWK6df+yf8mMvBpSJXBkObrRrvpx5IEHdRT/f5hfbB63S7eL9X/CrdFHA95YtNFoTOJrT9LlO+puguPhgJbrf02mwWhAPTObTEDGZtdC/HPUBWRa2X8IxKPDHHCavoJyrgP+8J6Qhu10khArHk=
+j9hqqd8lc599bql7dgn58mok1789krog.fail.	3600	in	nsec3	1 1 0 73 J9RK5O9K21QIAA036L6UNNF1B1CCMP6E NS DS RRSIG
+j9hqqd8lc599bql7dgn58mok1789krog.fail.	3600	in	rrsig	NSEC3 8 2 3600 20251002022056 20250911012056 2553 fail. HGNyZXz96PsM1kNlNhimuDTBMUgXRLF4OW4BBDv978VPOQbXiTc3yBr1Vxkur/8CWlHqatK5vVeq2OCRiK9FmEtptH9LMszvcroCfZAYcnvM9Rj9HxznZBWM64OFF/OxJTwN/lOAd+koPD+rLhoHNFYAwcHIF56m5OJePsAoWa0=
 j9rk5o9k21qiaa036l6unnf1b1ccmp6e.fail.	3600	in	nsec3	1 1 0 73 JC0CC8150O4A32CATATKL2IK29DS3C57 NS DS RRSIG
 j9rk5o9k21qiaa036l6unnf1b1ccmp6e.fail.	3600	in	rrsig	NSEC3 8 2 3600 20250930152351 20250909142351 2553 fail. mtnVyuZ40GoIMBy/gwSwdXpvv2tU4qZnm2uykMBG1hizGmUeAnpFOk7cH76JeMmdK+l/ohWyPbuipdFDRaTv+SA9U8LSrRPudVUSXlE6DduP8DL/I1p5rhy4uhNp/k6iF6oeyzN0Zm09DQS39KB/C+tcOf+46e8MoH1tSu6YJds=
 jackass.fail.	3600	in	ns	ns15.domaincontrol.com.
@@ -7164,8 +7176,8 @@ machines.fail.	3600	in	ns	fortaleza.ns.porkbun.com.
 machines.fail.	3600	in	ns	maceio.ns.porkbun.com.
 machines.fail.	3600	in	ns	salvador.ns.porkbun.com.
 machines.fail.	3600	in	rrsig	DS 8 2 3600 20250930152351 20250909142351 2553 fail. pju5aI0sRNzVx2j52ShVpkOZhLXrC0jopNaxDASpjbI+wYXrztBKoveCERLlJGV/rJ1rH1KTl3XkVw8fFgRSTK7rCMWGBYwZUWaNX2DJtmvfs/eIXteEZbgPjAV3Z+KTAnRMIGAZs1YGnWbJH9LLyoCfolP82ZXXvY/J2UKWglk=
-macindoe.fail.	3600	in	ns	julissa.ns.cloudflare.com.
-macindoe.fail.	3600	in	ns	marvin.ns.cloudflare.com.
+macindoe.fail.	3600	in	ns	dns101.registrar-servers.com.
+macindoe.fail.	3600	in	ns	dns102.registrar-servers.com.
 macrohard.fail.	3600	in	ns	curitiba.ns.porkbun.com.
 macrohard.fail.	3600	in	ns	fortaleza.ns.porkbun.com.
 macrohard.fail.	3600	in	ns	maceio.ns.porkbun.com.
@@ -7368,6 +7380,8 @@ mc.fail.	3600	in	ns	curitiba.ns.porkbun.com.
 mc.fail.	3600	in	ns	fortaleza.ns.porkbun.com.
 mc.fail.	3600	in	ns	maceio.ns.porkbun.com.
 mc.fail.	3600	in	ns	salvador.ns.porkbun.com.
+mcban.fail.	3600	in	ns	porter.ns.cloudflare.com.
+mcban.fail.	3600	in	ns	zita.ns.cloudflare.com.
 mccarthyandstone.fail.	3600	in	ns	dns1.safenames.com.
 mccarthyandstone.fail.	3600	in	ns	dns2.safenames.net.
 mccarthyandstone.fail.	3600	in	ns	dns3.safenames.org.
@@ -8000,19 +8014,12 @@ naturesbakery.fail.	3600	in	ns	ns-1437.awsdns-51.org.
 naturesbakery.fail.	3600	in	ns	ns-1586.awsdns-06.co.uk.
 naturesbakery.fail.	3600	in	ns	ns-638.awsdns-15.net.
 naturesbakery.fail.	3600	in	ns	ns-66.awsdns-08.com.
-naughty.fail.	3600	in	ns	ns1.101domain.com.
-naughty.fail.	3600	in	ns	ns2.101domain.com.
-naughty.fail.	3600	in	ns	ns5.101domain.com.
 nauti.fail.	3600	in	ns	ns1.hover.com.
 nauti.fail.	3600	in	ns	ns2.hover.com.
 naux.fail.	3600	in	ns	ns1.dyna-ns.net.
 naux.fail.	3600	in	ns	ns2.dyna-ns.net.
 nav.fail.	3600	in	ns	ns01.proisp.no.
 nav.fail.	3600	in	ns	ns02.proisp.no.
-nazi.fail.	3600	in	ns	curitiba.ns.porkbun.com.
-nazi.fail.	3600	in	ns	fortaleza.ns.porkbun.com.
-nazi.fail.	3600	in	ns	maceio.ns.porkbun.com.
-nazi.fail.	3600	in	ns	salvador.ns.porkbun.com.
 nb9mj6k2qbot3bm31irv3qk7pv9bsrpv.fail.	3600	in	nsec3	1 1 0 73 NHQ8USUMHC8J1EDAV25UK7ENE6PURG04 NS DS RRSIG
 nb9mj6k2qbot3bm31irv3qk7pv9bsrpv.fail.	3600	in	rrsig	NSEC3 8 2 3600 20250930152351 20250909142351 2553 fail. MVnAZHfGFIwylKAMGVuZ30afYdv8zCpe7DoSBtCfWQtlKGi55GTaNbDKWNI7xUI8/UXCaauFF9Nd54FpwHkvbiObrzdalmM+SdIlATDNmNkszYgccfNrvWM6sGhFLmJeJce8l5hvX4auwb//GMwo+uSAUrXjMjMRu+WCWiDMe9E=
 nbhbank.fail.	3600	in	ns	ns39.worldnic.com.
@@ -8848,8 +8855,8 @@ paco.fail.	3600	in	ns	ns-cloud-b1.googledomains.com.
 paco.fail.	3600	in	ns	ns-cloud-b2.googledomains.com.
 paco.fail.	3600	in	ns	ns-cloud-b3.googledomains.com.
 paco.fail.	3600	in	ns	ns-cloud-b4.googledomains.com.
-padawan.fail.	3600	in	ns	ns1.bodis.com.
-padawan.fail.	3600	in	ns	ns2.bodis.com.
+padawan.fail.	3600	in	ns	ns1.dns-redirect.com.
+padawan.fail.	3600	in	ns	ns2.dns-redirect.com.
 page.fail.	3600	in	ns	dean.ns.cloudflare.com.
 page.fail.	3600	in	ns	sierra.ns.cloudflare.com.
 pagely.fail.	3600	in	ns	ns-1320.awsdns-37.org.
@@ -10439,6 +10446,8 @@ sergi.fail.	3600	in	ns	ns-cloud-a1.googledomains.com.
 sergi.fail.	3600	in	ns	ns-cloud-a2.googledomains.com.
 sergi.fail.	3600	in	ns	ns-cloud-a3.googledomains.com.
 sergi.fail.	3600	in	ns	ns-cloud-a4.googledomains.com.
+serious.fail.	3600	in	ns	docks18.rzone.de.
+serious.fail.	3600	in	ns	shades05.rzone.de.
 seriously.fail.	3600	in	ns	curitiba.ns.porkbun.com.
 seriously.fail.	3600	in	ns	fortaleza.ns.porkbun.com.
 seriously.fail.	3600	in	ns	maceio.ns.porkbun.com.
@@ -11218,6 +11227,12 @@ svp.fail.	3600	in	ns	ns-1135.awsdns-13.org.
 svp.fail.	3600	in	ns	ns-1771.awsdns-29.co.uk.
 svp.fail.	3600	in	ns	ns-368.awsdns-46.com.
 svp.fail.	3600	in	ns	ns-855.awsdns-42.net.
+swag.fail.	3600	in	ds	2371 13 2 482F6AA73CB9CE8A7221D76BDE12078828F87631B5F029266EC4D0CEE04202DC
+swag.fail.	3600	in	ns	curitiba.ns.porkbun.com.
+swag.fail.	3600	in	ns	fortaleza.ns.porkbun.com.
+swag.fail.	3600	in	ns	maceio.ns.porkbun.com.
+swag.fail.	3600	in	ns	salvador.ns.porkbun.com.
+swag.fail.	3600	in	rrsig	DS 8 2 3600 20251002022056 20250911012056 2553 fail. X6MTbEe2Nny2m9gfje87S5cex3ga7livQ1Ambt/zuZH6/l8eWlNKL4Z3xqC8Tu1C60nCOJETiHK1812JHUJ+Ik4+ixNLLKs4NYLtMzP1CYvZl4gGGNsiopS2GSRZyaqt1vmEB+G5FMwFqZx37w+I7T+9kI+gEZpnkzLmBkgmykw=
 swagelok.fail.	3600	in	ns	ns1.eurodns.com.
 swagelok.fail.	3600	in	ns	ns2.eurodns.com.
 swagelok.fail.	3600	in	ns	ns3.eurodns.com.
@@ -12207,8 +12222,8 @@ unicorn.fail.	3600	in	ns	rudy.ns.cloudflare.com.
 unicorn.fail.	3600	in	rrsig	DS 8 2 3600 20250930152351 20250909142351 2553 fail. EcgzchWfnRGM7D3fdr14zG33v3ef4t5xYaizrxJB+YR9u2jvvOEXEyl2zjWi1Bv4zXaA+VsA5NosupfDGj1KJQaDrvA8f33PBrNly+sfEDrgZ5MAidzbojY9FX/D4XJXMFjAAeVzEVQfpCJ46ps6jqq2aGPb2hUAgEt6hp/nmSI=
 unikraft.fail.	3600	in	ns	dns1.registrar-servers.com.
 unikraft.fail.	3600	in	ns	dns2.registrar-servers.com.
-unionfedsbk.fail.	3600	in	ns	ns1.dyna-ns.net.
-unionfedsbk.fail.	3600	in	ns	ns2.dyna-ns.net.
+unionfedsbk.fail.	3600	in	ns	ns103.my-control-panel.com.
+unionfedsbk.fail.	3600	in	ns	ns104.my-control-panel.com.
 unit.fail.	3600	in	ns	curitiba.ns.porkbun.com.
 unit.fail.	3600	in	ns	fortaleza.ns.porkbun.com.
 unit.fail.	3600	in	ns	maceio.ns.porkbun.com.
@@ -12774,6 +12789,8 @@ vps.fail.	3600	in	ns	ns1.dns-redirect.com.
 vps.fail.	3600	in	ns	ns2.dns-redirect.com.
 vr.fail.	3600	in	ns	ns29.domaincontrol.com.
 vr.fail.	3600	in	ns	ns30.domaincontrol.com.
+vrchat.fail.	3600	in	ns	ns1.dns-redirect.com.
+vrchat.fail.	3600	in	ns	ns2.dns-redirect.com.
 vrijdag.fail.	3600	in	ds	15329 14 2 18064D1D0AEAF914BF90E2A073458E73044B0CA480D02F42669D33C3B033F382
 vrijdag.fail.	3600	in	ns	ns1.eggie.network.
 vrijdag.fail.	3600	in	ns	ns2.eggie.eu.
@@ -13493,4 +13510,4 @@ zup.fail.	3600	in	ns	magnolia.ns.cloudflare.com.
 zup.fail.	3600	in	rrsig	DS 8 2 3600 20250930152351 20250909142351 2553 fail. O1AlTAvQpV/Jc31QEzD3PJBbYDOtp5YA5XDgtij9D6DWNlibV+JDy4HUOr6S4IQzln6SEpMd+o1rFr/bgPLAuRUgmIH8ALN4Gg4UEyWLKh4k+6pHLtWxruGof6qa8/2vzzgt6NClzAia1lY6/HeBugBDwFQcibzugkPmGVJiwYw=
 zzyzx.fail.	3600	in	ns	ns47.domaincontrol.com.
 zzyzx.fail.	3600	in	ns	ns48.domaincontrol.com.
-fail.	3600	in	soa	v0n0.nic.fail. hostmaster.donuts.email. 1757552639 7200 900 1209600 3600
+fail.	3600	in	soa	v0n0.nic.fail. hostmaster.donuts.email. 1757638850 7200 900 1209600 3600
