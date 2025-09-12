@@ -1,4 +1,4 @@
-camp.	3600	in	soa	v0n0.nic.camp. hostmaster.donuts.email. 1757552601 7200 900 1209600 3600
+camp.	3600	in	soa	v0n0.nic.camp. hostmaster.donuts.email. 1757638813 7200 900 1209600 3600
 0.camp.	3600	in	ns	ns1.atom.com.
 0.camp.	3600	in	ns	ns2.atom.com.
 01gv8740dkeuhjhd7iaqqs7q0tki1fv1.camp.	3600	in	nsec3	1 1 0 73 020QIPM024FAD8CB9U8V61DBLMOFV5LJ NS DS RRSIG
@@ -1067,6 +1067,10 @@ aime.camp.	3600	in	ns	ns5.kasserver.com.
 aime.camp.	3600	in	ns	ns6.kasserver.com.
 aion.camp.	3600	in	ns	ns47.domaincontrol.com.
 aion.camp.	3600	in	ns	ns48.domaincontrol.com.
+aipathfinder.camp.	3600	in	ns	curitiba.ns.porkbun.com.
+aipathfinder.camp.	3600	in	ns	fortaleza.ns.porkbun.com.
+aipathfinder.camp.	3600	in	ns	maceio.ns.porkbun.com.
+aipathfinder.camp.	3600	in	ns	salvador.ns.porkbun.com.
 air.camp.	3600	in	ns	pns101.cloudns.net.
 air.camp.	3600	in	ns	pns102.cloudns.net.
 aircamp.camp.	3600	in	ns	ns05.domaincontrol.com.
@@ -1280,10 +1284,6 @@ alphapointe.camp.	3600	in	ns	ns61.domaincontrol.com.
 alphapointe.camp.	3600	in	ns	ns62.domaincontrol.com.
 alpin.camp.	3600	in	ns	ns.checkdomain.de.
 alpin.camp.	3600	in	ns	ns2.checkdomain.de.
-alpina.camp.	3600	in	ns	a.ns14.net.
-alpina.camp.	3600	in	ns	b.ns14.net.
-alpina.camp.	3600	in	ns	c.ns14.net.
-alpina.camp.	3600	in	ns	d.ns14.net.
 alpine.camp.	3600	in	ds	2371 13 2 990F4E70EFEF06D986389B36A0C77515AD7727036D605807371FBF55B92032EE
 alpine.camp.	3600	in	ns	elsa.ns.cloudflare.com.
 alpine.camp.	3600	in	ns	emerson.ns.cloudflare.com.
@@ -1857,8 +1857,8 @@ atlantique.camp.	3600	in	ds	51242 8 2 DCB083A01BFF6B11954E8EB5FED1061AC61C4BFCBF
 atlantique.camp.	3600	in	ns	dns14.ovh.net.
 atlantique.camp.	3600	in	ns	ns14.ovh.net.
 atlantique.camp.	3600	in	rrsig	DS 8 2 3600 20250930154414 20250909144414 8373 camp. H/30fi9KbYVFCqNZn3QbmwB/3uoBM8T47VS9cgfwyvHVA18qbeyRMPOQYLXQ8pP/1jw/UsqmJXGce8gpoE2B/pP/Kr0t8M6lChJBT7hfrYkjqt3FApjrrYp8LfBUGxhJp+kRKci5LHMgYkgTi0A3ZWqHhyrvA+jvt2AMgX0q61o=
-atlas.camp.	3600	in	ns	ns1.bodis.com.
-atlas.camp.	3600	in	ns	ns2.bodis.com.
+atlas.camp.	3600	in	ns	ns1.dns-redirect.com.
+atlas.camp.	3600	in	ns	ns2.dns-redirect.com.
 atlassian.camp.	3600	in	ns	ns-1463.awsdns-54.org.
 atlassian.camp.	3600	in	ns	ns-1552.awsdns-02.co.uk.
 atlassian.camp.	3600	in	ns	ns-285.awsdns-35.com.
@@ -1871,11 +1871,8 @@ atnndesign.camp.	3600	in	ns	ns01.squarespacedns.com.
 atnndesign.camp.	3600	in	ns	ns02.squarespacedns.com.
 atnndesign.camp.	3600	in	ns	ns03.squarespacedns.com.
 atnndesign.camp.	3600	in	ns	ns04.squarespacedns.com.
-atom.camp.	3600	in	ns	ns.gransy.com.
-atom.camp.	3600	in	ns	ns2.gransy.com.
-atom.camp.	3600	in	ns	ns3.gransy.com.
-atom.camp.	3600	in	ns	ns4.gransy.com.
-atom.camp.	3600	in	ns	ns5.gransy.com.
+atom.camp.	3600	in	ns	violet.ns.cloudflare.com.
+atom.camp.	3600	in	ns	wesley.ns.cloudflare.com.
 atproto.camp.	3600	in	ns	ns1.dnsimple.com.
 atproto.camp.	3600	in	ns	ns2.dnsimple-edge.net.
 atproto.camp.	3600	in	ns	ns3.dnsimple.com.
@@ -2820,7 +2817,7 @@ bk8.camp.	3600	in	ns	curt.ns.cloudflare.com.
 bkf.camp.	3600	in	ns	ns73.domaincontrol.com.
 bkf.camp.	3600	in	ns	ns74.domaincontrol.com.
 bkfboko4rno4129q0veu0hif19b8uunv.camp.	3600	in	nsec3	1 1 0 73 BL8KDFC4TTE5U2A89JTHF1OB6NE68ROF NS SOA RRSIG DNSKEY NSEC3PARAM
-bkfboko4rno4129q0veu0hif19b8uunv.camp.	3600	in	rrsig	NSEC3 8 2 3600 20251002010721 20250911000721 8373 camp. qOo9aUT1CgaereT+keuZpIBZXnb2BRl10Z/YGD2anLfgC444k8sv4ktK+W0kR3bVIO8jtRZwUa+2qGzZ17hQRNxLujKhKERVFmUeWliaOxHBkQgRvVci+pHTCgTwXQPV/ZlyapdnO7Y6aOSYOFliS8X544PNo9fWV1yGZ1uWIm8=
+bkfboko4rno4129q0veu0hif19b8uunv.camp.	3600	in	rrsig	NSEC3 8 2 3600 20251003010401 20250912000401 8373 camp. B1HoBWaBRPM8R3IWFQj0WP4t+10yXEyJtyQanHrlaz4MIbiOeJR8wtI1Cdpo0pCFpuUQ/WVN7fD1Sq9IuJFDb1xFPuJ3k83cVA0bQNbnIEYq6ZSdf1awbaGbR3Bg/HTXWM83yhWvx5W+hkD9q4xW8WBlyELJoTe3d0K8aO7QbrA=
 bkr.camp.	3600	in	ns	ns1.1stdomains.net.nz.
 bkr.camp.	3600	in	ns	ns2.1stdomains.net.nz.
 bl8kdfc4tte5u2a89jthf1ob6ne68rof.camp.	3600	in	nsec3	1 1 0 73 BOKKRR8V9FGEOAJJNPP32F1DK4S632UD NS DS RRSIG
@@ -2977,9 +2974,10 @@ bockx.camp.	3600	in	ns	ns13.domaincontrol.com.
 bockx.camp.	3600	in	ns	ns14.domaincontrol.com.
 body.camp.	3600	in	ns	ns1.afternic.com.
 body.camp.	3600	in	ns	ns2.afternic.com.
+bodyagency.camp.	3600	in	ns	de0.ns.1gate.eu.
 bodyagency.camp.	3600	in	ns	de1.ns.1gate.eu.
-bodyagency.camp.	3600	in	ns	de2.ns.1gate.eu.
-bodyagency.camp.	3600	in	ns	de3.ns.1gate.eu.
+bodyagency.camp.	3600	in	ns	es0.ns.1gate.eu.
+bodyagency.camp.	3600	in	ns	fr0.ns.1gate.eu.
 bohemia.camp.	3600	in	ns	pdns09.domaincontrol.com.
 bohemia.camp.	3600	in	ns	pdns10.domaincontrol.com.
 boho.camp.	3600	in	ns	devin.ns.cloudflare.com.
@@ -3704,7 +3702,7 @@ camp.	3600	in	nsec3param	1 0 0 73
 camp.	3600	in	rrsig	DNSKEY 8 1 3600 20250930154414 20250909144414 16906 camp. Xo4sohxp+xMgFgiTZ1gMzs9vk+OfmAB9n2NOHbzE+p0xFfdyK45oD0qvQLaJyA0w4lj/zPpGeJOnlzXJ1xa1ABcjtqCYJEbosFCBOshoj05KypRFoRU36Wc9b2XofdnmE5UnZDDT+9o22wlvWgI3+AiMS1A+MfbEsly7Ou7ADKkyJrZtYW/29xIp9C5b7NrpLB+axIGSeV6sHUZUYHFb1Pw91BNFScHgbxmRZ2ptTVGf51wdN3kxe43kYHAKTLBtCjyI0YJjImhLuQUrov9D/q0Wzjd5jR3f3L4qvKY/iyWxUZLzYN1GSpCwSQBdlgQg0/KFsLjbuIsILjBcz8/gGw==
 camp.	3600	in	rrsig	NS 8 1 3600 20250930154414 20250909144414 8373 camp. ApJ34H2Pa9OC7vY+G1xRqekSBSFqzalInlErNcIc6A5sEzbUag61Wcgjf4bJ3rgK08j26iGlMCnnh/idjeBL2BYQig/n7UtwCgIpDUz712NVe4d40rN/oxcgdt1HuPsx4DLBdcikwosmiqfhUwIwcUTJ09E+AiSOK+QH7wnw0cI=
 camp.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930154414 20250909144414 8373 camp. iGd38oOW7lkqPZGVH+c3Q2NRWi1lE54Pni8+V67P6RhtC5C8buLY8Lu3V7LGwKzkBw2fsreTyX/Iu7+djk1uOJ59xTvVu/mywLAUIp0CkoWfY+nqZyGELPQ0IS5yXDvC+vlVGBfVAkNdV8HlAdCDMtkW1pEgzk8WgUzDMAxZpvw=
-camp.	3600	in	rrsig	SOA 8 1 3600 20251002010721 20250911000721 8373 camp. q1yvXrMai9eq1Z2yWHroOVrbnegFi0qeHebrGZVm1J0L1Cch7EAk6h8RZhna5ImfqVNWC8YyxtlKeGhVJ1gjBI4uSXe0yUgUUbjNdrP2XWoyHD2m5H4ArF/tgexwx4pd48wQH6yNGDbx8BoRis+Sv98DTi8NTYQmeD9jpnxS/8k=
+camp.	3600	in	rrsig	SOA 8 1 3600 20251003010401 20250912000401 8373 camp. bb8+n8lDJSdCsB9o/dj+vQrJVdRSe64JLWuCfUBoBq3fEQ03dTssUSrZnSnXeU8EualeV1nablzsD16jRfqzGlkxVUnO3AvMnq1YoWU/dB6YvjQ5TZij/yO6Be3ghVQIpI5VxoagVeCe6cuaUcu75u+X2vP70CYY1Rr+RHCDzQU=
 camp.camp.	3600	in	ns	ns1.dyna-ns.net.
 camp.camp.	3600	in	ns	ns2.dyna-ns.net.
 camp01.camp.	3600	in	ns	ns77.domaincontrol.com.
@@ -6556,8 +6554,6 @@ dodgeball.camp.	3600	in	ns	dns2.registrar-servers.com.
 dog.camp.	3600	in	ns	ns51.domaincontrol.com.
 dog.camp.	3600	in	ns	ns52.domaincontrol.com.
 dog.pan.camp.	3600	in	a	14.63.164.156
-doge.camp.	3600	in	ns	ns1-expired.sav.com.
-doge.camp.	3600	in	ns	ns2-expired.sav.com.
 doggie.camp.	3600	in	ns	ns75.worldnic.com.
 doggie.camp.	3600	in	ns	ns76.worldnic.com.
 doggieday.camp.	3600	in	ns	ns-us.1and1-dns.com.
@@ -6963,10 +6959,8 @@ easton.camp.	3600	in	ns	ns19.domaincontrol.com.
 easton.camp.	3600	in	ns	ns20.domaincontrol.com.
 eastvalley.camp.	3600	in	ns	dns01.muumuu-domain.com.
 eastvalley.camp.	3600	in	ns	dns02.muumuu-domain.com.
-easy.camp.	3600	in	ds	59804 13 2 4AA331067F69E811736A23E873E8E06EF7572D4EBA2C2032F77E322C125AD7BF
-easy.camp.	3600	in	ns	launch1.spaceship.net.
-easy.camp.	3600	in	ns	launch2.spaceship.net.
-easy.camp.	3600	in	rrsig	DS 8 2 3600 20251001212524 20250910202524 8373 camp. KPsXcbd0sdZcNyy95cf11JmNeIiavI4BtALIWGDT17OfdlioYD+1o7bdy2vvvtjAfNL11FbPaFE6gWkh2o8cidBUvlXi71YAKeFLBOogKVd4kHPZSSCehoOCrWrZ8CPR3fH5UbTbfW4ZPNH9/LbBO8UEkJBKwmf6ESgThBxDkF4=
+easy.camp.	3600	in	ns	ns1.afternic.com.
+easy.camp.	3600	in	ns	ns2.afternic.com.
 easy2.camp.	3600	in	ns	ns1021.ui-dns.com.
 easy2.camp.	3600	in	ns	ns1031.ui-dns.biz.
 easy2.camp.	3600	in	ns	ns1040.ui-dns.org.
@@ -7382,6 +7376,8 @@ eqkal4b1kqdt5efcrvsj3qpnjfh5mvap.camp.	3600	in	nsec3	1 1 0 73 ERFRMQGMROKIRBQCJ9
 eqkal4b1kqdt5efcrvsj3qpnjfh5mvap.camp.	3600	in	rrsig	NSEC3 8 2 3600 20250930154414 20250909144414 8373 camp. JgfcMPK9Sqsq9pFvRF00hO/HNj/+4YnFYt30ugplYkBZbQhRMSIPOtXx3WdBdPP7x/d8S9S+8/Mb76picAS0qYy/2E0SGdmdoM7RNtlLqwpRn2CaK0jyxTmq8SXnALJqqMXrn5nxztXkGm/U4cV8HT4JHgG340vQdWwQuHGfNcY=
 equilibrium.camp.	3600	in	ns	abby.ns.cloudflare.com.
 equilibrium.camp.	3600	in	ns	apollo.ns.cloudflare.com.
+equity.camp.	3600	in	ns	dns1.registrar-servers.com.
+equity.camp.	3600	in	ns	dns2.registrar-servers.com.
 era.camp.	3600	in	ds	15392 8 2 4F9CC9E3A13A6A33F02CA3D8BC1600DC39C0B0CD31CBFA31791A75A2D30D825E
 era.camp.	3600	in	ns	ns-cloud-e1.googledomains.com.
 era.camp.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -8682,8 +8678,6 @@ fuge.camp.	3600	in	ns	ns3.lifeway.com.
 fujisan.camp.	3600	in	ns	ns11.value-domain.com.
 fujisan.camp.	3600	in	ns	ns12.value-domain.com.
 fujisan.camp.	3600	in	ns	ns13.value-domain.com.
-fujisanyaeidougu.camp.	3600	in	ns	dns1.onamae.com.
-fujisanyaeidougu.camp.	3600	in	ns	dns2.onamae.com.
 fukuoka-startup.camp.	3600	in	ns	ns1.xserver.jp.
 fukuoka-startup.camp.	3600	in	ns	ns2.xserver.jp.
 fukuoka-startup.camp.	3600	in	ns	ns3.xserver.jp.
@@ -9077,8 +9071,8 @@ geopolymer.camp.	3600	in	ns	ns12.ovh.net.
 geopolymer.camp.	3600	in	rrsig	DS 8 2 3600 20250930154414 20250909144414 8373 camp. EthTgS/qeWxhwf/ZuOG6SzEw0XoreQdRu4WzkMs/im08OXsOvRMp5+NjhSIuVCCB/xBhjZ10Rvs+goIHKUsrDByopSLckRzOeAnjQFfwQhAmX+jKHa7BLtk+SlawMzHwM9eorC10rvxaPhAPjQ1mNtPUBYDj3CCdfnbNJxDjBfs=
 georgefisher.camp.	3600	in	ns	ns1.ns-ini.co.
 georgefisher.camp.	3600	in	ns	ns2.ns-ini.co.
-georgiasurf.camp.	3600	in	ns	pdns1.registrar-servers.com.
-georgiasurf.camp.	3600	in	ns	pdns2.registrar-servers.com.
+georgiasurf.camp.	3600	in	ns	dns101.registrar-servers.com.
+georgiasurf.camp.	3600	in	ns	dns102.registrar-servers.com.
 german.camp.	3600	in	ns	ns75.domaincontrol.com.
 german.camp.	3600	in	ns	ns76.domaincontrol.com.
 germansoccer.camp.	3600	in	ns	ns-de.1and1-dns.biz.
@@ -9304,8 +9298,8 @@ goals.camp.	3600	in	ns	dns1.registrar-servers.com.
 goals.camp.	3600	in	ns	dns2.registrar-servers.com.
 goat.camp.	3600	in	ns	adrian.ns.cloudflare.com.
 goat.camp.	3600	in	ns	mark.ns.cloudflare.com.
-goathill.camp.	3600	in	ns	ns1.bodis.com.
-goathill.camp.	3600	in	ns	ns2.bodis.com.
+goathill.camp.	3600	in	ns	ns1.dns-redirect.com.
+goathill.camp.	3600	in	ns	ns2.dns-redirect.com.
 goblin.camp.	3600	in	ns	ns1027.ui-dns.de.
 goblin.camp.	3600	in	ns	ns1071.ui-dns.biz.
 goblin.camp.	3600	in	ns	ns1071.ui-dns.com.
@@ -11749,8 +11743,8 @@ jurgensen.camp.	3600	in	ns	salvador.ns.porkbun.com.
 jurten.camp.	3600	in	ns	ns.udag.de.
 jurten.camp.	3600	in	ns	ns.udag.net.
 jurten.camp.	3600	in	ns	ns.udag.org.
-just.camp.	3600	in	ns	ns1.dyna-ns.net.
-just.camp.	3600	in	ns	ns2.dyna-ns.net.
+just.camp.	3600	in	ns	ns1.afternic.com.
+just.camp.	3600	in	ns	ns2.afternic.com.
 justice.camp.	3600	in	ns	ns33.domaincontrol.com.
 justice.camp.	3600	in	ns	ns34.domaincontrol.com.
 justin.camp.	3600	in	ns	ns-cloud-d1.googledomains.com.
@@ -12816,8 +12810,8 @@ likeminds.camp.	3600	in	ns	ns-cloud-a1.googledomains.com.
 likeminds.camp.	3600	in	ns	ns-cloud-a2.googledomains.com.
 likeminds.camp.	3600	in	ns	ns-cloud-a3.googledomains.com.
 likeminds.camp.	3600	in	ns	ns-cloud-a4.googledomains.com.
-likes.camp.	3600	in	ns	ns1.bodis.com.
-likes.camp.	3600	in	ns	ns2.bodis.com.
+likes.camp.	3600	in	ns	ns1.dns-redirect.com.
+likes.camp.	3600	in	ns	ns2.dns-redirect.com.
 lil.camp.	3600	in	ns	ns03.domaincontrol.com.
 lil.camp.	3600	in	ns	ns04.domaincontrol.com.
 lillehammer.camp.	3600	in	ds	14627 15 2 35EE1331FEEF0FB8C7BD0A85DC8DB3E4D0E8D24010A453233A1B855A9E801B6C
@@ -14055,6 +14049,10 @@ milestone.camp.	3600	in	ns	ns-cloud-a1.googledomains.com.
 milestone.camp.	3600	in	ns	ns-cloud-a2.googledomains.com.
 milestone.camp.	3600	in	ns	ns-cloud-a3.googledomains.com.
 milestone.camp.	3600	in	ns	ns-cloud-a4.googledomains.com.
+milion.camp.	3600	in	ns	curitiba.ns.porkbun.com.
+milion.camp.	3600	in	ns	fortaleza.ns.porkbun.com.
+milion.camp.	3600	in	ns	maceio.ns.porkbun.com.
+milion.camp.	3600	in	ns	salvador.ns.porkbun.com.
 military.camp.	3600	in	ns	ns1.afternic.com.
 military.camp.	3600	in	ns	ns2.afternic.com.
 militaryadventure.camp.	3600	in	ns	dns1.register.com.
@@ -14072,6 +14070,10 @@ miller.camp.	3600	in	ns	maceio.ns.porkbun.com.
 miller.camp.	3600	in	ns	salvador.ns.porkbun.com.
 millets.camp.	3600	in	ns	ns1.ns-ini.co.
 millets.camp.	3600	in	ns	ns2.ns-ini.co.
+million.camp.	3600	in	ns	curitiba.ns.porkbun.com.
+million.camp.	3600	in	ns	fortaleza.ns.porkbun.com.
+million.camp.	3600	in	ns	maceio.ns.porkbun.com.
+million.camp.	3600	in	ns	salvador.ns.porkbun.com.
 milliondollar.camp.	3600	in	ns	ns1-coming-soon.sav.com.
 milliondollar.camp.	3600	in	ns	ns2-coming-soon.sav.com.
 millionstars.camp.	3600	in	ns	ns.hostpoint.ch.
@@ -14151,8 +14153,8 @@ miracle.camp.	3600	in	ns	ns3.hosting.co.kr.
 miracle.camp.	3600	in	ns	ns4.hosting.co.kr.
 miracleranch.camp.	3600	in	ns	ns29.domaincontrol.com.
 miracleranch.camp.	3600	in	ns	ns30.domaincontrol.com.
-miranda.camp.	3600	in	ns	ns1.bodis.com.
-miranda.camp.	3600	in	ns	ns2.bodis.com.
+miranda.camp.	3600	in	ns	ns1.dns-redirect.com.
+miranda.camp.	3600	in	ns	ns2.dns-redirect.com.
 miriquidi.camp.	3600	in	ns	docks18.rzone.de.
 miriquidi.camp.	3600	in	ns	shades08.rzone.de.
 misfit.camp.	3600	in	ns	ns13.domaincontrol.com.
@@ -14476,8 +14478,8 @@ movie.camp.	3600	in	ns	ns1.atom.com.
 movie.camp.	3600	in	ns	ns2.atom.com.
 movierulz.camp.	3600	in	ns	baiyun.ns.giantpanda.com.
 movierulz.camp.	3600	in	ns	meilan.ns.giantpanda.com.
-movies123.camp.	3600	in	ns	ns1.bodis.com.
-movies123.camp.	3600	in	ns	ns2.bodis.com.
+movies123.camp.	3600	in	ns	ns1.dns-redirect.com.
+movies123.camp.	3600	in	ns	ns2.dns-redirect.com.
 moviespapa.camp.	3600	in	ns	konnor.ns.cloudflare.com.
 moviespapa.camp.	3600	in	ns	ziggy.ns.cloudflare.com.
 moviespur.camp.	3600	in	ds	2371 13 2 93B250558F96CAB9764DCD26B0B98B6BB468EF2B6859CF6816F0316063FD647A
@@ -14818,8 +14820,8 @@ naptha.camp.	3600	in	ns	dns2.registrar-servers.com.
 nare.camp.	3600	in	ns	ns.udag.de.
 nare.camp.	3600	in	ns	ns.udag.net.
 nare.camp.	3600	in	ns	ns.udag.org.
-nash.camp.	3600	in	ns	ns1.bodis.com.
-nash.camp.	3600	in	ns	ns2.bodis.com.
+nash.camp.	3600	in	ns	ns1.dns-redirect.com.
+nash.camp.	3600	in	ns	ns2.dns-redirect.com.
 nashville.camp.	3600	in	ns	pdns03.domaincontrol.com.
 nashville.camp.	3600	in	ns	pdns04.domaincontrol.com.
 nathan.camp.	3600	in	ns	ns1.bluehost.com.
@@ -15105,15 +15107,15 @@ nichtraucher.camp.	3600	in	ns	ns-cloud-c1.googledomains.com.
 nichtraucher.camp.	3600	in	ns	ns-cloud-c2.googledomains.com.
 nichtraucher.camp.	3600	in	ns	ns-cloud-c3.googledomains.com.
 nichtraucher.camp.	3600	in	ns	ns-cloud-c4.googledomains.com.
-nick.camp.	3600	in	ns	ns1.bodis.com.
-nick.camp.	3600	in	ns	ns2.bodis.com.
+nick.camp.	3600	in	ns	ns1.dns-redirect.com.
+nick.camp.	3600	in	ns	ns2.dns-redirect.com.
 nido.camp.	3600	in	ns	ns01.domaincontrol.com.
 nido.camp.	3600	in	ns	ns02.domaincontrol.com.
 niederlande.camp.	3600	in	ns	dns1.akara.nl.
 niederlande.camp.	3600	in	ns	dns2.akara.nl.
 niederlande.camp.	3600	in	ns	dns3.akara.nl.
-nigger.camp.	3600	in	ns	ns1.bodis.com.
-nigger.camp.	3600	in	ns	ns2.bodis.com.
+nigger.camp.	3600	in	ns	ns1.dns-redirect.com.
+nigger.camp.	3600	in	ns	ns2.dns-redirect.com.
 night.camp.	3600	in	ns	dns1.namecheaphosting.com.
 night.camp.	3600	in	ns	dns2.namecheaphosting.com.
 nikao.camp.	3600	in	ns	dns1.registrar-servers.com.
@@ -15153,13 +15155,11 @@ nlpsummer.camp.	3600	in	ns	ns17.domaincontrol.com.
 nlpsummer.camp.	3600	in	ns	ns18.domaincontrol.com.
 nma5klj6hd52f5hi3cji58d8ua26dlf1.camp.	3600	in	nsec3	1 1 0 73 NMEPSPDK9T7NO296LV490S1PSVI6MUCU NS DS RRSIG
 nma5klj6hd52f5hi3cji58d8ua26dlf1.camp.	3600	in	rrsig	NSEC3 8 2 3600 20250930154414 20250909144414 8373 camp. d8QAoHBR+YXbEs6dkdhHLwJTe+HuzkVW19a2gRuqBPYl2p0EBKXEHoiSsG02SPC078Un6ZH9pXZ+2o6NwRDrSgBZA92FdYK4MZYwn6tIZap/f5bFKKYWBB/MpJ7hY9l5yrtIdYGwFHzm4asVdMeB+6vl/B9WR6aOeCxfdwQpfXY=
-nmepspdk9t7no296lv490s1psvi6mucu.camp.	3600	in	nsec3	1 1 0 73 NMNII0JFCIH0J7LGCD8KQUS45E5E6HD6 NS DS RRSIG
-nmepspdk9t7no296lv490s1psvi6mucu.camp.	3600	in	rrsig	NSEC3 8 2 3600 20251001212524 20250910202524 8373 camp. T46cr/spzlX6/SFtp2wOMV+I7cZBZ51JkGWEj9GRbxDzzIxH+M/YO5O90GvdktJUXsLON+SOhB9HvV523OyQxYcL+nhk52uVdexbO7tbHmTJG9at8YKvkN1HFhXEjSCSv8nCrnRzLFbjEocv5l8r5cnK1NPMtlIxrQdETGmZAXQ=
+nmepspdk9t7no296lv490s1psvi6mucu.camp.	3600	in	nsec3	1 1 0 73 NPRN4MJNK1C6RL3D3R374NATT72MQMKU NS DS RRSIG
+nmepspdk9t7no296lv490s1psvi6mucu.camp.	3600	in	rrsig	NSEC3 8 2 3600 20251002141938 20250911131938 8373 camp. crPDUKPostuViTpobGplsZeXEzMVcqffuOSarx2Z4UkOF1Fokc6MRLCP9evVUrpg55n0j9xpV43PF556V06XbsPNqV04jcTri6sTDeRTPc/IAcd+eFY19RltJ0H41/zXzxioFx3TgecnTqgKcpK3G/tCpKvz9dUwiIA+IupuRMQ=
 nmfhs.camp.	3600	in	ns	a.dnspod.com.
 nmfhs.camp.	3600	in	ns	b.dnspod.com.
 nmfhs.camp.	3600	in	ns	c.dnspod.com.
-nmnii0jfcih0j7lgcd8kqus45e5e6hd6.camp.	3600	in	nsec3	1 1 0 73 NPRN4MJNK1C6RL3D3R374NATT72MQMKU NS DS RRSIG
-nmnii0jfcih0j7lgcd8kqus45e5e6hd6.camp.	3600	in	rrsig	NSEC3 8 2 3600 20251001212524 20250910202524 8373 camp. V9pPiRZvbvG/z6dYB5N5GhHIe7PdnaHt6Jsv+fSgibsN+/XyoWGN/B2UuH1qhToxJk0jxuA8JfhOYDwsn6qBH9rKrp/Fq9le5W02DtbPXDOEA3LEIZ+AY+dqcp1ZKK46iKM7JysqQ14yQZ7+yfj+njPxh1EbABL1Z8npZVQKwqo=
 no-mad.camp.	3600	in	ns	dns1.cafe24.co.kr.
 no-mad.camp.	3600	in	ns	dns1.cafe24.com.
 no-mad.camp.	3600	in	ns	dns2.cafe24.co.kr.
@@ -15224,8 +15224,8 @@ nomad.camp.	3600	in	ns	ns1.warehouse.bg.
 nomad.camp.	3600	in	ns	ns2.warehouse.bg.
 nomada.camp.	3600	in	ns	ns25.domaincontrol.com.
 nomada.camp.	3600	in	ns	ns26.domaincontrol.com.
-nomadic.camp.	3600	in	ns	ns1.bodis.com.
-nomadic.camp.	3600	in	ns	ns2.bodis.com.
+nomadic.camp.	3600	in	ns	ns1.dns-redirect.com.
+nomadic.camp.	3600	in	ns	ns2.dns-redirect.com.
 nomadicboot.camp.	3600	in	ds	59987 8 2 A8B90481722732C2E1CA92CD205491AC2782D8741A52FF7CA30ABC5B4D619006
 nomadicboot.camp.	3600	in	ns	ns-cloud-e1.googledomains.com.
 nomadicboot.camp.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -15904,8 +15904,6 @@ opentent.camp.	3600	in	ns	dns1.registrar-servers.com.
 opentent.camp.	3600	in	ns	dns2.registrar-servers.com.
 opeongo.camp.	3600	in	ns	ns33.domaincontrol.com.
 opeongo.camp.	3600	in	ns	ns34.domaincontrol.com.
-operations.camp.	3600	in	ns	ns1.101domain.com.
-operations.camp.	3600	in	ns	ns2.101domain.com.
 operator.camp.	3600	in	ns	ns1.atom.com.
 operator.camp.	3600	in	ns	ns2.atom.com.
 ophthalmology.camp.	3600	in	ns	dns1.registrar-servers.com.
@@ -16490,8 +16488,8 @@ perfect.camp.	3600	in	ns	ns69.domaincontrol.com.
 perfect.camp.	3600	in	ns	ns70.domaincontrol.com.
 performingartsworkshops.camp.	3600	in	ns	ns15.domaincontrol.com.
 performingartsworkshops.camp.	3600	in	ns	ns16.domaincontrol.com.
-perks.camp.	3600	in	ns	ns1.bodis.com.
-perks.camp.	3600	in	ns	ns2.bodis.com.
+perks.camp.	3600	in	ns	ns1.dns-redirect.com.
+perks.camp.	3600	in	ns	ns2.dns-redirect.com.
 permaculture.camp.	3600	in	ns	ns1.dyna-ns.net.
 permaculture.camp.	3600	in	ns	ns2.dyna-ns.net.
 permapark.camp.	3600	in	ns	ns1.reg.ru.
@@ -19357,8 +19355,8 @@ showreel.camp.	3600	in	ns	annabel.ns.cloudflare.com.
 showreel.camp.	3600	in	ns	wells.ns.cloudflare.com.
 shrine.camp.	3600	in	ns	ns1.hover.com.
 shrine.camp.	3600	in	ns	ns2.hover.com.
-shroom.camp.	3600	in	ns	ns1.bodis.com.
-shroom.camp.	3600	in	ns	ns2.bodis.com.
+shroom.camp.	3600	in	ns	ns1.dns-redirect.com.
+shroom.camp.	3600	in	ns	ns2.dns-redirect.com.
 shufflebase.camp.	3600	in	ns	imani.ns.cloudflare.com.
 shufflebase.camp.	3600	in	ns	rohin.ns.cloudflare.com.
 shx.camp.	3600	in	ns	dns1.registrar-servers.com.
@@ -19819,8 +19817,8 @@ sochi.camp.	3600	in	ns	ns1.reg.ru.
 sochi.camp.	3600	in	ns	ns2.reg.ru.
 social.camp.	3600	in	ns	ns1.ns-ini.co.
 social.camp.	3600	in	ns	ns2.ns-ini.co.
-socialinnovation.camp.	3600	in	ns	ns1.bodis.com.
-socialinnovation.camp.	3600	in	ns	ns2.bodis.com.
+socialinnovation.camp.	3600	in	ns	ns1.dns-redirect.com.
+socialinnovation.camp.	3600	in	ns	ns2.dns-redirect.com.
 socialmedia-boot.camp.	3600	in	ns	roxy.ns.cloudflare.com.
 socialmedia-boot.camp.	3600	in	ns	yevgen.ns.cloudflare.com.
 socialmediamarketing.camp.	3600	in	ns	ns1.n5q.de.
@@ -20235,8 +20233,8 @@ stargazeridge.camp.	3600	in	ns	imani.ns.cloudflare.com.
 stargazeridge.camp.	3600	in	ns	rohin.ns.cloudflare.com.
 stark.camp.	3600	in	ns	ns1.dns-redirect.com.
 stark.camp.	3600	in	ns	ns2.dns-redirect.com.
-starlake.camp.	3600	in	ns	ns1.bodis.com.
-starlake.camp.	3600	in	ns	ns2.bodis.com.
+starlake.camp.	3600	in	ns	ns1.dns-redirect.com.
+starlake.camp.	3600	in	ns	ns2.dns-redirect.com.
 starlight.camp.	3600	in	ds	2371 13 2 DC2E8F200D8735C38F504CDEC1078FC187622CA796067C16A3FC3F1EAAA37B6B
 starlight.camp.	3600	in	ns	shubhi.ns.cloudflare.com.
 starlight.camp.	3600	in	ns	zod.ns.cloudflare.com.
@@ -20963,8 +20961,8 @@ taco.camp.	3600	in	ns	ns3.iwantmyname.net.
 taco.camp.	3600	in	ns	ns4.iwantmyname.net.
 taekwondo.camp.	3600	in	ns	dns1.registrar-servers.com.
 taekwondo.camp.	3600	in	ns	dns2.registrar-servers.com.
-tag.camp.	3600	in	ns	ns1.bodis.com.
-tag.camp.	3600	in	ns	ns2.bodis.com.
+tag.camp.	3600	in	ns	ns1.dns-redirect.com.
+tag.camp.	3600	in	ns	ns2.dns-redirect.com.
 tagcloud.camp.	3600	in	ns	ns1.dns-parking.com.
 tagcloud.camp.	3600	in	ns	ns2.dns-parking.com.
 taghazoutsurf.camp.	3600	in	ns	ns1.dyna-ns.net.
@@ -22299,8 +22297,8 @@ tucsonsummer.camp.	3600	in	ns	dns1.registrar-servers.com.
 tucsonsummer.camp.	3600	in	ns	dns2.registrar-servers.com.
 tudforteone.camp.	3600	in	ns	ali.ns.cloudflare.com.
 tudforteone.camp.	3600	in	ns	nicolas.ns.cloudflare.com.
-tumble.camp.	3600	in	ns	ns1.bodis.com.
-tumble.camp.	3600	in	ns	ns2.bodis.com.
+tumble.camp.	3600	in	ns	ns1.dns-redirect.com.
+tumble.camp.	3600	in	ns	ns2.dns-redirect.com.
 tumblr.camp.	3600	in	ns	ns1.tumblr.com.
 tumblr.camp.	3600	in	ns	ns2.tumblr.com.
 tumblr.camp.	3600	in	ns	ns3.tumblr.com.
@@ -24546,4 +24544,4 @@ zzmfi.camp.	3600	in	ns	ns1.dnsip.com.
 zzmfi.camp.	3600	in	ns	ns2.dnsip.com.
 zzz-ag-batch11.camp.	3600	in	ns	a.ns14.net.
 zzz-ag-batch11.camp.	3600	in	ns	b.ns14.net.
-camp.	3600	in	soa	v0n0.nic.camp. hostmaster.donuts.email. 1757552601 7200 900 1209600 3600
+camp.	3600	in	soa	v0n0.nic.camp. hostmaster.donuts.email. 1757638813 7200 900 1209600 3600
