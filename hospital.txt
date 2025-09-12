@@ -1,4 +1,4 @@
-hospital.	3600	in	soa	v0n0.nic.hospital. hostmaster.donuts.email. 1757553325 7200 900 1209600 3600
+hospital.	3600	in	soa	v0n0.nic.hospital. hostmaster.donuts.email. 1757638896 7200 900 1209600 3600
 02kh61i6te2v8pqpc2ejgtfcd0if1h4o.hospital.	3600	in	nsec3	1 1 0 73 0GP6P4CCDATT66JHEUNETD0A5FO7JRDQ NS DS RRSIG
 02kh61i6te2v8pqpc2ejgtfcd0if1h4o.hospital.	3600	in	rrsig	NSEC3 8 2 3600 20250930155640 20250909145640 12573 hospital. W4Uyfj5AqRxaPFagnsw2dcPKdNIjfYv5v17sY0Uaz35M2cPvJ73tzR856yustvGGoHSzfTsGxH9Kde3gSpB5ZA1hct/58qglLtfo6JdgfH6v39xns9hSvZ/exFZ5KucOLil6EjwYn0G3NFv/TrWvpK9dg3e8ijXlUH/h/R6k488=
 0gp6p4ccdatt66jheunetd0a5fo7jrdq.hospital.	3600	in	nsec3	1 1 0 73 0JI84QR4UEBKL324CGG50EANTU406QMP NS DS RRSIG
@@ -1307,7 +1307,7 @@ crypto.hospital.	3600	in	ns	ns1.dnsowl.com.
 crypto.hospital.	3600	in	ns	ns2.dnsowl.com.
 crypto.hospital.	3600	in	ns	ns3.dnsowl.com.
 cs3icim7sft6t88crr2iukt7rcmlmlck.hospital.	3600	in	nsec3	1 1 0 73 CVQVJ8I4BQ6O91507J48EJ5C1GE41B0L NS SOA RRSIG DNSKEY NSEC3PARAM
-cs3icim7sft6t88crr2iukt7rcmlmlck.hospital.	3600	in	rrsig	NSEC3 8 2 3600 20251002011917 20250911001917 12573 hospital. EEjIECf8agvGIU45R3+1Ky54k58O+4rwkUtlKoiHeaxDX0CiO6pq6dpI0nSDqrbAIX9AHDVoTMTdOd6LA4cn6hq6PyfgT5ZRwhG47AGwynWO/G/WQyHfmlAcF8WmmOmfl/tDWI9if1/E+9iHNhBrleM7pRdi1LTQ/iNMcaTA0BI=
+cs3icim7sft6t88crr2iukt7rcmlmlck.hospital.	3600	in	rrsig	NSEC3 8 2 3600 20251003010529 20250912000529 12573 hospital. DbBHtPCrKM1tCUj0c//Y5X1IGQdyQ/JlrxIcxmUa2zm2BwTuU9JB9TOfbBgmzES0rgtz00RmYEmJWjfWSj0KIdJOarON0Sp4T/zjVGl82GVHqCpHASVNPFrquHXJOuPy0wqgoTVBwL99br0VDptW8Jjn2QEeBzs7Qi8v776TKGk=
 csh.hospital.	3600	in	ns	dns1.cscdns.net.
 csh.hospital.	3600	in	ns	dns2.cscdns.net.
 cshs.hospital.	3600	in	ns	anahi.ns.cloudflare.com.
@@ -2292,7 +2292,7 @@ hospital.	3600	in	nsec3param	1 0 0 73
 hospital.	3600	in	rrsig	DNSKEY 8 1 3600 20250930155640 20250909145640 53629 hospital. ZSaCCEFrYn0AT3LYD2X/99Pc8TKPbu+jFYNtILv+lpue1tHkJpdmlSO9zGx6WvTVSSHMtGht++P7FyeL0+hV8XZnOH3dIBMCOzShP/MmqtTM9I0B0+VA327Fzt+4pb5UTVRhRciATiad3EJKLNrmlwXJ5R/whkFyuJfZT+g8jBogKk8cKmKXJUsbYj1EMBx+TkTqspMEqHFrfDaNHEgPA+RT5b/ZkTAFxTOAIlMzeyjuuuHb1iK9+NiyFhXnI6zSCl3MDLJsl3CWGvTEwnJF/XWDfnrJqaJ6GRlij/R7GFcwaBxTjShGojaxjjzfl2GPqpTkhlpj+REYuylshIDCeQ==
 hospital.	3600	in	rrsig	NS 8 1 3600 20250930155640 20250909145640 12573 hospital. kgrh85PfYMWN0v0mS6/s7sTT6tv5wf3C/QX04DKaIRLs8XcWMh38ttYZ2yJ30ZO8jh/UdI8E5LA2gG/YBE9iBnlPdM0kVZVh0UsMgJz//Ye080C5SvcdawgG/NqWHklxrrbCAqvyG1W+7Syuxb5BgfD0R56VVRe/YwRAS7qf03E=
 hospital.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930155640 20250909145640 12573 hospital. Bm7hu8mfBfP+ntBdVYVwBJ4onDscOIEC8TWd0IASuCL3pM0BNqGBCgs847HXc8dZoXl66N+pTqFqFbcwZp8ducXZrFH8q+l2g2r9gITqdvc3ua/MsuBNzte0rOjV8XIKqZELdXWix9HNhO0XkXidN7fn3qKaCeVedG/tUXYGK1M=
-hospital.	3600	in	rrsig	SOA 8 1 3600 20251002011917 20250911001917 12573 hospital. gHR08EgbzAE8we+rzZckqsNFxTI8ogbLTgG+GPcZ3RNwQBWS0vwDP+SLrQlym9DLm+GIKIOhbYOcGwVEE+TrylNnxXMjgzz1vqWz8h1gHe+r+e0SBgPp5g+lh3GqFoBLpycbpaxiL27NEAExp1lBmX0XE8pp9XmCqiDJZri733Y=
+hospital.	3600	in	rrsig	SOA 8 1 3600 20251003010529 20250912000529 12573 hospital. WqnWS9XqLTObpBLOe1FKcxgCiMEL7iDKlmD8rq8s44M41U6WytX+dSrx6ofpuU0hGeRQ0E08R9rf8djMMMZ3FuZlFhki/G3rdSLuM+vBo3ytSTlX9XTqkKD7F0ngEFy2OBkiMI2aswsNXOPb01g62OjNgd120US9f+r+yLEIHxs=
 hospital.hospital.	3600	in	ns	corey.dnspod.net.
 hospital.hospital.	3600	in	ns	olive.dnspod.net.
 hospitaladvisor.hospital.	3600	in	ns	ns67.domaincontrol.com.
@@ -3065,8 +3065,8 @@ meenakshi.hospital.	3600	in	ns	ns51.domaincontrol.com.
 meenakshi.hospital.	3600	in	ns	ns52.domaincontrol.com.
 mehr.hospital.	3600	in	ns	aragorn.ns.cloudflare.com.
 mehr.hospital.	3600	in	ns	lilyana.ns.cloudflare.com.
-mehrad.hospital.	3600	in	ns	cameron.ns.cloudflare.com.
-mehrad.hospital.	3600	in	ns	meadow.ns.cloudflare.com.
+mehrad.hospital.	3600	in	ns	ns100.sazmanhost.net.
+mehrad.hospital.	3600	in	ns	ns101.sazmanhost.net.
 meindigitales.hospital.	3600	in	ns	ns1.siteground.net.
 meindigitales.hospital.	3600	in	ns	ns2.siteground.net.
 memberbaba4.hospital.	3600	in	ns	ns1.dyna-ns.net.
@@ -4419,10 +4419,10 @@ sks.hospital.	3600	in	ns	ns2.dreamhost.com.
 sks.hospital.	3600	in	ns	ns3.dreamhost.com.
 skymount.hospital.	3600	in	ns	ns25.domaincontrol.com.
 skymount.hospital.	3600	in	ns	ns26.domaincontrol.com.
-slc.hospital.	3600	in	ns	ns-1076.awsdns-06.org.
-slc.hospital.	3600	in	ns	ns-1701.awsdns-20.co.uk.
-slc.hospital.	3600	in	ns	ns-272.awsdns-34.com.
-slc.hospital.	3600	in	ns	ns-908.awsdns-49.net.
+slc.hospital.	3600	in	ns	ns-1173.awsdns-18.org.
+slc.hospital.	3600	in	ns	ns-1807.awsdns-33.co.uk.
+slc.hospital.	3600	in	ns	ns-497.awsdns-62.com.
+slc.hospital.	3600	in	ns	ns-690.awsdns-22.net.
 sleep.hospital.	3600	in	ns	dns1.registrar-servers.com.
 sleep.hospital.	3600	in	ns	dns2.registrar-servers.com.
 smalv.hospital.	3600	in	ns	dns1.cscdns.net.
@@ -5225,8 +5225,6 @@ vilhost.hospital.	3600	in	ns	ns1.dyna-ns.net.
 vilhost.hospital.	3600	in	ns	ns2.dyna-ns.net.
 vims.hospital.	3600	in	ns	ns1.dnsinweb.com.
 vims.hospital.	3600	in	ns	ns2.dnsinweb.com.
-vinayaka.hospital.	3600	in	ns	dns17.parkpage.foundationapi.com.
-vinayaka.hospital.	3600	in	ns	dns18.parkpage.foundationapi.com.
 vip.hospital.	3600	in	ds	46621 8 2 DE556382B54EEA98ADF6C2852D72C1DEA5D5DE6D4148C85C2101F76659725D3B
 vip.hospital.	3600	in	ns	ns1.afternic.com.
 vip.hospital.	3600	in	ns	ns2.afternic.com.
@@ -5457,4 +5455,4 @@ zoo.hospital.	3600	in	ns	ns4-l2.nic.ru.
 zoo.hospital.	3600	in	ns	ns8-cloud.nic.ru.
 zplus.hospital.	3600	in	ns	ns53.domaincontrol.com.
 zplus.hospital.	3600	in	ns	ns54.domaincontrol.com.
-hospital.	3600	in	soa	v0n0.nic.hospital. hostmaster.donuts.email. 1757553325 7200 900 1209600 3600
+hospital.	3600	in	soa	v0n0.nic.hospital. hostmaster.donuts.email. 1757638896 7200 900 1209600 3600
