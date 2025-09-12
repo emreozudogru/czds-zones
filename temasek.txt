@@ -1,9 +1,9 @@
-temasek.	3600	in	soa	a0.nic.temasek. hostmaster.donuts.email. 1757554039 7200 900 1209600 3600
+temasek.	3600	in	soa	a0.nic.temasek. hostmaster.donuts.email. 1757639609 7200 900 1209600 3600
 2020.temasek.	3600	in	ns	ns01.tspl.com.sg.
 2020.temasek.	3600	in	ns	ns02.tspl.com.sg.
 2020.temasek.	3600	in	ns	ns03.tspl.com.sg.
 391jqdes99gvj8kjjlb9aqmiu4gu9a6l.temasek.	3600	in	nsec3	1 1 0 73 OMM05J8EKCD5RTL94GR87UVORLCL6209 NS SOA RRSIG DNSKEY NSEC3PARAM
-391jqdes99gvj8kjjlb9aqmiu4gu9a6l.temasek.	3600	in	rrsig	NSEC3 8 2 3600 20251002013106 20250911003106 36264 temasek. TynsLC2nxskZkKc03HHMnmECRUkc7C88h0TE1UeAoV763VPi0DwTd+Kn4YFm/YykaFKfAxHKEn1CbscSl3dyGp0bctwr4SMe3XB6mU3R01V8PZVZwZpfPWMtNJ1in5U+t20+V3Lc6pd20Hc9sFMVCkQjAz+QXcT22EbFHDpufcA=
+391jqdes99gvj8kjjlb9aqmiu4gu9a6l.temasek.	3600	in	rrsig	NSEC3 8 2 3600 20251003011719 20250912001719 36264 temasek. AhOMnJKQ6ov9gJ8HwlQ/9myk8G3N9NUzf9Fn3hl1RDtPTNUFdLzvR3IE719NQJJlYazSKuCy5//Uk1yjalPgBXGtGEb8L5/huOg9NR8NpGgk+CCBcptP/oadE7wfVjH4yflnUsiH1NgD+vnk134s/tOQ7Z6VsT8kPbv1kA81oQ0=
 a0.nic.temasek.	3600	in	a	65.22.140.9
 a0.nic.temasek.	3600	in	aaaa	2a01:8840:008a:0000:0000:0000:0000:0009
 a2.nic.temasek.	3600	in	a	65.22.143.9
@@ -20,7 +20,7 @@ ecosperity.temasek.	3600	in	ns	ns-1284.awsdns-32.org.
 ecosperity.temasek.	3600	in	ns	ns-1921.awsdns-48.co.uk.
 ecosperity.temasek.	3600	in	ns	ns-408.awsdns-51.com.
 ecosperity.temasek.	3600	in	ns	ns-782.awsdns-33.net.
-extusw2.monitoringtest.temasek.	3600	in	a	104.194.37.100
+extusw2.monitoringtest.temasek.	3600	in	a	104.195.115.156
 inside.temasek.	3600	in	ns	ns-1284.awsdns-32.org.
 inside.temasek.	3600	in	ns	ns-1921.awsdns-48.co.uk.
 inside.temasek.	3600	in	ns	ns-408.awsdns-51.com.
@@ -57,8 +57,8 @@ temasek.	3600	in	nsec3param	1 0 0 73
 temasek.	3600	in	rrsig	DNSKEY 8 1 3600 20250930161531 20250909151531 35989 temasek. yYWSBJ+7iadHa1Sey4ixZbCzhSdduy52yfVXsbz7+DfNyxgdtUH7/kBQcOmn95wupZ9t1P5yrE+a2MEKs0dnaqPU8vekWJT3LQ8nOJNZOl7frqEvDvUteD5TtvNlWEBwiLR9/N4hEdeUpzcQDg8DU+fKT4aXmFOS2NReWXHRbH86u7/bBfxgbzsIwbNZFYKxnLeabWZDWIvAWLtzC8Z6iF8aJJ9pZ9/0WrJtBSIht1siBiYKH/IgJUFP+v81rwutB6nimLbxWIouBv7V/AO46SlUlrc3BYSmwF7cTHLfuUZAyWPxV6pWra0fTmPPpoNPhZatLT89oZi1YucSQkb4Xg==
 temasek.	3600	in	rrsig	NS 8 1 3600 20250930161531 20250909151531 36264 temasek. Jx/TIUK6GBIG0rF2i2VJfMv7SlOYemqABHyjAkDvS7TdJmeV/eJT5+O/nCv4CVniWyaQAmfP9jAqulQsKLHZ7XuMd3CBLAMVz6JYPXmRCrMAo1JOPAT4S9LNe/UIGAdXSaij6B+xGB4DIY4Np2WkoeTee7tS1DWmVLiDpNZrzBo=
 temasek.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930161531 20250909151531 36264 temasek. ryqdRPTRC+mDRC2UTE8z8YHCo4cy/GVHvqDWFANBaHuZgatcEG+79LsU0WOcFNiCarAPgDrB9Og9Ny+bSCw8CGszq2n+L2NGr+oYfBKeI67oSiSvaY7IssU78UpF/qmA5wIVT4PaDaXalI22K42ItS/4DmHaz1vq+XrwiOBCzlU=
-temasek.	3600	in	rrsig	SOA 8 1 3600 20251002013106 20250911003106 36264 temasek. kWbML1cUUrknhkx5vxG9SxBbNt9vj8ip/Lc8k5ViyRJFfoqkY4gBf8bNp4P069XPzOgHkHF71jJNHj+qSqgp/hnYOfhxJMPB3N3uOkFuKqbxIPNhb3GUuqpfC/qtHgaX/xTJX1ZHNtOaABn5cD6hgx1vel3+3veJ8ND4ErI2e/Q=
+temasek.	3600	in	rrsig	SOA 8 1 3600 20251003011719 20250912001719 36264 temasek. pTgd8l9Wa5EAgGDeR6oEMQ/W2NCJTGsoqfrJA5Ry4tM5zmCtTZlC8zSoxrbOFYKVti/LI5Yu7Ipf4woGi/C5iLFMWWbNO116aDmvQTgRXX2Qc+6maEWusdz8nivZeSGFq5+8eh+AY7ZQzNgvdONQMq1bw6kafZeDDYN2qrreyd0=
 twenty20.temasek.	3600	in	ns	ns01.tspl.com.sg.
 twenty20.temasek.	3600	in	ns	ns02.tspl.com.sg.
 twenty20.temasek.	3600	in	ns	ns03.tspl.com.sg.
-temasek.	3600	in	soa	a0.nic.temasek. hostmaster.donuts.email. 1757554039 7200 900 1209600 3600
+temasek.	3600	in	soa	a0.nic.temasek. hostmaster.donuts.email. 1757639609 7200 900 1209600 3600
