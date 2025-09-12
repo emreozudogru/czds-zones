@@ -1,4 +1,4 @@
-direct.	3600	in	soa	v0n0.nic.direct. hostmaster.donuts.email. 1757552654 7200 900 1209600 3600
+direct.	3600	in	soa	v0n0.nic.direct. hostmaster.donuts.email. 1757638863 7200 900 1209600 3600
 0.direct.	3600	in	ns	arvind.ns.cloudflare.com.
 0.direct.	3600	in	ns	ryleigh.ns.cloudflare.com.
 0047.direct.	3600	in	ns	dns105.ovh.net.
@@ -335,7 +335,7 @@ direct.	3600	in	soa	v0n0.nic.direct. hostmaster.donuts.email. 1757552654 7200 90
 3dprint.direct.	3600	in	ns	ns49.domaincontrol.com.
 3dprint.direct.	3600	in	ns	ns50.domaincontrol.com.
 3f0of5cs4lqldtd0vvrepelhtk0vpq45.direct.	3600	in	nsec3	1 1 0 73 3F229SJ61CKRQVF02TUJITFHQ49UAA4P NS SOA RRSIG DNSKEY NSEC3PARAM
-3f0of5cs4lqldtd0vvrepelhtk0vpq45.direct.	3600	in	rrsig	NSEC3 8 2 3600 20251002010718 20250911000718 27873 direct. H3b6xmuEXuCNcMeygq38LFuQ0YL2Ov0enkUP/5z/DHfCQPYIo0+QBd6Dbp66QlPTDMEEBrB8uz17PZOOO/jmpNdypZ0LUJiib0bip22UK6iMQDWamZDjkUQnb8LMT2SDC5OIZrajZo8f+dEAIyd+DPr2X5ZFsBoTQ+bbR9EqmcU=
+3f0of5cs4lqldtd0vvrepelhtk0vpq45.direct.	3600	in	rrsig	NSEC3 8 2 3600 20251003010400 20250912000400 27873 direct. jwY3Y4mxqReME56mCa8+KFlWLDh3RMo3x1pyyTWw2Zu270/6WP+BC4eLQZ7T/Xg/E3toppOqxipk7DuwuejMjtXhDWM4ziut7szzMrpWAtytYCZx39U6xtzX/L1D5c77J9iJvmD4t90HdI/2yUlvoDYjODHEgFUU8TS09HjlNqs=
 3f229sj61ckrqvf02tujitfhq49uaa4p.direct.	3600	in	nsec3	1 1 0 73 3H711TVGGISBP8SL26VJ0A2HO718GMAH NS DS RRSIG
 3f229sj61ckrqvf02tujitfhq49uaa4p.direct.	3600	in	rrsig	NSEC3 8 2 3600 20250930153016 20250909143016 27873 direct. AVN9vfa44VnvHKaIhCLN4SmM+UUQNeUBXMjEuW3jiW+o4sUqN3zZZtf/NcJhdDLKd8sM9sSfMnJ4CK6sTuvvtWKs1v5o2xmXV/v68pyJ3z5RGEdyy4Yqw5gv6i3RI5F9mBpEAl86W5zf/aL64OnP+rsafedjXnTTsqRs9xLDnsU=
 3h711tvggisbp8sl26vj0a2ho718gmah.direct.	3600	in	nsec3	1 1 0 73 3N215FVAR8R3VCLBKS5B0K906G6NNK0H NS DS RRSIG
@@ -618,8 +618,10 @@ direct.	3600	in	soa	v0n0.nic.direct. hostmaster.donuts.email. 1757552654 7200 90
 7vd18oec61rhrbi2n74jtd8lhimmb469.direct.	3600	in	rrsig	NSEC3 8 2 3600 20250930153016 20250909143016 27873 direct. c0pEkwHil/rdc6QMLwHvZmwChw7CDj47+oKWW1myyFHcGjAulx4I5JgsQm8as+M5KZnlRsyiPuLD0LleBxp0yeCq1QSOSqDgDEEePMwMBSXECMm2m4T9l96cyA6mnBIfvc8ROOs0kY71mjEGkUtDC5Yj9pnlHEdv1prlNZ5z7Hg=
 8025llifnsg2i3o4voatevskksstae6m.direct.	3600	in	nsec3	1 1 0 73 81NOFBL8K692S8P7DD9DF7D8SEKGKM7J NS DS RRSIG
 8025llifnsg2i3o4voatevskksstae6m.direct.	3600	in	rrsig	NSEC3 8 2 3600 20250930153016 20250909143016 27873 direct. M5Bif0/98wfts1iO5LQVrOih1+qj1ORryUi/OtPCmouKlkpNLMq3ATIZ8vcjMwYoPpVsj5j4t7V1SvwtPPHlYSiO7xGU/fLGgtH6mdLaXTLm3kzUt/ZgnIz+PfInuR1Ge/Zq0mjoRgGsyv/Cd8uUNvrDNCk2aJwI9UDQNUXukEI=
-811.direct.	3600	in	ns	pdns07.domaincontrol.com.
-811.direct.	3600	in	ns	pdns08.domaincontrol.com.
+811.direct.	3600	in	ns	ns-cloud-c1.googledomains.com.
+811.direct.	3600	in	ns	ns-cloud-c2.googledomains.com.
+811.direct.	3600	in	ns	ns-cloud-c3.googledomains.com.
+811.direct.	3600	in	ns	ns-cloud-c4.googledomains.com.
 81nofbl8k692s8p7dd9df7d8sekgkm7j.direct.	3600	in	nsec3	1 1 0 73 858NV3OEUHHACUSFG30SNGHJ6RHKLJ4D NS DS RRSIG
 81nofbl8k692s8p7dd9df7d8sekgkm7j.direct.	3600	in	rrsig	NSEC3 8 2 3600 20250930153016 20250909143016 27873 direct. OazTHFRQ8Q6kSXnPM7u6KL6DR9UMaWXwP85x67oHRSjdHh6NXOf2Tn3joMWgg0N2eUGfaDlrdBDBzwLkgaLe4aK5saIPnPMffxLtjyq9RdcD9syDNbi8B1dS6lfNIPSokJocdc4H6QPjqK0pNtas+4olNNUTbE+DjyC3OlRWby0=
 835.direct.	3600	in	ns	ns71.domaincontrol.com.
@@ -638,8 +640,6 @@ direct.	3600	in	soa	v0n0.nic.direct. hostmaster.donuts.email. 1757552654 7200 90
 888.direct.	3600	in	ns	treasure.ns.cloudflare.com.
 888b.direct.	3600	in	ns	anton.ns.cloudflare.com.
 888b.direct.	3600	in	ns	kristin.ns.cloudflare.com.
-88clb.direct.	3600	in	ns	dns101.registrar-servers.com.
-88clb.direct.	3600	in	ns	dns102.registrar-servers.com.
 88i.direct.	3600	in	ns	rosalie.ns.cloudflare.com.
 88i.direct.	3600	in	ns	salvador.ns.cloudflare.com.
 88jk237csfeeiogh1hcg4ckfq279k9bc.direct.	3600	in	nsec3	1 1 0 73 8A5G0HS57UR88HFMU60FMP3V2QLPCVEA NS DS RRSIG
@@ -1199,8 +1199,9 @@ advocaat.direct.	3600	in	ns	ns0.transip.net.
 advocaat.direct.	3600	in	ns	ns1.transip.nl.
 advocaat.direct.	3600	in	ns	ns2.transip.eu.
 advocaat.direct.	3600	in	rrsig	DS 8 2 3600 20250930153016 20250909143016 27873 direct. Jr1wahoQUpPUrmEBAWZ+zCn59NjZH1M5K57PLjuekIDwxh0VQNmlfeRkpRg27mt1ekU5ejMZQVNOzx/QIHfIm5PiQOApP8PjzXsg8vGWC+5f4lpJDdZU8emOGIi4LeomiLRIQDjZsx8KVDVKV48vloQNzJREJYiJ2wDOM1IE+hk=
-advokat.direct.	3600	in	ns	dns1.hostiq.ua.
-advokat.direct.	3600	in	ns	dns2.hostiq.ua.
+advokat.direct.	3600	in	ns	verify1.registrar.eu.
+advokat.direct.	3600	in	ns	verify2.registrar.eu.
+advokat.direct.	3600	in	ns	verify3.registrar.eu.
 adz.direct.	3600	in	ns	ns3.afternic.com.
 adz.direct.	3600	in	ns	ns4.afternic.com.
 ae888.direct.	3600	in	ns	clark.ns.cloudflare.com.
@@ -1337,8 +1338,8 @@ ahatc.direct.	3600	in	ns	n1.xundns.com.
 ahatc.direct.	3600	in	ns	n2.xundns.com.
 ahcgi.direct.	3600	in	ns	n1.xundns.com.
 ahcgi.direct.	3600	in	ns	n2.xundns.com.
-ahead.direct.	3600	in	ns	ns1.bodis.com.
-ahead.direct.	3600	in	ns	ns2.bodis.com.
+ahead.direct.	3600	in	ns	ns1.dns-redirect.com.
+ahead.direct.	3600	in	ns	ns2.dns-redirect.com.
 ahsservices.direct.	3600	in	ns	dns1.registrar-servers.com.
 ahsservices.direct.	3600	in	ns	dns2.registrar-servers.com.
 ai.direct.	3600	in	ns	ns1.afternic.com.
@@ -2702,8 +2703,8 @@ authorsbooks.direct.	3600	in	ns	ns2.stackdns.com.
 authorsbooks.direct.	3600	in	ns	ns3.stackdns.com.
 authorsbooks.direct.	3600	in	ns	ns4.stackdns.com.
 authorsbooks.direct.	3600	in	rrsig	DS 8 2 3600 20250930153016 20250909143016 27873 direct. FEQIR148mEpqCHOrJsQ0PrnAE6c/ID38Z+0sLSp0Edw1Inz4gw8Evwpx1gzHsH9FFHkjUQ+kB6wRoH7G2dpRRiMFMi3GcckpHl6VDlM8oW2oen4MjbBdr1VWCnEZw41sR6i1Hmew7+b/bSCwnNd65nRqMAD0sSNQkCjfJsYgvKw=
-autism.direct.	3600	in	ns	ns1.bodis.com.
-autism.direct.	3600	in	ns	ns2.bodis.com.
+autism.direct.	3600	in	ns	ns1.dns-redirect.com.
+autism.direct.	3600	in	ns	ns2.dns-redirect.com.
 auto-online.direct.	3600	in	ns	ns-de.1and1-dns.biz.
 auto-online.direct.	3600	in	ns	ns-de.1and1-dns.com.
 auto-online.direct.	3600	in	ns	ns-de.1and1-dns.de.
@@ -2798,8 +2799,8 @@ autotrailers.direct.	3600	in	ns	ns2.uniregistry-dns.com.
 autotrailers.direct.	3600	in	ns	ns2.uniregistry-dns.net.
 autoverkopen.direct.	3600	in	ns	ns1.dyna-ns.net.
 autoverkopen.direct.	3600	in	ns	ns2.dyna-ns.net.
-autovermietung.direct.	3600	in	ns	ns1.bodis.com.
-autovermietung.direct.	3600	in	ns	ns2.bodis.com.
+autovermietung.direct.	3600	in	ns	ns1.dns-redirect.com.
+autovermietung.direct.	3600	in	ns	ns2.dns-redirect.com.
 autoverzekering.direct.	3600	in	ns	nsn1.mijndomein.nl.
 autoverzekering.direct.	3600	in	ns	nsn2.mijndomein.nl.
 autowarranty.direct.	3600	in	ns	ns55.domaincontrol.com.
@@ -3286,8 +3287,8 @@ bathrooms4u.direct.	3600	in	ns	ns47.domaincontrol.com.
 bathrooms4u.direct.	3600	in	ns	ns48.domaincontrol.com.
 batikceleneclition.direct.	3600	in	ns	jaziel.ns.cloudflare.com.
 batikceleneclition.direct.	3600	in	ns	nena.ns.cloudflare.com.
-bauer.direct.	3600	in	ns	ns1.bodis.com.
-bauer.direct.	3600	in	ns	ns2.bodis.com.
+bauer.direct.	3600	in	ns	ns1.dns-redirect.com.
+bauer.direct.	3600	in	ns	ns2.dns-redirect.com.
 baufi.direct.	3600	in	ns	ns1.sedoparking.com.
 baufi.direct.	3600	in	ns	ns2.sedoparking.com.
 baufinanzierung.direct.	3600	in	ns	docks08.rzone.de.
@@ -4913,8 +4914,8 @@ boattrailers.direct.	3600	in	ns	ns2.uniregistry-dns.com.
 boattrailers.direct.	3600	in	ns	ns2.uniregistry-dns.net.
 bob.direct.	3600	in	ns	ns75.domaincontrol.com.
 bob.direct.	3600	in	ns	ns76.domaincontrol.com.
-boba.direct.	3600	in	ns	ns1.bodis.com.
-boba.direct.	3600	in	ns	ns2.bodis.com.
+boba.direct.	3600	in	ns	ns1.dns-redirect.com.
+boba.direct.	3600	in	ns	ns2.dns-redirect.com.
 bobdodd.direct.	3600	in	ns	dns105.register.com.
 bobdodd.direct.	3600	in	ns	dns106.register.com.
 bodycare.direct.	3600	in	ns	ns37.domaincontrol.com.
@@ -5084,9 +5085,8 @@ boots.direct.	3600	in	ns	dns1.cscdns.net.
 boots.direct.	3600	in	ns	dns2.cscdns.net.
 bootspharmacy.direct.	3600	in	ns	ns1.namecity.com.
 bootspharmacy.direct.	3600	in	ns	ns2.namecity.com.
-boq.direct.	3600	in	ns	ns.rackspeed-cloud.com.
-boq.direct.	3600	in	ns	ns.rackspeed-cloud.de.
-boq.direct.	3600	in	ns	ns.rackspeed-cloud.eu.
+boq.direct.	3600	in	ns	dns5.parkpage.foundationapi.com.
+boq.direct.	3600	in	ns	dns6.parkpage.foundationapi.com.
 bordeaux.direct.	3600	in	ns	ns13.domaincontrol.com.
 bordeaux.direct.	3600	in	ns	ns14.domaincontrol.com.
 borderless.direct.	3600	in	ns	ns31.domaincontrol.com.
@@ -5701,6 +5701,8 @@ buyhomes.direct.	3600	in	ns	maceio.ns.porkbun.com.
 buyhomes.direct.	3600	in	ns	salvador.ns.porkbun.com.
 buying.direct.	3600	in	ns	ns1.afternic.com.
 buying.direct.	3600	in	ns	ns2.afternic.com.
+buyit.direct.	3600	in	ns	ns1-coming-soon.sav.com.
+buyit.direct.	3600	in	ns	ns2-coming-soon.sav.com.
 buykratom.direct.	3600	in	ns	curitiba.ns.porkbun.com.
 buykratom.direct.	3600	in	ns	fortaleza.ns.porkbun.com.
 buykratom.direct.	3600	in	ns	maceio.ns.porkbun.com.
@@ -7744,6 +7746,10 @@ contractors.direct.	3600	in	ns	ns53.domaincontrol.com.
 contractors.direct.	3600	in	ns	ns54.domaincontrol.com.
 contracts.direct.	3600	in	ns	nsn1.mijndomein.nl.
 contracts.direct.	3600	in	ns	nsn2.mijndomein.nl.
+control.direct.	3600	in	ns	ns-cloud-a1.googledomains.com.
+control.direct.	3600	in	ns	ns-cloud-a2.googledomains.com.
+control.direct.	3600	in	ns	ns-cloud-a3.googledomains.com.
+control.direct.	3600	in	ns	ns-cloud-a4.googledomains.com.
 convergence.direct.	3600	in	ns	dns16.ovh.net.
 convergence.direct.	3600	in	ns	ns16.ovh.net.
 convert.direct.	3600	in	ns	ns-1311.awsdns-35.org.
@@ -8031,10 +8037,10 @@ craftbeer.direct.	3600	in	ns	ns67.domaincontrol.com.
 craftbeer.direct.	3600	in	ns	ns68.domaincontrol.com.
 crafted.direct.	3600	in	ns	dns1.cscdns.net.
 crafted.direct.	3600	in	ns	dns2.cscdns.net.
-craftsman.direct.	3600	in	ns	ns1.bodis.com.
-craftsman.direct.	3600	in	ns	ns2.bodis.com.
-craftsmen.direct.	3600	in	ns	ns1.bodis.com.
-craftsmen.direct.	3600	in	ns	ns2.bodis.com.
+craftsman.direct.	3600	in	ns	ns1.dns-redirect.com.
+craftsman.direct.	3600	in	ns	ns2.dns-redirect.com.
+craftsmen.direct.	3600	in	ns	ns1.dns-redirect.com.
+craftsmen.direct.	3600	in	ns	ns2.dns-redirect.com.
 craftsupplies.direct.	3600	in	ns	dns1.registrar-servers.com.
 craftsupplies.direct.	3600	in	ns	dns2.registrar-servers.com.
 craftsupply.direct.	3600	in	ns	ns51.worldnic.com.
@@ -8366,8 +8372,8 @@ cvts.direct.	3600	in	ns	ns-1779.awsdns-30.co.uk.
 cvts.direct.	3600	in	ns	ns-574.awsdns-07.net.
 cwc.direct.	3600	in	ns	ns97.worldnic.com.
 cwc.direct.	3600	in	ns	ns98.worldnic.com.
-cwin.direct.	3600	in	ns	ns1.bodis.com.
-cwin.direct.	3600	in	ns	ns2.bodis.com.
+cwin.direct.	3600	in	ns	ns1.dns-redirect.com.
+cwin.direct.	3600	in	ns	ns2.dns-redirect.com.
 cwllg.direct.	3600	in	ns	n1.xundns.com.
 cwllg.direct.	3600	in	ns	n2.xundns.com.
 cws.direct.	3600	in	ns	ns10.managed-ip.com.
@@ -8711,6 +8717,8 @@ dbpvw.direct.	3600	in	ns	ns1.dnsip.com.
 dbpvw.direct.	3600	in	ns	ns2.dnsip.com.
 dbs.direct.	3600	in	ns	ns35.domaincontrol.com.
 dbs.direct.	3600	in	ns	ns36.domaincontrol.com.
+dbsbuildingsolutions.direct.	3600	in	ns	maxine.ns.cloudflare.com.
+dbsbuildingsolutions.direct.	3600	in	ns	sage.ns.cloudflare.com.
 dc.direct.	3600	in	ns	ns1.dotster.com.
 dc.direct.	3600	in	ns	ns2.dotster.com.
 dc101.direct.	3600	in	ns	kay.ns.cloudflare.com.
@@ -9261,6 +9269,8 @@ dimerhealth.direct.	3600	in	ns	ns-122.awsdns-15.com.
 dimerhealth.direct.	3600	in	ns	ns-1274.awsdns-31.org.
 dimerhealth.direct.	3600	in	ns	ns-1689.awsdns-19.co.uk.
 dimerhealth.direct.	3600	in	ns	ns-848.awsdns-42.net.
+dimmies.direct.	3600	in	ns	chad.ns.cloudflare.com.
+dimmies.direct.	3600	in	ns	coco.ns.cloudflare.com.
 dimona.direct.	3600	in	ds	49990 8 2 5D0B29A2DF12F59A93DB00D93ED38000EC8A3FF41056622F88C46F12CEA4E760
 dimona.direct.	3600	in	ns	ns1.openprovider.nl.
 dimona.direct.	3600	in	ns	ns2.openprovider.be.
@@ -9296,7 +9306,7 @@ direct.	3600	in	nsec3param	1 0 0 73
 direct.	3600	in	rrsig	DNSKEY 8 1 3600 20250930153016 20250909143016 29044 direct. nCife9uF6GpPvRj83eT6mX4+XSr0hzVDk0JrNizMe4OiiF1vyhBYMm0+u969LChx+iyDm6ie56ZJQl1Mo/u+abuaGBabNj/PhX41fKawp84QA24tdZ3lujsxZpc72P7FiJDo9feRJ7dZ8LOS99IAe7EDtLsK9ZiT4LSH+AM1EUsZbtrz3s3qllL6DggpxVKK8VQ5mGcS83Dkj4XYRM2iRVbat4RGnMj7Js9UlbrYarPfz/nN7KYngrOgjERsgB0oJ1JgQ6TnG7cRcb95zo1NsIup8hWGc8C0YteWedfOTSeo7QfECDBd0FcILBOouUYF5kyW5IwPha1aQd4cR/NROg==
 direct.	3600	in	rrsig	NS 8 1 3600 20250930153016 20250909143016 27873 direct. YXFz5JdzYQABiQwPxREBdqjeYu/ddycUGVujwOTA5weFv3nBK35XAHUBQFIMog8GdrJEYA82g7u1f+DnzcjJWAG3fscxifaIFw4KUAHyelHdk2PSsAZbOeMZd/aXizegiprdF/M9utDcQX9RXtlU7Zo+x8aDruQ9j5+kzzKBmJM=
 direct.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930153016 20250909143016 27873 direct. HrCm2BbnU01VsR2Nx+mCk7BwgnLaiHJj4KizcI3UpdNO7u6gi12U8YZVuVCuFy79yRYq7l+hUhI5j/XEWmjsXyYKHkFK9n+MJq0lzjPYEuNrkIL66vp/IUMlgyvRabqa8DiZQNfRk9fRjBmcy3p8YHIqqxXV4XxXZV2PfCG2A1s=
-direct.	3600	in	rrsig	SOA 8 1 3600 20251002010718 20250911000718 27873 direct. WQV2O9x4xYfHhRuEO8LrXFBQMM3ocWv2PkeTjZRMY3LCOq40e8zlEsX/tIA9YoKtWFiihoqy6FP3zckHVuZREhh5M2cFG1kLNRdvVNxfEnE8o+dm44XBOa3U6oEaypCLIdsy+XsUU5HZOLxMf9kdTKMEwlSeJ7+0kRugTWclRDg=
+direct.	3600	in	rrsig	SOA 8 1 3600 20251003010400 20250912000400 27873 direct. LxlW1GV8w7dzhMf9AEkO4YrOpLDjdRtbMmosCj0ikLlkeqyxMh0ny/eRkRTUmTcD/VNCfPYOg3BMgh1nvyZoH10KWY6vvj1ZsOUsDcMJPHL3zyc5mUJjfrOKoNl/U4cB7MO1SeZ1gE6ryh2WufvmXqeYhxpMIbksGIbqXX66eRU=
 direct.direct.	3600	in	ns	curitiba.ns.porkbun.com.
 direct.direct.	3600	in	ns	fortaleza.ns.porkbun.com.
 direct.direct.	3600	in	ns	maceio.ns.porkbun.com.
@@ -9376,8 +9386,8 @@ discounttire.direct.	3600	in	ns	ns65.domaincontrol.com.
 discounttire.direct.	3600	in	ns	ns66.domaincontrol.com.
 discover.direct.	3600	in	ns	ns53.domaincontrol.com.
 discover.direct.	3600	in	ns	ns54.domaincontrol.com.
-dishes.direct.	3600	in	ns	ns1.siteground.net.
-dishes.direct.	3600	in	ns	ns2.siteground.net.
+dishes.direct.	3600	in	ns	ns1.dyna-ns.net.
+dishes.direct.	3600	in	ns	ns2.dyna-ns.net.
 dishnet.direct.	3600	in	ns	ns3.worldnic.com.
 dishnet.direct.	3600	in	ns	ns4.worldnic.com.
 disney-now.direct.	3600	in	ns	orns01.dig.com.
@@ -10301,8 +10311,8 @@ ecat.direct.	3600	in	ns	dns1.registrar-servers.com.
 ecat.direct.	3600	in	ns	dns2.registrar-servers.com.
 ecatering.direct.	3600	in	ns	dns1.namecheaphosting.com.
 ecatering.direct.	3600	in	ns	dns2.namecheaphosting.com.
-ecg.direct.	3600	in	ns	ns1.bodis.com.
-ecg.direct.	3600	in	ns	ns2.bodis.com.
+ecg.direct.	3600	in	ns	ns1.dns-redirect.com.
+ecg.direct.	3600	in	ns	ns2.dns-redirect.com.
 echo.direct.	3600	in	ns	nsgbr.comlaude.co.uk.
 echo.direct.	3600	in	ns	nssui.comlaude.ch.
 echo.direct.	3600	in	ns	nsusa.comlaude.net.
@@ -10457,8 +10467,8 @@ egov.direct.	3600	in	ns	ns.udag.net.
 egov.direct.	3600	in	ns	ns.udag.org.
 egrimes.direct.	3600	in	ns	ns69.domaincontrol.com.
 egrimes.direct.	3600	in	ns	ns70.domaincontrol.com.
-egs.direct.	3600	in	ns	ns1.bodis.com.
-egs.direct.	3600	in	ns	ns2.bodis.com.
+egs.direct.	3600	in	ns	ns1.dns-redirect.com.
+egs.direct.	3600	in	ns	ns2.dns-redirect.com.
 egybest.direct.	3600	in	ns	ns1.brainydns.com.
 egybest.direct.	3600	in	ns	ns2.brainydns.com.
 egym.direct.	3600	in	ns	ns-cloud-b1.googledomains.com.
@@ -12505,8 +12515,8 @@ forum.direct.	3600	in	ns	ns1-expired.sav.com.
 forum.direct.	3600	in	ns	ns2-expired.sav.com.
 forward.direct.	3600	in	ns	christina.ns.cloudflare.com.
 forward.direct.	3600	in	ns	drake.ns.cloudflare.com.
-foryou.direct.	3600	in	ns	ns1.bodis.com.
-foryou.direct.	3600	in	ns	ns2.bodis.com.
+foryou.direct.	3600	in	ns	ns1.dns-redirect.com.
+foryou.direct.	3600	in	ns	ns2.dns-redirect.com.
 fostertalk.direct.	3600	in	ns	ns45.domaincontrol.com.
 fostertalk.direct.	3600	in	ns	ns46.domaincontrol.com.
 foto.direct.	3600	in	ns	ns1.afternic.com.
@@ -16356,8 +16366,8 @@ ipteic.direct.	3600	in	ds	22247 8 2 93FAA77107F6CB0609101149ACB28D0D8D96B7A5BD16
 ipteic.direct.	3600	in	ns	dns112.ovh.net.
 ipteic.direct.	3600	in	ns	ns112.ovh.net.
 ipteic.direct.	3600	in	rrsig	DS 8 2 3600 20250930153016 20250909143016 27873 direct. KJJSXnjxELck0SbWP9NoHtUSMusrmU9s3pBe7IujewuZHEbfbR1+cn/rhlqKI+8EJngUpd9ytVs2k8aX9YVq2GXKz5PfMmFpd5nfZOip5WCllXOTOJODxuQZ+eVFClP2hN8Js5qYWbIAdp0AuuL9UVvfXLfZPkHMv93/q/GqT1Q=
-iptv.direct.	3600	in	ns	ns1.bodis.com.
-iptv.direct.	3600	in	ns	ns2.bodis.com.
+iptv.direct.	3600	in	ns	ns1.dns-redirect.com.
+iptv.direct.	3600	in	ns	ns2.dns-redirect.com.
 ipv4.direct.	3600	in	ns	pns21.cloudns.net.
 ipv4.direct.	3600	in	ns	pns22.cloudns.net.
 ipv4.direct.	3600	in	ns	pns23.cloudns.net.
@@ -16643,8 +16653,8 @@ jamaicanmade.direct.	3600	in	ns	maceio.ns.porkbun.com.
 jamaicanmade.direct.	3600	in	ns	salvador.ns.porkbun.com.
 jameelmotors.direct.	3600	in	ns	ns53.domaincontrol.com.
 jameelmotors.direct.	3600	in	ns	ns54.domaincontrol.com.
-james.direct.	3600	in	ns	ns1.bodis.com.
-james.direct.	3600	in	ns	ns2.bodis.com.
+james.direct.	3600	in	ns	ns1.dns-redirect.com.
+james.direct.	3600	in	ns	ns2.dns-redirect.com.
 jammer.direct.	3600	in	ns	ns6563.hostgator.com.
 jammer.direct.	3600	in	ns	ns6564.hostgator.com.
 jan.direct.	3600	in	ns	docks08.rzone.de.
@@ -16668,8 +16678,8 @@ janushendersonglobal.direct.	3600	in	ns	udns1.cscdns.net.
 janushendersonglobal.direct.	3600	in	ns	udns2.cscdns.uk.
 janushendersonglobalinvestors.direct.	3600	in	ns	udns1.cscdns.net.
 janushendersonglobalinvestors.direct.	3600	in	ns	udns2.cscdns.uk.
-japa.direct.	3600	in	ns	dan1.host-ww.net.
-japa.direct.	3600	in	ns	dan2.host-ww.net.
+japa.direct.	3600	in	ns	dns1.namecheaphosting.com.
+japa.direct.	3600	in	ns	dns2.namecheaphosting.com.
 jarden.direct.	3600	in	ns	ns.freeparking.co.nz.
 jarden.direct.	3600	in	ns	ns2.freeparking.co.nz.
 jarvis.direct.	3600	in	ns	ns33.domaincontrol.com.
@@ -17543,6 +17553,8 @@ knauf.direct.	3600	in	ns	virginia.ns.cloudflare.com.
 knecht.direct.	3600	in	ns	ns.hostpoint.ch.
 knecht.direct.	3600	in	ns	ns2.hostpoint.ch.
 knecht.direct.	3600	in	ns	ns3.hostpoint.ch.
+knitting.direct.	3600	in	ns	ns1.dns-redirect.com.
+knitting.direct.	3600	in	ns	ns2.dns-redirect.com.
 knives.direct.	3600	in	ns	ns59.domaincontrol.com.
 knives.direct.	3600	in	ns	ns60.domaincontrol.com.
 knk.direct.	3600	in	ns	ns1.domaindiscount24.net.
@@ -18539,8 +18551,8 @@ ll97.direct.	3600	in	ns	carl.ns.cloudflare.com.
 ll97.direct.	3600	in	ns	courtney.ns.cloudflare.com.
 llaxc.direct.	3600	in	ns	n1.xundns.com.
 llaxc.direct.	3600	in	ns	n2.xundns.com.
-llc.direct.	3600	in	ns	ns1.bodis.com.
-llc.direct.	3600	in	ns	ns2.bodis.com.
+llc.direct.	3600	in	ns	ns1.dns-redirect.com.
+llc.direct.	3600	in	ns	ns2.dns-redirect.com.
 lloydsregister.direct.	3600	in	ns	dns1.cscdns.net.
 lloydsregister.direct.	3600	in	ns	dns2.cscdns.net.
 llrgj.direct.	3600	in	ns	n1.xundns.com.
@@ -19350,8 +19362,8 @@ makelaar.direct.	3600	in	ns	ns2.transip.eu.
 makelaar.direct.	3600	in	rrsig	DS 8 2 3600 20250930153016 20250909143016 27873 direct. H+aqZMFOYU3WZazv7CCJfLUEhcAetejhOuEQD9lyW9HS4WrCVvH+dwzdPQzcEsNg6BxxGUYEBhCr3ws0sUKAEJHZBAaPzhZh5dXQnQ+IjYNbRJOJkjfXrkEyqXYm1nUsqOzhUNHSkGIPHyzoUadE7NSIbcyPUBA+9MnFmhablAA=
 makelarrrr33.direct.	3600	in	ns	dns1.registrar-servers.com.
 makelarrrr33.direct.	3600	in	ns	dns2.registrar-servers.com.
-makeme.direct.	3600	in	ns	ns1.bodis.com.
-makeme.direct.	3600	in	ns	ns2.bodis.com.
+makeme.direct.	3600	in	ns	ns1.dns-redirect.com.
+makeme.direct.	3600	in	ns	ns2.dns-redirect.com.
 maker.direct.	3600	in	ns	hadlee.ns.cloudflare.com.
 maker.direct.	3600	in	ns	vasilii.ns.cloudflare.com.
 makeup.direct.	3600	in	ns	ns3.afternic.com.
@@ -19524,8 +19536,8 @@ mariya.direct.	3600	in	ns	chin.ns.cloudflare.com.
 mariya.direct.	3600	in	ns	maxim.ns.cloudflare.com.
 marjo.direct.	3600	in	ns	docks19.rzone.de.
 marjo.direct.	3600	in	ns	shades04.rzone.de.
-mark.direct.	3600	in	ns	ns1.bodis.com.
-mark.direct.	3600	in	ns	ns2.bodis.com.
+mark.direct.	3600	in	ns	ns1.dns-redirect.com.
+mark.direct.	3600	in	ns	ns2.dns-redirect.com.
 marken.direct.	3600	in	ns	ns69.domaincontrol.com.
 marken.direct.	3600	in	ns	ns70.domaincontrol.com.
 market.direct.	3600	in	ns	ns1.afternic.com.
@@ -19789,8 +19801,8 @@ meal-hub.direct.	3600	in	ns	ns1.domaintechnik.at.
 meal-hub.direct.	3600	in	ns	ns2.domaintechnik.at.
 meal-hub.direct.	3600	in	ns	ns3.domaintechnik.at.
 meal-hub.direct.	3600	in	ns	ns4.domaintechnik.at.
-meal.direct.	3600	in	ns	ns1.bodis.com.
-meal.direct.	3600	in	ns	ns2.bodis.com.
+meal.direct.	3600	in	ns	ns1.dns-redirect.com.
+meal.direct.	3600	in	ns	ns2.dns-redirect.com.
 meals.direct.	3600	in	ns	ns1.pl603.parklogic.com.
 meals.direct.	3600	in	ns	ns2.pl603.parklogic.com.
 meaningfulcollaboration.direct.	3600	in	ns	ns49.domaincontrol.com.
@@ -20850,8 +20862,6 @@ morgenfundspro.direct.	3600	in	ns	ns.udag.net.
 morgenfundspro.direct.	3600	in	ns	ns.udag.org.
 morgenroth.direct.	3600	in	ns	docks17.rzone.de.
 morgenroth.direct.	3600	in	ns	shades07.rzone.de.
-morgverd.direct.	3600	in	ns	dns101.registrar-servers.com.
-morgverd.direct.	3600	in	ns	dns102.registrar-servers.com.
 morningfund-bank.direct.	3600	in	ns	ns.udag.de.
 morningfund-bank.direct.	3600	in	ns	ns.udag.net.
 morningfund-bank.direct.	3600	in	ns	ns.udag.org.
@@ -20988,6 +20998,10 @@ movers.direct.	3600	in	ns	ns2.afternic.com.
 movi.direct.	3600	in	ns	ns1.wordpress.com.
 movi.direct.	3600	in	ns	ns2.wordpress.com.
 movi.direct.	3600	in	ns	ns3.wordpress.com.
+movie.direct.	3600	in	ns	curitiba.ns.porkbun.com.
+movie.direct.	3600	in	ns	fortaleza.ns.porkbun.com.
+movie.direct.	3600	in	ns	maceio.ns.porkbun.com.
+movie.direct.	3600	in	ns	salvador.ns.porkbun.com.
 movies.direct.	3600	in	ns	ns1.markmonitor.com.
 movies.direct.	3600	in	ns	ns2.markmonitor.com.
 moving.direct.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -21153,8 +21167,8 @@ muhameds.direct.	3600	in	ns	ns27.domaincontrol.com.
 muhameds.direct.	3600	in	ns	ns28.domaincontrol.com.
 mulch.direct.	3600	in	ns	ns15.domaincontrol.com.
 mulch.direct.	3600	in	ns	ns16.domaincontrol.com.
-multi.direct.	3600	in	ns	ns1.dyna-ns.net.
-multi.direct.	3600	in	ns	ns2.dyna-ns.net.
+multi.direct.	3600	in	ns	ns1.afternic.com.
+multi.direct.	3600	in	ns	ns2.afternic.com.
 multicanais.direct.	3600	in	ns	dns1.registrar-servers.com.
 multicanais.direct.	3600	in	ns	dns2.registrar-servers.com.
 multiscrew.direct.	3600	in	ns	ns49.domaincontrol.com.
@@ -23406,6 +23420,10 @@ pagers.direct.	3600	in	ns	ns39.domaincontrol.com.
 pagers.direct.	3600	in	ns	ns40.domaincontrol.com.
 pagigaf6h566opoulhs37jl8lfsoptjq.direct.	3600	in	nsec3	1 1 0 73 PBHI4H8B3HR1TDDR58R1LI33FKE1F07D NS DS RRSIG
 pagigaf6h566opoulhs37jl8lfsoptjq.direct.	3600	in	rrsig	NSEC3 8 2 3600 20250930153016 20250909143016 27873 direct. UWG84LQBiTTPLCBTc8FH7JOYULfRW87jBZRH4MwwWa6ERaeNhvadAmWFxX2/UaKK23QEnUQXMZQS0FpAcEDAC+ef1TSuXIihGVkR+J8WEPl9lnw/S40DcV9Hi+FFE3ojrHJXS4Phx8UUSohQT+hjKvL8xzHjoIJk371mWXgVLiA=
+paid.direct.	3600	in	ns	curitiba.ns.porkbun.com.
+paid.direct.	3600	in	ns	fortaleza.ns.porkbun.com.
+paid.direct.	3600	in	ns	maceio.ns.porkbun.com.
+paid.direct.	3600	in	ns	salvador.ns.porkbun.com.
 paidby.direct.	3600	in	ns	ns71.domaincontrol.com.
 paidby.direct.	3600	in	ns	ns72.domaincontrol.com.
 pain.direct.	3600	in	ns	ns-1467.awsdns-55.org.
@@ -23775,8 +23793,8 @@ pcddp.direct.	3600	in	ns	ns1.1233dns.com.
 pcddp.direct.	3600	in	ns	ns2.951dns.com.
 pcgroupltd.direct.	3600	in	ns	ns51.domaincontrol.com.
 pcgroupltd.direct.	3600	in	ns	ns52.domaincontrol.com.
-pcl.direct.	3600	in	ns	ns1.bodis.com.
-pcl.direct.	3600	in	ns	ns2.bodis.com.
+pcl.direct.	3600	in	ns	ns1.dns-redirect.com.
+pcl.direct.	3600	in	ns	ns2.dns-redirect.com.
 pcp.direct.	3600	in	ns	ns15.domaincontrol.com.
 pcp.direct.	3600	in	ns	ns16.domaincontrol.com.
 pcparts.direct.	3600	in	ns	phoenix.ns.cloudflare.com.
@@ -24310,8 +24328,8 @@ piques.direct.	3600	in	ns	dns2.cscdns.net.
 pirelli.direct.	3600	in	ns	dnsgeo15.tuonomeregistrar.com.
 pirelli.direct.	3600	in	ns	dnsgeo16.tuonomeregistrar.net.
 pirelli.direct.	3600	in	ns	dnsgeo20.tuonomeregistrar.it.
-pirlotv.direct.	3600	in	ns	ns1.bodis.com.
-pirlotv.direct.	3600	in	ns	ns2.bodis.com.
+pirlotv.direct.	3600	in	ns	ns1.dns-redirect.com.
+pirlotv.direct.	3600	in	ns	ns2.dns-redirect.com.
 piss.direct.	3600	in	ns	dns19.ovh.net.
 piss.direct.	3600	in	ns	ns19.ovh.net.
 pistol4d.direct.	3600	in	ns	darl.ns.cloudflare.com.
@@ -25656,6 +25674,8 @@ quebec.direct.	3600	in	ns	ns-cloud-a2.googledomains.com.
 quebec.direct.	3600	in	ns	ns-cloud-a3.googledomains.com.
 quebec.direct.	3600	in	ns	ns-cloud-a4.googledomains.com.
 quebec.direct.	3600	in	rrsig	DS 8 2 3600 20250930153016 20250909143016 27873 direct. WKdOvr+4ogj5qUbS/8Gl4rlUqxk/FSDI91z2E6LRP/EKz5rv+rTNaiI/9UB3B8yWoDWS79ulMPMZiiwDzZer85MQ3SsMtpmNfdJd6WVtvCWbp3qPC27Bf5qpe5/ZJzNkaNTj0ovdb0ViOE58mISnwhlhNHehnS6O/IwSBu2yaus=
+queen.direct.	3600	in	ns	dns1.registrar-servers.com.
+queen.direct.	3600	in	ns	dns2.registrar-servers.com.
 queenbet.direct.	3600	in	ns	aldo.ns.cloudflare.com.
 queenbet.direct.	3600	in	ns	rosemary.ns.cloudflare.com.
 question.direct.	3600	in	ds	21400 13 2 30BA41CBA6A6EFA3417F6F574F937EDA49CFD36FF461DBE46D582B3F6BC0B14B
@@ -26524,8 +26544,8 @@ retailhq.direct.	3600	in	ns	ns1.no-ip.com.
 retailhq.direct.	3600	in	ns	ns2.no-ip.com.
 retailhq.direct.	3600	in	ns	ns3.no-ip.com.
 retailhq.direct.	3600	in	ns	ns4.no-ip.com.
-retina.direct.	3600	in	ns	ns1.bodis.com.
-retina.direct.	3600	in	ns	ns2.bodis.com.
+retina.direct.	3600	in	ns	ns1.dns-redirect.com.
+retina.direct.	3600	in	ns	ns2.dns-redirect.com.
 retreat.direct.	3600	in	ns	ns1036.ui-dns.org.
 retreat.direct.	3600	in	ns	ns1037.ui-dns.biz.
 retreat.direct.	3600	in	ns	ns1062.ui-dns.de.
@@ -26641,8 +26661,6 @@ rhrorgf1d7a6ou4b30nivkfbh4u39eht.direct.	3600	in	nsec3	1 1 0 73 RIK5IHU41LGJOCOP
 rhrorgf1d7a6ou4b30nivkfbh4u39eht.direct.	3600	in	rrsig	NSEC3 8 2 3600 20250930153016 20250909143016 27873 direct. bv794vZnm8FFIZH54fEk17SAgaxynYsCnJU0zGysgpcyqYLhFJpXxzmy5wpXkTKslHAQ8tPeiiBl9S6PvEZNyhuSg93AqZukpOomWJ7otR8V0F/ZLDyr6J7SxE3aDeO01P72ceHw3h2Tok7x5lMt44c7hZdAm/V1PiEOrGbB7C4=
 rhythmoxygen.direct.	3600	in	ns	ns07.domaincontrol.com.
 rhythmoxygen.direct.	3600	in	ns	ns08.domaincontrol.com.
-ri.direct.	3600	in	ns	dns101.registrar-servers.com.
-ri.direct.	3600	in	ns	dns102.registrar-servers.com.
 rich.direct.	3600	in	ns	ns59.domaincontrol.com.
 rich.direct.	3600	in	ns	ns60.domaincontrol.com.
 richard.direct.	3600	in	ns	marlowe.ns.cloudflare.com.
@@ -28184,8 +28202,8 @@ sherco.direct.	3600	in	ns	ns30.domaincontrol.com.
 sherman.direct.	3600	in	ns	ns1.dreamhost.com.
 sherman.direct.	3600	in	ns	ns2.dreamhost.com.
 sherman.direct.	3600	in	ns	ns3.dreamhost.com.
-sherpa.direct.	3600	in	ns	ns1.bodis.com.
-sherpa.direct.	3600	in	ns	ns2.bodis.com.
+sherpa.direct.	3600	in	ns	ns1.dns-redirect.com.
+sherpa.direct.	3600	in	ns	ns2.dns-redirect.com.
 shhfi.direct.	3600	in	ns	brian.ns.cloudflare.com.
 shhfi.direct.	3600	in	ns	kimora.ns.cloudflare.com.
 shield.direct.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -30642,8 +30660,8 @@ tdg.direct.	3600	in	ns	dns1.registrar-servers.com.
 tdg.direct.	3600	in	ns	dns2.registrar-servers.com.
 tdj4d904b4ni6jcqi9qkj9fc16svkd28.direct.	3600	in	nsec3	1 1 0 73 TF13MEJS4S7DKN9RR86FTUPA7H5M4VMA NS DS RRSIG
 tdj4d904b4ni6jcqi9qkj9fc16svkd28.direct.	3600	in	rrsig	NSEC3 8 2 3600 20250930153016 20250909143016 27873 direct. Si5UMNGcvzfloWVVx0hj0M9NiRUSkQMj3HpvQ7n0zkfDvVJczNv+2GixyVc2KbGufcmoIvGp6Fyy+nl1KwAfBP8pRV7RiqynzAEExPEb4krkKg4OntUhlRDT2jcPZ1gG3pvnrAa5f9DoQgA5K4o0eUgYMOVaBIb41UWSO0rDQZI=
-tdl.direct.	3600	in	ns	ns1.bodis.com.
-tdl.direct.	3600	in	ns	ns2.bodis.com.
+tdl.direct.	3600	in	ns	ns1.dns-redirect.com.
+tdl.direct.	3600	in	ns	ns2.dns-redirect.com.
 tdleel.direct.	3600	in	ns	cns4001.webhostbox.net.
 tdleel.direct.	3600	in	ns	cns4002.webhostbox.net.
 tdn.direct.	3600	in	ns	grant.ns.cloudflare.com.
@@ -31026,6 +31044,8 @@ thelabel.direct.	3600	in	ns	dns1.cscdns.net.
 thelabel.direct.	3600	in	ns	dns2.cscdns.net.
 thelindenmethod.direct.	3600	in	ns	jermaine.ns.cloudflare.com.
 thelindenmethod.direct.	3600	in	ns	joyce.ns.cloudflare.com.
+theline.direct.	3600	in	ns	ns1.dns-redirect.com.
+theline.direct.	3600	in	ns	ns2.dns-redirect.com.
 thelist.direct.	3600	in	ns	buffy.ns.orangewebsite.com.
 thelist.direct.	3600	in	ns	siti.ns.orangewebsite.com.
 thelocal.direct.	3600	in	ns	ns77.domaincontrol.com.
@@ -31781,6 +31801,8 @@ transit.direct.	3600	in	ns	ns1.openprovider.nl.
 transit.direct.	3600	in	ns	ns2.openprovider.be.
 transit.direct.	3600	in	ns	ns3.openprovider.eu.
 transit.direct.	3600	in	rrsig	DS 8 2 3600 20250930153016 20250909143016 27873 direct. I3URXal1eKIYbO4oyvqYdShasjpzs6fmU1IxayRmlSu7SDJlkBCldd897XF9wXN/oZZx3C1pWr2NkMpzaQ5D1R9XPBK8nOAsLwDUdKB6tZH3d7GsBW6mXgAgB7EJcYGTlxWUUqegbEhvq5QRATDL+QuxFttMq6aF1lewJZ1lc3I=
+translate.direct.	3600	in	ns	ns1.dns-redirect.com.
+translate.direct.	3600	in	ns	ns2.dns-redirect.com.
 translation.direct.	3600	in	ns	ns57.domaincontrol.com.
 translation.direct.	3600	in	ns	ns58.domaincontrol.com.
 translator.direct.	3600	in	ns	ns25.domaincontrol.com.
@@ -33065,8 +33087,6 @@ vega.direct.	3600	in	ns	ns1.parkingcrew.net.
 vega.direct.	3600	in	ns	ns2.parkingcrew.net.
 vegamovies.direct.	3600	in	ns	cameron.ns.cloudflare.com.
 vegamovies.direct.	3600	in	ns	sureena.ns.cloudflare.com.
-vegan.direct.	3600	in	ns	ns73.domaincontrol.com.
-vegan.direct.	3600	in	ns	ns74.domaincontrol.com.
 vegas.direct.	3600	in	ds	2371 13 2 E40787B39F47979944C579CE2973F71FBFAACB83535BA72CA9A2F561206BA2FD
 vegas.direct.	3600	in	ns	hal.ns.cloudflare.com.
 vegas.direct.	3600	in	ns	treasure.ns.cloudflare.com.
@@ -33234,8 +33254,6 @@ vervangmijngroepenkast.direct.	3600	in	ns	ns01.hostnet.nl.
 vervangmijngroepenkast.direct.	3600	in	ns	ns02.hostnet.nl.
 verve.direct.	3600	in	ns	dns1.registrar-servers.com.
 verve.direct.	3600	in	ns	dns2.registrar-servers.com.
-verzeker.direct.	3600	in	ns	ns1.contact.hostnet.support.
-verzeker.direct.	3600	in	ns	ns2.contact.hostnet.support.
 verzekering.direct.	3600	in	ns	ns.zxcs.be.
 verzekering.direct.	3600	in	ns	ns.zxcs.nl.
 verzekeringen.direct.	3600	in	ns	ns47750.openprovider.com.
@@ -35709,4 +35727,4 @@ zzpsu.direct.	3600	in	ns	brian.ns.cloudflare.com.
 zzpsu.direct.	3600	in	ns	kimora.ns.cloudflare.com.
 zzyzx.direct.	3600	in	ns	ns47.domaincontrol.com.
 zzyzx.direct.	3600	in	ns	ns48.domaincontrol.com.
-direct.	3600	in	soa	v0n0.nic.direct. hostmaster.donuts.email. 1757552654 7200 900 1209600 3600
+direct.	3600	in	soa	v0n0.nic.direct. hostmaster.donuts.email. 1757638863 7200 900 1209600 3600
