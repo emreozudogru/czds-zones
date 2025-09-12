@@ -1,4 +1,4 @@
-azure.	172800	in	soa	dns1.nic.azure. hostmaster.nominet.org.uk. 1750680115 900 300 2419200 3600
+azure.	172800	in	soa	dns1.nic.azure. hostmaster.nominet.org.uk. 1750680116 900 300 2419200 3600
 activeactivednstest.azure.	172800	in	ns	ns1-33.azure-dns.com.
 activeactivednstest.azure.	172800	in	ns	ns2-33.azure-dns.net.
 activeactivednstest.azure.	172800	in	ns	ns3-33.azure-dns.org.
@@ -8,7 +8,7 @@ azure.	0	in	rrsig	NSEC3PARAM 8 1 0 20251012225454 20250907224356 54603 azure. Ax
 azure.	0	in	rrsig	TYPE65534 8 1 0 20251012225454 20250907224356 54603 azure. EDOE1NmZJrKTEY4eu0IeYLqS94wQH7KlImt2831NwBpY8j4osKFQ4yhK9/4kvbzeU9jtMghkSCCs+5A/5Nvuod3On9x+zBYs5qb6xVcZfef95w/L8lnPaal//si6uTsq54q9lIW0oQOOGdzScEr26dHC92wexa8WslR+FsauIqc81liorsbRqMZwpSzFHAQuyswMw+2N93qomyOZdletUNejkJ0RVeipitu4cGNm2JurK3KOIkbVUIwy4Z7+XePVcYrUrjadAw/GY4V4pfGbBZJ0ITXy2XMk+roNDpbH5uAQ/iKxNnkNnkE7J6j31pSbg0Jfmf3aUFGaJ58HWs8ClA==
 azure.	0	in	type65534	\# 5 089CE60001
 azure.	0	in	type65534	\# 5 08D54B0001
-azure.	172800	in	rrsig	SOA 8 1 172800 20251014153730 20250909143730 54603 azure. rv1jOia6QhLqVGyUoxC5avat8wuslyNLw20wMb20C6vmaLbDcyoAZuEZfvqHY26q5zocK+EGZ5J93gAd4tZBJoCNHthZGarWgbK2dS9OZKpWb00sKDDxLNtniGa1ti+qWWAJ2Dl76LkRgVM6PcNio3ICsYqq8cRXvJJPzrekfiBm91UubVbchLl84G4x7xzPxjuW2vnfxASNXnX8Mng9S/EzowDDqS2flEGyFtci7t5iJq/2I/o73tAHid/+/JEcu7X5qva1a0a+L0G2dlAhR855bFMCIBfEM6m+TrkaPtXLzeMV8K/CvgwsUfCWK5OS6zTE5DuTmnzaded1elc5Ow==
+azure.	172800	in	rrsig	SOA 8 1 172800 20251016042531 20250911032531 54603 azure. eqEoEkJKD0iINbG25rgAWfpV/6e2/B4xo3AlxcL46/NBtpysrKTdyICarI3kxqnONXRW1Ym1jldPKKJJHBcmSAG/AU7EHWUcNmev0/27FXOonT7dnN+PBXQGDXuQ5ePRSS5KUNngT/HCEC8/RBUxj1c13xw9XhMuI+AFDUAw45GwKqjqQj+DarYW/EyWc49aYx4g8jBHOa58AS0Iw0lm+IGl7Jjj12CFoORy18/rgWGSIU9UDY27eTuRnqV8ltMYs0e31sPa8p+C80BJX/+OqwUGFknR6DuMh4iG2k6EkK1EEPKeQkVCHj1qCl00T/3U+BDE4T1lGqgFvoCAfKkgnA==
 azure.	3600	in	ns	dns1.nic.azure.
 azure.	3600	in	ns	dns2.nic.azure.
 azure.	3600	in	ns	dns3.nic.azure.
@@ -24,7 +24,7 @@ azure.	7200	in	dnskey	257 3 8 AQPGpkBk8IKb2qCiV1QUBCS+BYG7/PdxNq0aTmUWQzYoLYpW2z
 azure.	7200	in	dnskey	257 3 8 AwEAAbxZq/5fkyVvpXp0kqRAH1dp63csQnsYtv8FQXrH9sVsJWXetiYGko82wU+w6ciF0ZZgBr+z5nqMOnbnjdiSbZXVJQq/DJsUE2YFVEBmVfTk+Vgoyd+oT8nuOSHV77K+MeWrORoCjUqdUev4/K9BqsV4Jv66+Sq519jbo0wA+cZnvOMKkOm4aRQJBDfSd4koiGiljhM9DT5QBU4UZmhjQH3OM4SLc6LLggd0AUyNsdUCMztShm6cjao0fUV3j/G/ynTqSipSW/LoWMmKRivxEI/qtMbIKy1omBgQ/nf9U4doTkcIREzvlprCi5FFzbg2RiF0VN3scgERYkuW/XueTk8=
 azure.	7200	in	rrsig	DNSKEY 8 1 7200 20251012133607 20250907125029 40166 azure. RSpHNIxDGlvvQqFeFU+XPSWBqjb12N7IlUvrncLU74GPVe41G7icDBkZp4Ls2tOxqUAjuU5Y6aDH1l2kP9K+e1MdERZhtNIT1mAw8pb8n2lnDKOl4oRg1BIqq6JEI6ExmXyOYsb1J2vu+evIqeS0/rngNpJTtT7Qy2B95C2U84onV1Bjym5sCG4A7KrT90K+33qr1QOsjpyRQS/lgDmZc/DyZK7d6I4paflsIVJoPkRDzazXR/mIJXUPfdRKMgiFYpNOCs39/XOpGiFoc6ShLOsZkPLVs2/xWArINNio731XobunyKcW5THE0sAq/eAfYfdBQM4S5ytYLdCgJ2gIQw==
 bu7jrjkmscrbu9ki1vgrclf8k7s391ln.azure.	3600	in	nsec3	1 1 0 - SJDBSBITIF299VU8008AVS7A8EM81AML A RRSIG
-bu7jrjkmscrbu9ki1vgrclf8k7s391ln.azure.	3600	in	rrsig	NSEC3 8 2 3600 20251009042531 20250904035750 54603 azure. cG8dgzYcbW9P3Dv4esA9YpLX3Vb8pqbQdCNKH3UftxKmiY5cs6FlJPpz2hHUUAsRbV5bGX6FkhKl+WbsI7I/2T5X74NomfdgnhW8tit5yOlso9hi0sUsB+YWLNL5feLGq779EFG8VnWpTSupEu49fIF3mBzNKBfFXE+wXps60+E1qPTT7ZvLXIoc1qvCW6Trekbk6VFrbCt1NpVUCkP3UxR6DP+6UKqq+Mb19UeSY3TgfXxhhrQkPjNMJqU8aqh+XyWDQmKb3NuRRNhV5UxKPPJy3ydCpQDnPO54W2N3PcSh40SQo+S9ZyDxJGTLHm6VydQR8rvxGT3wdgqJPQAXaw==
+bu7jrjkmscrbu9ki1vgrclf8k7s391ln.azure.	3600	in	rrsig	NSEC3 8 2 3600 20251016032638 20250911032531 54603 azure. EseIX8swkk9hyrGwEIFN2prLvLTsnzxCFvkxa5Rechw60hsXUvWdvtBfeaFFjy3QroEJkBiffcoAg//9S22xrrGfRlnfGa18eYbRZyyyTShtUDgsbZ+o4g6/7kvC9iYXLLp6AV7oJW5fNR30dzFPlZB0USS84ZRmIae1Lz41xoqe0zZY95oDN93gTiodtCghtNGS9P90utqf/ZSYUEGdJX3JgcE6Qt9FQm+oKXZ6GAuCspL5aYZrBG22RIMf5BBxv9L/VJwZUIYkdI2dpXmEyKtD3KaG8UFOKAcUxMj8CeQQduvOa9ieSbUmiCFVzqLIgp4MLA3ZN4cd1sREysuJcg==
 dns.azure.	172800	in	ns	ns1-01.azure-dns.com.
 dns.azure.	172800	in	ns	ns2-01.azure-dns.net.
 dns.azure.	172800	in	ns	ns3-01.azure-dns.org.
@@ -652,7 +652,7 @@ nic.azure.	172800	in	ns	dnsa.nic.azure.
 nic.azure.	172800	in	ns	dnsb.nic.azure.
 nic.azure.	172800	in	ns	dnsc.nic.azure.
 nic.azure.	172800	in	ns	dnsd.nic.azure.
-nic.azure.	172800	in	rrsig	DS 8 2 172800 20251009042531 20250904035750 54603 azure. SZGRUiQHVvcvLMhkrsIX4rBaGmVEUxskLgo7oKzSvnPvRrV+eUH14aHlc94sgvdco7uK4VuPrrkbj18359Cc1xfTROPx3ftSE0rSNp92QKJKAKeNiG9DREwAY1clv5H+sjd7u8uWZ3iuiw901mrpvmmSRGv99R0U7dDjCrKuVBH635CnWQVMHYNPv16l8DaTB4Zhixh/aCDnp900AJxJV0JDYRkZEuGy1mylWrHgmXMWrOWQp8dG0uHQF3hTjDmtUhMc1LNIJI+YhG/z1zQaRXpd6+FwejCyKvKhaLonxDKBoldz+Vf8tCsm0HTIOV4G9RrxLrQgx5J4itpfFVKp4w==
+nic.azure.	172800	in	rrsig	DS 8 2 172800 20251016032638 20250911032531 54603 azure. I36owyJCQSeXJ8vlCVZk2tfkZbzvxJKtA08WbAubbKKIeG9iLi8BaJ4LIUgEVZhCFCAcf57BhvRu/ICFTmxN5OYqE0Ly/5VpphDxgARpYBOa6/aLHP3nBQY08OTV3FMo6bP9gEqVfbq/CCd7vJY3wMZIzwVzTNaCWs1tH8RuByxZGwTX4K4ROHJ7Rz+QdvRi3UTqcpedoUWw8+7mhRJaLP92zpF1enOcu0dYOE/VJwAHaGcQjsY7F5iHWwqvuCDezX9Y5DIP6iqUjJn0tnM/a418XBwnAPlX+kcAPdd4EhtURPmcDcPKKsM4EeUu2UROxx+//FMDr6zQebXut/RmJA==
 portal.azure.	172800	in	ns	ns1-07.azure-dns.com.
 portal.azure.	172800	in	ns	ns2-07.azure-dns.net.
 portal.azure.	172800	in	ns	ns3-07.azure-dns.org.
@@ -670,7 +670,7 @@ security.azure.	172800	in	ns	ns2-09.azure-dns.net.
 security.azure.	172800	in	ns	ns3-09.azure-dns.org.
 security.azure.	172800	in	ns	ns4-09.azure-dns.info.
 sjdbsbitif299vu8008avs7a8em81aml.azure.	3600	in	nsec3	1 1 0 - VBA5D95SOF3SHK5U06N8UVQ036OS32AD NS DS RRSIG
-sjdbsbitif299vu8008avs7a8em81aml.azure.	3600	in	rrsig	NSEC3 8 2 3600 20251009042531 20250904035750 54603 azure. OEmrLgtyat1fzfFuavlhZbagQf0rQJeqf3e2eEYD8rvoyXiJdqOtWeEPu6OMyh/O1nuThUgxYVAJWHtcnBOdu+Wk0IIoXv4LxlpAue/CopfM6Ypgdxu5ohEI0jE1juwWnUYb4QQAqNnrFIHfloN/Y+gBbm5Kvd/RcPiZTqsxPbk3u1FPZy6DBSeIZ9yvlVj+XbgwQLHu/OYKQzhlPHqp4wBLXeu3HsbxiPHW3tNIqIJn+eBR2OWxGoqEstDM1vO8ot75c3jKem5vrzVp135Pa3ktDhDL+OUBIYkqMge2oWeUxVyJwMO5oFJXqN15iXXXq3zUJXLzhJ9nX3MrLOw/YQ==
+sjdbsbitif299vu8008avs7a8em81aml.azure.	3600	in	rrsig	NSEC3 8 2 3600 20251016032638 20250911032531 54603 azure. tDXsXkThjGFnmoV9bXu8kHjDp1T/YkcM8hjgL/bTggfn+SqHR+Zm+49y8MClsyw2LRhKf01Wf8rGaSr4orIcxmbOrkuM92pv5q9eiw/xeYo8wxMRQELbl1sLkc7RpUomdgUND716w8hnyDC5cQ2ElNeUqjQsJX4jhLpcv4XeyhWnIJqAGyevAtQiQ5pHxUoUjsdqE3MF1Vgu9ergHZ6RRSjk9uztQxf+bmwEyt3uLlmqGVyyC9zLMphpce+IOxg6/K4fz3QOAfnY2oS1Ln3KpCg2ESfOOYdbTcVheuilPTqaedYk8RnGR2OV/ASh8slCpCpPwWDjevKc3uGWdts72A==
 support.azure.	172800	in	ns	ns1-05.azure-dns.com.
 support.azure.	172800	in	ns	ns2-05.azure-dns.net.
 support.azure.	172800	in	ns	ns3-05.azure-dns.org.
@@ -701,4 +701,4 @@ xcompass.azure.	172800	in	ns	ns1-34.azure-dns.com.
 xcompass.azure.	172800	in	ns	ns2-34.azure-dns.net.
 xcompass.azure.	172800	in	ns	ns3-34.azure-dns.org.
 xcompass.azure.	172800	in	ns	ns4-34.azure-dns.info.
-azure.	172800	in	soa	dns1.nic.azure. hostmaster.nominet.org.uk. 1750680115 900 300 2419200 3600
+azure.	172800	in	soa	dns1.nic.azure. hostmaster.nominet.org.uk. 1750680116 900 300 2419200 3600
