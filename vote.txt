@@ -1,4 +1,4 @@
-vote.	3600	in	soa	a0.nic.vote. hostmaster.donuts.email. 1757554624 7200 900 1209600 3600
+vote.	3600	in	soa	a0.nic.vote. hostmaster.donuts.email. 1757639563 7200 900 1209600 3600
 01772.vote.	3600	in	ns	ns03.domaincontrol.com.
 01772.vote.	3600	in	ns	ns04.domaincontrol.com.
 04nbk83o50gbb0rpq9s599a8ojr28moh.vote.	3600	in	nsec3	1 1 0 73 07R80UUFE5E9D7K9PQFFHP93P2EC4NIK NS DS RRSIG
@@ -151,8 +151,8 @@ vote.	3600	in	soa	a0.nic.vote. hostmaster.donuts.email. 1757554624 7200 900 1209
 24.vote.	3600	in	ns	ns2.zoclouds.com.
 241.vote.	3600	in	ns	ns43.domaincontrol.com.
 241.vote.	3600	in	ns	ns44.domaincontrol.com.
-247.vote.	3600	in	ns	ns1.bodis.com.
-247.vote.	3600	in	ns	ns2.bodis.com.
+247.vote.	3600	in	ns	ns1.dns-redirect.com.
+247.vote.	3600	in	ns	ns2.dns-redirect.com.
 24gop.vote.	3600	in	ns	ns1.tinyurl.com.
 24gop.vote.	3600	in	ns	ns2.tinyurl.com.
 24gop.vote.	3600	in	ns	ns3.tinyurl.com.
@@ -172,7 +172,7 @@ vote.	3600	in	soa	a0.nic.vote. hostmaster.donuts.email. 1757554624 7200 900 1209
 28amen.vote.	3600	in	ns	ns3.whois.com.
 28amen.vote.	3600	in	ns	ns4.whois.com.
 2947b3hv9ms7gqbdiss63ka4nan7p50k.vote.	3600	in	nsec3	1 1 0 73 2BQB691PD2AL5FHJ05MTBF4KTL3Q2C22 NS SOA RRSIG DNSKEY NSEC3PARAM
-2947b3hv9ms7gqbdiss63ka4nan7p50k.vote.	3600	in	rrsig	NSEC3 8 2 3600 20251002014141 20250911004141 23451 vote. lMXei64GyPkqxULhpJiphoL0mXXgRXjMBd2BoCI7/wozyiyISzyy3IsKtcMgnvUA35cSVAAUEeLsOaTnezpTDpy9r/hZXb65LBp0dGdz+DPgQIT35X05cKr3vm4hJgr7cVq9A0V89z9ZZ/w4ZeS8/uAnl2Y8sIo9eO8CtRJY+p4=
+2947b3hv9ms7gqbdiss63ka4nan7p50k.vote.	3600	in	rrsig	NSEC3 8 2 3600 20251003011725 20250912001725 23451 vote. b63Ba2Pn5sFma1fO/n6MDcss9xg9P2HNft4HQRXibBAw475HXos8nKDJtYjYbkhPh/+YcFNZBi5789d9fpL1UAiWYlFRCUBp0vXxMqpOdwkdJU6PBclWUkV9n2hMCR7AA5olHii+EAIE7DN+atO87sy0D5J2oA8sgN5SUfmBJYE=
 2bqb691pd2al5fhj05mtbf4ktl3q2c22.vote.	3600	in	nsec3	1 1 0 73 2FO33VOQJ1M7M88DQCR4A3DUG18GT009 NS DS RRSIG
 2bqb691pd2al5fhj05mtbf4ktl3q2c22.vote.	3600	in	rrsig	NSEC3 8 2 3600 20250930161324 20250909151324 23451 vote. as826cLihBJAzqMKT628cONQRP2rOwefyGalh4Cc0XoeYMdGoCry3YI2/LjzcjgbaN6oapfLE+Y+oW7GaJRbOT4aGA609Tgk4IlRsQSB0Rp9fkKn/A8VD83jjM0c5Jcr5F8e+NPDPAkP6eReLmHzSpjwZzLZKlHdjjsPnO5XK74=
 2cedric-2tg.vote.	3600	in	ns	mina.ns.cloudflare.com.
@@ -866,8 +866,8 @@ aleo.vote.	3600	in	ns	ns-cloud-e2.googledomains.com.
 aleo.vote.	3600	in	ns	ns-cloud-e3.googledomains.com.
 aleo.vote.	3600	in	ns	ns-cloud-e4.googledomains.com.
 aleo.vote.	3600	in	rrsig	DS 8 2 3600 20250930161324 20250909151324 23451 vote. XuDOAWpG1CLDDsqHwS+4jtjeqX4EdhYu+PsTMbxC/Hc8krmV9P+k+2dBoovJKWfu7IxJOtx0D++LJzZorPGMRsZCPbreiaDRah9EHNADx23He56zkCDU6kirEp9TigzGfKTQERfp/tCYzbbHLQRpu27jprnkOCRgg2mfj9OOSzo=
-alert.vote.	3600	in	ns	ns1.bodis.com.
-alert.vote.	3600	in	ns	ns2.bodis.com.
+alert.vote.	3600	in	ns	ns1.dns-redirect.com.
+alert.vote.	3600	in	ns	ns2.dns-redirect.com.
 alessa.box.vote.	3600	in	a	68.183.14.208
 alessa.vote.	3600	in	ns	ns15.domaincontrol.com.
 alessa.vote.	3600	in	ns	ns16.domaincontrol.com.
@@ -904,8 +904,8 @@ allen.vote.	3600	in	ns	y.ns.joker.com.
 allen.vote.	3600	in	ns	z.ns.joker.com.
 allie.vote.	3600	in	ns	ns53.domaincontrol.com.
 allie.vote.	3600	in	ns	ns54.domaincontrol.com.
-allies.vote.	3600	in	ns	ns1.bodis.com.
-allies.vote.	3600	in	ns	ns2.bodis.com.
+allies.vote.	3600	in	ns	ns1.dns-redirect.com.
+allies.vote.	3600	in	ns	ns2.dns-redirect.com.
 allin.vote.	3600	in	ns	heather.ns.cloudflare.com.
 allin.vote.	3600	in	ns	major.ns.cloudflare.com.
 allofus.vote.	3600	in	ds	9639 13 2 BAB8DB57087BFFBF6FF6402F29B27649DB85FB538FC0A37F47CF4E754BBC1F59
@@ -1680,8 +1680,6 @@ battle.vote.	3600	in	ns	ns05.domaincontrol.com.
 battle.vote.	3600	in	ns	ns06.domaincontrol.com.
 battlebox.vote.	3600	in	ns	ns21.domaincontrol.com.
 battlebox.vote.	3600	in	ns	ns22.domaincontrol.com.
-battlegroundbuddies.vote.	3600	in	ns	pdns13.domaincontrol.com.
-battlegroundbuddies.vote.	3600	in	ns	pdns14.domaincontrol.com.
 bauters2024.vote.	3600	in	ns	ns15.domaincontrol.com.
 bauters2024.vote.	3600	in	ns	ns16.domaincontrol.com.
 baxter4mayor.vote.	3600	in	ns	ns15.domaincontrol.com.
@@ -2669,8 +2667,6 @@ censuslive.vote.	3600	in	ns	ns59.domaincontrol.com.
 censuslive.vote.	3600	in	ns	ns60.domaincontrol.com.
 center.vote.	3600	in	ns	ns45.domaincontrol.com.
 center.vote.	3600	in	ns	ns46.domaincontrol.com.
-centerline.vote.	3600	in	ns	ns27.domaincontrol.com.
-centerline.vote.	3600	in	ns	ns28.domaincontrol.com.
 centralpoint.vote.	3600	in	ns	aiden.ns.cloudflare.com.
 centralpoint.vote.	3600	in	ns	paityn.ns.cloudflare.com.
 centrist4senate.vote.	3600	in	ns	ns23.domaincontrol.com.
@@ -3781,8 +3777,8 @@ dayoffto.vote.	3600	in	ns	ns4.markmonitor.com.
 dayoffto.vote.	3600	in	ns	ns5.markmonitor.com.
 daytonlloydforillinois.vote.	3600	in	ns	ns73.domaincontrol.com.
 daytonlloydforillinois.vote.	3600	in	ns	ns74.domaincontrol.com.
-dba.vote.	3600	in	ns	ns1.bodis.com.
-dba.vote.	3600	in	ns	ns2.bodis.com.
+dba.vote.	3600	in	ns	ns1.dns-redirect.com.
+dba.vote.	3600	in	ns	ns2.dns-redirect.com.
 dbh.vote.	3600	in	ns	dns1.registrar-servers.com.
 dbh.vote.	3600	in	ns	dns2.registrar-servers.com.
 dc.vote.	3600	in	ns	arvind.ns.cloudflare.com.
@@ -4066,8 +4062,8 @@ dinnerwinner.vote.	3600	in	ns	ns-cloud-a2.googledomains.com.
 dinnerwinner.vote.	3600	in	ns	ns-cloud-a3.googledomains.com.
 dinnerwinner.vote.	3600	in	ns	ns-cloud-a4.googledomains.com.
 dinnerwinner.vote.	3600	in	rrsig	DS 8 2 3600 20250930161324 20250909151324 23451 vote. eVtTN0sb+Jc4LorCvY2VXjaQQQd72vIv2JXAmXhokrORdMsKKgyvuOUjJSllff9aN2gZUTcusG4DIiOdDUlYJsra9BI+mibLd+jgStx/K9eiEJElP37y0T2FHqu5Gau6RcD2ZqopTDuIK6c+qDYb+UvDt0e3Lpu3181VUNdhHEA=
-direct.vote.	3600	in	ns	ns1.bodis.com.
-direct.vote.	3600	in	ns	ns2.bodis.com.
+direct.vote.	3600	in	ns	ns1.dns-redirect.com.
+direct.vote.	3600	in	ns	ns2.dns-redirect.com.
 directaction.vote.	3600	in	ns	ns23.domaincontrol.com.
 directaction.vote.	3600	in	ns	ns24.domaincontrol.com.
 directdemocracy.vote.	3600	in	ns	ns11.infomaniak.ch.
@@ -4714,8 +4710,8 @@ eng.vote.	3600	in	ns	ns1cmt.name.com.
 eng.vote.	3600	in	ns	ns2dfg.name.com.
 eng.vote.	3600	in	ns	ns3fqs.name.com.
 eng.vote.	3600	in	ns	ns4kpx.name.com.
-engage.vote.	3600	in	ns	ns1.bodis.com.
-engage.vote.	3600	in	ns	ns2.bodis.com.
+engage.vote.	3600	in	ns	ns1.dns-redirect.com.
+engage.vote.	3600	in	ns	ns2.dns-redirect.com.
 engaged.vote.	3600	in	ns	dns1.registrar-servers.com.
 engaged.vote.	3600	in	ns	dns2.registrar-servers.com.
 enhanced.vote.	3600	in	ns	ns-cloud-e1.googledomains.com.
@@ -4982,7 +4978,7 @@ expressvpn.vote.	3600	in	ns	nssui.comlaude.ch.
 expressvpn.vote.	3600	in	ns	nsusa.comlaude.net.
 extraaktifgiris.vote.	3600	in	ns	dns1.namecheaphosting.com.
 extraaktifgiris.vote.	3600	in	ns	dns2.namecheaphosting.com.
-extusw2.monitoringtest.vote.	3600	in	a	104.194.39.151
+extusw2.monitoringtest.vote.	3600	in	a	104.195.115.119
 eye.vote.	3600	in	ns	ns1.aj423.parklogic.com.
 eye.vote.	3600	in	ns	ns2.aj423.parklogic.com.
 eyeball.vote.	3600	in	ns	ns0.directnic.com.
@@ -5184,8 +5180,8 @@ feedthepolls.vote.	3600	in	ns	ns25.domaincontrol.com.
 feedthepolls.vote.	3600	in	ns	ns26.domaincontrol.com.
 feel.vote.	3600	in	ns	ns1.dns-parking.com.
 feel.vote.	3600	in	ns	ns2.dns-parking.com.
-feku.vote.	3600	in	ns	dns1.registrar-servers.com.
-feku.vote.	3600	in	ns	dns2.registrar-servers.com.
+feku.vote.	3600	in	ns	dns101.registrar-servers.com.
+feku.vote.	3600	in	ns	dns102.registrar-servers.com.
 fel.vote.	3600	in	ns	ns1.dns-parking.com.
 fel.vote.	3600	in	ns	ns2.dns-parking.com.
 fellow.civis.vote.	3600	in	a	217.21.91.61
@@ -5475,10 +5471,10 @@ frankartiles.vote.	3600	in	ns	dns1.registrar-servers.com.
 frankartiles.vote.	3600	in	ns	dns2.registrar-servers.com.
 frankgonzalez.vote.	3600	in	ns	ns07.domaincontrol.com.
 frankgonzalez.vote.	3600	in	ns	ns08.domaincontrol.com.
-fraudulent.vote.	3600	in	ns	ns1.name.com.
-fraudulent.vote.	3600	in	ns	ns2.name.com.
-fraudulent.vote.	3600	in	ns	ns3.name.com.
-fraudulent.vote.	3600	in	ns	ns4.name.com.
+fraudulent.vote.	3600	in	ns	ns1dhl.name.com.
+fraudulent.vote.	3600	in	ns	ns2jrt.name.com.
+fraudulent.vote.	3600	in	ns	ns3fgh.name.com.
+fraudulent.vote.	3600	in	ns	ns4kmw.name.com.
 fred.vote.	3600	in	ns	dns1.registrar-servers.com.
 fred.vote.	3600	in	ns	dns2.registrar-servers.com.
 freddy.vote.	3600	in	ns	ns1.siteground.net.
@@ -5667,8 +5663,6 @@ gago.vote.	3600	in	ns	ns-cloud-c4.googledomains.com.
 gago.vote.	3600	in	rrsig	DS 8 2 3600 20250930161324 20250909151324 23451 vote. PrVFpcKt+6M8L52lZVTWBQzLd+W8v3P6rVGAZhrcZy0M7Lh0C6BjgB0Cw37yvhwEPbSRfT+HlQb3amCBmD+oEIiucf6c3my4jyyI44S6rvZ3Y2YL0ULdY8Cq7aI3QfwFsWZKDjCHj7Mkent+wTIUkMkSkQMVAz/LQO5PJP8tsvI=
 gainpower.vote.	3600	in	ns	ns09.domaincontrol.com.
 gainpower.vote.	3600	in	ns	ns10.domaincontrol.com.
-galaforcitycouncil.vote.	3600	in	ns	dns101.registrar-servers.com.
-galaforcitycouncil.vote.	3600	in	ns	dns102.registrar-servers.com.
 galgoto.vote.	3600	in	ns	ns1.atom.com.
 galgoto.vote.	3600	in	ns	ns2.atom.com.
 gallagher.vote.	3600	in	ns	ns.myhosting.com.
@@ -5947,8 +5941,8 @@ goochland.vote.	3600	in	ns	dns4.pair.com.
 goochland.vote.	3600	in	ns	ns9.ns0.com.
 good.vote.	3600	in	ns	ns1.dns-redirect.com.
 good.vote.	3600	in	ns	ns2.dns-redirect.com.
-good88.vote.	3600	in	ns	leonard.ns.cloudflare.com.
-good88.vote.	3600	in	ns	monika.ns.cloudflare.com.
+good88.vote.	3600	in	ns	corey.ns.cloudflare.com.
+good88.vote.	3600	in	ns	diva.ns.cloudflare.com.
 goodall.vote.	3600	in	ns	ns1.hover.com.
 goodall.vote.	3600	in	ns	ns2.hover.com.
 goodtime.vote.	3600	in	ns	mustafa.ns.cloudflare.com.
@@ -7329,8 +7323,8 @@ jfktoday.vote.	3600	in	ns	dns1.registrar-servers.com.
 jfktoday.vote.	3600	in	ns	dns2.registrar-servers.com.
 jfpgyzf.vote.	3600	in	ns	ns1.dnsip.com.
 jfpgyzf.vote.	3600	in	ns	ns2.dnsip.com.
-jia.vote.	3600	in	ns	ns1.bodis.com.
-jia.vote.	3600	in	ns	ns2.bodis.com.
+jia.vote.	3600	in	ns	ns1.dns-redirect.com.
+jia.vote.	3600	in	ns	ns2.dns-redirect.com.
 jiashang.vote.	3600	in	ns	ns75.domaincontrol.com.
 jiashang.vote.	3600	in	ns	ns76.domaincontrol.com.
 jili777.vote.	3600	in	ns	ns11.domaincontrol.com.
@@ -8053,8 +8047,6 @@ lanparty.vote.	3600	in	ns	dns1.registrar-servers.com.
 lanparty.vote.	3600	in	ns	dns2.registrar-servers.com.
 lansongxanh.vote.	3600	in	ns	ns19.domaincontrol.com.
 lansongxanh.vote.	3600	in	ns	ns20.domaincontrol.com.
-larkspur.vote.	3600	in	ns	ns61.domaincontrol.com.
-larkspur.vote.	3600	in	ns	ns62.domaincontrol.com.
 larry.vote.	3600	in	ns	anuj.ns.cloudflare.com.
 larry.vote.	3600	in	ns	diva.ns.cloudflare.com.
 larryglick.vote.	3600	in	ns	ns1.stackdns.com.
@@ -8081,14 +8073,6 @@ latinos.vote.	3600	in	ns	ns1.siteground.net.
 latinos.vote.	3600	in	ns	ns2.siteground.net.
 latinovoter.vote.	3600	in	ns	ns51.domaincontrol.com.
 latinovoter.vote.	3600	in	ns	ns52.domaincontrol.com.
-laugh.vote.	3600	in	ns	ns1mtw.name.com.
-laugh.vote.	3600	in	ns	ns2fhn.name.com.
-laugh.vote.	3600	in	ns	ns3dty.name.com.
-laugh.vote.	3600	in	ns	ns4ksy.name.com.
-laughagain.vote.	3600	in	ns	ns1mtw.name.com.
-laughagain.vote.	3600	in	ns	ns2fhn.name.com.
-laughagain.vote.	3600	in	ns	ns3dty.name.com.
-laughagain.vote.	3600	in	ns	ns4ksy.name.com.
 launch.vote.	3600	in	ns	ns1.dreamhost.com.
 launch.vote.	3600	in	ns	ns2.dreamhost.com.
 launch.vote.	3600	in	ns	ns3.dreamhost.com.
@@ -8425,8 +8409,6 @@ losersandsuckers.vote.	3600	in	ns	ns69.domaincontrol.com.
 losersandsuckers.vote.	3600	in	ns	ns70.domaincontrol.com.
 losing.vote.	3600	in	ns	ns35.domaincontrol.com.
 losing.vote.	3600	in	ns	ns36.domaincontrol.com.
-lottery.vote.	3600	in	ns	dns101.registrar-servers.com.
-lottery.vote.	3600	in	ns	dns102.registrar-servers.com.
 louisiana.vote.	3600	in	ns	ns73.domaincontrol.com.
 louisiana.vote.	3600	in	ns	ns74.domaincontrol.com.
 louisianaforward.vote.	3600	in	ns	ns59.domaincontrol.com.
@@ -8768,10 +8750,6 @@ mary.vote.	3600	in	ns	dns1.registrar-servers.com.
 mary.vote.	3600	in	ns	dns2.registrar-servers.com.
 maryformayor.vote.	3600	in	ns	ns43.domaincontrol.com.
 maryformayor.vote.	3600	in	ns	ns44.domaincontrol.com.
-masa.vote.	3600	in	ns	ns1mtw.name.com.
-masa.vote.	3600	in	ns	ns2fhn.name.com.
-masa.vote.	3600	in	ns	ns3dty.name.com.
-masa.vote.	3600	in	ns	ns4ksy.name.com.
 masii.vote.	3600	in	ns	connie.ns.cloudflare.com.
 masii.vote.	3600	in	ns	kobe.ns.cloudflare.com.
 mass.vote.	3600	in	ns	x.ns.joker.com.
@@ -9025,8 +9003,8 @@ mep.vote.	3600	in	ns	ns1ksz.name.com.
 mep.vote.	3600	in	ns	ns2fgp.name.com.
 mep.vote.	3600	in	ns	ns3qtx.name.com.
 mep.vote.	3600	in	ns	ns4bfy.name.com.
-merch.vote.	3600	in	ns	ns1.bodis.com.
-merch.vote.	3600	in	ns	ns2.bodis.com.
+merch.vote.	3600	in	ns	ns1.dns-redirect.com.
+merch.vote.	3600	in	ns	ns2.dns-redirect.com.
 merck.vote.	3600	in	ns	ns1.brandshelter.com.
 merck.vote.	3600	in	ns	ns2.brandshelter.de.
 merck.vote.	3600	in	ns	ns3.brandshelter.info.
@@ -9591,8 +9569,8 @@ mycity.vote.	3600	in	ns	ns-1116.awsdns-11.org.
 mycity.vote.	3600	in	ns	ns-1751.awsdns-26.co.uk.
 mycity.vote.	3600	in	ns	ns-609.awsdns-12.net.
 mycity.vote.	3600	in	ns	ns-73.awsdns-09.com.
-myd.vote.	3600	in	ns	dns1.registrar-servers.com.
-myd.vote.	3600	in	ns	dns2.registrar-servers.com.
+myd.vote.	3600	in	ns	dns101.registrar-servers.com.
+myd.vote.	3600	in	ns	dns102.registrar-servers.com.
 mydaymyvote.vote.	3600	in	ns	ns3.afternic.com.
 mydaymyvote.vote.	3600	in	ns	ns4.afternic.com.
 mydemocracy.vote.	3600	in	ns	dns1.registrar-servers.com.
@@ -10585,8 +10563,8 @@ orbsat.vote.	3600	in	ns	ns65.domaincontrol.com.
 orbsat.vote.	3600	in	ns	ns66.domaincontrol.com.
 orby.vote.	3600	in	ns	ns1.aj423.parklogic.com.
 orby.vote.	3600	in	ns	ns2.aj423.parklogic.com.
-orca.vote.	3600	in	ns	ns1.bodis.com.
-orca.vote.	3600	in	ns	ns2.bodis.com.
+orca.vote.	3600	in	ns	ns1.dns-redirect.com.
+orca.vote.	3600	in	ns	ns2.dns-redirect.com.
 ordinals.vote.	3600	in	ns	ns67.domaincontrol.com.
 ordinals.vote.	3600	in	ns	ns68.domaincontrol.com.
 ordo.vote.	3600	in	ns	dns1.registrar-servers.com.
@@ -10712,8 +10690,8 @@ pacta.vote.	3600	in	ns	ns1.mrw.dev.
 pacta.vote.	3600	in	ns	ns2.mrw.dev.
 pad.vote.	3600	in	ns	ns61.domaincontrol.com.
 pad.vote.	3600	in	ns	ns62.domaincontrol.com.
-padawan.vote.	3600	in	ns	ns1.bodis.com.
-padawan.vote.	3600	in	ns	ns2.bodis.com.
+padawan.vote.	3600	in	ns	ns1.dns-redirect.com.
+padawan.vote.	3600	in	ns	ns2.dns-redirect.com.
 padilla.vote.	3600	in	ns	ns0.wixdns.net.
 padilla.vote.	3600	in	ns	ns1.wixdns.net.
 page.vote.	3600	in	ns	ns75.domaincontrol.com.
@@ -11104,8 +11082,8 @@ playmate.vote.	3600	in	ns	pdns5.ultradns.info.
 playmate.vote.	3600	in	ns	pdns6.ultradns.co.uk.
 please.vote.	3600	in	ns	hayes.ns.cloudflare.com.
 please.vote.	3600	in	ns	hope.ns.cloudflare.com.
-pleasego.vote.	3600	in	ns	dns1.registrar-servers.com.
-pleasego.vote.	3600	in	ns	dns2.registrar-servers.com.
+pleasego.vote.	3600	in	ns	dns101.registrar-servers.com.
+pleasego.vote.	3600	in	ns	dns102.registrar-servers.com.
 pledge.vote.	3600	in	ns	ns1bqx.name.com.
 pledge.vote.	3600	in	ns	ns2bls.name.com.
 pledge.vote.	3600	in	ns	ns3dgr.name.com.
@@ -11144,8 +11122,8 @@ poap.vote.	3600	in	ns	ns-33-b.gandi.net.
 poap.vote.	3600	in	ns	ns-39-a.gandi.net.
 pocket.vote.	3600	in	ns	ns01.domaincontrol.com.
 pocket.vote.	3600	in	ns	ns02.domaincontrol.com.
-pod.vote.	3600	in	ns	ns1.bodis.com.
-pod.vote.	3600	in	ns	ns2.bodis.com.
+pod.vote.	3600	in	ns	ns1.dns-redirect.com.
+pod.vote.	3600	in	ns	ns2.dns-redirect.com.
 podcast.vote.	3600	in	ns	pdns09.domaincontrol.com.
 podcast.vote.	3600	in	ns	pdns10.domaincontrol.com.
 poker.vote.	3600	in	ns	ns3.afternic.com.
@@ -11554,8 +11532,8 @@ protectour.vote.	3600	in	ns	ns11.domaincontrol.com.
 protectour.vote.	3600	in	ns	ns12.domaincontrol.com.
 protectourchildren.vote.	3600	in	ns	ns05.domaincontrol.com.
 protectourchildren.vote.	3600	in	ns	ns06.domaincontrol.com.
-protectthe.vote.	3600	in	ns	dns1.registrar-servers.com.
-protectthe.vote.	3600	in	ns	dns2.registrar-servers.com.
+protectthe.vote.	3600	in	ns	dns101.registrar-servers.com.
+protectthe.vote.	3600	in	ns	dns102.registrar-servers.com.
 protectyour.vote.	3600	in	ns	dns101.registrar-servers.com.
 protectyour.vote.	3600	in	ns	dns102.registrar-servers.com.
 protocol.vote.	3600	in	ns	ns41.domaincontrol.com.
@@ -11634,8 +11612,8 @@ pulsar.vote.	3600	in	ns	ns65.domaincontrol.com.
 pulsar.vote.	3600	in	ns	ns66.domaincontrol.com.
 pulse.vote.	3600	in	ns	ns05.domaincontrol.com.
 pulse.vote.	3600	in	ns	ns06.domaincontrol.com.
-pump.vote.	3600	in	ns	ns1.bodis.com.
-pump.vote.	3600	in	ns	ns2.bodis.com.
+pump.vote.	3600	in	ns	ns1.dns-redirect.com.
+pump.vote.	3600	in	ns	ns2.dns-redirect.com.
 pumpthe.vote.	3600	in	ns	dns101.registrar-servers.com.
 pumpthe.vote.	3600	in	ns	dns102.registrar-servers.com.
 pumptrump.vote.	3600	in	ns	ns27.domaincontrol.com.
@@ -11897,6 +11875,8 @@ reagan2024.vote.	3600	in	ns	ns47.domaincontrol.com.
 reagan2024.vote.	3600	in	ns	ns48.domaincontrol.com.
 real.vote.	3600	in	ns	ns1.inmotionhosting.com.
 real.vote.	3600	in	ns	ns2.inmotionhosting.com.
+realamerica.vote.	3600	in	ns	ns67.domaincontrol.com.
+realamerica.vote.	3600	in	ns	ns68.domaincontrol.com.
 realfans.vote.	3600	in	ns	dns1.p06.nsone.net.
 realfans.vote.	3600	in	ns	dns2.p06.nsone.net.
 realfans.vote.	3600	in	ns	dns3.p06.nsone.net.
@@ -11954,8 +11934,8 @@ recoveryvoices.vote.	3600	in	ns	ns43.domaincontrol.com.
 recoveryvoices.vote.	3600	in	ns	ns44.domaincontrol.com.
 recruiter.vote.	3600	in	ns	ns05.domaincontrol.com.
 recruiter.vote.	3600	in	ns	ns06.domaincontrol.com.
-recycle.vote.	3600	in	ns	ns1.bodis.com.
-recycle.vote.	3600	in	ns	ns2.bodis.com.
+recycle.vote.	3600	in	ns	ns1.dns-redirect.com.
+recycle.vote.	3600	in	ns	ns2.dns-redirect.com.
 red.vote.	3600	in	ns	ns1.monikerdns.net.
 red.vote.	3600	in	ns	ns2.monikerdns.net.
 red.vote.	3600	in	ns	ns3.monikerdns.net.
@@ -12191,10 +12171,6 @@ respectour.vote.	3600	in	ns	ns74.domaincontrol.com.
 responsiblebudgets.vote.	3600	in	ns	ns1.101domain.com.
 responsiblebudgets.vote.	3600	in	ns	ns2.101domain.com.
 responsiblebudgets.vote.	3600	in	ns	ns5.101domain.com.
-restoreroe.vote.	3600	in	ns	ns1mtw.name.com.
-restoreroe.vote.	3600	in	ns	ns2fhn.name.com.
-restoreroe.vote.	3600	in	ns	ns3dty.name.com.
-restoreroe.vote.	3600	in	ns	ns4ksy.name.com.
 resultsmatter.vote.	3600	in	ns	ns1084.ui-dns.com.
 resultsmatter.vote.	3600	in	ns	ns1088.ui-dns.biz.
 resultsmatter.vote.	3600	in	ns	ns1089.ui-dns.de.
@@ -13021,8 +12997,8 @@ silent.vote.	3600	in	ns	ns49.domaincontrol.com.
 silent.vote.	3600	in	ns	ns50.domaincontrol.com.
 silver.vote.	3600	in	ns	ns77.domaincontrol.com.
 silver.vote.	3600	in	ns	ns78.domaincontrol.com.
-sim.vote.	3600	in	ns	ns1.bodis.com.
-sim.vote.	3600	in	ns	ns2.bodis.com.
+sim.vote.	3600	in	ns	ns1.dns-redirect.com.
+sim.vote.	3600	in	ns	ns2.dns-redirect.com.
 simonkaiser.vote.	3600	in	ns	ns25.domaincontrol.com.
 simonkaiser.vote.	3600	in	ns	ns26.domaincontrol.com.
 simonsays.vote.	3600	in	ns	dns1.registrar-servers.com.
@@ -13196,16 +13172,8 @@ smcjkcion6fvdnlmm60j1gv3r2l0kmut.vote.	3600	in	nsec3	1 1 0 73 SOUO0BTQ35QV7SIVQ9
 smcjkcion6fvdnlmm60j1gv3r2l0kmut.vote.	3600	in	rrsig	NSEC3 8 2 3600 20250930161324 20250909151324 23451 vote. FVf/nkVx2Yvn6IDyR11Do+v/2ckyZvRRwkJhcN/PFoI1HAgPwzgEMQiKOPvzKLDu/4AuVDDaP/pylAmdiMWXCHkTTquq/ULacE3k4mGVSvvJ/3cNlrRPmpENHcI4hNxK2doPGv5eqv5qXnJmoHnwFA0ahPaz1HmPkC7uwKOsmtM=
 smetak.vote.	3600	in	ns	jacob.ns.cloudflare.com.
 smetak.vote.	3600	in	ns	martha.ns.cloudflare.com.
-smile.vote.	3600	in	ns	ns1mtw.name.com.
-smile.vote.	3600	in	ns	ns2fhn.name.com.
-smile.vote.	3600	in	ns	ns3dty.name.com.
-smile.vote.	3600	in	ns	ns4ksy.name.com.
-smileagain.vote.	3600	in	ns	ns1mtw.name.com.
-smileagain.vote.	3600	in	ns	ns2fhn.name.com.
-smileagain.vote.	3600	in	ns	ns3dty.name.com.
-smileagain.vote.	3600	in	ns	ns4ksy.name.com.
-smiley.vote.	3600	in	ns	ns1.bodis.com.
-smiley.vote.	3600	in	ns	ns2.bodis.com.
+smiley.vote.	3600	in	ns	ns1.dns-redirect.com.
+smiley.vote.	3600	in	ns	ns2.dns-redirect.com.
 smith.vote.	3600	in	ns	x.ns.joker.com.
 smith.vote.	3600	in	ns	y.ns.joker.com.
 smith.vote.	3600	in	ns	z.ns.joker.com.
@@ -13873,8 +13841,6 @@ tao.vote.	3600	in	ns	launch2.spaceship.net.
 tao.vote.	3600	in	rrsig	DS 8 2 3600 20250930161324 20250909151324 23451 vote. YyAtTm8NvuLn3FSqFOMpHaFyurxXq0pUZVvBeHrnrzHA68CU6BPFx9u5EeBg2U+4bOdD0T3yBiFfXtxSG/znA72eKkfQFrCZ4fwQRhuKPveKN+CDmE9Hx7XSL30kZIHwOx0J49Bdv5QlArdp7Fpkq3XQbwf/cr5l6/aMV+bh+w8=
 tap.vote.	3600	in	ns	ns3.afternic.com.
 tap.vote.	3600	in	ns	ns4.afternic.com.
-tapocracy.vote.	3600	in	ns	dns101.registrar-servers.com.
-tapocracy.vote.	3600	in	ns	dns102.registrar-servers.com.
 taproot.vote.	3600	in	ns	ns1-05.azure-dns.com.
 taproot.vote.	3600	in	ns	ns2-05.azure-dns.net.
 taproot.vote.	3600	in	ns	ns3-05.azure-dns.org.
@@ -14346,8 +14312,6 @@ tokenized.vote.	3600	in	ns	ns4.gransy.com.
 tokenized.vote.	3600	in	ns	ns5.gransy.com.
 tokens.vote.	3600	in	ns	dns101.registrar-servers.com.
 tokens.vote.	3600	in	ns	dns102.registrar-servers.com.
-tokillarapper.vote.	3600	in	ns	ns71.domaincontrol.com.
-tokillarapper.vote.	3600	in	ns	ns72.domaincontrol.com.
 tokoolb228.vote.	3600	in	ns	lia.ns.cloudflare.com.
 tokoolb228.vote.	3600	in	ns	skip.ns.cloudflare.com.
 tom.vote.	3600	in	ns	ns41.domaincontrol.com.
@@ -14702,10 +14666,6 @@ turbo.vote.	3600	in	ns	ns-1287.awsdns-32.org.
 turbo.vote.	3600	in	ns	ns-15.awsdns-01.com.
 turbo.vote.	3600	in	ns	ns-1611.awsdns-09.co.uk.
 turbo.vote.	3600	in	ns	ns-864.awsdns-44.net.
-turkiye.vote.	3600	in	ns	curitiba.ns.porkbun.com.
-turkiye.vote.	3600	in	ns	fortaleza.ns.porkbun.com.
-turkiye.vote.	3600	in	ns	maceio.ns.porkbun.com.
-turkiye.vote.	3600	in	ns	salvador.ns.porkbun.com.
 turnleft.vote.	3600	in	ns	laura.ns.cloudflare.com.
 turnleft.vote.	3600	in	ns	norman.ns.cloudflare.com.
 turnout.vote.	3600	in	ns	ns73.domaincontrol.com.
@@ -14892,8 +14852,8 @@ universe.vote.	3600	in	ns	ns63.domaincontrol.com.
 universe.vote.	3600	in	ns	ns64.domaincontrol.com.
 universities.vote.	3600	in	ns	ns57.domaincontrol.com.
 universities.vote.	3600	in	ns	ns58.domaincontrol.com.
-university.vote.	3600	in	ns	ns1.bodis.com.
-university.vote.	3600	in	ns	ns2.bodis.com.
+university.vote.	3600	in	ns	ns1.dns-redirect.com.
+university.vote.	3600	in	ns	ns2.dns-redirect.com.
 unizulu.vote.	3600	in	ns	impisi.wolfatek.com.
 unmute.vote.	3600	in	ns	ns45.domaincontrol.com.
 unmute.vote.	3600	in	ns	ns46.domaincontrol.com.
@@ -15139,6 +15099,8 @@ venmo.vote.	3600	in	ns	ns2.markmonitor.com.
 venom.vote.	3600	in	ns	ns1.dnsowl.com.
 venom.vote.	3600	in	ns	ns2.dnsowl.com.
 venom.vote.	3600	in	ns	ns3.dnsowl.com.
+veri.vote.	3600	in	ns	ns47.domaincontrol.com.
+veri.vote.	3600	in	ns	ns48.domaincontrol.com.
 verifiable.vote.	3600	in	ds	55402 13 2 C5E4DD7B89F49425732409CB163734DA8FCCA3B711E2C79E7AA1FDCA329A3FA3
 verifiable.vote.	3600	in	ns	ns-1205.awsdns-22.org.
 verifiable.vote.	3600	in	ns	ns-1886.awsdns-43.co.uk.
@@ -15352,7 +15314,7 @@ vote.	3600	in	nsec3param	1 0 0 73
 vote.	3600	in	rrsig	DNSKEY 8 1 3600 20250930161324 20250909151324 62749 vote. JVSBpRDULv0QbE+eSaUr4VFFMYFbjQfm3GP6XRdJBUQxwAqcdhvL0ZMa9sxVZkrDRHvrb8/fmi8XNnvIheGemCC1SHfkybEz9mwMx7mzmDF3bjUjfcg6s/sH1Xcf38CCoqHOG71sHkx6padt25SEv5R87MYtXbA02VKWq5fvYu9pf84VMxqy+N6+1eSim8KU+UO2GtSsXCQyyDpbVbecenqrRlopb94St82rjjObzSby5acclG82LnA1+LYbc+zhc8eyk3RZk7hxT3LecjoPJgdxuDV1ZygyVGLwdm11kU/mv8yyPf+vWQJ3qmDPYbhbL2M5zf9PkzD0p1b9RYYO2g==
 vote.	3600	in	rrsig	NS 8 1 3600 20250930161324 20250909151324 23451 vote. HEGlb51U9zgx+073ur7TpGOkxPARFCWDjDwcxLnbPp28+A7q+A22/5qtFcgxgwZHS6XkiP0hvufu3ruXX4Ega3y0U1/qgbXHBO63+MyXkT1XrIq4zIvsUvoHZL6WegQpRNKJzYKrT17lx6W7qPOUz80Zzvn0yBF/EymvsHJu8lc=
 vote.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930161324 20250909151324 23451 vote. pGSLrwCAkIkRDtgRwty6kbbOI92dFLhJluLIum6Y+HC/xoA12pJAFF5j2BxzZ1eEfGmF4SOMWRSZ4fXxLmD8iAAIeYAetCWJM2K+QFahPjLTFWO9JIpUrL4JBjo8cdqX0pyxXwzvE7vi0uA7SjLwkrDxVnJfVRrmXf0LN90S8po=
-vote.	3600	in	rrsig	SOA 8 1 3600 20251002014141 20250911004141 23451 vote. mNNG13KBVwImAlSWEVolkvVAaf/MLy2S2q51FYxvL3HoC7foKT4CBf7hwOUHkw9XIY2429aNVUNqA4jpEbKaZfaT8ohgmPSOhwRms63lI72pS6fpi5EoL0Uq8jG2YTzUfGIYl7aJa/XSjgFT241xdZPwAdW96JUMR6SpnQR4/is=
+vote.	3600	in	rrsig	SOA 8 1 3600 20251003011725 20250912001725 23451 vote. IesVcAj89mPoifVhYuOxuZDQwb8mYi1fvHLErkwiqwj9Kp4WZKlM8CLTKwlaVjc4Peh14yC+0azm0BF6C1imlPTf0lmbM8hNj3ct9hCG7WtoifWJw5dEema956GCIldDi0hzAdNBfCwyJ0JgP27TR0OX/jRcIABoP8viLHPcezY=
 vote.vote.	3600	in	ns	ns1.dyna-ns.net.
 vote.vote.	3600	in	ns	ns2.dyna-ns.net.
 vote2030.vote.	3600	in	ns	ns21.domaincontrol.com.
@@ -15873,8 +15835,8 @@ william.vote.	3600	in	ns	ns13.domaincontrol.com.
 william.vote.	3600	in	ns	ns14.domaincontrol.com.
 williams.vote.	3600	in	ns	ns33.domaincontrol.com.
 williams.vote.	3600	in	ns	ns34.domaincontrol.com.
-willyou.vote.	3600	in	ns	dns1.registrar-servers.com.
-willyou.vote.	3600	in	ns	dns2.registrar-servers.com.
+willyou.vote.	3600	in	ns	dns101.registrar-servers.com.
+willyou.vote.	3600	in	ns	dns102.registrar-servers.com.
 wilsonforcongress.vote.	3600	in	ns	ns51.domaincontrol.com.
 wilsonforcongress.vote.	3600	in	ns	ns52.domaincontrol.com.
 win.vote.	3600	in	ns	austin.ns.cloudflare.com.
@@ -15924,8 +15886,8 @@ winyourrace.vote.	3600	in	ns	pdns1.registrar-servers.com.
 winyourrace.vote.	3600	in	ns	pdns2.registrar-servers.com.
 wisdems.vote.	3600	in	ns	dns1.registrar-servers.com.
 wisdems.vote.	3600	in	ns	dns2.registrar-servers.com.
-wisdom.vote.	3600	in	ns	ns1.bodis.com.
-wisdom.vote.	3600	in	ns	ns2.bodis.com.
+wisdom.vote.	3600	in	ns	ns1.dns-redirect.com.
+wisdom.vote.	3600	in	ns	ns2.dns-redirect.com.
 wise.vote.	3600	in	ns	dns1.registrar-servers.com.
 wise.vote.	3600	in	ns	dns2.registrar-servers.com.
 wisely.vote.	3600	in	ns	ns41.domaincontrol.com.
@@ -15996,8 +15958,8 @@ wordpress.vote.	3600	in	ns	ns1.wordpress.org.
 wordpress.vote.	3600	in	ns	ns2.wordpress.org.
 wordpress.vote.	3600	in	ns	ns3.wordpress.org.
 wordpress.vote.	3600	in	ns	ns4.wordpress.org.
-work.vote.	3600	in	ns	ns1.bodis.com.
-work.vote.	3600	in	ns	ns2.bodis.com.
+work.vote.	3600	in	ns	ns1.dns-redirect.com.
+work.vote.	3600	in	ns	ns2.dns-redirect.com.
 workingpeople.vote.	3600	in	ns	ns-1294.awsdns-33.org.
 workingpeople.vote.	3600	in	ns	ns-1883.awsdns-43.co.uk.
 workingpeople.vote.	3600	in	ns	ns-326.awsdns-40.com.
@@ -16051,8 +16013,8 @@ writers.vote.	3600	in	ns	ns01.domaincontrol.com.
 writers.vote.	3600	in	ns	ns02.domaincontrol.com.
 wsy.vote.	3600	in	ns	brady.dnspod.net.
 wsy.vote.	3600	in	ns	duncan.dnspod.net.
-wtf.vote.	3600	in	ns	ns1.bodis.com.
-wtf.vote.	3600	in	ns	ns2.bodis.com.
+wtf.vote.	3600	in	ns	ns1.dns-redirect.com.
+wtf.vote.	3600	in	ns	ns2.dns-redirect.com.
 wtp.vote.	3600	in	ns	ns65.domaincontrol.com.
 wtp.vote.	3600	in	ns	ns66.domaincontrol.com.
 wtrump.vote.	3600	in	ns	ns77.domaincontrol.com.
@@ -16356,4 +16318,4 @@ zug.vote.	3600	in	ns	dns1.registrar-servers.com.
 zug.vote.	3600	in	ns	dns2.registrar-servers.com.
 zztek.vote.	3600	in	ns	frost.dnspod.net.
 zztek.vote.	3600	in	ns	ox.dnspod.net.
-vote.	3600	in	soa	a0.nic.vote. hostmaster.donuts.email. 1757554624 7200 900 1209600 3600
+vote.	3600	in	soa	a0.nic.vote. hostmaster.donuts.email. 1757639563 7200 900 1209600 3600
