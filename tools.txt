@@ -1,4 +1,4 @@
-tools.	3600	in	soa	v0n0.nic.tools. hostmaster.donuts.email. 1757553889 7200 900 1209600 3600
+tools.	3600	in	soa	v0n0.nic.tools. hostmaster.donuts.email. 1757639467 7200 900 1209600 3600
 0.tools.	3600	in	ns	ns1.bdm.microsoftonline.com.
 0.tools.	3600	in	ns	ns2.bdm.microsoftonline.com.
 0.tools.	3600	in	ns	ns3.bdm.microsoftonline.com.
@@ -316,8 +316,8 @@ tools.	3600	in	soa	v0n0.nic.tools. hostmaster.donuts.email. 1757553889 7200 900 
 15-ky.tools.	3600	in	ns	dane.ns.cloudflare.com.
 15926.tools.	3600	in	ns	itzel.ns.cloudflare.com.
 15926.tools.	3600	in	ns	mitchell.ns.cloudflare.com.
-168.tools.	3600	in	ns	ns1.bodis.com.
-168.tools.	3600	in	ns	ns2.bodis.com.
+168.tools.	3600	in	ns	ns1.dns-redirect.com.
+168.tools.	3600	in	ns	ns2.dns-redirect.com.
 1688.tools.	3600	in	ns	norm.ns.cloudflare.com.
 1688.tools.	3600	in	ns	pam.ns.cloudflare.com.
 168winswb.tools.	3600	in	ns	alberto.ns.cloudflare.com.
@@ -366,8 +366,10 @@ tools.	3600	in	soa	v0n0.nic.tools. hostmaster.donuts.email. 1757553889 7200 900 
 19dlg81mhcfd01a12ov5nvbpqahmc30p.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. LZtZgm8401SH3dFhLjKrMEoA9gZLIQ3HJaKGtDkCeo9ElSb4+tyDGXi89JY2tAMEB+xujZNzmDsIkDG+93G2ab1OCoZaWrUGXeVTnF8DKocARE9Pct3AMadkZ3BcqF/4+D8NzB69M0/pMIMPD7/zHU+d0/xrAyX4yGY3LDU1rEU=
 19glsn36e1l4jaosjbf421dmi3gg3319.tools.	3600	in	nsec3	1 1 0 73 19LCVTM82I96PUUCJFP8RCB866RUJ23J NS DS RRSIG
 19glsn36e1l4jaosjbf421dmi3gg3319.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. TZrZu1TfuaMlwr6TwakRJsSuql1ImRvO1Hkr3s27pQq3L9scqSS0/9O4DmI7Lztqsa9Tod53KdBH6TjS2AgvVWkUt4/sj5svQdbj9YsXGF2GuwcabFNTwOcZc4sE8VWDr4o1Q3WgW9qRVcMbBMdD4SQhrM0RbbXPkH+iLOrvqhY=
-19lcvtm82i96puucjfp8rcb866ruj23j.tools.	3600	in	nsec3	1 1 0 73 1A63GD6T3AMQR98FB3ATHQ44V6HB0O9C NS DS RRSIG
-19lcvtm82i96puucjfp8rcb866ruj23j.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. glz+Kz3B8OPNK8Wsja1zLxfKmN1pDMuj0p/hk8pScBfz0c45XxcqKcXaEnO7LBP5UhPfl2dgdnAJXKuAXjmPw8ht6jtS1558b/ED4RRJlH8OAzkbL/1/j2OaarBixI8D0G8DYtxjGzNfGkS8pVB7WDQDMEe0MXn3t7JXNJXIGmU=
+19lcvtm82i96puucjfp8rcb866ruj23j.tools.	3600	in	nsec3	1 1 0 73 19MS0NGJDQE1DITP0F386TVJFMB1HORI NS DS RRSIG
+19lcvtm82i96puucjfp8rcb866ruj23j.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251002121510 20250911111510 35280 tools. j1Pw0rRW1Xo+xjOznmJNnAfnn3NRohw4hl6b/0USAJ584QG96qxSV7U0SLdplywkPSwfYpl7TmZy/ghPH2P1zHDIKfH+Em7ZL/M92xNjl9WsMgRlq7YNAqJCupDB2qhg129Kz0GoR8Z2d7g85Mf6+ygMU1rXNkKqdQod7FOpJRI=
+19ms0ngjdqe1ditp0f386tvjfmb1hori.tools.	3600	in	nsec3	1 1 0 73 1A63GD6T3AMQR98FB3ATHQ44V6HB0O9C NS DS RRSIG
+19ms0ngjdqe1ditp0f386tvjfmb1hori.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251002121510 20250911111510 35280 tools. HPBPX5RDFVnz2yBdtrld28HLRkbSzeP7AtkYwowbEiDxe5Uf7Odi9f252fabxKp1fak6ThOPZf7f1ACp1TBcsE7PMpN14RRp4+59vo7Zh7YWimRe+urOEsFUM6b0X8AEp09I/g5Q/oVKL5Nlcq9V5L2AQ4LLXjOoR+2gLdgZ3o0=
 1a.tools.	3600	in	ns	dns1.name-services.com.
 1a.tools.	3600	in	ns	dns2.name-services.com.
 1a.tools.	3600	in	ns	dns3.name-services.com.
@@ -1051,10 +1053,8 @@ tools.	3600	in	soa	v0n0.nic.tools. hostmaster.donuts.email. 1757553889 7200 900 
 45mfat10dg24rled3ok6kn01qad8m03i.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. kNxO0LVY/HwJGfnEWWz67xNrb8OR8fhkffmsZr9IHtnvgqyy4H5DpVoq4MVeU96PeHwAu9oopjUki1WDthtJUIlS5SccfEz/0yOedyAjDviqyzAqVlMeXZmAZKJScjf0lGz0J0LgXp81+9dpVvlCBHsrI9BVB+cBPLRwuxKyDr0=
 46cap45p1v6ns7sls2u7tolnos64u9mv.tools.	3600	in	nsec3	1 1 0 73 46ETDHMEK86F7GA4JHO2G5OJ7128BAG8 NS DS RRSIG
 46cap45p1v6ns7sls2u7tolnos64u9mv.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. JxcZYT6yx9iUuvQS/B6Z59mg1j+1rv6JS5Mchc+ZPHREPZyy2YMiJsiSYGlDylYJa9P9RQ0hQSQKN2kwqGyb/3hFX68KRZYhiiz/Oz1WUvXkNvS8WaHuucp4XP6/Urg2Kai6p4ytUw9VqkjnzQFORZjOY7lNInYq+5Bzk5eqdS8=
-46etdhmek86f7ga4jho2g5oj7128bag8.tools.	3600	in	nsec3	1 1 0 73 46T8SPFF0QSJ5MQQ1J7RLGEDFOS2D4UB NS DS RRSIG
-46etdhmek86f7ga4jho2g5oj7128bag8.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251001212756 20250910202756 35280 tools. abihtGnmbN63+cKDVSCq5ej1FUP8Kq0Dw5LKs47+Ft4pksFCPIE43MB6n3Khhpy0NimcwobihEdlTvhNJtVxu58ULDHlWA1kKra3VRm4M3Jgc/gwBSo3qvlPKVWJiCnh3xTXl1fUIjPEIbVEaKiIGPE6PtAYxpBkvBx7lSoFxL0=
-46t8spff0qsj5mqq1j7rlgedfos2d4ub.tools.	3600	in	nsec3	1 1 0 73 47HOPSG3MV30P239D272O3R5FG6MKK4L NS DS RRSIG
-46t8spff0qsj5mqq1j7rlgedfos2d4ub.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251001212756 20250910202756 35280 tools. kbittCjT0qrxOrHTaCrMX4PKSlX5hQfq2U+DTLx3Me0NzZgB02ZucTlRt01EC3bPQDdwQiEcpamPzq76bku/DdQGaP24YfSgQBuW+jg7x5SjuIxoFhTViBadmGH3AcpmuzPd6xjrrLLViTTP8Oenv6g+CuRFmfmVNdWQJu7e2mc=
+46etdhmek86f7ga4jho2g5oj7128bag8.tools.	3600	in	nsec3	1 1 0 73 47HOPSG3MV30P239D272O3R5FG6MKK4L NS DS RRSIG
+46etdhmek86f7ga4jho2g5oj7128bag8.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251002143250 20250911133250 35280 tools. OFQuVo1I7nJiJsUUJDHYRN6gF4bo4Wa9BboKghC479wIkst4ilP3CGtNJCUDWPidu2psiV6fQodZKoQgm5WWb08r1lBKAKPvfqmPDS7sOC6C2j3q8GxcIhalhuKBWrfLPP0VjiiggR0GUvgZIi6gaeq9t+Ry5nkewOfFPN6+8lg=
 47hopsg3mv30p239d272o3r5fg6mkk4l.tools.	3600	in	nsec3	1 1 0 73 487UK99RK3C9L613GVTBQV14IK94GLUB NS DS RRSIG
 47hopsg3mv30p239d272o3r5fg6mkk4l.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. C32bqfZJB5ZmqoeiyOhU3fKRb6wcJUwaXO8GNwNuJGBDyAU+ZlabllImZwtZtHLSPjP0IZH99TriM/O9STl56uIQUo7AWNrUukdH/YqTaZ15b56vZNYlbwPeIJ59j/Hf/M6XmV3FlXzheoRkFizoIO+nZFQsxkRSkXkbpt67DVE=
 481.tools.	3600	in	ns	ns1.mainns.de.
@@ -1091,10 +1091,8 @@ tools.	3600	in	soa	v0n0.nic.tools. hostmaster.donuts.email. 1757553889 7200 900 
 4com.tools.	3600	in	ns	ns.4com.us.
 4dfpf5gmmgh7mtuk9shoio5jom205qhr.tools.	3600	in	nsec3	1 1 0 73 4EQ2MR2I1IV1PSF9HA2G4K41TRB0658M NS DS RRSIG
 4dfpf5gmmgh7mtuk9shoio5jom205qhr.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. kDcgbZCxdqSe5ZicfqPSe0NBA+50FR7vWAMD2NVPM3k7UmkJcs9+70QXSSFSk2zCB+rzBR84ARxYUzStMFmMK7L6N+TuDZJqPpWye8sLBn7rW9P9eka+lMUKkOC5ERFNnH5Z6HFEFHjA9vg12N8jI7IjA2Vz86HgegnhvHKW7YQ=
-4eq2mr2i1iv1psf9ha2g4k41trb0658m.tools.	3600	in	nsec3	1 1 0 73 4ESAAEV29ILU3JNM2C166HEP06EA0TTU NS DS RRSIG
-4eq2mr2i1iv1psf9ha2g4k41trb0658m.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251001212756 20250910202756 35280 tools. YEAYvdBZ6U9zUEhZyYqtdo9ndzTJAVBXvrIAGj4MI9NscZFWoiSZyDLj1FxLNCn0WWPzOymbgjGkI7AK1RdkwHW7f9C+jxBBAhUXf4iTtpouV4Y/FjGdZ59Ggkife336pgcj7RUeVnA4lJaSB21R/fw33L0HOLgwALk0FnS9E9k=
-4esaaev29ilu3jnm2c166hep06ea0ttu.tools.	3600	in	nsec3	1 1 0 73 4GIIM4PROF2F5OHL1RBSM0E192JSU7T8 NS DS RRSIG
-4esaaev29ilu3jnm2c166hep06ea0ttu.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251001212756 20250910202756 35280 tools. tokOa4TXY7iVWGYxC83b4Tse4x+UrbnIp5XhGhAq9F0ZQjOwefHT+0YIPYuVLpK9Px2e/Z+L6uEuSOcOT/Dpma4iRbjI7jr9ehKguOcewJwJuKLlObeqc1nh5L+8JA1wRZY5H95tBiBYrJjxQdAoNGsbwOqqMJ0sBWhG044XE+A=
+4eq2mr2i1iv1psf9ha2g4k41trb0658m.tools.	3600	in	nsec3	1 1 0 73 4GIIM4PROF2F5OHL1RBSM0E192JSU7T8 NS DS RRSIG
+4eq2mr2i1iv1psf9ha2g4k41trb0658m.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251002142205 20250911132205 35280 tools. JFeXcMEANDnEYxl3a1201b3Gb6KCxkR00RVtyWMZI6d+2SP67lPMTAk4GawB0gtVHQT6BHQ7dQ4gIBPPPTSzJtZT7FtJAUQwt85RVUFe0moiTPZWI5xI1Z+vPF3fjc1/GDKX8KHsIzYkiihPQ72xS2DEUXzxjCVRq5OcCF+7Vhw=
 4free.tools.	3600	in	ns	hazel.ns.cloudflare.com.
 4free.tools.	3600	in	ns	joel.ns.cloudflare.com.
 4giim4prof2f5ohl1rbsm0e192jsu7t8.tools.	3600	in	nsec3	1 1 0 73 4I3M11LRS6HNMHTPJFH9B4OLKI8S49MS NS DS RRSIG
@@ -1191,10 +1189,6 @@ tools.	3600	in	soa	v0n0.nic.tools. hostmaster.donuts.email. 1757553889 7200 900 
 4winds.tools.	3600	in	ns	ns-953.awsdns-55.net.
 4x4.tools.	3600	in	ns	ns39.domaincontrol.com.
 4x4.tools.	3600	in	ns	ns40.domaincontrol.com.
-50.tools.	3600	in	ns	ns1hnx.name.com.
-50.tools.	3600	in	ns	ns2fln.name.com.
-50.tools.	3600	in	ns	ns3gmt.name.com.
-50.tools.	3600	in	ns	ns4dmx.name.com.
 500.tools.	3600	in	ns	clark.ns.cloudflare.com.
 500.tools.	3600	in	ns	fiona.ns.cloudflare.com.
 5000.tools.	3600	in	ns	aaron.ns.cloudflare.com.
@@ -1225,6 +1219,8 @@ tools.	3600	in	soa	v0n0.nic.tools. hostmaster.donuts.email. 1757553889 7200 900 
 540.tools.	3600	in	ns	ns-2017.awsdns-60.co.uk.
 540.tools.	3600	in	ns	ns-222.awsdns-27.com.
 540.tools.	3600	in	ns	ns-904.awsdns-49.net.
+54321.tools.	3600	in	ns	dns1.registrar-servers.com.
+54321.tools.	3600	in	ns	dns2.registrar-servers.com.
 54eokahb53kcp469o1vt8f1d6j8fu8tm.tools.	3600	in	nsec3	1 1 0 73 54INJLQJGV3S2I1P9GBHVS9PKVOE91HG NS DS RRSIG
 54eokahb53kcp469o1vt8f1d6j8fu8tm.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. e25HtHsuQuKwL28qajVTkPZUmuivqPJXKVausvgDSDcd0VxA9qV6IQEFOjEdeeuyekV/vNDimqe71FD8D87HN99xzVhXak9a2UZ/JzT30Seb7MKya8TeCXHtZ/hjjckj8s9dCURxZfkRNFmj0fjU/aQv/qrEB66vg9DhFv7P3qo=
 54injlqjgv3s2i1p9gbhvs9pkvoe91hg.tools.	3600	in	nsec3	1 1 0 73 55LN95IMA3UNQVRT5K4VTI01LEJRMLOM NS DS RRSIG
@@ -1697,8 +1693,8 @@ tools.	3600	in	soa	v0n0.nic.tools. hostmaster.donuts.email. 1757553889 7200 900 
 80211.tools.	3600	in	ns	ns18.domaincontrol.com.
 807mrq18ms8698na1951mkr7461kqn6r.tools.	3600	in	nsec3	1 1 0 73 80E34MF52TAIAF9N9KKJS0HJMMGU8H4U NS DS RRSIG
 807mrq18ms8698na1951mkr7461kqn6r.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. SovsiXMRQctTFmPoC9Zye5VilU4g+5yWC5eKvjKneY8lYRf9uEPyzaem1lzcdqpRymv9RlTe6ySYRvIHXGv3qCT4js//w6M0JjMdvo6An0wBjScFX9lqCuybZOUPWBeLeMzZttrUsLtA50KztHGoU/CoxcDRsuVRPzzwiIPOJbM=
-8080.tools.	3600	in	ns	ns1.bodis.com.
-8080.tools.	3600	in	ns	ns2.bodis.com.
+8080.tools.	3600	in	ns	ns1.dns-redirect.com.
+8080.tools.	3600	in	ns	ns2.dns-redirect.com.
 80e34mf52taiaf9n9kkjs0hjmmgu8h4u.tools.	3600	in	nsec3	1 1 0 73 80KBQ6OJLTMGOJ4KSHH2A9I6690S4LU5 NS DS RRSIG
 80e34mf52taiaf9n9kkjs0hjmmgu8h4u.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. tRCjBQKMVrgpGZIgIvOuIlg8oiri/1eZ48CSntAPxsP/NSNIPd1yk4fZI2E7RQ8IcgpuIeALjBY0Sxj5gG+cZkMEv99H9u9/W8UQx7UDI3OmDVoLCIwVu7+FqQAO/OEgKzVtwbxuxrCT8n7LhNpg/sBOwfGQriyjdPLjnzjYPFQ=
 80kbq6ojltmgoj4kshh2a9i6690s4lu5.tools.	3600	in	nsec3	1 1 0 73 810B63NMJJADR5DK9QVIGEDFGAOO140C NS DS RRSIG
@@ -2652,8 +2648,8 @@ adapta.tools.	3600	in	ns	ns-1214.awsdns-23.org.
 adapta.tools.	3600	in	ns	ns-1997.awsdns-57.co.uk.
 adapta.tools.	3600	in	ns	ns-737.awsdns-28.net.
 adapta.tools.	3600	in	ns	ns-91.awsdns-11.com.
-adaptable.tools.	3600	in	ns	ns1.bodis.com.
-adaptable.tools.	3600	in	ns	ns2.bodis.com.
+adaptable.tools.	3600	in	ns	ns1.dns-redirect.com.
+adaptable.tools.	3600	in	ns	ns2.dns-redirect.com.
 adapting.tools.	3600	in	ns	ns1.dyna-ns.net.
 adapting.tools.	3600	in	ns	ns2.dyna-ns.net.
 adaptiv.tools.	3600	in	ns	a.dns.gandi.net.
@@ -2744,6 +2740,8 @@ ade.tools.	3600	in	ns	lennox.ns.cloudflare.com.
 adel.tools.	3600	in	ns	ns1.dnsowl.com.
 adel.tools.	3600	in	ns	ns2.dnsowl.com.
 adel.tools.	3600	in	ns	ns3.dnsowl.com.
+ademicon.tools.	3600	in	ns	elle.ns.cloudflare.com.
+ademicon.tools.	3600	in	ns	fred.ns.cloudflare.com.
 adept.tools.	3600	in	ns	ns09.domaincontrol.com.
 adept.tools.	3600	in	ns	ns10.domaincontrol.com.
 adexin.tools.	3600	in	ns	ns-1305.awsdns-35.org.
@@ -3312,12 +3310,10 @@ agtech.tools.	3600	in	ns	ns-172.awsdns-21.com.
 agtech.tools.	3600	in	ns	ns-527.awsdns-01.net.
 agx.tools.	3600	in	ns	dns1.registrar-servers.com.
 agx.tools.	3600	in	ns	dns2.registrar-servers.com.
-ah5o2si8m6q2ntjkj3ea6thgqeruft21.tools.	3600	in	nsec3	1 1 0 73 AHA3RV2E1CH2DRSSQRA5IJQR27ES58SM NS DS RRSIG
-ah5o2si8m6q2ntjkj3ea6thgqeruft21.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251001212756 20250910202756 35280 tools. WLJw/NjqHs3by2vTsRksgf/L2Tpfzx47h4Vkm9DfrfRwLxPt2WvNPboUSPcQatsJ3DTXD980jPx2SO+VL4WiorX7lNknFq+uX9goNNTSpABSG9brP6BrxTqBiikLOAGaSgCH7K603byHAfOfolD6cEhFH6YAocsy4Wo/BOAFt8g=
+ah5o2si8m6q2ntjkj3ea6thgqeruft21.tools.	3600	in	nsec3	1 1 0 73 AHG1L6J8BKOP6CN87STS31CQSKJC1JH8 NS DS RRSIG
+ah5o2si8m6q2ntjkj3ea6thgqeruft21.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251002143250 20250911133250 35280 tools. utJdg9bmL8CxHx10erXNQvUPtapFNkfEA5ityoVQMomW38KI4jPrIWCVKm3g9UASP+BdaDE+EnDL9rxqLF5OSdKlW6pgEMbFYxjC1xv9UlQBComaA5BknMtVirOGgADigAm52K6ujEwN9ivqeQ2KZem/DxbBsQwkhClAtjWLdMk=
 aha.tools.	3600	in	ns	docks13.rzone.de.
 aha.tools.	3600	in	ns	shades12.rzone.de.
-aha3rv2e1ch2drssqra5ijqr27es58sm.tools.	3600	in	nsec3	1 1 0 73 AHG1L6J8BKOP6CN87STS31CQSKJC1JH8 NS DS RRSIG
-aha3rv2e1ch2drssqra5ijqr27es58sm.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251001212756 20250910202756 35280 tools. AeqIG8JXppUvgx0gMNHOz+LjjNwEiP3lQLzO+F+BsxNIZQd1GqWp/Iy/DmAkvfAetZyMS4WXDOoPzMJ+moz5eUQoHLkS2lGhcsfg3kRTOH2X1MXyQ8NolOsy6Fj/dY7Qc15fl9mVxsoadEz/ra4tVbw1lVOhdss1EBM25FS3Bi4=
 ahbpgd.tools.	3600	in	ns	ns1.dns.com.
 ahbpgd.tools.	3600	in	ns	ns2.dns.com.
 ahdcbp.tools.	3600	in	ns	ns1.dns.com.
@@ -3670,6 +3666,8 @@ aieducator.tools.	3600	in	ns	ns55.domaincontrol.com.
 aieducator.tools.	3600	in	ns	ns56.domaincontrol.com.
 aieducators.tools.	3600	in	ns	ns09.domaincontrol.com.
 aieducators.tools.	3600	in	ns	ns10.domaincontrol.com.
+aiedutoolkit.tools.	3600	in	ns	dns1.registrar-servers.com.
+aiedutoolkit.tools.	3600	in	ns	dns2.registrar-servers.com.
 aiengineer.tools.	3600	in	ns	curitiba.ns.porkbun.com.
 aiengineer.tools.	3600	in	ns	fortaleza.ns.porkbun.com.
 aiengineer.tools.	3600	in	ns	maceio.ns.porkbun.com.
@@ -3710,8 +3708,6 @@ aiforbusiness.tools.	3600	in	ns	ns1.dns-parking.com.
 aiforbusiness.tools.	3600	in	ns	ns2.dns-parking.com.
 aiforcreators.tools.	3600	in	ns	mario.ns.cloudflare.com.
 aiforcreators.tools.	3600	in	ns	nicole.ns.cloudflare.com.
-aiforex.tools.	3600	in	ns	ns45.domaincontrol.com.
-aiforex.tools.	3600	in	ns	ns46.domaincontrol.com.
 aifreetools.tools.	3600	in	ns	dns1.registrar-servers.com.
 aifreetools.tools.	3600	in	ns	dns2.registrar-servers.com.
 aify.tools.	3600	in	ns	ns1.dnsowl.com.
@@ -3735,8 +3731,8 @@ aigency.tools.	3600	in	ns	ns1102.ui-dns.org.
 aigency.tools.	3600	in	ns	ns1115.ui-dns.biz.
 aigeneration.tools.	3600	in	ns	dns1.registrar-servers.com.
 aigeneration.tools.	3600	in	ns	dns2.registrar-servers.com.
-aigenie.tools.	3600	in	ns	dns1.registrar-servers.com.
-aigenie.tools.	3600	in	ns	dns2.registrar-servers.com.
+aigenie.tools.	3600	in	ns	dns101.registrar-servers.com.
+aigenie.tools.	3600	in	ns	dns102.registrar-servers.com.
 aigenius.tools.	3600	in	ns	dns1.registrar-servers.com.
 aigenius.tools.	3600	in	ns	dns2.registrar-servers.com.
 aigenrated.tools.	3600	in	ns	dns1.registrar-servers.com.
@@ -3903,8 +3899,8 @@ aimhigh.tools.	3600	in	ns	dns1.registrar-servers.com.
 aimhigh.tools.	3600	in	ns	dns2.registrar-servers.com.
 aimicro.tools.	3600	in	ns	dns1.registrar-servers.com.
 aimicro.tools.	3600	in	ns	dns2.registrar-servers.com.
-aiml.tools.	3600	in	ns	ns1.bodis.com.
-aiml.tools.	3600	in	ns	ns2.bodis.com.
+aiml.tools.	3600	in	ns	ns1.dns-redirect.com.
+aiml.tools.	3600	in	ns	ns2.dns-redirect.com.
 aimo.tools.	3600	in	ns	ns-1181.awsdns-19.org.
 aimo.tools.	3600	in	ns	ns-1872.awsdns-42.co.uk.
 aimo.tools.	3600	in	ns	ns-649.awsdns-17.net.
@@ -4908,8 +4904,8 @@ alskar.tools.	3600	in	ns	dns3.p02.nsone.net.
 alskar.tools.	3600	in	ns	dns4.p02.nsone.net.
 alstaping.tools.	3600	in	ns	ns43.worldnic.com.
 alstaping.tools.	3600	in	ns	ns44.worldnic.com.
-alt.tools.	3600	in	ns	ns1.bodis.com.
-alt.tools.	3600	in	ns	ns2.bodis.com.
+alt.tools.	3600	in	ns	ns1.dns-redirect.com.
+alt.tools.	3600	in	ns	ns2.dns-redirect.com.
 alta.tools.	3600	in	ns	ns1.afternic.com.
 alta.tools.	3600	in	ns	ns2.afternic.com.
 altai.tools.	3600	in	ns	ns1.dnsowl.com.
@@ -4942,6 +4938,10 @@ alto.tools.	3600	in	ns	ns3.altodns.de.
 alto.tools.	3600	in	ns	ns4.altodns.de.
 altsest.tools.	3600	in	ns	alpha.freehost.com.ua.
 altsest.tools.	3600	in	ns	beta.freehost.com.ua.
+altumint.tools.	3600	in	ns	ns-1046.awsdns-02.org.
+altumint.tools.	3600	in	ns	ns-1636.awsdns-12.co.uk.
+altumint.tools.	3600	in	ns	ns-275.awsdns-34.com.
+altumint.tools.	3600	in	ns	ns-870.awsdns-44.net.
 aluminumsaziarabi.tools.	3600	in	ns	dns101.registrar-servers.com.
 aluminumsaziarabi.tools.	3600	in	ns	dns102.registrar-servers.com.
 alva.tools.	3600	in	ns	dns1.registrar-servers.com.
@@ -6221,8 +6221,6 @@ aris.tools.	3600	in	ns	ns20.ovh.net.
 aris.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. RKReJFXYGzpnC/V77obwAOu+uhEZf2niAp1jsbCZuQoPvddZ8YyJumW/90x+S5irRNq5BmoC6jSye4tcUz3KFkUGeJCkvdttCwAeqWmlBPVn/1pbW6Afeg2+Q4ouNHcxvMOBm8q3ZclZEl4GZdqu0nxjFz/pX8lHQGxBMdfi8yQ=
 aristo.tools.	3600	in	ns	ns1.domainhasexpired.com.
 aristo.tools.	3600	in	ns	ns2.domainhasexpired.com.
-arizonavoting.tools.	3600	in	ns	ns69.domaincontrol.com.
-arizonavoting.tools.	3600	in	ns	ns70.domaincontrol.com.
 ark-server.tools.	3600	in	ns	amanda.ns.cloudflare.com.
 ark-server.tools.	3600	in	ns	arturo.ns.cloudflare.com.
 ark.tools.	3600	in	ns	ns1.dns-redirect.com.
@@ -7240,8 +7238,8 @@ autometa.tools.	3600	in	ns	lloyd.ns.cloudflare.com.
 autometa.tools.	3600	in	ns	sima.ns.cloudflare.com.
 automize.tools.	3600	in	ns	clarissa.ns.cloudflare.com.
 automize.tools.	3600	in	ns	drake.ns.cloudflare.com.
-automl.tools.	3600	in	ns	ns1.afternic.com.
-automl.tools.	3600	in	ns	ns2.afternic.com.
+automl.tools.	3600	in	ns	launch1.spaceship.net.
+automl.tools.	3600	in	ns	launch2.spaceship.net.
 automobile.tools.	3600	in	ns	ns1.afternic.com.
 automobile.tools.	3600	in	ns	ns2.afternic.com.
 automotion.tools.	3600	in	ns	dns1.registrar-servers.com.
@@ -7381,9 +7379,9 @@ avast.tools.	3600	in	ns	ns4.markmonitor.com.
 avast.tools.	3600	in	ns	ns5.markmonitor.com.
 avast.tools.	3600	in	ns	ns6.markmonitor.com.
 avast.tools.	3600	in	ns	ns7.markmonitor.com.
-avastan0.tools.	3600	in	ns	pns1.regery.net.
-avastan0.tools.	3600	in	ns	pns2.regery.net.
-avastan0.tools.	3600	in	ns	pns3.regery.net.
+avastan0.tools.	3600	in	ns	ina1.registrar.eu.
+avastan0.tools.	3600	in	ns	ina2.registrar.eu.
+avastan0.tools.	3600	in	ns	ina3.registrar.eu.
 avastudios.tools.	3600	in	ns	ns-124-a.gandi.net.
 avastudios.tools.	3600	in	ns	ns-170-b.gandi.net.
 avastudios.tools.	3600	in	ns	ns-20-c.gandi.net.
@@ -7750,8 +7748,6 @@ azuredevops.tools.	3600	in	ns	ns1.iwantmyname.net.
 azuredevops.tools.	3600	in	ns	ns2.iwantmyname.net.
 azuredevops.tools.	3600	in	ns	ns3.iwantmyname.net.
 azuredevops.tools.	3600	in	ns	ns4.iwantmyname.net.
-azvoting.tools.	3600	in	ns	ns69.domaincontrol.com.
-azvoting.tools.	3600	in	ns	ns70.domaincontrol.com.
 azweb.tools.	3600	in	ns	dilbert.ns.cloudflare.com.
 azweb.tools.	3600	in	ns	lisa.ns.cloudflare.com.
 b-r.tools.	3600	in	ns	ns1028.ui-dns.biz.
@@ -7840,8 +7836,8 @@ baader.tools.	3600	in	ns	ns1.lemarit.net.
 baader.tools.	3600	in	ns	ns2.lemarit.de.
 baader.tools.	3600	in	ns	ns2.lemarit.net.
 baader.tools.	3600	in	ns	ns3.lemarit.de.
-baas.tools.	3600	in	ns	ns1.bodis.com.
-baas.tools.	3600	in	ns	ns2.bodis.com.
+baas.tools.	3600	in	ns	ns1.dns-redirect.com.
+baas.tools.	3600	in	ns	ns2.dns-redirect.com.
 babalnoor.tools.	3600	in	ns	ns-cloud-e1.googledomains.com.
 babalnoor.tools.	3600	in	ns	ns-cloud-e2.googledomains.com.
 babalnoor.tools.	3600	in	ns	ns-cloud-e3.googledomains.com.
@@ -8290,6 +8286,8 @@ bastionland.tools.	3600	in	ns	marlowe.ns.cloudflare.com.
 bastionland.tools.	3600	in	ns	yevgen.ns.cloudflare.com.
 bastiontools.tools.	3600	in	ns	ns3.afternic.com.
 bastiontools.tools.	3600	in	ns	ns4.afternic.com.
+baston.tools.	3600	in	ns	jimmy.ns.cloudflare.com.
+baston.tools.	3600	in	ns	kinsley.ns.cloudflare.com.
 bat.tools.	3600	in	ns	ns6537.hostgator.com.
 bat.tools.	3600	in	ns	ns6538.hostgator.com.
 batavia.tools.	3600	in	ns	ns13.domaincontrol.com.
@@ -8626,8 +8624,8 @@ bee.tools.	3600	in	ns	ns-192-b.gandi.net.
 bee.tools.	3600	in	ns	ns-6-c.gandi.net.
 beeagency.tools.	3600	in	ns	dns1.registrar-servers.com.
 beeagency.tools.	3600	in	ns	dns2.registrar-servers.com.
-beebee.tools.	3600	in	ns	ns1.bodis.com.
-beebee.tools.	3600	in	ns	ns2.bodis.com.
+beebee.tools.	3600	in	ns	ns1.dns-redirect.com.
+beebee.tools.	3600	in	ns	ns2.dns-redirect.com.
 beecool.tools.	3600	in	ds	22406 8 2 148252918BE7E89769B4005C688E78B3326EFEDFCCC10721E0E33479BE5CEDA5
 beecool.tools.	3600	in	ns	ns-cloud-e1.googledomains.com.
 beecool.tools.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -9476,8 +9474,8 @@ bin.tools.	3600	in	ns	max.ns.cloudflare.com.
 bin.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. Osw757Fu4+DGRrvfMnaU5J7ewjopVyxLJPsSPjBNR2vKJ27S7cngyxQM4GbJHu3NrTxtowhB+/tKBNQj7KJTCGUjKERtZn2D0m7BrGUbkaefU7mirgn3wgdspzC4mSnRwBv/1Gh1KU4dJ3K23iDtZAy5btUhXpDpOE/jgPcOyxA=
 binarium.tools.	3600	in	ns	dns1.registrar-servers.com.
 binarium.tools.	3600	in	ns	dns2.registrar-servers.com.
-binary.tools.	3600	in	ns	ns1.bodis.com.
-binary.tools.	3600	in	ns	ns2.bodis.com.
+binary.tools.	3600	in	ns	ns1.dns-redirect.com.
+binary.tools.	3600	in	ns	ns2.dns-redirect.com.
 binaryanvil.tools.	3600	in	ns	ns7.worldnic.com.
 binaryanvil.tools.	3600	in	ns	ns8.worldnic.com.
 binarystate.tools.	3600	in	ns	docks17.rzone.de.
@@ -10357,8 +10355,8 @@ bonanza88.tools.	3600	in	ns	amir.ns.cloudflare.com.
 bonanza88.tools.	3600	in	ns	cass.ns.cloudflare.com.
 bond.tools.	3600	in	ns	ns35.domaincontrol.com.
 bond.tools.	3600	in	ns	ns36.domaincontrol.com.
-bondage.tools.	3600	in	ns	ns3.afternic.com.
-bondage.tools.	3600	in	ns	ns4.afternic.com.
+bondage.tools.	3600	in	ns	ns47.domaincontrol.com.
+bondage.tools.	3600	in	ns	ns48.domaincontrol.com.
 bondagerope.tools.	3600	in	ns	ns-cloud-d1.googledomains.com.
 bondagerope.tools.	3600	in	ns	ns-cloud-d2.googledomains.com.
 bondagerope.tools.	3600	in	ns	ns-cloud-d3.googledomains.com.
@@ -10865,8 +10863,8 @@ brdrck.tools.	3600	in	ns	ns1.hover.com.
 brdrck.tools.	3600	in	ns	ns2.hover.com.
 breach.tools.	3600	in	ns	dns1.registrar-servers.com.
 breach.tools.	3600	in	ns	dns2.registrar-servers.com.
-bread.tools.	3600	in	ns	ns1.bodis.com.
-bread.tools.	3600	in	ns	ns2.bodis.com.
+bread.tools.	3600	in	ns	ns1.dns-redirect.com.
+bread.tools.	3600	in	ns	ns2.dns-redirect.com.
 breakchain.tools.	3600	in	ns	dns1.registrar-servers.com.
 breakchain.tools.	3600	in	ns	dns2.registrar-servers.com.
 breakdance.tools.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -11144,8 +11142,8 @@ brw.tools.	3600	in	ns	ns1.b-r.ch.
 brw.tools.	3600	in	ns	terra.open.ch.
 bryan.tools.	3600	in	ns	ns31.domaincontrol.com.
 bryan.tools.	3600	in	ns	ns32.domaincontrol.com.
-bryant.tools.	3600	in	ns	ns1.bodis.com.
-bryant.tools.	3600	in	ns	ns2.bodis.com.
+bryant.tools.	3600	in	ns	ns1.dns-redirect.com.
+bryant.tools.	3600	in	ns	ns2.dns-redirect.com.
 bryce.tools.	3600	in	ns	dns1.registrar-servers.com.
 bryce.tools.	3600	in	ns	dns2.registrar-servers.com.
 bryt.tools.	3600	in	ds	22537 8 2 ED5094EBBFF80F7B7035DF4A4FF41E0FA3EEF572CA02A12D239B516B1B9D66F4
@@ -11623,12 +11621,6 @@ businessmodel.tools.	3600	in	ns	docks14.rzone.de.
 businessmodel.tools.	3600	in	ns	shades13.rzone.de.
 businessplan.tools.	3600	in	ns	docks12.rzone.de.
 businessplan.tools.	3600	in	ns	shades17.rzone.de.
-businessplanning.tools.	3600	in	ds	10582 8 2 E08F04A7C5FD639E44AB3EF9DFDDB56DA78A780E0AFE4FA85C0D9DDC48B24A29
-businessplanning.tools.	3600	in	ns	ns-cloud-b1.googledomains.com.
-businessplanning.tools.	3600	in	ns	ns-cloud-b2.googledomains.com.
-businessplanning.tools.	3600	in	ns	ns-cloud-b3.googledomains.com.
-businessplanning.tools.	3600	in	ns	ns-cloud-b4.googledomains.com.
-businessplanning.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. XabxGSUg00H4F6VwktzIWLN1aq3MwtfExB5Mo1r4CYMBJWF6kQtU8IGVdegjhwQumYZFnLgYMmBX5QprgKn44O3FG0Yihh2GkYEL3DKfduNmGi3OGuu5uAOV2Aa+I/FQwzQVcuQbeUJXVOa/u1gaYnP9OAXtOnkGJbZA8v1n+Nw=
 businessreview.tools.	3600	in	ns	ns-1041.awsdns-02.org.
 businessreview.tools.	3600	in	ns	ns-1762.awsdns-28.co.uk.
 businessreview.tools.	3600	in	ns	ns-483.awsdns-60.com.
@@ -11840,6 +11832,8 @@ c2e1b01kv8rbfp2c355v6p90k29vek7n.tools.	3600	in	nsec3	1 1 0 73 C2L2C1Q6VH5CMTNA5
 c2e1b01kv8rbfp2c355v6p90k29vek7n.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. lelz1esypIg4EM1CQ6HAV0TCAnI/zgkYQSMGHTn++G7O6N1V8QiG3+MVUkbPShRaenkq5jqq0/+sbN7AFrl8mUbHEDuMzXa+p2Ldk651DieM3SKbfbSkdUGUUQriOn76Yn/qSZG+PEgnixk0pb2QYqm+ZlVPg90G9txoisfCxUw=
 c2l2c1q6vh5cmtna5cpg49s90gp9h6vp.tools.	3600	in	nsec3	1 1 0 73 C34B2UBJPIJ3D9B4OMUMTP4DGH3MG56B NS DS RRSIG
 c2l2c1q6vh5cmtna5cpg49s90gp9h6vp.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. VGEw4EXSmm7L/3Rna0oGRUSjNwYXXi57zDBk2uc8DzenaXVpk9yMYFn9MGx9wGCmqrkBgYPyKzMX5RoFc63kEgvr0PfH4isahXqvENUQTGU+4oR1ztk2CgjXzwAZOpobjsYnSzpfE2vFY5/2fszcjrUgG9hbMV/JcnJ903ENSvc=
+c2pa.tools.	3600	in	ns	dns1.registrar-servers.com.
+c2pa.tools.	3600	in	ns	dns2.registrar-servers.com.
 c3.tools.	3600	in	ns	curitiba.ns.porkbun.com.
 c3.tools.	3600	in	ns	fortaleza.ns.porkbun.com.
 c3.tools.	3600	in	ns	maceio.ns.porkbun.com.
@@ -12703,9 +12697,9 @@ cauldron.tools.	3600	in	ns	ns-1600.awsdns-08.co.uk.
 cauldron.tools.	3600	in	ns	ns-651.awsdns-17.net.
 caulk.tools.	3600	in	ns	ns67.domaincontrol.com.
 caulk.tools.	3600	in	ns	ns68.domaincontrol.com.
-cavastan0.tools.	3600	in	ns	pns1.regery.net.
-cavastan0.tools.	3600	in	ns	pns2.regery.net.
-cavastan0.tools.	3600	in	ns	pns3.regery.net.
+cavastan0.tools.	3600	in	ns	ina1.registrar.eu.
+cavastan0.tools.	3600	in	ns	ina2.registrar.eu.
+cavastan0.tools.	3600	in	ns	ina3.registrar.eu.
 cave.tools.	3600	in	ns	owen.ns.cloudflare.com.
 cave.tools.	3600	in	ns	tessa.ns.cloudflare.com.
 caveman.tools.	3600	in	ns	dns1.registrar-servers.com.
@@ -15021,6 +15015,10 @@ commentcontrol.tools.	3600	in	ns	dns1.registrar-servers.com.
 commentcontrol.tools.	3600	in	ns	dns2.registrar-servers.com.
 commentgen.tools.	3600	in	ns	dns1.namecheaphosting.com.
 commentgen.tools.	3600	in	ns	dns2.namecheaphosting.com.
+commentmap.tools.	3600	in	ns	ns-cloud-d1.googledomains.com.
+commentmap.tools.	3600	in	ns	ns-cloud-d2.googledomains.com.
+commentmap.tools.	3600	in	ns	ns-cloud-d3.googledomains.com.
+commentmap.tools.	3600	in	ns	ns-cloud-d4.googledomains.com.
 commentparsing.tools.	3600	in	ns	curitiba.ns.porkbun.com.
 commentparsing.tools.	3600	in	ns	fortaleza.ns.porkbun.com.
 commentparsing.tools.	3600	in	ns	maceio.ns.porkbun.com.
@@ -16375,8 +16373,8 @@ creditcard.tools.	3600	in	ds	2371 13 2 9A2D495DB93FD849D75A33FB3999E485E3AD4B13B
 creditcard.tools.	3600	in	ns	asa.ns.cloudflare.com.
 creditcard.tools.	3600	in	ns	pete.ns.cloudflare.com.
 creditcard.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. LcYu1MeUEe21LEjmewwBfhnyqPIn2qLdHPPofIgzaDlsgGkuB34E/jlDHAqkpCV02KTPyZIMdCn1tujygs+LjK2mmsOgE4nlB52oZry+TGdqlhRXC9J4mVTeIa0gu1XaozlGQAS6lX02CM76vTFmgwOTPLS1FCle1XAUFv/5d18=
-creditcards.tools.	3600	in	ns	dns1.registrar-servers.com.
-creditcards.tools.	3600	in	ns	dns2.registrar-servers.com.
+creditcards.tools.	3600	in	ns	dns101.registrar-servers.com.
+creditcards.tools.	3600	in	ns	dns102.registrar-servers.com.
 creditrepair.tools.	3600	in	ns	ns01.cashparking.com.
 creditrepair.tools.	3600	in	ns	ns02.cashparking.com.
 creditunionmarketing.tools.	3600	in	ns	ns49.worldnic.com.
@@ -17946,8 +17944,8 @@ dax.tools.	3600	in	ns	pdns11.domaincontrol.com.
 dax.tools.	3600	in	ns	pdns12.domaincontrol.com.
 day1.tools.	3600	in	ns	ns1.mydomain.com.
 day1.tools.	3600	in	ns	ns2.mydomain.com.
-daybreak.tools.	3600	in	ns	dns1.registrar-servers.com.
-daybreak.tools.	3600	in	ns	dns2.registrar-servers.com.
+daybreak.tools.	3600	in	ns	dns101.registrar-servers.com.
+daybreak.tools.	3600	in	ns	dns102.registrar-servers.com.
 daybridge.tools.	3600	in	ds	48985 8 2 634B2C8FC1A16CB7977629DD81AC3F7DCE0E521DB95C2C2A9318474154D72E41
 daybridge.tools.	3600	in	ns	ns-cloud-d1.googledomains.com.
 daybridge.tools.	3600	in	ns	ns-cloud-d2.googledomains.com.
@@ -18585,8 +18583,6 @@ dem.tools.	3600	in	ns	evan.ns.cloudflare.com.
 dem.tools.	3600	in	ns	olga.ns.cloudflare.com.
 demand.tools.	3600	in	ns	dns1.registrar-servers.com.
 demand.tools.	3600	in	ns	dns2.registrar-servers.com.
-demax.tools.	3600	in	ns	ns01.domaincontrol.com.
-demax.tools.	3600	in	ns	ns02.domaincontrol.com.
 dementia.tools.	3600	in	ns	ns17.domaincontrol.com.
 dementia.tools.	3600	in	ns	ns18.domaincontrol.com.
 demeter.tools.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -18850,10 +18846,6 @@ detali.tools.	3600	in	ns	lars.ns.cloudflare.com.
 detals.tools.	3600	in	ns	ns12.inhostedns.com.
 detals.tools.	3600	in	ns	ns22.inhostedns.net.
 detals.tools.	3600	in	ns	ns32.inhostedns.org.
-detect.tools.	3600	in	ds	13018 13 2 EA43B0B5E43DC82ECBE05CE99F5323890666ED2F67C09A575AC7467B92B3F325
-detect.tools.	3600	in	ns	launch1.spaceship.net.
-detect.tools.	3600	in	ns	launch2.spaceship.net.
-detect.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. O6HIZJ6FN/IZHxRKxV7GNE/Ja8gZfv51nnjneUXQFCT1PXUar9Aoh86MvpJdrvwH+NVOj21qtWGwlZ+9MCY8bNX5RaPEXjSDMFVUSOu6IK6SKMP1FTvB71hWTTkStKvU8aGffg701g+RUxzXOksyxnP9DFDl5QbfGoBY71H9aTM=
 detector.tools.	3600	in	ns	guy.ns.cloudflare.com.
 detector.tools.	3600	in	ns	tara.ns.cloudflare.com.
 detox-fashion.tools.	3600	in	ns	ns1.whois.com.
@@ -19231,8 +19223,10 @@ di-ai.tools.	3600	in	ns	ns04.domaincontrol.com.
 di.tools.	3600	in	ns	ns.udag.de.
 di.tools.	3600	in	ns	ns.udag.net.
 di.tools.	3600	in	ns	ns.udag.org.
-diabetes.tools.	3600	in	ns	ns1.squadhelp.com.
-diabetes.tools.	3600	in	ns	ns2.squadhelp.com.
+diabetes.tools.	3600	in	ds	44043 13 2 0EAEC3AAF6201F7688A62217E28BB33EB86E02F23092309ABDE0C27A1FF8E569
+diabetes.tools.	3600	in	ns	launch1.spaceship.net.
+diabetes.tools.	3600	in	ns	launch2.spaceship.net.
+diabetes.tools.	3600	in	rrsig	DS 8 2 3600 20251002034821 20250911024821 35280 tools. c5+lz1o1EqoO9i4WKLbYLXhMM8QZuJrW0GTPALc58o4njBpBRFfzq9lKaZQLFl+xTuXHPfTsUbTq1YXqr9WEogR7WOsRIc4a1FA/Aq/c0sETWYUV6Jj0xExzR13MSPZJ1+v9f8uO0gaIicUV16BBmwm28o/9rRe2apCTNeNNUQo=
 diabetic.tools.	3600	in	ns	ns3.epik.com.
 diabetic.tools.	3600	in	ns	ns4.epik.com.
 diagnose.tools.	3600	in	ns	dns1.namecheaphosting.com.
@@ -19826,8 +19820,8 @@ distilled.tools.	3600	in	ns	ns-1491.awsdns-58.org.
 distilled.tools.	3600	in	ns	ns-1851.awsdns-39.co.uk.
 distilled.tools.	3600	in	ns	ns-359.awsdns-44.com.
 distilled.tools.	3600	in	ns	ns-554.awsdns-05.net.
-distinctive.tools.	3600	in	ns	ns1.bodis.com.
-distinctive.tools.	3600	in	ns	ns2.bodis.com.
+distinctive.tools.	3600	in	ns	ns1.dns-redirect.com.
+distinctive.tools.	3600	in	ns	ns2.dns-redirect.com.
 distinguished.tools.	3600	in	ns	dns1.registrar-servers.com.
 distinguished.tools.	3600	in	ns	dns2.registrar-servers.com.
 distraction.tools.	3600	in	ns	ian.ns.cloudflare.com.
@@ -19847,8 +19841,8 @@ dither.tools.	3600	in	ds	16419 13 2 52E59906727F19ED8BDC1B90FCCF0B74FAE919EBC158
 dither.tools.	3600	in	ns	launch1.spaceship.net.
 dither.tools.	3600	in	ns	launch2.spaceship.net.
 dither.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. vBRpEWKLb2SGqaNt4pT6sllVK89UEZ/DLvtQaZpFl4GQzfwFWG05s1wYfR/wGmOU/xHdiCIQ1h1e0lLQxwubAKzaLEco5S5074tpTsICXAUEVEhm8fY9HVHWLBVEi+VFcnL+N8knFQQDTaI1Fn9o0OTXPGPGzUAMZZGfw6s3UfE=
-ditto.tools.	3600	in	ns	ns1.bodis.com.
-ditto.tools.	3600	in	ns	ns2.bodis.com.
+ditto.tools.	3600	in	ns	ns1.dns-redirect.com.
+ditto.tools.	3600	in	ns	ns2.dns-redirect.com.
 diva.tools.	3600	in	ns	ns10.hostmar.com.
 diva.tools.	3600	in	ns	ns9.hostmar.com.
 dive.tools.	3600	in	ns	ivy.ns.cloudflare.com.
@@ -21339,8 +21333,10 @@ eaglediamond.tools.	3600	in	ns	dns3.arubadns.net.
 eaglediamond.tools.	3600	in	ns	dns4.arubadns.cz.
 eagletools.tools.	3600	in	ns	ns41.domaincontrol.com.
 eagletools.tools.	3600	in	ns	ns42.domaincontrol.com.
-eai.tools.	3600	in	ns	ns1.crazydomains.com.
-eai.tools.	3600	in	ns	ns2.crazydomains.com.
+eai.tools.	3600	in	ns	ns1-07.azure-dns.com.
+eai.tools.	3600	in	ns	ns2-07.azure-dns.net.
+eai.tools.	3600	in	ns	ns3-07.azure-dns.org.
+eai.tools.	3600	in	ns	ns4-07.azure-dns.info.
 eakqix.tools.	3600	in	ns	ns1.dns.com.
 eakqix.tools.	3600	in	ns	ns2.dns.com.
 eap.tools.	3600	in	ns	ns51.domaincontrol.com.
@@ -22412,6 +22408,10 @@ emerge.tools.	3600	in	ns	ns1.vercel-dns.com.
 emerge.tools.	3600	in	ns	ns2.vercel-dns.com.
 emergeai.tools.	3600	in	ns	ns1.vercel-dns.com.
 emergeai.tools.	3600	in	ns	ns2.vercel-dns.com.
+emery.tools.	3600	in	ns	curitiba.ns.porkbun.com.
+emery.tools.	3600	in	ns	fortaleza.ns.porkbun.com.
+emery.tools.	3600	in	ns	maceio.ns.porkbun.com.
+emery.tools.	3600	in	ns	salvador.ns.porkbun.com.
 emf.tools.	3600	in	ns	brodie.ns.cloudflare.com.
 emf.tools.	3600	in	ns	hadlee.ns.cloudflare.com.
 emg.tools.	3600	in	ns	dns1.registrar-servers.com.
@@ -23058,10 +23058,6 @@ eradio.tools.	3600	in	ns	david.ns.cloudflare.com.
 eradio.tools.	3600	in	ns	isabel.ns.cloudflare.com.
 eras.tools.	3600	in	ns	cortney.ns.cloudflare.com.
 eras.tools.	3600	in	ns	dan.ns.cloudflare.com.
-erasedata.tools.	3600	in	ns	ns1hnx.name.com.
-erasedata.tools.	3600	in	ns	ns2hjl.name.com.
-erasedata.tools.	3600	in	ns	ns3cgw.name.com.
-erasedata.tools.	3600	in	ns	ns4lpv.name.com.
 erasmus.tools.	3600	in	ns	ns13.domaincontrol.com.
 erasmus.tools.	3600	in	ns	ns14.domaincontrol.com.
 erate.tools.	3600	in	ns	dns1.registrar-servers.com.
@@ -23823,8 +23819,6 @@ ext.tools.	3600	in	ns	ns-cloud-e4.googledomains.com.
 ext.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. CYbJwclR1NdANNA8fM4bhJzewnr3r14TOl8nZ0YC0QHeVmwR69y3sIhZxA1Fini49UaWra9E8ZXXxn4ZrBqDLxXOz93qUd23LdhfX4x1R8zeIWB/6+xlY5Gs0IdRzMHww9PEyMDHH4SZ6kYUdTuoRQIlqe/VadivDea24jy670E=
 extantcc.tools.	3600	in	ns	gene.ns.cloudflare.com.
 extantcc.tools.	3600	in	ns	terin.ns.cloudflare.com.
-extar.tools.	3600	in	ns	dns101.registrar-servers.com.
-extar.tools.	3600	in	ns	dns102.registrar-servers.com.
 exte.tools.	3600	in	ns	dns1.name-services.com.
 exte.tools.	3600	in	ns	dns2.name-services.com.
 exte.tools.	3600	in	ns	dns3.name-services.com.
@@ -24567,8 +24561,8 @@ feelings.tools.	3600	in	ns	ns1.eurodns.com.
 feelings.tools.	3600	in	ns	ns2.eurodns.com.
 feelings.tools.	3600	in	ns	ns3.eurodns.com.
 feelings.tools.	3600	in	ns	ns4.eurodns.com.
-fein.tools.	3600	in	ns	ns1.bodis.com.
-fein.tools.	3600	in	ns	ns2.bodis.com.
+fein.tools.	3600	in	ns	ns1.dns-redirect.com.
+fein.tools.	3600	in	ns	ns2.dns-redirect.com.
 felco.tools.	3600	in	ns	a.dns.gandi.net.
 felco.tools.	3600	in	ns	b.dns.gandi.net.
 felco.tools.	3600	in	ns	c.dns.gandi.net.
@@ -25524,8 +25518,8 @@ floqast.tools.	3600	in	ns	ns-1191.awsdns-20.org.
 floqast.tools.	3600	in	ns	ns-1582.awsdns-05.co.uk.
 floqast.tools.	3600	in	ns	ns-46.awsdns-05.com.
 floqast.tools.	3600	in	ns	ns-932.awsdns-52.net.
-flora.tools.	3600	in	ns	ns1.bodis.com.
-flora.tools.	3600	in	ns	ns2.bodis.com.
+flora.tools.	3600	in	ns	ns1.dns-redirect.com.
+flora.tools.	3600	in	ns	ns2.dns-redirect.com.
 florida.tools.	3600	in	ns	dns1.p06.nsone.net.
 florida.tools.	3600	in	ns	dns2.p06.nsone.net.
 florida.tools.	3600	in	ns	dns3.p06.nsone.net.
@@ -25831,10 +25825,8 @@ foodies.tools.	3600	in	ns	ns-371.awsdns-46.com.
 foodies.tools.	3600	in	ns	ns-827.awsdns-39.net.
 foodmaven.tools.	3600	in	ns	dana.ns.cloudflare.com.
 foodmaven.tools.	3600	in	ns	koa.ns.cloudflare.com.
-foodready.tools.	3600	in	ns	curitiba.ns.porkbun.com.
-foodready.tools.	3600	in	ns	fortaleza.ns.porkbun.com.
-foodready.tools.	3600	in	ns	maceio.ns.porkbun.com.
-foodready.tools.	3600	in	ns	salvador.ns.porkbun.com.
+foodready.tools.	3600	in	ns	ns1.icemaildns.com.
+foodready.tools.	3600	in	ns	ns2.icemaildns.com.
 foodstandard.tools.	3600	in	ns	liz.ns.cloudflare.com.
 foodstandard.tools.	3600	in	ns	noah.ns.cloudflare.com.
 foodtruck.tools.	3600	in	ns	dns1.registrar-servers.com.
@@ -26115,8 +26107,8 @@ foxhole.tools.	3600	in	ds	5842 8 2 965701364EE3F77F0A6455B6F84900D260BA227639542
 foxhole.tools.	3600	in	ns	dns107.ovh.net.
 foxhole.tools.	3600	in	ns	ns107.ovh.net.
 foxhole.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. HnaMOReoFVxrG7LquM1Snz02QhUQYHENsFRj/HNSqRTIh9jW96R/ZydtkwZ57lS/r4D/45VenPoUZIeDTemZXYhh3v+MhMGRoF7dOgUL1UWUE3WjDJlQipF+MNdIdpgf6HBNNHyASJkQenSAOpvo3+s0MnOuv6kMvl1YNdKBz0g=
-foxx.tools.	3600	in	ns	ns1.bodis.com.
-foxx.tools.	3600	in	ns	ns2.bodis.com.
+foxx.tools.	3600	in	ns	ns1.dns-redirect.com.
+foxx.tools.	3600	in	ns	ns2.dns-redirect.com.
 foxy.tools.	3600	in	ns	dns1.registrar-servers.com.
 foxy.tools.	3600	in	ns	dns2.registrar-servers.com.
 fp.tools.	3600	in	ns	josh.ns.cloudflare.com.
@@ -26433,6 +26425,8 @@ frenchkey.tools.	3600	in	ns	dns102.ovh.net.
 frenchkey.tools.	3600	in	ns	ns102.ovh.net.
 frenpet.tools.	3600	in	ns	pdns11.domaincontrol.com.
 frenpet.tools.	3600	in	ns	pdns12.domaincontrol.com.
+freq.tools.	3600	in	ns	dns1.registrar-servers.com.
+freq.tools.	3600	in	ns	dns2.registrar-servers.com.
 frequentflyer.tools.	3600	in	ns	ns19.domaincontrol.com.
 frequentflyer.tools.	3600	in	ns	ns20.domaincontrol.com.
 fresamill.tools.	3600	in	ns	ns29.domaincontrol.com.
@@ -26985,6 +26979,8 @@ gada.tools.	3600	in	ns	ns75.domaincontrol.com.
 gada.tools.	3600	in	ns	ns76.domaincontrol.com.
 gadfly.tools.	3600	in	ns	izabella.ns.cloudflare.com.
 gadfly.tools.	3600	in	ns	mack.ns.cloudflare.com.
+gadget.tools.	3600	in	ns	ns1.dns-redirect.com.
+gadget.tools.	3600	in	ns	ns2.dns-redirect.com.
 gadgetai.tools.	3600	in	ns	dns1.registrar-servers.com.
 gadgetai.tools.	3600	in	ns	dns2.registrar-servers.com.
 gaeb.tools.	3600	in	ns	ns1040.ui-dns.org.
@@ -27281,10 +27277,6 @@ gasn.tools.	3600	in	ns	ns-454.awsdns-56.com.
 gasn.tools.	3600	in	ns	ns-522.awsdns-01.net.
 gasnow.tools.	3600	in	ns	ns1.dns-parking.com.
 gasnow.tools.	3600	in	ns	ns2.dns-parking.com.
-gaspla.tools.	3600	in	ds	18453 13 2 FEA1D90F6E784C36EA2A448EA5250039AB50D32026B33FCCABCE9B5BB8AFC29B
-gaspla.tools.	3600	in	ns	launch1.spaceship.net.
-gaspla.tools.	3600	in	ns	launch2.spaceship.net.
-gaspla.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. iODf3iou6FxmmCbirgaFW6part5FMH74s+wDaxOClodFLfG3GeMtm7GXpvkJVnROPvH5VlmvDBRpqybSJirOPPUAeryiilOoJAZaDHAE36kkYmTlFsPM0o4mzmicNDeMJmJiSzsP/XWDfvqStUm/lCXjJERoEEtR5O2N1eXxXKs=
 gastly.tools.	3600	in	ns	dns1.registrar-servers.com.
 gastly.tools.	3600	in	ns	dns2.registrar-servers.com.
 gastro.tools.	3600	in	ns	ns1.beta-solutions.ch.
@@ -29258,8 +29250,8 @@ growthkit.tools.	3600	in	ns	dns1.registrar-servers.com.
 growthkit.tools.	3600	in	ns	dns2.registrar-servers.com.
 growthlanguage.tools.	3600	in	ns	dns1.registrar-servers.com.
 growthlanguage.tools.	3600	in	ns	dns2.registrar-servers.com.
-growthos.tools.	3600	in	ns	miki.ns.cloudflare.com.
-growthos.tools.	3600	in	ns	yichun.ns.cloudflare.com.
+growthos.tools.	3600	in	ns	dns101.registrar-servers.com.
+growthos.tools.	3600	in	ns	dns102.registrar-servers.com.
 growthsprint.tools.	3600	in	ns	ns1.hover.com.
 growthsprint.tools.	3600	in	ns	ns2.hover.com.
 growve.tools.	3600	in	ds	18137 8 2 9BDC6DD6B23F1BFC3C500309902CE30306E7A20BAB29ED23145F5FF9AC6EE91F
@@ -30294,6 +30286,8 @@ healthshare.tools.	3600	in	ns	ns-cloud-d1.googledomains.com.
 healthshare.tools.	3600	in	ns	ns-cloud-d2.googledomains.com.
 healthshare.tools.	3600	in	ns	ns-cloud-d3.googledomains.com.
 healthshare.tools.	3600	in	ns	ns-cloud-d4.googledomains.com.
+healthtech.tools.	3600	in	ns	ns1.dns-parking.com.
+healthtech.tools.	3600	in	ns	ns2.dns-parking.com.
 heap.tools.	3600	in	ns	clark.ns.cloudflare.com.
 heap.tools.	3600	in	ns	diva.ns.cloudflare.com.
 hearing.tools.	3600	in	ns	ns55.domaincontrol.com.
@@ -31501,9 +31495,8 @@ http-savastan0.tools.	3600	in	ns	nola.ns.cloudflare.com.
 http-savastan0.tools.	3600	in	ns	theo.ns.cloudflare.com.
 https--savastan0.tools.	3600	in	ns	ns7.alexhost.com.
 https--savastan0.tools.	3600	in	ns	ns8.alexhost.com.
-https-savastan0.tools.	3600	in	ns	pns1.regery.net.
-https-savastan0.tools.	3600	in	ns	pns2.regery.net.
-https-savastan0.tools.	3600	in	ns	pns3.regery.net.
+https-savastan0.tools.	3600	in	ns	ns41.hostia.name.
+https-savastan0.tools.	3600	in	ns	ns42.hostia.name.
 httpstatus.tools.	3600	in	ns	delilah.ns.cloudflare.com.
 httpstatus.tools.	3600	in	ns	jeremy.ns.cloudflare.com.
 htvevsop4h757r0minh8t171t0s0c68u.tools.	3600	in	nsec3	1 1 0 73 HU54BPOBQPB946BOMUPEGIT48GGFSI4F NS DS RRSIG
@@ -32858,8 +32851,8 @@ industry.tools.	3600	in	ns	curitiba.ns.porkbun.com.
 industry.tools.	3600	in	ns	fortaleza.ns.porkbun.com.
 industry.tools.	3600	in	ns	maceio.ns.porkbun.com.
 industry.tools.	3600	in	ns	salvador.ns.porkbun.com.
-indy.tools.	3600	in	ns	ns1.bodis.com.
-indy.tools.	3600	in	ns	ns2.bodis.com.
+indy.tools.	3600	in	ns	ns1.dns-redirect.com.
+indy.tools.	3600	in	ns	ns2.dns-redirect.com.
 inelectro.tools.	3600	in	ds	419 13 1 C789D44014A6F0D00205B96A4F9A4EEDA07244E6
 inelectro.tools.	3600	in	ds	419 13 2 8756A0D2A3282B53318C7577ACB3B6A499C9F3AA8D456BC5E3197D86D7D45BF1
 inelectro.tools.	3600	in	ns	ns11.infomaniak.ch.
@@ -33268,8 +33261,8 @@ instinc.tools.	3600	in	ns	ns10.domaincontrol.com.
 instinct.tools.	3600	in	ns	ns1.thinline.cz.
 instinct.tools.	3600	in	ns	ns2.thinline.cz.
 instinct.tools.	3600	in	ns	ns3.cesky-hosting.eu.
-instore.tools.	3600	in	ns	ns1.bodis.com.
-instore.tools.	3600	in	ns	ns2.bodis.com.
+instore.tools.	3600	in	ns	ns1.dns-redirect.com.
+instore.tools.	3600	in	ns	ns2.dns-redirect.com.
 instructor.tools.	3600	in	ns	dns1.registrar-servers.com.
 instructor.tools.	3600	in	ns	dns2.registrar-servers.com.
 instrument.tools.	3600	in	ns	ns25.domaincontrol.com.
@@ -35526,8 +35519,8 @@ kalculator.tools.	3600	in	ns	ns56.domaincontrol.com.
 kaleido.tools.	3600	in	ns	ns-135-c.gandi.net.
 kaleido.tools.	3600	in	ns	ns-141-a.gandi.net.
 kaleido.tools.	3600	in	ns	ns-78-b.gandi.net.
-kaleidoscope.tools.	3600	in	ns	ns1.bodis.com.
-kaleidoscope.tools.	3600	in	ns	ns2.bodis.com.
+kaleidoscope.tools.	3600	in	ns	ns1.dns-redirect.com.
+kaleidoscope.tools.	3600	in	ns	ns2.dns-redirect.com.
 kalev.tools.	3600	in	ns	clara.ns.cloudflare.com.
 kalev.tools.	3600	in	ns	lamar.ns.cloudflare.com.
 kali.tools.	3600	in	ns	ns.hostland.ru.
@@ -35892,8 +35885,8 @@ kev.tools.	3600	in	ns	ns-cloud-e4.googledomains.com.
 kev.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. MRVh2K+qQxOu25mPtmTstija9PJJQOToN6a01y+EICZkIs20kNc3ckCYfq24e0PNke/suzkvF8G4XB1FPg92k78X39nJADerSWqrB4bjsW7rQog7sI+D2gEs9SFWvgMZrHR/oFmPZRclZDRxSbS8YTqcdRx55tJvsfjjUaGCl+k=
 kewl.tools.	3600	in	ns	dell.ns.cloudflare.com.
 kewl.tools.	3600	in	ns	jim.ns.cloudflare.com.
-kex.tools.	3600	in	ns	dns1.registrar-servers.com.
-kex.tools.	3600	in	ns	dns2.registrar-servers.com.
+kex.tools.	3600	in	ns	archer.ns.cloudflare.com.
+kex.tools.	3600	in	ns	joan.ns.cloudflare.com.
 key-collector.tools.	3600	in	ns	ns1.digitalocean.com.
 key-collector.tools.	3600	in	ns	ns2.digitalocean.com.
 key-collector.tools.	3600	in	ns	ns3.digitalocean.com.
@@ -36116,8 +36109,8 @@ kinky.tools.	3600	in	ns	ns65.domaincontrol.com.
 kinky.tools.	3600	in	ns	ns66.domaincontrol.com.
 kino.tools.	3600	in	ns	dorthy.ns.cloudflare.com.
 kino.tools.	3600	in	ns	doug.ns.cloudflare.com.
-kinogo.tools.	3600	in	ns	ns1.bodis.com.
-kinogo.tools.	3600	in	ns	ns2.bodis.com.
+kinogo.tools.	3600	in	ns	ns1.dns-redirect.com.
+kinogo.tools.	3600	in	ns	ns2.dns-redirect.com.
 kinox.tools.	3600	in	ns	ns1.brainydns.com.
 kinox.tools.	3600	in	ns	ns2.brainydns.com.
 kiod67ggj3d7cprad0637ht53d5rjv3c.tools.	3600	in	nsec3	1 1 0 73 KIQ37T83K127GCDCP2RNN6B725SK1NP5 NS DS RRSIG
@@ -36437,8 +36430,8 @@ koci.tools.	3600	in	ns	hera.ns.cloudflare.com.
 koci.tools.	3600	in	ns	trey.ns.cloudflare.com.
 kod.tools.	3600	in	ns	rudy.ns.cloudflare.com.
 kod.tools.	3600	in	ns	venus.ns.cloudflare.com.
-koda.tools.	3600	in	ns	ns1.bodis.com.
-koda.tools.	3600	in	ns	ns2.bodis.com.
+koda.tools.	3600	in	ns	ns1.dns-redirect.com.
+koda.tools.	3600	in	ns	ns2.dns-redirect.com.
 kodansha.tools.	3600	in	ns	ns-106.awsdns-13.com.
 kodansha.tools.	3600	in	ns	ns-1085.awsdns-07.org.
 kodansha.tools.	3600	in	ns	ns-1775.awsdns-29.co.uk.
@@ -36825,8 +36818,8 @@ ktc.tools.	3600	in	ns	dns1.namecheaphosting.com.
 ktc.tools.	3600	in	ns	dns2.namecheaphosting.com.
 ktisis.tools.	3600	in	ns	chris.ns.cloudflare.com.
 ktisis.tools.	3600	in	ns	nicole.ns.cloudflare.com.
-ku11.tools.	3600	in	ns	ns1.bodis.com.
-ku11.tools.	3600	in	ns	ns2.bodis.com.
+ku11.tools.	3600	in	ns	ns1.dns-redirect.com.
+ku11.tools.	3600	in	ns	ns2.dns-redirect.com.
 kuattro.tools.	3600	in	ns	ns59.domaincontrol.com.
 kuattro.tools.	3600	in	ns	ns60.domaincontrol.com.
 kubala.tools.	3600	in	ns	ns1.sedoparking.com.
@@ -36999,8 +36992,6 @@ kzfgiu.tools.	3600	in	ns	ns1.dns.com.
 kzfgiu.tools.	3600	in	ns	ns2.dns.com.
 kzrgxz.tools.	3600	in	ns	ns1.dns.com.
 kzrgxz.tools.	3600	in	ns	ns2.dns.com.
-l0cal.tools.	3600	in	ns	dns101.registrar-servers.com.
-l0cal.tools.	3600	in	ns	dns102.registrar-servers.com.
 l0g.tools.	3600	in	ns	algin.ns.cloudflare.com.
 l0g.tools.	3600	in	ns	joan.ns.cloudflare.com.
 l0kssjdgdilddhmlmvmdukdgq4a52olp.tools.	3600	in	nsec3	1 1 0 73 L1H7ORJQ2BUAF6UNSJI0S14FH0QPKCM1 NS DS RRSIG
@@ -38379,10 +38370,8 @@ linuxsecurity.tools.	3600	in	ns	ns3.shockmedia.nl.
 linuxsecurity.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. m+C0nU8J9ym4x19BO7d6Py8WB0mfimw57X/BuRGQGOQWej/zp9aal7ogoUuDtboqnxNv9k5wGDWzcDxavFXG/Q4DShjjahgEc95LXZi6LzkwWRdt09o4roiHpKzoVIgMxZUhRsKbyNuaBq8bgzFQKpH3wjKfxY+VG/lqPPhrZlo=
 linxas.tools.	3600	in	ns	dns1.registrar-servers.com.
 linxas.tools.	3600	in	ns	dns2.registrar-servers.com.
-lion.tools.	3600	in	ds	26136 13 2 D906A7E5F28B47985D76300FC9EB20597C25AB554F52B1BAA30EE09A4F358817
-lion.tools.	3600	in	ns	launch1.spaceship.net.
-lion.tools.	3600	in	ns	launch2.spaceship.net.
-lion.tools.	3600	in	rrsig	DS 8 2 3600 20251001212756 20250910202756 35280 tools. FfqrgOg2330GYknQHhTYBr9LkGXFSumuHVovNDN8RRHQo1Sq7RR7AcmYq2HbA11ocCDrbqBTmwHJrvdQI4JkLLiwcZkWOy50kdEkJPzjsb0Nm1ZcYj57SsrGTywuKfhn1CRRHQwVCg8x6oKhLIapgwl97bMEt1Q6YdG9NE1qFug=
+lion.tools.	3600	in	ns	ns1.afternic.com.
+lion.tools.	3600	in	ns	ns2.afternic.com.
 lionlink.tools.	3600	in	ns	archer.ns.cloudflare.com.
 lionlink.tools.	3600	in	ns	novalee.ns.cloudflare.com.
 lionsden.tools.	3600	in	ns	pdns1.registrar-servers.com.
@@ -40013,10 +40002,8 @@ manus.tools.	3600	in	ns	ns1.atom.com.
 manus.tools.	3600	in	ns	ns2.atom.com.
 manusai.tools.	3600	in	ns	holding-ns1.paomi.com.
 manusai.tools.	3600	in	ns	holding-ns2.paomi.com.
-many.tools.	3600	in	ds	58171 13 2 6ED5B9DE9E1FB6050EBBD705626ECFE12FEC7BB2A82EE871C83E7ED615DAC68C
-many.tools.	3600	in	ns	launch1.spaceship.net.
-many.tools.	3600	in	ns	launch2.spaceship.net.
-many.tools.	3600	in	rrsig	DS 8 2 3600 20251001212756 20250910202756 35280 tools. faBapL8JOl8jVYfiHMby/pX0fc2NR0WZnj/Br2WaPBnAyp9wfyh9oYJGfAXCK1rs/3X7iSH/l7bAxCfsDq85vMWv5I77pSfUOA1AB70jmTO2PI2So1WZnGmRx1U1i9KJgPG8hFnLsw1oFbu9T1qX5fv+j0tIuN11+O6DFtJODsU=
+many.tools.	3600	in	ns	ns1.afternic.com.
+many.tools.	3600	in	ns	ns2.afternic.com.
 manyfree.tools.	3600	in	ns	dns1.registrar-servers.com.
 manyfree.tools.	3600	in	ns	dns2.registrar-servers.com.
 mao.tools.	3600	in	ns	ns1.dns-redirect.com.
@@ -40029,6 +40016,8 @@ mapdata.tools.	3600	in	ns	ns1.blacknight.com.
 mapdata.tools.	3600	in	ns	ns2.blacknight.com.
 mapeo.tools.	3600	in	ns	docks15.rzone.de.
 mapeo.tools.	3600	in	ns	shades02.rzone.de.
+maple.tools.	3600	in	ns	ns1.dns-redirect.com.
+maple.tools.	3600	in	ns	ns2.dns-redirect.com.
 mapleads.tools.	3600	in	ns	dns1.registrar-servers.com.
 mapleads.tools.	3600	in	ns	dns2.registrar-servers.com.
 mapleleaf.tools.	3600	in	ns	dns1.cloudns.net.
@@ -40179,6 +40168,8 @@ marketinginnovation.tools.	3600	in	ns	ns2.wordpress.com.
 marketinginnovation.tools.	3600	in	ns	ns3.wordpress.com.
 marketingmastery.tools.	3600	in	ns	ns1.hobbsherder.com.
 marketingmastery.tools.	3600	in	ns	ns2.hobbsherder.com.
+marketingmate.tools.	3600	in	ns	ns1.dns-parking.com.
+marketingmate.tools.	3600	in	ns	ns2.dns-parking.com.
 marketings.tools.	3600	in	ns	ns1.wordpress.com.
 marketings.tools.	3600	in	ns	ns2.wordpress.com.
 marketings.tools.	3600	in	ns	ns3.wordpress.com.
@@ -42088,6 +42079,8 @@ miori.tools.	3600	in	ns	ns.udag.net.
 miori.tools.	3600	in	ns	ns.udag.org.
 mip.tools.	3600	in	ns	ns1.reg.ru.
 mip.tools.	3600	in	ns	ns2.reg.ru.
+mira.tools.	3600	in	ns	ns67.domaincontrol.com.
+mira.tools.	3600	in	ns	ns68.domaincontrol.com.
 mirabeau.tools.	3600	in	ns	ns-1357.awsdns-41.org.
 mirabeau.tools.	3600	in	ns	ns-1848.awsdns-39.co.uk.
 mirabeau.tools.	3600	in	ns	ns-377.awsdns-47.com.
@@ -42125,10 +42118,6 @@ misery.tools.	3600	in	ns	austin.ns.cloudflare.com.
 misery.tools.	3600	in	ns	liz.ns.cloudflare.com.
 mishka.tools.	3600	in	ns	david.ns.cloudflare.com.
 mishka.tools.	3600	in	ns	jill.ns.cloudflare.com.
-miss.tools.	3600	in	ns	ns1cnb.name.com.
-miss.tools.	3600	in	ns	ns2nsy.name.com.
-miss.tools.	3600	in	ns	ns3cna.name.com.
-miss.tools.	3600	in	ns	ns4hmp.name.com.
 missav.tools.	3600	in	ns	ns1.dns-redirect.com.
 missav.tools.	3600	in	ns	ns2.dns-redirect.com.
 missing.tools.	3600	in	ns	ns01.agenturserver.co.
@@ -42326,8 +42315,8 @@ mmorpg.tools.	3600	in	ns	ns1.siteground.net.
 mmorpg.tools.	3600	in	ns	ns2.siteground.net.
 mmoser.tools.	3600	in	ns	pdns1.registrar-servers.com.
 mmoser.tools.	3600	in	ns	pdns2.registrar-servers.com.
-mmp.tools.	3600	in	ns	ns1.bodis.com.
-mmp.tools.	3600	in	ns	ns2.bodis.com.
+mmp.tools.	3600	in	ns	ns1.dns-redirect.com.
+mmp.tools.	3600	in	ns	ns2.dns-redirect.com.
 mmr.tools.	3600	in	ds	15544 8 2 58526F68C40D03CAE3CAAAA06D45925CA53F8F60CC7A65D44385003E92D75F8F
 mmr.tools.	3600	in	ns	ns-cloud-d1.googledomains.com.
 mmr.tools.	3600	in	ns	ns-cloud-d2.googledomains.com.
@@ -43691,8 +43680,8 @@ myappliancerepair.tools.	3600	in	ns	ns65.domaincontrol.com.
 myappliancerepair.tools.	3600	in	ns	ns66.domaincontrol.com.
 myasiantv.tools.	3600	in	ns	achiel.ns.cloudflare.com.
 myasiantv.tools.	3600	in	ns	joselyn.ns.cloudflare.com.
-myawesome.tools.	3600	in	ns	dns1.registrar-servers.com.
-myawesome.tools.	3600	in	ns	dns2.registrar-servers.com.
+myawesome.tools.	3600	in	ns	dns101.registrar-servers.com.
+myawesome.tools.	3600	in	ns	dns102.registrar-servers.com.
 mybenefit.tools.	3600	in	ns	isaac.ns.cloudflare.com.
 mybenefit.tools.	3600	in	ns	megan.ns.cloudflare.com.
 mybetting.tools.	3600	in	ns	ns-1275.awsdns-31.org.
@@ -43976,8 +43965,8 @@ mymtg.tools.	3600	in	ns	dns1.registrar-servers.com.
 mymtg.tools.	3600	in	ns	dns2.registrar-servers.com.
 mynd.tools.	3600	in	ns	dns1.registrar-servers.com.
 mynd.tools.	3600	in	ns	dns2.registrar-servers.com.
-mynet.tools.	3600	in	ns	ns1.bodis.com.
-mynet.tools.	3600	in	ns	ns2.bodis.com.
+mynet.tools.	3600	in	ns	ns1.dns-redirect.com.
+mynet.tools.	3600	in	ns	ns2.dns-redirect.com.
 mynos.tools.	3600	in	ns	dns1.registrar-servers.com.
 mynos.tools.	3600	in	ns	dns2.registrar-servers.com.
 mynotes.tools.	3600	in	ns	ns1.vercel-dns.com.
@@ -44590,8 +44579,6 @@ nealblim.tools.	3600	in	ns	mdns7.hostwindsdns.com.
 nealblim.tools.	3600	in	ns	mdns8.hostwindsdns.com.
 near.tools.	3600	in	ns	chan.ns.cloudflare.com.
 near.tools.	3600	in	ns	hans.ns.cloudflare.com.
-nearme.tools.	3600	in	ns	dns101.registrar-servers.com.
-nearme.tools.	3600	in	ns	dns102.registrar-servers.com.
 neat.tools.	3600	in	ns	donald.ns.cloudflare.com.
 neat.tools.	3600	in	ns	lara.ns.cloudflare.com.
 neatly.tools.	3600	in	ns	chip.ns.cloudflare.com.
@@ -45613,8 +45600,6 @@ no88.tools.	3600	in	ns	ns1.dns-redirect.com.
 no88.tools.	3600	in	ns	ns2.dns-redirect.com.
 noa.tools.	3600	in	ns	ns1.bluehost.com.
 noa.tools.	3600	in	ns	ns2.bluehost.com.
-noah.tools.	3600	in	ns	dns101.registrar-servers.com.
-noah.tools.	3600	in	ns	dns102.registrar-servers.com.
 noahs.tools.	3600	in	ns	dns1.registrar-servers.com.
 noahs.tools.	3600	in	ns	dns2.registrar-servers.com.
 noahs.tools.	3600	in	ns	dns3.registrar-servers.com.
@@ -46083,10 +46068,8 @@ nquibn5p5oovqfavrm06gkgktfqmqtun.tools.	3600	in	nsec3	1 1 0 73 NR2AO7P8PTG6D29TT
 nquibn5p5oovqfavrm06gkgktfqmqtun.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. iPgnQ4l5eXkR4Bje+2MrxBiVoML+ZEgWw4ZDTRIotrFuANCuDkNUj0EY5bsYXR4C4PgYXC0uRCOTEEOiSsvoaK3E+8R78AMzg0LYXkTDtpPK+i+k0reAI1GXRJvikijlOmQdwnZKhbNP2treHyY01uRc+tsIyAvHne92h4xCAyk=
 nr2ao7p8ptg6d29ttr04iul9ovfs6rcr.tools.	3600	in	nsec3	1 1 0 73 NR3FGBUEQ8273AL04GHO8060UTUM0AM7 NS DS RRSIG
 nr2ao7p8ptg6d29ttr04iul9ovfs6rcr.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. p8nzRv+LW+FPCbsCSzhKhFUkO8kVLUXzY6TQpbYIeH7zZoVET4oWO7RY+zJwgGl/gBSJFqfn8HL7wkWc39kABWA0UY0yQyZJj0PoyI4RRD/qu8K9aJEOp9Lx86zhYKHzJ5k0Qip0quGSx8AIRgsYm6RhDF/tvL1/06pAPtYZHms=
-nr3fgbueq8273al04gho8060utum0am7.tools.	3600	in	nsec3	1 1 0 73 NR9O4T34SKQ8OIU0V55QJV05CTABIQCU NS DS RRSIG
-nr3fgbueq8273al04gho8060utum0am7.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. V1ngvZ9k7maO8owmfpv2ktUxZrDnkCRzvVsdESId6zXh4ECG9v89pUv/dnY1Wi7prlazf3zqiLk4E4H8/uN4lGKtKKPZd8z0hOAiJxJVIlXSEy5lUY3BNNhtzWneDgUcPRi+aW4wUYjLVyfOKAis/hSvPeQ6esxy5B8FxnilBLM=
-nr9o4t34skq8oiu0v55qjv05ctabiqcu.tools.	3600	in	nsec3	1 1 0 73 NS42GI1PIIBB8KV7MUM5FEO37Q36SQH4 NS DS RRSIG
-nr9o4t34skq8oiu0v55qjv05ctabiqcu.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. JFPYUhlrmS/DldwZaUU8SeuUYb8lNp8NRKDe44jda/Iylr4aruj7+qqwIIx+V6GiZZm+MI9tpc5vpIkvBVUkHD/vjFpZKLH5Z+rt/B1eKzIhMaBnCPoOY7R4JwUNXKsdAigchGEJxM11AtHS4TSkD2JgdbPSm1GKLhHNDAuzT10=
+nr3fgbueq8273al04gho8060utum0am7.tools.	3600	in	nsec3	1 1 0 73 NS42GI1PIIBB8KV7MUM5FEO37Q36SQH4 NS DS RRSIG
+nr3fgbueq8273al04gho8060utum0am7.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251002162832 20250911152832 35280 tools. mIkToMFvZYBE8Arc/YHBFdeLlAeQxa4dFiWHZkcaRTLd27+pHqqjIujd50vBEEmcUlJ3kthIyPTCwvTk4/NRdxjIGXFrwQHemgK7/hlvw/v+20hR6qSPcIACCae9iuoPCYjU73mEcrCv2HMkn0Yt8YpKZOeDZoLpw40OJDuxmcM=
 nrmijk.tools.	3600	in	ns	ns1.dns.com.
 nrmijk.tools.	3600	in	ns	ns2.dns.com.
 nrml.tools.	3600	in	ns	ns-1217.awsdns-24.org.
@@ -46133,8 +46116,8 @@ ns0.brutal.tools.	3600	in	a	51.178.81.211
 ns0.brutal.tools.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns0.cms-platform.tools.	3600	in	a	144.76.29.78
 ns0.setka.tools.	3600	in	a	188.40.227.67
-ns0.worth.tools.	3600	in	a	46.105.30.208
-ns0.worth.tools.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns0.worth.tools.	3600	in	a	51.178.81.211
+ns0.worth.tools.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns1.1234.tools.	3600	in	a	23.22.36.153
 ns1.2ip.tools.	3600	in	a	54.235.233.235
 ns1.797.tools.	3600	in	a	162.211.82.56
@@ -46271,8 +46254,8 @@ ns1.webradio.tools.	3600	in	a	167.114.43.0
 ns1.webserver.tools.	3600	in	a	136.243.16.120
 ns1.websolution.tools.	3600	in	a	198.244.169.164
 ns1.wobo.tools.	3600	in	a	199.192.16.154
-ns1.worth.tools.	3600	in	a	46.105.30.208
-ns1.worth.tools.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns1.worth.tools.	3600	in	a	51.178.81.211
+ns1.worth.tools.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns1.xnm.tools.	3600	in	a	164.92.114.92
 ns1045.ui-dns.org.bink.tools.	3600	in	a	217.160.83.45
 ns2.1234.tools.	3600	in	a	23.22.36.153
@@ -46394,8 +46377,8 @@ ns2.webradio.tools.	3600	in	a	192.99.242.156
 ns2.webserver.tools.	3600	in	a	136.243.16.120
 ns2.websolution.tools.	3600	in	a	198.244.169.164
 ns2.wobo.tools.	3600	in	a	199.192.16.154
-ns2.worth.tools.	3600	in	a	46.105.30.208
-ns2.worth.tools.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns2.worth.tools.	3600	in	a	51.178.81.211
+ns2.worth.tools.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns2.xnm.tools.	3600	in	a	164.92.114.92
 ns3.2ip.tools.	3600	in	a	54.221.24.77
 ns3.amaext.tools.	3600	in	a	134.119.17.44
@@ -47309,8 +47292,6 @@ olivier.tools.	3600	in	ds	31909 8 2 EA82F2A1BC6071B96E5C16832022D032D199BACDF213
 olivier.tools.	3600	in	ns	dns14.ovh.net.
 olivier.tools.	3600	in	ns	ns14.ovh.net.
 olivier.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. cyd4RER8USJfuMY5kJ9i76NhAo7Eccq1LDGDkbSPDE90Qqjo02K6sKdOyMwnbcOR/YjqGMncEKb/1dCKjbx8ms80pfR7PXiGT3PZPTQwFeHTwIJhKuvPwMGOy2UTg3CTq0EDfgq4Dzr/0rF0FSud2cGWRwGVg4ra5u+FHsBxXH8=
-ollama.tools.	3600	in	ns	dns101.registrar-servers.com.
-ollama.tools.	3600	in	ns	dns102.registrar-servers.com.
 ollie.tools.	3600	in	ns	ns1.sedoparking.com.
 ollie.tools.	3600	in	ns	ns2.sedoparking.com.
 ollo.tools.	3600	in	ns	ns-1030.awsdns-00.org.
@@ -48032,6 +48013,8 @@ opens.tools.	3600	in	ns	ns4.combell.net.
 opens.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. lXZsNTmvxH4PBbPicKrGqzeMTgkpHlk+Oon3uJDc45giULYvMWRQxh6sUK5wSZcYG56wY7AGGrAcvn1dnhIxvuNlteZKM21Z/Zx2N7CgVzUMqwzgdjf6UGsXUeZPvb5/zrBL0+UIpPs8rBflD8FnUXkXwh5ABgPYneoJ4DUIM34=
 openscale.tools.	3600	in	ns	dns1.registrar-servers.com.
 openscale.tools.	3600	in	ns	dns2.registrar-servers.com.
+opensci.tools.	3600	in	ns	ns31.domaincontrol.com.
+opensci.tools.	3600	in	ns	ns32.domaincontrol.com.
 opensea.tools.	3600	in	ns	ainsley.ns.cloudflare.com.
 opensea.tools.	3600	in	ns	miguel.ns.cloudflare.com.
 opensilicon.tools.	3600	in	ds	20812 8 2 3039972900E918344E27CC45927B65B6E7ED97B8EFD2CB00385A501073D9027D
@@ -48881,7 +48864,7 @@ p7s1.tools.	3600	in	ns	ns-1723.awsdns-23.co.uk.
 p7s1.tools.	3600	in	ns	ns-297.awsdns-37.com.
 p7s1.tools.	3600	in	ns	ns-584.awsdns-09.net.
 p8c6dct7qp6vlp8i2ed4epsr2nq72ag4.tools.	3600	in	nsec3	1 1 0 73 P8CKT0D7H6KKG72L8Q0NSE7GRUOPS4JO NS SOA RRSIG DNSKEY NSEC3PARAM
-p8c6dct7qp6vlp8i2ed4epsr2nq72ag4.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251002013103 20250911003103 35280 tools. hrUIBW8afiRNJ1S/zCe1VqoC5SD5w3mUO4qP4Mfhv2H/xvSOwHhFabVYNfDnw64Eb1eZ0WiWzqc7G/xxsO1Dv/s9X54L2sU1nOZmtdLmov3zFs6X3gpUtG0xsWF8PyykQgLYMyvLDRKIl3t8NJwkIAxLYoi3k7uvL43oCJIX/+U=
+p8c6dct7qp6vlp8i2ed4epsr2nq72ag4.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251003011653 20250912001653 35280 tools. jgZsREpEz1XJAbeL1ksF/kXfscPV2o5v/HiKmtnHDUyjSK0huzkFk2XrYxH26A+zCQ/XQdylvK2h/7civqP61x950CNgfKmagW3+YBIngdd+otXoXcNZMIwna4mwZj6UbwVlSrfA2EXD06S8tkxuSo+H4E4O8o2+mvcJ4bCuBxc=
 p8ckt0d7h6kkg72l8q0nse7gruops4jo.tools.	3600	in	nsec3	1 1 0 73 P8DM5IN7U4F33BJC1T9N1U4LTI9TIALJ NS DS RRSIG
 p8ckt0d7h6kkg72l8q0nse7gruops4jo.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. OnBaAKT7qkGkh4+9LZ+WWO509/eLgSUyy/L+gLoMSrW80Qhv+pUlfcC/sWWgLtfqe3x6/3v02bCjzKZQqllF+XSH/UIM5L70XBsEsMDqPpZRFqR8+r50EGUqDvqRSB2TBfp17P+awG21K4elned5FwByIM+1SHN47ee0DiC+upc=
 p8dm5in7u4f33bjc1t9n1u4lti9tialj.tools.	3600	in	nsec3	1 1 0 73 P8QLFB58KA8QEILFIC9DCACN5N8QTR8M NS DS RRSIG
@@ -48968,6 +48951,8 @@ padgbcp.tools.	3600	in	ns	ns1.dns.com.
 padgbcp.tools.	3600	in	ns	ns2.dns.com.
 padisah.tools.	3600	in	ns	elma.ns.cloudflare.com.
 padisah.tools.	3600	in	ns	gordon.ns.cloudflare.com.
+paf.tools.	3600	in	ns	dns1.registrar-servers.com.
+paf.tools.	3600	in	ns	dns2.registrar-servers.com.
 page.tools.	3600	in	ns	ns1.afternic.com.
 page.tools.	3600	in	ns	ns2.afternic.com.
 pagemodel.tools.	3600	in	ns	dns1.registrar-servers.com.
@@ -49234,6 +49219,8 @@ parent.tools.	3600	in	ns	dns1.registrar-servers.com.
 parent.tools.	3600	in	ns	dns2.registrar-servers.com.
 parenting.tools.	3600	in	ns	dns1.registrar-servers.com.
 parenting.tools.	3600	in	ns	dns2.registrar-servers.com.
+parentingkey.tools.	3600	in	ns	ns1.dns-parking.com.
+parentingkey.tools.	3600	in	ns	ns2.dns-parking.com.
 parentingtoolkit.tools.	3600	in	ns	connect1.squarespacedns.com.
 parentingtoolkit.tools.	3600	in	ns	connect2.squarespacedns.com.
 parents.tools.	3600	in	ns	ns1.dns-parking.com.
@@ -49287,8 +49274,8 @@ paronyx.tools.	3600	in	ns	ns1027.ui-dns.org.
 paronyx.tools.	3600	in	ns	ns1059.ui-dns.com.
 paronyx.tools.	3600	in	ns	ns1086.ui-dns.biz.
 paronyx.tools.	3600	in	ns	ns1110.ui-dns.de.
-parquet.tools.	3600	in	ns	ns1.bodis.com.
-parquet.tools.	3600	in	ns	ns2.bodis.com.
+parquet.tools.	3600	in	ns	ns1.dns-redirect.com.
+parquet.tools.	3600	in	ns	ns2.dns-redirect.com.
 parrot.tools.	3600	in	ns	ns45.domaincontrol.com.
 parrot.tools.	3600	in	ns	ns46.domaincontrol.com.
 parrotcenter.tools.	3600	in	ns	ns1.dns-parking.com.
@@ -51627,6 +51614,8 @@ powerdev.tools.	3600	in	ns	ns104.ovh.net.
 powerdrill.tools.	3600	in	ns	alfa.ns.active24.cz.
 powerdrill.tools.	3600	in	ns	beta.ns.active24.cz.
 powerdrill.tools.	3600	in	ns	gama.ns.active24.sk.
+powerfiles.tools.	3600	in	ns	aaden.ns.cloudflare.com.
+powerfiles.tools.	3600	in	ns	meiling.ns.cloudflare.com.
 powerful.tools.	3600	in	ds	52345 8 2 B5B21A593333002DC2E1792A0D8DD7309E26D142D80C233BCB706789D3477B78
 powerful.tools.	3600	in	ns	ns-cloud-e1.googledomains.com.
 powerful.tools.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -51980,8 +51969,8 @@ presstab.tools.	3600	in	ns	dns1.registrar-servers.com.
 presstab.tools.	3600	in	ns	dns2.registrar-servers.com.
 pressurewashbirmingham.tools.	3600	in	ns	ns1.dyna-ns.net.
 pressurewashbirmingham.tools.	3600	in	ns	ns2.dyna-ns.net.
-prestige.tools.	3600	in	ns	ns1.bodis.com.
-prestige.tools.	3600	in	ns	ns2.bodis.com.
+prestige.tools.	3600	in	ns	ns1.dns-redirect.com.
+prestige.tools.	3600	in	ns	ns2.dns-redirect.com.
 presto.tools.	3600	in	ds	52890 13 2 BAF9C5D733109867F62E19A5C6B186BB26B795A767CD05A7A2C2E790A015D16B
 presto.tools.	3600	in	ns	ns-1187.awsdns-20.org.
 presto.tools.	3600	in	ns	ns-1977.awsdns-55.co.uk.
@@ -53233,6 +53222,10 @@ py.tools.	3600	in	ns	pdns07.domaincontrol.com.
 py.tools.	3600	in	ns	pdns08.domaincontrol.com.
 pype.tools.	3600	in	ns	ns1.vercel-dns.com.
 pype.tools.	3600	in	ns	ns2.vercel-dns.com.
+pypi.tools.	3600	in	ds	20770 13 2 69B4C985855F4294C7CCCA15A4CD771E6437985A761CD363BC8B6526ADC46E2A
+pypi.tools.	3600	in	ns	launch1.spaceship.net.
+pypi.tools.	3600	in	ns	launch2.spaceship.net.
+pypi.tools.	3600	in	rrsig	DS 8 2 3600 20251002121510 20250911111510 35280 tools. HvwrP//vVRoMKwk6RInq2aHTT7sOMWHZjnIBCOVkbaQzqdgkzM/KdPDVQ9pSZUcREIjW6IFJemDICsRiGtLjShq/xnqFZxdLGZZIsPBb2fzBmsGeba5tvHP+6hUMrxyNd6gICGp6KpXf7j3GTB37aPjxX2bS7f9NjG2ShXultLo=
 pyrfd.tools.	3600	in	ns	ns1.netsto.net.
 pyro.tools.	3600	in	ns	ns.inwx.de.
 pyro.tools.	3600	in	ns	ns2.inwx.de.
@@ -53926,13 +53919,11 @@ r1ss47shd5dhtj2eiaj23lo1ma3m56lv.tools.	3600	in	nsec3	1 1 0 73 R27J6S9EOB4LRBQGN
 r1ss47shd5dhtj2eiaj23lo1ma3m56lv.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. T+65QK3ugeJr/lAmE4FcweNx6Vhg/1QE9kEFuiicWiy7G/1B3xk8hr/lJvVmfqY9F9T7iZik3iAMLPknuLVo8p56AXaWn9gWuPpocYSF7JhNxx6g36N69bMWo7UafBOW6We+brhhla/Kyv66E6JNUGtyUhsusjdZcE4FRuquLCg=
 r27j6s9eob4lrbqgnhkvgpmgjc6ruk21.tools.	3600	in	nsec3	1 1 0 73 R38N5RU6L6GQ2O646FL3JCFCL4D8GLPQ NS DS RRSIG
 r27j6s9eob4lrbqgnhkvgpmgjc6ruk21.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. AEMcf5vgVg/nCsLIhk+XvxTI6z6nuTq82DjnyxBKio6Xzmit6gM5iLF9bF6EiDOOlbpRVXWgq+IQrTpvC1M0t0oaap3TkOKPnAm8uCHGd+Sh/AaQ9xOM4odRrS1fcLEGulFo44TnKEpqE3jGkYksaXzjLBgBBV3yA4lovLYfQF0=
-r38n5ru6l6gq2o646fl3jcfcl4d8glpq.tools.	3600	in	nsec3	1 1 0 73 R3DO7DTGSLB7JMPKIA602SDO1OIK4UEM NS DS RRSIG
-r38n5ru6l6gq2o646fl3jcfcl4d8glpq.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. cKvR2JyD44wFT33CnfU8+gSs+Z5q5FXNHF8KdgxD2hzScXk2QlhM1i3sbAaMZm0p720e6dLe51ojlug9RZotjVFcP27Pv9wED7wKNTA7m0XG1nmA9ed7+fIJ5Bjv+20OJT2cDjrA7UU1mnT3pn5JJS6X/0EUR2WhT4CzJusDLrw=
+r38n5ru6l6gq2o646fl3jcfcl4d8glpq.tools.	3600	in	nsec3	1 1 0 73 R47NELST4MKB1E06RA2QH2HAH7DH8P7F NS DS RRSIG
+r38n5ru6l6gq2o646fl3jcfcl4d8glpq.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251003001357 20250911231357 35280 tools. j+4WgO+U9XaIyJTEAGWp1Ud3eKc30HxVWZYkwa0bfOSBpDcqRTX4HOFcSwW+Fm39XM6o/v6dqiEwqJyKON/rpMYkSnMD82GsAA6nVw5PXb1cUov2HFopMU+/VZPmXXatVhKhd1s10gdZ7x64p3+EyePH/XKyUQZsBtocl/cIsQU=
 r3d.tools.	3600	in	ns	ns1.r3d.tools.
 r3d.tools.	3600	in	ns	ns2.r3d.tools.
 r3d.tools.	3600	in	ns	ns3.r3d.tools.
-r3do7dtgslb7jmpkia602sdo1oik4uem.tools.	3600	in	nsec3	1 1 0 73 R47NELST4MKB1E06RA2QH2HAH7DH8P7F NS DS RRSIG
-r3do7dtgslb7jmpkia602sdo1oik4uem.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. dlVVYubhgnTCkYtPQ0HG9MrJtZmTecXREJbLsdNog7pKkCKaOAEMU5FaI2G/86+w0sTHV2jeMyRX6+cW6MLyMt1JmzXuRb6hMdYMW41Y95p9+omn4w5PA7aIPbjfoFtkGcfFmfMSZsBT+KOFm5OeCd61Ntj561I4eNOJUwgZMPs=
 r47nelst4mkb1e06ra2qh2hah7dh8p7f.tools.	3600	in	nsec3	1 1 0 73 R4P093RI0TATRQO1K51SKEGC1N4R2INQ NS DS RRSIG
 r47nelst4mkb1e06ra2qh2hah7dh8p7f.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. im2bE5pHtXEayC1Br0cmMonmn5XzM7qa4h6oOT4Sl46AuQJvTKKzTJZd53/YyBaHqDUhF8KpT2msnTYfvCk2mwjbkibzzvjkwsuIuzsBRUuWpvK54nZVxtGyqsp2uvFxfQcU4wo2dVKd7pdLxkxlKwGshHLl8IDkjKM/+OfanhQ=
 r4p093ri0tatrqo1k51skegc1n4r2inq.tools.	3600	in	nsec3	1 1 0 73 R4QB0FTGROE0629RPNJO8S7AKVRU8O42 NS DS RRSIG
@@ -54006,10 +53997,8 @@ racking.tools.	3600	in	ns	ns45.domaincontrol.com.
 racking.tools.	3600	in	ns	ns46.domaincontrol.com.
 racoon.tools.	3600	in	ns	ns1.renewyourname.net.
 racoon.tools.	3600	in	ns	ns2.renewyourname.net.
-rad.tools.	3600	in	ds	8426 13 2 876D8F04BD1D449CF70AA36C9B596B84B7A5483BCAC36C0C2B12D0CB46C3914B
-rad.tools.	3600	in	ns	launch1.spaceship.net.
-rad.tools.	3600	in	ns	launch2.spaceship.net.
-rad.tools.	3600	in	rrsig	DS 8 2 3600 20251001212756 20250910202756 35280 tools. tD5ekm95uaO3cWOJbKquiKjySN7+xZBq+pxoJGXUWVlgoNehRXXcGmibs6EjfgZPQqSYvQVwAHV3URXLAMmebmFqBrrAt/ZPT2xvS+mwjTy20/kNrFAXyYGyT+tJDecOC68TvGybQrf8skNwYPrIiG5Omen16NFUEURH33cldnw=
+rad.tools.	3600	in	ns	ns1.afternic.com.
+rad.tools.	3600	in	ns	ns2.afternic.com.
 radai.tools.	3600	in	ns	ns1.dyna-ns.net.
 radai.tools.	3600	in	ns	ns2.dyna-ns.net.
 radar.tools.	3600	in	ns	ns-cloud-c1.googledomains.com.
@@ -54150,6 +54139,8 @@ raksasa123.tools.	3600	in	ns	ns53.domaincontrol.com.
 raksasa123.tools.	3600	in	ns	ns54.domaincontrol.com.
 raku-pdf.tools.	3600	in	ns	dns1.registrar-servers.com.
 raku-pdf.tools.	3600	in	ns	dns2.registrar-servers.com.
+rally.tools.	3600	in	ns	ns1.afternic.com.
+rally.tools.	3600	in	ns	ns2.afternic.com.
 ram-tool.tools.	3600	in	ns	ns13.worldnic.com.
 ram-tool.tools.	3600	in	ns	ns14.worldnic.com.
 ramalanpamansam.tools.	3600	in	ns	ns1.ngtools.site.
@@ -56915,19 +56906,16 @@ saasup.tools.	3600	in	ns	dns2.registrar-servers.com.
 saavastaan0.tools.	3600	in	ns	ns.inwx.com.
 saavastaan0.tools.	3600	in	ns	ns2.inwx.com.
 saavastaan0.tools.	3600	in	ns	ns3.inwx.eu.
-saavastan0.tools.	3600	in	ns	pns1.regery.net.
-saavastan0.tools.	3600	in	ns	pns2.regery.net.
-saavastan0.tools.	3600	in	ns	pns3.regery.net.
+saavastan0.tools.	3600	in	ns	ns1.owlhost.net.
+saavastan0.tools.	3600	in	ns	ns2.owlhost.net.
 saba.tools.	3600	in	ns	edna.ns.cloudflare.com.
 saba.tools.	3600	in	ns	jerome.ns.cloudflare.com.
-sabastan0.tools.	3600	in	ns	pns1.regery.net.
-sabastan0.tools.	3600	in	ns	pns2.regery.net.
-sabastan0.tools.	3600	in	ns	pns3.regery.net.
+sabastan0.tools.	3600	in	ns	ns1.owlhost.net.
+sabastan0.tools.	3600	in	ns	ns2.owlhost.net.
 sabertooth.tools.	3600	in	ns	gemma.ns.cloudflare.com.
 sabertooth.tools.	3600	in	ns	razvan.ns.cloudflare.com.
-sacastan0.tools.	3600	in	ns	pns1.regery.net.
-sacastan0.tools.	3600	in	ns	pns2.regery.net.
-sacastan0.tools.	3600	in	ns	pns3.regery.net.
+sacastan0.tools.	3600	in	ns	ns1.owlhost.net.
+sacastan0.tools.	3600	in	ns	ns2.owlhost.net.
 sacastano.tools.	3600	in	ns	ns3.owlhost.net.
 sacastano.tools.	3600	in	ns	ns4.owlhost.net.
 sacbrnaorespondersite.tools.	3600	in	ns	jason.ns.cloudflare.com.
@@ -57314,9 +57302,8 @@ sassy.tools.	3600	in	ns	olga.ns.cloudflare.com.
 sassy.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. jecCRQCKfPITpn2qhGxVMuwEizTU2NzfI9v+m6OUSrEAxyGdBOqVtgWECuieNLHR4iTzqrst/4bZcKkh95FxEHhFxJQLEYmukkuV5I+U3Rx2u7BlfNPW4vgfuH6WRapuZwcz+2L9ZwslyTLCxXydBLsSVRoWp7BYKQgeu60PBL4=
 sast.tools.	3600	in	ns	dns1.registrar-servers.com.
 sast.tools.	3600	in	ns	dns2.registrar-servers.com.
-sasvastan0.tools.	3600	in	ns	pns1.regery.net.
-sasvastan0.tools.	3600	in	ns	pns2.regery.net.
-sasvastan0.tools.	3600	in	ns	pns3.regery.net.
+sasvastan0.tools.	3600	in	ns	ns1.owlhost.net.
+sasvastan0.tools.	3600	in	ns	ns2.owlhost.net.
 sat.tools.	3600	in	ns	charles.ns.cloudflare.com.
 sat.tools.	3600	in	ns	pearl.ns.cloudflare.com.
 sata.tools.	3600	in	ns	ns11.xincache.com.
@@ -57364,9 +57351,8 @@ saul.tools.	3600	in	ns	ns1.dns-parking.com.
 saul.tools.	3600	in	ns	ns2.dns-parking.com.
 sava-stan0.tools.	3600	in	ns	ns3.my-ndns.com.
 sava-stan0.tools.	3600	in	ns	ns4.my-ndns.com.
-savaastan0.tools.	3600	in	ns	pns1.regery.net.
-savaastan0.tools.	3600	in	ns	pns2.regery.net.
-savaastan0.tools.	3600	in	ns	pns3.regery.net.
+savaastan0.tools.	3600	in	ns	ns1.owlhost.net.
+savaastan0.tools.	3600	in	ns	ns2.owlhost.net.
 savaestan0.tools.	3600	in	ns	ns1.bluehost.in.
 savaestan0.tools.	3600	in	ns	ns2.bluehost.in.
 savage.tools.	3600	in	ns	ns1.resolver.cx.
@@ -57379,12 +57365,10 @@ savas-stan0.tools.	3600	in	ns	ns4.my-ndns.com.
 savas-tan0.tools.	3600	in	ns	ns.inwx.com.
 savas-tan0.tools.	3600	in	ns	ns2.inwx.com.
 savas-tan0.tools.	3600	in	ns	ns3.inwx.eu.
-savasan0.tools.	3600	in	ns	pns1.regery.net.
-savasan0.tools.	3600	in	ns	pns2.regery.net.
-savasan0.tools.	3600	in	ns	pns3.regery.net.
-savasatan0.tools.	3600	in	ns	pns1.regery.net.
-savasatan0.tools.	3600	in	ns	pns2.regery.net.
-savasatan0.tools.	3600	in	ns	pns3.regery.net.
+savasan0.tools.	3600	in	ns	ns1.owlhost.net.
+savasan0.tools.	3600	in	ns	ns2.owlhost.net.
+savasatan0.tools.	3600	in	ns	ns1.owlhost.net.
+savasatan0.tools.	3600	in	ns	ns2.owlhost.net.
 savasatan0cc.tools.	3600	in	ns	ns1.amsterdam-hosting.to.
 savasatan0cc.tools.	3600	in	ns	ns2.amsterdam-hosting.to.
 savasatn0.tools.	3600	in	ns	norah.ns.cloudflare.com.
@@ -57393,9 +57377,8 @@ savasaton.tools.	3600	in	ns	ns1.owlhost.net.
 savasaton.tools.	3600	in	ns	ns2.owlhost.net.
 savasaton0.tools.	3600	in	ns	guy.ns.cloudflare.com.
 savasaton0.tools.	3600	in	ns	sureena.ns.cloudflare.com.
-savasran0.tools.	3600	in	ns	pns1.regery.net.
-savasran0.tools.	3600	in	ns	pns2.regery.net.
-savasran0.tools.	3600	in	ns	pns3.regery.net.
+savasran0.tools.	3600	in	ns	ns1.owlhost.net.
+savasran0.tools.	3600	in	ns	ns2.owlhost.net.
 savasrano.tools.	3600	in	ns	ns3.owlhost.net.
 savasrano.tools.	3600	in	ns	ns4.owlhost.net.
 savasrano0.tools.	3600	in	ns	ns3.owlhost.net.
@@ -57406,17 +57389,14 @@ savasstan0.tools.	3600	in	ns	ns3.inwx.eu.
 savast0n.tools.	3600	in	ns	ns.inwx.com.
 savast0n.tools.	3600	in	ns	ns2.inwx.com.
 savast0n.tools.	3600	in	ns	ns3.inwx.eu.
-savasta0.tools.	3600	in	ns	pns1.regery.net.
-savasta0.tools.	3600	in	ns	pns2.regery.net.
-savasta0.tools.	3600	in	ns	pns3.regery.net.
-savasta0n.tools.	3600	in	ns	pns1.regery.net.
-savasta0n.tools.	3600	in	ns	pns2.regery.net.
-savasta0n.tools.	3600	in	ns	pns3.regery.net.
-savastaan0.tools.	3600	in	ns	danica.ns.cloudflare.com.
-savastaan0.tools.	3600	in	ns	drew.ns.cloudflare.com.
-savastab0.tools.	3600	in	ns	pns1.regery.net.
-savastab0.tools.	3600	in	ns	pns2.regery.net.
-savastab0.tools.	3600	in	ns	pns3.regery.net.
+savasta0.tools.	3600	in	ns	ns1.owlhost.net.
+savasta0.tools.	3600	in	ns	ns2.owlhost.net.
+savasta0n.tools.	3600	in	ns	ns1.owlhost.net.
+savasta0n.tools.	3600	in	ns	ns2.owlhost.net.
+savastaan0.tools.	3600	in	ns	ns1.dns-expired.com.
+savastaan0.tools.	3600	in	ns	ns2.dns-expired.com.
+savastab0.tools.	3600	in	ns	ns1.owlhost.net.
+savastab0.tools.	3600	in	ns	ns2.owlhost.net.
 savastaen0.tools.	3600	in	ns	alaric.ns.cloudflare.com.
 savastaen0.tools.	3600	in	ns	monroe.ns.cloudflare.com.
 savastah0.tools.	3600	in	ns	ns3.owlhost.net.
@@ -57424,9 +57404,8 @@ savastah0.tools.	3600	in	ns	ns4.owlhost.net.
 savastain0.tools.	3600	in	ns	ns.inwx.com.
 savastain0.tools.	3600	in	ns	ns2.inwx.com.
 savastain0.tools.	3600	in	ns	ns3.inwx.eu.
-savastam0.tools.	3600	in	ns	pns1.regery.net.
-savastam0.tools.	3600	in	ns	pns2.regery.net.
-savastam0.tools.	3600	in	ns	pns3.regery.net.
+savastam0.tools.	3600	in	ns	ns1.owlhost.net.
+savastam0.tools.	3600	in	ns	ns2.owlhost.net.
 savastan-0.tools.	3600	in	ns	ariadne.ns.cloudflare.com.
 savastan-0.tools.	3600	in	ns	evan.ns.cloudflare.com.
 savastan.tools.	3600	in	ns	ariadne.ns.cloudflare.com.
@@ -57436,9 +57415,8 @@ savastan0-cc.tools.	3600	in	ns	sergi.ns.cloudflare.com.
 savastan0.tools.	3600	in	ns	a.dnspod.com.
 savastan0.tools.	3600	in	ns	b.dnspod.com.
 savastan0.tools.	3600	in	ns	c.dnspod.com.
-savastan00.tools.	3600	in	ns	pns1.regery.net.
-savastan00.tools.	3600	in	ns	pns2.regery.net.
-savastan00.tools.	3600	in	ns	pns3.regery.net.
+savastan00.tools.	3600	in	ns	ns1.owlhost.net.
+savastan00.tools.	3600	in	ns	ns2.owlhost.net.
 savastan09.tools.	3600	in	ns	ns3.owlhost.net.
 savastan09.tools.	3600	in	ns	ns4.owlhost.net.
 savastan0cvv.tools.	3600	in	ns	riya.ns.cloudflare.com.
@@ -57453,12 +57431,10 @@ savastan0shop.tools.	3600	in	ns	ns3.inwx.eu.
 savastan0tools.tools.	3600	in	ns	ns.inwx.com.
 savastan0tools.tools.	3600	in	ns	ns2.inwx.com.
 savastan0tools.tools.	3600	in	ns	ns3.inwx.eu.
-savastan8.tools.	3600	in	ns	pns1.regery.net.
-savastan8.tools.	3600	in	ns	pns2.regery.net.
-savastan8.tools.	3600	in	ns	pns3.regery.net.
-savastan9.tools.	3600	in	ns	pns1.regery.net.
-savastan9.tools.	3600	in	ns	pns2.regery.net.
-savastan9.tools.	3600	in	ns	pns3.regery.net.
+savastan8.tools.	3600	in	ns	ns1.owlhost.net.
+savastan8.tools.	3600	in	ns	ns2.owlhost.net.
+savastan9.tools.	3600	in	ns	ns1.owlhost.net.
+savastan9.tools.	3600	in	ns	ns2.owlhost.net.
 savastana0.tools.	3600	in	ns	aria.ns.cloudflare.com.
 savastana0.tools.	3600	in	ns	mitchell.ns.cloudflare.com.
 savastana0cc.tools.	3600	in	ns	dns3.netcloudns.com.
@@ -57477,17 +57453,16 @@ savastanno.tools.	3600	in	ns	ns2.inwx.com.
 savastanno.tools.	3600	in	ns	ns3.inwx.eu.
 savastano.tools.	3600	in	ns	dns1.registrar-servers.com.
 savastano.tools.	3600	in	ns	dns2.registrar-servers.com.
-savastano0.tools.	3600	in	ns	pns1.regery.net.
-savastano0.tools.	3600	in	ns	pns2.regery.net.
-savastano0.tools.	3600	in	ns	pns3.regery.net.
+savastano0.tools.	3600	in	ns	clay.ns.cloudflare.com.
+savastano0.tools.	3600	in	ns	lorna.ns.cloudflare.com.
 savastanoo.tools.	3600	in	ns	ns1.qhoster.net.
 savastanoo.tools.	3600	in	ns	ns2.qhoster.net.
 savastanoo.tools.	3600	in	ns	ns3.qhoster.net.
 savastanoo.tools.	3600	in	ns	ns4.qhoster.net.
 savastanp.tools.	3600	in	ns	ns3.owlhost.net.
 savastanp.tools.	3600	in	ns	ns4.owlhost.net.
-savastans0.tools.	3600	in	ns	enwp111.hostingraja.org.
-savastans0.tools.	3600	in	ns	enwp112.hostingraja.org.
+savastans0.tools.	3600	in	ns	dns101.registrar-servers.com.
+savastans0.tools.	3600	in	ns	dns102.registrar-servers.com.
 savastanv0.tools.	3600	in	ns	ns.inwx.com.
 savastanv0.tools.	3600	in	ns	ns2.inwx.com.
 savastanv0.tools.	3600	in	ns	ns3.inwx.eu.
@@ -57510,9 +57485,8 @@ savastna0.tools.	3600	in	ns	ns3.qhoster.net.
 savastna0.tools.	3600	in	ns	ns4.qhoster.net.
 savastsn0.tools.	3600	in	ns	ns3.owlhost.net.
 savastsn0.tools.	3600	in	ns	ns4.owlhost.net.
-savasttan0.tools.	3600	in	ns	pns1.regery.net.
-savasttan0.tools.	3600	in	ns	pns2.regery.net.
-savasttan0.tools.	3600	in	ns	pns3.regery.net.
+savasttan0.tools.	3600	in	ns	ns1.owlhost.net.
+savasttan0.tools.	3600	in	ns	ns2.owlhost.net.
 savastun0.tools.	3600	in	ns	ns1.dns-parking.com.
 savastun0.tools.	3600	in	ns	ns2.dns-parking.com.
 savastyan0.tools.	3600	in	ns	ns3.owlhost.net.
@@ -57521,9 +57495,8 @@ savasyan0.tools.	3600	in	ns	ns3.owlhost.net.
 savasyan0.tools.	3600	in	ns	ns4.owlhost.net.
 savasztan0.tools.	3600	in	ns	nola.ns.cloudflare.com.
 savasztan0.tools.	3600	in	ns	theo.ns.cloudflare.com.
-savatan0.tools.	3600	in	ns	pns1.regery.net.
-savatan0.tools.	3600	in	ns	pns2.regery.net.
-savatan0.tools.	3600	in	ns	pns3.regery.net.
+savatan0.tools.	3600	in	ns	ns1.owlhost.net.
+savatan0.tools.	3600	in	ns	ns2.owlhost.net.
 savatsan.tools.	3600	in	ns	free5.googiehost.com.
 savatsan.tools.	3600	in	ns	free6.googiehost.com.
 savatsan0.tools.	3600	in	ns	athena.ns.cloudflare.com.
@@ -57571,9 +57544,8 @@ savoye.tools.	3600	in	ns	ns4.brandshelter.net.
 savoye.tools.	3600	in	ns	ns5.brandshelter.us.
 savsastan0.tools.	3600	in	ns	ed.ns.cloudflare.com.
 savsastan0.tools.	3600	in	ns	gloria.ns.cloudflare.com.
-savsatan0.tools.	3600	in	ns	pns1.regery.net.
-savsatan0.tools.	3600	in	ns	pns2.regery.net.
-savsatan0.tools.	3600	in	ns	pns3.regery.net.
+savsatan0.tools.	3600	in	ns	ns1.owlhost.net.
+savsatan0.tools.	3600	in	ns	ns2.owlhost.net.
 savstan.tools.	3600	in	ns	doug.ns.cloudflare.com.
 savstan.tools.	3600	in	ns	heather.ns.cloudflare.com.
 savstan0.tools.	3600	in	ns	ariadne.ns.cloudflare.com.
@@ -57594,9 +57566,8 @@ savtsan0.tools.	3600	in	ns	ns-1339.awsdns-39.org.
 savtsan0.tools.	3600	in	ns	ns-1840.awsdns-38.co.uk.
 savtsan0.tools.	3600	in	ns	ns-275.awsdns-34.com.
 savtsan0.tools.	3600	in	ns	ns-779.awsdns-33.net.
-savvastan0.tools.	3600	in	ns	pns1.regery.net.
-savvastan0.tools.	3600	in	ns	pns2.regery.net.
-savvastan0.tools.	3600	in	ns	pns3.regery.net.
+savvastan0.tools.	3600	in	ns	ns1.owlhost.net.
+savvastan0.tools.	3600	in	ns	ns2.owlhost.net.
 savvy.tools.	3600	in	ns	ns1.hover.com.
 savvy.tools.	3600	in	ns	ns2.hover.com.
 savvyy.tools.	3600	in	ns	ns-cloud-c1.googledomains.com.
@@ -59757,6 +59728,8 @@ simplemedia.tools.	3600	in	ns	ns1091.ui-dns.org.
 simplemedia.tools.	3600	in	ns	ns1112.ui-dns.de.
 simplemoney.tools.	3600	in	ns	dns1.namecheaphosting.com.
 simplemoney.tools.	3600	in	ns	dns2.namecheaphosting.com.
+simpleonline.tools.	3600	in	ns	guss.ns.cloudflare.com.
+simpleonline.tools.	3600	in	ns	rayne.ns.cloudflare.com.
 simplepdf.tools.	3600	in	ns	ns1063.ui-dns.biz.
 simplepdf.tools.	3600	in	ns	ns1076.ui-dns.org.
 simplepdf.tools.	3600	in	ns	ns1121.ui-dns.com.
@@ -60614,8 +60587,10 @@ smcg.tools.	3600	in	ns	ns1082.ui-dns.org.
 smcg.tools.	3600	in	ns	ns1092.ui-dns.biz.
 smdxh.tools.	3600	in	ns	ns1.dyna-ns.net.
 smdxh.tools.	3600	in	ns	ns2.dyna-ns.net.
-sme.tools.	3600	in	ns	dns1.namecheaphosting.com.
-sme.tools.	3600	in	ns	dns2.namecheaphosting.com.
+sme.tools.	3600	in	ns	ns1.monikerdns.net.
+sme.tools.	3600	in	ns	ns2.monikerdns.net.
+sme.tools.	3600	in	ns	ns3.monikerdns.net.
+sme.tools.	3600	in	ns	ns4.monikerdns.net.
 smedia.tools.	3600	in	ns	ns-1.seibert-media-dns.net.
 smedia.tools.	3600	in	ns	ns-2.seibert-media-dns.net.
 smelly.tools.	3600	in	ns	amos.ns.cloudflare.com.
@@ -61448,8 +61423,8 @@ sov.tools.	3600	in	ns	ns37.domaincontrol.com.
 sov.tools.	3600	in	ns	ns38.domaincontrol.com.
 sova.tools.	3600	in	ns	ns1.dns-redirect.com.
 sova.tools.	3600	in	ns	ns2.dns-redirect.com.
-sovastan0.tools.	3600	in	ns	ns1.bluehost.in.
-sovastan0.tools.	3600	in	ns	ns2.bluehost.in.
+sovastan0.tools.	3600	in	ns	dns15.parkpage.foundationapi.com.
+sovastan0.tools.	3600	in	ns	dns16.parkpage.foundationapi.com.
 sovereign.tools.	3600	in	ns	dns1.registrar-servers.com.
 sovereign.tools.	3600	in	ns	dns2.registrar-servers.com.
 sovereignstack.tools.	3600	in	ns	ns1.wordpress.com.
@@ -62017,8 +61992,8 @@ sqr400flash.tools.	3600	in	ns	dns1.namecheaphosting.com.
 sqr400flash.tools.	3600	in	ns	dns2.namecheaphosting.com.
 sqrdjmhvk7jaeo58pqojbb0da34as39i.tools.	3600	in	nsec3	1 1 0 73 SR90OVHVPO78SGNT85KVJSC42KG0HQI0 NS DS RRSIG
 sqrdjmhvk7jaeo58pqojbb0da34as39i.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. dzUBuwgtNjV7bI92dicOW1sFIDisXzkelIDIL88MrkMIQvZi4EnHOAl4NWqC8sHBlEchlPNA2Y7O1xneZBF0m043iVZJ/STLmINSivQSlEf/Xm/FRMtJEZ6v/FfDM+ICbrZIHEQDxOq8oeXwLdc5GJJDeekiyEaKSjHlQPNt+qM=
-sqrl.tools.	3600	in	ns	ns1.bodis.com.
-sqrl.tools.	3600	in	ns	ns2.bodis.com.
+sqrl.tools.	3600	in	ns	ns1.dns-redirect.com.
+sqrl.tools.	3600	in	ns	ns2.dns-redirect.com.
 sqsp.tools.	3600	in	ds	59391 13 2 73D6E6C9D10EBA11120CD3749E3FE8268DA9027CFB78456B6CF32F01CFC8029B
 sqsp.tools.	3600	in	ns	launch1.spaceship.net.
 sqsp.tools.	3600	in	ns	launch2.spaceship.net.
@@ -62037,6 +62012,8 @@ square-cash.tools.	3600	in	ns	ns-10.awsdns-01.com.
 square-cash.tools.	3600	in	ns	ns-1327.awsdns-37.org.
 square-cash.tools.	3600	in	ns	ns-2004.awsdns-58.co.uk.
 square-cash.tools.	3600	in	ns	ns-712.awsdns-25.net.
+square1.tools.	3600	in	ns	ns47.domaincontrol.com.
+square1.tools.	3600	in	ns	ns48.domaincontrol.com.
 squash.tools.	3600	in	ds	11963 13 1 1D049006C8D98F0298B88338B0D13F7010D42741
 squash.tools.	3600	in	ns	dns1.registrar-servers.com.
 squash.tools.	3600	in	ns	dns2.registrar-servers.com.
@@ -62095,9 +62072,8 @@ ssa.tools.	3600	in	ns	gene.ns.cloudflare.com.
 ssa.tools.	3600	in	ns	marek.ns.cloudflare.com.
 ssanf2lekkrjvhd3seg5fgjhah75t98h.tools.	3600	in	nsec3	1 1 0 73 SSJO76FU2KFILC270TASESLMKMQ68N0L NS DS RRSIG
 ssanf2lekkrjvhd3seg5fgjhah75t98h.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. h8VLM+E7Z3ZOWxa+O5Ed8zohqnh16elyEPm675h4GEczS6x/i7wauoyUvcJsfuK+G0LF/CYgfn5YMbICDJKEDqHRr5cTFn2h48ul5mcLbYz6iLrjUe6V1TSyw/Wpq1ovPRl/AwPxz5IThg3guyNGvmda4hztnscQMdDMnLpZ+4Y=
-ssavastan0.tools.	3600	in	ns	pns1.regery.net.
-ssavastan0.tools.	3600	in	ns	pns2.regery.net.
-ssavastan0.tools.	3600	in	ns	pns3.regery.net.
+ssavastan0.tools.	3600	in	ns	ns1.owlhost.net.
+ssavastan0.tools.	3600	in	ns	ns2.owlhost.net.
 ssc.tools.	3600	in	ns	autumn.ns.cloudflare.com.
 ssc.tools.	3600	in	ns	kipp.ns.cloudflare.com.
 sscpottery.tools.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -63426,8 +63402,8 @@ superintelligence.tools.	3600	in	ds	35660 13 2 3D4A8491668EF18B1808CEDB8BAEB9761
 superintelligence.tools.	3600	in	ns	launch1.spaceship.net.
 superintelligence.tools.	3600	in	ns	launch2.spaceship.net.
 superintelligence.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. VdAIiOdkc8ws2BV7Ssj4OMmw3QlMTZrvESO6Uk6kH7EGOch/6ttr0oNeYteq5Yx9DLsvePhD0HLeZY/Gei01RljmUyhGJiKml6VhiibLrpWEIoWv4RE8jEaiD85N0Pzgk8tjzitUaWxAfBygh659Z7QdKxe7J1edevSiX4RVkOE=
-superintelligent.tools.	3600	in	ns	ns1.afternic.com.
-superintelligent.tools.	3600	in	ns	ns2.afternic.com.
+superintelligent.tools.	3600	in	ns	launch1.spaceship.net.
+superintelligent.tools.	3600	in	ns	launch2.spaceship.net.
 superion.tools.	3600	in	ns	blackhole-1.iana.org.
 superion.tools.	3600	in	ns	blackhole-2.iana.org.
 superiorconcrete.tools.	3600	in	ns	ns1.bluehost.com.
@@ -63648,6 +63624,9 @@ swa.tools.	3600	in	ns	ns3.interdns.co.uk.
 swa.tools.	3600	in	ns	ns4.interdns.co.uk.
 swade.tools.	3600	in	ns	dns1.registrar-servers.com.
 swade.tools.	3600	in	ns	dns2.registrar-servers.com.
+swag.tools.	3600	in	ns	ns1.dnsowl.com.
+swag.tools.	3600	in	ns	ns2.dnsowl.com.
+swag.tools.	3600	in	ns	ns3.dnsowl.com.
 swagelok.tools.	3600	in	ns	ns1.eurodns.com.
 swagelok.tools.	3600	in	ns	ns2.eurodns.com.
 swagelok.tools.	3600	in	ns	ns3.eurodns.com.
@@ -64438,8 +64417,8 @@ taro.tools.	3600	in	ns	dns1.registrar-servers.com.
 taro.tools.	3600	in	ns	dns2.registrar-servers.com.
 tars.tools.	3600	in	ns	eoin.ns.cloudflare.com.
 tars.tools.	3600	in	ns	peaches.ns.cloudflare.com.
-tas.tools.	3600	in	ns	ns1.bodis.com.
-tas.tools.	3600	in	ns	ns2.bodis.com.
+tas.tools.	3600	in	ns	ns1.dns-redirect.com.
+tas.tools.	3600	in	ns	ns2.dns-redirect.com.
 tascl.tools.	3600	in	ns	dns101.registrar-servers.com.
 tascl.tools.	3600	in	ns	dns102.registrar-servers.com.
 task-sequencing.tools.	3600	in	ns	dns1.registrar-servers.com.
@@ -66973,7 +66952,7 @@ tools.	3600	in	nsec3param	1 0 0 73
 tools.	3600	in	rrsig	DNSKEY 8 1 3600 20250930160859 20250909150859 13831 tools. XSYgl0zIbGFXQXd3IDST+Jb6UEFZ14adneBmc4pFitiO4D01PDdACTXC7bm+xED+ln037pWGh+FwW1F7VHjqZS31EuTFljhPzfUGyhZcYXlJ5wdjUhkfUS9yg80qtx8vNaY50adAJnTGV7jfm3w/i/j8yRaniHaSiPeq1sfTwetajgxaFHsMuU0wLif32aXomiEVXE1+h7SI/f+ZSb8Ou/RcmEQ+eg8KMB/8YzE4ZfaygH1tYYRCuYoFl0lpuCoitXbYVWUmU/mll7SeYbtmN5shO98vTXCEiwZnbPfedpOy/asqMgFl/JL9PUxv8dtfbbDxDCuESXsL0YlPa6t7lg==
 tools.	3600	in	rrsig	NS 8 1 3600 20250930160859 20250909150859 35280 tools. bqk091o4GlhhQ2zKW+RVoaZ0Dv9d7ZSJyOcIGinKW0JtNDHgE4v+unRPu60vB7/DMIFeFbljxNL6XubRmE4KLdN5+AYvn3AYn638ECRMLiBSlCxdlCLlMlmX6j0hiD1bmtZOBBa3VB7Ahoj6OwcohdjMK2WpGSe+gXnx+jdj1Ac=
 tools.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930160859 20250909150859 35280 tools. ZY7CIERbw1/cfIEl6e+nQYWCGHIVDeFzVRuki96MtQFDDYlYf5V3tqXGEXBXF15texhi/rLc6hYzmRG6XjpGSzyQb/LNAkMHwBKYT7FXY7C6yK27ixJJgIDNy10gxxMfauZnzoYQB1eONcKau3FYxO05Ea01UYEcEVredCWVyd4=
-tools.	3600	in	rrsig	SOA 8 1 3600 20251002013103 20250911003103 35280 tools. YHYsYKeHBcSTjTOTbW10kt0yO4d7TR1NtOYVpCB3dpqNi9+ItYQgjpbdGbi2AiipPKsDMFZSQ0jWdTe7oBbniIC42BCmxNpFuAUbAEVcc5n5bMIMkDNNVwkrURUMb1lVdQt/voblPjDMLq6nGYXHjScMBgQ5zAo5Z5tbo1S1m3w=
+tools.	3600	in	rrsig	SOA 8 1 3600 20251003011653 20250912001653 35280 tools. Ebq4HgdrgtfnGEyTonYOQJhkrnYSb/LE+vUAfe9zAVdDE1r0Cum44uxXKoknTtoNJIGnjlfynII+GScO75OBf0zodh0fgauY43ZqSkumdWPIGIrlSTLPZOdQppgwIUP2jaKmrAqNNLd3m5vHMt7pxJf87TTJKz1NOfo4Qqi3l0A=
 tools.tools.	3600	in	ns	ns1.gagarin2501.hospedagemdesites.ws.
 tools.tools.	3600	in	ns	ns2.gagarin2501.hospedagemdesites.ws.
 tools4.tools.	3600	in	ns	ns1020.ui-dns.org.
@@ -67457,8 +67436,8 @@ trackgear.tools.	3600	in	ns	ns20.domaincontrol.com.
 tracking.tools.	3600	in	ns	ns1.digitalocean.com.
 tracking.tools.	3600	in	ns	ns2.digitalocean.com.
 tracking.tools.	3600	in	ns	ns3.digitalocean.com.
-trackingos.tools.	3600	in	ns	frida.ns.cloudflare.com.
-trackingos.tools.	3600	in	ns	kevin.ns.cloudflare.com.
+trackingos.tools.	3600	in	ns	ns1.dyna-ns.net.
+trackingos.tools.	3600	in	ns	ns2.dyna-ns.net.
 trackit.tools.	3600	in	ns	hera.ns.cloudflare.com.
 trackit.tools.	3600	in	ns	rayden.ns.cloudflare.com.
 trackmy.tools.	3600	in	ns	jermaine.ns.cloudflare.com.
@@ -67597,10 +67576,8 @@ trainer.tools.	3600	in	ns	ns25.domaincontrol.com.
 trainer.tools.	3600	in	ns	ns26.domaincontrol.com.
 trainers.tools.	3600	in	ns	norman.ns.cloudflare.com.
 trainers.tools.	3600	in	ns	tara.ns.cloudflare.com.
-training.tools.	3600	in	ds	9975 13 2 B15D51C642995FE8B8A3833D5012850DE7157429EF4B739EC973AEB3F84DD1D7
-training.tools.	3600	in	ns	launch1.spaceship.net.
-training.tools.	3600	in	ns	launch2.spaceship.net.
-training.tools.	3600	in	rrsig	DS 8 2 3600 20251001212756 20250910202756 35280 tools. OUiwRsbLmPKR2PcLqQbMrTJPqsXSb5dr3zrDGYz+qe1MYDprwvz0i0+o2VaFbk2nkWCTPaqVYN2sW1cJagb12k+aaUBvndMLioQbGyoR3YRGtaslqC7te76T3e+Xl1gJRkseLe2ePU+v96tTmRkY8qM/CbHlqDO8sCTUo628xFE=
+training.tools.	3600	in	ns	ns1.afternic.com.
+training.tools.	3600	in	ns	ns2.afternic.com.
 trainings.tools.	3600	in	ns	docks11.rzone.de.
 trainings.tools.	3600	in	ns	shades07.rzone.de.
 trainline.tools.	3600	in	ns	addilyn.ns.cloudflare.com.
@@ -68192,8 +68169,6 @@ tsystems.tools.	3600	in	ns	ns5.brandshelter.us.
 tt-hub.tools.	3600	in	ns	ns.second-ns.com.
 tt-hub.tools.	3600	in	ns	ns1.your-server.de.
 tt-hub.tools.	3600	in	ns	ns3.second-ns.de.
-tt.tools.	3600	in	ns	ns1.bodis.com.
-tt.tools.	3600	in	ns	ns2.bodis.com.
 tt22gdie444v7uk68pg19pfr1ks659dv.tools.	3600	in	nsec3	1 1 0 73 TTK0RH1TKRSGMJK853HD17ISA2CBJ575 NS DS RRSIG
 tt22gdie444v7uk68pg19pfr1ks659dv.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. P1MIwAFF9qhhgfW5LPCoQz79DuHT45rICtWtE7UhGkIL7bT410Cvr85YEz5jNgSKS1dYbUkx/lw91mKTNooo6GUChHfJGJu6PTjSYIivFF88jSnvZQwcllAJ3EPLDw+KC89qJ/nzyANLJZmaKMlPS9OoB0fwhKbdVc75cje2Fqo=
 tt88.tools.	3600	in	ns	carmelo.ns.cloudflare.com.
@@ -69501,8 +69476,8 @@ uplight.tools.	3600	in	ns	ns-1360.awsdns-42.org.
 uplight.tools.	3600	in	ns	ns-1837.awsdns-37.co.uk.
 uplight.tools.	3600	in	ns	ns-359.awsdns-44.com.
 uplight.tools.	3600	in	ns	ns-671.awsdns-19.net.
-uplink.tools.	3600	in	ns	dns1.registrar-servers.com.
-uplink.tools.	3600	in	ns	dns2.registrar-servers.com.
+uplink.tools.	3600	in	ns	dns101.registrar-servers.com.
+uplink.tools.	3600	in	ns	dns102.registrar-servers.com.
 uplnk.tools.	3600	in	ns	ns1-05.azure-dns.com.
 uplnk.tools.	3600	in	ns	ns2-05.azure-dns.net.
 uplnk.tools.	3600	in	ns	ns3-05.azure-dns.org.
@@ -69991,12 +69966,10 @@ v4d.tools.	3600	in	ns	zod.ns.cloudflare.com.
 v4d.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. F6iV21oeJ7q8zh4JJuelR8jCPC1uejlWGjEvst0/XH0gthdi4UNXuJu+ERGLLnNsM7zB8ZwWbXReF8Q8sDWQB9VNytj/DBcdlDVTUEn/vGCRNKGzWx0nwtRQmrlpsaOV47vZobAN/Ah0XFIOY1j0fle7mRKqdKxF2FIuOCj0xpg=
 v4hi0rdgkg90hakb7nqrh1agpjnibllf.tools.	3600	in	nsec3	1 1 0 73 V4N34JHII1H95TPDFJMOHT8O37RLHBVD NS DS RRSIG
 v4hi0rdgkg90hakb7nqrh1agpjnibllf.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. KIQY/RDOR9Q23YpCXRnaz7+wLTpeVaUQlQJU/aTCIzRXO0DocZPd17u+8Y2I3C1tzLqoJaDFpM6UAFr8WGssFAqz4wCkE2X0L8DhZLN8wUO+zTf3Zz9Z3mS57qBNFP7YCvaNrM/iKwHZncaUKW8Amy58o9ILFwvNSOLC/YhwmD8=
-v4n34jhii1h95tpdfjmoht8o37rlhbvd.tools.	3600	in	nsec3	1 1 0 73 V5V8RGC1G0GOTO26OFSMTA7O4MDN5JIU NS DS RRSIG
-v4n34jhii1h95tpdfjmoht8o37rlhbvd.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251001212756 20250910202756 35280 tools. dG9I2lmGxheToJAKY+lx3cMboJkhUFNyJRJYgth1zA+UY94FDEix1+8AAciTZHlky4TcuCNCynkVGAGC8X0v5NoUDLvCU2tQG8U9gumxvsyK524UcfDczjrbNGqmqxpOk3SO4x4tOU1uURH0IaYdykX9apsPyKf0S65Z7HDG7WQ=
+v4n34jhii1h95tpdfjmoht8o37rlhbvd.tools.	3600	in	nsec3	1 1 0 73 V6FJHSUK3244G10MR271TT69P7I8KJTK NS DS RRSIG
+v4n34jhii1h95tpdfjmoht8o37rlhbvd.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251002142205 20250911132205 35280 tools. DfpJDwVZ/N6w74EvSYNrCPYoff7wJgkzVGWJ27nlvVde7hDQeTkV11P2mhFjjysTHD4XbD24m2uNKz0si5iTBeI1OjKvJ3eAMV2Qn9yPMTGgMClfdJyGnW+BT+rqlm4qkOLC9lqgd2eVmzCgj7+bINBoMXe9meM0by2CuvmrZZQ=
 v50.tools.	3600	in	ns	carlane.ns.cloudflare.com.
 v50.tools.	3600	in	ns	rocco.ns.cloudflare.com.
-v5v8rgc1g0goto26ofsmta7o4mdn5jiu.tools.	3600	in	nsec3	1 1 0 73 V6FJHSUK3244G10MR271TT69P7I8KJTK NS DS RRSIG
-v5v8rgc1g0goto26ofsmta7o4mdn5jiu.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251001212756 20250910202756 35280 tools. DaEHb1D4vQSyaFhwm/LojmP1MsrEAIaOTPz5wkzHydoETs11WxZhYq/VJns3+8T9zWjZaWtT1xnrrhKnjZ3JCpErfDX9IsJT71fgMtXseR6p25fjUCa0pMZIcSOKmcafG//Y4AQ7XFHvP6O3lDclyabeQsB7caXmSvtU0ICbagc=
 v6.tools.	3600	in	ns	dns1.registrar-servers.com.
 v6.tools.	3600	in	ns	dns2.registrar-servers.com.
 v6fjhsuk3244g10mr271tt69p7i8kjtk.tools.	3600	in	nsec3	1 1 0 73 V7129BKJRRKDRROJEKOTKC2ODK8NRPQ1 NS DS RRSIG
@@ -70429,8 +70402,8 @@ vera.tools.	3600	in	ns	ns1040.ui-dns.biz.
 vera.tools.	3600	in	ns	ns1042.ui-dns.org.
 vera.tools.	3600	in	ns	ns1120.ui-dns.com.
 vera.tools.	3600	in	ns	ns1124.ui-dns.de.
-veracity.tools.	3600	in	ns	ns1.bodis.com.
-veracity.tools.	3600	in	ns	ns2.bodis.com.
+veracity.tools.	3600	in	ns	ns1.dns-redirect.com.
+veracity.tools.	3600	in	ns	ns2.dns-redirect.com.
 veracityvs.tools.	3600	in	ns	ns-1430.awsdns-50.org.
 veracityvs.tools.	3600	in	ns	ns-2037.awsdns-62.co.uk.
 veracityvs.tools.	3600	in	ns	ns-232.awsdns-29.com.
@@ -71162,10 +71135,8 @@ vk.tools.	3600	in	ns	dns1.registrar-servers.com.
 vk.tools.	3600	in	ns	dns2.registrar-servers.com.
 vke0nhl9fktqdgke23hs20oq0htjdivv.tools.	3600	in	nsec3	1 1 0 73 VKE67OAK10PCKD91R731QGRC0F8GETLR NS DS RRSIG
 vke0nhl9fktqdgke23hs20oq0htjdivv.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. gnFZJxrFnpXzupp5F+/OM6qI9+3ER2mTV+tERCf7WRoEkoQsKz/v25DlUQ80xis+vnTgTSw+lNsQMyHm7CPony0FcC0NDeFpBrpt6h00oG6pgWhNcwVTT2MFkWwHvUbgxvr05iesC1tVblqnqm+w75A3Ytc56j2Q/JPpwTC/5Pk=
-vke67oak10pckd91r731qgrc0f8getlr.tools.	3600	in	nsec3	1 1 0 73 VKQQ8PEDV3QF45FAULSEGHPMN1HE59JE NS DS RRSIG
-vke67oak10pckd91r731qgrc0f8getlr.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. KdocMOjvsz/2QGfkIFx56qzrbuEmk0d3vIgFehb3vniVMdcpNNolNMwnASFrnZfeHxCZMy/8FqHDXYUWYug0ZCLv9AsWuMVOyv21nTvEt9wrYJEiUcnOglh8hmFsKfZtkKDtwNTdrcV1SWS/m9V5RqPBgbcXK+7rhd3sS2QgxoM=
-vkqq8pedv3qf45faulseghpmn1he59je.tools.	3600	in	nsec3	1 1 0 73 VL3U1RBEAGH0LMQVFMJJE6FH8ENNBF3D NS DS RRSIG
-vkqq8pedv3qf45faulseghpmn1he59je.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. LdgfEC0xrVnq4kQdtHwwrBHTahZDrUsQ0qgkEmNTtyy5U15GIEmlpYyOEhkpYEg3Lb1sOJV6FaV9jzjLsR7pOJEJEEF3KQ1IRuS+y2xelKGGMPh9M+G95aYRDiPo+mkHx5XkHQdeJTyV2Zm3TVyuJu7aB7A7OOVQt1jGztajPmk=
+vke67oak10pckd91r731qgrc0f8getlr.tools.	3600	in	nsec3	1 1 0 73 VL3U1RBEAGH0LMQVFMJJE6FH8ENNBF3D NS DS RRSIG
+vke67oak10pckd91r731qgrc0f8getlr.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251002084404 20250911074404 35280 tools. l3QiaMnn2AEq21xu7FDL55p5/aq+gcUR/v6VQXSo2nosdDC6DIgcbdkLyhkWxRMonPaB3p0gsFMyi1cj8U6kIjS9Cm3OHVPc22Z61OPp753LigRd/nY1xX+F8t/HdK0ZuhyD8eTeUVABF485AB0EVhyOTlfR+VqjIoRROLejTws=
 vktech.tools.	3600	in	ns	ns1.mail.ru.
 vktech.tools.	3600	in	ns	ns2.mail.ru.
 vl3u1rbeagh0lmqvfmjje6fh8ennbf3d.tools.	3600	in	nsec3	1 1 0 73 VLBF6S7MRNM6M4H381MTGUOJV3DTDSV0 NS DS RRSIG
@@ -71187,14 +71158,16 @@ vlei.tools.	3600	in	ns	ns3gxy.name.com.
 vlei.tools.	3600	in	ns	ns4dmx.name.com.
 vllm.tools.	3600	in	ns	dns1.registrar-servers.com.
 vllm.tools.	3600	in	ns	dns2.registrar-servers.com.
-vlmmvn03pkupfbvdll4vcn20n2t54l1n.tools.	3600	in	nsec3	1 1 0 73 VLSJKT23VTUA4IF1MIQV4RFIMF9P1M7K NS DS RRSIG
-vlmmvn03pkupfbvdll4vcn20n2t54l1n.tools.	3600	in	rrsig	NSEC3 8 2 3600 20250930160859 20250909150859 35280 tools. l7mbEF7NC3AqcUc68+UBqLhGmp30bv7pXSeDGM89DL9ns16zrWZyhVCIipcyszhCk/o4nMm3tsYW5pTybbPfnRpFhAvoBAdFAbnTYs9jktfBwvZuZdyD0IszXNiY43AiTfNff72lIlgF35cwbxxD/0WbzZpXKH8PnhnHBHUf2kU=
+vlmmvn03pkupfbvdll4vcn20n2t54l1n.tools.	3600	in	nsec3	1 1 0 73 VLPL7G9QI1PVN9NPC7CQIP9KU2R01HLG NS DS RRSIG
+vlmmvn03pkupfbvdll4vcn20n2t54l1n.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251002034821 20250911024821 35280 tools. RBj+Z4LPpkqzdvvwbO0rMVW71zx+FRqh+yjz768mXb+RrL57WRpWYrfeS6T+7i8EJb7t6cfNPr3BqkTtWj8H8xj3U4TjGeWyaUuPMUUvALK6SsWDYfMnaVbjDpMMNYw+eKtn8PxllzF0SRmIVWRKYbhyr1VM3ipUakdyfFALr2c=
 vlocity.tools.	3600	in	ns	gail.ns.cloudflare.com.
 vlocity.tools.	3600	in	ns	wells.ns.cloudflare.com.
 vlog.tools.	3600	in	ns	ns1.afternic.com.
 vlog.tools.	3600	in	ns	ns2.afternic.com.
 vlogging.tools.	3600	in	ns	ns1.thepowerdad.com.
 vlogging.tools.	3600	in	ns	ns2.thepowerdad.com.
+vlpl7g9qi1pvn9npc7cqip9ku2r01hlg.tools.	3600	in	nsec3	1 1 0 73 VLSJKT23VTUA4IF1MIQV4RFIMF9P1M7K NS DS RRSIG
+vlpl7g9qi1pvn9npc7cqip9ku2r01hlg.tools.	3600	in	rrsig	NSEC3 8 2 3600 20251002034821 20250911024821 35280 tools. NR235tLB5AGP9XfbS2vNA3bEsm99zX8Zcgq4Ng79/xD2aaPVUa4bo2XoEvX3a1nsUVeP5Lwvkv2jmrNahpdJSwzPF8VK6VkOFcSaul18XO+lMoD4gM8y+Dsb1+r4IVBDT7DaKD2W062PrcQcCqFerZJaX2F1QbqELVsm56lX0G0=
 vlsi.tools.	3600	in	ns	pdns05.domaincontrol.com.
 vlsi.tools.	3600	in	ns	pdns06.domaincontrol.com.
 vlsjkt23vtua4if1miqv4rfimf9p1m7k.tools.	3600	in	nsec3	1 1 0 73 VLUTHINLTTH88V3M3H507RF3Q120O41Q NS DS RRSIG
@@ -71648,6 +71621,8 @@ waifu.tools.	3600	in	ns	guy.ns.cloudflare.com.
 waifu.tools.	3600	in	ns	mona.ns.cloudflare.com.
 wailer.tools.	3600	in	ns	ns53.domaincontrol.com.
 wailer.tools.	3600	in	ns	ns54.domaincontrol.com.
+waimao.tools.	3600	in	ns	ns1.dyna-ns.net.
+waimao.tools.	3600	in	ns	ns2.dyna-ns.net.
 wakam.tools.	3600	in	ns	ns1-05.azure-dns.com.
 wakam.tools.	3600	in	ns	ns2-05.azure-dns.net.
 wakam.tools.	3600	in	ns	ns3-05.azure-dns.org.
@@ -72604,10 +72579,6 @@ westfalia.tools.	3600	in	ns	ns12.managed-ip.info.
 westfalia.tools.	3600	in	ns	ns9.managed-ip.com.
 westgard.tools.	3600	in	ns	ns31.worldnic.com.
 westgard.tools.	3600	in	ns	ns32.worldnic.com.
-westname.tools.	3600	in	ns	ns1hnx.name.com.
-westname.tools.	3600	in	ns	ns2fln.name.com.
-westname.tools.	3600	in	ns	ns3fgq.name.com.
-westname.tools.	3600	in	ns	ns4bty.name.com.
 westward.tools.	3600	in	ns	ns05.gcd-dns.com.
 westward.tools.	3600	in	ns	ns06.gcd-dns.com.
 wetransform.tools.	3600	in	ns	ns-131-c.gandi.net.
@@ -72714,8 +72685,6 @@ wheelspinner.tools.	3600	in	ns	carlane.ns.cloudflare.com.
 wheelspinner.tools.	3600	in	ns	quentin.ns.cloudflare.com.
 when.tools.	3600	in	ns	greg.ns.cloudflare.com.
 when.tools.	3600	in	ns	mary.ns.cloudflare.com.
-where.tools.	3600	in	ns	dns101.registrar-servers.com.
-where.tools.	3600	in	ns	dns102.registrar-servers.com.
 whereby.tools.	3600	in	ds	15093 15 2 2CED773DA2FBFC1F8EDD609612508E631F478AC19B7739F732CA0BD9F77D8EE0
 whereby.tools.	3600	in	ds	15093 15 4 670626F8A2405A3ABDB65F4564E0DC7D2FBC87A1EBFF88EDE7BB3B191448E0F00FFE805F64EB590BCDF37B6840674F21
 whereby.tools.	3600	in	ns	ns1.hyp.net.
@@ -72843,6 +72812,8 @@ whyamplify.tools.	3600	in	ns	maceio.ns.porkbun.com.
 whyamplify.tools.	3600	in	ns	salvador.ns.porkbun.com.
 whynot.tools.	3600	in	ns	andy.ns.cloudflare.com.
 whynot.tools.	3600	in	ns	jo.ns.cloudflare.com.
+wia.tools.	3600	in	ns	dns1.registrar-servers.com.
+wia.tools.	3600	in	ns	dns2.registrar-servers.com.
 wiam.tools.	3600	in	ns	ns.udag.de.
 wiam.tools.	3600	in	ns	ns.udag.net.
 wiam.tools.	3600	in	ns	ns.udag.org.
@@ -73983,8 +73954,8 @@ xbrl.tools.	3600	in	ns	ns-1443.awsdns-52.org.
 xbrl.tools.	3600	in	ns	ns-1772.awsdns-29.co.uk.
 xbrl.tools.	3600	in	ns	ns-484.awsdns-60.com.
 xbrl.tools.	3600	in	ns	ns-908.awsdns-49.net.
-xbt.tools.	3600	in	ns	ns1.bodis.com.
-xbt.tools.	3600	in	ns	ns2.bodis.com.
+xbt.tools.	3600	in	ns	ns1.dns-redirect.com.
+xbt.tools.	3600	in	ns	ns2.dns-redirect.com.
 xc.tools.	3600	in	ns	ns1.digitalocean.com.
 xc.tools.	3600	in	ns	ns2.digitalocean.com.
 xc.tools.	3600	in	ns	ns3.digitalocean.com.
@@ -74175,8 +74146,8 @@ xn--22c5dms4e5byc.tools.	3600	in	ns	dns1.registrar-servers.com.
 xn--22c5dms4e5byc.tools.	3600	in	ns	dns2.registrar-servers.com.
 xn--3-vwf2d1bupp5dzc7d3d.tools.	3600	in	ns	cleo.ns.cloudflare.com.
 xn--3-vwf2d1bupp5dzc7d3d.tools.	3600	in	ns	rosa.ns.cloudflare.com.
-xn--68j5e377y.tools.	3600	in	ns	ns1.shockhosting.com.
-xn--68j5e377y.tools.	3600	in	ns	ns2.shockhosting.com.
+xn--68j5e377y.tools.	3600	in	ns	ns3.expirationwarning.net.
+xn--68j5e377y.tools.	3600	in	ns	ns7.expirationwarning.net.
 xn--72c6clgrr2f7ff.tools.	3600	in	ns	dns1.registrar-servers.com.
 xn--72c6clgrr2f7ff.tools.	3600	in	ns	dns2.registrar-servers.com.
 xn--7xa.tools.	3600	in	ds	55399 8 2 5B2055112450AEAA94EB0F0027781869C5DF559F97C2FC81E81DE31395EEE0AC
@@ -74852,8 +74823,8 @@ yt1s.tools.	3600	in	ns	alexandra.ns.cloudflare.com.
 yt1s.tools.	3600	in	ns	derek.ns.cloudflare.com.
 yt2mate.tools.	3600	in	ns	ariadne.ns.cloudflare.com.
 yt2mate.tools.	3600	in	ns	brad.ns.cloudflare.com.
-yt2mp3.tools.	3600	in	ns	ns1.bodis.com.
-yt2mp3.tools.	3600	in	ns	ns2.bodis.com.
+yt2mp3.tools.	3600	in	ns	ns1.dns-redirect.com.
+yt2mp3.tools.	3600	in	ns	ns2.dns-redirect.com.
 yt5s.tools.	3600	in	ns	jacob.ns.cloudflare.com.
 yt5s.tools.	3600	in	ns	melissa.ns.cloudflare.com.
 yta.tools.	3600	in	ns	ns.zxcs.be.
@@ -75528,4 +75499,4 @@ zzp.tools.	3600	in	ns	ns2.transip.eu.
 zzp.tools.	3600	in	rrsig	DS 8 2 3600 20250930160859 20250909150859 35280 tools. EQTvt8t4tM5oGw/wx2OElJ8J+VA/qegAl4QKze5e1xfkxc4+xjBRuLQ4VAtyoOlcaE+hU7h4I/jA7UngtY122P3GhJ6uLKoz+TmIozU7PG3so6RzmdqcdlGJTo4a0/VZxD02oiiWIZKWl6QUyP1eZMYnUlsXYdcuSUQEYhrqehE=
 zzz.tools.	3600	in	ns	ns1.pixtel.net.
 zzz.tools.	3600	in	ns	ns3.pixtel.net.
-tools.	3600	in	soa	v0n0.nic.tools. hostmaster.donuts.email. 1757553889 7200 900 1209600 3600
+tools.	3600	in	soa	v0n0.nic.tools. hostmaster.donuts.email. 1757639467 7200 900 1209600 3600
