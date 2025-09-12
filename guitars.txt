@@ -1,4 +1,4 @@
-guitars.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757553550 900 1800 6048000 3600
+guitars.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757639410 900 1800 6048000 3600
 123.guitars.	3600	in	ns	ns1.namecity.com.
 123.guitars.	3600	in	ns	ns2.namecity.com.
 123.guitars.	900	in	nsec	247.guitars. NS RRSIG NSEC
@@ -1057,15 +1057,20 @@ guitars.	3600	in	dnskey	257 3 13 Sgj0/B7VMc+B1VHT9GNk1H311QSOAaemdtZPaWAcoWMaMTw
 guitars.	3600	in	rrsig	DNSKEY 13 1 3600 20251009193206 20250909180206 4948 guitars. H7chFs7mquHi9ZYXI/Ml09r7H4iHYOWLPrNKO1NpTYwPgeTZdtquHBngnkcgrMzjw/E5L2V5oginSXmvSd+3uA==
 guitars.	900	in	nsec	123.guitars. NS SOA RRSIG NSEC DNSKEY
 guitars.	900	in	rrsig	NSEC 13 1 900 20251009193206 20250909180206 13006 guitars. tpco1tutxlssLoNlo9izemjU6B4neLrSNS92fKiX0Y2/MaR5YJdeTIxyVCcl98cQL1aaIwhU9cezweJtmKH7EQ==
-guitars.	900	in	rrsig	SOA 13 1 900 20251011011910 20250910234910 13006 guitars. DQWrS+4SDxw7rEwSN1Z8qqzPI/j6jdxAhu86VlG+2jvEgHLrYQtWIoR1oAifJWj+Uk/8li9bvxJJYla3wzmfdg==
+guitars.	900	in	rrsig	SOA 13 1 900 20251012011010 20250911234010 13006 guitars. UQiOfXpj173gnJwDUxpnqz1SAv1rnWrkoK3C0nklIpQ0VA9apvUAroOw6rKYrc1KTK6RsB/nk4E0SQVwrulryQ==
 guitars.guitars.	3600	in	ns	ns1.dyna-ns.net.
 guitars.guitars.	3600	in	ns	ns2.dyna-ns.net.
 guitars.guitars.	900	in	nsec	handpicked.guitars. NS RRSIG NSEC
 guitars.guitars.	900	in	rrsig	NSEC 13 2 900 20250915085444 20250816072444 13006 guitars. m/ACznotZktj7v99P+ZdXUKVDn/kHQDBV0LdoSgnJcdya1CtLW37umDoKKt9oFWHrp9kFj0HifjKPs3+/7g0Uw==
 handpicked.guitars.	3600	in	ns	ns53.domaincontrol.com.
 handpicked.guitars.	3600	in	ns	ns54.domaincontrol.com.
-handpicked.guitars.	900	in	nsec	harley-benton.guitars. NS RRSIG NSEC
-handpicked.guitars.	900	in	rrsig	NSEC 13 2 900 20251010011045 20250909234045 13006 guitars. 9jEFSSeducbBS5lufzRhAODHirK26o9I9tOdOJbGqP4Y5XRH3kIm7EEOJnpvlCj7YYsqz2XR30S2g8Adqoo+AQ==
+handpicked.guitars.	900	in	nsec	hapas.guitars. NS RRSIG NSEC
+handpicked.guitars.	900	in	rrsig	NSEC 13 2 900 20251011104248 20250911091248 13006 guitars. pyXScPJ1G1frAdK0fzGE3x6yD6vQDjXOcSp+DozMUBbSZmvC3JL1XUdxtZ8Yk2xV0yEWqooxge20IYbvzL7k5w==
+hapas.guitars.	3600	in	ns	ns1.linevast.com.
+hapas.guitars.	3600	in	ns	ns2.linevast.com.
+hapas.guitars.	3600	in	ns	ns3.linevast.com.
+hapas.guitars.	900	in	nsec	harley-benton.guitars. NS RRSIG NSEC
+hapas.guitars.	900	in	rrsig	NSEC 13 2 900 20251011104248 20250911091248 13006 guitars. ePNF5K82rsfSRPHrbEL5LAzQxi8HAH9lE9e44Sa3kbwskMrWwXh2SPpbTylDWF0HllWVgWIh3kdjo9/p/eeeLg==
 harley-benton.guitars.	3600	in	ns	a.ns14.net.
 harley-benton.guitars.	3600	in	ns	b.ns14.net.
 harley-benton.guitars.	3600	in	ns	c.ns14.net.
@@ -2521,14 +2526,8 @@ tommy.guitars.	3600	in	ns	ns-de.1and1-dns.biz.
 tommy.guitars.	3600	in	ns	ns-de.1and1-dns.com.
 tommy.guitars.	3600	in	ns	ns-de.1and1-dns.de.
 tommy.guitars.	3600	in	ns	ns-de.1and1-dns.org.
-tommy.guitars.	900	in	nsec	tommyskeoch.guitars. NS RRSIG NSEC
-tommy.guitars.	900	in	rrsig	NSEC 13 2 900 20251010011045 20250909234045 13006 guitars. pxiQm9qYjAqBYe4DGNtWYw44dcbyEzRMqwBsqDGhJx4Ik9eWFvuxaEmCY97l1waMb3amPw8KT8DOd/S0a8J4BA==
-tommyskeoch.guitars.	3600	in	ns	ns-us.1and1-dns.com.
-tommyskeoch.guitars.	3600	in	ns	ns-us.1and1-dns.de.
-tommyskeoch.guitars.	3600	in	ns	ns-us.1and1-dns.org.
-tommyskeoch.guitars.	3600	in	ns	ns-us.1and1-dns.us.
-tommyskeoch.guitars.	900	in	nsec	tony.guitars. NS RRSIG NSEC
-tommyskeoch.guitars.	900	in	rrsig	NSEC 13 2 900 20251010011045 20250909234045 13006 guitars. NCRkFuDN40muo54dysGe10MV6D6DVOX4imWOWKgeQ2CEBXIs5EO+1/LHygq6RywDUyR/Zu8KLfDSzdKQPhYZlg==
+tommy.guitars.	900	in	nsec	tony.guitars. NS RRSIG NSEC
+tommy.guitars.	900	in	rrsig	NSEC 13 2 900 20251012004106 20250911231106 13006 guitars. CYHrgbXtpbVL2W3C9KPwo04nP3pXdJJ3/zlYYbFDAaCu1xflBNzfPGImUXy99qvtimRf6FB65KnAwjQed2zW2A==
 tony.guitars.	3600	in	ns	ns1.register.it.
 tony.guitars.	3600	in	ns	ns2.register.it.
 tony.guitars.	900	in	nsec	trade.guitars. NS RRSIG NSEC
@@ -2907,4 +2906,4 @@ zicca.guitars.	3600	in	ns	ns-rs1.gmoserver.jp.
 zicca.guitars.	3600	in	ns	ns-rs2.gmoserver.jp.
 zicca.guitars.	900	in	nsec	guitars. NS RRSIG NSEC
 zicca.guitars.	900	in	rrsig	NSEC 13 2 900 20250915085444 20250816072444 13006 guitars. Jmbm3YMaJdL8OEmTNbBbcVJFpK+MnQCHuPqXZPMRiSt4n+JPOD+ZAos76O5ObtVzvbcJp+r2jGI7qGHWtbtNMQ==
-guitars.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757553550 900 1800 6048000 3600
+guitars.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757639410 900 1800 6048000 3600
