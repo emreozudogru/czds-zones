@@ -1,4 +1,4 @@
-kids.	3600	in	soa	a0.nic.kids. hostmaster.donuts.email. 1757552764 7200 900 1209600 3600
+kids.	3600	in	soa	a0.nic.kids. hostmaster.donuts.email. 1757639600 7200 900 1209600 3600
 000.kids.	3600	in	ns	bingo.ns.cloudflare.com.
 000.kids.	3600	in	ns	elmo.ns.cloudflare.com.
 001.kids.	3600	in	ns	bingo.ns.cloudflare.com.
@@ -231,7 +231,7 @@ kids.	3600	in	soa	a0.nic.kids. hostmaster.donuts.email. 1757552764 7200 900 1209
 6jnel4bpkvio4qa8kh807shj2fm81o3o.kids.	3600	in	nsec3	1 1 0 73 6MLKI5MVH7LLMNH7AEO3C0GSNFOULJ54 NS DS RRSIG
 6jnel4bpkvio4qa8kh807shj2fm81o3o.kids.	3600	in	rrsig	NSEC3 8 2 3600 20250930153633 20250909143633 16206 kids. kOZ5eHCFWHDWyooWb+yN63Fuf/VHSuLRFsDlY1+EoyCJWFmjsQfT2gn3bNgtlXMuRR7Unwp7qNzBZmBxKjeyi+437JJE1qA/dlonyQYruC1FDM3KJiX8qCqULbtuNHwgrYYx8O51WG42Pi4ydUI55IX5w7uGHuoGgLjvlCHUG88=
 6mlki5mvh7llmnh7aeo3c0gsnfoulj54.kids.	3600	in	nsec3	1 1 0 73 6S1CJ4B86FS8QDMTRRPL02JQV25RSUMD NS SOA RRSIG DNSKEY NSEC3PARAM
-6mlki5mvh7llmnh7aeo3c0gsnfoulj54.kids.	3600	in	rrsig	NSEC3 8 2 3600 20251002010731 20250911000731 16206 kids. Lppl6npgoGQniCtIo2ZR0+9kYz7XpvZjBV3vwSX1MysykRJNHPZ73w0z2Qubj6L3o/IexLOuprEfQTz9IiLlJMRIpBiVKZZAMFR9Lfur51vRHramk/pImHlLTm3ak/gmrITddK9OSxJsgjtvwkG3DlnE1mJ8rklXu/IlYT3EKH0=
+6mlki5mvh7llmnh7aeo3c0gsnfoulj54.kids.	3600	in	rrsig	NSEC3 8 2 3600 20251003011547 20250912001547 16206 kids. ciguE9vOxxmqyeIyxyhOkGHi10gwexhNMllHV5b83d2ZgGW67OWoQB6E57TAxckKiu1kcT7PBHSRXBBBh+Dg1wKMfSrnpNR2nPimRYaiWDnovqs70vlPrqT7khIR0UA9Esy1hHSBGv/s+u7V+P2gP9z6235VC639XrHSYBFytSI=
 6pm.kids.	3600	in	ns	dns1.comlaude-dns.com.
 6pm.kids.	3600	in	ns	dns2.comlaude-dns.net.
 6pm.kids.	3600	in	ns	dns3.comlaude-dns.co.uk.
@@ -690,8 +690,6 @@ alaskamilk.kids.	3600	in	ns	dns1.cscdns.net.
 alaskamilk.kids.	3600	in	ns	dns2.cscdns.net.
 albertaferretti.kids.	3600	in	ns	ns1.register.it.
 albertaferretti.kids.	3600	in	ns	ns2.register.it.
-alberttest.kids.	3600	in	ns	ns1.dyna-ns.net.
-alberttest.kids.	3600	in	ns	ns2.dyna-ns.net.
 alem.kids.	3600	in	ns	ns1.gohost.kz.
 alem.kids.	3600	in	ns	ns2.gohost.kz.
 alem.kids.	3600	in	ns	ns3.gohost.kz.
@@ -2738,6 +2736,8 @@ chomchom.kids.	3600	in	ns	ns01.domaincontrol.com.
 chomchom.kids.	3600	in	ns	ns02.domaincontrol.com.
 chopped.kids.	3600	in	ns	dns1.cscdns.net.
 chopped.kids.	3600	in	ns	dns2.cscdns.net.
+choresandrewards.kids.	3600	in	ns	ns47.domaincontrol.com.
+choresandrewards.kids.	3600	in	ns	ns48.domaincontrol.com.
 chouette.kids.	3600	in	ns	ns1.xserver.jp.
 chouette.kids.	3600	in	ns	ns2.xserver.jp.
 chouette.kids.	3600	in	ns	ns3.xserver.jp.
@@ -4417,7 +4417,7 @@ explainedby.kids.	3600	in	ns	dns2.registrar-servers.com.
 expressvpn.kids.	3600	in	ns	nsgbr.comlaude.co.uk.
 expressvpn.kids.	3600	in	ns	nssui.comlaude.ch.
 expressvpn.kids.	3600	in	ns	nsusa.comlaude.net.
-extusw2.monitoringtest.kids.	3600	in	a	104.194.32.75
+extusw2.monitoringtest.kids.	3600	in	a	104.195.115.171
 eyecandy.kids.	3600	in	ns	ns65.domaincontrol.com.
 eyecandy.kids.	3600	in	ns	ns66.domaincontrol.com.
 eyeglasses.kids.	3600	in	ns	ns3.afternic.com.
@@ -4750,6 +4750,10 @@ formy.kids.	3600	in	ns	ns37.domaincontrol.com.
 formy.kids.	3600	in	ns	ns38.domaincontrol.com.
 forthe.kids.	3600	in	ns	ns61.domaincontrol.com.
 forthe.kids.	3600	in	ns	ns62.domaincontrol.com.
+fortroy.kids.	3600	in	ns	curitiba.ns.porkbun.com.
+fortroy.kids.	3600	in	ns	fortaleza.ns.porkbun.com.
+fortroy.kids.	3600	in	ns	maceio.ns.porkbun.com.
+fortroy.kids.	3600	in	ns	salvador.ns.porkbun.com.
 foster.kids.	3600	in	ns	ns45.domaincontrol.com.
 foster.kids.	3600	in	ns	ns46.domaincontrol.com.
 fox.kids.	3600	in	ns	ns1.expired.brandsight-dns.com.
@@ -6778,6 +6782,8 @@ kauai.kids.	3600	in	ns	ns28.domaincontrol.com.
 kave.kids.	3600	in	ns	ns01.trademarkarea.com.
 kave.kids.	3600	in	ns	ns02.trademarkarea.com.
 kave.kids.	3600	in	ns	ns03.trademarkarea.com.
+kawaii.kids.	3600	in	ns	dns1.registrar-servers.com.
+kawaii.kids.	3600	in	ns	dns2.registrar-servers.com.
 kayak.kids.	3600	in	ns	ns1.101domain.com.
 kayak.kids.	3600	in	ns	ns2.101domain.com.
 kazoozoo.kids.	3600	in	ns	ns49.domaincontrol.com.
@@ -6874,7 +6880,7 @@ kids.	3600	in	nsec3param	1 0 0 73
 kids.	3600	in	rrsig	DNSKEY 8 1 3600 20250930153633 20250909143633 11536 kids. fJajTg7OtY7D0BU1Mt8UemfB5wUVkIbVBZqWmk7N8vWF7I78WbuNl9ESRAdPS/WfeOtEQEIc35AdgLr6MNq6iuhpbUGG3VIBALGOK8VRY2hbta0CF+kerwYqNCnBQclFP+Lx45Eh8NOdwucSFefZiVfPHJ/e+ts4SmGDMfvGQRNUbxHOgsbxVvY0ZBmLd0SJ8EtDqHku1qyS3RgNGqp7b9WmM762b9t6HCGFw/y0LBrc0QHWZUqlm1TwQbktkk1VcS0CHE0XdI2AuPCyqekd+IU+mA9srFQoFua+eyFrFxsZ9jXX524gU5JJZ3aOHEO7S3kk9Z8fw7ucYE9Gvoy/hg==
 kids.	3600	in	rrsig	NS 8 1 3600 20250930153633 20250909143633 16206 kids. TeBGR6yy51v41UvzYtex6lCGwCxMh6l50DzCmjff/5cH0IT2cO9V5PeGsLLp+BjQYURbXpv7RJMJwzEDIHsbn4ruG835ubZnE4Rntwdc1z+jpqjrZbYACE80IShgakGn+Whpw5Wfxg/dw74zUmufKT8oM1Kf9a71iYMSPS+82f8=
 kids.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930153633 20250909143633 16206 kids. KguLSOUdFkb5bsJL5k1wIMbUGpv81ZUtywC9x4ZRTdsR/N2HehDygmEUFif0PrwFgXYWJsBha2Pf1gSXZQO8hgXklIZVoTlaG7DDS4g9LaPMeVpwwUZgvMfrZO5m/VZqJ5vR1U0Fb/E0Z7/7LxhrtB/on5x/0OAQBOG4XuIxuFM=
-kids.	3600	in	rrsig	SOA 8 1 3600 20251002010731 20250911000731 16206 kids. QS9dPWI8BFrVVOyTrWEPlGmVYN8+vmk8uKo88a4+bHck9SVat9/eKaEmDYGzMDM0vePjbq9UvAc2D5lGksLan62QVFd7kT7xRjjHeMhk5hep+dPPuIDc4V7JX8JbIzn/AhJOMxgUiXLQQTNLpc/X9jqgIoXYgiv1yLLvVWTP3tI=
+kids.	3600	in	rrsig	SOA 8 1 3600 20251003011547 20250912001547 16206 kids. NJQEM+viqkaNlAtkSi07kvpbQMbm96Rpfh4/HvLqxkN93bM2XqTO3M08WGykej3SqaHzL/J72dd1aySNRWcsjjsOHh7dL2AuqRWhO+hMW8kK/4lo57gqqpBvda+UOD21C/WENN5jzs9cFapGfdvshOz5rjo1B8hUhc4PD6EhuY4=
 kidsandus.kids.	3600	in	ns	ns1.ascio.com.
 kidsandus.kids.	3600	in	ns	ns2.ascio.com.
 kidsandus.kids.	3600	in	ns	ns3.ascio.com.
@@ -8184,8 +8190,6 @@ maza.kids.	3600	in	ns	ns63.domaincontrol.com.
 maza.kids.	3600	in	ns	ns64.domaincontrol.com.
 mb66.kids.	3600	in	ns	everton.ns.cloudflare.com.
 mb66.kids.	3600	in	ns	julissa.ns.cloudflare.com.
-mbc.kids.	3600	in	ns	dns01.muumuu-domain.com.
-mbc.kids.	3600	in	ns	dns02.muumuu-domain.com.
 mca.kids.	3600	in	ns	ns1.101domain.com.
 mca.kids.	3600	in	ns	ns2.101domain.com.
 mcafee.kids.	3600	in	ns	dns-a.mcafee.com.
@@ -13078,6 +13082,8 @@ tinycradlespreschool.kids.	3600	in	ns	dns1.registrar-servers.com.
 tinycradlespreschool.kids.	3600	in	ns	dns2.registrar-servers.com.
 tinyfox.kids.	3600	in	ns	ns39.domaincontrol.com.
 tinyfox.kids.	3600	in	ns	ns40.domaincontrol.com.
+tinyswap.kids.	3600	in	ns	dns1.registrar-servers.com.
+tinyswap.kids.	3600	in	ns	dns2.registrar-servers.com.
 tinytravels.kids.	3600	in	ns	ns47.domaincontrol.com.
 tinytravels.kids.	3600	in	ns	ns48.domaincontrol.com.
 tinytrend.kids.	3600	in	ns	ns17.domaincontrol.com.
@@ -13086,6 +13092,8 @@ tinywild.kids.	3600	in	ns	dns1.registrar-servers.com.
 tinywild.kids.	3600	in	ns	dns2.registrar-servers.com.
 tinyworlds.kids.	3600	in	ns	ns73.domaincontrol.com.
 tinyworlds.kids.	3600	in	ns	ns74.domaincontrol.com.
+tippytoes.kids.	3600	in	ns	ns37.domaincontrol.com.
+tippytoes.kids.	3600	in	ns	ns38.domaincontrol.com.
 tips.kids.	3600	in	ns	ns3.afternic.com.
 tips.kids.	3600	in	ns	ns4.afternic.com.
 tiquiti.kids.	3600	in	ns	ns11.domaincontrol.com.
@@ -13435,6 +13443,8 @@ tupismo.kids.	3600	in	ds	33548 13 2 577041957EDF692118274F14B523A04335A6C342DDDF
 tupismo.kids.	3600	in	ns	launch1.spaceship.net.
 tupismo.kids.	3600	in	ns	launch2.spaceship.net.
 tupismo.kids.	3600	in	rrsig	DS 8 2 3600 20250930153633 20250909143633 16206 kids. TRHw1rawZ9YiwL/NCXNZeylAsQ/mU83kijjxh9QVaPECv8ncJvkess/26Mtg2VcY6FHj2zgOe0GE4DDkgyKx9HhAmSJZ4inBtPIQ4XMT9FQonNS4N3aoVivULUsdQYjkP2mayZRVmS6BOt6jkr2/XdkmRFRn0XZdgR+nbQEJWoA=
+turningpointusa.kids.	3600	in	ns	dns1.registrar-servers.com.
+turningpointusa.kids.	3600	in	ns	dns2.registrar-servers.com.
 tusc.kids.	3600	in	ns	ns01.domaincontrol.com.
 tusc.kids.	3600	in	ns	ns02.domaincontrol.com.
 tutor.kids.	3600	in	ns	davina.ns.cloudflare.com.
@@ -14748,4 +14758,4 @@ zyrtec.kids.	3600	in	ns	ns04.kenvuedns.com.
 zzz.kids.	3600	in	ns	ns1.dnsowl.com.
 zzz.kids.	3600	in	ns	ns2.dnsowl.com.
 zzz.kids.	3600	in	ns	ns3.dnsowl.com.
-kids.	3600	in	soa	a0.nic.kids. hostmaster.donuts.email. 1757552764 7200 900 1209600 3600
+kids.	3600	in	soa	a0.nic.kids. hostmaster.donuts.email. 1757639600 7200 900 1209600 3600
