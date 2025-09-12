@@ -1,4 +1,4 @@
-cymru.	127800	in	soa	dns1.nic.cymru. hostmaster.nominet.org.uk. 1757541637 900 300 2419200 3600
+cymru.	127800	in	soa	dns1.nic.cymru. hostmaster.nominet.org.uk. 1757596310 900 300 2419200 3600
 0.cymru.	172800	in	ns	ns1.zenesa.de.
 0.cymru.	172800	in	ns	ns2.zenesa.de.
 0.cymru.	172800	in	ns	ns3.zenesa.de.
@@ -62,7 +62,7 @@ cymru.	127800	in	soa	dns1.nic.cymru. hostmaster.nominet.org.uk. 1757541637 900 3
 2.cymru.	172800	in	ns	launch1.spaceship.net.
 2.cymru.	172800	in	ns	launch2.spaceship.net.
 2.cymru.	3600	in	ds	43294 13 2 7AABFCE6D0C274AFEB762274226B2CA9AB5166A063F178227076227832E3A4AF
-2.cymru.	3600	in	rrsig	DS 8 2 3600 20251009153450 20250904152137 11313 cymru. Z1Th6ii299y6quGscrkEKHUL8OQn2WNo0GvIVwuIlds7PDL6FQRRYG9Uj+MIonvxVW9fTrxSTYKz1TRqZOISl70RzjRa5EZ3BtIvVFylRDe+RNsiyehjD9Mydwiyd/JbjVbr0NjxMRqWORLwR/W00juKNejO+OTqVQFcUlkXXztDKccnDAfMgMqxE5t1HUN7bAFsrzyULpGoBp+9ix9S4eH/upYxbsdywU3j20sEbvU7rh26WVkUcANp9dngriGK4hiIx7ffg61XnEY9IHdM5lipQuMf7nIIj5NuOVVgDQ3pGma58Jw1+eWLp4NYePj7/Eghf5k41VeA1fg0RadYnQ==
+2.cymru.	3600	in	rrsig	DS 8 2 3600 20251016151156 20250911143450 11313 cymru. bQ215Rt9xUn+exCuChiFQ5IPDnCMFRPZMa97l6n05FvFKsD0tL420i/3qJpwS3WFPjG0spB+L0IK6hC55xQhJ3CdTn9mw63epyu06Lq66iS4ggTPMHrTS6Cr5hXulgSQW98MF2FjpWMUaQTq18rMXAFkb1PVZQUkSD1NigzKdvNCFAMpUc1cRrn1S+SbzuoI6xx5S2sTRTsEig8Z1BM+RuMGQzL94712nCw/+5xwKSCh1KAtfOjijgwqeaYlcJH69FsqiF1pgJTXklEZ3/LuYf+Ehm9YY6N5QOAvCtcCJjw6VvXVQU/GIZWiu4iEw9bmjb2Buq2LHTVJH2ht4qz6nA==
 2016.cymru.	172800	in	ns	ns55.domaincontrol.com.
 2016.cymru.	172800	in	ns	ns56.domaincontrol.com.
 215768.cymru.	172800	in	ns	ns1.dnsip.com.
@@ -94,7 +94,7 @@ cymru.	127800	in	soa	dns1.nic.cymru. hostmaster.nominet.org.uk. 1757541637 900 3
 2ulldh8j6ee3j3cq7eh57k8seofg4lu7.cymru.	3600	in	nsec3	1 1 0 - 2UUOKGMDQ8MATAMSFP7S9DCKO2QEBFJF NS DS RRSIG
 2ulldh8j6ee3j3cq7eh57k8seofg4lu7.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251013043414 20250908033932 11313 cymru. HQhv7WrmNPwQnPCKZHHqadOrD0xVnPy0awCpNJ0LbX67EVtnc6ubvGU23ldOkGpTnTSUgrMUL7gfI6ToHDEPOOHnfrmA4oV9xNo3CQpol80XNolSG6ER17bltSnPiLqhdr8tz98fHZWmjkI9t+tJcgaLQwR/HkwC/BAdmtKDiJD9rYRIQILrTA0P7cA/kQRYV2sNg7YUKSn5MpthQh8kaeD3abAQiPfZNkEcthedCVqPDv3y1uPOV69QZriZ76AyxhB3f0dJ/w/Yaxjnt4lSN5wZkruxdMEyxhBQLOjnvLBpWd5WDMqLMgJhWJWgQbtVkM5UTqHHMLXqa4c6rImesg==
 2uuokgmdq8matamsfp7s9dcko2qebfjf.cymru.	3600	in	nsec3	1 1 0 - 3HC8M959F4SH4L01U52P48MJICMP13QS NS DS RRSIG
-2uuokgmdq8matamsfp7s9dcko2qebfjf.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009184424 20250904183733 11313 cymru. SdtnPBrG6d3ipFfVKdIqVUK6RGz4o4oSkISu62RhoibO6w914Wdx7CsxmZsdcuU9tfZm9sUuFsz0xt+gUOS68t2AnqluKwop4+65tNje52epuB4HWm8S6EEj72pR3IMoFYO8o5zEMRwNKX2L7wBtdd2awqS4nELegT21JG1sMPVtQxdcMi52MjKJ1cDdSrkQ5pywZFEVvuLLQgfHox1A/jRxOAITi1ErlkKmzU7qewIdao1y/CVF+se+vZfMW1W0e3eE8OPoDk2DfMVemYhABYhOFt16G/9mCMWEn5BLtQtk4zaadTYu+wvPxdN0IsAGSxP1DpJACtwQmRpQhLT60g==
+2uuokgmdq8matamsfp7s9dcko2qebfjf.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016183943 20250911174424 11313 cymru. f1lSr9qJ/OR5f5dR5Tl5dPSGsqRYX+EJJXKqyEjiL+yFqgqbnnRQQZ39nplQL0JVQ7TJDVKNF2yrTh2a0fPX9tQCC/VlkKXCvlauIqbJ3zmVgS+YUQ/rdaALSOfV2Op02CVi/YasgI7qTmVSYDElhEsvEPV5w9lehlQuTwOc2Qvj7YQkM3goJFBNcxarDo4i3WZIpLb09dfhwxWOUkT4r9vI+/U+SKrE001si552nWjQIjcW/cs0tKFtJHkFwVbejAkWuX4fRoaG6E/goifwHIVQQ32TBfQJFRvalHMXkt7PylZmvba6/yGFNf7HjD94rj9iFrGJVWpikg3Ay3uaeA==
 3.cymru.	172800	in	ns	ns1.dyna-ns.net.
 3.cymru.	172800	in	ns	ns2.dyna-ns.net.
 333win.cymru.	172800	in	ns	clyde.ns.cloudflare.com.
@@ -139,7 +139,7 @@ cymru.	127800	in	soa	dns1.nic.cymru. hostmaster.nominet.org.uk. 1757541637 900 3
 43-19.cymru.	172800	in	ns	ns1045.ui-dns.de.
 43-19.cymru.	172800	in	ns	ns1045.ui-dns.org.
 44ph4qai2j5gbtdj5fa1g106e9i7jpan.cymru.	3600	in	nsec3	1 1 0 - 4JKU2UVQT2QMBH0PFSCODOTE8PNV78JN NS DS RRSIG
-44ph4qai2j5gbtdj5fa1g106e9i7jpan.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009040917 20250904034002 11313 cymru. aVJQZNZjkv2dttx4Rb1e5bnWC/8pGNPYdCFfQbyzVYGvLyB5/BptXwslHq/z4sCz3emypf/qbXgsRscCIEXIcGpdaZl0phQjpiZpVFXdPvO9HxGkE1xxx4qiYxszPYrOk4p23kZQVJ7K5mEGuFXUbuOxkq/BCQXGOuL/N+ntMEN0xp98PJTX0hsws/bD0esed+FIbx4dWyozbr/aWuqRIViuTsF9MVxbfp7CJ5QE7nMOeqK7rYW+TiXp8sV/DS9SLvYSy2av2Y4VKNkVwBAVIy0KlPzjNmn3g4TwWQIMdbnBbA6SzD7l/1U3vqT1BhaoEGygtLv0vb1wmGL1YDkAzQ==
+44ph4qai2j5gbtdj5fa1g106e9i7jpan.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016031535 20250911030917 11313 cymru. USy5rlHL5+JMSh8HfHiUczJrK0/uqrNVW9s6221MgSFkZ7gfA3J/fyxHNODMzBrOmTK67iCfOck2VrNR/ExBcKZC3eGdP/uhKioXgFr9hjQTSSmZNVVMlHxx0tA0LYlwmJjcRySKX50FDDvzVRzQ6uv7vghLVnjCqhhEjHH0MdDypMfED9M/4rSq7PTCNd3mj0g7ljOfuyQcVkuOXD/7C11kCQ/6DsRiULNlF7+MWG7uubbn8Kidv4v7Ld5sBv87lnpv2VM4lU87YxZ+bS4ckrMDIYFda9Ht0CdirIslRaNJ/oNO59WV8xFzC9LWtuxUAWG6/4X5V31oAvoJeJ+y9A==
 463725.cymru.	172800	in	ns	ns1.dnsip.com.
 463725.cymru.	172800	in	ns	ns2.dnsip.com.
 4cg.cymru.	172800	in	ns	ns1.livedns.co.uk.
@@ -172,9 +172,9 @@ cymru.	127800	in	soa	dns1.nic.cymru. hostmaster.nominet.org.uk. 1757541637 900 3
 59762.cymru.	172800	in	ns	ns1.dyna-ns.net.
 59762.cymru.	172800	in	ns	ns2.dyna-ns.net.
 5cqavngfmtfp9srssfgu3hrcs9jjjfbc.cymru.	3600	in	nsec3	1 1 0 - 5FE97KR2GN339A2E0SUOPQURP9GTNKOA NS DS RRSIG
-5cqavngfmtfp9srssfgu3hrcs9jjjfbc.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009153450 20250904152137 11313 cymru. dqglFYDtXbEPcVeirsf8B5Lh5SotmeUanu7rSkYKWlgp/gPPiwNQrAKXa6absjiNurFiyrwsGlTAa2PUcHd6pCQKVNDeTMHxoH0r5N8c/6QpMqx7Q3nh+yFfP4dydoZFXyvmB5ybv475Yo867irn5dDTYSbobeQpLZAOfXjWXrlRIPLoI9Sa7RgwXyr8znFgOwsRoB9F0f5beFWuCAuIzXviPAhcj2zj3m7ElGa4bxSnElbkDe1oTUPEdlitmjVbmlHRuk/0FgnsC7/XRFXhj/rkAC/ABOsc68SnCiSsWiHdxHJJGCgCQtVC0lfx9D8K+MX306Yrkv67go6WVY/wAg==
+5cqavngfmtfp9srssfgu3hrcs9jjjfbc.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016151156 20250911143450 11313 cymru. fQQnklfNjkQsn9vLTCvdFjRRVt7uPerI8PIqfzZeYU4ZCfluZi/W7pNZLjmk5epI1zyHWcJdYV4KVzsC2PQwe4uJsVsjXq2D2s33q7x8Y84KZxJ/f0pDFC3zBoRWePyHfjPeAA9F2loUEFUIlg6uaQF540QDwhP4bVhYLTqoouuWk7h+lwxIYluPxUcOnlVNUIWHYZqtGe6duocJtSxWadNOePJmYv345jxY8jvbqkSHryCJVEgr4ahh0B9j9qWGlogDFDsKARP1yFWa1MhSBTDftbstAo8vT0cgCfr9B17NdoFWvXrRc+7gExFt+yy3LmLQM6to5FRylgWk0RpJRw==
 5fe97kr2gn339a2e0suopqurp9gtnkoa.cymru.	3600	in	nsec3	1 1 0 - 5IG3A70QVECUNS3DFJ9PDFDI66EFMREK NS DS RRSIG
-5fe97kr2gn339a2e0suopqurp9gtnkoa.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009153450 20250904152137 11313 cymru. YZUH/KSgGjn/7j9j0WBonlSClQsmZRDO9el4xlLeG2v6epW2XBLnkQyHrvG7KPYxeehFDEq96rSvEzNEP3wHD88+wNfyjoAv4QGyeJ+k2NGNSgxkI5ofxB1I1qBM99c2mN+MnXhYDvgeGwro7nJqvSsiH71VO5kglB2cHXGVa8Uob0BskTBnd7CWA7/P6Tu/n6ZGfKY5rro/UssylpGyKRhzjWVpSCZ0cCnjomIAoIscg0a5UjTB1gefOTV9Z+3XXmYTFM6/OdpADrYXZTQ3Ooo0b03bH9bUSZncRtCo8YvwoWky83w+CWND9x97npugqVfU2fnGg9LYIibAp2MyHQ==
+5fe97kr2gn339a2e0suopqurp9gtnkoa.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016151156 20250911143450 11313 cymru. bnKbQNDhCVRDP7Ju84DwK3crVVtEyuFcJVKH7RzKJ5KSkXs8Tn/1hIcSHfxcPRoEiA7Xg+8lUcEGz8jbdZzsAYDKzHJng38Nk+yg9/UggkroB9WKFC6D1WK+Csd3dwcBxwzUQ4vdyqBlJg1/BcBwX+LzVHgXudKW436/iYXXMCIQafJipdLoULUUKrirGkRcYJBYHzSOKhH7d70rQpdPHKC8esME5CcIlip2z0VNwl15yQ+Vr6th+XbazXjV3AjuCPJ6gY8Jh3mvXq+ggdhTaaFCIda+4aCToLOiq7JgIevZubfb6qvUbu7g82nfbes78wp0GWlZdidFj8M0xDY3cg==
 5ig3a70qvecuns3dfj9pdfdi66efmrek.cymru.	3600	in	nsec3	1 1 0 - 5LNTHDKOABR68VFKHR5GK39H73U61JOG NS DS RRSIG
 5ig3a70qvecuns3dfj9pdfdi66efmrek.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016003016 20250910233832 11313 cymru. ZUzJS9B8qjZ+vrFhePe0XFjpIaCC6QHeIKfmh4h1ZVEz3Pog/Dw8wEXXFLyxi0ywNgxcJzUD6PFIqdOI6xRR15KNtXP0FTu+MGc0yFgyfcu5wW3yW4mx2IDsir4zIYDD1VhhML8ROhv1rYOa8g1V9+QQloiPtL9YWhPTQlgF5eBGSTqrxYunSdow6ZEIi6lXlnIG3oOykdUAKzSjwswJOewUjDd+JuQEC2y21jM4QEvIrOl+aP1UPZAtOcLocbt1VdmY6q2dJNz22PVZPjUWo+6yh/SY5C32T+fN4OG0K5U0axnMmHk7cPYPFDKPL/+lnbDqjDZcULkwtZtZ8iIDGg==
 5lnthdkoabr68vfkhr5gk39h73u61jog.cymru.	3600	in	nsec3	1 1 0 - 66BMVFMOFQAH7VUU263UGHTHO3JQ33TE NS DS RRSIG
@@ -314,8 +314,8 @@ cymru.	127800	in	soa	dns1.nic.cymru. hostmaster.nominet.org.uk. 1757541637 900 3
 97win.cymru.	172800	in	ns	yoxall.ns.cloudflare.com.
 98win.cymru.	172800	in	ns	clyde.ns.cloudflare.com.
 98win.cymru.	172800	in	ns	mia.ns.cloudflare.com.
-99ok.cymru.	172800	in	ns	clyde.ns.cloudflare.com.
-99ok.cymru.	172800	in	ns	mia.ns.cloudflare.com.
+99ok.cymru.	172800	in	ns	dns101.registrar-servers.com.
+99ok.cymru.	172800	in	ns	dns102.registrar-servers.com.
 99win.cymru.	172800	in	ns	amy.ns.cloudflare.com.
 99win.cymru.	172800	in	ns	bob.ns.cloudflare.com.
 a.cymru.	172800	in	ns	ns1.afternic.com.
@@ -360,8 +360,10 @@ abacysgol.cymru.	172800	in	ns	ns51.domaincontrol.com.
 abacysgol.cymru.	172800	in	ns	ns52.domaincontrol.com.
 abbeyhouse.cymru.	172800	in	ns	parked.g1-dns.com.
 abbeyhouse.cymru.	172800	in	ns	parked.g1-dns.one.
-abc8.cymru.	172800	in	ns	elaine.ns.cloudflare.com.
-abc8.cymru.	172800	in	ns	razvan.ns.cloudflare.com.
+abc8.cymru.	172800	in	ns	launch1.spaceship.net.
+abc8.cymru.	172800	in	ns	launch2.spaceship.net.
+abc8.cymru.	3600	in	ds	41069 13 2 7CF711621CF5E80FD728E8419E615F8C7FE03F73EA92B49D915993D69FACE901
+abc8.cymru.	3600	in	rrsig	DS 8 2 3600 20251013100724 20250911121139 11313 cymru. eb6P7tfSnHQiWc9Z8v6MyYMTY6MjILt6Cx1PqS1rMHh+jbuicGotPOho6sQZe9ovT6ZcUm6elN8YQEmZH1s2wJy1Jb/3kdw3GCeCTloEGRFrtxnK3NqjIAEvoSxuZvigC4o8A+JQri5RPHZFRN5IKKeTPcRQ4Mah9mKEGOy7fC7cNCTxFSKKv/vpoMu7p1l6CPDSiw8P2P6D/cLsXaf2uCOovF7I1GurMHVIJDsqDKTcfuXwtsEXDgVA3hziMaB6zY87vthFOAzyKArekvHEEDLZ0jjfFcBjLbtxTBf1g3V0+cOxd+GpB6QnMwGTHq8dox2a6F/V07Z54c6I7Bn3Fw==
 abdigidol.cymru.	172800	in	ns	ns.mainnameserver.com.
 abdigidol.cymru.	172800	in	ns	ns2.mainnameserver.com.
 abelimray.cymru.	172800	in	ns	ns1.livedns.co.uk.
@@ -745,7 +747,7 @@ ahelectrical.cymru.	172800	in	ns	ns0.phase8.net.
 ahelectrical.cymru.	172800	in	ns	ns1.phase8.net.
 ahelectrical.cymru.	172800	in	ns	ns2.phase8.net.
 ahkm7m50srneavm3238fant5dm4p6lo6.cymru.	3600	in	nsec3	1 1 0 - AM35BS6GA47N7U1E59RDAL55KUQD63FM NS DS RRSIG
-ahkm7m50srneavm3238fant5dm4p6lo6.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009143605 20250904135631 11313 cymru. W+G7yj1FL4+N97yrAbBeptRPOcZh0oHHURYtgXJ83NdwNYBnPyrLGLY+r7Dm9ZkpMSYR4M/Nfnzx3CGaO/P0qIUAZJt0h8LCBx63mupqr6wKE6M8GIiTurkuUA9Fb6g8rZg4MHJsn3/BemHvQwPpwdg9TbCxYxfeFA4HJfdjeF+KLogqtrQeh7oSc7kEYeXAl+1OnheD7dctiyXdhDLCJvWge00vbkd41VG+lhyPM39KWWIi4omMkjuI8xx2SPLZYynMC5liuL6jGu0UfGdALuPtY3GeoInhUZxffsBznJGPue4Ldli98X+xTosveQWZ4/tRgGq1C0PrXnjF5Rz8pQ==
+ahkm7m50srneavm3238fant5dm4p6lo6.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016143044 20250911133605 11313 cymru. bEkTxMreVzIawvmXUV6hMunzDT1gyyM9jBFEl/iB2XbgLae/yzk/vlYUWkbQpIJFALapuqBtG22AJsdU5NLsjzQglHIosKkXeRLqbmjtKhNna+yEWX4yXzI+Isj1JTkfPad/CP343wBvwW+t7a3MH8Elz6tN1wYjKnJ+WKXP8K60pUEjFe7qOANbUOknEK9uf1jfHUzrfJbSRwlUHTJDPxTEHS68DksUQvkwQdGOWBv0ugNRdJ9ARuHSj8Q8fGb2m4497CawQWYZEjDzLDMLn1UpUXwut5AsnwWk+3RKXaN7v3mOlUikNCd0ZX4QnkmaA0lXwyQbaWAvnPjW97mLSA==
 ahne-llyn-aonb.cymru.	172800	in	ns	ns1.wiss.co.uk.
 ahne-llyn-aonb.cymru.	172800	in	ns	ns2.wiss.co.uk.
 ahne-llyn-aonb.cymru.	172800	in	ns	ns3.wiss.co.uk.
@@ -1350,7 +1352,7 @@ aris.cymru.	172800	in	ns	ns.bnamed.us.
 aris.cymru.	172800	in	ns	ns.nscluster.cz.
 aris.cymru.	172800	in	ns	ns.nscluster.me.
 aris.cymru.	3600	in	ds	23529 13 2 F1CDAD38013EB4E4E58CC09AFED795876E8AE071FDCCAE4F5F2A112ADEEE9357
-aris.cymru.	3600	in	rrsig	DS 8 2 3600 20251009153450 20250904152137 11313 cymru. aSOShrIm5md7i8Oi7Ci4egGef6aI5jh1TxY31jOx5RXO/U3UKDP65ibC0IdwWQBdsa5vZPKo3FTYO8nemlzOf02SW45Zatpihs6uoB7t6xekf45uNMCaB+ZOv/W7U8UTFNsUDoINEIUQCeCtXUGXUrMnLnI+vCXm7SxUgLM9z2F+oCUvMXd9Ix368SGJWYg7qWJI/xch185kJdEirRH7K1b25gkS3WiRtDqfpNFht4QeIYzVDVjsE/5kHQq+579743imT2EBy4L6ReugG+d6c/axuj6F7qxp31U+VWH/2lxtFKqJuxQudhnkMh8FOEszZ7CA/8Hav5x+2mE+j5kybg==
+aris.cymru.	3600	in	rrsig	DS 8 2 3600 20251016151156 20250911143450 11313 cymru. b3WYNSFzYYBMKwhWKk8so/iR7jk081pMXo3unie7A7I/I2YL0PU6sZ0jK7bO2kiqz5tJfz0wRl4MP4fmUATX+rXF5eIMALVuehthVtpVI2lKRceWKaH9ccrYEz62yWhLGs2gGLGC4L/trK2g+heW2clKDUAE7PW0NFU3SqPFN1P1c4DMx+DoELgvLEwRAtC5R7FEjaHQWVwA+fzi6vyx9c4fOJVF31CiEkLZeq1KwTML8+qR9K9NCZ/kv+zPda2+MrM+25ZlX+To1RgRj5YgNc4hD7ou0ck5F0Uz+uQ96JXy5Jr6LUcpk3lBqFtu7rpz45HJoDfhwu+avYK0bAds6A==
 arla.cymru.	172800	in	ns	a.portsdns.se.
 arla.cymru.	172800	in	ns	b.portsdns.net.
 arlein.cymru.	172800	in	ns	ns49.domaincontrol.com.
@@ -1597,8 +1599,8 @@ aura.cymru.	172800	in	ns	ns2.livedns.co.uk.
 aura.cymru.	172800	in	ns	ns3.livedns.co.uk.
 auth.cymru.	172800	in	ns	dayana.ns.cloudflare.com.
 auth.cymru.	172800	in	ns	tanner.ns.cloudflare.com.
-authent.cymru.	172800	in	ns	phil.ns.cloudflare.com.
-authent.cymru.	172800	in	ns	tessa.ns.cloudflare.com.
+authent.cymru.	172800	in	ns	corey.ns.cloudflare.com.
+authent.cymru.	172800	in	ns	lorna.ns.cloudflare.com.
 authenticcurry.cymru.	172800	in	ns	ns07.domaincontrol.com.
 authenticcurry.cymru.	172800	in	ns	ns08.domaincontrol.com.
 autism.cymru.	172800	in	ns	ns0.centralnic-dns.com.
@@ -1993,7 +1995,7 @@ bbonline.cymru.	172800	in	ns	ns2.bb-online.org.
 bbonline.cymru.	172800	in	ns	ns3.bb-online.info.
 bbonline.cymru.	172800	in	ns	ns4.bb-online.biz.
 bbonline.cymru.	3600	in	ds	64429 8 2 B851E7BA0082BC71C1A81EDB727B85B9292D4F9B0BFE549D38450D67B48BEF46
-bbonline.cymru.	3600	in	rrsig	DS 8 2 3600 20251009163816 20250904155523 11313 cymru. JUTYUdviT3Av20uWp1DX9KfIw5ZrJo0rMz7zWjzWvfGQOFVzxcQ4Hq038OGbGjR+YH1iSSEPZcVTA8YFVvy+snYc01SaOjZVDOrqXrjICpFi0FbOhT15ybCQTmvYCWwHF/Cp+mHB95Jj2QgCKhdsHotaOT8hX9pIOdQYqvSp9z1geJRIkQ4Qc5OCf+7/4bN8hni4Da1NcymupaJvtyr26OIfXjYvO2My6PpOkmThVjiplMb5qEJKjsMV/B4NvhxKQItHDmzZk2jfccAtbCFNb5e0Ce639Hv0wTakQrEJhPHK+kVKrMcayhbiD9YAQnuW9VI1B/KgvoBgBvIRu8xwQQ==
+bbonline.cymru.	3600	in	rrsig	DS 8 2 3600 20251016155208 20250911153816 11313 cymru. CtX+vnhiMpDImpdugbvRXCj04ZS+CMl5LPALJGeXqLa5EnEUQQ4BOYdYdYqBCyTjiHcB94rBcbYk3kcqdFIMKf6q7Ub6EeSWgdQpZVLXkC77S4x59Uyd0km45bQZCMnC8wuvKFzunTuyVwRdAzW/D/HSNvCtlEcKzlO3D2rcXdmMBePfjklCqXi6KwF0aoVUGiNrOhnLOObPjvMK8xuFW5Nckd7Qs7m0FaRrek+qw/b+mDH0hQw/4KQGoscBB9KakaKMGE5li8mhFKDM/Qg/Dv/NVgG3V/giBRlPJ6pfrhi01bg6d569esoUXIXkQmSmpiNb3hGPFmWOhPNKa1kVxA==
 bbqs.cymru.	172800	in	ns	ns17.domaincontrol.com.
 bbqs.cymru.	172800	in	ns	ns18.domaincontrol.com.
 bbs.cymru.	172800	in	ns	ns1.stackdns.com.
@@ -2913,6 +2915,8 @@ bwrddtaliadau.cymru.	172800	in	ns	ns75.domaincontrol.com.
 bwrddtaliadau.cymru.	172800	in	ns	ns76.domaincontrol.com.
 bwrlwmarfor.cymru.	172800	in	ns	ns57.domaincontrol.com.
 bwrlwmarfor.cymru.	172800	in	ns	ns58.domaincontrol.com.
+bwrwpleidlais.cymru.	172800	in	ns	ns67.domaincontrol.com.
+bwrwpleidlais.cymru.	172800	in	ns	ns68.domaincontrol.com.
 bws.cymru.	172800	in	ns	ns-1486.awsdns-57.org.
 bws.cymru.	172800	in	ns	ns-1779.awsdns-30.co.uk.
 bws.cymru.	172800	in	ns	ns-403.awsdns-50.com.
@@ -3073,7 +3077,7 @@ caerdydd.cymru.	172800	in	ns	ns1.bb-online.net.
 caerdydd.cymru.	172800	in	ns	ns2.bb-online.org.
 caerdydd.cymru.	172800	in	ns	ns3.bb-online.info.
 caerdydd.cymru.	3600	in	ds	8890 8 2 F04B0F9262B24F7547FB7CD6ADCA1EA69C7EAE5EA2CAACD8D4943A26D6AC39A0
-caerdydd.cymru.	3600	in	rrsig	DS 8 2 3600 20251009193752 20250904193618 11313 cymru. JnOtb1GSHdY1h+p5B1WHieJHmlnAUG9NAdqidyB7st+/+4ajv0nBZhSR6F7n7jasdmx96+1bjzNoY6DLqG7vTdJNgPIsQfDzFzUlbrYmFSsyF4aRx+RQfX3VcOvjA8ZNskLaEgEt/9UZ7H45qCWDGdW8klWb1aQyG2a4Lx0hFnTcUtzQNnHsaLgGKkHMCg+CGmtlSuD9wkZIXi5bvztsMfdCic1GZ7d9s5xVQdeGvbrP+m3MEhJosA/aqtQ5+IpolN3ocjvxoB8f/ouboDgf7Y+bzdhVFF0/yazKGV/pocy6Me7Jrv0JSFj+bLwZv7G+TWjv4l/NMtMJ9vLSIeVWwQ==
+caerdydd.cymru.	3600	in	rrsig	DS 8 2 3600 20251016183909 20250911183752 11313 cymru. JR/ChrALXMM4/FQu8piMUWt6tEwumWuZIqS3IpBGxZ0tu652Hu5mbmMP5dixqPbQdPiD0wLLLeS8K+fEo0CVrCZeLuJqZslvH2W5yOnS+yEL5ErzaTcgfMrQx8byqb5X2kZ2fFu7poS6ngqk9DUHnoYySfNYqVro3ZPrzZi5YmKCupBauj3Yd04i2EmpxJ2tJb3kSN01OLJwJv7Q3HQM8uivevrm6BFvpbzJb/WkOnutTKWykax9h48Yc00D71w5n9Ar+RWN0mBI72Nb+e5rTmLxGilIVa3nmSq69Xx4zwyGsRDC4PsvkEDx54/jDrl79HrapKOSHht2M3b8f5fKMQ==
 caerdyddamdaninawr.cymru.	172800	in	ns	ns53.domaincontrol.com.
 caerdyddamdaninawr.cymru.	172800	in	ns	ns54.domaincontrol.com.
 caerdyddastudioamwy.cymru.	172800	in	ns	ns1-32.azure-dns.com.
@@ -5490,8 +5494,8 @@ cyberwales.cymru.	172800	in	ns	ns75.domaincontrol.com.
 cyberwales.cymru.	172800	in	ns	ns76.domaincontrol.com.
 cychwyneto.cymru.	172800	in	ns	joel.ns.cloudflare.com.
 cychwyneto.cymru.	172800	in	ns	marge.ns.cloudflare.com.
-cycle4work.cymru.	172800	in	ns	leia.ns.cloudflare.com.
-cycle4work.cymru.	172800	in	ns	lynn.ns.cloudflare.com.
+cycle4work.cymru.	172800	in	ns	ns37.domaincontrol.com.
+cycle4work.cymru.	172800	in	ns	ns38.domaincontrol.com.
 cycleforwork.cymru.	172800	in	ns	ns77.domaincontrol.com.
 cycleforwork.cymru.	172800	in	ns	ns78.domaincontrol.com.
 cycling.cymru.	172800	in	ns	ns3.afternic.com.
@@ -5728,7 +5732,7 @@ cymru.	0	in	type65534	\# 5 0885CF0001
 cymru.	127800	in	dnskey	256 3 8 AwEAAYbHf0ZzKAWdig3QB+V31ilstjTVipka3iXUEGXywdrT1NF7yjYVdgSqaVQ7wlm17hMX65Wg6l8KWWrd9FkO1EYDIczdRbpUHh9y2YW9z1dwDqVlT+l6335T9pAyVnntQnf+JlDXXorEodM791biwMWFSwaZ0X4I2z6fEshROYE8Ek4Hnlyms9wxcR/0LLakcjs4SQmPR5DjM2N18OVbbwDFXoNPhpmTuqikzjFZdgNPrkQ8pNsKZZfvYYPPFG//03S9hrPEaYhMv5xZz88u2lidkJ+PrbBjYgQ+rXuOsYG8I7FyQ/je37n9ZeGzZ4yWtGhEgBeb736PyzPLi4Zesd0=
 cymru.	127800	in	dnskey	257 3 8 AwEAAbfgjNxngYdQnzOw4iQLEllaRu0sXfhW2U6KvyFEs4iFVf+4k3JNSyuZ7mPoxMun7IY9lOe8C9eBcQpLx90bD8uDsv9s/uADQyHVKGgsX+JD1R7uxWZH3Ww6DydMZya7/kmVUkK/cWuz7JqaE2U9EQX8I3QfOWHbSidAml1kS6aionS1CQlCOBhFA9CjmTOgbFUwbx2QBhuhNEovWNNkAFAitda626RMuMaLTivICMxhYjw2DwCIbLOmiyrAvQesyViEGBB6ZfWbQhm9ZUIgzYpg+a/IBZwkfFdLyyvpJVpIPajiWWHkRCtYKmj9KZT9KwpExb+LIAk/v9vWvxFi+Qk=
 cymru.	127800	in	rrsig	DNSKEY 8 1 127800 20251013062345 20250908061340 34255 cymru. dlqOhRfIe+r7qtbAozt6G+vSAiIAaMOmzG+CvN/UN2+M11K442YfNspgVXmPZ8VcJ3Ypt2MWFtfwlPWX/CgIRHAb0X0/9NYIJIU8EvLRIMoSwR9NWLDH6Y+oJJlHbK6nXl7thTwdBC0IPswmpjNHqwmIY/TUsP1APas/B2pZq39Aut356NE4o28QqJ8R7/GogQE1RRe+ehAqwcb+4p72Z6+nVXLXpmSY1TaWYe9WHK8acVu8nw7fYwC8rQQjDWLAV+x3kXx//1+mWOqdjxkCdZ9jMEh0kEXvUnt+Ozo7wYrt3bNCKi0v6xmolWm/2VmX6d+1NqWHSFvcBJWNS/ZqcA==
-cymru.	127800	in	rrsig	SOA 8 1 127800 20251016004357 20250910234357 11313 cymru. MiIL8KY1r6QZTN2fbRnZRXNGEOdQ+KxrTuCsG2Kg6BofXqlnDyOPgYvsPQ/ecqXvYMS0W3DkrXt8kOyu6ZOZ5PZr1KEQ2tlXwStESYkQvoJ/SGqpCX1FIESRGvIzhzjwpBb3nBbA2lE/vC6ce1QrLoTkaXuZPoKNXVfH1yq34pGv1IIu/mHJkXdqqsXU2J0V4l2s7VlOxdbPnl0uHECO5pC9alRPyZI/1YoBCLnQGk3OLSnMZUNtHCu1hDYeq/Opk+Xzpws4VWup4bauEHjnZiTRbnT+Qs3F3uIl8OHwhP8/1ui8qEZvc6rweN0F61BvM2BJ7cOPiS4iNz5GMbxDCA==
+cymru.	127800	in	rrsig	SOA 8 1 127800 20251016214950 20250911204950 11313 cymru. XZDckBR0WMUlMSVMXdixYTL75Zgws69kFZ7PmDt05ATouCPNZYFBi1YkId1MPI19VmbtdxbRAk3Y5hoJ+XtbVmC1sQjimb/tWzvznQmJvO5toPWGCqYTtp1Tzvj19LVFm8S8tnZUr9lNzubXjZv5BJWHquLmzM8jaI9PD4rq1c3BNtHsAamT1qqpLxaFprLXspZaZsCV8MM8JUlRyvhAZ2XSgizggZu6Wnb5jHOXOVZljM8XeJy54urss7He2wRDXPz9jHFeBbOSbQMI1MuKjoEeem9MonSLZsSr9FIa4vRgT4b9l/bI5uwDwkDlp9YPPHw0yd2eWj4BCXDBxy9RWw==
 cymru.	172800	in	ns	dns1.nic.cymru.
 cymru.	172800	in	ns	dns2.nic.cymru.
 cymru.	172800	in	ns	dns3.nic.cymru.
@@ -6194,7 +6198,7 @@ daveatkinson.cymru.	172800	in	ns	ns10.daveatkinson.cymru.
 daveatkinson.cymru.	172800	in	ns	secondary-dns.co.uk.
 daveatkinson.cymru.	3600	in	ds	54106 8 1 22ED6F2F347A35643CDDD2135A6D5C6C9FB3441B
 daveatkinson.cymru.	3600	in	ds	54106 8 2 8C2D810C5F3B34A55353775EEDA23AE8680C627AAC4CFBCDA100452BE5C288A6
-daveatkinson.cymru.	3600	in	rrsig	DS 8 2 3600 20251009042939 20250904040441 11313 cymru. SXik0bBNc2UZ1tahP8YQ5l4DT0CvKKN4xe70ac0mCrewnmVI5bCBTHJrxWAe6C7eklWAz7LDWFyt7RZyG7Lz+6TKgtXu4oqC3I3e/CNRNq5GDnKxIpCfAgf/xWsQXsRFWZHp6obGbw2yKWF5ALEsZ3K32ZxSpZmFgEQhOukAL9L1BOsfNH3lSRnXyOEknuIRj7/MNKLqfHB5uRyhJKv3l2/GM2xN8DScaL6k4Cv+Pi5WIQio/M8muBnAGX/xH2qQGgfiN63ZMjspROgtWU0+w59/vrVVS9pxdK/8VI6BbcY0gv71raO9ygXi4oyHXfDdDjusyTVb+q297uvJi1TZGw==
+daveatkinson.cymru.	3600	in	rrsig	DS 8 2 3600 20251016034154 20250911032939 11313 cymru. RkUszKlIcfWmEnCF+VtHTmOhhayWBZ5fic3BlAPVypWYyDoOaAJOorD+2aKNWrfQBLVL6pssbUdB9hiQrkcSF8icz1Bw2/Li9Y5fENhYkakCEPw8a32xsEc6djBVhVP7fXaUeeiB5osQvIWbW6fFxlN5QBIurp+Q0+rL+fIj84HLXnpG+kuQ9xe1CJuaLdxKlu5bshYaaki/aX3AvQEdzy3RGQvyI+jns0QWnuEoq+B8W4ZtK9H1HDbggIP1Rt5fqKdu9hp3gXPNak4rnx9F8PqReU4iWxKLzItEbUPStIg7SmNxMahkO7okE6gXZEjl9OWnW7CO8F053IVIGPEXhQ==
 daveevans.cymru.	172800	in	ns	ns77.domaincontrol.com.
 daveevans.cymru.	172800	in	ns	ns78.domaincontrol.com.
 davidconway.cymru.	172800	in	ns	ns65.domaincontrol.com.
@@ -6217,7 +6221,7 @@ davidrees.cymru.	172800	in	ns	lee.ns.cloudflare.com.
 davidvaughan.cymru.	172800	in	ns	sloan.ns.cloudflare.com.
 davidvaughan.cymru.	172800	in	ns	yahir.ns.cloudflare.com.
 davidvaughan.cymru.	3600	in	ds	2371 13 2 6A8B3BAA72753220C5CD81BDB64295160FC0FB19A5DE2511711E53BEEA2E0CE5
-davidvaughan.cymru.	3600	in	rrsig	DS 8 2 3600 20251009203113 20250904202717 11313 cymru. UB3A/V9PSmgVzqVMpvspd+v8dZ/TycYpnIpmhI+yiFmBBs0pKnE/sfiFEmLvQW8gXFRuQGVw17obsgWTxSFn/lrqiJ4T7dLJ4kOXs1uxaJx4KPq6OlSIndchI7lkmlvcb7/mSqIKlHhzXvgImNk0p7PaNoDYLQsSyxb1fsRLOyoWRPu32ewa8UIWlhEDjGdTMdVnjU58w7UDx2QibRI4SC5c0qADFbR9QAJ6L6RDZqHWFuL7MGlHZhiv6SqFDx/GU7lSr2aoYEpB1Rza5vFXBbAOZW/yKNf5QPkpN7O90cr7YtqWH+PfzJosh2Fh/VSdU2uJ1zdOyCjpbsRIOMfqTA==
+davidvaughan.cymru.	3600	in	rrsig	DS 8 2 3600 20251016195246 20250911193113 11313 cymru. KuJfuzdI0QwTwXet0rIvWX36CsdOcEkshxOuFo+C3DKZ+0+ZvHJp6vkyU5vFp0XVQAszMNydLoxqE1Ywk20v5rOahzMzZviWsNHvuo9Ldf8lyuhFQbLKIMVtoYjuw07ncq6oAlMTlZgwPAfPVCMOSunbn5QNHiIbphZxZvLJcel1KcmCTK792JU3AYJwbvgoQC3H6s8QQSyuHz/VUHBsv9OhvB2kGu2ytN5YViFTiYcI20e/hcjz0oyEKdZ/bwJPjipzwimQcvhNvuqp88pRPueu7PJTor/H0aNwR41LeMdxwRICHpGJfo7kF8Zn+O9IPbV6wT62zPiyZ6IWr8qqTw==
 davies.cymru.	172800	in	ns	ns1.dotster.com.
 davies.cymru.	172800	in	ns	ns2.dotster.com.
 davyth.cymru.	172800	in	ns	expired1.netistrar.net.
@@ -7174,7 +7178,7 @@ e2bet.cymru.	172800	in	ns	betty.ns.cloudflare.com.
 e3qg5n6lumdosru6bt969deli4ll98sf.cymru.	3600	in	nsec3	1 1 0 - E4ANRJ0EQL2K031SC3EG0SR3VUSDACOA NS DS RRSIG
 e3qg5n6lumdosru6bt969deli4ll98sf.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251012022810 20250907014206 11313 cymru. IRes8+0WjTJzh8JXVkJ8O4Qoa8maETROu8Xiw3X5FiZOiS27fxYPXnDzLSqG19DvDl9jElspSocc5KZPuj5atXVtjkwlQBc6KFK0k807SFnMvjIx7lHASQok9nlTVbmu+y2viP+7J+49XFZBfbZiui7MU2FCjW0N+w0l0Oj9hssvy+3H5qtfvxSE9ZYZx51s0n+lW/GDE+mivJYE+u8r7OH8WcxXRENl4tzVyRbHD0wLQDyXZckBo5dQCtNg8MSzs6aAjf8sdTl0azkURoZO6YaRIrVVTScfqrPoViEd1y9GgV46xmqc5X44PVIJzvm6WDLJn2UPUUH7dM+vMNkjuw==
 e4anrj0eql2k031sc3eg0sr3vusdacoa.cymru.	3600	in	nsec3	1 1 0 - E9VCERHCJ4M8ESEBASJLQJQ8CH4P09HC NS DS RRSIG
-e4anrj0eql2k031sc3eg0sr3vusdacoa.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009042900 20250904035811 11313 cymru. bHkc2vpU0morl2TPwM09eUGbFvyGRBPcvbJeS60IFuzNTYBvlfMnb8gXssTxjkXlLtMJeoyxbguOtevhjR5kXTw27ZGnuI6mX30jXm+ARckoLfIScB5zfrRXgttMYQ3snVX51h+AAl2ZJW0Gts4o2+D7TGXZ6Z+5HZauLC9m35vp5swLT7T8uPS4bPGJ6kQx8Y1eSMXwNyrqzfM0xGM/LVeE/u2owDlK0mtQramdbuxQwAmiDhNZEckZJh3PZLsHBu0Oy8KeV+JV/ZUmvxWasmkFgSJ2d6m/PJsgNS291p2KaCVMj1vWi24Dzs9th/rDyggw/NYPo2XYKOVNXeHOKA==
+e4anrj0eql2k031sc3eg0sr3vusdacoa.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016034239 20250911032900 11313 cymru. K73Vq2Ow/6MzMIhN5DX/cW82HVgsB7PiJwIoE/rfawf0XwSvITa52hJRcs9yUjhkUyKR7HveMMoc/Qf1+XNdpG8Ri+NYXM20G8dqpUb2AzvGzRtZrB8fOKsfjlKbLQ5w7a5xp4G/Qx3CAf5LE/NN1LSVygf6UmLmE/HadROzkHm0VxfkQnJxoYle6dqI2gWWkZYFCMud/b4q80vQbtcXWS99GPLGD+rbvh9D/cEUbtDPGCGvdnsNte5g0cFEUoFUddSeN34ksodkQNM48ONUj9mGLL7n0uAB//uUrx3YPPnhVca4/tS/4G7Lc9ETjFQQs8GGNhma2g7rmlA6R3qYpw==
 e9vcerhcj4m8esebasjlqjq8ch4p09hc.cymru.	3600	in	nsec3	1 1 0 - EJ2TR6K2HES4QO3REHB1OQOA26NVKLOC NS DS RRSIG
 e9vcerhcj4m8esebasjlqjq8ch4p09hc.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251012081503 20250907074203 11313 cymru. eEhpnpWy2TOh4ZH3kOwMgsZBpqzqv0h3KM3bnK94HSRuovz8AR3WS5OkYh/zlL4EIoTK4TA9+ZhPbaAAU8mkC3/2QOFoY+cEmtcAk8b57Q54elGEFfMK5srUiab6bxQJxj1F4KkgYrP+/lfyYOl7SqAwdelvTPIdnD2Nn1a+fSS/3RRqZjPk9qBX5RcOyXKv5njY7XFZQGIjrWK0SoWo7OoAA6qbcF5vmV/6SlT6orARExVrPqxfPt6uO8kfrtzfZnxcfwtaEvdHDiSRIEpCQZgbRD6dZlxSiFj7BuLP2Ab1N+PtFxyAYhgUPvR3pPU4/bsgQiIPAwRHv3kyn3EN0g==
 ealdgyth.cymru.	172800	in	ns	ns57.domaincontrol.com.
@@ -7925,6 +7929,10 @@ fbmholidays.cymru.	172800	in	ns	will.ns.cloudflare.com.
 fcs.cymru.	172800	in	ns	ns1.livedns.co.uk.
 fcs.cymru.	172800	in	ns	ns2.livedns.co.uk.
 fcs.cymru.	172800	in	ns	ns3.livedns.co.uk.
+feeds.cymru.	172800	in	ns	curitiba.ns.porkbun.com.
+feeds.cymru.	172800	in	ns	fortaleza.ns.porkbun.com.
+feeds.cymru.	172800	in	ns	maceio.ns.porkbun.com.
+feeds.cymru.	172800	in	ns	salvador.ns.porkbun.com.
 felin.cymru.	172800	in	ns	ns09.domaincontrol.com.
 felin.cymru.	172800	in	ns	ns10.domaincontrol.com.
 felindre.cymru.	172800	in	ns	ns1.harp.co.
@@ -8972,8 +8980,8 @@ gocompare.cymru.	172800	in	ns	ns3-01.azure-dns.org.
 gocompare.cymru.	172800	in	ns	ns4-01.azure-dns.info.
 god.cymru.	172800	in	ns	ns01.domaincontrol.com.
 god.cymru.	172800	in	ns	ns02.domaincontrol.com.
-god55.cymru.	172800	in	ns	clyde.ns.cloudflare.com.
-god55.cymru.	172800	in	ns	mia.ns.cloudflare.com.
+god55.cymru.	172800	in	ns	dns101.registrar-servers.com.
+god55.cymru.	172800	in	ns	dns102.registrar-servers.com.
 godigi.cymru.	172800	in	ns	ns39.domaincontrol.com.
 godigi.cymru.	172800	in	ns	ns40.domaincontrol.com.
 goev.cymru.	172800	in	ns	ns1.myfx.work.
@@ -10454,7 +10462,7 @@ hs-dc.cymru.	172800	in	ns	ns48.domaincontrol.com.
 hs33.cymru.	172800	in	ns	ns21.domaincontrol.com.
 hs33.cymru.	172800	in	ns	ns22.domaincontrol.com.
 hshk17k1vnbpl6c0v58bqkfdviptnqpd.cymru.	3600	in	nsec3	1 1 0 - IC5PP09CG8TEULNIEVT9LVGVB9VBKEUP NS DS RRSIG
-hshk17k1vnbpl6c0v58bqkfdviptnqpd.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009101213 20250904095320 11313 cymru. VsEUbst6qXQJvRZuSvNloehAEqL1/P4RuoCOGGjJG0d5ACYrdokVDoHc28RXkzPD6IDuURRJDFMrWUgeR3+LJuw+uTF5waljuDZhng4NQ72s+ccbBB91CTspi6SO23Egjm05n4pwxSEEGzpkgaTO+b11H+GPLcO/V0bzGgEtv2xJAdeR6dAMOk846G2Ik973dYC2sN4ypKXu27xUo9q17OHuKCDcNZil/OkMWdU0o9HcPVApBPZZfiftfghJZ6dq2hwQQi3NQcpz5j/L1TZ7J3/T7+wtO8Yafr6SuNwvNkghbqJEFDmm1iZf9M5ykzTHpF6sp8XpI2aM0a8zegCXGQ==
+hshk17k1vnbpl6c0v58bqkfdviptnqpd.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016094524 20250911091213 11313 cymru. YRRIAWQtLZtnIiJ79y3bbOZkHUyPVlZqKMjuichU0xe0PRK0RcRtf/xjrjgAuUJuTP+RcDySbJ4B6jIE+e13Mh73yWjAAI47Juc6/KWcCIeU3vzi9R1hM7vu6U9+qyJ67F8FlFDt7FPJecx4L/D5ekIWjrzQ3vkjXxsAKlhggZBaunF0TAe2BnS+1BofUrkrB18UPkSfYcry+rrnBBHm8iI4LQBZS7T7qd8YZOedfYgp2jAb7dLOiE6moyeJle6/S3KV6J5uG7OPeBU3IVkF8GB33a5qdOzQk8lT3EzDeRFwTlHEDZekRAHFtJAck/mHJLyFLimffyxmVzMxXoesmw==
 http.cymru.	172800	in	ns	3433.ns1.abovedomains.com.
 http.cymru.	172800	in	ns	3433.ns2.abovedomains.com.
 hub.cymru.	172800	in	ns	ns1.rochendns.com.
@@ -11507,8 +11515,10 @@ krupal.cymru.	172800	in	ns	ns55.domaincontrol.com.
 krupal.cymru.	172800	in	ns	ns56.domaincontrol.com.
 ksd.cymru.	172800	in	ns	pdns11.domaincontrol.com.
 ksd.cymru.	172800	in	ns	pdns12.domaincontrol.com.
-ktg2gg88md5moagl2p23u1uf1j6a5f4p.cymru.	3600	in	nsec3	1 1 0 - L0SK8LQCL8411E90IBU92FFDA9D57UFU NS DS RRSIG
-ktg2gg88md5moagl2p23u1uf1j6a5f4p.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251012221033 20250907214431 11313 cymru. ZdGg7RqEWm9Gzs8fTDup3qN/3WMm6FN49/gzNjPtsW/cOlOfKEOI4bUhyud0bBHi3+WKnCHypByHJEqjG9s/U3zqiW24AiajhkgfJNU+MU0eZx6QVpRMFuXkMagJIcllQffQlGIKE+f46ONf/01nOwycrJyPpwXDxDUptGvtMwrhC/WM5Z0LVvocbxXKFSA6nlHHuX5I7asvxCOwTOswaVL2ozuC+WzfhRi8AVx5k69XdupEka0KIgto3jCovgwUW1dl1GgXiucbNF+5ALndGG+UfqpKhlk+5BJiplewyUqOYEmxT2GnQJp+VUVyATFPCg60lDUlAXXmPyVFXZLMBw==
+ktg2gg88md5moagl2p23u1uf1j6a5f4p.cymru.	3600	in	nsec3	1 1 0 - KTKDFGVJORGRBN9S7625BNC3OBFI8GEF NS DS RRSIG
+ktg2gg88md5moagl2p23u1uf1j6a5f4p.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251013100724 20250911121139 11313 cymru. UNke11FLzEgDQyHCCN193cVffnrMWxnnFHpDLLCX5MVMzsdBMSJeyPKBqUD/84+Eg7jFuPs4VaDULvPPZinlmrC81aJRCtgJpIwB3zSsDVtfgUmnxldW3boHtxbpuECHgoJcvmsp3yBvmMXuBck4ZCYN74PMe5oaW/O/R5iYbcT1pvhnzaKLDMAclZI4VCw3NZIePfH0xcrdeb0Qvfzyv8MaD1U/eiA2DlTaqJ7nUJmFdzT7eY2W7lg7YA+ZOKcaagXwAIQSj4SRnokQqTWW5pY5QLInyHxvLERqFbO79S/dxN3uRE7KnvkDY5e3SqHDUbX+uMMKrVoLrrA/VHZXdQ==
+ktkdfgvjorgrbn9s7625bnc3obfi8gef.cymru.	3600	in	nsec3	1 1 0 - L0SK8LQCL8411E90IBU92FFDA9D57UFU NS DS RRSIG
+ktkdfgvjorgrbn9s7625bnc3obfi8gef.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251013100724 20250911121139 11313 cymru. Ate0BZeuT3q1cBPUoHH0TEAU6tr2VPIWWsz+WX+nPRYlSSbqoScdw5owD1IvxyBuVzrzWxg8ixkaoDPqZKsUvqeC62k/thviV7Zg9RRVBp1Ss1bYa3d5HD7uwBZTbP+ySVZQs6uVlqSx2oLYdgMyONEj8qzAghf5ul74dTJXsztgWwOz5PA7RLBs2iPitS9Ft3IfoZaieIwymPXBPXy3QhOBqHoM643ZiQBXmFJ7vUMhnmlS4xLZS/x4o2pKs+muLZaAmlAS+EkcxkHPlSwGGq7uahZ79mx83cqIuesTvG4WihU+iQGyO+HqeelCp2Gfvh310BHVFmCbyI2cPjuNvw==
 ku11.cymru.	172800	in	ns	clyde.ns.cloudflare.com.
 ku11.cymru.	172800	in	ns	mia.ns.cloudflare.com.
 ku19.cymru.	172800	in	ns	dns101.registrar-servers.com.
@@ -11918,7 +11928,7 @@ llanfairpwll.cymru.	172800	in	ns	ns56.domaincontrol.com.
 llanfairpwllgwyngyll.cymru.	172800	in	ns	ns01.one.com.
 llanfairpwllgwyngyll.cymru.	172800	in	ns	ns02.one.com.
 llanfairpwllgwyngyll.cymru.	3600	in	ds	9588 13 2 0A3147B62D265C953BBE5C1A32652A65990A7C2D5FCC4A65442AA3CC0A2E7DF8
-llanfairpwllgwyngyll.cymru.	3600	in	rrsig	DS 8 2 3600 20251009042900 20250904035811 11313 cymru. FwLnTm2hmB+fJ0WNS/7AghcwJSyEkKa7chj7wzuXRf5l3siodOrYw/T/B+l59tbOzmQjS7gRGPrZSmyDAAaZkWpAS7/4iW2sPMLPXS7JGX7OCLwfsAQXVjqjFoO0JYudRcSKFY+HZUtrOHqqDPd0lTMZuZ7aLVJBci1vyLdKWSmsOTrfY/IPSmWd2SFN1ggXh16kS940EZMPJ4p17sw1rEjNW5W4zwHjmHuMwCLKAqX+EIulRIayF0m6jCOhNuWKp6IzuVBCrC+dKOg9bOXsspk1NgN78B7sIm+IpGeAxF5kuTDkuQ8Qjzxe9ql6s+GUBvA50lVrObGxbvcv6RPKPA==
+llanfairpwllgwyngyll.cymru.	3600	in	rrsig	DS 8 2 3600 20251016034239 20250911032900 11313 cymru. HEqD0ouer9HDPmRwBL77vvboABrH4hH2DD12cSr8lQUzhG/T1ACFjIrLboUpbFpkEHi7X15xXoZkWx/1mLGtFj5lTIEbZaJHzL4liCyYU1215ftAe70ssAcvIIHenWI017i0SRxud3eEItTQW+JtJ+2UGcmzv/YWuou07FBEgq7PMdcMVQ8i18o8Bu3IVr2aQdvMXOa74pjbldSn8wT3xK2VhNRn9Xzn8bZ4c49uhLa0jpqwB/GpZ4WDRupcgSpwg91vLlT8WqsOFfhSOLvh1FsFSFChp8aXIYulLXkTUhxwNJ0RoZpCxbxozC7TaTzxek+aitbaFaLDJLSrhZShZQ==
 llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.cymru.	172800	in	ns	ns55.domaincontrol.com.
 llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.cymru.	172800	in	ns	ns56.domaincontrol.com.
 llanfairpwllgwyngyllgogerychwyrndrobwyll-llantysiliogogogoch.cymru.	172800	in	ns	skip.ns.cloudflare.com.
@@ -12350,7 +12360,7 @@ lowrihafjones.cymru.	172800	in	ns	ns40.domaincontrol.com.
 lowriroberts.cymru.	172800	in	ns	ns1.domainhasexpired.com.
 lowriroberts.cymru.	172800	in	ns	ns2.domainhasexpired.com.
 lpahobbu1vvgmbibdq11kmjf8aq59ab5.cymru.	3600	in	nsec3	1 1 0 - M4LFQLQ7QMM4QJJCH79DV959DOIO5ESG NS DS RRSIG
-lpahobbu1vvgmbibdq11kmjf8aq59ab5.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009040917 20250904034002 11313 cymru. V5rIoMxTCBXD1Zbr+GAzTKr3m2Fdp9D1A47cD/5Xap3WRBCAx64B8uD7s0EW6qpSXZaeSggtri2GvF4dwmQOV+JrMcmVsVD8fHWPY7SgJCW9IeIYV1FvsAXgkEtkELlfJsVUC+GORtgybuHNjftCx4vbLubKySTbbITyxqnONxnzQb2QW3EZ6hE6EKt+0QX1cKSnyRL9Jr97o7LnDp1F0vEu9/6kQjJjfSZJ3s1UGjOoNtxS4+StuuQgzzZfFkIK3pxlJIlbJQMmFrF398zJ3cs37gyNCdoesxB6C0SUvvrHq0kmxsgvZE5KYQppULdmaBzzqvuaegsQjltD3yQ3vQ==
+lpahobbu1vvgmbibdq11kmjf8aq59ab5.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016031535 20250911030917 11313 cymru. RWN6PmvYjsnSe0pzzUEXx5p2NUV1hLveUFQRqy/2AgZZj4e3Cttw/X1ZSCWdREciyXQWY7mAVRrGSLAZOhDsswDxd6PnizX0wMud8QYWORmFfR10XAJy2YRTU5kGhSSv1y3dh2h71RdGhuk+5dQrnmhLWARHLASuYNDxAgi/2tXut04/ofzbZSzJ1auHSFjiTeZzFWhaL0oEliU5FvirIbVwqk12u7RRt2g68e7nQb2aDogJ0FyXXTCvWlSoaug2ucg6m9JhB3ssnuGw1fb/Sqf8fiy1CLPgpkIkA9niEfnU3VCU1de0je+RUcI9pHIN4sPIxlP8xZAcgZ/7GEAQxw==
 lph.cymru.	172800	in	ns	clara.ns.cloudflare.com.
 lph.cymru.	172800	in	ns	theo.ns.cloudflare.com.
 lpip.cymru.	172800	in	ns	georgia.ns.cloudflare.com.
@@ -12382,8 +12392,6 @@ lukefletcher.cymru.	172800	in	ns	ns12.nationbuilder.com.
 lukefletcher.cymru.	172800	in	ns	ns13.nationbuilder.com.
 luma.cymru.	172800	in	ns	igor.ns.cloudflare.com.
 luma.cymru.	172800	in	ns	keyla.ns.cloudflare.com.
-lumaclean.cymru.	172800	in	ns	ns45.domaincontrol.com.
-lumaclean.cymru.	172800	in	ns	ns46.domaincontrol.com.
 lumi.cymru.	172800	in	ns	ns.dan.is.
 lumi.cymru.	172800	in	ns	ns.dan.me.uk.
 lumi.cymru.	172800	in	ns	ns.dan.net.uk.
@@ -12701,7 +12709,7 @@ marikafusser.cymru.	172800	in	ns	ns25.domaincontrol.com.
 marikafusser.cymru.	172800	in	ns	ns26.domaincontrol.com.
 marikafusser.cymru.	3600	in	ds	17129 13 2 22D8E16FAAEF51BAC6034B93C7DF181833D9C30F99EDF6352A05A157154BF5B9
 marikafusser.cymru.	3600	in	ds	9840 13 2 C3BB23DA62A9E48D63C2A768AEF2BD09235B6B9DFEA9958E05E479A0AE8B9234
-marikafusser.cymru.	3600	in	rrsig	DS 8 2 3600 20251009214950 20250904214349 11313 cymru. ETqE509zvoiA2iEB6wL19L4d0IFouCpglNPPpK6dMFQD4xsAtOZ1Fo9CiuM00Z1QCN4jKct2dTC+2A/H775PLi2ZQyX9oYPSow4J2uWjOSQH2QJI1a6rfZRlqtw6q4Zrel+wCLZKTkZJbI+WTwrsvciKw9SXAPCsvuMczmEbuNtqWgBjrHaHJefKPLJNkEsOvcvMOTlQoRKhv28UM6i0gi3JOvLPhRX3C0Y3tgJ7qKg/Bk4+zhpjlJ4NqbGMXBFjQUSe9oLl54g1lne8H90Zo/5NV8rPXKmGvvgKL3pA65cHsC5TW6kNk3HZv66zlRV+uYiJbGLfvLljOrYe3OzX4A==
+marikafusser.cymru.	3600	in	rrsig	DS 8 2 3600 20251016214810 20250911204950 11313 cymru. TC9fDnUqKDbmt5lhJtpZ7ZPLWzYiwLX4CcxLgbNeSJ04YgqjMbMNg9yRGqH2jYy9mX0zhZQrhu3Dnh+HYNLUJzn45FnW26OS9JnTLnBLyvyBMxj5Eje0oL9kXwTFP9dJUmt8znAzfq83u3ZpkoyurvcFEo2NzuhF73PrC6jxTL5LgjIw1OfaEmR5U5vAtUWUA++xe19+6ZSUXZTQw/Cdm7/SlJ5Jt97M7ZvMdsRCCatuLI8xVGlZRmYzGL+vyYweHApG0tkXf5urQtcy1uJRpPho9tDjtjn4O/i0LLCau0b2IQfRbgsMPVJHTRL4Y+yhu0wjj9G5Goxsw6SWM/PGjA==
 marine.cymru.	172800	in	ns	ns1.gloversure-hosting.co.uk.
 marine.cymru.	172800	in	ns	ns2.gloversure-hosting.co.uk.
 mark.cymru.	172800	in	ns	curitiba.ns.porkbun.com.
@@ -13708,7 +13716,7 @@ nael.cymru.	172800	in	ns	ns2.bdm.microsoftonline.com.
 nael.cymru.	172800	in	ns	ns3.bdm.microsoftonline.com.
 nael.cymru.	172800	in	ns	ns4.bdm.microsoftonline.com.
 nafef2pe4gm46n3rmuqohingpl9ft535.cymru.	3600	in	nsec3	1 1 0 - NL0UER7TBIE09IKFQD5VGQ0UAU03IVSB NS DS RRSIG
-nafef2pe4gm46n3rmuqohingpl9ft535.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009214950 20250904214349 11313 cymru. Mv87G6Hvs9ppqoZ2pWJEG+wtmaDHgawZKSlJLGRcPQ5Emgoj2mTTYUSWXwxgnhsCQxi1mrrb89lryE4yeYO4xjK1o3Bx7i6vmIrrWL7CdJsM+8P5Ihp8jGooUkkoBW8I3XwW+NatNz9Tods7lPJOXmxalR9eaRAn99sJ5WqTipUXyXWSFnizXTPweEoFu2iJh7bFBkatvq2nSIuyWhIxROJMezSjJzr8IM4cgRuoopiyKpKBrjbBD1yO4Z1w/lGq3rtBXeFaEZ8OFh32nq/wIuyg136lyDnrkZrL/XTeabY1tmi/7+nqtG8sQd6FDwLlZYKj0HuZDgXUUf5HAGQEQw==
+nafef2pe4gm46n3rmuqohingpl9ft535.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016214810 20250911204950 11313 cymru. YFnBWO7P+MQjXdQ9tESKdCWutNyPxIWGDWa1GWjqNVwy1ur1mxsRE1/MBDbFgZeNE2figTwaG7CWNNVJBd781BohOcsCgI95klfUHal5Gx7/B3zkhW9zDBaGllW1877Zb+58PxKyAdqERfrn5gp7qpVqN3o6FONUZxmT/G9GoRi6+BKy//gsZE8NWsg0xZtl6WPZSnv0Zy13vVxhYfokYQn4v3zerCOlmlQl2ejd3WMwb98fsgph4DIL5JIW7rWJwzP/AyN4yeA2umkij9gNTMfQrup9PsIBFWaCEQ9ufhHSaA9Brdc3A3Weulk8Zxkv67TiMtcMNmEwBa35W4KUfw==
 naht.cymru.	172800	in	ns	ns1.ontinuity.co.uk.
 naht.cymru.	172800	in	ns	ns2.ontinuity.co.uk.
 nai.cymru.	172800	in	ns	ns19.domaincontrol.com.
@@ -14105,7 +14113,7 @@ nominate.cymru.	172800	in	ns	ns2.bb-online.org.
 nominate.cymru.	172800	in	ns	ns3.bb-online.info.
 nominate.cymru.	172800	in	ns	ns4.bb-online.biz.
 nominate.cymru.	3600	in	ds	31681 8 2 BC89EDB243951395A285B7AAF245B3879BE357F97A194A0180B61196486F9F65
-nominate.cymru.	3600	in	rrsig	DS 8 2 3600 20251009064916 20250904060855 11313 cymru. JnZEEAcmQy30UNgxO2vP9hrw74r7hMWyQNzfmAkOcCj3F+BvjYzLmN+ZvulIVXTJBmw61sEQxEwOosLrgyOjtZTJvAd8o9T/96pGFi4OrytxrViK8b8euM21sbWbXcxmn7ez0lFJRm8i85Ta2PseS64HO7MYV8rk6x2tNoKF/UWeMZLn5C/9/YUX1RI/dYcjevi5Ih30i45MXB8RtT7l7eS97HEzroO1zFHHM5uXARsv4CWbF3llEHYAWGRMIwH8r7HnWbrWuj6d4XP4DAO0baSfnptwsYyz8yttbomqz0iCau1hGaOy6OsZsjLziKPbh4zVVv2TD1zhF2DEmQopHA==
+nominate.cymru.	3600	in	rrsig	DS 8 2 3600 20251016063157 20250911054916 11313 cymru. hT8bgYsheXZ6dHoVRCdguIWHGP9u4tAjuACOnllMjHVVDYm+ASv0vvE1+WBs1gyhiA8Xz0PgrNJnjUu7D/2os2LJ6CtElJl6Rc10NRAKXkSBYIrJHTun5yf7uxjg5gc3yCHXIjzO53P3zhsdksyHYJyn8htDMtnNQmEeQo2gu33hfz4xl2/78nCR659nUTnV+u769SoD9JOdPHDh1rvt/AsQY0Y6qQWiW4irQmbLihEh0iYNaueHp4rNcrYaORsIWI8/GuFKvBu4XgOTXpg7W1BhKiapL6Ze+EHP1COQ6Re2Dgg2mvjX30WDkPh13ObZ/G/A3czpTbj2kLG+OcsRsA==
 nomnom.cymru.	172800	in	ns	ns1.namecity.com.
 nomnom.cymru.	172800	in	ns	ns2.namecity.com.
 nomnomchocolate.cymru.	172800	in	ns	ns1026.ui-dns.biz.
@@ -15466,7 +15474,7 @@ ppiw.cymru.	172800	in	ns	mnetidns02.cf.ac.uk.
 pps.cymru.	172800	in	ns	ns01.one.com.
 pps.cymru.	172800	in	ns	ns02.one.com.
 pps.cymru.	3600	in	ds	46356 13 2 8C5F1686EB6C36674CE6AD97FD31FD08EA0ECC237F302D168DD1890B19870B1A
-pps.cymru.	3600	in	rrsig	DS 8 2 3600 20251009153022 20250904145806 11313 cymru. P/cbzgfzdHb32KEZugJGvbzbl8iLSiFXR96oUigWdIgTYbs1u2vWZqNP+Cw4p5ASwesha40lLq1VDZVOCJkMf09GDgE2ya4yYSwNB8zAo9MvojqIqEuWbqe6gCDO1YXO3dGZhUfBPtGiEO3TUorpzHWXpFtsWKh5zkwkqpMUkOHjI7NOP7zFvT9Y7yFpsxQEuc3OeFmEhVidutmbUzd/MgO11tXXu5VZLNODmRoR34F0FGzJ/E5NdPNXNQuxesYwuedExbkjhwasYUZkZBuAZ5Jj3RCCchOkQjzoBulq4ES6Lu7/uSMyhsQFx4hUfZqklY34nBUvThUCUHCEMh7YAQ==
+pps.cymru.	3600	in	rrsig	DS 8 2 3600 20251016150914 20250911143022 11313 cymru. gtJKSDQaznvvMZjCZwt7F48CanHLSmdRt48zWeNfyCne3UMbT8R2PiKTr5Nlg8Xlv8GV8EkiC61YtTPz9SgDTT1n2vd0N3DeaU/7NjfC3+U/KQqzcWz4goSM/BykHes9ckhuDcZs4wvsERr/8TTPARr4ZC/2at/qdmvxAcCinFriHGnmw93Y6TtOFrU5hjzqw3g7RmlebrBzLw/kHX7U1qGbbwks8VKZbImmvAofvJJoTpqmjgAZrAWWpjNMbd6IpW71BHR3SdpIufw5M2ni1uy4XRHHe4OuAgvPWdbA8ywrzN8Z5rQlYmlUzky34+DTbc+xa242rz/rYdd6oN31gw==
 pqs.cymru.	172800	in	ns	ns67.domaincontrol.com.
 pqs.cymru.	172800	in	ns	ns68.domaincontrol.com.
 prawfhiv.cymru.	172800	in	ns	ns37.domaincontrol.com.
@@ -15871,9 +15879,9 @@ quickfix.cymru.	172800	in	ns	ns28.domaincontrol.com.
 r.cymru.	172800	in	ns	ns1.dns.com.
 r.cymru.	172800	in	ns	ns2.dns.com.
 r4qf2o1dnoph65tuhvaeq2pn9v599cl9.cymru.	3600	in	nsec3	1 1 0 - R7HVTKF23874D31HF6F88O8PIOED1552 NS DS RRSIG
-r4qf2o1dnoph65tuhvaeq2pn9v599cl9.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009153450 20250904152137 11313 cymru. EP8H0N3uyf86Qn+yoKZ1dAkeMgXpJiVKB831l34YFCmpTMg2wAcsr+2LNHfL39GX/MQTVQYp9nJBDboGwO272ay78jcALknJu0l0yONLtjHZf4AapqaDLl8j//1URSaAw8sSFIG5pPkkeWPTEQiaSzn7UuH9eyUt+Ym/mUhcIccG/7DXidL3+gZdWlK8lmIH6mXvymIaFGqGUJxx8tU/DAue1/yCoWDeVHfVVoBwsCsKf31lGd1MyGraHU9+7tKMywwNPEnEluZ0zvwpvunlk/HLCyJKztBIOIUMPMlF9RFOUJD/qRUWvq6GjFWFe6p4IUjjvrm2Vt4pqSybfwT1DQ==
+r4qf2o1dnoph65tuhvaeq2pn9v599cl9.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016151156 20250911143450 11313 cymru. hP+mZ7PJD15rJFbOAVXplF5eOEoSk77Jx4viIAaOFqfPd+mUUE4Ly6Y0uVJfZoNWzGrNs/daW8uHhWmB/+1Ii0ThvPz+v9+9+tQpBKxdqW5xN+UkY0A7fZZuHTZyg90XHVm8hWUq8Aqv+5YA+FyDLkBPVvW45fKEH7w7tnx+uXykQDhijow2eVwfvqI4OGcsvjvnO0fAkiTpsJBAYvG9DhaCon3V0WsuqkrGHHAp+HAJdVUgI7xdy2yqmShYLoOFJikMvN018Wrkhl0nMtbHpEu/OTEFJCNcFtaVdOlo9oDihUHaaM+TTjx27LyeAjI7vmAWb1XIPOI54L6qEFFwPQ==
 r7hvtkf23874d31hf6f88o8pioed1552.cymru.	3600	in	nsec3	1 1 0 - R8S5K684KR1T8CKJLK0LAP9F1US5GQSE NS DS RRSIG
-r7hvtkf23874d31hf6f88o8pioed1552.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009153450 20250904152137 11313 cymru. QccDLQqnM/1/4wje49tVcAfDJeu3tAP5e5SXuCXDTZJ5qhIcORQVtXSIzESaTzS3wE4Hnur6qZciejjRy1DBvnJNbxraHR9nFgBNx53JQGn6DZ31/PU86UGcrQqEMnRXNYVbDTZVSKixkAaAJu4NBH5dx5w/UmeKMnKp0Lk58Ww7Wo4RCqGr7yoSazkYINjvmlAiKs8w86MCDB7F/N5Nl+6tqQYXs06hscVUKzWflnPVGmNL1wfYYs2A+TOBXIal57pSoT1adeC5xdxrPDZs3ronEpZWpLda5fTURnekeobuH1tzIzPhtdq2MoAoFv54T9rcoU6u/wfahh2HJtfICw==
+r7hvtkf23874d31hf6f88o8pioed1552.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016151156 20250911143450 11313 cymru. cqXyeZ5mTukerB8G1jIIY3sVhhg4IiFYBkE8gGiq/y/+sQdmkjL1RGyEENxx6cU0kifOnM7B1qDI06iFly0TZhl99xPcwV4/5s5DRCmBp/Kjjo0TNJfDJyngkelXfOxYz49NkgOFXgDFMpMjtRqzVm9FvNThdaF4fqx8F7oZEXl4eGVLAjnrYkp5zcMxgQ3SRuTZpr9AeUvbCai+9K96cQckzkerTmQ10BHb5rIEjZ3PeUhdjpDwN8ThRz6iykAmV+F3Od60+hVALdiI5ypn+oEAbM8d6tMYShlOHauSEktIJ7YJ6DiDwtk8fMdXyS2VmiCyIREGrcgxD6hRVpN3Uw==
 r8s5k684kr1t8ckjlk0lap9f1us5gqse.cymru.	3600	in	nsec3	1 1 0 - RACME465A303N5H5TTCKJK7AH274U0SN NS DS RRSIG
 r8s5k684kr1t8ckjlk0lap9f1us5gqse.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251010152605 20250905145614 11313 cymru. d4ZCeE36Pom8MRHiGskfvkD3XZajnCnO66Fb7pPf3Bhy5FQw7ekYrjagx48RKkFczAcUwsBYSOGTjod8hVPMRQijBSoBBtNFIJTu3mNSKbPsWIPo85YXOp8SDfSkPhGkROs2toJC1JPawp+oR6AohAR/Rk/q0YKr4frnGMF00ED5KU1qIjSlPCFzi0KlhMppCnLJ6Lx9CjkLnqIA4DflPZvFdYkNACUNN+AxbD4YaYC04cT/GHdSdOQ7ItYsaUNn26YxRytJsNjRJtaFI8SUTwi8sOHa7Any2049dRFD/i51myfF/EoVH/AyFsnKtMsSHOYt9oZXJz/CbKw9qRlw8Q==
 racetozero.cymru.	172800	in	ns	ns39.domaincontrol.com.
@@ -18741,7 +18749,7 @@ thegathering.cymru.	172800	in	ns	ns16.domaincontrol.com.
 thegemstonecowboy.cymru.	172800	in	ns	ns01.one.com.
 thegemstonecowboy.cymru.	172800	in	ns	ns02.one.com.
 thegemstonecowboy.cymru.	3600	in	ds	58670 13 2 7CA1C8284DFCF237AA78F11A898A6EE53EE2B6A5575A721DB578082684EDF7F7
-thegemstonecowboy.cymru.	3600	in	rrsig	DS 8 2 3600 20251009054151 20250904044951 11313 cymru. FM2wPwWx/nGEOTdhGPX65uehq7lIMkiwCjWsOuWvrFVtJyAzGO/h4Kf3Z2AvEv+ReQcZLY+H3sELAO2vQT5NT3xJZs6UdML5bwZDPwVCsHe0WDZ1RSoHaELAkjFb2cLrBcwWFZEGW1nasCHFRkD4ZOgoeW5QA5HZjqLK2l+IvsDplqcF9YpxaxFcNE/ezkP0BUMUmJjd9Sp3QcHkuUs4NVKNxq2hI4JoxzPyb0k5TYEntJ1v6NLnIuUrT7PRNorh9adM20VjAJ77/g19Pm9QD8C91ee3VRmVZMu/nbZWfNlFQuw7UdPO1xuT5Yscyh9W6HoApOtc8OR/4yfC8Lm/Ng==
+thegemstonecowboy.cymru.	3600	in	rrsig	DS 8 2 3600 20251016052557 20250911044151 11313 cymru. BvN0a71Sf6/9Rrz2roOmxz55RqeIJHrWZjJj10zQ5gURIi7kXlIchVttcH8UsirdDUTZBRzP5QLmEArICwaisEseDe3XzRuWD5m9UdKPkn0M8uvn5ZxrhmbsakAHny6G8rH9dJI3LHE5ZMAl5YJF7u3SXMkeGFIIt06Vpb5H+9gklB6WJuMQZ7x1T5mBkXrhnF1rrrlTRSCqftdFZtlHx8ysXdV+H2bGheEjW70dF/Nb0ZZbz54p6zZzAwep9/fvH+wWxkm3yOTnlHpXacz+7w2M+hyCEsw2Cs9zBinLurlQnX138p2HbB807zLmyoKlw3QNnBcFA32YGGOqGu2VIA==
 thegladstone.cymru.	172800	in	ns	ns8.wixdns.net.
 thegladstone.cymru.	172800	in	ns	ns9.wixdns.net.
 thegreatesttry.cymru.	172800	in	ns	ns71.domaincontrol.com.
@@ -19085,7 +19093,7 @@ topofwales.cymru.	172800	in	ns	ns1102.ui-dns.org.
 tor.cymru.	172800	in	ns	dns19.ovh.net.
 tor.cymru.	172800	in	ns	ns19.ovh.net.
 tor.cymru.	3600	in	ds	55190 8 2 3FAEB58E4E6C74FC6E2E213BFD8D1D1F79AFBC0AB7AFB0B675311B053EFAC57D
-tor.cymru.	3600	in	rrsig	DS 8 2 3600 20251009120548 20250904111302 11313 cymru. Od3LyGXCIcWYS5+ZaXOs6b5TTa6sxnD1g8nKgXJvj0RdNvFGUK8TxtEBYkrRUxPMHrWgO523QeVxFDMpl3Klc2ya0sNILTojpiujy2wjM8lw+0StY7trb85Nl2F5vavW2uqMGfgSMBCYAfhXKA/z1gCxvszo0M21IvXoJbrLCeTCbN1ROFDLhDJwAe/C73A3J8/mfbIudxEdNoy52CHNpHH7dpGlFhyGbCZaCrG8vIUPsCCi+cA/bW7P2CpFHdNvXskF+bf9gb6Lm281XrzERmUGm6Lh0rIZDDg5AdzO3riVN+CCUk3mSjfEuOMpnL0M6Dhq2bOrZ4VhwczrcptAFg==
+tor.cymru.	3600	in	rrsig	DS 8 2 3600 20251016115244 20250911110548 11313 cymru. Jw2e6uyW6I5fK4XIGMeLPK57M7dbvRdtsI02ADca/GRFj9o+Q/dS/pS1qoGE9Tu+8I76xTHqAnrR1Ar2g/SLX8MGyo7Ff+HnU7xRpo87/pgfjvMlZgR1LDo+ftZwKIdWlV8FiwOX1MhDQbfV8bIojqybWu2dD3UmiaYdgxFvSHq1ToKR09RQW/A2djGnueR4DjX9gLlb2qT4m/HcZ+AZ2hWSDljyraU/PaypS5hk6LbQcnVMvmRjUI1aqirR+/NROuwdscY1rLyq3evR/LCKKZzrMC95p+McKEMbE1/+b5K4KGP4gx3zcfSNWoAbdHoQ5GBAWojjHjyoi5/tyZmnFg==
 torfaenbusiness.cymru.	172800	in	ns	ns67.domaincontrol.com.
 torfaenbusiness.cymru.	172800	in	ns	ns68.domaincontrol.com.
 toriadauiysgolion.cymru.	172800	in	ns	jade.ns.cloudflare.com.
@@ -19248,7 +19256,7 @@ trc.cymru.	172800	in	ns	ns4.demysdns.co.uk.
 trc.cymru.	172800	in	ns	ns5.demysdns.co.uk.
 trc.cymru.	172800	in	ns	ns6.demysdns.co.uk.
 trc4tet0e9jbsvpcr1gdff8blmb38n9i.cymru.	3600	in	nsec3	1 1 0 - U14PADP9MBGJSL471M6FODLRFRBKV3UV NS DS RRSIG
-trc4tet0e9jbsvpcr1gdff8blmb38n9i.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009203113 20250904202717 11313 cymru. VH7iD/OqgLaciADyfns77bF4ERx8CgYDkQz3+bvpASvZPGEydtUHWMUNi+4gtpiW8PfXPrgDYqiWd27//dlOAaezq316Q6TxO1a8mgpe3MnREMZGsIXW6KUqyyxfJvkY3CS/4j521ZYL4dsNk3AfwVV2GjgVV0uRqTYMoF+0cMf/iaseLiwqy7Sd+fOv01XLEeVlj9PjoKPOsat8DGgB3aagxBXdrMXKDjm0O4e05CIr2Xx2tideOc3ARUX24eQMnvZEZrcIZ7Lx5axo3degU/Jd/ev0ZHRCEyX1HFZrtV2Cm6NconSz9XJFsKWuKJcHHWH5CwnW1P4pmFmCi/2PZQ==
+trc4tet0e9jbsvpcr1gdff8blmb38n9i.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016195246 20250911193113 11313 cymru. DC5yU7rTeEcbNlM9wscCBVet2N4HOelhoKi+ZjOYaWHwRZAdEh+ClF0eF5+L3RrXEBkcY4jRXEn0jJqyjhqyqrmiwBP1N0zkTHkPqtv8m5k/zGKfKCF80dMO3sDm0uUac2APVFasmR22NeqmOLudSZ4lYUEFw5oMYVpLLoRmp2DfmSg5xfyayEWLrXk5jICMBDpdaA6/ixNtZ+yqQHh7RZoUSRgZKqCQjc49BNqULMOUe0o0Sg9CUReSDj08LbrRjjtqF0HuX1aKnzx62R4k7KTSd2Cfg0hGJGeh4Kjphouwq9kkqqHU5t7V1mHMLLnwkVXDz64Iuots9GpLfkGjIQ==
 trcgyrfaoeddcynnar.cymru.	172800	in	ns	dns1.comlaude-dns.com.
 trcgyrfaoeddcynnar.cymru.	172800	in	ns	dns2.comlaude-dns.net.
 trcgyrfaoeddcynnar.cymru.	172800	in	ns	dns3.comlaude-dns.co.uk.
@@ -19384,7 +19392,7 @@ trevstaxis.cymru.	172800	in	ns	ns20.domaincontrol.com.
 trewern.cymru.	172800	in	ns	ns01.one.com.
 trewern.cymru.	172800	in	ns	ns02.one.com.
 trewern.cymru.	3600	in	ds	63314 13 2 6FE3257926530FE60C88DF1EB8BA564229F3CC1CADA597666BB368943C6C401B
-trewern.cymru.	3600	in	rrsig	DS 8 2 3600 20251009054151 20250904044951 11313 cymru. hMn4sZ0R0btOZQu9LIzg0Fa2zDL35uJIz1+Li8TNLjQoXc4a3du68L49nNItjEFVbHLXUzv+QSNoeM2eriK1Ll4V93xgeCU2ePywH8+uowoOXw3iZ8s1090/vAXkKYyUDQOyucELdyZBeK24KHRhz7F7bbkjDiQNetukq+UfyZG8EnOl6IPIPpKltIk0HX97ZcUS+tlyZr/ziXxV8Re/H4tHna6qPys3rB5fBXtTwgLaOLqeIeO916JqGgqefmAZUt/ggDDhY/BjtBo7cNi8wPHtLQOQDWCfnGhFomlQ/QCDD+bQxe6kRSDnMLCZBf4xOYDVCKOrrt8cd2/+tlDZ4Q==
+trewern.cymru.	3600	in	rrsig	DS 8 2 3600 20251016052557 20250911044151 11313 cymru. BreoND1SqBKqHvQ0mrZ6saEu9mJajVnrzrw5GWap9L7xJP9nag2H3NpGC+IE1aksywQt2EGmr+eVUqVwkR13RLp3MNs/T1DNR0Bo0ZkMFXNONWrK4QPK+QsSF9xLUCdOCQxizp1jRfAHp6aQb2s3sPmXqNyT3sEf/dQEjAeHtJ1egt75F08gLYd2MxMbJjM1dOEU5lhn0SYOSKeqOdTpGMuvYL7rGYwbZQUJ54cUnGy9LTZ8BI8gAH2yym+yUauDKEGEVKMoMyiW3R9jgKmSM2fSUOqcVaY7iI9iuOzAzaX4oqvjFfZX0sM/v/aQnnjrH2RpGHiiblQBBQ2xZhg5Eg==
 trewyddel.cymru.	172800	in	ns	ns67.domaincontrol.com.
 trewyddel.cymru.	172800	in	ns	ns68.domaincontrol.com.
 triban.cymru.	172800	in	ns	ns1029.ui-dns.com.
@@ -19767,9 +19775,9 @@ uberwagon.cymru.	172800	in	ns	ns1043.ui-dns.biz.
 uberwagon.cymru.	172800	in	ns	ns1093.ui-dns.de.
 uberwagon.cymru.	172800	in	ns	ns1118.ui-dns.org.
 ubqojht850cmrirlqq1vjatc2ropt9ge.cymru.	3600	in	nsec3	1 1 0 - UC33QEQN7PKPD51J1507VVLJTKBSB1PP NS DS RRSIG
-ubqojht850cmrirlqq1vjatc2ropt9ge.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009204451 20250904201951 11313 cymru. Oz0nwIuCEQVFnvv4IACv628UfxmbP//XLP+CQ+mymDIRWntWRVEpS6vu0JwwWYHBJnk9ZvkMGn/El4clYOyDnlx+6TfrvUdmp5l+xB1N7VsTw9nHheL48aqXIejGYTNH6YkTQCPqC38NnxEULpat8Jjx2L4A0sUx5WAm1OrCTYRySCF50yF4Gc79f6PN/P53Pm/4FZgTx3bAr8fmd9VX3wtFsVtiFPgXWwepq8l5YXaQZDswqKcolUMEFEe9UHYKu6RDvRqZy3QpddukaaBrzOJUoGvdhhGn3vsv6s8GMdTphByhZGnZyv/IylZ/Rq869DbPzbPZFAm91w8RlhYkoA==
+ubqojht850cmrirlqq1vjatc2ropt9ge.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016200727 20250911194451 11313 cymru. em/qPlf1lyg2NuVBWuzA/gQtpiEr9V2v0aOdS1zSMmLp00/qPEPqgJ0NOzsqHbP04ECJR/2QAtmc+ht0vvEZo2m7lG8A1IKfFGRlUPpAeU4tH+Ji/ITR37g2sIKgkDIHgtECcwTx0zMmbm40J1Cn7l6LmhOshdyL1Pz4Zl3a2mnbuSQM7PqWUjnmGfMeCxxdQbMTEv9qKNjx/UdOzad17J+G/5G8WDEV32lfPVaTDz2WhV7s/ekCvN7eWPzcxe0XDtKhx3Wwrb1EyWwOb8SltQK6/oWmKXOn1qdnaWk8WfKH8eeIjIguY9p384LW8MVK0WowPdej5TEf+yO9Ep5drg==
 uc33qeqn7pkpd51j1507vvljtkbsb1pp.cymru.	3600	in	nsec3	1 1 0 - USOU0JA7EF2VPUOMCFTV0NTHR9RPEP7C NS DS RRSIG
-uc33qeqn7pkpd51j1507vvljtkbsb1pp.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251009134310 20250904133359 11313 cymru. GSDVIL+rE+ufG0U5iPqJGznBSzlgLljLJsih/mLV52P61rX7N4NYe/h16+814IUlWIDgY2Fvzrd9DMd46o2VHzzlxJoI+1A5STiUlUxGdWVsUE/qi+HwI+1/ehJpx7pyyIYwyCqfQhebQPYdBW9ETdZb33WAFrm/raSaS4jMM3o7LKRS8Gkpdp52keFIfE8ZxG+XOlf267HU81h2i7yhFVKBKlH7EBlgt8vtkVli6lRl3CVX1eVZ7A4PWBDNICyyajsJBtIFXZ2HQv1RpRkRH7d/77icwglPCL1NJW+Jx0w1i7JikRPOvbPV206nzH8BcZ2hhSDlypJriKFiVacYGw==
+uc33qeqn7pkpd51j1507vvljtkbsb1pp.cymru.	3600	in	rrsig	NSEC3 8 2 3600 20251016133914 20250911124310 11313 cymru. G2K7CCyqj1HJjeyupoTe3Jde/rPaYj1chg009UixvKUnh30+9CsN+hQzBk7J4LFgnTLRyrOS8kxYrTRM6dPi8FWxQzHIZDdJGPeauP73xw4WZxIVGS3aMC5JbtgcHFehnNig8LEUjwp2BGysazgvEZe9m2kKLIalmZeH4xFhGyCQbFO3u3FvtXq8RP1emA9Y2l07Ku06uXasJ1CWi8B3EXnKtXRLYx9zhJfEr+aKkdk1Rf0w54Hd5SGtmRUlWfs7Y0JjIqVqgLeZfqnaxh48R9yGQ+pVnYbQQxrZ8tB4q9y1JXkQgCHb+Nb7Qp+8dD+h98xEXSFeQBkmTL85VX97rg==
 ucac.cymru.	172800	in	ns	ns1045.ui-dns.org.
 ucac.cymru.	172800	in	ns	ns1047.ui-dns.com.
 ucac.cymru.	172800	in	ns	ns1063.ui-dns.de.
@@ -19953,7 +19961,7 @@ vaughan.cymru.	172800	in	ns	ns.bnamed.us.
 vaughan.cymru.	172800	in	ns	ns.nscluster.ru.
 vaughan.cymru.	172800	in	ns	ns.nscluster.wf.
 vaughan.cymru.	3600	in	ds	62214 13 2 60D244162C3218F2E340D0A240B4A1046131F9CCEC5CD22562411DF1C4E64D3B
-vaughan.cymru.	3600	in	rrsig	DS 8 2 3600 20251009204451 20250904201951 11313 cymru. HPja+Ec4cyq0GPdhNEb58eya9dDA9q3Xgh6QHHGeduhwgtYhqb2qY6pElrquJ+r1L3IdSqDAwyo5DcugF+e/aw16S6MkBBcHBc98BQ5J1qnT8oj6Uo9VOXXMureVidVABsLLG0i6pXepGKxcSLr/VaYVZBT5Q0Qj5YoPvyiBva5gqkYaO5I7iGAg9rGcLi1OmpvV3EJ1ryquGSLtiGsmwxUeOG00dNlI5Vt4WunWOsGNtZC/6oxJ0axjuu9POGKtyTihuzijoveAr298GEY0OkLGiwvCXo6SZiTGJjxRc58rinvfCd8e5HwJuo0uwUvdpBmkmlLdf0iA8M0qnsSC9Q==
+vaughan.cymru.	3600	in	rrsig	DS 8 2 3600 20251016200727 20250911194451 11313 cymru. hAZjUtAq0QUcw43FUcOCWOoMqKEwmebjCOWIKZeNoULaoVDskvPDjOdwD9t4527mz+tLgjjreKd+h4xHK14RiLPkC3VLuSQ4R5vS7JUdwQvH92RLd3T+4GB+1n1gq8jxhCwBRAnTD0iWZmvVT08UreEnqF9elNRVBObtgkiov5pICpTlitrDGsA8kkjj7EUN5DUFMTg129AzxIT0M34wZko3uKabzoHJmY3LMmo1mni0ScL6oWQ2rEzGH1045P8iJS7KmAWPFKci8wto6Irdd6NNtApIHirsxueFNAoj4b7FxFNlxz/NMzT3RMFsWrhCfb8d4f/UFsNxrE6X0U3hvg==
 vaughanforleader.cymru.	172800	in	ns	jose.ns.cloudflare.com.
 vaughanforleader.cymru.	172800	in	ns	sasha.ns.cloudflare.com.
 vaughansound.cymru.	172800	in	ns	dns1.name-services.com.
@@ -20097,8 +20105,8 @@ vunhst.cymru.	172800	in	ns	ns24.domaincontrol.com.
 vvs.cymru.	172800	in	ns	1-you.njalla.no.
 vvs.cymru.	172800	in	ns	2-can.njalla.in.
 vvs.cymru.	172800	in	ns	3-get.njalla.fo.
-vvvwin.cymru.	172800	in	ns	clyde.ns.cloudflare.com.
-vvvwin.cymru.	172800	in	ns	mia.ns.cloudflare.com.
+vvvwin.cymru.	172800	in	ns	dns101.registrar-servers.com.
+vvvwin.cymru.	172800	in	ns	dns102.registrar-servers.com.
 vwspecialist.cymru.	172800	in	ns	ns-uk.1and1-dns.biz.
 vwspecialist.cymru.	172800	in	ns	ns-uk.1and1-dns.co.uk.
 vwspecialist.cymru.	172800	in	ns	ns-uk.1and1-dns.com.
@@ -20921,7 +20929,7 @@ wwha.cymru.	172800	in	ns	ns1.bb-online.net.
 wwha.cymru.	172800	in	ns	ns2.bb-online.org.
 wwha.cymru.	172800	in	ns	ns3.bb-online.info.
 wwha.cymru.	3600	in	ds	4042 8 2 B13AD2D2BB034C2056DABFDF904E100D8A478847FBCE878CB736487F4FA06CDA
-wwha.cymru.	3600	in	rrsig	DS 8 2 3600 20251009143531 20250904140902 11313 cymru. N2NWJ+gbK25ncqqEfS5ydbZKN8qSu2a6GGse5heNiiidbtzEFaLuXUT+Grh+EEk21cpoqawQhlyHM3QM4jyFTZvviugtjcq6Vrfr/AGMCjwW99AOOe5CfN2jgTW/DiFRw6oZ+kmZSXBbyyzA/1iXUtudKYtLOkuHk7LN0nEyPUjgZ3GlEvsX+re7m6CgBFI80djuGuaN81A3ku4CJDdHrwva7lB8csFwleC/rBQnzA/6FqPo5wBT+IAeydH8gviyR3Ye0q7FH4BtFkEnVuRBr1gwNZutVjdlLf6O50aGMy+bbp1LWdefTR/uiNJIFvYjK947kD5PH3oeTrcfuQgzYw==
+wwha.cymru.	3600	in	rrsig	DS 8 2 3600 20251016134834 20250911133531 11313 cymru. CcOoZ0aJX3qCiKoDmJIfhrU4y2hxUobuZxHTbWyrqPeeVh4EW2E6t5REDOmsga1tWsYCnEZhxMi9TlaCxST3JpWHe56pXHmMnd0qLgbRqrkRO0uikeaQGvoneCLb3E85OHvCBn72XKQbndMO8HFrf8vLqbSOGHPmWHpv91EGiw1XsaphRjQ4HGJVTvwqtPbR5YhJMQoZcJ9lXlzkSzwoAK6MkbkW5scfZ04hXNuMRoMKlYqLQH9SJJsmMecE7p5YEkg60W6NxEzzDXLAhrG+q/x0zph1lV+WeLvfmMzPLYd2p9q44aWU05pZ3zufKXGI76tldl8iUTIjekYYs/3RGA==
 wwic.cymru.	172800	in	ns	ns73.domaincontrol.com.
 wwic.cymru.	172800	in	ns	ns74.domaincontrol.com.
 wwis.cymru.	172800	in	ns	dns1.name-services.com.
@@ -20980,8 +20988,8 @@ xca.cymru.	172800	in	ns	bingo.ns.cloudflare.com.
 xca.cymru.	172800	in	ns	edward.ns.cloudflare.com.
 xef6.cymru.	172800	in	ns	ns.heartinternet.uk.
 xef6.cymru.	172800	in	ns	ns2.heartinternet.uk.
-xin88.cymru.	172800	in	ns	clyde.ns.cloudflare.com.
-xin88.cymru.	172800	in	ns	mia.ns.cloudflare.com.
+xin88.cymru.	172800	in	ns	dns101.registrar-servers.com.
+xin88.cymru.	172800	in	ns	dns102.registrar-servers.com.
 xlence.cymru.	172800	in	ns	ns63.domaincontrol.com.
 xlence.cymru.	172800	in	ns	ns64.domaincontrol.com.
 xlr8.cymru.	172800	in	ns	ns1.livedns.co.uk.
@@ -21963,4 +21971,4 @@ zoopla.cymru.	172800	in	ns	pns23.cloudns.net.
 zoopla.cymru.	172800	in	ns	pns24.cloudns.net.
 zyborskimedia.cymru.	172800	in	ns	ns67.domaincontrol.com.
 zyborskimedia.cymru.	172800	in	ns	ns68.domaincontrol.com.
-cymru.	127800	in	soa	dns1.nic.cymru. hostmaster.nominet.org.uk. 1757541637 900 300 2419200 3600
+cymru.	127800	in	soa	dns1.nic.cymru. hostmaster.nominet.org.uk. 1757596310 900 300 2419200 3600
