@@ -1,4 +1,4 @@
-moda.	3600	in	soa	v0n0.nic.moda. hostmaster.donuts.email. 1757553327 7200 900 1209600 3600
+moda.	3600	in	soa	v0n0.nic.moda. hostmaster.donuts.email. 1757639534 7200 900 1209600 3600
 01091.moda.	3600	in	ns	ns1.1233dns.com.
 01091.moda.	3600	in	ns	ns2.951dns.com.
 012299.moda.	3600	in	ns	eoin.ns.cloudflare.com.
@@ -760,8 +760,8 @@ abi.moda.	3600	in	ns	ns1.megaservers-dns.de.
 abi.moda.	3600	in	ns	ns2.megaservers-dns.de.
 abiball.moda.	3600	in	ns	ns1.megaservers-dns.de.
 abiball.moda.	3600	in	ns	ns2.megaservers-dns.de.
-absolute.moda.	3600	in	ns	ns1.bodis.com.
-absolute.moda.	3600	in	ns	ns2.bodis.com.
+absolute.moda.	3600	in	ns	ns1.dns-redirect.com.
+absolute.moda.	3600	in	ns	ns2.dns-redirect.com.
 abvcn.moda.	3600	in	ns	n1.xundns.com.
 abvcn.moda.	3600	in	ns	n2.xundns.com.
 abyat.moda.	3600	in	ns	dns1.registrar-servers.com.
@@ -1010,7 +1010,6 @@ ampd.moda.	3600	in	ns	ns52.domaincontrol.com.
 amperia.moda.	3600	in	ns	ns1.hostido.net.pl.
 amperia.moda.	3600	in	ns	ns2.hostido.net.pl.
 amperia.moda.	3600	in	ns	ns3.hostido.net.pl.
-amphibia.moda.	3600	in	ns	hgns1.hostgator.com.
 amphibia.moda.	3600	in	ns	ns6483.hostgator.com.
 amphibia.moda.	3600	in	ns	ns6484.hostgator.com.
 amritanjan.moda.	3600	in	ns	ns1.atom.com.
@@ -2638,8 +2637,10 @@ eugeniegrandet.moda.	3600	in	ns	ns1.beget.com.
 eugeniegrandet.moda.	3600	in	ns	ns1.beget.pro.
 eugeniegrandet.moda.	3600	in	ns	ns2.beget.com.
 eugeniegrandet.moda.	3600	in	ns	ns2.beget.pro.
+euro.moda.	3600	in	ds	17957 8 2 9D191D97E1DCEC138F8CBC98810424CC0A82D4953F521BC0EF2044E02CA8AE1B
 euro.moda.	3600	in	ns	dns112.ovh.net.
 euro.moda.	3600	in	ns	ns112.ovh.net.
+euro.moda.	3600	in	rrsig	DS 8 2 3600 20251002212219 20250911202219 2409 moda. AaIOqnHASfTCvaZY4VHg0Nw2GcmyM0klNxWTZQfQkAB+1MBNVTdNC/cVg7mDv/pXQGWVevUvx5yPDKlPgNrYMYuctu1KGmpVu+e14l7XcNvzP6Vlvr6+5iAN7p22l+b1joeDlqyoWO0B3Och0ojoZfURvVgNlE+fvFZinktu8ww=
 europa.moda.	3600	in	ns	cheryl.ns.cloudflare.com.
 europa.moda.	3600	in	ns	logan.ns.cloudflare.com.
 eve.moda.	3600	in	ns	ns1.byet.org.
@@ -3254,8 +3255,8 @@ hava.moda.	3600	in	ns	dns3.arubadns.net.
 hava.moda.	3600	in	ns	dns4.arubadns.cz.
 hawkeye.moda.	3600	in	ns	ns07.domaincontrol.com.
 hawkeye.moda.	3600	in	ns	ns08.domaincontrol.com.
-hb88.moda.	3600	in	ns	ns1.bodis.com.
-hb88.moda.	3600	in	ns	ns2.bodis.com.
+hb88.moda.	3600	in	ns	ns1.dns-redirect.com.
+hb88.moda.	3600	in	ns	ns2.dns-redirect.com.
 hcfnq.moda.	3600	in	ns	ns1.1233dns.com.
 hcfnq.moda.	3600	in	ns	ns2.951dns.com.
 hczet.moda.	3600	in	ns	n1.xundns.com.
@@ -3924,8 +3925,8 @@ kzvhs.moda.	3600	in	ns	n1.xundns.com.
 kzvhs.moda.	3600	in	ns	n2.xundns.com.
 l5h27m7tif26gsc77eu3qtectistp40d.moda.	3600	in	nsec3	1 1 0 73 L7L3T26NG5NHEQ3EKR2LE9UDT1OHRM16 NS DS RRSIG
 l5h27m7tif26gsc77eu3qtectistp40d.moda.	3600	in	rrsig	NSEC3 8 2 3600 20250930154912 20250909144912 2409 moda. ohUnE5BcyR21uOPQ0Mi213PJJDtZ6h5sxefzX+F5z/YJGreNK73LoBJw3ksV2TsHJr2awVWojF5a9nJOvGkiiWcLRqyRu7qfEZNUb/MzrfQEGXmRUEdtFrY+xygPKK1GfJKG6LPy3692nvYbJ6l2KQN268cBFL6GRsg03sYG+tg=
-l7l3t26ng5nheq3ekr2le9udt1ohrm16.moda.	3600	in	nsec3	1 1 0 73 LBTAP2LCQHLA3V85OEKLHBUQO7FBTB8P NS DS RRSIG
-l7l3t26ng5nheq3ekr2le9udt1ohrm16.moda.	3600	in	rrsig	NSEC3 8 2 3600 20251001211616 20250910201616 2409 moda. CZHuV+g0RFUkxrCzcA87ASATBGJCYMO96RRfPQWtChSJ/gbUZOGGB7UbzRnqyzuli0gBNxg1QJY/s0/ohhSI/eSeNaPYIsurfBIFew7pT4KNuWScvrc8N9DN6wxj6QeTgLysI44brD87LZzrfeXZX+DBsE+zud5Ou8JndL7aGcg=
+l7l3t26ng5nheq3ekr2le9udt1ohrm16.moda.	3600	in	nsec3	1 1 0 73 LB77TSFV3Q7TN2BSR7HCC4J0QG2MC1RM NS DS RRSIG
+l7l3t26ng5nheq3ekr2le9udt1ohrm16.moda.	3600	in	rrsig	NSEC3 8 2 3600 20251002212219 20250911202219 2409 moda. c1n1p/xANakE+0s0JZO66Qvfyw9Tym8TbslQWvmHvSZsOac8hZzSclBmmTyyAVYnz0W2vBqQEV9no9fO85+uhdqtH3a0cme8p0hCsAqdfXYkeYX9DqAqyBaTivQxP00Ey+W8+wf5q7WIaTcp5BykzOPrrCi+ZHIbghUzZmYooM8=
 la.moda.	3600	in	ns	ns1.bodis.com.
 la.moda.	3600	in	ns	ns2.bodis.com.
 label.moda.	3600	in	ns	dns1.cscdns.net.
@@ -4011,6 +4012,8 @@ laurios.moda.	3600	in	ns	maceio.ns.porkbun.com.
 laurios.moda.	3600	in	ns	salvador.ns.porkbun.com.
 lavidaeschula.moda.	3600	in	ns	dns1.nominalia.com.
 lavidaeschula.moda.	3600	in	ns	dns2.nominalia.com.
+lb77tsfv3q7tn2bsr7hcc4j0qg2mc1rm.moda.	3600	in	nsec3	1 1 0 73 LBTAP2LCQHLA3V85OEKLHBUQO7FBTB8P NS DS RRSIG
+lb77tsfv3q7tn2bsr7hcc4j0qg2mc1rm.moda.	3600	in	rrsig	NSEC3 8 2 3600 20251002212219 20250911202219 2409 moda. IZP+1O+fyzmxXDXRoO47+nCJ5TNv5E3dXvAksntKXJ6+IQf/nCIzY3n7SkBbSTKZYXYPZtiGmm/F16LJ2XEEI5ljFhthU9C7vM8r/dkOWgHn9ZuHly7+SUUQYnyEauu8qpXFGqsGkXrDKO9X6BVcQ9snCXT5vh+CCvL+DnI4UCk=
 lbd.moda.	3600	in	ns	ns3.insales.ru.
 lbd.moda.	3600	in	ns	ns4.insales.ru.
 lbtap2lcqhla3v85oeklhbuqo7fbtb8p.moda.	3600	in	nsec3	1 1 0 73 LDVU5NQTBHTATIEE1KSIIFLG4R3VESR3 NS DS RRSIG
@@ -4553,8 +4556,8 @@ mfshowroom.moda.	3600	in	ns	5.56.58.240.dnsgigas.es.
 mfshowroom.moda.	3600	in	ns	5.56.58.240.ns2.dnsgigas.es.
 mg8.moda.	3600	in	ns	ns39.domaincontrol.com.
 mg8.moda.	3600	in	ns	ns40.domaincontrol.com.
-mia.moda.	3600	in	ns	launch1.spaceship.net.
-mia.moda.	3600	in	ns	launch2.spaceship.net.
+mia.moda.	3600	in	ns	ns1.afternic.com.
+mia.moda.	3600	in	ns	ns2.afternic.com.
 mibet.moda.	3600	in	ns	leonard.ns.cloudflare.com.
 mibet.moda.	3600	in	ns	susan.ns.cloudflare.com.
 michaelkors.moda.	3600	in	ns	nsgbr.comlaude.co.uk.
@@ -4687,7 +4690,7 @@ moda.	3600	in	nsec3param	1 0 0 73
 moda.	3600	in	rrsig	DNSKEY 8 1 3600 20250930154912 20250909144912 60925 moda. chdVVkEG8jtDiaKFrG4FTOrX++PXidlTeL2Gc7Oq68rgv9HAqm9VXmS8FVZf6xTDHNHebXiquxWdVm6NpHgbkjjIjBYc0RscPkhoCOeKqh4JhloQUDue+0AjoYP7hHwOzn4kLwLDVODtcPXahZMAcMZCZEssEsvDovAQMqcUFW9XtoQj9Ri/pAMIMrQqKQ4WUieF/EtFwCtf5Dy4zkxVGVjElNrq3H0ZCbZOGpY9VT7BhJAv4ZBw8RhWM/v3arKmw4qUXcXnNee+Kcu9M/03J4YL9lCBbkmevcJOsNg9BndllD5cT1ovRIndrQkfrvNRp0q0Ry1UQKMeGpJd+94PcQ==
 moda.	3600	in	rrsig	NS 8 1 3600 20250930154912 20250909144912 2409 moda. pBxMMNzn8f69yzwWjz4Hpun1jE2z4b6Xi1n8bLjDQumurYJPQ330arOvwpC2ixtWOgxq1COEsG3z3fb/7mbcVlaLAq6e00+GNkIH0sTYXBKfikZxwOI/Mm/jECcf/Q3lXw/CrIZzRAhBzqJOcVC4z4DwHTWdSLNIhCveAEesZ6o=
 moda.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930154912 20250909144912 2409 moda. XjqyjB/KUuQumE+U/FHQfTZH1cIZtjSrnGqc0obnKL7TRhSUrTaEQljlcUtl98yKjww1nei2rFBPbDtMnDNJFaoviijMZ6kuP9JmdBLUdCYBLqUqAJmQO//dWVPM2RcJq0CCWgN4PyKHHzKTbytUbYB5/m25H7NuEXKMi15D6go=
-moda.	3600	in	rrsig	SOA 8 1 3600 20251002011806 20250911001806 2409 moda. Q0blgAY3xS35Uo4XpQZO6qkh8Ig67bG+prKpvGwaF0EHYqbKMGQn5hTmWrXmlh6PZIIqJd65zc/EhyqCw9QiKmbG6n11R7bvlWrhNxs4I88MV/GMHhm1umrcmBRZnHIxrgvLRZTTin/ncXRxyl9meTrAQbz+DmyD5X+5oiZ+0zI=
+moda.	3600	in	rrsig	SOA 8 1 3600 20251003011551 20250912001551 2409 moda. teRvFiNB/TTKViCAeJs9n6cJbXCVEiXxehdH4I+ryVSdP4Gcxd4YJn69PNFlkozxICjcclekVdsTU6RZ04NaNV8fO2sudaJDOYPKQlTUICCzBVmuPfStJo1NvaO6DSagyPolW/aNRY+c94rdm4t6qQGy2morPNB0QpLZzYjhie0=
 moda.moda.	3600	in	ns	dean.ns.cloudflare.com.
 moda.moda.	3600	in	ns	sierra.ns.cloudflare.com.
 modaandco.moda.	3600	in	ns	ns25.domaincontrol.com.
@@ -4845,6 +4848,8 @@ mtls.moda.	3600	in	ns	nsrm.dnsitalia.net.
 mtm.moda.	3600	in	ns	nsa.n0c.com.
 mtm.moda.	3600	in	ns	nsb.n0c.com.
 mtm.moda.	3600	in	ns	nsc.n0c.com.
+mtx.moda.	3600	in	ns	ns1.namebrightdns.com.
+mtx.moda.	3600	in	ns	ns2.namebrightdns.com.
 mtyoqd.moda.	3600	in	ns	ns1.dns.com.
 mtyoqd.moda.	3600	in	ns	ns2.dns.com.
 mujer.moda.	3600	in	ns	ns1djs.name.com.
@@ -5042,8 +5047,8 @@ no5.moda.	3600	in	ns	ns.checkdomain.de.
 no5.moda.	3600	in	ns	ns2.checkdomain.de.
 noblesse.moda.	3600	in	ns	nelci.ns.cloudflare.com.
 noblesse.moda.	3600	in	ns	remy.ns.cloudflare.com.
-node.moda.	3600	in	ns	ns1.bodis.com.
-node.moda.	3600	in	ns	ns2.bodis.com.
+node.moda.	3600	in	ns	ns1.dns-redirect.com.
+node.moda.	3600	in	ns	ns2.dns-redirect.com.
 nohu.moda.	3600	in	ns	carmelo.ns.cloudflare.com.
 nohu.moda.	3600	in	ns	kia.ns.cloudflare.com.
 nok88.moda.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -5722,8 +5727,8 @@ qui.moda.	3600	in	ns	dns4.dnspro.host.
 racing.moda.	3600	in	ns	ns1.dnsowl.com.
 racing.moda.	3600	in	ns	ns2.dnsowl.com.
 racing.moda.	3600	in	ns	ns3.dnsowl.com.
-rainbow.moda.	3600	in	ns	ns1.bodis.com.
-rainbow.moda.	3600	in	ns	ns2.bodis.com.
+rainbow.moda.	3600	in	ns	ns1.dns-redirect.com.
+rainbow.moda.	3600	in	ns	ns2.dns-redirect.com.
 rajabet4d.moda.	3600	in	ns	neil.ns.cloudflare.com.
 rajabet4d.moda.	3600	in	ns	susan.ns.cloudflare.com.
 rathnaya.moda.	3600	in	ns	ns13.my-control-panel.com.
@@ -5818,7 +5823,7 @@ riettie.moda.	3600	in	ns	ns1.directnic.com.
 riettie.moda.	3600	in	ns	ns2.directnic.com.
 riettie.moda.	3600	in	ns	ns3.directnic.com.
 rigfq4onseigvlso5nblvst6hmdcsjka.moda.	3600	in	nsec3	1 1 0 73 RLG2DORTBI0DE5N0HIOBRI8T3PMRP8NE NS SOA RRSIG DNSKEY NSEC3PARAM
-rigfq4onseigvlso5nblvst6hmdcsjka.moda.	3600	in	rrsig	NSEC3 8 2 3600 20251002011806 20250911001806 2409 moda. nZTkiI9WJ+mo4iWnU03VUru7zZtgq2WbqvKVs3clxZTzl51lOBzwm1GurzbSkpaGCTsEs+n0ZM2W2xICR1Rx8hVTJVpsRm0NfA2LjX4DA/HVsSV7AuoQnCsmBFRecbabeARNVpB8FXJ8wbCXX1B6Ii7wRaw3HMQZpdp/JDPuD9M=
+rigfq4onseigvlso5nblvst6hmdcsjka.moda.	3600	in	rrsig	NSEC3 8 2 3600 20251003011551 20250912001551 2409 moda. DT8MhR72RZ5bWiCD83683yCA0FeBC8ET50No0mzyUEM76j/fGHcQJoXA8XWXWK7qmKzhHl83A+zpCi73vg9zWC4fLsle64L/xJyuY23HrpNbKNTW4Blz9wxc82dEd18iGOM9p8nc/kDHAdm70hUvPN0iYU7l4YxoGviraRGg+PY=
 rikvip.moda.	3600	in	ns	josh.ns.cloudflare.com.
 rikvip.moda.	3600	in	ns	roxy.ns.cloudflare.com.
 rioma.moda.	3600	in	ns	ns3.surindustrial.net.
@@ -5904,8 +5909,6 @@ ru.moda.	3600	in	ns	curitiba.ns.porkbun.com.
 ru.moda.	3600	in	ns	fortaleza.ns.porkbun.com.
 ru.moda.	3600	in	ns	maceio.ns.porkbun.com.
 ru.moda.	3600	in	ns	salvador.ns.porkbun.com.
-rubini.moda.	3600	in	ns	dnsproxy1.fm.nic.ru.
-rubini.moda.	3600	in	ns	dnsproxy2.fm.nic.ru.
 rugby.moda.	3600	in	ns	ns1.dnsowl.com.
 rugby.moda.	3600	in	ns	ns2.dnsowl.com.
 rugby.moda.	3600	in	ns	ns3.dnsowl.com.
@@ -6776,8 +6779,8 @@ trendies.moda.	3600	in	ns	margo.ns.cloudflare.com.
 trendies.moda.	3600	in	rrsig	DS 8 2 3600 20250930154912 20250909144912 2409 moda. LMnzbR8axensasqLo4EKzs1PC3fnmodzKPf15QyCtGfFzbRMXePRYQG+3olg/jF+0LXJUQDsxBnyOOt7OxAj9pbFd4znDz83RxiTKF9n7ubwdsHj09PBaauFwN1BMHxTu2+SbZqLM4uiz79v/Sh9RnfLb4Ccgf0qn2W5JGbJIpk=
 trenditalia.moda.	3600	in	ns	ns1-221-24.superdnsserver.net.
 trenditalia.moda.	3600	in	ns	ns2-221-24.superdnsserver.net.
-trendshop.moda.	3600	in	ns	ns1.bodis.com.
-trendshop.moda.	3600	in	ns	ns2.bodis.com.
+trendshop.moda.	3600	in	ns	ns1.dns-redirect.com.
+trendshop.moda.	3600	in	ns	ns2.dns-redirect.com.
 trendyol.moda.	3600	in	ns	ns1kpv.name.com.
 trendyol.moda.	3600	in	ns	ns2ckr.name.com.
 trendyol.moda.	3600	in	ns	ns3fgq.name.com.
@@ -7328,8 +7331,8 @@ weekendmaxmara.moda.	3600	in	ns	ns2a.btitalia.it.
 weekendmaxmara.moda.	3600	in	ns	venere.inet.it.
 weqgg.moda.	3600	in	ns	ns1.1233dns.com.
 weqgg.moda.	3600	in	ns	ns2.951dns.com.
-west.moda.	3600	in	ns	ns1.bodis.com.
-west.moda.	3600	in	ns	ns2.bodis.com.
+west.moda.	3600	in	ns	ns1.dns-redirect.com.
+west.moda.	3600	in	ns	ns2.dns-redirect.com.
 whatsapp.moda.	3600	in	ns	a.ns.facebook.com.
 whatsapp.moda.	3600	in	ns	b.ns.facebook.com.
 whatsapp.moda.	3600	in	ns	c.ns.facebook.com.
@@ -7411,6 +7414,8 @@ xai.moda.	3600	in	ns	ns1.dns-redirect.com.
 xai.moda.	3600	in	ns	ns2.dns-redirect.com.
 xetfb.moda.	3600	in	ns	ns1.1233dns.com.
 xetfb.moda.	3600	in	ns	ns2.951dns.com.
+xn--19-6kcua9a9b0e.moda.	3600	in	ns	ns1.reg.ru.
+xn--19-6kcua9a9b0e.moda.	3600	in	ns	ns2.reg.ru.
 xn--80aaqhmrr.moda.	3600	in	ns	blocked1.nic.ru.
 xn--80aaqhmrr.moda.	3600	in	ns	blocked2.nic.ru.
 xn--feus10b.moda.	3600	in	ns	n1.xundns.com.
@@ -7534,8 +7539,8 @@ zampette.moda.	3600	in	ns	ns2.hover.com.
 zamponi.moda.	3600	in	ns	ns1.serverlet.com.
 zamponi.moda.	3600	in	ns	ns2.serverlet.com.
 zamponi.moda.	3600	in	ns	ns3.serverlet.it.
-zap.moda.	3600	in	ns	nspro148.hostgator.com.br.
-zap.moda.	3600	in	ns	nspro149.hostgator.com.br.
+zap.moda.	3600	in	ns	ns37.domaincontrol.com.
+zap.moda.	3600	in	ns	ns38.domaincontrol.com.
 zappos.moda.	3600	in	ns	nsgbr.comlaude.co.uk.
 zappos.moda.	3600	in	ns	nssui.comlaude.ch.
 zappos.moda.	3600	in	ns	nsusa.comlaude.net.
@@ -7608,4 +7613,4 @@ zymicweb.moda.	3600	in	ns	ns1.dyna-ns.net.
 zymicweb.moda.	3600	in	ns	ns2.dyna-ns.net.
 zzz.moda.	3600	in	ns	ns07.domaincontrol.com.
 zzz.moda.	3600	in	ns	ns08.domaincontrol.com.
-moda.	3600	in	soa	v0n0.nic.moda. hostmaster.donuts.email. 1757553327 7200 900 1209600 3600
+moda.	3600	in	soa	v0n0.nic.moda. hostmaster.donuts.email. 1757639534 7200 900 1209600 3600
