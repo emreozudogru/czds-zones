@@ -1,4 +1,4 @@
-reise.	3600	in	soa	v0n0.nic.reise. hostmaster.donuts.email. 1757553956 7200 900 1209600 3600
+reise.	3600	in	soa	v0n0.nic.reise. hostmaster.donuts.email. 1757639530 7200 900 1209600 3600
 0.reise.	3600	in	ns	dns1.registrar-servers.com.
 0.reise.	3600	in	ns	dns2.registrar-servers.com.
 123.reise.	3600	in	ns	docks06.rzone.de.
@@ -140,9 +140,15 @@ allrisk-versicherung.reise.	3600	in	ns	a.ns14.net.
 allrisk-versicherung.reise.	3600	in	ns	b.ns14.net.
 allrisk-versicherung.reise.	3600	in	ns	c.ns14.net.
 allrisk-versicherung.reise.	3600	in	ns	d.ns14.net.
+alltours-reisecenter.reise.	3600	in	ns	ns17.knipp.net.
+alltours-reisecenter.reise.	3600	in	ns	ns2.knipp.de.
+alltours-reisecenter.reise.	3600	in	ns	ns3.knipp.de.
 alltours.reise.	3600	in	ns	ns17.knipp.net.
 alltours.reise.	3600	in	ns	ns2.knipp.de.
 alltours.reise.	3600	in	ns	ns3.knipp.de.
+alltoursreisecenter.reise.	3600	in	ns	ns17.knipp.net.
+alltoursreisecenter.reise.	3600	in	ns	ns2.knipp.de.
+alltoursreisecenter.reise.	3600	in	ns	ns3.knipp.de.
 alofthotels.reise.	3600	in	ns	ns-1285.awsdns-32.org.
 alofthotels.reise.	3600	in	ns	ns-1793.awsdns-32.co.uk.
 alofthotels.reise.	3600	in	ns	ns-398.awsdns-49.com.
@@ -409,10 +415,6 @@ billiger-mietwagen.reise.	3600	in	ns	ns4-eu.123ns.de.
 billigo.reise.	3600	in	ns	ns.udag.de.
 billigo.reise.	3600	in	ns	ns.udag.net.
 billigo.reise.	3600	in	ns	ns.udag.org.
-billigreise.reise.	3600	in	ns	ns1.domainreactivate.net.
-billigreise.reise.	3600	in	ns	ns2.domainreactivate.net.
-billigreisen.reise.	3600	in	ns	ns1.domainreactivate.net.
-billigreisen.reise.	3600	in	ns	ns2.domainreactivate.net.
 bio-guide.reise.	3600	in	ns	dns.dns1.de.
 bio-guide.reise.	3600	in	ns	dns.dns2.de.
 bio-guide.reise.	3600	in	ns	dns.dns3.de.
@@ -2089,7 +2091,7 @@ reise.	3600	in	nsec3param	1 0 0 73
 reise.	3600	in	rrsig	DNSKEY 8 1 3600 20250930160710 20250909150710 25897 reise. OvFC6H605URruxh4AS1+Lyi3bwwg/XDVwfV2N0YIfISHw4oy3KFOlozQ3dr7rqblamaPAru7//8SMndaz9/jW7TUVIyoC+RVZEioaoFrRytFdBuVMOl96BzF1txltq5y5ZK5WItwtLOZwJJTyWKqt9eaw8Sjj8+3ISk3gh2voPZijpsuGxc3GjeAvVD4omWs0ShgcTYjvih4Tx0+yE9puIU89XhPFzG7dzKPvSEhgPxrh7k2ktphMSVrenCaUR+8kCNK3iA8tLNLMhhmfSmQ/X3uFvGo5RLDsIqyYhe+VwkqW3/b7n5hhZn63U52VMRvqbD+ivAb8DxSMzP9Xabgug==
 reise.	3600	in	rrsig	NS 8 1 3600 20250930160710 20250909150710 65055 reise. s33l2My5obU2SVTxMK/7SwRZ3IJJynN3Q3oJClaafoOhprPv5PPsf93jD79btcihruJE7cwcV5HbfCISG/d1/nOCUoi3+0Y7T0xYBAWfKKGXEI86bcIYKJizUe4eampJqn8xisS5/036E1CWFAjOoU/+w6RlPa2MTe3u1lFmrS8=
 reise.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930160710 20250909150710 65055 reise. e6/nxoit3sKpePkMMvhEx2KROcV3Ta5RCQkxT47o2haLQ6hphH5CdBFNEWHEWl4BM7ghREOCcOeNk5n7DYPsoGyBYioPq4OrUtXJ3m41+UAN731hpsZoaydW7Bi7qX/LzOvft7mvUy1Kq4E/fvMHNLp3A7pnmsb97nhwlRSGJAE=
-reise.	3600	in	rrsig	SOA 8 1 3600 20251002013050 20250911003050 65055 reise. diSVVRrLVEc46Qta4vBGU7Km90Omn+fLHjpYXzVWFqyJ0O2c9xBpniH+rECvuFrcmoZxeXnPvXw13aBAK85uS0EGwz9+gmlMhaxrrcCHVA8s1b6m6k3cRyWdSASrFje1UA2PpuVMSR36z8BNFOEWrTtw0w1SGb0CgWOJSqcKRC4=
+reise.	3600	in	rrsig	SOA 8 1 3600 20251003011644 20250912001644 65055 reise. dEnn7BL31EI2z+mlLWMaHWtKD2qA9g7z8pYXGPN1XGNbnpvO0B2S+43Z5TangxFmN+oPmHrDiPaJHckYOK50/RzmQ3t+zbs5snUfmxT4pPK1haQe3Clr/yunLjUXJrPALxjxjMajVGit4Yf6X/szRk4pY0SG1Edrh6Gb4ERLrSM=
 reise.reise.	3600	in	ns	ns1.dyna-ns.net.
 reise.reise.	3600	in	ns	ns2.dyna-ns.net.
 reisebuero-albatros.reise.	3600	in	ns	ns.udag.de.
@@ -2519,7 +2521,7 @@ tegernsee.reise.	3600	in	ns	ns01.agenturserver.co.
 tegernsee.reise.	3600	in	ns	ns01.agenturserver.de.
 tegernsee.reise.	3600	in	ns	ns01.agenturserver.it.
 tg7994o68mgtq3m6d0q7k0crbcf2cf5f.reise.	3600	in	nsec3	1 1 0 73 TLI4AIBSITGUH7SMHRAHLAHSD2AKG6JA NS SOA RRSIG DNSKEY NSEC3PARAM
-tg7994o68mgtq3m6d0q7k0crbcf2cf5f.reise.	3600	in	rrsig	NSEC3 8 2 3600 20251002013050 20250911003050 65055 reise. e+4S7Zmt3XfMB8hpI7Gir/o5ZxfyxQ50dDkFPSrav08usj7V13EJjsoG4kWJ+cqLjOEZ0ddGI2Mjaf/yfTxvdqUQct4Zg2Bh43v55C2qeHY2qo0jdda83vvcwOiw6WYlC3QtOyY41f/ElRRqn9c200nOFVvZryDTtcSwvRAK9qY=
+tg7994o68mgtq3m6d0q7k0crbcf2cf5f.reise.	3600	in	rrsig	NSEC3 8 2 3600 20251003011644 20250912001644 65055 reise. NGNwqVrBnLQw1pGIIZiHxIdUigI3zqyRSTeF9Qahp9OuTqxHL4FE4VgOypfm3sa87UMuyB8cXBScpcha6QUyJUNHDSQwK+AD+3m6TI/zEKNyAo3hRqaboKPcvhjKtRaIKd2gucYrCEddLlpMor1MElkNPmV0s+muWwAGGR2cYjw=
 thalasso.reise.	3600	in	ns	ns5.kasserver.com.
 thalasso.reise.	3600	in	ns	ns6.kasserver.com.
 thueringen.reise.	3600	in	ns	ns05.domaincontrol.com.
@@ -2969,4 +2971,4 @@ zur.reise.	3600	in	ns	nsa5.schlundtech.de.
 zur.reise.	3600	in	ns	nsb5.schlundtech.de.
 zur.reise.	3600	in	ns	nsc5.schlundtech.de.
 zur.reise.	3600	in	ns	nsd5.schlundtech.de.
-reise.	3600	in	soa	v0n0.nic.reise. hostmaster.donuts.email. 1757553956 7200 900 1209600 3600
+reise.	3600	in	soa	v0n0.nic.reise. hostmaster.donuts.email. 1757639530 7200 900 1209600 3600
