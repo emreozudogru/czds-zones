@@ -1,4 +1,4 @@
-box.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757551876 900 1800 6048000 3600
+box.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757637667 900 1800 6048000 3600
 0.box.	3600	in	ns	ns1.3dns.box.
 0.box.	3600	in	ns	ns2.3dns.box.
 00.box.	3600	in	ns	ns1.3dns.box.
@@ -1020,8 +1020,8 @@ box.	3600	in	rrsig	DNSKEY 8 1 3600 20251009194716 20250909181716 872 box. jtDKsq
 box.	900	in	nsec3param	1 0 0 -
 box.	900	in	rrsig	NSEC3PARAM 8 1 900 20251009194716 20250909181716 23355 box. dKMqE6Xs8m08byhGfJYIXe0l03Mm8ulQiMfaHeag9e80/uue08vY1iZC3Jl1+1IMGTdl4waeQEhwPtxCtA0yVhum6BpKA906lZL72YDZck2Fcrl21y/tXNHMmWLKESm6un4OGT6AWwgyVs4AuuZXWKQZdhBgE1fx2GxRhrjDh2k=
 box.	900	in	rrsig	NSEC3PARAM 8 1 900 20251009194716 20250909181716 25033 box. siJqaQcWTQmlNqh4W+FVJ0SwpqGtdCWuZtvsPT4Yk6UjSMwvOLhgeSRHmgMH7YyicTEisuowp/V+0WYIzd5LPF89nZJcmLD5Wp/l4iHKbyQIFqP4tSFPKyl2QxGc4BKAMSKwwbfFihyIW6jL1kpxwDpB6whdI+YEw7JMr7Xyh6k=
-box.	900	in	rrsig	SOA 8 1 900 20251011005116 20250910232116 23355 box. lWCLM7d/kpbGcTo0qkHeMHnK7Ka3WSPw/dAUg8qxG1I6SSPQ15RYeVjxpEY684lDuvSGhWul2WOICiTxdYtRcnu97jOK40Rf1DJsQzgGMR52hp4dvxIJ5VAZPX0gXkVp2s3gb4ciCsJsqd6pq9d01J8ycrYPHH1fwvj+M2tXoH8=
-box.	900	in	rrsig	SOA 8 1 900 20251011005116 20250910232116 25033 box. qMJAHlBZroFUDINUpSuPV9PO5uLlx8csy7xaX5iGoqy6Z9mHyaPJHMx+4vY6ejCnMV1k5DQo/TB80xqGrwbukdxYlWOhkdCFgwpg8pNqypdpELgPbA102VQzPHMtaX3bQ7jTI4Qq1ty2wyQRn/BFDHuXhQaonA5Qu2YgSD/VKjw=
+box.	900	in	rrsig	SOA 8 1 900 20251012004107 20250911231107 23355 box. RDjN2cijw9pw7yPfmxNoXWGROIdDu2sK2Kff5zcg88+mEl2C2+IJprhJFXUvYu3gW6zmi51dApxr2+5hDpAOTfUXEAtmQCGFpmnYz/wPTPhJ/snWD4zo3SiizWD5XT9WNHgM7y85RLQwrT7Ix4eT7tNBK6MwAzgvME6pT1kUmys=
+box.	900	in	rrsig	SOA 8 1 900 20251012004107 20250911231107 25033 box. V3FbyUherYaCh+u6eV8KZPaf2JH+masW13PoFiJoGmsZDZdeYOPYp3hmbKwqtNKE72eAzPwICVkG2lQeDelfxVL9zY+CeOWJv959e93Tt/8fHDk0/GI3M6t36VxKO0Bj9gkbfxIwDhLBSsnWj/HTd+clqCVle7gBL8EnL6PL2Tg=
 box.box.	3600	in	ns	ns1.3dns.box.
 box.box.	3600	in	ns	ns2.3dns.box.
 boxbox.box.	3600	in	ns	ns1.3dns.box.
@@ -1249,8 +1249,8 @@ checkpoint.box.	3600	in	ns	nola.ns.cloudflare.com.
 checkpoint.box.	3600	in	ns	zeus.ns.cloudflare.com.
 chef.box.	3600	in	ns	ns1.3dns.box.
 chef.box.	3600	in	ns	ns2.3dns.box.
-chela.box.	3600	in	ns	ns1.3dns.box.
-chela.box.	3600	in	ns	ns2.3dns.box.
+chela.box.	3600	in	ns	delilah.ns.cloudflare.com.
+chela.box.	3600	in	ns	rodrigo.ns.cloudflare.com.
 chen.box.	3600	in	ns	ns1.3dns.box.
 chen.box.	3600	in	ns	ns2.3dns.box.
 chess.box.	3600	in	ns	ns1.3dns.box.
@@ -3605,9 +3605,6 @@ move.box.	3600	in	ns	ns1.3dns.box.
 move.box.	3600	in	ns	ns2.3dns.box.
 movies.box.	3600	in	ns	ns1.3dns.box.
 movies.box.	3600	in	ns	ns2.3dns.box.
-mox.box.	3600	in	ns	ns1.dnsowl.com.
-mox.box.	3600	in	ns	ns2.dnsowl.com.
-mox.box.	3600	in	ns	ns3.dnsowl.com.
 mrbeast.box.	3600	in	ns	ns1.3dns.box.
 mrbeast.box.	3600	in	ns	ns2.3dns.box.
 msg.box.	3600	in	ns	ns1.3dns.box.
@@ -5111,9 +5108,6 @@ sylph.box.	3600	in	ns	ns1.3dns.box.
 sylph.box.	3600	in	ns	ns2.3dns.box.
 sylphie.box.	3600	in	ns	ns1.3dns.box.
 sylphie.box.	3600	in	ns	ns2.3dns.box.
-symbiotic.box.	3600	in	ns	ns1.dnsowl.com.
-symbiotic.box.	3600	in	ns	ns2.dnsowl.com.
-symbiotic.box.	3600	in	ns	ns3.dnsowl.com.
 sync.box.	3600	in	ns	ns1.3dns.box.
 sync.box.	3600	in	ns	ns2.3dns.box.
 syndicate.box.	3600	in	ns	ns1.3dns.box.
@@ -5450,8 +5444,9 @@ uae.box.	3600	in	ns	ns1.3dns.box.
 uae.box.	3600	in	ns	ns2.3dns.box.
 uav.box.	3600	in	ns	ns1.3dns.box.
 uav.box.	3600	in	ns	ns2.3dns.box.
-ucha.box.	3600	in	ns	ns1.3dns.box.
-ucha.box.	3600	in	ns	ns2.3dns.box.
+ucha.box.	3600	in	ns	ns1.dnsowl.com.
+ucha.box.	3600	in	ns	ns2.dnsowl.com.
+ucha.box.	3600	in	ns	ns3.dnsowl.com.
 ud.box.	3600	in	ns	ns1.3dns.box.
 ud.box.	3600	in	ns	ns2.3dns.box.
 uefa.box.	3600	in	ns	ns1.3dns.box.
@@ -5478,15 +5473,10 @@ uninorte.box.	3600	in	ns	ns1.3dns.box.
 uninorte.box.	3600	in	ns	ns2.3dns.box.
 union.box.	3600	in	ns	ns1.3dns.box.
 union.box.	3600	in	ns	ns2.3dns.box.
-uniport.box.	3600	in	ns	ns1.ns306.parklogic.com.
-uniport.box.	3600	in	ns	ns2.ns306.parklogic.com.
 unit.box.	3600	in	ns	ns1.3dns.box.
 unit.box.	3600	in	ns	ns2.3dns.box.
 united.box.	3600	in	ns	ns1.3dns.box.
 united.box.	3600	in	ns	ns2.3dns.box.
-universalmusic.box.	3600	in	ns	ns1.dnsowl.com.
-universalmusic.box.	3600	in	ns	ns2.dnsowl.com.
-universalmusic.box.	3600	in	ns	ns3.dnsowl.com.
 unlock.box.	3600	in	ns	ns1.3dns.box.
 unlock.box.	3600	in	ns	ns2.3dns.box.
 uno.box.	3600	in	ns	ns1.3dns.box.
@@ -5972,4 +5962,4 @@ zz.box.	3600	in	ns	ns1.3dns.box.
 zz.box.	3600	in	ns	ns2.3dns.box.
 zzz.box.	3600	in	ns	ns1.3dns.box.
 zzz.box.	3600	in	ns	ns2.3dns.box.
-box.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757551876 900 1800 6048000 3600
+box.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757637667 900 1800 6048000 3600
