@@ -1,8 +1,8 @@
-ferrero.	900	in	soa	ns1.dns.nic.ferrero. admin.tldns.godaddy. 1757540493 1800 300 604800 1800
+ferrero.	900	in	soa	ns1.dns.nic.ferrero. admin.tldns.godaddy. 1757630492 1800 300 604800 1800
 0s5vha7m371373h7ola3vp51s2mfk6lb.ferrero.	900	in	nsec3	1 1 0 - GSAKHRCCIMMGC1476JDC0AIV1CCBUNR5 TXT RRSIG
 0s5vha7m371373h7ola3vp51s2mfk6lb.ferrero.	900	in	rrsig	NSEC3 8 2 900 20250922104357 20250908102644 23388 ferrero. aPoYj3jVLqtZlWuk6iVQ5m9j2FmkkVnhTLOGC39WV9iWi00XNMQg8PIcly+iV0o28etmNiiRh4WVuPh80bS+Qc6SKPnQlx4dqNFbZyA6Bh/+Qqqqyh7Qfv17VcsNlbFQ4e3BkbGKkwKWExNKtAhPmwu3kOQndSmgj8IKt5+JFsTYzR0v72d/1pUih/IgLfIbHuNONImtYews/1c+bntQzg==
-_forcedupdate.ferrero.	300	in	rrsig	TXT 8 2 300 20250923193529 20250910204133 23388 ferrero. YthgIwLvcBJ9VaqrYVxLk7JIajJZdfEYcR62wJwnsnlo0MueX/iZlKyN9OjZEQwJ9V83mq8wsC5ZfYWeod0QcS+8SMjSMZbTHf1/qcAK42tl0ri+CM6TFNomp78CNlwM5msIVLW0Dv8TgGTfmcu0abuVzhwM0LgZtnob8CPx45teus87MEQe0eIvVwMA2BI47oMEHF9pRE7lcyvhhakayQ==
-_forcedupdate.ferrero.	300	in	txt	"1757540493"
+_forcedupdate.ferrero.	300	in	rrsig	TXT 8 2 300 20250923233143 20250911214133 23388 ferrero. JdGrmQd7T0UqrvkFDdW8exNtoFvxNVoh7SI67RsIMaIQJ/avEtexQXdjqqbgIXculTW0buN8+AI9oPRjkT0J/z6l8SBny+Xr3Ca7felbQI29Z60z/IaVN/5qLhm+UWqPipZW9qBEgcbTBA+lmv1g67szZJ1Wc3k3zPFp5BbIvr6/4cnlPBbOsDfUvviicTcBfBpSO6KTt5bhlUGgZWVP6Q==
+_forcedupdate.ferrero.	300	in	txt	"1757630492"
 a.nic.ferrero.	3600	in	a	37.209.192.9
 a.nic.ferrero.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 b.nic.ferrero.	3600	in	a	37.209.194.9
@@ -29,7 +29,7 @@ ferrero.	86400	in	ns	ns1.dns.nic.ferrero.
 ferrero.	86400	in	ns	ns2.dns.nic.ferrero.
 ferrero.	86400	in	ns	ns3.dns.nic.ferrero.
 ferrero.	86400	in	rrsig	NS 8 1 86400 20250920184904 20250906175600 23388 ferrero. QK3Yo4q9QH2nc+mbKdaZTVJuh9qwoVx89M204OWEIjaydU6D3uYXnlg2Bu2qk9V1nvsARBPAfI+Ewdd28Ulxdylu+YvqN1+jyMDNzCpD/5mRM64AlMo41baUDk8Ajuw6Ro+1GlTNF7Z0x7SWIk4xN0p8qXipEHOozBmF4iazK0FVYq70CLvZp+6v+bJdOIIJBdO//aYFA3wjsScjImonUQ==
-ferrero.	900	in	rrsig	SOA 8 1 900 20250924214133 20250910204133 23388 ferrero. Quz1K1DKwMoHJ9Ajy72x9qDwENHsvb4BdmG75T1/QLNP7bN3P0mjcvphoT6te74rXPWbTwXb4k6rcUTLyfQugWp/5n9qprZr0yX+3cmHhgqPd5w/VWnes4EepzbX0kgX2Vps6OzShY1IEUDl08avGouCVTm9vHjbtA+wLV6baCT8uhCWl97hfS71eZWMjKQSH69Webq3nzPoGxNhRLMTMQ==
+ferrero.	900	in	rrsig	SOA 8 1 900 20250925224133 20250911214133 23388 ferrero. rOEoh2cav+irMFrwVuVPC90iWmtB8Di/a0W7yKDKf21lBNSpCan9exkg8wa69ULmFJ0BPVg7+haRDhTQ3a6a4sDOqeqMSPsMCR/sNVYOvDMGGGN6CmiweENAqOcr3/MehFBeo9kGFTQnqjlAoZ3b4iuYb7X7eK1a5jMNeJpR2xXyb8gRJh1N8BcWNJeDA1ndYC3YLIhMZXky1hMdZb2xsg==
 forward.ferrero.	3600	in	ns	ns1.barbero.zone.
 forward.ferrero.	3600	in	ns	ns2.barbero.zone.
 gsakhrccimmgc1476jdc0aiv1ccbunr5.ferrero.	900	in	nsec3	1 1 0 - OPBVBTTU6ATRPTI1BSNIKHI2CV5TGJ4T NS DS RRSIG
@@ -66,4 +66,4 @@ qualita.ferrero.	3600	in	ns	ns1.barbero.zone.
 qualita.ferrero.	3600	in	ns	ns2.barbero.zone.
 thisistheplace.ferrero.	3600	in	ns	ns1.barbero.zone.
 thisistheplace.ferrero.	3600	in	ns	ns2.barbero.zone.
-ferrero.	900	in	soa	ns1.dns.nic.ferrero. admin.tldns.godaddy. 1757540493 1800 300 604800 1800
+ferrero.	900	in	soa	ns1.dns.nic.ferrero. admin.tldns.godaddy. 1757630492 1800 300 604800 1800
