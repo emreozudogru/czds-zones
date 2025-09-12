@@ -1,4 +1,4 @@
-computer.	3600	in	soa	v0n0.nic.computer. hostmaster.donuts.email. 1757551972 7200 900 1209600 3600
+computer.	3600	in	soa	v0n0.nic.computer. hostmaster.donuts.email. 1757638818 7200 900 1209600 3600
 0-1.computer.	3600	in	ns	dns1.registrar-servers.com.
 0-1.computer.	3600	in	ns	dns2.registrar-servers.com.
 0.computer.	3600	in	ns	heather.ns.cloudflare.com.
@@ -344,7 +344,7 @@ computer.	3600	in	soa	v0n0.nic.computer. hostmaster.donuts.email. 1757551972 720
 26f653uvd6s8eal2fvcelpps13jhinp3.computer.	3600	in	nsec3	1 1 0 73 26UJNC0P7H756I3UF8JQ6NL4SL3CAAKS NS DS RRSIG
 26f653uvd6s8eal2fvcelpps13jhinp3.computer.	3600	in	rrsig	NSEC3 8 2 3600 20250930152531 20250909142531 7884 computer. LoCxDCEeqq6pFeRYy4lufVa0LaSf9hPuU2ujPyAoNlq/7/E3KiCLaTSy75eK5XiWh9vVhjZUhtUr73lhr6PUgIgESZxXNnPTb9YWJtyw1lE4lYojFcgxgc2RztXeR56XkimiWOKhcQnl9HXF++yxiySSPOM4+nJyCO8qsxMMXVY=
 26ujnc0p7h756i3uf8jq6nl4sl3caaks.computer.	3600	in	nsec3	1 1 0 73 27K6K75J8HQLUNEM16LHAB5HVCIV2KQ9 NS SOA RRSIG DNSKEY NSEC3PARAM
-26ujnc0p7h756i3uf8jq6nl4sl3caaks.computer.	3600	in	rrsig	NSEC3 8 2 3600 20251002005641 20250910235641 7884 computer. EMcz20a2G2HoRF9nAmb7FvmFPR37SFcco+bwLK/YGi4OBxmMGLJaYQMQgE8elQYvmszPFh5l6UfX2jQRDp84SoNlWbW7lVtR6y8yhfrjlMLk1jTGfRPHBa0zzpQkHWtYYMWL9Qq6HHwXUBWqUYFmPAha0PF8TJP2mItMfjc/Kzo=
+26ujnc0p7h756i3uf8jq6nl4sl3caaks.computer.	3600	in	rrsig	NSEC3 8 2 3600 20251003010349 20250912000349 7884 computer. obn0Rg2SBIde5eTHHWxJoewK5jqcxU9tsVqdUGodIrQKyu01eAAe0dpPbMRODByIQ2wfgCBa/MV1IQ+Xe8TrdncKImRcWyTBN3Q0LhXEgWLQrImV0b/OoiIQESCexkBUiDrvJfyqXYnCYJrS1xpS+akpnD/cjpiz78LSkqh+Uhw=
 27418.computer.	3600	in	ns	n1.xundns.com.
 27418.computer.	3600	in	ns	n2.xundns.com.
 27k6k75j8hqlunem16lhab5hvciv2kq9.computer.	3600	in	nsec3	1 1 0 73 27UE6NJVDS3UKB4MTBDTRNC7DEQVT8F6 NS DS RRSIG
@@ -1420,12 +1420,6 @@ abubble.computer.	3600	in	ns	ns1.netfirms.com.
 abubble.computer.	3600	in	ns	ns2.netfirms.com.
 abyat.computer.	3600	in	ns	dns1.registrar-servers.com.
 abyat.computer.	3600	in	ns	dns2.registrar-servers.com.
-abyss.computer.	3600	in	ds	2371 13 2 79776043670CBAD0C312F9C231F440553EA8E054B2018ECA3402D702ECE7CA21
-abyss.computer.	3600	in	ns	curitiba.ns.porkbun.com.
-abyss.computer.	3600	in	ns	fortaleza.ns.porkbun.com.
-abyss.computer.	3600	in	ns	maceio.ns.porkbun.com.
-abyss.computer.	3600	in	ns	salvador.ns.porkbun.com.
-abyss.computer.	3600	in	rrsig	DS 8 2 3600 20250930152531 20250909142531 7884 computer. OB+dWzZElUc1GNnZCpIbPQM5lRCcCM+2uw8PLbIoqUPxPoCjSMicky5aIkFyNFmtnK9n3FG0hbwvslS1Ee3wvEmDjcoRuPG/zNo5+1xIYIBs8JMsokEC9cKK0BSXXn/v7eA1VTDmTvubwQBg6HHlHdPcx5Yy4tZnls4d2rdlIo4=
 abyssal.computer.	3600	in	ds	3221 8 2 AB185A0CF383BC2C22F6759F13727FAD9AE73F03140033014DA478E63AF83154
 abyssal.computer.	3600	in	ns	ns-cloud-c1.googledomains.com.
 abyssal.computer.	3600	in	ns	ns-cloud-c2.googledomains.com.
@@ -1674,6 +1668,10 @@ aether.computer.	3600	in	ns	fortaleza.ns.porkbun.com.
 aether.computer.	3600	in	ns	maceio.ns.porkbun.com.
 aether.computer.	3600	in	ns	salvador.ns.porkbun.com.
 aether.computer.	3600	in	rrsig	DS 8 2 3600 20250930152531 20250909142531 7884 computer. b2nEcaU77SyHkry9dKOEwErDp5gvWepX4Ud8/5X1rpslX+rl4xUQwWjZIihfxSGiKipB0NrVOZe0zn570oo2Az01sbQW7Y6rXVBFcsS9gVDf/DllFbWNcutHm1BDoy2FLdYQJ3l2GOqa14PR/CKXGJSoBiowti9ne+iR8EcBaHA=
+aetheric.computer.	3600	in	ns	curitiba.ns.porkbun.com.
+aetheric.computer.	3600	in	ns	fortaleza.ns.porkbun.com.
+aetheric.computer.	3600	in	ns	maceio.ns.porkbun.com.
+aetheric.computer.	3600	in	ns	salvador.ns.porkbun.com.
 afas.computer.	3600	in	ns	ns01.hostnet.nl.
 afas.computer.	3600	in	ns	ns02.hostnet.nl.
 afc.computer.	3600	in	ns	ns1.afcnet.de.
@@ -3149,8 +3147,8 @@ avers.computer.	3600	in	ns	maceio.ns.porkbun.com.
 avers.computer.	3600	in	ns	salvador.ns.porkbun.com.
 avgcpc.computer.	3600	in	ns	ace.ns.cloudflare.com.
 avgcpc.computer.	3600	in	ns	alice.ns.cloudflare.com.
-avi.computer.	3600	in	ns	ns1.bodis.com.
-avi.computer.	3600	in	ns	ns2.bodis.com.
+avi.computer.	3600	in	ns	ns1.dns-redirect.com.
+avi.computer.	3600	in	ns	ns2.dns-redirect.com.
 avidata.computer.	3600	in	ds	1670 8 2 539409131761CB9C4AA185D0FD781291DF3FF120AD235FD4F41A6FA430AA0612
 avidata.computer.	3600	in	ns	dns14.ovh.net.
 avidata.computer.	3600	in	ns	ns14.ovh.net.
@@ -4708,8 +4706,8 @@ butterfly.computer.	3600	in	ns	ns-cloud-c2.googledomains.com.
 butterfly.computer.	3600	in	ns	ns-cloud-c3.googledomains.com.
 butterfly.computer.	3600	in	ns	ns-cloud-c4.googledomains.com.
 butterfly.computer.	3600	in	rrsig	DS 8 2 3600 20250930152531 20250909142531 7884 computer. lsGhr17uZN4wiGCOapjjDkC1H7Q8YbTL7ZVDGjuwEptETTMfqj1XRE8IyrkImXlmBWuebaTj7R39KTyq4lj46d920RuJpSGq8QfgzVleESnwh4msR/VvtEVXrzQLfsi4g8iMRfokCSIuXEGcDq3EWbsFWr0D7asi4hxqGP3RYbs=
-buy.computer.	3600	in	ns	ns1.dyna-ns.net.
-buy.computer.	3600	in	ns	ns2.dyna-ns.net.
+buy.computer.	3600	in	ns	ns1.afternic.com.
+buy.computer.	3600	in	ns	ns2.afternic.com.
 buysell.computer.	3600	in	ns	dns1.registrar-servers.com.
 buysell.computer.	3600	in	ns	dns2.registrar-servers.com.
 buysmartlocks.computer.	3600	in	ns	ns1.afternic.com.
@@ -5086,8 +5084,8 @@ catalina.computer.	3600	in	ns	c.ns.apple.com.
 catalina.computer.	3600	in	ns	d.ns.apple.com.
 catalyst.computer.	3600	in	ns	dale.ns.cloudflare.com.
 catalyst.computer.	3600	in	ns	tegan.ns.cloudflare.com.
-catch.computer.	3600	in	ns	ns1.bodis.com.
-catch.computer.	3600	in	ns	ns2.bodis.com.
+catch.computer.	3600	in	ns	ns1.dns-redirect.com.
+catch.computer.	3600	in	ns	ns2.dns-redirect.com.
 catgirl.computer.	3600	in	ns	curitiba.ns.porkbun.com.
 catgirl.computer.	3600	in	ns	fortaleza.ns.porkbun.com.
 catgirl.computer.	3600	in	ns	maceio.ns.porkbun.com.
@@ -5886,7 +5884,7 @@ computer.	3600	in	nsec3param	1 0 0 73
 computer.	3600	in	rrsig	DNSKEY 8 1 3600 20250930152531 20250909142531 29629 computer. T+n/2uJIx2EEhdAL82AdLoPffHlyXb0+/j+Xrxaomk3aR/Nv4PQvRX0J4H5jgXGq8t980A4KE+egTGdvlBWk4HwMHbTKCzJHfvWJgU5ptrbH3ZexKsyo/ljExe95F3ImFDk74H+XUnKVzbd2IGFyzch/q3IcOIwz9+Mz2cEbkz2jd+HlNjDawONj2ZR/N5rZgh0/6uQvttKxTaDBJIFrjvD5A1/dl80Z/QU96HMwsco4K1YCB5CQoWS58NGZsWGVHyVUfbm+hYZ9+euNqUb7xBgLuREmpXhcOK4H/GZo269DzAINZ47kNl+Cl/9/g0FJeVgEQeA0+iy1F2IWq557cQ==
 computer.	3600	in	rrsig	NS 8 1 3600 20250930152531 20250909142531 7884 computer. Sz08e7ucDVETFj7Z0baLgfIhTuAjLLLR9YEHT0pwzk2Si7uB8wd7xIY6Fb6aoymqT4d02RFttgruJM4HmmBrM+P+EOEris+rt5sdcisn8k7hDkEDBLIi8WPtk01XdTXDY40I4y4EVeMjfgkBjdzFiGbDYoe3xPOKJYsxL4X/qJk=
 computer.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930152531 20250909142531 7884 computer. MlHbEctIaSPaNRmeif/uwQYfYIeKHif2wtx/hVYKSChGXWVwYbHakpERHeQiV0Vz2DYX2uDHe3uF66GvLAVkBhIBOGKoCYwfowe6iXqjQsp+pC5ihNrf5CoKU3RUv2pg7Id+3qkeVtcltiWNOc7Abw0JTmtyZWMICx8TZ3XbZvE=
-computer.	3600	in	rrsig	SOA 8 1 3600 20251002005641 20250910235641 7884 computer. iVdCwRPIT4/vejRFX4g5EGPi18PqMbYw674KqNQMlTsasHQujZ3OHqaIeORgX2nf2xvtQAcelZptaefO8ZwxzATT/0gOo8Mpi+F8Pyv5jo2KZi1cxSSsTRUI1SVRhGT0YQwmXORyPxflTGX/pV6JLP2z/Eb0y6nvOq7OFPI6SVY=
+computer.	3600	in	rrsig	SOA 8 1 3600 20251003010349 20250912000349 7884 computer. VRk1JEcKLfVC2deFEOKjtvoXpv56xTXp2rupcx/ojALVF+AIXoRCrZ8osMCa4JHee84UN2bO3NiJByW9TGw10d9EhlZbQRURaoes2MH6UV+/2Zsf+srzMag15LCSyJKHHbUoxeN64qu+AWpNDcbP5Y4l6KJTKwTPYaFbPzKEzY4=
 computer.computer.	3600	in	ns	ns-170-a.gandi.net.
 computer.computer.	3600	in	ns	ns-239-c.gandi.net.
 computer.computer.	3600	in	ns	ns-78-b.gandi.net.
@@ -6409,8 +6407,8 @@ ct35kb5vme8nhbo31frr2ic528a9vf85.computer.	3600	in	nsec3	1 1 0 73 CTFF6V04LR86DH
 ct35kb5vme8nhbo31frr2ic528a9vf85.computer.	3600	in	rrsig	NSEC3 8 2 3600 20250930152531 20250909142531 7884 computer. iIE+qTa24GiQIyscTMDrD/TlqtkZLvBlHJI1LzcQP+UogB01czTLvRLzhlG0Eg0ddRDS4O95+pQccbK9vdnKosxQOYZWT/D+63qv53cTFOSyCHrkEisS0MWGM5vln8IqTvQBMLoXzSXT545HGkwIuDfXPV/eAjv3dH5MFHvtJ48=
 ctc.computer.	3600	in	ns	ns.mainnameserver.com.
 ctc.computer.	3600	in	ns	ns2.mainnameserver.com.
-cte.computer.	3600	in	ns	ns1.bodis.com.
-cte.computer.	3600	in	ns	ns2.bodis.com.
+cte.computer.	3600	in	ns	ns1.dns-redirect.com.
+cte.computer.	3600	in	ns	ns2.dns-redirect.com.
 ctff6v04lr86dh5d5ldr4otr47e71dvg.computer.	3600	in	nsec3	1 1 0 73 CUNNL4FQFPHQ4TFJU01CF44E0ML1D68U NS DS RRSIG
 ctff6v04lr86dh5d5ldr4otr47e71dvg.computer.	3600	in	rrsig	NSEC3 8 2 3600 20250930152531 20250909142531 7884 computer. qqyjeeGAM+sXFi9AklatB9iXcjHwfTAFcWoaBXmf5fTPzZNdvU6muJ4+VQJIIFThbp23b/pQc3JglEVGe1nnWePBPM7tp+sxwmFw0nYoIHGTTixOYel9L9QQ7KuTzF6EcDZnwkYootVvLLnvzKo8jUA3/HbQQIeApcEGPrcwwnI=
 ctg.computer.	3600	in	ds	2371 13 2 07C5FE06992E2A001BC729811882138FD0CAA57180081F28A4BC507E9BF83138
@@ -6953,8 +6951,6 @@ deep.computer.	3600	in	ns	ns-cloud-e2.googledomains.com.
 deep.computer.	3600	in	ns	ns-cloud-e3.googledomains.com.
 deep.computer.	3600	in	ns	ns-cloud-e4.googledomains.com.
 deep.computer.	3600	in	rrsig	DS 8 2 3600 20250930152531 20250909142531 7884 computer. GA0BH747QH0tH12d4ak0Ca2ML5NfgEPivKtqW5OY4AQG+eEIzEZqx6pqLIkEbE1bZiZSeYMKZV8XqDPgJLUnmYlndndx/PPFJlEDyYOlMI3YtXbu6qyoJcvi70VQswuoa6EXQS4NqLhX1AVf0v2CUHZtS7N8PJlsA+t8W/SNDqs=
-deepai.computer.	3600	in	ns	ns1-expired.sav.com.
-deepai.computer.	3600	in	ns	ns2-expired.sav.com.
 deepdata.computer.	3600	in	ns	ns1032.ui-dns.de.
 deepdata.computer.	3600	in	ns	ns1033.ui-dns.com.
 deepdata.computer.	3600	in	ns	ns1077.ui-dns.org.
@@ -7359,8 +7355,8 @@ dinopark.computer.	3600	in	ns	ns1hnx.name.com.
 dinopark.computer.	3600	in	ns	ns2jqz.name.com.
 dinopark.computer.	3600	in	ns	ns3jnr.name.com.
 dinopark.computer.	3600	in	ns	ns4gvx.name.com.
-dinosaur.computer.	3600	in	ns	ns1.bodis.com.
-dinosaur.computer.	3600	in	ns	ns2.bodis.com.
+dinosaur.computer.	3600	in	ns	ns1.dns-redirect.com.
+dinosaur.computer.	3600	in	ns	ns2.dns-redirect.com.
 diode.computer.	3600	in	ds	49092 13 2 622F29A908BBB2AF122FEE11A4FF7614EA0EDF3AF5D7D73C42795FA25326491F
 diode.computer.	3600	in	ns	launch1.spaceship.net.
 diode.computer.	3600	in	ns	launch2.spaceship.net.
@@ -7514,6 +7510,8 @@ dog.computer.	3600	in	ns	apollo.ns.cloudflare.com.
 dog.computer.	3600	in	ns	dawn.ns.cloudflare.com.
 dogecoin.computer.	3600	in	ns	ns75.domaincontrol.com.
 dogecoin.computer.	3600	in	ns	ns76.domaincontrol.com.
+doing.computer.	3600	in	ns	bristol.ns.cloudflare.com.
+doing.computer.	3600	in	ns	kenneth.ns.cloudflare.com.
 doityourself.computer.	3600	in	ns	ns1.dnsowl.com.
 doityourself.computer.	3600	in	ns	ns2.dnsowl.com.
 doityourself.computer.	3600	in	ns	ns3.dnsowl.com.
@@ -8437,8 +8435,8 @@ enterprise.computer.	3600	in	ns	ns1.markmonitor.com.
 enterprise.computer.	3600	in	ns	ns2.markmonitor.com.
 entropic.computer.	3600	in	ns	ns09.domaincontrol.com.
 entropic.computer.	3600	in	ns	ns10.domaincontrol.com.
-entropy.computer.	3600	in	ns	ns1.bodis.com.
-entropy.computer.	3600	in	ns	ns2.bodis.com.
+entropy.computer.	3600	in	ns	ns1.dns-redirect.com.
+entropy.computer.	3600	in	ns	ns2.dns-redirect.com.
 enverus.computer.	3600	in	ns	ns-155-a.gandi.net.
 enverus.computer.	3600	in	ns	ns-184-c.gandi.net.
 enverus.computer.	3600	in	ns	ns-86-b.gandi.net.
@@ -8650,8 +8648,8 @@ eureka.computer.	3600	in	ns	ns-cloud-c2.googledomains.com.
 eureka.computer.	3600	in	ns	ns-cloud-c3.googledomains.com.
 eureka.computer.	3600	in	ns	ns-cloud-c4.googledomains.com.
 eureka.computer.	3600	in	rrsig	DS 8 2 3600 20250930152531 20250909142531 7884 computer. clpvau1Bby1EN9Jeoi+NABjmhXUzVXCMofWX2FAl+NNcU9Kq8XGe54uSyQwYcQDiY8Sk69jz1SV8YhcysEjSw+p9D7n+hDjTzskQAwlPzNSQEq4LrJUcSDeVRZc0v/o/5g6cj6GT/+DYMtqPlEBc23NhuV4CZr2+sZAXFCpC1eY=
-euro.computer.	3600	in	ns	ns1.sedoparking.com.
-euro.computer.	3600	in	ns	ns2.sedoparking.com.
+euro.computer.	3600	in	ns	ns1-expired.sav.com.
+euro.computer.	3600	in	ns	ns2-expired.sav.com.
 europa.computer.	3600	in	ds	22789 13 2 BB28B881F3A32F4C7CF7CB12AC91468ECE9623F8B7B14E7D50E3D5D4F04E9D89
 europa.computer.	3600	in	ns	nsa.bookmyname.com.
 europa.computer.	3600	in	ns	nsb.bookmyname.com.
@@ -10953,8 +10951,8 @@ harmon.computer.	3600	in	ns	ns1.bdm.microsoftonline.com.
 harmon.computer.	3600	in	ns	ns2.bdm.microsoftonline.com.
 harmon.computer.	3600	in	ns	ns3.bdm.microsoftonline.com.
 harmon.computer.	3600	in	ns	ns4.bdm.microsoftonline.com.
-harmony.computer.	3600	in	ns	ns1.bodis.com.
-harmony.computer.	3600	in	ns	ns2.bodis.com.
+harmony.computer.	3600	in	ns	ns1.dns-redirect.com.
+harmony.computer.	3600	in	ns	ns2.dns-redirect.com.
 harmonyos.computer.	3600	in	ns	ns1.afternic.com.
 harmonyos.computer.	3600	in	ns	ns2.afternic.com.
 harper.computer.	3600	in	ns	dns1.name-services.com.
@@ -11112,6 +11110,10 @@ hecosys.computer.	3600	in	ns	ns3175.dns.dyn.com.
 hecosys.computer.	3600	in	ns	ns4158.dns.dyn.com.
 heidelberg-it.computer.	3600	in	ns	ns5.kasserver.com.
 heidelberg-it.computer.	3600	in	ns	ns6.kasserver.com.
+heim.computer.	3600	in	ns	ns1030.ui-dns.de.
+heim.computer.	3600	in	ns	ns1055.ui-dns.biz.
+heim.computer.	3600	in	ns	ns1091.ui-dns.com.
+heim.computer.	3600	in	ns	ns1102.ui-dns.org.
 heintze.computer.	3600	in	ns	docks01.rzone.de.
 heintze.computer.	3600	in	ns	shades03.rzone.de.
 hejfl7fu9b1fmpb99i5ueomohlq22g8e.computer.	3600	in	nsec3	1 1 0 73 HG184S5T5FOQIONM94D1I76MPPS4CTJU NS DS RRSIG
@@ -11238,8 +11240,8 @@ herzo.computer.	3600	in	ns	ns3.inwx.eu.
 hessen.computer.	3600	in	ns	ns1.nameserver365.de.
 hessen.computer.	3600	in	ns	ns2.nameserver365.de.
 hessen.computer.	3600	in	ns	ns3.nameserver365.de.
-heuristic.computer.	3600	in	ns	ns1.bodis.com.
-heuristic.computer.	3600	in	ns	ns2.bodis.com.
+heuristic.computer.	3600	in	ns	ns1.dns-redirect.com.
+heuristic.computer.	3600	in	ns	ns2.dns-redirect.com.
 hex.computer.	3600	in	ds	8489 8 2 51B601C19D660C37BED13FCE44090AAB765ADB6331583CC1DE5CFAA92EF912BB
 hex.computer.	3600	in	ns	ns-cloud-e1.googledomains.com.
 hex.computer.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -12030,8 +12032,8 @@ ijk.computer.	3600	in	ns	maceio.ns.porkbun.com.
 ijk.computer.	3600	in	ns	salvador.ns.porkbun.com.
 ik2dsprgm2ed26shjs1rjrm0l8e1tnvm.computer.	3600	in	nsec3	1 1 0 73 INE8I4J0HOGKO1IULV6ADVIMO66E3VM2 NS DS RRSIG
 ik2dsprgm2ed26shjs1rjrm0l8e1tnvm.computer.	3600	in	rrsig	NSEC3 8 2 3600 20250930152531 20250909142531 7884 computer. DLa+M07KSPBcKYSqRGmu78yPNmplUFdp64u0L4INf+UVJQxmxkSkpj+48MCtcTj42ZZ+5gF1eBmbt/UL0Jbv/N3p+v7ESbMB7EnWPPvdhrEcsYJU3RuAneUvMNm+MnFYkyDzfXTm/N9gsBumgcrQrapTAL+R5gm2UJ02V+nOI70=
-iknow.computer.	3600	in	ns	ns1.bodis.com.
-iknow.computer.	3600	in	ns	ns2.bodis.com.
+iknow.computer.	3600	in	ns	ns1.dns-redirect.com.
+iknow.computer.	3600	in	ns	ns2.dns-redirect.com.
 iks.computer.	3600	in	ns	ns5.kasserver.com.
 iks.computer.	3600	in	ns	ns6.kasserver.com.
 ilhah.computer.	3600	in	ns	ns1.dyna-ns.net.
@@ -12178,8 +12180,8 @@ incubator.computer.	3600	in	ns	ns-cloud-b3.googledomains.com.
 incubator.computer.	3600	in	ns	ns-cloud-b4.googledomains.com.
 incycle.computer.	3600	in	ns	dns1.registrar-servers.com.
 incycle.computer.	3600	in	ns	dns2.registrar-servers.com.
-independent.computer.	3600	in	ns	ns1.bodis.com.
-independent.computer.	3600	in	ns	ns2.bodis.com.
+independent.computer.	3600	in	ns	ns1.dns-redirect.com.
+independent.computer.	3600	in	ns	ns2.dns-redirect.com.
 index.computer.	3600	in	ns	ns1.stackdns.com.
 index.computer.	3600	in	ns	ns2.stackdns.com.
 index.computer.	3600	in	ns	ns3.stackdns.com.
@@ -12405,8 +12407,8 @@ intern.computer.	3600	in	ns	ns-1313.awsdns-36.org.
 intern.computer.	3600	in	ns	ns-1562.awsdns-03.co.uk.
 intern.computer.	3600	in	ns	ns-366.awsdns-45.com.
 intern.computer.	3600	in	ns	ns-946.awsdns-54.net.
-internal.computer.	3600	in	ns	ns1.bodis.com.
-internal.computer.	3600	in	ns	ns2.bodis.com.
+internal.computer.	3600	in	ns	ns1.dns-redirect.com.
+internal.computer.	3600	in	ns	ns2.dns-redirect.com.
 international.computer.	3600	in	ns	ns.inwx.de.
 international.computer.	3600	in	ns	ns2.inwx.de.
 international.computer.	3600	in	ns	ns3.inwx.eu.
@@ -12969,8 +12971,8 @@ jar.computer.	3600	in	ns	ns-1173.awsdns-18.org.
 jar.computer.	3600	in	ns	ns-154.awsdns-19.com.
 jar.computer.	3600	in	ns	ns-1829.awsdns-36.co.uk.
 jar.computer.	3600	in	ns	ns-547.awsdns-04.net.
-jared.computer.	3600	in	ns	ns1.bodis.com.
-jared.computer.	3600	in	ns	ns2.bodis.com.
+jared.computer.	3600	in	ns	ns1.dns-redirect.com.
+jared.computer.	3600	in	ns	ns2.dns-redirect.com.
 jareds.computer.	3600	in	ns	gene.ns.cloudflare.com.
 jareds.computer.	3600	in	ns	vern.ns.cloudflare.com.
 jaron.computer.	3600	in	ds	21361 8 2 4D2FEEAE91AB7B99FCADFAD0D0A3122330F3E94C893B4128ABBBB438BBB10092
@@ -13511,8 +13513,8 @@ kassel.computer.	3600	in	ns	a.ns14.net.
 kassel.computer.	3600	in	ns	b.ns14.net.
 kassel.computer.	3600	in	ns	c.ns14.net.
 kassel.computer.	3600	in	ns	d.ns14.net.
-kat.computer.	3600	in	ns	ns1.bodis.com.
-kat.computer.	3600	in	ns	ns2.bodis.com.
+kat.computer.	3600	in	ns	ns1.dns-redirect.com.
+kat.computer.	3600	in	ns	ns2.dns-redirect.com.
 katie.computer.	3600	in	ns	ns21.domaincontrol.com.
 katie.computer.	3600	in	ns	ns22.domaincontrol.com.
 katz.computer.	3600	in	ns	ns21.worldnic.com.
@@ -14174,10 +14176,6 @@ last.computer.	3600	in	ns	dns1.registrar-servers.com.
 last.computer.	3600	in	ns	dns2.registrar-servers.com.
 lasvegas.computer.	3600	in	ns	ns1.sedoparking.com.
 lasvegas.computer.	3600	in	ns	ns2.sedoparking.com.
-latamdata.computer.	3600	in	ns	ns1hnx.name.com.
-latamdata.computer.	3600	in	ns	ns2fln.name.com.
-latamdata.computer.	3600	in	ns	ns3npv.name.com.
-latamdata.computer.	3600	in	ns	ns4lrt.name.com.
 latent.computer.	3600	in	ns	ns-1310.awsdns-35.org.
 latent.computer.	3600	in	ns	ns-1918.awsdns-47.co.uk.
 latent.computer.	3600	in	ns	ns-493.awsdns-61.com.
@@ -17026,8 +17024,8 @@ nexus.computer.	3600	in	ns	ns1.virtserver.com.
 nexus.computer.	3600	in	ns	ns2.virtserver.com.
 nf5ktjlk9d8g67tr08hnma65onktt8hc.computer.	3600	in	nsec3	1 1 0 73 NGVDQ7VG9GE77OHKBFODLVQAMP0CVT1F NS DS RRSIG
 nf5ktjlk9d8g67tr08hnma65onktt8hc.computer.	3600	in	rrsig	NSEC3 8 2 3600 20250930152531 20250909142531 7884 computer. nh6FHp/c6EehdxWYrPFB1PcMtUsxFQDsNHKgkyNxRsmeEqGGIMXP6UUPUWjCEtQkwpLsJaoHzodO1GD0X4hEjEAWDGLAEUS+TfNQqv3pqrK6O3wc1hr04hZ+PObGFlZ5QVs8J9y9FwXhzje/p/2KHGL0vstGBjspOQfUouVp9eQ=
-nfc.computer.	3600	in	ns	ns1.bodis.com.
-nfc.computer.	3600	in	ns	ns2.bodis.com.
+nfc.computer.	3600	in	ns	ns1.dns-redirect.com.
+nfc.computer.	3600	in	ns	ns2.dns-redirect.com.
 nft.computer.	3600	in	ns	ns1.atom.com.
 nft.computer.	3600	in	ns	ns2.atom.com.
 nfts.computer.	3600	in	ns	ns1.sedoparking.com.
@@ -17462,7 +17460,7 @@ ns.onsite.computer.	3600	in	a	67.60.181.126
 ns.unitech.computer.	3600	in	a	207.46.15.59
 ns00.fbi.computer.	3600	in	a	107.170.232.148
 ns01.fbi.computer.	3600	in	a	107.170.232.148
-ns1.247365.computer.	3600	in	a	74.48.151.146
+ns1.247365.computer.	3600	in	a	204.27.218.36
 ns1.adrians.computer.	3600	in	a	69.93.127.10
 ns1.aztec.computer.	3600	in	a	149.255.60.1
 ns1.balthasar.computer.	3600	in	a	5.161.118.145
@@ -17518,7 +17516,7 @@ ns1.wunder.computer.	3600	in	a	192.174.68.104
 ns1.yanky.computer.	3600	in	a	209.133.193.154
 ns1.young.computer.	3600	in	a	5.78.131.240
 ns1.zuhlsdorf.computer.	3600	in	a	5.161.43.102
-ns2.247365.computer.	3600	in	a	142.171.84.40
+ns2.247365.computer.	3600	in	a	148.135.86.195
 ns2.adrians.computer.	3600	in	a	65.19.178.10
 ns2.aztec.computer.	3600	in	a	149.255.60.9
 ns2.balthasar.computer.	3600	in	a	5.161.118.145
@@ -17906,8 +17904,8 @@ oli.computer.	3600	in	ns	ns-cloud-a4.googledomains.com.
 oli.computer.	3600	in	rrsig	DS 8 2 3600 20250930152531 20250909142531 7884 computer. Jzi/5KS8pWrpqegPKBuvWcavLugc225YBnK66ghG23dupWEjK36Gmg0asGKxiAALkmYdGIW9Js3N+5XMPF0naPfTmc//cLpKSSc6Q7pEqyuE9htohSicMRe98jc9+I81ae/FHMUf9vtemAkgIdw9r+2SkdfwkmPfufPHZrIlvKY=
 olive.computer.	3600	in	ns	art.ns.cloudflare.com.
 olive.computer.	3600	in	ns	norah.ns.cloudflare.com.
-oliver.computer.	3600	in	ns	dns1.registrar-servers.com.
-oliver.computer.	3600	in	ns	dns2.registrar-servers.com.
+oliver.computer.	3600	in	ns	dns101.registrar-servers.com.
+oliver.computer.	3600	in	ns	dns102.registrar-servers.com.
 olivia.computer.	3600	in	ns	ns1.hover.com.
 olivia.computer.	3600	in	ns	ns2.hover.com.
 olle.computer.	3600	in	ns	ns-1253.awsdns-28.org.
@@ -18464,8 +18462,8 @@ pad.computer.	3600	in	ns	ns-cloud-a2.googledomains.com.
 pad.computer.	3600	in	ns	ns-cloud-a3.googledomains.com.
 pad.computer.	3600	in	ns	ns-cloud-a4.googledomains.com.
 pad.computer.	3600	in	rrsig	DS 8 2 3600 20250930152531 20250909142531 7884 computer. p5q6BO1lLUmW9twnv/hwutEbUcp58OUqIx1HjRpWAXUGSjcm+IgNDlQhWy4hENjUTSDmc8DOeKRmbg4+TcbsCoXqn2pWtCmpXHeOYrKKjCenGGmyAg/kFLE8xBChXiT0UFpiXtNp2EfRpoLPWHL8r+CdfV6aoa8uymqybkgDtYw=
-padawan.computer.	3600	in	ns	ns1.bodis.com.
-padawan.computer.	3600	in	ns	ns2.bodis.com.
+padawan.computer.	3600	in	ns	ns1.dns-redirect.com.
+padawan.computer.	3600	in	ns	ns2.dns-redirect.com.
 page.computer.	3600	in	ns	alaric.ns.cloudflare.com.
 page.computer.	3600	in	ns	jill.ns.cloudflare.com.
 pages.computer.	3600	in	ns	ns15.domaincontrol.com.
@@ -18581,8 +18579,8 @@ particle.computer.	3600	in	ds	31710 13 2 873CAF617311261B19B3984919ED9EE2C52C9BE
 particle.computer.	3600	in	ns	launch1.spaceship.net.
 particle.computer.	3600	in	ns	launch2.spaceship.net.
 particle.computer.	3600	in	rrsig	DS 8 2 3600 20250930152531 20250909142531 7884 computer. CHP3AbHwJmC0k1UA2BfIbC6SAPZQqI7gAGn7GvEaf5ZGlbHfe2Iaom1kCNlPcVwfehoZaZNnotCNTNublAiDW9PUt3cR5Qe+NEppJrpVFv2VOPzG8BC/xwZ6dR7YCVcoTp+uNwa3yEMXgitu/2w2xM/WpeHxzGvDAAF7y/J3u2U=
-partner.computer.	3600	in	ns	ns1.bodis.com.
-partner.computer.	3600	in	ns	ns2.bodis.com.
+partner.computer.	3600	in	ns	ns1.dns-redirect.com.
+partner.computer.	3600	in	ns	ns2.dns-redirect.com.
 partsfinder.computer.	3600	in	ns	ns1.digitalocean.com.
 partsfinder.computer.	3600	in	ns	ns2.digitalocean.com.
 partsfinder.computer.	3600	in	ns	ns3.digitalocean.com.
@@ -18850,8 +18848,8 @@ performance.computer.	3600	in	ns	ns10.worldnic.com.
 performance.computer.	3600	in	ns	ns9.worldnic.com.
 perma.computer.	3600	in	ns	ns1.hover.com.
 perma.computer.	3600	in	ns	ns2.hover.com.
-permai99.computer.	3600	in	ns	ns1.bodis.com.
-permai99.computer.	3600	in	ns	ns2.bodis.com.
+permai99.computer.	3600	in	ns	ns1.dns-redirect.com.
+permai99.computer.	3600	in	ns	ns2.dns-redirect.com.
 perpetual.computer.	3600	in	ns	ns.second-ns.com.
 perpetual.computer.	3600	in	ns	ns1.your-server.de.
 perpetual.computer.	3600	in	ns	ns3.second-ns.de.
@@ -18987,8 +18985,8 @@ photonic.computer.	3600	in	ns	maceio.ns.porkbun.com.
 photonic.computer.	3600	in	ns	salvador.ns.porkbun.com.
 phprjbrs3r9ditsa57spjb5ilhmivdu4.computer.	3600	in	nsec3	1 1 0 73 PIDDLL6NRBM6UBO7IREDOTINK0G8FNML NS DS RRSIG
 phprjbrs3r9ditsa57spjb5ilhmivdu4.computer.	3600	in	rrsig	NSEC3 8 2 3600 20250930152531 20250909142531 7884 computer. Oc+4roBa+xaPpZocYe09e9LxtLjKbecz8yeb3e/TgEVdfSFosqSr/OYnqvyQGu4DsifFP3vIYpcOlxDAr755p5+k6r6mYBUbWgUUWJAawyB+JoXjqGn0PcAR6DeTjZvfE/UQzz/OCZ1S1glyPdDVVX/GCpP6dh6fuT7I3kgKiXI=
-phrase.computer.	3600	in	ns	ns1.bodis.com.
-phrase.computer.	3600	in	ns	ns2.bodis.com.
+phrase.computer.	3600	in	ns	ns1.dns-redirect.com.
+phrase.computer.	3600	in	ns	ns2.dns-redirect.com.
 physical.computer.	3600	in	ns	curitiba.ns.porkbun.com.
 physical.computer.	3600	in	ns	fortaleza.ns.porkbun.com.
 physical.computer.	3600	in	ns	maceio.ns.porkbun.com.
@@ -19732,8 +19730,8 @@ purple.computer.	3600	in	ns	lia.ns.cloudflare.com.
 purple.computer.	3600	in	ns	watson.ns.cloudflare.com.
 purpose.computer.	3600	in	ns	ns1.hover.com.
 purpose.computer.	3600	in	ns	ns2.hover.com.
-pusatslot.computer.	3600	in	ns	ns1.bodis.com.
-pusatslot.computer.	3600	in	ns	ns2.bodis.com.
+pusatslot.computer.	3600	in	ns	ns1.dns-redirect.com.
+pusatslot.computer.	3600	in	ns	ns2.dns-redirect.com.
 pushdetroit1.computer.	3600	in	ds	47026 8 2 ADC83582530825E81DC9EF01745D2FF9D4636A972B1B0E470BD1CC63ED910553
 pushdetroit1.computer.	3600	in	ns	ns-cloud-d1.googledomains.com.
 pushdetroit1.computer.	3600	in	ns	ns-cloud-d2.googledomains.com.
@@ -19816,8 +19814,6 @@ qbmax.computer.	3600	in	ns	dns1.registrar-servers.com.
 qbmax.computer.	3600	in	ns	dns2.registrar-servers.com.
 qbsg56c6r189svlkh5e0ld7nlopjqlet.computer.	3600	in	nsec3	1 1 0 73 QFEF9PQN3IVLT317LD7FU029IRIV7ACB NS DS RRSIG
 qbsg56c6r189svlkh5e0ld7nlopjqlet.computer.	3600	in	rrsig	NSEC3 8 2 3600 20250930152531 20250909142531 7884 computer. fn+CgB0/dq2z3gftKG+hpx9X663/+jViagEfiNWWKGag8UCtO1ZTW5vGSzNBig6+Y6YoCm9tBHZz3hUgf96PMqHnue/Iyn5M7DCjPxoBk3EYuWi382JmO5ckHF6NtrFXpCRhlhw7/ZApnu1eEXR7jqnxphAsMOM3PQNfQmhvdQw=
-qc.computer.	3600	in	ns	ns1.renewyourname.net.
-qc.computer.	3600	in	ns	ns2.renewyourname.net.
 qct.computer.	3600	in	ns	ens1.net-chinese.com.tw.
 qct.computer.	3600	in	ns	ens2.net-chinese.com.tw.
 qdt.computer.	3600	in	ds	31525 7 2 3E2B4D8DDF743503F4D1462EBD2853DFC1BDFF046B00B873AB49D1973CC220CB
@@ -19926,9 +19922,8 @@ quantumtechnology.computer.	3600	in	ns	ns1.syrahost.com.
 quantumtechnology.computer.	3600	in	ns	ns2.syrahost.com.
 quasi.computer.	3600	in	ns	ns67.domaincontrol.com.
 quasi.computer.	3600	in	ns	ns68.domaincontrol.com.
-quaternary.computer.	3600	in	ns	ns1.dan.com.
-quaternary.computer.	3600	in	ns	ns2.dan.com.
-quaternary.computer.	3600	in	ns	p8i389dx.verify.hn.
+quaternary.computer.	3600	in	ns	ns1-expired.sav.com.
+quaternary.computer.	3600	in	ns	ns2-expired.sav.com.
 qube.computer.	3600	in	ns	anna.ns.cloudflare.com.
 qube.computer.	3600	in	ns	sterling.ns.cloudflare.com.
 qubeforge.computer.	3600	in	ns	ns1vwx.name.com.
@@ -20733,8 +20728,8 @@ rm-rf.computer.	3600	in	ns	ns-cloud-a1.googledomains.com.
 rm-rf.computer.	3600	in	ns	ns-cloud-a2.googledomains.com.
 rm-rf.computer.	3600	in	ns	ns-cloud-a3.googledomains.com.
 rm-rf.computer.	3600	in	ns	ns-cloud-a4.googledomains.com.
-rmb.computer.	3600	in	ns	ns1.sedoparking.com.
-rmb.computer.	3600	in	ns	ns2.sedoparking.com.
+rmb.computer.	3600	in	ns	ns1-expired.sav.com.
+rmb.computer.	3600	in	ns	ns2-expired.sav.com.
 rmm.computer.	3600	in	ns	ns1.verification-hold.suspended-domain.com.
 rmm.computer.	3600	in	ns	ns2.verification-hold.suspended-domain.com.
 rng.computer.	3600	in	ns	ns1017.ui-dns.biz.
@@ -20943,8 +20938,8 @@ rowe.computer.	3600	in	ns	dns1.registrar-servers.com.
 rowe.computer.	3600	in	ns	dns2.registrar-servers.com.
 royal.computer.	3600	in	ns	jasmine.ns.cloudflare.com.
 royal.computer.	3600	in	ns	miles.ns.cloudflare.com.
-rp4plpod2sesmj71becr7afob9vqcenk.computer.	3600	in	nsec3	1 1 0 73 RQ832V9Q2HE1JMKJV2EAS3AURNKQJQI4 NS DS RRSIG
-rp4plpod2sesmj71becr7afob9vqcenk.computer.	3600	in	rrsig	NSEC3 8 2 3600 20250930152531 20250909142531 7884 computer. dhtMlhUaASEm0uR2eiCQdep5w9SsYwqqYcHhCPbURyNGMQ2Qfq8LRyCaq4Rgc8juSNPGgPeKJOXNMUXYh53AAFapMCDV9RJBnqcX51vi1wnWKUqkvhZTZL0FWjuOn4QESQdyrdSfKmsP7WY4WRQC5r4WuYZBWJgvTnAgM4euyCw=
+rp4plpod2sesmj71becr7afob9vqcenk.computer.	3600	in	nsec3	1 1 0 73 RQBQA6CPBGS26AJD0IUP7LRN93IN3FCT NS DS RRSIG
+rp4plpod2sesmj71becr7afob9vqcenk.computer.	3600	in	rrsig	NSEC3 8 2 3600 20251002181154 20250911171154 7884 computer. q13r+HOwCmLKva6l8w2gSZuStP4dhcRZAFw+nWyifolHid/yr52COjrqKC7TeJTSzCetXMOCaCjCWIDU8VytkFoD5t4PdY0r/sMC2IwfobWhLzCw+9BBGGpcxc1YIrhtpcj82ljrFkuL+oLQVw78asrycxYGnnwTXXUsRmGwvUg=
 rpa.computer.	3600	in	ds	34939 8 2 F1037E06AFCFE8698B63C8B414F20C022CC4A28F911F03D15A08BA87BD0E09BE
 rpa.computer.	3600	in	ns	ns-cloud-b1.googledomains.com.
 rpa.computer.	3600	in	ns	ns-cloud-b2.googledomains.com.
@@ -20957,8 +20952,6 @@ rpi.computer.	3600	in	ns	ns1.mythic-beasts.com.
 rpi.computer.	3600	in	ns	ns2.mythic-beasts.com.
 rpm2000.computer.	3600	in	ns	ns1.plaindns.net.
 rpm2000.computer.	3600	in	ns	ns2.plaindns.net.
-rq832v9q2he1jmkjv2eas3aurnkqjqi4.computer.	3600	in	nsec3	1 1 0 73 RQBQA6CPBGS26AJD0IUP7LRN93IN3FCT NS DS RRSIG
-rq832v9q2he1jmkjv2eas3aurnkqjqi4.computer.	3600	in	rrsig	NSEC3 8 2 3600 20250930152531 20250909142531 7884 computer. AkZqgRq6c9u2MZYVFJp+66JUB/jTbbZfNcU2Vx/3Usyd4UgPraGpOQSIO7iew4BqiUVtONnzUjne4Xt3yS/U0iIuXQne2oN/5cYAaFGpT9OA1/nwJxapbgqmD+22PTnRFXTY+s8KsOos0c7hYZvGpH2a5bkAQbmTNMnctSew1C4=
 rqbqa6cpbgs26ajd0iup7lrn93in3fct.computer.	3600	in	nsec3	1 1 0 73 RQBV6B03AAOAJPD9JRTDMC1BMOP8MI10 NS DS RRSIG
 rqbqa6cpbgs26ajd0iup7lrn93in3fct.computer.	3600	in	rrsig	NSEC3 8 2 3600 20250930152531 20250909142531 7884 computer. VQjXIecU8mVC4rZuRFMy81U1xqFTbAX57DCmz0BNLqoA2ZRRw9Yp5R8m4E5UqUBnW5OOBiQ+boEER7x+E3Or9qSi39MB+9r0FqAfWBHPFLk0hKtu8nm5mA/jBaQyYUValAh2Cu7L7eUUh7A9JWaEbPcbItLIz+hMe5hjHSFTSKo=
 rqbv6b03aaoajpd9jrtdmc1bmop8mi10.computer.	3600	in	nsec3	1 1 0 73 RTQIF07JEL8BPCHC4NGGE416MMDEPBTL NS DS RRSIG
@@ -23766,8 +23759,8 @@ temp.computer.	3600	in	ns	ns17.domaincontrol.com.
 temp.computer.	3600	in	ns	ns18.domaincontrol.com.
 tempest.computer.	3600	in	ns	ns.phx6.nearlyfreespeech.net.
 tempest.computer.	3600	in	ns	ns.phx8.nearlyfreespeech.net.
-template.computer.	3600	in	ns	ns1.sedoparking.com.
-template.computer.	3600	in	ns	ns2.sedoparking.com.
+template.computer.	3600	in	ns	ns1-expired.sav.com.
+template.computer.	3600	in	ns	ns2-expired.sav.com.
 templates.computer.	3600	in	ns	ns1.sedoparking.com.
 templates.computer.	3600	in	ns	ns2.sedoparking.com.
 tempo.computer.	3600	in	ns	dns1.registrar-servers.com.
@@ -24069,8 +24062,8 @@ thornet.computer.	3600	in	ns	ns-1489.awsdns-58.org.
 thornet.computer.	3600	in	ns	ns-1888.awsdns-44.co.uk.
 thornet.computer.	3600	in	ns	ns-290.awsdns-36.com.
 thornet.computer.	3600	in	ns	ns-662.awsdns-18.net.
-thos.computer.	3600	in	ns	dns1.registrar-servers.com.
-thos.computer.	3600	in	ns	dns2.registrar-servers.com.
+thos.computer.	3600	in	ns	dns101.registrar-servers.com.
+thos.computer.	3600	in	ns	dns102.registrar-servers.com.
 thought.computer.	3600	in	ns	dns1.registrar-servers.com.
 thought.computer.	3600	in	ns	dns2.registrar-servers.com.
 thoughtful.computer.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -25026,8 +25019,8 @@ upgrademy.computer.	3600	in	ns	drew.ns.cloudflare.com.
 upgrademy.computer.	3600	in	ns	laura.ns.cloudflare.com.
 upgradeyour.computer.	3600	in	ns	ns1.sedoparking.com.
 upgradeyour.computer.	3600	in	ns	ns2.sedoparking.com.
-uplink.computer.	3600	in	ns	dns1.registrar-servers.com.
-uplink.computer.	3600	in	ns	dns2.registrar-servers.com.
+uplink.computer.	3600	in	ns	dns101.registrar-servers.com.
+uplink.computer.	3600	in	ns	dns102.registrar-servers.com.
 upload.computer.	3600	in	ns	ian.ns.cloudflare.com.
 upload.computer.	3600	in	ns	kami.ns.cloudflare.com.
 uptime.computer.	3600	in	ns	ns1.dnsimple.com.
@@ -27034,4 +27027,4 @@ zwing-daniel.computer.	3600	in	ns	docks18.rzone.de.
 zwing-daniel.computer.	3600	in	ns	shades11.rzone.de.
 zxspectrum.computer.	3600	in	ns	lee.ns.cloudflare.com.
 zxspectrum.computer.	3600	in	ns	rosa.ns.cloudflare.com.
-computer.	3600	in	soa	v0n0.nic.computer. hostmaster.donuts.email. 1757551972 7200 900 1209600 3600
+computer.	3600	in	soa	v0n0.nic.computer. hostmaster.donuts.email. 1757638818 7200 900 1209600 3600
