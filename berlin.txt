@@ -1,4 +1,4 @@
-berlin.	3600	in	soa	z.dns.nic.berlin. hostmaster.tld-box.at. 1757552705 10800 3600 604800 3600
+berlin.	3600	in	soa	z.dns.nic.berlin. hostmaster.tld-box.at. 1757639105 10800 3600 604800 3600
 0.berlin.	14400	in	ns	ns1.sedoparking.com.
 0.berlin.	14400	in	ns	ns2.sedoparking.com.
 000.berlin.	14400	in	ns	ns.udag.de.
@@ -4933,6 +4933,8 @@ andreasschaefer.berlin.	14400	in	ns	docks14.rzone.de.
 andreasschaefer.berlin.	14400	in	ns	shades20.rzone.de.
 andreasschmidt.berlin.	14400	in	ns	ns1.de3.fcomet.com.
 andreasschmidt.berlin.	14400	in	ns	ns2.de3.fcomet.com.
+andreaswegner.berlin.	14400	in	ns	ns5.kasserver.com.
+andreaswegner.berlin.	14400	in	ns	ns6.kasserver.com.
 andree.berlin.	14400	in	ns	ns3.stratoserver.net.
 andree.berlin.	14400	in	ns	ns4.stratoserver.net.
 andrej.berlin.	14400	in	ns	docks17.rzone.de.
@@ -12119,7 +12121,7 @@ berlin.	3600	in	dnskey	256 3 8 AwEAAczGJGCxYQhAjsSrbF3m4LDNpIwJZZqWtODN1TljyuL2S
 berlin.	3600	in	dnskey	257 3 8 AwEAAYp7zAbR6JCS2k0aKNNA5VNRyTLbHcvE5lPFW4wAto1YF7uHChlMe6Ivr9cun+mgdwE2buBjnVMdP1trwE+132WifAQXn+XbYpxd6Yhwzsn1uOPyozHn0+v5ZsBfw2jv3m9NDNn2oR7Zn+awszNYprlo0wQekSAgBPrfhEIH1zvCYzM3k8OafYSRGcfEnZdfWlbxixLVfJ770R0HIg5x3/9aWMtwEybBVf+NqaAUM8J5ba0QgjNNGIBKItvrBzOIEbXpRtCPcaBuOtfjGtI94vxsUpykQhlddQURYgelfCuv/XsNBNPyW5ghOGbSwiUWY6V8UTE4dzFW/lXdXihpygM=
 berlin.	3600	in	dnskey	257 3 8 AwEAAcJnwx5R+gGZnE82Ew7LhFYOIE/vqe7SY4ZMt4Tf4l8LXLEmzE+VDP5hTnN3G6LsyuGMyWrpeCJWCqEjGxb0yRZfQzdj3yJr077UbUrZXE26ZNEym1/NZL0eI3Dq9eU8ymgN2cOiDF1i/DveTMTJymjL/w6iPIJAnj/sS0DOdTRvaiYJwnbm9gicKQoSK2TL7tt0hMLxY8jPWqloExEDq8VgBpRsn5MXkeGtwW8edvTpc6HrYDGVV5wnORExzI8+UAyy1gUfIA17+VdxllkGrqxRCIQDQDxc9vlcZK+EN82VSyIZtaO077Uyr0rjy5JsAbvz58OZCzH7WxZ565184NU=
 berlin.	3600	in	rrsig	DNSKEY 8 1 3600 20250916134947 20250909072511 7669 berlin. PDDb9UM937wiRv0XfMeuHvX/TkeEcz6oyBrV06gZFshUh/n2wFOQXuiG3WYJfDVQ8RCD33OKow95PGIL/8spsfGxMdSEAD4BciRJcakkHCS18F2PI0aUhR17mlx6jyikZvOCEMUeT3gyixXpmHnfOdGWy2tS/sw1rQMFN8gGfTz1N30i6jTHveTmOOWICyBrvddeD5CYEVlCE05TxMoXX55eNSwc+NM/TSFkY/uwFkGqjEWNY35j8T6ZQIa7gtGMPrPjSQwI/j9yTzHCa26Fa2kwH2S4hNuqL3mPalqi9KeAVOmYFbUjP2fl9nwmRDXxQkdndWeiR1F+Df9IDZPN/A==
-berlin.	3600	in	rrsig	SOA 8 1 3600 20250918051957 20250911000510 10974 berlin. C7DSclJEoQyIt9e3WaVxgq6903lhhheZQxKLp7tKJzsrcyvCOfbGAfmR9RB2VZpmH1nslwT1uKQU299gWaLarTe5Aa7sm1NZ5Oz9P/GD2+Lz3gtkK72OZyeXKUhgvkvL+WpEOl8J5vbMcVUwDPq3s5dMuWzEDnSXzBdCqqOqQpM=
+berlin.	3600	in	rrsig	SOA 8 1 3600 20250919103223 20250912000509 10974 berlin. eUpwG54M44pnMbiVQo6l02cElnDxTXl0DAzxpKIK0LQg4I7hgrzUifudecJr3MhuYvwV6FHGYPhWBAqxZcZHWlaZAvw3xlVbycmM+HSaxlLhpyuhSuQhCrognUpQCnAAfQ5NYFbqQJrr4gAnwIas4kKPEwzpqe//RmvoFAb5J/o=
 berlin1.berlin.	14400	in	ns	docks09.rzone.de.
 berlin1.berlin.	14400	in	ns	shades07.rzone.de.
 berlin2037.berlin.	14400	in	ns	ns1055.ui-dns.org.
@@ -26144,8 +26146,11 @@ desci.berlin.	14400	in	ns	drew.ns.cloudflare.com.
 deserteur.berlin.	14400	in	ns	ns.udag.de.
 deserteur.berlin.	14400	in	ns	ns.udag.net.
 deserteur.berlin.	14400	in	ns	ns.udag.org.
-desifeast.berlin.	14400	in	ns	dns1.registrar-servers.com.
-desifeast.berlin.	14400	in	ns	dns2.registrar-servers.com.
+desifeast.berlin.	14400	in	ns	dns1.name-services.com.
+desifeast.berlin.	14400	in	ns	dns2.name-services.com.
+desifeast.berlin.	14400	in	ns	dns3.name-services.com.
+desifeast.berlin.	14400	in	ns	dns4.name-services.com.
+desifeast.berlin.	14400	in	ns	dns5.name-services.com.
 design-anmelden.berlin.	14400	in	ns	ns1.promserver.de.
 design-anmelden.berlin.	14400	in	ns	ns2.promserver.de.
 design-apartments.berlin.	14400	in	ns	ns51.domaincontrol.com.
@@ -34463,6 +34468,9 @@ fachkraefte.berlin.	14400	in	ns	ns8.pixelx.de.
 fachkraefte360.berlin.	14400	in	ns	ns6.pixelx.de.
 fachkraefte360.berlin.	14400	in	ns	ns7.pixelx.de.
 fachkraefte360.berlin.	14400	in	ns	ns8.pixelx.de.
+fachkraefteimfokus.berlin.	14400	in	ns	ns01.agenturserver.co.
+fachkraefteimfokus.berlin.	14400	in	ns	ns01.agenturserver.de.
+fachkraefteimfokus.berlin.	14400	in	ns	ns01.agenturserver.it.
 fachkraeftemonitor.berlin.	14400	in	ns	ns6.pixelx.de.
 fachkraeftemonitor.berlin.	14400	in	ns	ns7.pixelx.de.
 fachkraeftemonitor.berlin.	14400	in	ns	ns8.pixelx.de.
@@ -35488,8 +35496,8 @@ fayo.berlin.	14400	in	ns	docks14.rzone.de.
 fayo.berlin.	14400	in	ns	shades10.rzone.de.
 faz.berlin.	14400	in	ns	dns.globvill.de.
 faz.berlin.	14400	in	ns	dns.voerde.globvill.de.
-fazal.berlin.	14400	in	ns	ns4.wixdns.net.
-fazal.berlin.	14400	in	ns	ns5.wixdns.net.
+fazal.berlin.	14400	in	ns	ns5.kasserver.com.
+fazal.berlin.	14400	in	ns	ns6.kasserver.com.
 faze.berlin.	14400	in	ns	ns43.domaincontrol.com.
 faze.berlin.	14400	in	ns	ns44.domaincontrol.com.
 fazv.berlin.	14400	in	ns	docks12.rzone.de.
@@ -35655,9 +35663,6 @@ feelslikehome.berlin.	14400	in	ns	ns-de.1and1-dns.biz.
 feelslikehome.berlin.	14400	in	ns	ns-de.1and1-dns.com.
 feelslikehome.berlin.	14400	in	ns	ns-de.1and1-dns.de.
 feelslikehome.berlin.	14400	in	ns	ns-de.1and1-dns.org.
-feen.berlin.	14400	in	ns	ns.udag.de.
-feen.berlin.	14400	in	ns	ns.udag.net.
-feen.berlin.	14400	in	ns	ns.udag.org.
 feevr.berlin.	14400	in	ns	ns1.krystal.uk.
 feevr.berlin.	14400	in	ns	ns2.krystal.uk.
 feg.berlin.	14400	in	ns	ns1029.ui-dns.de.
@@ -51849,8 +51854,6 @@ ichstehauf.berlin.	14400	in	ns	ns-de.1and1-dns.biz.
 ichstehauf.berlin.	14400	in	ns	ns-de.1and1-dns.com.
 ichstehauf.berlin.	14400	in	ns	ns-de.1and1-dns.de.
 ichstehauf.berlin.	14400	in	ns	ns-de.1and1-dns.org.
-ichweiss.berlin.	14400	in	ns	ns1.expirationwarning.net.
-ichweiss.berlin.	14400	in	ns	ns5.expirationwarning.net.
 ichwohnein.berlin.	14400	in	ns	ns-de.1and1-dns.biz.
 ichwohnein.berlin.	14400	in	ns	ns-de.1and1-dns.com.
 ichwohnein.berlin.	14400	in	ns	ns-de.1and1-dns.de.
@@ -53151,6 +53154,9 @@ impfungen.berlin.	14400	in	ns	ns1016.ui-dns.biz.
 impfungen.berlin.	14400	in	ns	ns1034.ui-dns.org.
 impfungen.berlin.	14400	in	ns	ns1054.ui-dns.com.
 impfungen.berlin.	14400	in	ns	ns1054.ui-dns.de.
+impfzentrum.berlin.	14400	in	ns	ns.udag.de.
+impfzentrum.berlin.	14400	in	ns	ns.udag.net.
+impfzentrum.berlin.	14400	in	ns	ns.udag.org.
 impirio.berlin.	14400	in	ns	ch.ch-inter.net.
 impirio.berlin.	14400	in	ns	de.ch-inter.net.
 impirio.berlin.	14400	in	ns	nl.ch-inter.net.
@@ -53206,8 +53212,6 @@ implantatspezialisten.berlin.	14400	in	ns	docks02.rzone.de.
 implantatspezialisten.berlin.	14400	in	ns	shades13.rzone.de.
 implantatzentrum.berlin.	14400	in	ns	ns5.kasserver.com.
 implantatzentrum.berlin.	14400	in	ns	ns6.kasserver.com.
-implanteam.berlin.	14400	in	ns	ns5.kasserver.com.
-implanteam.berlin.	14400	in	ns	ns6.kasserver.com.
 implantologe.berlin.	14400	in	ns	docks09.rzone.de.
 implantologe.berlin.	14400	in	ns	shades19.rzone.de.
 implantologie-reinickendorf.berlin.	14400	in	ns	ns-de.1and1-dns.biz.
@@ -64510,6 +64514,8 @@ lamborghini.berlin.	14400	in	ns	ns-1246.awsdns-27.org.
 lamborghini.berlin.	14400	in	ns	ns-1826.awsdns-36.co.uk.
 lamborghini.berlin.	14400	in	ns	ns-42.awsdns-05.com.
 lamborghini.berlin.	14400	in	ns	ns-583.awsdns-08.net.
+lambrecht-stiftung.berlin.	14400	in	ns	docks06.rzone.de.
+lambrecht-stiftung.berlin.	14400	in	ns	shades10.rzone.de.
 lamellendach.berlin.	14400	in	ns	ns-de.1and1-dns.biz.
 lamellendach.berlin.	14400	in	ns	ns-de.1and1-dns.com.
 lamellendach.berlin.	14400	in	ns	ns-de.1and1-dns.de.
@@ -65165,6 +65171,10 @@ layla.berlin.	14400	in	ds	62452 8 2 7CDD5D620E891EFE35755FFC1F6993CB4D7E42F4072C
 layla.berlin.	14400	in	ns	dns15.ovh.net.
 layla.berlin.	14400	in	ns	ns15.ovh.net.
 layla.berlin.	14400	in	rrsig	DS 8 2 14400 20250916163855 20250909072511 10974 berlin. kqwcoK0pEMeZNeGSDsnOnSezgKClqeezel4G+4Q2tUc9OBZL2QtvSI0/1uEPRrLSzo32OBSRA3SauFT/SMe67KPGPnQ8e6e0bjyV9es8kox1vDzwevqB3zAJs2PfPcU+7bue/ha9pR7cPFl73sGmpxawWsy83fVraZfQ8MIvoeM=
+layline.berlin.	14400	in	ns	ns1027.ui-dns.org.
+layline.berlin.	14400	in	ns	ns1052.ui-dns.de.
+layline.berlin.	14400	in	ns	ns1105.ui-dns.com.
+layline.berlin.	14400	in	ns	ns1106.ui-dns.biz.
 layton.berlin.	14400	in	ns	docks14.rzone.de.
 layton.berlin.	14400	in	ns	shades12.rzone.de.
 lazarus-schulen.berlin.	14400	in	ns	ns1.bdm.microsoftonline.com.
@@ -77267,6 +77277,9 @@ nawrot-steuerberaterin.berlin.	14400	in	ns	ns.udag.net.
 nawrot-steuerberaterin.berlin.	14400	in	ns	ns.udag.org.
 nazareth.berlin.	14400	in	ns	docks01.rzone.de.
 nazareth.berlin.	14400	in	ns	shades08.rzone.de.
+nazifrei.berlin.	14400	in	ns	ns.inwx.de.
+nazifrei.berlin.	14400	in	ns	ns2.inwx.de.
+nazifrei.berlin.	14400	in	ns	ns3.inwx.eu.
 nba.berlin.	14400	in	ns	a1-148.akam.net.
 nba.berlin.	14400	in	ns	a12-65.akam.net.
 nba.berlin.	14400	in	ns	a16-64.akam.net.
@@ -77547,8 +77560,8 @@ nerdfleet.berlin.	14400	in	ns	ns31.domaincontrol.com.
 nerdfleet.berlin.	14400	in	ns	ns32.domaincontrol.com.
 nerdforge.berlin.	14400	in	ns	ns.checkdomain.de.
 nerdforge.berlin.	14400	in	ns	ns2.checkdomain.de.
-nerger.berlin.	14400	in	ns	docks19.rzone.de.
-nerger.berlin.	14400	in	ns	shades18.rzone.de.
+nerger.berlin.	14400	in	ns	ace.ns.cloudflare.com.
+nerger.berlin.	14400	in	ns	blakely.ns.cloudflare.com.
 nerlich.berlin.	14400	in	ns	ns.im-netz.de.
 nerlich.berlin.	14400	in	ns	ns1.im-netz.de.
 nerlich.berlin.	14400	in	ns	ns2.im-netz.de.
@@ -79937,6 +79950,8 @@ oderstrasse.berlin.	14400	in	ns	ns1063.ui-dns.com.
 oderstrasse.berlin.	14400	in	ns	ns1064.ui-dns.biz.
 oderstrasse.berlin.	14400	in	ns	ns1074.ui-dns.org.
 oderstrasse.berlin.	14400	in	ns	ns1084.ui-dns.de.
+odette.berlin.	14400	in	ns	docks13.rzone.de.
+odette.berlin.	14400	in	ns	shades18.rzone.de.
 odilo.berlin.	14400	in	ns	ns.udag.de.
 odilo.berlin.	14400	in	ns	ns.udag.net.
 odilo.berlin.	14400	in	ns	ns.udag.org.
@@ -85294,8 +85309,6 @@ play-off.berlin.	14400	in	ns	ns-de.1and1-dns.org.
 playback-theater.berlin.	14400	in	ns	ns.udag.de.
 playback-theater.berlin.	14400	in	ns	ns.udag.net.
 playback-theater.berlin.	14400	in	ns	ns.udag.org.
-playboy.berlin.	14400	in	ns	ns1.easyname.eu.
-playboy.berlin.	14400	in	ns	ns2.easyname.eu.
 players-delight.berlin.	14400	in	ns	ns5.kasserver.com.
 players-delight.berlin.	14400	in	ns	ns6.kasserver.com.
 players.berlin.	14400	in	ns	ns47.domaincontrol.com.
@@ -86065,10 +86078,6 @@ portraitphoto.berlin.	14400	in	ns	ns6.kasserver.com.
 portugalumzug.berlin.	14400	in	ns	ns.udag.de.
 portugalumzug.berlin.	14400	in	ns	ns.udag.net.
 portugalumzug.berlin.	14400	in	ns	ns.udag.org.
-portugalwein.berlin.	14400	in	ns	ns1027.ui-dns.biz.
-portugalwein.berlin.	14400	in	ns	ns1055.ui-dns.com.
-portugalwein.berlin.	14400	in	ns	ns1088.ui-dns.org.
-portugalwein.berlin.	14400	in	ns	ns1091.ui-dns.de.
 porzellanmanufaktur.berlin.	14400	in	ns	ns-132-c.gandi.net.
 porzellanmanufaktur.berlin.	14400	in	ns	ns-181-b.gandi.net.
 porzellanmanufaktur.berlin.	14400	in	ns	ns-41-a.gandi.net.
@@ -86789,10 +86798,6 @@ prf.berlin.	14400	in	ns	ns3.lanscape.de.
 prf.berlin.	14400	in	ns	ns4.lanscape.de.
 priceless.berlin.	14400	in	ns	dns1.cscdns.net.
 priceless.berlin.	14400	in	ns	dns2.cscdns.net.
-pricewaterhousecoopers.berlin.	14400	in	ns	ns-de.1and1-dns.biz.
-pricewaterhousecoopers.berlin.	14400	in	ns	ns-de.1and1-dns.com.
-pricewaterhousecoopers.berlin.	14400	in	ns	ns-de.1and1-dns.de.
-pricewaterhousecoopers.berlin.	14400	in	ns	ns-de.1and1-dns.org.
 pride.berlin.	14400	in	ns	ns.udag.de.
 pride.berlin.	14400	in	ns	ns.udag.net.
 pride.berlin.	14400	in	ns	ns.udag.org.
@@ -91719,10 +91724,6 @@ riege.berlin.	14400	in	ns	ns.checkdomain.de.
 riege.berlin.	14400	in	ns	ns2.checkdomain.de.
 rieger.berlin.	14400	in	ns	docks11.rzone.de.
 rieger.berlin.	14400	in	ns	shades07.rzone.de.
-riegert.berlin.	14400	in	ns	ns-de.1and1-dns.biz.
-riegert.berlin.	14400	in	ns	ns-de.1and1-dns.com.
-riegert.berlin.	14400	in	ns	ns-de.1and1-dns.de.
-riegert.berlin.	14400	in	ns	ns-de.1and1-dns.org.
 riehl.berlin.	14400	in	ns	ns-ed1.goneo.de.
 riehl.berlin.	14400	in	ns	ns-ed2.goneo.de.
 riek.berlin.	14400	in	ds	18999 13 2 52C2033FB083A13C683011D934C27F4B77091D9533520E25153178327407373C
@@ -93853,10 +93854,6 @@ sandwich-heaven.berlin.	14400	in	ns	ns1112.ui-dns.org.
 saner.berlin.	14400	in	ns	ns.hostpoint.ch.
 saner.berlin.	14400	in	ns	ns2.hostpoint.ch.
 saner.berlin.	14400	in	ns	ns3.hostpoint.ch.
-sanfte-sterne.berlin.	14400	in	ns	ns1075.ui-dns.org.
-sanfte-sterne.berlin.	14400	in	ns	ns1085.ui-dns.com.
-sanfte-sterne.berlin.	14400	in	ns	ns1099.ui-dns.biz.
-sanfte-sterne.berlin.	14400	in	ns	ns1111.ui-dns.de.
 sani.berlin.	14400	in	ns	ns17.bitpalast.net.
 sani.berlin.	14400	in	ns	ns29.bitpalast.net.
 sani.berlin.	14400	in	ns	ns37.bitpalast.net.
@@ -98617,10 +98614,10 @@ simmoag.berlin.	14400	in	ns	docks16.rzone.de.
 simmoag.berlin.	14400	in	ns	shades14.rzone.de.
 simon.berlin.	14400	in	ns	dns1.registrar-servers.com.
 simon.berlin.	14400	in	ns	dns2.registrar-servers.com.
-simona.berlin.	14400	in	ns	ns1045.ui-dns.biz.
-simona.berlin.	14400	in	ns	ns1045.ui-dns.com.
-simona.berlin.	14400	in	ns	ns1045.ui-dns.de.
-simona.berlin.	14400	in	ns	ns1045.ui-dns.org.
+simona.berlin.	14400	in	ns	ns1027.ui-dns.org.
+simona.berlin.	14400	in	ns	ns1052.ui-dns.de.
+simona.berlin.	14400	in	ns	ns1105.ui-dns.com.
+simona.berlin.	14400	in	ns	ns1106.ui-dns.biz.
 simondruck.berlin.	14400	in	ns	ns.udag.de.
 simondruck.berlin.	14400	in	ns	ns.udag.net.
 simondruck.berlin.	14400	in	ns	ns.udag.org.
@@ -98790,10 +98787,6 @@ sirlunchalot.berlin.	14400	in	ns	ns12.wixdns.net.
 sirlunchalot.berlin.	14400	in	ns	ns13.wixdns.net.
 sis.berlin.	14400	in	ns	docks01.rzone.de.
 sis.berlin.	14400	in	ns	shades01.rzone.de.
-sishop.berlin.	14400	in	ns	ns1020.ui-dns.biz.
-sishop.berlin.	14400	in	ns	ns1079.ui-dns.de.
-sishop.berlin.	14400	in	ns	ns1081.ui-dns.com.
-sishop.berlin.	14400	in	ns	ns1110.ui-dns.org.
 sisipop.berlin.	14400	in	ns	ns1.nimitta.net.
 sisipop.berlin.	14400	in	ns	ns2.nimitta.net.
 sissi.berlin.	14400	in	ns	ns1028.ui-dns.com.
@@ -110711,8 +110704,8 @@ trompeter.berlin.	14400	in	ns	ns-de.1and1-dns.biz.
 trompeter.berlin.	14400	in	ns	ns-de.1and1-dns.com.
 trompeter.berlin.	14400	in	ns	ns-de.1and1-dns.de.
 trompeter.berlin.	14400	in	ns	ns-de.1and1-dns.org.
-tromy-entruempelung.berlin.	14400	in	ns	addilyn.ns.cloudflare.com.
-tromy-entruempelung.berlin.	14400	in	ns	derek.ns.cloudflare.com.
+tromy-entruempelung.berlin.	14400	in	ns	denver.ns.cloudflare.com.
+tromy-entruempelung.berlin.	14400	in	ns	isabel.ns.cloudflare.com.
 tromy.berlin.	14400	in	ns	ns1041.ui-dns.org.
 tromy.berlin.	14400	in	ns	ns1065.ui-dns.de.
 tromy.berlin.	14400	in	ns	ns1072.ui-dns.com.
@@ -111405,8 +111398,6 @@ ucka.berlin.	14400	in	ns	ns1040.ui-dns.org.
 ucka.berlin.	14400	in	ns	ns1045.ui-dns.biz.
 ucka.berlin.	14400	in	ns	ns1091.ui-dns.com.
 ucka.berlin.	14400	in	ns	ns1091.ui-dns.de.
-uckermark.berlin.	14400	in	ns	docks06.rzone.de.
-uckermark.berlin.	14400	in	ns	shades11.rzone.de.
 uco.berlin.	14400	in	ns	ns.udag.de.
 uco.berlin.	14400	in	ns	ns.udag.net.
 uco.berlin.	14400	in	ns	ns.udag.org.
@@ -115234,9 +115225,6 @@ von-wiecken.berlin.	14400	in	ns	ns-de.1and1-dns.biz.
 von-wiecken.berlin.	14400	in	ns	ns-de.1and1-dns.com.
 von-wiecken.berlin.	14400	in	ns	ns-de.1and1-dns.de.
 von-wiecken.berlin.	14400	in	ns	ns-de.1and1-dns.org.
-vonarnim.berlin.	14400	in	ns	ns1.first-ns.de.
-vonarnim.berlin.	14400	in	ns	robotns2.second-ns.de.
-vonarnim.berlin.	14400	in	ns	robotns3.second-ns.com.
 vonborstel.berlin.	14400	in	ns	docks02.rzone.de.
 vonborstel.berlin.	14400	in	ns	shades15.rzone.de.
 vonderehe.berlin.	14400	in	ns	docks15.rzone.de.
@@ -116435,6 +116423,8 @@ wazy.berlin.	14400	in	ns	ns5.kasserver.com.
 wazy.berlin.	14400	in	ns	ns6.kasserver.com.
 wbb.berlin.	14400	in	ns	chemnitz.nic.xlink.net.
 wbb.berlin.	14400	in	ns	ulm.nic.xlink.net.
+wbi.berlin.	14400	in	ns	docks18.rzone.de.
+wbi.berlin.	14400	in	ns	shades02.rzone.de.
 wbkn.berlin.	14400	in	ns	docks01.rzone.de.
 wbkn.berlin.	14400	in	ns	shades04.rzone.de.
 wbm.berlin.	14400	in	ns	ns.second-ns.com.
@@ -116774,9 +116764,11 @@ webstatt.berlin.	14400	in	ns	ns1-eu.123ns.eu.
 webstatt.berlin.	14400	in	ns	ns2-eu.123ns.de.
 webstatt.berlin.	14400	in	ns	ns3-eu.123ns.eu.
 webstatt.berlin.	14400	in	ns	ns4-eu.123ns.de.
-webundmarketing.berlin.	14400	in	ns	ns1.stackdns.com.
-webundmarketing.berlin.	14400	in	ns	ns2.stackdns.com.
-webundmarketing.berlin.	14400	in	ns	ns3.stackdns.com.
+webundmarketing.berlin.	14400	in	ns	dns1.name-services.com.
+webundmarketing.berlin.	14400	in	ns	dns2.name-services.com.
+webundmarketing.berlin.	14400	in	ns	dns3.name-services.com.
+webundmarketing.berlin.	14400	in	ns	dns4.name-services.com.
+webundmarketing.berlin.	14400	in	ns	dns5.name-services.com.
 webvisitenkarte.berlin.	14400	in	ns	dns-b1.cronon.de.
 webvisitenkarte.berlin.	14400	in	ns	dns-b2.cronon.de.
 webvisitenkarte.berlin.	14400	in	ns	dns-hh1.cronon.de.
@@ -120821,6 +120813,9 @@ xn--fachanwlte-sozialrecht-64b.berlin.	14400	in	ns	ns1.serverpool.net.
 xn--fachanwlte-sozialrecht-64b.berlin.	14400	in	ns	ns2.serverpool.net.
 xn--fachanwlte-strafrecht-c2b.berlin.	14400	in	ns	ns21.domaincontrol.com.
 xn--fachanwlte-strafrecht-c2b.berlin.	14400	in	ns	ns22.domaincontrol.com.
+xn--fachkrfteimfokus-0nb.berlin.	14400	in	ns	ns01.agenturserver.co.
+xn--fachkrfteimfokus-0nb.berlin.	14400	in	ns	ns01.agenturserver.de.
+xn--fachkrfteimfokus-0nb.berlin.	14400	in	ns	ns01.agenturserver.it.
 xn--fachzahnarzt-fr-kieferorthopdie-iwc19e.berlin.	14400	in	ns	ns1.kcs-netz.de.
 xn--fachzahnarzt-fr-kieferorthopdie-iwc19e.berlin.	14400	in	ns	ns2.kcs-netz.de.
 xn--fahrlssig-z2a.berlin.	14400	in	ns	ns1016.ui-dns.de.
@@ -125296,4 +125291,4 @@ zzz-20140219-ga-batch.berlin.	14400	in	ns	d.ns14.net.
 zzz.berlin.	14400	in	ns	ns.udag.de.
 zzz.berlin.	14400	in	ns	ns.udag.net.
 zzz.berlin.	14400	in	ns	ns.udag.org.
-berlin.	3600	in	soa	z.dns.nic.berlin. hostmaster.tld-box.at. 1757552705 10800 3600 604800 3600
+berlin.	3600	in	soa	z.dns.nic.berlin. hostmaster.tld-box.at. 1757639105 10800 3600 604800 3600
