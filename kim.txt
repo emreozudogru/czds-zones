@@ -1,4 +1,4 @@
-kim.	3600	in	soa	a0.nic.kim. hostmaster.donuts.email. 1757552722 7200 900 1209600 3600
+kim.	3600	in	soa	a0.nic.kim. hostmaster.donuts.email. 1757638926 7200 900 1209600 3600
 00-4.kim.	3600	in	ns	ns1.dyna-ns.net.
 00-4.kim.	3600	in	ns	ns2.dyna-ns.net.
 000.kim.	3600	in	ns	ns1.whoisdomain.kr.
@@ -39,8 +39,8 @@ kim.	3600	in	soa	a0.nic.kim. hostmaster.donuts.email. 1757552722 7200 900 120960
 024.kim.	3600	in	ns	dns28.hichina.com.
 029.kim.	3600	in	ns	f1g1ns1.dnspod.net.
 029.kim.	3600	in	ns	f1g1ns2.dnspod.net.
-02llodsczzdf5.kim.	3600	in	ns	chelsea.ns.cloudflare.com.
-02llodsczzdf5.kim.	3600	in	ns	piotr.ns.cloudflare.com.
+02llodsczzdf5.kim.	3600	in	ns	ns1.dyna-ns.net.
+02llodsczzdf5.kim.	3600	in	ns	ns2.dyna-ns.net.
 03556.kim.	3600	in	ns	ns1.dnsip.com.
 03556.kim.	3600	in	ns	ns2.dnsip.com.
 03756.kim.	3600	in	ns	ns7.alidns.com.
@@ -554,12 +554,14 @@ kim.	3600	in	soa	a0.nic.kim. hostmaster.donuts.email. 1757552722 7200 900 120960
 2kim.kim.	3600	in	ns	dns14.hichina.com.
 2lb9ugi096507rkpc1ahq5ka354fbve2.kim.	3600	in	nsec3	1 1 0 73 2MT3INFOA4C7MHMTFU74IRMGDL9PNRT7 NS DS RRSIG
 2lb9ugi096507rkpc1ahq5ka354fbve2.kim.	3600	in	rrsig	NSEC3 8 2 3600 20250930152859 20250909142859 64416 kim. Yjyh61k8GvPSEzhhv68D3xqSPNpW3OpadHWqvx1PlwK3701gmbEIG0s+zORU0YmMCCDP4bhY/cOtYz1psJf4G0R7AE0qij+Kzbt53hAElEjfnUkMYFm7QTKX9++Na4HnkIexGNEl5+ltf5S8D0PjTyUvvujs105QlMyISV9q0mI=
-2mt3infoa4c7mhmtfu74irmgdl9pnrt7.kim.	3600	in	nsec3	1 1 0 73 2RM522D5F3VECE9PPN9UP1VUUBET0TCF NS DS RRSIG
-2mt3infoa4c7mhmtfu74irmgdl9pnrt7.kim.	3600	in	rrsig	NSEC3 8 2 3600 20250930152859 20250909142859 64416 kim. X7I/yRp4YBrbkbBDBB5T9nA4n6eO9Es/mBAmB/JIgZHRL21D9xsr+cUpH39CYoLEh5zVEvWO0n/3TAXqOIIoQV5VjzIQzk6haINsvMOTSCvL0o/ArPDmVde4x9s+2+cEVWTKDGpPN62ik1n5WEwRbSS787LpeMPFhH+S9NX9LuQ=
+2mt3infoa4c7mhmtfu74irmgdl9pnrt7.kim.	3600	in	nsec3	1 1 0 73 2PFLSDI7RBD01M8S74MVRC6633D485OT NS DS RRSIG
+2mt3infoa4c7mhmtfu74irmgdl9pnrt7.kim.	3600	in	rrsig	NSEC3 8 2 3600 20251002225730 20250911215730 64416 kim. WHh8LqZmKv1Fypm8nqy0jJj29sD8Ft83AvU0rvZPf8auL5j56irS/D6ZUrsYA/TcB3tNupc4iPROtUDZh/HS1V85tWAuAP3AaXm3hfVyA1JNl/lN6Cvq6DItPw42QaHbE7X0y9u6ANdKPQkfEJgeaYHAdqX06kl7wEjUsXjnGao=
 2nd.kim.	3600	in	ns	dns3.hichina.com.
 2nd.kim.	3600	in	ns	dns4.hichina.com.
 2nvuti.kim.	3600	in	ns	dns1.registrar-servers.com.
 2nvuti.kim.	3600	in	ns	dns2.registrar-servers.com.
+2pflsdi7rbd01m8s74mvrc6633d485ot.kim.	3600	in	nsec3	1 1 0 73 2RM522D5F3VECE9PPN9UP1VUUBET0TCF NS DS RRSIG
+2pflsdi7rbd01m8s74mvrc6633d485ot.kim.	3600	in	rrsig	NSEC3 8 2 3600 20251002225730 20250911215730 64416 kim. JDiK5EWosTkyE7/XB6kvSUsc1MNBNwgC+sDXXMDf6kRiI+SHj9GXDc8+GXe1ZqJ59HCU4KvsAum2FHwNdWdZzdLJdy3slYELoKyWRu/WwYJRgriObePSKBJlm1jpvL2C5/RUZKYbUGxqHmE9FM0oiCqHU971UPytnWQs8wy7nrA=
 2rm522d5f3vece9ppn9up1vuubet0tcf.kim.	3600	in	nsec3	1 1 0 73 2TVFLJASINH0114RU440M2ASFJ9KV3UG NS DS RRSIG
 2rm522d5f3vece9ppn9up1vuubet0tcf.kim.	3600	in	rrsig	NSEC3 8 2 3600 20250930152859 20250909142859 64416 kim. rB/rMymxgJp64QA2K6wNprgqmX1zxpwmhiMkymodD6JXE7/7p4L7uJrgtCalIIvKJhuebKd4TkFxMF15XNmtAME4iHXjFp+0A9j3sl47TNzEZrxYGSaccmL8ocuC/9IHO/jRp0/1ydVBfTv2eAxrMB7xQDhd99BemyLxBzgaiEY=
 2sanf.kim.	3600	in	ns	nancy.ns.cloudflare.com.
@@ -622,8 +624,8 @@ kim.	3600	in	soa	a0.nic.kim. hostmaster.donuts.email. 1757552722 7200 900 120960
 33bet.kim.	3600	in	ns	margot.ns.cloudflare.com.
 33win.kim.	3600	in	ns	princess.ns.cloudflare.com.
 33win.kim.	3600	in	ns	rick.ns.cloudflare.com.
-33win01.kim.	3600	in	ns	dns1.registrar-servers.com.
-33win01.kim.	3600	in	ns	dns2.registrar-servers.com.
+33win01.kim.	3600	in	ns	jarred.ns.cloudflare.com.
+33win01.kim.	3600	in	ns	raphaela.ns.cloudflare.com.
 34297.kim.	3600	in	ns	a.dnspod.com.
 34297.kim.	3600	in	ns	b.dnspod.com.
 34297.kim.	3600	in	ns	c.dnspod.com.
@@ -1874,10 +1876,8 @@ kim.	3600	in	soa	a0.nic.kim. hostmaster.donuts.email. 1757552722 7200 900 120960
 9kj7jm615g5iuh2c7fe5jfictm9embgh.kim.	3600	in	rrsig	NSEC3 8 2 3600 20250930152859 20250909142859 64416 kim. sWVZyFq7QNWuXkbp0LErwhNhaW/xDzQm2zJUJXK3buuEMR0QuENYrGrYEI4GH/PJNiLNfpf7/JvvtnSaU10fZWE8DpFtv1fvYrp8921R7TyUmoyXGuy8UQTx/MrixL42FeHsLZAY3hUJIRVhmEvRdIk8LYsNOQv0YUtdGHKCCtw=
 9nowa2.kim.	3600	in	ns	failed-whois-verification.namecheap.com.
 9nowa2.kim.	3600	in	ns	verify-contact-details.namecheap.com.
-9phosbudbk3anrki8k102ra0sflrd4do.kim.	3600	in	nsec3	1 1 0 73 9TECJU33HHMON7G0CHQGD1G9PM3PAMQ5 NS DS RRSIG
-9phosbudbk3anrki8k102ra0sflrd4do.kim.	3600	in	rrsig	NSEC3 8 2 3600 20251002010736 20250911000736 64416 kim. HXZ3GtugaC6vJ3DdOJomrINPb2Nn7h9phqcbydSVw01dQMPo7BtzW3y182afiJTh0MV4nGA3eVUX3ILit6JR8YgBz+fxbvIWnMqt+33pDuXv/5LRC2+ATmMjkF8kFc4CnqM4EqgKrLLdfeJrSnNp7uS7qj3bq7wYv8P5/LglUDc=
-9tecju33hhmon7g0chqgd1g9pm3pamq5.kim.	3600	in	nsec3	1 1 0 73 9TR9UG8QJGCJS39AFNUJEMF6U6I68TIO NS DS RRSIG
-9tecju33hhmon7g0chqgd1g9pm3pamq5.kim.	3600	in	rrsig	NSEC3 8 2 3600 20251002010736 20250911000736 64416 kim. N6T/Uf3qA7FWq+2JrRef5QF+zViVm0bvh7WCMToF978tL3G4ELBxmS9pM3yPsHJFOpTk9VUZIFTAauXQPfRbTMaT37Bu7SIS7SX0+3hsVu4sw7yjYAJhK7wnoZJCzqZm289yBT33Dzdb3fc9F8/oII4B6ncyEyzNGhFNkDGxSHU=
+9phosbudbk3anrki8k102ra0sflrd4do.kim.	3600	in	nsec3	1 1 0 73 9TR9UG8QJGCJS39AFNUJEMF6U6I68TIO NS DS RRSIG
+9phosbudbk3anrki8k102ra0sflrd4do.kim.	3600	in	rrsig	NSEC3 8 2 3600 20251002144047 20250911134047 64416 kim. BELvIfm05VDXapbejTzXWMOwewSsmlC0ZAsVO3XIsAmJSQkLl8+lMJ7rWiGm7YfuVVOprRLM/WYEGND+fs5IKS9AdrVJvAYFk5SrXIXNq4+NRph3LXVZxHOtI5gOzdjrLZwYjmAdlU/OXmQz+lGIzQ5L227GGAKQGmHFXM08H8Y=
 9tr9ug8qjgcjs39afnujemf6u6i68tio.kim.	3600	in	nsec3	1 1 0 73 A1FMM221R9ACPAGR6TKRLKSLNGTKEVCV NS DS RRSIG
 9tr9ug8qjgcjs39afnujemf6u6i68tio.kim.	3600	in	rrsig	NSEC3 8 2 3600 20250930152859 20250909142859 64416 kim. Yz2haJZlqCVPq9tRvpNPCrmOUyavb2g4QzT20CUHIq4sgEKvN/GjKbFhJgGC4OVbK4B5Wn9QE+UtPMSl+YMkLJgXZrCmY/+XQnZO1ZN2vA/6qO/oQWXILgjHEgUx+rlRn6zYYMpd6k19KVh2TZq1fQkl+MYqqTG1EtbZMOAwELk=
 a-a.kim.	3600	in	ns	seversk.ens.mail.ru.
@@ -1894,7 +1894,7 @@ a0.nic.kim.	3600	in	aaaa	2a01:8840:001e:0000:0000:0000:0000:0001
 a123.kim.	3600	in	ns	earl.ns.cloudflare.com.
 a123.kim.	3600	in	ns	melissa.ns.cloudflare.com.
 a1fmm221r9acpagr6tkrlkslngtkevcv.kim.	3600	in	nsec3	1 1 0 73 A4KVL1474JQ5B1AIBIE2QQE4GDMPVU60 NS SOA RRSIG DNSKEY NSEC3PARAM
-a1fmm221r9acpagr6tkrlkslngtkevcv.kim.	3600	in	rrsig	NSEC3 8 2 3600 20251002010736 20250911000736 64416 kim. dIJBjAc9HBH6w5BoOspD9WL2pZ8n8cYNvg7o6ShXOhb50FDuz5JiDg3VVFEIO/6mmCKQmAzJIN/3B2ZETvu9myPlH3JuJdpNMys+YdfIzduD4ZKu9vsSBOWwmnaku3qsBFTJ1xVL5h0jUQWMqkBABVGsSjpNf7rjGSM8AXGqyJQ=
+a1fmm221r9acpagr6tkrlkslngtkevcv.kim.	3600	in	rrsig	NSEC3 8 2 3600 20251003010411 20250912000411 64416 kim. NGz3TztHSqGnBlNustbJYc7A2HOYXKiIFTbZ7tfgKZQlmpVVB/bd2DlU/5ITW0sHZasUBxlqu2E0Z/jWS/Ps9EulG/3gaRlGtaNj/Xc9fykywVvVjvFyPItc3Z4xCdKmFws3XbkYHJTUoKArCO+kR+TRmmZ8XAUO/rd76goYE2k=
 a2.nic.kim.	3600	in	a	65.22.31.1
 a2.nic.kim.	3600	in	aaaa	2a01:8840:0021:0000:0000:0000:0000:0001
 a4kvl1474jq5b1aibie2qqe4gdmpvu60.kim.	3600	in	nsec3	1 1 0 73 A68T37M9CGK46HSSVPVJA61I5CJ8403S NS DS RRSIG
@@ -2101,8 +2101,8 @@ agenticai.kim.	3600	in	ds	13863 13 2 EB101497D7993BB99CAF1DC43E43C8D507688A7FAA0
 agenticai.kim.	3600	in	ns	launch1.spaceship.net.
 agenticai.kim.	3600	in	ns	launch2.spaceship.net.
 agenticai.kim.	3600	in	rrsig	DS 8 2 3600 20250930152859 20250909142859 64416 kim. a00F0rl3+GT9eDjf6h4FZy4uA8Np8uj2ovwkLwzmrbfIzpsDmih2dCfXUM7m/73IqtIJit4Ee9Z8EwuOFqFu0tthy6h3Cx8PetLQnwvzJpnX03GI1XOrshOcMNOezuGugfuGqqDOUkkIUZjTZ5Ms7exEXW3SXatytlLQEH732S0=
-agentoto88.kim.	3600	in	ns	ns1.bodis.com.
-agentoto88.kim.	3600	in	ns	ns2.bodis.com.
+agentoto88.kim.	3600	in	ns	ns1.dns-redirect.com.
+agentoto88.kim.	3600	in	ns	ns2.dns-redirect.com.
 agents.kim.	3600	in	ns	ns1.atom.com.
 agents.kim.	3600	in	ns	ns2.atom.com.
 aggie.kim.	3600	in	ns	ns1.uniregistrymarket.link.
@@ -3643,10 +3643,8 @@ bokhee.kim.	3600	in	ns	ns1.hostingorilla.com.
 bokhee.kim.	3600	in	ns	ns2.hostingorilla.com.
 boki.kim.	3600	in	ns	ns2.wixdns.net.
 boki.kim.	3600	in	ns	ns3.wixdns.net.
-bol.kim.	3600	in	ds	3717 13 2 5C98CA2E6BB9C3C3E23C5840C7C4578F55DB31BDDD5A085360F063A5CA59F5AC
-bol.kim.	3600	in	ns	ns01.one.com.
-bol.kim.	3600	in	ns	ns02.one.com.
-bol.kim.	3600	in	rrsig	DS 8 2 3600 20251002010736 20250911000736 64416 kim. il8IybUJYby9YXfPmy48G24/DWyYFRXczk1aVZL1LxpM4aDkCQi813w0BoiwqfipuxqvH3cYGo1OymAAMBnoU8zJdpU04JDWfbCamfI+QyhgVqpokXKR46PfKc2dbFpRZZtnGBP5bgQiLHJ/xPK91oqTmTqLb8Gr2HpkT963L0w=
+bol.kim.	3600	in	ns	andy.ns.cloudflare.com.
+bol.kim.	3600	in	ns	oaklyn.ns.cloudflare.com.
 bolamantap88.kim.	3600	in	ns	dns101.registrar-servers.com.
 bolamantap88.kim.	3600	in	ns	dns102.registrar-servers.com.
 boland.kim.	3600	in	ns	amir.ns.cloudflare.com.
@@ -3837,8 +3835,8 @@ brian.kim.	3600	in	ns	ns39.domaincontrol.com.
 brian.kim.	3600	in	ns	ns40.domaincontrol.com.
 briana.kim.	3600	in	ns	emily.ns.cloudflare.com.
 briana.kim.	3600	in	ns	terin.ns.cloudflare.com.
-brics.kim.	3600	in	ns	ns1.bodis.com.
-brics.kim.	3600	in	ns	ns2.bodis.com.
+brics.kim.	3600	in	ns	ns1.dns-redirect.com.
+brics.kim.	3600	in	ns	ns2.dns-redirect.com.
 bridge.kim.	3600	in	ns	ns1.xserver.jp.
 bridge.kim.	3600	in	ns	ns2.xserver.jp.
 bridge.kim.	3600	in	ns	ns3.xserver.jp.
@@ -6412,6 +6410,10 @@ eetimes.kim.	3600	in	ns	pdns77.ultradns.biz.
 eetimes.kim.	3600	in	ns	pdns77.ultradns.com.
 eetimes.kim.	3600	in	ns	pdns77.ultradns.net.
 eetimes.kim.	3600	in	ns	pdns77.ultradns.org.
+eex.kim.	3600	in	ds	6478 13 2 0D8B59E616CF4AF1595C0FB97F2F941DCF86E51510D53AEB801436F72BB75626
+eex.kim.	3600	in	ns	launch1.spaceship.net.
+eex.kim.	3600	in	ns	launch2.spaceship.net.
+eex.kim.	3600	in	rrsig	DS 8 2 3600 20251002225730 20250911215730 64416 kim. LDAlYe2un0AyeoOGISo3I0EDA9F2vczcMm0sZ6ynlbcKxiGaJP8dr0zXz3Up9tE6stax/QzIShpD5xMrHPhkQ3ziAm/utEgvrKgoOIH+VoXYiGjzMQKuTFMXVk6gRQfFmmBtKlD57Cz84YdT0MYD2EpshLc61Te1wpIL7qYRXQA=
 ef101.kim.	3600	in	ns	kay.ns.cloudflare.com.
 ef101.kim.	3600	in	ns	matt.ns.cloudflare.com.
 efe.kim.	3600	in	ns	eu.dnsenable.com.
@@ -6516,8 +6518,8 @@ elinor.kim.	3600	in	ns	ns1.iwantmyname.net.
 elinor.kim.	3600	in	ns	ns2.iwantmyname.net.
 elinor.kim.	3600	in	ns	ns3.iwantmyname.net.
 elinor.kim.	3600	in	ns	ns4.iwantmyname.net.
-elite.kim.	3600	in	ns	ns1.bodis.com.
-elite.kim.	3600	in	ns	ns2.bodis.com.
+elite.kim.	3600	in	ns	ns1.dns-redirect.com.
+elite.kim.	3600	in	ns	ns2.dns-redirect.com.
 elizabeth.kim.	3600	in	ns	ns1.vigbo.site.
 elizabeth.kim.	3600	in	ns	ns2.vigbo.site.
 elizaveta.kim.	3600	in	ns	ns1.fozzy.com.
@@ -6870,8 +6872,6 @@ expressvpn.kim.	3600	in	ns	ns03.trademarkarea.com.
 exprid1.isimtescil.kim.	3600	in	a	93.89.226.31
 exprid2.isimtescil.kim.	3600	in	a	37.123.102.58
 exprid3.isimtescil.kim.	3600	in	a	37.123.102.57
-eyelashes.kim.	3600	in	ns	ns47.domaincontrol.com.
-eyelashes.kim.	3600	in	ns	ns48.domaincontrol.com.
 ezcash.kim.	3600	in	ns	brynne.ns.cloudflare.com.
 ezcash.kim.	3600	in	ns	keenan.ns.cloudflare.com.
 ezoist.kim.	3600	in	ns	dns01.muumuu-domain.com.
@@ -7369,8 +7369,8 @@ fragt.kim.	3600	in	ns	ns.udag.net.
 fragt.kim.	3600	in	ns	ns.udag.org.
 frances.kim.	3600	in	ns	dns1.registrar-servers.com.
 frances.kim.	3600	in	ns	dns2.registrar-servers.com.
-francis.kim.	3600	in	ns	ns1.bodis.com.
-francis.kim.	3600	in	ns	ns2.bodis.com.
+francis.kim.	3600	in	ns	ns1.dns-redirect.com.
+francis.kim.	3600	in	ns	ns2.dns-redirect.com.
 franken.kim.	3600	in	ns	ns.inwx.de.
 franken.kim.	3600	in	ns	ns2.inwx.de.
 franken.kim.	3600	in	ns	ns3.inwx.eu.
@@ -7968,6 +7968,9 @@ grouptravel.kim.	3600	in	ns	hgns1.hostgator.com.
 grouptravel.kim.	3600	in	ns	hgns2.hostgator.com.
 groves.kim.	3600	in	ns	dns1.namecheaphosting.com.
 groves.kim.	3600	in	ns	dns2.namecheaphosting.com.
+growerz.kim.	3600	in	ns	ns1.dnsowl.com.
+growerz.kim.	3600	in	ns	ns2.dnsowl.com.
+growerz.kim.	3600	in	ns	ns3.dnsowl.com.
 growth.kim.	3600	in	ns	ns1.dns-redirect.com.
 growth.kim.	3600	in	ns	ns2.dns-redirect.com.
 grubbe.kim.	3600	in	ds	32602 13 2 5004DB4B7F3FE4C9DEBFD2BA3016D7D67556FB32F82D570EB90B537856025AE8
@@ -8131,8 +8134,6 @@ haiyen.kim.	3600	in	ns	ns1.dns-parking.com.
 haiyen.kim.	3600	in	ns	ns2.dns-parking.com.
 haj.kim.	3600	in	ns	ns1.vigbo.site.
 haj.kim.	3600	in	ns	ns2.vigbo.site.
-hajar4d.kim.	3600	in	ns	dns101.registrar-servers.com.
-hajar4d.kim.	3600	in	ns	dns102.registrar-servers.com.
 hajin.kim.	3600	in	ns	ns1.101domain.com.
 hajin.kim.	3600	in	ns	ns2.101domain.com.
 hakan.kim.	3600	in	ns	ns25.hostlab.net.tr.
@@ -8751,10 +8752,12 @@ hoojun.kim.	3600	in	ns	ns17.domaincontrol.com.
 hoojun.kim.	3600	in	ns	ns18.domaincontrol.com.
 hoolu.kim.	3600	in	ns	expirens3.hichina.com.
 hoolu.kim.	3600	in	ns	expirens4.hichina.com.
-hoon.kim.	3600	in	ds	40725 13 1 08217EE454D6D087D9ED3C6411DE616B4990651F
-hoon.kim.	3600	in	ns	dns1.registrar-servers.com.
-hoon.kim.	3600	in	ns	dns2.registrar-servers.com.
-hoon.kim.	3600	in	rrsig	DS 8 2 3600 20250930152859 20250909142859 64416 kim. P0DU0k2irN2G0a8VFBp78BmT3QvT4sHpQGFfRzGmmtvt3ZSRezLhRoL0nyC2w3VsFVCq+kDcaVaG6DhS6U/D+NK8hjcXcV8VzRZ9XRMb8xL3aAACrHzToc16i8MeYBZg4nZNuA3djawI9N3domgYMOyXH0m7S+gFAW2Clsd7IPo=
+hoon.kim.	3600	in	ds	2371 13 2 6B5A8638C9A7D19C410B60FE4EEA102816E23BD36558EB50352D06C397A2A65A
+hoon.kim.	3600	in	ns	curitiba.ns.porkbun.com.
+hoon.kim.	3600	in	ns	fortaleza.ns.porkbun.com.
+hoon.kim.	3600	in	ns	maceio.ns.porkbun.com.
+hoon.kim.	3600	in	ns	salvador.ns.porkbun.com.
+hoon.kim.	3600	in	rrsig	DS 8 2 3600 20251002130538 20250911120538 64416 kim. d8cfn0CqYaOnHDSgzVCVH6EvmlyUcD1p4n6le+CcY7EmNOK4hILSpQIi7qLROnQJlpFjbyn1Zs6DAi++lpPPpFYzZbs5Er9GR9Dve55UW9y8rH1T5ahbBRlXWhfrUh1p1KUvLNnKtyHgd9cSSSBKvoxXeoC3sRr38Xo/pTwgddo=
 hoox.kim.	3600	in	ns	ns1.natrohost.com.
 hoox.kim.	3600	in	ns	ns2.natrohost.com.
 hop.kim.	3600	in	ns	ns-129-c.gandi.net.
@@ -8788,8 +8791,8 @@ hosting.kim.	3600	in	ns	andy.ns.cloudflare.com.
 hosting.kim.	3600	in	ns	vera.ns.cloudflare.com.
 hosung.kim.	3600	in	ns	dns1.registrar-servers.com.
 hosung.kim.	3600	in	ns	dns2.registrar-servers.com.
-hot.kim.	3600	in	ns	dns3.hichina.com.
-hot.kim.	3600	in	ns	dns4.hichina.com.
+hot.kim.	3600	in	ns	expirens3.hichina.com.
+hot.kim.	3600	in	ns	expirens4.hichina.com.
 hot51.kim.	3600	in	ns	ns1.dns-parking.com.
 hot51.kim.	3600	in	ns	ns2.dns-parking.com.
 hotcoin.kim.	3600	in	ns	ns7.alidns.com.
@@ -9136,8 +9139,8 @@ icann.kim.	3600	in	ns	a.icann-servers.net.
 icann.kim.	3600	in	ns	b.icann-servers.net.
 icann.kim.	3600	in	ns	c.icann-servers.net.
 icann.kim.	3600	in	ns	ns.icann.org.
-ice.kim.	3600	in	ns	ns67.domaincontrol.com.
-ice.kim.	3600	in	ns	ns68.domaincontrol.com.
+ice.kim.	3600	in	ns	ns1.afternic.com.
+ice.kim.	3600	in	ns	ns2.afternic.com.
 icloud.kim.	3600	in	ns	dns7.hichina.com.
 icloud.kim.	3600	in	ns	dns8.hichina.com.
 icode.kim.	3600	in	ns	dns3.hichina.com.
@@ -9486,8 +9489,8 @@ ipip.kim.	3600	in	ns	dns1.hichina.com.
 ipip.kim.	3600	in	ns	dns2.hichina.com.
 iplan.kim.	3600	in	ns	dns19.hichina.com.
 iplan.kim.	3600	in	ns	dns20.hichina.com.
-ipollo.kim.	3600	in	ns	ns1.bodis.com.
-ipollo.kim.	3600	in	ns	ns2.bodis.com.
+ipollo.kim.	3600	in	ns	ns1.dns-redirect.com.
+ipollo.kim.	3600	in	ns	ns2.dns-redirect.com.
 ipr.kim.	3600	in	ns	dns3.hichina.com.
 ipr.kim.	3600	in	ns	dns4.hichina.com.
 iprhxkjuwafw.kim.	3600	in	ns	albert.ns.cloudflare.com.
@@ -10386,8 +10389,8 @@ johann.kim.	3600	in	ns	ns03.squarespacedns.com.
 johann.kim.	3600	in	ns	ns04.squarespacedns.com.
 johanna.kim.	3600	in	ns	dns1.registrar-servers.com.
 johanna.kim.	3600	in	ns	dns2.registrar-servers.com.
-johannes.kim.	3600	in	ns	ns1.bodis.com.
-johannes.kim.	3600	in	ns	ns2.bodis.com.
+johannes.kim.	3600	in	ns	ns1.dns-redirect.com.
+johannes.kim.	3600	in	ns	ns2.dns-redirect.com.
 johannhs.kim.	3600	in	ns	ns1072.ui-dns.com.
 johannhs.kim.	3600	in	ns	ns1077.ui-dns.org.
 johannhs.kim.	3600	in	ns	ns1108.ui-dns.biz.
@@ -11080,8 +11083,8 @@ justlistedby.kim.	3600	in	ns	ns17.domaincontrol.com.
 justlistedby.kim.	3600	in	ns	ns18.domaincontrol.com.
 justsoldby.kim.	3600	in	ns	ns57.domaincontrol.com.
 justsoldby.kim.	3600	in	ns	ns58.domaincontrol.com.
-juststream.kim.	3600	in	ns	ns1.bodis.com.
-juststream.kim.	3600	in	ns	ns2.bodis.com.
+juststream.kim.	3600	in	ns	ns1.dns-redirect.com.
+juststream.kim.	3600	in	ns	ns2.dns-redirect.com.
 jut-su.kim.	3600	in	ns	itzel.ns.cloudflare.com.
 jut-su.kim.	3600	in	ns	roman.ns.cloudflare.com.
 jutsu.kim.	3600	in	ns	itzel.ns.cloudflare.com.
@@ -11100,8 +11103,8 @@ jwo.kim.	3600	in	ds	18477 13 2 A8277206E74EAE678708CFD72C4197F316580584D04314A51
 jwo.kim.	3600	in	ns	launch1.spaceship.net.
 jwo.kim.	3600	in	ns	launch2.spaceship.net.
 jwo.kim.	3600	in	rrsig	DS 8 2 3600 20250930152859 20250909142859 64416 kim. d7z+Zrh1/h6jeNodNemakGlWz1tQW9KkGmI7Tt2I7hcm+/dyKmOOkUI+d94B4OWpBI5iT/3mN8jdq0NimYWvwkTvH9d6FfPxJ3aI/O4mlm2g5YWyGjnWs7qA7E3B4BrNeaYAfIRtP39syYi+gGkL4gqILPKHecN9ClsdFG0EjQI=
-jwt.kim.	3600	in	ns	ns1.bodis.com.
-jwt.kim.	3600	in	ns	ns2.bodis.com.
+jwt.kim.	3600	in	ns	ns1.dns-redirect.com.
+jwt.kim.	3600	in	ns	ns2.dns-redirect.com.
 jxh.kim.	3600	in	ns	aragorn.ns.cloudflare.com.
 jxh.kim.	3600	in	ns	arya.ns.cloudflare.com.
 jxjx.kim.	3600	in	ns	ns1.dnsowl.com.
@@ -11626,7 +11629,7 @@ kim.	3600	in	nsec3param	1 0 0 73
 kim.	3600	in	rrsig	DNSKEY 8 1 3600 20250930152859 20250909142859 12277 kim. JL2x5ClFcLuMuyoJ00UJV/ynjTmNiiPDvfQjCeLySLCJSP3EzgPWYk86RRO4X/6gr4odKJKWLOUkHudCB/KhnJK2IoWfNJojsOJ5Ww0w4N+XhLnHPzP8rlLixoV49j6yjaSqzxPJ+HOXRL3e/8IE/BbW1/9yf/O9le+mOQyDb8pWZ9ZP94ynr1dKoSkUpP3nYfRnAolfMy9GkD3g6t671oooRB4cQ41y6SC7VLtyK0I2g54F/rS5BTJ9ReM2exv2+MaQTlrr+T8mQYGh9c9G27TsC7cPj5kD1+40BKaSWdxY+AaNI1lob2ymxq3KtMu744zNugO++KQ6X7LRCJJsJw==
 kim.	3600	in	rrsig	NS 8 1 3600 20250930152859 20250909142859 64416 kim. L8g4/Oy5w3fWSD/9Ygjepv9qC5aMKD73inrCbp4Djz9QnDP6Ku6G+uwNzo4jFmmiaEWMX8fNv5ayYRBvQv/sAdkEq8rHnel0bhvV9hbFocZ8aNGvnKzJAAMbtURjKaxynMOnFK4haBGQdX9HYecXOjp0VteazMQwgdBugaIFcd0=
 kim.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930152859 20250909142859 64416 kim. av83ciNQWpEXrCoF93j71WeaXA4JVg0jZskDs8AyqqF8+AZCLev5bvNirRPZQi/Cg/soaR8iVtGemNfLIj5/+Tl2Jjqo/QuWHRwS94aBWf1waTSvYpF8U9w688FBob0vMc/uRfnIXkdASsAYJQUPQkWn+dCQgwH7BRFKrszMPbc=
-kim.	3600	in	rrsig	SOA 8 1 3600 20251002010736 20250911000736 64416 kim. JHG3+TLjDWi0PFNYOTc1Wqshcq3KJrFCt0vX398JgM5KS70Ldj+eRHgtDJgzfXzzteLGeLMKBn602SteSNE4EhBEOHABoum7L7PL2YzcpRCPq7zI5mBYrgm29XIXmb8i8qtTT0iwSwgN7mnX2USWY4YD11fEo01d6Z5ylY75BXQ=
+kim.	3600	in	rrsig	SOA 8 1 3600 20251003010411 20250912000411 64416 kim. rwpIt0zNUefQhP8m2GFd5zo1soJQcBOVrlCl3DCY8KyZtL5ZaQJHQ1Oy1PzHFWyO0hVjj0qOaOmHl4kF/gxlZKhHmYaRiEQvla2IRiPuW2/QEnKGlbqjQy+z615eTuB9eXqXyvUvH3jOnQCeaX8Ab15tXMsuJjMuf/riNhy0LMg=
 kim.kim.	3600	in	ns	elmo.ns.cloudflare.com.
 kim.kim.	3600	in	ns	kim.ns.cloudflare.com.
 kim66.kim.	3600	in	ns	chase.ns.cloudflare.com.
@@ -12522,8 +12525,8 @@ lia.kim.	3600	in	ns	ns1.dns-parking.com.
 lia.kim.	3600	in	ns	ns2.dns-parking.com.
 liam.kim.	3600	in	ns	athena.ns.cloudflare.com.
 liam.kim.	3600	in	ns	jobs.ns.cloudflare.com.
-liang.kim.	3600	in	ns	expirens3.hichina.com.
-liang.kim.	3600	in	ns	expirens4.hichina.com.
+liang.kim.	3600	in	ns	kelly.ns.cloudflare.com.
+liang.kim.	3600	in	ns	tony.ns.cloudflare.com.
 lianghao.kim.	3600	in	ns	dns27.hichina.com.
 lianghao.kim.	3600	in	ns	dns28.hichina.com.
 lianwen.kim.	3600	in	ns	pdns11.domaincontrol.com.
@@ -13961,7 +13964,7 @@ mmmm.kim.	3600	in	ns	melissa.ns.cloudflare.com.
 mmo.kim.	3600	in	ns	ns1.hostcini.com.
 mmo.kim.	3600	in	ns	ns56.dnscini.com.
 mmqa378o05mbo38dojl2th125c48crm8.kim.	3600	in	nsec3	1 1 0 73 MOCCMFK2O8ESHM3HASBJ3T211IAN2T34 NS DS RRSIG
-mmqa378o05mbo38dojl2th125c48crm8.kim.	3600	in	rrsig	NSEC3 8 2 3600 20250930152859 20250909142859 64416 kim. rcOTUsckaz+0nSVKTksF05QdeWl4iC/yRRShbCTT+z3XnoQ/Bx/swMYe7F1FnWMBGX7MUVasraDnCBinu5BIO8ndtKK8P+PnOQluP+tWQwZ7VxKuc/+IlazFohPiXimMLEbZR+nOXGix3sKTy4464WpnZsSOYtPmjv10yuzBrbU=
+mmqa378o05mbo38dojl2th125c48crm8.kim.	3600	in	rrsig	NSEC3 8 2 3600 20251002130538 20250911120538 64416 kim. bJ7//Fts4ZmQTaBMedWDf3BtRRtt0jk5XbLmLcYcXvptNM8fIzKHsY/IHhOcb2mUCrk+irN+f23ue0Ju2eL4RgAXxKt9JNdePEbx2gqA4Tsvgs3E9Vso/qTSgvhVv8LDS5AAkxAd/m9KuTgjfJ4DngXG02/y74qEmsjtbx5C/Jk=
 mmx.kim.	3600	in	ns	dns17.hichina.com.
 mmx.kim.	3600	in	ns	dns18.hichina.com.
 mnj.kim.	3600	in	ns	dns1.registrar-servers.com.
@@ -13988,7 +13991,7 @@ mobility.kim.	3600	in	ns	ns2.atom.com.
 moc.kim.	3600	in	ns	dns106.ovh.net.
 moc.kim.	3600	in	ns	ns106.ovh.net.
 moccmfk2o8eshm3hasbj3t211ian2t34.kim.	3600	in	nsec3	1 1 0 73 MPB7M9PKC2EVQTOF9EPJ5S85TIR8FA6O NS DS RRSIG
-moccmfk2o8eshm3hasbj3t211ian2t34.kim.	3600	in	rrsig	NSEC3 8 2 3600 20250930152859 20250909142859 64416 kim. Eh9zj1W8HZzRGj+6uF3aDHCtR69xb7JzGZob5O9e6B+f1lEaFFnzMm5XT51cEhc6kGpU6xUPzq4uOjnKSu3zPwo3QhPuGIB4AIvSwfRW0WbCzpx+3VuUA+pDkgpAHubgMhxsD8CH6OO5OrBRsp8zjfUgT3IOYbWHqnhGNZ5Aim4=
+moccmfk2o8eshm3hasbj3t211ian2t34.kim.	3600	in	rrsig	NSEC3 8 2 3600 20251002130538 20250911120538 64416 kim. ZGK4etCx06cp896aP8sOKUz8AoSAZUtJchkUCskD6s9OUkXOvtmUu8DquR7TKyJH1ajvTmcmRsGZfaa5IxNcDKys+TgSsOgltZTJOsNkHBzbakI54RdpC+Teaky+5qVUepO+pdgmCm148tGoSwdBra3SQwV6iG9CmUU/Z4IHRmo=
 moe.kim.	3600	in	ns	brodie.ns.cloudflare.com.
 moe.kim.	3600	in	ns	noor.ns.cloudflare.com.
 moehling.kim.	3600	in	ns	docks18.rzone.de.
@@ -14299,8 +14302,8 @@ mynameis.kim.	3600	in	ns	ns1018.ui-dns.com.
 mynameis.kim.	3600	in	ns	ns1082.ui-dns.org.
 mynameis.kim.	3600	in	ns	ns1098.ui-dns.de.
 mynameis.kim.	3600	in	ns	ns1110.ui-dns.biz.
-mynas.kim.	3600	in	ns	active.dnspod.net.
-mynas.kim.	3600	in	ns	bootes.dnspod.net.
+mynas.kim.	3600	in	ns	expire01.dnspod.net.
+mynas.kim.	3600	in	ns	expire02.dnspod.net.
 myounghoon.kim.	3600	in	ns	ns41.domaincontrol.com.
 myounghoon.kim.	3600	in	ns	ns42.domaincontrol.com.
 myoungnam.kim.	3600	in	ns	ns6.wixdns.net.
@@ -14927,7 +14930,6 @@ ns1.sintomas.kim.	3600	in	a	54.36.77.35
 ns1.thien.kim.	3600	in	a	216.69.185.19
 ns1.tov.kim.	3600	in	a	195.201.85.184
 ns1.tyler.kim.	3600	in	a	192.30.252.153
-ns1.universidad.kim.	3600	in	a	87.98.229.126
 ns1.uzmani.kim.	3600	in	a	213.159.30.88
 ns1.vestidos.kim.	3600	in	a	51.38.211.183
 ns1.vestidosdenovia.kim.	3600	in	a	94.23.75.130
@@ -15006,7 +15008,6 @@ ns2.sexvideo.kim.	3600	in	a	109.206.164.21
 ns2.sintomas.kim.	3600	in	a	54.36.77.35
 ns2.thien.kim.	3600	in	a	208.109.255.19
 ns2.tov.kim.	3600	in	a	188.40.83.208
-ns2.universidad.kim.	3600	in	a	87.98.229.126
 ns2.uzmani.kim.	3600	in	a	213.159.30.88
 ns2.vestidos.kim.	3600	in	a	51.38.211.183
 ns2.vestidosdenovia.kim.	3600	in	a	94.23.75.130
@@ -15106,8 +15107,8 @@ oberg.kim.	3600	in	ds	2371 13 2 05517C61953F9BE3E221F9D119E40B551946E022E815C51C
 oberg.kim.	3600	in	ns	primary.ns.hostup.se.
 oberg.kim.	3600	in	ns	secondary.ns.hostup.se.
 oberg.kim.	3600	in	rrsig	DS 8 2 3600 20250930152859 20250909142859 64416 kim. YIRDzbtvH7YrYykMkIp9FI8EizMPnGvD+2ncOe1GDN+gLqSTzDUhW3L3MZFIQj/lohD0EMHjJO/92yXhGk9SfcJMFYq2ZjCHRVjrbUaoER490kBwgucSjyKN7Bn6mTk+ZBK1MvIn+nbg0XWWVngHnzzReDHVuIpLla802JDGSgI=
-oberlo.kim.	3600	in	ns	ns1.bodis.com.
-oberlo.kim.	3600	in	ns	ns2.bodis.com.
+oberlo.kim.	3600	in	ns	ns1.dns-redirect.com.
+oberlo.kim.	3600	in	ns	ns2.dns-redirect.com.
 obtigo.kim.	3600	in	ns	ns1.sedoparking.com.
 obtigo.kim.	3600	in	ns	ns2.sedoparking.com.
 obxpdmlk.kim.	3600	in	ns	maciej.ns.cloudflare.com.
@@ -15827,6 +15828,8 @@ phimsexnhatban.kim.	3600	in	ns	ns3.whois.com.
 phimsexnhatban.kim.	3600	in	ns	ns4.whois.com.
 phimxxx.kim.	3600	in	ns	dns11.parkpage.foundationapi.com.
 phimxxx.kim.	3600	in	ns	dns12.parkpage.foundationapi.com.
+pho.kim.	3600	in	ns	ns1.dyna-ns.net.
+pho.kim.	3600	in	ns	ns2.dyna-ns.net.
 phoenix.kim.	3600	in	ns	dns23.hichina.com.
 phoenix.kim.	3600	in	ns	dns24.hichina.com.
 phoneguard.kim.	3600	in	ns	ns-1204.awsdns-22.org.
@@ -15930,8 +15933,8 @@ platform.kim.	3600	in	ns	ns1.atom.com.
 platform.kim.	3600	in	ns	ns2.atom.com.
 play-fortuna.kim.	3600	in	ns	ns.parktons.com.
 play-fortuna.kim.	3600	in	ns	ns2.parktons.com.
-play.kim.	3600	in	ns	ns1.bodis.com.
-play.kim.	3600	in	ns	ns2.bodis.com.
+play.kim.	3600	in	ns	ns1.dns-redirect.com.
+play.kim.	3600	in	ns	ns2.dns-redirect.com.
 playgames.kim.	3600	in	ns	ns-1095.awsdns-08.org.
 playgames.kim.	3600	in	ns	ns-1638.awsdns-12.co.uk.
 playgames.kim.	3600	in	ns	ns-225.awsdns-28.com.
@@ -15973,6 +15976,10 @@ pobretv.kim.	3600	in	ns	ns1.fp261.parklogic.com.
 pobretv.kim.	3600	in	ns	ns2.fp261.parklogic.com.
 pocket.kim.	3600	in	ns	dns27.hichina.com.
 pocket.kim.	3600	in	ns	dns28.hichina.com.
+pod.kim.	3600	in	ns	curitiba.ns.porkbun.com.
+pod.kim.	3600	in	ns	fortaleza.ns.porkbun.com.
+pod.kim.	3600	in	ns	maceio.ns.porkbun.com.
+pod.kim.	3600	in	ns	salvador.ns.porkbun.com.
 podcast.kim.	3600	in	ns	kip.ns.cloudflare.com.
 podcast.kim.	3600	in	ns	zara.ns.cloudflare.com.
 pohon169sukses.kim.	3600	in	ns	linda.ns.cloudflare.com.
@@ -16133,8 +16140,8 @@ project.kim.	3600	in	ns	curitiba.ns.porkbun.com.
 project.kim.	3600	in	ns	fortaleza.ns.porkbun.com.
 project.kim.	3600	in	ns	maceio.ns.porkbun.com.
 project.kim.	3600	in	ns	salvador.ns.porkbun.com.
-protein.kim.	3600	in	ns	ns1.bodis.com.
-protein.kim.	3600	in	ns	ns2.bodis.com.
+protein.kim.	3600	in	ns	ns1.dns-redirect.com.
+protein.kim.	3600	in	ns	ns2.dns-redirect.com.
 proton.kim.	3600	in	ns	dns1.registrar-servers.com.
 proton.kim.	3600	in	ns	dns2.registrar-servers.com.
 proud.kim.	3600	in	ns	ns1.101domain.com.
@@ -16281,6 +16288,8 @@ quiz.kim.	3600	in	ns	ns43.domaincontrol.com.
 quiz.kim.	3600	in	ns	ns44.domaincontrol.com.
 qun.kim.	3600	in	ns	dns19.hichina.com.
 qun.kim.	3600	in	ns	dns20.hichina.com.
+quote.kim.	3600	in	ns	dns29.hichina.com.
+quote.kim.	3600	in	ns	dns30.hichina.com.
 quotes.kim.	3600	in	ns	ns1.dns-redirect.com.
 quotes.kim.	3600	in	ns	ns2.dns-redirect.com.
 quy.kim.	3600	in	ns	ns75.domaincontrol.com.
@@ -16639,8 +16648,8 @@ rieul.kim.	3600	in	ns	dns1.cafe24.co.kr.
 rieul.kim.	3600	in	ns	dns1.cafe24.com.
 rieul.kim.	3600	in	ns	dns2.cafe24.co.kr.
 rieul.kim.	3600	in	ns	dns2.cafe24.com.
-rif.kim.	3600	in	ns	dns101.registrar-servers.com.
-rif.kim.	3600	in	ns	dns102.registrar-servers.com.
+rif.kim.	3600	in	ns	dns1.registrar-servers.com.
+rif.kim.	3600	in	ns	dns2.registrar-servers.com.
 rik.kim.	3600	in	ns	ns1.dyna-ns.net.
 rik.kim.	3600	in	ns	ns2.dyna-ns.net.
 rikbet.kim.	3600	in	ds	49549 13 2 5001DD4EDEFD17B640655BF2D04342B126B63E0EA550C26B1392471318113FB1
@@ -19032,6 +19041,8 @@ talkwith.kim.	3600	in	ns	colin.ns.cloudflare.com.
 talkwith.kim.	3600	in	ns	dawn.ns.cloudflare.com.
 talya.kim.	3600	in	ns	jason.ns.cloudflare.com.
 talya.kim.	3600	in	ns	laylah.ns.cloudflare.com.
+tamara.kim.	3600	in	ns	ns1.taplink.cc.
+tamara.kim.	3600	in	ns	ns2.taplink.cc.
 tamfaktoring.kim.	3600	in	ns	ns1.natrohost.com.
 tamfaktoring.kim.	3600	in	ns	ns2.natrohost.com.
 tamfinans.kim.	3600	in	ns	ns1.natrohost.com.
@@ -19153,6 +19164,8 @@ teid.kim.	3600	in	ds	10352 13 2 A6EFAE5930056B81C9BDC5E71E81D49ABDA436311D32DC93
 teid.kim.	3600	in	ns	ns3.epik.com.
 teid.kim.	3600	in	ns	ns4.epik.com.
 teid.kim.	3600	in	rrsig	DS 8 2 3600 20250930152859 20250909142859 64416 kim. W7dCuMufhfCXrI7JL4SDa9R6Kc3N4vsbR2bheqMebhXx7mLMQaznpon9RR1xJEuA7YgICWX0Q23armM7Fp8itnFhp2VwLKSpeXVLbhDoWOmtXZ8FYi4DQlpm+aq7Hgq4BfQNfdQcdJgpQxO7CniAQKz+fNXJn4WqkP5XByjFtjs=
+teieasdzqw.kim.	3600	in	ns	jean.ns.cloudflare.com.
+teieasdzqw.kim.	3600	in	ns	major.ns.cloudflare.com.
 teiebram.kim.	3600	in	ns	dawn.ns.cloudflare.com.
 teiebram.kim.	3600	in	ns	ganz.ns.cloudflare.com.
 teiegarm.kim.	3600	in	ns	serena.ns.cloudflare.com.
@@ -19191,6 +19204,8 @@ teieyuioph.kim.	3600	in	ns	everton.ns.cloudflare.com.
 teieyuioph.kim.	3600	in	ns	fish.ns.cloudflare.com.
 teieyxcvbn.kim.	3600	in	ns	jen.ns.cloudflare.com.
 teieyxcvbn.kim.	3600	in	ns	oswald.ns.cloudflare.com.
+teiezxcvgh.kim.	3600	in	ns	mustafa.ns.cloudflare.com.
+teiezxcvgh.kim.	3600	in	ns	raina.ns.cloudflare.com.
 teiogram.kim.	3600	in	ns	trace.ns.cloudflare.com.
 teiogram.kim.	3600	in	ns	ziggy.ns.cloudflare.com.
 tel.kim.	3600	in	ns	dns19.hichina.com.
@@ -20491,8 +20506,6 @@ unitypoint.kim.	3600	in	ns	ns1-03.azure-dns.com.
 unitypoint.kim.	3600	in	ns	ns2-03.azure-dns.net.
 unitypoint.kim.	3600	in	ns	ns3-03.azure-dns.org.
 unitypoint.kim.	3600	in	ns	ns4-03.azure-dns.info.
-universidad.kim.	3600	in	ns	dns19.ovh.net.
-universidad.kim.	3600	in	ns	ns19.ovh.net.
 unjong.kim.	3600	in	ns	dns1.registrar-servers.com.
 unjong.kim.	3600	in	ns	dns2.registrar-servers.com.
 unlock.kim.	3600	in	ns	dns17.hichina.com.
@@ -20916,8 +20929,6 @@ wahanabet.kim.	3600	in	ns	dale.ns.cloudflare.com.
 wahanabet.kim.	3600	in	ns	donna.ns.cloudflare.com.
 wai.kim.	3600	in	ns	serpens.dnspod.net.
 wai.kim.	3600	in	ns	spirits.dnspod.net.
-waihui.kim.	3600	in	ns	n1.xundns.com.
-waihui.kim.	3600	in	ns	n2.xundns.com.
 wajik777.kim.	3600	in	ns	dns101.registrar-servers.com.
 wajik777.kim.	3600	in	ns	dns102.registrar-servers.com.
 wajik88.kim.	3600	in	ns	ns1.rd301.com.
@@ -21601,6 +21612,10 @@ xoilactv.kim.	3600	in	ns	hugh.ns.cloudflare.com.
 xoilactv.kim.	3600	in	ns	wanda.ns.cloudflare.com.
 xolo.kim.	3600	in	ns	dns23.hichina.com.
 xolo.kim.	3600	in	ns	dns24.hichina.com.
+xorstr.kim.	3600	in	ns	curitiba.ns.porkbun.com.
+xorstr.kim.	3600	in	ns	fortaleza.ns.porkbun.com.
+xorstr.kim.	3600	in	ns	maceio.ns.porkbun.com.
+xorstr.kim.	3600	in	ns	salvador.ns.porkbun.com.
 xoso66.kim.	3600	in	ns	james.ns.cloudflare.com.
 xoso66.kim.	3600	in	ns	nora.ns.cloudflare.com.
 xox.kim.	3600	in	ns	expirens3.hichina.com.
@@ -22537,4 +22552,4 @@ zzz.kim.	3600	in	ns	ns-1493.awsdns-58.org.
 zzz.kim.	3600	in	ns	ns-1653.awsdns-14.co.uk.
 zzz.kim.	3600	in	ns	ns-235.awsdns-29.com.
 zzz.kim.	3600	in	ns	ns-835.awsdns-40.net.
-kim.	3600	in	soa	a0.nic.kim. hostmaster.donuts.email. 1757552722 7200 900 1209600 3600
+kim.	3600	in	soa	a0.nic.kim. hostmaster.donuts.email. 1757638926 7200 900 1209600 3600
