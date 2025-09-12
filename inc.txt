@@ -1,4 +1,4 @@
-inc.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757553552 900 1800 6048000 3600
+inc.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757639400 900 1800 6048000 3600
 00mdf562a2slmsdc3m3v5h3pqn67rhbf.inc.	900	in	nsec3	1 1 0 - 02FD6UPTD9MAKQFQVU8VD86VQ9C24KTE NS DS RRSIG
 00mdf562a2slmsdc3m3v5h3pqn67rhbf.inc.	900	in	rrsig	NSEC3 8 2 900 20250918130027 20250819113027 45799 inc. lv94Dunpb8gpYgVMYCZowvadaD1t+ortzP8WvR3KlLdgbywpx/zWVIZlYoHbiWQBN3Y5CYxiBN26bzUfVW5WL2Cetc0np0FCVhojl1aoXVzM7IQtYuzXWTJSYdkS3iFhQOGGo+7fwVSODaxb6ILy6bJOUBzBl9ADnH/Mlwm9VVg=
 01.inc.	3600	in	ds	2871 13 1 D0FDF6D0E4FAAB955DB90740ACB644EBC05340BE
@@ -8,9 +8,9 @@ inc.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757553552 900 18
 021.inc.	3600	in	ns	dean.ns.cloudflare.com.
 021.inc.	3600	in	ns	gloria.ns.cloudflare.com.
 02fd6uptd9makqfqvu8vd86vq9c24kte.inc.	900	in	nsec3	1 1 0 - 02GJ2CJPCAF9F487NSP5IIQEDMI3ROIV NS DS RRSIG
-02fd6uptd9makqfqvu8vd86vq9c24kte.inc.	900	in	rrsig	NSEC3 8 2 900 20250915000906 20250815223906 45799 inc. U4rE/FS2cTeZB3H0hpour8tc37SbsI6w2qK0cM2a7LmBnwGkZEgOslbESzogjOxsNS6QMOFEaE8YqIkjBuI8eV0ZZGqPTB9Qi6/6Q4RVpjOXVhdRyBPPhk0ISpQgFbeJtR8BaNX86nI6JoV8Emc0Ej+kCSh55YQw/WO2nLX+ccM=
+02fd6uptd9makqfqvu8vd86vq9c24kte.inc.	900	in	rrsig	NSEC3 8 2 900 20251012000906 20250911223906 45799 inc. TiIAec30CGLjXH493dmVWsgZ9+8btmt7x2+nj/ZaVQNjFxlmWmT+DS0IWmXGAfxKvoMGxaKHT16RaOSFt88fb/TVJNjmTf1iCynVBWw445RaN1NZ3JuFTeIvY/2nb49TBJCw7zsjz9pVAd2VjzZYA29NyRXUmtPIJIkTOIAZA0A=
 02gj2cjpcaf9f487nsp5iiqedmi3roiv.inc.	900	in	nsec3	1 1 0 - 02I5933Q9CGOV0E01AO3J93S32BH1G28 NS DS RRSIG
-02gj2cjpcaf9f487nsp5iiqedmi3roiv.inc.	900	in	rrsig	NSEC3 8 2 900 20250915000906 20250815223906 45799 inc. m3VcfFuGTL25mPBe2QXzhZsXeg9oposUazeFqKzlzDZfMXsE7eEpwoJctoiagicWjhSq20qBJNjkWpALn4QQflwjmTmHENNlvoU4qI8gJV+aEKYdZRwABiPttIZDX39uBeRjp6wXktrZ9hNkktTLRYG3FmRKfZldZNWQ79wB/sc=
+02gj2cjpcaf9f487nsp5iiqedmi3roiv.inc.	900	in	rrsig	NSEC3 8 2 900 20251012000906 20250911223906 45799 inc. Ql2cYK8MTe0Cv/aBY4mijgsd8i0TDdZiyuAR7xCx7UD15utlFlm/O69tzAyLeElLScdfkZd+DrOZ8fV30+LSR7qC6KtZSDBAK+jPmwDkX4yqwgpo7F+aFqPIiPjXRgEVRtkPhNtzbGLtqzeL40VprEWf7jIREjwmaV9nhAPTP60=
 02i5933q9cgov0e01ao3j93s32bh1g28.inc.	900	in	nsec3	1 1 0 - 03U6C9SFNKG4P131QSJB5B6ITKMS2S53 NS DS RRSIG
 02i5933q9cgov0e01ao3j93s32bh1g28.inc.	900	in	rrsig	NSEC3 8 2 900 20251009215736 20250909202736 45799 inc. kfNnkcPb1d9lzaIqFXfL3I6RNw8iogzA7pyIJc9vLl35mpaw05kGKzfjN793FmRrQEB66zObqiGVoT23ejJo2K29Gs18DTgvJkUs7jrpcwx/Y5K2xnlaVOUWDjMzVUTxPFQmMWIgjb0ZHMo5alUqFJuIWXszQG1BpxKZzjIjphY=
 03u6c9sfnkg4p131qsjb5b6itkms2s53.inc.	900	in	nsec3	1 1 0 - 04186O0KPJ5UVD3IEV5HBHU4QOU4Q8US NS DS RRSIG
@@ -271,6 +271,10 @@ inc.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757553552 900 18
 879412.inc.	3600	in	ns	ns2.dyna-ns.net.
 8815.inc.	3600	in	ns	ns1.dyna-ns.net.
 8815.inc.	3600	in	ns	ns2.dyna-ns.net.
+888.inc.	3600	in	ns	ns101.cloudns.net.
+888.inc.	3600	in	ns	ns102.cloudns.net.
+888.inc.	3600	in	ns	ns103.cloudns.net.
+888.inc.	3600	in	ns	ns104.cloudns.net.
 888starz.inc.	3600	in	ns	dns1.registrar-servers.com.
 888starz.inc.	3600	in	ns	dns2.registrar-servers.com.
 88vv.inc.	3600	in	ns	quentin.ns.cloudflare.com.
@@ -461,8 +465,8 @@ actual.inc.	3600	in	ns	leah.ns.cloudflare.com.
 actual.inc.	3600	in	ns	tosana.ns.cloudflare.com.
 actualsignal.inc.	3600	in	ns	ns33.domaincontrol.com.
 actualsignal.inc.	3600	in	ns	ns34.domaincontrol.com.
-acv.inc.	3600	in	ns	dns101.registrar-servers.com.
-acv.inc.	3600	in	ns	dns102.registrar-servers.com.
+acv.inc.	3600	in	ns	dns1.registrar-servers.com.
+acv.inc.	3600	in	ns	dns2.registrar-servers.com.
 ad.inc.	3600	in	ns	dns1.namecheaphosting.com.
 ad.inc.	3600	in	ns	dns2.namecheaphosting.com.
 ada.inc.	3600	in	ns	ns57.domaincontrol.com.
@@ -563,6 +567,10 @@ aegis.inc.	3600	in	ns	ns2.dnsowl.com.
 aegis.inc.	3600	in	ns	ns3.dnsowl.com.
 aeo.inc.	3600	in	ns	dns1.cscdns.net.
 aeo.inc.	3600	in	ns	dns2.cscdns.net.
+aera.inc.	3600	in	ns	curitiba.ns.porkbun.com.
+aera.inc.	3600	in	ns	fortaleza.ns.porkbun.com.
+aera.inc.	3600	in	ns	maceio.ns.porkbun.com.
+aera.inc.	3600	in	ns	salvador.ns.porkbun.com.
 aero.inc.	3600	in	ns	ns-1527.awsdns-62.org.
 aero.inc.	3600	in	ns	ns-1848.awsdns-39.co.uk.
 aero.inc.	3600	in	ns	ns-331.awsdns-41.com.
@@ -1185,7 +1193,7 @@ aptus.inc.	3600	in	ns	ns2jrt.name.com.
 aptus.inc.	3600	in	ns	ns3jmt.name.com.
 aptus.inc.	3600	in	ns	ns4jpz.name.com.
 aq3h3r5uj3qso80mval4udaf9mh7qpa9.inc.	900	in	nsec3	1 1 0 - AUGSN5N7K61K005HRRVK4AG76QVODFIJ NS SOA RRSIG DNSKEY NSEC3PARAM
-aq3h3r5uj3qso80mval4udaf9mh7qpa9.inc.	900	in	rrsig	NSEC3 8 2 900 20250914135322 20250815122322 45799 inc. Xq0Jc+78d0CIYdRj+P6JSTcSNbpCE3ghX0Qv3MBHtLq5OGn+sBXX83qBLDEglWb+2S+S5rV+ht7E8LKbj+JxOKKWy2P/emrZwOuv6I49/GpwHXUHc8+SfcfD223QL7n1wG2+CgLJRlf378l6UpGBtl5hL+2B5mVSIniR0iCgNcM=
+aq3h3r5uj3qso80mval4udaf9mh7qpa9.inc.	900	in	rrsig	NSEC3 8 2 900 20251011121915 20250911104915 45799 inc. XfhzpylwIL0AioRj3dnq3jq+jNF7CAo6+D+EUFG41zSQupvuBXrkAO5p8H0hNwe/UerlNFvEeERXGGJgp1Zm2VS8ycTsDFeRF7yYoWt7TKHpeeP46Dx42ZMFVIZ/ph7ihWHInmbtIF0qz5PdlH5UNBOo0IEEDL/g0jUlMgnpDmI=
 aqr.inc.	3600	in	ns	ns1.instradns.com.
 aqr.inc.	3600	in	ns	ns2.instradns.com.
 aqr.inc.	3600	in	ns	ns3.instradns.com.
@@ -1430,8 +1438,8 @@ asicgoat.inc.	3600	in	ns	dns1.registrar-servers.com.
 asicgoat.inc.	3600	in	ns	dns2.registrar-servers.com.
 asimov.inc.	3600	in	ns	finley.ns.cloudflare.com.
 asimov.inc.	3600	in	ns	kia.ns.cloudflare.com.
-asix.inc.	3600	in	ns	ns25.domaincontrol.com.
-asix.inc.	3600	in	ns	ns26.domaincontrol.com.
+asix.inc.	3600	in	ns	jeremy.ns.cloudflare.com.
+asix.inc.	3600	in	ns	princess.ns.cloudflare.com.
 aska.inc.	3600	in	ns	ns-rs1.gmoserver.jp.
 aska.inc.	3600	in	ns	ns-rs2.gmoserver.jp.
 askcomputer.inc.	3600	in	ns	ns59.domaincontrol.com.
@@ -1757,6 +1765,8 @@ azo.inc.	3600	in	ns	chance.ns.cloudflare.com.
 azo.inc.	3600	in	ns	sreeni.ns.cloudflare.com.
 b-ex.inc.	3600	in	ns	dns1.directorz.jp.
 b-ex.inc.	3600	in	ns	dns2.directorz.jp.
+b-labo.inc.	3600	in	ns	dns1.onamae.com.
+b-labo.inc.	3600	in	ns	dns2.onamae.com.
 b.inc.	3600	in	ds	2371 13 2 BAC5016B2504B0F0E72BCF58E9017460265CF070E43FEDBB08471338C3DA4262
 b.inc.	3600	in	ns	curitiba.ns.porkbun.com.
 b.inc.	3600	in	ns	fortaleza.ns.porkbun.com.
@@ -2720,6 +2730,8 @@ caplorenzo.inc.	3600	in	ns	pdns07.domaincontrol.com.
 caplorenzo.inc.	3600	in	ns	pdns08.domaincontrol.com.
 capstonerecruitment.inc.	3600	in	ns	ns0.gconnect.net.
 capstonerecruitment.inc.	3600	in	ns	ns1.gconnect.net.
+capsule.inc.	3600	in	ns	ns47.domaincontrol.com.
+capsule.inc.	3600	in	ns	ns48.domaincontrol.com.
 captable.inc.	3600	in	ns	apollo.ns.cloudflare.com.
 captable.inc.	3600	in	ns	crystal.ns.cloudflare.com.
 capture.inc.	3600	in	ds	39871 13 2 51D45F262E645BF7547508C25F289C71F951CB0146188DDCEACF0825A5527AF5
@@ -3948,6 +3960,8 @@ danger.inc.	3600	in	ns	maceio.ns.porkbun.com.
 danger.inc.	3600	in	ns	salvador.ns.porkbun.com.
 daniel.inc.	3600	in	ns	failed-whois-verification.namecheap.com.
 daniel.inc.	3600	in	ns	verify-contact-details.namecheap.com.
+darkenergy.inc.	3600	in	ns	ns31.domaincontrol.com.
+darkenergy.inc.	3600	in	ns	ns32.domaincontrol.com.
 data.inc.	3600	in	ns	ns1.markmonitor.com.
 data.inc.	3600	in	ns	ns2.markmonitor.com.
 data.inc.	3600	in	ns	ns3.markmonitor.com.
@@ -4791,6 +4805,8 @@ employers.inc.	3600	in	ns	ns-19.awsdns-02.com.
 employers.inc.	3600	in	ns	ns-732.awsdns-27.net.
 emprende.inc.	3600	in	ns	dns1.registrar-servers.com.
 emprende.inc.	3600	in	ns	dns2.registrar-servers.com.
+en-power.inc.	3600	in	ns	ns-rs1.gmoserver.jp.
+en-power.inc.	3600	in	ns	ns-rs2.gmoserver.jp.
 en.inc.	3600	in	ns	ns07.domaincontrol.com.
 en.inc.	3600	in	ns	ns08.domaincontrol.com.
 enable.inc.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -5382,7 +5398,7 @@ flutterwave.inc.	3600	in	ns	ns22.domaincontrol.com.
 flux.inc.	3600	in	ds	21121 13 1 4EE486EB43EC8C8CD7F87923E2BCCBE8C0E91C8B
 flux.inc.	3600	in	ns	pdns1.registrar-servers.com.
 flux.inc.	3600	in	ns	pdns2.registrar-servers.com.
-flux.inc.	3600	in	rrsig	DS 8 2 3600 20250915000906 20250815223906 45799 inc. QK96Wivl/0fVaCLo5HGpnXVutgRenKNS8gSxXnzt73CaJ2eGbN/BCqc+ddhSYhtaruUK87CsM157zO1PgNHC9P5NZsnHil5wFYJlP1eYQwY4lH3WYo8LuCebRO7YQ1FK1dZ1PmeI28JY6oftTFALdd7XwO5iEtprkmdXfF0IHnU=
+flux.inc.	3600	in	rrsig	DS 8 2 3600 20251012000906 20250911223906 45799 inc. mMbUmmaKSYbIXFlhkcbTBWqpBPfAV0rpFBB8SdGeorNKVh5WzXZ3PpYAVdC4/028MzNtmrWKH3J843Wsild4ITc26u562kKl6DB0chJwb+4CJjwMDJK2r2+yuWzjd8AFUjdtm6y8Y6eF8PjlD0ikwVvsVug4IjV08AFZlWcx9JE=
 fly.inc.	3600	in	ns	dns1.registrar-servers.com.
 fly.inc.	3600	in	ns	dns2.registrar-servers.com.
 fly88.inc.	3600	in	ns	ns1-coming-soon.sav.com.
@@ -5643,8 +5659,10 @@ galderma.inc.	3600	in	ns	dns1.comlaude-dns.com.
 galderma.inc.	3600	in	ns	dns2.comlaude-dns.net.
 galderma.inc.	3600	in	ns	dns3.comlaude-dns.co.uk.
 galderma.inc.	3600	in	ns	dns4.comlaude-dns.eu.
-galli.inc.	3600	in	ns	ns1.101domain.com.
-galli.inc.	3600	in	ns	ns2.101domain.com.
+galli.inc.	3600	in	ns	ns-1473.awsdns-56.org.
+galli.inc.	3600	in	ns	ns-1868.awsdns-41.co.uk.
+galli.inc.	3600	in	ns	ns-487.awsdns-60.com.
+galli.inc.	3600	in	ns	ns-969.awsdns-57.net.
 gallup.inc.	3600	in	ns	ns-1145.awsdns-15.org.
 gallup.inc.	3600	in	ns	ns-1884.awsdns-43.co.uk.
 gallup.inc.	3600	in	ns	ns-362.awsdns-45.com.
@@ -7029,7 +7047,7 @@ inc.	3600	in	dnskey	257 3 8 AwEAAeipzUBMpHGzB1erl36qhwUie+aOM+gC92MgibIY81ojDbjn
 inc.	3600	in	rrsig	DNSKEY 8 1 3600 20251009200108 20250909183108 13114 inc. ORUuWMwQc/DjrUxma5J3Vgl42Zi1XVJhTkdIGGbE4TNNoHQEI3A8Ryrr6jVAwoCLnW73p1iTUAWgziPbuRJsqBmWpo3pJLrxAmwAPFBFCLbNomvI2KgswCQOpOL/KvccaC7lB38/GsI+C4fp9etHpNTFCf3U/3mLm1NAfdXDsxd8xxOgbkk4aLJrvIqwFcRM9974LHcyic5nCaNiGqvGzBqWi0kEOXlAP0+aFh8tGQ57ZeJEwH3vN04Zx+RIfJ2P2hWVNddT4qODKiC0Q5lU+QuIo1YgauNSW29azPtry5h9AySIUxMRWEAKGNrURNP7RU5XWmQtizngojpjq7QUEA==
 inc.	900	in	nsec3param	1 0 0 -
 inc.	900	in	rrsig	NSEC3PARAM 8 1 900 20251009200108 20250909183108 45799 inc. RXxNSsx3fh1wQQFTB/yaihZeOQWtBM43W0oSfpYDdtBBgllIdq0i2GJk5QYVy8SPHRH4YmMCQElHKiSfklSWJiFv7gnlcgtfV+zgCAxnfN5wojnEwkGSi0c4kTwiCfTsODZ+W2uiww9XKJ3HZq/w+eO98qONRSHsL/JeOJtAz04=
-inc.	900	in	rrsig	SOA 8 1 900 20251011011912 20250910234912 45799 inc. vWQaYtBuF5M6qAl76lLCuQy0I1C8iQVYU/fMITsbc0LkqcCNYCGjelvP/sqSa7RYdRXkEgs/GWRVs2HzEu5a+EzMq1WH1pir4rUEgRFpQAu5lP0fUoJe3Si68rdgIDoJkBkuBfgVm0bGFtiF+twAS/xaSzpLeyWI2antgBgrL8o=
+inc.	900	in	rrsig	SOA 8 1 900 20251012011000 20250911234000 45799 inc. LZrnjJpfbJfLSw8GSh+e5NKcWg1y9aQZoigoXf8Qro6jc8AEk2sIjCySonlM9UEhE5rWDk8/j9/xXPSgSRnq0XL2gekEny9oYe3CKqEai4GNSMMIb3Is1AwHY6rHv4ApKiwtSauznH72v6KGFkOrPIYPb+NuxEeghHKubaONaiU=
 incinc.inc.	3600	in	ns	ns1.dyna-ns.net.
 incinc.inc.	3600	in	ns	ns2.dyna-ns.net.
 inclined.inc.	3600	in	ns	ns1.hover.com.
@@ -7750,6 +7768,8 @@ keysystems.inc.	3600	in	ns	ns31.domaincontrol.com.
 keysystems.inc.	3600	in	ns	ns32.domaincontrol.com.
 keytalent.inc.	3600	in	ns	ns21.domaincontrol.com.
 keytalent.inc.	3600	in	ns	ns22.domaincontrol.com.
+keywork.inc.	3600	in	ns	dns1.onamae.com.
+keywork.inc.	3600	in	ns	dns2.onamae.com.
 kha.inc.	3600	in	ns	ns59.domaincontrol.com.
 kha.inc.	3600	in	ns	ns60.domaincontrol.com.
 khn.inc.	3600	in	ns	ns1.dyna-ns.net.
@@ -9186,8 +9206,6 @@ mindmerge.inc.	3600	in	ns	ns2.dnsowl.com.
 mindmerge.inc.	3600	in	ns	ns3.dnsowl.com.
 mindsight.inc.	3600	in	ns	ns71.domaincontrol.com.
 mindsight.inc.	3600	in	ns	ns72.domaincontrol.com.
-mingal.inc.	3600	in	ns	dns1.onamae.com.
-mingal.inc.	3600	in	ns	dns2.onamae.com.
 miniware.inc.	3600	in	ns	millie.ns.cloudflare.com.
 miniware.inc.	3600	in	ns	paul.ns.cloudflare.com.
 minoreal.inc.	3600	in	ns	ns-rs1.gmoserver.jp.
@@ -10441,6 +10459,8 @@ onor.inc.	3600	in	ns	maceio.ns.porkbun.com.
 onor.inc.	3600	in	ns	salvador.ns.porkbun.com.
 onpost.inc.	3600	in	ns	ns45.domaincontrol.com.
 onpost.inc.	3600	in	ns	ns46.domaincontrol.com.
+onwork.inc.	3600	in	ns	dns1.onamae.com.
+onwork.inc.	3600	in	ns	dns2.onamae.com.
 onx.inc.	3600	in	ns	ns67.domaincontrol.com.
 onx.inc.	3600	in	ns	ns68.domaincontrol.com.
 onychoid.inc.	3600	in	ns	ns13.domaincontrol.com.
@@ -11081,6 +11101,10 @@ pirate.inc.	3600	in	ns	ns3ckl.name.com.
 pirate.inc.	3600	in	ns	ns4lpv.name.com.
 pitchbook.inc.	3600	in	ns	ns71.domaincontrol.com.
 pitchbook.inc.	3600	in	ns	ns72.domaincontrol.com.
+pivora.inc.	3600	in	ns	curitiba.ns.porkbun.com.
+pivora.inc.	3600	in	ns	fortaleza.ns.porkbun.com.
+pivora.inc.	3600	in	ns	maceio.ns.porkbun.com.
+pivora.inc.	3600	in	ns	salvador.ns.porkbun.com.
 pivot.inc.	3600	in	ns	01.dnsv.jp.
 pivot.inc.	3600	in	ns	02.dnsv.jp.
 pivot.inc.	3600	in	ns	03.dnsv.jp.
@@ -11657,8 +11681,6 @@ ramco.inc.	3600	in	ns	curitiba.ns.porkbun.com.
 ramco.inc.	3600	in	ns	fortaleza.ns.porkbun.com.
 ramco.inc.	3600	in	ns	maceio.ns.porkbun.com.
 ramco.inc.	3600	in	ns	salvador.ns.porkbun.com.
-ranch.inc.	3600	in	ns	ns15.domaincontrol.com.
-ranch.inc.	3600	in	ns	ns16.domaincontrol.com.
 range.inc.	3600	in	ns	dns1.idp365.net.
 range.inc.	3600	in	ns	dns2.idp365.net.
 range.inc.	3600	in	ns	dns3.idp365.net.
@@ -12326,7 +12348,7 @@ sas.inc.	3600	in	ns	extdns03.na.sas.com.
 sas.inc.	3600	in	ns	extdns04.na.sas.com.
 sas.inc.	3600	in	ns	extdns05.na.sas.com.
 sas.inc.	3600	in	ns	extdns06.na.sas.com.
-sas.inc.	3600	in	rrsig	DS 8 2 3600 20250914082637 20250815065637 45799 inc. f89LfJ4SlHguZkdwp74IDbSBWAIc6XxLllI1EL64tmYzhJ/hmyNAgjZmh3kLVTRMOwrJAVLWmb/4MQLNKkuTgFb0kvvmPmsEELTYJv9uOqENzJtjhRhlQy1YpeWfsPDneYtH1UuhXzI3mPjcke04IF3czWUW1QlttsktZAR9d6k=
+sas.inc.	3600	in	rrsig	DS 8 2 3600 20251011082637 20250911065637 45799 inc. HAqZmtwPrSnYHTpqRzNFIvcsJiqSJMsiH2N5u/nUb/TgR4TW3C4f22TRME68gKrr5Z/rboQTEVoYdv3GFAAVPNMR5MF1z+zpOPoDaL5JM+ORWSgAwWPTiz2mdSToaDH9dc9EIQH/3O+mD5hfwm89Bi5ybFNJLKZOHGq3kiyodEg=
 saskpower.inc.	3600	in	ns	ns19.worldnic.com.
 saskpower.inc.	3600	in	ns	ns20.worldnic.com.
 sasol.inc.	3600	in	ns	ns1.lexsynergy.net.
@@ -12357,8 +12379,6 @@ sbi.inc.	3600	in	ns	01.dnsv.jp.
 sbi.inc.	3600	in	ns	02.dnsv.jp.
 sbi.inc.	3600	in	ns	03.dnsv.jp.
 sbi.inc.	3600	in	ns	04.dnsv.jp.
-sbl.inc.	3600	in	ns	dns1.onamae.com.
-sbl.inc.	3600	in	ns	dns2.onamae.com.
 sbo2u.inc.	3600	in	ns	dns1.registrar-servers.com.
 sbo2u.inc.	3600	in	ns	dns2.registrar-servers.com.
 scalar.inc.	3600	in	ns	dns1.onamae.com.
@@ -12751,7 +12771,7 @@ side.inc.	3600	in	ns	dns2.registrar-servers.com.
 sidequests.inc.	3600	in	ds	48418 13 2 77249B962E8F206B675C187790009D31189B1886F9E2EBCB5039BCF7FEDA1115
 sidequests.inc.	3600	in	ns	launch1.spaceship.net.
 sidequests.inc.	3600	in	ns	launch2.spaceship.net.
-sidequests.inc.	3600	in	rrsig	DS 8 2 3600 20250915000906 20250815223906 45799 inc. O4uHg34i2D9Gy3dyP9LlLHoXCm/dgvH01q9oK5/2ZFiWE1+avForG42Gn3ftu262YZemPmo9XnkR5fV+LqdmOpVi6AkwoPpDK27VNcoaeblch9uJzRDINGc6JXSDC93MTs3k4qapnSrM/Ap7M0okBxGQaSV9GfoWNY8G5LZNaek=
+sidequests.inc.	3600	in	rrsig	DS 8 2 3600 20251012000906 20250911223906 45799 inc. etVr82U0Z6Sq0+nYEthprkdkojAIfzLFtObKy7WlYZdiiL0gXQKfw26mAEVKt9U5EQap0bjRS9kvNnSknNk3RkXg2jqBTtVbzyrBu8p8OIbiyBOd7uVEH3Vt9VUFXpeHCM2xWGD3zoTu08bOfy5gsy2qQmxn9E5k5Kx9Dsn+ckg=
 sidley.inc.	3600	in	ns	ns1.markmonitor.com.
 sidley.inc.	3600	in	ns	ns2.markmonitor.com.
 sidley.inc.	3600	in	ns	ns3.markmonitor.com.
@@ -13028,8 +13048,6 @@ sobotka.inc.	3600	in	ns	curitiba.ns.porkbun.com.
 sobotka.inc.	3600	in	ns	fortaleza.ns.porkbun.com.
 sobotka.inc.	3600	in	ns	maceio.ns.porkbun.com.
 sobotka.inc.	3600	in	ns	salvador.ns.porkbun.com.
-soccer.inc.	3600	in	ns	ns51.domaincontrol.com.
-soccer.inc.	3600	in	ns	ns52.domaincontrol.com.
 soci.inc.	3600	in	ns	ns45.domaincontrol.com.
 soci.inc.	3600	in	ns	ns46.domaincontrol.com.
 social.inc.	3600	in	ns	dns1.registrar-servers.com.
@@ -13172,6 +13190,8 @@ southwood.inc.	3600	in	ns	ns-rs1.gmoserver.jp.
 southwood.inc.	3600	in	ns	ns-rs2.gmoserver.jp.
 sov.inc.	3600	in	ns	ns41.domaincontrol.com.
 sov.inc.	3600	in	ns	ns42.domaincontrol.com.
+sovereign.inc.	3600	in	ns	dns1.registrar-servers.com.
+sovereign.inc.	3600	in	ns	dns2.registrar-servers.com.
 sovosbrands.inc.	3600	in	ns	ns1.dnsbycomodo.net.
 sovosbrands.inc.	3600	in	ns	ns2.dnsbycomodo.net.
 spacecraft.inc.	3600	in	ns	ns13.domaincontrol.com.
@@ -13444,8 +13464,6 @@ stream.inc.	3600	in	ns	ns-1042.awsdns-02.org.
 stream.inc.	3600	in	ns	ns-1543.awsdns-00.co.uk.
 stream.inc.	3600	in	ns	ns-416.awsdns-52.com.
 stream.inc.	3600	in	ns	ns-640.awsdns-16.net.
-streamtech.inc.	3600	in	ns	expired-domain-ns50.directnic.com.
-streamtech.inc.	3600	in	ns	expired-domain-ns51.directnic.com.
 strictlytech.inc.	3600	in	ns	ns29.domaincontrol.com.
 strictlytech.inc.	3600	in	ns	ns30.domaincontrol.com.
 strikerz.inc.	3600	in	ns	ns-cloud-d1.googledomains.com.
@@ -13633,10 +13651,12 @@ suus.inc.	3600	in	ns	ns37.domaincontrol.com.
 suus.inc.	3600	in	ns	ns38.domaincontrol.com.
 suzak.inc.	3600	in	ns	ns-rs1.gmoserver.jp.
 suzak.inc.	3600	in	ns	ns-rs2.gmoserver.jp.
-sv.inc.	3600	in	ns	curitiba.ns.porkbun.com.
-sv.inc.	3600	in	ns	fortaleza.ns.porkbun.com.
-sv.inc.	3600	in	ns	maceio.ns.porkbun.com.
-sv.inc.	3600	in	ns	salvador.ns.porkbun.com.
+svgn.inc.	3600	in	ns	dns1.registrar-servers.com.
+svgn.inc.	3600	in	ns	dns2.registrar-servers.com.
+svrn.inc.	3600	in	ns	ns1kpv.name.com.
+svrn.inc.	3600	in	ns	ns2fgp.name.com.
+svrn.inc.	3600	in	ns	ns3sxz.name.com.
+svrn.inc.	3600	in	ns	ns4fpy.name.com.
 swa.inc.	3600	in	ns	curitiba.ns.porkbun.com.
 swa.inc.	3600	in	ns	fortaleza.ns.porkbun.com.
 swa.inc.	3600	in	ns	maceio.ns.porkbun.com.
@@ -13916,8 +13936,8 @@ tecsys.inc.	3600	in	ns	ns29.domaincontrol.com.
 tecsys.inc.	3600	in	ns	ns30.domaincontrol.com.
 tecta.inc.	3600	in	ns	ns17.worldnic.com.
 tecta.inc.	3600	in	ns	ns18.worldnic.com.
-teem.inc.	3600	in	ns	dns.rebel.com.
-teem.inc.	3600	in	ns	dns2.rebel.com.
+teem.inc.	3600	in	ns	dns.yourdomainhasexpired.com.
+teem.inc.	3600	in	ns	dns2.yourdomainhasexpired.com.
 teg.inc.	3600	in	ns	ns1.xserver.jp.
 teg.inc.	3600	in	ns	ns2.xserver.jp.
 teg.inc.	3600	in	ns	ns3.xserver.jp.
@@ -14657,6 +14677,8 @@ u8s81m2ip4ko51g0troee92jcfq1n19r.inc.	900	in	nsec3	1 1 0 - U9DFJBLV0FQMVP1GM3QB9
 u8s81m2ip4ko51g0troee92jcfq1n19r.inc.	900	in	rrsig	NSEC3 8 2 900 20250925065402 20250826052402 45799 inc. NI3nZvXlr9ktFqe7FV0oBdWt50Ojkltob+i8gFrDkEkZeY7h4eiV3VXs/gbduF7HcyJQ7TenhW1vwVo4wd7zvaCQ1hkYDir/5XOClP/QTls9nb+rkrLLTN5D1vVo7uwNlbHA5aSzndVf7SJOiJyQcil6SzZ+sLar2PQcJeTChjg=
 u9dfjblv0fqmvp1gm3qb9mgl58jdttkb.inc.	900	in	nsec3	1 1 0 - UHHR099OM05ITH2M5K1IRCB1K5KVBNOE NS DS RRSIG
 u9dfjblv0fqmvp1gm3qb9mgl58jdttkb.inc.	900	in	rrsig	NSEC3 8 2 900 20250927200107 20250828183107 45799 inc. G0IMSocG1FNp5IQjuORWmbWFcRXQG4EYMQtkGGfUWbLTLcUX38FEhOQy6TLwnWUXL/fAApsuao4SfdNewimqKu9Pj7OxM1lPLf3KN/OZMEW4HxgDw7JzG8G8QBYN4NcsSY91udPRvZXMZ9zaaHIIfeMMNxBWMXiEmP9H2a5QWBs=
+uai.inc.	3600	in	ns	ns67.domaincontrol.com.
+uai.inc.	3600	in	ns	ns68.domaincontrol.com.
 uberoficial.inc.	3600	in	ns	ns1.dyna-ns.net.
 uberoficial.inc.	3600	in	ns	ns2.dyna-ns.net.
 ubility.inc.	3600	in	ns	ns51.domaincontrol.com.
@@ -14902,6 +14924,10 @@ uwm.inc.	3600	in	ns	keira.ns.cloudflare.com.
 uwm.inc.	3600	in	ns	sam.ns.cloudflare.com.
 uxrk.inc.	3600	in	ns	dns1.registrar-servers.com.
 uxrk.inc.	3600	in	ns	dns2.registrar-servers.com.
+v.inc.	3600	in	ns	curitiba.ns.porkbun.com.
+v.inc.	3600	in	ns	fortaleza.ns.porkbun.com.
+v.inc.	3600	in	ns	maceio.ns.porkbun.com.
+v.inc.	3600	in	ns	salvador.ns.porkbun.com.
 v4caahkcojmnb81ect94dccbj6ao1tbd.inc.	900	in	nsec3	1 1 0 - V5D9HTE047ATODN26QQPM5O3ITKKVICE NS DS RRSIG
 v4caahkcojmnb81ect94dccbj6ao1tbd.inc.	900	in	rrsig	NSEC3 8 2 900 20250917154852 20250818141852 45799 inc. I5yCv8kvlcsGvxu+6PBo5kyVnpvljrEfPtaLulHGJ6t0VXEKvrSFUP2pNL+1ItmKwZSVsEevkQepe0Ej2zq0PH1McX59mFXdKYpdDkbdjPKQx38ApaxWG9QHJUI16jlglVQVI+obuO5oULpH8NMBQGMkawV6dzFX1J829xilfpc=
 v5d9hte047atodn26qqpm5o3itkkvice.inc.	900	in	nsec3	1 1 0 - VB278QTLP9NOHGS9QCA36VEPCU00PBDB NS DS RRSIG
@@ -15654,7 +15680,7 @@ wpad.inc.	3600	in	ns	ns2.srls.io.
 wpk.inc.	3600	in	ds	35567 13 2 096EECBE2D02666B8B9FEDB0F4F0D17467E57683BC3C1BDD051AE9CD5C01A539
 wpk.inc.	3600	in	ns	launch1.spaceship.net.
 wpk.inc.	3600	in	ns	launch2.spaceship.net.
-wpk.inc.	3600	in	rrsig	DS 8 2 3600 20250914155237 20250815142237 45799 inc. t7jqfxEutZ0HG2YMPOx/rup9PkyoCwgvnUI+vBPcDdwdQYW09c53S6pprI96VUI/hWlI/Gok04olwebi5QkYqvaILem5AI54gPo3rtjqIA2fLXLwvrWhIQkGPZgsRPrG/0Dy3kny1cHMc7wREh2xIPTwep27AWkTjreA2go4QV4=
+wpk.inc.	3600	in	rrsig	DS 8 2 3600 20251011135322 20250911122322 45799 inc. tREAIA4U8bqhNYFGMbFjE7cRFIcnMgwfRx0eOONKgYreOQXESBLwcyGNPWQhyxK1nBAPQPT1EBfIPDBSwTPSzw4Qd/SCdT5/ZKB8SM5L/lE0/Aht5PVEaVjrzt6h7YE3cUKv4MKWAN6zh7kPGSULIiE3lxJDmYZpb4K+6sIFH3c=
 wpromote.inc.	3600	in	ns	pdns03.domaincontrol.com.
 wpromote.inc.	3600	in	ns	pdns04.domaincontrol.com.
 writekit.inc.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -15963,6 +15989,10 @@ zenda.inc.	3600	in	ns	maceio.ns.porkbun.com.
 zenda.inc.	3600	in	ns	salvador.ns.porkbun.com.
 zenith.inc.	3600	in	ns	ns1.vercel-dns.com.
 zenith.inc.	3600	in	ns	ns2.vercel-dns.com.
+zenmixer.inc.	3600	in	ns	dns1.p01.nsone.net.
+zenmixer.inc.	3600	in	ns	dns2.p01.nsone.net.
+zenmixer.inc.	3600	in	ns	dns3.p01.nsone.net.
+zenmixer.inc.	3600	in	ns	dns4.p01.nsone.net.
 zenshin.inc.	3600	in	ns	01.dnsv.jp.
 zenshin.inc.	3600	in	ns	02.dnsv.jp.
 zenshin.inc.	3600	in	ns	03.dnsv.jp.
@@ -16074,4 +16104,4 @@ zzazz.inc.	3600	in	ns	ns15.domaincontrol.com.
 zzazz.inc.	3600	in	ns	ns16.domaincontrol.com.
 zzz.inc.	3600	in	ns	ns-rs1.gmoserver.jp.
 zzz.inc.	3600	in	ns	ns-rs2.gmoserver.jp.
-inc.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757553552 900 1800 6048000 3600
+inc.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1757639400 900 1800 6048000 3600
