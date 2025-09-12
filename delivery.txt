@@ -1,4 +1,4 @@
-delivery.	3600	in	soa	v0n0.nic.delivery. hostmaster.donuts.email. 1757552661 7200 900 1209600 3600
+delivery.	3600	in	soa	v0n0.nic.delivery. hostmaster.donuts.email. 1757638870 7200 900 1209600 3600
 02k2ovgp29fs6dj38kfg1v4miud7d5jc.delivery.	3600	in	nsec3	1 1 0 73 03AHQIIVF9K5FB1SF8U93HB3KVM97MRE NS DS RRSIG
 02k2ovgp29fs6dj38kfg1v4miud7d5jc.delivery.	3600	in	rrsig	NSEC3 8 2 3600 20250930152057 20250909142057 2469 delivery. UQpyB2Y9oFtVH1+q8/uZnFKhfC4SM0kFUGUrlcAU26Qf1sLbcw6cbT/H1YOpQeEVYLhCIGBpd/v7FAMuW8SdNDyJMuGNyPgPIA9VkiXO7sVO10wgKcT7WBRXz5gMlJo2brAVjI6u+gO77aLh9JkHD500P6F2MpU2C4tAf/pBI9E=
 03ahqiivf9k5fb1sf8u93hb3kvm97mre.delivery.	3600	in	nsec3	1 1 0 73 03LOP2VUT7URFE9JJVKTKT63GBIE0937 NS DS RRSIG
@@ -260,7 +260,7 @@ delivery.	3600	in	soa	v0n0.nic.delivery. hostmaster.donuts.email. 1757552661 720
 2aicut5a7bjfu0lu3hs41l6cdjvqhhts.delivery.	3600	in	nsec3	1 1 0 73 2ANEKDKDPBSN8M89DPP7O0JRE9Q9DLD5 NS DS RRSIG
 2aicut5a7bjfu0lu3hs41l6cdjvqhhts.delivery.	3600	in	rrsig	NSEC3 8 2 3600 20250930152057 20250909142057 2469 delivery. IEqVnCeYvEzgWySyoXWsUMg427h3QXXMgDObflaVGBzvRjC5oPOf6xb3/EDXQ+mxy9spjtxz9vmueXDJLYvkbFAmpb4H87rINa3KSm3N8OeuOI80dhIHgmOYfZbU0NoYKiqbipnH5iGOT3xwxZVtm5lhdEBioKgK0ugpEDFXvwE=
 2anekdkdpbsn8m89dpp7o0jre9q9dld5.delivery.	3600	in	nsec3	1 1 0 73 2BM2JTG2HT63KU94IR85ENNOOAAJQ9SC NS SOA RRSIG DNSKEY NSEC3PARAM
-2anekdkdpbsn8m89dpp7o0jre9q9dld5.delivery.	3600	in	rrsig	NSEC3 8 2 3600 20251002010702 20250911000702 2469 delivery. y9kfaLEuYCoV9qqsicAVWgElInfgEWCS9bDDXiE06qssVle3X3jIReI6ogwbqPGfz1qsq0g/fNMYmmre6n0jn59xPfw9JK0359mTpJlm2mYIson7Hbxd+JJHH1AdLe/S5hDrUig6QJNshRzAMwa7lBUzpwoVf7tCoCgV032VToo=
+2anekdkdpbsn8m89dpp7o0jre9q9dld5.delivery.	3600	in	rrsig	NSEC3 8 2 3600 20251003010344 20250912000344 2469 delivery. qmmFZRUXs+nYa2yGYB0sP6BCDuh4jgiBFoXu62VEtxGyXba1ig2j7KOFlrrplEArXPcUAamLf83VkdlEs/savJuetWILDhTlSeIPvbZ7KNYt26xI2L2tOOGM2lAzfa5aOWbzAAL9z52cbeDmN7Z/2dzFiVaD0bDA4aDFNFkGKj4=
 2be.delivery.	3600	in	ns	dns1.registrar-servers.com.
 2be.delivery.	3600	in	ns	dns2.registrar-servers.com.
 2bebot.delivery.	3600	in	ns	dns1.registrar-servers.com.
@@ -494,6 +494,8 @@ delivery.	3600	in	soa	v0n0.nic.delivery. hostmaster.donuts.email. 1757552661 720
 515.delivery.	3600	in	ns	dns2.registrar-servers.com.
 53403.delivery.	3600	in	ns	n1.xundns.com.
 53403.delivery.	3600	in	ns	n2.xundns.com.
+555.delivery.	3600	in	ns	dns1.registrar-servers.com.
+555.delivery.	3600	in	ns	dns2.registrar-servers.com.
 55o0hdta8hmir1794l4dejv20tdda2p5.delivery.	3600	in	nsec3	1 1 0 73 5U8MA0LP78BS43ULNDR58TO6E08037PF NS DS RRSIG
 55o0hdta8hmir1794l4dejv20tdda2p5.delivery.	3600	in	rrsig	NSEC3 8 2 3600 20250930152057 20250909142057 2469 delivery. dQOt1q2iqoNreljMPG2VCviSanb/Bgcx98ssR9HehouI/ivOFBkpTvyXHCI9j6rOha27J8lqtkfdfeM43WELWET4PNblMoeO7WpO6LhyW8kRznuOdk+b/jXLe6YZI8Vm6+/6gu7JkUZCTG1RPfIkM+jb+nom8POmzmwMyVnQWWU=
 561.delivery.	3600	in	ns	ns43.domaincontrol.com.
@@ -694,8 +696,10 @@ delivery.	3600	in	soa	v0n0.nic.delivery. hostmaster.donuts.email. 1757552661 720
 88m.delivery.	3600	in	ns	ns28.domaincontrol.com.
 8day.delivery.	3600	in	ns	ns1.dns-parking.com.
 8day.delivery.	3600	in	ns	ns2.dns-parking.com.
-8fo5rva0emc1gqi506vq1ccosprpreqf.delivery.	3600	in	nsec3	1 1 0 73 8GCG8OFBNF4N3KGV32LSENS1VFAE0ISO NS DS RRSIG
-8fo5rva0emc1gqi506vq1ccosprpreqf.delivery.	3600	in	rrsig	NSEC3 8 2 3600 20250930152057 20250909142057 2469 delivery. npcgYAqKrMkSPof2xPU81d7qq09Slwn8PcQd26Ee6/pUSGb7qVd/xL4wxd1pOkjKm1Ex46nfH1qBcq8UWBl+3p6CiUVXsL+CWg5C+0urqD3nyim+GKe3A65UzEcgyuDXgdyLY3CxD8JRgylEv1kST6cnUsIgXqPH9Vj8bEntn6A=
+8fo5rva0emc1gqi506vq1ccosprpreqf.delivery.	3600	in	nsec3	1 1 0 73 8G5J82BPEHQGTTF0EQL2SGFUG8LPGHQS NS DS RRSIG
+8fo5rva0emc1gqi506vq1ccosprpreqf.delivery.	3600	in	rrsig	NSEC3 8 2 3600 20251002042740 20250911032740 2469 delivery. w+H63UxHQSzl5GtsJUAjdOidt8j3g6SFqJM9bE8opiH+14RS2Nj9HIu8nqolYNMv+ZpDV5k7mnFJMkZl6YHoo+iolpDJlcWDsm/D61OLPvHLqLsiekG4i0h+c7zOXlYM1szw1waS8nGRXWMyA4DxiviK+FIVdZQBO65ukk9ttGc=
+8g5j82bpehqgttf0eql2sgfug8lpghqs.delivery.	3600	in	nsec3	1 1 0 73 8GCG8OFBNF4N3KGV32LSENS1VFAE0ISO NS DS RRSIG
+8g5j82bpehqgttf0eql2sgfug8lpghqs.delivery.	3600	in	rrsig	NSEC3 8 2 3600 20251002042740 20250911032740 2469 delivery. GlCmcFa2a/vQjZTaqcpys7efG9oGq+4sIQX71JaM2KdU4Ez1C8gCUd5M9bC8+A0ymiNfmWZBjHfgtqvTnY+gYFaPswrJuEba6Rw9Zc+Zyv54GkZ/9I7kaiV8Ha8YXivR/LrFx6UG/MdwweirMabj3jFKbLm8Ai/R5INo2eTD3Hk=
 8gcg8ofbnf4n3kgv32lsens1vfae0iso.delivery.	3600	in	nsec3	1 1 0 73 8HH15TD70VKRP7ESMO6S8NK2TJR45GPD NS DS RRSIG
 8gcg8ofbnf4n3kgv32lsens1vfae0iso.delivery.	3600	in	rrsig	NSEC3 8 2 3600 20250930152057 20250909142057 2469 delivery. n+WzZOf7QL2EuMHMu48Bf9MHqeM0u+gXHYU5KhPStIAGiowQ1IErGrRHN8RN0JFvikr4O4l90ZcMxw9Za4QrxyyPn5BoWphxLqzcBf0tQ4R/iu2wbdlryPGWdyjSsP6mdp4hpE+SepkJPUSmaCTifew6iyJ95q/mAS4jwAnEayE=
 8hh15td70vkrp7esmo6s8nk2tjr45gpd.delivery.	3600	in	nsec3	1 1 0 73 8LL9AJ8EP0A7UTHFSE07M0G61A39AS2C NS DS RRSIG
@@ -998,6 +1002,9 @@ aero.delivery.	3600	in	ns	ns1.sawsells.com.
 aero.delivery.	3600	in	ns	ns2.sawsells.com.
 aero.delivery.	3600	in	ns	verification-mltszwuqsztaxj47w28fwj.ns101.verify.hn.
 aero.ns.mtrl.delivery.	3600	in	a	89.213.212.125
+aerocargoshippings.delivery.	3600	in	ns	ns1.dnsowl.com.
+aerocargoshippings.delivery.	3600	in	ns	ns2.dnsowl.com.
+aerocargoshippings.delivery.	3600	in	ns	ns3.dnsowl.com.
 aether.delivery.	3600	in	ns	ns1.systemdns.com.
 aether.delivery.	3600	in	ns	ns2.systemdns.com.
 aether.delivery.	3600	in	ns	ns3.systemdns.com.
@@ -1331,6 +1338,8 @@ altcoin.delivery.	3600	in	ns	ns65.domaincontrol.com.
 altcoin.delivery.	3600	in	ns	ns66.domaincontrol.com.
 alteatro.delivery.	3600	in	ns	ns63.domaincontrol.com.
 alteatro.delivery.	3600	in	ns	ns64.domaincontrol.com.
+alternative-tech.delivery.	3600	in	ns	becky.ns.cloudflare.com.
+alternative-tech.delivery.	3600	in	ns	sam.ns.cloudflare.com.
 alting.delivery.	3600	in	ns	nora.ns.cloudflare.com.
 alting.delivery.	3600	in	ns	tim.ns.cloudflare.com.
 alto.delivery.	3600	in	ns	ns11.domaincontrol.com.
@@ -2053,8 +2062,8 @@ aviation.delivery.	3600	in	ns	ns2.qintl.com.
 aviation.delivery.	3600	in	ns	ns2.quickintl.com.
 aviscare.delivery.	3600	in	ns	ns29.domaincontrol.com.
 aviscare.delivery.	3600	in	ns	ns30.domaincontrol.com.
-avocado.delivery.	3600	in	ns	ns1.bodis.com.
-avocado.delivery.	3600	in	ns	ns2.bodis.com.
+avocado.delivery.	3600	in	ns	ns1.dns-redirect.com.
+avocado.delivery.	3600	in	ns	ns2.dns-redirect.com.
 avocados.delivery.	3600	in	ns	curitiba.ns.porkbun.com.
 avocados.delivery.	3600	in	ns	fortaleza.ns.porkbun.com.
 avocados.delivery.	3600	in	ns	maceio.ns.porkbun.com.
@@ -2721,8 +2730,8 @@ birminghamflowers.delivery.	3600	in	ns	curitiba.ns.porkbun.com.
 birminghamflowers.delivery.	3600	in	ns	fortaleza.ns.porkbun.com.
 birminghamflowers.delivery.	3600	in	ns	maceio.ns.porkbun.com.
 birminghamflowers.delivery.	3600	in	ns	salvador.ns.porkbun.com.
-biryani.delivery.	3600	in	ns	ns1.bodis.com.
-biryani.delivery.	3600	in	ns	ns2.bodis.com.
+biryani.delivery.	3600	in	ns	ns1.dns-redirect.com.
+biryani.delivery.	3600	in	ns	ns2.dns-redirect.com.
 bison.delivery.	3600	in	ns	ns05.domaincontrol.com.
 bison.delivery.	3600	in	ns	ns06.domaincontrol.com.
 bistro.delivery.	3600	in	ns	expired1.parktons.com.
@@ -4679,8 +4688,8 @@ coopgrocery.delivery.	3600	in	ns	ns3cgw.name.com.
 coopgrocery.delivery.	3600	in	ns	ns4cjp.name.com.
 coordinate.delivery.	3600	in	ns	ns45.domaincontrol.com.
 coordinate.delivery.	3600	in	ns	ns46.domaincontrol.com.
-copart.delivery.	3600	in	ns	ns1.bodis.com.
-copart.delivery.	3600	in	ns	ns2.bodis.com.
+copart.delivery.	3600	in	ns	ns1.dns-redirect.com.
+copart.delivery.	3600	in	ns	ns2.dns-redirect.com.
 copilot.delivery.	3600	in	ns	ns39.domaincontrol.com.
 copilot.delivery.	3600	in	ns	ns40.domaincontrol.com.
 copit.delivery.	3600	in	ns	dns101.registrar-servers.com.
@@ -4727,8 +4736,8 @@ correosytelegrafos.delivery.	3600	in	ns	arnold.ns.cloudflare.com.
 correosytelegrafos.delivery.	3600	in	ns	stella.ns.cloudflare.com.
 corsair.delivery.	3600	in	ns	ns41.domaincontrol.com.
 corsair.delivery.	3600	in	ns	ns42.domaincontrol.com.
-cosanostra.delivery.	3600	in	ns	ns1.bodis.com.
-cosanostra.delivery.	3600	in	ns	ns2.bodis.com.
+cosanostra.delivery.	3600	in	ns	ns1.dns-redirect.com.
+cosanostra.delivery.	3600	in	ns	ns2.dns-redirect.com.
 cosmic.delivery.	3600	in	ns	ns1.digitalocean.com.
 cosmic.delivery.	3600	in	ns	ns2.digitalocean.com.
 cosmic.delivery.	3600	in	ns	ns3.digitalocean.com.
@@ -5255,7 +5264,7 @@ dd.delivery.	3600	in	ns	ns3.dnsowl.com.
 dd2511ckcsncjaspk7bom8b6il93rho8.delivery.	3600	in	nsec3	1 1 0 73 DD8P1SDN1K8DAOKR6SSUMP27NMSD48FJ NS DS RRSIG
 dd2511ckcsncjaspk7bom8b6il93rho8.delivery.	3600	in	rrsig	NSEC3 8 2 3600 20250930152057 20250909142057 2469 delivery. l5upl+C+tH178aCcaNIRdemPe4/NSuOVKsXE7dX2kG07hihrVr4CicN4Q9FFMgs/oSHYt+j0P7Hz8fFNvbvekKnCXrf8rAXkKTmLa/QaqGG3fx2y/SJDyb7Irq0dw61phN0U8PedleaMEXg/A+uAhyQLnmwt2P7u5GKpVoUJ4vE=
 dd8p1sdn1k8daokr6ssump27nmsd48fj.delivery.	3600	in	nsec3	1 1 0 73 DKC8V9O9F4VCJ9QIJGJ2IR008CCIUKUD NS DS RRSIG
-dd8p1sdn1k8daokr6ssump27nmsd48fj.delivery.	3600	in	rrsig	NSEC3 8 2 3600 20250930152057 20250909142057 2469 delivery. LmPs3lQA1ebRxQuWrx1yC6IRyTrfKr8zPfiIeFObZj+BnX36bSpMexDOFtarJHeGwVOavhdA3CUHJ9jOQRjCA3GZZ6AbWxHSma8WwU64AI/tHV+XcWwXniYGRSl8xku40NtX9ElMGcQEX1h4hzro6ZxP9mLMpO1ui9jvuFK3JvY=
+dd8p1sdn1k8daokr6ssump27nmsd48fj.delivery.	3600	in	rrsig	NSEC3 8 2 3600 20251002184333 20250911174333 2469 delivery. jyK6T63C/mxx7b9JrF52tHkKr79TWA6Jl07m6CFFOs778IFn3KRDNreDHES4QAvhyaTRzZpo1E0O+jh/b28+DegtRproIbnlqDVzk/Un5wOwalIO/7nyRbiJR4oY8IpEGv0zMYeMUAkMSbtRmBgN1At4RP8dlBtmSl9OqYnkwhg=
 ddd.delivery.	3600	in	ns	ns3.nic.ru.
 ddd.delivery.	3600	in	ns	ns4.nic.ru.
 ddd.delivery.	3600	in	ns	ns8.nic.ru.
@@ -5412,6 +5421,8 @@ delivered.delivery.	3600	in	ns	ns1045.ui-dns.org.
 deliveroo.delivery.	3600	in	ns	ns-106-a.gandi.net.
 deliveroo.delivery.	3600	in	ns	ns-53-c.gandi.net.
 deliveroo.delivery.	3600	in	ns	ns-66-b.gandi.net.
+delivery-pizza.delivery.	3600	in	ns	mcgrory.ns.cloudflare.com.
+delivery-pizza.delivery.	3600	in	ns	paige.ns.cloudflare.com.
 delivery.	3600	in	dnskey	256 3 8 AwEAAdEGg4aiIRMksba/NSSok2FpYsnbOT+bWnmSDo3kesRDvaDbzkwkoE0FStP7rWSpgM7O4mTKmC5s+x3a9XKasN45yuqUVvLKPCGedBjBSaIXDMEs7PXVt7xGuFLbE+Za5g84kN1ZbCcH8kVtdLSJvNBTxnhuyRZX//u/9/JEXV4l
 delivery.	3600	in	dnskey	256 3 8 AwEAAdRAWI+id8V4o8Mz1aUR4Lcd+G6Nihi05TMhCOwXQAFj1oPznkdclHY6SrZtSD8CwpJ718OEdw7tXNkpsbIlet24bgQEoUD4InyAGXrE6i+PDjJml+JYY+vrG9NBv0pSblqJ+dF2p8Q8GjodGJfv4bNM9+SO5WYX4DHP/0436Bnr
 delivery.	3600	in	dnskey	257 3 8 AwEAAeZZ8t8Txkl/5SdIg0iM9ABLyP6fXYfH6936VZbFlUcZbuBb/Vg99Aw4DTiCoxsE9sDlD9i44JhN95ugJc2efhDbRrioIAXDoLWl+S9W7/Y9bMOayRgMi3iZu6dMrvbqm2N8ki37WUZyrUDbsn1v+cK1L9vuJL5h2rB0+NVquAcix3xSmLK8KZ6VH4Q8M1uAiKS4onqgiZtaJzxYCnLr7NtB9vxc9FQFMl//xzhMvNJL8g0roIJ2dKeWd+AppNQ1HvgCIMNknn0y7kldw7umjdZHkZ4DDGtdxkL1wkiYfeYJB0yeNqaYt7Ox66eRYeyKeVjLH9p5E1z/BnTMEFS40GM=
@@ -5425,7 +5436,7 @@ delivery.	3600	in	nsec3param	1 0 0 73
 delivery.	3600	in	rrsig	DNSKEY 8 1 3600 20250930152057 20250909142057 60874 delivery. ftzoRpaJrAmzgsnYOqFpSy0LfpfbRwXM4YB8sYU3kXqgHRLFBUdyxZmNji+0LgNT24i4ZOFigp41yoAI3C9FAEMg8hk5ePFmeepuHrGJtfpMYIeFDh2gC0FwqrOWEziMmRVlAB1+7uiDwO2b3zxK9pfV+Wkqx81XvLDO+QVQCwZL/UQ8/dZQ3ldDbX5jjycHKYpd6hmbRPOVtLpQn5B95IKukSgbOEKt+l9XMhBikiyzxBHX/ZVfwyEQGCJzrsP5ktRIeTY8fE0bHXW4Oqozqe37utmkf1OD8CSC/hU8uw/fWsUUshmzewjd9/p1bWc5PIJqKkuK6Xbk90tkmthvrg==
 delivery.	3600	in	rrsig	NS 8 1 3600 20250930152057 20250909142057 2469 delivery. YvybxvClAk17Vo2sbNOyJU6hm7tNWv56syTlhsvm/2DQNQ1tu8na5XTPEUO80QDVfvWjrAnWqKd6Je4ZXOAR4Y3TjvFjpvJuQoIm1nQktmG90951db+5j9CNzCpEn1xkrr+q/WVUx4fjiOT/ck0obOuWBkge/cJnY6yPPnUW6jQ=
 delivery.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930152057 20250909142057 2469 delivery. cFIGxnHEFWFQLwAAVGj/mRfEP04MEa8eeBDMNwdVhih0okTjjPAaeJbPp9WIIV/VzGWX7q8S50MuQM61vsIJCGyYdnmfSOa/jYK8ILC4xaRWmpubNrL4i/OrYcZroRdHv7FmtdBGq2eSre72We4ZGbvo16sWAD3SOtJr8xR56BU=
-delivery.	3600	in	rrsig	SOA 8 1 3600 20251002010702 20250911000702 2469 delivery. UPJQgQq+1ol1H4edU2z2fe/B3aANIakl/Kwg4YGfmgHN2OdTamHXj7gVSWtZruWgA8hnJa4Ur4L65ItaO6J8gIF6yy47qUp7AG4nHnBD31CkjLZNoR1cXkzlwEgx0lb396K8FFAnLf94/Dh8tT0It2rzJyH2fIoICn71ajSckzs=
+delivery.	3600	in	rrsig	SOA 8 1 3600 20251003010344 20250912000344 2469 delivery. UDjJFSMhiNeecUjSedSWhpsuZ6MhEQbgVRzU+K8slkMqYKalmVpcEHdTumwIeVo55xbjS1ZqFz4UkfqinY7gJVwCRa68pxQlaOXWssPuvTiCDC23k3A/ohyXYVi0fuXPLQ33iIDSSbOtyn/v6Hgdsaqinb5X6DXc6h4lUd2GGBc=
 deliveryappointment.delivery.	3600	in	ns	dns1.name-services.com.
 deliveryappointment.delivery.	3600	in	ns	dns2.name-services.com.
 deliveryappointment.delivery.	3600	in	ns	dns3.name-services.com.
@@ -5481,8 +5492,6 @@ dependable.delivery.	3600	in	ns	ns1.inmotionhosting.com.
 dependable.delivery.	3600	in	ns	ns2.inmotionhosting.com.
 depressionafter.delivery.	3600	in	ns	ns41.worldnic.com.
 depressionafter.delivery.	3600	in	ns	ns42.worldnic.com.
-dero.delivery.	3600	in	ns	ns17.domaincontrol.com.
-dero.delivery.	3600	in	ns	ns18.domaincontrol.com.
 desert.delivery.	3600	in	ns	ns63.domaincontrol.com.
 desert.delivery.	3600	in	ns	ns64.domaincontrol.com.
 desertmountian.delivery.	3600	in	ns	ns09.domaincontrol.com.
@@ -5559,8 +5568,10 @@ di.delivery.	3600	in	ns	ns-cloud-b4.googledomains.com.
 di.delivery.	3600	in	rrsig	DS 8 2 3600 20250930152057 20250909142057 2469 delivery. bUgCYYPIePmCLtMukYic7/wam6+HJYZQQ0X5RdlXX+ZH/Ra5JFYdgFbm2SRyVqYalQa0KMxFi40s1lPiZfLobjWJ9tMdd96oFUNDE0lV7cWxND3jxkK/hQ2Or9tEoslXqpZR6t3pulHnv4UvGoxg7j4Epv75yw/6PdiGpRaB4kY=
 diabetes.delivery.	3600	in	ns	ns1.dyna-ns.net.
 diabetes.delivery.	3600	in	ns	ns2.dyna-ns.net.
-diabeticmeals.delivery.	3600	in	ns	ns1.squadhelp.com.
-diabeticmeals.delivery.	3600	in	ns	ns2.squadhelp.com.
+diabeticmeals.delivery.	3600	in	ds	58279 13 2 CE3F3FD93C185F3994F77EE6D6792380C94AABA7203864D70F9C156D9A35E069
+diabeticmeals.delivery.	3600	in	ns	launch1.spaceship.net.
+diabeticmeals.delivery.	3600	in	ns	launch2.spaceship.net.
+diabeticmeals.delivery.	3600	in	rrsig	DS 8 2 3600 20251002042740 20250911032740 2469 delivery. 0EjkG+XtNdm/o+A1CfTcV3Kkww1lUwaIo2ORZnM8x6Jy6eb8yOpDwTrUAk8JmVUK4Eu5Tn2PZRrPRjHeIH8ZJRIAA094rrusj6BFO/pPwQ9TB/xeKc+sLmLwMr1kxGSMVTuEwY73rXGi8LQzg2JSIaFsWsBzfd69m1SRNeqlQag=
 diablopizza.delivery.	3600	in	ns	ns1.tecob.com.
 diablopizza.delivery.	3600	in	ns	ns2.tecob.com.
 diablopizza.delivery.	3600	in	ns	ns3.tecob.com.
@@ -5803,8 +5814,6 @@ doce-pedido.delivery.	3600	in	ns	ns1.dyna-ns.net.
 doce-pedido.delivery.	3600	in	ns	ns2.dyna-ns.net.
 docelavitta.delivery.	3600	in	ns	ns23.domaincontrol.com.
 docelavitta.delivery.	3600	in	ns	ns24.domaincontrol.com.
-docesdaju.delivery.	3600	in	ns	dylan.ns.cloudflare.com.
-docesdaju.delivery.	3600	in	ns	simone.ns.cloudflare.com.
 dock.delivery.	3600	in	ns	ns41.domaincontrol.com.
 dock.delivery.	3600	in	ns	ns42.domaincontrol.com.
 doctor.delivery.	3600	in	ds	47429 8 2 0A4E7CCAEF686FFF994A29DEE92ADF9C0432D08996E4C4AB4942486F62C4D270
@@ -6497,8 +6506,8 @@ ecatering.delivery.	3600	in	ns	dns1.registrar-servers.com.
 ecatering.delivery.	3600	in	ns	dns2.registrar-servers.com.
 ece.delivery.	3600	in	ns	ns1.dyna-ns.net.
 ece.delivery.	3600	in	ns	ns2.dyna-ns.net.
-ecg.delivery.	3600	in	ns	ns1.bodis.com.
-ecg.delivery.	3600	in	ns	ns2.bodis.com.
+ecg.delivery.	3600	in	ns	ns1.dns-redirect.com.
+ecg.delivery.	3600	in	ns	ns2.dns-redirect.com.
 echo.delivery.	3600	in	ns	ns1.crazydomains.com.
 echo.delivery.	3600	in	ns	ns2.crazydomains.com.
 echope.delivery.	3600	in	ns	ns61.domaincontrol.com.
@@ -6889,6 +6898,8 @@ equalexperts.delivery.	3600	in	ns	ns-1197.awsdns-21.org.
 equalexperts.delivery.	3600	in	ns	ns-2026.awsdns-61.co.uk.
 equalexperts.delivery.	3600	in	ns	ns-39.awsdns-04.com.
 equalexperts.delivery.	3600	in	ns	ns-867.awsdns-44.net.
+equity.delivery.	3600	in	ns	dns1.registrar-servers.com.
+equity.delivery.	3600	in	ns	dns2.registrar-servers.com.
 erewhon.delivery.	3600	in	ns	ns-1291.awsdns-33.org.
 erewhon.delivery.	3600	in	ns	ns-1988.awsdns-56.co.uk.
 erewhon.delivery.	3600	in	ns	ns-321.awsdns-40.com.
@@ -7107,8 +7118,8 @@ expensivegold.delivery.	3600	in	ns	ns1.dyna-ns.net.
 expensivegold.delivery.	3600	in	ns	ns2.dyna-ns.net.
 experience.delivery.	3600	in	ns	dns1.registrar-servers.com.
 experience.delivery.	3600	in	ns	dns2.registrar-servers.com.
-expert.delivery.	3600	in	ns	ns1.bodis.com.
-expert.delivery.	3600	in	ns	ns2.bodis.com.
+expert.delivery.	3600	in	ns	ns1.dns-redirect.com.
+expert.delivery.	3600	in	ns	ns2.dns-redirect.com.
 experthauling.delivery.	3600	in	ns	ns1.wordpress.com.
 experthauling.delivery.	3600	in	ns	ns2.wordpress.com.
 experthauling.delivery.	3600	in	ns	ns3.wordpress.com.
@@ -7177,8 +7188,8 @@ ezead.delivery.	3600	in	ns	ns69.domaincontrol.com.
 ezead.delivery.	3600	in	ns	ns70.domaincontrol.com.
 ezmail.delivery.	3600	in	ns	elma.ns.cloudflare.com.
 ezmail.delivery.	3600	in	ns	wesley.ns.cloudflare.com.
-ezmeals.delivery.	3600	in	ns	ns1.bodis.com.
-ezmeals.delivery.	3600	in	ns	ns2.bodis.com.
+ezmeals.delivery.	3600	in	ns	ns1.dns-redirect.com.
+ezmeals.delivery.	3600	in	ns	ns2.dns-redirect.com.
 ezy.delivery.	3600	in	ns	ns1.afternic.com.
 ezy.delivery.	3600	in	ns	ns2.afternic.com.
 f1q62484a2vuhb1urov8g7iuci242i7o.delivery.	3600	in	nsec3	1 1 0 73 F229NL7K7PVN87S28U52PI0UOEMPK4DM NS DS RRSIG
@@ -8181,12 +8192,12 @@ fsc.delivery.	3600	in	ns	ns-cloud-d2.googledomains.com.
 fsc.delivery.	3600	in	ns	ns-cloud-d3.googledomains.com.
 fsc.delivery.	3600	in	ns	ns-cloud-d4.googledomains.com.
 fsc.delivery.	3600	in	rrsig	DS 8 2 3600 20250930152057 20250909142057 2469 delivery. i/VgqWn0eq8G8HeqKjt2IW57zNa+pUlpHlxtKX1VVOAJk6c+kZZikdHokL8I8p3Ljye9TwdK4ytoJAEq9NpVv2QpY6cE5FwEK3/xR9AL1157Mf6unR9ywSEnN8OFM8H588niOrjBIFQL3CFu8rIoCVtnTNIKLGFS6185PgEDOOA=
-fsi-inc.delivery.	3600	in	ns	dns1.registrar-servers.com.
-fsi-inc.delivery.	3600	in	ns	dns2.registrar-servers.com.
-fsi.delivery.	3600	in	ns	dns1.registrar-servers.com.
-fsi.delivery.	3600	in	ns	dns2.registrar-servers.com.
-fsiinc.delivery.	3600	in	ns	dns1.registrar-servers.com.
-fsiinc.delivery.	3600	in	ns	dns2.registrar-servers.com.
+fsi-inc.delivery.	3600	in	ns	dns101.registrar-servers.com.
+fsi-inc.delivery.	3600	in	ns	dns102.registrar-servers.com.
+fsi.delivery.	3600	in	ns	dns101.registrar-servers.com.
+fsi.delivery.	3600	in	ns	dns102.registrar-servers.com.
+fsiinc.delivery.	3600	in	ns	dns101.registrar-servers.com.
+fsiinc.delivery.	3600	in	ns	dns102.registrar-servers.com.
 fsj.delivery.	3600	in	ns	ns45.domaincontrol.com.
 fsj.delivery.	3600	in	ns	ns46.domaincontrol.com.
 fslshipping.delivery.	3600	in	ns	ns1.a2hosting.com.
@@ -8316,8 +8327,8 @@ gabriel.delivery.	3600	in	ns	dns1.registrar-servers.com.
 gabriel.delivery.	3600	in	ns	dns2.registrar-servers.com.
 gacorzonadewacasino.delivery.	3600	in	ns	gene.ns.cloudflare.com.
 gacorzonadewacasino.delivery.	3600	in	ns	john.ns.cloudflare.com.
-gacorzonadewavegas.delivery.	3600	in	ns	gene.ns.cloudflare.com.
-gacorzonadewavegas.delivery.	3600	in	ns	john.ns.cloudflare.com.
+gacorzonadewavegas.delivery.	3600	in	ns	dns101.registrar-servers.com.
+gacorzonadewavegas.delivery.	3600	in	ns	dns102.registrar-servers.com.
 gacorzonalemacau.delivery.	3600	in	ns	gene.ns.cloudflare.com.
 gacorzonalemacau.delivery.	3600	in	ns	john.ns.cloudflare.com.
 gaew.delivery.	3600	in	ns	gwen.ns.cloudflare.com.
@@ -8527,6 +8538,8 @@ ggc.delivery.	3600	in	ns	ns1hnx.name.com.
 ggc.delivery.	3600	in	ns	ns2hkt.name.com.
 ggc.delivery.	3600	in	ns	ns3fgq.name.com.
 ggc.delivery.	3600	in	ns	ns4hny.name.com.
+ggperya.delivery.	3600	in	ns	ns31.domaincontrol.com.
+ggperya.delivery.	3600	in	ns	ns32.domaincontrol.com.
 ghost.delivery.	3600	in	ns	pdns1.registrar-servers.com.
 ghost.delivery.	3600	in	ns	pdns2.registrar-servers.com.
 ghostkitchen.delivery.	3600	in	ds	61085 8 2 3D2423C12501BDF648046E91A07DCDFF237899CC50C6602474512CE664BA3C22
@@ -10079,6 +10092,8 @@ in.delivery.	3600	in	ns	dns101.registrar-servers.com.
 in.delivery.	3600	in	ns	dns102.registrar-servers.com.
 in4.delivery.	3600	in	ns	ns7.worldnic.com.
 in4.delivery.	3600	in	ns	ns8.worldnic.com.
+inbound.delivery.	3600	in	ns	ns1.vercel-dns.com.
+inbound.delivery.	3600	in	ns	ns2.vercel-dns.com.
 inbox.delivery.	3600	in	ns	ns49.domaincontrol.com.
 inbox.delivery.	3600	in	ns	ns50.domaincontrol.com.
 inc.delivery.	3600	in	ns	ns1.dns-redirect.com.
@@ -10403,6 +10418,8 @@ iterate.delivery.	3600	in	ns	ns05.domaincontrol.com.
 iterate.delivery.	3600	in	ns	ns06.domaincontrol.com.
 its.delivery.	3600	in	ns	ns1.afternic.com.
 its.delivery.	3600	in	ns	ns2.afternic.com.
+itverge.delivery.	3600	in	ns	hayes.ns.cloudflare.com.
+itverge.delivery.	3600	in	ns	hera.ns.cloudflare.com.
 itz.delivery.	3600	in	ns	ns43.domaincontrol.com.
 itz.delivery.	3600	in	ns	ns44.domaincontrol.com.
 iupwvyhonklbq.delivery.	3600	in	ns	ns1.dyna-ns.net.
@@ -11211,8 +11228,8 @@ kurumeshi.delivery.	3600	in	ns	dns01.muumuu-domain.com.
 kurumeshi.delivery.	3600	in	ns	dns02.muumuu-domain.com.
 kush.delivery.	3600	in	ns	ns1.afternic.com.
 kush.delivery.	3600	in	ns	ns2.afternic.com.
-kushcall.delivery.	3600	in	ns	dns1.registrar-servers.com.
-kushcall.delivery.	3600	in	ns	dns2.registrar-servers.com.
+kushcall.delivery.	3600	in	ns	bart.ns.cloudflare.com.
+kushcall.delivery.	3600	in	ns	katja.ns.cloudflare.com.
 kushconnect.delivery.	3600	in	ns	pdns03.domaincontrol.com.
 kushconnect.delivery.	3600	in	ns	pdns04.domaincontrol.com.
 kushcult.delivery.	3600	in	ns	dns1.registrar-servers.com.
@@ -12241,8 +12258,8 @@ malts.delivery.	3600	in	ns	ns25.domaincontrol.com.
 malts.delivery.	3600	in	ns	ns26.domaincontrol.com.
 malware.delivery.	3600	in	ns	dns1.registrar-servers.com.
 malware.delivery.	3600	in	ns	dns2.registrar-servers.com.
-mama.delivery.	3600	in	ns	ns1.bodis.com.
-mama.delivery.	3600	in	ns	ns2.bodis.com.
+mama.delivery.	3600	in	ns	ns1.dns-redirect.com.
+mama.delivery.	3600	in	ns	ns2.dns-redirect.com.
 mamacocina.delivery.	3600	in	ns	ns1.dns-parking.com.
 mamacocina.delivery.	3600	in	ns	ns2.dns-parking.com.
 mamadou.delivery.	3600	in	ns	braelyn.ns.cloudflare.com.
@@ -13052,10 +13069,8 @@ mlog.delivery.	3600	in	ns	pid1.srv53.net.
 mlog.delivery.	3600	in	ns	pid2.srv53.org.
 mm.delivery.	3600	in	ns	pdns01.domaincontrol.com.
 mm.delivery.	3600	in	ns	pdns02.domaincontrol.com.
-mm2.delivery.	3600	in	ns	dns1.p01.nsone.net.
-mm2.delivery.	3600	in	ns	dns2.p01.nsone.net.
-mm2.delivery.	3600	in	ns	dns3.p01.nsone.net.
-mm2.delivery.	3600	in	ns	dns4.p01.nsone.net.
+mm2.delivery.	3600	in	ns	dns101.registrar-servers.com.
+mm2.delivery.	3600	in	ns	dns102.registrar-servers.com.
 mm99.delivery.	3600	in	ns	ns41.domaincontrol.com.
 mm99.delivery.	3600	in	ns	ns42.domaincontrol.com.
 mmd.delivery.	3600	in	ns	dns1.registrar-servers.com.
@@ -13211,8 +13226,8 @@ moondust.delivery.	3600	in	ns	ns-cloud-e1.googledomains.com.
 moondust.delivery.	3600	in	ns	ns-cloud-e2.googledomains.com.
 moondust.delivery.	3600	in	ns	ns-cloud-e3.googledomains.com.
 moondust.delivery.	3600	in	ns	ns-cloud-e4.googledomains.com.
-moonlight.delivery.	3600	in	ns	ns1.bodis.com.
-moonlight.delivery.	3600	in	ns	ns2.bodis.com.
+moonlight.delivery.	3600	in	ns	ns1.dns-redirect.com.
+moonlight.delivery.	3600	in	ns	ns2.dns-redirect.com.
 moonlighters.delivery.	3600	in	ns	ns05.domaincontrol.com.
 moonlighters.delivery.	3600	in	ns	ns06.domaincontrol.com.
 moonrunner.delivery.	3600	in	ns	ns77.domaincontrol.com.
@@ -13390,8 +13405,8 @@ muffincrumble.delivery.	3600	in	ns	ns63.domaincontrol.com.
 muffincrumble.delivery.	3600	in	ns	ns64.domaincontrol.com.
 mukuru.delivery.	3600	in	ns	ns15.domaincontrol.com.
 mukuru.delivery.	3600	in	ns	ns16.domaincontrol.com.
-mulch.delivery.	3600	in	ns	pdns05.domaincontrol.com.
-mulch.delivery.	3600	in	ns	pdns06.domaincontrol.com.
+mulch.delivery.	3600	in	ns	ns37.domaincontrol.com.
+mulch.delivery.	3600	in	ns	ns38.domaincontrol.com.
 mule.delivery.	3600	in	ns	ns1.dns-redirect.com.
 mule.delivery.	3600	in	ns	ns2.dns-redirect.com.
 mules.delivery.	3600	in	ns	dns1.registrar-servers.com.
@@ -13400,9 +13415,6 @@ multi.delivery.	3600	in	ns	ns1.afternic.com.
 multi.delivery.	3600	in	ns	ns2.afternic.com.
 multicanais.delivery.	3600	in	ns	dns1.registrar-servers.com.
 multicanais.delivery.	3600	in	ns	dns2.registrar-servers.com.
-multiculti.delivery.	3600	in	ns	ns.udag.de.
-multiculti.delivery.	3600	in	ns	ns.udag.net.
-multiculti.delivery.	3600	in	ns	ns.udag.org.
 multitrack.delivery.	3600	in	ns	dns1.registrar-servers.com.
 multitrack.delivery.	3600	in	ns	dns2.registrar-servers.com.
 mumbaispirits.delivery.	3600	in	ds	39904 8 2 E434528B9B77173DEC3757E2029832189BD66DD299439BAFDD910AC2465997BB
@@ -13777,8 +13789,8 @@ natuacai.delivery.	3600	in	ns	ns2.dns-parking.com.
 naturalflow.delivery.	3600	in	ns	1-you.njalla.no.
 naturalflow.delivery.	3600	in	ns	2-can.njalla.in.
 naturalflow.delivery.	3600	in	ns	3-get.njalla.fo.
-nature.delivery.	3600	in	ns	ns1.siteground.net.
-nature.delivery.	3600	in	ns	ns2.siteground.net.
+nature.delivery.	3600	in	ns	ns1.dyna-ns.net.
+nature.delivery.	3600	in	ns	ns2.dyna-ns.net.
 natures.delivery.	3600	in	ns	ns73.domaincontrol.com.
 natures.delivery.	3600	in	ns	ns74.domaincontrol.com.
 naturns.delivery.	3600	in	ns	dns1.p05.nsone.net.
@@ -14688,6 +14700,8 @@ oneshopdrop.delivery.	3600	in	ns	maceio.ns.porkbun.com.
 oneshopdrop.delivery.	3600	in	ns	salvador.ns.porkbun.com.
 onespot.delivery.	3600	in	ns	ns73.domaincontrol.com.
 onespot.delivery.	3600	in	ns	ns74.domaincontrol.com.
+onestop.delivery.	3600	in	ns	ns1.dns-redirect.com.
+onestop.delivery.	3600	in	ns	ns2.dns-redirect.com.
 oneworldglobal.delivery.	3600	in	ns	dns101.register.com.
 oneworldglobal.delivery.	3600	in	ns	dns102.register.com.
 onex.delivery.	3600	in	ns	maeve.ns.cloudflare.com.
@@ -15542,8 +15556,8 @@ pharm.delivery.	3600	in	ns	ns2.dns-true.com.
 pharm.delivery.	3600	in	ns	ns2.true-public.com.
 pharma.delivery.	3600	in	ns	ns1.afternic.com.
 pharma.delivery.	3600	in	ns	ns2.afternic.com.
-pharmacie.delivery.	3600	in	ns	ns1.bodis.com.
-pharmacie.delivery.	3600	in	ns	ns2.bodis.com.
+pharmacie.delivery.	3600	in	ns	ns1.dns-redirect.com.
+pharmacie.delivery.	3600	in	ns	ns2.dns-redirect.com.
 pharmacy.delivery.	3600	in	ns	ns01.cashparking.com.
 pharmacy.delivery.	3600	in	ns	ns02.cashparking.com.
 pharmacyplus.delivery.	3600	in	ns	ns59.domaincontrol.com.
@@ -16321,8 +16335,8 @@ propanect.delivery.	3600	in	ns	dns1.registrar-servers.com.
 propanect.delivery.	3600	in	ns	dns2.registrar-servers.com.
 proparcel.delivery.	3600	in	ns	ns3.afternic.com.
 proparcel.delivery.	3600	in	ns	ns4.afternic.com.
-property.delivery.	3600	in	ns	ns1.atom.com.
-property.delivery.	3600	in	ns	ns2.atom.com.
+property.delivery.	3600	in	ns	ns1.dyna-ns.net.
+property.delivery.	3600	in	ns	ns2.dyna-ns.net.
 prophecy.delivery.	3600	in	ns	ns65.domaincontrol.com.
 prophecy.delivery.	3600	in	ns	ns66.domaincontrol.com.
 prophetcannabis.delivery.	3600	in	ns	ns59.domaincontrol.com.
@@ -16444,8 +16458,8 @@ puressentiel.delivery.	3600	in	ns	ns-225-c.gandi.net.
 puressentiel.delivery.	3600	in	ns	ns-237-b.gandi.net.
 purolator.delivery.	3600	in	ns	dns1.registrar-servers.com.
 purolator.delivery.	3600	in	ns	dns2.registrar-servers.com.
-purple.delivery.	3600	in	ns	ns1.bodis.com.
-purple.delivery.	3600	in	ns	ns2.bodis.com.
+purple.delivery.	3600	in	ns	ns1.dns-redirect.com.
+purple.delivery.	3600	in	ns	ns2.dns-redirect.com.
 push.delivery.	3600	in	ns	nsa4.schlundtech.de.
 push.delivery.	3600	in	ns	nsb4.schlundtech.de.
 push.delivery.	3600	in	ns	nsc4.schlundtech.de.
@@ -17162,8 +17176,8 @@ robotpackage.delivery.	3600	in	ns	ns2.uniregistry-dns.com.
 robotpackage.delivery.	3600	in	ns	ns2.uniregistry-dns.net.
 robots.delivery.	3600	in	ns	ns1.sedoparking.com.
 robots.delivery.	3600	in	ns	ns2.sedoparking.com.
-rock.delivery.	3600	in	ns	pdns05.domaincontrol.com.
-rock.delivery.	3600	in	ns	pdns06.domaincontrol.com.
+rock.delivery.	3600	in	ns	ns37.domaincontrol.com.
+rock.delivery.	3600	in	ns	ns38.domaincontrol.com.
 rocket.delivery.	3600	in	ns	ns1.dyna-ns.net.
 rocket.delivery.	3600	in	ns	ns2.dyna-ns.net.
 rocketeer.delivery.	3600	in	ds	25053 13 1 6C80176BE340FA3F0C44655DB1D914352EE2AB6F
@@ -17490,8 +17504,8 @@ sanang.delivery.	3600	in	ns	maceio.ns.porkbun.com.
 sanang.delivery.	3600	in	ns	salvador.ns.porkbun.com.
 sanantonio.delivery.	3600	in	ns	buynow.nametime.com.
 sanantonio.delivery.	3600	in	ns	forsale.nametime.com.
-sand.delivery.	3600	in	ns	pdns05.domaincontrol.com.
-sand.delivery.	3600	in	ns	pdns06.domaincontrol.com.
+sand.delivery.	3600	in	ns	ns25.domaincontrol.com.
+sand.delivery.	3600	in	ns	ns26.domaincontrol.com.
 sandiego.delivery.	3600	in	ns	ns69.domaincontrol.com.
 sandiego.delivery.	3600	in	ns	ns70.domaincontrol.com.
 sandimasweed.delivery.	3600	in	ns	dns1.registrar-servers.com.
@@ -17502,8 +17516,8 @@ sandwich.delivery.	3600	in	ns	ns1.markmonitor.com.
 sandwich.delivery.	3600	in	ns	ns2.markmonitor.com.
 sanfranciscoflower.delivery.	3600	in	ns	darl.ns.cloudflare.com.
 sanfranciscoflower.delivery.	3600	in	ns	liberty.ns.cloudflare.com.
-sang.delivery.	3600	in	ns	ns1.bodis.com.
-sang.delivery.	3600	in	ns	ns2.bodis.com.
+sang.delivery.	3600	in	ns	ns1.dns-redirect.com.
+sang.delivery.	3600	in	ns	ns2.dns-redirect.com.
 sangiovese.delivery.	3600	in	ns	curitiba.ns.porkbun.com.
 sangiovese.delivery.	3600	in	ns	fortaleza.ns.porkbun.com.
 sangiovese.delivery.	3600	in	ns	maceio.ns.porkbun.com.
@@ -17907,8 +17921,8 @@ serverless.delivery.	3600	in	ns	ns-1470.awsdns-55.org.
 serverless.delivery.	3600	in	ns	ns-1914.awsdns-47.co.uk.
 serverless.delivery.	3600	in	ns	ns-888.awsdns-47.net.
 serverless.delivery.	3600	in	rrsig	DS 8 2 3600 20250930152057 20250909142057 2469 delivery. OsOj6TUdN8WlNS+1DFpPRh5RZhq81niB/Bjkjg6sT4p6LppEVb2Gep+5pnNCQAtoJUR1A9uriYmEm4A61qIPnf11ppmnMhWNmm9rKAIldUWejBI6JdQmiIk+pzko1j+wMlb/qW3vbpfPf/iCb7sM5sKdVluOeClakOLvUs4WZog=
-service-dhi.delivery.	3600	in	ns	ns1.service-dhi.center.
-service-dhi.delivery.	3600	in	ns	ns2.service-dhi.center.
+service-dhi.delivery.	3600	in	ns	ns1.all-harmless.domains.
+service-dhi.delivery.	3600	in	ns	ns2.all-harmless.domains.
 service-map.delivery.	3600	in	ns	ns1.service-locate.app.
 service-map.delivery.	3600	in	ns	ns2.service-locate.app.
 service.delivery.	3600	in	ns	ns1.sedoparking.com.
@@ -17919,8 +17933,8 @@ services.cos.batch.delivery.	3600	in	a	15.207.219.243
 services.mss.batch.delivery.	3600	in	a	15.207.216.153
 services.pis.batch.delivery.	3600	in	a	15.207.218.186
 services.uds.batch.delivery.	3600	in	a	15.207.141.168
-servicestation.delivery.	3600	in	ns	ns1.servicestation.delivery.
-servicestation.delivery.	3600	in	ns	ns2.servicestation.delivery.
+servicestation.delivery.	3600	in	ns	ns1.all-harmless.domains.
+servicestation.delivery.	3600	in	ns	ns2.all-harmless.domains.
 servicio.delivery.	3600	in	ns	dns1.registrar-servers.com.
 servicio.delivery.	3600	in	ns	dns2.registrar-servers.com.
 servito.delivery.	3600	in	ns	dns1.netsons.net.
@@ -18572,8 +18586,8 @@ sobefoodcon.delivery.	3600	in	ns	dns4.name-services.com.
 sobefoodcon.delivery.	3600	in	ns	dns5.name-services.com.
 soberup.delivery.	3600	in	ns	ns37.domaincontrol.com.
 soberup.delivery.	3600	in	ns	ns38.domaincontrol.com.
-sobolev.delivery.	3600	in	ns	ns1.bodis.com.
-sobolev.delivery.	3600	in	ns	ns2.bodis.com.
+sobolev.delivery.	3600	in	ns	ns1.dns-redirect.com.
+sobolev.delivery.	3600	in	ns	ns2.dns-redirect.com.
 social.delivery.	3600	in	ns	ns15.domaincontrol.com.
 social.delivery.	3600	in	ns	ns16.domaincontrol.com.
 socialmedia.delivery.	3600	in	ns	jo.ns.cloudflare.com.
@@ -18582,8 +18596,8 @@ socialshopping.delivery.	3600	in	ns	dns1.registrar-servers.com.
 socialshopping.delivery.	3600	in	ns	dns2.registrar-servers.com.
 soctrip.delivery.	3600	in	ns	dns1.registrar-servers.com.
 soctrip.delivery.	3600	in	ns	dns2.registrar-servers.com.
-sod.delivery.	3600	in	ns	pdns05.domaincontrol.com.
-sod.delivery.	3600	in	ns	pdns06.domaincontrol.com.
+sod.delivery.	3600	in	ns	ns47.domaincontrol.com.
+sod.delivery.	3600	in	ns	ns48.domaincontrol.com.
 sodapop.delivery.	3600	in	ns	ns59.domaincontrol.com.
 sodapop.delivery.	3600	in	ns	ns60.domaincontrol.com.
 sodexo.delivery.	3600	in	ns	dns1.cscdns.net.
@@ -20726,8 +20740,8 @@ ufa.delivery.	3600	in	ns	ns55.domaincontrol.com.
 ufa.delivery.	3600	in	ns	ns56.domaincontrol.com.
 ufa222.delivery.	3600	in	ns	ns55.domaincontrol.com.
 ufa222.delivery.	3600	in	ns	ns56.domaincontrol.com.
-ufabet.delivery.	3600	in	ns	ns1.bodis.com.
-ufabet.delivery.	3600	in	ns	ns2.bodis.com.
+ufabet.delivery.	3600	in	ns	ns1.dns-redirect.com.
+ufabet.delivery.	3600	in	ns	ns2.dns-redirect.com.
 ufabet168.delivery.	3600	in	ns	dns1.registrar-servers.com.
 ufabet168.delivery.	3600	in	ns	dns2.registrar-servers.com.
 ufabet222.delivery.	3600	in	ns	ns21.domaincontrol.com.
@@ -21081,8 +21095,8 @@ v9bet.delivery.	3600	in	ns	everton.ns.cloudflare.com.
 v9bet.delivery.	3600	in	ns	julissa.ns.cloudflare.com.
 vacaymeals.delivery.	3600	in	ns	ns15.domaincontrol.com.
 vacaymeals.delivery.	3600	in	ns	ns16.domaincontrol.com.
-val.delivery.	3600	in	ns	ns1.bodis.com.
-val.delivery.	3600	in	ns	ns2.bodis.com.
+val.delivery.	3600	in	ns	ns1.dns-redirect.com.
+val.delivery.	3600	in	ns	ns2.dns-redirect.com.
 valencia.delivery.	3600	in	ds	49645 8 2 919F6C57685F923278314C6E52EA07A24772B0F615AD097879C28BF8D15D794E
 valencia.delivery.	3600	in	ns	ns-cloud-c1.googledomains.com.
 valencia.delivery.	3600	in	ns	ns-cloud-c2.googledomains.com.
@@ -21525,8 +21539,8 @@ w3w.delivery.	3600	in	ns	ns1vwx.name.com.
 w3w.delivery.	3600	in	ns	ns2kqz.name.com.
 w3w.delivery.	3600	in	ns	ns3gmv.name.com.
 w3w.delivery.	3600	in	ns	ns4cjp.name.com.
-w88.delivery.	3600	in	ns	ns1.bodis.com.
-w88.delivery.	3600	in	ns	ns2.bodis.com.
+w88.delivery.	3600	in	ns	ns1.dns-redirect.com.
+w88.delivery.	3600	in	ns	ns2.dns-redirect.com.
 wa.delivery.	3600	in	ns	nora.ns.cloudflare.com.
 wa.delivery.	3600	in	ns	seth.ns.cloudflare.com.
 wabiz.delivery.	3600	in	ns	cleo.ns.cloudflare.com.
@@ -21838,8 +21852,8 @@ wheretogo.delivery.	3600	in	ns	ns.udag.net.
 wheretogo.delivery.	3600	in	ns	ns.udag.org.
 whisky.delivery.	3600	in	ns	ns1.web-shop.domains.
 whisky.delivery.	3600	in	ns	ns2.web-shop.domains.
-whistler.delivery.	3600	in	ns	ns1.bodis.com.
-whistler.delivery.	3600	in	ns	ns2.bodis.com.
+whistler.delivery.	3600	in	ns	ns1.dns-redirect.com.
+whistler.delivery.	3600	in	ns	ns2.dns-redirect.com.
 white.delivery.	3600	in	ns	carter.ns.cloudflare.com.
 white.delivery.	3600	in	ns	cruz.ns.cloudflare.com.
 whiteglove.delivery.	3600	in	ns	ns19.domaincontrol.com.
@@ -22162,6 +22176,10 @@ xlr8.delivery.	3600	in	ns	ns54.domaincontrol.com.
 xm.delivery.	3600	in	ns	ns1.domaindiscount24.net.
 xm.delivery.	3600	in	ns	ns2.domaindiscount24.net.
 xm.delivery.	3600	in	ns	ns3.domaindiscount24.net.
+xmtp.delivery.	3600	in	ns	curitiba.ns.porkbun.com.
+xmtp.delivery.	3600	in	ns	fortaleza.ns.porkbun.com.
+xmtp.delivery.	3600	in	ns	maceio.ns.porkbun.com.
+xmtp.delivery.	3600	in	ns	salvador.ns.porkbun.com.
 xn--biogs-0qa.delivery.	3600	in	ns	ns1.dyna-ns.net.
 xn--biogs-0qa.delivery.	3600	in	ns	ns2.dyna-ns.net.
 xn--d1amt3c.delivery.	3600	in	ns	ns1.hosting.reg.ru.
@@ -22631,4 +22649,4 @@ zynvero.delivery.	3600	in	ns	launch2.spaceship.net.
 zynvero.delivery.	3600	in	rrsig	DS 8 2 3600 20250930152057 20250909142057 2469 delivery. YmX0UAsrG30YhwoP+HxIaD2dMl0PUEPByafdIZYf7/jU54VD5KRHxNhma2UXwk9gB5rN/RiyENtO1SwlARXSxh20oa/VEHPvw3M6A690hzkUCu77lTRdUX15SuP3z/ysE+WsLyrax5FTu61WQPWBCDUZHWSKnE2Oc3dlUFjiTlE=
 zz.delivery.	3600	in	ns	ns1.afternic.com.
 zz.delivery.	3600	in	ns	ns2.afternic.com.
-delivery.	3600	in	soa	v0n0.nic.delivery. hostmaster.donuts.email. 1757552661 7200 900 1209600 3600
+delivery.	3600	in	soa	v0n0.nic.delivery. hostmaster.donuts.email. 1757638870 7200 900 1209600 3600
