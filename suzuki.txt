@@ -1,4 +1,4 @@
-suzuki.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757551606 1800 900 604800 3600
+suzuki.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757639901 1800 900 604800 3600
 2ra7ithhqhup3vl7p3v5nrbi17v444vk.suzuki.	3600	in	nsec3	1 0 0 - 3PREGHOGH54OQIDA25PMLHD89QI60QJU NS
 2ra7ithhqhup3vl7p3v5nrbi17v444vk.suzuki.	3600	in	rrsig	NSEC3 8 2 3600 20250917140633 20250910205138 60685 suzuki. hRc0pKXE+p27Xy5bNs+xyO6LbzfJi4olYDuzFWQjQmQdq+YNMp/9E6mHBpkaE13TexrrW489GXVz8tK+JqS69xHA/r6qRCOJeFXghSXzYqE4z5S661+Ba0mvX/tJLXT6QXe9mwmETzWaViS6zRasdhYGh9+H9UvHYDdm3zbAO5M=
 3preghogh54oqida25pmlhd89qi60qju.suzuki.	3600	in	nsec3	1 0 0 - 5NECBFLGIA1972NNRSQ1JNCBCDJACJUF NS
@@ -11,9 +11,9 @@ suzuki.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757551606 1800 900
 7rftihaef8050fvhuqeidjvdog14g80b.suzuki.	3600	in	rrsig	NSEC3 8 2 3600 20250917183342 20250910205138 60685 suzuki. mC2aN7b2pSWzPNV6nWg27M7JkD8DtvQ2BYiTBqVrcPM+JyaSbReFjruSjNmy3D86o3PlINlYohE/l3q7hN877dYM+w7gGjOpv37BzPGHVvtzHUtxjTxVMDV59YicWde/oyTbrYONdi5htl/5HSbIrf6+rB7hCgWnaxDsWvBxocg=
 9lncjf29cciunfkt9schf5a65ekqvnjb.suzuki.	3600	in	nsec3	1 0 0 - BE2NBJB3FNBS3NSPICG3ONFHV5AH1M0Q NS
 9lncjf29cciunfkt9schf5a65ekqvnjb.suzuki.	3600	in	rrsig	NSEC3 8 2 3600 20250917225824 20250910205138 60685 suzuki. yYY8D9mfUlA+JUYgA8bVW8UkuyND72m2brhx8hOxaPn2GEbYtIS7N5FfEw1pEgRW8H/8SC4ySn0xbBM/2Vu2SofIiuys+2ee+tZbC2uQ8T1nCfMiBRAnw5G3NWxYHUzkFrwc+8P3LQYZ+3JPuBpl+b/Ffc2+qkyBfJgcjX58Tnc=
-__zone_status.suzuki.	0	in	rrsig	TXT 8 2 0 20250917200734 20250910234612 60685 suzuki. QzV0LhfpybgXUIaWFR/VfdXegZtjGsGQW8vpC3jRIsIxvdaOudyypB3Np/HSz9dRTbUAM5Rwqe3esrkMee0aBNoVYuVT0rxREP1Rwkxekz9b9KExlppId9gw9Q1co5+af+mUlPEQS8aHmuJYB1Xv5LkdVuZpAka+kP3r7KrlOvs=
-__zone_status.suzuki.	0	in	txt	"original-serial=76033"
-__zone_status.suzuki.	0	in	txt	"original-timestamp=1757551572.26573"
+__zone_status.suzuki.	0	in	rrsig	TXT 8 2 0 20250918154100 20250912001812 60685 suzuki. UniEecPwLz0qE82APZxWEjp31pxZ5T7usuK84N4aWmHYolbYto0lRVt54HRMs713aZqukuk9VJv/fB3kaPKLyGB1nyfn6HCcdxiBGls4UlJgs7pIWZ2qgfcrmTlPTdzXLoJoERzrw7ewibFW8kbr48dprdwXNrP4QSeEzDiDHX8=
+__zone_status.suzuki.	0	in	txt	"original-serial=76056"
+__zone_status.suzuki.	0	in	txt	"original-timestamp=1757639892.76254"
 apps.suzuki.	86400	in	ns	dns-b.iij.ad.jp.
 apps.suzuki.	86400	in	ns	dns-c.iij.ad.jp.
 be2nbjb3fnbs3nspicg3onfhv5ah1m0q.suzuki.	3600	in	nsec3	1 0 0 - DQG79GS36UJQKV3KHI4P8D8N53JL1BUG NS
@@ -94,7 +94,7 @@ suzuki.	86400	in	ns	k.gmoregistry.net.
 suzuki.	86400	in	ns	l.gmoregistry.net.
 suzuki.	86400	in	rrsig	DNSKEY 8 1 86400 20250917175146 20250910205138 33941 suzuki. iIGaSD2oa7tZQ3qaARb94ThbwIm9Fa/xg/8b/Bz/dYOAAMpLr+pHUrGcY/QwbPzbAHlaAZyJJ+2TUdBLlG4DFvweoq+x2xaBneoWR2iD31qPAJpSfFoqT7HmpQDU0w5bu8Sl7EVhZ+vdZXomKMHr/LUovAz6I7iNRCeJuuMKQtSU8DULLi3l4Msk5ip8/ssxnGKC37K0HJAMTZuN19tuqeeNtqt4FGNCkjQ34QgYPD1WB3FAhStL7O9CIuZlLyXTUJF6p5lOGccsHUWQIVbRO8dt844Q/uoc+RThMZfIacKbh7Ad3lX7hWFlqmW/R+2cg/99ZAiOpDemN0qwRHrJ4g==
 suzuki.	86400	in	rrsig	NS 8 1 86400 20250918084738 20250910205138 60685 suzuki. IYi7hnUvpmKm/e+UBURPDIOJm/uC6f6P1PQIzQgf+mhKLfiK5fxq0uvhb9ZiBuzDwvZFZqOI8uOJ95it/uzkIliMBSmetq+gfTuBC6I8w0l3+PK4phUoLGi+FzOy+TtRLS5+/bIbo+nHsAcehVedBHhUToG69kSIX2ayyj/W9jI=
-suzuki.	86400	in	rrsig	SOA 8 1 86400 20250917171106 20250910234612 60685 suzuki. QoY7Rh3gQN5yfTl26zVF9k057XavMAN2yi8Z2qNAN6+bk2JGmtvG94XD551PBcONgcPM8yeyqHrCvKchNmyTXd/xzcS+YoPoNKWbsSfIlVB23BL5NTNaHIq+5/g9jIvmW0DestwoX3bI6WxoxdWak9X/7MT/+wyyeGBomFNJsh8=
+suzuki.	86400	in	rrsig	SOA 8 1 86400 20250919042549 20250912001812 60685 suzuki. PNnMv66JVo5EUKaMeMSXMKVj+zuyMitY3ZZUwEsRKGxKu/UQCDtm1rKr2AcvncBmq6WwINpml5CzNYwE3d2PYXDISvBYTp9xjoP5caKJwFN4z4KpyhRq9MMU8k1sAx8T6IVz3bGAdhyrsJlG1TPljuo//fvr/YAMSXks9hYqtX4=
 team.suzuki.	86400	in	ns	a1-203.akam.net.
 team.suzuki.	86400	in	ns	a12-64.akam.net.
 team.suzuki.	86400	in	ns	a20-65.akam.net.
@@ -103,4 +103,4 @@ team.suzuki.	86400	in	ns	a3-67.akam.net.
 team.suzuki.	86400	in	ns	a7-64.akam.net.
 v7kou1q7ji04k4a83uj0eotabav5meqs.suzuki.	3600	in	nsec3	1 0 0 - 2RA7ITHHQHUP3VL7P3V5NRBI17V444VK NS
 v7kou1q7ji04k4a83uj0eotabav5meqs.suzuki.	3600	in	rrsig	NSEC3 8 2 3600 20250917095644 20250910205138 60685 suzuki. u2P3+UlOsqxB4drhNsJ5gULMUWepJr4RAVxnBL9JNVSpRmLIoNDrvw+ZrUC9dJH9vz7+ZZikBUFOgQuN3QEy6ZIM9VrA9xXGBhfJNxqY1E62fCzRxIkkoi1xIQ8jSI24WhTeoRVGSvlasIzsPuc8mSUvhZ/znWPeEqXzKGg94KY=
-suzuki.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757551606 1800 900 604800 3600
+suzuki.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757639901 1800 900 604800 3600
