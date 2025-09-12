@@ -1,4 +1,4 @@
-forex.	3600	in	soa	v0n0.nic.forex. hostmaster.donuts.email. 1757552695 7200 900 1209600 3600
+forex.	3600	in	soa	v0n0.nic.forex. hostmaster.donuts.email. 1757638901 7200 900 1209600 3600
 030091.forex.	3600	in	ns	ns1.dyna-ns.net.
 030091.forex.	3600	in	ns	ns2.dyna-ns.net.
 09ajcd0u3lvagn5nvnq7kqfbo79tdd50.forex.	3600	in	nsec3	1 1 0 73 0U6G170NR2TG4KAP6ONAKJH0S4QGE0CQ NS DS RRSIG
@@ -92,7 +92,7 @@ forex.	3600	in	soa	v0n0.nic.forex. hostmaster.donuts.email. 1757552695 7200 900 
 4ex.forex.	3600	in	ns	dns1.registrar-servers.com.
 4ex.forex.	3600	in	ns	dns2.registrar-servers.com.
 4ff8f9lfnpsla87i0kinrujgbrdfboli.forex.	3600	in	nsec3	1 1 0 73 4VVU6RE4OUTQS9JEB89JEK8684BQLJEM NS SOA RRSIG DNSKEY NSEC3PARAM
-4ff8f9lfnpsla87i0kinrujgbrdfboli.forex.	3600	in	rrsig	NSEC3 8 2 3600 20251002010712 20250911000712 22275 forex. vzOaxMrQ8NpS6sXctzJ1JCNqxh/SfzRXQzd/Q1a3fIotnx9VecBil4guu0SABTUPqcs/6cXt5U9vqBRd+/vK75cIWlJqDJzcfU+S1P+BZ00OcHnrJ5LjW0HzlHxwZqoNZbGCm992MPrZD/scPB1cTZc2IuykV6mF6KAX/AC6O2U=
+4ff8f9lfnpsla87i0kinrujgbrdfboli.forex.	3600	in	rrsig	NSEC3 8 2 3600 20251003010351 20250912000351 22275 forex. f0Pjkpdg0tcIbEXQHyFRaQRBKtoJP7P7BDIYppNtDXmKw/B1l9rAWgpNHdhef+/VsJOZAdWUrNqJcZhmBmZm7PgBRc01y27e2eH7u48v/6V/EZ7PBq8p3Y+Rsmhez2NswQT576KgDd6mwkrzlvAAORrUrd4cUq9Ch84aRQKmiD4=
 4vvu6re4outqs9jeb89jek8684bqljem.forex.	3600	in	nsec3	1 1 0 73 6MNT9G3MPIDIC5N0FDQ6P088QRVH91V0 NS DS RRSIG
 4vvu6re4outqs9jeb89jek8684bqljem.forex.	3600	in	rrsig	NSEC3 8 2 3600 20250930152859 20250909142859 22275 forex. A0DF8pVF/RWsTu9D5HLJLZOYl2HqTsqIyPw4FZdyocVY91Rd1jyPnBJ+A+LUtJm0G9fs63xFBGWr1/dvryHDbDkjPN05qi99lddoFATVxu17/tPr8dzSGuS6cVC4P7Xt5Qm0paSgc2ErRPuFIxzd7/cuDxeMQl3IiW4kisxNoto=
 54052.forex.	3600	in	ns	dns1.registrar-servers.com.
@@ -303,6 +303,8 @@ alternative.forex.	3600	in	ns	ns-39-c.gandi.net.
 amarkets.forex.	3600	in	ns	ns1.101domain.com.
 amarkets.forex.	3600	in	ns	ns2.101domain.com.
 amarkets.forex.	3600	in	ns	ns5.101domain.com.
+aml.forex.	3600	in	ns	dns1.registrar-servers.com.
+aml.forex.	3600	in	ns	dns2.registrar-servers.com.
 analisa.forex.	3600	in	ns	ns1.siteground.net.
 analisa.forex.	3600	in	ns	ns2.siteground.net.
 anaume.forex.	3600	in	ns	dns1.registrar-servers.com.
@@ -1020,8 +1022,8 @@ emcfzd.forex.	3600	in	ns	ns1.dnsip.com.
 emcfzd.forex.	3600	in	ns	ns2.dnsip.com.
 emirate.forex.	3600	in	ns	ns1.sedoparking.com.
 emirate.forex.	3600	in	ns	ns2.sedoparking.com.
-emirates.forex.	3600	in	ns	ns1.sedoparking.com.
-emirates.forex.	3600	in	ns	ns2.sedoparking.com.
+emirates.forex.	3600	in	ns	dns101.registrar-servers.com.
+emirates.forex.	3600	in	ns	dns102.registrar-servers.com.
 emoji.forex.	3600	in	ns	curitiba.ns.porkbun.com.
 emoji.forex.	3600	in	ns	fortaleza.ns.porkbun.com.
 emoji.forex.	3600	in	ns	maceio.ns.porkbun.com.
@@ -1164,7 +1166,7 @@ forex.	3600	in	nsec3param	1 0 0 73
 forex.	3600	in	rrsig	DNSKEY 8 1 3600 20250930152859 20250909142859 37024 forex. Lb4PzHn7OchaMI+pL62VlvIBo0U9dAns2A0quyQHrkBq7FOG/n89wDQuBpAt/I0iTt439VK9pxnp2nFDeY8JG5YzV7yr2ibRmvQ9hteVIG0yF2EpxyqLp4KIdIe1lOjtiWtOmOu2drP13FOmLeWk+sGXSZzYA4iZcJK8kIEGvkFjIVLXOuQ44C0PgvOaeIfTjgs+knR/Xbxl5APpSz2Qw3lxwNKVM1fkOmijuu9JzhJgBIwM6tZqmnOGHqcnJ8aNpItCTzMFNQo3BzsTCnZv/LGhsIDPyd+Tw1+rPmu5bvJpRKK2B+CzK8OpZ3FlGq0KomLDdzINXxn71PY43swbsQ==
 forex.	3600	in	rrsig	NS 8 1 3600 20250930152859 20250909142859 22275 forex. GgojbRfPE+JeMgZK5NyKcHNGZXaVCWeB3ocemgbfSYJzE3fnq99KLxSxkNPX6tfJHu21adYgqf4z0fvn+W5d2PgtVjDbb2yGdGFAtRLdgLE3cQeXcpMoVimibPylR76uuPtQgHX5vYZxJDGRdBOWSiKbFIT6zTujkyZV6N13j/k=
 forex.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930152859 20250909142859 22275 forex. I7tRRcnBEANNH/UYQNp/2ltZ2B87iKAPw0PiGMyCmli8tdZ/tJb+v1qtET7yVNLv2dW9ijzfnu4PSb4doTuceX1ouyriQmgbDHSHWXg/XWBhkmWIgWhrgZuryr0S5SDnrxJtj9N0msogi/88b1TQ2dKah19nPl2/UiJuE9FYMyY=
-forex.	3600	in	rrsig	SOA 8 1 3600 20251002010712 20250911000712 22275 forex. 1MAa8tVB/S8CT18QNpig5DUDlLsKMwZg2Ak6yi1nvMOEshorEQevKWiTdB30mh5/P5QnKGDPfXFitNMi2j8v98epv54Fhz8qNl8bArsXeXGBDnmbjxPKMvi6gsjsKl7O1CBhtwiW3jPZal5Iz6PR7HLnfEewfFoaZToka0ETmMg=
+forex.	3600	in	rrsig	SOA 8 1 3600 20251003010351 20250912000351 22275 forex. I+GCK9nzwQTSENn1YXVUZhTAE7ksgYzgXjP1hwykGpfWQNQniKSTIVIhmLqq2n2zF0NaaeohZrID94eEpzkgZVimDalHsdodnnv4A+ZXgrjvoRxpZJ3eaRQX9w6cFe/1i7+Cl2vN3zMzXv6TNkQHo+ti2k0xV/YCo6QDJH3IFOY=
 forex.forex.	3600	in	ns	ns1.sedoparking.com.
 forex.forex.	3600	in	ns	ns2.sedoparking.com.
 forexforex.forex.	3600	in	ns	ns1.dyna-ns.net.
@@ -1499,8 +1501,6 @@ ikigai.forex.	3600	in	ns	dns1.registrar-servers.com.
 ikigai.forex.	3600	in	ns	dns2.registrar-servers.com.
 il.forex.	3600	in	ns	ns1.interlayer.net.
 il.forex.	3600	in	ns	ns2.interlayer.net.
-in.forex.	3600	in	ns	ns1-expired.sav.com.
-in.forex.	3600	in	ns	ns2-expired.sav.com.
 indicators.forex.	3600	in	ns	ns1.ooparked.com.
 indicators.forex.	3600	in	ns	ns2.ooparked.com.
 industry.forex.	3600	in	ns	ns1.101domain.com.
@@ -1574,8 +1574,8 @@ jakartaslot88.forex.	3600	in	ns	arturo.ns.cloudflare.com.
 jakartaslot88.forex.	3600	in	ns	kristina.ns.cloudflare.com.
 javaslot88.forex.	3600	in	ns	becky.ns.cloudflare.com.
 javaslot88.forex.	3600	in	ns	moura.ns.cloudflare.com.
-jax.forex.	3600	in	ns	ns1.bodis.com.
-jax.forex.	3600	in	ns	ns2.bodis.com.
+jax.forex.	3600	in	ns	ns1.dns-redirect.com.
+jax.forex.	3600	in	ns	ns2.dns-redirect.com.
 jbo.forex.	3600	in	ns	cheryl.ns.cloudflare.com.
 jbo.forex.	3600	in	ns	hasslo.ns.cloudflare.com.
 jenniferlaxamana.forex.	3600	in	ns	ns1.dyna-ns.net.
@@ -1937,8 +1937,6 @@ metaworkplace.forex.	3600	in	ns	a.ns.facebook.com.
 metaworkplace.forex.	3600	in	ns	b.ns.facebook.com.
 metaworkplace.forex.	3600	in	ns	c.ns.facebook.com.
 metaworkplace.forex.	3600	in	ns	d.ns.facebook.com.
-mewe.forex.	3600	in	ns	ns1.dyna-ns.net.
-mewe.forex.	3600	in	ns	ns2.dyna-ns.net.
 mgeyv.forex.	3600	in	ns	ns1.dnsip.com.
 mgeyv.forex.	3600	in	ns	ns2.dnsip.com.
 mibet.forex.	3600	in	ns	leonard.ns.cloudflare.com.
@@ -2442,8 +2440,10 @@ rmb.forex.	3600	in	ns	ns1.sedoparking.com.
 rmb.forex.	3600	in	ns	ns2.sedoparking.com.
 rnhzj.forex.	3600	in	ns	ns1.dnsip.com.
 rnhzj.forex.	3600	in	ns	ns2.dnsip.com.
-robex.forex.	3600	in	ns	alex.ns.cloudflare.com.
-robex.forex.	3600	in	ns	dolly.ns.cloudflare.com.
+robex.forex.	3600	in	ns	ns1djs.name.com.
+robex.forex.	3600	in	ns	ns2dhj.name.com.
+robex.forex.	3600	in	ns	ns3gmt.name.com.
+robex.forex.	3600	in	ns	ns4lpv.name.com.
 roblox.forex.	3600	in	ns	ns01.trademarkarea.com.
 roblox.forex.	3600	in	ns	ns02.trademarkarea.com.
 roblox.forex.	3600	in	ns	ns03.trademarkarea.com.
@@ -2925,8 +2925,6 @@ tumblr.forex.	3600	in	ns	ns3.tumblr.com.
 tumblr.forex.	3600	in	ns	ns4.tumblr.com.
 turkish.forex.	3600	in	ns	dns1.registrar-servers.com.
 turkish.forex.	3600	in	ns	dns2.registrar-servers.com.
-twitter.forex.	3600	in	ns	ns1.dyna-ns.net.
-twitter.forex.	3600	in	ns	ns2.dyna-ns.net.
 tzjdl.forex.	3600	in	ns	ns1.dnsip.com.
 tzjdl.forex.	3600	in	ns	ns2.dnsip.com.
 u68c8aiimj3b3b0donff3asn81rrhgpo.forex.	3600	in	nsec3	1 1 0 73 UB6NA5IATRQ2LTSDCIKLG2LVORI1LLH9 NS DS RRSIG
@@ -3087,8 +3085,6 @@ weltrade.forex.	3600	in	ns	ns3bgq.name.com.
 weltrade.forex.	3600	in	ns	ns4cfn.name.com.
 weservicepools.forex.	3600	in	ns	ns1.dyna-ns.net.
 weservicepools.forex.	3600	in	ns	ns2.dyna-ns.net.
-whatsapp.forex.	3600	in	ns	ns1.dyna-ns.net.
-whatsapp.forex.	3600	in	ns	ns2.dyna-ns.net.
 white.forex.	3600	in	ns	curitiba.ns.porkbun.com.
 white.forex.	3600	in	ns	fortaleza.ns.porkbun.com.
 white.forex.	3600	in	ns	maceio.ns.porkbun.com.
@@ -3260,4 +3256,4 @@ zwhzs.forex.	3600	in	ns	n1.xundns.com.
 zwhzs.forex.	3600	in	ns	n2.xundns.com.
 zylgg.forex.	3600	in	ns	ns1.dnsip.com.
 zylgg.forex.	3600	in	ns	ns2.dnsip.com.
-forex.	3600	in	soa	v0n0.nic.forex. hostmaster.donuts.email. 1757552695 7200 900 1209600 3600
+forex.	3600	in	soa	v0n0.nic.forex. hostmaster.donuts.email. 1757638901 7200 900 1209600 3600
