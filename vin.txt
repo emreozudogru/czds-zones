@@ -1,4 +1,4 @@
-vin.	3600	in	soa	v0n0.nic.vin. hostmaster.donuts.email. 1757553938 7200 900 1209600 3600
+vin.	3600	in	soa	v0n0.nic.vin. hostmaster.donuts.email. 1757640148 7200 900 1209600 3600
 0-75.vin.	3600	in	ds	15184 8 2 ED5ED6E3F358390B9FB88D352BBF08AB8E7772B186FFAD9B6A27BC7287957559
 0-75.vin.	3600	in	ns	dns20.ovh.net.
 0-75.vin.	3600	in	ns	ns20.ovh.net.
@@ -95,6 +95,8 @@ vin.	3600	in	soa	v0n0.nic.vin. hostmaster.donuts.email. 1757553938 7200 900 1209
 0753.vin.	3600	in	ns	hardy.dnspod.net.
 07boahd8crvjifri6gsqr996i48nqc0a.vin.	3600	in	nsec3	1 1 0 73 086UBKNNHV125KN34QF18J3JTKF3VR91 NS DS RRSIG
 07boahd8crvjifri6gsqr996i48nqc0a.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. LLXtP4RfenQJkm0De0vyaqgs4ztmCaGxDoh7zvWWJeBIfZd8p/DTbb5HquXJYl9ZKc31LK7nb7IH05gAeqoCllwNu/FWwTjIMX/uCRVmRrxFxdnz/+NfBS8xgRirRzPSjXGsBTDAAkCt8TpEd0CqtH0InDdieboKA6pdU9TXkrk=
+0811.vin.	3600	in	ns	ns1.netsto.net.
+0811.vin.	3600	in	ns	ns2.netsto.net.
 0851.vin.	3600	in	ns	ns3.dnsv2.com.
 0851.vin.	3600	in	ns	ns4.dnsv2.com.
 086ubknnhv125kn34qf18j3jtkf3vr91.vin.	3600	in	nsec3	1 1 0 73 0D7I7GL6IA5RJAK0N4JTU31K6CN4SCFQ NS DS RRSIG
@@ -274,8 +276,8 @@ vin.	3600	in	soa	v0n0.nic.vin. hostmaster.donuts.email. 1757553938 7200 900 1209
 123dzo.vin.	3600	in	ns	dns102.registrar-servers.com.
 123kk.vin.	3600	in	ns	gwen.ns.cloudflare.com.
 123kk.vin.	3600	in	ns	kellen.ns.cloudflare.com.
-123movies.vin.	3600	in	ns	ns1.bodis.com.
-123movies.vin.	3600	in	ns	ns2.bodis.com.
+123movies.vin.	3600	in	ns	ns1.dns-redirect.com.
+123movies.vin.	3600	in	ns	ns2.dns-redirect.com.
 123moviesfree.vin.	3600	in	ns	ns1.dns-redirect.com.
 123moviesfree.vin.	3600	in	ns	ns2.dns-redirect.com.
 123moviesfree9.vin.	3600	in	ns	chase.ns.cloudflare.com.
@@ -1589,8 +1591,6 @@ vin.	3600	in	soa	v0n0.nic.vin. hostmaster.donuts.email. 1757553938 7200 900 1209
 6623.vin.	3600	in	ns	norah.ns.cloudflare.com.
 666.vin.	3600	in	ns	judo.dnspod.net.
 666.vin.	3600	in	ns	ocean.dnspod.net.
-6666.vin.	3600	in	ns	jeremy.dnspod.net.
-6666.vin.	3600	in	ns	vita.dnspod.net.
 666666.vin.	3600	in	ns	dns25.hichina.com.
 666666.vin.	3600	in	ns	dns26.hichina.com.
 666f.vin.	3600	in	ns	dns1.registrar-servers.com.
@@ -1619,8 +1619,8 @@ vin.	3600	in	soa	v0n0.nic.vin. hostmaster.donuts.email. 1757553938 7200 900 1209
 66tg88.vin.	3600	in	ns	dns2.registrar-servers.com.
 66vn.vin.	3600	in	ns	jasmine.ns.cloudflare.com.
 66vn.vin.	3600	in	ns	woz.ns.cloudflare.com.
-66win.vin.	3600	in	ns	ns1.dns-parking.com.
-66win.vin.	3600	in	ns	ns2.dns-parking.com.
+66win.vin.	3600	in	ns	lennon.ns.cloudflare.com.
+66win.vin.	3600	in	ns	mckenzie.ns.cloudflare.com.
 67083.vin.	3600	in	ns	n1.xundns.com.
 67083.vin.	3600	in	ns	n2.xundns.com.
 676i494scv2n9vvkdrocku93i4a3645o.vin.	3600	in	nsec3	1 1 0 73 6ATRS6SQ4AR7F6PIL9HHKLNBUI10KAQ0 NS DS RRSIG
@@ -2049,8 +2049,8 @@ vin.	3600	in	soa	v0n0.nic.vin. hostmaster.donuts.email. 1757553938 7200 900 1209
 7lieux.vin.	3600	in	ns	ns4.iptwins.com.
 7liih3vhdabia5oe0v827fl3n8h08dts.vin.	3600	in	nsec3	1 1 0 73 7O64QAB9MNH1NNRE4GMHEPBEQQK7V1KA NS DS RRSIG
 7liih3vhdabia5oe0v827fl3n8h08dts.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. bjuPFUnBE0SoWAR65KOFZvszRhckNxpoSwCUNAIjZIzeEE7MJ3Ycu9mG+z0AFjI9oFfUDDeqeh116ufh+mhG5nwYvBa7BGVwcgHy2YKCv3OSpcCPd1h9eaqjh6rfb/6zhrMhgoBQRMKulxL/0J2Ikk35qBVmSG/VusZ+AQIx7F8=
-7m.vin.	3600	in	ns	dns1.registrar-servers.com.
-7m.vin.	3600	in	ns	dns2.registrar-servers.com.
+7m.vin.	3600	in	ns	jasmine.ns.cloudflare.com.
+7m.vin.	3600	in	ns	kipp.ns.cloudflare.com.
 7mvn.vin.	3600	in	ns	dns1.registrar-servers.com.
 7mvn.vin.	3600	in	ns	dns2.registrar-servers.com.
 7o64qab9mnh1nnre4gmhepbeqqk7v1ka.vin.	3600	in	nsec3	1 1 0 73 7OBCTGCNQ7PFCCGQDDREJ92QJVHG7EMA NS DS RRSIG
@@ -4087,6 +4087,8 @@ b92i1jt9b4mk1cp1vi04ae03v5052lev.vin.	3600	in	nsec3	1 1 0 73 BB1QPP36884GMSUUNI8
 b92i1jt9b4mk1cp1vi04ae03v5052lev.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. k9y+FuYotoyI6drU8c1zuYiHv8qcLfhARmBxc6TjYG+CCcMfqkVDV3sAkgaOLqOYU5OUgV6lZnDFesqMp3KesR4XOUIzkfz+KNlyUgJ/qXNahpo61efyXg7pOurd257xfef72gvxioQI1V1XcQGZzq6i8eunnLFQw/gklLxMbaE=
 b98.vin.	3600	in	ns	failed-whois-verification.namecheap.com.
 b98.vin.	3600	in	ns	verify-contact-details.namecheap.com.
+b99.vin.	3600	in	ns	harmony.ns.cloudflare.com.
+b99.vin.	3600	in	ns	rajeev.ns.cloudflare.com.
 ba.vin.	3600	in	ns	curitiba.ns.porkbun.com.
 ba.vin.	3600	in	ns	fortaleza.ns.porkbun.com.
 ba.vin.	3600	in	ns	maceio.ns.porkbun.com.
@@ -4529,8 +4531,6 @@ betaku.vin.	3600	in	ns	ali.ns.cloudflare.com.
 betaku.vin.	3600	in	ns	kipp.ns.cloudflare.com.
 betbdt.vin.	3600	in	ns	ns1.dyna-ns.net.
 betbdt.vin.	3600	in	ns	ns2.dyna-ns.net.
-betcom.vin.	3600	in	ns	darwin.ns.cloudflare.com.
-betcom.vin.	3600	in	ns	maya.ns.cloudflare.com.
 betconstruct.vin.	3600	in	ns	1379.ns1.above.com.
 betconstruct.vin.	3600	in	ns	1379.ns2.above.com.
 betgo.vin.	3600	in	ns	ns1.dyna-ns.net.
@@ -4776,8 +4776,8 @@ bk8.vin.	3600	in	ns	ns1.dyna-ns.net.
 bk8.vin.	3600	in	ns	ns2.dyna-ns.net.
 bk88.vin.	3600	in	ns	garret.ns.cloudflare.com.
 bk88.vin.	3600	in	ns	liberty.ns.cloudflare.com.
-bk8com.vin.	3600	in	ns	cameron.ns.cloudflare.com.
-bk8com.vin.	3600	in	ns	marissa.ns.cloudflare.com.
+bk8com.vin.	3600	in	ns	burt.ns.cloudflare.com.
+bk8com.vin.	3600	in	ns	elma.ns.cloudflare.com.
 bk8vn.vin.	3600	in	ns	bryce.ns.cloudflare.com.
 bk8vn.vin.	3600	in	ns	margot.ns.cloudflare.com.
 bkbet.vin.	3600	in	ns	ns01.domaincontrol.com.
@@ -5852,10 +5852,6 @@ cazes.vin.	3600	in	ns	b.dns.gandi.net.
 cazes.vin.	3600	in	ns	c.dns.gandi.net.
 cb52clubc.vin.	3600	in	ns	casey.ns.cloudflare.com.
 cb52clubc.vin.	3600	in	ns	olivia.ns.cloudflare.com.
-cbc.vin.	3600	in	ns	curitiba.ns.porkbun.com.
-cbc.vin.	3600	in	ns	fortaleza.ns.porkbun.com.
-cbc.vin.	3600	in	ns	maceio.ns.porkbun.com.
-cbc.vin.	3600	in	ns	salvador.ns.porkbun.com.
 cblf.vin.	3600	in	ns	cloud66.net15.fr.
 cblf.vin.	3600	in	ns	dns1.net15.fr.
 cbtd56ikdbqvphfljc4cvoktnorecp5p.vin.	3600	in	nsec3	1 1 0 73 CDKO7S2GVNU4O304BNC6SC5RLP6R5CCO NS DS RRSIG
@@ -6134,6 +6130,8 @@ chang-al.vin.	3600	in	ns	maceio.ns.porkbun.com.
 chang-al.vin.	3600	in	ns	salvador.ns.porkbun.com.
 change.vin.	3600	in	ns	ns1.dns-redirect.com.
 change.vin.	3600	in	ns	ns2.dns-redirect.com.
+chanlebank.vin.	3600	in	ns	dns1.registrar-servers.com.
+chanlebank.vin.	3600	in	ns	dns2.registrar-servers.com.
 chanlecoin.vin.	3600	in	ns	rohin.ns.cloudflare.com.
 chanlecoin.vin.	3600	in	ns	saanvi.ns.cloudflare.com.
 channels.vin.	3600	in	ns	doll.dnspod.net.
@@ -6864,12 +6862,8 @@ chatgtp.vin.	3600	in	ns	ns3.dnsv2.com.
 chatgtp.vin.	3600	in	ns	ns4.dnsv2.com.
 chaz-gilmore.vin.	3600	in	ns	ns01.domaincontrol.com.
 chaz-gilmore.vin.	3600	in	ns	ns02.domaincontrol.com.
-che.vin.	3600	in	ns	ns1.myhostadmin.net.
-che.vin.	3600	in	ns	ns2.myhostadmin.net.
-che.vin.	3600	in	ns	ns3.myhostadmin.net.
-che.vin.	3600	in	ns	ns4.myhostadmin.net.
-che.vin.	3600	in	ns	ns5.myhostadmin.net.
-che.vin.	3600	in	ns	ns6.myhostadmin.net.
+che.vin.	3600	in	ns	ns1.afternic.com.
+che.vin.	3600	in	ns	ns2.afternic.com.
 chechacha.vin.	3600	in	ns	april.dnspod.net.
 chechacha.vin.	3600	in	ns	ipe.dnspod.net.
 check.vin.	3600	in	ns	ns5.afternic.com.
@@ -6997,8 +6991,8 @@ chongtoico.vin.	3600	in	ns	dns1.registrar-servers.com.
 chongtoico.vin.	3600	in	ns	dns2.registrar-servers.com.
 chris.vin.	3600	in	ns	beacher.dnspod.net.
 chris.vin.	3600	in	ns	scutum.dnspod.net.
-christian.vin.	3600	in	ns	ns1.bodis.com.
-christian.vin.	3600	in	ns	ns2.bodis.com.
+christian.vin.	3600	in	ns	ns1.dns-redirect.com.
+christian.vin.	3600	in	ns	ns2.dns-redirect.com.
 chroniclewine.vin.	3600	in	ns	dns1.p05.nsone.net.
 chroniclewine.vin.	3600	in	ns	dns2.p05.nsone.net.
 chroniclewine.vin.	3600	in	ns	dns3.p05.nsone.net.
@@ -7255,6 +7249,8 @@ clv.vin.	3600	in	ns	ns-237-c.gandi.net.
 clv.vin.	3600	in	ns	ns-52-b.gandi.net.
 clzalo.vin.	3600	in	ns	anton.ns.cloudflare.com.
 clzalo.vin.	3600	in	ns	savanna.ns.cloudflare.com.
+clzl.vin.	3600	in	ns	anton.ns.cloudflare.com.
+clzl.vin.	3600	in	ns	savanna.ns.cloudflare.com.
 clzlpay.vin.	3600	in	ns	may.ns.cloudflare.com.
 clzlpay.vin.	3600	in	ns	tadeo.ns.cloudflare.com.
 cm.vin.	3600	in	ns	ns-13-b.gandi.net.
@@ -9016,8 +9012,8 @@ downloadlagump3.vin.	3600	in	ns	kianchau.ns.cloudflare.com.
 downloadlagump3.vin.	3600	in	ns	val.ns.cloudflare.com.
 dpboss.vin.	3600	in	ns	collins.ns.cloudflare.com.
 dpboss.vin.	3600	in	ns	lennon.ns.cloudflare.com.
-dpstream.vin.	3600	in	ns	ns1.bodis.com.
-dpstream.vin.	3600	in	ns	ns2.bodis.com.
+dpstream.vin.	3600	in	ns	ns1.dns-redirect.com.
+dpstream.vin.	3600	in	ns	ns2.dns-redirect.com.
 dqbfy.vin.	3600	in	ns	n1.xundns.com.
 dqbfy.vin.	3600	in	ns	n2.xundns.com.
 dqxzbgspiu.vin.	3600	in	ns	thomas.ns.cloudflare.com.
@@ -9043,6 +9039,8 @@ dream.vin.	3600	in	ns	ns2.atom.com.
 dreamplastic-com.vin.	3600	in	ns	dns1.hostaddon.com.
 dreamplastic-com.vin.	3600	in	ns	dns2.hostaddon.com.
 dreamplastic-com.vin.	3600	in	ns	dns3.hostaddon.com.
+dreams.vin.	3600	in	ns	ns1.dns-redirect.com.
+dreams.vin.	3600	in	ns	ns2.dns-redirect.com.
 drikk.vin.	3600	in	ds	463 15 2 29461ABF9BED27C789149ABE6FDAC81EBFBA56BB04AAF6DD3B071C4662D64665
 drikk.vin.	3600	in	ds	463 15 4 133F0DED17FCAD6DA0E46CF8CFD6D38AF4A9B0B5686C73A7366676500E1937C5C07D9A5AFA62231A6380AFD8C0A400A8
 drikk.vin.	3600	in	ns	ns1.hyp.net.
@@ -9290,7 +9288,7 @@ ebasbet.vin.	3600	in	ns	rosemary.ns.cloudflare.com.
 ebasbett.vin.	3600	in	ns	dns1.registrar-servers.com.
 ebasbett.vin.	3600	in	ns	dns2.registrar-servers.com.
 eboieeg25pp6ja2p3qr6rknuuqcon5pe.vin.	3600	in	nsec3	1 1 0 73 EC9BHE8FUIA18GM9922Q1P5LSVUGOIVK NS DS RRSIG
-eboieeg25pp6ja2p3qr6rknuuqcon5pe.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. Hcwb6kkt++O55+stU1hvyKTwvYLyuF0hvRmdHTP/avKhECy8Klaw0UovE0xDb6lovqpxyTxokekjBJBzoS1h71t8NfaFe+8da6YR1CeEC+wNvTkm2mUbNkWEie21OJM0WZ4PBrdx4Rzq3I+nyq4rdAzyviGmMtoNpZl5tgt7Pc8=
+eboieeg25pp6ja2p3qr6rknuuqcon5pe.vin.	3600	in	rrsig	NSEC3 8 2 3600 20251002070902 20250911060902 17280 vin. UhWEa8Wux7dRBaUyz/QPYr9xm9ReS1bk6s6s8khNPnZd4Da0HyIFScveFapw0GEI5dYWm0b5JzZ9R2wBK0iiEaxw1bQa44/UVKhbPNsJEB4kpalZV70Zb8IdSbUODZ5j22QGJ30mMdrohKa10j6xRn9/c4tENdYPpyUV5ucRvII=
 ebuero.vin.	3600	in	ns	ns1.antagus.de.
 ebuero.vin.	3600	in	ns	ns2.antagus.de.
 ec101.vin.	3600	in	ns	kay.ns.cloudflare.com.
@@ -9462,8 +9460,6 @@ emoji.vin.	3600	in	ns	curitiba.ns.porkbun.com.
 emoji.vin.	3600	in	ns	fortaleza.ns.porkbun.com.
 emoji.vin.	3600	in	ns	maceio.ns.porkbun.com.
 emoji.vin.	3600	in	ns	salvador.ns.porkbun.com.
-empire777.vin.	3600	in	ns	alexandra.ns.cloudflare.com.
-empire777.vin.	3600	in	ns	pablo.ns.cloudflare.com.
 empreinte-du-rhone.vin.	3600	in	ns	ns1.brandshelter.com.
 empreinte-du-rhone.vin.	3600	in	ns	ns2.brandshelter.de.
 empreinte-du-rhone.vin.	3600	in	ns	ns3.brandshelter.info.
@@ -9851,6 +9847,8 @@ f8betv8.vin.	3600	in	ns	keanu.ns.cloudflare.com.
 f8betv8.vin.	3600	in	ns	wanda.ns.cloudflare.com.
 f9bet.vin.	3600	in	ns	keanu.ns.cloudflare.com.
 f9bet.vin.	3600	in	ns	wanda.ns.cloudflare.com.
+fa777.vin.	3600	in	ns	ns37.domaincontrol.com.
+fa777.vin.	3600	in	ns	ns38.domaincontrol.com.
 fa88.vin.	3600	in	ns	dns1.registrar-servers.com.
 fa88.vin.	3600	in	ns	dns2.registrar-servers.com.
 fa88vn.vin.	3600	in	ns	amber.ns.cloudflare.com.
@@ -9989,8 +9987,8 @@ fb9.vin.	3600	in	ns	bristol.ns.cloudflare.com.
 fb9.vin.	3600	in	ns	sam.ns.cloudflare.com.
 fbceose3b4aapd7fqs6l9t6duvvmjajl.vin.	3600	in	nsec3	1 1 0 73 FBL3K5H1JD50PMVK6A6SCF39LOQDI1SJ NS DS RRSIG
 fbceose3b4aapd7fqs6l9t6duvvmjajl.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. gwuN7NkRZ0IQKV4VQlGdnCxKTLeTml2+aLFGVH+noXfsJdMSM1ld1jkJrwjroKLuJgXc0du5nzblBlue89WhxbOO4RG5fZK4XRf07VJWTA4A2Ugrtuo2FvKPAOEbaPM5XW/brEJJxQ3SMoYgR/xXx6qVmF8mc3zHfdsNwCDJOcs=
-fbi.vin.	3600	in	ns	ns1.bodis.com.
-fbi.vin.	3600	in	ns	ns2.bodis.com.
+fbi.vin.	3600	in	ns	ns1.dns-redirect.com.
+fbi.vin.	3600	in	ns	ns2.dns-redirect.com.
 fbl3k5h1jd50pmvk6a6scf39loqdi1sj.vin.	3600	in	nsec3	1 1 0 73 FBUFAPA5PER1FLHHVFGE07EIOGPJGAQF NS DS RRSIG
 fbl3k5h1jd50pmvk6a6scf39loqdi1sj.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. XGoQ6B6sB0xGFINGSqf2k4x29qLT3mUNwVGo00ofcqMZtwEyf8mrj6Ne4kZwo7n5c0lwck7X5hHZd5zXrH+NVWQzwgwhoZWHJ+dCTZopf7VbZiTpF14JTJY58i7Hydx2TnoB5VMSANP82kYe6Fd2gIkaEmN4C5fVc/yd+s58GfU=
 fbtzle.vin.	3600	in	ns	ns1.dnsowl.com.
@@ -11129,8 +11127,6 @@ ghacor.vin.	3600	in	ns	annabel.ns.cloudflare.com.
 ghacor.vin.	3600	in	ns	beau.ns.cloudflare.com.
 ghjcv8c3pvoetk0uif6dfoc9k94gequu.vin.	3600	in	nsec3	1 1 0 73 GJ1HIDJH2QOHMN8QT88FF6VPO2ILBCLC NS DS RRSIG
 ghjcv8c3pvoetk0uif6dfoc9k94gequu.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. cErNNx8JDzCTGpBUUxge09WEPBosJS3aChj0x9kJOrfMdaM5ZKaAmz8kxMRZG5rt5cO3fJAPIL8VNaa9PH9RKApkAHktX+o2HhpHk/yfSobMC1wlrrtpewhBOQct1fXFW0f8xXxkIwqcBS20MaTHs7ns8rD59vFuq/l6EV7ng44=
-ghost.vin.	3600	in	ns	ns13.domaincontrol.com.
-ghost.vin.	3600	in	ns	ns14.domaincontrol.com.
 gi8.vin.	3600	in	ns	ns1.afternic.com.
 gi8.vin.	3600	in	ns	ns2.afternic.com.
 gi88.vin.	3600	in	ns	garret.ns.cloudflare.com.
@@ -11622,7 +11618,7 @@ h-hitclub.vin.	3600	in	ns	nina.ns.cloudflare.com.
 h0rv5h8i10vtd9rpr9hm8kdgshqf3vi7.vin.	3600	in	nsec3	1 1 0 73 H17ULC3VI807G6SDQH6C4VD8EI509ASD NS DS RRSIG
 h0rv5h8i10vtd9rpr9hm8kdgshqf3vi7.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. kq+WN3h67QbpYSUwjhzLPvFXD31QnaN37qW+Zctqmw0LMxfcnofz3XELdnDZf/TVDb4hJRidEo1w56TSSJnQEOH00S8Qp/SaSbnbNXwVc6o07hqm1xhIL1ZFKnRbIEQ45objuVShrXRPoTDRyi9Yy6NePVw6OYjSVbogtQ9a+oI=
 h17ulc3vi807g6sdqh6c4vd8ei509asd.vin.	3600	in	nsec3	1 1 0 73 H1SL1K33U59QM4K2VI1FBPMH3CB3RO8P NS SOA RRSIG DNSKEY NSEC3PARAM
-h17ulc3vi807g6sdqh6c4vd8ei509asd.vin.	3600	in	rrsig	NSEC3 8 2 3600 20251002013101 20250911003101 17280 vin. v2mDdOTbttZLIYzxXiiS1s547yOMF2BfnB8HBmitFZTDBOAE/4p0p9iQn8sAgtxTWGcszLCWBk7z9IgW+milP6AY86coHfMge/a6On+mvV7S4YGxSXuMCplI5w5zxipY2AmpnlFhZs8fnNlcCo7kZ+/HqnPUbGhdIv4kIHYmYS8=
+h17ulc3vi807g6sdqh6c4vd8ei509asd.vin.	3600	in	rrsig	NSEC3 8 2 3600 20251003012757 20250912002757 17280 vin. S9QGo/n0wowQkOCvKtO+BxsjRC4lYOC1H6+SAyh1JtuvCl7Z8+IjzCon5/TA7L9XMBVnGSSNrBVDYaeBE6E06IQXnkgzXXaU7EfuhF/yQ3PLP885UDKWrkozhAPTYswajKxKX8b/si4kfTo5eK23Ijv0Z32cL8W12AWr1Bl6h0w=
 h1sl1k33u59qm4k2vi1fbpmh3cb3ro8p.vin.	3600	in	nsec3	1 1 0 73 H3DVRULICUML2VLMTRI0APG2KBBI9NLI NS DS RRSIG
 h1sl1k33u59qm4k2vi1fbpmh3cb3ro8p.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. mIgZPLyzGWapCSV0FZ6uLrZz/Xw6zLnvY0aqg7NXc/x1IHnkUeCMpZV4GMQisjrZhD51vcdpxLmSZVuP/hLxlvFBUnuYlY4QRmolgvWhkLNDNLDCNqARYG0Z2UJqZgYXeqClfWkPOZoM9yOt9csvrjX9oF9zAZ9ic/wE+c8mxl4=
 h365.vin.	3600	in	ns	dns101.registrar-servers.com.
@@ -12248,8 +12244,8 @@ howe.vin.	3600	in	ns	tia.ns.cloudflare.com.
 howe.vin.	3600	in	ns	west.ns.cloudflare.com.
 howellmountain.vin.	3600	in	ns	ns57.worldnic.com.
 howellmountain.vin.	3600	in	ns	ns58.worldnic.com.
-hp8t4qu8b4b388b9v56pc1ftpahs54j3.vin.	3600	in	nsec3	1 1 0 73 HSIEEOU2NOLI02I6PN6V6ID8R1V5U6L7 NS DS RRSIG
-hp8t4qu8b4b388b9v56pc1ftpahs54j3.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. hJKXvLxbjb250RN9bOrZyUT2k0pvD3801K9fDu5XqJAN0JE1OX1/13NWBZir4KbvuiEwQ6KsBZDagvgtRPty0olT2RygQunZqsSDMfEeWQhSCkOyzPP9F5SkHZiAiUQWuUvRFGJeoK88UO9IPD0aFGnUz4wKdh0rGhljwOs4b00=
+hp8t4qu8b4b388b9v56pc1ftpahs54j3.vin.	3600	in	nsec3	1 1 0 73 HQSB4EDC1OM55022M2S2PC1TLCR7GVH9 NS DS RRSIG
+hp8t4qu8b4b388b9v56pc1ftpahs54j3.vin.	3600	in	rrsig	NSEC3 8 2 3600 20251002084400 20250911074400 17280 vin. xKxLaHvKxMQyerp/5BLMxgXD6FTvgz4O3HL5AGU3yop6sz4JsVsoujtGOvpYHanONbt9AswQJgDUj1Eq91GJgFvElCzQQ2LpbPEnGbuTJ1z6hYX7i6L52C61IyrJ9MlcMOI0PD6g0OzLV8Kj9zQD8DFo8FNaiY0VqiM7WUm/LmI=
 hpgou.vin.	3600	in	ns	ns1.dyna-ns.net.
 hpgou.vin.	3600	in	ns	ns2.dyna-ns.net.
 hpsqy.vin.	3600	in	ns	ns1.dnsowl.com.
@@ -12260,6 +12256,8 @@ hpwxu.vin.	3600	in	ns	ns2.dnsowl.com.
 hpwxu.vin.	3600	in	ns	ns3.dnsowl.com.
 hq.vin.	3600	in	ns	dean.ns.cloudflare.com.
 hq.vin.	3600	in	ns	sierra.ns.cloudflare.com.
+hqsb4edc1om55022m2s2pc1tlcr7gvh9.vin.	3600	in	nsec3	1 1 0 73 HSIEEOU2NOLI02I6PN6V6ID8R1V5U6L7 NS DS RRSIG
+hqsb4edc1om55022m2s2pc1tlcr7gvh9.vin.	3600	in	rrsig	NSEC3 8 2 3600 20251002084400 20250911074400 17280 vin. V+8JHeCTW7FenJmTYHlj+Jj15vRTGdqw2MUmrwKgdAkzD1n8wSzCBhbo7BGzwY8eknAlg/dMlNMKMghpjA5n+oNqEVxXdIsScnGwPIgpYreVj+n5VnxvwW6IY/Pj0BW8Zt9HQPnwCCzCRZJxjag+DKf7dToA3DGn49As966DnE0=
 hranenie.vin.	3600	in	ns	ns1.hosting.reg.ru.
 hranenie.vin.	3600	in	ns	ns2.hosting.reg.ru.
 hrpahkdvmw.vin.	3600	in	ns	ns1.myhostadmin.net.
@@ -13421,8 +13419,10 @@ k-hittclub.vin.	3600	in	ns	casey.ns.cloudflare.com.
 k-hittclub.vin.	3600	in	ns	courtney.ns.cloudflare.com.
 k.vin.	3600	in	ns	ns15.domaincontrol.com.
 k.vin.	3600	in	ns	ns16.domaincontrol.com.
-k07507otmffu5g88ifc43887p2gkingg.vin.	3600	in	nsec3	1 1 0 73 K1PN2TP5APK83092J898SP4EA4FQ1EDN NS DS RRSIG
-k07507otmffu5g88ifc43887p2gkingg.vin.	3600	in	rrsig	NSEC3 8 2 3600 20251001211732 20250910201732 17280 vin. N/yqJuswqXQf155xSJzX+rBtH9QdBURqrDqNiRk/UXZg5EGUxiJAuKR4T+L5piSYo7NtR7zmAKNYeEwaFTaNiUs3mFoFo/rtLnk70vd3BU9dVFYt0INfKaBaf2fbkKtIb1srU8vKJVhU69SEUEKEOLL2FFpa/S4If30A+zqUKe4=
+k07507otmffu5g88ifc43887p2gkingg.vin.	3600	in	nsec3	1 1 0 73 K0OMKKFRG6GAE63L86R5VQ7CD8HI2S65 NS DS RRSIG
+k07507otmffu5g88ifc43887p2gkingg.vin.	3600	in	rrsig	NSEC3 8 2 3600 20251002211415 20250911201415 17280 vin. jml6/0aHuUEu59yxX/lmLlBHWngmNqXBSucFOHTnWiIbfc1Wbra4WzYgWtyjhQJEEUfge8IcoqncEOgIzuJ13OPOpo74m1QcC5ol6koKpKHOd9N+d1DkuOD4aAo3ZIZ3LawYC/TbICVTpa1eZ1OKdJ7ggS4caXwe+ZEwgBoH5bA=
+k0omkkfrg6gae63l86r5vq7cd8hi2s65.vin.	3600	in	nsec3	1 1 0 73 K1PN2TP5APK83092J898SP4EA4FQ1EDN NS DS RRSIG
+k0omkkfrg6gae63l86r5vq7cd8hi2s65.vin.	3600	in	rrsig	NSEC3 8 2 3600 20251002211415 20250911201415 17280 vin. oGK88NyQtxCXMTN3BiuGllBhxzv4N/n54OVYJ6PYqMJFv8YfJqtFvrSHfET3LYdbhwAWl5Mn7KWSoXSBKqbKD4/R7S2XXnlzUGVZe4lHOPY3MDFxP9X3w8mxO3c1sm8lG2WoRcZKx5mitvOcVmeS7qxK5hmqhPNDcWbcfOUIxSU=
 k1-hitclub.vin.	3600	in	ns	casey.ns.cloudflare.com.
 k1-hitclub.vin.	3600	in	ns	courtney.ns.cloudflare.com.
 k1pn2tp5apk83092j898sp4ea4fq1edn.vin.	3600	in	nsec3	1 1 0 73 K1SRHSUL9T0463S1J9NS38FTHDE2FUSB NS DS RRSIG
@@ -13447,8 +13447,8 @@ k8m5t5kkm3ahd9r695ubcdckslaegvfh.vin.	3600	in	nsec3	1 1 0 73 KAKA4RMI1CI73T8ELS9
 k8m5t5kkm3ahd9r695ubcdckslaegvfh.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. h/bpzkBNWc9jWOXjtqCxZvdam7TjTcU7bpPTQE3xpzuLerbWbwY6Ce7LA3ds98u2bTpcjAJR65k8xtCPxDzkCycwa7HzJrUFeZd9X2a9jSXfYhx+nFKsBjIUtsUg/Hu8PCWxTfK+O4TEEGdV0OFDvoCbQGOyWTEdhUNOO5iExrU=
 k8vi.vin.	3600	in	ns	ns1.dyna-ns.net.
 k8vi.vin.	3600	in	ns	ns2.dyna-ns.net.
-k8vin.vin.	3600	in	ns	annalise.ns.cloudflare.com.
-k8vin.vin.	3600	in	ns	rodney.ns.cloudflare.com.
+k8vin.vin.	3600	in	ns	dns101.registrar-servers.com.
+k8vin.vin.	3600	in	ns	dns102.registrar-servers.com.
 k8vn.vin.	3600	in	ns	dns1.registrar-servers.com.
 k8vn.vin.	3600	in	ns	dns2.registrar-servers.com.
 k9bet.vin.	3600	in	ns	ns1.dyna-ns.net.
@@ -13636,6 +13636,12 @@ keyquest.vin.	3600	in	ns	ns63.domaincontrol.com.
 keyquest.vin.	3600	in	ns	ns64.domaincontrol.com.
 keys.vin.	3600	in	ns	dns1.registrar-servers.com.
 keys.vin.	3600	in	ns	dns2.registrar-servers.com.
+keyv.vin.	3600	in	ds	7777 8 2 CD0C1BB1F75BE31AAB10CE13F9088CB12729ACDD0F8AB85D5E2DCB4330537ED8
+keyv.vin.	3600	in	ns	ns-cloud-c1.googledomains.com.
+keyv.vin.	3600	in	ns	ns-cloud-c2.googledomains.com.
+keyv.vin.	3600	in	ns	ns-cloud-c3.googledomains.com.
+keyv.vin.	3600	in	ns	ns-cloud-c4.googledomains.com.
+keyv.vin.	3600	in	rrsig	DS 8 2 3600 20251002084400 20250911074400 17280 vin. p8ttIstpvSP97zbzbnIKoLF5Iy1OJnMs9DyKSLEYm67IrVr1H781zrdDCBXmbDajTuh25T5EuBJtG+OxRPWj6T3/JZQ4gIdV44EAULS0B6hoDJcmWz2seLMs5Ji84q27PFyez/bB9bmoftbOI5Jl1KcY/8jUDYthZ/lNhfg5kwY=
 keyword.vin.	3600	in	ns	curitiba.ns.porkbun.com.
 keyword.vin.	3600	in	ns	fortaleza.ns.porkbun.com.
 keyword.vin.	3600	in	ns	maceio.ns.porkbun.com.
@@ -13874,8 +13880,9 @@ kon.vin.	3600	in	ns	dns15.hichina.com.
 kon.vin.	3600	in	ns	dns16.hichina.com.
 kon88.vin.	3600	in	ns	ns1.dyna-ns.net.
 kon88.vin.	3600	in	ns	ns2.dyna-ns.net.
-kona.vin.	3600	in	ns	cortney.ns.cloudflare.com.
-kona.vin.	3600	in	ns	tony.ns.cloudflare.com.
+kona.vin.	3600	in	ns	ns1.expireddomain.hyp.net.
+kona.vin.	3600	in	ns	ns2.expireddomain.hyp.net.
+kona.vin.	3600	in	ns	ns3.expireddomain.hyp.net.
 kong.vin.	3600	in	ns	dns1.registrar-servers.com.
 kong.vin.	3600	in	ns	dns2.registrar-servers.com.
 kong88.vin.	3600	in	ns	ns1.dyna-ns.net.
@@ -15438,8 +15445,8 @@ m2gb1m035htncau6nm3uj2cf0ef3spaj.vin.	3600	in	nsec3	1 1 0 73 M3O4G5VT3A6BJKFC2A4
 m2gb1m035htncau6nm3uj2cf0ef3spaj.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. Tminl6tOuYWWGPS0N2wr+bBr3tIvsypqibUnGqnCTsm4k/4ADhN5306mql1MhR31A41PD6wmMWofuTwLCZ94Me2e9uGCTzcys7Cr62bz6VuBBl4rG+XiARCS2mSa4r2aHSZIECXeb/Noc0wMfo6AkhiPabY6p4Fcx9ttJCDQ4X0=
 m365.vin.	3600	in	ns	dns101.registrar-servers.com.
 m365.vin.	3600	in	ns	dns102.registrar-servers.com.
-m3ga.vin.	3600	in	ns	ns1.bodis.com.
-m3ga.vin.	3600	in	ns	ns2.bodis.com.
+m3ga.vin.	3600	in	ns	ns1.dns-redirect.com.
+m3ga.vin.	3600	in	ns	ns2.dns-redirect.com.
 m3l.vin.	3600	in	ns	dns1.registrar-servers.com.
 m3l.vin.	3600	in	ns	dns2.registrar-servers.com.
 m3o4g5vt3a6bjkfc2a4frkido6nkg0sd.vin.	3600	in	nsec3	1 1 0 73 M5HT7GQDN505KFBN4E3HPI8R79NURPSK NS DS RRSIG
@@ -15701,8 +15708,8 @@ marketplace.vin.	3600	in	ns	ns1.sprinthost.ru.
 marketplace.vin.	3600	in	ns	ns2.sprinthost.ru.
 marketplace.vin.	3600	in	ns	ns3.sprinthost.net.
 marketplace.vin.	3600	in	ns	ns4.sprinthost.net.
-marksix.vin.	3600	in	ns	ns1.bodis.com.
-marksix.vin.	3600	in	ns	ns2.bodis.com.
+marksix.vin.	3600	in	ns	ns1.dns-redirect.com.
+marksix.vin.	3600	in	ns	ns2.dns-redirect.com.
 marquee.vin.	3600	in	ns	dns1.name-services.com.
 marquee.vin.	3600	in	ns	dns2.name-services.com.
 marquee.vin.	3600	in	ns	dns3.name-services.com.
@@ -15882,8 +15889,6 @@ mclub.vin.	3600	in	ns	josephine.ns.cloudflare.com.
 mclub.vin.	3600	in	ns	tadeo.ns.cloudflare.com.
 mcp.vin.	3600	in	ns	big.dnspod.net.
 mcp.vin.	3600	in	ns	canary.dnspod.net.
-mcv.vin.	3600	in	ns	n1.xundns.com.
-mcv.vin.	3600	in	ns	n2.xundns.com.
 mcw.vin.	3600	in	ns	bonnie.ns.cloudflare.com.
 mcw.vin.	3600	in	ns	eoin.ns.cloudflare.com.
 mczgos.vin.	3600	in	ns	ns1.dnsowl.com.
@@ -16985,8 +16990,8 @@ new88.vin.	3600	in	ns	dns1.registrar-servers.com.
 new88.vin.	3600	in	ns	dns2.registrar-servers.com.
 new88066.vin.	3600	in	ns	dns1.registrar-servers.com.
 new88066.vin.	3600	in	ns	dns2.registrar-servers.com.
-new888.vin.	3600	in	ns	ns1.bodis.com.
-new888.vin.	3600	in	ns	ns2.bodis.com.
+new888.vin.	3600	in	ns	ns1.dns-redirect.com.
+new888.vin.	3600	in	ns	ns2.dns-redirect.com.
 new8888.vin.	3600	in	ns	dns1.registrar-servers.com.
 new8888.vin.	3600	in	ns	dns2.registrar-servers.com.
 new88vip.vin.	3600	in	ns	dns1.registrar-servers.com.
@@ -17644,8 +17649,8 @@ ohiowinesvip.vin.	3600	in	ns	ns1.ohio.gov.
 ohiowinesvip.vin.	3600	in	ns	ns2.ohio.gov.
 ohiowinesvip.vin.	3600	in	ns	ns3.ohio.gov.
 ohiowinesvip.vin.	3600	in	ns	ns4.ohio.gov.
-ohitv.vin.	3600	in	ns	bill.ns.cloudflare.com.
-ohitv.vin.	3600	in	ns	rita.ns.cloudflare.com.
+ohitv.vin.	3600	in	ns	dns101.registrar-servers.com.
+ohitv.vin.	3600	in	ns	dns102.registrar-servers.com.
 ohsp8v7u0f6ogbeseeu8aqg49lg3l0bu.vin.	3600	in	nsec3	1 1 0 73 OJILH7D5F3F24L2DK234IFBS7IUV1G3G NS DS RRSIG
 ohsp8v7u0f6ogbeseeu8aqg49lg3l0bu.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. dRrbTA5Kzm6yCxgscADhsbXZmEpIz6CbrDjgFsJkgxxpowBAHvATNCE1aM05zJGEhRVFFXq2z7w19Y/a2g7Q+AZpzVHgJ8OkxsEovAPY4YwZ7kEZyyBSBQPegPoDOGPcx3NbV/eXHvz+rya3aKU/PbvGXXV5+Wadqmt0pwmcOfY=
 oi.vin.	3600	in	ns	ns1.dns-parking.com.
@@ -17845,12 +17850,12 @@ oqeigk5h6sdcjopn62a15cn217gecjku.vin.	3600	in	nsec3	1 1 0 73 ORLK7A5DGP13CJ4VH93
 oqeigk5h6sdcjopn62a15cn217gecjku.vin.	3600	in	rrsig	NSEC3 8 2 3600 20250930161149 20250909151149 17280 vin. XQRIDa4hxjltDseq0qLchA5flj3QYkzpqxylmefbcE+gwYHgaxxcKl0S9816VYENt/HJqh+6YR1uzz0+R5eVwWUGQwtNzVSvyH1ExceieeFwXadABb1CdzowoxheHmgg/UbFFrFp40LvCLHyENd5j7Fo1mOohDJoGoUmceTcnKI=
 ora.vin.	3600	in	ns	dns1.registrar-servers.com.
 ora.vin.	3600	in	ns	dns2.registrar-servers.com.
-oransje.vin.	3600	in	ds	25993 15 2 4C89C15D0C68A8917D6E8B96816FFB02D26365E4D6F35E1ACE4D9D8E1429002E
-oransje.vin.	3600	in	ds	25993 15 4 9D81DEE1491D1960CF3F8DA7A228D32D5A19AB33057BA56B5966A116EA578807385452D63320354673BF774101B71CED
+oransje.vin.	3600	in	ds	22745 15 2 84C1FDF5878BF3CBD88D842F07E074DC9F1A04E21AA91CC456027D4F0BF73C99
+oransje.vin.	3600	in	ds	22745 15 4 1FC66D462ED9D740F82148F69343F63BD90C990AC702D1D07388390532F15512A7F31049E53E0801FF9D046888E6BFFD
 oransje.vin.	3600	in	ns	ns1.hyp.net.
 oransje.vin.	3600	in	ns	ns2.hyp.net.
 oransje.vin.	3600	in	ns	ns3.hyp.net.
-oransje.vin.	3600	in	rrsig	DS 8 2 3600 20250930161149 20250909151149 17280 vin. BHG70/uUcshgTTTK3+P4VmJ3SLOhQS9Yd89H9GpJZNeDnzmmRSGwEqy8BBnBBX1jzjVi3+le8WiN0O+tAQ/LHp+bLuNhG1k8IjEddWXQvkvKVboJkw4sax/f4+Dr1Ca1KRYm3dncBqwdQQqbJorTd/ly+taPEDaVn9f4r+WRvJk=
+oransje.vin.	3600	in	rrsig	DS 8 2 3600 20251002070902 20250911060902 17280 vin. glM0N0GNdZEmkzAXbcGHapXDrGdlPpjvJgKmv8KyDyNyoT0ihBQ/h/4qC126nKoLlOiBpJCLyB77/7v/5krVzjaMmxoWxLLnEqZAZO3jnrfOofw7vXmaDAjtv+NX/qGjYaGVsZ7a48AbeqaDG5jJPes5NFnKARjWknzt8PI6NlA=
 orasf.vin.	3600	in	ns	dns1.registrar-servers.com.
 orasf.vin.	3600	in	ns	dns2.registrar-servers.com.
 orawine.vin.	3600	in	ns	dns1.registrar-servers.com.
@@ -19378,8 +19383,6 @@ qweas.vin.	3600	in	ns	a9.share-dns.com.
 qweas.vin.	3600	in	ns	b9.share-dns.net.
 qyh.vin.	3600	in	ns	n1.xundns.com.
 qyh.vin.	3600	in	ns	n2.xundns.com.
-qyz.vin.	3600	in	ns	n1.xundns.com.
-qyz.vin.	3600	in	ns	n2.xundns.com.
 qzc.vin.	3600	in	ns	dave.dnspod.net.
 qzc.vin.	3600	in	ns	rambutan.dnspod.net.
 qzkgh.vin.	3600	in	ns	a.dnspod.com.
@@ -19649,8 +19652,8 @@ remove.vin.	3600	in	ns	ns52.domaincontrol.com.
 remymartin.vin.	3600	in	ns	ns2.observatoiredesmarques.fr.
 remymartin.vin.	3600	in	ns	ns3.nameshield.net.
 remymartin.vin.	3600	in	ns	obs.ns1.fr.
-ren.vin.	3600	in	ns	ns1.bodis.com.
-ren.vin.	3600	in	ns	ns2.bodis.com.
+ren.vin.	3600	in	ns	ns1.dns-redirect.com.
+ren.vin.	3600	in	ns	ns2.dns-redirect.com.
 renatoratti.vin.	3600	in	ns	ns1.register.it.
 renatoratti.vin.	3600	in	ns	ns2.register.it.
 repair.vin.	3600	in	ns	ns1.dns-redirect.com.
@@ -19667,8 +19670,8 @@ report.vin.	3600	in	ns	dns1.domeny.tv.
 report.vin.	3600	in	ns	dns2.domeny.tv.
 repriswines.vin.	3600	in	ns	ns09.domaincontrol.com.
 repriswines.vin.	3600	in	ns	ns10.domaincontrol.com.
-res.vin.	3600	in	ns	ns1.bodis.com.
-res.vin.	3600	in	ns	ns2.bodis.com.
+res.vin.	3600	in	ns	ns1.dns-redirect.com.
+res.vin.	3600	in	ns	ns2.dns-redirect.com.
 research.vin.	3600	in	ns	ns1.dns-redirect.com.
 research.vin.	3600	in	ns	ns2.dns-redirect.com.
 resource.vin.	3600	in	ns	ns25.domaincontrol.com.
@@ -19787,6 +19790,8 @@ rikvip.vin.	3600	in	ns	armfazh.ns.cloudflare.com.
 rikvip.vin.	3600	in	ns	teresa.ns.cloudflare.com.
 rikvip10.vin.	3600	in	ns	dns1.registrar-servers.com.
 rikvip10.vin.	3600	in	ns	dns2.registrar-servers.com.
+rikvip9.vin.	3600	in	ns	morgan.ns.cloudflare.com.
+rikvip9.vin.	3600	in	ns	noor.ns.cloudflare.com.
 rimauresq.vin.	3600	in	ns	a.dns.gandi.net.
 rimauresq.vin.	3600	in	ns	b.dns.gandi.net.
 rimauresq.vin.	3600	in	ns	c.dns.gandi.net.
@@ -19892,6 +19897,8 @@ robogarage.vin.	3600	in	ns	ns35.domaincontrol.com.
 robogarage.vin.	3600	in	ns	ns36.domaincontrol.com.
 robot.vin.	3600	in	ns	anuj.ns.cloudflare.com.
 robot.vin.	3600	in	ns	wally.ns.cloudflare.com.
+robotaxi.vin.	3600	in	ns	dns11.hichina.com.
+robotaxi.vin.	3600	in	ns	dns12.hichina.com.
 robots.vin.	3600	in	ds	8633 13 2 5F6A9EF27997BFF0B61EB9F73D96DFCAEFA6D3E47D620100F54A97C006B00075
 robots.vin.	3600	in	ns	launch1.spaceship.net.
 robots.vin.	3600	in	ns	launch2.spaceship.net.
@@ -20425,8 +20432,6 @@ saowin19.vin.	3600	in	ns	dns1.registrar-servers.com.
 saowin19.vin.	3600	in	ns	dns2.registrar-servers.com.
 saowin20.vin.	3600	in	ns	dns1.registrar-servers.com.
 saowin20.vin.	3600	in	ns	dns2.registrar-servers.com.
-saowin30.vin.	3600	in	ns	dns101.registrar-servers.com.
-saowin30.vin.	3600	in	ns	dns102.registrar-servers.com.
 saowin31.vin.	3600	in	ns	dns101.registrar-servers.com.
 saowin31.vin.	3600	in	ns	dns102.registrar-servers.com.
 saowin32.vin.	3600	in	ns	brynne.ns.cloudflare.com.
@@ -22395,8 +22400,8 @@ taihitclub.vin.	3600	in	ns	leonard.ns.cloudflare.com.
 taihitclub.vin.	3600	in	ns	susan.ns.cloudflare.com.
 taiiwin.vin.	3600	in	ns	demi.ns.cloudflare.com.
 taiiwin.vin.	3600	in	ns	jerome.ns.cloudflare.com.
-taik8vin.vin.	3600	in	ns	annalise.ns.cloudflare.com.
-taik8vin.vin.	3600	in	ns	rodney.ns.cloudflare.com.
+taik8vin.vin.	3600	in	ns	dns101.registrar-servers.com.
+taik8vin.vin.	3600	in	ns	dns102.registrar-servers.com.
 taikubet.vin.	3600	in	ns	hera.ns.cloudflare.com.
 taikubet.vin.	3600	in	ns	jay.ns.cloudflare.com.
 tailaucua.vin.	3600	in	ns	ns37.domaincontrol.com.
@@ -23209,8 +23214,8 @@ tipkeo.vin.	3600	in	ns	ns1.dyna-ns.net.
 tipkeo.vin.	3600	in	ns	ns2.dyna-ns.net.
 tipzo.vin.	3600	in	ns	dns1.registrar-servers.com.
 tipzo.vin.	3600	in	ns	dns2.registrar-servers.com.
-titan.vin.	3600	in	ns	ns1.bodis.com.
-titan.vin.	3600	in	ns	ns2.bodis.com.
+titan.vin.	3600	in	ns	ns1.dns-redirect.com.
+titan.vin.	3600	in	ns	ns2.dns-redirect.com.
 titannic.vin.	3600	in	ds	28556 13 2 8099D0B4C5977E802FD3A2DC498190D4102AA8C3F705EC79785A7097C98B1A34
 titannic.vin.	3600	in	ns	ns3.epik.com.
 titannic.vin.	3600	in	ns	ns4.epik.com.
@@ -23582,8 +23587,8 @@ trumbank.vin.	3600	in	ns	dns1.registrar-servers.com.
 trumbank.vin.	3600	in	ns	dns2.registrar-servers.com.
 trump.vin.	3600	in	ns	ns1-show.myhostadmin.net.
 trump.vin.	3600	in	ns	ns2-show.myhostadmin.net.
-trungthu2024.vin.	3600	in	ns	major.ns.cloudflare.com.
-trungthu2024.vin.	3600	in	ns	ryleigh.ns.cloudflare.com.
+trungthu2024.vin.	3600	in	ns	dns101.registrar-servers.com.
+trungthu2024.vin.	3600	in	ns	dns102.registrar-servers.com.
 trussmo.vin.	3600	in	ds	6451 8 2 0F9CE0BAE6F920A28D908D53D00C4DF93BC3A30E5F521ADAEACCB02287C31B67
 trussmo.vin.	3600	in	ns	ns-cloud-e1.googledomains.com.
 trussmo.vin.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -24532,7 +24537,7 @@ vin.	3600	in	nsec3param	1 0 0 73
 vin.	3600	in	rrsig	DNSKEY 8 1 3600 20250930161149 20250909151149 25786 vin. p1sRpA1OTe1j4u7pcW3MSBgNWRckPItMcLJS+qXRePZs/W0q9tUlDGb31vSvFSP7nYvtH0uQX1c/6S3GlPV9cYGuGo1DpJBhfXWBv3Eh2l5uD0C9TjMwiQdziem5XH2ST+hF/RP0G9+GWl8L31DIKLHFGaAyKzzjcJddxZV2znQ96t80vYMLshbSngMHwtiO3w/PCDxidDQI/RxPlzRgu0Q81f3DuSc6TBNfr+IALnXEoGo5zs/4PpcIpGVq07zVBj93czPVW4WkFFCEmVVuPngWX4kmo9bfawKEQXtwOY44E1Rju7A1DFycw/Vgoste3rgI+3mj4gBkO+ni0D4s0g==
 vin.	3600	in	rrsig	NS 8 1 3600 20250930161149 20250909151149 17280 vin. JLY6UTdo4WeljveoqUSO6sIDrqZPodBzsTrBA7roBor82fbFAmU2n8tSV4rdCHaniIKwiv/oHrVImBmnf5qzbyWja1YiiQsB6Mhkl7WGMHzeftyU9DSa7fw/yojtkI1hqeQ+zoELrz+m2CNaTiw2Vs99C96t/neMyLr21Lui2DQ=
 vin.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930161149 20250909151149 17280 vin. N/bN43hshwbmqzZqjXQuuc9SYiBoWuUGHasG7MaV5u6gWNjYtJgnsu6cYF4oTxUkUlxjRD8viVNXM1qqjExt9h8vQ2Vz1KcypuBikflTioohZFBRozl8Egvdq2RLJmohlXnNpG1toIHEe+srYBEM3o4ccd6/neBlPuHfAQP1c3k=
-vin.	3600	in	rrsig	SOA 8 1 3600 20251002013101 20250911003101 17280 vin. CGUy/N5ezMYazKFA4cGIwbuCSgwfBQTzmH+35XGod6zFONIbP1ox4zdnlmMwBVtb6gBE36DQEThIweviUdoMe3G6hM5dlK4oiAyww1HJ1tlzpZBy88MD5WQysQJDFOKu/qWKzXWX9+Buz3GuzfNzrTV15N7i4o/ZcyOut11b94A=
+vin.	3600	in	rrsig	SOA 8 1 3600 20251003012757 20250912002757 17280 vin. YJ6/HhUx7nVr7pNPYaG9IoZHtmetp6uxfLut00ldAhhGSnls+QPdnn1Tu9z0J9eXaRmBrtGo/rJFAchf6KktmM2QaH4hJJBxV5/CgqswtGBV/UtoE8+mBCjzfsIYLxkXaV89bJsCijA1y8E5l11KttKqRxqBhAl28TCxITE0lkw=
 vin.vin.	3600	in	ns	ns1.atom.com.
 vin.vin.	3600	in	ns	ns2.atom.com.
 vin168.vin.	3600	in	ns	ns75.domaincontrol.com.
@@ -25067,8 +25072,8 @@ vitis.vin.	3600	in	ns	ns4.combell.net.
 vitop.vin.	3600	in	ns	a.dns.gandi.net.
 vitop.vin.	3600	in	ns	b.dns.gandi.net.
 vitop.vin.	3600	in	ns	c.dns.gandi.net.
-viu.vin.	3600	in	ns	ns1.bodis.com.
-viu.vin.	3600	in	ns	ns2.bodis.com.
+viu.vin.	3600	in	ns	ns1.dns-redirect.com.
+viu.vin.	3600	in	ns	ns2.dns-redirect.com.
 viu88.vin.	3600	in	ns	ns1.afternic.com.
 viu88.vin.	3600	in	ns	ns2.afternic.com.
 viv.vin.	3600	in	ns	hadlee.ns.cloudflare.com.
@@ -25231,8 +25236,10 @@ voodoo.vin.	3600	in	ns	ns13.domaincontrol.com.
 voodoo.vin.	3600	in	ns	ns14.domaincontrol.com.
 vote.vin.	3600	in	ns	jane.dnspod.net.
 vote.vin.	3600	in	ns	volunteer.dnspod.net.
+vougeot.vin.	3600	in	ds	2914 8 2 AAA601F9B6741FF090254A4548F35DDBC443AAD67815C6606E7E0593A1A2F20D
 vougeot.vin.	3600	in	ns	dns101.ovh.net.
 vougeot.vin.	3600	in	ns	ns101.ovh.net.
+vougeot.vin.	3600	in	rrsig	DS 8 2 3600 20251002211415 20250911201415 17280 vin. GnpZF/ciZxr2uvvI1RTU9Xpq6qmska0DCH3BJkTghlYRjGQUZQRcnQjDT/T4E+3eWPViLlDcyU58Mv4Ro6wFVzlYzCozyRTF9epUYVDTVZ5uhLhHytfoT7/6M38VJaONixgMyX/6EJYWDoNee0ZKUQmlcbyjjlaeCJ2NxxsFMKY=
 vout.vin.	3600	in	ns	dns1.registrar-servers.com.
 vout.vin.	3600	in	ns	dns2.registrar-servers.com.
 vouvray.vin.	3600	in	ns	dns107.ovh.net.
@@ -26644,8 +26651,8 @@ yatto.vin.	3600	in	ns	dns1.registrar-servers.com.
 yatto.vin.	3600	in	ns	dns2.registrar-servers.com.
 yay.vin.	3600	in	ns	dns1.registrar-servers.com.
 yay.vin.	3600	in	ns	dns2.registrar-servers.com.
-yaz88.vin.	3600	in	ns	arvind.ns.cloudflare.com.
-yaz88.vin.	3600	in	ns	riya.ns.cloudflare.com.
+yaz88.vin.	3600	in	ns	ns37.domaincontrol.com.
+yaz88.vin.	3600	in	ns	ns38.domaincontrol.com.
 ybk.vin.	3600	in	ns	ns73.domaincontrol.com.
 ybk.vin.	3600	in	ns	ns74.domaincontrol.com.
 ybl.vin.	3600	in	ns	ns3.dnsv2.com.
@@ -26776,8 +26783,8 @@ yrise.vin.	3600	in	ns	ns5.brandshelter.us.
 ysdd.vin.	3600	in	ns	ns1.dnsowl.com.
 ysdd.vin.	3600	in	ns	ns2.dnsowl.com.
 ysdd.vin.	3600	in	ns	ns3.dnsowl.com.
-yt1s.vin.	3600	in	ns	ns1.bodis.com.
-yt1s.vin.	3600	in	ns	ns2.bodis.com.
+yt1s.vin.	3600	in	ns	ns1.dns-redirect.com.
+yt1s.vin.	3600	in	ns	ns2.dns-redirect.com.
 ytmp3.vin.	3600	in	ns	abdullah.ns.cloudflare.com.
 ytmp3.vin.	3600	in	ns	savanna.ns.cloudflare.com.
 ytpbh.vin.	3600	in	ns	a.dnspod.com.
@@ -27089,4 +27096,4 @@ zzzz.vin.	3600	in	ns	ns3.myhostadmin.net.
 zzzz.vin.	3600	in	ns	ns4.myhostadmin.net.
 zzzz.vin.	3600	in	ns	ns5.myhostadmin.net.
 zzzz.vin.	3600	in	ns	ns6.myhostadmin.net.
-vin.	3600	in	soa	v0n0.nic.vin. hostmaster.donuts.email. 1757553938 7200 900 1209600 3600
+vin.	3600	in	soa	v0n0.nic.vin. hostmaster.donuts.email. 1757640148 7200 900 1209600 3600
