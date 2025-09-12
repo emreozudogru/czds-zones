@@ -1,4 +1,4 @@
-ngo.	3600	in	soa	a0.nic.ngo. hostmaster.donuts.email. 1757553967 7200 900 1209600 3600
+ngo.	3600	in	soa	a0.nic.ngo. hostmaster.donuts.email. 1757639477 7200 900 1209600 3600
 00.ngo.	3600	in	ns	dns1.registrar-servers.com.
 00.ngo.	3600	in	ns	dns2.registrar-servers.com.
 001.ngo.	3600	in	ns	ns1.cargo.site.
@@ -118,8 +118,10 @@ ngo.	3600	in	soa	a0.nic.ngo. hostmaster.donuts.email. 1757553967 7200 900 120960
 6cq6pkl1ta2ajmuc9q8u85iodtt2473u.ngo.	3600	in	rrsig	NSEC3 8 2 3600 20250930152110 20250909142110 49219 ngo. V3af13L+unYuc0T3SOx5r0E12flR/RGx1Vigo7rMwrr159AqyrAuLcXU8YPIIXmNwHuHIumFxgv58gIvWSaFxKauT1VYdXNnSnd+rOjg4lc/2xf3Z8+QbD/I2x8mG7Xm9VMg2Rv4HgBQsVMCgbztfVmh6kLA3blS4bw6wFgMbK8=
 6ketnnueuu1ng4jt1vpohs8ahfon583f.ngo.	3600	in	nsec3	1 1 0 332539EE7F95C32A 6QH911BJ2KA051HGRUF8H0OUGKRSFDS6 NS DS RRSIG
 6ketnnueuu1ng4jt1vpohs8ahfon583f.ngo.	3600	in	rrsig	NSEC3 8 2 3600 20250930152110 20250909142110 49219 ngo. adc8B2goaho9FXAcK1JPY6laOqCBFvhTDJn6NikN9YA5wfoP/yfQXLQKTFgt3TtUW0eDVgomvdaaSYxjtmO6m7pQpptlkJ4Q/rVyJrn4dxMHtaYokCO1vhL5DuPjILcuMx3Cc/Kq3oDHDF+FIbVQyRE7gYoEmQ6FHRO1EoAVDXc=
-6qh911bj2ka051hgruf8h0ougkrsfds6.ngo.	3600	in	nsec3	1 1 0 332539EE7F95C32A 76ADUHL421UJE4J1HMM0P942M09A2UTV NS DS RRSIG
-6qh911bj2ka051hgruf8h0ougkrsfds6.ngo.	3600	in	rrsig	NSEC3 8 2 3600 20250930152110 20250909142110 49219 ngo. ATA7m6zcrk0S2D7/67biPg9it016oeq/WvrrB1ffFiIabC/gXg2EPWu/izD6wDZRE/FGVOsnyHyS3NJXd1wmiE+nTvHxuKQN4OPmN4vxq2B4Z9yqN5utzfZq2Nv+YJp/32FkjW46J7uwDoqZZiigeGjEdMwPLc2GxUDw4fGOX5g=
+6qh911bj2ka051hgruf8h0ougkrsfds6.ngo.	3600	in	nsec3	1 1 0 332539EE7F95C32A 70HG86JQ4UNTO2DMFNLQIHB9NNTJQAST NS DS RRSIG
+6qh911bj2ka051hgruf8h0ougkrsfds6.ngo.	3600	in	rrsig	NSEC3 8 2 3600 20251002031209 20250911021209 49219 ngo. qFPVla7HGufuigSEfCPHBIxa8t+RCxlPI31udJCdCHOdhfrPzPKTxj257jZXgwsauUkDG7hnT8sIQi2nKkNJUlI1zT0PnX+A0Clz3WSCY1YGHyFTSOi1+CM+e6sROZ68ZhhDpNTamc3O8B/z7nFvBrcaF6H9nTqJE+RnDsH6YSs=
+70hg86jq4unto2dmfnlqihb9nntjqast.ngo.	3600	in	nsec3	1 1 0 332539EE7F95C32A 76ADUHL421UJE4J1HMM0P942M09A2UTV NS DS RRSIG
+70hg86jq4unto2dmfnlqihb9nntjqast.ngo.	3600	in	rrsig	NSEC3 8 2 3600 20251002031209 20250911021209 49219 ngo. p8RQoXxra2dwnPIhMFC2VMdM6NMNud8GcYRjf4ugW7g0ygonX7elhZWc1GZ1+QFcNEFGExupCQjwGmYQjP5HNmbdtIGG6fg8c5CuGl1DF+07shpSS1xJITcWUyuVZiJmlR15FO+vMif4z1ubhlcIG6jRVXkYj7G29C/GtKk8Azw=
 76aduhl421uje4j1hmm0p942m09a2utv.ngo.	3600	in	nsec3	1 1 0 332539EE7F95C32A 78M9JH1THNUTNMK6TL5TGI4IROD2QU0U NS DS RRSIG
 76aduhl421uje4j1hmm0p942m09a2utv.ngo.	3600	in	rrsig	NSEC3 8 2 3600 20250930152110 20250909142110 49219 ngo. IUwbqelG/GCUQnx7Yusnf+s9QyHz5Wpp545ohf9v2zD98bgAEsHcPxfinSYQU9hFCxCTc9+obSi+we/XcADOmi87yQojOWSZ8wZ23BMvYl2S8lPjjrjnLVRDDce28+vhSPxy16SpS8530UpkK8Vb3nMB5JXbdmhcO82r64mly4Y=
 777loc.ngo.	3600	in	ns	crystal.ns.cloudflare.com.
@@ -185,10 +187,9 @@ aaf.ngo.	3600	in	ns	ns44.domaincontrol.com.
 aagb.ngo.	3600	in	ns	ns1.digitalocean.com.
 aagb.ngo.	3600	in	ns	ns2.digitalocean.com.
 aagb.ngo.	3600	in	ns	ns3.digitalocean.com.
-aai.ngo.	3600	in	ns	curitiba.ns.porkbun.com.
-aai.ngo.	3600	in	ns	fortaleza.ns.porkbun.com.
-aai.ngo.	3600	in	ns	maceio.ns.porkbun.com.
-aai.ngo.	3600	in	ns	salvador.ns.porkbun.com.
+aai.ngo.	3600	in	ns	ns1.dreamhost.com.
+aai.ngo.	3600	in	ns	ns2.dreamhost.com.
+aai.ngo.	3600	in	ns	ns3.dreamhost.com.
 aaiwo.ngo.	3600	in	ns	ns1281.aryanict.com.
 aaiwo.ngo.	3600	in	ns	ns1282.aryanict.com.
 aalambana.ngo.	3600	in	ns	ns65.domaincontrol.com.
@@ -3553,6 +3554,9 @@ dadshouse.ngo.	3600	in	ns	ns39.domaincontrol.com.
 dadshouse.ngo.	3600	in	ns	ns40.domaincontrol.com.
 daga.ngo.	3600	in	ns	dara.ns.cloudflare.com.
 daga.ngo.	3600	in	ns	quinton.ns.cloudflare.com.
+dakgb-onafeko.ngo.	3600	in	ns	dns1.afeeshost.ltd.
+dakgb-onafeko.ngo.	3600	in	ns	dns2.afeeshost.ltd.
+dakgb-onafeko.ngo.	3600	in	ns	dns3.afeeshost.com.
 dakini.ngo.	3600	in	ns	ns69.domaincontrol.com.
 dakini.ngo.	3600	in	ns	ns70.domaincontrol.com.
 dakshas.ngo.	3600	in	ns	dns1.bigrock.in.
@@ -4570,10 +4574,8 @@ euri.ngo.	3600	in	ns	odin.ns.cloudflare.com.
 euri.ngo.	3600	in	ns	sierra.ns.cloudflate.com.
 eurika.ngo.	3600	in	ns	ns41.infomaniak.com.
 eurika.ngo.	3600	in	ns	ns42.infomaniak.com.
-euromove.ngo.	3600	in	ns	ns1.nexloc.ro.
-euromove.ngo.	3600	in	ns	ns1.sitebunker.net.
-euromove.ngo.	3600	in	ns	ns2.nexloc.ro.
-euromove.ngo.	3600	in	ns	ns2.sitebunker.net.
+euromove.ngo.	3600	in	ns	ishaan.ns.cloudflare.com.
+euromove.ngo.	3600	in	ns	olivia.ns.cloudflare.com.
 euronatur.ngo.	3600	in	ns	ns1.mk.de.
 euronatur.ngo.	3600	in	ns	ns2.mk.de.
 europeihh.ngo.	3600	in	ns	ns1djs.name.com.
@@ -5216,6 +5218,8 @@ futuro.ngo.	3600	in	ns	dns4.p04.nsone.net.
 fvpa.ngo.	3600	in	ns	ns1.hosttech.ch.
 fvpa.ngo.	3600	in	ns	ns2.hosttech.ch.
 fvpa.ngo.	3600	in	ns	ns3.hosttech.ch.
+fwc.ngo.	3600	in	ns	ns6.wixdns.net.
+fwc.ngo.	3600	in	ns	ns7.wixdns.net.
 fyi.ngo.	3600	in	ns	ns45.domaincontrol.com.
 fyi.ngo.	3600	in	ns	ns46.domaincontrol.com.
 g0ijcej59nbp1q8rothif9ij77v8sv2l.ngo.	3600	in	nsec3	1 1 0 332539EE7F95C32A G12RR4NUQ04350EKQ4SQB5STMKF36K44 NS DS RRSIG
@@ -8925,9 +8929,6 @@ nde.ngo.	3600	in	ns	ns6.civicosdns.net.
 nde.ngo.	3600	in	ns	ns7.civicosdns.net.
 nde.ngo.	3600	in	ns	ns8.civicosdns.net.
 nde.ngo.	3600	in	ns	ns9.civicosdns.net.
-ndev.ngo.	3600	in	ns	ns1.onlydomains.com.
-ndev.ngo.	3600	in	ns	ns2.onlydomains.com.
-ndev.ngo.	3600	in	ns	ns3.onlydomains.com.
 ne-damo-srbiju.ngo.	3600	in	ns	ns1.nodns.online.
 ne-damo-srbiju.ngo.	3600	in	ns	ns2.nodns.online.
 near.ngo.	3600	in	ns	ns1ksz.name.com.
@@ -9022,7 +9023,7 @@ ngo.	3600	in	nsec3param	1 0 0 332539EE7F95C32A
 ngo.	3600	in	rrsig	DNSKEY 8 1 3600 20250930152110 20250909142110 23944 ngo. wQY70XQqPG55dlH+WrTJ3ej0nSotvAwcTrBefM51aMpkXU4OrALLkN5A8n+eHTaqlyMgFl+3jHhrVYekh96aNpn/+gtI0PDhZAizlTSJw2d1zMS4O0cWTZWc+jHsOnUMPs3rFNaTTR+uf2YKDd0FNWUGY3gAg0XvSL3wEqPPhAsG1NkjkQ0ofhyhNRx3lM2th/fbIMxs6JUBRSitWHFf2xYEgs19lxpRVfijc0YIuUVvRb4s3uACYNaqPYO5xtDOnQ52w88mJKe8vHgJur8D1C22VyB86mfm16xI5g4Ad9GRnAT4YzamBuAdMBmaFPCKc88qj9fK1Vc0gnwYOOie6w==
 ngo.	3600	in	rrsig	NS 8 1 3600 20250930152110 20250909142110 49219 ngo. XuxRPZ1AgIuwwC6n6+tz/Kv9bS6LvQ/HkC6ReR0gX9SpV3BpmubjRKoGrF7C7StLSV5MnlbmMKLroxewIXVP0+dctzoTUdKLv5jew/4EfCsNqdR9WAeaaYLWHCCMybsXk6Qr9XfNShOElIP8bBNUC/iy2dicjgw7UzqL0BWCcqY=
 ngo.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930152110 20250909142110 49219 ngo. sxZsIWi6+VlWeL1G3TCE3jkUBXcAs6yZyeMkS+tGYPcvLDYMehWUOXcK791Q5WrhJze1BYgbz5w6uIaocN181fyYQgAQGZCUwCXSk7vOaEmnpm6aX4ub3N1zLKHGDP5KiXDS+yAlZosXWBpaM1omZuVMpYFsddBQ+tNlnQNzaUY=
-ngo.	3600	in	rrsig	SOA 8 1 3600 20251002012740 20250911002740 49219 ngo. CPnhXNeJ0bXogv2vdbA9JoVrNjDXQtuKkFN/bUTSmZ0KcuTGLpTJv07nl6+jvSzFb80DZqWkygfW1DsREHTMWEdPdAbTZaNSC9V/02GPK9n8sCeuS4zqhn2FePivPgJCjIWG4rdduZNxbge+lpchRlsCmX+IW+zmqVTN6hsDsts=
+ngo.	3600	in	rrsig	SOA 8 1 3600 20251003011550 20250912001550 49219 ngo. nSU5qceCbXUoQrYjNVFB5BWcgBMKZp/4mt4+8JISd368pjTmqXUpCG/B8NmEF4ePASuyBE8XcYU+xfDlwaCJXXw4prITvyYvOoWIWhkeSZGEoO8IQrF4QOOdPYAiz1kX+yXdXkFfS5TudXPPjpizxUVzKslCu+kAyizyhMMYRQo=
 ngocoordination.ngo.	3600	in	ns	ns1.101domain.com.
 ngocoordination.ngo.	3600	in	ns	ns2.101domain.com.
 ngodirectory.ngo.	3600	in	ns	v0n0.dns.zone.services.
@@ -9299,7 +9300,7 @@ nyenvironcom.ngo.	3600	in	ns	phil.ns.cloudflare.com.
 nyx.ngo.	3600	in	ns	ns73.domaincontrol.com.
 nyx.ngo.	3600	in	ns	ns74.domaincontrol.com.
 o40ke15j05vsl9iegq3ch7qt6ffb7nln.ngo.	3600	in	nsec3	1 1 0 332539EE7F95C32A O6MKALLGNNQN0VRHSQ3BOP2RDOMCUQGQ NS SOA RRSIG DNSKEY NSEC3PARAM
-o40ke15j05vsl9iegq3ch7qt6ffb7nln.ngo.	3600	in	rrsig	NSEC3 8 2 3600 20251002012740 20250911002740 49219 ngo. idLQlq+OoU/qeE05gaxIjHA+ml/HLSiLsi05EeUwLFkIw1ak/03b3EG29sVqCCBrn+rJzQTNyPvHcBcr2DUaG83DGZuMtyWv5X9DxT/iu1bbUR0j2WtMNKBn5HgWr62PfSSCpkvUsbXdSHuCwyDBZsO0J4BcSfTx+os58cbP3IA=
+o40ke15j05vsl9iegq3ch7qt6ffb7nln.ngo.	3600	in	rrsig	NSEC3 8 2 3600 20251003011550 20250912001550 49219 ngo. 07K+WrOodcXxfWZM7Udd7F3BJPjHzUBimvPiEyPgpdw9Zo1PMcKApGTlIQ139d3dWWHqdV+Qx/Zb4wcl0xiWx7ur8FjfnlglBOyHfYwYaEZBk3QNiX02Czrb6ctznbliUoJ/3UR/kQ36JBSUAMo/5ymIAZuK1pc3FSUtqnfrm2I=
 o6mkallgnnqn0vrhsq3bop2rdomcuqgq.ngo.	3600	in	nsec3	1 1 0 332539EE7F95C32A OE8U3GHLEMJFUKR1T9D6JTE57ATF1G93 NS DS RRSIG
 o6mkallgnnqn0vrhsq3bop2rdomcuqgq.ngo.	3600	in	rrsig	NSEC3 8 2 3600 20250930152110 20250909142110 49219 ngo. WiNuyDE8r8w35KlInJ7c9bVSk2/zPEl0RztZ8eXGcKIJ2WbzfTBcT3vhOXqXKirXG5xAUvOIkwqsL8o0Ks6ycsse7zJ4pdsGzbxEQyHbv1mNNF/fbMpKaU82zmyluyf+jcZfA9HNVze2jWZ12vZNxxLMXmf9eOl2h14YZCvWSTg=
 oac.ngo.	3600	in	ns	ns1ntw.name.com.
@@ -11541,6 +11542,8 @@ siif.ngo.	3600	in	ns	ns1.dns-parking.com.
 siif.ngo.	3600	in	ns	ns2.dns-parking.com.
 siipc.ngo.	3600	in	ns	ns1.cloud-ebfcda.managed-vps.net.
 siipc.ngo.	3600	in	ns	ns2.cloud-ebfcda.managed-vps.net.
+sikhaid.ngo.	3600	in	ns	ns37.domaincontrol.com.
+sikhaid.ngo.	3600	in	ns	ns38.domaincontrol.com.
 silene.ngo.	3600	in	ns	ns1dns.name.com.
 silene.ngo.	3600	in	ns	ns2lns.name.com.
 silene.ngo.	3600	in	ns	ns3bfm.name.com.
@@ -12563,8 +12566,10 @@ tgl.ngo.	3600	in	ns	ns3.kualo.net.
 tgl.ngo.	3600	in	ns	ns4.kualo.net.
 thaagam.ngo.	3600	in	ns	norah.ns.cloudflare.com.
 thaagam.ngo.	3600	in	ns	tony.ns.cloudflare.com.
+thanh.ngo.	3600	in	ds	2371 13 2 B97D14EB1A4679EF72E1809577C1BD866E75425C986172F434A7CDB2006C5A90
 thanh.ngo.	3600	in	ns	desi.ns.cloudflare.com.
 thanh.ngo.	3600	in	ns	leonidas.ns.cloudflare.com.
+thanh.ngo.	3600	in	rrsig	DS 8 2 3600 20251002031209 20250911021209 49219 ngo. Ovm4YTSAS76IEQ7D9FcQQlEDVAmg/hYw8prHyR1o9G3GGc+sbl3wzC+ihussMc0/v2G0LGFM5/lE9HvPME85/K7vENiT2XkQX/awvPFZvkBwnaV0QZ/OJItBSn52Sm/SLhb62T9VOnYwFKULX3Djk8NoGabCq68t3LJJwlo7KNA=
 that.ngo.	3600	in	ns	evan.ns.cloudflare.com.
 that.ngo.	3600	in	ns	indie.ns.cloudflare.com.
 thc.ngo.	3600	in	ds	59422 8 2 0DEA171FA53116567BFBB9C50E130C208579166EF5228EE5D8E658FB5351B229
@@ -13280,6 +13285,9 @@ vibe.ngo.	3600	in	ns	dns1.registrar-servers.com.
 vibe.ngo.	3600	in	ns	dns2.registrar-servers.com.
 vibeworker.ngo.	3600	in	ns	dns1.registrar-servers.com.
 vibeworker.ngo.	3600	in	ns	dns2.registrar-servers.com.
+vibrant.ngo.	3600	in	ns	ns1.instradns.com.
+vibrant.ngo.	3600	in	ns	ns2.instradns.com.
+vibrant.ngo.	3600	in	ns	ns3.instradns.com.
 viceversa.ngo.	3600	in	ns	ns1.dreamhost.com.
 viceversa.ngo.	3600	in	ns	ns2.dreamhost.com.
 viceversa.ngo.	3600	in	ns	ns3.dreamhost.com.
@@ -14096,4 +14104,4 @@ zuelligfoundation.ngo.	3600	in	ns	ns3gmt.name.com.
 zuelligfoundation.ngo.	3600	in	ns	ns4cjp.name.com.
 zwdc.ngo.	3600	in	ns	dns1.registrar-servers.com.
 zwdc.ngo.	3600	in	ns	dns2.registrar-servers.com.
-ngo.	3600	in	soa	a0.nic.ngo. hostmaster.donuts.email. 1757553967 7200 900 1209600 3600
+ngo.	3600	in	soa	a0.nic.ngo. hostmaster.donuts.email. 1757639477 7200 900 1209600 3600
