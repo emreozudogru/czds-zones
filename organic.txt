@@ -1,4 +1,4 @@
-organic.	3600	in	soa	a0.nic.organic. hostmaster.donuts.email. 1757554000 7200 900 1209600 3600
+organic.	3600	in	soa	a0.nic.organic. hostmaster.donuts.email. 1757639572 7200 900 1209600 3600
 100.organic.	3600	in	ns	ns1.site.pro.
 100.organic.	3600	in	ns	ns2.site.pro.
 100.organic.	3600	in	ns	ns3.site.pro.
@@ -52,7 +52,7 @@ organic.	3600	in	soa	a0.nic.organic. hostmaster.donuts.email. 1757554000 7200 90
 43euac601khmqe2e3tut63ubbelv5g78.organic.	3600	in	nsec3	1 1 0 73 4PDDKJUUJQBR5QCCV32MHD1P26O1MS6R NS DS RRSIG
 43euac601khmqe2e3tut63ubbelv5g78.organic.	3600	in	rrsig	NSEC3 8 2 3600 20250930155640 20250909145640 63369 organic. CSGwhKkGo4ifXyNGByUudfzSt60VS9UpfntsPVqI41hMeM2uj6u9Dt7M57KnmUbqYAvnxZPZ4MyYD99N9+NAdlXYfFAQaNEVqsk/iaGL5YsxAUr3myaEhyZJlqUXewVPN8mXnuQweVD2pIxGJfBn7IKx9fu2ZnB3phGCI7dc0ow=
 4pddkjuujqbr5qccv32mhd1p26o1ms6r.organic.	3600	in	nsec3	1 1 0 73 508UR1RBVOUA18JKDCDO66MBER3OHH1L NS SOA RRSIG DNSKEY NSEC3PARAM
-4pddkjuujqbr5qccv32mhd1p26o1ms6r.organic.	3600	in	rrsig	NSEC3 8 2 3600 20251002013011 20250911003011 63369 organic. iEbmWRkbxxWBO7mrWl9z3xzoa3bwgYgCNUHvU64SzJsgvhStr8KZeob64/8qvpg6uyhWUDOYnuOpxYPXf6Jr67JsiJPHxXYk+STxFrQktKyXHp8SKqSB/5HwZ/9zgdT57h2JrYk6b/QkGfi6yMM8vumvn+nKgKB8jZz/p63SNI8=
+4pddkjuujqbr5qccv32mhd1p26o1ms6r.organic.	3600	in	rrsig	NSEC3 8 2 3600 20251003011620 20250912001620 63369 organic. XuRU7pozaWPG9GNs7Nq9uORo2kgUyVwLeNA3cGi84NwCpcGtyAHCba1y7Y3aT21IVNAz1AwR4RTFMCpTV7JkobHcxa1Ql3NcgvNz2N0xPc90YGDyPtHDJPxSRVqmvP/Uot0Cy5kIvmAaJqIp9q+WKog9m976zX0hOvjb7h1xnrk=
 508ur1rbvoua18jkdcdo66mber3ohh1l.organic.	3600	in	nsec3	1 1 0 73 51EMIJ273N08CDT1PCTRUFGALAMG55AL NS DS RRSIG
 508ur1rbvoua18jkdcdo66mber3ohh1l.organic.	3600	in	rrsig	NSEC3 8 2 3600 20250930155640 20250909145640 63369 organic. F7wgr3KiuIsInR606Gyic5m5+kvIn2QkND89KUss0StfTGKpllXlEqigCqC7gj3Qoit/AiYAwG43U8h+g86kTyUZLC5+XDhLvgsQaQLeHy4mcL3Wx+TDFZM90D35OHiVQVtooAwMt2ZiPgh6eA4aV5HzBWF8eehKFlD+liOKcCk=
 51emij273n08cdt1pctrufgalamg55al.organic.	3600	in	nsec3	1 1 0 73 544TM7IDRIIEVFDQKT9BPL44R9PCNIRC NS DS RRSIG
@@ -3180,6 +3180,8 @@ online.organic.	3600	in	ns	ns6.afternic.com.
 only.organic.	3600	in	ns	ns1.101domain.com.
 only.organic.	3600	in	ns	ns2.101domain.com.
 only.organic.	3600	in	ns	ns5.101domain.com.
+only21.organic.	3600	in	ns	ns12.wixdns.net.
+only21.organic.	3600	in	ns	ns13.wixdns.net.
 oom.organic.	3600	in	ns	curitiba.ns.porkbun.com.
 oom.organic.	3600	in	ns	fortaleza.ns.porkbun.com.
 oom.organic.	3600	in	ns	maceio.ns.porkbun.com.
@@ -3217,7 +3219,7 @@ organic.	3600	in	nsec3param	1 0 0 73
 organic.	3600	in	rrsig	DNSKEY 8 1 3600 20250930155640 20250909145640 22474 organic. B6wEe5b4BIQhmv9imsVs9kqqUPoP9kT+tWU/bS4x4SVwqMJDdNwC906XD10/zGf0nhSdTpIkDlYpPrApg34pjArQWIJsSVR+ACSfJJqRdlfPG93DfW17OZuf9XJoAgfRR21CymkzB45GqXJ82C4H0NUyt/dcyEfTZJgywPnKSySQthOPDebQ/kGLKCc9uHPNz4zzHKj4+HGbsrTVM6pa+1QckBQmHJqWt++ZwtSYjVjG60WI97MPHBva+PGtUjOr6k4wQka6I/KDVE2+OQgwvYZh/QZN62wjaxfw40thFkQzaHEh7wSSYdVT9cdwgvXwzj2mIqQUnWDUBtUwpzzDrg==
 organic.	3600	in	rrsig	NS 8 1 3600 20250930155640 20250909145640 63369 organic. PZmhW63rmNwraH/HpD1gp16876mrNrJc8WlSVtuy8IR6fYF5rTgrdm+n+JfZ4W8QwuF/BvIYJ5FWgDU41LlOFwzd070YGu4iNKArncsi9DqsO5otd+io73r8Wo5r5YmuYSaY1XWaZ6oAvHA+D+0xNyiIk1j8GsYVUEd/gITAPEU=
 organic.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930155640 20250909145640 63369 organic. VSKlSRF8EhFNW+GgzfsqIiNghBsXeOg9RoYqX1F3NqQsH2YuHa4W5bdP+fkDuNlV0QFDu8LS0dzgfDozM1+Coob4fcpi4y3dRUceGouvMprjUdMLIPyYcpAtA+b8Qh/n/gIFJ9FwmwGxEFApaoGZy8B2LCi6SwAVwHoMjXJ/EWc=
-organic.	3600	in	rrsig	SOA 8 1 3600 20251002013011 20250911003011 63369 organic. ZAhOVMh6oT6FG4Y1Qf8ba1Y6gPzWXWb/4DzUf1fqO9pVISPR6O3o8UVtSWVaIhs14zCwPiFyTYfxxqdIsmeKSYuh5VLbu7mkacttfQtjTZx4OnetL6ux1eM7dYoQyhBlBoB6mogwd+q2jTTRooOkeQy3+MGWfgjATdbhuGBrLeM=
+organic.	3600	in	rrsig	SOA 8 1 3600 20251003011620 20250912001620 63369 organic. S1dom3iMBezK3sTlnqdRYBM5cfKAz88Cosp7my4dhEkwbZT9XOhAWk2Z41kyd891F2MbOCxv19NBc8pCcQjSGIEJNwh0FDW+0RgByqcPc7ibaVgla6kFJSEsoefYp77gy0AUVGgXEFx0i1MLWuaZn66T2Tql1qaULKvjBS2U+Y4=
 organic.organic.	3600	in	ns	ns1.dyna-ns.net.
 organic.organic.	3600	in	ns	ns2.dyna-ns.net.
 organicgarden.organic.	3600	in	ns	dns01.gmoserver.jp.
@@ -4277,8 +4279,8 @@ turka.organic.	3600	in	ns	ns5.kasserver.com.
 turka.organic.	3600	in	ns	ns6.kasserver.com.
 turkeytail.organic.	3600	in	ns	dns31.hichina.com.
 turkeytail.organic.	3600	in	ns	dns32.hichina.com.
-turkish.organic.	3600	in	ns	ns1.bodis.com.
-turkish.organic.	3600	in	ns	ns2.bodis.com.
+turkish.organic.	3600	in	ns	ns1.dns-redirect.com.
+turkish.organic.	3600	in	ns	ns2.dns-redirect.com.
 turmeric.organic.	3600	in	ns	mark.ns.cloudflare.com.
 turmeric.organic.	3600	in	ns	rose.ns.cloudflare.com.
 tuve.organic.	3600	in	ns	ns1.odeaweb.com.
@@ -4736,4 +4738,4 @@ zuii.organic.	3600	in	ns	ns2.instradns.com.
 zuii.organic.	3600	in	ns	ns3.instradns.com.
 zvgwz.organic.	3600	in	ns	ns1.dnsip.com.
 zvgwz.organic.	3600	in	ns	ns2.dnsip.com.
-organic.	3600	in	soa	a0.nic.organic. hostmaster.donuts.email. 1757554000 7200 900 1209600 3600
+organic.	3600	in	soa	a0.nic.organic. hostmaster.donuts.email. 1757639572 7200 900 1209600 3600
