@@ -1,9 +1,9 @@
-goldpoint.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757551337 1800 900 604800 3600
+goldpoint.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757635865 1800 900 604800 3600
 96tvu4a7fnts7prenqifjnqbethf7egq.goldpoint.	3600	in	nsec3	1 0 0 - L52RQQ7EKTBFABPAC1Q0PB0HPFR9NVC7 TXT RRSIG
 96tvu4a7fnts7prenqifjnqbethf7egq.goldpoint.	3600	in	rrsig	NSEC3 8 2 3600 20250918021730 20250910204519 58909 goldpoint. A3ecYyrj7K8saSg8r57vkID4qk4Rvd9yVM4x+vm46ljfedZ69eMSPjVCfWkVeLtKT674tsE9WLKbWtexfx495DFrh7H1KyE0KcYmdcRORnsTsFA8+caFSfUfyFkPBuDHSU3NgvORPbgCuERE8vhHX+A1mltxQbICpZjUSDpOyL0=
-__zone_status.goldpoint.	0	in	rrsig	TXT 8 2 0 20250917214002 20250910234208 58909 goldpoint. y77fvACPZ3HWaADb+31WRjrAWl6yM0aRKdd9tv4d6IY+FmyNaiYTw/BEvZHJWNE+RJLQYmCmaimwkANSQXpCPNzqfPwj4joWr2k1wA+a6lewzSeyNu0EKWnPt8Wc9C01tFX9M5oD0Vqi8AMCZ57CUtts2o7LyLBXrcacIQPhDSY=
-__zone_status.goldpoint.	0	in	txt	"original-serial=73132"
-__zone_status.goldpoint.	0	in	txt	"original-timestamp=1757551328.55892"
+__zone_status.goldpoint.	0	in	rrsig	TXT 8 2 0 20250918150215 20250911231045 58909 goldpoint. rfOOnmhXzYFLgRcuu0GqI3EZ6zY8gAUCi14Bn0V78DBBwoOqZ0SSGXyOr4IJUbKk1AIwMKpjI4yFZt7HUyikuGM6j+BaLtM6erFUn6dhdTvd4qrmKfEbnpLlR2D7IIyJIQFP3qRrUR1C6g2v/ZHSjtJhknGlbZarK4lm6yZTtO0=
+__zone_status.goldpoint.	0	in	txt	"original-serial=73154"
+__zone_status.goldpoint.	0	in	txt	"original-timestamp=1757635814.16405"
 goldpoint.	0	in	nsec3param	1 0 0 -
 goldpoint.	0	in	rrsig	NSEC3PARAM 8 1 0 20250917135837 20250910204519 58909 goldpoint. mSRopjYCo8p+FGTll0QTbkfE/wpx2HFPmTChXgtt3UOSdUnDMH5H03dj3yMdb9ZQBaqFFaXdconu3fkB+5AMAbNMDfICWcNYOpNe/SePy1yNg5B5JQYOnBvbS4Hb7wZDyXTYxqTzO+2TC53q6Laq6mTKIQHB7qj45ZmICdNfNqk=
 goldpoint.	86400	in	dnskey	256 3 8 AwEAAcx89QyvRKDXIFHFBR5JtWDJVvkeg+fA+89r9dIKsBMzbndsHU5qfAQT15NCrYLCiGWNmDbl2X8y8Wmi8n6weOitCdjZPDHLzirdZ8kuJmJlWq3oLln7u6ApCa566OcJjvmxqc393eU1izkCSDGk3DXNSH6SpZF0WxO65bSkHYY3
@@ -14,11 +14,11 @@ goldpoint.	86400	in	ns	k.gmoregistry.net.
 goldpoint.	86400	in	ns	l.gmoregistry.net.
 goldpoint.	86400	in	rrsig	DNSKEY 8 1 86400 20250917110813 20250910204519 44254 goldpoint. uVaRP+u4PUEfl0UHOQWeq+JsWK4oQ0L1Ymm2rq+DB8Q9zsjDlLpbOjRKiGYo7uO/oj9c9DYS+APbUHMZkBQoRHR3k3GyMpV0KxQ5sD/7BX4OlQs+189YRbqFqeR07ZTBnbl9s3BowkWz9xEmwbVDmSGFMORTFHN2F9rn2EXW7JnyNJ6Hab1c0M3Fjo4czA8NXGdHnenrOUdlzOcA5wUJpEMfkQZzPxNooq/xJ/4yx91xGOtbNKdo/uKH2htpMJJI+C14xMvackOux+Pk4m4Z7RPqOzvKecslSjmdy02VcgQj5lPVAw5mdKUABZBIfnHWH29Mt88hJGp9pYlg3rEv+Q==
 goldpoint.	86400	in	rrsig	NS 8 1 86400 20250917194545 20250910204519 58909 goldpoint. gqF6C/pXXY2zg/HpG+xqxN1KXkpGN3CrspExpfTNDaG1NVIc0OPxR6CWCdWSHlYxQ+2llaS/W3kYv+pIVhvdsY3gOrYd+T8yl1AwbIDFRtXJRek1eV4t0t3Gow42gJwa9x24cnYDGFQxEsShDnkpmsoAURd+JtZGpdZN7/rYix8=
-goldpoint.	86400	in	rrsig	SOA 8 1 86400 20250918011108 20250910234208 58909 goldpoint. dPdmp0h+k4VsZuAHCraTUJUrp9oSuikEp70RdhI64NEzzFv6yHBFuj3pIGaaUbvYqRjVLRoj9r5P+AvX5VlJ6sCFVQiXwu5IUY1fklG9cVjIuowwtQiIBT/LJQZFiTJM8WUgDTO85l+b5a234U+O+Iq7DQnOvXjBrXsY5RfakL0=
+goldpoint.	86400	in	rrsig	SOA 8 1 86400 20250918213844 20250911231045 58909 goldpoint. iMbxC1aF6r0TrBiF827GQByW8PFSg068SLpAxgPrvWzLmXskDa5gtaiMJoyvHvG0Hb9z8sxa78sykc6GjRMctV8FA+dke/23VYWBZ+sBRyw9yWXGI+xP7+cwVY/lCxlFFqlndHa+uRAmzMh1BDboUL3Cj8Z7qfmY/V2b+1S8PG8=
 l52rqq7ektbfabpac1q0pb0hpfr9nvc7.goldpoint.	3600	in	nsec3	1 0 0 - URIIS82UIGN25GON9QIP7ND19N7SUNVH NS
 l52rqq7ektbfabpac1q0pb0hpfr9nvc7.goldpoint.	3600	in	rrsig	NSEC3 8 2 3600 20250917233621 20250910204519 58909 goldpoint. CFP7sDsekiN+p3kecgqej4XPkDnzYMYQWcyRE81MrE2uIitC+ewN2+IX5YhV/1m3Gah9sUndarhhljP2wB9MqPRDVYDNSJQar69s1F/V54oxVzJ3J6+y14Zisg4+xErIb1mEn80J6znFkB4rJeqYgLwdHKVBflwKQG8zkJUJMMw=
 nic.goldpoint.	86400	in	ns	ns1.gmointernet.com.
 nic.goldpoint.	86400	in	ns	ns1.gmointernet.jp.
 uriis82uign25gon9qip7nd19n7sunvh.goldpoint.	3600	in	nsec3	1 0 0 - 96TVU4A7FNTS7PRENQIFJNQBETHF7EGQ NS SOA RRSIG DNSKEY NSEC3PARAM
 uriis82uign25gon9qip7nd19n7sunvh.goldpoint.	3600	in	rrsig	NSEC3 8 2 3600 20250917181627 20250910204519 58909 goldpoint. PsRv6QdvnskiYfPyW/Uf56GO6S+bw/IoYzO69H57WayReRveWmXPjofYcgfKBHpdD1pTdIcA5cXFSkTFeQyrTiqLTjGvqxJOVYBpV+OxhlVB3haWk7ThMaDUFMJbNWmJjqmNWF1Hl13PAFDP+sqnMcdvpQ111hCHouArO1OCgkM=
-goldpoint.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757551337 1800 900 604800 3600
+goldpoint.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757635865 1800 900 604800 3600
