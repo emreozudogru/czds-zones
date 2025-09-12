@@ -1,4 +1,4 @@
-video.	3600	in	soa	v0n0.nic.video. hostmaster.donuts.email. 1757553300 7200 900 1209600 3600
+video.	3600	in	soa	v0n0.nic.video. hostmaster.donuts.email. 1757639509 7200 900 1209600 3600
 0000.video.	3600	in	ns	ns1.pixtel.net.
 0000.video.	3600	in	ns	ns3.pixtel.net.
 0001.video.	3600	in	ns	dns7.hichina.com.
@@ -231,8 +231,8 @@ video.	3600	in	soa	v0n0.nic.video. hostmaster.donuts.email. 1757553300 7200 900 
 10330.video.	3600	in	ns	ns2.dnsip.com.
 106.video.	3600	in	ns	dns29.hichina.com.
 106.video.	3600	in	ns	dns30.hichina.com.
-108.video.	3600	in	ns	ns1.bodis.com.
-108.video.	3600	in	ns	ns2.bodis.com.
+108.video.	3600	in	ns	ns1.dns-redirect.com.
+108.video.	3600	in	ns	ns2.dns-redirect.com.
 1080hd.video.	3600	in	ns	dns101.registrar-servers.com.
 1080hd.video.	3600	in	ns	dns102.registrar-servers.com.
 10k.video.	3600	in	ns	ns1.dreamhost.com.
@@ -3254,8 +3254,8 @@ agpferd.video.	3600	in	ns	ns1021.ui-dns.org.
 agpferd.video.	3600	in	ns	ns1040.ui-dns.biz.
 agpferd.video.	3600	in	ns	ns1072.ui-dns.de.
 agpferd.video.	3600	in	ns	ns1080.ui-dns.com.
-agrar.video.	3600	in	ns	ns1.bodis.com.
-agrar.video.	3600	in	ns	ns2.bodis.com.
+agrar.video.	3600	in	ns	ns1.dns-redirect.com.
+agrar.video.	3600	in	ns	ns2.dns-redirect.com.
 agravis.video.	3600	in	ns	ns.udag.de.
 agravis.video.	3600	in	ns	ns.udag.net.
 agravis.video.	3600	in	ns	ns.udag.org.
@@ -3311,6 +3311,8 @@ ai-asmr.video.	3600	in	ns	val.ns.cloudflare.com.
 ai-asmr.video.	3600	in	ns	vicente.ns.cloudflare.com.
 ai-candy.video.	3600	in	ns	ns23.domaincontrol.com.
 ai-candy.video.	3600	in	ns	ns24.domaincontrol.com.
+ai-generated.video.	3600	in	ns	cartman.ns.cloudflare.com.
+ai-generated.video.	3600	in	ns	magnolia.ns.cloudflare.com.
 ai-generator.video.	3600	in	ns	khloe.ns.cloudflare.com.
 ai-generator.video.	3600	in	ns	louis.ns.cloudflare.com.
 ai-mcn.video.	3600	in	ns	expirens3.hichina.com.
@@ -3536,6 +3538,8 @@ aiml.video.	3600	in	ns	ns63.domaincontrol.com.
 aiml.video.	3600	in	ns	ns64.domaincontrol.com.
 aimobility.video.	3600	in	ns	dns3.hichina.com.
 aimobility.video.	3600	in	ns	dns4.hichina.com.
+aimotion.video.	3600	in	ns	dns1.registrar-servers.com.
+aimotion.video.	3600	in	ns	dns2.registrar-servers.com.
 aimovie.video.	3600	in	ns	launch1.spaceship.net.
 aimovie.video.	3600	in	ns	launch2.spaceship.net.
 aimusic.video.	3600	in	ds	33536 13 2 A8DC31770BA828DEE75D88D880271FA30075E7C673BBAF51C1E71D7F3DD48221
@@ -4181,8 +4185,8 @@ allthefactors.video.	3600	in	ds	65232 13 2 401080BCEA8F0B400841DF40887734BD1C411
 allthefactors.video.	3600	in	ns	launch1.spaceship.net.
 allthefactors.video.	3600	in	ns	launch2.spaceship.net.
 allthefactors.video.	3600	in	rrsig	DS 8 2 3600 20250930161311 20250909151311 52848 video. B24yt0MivpkZN2dKtQQzpKPQAsiKybo37zLOYetK+3G0GgKbmUwc2s9p/fGge5xqtV31KmY+icwVVduKmMWgdiBe/3DH8CRAktrsl9gnze14s/9y/jPZ3hpIA5Iez9kRhyWQApb1IUaHJ+dd1mRe/m6XlPFw6+KzftSz7tghTok=
-alltogether.video.	3600	in	ns	ns1.bodis.com.
-alltogether.video.	3600	in	ns	ns2.bodis.com.
+alltogether.video.	3600	in	ns	ns1.dns-redirect.com.
+alltogether.video.	3600	in	ns	ns2.dns-redirect.com.
 alltuu.video.	3600	in	ns	dns23.hichina.com.
 alltuu.video.	3600	in	ns	dns24.hichina.com.
 allure.video.	3600	in	ns	dns1.cscdns.net.
@@ -4250,6 +4254,8 @@ alphasync.video.	3600	in	ns	ns1gjz.name.com.
 alphasync.video.	3600	in	ns	ns2hjl.name.com.
 alphasync.video.	3600	in	ns	ns3gmv.name.com.
 alphasync.video.	3600	in	ns	ns4clq.name.com.
+alpyne.video.	3600	in	ns	ns67.domaincontrol.com.
+alpyne.video.	3600	in	ns	ns68.domaincontrol.com.
 alshaikh.video.	3600	in	ns	ns1jlp.name.com.
 alshaikh.video.	3600	in	ns	ns2cvx.name.com.
 alshaikh.video.	3600	in	ns	ns3jkl.name.com.
@@ -5760,10 +5766,8 @@ artprice.video.	3600	in	ns	dns2.name-services.com.
 artprice.video.	3600	in	ns	dns3.name-services.com.
 artprice.video.	3600	in	ns	dns4.name-services.com.
 artprice.video.	3600	in	ns	dns5.name-services.com.
-arts.video.	3600	in	ns	ns1.name.com.
-arts.video.	3600	in	ns	ns2.name.com.
-arts.video.	3600	in	ns	ns3.name.com.
-arts.video.	3600	in	ns	ns4.name.com.
+arts.video.	3600	in	ns	dean.ns.cloudflare.com.
+arts.video.	3600	in	ns	sierra.ns.cloudflare.com.
 artsakh.video.	3600	in	ns	conrad.ns.cloudflare.com.
 artsakh.video.	3600	in	ns	suzanne.ns.cloudflare.com.
 artube.video.	3600	in	ns	jasmine.ns.cloudflare.com.
@@ -6115,6 +6119,8 @@ atproto.video.	3600	in	ns	jean.ns.cloudflare.com.
 atproto.video.	3600	in	ns	kevin.ns.cloudflare.com.
 atqqm998mfbutpnsn7rc7k2aq9lae1qv.video.	3600	in	nsec3	1 1 0 73 AUR2M7LS4R2P97GIDAAK370G89H4TQ1V NS DS RRSIG
 atqqm998mfbutpnsn7rc7k2aq9lae1qv.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. j7vR9iZScAOxX5eC0i7lru9r8oUckUCo4+KAq48zCbBGae6bpURVcfvawYhJLYU5nZN0WCW+1iVevebMcw1FySWAtbcxLe9ycC2lxTVQomoSd6QL5b2I+2P7FHKzL9AxAB8pNubSx/diYuYrvsC1/M09H8Y/LEOc/FKzicLYYV8=
+atria.video.	3600	in	ns	dns10.ovh.net.
+atria.video.	3600	in	ns	ns10.ovh.net.
 att.video.	3600	in	ns	guss.ns.cloudflare.com.
 att.video.	3600	in	ns	janet.ns.cloudflare.com.
 attend.video.	3600	in	ns	ns-116.awsdns-14.com.
@@ -6256,10 +6262,6 @@ auss10.video.	3600	in	ns	dns1.registrar-servers.com.
 auss10.video.	3600	in	ns	dns2.registrar-servers.com.
 austinrealestate.video.	3600	in	ns	pdns13.domaincontrol.com.
 austinrealestate.video.	3600	in	ns	pdns14.domaincontrol.com.
-auswandern.video.	3600	in	ns	ns1.moreweb.nz.
-auswandern.video.	3600	in	ns	ns2.moreweb.nz.
-auswandern.video.	3600	in	ns	ns3.moreweb.nz.
-auswandern.video.	3600	in	ns	ns4.moreweb.nz.
 auth.video.	3600	in	ns	dns20.ovh.net.
 auth.video.	3600	in	ns	ns20.ovh.net.
 authentic.video.	3600	in	ns	ns73.domaincontrol.com.
@@ -7826,8 +7828,8 @@ bestbuy.video.	3600	in	ns	ns6.markmonitor.com.
 bestbuy.video.	3600	in	ns	ns7.markmonitor.com.
 bestcoast.video.	3600	in	ns	fay.ns.cloudflare.com.
 bestcoast.video.	3600	in	ns	jerry.ns.cloudflare.com.
-bestfunny.video.	3600	in	ns	ns1.bodis.com.
-bestfunny.video.	3600	in	ns	ns2.bodis.com.
+bestfunny.video.	3600	in	ns	ns1.dns-redirect.com.
+bestfunny.video.	3600	in	ns	ns2.dns-redirect.com.
 bestiality.video.	3600	in	ns	aitana.ns.cloudflare.com.
 bestiality.video.	3600	in	ns	major.ns.cloudflare.com.
 bestmade.video.	3600	in	ns	dns1.p02.nsone.net.
@@ -8740,6 +8742,10 @@ blockstream.video.	3600	in	ns	ns3bgq.name.com.
 blockstream.video.	3600	in	ns	ns4ksy.name.com.
 blofin.video.	3600	in	ns	dns13.hichina.com.
 blofin.video.	3600	in	ns	dns14.hichina.com.
+blog.video.	3600	in	ns	curitiba.ns.porkbun.com.
+blog.video.	3600	in	ns	fortaleza.ns.porkbun.com.
+blog.video.	3600	in	ns	maceio.ns.porkbun.com.
+blog.video.	3600	in	ns	salvador.ns.porkbun.com.
 blogfi.video.	3600	in	ns	ns47.domaincontrol.com.
 blogfi.video.	3600	in	ns	ns48.domaincontrol.com.
 blogger.video.	3600	in	ns	ns1.googledomains.com.
@@ -9197,8 +9203,8 @@ bongda.video.	3600	in	ns	ns-cloud-e1.googledomains.com.
 bongda.video.	3600	in	ns	ns-cloud-e2.googledomains.com.
 bongda.video.	3600	in	ns	ns-cloud-e3.googledomains.com.
 bongda.video.	3600	in	ns	ns-cloud-e4.googledomains.com.
-bongdalu.video.	3600	in	ns	ns1.bodis.com.
-bongdalu.video.	3600	in	ns	ns2.bodis.com.
+bongdalu.video.	3600	in	ns	ns1.dns-redirect.com.
+bongdalu.video.	3600	in	ns	ns2.dns-redirect.com.
 bongdaso.video.	3600	in	ns	cora.ns.cloudflare.com.
 bongdaso.video.	3600	in	ns	kyrie.ns.cloudflare.com.
 bonk.video.	3600	in	ns	dns1.registrar-servers.com.
@@ -9654,6 +9660,8 @@ breisach.video.	3600	in	ns	ns-de.1and1-dns.de.
 breisach.video.	3600	in	ns	ns-de.1and1-dns.org.
 brennancorcoran.video.	3600	in	ns	ns57.domaincontrol.com.
 brennancorcoran.video.	3600	in	ns	ns58.domaincontrol.com.
+brent.video.	3600	in	ns	ns1.dns-redirect.com.
+brent.video.	3600	in	ns	ns2.dns-redirect.com.
 bretmichaels.video.	3600	in	ns	bella.ns.cloudflare.com.
 bretmichaels.video.	3600	in	ns	major.ns.cloudflare.com.
 brevidee.video.	3600	in	ns	dns1.registrar-servers.com.
@@ -11216,10 +11224,6 @@ cctv-cmpany.video.	3600	in	ns	ns1.dnsip.com.
 cctv-cmpany.video.	3600	in	ns	ns2.dnsip.com.
 cctv-company.video.	3600	in	ns	dns31.hichina.com.
 cctv-company.video.	3600	in	ns	dns32.hichina.com.
-cd.video.	3600	in	ns	ns1bcp.name.com.
-cd.video.	3600	in	ns	ns2dqr.name.com.
-cd.video.	3600	in	ns	ns3qtx.name.com.
-cd.video.	3600	in	ns	ns4hny.name.com.
 cd6rou50sa6nsb526e9r4hgchhkorgka.video.	3600	in	nsec3	1 1 0 73 CDQEE96M424L4J185UN70Q62DAM348EI NS DS RRSIG
 cd6rou50sa6nsb526e9r4hgchhkorgka.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. ovvDYYF9VIHwB2YAxkk4Kav3CyFWVGfRz4lDaOnTzmpeu6KvckIxwWs35CjbYQvfZB1uAhVwA0DGn5Pb/qf8VhJ725qyJbsNE9jD398bWLtNcPqy5MJlsIpW8KIbOue8x0qWihb46H5LLY70mtv1TMPteEY23ptdUwdlgAijcJI=
 cdgbo.video.	3600	in	ns	ns1.dnsip.com.
@@ -11774,8 +11778,8 @@ chinaporn.video.	3600	in	ns	ines.ns.cloudflare.com.
 chinaporn.video.	3600	in	ns	jerome.ns.cloudflare.com.
 chinapro.video.	3600	in	ns	serena.ns.cloudflare.com.
 chinapro.video.	3600	in	ns	zahir.ns.cloudflare.com.
-chinese.video.	3600	in	ns	dns1.registrar-servers.com.
-chinese.video.	3600	in	ns	dns2.registrar-servers.com.
+chinese.video.	3600	in	ns	dns101.registrar-servers.com.
+chinese.video.	3600	in	ns	dns102.registrar-servers.com.
 chinesepod.video.	3600	in	ns	ns1kwy.name.com.
 chinesepod.video.	3600	in	ns	ns2fwz.name.com.
 chinesepod.video.	3600	in	ns	ns3jwx.name.com.
@@ -12409,8 +12413,8 @@ clientify.video.	3600	in	ns	ns41.domaincontrol.com.
 clientify.video.	3600	in	ns	ns42.domaincontrol.com.
 clients.video.	3600	in	ns	ns.liquidweb.com.
 clients.video.	3600	in	ns	ns1.liquidweb.com.
-cliff.video.	3600	in	ns	ns1.bodis.com.
-cliff.video.	3600	in	ns	ns2.bodis.com.
+cliff.video.	3600	in	ns	ns1.dns-redirect.com.
+cliff.video.	3600	in	ns	ns2.dns-redirect.com.
 clikthrough.video.	3600	in	ns	pdns11.domaincontrol.com.
 clikthrough.video.	3600	in	ns	pdns12.domaincontrol.com.
 climate.video.	3600	in	ds	55362 13 2 E2E582B89B4D78B1A1A95A6FC7F2803A1EFF096AF218A45BBA8F7C7A5DE12BE4
@@ -13028,8 +13032,8 @@ compassion.video.	3600	in	ns	ingrid.ns.cloudflare.com.
 compassion.video.	3600	in	ns	jerry.ns.cloudflare.com.
 completelymindless.video.	3600	in	ns	ns1.dyna-ns.net.
 completelymindless.video.	3600	in	ns	ns2.dyna-ns.net.
-compliance.video.	3600	in	ns	ns1.bodis.com.
-compliance.video.	3600	in	ns	ns2.bodis.com.
+compliance.video.	3600	in	ns	ns1.dns-redirect.com.
+compliance.video.	3600	in	ns	ns2.dns-redirect.com.
 compliment.video.	3600	in	ns	ns11.domaincontrol.com.
 compliment.video.	3600	in	ns	ns12.domaincontrol.com.
 compliments.video.	3600	in	ns	ns11.domaincontrol.com.
@@ -13500,6 +13504,12 @@ cortina.video.	3600	in	ns	ns21.domaincontrol.com.
 cortina.video.	3600	in	ns	ns22.domaincontrol.com.
 cortodrome.video.	3600	in	ns	dns101.registrar-servers.com.
 cortodrome.video.	3600	in	ns	dns102.registrar-servers.com.
+corvin.video.	3600	in	ns	ns1.myhostadmin.net.
+corvin.video.	3600	in	ns	ns2.myhostadmin.net.
+corvin.video.	3600	in	ns	ns3.myhostadmin.net.
+corvin.video.	3600	in	ns	ns4.myhostadmin.net.
+corvin.video.	3600	in	ns	ns5.myhostadmin.net.
+corvin.video.	3600	in	ns	ns6.myhostadmin.net.
 cos.video.	3600	in	ns	a1-139.akam.net.
 cos.video.	3600	in	ns	a11-66.akam.net.
 cos.video.	3600	in	ns	a12-67.akam.net.
@@ -13556,10 +13566,6 @@ counseling.video.	3600	in	ns	ns43.domaincontrol.com.
 counseling.video.	3600	in	ns	ns44.domaincontrol.com.
 county.video.	3600	in	ns	chan.ns.cloudflare.com.
 county.video.	3600	in	ns	vern.ns.cloudflare.com.
-couponin.video.	3600	in	ns	curitiba.ns.porkbun.com.
-couponin.video.	3600	in	ns	fortaleza.ns.porkbun.com.
-couponin.video.	3600	in	ns	maceio.ns.porkbun.com.
-couponin.video.	3600	in	ns	salvador.ns.porkbun.com.
 courage.video.	3600	in	ns	ns-1071.awsdns-05.org.
 courage.video.	3600	in	ns	ns-2024.awsdns-61.co.uk.
 courage.video.	3600	in	ns	ns-419.awsdns-52.com.
@@ -14538,6 +14544,8 @@ dahgu.video.	3600	in	ns	ns35.domaincontrol.com.
 dahgu.video.	3600	in	ns	ns36.domaincontrol.com.
 daihuo.video.	3600	in	ns	dns19.hichina.com.
 daihuo.video.	3600	in	ns	dns20.hichina.com.
+dailies.video.	3600	in	ns	dns1.registrar-servers.com.
+dailies.video.	3600	in	ns	dns2.registrar-servers.com.
 dailycar.video.	3600	in	ns	ns1031.ui-dns.com.
 dailycar.video.	3600	in	ns	ns1081.ui-dns.biz.
 dailycar.video.	3600	in	ns	ns1100.ui-dns.org.
@@ -16688,8 +16696,8 @@ dpmmj.video.	3600	in	ns	grannbo.ns.cloudflare.com.
 dpmmj.video.	3600	in	ns	norm.ns.cloudflare.com.
 dpr.video.	3600	in	ns	dns101.register.com.
 dpr.video.	3600	in	ns	dns102.register.com.
-dpstream.video.	3600	in	ns	ns1.bodis.com.
-dpstream.video.	3600	in	ns	ns2.bodis.com.
+dpstream.video.	3600	in	ns	ns1.dns-redirect.com.
+dpstream.video.	3600	in	ns	ns2.dns-redirect.com.
 dpvcl.video.	3600	in	ns	n1.xundns.com.
 dpvcl.video.	3600	in	ns	n2.xundns.com.
 dqodq.video.	3600	in	ns	n1.xundns.com.
@@ -17374,7 +17382,7 @@ e2g829eubin4d9ksdesb7sj9kbi5a392.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161
 e3sk.video.	3600	in	ns	candy.ns.cloudflare.com.
 e3sk.video.	3600	in	ns	marek.ns.cloudflare.com.
 e3t1l47p8vt9gh7n4vkj0bgka80jquem.video.	3600	in	nsec3	1 1 0 73 E4GIHVTIS72QLL7NHBTG1HM60V394IUE NS SOA RRSIG DNSKEY NSEC3PARAM
-e3t1l47p8vt9gh7n4vkj0bgka80jquem.video.	3600	in	rrsig	NSEC3 8 2 3600 20251002012035 20250911002035 52848 video. msWYY2+HnCmK7atp4Jb9G+xizUlt/UWlTKzWfzeHJB0eWMpBDdX9JKt0C9B0olEUt6WVTorG7JRFgdKY1PUJM0Inpgg/KEPL+NtmTPmlQioNbsZH88sc2UONewgPzWdaUkpR2ZIR79kuvwDeGiEcSD0mJt8Sk50tGBaf1B7gSDc=
+e3t1l47p8vt9gh7n4vkj0bgka80jquem.video.	3600	in	rrsig	NSEC3 8 2 3600 20251003011653 20250912001653 52848 video. rmn84xXUoKfXNmzMSCFLhhvHnjfpu1CSXejlRVgk/qI8xJHEwkszW8GVXZ+/HdV/jNbx1OUPmHGn3PhwJ3uyEna4PUSSCmfC2VIir2p/TUUqXes5vhSRJYP3x9RPiMKlAfnpuUMAHbrCe6Ce7shtUa3665EwQi9l6uj5nCymmXw=
 e4gihvtis72qll7nhbtg1hm60v394iue.video.	3600	in	nsec3	1 1 0 73 E5F6L80OU8U9D4CAKR85456QD1IPU995 NS DS RRSIG
 e4gihvtis72qll7nhbtg1hm60v394iue.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. mKMRbKobPOGqgvajy5IPLLyB2zttBCgLftU1dkDTI7faM/6hMmKU0Rnq82pAJm39rWrpeRVFEH29MhOVDh2/83wGUnJHKe0DDAWlpHpnCygfwIKBPcNu8At69MOZHSGrJgdne3C5KjOkChKMbW8+GBf9Mx23ilEsXtc7l1hUQug=
 e5f6l80ou8u9d4cakr85456qd1ipu995.video.	3600	in	nsec3	1 1 0 73 E5GABV3EMGATSJJM2FOP3HAJJOBIOBFQ NS DS RRSIG
@@ -17812,8 +17820,8 @@ effect.video.	3600	in	ns	ns3jmt.name.com.
 effect.video.	3600	in	ns	ns4ksy.name.com.
 efficient.video.	3600	in	ns	dns1.registrar-servers.com.
 efficient.video.	3600	in	ns	dns2.registrar-servers.com.
-effort.video.	3600	in	ns	ns1.bodis.com.
-effort.video.	3600	in	ns	ns2.bodis.com.
+effort.video.	3600	in	ns	ns1.dns-redirect.com.
+effort.video.	3600	in	ns	ns2.dns-redirect.com.
 efimov.video.	3600	in	ns	ns1.vigbo.site.
 efimov.video.	3600	in	ns	ns2.vigbo.site.
 efirn.video.	3600	in	ns	n1.xundns.com.
@@ -19579,8 +19587,8 @@ faceid.video.	3600	in	ns	a.ns.apple.com.
 faceid.video.	3600	in	ns	b.ns.apple.com.
 faceid.video.	3600	in	ns	c.ns.apple.com.
 faceid.video.	3600	in	ns	d.ns.apple.com.
-faceles.video.	3600	in	ns	ns1.dyna-ns.net.
-faceles.video.	3600	in	ns	ns2.dyna-ns.net.
+faceles.video.	3600	in	ns	ns1.bodis.com.
+faceles.video.	3600	in	ns	ns2.bodis.com.
 faceless.video.	3600	in	ns	dns1.registrar-servers.com.
 faceless.video.	3600	in	ns	dns2.registrar-servers.com.
 facelessai.video.	3600	in	ns	clarissa.ns.cloudflare.com.
@@ -19603,8 +19611,8 @@ faceswap.video.	3600	in	ns	ns-85.awsdns-10.com.
 faceswap.video.	3600	in	ns	ns-867.awsdns-44.net.
 faceswaps.video.	3600	in	ns	ns1-domain-expired.myhostadmin.net.
 faceswaps.video.	3600	in	ns	ns2-domain-expired.myhostadmin.net.
-facet.video.	3600	in	ns	ns1.bodis.com.
-facet.video.	3600	in	ns	ns2.bodis.com.
+facet.video.	3600	in	ns	ns1.dns-redirect.com.
+facet.video.	3600	in	ns	ns2.dns-redirect.com.
 facethenation.video.	3600	in	ns	dns1.p09.nsone.net.
 facethenation.video.	3600	in	ns	dns2.p09.nsone.net.
 facethenation.video.	3600	in	ns	dns3.p09.nsone.net.
@@ -19645,8 +19653,8 @@ fadetoblack.video.	3600	in	ns	ns-1055.awsdns-03.org.
 fadetoblack.video.	3600	in	ns	ns-1564.awsdns-03.co.uk.
 fadetoblack.video.	3600	in	ns	ns-262.awsdns-32.com.
 fadetoblack.video.	3600	in	ns	ns-802.awsdns-36.net.
-faecless.video.	3600	in	ns	ns1.dyna-ns.net.
-faecless.video.	3600	in	ns	ns2.dyna-ns.net.
+faecless.video.	3600	in	ns	ns1.bodis.com.
+faecless.video.	3600	in	ns	ns2.bodis.com.
 fafo.video.	3600	in	ns	ns37.domaincontrol.com.
 fafo.video.	3600	in	ns	ns38.domaincontrol.com.
 fahrschule.video.	3600	in	ns	ns1.domain.com.
@@ -19752,8 +19760,8 @@ familylegacyproject.video.	3600	in	ns	maceio.ns.porkbun.com.
 familylegacyproject.video.	3600	in	ns	salvador.ns.porkbun.com.
 familystory.video.	3600	in	ns	ns1.hover.com.
 familystory.video.	3600	in	ns	ns2.hover.com.
-familyx.video.	3600	in	ns	ns1.bodis.com.
-familyx.video.	3600	in	ns	ns2.bodis.com.
+familyx.video.	3600	in	ns	ns1.dns-redirect.com.
+familyx.video.	3600	in	ns	ns2.dns-redirect.com.
 famousbody.video.	3600	in	ns	ns47.domaincontrol.com.
 famousbody.video.	3600	in	ns	ns48.domaincontrol.com.
 famousbodybeauty.video.	3600	in	ns	ns47.domaincontrol.com.
@@ -19880,8 +19888,8 @@ fart.video.	3600	in	ns	ns-cloud-a2.googledomains.com.
 fart.video.	3600	in	ns	ns-cloud-a3.googledomains.com.
 fart.video.	3600	in	ns	ns-cloud-a4.googledomains.com.
 fart.video.	3600	in	rrsig	DS 8 2 3600 20250930161311 20250909151311 52848 video. rJTodqjKLD2UNt8agqXsN14Nnk3MUSXEmP7THS6Bbl/V5uWcqEDpLudjEIcFHGEfSiSpbSkDoSYab7UbeGWSMWQ4o3xpH5yB/kfLRZby9TmdkXkxasNoNxt0a+w9PW0qSVnFHDHme49VZGafSWjTcE3bI7YjoK45PSjG1WtJqGc=
-faseless.video.	3600	in	ns	ns1.dyna-ns.net.
-faseless.video.	3600	in	ns	ns2.dyna-ns.net.
+faseless.video.	3600	in	ns	ns1.bodis.com.
+faseless.video.	3600	in	ns	ns2.bodis.com.
 faselhd.video.	3600	in	ns	ns1.afternic.com.
 faselhd.video.	3600	in	ns	ns2.afternic.com.
 fasetto.video.	3600	in	ns	ns1ksz.name.com.
@@ -20290,8 +20298,8 @@ fi.video.	3600	in	ns	ns3gmt.name.com.
 fi.video.	3600	in	ns	ns4sxy.name.com.
 fi88.video.	3600	in	ns	gina.ns.cloudflare.com.
 fi88.video.	3600	in	ns	renan.ns.cloudflare.com.
-fiber.video.	3600	in	ns	ns1.bodis.com.
-fiber.video.	3600	in	ns	ns2.bodis.com.
+fiber.video.	3600	in	ns	ns1.dns-redirect.com.
+fiber.video.	3600	in	ns	ns2.dns-redirect.com.
 fibr.video.	3600	in	ns	ns01.hostnet.nl.
 fibr.video.	3600	in	ns	ns02.hostnet.nl.
 fibroids.video.	3600	in	ns	ns21.domaincontrol.com.
@@ -20875,8 +20883,8 @@ flirtlive.video.	3600	in	ns	ns2.datingns.com.
 fliva.video.	3600	in	ns	ns1.instradns.com.
 fliva.video.	3600	in	ns	ns2.instradns.com.
 fliva.video.	3600	in	ns	ns3.instradns.com.
-flix.video.	3600	in	ns	ns1.bodis.com.
-flix.video.	3600	in	ns	ns2.bodis.com.
+flix.video.	3600	in	ns	ns1.dns-redirect.com.
+flix.video.	3600	in	ns	ns2.dns-redirect.com.
 flixo.video.	3600	in	ns	dns1.registrar-servers.com.
 flixo.video.	3600	in	ns	dns2.registrar-servers.com.
 flixor.video.	3600	in	ns	ns1.brainydns.com.
@@ -21573,8 +21581,6 @@ freeav.video.	3600	in	ns	ns1-coming-soon.sav.com.
 freeav.video.	3600	in	ns	ns2-coming-soon.sav.com.
 freebizlisting.video.	3600	in	ns	ns71.worldnic.com.
 freebizlisting.video.	3600	in	ns	ns72.worldnic.com.
-freebook.video.	3600	in	ns	dns101.registrar-servers.com.
-freebook.video.	3600	in	ns	dns102.registrar-servers.com.
 freecine.video.	3600	in	ns	rayne.ns.cloudflare.com.
 freecine.video.	3600	in	ns	troy.ns.cloudflare.com.
 freedance.video.	3600	in	ns	dns1.p07.nsone.net.
@@ -22267,8 +22273,8 @@ galaxy.video.	3600	in	ns	ns6.markmonitor.com.
 galaxy.video.	3600	in	ns	ns7.markmonitor.com.
 galeckisearch.video.	3600	in	ns	pdns05.domaincontrol.com.
 galeckisearch.video.	3600	in	ns	pdns06.domaincontrol.com.
-galileo.video.	3600	in	ns	ns1.bodis.com.
-galileo.video.	3600	in	ns	ns2.bodis.com.
+galileo.video.	3600	in	ns	ns1.dns-redirect.com.
+galileo.video.	3600	in	ns	ns2.dns-redirect.com.
 gallantlystreaming.video.	3600	in	ns	ns17.domaincontrol.com.
 gallantlystreaming.video.	3600	in	ns	ns18.domaincontrol.com.
 gallery.video.	3600	in	ns	ns-1248.awsdns-28.org.
@@ -22875,6 +22881,12 @@ gethera.video.	3600	in	ns	dns4.name-services.com.
 gethera.video.	3600	in	ns	dns5.name-services.com.
 getinfo.video.	3600	in	ns	ns05.domaincontrol.com.
 getinfo.video.	3600	in	ns	ns06.domaincontrol.com.
+getit.video.	3600	in	ds	16252 8 2 7C14F785CF050DCCBFD12D35AFE513E5028EC370CB91B2D3BC07EFB31F3E9639
+getit.video.	3600	in	ns	ns-cloud-d1.googledomains.com.
+getit.video.	3600	in	ns	ns-cloud-d2.googledomains.com.
+getit.video.	3600	in	ns	ns-cloud-d3.googledomains.com.
+getit.video.	3600	in	ns	ns-cloud-d4.googledomains.com.
+getit.video.	3600	in	rrsig	DS 8 2 3600 20251003005552 20250911235552 52848 video. eBFIbPYQcf9y8RJRorx4hCVLkFbMkKCJLGp/EdCRntFGaMuPMeryivL0vy8XxcPBCQ238PWZwXhL4+HLojJ65/50DfUg85wrvgLPg0tekgjAOT344H6X/y+JksVapEGNBDpMkdHbl9VrRg6AjjtdCYukmWBOOik6zXCE4yGEKbM=
 getlit.video.	3600	in	ns	pdns1.registrar-servers.com.
 getlit.video.	3600	in	ns	pdns2.registrar-servers.com.
 getmapping.video.	3600	in	ns	hare.dnspod.net.
@@ -22959,6 +22971,8 @@ ggmgastro.video.	3600	in	ns	dns.teamartwork.com.
 ggmgastro.video.	3600	in	ns	dns2.teamartwork.com.
 ggpanalo.video.	3600	in	ns	celine.ns.cloudflare.com.
 ggpanalo.video.	3600	in	ns	cleo.ns.cloudflare.com.
+ggperya.video.	3600	in	ns	ns31.domaincontrol.com.
+ggperya.video.	3600	in	ns	ns32.domaincontrol.com.
 ggwin.video.	3600	in	ns	celine.ns.cloudflare.com.
 ggwin.video.	3600	in	ns	ivan.ns.cloudflare.com.
 ggxqg.video.	3600	in	ns	ns1.dnsip.com.
@@ -23973,8 +23987,8 @@ greta.video.	3600	in	ns	ns-cloud-d1.googledomains.com.
 greta.video.	3600	in	ns	ns-cloud-d2.googledomains.com.
 greta.video.	3600	in	ns	ns-cloud-d3.googledomains.com.
 greta.video.	3600	in	ns	ns-cloud-d4.googledomains.com.
-greyhound.video.	3600	in	ns	ns1.bodis.com.
-greyhound.video.	3600	in	ns	ns2.bodis.com.
+greyhound.video.	3600	in	ns	ns1.dns-redirect.com.
+greyhound.video.	3600	in	ns	ns2.dns-redirect.com.
 grgs.video.	3600	in	ns	ns15.domaincontrol.com.
 grgs.video.	3600	in	ns	ns16.domaincontrol.com.
 grid.video.	3600	in	ns	ns1.hover.com.
@@ -25391,6 +25405,9 @@ hi88.video.	3600	in	ns	ns1.afternic.com.
 hi88.video.	3600	in	ns	ns2.afternic.com.
 hialuoai.video.	3600	in	ns	basi.ns.giantpanda.com.
 hialuoai.video.	3600	in	ns	meixiang.ns.giantpanda.com.
+hianime.video.	3600	in	ns	ns1.regery.net.
+hianime.video.	3600	in	ns	ns2.regery.net.
+hianime.video.	3600	in	ns	ns3.regery.net.
 hiburan.video.	3600	in	ns	ns1.myhostadmin.net.
 hiburan.video.	3600	in	ns	ns2.myhostadmin.net.
 hiddenchampions.video.	3600	in	ns	ns1.dreamhost.com.
@@ -25557,8 +25574,8 @@ him931sip6ue9dqlkjcsap8mrgmp86dp.video.	3600	in	nsec3	1 1 0 73 HJF825GHTOVQ1MOED
 him931sip6ue9dqlkjcsap8mrgmp86dp.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. REz6ShxanLLtxcLjBlqAGm6TRpDjEB93jfOeg8HIaxM+GmzE50y4rblXe4KXFAkVZ1GR4O0yIibkrckn8BT3kHDkajB1WFPjoz3LaJ1yRdgS8BJuVBe+qvXSijdT2IOdYtwxjZLFNFGaxAuSr/Fbb2qhLT29BABXf6VLbZN6SKc=
 hindibf.video.	3600	in	ns	olga.ns.cloudflare.com.
 hindibf.video.	3600	in	ns	scott.ns.cloudflare.com.
-hindisexybf.video.	3600	in	ns	dns1.namecheaphosting.com.
-hindisexybf.video.	3600	in	ns	dns2.namecheaphosting.com.
+hindisexybf.video.	3600	in	ns	dns101.registrar-servers.com.
+hindisexybf.video.	3600	in	ns	dns102.registrar-servers.com.
 hindu.video.	3600	in	ns	ns49.domaincontrol.com.
 hindu.video.	3600	in	ns	ns50.domaincontrol.com.
 hines.video.	3600	in	ds	21236 8 2 D5AB15F8781759B9712B8810459925906B06DEA98339F90560F03701F48CD326
@@ -25602,8 +25619,8 @@ hireguide.video.	3600	in	ns	ns-1074.awsdns-06.org.
 hireguide.video.	3600	in	ns	ns-2038.awsdns-62.co.uk.
 hireguide.video.	3600	in	ns	ns-275.awsdns-34.com.
 hireguide.video.	3600	in	ns	ns-734.awsdns-27.net.
-hirely.video.	3600	in	ns	ns1.bodis.com.
-hirely.video.	3600	in	ns	ns2.bodis.com.
+hirely.video.	3600	in	ns	ns1.dns-redirect.com.
+hirely.video.	3600	in	ns	ns2.dns-redirect.com.
 hireme.video.	3600	in	ns	ns11.domaincontrol.com.
 hireme.video.	3600	in	ns	ns12.domaincontrol.com.
 hirestory.video.	3600	in	ns	ns31.domaincontrol.com.
@@ -26657,8 +26674,8 @@ hypno.video.	3600	in	ns	ns2.linode.com.
 hypno.video.	3600	in	ns	ns3.linode.com.
 hypno.video.	3600	in	ns	ns4.linode.com.
 hypno.video.	3600	in	ns	ns5.linode.com.
-hypnose.video.	3600	in	ns	ns1.bodis.com.
-hypnose.video.	3600	in	ns	ns2.bodis.com.
+hypnose.video.	3600	in	ns	ns1.dns-redirect.com.
+hypnose.video.	3600	in	ns	ns2.dns-redirect.com.
 hypochlorousacid.video.	3600	in	ns	elle.ns.cloudflare.com.
 hypochlorousacid.video.	3600	in	ns	sam.ns.cloudflare.com.
 hypqi.video.	3600	in	ns	ns1.dnsip.com.
@@ -26696,6 +26713,8 @@ i13aalo32o5a72kbraeta4bhpfbrlsms.video.	3600	in	nsec3	1 1 0 73 I17HBE4T9BJL9128L
 i13aalo32o5a72kbraeta4bhpfbrlsms.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. Zcn18PWtawrihI1FTs/WcSdFkWTQyRp7xYn0tQ2JRdDBexPf0HzavMOHLvlLDc0SgfRxVIUEO4pXL9bEyAeDxuSfLf5rC0zzS53Aw73TcmMc2rIkxWbZfdSUs+YG0EvhAsPvRSEve84JVv98AeIIpMefyN8uroexoae3VX9sVp0=
 i17hbe4t9bjl9128lnnn2lhrqgt0egio.video.	3600	in	nsec3	1 1 0 73 I328NHCA1G9BJJQSOBT3I5RVQB904B9Q NS DS RRSIG
 i17hbe4t9bjl9128lnnn2lhrqgt0egio.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. VKz4nXK1bpB+WcW1PVCeyhJ5/GRtjQa/s2X2ziryImPhpFiANdhd5rbspz8jGDbTqbtB++IVk1IxyUxaacj8O0ztg9QyTMQOm/NSqrxmWB3S3bc3BL7RlXW8Nhl0aTqUI5vpp0S4v4ekXfnt0nlHhnjb2GZkCj6Av83aAwqp+RA=
+i2i.video.	3600	in	ns	dns1.registrar-servers.com.
+i2i.video.	3600	in	ns	dns2.registrar-servers.com.
 i2ic.video.	3600	in	ns	gns21.cloudns.net.
 i2ic.video.	3600	in	ns	gns22.cloudns.net.
 i2ic.video.	3600	in	ns	gns23.cloudns.net.
@@ -26851,8 +26870,6 @@ icdn.video.	3600	in	ns	pdns11.domaincontrol.com.
 icdn.video.	3600	in	ns	pdns12.domaincontrol.com.
 icdrama.video.	3600	in	ns	ns3.abovedomains.com.
 icdrama.video.	3600	in	ns	ns4.abovedomains.com.
-icds.video.	3600	in	ns	ns01.yourdomainisexpired.com.
-icds.video.	3600	in	ns	ns02.yourdomainisexpired.com.
 icebreaker.video.	3600	in	ns	ns47.domaincontrol.com.
 icebreaker.video.	3600	in	ns	ns48.domaincontrol.com.
 icebrk.video.	3600	in	ns	ns57.domaincontrol.com.
@@ -27208,6 +27225,8 @@ ima.video.	3600	in	ns	dns1.registrar-servers.com.
 ima.video.	3600	in	ns	dns2.registrar-servers.com.
 image-to-video-ai.video.	3600	in	ns	amanda.ns.cloudflare.com.
 image-to-video-ai.video.	3600	in	ns	lamar.ns.cloudflare.com.
+image-to.video.	3600	in	ns	cartman.ns.cloudflare.com.
+image-to.video.	3600	in	ns	magnolia.ns.cloudflare.com.
 image.video.	3600	in	ns	ns1.dns-parking.com.
 image.video.	3600	in	ns	ns2.dns-parking.com.
 imageai.video.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -27642,8 +27661,8 @@ indieboss.video.	3600	in	ns	dns3.p08.nsone.net.
 indieboss.video.	3600	in	ns	dns4.p08.nsone.net.
 indievisual.video.	3600	in	ns	dns1.registrar-servers.com.
 indievisual.video.	3600	in	ns	dns2.registrar-servers.com.
-indigo.video.	3600	in	ns	ns1.bodis.com.
-indigo.video.	3600	in	ns	ns2.bodis.com.
+indigo.video.	3600	in	ns	ns1.dns-redirect.com.
+indigo.video.	3600	in	ns	ns2.dns-redirect.com.
 indigojones.video.	3600	in	ns	ns-us.1and1-dns.com.
 indigojones.video.	3600	in	ns	ns-us.1and1-dns.de.
 indigojones.video.	3600	in	ns	ns-us.1and1-dns.org.
@@ -27688,8 +27707,8 @@ inew.video.	3600	in	ns	dns1.hichina.com.
 inew.video.	3600	in	ns	dns2.hichina.com.
 infineon.video.	3600	in	ns	pdns1.cscdns.net.
 infineon.video.	3600	in	ns	pdns2.cscdns.net.
-infini.video.	3600	in	ns	ns1.bodis.com.
-infini.video.	3600	in	ns	ns2.bodis.com.
+infini.video.	3600	in	ns	ns1.dns-redirect.com.
+infini.video.	3600	in	ns	ns2.dns-redirect.com.
 infinite.video.	3600	in	ns	jose.ns.cloudflare.com.
 infinite.video.	3600	in	ns	kami.ns.cloudflare.com.
 infinitehost.video.	3600	in	ds	44005 8 2 CDE887CDA407DD88E09691E46B0C35261199EC908F6EA6A4E8D9A45B34364EE8
@@ -27813,6 +27832,8 @@ ingilizce.video.	3600	in	ns	ns-cloud-a4.googledomains.com.
 ingilizce.video.	3600	in	rrsig	DS 8 2 3600 20250930161311 20250909151311 52848 video. XVCHBq4cYxKoSA6qZwVbyfQIDK7GyaxQxXNwTdOaerCSANehRg0XHw6z7dLmeqAP63WQXtlgqg35++hj0Jhx0bmB0TK9tAoo6e29C8PChAytML/2bcmRw9dHwZfXe8MeF4SYkwq/aSVcz+cEgqiU+uWrZqxEQ2RZ0TmEbgATgV4=
 inglese.video.	3600	in	ns	ns5.myhostadmin.net.
 inglese.video.	3600	in	ns	ns6.myhostadmin.net.
+ingress.video.	3600	in	ns	arya.ns.cloudflare.com.
+ingress.video.	3600	in	ns	shane.ns.cloudflare.com.
 inhaus.video.	3600	in	ns	ns1.crazydomains.com.
 inhaus.video.	3600	in	ns	ns2.crazydomains.com.
 inheritance.video.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -28116,8 +28137,6 @@ internex.video.	3600	in	ns	ns1.internex.at.
 internex.video.	3600	in	ns	ns2.internex.at.
 internex.video.	3600	in	ns	ns3.internex.at.
 internex.video.	3600	in	ns	ns4.internex.at.
-internship.video.	3600	in	ns	dns101.registrar-servers.com.
-internship.video.	3600	in	ns	dns102.registrar-servers.com.
 interplanetary.video.	3600	in	ns	ns1.dns-redirect.com.
 interplanetary.video.	3600	in	ns	ns2.dns-redirect.com.
 interpret.video.	3600	in	ns	ns4009.hostgator.com.
@@ -30075,8 +30094,8 @@ justcallrandi.video.	3600	in	ns	ns71.worldnic.com.
 justcallrandi.video.	3600	in	ns	ns72.worldnic.com.
 justcams.video.	3600	in	ns	meg.ns.cloudflare.com.
 justcams.video.	3600	in	ns	norm.ns.cloudflare.com.
-justcars.video.	3600	in	ns	ns45.domaincontrol.com.
-justcars.video.	3600	in	ns	ns46.domaincontrol.com.
+justcars.video.	3600	in	ns	ns11.nordnet.ws.
+justcars.video.	3600	in	ns	ns22.nordnet.ws.
 justevents.video.	3600	in	ns	ns35.domaincontrol.com.
 justevents.video.	3600	in	ns	ns36.domaincontrol.com.
 justforyou.video.	3600	in	ns	ns09.domaincontrol.com.
@@ -30857,8 +30876,8 @@ kickass.video.	3600	in	ns	julio.ns.cloudflare.com.
 kickass.video.	3600	in	rrsig	DS 8 2 3600 20250930161311 20250909151311 52848 video. TK4HKRdY2j99TlQw+w6WOG2CPNaOulZBGYnCmxl10qPQG0VKxHeNUJbYGi6i1pD+JLtAg+3fOL7rcHcGudK8yYfmzfCHnXNKD/88e4eP5M0wQVF42KPmG97FPfp9u3ORs3nINYYAm84zOJM6UDXQWOb+uT9yPM1d11IirqhSM5I=
 kickasstorrents.video.	3600	in	ns	ns1.brainydns.com.
 kickasstorrents.video.	3600	in	ns	ns2.brainydns.com.
-kicker.video.	3600	in	ns	ns1.bodis.com.
-kicker.video.	3600	in	ns	ns2.bodis.com.
+kicker.video.	3600	in	ns	ns1.dns-redirect.com.
+kicker.video.	3600	in	ns	ns2.dns-redirect.com.
 kickflip.video.	3600	in	ns	ns1lmy.name.com.
 kickflip.video.	3600	in	ns	ns2cqs.name.com.
 kickflip.video.	3600	in	ns	ns3npv.name.com.
@@ -33560,8 +33579,6 @@ livestreamed.video.	3600	in	ns	ns27.domaincontrol.com.
 livestreamed.video.	3600	in	ns	ns28.domaincontrol.com.
 livestreaming.video.	3600	in	ns	ns01.cashparking.com.
 livestreaming.video.	3600	in	ns	ns02.cashparking.com.
-livestreamingevents.video.	3600	in	ns	ns3.expirationwarning.net.
-livestreamingevents.video.	3600	in	ns	ns7.expirationwarning.net.
 livestreams.video.	3600	in	ns	ns1.dan.com.
 livestreams.video.	3600	in	ns	ns2.dan.com.
 livestreamtn.video.	3600	in	ns	ns1.systemdns.com.
@@ -34316,8 +34333,8 @@ lukesmith.video.	3600	in	ns	ns01.squarespacedns.com.
 lukesmith.video.	3600	in	ns	ns02.squarespacedns.com.
 lukesmith.video.	3600	in	ns	ns03.squarespacedns.com.
 lukesmith.video.	3600	in	ns	ns04.squarespacedns.com.
-luknij.video.	3600	in	ns	ns1.bodis.com.
-luknij.video.	3600	in	ns	ns2.bodis.com.
+luknij.video.	3600	in	ns	ns1.dns-redirect.com.
+luknij.video.	3600	in	ns	ns2.dns-redirect.com.
 lulne694kjg0cipfjbv2nlbna3ecpi5r.video.	3600	in	nsec3	1 1 0 73 LV2KCPS360JMR5JF8H1UKAEVKSD9NMQV NS DS RRSIG
 lulne694kjg0cipfjbv2nlbna3ecpi5r.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. GxkBu3q6IlWMSXe3z1eX8wNUfL3Tr6B+wdalIe15V275mXNvQSHrZiOh3HNApEApDBVJPjqTacW1eo1zv13s9Ub2w89d2NPjq6T8LH7vOLcROM3BZHe0pQpLnRCVjtU9ILN0YmietAR+PvIbxff/0NNMEUCvKbgT+lN7lQZ/tLw=
 lulu.video.	3600	in	ns	dns10.hichina.com.
@@ -34596,8 +34613,8 @@ m38md1n8esrgkpf8uu9mir8dj4ai2nv8.video.	3600	in	nsec3	1 1 0 73 M3QFT8TCRMK3ATOCI
 m38md1n8esrgkpf8uu9mir8dj4ai2nv8.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. AZlUtouVflVUacBUvzYN/y4gY32cxLf7TTZewk9d7yt3PYx3nD7Fv7t0knnn9k9ezKNheceM3rDMXDbaLLdPcoDmgNzM2KqdzGpvZPkexSqVN4EDrF73fFuNpr6BNUAPmhtuE5YSG5Pp1TNgvbbSX0Wi5zY7xWa3pT+Gwi8zi9E=
 m3a.video.	3600	in	ns	ns1.hover.com.
 m3a.video.	3600	in	ns	ns2.hover.com.
-m3ga.video.	3600	in	ns	ns1.bodis.com.
-m3ga.video.	3600	in	ns	ns2.bodis.com.
+m3ga.video.	3600	in	ns	ns1.dns-redirect.com.
+m3ga.video.	3600	in	ns	ns2.dns-redirect.com.
 m3qft8tcrmk3atociebj8fqmo9b1vgf3.video.	3600	in	nsec3	1 1 0 73 M3UA071Q9AC8A4NQRQCLUARIDR2AO8UT NS DS RRSIG
 m3qft8tcrmk3atociebj8fqmo9b1vgf3.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. BotqOJD6Heii9F8/lpZqaAQlm04asLR4DoLEK1YQk9utyt8NfYCkanoKXRxiFX3vwvfxA3gBqh+14YbSfVEwgKw+SsZDuRY6j++YaBfWMDTklzgKgbM8vtfQA8Fi9chxr+Em6y3agEmGeyG4XDrPtYNWaEKY6E354qenq7aRgTg=
 m3u8.video.	3600	in	ns	purple.dnspod.net.
@@ -35977,8 +35994,8 @@ mediability.video.	3600	in	ns	ns1.hyp.net.
 mediability.video.	3600	in	ns	ns2.hyp.net.
 mediability.video.	3600	in	ns	ns3.hyp.net.
 mediability.video.	3600	in	rrsig	DS 8 2 3600 20250930161311 20250909151311 52848 video. KbTQOmXf1gnWYrv1iwyBG4KCKfxqxnDjC1czNKdCQ7hWdNbGr84zahe+yNU6TFaktjLf0ke7wLlXcGgOsiNOmFo8h3t7O9adhLQJGVM97Z/ISGfhZ12btGLwWmnJe1uF1hIRraMaIaYnleTb1g4ov2crB5q+9RpZOdhK0bS3YSo=
-mediaborough.video.	3600	in	ns	evangeline.ns.cloudflare.com.
-mediaborough.video.	3600	in	ns	owen.ns.cloudflare.com.
+mediaborough.video.	3600	in	ns	dns101.registrar-servers.com.
+mediaborough.video.	3600	in	ns	dns102.registrar-servers.com.
 mediabox.video.	3600	in	ns	ns.dinahosting.com.
 mediabox.video.	3600	in	ns	ns2.dinahosting.com.
 mediabox.video.	3600	in	ns	ns3.dinahosting.com.
@@ -38389,6 +38406,8 @@ movies2watch.video.	3600	in	ns	arvind.ns.cloudflare.com.
 movies2watch.video.	3600	in	ns	gene.ns.cloudflare.com.
 moviesda.video.	3600	in	ns	leonard.ns.cloudflare.com.
 moviesda.video.	3600	in	ns	tegan.ns.cloudflare.com.
+moviesflix.video.	3600	in	ns	alaric.ns.cloudflare.com.
+moviesflix.video.	3600	in	ns	lorna.ns.cloudflare.com.
 movieshow.video.	3600	in	ns	ns45.domaincontrol.com.
 movieshow.video.	3600	in	ns	ns46.domaincontrol.com.
 moviesnation.video.	3600	in	ns	braden.ns.cloudflare.com.
@@ -39523,8 +39542,10 @@ n2ob3rid1n5v6bdiava9tdtvnop4hk6h.video.	3600	in	nsec3	1 1 0 73 N3202ISQ7FC3DCTA7
 n2ob3rid1n5v6bdiava9tdtvnop4hk6h.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. kt46i879IQeLR5H1DnZNsz0zvPueEWKLZt9fGxVhNk6zIKFxgJS5PH8fYxLSsIKq59D68tED6UskYC2DlBX5RBqZs60gHbcYblloLr+4BepYqrDWv0eAhcEWt5bkAyTerlldLZygFMrdWF9V+09WgwKNYbu+emnyfrAdlC3nvzQ=
 n3202isq7fc3dcta7b40gnhc1lb4ern6.video.	3600	in	nsec3	1 1 0 73 N3G47EC6ANKCSV2D5CAR9MVJR0BF3MDU NS DS RRSIG
 n3202isq7fc3dcta7b40gnhc1lb4ern6.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. jiswAalpCuvnME5DzQKyULm2cQxhbU0ru+qv5nZoLqH7SZt3/jR+uKCDSCpKTmJuX+epVSthCew9+5k8KpR4vqVgJsXEB+MPGQNi8Ng8ai4Ng34yZw89Xe1Em6Z02r0D9+2DaabQdHb0PPqZh10jKmjv0uPVsVPRerKOPRbZHDk=
-n3g47ec6ankcsv2d5car9mvjr0bf3mdu.video.	3600	in	nsec3	1 1 0 73 N4FQGUM8Q1LGPLIL7C1S7KEO8HFUMUR5 NS DS RRSIG
-n3g47ec6ankcsv2d5car9mvjr0bf3mdu.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. i6nodv35kKTHOpZHj4uVe9vicYn0CrPUnqScOOlIQlXNfYgUOn8XUy9yW1ovQRXxD6cDGs/SF5U86BTamDkyreSbfwFOdxjH10oQbLr4OUZQs6bR/4uWkkGMqDCptBnY7Gm9EI4RQJyIHsr/UW/APblfSbvi/DNXXJWgp2I8abk=
+n3g47ec6ankcsv2d5car9mvjr0bf3mdu.video.	3600	in	nsec3	1 1 0 73 N4DJENBLNHG5P415FE0H96GGPIJO574N NS DS RRSIG
+n3g47ec6ankcsv2d5car9mvjr0bf3mdu.video.	3600	in	rrsig	NSEC3 8 2 3600 20251003005552 20250911235552 52848 video. VFNaTlSOYdzNfr8qACulVwJfspxjjiyRYGXFlUYsu+Wvgi9W8SF9PwOdgWeO66mKZFtL3pQ7LkE/SsfSlrt2IsaIQSEdnS2vmn+FHcax1hicsN1qAAK9qV7HZ1vBKjBMT/FtmGtwM4+0JzM/Wo1AK8J8Mtu4WPhJskKSEYJfELg=
+n4djenblnhg5p415fe0h96ggpijo574n.video.	3600	in	nsec3	1 1 0 73 N4FQGUM8Q1LGPLIL7C1S7KEO8HFUMUR5 NS DS RRSIG
+n4djenblnhg5p415fe0h96ggpijo574n.video.	3600	in	rrsig	NSEC3 8 2 3600 20251003005552 20250911235552 52848 video. bNbRZbRcBp1JkCqKB8DnZ+FBADLCnktgpA1j+sUtWVXphF0AhED29G5LFQM5+3jsAU2mUJPhxrlG+ny0wGJ0aIq5x5FtGmytAbSQ2U3F7LbNt4sUCy8cLkn8HSVf0nkHLjNfDx7KNfKO5IWkd4Hvj2hFDoNnOX4ztguFjZMnQA8=
 n4fqgum8q1lgplil7c1s7keo8hfumur5.video.	3600	in	nsec3	1 1 0 73 N6RMN2J9LVLKTOFBSSMAE9VP8Q87H0FR NS DS RRSIG
 n4fqgum8q1lgplil7c1s7keo8hfumur5.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. nG+wvsmXRJsHh9oLniJ88ySk4I3rvfbUYpKYbFICMyKxmQGxMBVc2A9UY9SRjk/U/p6l/C/QtZc/AI22PrBN0snmN9wKI96JI8i7+9IWO81wpGA0HmgJ7AsALYiP74BiRnVq5Qw9LFcc87d/upPnZRG+lGyNVssGpr16gRrAIME=
 n55.video.	3600	in	ns	ns1cnb.name.com.
@@ -40138,8 +40159,8 @@ neuro.video.	3600	in	ns	dns11.hichina.com.
 neuro.video.	3600	in	ns	dns12.hichina.com.
 neurofilm.video.	3600	in	ns	dns10.ovh.net.
 neurofilm.video.	3600	in	ns	ns10.ovh.net.
-neuron.video.	3600	in	ns	ns1.bodis.com.
-neuron.video.	3600	in	ns	ns2.bodis.com.
+neuron.video.	3600	in	ns	ns1.dns-redirect.com.
+neuron.video.	3600	in	ns	ns2.dns-redirect.com.
 neuroscience.video.	3600	in	ns	dns1.registrar-servers.com.
 neuroscience.video.	3600	in	ns	dns2.registrar-servers.com.
 nev.video.	3600	in	ns	dns23.hichina.com.
@@ -40545,8 +40566,8 @@ nimblecreative.video.	3600	in	ns	ns01.squarespacedns.com.
 nimblecreative.video.	3600	in	ns	ns02.squarespacedns.com.
 nimblecreative.video.	3600	in	ns	ns03.squarespacedns.com.
 nimblecreative.video.	3600	in	ns	ns04.squarespacedns.com.
-nimbus.video.	3600	in	ns	ns1.bodis.com.
-nimbus.video.	3600	in	ns	ns2.bodis.com.
+nimbus.video.	3600	in	ns	ns1.dns-redirect.com.
+nimbus.video.	3600	in	ns	ns2.dns-redirect.com.
 nimm.video.	3600	in	ns	baiyun.ns.giantpanda.com.
 nimm.video.	3600	in	ns	meilan.ns.giantpanda.com.
 nimpod.video.	3600	in	ns	dns1.registrar-servers.com.
@@ -40967,6 +40988,8 @@ novica.video.	3600	in	ns	ns-1287.awsdns-32.org.
 novica.video.	3600	in	ns	ns-1759.awsdns-27.co.uk.
 novica.video.	3600	in	ns	ns-240.awsdns-30.com.
 novica.video.	3600	in	ns	ns-787.awsdns-34.net.
+novinka-2025.video.	3600	in	ns	ns1.dyna-ns.net.
+novinka-2025.video.	3600	in	ns	ns2.dyna-ns.net.
 novo.video.	3600	in	ns	curitiba.ns.porkbun.com.
 novo.video.	3600	in	ns	fortaleza.ns.porkbun.com.
 novo.video.	3600	in	ns	maceio.ns.porkbun.com.
@@ -42636,8 +42659,8 @@ orbitica.video.	3600	in	ns	ns104.ovh.net.
 orbitica.video.	3600	in	rrsig	DS 8 2 3600 20250930161311 20250909151311 52848 video. LDd+eiryQiMHNB5wcgMSQ7IiWF79WhhwjRInQCoUv+l/yNh7DmcEAyl61kUlwHQ4NqJyYp9W2RbxHKwrRjAdpeMeEb/m1TipJk69qcymm2yRImMQO2PtBn5Uy1CuSAB91vzZsatD5T1MAQYJSQU+DyCev+WZ86mSxHliTxIr5A0=
 orca.video.	3600	in	ns	ns1.domain.io.
 orca.video.	3600	in	ns	ns2.domain.io.
-orchid.video.	3600	in	ns	ns1.bodis.com.
-orchid.video.	3600	in	ns	ns2.bodis.com.
+orchid.video.	3600	in	ns	ns1.dns-redirect.com.
+orchid.video.	3600	in	ns	ns2.dns-redirect.com.
 ordinal.video.	3600	in	ns	ns1.afternic.com.
 ordinal.video.	3600	in	ns	ns2.afternic.com.
 ordinal.video.	3600	in	ns	verification-djkne8fnldkhsjvaz52wdz.ns101.verify.hn.
@@ -43065,8 +43088,8 @@ packs.video.	3600	in	ns	curitiba.ns.porkbun.com.
 packs.video.	3600	in	ns	fortaleza.ns.porkbun.com.
 packs.video.	3600	in	ns	maceio.ns.porkbun.com.
 packs.video.	3600	in	ns	salvador.ns.porkbun.com.
-padawan.video.	3600	in	ns	ns1.bodis.com.
-padawan.video.	3600	in	ns	ns2.bodis.com.
+padawan.video.	3600	in	ns	ns1.dns-redirect.com.
+padawan.video.	3600	in	ns	ns2.dns-redirect.com.
 padel.video.	3600	in	ns	launch1.spaceship.net.
 padel.video.	3600	in	ns	launch2.spaceship.net.
 padgjhars7sb3ud3nkk37nuuii600drr.video.	3600	in	nsec3	1 1 0 73 PAFURND1R9THS4S8IPJOLU64LUAG0I6G NS DS RRSIG
@@ -43753,8 +43776,8 @@ peliculas.video.	3600	in	ns	ns1.afternic.com.
 peliculas.video.	3600	in	ns	ns2.afternic.com.
 pelikula.video.	3600	in	ns	ns3.myhostadmin.net.
 pelikula.video.	3600	in	ns	ns4.myhostadmin.net.
-pelisflix.video.	3600	in	ns	ns1.bodis.com.
-pelisflix.video.	3600	in	ns	ns2.bodis.com.
+pelisflix.video.	3600	in	ns	ns1.dns-redirect.com.
+pelisflix.video.	3600	in	ns	ns2.dns-redirect.com.
 pelisplushd.video.	3600	in	ns	ns1.fp261.parklogic.com.
 pelisplushd.video.	3600	in	ns	ns2.fp261.parklogic.com.
 pelo.video.	3600	in	ns	ns1.dyna-ns.net.
@@ -44840,6 +44863,8 @@ playplus.video.	3600	in	ns	dns5.name-services.com.
 playplus.video.	3600	in	rrsig	DS 8 2 3600 20250930161311 20250909151311 52848 video. f1JkYFq1nYpGlsjBpJXc+FxRC4yYMbHn6TQ+PFEqZmn7t85Wzrgek6PJ+hJYG0OIyjeW+m7BaoRgF/ikoxbBvsgHOkNxEHaE9FfZqY4vfGCZJ3uwRTXnxNUPhDT2l39dGdNKoJhoah85BEkBb/3tBclvgMOA4oKxPTkaXRMYYeM=
 playr.video.	3600	in	ns	ns27.domaincontrol.com.
 playr.video.	3600	in	ns	ns28.domaincontrol.com.
+playright.video.	3600	in	ns	ns1.renewyourname.net.
+playright.video.	3600	in	ns	ns2.renewyourname.net.
 playsafe.video.	3600	in	ns	alex.ns.cloudflare.com.
 playsafe.video.	3600	in	ns	haley.ns.cloudflare.com.
 playsas.video.	3600	in	ns	ns1.hover.com.
@@ -46242,8 +46267,8 @@ proteus.video.	3600	in	ns	ns2.dreamhost.com.
 proteus.video.	3600	in	ns	ns3.dreamhost.com.
 protocols.video.	3600	in	ns	ns.123-reg.co.uk.
 protocols.video.	3600	in	ns	ns2.123-reg.co.uk.
-proton.video.	3600	in	ns	ns1.bodis.com.
-proton.video.	3600	in	ns	ns2.bodis.com.
+proton.video.	3600	in	ns	ns1.dns-redirect.com.
+proton.video.	3600	in	ns	ns2.dns-redirect.com.
 protostar.video.	3600	in	ns	jake.ns.cloudflare.com.
 protostar.video.	3600	in	ns	megan.ns.cloudflare.com.
 prove.video.	3600	in	ns	ns33.domaincontrol.com.
@@ -46314,8 +46339,8 @@ psych.video.	3600	in	ns	ns-cloud-d2.googledomains.com.
 psych.video.	3600	in	ns	ns-cloud-d3.googledomains.com.
 psych.video.	3600	in	ns	ns-cloud-d4.googledomains.com.
 psych.video.	3600	in	rrsig	DS 8 2 3600 20250930161311 20250909151311 52848 video. bik9P1H0H6Tqya5lZpJepZa2OzZqhJAzw7HRDc2Nj4x4bmrY+6tN8scqm3YEOfkBBMCheZiT+dJoXa4AA452GG/Y5f+kO+HadAaNDPzdlkzQVq2Xve22u8SAQVW5mpKL8UmYZFfgNPTyDwW7VwSolAZsI7TbrePJWeQLhx6yWLU=
-psychedelic.video.	3600	in	ns	ns1.siteground.net.
-psychedelic.video.	3600	in	ns	ns2.siteground.net.
+psychedelic.video.	3600	in	ns	ns1.dyna-ns.net.
+psychedelic.video.	3600	in	ns	ns2.dyna-ns.net.
 psychichelp.video.	3600	in	ds	54738 13 2 3F4DEF32BFE736B4E168C7CEBE8AFBBB2579EC1E7A8265FB7D2FD12AE4CF1575
 psychichelp.video.	3600	in	ns	ns0.transip.net.
 psychichelp.video.	3600	in	ns	ns1.transip.nl.
@@ -46893,8 +46918,8 @@ qr.video.	3600	in	ns	ns-cloud-c4.googledomains.com.
 qr.video.	3600	in	rrsig	DS 8 2 3600 20250930161311 20250909151311 52848 video. cHZ4ASAajvvXQqrntlpSs2uUxdcwfjyodXy8dyPNgmP8RavudrYuQGZSl6FfSWWHG2blEmvwn4Uu+Hz1fyARZOnjwsWgnVQvMCF2NHzP0Z5srvXEFvRYU0Qmpc6uBHuxD290hcAk3uB3oDvrfdA/FwJhP6RBoSiGtNZ998hcCq0=
 qrated.video.	3600	in	ns	dns1.registrar-servers.com.
 qrated.video.	3600	in	ns	dns2.registrar-servers.com.
-qrcode.video.	3600	in	ns	ns1.bodis.com.
-qrcode.video.	3600	in	ns	ns2.bodis.com.
+qrcode.video.	3600	in	ns	ns1.dns-redirect.com.
+qrcode.video.	3600	in	ns	ns2.dns-redirect.com.
 qs7elp7rgotghdp8khaq6o5rr854rbvv.video.	3600	in	nsec3	1 1 0 73 QV2RUMKRQGAU07KTUJN5N9KGVL8MOQ2K NS DS RRSIG
 qs7elp7rgotghdp8khaq6o5rr854rbvv.video.	3600	in	rrsig	NSEC3 8 2 3600 20250930161311 20250909151311 52848 video. UGqTPWeyWz1Z2UynkFWVEMj7XC17f6VkoS6Rz7lDMSldEw5bueQ5TgsGMkJMa7G7NVwbQiVjg5y7wAsnJaxyCW+LrXuuDdNOdNwrqdC0NwiEyMjnF9QslwLipAF/l6dLmWq/msl6THVBgdrSXGN2D5AmGAhGWC+ob/3pJbDyEGQ=
 qsdrv.video.	3600	in	ns	ns1.dnsip.com.
@@ -48353,8 +48378,6 @@ replai.video.	3600	in	ns	ns-cloud-a3.googledomains.com.
 replai.video.	3600	in	ns	ns-cloud-a4.googledomains.com.
 replay.video.	3600	in	ns	ns45.domaincontrol.com.
 replay.video.	3600	in	ns	ns46.domaincontrol.com.
-replaygacor.video.	3600	in	ns	ns1.dyna-ns.net.
-replaygacor.video.	3600	in	ns	ns2.dyna-ns.net.
 replaymedia.video.	3600	in	ds	35234 8 2 14CBCABB5F0E23C90DD7362475A215C9412BCDD314988DDCAE5E0796E53B4597
 replaymedia.video.	3600	in	ns	ns-cloud-b1.googledomains.com.
 replaymedia.video.	3600	in	ns	ns-cloud-b2.googledomains.com.
@@ -48369,8 +48392,8 @@ replicate.video.	3600	in	ns	ns-cloud-c4.googledomains.com.
 replicate.video.	3600	in	rrsig	DS 8 2 3600 20250930161311 20250909151311 52848 video. BQuJKUa4V50Qn7XxDdwqvWMltfzTNb2RPfuK/KHPrLf1ivuOOwVlsMYTdy/KLislykdjfG4q4XxBq264Vr6QTKDyJOVxHPOL1+ACJUX+pZnbw43OQdhoCmz9SM946tG7ITjJRDzZj3HRhW/1AJ0T2aPUs5Hbksi81avj0ojavW8=
 repliq.video.	3600	in	ns	luciana.ns.cloudflare.com.
 repliq.video.	3600	in	ns	syeef.ns.cloudflare.com.
-reply.video.	3600	in	ns	dns101.registrar-servers.com.
-reply.video.	3600	in	ns	dns102.registrar-servers.com.
+reply.video.	3600	in	ns	dns1.registrar-servers.com.
+reply.video.	3600	in	ns	dns2.registrar-servers.com.
 repo.video.	3600	in	ns	dns1.registrar-servers.com.
 repo.video.	3600	in	ns	dns2.registrar-servers.com.
 reportage.video.	3600	in	ns	parking1.whc.ca.
@@ -49227,6 +49250,8 @@ rogers.video.	3600	in	ns	maceio.ns.porkbun.com.
 rogers.video.	3600	in	ns	salvador.ns.porkbun.com.
 rogerthat.video.	3600	in	ns	ns23.domaincontrol.com.
 rogerthat.video.	3600	in	ns	ns24.domaincontrol.com.
+rogmovies.video.	3600	in	ns	braden.ns.cloudflare.com.
+rogmovies.video.	3600	in	ns	nelly.ns.cloudflare.com.
 rohde-schwarz.video.	3600	in	ns	ns1.lemarit.de.
 rohde-schwarz.video.	3600	in	ns	ns1.lemarit.net.
 rohde-schwarz.video.	3600	in	ns	ns2.lemarit.de.
@@ -53219,10 +53244,6 @@ socialproof.video.	3600	in	ns	docks12.rzone.de.
 socialproof.video.	3600	in	ns	shades19.rzone.de.
 socialshopping.video.	3600	in	ns	dns1.registrar-servers.com.
 socialshopping.video.	3600	in	ns	dns2.registrar-servers.com.
-socialshorts.video.	3600	in	ns	ns1022.ui-dns.de.
-socialshorts.video.	3600	in	ns	ns1035.ui-dns.org.
-socialshorts.video.	3600	in	ns	ns1092.ui-dns.biz.
-socialshorts.video.	3600	in	ns	ns1124.ui-dns.com.
 socialsnacks.video.	3600	in	ns	dns101.registrar-servers.com.
 socialsnacks.video.	3600	in	ns	dns102.registrar-servers.com.
 society.video.	3600	in	ns	dean.ns.cloudflare.com.
@@ -55650,6 +55671,8 @@ surfpark.video.	3600	in	ns	ns1027.ui-dns.com.
 surfpark.video.	3600	in	ns	ns1067.ui-dns.biz.
 surfpark.video.	3600	in	ns	ns1086.ui-dns.org.
 surfpark.video.	3600	in	ns	ns1115.ui-dns.de.
+surgemedia.video.	3600	in	ns	ns1.renewyourname.net.
+surgemedia.video.	3600	in	ns	ns2.renewyourname.net.
 surgg.video.	3600	in	ns	ns1.dnsip.com.
 surgg.video.	3600	in	ns	ns2.dnsip.com.
 surrealestate.video.	3600	in	ns	ns1.wordpress.com.
@@ -55929,6 +55952,10 @@ syncwatch.video.	3600	in	ns	rafe.ns.cloudflare.com.
 syncwatch.video.	3600	in	ns	weston.ns.cloudflare.com.
 syndicate.video.	3600	in	ns	ns45.domaincontrol.com.
 syndicate.video.	3600	in	ns	ns46.domaincontrol.com.
+synema.video.	3600	in	ns	curitiba.ns.porkbun.com.
+synema.video.	3600	in	ns	fortaleza.ns.porkbun.com.
+synema.video.	3600	in	ns	maceio.ns.porkbun.com.
+synema.video.	3600	in	ns	salvador.ns.porkbun.com.
 synergist.video.	3600	in	ns	ns33.domaincontrol.com.
 synergist.video.	3600	in	ns	ns34.domaincontrol.com.
 synergy.video.	3600	in	ns	ns1.dnsynergy.org.
@@ -56820,8 +56847,8 @@ temply.video.	3600	in	ns	ns1.dnsimple.com.
 temply.video.	3600	in	ns	ns2.dnsimple.com.
 temply.video.	3600	in	ns	ns3.dnsimple.com.
 temply.video.	3600	in	ns	ns4.dnsimple.com.
-tempo.video.	3600	in	ns	ns1.bodis.com.
-tempo.video.	3600	in	ns	ns2.bodis.com.
+tempo.video.	3600	in	ns	ns1.dns-redirect.com.
+tempo.video.	3600	in	ns	ns2.dns-redirect.com.
 temu.video.	3600	in	ns	dns3.hichina.com.
 temu.video.	3600	in	ns	dns4.hichina.com.
 temugroup.video.	3600	in	ns	dns21.hichina.com.
@@ -57004,8 +57031,8 @@ tetide.video.	3600	in	ns	dns.keliweb.com.
 tetide.video.	3600	in	ns	dns.keliweb.eu.
 tetide.video.	3600	in	ns	dns.keliweb.net.
 tetide.video.	3600	in	ns	dns.keliweb.org.
-tetra.video.	3600	in	ns	ns1.bodis.com.
-tetra.video.	3600	in	ns	ns2.bodis.com.
+tetra.video.	3600	in	ns	ns1.dns-redirect.com.
+tetra.video.	3600	in	ns	ns2.dns-redirect.com.
 teus.video.	3600	in	ns	ns1.dreamhost.com.
 teus.video.	3600	in	ns	ns2.dreamhost.com.
 teus.video.	3600	in	ns	ns3.dreamhost.com.
@@ -58529,9 +58556,8 @@ topreel.video.	3600	in	ns	dns2.registrar-servers.com.
 topreel.video.	3600	in	ns	dns3.registrar-servers.com.
 topreel.video.	3600	in	ns	dns4.registrar-servers.com.
 topreel.video.	3600	in	ns	dns5.registrar-servers.com.
-topreplay.video.	3600	in	ns	ns1.bodis.com.
-topreplay.video.	3600	in	ns	ns2.bodis.com.
-topreplay.video.	3600	in	ns	verification-aghtsea2nla7krqzmjysax.ns101.verify.hn.
+topreplay.video.	3600	in	ns	ns1.dns-redirect.com.
+topreplay.video.	3600	in	ns	ns2.dns-redirect.com.
 toprolxl.video.	3600	in	ns	dns1.cscdns.net.
 toprolxl.video.	3600	in	ns	dns2.cscdns.net.
 topsecret.video.	3600	in	ds	24844 13 2 4474CA506B4055D2D5361BDAAC0FE0DE3BC5D2CC67083452D7CBDA075F6D1F85
@@ -58728,6 +58754,8 @@ tpt.video.	3600	in	ns	dns2.name-services.com.
 tpt.video.	3600	in	ns	dns3.name-services.com.
 tpt.video.	3600	in	ns	dns4.name-services.com.
 tpt.video.	3600	in	ns	dns5.name-services.com.
+tpusaacademy.video.	3600	in	ns	dns1.registrar-servers.com.
+tpusaacademy.video.	3600	in	ns	dns2.registrar-servers.com.
 tpwav.video.	3600	in	ns	n1.xundns.com.
 tpwav.video.	3600	in	ns	n2.xundns.com.
 tq0geed1rddic3r5bionio4k866976nj.video.	3600	in	nsec3	1 1 0 73 TQLKO0VM714QDI4K3TC1207STBDP0488 NS DS RRSIG
@@ -59241,8 +59269,6 @@ truex.video.	3600	in	ns	ns-1353.awsdns-41.org.
 truex.video.	3600	in	ns	ns-1668.awsdns-16.co.uk.
 truex.video.	3600	in	ns	ns-389.awsdns-48.com.
 truex.video.	3600	in	ns	ns-989.awsdns-59.net.
-trufflelive.video.	3600	in	ns	ns3.expirationwarning.net.
-trufflelive.video.	3600	in	ns	ns7.expirationwarning.net.
 truggl.video.	3600	in	ns	ns17.domaincontrol.com.
 truggl.video.	3600	in	ns	ns18.domaincontrol.com.
 truist.video.	3600	in	ns	dns1.cscdns.net.
@@ -59555,6 +59581,8 @@ turkru.video.	3600	in	ns	bart.ns.cloudflare.com.
 turkru.video.	3600	in	ns	meera.ns.cloudflare.com.
 turn2.video.	3600	in	ns	margo.ns.cloudflare.com.
 turn2.video.	3600	in	ns	sky.ns.cloudflare.com.
+turningpointusa.video.	3600	in	ns	dns1.registrar-servers.com.
+turningpointusa.video.	3600	in	ns	dns2.registrar-servers.com.
 turnleft.video.	3600	in	ns	dns1.registrar-servers.com.
 turnleft.video.	3600	in	ns	dns2.registrar-servers.com.
 turnoffthelights.video.	3600	in	ns	ivy.ns.cloudflare.com.
@@ -60231,6 +60259,10 @@ unfound.video.	3600	in	ns	ns42.domaincontrol.com.
 ungarn.video.	3600	in	ns	ns.udag.de.
 ungarn.video.	3600	in	ns	ns.udag.net.
 ungarn.video.	3600	in	ns	ns.udag.org.
+unger.video.	3600	in	ns	ns1029.ui-dns.com.
+unger.video.	3600	in	ns	ns1074.ui-dns.biz.
+unger.video.	3600	in	ns	ns1079.ui-dns.de.
+unger.video.	3600	in	ns	ns1102.ui-dns.org.
 ungraded.video.	3600	in	ns	ns1.vercel-dns.com.
 ungraded.video.	3600	in	ns	ns2.vercel-dns.com.
 unico.video.	3600	in	ns	dns1.registrar-servers.com.
@@ -61203,8 +61235,8 @@ vemo.video.	3600	in	ns	curitiba.ns.porkbun.com.
 vemo.video.	3600	in	ns	fortaleza.ns.porkbun.com.
 vemo.video.	3600	in	ns	maceio.ns.porkbun.com.
 vemo.video.	3600	in	ns	salvador.ns.porkbun.com.
-veneer.video.	3600	in	ns	ns1.bodis.com.
-veneer.video.	3600	in	ns	ns2.bodis.com.
+veneer.video.	3600	in	ns	ns1.dns-redirect.com.
+veneer.video.	3600	in	ns	ns2.dns-redirect.com.
 venery.video.	3600	in	ns	ns3.myhostadmin.net.
 venery.video.	3600	in	ns	ns4.myhostadmin.net.
 venice.video.	3600	in	ns	ns71.domaincontrol.com.
@@ -61353,6 +61385,8 @@ vertigo.video.	3600	in	ns	ns2.dreamhost.com.
 vertigo.video.	3600	in	ns	ns3.dreamhost.com.
 verttigo.video.	3600	in	ns	ns17.domaincontrol.com.
 verttigo.video.	3600	in	ns	ns18.domaincontrol.com.
+vertx.video.	3600	in	ns	dns1.registrar-servers.com.
+vertx.video.	3600	in	ns	dns2.registrar-servers.com.
 verum.video.	3600	in	ns	ns-cloud-a1.googledomains.com.
 verum.video.	3600	in	ns	ns-cloud-a2.googledomains.com.
 verum.video.	3600	in	ns	ns-cloud-a3.googledomains.com.
@@ -61569,6 +61603,8 @@ vidai.video.	3600	in	ns	dns1.registrar-servers.com.
 vidai.video.	3600	in	ns	dns2.registrar-servers.com.
 vidak.video.	3600	in	ns	elsa.ns.cloudflare.com.
 vidak.video.	3600	in	ns	ivan.ns.cloudflare.com.
+vidavu.video.	3600	in	ns	meadow.ns.cloudflare.com.
+vidavu.video.	3600	in	ns	tate.ns.cloudflare.com.
 viday.video.	3600	in	ns	nsn1.mijndomein.nl.
 viday.video.	3600	in	ns	nsn2.mijndomein.nl.
 vidcast.video.	3600	in	ds	21571 13 2 B5518E837D296E02C62733EB1237E0C29D4F7063BFA19C1829FF96AEA2944838
@@ -61594,6 +61630,8 @@ videl.video.	3600	in	ns	dns1.registrar-servers.com.
 videl.video.	3600	in	ns	dns2.registrar-servers.com.
 video-frankfurt.video.	3600	in	ns	dns1.namecheaphosting.com.
 video-frankfurt.video.	3600	in	ns	dns2.namecheaphosting.com.
+video-to.video.	3600	in	ns	cartman.ns.cloudflare.com.
+video-to.video.	3600	in	ns	magnolia.ns.cloudflare.com.
 video.	3600	in	dnskey	256 3 8 AwEAAa8Wz3/ZQrMPJV56Lcmfzlrf3Z1wzEo80gmvXHKuHdnHL6VnOSR8YXxAWCd4sTtiqmLEGvnXsIWyGf+Dl5aeJr/tqyw0rxH+XlqVTygm+5KDWGCJ41F5/hnWAgmoY/QSpcASaW8pOhru9mRbVeTgyVuqGyRXqpzEBltHskEQ+8X9
 video.	3600	in	dnskey	256 3 8 AwEAAau5tQrooon6vk15TvEKw5V0n0rQPl0TquQ2NE4V4PjMdHUdQKyMu+RF+UsLnQ7eXlC0sHzU3LzVlJa3WECIJTBhdNZvG9AjZatESqMEc5OquIKi93nfLJPCInSuCCOILeEBtDt7Atsmvln8DFBTpvKED3FU7EI6gW4habzjDp1F
 video.	3600	in	dnskey	257 3 8 AwEAAbS+BbeBxfQoymFXMPoEaBQw48r5iVERkSa+XhKXPquVLpUzGvuzJv0icwP8hONwa0ZzYRptUuWsx7yh4avrvYcPeN1W5rCbGptTD1/PuvsLEoH7hH/H5jyNZ/ZhmdUfBVTrWOH1c5MzpfVVMxbbOwyjWRi0caR4697ZCBmXDGFAwmIkXmzT6M7eylIWQnHooe1PblVun6L9JbWBKKuq61A+IlCLk8X34VRIp/XnOwk9TGTuZZWSvwWFsod8cb0jIzcUHNqRsIyAHcoSg5OhPXbg5nsF5NgPTjcnsz32W0b13JscLZuiRKmdyZlwlATiWr5UgNiSYL7PGLnakv7lEEM=
@@ -61607,7 +61645,7 @@ video.	3600	in	nsec3param	1 0 0 73
 video.	3600	in	rrsig	DNSKEY 8 1 3600 20250930161311 20250909151311 42529 video. V3mPlbGRvLqjxREAr4R6Y/QLeoPuPxEuxHblOV3Hg3LKJ32ed9z1KKIyH2O5sG6lFkWf4ZrcXphzdlbbgdZIVkdsbMKLg2WD6oSti2hNEG1fJ+NLOfM/gJfQV4C7YcKdKFY1MKvir6CnZxWTGxaX4JxJZrFdRqkaAkYE2RvCZNRYOWLiK7a567jx4fIYBm1rAfcfLu5dnVoFdKjAnI5aIQxxJDaq/CH6RQr15uvRnBbAwYCSgh8CzoYX7ywaDZ2WaKI60WZcwC73uFlNGbDpih1BpC+5/3NhHhv8JPdnw3Uizlwv3oSnNm0C28Zthtm2yfWy29TslMehpoK1qMKmZw==
 video.	3600	in	rrsig	NS 8 1 3600 20250930161311 20250909151311 52848 video. UrU+jrYnzYOQJWp1Cm6tUlPq79SpMKXcIoNmwqJFRX4tYNMtzBuzcp/6LhJNAy7NIZ8TkT10t/mxlRZcSXh1pMaHrV8vYTWVvqzU9Xr5WYG1+YTpdQumKQPbCC0ifVcUh9JhuWo5a+HzbXW8HMJ1AvSFKcwcaEdTatsx+I8OOAg=
 video.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930161311 20250909151311 52848 video. nXmBm+DmQj3r74LH6xV/7BPhlduG6Tg/JqFLfxA8f8M0AM2EmC4tNCBn0WWGxmbdEZph5HVkLsvhhIxXp50VKMs1kamkZj+gPqiNmCnewk1iOp0bi6ZmQzMCpZ7FkCGdo3qRPD4ncPPUma4L4//RjIrfVtljgeiCTBflGuU1Gtg=
-video.	3600	in	rrsig	SOA 8 1 3600 20251002012035 20250911002035 52848 video. g4TCIwZf3no5s6PsU40jpK46ArB47Yn7D+NkgdzwZNUU+yFqA0TPGfjoRbKMe14357Oqpa5aTBOUXxPQjtMgcEBbVJfv4vr7uHyXBobv/27duhiE/CeploGT8jYJW5oO/KK8oG+Eeqp/pZCUi29eN6A10TuyrglciPoKWbNLGd0=
+video.	3600	in	rrsig	SOA 8 1 3600 20251003011653 20250912001653 52848 video. IKE6SpFVxpvvNVqyuxq4qohIr2kkJ5rNMg9g5pdTrWagmrhhwgBpiKcnoGKyGVURXfTghcj0XblWQd5u+i+tjGIWRIQlHCnm21N1LbbTyfZYcCylC2wzLYssclJWEaH3/u9KNpAv2VYzqNRLGitmt4omM+QVogpst8TprehaKXs=
 video.video.	3600	in	ns	ns1.dyna-ns.net.
 video.video.	3600	in	ns	ns2.dyna-ns.net.
 video.watch247.video.	3600	in	a	73.34.4.46
@@ -62242,8 +62280,8 @@ visitqatar.video.	3600	in	ns	ns21.domaincontrol.com.
 visitqatar.video.	3600	in	ns	ns22.domaincontrol.com.
 visittucson.video.	3600	in	ns	ns1.mydomain.com.
 visittucson.video.	3600	in	ns	ns2.mydomain.com.
-visitvegas.video.	3600	in	ns	dns1.registrar-servers.com.
-visitvegas.video.	3600	in	ns	dns2.registrar-servers.com.
+visitvegas.video.	3600	in	ns	dns101.registrar-servers.com.
+visitvegas.video.	3600	in	ns	dns102.registrar-servers.com.
 visitx.video.	3600	in	ns	ns1.domaindiscount24.net.
 visitx.video.	3600	in	ns	ns2.domaindiscount24.net.
 visitx.video.	3600	in	ns	ns3.domaindiscount24.net.
@@ -62433,8 +62471,10 @@ vmix.video.	3600	in	ns	ns-cloud-e1.googledomains.com.
 vmix.video.	3600	in	ns	ns-cloud-e2.googledomains.com.
 vmix.video.	3600	in	ns	ns-cloud-e3.googledomains.com.
 vmix.video.	3600	in	ns	ns-cloud-e4.googledomains.com.
-vml.video.	3600	in	ns	dns1.registrar-servers.com.
-vml.video.	3600	in	ns	dns2.registrar-servers.com.
+vml.video.	3600	in	ns	ns-10.awsdns-01.com.
+vml.video.	3600	in	ns	ns-1379.awsdns-44.org.
+vml.video.	3600	in	ns	ns-1625.awsdns-11.co.uk.
+vml.video.	3600	in	ns	ns-791.awsdns-34.net.
 vmlvt.video.	3600	in	ns	grannbo.ns.cloudflare.com.
 vmlvt.video.	3600	in	ns	norm.ns.cloudflare.com.
 vmoea.video.	3600	in	ns	n1.xundns.com.
@@ -64075,6 +64115,8 @@ wheniwasyoung.video.	3600	in	ns	ns1.globaldomainserver.net.
 wheniwasyoung.video.	3600	in	ns	ns2.globaldomainserver.net.
 wheniwasyoung.video.	3600	in	ns	ns3.globaldomainserver.net.
 wheniwasyoung.video.	3600	in	ns	ns4.globaldomainserver.net.
+whenrain.video.	3600	in	ns	jacob.ns.cloudflare.com.
+whenrain.video.	3600	in	ns	nelly.ns.cloudflare.com.
 whereby.video.	3600	in	ds	29833 15 2 4CC225E4C5493FA691775A73FC5690830543458DF2FDCA548BE01CF24A7FE738
 whereby.video.	3600	in	ds	29833 15 4 055D0AC862CB7D99FAC70F5AF0F15B7D702A60D15180BCE141F43D45AFA1F1D1E3DAE1C57FEA45B1E47EC5E6942AF971
 whereby.video.	3600	in	ns	ns1.hyp.net.
@@ -65177,8 +65219,8 @@ xhibit.video.	3600	in	ns	ns1.bluehost.com.
 xhibit.video.	3600	in	ns	ns2.bluehost.com.
 xhlxp.video.	3600	in	ns	ns1.dyna-ns.net.
 xhlxp.video.	3600	in	ns	ns2.dyna-ns.net.
-xhsstoryvideo.video.	3600	in	ns	heather.ns.cloudflare.com.
-xhsstoryvideo.video.	3600	in	ns	oswald.ns.cloudflare.com.
+xhsstoryvideo.video.	3600	in	ns	dns101.registrar-servers.com.
+xhsstoryvideo.video.	3600	in	ns	dns102.registrar-servers.com.
 xhtlj.video.	3600	in	ns	n1.xundns.com.
 xhtlj.video.	3600	in	ns	n2.xundns.com.
 xhub.video.	3600	in	ns	melody.ns.cloudflare.com.
@@ -65915,6 +65957,8 @@ xxnxnl.video.	3600	in	ns	ns1.xxnxnl.video.
 xxnxnl.video.	3600	in	ns	ns2.xxnxnl.video.
 xxphim.video.	3600	in	ns	ns1.dyna-ns.net.
 xxphim.video.	3600	in	ns	ns2.dyna-ns.net.
+xxporn.video.	3600	in	ns	ns1.dns-parking.com.
+xxporn.video.	3600	in	ns	ns2.dns-parking.com.
 xxvideos.video.	3600	in	ns	sharon.ns.cloudflare.com.
 xxvideos.video.	3600	in	ns	tom.ns.cloudflare.com.
 xxx-hd.video.	3600	in	ns	kirk.ns.cloudflare.com.
@@ -66817,6 +66861,10 @@ z.video.	3600	in	ns	launch1.spaceship.net.
 z.video.	3600	in	ns	launch2.spaceship.net.
 zach.video.	3600	in	ns	ns13.domaincontrol.com.
 zach.video.	3600	in	ns	ns14.domaincontrol.com.
+zacharyolsen.video.	3600	in	ns	ns-cloud-e1.googledomains.com.
+zacharyolsen.video.	3600	in	ns	ns-cloud-e2.googledomains.com.
+zacharyolsen.video.	3600	in	ns	ns-cloud-e3.googledomains.com.
+zacharyolsen.video.	3600	in	ns	ns-cloud-e4.googledomains.com.
 zachschmidt.video.	3600	in	ns	ns51.domaincontrol.com.
 zachschmidt.video.	3600	in	ns	ns52.domaincontrol.com.
 zachstrahan.video.	3600	in	ns	dns1.p01.nsone.net.
@@ -66878,6 +66926,8 @@ zanzu.video.	3600	in	ns	curitiba.ns.porkbun.com.
 zanzu.video.	3600	in	ns	fortaleza.ns.porkbun.com.
 zanzu.video.	3600	in	ns	maceio.ns.porkbun.com.
 zanzu.video.	3600	in	ns	salvador.ns.porkbun.com.
+zaoci.video.	3600	in	ns	dns13.hichina.com.
+zaoci.video.	3600	in	ns	dns14.hichina.com.
 zaodian.video.	3600	in	ns	dns15.hichina.com.
 zaodian.video.	3600	in	ns	dns16.hichina.com.
 zap.video.	3600	in	ns	dns1.registrar-servers.com.
@@ -67523,4 +67573,4 @@ zzyzx.video.	3600	in	ns	ns47.domaincontrol.com.
 zzyzx.video.	3600	in	ns	ns48.domaincontrol.com.
 zzzz.video.	3600	in	ns	dns31.hichina.com.
 zzzz.video.	3600	in	ns	dns32.hichina.com.
-video.	3600	in	soa	v0n0.nic.video. hostmaster.donuts.email. 1757553300 7200 900 1209600 3600
+video.	3600	in	soa	v0n0.nic.video. hostmaster.donuts.email. 1757639509 7200 900 1209600 3600
