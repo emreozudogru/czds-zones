@@ -1,4 +1,4 @@
-theater.	3600	in	soa	v0n0.nic.theater. hostmaster.donuts.email. 1757553323 7200 900 1209600 3600
+theater.	3600	in	soa	v0n0.nic.theater. hostmaster.donuts.email. 1757639530 7200 900 1209600 3600
 02g2gemnkfbqmci79fnu40fdkq1b0pue.theater.	3600	in	nsec3	1 1 0 73 107PCS2CJGMK4TT3J2LGAPU48EKFC5QD NS DS RRSIG
 02g2gemnkfbqmci79fnu40fdkq1b0pue.theater.	3600	in	rrsig	NSEC3 8 2 3600 20250930160039 20250909150039 42084 theater. 3ZTuKzjU4U9zjTNxRoNV74c+eAaKH6uadL92xvYy4+YSgaro/DmXTRgrrMlUD/L+6MWx8Znf8D3Vu3RUBoVrrIAsjmAdQRb3/luBqPintRrY0dAJGelqcYQHmqpn+8ruDYJyNK4j9TiWONqYwX7DlNMbkVNrYP0Zqayowz9rdjA=
 107pcs2cjgmk4tt3j2lgapu48ekfc5qd.theater.	3600	in	nsec3	1 1 0 73 1KMKG7F71UELU7GROKSV8NGIMUOH1MR1 NS DS RRSIG
@@ -88,7 +88,7 @@ theater.	3600	in	soa	v0n0.nic.theater. hostmaster.donuts.email. 1757553323 7200 
 8xbet.theater.	3600	in	ns	a3.share-dns.com.
 8xbet.theater.	3600	in	ns	b3.share-dns.net.
 950qdaoi6lcqms0muo76af60ph257j2c.theater.	3600	in	nsec3	1 1 0 73 9DE4EQT0H4D0LER7AH3M4VD3N25QMLCQ NS SOA RRSIG DNSKEY NSEC3PARAM
-950qdaoi6lcqms0muo76af60ph257j2c.theater.	3600	in	rrsig	NSEC3 8 2 3600 20251002011944 20250911001944 42084 theater. A0jH1+SUZsvpYe3r61xq8rFSwnaY+8R0m3eRSzVznE+fAMElubvsV0zbtOaIqAfJoEHAtJ61SRFohaN2gLMlQsCkwwARiw1ga/rmyfeZhTwANge3GbJsozg9PXNlqxsuVTZGexmwU60USvfEtUnEAKYC6wjV5t14cUuDOJTiUh4=
+950qdaoi6lcqms0muo76af60ph257j2c.theater.	3600	in	rrsig	NSEC3 8 2 3600 20251003011627 20250912001627 42084 theater. fdAu4zimCSCAJFSXkKeneCJ5Zaj/7s98EbmLag9lDKlY/4ZzIcu97Mmp514uj+rpwN+0QedmvGLw6AzdtVD0MovaGnxckoscBG6Phjdpvrw3RsiO4myFqnAwOLoJF1KKAg7FtxbmyLBUCDMa2gULGj8WdXvpwflEHPBDvI3YF94=
 9527.theater.	3600	in	ns	ns1.sav.com.
 9527.theater.	3600	in	ns	ns2.sav.com.
 9de4eqt0h4d0ler7ah3m4vd3n25qmlcq.theater.	3600	in	nsec3	1 1 0 73 9EJ3Q3K4J4USFAA9998MSGAH69SR0LLJ NS DS RRSIG
@@ -158,8 +158,8 @@ aetoscenter.theater.	3600	in	ns	ns43.domaincontrol.com.
 aetoscenter.theater.	3600	in	ns	ns44.domaincontrol.com.
 afas.theater.	3600	in	ns	ns01.hostnet.nl.
 afas.theater.	3600	in	ns	ns02.hostnet.nl.
-afisha.theater.	3600	in	ns	ns1.bodis.com.
-afisha.theater.	3600	in	ns	ns2.bodis.com.
+afisha.theater.	3600	in	ns	ns1.dns-redirect.com.
+afisha.theater.	3600	in	ns	ns2.dns-redirect.com.
 africa.theater.	3600	in	ns	dns1.registrar-servers.com.
 africa.theater.	3600	in	ns	dns2.registrar-servers.com.
 african.theater.	3600	in	ns	dns1.registrar-servers.com.
@@ -592,6 +592,10 @@ bookmy.theater.	3600	in	ns	pdns07.domaincontrol.com.
 bookmy.theater.	3600	in	ns	pdns08.domaincontrol.com.
 bookmyshow.theater.	3600	in	ns	ns53.domaincontrol.com.
 bookmyshow.theater.	3600	in	ns	ns54.domaincontrol.com.
+boost.theater.	3600	in	ns	ns-1431.awsdns-50.org.
+boost.theater.	3600	in	ns	ns-1567.awsdns-03.co.uk.
+boost.theater.	3600	in	ns	ns-503.awsdns-62.com.
+boost.theater.	3600	in	ns	ns-696.awsdns-23.net.
 bos.theater.	3600	in	ns	ns0.transip.net.
 bos.theater.	3600	in	ns	ns1.transip.nl.
 bos.theater.	3600	in	ns	ns2.transip.eu.
@@ -892,8 +896,8 @@ costumes.theater.	3600	in	ns	ns1027.ui-dns.biz.
 costumes.theater.	3600	in	ns	ns1030.ui-dns.de.
 costumes.theater.	3600	in	ns	ns1046.ui-dns.org.
 costumes.theater.	3600	in	ns	ns1110.ui-dns.com.
-covid.theater.	3600	in	ns	ns1.bodis.com.
-covid.theater.	3600	in	ns	ns2.bodis.com.
+covid.theater.	3600	in	ns	ns1.dns-redirect.com.
+covid.theater.	3600	in	ns	ns2.dns-redirect.com.
 crazydomains.theater.	3600	in	ds	1378 13 1 345B32C6E7B713F1A39C69FE53638130AAB4E095
 crazydomains.theater.	3600	in	ds	1378 13 2 CB85FE025EAE1B7C43F65F97C90EF92B22EA91FD1BDEC2CC5F386FCCFF133359
 crazydomains.theater.	3600	in	ns	names1.ds.network.
@@ -1312,6 +1316,10 @@ figjam.theater.	3600	in	ns	dns3.comlaude-dns.co.uk.
 figjam.theater.	3600	in	ns	dns4.comlaude-dns.eu.
 figuren.theater.	3600	in	ns	ns.jpberlin.de.
 figuren.theater.	3600	in	ns	ns2.jpberlin.de.
+film.theater.	3600	in	ns	curitiba.ns.porkbun.com.
+film.theater.	3600	in	ns	fortaleza.ns.porkbun.com.
+film.theater.	3600	in	ns	maceio.ns.porkbun.com.
+film.theater.	3600	in	ns	salvador.ns.porkbun.com.
 finalcutpro.theater.	3600	in	ns	a.ns.apple.com.
 finalcutpro.theater.	3600	in	ns	b.ns.apple.com.
 finalcutpro.theater.	3600	in	ns	c.ns.apple.com.
@@ -1456,8 +1464,8 @@ gdys-group.theater.	3600	in	ns	ns1.dyna-ns.net.
 gdys-group.theater.	3600	in	ns	ns2.dyna-ns.net.
 gear.theater.	3600	in	ns	dns1.onamae.com.
 gear.theater.	3600	in	ns	dns2.onamae.com.
-geauga.theater.	3600	in	ns	ns1.bodis.com.
-geauga.theater.	3600	in	ns	ns2.bodis.com.
+geauga.theater.	3600	in	ns	ns1.dns-redirect.com.
+geauga.theater.	3600	in	ns	ns2.dns-redirect.com.
 geenwoordenvoor.theater.	3600	in	ns	webhostingserver.g1-dns.com.
 geenwoordenvoor.theater.	3600	in	ns	webhostingserver.g1-dns.one.
 generationz.theater.	3600	in	ns	ns1.antagus.de.
@@ -1716,8 +1724,8 @@ i9bet.theater.	3600	in	ds	1905 13 2 4F7A6F1F72E1C94217E79154D9A6DE1AB462B3BD3242
 i9bet.theater.	3600	in	ns	launch1.spaceship.net.
 i9bet.theater.	3600	in	ns	launch2.spaceship.net.
 i9bet.theater.	3600	in	rrsig	DS 8 2 3600 20250930160039 20250909150039 42084 theater. TUQ34lHfaxqsT9NOGoVS9lmjIaex43R/LBE2GZKDaHfhavWIf8+f2VKpq3r+Jv2hsi7QN7G+fOALvreMAKwHax0Q6x2MS0s4UL9QMiNGszjCAhohRF5mNc1A2vdLU/yRFinD9PW2IT+PU+/wpXb44netZIFIIm73hC51TnSNfkQ=
-ibomma.theater.	3600	in	ns	ns1.bodis.com.
-ibomma.theater.	3600	in	ns	ns2.bodis.com.
+ibomma.theater.	3600	in	ns	ns1.dns-redirect.com.
+ibomma.theater.	3600	in	ns	ns2.dns-redirect.com.
 iceage.theater.	3600	in	ns	dns1.cscdns.net.
 iceage.theater.	3600	in	ns	dns2.cscdns.net.
 idealista.theater.	3600	in	ns	ns1.dondominio.com.
@@ -2006,8 +2014,8 @@ krimidinner.theater.	3600	in	ns	ns-de.1and1-dns.de.
 krimidinner.theater.	3600	in	ns	ns-de.1and1-dns.org.
 ksedc.theater.	3600	in	ns	ns1.dyna-ns.net.
 ksedc.theater.	3600	in	ns	ns2.dyna-ns.net.
-kubet.theater.	3600	in	ns	austin.ns.cloudflare.com.
-kubet.theater.	3600	in	ns	braelyn.ns.cloudflare.com.
+kubet.theater.	3600	in	ns	ns1.dyna-ns.net.
+kubet.theater.	3600	in	ns	ns2.dyna-ns.net.
 kultiskorvus.theater.	3600	in	ns	ns1.nameserver.net.au.
 kultiskorvus.theater.	3600	in	ns	ns2.nameserver.net.au.
 kultiskorvus.theater.	3600	in	ns	ns3.nameserver.net.au.
@@ -3665,7 +3673,7 @@ theater.	3600	in	nsec3param	1 0 0 73
 theater.	3600	in	rrsig	DNSKEY 8 1 3600 20250930160039 20250909150039 835 theater. JrY3Gn5z32ZXWxAzIxew9Fk6v6mOY0tnuIDthIBMqqeltrYEAgVRlMI0mAJLlXyRljxOobZgPDDrzuP7tQ9qbB3WDq1zZ/artay/3s1y8yPIeRsWa6ZGoXrWKFvBun5ITuE5vSvtyg4gNUMHwGtSdvVvxsbOfGtfNGYrMV37tLHoY+N4a4/2YLc5ApgPHmWpM+twm2THS/MFhVxASWOqAODI1y8d326lEThF6ECeJ9WQf3U6oEpWJn6LSn+omIWXMwIPkyZMMIIGn+6AeWDI5jOxiDGP0/zc0kXWYA4NF7n4j6EBfDGxjfGp6nQCitiNPHhc5RGn/DEWQbTFO+jL6A==
 theater.	3600	in	rrsig	NS 8 1 3600 20250930160039 20250909150039 42084 theater. n51ff9kMkLxsZ9Mu/caWkREdsxMiG3BvKZdFsWbDKj7lKuXJZ3WKluEJlhhhIhHmP79wckjyYks9VLr6u8oiRanVAk+2oZqF5My2o+xUAToACTygZjKEzI8Hzwn3un9qjsFLDg8f4ddQWGyUTT+u60VsrI1JHWeYvZBim3ePj/Y=
 theater.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930160039 20250909150039 42084 theater. clzhVt504nRF1mWvdt60iYp9issFa8ciZOuxKfUBaGT8YwKvbcF4pPbrEmEhM50uAAKXwkmdo4oZxc4TSiXebsOzp+Q3fel4+p1SzwEZ2IUFqxpu6Esujom/2o8REe0KijFdvDJzCKjqIQspFM6dfBq6Jhsstvf0TBFd8JO0cFY=
-theater.	3600	in	rrsig	SOA 8 1 3600 20251002011944 20250911001944 42084 theater. pzckk28ZDDBfrzAqbWa1Hx4jqvfyffxyJ+HtyXIW+vi8Emaaxb2s7NNMi8iXewEX4xAfYwmZ6uKJASj4zi+xN2Ax1iS7hA/6a2iNH9nrkbPmL9i59VcbTborNF0HhdrsmJJzEc+yL/ym+DHeUcFY1rWdNUpAKgSG0mAm3p4F5tg=
+theater.	3600	in	rrsig	SOA 8 1 3600 20251003011627 20250912001627 42084 theater. ti39SehYSmGLIFIymVXYiDlltkfM1IkU4NehqNlTCYfEGsHtScwt9JU2MPvVbVJYF3+OJRaGCorT1sFyJmWzOxZSscC83etj8YMTYEBn210Zo8gFWMU+/pxaGVygxsis2fs96mQGppMqQM1flrGDqrIbZkbQ+wqjQU1nHMm3s+0=
 theater.theater.	3600	in	ns	ns1.atom.com.
 theater.theater.	3600	in	ns	ns2.atom.com.
 theatredna.theater.	3600	in	ns	ns1073.ui-dns.org.
@@ -4020,8 +4028,8 @@ vv.theater.	3600	in	ns	ns2.dns-parking.com.
 w-w-w.theater.	3600	in	ns	ns.udag.de.
 w-w-w.theater.	3600	in	ns	ns.udag.net.
 w-w-w.theater.	3600	in	ns	ns.udag.org.
-w88.theater.	3600	in	ns	ns1.bodis.com.
-w88.theater.	3600	in	ns	ns2.bodis.com.
+w88.theater.	3600	in	ns	ns1.dns-redirect.com.
+w88.theater.	3600	in	ns	ns2.dns-redirect.com.
 wagthedog.theater.	3600	in	ns	ns1034.ui-dns.de.
 wagthedog.theater.	3600	in	ns	ns1051.ui-dns.org.
 wagthedog.theater.	3600	in	ns	ns1062.ui-dns.com.
@@ -4202,8 +4210,6 @@ wortkino.theater.	3600	in	ns	ns1125.ui-dns.com.
 wp.theater.	3600	in	ns	ns1.digitalocean.com.
 wp.theater.	3600	in	ns	ns2.digitalocean.com.
 wp.theater.	3600	in	ns	ns3.digitalocean.com.
-writersguild.theater.	3600	in	ns	ns53.worldnic.com.
-writersguild.theater.	3600	in	ns	ns54.worldnic.com.
 wuehlmaeuse.theater.	3600	in	ns	ns.second-ns.com.
 wuehlmaeuse.theater.	3600	in	ns	ns1.your-server.de.
 wuehlmaeuse.theater.	3600	in	ns	ns3.second-ns.de.
@@ -4302,4 +4308,4 @@ zubayr.theater.	3600	in	ns	maceio.ns.porkbun.com.
 zubayr.theater.	3600	in	ns	salvador.ns.porkbun.com.
 zuhvy.theater.	3600	in	ns	ns7.alidns.com.
 zuhvy.theater.	3600	in	ns	ns8.alidns.com.
-theater.	3600	in	soa	v0n0.nic.theater. hostmaster.donuts.email. 1757553323 7200 900 1209600 3600
+theater.	3600	in	soa	v0n0.nic.theater. hostmaster.donuts.email. 1757639530 7200 900 1209600 3600
