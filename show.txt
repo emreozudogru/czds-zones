@@ -1,4 +1,4 @@
-show.	3600	in	soa	v0n0.nic.show. hostmaster.donuts.email. 1757553316 7200 900 1209600 3600
+show.	3600	in	soa	v0n0.nic.show. hostmaster.donuts.email. 1757639523 7200 900 1209600 3600
 0.show.	3600	in	ns	arvind.ns.cloudflare.com.
 0.show.	3600	in	ns	ryleigh.ns.cloudflare.com.
 000.show.	3600	in	ns	ns1-show.myhostadmin.net.
@@ -166,8 +166,8 @@ show.	3600	in	soa	v0n0.nic.show. hostmaster.donuts.email. 1757553316 7200 900 12
 121.show.	3600	in	ns	dns2.registrar-servers.com.
 122bet.show.	3600	in	ns	ns59.domaincontrol.com.
 122bet.show.	3600	in	ns	ns60.domaincontrol.com.
-123-movies.show.	3600	in	ns	ns1.bodis.com.
-123-movies.show.	3600	in	ns	ns2.bodis.com.
+123-movies.show.	3600	in	ns	ns1.dns-redirect.com.
+123-movies.show.	3600	in	ns	ns2.dns-redirect.com.
 123.show.	3600	in	ns	dns23.hichina.com.
 123.show.	3600	in	ns	dns24.hichina.com.
 1234.show.	3600	in	ns	dns13.hichina.com.
@@ -176,8 +176,8 @@ show.	3600	in	soa	v0n0.nic.show. hostmaster.donuts.email. 1757553316 7200 900 12
 12345.show.	3600	in	ns	ns2.dns-redirect.com.
 1234567.show.	3600	in	ns	dns1.hichina.com.
 1234567.show.	3600	in	ns	dns2.hichina.com.
-1234movies.show.	3600	in	ns	ns1.bodis.com.
-1234movies.show.	3600	in	ns	ns2.bodis.com.
+1234movies.show.	3600	in	ns	ns1.dns-redirect.com.
+1234movies.show.	3600	in	ns	ns2.dns-redirect.com.
 123displays.show.	3600	in	ns	ns-cloud-c1.googledomains.com.
 123displays.show.	3600	in	ns	ns-cloud-c2.googledomains.com.
 123displays.show.	3600	in	ns	ns-cloud-c3.googledomains.com.
@@ -954,8 +954,10 @@ show.	3600	in	soa	v0n0.nic.show. hostmaster.donuts.email. 1757553316 7200 900 12
 5throwcenter.show.	3600	in	ns	teresa.ns.cloudflare.com.
 5to.show.	3600	in	ns	ns55.domaincontrol.com.
 5to.show.	3600	in	ns	ns56.domaincontrol.com.
-5trqtshdu7f9od42d194s1jdofq22dug.show.	3600	in	nsec3	1 1 0 73 60ASNVA4J6FIVQTLC98TE239JE9H0LD7 NS DS RRSIG
-5trqtshdu7f9od42d194s1jdofq22dug.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. Zh4tXggaIK6xEGLnOC5iPHNwK8H30CwFi1pC/ZYcq/2dPGtSUplsvrEDHuh39u+FD1KnFcWCw1XgoO6X06RyrlmzEGjTjSIGtEU4hAnj7tSWEEG/DxsOrSUFNztjAOD+7bTOE3iPws0R+TRRmKk/xUIUg9j4txm70RYis40uWjQ=
+5trqtshdu7f9od42d194s1jdofq22dug.show.	3600	in	nsec3	1 1 0 73 5VRKD7CIRIIUL0BS7ALL57BTLUG7E4LP NS DS RRSIG
+5trqtshdu7f9od42d194s1jdofq22dug.show.	3600	in	rrsig	NSEC3 8 2 3600 20251002202101 20250911192101 31335 show. oIJ3VyXGgvAKnZvWfzAI/IrhqXBh0VVAy7g2xML81bF+GtJFGQmh1Di5erC7f7CqDKpDBwh14ioYgeDaPymU87vUeQa5jbKSsPVRtp/4dYKeYnXTtCbm87iUyjWIGTz/JBJ7a5G1PS9z0KfCam86W2oNKCpmsfKrEODZGdUOeUo=
+5vrkd7ciriiul0bs7all57btlug7e4lp.show.	3600	in	nsec3	1 1 0 73 60ASNVA4J6FIVQTLC98TE239JE9H0LD7 NS DS RRSIG
+5vrkd7ciriiul0bs7all57btlug7e4lp.show.	3600	in	rrsig	NSEC3 8 2 3600 20251002202101 20250911192101 31335 show. S1/fWjzFT2vOfhXjOe5wVj7Q1elhBjjjXhpTVNeyHwRZVJxydZPFCP2Hn7OGfIHaXEj/v7HJvmNadSWQa/zi3ocXAXNBWPlq0XmLjoIOB18cYIzFnR85weJeEJkzGtL65lExenG+jBoEbG6DAPoSQwbsY5aqnm7uXDROEvygjcU=
 6.show.	3600	in	ns	ns1gmz.name.com.
 6.show.	3600	in	ns	ns2qvz.name.com.
 6.show.	3600	in	ns	ns3dkz.name.com.
@@ -1194,8 +1196,6 @@ show.	3600	in	soa	v0n0.nic.show. hostmaster.donuts.email. 1757553316 7200 900 12
 78win8.show.	3600	in	ns	ns70.domaincontrol.com.
 78win9.show.	3600	in	ns	ns19.domaincontrol.com.
 78win9.show.	3600	in	ns	ns20.domaincontrol.com.
-79king1.show.	3600	in	ns	ns1.ns306.parklogic.com.
-79king1.show.	3600	in	ns	ns2.ns306.parklogic.com.
 7a3k1qqkl0q35nahl071sqf7j12pcdd6.show.	3600	in	nsec3	1 1 0 73 7A9L07GA81LLBH0T3V1D7L4LDDB849OF NS DS RRSIG
 7a3k1qqkl0q35nahl071sqf7j12pcdd6.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. HPjKubJ/NQima5+0DKY4GqDhR/L0YMKrEyC+G8UemCutv73HYgQSGQsSnGz9pOmEOhK9gjuNDm4Tdms3Ziyjn6C3e2aWqsJ03AOXzoUfLcRuh8QGNOUjqQSq0aX44AMPozZ0xdc19mGHKtGOLhBS/0IEz31D3P627A58t8mQ2bg=
 7a9l07ga81llbh0t3v1d7l4lddb849of.show.	3600	in	nsec3	1 1 0 73 7CLUN0KDS32GE1PKECUPT099UN2RDGS1 NS DS RRSIG
@@ -1349,7 +1349,7 @@ show.	3600	in	soa	v0n0.nic.show. hostmaster.donuts.email. 1757553316 7200 900 12
 8mgmsm0s10048p6k7lqdnmmuvjtg5kdj.show.	3600	in	nsec3	1 1 0 73 8NR5ICAIT52ERQ9BLE4DP4VA0RQDRDMR NS DS RRSIG
 8mgmsm0s10048p6k7lqdnmmuvjtg5kdj.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. pPxRloULGmjqiAqkB0AQMVu2o49nCar+xWghXJZoYvWrliD2/TUs74mjfKFg8v/QREAXjdfrh7NHjRfnLwD+ERTmD1uQWkYCsLd3enFijaOiVa7lECRBuu67SR2jI9zVb++39nMPQfywoUelh6drB8w4oR/F7V23Nr3n7n219fs=
 8nr5icait52erq9ble4dp4va0rqdrdmr.show.	3600	in	nsec3	1 1 0 73 8OCASBOV9J0TOH0MFNC5QIFDHEQ0T8BT NS SOA RRSIG DNSKEY NSEC3PARAM
-8nr5icait52erq9ble4dp4va0rqdrdmr.show.	3600	in	rrsig	NSEC3 8 2 3600 20251002012001 20250911002001 31335 show. dZyLWuAx8yL2xDojEZNIerNX6nqlmq7EJ4cHeUGhRPuDsYiVClZ6ILNLZdGDi13TMH3Fn3czxznB1KDyOQN6IbIJVlZq4OeHg5ri2YKxieCOaiBa1JriVglxxiOkQIYq39rR5vUaYEkhJEPobOWu8HjXi6juOccSbZq2TtlbLhM=
+8nr5icait52erq9ble4dp4va0rqdrdmr.show.	3600	in	rrsig	NSEC3 8 2 3600 20251003011636 20250912001636 31335 show. oshqQ9w/cJ7Hi1cj8lMI5me1qPz3bdQKLkZL5+AZcgugQ/WGYn8O/gppsm8YxtEy0xR6lHhvHPFspBv9x/UuwKLlhjOsth4ukNGul9UPNlUrP+S5f2kslawsseMyKQc7v2PnwmdYaQbLCAqRbN2+U9KhAGGfZak3sG0EB3PYuyc=
 8ocasbov9j0toh0mfnc5qifdheq0t8bt.show.	3600	in	nsec3	1 1 0 73 8OJ55ANPD4J37MH7EA6THCSDEDOLOR1A NS DS RRSIG
 8ocasbov9j0toh0mfnc5qifdheq0t8bt.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. rsPWDA+WwFQ3joG9NsTBDaietLuz3sn5N9GgYdOz6FawiuRvy6j1oXS5q4Z2K4vH2WhvEOren4zlGY0a6ri0n2krUNeC3Mcq/Ow0g18MrzpUqEZKNQ+nEXu5a3oT7UR1Nk5kbPRBNyQG69sGFxUePCvA0kpcN3OYHvdtsCEjvEM=
 8oj55anpd4j37mh7ea6thcsdedolor1a.show.	3600	in	nsec3	1 1 0 73 8S1JIJS4MHE06CNJQM501U9A0CFTJKA1 NS DS RRSIG
@@ -1416,8 +1416,6 @@ show.	3600	in	soa	v0n0.nic.show. hostmaster.donuts.email. 1757553316 7200 900 12
 99kl.show.	3600	in	ns	naomi.ns.cloudflare.com.
 99ok.show.	3600	in	ns	adele.ns.cloudflare.com.
 99ok.show.	3600	in	ns	ashton.ns.cloudflare.com.
-99online.show.	3600	in	ns	n1.xundns.com.
-99online.show.	3600	in	ns	n2.xundns.com.
 99u7iu2r7vbspapomo75bvghm7dij5n1.show.	3600	in	nsec3	1 1 0 73 9BCLEIMQTS9372HLM842UPGCF6KMKRH0 NS DS RRSIG
 99u7iu2r7vbspapomo75bvghm7dij5n1.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. rIp1cxIxF0T7on6yFe2sH2+wGaxV5YsMiWzLXoI8DhNXRvF9S9eqdZi9CPIZ36JLL1gcjM5TYlRHtZpDYdTzBjWXxzQU7lpkzj/eoSosKrKAXYg+pHMknQ2Q2H5bM76D0/BAzGT/M/ECrDBz1olImD1Lfusmk0Hc9OHEhfT1Bqk=
 9bcleimqts9372hlm842upgcf6kmkrh0.show.	3600	in	nsec3	1 1 0 73 9DLLOC1IUKA39DQEBAJBS3770RUE5UAI NS DS RRSIG
@@ -1522,7 +1520,7 @@ aade.show.	3600	in	ns	ns22.domaincontrol.com.
 aagmaal.show.	3600	in	ns	alina.ns.cloudflare.com.
 aagmaal.show.	3600	in	ns	ivan.ns.cloudflare.com.
 aahmjm6tj8r9fgfaipp2gvc92jkc3mit.show.	3600	in	nsec3	1 1 0 73 AALL07A2CSVVIIS8NQ890G2TAT23GAH7 NS DS RRSIG
-aahmjm6tj8r9fgfaipp2gvc92jkc3mit.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. gqIvYRrYpIU0T2bvqrBYpXVunbCXLeXmc2lhzN9ZmAMfK/RMljDOnKgpj0WrHb/OyOivjpFlf8ldGs2pg8EPdVnXcCUR0CwKf+AeUbNjDHnKOjm980aTK1HcyWESRZRrMQnYdaiy1p6+dVzbK9kh7tkcDRIDNpFej44eURhGXVk=
+aahmjm6tj8r9fgfaipp2gvc92jkc3mit.show.	3600	in	rrsig	NSEC3 8 2 3600 20251002230949 20250911220949 31335 show. FXQ+LSz4pBd/DfEiy2OsOPFgnXcCzku5ULGb2dl8IrbFoVSiq9rTkTpB+xd+HiHeOibaFqTDCQS9kTHhaYQCRiv0svTznJF7YhLUbxiRyLyohjO191RqRttuuNoOGzgMqcnawgie2RcCnrwr9e6eHqds+efQeh0kBDEFN2qmzHY=
 aall07a2csvviis8nq890g2tat23gah7.show.	3600	in	nsec3	1 1 0 73 ABQ9B0033EP7A3S378J19TG14K1T8S8G NS DS RRSIG
 aall07a2csvviis8nq890g2tat23gah7.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. aE8qCeEGZ9P8bOO0qAjOQrYYs4GZeXS7RgCQzSEbgvWppFzAb+DshHEeb24Ll4JftIO9eyO7NUyltkzy2Oh+N+Vtt3TZQgHlxXff+3tqtaeMc35WjVP0SjwZf+fHg5t8dMFTg6k0ZtF5XpPbxcQUhr+VfHUhg+o+MPw4mr/91pI=
 aaron.show.	3600	in	ns	dns23.hichina.com.
@@ -2561,9 +2559,9 @@ allreview.show.	3600	in	ns	ns1.gabia.co.kr.
 allreviewlab.show.	3600	in	ns	ns.gabia.co.kr.
 allreviewlab.show.	3600	in	ns	ns.gabia.net.
 allreviewlab.show.	3600	in	ns	ns1.gabia.co.kr.
-allright.show.	3600	in	ns	alfa.ns.active24.cz.
-allright.show.	3600	in	ns	beta.ns.active24.cz.
-allright.show.	3600	in	ns	gama.ns.active24.sk.
+allright.show.	3600	in	ns	ns1.websupport.cz.
+allright.show.	3600	in	ns	ns2.websupport.cz.
+allright.show.	3600	in	ns	ns3.websupport.eu.
 allstarvegas.show.	3600	in	ns	ns39.domaincontrol.com.
 allstarvegas.show.	3600	in	ns	ns40.domaincontrol.com.
 allsystemsgo.show.	3600	in	ns	ns1.hover.com.
@@ -2941,6 +2939,8 @@ andrew.show.	3600	in	ns	dns3.p06.nsone.net.
 andrew.show.	3600	in	ns	dns4.p06.nsone.net.
 andria.show.	3600	in	ns	dns1.registrar-servers.com.
 andria.show.	3600	in	ns	dns2.registrar-servers.com.
+androids.show.	3600	in	ns	ns47.domaincontrol.com.
+androids.show.	3600	in	ns	ns48.domaincontrol.com.
 andromeda.show.	3600	in	ns	ns75.domaincontrol.com.
 andromeda.show.	3600	in	ns	ns76.domaincontrol.com.
 andy.show.	3600	in	ns	ns1.dns-redirect.com.
@@ -3870,6 +3870,10 @@ aussiecrawl.show.	3600	in	ns	ns1.syd4.hostingplatform.net.au.
 aussiecrawl.show.	3600	in	ns	ns2.syd4.hostingplatform.net.au.
 aussiemusicpodcast.show.	3600	in	ns	ns1.syd6.hostyourservices.net.
 aussiemusicpodcast.show.	3600	in	ns	ns2.syd6.hostyourservices.net.
+austin.show.	3600	in	ns	curitiba.ns.porkbun.com.
+austin.show.	3600	in	ns	fortaleza.ns.porkbun.com.
+austin.show.	3600	in	ns	maceio.ns.porkbun.com.
+austin.show.	3600	in	ns	salvador.ns.porkbun.com.
 austinboat.show.	3600	in	ns	ns59.domaincontrol.com.
 austinboat.show.	3600	in	ns	ns60.domaincontrol.com.
 austincyber.show.	3600	in	ns	rachel.ns.cloudflare.com.
@@ -4389,8 +4393,6 @@ banyou.show.	3600	in	ns	dns23.hichina.com.
 banyou.show.	3600	in	ns	dns24.hichina.com.
 bao.show.	3600	in	ns	ns1.dns-redirect.com.
 bao.show.	3600	in	ns	ns2.dns-redirect.com.
-baobao.show.	3600	in	ns	expirens3.hichina.com.
-baobao.show.	3600	in	ns	expirens4.hichina.com.
 baofeng.show.	3600	in	ns	dns19.hichina.com.
 baofeng.show.	3600	in	ns	dns20.hichina.com.
 baopin.show.	3600	in	ns	ns1.volcengine-dns.com.
@@ -4517,8 +4519,8 @@ baulig.show.	3600	in	ns	ns1088.ui-dns.de.
 baulig.show.	3600	in	ns	ns1089.ui-dns.org.
 baulig.show.	3600	in	ns	ns1112.ui-dns.biz.
 baulig.show.	3600	in	ns	ns1120.ui-dns.com.
-bauma.show.	3600	in	ns	ns1.bodis.com.
-bauma.show.	3600	in	ns	ns2.bodis.com.
+bauma.show.	3600	in	ns	ns1.dns-redirect.com.
+bauma.show.	3600	in	ns	ns2.dns-redirect.com.
 baystatecoin.show.	3600	in	ns	ns15.worldnic.com.
 baystatecoin.show.	3600	in	ns	ns16.worldnic.com.
 bazar.show.	3600	in	ns	ns1.dns-parking.com.
@@ -6232,8 +6234,8 @@ broadcastexchange.show.	3600	in	ns	ns-cloud-c4.googledomains.com.
 broadcastexchange.show.	3600	in	rrsig	DS 8 2 3600 20250930160127 20250909150127 31335 show. RlL66lNcFG6cL04y2P750MuQoL1F1uF+T8cgoqYJRzKNJ90neY9qSPQPa0qxVC6ezyD0E4cURHEBC2Xg9t2qx1Fy756AEDl6gzFo5XYAgDsQnkW8wqjI0VRAvcNTX5C0wdLqzSwgzmiEFkhOYvdFc2Au8FC7h1b1Oj09e5tA6ZU=
 broadwaynyc.show.	3600	in	ns	dns1.registrar-servers.com.
 broadwaynyc.show.	3600	in	ns	dns2.registrar-servers.com.
-brochure.show.	3600	in	ns	dns23.hichina.com.
-brochure.show.	3600	in	ns	dns24.hichina.com.
+brochure.show.	3600	in	ns	kelly.ns.cloudflare.com.
+brochure.show.	3600	in	ns	tony.ns.cloudflare.com.
 broken.show.	3600	in	ns	ns1.markmonitor.com.
 broken.show.	3600	in	ns	ns2.markmonitor.com.
 broken.show.	3600	in	ns	ns3.markmonitor.com.
@@ -7427,6 +7429,8 @@ charlie.show.	3600	in	ns	ns1.dns-redirect.com.
 charlie.show.	3600	in	ns	ns2.dns-redirect.com.
 charliebrown.show.	3600	in	ns	dns1.registrar-servers.com.
 charliebrown.show.	3600	in	ns	dns2.registrar-servers.com.
+charliekirk.show.	3600	in	ns	ns1.dyna-ns.net.
+charliekirk.show.	3600	in	ns	ns2.dyna-ns.net.
 charm.show.	3600	in	ns	ns1.afternic.com.
 charm.show.	3600	in	ns	ns2.afternic.com.
 chart.show.	3600	in	ns	ns75.domaincontrol.com.
@@ -7646,8 +7650,9 @@ chinese.show.	3600	in	ns	ns1cnb.name.com.
 chinese.show.	3600	in	ns	ns2jqz.name.com.
 chinese.show.	3600	in	ns	ns3cna.name.com.
 chinese.show.	3600	in	ns	ns4fmw.name.com.
-chinesetv.show.	3600	in	ns	wesley.ns.cloudflare.com.
-chinesetv.show.	3600	in	ns	zoe.ns.cloudflare.com.
+chinesetv.show.	3600	in	ns	ns1.dnsowl.com.
+chinesetv.show.	3600	in	ns	ns2.dnsowl.com.
+chinesetv.show.	3600	in	ns	ns3.dnsowl.com.
 chip.show.	3600	in	ns	ns1.afternic.com.
 chip.show.	3600	in	ns	ns2.afternic.com.
 chipchilla.show.	3600	in	ns	buck.ns.cloudflare.com.
@@ -7730,8 +7735,8 @@ chrismasdream.show.	3600	in	ns	ns13.domaincontrol.com.
 chrismasdream.show.	3600	in	ns	ns14.domaincontrol.com.
 christendom.show.	3600	in	ns	dns1.registrar-servers.com.
 christendom.show.	3600	in	ns	dns2.registrar-servers.com.
-christian.show.	3600	in	ns	ns1.bodis.com.
-christian.show.	3600	in	ns	ns2.bodis.com.
+christian.show.	3600	in	ns	ns1.dns-redirect.com.
+christian.show.	3600	in	ns	ns2.dns-redirect.com.
 christmas.show.	3600	in	ns	ns1.afternic.com.
 christmas.show.	3600	in	ns	ns2.afternic.com.
 christmas.show.	3600	in	ns	verification-mzmjchcj28oatbtwxzgpt5.ns101.verify.hn.
@@ -8049,8 +8054,8 @@ clm.show.	3600	in	ns	vip1.alidns.com.
 clm.show.	3600	in	ns	vip2.alidns.com.
 cloak.show.	3600	in	ns	dns1.registrar-servers.com.
 cloak.show.	3600	in	ns	dns2.registrar-servers.com.
-clock.show.	3600	in	ns	ns1.myhostadmin.net.
-clock.show.	3600	in	ns	ns2.myhostadmin.net.
+clock.show.	3600	in	ns	kid.dnspod.net.
+clock.show.	3600	in	ns	treetop.dnspod.net.
 clona.show.	3600	in	ns	ns1.vercel-dns.com.
 clona.show.	3600	in	ns	ns2.vercel-dns.com.
 clopen.show.	3600	in	ns	ns59.domaincontrol.com.
@@ -8239,11 +8244,6 @@ coffeebreak.show.	3600	in	ns	ns1.101domain.com.
 coffeebreak.show.	3600	in	ns	ns2.101domain.com.
 coffeecake.show.	3600	in	ns	ns71.domaincontrol.com.
 coffeecake.show.	3600	in	ns	ns72.domaincontrol.com.
-coffeetalk.show.	3600	in	ns	dns1.name-services.com.
-coffeetalk.show.	3600	in	ns	dns2.name-services.com.
-coffeetalk.show.	3600	in	ns	dns3.name-services.com.
-coffeetalk.show.	3600	in	ns	dns4.name-services.com.
-coffeetalk.show.	3600	in	ns	dns5.name-services.com.
 coffincabaret.show.	3600	in	ns	ns1.dyna-ns.net.
 coffincabaret.show.	3600	in	ns	ns2.dyna-ns.net.
 cognac.show.	3600	in	ns	dns1.cscdns.net.
@@ -8614,8 +8614,8 @@ contemporarypainting.show.	3600	in	ns	ns3.eurodns.com.
 contemporarypainting.show.	3600	in	ns	ns4.eurodns.com.
 content.show.	3600	in	ns	ns1.afternic.com.
 content.show.	3600	in	ns	ns2.afternic.com.
-context.show.	3600	in	ns	ns1.bodis.com.
-context.show.	3600	in	ns	ns2.bodis.com.
+context.show.	3600	in	ns	ns1.dns-redirect.com.
+context.show.	3600	in	ns	ns2.dns-redirect.com.
 contextswitch.show.	3600	in	ns	dns1.registrar-servers.com.
 contextswitch.show.	3600	in	ns	dns2.registrar-servers.com.
 contraption.show.	3600	in	ns	ns07.domaincontrol.com.
@@ -8927,12 +8927,8 @@ crate.show.	3600	in	ns	apollo.ns.cloudflare.com.
 crate.show.	3600	in	ns	vivienne.ns.cloudflare.com.
 crazy-time.show.	3600	in	ns	brynne.ns.cloudflare.com.
 crazy-time.show.	3600	in	ns	seth.ns.cloudflare.com.
-crazy.show.	3600	in	ns	ns1.myhostadmin.net.
-crazy.show.	3600	in	ns	ns2.myhostadmin.net.
-crazy.show.	3600	in	ns	ns3.myhostadmin.net.
-crazy.show.	3600	in	ns	ns4.myhostadmin.net.
-crazy.show.	3600	in	ns	ns5.myhostadmin.net.
-crazy.show.	3600	in	ns	ns6.myhostadmin.net.
+crazy.show.	3600	in	ns	ns1.afternic.com.
+crazy.show.	3600	in	ns	ns2.afternic.com.
 crazyai.show.	3600	in	ns	noor.ns.cloudflare.com.
 crazyai.show.	3600	in	ns	rustam.ns.cloudflare.com.
 crazydomains.show.	3600	in	ns	ns1.parkme.com.au.
@@ -9294,8 +9290,8 @@ cuckoo.show.	3600	in	ds	17566 8 2 780E3A6EF9BE5EC7AA217BCB656C5B1F19663C05E70FBC
 cuckoo.show.	3600	in	ns	dns10.ovh.net.
 cuckoo.show.	3600	in	ns	ns10.ovh.net.
 cuckoo.show.	3600	in	rrsig	DS 8 2 3600 20250930160127 20250909150127 31335 show. No/6zu0kV+nrSx2Wai8e9Hcp+2ANnwxljY7l5dFdmRx6KBPB8P3NvwJ3lQAZ1wZTfbwPdxlpiDq84Cvp1va9pWErXaiPyZqgS2Dzgr5siCHz+k4gGXNlE83AxWljeO3Tg8kvwMYpQOa7ba1eExcreeDvLBMcBDFzHgZ+a4ADDNQ=
-cue.show.	3600	in	ns	ns1.bodis.com.
-cue.show.	3600	in	ns	ns2.bodis.com.
+cue.show.	3600	in	ns	ns1.dns-redirect.com.
+cue.show.	3600	in	ns	ns2.dns-redirect.com.
 cueradio.show.	3600	in	ns	ns1bcp.name.com.
 cueradio.show.	3600	in	ns	ns2jrt.name.com.
 cueradio.show.	3600	in	ns	ns3fgq.name.com.
@@ -9807,8 +9803,8 @@ dasha.show.	3600	in	ns	ns1.eurodns.com.
 dasha.show.	3600	in	ns	ns2.eurodns.com.
 dasha.show.	3600	in	ns	ns3.eurodns.com.
 dasha.show.	3600	in	ns	ns4.eurodns.com.
-dashaun.show.	3600	in	ns	ns1.hover.com.
-dashaun.show.	3600	in	ns	ns2.hover.com.
+dashboard.show.	3600	in	ns	ns31.domaincontrol.com.
+dashboard.show.	3600	in	ns	ns32.domaincontrol.com.
 dashen.show.	3600	in	ns	f1g1ns1.dnspod.net.
 dashen.show.	3600	in	ns	f1g1ns2.dnspod.net.
 dataandconfused.show.	3600	in	ns	lia.ns.cloudflare.com.
@@ -11259,6 +11255,13 @@ dramaqueen.show.	3600	in	ns	ns1.domain.com.
 dramaqueen.show.	3600	in	ns	ns2.domain.com.
 dramax.show.	3600	in	ns	dns21.hichina.com.
 dramax.show.	3600	in	ns	dns22.hichina.com.
+drania.show.	3600	in	ds	59488 14 2 9BEC750AAD9D718567E6F06B9683F4CBD267FC7D1B735F8C21722551448B218E
+drania.show.	3600	in	ns	ns1.cdmon.net.
+drania.show.	3600	in	ns	ns2.cdmon.net.
+drania.show.	3600	in	ns	ns3.cdmon.net.
+drania.show.	3600	in	ns	ns4.cdmondns-01.org.
+drania.show.	3600	in	ns	ns5.cdmondns-01.com.
+drania.show.	3600	in	rrsig	DS 8 2 3600 20251002202101 20250911192101 31335 show. cr8xKiqSAbrK4ICp2voMEBaL1JvH7Hf2EJC17ccpAz2RvPjXEgUodubxPd7saM785fxi3/X3g1oLK5MC6tD7hL2s0w6GOFPw9c1ZB751pm/s7/4SaWKD9Sk9Xn3ioeUgHE/64MZYLtias5mbFJmwt7/kOEQRfk5jFTKHoTN5plw=
 draw.show.	3600	in	ns	dns25.hichina.com.
 draw.show.	3600	in	ns	dns26.hichina.com.
 drawn.show.	3600	in	ns	dns102.ovh.net.
@@ -13224,10 +13227,10 @@ f8bet1f.show.	3600	in	ns	ns1.dyna-ns.net.
 f8bet1f.show.	3600	in	ns	ns2.dyna-ns.net.
 f8bet1g.show.	3600	in	ns	ns1.dyna-ns.net.
 f8bet1g.show.	3600	in	ns	ns2.dyna-ns.net.
-f8bet1h.show.	3600	in	ns	gwen.ns.cloudflare.com.
-f8bet1h.show.	3600	in	ns	ryan.ns.cloudflare.com.
-f8bet1i.show.	3600	in	ns	gwen.ns.cloudflare.com.
-f8bet1i.show.	3600	in	ns	ryan.ns.cloudflare.com.
+f8bet1h.show.	3600	in	ns	ns1.dyna-ns.net.
+f8bet1h.show.	3600	in	ns	ns2.dyna-ns.net.
+f8bet1i.show.	3600	in	ns	ns1.dyna-ns.net.
+f8bet1i.show.	3600	in	ns	ns2.dyna-ns.net.
 f8bet2.show.	3600	in	ns	ns1dhl.name.com.
 f8bet2.show.	3600	in	ns	ns2lns.name.com.
 f8bet2.show.	3600	in	ns	ns3dgr.name.com.
@@ -13290,6 +13293,8 @@ fa.show.	3600	in	ns	ns3gnv.name.com.
 fa.show.	3600	in	ns	ns4dmx.name.com.
 fa64cbg1h5l9vjvjb0jdc7ue26qg0usq.show.	3600	in	nsec3	1 1 0 73 FB5FIEPB97FII7GFA6PEK7SH6VT8L5P9 NS DS RRSIG
 fa64cbg1h5l9vjvjb0jdc7ue26qg0usq.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. DN722AvKXBZXGH17chAlztua4rmeferVxp9GH6V4eAzyNm7qTZ/LtTB1BcjVdQdTJ/IwQmrCZnATnW/IbKuWdOzmz9SK0u9x5EhLVSpVBXQIZr42FG/8pFS4PZEot2UuexC+53YbhGIgVvzpNm+tPETOnekE0YN0Mg4/xXEV1ug=
+fa777.show.	3600	in	ns	ns67.domaincontrol.com.
+fa777.show.	3600	in	ns	ns68.domaincontrol.com.
 fa88.show.	3600	in	ns	ns1.dyna-ns.net.
 fa88.show.	3600	in	ns	ns2.dyna-ns.net.
 fa999.show.	3600	in	ns	ns61.domaincontrol.com.
@@ -16124,6 +16129,8 @@ goochelaar.show.	3600	in	ns	ns.zxcs.eu.
 goochelaar.show.	3600	in	ns	ns.zxcs.nl.
 good.show.	3600	in	ns	ns1.afternic.com.
 good.show.	3600	in	ns	ns2.afternic.com.
+good88.show.	3600	in	ns	major.ns.cloudflare.com.
+good88.show.	3600	in	ns	sloan.ns.cloudflare.com.
 goodafternoon.show.	3600	in	ds	52721 8 2 76BF200CCAFF5512CDBBBF8DC7D0FD57009A5D4AF7ABA0BBECDB9AC1F2F17FC5
 goodafternoon.show.	3600	in	ns	ns-cloud-e1.googledomains.com.
 goodafternoon.show.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -17081,8 +17088,8 @@ hb.show.	3600	in	ns	dns1.hichina.com.
 hb.show.	3600	in	ns	dns2.hichina.com.
 hb4jv87lo2hbv0uief52s7l26qt51j3p.show.	3600	in	nsec3	1 1 0 73 HDBSPP2K2C8KO0AEJ76BVHBRVU57V2AL NS DS RRSIG
 hb4jv87lo2hbv0uief52s7l26qt51j3p.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. BPA6j0Ue9ssKffuPjS7q4cO40F/M8JZLB37+tPO+nHuBVgTgACOATUIi37lWgXfw6/HjxAjH2l0IFiGXTmbNDbthR+FenmUzDLGN0GctQ7QRqREr2HdpOVigXy7V/TxfyOC1f0wLhF2CAWk1A3MmjfjqCXKXwM4KmCsfMkoVXbM=
-hb88.show.	3600	in	ns	ns1.bodis.com.
-hb88.show.	3600	in	ns	ns2.bodis.com.
+hb88.show.	3600	in	ns	ns1.dns-redirect.com.
+hb88.show.	3600	in	ns	ns2.dns-redirect.com.
 hbc.show.	3600	in	ns	ns1.dreamhost.com.
 hbc.show.	3600	in	ns	ns2.dreamhost.com.
 hbc.show.	3600	in	ns	ns3.dreamhost.com.
@@ -17291,8 +17298,8 @@ heldlainer.show.	3600	in	ns	ns1.world4you.at.
 heldlainer.show.	3600	in	ns	ns2.world4you.at.
 heli.show.	3600	in	ns	ns51.domaincontrol.com.
 heli.show.	3600	in	ns	ns52.domaincontrol.com.
-helios.show.	3600	in	ns	ns1.bodis.com.
-helios.show.	3600	in	ns	ns2.bodis.com.
+helios.show.	3600	in	ns	ns1.dns-redirect.com.
+helios.show.	3600	in	ns	ns2.dns-redirect.com.
 helium.show.	3600	in	ns	ns3.afternic.com.
 helium.show.	3600	in	ns	ns4.afternic.com.
 helix.show.	3600	in	ns	dns1.p01.nsone.net.
@@ -17364,9 +17371,6 @@ hera.show.	3600	in	ds	2371 13 2 DA21F7BABCEA9071A577391C605E4117041094417E445509
 hera.show.	3600	in	ns	syeef.ns.cloudflare.com.
 hera.show.	3600	in	ns	treasure.ns.cloudflare.com.
 hera.show.	3600	in	rrsig	DS 8 2 3600 20250930160127 20250909150127 31335 show. RP9Q3LHOD/KTvysLsCHE0VvbYHw+MliEQX/yED2y3dSeYGKA+yAU/UK6SkuF2vD/zWK0wzdit99cALt3kbzMgswgpr1vL51+ad3M8yVJoO6GDEBZu40pMVrNlUSA0eFFBPECxS3cF+QUckHKpWWzTmxuAdoxh6PGPWiy8EEXUvA=
-herbertvonkarajan.show.	3600	in	ns	ns.udag.de.
-herbertvonkarajan.show.	3600	in	ns	ns.udag.net.
-herbertvonkarajan.show.	3600	in	ns	ns.udag.org.
 herbs.show.	3600	in	ns	curitiba.ns.porkbun.com.
 herbs.show.	3600	in	ns	fortaleza.ns.porkbun.com.
 herbs.show.	3600	in	ns	maceio.ns.porkbun.com.
@@ -17419,10 +17423,8 @@ heute.show.	3600	in	ns	ns2.variomedia.de.
 hex.show.	3600	in	ns	nsn1.mijndomein.nl.
 hex.show.	3600	in	ns	nsn2.mijndomein.nl.
 hexagon.show.	3600	in	ds	16070 8 2 3BB290ACA4409A3F48B118A641291A13B2586B80D2ABFFC5AB4114D4A28BD050
-hexagon.show.	3600	in	ns	ns-cloud-d1.googledomains.com.
-hexagon.show.	3600	in	ns	ns-cloud-d2.googledomains.com.
-hexagon.show.	3600	in	ns	ns-cloud-d3.googledomains.com.
-hexagon.show.	3600	in	ns	ns-cloud-d4.googledomains.com.
+hexagon.show.	3600	in	ns	ns3.afternic.com.
+hexagon.show.	3600	in	ns	ns4.afternic.com.
 hexagon.show.	3600	in	rrsig	DS 8 2 3600 20250930160127 20250909150127 31335 show. YiSQGFJzV4q+GR+OYU6icYvrOl+OxlMscMVVwaae4T4bQs/tYLzyaQiEMSNBPVh+frdsOzNDRe9ZjFqzGMAG8zQjVLuqsLMdx9Y1UscdueuxHVVefLyqnk0u+FPqp2dnDAK6u2g2TBygYmc0c8+WvENXDDQBW+jXhk5i0mcaesU=
 hexappeal.show.	3600	in	ns	ns-1417.awsdns-49.org.
 hexappeal.show.	3600	in	ns	ns-1942.awsdns-50.co.uk.
@@ -17868,8 +17870,8 @@ homi.show.	3600	in	ns	breeze.dnspod.net.
 homi.show.	3600	in	ns	julie.dnspod.net.
 homie.show.	3600	in	ns	dns1.registrar-servers.com.
 homie.show.	3600	in	ns	dns2.registrar-servers.com.
-homietec.show.	3600	in	ns	dns23.hichina.com.
-homietec.show.	3600	in	ns	dns24.hichina.com.
+homietec.show.	3600	in	ns	expirens3.hichina.com.
+homietec.show.	3600	in	ns	expirens4.hichina.com.
 homietechealth.show.	3600	in	ns	dns31.hichina.com.
 homietechealth.show.	3600	in	ns	dns32.hichina.com.
 homietecmedical.show.	3600	in	ns	dns11.hichina.com.
@@ -18165,8 +18167,8 @@ hsi.show.	3600	in	ns	ns1.hover.com.
 hsi.show.	3600	in	ns	ns2.hover.com.
 hsk.show.	3600	in	ns	dns13.hichina.com.
 hsk.show.	3600	in	ns	dns14.hichina.com.
-hsl.show.	3600	in	ns	ns1.bodis.com.
-hsl.show.	3600	in	ns	ns2.bodis.com.
+hsl.show.	3600	in	ns	ns1.dns-redirect.com.
+hsl.show.	3600	in	ns	ns2.dns-redirect.com.
 ht0mghvea5i47e8tsahfafd7illikmpv.show.	3600	in	nsec3	1 1 0 73 I08KI2GM56NG13CB6ACF2CM5N4A99LSS NS DS RRSIG
 ht0mghvea5i47e8tsahfafd7illikmpv.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. ClmhJ+NshbnBmKcB85O5BxOwfmIn5hof3HxBp0IXcX1fxQhZsxPBArc1xtlds+4MR/x+9bseHvkApeMhCYfr/z37HS1PS79sMK1BzcpXPxd2nWFc5JWeyjilovEEosc8I7Gnp7/oTL2uksueXHzdnES0+a+/Cu9hgAjQ7wL7vAk=
 htat.show.	3600	in	ns	ns03.domaincontrol.com.
@@ -19608,8 +19610,8 @@ ipm.show.	3600	in	ns	ns15.domaincontrol.com.
 ipm.show.	3600	in	ns	ns16.domaincontrol.com.
 ipo.show.	3600	in	ns	ns7262.eukns.com.
 ipo.show.	3600	in	ns	ns7263.eukns.com.
-ipollo.show.	3600	in	ns	ns1.bodis.com.
-ipollo.show.	3600	in	ns	ns2.bodis.com.
+ipollo.show.	3600	in	ns	ns1.dns-redirect.com.
+ipollo.show.	3600	in	ns	ns2.dns-redirect.com.
 ipr.show.	3600	in	ns	dns15.hichina.com.
 ipr.show.	3600	in	ns	dns16.hichina.com.
 ipro.show.	3600	in	ns	ns1.tildadns.com.
@@ -20764,9 +20766,6 @@ kaosu.show.	3600	in	ns	dns1.registrar-servers.com.
 kaosu.show.	3600	in	ns	dns2.registrar-servers.com.
 kapm.show.	3600	in	ns	ns05.domaincontrol.com.
 kapm.show.	3600	in	ns	ns06.domaincontrol.com.
-karajan.show.	3600	in	ns	ns.udag.de.
-karajan.show.	3600	in	ns	ns.udag.net.
-karajan.show.	3600	in	ns	ns.udag.org.
 karaoke.show.	3600	in	ns	ns1.afternic.com.
 karaoke.show.	3600	in	ns	ns2.afternic.com.
 karen.show.	3600	in	ns	ns3.afternic.com.
@@ -20952,8 +20951,8 @@ kg77.show.	3600	in	ns	ns77.domaincontrol.com.
 kg77.show.	3600	in	ns	ns78.domaincontrol.com.
 kh9l3i70vlr3g1eorhneoejb401b80o4.show.	3600	in	nsec3	1 1 0 73 KI640DC9Q57U29KISEFMNJLUDIT6FV0E NS DS RRSIG
 kh9l3i70vlr3g1eorhneoejb401b80o4.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. oXBTu6EuO/aWVYX2fhYE98XUTewWQKvp1YT/CV/Ccoki/W0yjWN0XoEKRXScMjiXbxbi2rYXM80eapbcpHBmYS62rlk0OdRfLlhzdrCQ5ngEaSBk3rzlzY/708uptFGtPRBV1IvxdsxHLJyj1NgPRgDmxVpb+IQ4dDM754ls5YE=
-khatronkekhiladi15.show.	3600	in	ns	ns1.dyna-ns.net.
-khatronkekhiladi15.show.	3600	in	ns	ns2.dyna-ns.net.
+khatronkekhiladi15.show.	3600	in	ns	ns1.sedoparking.com.
+khatronkekhiladi15.show.	3600	in	ns	ns2.sedoparking.com.
 khela.show.	3600	in	ns	elma.ns.cloudflare.com.
 khela.show.	3600	in	ns	gordon.ns.cloudflare.com.
 ki.show.	3600	in	ds	12059 8 2 BCD8BFB3648951E2727F94F14EEB227B88461C49E57FCB671B51EEC3F9E56A8C
@@ -23211,8 +23210,8 @@ lubach.show.	3600	in	ns	nsn1.mijndomein.nl.
 lubach.show.	3600	in	ns	nsn2.mijndomein.nl.
 luc.show.	3600	in	ns	roan.ns.cloudflare.com.
 luc.show.	3600	in	ns	sima.ns.cloudflare.com.
-lucas.show.	3600	in	ns	ns1.afternic.com.
-lucas.show.	3600	in	ns	ns2.afternic.com.
+lucas.show.	3600	in	ns	ns25.domaincontrol.com.
+lucas.show.	3600	in	ns	ns26.domaincontrol.com.
 lucasgonzalez.show.	3600	in	ns	dns1.nominalia.com.
 lucasgonzalez.show.	3600	in	ns	dns2.nominalia.com.
 lucasguimaraes.show.	3600	in	ns	ns29.domaincontrol.com.
@@ -23828,8 +23827,8 @@ malyavka.show.	3600	in	ns	ns1.timeweb.ru.
 malyavka.show.	3600	in	ns	ns2.timeweb.ru.
 malyavka.show.	3600	in	ns	ns3.timeweb.org.
 malyavka.show.	3600	in	ns	ns4.timeweb.org.
-mama.show.	3600	in	ns	ns1.bodis.com.
-mama.show.	3600	in	ns	ns2.bodis.com.
+mama.show.	3600	in	ns	ns1.dns-redirect.com.
+mama.show.	3600	in	ns	ns2.dns-redirect.com.
 mamalove.show.	3600	in	ns	ns1.vespucci.sui-inter.net.
 mamalove.show.	3600	in	ns	ns2.vespucci.sui-inter.net.
 mamamatriarchy.show.	3600	in	ns	ns57.domaincontrol.com.
@@ -24282,8 +24281,8 @@ maxonvfx.show.	3600	in	ns	linda.ns.cloudflare.com.
 maxonvfx.show.	3600	in	ns	matt.ns.cloudflare.com.
 maxwell.show.	3600	in	ns	dns15.hichina.com.
 maxwell.show.	3600	in	ns	dns16.hichina.com.
-maxx.show.	3600	in	ns	ns1.bodis.com.
-maxx.show.	3600	in	ns	ns2.bodis.com.
+maxx.show.	3600	in	ns	ns1.dns-redirect.com.
+maxx.show.	3600	in	ns	ns2.dns-redirect.com.
 may.show.	3600	in	ns	ns1.afternic.com.
 may.show.	3600	in	ns	ns2.afternic.com.
 may.show.	3600	in	ns	verification-stk7bnbwvtufs4tupru3mn.ns101.verify.hn.
@@ -26766,8 +26765,6 @@ nemo.show.	3600	in	ns	melody.ns.cloudflare.com.
 nemo.show.	3600	in	rrsig	DS 8 2 3600 20250930160127 20250909150127 31335 show. P2LaP+8SGfUp8NwJXyrkarGMNZpFn9WOP4g7pIuVP5qmsTSEEF0liaSwMK/09UWjjBYrhuhyaRMEayxIjThq83PKvsud/wRH2LQmrLQx0Ixlw3IzDTQoXDOsvvFC52IPS+k1Sh4o2tK+SucsCWhHCEiFwsveslVeIFPVZ0+666w=
 neo.show.	3600	in	ns	ns1.atom.com.
 neo.show.	3600	in	ns	ns2.atom.com.
-neolive.show.	3600	in	ns	ns1.bodis.com.
-neolive.show.	3600	in	ns	ns2.bodis.com.
 neom.show.	3600	in	ns	ns1.sedoparking.com.
 neom.show.	3600	in	ns	ns2.sedoparking.com.
 neon.show.	3600	in	ns	ns1.afternic.com.
@@ -27014,6 +27011,10 @@ nexus.show.	3600	in	ns	ns1.dns-redirect.com.
 nexus.show.	3600	in	ns	ns2.dns-redirect.com.
 nfa.show.	3600	in	ns	ns25.domaincontrol.com.
 nfa.show.	3600	in	ns	ns26.domaincontrol.com.
+nfl.show.	3600	in	ns	curitiba.ns.porkbun.com.
+nfl.show.	3600	in	ns	fortaleza.ns.porkbun.com.
+nfl.show.	3600	in	ns	maceio.ns.porkbun.com.
+nfl.show.	3600	in	ns	salvador.ns.porkbun.com.
 nfs.show.	3600	in	ns	dns15.hichina.com.
 nfs.show.	3600	in	ns	dns16.hichina.com.
 nfsc.show.	3600	in	ns	dns3.hichina.com.
@@ -27191,6 +27192,8 @@ nineteensixtyone.show.	3600	in	ns	ns1018.ui-dns.de.
 nineteensixtyone.show.	3600	in	ns	ns1055.ui-dns.org.
 nineteensixtyone.show.	3600	in	ns	ns1097.ui-dns.biz.
 nineteensixtyone.show.	3600	in	ns	ns1125.ui-dns.com.
+ninette.show.	3600	in	ns	dns10.ovh.net.
+ninette.show.	3600	in	ns	ns10.ovh.net.
 ning.show.	3600	in	ns	baritone.dnspod.net.
 ning.show.	3600	in	ns	spinach.dnspod.net.
 ningbo.show.	3600	in	ns	hot.dnspod.net.
@@ -27603,8 +27606,8 @@ nrl.show.	3600	in	ns	ns3.dnsmadeeasy.com.
 nrl.show.	3600	in	ns	ns4.dnsmadeeasy.com.
 ns.show.	3600	in	ns	ns5.hosting.reg.ru.
 ns.show.	3600	in	ns	ns6.hosting.reg.ru.
-ns0.roll.show.	3600	in	a	46.105.30.208
-ns0.roll.show.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns0.roll.show.	3600	in	a	51.178.81.211
+ns0.roll.show.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns1.amp.show.	3600	in	a	68.183.230.158
 ns1.cams.show.	3600	in	a	50.22.35.226
 ns1.desktopdancers.show.	3600	in	a	38.75.137.193
@@ -27622,8 +27625,8 @@ ns1.nu.show.	3600	in	a	209.133.193.154
 ns1.okcgun.show.	3600	in	a	135.181.129.121
 ns1.onsex.show.	3600	in	a	209.95.51.20
 ns1.rel.show.	3600	in	a	76.76.21.21
-ns1.roll.show.	3600	in	a	46.105.30.208
-ns1.roll.show.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns1.roll.show.	3600	in	a	51.178.81.211
+ns1.roll.show.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns1.scope.show.	3600	in	a	199.38.245.62
 ns1.shortly.show.	3600	in	a	51.20.233.74
 ns1.shortly.show.	3600	in	aaaa	2a05:d016:0769:2100:2341:7be2:ca42:6c2a
@@ -27649,8 +27652,8 @@ ns2.novaproton.show.	3600	in	a	82.165.181.221
 ns2.nu.show.	3600	in	a	209.133.193.155
 ns2.okcgun.show.	3600	in	a	213.239.242.238
 ns2.onsex.show.	3600	in	a	209.95.51.20
-ns2.roll.show.	3600	in	a	46.105.30.208
-ns2.roll.show.	3600	in	aaaa	2001:41d0:0401:3200:0000:0000:0000:1c45
+ns2.roll.show.	3600	in	a	51.178.81.211
+ns2.roll.show.	3600	in	aaaa	2001:41d0:0404:0200:0000:0000:0000:2018
 ns2.scope.show.	3600	in	a	199.38.245.62
 ns2.sue.show.	3600	in	a	66.179.243.5
 ns2.therippleeffect.show.	3600	in	a	162.159.25.42
@@ -29809,6 +29812,10 @@ pip.show.	3600	in	ns	dns1.registrar-servers.com.
 pip.show.	3600	in	ns	dns2.registrar-servers.com.
 pipeline.show.	3600	in	ns	dns1.registrar-servers.com.
 pipeline.show.	3600	in	ns	dns2.registrar-servers.com.
+pipelineology.show.	3600	in	ns	curitiba.ns.porkbun.com.
+pipelineology.show.	3600	in	ns	fortaleza.ns.porkbun.com.
+pipelineology.show.	3600	in	ns	maceio.ns.porkbun.com.
+pipelineology.show.	3600	in	ns	salvador.ns.porkbun.com.
 pipi.show.	3600	in	ns	elisabeth.ns.cloudflare.com.
 pipi.show.	3600	in	ns	mcgrory.ns.cloudflare.com.
 pipoka.show.	3600	in	ns	dns1.registrar-servers.com.
@@ -30714,8 +30721,8 @@ privet.show.	3600	in	ns	ns.udag.net.
 privet.show.	3600	in	ns	ns.udag.org.
 prize.show.	3600	in	ns	ns1.afternic.com.
 prize.show.	3600	in	ns	ns2.afternic.com.
-prmovies.show.	3600	in	ns	ns1.abovedomains.com.
-prmovies.show.	3600	in	ns	ns2.abovedomains.com.
+prmovies.show.	3600	in	ns	roxy.ns.cloudflare.com.
+prmovies.show.	3600	in	ns	ryan.ns.cloudflare.com.
 prn.show.	3600	in	ns	dns1.registrar-servers.com.
 prn.show.	3600	in	ns	dns2.registrar-servers.com.
 pro.show.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -31472,6 +31479,8 @@ radio.show.	3600	in	rrsig	DS 8 2 3600 20250930160127 20250909150127 31335 show. 
 radiofaux.show.	3600	in	ns	ns1.wordpress.com.
 radiofaux.show.	3600	in	ns	ns2.wordpress.com.
 radiofaux.show.	3600	in	ns	ns3.wordpress.com.
+radiogo.show.	3600	in	ns	dns1.namecheaphosting.com.
+radiogo.show.	3600	in	ns	dns2.namecheaphosting.com.
 radiomagnetic.show.	3600	in	ns	ns1.wordpress.com.
 radiomagnetic.show.	3600	in	ns	ns2.wordpress.com.
 radiomagnetic.show.	3600	in	ns	ns3.wordpress.com.
@@ -31567,9 +31576,8 @@ rare.show.	3600	in	ns	ns1.dan.com.
 rare.show.	3600	in	ns	ns2.dan.com.
 raretodd.show.	3600	in	ns	dns1.registrar-servers.com.
 raretodd.show.	3600	in	ns	dns2.registrar-servers.com.
-raskat.show.	3600	in	ns	ns3.nic.ru.
-raskat.show.	3600	in	ns	ns4.nic.ru.
-raskat.show.	3600	in	ns	ns8.nic.ru.
+raskat.show.	3600	in	ns	dnsproxy1.fm.nic.ru.
+raskat.show.	3600	in	ns	dnsproxy2.fm.nic.ru.
 raspadinha.show.	3600	in	ns	chris.ns.cloudflare.com.
 raspadinha.show.	3600	in	ns	sharon.ns.cloudflare.com.
 raspashow.show.	3600	in	ns	ns1.sdparking.com.br.
@@ -33557,6 +33565,10 @@ schmerzfrei.show.	3600	in	ns	ns2.inwx.de.
 schmerzfrei.show.	3600	in	ns	ns3.inwx.eu.
 schmitt.show.	3600	in	ns	ariella.ns.cloudflare.com.
 schmitt.show.	3600	in	ns	jakub.ns.cloudflare.com.
+schnauze.show.	3600	in	ns	ns1027.ui-dns.org.
+schnauze.show.	3600	in	ns	ns1052.ui-dns.de.
+schnauze.show.	3600	in	ns	ns1105.ui-dns.com.
+schnauze.show.	3600	in	ns	ns1106.ui-dns.biz.
 schnee.show.	3600	in	ns	cns1.cloudpit.de.
 schnee.show.	3600	in	ns	cns2.cloudpit.com.
 schnee.show.	3600	in	ns	cns3.cloudpit.io.
@@ -33574,8 +33586,8 @@ schoolinked.show.	3600	in	ns	ns33.domaincontrol.com.
 schoolinked.show.	3600	in	ns	ns34.domaincontrol.com.
 schoolofhardknox.show.	3600	in	ns	ns1.r4l.com.
 schoolofhardknox.show.	3600	in	ns	ns2.r4l.com.
-schools.show.	3600	in	ns	ns1.bodis.com.
-schools.show.	3600	in	ns	ns2.bodis.com.
+schools.show.	3600	in	ns	ns1.dns-redirect.com.
+schools.show.	3600	in	ns	ns2.dns-redirect.com.
 schoolstars.show.	3600	in	ns	ns1.dyna-ns.net.
 schoolstars.show.	3600	in	ns	ns2.dyna-ns.net.
 schooltime.show.	3600	in	ns	ns33.domaincontrol.com.
@@ -33978,8 +33990,8 @@ serenede.show.	3600	in	ns	connect1.squarespacedns.com.
 serenede.show.	3600	in	ns	connect2.squarespacedns.com.
 serg.show.	3600	in	ns	ns.checkdomain.de.
 serg.show.	3600	in	ns	ns2.checkdomain.de.
-serial.show.	3600	in	ns	ns1.bodis.com.
-serial.show.	3600	in	ns	ns2.bodis.com.
+serial.show.	3600	in	ns	ns1.dns-redirect.com.
+serial.show.	3600	in	ns	ns2.dns-redirect.com.
 serialet.show.	3600	in	ns	ns1.dyna-ns.net.
 serialet.show.	3600	in	ns	ns2.dyna-ns.net.
 serialonline.show.	3600	in	ns	eleanor.ns.cloudflare.com.
@@ -34498,7 +34510,7 @@ show.	3600	in	nsec3param	1 0 0 73
 show.	3600	in	rrsig	DNSKEY 8 1 3600 20250930160127 20250909150127 43876 show. q/gBpWFOIwxndC21ykqOivKdrXqyWkCeMAEfAzpMpiuuE3LyPECUcxfYVI+a0jRdHDTSobXlfG77dG4uYJ0ICCPpqCPZliDZn4MMPPMIVI/aSY0S0Vlgb/y1CigAH9jf9twpfVZb5cQ7Av+ZGzTydgXLli52eIahbDvqca9Y7gBGk68DTgiK49k12sctsBlmVCxCQeNxVmHddEERHBwqrIJ9qv3Blqys1A33f1bMt5q9yBX6oIpbhMj4XueleA7oV60O/95vcnsuZARNSdoLiA1YVaziVdAfeZG2AFgbzioFX9NhCUPiitOyiS1Xw/jCcPqgRHw3o82G3Lf0Q6hIXA==
 show.	3600	in	rrsig	NS 8 1 3600 20250930160127 20250909150127 31335 show. nx7qirM0UB6srSxOWesH57nCdapQz8Jg13TYtXUE2MQ26UH6nNn56YvhYf2APz5dHM+/pqygfE9yuRkpKst/TvoDMySxVJ0ARrI04tR8aLAJyahuvNRpvMCZG+Tev/XT1/wCBe4nI8AOr9rF+E5vXPg0mi7CIZCShvd+t40q4QI=
 show.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930160127 20250909150127 31335 show. RcGp5+qH9CLC0kBB4eZMCtgb5mTaLjLn6KBqRpumsSEYSf3TMAfFQPQ1+P0iuXjiTcu6EZJKjRZ2oc+JW+J3N52d9hotJKMV0ZCdltEHMpyPORNWlv2B264xL1lCRPOUjmqWwSysjf9sLJnLGOBrbAc2wc9EDeVnhHurLC6VSt8=
-show.	3600	in	rrsig	SOA 8 1 3600 20251002012001 20250911002001 31335 show. cbTZBhI4VO/vk3WJt8ABp+ER8tC/b+734/SbI4Fe1YOY6qat8CexSJ7fYYDRRnkcQFXnh3e2SINbVkdD8dGWoSp9cbumm5v5duGjMh8qrJ35ghvexJscYsK0wpi2olFf/K1NsRuIqSKKVYI2zFhFZn2x6+bGkdfM+WjvhQKi2IY=
+show.	3600	in	rrsig	SOA 8 1 3600 20251003011636 20250912001636 31335 show. I4FIhSwOgSXM/mVswcuQXAXKZilDj58MqXhrMUPmPoU/SrBWcFWwIumXIo+wOsYut96br7bKJYwGpY0yng9WUWzjtw9WeyZpTMRTGJbLk9Tx1qDxFVcjRCsz0I7O6cVpfcK0KXlEyFh5U7F8k/162SBt4wYGvC1omx0VQXLMBMQ=
 show.show.	3600	in	ns	ns-13-a.gandi.net.
 show.show.	3600	in	ns	ns-143-c.gandi.net.
 show.show.	3600	in	ns	ns-47-b.gandi.net.
@@ -35244,12 +35256,8 @@ smff2n8vnh5k42kvfusljme3k0u59ddj.show.	3600	in	nsec3	1 1 0 73 SMI9HHQ5KSKSE70AAJ
 smff2n8vnh5k42kvfusljme3k0u59ddj.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. jjiFvImP0Z5GxmPQ8x1PS6g3fjdEGK34vuUdVYNUeGn+h6rfpnZVKeuHaCe8oO8DicJuuFhMcKR6gh69mV4B86hqNjj5hFQ3v0OOvGr2mSKnsT9Kn+rckhthdGw2+zzA8EvwDEYldw1JxhJg4x+2lcdSQe35+uY0XwN5JhlCoXI=
 smi9hhq5kskse70aajgunkgl9f3mkub5.show.	3600	in	nsec3	1 1 0 73 SNI1P8GCQ82OULQPIU3JHELGH1HF2JQR NS DS RRSIG
 smi9hhq5kskse70aajgunkgl9f3mkub5.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. WdLAmACVrcvI+t2TokxeFwpASgzfa36WMPkI/UwnI7tEhl3zrwy4X05xb6CoKh1rUpBmiECcs45g9P1eTPPSyXHEOyD5idcaBVl/uuoSsz5E/40nFMfw6D2pAnuvHQONbGLnulU/3lX8NS958CLVasKyhGUZagQdNx0GduOowYQ=
-smile.show.	3600	in	ns	ns1.myhostadmin.net.
-smile.show.	3600	in	ns	ns2.myhostadmin.net.
-smile.show.	3600	in	ns	ns3.myhostadmin.net.
-smile.show.	3600	in	ns	ns4.myhostadmin.net.
-smile.show.	3600	in	ns	ns5.myhostadmin.net.
-smile.show.	3600	in	ns	ns6.myhostadmin.net.
+smile.show.	3600	in	ns	ns1.afternic.com.
+smile.show.	3600	in	ns	ns2.afternic.com.
 smileagain.show.	3600	in	ns	dns1.registrar-servers.com.
 smileagain.show.	3600	in	ns	dns2.registrar-servers.com.
 smilestv.show.	3600	in	ns	ns09.domaincontrol.com.
@@ -36759,8 +36767,8 @@ sunsetliving.show.	3600	in	ns	ns1.dns-parking.com.
 sunsetliving.show.	3600	in	ns	ns2.dns-parking.com.
 sunshine.show.	3600	in	ns	dns23.hichina.com.
 sunshine.show.	3600	in	ns	dns24.hichina.com.
-sunwin.show.	3600	in	ns	ns1.bodis.com.
-sunwin.show.	3600	in	ns	ns2.bodis.com.
+sunwin.show.	3600	in	ns	ns1.dns-redirect.com.
+sunwin.show.	3600	in	ns	ns2.dns-redirect.com.
 supa.show.	3600	in	ns	ns63.domaincontrol.com.
 supa.show.	3600	in	ns	ns64.domaincontrol.com.
 super.show.	3600	in	ns	ns1.afternic.com.
@@ -37003,8 +37011,8 @@ swanseaclassicvehicle.show.	3600	in	ns	ns1036.ui-dns.com.
 swanseaclassicvehicle.show.	3600	in	ns	ns1047.ui-dns.biz.
 swanseaclassicvehicle.show.	3600	in	ns	ns1054.ui-dns.de.
 swanseaclassicvehicle.show.	3600	in	ns	ns1116.ui-dns.org.
-swarmdrone.show.	3600	in	ns	ns1.siteground.net.
-swarmdrone.show.	3600	in	ns	ns2.siteground.net.
+swarmdrone.show.	3600	in	ns	ns1.dyna-ns.net.
+swarmdrone.show.	3600	in	ns	ns2.dyna-ns.net.
 swdpj.show.	3600	in	ns	dns17.hichina.com.
 swdpj.show.	3600	in	ns	dns18.hichina.com.
 sweatequity.show.	3600	in	ns	ns-cloud-c1.googledomains.com.
@@ -37832,8 +37840,8 @@ tenminutesonbrand.show.	3600	in	ns	dns1.registrar-servers.com.
 tenminutesonbrand.show.	3600	in	ns	dns2.registrar-servers.com.
 tennis.show.	3600	in	ns	ns1.afternic.com.
 tennis.show.	3600	in	ns	ns2.afternic.com.
-tent.show.	3600	in	ns	ns1.bodis.com.
-tent.show.	3600	in	ns	ns2.bodis.com.
+tent.show.	3600	in	ns	ns1.dns-redirect.com.
+tent.show.	3600	in	ns	ns2.dns-redirect.com.
 teoola.show.	3600	in	ds	9746 8 2 0CF11173980660CDE7D7381A3B7814DD3D211AC852E246560114DD669224F2D0
 teoola.show.	3600	in	ns	dns15.ovh.net.
 teoola.show.	3600	in	ns	ns15.ovh.net.
@@ -39008,8 +39016,6 @@ theguest.show.	3600	in	ns	ns-cloud-b1.googledomains.com.
 theguest.show.	3600	in	ns	ns-cloud-b2.googledomains.com.
 theguest.show.	3600	in	ns	ns-cloud-b3.googledomains.com.
 theguest.show.	3600	in	ns	ns-cloud-b4.googledomains.com.
-theguide.show.	3600	in	ns	ns59.domaincontrol.com.
-theguide.show.	3600	in	ns	ns60.domaincontrol.com.
 thegun.show.	3600	in	ns	ns45.domaincontrol.com.
 thegun.show.	3600	in	ns	ns46.domaincontrol.com.
 thegunz.show.	3600	in	ns	dns1.registrar-servers.com.
@@ -39263,8 +39269,6 @@ thekmacattack.show.	3600	in	ns	karl.ns.cloudflare.com.
 theknow.show.	3600	in	ns	ns1.wordpress.com.
 theknow.show.	3600	in	ns	ns2.wordpress.com.
 theknow.show.	3600	in	ns	ns3.wordpress.com.
-thekryptonite.show.	3600	in	ns	dns101.registrar-servers.com.
-thekryptonite.show.	3600	in	ns	dns102.registrar-servers.com.
 thekt.show.	3600	in	ns	ns41.worldnic.com.
 thekt.show.	3600	in	ns	ns42.worldnic.com.
 thekwame.show.	3600	in	ns	ns1.hover.com.
@@ -39592,6 +39596,8 @@ thenewtrade.show.	3600	in	ns	ns1.hover.com.
 thenewtrade.show.	3600	in	ns	ns2.hover.com.
 thenextbreastthing.show.	3600	in	ns	ns71.domaincontrol.com.
 thenextbreastthing.show.	3600	in	ns	ns72.domaincontrol.com.
+thenextchapter.show.	3600	in	ns	ns1.dns-parking.com.
+thenextchapter.show.	3600	in	ns	ns2.dns-parking.com.
 thenextwave.show.	3600	in	ns	ns51.domaincontrol.com.
 thenextwave.show.	3600	in	ns	ns52.domaincontrol.com.
 thenftalk.show.	3600	in	ns	ns21.domaincontrol.com.
@@ -39728,8 +39734,8 @@ thepigwhisperer.show.	3600	in	ns	ns1fkl.name.com.
 thepigwhisperer.show.	3600	in	ns	ns2knz.name.com.
 thepigwhisperer.show.	3600	in	ns	ns3gmv.name.com.
 thepigwhisperer.show.	3600	in	ns	ns4cfn.name.com.
-thepiratebay.show.	3600	in	ns	ns1.bodis.com.
-thepiratebay.show.	3600	in	ns	ns2.bodis.com.
+thepiratebay.show.	3600	in	ns	ns1.dns-redirect.com.
+thepiratebay.show.	3600	in	ns	ns2.dns-redirect.com.
 thepitch.show.	3600	in	ns	alice.ns.cloudflare.com.
 thepitch.show.	3600	in	ns	guy.ns.cloudflare.com.
 thepitmaster.show.	3600	in	ns	coco.ns.cloudflare.com.
@@ -41931,6 +41937,8 @@ turkru.show.	3600	in	ns	150.ns1.abovedomains.com.
 turkru.show.	3600	in	ns	150.ns2.abovedomains.com.
 turkrutv.show.	3600	in	ns	ns1.fp261.parklogic.com.
 turkrutv.show.	3600	in	ns	ns2.fp261.parklogic.com.
+turningpointusa.show.	3600	in	ns	dns1.registrar-servers.com.
+turningpointusa.show.	3600	in	ns	dns2.registrar-servers.com.
 turtle.show.	3600	in	ns	dns1.registrar-servers.com.
 turtle.show.	3600	in	ns	dns2.registrar-servers.com.
 tutor.show.	3600	in	ns	ns1.myhostadmin.net.
@@ -42097,6 +42105,8 @@ u6nvtcv75la0g7n1tf57iptcb2kueia9.show.	3600	in	nsec3	1 1 0 73 U70I7SO2FPBUHRPHVJ
 u6nvtcv75la0g7n1tf57iptcb2kueia9.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. LoU4VG4cvg0ZtLRnIqvzVyhX7KU1Q4HpSvetbeyGTX5WsMuRywrHv6xmpm5cJ+PLnfoNi/kso+kvkht9cYL1jTj5yEU2mM3HtVmXjzZfr0RC/NnPX20AljK9zHWeEn0SB5R3cdl0QG5qdXZDlk5dv0JwY8Pfc7La/VdYrjQXWGY=
 u70i7so2fpbuhrphvjltgh0moasqmsst.show.	3600	in	nsec3	1 1 0 73 U9JL4EDDRQFRN6HG7MA337DKB4GVAKAV NS DS RRSIG
 u70i7so2fpbuhrphvjltgh0moasqmsst.show.	3600	in	rrsig	NSEC3 8 2 3600 20250930160127 20250909150127 31335 show. OPJf5aONIao/14h/bPMLYznrsNrGeYla4h4E+hQTRAxcLsggLPjCs91WJKR/Ysbpe2EY0RPerUuV93YlR2AsgVZgm3lkR9wTyDpLyMdYMreo156D/6DoUONJc2SleidxEbVHbrbD7rRcNrdsVI9OAvr72zmQVJFbXOLCtNWYUQw=
+u888.show.	3600	in	ns	dns1.registrar-servers.com.
+u888.show.	3600	in	ns	dns2.registrar-servers.com.
 u888com.show.	3600	in	ns	garret.ns.cloudflare.com.
 u888com.show.	3600	in	ns	liberty.ns.cloudflare.com.
 u9jl4eddrqfrn6hg7ma337dkb4gvakav.show.	3600	in	nsec3	1 1 0 73 UBCQRKOSRO2PC02V4PF99LGUFEQDCDC9 NS DS RRSIG
@@ -43837,6 +43847,8 @@ washingtoncounty.show.	3600	in	ns	ns-cloud-e1.googledomains.com.
 washingtoncounty.show.	3600	in	ns	ns-cloud-e2.googledomains.com.
 washingtoncounty.show.	3600	in	ns	ns-cloud-e3.googledomains.com.
 washingtoncounty.show.	3600	in	ns	ns-cloud-e4.googledomains.com.
+wasitworthit.show.	3600	in	ns	dns1.registrar-servers.com.
+wasitworthit.show.	3600	in	ns	dns2.registrar-servers.com.
 wasta.show.	3600	in	ns	dns1.registrar-servers.com.
 wasta.show.	3600	in	ns	dns2.registrar-servers.com.
 watch.show.	3600	in	ns	dean.ns.cloudflare.com.
@@ -44347,8 +44359,8 @@ what-the-duck.show.	3600	in	ns	lucy.ns.cloudflare.com.
 what-the-duck.show.	3600	in	ns	nitin.ns.cloudflare.com.
 what-the-quack.show.	3600	in	ns	lucy.ns.cloudflare.com.
 what-the-quack.show.	3600	in	ns	nitin.ns.cloudflare.com.
-what.show.	3600	in	ns	ns1.bodis.com.
-what.show.	3600	in	ns	ns2.bodis.com.
+what.show.	3600	in	ns	ns1.dns-redirect.com.
+what.show.	3600	in	ns	ns2.dns-redirect.com.
 whata.show.	3600	in	ns	ns1.siteground.net.
 whata.show.	3600	in	ns	ns2.siteground.net.
 whataconcept.show.	3600	in	ns	dns1.registrar-servers.com.
@@ -44740,6 +44752,8 @@ withology.show.	3600	in	ns	ns19.domaincontrol.com.
 withology.show.	3600	in	ns	ns20.domaincontrol.com.
 withoutfail.show.	3600	in	ns	a.portsdns.se.
 withoutfail.show.	3600	in	ns	b.portsdns.net.
+wiwi.show.	3600	in	ns	dns1.registrar-servers.com.
+wiwi.show.	3600	in	ns	dns2.registrar-servers.com.
 wix.show.	3600	in	ns	dns1.registrar-servers.com.
 wix.show.	3600	in	ns	dns2.registrar-servers.com.
 wiz.show.	3600	in	ns	ns1.ext.lighting.com.
@@ -44841,8 +44855,8 @@ wondersofmagic.show.	3600	in	ns	ns43.domaincontrol.com.
 wondersofmagic.show.	3600	in	ns	ns44.domaincontrol.com.
 wonderstruck.show.	3600	in	ns	ns1.yourdns.com.au.
 wonderstruck.show.	3600	in	ns	ns2.yourdns.com.au.
-wonderwall.show.	3600	in	ns	ns1.bodis.com.
-wonderwall.show.	3600	in	ns	ns2.bodis.com.
+wonderwall.show.	3600	in	ns	ns1.dns-redirect.com.
+wonderwall.show.	3600	in	ns	ns2.dns-redirect.com.
 wonkymonkeys.show.	3600	in	ns	ns17.domaincontrol.com.
 wonkymonkeys.show.	3600	in	ns	ns18.domaincontrol.com.
 wont.show.	3600	in	ns	ben.ns.cloudflare.com.
@@ -45331,8 +45345,6 @@ xilomo.show.	3600	in	ns	dns27.hichina.com.
 xilomo.show.	3600	in	ns	dns28.hichina.com.
 xin.show.	3600	in	ns	leo.dnspod.net.
 xin.show.	3600	in	ns	reindeer.dnspod.net.
-xin88.show.	3600	in	ns	ns1.ns306.parklogic.com.
-xin88.show.	3600	in	ns	ns2.ns306.parklogic.com.
 xinbipoker.show.	3600	in	ns	a2.share-dns.com.
 xinbipoker.show.	3600	in	ns	b2.share-dns.net.
 xing.show.	3600	in	ns	a.ezdnscenter.com.
@@ -46082,8 +46094,8 @@ ymyw.show.	3600	in	ns	ns33.domaincontrol.com.
 ymyw.show.	3600	in	ns	ns34.domaincontrol.com.
 yn.show.	3600	in	ns	dns13.hichina.com.
 yn.show.	3600	in	ns	dns14.hichina.com.
-yo.show.	3600	in	ns	ns1.renewyourname.net.
-yo.show.	3600	in	ns	ns2.renewyourname.net.
+yo.show.	3600	in	ns	ns1.vercel-dns.com.
+yo.show.	3600	in	ns	ns2.vercel-dns.com.
 yo88.show.	3600	in	ns	leonard.ns.cloudflare.com.
 yo88.show.	3600	in	ns	susan.ns.cloudflare.com.
 yodobashi.show.	3600	in	ns	01.dnsv.jp.
@@ -46575,8 +46587,8 @@ zhongguohuazhuangpin.show.	3600	in	ns	ns1.gxkjdns.com.
 zhongguohuazhuangpin.show.	3600	in	ns	ns2.gxkjdns.com.
 zhongguoyimei.show.	3600	in	ns	ns1.gxkjdns.com.
 zhongguoyimei.show.	3600	in	ns	ns2.gxkjdns.com.
-zhongqin.show.	3600	in	ns	dns15.hichina.com.
-zhongqin.show.	3600	in	ns	dns16.hichina.com.
+zhongqin.show.	3600	in	ns	expirens3.hichina.com.
+zhongqin.show.	3600	in	ns	expirens4.hichina.com.
 zhongqingroup.show.	3600	in	ns	dns27.hichina.com.
 zhongqingroup.show.	3600	in	ns	dns28.hichina.com.
 zhongqinhealth.show.	3600	in	ns	dns25.hichina.com.
@@ -46796,4 +46808,4 @@ zzz.show.	3600	in	ns	ns1-show.myhostadmin.net.
 zzz.show.	3600	in	ns	ns2-show.myhostadmin.net.
 zzzz.show.	3600	in	ns	grasshopper.dnspod.net.
 zzzz.show.	3600	in	ns	sow.dnspod.net.
-show.	3600	in	soa	v0n0.nic.show. hostmaster.donuts.email. 1757553316 7200 900 1209600 3600
+show.	3600	in	soa	v0n0.nic.show. hostmaster.donuts.email. 1757639523 7200 900 1209600 3600
