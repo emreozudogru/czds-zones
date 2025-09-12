@@ -1,4 +1,4 @@
-pharmacy.	172800	in	soa	dns1.nic.pharmacy. hostmaster.nominet.org.uk. 1757480479 900 300 2419200 3600
+pharmacy.	172800	in	soa	dns1.nic.pharmacy. hostmaster.nominet.org.uk. 1757621792 900 300 2419200 3600
 12stonehealth.pharmacy.	172800	in	ns	standard3.encirca.net.
 12stonehealth.pharmacy.	172800	in	ns	standard4.encirca.net.
 1800petmeds.pharmacy.	172800	in	ns	forward1.encirca.net.
@@ -445,6 +445,8 @@ coastalfamilyhealth.pharmacy.	172800	in	ns	standard3.encirca.net.
 coastalfamilyhealth.pharmacy.	172800	in	ns	standard4.encirca.net.
 coburns.pharmacy.	172800	in	ns	standard3.encirca.net.
 coburns.pharmacy.	172800	in	ns	standard4.encirca.net.
+cocobeautymedspa.pharmacy.	172800	in	ns	standard3.encirca.net.
+cocobeautymedspa.pharmacy.	172800	in	ns	standard4.encirca.net.
 collierdrug.pharmacy.	172800	in	ns	standard3.encirca.net.
 collierdrug.pharmacy.	172800	in	ns	standard4.encirca.net.
 colonvillagedrug.pharmacy.	172800	in	ns	standard3.encirca.net.
@@ -797,6 +799,8 @@ getroman.pharmacy.	172800	in	ns	amber.ns.cloudflare.com.
 getroman.pharmacy.	172800	in	ns	joel.ns.cloudflare.com.
 ggprx.pharmacy.	172800	in	ns	ns1.101domain.com.
 ggprx.pharmacy.	172800	in	ns	ns2.101domain.com.
+gianteagle.pharmacy.	172800	in	ns	standard3.encirca.net.
+gianteagle.pharmacy.	172800	in	ns	standard4.encirca.net.
 gianteaglepetrx.pharmacy.	172800	in	ns	standard3.encirca.net.
 gianteaglepetrx.pharmacy.	172800	in	ns	standard4.encirca.net.
 giantfood.pharmacy.	172800	in	ns	dns1.cscdns.net.
@@ -1653,7 +1657,7 @@ pharmacy.	172800	in	ns	dnsb.nic.pharmacy.
 pharmacy.	172800	in	ns	dnsc.nic.pharmacy.
 pharmacy.	172800	in	ns	dnsd.nic.pharmacy.
 pharmacy.	172800	in	rrsig	NS 8 1 172800 20251014035941 20250909033744 61639 pharmacy. Mjl8PlGLuPaYBvlpnl9r1Z/FGlJG3cDu43iCLxngfydd6Sp3TLppsx9gwPWLS+r0VXXvRgUaS6B6WO9V0YgXcNVQaCwalS/K/QEvOHBwoeZVNxX7NxNuvul6//Su9ze1ZU933K1LjQJkpsgFjRimeOpYWbaHwVKP+l7R/J5T4Dusvra6ZdWP60Wd5s+vSKfH9EsOxGlCNFyTcGnCdq1yoGL0oj0E0t2srgRuKXxRzahpbIzpwuXF26r9DKkhQvXsWJwlCqzpwzCgU+m27CXNwqR1E7M1XWZLvv9ExwHiHEjB2t+lJxoE8RP3bxCjncdI+d9BdwX3Syp2kjuhD4049g==
-pharmacy.	172800	in	rrsig	SOA 8 1 172800 20251016000545 20250910230545 61639 pharmacy. Rbisq0sgvEPiQr9jO/yF0Q4Osw2/aDgKCp9nFKsM29wJMubJM3JM9/TlEmx/6Gcc1VPbGHzNYbkBZ/QZiMUzYMV5oFhIiaptXIACeKwnVX1G2lOeyNI9VrIvXa3b5sI1a1gXOANiXAE2gmpPZ4ZgO7esprtGc8+/DDTneiZEfCnkHYGFMwvsRf/4VKCxqvo8Mvta1ZlJ8IIdrFpd7x0ahby4Wa01nE3m+R9hqJA+vQbyl7XBn8hV3ZzbGCpxjvNkoUdvZxpbu0KOlCApFtsLrbJg5UfF515EEaowI+xuA53i4Ztd/DBW3u4bysAYK8V3Gn1TiaW672YuzTfQQV/aIQ==
+pharmacy.	172800	in	rrsig	SOA 8 1 172800 20251016201632 20250911191632 61639 pharmacy. DJEmIJy4tOStREulAtz7rnS2Dav8Cys8u0Jh1HrOKUYSHezafvHXM8JFg9Zmbf3U86v/rVAV786XsBqWIKKmRtfSUofX96/nH4y4LFZzvJCs8hVM/NNyn0eeCH0TJEYZH7iCobOGP8KwMQ8oBeRdvgH4rBMmJlRnb0F7R8tTL1pbWSXU05EiIN78Qr/dSFJifg3CQDLEZhe/8gO6lAsCVehx4TFMCsSPmAfqxOqRDdd0RzMbYl/ThF+w/DFygWZKifefYgDmJEVr+X4tQmp7f0JVWlUxdUgvboTQcszRMqWuzvJingIhbaPPi2pp2V/QJSmCzjOoZKBXDTDS6pMaZw==
 pharmacy.	7200	in	dnskey	256 3 8 AwEAAc74ciNlq08cAUEdbF8ELM1WlmbTm52AlshR623Nri1pwh52gJN36LAmIO30ajMbqwUyxDV9V8mwJCW4PGomZYb8G4mTYrDK2tea9RZb6usJmWx+sSCf4UbTeMQtoe45TbNAZGQEPa6WtlbzLuDYiG77QjnX5+v+pr2jVw/xFXguHEP0ZxjkiFGtEPeqri9izqV6D+YLOlI/zZSgyYwDVtLWWm1Qn2yhDA0ydvg9ZnUHpX6DH4u1vq+BWD7OHuF2K6w8nZvEJDeXGI0+0V0n5spI5yuyKhJYDKGpC0Uo/eRZLEiEeD0XRkYTUxJa2ozpzk+jhfAVzFWwOub+zcutpeE=
 pharmacy.	7200	in	dnskey	257 3 8 AwEAAd5RdUiXnwQVpKOgfM3DyrM+j5O74RUtr/vuXTCGGp0+UPYK23PN/Ho7TISyGlMm+qHO/WOPmgQNSVXhHhP32qXkdg6K8P8ViO0lwXAvAONj/XWUwsmdypDCmdyJflte2iUzbMq17LSMw995iMz0v5s+88SOZNNWG1OY8jRolEyJQXCGin0k7C21ZagpJ31M/kPKrhlwKS/spWYka5E/LAd+l/aP2TN49Sp8Frfv1qhRt3ANpmKjw/nY7TCctXzGgR1vvnRFOAIam4iPQUPe1ohQ0FrWBV6+SjqjLn/YkWx0BWedQFt9utNLsFf3pE4ep1rpGg1uLc/JQjzfIWrh+48=
 pharmacy.	7200	in	rrsig	DNSKEY 8 1 7200 20251013071208 20250908063303 13921 pharmacy. UCT9WQmUdGF8UGSJflIE25JjaETd071kqypsvCXCiTiE45uj/QUWwSk1cjq6+aMKTmygOCiqn4S7beiLvKJjKQRHALv3Gz+Gps8ZzQrG7M/pY/E8zJSl3yjVOvMjcK5lfRZVA8e0Y6+2MsN37WwJxJqPJdLlq4YRV006nQOF/TB54Nqz5DkvAhMJ3s1wJc8yKBslHYHTnfD4jorOZkncasIO/RZtScxrBHXsD7F12bYWswwo6VLm+NlIh/PmuMQgv5XI+53h3R8FR0mK1qOntGedXW2nibzeh0pCeKmkfmJKLI41L4SU6sU48lyTJ2vi/Q+4XfsjWTNeHy/AVdZ/vg==
@@ -2317,6 +2321,8 @@ well.pharmacy.	172800	in	ns	dns1.cscdns.net.
 well.pharmacy.	172800	in	ns	dns2.cscdns.net.
 welldynerx.pharmacy.	172800	in	ns	standard3.encirca.net.
 welldynerx.pharmacy.	172800	in	ns	standard4.encirca.net.
+wellgisticsrx.pharmacy.	172800	in	ns	standard3.encirca.net.
+wellgisticsrx.pharmacy.	172800	in	ns	standard4.encirca.net.
 wellness1pharmacy.pharmacy.	172800	in	ns	standard3.encirca.net.
 wellness1pharmacy.pharmacy.	172800	in	ns	standard4.encirca.net.
 wellnessmart.pharmacy.	172800	in	ns	standard3.encirca.net.
@@ -2372,4 +2378,4 @@ zarina.pharmacy.	172800	in	ns	ns2.digitalocean.com.
 zarina.pharmacy.	172800	in	ns	ns3.digitalocean.com.
 zehrs.pharmacy.	172800	in	ns	dns1.cscdns.net.
 zehrs.pharmacy.	172800	in	ns	dns2.cscdns.net.
-pharmacy.	172800	in	soa	dns1.nic.pharmacy. hostmaster.nominet.org.uk. 1757480479 900 300 2419200 3600
+pharmacy.	172800	in	soa	dns1.nic.pharmacy. hostmaster.nominet.org.uk. 1757621792 900 300 2419200 3600
