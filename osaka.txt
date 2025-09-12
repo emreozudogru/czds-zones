@@ -1,4 +1,4 @@
-osaka.	900	in	soa	ns1.dns.nic.osaka. admin.tldns.godaddy. 1757494786 1800 300 604800 1800
+osaka.	900	in	soa	ns1.dns.nic.osaka. admin.tldns.godaddy. 1757599035 1800 300 604800 1800
 0040.osaka.	3600	in	ns	ns1.xe329.parklogic.com.
 0040.osaka.	3600	in	ns	ns2.xe329.parklogic.com.
 0866.osaka.	3600	in	ns	ns1.value-domain.com.
@@ -93,8 +93,8 @@ osaka.	900	in	soa	ns1.dns.nic.osaka. admin.tldns.godaddy. 1757494786 1800 300 60
 8xbet.osaka.	3600	in	ns	eric.ns.cloudflare.com.
 99ok.osaka.	3600	in	ns	meiling.ns.cloudflare.com.
 99ok.osaka.	3600	in	ns	osmar.ns.cloudflare.com.
-_forcedupdate.osaka.	300	in	rrsig	TXT 8 2 300 20250922072936 20250908071439 53634 osaka. XdhS1fc3rsi/mIQFfIJpotUYr0nZntWCW0TcFQlfD8HZcow8UFC0dcEoemdknvH3DcyP/80vhCxdUwXf9h8EjzxKiPhDCS6OUXYLGjgTgUc4EkLLiWrVTOZIZ6/DTUy8GUvfPJyHUMjrbiaNwFFxhfwdPjpelpBLNDvh9acY8peY0FWuEqHpTwyunM/LrS3aoseCZKjHeVwGu+GY+oDsMQ==
-_forcedupdate.osaka.	300	in	txt	"1757313497"
+_forcedupdate.osaka.	300	in	rrsig	TXT 8 2 300 20250921121731 20250911083827 53634 osaka. r69N1qHrFAEEaMz5ZQvWrJK2zQKbA11oGh4FKMTphG/BG3RcJx1dSJk2dgVOkv3zduLPlToREYbrQM2cXGMApHdyXPyGJSM7TrZA5DeXfN6QnqZm9GYTCKyso6Av9eAue/eDK5GDnAWqrlrrLqvYGFvSRvWjOC4UeqI4uqYxUmOGSHP4SZTuGKKiuqs9h62eH5PslmlWFD2rr5Awzch0VQ==
+_forcedupdate.osaka.	300	in	txt	"1757583507"
 a-c.osaka.	3600	in	ns	ns03.domainserver.ne.jp.
 a-c.osaka.	3600	in	ns	ns04.domainserver.ne.jp.
 a-menkyo.osaka.	7200	in	ns	gdns1.interlink.or.jp.
@@ -628,6 +628,11 @@ desse.osaka.	3600	in	ns	ns2.xserver.jp.
 desse.osaka.	3600	in	ns	ns3.xserver.jp.
 desse.osaka.	3600	in	ns	ns4.xserver.jp.
 desse.osaka.	3600	in	ns	ns5.xserver.jp.
+developanddeforward.osaka.	3600	in	ns	ns1.xserver.jp.
+developanddeforward.osaka.	3600	in	ns	ns2.xserver.jp.
+developanddeforward.osaka.	3600	in	ns	ns3.xserver.jp.
+developanddeforward.osaka.	3600	in	ns	ns4.xserver.jp.
+developanddeforward.osaka.	3600	in	ns	ns5.xserver.jp.
 dex.osaka.	3600	in	ns	ns1.wpx.ne.jp.
 dex.osaka.	3600	in	ns	ns2.wpx.ne.jp.
 dex.osaka.	3600	in	ns	ns3.wpx.ne.jp.
@@ -1946,8 +1951,8 @@ njk.osaka.	3600	in	ns	rns2.rightsdns.com.
 no9.osaka.	3600	in	ns	ns1.xdomain.ne.jp.
 no9.osaka.	3600	in	ns	ns2.xdomain.ne.jp.
 no9.osaka.	3600	in	ns	ns3.xdomain.ne.jp.
-nohu90.osaka.	3600	in	ns	dns1.registrar-servers.com.
-nohu90.osaka.	3600	in	ns	dns2.registrar-servers.com.
+nohu90.osaka.	3600	in	ns	leonard.ns.cloudflare.com.
+nohu90.osaka.	3600	in	ns	susan.ns.cloudflare.com.
 north-style.osaka.	3600	in	ns	ns1.xserver.jp.
 north-style.osaka.	3600	in	ns	ns2.xserver.jp.
 north-style.osaka.	3600	in	ns	ns3.xserver.jp.
@@ -2142,7 +2147,7 @@ osaka.	86400	in	ns	ns1.dns.nic.osaka.
 osaka.	86400	in	ns	ns2.dns.nic.osaka.
 osaka.	86400	in	ns	ns3.dns.nic.osaka.
 osaka.	86400	in	rrsig	NS 8 1 86400 20250922201936 20250908194509 53634 osaka. vX13hxO01BolJKX5T1KyVbb4sVZriPNGkyaEiGWPkA18iqne+eE9vcFee46xxoqjaxWnK8/WL5voRlQeTYQXYDHQGk8nMQ7o53tVS+j9fCCFikZ1aI5z0ED8yRyfd7/9vbyuNUjDM1GQ3U2WjAsozrvQjvZs7eOOVtWiifUo5DU5AjWVhNvaQcA+V5w19i7KdoS0gztMsCTnG+/k8NxcLg==
-osaka.	900	in	rrsig	SOA 8 1 900 20250924205849 20250910195849 53634 osaka. qVMkn6r3BY6/1aTYTijScpWIH825C7fRQhABDdLl1QbXVfwfrtH3GHlKNnsXbi72/+1LW1h7A/eEgqLUQ1ZakWjUZ2kEbvN1T13Tuw/+p8RAi8tp1tAXLM+qTg58xZHXB49v5A068rU0Y1Htj9Yw7IuZh7Onaco1SNwy9hnPSQ5u/5LvhwpOBZZ85k1j30gApLTQkE8ItQthaO3qT+1Ltw==
+osaka.	900	in	rrsig	SOA 8 1 900 20250925135716 20250911125716 53634 osaka. u0k+TaNzD951HaiLO4hb/Z22xOv03xDvE5Zvp/0HuhuznrNohhAhwljBg5kHsSNTegig0TycCRja7McIFzU0/YRmJAYWPV32H+OZF/MlsytGaZy5f4xiUUZv3yCMOpYwqS0XrQ7SQsAKudFZiUROLOXRH8SqI4CTaf7+PWneD1nNZP1b+vGyKAfnRJeCC0fmsOjXp2eGsW0KhY+psXTO0Q==
 osaka5.osaka.	3600	in	ns	ns2.wixdns.net.
 osaka5.osaka.	3600	in	ns	ns3.wixdns.net.
 osakabaytower.osaka.	3600	in	ns	ns1.dns.ne.jp.
@@ -3237,4 +3242,4 @@ zenstudio.osaka.	3600	in	ns	dns1.registrar-servers.com.
 zenstudio.osaka.	3600	in	ns	dns2.registrar-servers.com.
 zoukei.osaka.	7200	in	ns	ns01.hosting-srv.net.
 zoukei.osaka.	7200	in	ns	ns02.hosting-srv.net.
-osaka.	900	in	soa	ns1.dns.nic.osaka. admin.tldns.godaddy. 1757494786 1800 300 604800 1800
+osaka.	900	in	soa	ns1.dns.nic.osaka. admin.tldns.godaddy. 1757599035 1800 300 604800 1800
