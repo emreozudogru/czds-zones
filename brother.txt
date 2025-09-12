@@ -1,11 +1,11 @@
-brother.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757552327 1800 900 604800 3600
+brother.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757636793 1800 900 604800 3600
 331p4qbnufgp3c36ujsupgh6nc7ch830.brother.	3600	in	nsec3	1 0 0 - 40UVUNRAD65MM7EOMB7MGPRU9UL0J2EA NS
 331p4qbnufgp3c36ujsupgh6nc7ch830.brother.	3600	in	rrsig	NSEC3 8 2 3600 20250918080704 20250910205417 52591 brother. vYCoowkcQnMLGG8/CYqbQHrQYBVkQwLOUGXgj/GGDzj60kT02pKs2wbSqBen13fiVj5Ye3EeFOARUWStFiOVCAiPWndoRwawAAicB6IJuPBpB1GsVdIlm1SNDUzCwu7kxEyjB7sfbms0JEHNzMLcarWPbK5k7Ki+42LiwVoK3WE=
 40uvunrad65mm7eomb7mgpru9ul0j2ea.brother.	3600	in	nsec3	1 0 0 - BVQ63JOACEGPJRM8S9A7H9N4G8VF93Q7 NS
 40uvunrad65mm7eomb7mgpru9ul0j2ea.brother.	3600	in	rrsig	NSEC3 8 2 3600 20250917184115 20250910205417 52591 brother. Jux4mSvD8iItZm/S3rMN/bbKGBFcB2G3/7PguygPQaVF/SnReYax6weoU2pPCfai9sFG5iNnCH1BW350FBVz0aZaW6fdRiFnt2mGn8XUP2BaZ8fqXgC3x2vR3o/Ykg4Eo6ApNNFb6wYgiCxlvkQKdLpgslseblcmmYtDjMuucVw=
-__zone_status.brother.	0	in	rrsig	TXT 8 2 0 20250918112335 20250910235838 52591 brother. UbKUIrFJB5cQp5tgsCrTZl5P3d7zSn1PsrLlL3pcvHcRScOmA6ElLwNbnKUxR/AhFK4PIMgLcJN1nhzcEOkneRLIzMNrgfXVEh0Fd4JsPK5pblnM2pfvhAbZhfZIDTtsVdkP+d6oVNoPn4H2lkFRROeVKTKq6etsur5pv0JHy/A=
-__zone_status.brother.	0	in	txt	"original-serial=70491"
-__zone_status.brother.	0	in	txt	"original-timestamp=1757552289.40522"
+__zone_status.brother.	0	in	rrsig	TXT 8 2 0 20250918183323 20250911232619 52591 brother. aWJLuSjTUrBMIAcHBkfpE+/1kpC1I0HGDhtsgsF1x+VHDNtyVQdhIynd8iV/grqtDGL5yGy5pfiKLKyYb4CiNd08ecD6PbR9OkTo8Zobqz6tYGOiSMdj3mtqj4eA4CsWFgyHk2Z3M8WSJy7xbJVEr4tL1VjPXBoNryEWYVmGb70=
+__zone_status.brother.	0	in	txt	"original-serial=70513"
+__zone_status.brother.	0	in	txt	"original-timestamp=1757636771.21408"
 brother.	0	in	nsec3param	1 0 0 -
 brother.	0	in	rrsig	NSEC3PARAM 8 1 0 20250918071354 20250910210001 52591 brother. HHpeMvMJEJiaXpslUkxsVOZrtydsMZMZFSAfqWr4dU7Yb0bRVvsmihEeS+CNw+chKPZmvmAE9LQ3SveCJV/4JWpF6qQnlxkFLJUlLaPLQOCRO6+rQT4US2RzUm5YuU55Q1dnqyeoPahfuUiFdgORpdd8Ecygb3UmWciXLQorBX4=
 brother.	86400	in	dnskey	256 3 8 AwEAAd1bGTrBQ8HOBDS7RJ9DIlDoSAQ0huBIPp7vueoPvXFH1ahH9YRW2x2n090ytyHt/Eh1m7ceQhJh4Q2eFTXCyPFZaV4Z36KiCNiWDQp6TimuQspdoI60g3QHj5dep/iiYMJ/TDVoKZF2EDfwVDtSZLT9Zd+p5E9OAnaKrZYGArtD
@@ -16,7 +16,7 @@ brother.	86400	in	ns	k.gmoregistry.net.
 brother.	86400	in	ns	l.gmoregistry.net.
 brother.	86400	in	rrsig	DNSKEY 8 1 86400 20250918090354 20250910205417 6875 brother. VQtv8jmsNU0uulF1MCeanPjd7jPtJElP870vKx8PEb5ZJcSbpGd0N+JvbUowsB2Z+LnXMoKv9RRRGMEt8qjDcKSaGXWIQ69FhwChXi88Eyot4lX0JClxYrvAmIG2o8RmKGMcO756tsmlPGpjPVqV4dRwZ+YbS0u583ifOknNparBS6A+lmm1jol35TarHC358oXnK3GlKRpi/FrKkPDTbsnW/zJ9ZZf9B17dY7UAddnjPPXhDAkq+vvZ8N5cYnYdfHYWdDAWl4IukCE2Lwd1CA2neQh84ZyYHaMpstcFnZSTTEQdUcfdZCm7JXeq5F1R6qCVGLlW4TLoIJDFHlCSYA==
 brother.	86400	in	rrsig	NS 8 1 86400 20250917215947 20250910205417 52591 brother. nAQlZl/F4dsLWGHbQeIPW+FzluSU5PhekVJzYdwcneFhAhSFBilEbvweWw3yrp+ICvWkuuSq7A37l43L5UiNPaoLxSVxTLaqseBdjJk9Zz36FnjLA9rsK/eCvPyl4u6FkTbeY2RPpMwLuX93QLolj4RxLLFChEDUJsVhM1c8nnI=
-brother.	86400	in	rrsig	SOA 8 1 86400 20250918103934 20250910235838 52591 brother. dDmBDV9xg1LGdHq45Za0Xsd9cxK1CoqIlXtA2DsQc8fNjvhbfqMK8fVrdi86b4f6Q4TtaPLgbA1VsbU/p3uxkszSyXNYb3eXFlqWuZEa7qOSJdYMsxUb4WpBcK5YYPJoq5m4TYgIl4P7VIZcijK71KZmI2IsLju9RL0Hx5svb/w=
+brother.	86400	in	rrsig	SOA 8 1 86400 20250919083630 20250911232619 52591 brother. tNkydePSdWhW/FYv4wwdbi2Gh9EoY/VCN+yQnRm8uuCaVmrvS6bYBkeKiLiztQls2sOoKmjd/A6bvyFQkuZatM+tvpe1y5SKbxFLajeIcijHOuyK699domz534jcSCyTZc4Y98Vtcu4HSbLhRENFFjnj7jF+gAQYYIa40Zul4vI=
 bvq63joacegpjrm8s9a7h9n4g8vf93q7.brother.	3600	in	nsec3	1 0 0 - EDNCE1PLN49VHIBEKRUB6SV39T307526 NS
 bvq63joacegpjrm8s9a7h9n4g8vf93q7.brother.	3600	in	rrsig	NSEC3 8 2 3600 20250917113702 20250910205417 52591 brother. gRUX9arFUuw2imO9ulypI4/4cSaFeXjJS05jyVxB2BlXwDJrdWz+nTgE6B4xLRC/3hM+tMUwVLOwxI8YvHcY8T/xcr5IWziqOqyZn9vSWaTP2a09HhFhSpMbItgl/9ftTVVcrgMWDWISWdHhFmrK9RyAJgTMezG/dFAOZGyebII=
 creativecenter.brother.	86400	in	ns	ns1.cdnetdns.net.
@@ -65,4 +65,4 @@ system.brother.	86400	in	ns	a5-64.akam.net.
 system.brother.	86400	in	ns	a6-65.akam.net.
 tk3mvs2ah4fcnmrbpjqm6cof06vvk23a.brother.	3600	in	nsec3	1 0 0 - 331P4QBNUFGP3C36UJSUPGH6NC7CH830 NS
 tk3mvs2ah4fcnmrbpjqm6cof06vvk23a.brother.	3600	in	rrsig	NSEC3 8 2 3600 20250918085424 20250910205417 52591 brother. jb3kgBZhUcIi/nH8pTQ/nLO/oLE/hEDjauAfHvU3PM0A1Aq5fYBsHRTCfZyTZjY3HxEh3RmRZ9hyT2z1HMU7k3eKwFTp4MN+6nsB0w97YQOeFmDyctYk/YNPEm1F7f8aY7wOfvOosSOpHTimS0I0RbDw/EMSdtYmuY3q+lctqlw=
-brother.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757552327 1800 900 604800 3600
+brother.	86400	in	soa	a.gmoregistry.net. noc.gmoregistry.net. 1757636793 1800 900 604800 3600
