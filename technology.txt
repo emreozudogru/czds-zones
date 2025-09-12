@@ -1,4 +1,4 @@
-technology.	3600	in	soa	v0n0.nic.technology. hostmaster.donuts.email. 1757553223 7200 900 1209600 3600
+technology.	3600	in	soa	v0n0.nic.technology. hostmaster.donuts.email. 1757639436 7200 900 1209600 3600
 0-1.technology.	3600	in	ns	dns1.registrar-servers.com.
 0-1.technology.	3600	in	ns	dns2.registrar-servers.com.
 0.technology.	3600	in	ns	ns73.domaincontrol.com.
@@ -309,8 +309,6 @@ technology.	3600	in	soa	v0n0.nic.technology. hostmaster.donuts.email. 1757553223
 19ia34mv2koq7hvtb1a4gdhbfqgn1qp1.technology.	3600	in	rrsig	NSEC3 8 2 3600 20250930155810 20250909145810 48564 technology. PBzyeE985q1xZbTkJI3+21mIL5elmIQUJnOBI1iV+HgkS9PJkCQtV9LH7NyoOvTlt/AyQHtWuywNHEyY495mwaKvtXbi87l5OJuLt2f5Wu9WZQTbRCFjVwOL2Zm0osDgA69RSSrfcVXaedf+jPRoUdNS3TYosJryPX4hIVOt7ms=
 19r069mnm0ju5du04l0nj7ee84psvo28.technology.	3600	in	nsec3	1 1 0 73 1AKJKDNK6SAVDDQGLMJF8DC7S3U125MC NS DS RRSIG
 19r069mnm0ju5du04l0nj7ee84psvo28.technology.	3600	in	rrsig	NSEC3 8 2 3600 20250930155810 20250909145810 48564 technology. rSuwtsZSX62zNP9uKzH6uJxWkCkqRiWRU144aBZH7ovwB1bBLAIx3fMLrMNMnmv7FpyG9DNdhv1r4Sev5zRiXDjhE4zrXFyTk4QKMNJ9b6WBVpxuWhQDKkl1uV4BxkD7r1gH25rpJxrsaFfaHaZA01Q74XE6kD2p3u3cdr4LFmM=
-1a1.technology.	3600	in	ns	n1.xundns.com.
-1a1.technology.	3600	in	ns	n2.xundns.com.
 1acloud.technology.	3600	in	ns	ns01.uptime.de.
 1acloud.technology.	3600	in	ns	ns02.uptime.de.
 1acloud.technology.	3600	in	ns	ns03.uptime.de.
@@ -922,6 +920,7 @@ technology.	3600	in	soa	v0n0.nic.technology. hostmaster.donuts.email. 1757553223
 3cx.technology.	3600	in	ns	ns1.network118.cloud.
 3cx.technology.	3600	in	ns	ns2.network118.cloud.
 3cx.technology.	3600	in	ns	ns3.network118.cloud.
+3cx.technology.	3600	in	ns	ns4.network118.cloud.
 3d-mid.technology.	3600	in	ns	felicity.ns.cloudflare.com.
 3d-mid.technology.	3600	in	ns	keira.ns.cloudflare.com.
 3d-print.technology.	3600	in	ns	docks12.rzone.de.
@@ -1812,14 +1811,6 @@ technology.	3600	in	soa	v0n0.nic.technology. hostmaster.donuts.email. 1757553223
 7t9r1rmeh6k4srjg5j2fqf760n8ak3m1.technology.	3600	in	rrsig	NSEC3 8 2 3600 20250930155810 20250909145810 48564 technology. TkINsSE7lg9j7n6YfdHnwsY3Dyia+a7Q9yuMlDTaF79YWEd0PPLs+bPpPPeab/umJIxp3lN8nAmd4qTTgsSjP8ec8p9uqAo9HJw3u4VoGO4rqIAQGrObLlVFKIwDt5zvCCijp6jFpg4YLoXPDjRyfaDtmzkJBzmQco7arHcji8E=
 7tfag4208e4m0idlhn5m9cb6v5im23bk.technology.	3600	in	nsec3	1 1 0 73 7TN405T1K15Q2DB5TLVNI9IH96PVCA6H NS DS RRSIG
 7tfag4208e4m0idlhn5m9cb6v5im23bk.technology.	3600	in	rrsig	NSEC3 8 2 3600 20250930155810 20250909145810 48564 technology. lzJJAMhoB7F98yNOAGIsx+O3eITyA90i+J9r02ZHjWqqmCdqpX1s71m+jqwY7bBQMqKZwi/S6fvW6oICOMV5jCQNA6mfhQB01INL9Ya1aJBIJEAtHzfC1dbP7InT/pkUmxv2G3kI3ofjnO3q8daDhf2NaSpGRwOtkUeNgzan5Gs=
-7th.technology.	3600	in	ns	dns1.p01.nsone.net.
-7th.technology.	3600	in	ns	dns2.p01.nsone.net.
-7th.technology.	3600	in	ns	dns3.p01.nsone.net.
-7th.technology.	3600	in	ns	dns4.p01.nsone.net.
-7th.technology.	3600	in	ns	ns01.squarespacedns.com.
-7th.technology.	3600	in	ns	ns02.squarespacedns.com.
-7th.technology.	3600	in	ns	ns03.squarespacedns.com.
-7th.technology.	3600	in	ns	ns04.squarespacedns.com.
 7thsense.technology.	3600	in	ns	ns65.domaincontrol.com.
 7thsense.technology.	3600	in	ns	ns66.domaincontrol.com.
 7tn405t1k15q2db5tlvni9ih96pvca6h.technology.	3600	in	nsec3	1 1 0 73 7UOL5MR1M03JKKK7HHH903S5N7TNH20R NS DS RRSIG
@@ -3818,8 +3809,6 @@ agendapr.technology.	3600	in	ns	ns0.lcn.com.
 agendapr.technology.	3600	in	ns	ns1.lcn.com.
 agenio.technology.	3600	in	ns	ns25.domaincontrol.com.
 agenio.technology.	3600	in	ns	ns26.domaincontrol.com.
-agenmantan4d.technology.	3600	in	ns	dns101.registrar-servers.com.
-agenmantan4d.technology.	3600	in	ns	dns102.registrar-servers.com.
 agent.technology.	3600	in	ns	curitiba.ns.porkbun.com.
 agent.technology.	3600	in	ns	fortaleza.ns.porkbun.com.
 agent.technology.	3600	in	ns	maceio.ns.porkbun.com.
@@ -4197,8 +4186,8 @@ ai71.technology.	3600	in	ns	dns1.registrar-servers.com.
 ai71.technology.	3600	in	ns	dns2.registrar-servers.com.
 aia.technology.	3600	in	ns	ns1.dns-parking.com.
 aia.technology.	3600	in	ns	ns2.dns-parking.com.
-aiaas.technology.	3600	in	ns	dns101.registrar-servers.com.
-aiaas.technology.	3600	in	ns	dns102.registrar-servers.com.
+aiactpro.technology.	3600	in	ns	ns37.domaincontrol.com.
+aiactpro.technology.	3600	in	ns	ns38.domaincontrol.com.
 aiad.technology.	3600	in	ns	ns13.domaincontrol.com.
 aiad.technology.	3600	in	ns	ns14.domaincontrol.com.
 aiagent.technology.	3600	in	ns	dns1.registrar-servers.com.
@@ -4221,8 +4210,8 @@ aiart.technology.	3600	in	ns	ns51.domaincontrol.com.
 aiart.technology.	3600	in	ns	ns52.domaincontrol.com.
 aiassist.technology.	3600	in	ns	ns1.afternic.com.
 aiassist.technology.	3600	in	ns	ns2.afternic.com.
-aiassistant.technology.	3600	in	ns	ns1.bodis.com.
-aiassistant.technology.	3600	in	ns	ns2.bodis.com.
+aiassistant.technology.	3600	in	ns	ns1.dns-redirect.com.
+aiassistant.technology.	3600	in	ns	ns2.dns-redirect.com.
 aiautomations.technology.	3600	in	ns	dns1.registrar-servers.com.
 aiautomations.technology.	3600	in	ns	dns2.registrar-servers.com.
 aibi.technology.	3600	in	ns	ns31.domaincontrol.com.
@@ -4602,8 +4591,6 @@ aircontour.technology.	3600	in	ns	ns31.domaincontrol.com.
 aircontour.technology.	3600	in	ns	ns32.domaincontrol.com.
 aircraft.technology.	3600	in	ns	docks01.rzone.de.
 aircraft.technology.	3600	in	ns	shades20.rzone.de.
-aircraftparts.technology.	3600	in	ns	ns05.domaincontrol.com.
-aircraftparts.technology.	3600	in	ns	ns06.domaincontrol.com.
 aircraftpower.technology.	3600	in	ns	ns39.worldnic.com.
 aircraftpower.technology.	3600	in	ns	ns40.worldnic.com.
 aircrete.technology.	3600	in	ns	ns1.sohosted27.com.
@@ -5490,6 +5477,8 @@ allweb.technology.	3600	in	ns	ns89.worldnic.com.
 allweb.technology.	3600	in	ns	ns90.worldnic.com.
 allwright.technology.	3600	in	ns	ns15.domaincontrol.com.
 allwright.technology.	3600	in	ns	ns16.domaincontrol.com.
+ally.technology.	3600	in	ns	ns1.expired.brandsight-dns.com.
+ally.technology.	3600	in	ns	ns2.expired.brandsight-dns.com.
 alm.technology.	3600	in	ns	ns37.domaincontrol.com.
 alm.technology.	3600	in	ns	ns38.domaincontrol.com.
 alma.technology.	3600	in	ns	ns1.dns-redirect.com.
@@ -5811,8 +5800,8 @@ amala.technology.	3600	in	ns	ns63.domaincontrol.com.
 amala.technology.	3600	in	ns	ns64.domaincontrol.com.
 amali.technology.	3600	in	ns	dns1.registrar-servers.com.
 amali.technology.	3600	in	ns	dns2.registrar-servers.com.
-aman.technology.	3600	in	ns	ns1.bodis.com.
-aman.technology.	3600	in	ns	ns2.bodis.com.
+aman.technology.	3600	in	ns	ns1.dns-redirect.com.
+aman.technology.	3600	in	ns	ns2.dns-redirect.com.
 amana-hacdealer.technology.	3600	in	ns	ns39.domaincontrol.com.
 amana-hacdealer.technology.	3600	in	ns	ns40.domaincontrol.com.
 amanaadvantageacademy.technology.	3600	in	ns	ns21.domaincontrol.com.
@@ -6522,8 +6511,8 @@ annuity.technology.	3600	in	ns	ns21.domaincontrol.com.
 annuity.technology.	3600	in	ns	ns22.domaincontrol.com.
 anomaly.technology.	3600	in	ns	ns37.domaincontrol.com.
 anomaly.technology.	3600	in	ns	ns38.domaincontrol.com.
-anon.technology.	3600	in	ns	ns1.bodis.com.
-anon.technology.	3600	in	ns	ns2.bodis.com.
+anon.technology.	3600	in	ns	ns1.dns-redirect.com.
+anon.technology.	3600	in	ns	ns2.dns-redirect.com.
 anonymous.technology.	3600	in	ds	2371 13 2 C0FF9E9D74A6572C507F4026176424531732D7167D476343206A0E670156F02E
 anonymous.technology.	3600	in	ns	dina.ns.cloudflare.com.
 anonymous.technology.	3600	in	ns	walt.ns.cloudflare.com.
@@ -7969,8 +7958,6 @@ asc.technology.	3600	in	ns	ns84.worldnic.com.
 ascend-computing.technology.	3600	in	ns	ns1.wordpress.com.
 ascend-computing.technology.	3600	in	ns	ns2.wordpress.com.
 ascend-computing.technology.	3600	in	ns	ns3.wordpress.com.
-ascend.technology.	3600	in	ns	ns1-expired.sav.com.
-ascend.technology.	3600	in	ns	ns2-expired.sav.com.
 ascenda.technology.	3600	in	ns	ns43.domaincontrol.com.
 ascenda.technology.	3600	in	ns	ns44.domaincontrol.com.
 ascendant.technology.	3600	in	ns	ns63.domaincontrol.com.
@@ -9477,8 +9464,8 @@ ayva.technology.	3600	in	ns	ns-cloud-e4.googledomains.com.
 ayva.technology.	3600	in	rrsig	DS 8 2 3600 20250930155810 20250909145810 48564 technology. kWTWGYxdm9bFScmx1fQfXWruJKmOiUk3WZ1HajCwmCA3e7MFEIe1Gf34DFeYSr96FEQsWiA8p5u9uD8Ayv7ocSV50JmyRRhJkpOpn+XNWI+Ir+yC9DxjCj5+3drJDqt/GeQh6zY+6C6Afl22J8uQLSXi3y9UiZuLvjW6Vn7GKxw=
 azalea.technology.	3600	in	ns	pdns11.domaincontrol.com.
 azalea.technology.	3600	in	ns	pdns12.domaincontrol.com.
-azar.technology.	3600	in	ns	ns1.bodis.com.
-azar.technology.	3600	in	ns	ns2.bodis.com.
+azar.technology.	3600	in	ns	ns1.dns-redirect.com.
+azar.technology.	3600	in	ns	ns2.dns-redirect.com.
 azentio.technology.	3600	in	ns	ns-1456.awsdns-54.org.
 azentio.technology.	3600	in	ns	ns-1583.awsdns-05.co.uk.
 azentio.technology.	3600	in	ns	ns-483.awsdns-60.com.
@@ -10319,8 +10306,8 @@ baum.technology.	3600	in	ns	curitiba.ns.porkbun.com.
 baum.technology.	3600	in	ns	fortaleza.ns.porkbun.com.
 baum.technology.	3600	in	ns	maceio.ns.porkbun.com.
 baum.technology.	3600	in	ns	salvador.ns.porkbun.com.
-bauma.technology.	3600	in	ns	ns1.bodis.com.
-bauma.technology.	3600	in	ns	ns2.bodis.com.
+bauma.technology.	3600	in	ns	ns1.dns-redirect.com.
+bauma.technology.	3600	in	ns	ns2.dns-redirect.com.
 baumar.technology.	3600	in	ns	ns1.promdns.net.
 baumar.technology.	3600	in	ns	ns2.promdns.net.
 baumar.technology.	3600	in	ns	ns3.promdns.net.
@@ -10344,8 +10331,8 @@ baykar.technology.	3600	in	ns	ns51.domaincontrol.com.
 baykar.technology.	3600	in	ns	ns52.domaincontrol.com.
 baylin.technology.	3600	in	ns	ns61.worldnic.com.
 baylin.technology.	3600	in	ns	ns62.worldnic.com.
-bayou.technology.	3600	in	ns	ns1.bodis.com.
-bayou.technology.	3600	in	ns	ns2.bodis.com.
+bayou.technology.	3600	in	ns	ns1.dns-redirect.com.
+bayou.technology.	3600	in	ns	ns2.dns-redirect.com.
 bayraktar.technology.	3600	in	ns	ns77.domaincontrol.com.
 bayraktar.technology.	3600	in	ns	ns78.domaincontrol.com.
 bayreuther.technology.	3600	in	ns	docks20.rzone.de.
@@ -11849,10 +11836,6 @@ bitcomm.technology.	3600	in	ns	ns1mpz.name.com.
 bitcomm.technology.	3600	in	ns	ns2btz.name.com.
 bitcomm.technology.	3600	in	ns	ns3jwx.name.com.
 bitcomm.technology.	3600	in	ns	ns4fqz.name.com.
-bitdance.technology.	3600	in	ns	ns1hnx.name.com.
-bitdance.technology.	3600	in	ns	ns2fln.name.com.
-bitdance.technology.	3600	in	ns	ns3fgq.name.com.
-bitdance.technology.	3600	in	ns	ns4bty.name.com.
 bite.technology.	3600	in	ns	dns1.p03.nsone.net.
 bite.technology.	3600	in	ns	dns2.p03.nsone.net.
 bite.technology.	3600	in	ns	dns3.p03.nsone.net.
@@ -12115,8 +12098,8 @@ blackfort.technology.	3600	in	ns	ns27.domaincontrol.com.
 blackfort.technology.	3600	in	ns	ns28.domaincontrol.com.
 blackfox.technology.	3600	in	ns	ns29.domaincontrol.com.
 blackfox.technology.	3600	in	ns	ns30.domaincontrol.com.
-blackfriday.technology.	3600	in	ns	ns1.bodis.com.
-blackfriday.technology.	3600	in	ns	ns2.bodis.com.
+blackfriday.technology.	3600	in	ns	ns1.dns-redirect.com.
+blackfriday.technology.	3600	in	ns	ns2.dns-redirect.com.
 blackgirlmagic.technology.	3600	in	ns	pdns09.domaincontrol.com.
 blackgirlmagic.technology.	3600	in	ns	pdns10.domaincontrol.com.
 blackhat.technology.	3600	in	ns	ns3.afternic.com.
@@ -12446,8 +12429,6 @@ blockchaintech.technology.	3600	in	ns	ns2.dnsowl.com.
 blockchaintech.technology.	3600	in	ns	ns3.dnsowl.com.
 blockchine.technology.	3600	in	ns	ns1.dyna-ns.net.
 blockchine.technology.	3600	in	ns	ns2.dyna-ns.net.
-blockcommerce.technology.	3600	in	ns	ns59.domaincontrol.com.
-blockcommerce.technology.	3600	in	ns	ns60.domaincontrol.com.
 blockcraft.technology.	3600	in	ns	ivan.ns.cloudflare.com.
 blockcraft.technology.	3600	in	ns	ivy.ns.cloudflare.com.
 blockfi.technology.	3600	in	ns	ns-1427.awsdns-50.org.
@@ -12478,8 +12459,8 @@ blockspace.technology.	3600	in	ns	ns1.dns-redirect.com.
 blockspace.technology.	3600	in	ns	ns2.dns-redirect.com.
 blockstation.technology.	3600	in	ns	cortney.ns.cloudflare.com.
 blockstation.technology.	3600	in	ns	dean.ns.cloudflare.com.
-blockstream.technology.	3600	in	ns	pdns1.registrar-servers.com.
-blockstream.technology.	3600	in	ns	pdns2.registrar-servers.com.
+blockstream.technology.	3600	in	ns	dns101.registrar-servers.com.
+blockstream.technology.	3600	in	ns	dns102.registrar-servers.com.
 blockwired.technology.	3600	in	ns	ns49.domaincontrol.com.
 blockwired.technology.	3600	in	ns	ns50.domaincontrol.com.
 blockzylinder.technology.	3600	in	ns	ns-de.1and1-dns.biz.
@@ -15108,6 +15089,10 @@ camino.technology.	3600	in	ns	dns.dns1.de.
 camino.technology.	3600	in	ns	dns.dns2.de.
 camino.technology.	3600	in	ns	dns.dns3.de.
 camino.technology.	3600	in	ns	dns.dns4.de.
+cammie.technology.	3600	in	ns	curitiba.ns.porkbun.com.
+cammie.technology.	3600	in	ns	fortaleza.ns.porkbun.com.
+cammie.technology.	3600	in	ns	maceio.ns.porkbun.com.
+cammie.technology.	3600	in	ns	salvador.ns.porkbun.com.
 camp.technology.	3600	in	ns	ns1.dns-redirect.com.
 camp.technology.	3600	in	ns	ns2.dns-redirect.com.
 campa.technology.	3600	in	ns	ns122.hostgator.mx.
@@ -15176,12 +15161,10 @@ candc.technology.	3600	in	ns	ns2.wordpress.com.
 candc.technology.	3600	in	ns	ns3.wordpress.com.
 candealsharesecure.technology.	3600	in	ns	ns17.domaincontrol.com.
 candealsharesecure.technology.	3600	in	ns	ns18.domaincontrol.com.
-candescent.technology.	3600	in	ns	ns1.ncrsaasdns.com.
-candescent.technology.	3600	in	ns	ns2.ncrsaasdns.com.
-candescent.technology.	3600	in	ns	ns3.ncrsaasdns.com.
-candescent.technology.	3600	in	ns	ns4.ncrsaasdns.com.
-candescent.technology.	3600	in	ns	ns5.ncrsaasdns.com.
-candescent.technology.	3600	in	ns	ns6.ncrsaasdns.com.
+candescent.technology.	3600	in	ns	edns123.ultradns.biz.
+candescent.technology.	3600	in	ns	edns123.ultradns.com.
+candescent.technology.	3600	in	ns	edns123.ultradns.net.
+candescent.technology.	3600	in	ns	edns123.ultradns.org.
 candid.technology.	3600	in	ns	james.ns.cloudflare.com.
 candid.technology.	3600	in	ns	jessica.ns.cloudflare.com.
 candidate.technology.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -18480,8 +18463,8 @@ coax.technology.	3600	in	ns	dns2.name-services.com.
 coax.technology.	3600	in	ns	dns3.name-services.com.
 coax.technology.	3600	in	ns	dns4.name-services.com.
 coax.technology.	3600	in	ns	dns5.name-services.com.
-cobalt.technology.	3600	in	ns	ns1.afternic.com.
-cobalt.technology.	3600	in	ns	ns2.afternic.com.
+cobalt.technology.	3600	in	ns	ns1.atom.com.
+cobalt.technology.	3600	in	ns	ns2.atom.com.
 cobb.technology.	3600	in	ns	ns03.domaincontrol.com.
 cobb.technology.	3600	in	ns	ns04.domaincontrol.com.
 cobol.technology.	3600	in	ns	dns14.ovh.net.
@@ -18802,8 +18785,8 @@ cohen.technology.	3600	in	ns	ns1.vercel-dns.com.
 cohen.technology.	3600	in	ns	ns2.vercel-dns.com.
 cohere.technology.	3600	in	ns	ns35.domaincontrol.com.
 cohere.technology.	3600	in	ns	ns36.domaincontrol.com.
-coherence.technology.	3600	in	ns	ns1.bodis.com.
-coherence.technology.	3600	in	ns	ns2.bodis.com.
+coherence.technology.	3600	in	ns	ns1.dns-redirect.com.
+coherence.technology.	3600	in	ns	ns2.dns-redirect.com.
 coherent.technology.	3600	in	ns	ivy.ns.cloudflare.com.
 coherent.technology.	3600	in	ns	plato.ns.cloudflare.com.
 cohesity.technology.	3600	in	ns	pdns13.domaincontrol.com.
@@ -21016,6 +20999,10 @@ cs.technology.	3600	in	ns	ns25.domaincontrol.com.
 cs.technology.	3600	in	ns	ns26.domaincontrol.com.
 csai.technology.	3600	in	ns	ns11.domaincontrol.com.
 csai.technology.	3600	in	ns	ns12.domaincontrol.com.
+csb.technology.	3600	in	ns	curitiba.ns.porkbun.com.
+csb.technology.	3600	in	ns	fortaleza.ns.porkbun.com.
+csb.technology.	3600	in	ns	maceio.ns.porkbun.com.
+csb.technology.	3600	in	ns	salvador.ns.porkbun.com.
 csbc.technology.	3600	in	ns	ns75.domaincontrol.com.
 csbc.technology.	3600	in	ns	ns76.domaincontrol.com.
 csbianoalfdrq1bt6s59v83ssetsrkl2.technology.	3600	in	nsec3	1 1 0 73 CSL45KI4VK1G9B13135MA9TV4E8GLTEE NS DS RRSIG
@@ -23374,6 +23361,10 @@ defnder.technology.	3600	in	ns	ns-39.awsdns-04.com.
 defnder.technology.	3600	in	ns	ns-763.awsdns-31.net.
 deft.technology.	3600	in	ns	uma.ns.cloudflare.com.
 deft.technology.	3600	in	ns	yahir.ns.cloudflare.com.
+defund.technology.	3600	in	ns	ns-cloud-a1.googledomains.com.
+defund.technology.	3600	in	ns	ns-cloud-a2.googledomains.com.
+defund.technology.	3600	in	ns	ns-cloud-a3.googledomains.com.
+defund.technology.	3600	in	ns	ns-cloud-a4.googledomains.com.
 defy.technology.	3600	in	ns	ns1.giowm1050.siteground.biz.
 defy.technology.	3600	in	ns	ns2.giowm1050.siteground.biz.
 degen.technology.	3600	in	ns	dns1.registrar-servers.com.
@@ -23572,8 +23563,6 @@ denali.technology.	3600	in	ns	ns3.afternic.com.
 denali.technology.	3600	in	ns	ns4.afternic.com.
 dencar.technology.	3600	in	ns	ns65.domaincontrol.com.
 dencar.technology.	3600	in	ns	ns66.domaincontrol.com.
-denden.technology.	3600	in	ns	dns101.registrar-servers.com.
-denden.technology.	3600	in	ns	dns102.registrar-servers.com.
 dendro.technology.	3600	in	ns	ns1.sedoparking.com.
 dendro.technology.	3600	in	ns	ns2.sedoparking.com.
 denizbank.technology.	3600	in	ns	ns1.denizbank.com.
@@ -24170,8 +24159,8 @@ diadorautility.technology.	3600	in	ns	ns02.trademarkarea.com.
 diadorautility.technology.	3600	in	ns	ns03.trademarkarea.com.
 diagnose.technology.	3600	in	ns	pdns13.domaincontrol.com.
 diagnose.technology.	3600	in	ns	pdns14.domaincontrol.com.
-diagnostics.technology.	3600	in	ns	ns1.bodis.com.
-diagnostics.technology.	3600	in	ns	ns2.bodis.com.
+diagnostics.technology.	3600	in	ns	ns1.dns-redirect.com.
+diagnostics.technology.	3600	in	ns	ns2.dns-redirect.com.
 dial.technology.	3600	in	ns	dns1.registrar-servers.com.
 dial.technology.	3600	in	ns	dns2.registrar-servers.com.
 dialer.technology.	3600	in	ns	ns07.domaincontrol.com.
@@ -25282,8 +25271,6 @@ dofo.technology.	3600	in	ns	ns44.domaincontrol.com.
 dog.technology.	3600	in	ns	ns1.dreamhost.com.
 dog.technology.	3600	in	ns	ns2.dreamhost.com.
 dog.technology.	3600	in	ns	ns3.dreamhost.com.
-dogbot.technology.	3600	in	ns	ns1.renewyourname.net.
-dogbot.technology.	3600	in	ns	ns2.renewyourname.net.
 doge.technology.	3600	in	ns	ns1.atom.com.
 doge.technology.	3600	in	ns	ns2.atom.com.
 dogecoin.technology.	3600	in	ns	ns49.domaincontrol.com.
@@ -26084,8 +26071,8 @@ dsg.technology.	3600	in	ns	ns-1209.awsdns-23.org.
 dsg.technology.	3600	in	ns	ns-1941.awsdns-50.co.uk.
 dsg.technology.	3600	in	ns	ns-502.awsdns-62.com.
 dsg.technology.	3600	in	ns	ns-783.awsdns-33.net.
-dshop.technology.	3600	in	ns	ns1.bodis.com.
-dshop.technology.	3600	in	ns	ns2.bodis.com.
+dshop.technology.	3600	in	ns	ns1.dns-redirect.com.
+dshop.technology.	3600	in	ns	ns2.dns-redirect.com.
 dsi.technology.	3600	in	ns	ns1.atom.com.
 dsi.technology.	3600	in	ns	ns2.atom.com.
 dsl.technology.	3600	in	ns	ns-ca.ui-dns.biz.
@@ -27164,8 +27151,8 @@ eclinicalworks.technology.	3600	in	ns	ns3-32.azure-dns.org.
 eclinicalworks.technology.	3600	in	ns	ns4-32.azure-dns.info.
 eclipse.technology.	3600	in	ns	ns27.domaincontrol.com.
 eclipse.technology.	3600	in	ns	ns28.domaincontrol.com.
-ecloud.technology.	3600	in	ns	ns1.bodis.com.
-ecloud.technology.	3600	in	ns	ns2.bodis.com.
+ecloud.technology.	3600	in	ns	ns1.dns-redirect.com.
+ecloud.technology.	3600	in	ns	ns2.dns-redirect.com.
 ecm.technology.	3600	in	ns	linus.ns.1-grid.co.uk.
 ecm.technology.	3600	in	ns	linus.ns.1-grid.co.za.
 ecm.technology.	3600	in	ns	linus.ns.1-grid.com.
@@ -27685,8 +27672,8 @@ einsle.technology.	3600	in	rrsig	DS 8 2 3600 20250930155810 20250909145810 48564
 eiq.technology.	3600	in	ns	ns1.wordpress.com.
 eiq.technology.	3600	in	ns	ns2.wordpress.com.
 eiq.technology.	3600	in	ns	ns3.wordpress.com.
-eir.technology.	3600	in	ns	ns1.bodis.com.
-eir.technology.	3600	in	ns	ns2.bodis.com.
+eir.technology.	3600	in	ns	ns1.dns-redirect.com.
+eir.technology.	3600	in	ns	ns2.dns-redirect.com.
 eisele.technology.	3600	in	ns	ns75.domaincontrol.com.
 eisele.technology.	3600	in	ns	ns76.domaincontrol.com.
 eisenberg.technology.	3600	in	ns	ns01.trademarkarea.com.
@@ -30462,8 +30449,8 @@ eyc.technology.	3600	in	ns	ns3.p04.dynect.net.
 eyc.technology.	3600	in	ns	ns4.p04.dynect.net.
 eye.technology.	3600	in	ns	ns1.afternic.com.
 eye.technology.	3600	in	ns	ns2.afternic.com.
-eyeball.technology.	3600	in	ns	ns1.bodis.com.
-eyeball.technology.	3600	in	ns	ns2.bodis.com.
+eyeball.technology.	3600	in	ns	ns1.dns-redirect.com.
+eyeball.technology.	3600	in	ns	ns2.dns-redirect.com.
 eyecare.technology.	3600	in	ns	ns41.domaincontrol.com.
 eyecare.technology.	3600	in	ns	ns42.domaincontrol.com.
 eyedaptic.technology.	3600	in	ns	ns43.domaincontrol.com.
@@ -30617,8 +30604,8 @@ f79cn0grl1u31s5o4jr7l2sg4aur2v8p.technology.	3600	in	nsec3	1 1 0 73 F8B60FAIIGI5
 f79cn0grl1u31s5o4jr7l2sg4aur2v8p.technology.	3600	in	rrsig	NSEC3 8 2 3600 20250930155810 20250909145810 48564 technology. QIRF2B00/4Nswj1GLVslkfoPH+GJ/6zWb5vrl2AcC0U3AMxmQyDnP/XFqnMWdz5R67c1nNXI8Km00cllBKCnvq+siymCGSEUs+3mmvDnhHUHGmzrb9aO2687CIJPTWhJVMZaUsdKYC9zcldrvnY3ZMqjsL+zNTHl6qiTf+2dRmI=
 f8b60faiigi53idi43sd4c13ogdfp03p.technology.	3600	in	nsec3	1 1 0 73 F8BK7SS3RMVRTPT7F03GBAS5PD9UCL1M NS DS RRSIG
 f8b60faiigi53idi43sd4c13ogdfp03p.technology.	3600	in	rrsig	NSEC3 8 2 3600 20250930155810 20250909145810 48564 technology. GYtq1sYZK0ZyKYRR5O60bXEHhCWMC7b2jx7hQ2U29/xlCILLHy0EtSPSU5pxgZlWlyxyegVhaaQW3UGEPuKUigSTC8CokaBzTRo2TlZCyn2HoeY+gQ2Rz9H2xXYDByOtIgb1jZfETretzpmx5yyKBqzlv/hVYTEnh8RMdlmKAGg=
-f8bet.technology.	3600	in	ns	karsyn.ns.cloudflare.com.
-f8bet.technology.	3600	in	ns	kianchau.ns.cloudflare.com.
+f8bet.technology.	3600	in	ns	dns101.registrar-servers.com.
+f8bet.technology.	3600	in	ns	dns102.registrar-servers.com.
 f8bk7ss3rmvrtpt7f03gbas5pd9ucl1m.technology.	3600	in	nsec3	1 1 0 73 F8RQROL3S7FMH4IJF69IBOCA55CJL9LJ NS DS RRSIG
 f8bk7ss3rmvrtpt7f03gbas5pd9ucl1m.technology.	3600	in	rrsig	NSEC3 8 2 3600 20250930155810 20250909145810 48564 technology. rC30BWzbQ+fb5DTwxUs4mZI4/dbfdtcDD5H598Mbmk0tuWIABP3Bqy3N4F78xhdSR1xDmFLikoraFrGYH0Tev5qdgbcwS4/1WDQpDjaVxsNFAg94X5NzVOzVVf0tcq9IVP5NEma0o6Nsfalflc5jlmQyyeo6yjCyG7IgsAB+o1E=
 f8d.technology.	3600	in	ns	ns05.domaincontrol.com.
@@ -31450,8 +31437,10 @@ figjam.technology.	3600	in	ns	dns1.comlaude-dns.com.
 figjam.technology.	3600	in	ns	dns2.comlaude-dns.net.
 figjam.technology.	3600	in	ns	dns3.comlaude-dns.co.uk.
 figjam.technology.	3600	in	ns	dns4.comlaude-dns.eu.
-fii.technology.	3600	in	ns	ns1.bodis.com.
-fii.technology.	3600	in	ns	ns2.bodis.com.
+figure.technology.	3600	in	ns	ns1.afternic.com.
+figure.technology.	3600	in	ns	ns2.afternic.com.
+fii.technology.	3600	in	ns	ns1.dns-redirect.com.
+fii.technology.	3600	in	ns	ns2.dns-redirect.com.
 fiit.technology.	3600	in	ns	ns-1506.awsdns-60.org.
 fiit.technology.	3600	in	ns	ns-1731.awsdns-24.co.uk.
 fiit.technology.	3600	in	ns	ns-404.awsdns-50.com.
@@ -32922,8 +32911,8 @@ frame.technology.	3600	in	ns	ns-it.1and1-dns.biz.
 frame.technology.	3600	in	ns	ns-it.1and1-dns.com.
 frame.technology.	3600	in	ns	ns-it.1and1-dns.it.
 frame.technology.	3600	in	ns	ns-it.1and1-dns.org.
-framed.technology.	3600	in	ns	ns1.bodis.com.
-framed.technology.	3600	in	ns	ns2.bodis.com.
+framed.technology.	3600	in	ns	ns1.dns-redirect.com.
+framed.technology.	3600	in	ns	ns2.dns-redirect.com.
 frames.technology.	3600	in	ns	ns1.wordpress.com.
 frames.technology.	3600	in	ns	ns2.wordpress.com.
 frames.technology.	3600	in	ns	ns3.wordpress.com.
@@ -34207,8 +34196,8 @@ gartner.technology.	3600	in	ns	ns12.wixdns.net.
 gartner.technology.	3600	in	ns	ns13.wixdns.net.
 gartner.technology.	3600	in	ns	ns14.wixdns.net.
 gartner.technology.	3600	in	ns	ns15.wixdns.net.
-garuda.technology.	3600	in	ns	dns1.registrar-servers.com.
-garuda.technology.	3600	in	ns	dns2.registrar-servers.com.
+garuda.technology.	3600	in	ns	dns101.registrar-servers.com.
+garuda.technology.	3600	in	ns	dns102.registrar-servers.com.
 gary.technology.	3600	in	ns	ns73.domaincontrol.com.
 gary.technology.	3600	in	ns	ns74.domaincontrol.com.
 garza.technology.	3600	in	ns	ns1.hover.com.
@@ -35810,8 +35799,8 @@ goodwave.technology.	3600	in	ns	ns27.domaincontrol.com.
 goodwave.technology.	3600	in	ns	ns28.domaincontrol.com.
 goodway.technology.	3600	in	ns	ns45.domaincontrol.com.
 goodway.technology.	3600	in	ns	ns46.domaincontrol.com.
-goodwin.technology.	3600	in	ns	ns1.bodis.com.
-goodwin.technology.	3600	in	ns	ns2.bodis.com.
+goodwin.technology.	3600	in	ns	ns1.dns-redirect.com.
+goodwin.technology.	3600	in	ns	ns2.dns-redirect.com.
 goodwinbio.technology.	3600	in	ns	ns-cloud-d1.googledomains.com.
 goodwinbio.technology.	3600	in	ns	ns-cloud-d2.googledomains.com.
 goodwinbio.technology.	3600	in	ns	ns-cloud-d3.googledomains.com.
@@ -36081,8 +36070,8 @@ grammarly.technology.	3600	in	ns	ns4.markmonitor.com.
 grammarly.technology.	3600	in	ns	ns5.markmonitor.com.
 grand.technology.	3600	in	ns	brad.ns.cloudflare.com.
 grand.technology.	3600	in	ns	may.ns.cloudflare.com.
-grande.technology.	3600	in	ns	ns1.bodis.com.
-grande.technology.	3600	in	ns	ns2.bodis.com.
+grande.technology.	3600	in	ns	ns1.dns-redirect.com.
+grande.technology.	3600	in	ns	ns2.dns-redirect.com.
 grandma.technology.	3600	in	ns	ns6077.hostgator.com.
 grandma.technology.	3600	in	ns	ns6078.hostgator.com.
 grandprix.technology.	3600	in	ns	nsgbr.comlaude.co.uk.
@@ -36247,8 +36236,8 @@ green-or.technology.	3600	in	ns	ns36.domaincontrol.com.
 green.technology.	3600	in	ns	ns.do-ex.com.
 green.technology.	3600	in	ns	ns.do-ex.net.
 green.technology.	3600	in	ns	ns.do-ex.org.
-greenai.technology.	3600	in	ns	ns37.domaincontrol.com.
-greenai.technology.	3600	in	ns	ns38.domaincontrol.com.
+greenai.technology.	3600	in	ns	ns3.afternic.com.
+greenai.technology.	3600	in	ns	ns4.afternic.com.
 greenbacker.technology.	3600	in	ns	ns31.domaincontrol.com.
 greenbacker.technology.	3600	in	ns	ns32.domaincontrol.com.
 greenbear.technology.	3600	in	ns	ns25.domaincontrol.com.
@@ -37589,8 +37578,8 @@ hathaway.technology.	3600	in	rrsig	DS 8 2 3600 20250930155810 20250909145810 485
 hauck-vibra.technology.	3600	in	ns	ns.udag.de.
 hauck-vibra.technology.	3600	in	ns	ns.udag.net.
 hauck-vibra.technology.	3600	in	ns	ns.udag.org.
-haul.technology.	3600	in	ns	ns1.bodis.com.
-haul.technology.	3600	in	ns	ns2.bodis.com.
+haul.technology.	3600	in	ns	ns1.dns-redirect.com.
+haul.technology.	3600	in	ns	ns2.dns-redirect.com.
 haulerhub.technology.	3600	in	ns	ns69.domaincontrol.com.
 haulerhub.technology.	3600	in	ns	ns70.domaincontrol.com.
 haunschmid.technology.	3600	in	ns	ns67.domaincontrol.com.
@@ -38498,6 +38487,8 @@ highfive.technology.	3600	in	ns	ns3-01.azure-dns.org.
 highfive.technology.	3600	in	ns	ns4-01.azure-dns.info.
 highgate.technology.	3600	in	ns	ns49.domaincontrol.com.
 highgate.technology.	3600	in	ns	ns50.domaincontrol.com.
+highland.technology.	3600	in	ns	ns1.sedoparking.com.
+highland.technology.	3600	in	ns	ns2.sedoparking.com.
 highlight.technology.	3600	in	ns	ns27.domaincontrol.com.
 highlight.technology.	3600	in	ns	ns28.domaincontrol.com.
 highlighttech.technology.	3600	in	ns	ns09.domaincontrol.com.
@@ -40402,8 +40393,8 @@ icam.technology.	3600	in	ds	44381 8 2 D713D322772CAE0FF86C5B04EED72D2FA16758306A
 icam.technology.	3600	in	ns	dns108.ovh.net.
 icam.technology.	3600	in	ns	ns108.ovh.net.
 icam.technology.	3600	in	rrsig	DS 8 2 3600 20250930155810 20250909145810 48564 technology. sM4fAv17mSfD6u3//gWGb/lx+TEBpGrPTxCPvcyqxOz5fF7YK3riYz/mknrTaJjuNNMsi+FGk8Bg21JIsa7rcptRZIKfugRSmYFlE4jPETk+fWSjKYZ3EHDEmw5Fp+y4eJ42LZbPbJm1SB/SkiOcYOWW3MDo0QiPToDIwzLDbqw=
-ican.technology.	3600	in	ns	ns1.bodis.com.
-ican.technology.	3600	in	ns	ns2.bodis.com.
+ican.technology.	3600	in	ns	ns1.dns-redirect.com.
+ican.technology.	3600	in	ns	ns2.dns-redirect.com.
 icap.technology.	3600	in	ns	dns1.comlaude-dns.com.
 icap.technology.	3600	in	ns	dns2.comlaude-dns.net.
 icap.technology.	3600	in	ns	dns3.comlaude-dns.co.uk.
@@ -42870,9 +42861,8 @@ internet-marketing.technology.	3600	in	ns	ns1.insyma.ch.
 internet-marketing.technology.	3600	in	ns	ns2.insyma.ch.
 internet-of-things.technology.	3600	in	ns	ns45.domaincontrol.com.
 internet-of-things.technology.	3600	in	ns	ns46.domaincontrol.com.
-internet.technology.	3600	in	ns	ns1.afternic.com.
-internet.technology.	3600	in	ns	ns2.afternic.com.
-internet.technology.	3600	in	ns	verification-dun3owr7lryso59rp9khf8.ns101.verify.hn.
+internet.technology.	3600	in	ns	launch1.spaceship.net.
+internet.technology.	3600	in	ns	launch2.spaceship.net.
 internet2.technology.	3600	in	ns	ns07.domaincontrol.com.
 internet2.technology.	3600	in	ns	ns08.domaincontrol.com.
 internetbrowser.technology.	3600	in	ns	ns-ca.ui-dns.biz.
@@ -44252,8 +44242,8 @@ iui.technology.	3600	in	ns	ns-cloud-e4.googledomains.com.
 iui.technology.	3600	in	rrsig	DS 8 2 3600 20250930155810 20250909145810 48564 technology. LC2IE/mjUC4ECcZ9JRrMQHQ2kBFI2lHZQc21zkOCsDsuserdWG32SgrGWo4I5kPSJoOfhZzROfFmf9rbSHCG5TjcsvIerUkE58AvxYvSp8olIvYAryfKJmGRT7ajCUcngWBCnwZozkJhvyejLyRfdrDC4rUdEU8gH6b1m+ABwEA=
 iunabb066p9ihmkce25n3jdcj4vlne9r.technology.	3600	in	nsec3	1 1 0 73 IV5VJ8ALDBU006104BM2CFUC5OAICD2C NS DS RRSIG
 iunabb066p9ihmkce25n3jdcj4vlne9r.technology.	3600	in	rrsig	NSEC3 8 2 3600 20250930155810 20250909145810 48564 technology. de6Rge+27Nba92ugWps5zlnw+iHDIs4l645tHbY34NY4DVaYCABxKkPiGcuaPpYfZ2i6y6EDluc5SQyyRLaGaI1VjAkVgpnq3k1uG5/tXUbiO7bN059zpNEIOmVx6rXnfSY7lxIgaBCYN0nAiuc9m0giNT47e3ASqKRZkSVKUZ8=
-iupa.technology.	3600	in	ns	chase.ns.cloudflare.com.
-iupa.technology.	3600	in	ns	lilyana.ns.cloudflare.com.
+iupa.technology.	3600	in	ns	ns37.domaincontrol.com.
+iupa.technology.	3600	in	ns	ns38.domaincontrol.com.
 iupgrade.technology.	3600	in	ns	ns1.livedns.co.uk.
 iupgrade.technology.	3600	in	ns	ns2.livedns.co.uk.
 iupgrade.technology.	3600	in	ns	ns3.livedns.co.uk.
@@ -47446,8 +47436,10 @@ krones.technology.	3600	in	ns	ns1.krones-group.com.
 krones.technology.	3600	in	ns	ns2.krones-group.com.
 krones.technology.	3600	in	ns	ns3.krones-group.com.
 krones.technology.	3600	in	ns	ns4.krones-group.com.
-kronika.technology.	3600	in	ns	ns29.domaincontrol.com.
-kronika.technology.	3600	in	ns	ns30.domaincontrol.com.
+kronika.technology.	3600	in	ns	ns-1296.awsdns-34.org.
+kronika.technology.	3600	in	ns	ns-1705.awsdns-21.co.uk.
+kronika.technology.	3600	in	ns	ns-397.awsdns-49.com.
+kronika.technology.	3600	in	ns	ns-567.awsdns-06.net.
 krowten.technology.	3600	in	ns	ns0.imclouded.com.
 krowten.technology.	3600	in	ns	ns1.imclouded.com.
 krowten.technology.	3600	in	ns	ns2.imclouded.com.
@@ -48097,10 +48089,6 @@ lasive.technology.	3600	in	ns	ns2.dyna-ns.net.
 laskowski.technology.	3600	in	ns	ns.udag.de.
 laskowski.technology.	3600	in	ns	ns.udag.net.
 laskowski.technology.	3600	in	ns	ns.udag.org.
-lasleyinnovations.technology.	3600	in	ns	ns1bqx.name.com.
-lasleyinnovations.technology.	3600	in	ns	ns2knz.name.com.
-lasleyinnovations.technology.	3600	in	ns	ns3jkl.name.com.
-lasleyinnovations.technology.	3600	in	ns	ns4cjp.name.com.
 lasso.technology.	3600	in	ds	52921 8 2 2FC6D221425340F1D93E61A9CCD239FF62CD6C921C364F2EC6B3EB685DC91874
 lasso.technology.	3600	in	ns	ns-cloud-a1.googledomains.com.
 lasso.technology.	3600	in	ns	ns-cloud-a2.googledomains.com.
@@ -48529,8 +48517,8 @@ learndark.technology.	3600	in	ns	ns1.tiydohost.com.
 learndark.technology.	3600	in	ns	ns2.tiydohost.com.
 learndigital.technology.	3600	in	ns	dns1.registrar-servers.com.
 learndigital.technology.	3600	in	ns	dns2.registrar-servers.com.
-learned.technology.	3600	in	ns	ns1.bodis.com.
-learned.technology.	3600	in	ns	ns2.bodis.com.
+learned.technology.	3600	in	ns	ns1.dns-redirect.com.
+learned.technology.	3600	in	ns	ns2.dns-redirect.com.
 learnflow.technology.	3600	in	ns	ns1.cloudoon.com.
 learnflow.technology.	3600	in	ns	ns2.cloudoon.net.
 learnflow.technology.	3600	in	ns	ns3.cloudoon.org.
@@ -49015,8 +49003,8 @@ li6nuuq8hrl01rtt121an3adm14b01gr.technology.	3600	in	nsec3	1 1 0 73 LIUHN38FQNA4
 li6nuuq8hrl01rtt121an3adm14b01gr.technology.	3600	in	rrsig	NSEC3 8 2 3600 20250930155810 20250909145810 48564 technology. DrCHwVNtaMKJfR2zN2qyahodrpt6VYlnt4prRkgnXCi+4MJG38pRjjWF1frhjq1ZU+J7mhf34+poPK0I4RgCKhOPyhLS2PRE3xa0BKvaR0iKKI8u7ZN1//+4XRezy5kQ5x/At72nr6i0lX0MWwr7SL29+VLrNTcbCwU6DoqfilY=
 liam.technology.	3600	in	ns	ns1.renewyourname.net.
 liam.technology.	3600	in	ns	ns2.renewyourname.net.
-lian.technology.	3600	in	ns	expire01.dnspod.net.
-lian.technology.	3600	in	ns	expire02.dnspod.net.
+lian.technology.	3600	in	ns	alberta.dnspod.net.
+lian.technology.	3600	in	ns	condor.dnspod.net.
 liana.technology.	3600	in	ns	ns1.viidakko.fi.
 liana.technology.	3600	in	ns	ns2.viidakko.fi.
 liana.technology.	3600	in	ns	ns3.viidakko.net.
@@ -49025,8 +49013,8 @@ lianjian.technology.	3600	in	ns	hgns1.hostgator.com.
 lianjian.technology.	3600	in	ns	hgns2.hostgator.com.
 lianova.technology.	3600	in	ns	docks05.rzone.de.
 lianova.technology.	3600	in	ns	shades03.rzone.de.
-lib.technology.	3600	in	ns	ns53.domaincontrol.com.
-lib.technology.	3600	in	ns	ns54.domaincontrol.com.
+lib.technology.	3600	in	ns	pdns13.domaincontrol.com.
+lib.technology.	3600	in	ns	pdns14.domaincontrol.com.
 libby.technology.	3600	in	ns	ns59.domaincontrol.com.
 libby.technology.	3600	in	ns	ns60.domaincontrol.com.
 liberal.technology.	3600	in	ns	dns1.registrar-servers.com.
@@ -51594,8 +51582,6 @@ manomanopro.technology.	3600	in	ns	ns1.eurodns.com.
 manomanopro.technology.	3600	in	ns	ns2.eurodns.com.
 manomanopro.technology.	3600	in	ns	ns3.eurodns.com.
 manomanopro.technology.	3600	in	ns	ns4.eurodns.com.
-manong.technology.	3600	in	ns	n1.xundns.com.
-manong.technology.	3600	in	ns	n2.xundns.com.
 manos.technology.	3600	in	ns	ns69.domaincontrol.com.
 manos.technology.	3600	in	ns	ns70.domaincontrol.com.
 manpower.technology.	3600	in	ns	jerry.ns.cloudflare.com.
@@ -57977,8 +57963,8 @@ neweratech.technology.	3600	in	ns	ns1-06.azure-dns.com.
 neweratech.technology.	3600	in	ns	ns2-06.azure-dns.net.
 neweratech.technology.	3600	in	ns	ns3-06.azure-dns.org.
 neweratech.technology.	3600	in	ns	ns4-06.azure-dns.info.
-newest.technology.	3600	in	ns	ns1.bodis.com.
-newest.technology.	3600	in	ns	ns2.bodis.com.
+newest.technology.	3600	in	ns	ns1.dns-redirect.com.
+newest.technology.	3600	in	ns	ns2.dns-redirect.com.
 newfuture.technology.	3600	in	ns	ns33.domaincontrol.com.
 newfuture.technology.	3600	in	ns	ns34.domaincontrol.com.
 newglobe.technology.	3600	in	ns	ns-1492.awsdns-58.org.
@@ -59985,6 +59971,8 @@ nudigi.technology.	3600	in	ns	ns11.domaincontrol.com.
 nudigi.technology.	3600	in	ns	ns12.domaincontrol.com.
 nudigita.technology.	3600	in	ns	ns67.domaincontrol.com.
 nudigita.technology.	3600	in	ns	ns68.domaincontrol.com.
+nueva.technology.	3600	in	ns	ns1.dns-redirect.com.
+nueva.technology.	3600	in	ns	ns2.dns-redirect.com.
 nufc.technology.	3600	in	ns	ns1.meganameservers.eu.
 nufc.technology.	3600	in	ns	ns2.meganameservers.eu.
 nufc.technology.	3600	in	ns	ns3.meganameservers.eu.
@@ -60158,8 +60146,6 @@ nvt.technology.	3600	in	ns	ns2.livedns.co.uk.
 nvt.technology.	3600	in	ns	ns3.livedns.co.uk.
 nvya.technology.	3600	in	ns	ns71.domaincontrol.com.
 nvya.technology.	3600	in	ns	ns72.domaincontrol.com.
-nw.technology.	3600	in	ns	ns03.domaincontrol.com.
-nw.technology.	3600	in	ns	ns04.domaincontrol.com.
 nway.technology.	3600	in	ns	ns01.trademarkarea.com.
 nway.technology.	3600	in	ns	ns02.trademarkarea.com.
 nway.technology.	3600	in	ns	ns03.trademarkarea.com.
@@ -61020,8 +61006,8 @@ olv.technology.	3600	in	ns	ns-cloud-c1.googledomains.com.
 olv.technology.	3600	in	ns	ns-cloud-c2.googledomains.com.
 olv.technology.	3600	in	ns	ns-cloud-c3.googledomains.com.
 olv.technology.	3600	in	ns	ns-cloud-c4.googledomains.com.
-olxhoki.technology.	3600	in	ns	ns1.bodis.com.
-olxhoki.technology.	3600	in	ns	ns2.bodis.com.
+olxhoki.technology.	3600	in	ns	ns1.dns-redirect.com.
+olxhoki.technology.	3600	in	ns	ns2.dns-redirect.com.
 olygon.technology.	3600	in	ns	ns41.cloudns.net.
 olygon.technology.	3600	in	ns	ns42.cloudns.net.
 olygon.technology.	3600	in	ns	ns43.cloudns.net.
@@ -61971,8 +61957,6 @@ optihuman.technology.	3600	in	ns	ns-334.awsdns-41.com.
 optihuman.technology.	3600	in	ns	ns-736.awsdns-28.net.
 optik.technology.	3600	in	ns	ns1.hover.com.
 optik.technology.	3600	in	ns	ns2.hover.com.
-optikon.technology.	3600	in	ns	docks03.rzone.de.
-optikon.technology.	3600	in	ns	shades19.rzone.de.
 optima-health.technology.	3600	in	ns	ns35.domaincontrol.com.
 optima-health.technology.	3600	in	ns	ns36.domaincontrol.com.
 optima.technology.	3600	in	ns	ns1.atom.com.
@@ -62065,7 +62049,7 @@ oqio.technology.	3600	in	rrsig	DS 8 2 3600 20250930155810 20250909145810 48564 t
 or1dv9lb98knl86gng9939953bl0hm3h.technology.	3600	in	nsec3	1 1 0 73 OR1IS6E7K854HD5REJOVVPLE4GHVLRS8 NS DS RRSIG
 or1dv9lb98knl86gng9939953bl0hm3h.technology.	3600	in	rrsig	NSEC3 8 2 3600 20250930155810 20250909145810 48564 technology. j2WqnAMm1YLmn+EHvg+VDG8/6T1u3YINVp5Na4WIzx2sISnobe9sd8jm6OS5cGTVpdvBzvSw6iT5EpduR+3OE01FCsCam4xgiS6in/wACKTuFVMIi+ZOWapQA13Hj/SepngEPcTWMDGzCL6knaRYVvxUbBg2VBjYe38D5SZ+3Pw=
 or1is6e7k854hd5rejovvple4ghvlrs8.technology.	3600	in	nsec3	1 1 0 73 OR42MUS63IBHKI3L64KEQF90VOGEJLRT NS SOA RRSIG DNSKEY NSEC3PARAM
-or1is6e7k854hd5rejovvple4ghvlrs8.technology.	3600	in	rrsig	NSEC3 8 2 3600 20251002012002 20250911002002 48564 technology. jPYUjefM6Y6FK3a/Q7u184FxFUOKALwWZrapjC/RU8Xjjj0yDd5ChDI59Szdr1GLAx2cjCt4lI347VHGH1zoBXIczXSzy5mYSw2lEMUJmr524q8gIGnzDPNCIkUxux1dFeyFOJF2MF11N7+Q3r9125dgVF6w9bghqJp60FajFh8=
+or1is6e7k854hd5rejovvple4ghvlrs8.technology.	3600	in	rrsig	NSEC3 8 2 3600 20251003011650 20250912001650 48564 technology. tTnb4RQsMMxKqWTsB0kfgqNETN9jgbp4A8Mz2cgFFj9rZRsD65gWbydnKxP04yv37zDqtEy+iYEyoNVauPWMNl1al/+Yi77q2vQNCE9JiV8IRC8XS+dmN/aVbXVv3gJTcTA5YjA8hnl2wDG2jNA2AuytWhESLYzW10yvRhrH0I4=
 or42mus63ibhki3l64keqf90vogejlrt.technology.	3600	in	nsec3	1 1 0 73 OSNQIUDEP1MT2V8TK4BDFS8N7NSCUDO1 NS DS RRSIG
 or42mus63ibhki3l64keqf90vogejlrt.technology.	3600	in	rrsig	NSEC3 8 2 3600 20250930155810 20250909145810 48564 technology. R1N/+CemN1mlIKM8IY8DsW/j274xqKRYwu3s/FD0iwe8VS6X9Kax/MsPyUVLXeDa9a8aVF5WgcFramv6uyNOJqGMl6RFhbuEBDvNRtwuUX+qrksMS/etPedpjDIXc19NX7l3fhbaG9rmtqKnx74+9Fbq7VfCSny7qaFIrubrrLs=
 ora.technology.	3600	in	ns	dns1.registrar-servers.com.
@@ -63230,8 +63214,8 @@ para.technology.	3600	in	ns	jo.ns.cloudflare.com.
 para.technology.	3600	in	ns	sonny.ns.cloudflare.com.
 parabot.technology.	3600	in	ns	ns19.domaincontrol.com.
 parabot.technology.	3600	in	ns	ns20.domaincontrol.com.
-paradigm.technology.	3600	in	ns	ns1.bodis.com.
-paradigm.technology.	3600	in	ns	ns2.bodis.com.
+paradigm.technology.	3600	in	ns	ns1.dns-redirect.com.
+paradigm.technology.	3600	in	ns	ns2.dns-redirect.com.
 paradise.technology.	3600	in	ns	ns1.sedoparking.com.
 paradise.technology.	3600	in	ns	ns2.sedoparking.com.
 paradygmconsulting.technology.	3600	in	ns	ns69.domaincontrol.com.
@@ -63397,6 +63381,10 @@ particlesizing.technology.	3600	in	ns	udns1.cscdns.net.
 particlesizing.technology.	3600	in	ns	udns2.cscdns.uk.
 particular.technology.	3600	in	ns	ns45.worldnic.com.
 particular.technology.	3600	in	ns	ns46.worldnic.com.
+partly.technology.	3600	in	ns	curitiba.ns.porkbun.com.
+partly.technology.	3600	in	ns	fortaleza.ns.porkbun.com.
+partly.technology.	3600	in	ns	maceio.ns.porkbun.com.
+partly.technology.	3600	in	ns	salvador.ns.porkbun.com.
 partnered.technology.	3600	in	ns	dns1.p02.nsone.net.
 partnered.technology.	3600	in	ns	dns2.p02.nsone.net.
 partnered.technology.	3600	in	ns	dns3.p02.nsone.net.
@@ -65232,8 +65220,8 @@ plex.technology.	3600	in	ns	ns-cloud-e2.googledomains.com.
 plex.technology.	3600	in	ns	ns-cloud-e3.googledomains.com.
 plex.technology.	3600	in	ns	ns-cloud-e4.googledomains.com.
 plex.wade.technology.	3600	in	a	74.63.219.202
-plexus.technology.	3600	in	ns	meda.iescotarelo.es.
-plexus.technology.	3600	in	ns	s1.plexus.technology.
+plexus.technology.	3600	in	ns	kevin.ns.cloudflare.com.
+plexus.technology.	3600	in	ns	maleah.ns.cloudflare.com.
 pllygon.technology.	3600	in	ns	ns41.cloudns.net.
 pllygon.technology.	3600	in	ns	ns42.cloudns.net.
 pllygon.technology.	3600	in	ns	ns43.cloudns.net.
@@ -65467,6 +65455,8 @@ poison.technology.	3600	in	ns	curitiba.ns.porkbun.com.
 poison.technology.	3600	in	ns	fortaleza.ns.porkbun.com.
 poison.technology.	3600	in	ns	maceio.ns.porkbun.com.
 poison.technology.	3600	in	ns	salvador.ns.porkbun.com.
+poiygom.technology.	3600	in	ns	ns1.renewyourname.net.
+poiygom.technology.	3600	in	ns	ns2.renewyourname.net.
 poker.technology.	3600	in	ns	ns1.ipage.com.
 poker.technology.	3600	in	ns	ns2.ipage.com.
 pokerplanets.technology.	3600	in	ns	coby.ns.cloudflare.com.
@@ -66692,8 +66682,8 @@ prodoc.technology.	3600	in	ns	ns37.domaincontrol.com.
 prodoc.technology.	3600	in	ns	ns38.domaincontrol.com.
 prodrive.technology.	3600	in	ns	ns01.hostnet.nl.
 prodrive.technology.	3600	in	ns	ns02.hostnet.nl.
-produce.technology.	3600	in	ns	ns1.bodis.com.
-produce.technology.	3600	in	ns	ns2.bodis.com.
+produce.technology.	3600	in	ns	ns1.dns-redirect.com.
+produce.technology.	3600	in	ns	ns2.dns-redirect.com.
 producelogistics.technology.	3600	in	ns	dns1.name-services.com.
 producelogistics.technology.	3600	in	ns	dns2.name-services.com.
 producelogistics.technology.	3600	in	ns	dns3.name-services.com.
@@ -67644,8 +67634,6 @@ pyme.technology.	3600	in	ns	ns-cloud-a2.googledomains.com.
 pyme.technology.	3600	in	ns	ns-cloud-a3.googledomains.com.
 pyme.technology.	3600	in	ns	ns-cloud-a4.googledomains.com.
 pyme.technology.	3600	in	rrsig	DS 8 2 3600 20250930155810 20250909145810 48564 technology. rVOP4Q6bont5Wt8Hq+qNcMOHrI31nfS1nf5ZerElPwV8w2ZaEPBZhSASttChTlSWajxyHjA20PmGkq2T3jMJzfYe5ENOZ0YSAtAJKOr/rRjbpsjexHenIgYglOKS6ZrbfanCBLAx3rov647xSvdWk+jGKrFufhHUm32UOeG+dGc=
-pyramid.technology.	3600	in	ns	dns101.registrar-servers.com.
-pyramid.technology.	3600	in	ns	dns102.registrar-servers.com.
 pyramids.technology.	3600	in	ns	server1.deution.com.
 pyramids.technology.	3600	in	ns	server2.deution.com.
 pyramis.technology.	3600	in	ns	hassan.ns.cloudflare.com.
@@ -68077,8 +68065,8 @@ quant.technology.	3600	in	ns	curitiba.ns.porkbun.com.
 quant.technology.	3600	in	ns	fortaleza.ns.porkbun.com.
 quant.technology.	3600	in	ns	maceio.ns.porkbun.com.
 quant.technology.	3600	in	ns	salvador.ns.porkbun.com.
-quanta.technology.	3600	in	ns	dns1.registrar-servers.com.
-quanta.technology.	3600	in	ns	dns2.registrar-servers.com.
+quanta.technology.	3600	in	ns	dns101.registrar-servers.com.
+quanta.technology.	3600	in	ns	dns102.registrar-servers.com.
 quantal.technology.	3600	in	ns	ns71.domaincontrol.com.
 quantal.technology.	3600	in	ns	ns72.domaincontrol.com.
 quantes.technology.	3600	in	ns	ns63.domaincontrol.com.
@@ -68274,8 +68262,8 @@ queo.technology.	3600	in	ns	ns1a.dodns.net.
 queo.technology.	3600	in	ns	ns2a.dodns.net.
 queoflow.technology.	3600	in	ns	ns1a.dodns.net.
 queoflow.technology.	3600	in	ns	ns2a.dodns.net.
-quercus.technology.	3600	in	ns	ns37.domaincontrol.com.
-quercus.technology.	3600	in	ns	ns38.domaincontrol.com.
+quercus.technology.	3600	in	ns	coleman.ns.cloudflare.com.
+quercus.technology.	3600	in	ns	yolanda.ns.cloudflare.com.
 querente.technology.	3600	in	ns	ns1.dns-parking.com.
 querente.technology.	3600	in	ns	ns2.dns-parking.com.
 query.technology.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -75810,8 +75798,8 @@ skybeta.technology.	3600	in	ns	ns1gjz.name.com.
 skybeta.technology.	3600	in	ns	ns2nsw.name.com.
 skybeta.technology.	3600	in	ns	ns3ckl.name.com.
 skybeta.technology.	3600	in	ns	ns4hny.name.com.
-skyblue.technology.	3600	in	ns	ns1.bodis.com.
-skyblue.technology.	3600	in	ns	ns2.bodis.com.
+skyblue.technology.	3600	in	ns	ns1.dns-redirect.com.
+skyblue.technology.	3600	in	ns	ns2.dns-redirect.com.
 skybook365.technology.	3600	in	ns	ns13.domaincontrol.com.
 skybook365.technology.	3600	in	ns	ns14.domaincontrol.com.
 skybox.technology.	3600	in	ns	nsgbr.comlaude.co.uk.
@@ -75851,6 +75839,8 @@ skyfall.technology.	3600	in	ns	shades07.rzone.de.
 skyfibre.technology.	3600	in	ns	nsgbr.comlaude.co.uk.
 skyfibre.technology.	3600	in	ns	nssui.comlaude.ch.
 skyfibre.technology.	3600	in	ns	nsusa.comlaude.net.
+skyforge.technology.	3600	in	ns	ns1.tmgweb.co.
+skyforge.technology.	3600	in	ns	ns2.tmgweb.co.
 skygate.technology.	3600	in	ns	ns69.domaincontrol.com.
 skygate.technology.	3600	in	ns	ns70.domaincontrol.com.
 skyglobal.technology.	3600	in	ns	ns1.seizedservers.com.
@@ -76256,8 +76246,8 @@ smartcard.technology.	3600	in	ns	ns-cloud-a3.googledomains.com.
 smartcard.technology.	3600	in	ns	ns-cloud-a4.googledomains.com.
 smartcare.technology.	3600	in	ns	ns47.domaincontrol.com.
 smartcare.technology.	3600	in	ns	ns48.domaincontrol.com.
-smartcart.technology.	3600	in	ns	ns1.bodis.com.
-smartcart.technology.	3600	in	ns	ns2.bodis.com.
+smartcart.technology.	3600	in	ns	ns1.dns-redirect.com.
+smartcart.technology.	3600	in	ns	ns2.dns-redirect.com.
 smartcash.technology.	3600	in	ds	22921 8 2 08461F5060EA9DCC5552E6EDB653DAD548A5A6134F1D2612E08950225E8258A5
 smartcash.technology.	3600	in	ns	dns105.ovh.net.
 smartcash.technology.	3600	in	ns	ns105.ovh.net.
@@ -76714,8 +76704,6 @@ smeg.technology.	3600	in	ns	mitchell.ns.cloudflare.com.
 smeg.technology.	3600	in	ns	shubhi.ns.cloudflare.com.
 smendes.technology.	3600	in	ns	ns1.dns-parking.com.
 smendes.technology.	3600	in	ns	ns2.dns-parking.com.
-smes.technology.	3600	in	ns	ns1.renewyourname.net.
-smes.technology.	3600	in	ns	ns2.renewyourname.net.
 smf.technology.	3600	in	ns	dns.home.pl.
 smf.technology.	3600	in	ns	dns2.home.pl.
 smf.technology.	3600	in	ns	dns3.home.pl.
@@ -78704,6 +78692,8 @@ starlink.technology.	3600	in	ns	ns43.domaincontrol.com.
 starlink.technology.	3600	in	ns	ns44.domaincontrol.com.
 starmars.technology.	3600	in	ns	ns10.wixdns.net.
 starmars.technology.	3600	in	ns	ns11.wixdns.net.
+starmobile.technology.	3600	in	ns	ns67.domaincontrol.com.
+starmobile.technology.	3600	in	ns	ns68.domaincontrol.com.
 starnet.technology.	3600	in	ns	ns65.domaincontrol.com.
 starnet.technology.	3600	in	ns	ns66.domaincontrol.com.
 starnewenergy.technology.	3600	in	ns	ns1.netregistry.net.
@@ -78735,10 +78725,6 @@ startcloud.technology.	3600	in	ns	ns1.prominic.net.
 startcloud.technology.	3600	in	ns	ns2.prominic.net.
 startcloud.technology.	3600	in	ns	ns3.prominic.net.
 startcloud.technology.	3600	in	ns	ns4.prominic.net.
-startdash.technology.	3600	in	ns	ns1hnx.name.com.
-startdash.technology.	3600	in	ns	ns2hjl.name.com.
-startdash.technology.	3600	in	ns	ns3cgw.name.com.
-startdash.technology.	3600	in	ns	ns4lpv.name.com.
 starterpack.technology.	3600	in	ns	dns1.registrar-servers.com.
 starterpack.technology.	3600	in	ns	dns2.registrar-servers.com.
 starthub.technology.	3600	in	ns	dns1.registrar-servers.com.
@@ -79577,8 +79563,8 @@ stu.technology.	3600	in	ns	03.dnsv.jp.
 stu.technology.	3600	in	ns	04.dnsv.jp.
 stuart.technology.	3600	in	ns	ns35.domaincontrol.com.
 stuart.technology.	3600	in	ns	ns36.domaincontrol.com.
-stuck.technology.	3600	in	ns	ns1.sm9.siteground.biz.
-stuck.technology.	3600	in	ns	ns2.sm9.siteground.biz.
+stuck.technology.	3600	in	ns	dns101.registrar-servers.com.
+stuck.technology.	3600	in	ns	dns102.registrar-servers.com.
 student.technology.	3600	in	ns	ns1.monikerdns.net.
 student.technology.	3600	in	ns	ns2.monikerdns.net.
 student.technology.	3600	in	ns	ns3.monikerdns.net.
@@ -80519,8 +80505,8 @@ symptote.technology.	3600	in	ns	ns-cloud-a3.googledomains.com.
 symptote.technology.	3600	in	ns	ns-cloud-a4.googledomains.com.
 synapse.technology.	3600	in	ns	ns1.afternic.com.
 synapse.technology.	3600	in	ns	ns2.afternic.com.
-synapseek.technology.	3600	in	ns	dns1.registrar-servers.com.
-synapseek.technology.	3600	in	ns	dns2.registrar-servers.com.
+synapseek.technology.	3600	in	ns	ns1.hosting.businessidentity.llc.
+synapseek.technology.	3600	in	ns	ns2.hosting.businessidentity.llc.
 synapseindia.technology.	3600	in	ns	75798.earth.orderbox-dns.com.
 synapseindia.technology.	3600	in	ns	75798.mars.orderbox-dns.com.
 synapseindia.technology.	3600	in	ns	75798.mercury.orderbox-dns.com.
@@ -80888,8 +80874,8 @@ taboola.technology.	3600	in	ns	dns2.epag.net.
 tabula.technology.	3600	in	ns	ns-135-c.gandi.net.
 tabula.technology.	3600	in	ns	ns-193-a.gandi.net.
 tabula.technology.	3600	in	ns	ns-209-b.gandi.net.
-tac.technology.	3600	in	ns	ns39.domaincontrol.com.
-tac.technology.	3600	in	ns	ns40.domaincontrol.com.
+tac.technology.	3600	in	ns	bella.ns.cloudflare.com.
+tac.technology.	3600	in	ns	lloyd.ns.cloudflare.com.
 tachi.technology.	3600	in	ns	dns1.registrar-servers.com.
 tachi.technology.	3600	in	ns	dns2.registrar-servers.com.
 tachyon.technology.	3600	in	ns	ns1.afternic.com.
@@ -81753,7 +81739,7 @@ technology.	3600	in	nsec3param	1 0 0 73
 technology.	3600	in	rrsig	DNSKEY 8 1 3600 20250930155810 20250909145810 27175 technology. N1jdQmuYzp7XDv3biUwV6YjMsTH4X9q83fHE7ZEPoe4SGeUPz+MYn4IUSAQpkOttC7jjo3gXP91RZ49Z9CimEVoz5Xf7YkJXy6y7tmBvaAV0uK3NpltqlXrDGOFfJhqekZfQC/UZqIBVFyL0Wgm9neubhZ2HY4PYlS6WSQE8tQ4BTLbjdmYfmAVjpap5EZO+LxAIWV8ibPc/OhTRraq6GoVL5GMj5F2a0O5ijlAHhxlD0JbXM2Dn7S3P11Qjz1zf/sQzDGygyt58KdJhWoYi9xeQqjeZhLxG+DFNM4chiOpbYLU2kKtjCH4YAQ84EJRLtBI+7nbfWeuMKvCVMamgCQ==
 technology.	3600	in	rrsig	NS 8 1 3600 20250930155810 20250909145810 48564 technology. EKDE6J8tcgS7JeL/UXZ1oG1tM+M4L3wqXYhlprqwfeMhJ/fJjpbqanlVEJJyv7jqD3FyGOyx/9QgS+RKiDoCzM5BDnsEoirWayfKM2o9tpWMKQ61vTOtjsTZ4NqOOqBNlX3E7KPP8hUxJpW+4g23Y8VObkau/slvFpT3atgpKHI=
 technology.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930155810 20250909145810 48564 technology. YnF82x9PlaCckqZ2418/r9+0dWDoDyGBOCV2ewtGF8e7DD68vy8f4yrTxsYqkOXDvNFhWofnwqyc3y4uZfBZnBp5mN+0Vzaect5pr7n+4NA6X1ZG/sGEddxb40Buou5XaoYSDhWpY5hOZu1BNOXP5fJ3yW31eyNr2EBJXClt+Y0=
-technology.	3600	in	rrsig	SOA 8 1 3600 20251002012002 20250911002002 48564 technology. Y0LrV4K5Oq9azn2E5PtrN4eE9szYcjZG8uHlxvajka0J8aXQ8C8akrnQbW0dHYYNj6tkQUoi7Mvfz2+VvSCtQ+tbp9V29oYcTIXhlCoYeQNV3T3rKGmY+jBAO90EM0fXh5t9/mCBMO8knunJ8j+bYzUhOEAr1uCS6FMLBIHvTcY=
+technology.	3600	in	rrsig	SOA 8 1 3600 20251003011650 20250912001650 48564 technology. Jop7+LzI0deQAmg6wblS76bwew4fCcwbC2KZc+e9MOF1kt7V2/E8eRcQrNo4LYC5dJygPUbc2+Ureh4W3SzG0ix0hSxZ5vVr4cTBGRPgiQ780KHH8XniO3FEBDMWVA4eN/RD3/wl6QXLcMNx7A1d/j/8agoTxk7U9kHM4c3tIus=
 technology.technology.	3600	in	ns	ns1.dyna-ns.net.
 technology.technology.	3600	in	ns	ns2.dyna-ns.net.
 technology101.technology.	3600	in	ns	ns1.wordpress.com.
@@ -82539,8 +82525,8 @@ that.technology.	3600	in	ns	ns1bqx.name.com.
 that.technology.	3600	in	ns	ns2lns.name.com.
 that.technology.	3600	in	ns	ns3gnv.name.com.
 that.technology.	3600	in	ns	ns4cpw.name.com.
-thc.technology.	3600	in	ns	ns1.bodis.com.
-thc.technology.	3600	in	ns	ns2.bodis.com.
+thc.technology.	3600	in	ns	ns1.dns-redirect.com.
+thc.technology.	3600	in	ns	ns2.dns-redirect.com.
 thccraftcanna.technology.	3600	in	ns	ns1019.ui-dns.org.
 thccraftcanna.technology.	3600	in	ns	ns1037.ui-dns.biz.
 thccraftcanna.technology.	3600	in	ns	ns1054.ui-dns.de.
@@ -82627,6 +82613,8 @@ thecloud.technology.	3600	in	ns	ns3.dnsowl.com.
 thecoin.technology.	3600	in	ns	1-you.njalla.no.
 thecoin.technology.	3600	in	ns	2-can.njalla.in.
 thecoin.technology.	3600	in	ns	3-get.njalla.fo.
+thecomputerguy.technology.	3600	in	ns	parking1.whc.ca.
+thecomputerguy.technology.	3600	in	ns	parking2.whc.ca.
 thecrypto.technology.	3600	in	ns	chloe.ns.cloudflare.com.
 thecrypto.technology.	3600	in	ns	hugh.ns.cloudflare.com.
 thedam.technology.	3600	in	ns	ns1037.ui-dns.biz.
@@ -83875,8 +83863,9 @@ tokens.technology.	3600	in	ns	ns1.sedoparking.com.
 tokens.technology.	3600	in	ns	ns2.sedoparking.com.
 tokensale.technology.	3600	in	ns	june.ns.cloudflare.com.
 tokensale.technology.	3600	in	ns	nikon.ns.cloudflare.com.
-tokeny.technology.	3600	in	ns	ns13.domaincontrol.com.
-tokeny.technology.	3600	in	ns	ns14.domaincontrol.com.
+tokeny.technology.	3600	in	ns	ns1.markmonitor.com.
+tokeny.technology.	3600	in	ns	ns2.markmonitor.com.
+tokeny.technology.	3600	in	ns	ns3.markmonitor.com.
 tokinvest.technology.	3600	in	ns	ns51.domaincontrol.com.
 tokinvest.technology.	3600	in	ns	ns52.domaincontrol.com.
 toko.technology.	3600	in	ns	ns1-07.azure-dns.com.
@@ -85563,8 +85552,6 @@ tutoring.technology.	3600	in	ns	ns43.domaincontrol.com.
 tutoring.technology.	3600	in	ns	ns44.domaincontrol.com.
 tutt.technology.	3600	in	ns	ns07.domaincontrol.com.
 tutt.technology.	3600	in	ns	ns08.domaincontrol.com.
-tuwaiq.technology.	3600	in	ns	ns13.domaincontrol.com.
-tuwaiq.technology.	3600	in	ns	ns14.domaincontrol.com.
 tux.mitrandir.technology.	3600	in	a	82.146.63.7
 tuxed.technology.	3600	in	ns	dns1.registrar-servers.com.
 tuxed.technology.	3600	in	ns	dns2.registrar-servers.com.
@@ -87870,8 +87857,8 @@ ver.technology.	3600	in	ns	ns67.domaincontrol.com.
 ver.technology.	3600	in	ns	ns68.domaincontrol.com.
 vera.technology.	3600	in	ns	dns1.registrar-servers.com.
 vera.technology.	3600	in	ns	dns2.registrar-servers.com.
-veracity.technology.	3600	in	ns	ns1.bodis.com.
-veracity.technology.	3600	in	ns	ns2.bodis.com.
+veracity.technology.	3600	in	ns	ns1.dns-redirect.com.
+veracity.technology.	3600	in	ns	ns2.dns-redirect.com.
 veracityvs.technology.	3600	in	ns	ns-1356.awsdns-41.org.
 veracityvs.technology.	3600	in	ns	ns-1572.awsdns-04.co.uk.
 veracityvs.technology.	3600	in	ns	ns-291.awsdns-36.com.
@@ -89456,8 +89443,8 @@ w3w.technology.	3600	in	ns	ns3.dnsimple.com.
 w3w.technology.	3600	in	ns	ns4.dnsimple-edge.org.
 w6.technology.	3600	in	ns	ns17.domaincontrol.com.
 w6.technology.	3600	in	ns	ns18.domaincontrol.com.
-w88.technology.	3600	in	ns	ns1.bodis.com.
-w88.technology.	3600	in	ns	ns2.bodis.com.
+w88.technology.	3600	in	ns	ns1.dns-redirect.com.
+w88.technology.	3600	in	ns	ns2.dns-redirect.com.
 wa.technology.	3600	in	ns	ns05.domaincontrol.com.
 wa.technology.	3600	in	ns	ns06.domaincontrol.com.
 waak.technology.	3600	in	ns	ns19.domaincontrol.com.
@@ -89844,8 +89831,8 @@ watermoon.technology.	3600	in	ns	ns3.hyp.net.
 watermoon.technology.	3600	in	rrsig	DS 8 2 3600 20250930155810 20250909145810 48564 technology. WUCotfOGkmUsCjDp+Q0cRN/r/ai5o3k46caAyKToyvX6O9PdG2QYlO9nF7t7wIhjM++E//nwwe2611TRIfPlD/wNQkTsWZuFzWufvDb36iHr5KZ5OwO0gPLFfoRdO0n9TzcmYl7gEE6UfuubdxukkHwNwk6kkdzIcVEgINfSCvk=
 watershed.technology.	3600	in	ns	gemma.ns.cloudflare.com.
 watershed.technology.	3600	in	ns	pete.ns.cloudflare.com.
-waterstation.technology.	3600	in	ns	ns1.bodis.com.
-waterstation.technology.	3600	in	ns	ns2.bodis.com.
+waterstation.technology.	3600	in	ns	ns1.dns-redirect.com.
+waterstation.technology.	3600	in	ns	ns2.dns-redirect.com.
 watertankcleaning.technology.	3600	in	ns	ns77.domaincontrol.com.
 watertankcleaning.technology.	3600	in	ns	ns78.domaincontrol.com.
 waterteach.technology.	3600	in	ns	ns17.domaincontrol.com.
@@ -90233,8 +90220,10 @@ webdataintegration.technology.	3600	in	ns	ns-1532.awsdns-63.org.
 webdataintegration.technology.	3600	in	ns	ns-1582.awsdns-05.co.uk.
 webdataintegration.technology.	3600	in	ns	ns-449.awsdns-56.com.
 webdataintegration.technology.	3600	in	ns	ns-664.awsdns-19.net.
-webdesign.technology.	3600	in	ns	dns1.registrar-servers.com.
-webdesign.technology.	3600	in	ns	dns2.registrar-servers.com.
+webdesign.technology.	3600	in	ns	dns1.web-repository.com.
+webdesign.technology.	3600	in	ns	dns2.web-repository.com.
+webdesign.technology.	3600	in	ns	dns3.web-repository.com.
+webdesign.technology.	3600	in	ns	dns4.web-repository.com.
 webdesigner.technology.	3600	in	ns	ns37.domaincontrol.com.
 webdesigner.technology.	3600	in	ns	ns38.domaincontrol.com.
 webdesk.technology.	3600	in	ns	ns51.domaincontrol.com.
@@ -90854,16 +90843,16 @@ whim.technology.	3600	in	ns	ns73.domaincontrol.com.
 whim.technology.	3600	in	ns	ns74.domaincontrol.com.
 whipash.technology.	3600	in	ns	dns101.registrar-servers.com.
 whipash.technology.	3600	in	ns	dns102.registrar-servers.com.
-whiskey.technology.	3600	in	ns	ns1.bodis.com.
-whiskey.technology.	3600	in	ns	ns2.bodis.com.
+whiskey.technology.	3600	in	ns	ns1.dns-redirect.com.
+whiskey.technology.	3600	in	ns	ns2.dns-redirect.com.
 whiskeymarketing.technology.	3600	in	ns	ns63.domaincontrol.com.
 whiskeymarketing.technology.	3600	in	ns	ns64.domaincontrol.com.
-whisky.technology.	3600	in	ns	ns1.bodis.com.
-whisky.technology.	3600	in	ns	ns2.bodis.com.
+whisky.technology.	3600	in	ns	ns1.dns-redirect.com.
+whisky.technology.	3600	in	ns	ns2.dns-redirect.com.
 whiskymarketing.technology.	3600	in	ns	ns63.domaincontrol.com.
 whiskymarketing.technology.	3600	in	ns	ns64.domaincontrol.com.
-whisper.technology.	3600	in	ns	ns1.bodis.com.
-whisper.technology.	3600	in	ns	ns2.bodis.com.
+whisper.technology.	3600	in	ns	ns1.dns-redirect.com.
+whisper.technology.	3600	in	ns	ns2.dns-redirect.com.
 whistler.technology.	3600	in	ns	alex.ns.cloudflare.com.
 whistler.technology.	3600	in	ns	jillian.ns.cloudflare.com.
 white-mare.technology.	3600	in	ns	pdns1.registrar-servers.com.
@@ -90952,8 +90941,6 @@ whizzmo.technology.	3600	in	ns	dns3.safenames.org.
 whizzmoapp.technology.	3600	in	ns	dns1.safenames.com.
 whizzmoapp.technology.	3600	in	ns	dns2.safenames.net.
 whizzmoapp.technology.	3600	in	ns	dns3.safenames.org.
-whlplash.technology.	3600	in	ns	dns101.registrar-servers.com.
-whlplash.technology.	3600	in	ns	dns102.registrar-servers.com.
 who-invented-the.technology.	3600	in	ns	ns3.freeola.net.
 who-invented-the.technology.	3600	in	ns	ns4.freeola.net.
 whoa.technology.	3600	in	ns	ns-cloud-a1.googledomains.com.
@@ -91455,8 +91442,8 @@ wisp.technology.	3600	in	ns	ns5.inleed.net.
 wisp.technology.	3600	in	ns	ns6.inleed.net.
 wit.technology.	3600	in	ns	ns14.wixdns.net.
 wit.technology.	3600	in	ns	ns15.wixdns.net.
-witch.technology.	3600	in	ns	ns1.bodis.com.
-witch.technology.	3600	in	ns	ns2.bodis.com.
+witch.technology.	3600	in	ns	ns1.dns-redirect.com.
+witch.technology.	3600	in	ns	ns2.dns-redirect.com.
 witchcraft.technology.	3600	in	ns	jaxson.ns.cloudflare.com.
 witchcraft.technology.	3600	in	ns	leah.ns.cloudflare.com.
 witglobal.technology.	3600	in	ns	ns2.xc-ns.de.
@@ -91675,6 +91662,8 @@ worcester-bosch.technology.	3600	in	ns	gwa.fe.bosch.de.
 worcester-bosch.technology.	3600	in	ns	gwa2.fe.bosch.de.
 word.technology.	3600	in	ns	ns1.dyna-ns.net.
 word.technology.	3600	in	ns	ns2.dyna-ns.net.
+wordofmouth.technology.	3600	in	ns	ns37.domaincontrol.com.
+wordofmouth.technology.	3600	in	ns	ns38.domaincontrol.com.
 words.technology.	3600	in	ns	ns1.dns-redirect.com.
 words.technology.	3600	in	ns	ns2.dns-redirect.com.
 work.technology.	3600	in	ns	ns1.afternic.com.
@@ -93314,8 +93303,6 @@ yq.technology.	3600	in	ns	dns1.registrar-servers.com.
 yq.technology.	3600	in	ns	dns2.registrar-servers.com.
 ysm.technology.	3600	in	ns	ns05.domaincontrol.com.
 ysm.technology.	3600	in	ns	ns06.domaincontrol.com.
-ystral.technology.	3600	in	ns	dns.datafarm.de.
-ystral.technology.	3600	in	ns	hans.continum.net.
 ytmp3.technology.	3600	in	ns	piper.ns.cloudflare.com.
 ytmp3.technology.	3600	in	ns	rocky.ns.cloudflare.com.
 yts.technology.	3600	in	ns	ns1.dreamhost.com.
@@ -93353,8 +93340,8 @@ yumira.technology.	3600	in	ns	ns-cloud-e3.googledomains.com.
 yumira.technology.	3600	in	ns	ns-cloud-e4.googledomains.com.
 yummy.technology.	3600	in	ns	dns1.registrar-servers.com.
 yummy.technology.	3600	in	ns	dns2.registrar-servers.com.
-yun.technology.	3600	in	ns	expire01.dnspod.net.
-yun.technology.	3600	in	ns	expire02.dnspod.net.
+yun.technology.	3600	in	ns	algol.dnspod.net.
+yun.technology.	3600	in	ns	george.dnspod.net.
 yuno.technology.	3600	in	ns	ns-144-a.gandi.net.
 yuno.technology.	3600	in	ns	ns-159-b.gandi.net.
 yuno.technology.	3600	in	ns	ns-99-c.gandi.net.
@@ -94059,8 +94046,8 @@ zume.technology.	3600	in	ns	jasmine.ns.cloudflare.com.
 zume.technology.	3600	in	ns	ray.ns.cloudflare.com.
 zumit.technology.	3600	in	ns	ns53.domaincontrol.com.
 zumit.technology.	3600	in	ns	ns54.domaincontrol.com.
-zumuco.technology.	3600	in	ns	ns1.kardoshost.com.
-zumuco.technology.	3600	in	ns	ns2.kardoshost.com.
+zumuco.technology.	3600	in	ns	ns1.dyna-ns.net.
+zumuco.technology.	3600	in	ns	ns2.dyna-ns.net.
 zumzum.technology.	3600	in	ns	ns47.domaincontrol.com.
 zumzum.technology.	3600	in	ns	ns48.domaincontrol.com.
 zuniga.technology.	3600	in	ds	2371 13 2 3367EDE9922A057B3E4E1EB4151F5C57B0BFC326F0F94D8AA2DA854D1BDE7158
@@ -94136,4 +94123,4 @@ zzz.technology.	3600	in	ds	2371 13 2 FB4CF1CC66DEC3C568354CAA2CCBF73D3C150C15FFD
 zzz.technology.	3600	in	ns	carioca.ns.cloudflare.com.
 zzz.technology.	3600	in	ns	dylan.ns.cloudflare.com.
 zzz.technology.	3600	in	rrsig	DS 8 2 3600 20250930155810 20250909145810 48564 technology. cOoum4Dcns3plq2Y/M/ATnrlMcHJdnDLVBy61c6ZC2xaKVHH6vQ9y4I+H8bnUPBDCN9+MFUlJeo7auAkvQpZK4bbylTpn7M9gXfGkpkZSheXsu2NiRkmB2TJ4cOHHLNGlwGna76T4ukvN5g5NuXNvdVohkARYWd9yqORSw/48Xo=
-technology.	3600	in	soa	v0n0.nic.technology. hostmaster.donuts.email. 1757553223 7200 900 1209600 3600
+technology.	3600	in	soa	v0n0.nic.technology. hostmaster.donuts.email. 1757639436 7200 900 1209600 3600
