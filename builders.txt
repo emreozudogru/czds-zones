@@ -1,4 +1,4 @@
-builders.	3600	in	soa	v0n0.nic.builders. hostmaster.donuts.email. 1757551974 7200 900 1209600 3600
+builders.	3600	in	soa	v0n0.nic.builders. hostmaster.donuts.email. 1757638820 7200 900 1209600 3600
 00582.builders.	3600	in	ns	ns1.dnsip.com.
 00582.builders.	3600	in	ns	ns2.dnsip.com.
 00637.builders.	3600	in	ns	ns1.dnsip.com.
@@ -358,7 +358,7 @@ builders.	3600	in	soa	v0n0.nic.builders. hostmaster.donuts.email. 1757551974 720
 1b.builders.	3600	in	ns	ns03.domaincontrol.com.
 1b.builders.	3600	in	ns	ns04.domaincontrol.com.
 1bfg6pkckpa69u2kfh5hghtjmgb4e9gl.builders.	3600	in	nsec3	1 1 0 73 1EN9NIOKABRSOLLLA4A3FB7RMUVT9T96 NS SOA RRSIG DNSKEY NSEC3PARAM
-1bfg6pkckpa69u2kfh5hghtjmgb4e9gl.builders.	3600	in	rrsig	NSEC3 8 2 3600 20251002005626 20250910235626 63591 builders. 7b9LWQvJCQ7F4X75eUSud+dG2BOS39md3Tv/cQBC/uWXUztLi+EIMD4SpdoAb1JtyfEpyokrlpsEwH6cyKU4gkMbsj4Fv8+DRWbI73GGMHOB9DBXHhGuKJxUhYo01hlTjZx9AwxilEr1o7BQgwms6u4F9nSCPg98OpkvTJrV6OQ=
+1bfg6pkckpa69u2kfh5hghtjmgb4e9gl.builders.	3600	in	rrsig	NSEC3 8 2 3600 20251003010339 20250912000339 63591 builders. YpGthRMyFxFwPR5Wnmey2EgLp1OKufj2OwBi2XJ9uqYwWlHh6+rGCvLPOoxemy+oUbsGA9uNm9+nir6FEYYOeKpt4WXUUku2msyLv/9w4zDlU2GJ7fwrvhW4RK3w9oTASZ789CIaqeRl25x3ihQ3+Er+0fIBJ2fzZpde5SWQgXw=
 1bhk.builders.	3600	in	ns	ns1.dyna-ns.net.
 1bhk.builders.	3600	in	ns	ns2.dyna-ns.net.
 1brand.builders.	3600	in	ns	ns1.tld-ns.net.
@@ -2184,6 +2184,10 @@ ai-business.builders.	3600	in	ns	curitiba.ns.porkbun.com.
 ai-business.builders.	3600	in	ns	fortaleza.ns.porkbun.com.
 ai-business.builders.	3600	in	ns	maceio.ns.porkbun.com.
 ai-business.builders.	3600	in	ns	salvador.ns.porkbun.com.
+ai-content.builders.	3600	in	ns	curitiba.ns.porkbun.com.
+ai-content.builders.	3600	in	ns	fortaleza.ns.porkbun.com.
+ai-content.builders.	3600	in	ns	maceio.ns.porkbun.com.
+ai-content.builders.	3600	in	ns	salvador.ns.porkbun.com.
 ai-marketing.builders.	3600	in	ns	curitiba.ns.porkbun.com.
 ai-marketing.builders.	3600	in	ns	fortaleza.ns.porkbun.com.
 ai-marketing.builders.	3600	in	ns	maceio.ns.porkbun.com.
@@ -2220,6 +2224,10 @@ aibusiness.builders.	3600	in	ns	curitiba.ns.porkbun.com.
 aibusiness.builders.	3600	in	ns	fortaleza.ns.porkbun.com.
 aibusiness.builders.	3600	in	ns	maceio.ns.porkbun.com.
 aibusiness.builders.	3600	in	ns	salvador.ns.porkbun.com.
+aicontent.builders.	3600	in	ns	curitiba.ns.porkbun.com.
+aicontent.builders.	3600	in	ns	fortaleza.ns.porkbun.com.
+aicontent.builders.	3600	in	ns	maceio.ns.porkbun.com.
+aicontent.builders.	3600	in	ns	salvador.ns.porkbun.com.
 aifirst.builders.	3600	in	ds	2371 13 2 C276E8F6B766181DA629ECFA50953D48D394E6B1ECA99F32A97D7D455291E8F1
 aifirst.builders.	3600	in	ns	elle.ns.cloudflare.com.
 aifirst.builders.	3600	in	ns	will.ns.cloudflare.com.
@@ -3811,8 +3819,8 @@ bone.builders.	3600	in	ns	dns101.register.com.
 bone.builders.	3600	in	ns	dns102.register.com.
 bonewicks.builders.	3600	in	ns	ns53.domaincontrol.com.
 bonewicks.builders.	3600	in	ns	ns54.domaincontrol.com.
-bong.builders.	3600	in	ns	ns1.bodis.com.
-bong.builders.	3600	in	ns	ns2.bodis.com.
+bong.builders.	3600	in	ns	ns1.dns-redirect.com.
+bong.builders.	3600	in	ns	ns2.dns-redirect.com.
 book-my-home.builders.	3600	in	ns	dns15.parkpage.foundationapi.com.
 book-my-home.builders.	3600	in	ns	dns16.parkpage.foundationapi.com.
 book.builders.	3600	in	ns	ns1.sedoparking.com.
@@ -4211,7 +4219,7 @@ builders.	3600	in	nsec3param	1 0 0 73
 builders.	3600	in	rrsig	DNSKEY 8 1 3600 20250930152157 20250909142157 65089 builders. bcwpp/idCL6FnAjwYDjpU5xRsnSPsgy800vrK/2aSCUXLCh2TsNdXKMvLwLGUuq8kmWB8tJUwB8X55C+FxGpLIRSJCZgZ9TdOVIxsYR2sY5vRJ9yXVGfQuQKzvXx16tfRjS4iwjFkB0ZgDyIJig7QOYhVobGgwj25scETJnU/i1P/QFLjibfgeKzJdLdmxrI/dKY+KMOGvJ5MHFFP2s6ejRbEWhgqZf6Bl5sUTjd7UAZ7nI2xUOMQDg50Md8v9PvmVhTTLHLHIfz/KRa9bQuXCLfoiy7TNwYRF3Jobh/hOxu9x97r2+sfV1Onl+5TDUKILOwf8jKjHvR1THYTXej2Q==
 builders.	3600	in	rrsig	NS 8 1 3600 20250930152157 20250909142157 63591 builders. wPukYtBVxnq3GjuikoDhWrTD7dkzY6fu7/GOBl8JEF+nPKYywE4ZFGW5JzWl4gveFK0YRynt7NU+R51OeNe/vDNuCma/0cqf/bAzOT1OQrhXzLIwL2IhzclI9l1xuaY3453xgIWx/m5zfXcvltzgZ83fBFlfVZ28T2jmPnR2zVU=
 builders.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930152157 20250909142157 63591 builders. mMDxQkivZSrm7iEy4mv11Wx00V92fjSWlYsVmfgCg2WYbcVJ5sy8odmwiGoIwEmXkSeuXELkf2paxrA7O/arWTOoIwxXhj8b6o6MoKtYSA1t/jEDOdaHx6z1RqMyS+fdrLOg1zN9gaKEj/IFuJRbbNcwf8+qG2pOwWebLhB2O8A=
-builders.	3600	in	rrsig	SOA 8 1 3600 20251002005626 20250910235626 63591 builders. SdeflqrohujeRS/COEgBfjCUaDCbkxSfRYS1Exum4DRA/A+ieqp6wcHPF0sfxkG9ViuUA9YKT9/cMfVtktY0tC66qtY735j2vFkZFE9PfZMEZuzD0DM1rneaurLd6b6Nph4fFtivWI0sy50TFQyWe2kfK5s2o3w9roVBDZ2MjJI=
+builders.	3600	in	rrsig	SOA 8 1 3600 20251003010339 20250912000339 63591 builders. DK9xx8mib7EUOtum8ZGLC51Z96tQdXN0K3Sfngc6S3YPph0rYwJ8PfQ/a3JLoLJ/pH+Lj/wuOsJaLRtObHDVDXyOxfSrplw+0daM6c8WNB5HBHzNchUBCl2IZ16MuoLDD7BBSQsk5aZiQoUVBL1GLogkl6TGfFd70ruSUPIKJ6U=
 builders.builders.	3600	in	ns	ns1.dyna-ns.net.
 builders.builders.	3600	in	ns	ns2.dyna-ns.net.
 builders2.builders.	3600	in	ns	ns-cloud-d1.googledomains.com.
@@ -4641,8 +4649,8 @@ certifiedcloud.builders.	3600	in	ns	ns-332.awsdns-41.com.
 certifiedcloud.builders.	3600	in	ns	ns-829.awsdns-39.net.
 certus.builders.	3600	in	ns	amir.ns.cloudflare.com.
 certus.builders.	3600	in	ns	bailey.ns.cloudflare.com.
-cex.builders.	3600	in	ns	ns5.afternic.com.
-cex.builders.	3600	in	ns	ns6.afternic.com.
+cex.builders.	3600	in	ns	launch1.spaceship.net.
+cex.builders.	3600	in	ns	launch2.spaceship.net.
 cfo.builders.	3600	in	ns	ns15.domaincontrol.com.
 cfo.builders.	3600	in	ns	ns16.domaincontrol.com.
 cfosinweb3.builders.	3600	in	ns	ns1.dyna-ns.net.
@@ -5157,6 +5165,10 @@ contractorbusiness.builders.	3600	in	ns	dns1.registrar-servers.com.
 contractorbusiness.builders.	3600	in	ns	dns2.registrar-servers.com.
 contracts.builders.	3600	in	ns	lee.ns.cloudflare.com.
 contracts.builders.	3600	in	ns	walk.ns.cloudflare.com.
+convergence.builders.	3600	in	ns	curitiba.ns.porkbun.com.
+convergence.builders.	3600	in	ns	fortaleza.ns.porkbun.com.
+convergence.builders.	3600	in	ns	maceio.ns.porkbun.com.
+convergence.builders.	3600	in	ns	salvador.ns.porkbun.com.
 conversion.builders.	3600	in	ds	2656 8 2 210BFB8D1708B110547572CC220A7B85D76838DAB48BBAD054C7A73AD49D7E74
 conversion.builders.	3600	in	ns	ns-cloud-d1.googledomains.com.
 conversion.builders.	3600	in	ns	ns-cloud-d2.googledomains.com.
@@ -5761,9 +5773,8 @@ degen.builders.	3600	in	ns	ns1.dan.com.
 degen.builders.	3600	in	ns	ns2.dan.com.
 delivery.builders.	3600	in	ns	ns1-coming-soon.sav.com.
 delivery.builders.	3600	in	ns	ns2-coming-soon.sav.com.
-delta.builders.	3600	in	ns	ns5.afternic.com.
-delta.builders.	3600	in	ns	ns6.afternic.com.
-delta.builders.	3600	in	ns	verification-myqi9kwwiuvk7qptrjxnvx.ns101.verify.hn.
+delta.builders.	3600	in	ns	launch1.spaceship.net.
+delta.builders.	3600	in	ns	launch2.spaceship.net.
 dem.builders.	3600	in	ns	ns01.cashparking.com.
 dem.builders.	3600	in	ns	ns02.cashparking.com.
 demac.builders.	3600	in	ns	ns1.crazydomains.com.
@@ -6064,8 +6075,6 @@ document.builders.	3600	in	ns	ns1.afternic.com.
 document.builders.	3600	in	ns	ns2.afternic.com.
 documenti.builders.	3600	in	ns	ns1.dns-parking.com.
 documenti.builders.	3600	in	ns	ns2.dns-parking.com.
-doge.builders.	3600	in	ns	ns1-expired.sav.com.
-doge.builders.	3600	in	ns	ns2-expired.sav.com.
 dogecoin.builders.	3600	in	ns	ns49.domaincontrol.com.
 dogecoin.builders.	3600	in	ns	ns50.domaincontrol.com.
 dojo.builders.	3600	in	ns	mona.ns.cloudflare.com.
@@ -6943,8 +6952,8 @@ expo.builders.	3600	in	ns	dns17.ovh.net.
 expo.builders.	3600	in	ns	ns17.ovh.net.
 exquisite.builders.	3600	in	ns	dns1.registrar-servers.com.
 exquisite.builders.	3600	in	ns	dns2.registrar-servers.com.
-extension.builders.	3600	in	ns	ns1.bodis.com.
-extension.builders.	3600	in	ns	ns2.bodis.com.
+extension.builders.	3600	in	ns	ns1.dns-redirect.com.
+extension.builders.	3600	in	ns	ns2.dns-redirect.com.
 ezestimate.builders.	3600	in	ns	alberto.ns.cloudflare.com.
 ezestimate.builders.	3600	in	ns	cass.ns.cloudflare.com.
 ezulwini.builders.	3600	in	ns	ns1.tld-ns.net.
@@ -7736,8 +7745,8 @@ ghl.builders.	3600	in	ns	maceio.ns.porkbun.com.
 ghl.builders.	3600	in	ns	salvador.ns.porkbun.com.
 ghost.builders.	3600	in	ns	augustus.ns.cloudflare.com.
 ghost.builders.	3600	in	ns	laura.ns.cloudflare.com.
-giant.builders.	3600	in	ns	ns5.afternic.com.
-giant.builders.	3600	in	ns	ns6.afternic.com.
+giant.builders.	3600	in	ns	launch1.spaceship.net.
+giant.builders.	3600	in	ns	launch2.spaceship.net.
 giantwheel.builders.	3600	in	ns	nsn1.mijndomein.nl.
 giantwheel.builders.	3600	in	ns	nsn2.mijndomein.nl.
 gibson.builders.	3600	in	ns	ns-uk.1and1-dns.biz.
@@ -8184,8 +8193,8 @@ hargrave.builders.	3600	in	ns	ns81.worldnic.com.
 hargrave.builders.	3600	in	ns	ns82.worldnic.com.
 harmony-r.builders.	3600	in	ns	jon.quicns.com.
 harmony-r.builders.	3600	in	ns	kevin.quicns.com.
-harmony.builders.	3600	in	ns	ns1.bodis.com.
-harmony.builders.	3600	in	ns	ns2.bodis.com.
+harmony.builders.	3600	in	ns	ns1.dns-redirect.com.
+harmony.builders.	3600	in	ns	ns2.dns-redirect.com.
 harmonyhomes.builders.	3600	in	ns	ns01.domaincontrol.com.
 harmonyhomes.builders.	3600	in	ns	ns02.domaincontrol.com.
 harrington.builders.	3600	in	ns	ns67.domaincontrol.com.
@@ -8884,8 +8893,8 @@ incredible.builders.	3600	in	ns	dns1.registrar-servers.com.
 incredible.builders.	3600	in	ns	dns2.registrar-servers.com.
 independent.builders.	3600	in	ns	ns1.dns-redirect.com.
 independent.builders.	3600	in	ns	ns2.dns-redirect.com.
-index.builders.	3600	in	ns	ns5.afternic.com.
-index.builders.	3600	in	ns	ns6.afternic.com.
+index.builders.	3600	in	ns	launch1.spaceship.net.
+index.builders.	3600	in	ns	launch2.spaceship.net.
 indie.builders.	3600	in	ns	etta.ns.cloudflare.com.
 indie.builders.	3600	in	ns	rob.ns.cloudflare.com.
 industrialdrone.builders.	3600	in	ns	ns1.theuavchannel.com.
@@ -9043,8 +9052,6 @@ intercom.builders.	3600	in	ns	ns-1342.awsdns-39.org.
 intercom.builders.	3600	in	ns	ns-148.awsdns-18.com.
 intercom.builders.	3600	in	ns	ns-1611.awsdns-09.co.uk.
 intercom.builders.	3600	in	ns	ns-975.awsdns-57.net.
-interexter.builders.	3600	in	ns	dns101.registrar-servers.com.
-interexter.builders.	3600	in	ns	dns102.registrar-servers.com.
 interface.builders.	3600	in	ns	dns100.ovh.net.
 interface.builders.	3600	in	ns	ns100.ovh.net.
 interior.builders.	3600	in	ns	ns1.bdm.microsoftonline.com.
@@ -9988,8 +9995,8 @@ lamontagne.builders.	3600	in	ns	pdns11.domaincontrol.com.
 lamontagne.builders.	3600	in	ns	pdns12.domaincontrol.com.
 lanarkshire.builders.	3600	in	ns	elmo.ns.cloudflare.com.
 lanarkshire.builders.	3600	in	ns	val.ns.cloudflare.com.
-land.builders.	3600	in	ns	ns1.atom.com.
-land.builders.	3600	in	ns	ns2.atom.com.
+land.builders.	3600	in	ns	ns1-expired.sav.com.
+land.builders.	3600	in	ns	ns2-expired.sav.com.
 landcouture.builders.	3600	in	ns	ns71.domaincontrol.com.
 landcouture.builders.	3600	in	ns	ns72.domaincontrol.com.
 landgroup.builders.	3600	in	ns	dns1.registrar-servers.com.
@@ -11340,6 +11347,8 @@ modulus.builders.	3600	in	ns	ns1bdg.name.com.
 modulus.builders.	3600	in	ns	ns2jrt.name.com.
 modulus.builders.	3600	in	ns	ns3qtx.name.com.
 modulus.builders.	3600	in	ns	ns4cjp.name.com.
+mohawkflooring.builders.	3600	in	ns	edward.ns.cloudflare.com.
+mohawkflooring.builders.	3600	in	ns	lovisa.ns.cloudflare.com.
 mold.builders.	3600	in	ns	dns1.register.com.
 mold.builders.	3600	in	ns	dns2.register.com.
 mold.builders.	3600	in	ns	ns93.worldnic.com.
@@ -11778,8 +11787,8 @@ network.builders.	3600	in	ns	ns2.dnsowl.com.
 network.builders.	3600	in	ns	ns3.dnsowl.com.
 netzero.builders.	3600	in	ns	ns1.netzero.builders.
 netzero.builders.	3600	in	ns	ns2.netzero.builders.
-neural.builders.	3600	in	ns	ns5.afternic.com.
-neural.builders.	3600	in	ns	ns6.afternic.com.
+neural.builders.	3600	in	ns	launch1.spaceship.net.
+neural.builders.	3600	in	ns	launch2.spaceship.net.
 neuro.builders.	3600	in	ns	pdns13.domaincontrol.com.
 neuro.builders.	3600	in	ns	pdns14.domaincontrol.com.
 neurodivergent.builders.	3600	in	ns	ns-1036.awsdns-01.org.
@@ -12489,6 +12498,8 @@ optimized.builders.	3600	in	ns	curitiba.ns.porkbun.com.
 optimized.builders.	3600	in	ns	fortaleza.ns.porkbun.com.
 optimized.builders.	3600	in	ns	maceio.ns.porkbun.com.
 optimized.builders.	3600	in	ns	salvador.ns.porkbun.com.
+opulent.builders.	3600	in	ns	ns1.dns-redirect.com.
+opulent.builders.	3600	in	ns	ns2.dns-redirect.com.
 opus.builders.	3600	in	ns	ns45.domaincontrol.com.
 opus.builders.	3600	in	ns	ns46.domaincontrol.com.
 orca.builders.	3600	in	ds	29675 8 2 F07B9CAC4C2C4C96F63F4C6AA91C9C201FAFA271B0F0808D961DA607BB35F85B
@@ -13367,8 +13378,8 @@ profitable.builders.	3600	in	ns	curitiba.ns.porkbun.com.
 profitable.builders.	3600	in	ns	fortaleza.ns.porkbun.com.
 profitable.builders.	3600	in	ns	maceio.ns.porkbun.com.
 profitable.builders.	3600	in	ns	salvador.ns.porkbun.com.
-progeny.builders.	3600	in	ns	ns5.afternic.com.
-progeny.builders.	3600	in	ns	ns6.afternic.com.
+progeny.builders.	3600	in	ns	launch1.spaceship.net.
+progeny.builders.	3600	in	ns	launch2.spaceship.net.
 progress.builders.	3600	in	ns	ns4.wixdns.net.
 progress.builders.	3600	in	ns	ns5.wixdns.net.
 progressclaim.builders.	3600	in	ns	ns-1166.awsdns-17.org.
@@ -13498,8 +13509,6 @@ public.builders.	3600	in	ns	ns2.afternic.com.
 public.builders.	3600	in	ns	verification-urj2ap2akmgcchkhharttb.ns101.verify.hn.
 pulzaar.builders.	3600	in	ns	dns1.registrar-servers.com.
 pulzaar.builders.	3600	in	ns	dns2.registrar-servers.com.
-pump.builders.	3600	in	ns	ns1-expired.sav.com.
-pump.builders.	3600	in	ns	ns2-expired.sav.com.
 pureprecision.builders.	3600	in	ns	ns59.domaincontrol.com.
 pureprecision.builders.	3600	in	ns	ns60.domaincontrol.com.
 purpose.builders.	3600	in	ns	ns29.domaincontrol.com.
@@ -13590,8 +13599,8 @@ quant.builders.	3600	in	ns	curitiba.ns.porkbun.com.
 quant.builders.	3600	in	ns	fortaleza.ns.porkbun.com.
 quant.builders.	3600	in	ns	maceio.ns.porkbun.com.
 quant.builders.	3600	in	ns	salvador.ns.porkbun.com.
-quantum.builders.	3600	in	ns	ns5.afternic.com.
-quantum.builders.	3600	in	ns	ns6.afternic.com.
+quantum.builders.	3600	in	ns	launch1.spaceship.net.
+quantum.builders.	3600	in	ns	launch2.spaceship.net.
 quantumtech.builders.	3600	in	ns	ns1.dns-parking.com.
 quantumtech.builders.	3600	in	ns	ns2.dns-parking.com.
 quarks.builders.	3600	in	ds	47177 8 2 7A404D459B7D2E17C4E732679500A214A176322BCF668F4256FDCD944BDEC3C8
@@ -13863,6 +13872,8 @@ regalhomes.builders.	3600	in	ns	ns03.squarespacedns.com.
 regalhomes.builders.	3600	in	ns	ns04.squarespacedns.com.
 regalresidence.builders.	3600	in	ns	eva.ns.cloudflare.com.
 regalresidence.builders.	3600	in	ns	phil.ns.cloudflare.com.
+regenworld.builders.	3600	in	ns	ns31.domaincontrol.com.
+regenworld.builders.	3600	in	ns	ns32.domaincontrol.com.
 regtech.builders.	3600	in	ns	ns-1269.awsdns-30.org.
 regtech.builders.	3600	in	ns	ns-177.awsdns-22.com.
 regtech.builders.	3600	in	ns	ns-1989.awsdns-56.co.uk.
@@ -14115,9 +14126,8 @@ rockcliffe.builders.	3600	in	ns	ns27.domaincontrol.com.
 rockcliffe.builders.	3600	in	ns	ns28.domaincontrol.com.
 rockcreek.builders.	3600	in	ns	ns27.worldnic.com.
 rockcreek.builders.	3600	in	ns	ns28.worldnic.com.
-rocket.builders.	3600	in	ns	ns5.afternic.com.
-rocket.builders.	3600	in	ns	ns6.afternic.com.
-rocket.builders.	3600	in	ns	verification-myqi9kwwiuvk7qptrjxnvx.ns101.verify.hn.
+rocket.builders.	3600	in	ns	launch1.spaceship.net.
+rocket.builders.	3600	in	ns	launch2.spaceship.net.
 rockford.builders.	3600	in	ns	dns1.name-services.com.
 rockford.builders.	3600	in	ns	dns2.name-services.com.
 rockford.builders.	3600	in	ns	dns3.name-services.com.
@@ -14906,8 +14916,8 @@ smartdesign.builders.	3600	in	ns	ns53.domaincontrol.com.
 smartdesign.builders.	3600	in	ns	ns54.domaincontrol.com.
 smarter.builders.	3600	in	ns	ns01.cashparking.com.
 smarter.builders.	3600	in	ns	ns02.cashparking.com.
-smarthome.builders.	3600	in	ns	ns5.afternic.com.
-smarthome.builders.	3600	in	ns	ns6.afternic.com.
+smarthome.builders.	3600	in	ns	launch1.spaceship.net.
+smarthome.builders.	3600	in	ns	launch2.spaceship.net.
 smarthouse.builders.	3600	in	ns	dns1.registrar-servers.com.
 smarthouse.builders.	3600	in	ns	dns2.registrar-servers.com.
 smartmirror.builders.	3600	in	ns	ns1.monikerdns.net.
@@ -15375,8 +15385,8 @@ story.builders.	3600	in	ns	ns1.afternic.com.
 story.builders.	3600	in	ns	ns2.afternic.com.
 storybook.builders.	3600	in	ns	ns45.domaincontrol.com.
 storybook.builders.	3600	in	ns	ns46.domaincontrol.com.
-strata.builders.	3600	in	ns	ns5.afternic.com.
-strata.builders.	3600	in	ns	ns6.afternic.com.
+strata.builders.	3600	in	ns	launch1.spaceship.net.
+strata.builders.	3600	in	ns	launch2.spaceship.net.
 strategic.builders.	3600	in	ns	ns63.domaincontrol.com.
 strategic.builders.	3600	in	ns	ns64.domaincontrol.com.
 strategy.builders.	3600	in	ns	ns1.dnsowl.com.
@@ -15432,6 +15442,8 @@ stupid.builders.	3600	in	ds	58850 13 2 77F9AA9919CAAE6B3ECC4345FCF367670F9C73014
 stupid.builders.	3600	in	ns	ns01.one.com.
 stupid.builders.	3600	in	ns	ns02.one.com.
 stupid.builders.	3600	in	rrsig	DS 8 2 3600 20250930152157 20250909142157 63591 builders. 2QmErJnMBxrbZmQYU2koALxFD3eW63+hT2Y+m15nOqB0GpOzIy677toZO5Cxcaa2q8z/wXGbzh21723K9syNR9H309twSCo7cTbLldqkfy9QFQ4/DnwWIkJFkE+k4SxyLxQt5aQr7yFjySZDCV8cuASP7HL3QcGDadoLaAAyBoQ=
+stvincent.builders.	3600	in	ns	ns25.domaincontrol.com.
+stvincent.builders.	3600	in	ns	ns26.domaincontrol.com.
 stx.builders.	3600	in	ns	dns1.registrar-servers.com.
 stx.builders.	3600	in	ns	dns2.registrar-servers.com.
 suave.builders.	3600	in	ns	dns1.registrar-servers.com.
@@ -16320,8 +16332,11 @@ trammellcrow.builders.	3600	in	ns	ns39.domaincontrol.com.
 trammellcrow.builders.	3600	in	ns	ns40.domaincontrol.com.
 trammellcrowresidential.builders.	3600	in	ns	ns39.domaincontrol.com.
 trammellcrowresidential.builders.	3600	in	ns	ns40.domaincontrol.com.
-transaction.builders.	3600	in	ns	ns1.amenworld.com.
-transaction.builders.	3600	in	ns	ns2.amenworld.com.
+transaction.builders.	3600	in	ns	dns1.name-services.com.
+transaction.builders.	3600	in	ns	dns2.name-services.com.
+transaction.builders.	3600	in	ns	dns3.name-services.com.
+transaction.builders.	3600	in	ns	dns4.name-services.com.
+transaction.builders.	3600	in	ns	dns5.name-services.com.
 transmission.builders.	3600	in	ns	ns39.domaincontrol.com.
 transmission.builders.	3600	in	ns	ns40.domaincontrol.com.
 transparent.builders.	3600	in	ns	ns-1503.awsdns-59.org.
@@ -16947,8 +16962,8 @@ volans.builders.	3600	in	ds	2371 13 2 312D611348F21010CC75DF513EE2EC917716E98A64
 volans.builders.	3600	in	ns	bonnie.ns.cloudflare.com.
 volans.builders.	3600	in	ns	graham.ns.cloudflare.com.
 volans.builders.	3600	in	rrsig	DS 8 2 3600 20250930152157 20250909142157 63591 builders. nlIlaxO1OtEAx7PetdNYUmk+YF4OJcwTKOHFi6mZeHrutDzj3xz3Yle07TpshjYJFkfy4xvx/ml7bVjIhXPjLscal4Ne6ISFW45Pk6OdVOxXmMJeyhIiCmLINyZs0NcZ3kY65sIjTQOlmgOPD0l2p4FK0GFz2/wfT0X68Iqg/Ec=
-volt.builders.	3600	in	ns	ns5.afternic.com.
-volt.builders.	3600	in	ns	ns6.afternic.com.
+volt.builders.	3600	in	ns	launch1.spaceship.net.
+volt.builders.	3600	in	ns	launch2.spaceship.net.
 volusion.builders.	3600	in	ns	cheryl.ns.cloudflare.com.
 volusion.builders.	3600	in	ns	kai.ns.cloudflare.com.
 vortex.builders.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -17689,4 +17704,4 @@ zwusa.builders.	3600	in	ns	ns03.domaincontrol.com.
 zwusa.builders.	3600	in	ns	ns04.domaincontrol.com.
 zzyzx.builders.	3600	in	ns	ns75.domaincontrol.com.
 zzyzx.builders.	3600	in	ns	ns76.domaincontrol.com.
-builders.	3600	in	soa	v0n0.nic.builders. hostmaster.donuts.email. 1757551974 7200 900 1209600 3600
+builders.	3600	in	soa	v0n0.nic.builders. hostmaster.donuts.email. 1757638820 7200 900 1209600 3600
