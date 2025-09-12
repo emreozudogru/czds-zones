@@ -1,4 +1,4 @@
-market.	3600	in	soa	v0n0.nic.market. hostmaster.donuts.email. 1757552650 7200 900 1209600 3600
+market.	3600	in	soa	v0n0.nic.market. hostmaster.donuts.email. 1757639494 7200 900 1209600 3600
 0.market.	3600	in	ns	arvind.ns.cloudflare.com.
 0.market.	3600	in	ns	ryleigh.ns.cloudflare.com.
 000.market.	3600	in	ns	lionel.dnspod.net.
@@ -803,6 +803,8 @@ market.	3600	in	soa	v0n0.nic.market. hostmaster.donuts.email. 1757552650 7200 90
 4jjmql3ar87qqg5f56jcrb64bn66t4u6.market.	3600	in	rrsig	NSEC3 8 2 3600 20250930153921 20250909143921 9519 market. 17tHaMhFkjAqdm/IX4AFjI2V5F2yAEyhQ9ssBzty9x6uiHo/ab/nyk4rByHDYj8uLKl//HhiHwDSuW+7RP9A4XEZ9rgdsFJd/9BaXV6OhRabDgctSJRn9rtGAl4Krvoi9MLGoMafUT8jiSTgV0ikGSmi7T5PA3Hj4HxK4pHycF4=
 4khqav31cq0ulrn31pap1ulkl5a5f4eb.market.	3600	in	nsec3	1 1 0 73 4L6A5VV89E4NS2FRMAAUBO3U44150UVQ NS DS RRSIG
 4khqav31cq0ulrn31pap1ulkl5a5f4eb.market.	3600	in	rrsig	NSEC3 8 2 3600 20250930153921 20250909143921 9519 market. 8o7lMJgkZzxTKwVrAGi/5zPKLY8o50oH3DQLY+sbjIquP5ZQmKQ4wFx3nHwK7M8ff0aGqI/626c/gT6SRgzPRZiuFgs5HhEkLyUUB+76eE/B/WMH5cPOExmaawRqNS3uaRHC6EmRvDd1XeCK+GoKKUzGmhbfdq32tZM8xdy9PrU=
+4l.market.	3600	in	ns	ns1.reg.ru.
+4l.market.	3600	in	ns	ns2.reg.ru.
 4l6a5vv89e4ns2frmaaubo3u44150uvq.market.	3600	in	nsec3	1 1 0 73 4L8VF9O4UMQL1SMBG6OHA1HDVR11AD6J NS DS RRSIG
 4l6a5vv89e4ns2frmaaubo3u44150uvq.market.	3600	in	rrsig	NSEC3 8 2 3600 20250930153921 20250909143921 9519 market. s9nT+TM+8cXkh2TGPjSMMioQsptblU6v8CYRv38XnoXURQOfa+nAraQ0QtIwP69XwgbVQFMs3kIcD2ZYmdAlcvaKwVXRJxaDSdD2jfRykiyFpJSbC4hz3HsjHVVD4xj+WQauNC18u/mCHA1YhjJGGFuIsFi2yonEdNNgqtHN1Jk=
 4l8vf9o4umql1smbg6oha1hdvr11ad6j.market.	3600	in	nsec3	1 1 0 73 4NEGNT3T850E9P132N8F2JLOEPDVJE7T NS DS RRSIG
@@ -1684,12 +1686,11 @@ additive.market.	3600	in	ns	ns4.myhostadmin.net.
 addng.market.	3600	in	ns	amir.ns.cloudflare.com.
 addng.market.	3600	in	ns	beth.ns.cloudflare.com.
 addon.market.	3600	in	ds	1171 8 2 C850D29428624BFC27F6F5615F5CB2728750F5009595033DE9C32F3673D16929
-addon.market.	3600	in	ds	40690 8 2 0150CFC3F86B122A631385DADC3F2A017A2A6BABCA0783E7EAA6C2C2BDD21FA9
 addon.market.	3600	in	ns	ns1.dnsimple.com.
 addon.market.	3600	in	ns	ns2.dnsimple-edge.net.
 addon.market.	3600	in	ns	ns3.dnsimple.com.
 addon.market.	3600	in	ns	ns4.dnsimple-edge.org.
-addon.market.	3600	in	rrsig	DS 8 2 3600 20250930153921 20250909143921 9519 market. V+ueyn+UFRS9NgE9ajLwE8KOv5/16vtdOAHwhYwDmgsRWRx/ZpeM7/9gabUQOvK0N5UexylNkfUzMwz5QYl7XzdvNoDpzsKA2F3COybZXK2VQRi4lB5nEhjGAZ5v02j94K6y4zWGG9SsZQpHAm3UqJQ9vemC2ZQ/q7ZUNYAEOOQ=
+addon.market.	3600	in	rrsig	DS 8 2 3600 20251002204020 20250911194020 9519 market. K+gIOoFWGiKewzPgFR72mVDqHzRMAreKuSc5QP/KgbVMKJde2X468OWjje3ET7vySat6qp49xnVE6cTAXGscj5BvvHWudmBersRFgUWajfMHLWAd5I7rNr8LZUxye4nMdW6vucukeM42G3N3m3pBDbSpz1k8EOdlu7g1BlAJMPQ=
 addons.market.	3600	in	ns	austin.ns.cloudflare.com.
 addons.market.	3600	in	ns	sara.ns.cloudflare.com.
 adds.perla.market.	3600	in	a	185.88.152.152
@@ -2878,6 +2879,8 @@ allwith.market.	3600	in	ns	ns3.whoisdomain.kr.
 allwith.market.	3600	in	ns	ns4.whoisdomain.kr.
 allworld.market.	3600	in	ns	ns33.domaincontrol.com.
 allworld.market.	3600	in	ns	ns34.domaincontrol.com.
+ally.market.	3600	in	ns	ns1.expired.brandsight-dns.com.
+ally.market.	3600	in	ns	ns2.expired.brandsight-dns.com.
 alma.market.	3600	in	ns	docks17.rzone.de.
 alma.market.	3600	in	ns	shades03.rzone.de.
 almaty-toys.market.	3600	in	ns	ns1.hosting.reg.ru.
@@ -3174,8 +3177,8 @@ anal.market.	3600	in	ns	ns57.domaincontrol.com.
 anal.market.	3600	in	ns	ns58.domaincontrol.com.
 analog.market.	3600	in	ns	ns1.dns-parking.com.
 analog.market.	3600	in	ns	ns2.dns-parking.com.
-analyze.market.	3600	in	ns	dns1.registrar-servers.com.
-analyze.market.	3600	in	ns	dns2.registrar-servers.com.
+analyze.market.	3600	in	ns	dns101.registrar-servers.com.
+analyze.market.	3600	in	ns	dns102.registrar-servers.com.
 analyzer.market.	3600	in	ns	ns1.myhostadmin.net.
 analyzer.market.	3600	in	ns	ns2.myhostadmin.net.
 anamil.market.	3600	in	ns	auction.ns.planethoster.net.
@@ -3378,8 +3381,8 @@ antivirus.market.	3600	in	ns	ns1.upress.io.
 antivirus.market.	3600	in	ns	ns2.upress.io.
 anton.market.	3600	in	ns	lisa.ns.cloudflare.com.
 anton.market.	3600	in	ns	logan.ns.cloudflare.com.
-antresola.market.	3600	in	ns	ns1.kei.pl.
-antresola.market.	3600	in	ns	ns2.kei.pl.
+antresola.market.	3600	in	ns	ns3.expirationwarning.net.
+antresola.market.	3600	in	ns	ns7.expirationwarning.net.
 anuvu.market.	3600	in	ns	pdns13.domaincontrol.com.
 anuvu.market.	3600	in	ns	pdns14.domaincontrol.com.
 anvelope.market.	3600	in	ns	ns1.hover.com.
@@ -3811,8 +3814,6 @@ arize.market.	3600	in	ns	ns-cloud-e2.googledomains.com.
 arize.market.	3600	in	ns	ns-cloud-e3.googledomains.com.
 arize.market.	3600	in	ns	ns-cloud-e4.googledomains.com.
 arize.market.	3600	in	rrsig	DS 8 2 3600 20250930153921 20250909143921 9519 market. EfhsbshDDGOshIIWLxFZ/FEbKrvqjaNRdxhdL2f+vhI5I3BLpd6WiJrq/LBhj/v+fmjPkb3ngcUPckrH9mD+oy0+dI2AG9TpXvHQmCJhone/QpTCruRZP760ayqBHsAPVC6pZfh2vdcYWo/KbhB4fzHEBWX1dn+JBkx3GhqtU0s=
-arj.market.	3600	in	ns	ns1.persuk.com.
-arj.market.	3600	in	ns	ns2.persuk.com.
 ark.market.	3600	in	ns	ns1.afternic.com.
 ark.market.	3600	in	ns	ns2.afternic.com.
 ark.market.	3600	in	ns	verification-qaxpgh9dahjr9zkpwwmdzx.ns101.verify.hn.
@@ -6200,8 +6201,8 @@ biofit.market.	3600	in	ns	ns3.afraid.org.
 biofit.market.	3600	in	ns	ns4.afraid.org.
 biofood.market.	3600	in	ns	ns1.undeveloped.com.
 biofood.market.	3600	in	ns	ns2.undeveloped.com.
-biogas.market.	3600	in	ns	ns1.sedoparking.com.
-biogas.market.	3600	in	ns	ns2.sedoparking.com.
+biogas.market.	3600	in	ns	dns1.registrar-servers.com.
+biogas.market.	3600	in	ns	dns2.registrar-servers.com.
 bioheeve.market.	3600	in	ns	ns1029.ui-dns.com.
 bioheeve.market.	3600	in	ns	ns1047.ui-dns.org.
 bioheeve.market.	3600	in	ns	ns1112.ui-dns.de.
@@ -8096,18 +8097,14 @@ cancerquiz.market.	3600	in	ns	ns-1383.awsdns-44.org.
 cancerquiz.market.	3600	in	ns	ns-1615.awsdns-09.co.uk.
 cancerquiz.market.	3600	in	ns	ns-737.awsdns-28.net.
 cancerquiz.market.	3600	in	ns	ns-82.awsdns-10.com.
-canchita.market.	3600	in	ns	ns1.bodis.com.
-canchita.market.	3600	in	ns	ns2.bodis.com.
+canchita.market.	3600	in	ns	ns1.dns-redirect.com.
+canchita.market.	3600	in	ns	ns2.dns-redirect.com.
 cand.market.	3600	in	ns	dns13.hichina.com.
 cand.market.	3600	in	ns	dns14.hichina.com.
 candid.market.	3600	in	ns	alex.ns.cloudflare.com.
 candid.market.	3600	in	ns	vera.ns.cloudflare.com.
-candle.market.	3600	in	ns	ns1.myhostadmin.net.
-candle.market.	3600	in	ns	ns2.myhostadmin.net.
-candle.market.	3600	in	ns	ns3.myhostadmin.net.
-candle.market.	3600	in	ns	ns4.myhostadmin.net.
-candle.market.	3600	in	ns	ns5.myhostadmin.net.
-candle.market.	3600	in	ns	ns6.myhostadmin.net.
+candle.market.	3600	in	ns	ns1.afternic.com.
+candle.market.	3600	in	ns	ns2.afternic.com.
 candlecrush.market.	3600	in	ns	ns-cloud-d1.googledomains.com.
 candlecrush.market.	3600	in	ns	ns-cloud-d2.googledomains.com.
 candlecrush.market.	3600	in	ns	ns-cloud-d3.googledomains.com.
@@ -8526,8 +8523,8 @@ casualwear.market.	3600	in	ns	c.ns14.net.
 casualwear.market.	3600	in	ns	d.ns14.net.
 cat.market.	3600	in	ns	buck.ns.cloudflare.com.
 cat.market.	3600	in	ns	deb.ns.cloudflare.com.
-cat20.market.	3600	in	ns	dns1.registrar-servers.com.
-cat20.market.	3600	in	ns	dns2.registrar-servers.com.
+cat20.market.	3600	in	ns	dns101.registrar-servers.com.
+cat20.market.	3600	in	ns	dns102.registrar-servers.com.
 cat721.market.	3600	in	ns	ns45.domaincontrol.com.
 cat721.market.	3600	in	ns	ns46.domaincontrol.com.
 catallaxy.market.	3600	in	ns	fay.ns.cloudflare.com.
@@ -9313,6 +9310,8 @@ civil.market.	3600	in	ns	ns35.domaincontrol.com.
 civil.market.	3600	in	ns	ns36.domaincontrol.com.
 civx.market.	3600	in	ns	ns1.servconfig.com.
 civx.market.	3600	in	ns	ns2.servconfig.com.
+cj.market.	3600	in	ns	ns37.domaincontrol.com.
+cj.market.	3600	in	ns	ns38.domaincontrol.com.
 cjs7ur5ot5qfec53aemob3trvb9d2acj.market.	3600	in	nsec3	1 1 0 73 CK8COM1FKJM4919UQ7K203FRO27V5RC6 NS DS RRSIG
 cjs7ur5ot5qfec53aemob3trvb9d2acj.market.	3600	in	rrsig	NSEC3 8 2 3600 20250930153921 20250909143921 9519 market. vbB/JD2dPuzSiM//tTVeLZMq/AmvNeBNX2yI/z4WlAnP8GFNSZJ9cwukGP2PXcVHDQh8ICzL+VQGff5nR73V8rvkZerZpwSAl6C/kB1HAU34do49Rg7hH104+A1EMBACQEKS+iVB50cU69GlUg1PdFI9VDC6m2KgGogHxY2s2Ok=
 ck8com1fkjm4919uq7k203fro27v5rc6.market.	3600	in	nsec3	1 1 0 73 CM68UJ8AULOFGQ4HBNFU4IFR118MS0I2 NS DS RRSIG
@@ -11915,8 +11914,6 @@ denhaag.market.	3600	in	ns	ns1.hover.com.
 denhaag.market.	3600	in	ns	ns2.hover.com.
 denim.market.	3600	in	ns	coby.ns.cloudflare.com.
 denim.market.	3600	in	ns	jewel.ns.cloudflare.com.
-denizen.market.	3600	in	ns	dns101.registrar-servers.com.
-denizen.market.	3600	in	ns	dns102.registrar-servers.com.
 denno.market.	3600	in	ds	43324 8 2 EE5D7E799AC89E2BB75478F6B60AD5BBE1B4B80F9A41D4A08B53566CA75142CA
 denno.market.	3600	in	ns	ns-cloud-e1.googledomains.com.
 denno.market.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -12293,8 +12290,6 @@ digitaleyes.market.	3600	in	ns	ns-1416.awsdns-49.org.
 digitaleyes.market.	3600	in	ns	ns-1794.awsdns-32.co.uk.
 digitaleyes.market.	3600	in	ns	ns-276.awsdns-34.com.
 digitaleyes.market.	3600	in	ns	ns-655.awsdns-17.net.
-digitalgoods.market.	3600	in	ns	dns101.registrar-servers.com.
-digitalgoods.market.	3600	in	ns	dns102.registrar-servers.com.
 digitalhealth.market.	3600	in	ns	ns3.afternic.com.
 digitalhealth.market.	3600	in	ns	ns4.afternic.com.
 digitalhuman.market.	3600	in	ns	ns1-domain-expired.myhostadmin.net.
@@ -12549,7 +12544,7 @@ dj86ji0nqogerpls819djutnqktgj2ol.market.	3600	in	rrsig	NSEC3 8 2 3600 2025093015
 djawda.market.	3600	in	ns	ns1.youcan.shop.
 djawda.market.	3600	in	ns	ns2.youcan.shop.
 djbvfescact68tgtpg39hsasvsa2sp1n.market.	3600	in	nsec3	1 1 0 73 DKKA9M9VCM1N3RN7SQ7QMGBQ47ILNEI2 NS SOA RRSIG DNSKEY NSEC3PARAM
-djbvfescact68tgtpg39hsasvsa2sp1n.market.	3600	in	rrsig	NSEC3 8 2 3600 20251002010735 20250911000735 9519 market. HYEh1SuDB6NtodZNEnrnFVurHYWdir3QuvYOtbYZ7qwdSUzDRjmOZdj9VUwUc22aq8CkbndtxkEu/IwexutktRH/kJ+WcJykvNhQr3jgYDGK9YrdlAzqe34Ocj8NSx4YuJqKvhi3Qp5npCfv/Nd6adZDrCzZU35IdzDUQA+RrkY=
+djbvfescact68tgtpg39hsasvsa2sp1n.market.	3600	in	rrsig	NSEC3 8 2 3600 20251003011552 20250912001552 9519 market. vuwfA40kDyS3WWzDyvcLKElUK7/VICw0QvaU938TRizqamltrTxW2AXyjtBltn1uLC09PbjH3g7DnZUVyRgQ4eoITFhK8z26ShkSSbEAbU+XCJIj6au+fggpOhU4vWlz72huC25zAYBAejp3bYe5/VbSIZFvWPrmqQ4Yjfv6MYM=
 dji.market.	3600	in	ns	ns1.reg.ru.
 dji.market.	3600	in	ns	ns2.reg.ru.
 djtools.market.	3600	in	ns	ns1.r01.ru.
@@ -13849,8 +13844,6 @@ ecoex.market.	3600	in	ns	ns31.domaincontrol.com.
 ecoex.market.	3600	in	ns	ns32.domaincontrol.com.
 ecofood.market.	3600	in	ns	dnsproxy1.fm.nic.ru.
 ecofood.market.	3600	in	ns	dnsproxy2.fm.nic.ru.
-ecofutures.market.	3600	in	ns	dns101.registrar-servers.com.
-ecofutures.market.	3600	in	ns	dns102.registrar-servers.com.
 ecogreen.market.	3600	in	ns	ns1.afternic.com.
 ecogreen.market.	3600	in	ns	ns2.afternic.com.
 ecogroup.market.	3600	in	ns	ns1.beget.com.
@@ -15133,12 +15126,8 @@ every.market.	3600	in	ns	dns1.registrar-servers.com.
 every.market.	3600	in	ns	dns2.registrar-servers.com.
 everyday.market.	3600	in	ns	ns1.vercel-dns.com.
 everyday.market.	3600	in	ns	ns2.vercel-dns.com.
-everything.market.	3600	in	ds	32225 8 2 8E64A9E21DDF84002C7E79BDBBF93ACD6F870B300B14037574EB96B4F273D440
-everything.market.	3600	in	ns	ns-cloud-c1.googledomains.com.
-everything.market.	3600	in	ns	ns-cloud-c2.googledomains.com.
-everything.market.	3600	in	ns	ns-cloud-c3.googledomains.com.
-everything.market.	3600	in	ns	ns-cloud-c4.googledomains.com.
-everything.market.	3600	in	rrsig	DS 8 2 3600 20250930153921 20250909143921 9519 market. TF5yCnlYKnSNnXAs/xaXUWQmT3AWHbGBaG+4o5mhzluhSxHBdGxQcBS820bSkiy8cdKKo4e/3nlRrby+kIvZBMshSDUX+bfV/IFENSA3s4ow6siK01y+1Tjs4Yhv662CGjTuLo5JUkEYIWgoiRWV3jUULw6h6/8tC1kAz4/CW4c=
+everything.market.	3600	in	ns	carrera.ns.cloudflare.com.
+everything.market.	3600	in	ns	doug.ns.cloudflare.com.
 everythingalltogether.market.	3600	in	ns	curitiba.ns.porkbun.com.
 everythingalltogether.market.	3600	in	ns	fortaleza.ns.porkbun.com.
 everythingalltogether.market.	3600	in	ns	maceio.ns.porkbun.com.
@@ -15477,10 +15466,8 @@ f772a5tcpmkrui2pgssg0fgtped2om5c.market.	3600	in	nsec3	1 1 0 73 F7IHM3BE9I92UN7J
 f772a5tcpmkrui2pgssg0fgtped2om5c.market.	3600	in	rrsig	NSEC3 8 2 3600 20250930153921 20250909143921 9519 market. DARVgtzMw2fBWqzAjFuOI0LqQ88IEEsXwZqTxx1KluvCKy8TmFmclymxhZ3UhAZgfwJKNRCccorP+33O+Of6Z4lQQfHc2kIa4U9RXMZECN9GZlrAEteLCVcC2h83nG0HNUzUG5L6OxjzYO2xL9oG1dt5xR+iCZ09L8ODlOnnCeQ=
 f7ihm3be9i92un7jdpopd63eb2dq3iul.market.	3600	in	nsec3	1 1 0 73 F813L8Q23VBUDTCBS60NMV9CQVFIGHQF NS DS RRSIG
 f7ihm3be9i92un7jdpopd63eb2dq3iul.market.	3600	in	rrsig	NSEC3 8 2 3600 20250930153921 20250909143921 9519 market. xnPrfRjC9It8JwEy3GnsMYLc32NJNPXm8zaIcHwsqM0/TDPImqeSEWHCoHVtxN/6ywOtWDgGiuF+EpQx1jn5OfsBvJOQaoHFlzI2sxjzozYPNDtaL+m41AsaaEo5U2NG3v0WdpSvcM/w/zCfFZw4lP/wMbhejeNQzoP1p0+dOfA=
-f813l8q23vbudtcbs60nmv9cqvfighqf.market.	3600	in	nsec3	1 1 0 73 F81QEVD6JEIOLBQ1G3B4UTNEMCCHL2K7 NS DS RRSIG
-f813l8q23vbudtcbs60nmv9cqvfighqf.market.	3600	in	rrsig	NSEC3 8 2 3600 20250930153921 20250909143921 9519 market. qMoNpjp1R5XrWOlbqGb0OVNF84JJ8zBVb5ZGi8nXqY9CnG6vHmCd9xhUIopGIerzgK4O4oyKMYpAiFX3T/sUTZ3BIeQQHQL65O03z/O0yBdAe/R7uPD8G5SDQ2dXKDoCRFUd66PQdoApRysVyfPTWFFb81aTp9ADL4xRf1KMatI=
-f81qevd6jeiolbq1g3b4utnemcchl2k7.market.	3600	in	nsec3	1 1 0 73 FAP1EM6EQ478JHBPE5PNMH0QQ0L0H7EN NS DS RRSIG
-f81qevd6jeiolbq1g3b4utnemcchl2k7.market.	3600	in	rrsig	NSEC3 8 2 3600 20250930153921 20250909143921 9519 market. TqpZdLyF8RxVlwFqkjwtgCZGNQ1Flk2qPx3719vAAak2T8BvFsC5hpQVRYHd/5PqObjDQGzz7QrVPZsJLi2zBLzmePl0l/mEUqHKsAq5N+mFeZ5Pm/o2zPt5BnTic5s82wfw8pAtEGD5GT81OGTMK0sJNyfsqvF+GyS9c3tULHQ=
+f813l8q23vbudtcbs60nmv9cqvfighqf.market.	3600	in	nsec3	1 1 0 73 FAP1EM6EQ478JHBPE5PNMH0QQ0L0H7EN NS DS RRSIG
+f813l8q23vbudtcbs60nmv9cqvfighqf.market.	3600	in	rrsig	NSEC3 8 2 3600 20251002011807 20250911001807 9519 market. 1gmCQC7pLUa/VmCHK2QPzTw4h2EtSwYtCs63qAXjaauWD0QRubYQZpWK4FrmA5ejXwUGtOeCXO2N8Z216jv7NKEi+Nj6kG9IILuND0QJH4mWc8kJoMMmKZ/VIAGAQRXHcnhpCwH3I9f3Q2+Uw7xFtPJNhkvMxfrAfrqXdseXxpc=
 f9.market.	3600	in	ns	ns1.reg.ru.
 f9.market.	3600	in	ns	ns2.reg.ru.
 fa.market.	3600	in	ns	pdns13.domaincontrol.com.
@@ -15622,8 +15609,8 @@ familytree.market.	3600	in	ns	ns1063.ui-dns.biz.
 familytree.market.	3600	in	ns	ns1065.ui-dns.de.
 famoid.market.	3600	in	ns	ns01.domaincontrol.com.
 famoid.market.	3600	in	ns	ns02.domaincontrol.com.
-famous.market.	3600	in	ns	ns1.afternic.com.
-famous.market.	3600	in	ns	ns2.afternic.com.
+famous.market.	3600	in	ns	ns1-domain-expired.myhostadmin.net.
+famous.market.	3600	in	ns	ns2-domain-expired.myhostadmin.net.
 fan1.market.	3600	in	ds	48622 8 2 6264DFD19F63012B7FE3EFC6AC8135EBB439CF1EE091CC1FC29A7F9F8A4BFACE
 fan1.market.	3600	in	ns	ns-cloud-e1.googledomains.com.
 fan1.market.	3600	in	ns	ns-cloud-e2.googledomains.com.
@@ -16782,7 +16769,7 @@ fno.market.	3600	in	ns	ns-1839.awsdns-37.co.uk.
 fno.market.	3600	in	ns	ns-386.awsdns-48.com.
 fno.market.	3600	in	ns	ns-798.awsdns-35.net.
 fnsogs7dsiah0rrfgi46j0cjrbp7svg0.market.	3600	in	nsec3	1 1 0 73 FRH8VF2MTFAPIAAPL0EKCNFD5GUK63ND NS DS RRSIG
-fnsogs7dsiah0rrfgi46j0cjrbp7svg0.market.	3600	in	rrsig	NSEC3 8 2 3600 20250930153921 20250909143921 9519 market. FFfe69blWN6fZ1Lx4p4yNsdW+D+v6nvDJ880/UYIEcbWtmSKK0hHJdhF9XgM2I8i+bhXWfubasTtKQOKZV+V9Dzo/LhzJbTMnax3+/SYxCirMmz4ncTnobalQ1CztW3LqNbHeQMlGTm6KBsM2oxabG6PLbIKEL8qtrSNXdwovmk=
+fnsogs7dsiah0rrfgi46j0cjrbp7svg0.market.	3600	in	rrsig	NSEC3 8 2 3600 20251002204020 20250911194020 9519 market. eIt+YxcimBpIoezDCu5uxFuFhp6esARjWxA3aDmU3yjbSevbx0wrgA/N4u4v4x9ro4DBBAynGP0Z9Wq2vaWqvOqZJZB5/XiGObkkn/PF3v8wf7Zscybidq8maw2p+KJwu2ES+RHsX3gr6K2rvqv1WVZqBHWiHP1pTDF76YSWQAo=
 fob.market.	3600	in	ns	dns1.registrar-servers.com.
 fob.market.	3600	in	ns	dns2.registrar-servers.com.
 focusgarden.market.	3600	in	ds	230 8 2 84EAE78B21BA6BEFC7CD6FE937F77E32292F8CEE0318A7623699C158025FA8FB
@@ -17260,8 +17247,6 @@ freerange.market.	3600	in	ns	ns34.domaincontrol.com.
 freesocial.market.	3600	in	ns	ns.udag.de.
 freesocial.market.	3600	in	ns	ns.udag.net.
 freesocial.market.	3600	in	ns	ns.udag.org.
-freesources.market.	3600	in	ns	dns101.registrar-servers.com.
-freesources.market.	3600	in	ns	dns102.registrar-servers.com.
 freetime.market.	3600	in	ns	ns.masterhost.ru.
 freetime.market.	3600	in	ns	ns1.masterhost.ru.
 freetime.market.	3600	in	ns	ns2.masterhost.ru.
@@ -17730,8 +17715,8 @@ fxtrading.market.	3600	in	ns	ns4dls.name.com.
 fyrtel.market.	3600	in	ns	dns.home.pl.
 fyrtel.market.	3600	in	ns	dns2.home.pl.
 fyrtel.market.	3600	in	ns	dns3.home.pl.
-fysm.market.	3600	in	ns	ns1.fozzy.com.
-fysm.market.	3600	in	ns	ns2.fozzy.com.
+fysm.market.	3600	in	ns	ns1-expired.fozzy.com.
+fysm.market.	3600	in	ns	ns2-expired.fozzy.com.
 g-lab.market.	3600	in	ns	brady.ns.cloudflare.com.
 g-lab.market.	3600	in	ns	noor.ns.cloudflare.com.
 g10.market.	3600	in	ns	dns1.registrar-servers.com.
@@ -18624,8 +18609,8 @@ globals.market.	3600	in	ns	gelding.dnspod.net.
 globals.market.	3600	in	ns	road.dnspod.net.
 globalspice.market.	3600	in	ns	ns1.bluehost.com.
 globalspice.market.	3600	in	ns	ns2.bluehost.com.
-globaltickets.market.	3600	in	ns	ns31.domaincontrol.com.
-globaltickets.market.	3600	in	ns	ns32.domaincontrol.com.
+globaltickets.market.	3600	in	ns	phil.ns.cloudflare.com.
+globaltickets.market.	3600	in	ns	rafe.ns.cloudflare.com.
 globalunified.market.	3600	in	ns	3433.ns1.abovedomains.com.
 globalunified.market.	3600	in	ns	3433.ns2.abovedomains.com.
 globalwits.market.	3600	in	ns	dull.dnspod.net.
@@ -22569,8 +22554,8 @@ istanbul.market.	3600	in	ns	ns200.anycast.me.
 istanbul.market.	3600	in	rrsig	DS 8 2 3600 20250930153921 20250909143921 9519 market. f9acegLYWYytgNoDb++YmUWZqAxEQ2h/TWbqJ3MBB4jSmzAZBH0fLNlpF0hH1sOcX2qGtH2EG2nE6EiXgzimEdHhfEe91buSHswNNJulDKrtMbePxqrC9ph+ap06LsHYOGoyWWSusCsNNjILVM5pU08+XPUDKFKlKbv4rJHjnio=
 istanbulescort.market.	3600	in	ns	dawn.ns.cloudflare.com.
 istanbulescort.market.	3600	in	ns	felicity.ns.cloudflare.com.
-istanbulescorts.market.	3600	in	ns	dawn.ns.cloudflare.com.
-istanbulescorts.market.	3600	in	ns	felicity.ns.cloudflare.com.
+istanbulescorts.market.	3600	in	ns	dns101.registrar-servers.com.
+istanbulescorts.market.	3600	in	ns	dns102.registrar-servers.com.
 istasyon.market.	3600	in	ns	pdns07.domaincontrol.com.
 istasyon.market.	3600	in	ns	pdns08.domaincontrol.com.
 istikbal.market.	3600	in	ns	eu.atakdomain.com.
@@ -23922,8 +23907,8 @@ kiondo.market.	3600	in	ns	ns-1511.awsdns-60.org.
 kiondo.market.	3600	in	ns	ns-1748.awsdns-26.co.uk.
 kiondo.market.	3600	in	ns	ns-338.awsdns-42.com.
 kiondo.market.	3600	in	ns	ns-962.awsdns-56.net.
-kira.market.	3600	in	ns	dns1.registrar-servers.com.
-kira.market.	3600	in	ns	dns2.registrar-servers.com.
+kira.market.	3600	in	ns	dns101.registrar-servers.com.
+kira.market.	3600	in	ns	dns102.registrar-servers.com.
 kirana.market.	3600	in	ns	ns39.domaincontrol.com.
 kirana.market.	3600	in	ns	ns40.domaincontrol.com.
 kiri.market.	3600	in	ns	dns1.registrar-servers.com.
@@ -24367,8 +24352,8 @@ kra37.market.	3600	in	ns	ada.ns.cloudflare.com.
 kra37.market.	3600	in	ns	anuj.ns.cloudflare.com.
 krab.market.	3600	in	ns	ns3.insales.ru.
 krab.market.	3600	in	ns	ns4.insales.ru.
-kraft.market.	3600	in	ns	ns3.epik.com.
-kraft.market.	3600	in	ns	ns4.epik.com.
+kraft.market.	3600	in	ns	launch1.spaceship.net.
+kraft.market.	3600	in	ns	launch2.spaceship.net.
 kraken.market.	3600	in	ns	launch1.spaceship.net.
 kraken.market.	3600	in	ns	launch2.spaceship.net.
 krakens.market.	3600	in	ns	dns101.registrar-servers.com.
@@ -26912,8 +26897,8 @@ mami.market.	3600	in	ns	dns1.registrar-servers.com.
 mami.market.	3600	in	ns	dns2.registrar-servers.com.
 mammamia.market.	3600	in	ns	ns1.dcsaas.net.
 mammamia.market.	3600	in	ns	ns2.dcsaas.net.
-mammoth.market.	3600	in	ns	dns1.registrar-servers.com.
-mammoth.market.	3600	in	ns	dns2.registrar-servers.com.
+mammoth.market.	3600	in	ns	dns101.registrar-servers.com.
+mammoth.market.	3600	in	ns	dns102.registrar-servers.com.
 mammut.market.	3600	in	ns	ns1.netnames.net.
 mammut.market.	3600	in	ns	ns2.netnames.net.
 mammut.market.	3600	in	ns	ns5.netnames.net.
@@ -27123,7 +27108,7 @@ market.	3600	in	nsec3param	1 0 0 73
 market.	3600	in	rrsig	DNSKEY 8 1 3600 20250930153921 20250909143921 40531 market. G20xV019nNjo1eKumxhXONdedA/4g8LwDDC1jeXu/C6/ZGsN8XP6kiDv3K3MGtwOVocGpWzpODQFAK7DVFmMlx1zktUCSNDN2XZegIg6Duqb6Kpk4Ss/aGwWAUa56GBjnDQiwaCp1h3EUdXMIgXThho+2yhtXrSkBL7WIidqMa0nc3IVluu64P3gIupZiUsbCmEmODmUcBFCOPWmmnXjU/N5TrEDM/KB9Um0sQPGm/QIYnjb4KB7H8/ZOqwQTK65PmSozj4Vd1t3u972AchZcID4yS4zzysIDAv9X3iW6IujR5TEZRTXPKWHuWbHGHQL6Qwilv64o3YvrFOgNbJI7Q==
 market.	3600	in	rrsig	NS 8 1 3600 20250930153921 20250909143921 9519 market. LId2klQA2rJw1YvQFFc9beyHI0x/RDWbBLMaU+/JXRL6xfd97Wf0S6Ya+8QhJ2aIHBRdLG4Qxjuxt86CS4mfvtBVI7lQcya3MbogRjpKXVdrHdP3b+OhLjmdvsk85TDsI5ruEvNVhNtfwTBans7UBxYluDFPPw/rSRPmaKgwU9Y=
 market.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930153921 20250909143921 9519 market. ajgLu7Vf7NDlirEdNwLUCSnwpc7zkf/ZO4TOwGkPAWLrBMOhbBUVaE9wNhWOlA4ocUchZ7YiSbNy/LlEZsFssfdxkrKkMcMlIw3fC/Pm+yYN96VGjXVdnlFBVuGef7NzCMetFPB5aQSzWdw2gSDGY7PgRH5mf2rKS538JDJ/k0M=
-market.	3600	in	rrsig	SOA 8 1 3600 20251002010735 20250911000735 9519 market. hxzpWXX6SWf8WxB9gDHCLArx2WVdT0q/cI4qPfKwgS8TG3FaGmV4KjT8kBCgyB/ls/DjAtqzd/cXhDvD3brjr7yrpntMqSr/fnwLvmGKAJWCsLB/wgj0AC55FlfVAhE1r3XI6RQcDLXcgA/DkfbYxTBiAX+jSRnlly90r94d57E=
+market.	3600	in	rrsig	SOA 8 1 3600 20251003011552 20250912001552 9519 market. 1i3hOzobrQtXq2c9YmSgZdZGit9/mNZDik5K+8XqEoCnvKT/Hr3cj6OkY/TQu5wMUXGye/6YcfWBgQrisqtkm19lUTLbc6FGTyFUJYitIgbLDa31HWDh6LadpzvFhwAirJD5WTTq4hl8zmwQS1ud7O1PSujncF+YX48VpfMI8Ls=
 market.market.	3600	in	ns	ns1.ni593.parklogic.com.
 market.market.	3600	in	ns	ns2.ni593.parklogic.com.
 market2.market.	3600	in	ns	ns57.domaincontrol.com.
@@ -27682,8 +27667,8 @@ medkit.market.	3600	in	ns	ns61.domaincontrol.com.
 medkit.market.	3600	in	ns	ns62.domaincontrol.com.
 medlinevolga.market.	3600	in	ns	ns1.tildadns.com.
 medlinevolga.market.	3600	in	ns	ns2.tildadns.com.
-medmedia.market.	3600	in	ns	ns1.dns-parking.com.
-medmedia.market.	3600	in	ns	ns2.dns-parking.com.
+medmedia.market.	3600	in	ns	ns1.bodis.com.
+medmedia.market.	3600	in	ns	ns2.bodis.com.
 medovoe.market.	3600	in	ns	ns.majordomo.ru.
 medovoe.market.	3600	in	ns	ns2.majordomo.ru.
 medovoe.market.	3600	in	ns	ns3.majordomo.ru.
@@ -27744,8 +27729,8 @@ megans.market.	3600	in	ns	dns1.registrar-servers.com.
 megans.market.	3600	in	ns	dns2.registrar-servers.com.
 megansorganic.market.	3600	in	ns	dns1.registrar-servers.com.
 megansorganic.market.	3600	in	ns	dns2.registrar-servers.com.
-megastore.market.	3600	in	ns	ns14.wixdns.net.
-megastore.market.	3600	in	ns	ns15.wixdns.net.
+megastore.market.	3600	in	ns	ns37.domaincontrol.com.
+megastore.market.	3600	in	ns	ns38.domaincontrol.com.
 megateplo.market.	3600	in	ns	ns.hostland.ru.
 megateplo.market.	3600	in	ns	ns3.hostland.ru.
 megatools.market.	3600	in	ns	dns7.parkpage.foundationapi.com.
@@ -27856,7 +27841,15 @@ meltdown.market.	3600	in	ns	ns17.domaincontrol.com.
 meltdown.market.	3600	in	ns	ns18.domaincontrol.com.
 meltontown.market.	3600	in	ns	chloe.ns.cloudflare.com.
 meltontown.market.	3600	in	ns	joel.ns.cloudflare.com.
+member-ownedcapital.market.	3600	in	ns	ns1dhq.name.com.
+member-ownedcapital.market.	3600	in	ns	ns2qvz.name.com.
+member-ownedcapital.market.	3600	in	ns	ns3fqs.name.com.
+member-ownedcapital.market.	3600	in	ns	ns4fmx.name.com.
 member.gardening.market.	3600	in	a	121.78.197.92
+memberownedcapital.market.	3600	in	ns	ns1dhq.name.com.
+memberownedcapital.market.	3600	in	ns	ns2qvz.name.com.
+memberownedcapital.market.	3600	in	ns	ns3fqs.name.com.
+memberownedcapital.market.	3600	in	ns	ns4fmx.name.com.
 membership.market.	3600	in	ns	ns17.domaincontrol.com.
 membership.market.	3600	in	ns	ns18.domaincontrol.com.
 meme.market.	3600	in	ds	28939 13 2 88DE518A0486E93E4528AA9E8D02DC2D9C7ADB3667717D940F0FAF7E4B085142
@@ -28546,9 +28539,6 @@ millies.market.	3600	in	ds	2371 13 2 E86536FAC1365026D678FBE913DF4E2684EEA5A2701
 millies.market.	3600	in	ns	liv.ns.cloudflare.com.
 millies.market.	3600	in	ns	rory.ns.cloudflare.com.
 millies.market.	3600	in	rrsig	DS 8 2 3600 20250930153921 20250909143921 9519 market. 0lPKNXWb7qDpRLXQ0X4YMuDa/+DbIkC4bQivyRKC4kNnXTK1fzxeRQeXiuPwJY3NG/UstqITaLWgtAfV/AMOKu7Vz8f1I78/PUmagQkFCAFgBPCmvs6ChuNk2nq68Cm3FtkvRyfT6DaFnbuHeUowCwJCUmsSVJNNBbMR1TG3xtU=
-millinery.market.	3600	in	ns	ns1.nameserver.net.au.
-millinery.market.	3600	in	ns	ns2.nameserver.net.au.
-millinery.market.	3600	in	ns	ns3.nameserver.net.au.
 million.market.	3600	in	ns	ns1.beget.com.
 million.market.	3600	in	ns	ns1.beget.pro.
 million.market.	3600	in	ns	ns2.beget.com.
@@ -28583,6 +28573,8 @@ mimexico.market.	3600	in	ns	ns1.webhostinghub.com.
 mimexico.market.	3600	in	ns	ns2.webhostinghub.com.
 mimi.market.	3600	in	ns	ns1.afternic.com.
 mimi.market.	3600	in	ns	ns2.afternic.com.
+mimic.market.	3600	in	ns	ns67.domaincontrol.com.
+mimic.market.	3600	in	ns	ns68.domaincontrol.com.
 mimis.market.	3600	in	ns	ns09.domaincontrol.com.
 mimis.market.	3600	in	ns	ns10.domaincontrol.com.
 mimzy.market.	3600	in	ns	agustin.ns.cloudflare.com.
@@ -28896,8 +28888,6 @@ moba.market.	3600	in	ns	pns21.cloudns.net.
 moba.market.	3600	in	ns	pns22.cloudns.net.
 moba.market.	3600	in	ns	pns23.cloudns.net.
 moba.market.	3600	in	ns	pns24.cloudns.net.
-mobi.market.	3600	in	ns	ns1.bodis.com.
-mobi.market.	3600	in	ns	ns2.bodis.com.
 mobilefarmers.market.	3600	in	ns	dns1.p01.nsone.net.
 mobilefarmers.market.	3600	in	ns	dns2.p01.nsone.net.
 mobilefarmers.market.	3600	in	ns	dns3.p01.nsone.net.
@@ -29097,6 +29087,10 @@ monad.market.	3600	in	ns	curitiba.ns.porkbun.com.
 monad.market.	3600	in	ns	fortaleza.ns.porkbun.com.
 monad.market.	3600	in	ns	maceio.ns.porkbun.com.
 monad.market.	3600	in	ns	salvador.ns.porkbun.com.
+monarc.market.	3600	in	ns	ns-cloud-c1.googledomains.com.
+monarc.market.	3600	in	ns	ns-cloud-c2.googledomains.com.
+monarc.market.	3600	in	ns	ns-cloud-c3.googledomains.com.
+monarc.market.	3600	in	ns	ns-cloud-c4.googledomains.com.
 monarch.market.	3600	in	ns	ns1.afternic.com.
 monarch.market.	3600	in	ns	ns2.afternic.com.
 monastirakigreek.market.	3600	in	ns	ns1.hover.com.
@@ -30140,8 +30134,8 @@ naboo.market.	3600	in	ns	ns1.klinux.it.
 naboo.market.	3600	in	ns	ns2.klinux.it.
 naboo.market.	3600	in	ns	ns3.klinux.it.
 naboo.market.	3600	in	rrsig	DS 8 2 3600 20250930153921 20250909143921 9519 market. tJENujrqmzCE72Kd3GPTmIrRU/kwUoF0t2g5W+y+2AUSxd/YaeJDRR68/s1ooCIZs7y3WV2dhqtxuvLPnT0/mL4e0flT4+EZuHbpr1mqwvs+9Clpe5qte6beovYh3wAxzGEkkL9BIQh/AKNq1ppvU/ewe9UTaJJY9A8B8cO+EuA=
-nado.market.	3600	in	ns	ns1.hosting.reg.ru.
-nado.market.	3600	in	ns	ns2.hosting.reg.ru.
+nado.market.	3600	in	ns	ns1.expired.reg.ru.
+nado.market.	3600	in	ns	ns2.expired.reg.ru.
 nadra.market.	3600	in	ns	ns112.inhostedns.com.
 nadra.market.	3600	in	ns	ns212.inhostedns.net.
 nadra.market.	3600	in	ns	ns312.inhostedns.org.
@@ -30529,8 +30523,6 @@ netgreen.market.	3600	in	ns	ns1-star.vivawebhost.com.
 netgreen.market.	3600	in	ns	ns2-star.vivawebhost.com.
 netique.market.	3600	in	ns	ns37.domaincontrol.com.
 netique.market.	3600	in	ns	ns38.domaincontrol.com.
-netizen.market.	3600	in	ns	dns101.registrar-servers.com.
-netizen.market.	3600	in	ns	dns102.registrar-servers.com.
 netlease.market.	3600	in	ns	ns63.domaincontrol.com.
 netlease.market.	3600	in	ns	ns64.domaincontrol.com.
 neto.market.	3600	in	ns	ns1.vatandata.com.
@@ -30657,8 +30649,6 @@ newrice.market.	3600	in	ns	ns13.domaincontrol.com.
 newrice.market.	3600	in	ns	ns14.domaincontrol.com.
 newsilkroad.market.	3600	in	ns	dns25.hichina.com.
 newsilkroad.market.	3600	in	ns	dns26.hichina.com.
-newsletter.market.	3600	in	ns	ns1.ams24.siteground.eu.
-newsletter.market.	3600	in	ns	ns2.ams24.siteground.eu.
 newsmithfield.market.	3600	in	ns	ns41.domaincontrol.com.
 newsmithfield.market.	3600	in	ns	ns42.domaincontrol.com.
 newsnet.market.	3600	in	ns	dns1.cscdns.net.
@@ -30907,8 +30897,6 @@ niftee.market.	3600	in	ns	dns1.registrar-servers.com.
 niftee.market.	3600	in	ns	dns2.registrar-servers.com.
 nifti.market.	3600	in	ns	ns85.worldnic.com.
 nifti.market.	3600	in	ns	ns86.worldnic.com.
-nifty.market.	3600	in	ns	expire1.cnolnic.com.
-nifty.market.	3600	in	ns	expire2.cnolnic.com.
 niftyisland.market.	3600	in	ds	45565 8 2 C0F26823CA7C1CFC2818AEDFA1FD70560C945EB485B3B5023B25B4845D7470B5
 niftyisland.market.	3600	in	ns	ns-cloud-a1.googledomains.com.
 niftyisland.market.	3600	in	ns	ns-cloud-a2.googledomains.com.
@@ -33732,8 +33720,6 @@ paylette.market.	3600	in	ns	ns.forpsi.it.
 paylette.market.	3600	in	ns	ns.forpsi.net.
 payload.market.	3600	in	ns	coco.bunny.net.
 payload.market.	3600	in	ns	kiki.bunny.net.
-paymentstock.market.	3600	in	ns	ns1-expired.sav.com.
-paymentstock.market.	3600	in	ns	ns2-expired.sav.com.
 payout.market.	3600	in	ns	dns1.registrar-servers.com.
 payout.market.	3600	in	ns	dns2.registrar-servers.com.
 paypal.market.	3600	in	ns	ns1.markmonitor.com.
@@ -35263,6 +35249,9 @@ precise.market.	3600	in	ns	harmony.ns.cloudflare.com.
 precise.market.	3600	in	ns	nero.ns.cloudflare.com.
 precog.market.	3600	in	ns	dns1.registrar-servers.com.
 precog.market.	3600	in	ns	dns2.registrar-servers.com.
+pred.market.	3600	in	ns	ns1.afternic.com.
+pred.market.	3600	in	ns	ns2.afternic.com.
+pred.market.	3600	in	ns	verification-c5ftxzdnt6rvgas2gsf7bf.ns101.verify.hn.
 predict.market.	3600	in	ns	ns1crv.name.com.
 predict.market.	3600	in	ns	ns2fwz.name.com.
 predict.market.	3600	in	ns	ns3qtx.name.com.
@@ -35635,8 +35624,9 @@ profimed.market.	3600	in	ns	ns1.advantshop.net.
 profimed.market.	3600	in	ns	ns2.advantshop.net.
 profit.market.	3600	in	ns	ns49.domaincontrol.com.
 profit.market.	3600	in	ns	ns50.domaincontrol.com.
-profitly.market.	3600	in	ns	profitly.com.
-profitly.market.	3600	in	ns	profitly.market.com.
+profitly.market.	3600	in	ns	ns1.wordpress.com.
+profitly.market.	3600	in	ns	ns2.wordpress.com.
+profitly.market.	3600	in	ns	ns3.wordpress.com.
 profitmart.market.	3600	in	ns	ns29.domaincontrol.com.
 profitmart.market.	3600	in	ns	ns30.domaincontrol.com.
 profnastil.market.	3600	in	ns	ns1.beget.com.
@@ -36383,9 +36373,8 @@ quartz.market.	3600	in	ns	ns4.nic.ru.
 quartz.market.	3600	in	ns	ns8.nic.ru.
 quasi.market.	3600	in	ns	adam.ns.cloudflare.com.
 quasi.market.	3600	in	ns	surina.ns.cloudflare.com.
-quaternary.market.	3600	in	ns	ns1.dan.com.
-quaternary.market.	3600	in	ns	ns2.dan.com.
-quaternary.market.	3600	in	ns	p8i389dx.verify.hn.
+quaternary.market.	3600	in	ns	ns1-expired.sav.com.
+quaternary.market.	3600	in	ns	ns2-expired.sav.com.
 qubic.market.	3600	in	ns	ns-135.awsdns-16.com.
 qubic.market.	3600	in	ns	ns-1516.awsdns-61.org.
 qubic.market.	3600	in	ns	ns-2006.awsdns-58.co.uk.
@@ -36982,8 +36971,8 @@ realtytrends.market.	3600	in	ns	ns-cloud-a2.googledomains.com.
 realtytrends.market.	3600	in	ns	ns-cloud-a3.googledomains.com.
 realtytrends.market.	3600	in	ns	ns-cloud-a4.googledomains.com.
 realtytrends.market.	3600	in	rrsig	DS 8 2 3600 20250930153921 20250909143921 9519 market. shgh/kev9KZqU2TaNSoOy9hDiUnXdJFYJ+8cfr50cZp8kILKmGVYbvSESlwcfBjYuCUBxS2uJoHqCjKLmkTFI0Y8X0hqg2kalOytS6E34mKLbDOZ3TeyNEQjk3miJmkj2A3U/Z2OyaWdckCeiziiQSm3S/QnF7HQSBZWylnw14c=
-realworldasset.market.	3600	in	ns	ns1.afternic.com.
-realworldasset.market.	3600	in	ns	ns2.afternic.com.
+realworldasset.market.	3600	in	ns	expirens3.hichina.com.
+realworldasset.market.	3600	in	ns	expirens4.hichina.com.
 realworldassets.market.	3600	in	ns	ns11.domaincontrol.com.
 realworldassets.market.	3600	in	ns	ns12.domaincontrol.com.
 realx.market.	3600	in	ns	ns17.domaincontrol.com.
@@ -38370,9 +38359,8 @@ rwa.market.	3600	in	ns	ns1.afternic.com.
 rwa.market.	3600	in	ns	ns2.afternic.com.
 rwafi.market.	3600	in	ns	ns1.afternic.com.
 rwafi.market.	3600	in	ns	ns2.afternic.com.
-rwas.market.	3600	in	ns	ns5.afternic.com.
-rwas.market.	3600	in	ns	ns6.afternic.com.
-rwas.market.	3600	in	ns	verification-agfh4euevkfxny9co582cj.ns101.verify.hn.
+rwas.market.	3600	in	ns	launch1.spaceship.net.
+rwas.market.	3600	in	ns	launch2.spaceship.net.
 rwb.market.	3600	in	ns	ns3.nic.ru.
 rwb.market.	3600	in	ns	ns4.nic.ru.
 rwb.market.	3600	in	ns	ns8.nic.ru.
@@ -41446,8 +41434,10 @@ splitwise.market.	3600	in	ns	ns-cloud-c4.googledomains.com.
 splitwise.market.	3600	in	rrsig	DS 8 2 3600 20250930153921 20250909143921 9519 market. SAowNOM4jqnylOwsp0wKNqSmrukWTN2K+9xByFzAvFy8fYZFbvgpOJkq/3W7vzbhdR5HPDtjiK5l4vIdSVOpyCXDnQkNXS9ZxeEgFtLuKOU7m8rXRBdXBF3qABxLZ5OLmHtsZ+aQSzYLStNqQfoLtgPEudMeJN9Y6znm4y67Ylw=
 spon.market.	3600	in	ns	brynne.ns.cloudflare.com.
 spon.market.	3600	in	ns	thaddeus.ns.cloudflare.com.
-sponser.market.	3600	in	ns	dns13.parkpage.foundationapi.com.
-sponser.market.	3600	in	ns	dns14.parkpage.foundationapi.com.
+sponser.market.	3600	in	ns	ns1.beget.pro.
+sponser.market.	3600	in	ns	ns1.beget.ru.
+sponser.market.	3600	in	ns	ns2.beget.pro.
+sponser.market.	3600	in	ns	ns2.beget.ru.
 sponsor.market.	3600	in	ns	ns71.domaincontrol.com.
 sponsor.market.	3600	in	ns	ns72.domaincontrol.com.
 sponsored.market.	3600	in	ns	dns1.registrar-servers.com.
@@ -42079,10 +42069,6 @@ store2door.market.	3600	in	ns	jaime.ns.cloudflare.com.
 store2door.market.	3600	in	ns	macy.ns.cloudflare.com.
 store4you.market.	3600	in	ns	ns1.reg.ru.
 store4you.market.	3600	in	ns	ns2.reg.ru.
-storehouse.market.	3600	in	ns	ns-cloud-c1.googledomains.com.
-storehouse.market.	3600	in	ns	ns-cloud-c2.googledomains.com.
-storehouse.market.	3600	in	ns	ns-cloud-c3.googledomains.com.
-storehouse.market.	3600	in	ns	ns-cloud-c4.googledomains.com.
 storereturns.market.	3600	in	ns	ns73.domaincontrol.com.
 storereturns.market.	3600	in	ns	ns74.domaincontrol.com.
 storgata.market.	3600	in	ns	ns01.no.brand.one.com.
@@ -42956,6 +42942,10 @@ syndication.market.	3600	in	ns	b.dns.gandi.net.
 syndication.market.	3600	in	ns	c.dns.gandi.net.
 synectia.market.	3600	in	ns	ns1.synectia.com.
 synectia.market.	3600	in	ns	ns2.synectia.com.
+synema.market.	3600	in	ns	curitiba.ns.porkbun.com.
+synema.market.	3600	in	ns	fortaleza.ns.porkbun.com.
+synema.market.	3600	in	ns	maceio.ns.porkbun.com.
+synema.market.	3600	in	ns	salvador.ns.porkbun.com.
 synergy.market.	3600	in	ns	ns1.afternic.com.
 synergy.market.	3600	in	ns	ns2.afternic.com.
 synode.market.	3600	in	ns	failed-whois-verification.namecheap.com.
@@ -43380,6 +43370,8 @@ tavi.market.	3600	in	ns	ns1.reg.ru.
 tavi.market.	3600	in	ns	ns2.reg.ru.
 tawfeer.market.	3600	in	ns	ns1.onlinecheckout.info.
 tawfeer.market.	3600	in	ns	ns2.onlinecheckout.info.
+tawfeermax.market.	3600	in	ns	ns25.domaincontrol.com.
+tawfeermax.market.	3600	in	ns	ns26.domaincontrol.com.
 tawreed.market.	3600	in	ns	dnsproxy1.fm.nic.ru.
 tawreed.market.	3600	in	ns	dnsproxy2.fm.nic.ru.
 tax.market.	3600	in	ns	arvind.ns.cloudflare.com.
@@ -43747,12 +43739,8 @@ temu.market.	3600	in	ns	dns23.hichina.com.
 temu.market.	3600	in	ns	dns24.hichina.com.
 tenant.market.	3600	in	ns	dns1.registrar-servers.com.
 tenant.market.	3600	in	ns	dns2.registrar-servers.com.
-tender.market.	3600	in	ns	ns1.myhostadmin.net.
-tender.market.	3600	in	ns	ns2.myhostadmin.net.
-tender.market.	3600	in	ns	ns3.myhostadmin.net.
-tender.market.	3600	in	ns	ns4.myhostadmin.net.
-tender.market.	3600	in	ns	ns5.myhostadmin.net.
-tender.market.	3600	in	ns	ns6.myhostadmin.net.
+tender.market.	3600	in	ns	ns1.afternic.com.
+tender.market.	3600	in	ns	ns2.afternic.com.
 tenerife.market.	3600	in	ns	ns1-coming-soon.sav.com.
 tenerife.market.	3600	in	ns	ns2-coming-soon.sav.com.
 tenet.market.	3600	in	ns	pdns1.registrar-servers.com.
@@ -44474,9 +44462,8 @@ thermometer.market.	3600	in	ns	ns4-cloud.nic.ru.
 thermometer.market.	3600	in	ns	ns4-l2.nic.ru.
 thermometer.market.	3600	in	ns	ns8-cloud.nic.ru.
 thermometer.market.	3600	in	ns	ns8-l2.nic.ru.
-thermona.market.	3600	in	ns	ns3.nic.ru.
-thermona.market.	3600	in	ns	ns4.nic.ru.
-thermona.market.	3600	in	ns	ns8.nic.ru.
+thermona.market.	3600	in	ns	dnsproxy1.fm.nic.ru.
+thermona.market.	3600	in	ns	dnsproxy2.fm.nic.ru.
 thes.market.	3600	in	ns	dns1.papaki.gr.
 thes.market.	3600	in	ns	dns2.papaki.gr.
 thescooter.market.	3600	in	ns	ns1035.ui-dns.de.
@@ -46839,6 +46826,10 @@ utex.market.	3600	in	ns	ns8-cloud.nic.ru.
 utex.market.	3600	in	ns	ns8-l2.nic.ru.
 utiyniuq.market.	3600	in	ns	chance.ns.cloudflare.com.
 utiyniuq.market.	3600	in	ns	gwen.ns.cloudflare.com.
+utk.market.	3600	in	ns	ns-1.lenta.com.
+utk.market.	3600	in	ns	ns-2.lenta.com.
+utk.market.	3600	in	ns	ns2.gldn.net.
+utk.market.	3600	in	ns	ns3.gldn.net.
 utmtr3agqr01lt9pgp5lpq07qf1krvg0.market.	3600	in	nsec3	1 1 0 73 UU8UGVPI1EEDE1QMEE1FJFTEE9G3IRUV NS DS RRSIG
 utmtr3agqr01lt9pgp5lpq07qf1krvg0.market.	3600	in	rrsig	NSEC3 8 2 3600 20250930153921 20250909143921 9519 market. Wgp8iVA1ciraIGXq8KkCZgd9JtrxaC3scZkHovVBDAmhG38Y5foC992ptLAalnjxOzuoqHXo1McK95YkwT0jMO1DoDty59EbsJz1Smgal5tXuJ9xGmdgI2Ma3zwN4McMKW+phZVNSMsddpiKozxIGffYm3ZDOygltF22chqG/7c=
 uto.market.	3600	in	ns	ns67.domaincontrol.com.
@@ -46978,12 +46969,8 @@ vaekstnet.market.	3600	in	ns	ns1.simply.com.
 vaekstnet.market.	3600	in	ns	ns2.simply.com.
 vaekstnet.market.	3600	in	ns	ns3.simply.com.
 vaekstnet.market.	3600	in	rrsig	DS 8 2 3600 20250930153921 20250909143921 9519 market. aZAhP7w3DHxVt7DjhQZM0qf8iZfj+5HqqmalHankCw+83d3cwtZJ0aqOKxnVYFetXUxodhcShknaM954OLGgeW12BIXYiKMhwfgZ9Lw9wH+XIrhQFLwgFBEhG4a/Fs8O0jNy5I8NQ1HdcF4HB2bYSzOCN24ja5bdItasHYYOlwM=
-vag.market.	3600	in	ns	ns1.myhostadmin.net.
-vag.market.	3600	in	ns	ns2.myhostadmin.net.
-vag.market.	3600	in	ns	ns3.myhostadmin.net.
-vag.market.	3600	in	ns	ns4.myhostadmin.net.
-vag.market.	3600	in	ns	ns5.myhostadmin.net.
-vag.market.	3600	in	ns	ns6.myhostadmin.net.
+vag.market.	3600	in	ns	ns1.afternic.com.
+vag.market.	3600	in	ns	ns2.afternic.com.
 vagon.market.	3600	in	ns	dns15.parkpage.foundationapi.com.
 vagon.market.	3600	in	ns	dns16.parkpage.foundationapi.com.
 vaicg57ooa8cgmhfduefommp9r6e6f6r.market.	3600	in	nsec3	1 1 0 73 VANJGTJ7V8PJKLTT5NKRI5J1UE46D4EM NS DS RRSIG
@@ -47136,8 +47123,8 @@ vash.market.	3600	in	ns	brad.ns.cloudflare.com.
 vash.market.	3600	in	ns	dora.ns.cloudflare.com.
 vashon.market.	3600	in	ns	ns01.domaincontrol.com.
 vashon.market.	3600	in	ns	ns02.domaincontrol.com.
-vasp.market.	3600	in	ns	ns1.sedoparking.com.
-vasp.market.	3600	in	ns	ns2.sedoparking.com.
+vasp.market.	3600	in	ns	dns1.registrar-servers.com.
+vasp.market.	3600	in	ns	dns2.registrar-servers.com.
 vast.market.	3600	in	ns	ns63.domaincontrol.com.
 vast.market.	3600	in	ns	ns64.domaincontrol.com.
 vatom.market.	3600	in	ns	ns31.domaincontrol.com.
@@ -47431,8 +47418,8 @@ vessana.market.	3600	in	ns	maceio.ns.porkbun.com.
 vessana.market.	3600	in	ns	salvador.ns.porkbun.com.
 vessel.market.	3600	in	ns	ns1.md-in-72.hostgatorwebservers.com.
 vessel.market.	3600	in	ns	ns2.md-in-72.hostgatorwebservers.com.
-vesselhull.market.	3600	in	ns	ns1.dns-expired.com.
-vesselhull.market.	3600	in	ns	ns2.dns-expired.com.
+vesselhull.market.	3600	in	ns	ns1.dns-parking.com.
+vesselhull.market.	3600	in	ns	ns2.dns-parking.com.
 vest.market.	3600	in	ns	ns3.myhostadmin.net.
 vest.market.	3600	in	ns	ns4.myhostadmin.net.
 vestaterminal.market.	3600	in	ns	dns1.cscdns.net.
@@ -47557,12 +47544,8 @@ victoriana.market.	3600	in	ns	ns4.dntrust.com.
 victory.market.	3600	in	ns	ns1.afternic.com.
 victory.market.	3600	in	ns	ns2.afternic.com.
 victory.market.	3600	in	ns	verification-qaxpgh9dahjr9zkpwwmdzx.ns101.verify.hn.
-vid.market.	3600	in	ns	ns1.myhostadmin.net.
-vid.market.	3600	in	ns	ns2.myhostadmin.net.
-vid.market.	3600	in	ns	ns3.myhostadmin.net.
-vid.market.	3600	in	ns	ns4.myhostadmin.net.
-vid.market.	3600	in	ns	ns5.myhostadmin.net.
-vid.market.	3600	in	ns	ns6.myhostadmin.net.
+vid.market.	3600	in	ns	ns1.afternic.com.
+vid.market.	3600	in	ns	ns2.afternic.com.
 vida.market.	3600	in	ns	ns1.sikapp.ir.
 vida.market.	3600	in	ns	ns2.sikapp.ir.
 vidapay.market.	3600	in	ns	dns101.register.com.
@@ -47799,9 +47782,8 @@ vitaminezee.market.	3600	in	ns	ns1.combell.eu.
 vitaminezee.market.	3600	in	ns	ns3.combell.net.
 vitaminezee.market.	3600	in	ns	ns4.combell.net.
 vitaminezee.market.	3600	in	rrsig	DS 8 2 3600 20250930153921 20250909143921 9519 market. WC5Qp6EGTD19QoEJ1jZb/OKRF4YVsaEWlPxeoKw6eRZ9Tj60LNaJhsnFCMdJkx+NJZIRJtYEdTdL0ZbbWwru9179/mYSgH+iPpGk1HDFni15TtsFlG2SZQugLBQcksUFsmbbBRjFoTQnbsHZxQXeXxVWHlYsUAA3b7ErHuJcgL4=
-vitaminguru.market.	3600	in	ns	ns3.nic.ru.
-vitaminguru.market.	3600	in	ns	ns4.nic.ru.
-vitaminguru.market.	3600	in	ns	ns8.nic.ru.
+vitaminguru.market.	3600	in	ns	dnsproxy1.fm.nic.ru.
+vitaminguru.market.	3600	in	ns	dnsproxy2.fm.nic.ru.
 vitaminler.market.	3600	in	ns	leia.ns.cloudflare.com.
 vitaminler.market.	3600	in	ns	stanley.ns.cloudflare.com.
 vitaminonline.market.	3600	in	ns	ns.masterhost.ru.
@@ -48768,6 +48750,8 @@ whatson.market.	3600	in	ns	ns42.domaincontrol.com.
 whatsup.market.	3600	in	ns	ns5.afternic.com.
 whatsup.market.	3600	in	ns	ns6.afternic.com.
 whatsup.market.	3600	in	ns	verification-ctfjw2dh7fcma4fnvdfkhh.ns101.verify.hn.
+whatswhat.market.	3600	in	ns	ns1.whatswhat.ie.
+whatswhat.market.	3600	in	ns	ns2.whatswhat.ie.
 whcc.market.	3600	in	ns	ns-1303.awsdns-34.org.
 whcc.market.	3600	in	ns	ns-1928.awsdns-49.co.uk.
 whcc.market.	3600	in	ns	ns-383.awsdns-47.com.
@@ -49328,8 +49312,8 @@ worldliberty.market.	3600	in	ns	expirens3.hichina.com.
 worldliberty.market.	3600	in	ns	expirens4.hichina.com.
 worldlife.market.	3600	in	ns	ns33.domaincontrol.com.
 worldlife.market.	3600	in	ns	ns34.domaincontrol.com.
-worldmassive-income.market.	3600	in	ns	ns1.dyna-ns.net.
-worldmassive-income.market.	3600	in	ns	ns2.dyna-ns.net.
+worldmassive-income.market.	3600	in	ns	ns103.my-control-panel.com.
+worldmassive-income.market.	3600	in	ns	ns104.my-control-panel.com.
 worldpeace.market.	3600	in	ns	ns17.domaincontrol.com.
 worldpeace.market.	3600	in	ns	ns18.domaincontrol.com.
 worldswithin.market.	3600	in	ns	dns1.registrar-servers.com.
@@ -49486,8 +49470,6 @@ x8m8.market.	3600	in	ns	a18-65.akam.net.
 x8m8.market.	3600	in	ns	a28-66.akam.net.
 x8m8.market.	3600	in	ns	a5-67.akam.net.
 x8m8.market.	3600	in	ns	a9-64.akam.net.
-xaas.market.	3600	in	ns	ns53.domaincontrol.com.
-xaas.market.	3600	in	ns	ns54.domaincontrol.com.
 xads.market.	3600	in	ns	ns1.systemdns.com.
 xads.market.	3600	in	ns	ns2.systemdns.com.
 xads.market.	3600	in	ns	ns3.systemdns.com.
@@ -49821,6 +49803,8 @@ xn--j1aigp.market.	3600	in	ns	ns2.jino.ru.
 xn--j1aigp.market.	3600	in	ns	ns3.jino.ru.
 xn--kprp90i.market.	3600	in	ns	dns29.hichina.com.
 xn--kprp90i.market.	3600	in	ns	dns30.hichina.com.
+xn--kprvsw6uxuu.market.	3600	in	ns	ns3.myhostadmin.net.
+xn--kprvsw6uxuu.market.	3600	in	ns	ns4.myhostadmin.net.
 xn--l1ahbhdc.market.	3600	in	ns	ns1.reg.ru.
 xn--l1ahbhdc.market.	3600	in	ns	ns2.reg.ru.
 xn--l1awr.market.	3600	in	ns	ns3.nic.ru.
@@ -50960,4 +50944,4 @@ zxfw.market.	3600	in	ns	dns10.hichina.com.
 zxfw.market.	3600	in	ns	dns9.hichina.com.
 zyxwvutsrqponmlkjihgfedcba.market.	3600	in	ns	dns10.hichina.com.
 zyxwvutsrqponmlkjihgfedcba.market.	3600	in	ns	dns9.hichina.com.
-market.	3600	in	soa	v0n0.nic.market. hostmaster.donuts.email. 1757552650 7200 900 1209600 3600
+market.	3600	in	soa	v0n0.nic.market. hostmaster.donuts.email. 1757639494 7200 900 1209600 3600
