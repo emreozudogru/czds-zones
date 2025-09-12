@@ -1,4 +1,4 @@
-xn--mk1bu44c.	86400	in	soa	ac1.nstld.com. info.verisign-grs.com. 1757512758 1800 900 604800 86400
+xn--mk1bu44c.	86400	in	soa	ac1.nstld.com. info.verisign-grs.com. 1757599158 1800 900 604800 86400
 0045335.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
 0045335.xn--mk1bu44c.	172800	in	ns	ns2.dyna-ns.net.
 0076727.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
@@ -795,6 +795,8 @@ aafa6ke.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
 aafa6ke.xn--mk1bu44c.	172800	in	ns	ns2.dyna-ns.net.
 activebento123.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
 activebento123.xn--mk1bu44c.	172800	in	ns	ns2.dyna-ns.net.
+adliran.xn--mk1bu44c.	172800	in	ns	lee.ns.cloudflare.com.
+adliran.xn--mk1bu44c.	172800	in	ns	robin.ns.cloudflare.com.
 adsense.xn--mk1bu44c.	172800	in	ns	ns1.googledomains.com.
 adsense.xn--mk1bu44c.	172800	in	ns	ns2.googledomains.com.
 adsense.xn--mk1bu44c.	172800	in	ns	ns3.googledomains.com.
@@ -5788,8 +5790,6 @@ xn--950b78avsm31f.xn--mk1bu44c.	172800	in	ns	ns1.hosting.co.kr.
 xn--950b78avsm31f.xn--mk1bu44c.	172800	in	ns	ns2.hosting.co.kr.
 xn--950b78avsm31f.xn--mk1bu44c.	172800	in	ns	ns3.hosting.co.kr.
 xn--950b78avsm31f.xn--mk1bu44c.	172800	in	ns	ns4.hosting.co.kr.
-xn--950b83jhwdpso6xa94hra257kf5e35e.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
-xn--950b83jhwdpso6xa94hra257kf5e35e.xn--mk1bu44c.	172800	in	ns	ns2.dyna-ns.net.
 xn--950bq1ni9fh3b.xn--mk1bu44c.	172800	in	ns	ns-1110.awsdns-10.org.
 xn--950bq1ni9fh3b.xn--mk1bu44c.	172800	in	ns	ns-1550.awsdns-01.co.uk.
 xn--950bq1ni9fh3b.xn--mk1bu44c.	172800	in	ns	ns-218.awsdns-27.com.
@@ -5954,8 +5954,8 @@ xn--9g3b11o0cv9gca.xn--mk1bu44c.	172800	in	ns	ns1.gabia.co.kr.
 xn--9g3b1p70aj8y7xi.xn--mk1bu44c.	172800	in	ns	ns.gabia.co.kr.
 xn--9g3b1p70aj8y7xi.xn--mk1bu44c.	172800	in	ns	ns.gabia.net.
 xn--9g3b1p70aj8y7xi.xn--mk1bu44c.	172800	in	ns	ns1.gabia.co.kr.
-xn--9g3b21s28g.xn--mk1bu44c.	172800	in	ns	ns1.highm.kr.
-xn--9g3b21s28g.xn--mk1bu44c.	172800	in	ns	ns2.highm.kr.
+xn--9g3b21s28g.xn--mk1bu44c.	172800	in	ns	ns1.ksdom-expire.kr.
+xn--9g3b21s28g.xn--mk1bu44c.	172800	in	ns	ns2.ksdom-expire.kr.
 xn--9g3b256amub.xn--mk1bu44c.	172800	in	ns	ns1.uhost.co.kr.
 xn--9g3b256amub.xn--mk1bu44c.	172800	in	ns	ns2.uhost.co.kr.
 xn--9g3ba046aba.xn--mk1bu44c.	172800	in	ns	ns1.uhost.co.kr.
@@ -7833,7 +7833,7 @@ xn--mk1bu44c.	86400	in	dnskey	257 3 8 AQOqwdTSEjPRAvdBJDCwim+EaxaMr5GzM1nk4tNJuT
 xn--mk1bu44c.	86400	in	nsec3param	1 0 0 -
 xn--mk1bu44c.	86400	in	rrsig	DNSKEY 8 1 86400 20250916170027 20250901165527 33804 xn--mk1bu44c. eO6icHP8WO6QRKImtsgiBXOWK04oA0sRF2kmjdyk5hlhtD75e2tRemxu56Qnc7jADzt8wetxPD5bsFH8YDJxsz9Dw52012mTcVhIyO4UTu7vW2orEErbGYdJCh/VLCPotokVbAov7FP1ve336+hA88I8h7ANHNuFJ5Heppy8yJMWFNoCG16J60mkGSzdkR8FWhbw9GuxNSh0aGxPEfPTLubPjW98pMYopVygVdEeK0sk/fnvqhuuRIFaKMJ8HaUKhJuTa09i7GV+y5zKD021yd0agB+5RjkylZwRi2BjifNQWaPxn8Zox+QDxNNad+AvVTI+WCLcWMwUCiUMwWpm/g==
 xn--mk1bu44c.	86400	in	rrsig	NSEC3PARAM 8 1 86400 20250915062449 20250908062449 47418 xn--mk1bu44c. Mq/X/deb/n1rcydGCUsou1JVp2B3Yhh9QWp9uRtbMVqF6wiY/2zYIDOr9iC40+fbdt68jw09V8dSzLnMlDjSDLJwgaocsVoncm8OTzppMXEYmUKmRpWBSJ1/zaoue7umnQ/u2QjWT4bycEX9EKJT2ct2dG/i5mBRV75bZrdNjd+r376SHSiQP8q9V4qA3kGu5sTjyJS+ORrgDlWigLScpA==
-xn--mk1bu44c.	86400	in	rrsig	SOA 8 1 86400 20250917114918 20250910114918 47418 xn--mk1bu44c. hUzvljDreVdQivU8QNTWuxiHXxXsCR+jZaAsPKpndSoWG3JchF3ZsW0xPybGzYuSAs+emHR94aZwesFkZUrSlgKfVywUB/aFWE08Ny8+kkn42NFzCEuzqpsIYcHyOXg9pVUBHhwElyuHlOd4Eo02mWJ1h62iUrcIiNW8ZRqCOWJg9ERFQ8cZ6y8Gpnrm9gSZUFIhlbvKyaatil9Tjfj9hg==
+xn--mk1bu44c.	86400	in	rrsig	SOA 8 1 86400 20250918114918 20250911114918 47418 xn--mk1bu44c. TR3ELvw3KVV3LWREusl0727BpVesVavdPqLFM78vTFeAUcevvAzYt7+kOH3kz7O4rZx7ch+7OjHR2pV9/5MjMEdJ64eCafBJjevNGnc+c6OkWMgkER8J4hYm1k/dGCZChB+gpBMqZ3ZWonLbWWjNUkAwNnRkduwUyiYz/QydTZjvMfLeyH8zKiJ3aG4Axboo0IwrSEBnpG6RsBQFUwIEzA==
 xn--mma-9h2o53zqrd.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
 xn--mma-9h2o53zqrd.xn--mk1bu44c.	172800	in	ns	ns2.dyna-ns.net.
 xn--mma-vm7lf44f.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
@@ -8987,8 +8987,6 @@ xn--pnb-dp7lp91dz3b85mwio.xn--mk1bu44c.	172800	in	ns	ns1.whoisdomain.kr.
 xn--pnb-dp7lp91dz3b85mwio.xn--mk1bu44c.	172800	in	ns	ns2.whoisdomain.kr.
 xn--pnb-dp7lp91dz3b85mwio.xn--mk1bu44c.	172800	in	ns	ns3.whoisdomain.kr.
 xn--pnb-dp7lp91dz3b85mwio.xn--mk1bu44c.	172800	in	ns	ns4.whoisdomain.kr.
-xn--pq1bk5iywl.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
-xn--pq1bk5iywl.xn--mk1bu44c.	172800	in	ns	ns2.dyna-ns.net.
 xn--pq1bo3o.xn--mk1bu44c.	172800	in	ns	ns1.cafe24.co.kr.
 xn--pq1bo3o.xn--mk1bu44c.	172800	in	ns	ns1.cafe24.com.
 xn--pq1bs4noujsf.xn--mk1bu44c.	172800	in	ns	ns1.whoisdomain.kr.
@@ -9081,8 +9079,6 @@ xn--s1rz16c14m.xn--mk1bu44c.	172800	in	ns	dnsst.samsung.com.
 xn--s1rz16c14m.xn--mk1bu44c.	172800	in	ns	dnsst2.samsung.com.
 xn--s22b82jfpfj1b.xn--mk1bu44c.	172800	in	ns	ns1.threeany.net.
 xn--s22b82jfpfj1b.xn--mk1bu44c.	172800	in	ns	ns2.threeany.net.
-xn--s39a0hnon5du8gts3aj1d9od6tb37l3w1bpfa.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
-xn--s39a0hnon5du8gts3aj1d9od6tb37l3w1bpfa.xn--mk1bu44c.	172800	in	ns	ns2.dyna-ns.net.
 xn--s39a2jl0ba574aenl62bsvbz26eciy.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
 xn--s39a2jl0ba574aenl62bsvbz26eciy.xn--mk1bu44c.	172800	in	ns	ns2.dyna-ns.net.
 xn--s39a54bm5fejk30ailoqog8zdw10c.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
@@ -9139,8 +9135,6 @@ xn--s39awrv8wnoj.xn--mk1bu44c.	172800	in	ns	ns1.whoisdomain.kr.
 xn--s39awrv8wnoj.xn--mk1bu44c.	172800	in	ns	ns2.whoisdomain.kr.
 xn--s39awrv8wnoj.xn--mk1bu44c.	172800	in	ns	ns3.whoisdomain.kr.
 xn--s39awrv8wnoj.xn--mk1bu44c.	172800	in	ns	ns4.whoisdomain.kr.
-xn--s39axa10avsf43buqn4od54fp7b9yb18bke402a.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
-xn--s39axa10avsf43buqn4od54fp7b9yb18bke402a.xn--mk1bu44c.	172800	in	ns	ns2.dyna-ns.net.
 xn--s39axa73dvcq68a2eu80c0mopxd2qhh6f1xa8d299t.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
 xn--s39axa73dvcq68a2eu80c0mopxd2qhh6f1xa8d299t.xn--mk1bu44c.	172800	in	ns	ns2.dyna-ns.net.
 xn--s39azrg30cvjgqsp.xn--mk1bu44c.	172800	in	ns	ns1.whoisdomain.kr.
@@ -10298,4 +10292,4 @@ zx0p5p70.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
 zx0p5p70.xn--mk1bu44c.	172800	in	ns	ns2.dyna-ns.net.
 zzmtdih2.xn--mk1bu44c.	172800	in	ns	ns1.dyna-ns.net.
 zzmtdih2.xn--mk1bu44c.	172800	in	ns	ns2.dyna-ns.net.
-xn--mk1bu44c.	86400	in	soa	ac1.nstld.com. info.verisign-grs.com. 1757512758 1800 900 604800 86400
+xn--mk1bu44c.	86400	in	soa	ac1.nstld.com. info.verisign-grs.com. 1757599158 1800 900 604800 86400
