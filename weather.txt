@@ -1,8 +1,8 @@
-weather.	900	in	soa	ns1.dns.nic.weather. admin.tldns.godaddy. 1757479269 1800 300 604800 1800
+weather.	900	in	soa	ns1.dns.nic.weather. admin.tldns.godaddy. 1757569270 1800 300 604800 1800
 0a2419pj8vt7ilapthvq8mnce54vu17m.weather.	900	in	nsec3	1 1 0 - GMJI5D5F06F4LCFBTIFHUE4ARDOPIHNS NS DS RRSIG
-0a2419pj8vt7ilapthvq8mnce54vu17m.weather.	900	in	rrsig	NSEC3 8 2 900 20250919073521 20250905064959 37941 weather. cf1579znKRZ8YSt4Oyjz+MuVPnzDyTzXT61WfPZkBcv7KNd/qNo0qV9OqaB209/nS9wImgVdkiQ+od2Q8Ar/qug0ulsdGYG+c9rd6o9ZQNjbXLyGeWKIw+CesQJteuVbtnxKDC6AL35qcV6oxEo+PMzVyzA1Kw/I4J1ije7X7IKp7DqbTVNobkd2nSkNQ50Ri6y8H2xIgaqCwNFYk5rGyQ==
-_forcedupdate.weather.	300	in	rrsig	TXT 8 2 300 20250920053139 20250910034108 37941 weather. GYKQ3bC+T1NEUBpenj/Jbw7WEj8avqHRoD/4vmFd/VUV0UR9lKV5nAe/uVi6MC2VkTaiLVUOMMl64QyRdHqOcg1psv3LhbBV3fQ1SEz4EVY6rZbqdbNoVaFI9urSafovbthQkREdg7lcMVxy3QPP2yCPqtPqRGd4vxXzI0wlzkntgWcyjwwCazXPqbXkQRuN4Y3AmxbPCGy6GV0F3JZYvg==
-_forcedupdate.weather.	300	in	txt	"1757479268"
+0a2419pj8vt7ilapthvq8mnce54vu17m.weather.	900	in	rrsig	NSEC3 8 2 900 20250925073059 20250911063521 37941 weather. FvIBX8weSHPFgoR6FilHhQwsIfIEkZVpYjCctTXw0dA8gAlpsLSGZnIAMPKDUflcosvNuQLa12j9Lu2GPREyQX3tZlO1kmcxKh6mm7pbdX9wLcApvpzCw3l9zS4EYDEMyzHpIy/2z5phKRdkooWM6jWlljTFSW49co0VcmWaJ86eicoho56rB2g33YjVzNknzwmUkoEK3RmW8sRMO96LtQ==
+_forcedupdate.weather.	300	in	rrsig	TXT 8 2 300 20250925195334 20250911194517 37941 weather. QkKZJp+Lq39fNxeU7G1Y8BP1aPNWmCN7ovZs31yVhmqzJyO4FLPc9gNvugo5vWoEHxEBPReZA8Uset694ZwSIjWN73O2cqddtma4+r7ne55BgxqdKiwO4zeDSXdyA3Gd6P9WDEy2e6Kkl93ByLJm+47i9dQ8KQY4O3ImiTBA+u+6vTsgO+IO+yUwbxi31BdChjcBY57bSCctdvtn4PblDg==
+_forcedupdate.weather.	300	in	txt	"1757569268"
 a.nic.weather.	3600	in	a	37.209.192.9
 a.nic.weather.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 b.nic.weather.	3600	in	a	37.209.194.9
@@ -30,9 +30,9 @@ ns2.dns.nic.weather.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0000:00b2
 ns3.dns.nic.weather.	7200	in	a	156.154.159.178
 ns3.dns.nic.weather.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0000:00b2
 r2mno2gcc41de3lovgmvhuaudpno6cc4.weather.	900	in	nsec3	1 1 0 - 0A2419PJ8VT7ILAPTHVQ8MNCE54VU17M TXT RRSIG
-r2mno2gcc41de3lovgmvhuaudpno6cc4.weather.	900	in	rrsig	NSEC3 8 2 900 20250919073521 20250905064959 37941 weather. Ch/hMCVZIDgAgKL6dYFQAfm0cB6gWswP5JxObrqVS9YiZA4trGAsqKLv5c663PslAUxusZfwPr5knJ+5GIA5iVo1/OklSCKe+hpep7+DfwzFF7wqyM1o/ksSyWac1KT7C5EZJF2GWMX5YUXX6Zw4qV4lKL0TcuYG+y8oDp5uId5sEqPlvG8NW5ut4JxZrTTaYcnoow4vqyFArRSuEtQnLg==
+r2mno2gcc41de3lovgmvhuaudpno6cc4.weather.	900	in	rrsig	NSEC3 8 2 900 20250925073059 20250911063521 37941 weather. mKjCuk/A1+Dz1B0F1lwrOkOlUBYWCozfunmTNjqxvs51UMsPLh8LbpwavMZD+kotk6f9TYR1p3Wb/3nS/vIJMcx4owlS4KeVY/gEjm3esweyfDn7HnTOXQ1gRGdAgzSZypoKMgcdeDGEJXAz6t5ObxNUFUJRKYl7TyCeC353ZlO6numWN2fV3onZryr7duvXBFpq6uqeCCjxQW6aZWdTcw==
 weather.	0	in	nsec3param	1 0 0 -
-weather.	0	in	rrsig	NSEC3PARAM 8 1 0 20250919073521 20250905064959 37941 weather. ZnmhZIBAnQNTC1R88PXcRbWN+VivDn8ZXk8pkOJ8GaWGferaaeyZehRIQwNZ2IQ65rjFbev2AeF71iFuUIAbldTTe8Mzx63Ig/w599PfxCo3xd4Eq0Sk9G3wl6Oy2YTz8EwBuCayBfuAHYcpuhoDrkTadHtTo8YO+WO2xE49tk0PQ2P874C3PuqmjHxsssJTtME8gFUAIUc7OsGQvAoIQw==
+weather.	0	in	rrsig	NSEC3PARAM 8 1 0 20250925073059 20250911063521 37941 weather. celzm8M0IIaWvIG/cKZcWKv6AvvoTZTOpRIofCIlT6R5NFagmfvHzoTfciy0Ce6i1uRBWLCWF6xFiZq7Smuv3F9nJBM1zfNSegHzEs3OEynAOSH28tzH8ZiweNMxjNJcs2BkrcMyvzvDxDOX8Tv8W04QzumUB8+Thkn8absMMGUO/ki99FwmWHC/Q7xcv4D6pT3iSk2WrOd+CrvjlAn3nw==
 weather.	172800	in	ns	a.nic.weather.
 weather.	172800	in	ns	b.nic.weather.
 weather.	172800	in	ns	c.nic.weather.
@@ -47,5 +47,5 @@ weather.	3600	in	rrsig	CDS 8 1 3600 20250922090449 20250908085237 1249 weather. 
 weather.	7200	in	dnskey	256 3 8 AwEAAa+Hpgg4TuUiWxI+iznS8Afs9P6dYsxVCTN2TtAcDgCWlUhVhUyehj6lFL9j4ZKBQoBX2cgyqm3flY3mi5BOHdrKACDfrX+PGyjmRjPOxYqP0MlOVSnH+ZzsJ0vZsZgyU47c5aDWzd0ORxAn5vj3HAN15B8Fuuq3N2lA1HAvWw1wMHx+3JYY4L5WDb/wkDaiWSZS7qdMJ3ps21dgmchkn6k=
 weather.	7200	in	dnskey	257 3 8 AwEAAe1sKoPjsoBfISQilPZeFdY6zVmZK2sUHDUX5vGuWN1YEIqjHwibkapAREpJcaovcQ5/Sk1ikJPfskQa9hFz5c5Mmn1ZkNuBnyuZUNMw5xmUknhB+beg6EljLk13EgAo4kF1o92TTDVvZJVaOPLZP+k9YNo/f9FRt72n2bVsNMxNd5Nu3Wg9Uc13ZHq52G1I5Ueouixu5f28cxjQji91LuQUF5OIg7EeYHUs5Yjg1lPTelw8L11quSwwHm+RPJmKMGB5V+qgPySwpg/wUmQGHmv+dxr+rV8yRm9L5uQxQkl99Ao/OqCNueiT+nTkkZ9FsRVHYds/6CoRcmP2m/+k5Bc=
 weather.	7200	in	rrsig	DNSKEY 8 1 7200 20250922090449 20250908085237 1249 weather. JDaZXKP9DZGC4KZHlm0Ef2cUXhThwTpibhNOqkX9OoO3HMyDt+jHwaHEasR48goch2wBA6bIfWsiYjMQMcXGwjjrTBUWeFi+PVeHpSjWFhcofKhCMUf1ISPLXbJcQnTj6hBaRymjPiMuM/3JPsH6b5R47UZd3A0sjFYjGLX61FqlfGJl1dHU7CPPrPGfDynYh6/dwMmpyATxJDF82zKrWG7lHObmE2CVEWz65XkmeQq5XjHrzQ/KRth8HN+xFq8+uEgzTcfXZI6oXIN1oLY74KbIrZNgsYylgwzgiozXyA3/tr5UaVoNQfqTcmkg8nhdgOyXiZGcm/GD7PTyi7yksw==
-weather.	900	in	rrsig	SOA 8 1 900 20250924222633 20250910212633 37941 weather. AkIXxp+lDm7rMgezmej+8yeGFH+ULMmC9apM9eNXbBv4hkjubIKRGGwYkAWgSBv/KBPVfnCFWZv5wVPrp/Fop30928fp9cANC4ZZUNiM09tkWpkHWMu2gJfxDcnMZDN/vzEeEniQPYILzi+czAO/hipbVlHVA/OwkexsrRug3uAD8PwuxiyuVGTTCtMMiJ8FqIbLu/OR0hEFCi2NTWoNTw==
-weather.	900	in	soa	ns1.dns.nic.weather. admin.tldns.godaddy. 1757479269 1800 300 604800 1800
+weather.	900	in	rrsig	SOA 8 1 900 20250925204517 20250911194517 37941 weather. QC6IU65DrDrKJ3mVUqoF49njf1EYI1wFIFm9RPOX68NG+aZCdpFq/YUYGMmk4pfN5QECgu6gelp0+3jcDhv55fF1B5byfeWylqt23/kN/VrxBSNxH5iKoodWUnNVGvEG0ccZJggnvS32k/VWpDGjqjZAFK2Go/5Ti7t9MX1ByGkarv0CtdKdSCmKYQxsePxJFNCWt7Pub6KVhRgrLaHRMQ==
+weather.	900	in	soa	ns1.dns.nic.weather. admin.tldns.godaddy. 1757569270 1800 300 604800 1800
