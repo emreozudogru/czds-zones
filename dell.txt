@@ -1,10 +1,10 @@
-dell.	900	in	soa	ns1.dns.nic.dell. admin.tldns.godaddy. 1757612222 1800 300 604800 1800
-_forcedupdate.dell.	300	in	rrsig	TXT 8 2 300 20250924092035 20250911163702 50748 dell. qT+S21OqdGEJVdYYCqH2KiZ0yJ41ctdxfyd5VGxh0t7aq4t65+Z8CYCFoB2sTXeBRpmhXOOyUJFHmgp+XXRCvtSYBf6fXk5oHwo8u66+e/IKDtWe2xlZLh9jzNNIEHVf6bTiw5LJnGPcE9XJFHKcd0KdqgSZC3cRNvGX5rTlYQYzvd93tndPwlqEBZHYSSn96OgOv28Q+uPzyVJ5Zvwu0g==
-_forcedupdate.dell.	300	in	txt	"1757612222"
+dell.	900	in	soa	ns1.dns.nic.dell. admin.tldns.godaddy. 1759322233 1800 300 604800 1800
+_forcedupdate.dell.	300	in	rrsig	TXT 8 2 300 20251014113435 20251001113712 50748 dell. dcLYo+btbemoZ8RUsqbInVnTVsB4Kko/ArRa/gWBBCvlpeCmizkCyPgsdgbcZXkj5rhMIctxW5g4Nlmcme8l4tFt3kdVWph8cdYtGTHfsT7iVvdH3XjrhuBMMt9bQ5wvoMaZSGSXW2noKK+8yyXgkyfRWFWF280SK74Q9uVj6ms3RAWbYb4KVPFHbTqMgSwpFv9KmldTut3ChqQqC/iyEw==
+_forcedupdate.dell.	300	in	txt	"1759322232"
 a.nic.dell.	3600	in	a	37.209.192.9
 a.nic.dell.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 a71anv6ofki5cpfaqrap17utdqoq01ms.dell.	900	in	nsec3	1 1 0 - FS5E43MM0O8EJSL2RDQSTRR9571IIC26 TXT RRSIG
-a71anv6ofki5cpfaqrap17utdqoq01ms.dell.	900	in	rrsig	NSEC3 8 2 900 20250920120514 20250906120112 50748 dell. wL6ETTFzmQJ51tP+2dzGbym6VHi43OP+cFz73zaNexxAio0cj0DOIYpECpMR+TbCZmsVoM4h61Voa2vr6WlJuTJawJJ5f5Jp17la5xFpfjtfNPKTL2WovlCgGZIikQs1mhvGbD0eZyBNReTxsvorlM5pWc4R+cMZfBrVSPFC0nB2IAb+wTcu++YuaHUVuJDoKjUksnvFagD2JKThzegd8Q==
+a71anv6ofki5cpfaqrap17utdqoq01ms.dell.	900	in	rrsig	NSEC3 8 2 900 20251014101324 20250930093858 50748 dell. bKIsUP+TLPmVncsdtJ1cTV2ULKWdhbJ8Vn781jHO/VmUWuYU//QD9Je+b8AU3N35+nMGCjLY5f3fdidiJdIKWSv65kZZ1T9QpWG8n4oy+7Z93HvmtvOYIeNwkLCpYyi2I3r3PlhlQsebJg/56zTwqsEmVtLG4Cubv34ZK5yuOsVhenbkOiQYxs2Wx76wgXxSXMHy4PGsTFONccWuz52u5Q==
 b.nic.dell.	3600	in	a	37.209.194.9
 b.nic.dell.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
 broken.dell.	3600	in	ns	dns1.safenames.com.
@@ -24,22 +24,22 @@ cloud.dell.	3600	in	ns	dns3.safenames.org.
 d.nic.dell.	3600	in	a	37.209.198.9
 d.nic.dell.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
 dell.	0	in	nsec3param	1 0 0 -
-dell.	0	in	rrsig	NSEC3PARAM 8 1 0 20250920120514 20250906120112 50748 dell. h7tMLIcjPRpaeQq7w4FH7vDgv5f9fcr/2QJhyE3O/IKcbpulhCeJa5hH9Y6zvSfCkN/UaT0TLsnFLM1OaKMtfc2xIGWJZn4Kl+/hhCq+kdnAdAnU0oyGdR5XLgcWnLqU4l/bMRwFPsw4/w6hn22HNZnBSxV8f6iEzwIKg1lZVcY44R302rXbNq3rfKpGqdUjg1KKLfHifGU1EsJINoptBA==
+dell.	0	in	rrsig	NSEC3PARAM 8 1 0 20251014101324 20250930093858 50748 dell. StQYlp8xriGD0iJOp4PdVzVIGhRoTWW3wPVeA1aO2upx10a7VdE/oYdZoN5w4rpsmuUN0t0WpxO4M32AeVNlgJx2JM7aQS42mbpzc1nsekGngyj+KcWCdS9l9iBl/Mkme26PCqs79PIAwQ9J0NEpVC2+FoCPk91YnBRP6qM95hKv1VHsSc1+TroLhcK1CXjup7fEsgMEuSapZho7ncSdgw==
 dell.	3600	in	cdnskey	257 3 8 AwEAAclPbDdU/ogB3jG38lImd1eW9RfuMFvFkIkCliw1LOJTQaG/5YzVYKiQJWUl+FPYv/hLYnx0+zwJ0PrA9d6vobI4A5r2ZxhgCri6Sa0zUUgwFE8lh3wbI8h2jtusG1GrOoU2sGpgNxungzsA1e4w27gxw0jsw4QHtBmZb15vrFYlaYXAkmhd7wH1C1VvcRlQMQzUJ7Bpw/HTR0fHfV4VtnBoDz28OnFPqvZ2nYHQu61vWokeMr+9eGgK+Bvb0/im/USnba94RqRCReOUjV/CSNVjs3eiRvcVzYMCaFHi/DojiwwMZKy6pdduKbMhlWIgetQvW4kI0ps2MQxdiAuAsD8=
 dell.	3600	in	cds	3580 8 2 44C5F896B1F96A4B5F85385DDA8648E5F050D94CF53B244D243CAA0877A5A3C0
-dell.	3600	in	rrsig	CDNSKEY 8 1 3600 20250922064012 20250908062658 3580 dell. kg86YAMxWOjcwDRd8zy2i/vY69IjxhNZw7DrhtC+NjX9k6pmtEn4n0RMhXlbjxEe7RGM1GlBtdcILFu7TxnhkvCzFbR+rpTTUAJ9KnS/wUCz+RmPmfN5S1v3jRaMuD7hYIvIINs85rnsoEhpJIemb4/gDs72Q55yyWO4wSG/jkAlYA8LZ/vKZX6oOZs53TS/T7lUobbjUMX7L/52O0BLl/WAslquifgtcEG82dEqlgMOZYJrWoDN6M7ZhKnjy5hI/6tV9Rxo7R+tkEaerO0sGtQozocgXq7fyP4nPoT6ir2h0eb164sb2uoVPb36Nc+iA/yJEM2MDtlUTtKsfikQJw==
-dell.	3600	in	rrsig	CDS 8 1 3600 20250922064012 20250908062658 3580 dell. ITMLyB5FlckCrZaLEwoG7pGTkYywaScZTFtger4PSo9PPGXP5TsBrkq3UNGI5zjxrvYK6yKEJLJY2w7NOT1Oa7OlsVD54y8IQdyXoiDKcvO2uU5a62j2QcR6SWx2gKvL71xBm2YTapinUzSGdT2Wknjcc0xsaLZbPlkL5nFIHzpzqcEasOdgDgovLdVEr64YVijDsFnuZMgk5Nb/086S0XgLi5ForileBwl5ZgC1NQ1SsY27K3CTvAUsDvoiHjT/+R6B4Xvi5vPG2Ap1OpuhKY5+TG2nIgKiGsObxEKXeFXFIZ/LodQX+PupvK8R7ateodXTUMpxzXLGBHXwmTa6gQ==
+dell.	3600	in	rrsig	CDNSKEY 8 1 3600 20251010051826 20250926045513 3580 dell. f0qL1KzLplf6V4Fu6Fu6SLmBintpb68N6VcqCrLVBBgVH6O6LOwAKuST1d0p0RG33iaDhZ8h0JFQ24wT3pgmWw5MkahSaj5dTU19oPMOXI1iPWDbIh329kfVmmUZOcZptq4mJ9V7KI4ULv8VOO9AeVfc2575bedAqcFFI0R1S/fH1PVNML3O84mZvy0kGqxAq3b0lFUdhekxseTtPlE1R9//i30B6EoZKLVdFQunePtfVX5HxjXRPUjSP3fpmEvV7JbSZaqOGZHIlA70PwK4R3vy9mVB20O/Yhvpy1DCXd8IV85ocH3BCPtG1sRCdIPABho082bxhOks8PFTZhsGtg==
+dell.	3600	in	rrsig	CDS 8 1 3600 20251010051826 20250926045513 3580 dell. nmAQ9YIXo6kAs2FBfgIR2+c3YcrBXdK49xbAGV+LFRpswZ0MacyAOqbLNKWMECg5E9BiKmnibM8P2aBlP5qnwXhw9alO0gE5/TcadfJREm0lUXiWYJrhrFFMlNFpYjFutly1+RuaFYaA7VUJKGzSBzS0uEhNo4WNpMedZZJW8veFR+maYkr30zgTrOrd0vmoapJg+HmQHCfijdD5CC3DGrI0gg7sUpSBhi0s1YFXLJGY4lEBBF39WjH7xiCWuC4iQibEletp3IaiJ1LIB3GI+n1L8BCYjl21fiBWzHp7unzj22M7TI2hEL77+4mlIKqw5HxJV/yJghEeDxP8rK2JIw==
 dell.	7200	in	dnskey	256 3 8 AwEAAcJuEDrX2QqCOrA7tY3JagVQmEs7oDaXmwtTh/wQGmy6+5rI0WONfHqPHE/0a/DF8PgfAEdWU79r19TgvT85Lz+67sRvicje4yJjiQe2ChdsWgLCiUysXJZ5Ttf7VdZEOd3C+chjM6YOHgtLlHkINFM9NvEea9GeEk2U1R+xFjQLrsfKZyzwupz6/tiadJuU52xmfawonNd8rT0RQNkbxAs=
 dell.	7200	in	dnskey	257 3 8 AwEAAclPbDdU/ogB3jG38lImd1eW9RfuMFvFkIkCliw1LOJTQaG/5YzVYKiQJWUl+FPYv/hLYnx0+zwJ0PrA9d6vobI4A5r2ZxhgCri6Sa0zUUgwFE8lh3wbI8h2jtusG1GrOoU2sGpgNxungzsA1e4w27gxw0jsw4QHtBmZb15vrFYlaYXAkmhd7wH1C1VvcRlQMQzUJ7Bpw/HTR0fHfV4VtnBoDz28OnFPqvZ2nYHQu61vWokeMr+9eGgK+Bvb0/im/USnba94RqRCReOUjV/CSNVjs3eiRvcVzYMCaFHi/DojiwwMZKy6pdduKbMhlWIgetQvW4kI0ps2MQxdiAuAsD8=
-dell.	7200	in	rrsig	DNSKEY 8 1 7200 20250922064012 20250908062658 3580 dell. gnXrf+ENw4vdh2NqxdFqFEECfgb02REbgHJj5ruZ1KYikDKGgOzufNJtk5PA01yC9Q7qBts1irw9xNT2adT4MvhBOj9i8oBfgS3I/u1tkjE2KaKPmJEzJX+EFae2ErkjrIt6LWjJk7ZVBYuOFlhwC76NhEzlQh3EQJaZYbNZB/EqHvaH4JJ5jebGKA03yNNe9/prl7OxkWCMl/508qh32HoQ8uQ13XTG/OvH7EQYWvHjSm0Ny9bR08RtbPVNoAV5wrJSZh/JUgAOrXNMnfmgALPposoatuYmvq2DK/8kws1PWhmqXwiXJHBF+GHUGMqWXOWrS+XMp59QYKRqcODGdQ==
+dell.	7200	in	rrsig	DNSKEY 8 1 7200 20251010051826 20250926045513 3580 dell. RvjTBDEk8Qtr4OdVIbH5hgtdNjdrRji6s1TeJJXX/AfoTwvgYq5ipjBm4SgvoTz/QJBliIDpvuTCOiKxTaRnDns1u2tawyiRr0FTlB9q8tKokxssqj0OyRAkIa9d6fKO8L7/oBdDdggEJsQI1kveauDVdiuBfjZhJzvA7dhsp7EGOavQllSbEDnMceqO9V8uvwZZmEs6e/Y6yz4PuLqrIKL237zIeULMXdWE9FRx1eyV34YrZUJHiYqKNwXPCFaW1iczmSOUGmtoR/9d+RUfJFirRj9AkhxtfAOQ243ZmXcw28toJxjSzeBYMP8po8Lue83YHybtBbiNdGJxoIBMWQ==
 dell.	86400	in	ns	a.nic.dell.
 dell.	86400	in	ns	b.nic.dell.
 dell.	86400	in	ns	c.nic.dell.
 dell.	86400	in	ns	ns1.dns.nic.dell.
 dell.	86400	in	ns	ns2.dns.nic.dell.
 dell.	86400	in	ns	ns3.dns.nic.dell.
-dell.	86400	in	rrsig	NS 8 1 86400 20250921200433 20250907191046 50748 dell. vcgHLy6db+3aH5vm+PWlLDeNYv93yVisTx7J+tQ700m5hI8E5vMNEUmlh1vro5HTaSP0/bZ+2WLw1o3CN+Yao3slbBq86ockjbkz9H5/bSANo9ph2Q4F0CXrU7QkHrKeLk6F1RpVcVeJ75Q9kJDcas3Hz8Q1wjI50eIXwXOY9kL6K44Ml9Q4LUYjcqA18eDZ62lnimzeh19SST8h9RTiqA==
-dell.	900	in	rrsig	SOA 8 1 900 20250925173702 20250911163702 50748 dell. TSQxzKwFrc9Tb/fRejAisA/e3TyzHMgMiaNXr1iQ3R7Fpylp2KxOx1e6AsGLa9f52tJQ/ZkJYrZycUm5NbFYqHhZtwlvd4+1iy6pHbBrsRY4MUK1MjXZvWTFnXPlZKD7UO8WBNOoxp3O+ugwOepbEL2AZr97QZYCLmUJQ2SaFidmH6LxoFIfWKnDXcAbJ1rW4v5CRjMRSO0FnHhbunBrEQ==
+dell.	86400	in	rrsig	NS 8 1 86400 20251015175141 20251001173049 50748 dell. M9N+J98SRkte44vlwK9cAkzqjjFxG/atxJ9o4bdxPegH1xNjOaJhLqj/ZkKA/Ue9O5g3HPlLQQcEh6z8S+IoKiM7l74W/gTWPyYr4HvindCuTvM26EBa329vFPNfPsRULw0TNGSdPDWW0lRB3PoSYp17COSxBFtsqQ7C+VKH+FrZ8NWid99zmghtjUwkHpiazi4WfEGtzIsRdshWwG6BPQ==
+dell.	900	in	rrsig	SOA 8 1 900 20251015183049 20251001173049 50748 dell. IhqwxHE181czq0B+/P1iqygfdxnUFl0c7tfpYc5FnAk7bvVFGdgPD6mhnUh2nLNusYdprWR5zqwX+LYkpvp20OiEQiJjzQ9yhaPycJwIdz5CfjLoR5Ezz8SMUKevQPJfdMk5HC7iWyLapj/f4G3f6TRfHBDmzoahGz74VlVG1r5WWSyW6y6BWZ8vy78+Wy4zhtCALUk12P1L0qHETQVGMA==
 dra.dell.	3600	in	ns	dns1.safenames.com.
 dra.dell.	3600	in	ns	dns2.safenames.net.
 dra.dell.	3600	in	ns	dns3.safenames.org.
@@ -47,7 +47,7 @@ edm.dell.	3600	in	ns	dns1.safenames.com.
 edm.dell.	3600	in	ns	dns2.safenames.net.
 edm.dell.	3600	in	ns	dns3.safenames.org.
 fs5e43mm0o8ejsl2rdqstrr9571iic26.dell.	900	in	nsec3	1 1 0 - OO31MTE5PLDLTUAF64SI49IJV2GOUED4 NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-fs5e43mm0o8ejsl2rdqstrr9571iic26.dell.	900	in	rrsig	NSEC3 8 2 900 20250922064012 20250908062658 50748 dell. B1IPMB/oarDVNyp65b8sts+PiXWX5DQD6ZesDlDqhtGBNPw4mbk522gHJEV8LFF/ihgrudjgLuxmPQiWTQD5XOnaZ4WEnTBxnVl6621xAZzz6msbakv5pLwfWMt0lhxwmVJNsXWDaEmgAu/1h9I+aeFazsi2m1qLpACaxN678yY/7jB5V/mp9aB4pGniBiaqgWDuQjA3dfG62Lc5oplaTA==
+fs5e43mm0o8ejsl2rdqstrr9571iic26.dell.	900	in	rrsig	NSEC3 8 2 900 20251010051826 20250926045513 50748 dell. BeFWZKYaC1D8XSDbqL8fhoOWbWl0hcUw9cDlWCPOYQ497hUpHjY51gLDPZlLhlGkbjzdWfBWegpAKbqwpf+fywnOX3har1m2hDdbGxQOzUwdQtAq0K6qzW8+LRcRoVoQF6Pzqzbpgj8spZdxX4x2SVOgni9VAaTN5hgeqpDcsZJoiXogfGjJiweP3jo2BkxBtcfkEDYVHohHsUPuxjom/Q==
 inspire.dell.	3600	in	ns	dns1.safenames.com.
 inspire.dell.	3600	in	ns	dns2.safenames.net.
 inspire.dell.	3600	in	ns	dns3.safenames.org.
@@ -89,7 +89,7 @@ networks.dell.	3600	in	ns	dns1.safenames.com.
 networks.dell.	3600	in	ns	dns2.safenames.net.
 networks.dell.	3600	in	ns	dns3.safenames.org.
 nic.dell.	3600	in	ds	29890 8 2 F234888366AAC873F68855AF33C8511EC9CEE70519C8AFD76FE32DE07C61449F
-nic.dell.	3600	in	rrsig	DS 8 2 3600 20250921200433 20250907191046 50748 dell. Tt9c7At+hueBjmyQqZe5WTJXvYWU9JX+a/u0IDvct00VPW/hfeiZKDIOKMcQOQ6cZoy2dBnZURoqMJh1Z8rUKN9vc8EAISUhWJli6IwDrSCEB8l2bTXz/Dh1heY8Lew7RlEuwfureRAhh4m+q1AFr7gl5Qq8yBTI6vlEivB5LessgyDQldT6o9j3AzYIcnzYcl6K+znzZMVgj4qwY/JGqA==
+nic.dell.	3600	in	rrsig	DS 8 2 3600 20251015175141 20251001173049 50748 dell. cZcKqAdv9Xig1174awyksaiV0rTeD6kFUcRUCUNE9wTvoMlkP4RiO/AKpJ47pR3Z3gwcnT30Fxe+5irIvQzG1LPw+IY8nLSksQ0q1cE3r3AHvDKDveiN5gpROE4a4KoO1LyAYFPOgiZNUMCaXtAhq/GYWBFC1rg9CYA2jjq4SV+QMca4+CZPsFxfvLL2vixi5hRqIc/SoqAFJH8Qfj08cA==
 nic.dell.	7200	in	ns	ns1.dns.nic.dell.
 nic.dell.	7200	in	ns	ns2.dns.nic.dell.
 nic.dell.	7200	in	ns	ns3.dns.nic.dell.
@@ -109,7 +109,7 @@ ns5.dns.nic.dell.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0000:002f
 ns6.dns.nic.dell.	7200	in	a	156.154.158.47
 ns6.dns.nic.dell.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0000:002f
 oo31mte5pldltuaf64si49ijv2goued4.dell.	900	in	nsec3	1 1 0 - A71ANV6OFKI5CPFAQRAP17UTDQOQ01MS NS DS RRSIG
-oo31mte5pldltuaf64si49ijv2goued4.dell.	900	in	rrsig	NSEC3 8 2 900 20250920120514 20250906120112 50748 dell. kZrE2rsS+7fTiASD0mc8q5DaK7NEde/WYoK08si68MJpF3dUllJ0xE/X7zoxUpP8NQiLUb03BrYMi4s68Ov1JLhy1Zqx3p2PwBFUZh++9gF6S8smBvDtSKwmtFhDh16QbLITGKvTZtVmiFf/H0knrdXcX8iiI2BzTV97l3+VDS8SN5Mo0+3G8raHyc0D5gYDEBLBmphdIDmAipMGZi5FVw==
+oo31mte5pldltuaf64si49ijv2goued4.dell.	900	in	rrsig	NSEC3 8 2 900 20251014101324 20250930093858 50748 dell. cl3vCMNpg24eIo1hTaX/8sqLGfEY4L9iI8ylI/HQh9V/5Xj0oH8mZgIIJlt/wApvMGWPSb9kbg24gpUlGWWFC12JBY9//jrVa9ediu3b9HezA9zRVeKBdioJc8hiBTgrcwmNGf7B+viMPxT0xzWjZH/jUy6PRflI6SaPuK5Edq/ppxSpIyG+xFuPOFl8/tZwlQr+1JirkwM/YrbGXz+0Zg==
 podcast.dell.	3600	in	ns	dns1.safenames.com.
 podcast.dell.	3600	in	ns	dns2.safenames.net.
 podcast.dell.	3600	in	ns	dns3.safenames.org.
@@ -131,4 +131,4 @@ su.dell.	3600	in	ns	ns3ns.dell.com.
 tkl.dell.	3600	in	ns	dns1.safenames.com.
 tkl.dell.	3600	in	ns	dns2.safenames.net.
 tkl.dell.	3600	in	ns	dns3.safenames.org.
-dell.	900	in	soa	ns1.dns.nic.dell. admin.tldns.godaddy. 1757612222 1800 300 604800 1800
+dell.	900	in	soa	ns1.dns.nic.dell. admin.tldns.godaddy. 1759322233 1800 300 604800 1800
