@@ -1,8 +1,8 @@
-mlb.	900	in	soa	ns1.dns.nic.mlb. admin.tldns.godaddy. 1757634003 1800 300 604800 1800
+mlb.	900	in	soa	ns1.dns.nic.mlb. admin.tldns.godaddy. 1759365433 1800 300 604800 1800
 4msscbq24movqgdpr4nu6s5qsvjkl6l2.mlb.	900	in	nsec3	1 1 0 - EI9CCG3GJSH7C8FI6UN62SLAST9GDMQ3 NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-4msscbq24movqgdpr4nu6s5qsvjkl6l2.mlb.	900	in	rrsig	NSEC3 8 2 900 20250922104216 20250908094944 56118 mlb. nbY852n2jY93vAyHdWeaFB0xwAeQoFlP9tzf7Qi5stzn9Xn7p5N469Sm76+vDhn2PBuKAzYVpyFdX+jzPeWKpM0Gn7HcdShJJHNzikuWRChsKkm327+nwBtMFnoRC/j0SRHUzBz8pstVSfhuAs0yQIEACy5PfEcN9maS8ukznzRbWXtIx1dtizkOFOyyD9h5g/meXhkI40IPvLIRxzYalw==
-_forcedupdate.mlb.	300	in	rrsig	TXT 8 2 300 20250923041810 20250911224003 56118 mlb. BoK0v6TTgnvtOkBWvUImOI4WVhsfONqBjhBE3b0DiS9/XO4Z0F72P/jE6HleJrZv4jFR9UrqopWC8/2ZdNLX8uTo6/+eAD/eNppjTDhsvFA99lLzBWsVTwOv4KDnxn49tma2J9e6up5CeMZ8Fv7a/a91MA56+SEpdo2Db1LZk7q5OnYt/SWv1i0pHbt718+o9Ul6DwGOs1edu7yEj+cXMQ==
-_forcedupdate.mlb.	300	in	txt	"1757634003"
+4msscbq24movqgdpr4nu6s5qsvjkl6l2.mlb.	900	in	rrsig	NSEC3 8 2 900 20251010083715 20250926075924 56118 mlb. T5TLSqFQL6lMcYnE9Kdb54dbeNR2RBJhMdYFAyzn20G/Xxhi82m+l/TBBpgFbiKsrM2BM246Ce3n+zkEHu+ArhJWjxKATQF/18M0GxZsC72QQSQ7Y/G9aiHLN8IztLT58OR/2kI8oNHsoLIbD9tIJae6tc24Za3+CwB13PF+0VF9G9wc8LdT6StnUkZi1Mvzo73aqMlsGOR1bDreWrrOlw==
+_forcedupdate.mlb.	300	in	rrsig	TXT 8 2 300 20251010194913 20251001233714 56118 mlb. t25bcwLHewU8nSUe6nvfKojgWTNTgGpLly4UgLGLumsHptmu/p7touAAbuQet+qn3bLBmWe1BJSx6ifjKUhMSTIFfOP0XNKq+uukugKTWVXUrmMJp+5JbNHjmfNQjAmIBMXecWCBimnxVr+Z0ReeDurYkPlBAj4rjgYsXlodwH6UVjom8MSZ8hfSMW5/D2blrws7QiEJHG1jurtXgoi/BQ==
+_forcedupdate.mlb.	300	in	txt	"1759365433"
 a.nic.mlb.	3600	in	a	37.209.192.9
 a.nic.mlb.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 angels.mlb.	3600	in	ns	ns-1370.awsdns-43.org.
@@ -73,6 +73,14 @@ cardinals.mlb.	3600	in	ns	ns-cloud-b1.googledomains.com.
 cardinals.mlb.	3600	in	ns	ns-cloud-b2.googledomains.com.
 cardinals.mlb.	3600	in	ns	ns-cloud-b3.googledomains.com.
 cardinals.mlb.	3600	in	ns	ns-cloud-b4.googledomains.com.
+cdn.mlb.	3600	in	ns	ns-1370.awsdns-43.org.
+cdn.mlb.	3600	in	ns	ns-1997.awsdns-57.co.uk.
+cdn.mlb.	3600	in	ns	ns-204.awsdns-25.com.
+cdn.mlb.	3600	in	ns	ns-976.awsdns-58.net.
+cdn.mlb.	3600	in	ns	ns-cloud-b1.googledomains.com.
+cdn.mlb.	3600	in	ns	ns-cloud-b2.googledomains.com.
+cdn.mlb.	3600	in	ns	ns-cloud-b3.googledomains.com.
+cdn.mlb.	3600	in	ns	ns-cloud-b4.googledomains.com.
 clevelandguardians.mlb.	3600	in	ns	ns09.gcd-dns.com.
 clevelandguardians.mlb.	3600	in	ns	ns10.gcd-dns.com.
 creativestudio.mlb.	3600	in	ns	ns-127.awsdns-15.com.
@@ -109,8 +117,16 @@ dodgers.mlb.	3600	in	ns	ns-cloud-b1.googledomains.com.
 dodgers.mlb.	3600	in	ns	ns-cloud-b2.googledomains.com.
 dodgers.mlb.	3600	in	ns	ns-cloud-b3.googledomains.com.
 dodgers.mlb.	3600	in	ns	ns-cloud-b4.googledomains.com.
+edge.mlb.	3600	in	ns	ns-1370.awsdns-43.org.
+edge.mlb.	3600	in	ns	ns-1997.awsdns-57.co.uk.
+edge.mlb.	3600	in	ns	ns-204.awsdns-25.com.
+edge.mlb.	3600	in	ns	ns-976.awsdns-58.net.
+edge.mlb.	3600	in	ns	ns-cloud-b1.googledomains.com.
+edge.mlb.	3600	in	ns	ns-cloud-b2.googledomains.com.
+edge.mlb.	3600	in	ns	ns-cloud-b3.googledomains.com.
+edge.mlb.	3600	in	ns	ns-cloud-b4.googledomains.com.
 ei9ccg3gjsh7c8fi6un62slast9gdmq3.mlb.	900	in	nsec3	1 1 0 - LIF5VQCRT027NPGJV419J4VSQ5KE885R NS DS RRSIG
-ei9ccg3gjsh7c8fi6un62slast9gdmq3.mlb.	900	in	rrsig	NSEC3 8 2 900 20250921130203 20250907120753 56118 mlb. cjNOXa2ro0rOmPODmD8gkasu2iCfo1o1w59J2n519O1aPEfWjh7UkvIgqqKe/umi75jCuJVhdkMj65ilIcoY5UdP2Z/fcDiVvGW3/hgL0TDgRggGnDyPUeF6BIhSMtekckXBjhlIc7R0duGzimZtdgKo2dQQJMGKmYXiuL3DtfdOlnydLfAUImDeLJX8jiCREMC2JxNQwLDohExrXRHGgQ==
+ei9ccg3gjsh7c8fi6un62slast9gdmq3.mlb.	900	in	rrsig	NSEC3 8 2 900 20251015111722 20251001103349 56118 mlb. ES1QIMkMtVXsirUynOUeJzQYwI9UhDH3TLdzDV2WE1k0M9UYuBVl4n6rvrICAbGSn9dUjlKDxv/i1r+U8Bnz6Y9vKfkNrYFTvfysprQoWd3krsBBR3aU6lcwd6SFkT4riwzxTWbcdTLD3F6oiXVyZR3LZ5X4nFtfgbmM09lKOxb2mtfZEcX6xkDq8yivmnBaX3+c2DyK4mwnny5CLt8X3Q==
 giants.mlb.	3600	in	ns	ns-1370.awsdns-43.org.
 giants.mlb.	3600	in	ns	ns-1997.awsdns-57.co.uk.
 giants.mlb.	3600	in	ns	ns-204.awsdns-25.com.
@@ -148,7 +164,7 @@ indians.mlb.	3600	in	ns	ns-cloud-b2.googledomains.com.
 indians.mlb.	3600	in	ns	ns-cloud-b3.googledomains.com.
 indians.mlb.	3600	in	ns	ns-cloud-b4.googledomains.com.
 lif5vqcrt027npgjv419j4vsq5ke885r.mlb.	900	in	nsec3	1 1 0 - 4MSSCBQ24MOVQGDPR4NU6S5QSVJKL6L2 TXT RRSIG
-lif5vqcrt027npgjv419j4vsq5ke885r.mlb.	900	in	rrsig	NSEC3 8 2 900 20250921130203 20250907120753 56118 mlb. BXEuKzg3mEHc3bM8+iqmMm2uwLn1DhKLL4idZ1vDbjGqVpILmPReDtg/1KB2kVy1z7Y+1BJwqGF6du804mmljtmNjMBci4KQf6enquWXImfE1NrVjPULa0ZZovn23PagMOF5NXAifXLPhw4Z4Of6SZSAVvY2MdSu4+8pEOiHbBUfSilK9injaD1OmxW0ji0Jzb35WWElU4LHsm+2JlngNA==
+lif5vqcrt027npgjv419j4vsq5ke885r.mlb.	900	in	rrsig	NSEC3 8 2 900 20251015111722 20251001103349 56118 mlb. t1ghUikoQcZB9UBEJfC9Gi+3jtOWWm/LwItUrby0v+BYwgBHLVgAg8Tw6hCAcsZCMLNopknI2kU8yGjZEeaYNme7rjUdwNp5tFuIsV8aF7t1MSfj+Tk5EI9tbOBeWh1hKRmJA5SbKP5vgyITYapGF4frPu7T5jYAy+MDvbSDo1uQUiVFNUZAU5lVgSOEmogaDQNwoBD4qHzt/vBh0IMk6Q==
 losguardianes.mlb.	3600	in	ns	ns09.gcd-dns.com.
 losguardianes.mlb.	3600	in	ns	ns10.gcd-dns.com.
 m.nic.mlb.	86400	in	a	204.74.104.90
@@ -186,22 +202,22 @@ mets.mlb.	3600	in	ns	ns-cloud-b2.googledomains.com.
 mets.mlb.	3600	in	ns	ns-cloud-b3.googledomains.com.
 mets.mlb.	3600	in	ns	ns-cloud-b4.googledomains.com.
 mlb.	0	in	nsec3param	1 0 0 -
-mlb.	0	in	rrsig	NSEC3PARAM 8 1 0 20250921130203 20250907120753 56118 mlb. GZ5K6noZouB/lj3Hywcgn1+6vMxqHqTV/5BQULjs/7jKYqcyBndW/ZVQQv6bHP5juEHYWZYpgC4kh/6AczawAqH/jOffTr/RJFtuO0w9u6HA+gKtKsn6aIHhkV+NniYqv4uVFwVRgb1+Nww3lqUG75aZqWcKGHFOLeYd/H4qf9qW0mdYSb5YO6e6Fy1kyPf7d465bNcmHo3c74eqTzoKqA==
+mlb.	0	in	rrsig	NSEC3PARAM 8 1 0 20251015111722 20251001103349 56118 mlb. wwbYp1bDTtjmVh8TUmLseE7F9k/vC5zeCDOnU5ut27ed9AYhxkz+pbEESPwgqj4EQLXnCtXiwgJ4kUByHoJdPDGbsR9NVc6gkGhD4jBhU9IlvXacbrlJJWM1QcNnJ4V52x+k7aEbrg1DrPYcP0NBweSzbHE6q+ZsinDbzwzDLZuyevLUMKpNvs2NRvMC7BsE3RlbcaXzc+cubVrCt8Vtcg==
 mlb.	3600	in	cdnskey	257 3 8 AwEAAcfyhVzoAlGZ8UuPoadNIFquKF7aXVFtBm1FjuTAuW5u1wBe2zm5m62Hek0l+hlBsUYhyqjVinNfUakwFbjGZr/jGOhuDFRDXPjVelAWwaHhSwgX4RP+jeKu5sK7HPyCPq0g3qQKY0AE9i14GGvwPWCJC/MWqcS3p4dsjSOSlvlbbaXVV+ypyGpihu0jzzTtCTq0UaH5J4m1sxnKhgjLPw9YkfborqrkKxYWzJ8a15vdY6iPjXnAmd8lZqdq4msG0ad+BvIRRrYN48aA1EX6ItuGsB1zKS8pJxhfBiNEFVq0YrhXHutfTIsWkuRp9+/APFUb0hoDohXc64fywtStyJE=
 mlb.	3600	in	cds	8650 8 2 218D67DC41C6696C577288447524E3588673894AC178AB6EC2D0F3C1FDA09A9E
-mlb.	3600	in	rrsig	CDNSKEY 8 1 3600 20250922104216 20250908094944 8650 mlb. YJkxQixI/ocU60V9CpDjLYcZZj1+z2cCJAphJ58m0e9br6C3nAYJ+NuQmJqkhGtKDLEQELqWg9KdKzcS22zQy8bOAeVt6lffBgrNnR7GjsLBJ/5tpHpqhAhLVqPK6RhmzJghDSVxFe4vRmWGCrjWgei23Bl+55aVrstJ4Aihb858ZHUGcedXlPdRH5/1WsHGzOyqIq+f02HuSwbgfHv0tOi5h/4wh605F5c8OuMhU4cSwqIF/5dtSaB3mSZRCSIpExpSk4r94vRgOn/nyZbPdwfKcsgD0KQMVkHekhcs8e9aJE3OnnSNgk4/bMnJeYiV3kAA3GWoVoJz8AcwBg8N+A==
-mlb.	3600	in	rrsig	CDS 8 1 3600 20250922104216 20250908094944 8650 mlb. bEUfzkDxRr5mgQLSFE9DlBf/+y9abXkTpZed3SnBb+r66o2O83BtjE9GRHa8Ub9UaN0kYOy14dAOvyjDIC5k07IuEIQJ+xnex6CIxUnqOG1n91d4q6HsT/t80rXXwQCfhwVPFO8GbhV0j/jG3VyTSC1Up66CuvkXiizS6xn7xAyUIaLUNDS1pbh8MGZVZkEo2zp9jWY/h8l1EF3X3aviS52na2pQ5f9OrqIeaAQaOBryaLhi/qnIHdKQUTzBDo2MDRaiIkkZJkWMrF4nk9Zb6cRQpR8C0U4rBkupjHU+IU8cPOUFUcUbFfCjc6rVZKlZMLD4i5Xew4+qqPsH1O9OTg==
+mlb.	3600	in	rrsig	CDNSKEY 8 1 3600 20251010083715 20250926075924 8650 mlb. NS7nCwge/gc0iz520YVwgcn5q4VF5nxes8KBC6XxWJZ5oTOlib8IkdiRV9SQOJ6FuY4hFq128U0fufVX/OwInb7O66vbqU6HT0wumBCyAYtPmnV+D3iGexrvhMfJx0fSMBzU80DgWHUw3dEZpB4/YOkD82VqUNdXZSovGdotThN5T8xuxLjF/I7GyLZjBMhTM6C9LE9ew+nYhGgK0xQVEXaZTJEgm9deflSqptqOrRix/qDaqUNfE0MtCszNz17M+O1tz38ePQvyJxRVb3ylToaS+cl4iwpkqOar47aGaa+B1Aw+Zwsr3aVbHqn4t1IUWgNvZYnLCGRuF8LuNaPskA==
+mlb.	3600	in	rrsig	CDS 8 1 3600 20251010083715 20250926075924 8650 mlb. qHOwag0F/j3kN8i7B0qABFanAm6BAe2JAq8oFzzNKjLK8chff/DXU8vRWdXuciz2fv4/wYJmwLcHtJX0+13Iux0nN5W4ait8FX8ZYJsiyGIucClfQFh8oNga66Au2ScKV63sGjJRFpoyNce/G742mlrzF2HAxXXRfJwqKqCzBOd0wiRWD8jtzL7sCaSjLPzivtg4Qr5Dxeqj80KyMHnWKsGf1dYlo+mjSNKCtcxQfdnnBUTKmJhACU5C4Y2YnVNYWlNquvyDFOeLsXMmUUbSLdiKtH+c1po9gIbVwVFn8zMbGo26C9HQPDpcHVqTSz5v+EKSbvAxn8QEmcXk1Zmw/A==
 mlb.	7200	in	dnskey	256 3 8 AwEAAeuYGfGAuAbz/iwhiacpF8CFDHxm/Do7pnIUUnTE798LElGFbA0JyUTqNqdsSeyxsJh2oQLa4erUAYsMfBl78RgEsLrhrtUZ4BtW5vRx+I5NzNPNfYALKRN+3EgdluId0vkL+fTBiBrWx8gKqeL6h1C+obEiE+a3awWjb+BYSMaos/IDGQDMy7zGtINRBu8eZvOeYaWv5yk2BxY5jOhiQ3E=
 mlb.	7200	in	dnskey	257 3 8 AwEAAcfyhVzoAlGZ8UuPoadNIFquKF7aXVFtBm1FjuTAuW5u1wBe2zm5m62Hek0l+hlBsUYhyqjVinNfUakwFbjGZr/jGOhuDFRDXPjVelAWwaHhSwgX4RP+jeKu5sK7HPyCPq0g3qQKY0AE9i14GGvwPWCJC/MWqcS3p4dsjSOSlvlbbaXVV+ypyGpihu0jzzTtCTq0UaH5J4m1sxnKhgjLPw9YkfborqrkKxYWzJ8a15vdY6iPjXnAmd8lZqdq4msG0ad+BvIRRrYN48aA1EX6ItuGsB1zKS8pJxhfBiNEFVq0YrhXHutfTIsWkuRp9+/APFUb0hoDohXc64fywtStyJE=
-mlb.	7200	in	rrsig	DNSKEY 8 1 7200 20250922104216 20250908094944 8650 mlb. QmHcXU07iRCDALTWhxGc1/OX8ndO+p6QqWot6sAxnE+bk7Mz0ZbHwG3gIYDn06DIRz8MEYDH55yQSOTldEMYPGywcH5kgiFr5fY+b95stPhDVGWTRS+WRPslVtrrwVe7zQudj/RoqgFQg7sCeng+oZx8ODhaSNGBNy8pl4C9Zg79zvT1d3uNg3DNB6JUqmoC34tY2hdhHsCmwGntEPnAAkPYcIgKflPI04dKFua00dFHm4Lmf9vDQUX0Mh93fjiOWlXf0QUqtgiLXFRjNsQ3ezZIDtaLUvPyxyeTAv2nPb0qi7qYvHfm2sVsnjZpIiakHkcOQrimslWRHW0ALQ7XOw==
+mlb.	7200	in	rrsig	DNSKEY 8 1 7200 20251010083715 20250926075924 8650 mlb. oq93iiwt359uZLn8f0TSCgAnuk+2aDFxn+fzoj2x/aTp1TjFYyxmy/v1fWVq3/Hxuml22raw54nhWlD9cruW82l9GwIcfz4As/wp5EJ1ab/7TpgOUwGFPLY3C+PywMcWoe5IrzSa/Tv6FxEW0C78ZuktVfbaTTEBtxwewkMj/y3qIwl8/Rxpuj/QM0RduYIFPu/wKxvf++LQZ+1cJc1EndKlKS/ALWbkQ/hyrtqPWucNyz1BkekB0yD9JTTuieYSnqdo5SHT23GKLRi9JeUbhYn6sZdxfcrfpAx89+uCBqqHN3o8qWUSHiYTA9LEzJlq3HDUoM9lyF0v0+0n82FyaA==
 mlb.	86400	in	ns	a.nic.mlb.
 mlb.	86400	in	ns	b.nic.mlb.
 mlb.	86400	in	ns	c.nic.mlb.
 mlb.	86400	in	ns	ns1.dns.nic.mlb.
 mlb.	86400	in	ns	ns2.dns.nic.mlb.
 mlb.	86400	in	ns	ns3.dns.nic.mlb.
-mlb.	86400	in	rrsig	NS 8 1 86400 20250923071643 20250909071352 56118 mlb. JExbbDr7BKjoDSU6/5x3LXCKFjbA9DMNj7/JJU1WAMlDAv/kF//6AoRRUmD++2I6EEXNfKYJVc5ouA+7pz5DDolrIEb03jGAxuWwfCLdDU+gFgj9gw7pJ7foUIAdYaVQdsQWjJbp/YpdZAaMcykUt7IXUIMWM3GFFw6EYNoeEAoPgMvsE4pI7GqRSCyIjuj7oFvp45rHcMzT8c7X13UQig==
-mlb.	900	in	rrsig	SOA 8 1 900 20250925234003 20250911224003 56118 mlb. v1Mmp5sqenonFrCYAgFWgbuSxb/VF+QYRpt8fWqtIHkWN5Qdl/XOT4j/VLDNCSbCvFBO61xU6A446er5OhuGlLc1LYXVz+Cc1+qZdyNYtABWz+vazZitGKo2aTX2PceNFKD+BDnDDUEM5/TA5o5DRWTgDNRBwwVv0DnEiqu+RsBpLcbipTOTPJRWgxjfxXd23mfZAAlrs8hnT7k6szOnaA==
+mlb.	86400	in	rrsig	NS 8 1 86400 20251011050109 20250927045118 56118 mlb. DRZWeqk3dsXtNGG+9P32CwBg+cTaf9lloaJotF+t0VkMaMXYPPHptr476Q1e17XyytwxMgQLlHAMeNJfyg6UuJ4tb0uuobWEtLnaPbcap/405/3MYtFNbyhCM5+O5CvPePvMGeZ6wpfDbWa8TaiNITdvm9twcqKWD5eQ3VSAcYqMd2jZArwQRetMos4vw3A/bJdjenHFyTmjv8/x04omqA==
+mlb.	900	in	rrsig	SOA 8 1 900 20251016003714 20251001233714 56118 mlb. NbX0SefvIp4R/mWdFDN00DCIR+gn2sHWyTrbt45x0590xFmgMYq44ZyRUmWSZZJ8EG8G6PlE10tAei8wNlo8/rifVLAifCkbAfit4qqy1RwumTg7hn18kINIzUrEmOXfWEHr+CfYoxeZTAvooKD+ZZLit41wYHn/lawczYIKTamJ34rox+DMHWfwQdAIaZPKqFWvuo/6YFkLR0KlYtB9Ug==
 mlbreplay.mlb.	3600	in	ns	ns-1370.awsdns-43.org.
 mlbreplay.mlb.	3600	in	ns	ns-1997.awsdns-57.co.uk.
 mlbreplay.mlb.	3600	in	ns	ns-204.awsdns-25.com.
@@ -221,7 +237,7 @@ nationals.mlb.	3600	in	ns	ns-cloud-b2.googledomains.com.
 nationals.mlb.	3600	in	ns	ns-cloud-b3.googledomains.com.
 nationals.mlb.	3600	in	ns	ns-cloud-b4.googledomains.com.
 nic.mlb.	3600	in	ds	25939 8 2 C03C0B3FD43C87B04E5D4F8AA39F912AC619BB8B0774EDBB37A0D750ACE56B52
-nic.mlb.	3600	in	rrsig	DS 8 2 3600 20250923071643 20250909071352 56118 mlb. Gq6g+QnJA/DeQg8Eq0XRt3/zkDovf/lxv5eq35J86i7R5UdioxGpAF1YXQNrUuxEo3c394MuRA5OQUakRFJmyN9XiLzjPiPnSIwUDLYMni4ZvoWpuc8xRwv/aYsCyXemtITJpt4I3jw0D8kqCxdS5HLjWLc6EXtrh3p+5KjByGKCRQ18bnZ1bn2oRt1m2h7G+fzEppvfu7Orhir8lDQ9aQ==
+nic.mlb.	3600	in	rrsig	DS 8 2 3600 20251011050109 20250927045118 56118 mlb. oof3s3JcpfticIek8wQddTU2yVecmqoy7Nu+9OYdLfiJTn6XMGnnCQXPwuH53kh0sGgULJYUwS9yoVPSovLreQeWOJEZ1eWOS3B6LkQYsBfOX4qzv/XR/Et/C9g1kcYBc1qKMR3isqYJYBNUeqDaixjwqBqQ/41PWK+OS6w7x7m01plYHeBsZMLqTUATde0uXD5bcqdUX3X88X2jJ1Co4A==
 nic.mlb.	7200	in	ns	ns1.dns.nic.mlb.
 nic.mlb.	7200	in	ns	ns2.dns.nic.mlb.
 nic.mlb.	7200	in	ns	ns3.dns.nic.mlb.
@@ -362,4 +378,4 @@ yankees.mlb.	3600	in	ns	ns-cloud-b1.googledomains.com.
 yankees.mlb.	3600	in	ns	ns-cloud-b2.googledomains.com.
 yankees.mlb.	3600	in	ns	ns-cloud-b3.googledomains.com.
 yankees.mlb.	3600	in	ns	ns-cloud-b4.googledomains.com.
-mlb.	900	in	soa	ns1.dns.nic.mlb. admin.tldns.godaddy. 1757634003 1800 300 604800 1800
+mlb.	900	in	soa	ns1.dns.nic.mlb. admin.tldns.godaddy. 1759365433 1800 300 604800 1800
