@@ -1,4 +1,4 @@
-bradesco.	3600	in	soa	a0.nic.bradesco. hostmaster.donuts.email. 1757638960 7200 900 1209600 3600
+bradesco.	3600	in	soa	a0.nic.bradesco. hostmaster.donuts.email. 1759366784 7200 900 1209600 3600
 a0.nic.bradesco.	3600	in	a	65.22.124.2
 a0.nic.bradesco.	3600	in	aaaa	2a01:8840:007a:0000:0000:0000:0000:0002
 a2.nic.bradesco.	3600	in	a	65.22.127.2
@@ -23,8 +23,12 @@ apl.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 apl.bradesco.	3600	in	ns	ns2.bradesco.com.br.
 aposentado.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 aposentado.bradesco.	3600	in	ns	ns2.bradesco.com.br.
-aposentados.bradesco.	3600	in	ns	ns1.bradesco.com.br.
-aposentados.bradesco.	3600	in	ns	ns2.bradesco.com.br.
+aposentados.bradesco.	3600	in	ns	a1-60.akam.net.
+aposentados.bradesco.	3600	in	ns	a13-65.akam.net.
+aposentados.bradesco.	3600	in	ns	a18-66.akam.net.
+aposentados.bradesco.	3600	in	ns	a22-67.akam.net.
+aposentados.bradesco.	3600	in	ns	a28-64.akam.net.
+aposentados.bradesco.	3600	in	ns	a7-65.akam.net.
 assembleiasdigitais.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 assembleiasdigitais.bradesco.	3600	in	ns	ns2.bradesco.com.br.
 assetmanagement.bradesco.	3600	in	ns	ns1.bradesco.com.br.
@@ -84,10 +88,10 @@ bradesco.	3600	in	ns	a2.nic.bradesco.
 bradesco.	3600	in	ns	b0.nic.bradesco.
 bradesco.	3600	in	ns	c0.nic.bradesco.
 bradesco.	3600	in	nsec3param	1 0 0 73
-bradesco.	3600	in	rrsig	DNSKEY 8 1 3600 20250930152057 20250909142057 61375 bradesco. Cc4Sr7pzN1/izSagyCz15USbv3a9GrvxROazqtD5EjlOtgfRR73whSKaAXVKbKswp4xJJOLYDpjLgTxdmzlvCnFzMT1W8DarF3xGaSPfmnKjOSzWSSvTufejgnVXo5gE5UI8Ef1DWiuY2YbhSdQXiICw+oYsUNr+uPlBIV36SfJ255frr7NdVx7YuzsIIBmcuD6jMC5QW0VcYEoX8DDtExTqWTkQuEopN7tO1xJovySUw3S8ZIPVK8Ur0MUelcxE1y1Vt8s1llbbOoFfq5mV3glGx3xH1TUPw258gGiPsP2q60Wcqq5i12TFEi0P90BAGq5n0se+UiAOd/fCcaxMrg==
-bradesco.	3600	in	rrsig	NS 8 1 3600 20250930152057 20250909142057 8899 bradesco. qIkb1+7jsZ6poq+dpJrk99DLgjUcbONG0uCjr9rh7fd43pourQGN5YzbDZj+K3poC1iaVsN1iCRVChHnr/VFjd5oCSbJsSSHBD7BSaU88zZDs0POpXEMXbATPhykh5lTBaF33kEFqSleHiW/eKxoH+SQOiGSNqeBLvN6ADic580=
-bradesco.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930152057 20250909142057 8899 bradesco. SRocw8nG1WII75wXHPVvi7oSyqxdChXNN6T10K3HrlZfvX0D69Ju+pr8Kd+Lq2Sk29zzpNWK/PAifypQpI2qfOvVM0Gyntb90do9lzNj7Jm1t4RcE62KacNZYjE4PQIWp3lnYYv7fVwJ17HDLfR4jEuA9l4zrz0ZLCx9pnPsC0I=
-bradesco.	3600	in	rrsig	SOA 8 1 3600 20251003010339 20250912000339 8899 bradesco. TAcwjUlU5mVn6Qhps58k6HC7jnS/18ZKXAqdKnmehirwSrvFt/ROgPwZ8TbYfxV6f/VN4AMxl6WLGRGnnXEmaBLI+/bQSL5TEHPvBaEt2Ja4HHiymhnzEkaTsgu/1bm13EwSkdGkS6JgiyYxmNAmp6jOkxRCN2jpEMwswMYggvk=
+bradesco.	3600	in	rrsig	DNSKEY 8 1 3600 20251022152537 20251001142537 61375 bradesco. M5vx6thzwSsbVDGNY4Xa1jCi3dKb5fh+SCoMHw8SNe7kCl89EtQt1vX4TiMQvzS4EjKMWILiGvq0OFcBUb96txde980ngNyXl8T6m2tMc6vcNtGVtzfx8w2c+jNrzfW8UXV9tXWK1T5TL9FUUj5ZmIGB5iIb9BrwHnn4tWM+jWO1oYfNc3Hj1oBvWrogj50TDMMzjXQewiLnBGJjRl/rfm12Dhr3blNx961z8MvdDAIXEgMwuM/Ehnn1XtauPvEBDuH4ByaEema0uUa2l2scd4ndLeU3Zu5D4XpIDwrYl+xW2WYDKeM1kQitiBc6zIncJdqg51YJyvLdMQtvY8JfTg==
+bradesco.	3600	in	rrsig	NS 8 1 3600 20251022152537 20251001142537 8899 bradesco. eUl5EsBFlWTUn86jTRa8MBiri8Rs3cL4RlNfaFf0hnW3uA9iurPDn6Fi6766NmcA6X2T9000OYx8GHPuuOg5Aea95g37oZgyinAw856XGOBa4AFRkUkC1qdYTmtyL1nMNQEN9M3LJkuZIdZ4fIuS2g/2QpYrTC864Spdi2uDECI=
+bradesco.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20251022152537 20251001142537 8899 bradesco. C2Be97wdjyBGMwwFcEyX5zmNweqvV5wST7hJXXBtx8jKwSAs72bxlSskU7hK/4c9ExsMftSLpScxHksijJWzTubLlTq7KMSuObiBdnUcDz1pDdBBZZrK7dO59lq42oDzNkDki4E0CprFXRgb7MUX+cNbaJ1G9+CeLGkRxMsz89A=
+bradesco.	3600	in	rrsig	SOA 8 1 3600 20251023010042 20251002000042 8899 bradesco. huTzZzgMnR691V1rqa0zLTTs4471OuEIaXMyVf+971UAF1La1/YPrdCCIswu7ZJZ9aPYNE9cfz/txWGjoYFDu5pKNma48IglrXr6H0RZSwpWLTubmQWjy6ZgHz4n7Yuw/kV9nB2KBpyPWa+RvexWYHt2+FaQjUuwM66Bwn2+9fM=
 bradesco.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 bradesco.bradesco.	3600	in	ns	ns2.bradesco.com.br.
 bradespar.bradesco.	3600	in	ns	a1-60.akam.net.
@@ -106,12 +110,20 @@ c0.nic.bradesco.	3600	in	a	65.22.126.2
 c0.nic.bradesco.	3600	in	aaaa	2a01:8840:007c:0000:0000:0000:0000:0002
 cadastrocustodia.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 cadastrocustodia.bradesco.	3600	in	ns	ns2.bradesco.com.br.
-cambio.bradesco.	3600	in	ns	ns1.bradesco.com.br.
-cambio.bradesco.	3600	in	ns	ns2.bradesco.com.br.
+cambio.bradesco.	3600	in	ns	a1-60.akam.net.
+cambio.bradesco.	3600	in	ns	a13-65.akam.net.
+cambio.bradesco.	3600	in	ns	a18-66.akam.net.
+cambio.bradesco.	3600	in	ns	a22-67.akam.net.
+cambio.bradesco.	3600	in	ns	a28-64.akam.net.
+cambio.bradesco.	3600	in	ns	a7-65.akam.net.
 campanhas.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 campanhas.bradesco.	3600	in	ns	ns2.bradesco.com.br.
-capitalizacao.bradesco.	3600	in	ns	ns1.bradesco.com.br.
-capitalizacao.bradesco.	3600	in	ns	ns2.bradesco.com.br.
+capitalizacao.bradesco.	3600	in	ns	a1-60.akam.net.
+capitalizacao.bradesco.	3600	in	ns	a13-65.akam.net.
+capitalizacao.bradesco.	3600	in	ns	a18-66.akam.net.
+capitalizacao.bradesco.	3600	in	ns	a22-67.akam.net.
+capitalizacao.bradesco.	3600	in	ns	a28-64.akam.net.
+capitalizacao.bradesco.	3600	in	ns	a7-65.akam.net.
 cartao.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 cartao.bradesco.	3600	in	ns	ns2.bradesco.com.br.
 cartoes.bradesco.	3600	in	ns	ns1.bradesco.com.br.
@@ -168,10 +180,18 @@ corporate.bradesco.	3600	in	ns	a18-66.akam.net.
 corporate.bradesco.	3600	in	ns	a22-67.akam.net.
 corporate.bradesco.	3600	in	ns	a28-64.akam.net.
 corporate.bradesco.	3600	in	ns	a7-65.akam.net.
-corretora.bradesco.	3600	in	ns	ns1.bradesco.com.br.
-corretora.bradesco.	3600	in	ns	ns2.bradesco.com.br.
-credito.bradesco.	3600	in	ns	ns1.bradesco.com.br.
-credito.bradesco.	3600	in	ns	ns2.bradesco.com.br.
+corretora.bradesco.	3600	in	ns	a1-60.akam.net.
+corretora.bradesco.	3600	in	ns	a13-65.akam.net.
+corretora.bradesco.	3600	in	ns	a18-66.akam.net.
+corretora.bradesco.	3600	in	ns	a22-67.akam.net.
+corretora.bradesco.	3600	in	ns	a28-64.akam.net.
+corretora.bradesco.	3600	in	ns	a7-65.akam.net.
+credito.bradesco.	3600	in	ns	a1-60.akam.net.
+credito.bradesco.	3600	in	ns	a13-65.akam.net.
+credito.bradesco.	3600	in	ns	a18-66.akam.net.
+credito.bradesco.	3600	in	ns	a22-67.akam.net.
+credito.bradesco.	3600	in	ns	a28-64.akam.net.
+credito.bradesco.	3600	in	ns	a7-65.akam.net.
 creditoimobiliario.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 creditoimobiliario.bradesco.	3600	in	ns	ns2.bradesco.com.br.
 cultura.bradesco.	3600	in	ns	a1-60.akam.net.
@@ -294,8 +314,12 @@ hube.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 hube.bradesco.	3600	in	ns	ns2.bradesco.com.br.
 imip.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 imip.bradesco.	3600	in	ns	ns2.bradesco.com.br.
-imoveis.bradesco.	3600	in	ns	ns1.bradesco.com.br.
-imoveis.bradesco.	3600	in	ns	ns2.bradesco.com.br.
+imoveis.bradesco.	3600	in	ns	a1-60.akam.net.
+imoveis.bradesco.	3600	in	ns	a13-65.akam.net.
+imoveis.bradesco.	3600	in	ns	a18-66.akam.net.
+imoveis.bradesco.	3600	in	ns	a22-67.akam.net.
+imoveis.bradesco.	3600	in	ns	a28-64.akam.net.
+imoveis.bradesco.	3600	in	ns	a7-65.akam.net.
 imprensa.bradesco.	3600	in	ns	a1-60.akam.net.
 imprensa.bradesco.	3600	in	ns	a13-65.akam.net.
 imprensa.bradesco.	3600	in	ns	a18-66.akam.net.
@@ -329,7 +353,7 @@ investimentos.bradesco.	3600	in	ns	a22-67.akam.net.
 investimentos.bradesco.	3600	in	ns	a28-64.akam.net.
 investimentos.bradesco.	3600	in	ns	a7-65.akam.net.
 lbth5b7vboelq61otm46sv6jb387hkph.bradesco.	3600	in	nsec3	1 1 0 73 U8M51NNKOMPFMUGSM1SIEKQ6FU2NBECK NS DS RRSIG
-lbth5b7vboelq61otm46sv6jb387hkph.bradesco.	3600	in	rrsig	NSEC3 8 2 3600 20250930152057 20250909142057 8899 bradesco. SmVCpdVC3WddY8kVGNSOZLQPfZGiz6nyGmqc/ZN4jGRnaq8ARZsDSowGF5ZvIP8GmQqUHGuYsXsycQKAFBrOsgQ8RM+IkbGYBpWrZafRRSwnk50XZv0zI2j1KOL579xmV95hCPoKIztWRJwqq0gho3+visIZ8f+e730c8FUEpIo=
+lbth5b7vboelq61otm46sv6jb387hkph.bradesco.	3600	in	rrsig	NSEC3 8 2 3600 20251022152537 20251001142537 8899 bradesco. AfFY0Qt3vCqQVo/+knF7hp8QGaaegb/AhC5S0lPtJCswgEtT/InTom0ZOOOyUS2C4zeEdSW3FbOHQk+85jUHom9fcCc9FIef2GqWngobycehdivl0oK4opcwwVBRGl6EAmNl295+74NjPsZnNz2/2snOlpHZNb+QFp/G6hahfWg=
 mei.bradesco.	3600	in	ns	a1-60.akam.net.
 mei.bradesco.	3600	in	ns	a13-65.akam.net.
 mei.bradesco.	3600	in	ns	a18-66.akam.net.
@@ -354,8 +378,12 @@ mulher.bradesco.	3600	in	ns	a28-64.akam.net.
 mulher.bradesco.	3600	in	ns	a7-65.akam.net.
 music.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 music.bradesco.	3600	in	ns	ns2.bradesco.com.br.
-navegadorexclusivo.bradesco.	3600	in	ns	ns1.bradesco.com.br.
-navegadorexclusivo.bradesco.	3600	in	ns	ns2.bradesco.com.br.
+navegadorexclusivo.bradesco.	3600	in	ns	a1-60.akam.net.
+navegadorexclusivo.bradesco.	3600	in	ns	a13-65.akam.net.
+navegadorexclusivo.bradesco.	3600	in	ns	a18-66.akam.net.
+navegadorexclusivo.bradesco.	3600	in	ns	a22-67.akam.net.
+navegadorexclusivo.bradesco.	3600	in	ns	a28-64.akam.net.
+navegadorexclusivo.bradesco.	3600	in	ns	a7-65.akam.net.
 negociar.bradesco.	3600	in	ns	ns1.exacttarget.com.
 negociar.bradesco.	3600	in	ns	ns2.exacttarget.com.
 negociar.bradesco.	3600	in	ns	ns3.exacttarget.com.
@@ -376,7 +404,7 @@ nic.bradesco.	3600	in	ns	a0.nic.bradesco.
 nic.bradesco.	3600	in	ns	a2.nic.bradesco.
 nic.bradesco.	3600	in	ns	b0.nic.bradesco.
 nic.bradesco.	3600	in	ns	c0.nic.bradesco.
-nic.bradesco.	3600	in	rrsig	DS 8 2 3600 20250930152057 20250909142057 8899 bradesco. Xy2UeLuVdfw/gTxzBXPZ075XunBH6x8HYHpuqBcq/3W0jdFn1vLlhAHDkOtKqF50AvkmRdIHfNCQRKLAHnz4ncUVIxz+85sof+YkYRlupxCVIAEpBBduCUwDpmXTLARzIu/a5twzcCoBBMsXL2jyn7gH94kYmWYjJhh4ia+RXuI=
+nic.bradesco.	3600	in	rrsig	DS 8 2 3600 20251022152537 20251001142537 8899 bradesco. UELZYl8plwWcVorxgYp1pSw1jvKtKcxDQg+h0Dsxh2ClYTBS1L8XDcmGYlmURXLqqV7/I3DZEMsJg+BlhzTEzDN7NJ8UW+ywVvIbHwmraMGKoC97+eHpvGV6vuVawV1xSmTXGS7jFuxeu3LDcllrlPijzG+3noP8hpHL9bngVio=
 nichosaude.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 nichosaude.bradesco.	3600	in	ns	ns2.bradesco.com.br.
 nikkei.bradesco.	3600	in	ns	ns1.bradesco.com.br.
@@ -403,8 +431,12 @@ pessoajuridica.bradesco.	3600	in	ns	a28-64.akam.net.
 pessoajuridica.bradesco.	3600	in	ns	a7-65.akam.net.
 pix.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 pix.bradesco.	3600	in	ns	ns2.bradesco.com.br.
-poderpublico.bradesco.	3600	in	ns	ns1.bradesco.com.br.
-poderpublico.bradesco.	3600	in	ns	ns2.bradesco.com.br.
+poderpublico.bradesco.	3600	in	ns	a1-60.akam.net.
+poderpublico.bradesco.	3600	in	ns	a13-65.akam.net.
+poderpublico.bradesco.	3600	in	ns	a18-66.akam.net.
+poderpublico.bradesco.	3600	in	ns	a22-67.akam.net.
+poderpublico.bradesco.	3600	in	ns	a28-64.akam.net.
+poderpublico.bradesco.	3600	in	ns	a7-65.akam.net.
 pontoexpresso.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 pontoexpresso.bradesco.	3600	in	ns	ns2.bradesco.com.br.
 portal.bradesco.	3600	in	ns	ns1.bradesco.com.br.
@@ -563,8 +595,12 @@ sistemafieam.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 sistemafieam.bradesco.	3600	in	ns	ns2.bradesco.com.br.
 sistemafieb.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 sistemafieb.bradesco.	3600	in	ns	ns2.bradesco.com.br.
-sms.bradesco.	3600	in	ns	ns1.bradesco.com.br.
-sms.bradesco.	3600	in	ns	ns2.bradesco.com.br.
+sms.bradesco.	3600	in	ns	a1-60.akam.net.
+sms.bradesco.	3600	in	ns	a13-65.akam.net.
+sms.bradesco.	3600	in	ns	a18-66.akam.net.
+sms.bradesco.	3600	in	ns	a22-67.akam.net.
+sms.bradesco.	3600	in	ns	a28-64.akam.net.
+sms.bradesco.	3600	in	ns	a7-65.akam.net.
 soliciteseucartao.bradesco.	3600	in	ns	a1-60.akam.net.
 soliciteseucartao.bradesco.	3600	in	ns	a13-65.akam.net.
 soliciteseucartao.bradesco.	3600	in	ns	a18-66.akam.net.
@@ -598,11 +634,15 @@ turbo.bradesco.	3600	in	ns	a22-67.akam.net.
 turbo.bradesco.	3600	in	ns	a28-64.akam.net.
 turbo.bradesco.	3600	in	ns	a7-65.akam.net.
 u8m51nnkompfmugsm1siekq6fu2nbeck.bradesco.	3600	in	nsec3	1 1 0 73 LBTH5B7VBOELQ61OTM46SV6JB387HKPH NS SOA RRSIG DNSKEY NSEC3PARAM
-u8m51nnkompfmugsm1siekq6fu2nbeck.bradesco.	3600	in	rrsig	NSEC3 8 2 3600 20251003010339 20250912000339 8899 bradesco. hoZfHJNFvis0NtcJOWevMg4DCiABtTg4UXrJtVqQczr8K/UxHZjNw9vR7k48YXtSNaYS4SnKTLsBBONXLcuKkO97ehRpKMG7bIZmixU9oOuSASAloWyPzAq8dxEVX+/vEdVA8VrxoFDyFSEmsLBoecHYmJMm4vTCYhqRYTfyUpo=
+u8m51nnkompfmugsm1siekq6fu2nbeck.bradesco.	3600	in	rrsig	NSEC3 8 2 3600 20251023010042 20251002000042 8899 bradesco. qXUoNe5Z+2i4RCbvxIPuPPXVOkAobPer9k6/GqNvWaEOujMmxuMk6B1oFS1Anblc1sVzQRM2l71PzdrDLh6A0smUbV1GKeGex5Io2+hylL64WWZs9AyqY8uKIzo4oB7Ii349c2Ngxvfx6zYCfFP9s92yyy38UuySeF84pKyMRhg=
 unibrad.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 unibrad.bradesco.	3600	in	ns	ns2.bradesco.com.br.
-universitario.bradesco.	3600	in	ns	ns1.bradesco.com.br.
-universitario.bradesco.	3600	in	ns	ns2.bradesco.com.br.
+universitario.bradesco.	3600	in	ns	a1-60.akam.net.
+universitario.bradesco.	3600	in	ns	a13-65.akam.net.
+universitario.bradesco.	3600	in	ns	a18-66.akam.net.
+universitario.bradesco.	3600	in	ns	a22-67.akam.net.
+universitario.bradesco.	3600	in	ns	a28-64.akam.net.
+universitario.bradesco.	3600	in	ns	a7-65.akam.net.
 universitarios.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 universitarios.bradesco.	3600	in	ns	ns2.bradesco.com.br.
 usecartao.bradesco.	3600	in	ns	ns1.bradesco.com.br.
@@ -645,4 +685,4 @@ wsmt.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 wsmt.bradesco.	3600	in	ns	ns2.bradesco.com.br.
 wssmic.bradesco.	3600	in	ns	ns1.bradesco.com.br.
 wssmic.bradesco.	3600	in	ns	ns2.bradesco.com.br.
-bradesco.	3600	in	soa	a0.nic.bradesco. hostmaster.donuts.email. 1757638960 7200 900 1209600 3600
+bradesco.	3600	in	soa	a0.nic.bradesco. hostmaster.donuts.email. 1759366784 7200 900 1209600 3600
