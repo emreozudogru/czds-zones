@@ -1,8 +1,8 @@
-java.	3600	in	soa	a0.nic.java. hostmaster.donuts.email. 1757639600 7200 900 1209600 3600
+java.	3600	in	soa	a0.nic.java. hostmaster.donuts.email. 1759367423 7200 900 1209600 3600
 2unjtltbvgkftcvqbef7j401k2je8p8r.java.	3600	in	nsec3	1 1 0 73 3UH4744N3P53086U40KH8BJIPOO4LHGL NS DS RRSIG
-2unjtltbvgkftcvqbef7j401k2je8p8r.java.	3600	in	rrsig	NSEC3 8 2 3600 20250930161531 20250909151531 17640 java. s4/7Rwg8UuvYdQWvslA9oNL5mLMGHs0PQNNSbxjxzMG/IiUc6ohSI5UwitYQH2CTaqJvKVwI6l0O9ZBUbNt/4gzYxWZBZhxRzPD711w/F+MucZxJHXjGEZmQYa2C0wsj0Wu31xNt0rqUxULp4cNY7Cl1Nxc7e64aKxwo+Nd7PUE=
+2unjtltbvgkftcvqbef7j401k2je8p8r.java.	3600	in	rrsig	NSEC3 8 2 3600 20251022155539 20251001145539 32988 java. SzIFI8Cs03KJTOu6yV9DTHmV8XoqN7FB12Men+LHjXkIPA6OCEkpM4FUa9y58gZ4Z9KthveAdaymVZlDhPTTp6+WNriddO+MdiHKH23s49j/pPUhdBs9wceESL74UdN+jd8MxCNt0Tt2AcJiqjpp1FuixrYpGif6HWOWa+sFKT8=
 3uh4744n3p53086u40kh8bjipoo4lhgl.java.	3600	in	nsec3	1 1 0 73 2UNJTLTBVGKFTCVQBEF7J401K2JE8P8R NS SOA RRSIG DNSKEY NSEC3PARAM
-3uh4744n3p53086u40kh8bjipoo4lhgl.java.	3600	in	rrsig	NSEC3 8 2 3600 20251003011617 20250912001617 17640 java. iXslSwIY7tko6bNYdntSC/LKv2dhfpWhSQFWwYupTV3YAte/98jnF4dwZ1WowwXH4QXu0R0cCa1SAVT4CUMnCcWXazrUbmMidFkzZ8yGcfoFC45uNtBFSjzC8OLQmyC/Cmpzp4zzvM5/z6eBPnVDMJZw3RfZfHNvDJjqiA3M16A=
+3uh4744n3p53086u40kh8bjipoo4lhgl.java.	3600	in	rrsig	NSEC3 8 2 3600 20251023011317 20251002001317 32988 java. JNZjcIwA0lt4L7plw7IIBYNpUk1sCeb6/wFtYSO6W1pbmbZAOVNVijJj6Ulxrcca6J9Gbd0emoozIN1Jr9rW6qZgv+mhe4AfcTJCbCNGuN1lHdszepjkeAy3u/Z/EQ0/1CNhMsu9TazvqHAw4M5H/TOh2dy8Uhc5Ctg10oCPd8E=
 a0.nic.java.	3600	in	a	65.22.84.33
 a0.nic.java.	3600	in	aaaa	2a01:8840:0052:0000:0000:0000:0000:0033
 a2.nic.java.	3600	in	a	65.22.87.33
@@ -13,10 +13,6 @@ bugs.java.	3600	in	ns	a1-160.akam.net.
 bugs.java.	3600	in	ns	a11-66.akam.net.
 bugs.java.	3600	in	ns	a13-65.akam.net.
 bugs.java.	3600	in	ns	a18-67.akam.net.
-bugs.java.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
-bugs.java.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
-bugs.java.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
-bugs.java.	3600	in	ns	ns4.p201.dns.oraclecloud.net.
 c0.nic.java.	3600	in	a	65.22.86.33
 c0.nic.java.	3600	in	aaaa	2a01:8840:0054:0000:0000:0000:0000:0033
 dev.java.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
@@ -47,10 +43,10 @@ java.	3600	in	ns	a2.nic.java.
 java.	3600	in	ns	b0.nic.java.
 java.	3600	in	ns	c0.nic.java.
 java.	3600	in	nsec3param	1 0 0 73
-java.	3600	in	rrsig	DNSKEY 8 1 3600 20250930161531 20250909151531 35845 java. l2UktzwS3gH/htC99F91G48a8Glv9t+OMLxZjrdJ1+yNErHI6Q/RKXSUblE6EwMd4+0RmwH8UdI+WLbBnGU06opAO2Yok5tsymLTLSz6k4SnoxcA35k/Efzg/E4ZJsXM0XWlTuS7Spo5eYJZ2e3RHwyCC0auBn06XohO9dcBn/ZdSy8/CxkyeyPd1184xdlrMRGKDqh3AnY3Jci1m0Kclk38fcQ1usb1gRM8ZxPXdDaNWyInYDWFYSNZd4xvIYClTYE0ZvXSP6yP8m0frzvjs7R2qNjyIXkEQ7OcNE+TTwZdqyUOvhAHKFZ4yjTDk9AqU8zsWW341uRQIIO2gP8ftA==
-java.	3600	in	rrsig	NS 8 1 3600 20250930161531 20250909151531 17640 java. Bc8QMAbAlQER0qoPtCA76etHaPaZsPVVp6HEW6LCcU2KlZo30lqj4fVn+XrwDZ7Y0DbsoxamGppE40xHUsqhHtVQfIXTg/NS9/erDRzHlEQ4/dQd7BtNDeTtwskF3jd8fy6xiEJb4MYrcI28lcuZidYgOI+54tV1+bxKiGrRE20=
-java.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930161531 20250909151531 17640 java. v/6xaxDK17O3h6tVuMDwT555K20TQwDsKZ78zu+cfaXXJ5tdWQXXznU9d2r2SNr4qovDx4hTuJnNeqvo38btr5Pj/NIsQWjGk7yKYqw37UeZ28t3RL0+sUbV1Dkfa6RYGBSDa6Mx7DJEZYp70ikIeNgqt7o5fch10gA+KW8jszc=
-java.	3600	in	rrsig	SOA 8 1 3600 20251003011617 20250912001617 17640 java. ZDSPGRB5yXxtn6BQzv2F7V1X9OtZQrgr5gNjhdrmIYo4pI0xzht0/btgjJKhsX/pOK0IUPiPFAqZTGlk2bW/RW+LGDzRARHMvk7hculEVNG64l4DBlUBTwP+88BoEoDPwoavk13it3CcV3R0aov9XOoqEc81Efsl2bpAPOHpMq4=
+java.	3600	in	rrsig	DNSKEY 8 1 3600 20251022155539 20251001145539 35845 java. YvhPNqenHaLrj9F1Q2RXm2sX5WcB4PquFb/mYulhi98BOHDYNgwb4eB5sZ0831dVrhMMrBF0pOY939iT946CLxNTgal4t/17LU8e3b09/aAbt+geGirlSbt662beTyajcBL3doPL29hASIoSj470HI+RntEHt+nME9M/eOfUqZtFGUlg81EBp3hVjfsu0sFxSv0thRvEehAERZAeGjh1xMlh9syCfNI4d2qYjQdaBIPwcmCD+K3Ld0uFVzZ0kxM8By/BqHGfuL5ADQ0W/wAWvpjd4OqUVv244UYdvs2GMMUSr42InsdxvDN59IoGOFyY++wxmCGUsbJsFZYQQzTyUw==
+java.	3600	in	rrsig	NS 8 1 3600 20251022155539 20251001145539 32988 java. l1AMoXdX7RBdn4wxDFgyYUImaWx4RYX3zwfND4rfWodAAGwcoVUQQwR7tRob5pVvW35GoXPPttz2OfzWxm7C6SWy2PaXnvaUqi4Jf6lmmGrzEzpKeKUJpp2Exg6GIh7JTkLtMPbsVAmq53Wgk/BPFBxWQ3RBpbYfCLeFYDMvsxQ=
+java.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20251022155539 20251001145539 32988 java. Cju+A6hsYL9PihtKFD7+noUq+z584rOEnyrq5fLKWHQQO3ttsgIEOgab8oUYf3yIrqJnniUBv1MT+5SGz471KlMyzeUrhA2nMFH8dDiYOrBgi5BsspdL7kfwYKgm6SAmVg0zKRXyCtK5FFAK6pvQ983tvGmqikk+mg0QN75OVAE=
+java.	3600	in	rrsig	SOA 8 1 3600 20251023011317 20251002001317 32988 java. Ez8rpD8Nxa2u+zTEkVPZS7/YUqafLydukostSI8cmraEquCaUUnrmOjA1X2BcHZ0GM+SPMH3mQsYBVIRjsjCNATlsm3GTfDaT0nrdNKGFfK62tIS0Ft9EDttfpMd4RZ8towi4Dx4lPrfW0tjguoScM5YXZ0KccOd9Gho1I7GIjU=
 learn.java.	3600	in	ns	ns1.markmonitor.com.
 learn.java.	3600	in	ns	ns3.markmonitor.com.
 learn.java.	3600	in	ns	ns4.markmonitor.com.
@@ -60,13 +56,9 @@ nic.java.	3600	in	ns	a0.nic.java.
 nic.java.	3600	in	ns	a2.nic.java.
 nic.java.	3600	in	ns	b0.nic.java.
 nic.java.	3600	in	ns	c0.nic.java.
-nic.java.	3600	in	rrsig	DS 8 2 3600 20250930161531 20250909151531 17640 java. JF8MptRwkJF46Jdw27kNjLJb/v0vKteRz8Yx5appppqsuEy/G4GHeOJDS0GIKWDSiGKygHYPEkv2ADJLk6Df2Z78Cloz4maeCmAmK+vqUkW6NLO68YYQIAN3s0X6E3brm5qLucrLX39w695BGQFYLYdUzvGvv8wlEnPfa2JvJQ8=
+nic.java.	3600	in	rrsig	DS 8 2 3600 20251022155539 20251001145539 32988 java. Wx8NfIzIEMDvzMnAMJzXEkd5D2aQLYg0hEguBrKuuIxV97PEsMgj1YES19bMfENe+xkIcmqF/amDEZa7gwdHNIgsrE97T+To9dLyroQ5g/ERJETaOeNeqMZHo6PtFiz+wyH7FdxIU4+xewyWvkHAWvK/ra2uwyU54KWfzjUH6tQ=
 ops.java.	3600	in	ns	a1-160.akam.net.
 ops.java.	3600	in	ns	a11-66.akam.net.
 ops.java.	3600	in	ns	a13-65.akam.net.
 ops.java.	3600	in	ns	a18-67.akam.net.
-ops.java.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
-ops.java.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
-ops.java.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
-ops.java.	3600	in	ns	ns4.p201.dns.oraclecloud.net.
-java.	3600	in	soa	a0.nic.java. hostmaster.donuts.email. 1757639600 7200 900 1209600 3600
+java.	3600	in	soa	a0.nic.java. hostmaster.donuts.email. 1759367423 7200 900 1209600 3600
