@@ -1,8 +1,8 @@
-lanxess.	900	in	soa	ns1.dns.nic.lanxess. admin.tldns.godaddy. 1757605034 1800 300 604800 1800
+lanxess.	900	in	soa	ns1.dns.nic.lanxess. admin.tldns.godaddy. 1759325843 1800 300 604800 1800
 5to2fb26ccfd2a944ogoad2e25abk8bp.lanxess.	900	in	nsec3	1 1 0 - M259S125C4H6DAMFUAQ16GLITV5LUJFB NS DS RRSIG
-5to2fb26ccfd2a944ogoad2e25abk8bp.lanxess.	900	in	rrsig	NSEC3 8 2 900 20250923045252 20250909035700 52140 lanxess. RIu74eUomvWdUw78o0ixQB1e+x8naKVu3B6F1Q+r3QH+7tcc2w9NQf3BVZ+ftyYpbQ9XA71s9DRf1S3GiMVqx+YZRm5MRcZERQe2DtovWUo0rQvqlBrNlDdCQeLldgZQyCTX/padqkBusq4orCTVOARQFLtP124eLZ1HlAu54QgLrhBOCajVjCfy+1MM5BI3lGiqSqRQUqXVoFwIZYPT8g==
-_forcedupdate.lanxess.	300	in	rrsig	TXT 8 2 300 20250922052806 20250911143713 52140 lanxess. MgyM+gT0xh9btT25BuBrTyGNLkHC/sb3VVSCeI6c7z4RQkZEUv/QaGuIWJOfSaTc7I4bKePtZ3ahUqb3v3iajRMckZurG4d/sT7Qlpno5PmSdBaFAz9YK5c+sepPUuYscnYh3eRJkw1XVOTFPtE9+GeH2E/QeqgDFy6S0yoD5GZE2G85FzkUaCQQzdcbIESnQbWt/sL8I90eNvaeI3Vh9Q==
-_forcedupdate.lanxess.	300	in	txt	"1757605033"
+5to2fb26ccfd2a944ogoad2e25abk8bp.lanxess.	900	in	rrsig	NSEC3 8 2 900 20251011034226 20250927033651 52140 lanxess. Bgb0l+hqFOx86/9aPPATRaOUm5t3vEQ0/uVKZY0L2ni5je1bHQeYxYjjGbvC82gE48j+D/Q1Ii9eaiyrYBBm8wBf0dT2RadD+bpnvP6+1V+Tnb+3dqbUuZHB1bMHvJ3CQs2lMpYb49ze8GJ9s8Q9BbbmlsmmkgPleAPO1xqd/LdxILaj6fuuMnVYb70P7UOVKYeelGADNNuKKgu7VOUk7w==
+_forcedupdate.lanxess.	300	in	rrsig	TXT 8 2 300 20251012155619 20251001123724 52140 lanxess. jR7CwBT4uhVDYlOiTmPNwsT9QJqqmjal7RTbKW/srMt2s2XTf8Lye8zvdo3bAtbvvh+foOA++9DtZ7kr7ST7reDroM6/wjaUe7jxzQtKnDgtExfbdnozkilP+f4Rx7cMPOV5OR9Dxut76/3mSWA6XraQlo8p/7W/S08IPZqC6+fWII4MKVb7HuTZa2MQ+R2p2yBnDO1eKVif6d+nsNq2tw==
+_forcedupdate.lanxess.	300	in	txt	"1759325843"
 a.nic.lanxess.	3600	in	a	37.209.192.9
 a.nic.lanxess.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 ads.lanxess.	3600	in	ns	dns1.cscdns.net.
@@ -27,37 +27,39 @@ home.lanxess.	7200	in	ns	ns-422.awsdns-52.com.
 home.lanxess.	7200	in	ns	ns-882.awsdns-46.net.
 insights-platform-dev.lanxess.	3600	in	ns	dns1.cscdns.net.
 insights-platform-dev.lanxess.	3600	in	ns	dns2.cscdns.net.
+insights-platform-qa.lanxess.	3600	in	ns	dns1.cscdns.net.
+insights-platform-qa.lanxess.	3600	in	ns	dns2.cscdns.net.
 lan.lanxess.	3600	in	ns	dns1.cscdns.net.
 lan.lanxess.	3600	in	ns	dns2.cscdns.net.
 lanxess.	0	in	nsec3param	1 0 0 -
-lanxess.	0	in	rrsig	NSEC3PARAM 8 1 0 20250923045252 20250909035700 52140 lanxess. NIT1elS3EnpJZEIt7KIgDCSDDaZAYiZyCJSfRffZjd28dUgYGAGEpw20Js+e+Pi1WXIBsQEQWn3m9dT/ACA5mcs0T+yZKGDnnU3i0+SUmHybw6bSPJtz2CXy8JZk4+PF0NdbDFKKa2PqIV9zmIyRRa2IJsgJx4gP+9gK+ILZIjGew+nsO1FKg9ONyww6rD4VTjbLDnO8JZKCVaoUnfpoiQ==
+lanxess.	0	in	rrsig	NSEC3PARAM 8 1 0 20251011034226 20250927033651 52140 lanxess. jwkUxKBLaJyHy2bOnfpCZbOceIVGjDHzpMt5bkmRRAtaJLx8HbP8UzqYf4PMYzt9tw3EK5w0yF0U9/zd9fDnBiYtwXL848NlEyBT7cwvCr5I3Ceo5cXJXzSuetRzPkGdT/eHcKEH7fcrkI5sbsj9OGwcEEYd82/z5Oiy/clN/xPIrfO6IEfmTSvMqapFYfbIR2sB6PfgfCUUZLvFuX/JzQ==
 lanxess.	3600	in	cdnskey	257 3 8 AwEAAdIe1GxrsObFBJNZm401bPzwa4504JKBhH4M/Npv2NAG3IKtpKp1R3wS2iePtejKYCLyBW/6IHucFZjmv2JWMrRQOv/i8eya9U+pLrLrOmI6hfmwidqrlKzFrXPk5SR1DNbWVhN+kNs8l3w71c/xKPSo7L+y+02zmjfytiONGK7Q91I/In8jaTwKTnY4r692hR+eAizXRwLd0a0rU+A0Q4kup4rce0YPaa+aIdne+GCCfHta+R3nBCI0tYsin/JMlMm+6OZS1Pdcr6KrNIU9jVu1xlmoNN2ZK6MSe7ztWEBnKf1a3aPx9N4I3NU0XScDLzqHUuA6pVnhI7XSJk43n0E=
 lanxess.	3600	in	cds	42049 8 2 8F36C334345A3308D0E6C36974EFFEB13B3B5C0297A0A76443311A5BF98E01C8
-lanxess.	3600	in	rrsig	CDNSKEY 8 1 3600 20250922091043 20250908085030 42049 lanxess. k96TEoykB6O+ZxKv7YJmCXsJCRJHKIk15XY8FYelXm9tBIAVLDtPnSU/R3wAv9hYVFlKbu+hYYRTc/Y6qB9HXXk6ZRexN4lDdHI1BIlras2qiytT7KNLTD1NqvORgf8VUGmz6itYl9dTcifRxjxf+bPLL+g3e5ALuKZQ7w+tjMZVR/rDXxI7TjG+kD33VsKSUhr/lpB1t9NgWK8m0BncSpAQpJ5vyDOyqLjhN5w/YOIy9/LSIS81Ey37fRBxzl+MsqSaPyFhGiLIpc2ZG6TIz0SupesrcoCJTzblodEzYA23pyueRf62+ZwbDQU2G8wAs3zMz+4tbSpXqaSszI4LsA==
-lanxess.	3600	in	rrsig	CDS 8 1 3600 20250922091043 20250908085030 42049 lanxess. VFYholZmivq3jyWyiAdRRMTlOgqLTvlg7kqYVcfq2VZvpKpQSAHvpshGrkBdwV8PkhQ6uu8en30YTcWnO/MW/OCAcxak90edggQQd2bG3tOBfwWhLxATykCdx+9jdBayP7W/+zRYu/QFH01S4qkzesmeGPNPuFbw1Y/Idhzb3gZ1feW/No7Kbe7abfVoUZbFBoffWq6gT+l4B3fP2LIy1YaU2pRUP4TbbOCJcHCqaR+DQEuytruG3SX0iUB781xgLvMO3PaLIQJgK0RkR/n8aLfyrs4C5jDlmXJPEjynyLKZ1zjpxBhBWvXTAGO6eOzkxzzWr6aZviogPUCph5tk1A==
+lanxess.	3600	in	rrsig	CDNSKEY 8 1 3600 20251010072535 20250926064409 42049 lanxess. IZEA3BnnNd3cD0k/FXOLB5spo9CokNBPqvDXNZPr/zl2/NGWgi5SPFckT1vIR6M8hdTRjaz8J3HgPUvYetPr3hMk7FuBxEOEyBaSyrjFoldKffOetqxNnoWTQ34gHe3KpnRL9wKpWDG9+xYBYMGFL19NFqIHdExwzGIPrBU8eveOLJxkR4hnOEmM0unil81mXDYXzrMr0xyx6SBxNZf/mkipdMRMp72lpJPRXKYj0PXOc71BizshRZjOB26vNtRYtoC04fmg4hOZ5zw6LMoNX50mQJ8NKJQydIBmmgTvcP71cncNq9SfIRVfnR6oM+mk68I3g13tc8tJGnum5SrHJA==
+lanxess.	3600	in	rrsig	CDS 8 1 3600 20251010072535 20250926064409 42049 lanxess. piFdWRAEKX4vpXV8sQ771ZzpLNOW5qdJtqjFKPB7tFxoafyP2/tQIMY0nHBZEpssHx7M4n4ccxSkneI7Y553ukX6GdgSPIIMLymtxTRwgrLtID1guVfTILP6OL8SF80TS6bfeOzaD/JYvNbWNX0F2i4dGGxoMidHDnwvqgIcqXH29ZpcLxjgQD9lxh9eaeVpP7kX5kD9vgernO3v9W3DLOabxOx54s+/1MVbXe+7MWibkppWAT2YDfcjfUioVgQcCozJgwugZP+U3a3HRF8zNXP193Dt45YMxjxOssrq3PzkSV3URi60eLbDFZNS0pjol9kK4vgeHJkvUFr5n+MbcA==
 lanxess.	7200	in	dnskey	256 3 8 AwEAAZyxja/uoQZhocmbt0embuarAgZGJ9aq31rwsG86d4gsVmjZ/8klpQyW+OzAaDLU05+P9XSqTJMAyKeELuvINS58i90AEVfZM90Hn0TqNtMAZhdbKBXYGJp+kOuL4GRDGrYeXaYb3Kdfx11TMBgEM55yv1i+fQEtn8Y3/C3QssiPwqLAMW/anVO0t91y/vC7m8pZ+xVdhpH0ks4v2o800lE=
 lanxess.	7200	in	dnskey	257 3 8 AwEAAdIe1GxrsObFBJNZm401bPzwa4504JKBhH4M/Npv2NAG3IKtpKp1R3wS2iePtejKYCLyBW/6IHucFZjmv2JWMrRQOv/i8eya9U+pLrLrOmI6hfmwidqrlKzFrXPk5SR1DNbWVhN+kNs8l3w71c/xKPSo7L+y+02zmjfytiONGK7Q91I/In8jaTwKTnY4r692hR+eAizXRwLd0a0rU+A0Q4kup4rce0YPaa+aIdne+GCCfHta+R3nBCI0tYsin/JMlMm+6OZS1Pdcr6KrNIU9jVu1xlmoNN2ZK6MSe7ztWEBnKf1a3aPx9N4I3NU0XScDLzqHUuA6pVnhI7XSJk43n0E=
-lanxess.	7200	in	rrsig	DNSKEY 8 1 7200 20250922091043 20250908085030 42049 lanxess. FGSC5wn/9Vjmxdv3n4aVx0yAXhTfcMcJp6fcZZadSiyKSFply6j4FJl4bKs4xMgRYw+XgiIqoJFdl8QybnjchFqkhEVicHt4DGCk2WsxzWASGq2QweMkB0YO7Ub7Z2iUJFuWgp670Bh7Z/BEqu2OL/7JmH5t7nC6YjADOUeOz8pHa6sKUxG5TVewCvjIOaKx+yr2C+LxQlsNdcb+UTGqphGRHUwKY8MzrhkFaaddY3xub4R0TFfwi1S9+T5YqYU4CAVzHjDW1wcktihyT1AJ2DKL3vh0IXtH9h3vYJEK7HG+lIx0jiYd3b5TB5VawPKKbIPCpLxTlRQJ+wbY1B+c7w==
+lanxess.	7200	in	rrsig	DNSKEY 8 1 7200 20251010072535 20250926064409 42049 lanxess. w19DCH7qTyQ6pBV1lFtfnybYrigyLqnLfAi1e5O+WEOwVgs31yXm1tOO0GtZdr3CiGuLItvSZBZI3o9jJao+Gyrrigk0No/GaiHkWm7pqKf+PN2BVSXdyOf3JQMu8F22dbxv51T1phmaGcwkfoNecVWqqEOWW2m50pDc4uB44q+gsO6Tfav2mef4bo9yKX3LDFBkwHvv3HkLvoR4bgEXEKK6KBu91rlLsEGX9iaYdps4HBzaAdN+KgUlo4X5+Po1SuDapvCr4IpX8JxwMInEEqOSRLZ1/oGd24SNtyxZ9WjZw3R+3D+OcikV+BJIKKyv9L0t/hNx2AThl1hJcGTIiw==
 lanxess.	86400	in	ns	a.nic.lanxess.
 lanxess.	86400	in	ns	b.nic.lanxess.
 lanxess.	86400	in	ns	c.nic.lanxess.
 lanxess.	86400	in	ns	ns1.dns.nic.lanxess.
 lanxess.	86400	in	ns	ns2.dns.nic.lanxess.
 lanxess.	86400	in	ns	ns3.dns.nic.lanxess.
-lanxess.	86400	in	rrsig	NS 8 1 86400 20250925170653 20250911164503 52140 lanxess. J0SF9muqmtI62xt2rwRiOu9VvQsglEPPwUaZK/rzJPAtQLQVYCkkza2XvxKYpHgZJuNu7ncqFObsxf1iJEYifSflgF5gRrWKJ9oYUYdy2yrjNVldh6WW2x7yIcVSx38MDaYfKZViSvsCwrPGzmjqIagiXB7+pILoiVbvqqW29i40woa5mSC4IYDOB67wzccpbynjmkFQa2fSi+DgfYqGdQ==
-lanxess.	900	in	rrsig	SOA 8 1 900 20250925174503 20250911164503 52140 lanxess. EyrZLiexrEyLLn1zVgpvPoC5AKwzzHZwqzZHPykR+I0l5c30r4ae6/d4UlABEvMZCHhwph0JJb4F2mtjA6a1kz2N+5vUs1+6zuVjTLthtx4n48reEaUeZvc9+h+qO13RkeP8SNEAlR7EDGUv8jYxaBT/8MnmORcTegpJc6OrMz+sTrzV6aJ2sFPTZ5+EenT9NECUL8H3ZAXW2U/SwWK6Tw==
+lanxess.	86400	in	rrsig	NS 8 1 86400 20251013161209 20250929154255 52140 lanxess. a/GYfX/Qb7q4rqSg/Z4CKRV0XgOnM4OKbqgCRNuurpxPIfevqdFfbCTe/sKFsi8zZELF1iMMyVKGUDVTFJLT9fwuE2O5KfojsdjGHjnXL8pScZszmfBbUz0keZXMBGbZwmgjxgNwBw7iBQRGPoOKYJv4iGJaCtn870ZHSh0sy3xGgvNwMlC+1GQ0vYroLPo6gR//nd0vp+0mrQOh6ZeWDA==
+lanxess.	900	in	rrsig	SOA 8 1 900 20251015133724 20251001123724 52140 lanxess. GKdy6UUSVSapHmro5NpTWNn7OaBWKqxpZB3vEsrcaQNuKQEwenTfRQUiHwTa+qW0H5Da3zmKmCkMpvUNMVptKBrf/3ltp4mQZCFg5CLsLUl5ds10yxgGNm/vym9vrSwVndQU6nqQ1vMr7QLubzeY3+0XWMYIcPe21aiOOCgYUMAfUxW2d7jhC3tlxGdw5fGk+xq1b2pG9yuWkMBHOhZF1Q==
 link.lanxess.	3600	in	ns	dns1.cscdns.net.
 link.lanxess.	3600	in	ns	dns2.cscdns.net.
 m.nic.lanxess.	86400	in	a	204.74.104.90
 m.nic.lanxess.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
 m259s125c4h6damfuaq16glitv5lujfb.lanxess.	900	in	nsec3	1 1 0 - NG7SBMR4Q3MDDG2UG9FB523M7JUKKHLN NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-m259s125c4h6damfuaq16glitv5lujfb.lanxess.	900	in	rrsig	NSEC3 8 2 900 20250922091043 20250908085030 52140 lanxess. U91FkqTuDSAkzm7tPm3TK3naDXHS0wktDJ1ccQ2mtrXMFJIlv9f5LUqP8OoEcOwZk9FUUXg6nqbA/SO6jK8atr/3HbFYrG0aqcl6h5zjOFXV4k+NGXND5hYNbo3a4U8Mb2rIfBpLQePCwdDyxIG892jIuOzxq1hNun04Y0JPNi0ZsEfRNb4vTfJIOFdGbQM20/T0HKzYBKS5UZAZ5/tQiw==
+m259s125c4h6damfuaq16glitv5lujfb.lanxess.	900	in	rrsig	NSEC3 8 2 900 20251010072535 20250926064409 52140 lanxess. OhCxQCW2hRP1MnFtmBJNKP3jT1t/b3ykkjYibATNLRBHW1G5qLGhp1lc0tvfLBmRkekOewnQtJWcMGqCxcPQ+hxoW3SnCkSBDtHrc648A9WuB6XXtlQS1qHjQvJTnslbPNOKBmwe+fEH+59zgazUszEFfCo+lDBvpBPIxTcdH8uteAxXlofy34Od5sATmxxpJxgxeYEXJAX6LpVqThXQHg==
 n.nic.lanxess.	86400	in	a	204.74.106.90
 n.nic.lanxess.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
 ng7sbmr4q3mddg2ug9fb523m7jukkhln.lanxess.	900	in	nsec3	1 1 0 - 5TO2FB26CCFD2A944OGOAD2E25ABK8BP TXT RRSIG
-ng7sbmr4q3mddg2ug9fb523m7jukkhln.lanxess.	900	in	rrsig	NSEC3 8 2 900 20250923045252 20250909035700 52140 lanxess. diMhdMdV5HSC1do+sLpR7KrbZcb2I87pdvYwYQn63RquAFGaMbz11JuEsp1he0+0whvQFlHArmZL9hjxkebL217/yiOR2jPHUuzFMbmE4wmACq7amngcZlYloeu+XKkbL7Jxyn0XsaCJ/hTEyIyvDfnwY15xpfIHLyuQ4lQ0S4rYZBqd+eWrBxxrvSjtIqfvgpUk27/hy5Kp/QhLB34u+g==
+ng7sbmr4q3mddg2ug9fb523m7jukkhln.lanxess.	900	in	rrsig	NSEC3 8 2 900 20251011034226 20250927033651 52140 lanxess. UKCZYJlTANkeGHUYd2jHJVxuihzfLcyhoAypcFxuqw+Y3Po83gIWfprg2l9c/IKgsnvD04NkjN/DYMCw2ZWDm3CCltbp37ZaH30EOZ+SNJDyf3+P9RpX+r1EMV/hVbIvewnIQMFwsLwH4C+w/ADvOG6HUbaF9cPlVlMSFfsMbS5qC4ttOCgyAyVSxMNWNELyvVwSOuhEMq2YR3cpk5vvEA==
 nic.lanxess.	3600	in	ds	63214 8 2 6E392DF0F4F666F38140E5B762F63B4799137C5CB36B0E5A3842850E54E68536
-nic.lanxess.	3600	in	rrsig	DS 8 2 3600 20250925170653 20250911164503 52140 lanxess. TjuU1HlhcxA0KXeYxahUXLb+0xpqA302qAhvDHV/57BEnsXcw0p672TusrA2nEQoMAsDMg35wu1+K0wuu73QkVRsWqS0k6zSkiFteDPADlmVzzMnEXghogFFsYP9+9BN52wwvMPT3EO0kpybmGekHaFNIYslmnwzI9JliIX56tjjnZVd5pKZWUfVF/XG2iWSTHUZWt6eqmCCvFDrz6V9xA==
+nic.lanxess.	3600	in	rrsig	DS 8 2 3600 20251013161209 20250929154255 52140 lanxess. R/zALxQT3H9MTgFdcqAsUhA6mePnsB5g6ShVW7KlLLCjA0xM2MPTDpEYr3sAK08jUk7BCFVpT4Z1dQdPdbtbB6t5xAZS8gM6Tu9gcf53dArqk5FfybSHao7FOq7cQCxqIBCFmjr6BtOqbgL9wFyZKAQ5+bKgmdr6eut7e3TZQUMFNv/m1n3UMbwBifBX2aeJBCXsueXDuMfsP8CnAk2eww==
 nic.lanxess.	7200	in	ns	ns1.dns.nic.lanxess.
 nic.lanxess.	7200	in	ns	ns2.dns.nic.lanxess.
 nic.lanxess.	7200	in	ns	ns3.dns.nic.lanxess.
@@ -82,6 +84,8 @@ portal.lanxess.	3600	in	ns	dns1.cscdns.net.
 portal.lanxess.	3600	in	ns	dns2.cscdns.net.
 quality.lanxess.	3600	in	ns	dns1.cscdns.net.
 quality.lanxess.	3600	in	ns	dns2.cscdns.net.
+reports.lanxess.	3600	in	ns	dns1.cscdns.net.
+reports.lanxess.	3600	in	ns	dns2.cscdns.net.
 saifty-qa.lanxess.	3600	in	ns	dns1.cscdns.net.
 saifty-qa.lanxess.	3600	in	ns	dns2.cscdns.net.
 sales.lanxess.	3600	in	ns	dns1.cscdns.net.
@@ -98,4 +102,4 @@ xpress.lanxess.	3600	in	ns	dns1.cscdns.net.
 xpress.lanxess.	3600	in	ns	dns2.cscdns.net.
 xsites.lanxess.	3600	in	ns	dns1.cscdns.net.
 xsites.lanxess.	3600	in	ns	dns2.cscdns.net.
-lanxess.	900	in	soa	ns1.dns.nic.lanxess. admin.tldns.godaddy. 1757605034 1800 300 604800 1800
+lanxess.	900	in	soa	ns1.dns.nic.lanxess. admin.tldns.godaddy. 1759325843 1800 300 604800 1800
