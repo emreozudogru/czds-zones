@@ -1,12 +1,12 @@
-praxi.	900	in	soa	ns1.dns.nic.praxi. admin.tldns.godaddy. 1757569097 1800 300 604800 1800
+praxi.	900	in	soa	ns1.dns.nic.praxi. admin.tldns.godaddy. 1759279110 1800 300 604800 1800
 24hrci76fjfj4p7tcl7bsjau82upb1ap.praxi.	900	in	nsec3	1 1 0 - NTP9F5Q2TG4EM6RTP3R4KUG3EI1NK9R8 NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-24hrci76fjfj4p7tcl7bsjau82upb1ap.praxi.	900	in	rrsig	NSEC3 8 2 900 20250922104947 20250908100655 8553 praxi. 1VD0LboYL17hY5Ws9lWf9e0RccRhGGSkmYWzhzBriG9HFhouAjmkdAItt0rcCdNDKTTuxs6oq76ymoYM+9r0Jb1N6alm/8v06iAM0jpVj0j4+90gJZBBcfoYhc3GwmfAiB8P5/ezG2tu9LtvsyUdplQtv2UvfvPKUEcOc2M4EMV8+11CaqxlH6TL3qIdwh3I/Ddut7r51uctQha8ChyUNQ==
+24hrci76fjfj4p7tcl7bsjau82upb1ap.praxi.	900	in	rrsig	NSEC3 8 2 900 20251010094421 20250926085209 8553 praxi. w315GtZxDbwwa08Axzz+K22y+3EWpkr+Vpg4GJjSlmndNc/8hscmBVeCX5X+ZbSZ1+mxecS/NGxPssygfRf4pSBPMByWpS/Gjlx7BljoG9zkmeQg/QSvUNCVmi5hhyvxE7IpNZvCCIYgz1wHRWv8qtB1or8SawzvdOLTh5wqUbrIDhfAz5oDPGCGYEvJuhInRgDU/bAAj6De0rw8Wem6CA==
 360.praxi.	3600	in	ns	ns1-01.azure-dns.com.
 360.praxi.	3600	in	ns	ns2-01.azure-dns.net.
 360.praxi.	3600	in	ns	ns3-01.azure-dns.org.
 360.praxi.	3600	in	ns	ns4-01.azure-dns.info.
-_forcedupdate.praxi.	300	in	rrsig	TXT 8 2 300 20250921012503 20250911043817 8553 praxi. dmJfZ8sd1xb/YHtgsaGcl2L7LzKYJWZW+pB8hSnpNoToTeZ6MatSfsnIki8RCuh2AkRYXMGTaY0dQYwfqdSFsa6/H1J5AltY51ClP8H/dvBWAd86oEeCO2svrImgbmiC1smuxI95kiwAB1YrwAPlyCLcYEGsO5I32iPfcmfJ3Sf8TqWjW3X4ZhZQqINcvvnnIZQGkGx3ZsSXQc2iOpHLXw==
-_forcedupdate.praxi.	300	in	txt	"1757569097"
+_forcedupdate.praxi.	300	in	rrsig	TXT 8 2 300 20251014082753 20250930233828 8553 praxi. OekKLAIno9C4O4F+Wp+o7mUzEHgQFmaKXZlcE21/B+rNQxHg29RN9FdaOtY1AN8mgHm1J+NIhDq5rJC03y1VaF81wXMg64YxsvEKZXRT7XXDqOCg0zxLtkf/+FCNQLsukxY+tdtki7uABiz7SqcHbNSr77MDt7TfhMtRVN6lUWlYfWbdc5TF2xhKPtaSIp/5XVr2YgKi/Ekv3A1eXB/N5A==
+_forcedupdate.praxi.	300	in	txt	"1759279108"
 a.nic.praxi.	3600	in	a	37.209.192.9
 a.nic.praxi.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 auguri.praxi.	3600	in	ns	ns1-03.azure-dns.com.
@@ -44,7 +44,7 @@ m.nic.praxi.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
 n.nic.praxi.	86400	in	a	204.74.106.90
 n.nic.praxi.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
 nic.praxi.	3600	in	ds	49282 8 2 66776B12C546F5834D1A2957BA0B38509E29AA757B615CF7ED6869732EEAF130
-nic.praxi.	3600	in	rrsig	DS 8 2 3600 20250922001114 20250907234454 8553 praxi. xX1FJuV7QsEnnVtkxJmV/75sNJA5NvVk8AY6CSB8KzeAYfegVbVgz5K/2UEtHr6pZ63IyM0kA9SHeOK23AmqpHRjF6SpLDoAuOthOnhGBcO2eLX/aNC/T+dm/UEBrlrLC2NLpTbjZyF/FO6WvzDVX+yhRnJi4evSxmlZkXwrYu92PYdbryJ7bYY8VrG/PPT5vkGuyf8O6swziEha9XC4Wg==
+nic.praxi.	3600	in	rrsig	DS 8 2 3600 20251015215538 20251001212251 8553 praxi. t1iyoTWIRaaRZjsISCSSyAjr3AjgjudYTwlBaBoUlGEiPBKikoVMe6De24WuAwxwR5q36vzbbTVIHPrK3NdNGu9FDKzGRLUnjDVMn7J4Fru7JH65LsPAqg5i3C7L4CaiMOWFC0B8e+X6+yzdWeDL4fVbnzt1LKHjy52kKJHkXHJ69dEbSmVOJ6eJTq6aqR4UBP6nb6Gn0i2wvrPYOOc2Rw==
 nic.praxi.	7200	in	ns	ns1.dns.nic.praxi.
 nic.praxi.	7200	in	ns	ns2.dns.nic.praxi.
 nic.praxi.	7200	in	ns	ns3.dns.nic.praxi.
@@ -64,7 +64,7 @@ ns5.dns.nic.praxi.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0000:008b
 ns6.dns.nic.praxi.	7200	in	a	156.154.158.139
 ns6.dns.nic.praxi.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0000:008b
 ntp9f5q2tg4em6rtp3r4kug3ei1nk9r8.praxi.	900	in	nsec3	1 1 0 - TDEFHHD6QCDDJPHCLSE85KG98R8HHTT9 TXT RRSIG
-ntp9f5q2tg4em6rtp3r4kug3ei1nk9r8.praxi.	900	in	rrsig	NSEC3 8 2 900 20250921093120 20250907092212 8553 praxi. SwrLqueJiSpg48tV3PmHDBA8dEtZtWKGiYinqeXhfX7Q6Sxx11NtpDwieXqBPcxmiEkxH88Pjx9LNNJ90nTtSqTmT5YCY/ZiA8QhvbteMpjzN91v1H0N9f2RqgzdGHnG8DiuZLZDsd58z15MrA/MWS8//aJCaFR6RTMVhZ+qF70bgs0fOuy35dxgsx7OZojpMe9yGeoZUTOvW/T8vcDBig==
+ntp9f5q2tg4em6rtp3r4kug3ei1nk9r8.praxi.	900	in	rrsig	NSEC3 8 2 900 20251015074123 20251001070605 8553 praxi. prEJ8DhjWb+NOs5ie53O6ThqOzrN/ZJkDqH8nDothOs3lV7OBVgkkClduM/3Ww2opZ5q/g6Xqdz8p3qr6VUpeNeaH9l43h13TtpqMkTHane6PcegdaC4/URS6Tao3qKS5q9ZZ1AJ8/3NN/IfKIjHjQ1/WbokLgAibqw/cDl9OV8LFTSWtwaElzamsd1Sg8vtD60G8T+GGFIjtE92SW0Cbw==
 opportunitamanageriali.praxi.	3600	in	ns	ns1-01.azure-dns.com.
 opportunitamanageriali.praxi.	3600	in	ns	ns2-01.azure-dns.net.
 opportunitamanageriali.praxi.	3600	in	ns	ns3-01.azure-dns.org.
@@ -78,22 +78,22 @@ praxi-ip.praxi.	3600	in	ns	ns2-07.azure-dns.net.
 praxi-ip.praxi.	3600	in	ns	ns3-07.azure-dns.org.
 praxi-ip.praxi.	3600	in	ns	ns4-07.azure-dns.info.
 praxi.	0	in	nsec3param	1 0 0 -
-praxi.	0	in	rrsig	NSEC3PARAM 8 1 0 20250921093120 20250907092212 8553 praxi. NTpzjwAKESbL2AvAIXjUPkOn13uSOPkfnhVIJ4X7Bf0qa4pKujaA2H+htuvlvj3cOzXI2AX2KWYjKNA49fw23kXqvE9iVozm0HCKDxL7AXud5x4c6QmK1kwdqW25XQ2s8nL/2rcbvOO1wTHQUM7CaisD5HcHq7oXFd3Dj0hAJWwl/52/Tpzcn+RL0lTDpvSuUmdOLhYoE2nPRrpViGVztw==
+praxi.	0	in	rrsig	NSEC3PARAM 8 1 0 20251015074123 20251001070605 8553 praxi. SGv2RFaZ0ujAY8y4nX6Pm7WlFl/BxGnHJNSgNb4iQciW3afjygS6U+ga/9yPSYVuEhaarLDK2fB40r41teC1PjB14LqjikQQGnyIUahvZntJQum0Qgr4B2CCK/H6LZXcUr4xYK0flRqhnVj3kC9fqcJzElvdv8Mlm5cH4/Y27ntTI02TSYY/mM8kAoF6UnaTQcCqqdAuO7Q7jcxSK2JG5w==
 praxi.	3600	in	cdnskey	257 3 8 AwEAAalYkptyNgBUjbot9VUccXgg1YfKrbISekkaWS99gh9DHfJL/N96dkGYC1TQe1/BH0etMG/8DKGiPtqcQPz7QC/HYn+sR1QK2I63Rm+A0mDbILtR/omiWgDH+KBuDX1ODS0/4k96jzZFYkGuvlYEAMspGuq7mQGe1HBj6cHnKwDe8SrtDv1GOTr65KsRGAEZCww7p/r1a8LVROsJSJoywTMW99WPtu+8C6nnjRoZwM9odsV5hMde7dGdo+wD32II8jZp8IjZJRtGTGjwH5uipNj19ym0CoNQuSPNhUS85K5+bITl636zbBHCdGm0i2PMStQXosS4OQ8Jw0iF2dATWlc=
 praxi.	3600	in	cds	19099 8 2 3E39236609363BA83713BBABFF24B95FC7774A6532D68B3F8D7766BE5C7054F3
-praxi.	3600	in	rrsig	CDNSKEY 8 1 3600 20250922104947 20250908100655 19099 praxi. PMHpDc/57Z0DV0zHekHhMk1SfGQDOVWrCkrDwJyIHsGn/xIC9GVIUIztHvHdgPLOjwU3i7T7ZoWWkUxTeaFGgI+7OwvfnGSeYAGV3eRa4S94qqUKVTSUMG2gagtojuC/nvl+91nzeNUJ5tZzRORyorGUf8/yZWDyWyi/xblo6KZ7eq8T4JZhhcnr1MNGQ5/NfrWISvsyuKiZE/jV2wykcAcQUYXpbpNYhp1ZdIUUsIzSC5UEgeu6J/42IySWYk0aYxTYrEDasC8bS+PQhk+hm8lORHek1fLwxObdpO3NljAbvNxq8EMIAE5tVJVEims/kXxrYFiSfCrRS9vydjjXiw==
-praxi.	3600	in	rrsig	CDS 8 1 3600 20250922104947 20250908100655 19099 praxi. mBuAd0oyhacxgNaACs5lbRzSOPazQ5D5QzhvIHruTDfp82aPUi0Kur20/zXnMS8TTrNmlrdNM2ZMT2oQ0bIZtBkaoGpihXUbIWAJL1kZItiseYP+MMB7rd68mpYnbPdZb+6UtDKg22QOc3+7dpvBMXv1EWDSGXLh28jiTptgoCyqXhyR2YAiPdl1OAVO6+/kWdzwFVBvezGDANgGtisVLmCO2+uNqr+3JnH7m7v6vOtdBLo1KlvVLOJjKr2YtdRJHqwJcO0hmsOSOhG+mJH/DGxmVryJzXUnnpk1H9xJu7SCcF+8szWFgcnDirDyr/ged0wVMMMImCQAOShERyvytg==
+praxi.	3600	in	rrsig	CDNSKEY 8 1 3600 20251010094421 20250926085209 19099 praxi. K/Uggxm9vQhqJpcQ7g8tfoEucYGLWaD4jdQnFKMENKlLb0en8mQS2wSOXdFBAnSftzlVfNh4qDPnj+qxraKhxkqf9C+91xhWRDZNMXwv9PPj143AaCKeOcOw0wXJ0dsf9tGj2M3IORODEzU6FWdzzCdft9YndUKPQprbSR99k2/dSY6xhfr2+7uL05pLYaRrVUytAZAYxFFy8Nu9gimYxoLZX369Y0YXRlWhwWdx+F7mHqSlbVzAOGZKq0J4bPwGBKvNyl/O4T0ElnvINqjpH0w/XkDPhGOW5gDp+Nkwy7gOdKo+EDTZlGxbknsmtE5xw+9Aw17Jji4qYqKQbo1PTA==
+praxi.	3600	in	rrsig	CDS 8 1 3600 20251010094421 20250926085209 19099 praxi. Y9BmXTI8qg8xvWR+N4sRdwCE9FqjDCu7GJD6Sfn9TEJK42M/L/aKAPRu7VuS8xqD7X4l17rX+lrsogfflzGh8Y7g0vuz237jr2ecoO4wPdTxbwmq4Da3uBkbZK/Ny19LBik+umAgqmYDENNh8jazKVIPgbnh+A4LSy+1WvxA7aj4aCMbGuKtTI6mK/fqx3dpY0yqlhFQsmIOmphGy+bT/DmMl8klmeKrlfxqJzUS2P5eJHBBvumsHhVaGMBwq/4NFZRLiGRTtXLHRIiSjaIEqbhgbDdMoGp3mlfLDgsBh+EwE0dqMyCy6pstfhX94eab2APM61ZLOQcoBzSV4q5GiA==
 praxi.	7200	in	dnskey	256 3 8 AwEAAdhIflGOSmP4SFzRftINZInVzzx2FHEjLokr+ABCSsoJVlSNI8xGX9iFDk8fXq8D8MCP6pi9021TYh2YV2B1HbIR6kI7pV1dwDcMIRfT4ELkvSmLZYJUyGfYUuTYcTUgP/RsfH6CBbC8zEeLTjAWAlO8CtARocN4cFraIZiYpIY/zFZT09LVK1pBGMALEse1erVWwPZxdWwou9jfZOCkRV8=
 praxi.	7200	in	dnskey	257 3 8 AwEAAalYkptyNgBUjbot9VUccXgg1YfKrbISekkaWS99gh9DHfJL/N96dkGYC1TQe1/BH0etMG/8DKGiPtqcQPz7QC/HYn+sR1QK2I63Rm+A0mDbILtR/omiWgDH+KBuDX1ODS0/4k96jzZFYkGuvlYEAMspGuq7mQGe1HBj6cHnKwDe8SrtDv1GOTr65KsRGAEZCww7p/r1a8LVROsJSJoywTMW99WPtu+8C6nnjRoZwM9odsV5hMde7dGdo+wD32II8jZp8IjZJRtGTGjwH5uipNj19ym0CoNQuSPNhUS85K5+bITl636zbBHCdGm0i2PMStQXosS4OQ8Jw0iF2dATWlc=
-praxi.	7200	in	rrsig	DNSKEY 8 1 7200 20250922104947 20250908100655 19099 praxi. XcB0bfBtrwvhfhVtDtGrf92gEK9xOPNvOWp7q6T0GT0XLQSZ/WtEWTtqCsJzWA5+lPQwTyDO0uitpW1MOOG8cHN/VhYZL6+htsCRYhObJikxLs8LGND8eWy6fOEGuCoBiW3R7whU0kDJ5s3IWCz1wt7GJM6dVy3mDXY0P1MlIRcZdbTBcqKMz2RU4PKfODrI9WPRMn1Nsg9bdgBIsZFHuS+Lo67+ROvSNo6O5n8ieoaKfx8DxTTlJKgFwLcsd8YUfm9A1mXi6pY5IGSano78zdKOj3jT0t/5rSUPVU8UZaj8ymmFsQsJVid4l6080mtM+nVJek94GU19dvU4ZtL+Fw==
+praxi.	7200	in	rrsig	DNSKEY 8 1 7200 20251010094421 20250926085209 19099 praxi. QvKDPHsH/YY0NL5A8hlr7VpMMKWfBoFekBFY4OEzzU4ukmyH4tEOwMC/UrUOMP5np3EQDspGtcVaSchU0uYfqwenlWxuqCXfFlsnER33bQ+4RX9TrwKTUaJWSB/buDYV44D2uwKNcJDMjZgyJAErSZ8QBhit3Jj5aIeFDky9hZwfrZR0RQ/tqBax9eqz99MFJ6Ed+eExPOSH6WUr4EDymIsTSsfuIj+9iMNwZ3nUPyCDYNDq2esgbhHv+1wb8ZPv56LARQai5+LoJYyDCUSciILCcdBXYrjZXK1gGlhVHtJyx25Nxs0VEpT8HKYxufqF4DwSGS6NtdcndCVvnOcuWQ==
 praxi.	86400	in	ns	a.nic.praxi.
 praxi.	86400	in	ns	b.nic.praxi.
 praxi.	86400	in	ns	c.nic.praxi.
 praxi.	86400	in	ns	ns1.dns.nic.praxi.
 praxi.	86400	in	ns	ns2.dns.nic.praxi.
 praxi.	86400	in	ns	ns3.dns.nic.praxi.
-praxi.	86400	in	rrsig	NS 8 1 86400 20250922001114 20250907234454 8553 praxi. FfF71sQcg13QQS4As55Xtz/1gKJwYzWBZf1Wzq/awQG+Ow+i/EHp8K4Lq31NgeXpL/xifvzgoWw8n28jgOSTEiGpIbQOE+kaG1Ocjioq35ichxFmWWG9R0c3D/n/ttsDJBCxurrZK62mVmGnrecaXIqRkxJgT1PuyQMjZntOBrU97fqVyIZidb2Le7NZcmurZwJXz+kMQyr/NKDivekC6w==
-praxi.	900	in	rrsig	SOA 8 1 900 20250925053817 20250911043817 8553 praxi. ZEGmcrWiK06p3V5LbHWSl96o1dZwFDbOLfzaDfL8Wn+8wbxFkfolhlux0+YjiA6JcofwnS2VJQ362N9WSp5qMZ+IVWR5s5/3CKMetKO7lRcNWUJbZ+l08b+Okqx+kMKDNIT+c30Vm/W6YSZI2svc7Kjc+h6ng21qL0VUaYaGQrOTKPmnwJFiNDwG5VaVfkUe4PORciLrHRfHWMbTkB0VAw==
+praxi.	86400	in	rrsig	NS 8 1 86400 20251015215538 20251001212251 8553 praxi. eTR0xu6hscu5aKfD4p63UScHpyZvuIILi1t36gpTkNObrohkUWuDnoca1Yu55tUcWiVNTO0eV/cfxPwFkXnKoNENWNZFb7sYBwrNVu1X7ksBoxwpdAQ3Xi+MWFayqy1SIjOekgkqWh2fV/5KoxYLYt5WrRVMxfwrN8NuWVJ0h6AD8Pcdcg+nN99tZ3G1D0B+NCjf/xTjN/i7NlZhePcCaw==
+praxi.	900	in	rrsig	SOA 8 1 900 20251015222251 20251001212251 8553 praxi. Ku8oMOuk5stH/mXpQaCq1rvXDoHL7jxP+99bzKpNHs0U242BsXgYTwz74ZoPivjj5OKrxkCkud7qI3Ka4kOOL3jf9hmVWyXVhs80HQKx+PHGRa9P7BLtdvawE4keOz7YVKJTZHWTK1AGP5Z9h/Gpjn0UpAXKQBQ1I/I8SZyZA1xSdUOyIn8ww8uA3Aco0rJRlGq4+/SUPbvMpwEDpVyJdA==
 praxi.praxi.	3600	in	ns	ns1-06.azure-dns.com.
 praxi.praxi.	3600	in	ns	ns2-06.azure-dns.net.
 praxi.praxi.	3600	in	ns	ns3-06.azure-dns.org.
@@ -119,7 +119,7 @@ silkroad.praxi.	3600	in	ns	ns2-05.azure-dns.net.
 silkroad.praxi.	3600	in	ns	ns3-05.azure-dns.org.
 silkroad.praxi.	3600	in	ns	ns4-05.azure-dns.info.
 tdefhhd6qcddjphclse85kg98r8hhtt9.praxi.	900	in	nsec3	1 1 0 - 24HRCI76FJFJ4P7TCL7BSJAU82UPB1AP NS DS RRSIG
-tdefhhd6qcddjphclse85kg98r8hhtt9.praxi.	900	in	rrsig	NSEC3 8 2 900 20250921093120 20250907092212 8553 praxi. MLFgkqDHAIUX98DUtTw7cYz8dweDoEUQDmlBb2GYfNiclPYO1czp+XvoiIk/OMGINhAfQ/eptNWlhF+XFbmbMdkZ+lT78JBpQFnGv9WW0FXd7fxOAq7ap/zEW6gJoA5qVUIlQx2CDhkKBktsuLdYanQpkOyW/4MMyPPFJPmmGvrju9wj9//7lp7bbVATohPSFgixvYAaWtmv7+r4QjVlJQ==
+tdefhhd6qcddjphclse85kg98r8hhtt9.praxi.	900	in	rrsig	NSEC3 8 2 900 20251015074123 20251001070605 8553 praxi. PwyIPyFJkAvQXY0jlzCKdzg1LQ1G1IXNUDIsQ53Kue4Xma+t8O3zcWrRb0DRDDXAXLc3YizQX8FQ9i9bXUZvlI9DuNNivqQWl27T5h4gdNnrUkwCeITD4H/av+DmSf2c6vDb4C2CF3bn/n6MWbki5+UDnWMqG9Xl7FR8JW2YUzv5blfZGzrUISd1pS9xAtQAP/9Mk50J1lfUQkpF7g5vfA==
 valutazioni.praxi.	3600	in	ns	ns1-08.azure-dns.com.
 valutazioni.praxi.	3600	in	ns	ns2-08.azure-dns.net.
 valutazioni.praxi.	3600	in	ns	ns3-08.azure-dns.org.
@@ -128,4 +128,4 @@ www.praxi.	3600	in	ns	ns1-01.azure-dns.com.
 www.praxi.	3600	in	ns	ns2-01.azure-dns.net.
 www.praxi.	3600	in	ns	ns3-01.azure-dns.org.
 www.praxi.	3600	in	ns	ns4-01.azure-dns.info.
-praxi.	900	in	soa	ns1.dns.nic.praxi. admin.tldns.godaddy. 1757569097 1800 300 604800 1800
+praxi.	900	in	soa	ns1.dns.nic.praxi. admin.tldns.godaddy. 1759279110 1800 300 604800 1800
