@@ -1,6 +1,6 @@
-monash.	900	in	soa	a.nic.monash. admin.tldns.godaddy. 1757590626 1800 300 604800 1800
-_forcedupdate.monash.	300	in	rrsig	TXT 8 2 300 20250925182041 20250911181027 9063 monash. AjKYl0M60qeA3rpr0ibfeUcbnSlnPGAi50maFr7WcTV7gIxOgIzaXp8Su9B9PP5UbBXNvxHbQZi5hzTsmo83upUqY4mfh6xg6SZeeZzQlQ2y7yYNW97IUy5zd8S228LgBeDXqOLxj3HovnHJC9Of8XmpwUciIHpxDeHQeUlRZn04uCs/BNHT2kp0a3mmWROzEYpsOiBXTg+eQfC38WEsBQ==
-_forcedupdate.monash.	300	in	txt	"1757590624"
+monash.	900	in	soa	a.nic.monash. admin.tldns.godaddy. 1759348809 1800 300 604800 1800
+_forcedupdate.monash.	300	in	rrsig	TXT 8 2 300 20251014190704 20250930233734 9063 monash. oKNjOKDRGWLuJ+8DmtZxl9p++Npi1HOwVwGXEw8NfSdPAygLSPC7yikmhyj+vuiCez0hTPteFN3nKkzLmW1CBVPtGrevzRpU7vJF9NVTaCkhgGEOVcO52vdLgo5Q5L9qUKjg7ugNzJY35k6HnoHxZv3Qlx8KL3R5i4Tk93Ka4uZv0xRyCc/5LBJwIbdxCwecPNp8mOFlWXwmOK/BS700Aw==
+_forcedupdate.monash.	300	in	txt	"1759279054"
 a.nic.monash.	172800	in	a	37.209.192.9
 a.nic.monash.	172800	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 accommodation.monash.	3600	in	ns	udns1.cscdns.net.
@@ -96,7 +96,7 @@ italy.monash.	3600	in	ns	pdns196.ultradns.info.
 italy.monash.	3600	in	ns	pdns196.ultradns.net.
 italy.monash.	3600	in	ns	pdns196.ultradns.org.
 jaa8lr6djhd9te5ioup08aghtfvr5g4p.monash.	900	in	nsec3	1 1 0 - RAKTI7NA2AEHUESI02KFI0SP0BGATF2I NS DS RRSIG
-jaa8lr6djhd9te5ioup08aghtfvr5g4p.monash.	900	in	rrsig	NSEC3 8 2 900 20250925182528 20250911181148 9063 monash. CZ+fkORVw5htVDrHWNVi9mvX4uxs/emdb8WtlMGNJYt4KX2VqPripLxREaOigUsPboL9lNJB79/heqCI8rw93YGIoMNj0Xh6UJlTFcj+vwXFH+m7W9KaCLtm9r+8oSTQcZni6UeS+ylNpBkKFi97m4eb6nOSrRISA8BWMIELTUL5yKrbgulqDRsumuGyZoxgI93qJ4F6ltJxEf8ebUi7WQ==
+jaa8lr6djhd9te5ioup08aghtfvr5g4p.monash.	900	in	rrsig	NSEC3 8 2 900 20251013171612 20250929163136 9063 monash. W4wys2gRmFyW7JNYebRkwvMlp4358mIuiq7yz1o8YWJeMO6VJgztGEbds9rF1u8a13W8Iy7C3oB51/Bdj/yBkbiXkTUNiT8PAPF9cxVIDOAW3WMDGHLNE6QlAAvro7B4Bn7cWRNpqIl68rCyMZvssuxcafem5TR8/SYjA11dF+fKgYh3pQthgxxLFgSiGArjpsogIiNkJhf7X5B7PlqCBw==
 jobs.monash.	3600	in	ns	pdns196.ultradns.biz.
 jobs.monash.	3600	in	ns	pdns196.ultradns.co.uk.
 jobs.monash.	3600	in	ns	pdns196.ultradns.com.
@@ -109,8 +109,6 @@ library.monash.	3600	in	ns	pdns196.ultradns.com.
 library.monash.	3600	in	ns	pdns196.ultradns.info.
 library.monash.	3600	in	ns	pdns196.ultradns.net.
 library.monash.	3600	in	ns	pdns196.ultradns.org.
-m.monash.	3600	in	ns	cullen.ns.cloudflare.com.
-m.monash.	3600	in	ns	rafe.ns.cloudflare.com.
 m.nic.monash.	86400	in	a	204.74.104.90
 m.nic.monash.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
 mabo.monash.	3600	in	ns	udns1.cscdns.net.
@@ -124,22 +122,22 @@ mobile.monash.	3600	in	ns	ns3.its.monash.edu.
 mobile.monash.	3600	in	ns	ns4.its.monash.edu.
 mobile.monash.	3600	in	ns	ns5.its.monash.edu.
 monash.	0	in	nsec3param	1 0 0 -
-monash.	0	in	rrsig	NSEC3PARAM 8 1 0 20250925182528 20250911181148 9063 monash. UAx73UDH2wkPTeFPBlgUOgbmdMpNbNXSoZg18oxdxLgjNXIqcODc5bZXw1f2Wh7HUQ77ersSzkIbP61x5y6ikGzxhiLe7ZCwDppm6Q//+xFezvrN9FIr5EA0G/sPB2QGQ3lgQpsaDPPlM9Jbk0UujXBUf9nddART8apKMUgbVqcDq93RjJYdfF8Oe4Jzrra9GzFE37gj/dt7U3pXL9M3qA==
+monash.	0	in	rrsig	NSEC3PARAM 8 1 0 20251013171612 20250929163136 9063 monash. azmSaZbWLv0lhleajHHkpRrTpOOs9yMAsxxKnHFMZS93GLLf095pqkTsbYw9/6ug0tZmeeUqZP/NtTIhsJtoOaWoI07Ka2RA4ZqzodL5iGvIs8VHlt+yGoZddyOavm3Ou8DgOyWUE7KYFXNk1OGyXFa5CL2fKjtgxWiaGwBGgPilo6DRRLbuMBuAGjytFGiqoLioAL5hVfGSpdvKQbbX6Q==
 monash.	172800	in	ns	a.nic.monash.
 monash.	172800	in	ns	b.nic.monash.
 monash.	172800	in	ns	c.nic.monash.
 monash.	172800	in	ns	x.nic.monash.
 monash.	172800	in	ns	y.nic.monash.
 monash.	172800	in	ns	z.nic.monash.
-monash.	172800	in	rrsig	NS 8 1 172800 20250921073241 20250907071812 9063 monash. R5raNLCNPuXdFNen1DOGc83leFIJ0lQ/3o66QLSqP7kcaw0wseTmvum3/sqDjpgcGbAQM1UQlLnbVCzuQBthdQsW8AxNLLvuYobf7taDmmwoRQ/aYxtlY8xi/+rTc5ME/WmnpEvZGEd1+XmdbS0HvvfPC4Evpy0kgCCHOBwqj7Nsmuix7A5fAgtHYI4Q5C9xHdLogxqT2+GpxBw++bNkxw==
+monash.	172800	in	rrsig	NS 8 1 172800 20251015055917 20251001055250 9063 monash. InvUVkrfgwSP4bwSHZRf0EpB2SSdq132bryC/En/00cePjL2xamDEUgmOsirOU4wkams9+t4JlW7bL7KeC6nNQtQx31OsguINkmpQMQlj3SB8H4pj2+wfraQ7fCKWq+U7vEMAL+UiZM5an1sShq+1T+8EOSRj/L1fZMxkE2qXzdg1vzcHQoMym5E3llFWsPsrwan5y3OjhUoV1Aom9RlLA==
 monash.	3600	in	cdnskey	257 3 8 AwEAAcLz7H9sAZCZ13NeZ6Z3MDbzZ2FrHhCVPMrCbVEnfkmgZTuGz4jYRJbfNA2pFBoQnHsB+cj5SR9/XpDVF82rL6Ev/MCzDuDqk6mx+PPx8XPmZQfUnM2ebR302m3+MxFhRqZ3Qx8/X1ImbvTUhVOnzvAqjouUfMydB+WsK00zYpdha/Sn6jZSz1BLLNjw5bELeoREZBtwvUrfRlJSdL7qV71Pauz7bUV5/77KMKsWe03hTIYueZNBNFQ2EpUomf088Cpj5teU2L3riFM+c2ASRre9sjzEuqyvf3HIgsNjbIfDpJWi0dK54WIEG7tkHFFSouqOW+4Eg7QF4BMotW9+aak=
 monash.	3600	in	cds	58609 8 2 C0713DBC0879E96BACCE82A9E23928CF407DD5336121CA0931CC93D193050B42
-monash.	3600	in	rrsig	CDNSKEY 8 1 3600 20250922083914 20250908082603 58609 monash. AeflA0Z1DdHyTJYQU/r7Qvc1A5gdVGEvt2Zly49Jv1TRhCjQMK2GVbTKOVKNTMJWFSjZ7Czd10DQvCTF8hAzbTxH/AtjykoXHzPmgwRiyj50HhGgoW6lAKKi/L3D5I4cF/kKSEaBwlfiKoVz7aixLG3VDnmIlFp5tTi268l+VJCFxAzDcyj6nTfkX/Kmjz7Ly6gh3v1Km6BJIp2bcuMpJ7R0ThSEDXsUCV0ZbS6ZirmGX0Lh4vLpihXv/H9NjUB1nzltFputuFzNWEHRQBW4FSrAHUrZXPWuhYDYMmrJnn2E8ONI2Am3pctM7+WUG4Zwjw4rQvTORKdhgIBMeGnmng==
-monash.	3600	in	rrsig	CDS 8 1 3600 20250922083914 20250908082603 58609 monash. JTjHUtSrawACIITXZ1816PFsj1dnrobItohvFizVWF8dWQX86088XgMNS0dRv2Q10p4PkSY+e3NngKS4CLyIU9yn7GPYefhY9pSAU3E0cmcCdsRS/kkRKr4EQnwCljFQ6pqZWFGQxBE6DXwKDsi3eYIdUg25XuIKNb2Ic50m6nCOy7e3g8JNdSC1lCCjjbHFyPTA3r4sXQvtDcME4sboZDxB0kj/dSjzavTzhDw249EUYSN1HB8xCh1QVA9fIf46uQIXRhwgk8khVV1rB5XdGFGN6vdhGh6JyNArLZCOqnFx/sZS0eKHl0LWQJbubSPu+IxGmmHIc9h+uc65fq14Ag==
+monash.	3600	in	rrsig	CDNSKEY 8 1 3600 20251010065658 20250926061154 58609 monash. uihcJ7Gm5UMVS3sBsgu4WRbKJyMjw70rvghsEoB+Y+KV7PRpp0D8igzhsvl2yYNKJTx+AvRYbYYuZs94g2Z1CDKNKdCcpcPIupl2E88s1h91DjJ57pEHynwGogUy8zmGJZ3QDCRD9QaKGUYissZ3Cht7MnLTck2UnBDpWSfd9DeU/eg08VmEvBF486VQnN2FNcQ9XtiYwnYXggRrDA3cIiqMcrqw4Gf8T3l6Rjo6tphn5FBLriACdRMk1B3HMB/lxo+IySwuy8ExYBnAdJqU/D4CHsSQdViuQERni5683h8gArQ0eX28RyGfEOB9TmHRyoxsUoy+JOweuce6BIt3SQ==
+monash.	3600	in	rrsig	CDS 8 1 3600 20251010065658 20250926061154 58609 monash. q+I9flo9tguywRNfhDJJSC+90E9j8l6xKyhyErmynoq/Fdnd61CiEk3NBQC6pP/+w2bGx3w4PrsqSvBiqzk1q/jHU4DrbmiYDFRKP6APSRLFpAYChL2E7F8L5IDX3tHoa1i3nlUb7ztnZFO74bLzRqCS+9tnRqs2Hz6DXqj64V9l8IzW8BQXOj/L325cJDaI0Gyrzz+BUJliDKT7ujXf4Av4VjWZNc7Gs7VP/FrKSZ+W/8hjkx0TkIjCzQI0WgNsQZzzwD+6LSDxc7XuJvHifg/c+F8+a8pwAn3QYqKzJA6y0Qzp5Hh+FnaaSsqsTLE0qDKoPIUee5QmsmKLuNJC4w==
 monash.	7200	in	dnskey	256 3 8 AwEAAaExAoakKji1ctg98dNr6L8kQ5x/fdVVr4EUsi/FxKwwVjkneo6aiqM3H9W+AGq3BaczId1nWbC+aRufUOd1VL0OL9I1LNS5oofW1Z9EnmaDrwuKovNcHVPT090ZQ7MdkTIqcNfim9/7EIdNs+ujccOdN9c4fWoiZs07JTeZtmemu2Ojck8Q9wwZDNIJwgVG2p6aazD8Bvi1KqPUNp956TE=
 monash.	7200	in	dnskey	257 3 8 AwEAAcLz7H9sAZCZ13NeZ6Z3MDbzZ2FrHhCVPMrCbVEnfkmgZTuGz4jYRJbfNA2pFBoQnHsB+cj5SR9/XpDVF82rL6Ev/MCzDuDqk6mx+PPx8XPmZQfUnM2ebR302m3+MxFhRqZ3Qx8/X1ImbvTUhVOnzvAqjouUfMydB+WsK00zYpdha/Sn6jZSz1BLLNjw5bELeoREZBtwvUrfRlJSdL7qV71Pauz7bUV5/77KMKsWe03hTIYueZNBNFQ2EpUomf088Cpj5teU2L3riFM+c2ASRre9sjzEuqyvf3HIgsNjbIfDpJWi0dK54WIEG7tkHFFSouqOW+4Eg7QF4BMotW9+aak=
-monash.	7200	in	rrsig	DNSKEY 8 1 7200 20250922083914 20250908082603 58609 monash. jzsqmmvZkrcq21HD5ZiJZYlDfrkpgmwJ6EXRqJZRZhOa6jxZMmZT+Y8emaqW9wJYymGZ39pbUjgowfHfmrEbKSrua5ewnF4qEbpA2lr15n20ocdvt0ISkhLzPvlKb500Gwa7Axvm3Zelv0h/tFUTLej1pIyGbPTXoICIAeK/zh4ZFlCf+N9jgcKnLa18bQhKtQXggTpJvfQ/HuPinJ2ahZ5L/utlPpzok99Y7eo+vpcOLq5aHjhhpnlJgQLJ7wo10zciJuIsR9/l4GB/sAkFX81JQOKfS4y2VoKySpwPBLwa8Onn1XVBvgzv4mDTuepqKGfsqEw32hRf7q3iU0nn1g==
-monash.	900	in	rrsig	SOA 8 1 900 20250925191148 20250911181148 9063 monash. U5GCNn3IK+g45mzAcNv23doS12TIKD88xeLm2UxuprAhQtEtn5t+vheoo5DZzHI69XvfhMDNmxCaVNHC6LsifZqtaZDWW6DK69mmWn8VPKlVQoqzfi6gTNwCCVaDv/QiBCYvabgOkgJmXKAXab9eDUyHgAOVByvEu8njB+2VY5iMDd3/KbRy/xBc7MXT1pyGzVKCQ4rP9lZ9wNRfK2wHLg==
+monash.	7200	in	rrsig	DNSKEY 8 1 7200 20251010065658 20250926061154 58609 monash. DGxLo4SEuqzUyjIr/lKLzUI4g3luByaNBjLoGTw5+1YSPLPF0/KGbP59Ggb3M5RTQyk7QJ5cc5OJtvomR7qndAIZCHurMlJV9FW9yIxi2mO6M00vpA9avldx3yHhaXVoiNxKf8MhMPvMktsAGYGpuW5lFEjMGxVP91OT/02dRQcn7bA3tQM6AID4Ifa1qfAZwLSrwkyDgPL/wVvI6NUshO3CErx9S/rCjrB1FIGa7i/nYeTT2i9fWd/8lZsrOcekKEB13E/Zpy69Th+70xoP/1r/KBxHsA9QuF3UaXma4RlNHU1sqzCdhU11hdc9W5Is8IdnmS/VsqoTLob5jU1eiw==
+monash.	900	in	rrsig	SOA 8 1 900 20251015200009 20251001190009 9063 monash. Al/CGxj5nBJZvuMeMUZjGc3qCT/F1dYCP+N65CMZXj2i1rnBmZCmLd1S7ugwcf82Mgk/dv/Ojt3xtcvT41D3vxe23f0rzadwOTs6QTdA2QVVjCxKRUS1hJtQW8/Vb4NaDbw8AowZKvQln3C83gAdhTLIyWaB4xDAYpz4vHjMFgVJjfYLsphY8h9mIDJkXMN4y2078ea3X9Rzcwa4WGzbNA==
 monashuniversity.monash.	3600	in	ns	ns1.ascio.com.
 monashuniversity.monash.	3600	in	ns	ns2.ascio.com.
 mpass.monash.	3600	in	ns	udns1.cscdns.net.
@@ -176,7 +174,7 @@ nic.monash.	172800	in	ns	x.nic.monash.
 nic.monash.	172800	in	ns	y.nic.monash.
 nic.monash.	172800	in	ns	z.nic.monash.
 nic.monash.	3600	in	ds	10774 8 2 987FEDBD2C74BFBED5AA6DE45583E31D6A33A20C06E7328EC4C38732661879E2
-nic.monash.	3600	in	rrsig	DS 8 2 3600 20250921073241 20250907071812 9063 monash. NgprOchN6vKi6EYBsd54OkPEJ3kAQB/A0C0MXKM1pica2qhCGBYFJ30JSjkjankqBgcKMY4SjJVcuACRqU/8hjiilnWmRoe036g2MKufPgeyF6VF6XFMu/fRlJrwruPesyF2+e2ka5PnpxU51QfNhgQQcZyVQ2/z0awQup/3IddAWff9ZLzAEIAod60AeVxgPiOHwfETc+xc+29mMZXXig==
+nic.monash.	3600	in	rrsig	DS 8 2 3600 20251015055917 20251001055250 9063 monash. iKHJeze0dvNZ2/xS8Sob+IJTH60b0IpJ9FycEP2hyXfzfvP4TZH+SGYko6FFjUb8QucVz/5VzqpRMPWIrt7ii5VQwmc2dikayKIWYZCRnx3EmxHf1Z3rh9rvm7ENcH1VkpeRcZLk55hsHe72L8soq0EOMVTsFxM8TktMguBBPMyKTg+THvBnSrEG5SndqCWSvehtquIMNOcpmaoKnyfeYQ==
 orientation.monash.	3600	in	ns	udns1.cscdns.net.
 orientation.monash.	3600	in	ns	udns2.cscdns.uk.
 parking.monash.	3600	in	ns	pdns196.ultradns.biz.
@@ -190,7 +188,7 @@ peerview.monash.	3600	in	ns	udns2.cscdns.uk.
 qat.monash.	3600	in	ns	udns1.cscdns.net.
 qat.monash.	3600	in	ns	udns2.cscdns.uk.
 rakti7na2aehuesi02kfi0sp0bgatf2i.monash.	900	in	nsec3	1 1 0 - TOFQGHV9JHQ0K7FJ0HDQE6OKNO6Q9MRO TXT RRSIG
-rakti7na2aehuesi02kfi0sp0bgatf2i.monash.	900	in	rrsig	NSEC3 8 2 900 20250925182528 20250911181148 9063 monash. Gv1lgiJMwseSIvoX04XEQAXcrga1k3CiaAIY3NYHujHVFVuEiqWBsnOyHFTaVO1E6bfzZhdoJZhw8DrnMJ/L00ahGimu7fBtcgaVh8qLxYNtm0Bgi4+jszJRswdKWt7Hkj5qRpL52px+Mt5gkAwf3bBdg576X3rpBv46j1EodPwag0mP3Z7ML3/W0hGo55Njr8K1a5kasL24koJwjmdyhA==
+rakti7na2aehuesi02kfi0sp0bgatf2i.monash.	900	in	rrsig	NSEC3 8 2 900 20251013171612 20250929163136 9063 monash. U5218Tke00XKFn09s0qoHIFvDao7IOxVRuZYQSmWugGARAPUxcaERZkd3eMCHkIkmOLlLuY6jTVdiLrcn3oyb75gkOUxbbTSGubGSy7Bx3wPrmbV2tIaQUL73qA9Cs3DPENf4/USTperiYKJM7U6gWkyJUEth+DdskWJzyasb1xqw/d/usdE2l4Pp/LMnklRR5GsRs6e+Z4+8zsofqkAMA==
 search.monash.	3600	in	ns	pdns196.ultradns.biz.
 search.monash.	3600	in	ns	pdns196.ultradns.co.uk.
 search.monash.	3600	in	ns	pdns196.ultradns.com.
@@ -226,7 +224,7 @@ students.monash.	3600	in	ns	ns2.ascio.com.
 study.monash.	3600	in	ns	udns1.cscdns.net.
 study.monash.	3600	in	ns	udns2.cscdns.uk.
 tofqghv9jhq0k7fj0hdqe6okno6q9mro.monash.	900	in	nsec3	1 1 0 - JAA8LR6DJHD9TE5IOUP08AGHTFVR5G4P NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-tofqghv9jhq0k7fj0hdqe6okno6q9mro.monash.	900	in	rrsig	NSEC3 8 2 900 20250922083914 20250908082603 9063 monash. Ofmigy7a7bmDjazGAxnxGYyR/+wMTl2/ddeQnBBv/Tm1R1KfcunBHuxdsSzQ4JkHm/5LWEeb71lxxzYv2VceKFN/RJPQ6v8XUNxDEEcTYBrlKxsPGzvmVLYFUfdY6DydFNwS2V4dCz/Yqbg1NdLTr5qINQVl+0rJmUXDhqS+/zwSNa5pu05XCoIA//8lOPLt9YmfuUksqS/nwyr7QhdMvw==
+tofqghv9jhq0k7fj0hdqe6okno6q9mro.monash.	900	in	rrsig	NSEC3 8 2 900 20251010065658 20250926061154 9063 monash. IUf5/AppI/wyy7sRJi3FaAqd1RDOyMqfQBz5WuRtDDtL9HAo81EXCYc7bhvtAFgLElVK9kx144eJGBbtA3v15HPvrtFblVOjAi6lHRx4Nu7lfqS2YsX2uR9x9q4BdUo+cGbAtQxUgNcUcFogiGYr3NVaH/QBX32iQO2MyiCtbed1AcTuCst5Jn/iXsQhsZvBV1UYOitfnhOJ2NATVAze7w==
 transcript.monash.	3600	in	ns	pdns196.ultradns.biz.
 transcript.monash.	3600	in	ns	pdns196.ultradns.co.uk.
 transcript.monash.	3600	in	ns	pdns196.ultradns.com.
@@ -248,10 +246,6 @@ verifyme.monash.	3600	in	ns	udns2.cscdns.uk.
 virtual-reality.monash.	3600	in	ns	udns1.cscdns.net.
 virtual-reality.monash.	3600	in	ns	udns2.cscdns.uk.
 w.nic.monash.	172800	in	a	156.154.171.82
-web-test.monash.	3600	in	ns	udns1.cscdns.net.
-web-test.monash.	3600	in	ns	udns2.cscdns.uk.
-whats-on.monash.	3600	in	ns	udns1.cscdns.net.
-whats-on.monash.	3600	in	ns	udns2.cscdns.uk.
 x.nic.monash.	172800	in	a	156.154.172.82
 x.nic.monash.	172800	in	aaaa	2610:00a1:1074:0000:0000:0000:0001:0082
 y.nic.monash.	172800	in	a	156.154.173.82
@@ -259,4 +253,4 @@ y.nic.monash.	172800	in	aaaa	2610:00a1:1073:0000:0000:0000:0001:0082
 y.nic.monash.	172800	in	aaaa	2610:00a1:1075:0000:0000:0000:0001:0082
 z.nic.monash.	172800	in	a	156.154.174.82
 z.nic.monash.	172800	in	aaaa	2610:00a1:1076:0000:0000:0000:0001:0082
-monash.	900	in	soa	a.nic.monash. admin.tldns.godaddy. 1757590626 1800 300 604800 1800
+monash.	900	in	soa	a.nic.monash. admin.tldns.godaddy. 1759348809 1800 300 604800 1800
