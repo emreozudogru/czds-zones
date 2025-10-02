@@ -1,6 +1,6 @@
-dupont.	900	in	soa	ns1.dns.nic.dupont. admin.tldns.godaddy. 1757630472 1800 300 604800 1800
-_forcedupdate.dupont.	300	in	rrsig	TXT 8 2 300 20250921032455 20250911214113 7743 dupont. Ql+0JJpPzZ90jbHUovRrUn/6v/lPRSRk1cCKj7OyjALJPUxSYlujNlqUwSBoHtqRLuBmqf2qeySKtRo4f+cwyg205c4B2YAsVjQQoSB6V9bXgW2T9zqO56mZkrbQtX2dO6YOH9/KmbSrR8UF9nbWRi5yAPGVxM9MDo7vcFmEUANTBJMhLGuhG/xWW4rtGueprkXj5Cn2fiVa7vMymC2b2w==
-_forcedupdate.dupont.	300	in	txt	"1757630472"
+dupont.	900	in	soa	ns1.dns.nic.dupont. admin.tldns.godaddy. 1759340483 1800 300 604800 1800
+_forcedupdate.dupont.	300	in	rrsig	TXT 8 2 300 20251013052744 20251001164123 7743 dupont. mb7cW5VcU8W+vNVtpWWcJCZP9/DuFOj/FxLomAzUvBN8JMD0qUOLGKPBoCU8FQ4T0+VgP+v0yVzVQqWqgja/hsRRoPLLha2VDOCLneRlVByQ3ha14Fp0DFjAlqAI/fcW8twqVbh7kBV1OxIk8CV6HoTtX7MUwIo+XH7BC79YCg0RO99Wgn9ydRpskT04JM3bAT83lH7U9oXXJ4+87pRQ+w==
+_forcedupdate.dupont.	300	in	txt	"1759340483"
 a.nic.dupont.	3600	in	a	37.209.192.9
 a.nic.dupont.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 b.nic.dupont.	3600	in	a	37.209.194.9
@@ -12,22 +12,22 @@ careers.dupont.	3600	in	ns	pdns216.ultradns.com.
 careers.dupont.	3600	in	ns	pdns216.ultradns.net.
 careers.dupont.	3600	in	ns	pdns216.ultradns.org.
 dupont.	0	in	nsec3param	1 0 0 -
-dupont.	0	in	rrsig	NSEC3PARAM 8 1 0 20250923233246 20250909223509 7743 dupont. Wmzd2gtFfrQW5v130YpNl1vfAmygu2FoaWf28PW7alRMfiylxrZvhFNghgwF2ELxg27KpL56LMMAzMD9enVHu5S9omweQHrElQwXs2VpQSZBck5oGnIhNaw7RgM2pMWZQdDvJNIfQ2yQZFp88p6TdhMPpNxkFjialvhKEW7OsSZIQMnB6Ai+i7MFXW9wIrv6tZ1jd5iESQ+0tOB2IXCEJQ==
+dupont.	0	in	rrsig	NSEC3PARAM 8 1 0 20251011222304 20250927213218 7743 dupont. KIzdvU2oWgimVKeIkggueS/LeSA/kaXjdxhMwYZB1jQfrI439nPv2b7HruS6MsqEp5Jz4jyvwgJfdzO1VLtRbQmnflR3qeolShcAnrnqVw+f4kbUo1zEegRxmv8w2HZ9OtxKjk+RuJw5lhMEzg4Xis/9icLZ00C6qL4h6cHd01V/4/V1IOulaqtIrtUCzia1a+bcI+CMNz6k05spXRsWZA==
 dupont.	172800	in	ns	a.nic.dupont.
 dupont.	172800	in	ns	b.nic.dupont.
 dupont.	172800	in	ns	c.nic.dupont.
 dupont.	172800	in	ns	ns4.dns.nic.dupont.
 dupont.	172800	in	ns	ns5.dns.nic.dupont.
 dupont.	172800	in	ns	ns6.dns.nic.dupont.
-dupont.	172800	in	rrsig	NS 8 1 172800 20250925064544 20250911060909 7743 dupont. ZVGaijmTXguaAjLvNUuYmhmHdWc27y40fWo3QrVjilprDQMw/NYdKWRI7LH1YmVH6HqlY+5UpFbr2dDodvYPaqfnvre1OTopAaPOOWX96KRzVPc1L0rv8MT8ZQ752zNYCLRT9/wuskNAdZtFhV648nqhig5Y9H7j/wXG07kWLJE3otV2+25pOCOXQq7bF2gBikzuRK8XKlBZ7+TacrtABA==
+dupont.	172800	in	rrsig	NS 8 1 172800 20251013042750 20250929041959 7743 dupont. SoC1wq/dGGgOqPY/nOfypo8z0QNG/oT+25i22Jpz+G4hVB65ACIU55gTfczX23hfZe38Tsf+nYYS3bbsfzBf2ctDJo6gNdv6uG6hjTms0a2n1e57oj8i783H8aibhYF7GN6Eqdr9OeGSEh6ZPOTw318xyIgoKK+sO3yRzoZQ2K4D5L+3/M13sZbMWnLVtV8gIqIQ75FGFHWdqCPTN1Ww7A==
 dupont.	3600	in	cdnskey	257 3 8 AwEAAbQLUcPGjWiJooM4gQRbhhYSjzohyQX7B0G4nS3KdAdgMTLbPLD+1EW9EMCwKK7r2rVypZX+UnNHDzCuMDbg8+kGoiSggtEQiLV8sdTDtjuxVX4nw+V8Ea54iZdJhnLMnH90jrhZlFZyXGQGboryFqQ1+MVTdn0z7tABBQqRU7BcAgYBUFg2hWd2GBi4IshRzIuGfng1lL2cjM7IMm0F6DvQXE7qfwD0WEqC+ynBHyVih2C3cPAF3tFvKHlcTZKtJ8JmysAJk/Lxu2COGzih3gXOyR8XKWrguWhr7KN+oJy11WKOt5pF4nU6fhc5NfAbhk9wv8DUS6boiybnGRKC1yk=
 dupont.	3600	in	cds	44914 8 2 F94EF24DE9794ACAF4920BFE73388A466179C339BD33DDEA11B1DECD2A45611B
-dupont.	3600	in	rrsig	CDNSKEY 8 1 3600 20250922082851 20250908082138 44914 dupont. AuZHJ4aZaz1qUU9hX7zvMg/eoHFQ3unSJcA6gPtE5LRewGSQFgV/Jotk3MJDtZpDWcsUYf9CRQMVRX3YgpYgD9pKkTgByHFP7nZ8Yv5ILcuFD8IaufGpyftm15hkSMrSCiE8hNmaV0H2a0oG1as3a/epcX4h3y8YU5C9t1GHrjwU8KtRpnDOMWKspvVLA/MZUn37kCPcLKTwMFHVQZ+bmQWVcAOP9nQhY5pRa/Rv5+QwPQn1dPnsZ5BS+mG8lBm9fFddtV0Q10HYZFzom20q0VOh12jPZkeag8AsdcnCyts/qOGaBljwDKLdcQHdkuekR1XeI/Ezu2I0zPQDGfYPpQ==
-dupont.	3600	in	rrsig	CDS 8 1 3600 20250922082851 20250908082138 44914 dupont. sLD1Totm+R7Y2aowPU/3luAYGelLbqS41wxhKaCJIxdPCZ1c45kBGlQ0sQ8G3yYc9db5YKSfQ0vQrmKc9F1DhrxJcvyPoEUENM+50Oz38Gqy2fr+9hYqqGwmeuwAobs7NW0IfENdyWFTwadklkrAIapYrIUzo+a25t/2kfnMSCdquVhSEuz637sYhIgqylq2EKvyrtQPJlZ1tt00l2vAz4006U5sVOFTLoJdknX7Vjn3xHlVUOOifFfF3XaVg19Ib8sCFrduELBbUYXDUvoLPqfcpE5GL62yWtZGlWcSiFpXTeGzTRmBSmI3ovka447ud0cvPdsaElK7RZhx55gpuQ==
+dupont.	3600	in	rrsig	CDNSKEY 8 1 3600 20251010071943 20250926063520 44914 dupont. F77C0lFIqA8GFi1pFq00n7Fo0Q8x0NFF8RwcdQEOzXeldgiqEZ6lQX/yvBSYWWSl67UCeN6WqrpiPQtQvxZhO9Sei3dLfYZXk9yH3s+p6ncDutI+b+xEH58wtEcYKo08kcTEMAa4JmhL6X5Th/SFd9uUD8IeOxhWzyMviEq2y5GBLfLlUiZ44y14aOKVfatnYnUCzHFcoRZGiKidon0sDziWSBBz0Gfb4LP0dt8pdRccyyu0Wj5Qy4TTzfkPzzl4Eme+KUwPTOHx0WbmQlXrs10MX5uyPK2t5sCZc8F+YC07W9S9V57WbLEGCdCLRLPRMWupuLaWpUaKDe9JEygGFA==
+dupont.	3600	in	rrsig	CDS 8 1 3600 20251010071943 20250926063520 44914 dupont. oxHL6o3hDHnsft2XESBERoUiPG1WR3iJeRd40LDSbBKd/D0STQ4zaQSEtr2N/UuI9h9IS2liSA+WY5IdVSVTquJCIF6PLUAQXEF4v7MF452rfPXNVTJTZvGiFlylNeBQhL4T4beKMUgq7pxOV/hqmwEMfVRZti70u2a67pJiaeQzOprKHtAlvY+cRKsOzkBy7mJH5KIaVags+ZhRp3RKoQYUksdg7I6q6er/V62n4q6ZxyXlxQaHTcgcIXlcp8HvzMUFpTf3D+cl4ZoxNvQIT/uY6LPi9i2OusuYXFG8SCJxKpLQU++NajPVAz3SUqhClq22eYKKJ+BnUMdUB+1tjA==
 dupont.	7200	in	dnskey	256 3 8 AwEAAdCOz/UxUOf4xP3n9CoNDBlhPcusSsakGyzgsxCWjllGosUkf+8a19w4mhZET6/XECFXiu6dHPSOGm93uJtwltu6/ej2Tlq4rPTXnOmft4sN7DRI9ujLf+idI+Nbk3kosm8lBjBoWJYSN7FWESHTSqKJEgzMBuUK+mcjpv2gs3xEPxcxvGjJxZeYJpQ7Akx1j7HgoHtI4Xb2swTy7b5FS8E=
 dupont.	7200	in	dnskey	257 3 8 AwEAAbQLUcPGjWiJooM4gQRbhhYSjzohyQX7B0G4nS3KdAdgMTLbPLD+1EW9EMCwKK7r2rVypZX+UnNHDzCuMDbg8+kGoiSggtEQiLV8sdTDtjuxVX4nw+V8Ea54iZdJhnLMnH90jrhZlFZyXGQGboryFqQ1+MVTdn0z7tABBQqRU7BcAgYBUFg2hWd2GBi4IshRzIuGfng1lL2cjM7IMm0F6DvQXE7qfwD0WEqC+ynBHyVih2C3cPAF3tFvKHlcTZKtJ8JmysAJk/Lxu2COGzih3gXOyR8XKWrguWhr7KN+oJy11WKOt5pF4nU6fhc5NfAbhk9wv8DUS6boiybnGRKC1yk=
-dupont.	7200	in	rrsig	DNSKEY 8 1 7200 20250922082851 20250908082138 44914 dupont. MN/Zu2bGdQe3YOJE9aQsvjvikFGXQHZGJ8xYeqidEgAx/ngJhE3OK5XzjZNwgDffn0gufsA2vehetQBeh9fBQS8LOMDxpWk4GQRC0QphZNb+fDbUTCJANRiG7FqiujvvRACRO0qLN7XODY88PEAnN4Z4T4XDgMpPUl5cvVg02sOEzwx5tM2DAzVP0Mao+H3VlHgD54bDj0FlZrwu0bQrMZCgowZH7iXfv3+XtGR6gtGqfUuZXDSxUFjGeUuiP+slea7XDF7eeoLIBaMc+eUjcjDM39Y5b+q6etYhcHQkBHw+4jl2I16ONeVrgom4n5gSD5AElDWhaRw/8rSGPQM1Jw==
-dupont.	900	in	rrsig	SOA 8 1 900 20250925224113 20250911214113 7743 dupont. X1sXPDjG7NPVqG70/XLCOTYxtrTQiE1V3q3OacZL3TqV+oOF7ZjWvCLbT6mm7LcIqg7qutLV+C1cR0sVw6X8SmdQihALOrDrV23nulGHI6JptHpfQfn0/Artat1yQ7d3pvNGHSFuptlAABhFrjIr9K59CRGDJXDyohVzaqcUVT7PpHxzFEsgjbgXjTttS3zQrt9by72ApnIOREX+tJEzZw==
+dupont.	7200	in	rrsig	DNSKEY 8 1 7200 20251010071943 20250926063520 44914 dupont. bCOY6lT+9nS08dkx+jRMvDB95drvjNvm5+/jhtDB2YHVSYpr6T61Dqja6r0Rtgax/ET2LRO+qDp+c2LvPfv9e3GbYQD+72kPPkIJ15irJUnHV39H3icgpM6UV+sAhJvB80fRirgD4KPh5+fwqLbRPurGklYdQrYIXWYBm9f4BBEBqrwyeLQFB+qy6i6bqDDcZtZ+Ydtdi7GtiJMXCEtWvhjtTfayoa11dSHxKlPLhB5dqK4aj4HUz/lyDCQMnfCx6CvU/34N0t+f2uVvb/M/00jiqgUpm/xOuRa913nmxsXmwziS/0mh/plEYmRJtvQmAThFTm0hwL8bciW6b9ldRw==
+dupont.	900	in	rrsig	SOA 8 1 900 20251015174123 20251001164123 7743 dupont. ef6yQ/sTq+xmEK8k0zoOCRolyOY+SxSGaxhM88TT1+tvdlinnX/USAerjlotedtT1WBfb2sugrtfnCpOJxgSTAf3jr8Akv2WhnYlSpYzOH32kGvsb/w479FeLeKEmUBEBu3bJTdACNf2S37db2Q2ExPwxV/rh7D8z0XFYePZ8jv16p+PFGddAclsCyKHtm17YqfqaeYTYlt8Nlrld8w5dA==
 dupont.dupont.	7200	in	ns	pdns216.ultradns.biz.
 dupont.dupont.	7200	in	ns	pdns216.ultradns.com.
 dupont.dupont.	7200	in	ns	pdns216.ultradns.net.
@@ -45,11 +45,11 @@ edgeapp.dupont.	3600	in	ns	pdns216.ultradns.com.
 edgeapp.dupont.	3600	in	ns	pdns216.ultradns.net.
 edgeapp.dupont.	3600	in	ns	pdns216.ultradns.org.
 h07teeej5el9djpvj7okqs8196misuog.dupont.	900	in	nsec3	1 1 0 - MHQ3HG9FQOVLD3P8KC01UA92AF24AQJ4 NS DS RRSIG
-h07teeej5el9djpvj7okqs8196misuog.dupont.	900	in	rrsig	NSEC3 8 2 900 20250923233246 20250909223509 7743 dupont. UofSdzGw8HVMJ7tcnGsUCrUebBLdvHSvD6C646nDBsqZnlfAVudpJtocxq8eNNCFjmg5tiAb3z5paVmKEjnhfB1EEIqO6rQ9ESCvOncV4ZcDfSAaKgknvfB2nwlgtCzDzLMSnfo4TSDxt+nUuWEK9FKud1UERUc+mZ5M+OBuCtVj4g4d6w3yEJCF5B9ZuBb5FD2movCAWmq4rCZqc7a9Sw==
+h07teeej5el9djpvj7okqs8196misuog.dupont.	900	in	rrsig	NSEC3 8 2 900 20251011222304 20250927213218 7743 dupont. lFJXKOCcgEM/ck++H+3aaqkoZXk9xy1L8NSKTkgpIb0U1Fa9qzok9j8WS+hFmp4eicTlsopp3Qwkn3My2h2fk34PIjdUdo0RZYoudykPjl/vSjvD2b4iyYGF2DPKa4IUpDGHoxx6tUGcsNKZdxEEHu101OESVof8MWef9idmrtVUGIS9g4bbDNuwokLQ1Qn150FQFG0Zs3UlI0cMH+oLVg==
 m.nic.dupont.	86400	in	a	204.74.104.90
 m.nic.dupont.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
 mhq3hg9fqovld3p8kc01ua92af24aqj4.dupont.	900	in	nsec3	1 1 0 - RBAS9AH9TP6UN4S2T9CH1NESNMJ26TU1 TXT RRSIG
-mhq3hg9fqovld3p8kc01ua92af24aqj4.dupont.	900	in	rrsig	NSEC3 8 2 900 20250923233246 20250909223509 7743 dupont. SQ+rhYvqLMyuwY9MRTUmuQ/VgoS4KUqm+Nf15Xafm3sdKYU26xO/AeuQYCHYqvnr3yJnTH5X/TM9eQM92l25ZF/Aq3rLinLD1yzc01TpRJnQllK1mQ8wUcxRWWic2bMcBPX43Sq6eiqaknG6OyLfKRJAX2pxbGsl5qIyEqB9PFUrMV7IKK9Tj7DOZXiNEEMx8CxONTkyoftjKG78teBwbA==
+mhq3hg9fqovld3p8kc01ua92af24aqj4.dupont.	900	in	rrsig	NSEC3 8 2 900 20251011222304 20250927213218 7743 dupont. y8OwGJkkPCT260aF20LNsvRBGeB6vqGNyr6BrwPpTsKsHPQ233p51YsYx3A0vkOlUfJTbOpCvSNOkcV3I+QDT5TafhqGFObGvS52ctkSeo240Nuh1RCmCq7moow6nZzfR0IplQIp/FBzcIUxYgI7LkrOhFmyv4nCa/uD0L03d9X4iO/ybrjVaUg26IUK7fVfjNn1VFSn4ndV/+LhpPxqbA==
 n.nic.dupont.	86400	in	a	204.74.106.90
 n.nic.dupont.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
 nic.dupont.	3600	in	ds	19927 8 2 6ACA85E424026829388D35BBF5B3F7E81478B8264084C6F5A8374C525889C198
@@ -59,7 +59,7 @@ nic.dupont.	3600	in	ns	c.nic.dupont.
 nic.dupont.	3600	in	ns	ns1.dns.nic.dupont.
 nic.dupont.	3600	in	ns	ns2.dns.nic.dupont.
 nic.dupont.	3600	in	ns	ns3.dns.nic.dupont.
-nic.dupont.	3600	in	rrsig	DS 8 2 3600 20250925064544 20250911060909 7743 dupont. d1A/zI/odvF9UF1StWscIJzE1v/jHKiRljPGPMWD/OlU4blRa9A0bb2GNz+jutEDhknPsVnQPdhmuIpRQXJGuqNuqurL77i7VzEDrSHXeprgcHxx6aCL+EF6s/szVQBB2egWw+lM2PTJZSb/081+/hbaxFVnNDFybB+6SwKG9j8B3JeJDWEYC/e31LIaJm4B2Et9WB+pBqhddm2q0nQYPw==
+nic.dupont.	3600	in	rrsig	DS 8 2 3600 20251013042750 20250929041959 7743 dupont. Izs9pjIneaPDy0EgR8iG0TZ3OGFjV2b8wKKirrLQzhSwCXoqRizE5peFxInpqNDT3/zV/59hjrvwpTLP0THGIv1T86LoM9IfgEVbpZeUq8vjLuwjqv/uoYU9OZ9xqVmpHIBT6jk7x2PCtjTkZ6aYnbdRKB64vNAfZDL5RYL25eFUchYUnUmp2qLlxVMTfcl8uKiiZ9GqCzHl6UfV2U24zw==
 ns1.dns.nic.dupont.	7200	in	a	156.154.144.52
 ns1.dns.nic.dupont.	7200	in	aaaa	2610:00a1:1071:0000:0000:0000:0000:0034
 ns2.dns.nic.dupont.	7200	in	a	156.154.145.52
@@ -67,9 +67,9 @@ ns2.dns.nic.dupont.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0000:0034
 ns3.dns.nic.dupont.	7200	in	a	156.154.159.52
 ns3.dns.nic.dupont.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0000:0034
 rbas9ah9tp6un4s2t9ch1nesnmj26tu1.dupont.	900	in	nsec3	1 1 0 - H07TEEEJ5EL9DJPVJ7OKQS8196MISUOG NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-rbas9ah9tp6un4s2t9ch1nesnmj26tu1.dupont.	900	in	rrsig	NSEC3 8 2 900 20250922082851 20250908082138 7743 dupont. FRe0dknDBFsEJvMfFYFmQu7cxmRhSGmSP1hRbNha/KSefotj+OGxKWiKLMEg0e9SAAPZlOvmG/VpmeFzG8YvTZmevz00JwCcpATuFvwxpqmdJ7aTY1EV+LXWsTYpOKuxWl4shRxz/2cuKF/xGfxyi+GkKa3zOAgiy4U4jZvjtN7/41z/4/8gyPkRMGD0mn/4O06aqDxtdePExSGX8qTfnQ==
+rbas9ah9tp6un4s2t9ch1nesnmj26tu1.dupont.	900	in	rrsig	NSEC3 8 2 900 20251010071943 20250926063520 7743 dupont. fjyKWsdYx4k8Vha7x1zxvE8OI/nkLAx0o/fce7n2speiniTdTs4XXtUs+KBz/n4dHNBMKBaaq1Q8nI26cZZT5O/3s1/4uz18ycTxAXCSH115kvAvOTrkI3fr/VK0sYSS+nTkG3T1Z+jK4O12/9Fru8FpCFG9tdTKZ43iiXDU/PRU5NuXqbV9fWq4wAaAaZdaGflGG0OwZhBh+EA+XknQVg==
 www.dupont.	3600	in	ns	pdns216.ultradns.biz.
 www.dupont.	3600	in	ns	pdns216.ultradns.com.
 www.dupont.	3600	in	ns	pdns216.ultradns.net.
 www.dupont.	3600	in	ns	pdns216.ultradns.org.
-dupont.	900	in	soa	ns1.dns.nic.dupont. admin.tldns.godaddy. 1757630472 1800 300 604800 1800
+dupont.	900	in	soa	ns1.dns.nic.dupont. admin.tldns.godaddy. 1759340483 1800 300 604800 1800
