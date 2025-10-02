@@ -1,10 +1,10 @@
-target.	900	in	soa	ns1.dns.nic.target. admin.tldns.godaddy. 1757624681 1800 300 604800 1800
+target.	900	in	soa	ns1.dns.nic.target. admin.tldns.godaddy. 1759334145 1800 300 604800 1800
 2ep48ahsevrvoqdrt5s9vi0aca39j7bp.target.	900	in	nsec3	1 1 0 - 6H0392LQUMC0NVONN66M8EQLNHIKL5SN NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-2ep48ahsevrvoqdrt5s9vi0aca39j7bp.target.	900	in	rrsig	NSEC3 8 2 900 20250922110950 20250908105637 35913 target. DSfAOCrQA84j4KkCKKG3DaQ2W4ej4dyPXcuFC3sQCNzBdqbutRSZT3P0HEMLMT0M+ljZC+He3LtZrC7YKbwDjFoVAuG3c8yw4m8EzYrUkYmiNi8q2m3n/KCGHLDtO+zmc3/sOKHGdG8Vjd43WRTclBN1KSFlrKgsxwn673rva7sj9Z3FyC2Tz0NPS4yRxMgUyD9RGcTj5ZxsbFF/ND1KQw==
+2ep48ahsevrvoqdrt5s9vi0aca39j7bp.target.	900	in	rrsig	NSEC3 8 2 900 20251010091842 20250926090918 35913 target. CZsQz7tpDf9LPD3vqArPru0OKfqDnWc3BqGAr+SIzy8QIJISaSjxGsZV6CGuyUojXDa4jZ9BBU3cKnXF4LQYx3lXFS9EUTfv+QfsZx3VgKgtD7EkkAkr/52EkziGwi09Xkq2Lv6sbkuBilx3fzSgSnhR76sbhgx+v5K7q+KG2DWP2fJT94/SWw9BFmEuSVVXPgIAx+z520cakCIvqcm8pQ==
 6h0392lqumc0nvonn66m8eqlnhikl5sn.target.	900	in	nsec3	1 1 0 - LUEBJVITSDUGMG6E383KFBF2MR4MANVP TXT RRSIG
-6h0392lqumc0nvonn66m8eqlnhikl5sn.target.	900	in	rrsig	NSEC3 8 2 900 20250923054839 20250909045708 35913 target. ibU7X8ZZpHmpQR0WennvE4w6w189CwJr7xEaag4pmuoq2UFrelUg1zR3OINfXYTYKfYRBU5FnugGI2/JVvl1AgeQnRCB7FSgdh8T73CSUXKoUm+DGkrHcH/Lc0QBSa0bqkt+4AUBdVb19cFUsiyNu6NspDg0oNCAfANPsTftwezacXWHssh+LNS/J06CvjUwP+3/WZR1/wFAKk2+CxrpNA==
-_forcedupdate.target.	300	in	rrsig	TXT 8 2 300 20250924052357 20250911013708 35913 target. gcvolGKLoM+wE7wzbiWTC8NO09DuM9HnjEnuYhlbtPzQFYzgmpJD53Gb2EJ35j9fOX44OaBln2x5XrBueNoGX5EL6bo/GuXdsN4amGBRE3kicqkjeYqmGbAYw8AHOrxGdfgpiE9ltFH/a4T3BHea6YF12CGr2WFlkO22+oYP4u/xZeaJSnFg0FLnxrmWim265dzIsjm5NBXBIMN5uKDQfQ==
-_forcedupdate.target.	300	in	txt	"1757558228"
+6h0392lqumc0nvonn66m8eqlnhikl5sn.target.	900	in	rrsig	NSEC3 8 2 900 20251011041402 20250927032541 35913 target. CRAlMIfE1LiE+nOgziVrpSQhlrQ+3xOgC0//S5NZy675Pk+WxpW2dEziw3XqrabfWqCvmZJjUkRpZW3zkWWa76YhL6Y+aTm68sshY0vPGOo/lLC1+t4FshJm4/qWCQfwd6p8evyWGSexCoifYrA4AZrcGqXgIikszvmgOS7/MqnnG++QZdpA0Gb9z37nv2mZ1PvwBpgbd2LFhqI07sItZw==
+_forcedupdate.target.	300	in	rrsig	TXT 8 2 300 20251013012604 20250930154248 35913 target. J6wEnNxZQnTrykBcKC73aWwxK006KJ6Hw2xBlrYdQxQknbVUwxI2NRw8dhzfKTgSrr8OiDBdi8pXdsDUdd78cC466eRhzDeuTZV/WHx20b39twPMsr4PieMxok7qRkUmcX9Zy5GhPIVOMhp/oRVevAGOjpSuEV7uKKBuIi/MIIbGnwhJ1I2dq8pbYHS2jJkgAQDycIF+qU3+OcjY4JZK3Q==
+_forcedupdate.target.	300	in	txt	"1759250568"
 a.nic.target.	3600	in	a	37.209.192.9
 a.nic.target.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 accessibility.target.	3600	in	ns	ns03.gcd-dns.com.
@@ -45,6 +45,8 @@ briefly.target.	3600	in	ns	ns03.gcd-dns.com.
 briefly.target.	3600	in	ns	ns04.gcd-dns.com.
 bullseye.target.	3600	in	ns	ns03.gcd-dns.com.
 bullseye.target.	3600	in	ns	ns04.gcd-dns.com.
+bullseyesplayground.target.	3600	in	ns	ns03.gcd-dns.com.
+bullseyesplayground.target.	3600	in	ns	ns04.gcd-dns.com.
 c.nic.target.	3600	in	a	37.209.196.9
 c.nic.target.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
 carasylvester.target.	3600	in	ns	ns03.gcd-dns.com.
@@ -99,6 +101,8 @@ d.nic.target.	3600	in	a	37.209.198.9
 d.nic.target.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
 dealworthy.target.	3600	in	ns	ns03.gcd-dns.com.
 dealworthy.target.	3600	in	ns	ns04.gcd-dns.com.
+dollarspot.target.	3600	in	ns	ns03.gcd-dns.com.
+dollarspot.target.	3600	in	ns	ns04.gcd-dns.com.
 driveup.target.	3600	in	ns	ns03.gcd-dns.com.
 driveup.target.	3600	in	ns	ns04.gcd-dns.com.
 electronics.target.	3600	in	ns	ns03.gcd-dns.com.
@@ -133,6 +137,8 @@ goodandgather.target.	3600	in	ns	ns03.gcd-dns.com.
 goodandgather.target.	3600	in	ns	ns04.gcd-dns.com.
 goodfellow.target.	3600	in	ns	ns03.gcd-dns.com.
 goodfellow.target.	3600	in	ns	ns04.gcd-dns.com.
+goodlittlegarden.target.	3600	in	ns	ns03.gcd-dns.com.
+goodlittlegarden.target.	3600	in	ns	ns04.gcd-dns.com.
 gretchenmccarthy.target.	3600	in	ns	ns03.gcd-dns.com.
 gretchenmccarthy.target.	3600	in	ns	ns04.gcd-dns.com.
 grocery.target.	3600	in	ns	ns03.gcd-dns.com.
@@ -174,7 +180,7 @@ kindfull.target.	3600	in	ns	ns04.gcd-dns.com.
 lisaroath.target.	3600	in	ns	ns03.gcd-dns.com.
 lisaroath.target.	3600	in	ns	ns04.gcd-dns.com.
 luebjvitsdugmg6e383kfbf2mr4manvp.target.	900	in	nsec3	1 1 0 - 2EP48AHSEVRVOQDRT5S9VI0ACA39J7BP NS DS RRSIG
-luebjvitsdugmg6e383kfbf2mr4manvp.target.	900	in	rrsig	NSEC3 8 2 900 20250923054839 20250909045708 35913 target. Myn+FpvJsYI/VkYnsDJ8WLgmIywIja9nIK2vah+iK5QC+uG6Q5EWgAHqfA7GV3BzdIeSO2ZRJJzmAHzts6/x/8KEpIrQO9sQROWTH3Wfg8g0MQAia6BRyessqinhX6v7gEKPY+zjZI3RNJ5nUPWufmq9QWOlaZMMIR1FQbO0jWVLlngzrFKOVfmgxeNxUScBuK35+U3420ytAsFGQss9kw==
+luebjvitsdugmg6e383kfbf2mr4manvp.target.	900	in	rrsig	NSEC3 8 2 900 20251011041402 20250927032541 35913 target. m2jfaSyK+G9tAl8BYcGWMGUwFziON59aEknPYbyuZMNf+5AWqv/elL8dRLCG9TlhPTRUq6bZg0TlEfC24sLgGYe9dX1IScwybvfikK1G3deyYmwRopNQ/jb8JYBWK69R0Vqk/8R8MGwDaGgR3dnqSJjzFgqt9jCO+/R0GxkVPloxG5k9oThTOEnPPD68ouXj6W6kfPGdgW577EyFaHoV/Q==
 m.nic.target.	86400	in	a	204.74.104.90
 m.nic.target.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
 makeup.target.	3600	in	ns	ns03.gcd-dns.com.
@@ -194,7 +200,7 @@ n.nic.target.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
 news.target.	3600	in	ns	ns03.gcd-dns.com.
 news.target.	3600	in	ns	ns04.gcd-dns.com.
 nic.target.	3600	in	ds	36175 8 2 1F03DDFE5F93776AE15ED16D74B77C00373A3D26F50C424C04ACD0E785764216
-nic.target.	3600	in	rrsig	DS 8 2 3600 20250924220147 20250910210215 35913 target. k7p29KGZmOvCcNgZi2baJqObZosnyd5v22FtJBdA1hHFgOqTcEThILRZ3+IhzayobwmPQo0EsJ/qW0Y72c8zF7Oczjoin1aTL0fGo4/UE673qHJXBQ8Asqf7mHkrAXzTAVlBYtlBZz/2eVa36gpR7JO5bphfmR8XNYKm4FgmOLTvGAOiWjWm2xGozzi+RgFwy8uvSroF0o0siRPLCm+gcg==
+nic.target.	3600	in	rrsig	DS 8 2 3600 20251012205924 20250928201611 35913 target. la1pWlaH8gq5Xvb2YT6E13gSvsyGm1ByoM+O/nclfGSIKs0OcnMLRFfr5s7/CaGPdqQ8vQfFHwBjQryPI5Su/UGAqoJknCx/TOk1jVy4Zwsn1MOtlRBlEaBCr47BvgWykxLk0scR+CKFJe2E5nREGKnV1fBNayTGhs603+vJzSflw9s7vUefA6bokTOFwZ7LBNvUcOqgCV7f0KjWQgloOw==
 nic.target.	7200	in	ns	ns1.dns.nic.target.
 nic.target.	7200	in	ns	ns2.dns.nic.target.
 nic.target.	7200	in	ns	ns3.dns.nic.target.
@@ -280,22 +286,22 @@ supplier.target.	3600	in	ns	ns04.gcd-dns.com.
 support.target.	3600	in	ns	ns03.gcd-dns.com.
 support.target.	3600	in	ns	ns04.gcd-dns.com.
 target.	0	in	nsec3param	1 0 0 -
-target.	0	in	rrsig	NSEC3PARAM 8 1 0 20250923054839 20250909045708 35913 target. ZSq/DqkSdgJR+EmclYT3o0uCAdJIy8GRDfXda3ZX4V6tA6GOLyTk4yifSlG531zRctszOgTunYJArfQw+nm1vjUvbJSpY1OBwf6YOZPIJuEcOtu5HNyRz1UwyPQPIyzaUA/F2yk/C4bWy7vsDV6FSwvUvUWAGRVlWf/Yfn8/a/2Ss24quMQKlGkq4V3GlFlXAZUehiFa4FXDr+FXd/MDJA==
+target.	0	in	rrsig	NSEC3PARAM 8 1 0 20251011041402 20250927032541 35913 target. Vt4SP1mIclH0rkcF5YJKr7u6tJfnZSepZrz9fWlIqXgXolQk9leUkEZzBaMlctpbCkLcHUtoujEoEraBCZXi156ebPF0Ly5HDo9hypC0aboeQ5v/6PzxYbKgqfrWBrGGnHFzvdNx/iZrC6wvdWAhm5IdWqDk1tZZl1/jvl0zQawxXaLErSMm7u3BctjvumbKiryys+MoBY8LA1ICYpYrKg==
 target.	3600	in	cdnskey	257 3 8 AwEAAaAh6GrS36ESniC8d+HQPNCDG4pt2lMyv1THTS0Z6hltBJY/bIb2FBzuVw78Pc2LYxjmV35+Fa9cfe0FoEFwp0oPWC2LoonNbxO102hbFo2X+WBObllGzIyPUsnaBmV/cX9R74FZHboTbHjgjoOyPl0Ln9XW9LxA80OFB9JHaWaAXVorT7wBIQTqOuhAwzctfTg739CyHw4SZWPQc4VQh5rAQ7ng2iDBjvatkUdIPD9862YmpQvwYTx4EC65vQmOMeczR+3JEN/f9QuTRTHOM9rtegWwxbEYFBCnAa/sV3I+vdomYQFfZcmjAy2uozceecu4PGiaLuCuR+P3327cf28=
 target.	3600	in	cds	63634 8 2 C16DCD3729FCE936B4FF2021E1D2409499FC85C4934137249EF7B5288807AEA4
-target.	3600	in	rrsig	CDNSKEY 8 1 3600 20250922110950 20250908105637 63634 target. SrkdlnrsmDbAhqmwUvMfciFZ+DY6k80bLzyfRkqIInYFLbF4diMJizpKyPB9A1wK596Mb6TDWG1RmK4uUSVw8i3uNGd0rALfWHTO32WTYVE0FZYq83s6F8vp7VFrWYWrXL+mpbCugYA3q6DP2ZcTzg7plNCCCvMiCRZUR1NxMS/ssezsD/ufRPaMcWeo6uKXthXIYlghnF0yL/XDk1tX7AjPnuVQ4Q1XxshVSy1wqSql5Ipj2hKwyN9jTGVR6Qyv9LKwUGKGcj19KDVhyS86ddQhdmq1DSVrsz7tAiNN3opX7eDGnQfcrgleiiKEity5lo+Mc20oA6rdTtvQVdgamA==
-target.	3600	in	rrsig	CDS 8 1 3600 20250922110950 20250908105637 63634 target. ZgFRYq1XSBK57Ao7OGKnneqYKp1gV7rEU2Dnp2T2Vfjvf7vFEf7aiUcwyrqOEiU8FKcg2WwoO9QTkGw1YkGAf/1QbKQVlajnVxMDqtOsc6Uu6fF8ltPXLoBhr0Cr4/cOKfoeIWYlc6EocU3JqcY0+a6SQCCt1zl8w6Icm+z6tKp40OrRuqFV3G193ST1adWDmsiDhg3Z4EPZb+YVgiHtx7/ZdjzOey/KOBCjBfSBj/k1TcflMBbQ0yOUgkMbjIPs7Kqi5DnJLcPCvmb7VaRltzxLNDpvCc0OOc4ruCfKYvUJpeyAxnX66grLw5OCPis6O3iEefKEbCza4jIrZaWqig==
+target.	3600	in	rrsig	CDNSKEY 8 1 3600 20251010091842 20250926090918 63634 target. m+4pwfC/sbRa34zAoAr6S3V3mmpiqeZQ3RShvVFpeFHQgPjEKofeEUj4Qk0sIRTNtZjNEVWw+gba+jnfPWVbB65fy96vruDxOqCPxOYho1cM8ZEmCHaxOXjNuhZIFvZUKj38EcyPKWnz/nXnz9xETiVm3439njcsl1lPZznkCKqkRYoE8FEgL3G7lZAdt2JjdgWvk6oaDZ7wr2T6o1m42McVYiX+7YPwaLzGOnquBo9cyeSZyQOprqaLQkBgReNtwo81xNQ5lrC7xXvnNZel8A5QN0YZ2lXcGkyy1ltTHPvDUUSIQhMA5ImmI64AbjbrlAF9l4xRTz45itRl6CPAJQ==
+target.	3600	in	rrsig	CDS 8 1 3600 20251010091842 20250926090918 63634 target. AU6YPEEMZHxlN7lXBy7xlYLPd3jPRR79UR7bvRdrnZIz77hdYsmEqLid14poQb2lOGyamBOi0VhrWKcYF/KFfuQu1t1Rvz2N7UMaOslcPIyd6CARsmEtskG3E7ySNqBPsVSB87wCzXKWVvZwwOIU/SUkDeYbA+0KZ2Kr+0Ra1ITSGA4/LBOAs7LG9fkoFsjj/62UGV9epCEl1rGmNMTg2ydR/13hn6/pbHaQyF10TAVavlJnx4SGKfC3LOPjAmDBji6LIUjy9B7HtBjPRsQ4pM1/BdIUS6WgQQvivIGQVK9KN1+CJ98mE1hug09AdoFXIqMmvSAZI1eJLgo1UK7dUg==
 target.	7200	in	dnskey	256 3 8 AwEAAahkEPbKM0ODzf7/zobW44shbwhKsn+pD17dfPQZ2Y4fpPso8NgnrAPkVTGCfrdqO43eRebwZL3+CFZ84N0NNMIFmH1adqhkkRVTNQET64/oqxgfo9+5Y2hmM87tD5GXqSxegRF3PZhcYWsCQST33iqz7iiTFm9YFaWPpvxsj5FGpO866+mfoB+g3fWhCHpGkFHHF1chkds/Br3oFl4nIPs=
 target.	7200	in	dnskey	257 3 8 AwEAAaAh6GrS36ESniC8d+HQPNCDG4pt2lMyv1THTS0Z6hltBJY/bIb2FBzuVw78Pc2LYxjmV35+Fa9cfe0FoEFwp0oPWC2LoonNbxO102hbFo2X+WBObllGzIyPUsnaBmV/cX9R74FZHboTbHjgjoOyPl0Ln9XW9LxA80OFB9JHaWaAXVorT7wBIQTqOuhAwzctfTg739CyHw4SZWPQc4VQh5rAQ7ng2iDBjvatkUdIPD9862YmpQvwYTx4EC65vQmOMeczR+3JEN/f9QuTRTHOM9rtegWwxbEYFBCnAa/sV3I+vdomYQFfZcmjAy2uozceecu4PGiaLuCuR+P3327cf28=
-target.	7200	in	rrsig	DNSKEY 8 1 7200 20250922110950 20250908105637 63634 target. TUkg4D2MU+BEGRuV0k0k36FdBKebUA40fjVeYl9rQqL64ExO8F5/lBLn9gM3uAlKO9c7ZRS38qRpjACLh7/+kdF9ShQpP+SGOh/2cS/JubM6O6WYVkKdKYO5K6G9ATtAcrEV90dU4N2X5sbf1uIZiGapvD4XOv6JQoz1nubx2ZyW4LtSqc+++p90gk1XRvpSMw4+FtLRzNtN120ZyLNKgV8JQ8tkAXllKidpSmEN98E/iJkKDUADRpa11dJV2T81U1dFgnouXFH7JFZMQIdWNweSMRxu/yP9VTJCIe3zXxVSdDaITrXPsYtHru9BQ6J/jqjzL9wMl5Wf4xo4xFuxeg==
+target.	7200	in	rrsig	DNSKEY 8 1 7200 20251010091842 20250926090918 63634 target. VgB6sIIytHEcgW5eZo4JoscDpxobsBvMH8X3otw6JTHFg9+uW+Dp7pRsZAn4id55ItKNanalzu+GhzflyQwyUQVY6I8K0SltNDHfCZRrVMaqnsS9hCuL0MCNFwfqxCQ8MtKPAWrFJ3jUonSkVSMo29wJxdg0j3ry5ab+uOvpMQQpKbfn/sJx1NPxpQsxyVwd94vixO6hYji8bLlTGhUTRHRwkKzVwfAKD05OS8fptLm/FPL8mRBYwNZ3Jr6uOLdtJ7MAAAAGyra2kx1UFTZo126DICB1C74dyRGb74tFLdo+s1Hngve62IiIs1JtAdKzjsBY+Y+0eiGjDoDBdQytPQ==
 target.	86400	in	ns	a.nic.target.
 target.	86400	in	ns	b.nic.target.
 target.	86400	in	ns	c.nic.target.
 target.	86400	in	ns	ns1.dns.nic.target.
 target.	86400	in	ns	ns2.dns.nic.target.
 target.	86400	in	ns	ns3.dns.nic.target.
-target.	86400	in	rrsig	NS 8 1 86400 20250924220147 20250910210215 35913 target. FitZFH/0wWJhonPhQxYCTxHUyqJq04RmQ349wrpxe8d7v/fvENP5QKiz7EkNZtteG7LGeoPXFKg3sC6U3Plu6jQVXjXYSxREg6ipzmg8KEwqx4GVNosf037wl2m0O1XOjTgQRb41zDexBu/BHcqNTFDtsHsCZ6EFXPoTcc0qTCqMLKgGk+vY7huAexUOJYgFFnwiC1gCSo2TeMJ2SBjSKg==
-target.	900	in	rrsig	SOA 8 1 900 20250925210439 20250911200439 35913 target. cYJ244U135GM53eIi+x1rI2AIdPfSp6u8Qxy9G57Y2YzNIw9VHAzzQyQfz4CT7E9RNxauzgDIFLY6zl0pjOokZhZvjzYQS6Z1OC2GTC1O6rFXNZWyUGAyhcSClq7xzVtyJcs4Jt0bM+4VUoNbbFlF6QM4fRRqN18WpihrnUZGalVygsr0KdwVHQJ3VGNZU7WUHdY+pKBJ2CgTwTBUJPbaQ==
+target.	86400	in	rrsig	NS 8 1 86400 20251012205924 20250928201611 35913 target. Zqsue6TzisvDZLSHeCAIa4kvlycmERc68LTG8vWTdxIomp8PIAf5JuSS27T0ZFzkNP2A8YKzt+Mhj//mWidscArpdwhQu9sV0PjLQFJ4mwZXHch4dkK6kF3xItrSkrqbN9/Fa4SfaJMmNqDYxWlDPKpH14Pu/xpM+TkaErBvVEnEoPu5ePYZ/H2YbDRUNOjkwDJ1kzs7aEG/1JAz+fAR5Q==
+target.	900	in	rrsig	SOA 8 1 900 20251015155549 20251001145549 35913 target. XsmL3StZMvo/ha8OkmC3dNhdkEkJI4SQlT0XqSyAIozMv1aioCEw0UjYSHKhX1fP1mfymr3MFEXva5RB37drT168GEWAmNk9BulGkc533xgukLaU39IMJ4o7NO3/v97ct3LRMJFBpYSc8yD/MNekkPhU4sdvRAwkuanJGDufL1RgHmhDh/bfvfB9sXCDX0yL2eIlB1GFWOAY/cvao5y+lQ==
 targettogether.target.	3600	in	ns	ns03.gcd-dns.com.
 targettogether.target.	3600	in	ns	ns04.gcd-dns.com.
 tarzay.target.	3600	in	ns	ns03.gcd-dns.com.
@@ -334,4 +340,4 @@ www.target.	3600	in	ns	pdns196.ultradns.com.
 www.target.	3600	in	ns	pdns196.ultradns.info.
 www.target.	3600	in	ns	pdns196.ultradns.net.
 www.target.	3600	in	ns	pdns196.ultradns.org.
-target.	900	in	soa	ns1.dns.nic.target. admin.tldns.godaddy. 1757624681 1800 300 604800 1800
+target.	900	in	soa	ns1.dns.nic.target. admin.tldns.godaddy. 1759334145 1800 300 604800 1800
