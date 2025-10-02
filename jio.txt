@@ -1,4 +1,4 @@
-jio.	3600	in	soa	a0.nic.jio. hostmaster.donuts.email. 1757638964 7200 900 1209600 3600
+jio.	3600	in	soa	a0.nic.jio. hostmaster.donuts.email. 1759367423 7200 900 1209600 3600
 a0.nic.jio.	3600	in	a	65.22.212.33
 a0.nic.jio.	3600	in	aaaa	2a01:8840:00ce:0000:0000:0000:0000:0033
 a2.nic.jio.	3600	in	a	65.22.215.33
@@ -18,6 +18,10 @@ c0.nic.jio.	3600	in	aaaa	2a01:8840:00d0:0000:0000:0000:0000:0033
 charge.jio.	3600	in	ns	ns1.nameserver.net.au.
 charge.jio.	3600	in	ns	ns2.nameserver.net.au.
 charge.jio.	3600	in	ns	ns3.nameserver.net.au.
+chargeit.jio.	3600	in	ns	ns-cloud-c1.googledomains.com.
+chargeit.jio.	3600	in	ns	ns-cloud-c2.googledomains.com.
+chargeit.jio.	3600	in	ns	ns-cloud-c3.googledomains.com.
+chargeit.jio.	3600	in	ns	ns-cloud-c4.googledomains.com.
 coupon.jio.	3600	in	ns	ns-cloud-c1.googledomains.com.
 coupon.jio.	3600	in	ns	ns-cloud-c2.googledomains.com.
 coupon.jio.	3600	in	ns	ns-cloud-c3.googledomains.com.
@@ -38,7 +42,7 @@ eva.jio.	3600	in	ns	ns1.nameserver.net.au.
 eva.jio.	3600	in	ns	ns2.nameserver.net.au.
 eva.jio.	3600	in	ns	ns3.nameserver.net.au.
 fnksn10k4qn6oaqt0aahf0c0ivugrj95.jio.	3600	in	nsec3	1 1 0 73 UDGA8TAFM6VSAGBM6AIA93DLLSM6TP2K NS DS RRSIG
-fnksn10k4qn6oaqt0aahf0c0ivugrj95.jio.	3600	in	rrsig	NSEC3 8 2 3600 20250930161531 20250909151531 24879 jio. i9xLeZoMBaZ+CEaEVD2R+H0sA6e8vvCq+dLt5mAp57V+hO3z94zIf0zSJDRg1op/LsII0M8HVCzo+eDO4ZludKNM85y/Ue1Qvv9cBubrX7+fLkIEGaqwPblYtE6wCqMkYhNcd69UBs/9y93GZOoEnLixJFPeZXySDcpOoLGIq0s=
+fnksn10k4qn6oaqt0aahf0c0ivugrj95.jio.	3600	in	rrsig	NSEC3 8 2 3600 20251022151614 20251001141614 16518 jio. KTHJNZGyp8C0d09dsjIbhNz6SP0wZXc3IM6XtSL/e1kpvgYWb91sOi48ANULajzf2UeGXOpPzKC+6+04wz1sErJt/Nm8qxUE/aCkR+8Mfd3o0iekuUJuCiJzQH7KyOeg033SqcEPvaAX/ShDiTviI6MfxKaBkxSEawllUdZq83g=
 health.jio.	3600	in	ns	ns1-35.azure-dns.com.
 health.jio.	3600	in	ns	ns2-35.azure-dns.net.
 hub.jio.	3600	in	ns	ns-cloud-d1.googledomains.com.
@@ -57,10 +61,10 @@ jio.	3600	in	ns	a2.nic.jio.
 jio.	3600	in	ns	b0.nic.jio.
 jio.	3600	in	ns	c0.nic.jio.
 jio.	3600	in	nsec3param	1 0 0 73
-jio.	3600	in	rrsig	DNSKEY 8 1 3600 20250930161531 20250909151531 5476 jio. xmNEFrOJY0oHTGKTX90kT1QAR0TSTx3e7EccvGBJopvzqADt9oJxf1Q+bjpgkAR9sMTHU99LkD3RFRCLZBBWfLaKwtcVONuO/w/uezKJD+k/4MAyPjlIu6WaXk70y/FSb5euo9jkc4E3Zqgd6RZZHPtPGfC0u1TBMIoqgg+c9h5kPLkxYdOGdJIgWTdEB91S1s1h8ymw3DI7KG1NgRqqUNFuINN376TBzgTmxc1UViBahDxjfs2ThbheYCm/2zHa0g83U6qL0TuxPTRqgnEjO5xgbV3etr5Ji1j3/dS8yG48W9+BFK9iV4xPylNKbXxdkP+dw3y0NM4mr9IFwRS8DA==
-jio.	3600	in	rrsig	NS 8 1 3600 20250930161531 20250909151531 24879 jio. UX4b1Po3tHmzgWVMuJ/1G8rOTf5DAYkJhinRlV9ER5lrgHYduSY31VoOpMjxswF+TAyyHjScAY2U+noxhf2aJqiQMGoVy+EY2PLAngthaqoG9LKwTVh4tWkorRBX9eCmZNJhvcJuOK0967kl3Wo7Wx2QyWSq10xLSBqp65ct1Lg=
-jio.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930161531 20250909151531 24879 jio. e79XNnquMEX2HpNbOKQS1kmiD+9vxbBa2Xl56OmHpV10jZSzBMi4STmUhDT5qgtepUlt1jP7E9nzbnvDdHNZGfWbHXD8FV50dFIjkGwZld0tlM5NZd2+mpqtWd+e/UIhQemnX8juvLbxW8XqNmrKTV7cA33NtbSG2jF7tfusNVI=
-jio.	3600	in	rrsig	SOA 8 1 3600 20251003010803 20250912000803 24879 jio. ezsFZNf/KE+DEe89d3yMBuEt4QY97r7ajd4+FKmIyoZn6ohVtsZlwKjch/8aivCQwycni2E8YBcYrixeWGNwU8dj5V5cbay8N0Cbm72wyIOBz5W38NdowhsGoQW0YpQhdsuPbEur98nhqrpprywC0P/wbP70hJWahNnQv+hPnzI=
+jio.	3600	in	rrsig	DNSKEY 8 1 3600 20251022151614 20251001141614 5476 jio. C4nZEHUbPBtWBNN9M+fO4gpv5Ceuai7lfLqFy3sYoF1GCpoYANTZvVJ7/coH6uSDMByLwK03ju38oW1RmaLjGRjCDGNn7jX/TecCTb2Vf8Ei8kyy9wSNT+PsD0a6JxfBDcS8gBik0Fy1BQQGKM8YrHCfu/StzhV5WoVXMGsuucQB0idVeTTRmzqdMu6fNbENrkbDAJez9MwFXaqczOvM0xx+tzhnRMb8SW9cCzX4nPof3+/phKJHOiWMqf2Q0hG7Ww9kTQjsTHzml3jwsO/T9XJHXhb+nRDw0GPqsLf/2Is2D3J1xKsIk9oY8DNbWAE69tcbcp/t0QcGQL+yZxTvPA==
+jio.	3600	in	rrsig	NS 8 1 3600 20251022151614 20251001141614 16518 jio. GJpCp1+TTSqqw6+gTxU2D6JN8tRoFVohTCXuN7jFVrBJj6Y6y6fyO35A4rKJ1RCOIKOT4ww/bXfp22f1EQTw7m3nlDqMxui/S81Q5DE868mL9eT4lxEeR7MD+m7a00zm2A0C4SqeD9aVgisZ6W/rkUluMgPDCNJYi7+cudVrmjE=
+jio.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20251022151614 20251001141614 16518 jio. B4u5x7SyM5sA7tW8dj+5DlqTpPGq/VLfqblD/w/snoYS9IHsu+SmEXhq7kxtqKRe+OE4KTGTPcYhr/iqAGR8Z4/bDIGJSF9h2piIMN3t1aMngfgtnpxmIVDcywjzXnpRL3PvC+bGUQIlgVH13ryWt9dFKtjz0jRjIGOpTrVVs4Y=
+jio.	3600	in	rrsig	SOA 8 1 3600 20251023011141 20251002001141 16518 jio. hmEQav5Ai6ta5ZoAcojwQNxgM9GDzCN/Ch9cHWWDCZ9ZpzUpMoFjqshD06iGQIay5lingbvIcAz1B6avRuwFmS+2bRfOBeplURSRtDYEtJAIDoxYLY7UOlNaBK/Z7t3JdggOyqK2YTZ6k5t1IaMONuU0vMKijE52+IMiRkeckxc=
 jiohotstar.jio.	3600	in	ns	ns-1106.awsdns-10.org.
 jiohotstar.jio.	3600	in	ns	ns-1836.awsdns-37.co.uk.
 jiohotstar.jio.	3600	in	ns	ns-23.awsdns-02.com.
@@ -89,7 +93,7 @@ nic.jio.	3600	in	ns	a0.nic.jio.
 nic.jio.	3600	in	ns	a2.nic.jio.
 nic.jio.	3600	in	ns	b0.nic.jio.
 nic.jio.	3600	in	ns	c0.nic.jio.
-nic.jio.	3600	in	rrsig	DS 8 2 3600 20250930161531 20250909151531 24879 jio. REGdSSmWzSQiuuPBAqT7euTHFdgQ9fU5RwE7Vj6rUwC/fpgTT11oUPQg7mXY+gIdFXHh3D7Hnus7MhWbb3Jsga0oMqpYcXenOa0y3MXX/nwuXAdbKS45fna9SQIsrzhzJyJmX65+oqVh0I8SAJVSXxYS5bMxZn51zA6uT5G/ySA=
+nic.jio.	3600	in	rrsig	DS 8 2 3600 20251022151614 20251001141614 16518 jio. kPX5z9fXENXzdzj7g5ClExtea60TLBGsUpyLcyV92wo59vtIBNBxTBFWr6a9vWPoHikRDL2x7Xu0+iToOwgpsCpWSW1Ln9k/ivS4wEdvll8q5T4uCGezVjBoTP1FIal+zNe0pLFeTWknG8IT2aJ0NS/4Lc6QD/6itpEqFKlpWGw=
 ns1.couture.jio.	3600	in	a	49.45.43.42
 ns1.couture.jio.	3600	in	aaaa	2405:0200:0800:0000:0049:0045:0043:0042
 ns1.engage.jio.	3600	in	a	49.45.43.42
@@ -172,7 +176,7 @@ tv.jio.	3600	in	ns	ns2.tv.jio.
 tv.jio.	3600	in	ns	ns5.tv.jio.
 tv.jio.	3600	in	ns	ns6.tv.jio.
 udga8tafm6vsagbm6aia93dllsm6tp2k.jio.	3600	in	nsec3	1 1 0 73 FNKSN10K4QN6OAQT0AAHF0C0IVUGRJ95 NS SOA RRSIG DNSKEY NSEC3PARAM
-udga8tafm6vsagbm6aia93dllsm6tp2k.jio.	3600	in	rrsig	NSEC3 8 2 3600 20251003010803 20250912000803 24879 jio. E4Y0rhsslTTDus456u5bf17KjGhqFnWoc1Dg5a80NkVfQHmSB7OrypJVaEm+istQ+kj4bOEB9nSkO+2bDbl4OQB0WNu4XiM8kavNyzTpeo5p1UXiuBl7nfA4/iZ1p7OdIIFZD8ld94OlszFiA8ais8zQv8hvPNLqlEE1GbY1ED8=
+udga8tafm6vsagbm6aia93dllsm6tp2k.jio.	3600	in	rrsig	NSEC3 8 2 3600 20251023011141 20251002001141 16518 jio. meqTyHkr9drYuN/jsW1q0YO90cOdkkYhaDgotrF9q/X6dgHcc7XXe+9GkDbndpFDpqQXU/+zHQlRbgJziqoT9WjSFr2+Rcf+A3k3XLkdIq8cm5cOaRgJszD3WWzjWAeViX89EG47NEzVtaTj8EEu4I7zLf65hKElPSLbrJhUUK4=
 watch.jio.	3600	in	ns	ns1.nameserver.net.au.
 watch.jio.	3600	in	ns	ns2.nameserver.net.au.
 watch.jio.	3600	in	ns	ns3.nameserver.net.au.
@@ -184,4 +188,4 @@ workspace.jio.	3600	in	ns	ns-cloud-c1.googledomains.com.
 workspace.jio.	3600	in	ns	ns-cloud-c2.googledomains.com.
 workspace.jio.	3600	in	ns	ns-cloud-c3.googledomains.com.
 workspace.jio.	3600	in	ns	ns-cloud-c4.googledomains.com.
-jio.	3600	in	soa	a0.nic.jio. hostmaster.donuts.email. 1757638964 7200 900 1209600 3600
+jio.	3600	in	soa	a0.nic.jio. hostmaster.donuts.email. 1759367423 7200 900 1209600 3600
