@@ -1,4 +1,4 @@
-sener.	3600	in	soa	v0n0.nic.sener. hostmaster.donuts.email. 1757639615 7200 900 1209600 3600
+sener.	3600	in	soa	v0n0.nic.sener. hostmaster.donuts.email. 1759367437 7200 900 1209600 3600
 accionistas.sener.	3600	in	ns	dns1.cscdns.net.
 accionistas.sener.	3600	in	ns	dns2.cscdns.net.
 aero.sener.	3600	in	ns	archer.ns.cloudflare.com.
@@ -17,6 +17,8 @@ cloud.sener.	3600	in	ns	shane.ns.cloudflare.com.
 cloud.sener.	3600	in	ns	sonia.ns.cloudflare.com.
 corporate.sener.	3600	in	ns	archer.ns.cloudflare.com.
 corporate.sener.	3600	in	ns	nicole.ns.cloudflare.com.
+dcode.sener.	3600	in	ns	shane.ns.cloudflare.com.
+dcode.sener.	3600	in	ns	sonia.ns.cloudflare.com.
 def.sener.	3600	in	ns	ns1.sarenet.es.
 def.sener.	3600	in	ns	ns2.sarenet.es.
 diagnostics.sener.	3600	in	ns	ns1.sarenet.es.
@@ -27,13 +29,13 @@ energy.sener.	3600	in	ns	shane.ns.cloudflare.com.
 energy.sener.	3600	in	ns	sonia.ns.cloudflare.com.
 engineering-jobs.sener.	3600	in	ns	shane.ns.cloudflare.com.
 engineering-jobs.sener.	3600	in	ns	sonia.ns.cloudflare.com.
-extusw2.monitoringtest.sener.	3600	in	a	104.195.115.156
+extusw2.monitoringtest.sener.	3600	in	a	104.221.208.232
 fundacion.sener.	3600	in	ns	shane.ns.cloudflare.com.
 fundacion.sener.	3600	in	ns	sonia.ns.cloudflare.com.
 group.sener.	3600	in	ns	shane.ns.cloudflare.com.
 group.sener.	3600	in	ns	sonia.ns.cloudflare.com.
 hp58rnjuhfr4t4ehm2uudcjq2r4lt9og.sener.	3600	in	nsec3	1 1 0 73 HP58RNJUHFR4T4EHM2UUDCJQ2R4LT9OG NS SOA RRSIG DNSKEY NSEC3PARAM
-hp58rnjuhfr4t4ehm2uudcjq2r4lt9og.sener.	3600	in	rrsig	NSEC3 8 2 3600 20251003011843 20250912001843 61056 sener. 1V8WMcX8Twm8IVZDjydCVWtwNBDO0DnrMnYSkX5NNmKMMDHIhpxnj0yEDlj3VMPBF4DeNCYrMH4/2MP69F4tauMWLI2h59nConLJrnJqGxLTE3evF6oKbjbPeukeDaRR3QJhqgOuNvebCeHuvFHXbgIO/Y9MDDXGfIGGVUNtpZg=
+hp58rnjuhfr4t4ehm2uudcjq2r4lt9og.sener.	3600	in	rrsig	NSEC3 8 2 3600 20251023011331 20251002001331 61056 sener. GUesjFlrfn/USvWZgbaSE/5fkl/qbWPeG53uycXc0Ha9zubWcP6ejvc9XbH9cwp+sg4YYwlYM5FuRYNfsGgDyN9hwlBvmZDu1CUAApGGXZ4XR9CD+k6a3GHvA+Ay9yLZ3kFu0GkNlmBXX7ENlaxW0QNZdj0nlbOdg4Qfvo9ftM0=
 infrastructure.sener.	3600	in	ns	shane.ns.cloudflare.com.
 infrastructure.sener.	3600	in	ns	sonia.ns.cloudflare.com.
 inzynieriakosmiczna.sener.	3600	in	ns	ns1.sarenet.es.
@@ -81,10 +83,10 @@ sener.	3600	in	ns	v0n3.nic.sener.
 sener.	3600	in	ns	v2n0.nic.sener.
 sener.	3600	in	ns	v2n1.nic.sener.
 sener.	3600	in	nsec3param	1 0 0 73
-sener.	3600	in	rrsig	DNSKEY 8 1 3600 20250930161531 20250909151531 724 sener. Y3a70B9vrhuECD6Txln7tjdDQUnVes8+I03+MK/PBc5s1qOik0SHjvjOCg/uJVHgDqCi8Tm1GuTlxYuzUCSxJXWL+LWJZCSdq8lE/UcFthA5EX1cJZlXWkNl7fVVhklH4QKS2vndeRmL0RlFgXxV2ox5HDfHAUS/1vYbJpBqiHXUq67JHz9VySp+sIFbYTUzVRge9EVRBwOFylkglBKIGBsoxBZKYV+u16FuMljyyodzPoEjaIYeO+xQhAdT63h0t170wNDG4VjYAcyrO3LOm4ac+adlb8XXGgITkjXQo2d/QVR1pvrVtWQrspcwplxZf7/neeNM2kJeeFWjuFkkBA==
-sener.	3600	in	rrsig	NS 8 1 3600 20250930161531 20250909151531 61056 sener. r2165pO08Elj2BwFtmxOZfEGNrmLu9c1FOCaHVu/FbGZdKQfPjhRYgleem8WbDs53J1TY39tXN/YJYrx6mnShlcqMmUEZTSRorefFehxB0BmfcH7UZ0SnPalQ5kc7vUZF1I7akJngGw3E/K4wFyC3aeX1y0IES1X4qPoaGKDgfk=
-sener.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930161531 20250909151531 61056 sener. fp9XLaTELwfwZjUHtUhLH+YWPP/iLO3rdkmiNVc2448mB1gB+lTjADhjoLNF1PIBC23kY1DB9nGJuhAsik7G3v4LH9ta2nbdZ84mG30w2uCYRA8nSpyZ0+8uUkvBEueXShHSoKuFxSQOr3+Mr5WsocEG4jiG0l15YIEyJ7DEmF8=
-sener.	3600	in	rrsig	SOA 8 1 3600 20251003011843 20250912001843 61056 sener. WgE2U3RXnCpvgE0ICoQddTyzLQ2HnXxIgpg/wMvpTebIK12gMKdXz6+ZrPLW0QKuNa4cBHsAdkaIbKSsXYtkfB1gKFhJ+ACfPf56bNIeIVIJnhfCmohDp483FcDQ2NDcCUbASnkzXXyVNID6SRPG3w0QIDmjK05rF2/Kmv7ciks=
+sener.	3600	in	rrsig	DNSKEY 8 1 3600 20251022161921 20251001151921 724 sener. EaebB85wwjQSR9vR/HMID62wGvLaUObKbI5H6pPbUmNU+f5L3XO12iCE1FnuDHsvFitbOsG4onyaWfDj5o3OAXe5mTJZITC+2Ed3kjbeqixbNzlIJpanMuRWVTd6P0m7LL95ksya8DwtglQzaCrzSSK6nafw6Z+qKSyn7B7ANONLarR0GdUAiPh7ArisDSydEG5FNrEeE2hSaFOdqsfiFfi4tLZHOHsb3hdQkLZ4WTRehtIbIvsu6XSso7oNB++DemAB98mS/aRuWlP3CrgMUL+9HofSTF0Hqb2GZEhwJ57X9txolQFFTplKAadhEpPX91ibfZ9jw/Tj4ULHvLHqGw==
+sener.	3600	in	rrsig	NS 8 1 3600 20251022161921 20251001151921 61056 sener. 0xwBCyw0GU4dr6nvCby5BHxV0BedXbwpyAgLPw/TjLb4DOcSwFZ2NXpmD0Zc0svzykauISoP2Zd5DxrrrpC0CMLiu0KCMU0dzUqW4ghdCHuCQJ3TzMYJQKxknw7n8sz27DTqNDLePbyj4rnWNaHdYbH58QMpFQW4lh59iOrVTsQ=
+sener.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20251022161921 20251001151921 61056 sener. jt2qJdyLvQcSYB8LRpcadvcvgV1UP1xgn72Qa7IsyzojS3zrJQ1dcZIPai8c8UNNa/hOpLIaHdSuEvh3pLJltDbewrAditA3RATsewZtqtzsCD/RFfMqvarV6MD41Rs5SVQ7N9L4F7qeebGYbgW01D/oYD82OKY7GRqz6CkF8pQ=
+sener.	3600	in	rrsig	SOA 8 1 3600 20251023011331 20251002001331 61056 sener. adS9mixIdrFjbuFRovgCvtHY2vodzljyolrrTF/Cu7Nw5PuZ7CQteqMNXJqbWgjTjU7Smyhfw82Z/c2S4KO+FFNL4pJsZQE2eqeWx1JpX0Zt7xMKlubcgT4/PsaX7SMcNv4+BTHVvzS9D5QobPneP1QlfNkrgvgoQD1EXcYo918=
 sri.sener.	3600	in	ns	archer.ns.cloudflare.com.
 sri.sener.	3600	in	ns	nicole.ns.cloudflare.com.
 tactix.sener.	3600	in	ns	shane.ns.cloudflare.com.
@@ -103,4 +105,4 @@ v2n0.nic.sener.	3600	in	a	65.22.111.19
 v2n0.nic.sener.	3600	in	aaaa	2a01:8840:006d:0000:0000:0000:0000:0019
 v2n1.nic.sener.	3600	in	a	161.232.33.19
 v2n1.nic.sener.	3600	in	aaaa	2a01:8840:0109:0000:0000:0000:0000:0019
-sener.	3600	in	soa	v0n0.nic.sener. hostmaster.donuts.email. 1757639615 7200 900 1209600 3600
+sener.	3600	in	soa	v0n0.nic.sener. hostmaster.donuts.email. 1759367437 7200 900 1209600 3600
