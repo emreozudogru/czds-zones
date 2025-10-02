@@ -1,10 +1,10 @@
-mobile.	300	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639724 1800 900 604800 300
+mobile.	300	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1759367709 1800 900 604800 300
 bahkdc0olckljccfqu4fqvr4f9fqva11.mobile.	300	in	nsec3	1 1 0 - G6S54BIHL04Q1IKGK0SO9SMA1LK9U63U NS SOA RRSIG DNSKEY NSEC3PARAM
-bahkdc0olckljccfqu4fqvr4f9fqva11.mobile.	300	in	rrsig	NSEC3 13 2 300 20251011014453 20250911143018 30576 mobile. Om3wfa1jfS41qmbjSwUYShByprwKLMbAWAOWzmghq2ZU4lvc2oc4zbcP9hhiWTyoCLu6h8wOhmndZ+Bj+7v6fg==
+bahkdc0olckljccfqu4fqvr4f9fqva11.mobile.	300	in	rrsig	NSEC3 13 2 300 20251020232137 20250921070521 30576 mobile. wkvmzWfhWM4KAdBrQ1HrlySRotZsNugXCLVZD4iGjLyBR7IqK5jHwBdwEe1FYfardAoNHiMzNHs8y7uB9wiMow==
 boost.mobile.	900	in	ns	carioca.ns.cloudflare.com.
 boost.mobile.	900	in	ns	carl.ns.cloudflare.com.
 g6s54bihl04q1ikgk0so9sma1lk9u63u.mobile.	300	in	nsec3	1 1 0 - BAHKDC0OLCKLJCCFQU4FQVR4F9FQVA11 NS DS RRSIG
-g6s54bihl04q1ikgk0so9sma1lk9u63u.mobile.	300	in	rrsig	NSEC3 13 2 300 20251009150815 20250911143018 30576 mobile. At3q3t8aVqsQQcAj7IrOVpn+lmea4aoUisFILlkiQuFSe60WANb4XU0O8Mi0TpoI+BqGch+ZvtWJxbjbMNDEGQ==
+g6s54bihl04q1ikgk0so9sma1lk9u63u.mobile.	300	in	rrsig	NSEC3 13 2 300 20251019091301 20250921070521 30576 mobile. VEBdpuSVhuI1Bbuh+qCxB/XqAe2m52muNNY09iHf8RAMzRFzYCsTefsA+x0Yv3bXycUschp/ol8YQEwwQZBx1w==
 get.mobile.	900	in	ns	ns1.dns-parking.com.
 get.mobile.	900	in	ns	ns2.dns-parking.com.
 mobile.	0	in	nsec3param	1 0 0 -
@@ -18,9 +18,9 @@ mobile.	300	in	dnskey	256 3 13 /ECByxXElOQ1WYz547eOBQC8q+HA52gqU/6WllA3sRkCb8wt6
 mobile.	300	in	dnskey	257 3 13 yOju4vE2oSjFsLn1TQQ2sEPabVpapVvAX5Vo/lBvyWpRCPOs+gtRvS1RMNWFs5H7nbADBfAUXKk3Uq+yvoID5w==
 mobile.	300	in	rrsig	DNSKEY 13 1 300 20251010090919 20250911143018 30576 mobile. OGZIVOMjaTARIuyy58oaUyggat6EmOKL5RjbvEC/fldpFNVxB/2IR4Wklq8q/FxOS6XS8iz4EHC1wGYWbeyEQA==
 mobile.	300	in	rrsig	DNSKEY 13 1 300 20251011085858 20250911143018 14547 mobile. XW5Lf5GyGY5rS3I1HI8Y5s+rtlZql5+jdKJNPvSiZ+F1Y4TJg+NAz1Kot64y8kY1bdNkRFqvb1q+2kefD3Ex2g==
-mobile.	300	in	rrsig	SOA 13 1 300 20251010134845 20250912001524 30576 mobile. vy1Y6Q4fRBGzodRWVt1K0dgt9NmU53CP+HP7NNIdiHqociZGjWaCANHYMGKKa/4yzx3y3RuA/fbiLBHGcqOYmQ==
+mobile.	300	in	rrsig	SOA 13 1 300 20251030014946 20251002001509 30576 mobile. +UYIuxZIX79bztz+tcDlHbHzlihlIisKQY/+oIIaCQaB49fyaO5E6JhX1xUsbGnUJP821Y4+Z8rI4F9PPvIWxg==
 nic.mobile.	900	in	ds	25554 13 2 6562DA6670852DCA18CA14CFCA9CF1FA2CF363A33411F1E851C9AE1D8F08A8FF
 nic.mobile.	900	in	ns	ns03.trs-dns.com.
 nic.mobile.	900	in	ns	ns03.trs-dns.net.
-nic.mobile.	900	in	rrsig	DS 13 2 900 20251011064509 20250911143018 30576 mobile. qkIkIyYDH6nwIAmYlL9cXqC9av5FQbT8wTTC2XvK2fVW87jPND5Vrl4Ku9dSsALcYQSk7nrnoO+fLqxooCL2SA==
-mobile.	300	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639724 1800 900 604800 300
+nic.mobile.	900	in	rrsig	DS 13 2 900 20251020191650 20250921070521 30576 mobile. suUu14wZ6fpY5O0hoq677YlJyg5nHEZNJUYmiRMwOuWEc1tzjomu+YD8gCxhU3Phyq0O73+wJd2XwAVytxbtgg==
+mobile.	300	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1759367709 1800 900 604800 300
