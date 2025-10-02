@@ -1,4 +1,4 @@
-nra.	3600	in	soa	a0.nic.nra. hostmaster.donuts.email. 1757639603 7200 900 1209600 3600
+nra.	3600	in	soa	a0.nic.nra. hostmaster.donuts.email. 1759367426 7200 900 1209600 3600
 2015member.nra.	3600	in	ns	ns1.nameserver.net.au.
 2015member.nra.	3600	in	ns	ns2.nameserver.net.au.
 2015member.nra.	3600	in	ns	ns3.nameserver.net.au.
@@ -47,7 +47,7 @@ bracketchallenge.nra.	3600	in	ns	ns3.nameserver.net.au.
 c0.nic.nra.	3600	in	a	65.22.243.25
 c0.nic.nra.	3600	in	aaaa	2a01:8840:00ed:0000:0000:0000:0000:0025
 c8k6j9ghset331uhabvsp8c8ig46fl6l.nra.	3600	in	nsec3	1 1 0 73 T9M37GI3IKI6VJQVPLNUT92H6GK0GLM9 NS DS RRSIG
-c8k6j9ghset331uhabvsp8c8ig46fl6l.nra.	3600	in	rrsig	NSEC3 8 2 3600 20250930155706 20250909145706 24258 nra. DcBskRqIJvOeJWYhtOe3/MMVJeZlYI9LxyBXIzNCAKgIhkHmvrwMI6t0jVfmgirPAZ9ygyoQgNuutcfO3A6mxPUiGjwuo5ByHtsNCVqteqp40tB+YWMmdxuVD7a6zXyTuDXAuAu6uRuvmn2jxsBZ9YjmKDTCtQsjZxpi6qAvDyw=
+c8k6j9ghset331uhabvsp8c8ig46fl6l.nra.	3600	in	rrsig	NSEC3 8 2 3600 20251022155539 20251001145539 12030 nra. nQ6q8v7vfrkjQj7gzwKUZLSX/pbwJe+b6srFfBgikOsK39XBlA0TfjoO1nc0DJuvr5nPBDmvRfzlek5yDMu0Ke9RkR65WU+GJCZhO8y8Z2s1W6Dvl1zxl5g3pvU0fsrmGzLuUBrAIMcTOiPXA9j/ckP608oWgZWwhIcuJ4xp/zY=
 calendar.nra.	3600	in	ns	ns1.nameserver.net.au.
 calendar.nra.	3600	in	ns	ns2.nameserver.net.au.
 calendar.nra.	3600	in	ns	ns3.nameserver.net.au.
@@ -264,7 +264,7 @@ nic.nra.	3600	in	ns	a0.nic.nra.
 nic.nra.	3600	in	ns	a2.nic.nra.
 nic.nra.	3600	in	ns	b0.nic.nra.
 nic.nra.	3600	in	ns	c0.nic.nra.
-nic.nra.	3600	in	rrsig	DS 8 2 3600 20250930155706 20250909145706 24258 nra. EEGymFq6+u5TpgH9VR+4dHlt5TcOh5xFzvNo5I0cy3NKMH/Kq8K2jXmkUOApFXPxWYw05eoOoOtQAJDDp34E+HNumZ14aXltmAkhDg+7n6jWfjM2Wh08REApmT2FtaPyTflPNnFl3+5oB6g4rj2c0iYdhC806y3IN93X8I/iUoA=
+nic.nra.	3600	in	rrsig	DS 8 2 3600 20251022155539 20251001145539 12030 nra. Y1DZh+LIpGoiQW4iHAb95YQBU6xueYjJPskrQ6hZFRD8VCp1NDKSHzXHxXA6a0M7aLjmoOpQse4iS6k1/zc7qy92YDYuseBlj7xSwoMFZaAEc9JjBUyGuWCJfPxQ69WXdnFKpSKFaT041jqJTciOpICTsyWZYm+KAMnrJTIzeX8=
 nra.	3600	in	dnskey	256 3 8 AwEAAa84XH6cI4hSrZon4SYp5UyUIOhJoZ5ENxhAMpsy2dHFSz1T0dRDCLgvDKrhxMl9CKoxOq67q4OQEvn3VQm1Ji+vEAz4lqupFxO67jN3cTxdqaJ9YOEawHji5uGzOIcsCfBo9cmH5dO4P3C2AkJJM9Tqtqb14CMY1prMc+HOeeZJ
 nra.	3600	in	dnskey	256 3 8 AwEAAds2IgUabuN5DkE/w6yOA9OGiiH4pF2Byg8mEaCMw0aFMPvtZdaI6CMl5/90ffTE/F2qxat8CH1qfMlGBKAVdEwOjDM35ik6R/WxVpzL8IT7A2W8J5mW/cZCql79xyFWz+AHFu4PGn3pODCNCjRujRbBn5Me+WBNWXcRU0e27/Tv
 nra.	3600	in	dnskey	257 3 8 AwEAAcbL/dFnzNzF3XqdIHDyV1DvVnS+F3KNzoxqZji2EEGCWDYadz2Vj4sxloXdXhqYX8V1bmA38Z1AlEjEVRgVszFTxGheWS7CK7TuPKMis9DII+4uLlu7kd2/47rxzJ8BNR7BlbHH1HRlEhcVjda1UVBRLwhZLS4CYC6QAIxfqpCcK6qtrgkA3sOoq5Z4xTl7bnMyS/N6wyh7mI1+jbeUAq/0IwJQKjvOl6+o4VVRvz9n7xpvU/crEBcqjK1sdD+j47e2m8iGNu00V4mdDMuxQlfcuV5OQkzCjeRGBT32VSMfYkou3L/Tcpr6GSjKdwEDadjV8hR78Ppr66akm8n6OH0=
@@ -273,10 +273,10 @@ nra.	3600	in	ns	a2.nic.nra.
 nra.	3600	in	ns	b0.nic.nra.
 nra.	3600	in	ns	c0.nic.nra.
 nra.	3600	in	nsec3param	1 0 0 73
-nra.	3600	in	rrsig	DNSKEY 8 1 3600 20250930155706 20250909145706 44089 nra. Eqwpw6YT32rtKCGZ0P55Zz2HFZ8FoYICJ9S4WMNNb3Fmm/o40+ObkLDZSlaBIjTl7jAbtarKADd8xLJBHLQe9ECTvit4crgOhkkR3YoLCYjLbS+dsbJRyXSFRjZM/3uZLGa962hT5s1CfMOpaTDOvl+pr4s/Kc3ffM673Kl953GqEdqQSj2Jt53wc3jF8LBGdbFun3tU385QDh4lO9jfI4H4gHqLIVgT7tymtiPC3rTrWmnnluHfOJZq2OnYFZ2wlWKEPKpOD9wSXo9K9ADV4s8kkiewzo9NCN9lXUIyzNTHOnmApX3Y9yCRxY9r3dyGSm7WL8jioZ6lazje/rPk1w==
-nra.	3600	in	rrsig	NS 8 1 3600 20250930155706 20250909145706 24258 nra. YyArlZ6u81tEIzLSq/HKwSTeekTwBAnzuYPliu99s99V1CdY1uo79NXiN/YjHKnzXwSK0Jn1tFsbDUIoqZ8YlyDoxKOVl2OTi0M/sBOLMyOoopIimZbbMCxrC9ZDTib/0hZlgxy1OFeA6L7vMWSKTJaldB61yGOXnZJi8LaR19I=
-nra.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930155706 20250909145706 24258 nra. Z48lHlbPgWtftTk9QpVEZHzqPQeb2XzU8ll8lRjPMV4YgCGCFXJUSmf+sKWfwBbmYDMZ1UNop80DTwoPAJuiZfoU4WvO9SiwQJC08gLLvcZ2n+RXdI0W5hrbZVHJ0EbcoaSIcRcSK2QigBDsAbdr94kVecWaMkluEoILJaSGiq0=
-nra.	3600	in	rrsig	SOA 8 1 3600 20251003011623 20250912001623 24258 nra. YO493MsFVkr4qt0VtnaJj0tRd/kWkxyQZEbQsr4d/pA5zbsgnwctOCdwJA3Io0SElFuMb7TXKkpKZJMwjk2Dse8ejtrpQolE+ORNwkVw/X1afgUHP+MHXpS5E595sJE6/TG99TZo58hIY85ASWLIZZHuuXIaKusWxYHFFQIqSe4=
+nra.	3600	in	rrsig	DNSKEY 8 1 3600 20251022155539 20251001145539 44089 nra. VSvqK/EMOe579wRzzv2N7LF8JwOE8otWKqMHBWKROWaCkBJPG87cjkUX0LiHOLyUfih+Q8vjwMNqXrH5f5ZgDfmA87UbeqhiEyFZAZr+lu5Y87E1i5FgfjtWOIM7zMQ29Y+d/xFu/ceSAxPhh3OtNId/3w/oHWJ5Og2QH9NsY6qtITiUfjVnqlsc6WoDzzRVtIis6SvlZuJJ6Hc/ah/1jZcTkL8su7P4WIgxEyH8iZ5i3rH2ehPLpmSCaJGMn5AN+VXucNUowcQkuLJ9XvIuqAwSO4E1L5gOkC5+D8Lh9Qf8VhBkftEVpss98RKFam+v4VgKuypsgbQCXax4A6KWBQ==
+nra.	3600	in	rrsig	NS 8 1 3600 20251022155539 20251001145539 12030 nra. hY90CbxTYlNXiwNxswB8jHz2e8/n/ZxTPcY2o/WgAtYQxnL0S1aZtVUB2XlsRAIYvb9qqDSw0zJjpSOmQbDfpBH8M046/9z9JmCgCXpC0NYtRwuyxthLu1IysH7CQtWb6x45jbIx8iJeHnXbrb3U9WneIU1FMoRahht0f8fiqI4=
+nra.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20251022155539 20251001145539 12030 nra. sa+23w5K3pJyseYf5PC0cBGp/waVE7weVAT1wxH7aGCeRWIve0/4DRLrzUpmnOq/sXJzqfR4YRVn1K5CzvJVgthyMDlZ7E87uIUyKhz+T9soYKPSFwHgYToF7jgFJtMnzArASHta9xjkO8sZEnsNlSFjwkTh0eKPzl46Kj5bebI=
+nra.	3600	in	rrsig	SOA 8 1 3600 20251023011327 20251002001327 12030 nra. aLMmTaF7hhDtzgKieaEr2mGr1Q43Ky+M2TSlthJb/0JhiGiZW2HBF0xPAe3JGJGmbCbIAd1WI+uS+7cMiI9941vSRHY9zzojHW3R0l+AiIGch8jU6OwS39tgnFsbboyTr4eQTN/6o/ALiIpAOkumj+dAT9iED5CraGVItctLeT8=
 passwordreset.nra.	3600	in	ns	ns-1241.awsdns-27.org.
 passwordreset.nra.	3600	in	ns	ns-1555.awsdns-02.co.uk.
 passwordreset.nra.	3600	in	ns	ns-475.awsdns-59.com.
@@ -373,7 +373,7 @@ sweepstakes.nra.	3600	in	ns	ns1.nameserver.net.au.
 sweepstakes.nra.	3600	in	ns	ns2.nameserver.net.au.
 sweepstakes.nra.	3600	in	ns	ns3.nameserver.net.au.
 t9m37gi3iki6vjqvplnut92h6gk0glm9.nra.	3600	in	nsec3	1 1 0 73 C8K6J9GHSET331UHABVSP8C8IG46FL6L NS SOA RRSIG DNSKEY NSEC3PARAM
-t9m37gi3iki6vjqvplnut92h6gk0glm9.nra.	3600	in	rrsig	NSEC3 8 2 3600 20251003011623 20250912001623 24258 nra. L2dMws77DLjfv3shgn3ILAYbXXWECCTL+S5fcGngjBC0BrSjvrtEKezHiVEP8Cy3kmFYKWP50WUCzAXmWtuL5y49bhLFUlxJkLfgHD9zHZ961sVG7F3pnE1GqhlXRovojAHi/pLa+eozVeRzPgiNxuTQVgbrXbuvxmQOc5/PXj0=
+t9m37gi3iki6vjqvplnut92h6gk0glm9.nra.	3600	in	rrsig	NSEC3 8 2 3600 20251023011327 20251002001327 12030 nra. zTIBOIqLcuwA3Kr6fvyuYrQlhllYwxDzEW2b7Xo5B7QNYwKQzeGQa58EJhiXgQzi6C46fKhUIkwKQ3Xkq3+IoZ0CeUzCHjCQkXNCPaQHMFp3BBYv83NudISnxkuaxHJRaeNgbxsJexEin7tyeStdDSoJTVZWBvS+cFukQUkRlxk=
 tagpoll.nra.	3600	in	ns	ns1.nameserver.net.au.
 tagpoll.nra.	3600	in	ns	ns2.nameserver.net.au.
 tagpoll.nra.	3600	in	ns	ns3.nameserver.net.au.
@@ -416,4 +416,4 @@ winguns.nra.	3600	in	ns	ns3.nameserver.net.au.
 yourfreedom.nra.	3600	in	ns	ns1.nameserver.net.au.
 yourfreedom.nra.	3600	in	ns	ns2.nameserver.net.au.
 yourfreedom.nra.	3600	in	ns	ns3.nameserver.net.au.
-nra.	3600	in	soa	a0.nic.nra. hostmaster.donuts.email. 1757639603 7200 900 1209600 3600
+nra.	3600	in	soa	a0.nic.nra. hostmaster.donuts.email. 1759367426 7200 900 1209600 3600
