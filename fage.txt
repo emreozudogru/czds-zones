@@ -1,6 +1,6 @@
-fage.	3600	in	soa	a0.nic.fage. hostmaster.donuts.email. 1757638962 7200 900 1209600 3600
+fage.	3600	in	soa	a0.nic.fage. hostmaster.donuts.email. 1759366786 7200 900 1209600 3600
 9krljut7gdrgfnunmd6k5s42faecu3pk.fage.	3600	in	nsec3	1 1 0 73 CSDUETV5PT9HN5M1G36VHMV5FFD5VCB0 NS SOA RRSIG DNSKEY NSEC3PARAM
-9krljut7gdrgfnunmd6k5s42faecu3pk.fage.	3600	in	rrsig	NSEC3 8 2 3600 20251003010528 20250912000528 51681 fage. z9jPpSizH3Wr4Q0fp6guDQbl0JIG/cKN6P7K2LJbowHWBdfeKhCx/f1ew4qOFyzwDtSIIT56gBQ3iSzDBDVyC9aHwN9ozaC0uLlr2zz0cF8vQWqQsozS5KtZWWSNOrIaFVKOjdaNcL1qGZKwWCa5/LFdwYKzeI0H6YgVArVXQIU=
+9krljut7gdrgfnunmd6k5s42faecu3pk.fage.	3600	in	rrsig	NSEC3 8 2 3600 20251023010508 20251002000508 44679 fage. qQS6PKvHYo225xIzi6SzIQJmrokn9PT2VxfNDhDzEFKWEwPH2T6MugsnGVsG72E73oM74wsmD0fd8JsLCBpSAwQ9dyZy6+joBy21eU6KTmApwMHYQ/BKYBWfeHMyeK1672yJX7TtdXxJCG4eYJx9yf1jp5IWuDd2hFJmsBerUMQ=
 a0.nic.fage.	3600	in	a	65.22.156.33
 a0.nic.fage.	3600	in	aaaa	2a01:8840:009a:0000:0000:0000:0000:0033
 a2.nic.fage.	3600	in	a	65.22.159.33
@@ -22,7 +22,7 @@ crossover.fage.	3600	in	ns	dns2.cscdns.net.
 crossovers.fage.	3600	in	ns	dns1.cscdns.net.
 crossovers.fage.	3600	in	ns	dns2.cscdns.net.
 csduetv5pt9hn5m1g36vhmv5ffd5vcb0.fage.	3600	in	nsec3	1 1 0 73 9KRLJUT7GDRGFNUNMD6K5S42FAECU3PK NS DS RRSIG
-csduetv5pt9hn5m1g36vhmv5ffd5vcb0.fage.	3600	in	rrsig	NSEC3 8 2 3600 20250930161531 20250909151531 51681 fage. TAFtF73AAD4zgO2LOkAwz5FvIorfthnvHmrTogU5jRu+gAIz28rGe7pqjUJnG+SxfUhHsJ0F4nm2p/3O15YPcb/Qlb6rpwrExdV32QPQQZj1s0YFh7iG7LZL8Utpn6zwdvxyjJzOBEv+6FrDDHBWvyRLjkGabqF0GvGP5Ej13AM=
+csduetv5pt9hn5m1g36vhmv5ffd5vcb0.fage.	3600	in	rrsig	NSEC3 8 2 3600 20251022161921 20251001151921 44679 fage. hXzmwLIKXLsgvXioB/jjjjX++2Pu6UxNwTUzIiVq8AGnyoOIc+UW6Pro7YZAFQSniKSoEV51Ln/ekjYwOKZHIYwgaKXpGu1yCizDEl2IBe+vBgfvjfv41b9wX7yzZf7g5g2h/yfJcngyJr8WEjZ/FttzREUzZFBG1/f0PadtrIY=
 de.fage.	3600	in	ns	dns1.cscdns.net.
 de.fage.	3600	in	ns	dns2.cscdns.net.
 deutschland.fage.	3600	in	ns	dns1.cscdns.net.
@@ -39,10 +39,10 @@ fage.	3600	in	ns	a2.nic.fage.
 fage.	3600	in	ns	b0.nic.fage.
 fage.	3600	in	ns	c0.nic.fage.
 fage.	3600	in	nsec3param	1 0 0 73
-fage.	3600	in	rrsig	DNSKEY 8 1 3600 20250930161531 20250909151531 17296 fage. fdbcTbfA4q63m6Ml7Jh0f1KVunh7OXghwL9JS/2kc00bYIVgrIjUpVao3i3D/zhyIgnXSxJj0+V2QKKevqjKk6+TDEWKEvJNFVOK9Y17tvJDnHhBHfK6UrknqZVkp8Iotfj+svQMRhmfeXkh3zvrau1PmPF2rUULKNqam1j/M7xE5AHAgaBZcD9O2PqCaV7vhHPf4h4bz0KtPLb+8u3WdRekQwcHHxKr4JMhQMZpKLHyhkYTGy3+ZdVkpFe+TUizdEdlTbTQQLVa/7xVqIOTrL9CjQuMJgEOIgdw3ulM9mhiAQuxOPsvAFIRODaI9qbYfQOUtt3F95Sco3qzOzY9WA==
-fage.	3600	in	rrsig	NS 8 1 3600 20250930161531 20250909151531 51681 fage. Ye9e73MnZTckvznFNz3pPXKLMTfHkO3wPG57ruiPQOrILvFb6eJ8retcZoEWZk58rOYlnvdShtHRqokUJL2gr7n5fphwnoTsVwCGC5QNKnAHfgrJE6QQ+yugek9gcaZ0YcJwREUI3OO1u4WoDi+j3/3G2FUCKJFVsh4AA6GsmdE=
-fage.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930161531 20250909151531 51681 fage. Km5ROsq9ZU0ibg6MIzQQfWB1AXHjRKF50tkBMmAPzcwiRVhWJ16qCDBJamRllGJjMa+s6x6Dqjc+0xEXtbKtl5Tld93hJSJ9X2Nexd7ynLBuKmahB+SbviboKTwd4ltYmzq3PvNMD6any9FQXrhdi+UfOhVlVe6VfGqjk4TyR0k=
-fage.	3600	in	rrsig	SOA 8 1 3600 20251003010528 20250912000528 51681 fage. 2WFHudLwxjEIElFY8vggHKthfKsasSTErviqz61gdLjXFQtqZHragYKLlW5xMGFQ4PvlBk4NQNLSIyqKg7XiE8qQtM1je6PnHWAR0ZeKPb6BfW3vjgHsj+SqnSZ+qRDenkS7o3uLRCwoLbV9QTb0ul2xHeZ1SRagoBswQgvSyJA=
+fage.	3600	in	rrsig	DNSKEY 8 1 3600 20251022161921 20251001151921 17296 fage. Dh0uFKz1KLvH6G7dy6DIU70S3ZFLEIcFWxgMB2pgtzcrZv0VbXtwj2NpnsEjZDY2EF5Ugm/aCxAZfcEYV7fUNDl4A88o4YXebU8B2j7VNIHyaGTO5wFpkqIDhzqtf1LpcGPwbUlFnJW7ArGaW9AorVHLofvJTZJId7zOH3lCBgV0kP+4j6s3GcpDorNeJ687XRn8SqHts0VeRyma93lL9502nNpboUnzxKbwkYMuLKGMmm644xV2jVclWgVztlsuytL7H9NVx68Vfk5Jv2fRe8/gtMuWtqc0pFjRd9wnMIZ2PnSTKHt2K9jxW6UhBmuCmJ4Fh+lecb3MizA5HnJhHA==
+fage.	3600	in	rrsig	NS 8 1 3600 20251022161921 20251001151921 44679 fage. RtNMj4Q0bHyDoeSCGHIWqm5be4CIdmnkvUrMhVw1QC6HJFHnUnt10J7fGtQyz4s1KZ29kIRIzMZjknQchXsBMrSIT7ICn1duhYVwCdkl3lBfpQw48t2vhEGUpDmZ9OGoyQ6TyQHrXey9n+X3CzWb4ZlICL5Rpsk2+4ZXnwpCWzA=
+fage.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20251022161921 20251001151921 44679 fage. Ipy5d1/LDcn/TRoLlLwavqTAQouHSsN7AYnM89QTNShEgS5hJ5O9TJOjTNNuLo3CyHZ45/8i+wRo9dVSxMYSuxBxYlOZEU5lwT1LN9hdPK1DPTh0sdkE+Tx4n+Y0IszpTZoinPUOWYMHVycLE5iLX9lFF2iiENeqLrnuuozHZM8=
+fage.	3600	in	rrsig	SOA 8 1 3600 20251023010508 20251002000508 44679 fage. dNOQOOF5gjbjCd1+jDoj1vije8wr5VH471mb2uQgndhrUwl185/fpJpB/E0KCb3dkG/AAt+yeU5rJcsQkWNCjkDeW6iIqJ24nk5v1ujlqkm20ubWnCbf4Lf1MELmVf3gYizxYFpeBQXcuQ6lLjlLMEHj2pVWQRPXmQ2cjt4IwZQ=
 flair.fage.	3600	in	ns	dns1.cscdns.net.
 flair.fage.	3600	in	ns	dns2.cscdns.net.
 fr.fage.	3600	in	ns	dns1.cscdns.net.
@@ -88,7 +88,7 @@ nic.fage.	3600	in	ns	a0.nic.fage.
 nic.fage.	3600	in	ns	a2.nic.fage.
 nic.fage.	3600	in	ns	b0.nic.fage.
 nic.fage.	3600	in	ns	c0.nic.fage.
-nic.fage.	3600	in	rrsig	DS 8 2 3600 20250930161531 20250909151531 51681 fage. P62ySGVEjGWbvAy1acbcTU9Brdt3v/etjZH9O+AjZYMTR5pLhP8pDec1D1Zy2TCXgnc19ITj0DTUezVvU7tWKEJOc3EUkcrqNLDUU3ZtxsgP7ASapn+B/VtBFrloly1pfgu++MF7vSad9jcIBArVuF/UhNu5sw8HgFTlgDm7HrA=
+nic.fage.	3600	in	rrsig	DS 8 2 3600 20251022161921 20251001151921 44679 fage. oxYMkupW4aXCCGN4nJmRh8Ym8+KKRXBE8zeaMTYtBxTIlGB/BHRvrvQtRz4G8RQA4WIdhfS0V0WPOpsAutzQ4kI/zCLjJjF+kTW1CWmScAEAYJjsXjUgtgz0QfrJyK9sFRfQemjFMkR6uo7G07bwPrWOY5DEbhM2DpOgXF01Ij0=
 nl.fage.	3600	in	ns	dns1.cscdns.net.
 nl.fage.	3600	in	ns	dns2.cscdns.net.
 receta.fage.	3600	in	ns	dns1.cscdns.net.
@@ -149,4 +149,4 @@ yogurt.fage.	3600	in	ns	dns1.cscdns.net.
 yogurt.fage.	3600	in	ns	dns2.cscdns.net.
 yogurts.fage.	3600	in	ns	dns1.cscdns.net.
 yogurts.fage.	3600	in	ns	dns2.cscdns.net.
-fage.	3600	in	soa	a0.nic.fage. hostmaster.donuts.email. 1757638962 7200 900 1209600 3600
+fage.	3600	in	soa	a0.nic.fage. hostmaster.donuts.email. 1759366786 7200 900 1209600 3600
