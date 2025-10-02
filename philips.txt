@@ -1,8 +1,8 @@
-philips.	900	in	soa	a.nic.philips. admin.tldns.godaddy. 1757587609 1800 300 604800 1800
+philips.	900	in	soa	a.nic.philips. admin.tldns.godaddy. 1759351047 1800 300 604800 1800
 9486v851dgm973evvbv8rg4nnftc7n0k.philips.	900	in	nsec3	1 1 0 - EH7A8BKG2H2CIF8UFFAO9MJ5HS35HQTM TXT RRSIG
-9486v851dgm973evvbv8rg4nnftc7n0k.philips.	900	in	rrsig	NSEC3 8 2 900 20250925141314 20250911131530 41484 philips. hZAtOM77dixioV/yKIJLDRaURkr08qQxttXhwrhArvd1/rcs+FLhNfEPYwXGOyTqEH8ruz54yXxkZOOzZbqXemNzV+3RPPNNtdpad+0cON2r8tph1a0cxOarn4piDVf2PN/wiqHbcFyMc8K3wFMSXarMf+X3ClUccsTl1fDaZh7ZQS6e924y0rFQtMkzVR+Do+a4+Q/YgJJYAxQ+8eOCgg==
-_forcedupdate.philips.	300	in	rrsig	TXT 8 2 300 20250924163651 20250911094649 41484 philips. c8dvP9IIkwjdOiQbk58Jj/+pfGWvgh3lr1FUXb4Jd32fp4THFLM0sLHnBgLE98rEMpOYeVU67LSpC5S5+3NvrQX5pWudlgS9jI3l9lwC1eJXH8b0SYlH+ti1WsTqIyDARbA/NKblJjU0uXudyMWY+/A3DkiBvUJmC2pS7a9s+6TFqCeCwW70JXpxJ9iFtCmug3pXtn7xbDKy27og6+g83Q==
-_forcedupdate.philips.	300	in	txt	"1757587608"
+9486v851dgm973evvbv8rg4nnftc7n0k.philips.	900	in	rrsig	NSEC3 8 2 900 20251013121652 20250929113935 41484 philips. WoJ6+awTjU4Pq42+PO3loizvyeMEeW+qCVklBzT9/MEM9mz7REdL3hJF8SwGCNak/rPd+EiXj8lwnI3HKNTru83PH3mwarjmW2oaE3PrFKUeXJsIHveztk6MfTp+HCDmVUjCS3Yr4EyPNBb2Y7wO8LfYy62WwRza9CPyYjqJ6vXQ0tI7jmG6D4VkjS9YqJzXnkHki8UhNJL1zg5fryqq1w==
+_forcedupdate.philips.	300	in	rrsig	TXT 8 2 300 20251013130108 20251001193727 41484 philips. PZIKdDEqwWT0EEvg1wra88afeqdEq2jTn4p6k0zaaay8jERKgCWICbmRPXcaoEnZ5J3v7/hAUbdGEFnI4UQJ8CAv5uUgc56nABIH5WGSyBp2GtnPMsOmIqfp5N86rTcsnVPOt0GzEjZM9+5HrHfgSNvkddKpda9iC+NHBAhiA7E056TH5Xu7JLd8QukrISsveN+LU+3Lt7XVWldKhJSmNA==
+_forcedupdate.philips.	300	in	txt	"1759351047"
 a.nic.philips.	172800	in	a	37.209.192.9
 a.nic.philips.	172800	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 about.philips.	3600	in	ns	ns1.ext.philips.com.
@@ -17,6 +17,8 @@ airfryer.philips.	3600	in	ns	ns3.ext.philips.com.
 airpurifier.philips.	3600	in	ns	ns1.ext.philips.com.
 airpurifier.philips.	3600	in	ns	ns2.ext.philips.com.
 airpurifier.philips.	3600	in	ns	ns3.ext.philips.com.
+akoustikovarikoia.philips.	3600	in	ns	ns1.siteground.net.
+akoustikovarikoia.philips.	3600	in	ns	ns2.siteground.net.
 ambilight.philips.	3600	in	ns	ns1.ext.philips.com.
 ambilight.philips.	3600	in	ns	ns2.ext.philips.com.
 ambilight.philips.	3600	in	ns	ns3.ext.philips.com.
@@ -62,8 +64,10 @@ dictation.philips.	3600	in	ns	ns1.anw.at.
 dictation.philips.	3600	in	ns	ns1.widder.at.
 dictation.philips.	3600	in	ns	ns2.anw.at.
 dictation.philips.	3600	in	ns	ns3.widder.at.
+dzirdesaparati.philips.	3600	in	ns	ns1.siteground.net.
+dzirdesaparati.philips.	3600	in	ns	ns2.siteground.net.
 eh7a8bkg2h2cif8uffao9mj5hs35hqtm.philips.	900	in	nsec3	1 1 0 - SN1U3G6KDEI0HG9326AHKQOHB01PEIR1 NS DS RRSIG
-eh7a8bkg2h2cif8uffao9mj5hs35hqtm.philips.	900	in	rrsig	NSEC3 8 2 900 20250925141314 20250911131530 41484 philips. oPVI1qRZVSGeH2VsfwHzXy/NfVBKjjsK8w3DOraZp4xgF+YssR+aWNhEc7vSa9E+qSlWPdMEhTJGSxNSgGpP1IANr+KvJLiPVMehGPiLavjchtmt4dClXzz+9QiRmgOmp/UkYZYxSphZlaGTxxZhXvJwn9BIGTP9rMz61YLMi0QMk3eLIVt09s3vDf5uNig6ehCC2+aQsRiQGy/L9Fh6qw==
+eh7a8bkg2h2cif8uffao9mj5hs35hqtm.philips.	900	in	rrsig	NSEC3 8 2 900 20251013121652 20250929113935 41484 philips. C1PPnKR6msV/sRe4uhqn90W7nOM3O23d63tfHgwfRAAFrrlIIoDwBstWCSavKQOpbVJkKqf+ENgTkliRKG38grKdtzmtrcjvl4vw7EEr9lAkaLL7TvU0BKmP/LI0xBpLuNPbHHMLnx/NDbJaSwr+YDn650uDN4JlUOIN699Gn1AahiJbUfph2HqtbApSnfiDgYoRo+A0ENwIqDz6WVPFtQ==
 evnia.philips.	3600	in	ns	dns.intergroup.net.
 evnia.philips.	3600	in	ns	dns2.intergroup.net.
 fidelio.philips.	3600	in	ns	ns1.ext.philips.com.
@@ -101,6 +105,8 @@ ip.philips.	3600	in	ns	ns3.ext.philips.com.
 kitchen.philips.	3600	in	ns	ns1.ext.philips.com.
 kitchen.philips.	3600	in	ns	ns2.ext.philips.com.
 kitchen.philips.	3600	in	ns	ns3.ext.philips.com.
+klaussosaparatai.philips.	3600	in	ns	ns1.siteground.net.
+klaussosaparatai.philips.	3600	in	ns	ns2.siteground.net.
 koninklijke.philips.	3600	in	ns	ns1.ext.philips.com.
 koninklijke.philips.	3600	in	ns	ns2.ext.philips.com.
 koninklijke.philips.	3600	in	ns	ns3.ext.philips.com.
@@ -123,27 +129,27 @@ nic.philips.	172800	in	ns	x.nic.philips.
 nic.philips.	172800	in	ns	y.nic.philips.
 nic.philips.	172800	in	ns	z.nic.philips.
 nic.philips.	3600	in	ds	58240 8 2 04AAC4FD06418887C35008188E8BBFE8C08926BA9E15D069A3B82726FF7112D8
-nic.philips.	3600	in	rrsig	DS 8 2 3600 20250922092737 20250908091838 41484 philips. WTXuiI2fih39gDwPcwywGY6dvdTWXhsQdF6/qHpwWZtTr10kY4FJjfupVs82ER8f/HHhPntBUh6Qc083vu8W8rpuQaYX3UQ5FI2Hz7zS4T3WRPtECdHwYHhcjh+Qe/g0Ef3kDtm2dieaDevAnaczMqr4L+zGFf8evd1LINt9NzPxI53YbnZ6b7Dbc3NdPYnXLZctXJuWSV1liZQDSqRRew==
+nic.philips.	3600	in	rrsig	DS 8 2 3600 20251010082859 20250926073340 41484 philips. go8UvddOiboYDB1t/rWAVie2nCpIVYk6Q8iphBlPXj3IXxUMy8aQ2AidZiZUNtrlVSxs6jgtjG7o5J5ni6fcFlAVzH8ygQBXKDBV1JVAnaXyGSBHoqO/6UuHE+R8GgkAApELTKE2yS9cNh+T1Ai7q+ijWAh1/PfG9SpgDM1ZGziW4yyTJg2mbYSpGkfU8R+vMRgkCQSyD/+vYWPYB2udww==
 oneblade.philips.	3600	in	ns	ns1.ext.philips.com.
 oneblade.philips.	3600	in	ns	ns2.ext.philips.com.
 oneblade.philips.	3600	in	ns	ns3.ext.philips.com.
 philips.	0	in	nsec3param	1 0 0 -
-philips.	0	in	rrsig	NSEC3PARAM 8 1 0 20250925141314 20250911131530 41484 philips. CCNLhf1VOo3f9cRZY39eS5ehK5vouERgwd6rXZMgUlC0vuDC/Nn/Nwl04GkKwbxDGH57N/BI8xOlcN+jxuhXUHGBKUnEoeSS74u0rTuw1s8Tr5z2GMgUTLEvSxmmJXYYQdh6ktJJFDSlYt7C0wKhXbIit+2necP6j94QGTwmFerpkAAZ++PYWAK88wLcEgKfkc7gBpkFnDrVhMjD2lM27Q==
+philips.	0	in	rrsig	NSEC3PARAM 8 1 0 20251013121652 20250929113935 41484 philips. Ys2IU4bCWnvGHbnMvW+JnQdgVGVuf7Yrw0nbYOJzahdWomTkc0QL3ujWHIex754768xshNJKGRzHj3ZsS3iUj0fdg+4C30DtfvvabGQIVMS5Uc3lYK32c9E18qFw591MyGe4P2H20jPM1ORLIWAS76anCfnfAnbGGV7pFBfMoziAj6UE89AvhkS7qfzB/7EPmXCOQk0wGPguFBt3agZxEQ==
 philips.	172800	in	ns	a.nic.philips.
 philips.	172800	in	ns	b.nic.philips.
 philips.	172800	in	ns	c.nic.philips.
 philips.	172800	in	ns	x.nic.philips.
 philips.	172800	in	ns	y.nic.philips.
 philips.	172800	in	ns	z.nic.philips.
-philips.	172800	in	rrsig	NS 8 1 172800 20250922092737 20250908091838 41484 philips. GaqrZS6TwcvMgvnyPkU+dUb8KIOyAT+4YQBxviGtx7Ml6vXWKdcfCt7PIM4Mf47cLd3tqcbBliGWwHgy2XpbJCGuq8UJKLpA2pe4h0jTAAhcGOxQW4GUnNuArV5CoPO7WWyA1IY66sdN9G9xihSB5ll5OYFdrHT5Byei80jtcWznwLchO2KIOsnlstcMTq8NBvtCFUFYzLbKMTcbYKIlmw==
+philips.	172800	in	rrsig	NS 8 1 172800 20251010082859 20250926073340 41484 philips. FuEI76Lg4D+DCJNH/otRzTDWpEGTesMAXDZcbj4pwyKyrF3+W3RWzZPETz0Slwc4Fq/bKua1ozQAGl3GNZ/tb9zjTHgk8HpILJ3s5EiSIMun6jfP1xVLQzc2JtdjP/FNjes0WJLBcb/5tiKP3NS33AcDTzJvQN9fe11A2F0HXgN0pYqNd7jLapGYtu6FBV0dlFBaLPbr2AxmIx+1hwsUmg==
 philips.	3600	in	cdnskey	257 3 8 AwEAAbxAy3GjG3wOhMTB83rFMZ2F0jDoHeF0cmqtOrrRafqq30pv0Dwri+mRSuKzf2NcDBmVXUVVWo6emISBVgezj7i3XK7bYBLb14OBCooL9awXEKTM1W29n4JbAxRmOe6cPjYGqKZ3kFZKAjoxXAuTWFETCmU8VXiX04qS9EYgdZI0aK1YvPhzIi8GfFzaIB52njcuoYZ6Yzr2WyUc+SwonXiDPuMYl6oL/WB6dobp2H/nBb6feKrEje1+vHkJkXMD6AphOa8liPuxXWXPu0T2zR4CZkoqrZABXgYrJUPHhdC8++A7DJ0/wxYBE1LvHV7xDBB+UcLIe7RyUDn7PKsdTpM=
 philips.	3600	in	cds	40792 8 2 C71972943A57973E364EAF29F7562F99CF426F5786E2BE3F28F7DA685CD47059
-philips.	3600	in	rrsig	CDNSKEY 8 1 3600 20250922110943 20250908103530 40792 philips. RAKMxTE5VGBGnSH7zIsu2MRcIpaQFZgH+LPCTPjnd+itXYcK1Qk7iCDJuiFoKGgUpy5KoYLTUcUH4kZFHKmaX6GrZgFSzfHzUpWrMwKvMM8h0mASAsYzXqn7A1E6usBEjoqSvq5afMCdL/0Iv8/fdQdXi1j9ou/EKlc4p3i2L7QMDQhFmZx7qgzRWxUzAjOqeblAMGlzzK8OfGgemHiMjGjO0CVPKI4MkCNuwgXTV2iOdeyJatDSHCl3vkPS0/4s/KgQpWU5psp15iMKJe0FKSmtVN61EIq9nu0TTbox8pPT09ye3QSQGjIZysJBTtNVIqtIIcvpoZKXLj/8/9vX+g==
-philips.	3600	in	rrsig	CDS 8 1 3600 20250922110943 20250908103530 40792 philips. Gsno9080WbveygpfWPtcpKSq9H0eM9uegn47ri4ly5l6WQaCjU7bJaTgX0SLmSXdaQqjuCd7jZt0y/yvly3BWmQHlB6rY1qGGz5rwSYTHAIp6+D2F+v84XLquKOwrw+Rr2XROFHfyWuIaD6IOYlSRVMqI2b154NGTXPovx7iTPy7vllWCnPNpuo/sUm1JrFTilwns2D8dIC9MbHga7jKtCV2pEdv/EWmsjaVprd4KAD/U04IwDeWMtclbqVpi+rK2AIUslNp80D/9Y8oRRcjgzB1sL++auepV7kYXzac5FSXncbWLfPSJRmF7auJPsckwWPnK2OhvBhpuJ1WE77wag==
+philips.	3600	in	rrsig	CDNSKEY 8 1 3600 20251010095153 20250926092057 40792 philips. IoH/nwJs+ika5TQNnhTx8pRcz2WbYq6+FioK/0Itlv+LzpCAbPB8AUc2FW7NNigyVpYDVUzfe72pS0+DZylInZ+4lk34kPAzIl3gfufKbrYj4rhrLP0Bqqvty4f/esZ7f+1+CffamCKwBptm6m68uS7yy/ZsjaliV5HtKxH5TT3zi03BUsRfg2cPjJRipD1T8iIuB2sJuCYUH1lXcw1C7wQgrjxLetLTrw2/1izgsoVAd6nfqKY6+cde7tnlDJQWC+k47K/onTvBHqIorS41rkqBEuyTc+BsVtPEbeumL3ORiWzoSyG8jYZGkF8YmVAWgRvqND5T/wMXXv01jIxB/g==
+philips.	3600	in	rrsig	CDS 8 1 3600 20251010095153 20250926092057 40792 philips. G6hE/7roqBMBDqHgQNxoHMtmyjYx+bfqPa8RCIaLEAdCN76i2OgPiR9BK79x3oPMyW2SkGrz4eM1ga7kVTwrjy0RGn68j2XKddCMcuGZE67PYu0u5evLPvQlbYW0DYQlHIIXjiRB1HzL9IhMKPBReawOZcF6Y705wSWS03PF2iYNKCzffu6ccpXMbvZ4U3okdZFV4XB4I2nCLoWJT2FfEdGYcJbQmWI6JWtKnVThmYEit7IZGzg8wzsoQeOiTC7TA4zDuO3f0QHNOYQBVU3psMBnc3CoAKBFqvuGTD5Fx+bKx6vKpg67c84hicgW86/v2WhVoZWrv9urVAknHNfq9g==
 philips.	7200	in	dnskey	256 3 8 AwEAAfHvw40P7vWj+n/ruUiBadyDfNSQARJggxGiqhL7zu44Qk/UV6HLLIqsiHRMQUBVj3JjhMuhSr7mRTnRLlhH8ufzXrqs4nQpRaiO6niMMufk27K59HVEW23txKkN4wG/qB2WAOZXNvsB5rQQhIZJZe7X9rpCOgbk7V67CyFvnkYvIE8ENKwwmjGX1PzKFItrHX0JrYXHLHMw/HxK3xRszMc=
 philips.	7200	in	dnskey	257 3 8 AwEAAbxAy3GjG3wOhMTB83rFMZ2F0jDoHeF0cmqtOrrRafqq30pv0Dwri+mRSuKzf2NcDBmVXUVVWo6emISBVgezj7i3XK7bYBLb14OBCooL9awXEKTM1W29n4JbAxRmOe6cPjYGqKZ3kFZKAjoxXAuTWFETCmU8VXiX04qS9EYgdZI0aK1YvPhzIi8GfFzaIB52njcuoYZ6Yzr2WyUc+SwonXiDPuMYl6oL/WB6dobp2H/nBb6feKrEje1+vHkJkXMD6AphOa8liPuxXWXPu0T2zR4CZkoqrZABXgYrJUPHhdC8++A7DJ0/wxYBE1LvHV7xDBB+UcLIe7RyUDn7PKsdTpM=
-philips.	7200	in	rrsig	DNSKEY 8 1 7200 20250922110943 20250908103530 40792 philips. BTMewuNJLnlf10qtbhBnZCxh8wNObld0XZkmGZ38JLOm/qTjKVIS45s5NjpTCq22XRVux72xqPtlhbZ9i4mdvJM5kTOotu0jH8dXr5majQkRZzIjLWHPIGPhG5bbAuUcjMW8JfEaQTYfhw87/nacimF4OKuFGiE8W3JKrerrstGgBeeVCmr79RoNNvAd+fWiYoWP/gao3+iSkRp0DJEl3vqTq0tc3DU4YExAd6y4umxxb1m4gmrdevGCJXcnT75+R9tvRkdy5HEsCosnh5fegV9UVpZsLKwHwr/e1OfV+YUHTFi8eJESpvhGxIjbag6JSn8RIfzBPzcWcGcG4tdDDQ==
-philips.	900	in	rrsig	SOA 8 1 900 20250925141530 20250911131530 41484 philips. 2TlzNL3abbW1SEvxiPpxpIsai+Ko4G5iT9snMi0tfWu3Cd2jsSre6KFIR6JJl1jxK1qja/XePale1SpXGJ/cuTUOFzxR+Eb8e2wxVw8spZ+U/Mo/+syyk32BvrYaJ9uxZsSxm8cXlTB74ANt6ON7z/JP9P+zdXIr9NupxMDIQwOL7nVXU8j7nRQoyk5crpAUN6UWaxV16SEjnsvpUvE6DA==
+philips.	7200	in	rrsig	DNSKEY 8 1 7200 20251010095153 20250926092057 40792 philips. oIlBR9vXK16CgGI3oyS1/3QVCAH8C5WEryARMuWVP4ik4mQV4vCdDKyfBVD9oK4a8t6F6s8HvsP4+AxJk5tf+Pry2e6zC9gG5h3FNRXO+RDLnMkdt7OwwaxIhzAw0O73nL+lfsTF4cNYLj9zUMG50+CjnfVW8XomZACYxsev53O/LuMgwL+Lci0hhfHa9Wq3gn1wQhz9hJ9qrq4XAZHxC7l2VFggZCRWrTDlU1hFES4K0vxKb0CDlIzTWwUfrrG38ieU96lj2EmSTEqBZnhOwxwRLmgGQGrRzQbsJw/JWRPvlD7WzMFu14ek0y4oCzjNpUINC/7YUnJ95TivYzelOg==
+philips.	900	in	rrsig	SOA 8 1 900 20251015203727 20251001193727 41484 philips. OyDgIHb8a3/X2ROWfUBDm9aT/xLGp1KMMwdoLjGTzDqucWdsYApBXwpWFP4aT8rdHA2Fwn295AR3KjWlWBBc2y/NCpG07T7NZWvb2MF5UlBz14Lo3USoubS+8k11lFq96i2FEvSlfuacjbuPLDkgz9iX86lFm3Z+0U4TdozFlSaEPh4SmGjf7+j9BBWMTzdu0bAoH82H1kg9dsaNZP/g5A==
 projection.philips.	3600	in	ns	austin.ns.cloudflare.com.
 projection.philips.	3600	in	ns	courtney.ns.cloudflare.com.
 research.philips.	3600	in	ns	ns1.ext.philips.com.
@@ -155,14 +161,14 @@ royal.philips.	3600	in	ns	ns3.ext.philips.com.
 screenshare.philips.	3600	in	ds	2371 13 2 69E879334BB35BCEF9975030BA04053F9158480514E199C22723FB00A49753D5
 screenshare.philips.	3600	in	ns	elinore.ns.cloudflare.com.
 screenshare.philips.	3600	in	ns	ivan.ns.cloudflare.com.
-screenshare.philips.	3600	in	rrsig	DS 8 2 3600 20250922092737 20250908091838 41484 philips. 00xjvpqhB4/Ii//lM6hozhCsdEQyEJ6Ln1UMLgFyQA7YnM4LEyWYwiSJEp+wBxMfykTBybU1JizlijA4yUHIH+kw1mg3w7bhHnDLz1Ibycv+3gnNd0wcbHBRiob3p8yWDSQfWAZB2WZz9zAtK2gUqJ+agqrVW5c0BKe1IyVQzDhzHTFlJJlrcPH11YxhiHgb7xsK4+9jEvyJ0DW1cMTi3g==
+screenshare.philips.	3600	in	rrsig	DS 8 2 3600 20251010082859 20250926073340 41484 philips. n7WOrzYECAa8y9iYH0SUkXrQkpvHx14PKI60bPtYu9Q3g/F4ZRAxVVqHWZEYBeBPqgvygPJSRGCQXhU9aJGELV3aOmtmnsPrtmvljbREajSl9jXIyREGEmpmloxZw6e5hXQLhhvXktfzYhJtZgN22BAQvV4yTgTRRhmyojxmtEuz6Y634gest+kjgA0YhwNMfY6+NL1+3CFHOQaa8zE9JA==
 shop.philips.	3600	in	ns	ns1.ext.philips.com.
 shop.philips.	3600	in	ns	ns2.ext.philips.com.
 shop.philips.	3600	in	ns	ns3.ext.philips.com.
 skleprtv.philips.	3600	in	ns	susan.ns.cloudflare.com.
 skleprtv.philips.	3600	in	ns	syeef.ns.cloudflare.com.
 sn1u3g6kdei0hg9326ahkqohb01peir1.philips.	900	in	nsec3	1 1 0 - VTIAU5477CF6KGTQ3734DR81JDMA4F37 NS DS RRSIG
-sn1u3g6kdei0hg9326ahkqohb01peir1.philips.	900	in	rrsig	NSEC3 8 2 900 20250925141314 20250911131530 41484 philips. WjPhXhe79Ow3w87u3gOgs6w6xehSF+L61Ul/zgiW0PQnrnyDCD9bBWYF5uJ3ciKYsCfiGYVVgDAz5W2WW6EBb2ZZUXbPOozi6ws6dFqJREJDhkTlxErjgL5yKjm8oQjP9mZ0rsltztzAhOxz0y417dq/FEhHfGC7UnVEpb3Ynyswh1k8Z+EEecUq+i1/0ACS9+TlO+2rzOg/MAIoJaRkBw==
+sn1u3g6kdei0hg9326ahkqohb01peir1.philips.	900	in	rrsig	NSEC3 8 2 900 20251013121652 20250929113935 41484 philips. aq7WR6b4YP30lwjUYMxiQikXiFW2JODAWyRMIs3RQo9yMi2gtXhDZsVncKa2iz/DDWt24zCcCnBzJCRpVJoA29Yw6TKUMdDRDCO9QzK1OmZoJMSy/oij5wtfQCQyLC/N7K/IqKNHPmAcZAbZJtoPCvcIFP9Gfmu7iHIZsK86TQFo9dgy6njWFWUddeak0yWol/+hK2Z+wqHmI6RjsOZmLg==
 sonicare.philips.	3600	in	ns	ns1.ext.philips.com.
 sonicare.philips.	3600	in	ns	ns2.ext.philips.com.
 sonicare.philips.	3600	in	ns	ns3.ext.philips.com.
@@ -188,7 +194,7 @@ v.nic.philips.	172800	in	aaaa	2610:00a1:1072:0000:0000:0000:0001:0082
 vision-sound.philips.	3600	in	ns	dns.intergroup.net.
 vision-sound.philips.	3600	in	ns	dns2.intergroup.net.
 vtiau5477cf6kgtq3734dr81jdma4f37.philips.	900	in	nsec3	1 1 0 - 9486V851DGM973EVVBV8RG4NNFTC7N0K NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-vtiau5477cf6kgtq3734dr81jdma4f37.philips.	900	in	rrsig	NSEC3 8 2 900 20250922110943 20250908103530 41484 philips. wXtYtJctqKXYmUv05u1ZxnBlvIxoxUTazQe/mPhZNb5JUoayiunh5KJ8dKtBentZ9qyrvsWnrqYxX3WIfL5E4XaFCBx6DrCIt8fCFYCwNRUz+LSJnyj0vI5JeqFftlUYZGJ6Juuf2q/D/k8mW3Y6l9bJCOHGI2BWBRyXhkdBgtd1IMDhZXD5RxOflcCHsfE7VP+/L+Kntj9otAD1LvkvrQ==
+vtiau5477cf6kgtq3734dr81jdma4f37.philips.	900	in	rrsig	NSEC3 8 2 900 20251010095153 20250926092057 41484 philips. BR5OUeLSIefMUJYysM90bOULAlQ/y2xxhkdVXjNaX371MGdDawMUC6ZUhAyw/nJ4LfKB9F/EZZYPgEiwtNya8o+tq8JFxUFYeodhCC9Ig/ScAMIQfzfE5aY+H9ux5gW08hOOjmAVDL/1h61AAecPMdFl91pySpzo0Z0LTYqgchhbWR7o8bQQigH1am2AG/+Ec+8CoTthTk7HUYMKk+h9Lg==
 w.nic.philips.	172800	in	a	156.154.171.82
 water.philips.	3600	in	ns	ns1.digitalocean.com.
 water.philips.	3600	in	ns	ns2.digitalocean.com.
@@ -206,4 +212,4 @@ y.nic.philips.	172800	in	aaaa	2610:00a1:1073:0000:0000:0000:0001:0082
 y.nic.philips.	172800	in	aaaa	2610:00a1:1075:0000:0000:0000:0001:0082
 z.nic.philips.	172800	in	a	156.154.174.82
 z.nic.philips.	172800	in	aaaa	2610:00a1:1076:0000:0000:0000:0001:0082
-philips.	900	in	soa	a.nic.philips. admin.tldns.godaddy. 1757587609 1800 300 604800 1800
+philips.	900	in	soa	a.nic.philips. admin.tldns.godaddy. 1759351047 1800 300 604800 1800
