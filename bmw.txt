@@ -1,9 +1,9 @@
-bmw.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019125109 900 1800 6048000 3600
+bmw.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019126032 900 1800 6048000 3600
 0hff33rdqh6fgbib5s908ucjnq9a6a2j.bmw.	900	in	nsec3	1 1 0 - 0QERST0779KBGA9309K978NAQF3SQO54 TXT RRSIG
-0hff33rdqh6fgbib5s908ucjnq9a6a2j.bmw.	900	in	rrsig	NSEC3 8 2 900 20251005112306 20250905095306 4270 bmw. ZeYrtpYRYaC6IKOleKbEe4I5PREbNT9+5QkNZhNs1+UGuIzwD2GCUrVaW4v6+2ogvihs9VxFgrW2quFIgRu04tFQjQlzoJsspuJvtZRWmdkYFbskbVGI/TBi1qOIRJdoIt2psZ1ZyUUoi+Q2SgKvLLKT5qQrSV2kXZZbjYOuF0w=
+0hff33rdqh6fgbib5s908ucjnq9a6a2j.bmw.	900	in	rrsig	NSEC3 8 2 900 20251031150958 20251001133958 4270 bmw. BH/zG1dyRi3TniEQXjzR6sDaXG9YiznKxfy7ypjXRIihwo4q5uHLU0+96pj84nxOrLo3M79DvmpfSSTfG/zSqRB1jArk97J/4Pydekcvd8R6MW4zjkR2MZARuJRc6MfWfwfq+LP2qrLrnfe1BuAJuJCep0i8eudi5AHfqxetbEM=
 0qerst0779kbga9309k978naqf3sqo54.bmw.	900	in	nsec3	1 1 0 - GCER97PCDFU2QSDNCN15V41MMPDJTGMD NS SOA RRSIG DNSKEY NSEC3PARAM
-0qerst0779kbga9309k978naqf3sqo54.bmw.	900	in	rrsig	NSEC3 8 2 900 20251009201508 20250909184508 4270 bmw. H8nXzZ5YvWBQsMDssDKLqnyW4BniDJgxKvHKzxGH57+f850Jl9Sh6/PZjNjZo8yZVMgXvE3ofldQSKqDX7JO508XCECny8E8yPF1tBafFO90izYAb8AMwp75kiqrtZCq7bx1kywwrM/xKt70vsnkyOOszRpsMjQ6ppy0L9hxPIE=
-_operator-data.bmw.	3600	in	rrsig	TXT 8 2 3600 20251005131708 20250905114708 4270 bmw. JOVtF9KoolQ/KU+wu4/SX3cByp6kc4BVbM67cNBgywA/zhX82Sni/rqERvmVeMYJG9FRqipJWl7K4gIBigLOHNZRiugIaS4sQ69TARI4Fj8TEx+aeHQE0ydMVW7LhC0FVokSy+BYQKSlzG0qjLiLda7LJfa6J19YHPHRTLiXQ8c=
+0qerst0779kbga9309k978naqf3sqo54.bmw.	900	in	rrsig	NSEC3 8 2 900 20251031150958 20251001133958 4270 bmw. IJZWUQ8lEyvJHm/wLfcAU777jclvKd90s9CaZUNAInFnoctZEONrksWkBtUi+Ig1PJZ9ElfObGuPDktZ23nRJoTwikH5reQkkBbLJLGD1UYJaAqkQ1W0MxgZQMEgxcNLsrNHRlkoS3zTgWg/aujsw8wzXtUS04LgTvg4BkPu0ts=
+_operator-data.bmw.	3600	in	rrsig	TXT 8 2 3600 20251031150958 20251001133958 4270 bmw. cR++PNuvjnJkm7MzGB3WetOAbE9jwq/iassMZ2O1U7bXGo6/586UMtm9b2hPEhlDinPly3HFyUNdtgd1d0qmVHfCK5PgJsuFo9zdLuaDjYtcxPoIDB3KpUoXB9KekXoEM3lNcL/d2jBltlL2oWSiK0eqCK7XqyJVCobNts0YuLg=
 _operator-data.bmw.	3600	in	txt	"CentralNic Registry SRS BERO"
 a.nic.bmw.	172800	in	a	194.169.218.76
 a.nic.bmw.	172800	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0076
@@ -51,13 +51,13 @@ bmw.	172800	in	ns	a.nic.bmw.
 bmw.	172800	in	ns	b.nic.bmw.
 bmw.	172800	in	ns	c.nic.bmw.
 bmw.	172800	in	ns	d.nic.bmw.
-bmw.	172800	in	rrsig	NS 8 1 172800 20251009201508 20250909184508 4270 bmw. Swr21RryMsB0baGsdDiw0kS523vkDnNO9GG3KSY2vO/of9dmlZ5JF+oiNVQZgcwiaWPrHIkb4wQEXtO1hZl4WazewGCN5nUzSCapInjIhro4+vbmn3yMAL+6/5xIsnuE+6AijBDXEqWJ2cd1WP/q0P0ktPis6RUs3mfjwQekRdg=
+bmw.	172800	in	rrsig	NS 8 1 172800 20251031150958 20251001133958 4270 bmw. D95+1y02QE+CcYrnYqneTQp6/HoSYa8kmI+bdKJyZWT8ILo0/h6oAfY+wE6Tr+WbNP7kp63AECDIZWaoS1/8K1dSDuxft4hmytz3LcWTztWFlsD17/CWtL2dXEFIaQtOnz61WPRP/52ei/jghq1MmdwhiEOfPXlBF7X3d3f5Z1M=
 bmw.	3600	in	dnskey	256 3 8 AwEAAdNnB3GI4bj4QBzyNnr5JVVdp9whCfZkA1lDbGHU8HxcvcF8Hh44+2C0dXXPQ+6SxrgeNPI1qgVBbS1UtZHqPL1cin+OEgVA6RmF8r2oA7/Cx+IerpZA1pPUcuR7NuZKdRG+4hUtSr/7nTVPSTJD0NiQ9mDeqppE5dF0MXpbOg2t
 bmw.	3600	in	dnskey	257 3 8 AwEAAdpXIrO5Tz9sQ/SM7lNu+LXbLrL+jv/x5iIW+D6nKaNHCjONVdV8UrgC/GAhIFIQCmshqiZsGMWkYDXHZ71/+examolLPZej0OqdLUrroJzjEc4pJOW7HxRbPqfd+XmKxvSefp2MqiCWzbARR/e5dHJHxDHElfNE6aRqvVYyU2bGLhZKCQM/iZ7SvjHp1GqW1LXqDAiFIHqzAH263e7g1Ca7/zTho3FynpPhxhAaf0J1iG+pYg3kkBIH7PA2j6t0ijdbolUYRZGAUxlrWlj69atNcY4ljTNijyeTb1Wfzje+bte6pzx73M9IL/fdEoo5KDIMJJed+BUlJiyvOnAzVwU=
-bmw.	3600	in	rrsig	DNSKEY 8 1 3600 20251009201508 20250909184508 27910 bmw. EQSC69tJvQ63aRJA4RNtfC2MsuVN2Kt5q+UrO8SusA8EdAZS7rqc2DcliX/PV/ZBFGfpXFg2TIahcMhLrnoYiY/MiQ5sy5dXPuJILypNwV6YYu0lLig2CPxuxOv0QVGW33Z+Ia3d6AiyOPX/IoWSAftzo/mHZvbNtTwuKFFgQ903blR2nd1ejSIMb68Ne1iDHOUAkLtzURYO4TUDBvs/2DhiPqIS64ut/lufCsNquKJxi2Lnf3Mr78FcesNmdKrhrKN2npfgtTe1YiBhHuG2I831xRwyxwjes+G+RfW0mcVorOyRHHEdGauwJslrA9j1lco8YZxonNPyq2tgKdW3cA==
+bmw.	3600	in	rrsig	DNSKEY 8 1 3600 20251031150958 20251001133958 27910 bmw. BYuNLSFJecz9lwwsBVrDeTdSe9BKlM/2/7RelKKPBcgWz8l35Fb4Yyn7LrXZ8tXNnKfl4xOI6sldOSsFEBsZRIjIis1WygnooHXbN1WrEfjNYUFlFr9WnsmXSnc8mDSRwgvvdapyme67NEL0LszoXjOWxu0FGeGesPjTpOtcZyque3DWTe+0HEz6xMbabJ25QqY3vZB+Zy4agFm15P7AeQl9uSGlq6DYM+QJ8TlKRm66xW/dQIq3h46kY8Dy+M7lL/QDfopudP74VMoIkbxuii0sdrpAPTB0bAMZqOIsg+eyV88TvNvv8xRvwp6Dt8pGp0HdmlfOYGC1Xc9FXY2FiQ==
 bmw.	900	in	nsec3param	1 0 0 -
-bmw.	900	in	rrsig	NSEC3PARAM 8 1 900 20251009201508 20250909184508 4270 bmw. lwdWM1D3vhIDJfc3bankwVBGdaQUyPgY+gTHuhLtb+aJKG2RMr/2GtBjBccHS5j6UAzc0MDXBC9cx7QcSkOkqIZI6RnSnfOJ0S+3WTbFHW7neEy8Q7kTdYXNZpbyA8dK3vaHG1n6nMiGQ7K7TctDmg5HSjqL/HPV0mCWWTTrSSw=
-bmw.	900	in	rrsig	SOA 8 1 900 20251012005407 20250911232407 4270 bmw. hivWaIxGw0Twte1dPWlMu8c4qqZXlrkqEMdLXMfyoRZmTFQpIEn8zSL5HudmnONhuM4kmo7U4sCnmVD+L7PYOlwSStRFfUh/oefTxi2IryZCdQMmMayrEYF+w0UQtA53G0bRsqyMndHC0MXtM8XFra8aaoSCEZFWUxDa4QRDCoI=
+bmw.	900	in	rrsig	NSEC3PARAM 8 1 900 20251031150958 20251001133958 4270 bmw. OwrULPn4ifMU+yv1qs+iF4YgVMUku12wY+UMd65BkOfWUF+3spnXtFjFwvACS88sIVw8iGkFer3SKLyyJfzCEXdcSrbNOYPL7PF/icW2mEdP0vEuDEkR74sykANsbhbEqHE29ILjf4GaeTBXN2Hp1Ej8zwqwjyqdbbqMn7VYgD0=
+bmw.	900	in	rrsig	SOA 8 1 900 20251101003510 20251001230510 4270 bmw. hDTz78bs05/eE1Q61xeYvexnRusA/qyohYRamVQWIKp5LXQEcc52iOSnu5qHnMXpgc9Bhd7O6+FnnACM+GRbCTzUmPxRsGeUYvqif8TzHq8BZfzm96SKHy6JpkKJBEaHZawIUuOTcHi2v2VKxlH8BuQu2hiayf4IDQ3nwbLytU0=
 bock-service.bmw.	3600	in	ns	ns1.brandshelter.com.
 bock-service.bmw.	3600	in	ns	ns2.brandshelter.de.
 bock-service.bmw.	3600	in	ns	ns3.brandshelter.info.
@@ -190,7 +190,7 @@ fuchs.bmw.	3600	in	ns	ns1.x-dot.de.
 fuchs.bmw.	3600	in	ns	ns2.x-dot.de.
 fuchs.bmw.	3600	in	ns	ns3.xdot.de.
 gcer97pcdfu2qsdncn15v41mmpdjtgmd.bmw.	900	in	nsec3	1 1 0 - 0HFF33RDQH6FGBIB5S908UCJNQ9A6A2J NS DS RRSIG
-gcer97pcdfu2qsdncn15v41mmpdjtgmd.bmw.	900	in	rrsig	NSEC3 8 2 900 20251005131708 20250905114708 4270 bmw. ki8EfMR76W9/52y6OJX3yjQxcf98eR2ESehQ2/1kNbMvXtadRCLGArPHC7ZFGW359qr0XFj0EpFyaqIXEPXo3MZobU7UA7peIVJJGbUKRkUMHFR4wuAflbSHGSm+iUNlApKsCNI94fLnYrSmM7+YI64cCRYnwR/N+Ll/bj2r024=
+gcer97pcdfu2qsdncn15v41mmpdjtgmd.bmw.	900	in	rrsig	NSEC3 8 2 900 20251031150958 20251001133958 4270 bmw. TRHmWSc2ARaEi+ozgq7qp0URJaAJq7NunuyeQMsk9TIbK5xqyn3J09jjMVeQyvKyaK0jALOdJ2aCdTodgG3iZ9NFpODe0kR0JKGtathXx17p19CDIYvUWRevzoK6vouxiOrXNF0WmExWfM8GdLR57q2ZjfGdjmokaj5xr8TijJ4=
 genzel-service.bmw.	3600	in	ns	ns.km20515-22.keymachine.de.
 genzel-service.bmw.	3600	in	ns	ns2.km20515-22.keymachine.de.
 go.bmw.	3600	in	ns	ns-1295.awsdns-33.org.
@@ -395,7 +395,7 @@ patterns.bmw.	3600	in	ns	ns4.brandshelter.net.
 patterns.bmw.	3600	in	ns	ns5.brandshelter.us.
 pdt-subdomain-test-183h459.bmw.	3600	in	ds	60485 5 1 2BB183AF5F22588179A53B0A98631FAD1A292118
 pdt-subdomain-test-183h459.bmw.	3600	in	ns	ns0.example.com.
-pdt-subdomain-test-183h459.bmw.	3600	in	rrsig	DS 8 2 3600 20251009220412 20250909203412 4270 bmw. yrznM9hQmrodCGEz9EMD7obRWBLk9CqEsS4dG1WcpJU39E/c/70Hzd8sQBuUU0Hj/ipPQCjJiG2HLISJVjAUVXnUKpbXhVPfoxMCuBTbe84OuIMBkthJtinUMNQYecBenmAv9ViuYBcqkNtQU7Sj+jRRWS+lN+eeuIlnx/aTw5s=
+pdt-subdomain-test-183h459.bmw.	3600	in	rrsig	DS 8 2 3600 20251031150958 20251001133958 4270 bmw. EmgZERofErIduc724v5c7vH1aZ6GI561MLjsSFo3ZmC2ROY0LDldlzTBSrxQzmQ1/fo1/umd/siGLd2KRRCJUMPciJ2VGY2yAXXB5E6oVX6clVDj4gTnZdiWbvmFu0Pn/pk1L8Jmx3fDUcF327RdPbpipcsIY+jgta5YgsYO9yM=
 pfohe.bmw.	3600	in	ns	ns1.brandshelter.com.
 pfohe.bmw.	3600	in	ns	ns2.brandshelter.de.
 pfohe.bmw.	3600	in	ns	ns3.brandshelter.info.
@@ -554,4 +554,4 @@ zeisler.bmw.	3600	in	ns	ns2.brandshelter.de.
 zeisler.bmw.	3600	in	ns	ns3.brandshelter.info.
 zeisler.bmw.	3600	in	ns	ns4.brandshelter.net.
 zeisler.bmw.	3600	in	ns	ns5.brandshelter.us.
-bmw.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019125109 900 1800 6048000 3600
+bmw.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019126032 900 1800 6048000 3600
