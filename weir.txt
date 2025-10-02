@@ -1,4 +1,4 @@
-weir.	3600	in	soa	a0.nic.weir. hostmaster.donuts.email. 1757640247 7200 900 1209600 3600
+weir.	3600	in	soa	a0.nic.weir. hostmaster.donuts.email. 1759368703 7200 900 1209600 3600
 150timeline.weir.	3600	in	ns	ns-1382.awsdns-44.org.
 150timeline.weir.	3600	in	ns	ns-149.awsdns-18.com.
 150timeline.weir.	3600	in	ns	ns-1925.awsdns-48.co.uk.
@@ -66,7 +66,7 @@ cavex2es.weir.	3600	in	ns	dns2.cscdns.net.
 cerasmooth.weir.	3600	in	ns	dns1.cscdns.net.
 cerasmooth.weir.	3600	in	ns	dns2.cscdns.net.
 chut8onohdemleif8iipei0545rg8eoh.weir.	3600	in	nsec3	1 1 0 73 CHUT8ONOHDEMLEIF8IIPEI0545RG8EOH NS SOA RRSIG DNSKEY NSEC3PARAM
-chut8onohdemleif8iipei0545rg8eoh.weir.	3600	in	rrsig	NSEC3 8 2 3600 20251003012757 20250912002757 123 weir. pvalyc9/9KZZGd4J3JfzyaVYTV2rCKGIbbjFUP41m5LNpCSOFToxVR9KxNECqfwmn3MYsTzAEBpCEii21teJI7UA/bYTC5Jr/rFQl0tRo9CxOiIOuuTMXYct3iJhfgd5ZiO2jcG6DCXKhvZPO23RMhWUNq+J1LafQcn6QtGyJ10=
+chut8onohdemleif8iipei0545rg8eoh.weir.	3600	in	rrsig	NSEC3 8 2 3600 20251023013525 20251002003525 123 weir. SNrQaCuDecKxVn9KGCJiJpVRTMkJ8yadLropcQmGyNRvz74QuK2BTTyl/LSTf7UliVq5p26Ow+5e0v3P822KO+Zzn1QTz7l7FfoBfY8RVXlUabK4ZoG9I9seydBMFE7I0G0xvLBW/rFTvWSbBJbgiWI2h0CGYbjoui+SHPjfh34=
 cloud.weir.	3600	in	ns	dns1.cscdns.net.
 cloud.weir.	3600	in	ns	dns2.cscdns.net.
 cloudhub.weir.	3600	in	ns	dns1.cscdns.net.
@@ -101,6 +101,8 @@ dev.weir.	3600	in	ns	dns1.cscdns.net.
 dev.weir.	3600	in	ns	dns2.cscdns.net.
 developers.weir.	3600	in	ns	dns1.cscdns.net.
 developers.weir.	3600	in	ns	dns2.cscdns.net.
+devnotifications.weir.	3600	in	ns	dns1.cscdns.net.
+devnotifications.weir.	3600	in	ns	dns2.cscdns.net.
 dewateringsolutions.weir.	3600	in	ns	dns1.cscdns.net.
 dewateringsolutions.weir.	3600	in	ns	dns2.cscdns.net.
 dina-dev.weir.	3600	in	ns	ns1-33.azure-dns.com.
@@ -400,10 +402,10 @@ weir.	3600	in	ns	a2.nic.weir.
 weir.	3600	in	ns	b0.nic.weir.
 weir.	3600	in	ns	c0.nic.weir.
 weir.	3600	in	nsec3param	1 0 0 73
-weir.	3600	in	rrsig	DNSKEY 8 1 3600 20250930160859 20250909150859 7762 weir. iyOI2SHUWhaeh1vnh+IiFKdFTEGml4mNpM1Zyx687tftMtc4CzfCIeg12Aeh4juggO0KQN78/Xf5m9Kd+cRkuB2MGLMggac8Ei4525+me4lK8S7/hklaa1C5W3JqahErJ9pK5LrvvxjZyeWpWluO48qwvMIlQotC6aiSFSxdDwoV7NkOYTmehKZFQvPTTQCJQfPonIwoHnV2Sc+C1zffkAgPsZ/+SvQGcv2L1g1W8Gzj3V5TVRRMu/C8LTMVgYMQuefsMn8Xm2Iu7Mtp/s43VcEI4MBhCMmZ5T3ybFp6FGig0j1njTTYMGMq92iU9vLgYsAMyrFPWixEsb8S8mNWyw==
-weir.	3600	in	rrsig	NS 8 1 3600 20250930160859 20250909150859 123 weir. os0HGaPqNe0D+oBNDU4vIsLd85sRBKFHo92fY4aaE/z9XfkJJxUN40CesA9VvCPgUR+cMOEcWDLunVq+rg6lWx4j9Cjh9FzHW1YGQXCF4JjK2SQ3p5S73tVOqsyF/YN3onSetfs5vmjJm8yQyJMLZ7TRpOa3NH1MHAO4US/jH8E=
-weir.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20250930160859 20250909150859 123 weir. TmaAUUhB6signpMuHRe4wPrFwkhPvymWnYYAK/kkHKhTVhfHjXpL9IeNfSpos7ykfhFbK89Ck++cSudpr//DC4UHt6D+0qlYjPj+ZMbktOe87u5d1Id8YJZceNcj8A1FyTjMy+RtztT0nuekioNOLi9f3tYZ01NW16e++umBsGM=
-weir.	3600	in	rrsig	SOA 8 1 3600 20251003012757 20250912002757 123 weir. bunznyio4ZVFWTjz3RLK4S2t7sN72onkg33e1RbROPQR/Udu6cWYrU2pKLIsdcAeyuhP8Adjnfp22TbVqYcO8hLjQxtq8GvCqckJwyzQriSj/8qL9bWB9ZKIA5ql6vznz9j5g7Gz9eqviyjs5Tt1yohBlTqHhpUE/PJVynEXlcw=
+weir.	3600	in	rrsig	DNSKEY 8 1 3600 20251022161623 20251001151623 7762 weir. B2k05mw0wZUiz722BrnkTVutJ4CJnKd/+j0jSFdDSy3b4ZQZqnVr5BnCCLWIHgxD2qcpiozkA9QL5FNlwqbvPWpn0lpiah/Pn3uENADPyB12+5FDEaXCduL1eTHVah+jCMOwQOdw7040EGm7UqDcoP73Sjlt6pj3i8FlgYgRyeajv9ga18kNY1MxJjXggPyi2PfGG3yFFlOW+GxrwhGgyeBIM44jTtt0udOgCMCueqmXu5L61sNN7jtAN3SzwlkzWxX9luOl6U2Naq3GqPVlcXIJQneAeJaPVBqE0jwahq7L/MMO3qFigKeNxqZMWjbJlCvmT0y9h/rZ3krT54m1Vw==
+weir.	3600	in	rrsig	NS 8 1 3600 20251022161623 20251001151623 123 weir. hWbGcJYxRvhZHVo00XclYc5p3CfuBUk039ul60pK47Y9OU6Q1BXvKyCZN6/9wtL1Uc1Q7R7OSZTautxX/WrhHwXFe9nqujRFxCmoKHn4rkKEVRjDx8x4ZBwmxshjqoVVdJogOAgT0P1aMkDufXceEyFGUIO57HRv7WJOCXPxqtA=
+weir.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20251022161623 20251001151623 123 weir. Oo3MZ9qcAUK1y1lAlcT+d6O1NIQACgRtxVeOEv+JSKr/BRosc8gpVDTEaVNb5ePjuHxwjbalrNZof2OuAWu5i254mah4taD5g+XZLF2F2zZvmtFuKvgtohLkjojZ9sWpE461jLYo1plYy37zA/zxbNeWgkKv9YYIK2nlGsxASxI=
+weir.	3600	in	rrsig	SOA 8 1 3600 20251023013525 20251002003525 123 weir. g7/w2RDkmT7zvuygmqtMkPHPgozANG5kdQFNQqZEU9oZNwmQ1wRtG/7PYdkS6b/HPAfQgLdNqqOuQ8dfsOalq+8CXzLnmWWmTKSHU5qO1iXUsmX5xuAU8izKqOCL1e4211P2MaeZNi+otJKaNgsWsSDcdKZvxUybX5Ie0taNb80=
 weirgear.weir.	3600	in	ns	dns1.cscdns.net.
 weirgear.weir.	3600	in	ns	dns2.cscdns.net.
 weirmineralssolutions.weir.	3600	in	ns	dns1.cscdns.net.
@@ -420,4 +422,4 @@ wsp.weir.	3600	in	ns	dns1.cscdns.net.
 wsp.weir.	3600	in	ns	dns2.cscdns.net.
 your.weir.	3600	in	ns	dns1.cscdns.net.
 your.weir.	3600	in	ns	dns2.cscdns.net.
-weir.	3600	in	soa	a0.nic.weir. hostmaster.donuts.email. 1757640247 7200 900 1209600 3600
+weir.	3600	in	soa	a0.nic.weir. hostmaster.donuts.email. 1759368703 7200 900 1209600 3600
