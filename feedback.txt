@@ -1,10 +1,10 @@
-feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 604800 300
+feedback.	300	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1759367417 1800 900 604800 300
 00.feedback.	900	in	ns	e.nic.feedback.
 00.feedback.	900	in	ns	f.nic.feedback.
 01.feedback.	900	in	ns	e.nic.feedback.
 01.feedback.	900	in	ns	f.nic.feedback.
 012qg5qga8fl0dn9d1u2g7753e616l61.feedback.	300	in	nsec3	1 1 0 - 0V6U9TUST8NE7P2JSKCJIS1K4THNO4NT NS DS RRSIG
-012qg5qga8fl0dn9d1u2g7753e616l61.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. 6hXWluUYhmfTitENPFlPS6xviCutKAMholFe/btq8D8FFxUJLBMWgyTmGG33ppmWhTITPewzUrkcQARD8xb6sg==
+012qg5qga8fl0dn9d1u2g7753e616l61.feedback.	300	in	rrsig	NSEC3 13 2 300 20251011134027 20250912155742 50017 feedback. O7UG8GHNZWdnt8Dpkk46cyMcc8d6TB2PzIMtuBZjwigQVGBQBd2TkjqdP/KTWEww7mGZlTTY9nqhqBMm5VVcQA==
 02.feedback.	900	in	ns	e.nic.feedback.
 02.feedback.	900	in	ns	f.nic.feedback.
 03.feedback.	900	in	ns	e.nic.feedback.
@@ -66,7 +66,7 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 0v.feedback.	900	in	ns	e.nic.feedback.
 0v.feedback.	900	in	ns	f.nic.feedback.
 0v6u9tust8ne7p2jskcjis1k4thno4nt.feedback.	300	in	nsec3	1 1 0 - 1H7PB0V73I13OTMKUKGTFQE1QJGB59LK NS DS RRSIG
-0v6u9tust8ne7p2jskcjis1k4thno4nt.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. E8e3zQbRFUd+sjoPewlEg5MUSIOtV4y5LVjUarAv7UhZ8y5WLfNCyLFKRdPdkXWiC/T6coIlyeEQmZPqgcrQxQ==
+0v6u9tust8ne7p2jskcjis1k4thno4nt.feedback.	300	in	rrsig	NSEC3 13 2 300 20251011103746 20250912155742 50017 feedback. 61YJMIreQEDfYrbt/FUiCiwSrrxUrcKzeN/cjNPmKYZWEsTfXOvv2CG3aeXSJJD6945acYVmFlgOnd3rnN/EMw==
 0w.feedback.	900	in	ns	e.nic.feedback.
 0w.feedback.	900	in	ns	f.nic.feedback.
 0x.feedback.	900	in	ns	e.nic.feedback.
@@ -107,8 +107,6 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 12173.feedback.	900	in	ns	ns8.alidns.com.
 123.feedback.	900	in	ns	e.nic.feedback.
 123.feedback.	900	in	ns	f.nic.feedback.
-123b.feedback.	900	in	ns	dns101.registrar-servers.com.
-123b.feedback.	900	in	ns	dns102.registrar-servers.com.
 125cafeteria.feedback.	900	in	ns	dns1.registrar-servers.com.
 125cafeteria.feedback.	900	in	ns	dns2.registrar-servers.com.
 12bet.feedback.	900	in	ns	benedict.ns.cloudflare.com.
@@ -139,8 +137,10 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 1800baskets.feedback.	900	in	ns	f.nic.feedback.
 1800flowers.feedback.	900	in	ns	e.nic.feedback.
 1800flowers.feedback.	900	in	ns	f.nic.feedback.
-188bet.feedback.	900	in	ns	karsyn.ns.cloudflare.com.
-188bet.feedback.	900	in	ns	quentin.ns.cloudflare.com.
+188bet.feedback.	900	in	ds	40591 13 2 08716E803EB3CFF835947127AE36C56DCD75227C190583C730EAD4A1CD884915
+188bet.feedback.	900	in	ns	launch1.spaceship.net.
+188bet.feedback.	900	in	ns	launch2.spaceship.net.
+188bet.feedback.	900	in	rrsig	DS 13 2 900 20251027235926 20250929113023 50017 feedback. v5XN29+iczhUtWSdUlBokwh0u3Xnuj7cetQhOLYCpAQ0gEpQZzzhkMbGFnrnVVVsxfshpVlfZ8Gi3rd7pv/MSw==
 19.feedback.	900	in	ns	e.nic.feedback.
 19.feedback.	900	in	ns	f.nic.feedback.
 1a.feedback.	900	in	ns	e.nic.feedback.
@@ -160,11 +160,11 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 1h.feedback.	900	in	ns	e.nic.feedback.
 1h.feedback.	900	in	ns	f.nic.feedback.
 1h7pb0v73i13otmkukgtfqe1qjgb59lk.feedback.	300	in	nsec3	1 1 0 - 1HQ6PKAT6S0U5T90DDGSAS4L99R29SFM NS DS RRSIG
-1h7pb0v73i13otmkukgtfqe1qjgb59lk.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. dOvwOokMFHtMgcorQAATEmFN+3hTmBBRHysBJxF4EUS4rTyQfSsNG6Df9P+YMdjcpH/XV/vwZG92v9fRUHBpbw==
+1h7pb0v73i13otmkukgtfqe1qjgb59lk.feedback.	300	in	rrsig	NSEC3 13 2 300 20251011061918 20250912155742 50017 feedback. vC4+qZVfBgl7VSwyHZnXuneMPjdV1yF2h5bEdvU+ljtSCIwfiuqUg1I9zb8gktF1H4/6BP+VqCZ0KU9yoJ855g==
 1hour.feedback.	900	in	ns	e.nic.feedback.
 1hour.feedback.	900	in	ns	f.nic.feedback.
 1hq6pkat6s0u5t90ddgsas4l99r29sfm.feedback.	300	in	nsec3	1 1 0 - 1VUTL9UG2D17J6140JB80UAFM3GC0LNG NS DS RRSIG
-1hq6pkat6s0u5t90ddgsas4l99r29sfm.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. c/pljFdKHj9Kr+VO8qvbBPcg37DbpF5wnEHJgOmOex0maWTcOYFQDKGa25zBJakNQUW6t1NP9hfO2duL6elHOQ==
+1hq6pkat6s0u5t90ddgsas4l99r29sfm.feedback.	300	in	rrsig	NSEC3 13 2 300 20251011234953 20250912155742 50017 feedback. Jc1XIFXTUdz4ZPsHYs1a4IjS3/n8iSbxXkQbnaV/ZsUTc9eSpc1puxQMsfQt2N8yiSV9Ja/YnTKwxIp+hfrPxg==
 1i.feedback.	900	in	ns	e.nic.feedback.
 1i.feedback.	900	in	ns	f.nic.feedback.
 1j.feedback.	900	in	ns	e.nic.feedback.
@@ -201,8 +201,8 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 1u.feedback.	900	in	ns	f.nic.feedback.
 1v.feedback.	900	in	ns	e.nic.feedback.
 1v.feedback.	900	in	ns	f.nic.feedback.
-1vutl9ug2d17j6140jb80uafm3gc0lng.feedback.	300	in	nsec3	1 1 0 - 52F2BITNVKOB43AL278GTFSBEJTQ9A3A NS DS RRSIG
-1vutl9ug2d17j6140jb80uafm3gc0lng.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. jm1554fpeRhZ/dc/zUPYWK2c4KDK2ASF+HPDFWgxgbPy1ehmQ9MCIK3XRB2T8Z9doz0ZiYaJU+KlnDpFdrAzxw==
+1vutl9ug2d17j6140jb80uafm3gc0lng.feedback.	300	in	nsec3	1 1 0 - 5D91CTAL96HJKH1R7PIKJUB89HUGJVI8 NS DS RRSIG
+1vutl9ug2d17j6140jb80uafm3gc0lng.feedback.	300	in	rrsig	NSEC3 13 2 300 20251011224457 20250912155742 50017 feedback. RRtdtYdvf9eXC/YXgOfSK6LNomqqlmMfVGCpCie7ikk15e02Kav4d69+1K027eRRY2FNynAorMh8q7MMJp114A==
 1w.feedback.	900	in	ns	e.nic.feedback.
 1w.feedback.	900	in	ns	f.nic.feedback.
 1x.feedback.	900	in	ns	e.nic.feedback.
@@ -535,8 +535,6 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 52.feedback.	900	in	ns	f.nic.feedback.
 5280.feedback.	900	in	ns	e.nic.feedback.
 5280.feedback.	900	in	ns	f.nic.feedback.
-52f2bitnvkob43al278gtfsbejtq9a3a.feedback.	300	in	nsec3	1 1 0 - 5D91CTAL96HJKH1R7PIKJUB89HUGJVI8 NS DS RRSIG
-52f2bitnvkob43al278gtfsbejtq9a3a.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. tLb9RuzbscMvkkM0nZaf+7bmOCrRtdr4L77Sc9+leTw5P+FohN/eiq2DHCc1QJKuAW586FaDNHNMXkkZ4v7RSA==
 53.feedback.	900	in	ns	e.nic.feedback.
 53.feedback.	900	in	ns	f.nic.feedback.
 53264.feedback.	900	in	ns	n1.xundns.com.
@@ -563,8 +561,8 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 5c.feedback.	900	in	ns	f.nic.feedback.
 5d.feedback.	900	in	ns	e.nic.feedback.
 5d.feedback.	900	in	ns	f.nic.feedback.
-5d91ctal96hjkh1r7pikjub89hugjvi8.feedback.	300	in	nsec3	1 1 0 - 6KO5V9P43MQJUID49J74H8HO8R02FRK6 NS DS RRSIG
-5d91ctal96hjkh1r7pikjub89hugjvi8.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. CkDMo0sUdvwcPMwxuxjNjLoOdIciG7I7PDhlgL0QbgHfPqOISRYCu4IIhjYfkE3Stj84jS1WFO9GdUPJH4aGGg==
+5d91ctal96hjkh1r7pikjub89hugjvi8.feedback.	300	in	nsec3	1 1 0 - 5VC7454PRLNFQ9FNJ899FKT85PLDI5VR NS DS RRSIG
+5d91ctal96hjkh1r7pikjub89hugjvi8.feedback.	300	in	rrsig	NSEC3 13 2 300 20251014132118 20250916093514 50017 feedback. tINEaFBQkteIMQ61Y21CjnRqtdeTblNyJgo+w307LsYvUXdx0d89KFonHmbhg9URon+FTzbUvwTzFEBe81U8bg==
 5e.feedback.	900	in	ns	e.nic.feedback.
 5e.feedback.	900	in	ns	f.nic.feedback.
 5f.feedback.	900	in	ns	e.nic.feedback.
@@ -607,6 +605,8 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 5u.feedback.	900	in	ns	f.nic.feedback.
 5v.feedback.	900	in	ns	e.nic.feedback.
 5v.feedback.	900	in	ns	f.nic.feedback.
+5vc7454prlnfq9fnj899fkt85pldi5vr.feedback.	300	in	nsec3	1 1 0 - 6KO5V9P43MQJUID49J74H8HO8R02FRK6 NS DS RRSIG
+5vc7454prlnfq9fnj899fkt85pldi5vr.feedback.	300	in	rrsig	NSEC3 13 2 300 20251015153005 20250916093514 50017 feedback. /tyfkF/i+eGHFTsubwlUsdh3gH2xMTDIsHmNXoI2bH7vaYsSwIp6jtW5vqvEPrlL1dWDKPeWIH6z/zk49rVxwQ==
 5w.feedback.	900	in	ns	e.nic.feedback.
 5w.feedback.	900	in	ns	f.nic.feedback.
 5x.feedback.	900	in	ns	e.nic.feedback.
@@ -676,7 +676,7 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 6k.feedback.	900	in	ns	e.nic.feedback.
 6k.feedback.	900	in	ns	f.nic.feedback.
 6ko5v9p43mqjuid49j74h8ho8r02frk6.feedback.	300	in	nsec3	1 1 0 - 6S86HEG9QDTIGQ19UDN53820QK01J2BT NS DS RRSIG
-6ko5v9p43mqjuid49j74h8ho8r02frk6.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. /noXObcy/JdJds4vH2sN+edS6izeCbXEZDHT6LeJCS+eGqGgQlhPHA7Ru8E8S4y7bwCMLRIL9aRkHbHkoMZ1XA==
+6ko5v9p43mqjuid49j74h8ho8r02frk6.feedback.	300	in	rrsig	NSEC3 13 2 300 20251011041148 20250912155742 50017 feedback. FC8V5bwkPfMEhYkYMtU5QT8iTcKcVYfLK4N1/4Vo4ZZM81q4klorjou/ps1E1eGxlWCCQT4/pRQODbL1Tbfk0A==
 6l.feedback.	900	in	ns	e.nic.feedback.
 6l.feedback.	900	in	ns	f.nic.feedback.
 6m.feedback.	900	in	ns	e.nic.feedback.
@@ -694,7 +694,7 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 6s.feedback.	900	in	ns	e.nic.feedback.
 6s.feedback.	900	in	ns	f.nic.feedback.
 6s86heg9qdtigq19udn53820qk01j2bt.feedback.	300	in	nsec3	1 1 0 - 72HCIGECICTLMVF950SFQEUT4SMG9DHA NS DS RRSIG
-6s86heg9qdtigq19udn53820qk01j2bt.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. fxc9wCFnWbp11Jty4yWx/Cvs7SQ4IcHTty9M2lREJx2K1l518HchkBn0Jbr8c4ymjlimAK0+YV5xrA5XOppYHg==
+6s86heg9qdtigq19udn53820qk01j2bt.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012101225 20250912155742 50017 feedback. 9A3cpoD3a6xdsJygj92cFf+daNWYr3A9CwneuH3AXX6Dkpe2qBXCnQCwjTzrFJwa+ZlrbB9mHoNWR1GcMW9GlQ==
 6second.feedback.	900	in	ns	e.nic.feedback.
 6second.feedback.	900	in	ns	f.nic.feedback.
 6t.feedback.	900	in	ns	e.nic.feedback.
@@ -721,8 +721,8 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 72.feedback.	900	in	ns	f.nic.feedback.
 72653.feedback.	900	in	ns	n1.xundns.com.
 72653.feedback.	900	in	ns	n2.xundns.com.
-72hcigecictlmvf950sfqeut4smg9dha.feedback.	300	in	nsec3	1 1 0 - AH75H0UER3G158JRKSRJEGVS76QDDL2B NS DS RRSIG
-72hcigecictlmvf950sfqeut4smg9dha.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. ouOqzzkgDpxRtxi8REN9ApAdoWRD6c4aLZDkor1NYgpYMm7ivyHuUHIMTIOPro7SKC08VZ2MiK9AD1HTkRrdmg==
+72hcigecictlmvf950sfqeut4smg9dha.feedback.	300	in	nsec3	1 1 0 - 786U3GO95D889GCQMD5IJFPQHV7USGGR NS DS RRSIG
+72hcigecictlmvf950sfqeut4smg9dha.feedback.	300	in	rrsig	NSEC3 13 2 300 20251029035104 20250929113023 50017 feedback. vRcL+k8roGeXH7HgdRN447eFOA0r7WboyyD69zU/1buZQXXlPlnm5VuLQ+ICKseyrchA7adA62ZBdOBNOQEuHw==
 73.feedback.	900	in	ns	e.nic.feedback.
 73.feedback.	900	in	ns	f.nic.feedback.
 74.feedback.	900	in	ns	e.nic.feedback.
@@ -739,20 +739,22 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 77bet.feedback.	900	in	ns	dns102.registrar-servers.com.
 77win.feedback.	900	in	ns	dns101.registrar-servers.com.
 77win.feedback.	900	in	ns	dns102.registrar-servers.com.
-77win1.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-77win1.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
-77win2.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-77win2.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
-77win3.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-77win3.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
+77win1.feedback.	900	in	ns	dns101.registrar-servers.com.
+77win1.feedback.	900	in	ns	dns102.registrar-servers.com.
+77win2.feedback.	900	in	ds	20263 13 2 7505184F2F14AA7ED9B626DE05D975AC40291B0FD6DE14C074E0CB84869C330F
+77win2.feedback.	900	in	ns	launch1.spaceship.net.
+77win2.feedback.	900	in	ns	launch2.spaceship.net.
+77win2.feedback.	900	in	rrsig	DS 13 2 900 20251029182532 20250930132522 50017 feedback. 92YZBBxJAO0aWPl89jiORj/7t9c8r9wVRIvsDkSm3QEuXE3lTmhlRRDwBZtFLIt2aZN/XFVaBGmRvZ5TP9wzsQ==
+77win3.feedback.	900	in	ds	41519 13 2 7738D554702F973BCFE2A7B46EC060AF21AD0C657327F24705974202854C60E3
+77win3.feedback.	900	in	ns	launch1.spaceship.net.
+77win3.feedback.	900	in	ns	launch2.spaceship.net.
+77win3.feedback.	900	in	rrsig	DS 13 2 900 20251029113040 20250930132522 50017 feedback. itC0dvnKcAdLaecCb0/ZMtg6j+H1ym/WKadn/AM1ROEZoW5OrT+3IkqDVALggQ2yVIN/Uyt+QeZyDmCEXSu5xg==
 78.feedback.	900	in	ns	e.nic.feedback.
 78.feedback.	900	in	ns	f.nic.feedback.
-789bet.feedback.	900	in	ns	dns101.registrar-servers.com.
-789bet.feedback.	900	in	ns	dns102.registrar-servers.com.
+786u3go95d889gcqmd5ijfpqhv7usggr.feedback.	300	in	nsec3	1 1 0 - 7H6V7DL3K2VKDIG9J65NCKI2F4HF0LSS NS DS RRSIG
+786u3go95d889gcqmd5ijfpqhv7usggr.feedback.	300	in	rrsig	NSEC3 13 2 300 20251029191616 20250930132522 50017 feedback. 0HZEO8X74Irp1AB2IQ/dzmLnLserm1M19h0hHHYa1nlyfEsfVmUk5M1DEZAojycpOW+wsPUOy5ZTvX9No23e7w==
 789f.feedback.	900	in	ns	sofia.ns.cloudflare.com.
 789f.feedback.	900	in	ns	sullivan.ns.cloudflare.com.
-789win.feedback.	900	in	ns	dns101.registrar-servers.com.
-789win.feedback.	900	in	ns	dns102.registrar-servers.com.
 78win.feedback.	900	in	ns	arely.ns.cloudflare.com.
 78win.feedback.	900	in	ns	zahir.ns.cloudflare.com.
 79.feedback.	900	in	ns	e.nic.feedback.
@@ -763,8 +765,8 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 79king.feedback.	900	in	ns	dns102.registrar-servers.com.
 79kingz.feedback.	900	in	ns	dns101.registrar-servers.com.
 79kingz.feedback.	900	in	ns	dns102.registrar-servers.com.
-79kingz1.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-79kingz1.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
+79kingz1.feedback.	900	in	ns	dns101.registrar-servers.com.
+79kingz1.feedback.	900	in	ns	dns102.registrar-servers.com.
 7a.feedback.	900	in	ns	e.nic.feedback.
 7a.feedback.	900	in	ns	f.nic.feedback.
 7b.feedback.	900	in	ns	e.nic.feedback.
@@ -781,6 +783,8 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 7g.feedback.	900	in	ns	f.nic.feedback.
 7h.feedback.	900	in	ns	e.nic.feedback.
 7h.feedback.	900	in	ns	f.nic.feedback.
+7h6v7dl3k2vkdig9j65ncki2f4hf0lss.feedback.	300	in	nsec3	1 1 0 - 8U00E52SCCFL4T967TEMRL4F63TQ2T33 NS DS RRSIG
+7h6v7dl3k2vkdig9j65ncki2f4hf0lss.feedback.	300	in	rrsig	NSEC3 13 2 300 20251028150423 20250930132522 50017 feedback. IZgj6xNuSJpH7B+yomZkaEiAtKn9Z2emn4OATJ9BerOR5FZnMseMYwGScbfBLuRuCLRHL/QnIQWkVUI/3pdCmQ==
 7i.feedback.	900	in	ns	e.nic.feedback.
 7i.feedback.	900	in	ns	f.nic.feedback.
 7j.feedback.	900	in	ns	e.nic.feedback.
@@ -861,10 +865,10 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 8888.feedback.	900	in	ns	f.nic.feedback.
 88899.feedback.	900	in	ns	ns1.netsto.net.
 88899.feedback.	900	in	ns	ns2.netsto.net.
-888b.feedback.	900	in	ns	dns101.registrar-servers.com.
-888b.feedback.	900	in	ns	dns102.registrar-servers.com.
 88clb.feedback.	900	in	ns	tia.ns.cloudflare.com.
 88clb.feedback.	900	in	ns	zac.ns.cloudflare.com.
+88vv.feedback.	900	in	ns	julian.ns.cloudflare.com.
+88vv.feedback.	900	in	ns	kate.ns.cloudflare.com.
 89.feedback.	900	in	ns	e.nic.feedback.
 89.feedback.	900	in	ns	f.nic.feedback.
 89617.feedback.	900	in	ns	ns7.alidns.com.
@@ -877,8 +881,8 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 8c.feedback.	900	in	ns	f.nic.feedback.
 8d.feedback.	900	in	ns	e.nic.feedback.
 8d.feedback.	900	in	ns	f.nic.feedback.
-8day.feedback.	900	in	ns	cesar.ns.cloudflare.com.
-8day.feedback.	900	in	ns	clara.ns.cloudflare.com.
+8day.feedback.	900	in	ns	ns1.dyna-ns.net.
+8day.feedback.	900	in	ns	ns2.dyna-ns.net.
 8e.feedback.	900	in	ns	e.nic.feedback.
 8e.feedback.	900	in	ns	f.nic.feedback.
 8f.feedback.	900	in	ns	e.nic.feedback.
@@ -893,10 +897,8 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 8j.feedback.	900	in	ns	f.nic.feedback.
 8k.feedback.	900	in	ns	e.nic.feedback.
 8k.feedback.	900	in	ns	f.nic.feedback.
-8kbet.feedback.	900	in	ns	dns101.registrar-servers.com.
-8kbet.feedback.	900	in	ns	dns102.registrar-servers.com.
-8kbet01.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-8kbet01.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
+8kbet01.feedback.	900	in	ns	dns101.registrar-servers.com.
+8kbet01.feedback.	900	in	ns	dns102.registrar-servers.com.
 8kbet1.feedback.	900	in	ns	dns101.registrar-servers.com.
 8kbet1.feedback.	900	in	ns	dns102.registrar-servers.com.
 8kbetcom.feedback.	900	in	ns	garret.ns.cloudflare.com.
@@ -925,6 +927,8 @@ feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 6
 8t.feedback.	900	in	ns	f.nic.feedback.
 8u.feedback.	900	in	ns	e.nic.feedback.
 8u.feedback.	900	in	ns	f.nic.feedback.
+8u00e52sccfl4t967temrl4f63tq2t33.feedback.	300	in	nsec3	1 1 0 - AH75H0UER3G158JRKSRJEGVS76QDDL2B NS DS RRSIG
+8u00e52sccfl4t967temrl4f63tq2t33.feedback.	300	in	rrsig	NSEC3 13 2 300 20251019072849 20250920074018 50017 feedback. c4brZEBIvVw3A28AO8FQErNkydk0ptfqDXZyPbot3VVtCydD7sFRx6SbICXJuOX6RFU6E9IApMRGa0xvWJPdyQ==
 8v.feedback.	900	in	ns	e.nic.feedback.
 8v.feedback.	900	in	ns	f.nic.feedback.
 8w.feedback.	900	in	ns	e.nic.feedback.
@@ -1224,10 +1228,6 @@ acropolis.feedback.	900	in	ns	e.nic.feedback.
 acropolis.feedback.	900	in	ns	f.nic.feedback.
 act.feedback.	900	in	ns	e.nic.feedback.
 act.feedback.	900	in	ns	f.nic.feedback.
-acthmi.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-acthmi.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-acthmi.feedback.	900	in	ns	maceio.ns.porkbun.com.
-acthmi.feedback.	900	in	ns	salvador.ns.porkbun.com.
 acting.feedback.	900	in	ns	e.nic.feedback.
 acting.feedback.	900	in	ns	f.nic.feedback.
 action.feedback.	900	in	ns	e.nic.feedback.
@@ -1270,6 +1270,8 @@ adams-signin.feedback.	900	in	ns	e.nic.feedback.
 adams-signin.feedback.	900	in	ns	f.nic.feedback.
 adan.feedback.	900	in	ns	e.nic.feedback.
 adan.feedback.	900	in	ns	f.nic.feedback.
+adaptafai.feedback.	900	in	ns	dns1.registrar-servers.com.
+adaptafai.feedback.	900	in	ns	dns2.registrar-servers.com.
 adaptive.feedback.	900	in	ns	e.nic.feedback.
 adaptive.feedback.	900	in	ns	f.nic.feedback.
 add.feedback.	900	in	ns	e.nic.feedback.
@@ -1310,10 +1312,6 @@ adelle.feedback.	900	in	ns	e.nic.feedback.
 adelle.feedback.	900	in	ns	f.nic.feedback.
 adeseo.feedback.	900	in	ns	beau.ns.cloudflare.com.
 adeseo.feedback.	900	in	ns	clarissa.ns.cloudflare.com.
-adgihy.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-adgihy.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-adgihy.feedback.	900	in	ns	maceio.ns.porkbun.com.
-adgihy.feedback.	900	in	ns	salvador.ns.porkbun.com.
 adhd.feedback.	900	in	ns	e.nic.feedback.
 adhd.feedback.	900	in	ns	f.nic.feedback.
 adhdproduct.feedback.	900	in	ns	e.nic.feedback.
@@ -1372,6 +1370,8 @@ adsfor.feedback.	900	in	ns	e.nic.feedback.
 adsfor.feedback.	900	in	ns	f.nic.feedback.
 adsupply.feedback.	900	in	ns	e.nic.feedback.
 adsupply.feedback.	900	in	ns	f.nic.feedback.
+adtech.feedback.	900	in	ns	edward.ns.cloudflare.com.
+adtech.feedback.	900	in	ns	melody.ns.cloudflare.com.
 adult.feedback.	900	in	ns	e.nic.feedback.
 adult.feedback.	900	in	ns	f.nic.feedback.
 adultdating.feedback.	900	in	ns	e.nic.feedback.
@@ -1426,8 +1426,8 @@ ae.feedback.	900	in	ns	e.nic.feedback.
 ae.feedback.	900	in	ns	f.nic.feedback.
 ae88.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
 ae88.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
-ae888.feedback.	900	in	ns	ns1.dyna-ns.net.
-ae888.feedback.	900	in	ns	ns2.dyna-ns.net.
+aeo.feedback.	900	in	ns	dns1.registrar-servers.com.
+aeo.feedback.	900	in	ns	dns2.registrar-servers.com.
 aero.feedback.	900	in	ns	e.nic.feedback.
 aero.feedback.	900	in	ns	f.nic.feedback.
 aerobicsinstructors.feedback.	900	in	ns	e.nic.feedback.
@@ -1500,18 +1500,14 @@ agricultural.feedback.	900	in	ns	e.nic.feedback.
 agricultural.feedback.	900	in	ns	f.nic.feedback.
 agriculture.feedback.	900	in	ns	e.nic.feedback.
 agriculture.feedback.	900	in	ns	f.nic.feedback.
-agsdf.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-agsdf.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-agsdf.feedback.	900	in	ns	maceio.ns.porkbun.com.
-agsdf.feedback.	900	in	ns	salvador.ns.porkbun.com.
 agustin.feedback.	900	in	ns	e.nic.feedback.
 agustin.feedback.	900	in	ns	f.nic.feedback.
 agustina.feedback.	900	in	ns	e.nic.feedback.
 agustina.feedback.	900	in	ns	f.nic.feedback.
 ah.feedback.	900	in	ns	e.nic.feedback.
 ah.feedback.	900	in	ns	f.nic.feedback.
-ah75h0uer3g158jrksrjegvs76qddl2b.feedback.	300	in	nsec3	1 1 0 - BGKL7BHQHUO97NNNQCD4LC8IDTF8HOAD NS DS RRSIG
-ah75h0uer3g158jrksrjegvs76qddl2b.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. cnbyP01jiIepyyvtGQqvq8brTqPvVnatSbCxf9QckCugCfzziPTJjY62k3nPDiOn+E5uyXvMAvgFgAa4fBOizA==
+ah75h0uer3g158jrksrjegvs76qddl2b.feedback.	300	in	nsec3	1 1 0 - AR28U43J1KNA9HR4HE8MNO986SJH53KN NS DS RRSIG
+ah75h0uer3g158jrksrjegvs76qddl2b.feedback.	300	in	rrsig	NSEC3 13 2 300 20251025044555 20250926104530 50017 feedback. jzl8sMhjlVOIoAozldrEuHftw2CiFu4Rv4Fd0g/cZT0t/0B5a7TQWTp3hRVodZ+pWRlg6IkoRDZPKTgCOIX3dA==
 ahhbra.feedback.	900	in	ns	e.nic.feedback.
 ahhbra.feedback.	900	in	ns	f.nic.feedback.
 ahmad.feedback.	900	in	ns	e.nic.feedback.
@@ -1522,6 +1518,10 @@ ai.feedback.	900	in	ns	e.nic.feedback.
 ai.feedback.	900	in	ns	f.nic.feedback.
 aiagent.feedback.	900	in	ns	launch1.spaceship.net.
 aiagent.feedback.	900	in	ns	launch2.spaceship.net.
+aiagents.feedback.	900	in	ns	curitiba.ns.porkbun.com.
+aiagents.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
+aiagents.feedback.	900	in	ns	maceio.ns.porkbun.com.
+aiagents.feedback.	900	in	ns	salvador.ns.porkbun.com.
 aida.feedback.	900	in	ns	e.nic.feedback.
 aida.feedback.	900	in	ns	f.nic.feedback.
 aids.feedback.	900	in	ns	e.nic.feedback.
@@ -2365,7 +2365,7 @@ appraisers.feedback.	900	in	ns	f.nic.feedback.
 appreciates.feedback.	900	in	ds	30824 13 2 2AF98678846F7EA5731C5C03A2D222EC12352A4595099852C885740242993A52
 appreciates.feedback.	900	in	ns	launch1.spaceship.net.
 appreciates.feedback.	900	in	ns	launch2.spaceship.net.
-appreciates.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. KcegdL0NqeLrMN7XiZ9Nfb0eEQAGpeB4SNlbEY4+eY3PQI9SLaSR1j/QV5zOTBu5j3li1vV+uwP38wIKIV4SUA==
+appreciates.feedback.	900	in	rrsig	DS 13 2 900 20251011191420 20250912155742 50017 feedback. o1p+kT/12NclpFRsCYDkRSazEVFOASM56dIMRLuz4Posp6sC0rTjbPcXG44GJjUtyuKpKe0dtHtmtun60fTgHw==
 approved.feedback.	900	in	ns	e.nic.feedback.
 approved.feedback.	900	in	ns	f.nic.feedback.
 apps.feedback.	900	in	ns	e.nic.feedback.
@@ -2404,6 +2404,8 @@ ar.feedback.	900	in	ns	e.nic.feedback.
 ar.feedback.	900	in	ns	f.nic.feedback.
 ar15.feedback.	900	in	ns	e.nic.feedback.
 ar15.feedback.	900	in	ns	f.nic.feedback.
+ar28u43j1kna9hr4he8mno986sjh53kn.feedback.	300	in	nsec3	1 1 0 - BGKL7BHQHUO97NNNQCD4LC8IDTF8HOAD NS DS RRSIG
+ar28u43j1kna9hr4he8mno986sjh53kn.feedback.	300	in	rrsig	NSEC3 13 2 300 20251024162848 20250926104530 50017 feedback. 5Rt9EubroUmrcjlWy4ctSz3A+JEKv8TWYVIkaEh8yzG+78jEkC2hRIrKuLo/oukDmGd6vdFWPEMzHXTY8JCdtg==
 arab.feedback.	900	in	ns	e.nic.feedback.
 arab.feedback.	900	in	ns	f.nic.feedback.
 arabic.feedback.	900	in	ns	e.nic.feedback.
@@ -2905,9 +2907,9 @@ averagejoe.feedback.	900	in	ns	e.nic.feedback.
 averagejoe.feedback.	900	in	ns	f.nic.feedback.
 avery.feedback.	900	in	ns	e.nic.feedback.
 avery.feedback.	900	in	ns	f.nic.feedback.
-aviary.feedback.	900	in	ns	ns1.regery.net.
-aviary.feedback.	900	in	ns	ns2.regery.net.
-aviary.feedback.	900	in	ns	ns3.regery.net.
+aviary.feedback.	900	in	ns	ina1.registrar.eu.
+aviary.feedback.	900	in	ns	ina2.registrar.eu.
+aviary.feedback.	900	in	ns	ina3.registrar.eu.
 aviation.feedback.	900	in	ns	e.nic.feedback.
 aviation.feedback.	900	in	ns	f.nic.feedback.
 aviationinspectors.feedback.	900	in	ns	e.nic.feedback.
@@ -2944,6 +2946,10 @@ awning.feedback.	900	in	ns	e.nic.feedback.
 awning.feedback.	900	in	ns	f.nic.feedback.
 awnings.feedback.	900	in	ns	e.nic.feedback.
 awnings.feedback.	900	in	ns	f.nic.feedback.
+aws.feedback.	900	in	ds	13268 13 2 9F0BC61A0C6F97D1EF8B2462E0608A4180ACC1C145109FDB9BBE44C8146649B2
+aws.feedback.	900	in	ns	launch1.spaceship.net.
+aws.feedback.	900	in	ns	launch2.spaceship.net.
+aws.feedback.	900	in	rrsig	DS 13 2 900 20251031090818 20251001234513 50017 feedback. jVJhHyqFeOajfQShUOPxBxAAlOJ9lnCyzGAHqrPoilxu7pCeCcQQOlVQmb+Ejde1on7d0ujsj0oosNIE5HVu4g==
 ax.feedback.	900	in	ns	e.nic.feedback.
 ax.feedback.	900	in	ns	f.nic.feedback.
 axiom.feedback.	900	in	ns	e.nic.feedback.
@@ -2952,8 +2958,6 @@ axion.feedback.	900	in	ns	curitiba.ns.porkbun.com.
 axion.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
 axion.feedback.	900	in	ns	maceio.ns.porkbun.com.
 axion.feedback.	900	in	ns	salvador.ns.porkbun.com.
-axjvn.feedback.	900	in	ns	ns1.dyna-ns.net.
-axjvn.feedback.	900	in	ns	ns2.dyna-ns.net.
 ay.feedback.	900	in	ns	e.nic.feedback.
 ay.feedback.	900	in	ns	f.nic.feedback.
 ayana.feedback.	900	in	ns	e.nic.feedback.
@@ -3109,7 +3113,7 @@ banana.feedback.	900	in	ns	f.nic.feedback.
 bancadoithuong.feedback.	900	in	ds	56955 13 2 C6B1D9DDDD20E6482CD31C285662AAF41C53AFDB493EF28057AC664E425D56E3
 bancadoithuong.feedback.	900	in	ns	launch1.spaceship.net.
 bancadoithuong.feedback.	900	in	ns	launch2.spaceship.net.
-bancadoithuong.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. uc/DcWXqqADrd8+qE+zdhUz5DhssWIfT1h6oRfI6ms5+ZaLyXC1V3FxQuhIA5OJaS8LRYr93Qk51/J13UxKfeg==
+bancadoithuong.feedback.	900	in	rrsig	DS 13 2 900 20251011134528 20250912155742 50017 feedback. +By6L6JRcsgR1DA0J/vZ7JCGaCgNSK/lftWFKQgkpqOsZFAZ69oLzVvRkXogSBXixCtwWpQHCcc+Ph85dLyD/w==
 bandb.feedback.	900	in	ns	e.nic.feedback.
 bandb.feedback.	900	in	ns	f.nic.feedback.
 bandsaw.feedback.	900	in	ns	e.nic.feedback.
@@ -3262,8 +3266,6 @@ bbcream.feedback.	900	in	ns	e.nic.feedback.
 bbcream.feedback.	900	in	ns	f.nic.feedback.
 bbinary.feedback.	900	in	ns	e.nic.feedback.
 bbinary.feedback.	900	in	ns	f.nic.feedback.
-bbnnm.feedback.	900	in	ns	ns1.dyna-ns.net.
-bbnnm.feedback.	900	in	ns	ns2.dyna-ns.net.
 bbq.feedback.	900	in	ns	e.nic.feedback.
 bbq.feedback.	900	in	ns	f.nic.feedback.
 bbqgrill.feedback.	900	in	ns	e.nic.feedback.
@@ -3653,7 +3655,7 @@ bestworkout.feedback.	900	in	ns	f.nic.feedback.
 bet88.feedback.	900	in	ds	26421 13 2 A6DDDC781ACC8699BB39765578366482D684E6E8D398ECF5D83D34B80169AB00
 bet88.feedback.	900	in	ns	launch1.spaceship.net.
 bet88.feedback.	900	in	ns	launch2.spaceship.net.
-bet88.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. /rk4OW8GvzFSz0reQyHFfekjrWhjE6lHU29t59qB2yWWwfnMVIWcXUFQpfVVyXCUFPLGb3/RsuX7/WxlAPVBQw==
+bet88.feedback.	900	in	rrsig	DS 13 2 900 20251011035826 20250912155742 50017 feedback. VNmPZOkDJ0SzuAsm9aLITHEOMTw7U0Hk7Onvx1YKpLugwK7hYyr/BmCJ+xIqWDSClYxETYAFFMBxhGRX9if9dA==
 bet88com.feedback.	900	in	ns	garret.ns.cloudflare.com.
 bet88com.feedback.	900	in	ns	liberty.ns.cloudflare.com.
 beta.feedback.	900	in	ns	e.nic.feedback.
@@ -3721,13 +3723,13 @@ bf6.feedback.	900	in	ns	cody.ns.cloudflare.com.
 bg.feedback.	900	in	ns	e.nic.feedback.
 bg.feedback.	900	in	ns	f.nic.feedback.
 bgkl7bhqhuo97nnnqcd4lc8idtf8hoad.feedback.	300	in	nsec3	1 1 0 - BH0IT1JN4MMLG3G7NL2KCVMKP6I39OKS NS DS RRSIG
-bgkl7bhqhuo97nnnqcd4lc8idtf8hoad.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. UtwxCEwgO8mKdaJ7hgZjPDoHmXtXpoLxToJyxGGP+kQg5DD5rV8LGVi7LnKl8K20pwZEJBXMQAkxEI8hOpebqA==
+bgkl7bhqhuo97nnnqcd4lc8idtf8hoad.feedback.	300	in	rrsig	NSEC3 13 2 300 20251010205834 20250912155742 50017 feedback. YmilQ4oWJ/lrhOYFFevxeOQSGfogOvN9kai5kupgNdVkBfaEaQVVFMeDPeL+MEEFfKaXMXfAJpvpABR20s6t/Q==
 bgkpxr.feedback.	900	in	ns	ns1.dyna-ns.net.
 bgkpxr.feedback.	900	in	ns	ns2.dyna-ns.net.
 bh.feedback.	900	in	ns	e.nic.feedback.
 bh.feedback.	900	in	ns	f.nic.feedback.
-bh0it1jn4mmlg3g7nl2kcvmkp6i39oks.feedback.	300	in	nsec3	1 1 0 - BVL11RMA21MA0SCGN3R9L484D5D6D746 NS DS RRSIG
-bh0it1jn4mmlg3g7nl2kcvmkp6i39oks.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. Py5CMhkDNAZlA7OdeDAfkEWoE6iGY5ywadpUk9y25cusax7D87HzH8TPctNGaaBNfIG3RGcBEqnKTsjlxIgAoQ==
+bh0it1jn4mmlg3g7nl2kcvmkp6i39oks.feedback.	300	in	nsec3	1 1 0 - BQV92UOT4D8N7C0J8LSE52HFNOL3L9NK NS DS RRSIG
+bh0it1jn4mmlg3g7nl2kcvmkp6i39oks.feedback.	300	in	rrsig	NSEC3 13 2 300 20251028180530 20250930132522 50017 feedback. SDJONrqku5VEgTF7m6K1C91f4CTYpBG0bBZDCrYC4eUuh2soqmonln3HGiZCJVoQga4OS7huHBL7p4Zd9h/B8g==
 bharat.feedback.	900	in	ns	e.nic.feedback.
 bharat.feedback.	900	in	ns	f.nic.feedback.
 bi.feedback.	900	in	ns	e.nic.feedback.
@@ -3798,10 +3800,6 @@ binary.feedback.	900	in	ns	e.nic.feedback.
 binary.feedback.	900	in	ns	f.nic.feedback.
 binaryoption.feedback.	900	in	ns	e.nic.feedback.
 binaryoption.feedback.	900	in	ns	f.nic.feedback.
-bindrs.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-bindrs.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-bindrs.feedback.	900	in	ns	maceio.ns.porkbun.com.
-bindrs.feedback.	900	in	ns	salvador.ns.porkbun.com.
 bing.feedback.	900	in	ns	e.nic.feedback.
 bing.feedback.	900	in	ns	f.nic.feedback.
 binocular.feedback.	900	in	ns	e.nic.feedback.
@@ -3971,10 +3969,6 @@ blogs.feedback.	900	in	ns	e.nic.feedback.
 blogs.feedback.	900	in	ns	f.nic.feedback.
 blogsite.feedback.	900	in	ns	e.nic.feedback.
 blogsite.feedback.	900	in	ns	f.nic.feedback.
-bloij.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-bloij.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-bloij.feedback.	900	in	ns	maceio.ns.porkbun.com.
-bloij.feedback.	900	in	ns	salvador.ns.porkbun.com.
 blood.feedback.	900	in	ns	e.nic.feedback.
 blood.feedback.	900	in	ns	f.nic.feedback.
 bloodcare.feedback.	900	in	ns	e.nic.feedback.
@@ -4023,10 +4017,6 @@ bmxbike.feedback.	900	in	ns	e.nic.feedback.
 bmxbike.feedback.	900	in	ns	f.nic.feedback.
 bn.feedback.	900	in	ns	e.nic.feedback.
 bn.feedback.	900	in	ns	f.nic.feedback.
-bnduk.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-bnduk.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-bnduk.feedback.	900	in	ns	maceio.ns.porkbun.com.
-bnduk.feedback.	900	in	ns	salvador.ns.porkbun.com.
 bnpparibas.feedback.	900	in	ns	e.nic.feedback.
 bnpparibas.feedback.	900	in	ns	f.nic.feedback.
 bo.feedback.	900	in	ns	e.nic.feedback.
@@ -4099,8 +4089,6 @@ bolly.feedback.	900	in	ns	e.nic.feedback.
 bolly.feedback.	900	in	ns	f.nic.feedback.
 bollywood.feedback.	900	in	ns	e.nic.feedback.
 bollywood.feedback.	900	in	ns	f.nic.feedback.
-bom29toto.feedback.	900	in	ns	dns101.registrar-servers.com.
-bom29toto.feedback.	900	in	ns	dns102.registrar-servers.com.
 bon.feedback.	900	in	ns	e.nic.feedback.
 bon.feedback.	900	in	ns	f.nic.feedback.
 bond.feedback.	900	in	ns	e.nic.feedback.
@@ -4112,9 +4100,9 @@ bong.feedback.	900	in	ns	f.nic.feedback.
 bong88.feedback.	900	in	ds	65269 13 2 3D547386A2D2D0FE336D960608C11F0627FD5D6D81A8489C51918ABF6082E864
 bong88.feedback.	900	in	ns	launch1.spaceship.net.
 bong88.feedback.	900	in	ns	launch2.spaceship.net.
-bong88.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. QGo1hornqx7nP8OtueGklp7wQQ+BqLcklAvnStmEDY354Gq/WAL03dg2dqbqPyQDz0oClRfUhs/fypKjYh0RUQ==
-bong889.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-bong889.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
+bong88.feedback.	900	in	rrsig	DS 13 2 900 20251011003701 20250912155742 50017 feedback. OO7KOzDckTbuH6YOJZ/v89/iCw2zxr5X3S7q8GIOb0m5SB8/lf3BAKsfNLlifPrBV+G35ICcTU8m7AYTm5Jcbg==
+bong889.feedback.	900	in	ns	dns101.registrar-servers.com.
+bong889.feedback.	900	in	ns	dns102.registrar-servers.com.
 bonita.feedback.	900	in	ns	e.nic.feedback.
 bonita.feedback.	900	in	ns	f.nic.feedback.
 bonnie.feedback.	900	in	ns	e.nic.feedback.
@@ -4229,14 +4217,12 @@ boyd.feedback.	900	in	ns	e.nic.feedback.
 boyd.feedback.	900	in	ns	f.nic.feedback.
 boys.feedback.	900	in	ns	e.nic.feedback.
 boys.feedback.	900	in	ns	f.nic.feedback.
-bozeta.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-bozeta.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-bozeta.feedback.	900	in	ns	maceio.ns.porkbun.com.
-bozeta.feedback.	900	in	ns	salvador.ns.porkbun.com.
 bp.feedback.	900	in	ns	e.nic.feedback.
 bp.feedback.	900	in	ns	f.nic.feedback.
 bq.feedback.	900	in	ns	e.nic.feedback.
 bq.feedback.	900	in	ns	f.nic.feedback.
+bqv92uot4d8n7c0j8lse52hfnol3l9nk.feedback.	300	in	nsec3	1 1 0 - BVL11RMA21MA0SCGN3R9L484D5D6D746 NS DS RRSIG
+bqv92uot4d8n7c0j8lse52hfnol3l9nk.feedback.	300	in	rrsig	NSEC3 13 2 300 20251029075742 20250930132522 50017 feedback. dd8yPs/V/OTmGBqS0oTP8Z7/zXyL9/n7twXnhEqx6soczE5NDNdRh17N7/JKTyoo9AVFelr5Egc9UCq/OrH1CA==
 br.feedback.	900	in	ns	e.nic.feedback.
 br.feedback.	900	in	ns	f.nic.feedback.
 bra.feedback.	900	in	ns	e.nic.feedback.
@@ -4640,7 +4626,7 @@ buzz.feedback.	900	in	ns	f.nic.feedback.
 bv.feedback.	900	in	ns	e.nic.feedback.
 bv.feedback.	900	in	ns	f.nic.feedback.
 bvl11rma21ma0scgn3r9l484d5d6d746.feedback.	300	in	nsec3	1 1 0 - CHSNU361TEJUMRQKM2FN42U43KCLUB9B NS DS RRSIG
-bvl11rma21ma0scgn3r9l484d5d6d746.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. OOoF9X1kDvFA1SNQp/pAdMx8ksmsVrzzEqMRzBrLLuJF38es1jKTM6hPtRCXU/hKCR1n40wYNQUGSNpHjECqFw==
+bvl11rma21ma0scgn3r9l484d5d6d746.feedback.	300	in	rrsig	NSEC3 13 2 300 20251011153329 20250912155742 50017 feedback. EUIe9CLcT+c2c7evKC6UNedWOT6Z3QNAaCwXXwweU4Y+oZuNhwDz9NopmcJfUfZa7ul5ifSZluhfMKgGwN6hcA==
 bw.feedback.	900	in	ns	e.nic.feedback.
 bw.feedback.	900	in	ns	f.nic.feedback.
 bwin.feedback.	900	in	ns	mariah.ns.cloudflare.com.
@@ -5165,6 +5151,8 @@ cassie.feedback.	900	in	ns	e.nic.feedback.
 cassie.feedback.	900	in	ns	f.nic.feedback.
 cast.feedback.	900	in	ns	e.nic.feedback.
 cast.feedback.	900	in	ns	f.nic.feedback.
+castatea.feedback.	900	in	ns	dns1.registrar-servers.com.
+castatea.feedback.	900	in	ns	dns2.registrar-servers.com.
 casting.feedback.	900	in	ns	e.nic.feedback.
 casting.feedback.	900	in	ns	f.nic.feedback.
 castle.feedback.	900	in	ns	e.nic.feedback.
@@ -5219,8 +5207,10 @@ cattree.feedback.	900	in	ns	e.nic.feedback.
 cattree.feedback.	900	in	ns	f.nic.feedback.
 cb.feedback.	900	in	ns	e.nic.feedback.
 cb.feedback.	900	in	ns	f.nic.feedback.
-cb01.feedback.	900	in	ns	damian.ns.cloudflare.com.
-cb01.feedback.	900	in	ns	lovisa.ns.cloudflare.com.
+cb01.feedback.	900	in	ns	curitiba.ns.porkbun.com.
+cb01.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
+cb01.feedback.	900	in	ns	maceio.ns.porkbun.com.
+cb01.feedback.	900	in	ns	salvador.ns.porkbun.com.
 cbd.feedback.	900	in	ns	e.nic.feedback.
 cbd.feedback.	900	in	ns	f.nic.feedback.
 cc.feedback.	900	in	ns	e.nic.feedback.
@@ -5352,10 +5342,6 @@ cfnm.feedback.	900	in	ns	e.nic.feedback.
 cfnm.feedback.	900	in	ns	f.nic.feedback.
 cg.feedback.	900	in	ns	e.nic.feedback.
 cg.feedback.	900	in	ns	f.nic.feedback.
-cgpznh.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-cgpznh.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-cgpznh.feedback.	900	in	ns	maceio.ns.porkbun.com.
-cgpznh.feedback.	900	in	ns	salvador.ns.porkbun.com.
 ch.feedback.	900	in	ns	e.nic.feedback.
 ch.feedback.	900	in	ns	f.nic.feedback.
 chads.feedback.	900	in	ns	e.nic.feedback.
@@ -5465,7 +5451,7 @@ chattanooga.feedback.	900	in	ns	f.nic.feedback.
 chatto.feedback.	900	in	ds	55647 13 2 F73F60B605224D73DFDA577613370B6849369C9B4646A214E8252FE4D9376D16
 chatto.feedback.	900	in	ns	launch1.spaceship.net.
 chatto.feedback.	900	in	ns	launch2.spaceship.net.
-chatto.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. YatUApiZuMDzPzyWdJsuvvHqScnzuartBVJ8/4F1Wj32MtaBlLv22AbouEZ2Y3khIyRkFPjVV7nO/WQL+OYvZA==
+chatto.feedback.	900	in	rrsig	DS 13 2 900 20251012103807 20250912155742 50017 feedback. 3VW6I5l/F8/sZOypIPn9k5+p5AGWnYysB3lm4nsXchzZsSSORTCOfcnuMHKWg+QPSwELFrhaIHnDIcEk67RS9w==
 chau.feedback.	900	in	ns	e.nic.feedback.
 chau.feedback.	900	in	ns	f.nic.feedback.
 chauffeur.feedback.	900	in	ns	e.nic.feedback.
@@ -5711,7 +5697,7 @@ chrysler.feedback.	900	in	ns	f.nic.feedback.
 chrystal.feedback.	900	in	ns	e.nic.feedback.
 chrystal.feedback.	900	in	ns	f.nic.feedback.
 chsnu361tejumrqkm2fn42u43kclub9b.feedback.	300	in	nsec3	1 1 0 - DN6R66DV6VKMP9GD1U3BR4KR7F6P287M NS DS RRSIG
-chsnu361tejumrqkm2fn42u43kclub9b.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. Wbh/mgLQ1WXzyWJ7YG/Igh/6xuXB+ad3X8v1MYJqC2xJmysQ1rqaGq7im9Dr1ok2a3rmxqkpk9I+xG5pH57kNA==
+chsnu361tejumrqkm2fn42u43kclub9b.feedback.	300	in	rrsig	NSEC3 13 2 300 20251010161639 20250912155742 50017 feedback. DbwLA3tUZLft1ztwpM8HMuXH8Hy/d2rnOPVRI2dREHDHKmW92pfxAIWFLYxAWjt+rT0INzzdCLYRn5BJWEKblg==
 chubby.feedback.	900	in	ns	e.nic.feedback.
 chubby.feedback.	900	in	ns	f.nic.feedback.
 chuck.feedback.	900	in	ns	e.nic.feedback.
@@ -6069,8 +6055,6 @@ coinme.feedback.	900	in	ns	ns1.101domain.com.
 coinme.feedback.	900	in	ns	ns2.101domain.com.
 coins.feedback.	900	in	ns	e.nic.feedback.
 coins.feedback.	900	in	ns	f.nic.feedback.
-cointracker.feedback.	900	in	ns	dns101.registrar-servers.com.
-cointracker.feedback.	900	in	ns	dns102.registrar-servers.com.
 colby.feedback.	900	in	ns	e.nic.feedback.
 colby.feedback.	900	in	ns	f.nic.feedback.
 cold.feedback.	900	in	ns	e.nic.feedback.
@@ -6136,7 +6120,7 @@ comcast.feedback.	900	in	ns	f.nic.feedback.
 comeback.feedback.	900	in	ds	43201 13 2 34EBAD200E6BF534E05E15A764450AD9D1E99E6887430154E16FA073400811F3
 comeback.feedback.	900	in	ns	launch1.spaceship.net.
 comeback.feedback.	900	in	ns	launch2.spaceship.net.
-comeback.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. o3F2RpK708LSMK5SaZ2eyTGB2AWdCxNnQMNc44DDU/VnuJzusqdARlTf7Kq8mp4wZJJZcwq+kGX/86ERRqNgeA==
+comeback.feedback.	900	in	rrsig	DS 13 2 900 20251011005256 20250912155742 50017 feedback. bXZsV9n0VLCmGFhjaHvCzlVYFuk9K9g0mR2AEri/PZPpGu7u1+1vhll2Yvs8wVZaC5KfrxAV/D+O2zpgdOMz4w==
 comics.feedback.	900	in	ns	e.nic.feedback.
 comics.feedback.	900	in	ns	f.nic.feedback.
 comm.feedback.	900	in	ns	e.nic.feedback.
@@ -6372,8 +6356,8 @@ copier.feedback.	900	in	ns	e.nic.feedback.
 copier.feedback.	900	in	ns	f.nic.feedback.
 copiers.feedback.	900	in	ns	e.nic.feedback.
 copiers.feedback.	900	in	ns	f.nic.feedback.
-copilot.feedback.	900	in	ns	dns1.registrar-servers.com.
-copilot.feedback.	900	in	ns	dns2.registrar-servers.com.
+copilot.feedback.	900	in	ns	dns101.registrar-servers.com.
+copilot.feedback.	900	in	ns	dns102.registrar-servers.com.
 copper.feedback.	900	in	ns	e.nic.feedback.
 copper.feedback.	900	in	ns	f.nic.feedback.
 coppersink.feedback.	900	in	ns	e.nic.feedback.
@@ -6435,7 +6419,7 @@ cornhole.feedback.	900	in	ns	f.nic.feedback.
 corona.feedback.	900	in	ds	21548 13 2 223A6979938A7743849F5BB06843EBB3F556BBA732FA3A4ECB4919587E763F83
 corona.feedback.	900	in	ns	e.nic.feedback.
 corona.feedback.	900	in	ns	f.nic.feedback.
-corona.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. 0wqn5HoaAPWFBAfRmNg3lBFqu/E9muFUFJwP+zquMCVa8IJ4mtZgG0E0JZMdHt02cHnjlp5Wc5zaweOYMON/Zg==
+corona.feedback.	900	in	rrsig	DS 13 2 900 20251012051836 20250912155742 50017 feedback. UHzPAMOJiqIs0V17Hrs2AcHT281KuQyCRFdbowno/oi2fiyEJLPJJn7FcERQe4uGWrHWXiuWk3PCg0vzeN2BEA==
 coroners.feedback.	900	in	ns	e.nic.feedback.
 coroners.feedback.	900	in	ns	f.nic.feedback.
 corporate.feedback.	900	in	ns	e.nic.feedback.
@@ -6790,8 +6774,6 @@ customers.feedback.	900	in	ns	e.nic.feedback.
 customers.feedback.	900	in	ns	f.nic.feedback.
 customerservice.feedback.	900	in	ns	e.nic.feedback.
 customerservice.feedback.	900	in	ns	f.nic.feedback.
-customerservice888.feedback.	900	in	ns	ns1.dyna-ns.net.
-customerservice888.feedback.	900	in	ns	ns2.dyna-ns.net.
 customjewelry.feedback.	900	in	ns	e.nic.feedback.
 customjewelry.feedback.	900	in	ns	f.nic.feedback.
 customp.feedback.	900	in	ns	e.nic.feedback.
@@ -6813,9 +6795,9 @@ cwin.feedback.	900	in	ns	dns102.registrar-servers.com.
 cwin05.feedback.	900	in	ds	1500 13 2 213E06720A146E240CC620C4DE981E333C3F8E104D3EC377D23DCCBC5DEC511F
 cwin05.feedback.	900	in	ns	launch1.spaceship.net.
 cwin05.feedback.	900	in	ns	launch2.spaceship.net.
-cwin05.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. C88cE7wsrEV6LTEd9tRs8b5uRjBeubDkOhjyDy5dz4u7ZfjHM8gC5zx0TxYJ8KeSy270juP1VTCHJNlViJTBiQ==
-cwinn.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-cwinn.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
+cwin05.feedback.	900	in	rrsig	DS 13 2 900 20251010163312 20250912155742 50017 feedback. 4lRrgaMMIVq7dKoXPZWKV09IsY9J4TFNtVD8Sl/hQSFirc1BnLX8RvvrEqVONcVjj124/QnaW+L3GGUeDxXboA==
+cwinn.feedback.	900	in	ns	dns101.registrar-servers.com.
+cwinn.feedback.	900	in	ns	dns102.registrar-servers.com.
 cx.feedback.	900	in	ns	e.nic.feedback.
 cx.feedback.	900	in	ns	f.nic.feedback.
 cy.feedback.	900	in	ns	e.nic.feedback.
@@ -6878,8 +6860,6 @@ da.feedback.	900	in	ns	e.nic.feedback.
 da.feedback.	900	in	ns	f.nic.feedback.
 dabet.feedback.	900	in	ns	amber.ns.cloudflare.com.
 dabet.feedback.	900	in	ns	jonah.ns.cloudflare.com.
-dachgp.feedback.	900	in	ns	ns1.dyna-ns.net.
-dachgp.feedback.	900	in	ns	ns2.dyna-ns.net.
 dad.feedback.	900	in	ns	e.nic.feedback.
 dad.feedback.	900	in	ns	f.nic.feedback.
 daddy.feedback.	900	in	ns	e.nic.feedback.
@@ -7096,7 +7076,7 @@ davos.feedback.	900	in	ns	ns2.glipac.ch.
 davos.feedback.	900	in	ns	ns3.glipac.ch.
 davos.feedback.	900	in	ns	ns76.irondns.net.
 davos.feedback.	900	in	ns	ns78.irondns.net.
-davos.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. nBUASTPfo1dlR4/rmH4mWCHlJaPc6u2PYTioy6AVJvA92P+vlw1M3tgPAS8l96+LLhZlyoadoah+oZO2MV5f6Q==
+davos.feedback.	900	in	rrsig	DS 13 2 900 20251012070903 20250912155742 50017 feedback. bdCOK2BscRDEtjmKSwLghIfhTsC0vURl+WUaF1ltokEJwPg268kJHRwwcyTaHfyYMuJAJ15PnOVJiw5yX0/mRg==
 dawn.feedback.	900	in	ns	e.nic.feedback.
 dawn.feedback.	900	in	ns	f.nic.feedback.
 dawna.feedback.	900	in	ns	e.nic.feedback.
@@ -7196,6 +7176,8 @@ debra.feedback.	900	in	ns	e.nic.feedback.
 debra.feedback.	900	in	ns	f.nic.feedback.
 debrah.feedback.	900	in	ns	e.nic.feedback.
 debrah.feedback.	900	in	ns	f.nic.feedback.
+debrainvo.feedback.	900	in	ns	dns1.registrar-servers.com.
+debrainvo.feedback.	900	in	ns	dns2.registrar-servers.com.
 debroah.feedback.	900	in	ns	e.nic.feedback.
 debroah.feedback.	900	in	ns	f.nic.feedback.
 debt.feedback.	900	in	ns	e.nic.feedback.
@@ -7491,6 +7473,8 @@ devora.feedback.	900	in	ns	e.nic.feedback.
 devora.feedback.	900	in	ns	f.nic.feedback.
 devorah.feedback.	900	in	ns	e.nic.feedback.
 devorah.feedback.	900	in	ns	f.nic.feedback.
+devsai.feedback.	900	in	ns	dns1.registrar-servers.com.
+devsai.feedback.	900	in	ns	dns2.registrar-servers.com.
 dewayne.feedback.	900	in	ns	e.nic.feedback.
 dewayne.feedback.	900	in	ns	f.nic.feedback.
 dewey.feedback.	900	in	ns	e.nic.feedback.
@@ -7501,10 +7485,6 @@ dexter.feedback.	900	in	ns	e.nic.feedback.
 dexter.feedback.	900	in	ns	f.nic.feedback.
 df.feedback.	900	in	ns	e.nic.feedback.
 df.feedback.	900	in	ns	f.nic.feedback.
-dfamox.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-dfamox.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-dfamox.feedback.	900	in	ns	maceio.ns.porkbun.com.
-dfamox.feedback.	900	in	ns	salvador.ns.porkbun.com.
 dfs.feedback.	900	in	ns	e.nic.feedback.
 dfs.feedback.	900	in	ns	f.nic.feedback.
 dg.feedback.	900	in	ns	e.nic.feedback.
@@ -7671,10 +7651,8 @@ discgolf.feedback.	900	in	ns	e.nic.feedback.
 discgolf.feedback.	900	in	ns	f.nic.feedback.
 discounts.feedback.	900	in	ns	e.nic.feedback.
 discounts.feedback.	900	in	ns	f.nic.feedback.
-discoverlutron.feedback.	900	in	ns	ns1-03.azure-dns.com.
-discoverlutron.feedback.	900	in	ns	ns2-03.azure-dns.net.
-discoverlutron.feedback.	900	in	ns	ns3-03.azure-dns.org.
-discoverlutron.feedback.	900	in	ns	ns4-03.azure-dns.info.
+discoverlutron.feedback.	900	in	ns	ns1.ibspark.com.
+discoverlutron.feedback.	900	in	ns	ns2.ibspark.com.
 discovery.feedback.	900	in	ns	e.nic.feedback.
 discovery.feedback.	900	in	ns	f.nic.feedback.
 discreet.feedback.	900	in	ns	e.nic.feedback.
@@ -7745,14 +7723,12 @@ dmexco.feedback.	900	in	ns	e.nic.feedback.
 dmexco.feedback.	900	in	ns	f.nic.feedback.
 dn.feedback.	900	in	ns	e.nic.feedback.
 dn.feedback.	900	in	ns	f.nic.feedback.
-dn6r66dv6vkmp9gd1u3br4kr7f6p287m.feedback.	300	in	nsec3	1 1 0 - DSGFHVRVU7F4U7VVHIH44COQROBNUFJ0 NS DS RRSIG
-dn6r66dv6vkmp9gd1u3br4kr7f6p287m.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. PIBLL9BNJS0WCb1MPDj6dpgnzu01VyUnf24LsFgOSkqpXZBUny12lSRuYyq0saRfS00n3Aa4VwIeWp7KP7LMVQ==
+dn6r66dv6vkmp9gd1u3br4kr7f6p287m.feedback.	300	in	nsec3	1 1 0 - E37BM8DNJ4SRA9P6LK4JHBDFRKCCDBAM NS DS RRSIG
+dn6r66dv6vkmp9gd1u3br4kr7f6p287m.feedback.	300	in	rrsig	NSEC3 13 2 300 20251021052802 20250921111514 50017 feedback. 1cQtYkgxXacLlz7a4t2D0wva9Fub5bk5ne9tDgzJrpDypuwq/F9JBV/3C7XnJeSW8RyO60t/xy7niTsv/rOOSQ==
 dna.feedback.	900	in	ns	e.nic.feedback.
 dna.feedback.	900	in	ns	f.nic.feedback.
 dnatesting.feedback.	900	in	ns	e.nic.feedback.
 dnatesting.feedback.	900	in	ns	f.nic.feedback.
-dnvvs.feedback.	900	in	ns	ns1.dyna-ns.net.
-dnvvs.feedback.	900	in	ns	ns2.dyna-ns.net.
 do.feedback.	900	in	ns	e.nic.feedback.
 do.feedback.	900	in	ns	f.nic.feedback.
 doc.feedback.	900	in	ns	e.nic.feedback.
@@ -8096,8 +8072,6 @@ ds.feedback.	900	in	ns	e.nic.feedback.
 ds.feedback.	900	in	ns	f.nic.feedback.
 dsdomination.feedback.	900	in	ns	e.nic.feedback.
 dsdomination.feedback.	900	in	ns	f.nic.feedback.
-dsgfhvrvu7f4u7vvhih44coqrobnufj0.feedback.	300	in	nsec3	1 1 0 - E37BM8DNJ4SRA9P6LK4JHBDFRKCCDBAM NS DS RRSIG
-dsgfhvrvu7f4u7vvhih44coqrobnufj0.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. 6yCRIAurzTn0/FObtLxkb8iU2Gt1f9ydpNEemQ6DhK/YC1sC05hvESmjDEWkj3hAbyk12EQLqvgD2RsS1xLLvg==
 dslr.feedback.	900	in	ns	e.nic.feedback.
 dslr.feedback.	900	in	ns	f.nic.feedback.
 dslrcamera.feedback.	900	in	ns	e.nic.feedback.
@@ -8194,7 +8168,6 @@ dzghjc.feedback.	900	in	ns	ns1.dns.com.
 dzghjc.feedback.	900	in	ns	ns2.dns.com.
 e.feedback.	900	in	ns	e.nic.feedback.
 e.feedback.	900	in	ns	f.nic.feedback.
-e.nic.feedback.	900	in	a	216.176.180.10
 e0.feedback.	900	in	ns	e.nic.feedback.
 e0.feedback.	900	in	ns	f.nic.feedback.
 e1.feedback.	900	in	ns	e.nic.feedback.
@@ -8204,7 +8177,7 @@ e2.feedback.	900	in	ns	f.nic.feedback.
 e3.feedback.	900	in	ns	e.nic.feedback.
 e3.feedback.	900	in	ns	f.nic.feedback.
 e37bm8dnj4sra9p6lk4jhbdfrkccdbam.feedback.	300	in	nsec3	1 1 0 - EA4A7KBNQQS26S2FT81GOR15059S8STV NS DS RRSIG
-e37bm8dnj4sra9p6lk4jhbdfrkccdbam.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. h+J/QFcXm3zIMfOZLLNDLapr9kWLIMFlPM8XzXIp8Ye8cz62KY74IQrlK9V7lv9ekJaoduyTVyWJ68lVaortlg==
+e37bm8dnj4sra9p6lk4jhbdfrkccdbam.feedback.	300	in	rrsig	NSEC3 13 2 300 20251010204221 20250912155742 50017 feedback. 753NCAP5pcqPLQ7fkg9CdyaMw3wTXHbgnTwr3jXcpLG0SIEeblF7/7gisvLeV8nb2tuCyv/IOuqr6udtKPQygw==
 e4.feedback.	900	in	ns	e.nic.feedback.
 e4.feedback.	900	in	ns	f.nic.feedback.
 e5.feedback.	900	in	ns	e.nic.feedback.
@@ -8221,8 +8194,8 @@ ea.feedback.	900	in	ns	e.nic.feedback.
 ea.feedback.	900	in	ns	f.nic.feedback.
 ea101.feedback.	900	in	ns	kay.ns.cloudflare.com.
 ea101.feedback.	900	in	ns	matt.ns.cloudflare.com.
-ea4a7kbnqqs26s2ft81gor15059s8stv.feedback.	300	in	nsec3	1 1 0 - EK3EVCKQ399LP9CF1MOK9B739ME78A26 NS DS RRSIG
-ea4a7kbnqqs26s2ft81gor15059s8stv.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. ZVUxIweNZuMqa9OtPQ+EQIeTKSVaiB/8QOMf/+DUJppVWqB58DCo38lEtZs9ZiPlT7h1BMb1IoKIeBH3206TPA==
+ea4a7kbnqqs26s2ft81gor15059s8stv.feedback.	300	in	nsec3	1 1 0 - F26PF562N07UAJCNTUF9SIBME96OOP2K NS DS RRSIG
+ea4a7kbnqqs26s2ft81gor15059s8stv.feedback.	300	in	rrsig	NSEC3 13 2 300 20251024153314 20250926074012 50017 feedback. L1OtfhBPxhPXs/owQvXN26b/TeGJZX8mPOiMOuAdBKAE85deLqU/qz3gZzfx4eXVZo0b+IKU0s9vJWoX/xAijA==
 each.feedback.	900	in	ns	e.nic.feedback.
 each.feedback.	900	in	ns	f.nic.feedback.
 eagle.feedback.	900	in	ns	e.nic.feedback.
@@ -8471,22 +8444,20 @@ ee.feedback.	900	in	ns	e.nic.feedback.
 ee.feedback.	900	in	ns	f.nic.feedback.
 ee101.feedback.	900	in	ns	kay.ns.cloudflare.com.
 ee101.feedback.	900	in	ns	matt.ns.cloudflare.com.
-ee88.feedback.	900	in	ns	dns101.registrar-servers.com.
-ee88.feedback.	900	in	ns	dns102.registrar-servers.com.
 ee885.feedback.	900	in	ns	dns101.registrar-servers.com.
 ee885.feedback.	900	in	ns	dns102.registrar-servers.com.
 ee88a.feedback.	900	in	ds	53103 13 2 C183C75CCCA73586D7A7F9D6F542B3E33C4207966EF77E588A7FE80192A1EA16
 ee88a.feedback.	900	in	ns	launch1.spaceship.net.
 ee88a.feedback.	900	in	ns	launch2.spaceship.net.
-ee88a.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. L/H9jTyQXu8kkJPW2gYeJF4GvkJJCDn+GsWLJ3BX2PPSKYIfLdF8LErhURyzPrTxpcx5lQiNqr1OeQ8/wCz5gA==
+ee88a.feedback.	900	in	rrsig	DS 13 2 900 20251011172613 20250912155742 50017 feedback. rWv5fOddddPKLUlSiE/ItC99boxDGZPfN8b8RnKrDdhRPa4SgddpJYdq1XAlnn7jJGxcGOGG5gwnyuBft1Kskg==
 ee88b.feedback.	900	in	ns	dns101.registrar-servers.com.
 ee88b.feedback.	900	in	ns	dns102.registrar-servers.com.
 ee88c.feedback.	900	in	ns	dns101.registrar-servers.com.
 ee88c.feedback.	900	in	ns	dns102.registrar-servers.com.
-ee88d.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-ee88d.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
-ee88e.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-ee88e.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
+ee88d.feedback.	900	in	ns	dns101.registrar-servers.com.
+ee88d.feedback.	900	in	ns	dns102.registrar-servers.com.
+ee88e.feedback.	900	in	ns	dns101.registrar-servers.com.
+ee88e.feedback.	900	in	ns	dns102.registrar-servers.com.
 ef.feedback.	900	in	ns	e.nic.feedback.
 ef.feedback.	900	in	ns	f.nic.feedback.
 ef101.feedback.	900	in	ns	kay.ns.cloudflare.com.
@@ -8521,20 +8492,12 @@ eh.feedback.	900	in	ns	e.nic.feedback.
 eh.feedback.	900	in	ns	f.nic.feedback.
 ehealth.feedback.	900	in	ns	e.nic.feedback.
 ehealth.feedback.	900	in	ns	f.nic.feedback.
-ehgrpn.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-ehgrpn.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-ehgrpn.feedback.	900	in	ns	maceio.ns.porkbun.com.
-ehgrpn.feedback.	900	in	ns	salvador.ns.porkbun.com.
 ehr.feedback.	900	in	ns	e.nic.feedback.
 ehr.feedback.	900	in	ns	f.nic.feedback.
 ehugs.feedback.	900	in	ns	e.nic.feedback.
 ehugs.feedback.	900	in	ns	f.nic.feedback.
 ei.feedback.	900	in	ns	e.nic.feedback.
 ei.feedback.	900	in	ns	f.nic.feedback.
-eidszh.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-eidszh.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-eidszh.feedback.	900	in	ns	maceio.ns.porkbun.com.
-eidszh.feedback.	900	in	ns	salvador.ns.porkbun.com.
 eileen.feedback.	900	in	ns	e.nic.feedback.
 eileen.feedback.	900	in	ns	f.nic.feedback.
 ein.feedback.	900	in	ns	e.nic.feedback.
@@ -8551,8 +8514,6 @@ ejunkie.feedback.	900	in	ns	e.nic.feedback.
 ejunkie.feedback.	900	in	ns	f.nic.feedback.
 ek.feedback.	900	in	ns	e.nic.feedback.
 ek.feedback.	900	in	ns	f.nic.feedback.
-ek3evckq399lp9cf1mok9b739me78a26.feedback.	300	in	nsec3	1 1 0 - F26PF562N07UAJCNTUF9SIBME96OOP2K NS DS RRSIG
-ek3evckq399lp9cf1mok9b739me78a26.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. ddoFljRECQZIItFWwGrIuzcN3FRL5K1SRf9kzJCVEckFxWgEvU0TR4XBeTrVonq6jxl3X7KcQR/JoevnfRd1pg==
 el.feedback.	900	in	ns	e.nic.feedback.
 el.feedback.	900	in	ns	f.nic.feedback.
 elaina.feedback.	900	in	ns	e.nic.feedback.
@@ -8886,10 +8847,6 @@ engagement.feedback.	900	in	ns	e.nic.feedback.
 engagement.feedback.	900	in	ns	f.nic.feedback.
 engagerocket.feedback.	900	in	ns	e.nic.feedback.
 engagerocket.feedback.	900	in	ns	f.nic.feedback.
-engcoj.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-engcoj.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-engcoj.feedback.	900	in	ns	maceio.ns.porkbun.com.
-engcoj.feedback.	900	in	ns	salvador.ns.porkbun.com.
 engine.feedback.	900	in	ns	e.nic.feedback.
 engine.feedback.	900	in	ns	f.nic.feedback.
 engineers.feedback.	900	in	ns	e.nic.feedback.
@@ -9438,7 +9395,6 @@ ezy.feedback.	900	in	ns	e.nic.feedback.
 ezy.feedback.	900	in	ns	f.nic.feedback.
 f.feedback.	900	in	ns	e.nic.feedback.
 f.feedback.	900	in	ns	f.nic.feedback.
-f.nic.feedback.	900	in	a	192.48.85.146
 f0.feedback.	900	in	ns	e.nic.feedback.
 f0.feedback.	900	in	ns	f.nic.feedback.
 f150.feedback.	900	in	ns	e.nic.feedback.
@@ -9448,7 +9404,7 @@ f168.feedback.	900	in	ns	teagan.ns.cloudflare.com.
 f2.feedback.	900	in	ns	e.nic.feedback.
 f2.feedback.	900	in	ns	f.nic.feedback.
 f26pf562n07uajcntuf9sibme96oop2k.feedback.	300	in	nsec3	1 1 0 - GC4J0D8ISFPCJF8157R9M4NTFEFA6MD1 NS DS RRSIG
-f26pf562n07uajcntuf9sibme96oop2k.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. Z7ooPOVdnEIM1e+7t/B655jR/wGmqrGgAkAvVqiMklc1t+POUpS8hVteA/rMQ84HLtC6LgKm4w0caVSC4Oc32A==
+f26pf562n07uajcntuf9sibme96oop2k.feedback.	300	in	rrsig	NSEC3 13 2 300 20251011151227 20250912155742 50017 feedback. 3a0bU9Ew+y6AJp0e9azso8MaKERJCoapQaTeAs2/S8RaxFKDnDiYwdp58dF/K11wivvt7l/US6zTFx6BhWD6Yg==
 f3.feedback.	900	in	ns	e.nic.feedback.
 f3.feedback.	900	in	ns	f.nic.feedback.
 f4.feedback.	900	in	ns	e.nic.feedback.
@@ -9585,8 +9541,6 @@ faq.feedback.	900	in	ns	e.nic.feedback.
 faq.feedback.	900	in	ns	f.nic.feedback.
 farah.feedback.	900	in	ns	e.nic.feedback.
 farah.feedback.	900	in	ns	f.nic.feedback.
-farcaster.feedback.	900	in	ns	dns101.registrar-servers.com.
-farcaster.feedback.	900	in	ns	dns102.registrar-servers.com.
 fare.feedback.	900	in	ns	e.nic.feedback.
 fare.feedback.	900	in	ns	f.nic.feedback.
 farinfrared.feedback.	900	in	ns	e.nic.feedback.
@@ -9667,10 +9621,6 @@ fbxtab.feedback.	900	in	ns	e.nic.feedback.
 fbxtab.feedback.	900	in	ns	f.nic.feedback.
 fc.feedback.	900	in	ns	e.nic.feedback.
 fc.feedback.	900	in	ns	f.nic.feedback.
-fcupa.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-fcupa.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-fcupa.feedback.	900	in	ns	maceio.ns.porkbun.com.
-fcupa.feedback.	900	in	ns	salvador.ns.porkbun.com.
 fd.feedback.	900	in	ns	e.nic.feedback.
 fd.feedback.	900	in	ns	f.nic.feedback.
 fe.feedback.	900	in	ns	e.nic.feedback.
@@ -9692,21 +9642,21 @@ fedrok.feedback.	900	in	ns	dns2.registrar-servers.com.
 feed.feedback.	900	in	ns	e.nic.feedback.
 feed.feedback.	900	in	ns	f.nic.feedback.
 feedback.	0	in	nsec3param	1 0 0 -
-feedback.	0	in	rrsig	NSEC3PARAM 13 1 0 20251012001025 20250912001025 50017 feedback. 4GCfoNR0Nw9XZKx0l3hBru5f0p1gRKIND77MbUNEMMTEbcJQGruVlOR5mwSuvyXPnwwRgR8suaD5hIk6LMVDyA==
+feedback.	0	in	rrsig	NSEC3PARAM 13 1 0 20251011230727 20250912155742 50017 feedback. 5m6TCx/NSL6m13aHqSenw4bQFVSOV2yhKXYryOZ/sJ3yo3Yji2/RFsOJvBSKkzBZPecsWlGrQ3mhmrOuPWnYpA==
 feedback.	172800	in	ns	ns01.trs-dns.com.
 feedback.	172800	in	ns	ns01.trs-dns.info.
 feedback.	172800	in	ns	ns01.trs-dns.net.
 feedback.	172800	in	ns	ns01.trs-dns.org.
-feedback.	172800	in	rrsig	NS 13 1 172800 20251012001025 20250912001025 50017 feedback. Kh7MKLN38ixCy3YzBNS1JGltm0EgB1icJEU35bb0QR0L/M9ZP9qVr6m9iCnfDaLNw+dfMglLjBGH0up1c3dWng==
-feedback.	86400	in	dnskey	256 3 13 uJUVg1egsj9m9RI+s8LAyxqBSf52qNh0q/oM+TpI5AdyAvoWCl9fRnQFi34DvKRUTHX1h1QxCAb5OzmMBYAa6Q==
-feedback.	86400	in	dnskey	257 3 13 Q2NWaLClyBZSTLHvwKLzRgPPwjEIqSr8XGg5tegj/EX3WYmaTnnKsa2zV5Aktf2FsjAx4TE4oi9mijNN/CPQCA==
-feedback.	86400	in	rrsig	DNSKEY 13 1 86400 20251012001025 20250912001025 50017 feedback. bEGpbxXT16kxvjRQ9a+VRYf4DOncPRDLFMZ7cx/y4Z9ylI7++CmxSBrLqv32IedG0DgzYS0wOtZ+ez2mt55bCA==
-feedback.	86400	in	rrsig	DNSKEY 13 1 86400 20251012001025 20250912001025 8710 feedback. bWe2WAq7Wyl3omvP74o8EQswPL1V5VrEHeTtaQL8QrYSdlaEOLSij9QY/puDwxh6SNhWzqpqrF/BWDYg7n5+VQ==
-feedback.	86400	in	rrsig	SOA 13 1 86400 20251012001025 20250912001025 50017 feedback. fc5Z/UIITlAj7LgfhftIGXHXmI57lCxFn4a7Oi3iRN+cufvs4+pTqzHJMXAiD6zKR2wXwtcsmakF56+i1ncy7A==
+feedback.	172800	in	rrsig	NS 13 1 172800 20251010220212 20250912155742 50017 feedback. hV4Nkq8FsJ/fNHtqxJGI6KlptEvU0L9mna19H9RrEmuTY62trrL/Cg/y7TDxkcAgblDv5WwvrjFACXvz1z8b5g==
+feedback.	300	in	dnskey	256 3 13 uJUVg1egsj9m9RI+s8LAyxqBSf52qNh0q/oM+TpI5AdyAvoWCl9fRnQFi34DvKRUTHX1h1QxCAb5OzmMBYAa6Q==
+feedback.	300	in	dnskey	257 3 13 Q2NWaLClyBZSTLHvwKLzRgPPwjEIqSr8XGg5tegj/EX3WYmaTnnKsa2zV5Aktf2FsjAx4TE4oi9mijNN/CPQCA==
+feedback.	300	in	rrsig	DNSKEY 13 1 300 20251010200831 20250912155742 50017 feedback. /EID5+DwCAJGsmpd8RfltWh39U7w/T/ZImJfFNRFbdxVx0/aH9TQwRYQbRXe6kNG+OsmKj/KMLsBAM/JcteQbg==
+feedback.	300	in	rrsig	DNSKEY 13 1 300 20251011155327 20250912155742 8710 feedback. K/wUztvOsVewpOa8zIVG6jHl4xAqkOWQ7zKdDsYP6xEtcwA+uyozVLzzeZFeiUb3AJ7v4jyc6zFDs9C2lQSVSg==
+feedback.	300	in	rrsig	SOA 13 1 300 20251030044348 20251002001017 50017 feedback. duc5cZdtgNLa/V6y3Bjn9Ua6vHk+tzaplZz59xcrm5z9oDOYLMb4cPhiD7VSNJagg7cpETjKr/eapobyLeFiXg==
 feeding.feedback.	900	in	ns	e.nic.feedback.
 feeding.feedback.	900	in	ns	f.nic.feedback.
-feedly.feedback.	900	in	ns	dns1.namecheaphosting.com.
-feedly.feedback.	900	in	ns	dns2.namecheaphosting.com.
+feedly.feedback.	900	in	ns	dns101.registrar-servers.com.
+feedly.feedback.	900	in	ns	dns102.registrar-servers.com.
 feedy.feedback.	900	in	ns	curitiba.ns.porkbun.com.
 feedy.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
 feedy.feedback.	900	in	ns	maceio.ns.porkbun.com.
@@ -9776,7 +9726,7 @@ festival.feedback.	900	in	ns	f.nic.feedback.
 festo.feedback.	900	in	ds	39691 13 2 92B2A7C61AF834F8780D9DA64982F356BFCC08CF23501ED41C3790055A192A82
 festo.feedback.	900	in	ns	ns0.atvirtual.com.
 festo.feedback.	900	in	ns	ns1.atvirtual.com.
-festo.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. xBoJa9VO2fWATmDtykI1UJdkL7u/Xs4ZJASGfb2X253Nkx4c94lzY/kbNLjbnYYVLSjxCQN8BpEu9zu/MnLazg==
+festo.feedback.	900	in	rrsig	DS 13 2 900 20251011195517 20250912155742 50017 feedback. pFMM05oQQsVKCOKMZm6OLtKeIEEOoA/aYTRYJkggrZLzQHoBKOcZ38+UO2HLKQQ2CFklXMfUkmca2WnI7HyYcw==
 fetch.feedback.	900	in	ns	e.nic.feedback.
 fetch.feedback.	900	in	ns	f.nic.feedback.
 fetish.feedback.	900	in	ns	e.nic.feedback.
@@ -9957,8 +9907,14 @@ fitnesstraining.feedback.	900	in	ns	e.nic.feedback.
 fitnesstraining.feedback.	900	in	ns	f.nic.feedback.
 fitnessworker.feedback.	900	in	ns	e.nic.feedback.
 fitnessworker.feedback.	900	in	ns	f.nic.feedback.
+fitpass.feedback.	900	in	ns	ns-130.awsdns-16.com.
+fitpass.feedback.	900	in	ns	ns-1472.awsdns-56.org.
+fitpass.feedback.	900	in	ns	ns-1915.awsdns-47.co.uk.
+fitpass.feedback.	900	in	ns	ns-866.awsdns-44.net.
 five.feedback.	900	in	ns	e.nic.feedback.
 five.feedback.	900	in	ns	f.nic.feedback.
+five88.feedback.	900	in	ns	celine.ns.cloudflare.com.
+five88.feedback.	900	in	ns	ivan.ns.cloudflare.com.
 fiveminute.feedback.	900	in	ns	e.nic.feedback.
 fiveminute.feedback.	900	in	ns	f.nic.feedback.
 fiverr.feedback.	900	in	ns	e.nic.feedback.
@@ -10275,10 +10231,6 @@ foxy.feedback.	900	in	ns	e.nic.feedback.
 foxy.feedback.	900	in	ns	f.nic.feedback.
 fp.feedback.	900	in	ns	e.nic.feedback.
 fp.feedback.	900	in	ns	f.nic.feedback.
-fpsob.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-fpsob.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-fpsob.feedback.	900	in	ns	maceio.ns.porkbun.com.
-fpsob.feedback.	900	in	ns	salvador.ns.porkbun.com.
 fq.feedback.	900	in	ns	e.nic.feedback.
 fq.feedback.	900	in	ns	f.nic.feedback.
 fr.feedback.	900	in	ns	e.nic.feedback.
@@ -10529,8 +10481,8 @@ funeralhome.feedback.	900	in	ns	e.nic.feedback.
 funeralhome.feedback.	900	in	ns	f.nic.feedback.
 funeralhomes.feedback.	900	in	ns	e.nic.feedback.
 funeralhomes.feedback.	900	in	ns	f.nic.feedback.
-funhouse.feedback.	900	in	ns	e.nic.feedback.
-funhouse.feedback.	900	in	ns	f.nic.feedback.
+funhouse.feedback.	900	in	ns	ns1.ibspark.com.
+funhouse.feedback.	900	in	ns	ns2.ibspark.com.
 funky.feedback.	900	in	ns	e.nic.feedback.
 funky.feedback.	900	in	ns	f.nic.feedback.
 funny.feedback.	900	in	ns	e.nic.feedback.
@@ -10627,14 +10579,10 @@ gambling.feedback.	900	in	ns	e.nic.feedback.
 gambling.feedback.	900	in	ns	f.nic.feedback.
 gameapp.feedback.	900	in	ns	e.nic.feedback.
 gameapp.feedback.	900	in	ns	f.nic.feedback.
-gamebaidoithuong.feedback.	900	in	ns	dns101.registrar-servers.com.
-gamebaidoithuong.feedback.	900	in	ns	dns102.registrar-servers.com.
 gamecamera.feedback.	900	in	ns	e.nic.feedback.
 gamecamera.feedback.	900	in	ns	f.nic.feedback.
 gameconsole.feedback.	900	in	ns	e.nic.feedback.
 gameconsole.feedback.	900	in	ns	f.nic.feedback.
-gamedoithuong.feedback.	900	in	ns	dns101.registrar-servers.com.
-gamedoithuong.feedback.	900	in	ns	dns102.registrar-servers.com.
 gamein.feedback.	900	in	ns	e.nic.feedback.
 gamein.feedback.	900	in	ns	f.nic.feedback.
 gamer.feedback.	900	in	ns	e.nic.feedback.
@@ -10738,11 +10686,7 @@ gb.feedback.	900	in	ns	f.nic.feedback.
 gc.feedback.	900	in	ns	e.nic.feedback.
 gc.feedback.	900	in	ns	f.nic.feedback.
 gc4j0d8isfpcjf8157r9m4ntfefa6md1.feedback.	300	in	nsec3	1 1 0 - H7EK6PI76SJIR6V35BM40PP2I5DFR9EE NS DS RRSIG
-gc4j0d8isfpcjf8157r9m4ntfefa6md1.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. 2RuygwpwLmN7eg7DrWAx34j2yPopwp/bSU/2XgjHwnXJj5AfjFCJVl2v3YKcbRJYLLypdZwjIHjdjRu3B8T1lQ==
-gcuzl.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-gcuzl.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-gcuzl.feedback.	900	in	ns	maceio.ns.porkbun.com.
-gcuzl.feedback.	900	in	ns	salvador.ns.porkbun.com.
+gc4j0d8isfpcjf8157r9m4ntfefa6md1.feedback.	300	in	rrsig	NSEC3 13 2 300 20251011081425 20250912155742 50017 feedback. hJfalJZgF0O10A2p5pvnQQKfkKLtovb3+wl71rclcMjS2XYOr7kVv+GmfhzWiVAzf/N6wsbqrXprgdRJm0NQ4w==
 gd.feedback.	900	in	ns	e.nic.feedback.
 gd.feedback.	900	in	ns	f.nic.feedback.
 gdztwq.feedback.	900	in	ns	ns1.dns.com.
@@ -10817,6 +10761,8 @@ gennie.feedback.	900	in	ns	e.nic.feedback.
 gennie.feedback.	900	in	ns	f.nic.feedback.
 genoveva.feedback.	900	in	ns	e.nic.feedback.
 genoveva.feedback.	900	in	ns	f.nic.feedback.
+gensyn.feedback.	900	in	ns	failed-whois-verification.namecheap.com.
+gensyn.feedback.	900	in	ns	verify-contact-details.namecheap.com.
 genuine.feedback.	900	in	ns	e.nic.feedback.
 genuine.feedback.	900	in	ns	f.nic.feedback.
 genuss.feedback.	900	in	ns	pns41.cloudns.net.
@@ -10901,8 +10847,6 @@ geta.feedback.	900	in	ns	e.nic.feedback.
 geta.feedback.	900	in	ns	f.nic.feedback.
 getapp.feedback.	900	in	ns	e.nic.feedback.
 getapp.feedback.	900	in	ns	f.nic.feedback.
-getcustomers.feedback.	900	in	ns	dns101.registrar-servers.com.
-getcustomers.feedback.	900	in	ns	dns102.registrar-servers.com.
 getgreat.feedback.	900	in	ns	e.nic.feedback.
 getgreat.feedback.	900	in	ns	f.nic.feedback.
 getlocal.feedback.	900	in	ns	e.nic.feedback.
@@ -10910,7 +10854,7 @@ getlocal.feedback.	900	in	ns	f.nic.feedback.
 getmore.feedback.	900	in	ds	46295 13 2 C0DC879C67ADEE988ABDB88243D2050C35EB2DC530182CB7675117CC57F4381A
 getmore.feedback.	900	in	ns	launch1.spaceship.net.
 getmore.feedback.	900	in	ns	launch2.spaceship.net.
-getmore.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. EfjI1f6XKxBz3jRUrxzypJDwMBF/Z7qSBD+GWIvwLyciIV1pGvdy/tP8W5GUaSPi7cNR/79a2H6M9TpLObdYXQ==
+getmore.feedback.	900	in	rrsig	DS 13 2 900 20251011055115 20250912155742 50017 feedback. +2HB31tUFbMIrIwP2wtnGRhXtzY2J1wT7bDvuiUXmGqaKU6vuGFw17CpzvU1I8CVvftlIZZxvMXVmWU4Ja8cvg==
 getmy.feedback.	900	in	ns	e.nic.feedback.
 getmy.feedback.	900	in	ns	f.nic.feedback.
 getpaid.feedback.	900	in	ns	e.nic.feedback.
@@ -10966,7 +10910,7 @@ gillian.feedback.	900	in	ns	f.nic.feedback.
 gimme.feedback.	900	in	ds	30901 8 2 F62D103B0845FD8093C8DC1F9F405ECA4D1F4AD2B7DC50EA501DFE9119BF15E3
 gimme.feedback.	900	in	ns	e.nic.feedback.
 gimme.feedback.	900	in	ns	f.nic.feedback.
-gimme.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. 8Y0VJPP9gNvyxclLVOtKgsgbvcqq9NYBdX5g0ZCJ4UGp2Au7s58TXQyh9aoIKvgF3h/L68M/ute0YBPrrHEQEw==
+gimme.feedback.	900	in	rrsig	DS 13 2 900 20251012103417 20250912155742 50017 feedback. jZX5ohwarLYTZe7+O5oA5KpjNwB3nj0kWmYXYBKcYW1dT6ooQSr5JFgCVCdPx+1Yy8lIavGlKAdqWjZ71aE4Ow==
 gin.feedback.	900	in	ns	e.nic.feedback.
 gin.feedback.	900	in	ns	f.nic.feedback.
 gina.feedback.	900	in	ns	e.nic.feedback.
@@ -11095,10 +11039,6 @@ gm.feedback.	900	in	ns	e.nic.feedback.
 gm.feedback.	900	in	ns	f.nic.feedback.
 gmat.feedback.	900	in	ns	e.nic.feedback.
 gmat.feedback.	900	in	ns	f.nic.feedback.
-gmozxs.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-gmozxs.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-gmozxs.feedback.	900	in	ns	maceio.ns.porkbun.com.
-gmozxs.feedback.	900	in	ns	salvador.ns.porkbun.com.
 gn.feedback.	900	in	ns	e.nic.feedback.
 gn.feedback.	900	in	ns	f.nic.feedback.
 gnnsl.feedback.	900	in	ns	ns7.alidns.com.
@@ -11108,7 +11048,7 @@ go.feedback.	900	in	ns	f.nic.feedback.
 go99.feedback.	900	in	ds	4403 13 2 58BAD283647033E1AD971DB88424E502D4B6585C368A2B9F47EFF8D93084CBA8
 go99.feedback.	900	in	ns	launch1.spaceship.net.
 go99.feedback.	900	in	ns	launch2.spaceship.net.
-go99.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. ivMJDEUd3puYybdr8+2pfHz7w3FhooYTR8sONBVhiw9f3iJQoR7YC6EH+7ITaGja0s+MIT9XsCMd6Q91amVJCg==
+go99.feedback.	900	in	rrsig	DS 13 2 900 20251010235036 20250912155742 50017 feedback. RyIjqP3Rdm4vUC1IQ72Cse8gL2SjNqEu8r3d60mvovoRw5pfbkb1F1NpBOAlOEr4z/8skksgHtrDqklGElkobA==
 goa.feedback.	900	in	ns	e.nic.feedback.
 goa.feedback.	900	in	ns	f.nic.feedback.
 goal.feedback.	900	in	ns	e.nic.feedback.
@@ -11514,14 +11454,8 @@ gynecology.feedback.	900	in	ns	e.nic.feedback.
 gynecology.feedback.	900	in	ns	f.nic.feedback.
 gynexin.feedback.	900	in	ns	e.nic.feedback.
 gynexin.feedback.	900	in	ns	f.nic.feedback.
-gyqaze.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-gyqaze.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-gyqaze.feedback.	900	in	ns	maceio.ns.porkbun.com.
-gyqaze.feedback.	900	in	ns	salvador.ns.porkbun.com.
 gz.feedback.	900	in	ns	e.nic.feedback.
 gz.feedback.	900	in	ns	f.nic.feedback.
-gzxfu.feedback.	900	in	ns	ns1.dyna-ns.net.
-gzxfu.feedback.	900	in	ns	ns2.dyna-ns.net.
 h.feedback.	900	in	ns	e.nic.feedback.
 h.feedback.	900	in	ns	f.nic.feedback.
 h0.feedback.	900	in	ns	e.nic.feedback.
@@ -11541,7 +11475,7 @@ h6.feedback.	900	in	ns	f.nic.feedback.
 h7.feedback.	900	in	ns	e.nic.feedback.
 h7.feedback.	900	in	ns	f.nic.feedback.
 h7ek6pi76sjir6v35bm40pp2i5dfr9ee.feedback.	300	in	nsec3	1 1 0 - JFFPFQLI6HQHDPLNAPG1RHCOVFULHH9G NS DS RRSIG
-h7ek6pi76sjir6v35bm40pp2i5dfr9ee.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. 9Zsuc4+L2ztPSQ7cU3wJRGpwtGLp8dQLtWbkel6hE+S0ow0W0jGccIeTVTV6nk3bNWMeckq8FZ6EZx4v8ptpvw==
+h7ek6pi76sjir6v35bm40pp2i5dfr9ee.feedback.	300	in	rrsig	NSEC3 13 2 300 20251011005511 20250912155742 50017 feedback. 7cWi8FL/14Bho0x01gIpd8OzXibrbCL3CtGqlUMLd+UaSR3FLLIzv/FkOhRCnMFKb8VkARd41SQw+HMxlwLm8A==
 h8.feedback.	900	in	ns	e.nic.feedback.
 h8.feedback.	900	in	ns	f.nic.feedback.
 h9.feedback.	900	in	ns	e.nic.feedback.
@@ -11603,7 +11537,7 @@ halloween.feedback.	900	in	ns	f.nic.feedback.
 hamburg.feedback.	900	in	ds	34052 13 2 C8E53679F14D16B355A64C0EDF7831CD9A27CDEF2B95C8C2295876AEDFA19B62
 hamburg.feedback.	900	in	ns	launch1.spaceship.net.
 hamburg.feedback.	900	in	ns	launch2.spaceship.net.
-hamburg.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. mKHmpxto6v2fyEYtXKi5FYwZea3qHA5NcH2DB+i9y3qC485yuMxSkv2+y2cucYnxUa/++bI8RQ1IV14vmkai3Q==
+hamburg.feedback.	900	in	rrsig	DS 13 2 900 20251012050223 20250912155742 50017 feedback. my55JabXU4McQJnIwPE4KxNEWaRHV0hgDauFOlIAGIqk+f4BMpv5byLJRPgsV46T7w4KvrMgcW49Duvkx/MRbQ==
 hammer.feedback.	900	in	ns	e.nic.feedback.
 hammer.feedback.	900	in	ns	f.nic.feedback.
 hammerdrill.feedback.	900	in	ns	e.nic.feedback.
@@ -11752,8 +11686,6 @@ hb.feedback.	900	in	ns	e.nic.feedback.
 hb.feedback.	900	in	ns	f.nic.feedback.
 hb88.feedback.	900	in	ns	dns101.registrar-servers.com.
 hb88.feedback.	900	in	ns	dns102.registrar-servers.com.
-hbpdca.feedback.	900	in	ns	ns1.dyna-ns.net.
-hbpdca.feedback.	900	in	ns	ns2.dyna-ns.net.
 hbzefg.feedback.	900	in	ns	ns1.dns.com.
 hbzefg.feedback.	900	in	ns	ns2.dns.com.
 hc.feedback.	900	in	ns	e.nic.feedback.
@@ -12098,10 +12030,6 @@ hm.feedback.	900	in	ns	e.nic.feedback.
 hm.feedback.	900	in	ns	f.nic.feedback.
 hn.feedback.	900	in	ns	e.nic.feedback.
 hn.feedback.	900	in	ns	f.nic.feedback.
-hnkxjy.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-hnkxjy.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-hnkxjy.feedback.	900	in	ns	maceio.ns.porkbun.com.
-hnkxjy.feedback.	900	in	ns	salvador.ns.porkbun.com.
 ho.feedback.	900	in	ns	e.nic.feedback.
 ho.feedback.	900	in	ns	f.nic.feedback.
 hoa.feedback.	900	in	ns	e.nic.feedback.
@@ -12112,10 +12040,6 @@ hobert.feedback.	900	in	ns	e.nic.feedback.
 hobert.feedback.	900	in	ns	f.nic.feedback.
 hoistoperators.feedback.	900	in	ns	e.nic.feedback.
 hoistoperators.feedback.	900	in	ns	f.nic.feedback.
-hojdkz.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-hojdkz.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-hojdkz.feedback.	900	in	ns	maceio.ns.porkbun.com.
-hojdkz.feedback.	900	in	ns	salvador.ns.porkbun.com.
 hola.feedback.	900	in	ns	e.nic.feedback.
 hola.feedback.	900	in	ns	f.nic.feedback.
 holidaydecor.feedback.	900	in	ns	e.nic.feedback.
@@ -12399,10 +12323,6 @@ hq.feedback.	900	in	ns	e.nic.feedback.
 hq.feedback.	900	in	ns	f.nic.feedback.
 hr.feedback.	900	in	ns	e.nic.feedback.
 hr.feedback.	900	in	ns	f.nic.feedback.
-hrebsa.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-hrebsa.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-hrebsa.feedback.	900	in	ns	maceio.ns.porkbun.com.
-hrebsa.feedback.	900	in	ns	salvador.ns.porkbun.com.
 hrgeneralist.feedback.	900	in	ns	e.nic.feedback.
 hrgeneralist.feedback.	900	in	ns	f.nic.feedback.
 hrm.feedback.	900	in	ns	e.nic.feedback.
@@ -12463,6 +12383,9 @@ humidifier.feedback.	900	in	ns	e.nic.feedback.
 humidifier.feedback.	900	in	ns	f.nic.feedback.
 humorous.feedback.	900	in	ns	dns1.registrar-servers.com.
 humorous.feedback.	900	in	ns	dns2.registrar-servers.com.
+humybase.feedback.	900	in	ns	helium.ns.hetzner.de.
+humybase.feedback.	900	in	ns	hydrogen.ns.hetzner.com.
+humybase.feedback.	900	in	ns	oxygen.ns.hetzner.com.
 hung.feedback.	900	in	ns	e.nic.feedback.
 hung.feedback.	900	in	ns	f.nic.feedback.
 hunk.feedback.	900	in	ns	e.nic.feedback.
@@ -12531,10 +12454,6 @@ hypnotherapy.feedback.	900	in	ns	e.nic.feedback.
 hypnotherapy.feedback.	900	in	ns	f.nic.feedback.
 hypnotic.feedback.	900	in	ns	e.nic.feedback.
 hypnotic.feedback.	900	in	ns	f.nic.feedback.
-hytjkl.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-hytjkl.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-hytjkl.feedback.	900	in	ns	maceio.ns.porkbun.com.
-hytjkl.feedback.	900	in	ns	salvador.ns.porkbun.com.
 hyun.feedback.	900	in	ns	e.nic.feedback.
 hyun.feedback.	900	in	ns	f.nic.feedback.
 hyundai.feedback.	900	in	ns	e.nic.feedback.
@@ -12565,12 +12484,10 @@ i8.feedback.	900	in	ns	e.nic.feedback.
 i8.feedback.	900	in	ns	f.nic.feedback.
 i9.feedback.	900	in	ns	e.nic.feedback.
 i9.feedback.	900	in	ns	f.nic.feedback.
-i9bet.feedback.	900	in	ns	dns101.registrar-servers.com.
-i9bet.feedback.	900	in	ns	dns102.registrar-servers.com.
 i9bet1.feedback.	900	in	ds	49933 13 2 D384A245EFC082C6D9C44E5367D8D2BAC335B2BAE0BEEDD6E31587CCEA236EE4
 i9bet1.feedback.	900	in	ns	launch1.spaceship.net.
 i9bet1.feedback.	900	in	ns	launch2.spaceship.net.
-i9bet1.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. TMaxQRpEo94j09dibnesPDvZkSOTqx4e6PBPvpyfcv7wE5AK69W8Gr7DllbHanf3i9IRoRHytx3VAy0HDilltA==
+i9bet1.feedback.	900	in	rrsig	DS 13 2 900 20251012090657 20250912155742 50017 feedback. CB83i6pzLy+o+LTo8TCE8vIMCYgRJTuCrjcAd8Vt3ms19loqCITxgDcmTdKtKlQbswcnxZQnU51LY2KrioHC9g==
 ia.feedback.	900	in	ns	e.nic.feedback.
 ia.feedback.	900	in	ns	f.nic.feedback.
 iam.feedback.	900	in	ns	dns1.registrar-servers.com.
@@ -12651,10 +12568,6 @@ ids.feedback.	900	in	ns	e.nic.feedback.
 ids.feedback.	900	in	ns	f.nic.feedback.
 ie.feedback.	900	in	ns	e.nic.feedback.
 ie.feedback.	900	in	ns	f.nic.feedback.
-ieoyrm.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-ieoyrm.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-ieoyrm.feedback.	900	in	ns	maceio.ns.porkbun.com.
-ieoyrm.feedback.	900	in	ns	salvador.ns.porkbun.com.
 iesha.feedback.	900	in	ns	e.nic.feedback.
 iesha.feedback.	900	in	ns	f.nic.feedback.
 if.feedback.	900	in	ns	e.nic.feedback.
@@ -13215,10 +13128,6 @@ ira.feedback.	900	in	ns	e.nic.feedback.
 ira.feedback.	900	in	ns	f.nic.feedback.
 iragold.feedback.	900	in	ns	e.nic.feedback.
 iragold.feedback.	900	in	ns	f.nic.feedback.
-irdhcu.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-irdhcu.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-irdhcu.feedback.	900	in	ns	maceio.ns.porkbun.com.
-irdhcu.feedback.	900	in	ns	salvador.ns.porkbun.com.
 irene.feedback.	900	in	ns	e.nic.feedback.
 irene.feedback.	900	in	ns	f.nic.feedback.
 irexis.feedback.	900	in	ns	e.nic.feedback.
@@ -13271,10 +13180,6 @@ isela.feedback.	900	in	ns	e.nic.feedback.
 isela.feedback.	900	in	ns	f.nic.feedback.
 ishare.feedback.	900	in	ns	e.nic.feedback.
 ishare.feedback.	900	in	ns	f.nic.feedback.
-ishkzrg.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-ishkzrg.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-ishkzrg.feedback.	900	in	ns	maceio.ns.porkbun.com.
-ishkzrg.feedback.	900	in	ns	salvador.ns.porkbun.com.
 ishop.feedback.	900	in	ns	e.nic.feedback.
 ishop.feedback.	900	in	ns	f.nic.feedback.
 isiah.feedback.	900	in	ns	e.nic.feedback.
@@ -13285,8 +13190,8 @@ isidro.feedback.	900	in	ns	e.nic.feedback.
 isidro.feedback.	900	in	ns	f.nic.feedback.
 isis.feedback.	900	in	ns	e.nic.feedback.
 isis.feedback.	900	in	ns	f.nic.feedback.
-iskr.feedback.	900	in	ns	james.ns.cloudflare.com.
-iskr.feedback.	900	in	ns	sierra.ns.cloudflare.com.
+iskr.feedback.	900	in	ns	dns101.registrar-servers.com.
+iskr.feedback.	900	in	ns	dns102.registrar-servers.com.
 islam.feedback.	900	in	ns	e.nic.feedback.
 islam.feedback.	900	in	ns	f.nic.feedback.
 islamic.feedback.	900	in	ns	e.nic.feedback.
@@ -13381,8 +13286,6 @@ iweb.feedback.	900	in	ns	e.nic.feedback.
 iweb.feedback.	900	in	ns	f.nic.feedback.
 iwill.feedback.	900	in	ns	e.nic.feedback.
 iwill.feedback.	900	in	ns	f.nic.feedback.
-iwin.feedback.	900	in	ns	dns101.registrar-servers.com.
-iwin.feedback.	900	in	ns	dns102.registrar-servers.com.
 iwinclub.feedback.	900	in	ns	adam.ns.cloudflare.com.
 iwinclub.feedback.	900	in	ns	emely.ns.cloudflare.com.
 ix.feedback.	900	in	ns	e.nic.feedback.
@@ -13391,10 +13294,6 @@ iy.feedback.	900	in	ns	e.nic.feedback.
 iy.feedback.	900	in	ns	f.nic.feedback.
 iz.feedback.	900	in	ns	e.nic.feedback.
 iz.feedback.	900	in	ns	f.nic.feedback.
-izuqgz.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-izuqgz.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-izuqgz.feedback.	900	in	ns	maceio.ns.porkbun.com.
-izuqgz.feedback.	900	in	ns	salvador.ns.porkbun.com.
 j.feedback.	900	in	ns	e.nic.feedback.
 j.feedback.	900	in	ns	f.nic.feedback.
 j0.feedback.	900	in	ns	e.nic.feedback.
@@ -13826,7 +13725,7 @@ jews.feedback.	900	in	ns	f.nic.feedback.
 jf.feedback.	900	in	ns	e.nic.feedback.
 jf.feedback.	900	in	ns	f.nic.feedback.
 jffpfqli6hqhdplnapg1rhcovfulhh9g.feedback.	300	in	nsec3	1 1 0 - JJFKKQDI1T65A6RSHDCPBROC2EKEI8RG NS DS RRSIG
-jffpfqli6hqhdplnapg1rhcovfulhh9g.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. 1tZVLjVHqsSaun4RNwtCEtzQraWof6WKlYZ6BUVRYkLFvnHbXzv8dZQ2bWfRPiyUljk8/bGZIZnPFXxrYwGmxA==
+jffpfqli6hqhdplnapg1rhcovfulhh9g.feedback.	300	in	rrsig	NSEC3 13 2 300 20251010205116 20250912155742 50017 feedback. SQQ/AB3cxjeNJRTHiyel8+eIYXS/Pf7VKv7eEe2mPAQiGzsZGAPFx9SlCR5OcvgEkxfAUGLVCYWZYWW04RVWUg==
 jg.feedback.	900	in	ns	e.nic.feedback.
 jg.feedback.	900	in	ns	f.nic.feedback.
 jgwentworth.feedback.	900	in	ns	e.nic.feedback.
@@ -13858,7 +13757,7 @@ jiohotstar.feedback.	900	in	ns	dns2.registrar-servers.com.
 jj.feedback.	900	in	ns	e.nic.feedback.
 jj.feedback.	900	in	ns	f.nic.feedback.
 jjfkkqdi1t65a6rshdcpbroc2ekei8rg.feedback.	300	in	nsec3	1 1 0 - LN95H3F6J5GS5QF6V3RBKALT095CH5F2 NS SOA RRSIG DNSKEY NSEC3PARAM
-jjfkkqdi1t65a6rshdcpbroc2ekei8rg.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. LdFAPXBBbqIUBl/wniCgOAOv7bhe+eZOBiIniyLGmQhL0/bfmrLPDwL+rDokjcPkPGts/MkC8Xp2D+wt9N3CRw==
+jjfkkqdi1t65a6rshdcpbroc2ekei8rg.feedback.	300	in	rrsig	NSEC3 13 2 300 20251029042506 20250930031014 50017 feedback. h7wI7q/nN9bBe7VL44zcHvcTrmQWrv4h5+M3uILuuB3Nwh3gP3tSG9v20UXc9MZMst46kRmawJViOaPiDmHR7g==
 jk.feedback.	900	in	ns	e.nic.feedback.
 jk.feedback.	900	in	ns	f.nic.feedback.
 jl.feedback.	900	in	ns	e.nic.feedback.
@@ -13867,10 +13766,6 @@ jm.feedback.	900	in	ns	e.nic.feedback.
 jm.feedback.	900	in	ns	f.nic.feedback.
 jmmsrm.feedback.	900	in	ns	ns1.dyna-ns.net.
 jmmsrm.feedback.	900	in	ns	ns2.dyna-ns.net.
-jmnqta.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-jmnqta.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-jmnqta.feedback.	900	in	ns	maceio.ns.porkbun.com.
-jmnqta.feedback.	900	in	ns	salvador.ns.porkbun.com.
 jn.feedback.	900	in	ns	e.nic.feedback.
 jn.feedback.	900	in	ns	f.nic.feedback.
 jo.feedback.	900	in	ns	e.nic.feedback.
@@ -14520,8 +14415,8 @@ kenyatta.feedback.	900	in	ns	e.nic.feedback.
 kenyatta.feedback.	900	in	ns	f.nic.feedback.
 kenyetta.feedback.	900	in	ns	e.nic.feedback.
 kenyetta.feedback.	900	in	ns	f.nic.feedback.
-keonhacai.feedback.	900	in	ns	harleigh.ns.cloudflare.com.
-keonhacai.feedback.	900	in	ns	peyton.ns.cloudflare.com.
+keonhacai.feedback.	900	in	ns	dns101.registrar-servers.com.
+keonhacai.feedback.	900	in	ns	dns102.registrar-servers.com.
 kerala.feedback.	900	in	ns	e.nic.feedback.
 kerala.feedback.	900	in	ns	f.nic.feedback.
 keri.feedback.	900	in	ns	e.nic.feedback.
@@ -14570,10 +14465,6 @@ kfefcz.feedback.	900	in	ns	ns1.dns.com.
 kfefcz.feedback.	900	in	ns	ns2.dns.com.
 kg.feedback.	900	in	ns	e.nic.feedback.
 kg.feedback.	900	in	ns	f.nic.feedback.
-kgelf.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-kgelf.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-kgelf.feedback.	900	in	ns	maceio.ns.porkbun.com.
-kgelf.feedback.	900	in	ns	salvador.ns.porkbun.com.
 kh.feedback.	900	in	ns	e.nic.feedback.
 kh.feedback.	900	in	ns	f.nic.feedback.
 ki.feedback.	900	in	ns	e.nic.feedback.
@@ -14710,7 +14601,7 @@ klosters.feedback.	900	in	ns	ns2.glipac.ch.
 klosters.feedback.	900	in	ns	ns3.glipac.ch.
 klosters.feedback.	900	in	ns	ns76.irondns.net.
 klosters.feedback.	900	in	ns	ns78.irondns.net.
-klosters.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. TPz3Ep+9dFKZh1WMx9VtgO82dhbKy4S2m1Jdhd1mM4Cn0hFlSuF4tJFYtVPuXuKCH3+9v9pdXbQGXMqqut9uNQ==
+klosters.feedback.	900	in	rrsig	DS 13 2 900 20251012001619 20250912155742 50017 feedback. dW5V0RsaL2bIRxeesPnUFFeCnt2Pvr4vPoa0WkscpfSYZOQck+BxR2UPJsUifAT/7fHXe5TV+6d2PUZV5xDfUA==
 km.feedback.	900	in	ns	e.nic.feedback.
 km.feedback.	900	in	ns	f.nic.feedback.
 km88.feedback.	900	in	ns	hassan.ns.cloudflare.com.
@@ -14763,10 +14654,6 @@ koutea.feedback.	900	in	ns	e.nic.feedback.
 koutea.feedback.	900	in	ns	f.nic.feedback.
 kp.feedback.	900	in	ns	e.nic.feedback.
 kp.feedback.	900	in	ns	f.nic.feedback.
-kpmeyt.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-kpmeyt.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-kpmeyt.feedback.	900	in	ns	maceio.ns.porkbun.com.
-kpmeyt.feedback.	900	in	ns	salvador.ns.porkbun.com.
 kpmg.feedback.	900	in	ns	ns10.go.kpmg.com.
 kpmg.feedback.	900	in	ns	ns20.go.kpmg.com.
 kpmg.feedback.	900	in	ns	ns30.go.kpmg.com.
@@ -14857,21 +14744,23 @@ kurz.feedback.	900	in	ns	f.nic.feedback.
 kuwin.feedback.	900	in	ds	16055 13 2 3D284F908CBB85F340505304051127C30DC71A5D3FEB296B70CE834A9B7B31F6
 kuwin.feedback.	900	in	ns	launch1.spaceship.net.
 kuwin.feedback.	900	in	ns	launch2.spaceship.net.
-kuwin.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. h1IdEkqLG4OPCvtF/KAi/fkzupsBkoODalqxLhIKfUcKud7C2HxNk6gbyNSRTrqfilhvXMem8ojFpH9L18C96Q==
+kuwin.feedback.	900	in	rrsig	DS 13 2 900 20251011140242 20250912155742 50017 feedback. RdvkBCVXNwMl2sUh7ZLeta7EmQtEBBZXR3/dLkYTCHAdoGHMwgZ9zrHUpRx0tCzLiNN0O9abiSpCRLH0BomFEA==
 kuwin1.feedback.	900	in	ds	11544 13 2 3030377A633EB8CD44BE46C8391CB865700D940AAF058324E9571F58C0ECE705
 kuwin1.feedback.	900	in	ns	launch1.spaceship.net.
 kuwin1.feedback.	900	in	ns	launch2.spaceship.net.
-kuwin1.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. xwKk4gGc7221PW/0bwLJarzrEVVrJZt6rxcm39gKF2vD3hTeC4eBUfHWZINlU3UO68MOw1ffSu8TJNZkkCae+g==
+kuwin1.feedback.	900	in	rrsig	DS 13 2 900 20251011210620 20250912155742 50017 feedback. Gxf4ZFQ4qyptov6UtWCXX7Sp+uNceACqNdyGeMdgOJur7bmv6ZeIt4chn4ZRsERLtMccR4RHxs1n6yz7ndN3Og==
 kuwin2.feedback.	900	in	ns	dns101.registrar-servers.com.
 kuwin2.feedback.	900	in	ns	dns102.registrar-servers.com.
 kuwin3.feedback.	900	in	ns	dns101.registrar-servers.com.
 kuwin3.feedback.	900	in	ns	dns102.registrar-servers.com.
-kuwin4.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-kuwin4.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
-kuwinvv.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-kuwinvv.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
-kuwinz.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-kuwinz.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
+kuwin4.feedback.	900	in	ds	54159 13 2 D3C828783543E1C4944AE234669AE25CA6161931F3DE8930868E726BC9501B88
+kuwin4.feedback.	900	in	ns	launch1.spaceship.net.
+kuwin4.feedback.	900	in	ns	launch2.spaceship.net.
+kuwin4.feedback.	900	in	rrsig	DS 13 2 900 20251026105306 20250928080524 50017 feedback. Mrd21qW+7wL5lAyPLmwwqDTI6g7IuWkTcn7u1Uucn12EMyO8iMDiNkDyxb4keiSX4KW27bhQOxaSclsdKTrXsw==
+kuwinvv.feedback.	900	in	ns	dns101.registrar-servers.com.
+kuwinvv.feedback.	900	in	ns	dns102.registrar-servers.com.
+kuwinz.feedback.	900	in	ns	dns101.registrar-servers.com.
+kuwinz.feedback.	900	in	ns	dns102.registrar-servers.com.
 kv.feedback.	900	in	ns	e.nic.feedback.
 kv.feedback.	900	in	ns	f.nic.feedback.
 kw.feedback.	900	in	ns	e.nic.feedback.
@@ -14983,8 +14872,10 @@ lakisha.feedback.	900	in	ns	e.nic.feedback.
 lakisha.feedback.	900	in	ns	f.nic.feedback.
 lamar.feedback.	900	in	ns	e.nic.feedback.
 lamar.feedback.	900	in	ns	f.nic.feedback.
+lambda.feedback.	900	in	ds	2371 13 2 B96C0AAAECA2062611A7B30F5A6274370D615A169335B809691BA7D7C1786C78
 lambda.feedback.	900	in	ns	joan.ns.cloudflare.com.
 lambda.feedback.	900	in	ns	trey.ns.cloudflare.com.
+lambda.feedback.	900	in	rrsig	DS 13 2 900 20251025224331 20250926104530 50017 feedback. fiJ6dmJldBVNpF95h8JKIJgD3Z/TJQdOoBq6HAD4fpe5fSEIAxDuVbJJc17q9QyOX47E4Tw/l3hREg/M5Ht4/A==
 lamont.feedback.	900	in	ns	e.nic.feedback.
 lamont.feedback.	900	in	ns	f.nic.feedback.
 lamp.feedback.	900	in	ns	e.nic.feedback.
@@ -15009,8 +14900,6 @@ landrealestate.feedback.	900	in	ns	e.nic.feedback.
 landrealestate.feedback.	900	in	ns	f.nic.feedback.
 landrover.feedback.	900	in	ns	e.nic.feedback.
 landrover.feedback.	900	in	ns	f.nic.feedback.
-landsberg.feedback.	900	in	ns	ns1.ibspark.com.
-landsberg.feedback.	900	in	ns	ns2.ibspark.com.
 landscape.feedback.	900	in	ns	e.nic.feedback.
 landscape.feedback.	900	in	ns	f.nic.feedback.
 landscapearchitects.feedback.	900	in	ns	e.nic.feedback.
@@ -15113,10 +15002,6 @@ latestmovie.feedback.	900	in	ns	e.nic.feedback.
 latestmovie.feedback.	900	in	ns	f.nic.feedback.
 latesttech.feedback.	900	in	ns	e.nic.feedback.
 latesttech.feedback.	900	in	ns	f.nic.feedback.
-latgcb.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-latgcb.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-latgcb.feedback.	900	in	ns	maceio.ns.porkbun.com.
-latgcb.feedback.	900	in	ns	salvador.ns.porkbun.com.
 latia.feedback.	900	in	ns	e.nic.feedback.
 latia.feedback.	900	in	ns	f.nic.feedback.
 laticia.feedback.	900	in	ns	e.nic.feedback.
@@ -15353,8 +15238,8 @@ legalservices.feedback.	900	in	ns	e.nic.feedback.
 legalservices.feedback.	900	in	ns	f.nic.feedback.
 legalshield.feedback.	900	in	ns	e.nic.feedback.
 legalshield.feedback.	900	in	ns	f.nic.feedback.
-legalzoom.feedback.	900	in	ns	e.nic.feedback.
-legalzoom.feedback.	900	in	ns	f.nic.feedback.
+legalzoom.feedback.	900	in	ns	ns1.expired.brandsight-dns.com.
+legalzoom.feedback.	900	in	ns	ns2.expired.brandsight-dns.com.
 legendary.feedback.	900	in	ns	e.nic.feedback.
 legendary.feedback.	900	in	ns	f.nic.feedback.
 legislative.feedback.	900	in	ns	e.nic.feedback.
@@ -15458,7 +15343,7 @@ leptin.feedback.	900	in	ns	f.nic.feedback.
 lequangduy.feedback.	900	in	ds	2371 13 2 724C4A4F8C2CB936D86D6C797272A30B3511079D2C11EA3D8CFDFEED035B28E6
 lequangduy.feedback.	900	in	ns	e.nic.feedback.
 lequangduy.feedback.	900	in	ns	f.nic.feedback.
-lequangduy.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. 4cI3c7mNJo/hyvVJd13nAVue4GeZZS/kU3+Pdn5EHb0463OrM5bEeMYSypNQCxW4AG/y2wA4S+56Z+nLwWZdPw==
+lequangduy.feedback.	900	in	rrsig	DS 13 2 900 20251011065851 20250912155742 50017 feedback. A8cHRLC+1eGcM6fhUZjmnWa5h5Z8UBizrhN9MT4mGQ7ZAne/Jo85wCmL+2dfvBb87z9paRdvupshArna/7dhqw==
 lera.feedback.	900	in	ns	e.nic.feedback.
 lera.feedback.	900	in	ns	f.nic.feedback.
 leroy.feedback.	900	in	ns	e.nic.feedback.
@@ -15581,8 +15466,6 @@ lidl.feedback.	900	in	ns	ns1-08.azure-dns.com.
 lidl.feedback.	900	in	ns	ns2-08.azure-dns.net.
 lidl.feedback.	900	in	ns	ns3-08.azure-dns.org.
 lidl.feedback.	900	in	ns	ns4-08.azure-dns.inifo.
-lido.feedback.	900	in	ns	dns101.registrar-servers.com.
-lido.feedback.	900	in	ns	dns102.registrar-servers.com.
 lien.feedback.	900	in	ns	e.nic.feedback.
 lien.feedback.	900	in	ns	f.nic.feedback.
 lifecell.feedback.	900	in	ns	e.nic.feedback.
@@ -15795,18 +15678,12 @@ lizzie.feedback.	900	in	ns	e.nic.feedback.
 lizzie.feedback.	900	in	ns	f.nic.feedback.
 lj.feedback.	900	in	ns	e.nic.feedback.
 lj.feedback.	900	in	ns	f.nic.feedback.
-ljognb.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-ljognb.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-ljognb.feedback.	900	in	ns	maceio.ns.porkbun.com.
-ljognb.feedback.	900	in	ns	salvador.ns.porkbun.com.
 lk.feedback.	900	in	ns	e.nic.feedback.
 lk.feedback.	900	in	ns	f.nic.feedback.
 ll.feedback.	900	in	ns	e.nic.feedback.
 ll.feedback.	900	in	ns	f.nic.feedback.
 llm.feedback.	900	in	ns	dns1.registrar-servers.com.
 llm.feedback.	900	in	ns	dns2.registrar-servers.com.
-llooy.feedback.	900	in	ns	ns1.dyna-ns.net.
-llooy.feedback.	900	in	ns	ns2.dyna-ns.net.
 lloyd.feedback.	900	in	ns	e.nic.feedback.
 lloyd.feedback.	900	in	ns	f.nic.feedback.
 lm.feedback.	900	in	ns	e.nic.feedback.
@@ -15818,7 +15695,7 @@ lms.feedback.	900	in	ns	f.nic.feedback.
 ln.feedback.	900	in	ns	e.nic.feedback.
 ln.feedback.	900	in	ns	f.nic.feedback.
 ln95h3f6j5gs5qf6v3rbkalt095ch5f2.feedback.	300	in	nsec3	1 1 0 - MEMS3R8QLD36PVNPLJMCDV9D52P3OG97 NS DS RRSIG
-ln95h3f6j5gs5qf6v3rbkalt095ch5f2.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. 5rEvIz7OpLyB8+ehUJL3Uh0Uwys1+z6w4CGbIgBjUpAL+M1jMnhzo+O8UHlevJmz//kZ8VwKAq0uJhT0VRBZvA==
+ln95h3f6j5gs5qf6v3rbkalt095ch5f2.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012123641 20250912155742 50017 feedback. 3Za2wD5BurWonq2xX+a52Qy6e7UgAldIbWGgpuGrKQwrvdwSSTD7/c0dUkAew0NcfvAEOhxSpOt4i79g2K+jyQ==
 lo.feedback.	900	in	ns	e.nic.feedback.
 lo.feedback.	900	in	ns	f.nic.feedback.
 load.feedback.	900	in	ns	e.nic.feedback.
@@ -15883,8 +15760,10 @@ locomotivefirers.feedback.	900	in	ns	e.nic.feedback.
 locomotivefirers.feedback.	900	in	ns	f.nic.feedback.
 locum.feedback.	900	in	ns	e.nic.feedback.
 locum.feedback.	900	in	ns	f.nic.feedback.
-lode88.feedback.	900	in	ns	hassan.ns.cloudflare.com.
-lode88.feedback.	900	in	ns	hattie.ns.cloudflare.com.
+lode88.feedback.	900	in	ds	34052 13 2 51442A4BA0D085BC88E5C2883C75AC2F5C068D6407A99F7CAF325D8003B57A08
+lode88.feedback.	900	in	ns	launch1.spaceship.net.
+lode88.feedback.	900	in	ns	launch2.spaceship.net.
+lode88.feedback.	900	in	rrsig	DS 13 2 900 20251020060316 20250920074018 50017 feedback. 8uMDv4QaKLYd59iMjcdsC+4zNfobcqz7Ef2RdW6DjW8O7+l7XYoiGm40GeLG2+19ZwUEqxaxL4CoUETTJ00KrA==
 lodge.feedback.	900	in	ns	e.nic.feedback.
 lodge.feedback.	900	in	ns	f.nic.feedback.
 lodging.feedback.	900	in	ns	e.nic.feedback.
@@ -15975,7 +15854,7 @@ lonza.feedback.	900	in	ns	ns2.glipac.ch.
 lonza.feedback.	900	in	ns	ns3.glipac.ch.
 lonza.feedback.	900	in	ns	ns76.irondns.net.
 lonza.feedback.	900	in	ns	ns78.irondns.net.
-lonza.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. YkNL3i764LfHrPXii3HkoyveWyHsh/uR+0MQlPwiYmOa9H2KuRz6Y6Xu6AGftSJ4Tb6QYE9AS4wGH9tWLnZMvw==
+lonza.feedback.	900	in	rrsig	DS 13 2 900 20251010231015 20250912155742 50017 feedback. et1r/uuKO2/N/vit8LVl+Uad+KKOQNw3hNICSMqDeIZuKRh8yxr5iBJYr7HiFNMjXru+d2w0A+2gjJDyNkbayg==
 loo.feedback.	900	in	ns	e.nic.feedback.
 loo.feedback.	900	in	ns	f.nic.feedback.
 look.feedback.	900	in	ns	e.nic.feedback.
@@ -16141,10 +16020,6 @@ ls.feedback.	900	in	ns	e.nic.feedback.
 ls.feedback.	900	in	ns	f.nic.feedback.
 lt.feedback.	900	in	ns	e.nic.feedback.
 lt.feedback.	900	in	ns	f.nic.feedback.
-ltynh.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-ltynh.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-ltynh.feedback.	900	in	ns	maceio.ns.porkbun.com.
-ltynh.feedback.	900	in	ns	salvador.ns.porkbun.com.
 lu.feedback.	900	in	ns	e.nic.feedback.
 lu.feedback.	900	in	ns	f.nic.feedback.
 luana.feedback.	900	in	ns	e.nic.feedback.
@@ -16157,8 +16032,6 @@ lube.feedback.	900	in	ns	e.nic.feedback.
 lube.feedback.	900	in	ns	f.nic.feedback.
 lubricant.feedback.	900	in	ns	e.nic.feedback.
 lubricant.feedback.	900	in	ns	f.nic.feedback.
-lubuktogel8.feedback.	900	in	ns	dns101.registrar-servers.com.
-lubuktogel8.feedback.	900	in	ns	dns102.registrar-servers.com.
 lucas.feedback.	900	in	ns	e.nic.feedback.
 lucas.feedback.	900	in	ns	f.nic.feedback.
 lucia.feedback.	900	in	ns	e.nic.feedback.
@@ -16256,10 +16129,6 @@ luxe.feedback.	900	in	ns	e.nic.feedback.
 luxe.feedback.	900	in	ns	f.nic.feedback.
 luxi.feedback.	900	in	ns	e.nic.feedback.
 luxi.feedback.	900	in	ns	f.nic.feedback.
-luxsnd.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-luxsnd.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-luxsnd.feedback.	900	in	ns	maceio.ns.porkbun.com.
-luxsnd.feedback.	900	in	ns	salvador.ns.porkbun.com.
 luxurycar.feedback.	900	in	ns	e.nic.feedback.
 luxurycar.feedback.	900	in	ns	f.nic.feedback.
 luxurygoods.feedback.	900	in	ns	e.nic.feedback.
@@ -17093,8 +16962,6 @@ maxine.feedback.	900	in	ns	e.nic.feedback.
 maxine.feedback.	900	in	ns	f.nic.feedback.
 maxs.feedback.	900	in	ns	e.nic.feedback.
 maxs.feedback.	900	in	ns	f.nic.feedback.
-maxtor.feedback.	900	in	ns	ns1.ibspark.com.
-maxtor.feedback.	900	in	ns	ns2.ibspark.com.
 maxwell.feedback.	900	in	ns	e.nic.feedback.
 maxwell.feedback.	900	in	ns	f.nic.feedback.
 maxx.feedback.	900	in	ns	e.nic.feedback.
@@ -17165,10 +17032,6 @@ meatpackers.feedback.	900	in	ns	e.nic.feedback.
 meatpackers.feedback.	900	in	ns	f.nic.feedback.
 meatslicer.feedback.	900	in	ns	e.nic.feedback.
 meatslicer.feedback.	900	in	ns	f.nic.feedback.
-mebjpc.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-mebjpc.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-mebjpc.feedback.	900	in	ns	maceio.ns.porkbun.com.
-mebjpc.feedback.	900	in	ns	salvador.ns.porkbun.com.
 mechanic.feedback.	900	in	ns	e.nic.feedback.
 mechanic.feedback.	900	in	ns	f.nic.feedback.
 mechanical.feedback.	900	in	ns	e.nic.feedback.
@@ -17189,10 +17052,6 @@ mechatronics.feedback.	900	in	ns	e.nic.feedback.
 mechatronics.feedback.	900	in	ns	f.nic.feedback.
 mechelle.feedback.	900	in	ns	e.nic.feedback.
 mechelle.feedback.	900	in	ns	f.nic.feedback.
-mecxsu.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-mecxsu.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-mecxsu.feedback.	900	in	ns	maceio.ns.porkbun.com.
-mecxsu.feedback.	900	in	ns	salvador.ns.porkbun.com.
 medad.feedback.	900	in	ns	e.nic.feedback.
 medad.feedback.	900	in	ns	f.nic.feedback.
 medallia.feedback.	900	in	ns	e.nic.feedback.
@@ -17362,8 +17221,8 @@ memory.feedback.	900	in	ns	e.nic.feedback.
 memory.feedback.	900	in	ns	f.nic.feedback.
 memphis.feedback.	900	in	ns	e.nic.feedback.
 memphis.feedback.	900	in	ns	f.nic.feedback.
-mems3r8qld36pvnpljmcdv9d52p3og97.feedback.	300	in	nsec3	1 1 0 - MK4FJ693NB2H35CFIDP0IGM552JV0GU3 NS DS RRSIG
-mems3r8qld36pvnpljmcdv9d52p3og97.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. 5fLoj41bV4ioXkptbLLV0znKbflP49uXox/jD3g7gFca52VUPJ3Dx8wEjF+7J7ZYFOW1U5w76hkta8apKt4Sxg==
+mems3r8qld36pvnpljmcdv9d52p3og97.feedback.	300	in	nsec3	1 1 0 - MH65IRPVKNMCS2Q4J7NO5P3AUO5C7U8T NS DS RRSIG
+mems3r8qld36pvnpljmcdv9d52p3og97.feedback.	300	in	rrsig	NSEC3 13 2 300 20251030002240 20251001234513 50017 feedback. CkqkvP/KdddLOzV9RGKF42LwA+AVK6rNXBCzj5N3guAV13i6kwq85SLUNa1qWj8O4PVLfu8MVDGVdwNqlKvSQA==
 men.feedback.	900	in	ns	e.nic.feedback.
 men.feedback.	900	in	ns	f.nic.feedback.
 meno.feedback.	900	in	ns	e.nic.feedback.
@@ -17523,6 +17382,8 @@ mgmgrand.feedback.	900	in	ns	e.nic.feedback.
 mgmgrand.feedback.	900	in	ns	f.nic.feedback.
 mh.feedback.	900	in	ns	e.nic.feedback.
 mh.feedback.	900	in	ns	f.nic.feedback.
+mh65irpvknmcs2q4j7no5p3auo5c7u8t.feedback.	300	in	nsec3	1 1 0 - MK4FJ693NB2H35CFIDP0IGM552JV0GU3 NS DS RRSIG
+mh65irpvknmcs2q4j7no5p3auo5c7u8t.feedback.	300	in	rrsig	NSEC3 13 2 300 20251030020956 20251001234513 50017 feedback. taLSecsprH6fYpnm3dSW8V7MUF6FIWILaGXD8/DEJouQZwd6XVSL8iNlFO+FHj3NmMs/viMyPvGbwR5VKpPB4w==
 mi.feedback.	900	in	ns	e.nic.feedback.
 mi.feedback.	900	in	ns	f.nic.feedback.
 mia.feedback.	900	in	ns	e.nic.feedback.
@@ -17558,7 +17419,7 @@ michelin.feedback.	900	in	ns	curitiba.ns.porkbun.com.
 michelin.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
 michelin.feedback.	900	in	ns	maceio.ns.porkbun.com.
 michelin.feedback.	900	in	ns	salvador.ns.porkbun.com.
-michelin.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. nGi9nbpGPnYOKdAe43TTipUPZ1Fu6/T3bE+b/XC4qaKsuw8WO5ZaVYopn4T37UiU9jJ7iYeAH+R/myQOzeNy+A==
+michelin.feedback.	900	in	rrsig	DS 13 2 900 20251011065656 20250912155742 50017 feedback. jR2jDjS6VIBteWj8rqUDw1bT0/euxPEvM0/WDd0qYa1hbpFre24uuYxyNbaX3Ez9GLbHdnJOcmukmfI3/uMgCQ==
 micheline.feedback.	900	in	ns	e.nic.feedback.
 micheline.feedback.	900	in	ns	f.nic.feedback.
 michell.feedback.	900	in	ns	e.nic.feedback.
@@ -17813,16 +17674,12 @@ mixer.feedback.	900	in	ns	e.nic.feedback.
 mixer.feedback.	900	in	ns	f.nic.feedback.
 mj.feedback.	900	in	ns	e.nic.feedback.
 mj.feedback.	900	in	ns	f.nic.feedback.
-mjslot777.feedback.	900	in	ns	darl.ns.cloudflare.com.
-mjslot777.feedback.	900	in	ns	rosa.ns.cloudflare.com.
+mjslot777.feedback.	900	in	ns	dns101.registrar-servers.com.
+mjslot777.feedback.	900	in	ns	dns102.registrar-servers.com.
 mk.feedback.	900	in	ns	e.nic.feedback.
 mk.feedback.	900	in	ns	f.nic.feedback.
-mk4fj693nb2h35cfidp0igm552jv0gu3.feedback.	300	in	nsec3	1 1 0 - OCC348CE4NMK4TMU7I5SD6O2GVLL41F6 NS DS RRSIG
-mk4fj693nb2h35cfidp0igm552jv0gu3.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. JjuE4CNF9Fo0yppowdLZ/8MmMpW9DLVPVgkZM/Za7foEXObyir2V5eoLVEg0oD90OeX53QD7ds0p+mNLg9jgRA==
-mkplqu.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-mkplqu.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-mkplqu.feedback.	900	in	ns	maceio.ns.porkbun.com.
-mkplqu.feedback.	900	in	ns	salvador.ns.porkbun.com.
+mk4fj693nb2h35cfidp0igm552jv0gu3.feedback.	300	in	nsec3	1 1 0 - NRDQMJJR1JITJJQSCK1U54HI7AJFPN76 NS DS RRSIG
+mk4fj693nb2h35cfidp0igm552jv0gu3.feedback.	300	in	rrsig	NSEC3 13 2 300 20251027061556 20250928080524 50017 feedback. 0WXdgrC3AcqUdRwnQQrKzeV6u4An1EG2L6BwHdDH6a+DacxXcANi+GE+o6Udsm1eUfssTeRuufsH06BOKiR9jQ==
 mksport.feedback.	900	in	ns	ns1.dyna-ns.net.
 mksport.feedback.	900	in	ns	ns2.dyna-ns.net.
 ml.feedback.	900	in	ns	e.nic.feedback.
@@ -18143,10 +18000,6 @@ mpulis.feedback.	900	in	ns	e.nic.feedback.
 mpulis.feedback.	900	in	ns	f.nic.feedback.
 mq.feedback.	900	in	ns	e.nic.feedback.
 mq.feedback.	900	in	ns	f.nic.feedback.
-mqotsg.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-mqotsg.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-mqotsg.feedback.	900	in	ns	maceio.ns.porkbun.com.
-mqotsg.feedback.	900	in	ns	salvador.ns.porkbun.com.
 mr.feedback.	900	in	ns	e.nic.feedback.
 mr.feedback.	900	in	ns	f.nic.feedback.
 mre.feedback.	900	in	ns	e.nic.feedback.
@@ -18169,12 +18022,10 @@ mttb.feedback.	900	in	ns	e.nic.feedback.
 mttb.feedback.	900	in	ns	f.nic.feedback.
 mu.feedback.	900	in	ns	e.nic.feedback.
 mu.feedback.	900	in	ns	f.nic.feedback.
-mu88.feedback.	900	in	ns	dns101.registrar-servers.com.
-mu88.feedback.	900	in	ns	dns102.registrar-servers.com.
 mu88a.feedback.	900	in	ns	dns101.registrar-servers.com.
 mu88a.feedback.	900	in	ns	dns102.registrar-servers.com.
-mu88b.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-mu88b.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
+mu88b.feedback.	900	in	ns	dns101.registrar-servers.com.
+mu88b.feedback.	900	in	ns	dns102.registrar-servers.com.
 muffler.feedback.	900	in	ns	e.nic.feedback.
 muffler.feedback.	900	in	ns	f.nic.feedback.
 mui.feedback.	900	in	ns	e.nic.feedback.
@@ -18655,10 +18506,6 @@ myzel.feedback.	900	in	ns	ns.udag.net.
 myzel.feedback.	900	in	ns	ns.udag.org.
 mz.feedback.	900	in	ns	e.nic.feedback.
 mz.feedback.	900	in	ns	f.nic.feedback.
-mzriat.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-mzriat.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-mzriat.feedback.	900	in	ns	maceio.ns.porkbun.com.
-mzriat.feedback.	900	in	ns	salvador.ns.porkbun.com.
 n.feedback.	900	in	ns	e.nic.feedback.
 n.feedback.	900	in	ns	f.nic.feedback.
 n0.feedback.	900	in	ns	e.nic.feedback.
@@ -18703,8 +18550,6 @@ nails.feedback.	900	in	ns	e.nic.feedback.
 nails.feedback.	900	in	ns	f.nic.feedback.
 nailtechnician.feedback.	900	in	ns	e.nic.feedback.
 nailtechnician.feedback.	900	in	ns	f.nic.feedback.
-nakama188.feedback.	900	in	ns	dns101.registrar-servers.com.
-nakama188.feedback.	900	in	ns	dns102.registrar-servers.com.
 naked.feedback.	900	in	ns	e.nic.feedback.
 naked.feedback.	900	in	ns	f.nic.feedback.
 nakia.feedback.	900	in	ns	e.nic.feedback.
@@ -19014,8 +18859,8 @@ neville.feedback.	900	in	ns	e.nic.feedback.
 neville.feedback.	900	in	ns	f.nic.feedback.
 new.feedback.	900	in	ns	e.nic.feedback.
 new.feedback.	900	in	ns	f.nic.feedback.
-new88.feedback.	900	in	ns	anton.ns.cloudflare.com.
-new88.feedback.	900	in	ns	marge.ns.cloudflare.com.
+new88.feedback.	900	in	ns	dns101.registrar-servers.com.
+new88.feedback.	900	in	ns	dns102.registrar-servers.com.
 newandroid.feedback.	900	in	ns	e.nic.feedback.
 newandroid.feedback.	900	in	ns	f.nic.feedback.
 newark.feedback.	900	in	ns	e.nic.feedback.
@@ -19121,10 +18966,6 @@ nhacaiuytin.feedback.	900	in	ns	dns101.registrar-servers.com.
 nhacaiuytin.feedback.	900	in	ns	dns102.registrar-servers.com.
 nhatvip.feedback.	900	in	ns	bill.ns.cloudflare.com.
 nhatvip.feedback.	900	in	ns	gracie.ns.cloudflare.com.
-nhjgla.feedback.	900	in	ds	25319 13 2 4A287AB4A8D86E1DC1532357788C98411ADD830C10B54BDD54E2A611FA395219
-nhjgla.feedback.	900	in	ns	launch1.spaceship.net.
-nhjgla.feedback.	900	in	ns	launch2.spaceship.net.
-nhjgla.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. Epob6jdFqS8sx24Hjeu94vFw8zYVWql1zPdZQxIFOZoAZnZzsf9qIgG2T8wkfkRx5Tr7plKq3FsGS+uGzZ///Q==
 nhs.feedback.	900	in	ns	e.nic.feedback.
 nhs.feedback.	900	in	ns	f.nic.feedback.
 ni.feedback.	900	in	ns	e.nic.feedback.
@@ -19136,7 +18977,7 @@ nialfuller.feedback.	900	in	ns	f.nic.feedback.
 nic.feedback.	900	in	ds	8331 13 2 5AE1FB58F8B4D30AC094A2EC4BA9029DCCCFB3D3D03BC6D46BC3567EF9C5C47D
 nic.feedback.	900	in	ns	ns03.trs-dns.com.
 nic.feedback.	900	in	ns	ns03.trs-dns.net.
-nic.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. tVAt9B18NDgDerTFO5o4SlU0Fcxw4BpKJ+dnPVvH+JNIrlnddjL5c/NeLZo1OffQcRBiQFbBM9dj7aExFywWFg==
+nic.feedback.	900	in	rrsig	DS 13 2 900 20251011120604 20250912155742 50017 feedback. AW4vAqcn3hUDeNa55MgmHY4UB4vMjqI6bu8baaSKlbECJdBDe3sWn2ZwLQqgwccuPmjaBkifvEPON20UVqDtYw==
 nice.feedback.	900	in	ns	e.nic.feedback.
 nice.feedback.	900	in	ns	f.nic.feedback.
 niceshop.feedback.	900	in	ns	e.nic.feedback.
@@ -19243,10 +19084,6 @@ nittotires.feedback.	900	in	ns	e.nic.feedback.
 nittotires.feedback.	900	in	ns	f.nic.feedback.
 nj.feedback.	900	in	ns	e.nic.feedback.
 nj.feedback.	900	in	ns	f.nic.feedback.
-njpghi.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-njpghi.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-njpghi.feedback.	900	in	ns	maceio.ns.porkbun.com.
-njpghi.feedback.	900	in	ns	salvador.ns.porkbun.com.
 nk.feedback.	900	in	ns	e.nic.feedback.
 nk.feedback.	900	in	ns	f.nic.feedback.
 nl.feedback.	900	in	ns	e.nic.feedback.
@@ -19277,10 +19114,6 @@ noella.feedback.	900	in	ns	e.nic.feedback.
 noella.feedback.	900	in	ns	f.nic.feedback.
 noelle.feedback.	900	in	ns	e.nic.feedback.
 noelle.feedback.	900	in	ns	f.nic.feedback.
-noembg.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-noembg.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-noembg.feedback.	900	in	ns	maceio.ns.porkbun.com.
-noembg.feedback.	900	in	ns	salvador.ns.porkbun.com.
 noemi.feedback.	900	in	ns	e.nic.feedback.
 noemi.feedback.	900	in	ns	f.nic.feedback.
 nohu.feedback.	900	in	ns	curt.ns.cloudflare.com.
@@ -19402,14 +19235,12 @@ nq.feedback.	900	in	ns	e.nic.feedback.
 nq.feedback.	900	in	ns	f.nic.feedback.
 nr.feedback.	900	in	ns	e.nic.feedback.
 nr.feedback.	900	in	ns	f.nic.feedback.
+nrdqmjjr1jitjjqsck1u54hi7ajfpn76.feedback.	300	in	nsec3	1 1 0 - OOI556V66J4JA78JMA13POUG65JEV7NL NS DS RRSIG
+nrdqmjjr1jitjjqsck1u54hi7ajfpn76.feedback.	300	in	rrsig	NSEC3 13 2 300 20251027185902 20250928080524 50017 feedback. xyx16srT7WFOEsYLGvwnQ6FYWqGiNyAQLQt9WKknOpQ0YnVGYn+/MbBzv4kdIQifHhXsTumWH9ss/1/L6FesAg==
 ns.feedback.	900	in	ns	e.nic.feedback.
 ns.feedback.	900	in	ns	f.nic.feedback.
 ns1.webview.feedback.	900	in	a	2.56.126.181
 ns2.webview.feedback.	900	in	a	2.56.126.181
-nsudok.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-nsudok.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-nsudok.feedback.	900	in	ns	maceio.ns.porkbun.com.
-nsudok.feedback.	900	in	ns	salvador.ns.porkbun.com.
 nswnrz.feedback.	900	in	ns	ns1.dyna-ns.net.
 nswnrz.feedback.	900	in	ns	ns2.dyna-ns.net.
 nt.feedback.	900	in	ns	e.nic.feedback.
@@ -19482,10 +19313,6 @@ nutritionists.feedback.	900	in	ns	e.nic.feedback.
 nutritionists.feedback.	900	in	ns	f.nic.feedback.
 nuwave.feedback.	900	in	ns	e.nic.feedback.
 nuwave.feedback.	900	in	ns	f.nic.feedback.
-nuxzmp.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-nuxzmp.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-nuxzmp.feedback.	900	in	ns	maceio.ns.porkbun.com.
-nuxzmp.feedback.	900	in	ns	salvador.ns.porkbun.com.
 nv.feedback.	900	in	ns	e.nic.feedback.
 nv.feedback.	900	in	ns	f.nic.feedback.
 nw.feedback.	900	in	ns	e.nic.feedback.
@@ -19496,10 +19323,6 @@ nwrugs.feedback.	900	in	ns	e.nic.feedback.
 nwrugs.feedback.	900	in	ns	f.nic.feedback.
 nx.feedback.	900	in	ns	e.nic.feedback.
 nx.feedback.	900	in	ns	f.nic.feedback.
-nxgaic.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-nxgaic.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-nxgaic.feedback.	900	in	ns	maceio.ns.porkbun.com.
-nxgaic.feedback.	900	in	ns	salvador.ns.porkbun.com.
 ny.feedback.	900	in	ns	e.nic.feedback.
 ny.feedback.	900	in	ns	f.nic.feedback.
 nyc.feedback.	900	in	ns	e.nic.feedback.
@@ -19536,10 +19359,6 @@ o9.feedback.	900	in	ns	e.nic.feedback.
 o9.feedback.	900	in	ns	f.nic.feedback.
 oa.feedback.	900	in	ns	e.nic.feedback.
 oa.feedback.	900	in	ns	f.nic.feedback.
-oabpln.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-oabpln.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-oabpln.feedback.	900	in	ns	maceio.ns.porkbun.com.
-oabpln.feedback.	900	in	ns	salvador.ns.porkbun.com.
 oakland.feedback.	900	in	ns	e.nic.feedback.
 oakland.feedback.	900	in	ns	f.nic.feedback.
 oasis.feedback.	900	in	ns	e.nic.feedback.
@@ -19574,8 +19393,6 @@ oc.feedback.	900	in	ns	e.nic.feedback.
 oc.feedback.	900	in	ns	f.nic.feedback.
 ocala.feedback.	900	in	ns	e.nic.feedback.
 ocala.feedback.	900	in	ns	f.nic.feedback.
-occ348ce4nmk4tmu7i5sd6o2gvll41f6.feedback.	300	in	nsec3	1 1 0 - OOI556V66J4JA78JMA13POUG65JEV7NL NS DS RRSIG
-occ348ce4nmk4tmu7i5sd6o2gvll41f6.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. Lx43Vm0dkTR15KjqDHvCCAV4daeAdigtnW9I1IxGOTU/a7RLWQP2W8Ipq0k5k4xmJTqofF0eStyRwrFkc76vVA==
 occupational.feedback.	900	in	ns	e.nic.feedback.
 occupational.feedback.	900	in	ns	f.nic.feedback.
 occupationaltherapist.feedback.	900	in	ns	e.nic.feedback.
@@ -19690,10 +19507,6 @@ ola.feedback.	900	in	ns	e.nic.feedback.
 ola.feedback.	900	in	ns	f.nic.feedback.
 olaplex.feedback.	900	in	ns	e.nic.feedback.
 olaplex.feedback.	900	in	ns	f.nic.feedback.
-olaqnb.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-olaqnb.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-olaqnb.feedback.	900	in	ns	maceio.ns.porkbun.com.
-olaqnb.feedback.	900	in	ns	salvador.ns.porkbun.com.
 olci.feedback.	900	in	ns	e.nic.feedback.
 olci.feedback.	900	in	ns	f.nic.feedback.
 oled.feedback.	900	in	ns	e.nic.feedback.
@@ -19783,6 +19596,8 @@ onemore.feedback.	900	in	ns	e.nic.feedback.
 onemore.feedback.	900	in	ns	f.nic.feedback.
 onenote.feedback.	900	in	ns	e.nic.feedback.
 onenote.feedback.	900	in	ns	f.nic.feedback.
+oneshot.feedback.	900	in	ns	dns1.registrar-servers.com.
+oneshot.feedback.	900	in	ns	dns2.registrar-servers.com.
 onestar.feedback.	900	in	ns	e.nic.feedback.
 onestar.feedback.	900	in	ns	f.nic.feedback.
 onestop.feedback.	900	in	ns	e.nic.feedback.
@@ -19862,7 +19677,7 @@ onthespot.feedback.	900	in	ns	f.nic.feedback.
 oo.feedback.	900	in	ns	e.nic.feedback.
 oo.feedback.	900	in	ns	f.nic.feedback.
 ooi556v66j4ja78jma13poug65jev7nl.feedback.	300	in	nsec3	1 1 0 - Q9790G6UEDSRDGTRL7A729LBI18GJOM8 NS DS RRSIG
-ooi556v66j4ja78jma13poug65jev7nl.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. mDw0IdX8pxb1K9Ip4rsUX/9I47CZ+XUMtTNfCKcXjeXoHeBelpanWW2y7SFWEacc/vobha/WR7xk5MDU6mr2Qg==
+ooi556v66j4ja78jma13poug65jev7nl.feedback.	300	in	rrsig	NSEC3 13 2 300 20251011055740 20250912155742 50017 feedback. qy/Ygz9/NJ9OeosL0/iISrsjeEyZdF5+r5HLLtkgCbOOa35GE6lUJsgsn7w6IEmRYgXSazME7uvzkgIljIaY4Q==
 ooma.feedback.	900	in	ns	e.nic.feedback.
 ooma.feedback.	900	in	ns	f.nic.feedback.
 op.feedback.	900	in	ns	e.nic.feedback.
@@ -20211,7 +20026,7 @@ paddleboard.feedback.	900	in	ns	f.nic.feedback.
 padel.feedback.	900	in	ds	59585 13 2 89F0B07BDA6A4485C9B5E6F3AF80150CB2151FA43E66531E9F2C3AED571B5183
 padel.feedback.	900	in	ns	launch1.spaceship.net.
 padel.feedback.	900	in	ns	launch2.spaceship.net.
-padel.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. 8JmR0Si4URgF79U+DJ/4qACghN3dcWdDxgDABejPdXX0MUn1bYKuq0WFV0Ce6k7bTqrxWTdBFE97+ugs1ai4sQ==
+padel.feedback.	900	in	rrsig	DS 13 2 900 20251011180145 20250912155742 50017 feedback. RsJFGQh8Ua4RYHVqW+TliLrby7tJAhkKgeyFYaUJQriiA8MqTMS8GZIoq/i1prQLCKgosdKi6eBHGfUGE86NYQ==
 pagan.feedback.	900	in	ns	e.nic.feedback.
 pagan.feedback.	900	in	ns	f.nic.feedback.
 page.feedback.	900	in	ns	e.nic.feedback.
@@ -20996,10 +20811,6 @@ pixn.feedback.	900	in	ns	e.nic.feedback.
 pixn.feedback.	900	in	ns	f.nic.feedback.
 pj.feedback.	900	in	ns	e.nic.feedback.
 pj.feedback.	900	in	ns	f.nic.feedback.
-pjadet.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-pjadet.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-pjadet.feedback.	900	in	ns	maceio.ns.porkbun.com.
-pjadet.feedback.	900	in	ns	salvador.ns.porkbun.com.
 pk.feedback.	900	in	ns	e.nic.feedback.
 pk.feedback.	900	in	ns	f.nic.feedback.
 pl.feedback.	900	in	ns	e.nic.feedback.
@@ -21086,10 +20897,6 @@ pm.feedback.	900	in	ns	e.nic.feedback.
 pm.feedback.	900	in	ns	f.nic.feedback.
 pn.feedback.	900	in	ns	e.nic.feedback.
 pn.feedback.	900	in	ns	f.nic.feedback.
-pnazdl.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-pnazdl.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-pnazdl.feedback.	900	in	ns	maceio.ns.porkbun.com.
-pnazdl.feedback.	900	in	ns	salvador.ns.porkbun.com.
 po.feedback.	900	in	ns	e.nic.feedback.
 po.feedback.	900	in	ns	f.nic.feedback.
 pocket.feedback.	900	in	ns	e.nic.feedback.
@@ -21729,10 +21536,6 @@ py.feedback.	900	in	ns	e.nic.feedback.
 py.feedback.	900	in	ns	f.nic.feedback.
 pz.feedback.	900	in	ns	e.nic.feedback.
 pz.feedback.	900	in	ns	f.nic.feedback.
-pzsoj.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-pzsoj.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-pzsoj.feedback.	900	in	ns	maceio.ns.porkbun.com.
-pzsoj.feedback.	900	in	ns	salvador.ns.porkbun.com.
 q.feedback.	900	in	ns	e.nic.feedback.
 q.feedback.	900	in	ns	f.nic.feedback.
 q0.feedback.	900	in	ns	e.nic.feedback.
@@ -21756,7 +21559,7 @@ q8.feedback.	900	in	ns	f.nic.feedback.
 q9.feedback.	900	in	ns	e.nic.feedback.
 q9.feedback.	900	in	ns	f.nic.feedback.
 q9790g6uedsrdgtrl7a729lbi18gjom8.feedback.	300	in	nsec3	1 1 0 - RM5Q74OL8EG2NUQ0B7TNJR7T85QTGJ4Q NS DS RRSIG
-q9790g6uedsrdgtrl7a729lbi18gjom8.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. Zv962f0YtzeUZj+CkJaJoOiTkM81KZTchuO35l9AKxqht8/NroQ8VLGbMkYkB9SDbVbqXrMb2JLrV1jRGZVp/g==
+q9790g6uedsrdgtrl7a729lbi18gjom8.feedback.	300	in	rrsig	NSEC3 13 2 300 20251011174214 20250912155742 50017 feedback. rQ89XAiMfgcNndkp9d9kIpcyzAfB+xA0SIO5mgCgw5XfJ0h9JSBK/kTuh+Edp2aSedkKxHeQ33ENn00sUm9xfg==
 qa.feedback.	900	in	ns	e.nic.feedback.
 qa.feedback.	900	in	ns	f.nic.feedback.
 qariuy.feedback.	900	in	ns	ns1.dns.com.
@@ -21787,10 +21590,6 @@ qj.feedback.	900	in	ns	e.nic.feedback.
 qj.feedback.	900	in	ns	f.nic.feedback.
 qk.feedback.	900	in	ns	e.nic.feedback.
 qk.feedback.	900	in	ns	f.nic.feedback.
-qkgalu.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-qkgalu.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-qkgalu.feedback.	900	in	ns	maceio.ns.porkbun.com.
-qkgalu.feedback.	900	in	ns	salvador.ns.porkbun.com.
 ql.feedback.	900	in	ns	e.nic.feedback.
 ql.feedback.	900	in	ns	f.nic.feedback.
 qljzl.feedback.	900	in	ns	ns7.alidns.com.
@@ -21813,10 +21612,6 @@ qrops.feedback.	900	in	ns	e.nic.feedback.
 qrops.feedback.	900	in	ns	f.nic.feedback.
 qs.feedback.	900	in	ns	e.nic.feedback.
 qs.feedback.	900	in	ns	f.nic.feedback.
-qstzhb.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-qstzhb.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-qstzhb.feedback.	900	in	ns	maceio.ns.porkbun.com.
-qstzhb.feedback.	900	in	ns	salvador.ns.porkbun.com.
 qt.feedback.	900	in	ns	e.nic.feedback.
 qt.feedback.	900	in	ns	f.nic.feedback.
 qtips.feedback.	900	in	ns	e.nic.feedback.
@@ -21831,6 +21626,8 @@ quantitativeanalysts.feedback.	900	in	ns	e.nic.feedback.
 quantitativeanalysts.feedback.	900	in	ns	f.nic.feedback.
 quantum.feedback.	900	in	ns	e.nic.feedback.
 quantum.feedback.	900	in	ns	f.nic.feedback.
+quarterdeck.feedback.	900	in	ns	rosalyn.ns.cloudflare.com.
+quarterdeck.feedback.	900	in	ns	sid.ns.cloudflare.com.
 quarterly.feedback.	900	in	ns	e.nic.feedback.
 quarterly.feedback.	900	in	ns	f.nic.feedback.
 que.feedback.	900	in	ns	e.nic.feedback.
@@ -21863,8 +21660,6 @@ quickloader.feedback.	900	in	ns	e.nic.feedback.
 quickloader.feedback.	900	in	ns	f.nic.feedback.
 quickp.feedback.	900	in	ns	e.nic.feedback.
 quickp.feedback.	900	in	ns	f.nic.feedback.
-quicktally.feedback.	900	in	ns	dns101.registrar-servers.com.
-quicktally.feedback.	900	in	ns	dns102.registrar-servers.com.
 quiet.feedback.	900	in	ns	e.nic.feedback.
 quiet.feedback.	900	in	ns	f.nic.feedback.
 quik.feedback.	900	in	ns	e.nic.feedback.
@@ -22579,8 +22374,6 @@ resource.feedback.	900	in	ns	e.nic.feedback.
 resource.feedback.	900	in	ns	f.nic.feedback.
 respected.feedback.	900	in	ns	e.nic.feedback.
 respected.feedback.	900	in	ns	f.nic.feedback.
-respectify.feedback.	900	in	ns	dns1.registrar-servers.com.
-respectify.feedback.	900	in	ns	dns2.registrar-servers.com.
 respiratory.feedback.	900	in	ns	e.nic.feedback.
 respiratory.feedback.	900	in	ns	f.nic.feedback.
 respiratorytherapist.feedback.	900	in	ns	e.nic.feedback.
@@ -22630,7 +22423,7 @@ retta.feedback.	900	in	ns	f.nic.feedback.
 return.feedback.	900	in	ds	59595 13 2 BEBD0BA63D86022CA64C45C16C0D139175393AA6303F14351A84A25B3E5A6395
 return.feedback.	900	in	ns	launch1.spaceship.net.
 return.feedback.	900	in	ns	launch2.spaceship.net.
-return.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. 1Ocwz6CST5LTVNdVsnEDtz0TCwtQdRf7LOVGc5h5ZEayj/5RBqOO+nE0ov7n3v1AOd/p8x/+Fw61cNfPa23UsA==
+return.feedback.	900	in	rrsig	DS 13 2 900 20251011082843 20250912155742 50017 feedback. 8pFl+gDwbydj834h3928YWZCepyrqvjx5VMNeW9+SY/zbdyrYGl80PAON61EsJyphNAgUnX6/ihCF85zLHBy5g==
 reuben.feedback.	900	in	ns	e.nic.feedback.
 reuben.feedback.	900	in	ns	f.nic.feedback.
 reva.feedback.	900	in	ns	e.nic.feedback.
@@ -22810,11 +22603,7 @@ rls.feedback.	900	in	ns	f.nic.feedback.
 rm.feedback.	900	in	ns	e.nic.feedback.
 rm.feedback.	900	in	ns	f.nic.feedback.
 rm5q74ol8eg2nuq0b7tnjr7t85qtgj4q.feedback.	300	in	nsec3	1 1 0 - 012QG5QGA8FL0DN9D1U2G7753E616L61 NS DS RRSIG
-rm5q74ol8eg2nuq0b7tnjr7t85qtgj4q.feedback.	300	in	rrsig	NSEC3 13 2 300 20251012001025 20250912001025 50017 feedback. +cQpYBcPBkBPwfMd+7wZQdA0juBgVKEYMhuYinAAQE0Ar+ln6dvrrK9+xFymSjnRecloCBHo11bT9Zj6s2jpbw==
-rmdtao.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-rmdtao.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-rmdtao.feedback.	900	in	ns	maceio.ns.porkbun.com.
-rmdtao.feedback.	900	in	ns	salvador.ns.porkbun.com.
+rm5q74ol8eg2nuq0b7tnjr7t85qtgj4q.feedback.	300	in	rrsig	NSEC3 13 2 300 20251011031630 20250912155742 50017 feedback. iqTP+OHNJd5AV8nbajKfQdWMyIO9Lt0o9VrHh3O+iRyv6cPD2mLknk2EvrCoxcddSiQndViYwdw8RhXlY0rrrQ==
 rn.feedback.	900	in	ns	e.nic.feedback.
 rn.feedback.	900	in	ns	f.nic.feedback.
 ro.feedback.	900	in	ns	e.nic.feedback.
@@ -23186,14 +22975,10 @@ rug.feedback.	900	in	ns	e.nic.feedback.
 rug.feedback.	900	in	ns	f.nic.feedback.
 rugcleaning.feedback.	900	in	ns	e.nic.feedback.
 rugcleaning.feedback.	900	in	ns	f.nic.feedback.
-rugh.feedback.	900	in	ns	e.nic.feedback.
-rugh.feedback.	900	in	ns	f.nic.feedback.
+rugh.feedback.	900	in	ns	ns1.ibspark.com.
+rugh.feedback.	900	in	ns	ns2.ibspark.com.
 rugs.feedback.	900	in	ns	e.nic.feedback.
 rugs.feedback.	900	in	ns	f.nic.feedback.
-runkoj.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-runkoj.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-runkoj.feedback.	900	in	ns	maceio.ns.porkbun.com.
-runkoj.feedback.	900	in	ns	salvador.ns.porkbun.com.
 runner.feedback.	900	in	ns	e.nic.feedback.
 runner.feedback.	900	in	ns	f.nic.feedback.
 runners.feedback.	900	in	ns	e.nic.feedback.
@@ -23294,8 +23079,8 @@ sadie.feedback.	900	in	ns	e.nic.feedback.
 sadie.feedback.	900	in	ns	f.nic.feedback.
 safari.feedback.	900	in	ns	e.nic.feedback.
 safari.feedback.	900	in	ns	f.nic.feedback.
-safekey-onetime.feedback.	900	in	ns	e.nic.feedback.
-safekey-onetime.feedback.	900	in	ns	f.nic.feedback.
+safekey-onetime.feedback.	900	in	ns	ns1.ibspark.com.
+safekey-onetime.feedback.	900	in	ns	ns2.ibspark.com.
 saferepairers.feedback.	900	in	ns	e.nic.feedback.
 saferepairers.feedback.	900	in	ns	f.nic.feedback.
 safety.feedback.	900	in	ns	e.nic.feedback.
@@ -23306,6 +23091,10 @@ safetyinspectors.feedback.	900	in	ns	e.nic.feedback.
 safetyinspectors.feedback.	900	in	ns	f.nic.feedback.
 sage.feedback.	900	in	ns	e.nic.feedback.
 sage.feedback.	900	in	ns	f.nic.feedback.
+sagsuns.feedback.	900	in	ds	44925 13 1 C549DA6B85B9E8D0DD5AAC9D69BACA286E80986F
+sagsuns.feedback.	900	in	ns	dns1.registrar-servers.com.
+sagsuns.feedback.	900	in	ns	dns2.registrar-servers.com.
+sagsuns.feedback.	900	in	rrsig	DS 13 2 900 20251015131332 20250916093514 50017 feedback. cqqZxgPgCwzmzAcQVzNZPD476jbOcWWY1OOl2/U9EWXr+ba+baOrq5p9Nk262LA05eH5xLb9ZZBOX8EeIGuqbg==
 saigon.feedback.	900	in	ns	e.nic.feedback.
 saigon.feedback.	900	in	ns	f.nic.feedback.
 sailing.feedback.	900	in	ns	e.nic.feedback.
@@ -23516,10 +23305,6 @@ say.feedback.	900	in	ns	e.nic.feedback.
 say.feedback.	900	in	ns	f.nic.feedback.
 sb.feedback.	900	in	ns	e.nic.feedback.
 sb.feedback.	900	in	ns	f.nic.feedback.
-sbgiak.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-sbgiak.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-sbgiak.feedback.	900	in	ns	maceio.ns.porkbun.com.
-sbgiak.feedback.	900	in	ns	salvador.ns.porkbun.com.
 sbobet.feedback.	900	in	ns	bethany.ns.cloudflare.com.
 sbobet.feedback.	900	in	ns	dion.ns.cloudflare.com.
 sbtc.feedback.	900	in	ns	curitiba.ns.porkbun.com.
@@ -23570,8 +23355,6 @@ schools.feedback.	900	in	ns	e.nic.feedback.
 schools.feedback.	900	in	ns	f.nic.feedback.
 sci.feedback.	900	in	ns	e.nic.feedback.
 sci.feedback.	900	in	ns	f.nic.feedback.
-sciencedaily.feedback.	900	in	ns	e.nic.feedback.
-sciencedaily.feedback.	900	in	ns	f.nic.feedback.
 sciencefiction.feedback.	900	in	ns	e.nic.feedback.
 sciencefiction.feedback.	900	in	ns	f.nic.feedback.
 scientific.feedback.	900	in	ns	e.nic.feedback.
@@ -23586,10 +23369,6 @@ scifibook.feedback.	900	in	ns	e.nic.feedback.
 scifibook.feedback.	900	in	ns	f.nic.feedback.
 scion.feedback.	900	in	ns	e.nic.feedback.
 scion.feedback.	900	in	ns	f.nic.feedback.
-scnbd.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-scnbd.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-scnbd.feedback.	900	in	ns	maceio.ns.porkbun.com.
-scnbd.feedback.	900	in	ns	salvador.ns.porkbun.com.
 scoop.feedback.	900	in	ns	e.nic.feedback.
 scoop.feedback.	900	in	ns	f.nic.feedback.
 scooter.feedback.	900	in	ns	e.nic.feedback.
@@ -23972,7 +23751,7 @@ sharee.feedback.	900	in	ns	f.nic.feedback.
 sharekey.feedback.	900	in	ds	43666 13 2 BB487113382B2423E688FDA2B53284FF4937C68C6FC80901F6D72058BA884B4F
 sharekey.feedback.	900	in	ns	e.nic.feedback.
 sharekey.feedback.	900	in	ns	f.nic.feedback.
-sharekey.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. 4E9Dszs+YnRfeEzpTaEJoIsLjL54BYiJgKU7cpt/5Art5dLaOwIHDLbQ3nX1FbhSgMlsCjm1ndTpXFIdgv1oPQ==
+sharekey.feedback.	900	in	rrsig	DS 13 2 900 20251011113539 20250912155742 50017 feedback. pdguixBfegnwBvW3mrX9EfN29/N1+uv11IbN/nlucDwVu/IRQofXRp4pkA2V5Hu9Ij23po7GTVaIz3vxPn7SQg==
 sharemy.feedback.	900	in	ns	e.nic.feedback.
 sharemy.feedback.	900	in	ns	f.nic.feedback.
 sharen.feedback.	900	in	ns	e.nic.feedback.
@@ -24395,6 +24174,8 @@ siri.feedback.	900	in	ns	e.nic.feedback.
 siri.feedback.	900	in	ns	f.nic.feedback.
 sirius.feedback.	900	in	ns	e.nic.feedback.
 sirius.feedback.	900	in	ns	f.nic.feedback.
+sirsainvo.feedback.	900	in	ns	dns1.registrar-servers.com.
+sirsainvo.feedback.	900	in	ns	dns2.registrar-servers.com.
 sisel.feedback.	900	in	ns	e.nic.feedback.
 sisel.feedback.	900	in	ns	f.nic.feedback.
 site.feedback.	900	in	ns	e.nic.feedback.
@@ -24937,10 +24718,6 @@ spencer.feedback.	900	in	ns	e.nic.feedback.
 spencer.feedback.	900	in	ns	f.nic.feedback.
 spew.feedback.	900	in	ns	e.nic.feedback.
 spew.feedback.	900	in	ns	f.nic.feedback.
-sphafb.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-sphafb.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-sphafb.feedback.	900	in	ns	maceio.ns.porkbun.com.
-sphafb.feedback.	900	in	ns	salvador.ns.porkbun.com.
 spice.feedback.	900	in	ns	e.nic.feedback.
 spice.feedback.	900	in	ns	f.nic.feedback.
 spider.feedback.	900	in	ns	e.nic.feedback.
@@ -25480,8 +25257,6 @@ sumppump.feedback.	900	in	ns	e.nic.feedback.
 sumppump.feedback.	900	in	ns	f.nic.feedback.
 sun.feedback.	900	in	ns	e.nic.feedback.
 sun.feedback.	900	in	ns	f.nic.feedback.
-sun52.feedback.	900	in	ns	ns1.dyna-ns.net.
-sun52.feedback.	900	in	ns	ns2.dyna-ns.net.
 sunday.feedback.	900	in	ns	e.nic.feedback.
 sunday.feedback.	900	in	ns	f.nic.feedback.
 sung.feedback.	900	in	ns	e.nic.feedback.
@@ -25498,6 +25273,8 @@ sunshine.feedback.	900	in	ns	e.nic.feedback.
 sunshine.feedback.	900	in	ns	f.nic.feedback.
 sunsoak.feedback.	900	in	ns	e.nic.feedback.
 sunsoak.feedback.	900	in	ns	f.nic.feedback.
+sunwin.feedback.	900	in	ns	morgan.ns.cloudflare.com.
+sunwin.feedback.	900	in	ns	noor.ns.cloudflare.com.
 sup.feedback.	900	in	ns	e.nic.feedback.
 sup.feedback.	900	in	ns	f.nic.feedback.
 super.feedback.	900	in	ns	e.nic.feedback.
@@ -25750,10 +25527,6 @@ t9.feedback.	900	in	ns	e.nic.feedback.
 t9.feedback.	900	in	ns	f.nic.feedback.
 ta.feedback.	900	in	ns	e.nic.feedback.
 ta.feedback.	900	in	ns	f.nic.feedback.
-ta88.feedback.	900	in	ds	21963 13 2 E5245A2FAE093BE762574F420A8F90FC9B88964614D32B97288FC260440C8F5E
-ta88.feedback.	900	in	ns	launch1.spaceship.net.
-ta88.feedback.	900	in	ns	launch2.spaceship.net.
-ta88.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. b6loawrwCrGMMagK+eIOBt1RUpPD89y2lm2DYLEeUIpXaXFbQZCNaPLqReSbOds6RUZN+fy42LiH/HXlOCARYw==
 tab.feedback.	900	in	ns	e.nic.feedback.
 tab.feedback.	900	in	ns	f.nic.feedback.
 tabatha.feedback.	900	in	ns	e.nic.feedback.
@@ -26154,9 +25927,6 @@ teledyne.feedback.	900	in	ns	ns1.ipmanagerinc.net.
 teledyne.feedback.	900	in	ns	ns2.ipmanagerinc.net.
 teledyne.feedback.	900	in	ns	ns3.ipmanagerinc.net.
 teledyne.feedback.	900	in	ns	ns4.ipmanagerinc.net.
-telekom.feedback.	900	in	ns	ina1.registrar.eu.
-telekom.feedback.	900	in	ns	ina2.registrar.eu.
-telekom.feedback.	900	in	ns	ina3.registrar.eu.
 telemarketer.feedback.	900	in	ns	e.nic.feedback.
 telemarketer.feedback.	900	in	ns	f.nic.feedback.
 telemarketers.feedback.	900	in	ns	e.nic.feedback.
@@ -26183,6 +25953,8 @@ teller.feedback.	900	in	ns	e.nic.feedback.
 teller.feedback.	900	in	ns	f.nic.feedback.
 tellers.feedback.	900	in	ns	e.nic.feedback.
 tellers.feedback.	900	in	ns	f.nic.feedback.
+tellus.feedback.	900	in	ns	dns1.registrar-servers.com.
+tellus.feedback.	900	in	ns	dns2.registrar-servers.com.
 telma.feedback.	900	in	ns	e.nic.feedback.
 telma.feedback.	900	in	ns	f.nic.feedback.
 temasek.feedback.	900	in	ns	e.nic.feedback.
@@ -26277,10 +26049,6 @@ terrilyn.feedback.	900	in	ns	e.nic.feedback.
 terrilyn.feedback.	900	in	ns	f.nic.feedback.
 terry.feedback.	900	in	ns	e.nic.feedback.
 terry.feedback.	900	in	ns	f.nic.feedback.
-teryc.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-teryc.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-teryc.feedback.	900	in	ns	maceio.ns.porkbun.com.
-teryc.feedback.	900	in	ns	salvador.ns.porkbun.com.
 tesco.feedback.	900	in	ns	e.nic.feedback.
 tesco.feedback.	900	in	ns	f.nic.feedback.
 tesha.feedback.	900	in	ns	e.nic.feedback.
@@ -26351,8 +26119,6 @@ th.feedback.	900	in	ns	e.nic.feedback.
 th.feedback.	900	in	ns	f.nic.feedback.
 tha.feedback.	900	in	ns	e.nic.feedback.
 tha.feedback.	900	in	ns	f.nic.feedback.
-thabet.feedback.	900	in	ns	dns101.registrar-servers.com.
-thabet.feedback.	900	in	ns	dns102.registrar-servers.com.
 thad.feedback.	900	in	ns	e.nic.feedback.
 thad.feedback.	900	in	ns	f.nic.feedback.
 thaddeus.feedback.	900	in	ns	e.nic.feedback.
@@ -26407,8 +26173,6 @@ thebible.feedback.	900	in	ns	e.nic.feedback.
 thebible.feedback.	900	in	ns	f.nic.feedback.
 thebig.feedback.	900	in	ns	e.nic.feedback.
 thebig.feedback.	900	in	ns	f.nic.feedback.
-thebitcoin.feedback.	900	in	ns	dns101.registrar-servers.com.
-thebitcoin.feedback.	900	in	ns	dns102.registrar-servers.com.
 thebiz.feedback.	900	in	ns	e.nic.feedback.
 thebiz.feedback.	900	in	ns	f.nic.feedback.
 theblog.feedback.	900	in	ns	e.nic.feedback.
@@ -26609,10 +26373,8 @@ theonline.feedback.	900	in	ns	e.nic.feedback.
 theonline.feedback.	900	in	ns	f.nic.feedback.
 theonly.feedback.	900	in	ns	e.nic.feedback.
 theonly.feedback.	900	in	ns	f.nic.feedback.
-theoutpatientpharmacy.feedback.	900	in	ns	ns1-04.azure-dns.com.
-theoutpatientpharmacy.feedback.	900	in	ns	ns2-04.azure-dns.net.
-theoutpatientpharmacy.feedback.	900	in	ns	ns3-04.azure-dns.org.
-theoutpatientpharmacy.feedback.	900	in	ns	ns4-04.azure-dns.info.
+theoutpatientpharmacy.feedback.	900	in	ns	ns1.ibspark.com.
+theoutpatientpharmacy.feedback.	900	in	ns	ns2.ibspark.com.
 thep.feedback.	900	in	ns	e.nic.feedback.
 thep.feedback.	900	in	ns	f.nic.feedback.
 thepeople.feedback.	900	in	ns	e.nic.feedback.
@@ -26785,10 +26547,6 @@ through.feedback.	900	in	ns	ns1.opst.de.
 through.feedback.	900	in	ns	ns2.opst.de.
 thu.feedback.	900	in	ns	e.nic.feedback.
 thu.feedback.	900	in	ns	f.nic.feedback.
-thudms.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-thudms.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-thudms.feedback.	900	in	ns	maceio.ns.porkbun.com.
-thudms.feedback.	900	in	ns	salvador.ns.porkbun.com.
 thunder.feedback.	900	in	ns	e.nic.feedback.
 thunder.feedback.	900	in	ns	f.nic.feedback.
 thupten.feedback.	900	in	ns	ns1.vultr.com.
@@ -27592,8 +27350,6 @@ turnkey.feedback.	900	in	ns	e.nic.feedback.
 turnkey.feedback.	900	in	ns	f.nic.feedback.
 turntable.feedback.	900	in	ns	e.nic.feedback.
 turntable.feedback.	900	in	ns	f.nic.feedback.
-turtle.feedback.	900	in	ns	dns101.registrar-servers.com.
-turtle.feedback.	900	in	ns	dns102.registrar-servers.com.
 tutor.feedback.	900	in	ns	e.nic.feedback.
 tutor.feedback.	900	in	ns	f.nic.feedback.
 tutorial.feedback.	900	in	ns	e.nic.feedback.
@@ -28040,10 +27796,6 @@ uweightloss.feedback.	900	in	ns	e.nic.feedback.
 uweightloss.feedback.	900	in	ns	f.nic.feedback.
 ux.feedback.	900	in	ns	e.nic.feedback.
 ux.feedback.	900	in	ns	f.nic.feedback.
-uxalhz.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-uxalhz.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-uxalhz.feedback.	900	in	ns	maceio.ns.porkbun.com.
-uxalhz.feedback.	900	in	ns	salvador.ns.porkbun.com.
 uy.feedback.	900	in	ns	e.nic.feedback.
 uy.feedback.	900	in	ns	f.nic.feedback.
 uz.feedback.	900	in	ns	e.nic.feedback.
@@ -28238,8 +27990,8 @@ veda.feedback.	900	in	ns	e.nic.feedback.
 veda.feedback.	900	in	ns	f.nic.feedback.
 vega.feedback.	900	in	ns	e.nic.feedback.
 vega.feedback.	900	in	ns	f.nic.feedback.
-vegamovies.feedback.	900	in	ns	elisa.ns.cloudflare.com.
-vegamovies.feedback.	900	in	ns	johnathan.ns.cloudflare.com.
+vegamovies.feedback.	900	in	ns	dns101.registrar-servers.com.
+vegamovies.feedback.	900	in	ns	dns102.registrar-servers.com.
 vegan.feedback.	900	in	ns	e.nic.feedback.
 vegan.feedback.	900	in	ns	f.nic.feedback.
 vegas.feedback.	900	in	ns	e.nic.feedback.
@@ -28530,12 +28282,8 @@ ville.feedback.	900	in	ns	e.nic.feedback.
 ville.feedback.	900	in	ns	f.nic.feedback.
 vilma.feedback.	900	in	ns	e.nic.feedback.
 vilma.feedback.	900	in	ns	f.nic.feedback.
-vin777.feedback.	900	in	ds	51939 13 2 939966E60D8FC74DB4CAD7798B51BA920875B8C636440B1A6921F7FA7B142225
-vin777.feedback.	900	in	ns	launch1.spaceship.net.
-vin777.feedback.	900	in	ns	launch2.spaceship.net.
-vin777.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. X3Y04IGHrvdgwQqUThBvvacyxiT6hj74Rzy+S5rhTUwwyYVprks0ZDnoZnsyPnyPw0H4UxPbT5HvGJTCyvO0AA==
-vin7771.feedback.	900	in	ns	ainsley.ns.cloudflare.com.
-vin7771.feedback.	900	in	ns	jihoon.ns.cloudflare.com.
+vin7771.feedback.	900	in	ns	dns101.registrar-servers.com.
+vin7771.feedback.	900	in	ns	dns102.registrar-servers.com.
 vina.feedback.	900	in	ns	e.nic.feedback.
 vina.feedback.	900	in	ns	f.nic.feedback.
 vince.feedback.	900	in	ns	e.nic.feedback.
@@ -28694,7 +28442,7 @@ vn.feedback.	900	in	ns	f.nic.feedback.
 vn88.feedback.	900	in	ds	24953 13 2 A9F7F774CB122F1948D77081BC3CB5B1F6CB677D703FF151FF76A669A17102E7
 vn88.feedback.	900	in	ns	launch1.spaceship.net.
 vn88.feedback.	900	in	ns	launch2.spaceship.net.
-vn88.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. jsV+ZY5z/K/Q03AXpK2aFrTcR7VrnfLyLZtAfJy2W7Dnxqp+CX8MsuOH56fDqEEMZhGWnD/IKyeUm1S8FprZbQ==
+vn88.feedback.	900	in	rrsig	DS 13 2 900 20251012071810 20250912155742 50017 feedback. n5pbEQIfBGjfsxM5wTNjnion5O5E8s3QRA5IN7TUtSHM7jo9+4loN7roe6fi92b+tJS3LYcXzrYwBpzxIVBNOg==
 vo.feedback.	900	in	ns	e.nic.feedback.
 vo.feedback.	900	in	ns	f.nic.feedback.
 vocal.feedback.	900	in	ns	e.nic.feedback.
@@ -29341,10 +29089,6 @@ wimax.feedback.	900	in	ns	e.nic.feedback.
 wimax.feedback.	900	in	ns	f.nic.feedback.
 win.feedback.	900	in	ns	e.nic.feedback.
 win.feedback.	900	in	ns	f.nic.feedback.
-win55.feedback.	900	in	ds	9989 13 2 674E4F415DF64E08803217C03C86F47BF9C76B04FD2B19A890C3E1CEE64D80AE
-win55.feedback.	900	in	ns	launch1.spaceship.net.
-win55.feedback.	900	in	ns	launch2.spaceship.net.
-win55.feedback.	900	in	rrsig	DS 13 2 900 20251012001025 20250912001025 50017 feedback. YyMRNGX3R7e+cfDp/4twveWjZbRzCPBsJcmWyQZIl8L+TgNZwBANAmPyebXBIZV59JCWVh8CbRnLxcGqoEQhoA==
 win79.feedback.	900	in	ns	ns1.dyna-ns.net.
 win79.feedback.	900	in	ns	ns2.dyna-ns.net.
 win88.feedback.	900	in	ns	raphaela.ns.cloudflare.com.
@@ -29706,10 +29450,6 @@ xbox.feedback.	900	in	ns	e.nic.feedback.
 xbox.feedback.	900	in	ns	f.nic.feedback.
 xc.feedback.	900	in	ns	e.nic.feedback.
 xc.feedback.	900	in	ns	f.nic.feedback.
-xcutdp.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-xcutdp.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-xcutdp.feedback.	900	in	ns	maceio.ns.porkbun.com.
-xcutdp.feedback.	900	in	ns	salvador.ns.porkbun.com.
 xcvbpr.feedback.	900	in	ns	ns1.dns.com.
 xcvbpr.feedback.	900	in	ns	ns2.dns.com.
 xd.feedback.	900	in	ns	e.nic.feedback.
@@ -29762,18 +29502,8 @@ xocdia88.feedback.	900	in	ns	curt.ns.cloudflare.com.
 xocdia88.feedback.	900	in	ns	dalary.ns.cloudflare.com.
 xochitl.feedback.	900	in	ns	e.nic.feedback.
 xochitl.feedback.	900	in	ns	f.nic.feedback.
-xogulp.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-xogulp.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-xogulp.feedback.	900	in	ns	maceio.ns.porkbun.com.
-xogulp.feedback.	900	in	ns	salvador.ns.porkbun.com.
-xooloop.feedback.	900	in	ns	e.nic.feedback.
-xooloop.feedback.	900	in	ns	f.nic.feedback.
 xoso66.feedback.	900	in	ns	ns1.dyna-ns.net.
 xoso66.feedback.	900	in	ns	ns2.dyna-ns.net.
-xoypim.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-xoypim.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-xoypim.feedback.	900	in	ns	maceio.ns.porkbun.com.
-xoypim.feedback.	900	in	ns	salvador.ns.porkbun.com.
 xp.feedback.	900	in	ns	e.nic.feedback.
 xp.feedback.	900	in	ns	f.nic.feedback.
 xpert.feedback.	900	in	ns	e.nic.feedback.
@@ -29820,10 +29550,6 @@ xyz.feedback.	900	in	ns	e.nic.feedback.
 xyz.feedback.	900	in	ns	f.nic.feedback.
 xz.feedback.	900	in	ns	e.nic.feedback.
 xz.feedback.	900	in	ns	f.nic.feedback.
-xzefct.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-xzefct.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-xzefct.feedback.	900	in	ns	maceio.ns.porkbun.com.
-xzefct.feedback.	900	in	ns	salvador.ns.porkbun.com.
 y.feedback.	900	in	ns	e.nic.feedback.
 y.feedback.	900	in	ns	f.nic.feedback.
 y0.feedback.	900	in	ns	e.nic.feedback.
@@ -29897,8 +29623,6 @@ ybetwp.feedback.	900	in	ns	ns1.dns.com.
 ybetwp.feedback.	900	in	ns	ns2.dns.com.
 yc.feedback.	900	in	ns	e.nic.feedback.
 yc.feedback.	900	in	ns	f.nic.feedback.
-yczjw.feedback.	900	in	ns	ns1.dyna-ns.net.
-yczjw.feedback.	900	in	ns	ns2.dyna-ns.net.
 yd.feedback.	900	in	ns	e.nic.feedback.
 yd.feedback.	900	in	ns	f.nic.feedback.
 ye.feedback.	900	in	ns	e.nic.feedback.
@@ -29957,18 +29681,14 @@ yljrs.feedback.	900	in	ns	ns7.alidns.com.
 yljrs.feedback.	900	in	ns	ns8.alidns.com.
 ym.feedback.	900	in	ns	e.nic.feedback.
 ym.feedback.	900	in	ns	f.nic.feedback.
-ymcjzs.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-ymcjzs.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-ymcjzs.feedback.	900	in	ns	maceio.ns.porkbun.com.
-ymcjzs.feedback.	900	in	ns	salvador.ns.porkbun.com.
 yn.feedback.	900	in	ns	e.nic.feedback.
 yn.feedback.	900	in	ns	f.nic.feedback.
 ynxvir.feedback.	900	in	ns	ns1.dyna-ns.net.
 ynxvir.feedback.	900	in	ns	ns2.dyna-ns.net.
 yo.feedback.	900	in	ns	e.nic.feedback.
 yo.feedback.	900	in	ns	f.nic.feedback.
-yo88.feedback.	900	in	ns	benedict.ns.cloudflare.com.
-yo88.feedback.	900	in	ns	dana.ns.cloudflare.com.
+yo88.feedback.	900	in	ns	dns101.registrar-servers.com.
+yo88.feedback.	900	in	ns	dns102.registrar-servers.com.
 yogaguide.feedback.	900	in	ns	e.nic.feedback.
 yogaguide.feedback.	900	in	ns	f.nic.feedback.
 yogamat.feedback.	900	in	ns	e.nic.feedback.
@@ -30117,10 +29837,6 @@ yp.feedback.	900	in	ns	e.nic.feedback.
 yp.feedback.	900	in	ns	f.nic.feedback.
 yq.feedback.	900	in	ns	e.nic.feedback.
 yq.feedback.	900	in	ns	f.nic.feedback.
-yqeuth.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-yqeuth.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-yqeuth.feedback.	900	in	ns	maceio.ns.porkbun.com.
-yqeuth.feedback.	900	in	ns	salvador.ns.porkbun.com.
 yqwcjz.feedback.	900	in	ns	ns1.dnsip.com.
 yqwcjz.feedback.	900	in	ns	ns2.dnsip.com.
 yr.feedback.	900	in	ns	e.nic.feedback.
@@ -30171,10 +29887,6 @@ ywsso.feedback.	900	in	ns	ns7.alidns.com.
 ywsso.feedback.	900	in	ns	ns8.alidns.com.
 yx.feedback.	900	in	ns	e.nic.feedback.
 yx.feedback.	900	in	ns	f.nic.feedback.
-yxgpjd.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-yxgpjd.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-yxgpjd.feedback.	900	in	ns	maceio.ns.porkbun.com.
-yxgpjd.feedback.	900	in	ns	salvador.ns.porkbun.com.
 yy.feedback.	900	in	ns	e.nic.feedback.
 yy.feedback.	900	in	ns	f.nic.feedback.
 yz.feedback.	900	in	ns	e.nic.feedback.
@@ -30285,22 +29997,12 @@ zero.feedback.	900	in	ns	e.nic.feedback.
 zero.feedback.	900	in	ns	f.nic.feedback.
 zetta.feedback.	900	in	ns	e.nic.feedback.
 zetta.feedback.	900	in	ns	f.nic.feedback.
-zetypd.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-zetypd.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-zetypd.feedback.	900	in	ns	maceio.ns.porkbun.com.
-zetypd.feedback.	900	in	ns	salvador.ns.porkbun.com.
 zeus.feedback.	900	in	ns	e.nic.feedback.
 zeus.feedback.	900	in	ns	f.nic.feedback.
 zf.feedback.	900	in	ns	e.nic.feedback.
 zf.feedback.	900	in	ns	f.nic.feedback.
 zg.feedback.	900	in	ns	e.nic.feedback.
 zg.feedback.	900	in	ns	f.nic.feedback.
-zgbcyo.feedback.	900	in	ns	curitiba.ns.porkbun.com.
-zgbcyo.feedback.	900	in	ns	fortaleza.ns.porkbun.com.
-zgbcyo.feedback.	900	in	ns	maceio.ns.porkbun.com.
-zgbcyo.feedback.	900	in	ns	salvador.ns.porkbun.com.
-zgyrg.feedback.	900	in	ns	ns1.dyna-ns.net.
-zgyrg.feedback.	900	in	ns	ns2.dyna-ns.net.
 zh.feedback.	900	in	ns	e.nic.feedback.
 zh.feedback.	900	in	ns	f.nic.feedback.
 zi.feedback.	900	in	ns	e.nic.feedback.
@@ -30411,6 +30113,4 @@ zz.feedback.	900	in	ns	e.nic.feedback.
 zz.feedback.	900	in	ns	f.nic.feedback.
 zzodoo.feedback.	900	in	ns	e.nic.feedback.
 zzodoo.feedback.	900	in	ns	f.nic.feedback.
-zzvvb.feedback.	900	in	ns	ns1.dyna-ns.net.
-zzvvb.feedback.	900	in	ns	ns2.dyna-ns.net.
-feedback.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1757639420 1800 900 604800 300
+feedback.	300	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1759367417 1800 900 604800 300
