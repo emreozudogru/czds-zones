@@ -1,4 +1,4 @@
-bbva.	172800	in	soa	dns1.nic.bbva. hostmaster.nominet.org.uk. 1668418513 900 300 2419200 3600
+bbva.	172800	in	soa	dns1.nic.bbva. hostmaster.nominet.org.uk. 1668418521 900 300 2419200 3600
 apigateway.bbva.	172800	in	ns	a1-166.akam.net.
 apigateway.bbva.	172800	in	ns	a22-65.akam.net.
 apigateway.bbva.	172800	in	ns	a3-66.akam.net.
@@ -14,7 +14,7 @@ atom.bbva.	172800	in	ns	a7-65.akam.net.
 atom.bbva.	172800	in	ns	ns1.bbvaedge.com.
 atom.bbva.	172800	in	ns	ns2.bbvaedge.com.
 bbva.	0	in	nsec3param	1 0 0 -
-bbva.	0	in	rrsig	NSEC3PARAM 8 1 0 20251016180814 20250911171227 20974 bbva. UZchBbnYecA7KEv3zodnLgGdiQCwtXPLIa8sBJsuG1IUWNSYZcV/NMcJetK5392P2eAz56ZfNW4YCXrKJkMfkWDt9WIiQreBwpK/jIFpCyWiI4jeApgR0d6CfvmCjuuDg2ukdJdrI7DpNXYMv6/gbblWuxfdDsIcalN5z4VpwB6e0RFptsNi7aAdAaCweSWEGuR/TIGUScvjm3sneSs7lVTGUvHG9BYuJIjNueKrVbSCnAvG1U2Vf/hekS6uehZwG1ug9+5RKPkH18x/j1cu+puC+RSE2bRngsHiyYyfFGH5PVQ8NiTuFbFGnvFS7WEWXyBgeq9+iIK3aw/lz4atYQ==
+bbva.	0	in	rrsig	NSEC3PARAM 8 1 0 20251030171939 20250925170455 20974 bbva. LnT01hzFr6FFsK0m9EEVxKlToYAtTPP88ISNwdWI5q7GsoFSD7kgOAB2/MwrSe3VrhT7ApEPi847P18YLHyUGR6dEt/X+L6ELEqtcmZ1VUWk77ozkrDplh2lgXh5ZLVtoF5WKISJ4T4Jlk+OEck3x/NVVx6l31xe0kFuOOi4eS4qeUS56cUlw8OyADz/ahych9rUciizXpm2ixNHvmUJ2u2ssgqEgJDIT+ngMIlSFKKjs5P0FjHGA+caspmxNeWAAdSTGSzxQqeVvhppMi7IRQrZWOwPtsCImSZomiuCbgsM46E8T8fDnoLgjTyqod22DC/1lJh4ROoBCkFmtN7r6Q==
 bbva.	172800	in	dnskey	256 3 8 AwEAAcUsSJfKFyvER8cu9XTtJdZ9+Tn6xEXEXRvliIJQ3W7LoLKXjCZ8spTMcvALUpdLdtGArcLMJsPJJ5YYdkytc+4BM6e3gmA6riADjhDVXIAjs6rtDSNAyxc6uMA7FI53HHZexlp3JoQubwcd2ys/qSk/dPph6ZbDS2kGYcAiIoYqjFDHaNrCKRb91EP+EOBqhFlpvHc7KW0LG2XaKMZjRa4vJtfiNBu/bML6vn72Ff7e3q4N9MNBuvk+tOpnAWto/YhpYe+kxP5ECNPhjeeiIenM1R/bk8+y/dSVWsQZCU/Bpi4oaNcqyLFVskXlCH0W0hBRBCcIW0umI/Ey+NIIV2c=
 bbva.	172800	in	dnskey	257 3 8 AwEAAaeXigE0m4BKiaCMLkwLh/B36swrQrWtIPx1vKsTbmCTQUojTuoEW2IhX1zFcJnuMwN1OE10CH8M+ms9VbBmeaDBJ+r1/6gJ2xErLe2gV/edcicK8x40K7uzUxL+lq+aLU6f6Y+ri1idh3a1bLkuKXKLJVxBkwvicc6ttvbVTHSliaHfhbYrKNZkAKBl2eJR1CtFxx1suSKnpHrT+/t57wrbpq60amrgykkmPUjdoSY5/++jDdobjhrTI0DJZb6+bStQ/P5G5LaYcnwDIuU57P1Wwa5PB/Ztbk5IETMiS56oDhIRkm1OiLOm9WySWojzbHiZvDA9l4Lcb9Xy/dQcqbc=
 bbva.	172800	in	ns	dns1.nic.bbva.
@@ -25,9 +25,9 @@ bbva.	172800	in	ns	dnsa.nic.bbva.
 bbva.	172800	in	ns	dnsb.nic.bbva.
 bbva.	172800	in	ns	dnsc.nic.bbva.
 bbva.	172800	in	ns	dnsd.nic.bbva.
-bbva.	172800	in	rrsig	DNSKEY 8 1 172800 20251013034331 20250908024455 30962 bbva. fRROQlmCvcczoCuibZF1IRXz4ZjYi7Dh7ur4KlbngWVKST+2qrlGKCkJYP1YPjhgKFnueR0RhQTANFR808NXUKsHeMy3OdDE75uefN1RGyeCIcIdfMqRXTNggeNynNPctmf0Au+1cDHCuXcWG0jjpiBZqg9J46nqGz9eVCd4qpqR5o6QGDx4urGX/R2l5LMTJ/iyGrXGOkq7P6jZyIf9XTrafFOekoT3T9PjIZxkxU055x3mPRdl7HXPVugHaK/6MVFKMs3q6MSbGVh0+HGU/kXvWcBro/wNrF8ODgSISaj3+XuCdTnRfmnUhnV3WTQjsoYNWenERoy0Eqft66zUxg==
-bbva.	172800	in	rrsig	NS 8 1 172800 20251012044649 20250907035310 20974 bbva. igAtARS2k35Xd4I4o3127EUzSLRGhqnoa3fNPtGQoStiVw47CN+SX/jjAZqA7BWMNKu/l2lcexaxm78p1cxbFGRCh172tvh3iIQRwZRydiapa8FaEz9BDFB8AvLY/wdeqqE+7M+Q3R7vaFnH02MCpxLkwL5s9Q4Hn+z17s+0XnvayM5gtrGP+FKuRNFOEBrHf/i46Wn4ofGseDWKKt+rfOthJXJIQMo+dy25uRUdUR+MwgT/aGMHf0qdwvg70Qnj43LXsiNpXVUIZclc52I8shO4pV1onxxND+/dHGfVcY22rmA6cBF8UwwpDiWf6p9sAlZqkixzMLH4ZJsNRkDRmg==
-bbva.	172800	in	rrsig	SOA 8 1 172800 20251016181227 20250911171227 20974 bbva. c+OXZ3ZzApRAVeim44XDijzf9kpgxbfc7904JA5mgkLSav5H23Z8/Db8lxO9e9lgqpK2gjCb37qY0/5glw/nVt//UK45JOZQsu2nTN6qrPDMiy53WmhFA+zLl9GQwQjKDTVhv2pVwB6s7XXbXZDcBk05hkUE8SaCyLeAkk21+mf4IAj6MgSXQYXRdBhKJsXvzmepo2L0oB6CL1DTfYeMiOb8WKEvbIZRVLBjle1TaaMLFSvG4Xf4lXLBrEbMgJ/E5KOvCvmSP2xKmXBHaZ7kg9aNTNIkuJW1WYzliakzgpnHjDDCsuGLtHcyfO2MBbQZZizsDaizeV3wUgZ7b9bJcw==
+bbva.	172800	in	rrsig	DNSKEY 8 1 172800 20251103012151 20250929011816 30962 bbva. jqsjCRHc8Bt6nc9eqLCm/E0xR4BAOmbdV5liEsJUizqeM7HBk7u1O9qluzIx7MpxdQ8zh40UjAGVah1ypZWbtFpHCFdVpbFxIkp2Q6OpjzfIvrgSoDsmq7b88uNHWGeplXSkbfadzhHTDam7/ryjQxeHWOY0uXO7JMTwG4dP9T4p5Rg59AB7BT9SPojsSoR8mcaNGngUHXPzcnbPzkGD6YgWJhlArk9fYVgN2AU6CEqVhFlXW4c7FdaQGtPe767/e4kss42Gn4M8kMtQqeWu1+8cl7/IlCsL5qtvqjNQw+BPdfnb3L0hqTcR8irauInQJxrQxOPI6ZRkTM4v3SCdeQ==
+bbva.	172800	in	rrsig	NS 8 1 172800 20251102025906 20250928021135 20974 bbva. g7LH+DFyHc4wEwKNAdcq6x6TIZa2pIDLddV4CVE3vH0bL9Y/PWkIEUUVXtfVFxNm6LqnYVgnGH3E0DP5r7/Q82lQ9Ngj8XtfjemfBr2W7Ss1H3mlE7k3umhrSxFulzSLuayKsBiFFcJ0SeY5iOQu339+5f2SWh/qogNTYcpQjqVq6IcrPAscoMxF3bE1Ix93PAuJrwjBzsVGZwQFhmLhzal2NbANWAUTuw5A/b6jij73sc8C+eMeYsf5Qtz6rDrb4WzJ6GUXqkDbZodEI5VVpgk+0K5X4Ft3dwI5UQy2XuC+VkPyppir6kudjUqguhElskp1HlhsmElto/+fP+mPfw==
+bbva.	172800	in	rrsig	SOA 8 1 172800 20251103021816 20250929011816 20974 bbva. aVwOAzyvRh9M3YjE191o7xvy08cWRMD2+MkFo8iVB1gQzu23sohhPAl0vebrNl7MVEATXG3roybDC6rpbMHGhsapvTmhJA+Tf3394yDPZMgZBSx4XhaPq4E3AVzTHSFpfQW0aZedP3SRcHGJozxDhOBoo7KH49Ux6lT/04PMEFdKjM1AZ/XTf2K6ltuMzP88GitTs0PVst5JxYwXR54q96kIORC0UHT51DwAkJ1vS3j8AO6zMF9koBKVDq8KdYfEOMl1G5k/Z/TN7S5h/2BWFK5tOe2BvgKoPtm6/jVM+0xA/l3Ztp8gUs7YN98HqXG7sRrP/J5B+sBjyab2cSnM0g==
 campus.bbva.	172800	in	ns	a1-166.akam.net.
 campus.bbva.	172800	in	ns	a22-65.akam.net.
 campus.bbva.	172800	in	ns	a3-66.akam.net.
@@ -61,9 +61,9 @@ dnsc.nic.bbva.	172800	in	aaaa	2610:00a1:1009:0000:0000:0000:0000:0003
 dnsd.nic.bbva.	172800	in	a	156.154.103.3
 dnsd.nic.bbva.	172800	in	aaaa	2610:00a1:1010:0000:0000:0000:0000:0003
 kg9trc7b8rpod90uf80i6jgspe79dnv3.bbva.	3600	in	nsec3	1 1 0 - PJBS0TQ28HMAVB3TODDI15RTJ1OSTK4B NS DS RRSIG
-kg9trc7b8rpod90uf80i6jgspe79dnv3.bbva.	3600	in	rrsig	NSEC3 8 2 3600 20251016180814 20250911171227 20974 bbva. PHbZNruw5sPbj+ziT7iVvr5lHG5vQkB53OIzpFyfZpMotn03uGxAZAE3+RhJbF7pbGFra5++RS/7FbWdTN/ILNOVxTa1djkahPQOYS6lfZyzcxI9Mhvy+cupOgmo+lfQVa0hiwYH8UYR5bhMmCnB9NPQ230FTjwXxpgIAHm/k/CsnFmqpZWG+Z4JHeY0xN0JsRQKrof4jTP3pnA3GAzkX7F+VJkqgJaf3A9ZTISs8VwWrhsenKbEwybt1OmV7xMZVykV6DTiod9Q5XfL5TUZtfnR1jtk3sdDerJrpDlyLbjEh6YiO5unwmgA2UZtj27CXarG/ga14j+mhInjwExM6g==
+kg9trc7b8rpod90uf80i6jgspe79dnv3.bbva.	3600	in	rrsig	NSEC3 8 2 3600 20251030171939 20250925170455 20974 bbva. CRdJ/IDmyMkK7sjFLJotWVIK9GL6P1N1e5o0JRx8hzRL8QNHFPLOptkaWTjvsU0KaI0zJjPJXw4Gww9ZAaWT7+RicBZQL+9LoNgM0P+BK1SBaMa0Ue1yNKH7zCAliKiFcj2gHc8Qaq6aMDalyBKplyF7veZTQXTUBpfytLPqCCZFbYf1IixyUh86ukbHeQ6yucXch5ENFziKPfOmF0n9ZbkOsw4G/O0k1lVkj5swyqtPKFNZh6EP6j/DTqOQLxu+qc1mRMrj/uaTtLJLjrGhCrdA9+4K2aaYsJkUya1cPUz/VnpGe4vGkP6GpJwk9dSKMvUcax/YYJAt8Z3xXdf/bw==
 monitor-nominet.bbva.	3600	in	a	127.0.0.1
-monitor-nominet.bbva.	3600	in	rrsig	A 8 2 3600 20251012044649 20250907035310 20974 bbva. XeJCMlhol1KaiejoKu+ZyCEYAcRXRM+t6L2SYKai5q3jwipx4KoF2WBULupcnLfDUMl44tSY0YJV/74XgvUR8Z0fy7me5pJlbRUlqqhFI7QC05yWnGMklMEU46IapugmTr2tBrGEp1B5kibvnAIXVb9m6JZi5oRhYPX2kPPdsFCjXLdZoQDHuF+mWqnXrwCy/0RIYl/1atYpK7gxzVAdlw6T7naKy+EZS0sAXG/hnFTgveuKx7/OEWUubeAJk9DEBUmb9/cxVpouhBbpxRSZgI1MIRU4DMX9J6JEgrktgtdTB7PB6bhIrNNfDrYAqbgx5Mu7WlzGt1/xgVS0WPC3/w==
+monitor-nominet.bbva.	3600	in	rrsig	A 8 2 3600 20251102025906 20250928021135 20974 bbva. D3nqGF1BHtWCQH9wlQ6enOqU2PEsvgEzfl7Jt8/VuGkr3hSa2utUPG7hiYFl9FTElE2GacLk9P6icidXqFz57++KsbRnDw8kkvDxAZNLpX6irJ7D6aAl7LnMI6/jz1LDL5gd4FoCRfxKuG4mjVg+4qypXsFsYJ3Sp51noPf64DWM3pkqdF1qUtg7xrpIdsv2xZNjMIaoqIo5/u2NA1YqgAkMXnebm93kV0IJ9eblO2n7Js1NJn9HTbOGzjkgozGUJH97+Wy4TxrJ/222v01Dwd7zZv/pCVOSonrKVh6zqK/fprBs3ZdAHuyfyTBlc/SZv79hZWVXdnSR4J9dZ5CKTg==
 nic.bbva.	172800	in	ds	32210 8 2 C15483672B27FD76CF93851D393E5832EB3B22A78C780C308A307D52B9D79D62
 nic.bbva.	172800	in	ns	dns1.nic.bbva.
 nic.bbva.	172800	in	ns	dns2.nic.bbva.
@@ -73,7 +73,7 @@ nic.bbva.	172800	in	ns	dnsa.nic.bbva.
 nic.bbva.	172800	in	ns	dnsb.nic.bbva.
 nic.bbva.	172800	in	ns	dnsc.nic.bbva.
 nic.bbva.	172800	in	ns	dnsd.nic.bbva.
-nic.bbva.	172800	in	rrsig	DS 8 2 172800 20251012044649 20250907035310 20974 bbva. Co/4HdVxNFZdef+gUOTVFFgcXYK2HzyNQ2pGJijLsxW2s3HBAMtRzOAAabLdRNIRc7gUyU/1jOpi6nvpfeXPpRHNsR3XnFfVN7hW9ci9inF0dgAvqjWkwqL6I5VBIkPqRmtL3Ry4rmId7C+Jk9ztsRhjx1/CXywn+gt4jQTiAZ/B8dqbB1zrcUeCPyNExxYEFqKNsmec5iiG+xXNILtqgtA+27LORnhUgxe5laXlI2fpdHhymHpekDM0I78+JAbIrUgKO79DAhWV6K0XOkN4BoWwk8h9s9UQYqG7fCVSLp2egLuzKw1XX55xytyORQBhAiU1CmJtW8o/+1DG1pXUvg==
+nic.bbva.	172800	in	rrsig	DS 8 2 172800 20251102025906 20250928021135 20974 bbva. RIsjuxNYrFWqbQgkbeL+AJ74N2wi97s1iy+S1UW+Z2yDMR3iuBwNFbPsN8SrvlG+gAqKSIjgte8xdc3x96apgPQRviKuV9svMLqDspP18Juqk0JabdXWvJbzcK6qLfwJMaRlgwCAC9hJZ/CiQUXhhXUJTexhF+/ujDA13ibcSwzeGU/Wy+TDogh9zEMN6n/RFhiG1mUwWvINHjbW1qEMqtWcT1GpLjz6HFvY0SAMkwLvuZCrzsjQmijfMJMLiGRQhIRq7e3IVDeetnvY8dZjTj/OJj3/C2rVKqHKBYGzm+xaeXEHSvNeYR7hLRGDxUrTnQAm5qEhBa0ex9YSREZojw==
 ninja.bbva.	172800	in	ns	a1-166.akam.net.
 ninja.bbva.	172800	in	ns	a22-65.akam.net.
 ninja.bbva.	172800	in	ns	a3-66.akam.net.
@@ -99,7 +99,7 @@ payments.bbva.	172800	in	ns	a4-67.akam.net.
 payments.bbva.	172800	in	ns	a6-64.akam.net.
 payments.bbva.	172800	in	ns	a7-65.akam.net.
 pjbs0tq28hmavb3toddi15rtj1ostk4b.bbva.	3600	in	nsec3	1 1 0 - TMJVF8BILTJTEH6DJO30NR5E0SSE4H7U NS SOA RRSIG DNSKEY NSEC3PARAM
-pjbs0tq28hmavb3toddi15rtj1ostk4b.bbva.	3600	in	rrsig	NSEC3 8 2 3600 20251016180814 20250911171227 20974 bbva. Ri0QGOwAaRPG7AlnOxB9/Zl1jeKmzgVQ6+/o2/7DoddIkxqwrNLfgTk1VHWF1NDAv4+CLw8fi4bLAIZwfZ+aByDoBYRInh4HB6ahjEJVNxIy/vTG+1HH9TaKPa5R5ftCCFoWlL4KL6nPpFqxP7FT30zVf/0QxzGFQUtZ92MpjecPS+CQrgrDdLH3J2IaN7oyTXv24R6LoUkBEUZkwGYtZxkHTjWUIbIhuee8bqcym4ci7ESNvSXXNq9FDl4PTH+ENRjqzq/Yy4IGhZ3ODFYpIhWJ5ZzOi8iT6w+oaeS5Kp6SLeapOJPOxtstG9khoREFU7vz5JQPgK5waiAuWyoG8g==
+pjbs0tq28hmavb3toddi15rtj1ostk4b.bbva.	3600	in	rrsig	NSEC3 8 2 3600 20251030171939 20250925170455 20974 bbva. ogknG9okDueKPx161D0/3AIn6GsrTzuIo89HlDKA5qVnxThE8AJpTRi8uw3EuklrDWwSXNitqt7g0wM5pTQbcPWtyDr/tMoiBKQCmKtLOtS/pTL57/RQ3aMtUNJuFhIyzzrSl5NR2GEQMUIRwhs2Dh4SF2G9cBYCv0f1g9jgSGaIGX7qucrzoPzRptZ0VNzlFFJkHTlI+seOgL62TCMoHyUYIQT/flnZ5Pm6HaclVyKdfsQTx4nAfIr169L2NBDJf7z9pb2/I4Aa9dlzIWGOfYN/fnSf7OyQ/7oaRkX9h5EGkqxmnu1ZJnGU4W/YEpDt/t6y7+h5yumuN+OySqwkbA==
 techuniversity.bbva.	172800	in	ns	a1-166.akam.net.
 techuniversity.bbva.	172800	in	ns	a22-65.akam.net.
 techuniversity.bbva.	172800	in	ns	a3-66.akam.net.
@@ -113,7 +113,7 @@ theninjaproject.bbva.	172800	in	ns	a4-67.akam.net.
 theninjaproject.bbva.	172800	in	ns	a6-64.akam.net.
 theninjaproject.bbva.	172800	in	ns	a7-65.akam.net.
 tmjvf8biltjteh6djo30nr5e0sse4h7u.bbva.	3600	in	nsec3	1 1 0 - KG9TRC7B8RPOD90UF80I6JGSPE79DNV3 A RRSIG
-tmjvf8biltjteh6djo30nr5e0sse4h7u.bbva.	3600	in	rrsig	NSEC3 8 2 3600 20251016180814 20250911171227 20974 bbva. ox3ahEHH6m6u7oiU0fA21QwMYYftjEGpAHwdoMUTl0VDC2uUYPA+cMxFYJsDgaAFrArpJDxl5d2A3nDAuDM9I5i7mEsL2MNsT9kx8pq94p0cXep9Kjhb7zlHw0iYtt3bSJomg9cWSZ2t9vw/08ixYNjwjxO/tWXiSEtSoYVrUzarfdHOJ7lStmOXAZ8GedUyxsk9iv5y33TvOTVuy2wCarOOFHM/ONvSOtiIWetkIAG8CeAF/AGUjgzsOb2NkStrvw/BDvpLBwev8ytVN5nPg6m+xyP+7cCowel5+YVvqRkA/63Af1J3banBeqdxJi+2yD5ucOXFJrSmJBbl+dptvA==
+tmjvf8biltjteh6djo30nr5e0sse4h7u.bbva.	3600	in	rrsig	NSEC3 8 2 3600 20251030171939 20250925170455 20974 bbva. sOb1ssH2ldtmACjjwqM/VTMpJak5TuadttgTK5wup6suDNlqsdGUnUB0ADf5iA3MlxOi0Kf6SXNq25877OY+EiB0gouNJ+WWpzgnUGHw4KxZ/95wAsc6jw5ocimHNQ5Uwi/3hy9JfOc8enZ/slhxM23I0nrgFwsTPoUb8Zy1iZeoAC+aYcsTpBUSt7/3fJGzrhBJegFb3ZWFiz0lzlHAE9MGsNddlmdiWeiz9WaTxfUgFr8iZ4de4BUJ5CLDKR/Bt/u6veM5SBcn4RIZXpLgSTKE2YPBvJA35w9Q18ztuNQ/Hbrpy4/a9BQC2gqphYaRUC/nxaMr6oGx6lu7U4P/lA==
 tohu.bbva.	172800	in	ns	a1-166.akam.net.
 tohu.bbva.	172800	in	ns	a22-65.akam.net.
 tohu.bbva.	172800	in	ns	a3-66.akam.net.
@@ -126,4 +126,4 @@ wallet.bbva.	172800	in	ns	a3-66.akam.net.
 wallet.bbva.	172800	in	ns	a4-67.akam.net.
 wallet.bbva.	172800	in	ns	a6-64.akam.net.
 wallet.bbva.	172800	in	ns	a7-65.akam.net.
-bbva.	172800	in	soa	dns1.nic.bbva. hostmaster.nominet.org.uk. 1668418513 900 300 2419200 3600
+bbva.	172800	in	soa	dns1.nic.bbva. hostmaster.nominet.org.uk. 1668418521 900 300 2419200 3600
