@@ -1,0 +1,69 @@
+lincoln.	900	in	soa	ns1.dns.nic.lincoln. admin.tldns.godaddy. 1766813943 1800 300 604800 1800
+2c2djs7q89khtfb1ah0r8kkjm3knfd1r.lincoln.	900	in	nsec3	1 1 0 - NBK061D3SI4K6178KHA2E0H28UMDDD5A NS DS RRSIG
+2c2djs7q89khtfb1ah0r8kkjm3knfd1r.lincoln.	900	in	rrsig	NSEC3 8 2 900 20260106122655 20251223113552 14655 lincoln. ZSIvW2pc51BR/SOOOCnfHEo45eMaqZBmW57oQqoCH9TbVIEmvxuWWwR6xpT2B6Cc2AMDHZKdC2rpHoQsFo589P0GtUKdCkYUnjnVlWGkee8WbapNuNRxaNInVLRgaOSS6/GIJ0BRq4okE0t0idXN5K0weD//j1YmWajWw8xY5g4gthXWtfsm36vWnHl5Db7VyU2N0JcNFFZtHLN4koX/uw==
+_forcedupdate.lincoln.	300	in	rrsig	TXT 8 2 300 20260108084900 20251227043903 14655 lincoln. TeFvNPGoBoT76Hu1KYRF8Jm6iT4EUffOIw4nPOAxyZ4Lms/v7jqPL5FAxr/sp4NULrYWtPZpQRmA86ZB0eJQsF8jc7f80UD6ane0FBbeqj0pZSlH/CphXc+Ij8XcxDhT1vz+YWBEtoYwEj3jKKSL9WbV1xKnIt7mJDNGY5UthyzWjUpH8X6tDVZNrKsHa9TUwoeXyCYGXTkXF1mOccsDhw==
+_forcedupdate.lincoln.	300	in	txt	"1766813943"
+a.nic.lincoln.	3600	in	a	37.209.192.9
+a.nic.lincoln.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
+b.nic.lincoln.	3600	in	a	37.209.194.9
+b.nic.lincoln.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
+c.nic.lincoln.	3600	in	a	37.209.196.9
+c.nic.lincoln.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
+d.nic.lincoln.	3600	in	a	37.209.198.9
+d.nic.lincoln.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
+go.lincoln.	3600	in	ns	extdns011.ford.com.
+go.lincoln.	3600	in	ns	extdns012.ford.com.
+go.lincoln.	3600	in	ns	extdns013.ford.com.
+go.lincoln.	3600	in	ns	extdns014.ford.com.
+home.lincoln.	3600	in	ns	pdns196.ultradns.biz.
+home.lincoln.	3600	in	ns	pdns196.ultradns.co.uk.
+home.lincoln.	3600	in	ns	pdns196.ultradns.com.
+home.lincoln.	3600	in	ns	pdns196.ultradns.info.
+home.lincoln.	3600	in	ns	pdns196.ultradns.net.
+home.lincoln.	3600	in	ns	pdns196.ultradns.org.
+lincoln.	0	in	nsec3param	1 0 0 -
+lincoln.	0	in	rrsig	NSEC3PARAM 8 1 0 20260106122655 20251223113552 14655 lincoln. hMmLALb0XYRr32sl7z8cMBHRybY7S29fz/V7hkDQqCoLMIAUQvdBYidFq1juGiHOeT0q3cKrX7hCy7yDGfwOO51LhywExtDrofY3y+89kyo6twxO/xFxblQLozYpZ/65cpkyWYwTrzJ0iroF8+wAlJIwrYck7MnfwrzWNkvzMGdoZV27CNR68hNatKQFZ+GA60AqL6oHvJiiS3tlHknVGw==
+lincoln.	3600	in	cdnskey	257 3 8 AwEAAcDe465zAyha9dX1W/SWuXPXsghkk0IiqRssKHTrXCnJjheggRcibzJGy2MU+Dniiz/oHvZvB7J9pZ/JHXIB8ffv1P3m2eT64+o5KVOGrOv1MrRV4Q1IKskph6W7xOoQ1l5ZT9i2S/5oZfraKGO6bSx2dtiNhzwiC/76EAMLNWiTL3ou2Qg8ivPZBjTnBudKUzf0mS0WmRKCdcyeCis5R8JTz2NDaQ+hsqcxGhT/UAzoSGV+R/Ngjd2Qo2jdzj6di/Ca4tEpafgX9efbQZRKCMby1c4fZeKHArzg/M9kR95jINAs+x7/Woie+1n9Ub0LEjqxwj/Iqx99eYnKTL6dEA0=
+lincoln.	3600	in	cds	10597 8 2 54EEB8F5A01779190A418A0BAA75372C8B84FC313188B03DB43E2FAE379F133F
+lincoln.	3600	in	rrsig	CDNSKEY 8 1 3600 20260108013948 20251225012035 10597 lincoln. o2biTK9wA8PejkEoR1uVNpxD50ybz4xi1dKEJ/4/iIBpXIvNF9+yFHsD0L/Z2RpPZdgnRmaztMipAi2QXHRq54qIoRuGaGh6iy0594C6P/cK62z/N2vcZFJ7VmUSSaGWU6ohrGZ0+iAWVpO0qQg2ASNLvZSbVrNjDRzUXp5VsaQ6B9/MuWR5uXEg+etiB+Nie+rBCzBN7d56SARIIVUlwzCfCI0vXTjxF5FVLLTk20B7L9gufhnHks9lwKFHzJRIEJpFwlpDHqrI5H/lLeKCIle8wR4yV0tYCDe74rZhp3mtv2Rjx06Wa3oGKtZaBSMSeDO+sv4PXcr+N4WnsT0fQA==
+lincoln.	3600	in	rrsig	CDS 8 1 3600 20260108013948 20251225012035 10597 lincoln. nf1gu/+Jb64Y7qZVm5C0CmGIGUb7ly03ffzj0gPXD010EYtGjcj/tFBfK53N7QlmBAmh26qHwWtnsWcoVLv9Wh1+/CgEajyVdjhPgkn/Tm2oVcRTTlKpkOubPZWbQeZToXDNYUFjaZlMn9wNJTtGz/pcTft2Za6uzfPaD54JtVp887cF3OrWOUEnsl3rH6tQ0gEWZC2sidEMRuLw7pd27b+pqOcP7+nYj8Cl7mHzR6wM9MK4TagVWsGTiLY2cQV3tVeb+amY157Ec3kUPqNObFoACclhmvgDehVOjeHgpFabc9RAqztB3KDbV+gLgueew/ApcUjQV1Rjjz1d6wwh+w==
+lincoln.	7200	in	dnskey	256 3 8 AwEAAcU4KcqOXIy1Tv5mY2Mq7ojIAAMwDIhsA9ARyBW9+t3pO9TI26VFRyLug338gnpjOGxhu91HK1T9Rzca1r2endDJ6EjNUEMMWud8ZC3JUrDMqZCx1YkVnayz+grXeDb6M67dqcwUK8IlRAfXickG5F8E/ykDZZa9+RVZEgdTqhl7tE8lGjc6eq452JTfw5GhoUsqzNEgeO7iuyxjspTMg0U=
+lincoln.	7200	in	dnskey	257 3 8 AwEAAcDe465zAyha9dX1W/SWuXPXsghkk0IiqRssKHTrXCnJjheggRcibzJGy2MU+Dniiz/oHvZvB7J9pZ/JHXIB8ffv1P3m2eT64+o5KVOGrOv1MrRV4Q1IKskph6W7xOoQ1l5ZT9i2S/5oZfraKGO6bSx2dtiNhzwiC/76EAMLNWiTL3ou2Qg8ivPZBjTnBudKUzf0mS0WmRKCdcyeCis5R8JTz2NDaQ+hsqcxGhT/UAzoSGV+R/Ngjd2Qo2jdzj6di/Ca4tEpafgX9efbQZRKCMby1c4fZeKHArzg/M9kR95jINAs+x7/Woie+1n9Ub0LEjqxwj/Iqx99eYnKTL6dEA0=
+lincoln.	7200	in	rrsig	DNSKEY 8 1 7200 20260108013948 20251225012035 10597 lincoln. wNUHpyn0VGIoO1d7Sqm3KqFf2eI0b0wFQZNnn59SSVgydT7lfQuJ6jZXHra0XI7tEmXVbGGggWNAFLh5do/iZE95hVScJizAeeI8nGNm5FU5inel65UndEmhcrVfX6NGTJHHkn6ZmSMkHwT5Z2KPLGOh+lFbcv3+8bU6y7ipxPUOOdM5JWBal14Azj6ipKU7ukCd73mByH78MqP6QNP6r1NBbAqjcwEJmUsLhLMjHE4JZw12P+ss4/V5/erpJ3/wlMdq6mN1UbWr16PVADP+Q7g1ONklclSML2ZdxeeCGzp+76SvEL8hZAP39WPcr2chGIEfvZFG8InHMRbRzYYM4g==
+lincoln.	86400	in	ns	a.nic.lincoln.
+lincoln.	86400	in	ns	b.nic.lincoln.
+lincoln.	86400	in	ns	c.nic.lincoln.
+lincoln.	86400	in	ns	ns1.dns.nic.lincoln.
+lincoln.	86400	in	ns	ns2.dns.nic.lincoln.
+lincoln.	86400	in	ns	ns3.dns.nic.lincoln.
+lincoln.	86400	in	rrsig	NS 8 1 86400 20260108114022 20251225112041 14655 lincoln. HqW1n3UBjI0UuFgqIolEkdyvfZAg8lgCfU7AFVaLsYpzpOH7HcYyJUAh7t551KLihT53MW95iHZ+fSXOIDqZJUbJbx+8TzhGeA/fbueE117/UQipEH6Zv3J6kR1XY3egb9JzYro4mHC06ZyBJIOstCjh3nTgMU40YfEK8PPu5NndLavJF0AjtjjN2CLatXYk+Lwtqk+ziHSFAoaLJOzXNw==
+lincoln.	900	in	rrsig	SOA 8 1 900 20260110053903 20251227043903 14655 lincoln. wj7+JGiagc2P3bIIUXfNhpO2hz0LuQH7TE4OgkS75HBoXw8CiHHGGZJ7FGWBrjq1BHoIOJ209ksesJEcDicqmqdbmeVLHUW4t2onU8BLcLP6oUahQPq93d1nhW/cxySZCU7bV4KiMQPmwVFApmz3RwJzPmvnI8SDYvtT2gVO2nQREwSO0gi3i/YaHVHr2MUgGY3t7Jzc/wc8ZKtW/fqQQQ==
+m.nic.lincoln.	86400	in	a	204.74.104.90
+m.nic.lincoln.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
+n.nic.lincoln.	86400	in	a	204.74.106.90
+n.nic.lincoln.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
+nbk061d3si4k6178kha2e0h28umddd5a.lincoln.	900	in	nsec3	1 1 0 - QPIPBSTRD8HIEEA8MKTSMDJN1BKUEH45 NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
+nbk061d3si4k6178kha2e0h28umddd5a.lincoln.	900	in	rrsig	NSEC3 8 2 900 20260108013948 20251225012035 14655 lincoln. QsgMOs23XEIZk6pyVZ4Sul5JoUz+z0KEz4JITKySlHh4ctRxPwkcu9wI1tBnkMFmBu7or2Lbb3aoRIboZDyN6m47ZDte46IBb+uiWyK5kN33zs1IY4C4RXwHVJOM3tvEY6QFDwZLsZ8EVFN5yNONTSo0rQi33i8XvZ3RnuKveyTXHtiAnNJP1AyEz+BAEL8JAUj0wZNZ+kNdlNolczChwg==
+nic.lincoln.	3600	in	ds	34810 8 2 75BBDE5537E21D5115154C7769E19E75E6AD31438532E2A8ED16F007517FE486
+nic.lincoln.	3600	in	rrsig	DS 8 2 3600 20260108114022 20251225112041 14655 lincoln. Mn+VDv7x1gS7iAdh4JvEsZHmZ05uvkg5deSI8hARUzWs7+lSYHwhmag/J8497ntBefQ/8ruNYVNb1avsxTZRZTjPRNiG5Ju19sQbqpG9moEds59FsyqPbk5jFu1OZcdvBxCxKPOUJhglzcwb1S9PWqDdpcYP1Jq6t3jZkS/pr3580bD9aKxyUZcEt3c7/Wk4J4POkc71rqJKgqVTrTcAyA==
+nic.lincoln.	7200	in	ns	ns1.dns.nic.lincoln.
+nic.lincoln.	7200	in	ns	ns2.dns.nic.lincoln.
+nic.lincoln.	7200	in	ns	ns3.dns.nic.lincoln.
+nic.lincoln.	7200	in	ns	ns4.dns.nic.lincoln.
+nic.lincoln.	7200	in	ns	ns5.dns.nic.lincoln.
+nic.lincoln.	7200	in	ns	ns6.dns.nic.lincoln.
+ns1.dns.nic.lincoln.	7200	in	a	156.154.144.105
+ns1.dns.nic.lincoln.	7200	in	aaaa	2610:00a1:1071:0000:0000:0000:0000:0069
+ns2.dns.nic.lincoln.	7200	in	a	156.154.145.105
+ns2.dns.nic.lincoln.	7200	in	aaaa	2610:00a1:1072:0000:0000:0000:0000:0069
+ns3.dns.nic.lincoln.	7200	in	a	156.154.159.105
+ns3.dns.nic.lincoln.	7200	in	aaaa	2610:00a1:1073:0000:0000:0000:0000:0069
+ns4.dns.nic.lincoln.	7200	in	a	156.154.156.105
+ns4.dns.nic.lincoln.	7200	in	aaaa	2610:00a1:1074:0000:0000:0000:0000:0069
+ns5.dns.nic.lincoln.	7200	in	a	156.154.157.105
+ns5.dns.nic.lincoln.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0000:0069
+ns6.dns.nic.lincoln.	7200	in	a	156.154.158.105
+ns6.dns.nic.lincoln.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0000:0069
+qpipbstrd8hieea8mktsmdjn1bkueh45.lincoln.	900	in	nsec3	1 1 0 - 2C2DJS7Q89KHTFB1AH0R8KKJM3KNFD1R TXT RRSIG
+qpipbstrd8hieea8mktsmdjn1bkueh45.lincoln.	900	in	rrsig	NSEC3 8 2 900 20260106122655 20251223113552 14655 lincoln. LcJwtJdEG6487fJeSkXtdUtWcSe48v+khs4Mfzrc1cAwWkJqE+1I1fZnR3EUAhbBOUqxHd9k7pT5psrQUJwOWKoaihEmlC74ikQnQ+nvmgepvmKD3USYYxIGvEXRqQKa7Bcj+ykL+u/qtKID2cCemRqMljgcpCZ+Un4xCUVVhiDzDA4YX4EWPB0c3gJM5v48/YrwC61wTz+dWnobwQwD6Q==
+lincoln.	900	in	soa	ns1.dns.nic.lincoln. admin.tldns.godaddy. 1766813943 1800 300 604800 1800
