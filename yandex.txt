@@ -1,4 +1,4 @@
-yandex.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1759368911 1800 900 604800 300
+yandex.	300	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1767663018 1800 900 604800 300
 123.yandex.	900	in	ns	ns3.yandex.ru.
 123.yandex.	900	in	ns	ns4.yandex.ru.
 360.yandex.	900	in	ns	ns3.yandex.ru.
@@ -30,6 +30,8 @@ catboost.yandex.	900	in	ns	ns3.yandex.ru.
 catboost.yandex.	900	in	ns	ns4.yandex.ru.
 chef.yandex.	900	in	ns	ns3.yandex.ru.
 chef.yandex.	900	in	ns	ns4.yandex.ru.
+city.yandex.	900	in	ns	ns3.yandex.ru.
+city.yandex.	900	in	ns	ns4.yandex.ru.
 clickhouse.yandex.	900	in	ns	ns3.yandex.ru.
 clickhouse.yandex.	900	in	ns	ns4.yandex.ru.
 cloud.yandex.	900	in	ns	ns3.yandex.ru.
@@ -79,7 +81,7 @@ golang.yandex.	900	in	ns	ns4.yandex.ru.
 help.yandex.	900	in	ns	ns3.yandex.ru.
 help.yandex.	900	in	ns	ns4.yandex.ru.
 i4knboejfekbufdoin857he76jc79pup.yandex.	300	in	nsec3	1 1 0 - V105ERK6NCPKQ19SLRE9D543Q5HI955E NS SOA RRSIG DNSKEY NSEC3PARAM
-i4knboejfekbufdoin857he76jc79pup.yandex.	300	in	rrsig	NSEC3 13 2 300 20251101003512 20251002003512 20597 yandex. 4rSx+FTaJ/ve86ejJAEw0STeLcRfM3aN2B3tR0DkOluSqYl0tVESEf4fVHxdb7tGvEHwAh1CIApMsDwqP+Pz5Q==
+i4knboejfekbufdoin857he76jc79pup.yandex.	300	in	rrsig	NSEC3 13 2 300 20260117194848 20251219154018 20597 yandex. HMTetAmrsXrMWAsK2X7Y386BUrfrhRwV+1lJNvoPfTM+JfRi+6dxMTUx5KAGbi9Tkyj3UFIq/mGJlrYi/hGWUg==
 iframe-tasks-sandbox.yandex.	900	in	ns	ns3.yandex.ru.
 iframe-tasks-sandbox.yandex.	900	in	ns	ns4.yandex.ru.
 iframe-tasks-testing.yandex.	900	in	ns	ns3.yandex.ru.
@@ -120,7 +122,7 @@ music.yandex.	900	in	ns	ns4.yandex.ru.
 nic.yandex.	900	in	ds	2499 13 2 AB5F20438BAB321070818C531237C69DC9698DC0981F8EE0E13FE7FF95849702
 nic.yandex.	900	in	ns	ns03.trs-dns.com.
 nic.yandex.	900	in	ns	ns03.trs-dns.net.
-nic.yandex.	900	in	rrsig	DS 13 2 900 20251101003512 20251002003512 20597 yandex. zFAMhtGmEpDQoj7ytG/UWYmcvTYyd3ogLdGy1CVCsUfF+10EaCjUGfAdDzPCNSQQmpKJbaPpPg6Kck0+MymuNA==
+nic.yandex.	900	in	rrsig	DS 13 2 900 20260120195219 20251222105028 20597 yandex. kU2lp6FGc6vhEjnk+mVyy34xzDtd5BlvuruR1wDoYRXN4Q/56otmMorKBy1tjW7Gn2uY3fLXtl1eqRYQXFrjPQ==
 offer.yandex.	900	in	ns	ns1.yandex.net.
 offer.yandex.	900	in	ns	ns2.yandex.net.
 opensource.yandex.	900	in	ns	ns3.yandex.ru.
@@ -208,7 +210,7 @@ ultima.yandex.	900	in	ns	ns4.yandex.ru.
 uslugi.yandex.	900	in	ns	ns3.yandex.ru.
 uslugi.yandex.	900	in	ns	ns4.yandex.ru.
 v105erk6ncpkq19slre9d543q5hi955e.yandex.	300	in	nsec3	1 1 0 - I4KNBOEJFEKBUFDOIN857HE76JC79PUP NS DS RRSIG
-v105erk6ncpkq19slre9d543q5hi955e.yandex.	300	in	rrsig	NSEC3 13 2 300 20251101003512 20251002003512 20597 yandex. 7BIjTx+8akGkiUKC/K8oqOclci/sql2etWvBHI5duGmeVTW8KU6OT+ufj5HVeH4UALGCEow+Ns0LvX1PVurNqA==
+v105erk6ncpkq19slre9d543q5hi955e.yandex.	300	in	rrsig	NSEC3 13 2 300 20260118163212 20251220104008 20597 yandex. I3OXy6qzjXxWATTJOp8TuXShsm9tjJXhQcKUTClFnBHonEKnG7KOoGW0nri5KxlreiQoTZzfBXa4Qq2JpUAJVw==
 video.yandex.	900	in	ns	ns3.yandex.ru.
 video.yandex.	900	in	ns	ns4.yandex.ru.
 webmaster.yandex.	900	in	ns	ns3.yandex.ru.
@@ -225,21 +227,21 @@ yac-photo.yandex.	900	in	ns	dns3.safenames.org.
 yace.yandex.	900	in	ns	ns3.yandex.ru.
 yace.yandex.	900	in	ns	ns4.yandex.ru.
 yandex.	0	in	nsec3param	1 0 0 -
-yandex.	0	in	rrsig	NSEC3PARAM 13 1 0 20251101003512 20251002003512 20597 yandex. Cg9TN1ggZqICdqkFv//4P5MHFFg/pBOPdi98n1P2/fiRT9+AY2BkjRALFetMRUmVPkIBF2mVJF9xhyhAjuiNPw==
+yandex.	0	in	rrsig	NSEC3PARAM 13 1 0 20260119011447 20251221202506 20597 yandex. jubaYbjCIp/Lrq5C9Npg9fmzXA4/GKeq50E8JANjG3xXRvyJ6oNxhnEygp00cYytysuJAs3i7sN+ARf1voF6pA==
 yandex.	172800	in	ns	ns01.trs-dns.com.
-yandex.	172800	in	ns	ns01.trs-dns.info.
 yandex.	172800	in	ns	ns01.trs-dns.net.
-yandex.	172800	in	ns	ns01.trs-dns.org.
-yandex.	172800	in	rrsig	NS 13 1 172800 20251101003512 20251002003512 20597 yandex. YB33wKkOWAGhdDCMWFhh+V4FhUajOxmJVB1RITe51PxCAEzGuKn+eJc3G4bFc4EpzWp14nQ7kMTp91dhKJeS0Q==
-yandex.	86400	in	dnskey	256 3 13 JL7WERxoZTKNq4PEmfX7spyxAY6w931UkBkA3NmTU85Rn/V6nD9cWR9dC8h/0sqeoL1p1hRPLNGnsS59kSg1rA==
-yandex.	86400	in	dnskey	257 3 13 Yw2+ScBspDEM6AOaSEnwqid+abrV/NVBZzIDcayHpyUmUd0NrdCMeX4Ej+gPoFHXO2u1/7hE0bfHBoHyXaQnQA==
-yandex.	86400	in	rrsig	DNSKEY 13 1 86400 20251101003512 20251002003512 20597 yandex. DXpT1ITSRLacFRkTXhycU+79DnX4lHlNSt+V/jMv50nmG4sb7Rp6/Nz3ryO09EvcGE24Qcr4qDanngBllA3krA==
-yandex.	86400	in	rrsig	DNSKEY 13 1 86400 20251101003512 20251002003512 50324 yandex. GfYNasUaUXBpt4Zo91w3eVr/1xGTeTFIqJAFZHldN8DkAtwZBRZXOESz7w9AU7ZjEX7U91CSoDAxSFlH1Qo1QQ==
-yandex.	86400	in	rrsig	SOA 13 1 86400 20251101003512 20251002003512 20597 yandex. ve5LLt2x6nUutpsDZDO041ctKhNR+9faBTcF361qFbeXV1LiOfDMHGilN+4orl0o7M8smf8WCr8dK7rc2v+T6w==
+yandex.	172800	in	ns	ns10.trs-dns.info.
+yandex.	172800	in	ns	ns10.trs-dns.org.
+yandex.	172800	in	rrsig	NS 13 1 172800 20260129145718 20251231165007 20597 yandex. XgtpqQ8kB8iU/MO3/cghTjwDgyfH2wo8fA5DCX/0tX8MZ4IuqCE3Lk9CpsP0qSUmiHNRcl0YbtiK5Z9tsYGauw==
+yandex.	300	in	dnskey	256 3 13 JL7WERxoZTKNq4PEmfX7spyxAY6w931UkBkA3NmTU85Rn/V6nD9cWR9dC8h/0sqeoL1p1hRPLNGnsS59kSg1rA==
+yandex.	300	in	dnskey	257 3 13 Yw2+ScBspDEM6AOaSEnwqid+abrV/NVBZzIDcayHpyUmUd0NrdCMeX4Ej+gPoFHXO2u1/7hE0bfHBoHyXaQnQA==
+yandex.	300	in	rrsig	DNSKEY 13 1 300 20260116190316 20251219145009 20597 yandex. 5zJIK/ElcaoETTPkS+thjjX53iyMnbyJxjir9IzKzLCMYNuT4EPOIVnKkk9+bibXhbhr1BlfwP5DMEaxlTGH1A==
+yandex.	300	in	rrsig	DNSKEY 13 1 300 20260120061647 20251222033514 50324 yandex. OruVprepQbR9S/GNTb4JvpOnco8uwn/JXGlfbjtpgxmfISLlPRNHjg4CG95rR9gA2uUeuCSJB8iH9cUQTEs5+Q==
+yandex.	300	in	rrsig	SOA 13 1 300 20260204070602 20260106003018 20597 yandex. F+zWzkPaHsI0SWlWQzEN5JxaT+8Cp62x7WK2IgLST99CK9Fpd/Gw6pI5LsmEm0rGvhNTSMPEq66645PwUByxhA==
 yang.yandex.	900	in	ns	ns1.yandex.net.
 yang.yandex.	900	in	ns	ns2.yandex.net.
 yasubd-rf.yandex.	900	in	ns	ns3.yandex.ru.
 yasubd-rf.yandex.	900	in	ns	ns4.yandex.ru.
 zen.yandex.	900	in	ns	ns3.yandex.ru.
 zen.yandex.	900	in	ns	ns4.yandex.ru.
-yandex.	86400	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1759368911 1800 900 604800 300
+yandex.	300	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1767663018 1800 900 604800 300
