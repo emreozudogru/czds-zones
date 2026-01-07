@@ -1,6 +1,6 @@
-broadway.	172800	in	soa	dns1.nic.broadway. hostmaster.nominet.org.uk. 2100002762 900 300 2419200 3600
+broadway.	172800	in	soa	dns1.nic.broadway. hostmaster.nominet.org.uk. 2100002220 900 300 2419200 3600
 9g7io8m4e9tcenbdpl32mv4gm37gumfi.broadway.	3600	in	nsec3	1 1 0 - DKQDHC17KSHSUD594BO656D0GU9RLHQQ A RRSIG
-9g7io8m4e9tcenbdpl32mv4gm37gumfi.broadway.	3600	in	rrsig	NSEC3 8 2 3600 20251030014252 20250925004423 22965 broadway. dPn4FesfFD+oMR6BrALwhI3zXUT6ieh64w+t1E1iIV5P0mTDvo0MjtX+Dk4B/R0SOyUmqf2q5oHjY/kCJOMgP4j0V6H/fyqnADJkJuF6DgLgpaWdn5fBWlGNXN0mrPc1KqawhFHIu8QtkR/agK5xg/SVCcvk6XTKmemdsEhMBBYMVoITZMlOfY9tYPEPi7/DO0rhzLf2IuC8BatNeUxHHH7OH0bPIc07ICcLGo99NBrxTHb+vscFM+aKAXBxZBQNyppuP6MPsDAZMhjAL7ILc7QONPMuweGixuRSz6hzl+A25j+E/FZupvfb6eHp2xscBVEHE0rVTjWBA1mo9QmAYg==
+9g7io8m4e9tcenbdpl32mv4gm37gumfi.broadway.	3600	in	rrsig	NSEC3 8 2 3600 20260206042039 20260102040407 22965 broadway. ODdjFF9LybV0y6xIFqncrMvo03wfcdcziy5xom4fAujTMcwdjF6I/+RRsLZbiO5LdYyX8nbiZ7X2IzHxrBiPPjviGguSz2qLTUNqn7xo5BaIsDOTH4pE/NSeQ0xOc5+4p1koTiI7HyaJwYLlu4Z9msTFJeLsHSrHR/YysYw9FXVNx8+YJI1I6QoRG1xFPszXIgmuRo/26yWh7e8C75niWXygSDnStKhL5jADrSF7TgEbaSnAGu34cbb1xnJ6DV/7TkjUkDbT9vhoho9gdFGimzfZDLt6PqfvSkRkytOKrlyiJuxpRrcvg/P4B6JI+6YKBk8W/OPp53Sb00GUWJ8ZVw==
 abeautifulnoise.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 abeautifulnoise.broadway.	172800	in	ns	nssui.comlaude.ch.
 abeautifulnoise.broadway.	172800	in	ns	nsusa.comlaude.net.
@@ -76,9 +76,6 @@ backtothefuture.broadway.	172800	in	ns	dns1.comlaude-dns.com.
 backtothefuture.broadway.	172800	in	ns	dns2.comlaude-dns.net.
 backtothefuture.broadway.	172800	in	ns	dns3.comlaude-dns.co.uk.
 backtothefuture.broadway.	172800	in	ns	dns4.comlaude-dns.eu.
-badcinderella.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
-badcinderella.broadway.	172800	in	ns	nssui.comlaude.ch.
-badcinderella.broadway.	172800	in	ns	nsusa.comlaude.net.
 bankofamericatheaterchicago.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 bankofamericatheaterchicago.broadway.	172800	in	ns	nssui.comlaude.ch.
 bankofamericatheaterchicago.broadway.	172800	in	ns	nsusa.comlaude.net.
@@ -150,8 +147,8 @@ broadhursttheatre.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 broadhursttheatre.broadway.	172800	in	ns	nssui.comlaude.ch.
 broadhursttheatre.broadway.	172800	in	ns	nsusa.comlaude.net.
 broadway.	0	in	nsec3param	1 0 0 -
-broadway.	0	in	rrsig	NSEC3PARAM 8 1 0 20251031070229 20250926064251 22965 broadway. Gxy857EgrstMNI767xjIfY5QOlbhPFFDMxjnCOaOcoAV6KLegJ4vpMs4K+vyYBRJA7nU5/j4S2JxJb6hGitUFuUIZEHlftxJIwkGg+pDhoG+I37ggapm2HWFOxKIxALttzqP8uDCpxt2GXBgh+QpUu8TGaMT4RWDMW+ekJS+1sY+F792TJA2nk5Na89i0J09YTNRtqfIb4uLVjJcixb57w+n+aJLnxsaSA2wTfkY56zlmyPs2uftUzJwNUPH8xkvzsuEndEi6/NfSr5vGF4QwxjlnvSA8CJGBY4WGT0uwpboWDo3l392ErNIJc1iBo8jmDPn5cvxtjBnn+iObJ32jw==
-broadway.	0	in	rrsig	TYPE65534 8 1 0 20251031070229 20250926064251 22965 broadway. di4NBUFizeIjfny1GdqM1/uBLmimaYg7ofDoF0eEmp6EePywA3XxNDEichLjVXjmU+mBtUaG/wLLT7y66B9N347GPHWhnDAUuJUbNB90WKSuIq8ARjVe7H9ZZpyctN0NbWee9CxEyOFP0UYG5FGtGMpRG2DA0xlNFXS1Mnno+kM3gcGROTiDOc6y8dRtRYscbVhJmuucTgBKPk8LgLqmZKGKUuL6mxfDZrxldHDoMkj7nJJ1QLIh3QpUw017UbGTUmvCPkbVE88H0gBp3lPkQetFoarSnuFBUjbG+bazi96C/GfKQP08DBlzhv3i1ZEu005lMXN9EdNsSjRVO8XK1g==
+broadway.	0	in	rrsig	NSEC3PARAM 8 1 0 20260205222313 20260101214549 22965 broadway. i2wxHacxRm23qt6naBWRJq4AalCmZs7bDJwfOMs5SWfJypvi0C7iJUBBXIkRiqCM8r1Z/+vxbci1g9KRU/mIHfRv0olwSVp6J07ohWYdMLZkc6qjSifO9X5kcGKd2gyn+2clpPtHeSpXiZDVALHXoAT+tzqkCZFz/y4BmO227zyewPjwMGdjWVnJ528eOrslfVdGmmzeOilrYt2VlkLy/oWvHbWFH/7R7UZzDxsx9+j+IO5XN7Igwlx90MxoXOjJNP31dqMGKX0em+Flo2sx3+a6eegQ/yk+LsgUtQ1g6184WoZf30vtkW8snTqNUPL4fhaVPmPUsw4h07WR+COdJA==
+broadway.	0	in	rrsig	TYPE65534 8 1 0 20260205222313 20260101214549 22965 broadway. EZwfvtqw7N5vdaWE24t1Bo+e3dKFeFU0Iflx+oYkeydVYCk3t4dh7vYPqEOQBTz0bQ+TWLDyAJorr7tpfpsM0Pmu+/Onqxv/7B0/6MVGjDEQwQAgxcFKTBhEs+7uiW9ZNo81qSj6rUEHk1C+xRU0Cnr1C5iWRMFzBudYnw/2yEoSQxGlIlRPlG4FWo+nLZ2HqFcx9+bZ2GI6BREZchntkFO+odvtP8z9dDdKHBzMr6Ghu/Q4ZQdmQudGBuVpgsVjuumvPC1QL+ENGmAf4cH4EEB6cuyr0WYbqyIAE+ibOA0kX3gIAVe3d2vRYQP3v0+cs/JaQ7ECaAs4uDjHlo88Zg==
 broadway.	0	in	type65534	\# 5 0859B50001
 broadway.	0	in	type65534	\# 5 08B9D80001
 broadway.	172800	in	ns	dns1.nic.broadway.
@@ -162,11 +159,15 @@ broadway.	172800	in	ns	dnsa.nic.broadway.
 broadway.	172800	in	ns	dnsb.nic.broadway.
 broadway.	172800	in	ns	dnsc.nic.broadway.
 broadway.	172800	in	ns	dnsd.nic.broadway.
-broadway.	172800	in	rrsig	NS 8 1 172800 20251105123211 20251001122644 22965 broadway. j5HTAvS8yPj0eFT5qFWZuO21vJOWMb5gxxDmiLqbY4JWyeKr5xSOGUWia6pWgaGgTF0Nbb97JzyM5EkX+TJ7fi0r/AkNUm7efcUEb9/O50LZPb3g9GgrDJKAOnG7wslOwqmL6cy4OLZp+7B1ykF6B/7sPP+BHs9ZKvMStVmGK1xbrLmXn9C3vleMOdAzLEiIhglGhJgNTlAbf3rnbXXkNWRTX5OgfSXnbfZXZLJWNK7VCDIVhBNRFPOULOIDjSXawM/nrayZvHDCOqIMqc+G8vCwX8Vg17hR4bYVz4Zv8Px8ivwxC7u5TthLX8x4PLB4ENIouz2O6pe7AXtth9MNZg==
-broadway.	172800	in	rrsig	SOA 8 1 172800 20251105132644 20251001122644 22965 broadway. U7XuaqbNMbQMqDJSWmo3V1uX2OEF51PrivbKfQqPXRvaprKxcBCUmgevdtvPOc3qvuZxzKILK7tPdCgU4Ct9FW69pCTnaZduTM8RWmHZ/sKaHCbsA8Bl50xLdqokx6isbHgsbuT06lr8csS9a+48uTsC70aOaQRKKsD7ThRvyJSvdnzqdInIeETPwPEp9kxjYGTGR1wBNcAbxH3/m/xzsaQSI87oz/hpQLU+MV2pQ2NHTK04NqjfdG145QHoZg3LcmyRSLGGyE6agiRh/oA6uGWA7r2HfYZaPTP/tWOV2PiGUlExEF5KD91p4dP/ReZtZPLS1y6ZLariydqknFIrkg==
+broadway.	172800	in	rrsig	NS 8 1 172800 20260206022923 20260102021424 22965 broadway. XrA+nsXg38en3CtMy8i6+M0xkTv0MhzI637h3Sq8xh27Zuzx0I6jh2U8OEe8rKzPXmW4D1eF0yiFY0aXPKzuaL667lKPBW5D97AOv9RA67NZsp4edtV5wivpQdEcMRc9OAsqlti/o92/alHcat1ekhTVMj7mihufoxCw7HvnbfColv52ZYHsp6Wq2ZqnNcZroYGiM4wgSEgyQgkIG8tyVXqRZ9zpM0lZBK4W52LltvlEOeu5wQ3T9YX/sveryRDCBrCvqXE10TZzDZz+DxllRenVQZClOLzJLFqCCWMpV38Q3XbDNPJRvmT6iIWiq3u6Xzz7MuVtGWRS6xohwAIw0w==
+broadway.	172800	in	rrsig	SOA 8 1 172800 20260206063129 20260102053129 22965 broadway. YKeM0/5BQuXGPeWLVefMfCEh97i0n/cDkpXhWtXNKNgEzomxmZRCojfDM5o9W2R05eJs7nBWGXWmR2zeK4wwqTO453pi/hm6Z4hAXWSxg+q5upZpsWuD/wzW4f1bcYludFuenmGVmDD9znCgaWMxqsPFbVxQZ2z6n1t8O5veANQCkmdIT8EV5Qp9m9nddPowSVSGY7sgP3ctrWWKbKaCoKz98Uxlkap9XN+MHXbvtQPZV3GCKpF67D9eiTTggUNKQiRTLeEYsv3GNGIiZPiEcQSQ6ft4ikRjSJOJfWiHu1VVgNZNfbQ8EzEaIInBriNDI4Nj47oEQ+hhZ6eYyH4BrQ==
+broadway.	7200	in	cdnskey	257 3 8 AwEAAYh9ni41BH9PMBWjZUg51k5f26E9tITklWjJXZMOi33ZSHWI3Eup7W2zPIC7RM6otdQjF6IU1kMyg8qc1YML6Bdi4bGImq7Q/TiM/e+6B7W/oKtB7e9uQ6UyXcC+3utAcBnW/PgxdKepulDXsCUGWl1ZWL65YQtXIxz8yDe0TmXcdWVZ+kX1yEHC95HzsezOknolFt2vJ5ewrmlNuAPsANjrwePrqFs/1tRfDE8LDG2da3qyy7gUpr6PEpWRlnUd3akbwVQSH5+5PmIalrX2MYULauwxj9ystwCSn5wdJR3u2Js27kn0M5xxTbf66ASEiFoLaTYFHlNMJFJKg7lUF+0=
+broadway.	7200	in	cds	47576 8 2 CCC4CE45AACB1C0ECD8181D968B86BEFF3B34D1A71576F137CA43529FF8F12BB
 broadway.	7200	in	dnskey	256 3 8 AwEAAa591X8zeWB0Vh3UbupXlu2Enr0adzS9lIUlY3pwcqUpOVJGp/nguBWYIyUhhp06mLBlqcbetqQiDv6e8lEE2OVIgVVYGlZpCtIo1Vn0WRjKhtFYDXM3XWD/A/NRu/APAcy/65cKpIoLH5ttb2N2X5OUkCGq26r5pBv0p+Tv2gnJFzBOnpq7y3OHSgIum0T6Q28PmMg9+SpMhAiyYPLGI62A9wBuJ4NdVmEHYRoVHmQ4v3vWd6/x4bWdSulN3nlNw/E6fWfm4ERvF0IeOeBNTdfW5EYjMnExhrJsxOKz9N9IiKHL8a0/dQPfIu1yQ8hMuga6ofdLW2bHuzpoBiurwTE=
 broadway.	7200	in	dnskey	257 3 8 AwEAAYh9ni41BH9PMBWjZUg51k5f26E9tITklWjJXZMOi33ZSHWI3Eup7W2zPIC7RM6otdQjF6IU1kMyg8qc1YML6Bdi4bGImq7Q/TiM/e+6B7W/oKtB7e9uQ6UyXcC+3utAcBnW/PgxdKepulDXsCUGWl1ZWL65YQtXIxz8yDe0TmXcdWVZ+kX1yEHC95HzsezOknolFt2vJ5ewrmlNuAPsANjrwePrqFs/1tRfDE8LDG2da3qyy7gUpr6PEpWRlnUd3akbwVQSH5+5PmIalrX2MYULauwxj9ystwCSn5wdJR3u2Js27kn0M5xxTbf66ASEiFoLaTYFHlNMJFJKg7lUF+0=
-broadway.	7200	in	rrsig	DNSKEY 8 1 7200 20251103003047 20250929002009 47576 broadway. dYFuu/ktvYFpctaY+V8KrZTYqRy7z358VfVQZvskRGD7XcCbwJhjvsp3lX/u4CU26PCoWIoaMM3o+n6BaXD7Q6BCmEOevXAZTlabAvaTv1Rr3cMULzVmwNuRdqMl1ZXsVqN5/Tb4zlJAZ+dYdOEf1gdlvZwIxr+xhIcvuwoEtFCSwaPBrcoY28qdXqiNTMdWKpgizxkEPa9Oc8zF/juRCqsUPi4C/WhUjE1Q6/D+U/xLm7vIShP8JU9aMfnb2k7U+KaKbr/ia/IoQG787iHUW2K7qkfPTAQNciiPGeSZZ5GZpNR6I6My/geUB2qJve/pWS25Y+TSiN2yGYg55jrWMg==
+broadway.	7200	in	rrsig	CDNSKEY 8 1 7200 20260206060527 20260102053129 47576 broadway. a1ReiRXWd47Vu4j2tLjHP6fKmkdthR0qlsw0b5gbpaUK1S5/H65plYf4dLVKWc8adPjmP6nGGCOUDbbQKepBVHoSBZVjiKKpqUQP4rn2qJODBN+Kt+cUuUzQ5fOfHK+XPUGVMME9Y+4kMT+7a+0Ytyy3Ves9mXK0bCS8JD0u1sxhvZQhyUiAqkfeh6Lpgfbtp+5uV5ysyySUjlDa6zKOq1QHpTPMD3RHyp1NcDXYG5c2c5K78cdFCLSrOmN9htdLDHArdXCtIgEgVv6kV/rogWNF9rTQGYp8QeoKBb8NH/FDdEMU97oEBzPdlc20B/M58FP822YRDAAjrk+Mxaoazg==
+broadway.	7200	in	rrsig	CDS 8 1 7200 20260206060527 20260102053129 47576 broadway. C/lG8eMrBwCJoV7bAOe2h6dzYSp4welnayP0WJ3Km8HPiIVa68GVvcReaTQ1hEjOLLL7THbnPyMA2PSZ0p9Aap0c05vWb9exUMsAiNpjKx/Jv5MqS2oTRNhm9cOJfHNvyYlD77DbN0kBSjHbla6ZejWTOC+eezLKRr2yB9JoX2j5hckRAK9L8S8FYiSNY+1oe/YtGTAGfqrbnWBBh8Vh9aZPYlZtE/nwci4yyz6ZlNKnD9YCuUEvIhjZiMNSCcqQORKrCKYjJwGMjOZfWMUEXzPlnQ7kr3/cnlz96Mu0l2vhMHvkpM/Zp0vEgXFhxocEFq1bdDTKvtzPDvg20LGODw==
+broadway.	7200	in	rrsig	DNSKEY 8 1 7200 20260206060527 20260102053129 47576 broadway. bwIc88ZK+ZH1nUJYwG92j0POai351MhNruQNHcgWgkrxv+Uxeg07gg+vHCNtQOKrjP8lWeyVC2HRE/dqbyJfYsB63Sk9CkWWhfzI2+8R7CyjVky6d0CJwsWCdJJYBvuSpLdJtcU3LuMSFxkKBBpC4hvCXOU6DfU0AkVvXBsjZZLw97R09uRhJajUVXuJV4/3vA2yjUcbcGEr/EF0KW5l57Mi/ZskYZ+v4gVPpLSAQLPmpnrYiSeUJc+zJ52FUIBzCUMZtSfyAAXeRGEH4z0SGBnN0IYsGQbgMnEt12oOwxV155evxQqoMEveKnnzmVRYPIK7PzfNPenie3rArqLHzw==
 broadwayacrossamerica.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 broadwayacrossamerica.broadway.	172800	in	ns	nssui.comlaude.ch.
 broadwayacrossamerica.broadway.	172800	in	ns	nsusa.comlaude.net.
@@ -321,9 +322,6 @@ codylassenandassociates.broadway.	172800	in	ns	nsusa.comlaude.net.
 comefromaway.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 comefromaway.broadway.	172800	in	ns	nssui.comlaude.ch.
 comefromaway.broadway.	172800	in	ns	nsusa.comlaude.net.
-company.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
-company.broadway.	172800	in	ns	nssui.comlaude.ch.
-company.broadway.	172800	in	ns	nsusa.comlaude.net.
 constitution.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 constitution.broadway.	172800	in	ns	nssui.comlaude.ch.
 constitution.broadway.	172800	in	ns	nsusa.comlaude.net.
@@ -364,7 +362,7 @@ diversity.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 diversity.broadway.	172800	in	ns	nssui.comlaude.ch.
 diversity.broadway.	172800	in	ns	nsusa.comlaude.net.
 dkqdhc17kshsud594bo656d0gu9rlhqq.broadway.	3600	in	nsec3	1 1 0 - P7JM5EQKOMNCHDH8IVQ5J8TDI4H67KV9 NS DS RRSIG
-dkqdhc17kshsud594bo656d0gu9rlhqq.broadway.	3600	in	rrsig	NSEC3 8 2 3600 20251030014252 20250925004423 22965 broadway. hCRetoqQRxZ8bYpZvWNQKWMhnlrZrFiK6LxQrYabkcNpEbym0C51e//lhcdIxgME+HCF5nSNlwiXoMIyZwv9WCLx0OBqT6J2+l7RV/mBRHAvvgQkMtodnk86+6QTGKVQxH807sHWsM496iSRdcQbEh9hRnniAUPCFBkRQTBJBhwZCcpMne91CWwwgAeSEHst4qS/zRbbV4/+Egf+UqNACDlh+Oqo+98TZYnCaGd0Ky/D/Mm8DDhZT7R9GV3Q8yEQ065erDCLdUZwaVDnNmgvi99qgs//wjKnnMs+FSve7slNyp9Y3nllKBYbkJDaJRbiQrPuMPwvJNY3+8LkELVmnQ==
+dkqdhc17kshsud594bo656d0gu9rlhqq.broadway.	3600	in	rrsig	NSEC3 8 2 3600 20260206042039 20260102040407 22965 broadway. eK2mU0iDy6b7rwJZAcQl6wj2tbGCBHjdSyqm2ShALc5zLBF7rmewYCJnaCZqS+FiM0lEJiEvEmBR4wTZSZPcxNgZj9C1zbH7txuzUkEuAKDeQTeZOVVDXG2WeSWByr0YFkfxVqd/XGS79eTW4Vn3xHSt5N54Pyie195dNW795jswi0hSGbCzzKkbGRCMPz1BlJ4nHOqgMFaCkftcFG4nBbWMgYggdgnqs8Y5XZdC788FGi/eZhmEjVT5kEKMcrMO0mAmZmPEUt8vqlXIn/2KaQ8vtfTdUJvoqBUE4LUrj5doi/WOlp4h1ioVeuZ29+ZGgJ8+t2MvphCGknO+JloN2Q==
 dmpa.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 dmpa.broadway.	172800	in	ns	nssui.comlaude.ch.
 dmpa.broadway.	172800	in	ns	nsusa.comlaude.net.
@@ -717,9 +715,6 @@ midnightthemusical.broadway.	172800	in	ns	dns1.comlaude-dns.com.
 midnightthemusical.broadway.	172800	in	ns	dns2.comlaude-dns.net.
 midnightthemusical.broadway.	172800	in	ns	dns3.comlaude-dns.co.uk.
 midnightthemusical.broadway.	172800	in	ns	dns4.comlaude-dns.eu.
-mikebirbiglia.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
-mikebirbiglia.broadway.	172800	in	ns	nssui.comlaude.ch.
-mikebirbiglia.broadway.	172800	in	ns	nsusa.comlaude.net.
 minskofftheater.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 minskofftheater.broadway.	172800	in	ns	nssui.comlaude.ch.
 minskofftheater.broadway.	172800	in	ns	nsusa.comlaude.net.
@@ -733,7 +728,7 @@ mjthemusical.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 mjthemusical.broadway.	172800	in	ns	nssui.comlaude.ch.
 mjthemusical.broadway.	172800	in	ns	nsusa.comlaude.net.
 monitor-nominet.broadway.	172800	in	a	127.0.0.1
-monitor-nominet.broadway.	172800	in	rrsig	A 8 2 172800 20251105123211 20251001122644 22965 broadway. gvhv+5duzrULDRLqT2zcJBiwC46ujEbVdsnwkojvBXDRVsL+1ev33BAdUC5SOE5PjBhv5Dv4PXwAqjtSO266wlpmJE2Ed1+RH/GqgrTIK7qRB0BwXXfk7PH6p652IDGN4nMtbObcV/ZR/bf6cHsGWM+b7aPa1gxeOb8yvaHo7ggblidFdJ36api5cz9ecDducfs9P00JsxIihRFNBp8A3hrkAdaw0VqHLkaeXEF3fdwlMzGwaxr+hLe3TxJKRJhFsBuHXGgzrT/rp6RAyDLBoB8JIT7NOVn0pacJnnaLP//Laje5eAcSEwNLOL3gwzc1a/7EMgIhPU27wS8Sf2mlcQ==
+monitor-nominet.broadway.	172800	in	rrsig	A 8 2 172800 20260206022923 20260102021424 22965 broadway. WXHzjgjqEXyhvNM2TJr1Ip/dwxQsU4fi9UQAPWR3UfAB+Vmv2muwndTpN71nnAuOskA5MvB51DY2Zo5R3WNuU4pVScFoEvaZagHOHAevczx2XKqMe+DISbzJFXURmR4ds3VpAChXn7bzRsHb2kSVMja8iZoORCW3cx30HLRjLZXK1cytArlJpbVB0JNAM2aTDdUU6Kx1tVIma3i2MrpXi3Qwvue01dJHoR69ixE/hKY0h9L85b6HP7oITpXtTBxiVKmdKdfb+kqM85huhBONn1EO+6/0gqevCmhA4P/zblC/gK6eQfsBDsDemk6wN1mPjAOSnPYFkn5eBo1U4ZkzEw==
 morrisoncenter.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 morrisoncenter.broadway.	172800	in	ns	nssui.comlaude.ch.
 morrisoncenter.broadway.	172800	in	ns	nsusa.comlaude.net.
@@ -791,7 +786,7 @@ nic.broadway.	172800	in	ns	dnsa.nic.broadway.
 nic.broadway.	172800	in	ns	dnsb.nic.broadway.
 nic.broadway.	172800	in	ns	dnsc.nic.broadway.
 nic.broadway.	172800	in	ns	dnsd.nic.broadway.
-nic.broadway.	172800	in	rrsig	DS 8 2 172800 20251105123211 20251001122644 22965 broadway. k4Gr7gXg00/dBiiZ6t8wQzBonbjMQy1gxgQ4j99Q3ec1idKJ3CXQJeGtN3RijFSw9SGdk/fm67+OGmNS1UiAF9qy8nOU9LTvi3NBQnXAX9OA1wsTA58dSlwVbqO+IVFXGKCjUHUmmiKZmEWxve5Y1D5WcgQDUIjWfLymYK9D+kymDj8GeHMjswC1YoUQbqN5upiQngNJufp59p9OJ4HCFbYOhtpyvhIH11YcI/ZHSyqxgdrll/etxztLgxlwX8X0ESM176X756y5SevEE8QbU3hmv4L0iDCHGAEp1WHrfTgdpEQr0ibLdMrsBOakWaHSfSAHovUkOcQu83TSSuXMzw==
+nic.broadway.	172800	in	rrsig	DS 8 2 172800 20260206022923 20260102021424 22965 broadway. e7snnM6abjcfHBXdLUZX5qTD9SNlDpmv7GqG7VhG2HqUMhg478veIPpQF1kllGlVGQ/o1vlz2CWmmgRfE0di0zvsqamxfVAGJd9ZbpwSWOC0513vf/B044nknUj7K15lFNjQGZnNnmV6e5uT2fb0Su0QQtDHaIRAYdcuqXkaB0oEkL4FXVFRGWQQcLzV9WNn2+DSbAQBVbUZUWlAz+vTvUYW52h+XpJ/sdQ2g1Evh31RKA61i49bJgJbQ0TResT9rGjYX1bD5dp0b0VdTj8kbV3yCtD8XFgO5Lv7ioLFde0dMGAZF9sxrgciobz+KQ56AyXInACXqFs6vxtc21AHAw==
 nightatthemuseum.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 nightatthemuseum.broadway.	172800	in	ns	nssui.comlaude.ch.
 nightatthemuseum.broadway.	172800	in	ns	nsusa.comlaude.net.
@@ -837,15 +832,11 @@ orpheumtheatersf.broadway.	172800	in	ns	nsusa.comlaude.net.
 orpheumtheatresf.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 orpheumtheatresf.broadway.	172800	in	ns	nssui.comlaude.ch.
 orpheumtheatresf.broadway.	172800	in	ns	nsusa.comlaude.net.
-ourtown.broadway.	172800	in	ns	dns1.comlaude-dns.com.
-ourtown.broadway.	172800	in	ns	dns2.comlaude-dns.net.
-ourtown.broadway.	172800	in	ns	dns3.comlaude-dns.co.uk.
-ourtown.broadway.	172800	in	ns	dns4.comlaude-dns.eu.
 overture.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 overture.broadway.	172800	in	ns	nssui.comlaude.ch.
 overture.broadway.	172800	in	ns	nsusa.comlaude.net.
-p7jm5eqkomnchdh8ivq5j8tdi4h67kv9.broadway.	3600	in	nsec3	1 1 0 - 9G7IO8M4E9TCENBDPL32MV4GM37GUMFI NS SOA RRSIG DNSKEY NSEC3PARAM TYPE65534
-p7jm5eqkomnchdh8ivq5j8tdi4h67kv9.broadway.	3600	in	rrsig	NSEC3 8 2 3600 20251031070229 20250926064251 22965 broadway. B+JfJikDYlB0l/tpTaDf8ANCRb15fP+wyPbL3/20hMsMU0iTmHVerWf/TM8kLHIXiJKt/iBxfXYmrc56AVHf84b48v7BHug8XYL+3Ci6UjLFthsceuKuRRW2xmXjFE+SDOnQozQCAKTYrmBLcua+6knUaAlRIEpjPWDDMrx3iUIxfVlCjHjTJenqa+uOB81TM0km+umw4ijDc2Us6suetOUzi78KCOahHpik9WBlMzB+VxkeZsx9SjpAasK8+3ePtFdILnVes+A1Kqxf/ntrwv8CkNI1WxOOPV97ssbT6GbiQFeAp3C+ps8vqubcYXjbMulLKJ1+Mq0KTZFWdLOTdA==
+p7jm5eqkomnchdh8ivq5j8tdi4h67kv9.broadway.	3600	in	nsec3	1 1 0 - 9G7IO8M4E9TCENBDPL32MV4GM37GUMFI NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY TYPE65534
+p7jm5eqkomnchdh8ivq5j8tdi4h67kv9.broadway.	3600	in	rrsig	NSEC3 8 2 3600 20260205222313 20260101214549 22965 broadway. Wg73fJrfbtKPjp+SzAJkszr3PuDdL4wgmfcSGBRjqoK/5mVlrDNu1TAEqnTvbYhDRJr8BDQvoxkDAXItCZYS6CLFKyOMqlFtuk+kpmqL7Uo80mkY7wXKERid7bZTh56N/i5entA/lGJ2gv0xye34J7leXFtmf+Pcnd2lTxLSLGVxj2Tpc62dsxvTtIU8KeRYPSvfzm5cQX+Ww0D8EI1eEIjfYfLSz1vr168C9Limo6Aeq1QoYQT6pPXACilJaTke5U6C6mXnhkU4neHZbacw4eCiZXCjaAnsoK2bQjKF/HhR61FbYlu0R00mRk3oofglwv7g2VSyn0Jr/MIpPdd/ew==
 palacetheater.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 palacetheater.broadway.	172800	in	ns	nssui.comlaude.ch.
 palacetheater.broadway.	172800	in	ns	nsusa.comlaude.net.
@@ -858,9 +849,6 @@ palacetheatre.broadway.	172800	in	ns	nsusa.comlaude.net.
 palacetheatrechicago.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 palacetheatrechicago.broadway.	172800	in	ns	nssui.comlaude.ch.
 palacetheatrechicago.broadway.	172800	in	ns	nsusa.comlaude.net.
-paljoey.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
-paljoey.broadway.	172800	in	ns	nssui.comlaude.ch.
-paljoey.broadway.	172800	in	ns	nsusa.comlaude.net.
 pangoeswrong.broadway.	172800	in	ns	dns1.comlaude-dns.com.
 pangoeswrong.broadway.	172800	in	ns	dns2.comlaude-dns.net.
 pangoeswrong.broadway.	172800	in	ns	dns3.comlaude-dns.co.uk.
@@ -951,6 +939,10 @@ scfta.broadway.	172800	in	ns	dns1.comlaude-dns.com.
 scfta.broadway.	172800	in	ns	dns2.comlaude-dns.net.
 scfta.broadway.	172800	in	ns	dns3.comlaude-dns.co.uk.
 scfta.broadway.	172800	in	ns	dns4.comlaude-dns.eu.
+schmigadoon.broadway.	172800	in	ns	dns1.comlaude-dns.com.
+schmigadoon.broadway.	172800	in	ns	dns2.comlaude-dns.net.
+schmigadoon.broadway.	172800	in	ns	dns3.comlaude-dns.co.uk.
+schmigadoon.broadway.	172800	in	ns	dns4.comlaude-dns.eu.
 schoenfeldtheater.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 schoenfeldtheater.broadway.	172800	in	ns	nssui.comlaude.ch.
 schoenfeldtheater.broadway.	172800	in	ns	nsusa.comlaude.net.
@@ -1098,6 +1090,10 @@ thetransparentmusical.broadway.	172800	in	ns	dns4.comlaude-dns.eu.
 thewhostommy.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 thewhostommy.broadway.	172800	in	ns	nssui.comlaude.ch.
 thewhostommy.broadway.	172800	in	ns	nsusa.comlaude.net.
+titanique.broadway.	172800	in	ns	dns1.comlaude-dns.com.
+titanique.broadway.	172800	in	ns	dns2.comlaude-dns.net.
+titanique.broadway.	172800	in	ns	dns3.comlaude-dns.co.uk.
+titanique.broadway.	172800	in	ns	dns4.comlaude-dns.eu.
 tiwaryent.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 tiwaryent.broadway.	172800	in	ns	nssui.comlaude.ch.
 tiwaryent.broadway.	172800	in	ns	nsusa.comlaude.net.
@@ -1120,10 +1116,6 @@ twostrangersmusical.broadway.	172800	in	ns	dns1.comlaude-dns.com.
 twostrangersmusical.broadway.	172800	in	ns	dns2.comlaude-dns.net.
 twostrangersmusical.broadway.	172800	in	ns	dns3.comlaude-dns.co.uk.
 twostrangersmusical.broadway.	172800	in	ns	dns4.comlaude-dns.eu.
-unclevanya.broadway.	172800	in	ns	dns1.comlaude-dns.com.
-unclevanya.broadway.	172800	in	ns	dns2.comlaude-dns.net.
-unclevanya.broadway.	172800	in	ns	dns3.comlaude-dns.co.uk.
-unclevanya.broadway.	172800	in	ns	dns4.comlaude-dns.eu.
 viva.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 viva.broadway.	172800	in	ns	nssui.comlaude.ch.
 viva.broadway.	172800	in	ns	nsusa.comlaude.net.
@@ -1155,4 +1147,4 @@ wintergardentheatre.broadway.	172800	in	ns	nsusa.comlaude.net.
 wjp.broadway.	172800	in	ns	nsgbr.comlaude.co.uk.
 wjp.broadway.	172800	in	ns	nssui.comlaude.ch.
 wjp.broadway.	172800	in	ns	nsusa.comlaude.net.
-broadway.	172800	in	soa	dns1.nic.broadway. hostmaster.nominet.org.uk. 2100002762 900 300 2419200 3600
+broadway.	172800	in	soa	dns1.nic.broadway. hostmaster.nominet.org.uk. 2100002220 900 300 2419200 3600
