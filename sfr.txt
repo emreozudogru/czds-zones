@@ -1,12 +1,12 @@
-sfr.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 153291 900 1800 6048000 3600
+sfr.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 157375 900 1800 6048000 3600
 3na5tdnje70sdstacur2bp5dmtt0thte.sfr.	900	in	nsec3	1 1 0 - B4U2MBRJHK364GJRH6S4NFJINNNDI92M NS SOA RRSIG DNSKEY NSEC3PARAM
-3na5tdnje70sdstacur2bp5dmtt0thte.sfr.	900	in	rrsig	NSEC3 13 2 900 20251031152216 20251001135216 9641 sfr. fKjIdIUekKb2LHaBXvUZdkF+X7IpV/jNw8yh9KFpOKhi9VmbPIQsBW32tFK6eVpBFFSqh0cslpRH/f2s1knZ/Q==
+3na5tdnje70sdstacur2bp5dmtt0thte.sfr.	900	in	rrsig	NSEC3 13 2 900 20260120095313 20251221082313 9641 sfr. IS5OYZu7gQ05oZ2mhZXzgrZwjxwiSFtBxNjZYHnLp1MThOdF5QMs0Qyfy0KCEP7pIqCuojSIFErbQS+z99+x9w==
 a.nic.sfr.	3600	in	a	194.169.218.100
 a.nic.sfr.	3600	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0100
 b.nic.sfr.	3600	in	a	185.24.64.100
 b.nic.sfr.	3600	in	aaaa	2a04:2b00:13cc:0000:0000:0000:0001:0100
 b4u2mbrjhk364gjrh6s4nfjinnndi92m.sfr.	900	in	nsec3	1 1 0 - 3NA5TDNJE70SDSTACUR2BP5DMTT0THTE NS DS RRSIG
-b4u2mbrjhk364gjrh6s4nfjinnndi92m.sfr.	900	in	rrsig	NSEC3 13 2 900 20251031152216 20251001135216 9641 sfr. ribHD6FwuB7/nfd2GKujZkT9x5lm931LNuK/66RngZZJC/qNjKYD97i2icfOenX9DzLSvTe5g8QBg/E7khUxBA==
+b4u2mbrjhk364gjrh6s4nfjinnndi92m.sfr.	900	in	rrsig	NSEC3 13 2 900 20260120113346 20251221100346 9641 sfr. 2FBaU6bvbQbUdjbr1c/9WVR9b4LIUwzbMXct8pSKPhUNMjYtoiavL5a699rR+DdtV3yQNFK6zUSV/aWZoZqA2w==
 bvs.sfr.	3600	in	ns	ns1pub.sfr.fr.
 bvs.sfr.	3600	in	ns	ns2pub.sfr.fr.
 c.nic.sfr.	3600	in	a	212.18.248.100
@@ -27,7 +27,7 @@ nic.sfr.	3600	in	ns	a.nic.sfr.
 nic.sfr.	3600	in	ns	b.nic.sfr.
 nic.sfr.	3600	in	ns	c.nic.sfr.
 nic.sfr.	3600	in	ns	d.nic.sfr.
-nic.sfr.	3600	in	rrsig	DS 13 2 3600 20251031152216 20251001135216 9641 sfr. lX8Y58FV3bJ2Bwf4rZxzGnC25aYSau/bTafufEg4m3YsPVN4AhGSOfLahcmG2knNnjsPocp9la3V0RoTiifCPQ==
+nic.sfr.	3600	in	rrsig	DS 13 2 3600 20260120113346 20251221100346 9641 sfr. ZLW/Orv/JWwZNuRqKu7Kr3Bn/7/ZBKZ5sLDBwlbTdnqsDxc2f/ViSJqscQr499Xcj4c0dDeAmG8qWx+BIqnjAQ==
 residence-connectee.sfr.	3600	in	ns	ns1pub.sfr.fr.
 residence-connectee.sfr.	3600	in	ns	ns2pub.sfr.fr.
 residenceconnectee.sfr.	3600	in	ns	ns1pub.sfr.fr.
@@ -38,13 +38,13 @@ sfr.	172800	in	ns	a.nic.sfr.
 sfr.	172800	in	ns	b.nic.sfr.
 sfr.	172800	in	ns	c.nic.sfr.
 sfr.	172800	in	ns	d.nic.sfr.
-sfr.	172800	in	rrsig	NS 13 1 172800 20251031152216 20251001135216 9641 sfr. jDz2ymHXsvSqb3PIX/8vUbg7BGW9lU9VCUwyL88D2bayGT3Pa8sWMZWvTcYiePjj8U6a6haqNSe7aZG9z+CdiA==
+sfr.	172800	in	rrsig	NS 13 1 172800 20260120095313 20251221082313 9641 sfr. W+EInAZd6dQuWAPXBYNnSjofw1lLcSOmayX7LI3Hpfkx2bw3orFZsaWPIo1CXxuroqcs+mEiUWSJ7zUN7l2NnA==
 sfr.	3600	in	dnskey	256 3 13 CfU/scAyJdgKR4qlOP95nkNPLNB1FwiUvqXqGBGf2IPalHXN9g6PtCYp0Rh+lI5te2vv3obCg9UjDhitEt+KzQ==
 sfr.	3600	in	dnskey	257 3 13 OyaS2wHPC/oeZU4m4rRAH8asc9X1cJ9HFBVsiWWhEVFzn+MZerfgj8WHQEy7hhezT6nr3EUDbdiiIBbaOvk/ew==
-sfr.	3600	in	rrsig	DNSKEY 13 1 3600 20251031152216 20251001135216 58083 sfr. /b2OJ2MMO5ROy+64mJxUmvGwoUszRf5EF7sbKAokzM3vqF+N5cEeczWJQ7cAVmWtMpHPf/XI+4KCjfP50pK5Rw==
+sfr.	3600	in	rrsig	DNSKEY 13 1 3600 20260120095313 20251221082313 58083 sfr. 601stQ0khc3d90oalHeY8UBRDjbAVEkAexsrW8v7Dknrj1AJSmnqexJ6nIQZ8gcAbm/8gAsjFwjZMUV15yALrA==
 sfr.	900	in	nsec3param	1 0 0 -
-sfr.	900	in	rrsig	NSEC3PARAM 13 1 900 20251031152216 20251001135216 9641 sfr. OrAOna3z/ZuBzyfpABOwHmSfonNNDHF4AO+XWrfr84KOMeamePINlLqsSXqJXocEm4Q8SEQDwzc13+H3WnnQXA==
-sfr.	900	in	rrsig	SOA 13 1 900 20251101011415 20251001234415 9641 sfr. nBKltH0brX+WjZfapEZnHSlybehe3xQjODUtATvJU0YE1G9VvezBUVXpUgdbGliyC/ymjYccCnEWYMxbXJ2Duw==
+sfr.	900	in	rrsig	NSEC3PARAM 13 1 900 20260120095313 20251221082313 9641 sfr. iccTGkqQhIdpK0FsEaZEYeGFaEJxTNzwdtdtl70jyGTtnXZXgDG6aNkx7k5H+GboNOGE/4q3XgpY76ypSYReaQ==
+sfr.	900	in	rrsig	SOA 13 1 900 20260205011544 20260105234544 9641 sfr. 6bblzF9W1AHkD0aWX+DULvX+4f34Ns6RsUYj3UttobpOmAKNMTdI8L/rsEiTfaNfNotivs4JtL6M69kzbRqfJA==
 si-acc.sfr.	3600	in	ns	ns1pub.sfr.fr.
 si-acc.sfr.	3600	in	ns	ns2pub.sfr.fr.
 si-opr.sfr.	3600	in	ns	ns1pub.sfr.fr.
@@ -55,4 +55,4 @@ si-soc.sfr.	3600	in	ns	ns1pub.sfr.fr.
 si-soc.sfr.	3600	in	ns	ns2pub.sfr.fr.
 sid.sfr.	3600	in	ns	ns1pub.sfr.fr.
 sid.sfr.	3600	in	ns	ns2pub.sfr.fr.
-sfr.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 153291 900 1800 6048000 3600
+sfr.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 157375 900 1800 6048000 3600
