@@ -1,4 +1,6 @@
-theatre.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 236762 900 1800 6048000 3600
+theatre.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 240852 900 1800 6048000 3600
+2iu22tn4cm1csklfm4h8di6iqne55n52.theatre.	900	in	nsec3	1 1 0 - CQ4NL0S2528KHE6A6L45CFJDV98GGNAN NS DS RRSIG
+2iu22tn4cm1csklfm4h8di6iqne55n52.theatre.	900	in	rrsig	NSEC3 8 2 900 20260111032308 20251212015308 50196 theatre. bovuHTx4y0IyfGl2wmok1dnyMAzni+NyphFLBiedxs8IFnX1Gbnx+PgO5cnvR8DiOoOJXoGkPowWgyFYmHi4zlha9nKBe2mXwKZ4R66S3zm/5N70oK8nmFuCe/F4zA9tlLKPSM9r2I1yl9bzLmIXKwtD6S1e78+c4v5gcM2C7LM=
 8xbet.theatre.	3600	in	ns	a1.share-dns.com.
 8xbet.theatre.	3600	in	ns	b1.share-dns.net.
 a.nic.theatre.	3600	in	a	194.169.218.69
@@ -16,6 +18,8 @@ adwords.theatre.	3600	in	ns	ns3.google.com.
 adwords.theatre.	3600	in	ns	ns4.google.com.
 aeon.theatre.	3600	in	ns	rns1.rightsdns.com.
 aeon.theatre.	3600	in	ns	rns2.rightsdns.com.
+agi.theatre.	3600	in	ns	carlane.ns.cloudflare.com.
+agi.theatre.	3600	in	ns	felipe.ns.cloudflare.com.
 ai.theatre.	3600	in	ns	gerald.ns.cloudflare.com.
 ai.theatre.	3600	in	ns	lilith.ns.cloudflare.com.
 alphabet.theatre.	3600	in	ns	ns1.google.com.
@@ -40,7 +44,7 @@ android.theatre.	3600	in	ns	ns4.google.com.
 atg.theatre.	3600	in	ds	2371 13 2 B63D6C39C7FB88831DE07EBDFE5383DCFE8ED53E4F0E8271C6B1B6EE5A7A06BB
 atg.theatre.	3600	in	ns	grace.ns.cloudflare.com.
 atg.theatre.	3600	in	ns	sid.ns.cloudflare.com.
-atg.theatre.	3600	in	rrsig	DS 8 2 3600 20251031153118 20251001140118 50196 theatre. O/cEAvT+XlVsmq/mpeDGRmJ5v/Bb0E8MgQpImpQU3fLtncycYCAa0z720AqrWgE0Z257iS/j1pwR/85tCaf5FL2EC4gZIXJ2245/Zeb1Nz5+RwMuokKxcPTy/NDXy6ZM9GIkvvsyLoTzfiItK5MG/OOg217s0qnZhr/jcLt/y8I=
+atg.theatre.	3600	in	rrsig	DS 8 2 3600 20260120120810 20251221103810 50196 theatre. EejVlwhUWa1B9CqG5NPHu/MigzLNVbLW0PjuUJQZs0adaH+VUHtHc3ycBS/VKcAAIMuGM5vtZxmYOhQiCShxCr21LAR5pi0Ovq5g88BZuVxFC7D/8sD52U+97XTA9gjyl7hliHc732MO+d6gdzql1ou2zhEK8ktmC9DMhm7dwSo=
 atomtickets.theatre.	3600	in	ns	dns1.idp365.net.
 atomtickets.theatre.	3600	in	ns	dns2.idp365.net.
 atomtickets.theatre.	3600	in	ns	dns3.idp365.net.
@@ -98,15 +102,15 @@ colonial.theatre.	3600	in	ns	ns4-04.azure-dns.info.
 com.theatre.	3600	in	ds	2371 13 2 500FE06997D091134A89A869C0736AAE1E8D29C7A15FA6A2C057B3E3D0DCC88B
 com.theatre.	3600	in	ns	michael.ns.cloudflare.com.
 com.theatre.	3600	in	ns	sierra.ns.cloudflare.com.
-com.theatre.	3600	in	rrsig	DS 8 2 3600 20251031153118 20251001140118 50196 theatre. ijKTKbMzHdA9YJNriXcxGnDDXkwWTIIFXFHHCCqnxfhcxuI4UyKJZOGfnsJZRO/kEGebv+9ecy3fMk/r4fHhj+wSKLhC+dqYlBn20SeAyUbZrUE4/shBHdHi3zm/Yt/knZndORHDoM3mipek+tZrHPCo08jyKZtftZ8hSiO0iVg=
+com.theatre.	3600	in	rrsig	DS 8 2 3600 20260120120810 20251221103810 50196 theatre. lFeiYzgCWfTNsHhMGpxfMCdkn+1eIZ2vJLO8VDllsSQplpkb3lXr6HCNW9WlAKa4P0gJscbVhJGY4hQTrWeDz4XyXJtZD22wc0vUNi+KPpH/DFeGJKdL4X8IuFVEbZCp16I0T/fwbheg8+0Ci5w6EqZtDYSK8l/nn706lAtlPzk=
 cq4nl0s2528khe6a6l45cfjdv98ggnan.theatre.	900	in	nsec3	1 1 0 - E9K1QRL76Q7U9FC3E2H61RLED7ORMGR7 NS DS RRSIG
-cq4nl0s2528khe6a6l45cfjdv98ggnan.theatre.	900	in	rrsig	NSEC3 8 2 900 20251031153118 20251001140118 50196 theatre. rNzY7awfKqVA+/mSwKkSp/yrQ+3xdF1sE04+g/d6EKdbWzrt+CdOPa40m/hnSy+/PmZBH3S7lcI8ZhpCLWErEl1XZWUyrF3EE5v3oP19ygs1Ryg10rhrYu2NlV3MakeyRlvpmHnxROF1kFYeGlPPCASCoKZE63KMPgLeDFdk56I=
+cq4nl0s2528khe6a6l45cfjdv98ggnan.theatre.	900	in	rrsig	NSEC3 8 2 900 20260120120810 20251221103810 50196 theatre. od9KpbrYA2KlpDNa9U2sDxHonNNDLMmH1HvLr4Stha+sKFyvweg5uiwfGNP1AMGDpDgyan0CWZIy89Gl6nSjGS1YLDSAImLmfn9uTpVfLrvdZLxIMwgfI45HDuZCa3Awt9rsWRyr+RD4hwz22PgLAlJuvRY0CmyPM2TgkyfiRCk=
 cs50.theatre.	3600	in	ns	dns1.registrar-servers.com.
 cs50.theatre.	3600	in	ns	dns2.registrar-servers.com.
 ctco.theatre.	3600	in	ds	33275 13 2 81C4D09CC73E2558C070B766270B9D3AE7D8347B8139008FD32C1A43C3BF8F68
 ctco.theatre.	3600	in	ns	launch1.spaceship.net.
 ctco.theatre.	3600	in	ns	launch2.spaceship.net.
-ctco.theatre.	3600	in	rrsig	DS 8 2 3600 20251031153118 20251001140118 50196 theatre. nuZjPjdpt/uJ4xv3gCGuXc5ViBhBI94QabCPhX0XqoHW62TpF1rhW9nvacf72A/oQ0Nrs6Kw30gc7HMWd1xnSiHM+0cQoMKHB/sqA8pHI1BAp+g7InSpEJi1FRMhfrxKA/NzaXcvFAlUyuYs7gUvqhDwp5Jdq08mnsiUqnp6xqI=
+ctco.theatre.	3600	in	rrsig	DS 8 2 3600 20260120120810 20251221103810 50196 theatre. iEn+0ZcAuw2y2np5p/RmP15JhhwYUP/XvqNePvVnnbGFqjlV0qmWwH6H8/PtnZFKv9kIhADBw7lAx0wq9PGnrwNMe+0NChz3kXSsefAeSghjaFrNAh3wgsN4FyEJikROm3+no9M6cyL8uI2R/kA267Y7BeTXSR2QfA+MaC+KdpU=
 d.nic.theatre.	3600	in	a	212.18.249.69
 d.nic.theatre.	3600	in	aaaa	2a04:2b00:13ff:0000:0000:0000:0000:0069
 domaintest.theatre.	3600	in	ns	ns1.google.com.
@@ -114,7 +118,7 @@ domaintest.theatre.	3600	in	ns	ns2.google.com.
 domaintest.theatre.	3600	in	ns	ns3.google.com.
 domaintest.theatre.	3600	in	ns	ns4.google.com.
 e9k1qrl76q7u9fc3e2h61rled7ormgr7.theatre.	900	in	nsec3	1 1 0 - KPNSC5PH9SRLV8AM34OBQ86ALAU2Q2DB NS DS RRSIG
-e9k1qrl76q7u9fc3e2h61rled7ormgr7.theatre.	900	in	rrsig	NSEC3 8 2 900 20251031153118 20251001140118 50196 theatre. rAfuLsI8QbhcOhoOsEB0j8CTzbOGEN0NwdUn3EMzS+dgAAkUbnJxK3Y2cBdeqa9dytxvpZ/YD9db18OYzZ2i2F0V4who5tQGt9sPcBGKVbJdeibSXU7M1+iZ0ppATekbNqUezy/tkfOpHxMx+sSgDOf4i7ERvFnwcMT5ytjW2AY=
+e9k1qrl76q7u9fc3e2h61rled7ormgr7.theatre.	900	in	rrsig	NSEC3 8 2 900 20260120120810 20251221103810 50196 theatre. LZXs+E1aKl5iB0Ttyd0S5twjaUacWGg0HrDweTeiN4uj+GtW9TQiQWQaSnanOXiyeneL12e2it2GFkkrEwgpZ3pl8jvpVVjh5mt/8SxscVplkd0K+dkTZoFH9EyRyHKDzSXiFRwmjXDwMEYPJOrh+8KlhdUE/WwQjB+dddrMeHE=
 edge.theatre.	3600	in	ns	ns1vwx.name.com.
 edge.theatre.	3600	in	ns	ns2fgp.name.com.
 edge.theatre.	3600	in	ns	ns3dgj.name.com.
@@ -131,12 +135,10 @@ facebook.theatre.	3600	in	ns	a.ns.facebook.com.
 facebook.theatre.	3600	in	ns	b.ns.facebook.com.
 facebook.theatre.	3600	in	ns	c.ns.facebook.com.
 facebook.theatre.	3600	in	ns	d.ns.facebook.com.
-fandango.theatre.	3600	in	ns	ns1.nbcuni.com.
-fandango.theatre.	3600	in	ns	ns2.nbcuni.com.
-fandango.theatre.	3600	in	ns	ns3.nbcuni.com.
-fandango.theatre.	3600	in	ns	ns4.nbcuni.com.
-fandango.theatre.	3600	in	ns	ns5.nbcuni.com.
-fandango.theatre.	3600	in	ns	ns6.nbcuni.com.
+fandango.theatre.	3600	in	ns	pdns129.ultradns.biz.
+fandango.theatre.	3600	in	ns	pdns129.ultradns.com.
+fandango.theatre.	3600	in	ns	pdns129.ultradns.net.
+fandango.theatre.	3600	in	ns	pdns129.ultradns.org.
 foton.theatre.	3600	in	ns	ns1.hover.com.
 foton.theatre.	3600	in	ns	ns2.hover.com.
 fourpoints.theatre.	3600	in	ns	ns-1324.awsdns-37.org.
@@ -203,7 +205,7 @@ johngoreorg.theatre.	3600	in	ns	ns2.hover.com.
 johngoreorganization.theatre.	3600	in	ns	ns1.hover.com.
 johngoreorganization.theatre.	3600	in	ns	ns2.hover.com.
 kpnsc5ph9srlv8am34obq86alau2q2db.theatre.	900	in	nsec3	1 1 0 - P3CE3VDQ87D2P2LGT3IO8P9S20M9HAPG NS DS RRSIG
-kpnsc5ph9srlv8am34obq86alau2q2db.theatre.	900	in	rrsig	NSEC3 8 2 900 20251031153118 20251001140118 50196 theatre. vx2MhAJeHS2cWh+ZMXS60aQmakepgsKN+uTkLlPTAKyIkRAP+0CFnwbjfGy91fXqh1/N0OvGu6oy8ICKDb2xoHPrhYiiZvcYcAvCKbgz1jjFZNcEMSKwydCZM70M8Lw65JMqZ2Q6y694nuM7mK4sHMxw0+cwZYvwgswhsaTr9yM=
+kpnsc5ph9srlv8am34obq86alau2q2db.theatre.	900	in	rrsig	NSEC3 8 2 900 20260120120810 20251221103810 50196 theatre. kEL0UbItPFulbJt9IJlOoDCUKL0lH2YzU4tZmNbn+QEJAbiONub+Us/ZLgdrJUCk/yyX5on+qCqCevtkqbM5UPNdS1w7UWiJm4Y0ofhEtshojsMQbw7uZeEK42It8PLahZbwM0RqauMHDsaGfTJccEdI+DU713Y6DPBt7CsCi64=
 lemeridien.theatre.	3600	in	ns	ns-145.awsdns-18.com.
 lemeridien.theatre.	3600	in	ns	ns-1504.awsdns-60.org.
 lemeridien.theatre.	3600	in	ns	ns-1999.awsdns-57.co.uk.
@@ -211,10 +213,6 @@ lemeridien.theatre.	3600	in	ns	ns-903.awsdns-48.net.
 live.theatre.	3600	in	ns	ns1.wordpress.com.
 live.theatre.	3600	in	ns	ns2.wordpress.com.
 live.theatre.	3600	in	ns	ns3.wordpress.com.
-loves.theatre.	3600	in	ns	ns-1499.awsdns-59.org.
-loves.theatre.	3600	in	ns	ns-1928.awsdns-49.co.uk.
-loves.theatre.	3600	in	ns	ns-37.awsdns-04.com.
-loves.theatre.	3600	in	ns	ns-945.awsdns-54.net.
 luxurycollection.theatre.	3600	in	ns	ns-1110.awsdns-10.org.
 luxurycollection.theatre.	3600	in	ns	ns-1686.awsdns-18.co.uk.
 luxurycollection.theatre.	3600	in	ns	ns-536.awsdns-03.net.
@@ -266,12 +264,10 @@ microsoft.theatre.	3600	in	ns	ns1-02.azure-dns.com.
 microsoft.theatre.	3600	in	ns	ns2-02.azure-dns.net.
 microsoft.theatre.	3600	in	ns	ns3-02.azure-dns.org.
 microsoft.theatre.	3600	in	ns	ns4-02.azure-dns.info.
-movieclips.theatre.	3600	in	ns	ns1.nbcuni.com.
-movieclips.theatre.	3600	in	ns	ns2.nbcuni.com.
-movieclips.theatre.	3600	in	ns	ns3.nbcuni.com.
-movieclips.theatre.	3600	in	ns	ns4.nbcuni.com.
-movieclips.theatre.	3600	in	ns	ns5.nbcuni.com.
-movieclips.theatre.	3600	in	ns	ns6.nbcuni.com.
+movieclips.theatre.	3600	in	ns	pdns129.ultradns.biz.
+movieclips.theatre.	3600	in	ns	pdns129.ultradns.com.
+movieclips.theatre.	3600	in	ns	pdns129.ultradns.net.
+movieclips.theatre.	3600	in	ns	pdns129.ultradns.org.
 museumofbroadway.theatre.	3600	in	ns	ns55.domaincontrol.com.
 museumofbroadway.theatre.	3600	in	ns	ns56.domaincontrol.com.
 musical.theatre.	3600	in	ns	ns.udag.de.
@@ -315,6 +311,8 @@ oneness.theatre.	3600	in	ns	ns13.domaincontrol.com.
 oneness.theatre.	3600	in	ns	ns14.domaincontrol.com.
 operating.theatre.	3600	in	ns	ns21.domaincontrol.com.
 operating.theatre.	3600	in	ns	ns22.domaincontrol.com.
+opposition.theatre.	3600	in	ns	ns1.hover.com.
+opposition.theatre.	3600	in	ns	ns2.hover.com.
 oprheum.theatre.	3600	in	ns	ns-a.pnap.net.
 oprheum.theatre.	3600	in	ns	ns-b.pnap.net.
 oprheum.theatre.	3600	in	ns	ns-c.pnap.net.
@@ -324,7 +322,7 @@ orpheum.theatre.	3600	in	ns	ns2-05.azure-dns.net.
 orpheum.theatre.	3600	in	ns	ns3-05.azure-dns.org.
 orpheum.theatre.	3600	in	ns	ns4-05.azure-dns.info.
 p3ce3vdq87d2p2lgt3io8p9s20m9hapg.theatre.	900	in	nsec3	1 1 0 - SI4SP8UE152SLR401EREUV9I93670VOP NS DS RRSIG
-p3ce3vdq87d2p2lgt3io8p9s20m9hapg.theatre.	900	in	rrsig	NSEC3 8 2 900 20251031153118 20251001140118 50196 theatre. aFI3A+G/cShaV+JnsOfkoFiMujvX+6K16ToBheZWZGPAyP7h//AJlWzNzKLkBxnMh+yeA1htNXHZBnEFfMoEjOhqQ0nX8aKRI1YP8MYDLFL6t9O4PlLMzZX092ChqqCtvQFAyk1Bchgy8Dhqz9L9YB/0UD/L3Nup1dC8rrBB/Rg=
+p3ce3vdq87d2p2lgt3io8p9s20m9hapg.theatre.	900	in	rrsig	NSEC3 8 2 900 20260120120810 20251221103810 50196 theatre. YTBVqaqKeaQRLY8oJXLmKOHaRFHsMmlUN2f+KMRF/BlRDXg4GYSGoo8trd4bxt5eapBXWlN4zfoU85lomYAF0E581JnvoleBHAPE81aeHfrIcjGcN6B4RU/yC4oQL7nh9eH41BOUdzChZ0Oy4wAH2dGKNVZG0XdRyRJ2UqSk7MY=
 pantages.theatre.	3600	in	ns	ns1-06.azure-dns.com.
 pantages.theatre.	3600	in	ns	ns2-06.azure-dns.net.
 pantages.theatre.	3600	in	ns	ns3-06.azure-dns.org.
@@ -341,40 +339,34 @@ regalcineworld.theatre.	3600	in	ns	galilea.ns.cloudflare.com.
 regalcineworld.theatre.	3600	in	ns	nick.ns.cloudflare.com.
 regaltickets.theatre.	3600	in	ns	galilea.ns.cloudflare.com.
 regaltickets.theatre.	3600	in	ns	nick.ns.cloudflare.com.
+regent.theatre.	3600	in	ds	64202 13 1 2B4CD6B073371881257B0F9301E8A02C9F8AC2D2
 regent.theatre.	3600	in	ns	dns1.registrar-servers.com.
 regent.theatre.	3600	in	ns	dns2.registrar-servers.com.
+regent.theatre.	3600	in	rrsig	DS 8 2 3600 20260111050808 20251212033808 50196 theatre. Nl+fDJei6ml7fDvpz0xO7qNvc1jATQjy162V4sEMYLCq4zpW7D9p6JM+arr5jm+NS4SxXSEj4YHCaS40sru3bBJAXUlP4Husv/LV7NGqRQ+3f3Lo4JLBkjZ2vNE0uVvu/W8kF6zwbe0eud+9n+NZN6McKfgmtBCWkcwp/wQ9d2k=
 regmovies.theatre.	3600	in	ns	galilea.ns.cloudflare.com.
 regmovies.theatre.	3600	in	ns	nick.ns.cloudflare.com.
 revinate.theatre.	3600	in	ns	ns11.domaincontrol.com.
 revinate.theatre.	3600	in	ns	ns12.domaincontrol.com.
-risingtogether.theatre.	3600	in	ns	curitiba.ns.porkbun.com.
-risingtogether.theatre.	3600	in	ns	fortaleza.ns.porkbun.com.
-risingtogether.theatre.	3600	in	ns	maceio.ns.porkbun.com.
-risingtogether.theatre.	3600	in	ns	salvador.ns.porkbun.com.
 rolex.theatre.	3600	in	ns	dns1.p03.nsone.net.
 rolex.theatre.	3600	in	ns	dns2.p03.nsone.net.
 rolex.theatre.	3600	in	ns	dns3.p03.nsone.net.
 rolex.theatre.	3600	in	ns	dns4.p03.nsone.net.
 roundabout.theatre.	3600	in	ns	felipe.ns.cloudflare.com.
 roundabout.theatre.	3600	in	ns	heather.ns.cloudflare.com.
-rt.theatre.	3600	in	ns	curitiba.ns.porkbun.com.
-rt.theatre.	3600	in	ns	fortaleza.ns.porkbun.com.
-rt.theatre.	3600	in	ns	maceio.ns.porkbun.com.
-rt.theatre.	3600	in	ns	salvador.ns.porkbun.com.
 sainsburys.theatre.	3600	in	ns	edns63.ultradns.biz.
 sainsburys.theatre.	3600	in	ns	edns63.ultradns.com.
 sainsburys.theatre.	3600	in	ns	edns63.ultradns.net.
 sainsburys.theatre.	3600	in	ns	edns63.ultradns.org.
-saint.theatre.	3600	in	ns	dns1.yandex.net.
-saint.theatre.	3600	in	ns	dns2.yandex.net.
+saint.theatre.	3600	in	ns	ns1.hosting.reg.ru.
+saint.theatre.	3600	in	ns	ns2.hosting.reg.ru.
 secret.theatre.	3600	in	ns	ns6.wixdns.net.
 secret.theatre.	3600	in	ns	ns7.wixdns.net.
 sheraton.theatre.	3600	in	ns	ns-1189.awsdns-20.org.
 sheraton.theatre.	3600	in	ns	ns-2040.awsdns-63.co.uk.
 sheraton.theatre.	3600	in	ns	ns-490.awsdns-61.com.
 sheraton.theatre.	3600	in	ns	ns-914.awsdns-50.net.
-si4sp8ue152slr401ereuv9i93670vop.theatre.	900	in	nsec3	1 1 0 - CQ4NL0S2528KHE6A6L45CFJDV98GGNAN NS SOA RRSIG DNSKEY NSEC3PARAM
-si4sp8ue152slr401ereuv9i93670vop.theatre.	900	in	rrsig	NSEC3 8 2 900 20251031153118 20251001140118 50196 theatre. cR0+6MxL9QO2k6LC5vGrLXpyJQjIVux/Krv9EeDn15wKsLL2dnFS7wHjyrTxDD5tZ8oZofvw0n3M3xlSW2MtqvvHBb0Hqw5pfLHHrvs+0aBxxdJvHm/eCAGYnKz+nvLmQN+uJQRMJfGRpKDAYvX2BAxIieMxLrTofOWN9b8B8Hw=
+si4sp8ue152slr401ereuv9i93670vop.theatre.	900	in	nsec3	1 1 0 - TEVOI55UGJ0BGRDJM2U7GL9VBOUCNVJE NS SOA RRSIG DNSKEY NSEC3PARAM
+si4sp8ue152slr401ereuv9i93670vop.theatre.	900	in	rrsig	NSEC3 8 2 900 20260111032308 20251212015308 50196 theatre. iqNnzv07cR8JENVWeq9BrT/0wlg0V2usU6SseOhAH/lUnVTQQQTtoUzAVvo4w3oHcZYz1TZMtgW6cn6s02dxqdlfWe4Q80dep/oJJ0HT0UuQNyCfvwk/IAdTFJyJkwXlTyJp7cP/iitwrPd4HeswBOrvzl5DReyYnw/y8idSGt4=
 simplemotion.theatre.	3600	in	ns	ns1.nameserver.net.au.
 simplemotion.theatre.	3600	in	ns	ns2.nameserver.net.au.
 simplemotion.theatre.	3600	in	ns	ns3.nameserver.net.au.
@@ -385,6 +377,8 @@ solmar.theatre.	3600	in	ns	ns1.directnic.com.
 southbank.theatre.	3600	in	ns	ns1.instradns.com.
 southbank.theatre.	3600	in	ns	ns2.instradns.com.
 southbank.theatre.	3600	in	ns	ns3.instradns.com.
+spfld.theatre.	3600	in	ns	ns75.domaincontrol.com.
+spfld.theatre.	3600	in	ns	ns76.domaincontrol.com.
 spg.theatre.	3600	in	ns	ns-1458.awsdns-54.org.
 spg.theatre.	3600	in	ns	ns-2044.awsdns-63.co.uk.
 spg.theatre.	3600	in	ns	ns-250.awsdns-31.com.
@@ -399,17 +393,19 @@ taylorswift.theatre.	3600	in	ns	ns1.markmonitor.com.
 taylorswift.theatre.	3600	in	ns	ns2.markmonitor.com.
 taylorswift.theatre.	3600	in	ns	ns3.markmonitor.com.
 taylorswift.theatre.	3600	in	ns	ns4.markmonitor.com.
+tevoi55ugj0bgrdjm2u7gl9vboucnvje.theatre.	900	in	nsec3	1 1 0 - 2IU22TN4CM1CSKLFM4H8DI6IQNE55N52 NS DS RRSIG
+tevoi55ugj0bgrdjm2u7gl9vboucnvje.theatre.	900	in	rrsig	NSEC3 8 2 900 20260111050808 20251212033808 50196 theatre. f+x+EczsI+30DIVu8pALV5jXLcFeOxO322Sdu+Lgufz8+x+qbImYm8XydhfSTjm9eUlUk3vZneNEm5DejEBKsQ1LjpOOVKccRLvkdLiov4Cki8FDn9iSZfI//+8hRl3SYoPTv787ZfV5WS/xFaSU+ixFjXXED2iWPldv+/dMIzo=
 theatre.	172800	in	ns	a.nic.theatre.
 theatre.	172800	in	ns	b.nic.theatre.
 theatre.	172800	in	ns	c.nic.theatre.
 theatre.	172800	in	ns	d.nic.theatre.
-theatre.	172800	in	rrsig	NS 8 1 172800 20251031153118 20251001140118 50196 theatre. YihAlsTpplx9TR+Mreu/Ndm9IyB1CoCYNpqwHqA7X+z1sUwr6zm9GD0wMRhZ5lFefqQltoLmAXHXpcBTpxKagYeiKmmQBW7lM9G3DnO4zboCs3maNJrFRC9p6hUsrhNlcWKp1ZPmy1A4e314KSYM4GaNcYrZMIUTOgnfAksEQWA=
+theatre.	172800	in	rrsig	NS 8 1 172800 20260120102004 20251221085004 50196 theatre. JOKzJpmlvKP1GVcH7JPva7DmYG4odYMEj+oaTwbSueNCn9y86e8tzxfuz4Tfs9GjxAWpZgKMEIiz4Qf4aGC2z2PQX9k0TAP2QYGhHxr5CnBpxhPH2guN0eGhHrtbFKNB119Z9mzrn4+t3AEu7GcG+9qlyRJsYGNsWLeTkI4SNwM=
 theatre.	3600	in	dnskey	256 3 8 AwEAAcBJvxMaWY+dR0yIBGNALPCGSN6Z7O948NteeCYKuV8XbIVXzCRDN5QBFqfLWGx6aRmHgaAqTDMdiqUna0h2uUPh7QaBjTkHttCnwZypAbjhhgmSnd9/6RQ2+vwsMoBdpVO/UQvc4dY+0eVwkbAes8KCH3687uy7zV5oMf2YHXtz
 theatre.	3600	in	dnskey	257 3 8 AwEAAc6UV4DL2GmSzYw4bFtvorbm0l7JORMnryyHucWcImcEXWQmnTM9Ro6Zp3wys4lbedWRlWimpw4KRvBlD1S5ZBW9Lp4CrjS2TlnZXIFh0fvCqte4wu+2kbbm7vItNESk8MejSP9m8ZPXLMuERxiHvzP4HALiTq2BVOalSVXOTsBPsTjpb/n/1M75EDkemlfIEf4iaxTQ3JK5KRecP5Qgr4uqU3r/o/SHce24ur+3/tyisbFq6t4dcNNu8dUqAZ2v+yRQulyhzY6c7sgwZdtkWATzHOf70UPSEwOyTrb/mYoQvzfEqr99whbNHOfYszj4Oh8cpm6HQSXi+lUWmc4ZluM=
-theatre.	3600	in	rrsig	DNSKEY 8 1 3600 20251031153118 20251001140118 62486 theatre. rZJ2zbkUfYF1nNzsTb+yVrR3iAaX2+R70bF8feAQF9t+ZuDj49rsooNvS70fo6M6fB3cLQ/4pBM9WXyqnsk27Zmrlhx2adNFCISxWaLo+JStooebxjwmavrXIRYDPvSz50cmTGW620ZP7hDyaBM7b7PF7uME377i/heFDdmFtvRgY+N2Yz1J0BUQlP05y9KLhpDdKKWfGDy1/2GrexIs0TAjUX2Rvo5AG+5rGOhOGhMJgo3RWsNDLVkKroU2X2ks9UnVx81tTpQT3RQ4ojNfqj05ha6TL9Aodxoj4foHwRCVbyoyxXfeeIlesgE8/D+1nqzAIsjwrUssz2RCpGgfgA==
+theatre.	3600	in	rrsig	DNSKEY 8 1 3600 20260120102004 20251221085004 62486 theatre. cJYJ9pRlyeBVvNhGLKa25dS9RXfU3GaWSW26kKuf0gnNgIkeUkbtTdhXikwDluVUML/TFBdEm6M8KhM9x7pYaXAxqDWN3Ex4H0ll2ETj+1k5JVm2sLFSdOICgbEwmIS5B6LSBm4cG8zB+3DRweTqwdO5rgSbYZmjsibRxccJ+0dtchogESnol6L22fWD81OhVeOR0xjqaL5M2NiGYmK1phOEkeUuNc9nvPDqw0idlftCnbVIyR5ZjX1yRWihrDQJfDZc/1qpCxO6mEUHVragLooGH+rhsh/SLOB9ipza1dZCD4/QYLr0l90AAJuB1YulaRFBfR3MhICXVlnw1/5qQA==
 theatre.	900	in	nsec3param	1 0 0 -
-theatre.	900	in	rrsig	NSEC3PARAM 8 1 900 20251031153118 20251001140118 50196 theatre. N6FErG0YGR01lrwQG7yv7dIXTTshddFCG1+zzEL7cAKmbUDLORmzv8Qam5cgNA+dwTk7dnWNmTnkdY2QsZAAVy8v6hJ8ByfLO9YYqsaSUPpC3Mkezu9ukhtW8TCD7JAPp/AizEXf42pptLaWOHxMU9hnwl7hyWyJwcAypr2Mtl0=
-theatre.	900	in	rrsig	SOA 8 1 900 20251101011413 20251001234413 50196 theatre. XSQxDi5hY16vTvDr9+bWKPEUA3X1bmLyeJubGw7+zaiNvvCH768XIFKUNas1IiGF1ALC4hYLfScv7NkqSsGuU/a0hrv52nLSGvC3EAhbZqAm4Df1d5sT7kAjW3eFEjajHR6Kt49wZc79TWFAiEUnT/stZKYgfq198nOW8kFk7Ks=
+theatre.	900	in	rrsig	NSEC3PARAM 8 1 900 20260120102004 20251221085004 50196 theatre. gl8m0+AwQPFc8Hp5RNgv8HqXccd9OQEdMIPm+sPgQTs7yrqhbk+7eD2gGZkwFVPrdhAhULajR7cdTazQeMqnu47j5RZZxPo0LMNb1VRrCMsHXE9yM6whZEb6ZihUxgPWQABNPhZ7ShUpyEii5KsRBulGmJ70NLvocvPN3PnOSCE=
+theatre.	900	in	rrsig	SOA 8 1 900 20260205011535 20260105234535 50196 theatre. ZAz3epehe7Sjamq5DXLxtDF/6HGZaQ81c5HTIWtLmyeOPpkUKzzhstxJ7kSn1drdFjUP6hC2eazojWZvvBRHdNMP8+PcaCbrvU9e7QmNhW3d0Zf5nJQTELzby1ITQ5Sr1qN7Ef0ahmIP1oe/3+VJC2TxHKMJ18ifupPxiqao2nA=
 thejohngoreorganization.theatre.	3600	in	ns	ns1.hover.com.
 thejohngoreorganization.theatre.	3600	in	ns	ns2.hover.com.
 thezooamp.theatre.	3600	in	ns	dns1.registrar-servers.com.
@@ -430,8 +426,10 @@ tumblr.theatre.	3600	in	ns	ns1.tumblr.com.
 tumblr.theatre.	3600	in	ns	ns2.tumblr.com.
 tumblr.theatre.	3600	in	ns	ns3.tumblr.com.
 tumblr.theatre.	3600	in	ns	ns4.tumblr.com.
+university.theatre.	3600	in	ds	5638 13 1 6C28C840A2F5D80DDA9EEEAF8BCEAB1F06165C93
 university.theatre.	3600	in	ns	dns1.registrar-servers.com.
 university.theatre.	3600	in	ns	dns2.registrar-servers.com.
+university.theatre.	3600	in	rrsig	DS 8 2 3600 20260111050808 20251212033808 50196 theatre. BVNjEKYinQHpCZyhzKGMI6a6F1HLTl5GZsvBUo54G1l5VH3oLudoNjA5z4T+DNmMbKrefXGPMX5Joyl7S8X3fRPyZK6uQswRbsItbNbJ5V27nTVPxdQBlfTWT9G8axvbJtrkMH4XkHkyeBelfTvsQGOBZed/UzP5uJ4uestw+y4=
 vivendi.theatre.	3600	in	ns	ns2.observatoiredesmarques.fr.
 vivendi.theatre.	3600	in	ns	ns3.nameshield.net.
 vivendi.theatre.	3600	in	ns	obs.ns1.fr.
@@ -449,6 +447,8 @@ westend.theatre.	3600	in	ns	ns3-05.azure-dns.org.
 westend.theatre.	3600	in	ns	ns4-05.azure-dns.info.
 westendwise.theatre.	3600	in	ns	michelle.ns.cloudflare.com.
 westendwise.theatre.	3600	in	ns	will.ns.cloudflare.com.
+western.theatre.	3600	in	ns	ns65.domaincontrol.com.
+western.theatre.	3600	in	ns	ns66.domaincontrol.com.
 westin.theatre.	3600	in	ns	ns-1413.awsdns-48.org.
 westin.theatre.	3600	in	ns	ns-1915.awsdns-47.co.uk.
 westin.theatre.	3600	in	ns	ns-484.awsdns-60.com.
@@ -464,7 +464,7 @@ whotels.theatre.	3600	in	ns	ns-900.awsdns-48.net.
 whynot.theatre.	3600	in	ds	2371 13 2 9BDBE5065ABE5FEE57054281AB311053219A1EEEFBB7C696DE327610F0650222
 whynot.theatre.	3600	in	ns	hans.ns.cloudflare.com.
 whynot.theatre.	3600	in	ns	joan.ns.cloudflare.com.
-whynot.theatre.	3600	in	rrsig	DS 8 2 3600 20251031153118 20251001140118 50196 theatre. Qt8xstaLiKanvBXOYY1xOaC07Exh2F7C7I/wwEHXcI9Y1BbTBIQNaHVh75XLbsWUUBtlnjLwFMXPz4WZh9/NNiWjYgLd5Rz3snB07TRKI7L1t5vaPkCBk+83ofPFHi6ediXq33Gtd9nGjK3SbYMMYAz+WaFmKNOqSLKCqwtf1sA=
+whynot.theatre.	3600	in	rrsig	DS 8 2 3600 20260120120810 20251221103810 50196 theatre. baADeIC9F/rpVyWx01rReWAjZWVyTbiJYce1Zu0KmdluajGovJeKM5+5g4alE385IKtkrE9m/AkmPv//CVJKw7Qhz1KgNxhNiUc+aTT0gFS+ZzOdAqqyl0ryJqF0f6L7sQ6ChBxmoVFnJqvO2ibAHfyArB+PRQLW1sL8n0UTtZI=
 xyz.theatre.	3600	in	ns	ns-canada.topdns.com.
 xyz.theatre.	3600	in	ns	ns-uk.topdns.com.
 xyz.theatre.	3600	in	ns	ns-usa.topdns.com.
@@ -481,4 +481,4 @@ youtube.theatre.	3600	in	ns	ns3.google.com.
 youtube.theatre.	3600	in	ns	ns4.google.com.
 zooamp.theatre.	3600	in	ns	dns1.registrar-servers.com.
 zooamp.theatre.	3600	in	ns	dns2.registrar-servers.com.
-theatre.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 236762 900 1800 6048000 3600
+theatre.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 240852 900 1800 6048000 3600
