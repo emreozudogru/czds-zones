@@ -1,6 +1,6 @@
-tatamotors.	3600	in	soa	a0.nic.tatamotors. hostmaster.donuts.email. 1759368067 7200 900 1209600 3600
+tatamotors.	3600	in	soa	a0.nic.tatamotors. hostmaster.donuts.email. 1767661848 7200 900 1209600 3600
 9vf2m73r8cfkpo0obt4u9kfrs7q3bika.tatamotors.	3600	in	nsec3	1 1 0 73 9VF2M73R8CFKPO0OBT4U9KFRS7Q3BIKA NS SOA RRSIG DNSKEY NSEC3PARAM
-9vf2m73r8cfkpo0obt4u9kfrs7q3bika.tatamotors.	3600	in	rrsig	NSEC3 8 2 3600 20251023012616 20251002002616 60765 tatamotors. UET8Ofg3fWYTzatH851J6478gCtLFcFkHQPP1kTJlhTLDcA/dZ62WAMB6on5iq4IDEvVsHGXxFg5YuU6lkV0ePZrCUtWItRPtVkJGi8C8L21qTHVW8xQoU1h1x+HWOKX3scE+cXZcvp9TEwQau1vBEqbtpuX6fA2lBMvarHatQw=
+9vf2m73r8cfkpo0obt4u9kfrs7q3bika.tatamotors.	3600	in	rrsig	NSEC3 8 2 3600 20260127011537 20260106001537 60765 tatamotors. hv66R6kfFWpBerTaRW9JBbHG6Yz29AIxlgWrC/UwU49gh1yKs5aT8RmGF4nqdvzcUhNritzOLrITQXl7hPa9DiwupTTn6uhcyOuBn4+lJdlUu/5XTo+cTbe4BbNuMAeIW6izR4o2kEA7DHeJ4WXpcRQL5RPh7fZ1UzkHsWS7AtQ=
 a0.nic.tatamotors.	3600	in	a	65.22.112.69
 a0.nic.tatamotors.	3600	in	aaaa	2a01:8840:006e:0000:0000:0000:0000:0069
 a2.nic.tatamotors.	3600	in	a	65.22.115.69
@@ -41,6 +41,10 @@ digital.tatamotors.	3600	in	ns	ns-1534.awsdns-63.org.
 digital.tatamotors.	3600	in	ns	ns-2006.awsdns-58.co.uk.
 digital.tatamotors.	3600	in	ns	ns-456.awsdns-57.com.
 digital.tatamotors.	3600	in	ns	ns-569.awsdns-07.net.
+digitalai.tatamotors.	3600	in	ns	ns-1238.awsdns-26.org.
+digitalai.tatamotors.	3600	in	ns	ns-1938.awsdns-50.co.uk.
+digitalai.tatamotors.	3600	in	ns	ns-304.awsdns-38.com.
+digitalai.tatamotors.	3600	in	ns	ns-949.awsdns-54.net.
 digitalit.tatamotors.	3600	in	ns	ns-1286.awsdns-32.org.
 digitalit.tatamotors.	3600	in	ns	ns-1589.awsdns-06.co.uk.
 digitalit.tatamotors.	3600	in	ns	ns-282.awsdns-35.com.
@@ -65,6 +69,10 @@ feedback.tatamotors.	3600	in	ns	ns-113.awsdns-14.com.
 feedback.tatamotors.	3600	in	ns	ns-1255.awsdns-28.org.
 feedback.tatamotors.	3600	in	ns	ns-1869.awsdns-41.co.uk.
 feedback.tatamotors.	3600	in	ns	ns-546.awsdns-04.net.
+globalservices.tatamotors.	3600	in	ns	ns-1214.awsdns-23.org.
+globalservices.tatamotors.	3600	in	ns	ns-1922.awsdns-48.co.uk.
+globalservices.tatamotors.	3600	in	ns	ns-332.awsdns-41.com.
+globalservices.tatamotors.	3600	in	ns	ns-929.awsdns-52.net.
 gs.tatamotors.	3600	in	ns	ns-100.awsdns-12.com.
 gs.tatamotors.	3600	in	ns	ns-1320.awsdns-37.org.
 gs.tatamotors.	3600	in	ns	ns-1587.awsdns-06.co.uk.
@@ -110,10 +118,10 @@ tatamotors.	3600	in	ns	a2.nic.tatamotors.
 tatamotors.	3600	in	ns	b0.nic.tatamotors.
 tatamotors.	3600	in	ns	c0.nic.tatamotors.
 tatamotors.	3600	in	nsec3param	1 0 0 73
-tatamotors.	3600	in	rrsig	DNSKEY 8 1 3600 20251022161120 20251001151120 55006 tatamotors. V8n7xfsFCib1YlFUzaZrg7sZsFUen9uWOF3zNzH9SWlfhCIwH0afWD0uS6Si7aBhxpVZwO+MpcXuOyWZnBXamj0caURB2EGfD6q5YHlgp2hDnI/ElJGsljesz0cEkIsrKXU9OgUW4kboIcc0ufZZmKa9EPRQWpllEWEKkwZZJG+6aXkK8336jTHNJKlpPiriDd33wJ6i5kEmXzcoBMqKl+uNTmTMvHmzlThZeAHIrKYRfiI0OX3Ph41jQDDOift56nBFZYkPM8q8ZQP7Vrk6Ebmh0pfS4Puxh9bMY9QgWHdgHDpMr8f2wtZZvm2ZE7umC66jqA0+FFUA7ZSU4kGwBA==
-tatamotors.	3600	in	rrsig	NS 8 1 3600 20251022161120 20251001151120 60765 tatamotors. KF0wsyBefMayZosYNfHhvUiWEAK6eOE7wPbD5pyyPBp2DVfSmNju+APvPOKLbZkxwkviT0kI7Z3i/ovUvVdFBtrTFFRaYNvaSwITNFcm1pzwV3CuB+wYFSKRIp631DmIaxxtLya9ihHa4w/mENQNAmM+CA2UGxZoEsP3LWGn5Do=
-tatamotors.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20251022161120 20251001151120 60765 tatamotors. kl+sfGfXynwzjBonHwftgdvedbb5voU3tQBWOkZ1B7wp+5rEXqCJXH8rZEI+8dwabmPxshegBpKnNiojP628BTDv7HfRW0/ok3aOzz6IvWQweuXB5dcC2n1+Eh+nMc0YwoTWjIauteNLuGG3DANFWG0eFfNeD5xrO3huQRiTLdg=
-tatamotors.	3600	in	rrsig	SOA 8 1 3600 20251023012616 20251002002616 60765 tatamotors. X8Qldj5+FgVZiWO8xvuV4YtYYAyH7bQcll572fy4v/eRIkralClIOz6Vjbh4mIVDJvEDjtA6XrbhLo53pkriRyu2wohRw9mfFAMVWS0qpe/AS9KWGuxa+iama9fsPblrButayQUfm4Yzw42AAlRRw7BN/2ym5AoBVcgozrY0wx4=
+tatamotors.	3600	in	rrsig	DNSKEY 8 1 3600 20260122160221 20260101150221 55006 tatamotors. Ex7DoDhxTgb2zbQHdHFe667Gn5x0wIZb704uMQerEHFysbFv0Y8xIb6pR5EiMDWWUuRUT2K+/OsMqsQPHyR//1uRbLjCJB77zjGxyGGAhVNRZKKYv8ITZEizaeNcgJYCpYn35BZJHq/93+5DE+dXILvb5Nfcnoa9LhRWF5qSvOCdNqaXnXlZ6YiHbvlpnalapYghWsoPfJm6LZdN8pMyC6LU07jqf7+BXGuZlyi7nJT/jJ3c1hlTdB6zHzu/hUEixUk9VWF6cdQLSFncW2fgOalrWhwUqH0wo3m+2iHy/Zpy7BM+bXGvztUl5iovbhueDfAPuSt25/OTVyFMA8SXQQ==
+tatamotors.	3600	in	rrsig	NS 8 1 3600 20260122160221 20260101150221 60765 tatamotors. F49RS3NWaXFJIxw3FZ7z6c4uKOmZdoJbD+/RjucSYppRGyWLHkQAt50ws5qhIjDpYeKyN8QR8ipWJlq37p6pKJBG2aOdLA0v6hS8t1hFnodJkyygCvXh3XaL+xdpLsLnWda0/alju5pN3sh4CZMebVtfjbGyaeqrae/pkUnOIRM=
+tatamotors.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260122160221 20260101150221 60765 tatamotors. fSm298v9t2d/genaZW8YSlSN3AKhQVGwYFHmlGPvAhSFYHFDxm+XvAE6iPHsBIYvH798xB/2+WCtED82B4AyHyR/GtWyv7BWD4RZoMmXT/FaSH1iV16EtGPuFzXT0UJOtwKd+i46HNHBBSQWTqqkHhwqV/Pl988i89vo9nLkDJM=
+tatamotors.	3600	in	rrsig	SOA 8 1 3600 20260127011537 20260106001537 60765 tatamotors. j79EiiYg6wT4A9DE6ZV1Ebbe4rS4MfedDVaP3ccKSPM2IUmcx4vepbETXengVKzfDIKSVoGTPqg8/oAY+nkOH84k4QG3URM7fVkEw0TudcBBuW30Nmx9khudjsl6jiHK7JqGJLyjoYAeY17p2NUQlJyIfKajLg28f0sy51W1ghE=
 tmgsl.tatamotors.	3600	in	ns	ns-1480.awsdns-57.org.
 tmgsl.tatamotors.	3600	in	ns	ns-1888.awsdns-44.co.uk.
 tmgsl.tatamotors.	3600	in	ns	ns-349.awsdns-43.com.
@@ -122,4 +130,4 @@ tmlbasl.tatamotors.	3600	in	ns	ns-1361.awsdns-42.org.
 tmlbasl.tatamotors.	3600	in	ns	ns-1601.awsdns-08.co.uk.
 tmlbasl.tatamotors.	3600	in	ns	ns-225.awsdns-28.com.
 tmlbasl.tatamotors.	3600	in	ns	ns-570.awsdns-07.net.
-tatamotors.	3600	in	soa	a0.nic.tatamotors. hostmaster.donuts.email. 1759368067 7200 900 1209600 3600
+tatamotors.	3600	in	soa	a0.nic.tatamotors. hostmaster.donuts.email. 1767661848 7200 900 1209600 3600
