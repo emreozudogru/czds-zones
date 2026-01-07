@@ -1,4 +1,4 @@
-stc.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000375225 900 1800 6048000 3600
+stc.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000379310 900 1800 6048000 3600
 a.nic.stc.	3600	in	a	194.169.218.29
 a.nic.stc.	3600	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0029
 b.nic.stc.	3600	in	a	185.24.64.29
@@ -6,7 +6,7 @@ b.nic.stc.	3600	in	aaaa	2a04:2b00:13cc:0000:0000:0000:0001:0029
 c.nic.stc.	3600	in	a	212.18.248.29
 c.nic.stc.	3600	in	aaaa	2a04:2b00:13ee:0000:0000:0000:0000:0029
 c5jvvffi34rlcn9blb2uoa6gh5nddgkn.stc.	900	in	nsec3	1 1 0 - C5JVVFFI34RLCN9BLB2UOA6GH5NDDGKN NS SOA RRSIG DNSKEY NSEC3PARAM
-c5jvvffi34rlcn9blb2uoa6gh5nddgkn.stc.	900	in	rrsig	NSEC3 8 2 900 20251031152748 20251001135748 8331 stc. EqIDpp+QTOLZAtD/yuAkuK0PyS2wYbteVPJ2qchmvTiun6ktMB42rRir9zUfb5jHZNNH2G5/Pi0TkTwt3xNqWHXtpFTmgqj1hwuDCUMnpicrDhlgcaonU7/9zhiXaWat8I3tm60p+r/3CW3v3rGex9dOByWONb8WqAtCXbCNjuw=
+c5jvvffi34rlcn9blb2uoa6gh5nddgkn.stc.	900	in	rrsig	NSEC3 8 2 900 20260120102517 20251221085517 8331 stc. NXJl23UPWzhkmRhiafB6nKVQa6F1bs7yROKTbgzcY26tHoefiia9b+uiDi3ZdfBRUJ43MvYpHnpBLmISIOpJS4XIZceD7E3chKYk19dcL6/UlTBXyxC0Sw1PoYPlhGdTIHCYNXzvxYhWsG5px+B4inRtdVssx3n5vLRW9Q+/sLw=
 childhelpline.stc.	3600	in	ns	ns-1255.awsdns-28.org.
 childhelpline.stc.	3600	in	ns	ns-169.awsdns-21.com.
 childhelpline.stc.	3600	in	ns	ns-1777.awsdns-30.co.uk.
@@ -44,13 +44,13 @@ stc.	172800	in	ns	a.nic.stc.
 stc.	172800	in	ns	b.nic.stc.
 stc.	172800	in	ns	c.nic.stc.
 stc.	172800	in	ns	d.nic.stc.
-stc.	172800	in	rrsig	NS 8 1 172800 20251031152748 20251001135748 8331 stc. iM74UJiO8rmjy61ea+VUkv8/2hFh2kG3ZWSQgq2ylAahya+5HdBUR6gephFWEAk9P5mr0IOqM4pvnCmtHu/r1jjhtnz+AoOb4+Ou2zeq6v0oBwVzUU7Ge4qgSu71+ccyGOz3pXSKkxu7gNa4HXFI6G4VAdtAtUXzT6fOcPfB6+Y=
+stc.	172800	in	rrsig	NS 8 1 172800 20260120102517 20251221085517 8331 stc. Tx/inRMvuSbpcU9vjpSbNPcdvvLPBzMC58xpt7ZGRN1NWb2BFEo/fFxx1G3wmSR6MtSmr4VXZDBg3j/f907ns3VE5F38Pn/kgIf9atl8T9KOLBJHDmWthOGAXFpS7IPh5IP48yS19+y6QdaB8HExLR3d4BSQT1YQR86JGRPHfp4=
 stc.	3600	in	dnskey	256 3 8 AwEAAc1bR7oOdo/G4T12XOYmLKX4QrRMrrW7CtyOKf0MR/e5bqiSzGVS0cd1BHwsZ0uCYyyJ3qMu0qvnKhgdcL6xtdP5+M5fQ+qxIGqqzGDCa/7CBu8GoBNUkpbueppW0Y0VPbISgjhdDST5gL2tc3WWn+tesmz4xZNNO2JQnhaGpe1H
 stc.	3600	in	dnskey	257 3 8 AwEAAd2j6xzJp5SbmTa1Exp6m53JG+vSEq1B73X/AbHxMOMux8FYBuPNr2Nmbhx12LSwWVnrigkyArGlMV3fljq612Q8opwfBv91jD5T6zf16WZBSmeRtS8XTbEV0k5lFj5LWx6BrN7fDUqQw4GBas1w/uvDxnoltWBNQ6FPlDURtutiEjY+AfcenSH+mQY4APVmgPFWl9LsdgHn3odP7pYWy1yfwtZqkAjhRE4+V24toulP2RYuTBDhGot4AM7vwSve10O2kyKTf26QZYnnZ+d9B4nBfwqAX6LFO8tzNzXSIMogSSF4R1+Srrg/kfJV9RqLwKxqUsEIun3HBpPYUDUyzAk=
-stc.	3600	in	rrsig	DNSKEY 8 1 3600 20251031152748 20251001135748 18386 stc. eO1gsbPPVyuvTMOeeWpF0X68XsWpnzNohA0ooS0zuizzTBZgrTUswqDZnofkqunEmZlCqfgdJTWW8oNsRGSUHXcZz2C/DAC9t0dsgBN4NyTy36NofUdlY/h8c4QVEsZXBcZb59SewVZv28gPllmBy6nuRPvvFhj5HEl33Hrx3mc0BiuLX48wl52xtCX3ZwCwp2gK0K7M2Zv3lMqZI1/3ui+DTIq/IWC96F4KmDYNIHAclny3sNqtb0TfDPG84xbcw1D2YTTt8AphesEX4LJ6pOnEgQYt8HkZiEwFizaZXVd3tZt83uJH2z+y3z1RbXfgbUFX+hFiKb4vHZ3weYqxuA==
+stc.	3600	in	rrsig	DNSKEY 8 1 3600 20260120102517 20251221085517 18386 stc. PSlYoCtoDfSuzM04CWTYaGuQIbfZpvD2nOjdbFXnma7oqja8ZEOjw6tpqWkIIyLt7g4L2tpZuhJYOMOtjOR8u6ZjlhsPSU772RXxmIgamYzrh1QT41yUzs/RnnTZ5pTLtpKvVV0ffLTqI1zeP2jax+JZyRaJsXmC+FUia7KXjnG/sCMLO+vC6iiz4t4p388o0f7b1eWHa7rEP16kfLTU0IgjOBiFrS5naCXzlSi+CvhqvKoQaL5yIsVgQFo12mca4CHcgSQY1nnvlRonWrzJ/ivnSyGA1rjXWlENRT7Ax9bvSk8T9PmVVgiR7sJnn5oXm1JWcD3HaXXA29exO4ha9Q==
 stc.	900	in	nsec3param	1 0 0 -
-stc.	900	in	rrsig	NSEC3PARAM 8 1 900 20251031152748 20251001135748 8331 stc. vN2ZkJdJI7Fu27yHRL8FqdaJJAj0dWsvO6YeaykOCswYRpv9j8sMExvCETlu0vqmKAdu6pD1fLugOP6bZDJXOv5OJzf74UJ224zRU715jeA6jBJKbj7C0ItfgHwYjSZGNE1SI9+im56X9Fy6cdw/De6JKfy8WdA5Em3B1JP9kOo=
-stc.	900	in	rrsig	SOA 8 1 900 20251101011408 20251001234408 8331 stc. W3yruxUzO21uNbw8GKWNOZbxxGybRShP2bmjt5t1qft6n0F3vCNZyk2WwhsVuskPUOpMxvR46NSXDyz15aF8MNkLMbw/1Psk6zpm6+mtGMvOY3nT41fTkHU2UmYJtjDQH6QvvYjpcXhgpTQRLYJLrb49n4ik9gAhNeLEgXGeSjM=
+stc.	900	in	rrsig	NSEC3PARAM 8 1 900 20260120102517 20251221085517 8331 stc. SWlszw//fT+7eOEW9FOndFmKeNAv/y6RysORpCGEG3tiy05l6txvfszp/MrLCwQtI9Z2rZXKjWs6o3XtW/E2BqpAgAEjvLlTF11SfohFcu+udykxF9uqeJWp9j4eXL2bvmgBXiHypMB+FsmnRiVir/kmc5b27caRQKqmEEyKybY=
+stc.	900	in	rrsig	SOA 8 1 900 20260205011530 20260105234530 8331 stc. DNwVux49WxBnAyTzNgOChVFOyPwUOxlFV3RAi8axIvdq5JjrmvTBduoNyTCGbV5mK/VxT6ZBm6ehcNoW6XNZzQEXRWIEm3D9SadrdKQwadwveG45jLSbIYeRQBH/fSzAPrkE8kdLwdfqhm9bdnaB9iMjBX+BYSZwheRsgF/PM1c=
 stc.stc.	3600	in	ns	ns-1448.awsdns-53.org.
 stc.stc.	3600	in	ns	ns-1591.awsdns-06.co.uk.
 stc.stc.	3600	in	ns	ns-248.awsdns-31.com.
@@ -59,4 +59,4 @@ ua-my.stc.	60	in	ns	ns-1351.awsdns-40.org.
 ua-my.stc.	60	in	ns	ns-1639.awsdns-12.co.uk.
 ua-my.stc.	60	in	ns	ns-52.awsdns-06.com.
 ua-my.stc.	60	in	ns	ns-791.awsdns-34.net.
-stc.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000375225 900 1800 6048000 3600
+stc.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 3000379310 900 1800 6048000 3600
