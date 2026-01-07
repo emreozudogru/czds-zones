@@ -1,6 +1,6 @@
-xn--zfr164b.	86400	in	soa	ns1.conac.cn. root.conac.cn. 1759359603 1200 600 604800 43200
+xn--zfr164b.	86400	in	soa	ns1.conac.cn. root.conac.cn. 1767654003 1200 600 604800 43200
 4mipl5h80go1nnkbuhi6usa9ld0c9116.xn--zfr164b.	43200	in	nsec3	1 1 25 e8af9e09b1410d85  ql6s8hbb55a8i0joq7guun3gstecmovj ns ds rrsig 
-4mipl5h80go1nnkbuhi6usa9ld0c9116.xn--zfr164b.	43200	in	rrsig	nsec3 8 2 43200 20251223190230 20250805163004 8505 xn--zfr164b. hg6XZqXROdlzfzUYGKYLQKevEQWlX7vWTP4wPygda/hQ+Dl+HGLfVNlKU8Lnld/5p5t6p6qGXNq0/1YztxJ7b+aNoKs9BIHOnG2qqfhaMLryvfH3lInT9FT2kfgKdOVZLzd8yLh0qy2tzLnb1s8YDUU1S8jScA/QvPdb2v8oWmRS+4oxOJYl+du0k2IbJNzz6asyJZi+MoMlNOOagmWlzAkopQ2MNdK/X3yloP7ThGK9DDQwU6EtNWDySyWQhUqbVqW5lRCrKyihELGkofTv/vxbW31Qw4530ZuJ06dVOU+vHBqpsYv3yZ3TPxKLPNYSkculWWrr1TRqstCQKMT7+A==
+4mipl5h80go1nnkbuhi6usa9ld0c9116.xn--zfr164b.	43200	in	rrsig	nsec3 8 2 43200 20260510184606 20251220173034 8505 xn--zfr164b. xfwqq5GbXDpqmO0gMaW0wkvruhMOvEoDfodJ2Ehu8qhy3rQ4rSJi49eEdUp0EVP66biIJnHge+5vYyJEspHzEvPerF++kmwb1UjQUX7db666cttiFh4n6L7jx3ouvPnfPgfZ2XPpj4zG94EAVpvKNcxyS0ZR5GqL2pw59K4pDQ3iktf9UpFfN3YV61eFGOzRSAEl6emWVaIWVDDsBDnnEGUp6/iNwSl5RNOCWpw4+StSxP0KJw7gAwJFeIFxe0UGun1hhPWej3FdMyLPbVjnCphBDkqPk0thmGGCqfQFCk+ICDFoaob08VpTx/Sd6M34HJAdkCys2EkPd1LCYWeB2g==
 nic.xn--zfr164b.	43200	in	ds	45079 8 1 03498268b6057c4dfddcba20b4f902d42a6c6b5d
 nic.xn--zfr164b.	43200	in	ds	45079 8 2 3166a5331130ac72b06f1b5e88362aed49274e6ff47659fc1e918195fddfdf68
 nic.xn--zfr164b.	43200	in	ds	48154 8 1 2d1e838ec7b7e3b288619f336aa3190b737da255
@@ -12,20 +12,50 @@ nic.xn--zfr164b.	43200	in	ns	ns4.conac.cn.
 nic.xn--zfr164b.	43200	in	ns	ns5.conac.cn.
 nic.xn--zfr164b.	43200	in	rrsig	ds 8 2 43200 20260208213319 20250922160033 8505 xn--zfr164b. NmNHtoqndKyA39vvrEJwMfmM3YjlRnJUF2nHF+Lbe7BkFqj0vKHk3zOUdZx+s531ggzRxNWMKbG9p8TbvzW5mcitez5En/dZ2lGAphHvN7RFr5h/XlnjhYXI7cisrZaIYXaK+M0ElT0wOC7DsUiDjpxmR12vDIMkVL7ga1IR+XCsoFLzHKksWmNGlsxOSw7hPO/alRwI92/OzhRePq/O7i26i3du/ddjEEDHjzYAh0CdnH7zMVrzd1ZpPzTjBB6who1zjEdl3vEmo/X156WQJ+AaqbeG/FILykkJYAc01jQAZyWLilVPObOjktr/k+SRmZo4zTdH4LWUNASpqzofEg==
 ql6s8hbb55a8i0joq7guun3gstecmovj.xn--zfr164b.	43200	in	nsec3	1 1 25 e8af9e09b1410d85  4mipl5h80go1nnkbuhi6usa9ld0c9116 ns soa rrsig dnskey nsec3param 
-ql6s8hbb55a8i0joq7guun3gstecmovj.xn--zfr164b.	43200	in	rrsig	nsec3 8 2 43200 20251222010813 20250803063004 8505 xn--zfr164b. frufkzl95tnHjo5NYkLaMTrFEoEeoLj7sS0UVkw6N8vXHhFCqDA23mR4eDK9laRtTomZ4jBmonBsjXXbF33x86HfMX73vTZlFWh8MyEhlbcJt296IlOcR+YNWoGmLQHDCr5Hkeob1C/M6zck3FUnM27jH/7lqxF5KBhWh1ZS9NulogDqSABGOSCEtWBEYYqIfqUva7g80oSwsBjuwq3zAS9DZaz3aSUp3zOcs2iNTfn55igQMb24AeoE+LfwNwEYT4jcEiPuVCzDgdocRONZvYrLEWaIh5TBWs+7AuOFEh52xAfXzx1fQb6P5fp6VpkYdU5VftKoBUdmqg8nA1v27A==
+ql6s8hbb55a8i0joq7guun3gstecmovj.xn--zfr164b.	43200	in	rrsig	nsec3 8 2 43200 20260507083856 20251219053033 8505 xn--zfr164b. lP4S/CAGp7mEnwrwizmH1y0QjntFP7+eKYQvgmayCA04Xp+lvTpdEQ9kRAcRHX99M38VutD2/RV7eB8YUzXf648O0lGQKtIxkaxdNpAKV0Ii8TAEeTvV92rTgdnT6wOuNU2esOdp4cIdYovli3Hcpbdiv4zQrP/PwCmryEZmambGKO/Q6WNo7GvhDFsmdTLk+BEbeeFJOpT/lTM9iCQfpjdXwUPRQWM+N0+LDu8ZBvUns8vISQO7fb+YUgOu1RRWE2sXsO6Jgc1b7rft9ioovD+yA5AbUDaLg8KsxfuHLrHDvxwULSK8JKW9GIfZtNAVqJSWS63HTSlTMbP3LCnHjQ==
+xn--6oq79ch0aguhb00cp7a580ap6dlu5alnb5ux17d3ebp6ens5dy02bvxyh.xn--zfr164b.	43200	in	ns	ns1.sdc.org.cn.
+xn--6oq79ch0aguhb00cp7a580ap6dlu5alnb5ux17d3ebp6ens5dy02bvxyh.xn--zfr164b.	43200	in	ns	ns2.sdc.org.cn.
+xn--6oq79ch0aguhb00cp7a580ap6dlu5alnb5ux17d3ebp6ens5dy02bvxyh.xn--zfr164b.	43200	in	ns	ns3.sdc.org.cn.
+xn--7iqt0fo8fhod36g7n2gmbk.xn--zfr164b.	43200	in	ns	ns1.sdc.org.cn.
+xn--7iqt0fo8fhod36g7n2gmbk.xn--zfr164b.	43200	in	ns	ns2.sdc.org.cn.
+xn--7iqt0fo8fhod36g7n2gmbk.xn--zfr164b.	43200	in	ns	ns3.sdc.org.cn.
+xn--ehqrnymu0fyzbi4ac5c59tp6d8shj6w.xn--zfr164b.	43200	in	ns	ns1.sdc.org.cn.
+xn--ehqrnymu0fyzbi4ac5c59tp6d8shj6w.xn--zfr164b.	43200	in	ns	ns2.sdc.org.cn.
+xn--ehqrnymu0fyzbi4ac5c59tp6d8shj6w.xn--zfr164b.	43200	in	ns	ns3.sdc.org.cn.
+xn--fhqrmz9i535bybe516e.xn--zfr164b.	43200	in	ns	ns1.sdc.org.cn.
+xn--fhqrmz9i535bybe516e.xn--zfr164b.	43200	in	ns	ns2.sdc.org.cn.
+xn--fhqrmz9i535bybe516e.xn--zfr164b.	43200	in	ns	ns3.sdc.org.cn.
+xn--fiq7va61uptfba0xw6pa876cx2bda320lo31cqndes8t.xn--zfr164b.	43200	in	ns	ns1.sdc.org.cn.
+xn--fiq7va61uptfba0xw6pa876cx2bda320lo31cqndes8t.xn--zfr164b.	43200	in	ns	ns2.sdc.org.cn.
+xn--fiq7va61uptfba0xw6pa876cx2bda320lo31cqndes8t.xn--zfr164b.	43200	in	ns	ns3.sdc.org.cn.
 xn--fiq7vggk68aq1fe49byv8a.xn--zfr164b.	43200	in	ns	ns1.sdc.org.cn.
 xn--fiq7vggk68aq1fe49byv8a.xn--zfr164b.	43200	in	ns	ns2.sdc.org.cn.
 xn--fiq7vggk68aq1fe49byv8a.xn--zfr164b.	43200	in	ns	ns3.sdc.org.cn.
+xn--fiq7vggy2fzsqr7fzfo12a7n8c7pxcoga.xn--zfr164b.	43200	in	ns	ns1.sdc.org.cn.
+xn--fiq7vggy2fzsqr7fzfo12a7n8c7pxcoga.xn--zfr164b.	43200	in	ns	ns2.sdc.org.cn.
+xn--fiq7vggy2fzsqr7fzfo12a7n8c7pxcoga.xn--zfr164b.	43200	in	ns	ns3.sdc.org.cn.
+xn--gmq9cst06ltm1aa033i1jb1g788gre1ahlcb20e0zr.xn--zfr164b.	43200	in	ns	ns1.sdc.org.cn.
+xn--gmq9cst06ltm1aa033i1jb1g788gre1ahlcb20e0zr.xn--zfr164b.	43200	in	ns	ns2.sdc.org.cn.
+xn--gmq9cst06ltm1aa033i1jb1g788gre1ahlcb20e0zr.xn--zfr164b.	43200	in	ns	ns3.sdc.org.cn.
+xn--tiq0ul0djvc2va3e7u546acm4a2dkqxbr8ct3ees6bwoal55l.xn--zfr164b.	43200	in	ns	ns1.sdc.org.cn.
+xn--tiq0ul0djvc2va3e7u546acm4a2dkqxbr8ct3ees6bwoal55l.xn--zfr164b.	43200	in	ns	ns2.sdc.org.cn.
+xn--tiq0ul0djvc2va3e7u546acm4a2dkqxbr8ct3ees6bwoal55l.xn--zfr164b.	43200	in	ns	ns3.sdc.org.cn.
+xn--xhqx5dm3ee0f4vep3d3p3derj227d.xn--zfr164b.	43200	in	ns	ns1.sdc.org.cn.
+xn--xhqx5dm3ee0f4vep3d3p3derj227d.xn--zfr164b.	43200	in	ns	ns2.sdc.org.cn.
+xn--xhqx5dm3ee0f4vep3d3p3derj227d.xn--zfr164b.	43200	in	ns	ns3.sdc.org.cn.
+xn--xhqx5dm3ee0f4vep3dx61c0xhwjnhn4bxx0a.xn--zfr164b.	43200	in	ns	ns1.sdc.org.cn.
+xn--xhqx5dm3ee0f4vep3dx61c0xhwjnhn4bxx0a.xn--zfr164b.	43200	in	ns	ns2.sdc.org.cn.
+xn--xhqx5dm3ee0f4vep3dx61c0xhwjnhn4bxx0a.xn--zfr164b.	43200	in	ns	ns3.sdc.org.cn.
 xn--zfr164b.	0	in	nsec3param	1 0 25 e8af9e09b1410d85 
-xn--zfr164b.	0	in	rrsig	nsec3param 8 1 0 20251224101704 20250805203004 8505 xn--zfr164b. D0hoLGHsi1a7W9mBxzLZ+DUIusFnqm8tgOgG8UpB2ZkSx4+y9ulmTp57u6s2KUc8oa3wvVIt9+qZMvfd/nSpwHZQ30bGJydL20J90mJ3YqXZwTDig02lHN5OFuoXfVSjr+cWHWMTEMe42t+FYcr+EuZ/YkKaNi8kWsSQEzjHyOhtvkH94wodaj1YEwYAWxhYg0yGvf83rgCQeQ59UbJQMxFSrzgdA1IYV0+Gt8YdLkZ1T4zxH8ilhjoJeoVBuXIaNX5Xk4dNLTZgGv8HBobH5YvLwgvlv/00qE2OGFP/wirZgLAifyNbScrZEMz9ZfxTzcuKnK/FEthFwbMScksv+Q==
+xn--zfr164b.	0	in	rrsig	nsec3param 8 1 0 20260509175334 20251221083033 8505 xn--zfr164b. UGuuvD0ut1kGxgtKpBdM94a/PkoIwXThJkI+fNs9SmbG4aWArVdN44rULs0W981GFwcDQpiI4zB12T5HYsQ1ECRaDjMloOhlp7RyN1eH9GT3UBQG4Eg3kq+ORbABTEyp70dWQt8ONMEVJpyKsM96ux+VmmgIlZhX256saPP6iD/jbo5j872ZSenyBsZVay8KfiUkHrFAULl3VGbTzOeF/kAKLbroKzvt04Z1/9E0t6iFg5bU7HZWzE/g0V2pWYlqScm3zEowOpC9uOD/081LcAIHQk/zsExCcD8NieLmweJWxi528KKI8uKS/yieqwHHDj2wGT5fr1OIg02ZFnZGgQ==
 xn--zfr164b.	43200	in	ns	ns1.conac.cn.
 xn--zfr164b.	43200	in	ns	ns2.conac.cn.
 xn--zfr164b.	43200	in	ns	ns3.conac.cn.
 xn--zfr164b.	43200	in	ns	ns4.conac.cn.
 xn--zfr164b.	43200	in	ns	ns5.conac.cn.
-xn--zfr164b.	43200	in	rrsig	ns 8 1 43200 20251224101010 20250806060004 8505 xn--zfr164b. N9VJyniJuZVVWvDDiHG6e9e9orAmIKtGphusF3UVTDQd8rNiHhVcx5E3c0rGIREaHio8k8ADAKcY/VS2R+btQ4sLMA7yolJ5BAZzt3JMynJs2DqUczqgiTUVd0nDX/mXY2ApfLzpouaqbnNWWMoWzLd1S4V+KIKSjcDscYupC9a8Yw8pb0QC1Y/VjchinFLQHNsU+SZLuSVjP1Bgy+e1dAuKsJDcjTdjAfxqwImqNy+BKKCl0t9JWA1CKFWEYf8sx+3lMTdIjFnreJ9t+rdIKLdBMYTHB1y122XGOlNAtDsUwKRHRtZK3jGRJrrwzoMMxc0wMtO/l9L5UANHf8ATNg==
+xn--zfr164b.	43200	in	rrsig	ns 8 1 43200 20260511080459 20251221083033 8505 xn--zfr164b. nuM5ctW+9Vt/GsYrlngJ3fX/ucmsztTfLVBMat1aIfxt+maYNOagh8mWMV7RDACLY1QHKmExLOPSjHoLoVoX/IG+RY2fB+hGCj17Ct2mbcdZGa1sSu3Vv6t0EUAyv/i8PuSoR2qcgHuDry3DMOIlc+DlAlnC5xKfrcCRH7JiUE6uepm0L1sr/teUealoXsSYL1IVugWB+XBDZSxt2YjOdkxGwFg4W/z4iZeyojHN/3ZyYTKBgcoamTU55ScC2x7FHvEp+HiHNXxDlvm7kjfMlEKQ/tGCKzME17QuZmTVtikhTMwbF8hZAUCE48PzhmOPpHxUqrPjPlkVpHJfiVW6pQ==
 xn--zfr164b.	86400	in	dnskey	256 3 8 AwEAAdawTlBqTRSgU4YWtE0eO0scpK7ChqY9KFrsxAzGCjUIMejHO88MnV8mnbB4GtnQwfhRLiu0/OKgOR7J1QWAUSRQaXojuK4mMVTgpB59/3huQ3fTNQHkO/jhRIvkolJlNlJVQBVyenWXKuK/JZ5lDpBsb0dPW1lN06mRBj+aZggym6lTxY+L7HZbxCxxltjuEGYCnOQ3TsuSJx3/52ZEXAfnev2GDpuzk50SUHmZ2PvNaCHn4iZCwRVre3JD1HBzCqrISPu2J2tQ2i/f4s56VOrrmV9DGSdB/4+EOmsLKGJWBf6Pmxh7zLaBBn4BFUXUqL+h40LQGKXs1AkZfARlSiM=
 xn--zfr164b.	86400	in	dnskey	257 3 8 AwEAAcgAANTyOES4p+rk9t5JoP66rH8EYXYmn3jP7t4zpA1HG0LTB5bes7oLaRv5IrPdZQF7jq/cQp41BNduZTCDMn4u36XMyIr1fDK5PhKh+tYb1RWDjEsSnizgvUnEhENjMzLqjP6t3yUxQzavClAdlNCSdbZkCzFFvAzPbk7yb+fVFQR7pABGZsmTkX8qnfC2JtXQpgiKGXPHqRp4qBza0Qde9UrdJamZZXt7IE0yGhnSY4JRQoenjKO0cOOS5wyojeu/KKDpYc0ULkcIbQSD1rWjpFvEoWtqaweBtIafl7bLR2JJgb39s3I9D55eXaH8TmAyV8gisnNxB1hFtGy21aU=
-xn--zfr164b.	86400	in	rrsig	dnskey 8 1 86400 20251225035008 20250806070004 8245 xn--zfr164b. SxGGc8dvGarOKZgtX9bAa/n8rD+zkGsjo7vPkd5z34fE6XR30xrcL+/23wbRC8CC3cHBvYilXeMUyGLaGGOqxxw3oobuyM8vRA2pawBomG+nh5sAB7lf3Jp0njR4OTeQmgRiU7/BFXZF+w+AiwQwNCmELM+P/dIwca1yrjz5iQmInWsysd83Ss/RtTHpoq1sjlFqLxDAy147dy91h77+yHknfC0Cc8W/s+4dLj/fN9n0Cu/qDkMOw+LZBzc1p4GVlikfu+WcfPoZpicO/qZp5ZeE90D2hLQOVXRMnKq+es8IoxVO638GsKZBpGUcP//89WaG68sj7BhTjMxWq1zTEA==
-xn--zfr164b.	86400	in	rrsig	soa 8 1 86400 20260219024305 20251001210034 8505 xn--zfr164b. zttPMXuH5agiKB14ABEYdwwdyWP/3XCaUgz88mPn2IuMFVU2mkOPnBouTqd2hjcjDOeMbc7u9E5BUGVhwmpGR0PvERW+/vg1Qj+bWm+YscFd8W06jb5UdoWVEOWoJo/WWNvADsG3VH0VkylE+eDJ/tV0g7+ZJEoux7XvAWeOgVmXDaWnoSyr8l56Q9cQSFtcwqaIhlQi+2a6BKZtmcea4LgIFP0rxit+y6v7TCHmugLqLrhytapruSw6f6CEsLEZ85ojFLtxgpUCcgpfTCTOiKpnvfuw4sp7wT1RNAZBNPk2QMbt2NM/tlOD8nxvezJHjjDf10cWAqnbBUn5aj5OLQ==
-xn--zfr164b.	86400	in	soa	ns1.conac.cn. root.conac.cn. 1759359603 1200 600 604800 43200
+xn--zfr164b.	86400	in	rrsig	dnskey 8 1 86400 20260512034104 20251222020033 8245 xn--zfr164b. XGwL8nPHanlO7dshFISLCxeFzteG0kVHZwHhGEMtIlpxJ+Qs9rGPqHRDx3cr45zhTbzuITf4W7G1AfnB+H1gUbPFJwFP8QSef2xb/oq/xJeMThTyzTIk4nJgSLbz+iIulACHMDG+ez9vNiYFDMUaxjekiv4JFNVEuReqY/62MypSrG+kPaLRw3MbiyKWrz0IqkiD3lK7L3F3e0klX453clFV9IVuRGtFSvHqn0wrBI0RR147V5HUqUsqRkve0UVFtSFXNc0Z+EY0U8r/yjh0IBjB5s8/O5Bv/8JFIS/OdUPGpVII/5O9AxFyrMOYQ169ggWgVF8Wsi8hPmh7QIp3ug==
+xn--zfr164b.	86400	in	rrsig	soa 8 1 86400 20260526103637 20260105210034 8505 xn--zfr164b. jAf+wd1hb4OZjPJvbQmjZqL2JMgprj3G3LVEoIRUNdwjQyiSmd9YBO0ZX/hALeu3Q5FUtu3T/zbtks2rIW8NOnAbGayaLRya3j4BWoydO8nxaPuzwSTWZFzk2rAsfa2sOdWY3ITsS9PuB/4kWcJSu85rAzzFKAwuM41s0FxgtAqzsD+9Loy6Bp55S6EZF64TVf8NSQfTIle6TWW5owQJKwyrvjGxG6sCAlMSULY8N+5D89y8veDvMVZIkPuyY+C/SuNuSgkLg585YFlEcNLkJ9LLFhm/TrqsA77Cv4npJKxM4PPooOyl2zBlmEslsBFCzmTaZen0MkiKo5FJYSskbQ==
+xn--zfr164b.	86400	in	soa	ns1.conac.cn. root.conac.cn. 1767654003 1200 600 604800 43200
