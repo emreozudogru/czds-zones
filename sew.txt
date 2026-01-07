@@ -1,6 +1,6 @@
-sew.	3600	in	soa	a0.nic.sew. hostmaster.donuts.email. 1759368065 7200 900 1209600 3600
+sew.	3600	in	soa	a0.nic.sew. hostmaster.donuts.email. 1767661847 7200 900 1209600 3600
 3f76r9jfv3ubaso1cmidkt94oq2jbp3f.sew.	3600	in	nsec3	1 1 0 73 TIHUSENK1581GBCMGMMI3D6BOL86HHKA NS DS RRSIG
-3f76r9jfv3ubaso1cmidkt94oq2jbp3f.sew.	3600	in	rrsig	NSEC3 8 2 3600 20251022151608 20251001141608 56478 sew. m0sJhIN7hA5APvb7G86ota1zhyn5FOSzrHpsjo4C55x/L97JKh5WFEUSzJFT0+zWn1+SN78kz4HdMLCvPWFeP52wPcoQG31Trn0amWr+AHT56qUC8s/gus7F10/Q2qdd9KQI6O6S9N6O0HvQtuUGMM6VXrk39ax4J5ozWzOpd/o=
+3f76r9jfv3ubaso1cmidkt94oq2jbp3f.sew.	3600	in	rrsig	NSEC3 8 2 3600 20260122160040 20260101150040 36213 sew. dChMJXvcExD8oBFwKry9s51sBJgl4aPFttNQXVTERPaV9Fdk3w860g2a8AxXO6OzLOZvNqBA8r9VuRtCapY5tH9bSb+BgMQ2twMg0urO4qxnuLyLwxJJ6+bWlZqJPnoL3yKHkzmgMCjzHrBh8Xb289OeDQYBhbQKtWjSI8sUImw=
 a0.nic.sew.	3600	in	a	65.22.188.25
 a0.nic.sew.	3600	in	aaaa	2a01:8840:00b6:0000:0000:0000:0000:0025
 a2.nic.sew.	3600	in	a	65.22.191.25
@@ -25,6 +25,8 @@ hm.sew.	3600	in	ns	dns1.cscdns.net.
 hm.sew.	3600	in	ns	dns2.cscdns.net.
 hmi.sew.	3600	in	ns	dns1.cscdns.net.
 hmi.sew.	3600	in	ns	dns2.cscdns.net.
+holidays.sew.	3600	in	ns	dns1.cscdns.net.
+holidays.sew.	3600	in	ns	dns2.cscdns.net.
 initiativbewerbung.sew.	3600	in	ns	dns1.cscdns.net.
 initiativbewerbung.sew.	3600	in	ns	dns2.cscdns.net.
 it-karriere.sew.	3600	in	ns	dns1.cscdns.net.
@@ -38,7 +40,7 @@ nic.sew.	3600	in	ns	a0.nic.sew.
 nic.sew.	3600	in	ns	a2.nic.sew.
 nic.sew.	3600	in	ns	b0.nic.sew.
 nic.sew.	3600	in	ns	c0.nic.sew.
-nic.sew.	3600	in	rrsig	DS 8 2 3600 20251022151608 20251001141608 56478 sew. EpmNuehTM6AP9JCnmpplC7VHhG56JlnjOMq22NMj9EH3O8wH0lRBEhZ4SU7GQk5Z1zb7etQc3wP5XxC+1GU61JpMeW0vd3ImQxB7WC7kdm9I5On8xZ6g10e9Bsp8PSYnEEVypslDTx90fTqXQDzE6AEMqGtyOseq+A7+GSYLsD4=
+nic.sew.	3600	in	rrsig	DS 8 2 3600 20260122160040 20260101150040 36213 sew. WcheagY/dpvg2xBMGpuLc4ad5N3x3u8HsTIvmyQZqS583GzEljy2bF7i7ToAh3RKYlzgz9+Ly3DPni/FTc/qk78tP2cbNphwq/LswYUTFVpLnwHp0RMviz9E8V4qDjD0+5Y+7H6Sq5KJBYzJia6yWW9tz8geVdt1sAGRTxv5boM=
 patent.sew.	3600	in	ns	dns1.cscdns.net.
 patent.sew.	3600	in	ns	dns2.cscdns.net.
 patents.sew.	3600	in	ns	dns1.cscdns.net.
@@ -57,18 +59,18 @@ sew-ps.sew.	3600	in	ns	ns1.ascio.com.
 sew-ps.sew.	3600	in	ns	ns2.ascio.com.
 sew-ps.sew.	3600	in	ns	ns3.ascio.com.
 sew-ps.sew.	3600	in	ns	ns4.ascio.com.
-sew.	3600	in	dnskey	256 3 8 AwEAAcv7gqWUcCxr+SyuBilmmlzIna3x3RLQPwBzpTWmaSO7L2GgWGycliCPXhomGLlNAbKIzbz7guu9jP45g3WvtrC85AwYAitntf3J5tQtAcxxXysFfpf4QzYaLoIVfkZhxOJzVhCin0IsUbEiyIlfLfROMK+Mhi9mG96b6z9Qe5eX
-sew.	3600	in	dnskey	256 3 8 AwEAAehMpdcZR9n5C2JhoIfvqFfG0QZk3oNHysWFZ2vMyRb0beaX5hiYOLOh8zV5dvnsa9NC1VlyIf5nJnNKjM2kD1AL0bo79mxFXJGvUQ3SF6gLhBU/a3EONy5PipdoAZx3wAnQmQupHpVffVVQjhUdUczn+s/cL8mGGKmwYu9XNKc1
+sew.	3600	in	dnskey	256 3 8 AwEAAbVowhgzJcjv8NPEDlU5sCTFn8rj2kUZLZtqdcv3051UyNcqqk1Sm1NTeWpgl/J6Dr8pTLg8iDDYY62h6hwnStBLt7AuPFDQjdPcVERCVqJm+TMERwL74ahk9gbI5RIe7IOFeb0wVEfE4Q3IP0BWEmbUo9f7nbOzIj0BUAf4dPOL
+sew.	3600	in	dnskey	256 3 8 AwEAAbq3sqm4rtthquXilRM6uCBt4tfIfgAYGJMjS5iCmD5cZ8KCzxoipeMFLqCxotnUO1GjRpdjcN27u+LAOdqBnYm80wHwHVke0MzQSa5W85Ose+AWldh3f4jy0J+u5gMNVzvcJ4kJKqrffD7IoMQfa7aEQisztTm9ImPtfhgdCQIx
 sew.	3600	in	dnskey	257 3 8 AwEAAahhxwgGu7sNdqayXgt/lX/REhC26q2SD+zOamA1j4q4mW5DvQTtPhZNpFj6/lAbCOSh93nWftdBzrO5EVSxZJK8aE6diNxt23N+oKj+PiMCbLN9z3jSxIntpJoXpNtSXEwQSM+zMHMSJKFb5rNbSHw5J7Evve9ih30BfBlqPgEhfDcU4+c6SguRe+KsOCI3tpgYSA+f3q3KeyiPHNHDIGuv3fW1fGW0r1tJcgrpMdoOkhJMDmtAF7VeaOBds+itD/mQXCDf0xY3zbI+Ss94sFDcG/iuBcBEYl24WzDmgdRX1gcy15hQpIat9N2u4p+7YqzjknF3WKN+eO4O7XvaR7c=
 sew.	3600	in	ns	a0.nic.sew.
 sew.	3600	in	ns	a2.nic.sew.
 sew.	3600	in	ns	b0.nic.sew.
 sew.	3600	in	ns	c0.nic.sew.
 sew.	3600	in	nsec3param	1 0 0 73
-sew.	3600	in	rrsig	DNSKEY 8 1 3600 20251022151608 20251001141608 24562 sew. GsUSgb+rbzm4F/hn0lsZSlSq906iAt9lCl+nViUg90LC2Kia6YPEL5wkPb09APHKGI3I8Krl5FofGF9HcepjCxXNv23548TT3kgzg2m04Hea5kHNRQw7Kf7fgN8tV8dk3j1aqfm8T5TUHZ+Krj4tPRShCAp//De0F9ZrxkBWPUwQqFojduuNGFJ8UX4ivBW4G3pLMvQgttcDYV2lBVl2ci4peqOrOP47KeKYkUebmTrS8sBh5ulFKolsOqavozmLoQSzh81AIuEb6clYMq3160Z8KZYFCdJrypMStmHklkoFe7gPqghEeZfgEAMdSFfh+Iuqdx67V0KWmmG+3H2Mnw==
-sew.	3600	in	rrsig	NS 8 1 3600 20251022151608 20251001141608 56478 sew. DzvlgIIKHVXYwaME8Y7Rt+Pc5VAhnyiYB5yhM4+pNu3iylCuCOBoOc9Ign5Pc1aPIYGi1YKS02lKR0668ic0fBxjbNaDQi+VMS1zDMtk1BtJPq0v1QynVKxzzBZKVKh84Ilfn46PLDY0W6s8Eiu7BDCEpXV3Qa2l1qJAoadMDBc=
-sew.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20251022151608 20251001141608 56478 sew. BJGqqdim7jAEibbemnGaUQb1TF4wiASpN3pqhvTZDi2RbuFN0ILrIl8AlrCEqD2rK+yxo3qV0QRYbUP096eMfsYbLtqr7dBMJsZOIJhAWf0q6R2mSUOMvl6V7wG6sbACUxqPTuzKQ/hpO0yniiYcsxxsDxttjPYtK+JEmzHGu3E=
-sew.	3600	in	rrsig	SOA 8 1 3600 20251023012619 20251002002619 56478 sew. vDCBrW+aoC+mBAT2ShY/8OkLwMHFtKr9bIkVHzlajgjnrquODGSQcJ9r33EaAO9Vna5Euo8lsu1XufI/rHEgxzI+KEUQzlmQQdBniQYJRbeOlC5r9u5iMWgHWPb3r25+542S1XtXeMw3CNUO6RDLMQ0qRQhoWuiEbNr9w8mxZ58=
+sew.	3600	in	rrsig	DNSKEY 8 1 3600 20260122160040 20260101150040 24562 sew. nxIl3Iarbrw3iJ2HLnthXkNpJ1qgD6QWka9K8RttknrdpkeEgqQcHsQOetTEIRnpzyMpD5aUc6A+Hzb69WMDUG/INo8Fz6ZuLmV19jJA2iJtqPMTDSmR/oQSzVj+VP1/sZkrPskjfOORJ/4xPKYjrtK+WtiWM8JvMxrFQzXyDwIn7HDvmTph1pgc+l0iU7Ddf0UuL04hek3QllBUYj1Nu/1lDHKgEEKzu7UYhT295ggK5yVie17j2eY6EL1UfbQJusCluLH3ytkHNn9cPKJ1sZS95qN+58zhJa7ojRRwM/R0VoqEg/r2kM2mmAXdCSP9SWYwjvQnM3NT4mCg8QsdTw==
+sew.	3600	in	rrsig	NS 8 1 3600 20260122160040 20260101150040 36213 sew. mv/wmfp8AD6jR13WKy9D0bCDxTUaJcx3ev7gBKiB5W1ARGMcJ50fvhjwd6lT9enbnSFYFQeDIjeIxW62g88cKKgi3ibK20hCQBGS/cNjtxEQtbY62iknAez2bG+52uTa7HiTaDdf+Yb4sFSSn+hhZqwGAe/MnWKGbhwZA3mQdtM=
+sew.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260122160040 20260101150040 36213 sew. k7Q4oSCSskd9c3kM36lgyD3nNUxm5M4CT8nRks73UvQYEFvRlpPGkrxzaccYf+9iPv0eJq/A2CBDfWxkhWUkM2KM4KZGHfLE4nCYFQeALBmUKWl7l4H3EYTpyP1+0tii5PRhV5M+LUKBAqAQm9QbDSqzspzhp/lOT76S7YQLmWE=
+sew.	3600	in	rrsig	SOA 8 1 3600 20260127011540 20260106001540 36213 sew. Gan5TJ5V61fhBwyMHJTe7gXziPqQq/BS08qKJ+ggUwM8BgMK3YFUmfAf4EHEcvLQjYDoTblvwp6TBGgYKFN8phH3Ykb0s3AGvezGecGGCOl1qKicU98c20h09V0oat6uRSsTfkK/fe4EmyeYXR9hzqQjOXwW1fjSB970NVF63VQ=
 share.sew.	3600	in	ns	dns1.cscdns.net.
 share.sew.	3600	in	ns	dns2.cscdns.net.
 talentpool.sew.	3600	in	ns	dns1.cscdns.net.
@@ -76,9 +78,9 @@ talentpool.sew.	3600	in	ns	dns2.cscdns.net.
 team-psrm.sew.	3600	in	ns	dns1.cscdns.net.
 team-psrm.sew.	3600	in	ns	dns2.cscdns.net.
 tihusenk1581gbcmgmmi3d6bol86hhka.sew.	3600	in	nsec3	1 1 0 73 3F76R9JFV3UBASO1CMIDKT94OQ2JBP3F NS SOA RRSIG DNSKEY NSEC3PARAM
-tihusenk1581gbcmgmmi3d6bol86hhka.sew.	3600	in	rrsig	NSEC3 8 2 3600 20251023012619 20251002002619 56478 sew. zF78b5ST1AfogFwZhNJVwQad7iWCnOOKJVlEE36nBkzic5Gy3c6xtflEzLmAu8v7kgD6In7nQ4FSSK93Bj5dy3+/a63+sOxj7Xjdtqd6JnHVRzHLuJD8ar2XaLm2f6QMpM23R3f6gs+VBUsCyjOGY0uUYwrjAzc2pZ1kdMIereQ=
+tihusenk1581gbcmgmmi3d6bol86hhka.sew.	3600	in	rrsig	NSEC3 8 2 3600 20260127011540 20260106001540 36213 sew. ejU5q4ncDE3XUcGUbjK8FW8Z35wAyUCu4/kjYhQRHioEt09CTwiqbYGxx0wcBMkh+3S9HBEo/C5mTDjvlPi0AElDf6enTL6ZuUtXNnFuZbme9Ge6Id23nD6pdnjv3bXTYNWPBQiR0c6gep/6zMdHImK0d0uouZ7QTy9lTQDxP/o=
 trademark.sew.	3600	in	ns	dns1.cscdns.net.
 trademark.sew.	3600	in	ns	dns2.cscdns.net.
 trademarks.sew.	3600	in	ns	dns1.cscdns.net.
 trademarks.sew.	3600	in	ns	dns2.cscdns.net.
-sew.	3600	in	soa	a0.nic.sew. hostmaster.donuts.email. 1759368065 7200 900 1209600 3600
+sew.	3600	in	soa	a0.nic.sew. hostmaster.donuts.email. 1767661847 7200 900 1209600 3600
