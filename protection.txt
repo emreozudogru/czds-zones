@@ -1,4 +1,4 @@
-protection.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 237391 900 1800 6048000 3600
+protection.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 241476 900 1800 6048000 3600
 a.nic.protection.	3600	in	a	194.169.218.67
 a.nic.protection.	3600	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0067
 adsense.protection.	3600	in	ns	ns1.google.com.
@@ -96,13 +96,8 @@ chrome.protection.	3600	in	ns	ns1.google.com.
 chrome.protection.	3600	in	ns	ns2.google.com.
 chrome.protection.	3600	in	ns	ns3.google.com.
 chrome.protection.	3600	in	ns	ns4.google.com.
-climate.protection.	3600	in	ns	ns1.routing.net.
-climate.protection.	3600	in	ns	ns2.routing.net.
-climate.protection.	3600	in	ns	ns3.routing.net.
 cloaked.protection.	3600	in	ns	dns1.registrar-servers.com.
 cloaked.protection.	3600	in	ns	dns2.registrar-servers.com.
-coinbase.protection.	3600	in	ns	elisabeth.ns.cloudflare.com.
-coinbase.protection.	3600	in	ns	scott.ns.cloudflare.com.
 cork.protection.	3600	in	ns	dns1.registrar-servers.com.
 cork.protection.	3600	in	ns	dns2.registrar-servers.com.
 d.nic.protection.	172800	in	a	108.59.161.10
@@ -206,9 +201,8 @@ java.protection.	3600	in	ns	ns4.markmonitor.com.
 java.protection.	3600	in	ns	ns5.markmonitor.com.
 java.protection.	3600	in	ns	ns6.markmonitor.com.
 java.protection.	3600	in	ns	ns7.markmonitor.com.
-kpmg.protection.	3600	in	ns	ns10.go.kpmg.com.
-kpmg.protection.	3600	in	ns	ns20.go.kpmg.com.
-kpmg.protection.	3600	in	ns	ns30.go.kpmg.com.
+kpmg.protection.	3600	in	ns	c1-141.akashield.net.
+kpmg.protection.	3600	in	ns	c2-141.akashield.net.
 lenzing.protection.	3600	in	ns	ns1.markmonitor.com.
 lenzing.protection.	3600	in	ns	ns2.markmonitor.com.
 lenzing.protection.	3600	in	ns	ns3.markmonitor.com.
@@ -282,15 +276,19 @@ protection.	172800	in	ns	a.nic.protection.
 protection.	172800	in	ns	b.nic.protection.
 protection.	172800	in	ns	e.nic.protection.
 protection.	172800	in	ns	f.nic.protection.
-protection.	172800	in	rrsig	NS 8 1 172800 20251031151029 20251001134029 25099 protection. dmR/CCu3wIcTDROMi6jmwftMDujFQTxuS8V6OBW45L1+bRWhcUnxpS/DJ4jrEIe4Ec1/pWUb50Ef6MYjVJAtVTv2DFpBNSTg2O8iNaVQo7wb3hjYoUklEOaRBoxymW8kd8uMQ7HgGXzuHQvc88I8vWTGzFiMKCsFSxEpebBr7es=
+protection.	172800	in	rrsig	NS 8 1 172800 20260120095302 20251221082302 25099 protection. 5eAj1P2qe2i+iBrzkEPbgreXailhKguLVjwdXFg8i3vjzISWoxSdfCoY1+yDtGJy99NxS2yiPS+k1t39m3+1QMNo/wY7apz+uphLjK3ikTtAUpwvvOi4mMlkBeyU3EPZLd4zi5WI26OdV/tShjxmCuBZekj7f18fjQYT6p+uYfc=
 protection.	3600	in	dnskey	256 3 8 AwEAAemeRvQ8K8+/6Xp/+Jk5/TonSd3aaHuMVOht/8d7dD7iIlSu6FVy7aS69rX9qhr3U5YH9dhQYhytJAIENfUKal7jDMnbrUtqTQfCSjzC+0B0mf5lQbLJA7VMaLPtAmbmqvQnkl5YXiH6J/sjsHyMO+h18NAE3XIf9reeNz3cSg45
 protection.	3600	in	dnskey	257 3 8 AwEAAeFMv+RlN0umhkTs4LomN3orr1A4beUabbfuSCTXrL9Wm5EtLkZqsRGb3SzAEXuJdudvGx4OhwTnE3Z0qqEfHfCmDo1/68hqx6xv3O8g4n58cM59ksjoqwCjTO0dKtNrjE4q5sfQudMyLIHwa4XQgkUTtw7i32CPfPOlZeKpHZ7l8ZEKftVrn1NAzO+CByMJjsK6SRtuwV92xUGLDETT4ByCIITnwdhhI3M9iAgrq6JMiWlzVuGXwiJipikKeoAGmZRm6Xz/kV+KBDTbUDhR0vki/Cib6gsAa1hwE1Hz/VB0JWbUbxIiyhtku8mEZjvW9E8Lo3MLUIivef8XOd342XM=
-protection.	3600	in	rrsig	DNSKEY 8 1 3600 20251031151029 20251001134029 42842 protection. 1hZxTXoVWnV4hPZFigisAZGQXsICNIyazZPKSYjPq1sZklrDUj15VP1QXCvCL9VN7YOfruVgMCxsVZilZcf0rl6MNhbvPP8B+yrrW3hl9wLERiDkFcXXAxhZMZGHleSZbmBWzEUIdbr3VKMSPKnJf9d1w9ZHTJ0H1ELXKm0WgcqUfo+ELh45EMx83ElqcR5uwgg6uoeCENmhUd9fttxvw1D4Rg/phEv6TNufQLMm6UHyIzSmWhL9u27oaN5F2vq78YzF1K+kcLNGV1f35IuggWE5pvmGhqz1/mFKAokKsDsH+C2zH9LGGUTKFverS+zKGYimJaFmeDB//iR3embOzA==
+protection.	3600	in	rrsig	DNSKEY 8 1 3600 20260120095302 20251221082302 42842 protection. r4Bg6JueV2zhctwqxUClqcsMnHn2LEDvBL3mJhmcUi8JJYl2BMKbSN6x3F/nEuLweXp3iwNcKaO//bXpXVXMhIqsJ1/Ncp8kUmuRBRjXkWoRk6sWD0lxI7m8YhmN5sseYhR571GZ2WJP2uEbWerj0jz8e2BF6dYl7ao/h6TetrhlaizdyHFg0Po+1unjsdEy510EmThlDV8XR69HHX8reM4/HZyJcB2VptZfX/Xry+0yQ/SYqRR1AiFTWXNvqyUQbVkrFc/HKeq2v+GLDKIwmntdE6J36UnhNeVDPR6DD9JFNCsNQW/kqmyM5tk3ZjLXD4EjV6U8vscnmlZ3/4o7Bw==
 protection.	900	in	nsec3param	1 0 0 -
-protection.	900	in	rrsig	NSEC3PARAM 8 1 900 20251031151029 20251001134029 25099 protection. vN6Dh3IKs0MSZWm/Tp7unaE/yFggwMGa0MF3ev2aLPw3ItsiITdV6D7pCfgLUAc6dRrQNisxuR2v6vFXIPOWPeR33goS0a42/mVlcJLjH01riypnPbbDNWUYn7MuP8zYWHZc/Ki/t5hdZiuuK+cSaE1OVwI6RqsNXW7h08nBrDg=
-protection.	900	in	rrsig	SOA 8 1 900 20251101011412 20251001234412 25099 protection. k/EjnSBPcvxh5PFG04GUvmiwvQDe28dfeBPlTWdeZhitgGs9f2vuAsCGBKUrWXkLb7JeImjkgSEQ5edLjYdtUZoj1uyFaE6ei1TuI+AWfOkz8tgAeN+RgHP91NJ+5tpWbWcXehSjuPsBw+K10Qpq3fsDg8aqEXtBH480g/CQnwA=
+protection.	900	in	rrsig	NSEC3PARAM 8 1 900 20260120095302 20251221082302 25099 protection. hriIhaZ0VKizMgQCtPzpyPzeVA0f2ncKZdj8rnjhRKbkD7fGw3dHbka06r9qtDuJSzCnHXPtSX7tx8TK5M1Jpe9Cg0qRo3Ygz0Pm+54DrSPliIxdNavYU2l91sGr5QyB3qZKlPFlxiCYusZwoKc0bXq6xcYGMXZuOQsONOZBLvM=
+protection.	900	in	rrsig	SOA 8 1 900 20260205011530 20260105234530 25099 protection. hChco5xSYoCnaLsfkbJ8aJG+82FiwEkxXGAY7b9Qcz4JyY1E83HZKWuWWKDofsUvKleO/EdFwwH295nccBiIXg5Nfm1MYzHleEKY1fmW8Rj5iSvOtZUebRu/N8Al/Y1PgdQt+J+MwhLKyoN4g4RsJdQg/RZkUPQ7hiD/1Y+vPSQ=
 qkg06ki7r68tiafl50vim4u55dn8s59c.protection.	900	in	nsec3	1 1 0 - QKG06KI7R68TIAFL50VIM4U55DN8S59C NS SOA RRSIG DNSKEY NSEC3PARAM
-qkg06ki7r68tiafl50vim4u55dn8s59c.protection.	900	in	rrsig	NSEC3 8 2 900 20251031151029 20251001134029 25099 protection. ocAti+e0CBi6OvwzNSW5/+HMBGUUcE4JEjBy1pGzrB9LIVyKfTqoZB2nEWS3XQZP+1aw5G8oZJaDI+Ahs3UrXf9bzwD4z0Sx7xCPbHky9lFd0cIlwFoKMvMVxxHloafZleI2Ui9QbrZzLYJNf90JSnfcJ7Gf87FQR23IZgKwT6U=
+qkg06ki7r68tiafl50vim4u55dn8s59c.protection.	900	in	rrsig	NSEC3 8 2 900 20260120095302 20251221082302 25099 protection. pvca+Nd+rlViN36UCpOtaHxnBT0+s+CJ2xQKlsxPyVE4/RkXey3t/h0Oqg4hSwjwGqPWwSueuaxsKvasT/OLTz3Vf8SjgkflvTgk43gOuedPtcZ4btpqAcHOjk1hzaGnAZ7oTkYG2PTqAk9OwWUIX08XwOTLVP8KPDIfe+pXSAk=
+rb24.protection.	3600	in	ns	ns1.ezydomain.com.
+rb24.protection.	3600	in	ns	ns2.ezydomain.com.
+refah-bank.protection.	3600	in	ns	ns1.ezydomain.com.
+refah-bank.protection.	3600	in	ns	ns2.ezydomain.com.
 rentalcars.protection.	3600	in	ns	ns1.markmonitor.com.
 rentalcars.protection.	3600	in	ns	ns2.markmonitor.com.
 rentalcars.protection.	3600	in	ns	ns3.markmonitor.com.
@@ -382,4 +380,4 @@ zellepay.protection.	3600	in	ns	dns1.cscdns.net.
 zellepay.protection.	3600	in	ns	dns2.cscdns.net.
 zelletransfer.protection.	3600	in	ns	dns1.cscdns.net.
 zelletransfer.protection.	3600	in	ns	dns2.cscdns.net.
-protection.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 237391 900 1800 6048000 3600
+protection.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 241476 900 1800 6048000 3600
