@@ -1,8 +1,8 @@
-schwarz.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 152613 900 1800 6048000 3600
+schwarz.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 156699 900 1800 6048000 3600
 35m07bjkb8br155ilbmohripbi4c0r0r.schwarz.	900	in	nsec3	1 1 0 - 95OV1OEJHPR580N4HFQFI8AC6TOP8253 NS DS RRSIG
-35m07bjkb8br155ilbmohripbi4c0r0r.schwarz.	900	in	rrsig	NSEC3 13 2 900 20251031152011 20251001135011 17819 schwarz. 8tfDW6DYdzCiyVr+KvuemrXhqVwxFuqw+/X85pY/5TeC9YB8m937fyr0LDrLOg6kna9WJyTen1Hak8Meu6ycvA==
+35m07bjkb8br155ilbmohripbi4c0r0r.schwarz.	900	in	rrsig	NSEC3 13 2 900 20260120102007 20251221085007 17819 schwarz. 3U1Bh2o5T2GtmN+XoClV5x4C26UDSDri2NJNRRxdDllIMsVy1ayi4QUokg5ZBd4Sn4qDCZ1oEBTM82NbIRk7wA==
 95ov1oejhpr580n4hfqfi8ac6top8253.schwarz.	900	in	nsec3	1 1 0 - JAM88DUQK4T8PGG70CUBTV4CFQBEPHK4 NS DS RRSIG
-95ov1oejhpr580n4hfqfi8ac6top8253.schwarz.	900	in	rrsig	NSEC3 13 2 900 20251031152011 20251001135011 17819 schwarz. iiADrtf86+jDBNF8tYY7TGB1wZBeXzHP9PXytH2BkXgYXJoVuoDhcBkzVrKaZZxZMuXBM6MDZrNHdGrC4bJaNg==
+95ov1oejhpr580n4hfqfi8ac6top8253.schwarz.	900	in	rrsig	NSEC3 13 2 900 20260120114207 20251221101207 17819 schwarz. 1jWBvyMA3R2mtCPz7iw25jYf9girDqYrEn3HNBh3NCqu9blO4OuWpWJAuMPI67DurBXSDnsknr0OONLlWTcU7A==
 a.nic.schwarz.	3600	in	a	194.169.218.99
 a.nic.schwarz.	3600	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0099
 acting-ahead.schwarz.	3600	in	ns	ns.do-ex.com.
@@ -157,6 +157,9 @@ auth-test.schwarz.	3600	in	ns	ns.do-ex.org.
 auth.schwarz.	3600	in	ns	ns.do-ex.com.
 auth.schwarz.	3600	in	ns	ns.do-ex.net.
 auth.schwarz.	3600	in	ns	ns.do-ex.org.
+automate-docs.schwarz.	3600	in	ns	ns.do-ex.com.
+automate-docs.schwarz.	3600	in	ns	ns.do-ex.net.
+automate-docs.schwarz.	3600	in	ns	ns.do-ex.org.
 automate-e.schwarz.	3600	in	ns	ns.do-ex.com.
 automate-e.schwarz.	3600	in	ns	ns.do-ex.net.
 automate-e.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -242,6 +245,9 @@ cake.schwarz.	3600	in	ns	ns1-09.azure-dns.com.
 cake.schwarz.	3600	in	ns	ns2-09.azure-dns.net.
 cake.schwarz.	3600	in	ns	ns3-09.azure-dns.org.
 cake.schwarz.	3600	in	ns	ns4-09.azure-dns.info.
+campus.schwarz.	3600	in	ns	ns.do-ex.com.
+campus.schwarz.	3600	in	ns	ns.do-ex.net.
+campus.schwarz.	3600	in	ns	ns.do-ex.org.
 campusstore.schwarz.	3600	in	ns	ns.do-ex.com.
 campusstore.schwarz.	3600	in	ns	ns.do-ex.net.
 campusstore.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -299,6 +305,9 @@ change-people.schwarz.	3600	in	ns	ns.do-ex.org.
 charge.schwarz.	3600	in	ns	ns.do-ex.com.
 charge.schwarz.	3600	in	ns	ns.do-ex.net.
 charge.schwarz.	3600	in	ns	ns.do-ex.org.
+chat-spaces.schwarz.	3600	in	ns	ns.do-ex.com.
+chat-spaces.schwarz.	3600	in	ns	ns.do-ex.net.
+chat-spaces.schwarz.	3600	in	ns	ns.do-ex.org.
 check-ups.schwarz.	3600	in	ns	ns.do-ex.com.
 check-ups.schwarz.	3600	in	ns	ns.do-ex.net.
 check-ups.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -311,6 +320,9 @@ checkly.schwarz.	3600	in	ns	ns.do-ex.org.
 client.schwarz.	3600	in	ns	ns.do-ex.com.
 client.schwarz.	3600	in	ns	ns.do-ex.net.
 client.schwarz.	3600	in	ns	ns.do-ex.org.
+cloud-academy.schwarz.	3600	in	ns	ns.do-ex.com.
+cloud-academy.schwarz.	3600	in	ns	ns.do-ex.net.
+cloud-academy.schwarz.	3600	in	ns	ns.do-ex.org.
 cloud.schwarz.	3600	in	ns	ns.do-ex.com.
 cloud.schwarz.	3600	in	ns	ns.do-ex.net.
 cloud.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -347,9 +359,8 @@ community-dev.schwarz.	3600	in	ns	ns.do-ex.org.
 community.schwarz.	3600	in	ns	ns.do-ex.com.
 community.schwarz.	3600	in	ns	ns.do-ex.net.
 community.schwarz.	3600	in	ns	ns.do-ex.org.
-compass.schwarz.	3600	in	ns	ns.do-ex.com.
-compass.schwarz.	3600	in	ns	ns.do-ex.net.
-compass.schwarz.	3600	in	ns	ns.do-ex.org.
+compass.schwarz.	3600	in	ns	ns1.stackit.cloud.
+compass.schwarz.	3600	in	ns	ns2.stackit.zone.
 conference-d.schwarz.	3600	in	ns	ns.do-ex.com.
 conference-d.schwarz.	3600	in	ns	ns.do-ex.net.
 conference-d.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -359,6 +370,9 @@ conference-q.schwarz.	3600	in	ns	ns.do-ex.org.
 conference.schwarz.	3600	in	ns	ns.do-ex.com.
 conference.schwarz.	3600	in	ns	ns.do-ex.net.
 conference.schwarz.	3600	in	ns	ns.do-ex.org.
+config-manager.schwarz.	3600	in	ns	ns.do-ex.com.
+config-manager.schwarz.	3600	in	ns	ns.do-ex.net.
+config-manager.schwarz.	3600	in	ns	ns.do-ex.org.
 confluence-qs-ext.schwarz.	3600	in	ns	ns.do-ex.com.
 confluence-qs-ext.schwarz.	3600	in	ns	ns.do-ex.net.
 confluence-qs-ext.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -392,6 +406,9 @@ correlation-engine.schwarz.	3600	in	ns	ns.do-ex.org.
 cosmic.schwarz.	3600	in	ns	ns.do-ex.com.
 cosmic.schwarz.	3600	in	ns	ns.do-ex.net.
 cosmic.schwarz.	3600	in	ns	ns.do-ex.org.
+country-ssbi.schwarz.	3600	in	ns	ns.do-ex.com.
+country-ssbi.schwarz.	3600	in	ns	ns.do-ex.net.
+country-ssbi.schwarz.	3600	in	ns	ns.do-ex.org.
 cr.schwarz.	3600	in	ns	ns.do-ex.com.
 cr.schwarz.	3600	in	ns	ns.do-ex.net.
 cr.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -435,10 +452,6 @@ d365-licenses.schwarz.	3600	in	ns	ns.do-ex.org.
 daas.schwarz.	3600	in	ns	ns.do-ex.com.
 daas.schwarz.	3600	in	ns	ns.do-ex.net.
 daas.schwarz.	3600	in	ns	ns.do-ex.org.
-dac.schwarz.	3600	in	ns	ns1.eurodns.com.
-dac.schwarz.	3600	in	ns	ns2.eurodns.com.
-dac.schwarz.	3600	in	ns	ns3.eurodns.com.
-dac.schwarz.	3600	in	ns	ns4.eurodns.com.
 data.schwarz.	3600	in	ns	ns.do-ex.com.
 data.schwarz.	3600	in	ns	ns.do-ex.net.
 data.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -493,6 +506,9 @@ digitalevisitenkarte.schwarz.	3600	in	ns	ns.do-ex.org.
 digits-content.schwarz.	3600	in	ns	ns.do-ex.com.
 digits-content.schwarz.	3600	in	ns	ns.do-ex.net.
 digits-content.schwarz.	3600	in	ns	ns.do-ex.org.
+digits-escalation-management.schwarz.	3600	in	ns	ns.do-ex.com.
+digits-escalation-management.schwarz.	3600	in	ns	ns.do-ex.net.
+digits-escalation-management.schwarz.	3600	in	ns	ns.do-ex.org.
 digits.schwarz.	3600	in	ns	ns.do-ex.com.
 digits.schwarz.	3600	in	ns	ns.do-ex.net.
 digits.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -585,6 +601,18 @@ eps.schwarz.	3600	in	ns	ns.do-ex.net.
 eps.schwarz.	3600	in	ns	ns.do-ex.org.
 esb4you.schwarz.	3600	in	ns	ns1.stackit.cloud.
 esb4you.schwarz.	3600	in	ns	ns2.stackit.cloud.
+escalation-management-digits.schwarz.	3600	in	ns	ns.do-ex.com.
+escalation-management-digits.schwarz.	3600	in	ns	ns.do-ex.net.
+escalation-management-digits.schwarz.	3600	in	ns	ns.do-ex.org.
+escalation-management.schwarz.	3600	in	ns	ns.do-ex.com.
+escalation-management.schwarz.	3600	in	ns	ns.do-ex.net.
+escalation-management.schwarz.	3600	in	ns	ns.do-ex.org.
+escalationmanagement-digits.schwarz.	3600	in	ns	ns.do-ex.com.
+escalationmanagement-digits.schwarz.	3600	in	ns	ns.do-ex.net.
+escalationmanagement-digits.schwarz.	3600	in	ns	ns.do-ex.org.
+escalationmanagement.schwarz.	3600	in	ns	ns.do-ex.com.
+escalationmanagement.schwarz.	3600	in	ns	ns.do-ex.net.
+escalationmanagement.schwarz.	3600	in	ns	ns.do-ex.org.
 eska-backend.schwarz.	3600	in	ns	ns.do-ex.com.
 eska-backend.schwarz.	3600	in	ns	ns.do-ex.net.
 eska-backend.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -597,6 +625,9 @@ eu-mx.schwarz.	3600	in	ns	ns.do-ex.org.
 euos.schwarz.	3600	in	ns	ns.do-ex.com.
 euos.schwarz.	3600	in	ns	ns.do-ex.net.
 euos.schwarz.	3600	in	ns	ns.do-ex.org.
+eve.schwarz.	3600	in	ns	ns.do-ex.com.
+eve.schwarz.	3600	in	ns	ns.do-ex.net.
+eve.schwarz.	3600	in	ns	ns.do-ex.org.
 events.schwarz.	3600	in	ns	ns.do-ex.com.
 events.schwarz.	3600	in	ns	ns.do-ex.net.
 events.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -647,6 +678,8 @@ futurecon.schwarz.	3600	in	ns	ns.do-ex.net.
 futurecon.schwarz.	3600	in	ns	ns.do-ex.org.
 fwws.schwarz.	3600	in	ns	ns1.stackit.cloud.
 fwws.schwarz.	3600	in	ns	ns2.stackit.zone.
+fwwsnext.schwarz.	3600	in	ns	ns1.stackit.cloud.
+fwwsnext.schwarz.	3600	in	ns	ns2.stackit.zone.
 gastroportal.schwarz.	3600	in	ns	ns.do-ex.com.
 gastroportal.schwarz.	3600	in	ns	ns.do-ex.net.
 gastroportal.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -707,6 +740,9 @@ golang.schwarz.	3600	in	ns	ns.do-ex.org.
 gom.schwarz.	3600	in	ns	ns.do-ex.com.
 gom.schwarz.	3600	in	ns	ns.do-ex.net.
 gom.schwarz.	3600	in	ns	ns.do-ex.org.
+google-chat-spaces.schwarz.	3600	in	ns	ns.do-ex.com.
+google-chat-spaces.schwarz.	3600	in	ns	ns.do-ex.net.
+google-chat-spaces.schwarz.	3600	in	ns	ns.do-ex.org.
 google.schwarz.	3600	in	ns	ns.do-ex.com.
 google.schwarz.	3600	in	ns	ns.do-ex.net.
 google.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -752,9 +788,8 @@ gwt-qs-wawi.schwarz.	3600	in	ns	ns.do-ex.org.
 hackathon.schwarz.	3600	in	ns	ns.do-ex.com.
 hackathon.schwarz.	3600	in	ns	ns.do-ex.net.
 hackathon.schwarz.	3600	in	ns	ns.do-ex.org.
-hdps-sbx.schwarz.	3600	in	ns	ns.do-ex.com.
-hdps-sbx.schwarz.	3600	in	ns	ns.do-ex.net.
-hdps-sbx.schwarz.	3600	in	ns	ns.do-ex.org.
+hdps-sbx.schwarz.	3600	in	ns	ns1.stackit.cloud.
+hdps-sbx.schwarz.	3600	in	ns	ns2.stackit.zone.
 hds.schwarz.	3600	in	ns	a.myradns.net.
 hds.schwarz.	3600	in	ns	b.myradns.net.
 hds.schwarz.	3600	in	ns	c.myradns.net.
@@ -821,6 +856,9 @@ indigits.schwarz.	3600	in	ns	ns.do-ex.org.
 info.schwarz.	3600	in	ns	ns.do-ex.com.
 info.schwarz.	3600	in	ns	ns.do-ex.net.
 info.schwarz.	3600	in	ns	ns.do-ex.org.
+infra-navigator.schwarz.	3600	in	ns	ns.do-ex.com.
+infra-navigator.schwarz.	3600	in	ns	ns.do-ex.net.
+infra-navigator.schwarz.	3600	in	ns	ns.do-ex.org.
 infradoc.schwarz.	3600	in	ns	ns.do-ex.com.
 infradoc.schwarz.	3600	in	ns	ns.do-ex.net.
 infradoc.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -907,8 +945,11 @@ iteos.schwarz.	3600	in	ns	ns7-66.akam.net.
 itreporting.schwarz.	3600	in	ns	ns.do-ex.com.
 itreporting.schwarz.	3600	in	ns	ns.do-ex.net.
 itreporting.schwarz.	3600	in	ns	ns.do-ex.org.
+iva-csa.schwarz.	3600	in	ns	ns.do-ex.com.
+iva-csa.schwarz.	3600	in	ns	ns.do-ex.net.
+iva-csa.schwarz.	3600	in	ns	ns.do-ex.org.
 jam88duqk4t8pgg70cubtv4cfqbephk4.schwarz.	900	in	nsec3	1 1 0 - 35M07BJKB8BR155ILBMOHRIPBI4C0R0R NS SOA RRSIG DNSKEY NSEC3PARAM
-jam88duqk4t8pgg70cubtv4cfqbephk4.schwarz.	900	in	rrsig	NSEC3 13 2 900 20251031152011 20251001135011 17819 schwarz. zsvdE2ioWCZWxZU6voEerSn9LFcgtinHeRvNwr1D2n+8QzLCVSuWSQnP6gpHy3iCl9TL0aaGybdi8AvInRoKdQ==
+jam88duqk4t8pgg70cubtv4cfqbephk4.schwarz.	900	in	rrsig	NSEC3 13 2 900 20260120102007 20251221085007 17819 schwarz. ildCqF3szv3FTwmAFjHSJFhOVRi9P3n9iLo65znHdsSRo6JfRWDmboJAXV+sNyEtRxrh+nU2MpRP3pp88LrhPQ==
 jenkins-qs.schwarz.	3600	in	ns	ns.do-ex.com.
 jenkins-qs.schwarz.	3600	in	ns	ns.do-ex.net.
 jenkins-qs.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -927,6 +968,9 @@ jobs-karriere.schwarz.	3600	in	ns	ns.do-ex.org.
 jobs.schwarz.	3600	in	ns	ns.do-ex.com.
 jobs.schwarz.	3600	in	ns	ns.do-ex.net.
 jobs.schwarz.	3600	in	ns	ns.do-ex.org.
+jump.schwarz.	3600	in	ns	ns.do-ex.com.
+jump.schwarz.	3600	in	ns	ns.do-ex.net.
+jump.schwarz.	3600	in	ns	ns.do-ex.org.
 k-ads.schwarz.	3600	in	ns	ns.do-ex.com.
 k-ads.schwarz.	3600	in	ns	ns.do-ex.net.
 k-ads.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -945,6 +989,9 @@ keeper-automator.schwarz.	3600	in	ns	ns.do-ex.org.
 keg.schwarz.	3600	in	ns	a.myradns.net.
 keg.schwarz.	3600	in	ns	b.myradns.net.
 keg.schwarz.	3600	in	ns	c.myradns.net.
+keycloak.schwarz.	3600	in	ns	ns.do-ex.com.
+keycloak.schwarz.	3600	in	ns	ns.do-ex.net.
+keycloak.schwarz.	3600	in	ns	ns.do-ex.org.
 kinnect.schwarz.	3600	in	ns	ns.do-ex.com.
 kinnect.schwarz.	3600	in	ns	ns.do-ex.net.
 kinnect.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1036,6 +1083,18 @@ mail.schwarz.	3600	in	ns	ns4.eurodns.com.
 mailq.schwarz.	3600	in	ns	ns.do-ex.com.
 mailq.schwarz.	3600	in	ns	ns.do-ex.net.
 mailq.schwarz.	3600	in	ns	ns.do-ex.org.
+major-incident.schwarz.	3600	in	ns	ns.do-ex.com.
+major-incident.schwarz.	3600	in	ns	ns.do-ex.net.
+major-incident.schwarz.	3600	in	ns	ns.do-ex.org.
+major-incidents.schwarz.	3600	in	ns	ns.do-ex.com.
+major-incidents.schwarz.	3600	in	ns	ns.do-ex.net.
+major-incidents.schwarz.	3600	in	ns	ns.do-ex.org.
+major-reporting.schwarz.	3600	in	ns	ns.do-ex.com.
+major-reporting.schwarz.	3600	in	ns	ns.do-ex.net.
+major-reporting.schwarz.	3600	in	ns	ns.do-ex.org.
+majorincident.schwarz.	3600	in	ns	ns.do-ex.com.
+majorincident.schwarz.	3600	in	ns	ns.do-ex.net.
+majorincident.schwarz.	3600	in	ns	ns.do-ex.org.
 makeitwork.schwarz.	3600	in	ns	ns.do-ex.com.
 makeitwork.schwarz.	3600	in	ns	ns.do-ex.net.
 makeitwork.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1080,6 +1139,9 @@ mft.schwarz.	3600	in	ns	ns.do-ex.org.
 mh.schwarz.	3600	in	ns	ns.do-ex.com.
 mh.schwarz.	3600	in	ns	ns.do-ex.net.
 mh.schwarz.	3600	in	ns	ns.do-ex.org.
+mi-reporting.schwarz.	3600	in	ns	ns.do-ex.com.
+mi-reporting.schwarz.	3600	in	ns	ns.do-ex.net.
+mi-reporting.schwarz.	3600	in	ns	ns.do-ex.org.
 mis-lidl-upgrade.schwarz.	3600	in	ns	ns.do-ex.com.
 mis-lidl-upgrade.schwarz.	3600	in	ns	ns.do-ex.net.
 mis-lidl-upgrade.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1182,7 +1244,7 @@ nic.schwarz.	3600	in	ns	a.nic.schwarz.
 nic.schwarz.	3600	in	ns	b.nic.schwarz.
 nic.schwarz.	3600	in	ns	c.nic.schwarz.
 nic.schwarz.	3600	in	ns	d.nic.schwarz.
-nic.schwarz.	3600	in	rrsig	DS 13 2 3600 20251031152011 20251001135011 17819 schwarz. m4jctt0uwqBs6v95xTLrDd7eDf1sTxtaPHpgkppsnEVGkJGuR4bMBK+Q0otl6UMIbfkoSxnjKEzHcRy3x2iUTg==
+nic.schwarz.	3600	in	rrsig	DS 13 2 3600 20260120114207 20251221101207 17819 schwarz. Os4+AtMDlK2FFPotSP1kRiXMKRXEZ0rXzSlt13jhc3PwMnXCEJODSvY54DjC5qLsylqlrCWB9tNEXDqsZv0rHw==
 nonprod-s4hmon-external.schwarz.	3600	in	ns	ns.do-ex.com.
 nonprod-s4hmon-external.schwarz.	3600	in	ns	ns.do-ex.net.
 nonprod-s4hmon-external.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1203,6 +1265,9 @@ objektinfo-test.schwarz.	3600	in	ns	ns.do-ex.org.
 objektinfo.schwarz.	3600	in	ns	ns.do-ex.com.
 objektinfo.schwarz.	3600	in	ns	ns.do-ex.net.
 objektinfo.schwarz.	3600	in	ns	ns.do-ex.org.
+ocs.schwarz.	3600	in	ns	ns.do-ex.com.
+ocs.schwarz.	3600	in	ns	ns.do-ex.net.
+ocs.schwarz.	3600	in	ns	ns.do-ex.org.
 odj.schwarz.	3600	in	ns	ns.do-ex.com.
 odj.schwarz.	3600	in	ns	ns.do-ex.net.
 odj.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1240,6 +1305,12 @@ onyx.schwarz.	3600	in	ns	ns.do-ex.net.
 onyx.schwarz.	3600	in	ns	ns.do-ex.org.
 opensource.schwarz.	3600	in	ns	ns1.stackit.cloud.
 opensource.schwarz.	3600	in	ns	ns2.stackit.zone.
+oso-kfl.schwarz.	3600	in	ns	ns.do-ex.com.
+oso-kfl.schwarz.	3600	in	ns	ns.do-ex.net.
+oso-kfl.schwarz.	3600	in	ns	ns.do-ex.org.
+oso-ldl.schwarz.	3600	in	ns	ns.do-ex.com.
+oso-ldl.schwarz.	3600	in	ns	ns.do-ex.net.
+oso-ldl.schwarz.	3600	in	ns	ns.do-ex.org.
 oso.schwarz.	3600	in	ns	ns.do-ex.com.
 oso.schwarz.	3600	in	ns	ns.do-ex.net.
 oso.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1359,6 +1430,9 @@ principles.schwarz.	3600	in	ns	ns2.stackit.zone.
 printercreation.schwarz.	3600	in	ns	ns.do-ex.com.
 printercreation.schwarz.	3600	in	ns	ns.do-ex.net.
 printercreation.schwarz.	3600	in	ns	ns.do-ex.org.
+prism.schwarz.	3600	in	ns	ns.do-ex.com.
+prism.schwarz.	3600	in	ns	ns.do-ex.net.
+prism.schwarz.	3600	in	ns	ns.do-ex.org.
 procurement.schwarz.	3600	in	ns	ns.do-ex.com.
 procurement.schwarz.	3600	in	ns	ns.do-ex.net.
 procurement.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1431,6 +1505,9 @@ rag.schwarz.	3600	in	ns	ns.do-ex.org.
 raise.schwarz.	3600	in	ns	ns.do-ex.com.
 raise.schwarz.	3600	in	ns	ns.do-ex.net.
 raise.schwarz.	3600	in	ns	ns.do-ex.org.
+raumgenie.schwarz.	3600	in	ns	ns.do-ex.com.
+raumgenie.schwarz.	3600	in	ns	ns.do-ex.net.
+raumgenie.schwarz.	3600	in	ns	ns.do-ex.org.
 raumreservierung-bildungscampus-q.schwarz.	3600	in	ns	ns.do-ex.com.
 raumreservierung-bildungscampus-q.schwarz.	3600	in	ns	ns.do-ex.net.
 raumreservierung-bildungscampus-q.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1483,6 +1560,9 @@ reporting-incidents.schwarz.	3600	in	ns	ns.do-ex.org.
 reporting.schwarz.	3600	in	ns	ns.do-ex.com.
 reporting.schwarz.	3600	in	ns	ns.do-ex.net.
 reporting.schwarz.	3600	in	ns	ns.do-ex.org.
+reservation.schwarz.	3600	in	ns	ns.do-ex.com.
+reservation.schwarz.	3600	in	ns	ns.do-ex.net.
+reservation.schwarz.	3600	in	ns	ns.do-ex.org.
 reset-resources.schwarz.	3600	in	ns	ns.do-ex.com.
 reset-resources.schwarz.	3600	in	ns	ns.do-ex.net.
 reset-resources.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1534,6 +1614,12 @@ saf.schwarz.	3600	in	ns	ns.do-ex.org.
 sales-wiki.schwarz.	3600	in	ns	ns.do-ex.com.
 sales-wiki.schwarz.	3600	in	ns	ns.do-ex.net.
 sales-wiki.schwarz.	3600	in	ns	ns.do-ex.org.
+salt.schwarz.	3600	in	ns	ns.do-ex.com.
+salt.schwarz.	3600	in	ns	ns.do-ex.net.
+salt.schwarz.	3600	in	ns	ns.do-ex.org.
+sam.schwarz.	3600	in	ns	ns.do-ex.com.
+sam.schwarz.	3600	in	ns	ns.do-ex.net.
+sam.schwarz.	3600	in	ns	ns.do-ex.org.
 sap-academy.schwarz.	3600	in	ns	ns.do-ex.com.
 sap-academy.schwarz.	3600	in	ns	ns.do-ex.net.
 sap-academy.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1559,13 +1645,13 @@ schwarz.	172800	in	ns	a.nic.schwarz.
 schwarz.	172800	in	ns	b.nic.schwarz.
 schwarz.	172800	in	ns	c.nic.schwarz.
 schwarz.	172800	in	ns	d.nic.schwarz.
-schwarz.	172800	in	rrsig	NS 13 1 172800 20251031152011 20251001135011 17819 schwarz. 2ZGZt+Ibcu+iR0c7kZfQulLBItILmLY7AW+xPBPANbmkouqLzb9ZduSWrQ0J8VlLKqFSCpfGBRN9gUja2goaEQ==
+schwarz.	172800	in	rrsig	NS 13 1 172800 20260120102007 20251221085007 17819 schwarz. X4Ce2cnkwM2/hpGo0I3mrHjH9/6FSqn8E9j12wleCso+7fcK0DTasnV9LVChCcueyfoX3cwLvYmXEoe+AePQrw==
 schwarz.	3600	in	dnskey	256 3 13 LC+5hxmebd4FI5Th2mTdnKVGjoGNn4QVYyRMuMZGiX44RWPcVmkAQgT2y6S4SHwF+ipptmJOuMteg4Zey4wWFQ==
 schwarz.	3600	in	dnskey	257 3 13 85ifdMkQirZgqs3ubeNFpcDYn9SHlvJv3V06pZ73FKuEqjNm0/SxUsy1y/19QAcpA3uDoVTp8c/AcPDRqUVfhw==
-schwarz.	3600	in	rrsig	DNSKEY 13 1 3600 20251031152011 20251001135011 21945 schwarz. ZYUlC204lMtndCUkcU4Aw4onwL1i+SMc2HCcGH99UC8+KIpS4Bs2MDuOXjkrDqanWtwCtpqQDGSlrIcfBlFZIg==
+schwarz.	3600	in	rrsig	DNSKEY 13 1 3600 20260120102007 20251221085007 21945 schwarz. 7ryrkVpJIwwAqrW0q5GezXiitOfymfuyhoHD1vd8KEnSgLW9AVRzfNN1st7nbTkz8rieSzyKknoWMXBaD9sOYw==
 schwarz.	900	in	nsec3param	1 0 0 -
-schwarz.	900	in	rrsig	NSEC3PARAM 13 1 900 20251031152011 20251001135011 17819 schwarz. Dnv65S0ZYU9VH/cqJItOLscQbohjz3r5oSyzd73RmOp7J6FZNtIhwZua36U1qrhF8i8knuXACRTrbvkjJzLubw==
-schwarz.	900	in	rrsig	SOA 13 1 900 20251101011420 20251001234420 17819 schwarz. DTufgBvQfFyrf2jrIpc5peJJ/YZnO2k+5MFFFk2akU/rBqN9T/o5P59nY+Gps/nDFuQrPluELTX5s8kSdVfbzg==
+schwarz.	900	in	rrsig	NSEC3PARAM 13 1 900 20260120102007 20251221085007 17819 schwarz. /QFABNeONxhgQBeJbnnXdEyrNJCPe2kBhnYp3t7P9Wg8dRGsr8QxrxSo/zGz8n9nzIHpSmTCUlB4CYnybn2czw==
+schwarz.	900	in	rrsig	SOA 13 1 900 20260205011542 20260105234542 17819 schwarz. LZuC7HZqErZlulILC6789O3vj9Hgo2BjVvBFW3Hs7qBa/DfjWNdgjrv95VATG3mIcas59n67XynfWvina1gkJg==
 schwarzmedicalcenter.schwarz.	3600	in	ns	ns.do-ex.com.
 schwarzmedicalcenter.schwarz.	3600	in	ns	ns.do-ex.net.
 schwarzmedicalcenter.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1610,6 +1696,9 @@ search.schwarz.	3600	in	ns	ns.do-ex.org.
 secure.schwarz.	3600	in	ns	ns.do-ex.com.
 secure.schwarz.	3600	in	ns	ns.do-ex.net.
 secure.schwarz.	3600	in	ns	ns.do-ex.org.
+security-assessment.schwarz.	3600	in	ns	ns.do-ex.com.
+security-assessment.schwarz.	3600	in	ns	ns.do-ex.net.
+security-assessment.schwarz.	3600	in	ns	ns.do-ex.org.
 self-edi.schwarz.	3600	in	ns	ns.do-ex.com.
 self-edi.schwarz.	3600	in	ns	ns.do-ex.net.
 self-edi.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1789,7 +1878,7 @@ smp.schwarz.	3600	in	ds	61549 8 2 A7A2C4E4CD1A8B3BB8BAE1E02A248E653E8BB69A83BD3D
 smp.schwarz.	3600	in	ns	a.myradns.net.
 smp.schwarz.	3600	in	ns	b.myradns.net.
 smp.schwarz.	3600	in	ns	c.myradns.net.
-smp.schwarz.	3600	in	rrsig	DS 13 2 3600 20251031152011 20251001135011 17819 schwarz. MhkvcdlLsrx9rykvKlmhZu0v3SDVMCTqjGENjfLxRpbkHSQC5X28fT5/NMtATvileInStzc9hc3Qwe19sYuy5A==
+smp.schwarz.	3600	in	rrsig	DS 13 2 3600 20260120114207 20251221101207 17819 schwarz. 8sKFmVI3eIq/PeWeZ2TRth7PSfLrWRTIyWGAYIf92bYRK8DwDvKR3mocrOgHkFml7O0YDA/IOQc4aSbdTo7mEw==
 sms.schwarz.	3600	in	ns	ns.do-ex.com.
 sms.schwarz.	3600	in	ns	ns.do-ex.net.
 sms.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1966,9 +2055,6 @@ tsmapp.schwarz.	3600	in	ns	ns.do-ex.org.
 ttkf-connector.schwarz.	3600	in	ns	ns.do-ex.com.
 ttkf-connector.schwarz.	3600	in	ns	ns.do-ex.net.
 ttkf-connector.schwarz.	3600	in	ns	ns.do-ex.org.
-twogo.schwarz.	3600	in	ns	ns.do-ex.com.
-twogo.schwarz.	3600	in	ns	ns.do-ex.net.
-twogo.schwarz.	3600	in	ns	ns.do-ex.org.
 uapc.schwarz.	3600	in	ns	ns1-08.azure-dns.com.
 uapc.schwarz.	3600	in	ns	ns2-08.azure-dns.net.
 uapc.schwarz.	3600	in	ns	ns3-08.azure-dns.org.
@@ -2095,4 +2181,4 @@ zp.schwarz.	3600	in	ns	ns1.eurodns.com.
 zp.schwarz.	3600	in	ns	ns2.eurodns.com.
 zp.schwarz.	3600	in	ns	ns3.eurodns.com.
 zp.schwarz.	3600	in	ns	ns4.eurodns.com.
-schwarz.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 152613 900 1800 6048000 3600
+schwarz.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 156699 900 1800 6048000 3600
