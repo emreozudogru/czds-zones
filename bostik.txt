@@ -1,6 +1,6 @@
-bostik.	3600	in	soa	a.nic.fr. dnsmaster.afnic.fr. 2222865351 3600 1800 1209600 600
+bostik.	3600	in	soa	a.nic.fr. dnsmaster.afnic.fr. 2222879163 3600 1800 1209600 600
 95mhhd023qjs81skhjmv04j45f5gt8kv.bostik.	600	in	nsec3	1 1 0 - UQJ4SLRATVAHP080KRQ4SBTMFU3GKP8N NS DS RRSIG
-95mhhd023qjs81skhjmv04j45f5gt8kv.bostik.	600	in	rrsig	NSEC3 13 2 600 20251015022842 20250915113020 35705 bostik. gnNQd67qjYP+w1JytrcJ9YkRRhFBxr+IUiTVF5AVpoE96/qdM8/sTKI6XAqI1YWj9sQBZ/Df4Y/xeNdjPSl6Jw==
+95mhhd023qjs81skhjmv04j45f5gt8kv.bostik.	600	in	rrsig	NSEC3 13 2 600 20260120174708 20251221173457 43171 bostik. ZOEJyBzR0vRAMlBBqmiEWge+yHHDfNPCAwT43uvyorg8FK30mkbp7NazFH+oaoaQ7XDD7ZojnZoqvl26CJWFtQ==
 academy.bostik.	3600	in	ns	dns1.cscdns.net.
 academy.bostik.	3600	in	ns	dns2.cscdns.net.
 architect.bostik.	3600	in	ns	dns1.cscdns.net.
@@ -9,23 +9,23 @@ assembly.bostik.	3600	in	ns	dns1.cscdns.net.
 assembly.bostik.	3600	in	ns	dns2.cscdns.net.
 auto-250915-xapesonuterulifomipe.bostik.	3600	in	ds	11643 16 2 E55227CB0B4C03060381AD603DE07FD7CEA879E2378B1246464AA5FA3983C08E
 auto-250915-xapesonuterulifomipe.bostik.	3600	in	ns	ns.auto-250915-denatederuzakodoporu.bostik.
-auto-250915-xapesonuterulifomipe.bostik.	3600	in	rrsig	DS 13 2 3600 20251015022842 20250915113020 35705 bostik. AUNsqDjVeYfGm7PuZt9pAt6llo2k+kfs4v0MhBKuFwJMt3k6C1osuZhrINVgB4UvMVFRq55i1kXRSdk3qYNOAQ==
+auto-250915-xapesonuterulifomipe.bostik.	3600	in	rrsig	DS 13 2 3600 20260119152917 20251220150100 43171 bostik. Mb2nY+ZQ7w8IkGedpdyGtKsnjVlKV/lzFFZviHHQxAKW65Ece7WCuyxuGxPVKiSl3jHjm2PK0ZXSDbc4clvTcQ==
 automotive.bostik.	3600	in	ns	dns1.cscdns.net.
 automotive.bostik.	3600	in	ns	dns2.cscdns.net.
 bonding.bostik.	3600	in	ns	dns1.cscdns.net.
 bonding.bostik.	3600	in	ns	dns2.cscdns.net.
 bostik.	0	in	nsec3param	1 0 0 -
-bostik.	0	in	rrsig	NSEC3PARAM 13 1 0 20251021191828 20250921183215 35705 bostik. 25q1F1qJP//IJQEqufjRQSGRvTKIQ5n/jTpc5VZ21+4qYMkQc6BP2iBaA8c48tjXswKIDztqIfEM70VCvRWCJA==
-bostik.	3600	in	dnskey	256 3 13 J07HIbGp4Eq9OUSOYtf0XFFRWJUr7/HjxIVZCLTcYDDaWHal9RkPyGyQ0qFJGATk2hcJJV83ThxjxHPPD3xZBw==
+bostik.	0	in	rrsig	NSEC3PARAM 13 1 0 20260125160718 20251226152219 43171 bostik. 5J7golofIYOXJNIMcK134df44ZwnpCcL7L/w6Ql2nGx0bsuJU8npK9Lc3UAVnzFi0Xdezz1VnH4VqMPjjQwxqg==
+bostik.	3600	in	dnskey	256 3 13 K5cjvWTQmSCYDwX7J3e40Df0+XTLDUCZm9ixHBhchY87BVzXE4uWJWh8bXBS2MWzSpgu3oeNzmu1hTFeemJQUQ==
 bostik.	3600	in	dnskey	257 3 13 g2GD3okp9N9QAHL8hScJc4mS2aeW4G4JWDCq/ysDD0NvyOXUd5Gl5WhUnjpoAPl459bikSpJICpldEDf73JAmg==
 bostik.	3600	in	ns	d.nic.fr.
 bostik.	3600	in	ns	f.ext.nic.fr.
 bostik.	3600	in	ns	g.ext.nic.fr.
-bostik.	3600	in	rrsig	DNSKEY 13 1 3600 20251030143430 20250930141047 18147 bostik. WwaLGudxvc+gWanuhnAitvfDI/ShU2lpDJVJXQafC/FL/HffP75RAEFoKkXKChb3JNicQqod5ufUC7hR+UaBmw==
-bostik.	3600	in	rrsig	NS 13 1 3600 20251009215230 20250909210413 35705 bostik. vChhOee4/QTHgDMPhBYp8h1w5IegT6bF0D2gVornEOynaXmQoTeZCovZDlMJYXhY4ZOjZVnybYysPdvPH6ThYg==
-bostik.	3600	in	rrsig	SOA 13 1 3600 20251101010020 20251002000020 35705 bostik. 5+qOstg8OEXajarbuiFG6k3RvGw/mJMyoYDJ+SSEstDxU6iOm663yola+iZbYlg7xLJSCYIAU15zSxsf8lG6BQ==
-bostik.	3600	in	rrsig	TXT 13 1 3600 20251031203856 20251002000020 35705 bostik. tHf/5s55cikFvBf5GZhqplxkkIwaWFW7UUMHplYEAA2cAwsSfNcNA0b1HRU3MWOZxsuzLmaWyTaaE2fUwrfrhQ==
-bostik.	3600	in	txt	"No RRs processed [02/10/2025 01H00:19]"
+bostik.	3600	in	rrsig	DNSKEY 13 1 3600 20260124140446 20251225134703 18147 bostik. iz1PygbDztrCIkwgIoRccGCW8vYayWm/36UkWbSDIQjeIyx/fiprF5rWuRrvESIeo2ovUbXWTF4QoUAR0cnGkg==
+bostik.	3600	in	rrsig	NS 13 1 3600 20260113080707 20251214072008 43171 bostik. i/DxmO+tXUNm+L9HxYZjRFRh7jBt+NiK5FfXHaEHUC6PdIpZU/8JBExJ52HWsAcwDyG7uGhzijpA8la9j++ywg==
+bostik.	3600	in	rrsig	SOA 13 1 3600 20260205010020 20260106000020 43171 bostik. EeJT25k21qS2wSwGCeAPWq0WIAj4Ma+H++mUU6YaTGz2JnwSROnWm5CBLBVJBLFHJIbCYzZhBxP9C9Nm+OqwBQ==
+bostik.	3600	in	rrsig	TXT 13 1 3600 20260204140250 20260106000020 43171 bostik. sJx+SaWs7b2LhHIB+4cAkpoK9Axd2xTILbrO+b44wbI+Y3LSEYviLgsv1GBHFu6fzX9KpCfQZChU8S8utY4XcQ==
+bostik.	3600	in	txt	"No RRs processed [06/01/2026 01H00:19]"
 branding.bostik.	3600	in	ns	dns1.cscdns.net.
 branding.bostik.	3600	in	ns	dns2.cscdns.net.
 calculators.bostik.	3600	in	ns	dns1.cscdns.net.
@@ -67,7 +67,7 @@ nic.bostik.	3600	in	ns	g.ext.nic.fr.
 nic.bostik.	3600	in	ns	ns1.nic.fr.
 nic.bostik.	3600	in	ns	ns2.nic.fr.
 nic.bostik.	3600	in	ns	ns3.nic.fr.
-nic.bostik.	3600	in	rrsig	DS 13 2 3600 20251018081511 20250918075717 35705 bostik. v4L5Crli/2+JzuQQoQHA+MXsnE0hFmlAhHe49X323PMpT96Z24bQyrymkxgLX62OZtgTFgn08MKNd3QGNYRXHQ==
+nic.bostik.	3600	in	rrsig	DS 13 2 3600 20260118132429 20251219124047 43171 bostik. iBstIoujyAqRTxqaeKSgv20QJaZtiFJ9wguT/p+geAHcyCV7gOJx5+g5tjF/lOThMcn/lsYrv9UnZLhH0l9FWQ==
 packaging.bostik.	3600	in	ns	dns1.cscdns.net.
 packaging.bostik.	3600	in	ns	dns2.cscdns.net.
 paper.bostik.	3600	in	ns	dns1.cscdns.net.
@@ -93,9 +93,9 @@ technician.bostik.	3600	in	ns	dns2.cscdns.net.
 transportation.bostik.	3600	in	ns	dns1.cscdns.net.
 transportation.bostik.	3600	in	ns	dns2.cscdns.net.
 uqj4slratvahp080krq4sbtmfu3gkp8n.bostik.	600	in	nsec3	1 1 0 - VI6U272L7KM0RBD721KKJ7G70939BIGJ NS DS RRSIG
-uqj4slratvahp080krq4sbtmfu3gkp8n.bostik.	600	in	rrsig	NSEC3 13 2 600 20251031084354 20251001075956 35705 bostik. UfyqjMNuhm/WvIn55w6RiyUXgxDmuUwly143Q6qfqfUbttUvVej83ZyKy2ZzRtBxhi4gUboylsc8M45nqqat/A==
+uqj4slratvahp080krq4sbtmfu3gkp8n.bostik.	600	in	rrsig	NSEC3 13 2 600 20260120173559 20251221164412 43171 bostik. W4jz3dSyRUwdkszDHfXFJcnIzy1osnHMPhkXOE+1s8jPukr4NKbbtqHU+d6FcNTZhyTSrIY7fBWgG9zh/+C4AA==
 vi6u272l7km0rbd721kkj7g70939bigj.bostik.	600	in	nsec3	1 1 0 - 95MHHD023QJS81SKHJMV04J45F5GT8KV NS SOA TXT RRSIG DNSKEY NSEC3PARAM
-vi6u272l7km0rbd721kkj7g70939bigj.bostik.	600	in	rrsig	NSEC3 13 2 600 20251015022842 20250915113020 35705 bostik. gMtVX2Jiptx24wHtSYdp1ya9H//pDbTWr7O2mfdGAtQ7naiwO/Wbjcj/FYawsm8yk4C+W656DTeQnUIxFt8wvA==
+vi6u272l7km0rbd721kkj7g70939bigj.bostik.	600	in	rrsig	NSEC3 13 2 600 20260114195204 20251215194821 43171 bostik. gsSP+mevXvFsv7fAAz/02CQsc5n4bjaF+IZ0GfEGzGOVz8Sh/n8dqaDTB/8c7HJHzzi1koZmj2U4T99XlIQmIQ==
 wall.bostik.	3600	in	ns	dns1.cscdns.net.
 wall.bostik.	3600	in	ns	dns2.cscdns.net.
-bostik.	3600	in	soa	a.nic.fr. dnsmaster.afnic.fr. 2222865351 3600 1800 1209600 600
+bostik.	3600	in	soa	a.nic.fr. dnsmaster.afnic.fr. 2222879163 3600 1800 1209600 600
