@@ -1,4 +1,4 @@
-hotmail.	172800	in	soa	dns1.nic.hotmail. hostmaster.nominet.org.uk. 1750680132 900 300 2419200 3600
+hotmail.	172800	in	soa	dns1.nic.hotmail. hostmaster.nominet.org.uk. 1750680099 900 300 2419200 3600
 co.hotmail.	172800	in	ns	ns1-03.azure-dns.com.
 co.hotmail.	172800	in	ns	ns2-03.azure-dns.net.
 co.hotmail.	172800	in	ns	ns3-03.azure-dns.org.
@@ -24,23 +24,23 @@ dnsc.nic.hotmail.	86400	in	aaaa	2610:00a1:1009:0000:0000:0000:0000:0003
 dnsd.nic.hotmail.	86400	in	a	156.154.103.3
 dnsd.nic.hotmail.	86400	in	aaaa	2610:00a1:1010:0000:0000:0000:0000:0003
 ee5jb4n3n6c734ei37vsdgdcf4uu6tq8.hotmail.	3600	in	nsec3	1 1 0 - HJTHR4OV4DQQP06OP004C0FJ4V9TQGPB A RRSIG
-ee5jb4n3n6c734ei37vsdgdcf4uu6tq8.hotmail.	3600	in	rrsig	NSEC3 8 2 3600 20251104091218 20250930082830 1498 hotmail. aCjjoDAIKNIg6ddjiMWwV8idGza1HXT4WFVlb+X/vfFXsLY9HyB9mnL9U8ELlIKV/Omw7pmvCoFU/3VbbINYnH61q9GgQ6s0phonvXcj81KIApED727ZB5+WV2LQXpcroXz4MxcfcsGEbfwdg7N3+lPDTxt2Rqv6BuNysZwu0UyCbk4x/x1ccTy9eWr37opLfmvUnVA9V6aqN2I2DbCiJn6DNV0pCLzoSCLfv2TAA3Vv7/qlX0XeDWykiEbPcaaSUMNY9Ez91ZbaK+vWr1onXh6PWZ9h+bwkPpAJ9IehPdYuX8HNJ30vqZHkjMMi9wPS3amCLBghJSlF+S7kR74kVA==
+ee5jb4n3n6c734ei37vsdgdcf4uu6tq8.hotmail.	3600	in	rrsig	NSEC3 8 2 3600 20260206040447 20260102033127 1498 hotmail. hssyjdTI29XdZ9wen+ZjofvfDJnCY3IuZI6kKQGSKIO9aTg0I6R6tCdcZLvy/39DXZECIKKwmF573hq2feskvvV+hwENWUZt0FsMg+q6IXBIrwtFb+MQB34wyLgNTSSQZp0me7QYFXRbmqJ6r6lop8T1RKP8dqIYWHLvzy9K77hi+s2gb9AXFvX5S4XKKBbXrNnORcuyEbJNkvYk7dVuONmuNH89akbSgjBtxnpzdb6m5SczM10+cC5OIJyxPLl4qr5LvjSyK+ea8sUzOy0Z9rMoelha+CdPNL53K2gffKST5vPaPMBw0l/F7WjrMIkL5ST/KAOV/OoGl1jVCT/UKw==
 gmail.hotmail.	172800	in	ns	ns1-09.azure-dns.com.
 gmail.hotmail.	172800	in	ns	ns2-09.azure-dns.net.
 gmail.hotmail.	172800	in	ns	ns3-09.azure-dns.org.
 gmail.hotmail.	172800	in	ns	ns4-09.azure-dns.info.
-hjthr4ov4dqqp06op004c0fj4v9tqgpb.hotmail.	3600	in	nsec3	1 1 0 - SBQSJL84V6MNASC2Q448T85J6JLPPHVI NS SOA RRSIG DNSKEY NSEC3PARAM TYPE65534
-hjthr4ov4dqqp06op004c0fj4v9tqgpb.hotmail.	3600	in	rrsig	NSEC3 8 2 3600 20251030024903 20250925021933 1498 hotmail. fE2NGb9ImYeXdRPI83PA3q2dHwYM6sY7JOAo/DumCYzXpGt1wro3BsG4Jg8nHJ0Gy5KGHMoBvx+G5KxiDn9or0VAkFkTN64Xdgr+9pPtmLEU6gN5WY32Gqj5HsFn91XY3Pv78VMPeEEyUpS1JesuUNQ2+2fwTKLDgQr2KkvWDpMKq/BVL9RkKTaZQ2B2BLdlO2vrup6oM5KZplFUHQX2W4aJANbfnYzI9vGgQyfw4BjdqqZdx2Bj3hDNJn4PGvk+FoK45b3b4og9FmdpeViLNqQTEAd8KURX/GJb4fwV+87zIlVP3UDP3zL0PnvxKimrCIG1D1q2SEKcKRmUThIwQw==
+hjthr4ov4dqqp06op004c0fj4v9tqgpb.hotmail.	3600	in	nsec3	1 1 0 - SBQSJL84V6MNASC2Q448T85J6JLPPHVI NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY TYPE65534
+hjthr4ov4dqqp06op004c0fj4v9tqgpb.hotmail.	3600	in	rrsig	NSEC3 8 2 3600 20260206040447 20260102033127 1498 hotmail. lWfGxuHGia/UId8uDuhHcP/BeAXSnmhudZM+u2dBgO72RMpmfhWAAhWw9S6e/DFb3lxa2J/Q0a8I9foALb/EsasCLQ4JyB7G2zfTyXVopiEx64N7/bwkbpCZOad25PKUrlNuJW1m4rvJx6dEpt0hqWegk0jgnCQ5zkRT8ju00MV1tCYmidl00S/hVw4Vvc0aSS3KXw44qlLmG7wcMlvlLQdQNTBgp3lyaRA7E8RS/NnUZkleaLx63SV8HunqeUF/+fB6k9RsVaN7a7gkoVD+KWgUaigjFo2v5aAwgOMy4IhjSLYhbWHl3zAEb46ejyRlrm9RABs/kuapZc2xGFm5Ww==
 home.hotmail.	172800	in	ns	ns1-01.azure-dns.com.
 home.hotmail.	172800	in	ns	ns2-01.azure-dns.net.
 home.hotmail.	172800	in	ns	ns3-01.azure-dns.org.
 home.hotmail.	172800	in	ns	ns4-01.azure-dns.info.
 hotmail.	0	in	nsec3param	1 0 0 -
-hotmail.	0	in	rrsig	NSEC3PARAM 8 1 0 20251104003601 20250929235048 1498 hotmail. PWaWoCzdAd4Blmao4c+T/7RiJZaYL56IVC1+9/qKrN1mgu3pDNwudWzml4yE9OCM8GHX/a+WlGYBq0ZgBiW1/pPNdRoFP/EvV/19s9myE8jxQ6mufdWKwOJD8XgAHXW2MkrCV6gG3kzfhIofuBQUn81115ohiwcDON30FQvmg3Xx82onfiyjkK9HT4j104AXeSWmBxZQMX+qFy+1nvRpj/65BFstpAWyUASQwbpxGRISiALqMJC1CB1w/i1f9s8VGSYWxm6Ys6eq9hFrQEFrcWUOJeDHQ9ICU1QhQl4J3EIWQvDR9E7i+8xIprLzmu2/OW7NUbQRIPOIVUkMpoRhzw==
-hotmail.	0	in	rrsig	TYPE65534 8 1 0 20251104003601 20250929235048 1498 hotmail. mkexKGu4Oo3YMTPznOw/PEfUVCi5E2hhelFQhSjSmKL4PKI9vU6XMc5/IZiSGOqwCCgKe7YudNtvDIAfYZLKstNeRCwqnu0qlbKXvNLiowJF8KWQ1f4Ic/NYuJFjr+okMp4bbsMKexVvd7D6q3r8t6gFh76SNYMNXRP02/99c0J0kphm1L1tdExy0JexEh/YwlgkaaFDa3Z/5JBDrcvbqL1pYLjsdrVqY6I8ahkpvkflPSBMarfYR/csTtyZnmdhyH4bx+cVAgixApARZEAcL4oJtXPsBU7FACYn1dBcuCi4o1cIjoI2CR0bqoq0xYxhFGx42ElihQq6rT2kVLAoaA==
+hotmail.	0	in	rrsig	NSEC3PARAM 8 1 0 20260206040447 20260102033127 1498 hotmail. GE4taiYUix9MdFxG1p2ame7Ai87Zx2rUHVBcvoDwupScPBmpyZaPoC0HW2mL7eCCRjUHVagFIMoUFO9vP2+ed5EjgGEcwah5dObG0365sCyGdJkMFnzFGNLogHEA9WtTmtZjv2iKX/cNRqaDvKZf8RDxFXuga1isof6bxC7/iFrmUqqMz3Y5a/3iFCYtorhbCj+Je1AsWfnpOzw1b2+gL4+neOfCHWeeqlg8OfA6w1sLcZURp2YUdyRibp+5UTL7NeJ8ehLQBlKHoWf3UCjYnWRVNa+ZMj2s0dzENzzght6MQHDrc6AmuVTVp9Hsk3Th1+pmilTEfR5yNlisihIyYA==
+hotmail.	0	in	rrsig	TYPE65534 8 1 0 20260206040447 20260102033127 1498 hotmail. m8KJex8L9czfSLOwSDjwDNYpN37wTQcmWuJ7gHUaQudvLdCgizN779kz/Aiwjwtxow+FSYvryKO4rWGeJ2pIrEr3DCjQIB1WZVmTHEzZZVGEXOtP5w+9S9ZLhUw+t9YOtaJ8JajkQ+HhCRere/GwuU3Cff/X6OaksCWgGv5zYEVdBlkM4IH3lMVu9AgxV6yXmfYOdJuCsfqrZFrNYFYQkYm360nQ8sferM6oTjwz6yZgAYDtpI7A+8f4pZ+UNpDv6C6gL0A/WsulMMDdAYP5Yo2WHZwy8I+S5r5MqPCjNS716HOt2CqkDwaQTTCPcEXyPEauSXOjyBNwzrAzdi/SRA==
 hotmail.	0	in	type65534	\# 5 0805DA0001
 hotmail.	0	in	type65534	\# 5 08777A0001
-hotmail.	172800	in	rrsig	SOA 8 1 172800 20251104160259 20250930150259 1498 hotmail. J8saxOYgNrN2UbVLfOJQkzaEZqhwkOzZxaYoZx4OOgM+a9O7l+FK5D83O6rPGl2bzjoaZkB13cck1GiNohk+4PM+tVgRgzM1u8QwEtMB/5y/zreMFt8IC8dHGcsUiuksNOUTNMrdzde/JhT+Gy+xloTlnErChoXqWNIp9q9g1wP5480HuEFrwm/WP6MdhLZx1/l6CJlgLesTFO9PWQ4hvnBXKiAlp60buWDa8NQHZKxhyRHz144Iq/yRigsLCDfuvn+4qAkeMtUlIxU9fLaE06KlQ04u0kb5Q9YQZrhdsA2+k8Gk1+t0zP6+CoIc8yprbZPV8UKGLtjNyZ2rYz2NGQ==
+hotmail.	172800	in	rrsig	SOA 8 1 172800 20260206043127 20260102033127 1498 hotmail. AKPz7FOJgQ3pl+f/j7nuWypX95YT/PVrwbetcawqGxjhyarC/aJZ9QstRDC+BiBoZIEhjSMJtsbq33a/IOxziVH3uOetu4hjAnruK6IjkemLE13Igecxh4VpIQUP1IKB6Khca1yrgKZhcOOsmK0WRsVApJvopaN4yPIYzNRazAuCDsgvLWKC1nHc7hw0A4+Yn3CBNZrdo5cKN1Ji7GhWlqCwfXBJ6dcQZ0PIZ/cY2637Z17/+jjxpCV4BEM7bHJT5X4ThxBkexesyfu+p6A3ipOLDcrwCzNEBlSezGeIxe8f+C6en9YFX68pCK7+xkIyWsKTd313lKe/VZ7FB3ULpw==
 hotmail.	3600	in	ns	dns1.nic.hotmail.
 hotmail.	3600	in	ns	dns2.nic.hotmail.
 hotmail.	3600	in	ns	dns3.nic.hotmail.
@@ -49,12 +49,14 @@ hotmail.	3600	in	ns	dnsa.nic.hotmail.
 hotmail.	3600	in	ns	dnsb.nic.hotmail.
 hotmail.	3600	in	ns	dnsc.nic.hotmail.
 hotmail.	3600	in	ns	dnsd.nic.hotmail.
-hotmail.	3600	in	rrsig	NS 8 1 3600 20251104153953 20250930150259 1498 hotmail. YI4lSEVp8jYXfcpFeaATShnY8833wj+3GYvPkBipw10BdGO12Onc/SDeBI3Yd6RvZZczUoNDIBiJHdmzwnHIKRnrGkDf5kdtb2N1Wo1hEUNRSrTP3RVSQq2YDbBta5Sut9wqCIP4/eeVXukMsU0jRPyOL/MTJ1Ef3+YdxeXgMDUvpag1cyJ42/1AuI43ioPt2KD7OZ8IXzbwK1VtJLSzvOVFb0C0vk70PPrerUlVrqs5kt0OIQiJzlosRQVoVu4Vrq3tj3E2LDZSrJkQnjRivnvLW8eqXwbwUBW3+s550X4NoaXWWgidgqQquB1s74hmeS1s2jeGgILNHjwiYHnwRg==
+hotmail.	3600	in	rrsig	NS 8 1 3600 20260206000235 20260101231948 1498 hotmail. IBsmswvqoZZCe52JfHnctrnVqWFoD42JxzVWsRB7UGqg6sQe7hnSijLEEPZ+yuqAU4k67wmQ5Iz0CeLqAAfUbPVkZyup3zv9DInXw+Pk6vLKpcjgfkTNwWB1nC8cpUjgMqTAIKGvKsZOT5XDlhwdnbZLznbUmOWKi9B0Kf4R0+l5uVvWEOnmoFtJAISmVa9lSaJ7BYTJWX3FoQQFXuGtky7BCqyo4RpsDIK5BtORXSqyB8AiRrXFtiNafRxtn9+N9psfisqnWnoyfcM/l0kj9cUAIBj4llklxPVzoTeg6NG63dEDM8VMZeFdXT9aOGuihabFsJHysh27lRrlEYcDLg==
+hotmail.	7200	in	cdnskey	257 3 8 AwEAAacsiyiLSg0Mk5N9JVasgOXPT6MAJnxeSOuClqU+O3zLuOUc4XWI6qflpxMUfluihFVFP6tjsbxfvMyHp1AK6Skc0G63YuBOD4pib/UDaOY+mMPG6+bXkt+mOpJUeje+shXpyblAzvaETbkoTetn6GVizRO9S9GmnTLa47CBmvajPFjhNweMV3mIEdOT27gJVtr0Dd/WiN6JfUIZ+j3kdDsH7aI4vZcXeNz4LyJQloZ4shD7/cBEIY6J9AfheUYsCMeY3hM5/Iu5KKhF2UI/I2a2Pfj+c9OeDw6gyzDcvpKrMDNIJGbIaZy03mgPaIfugz6VeSKOyh/UMkV8BODVeRE=
+hotmail.	7200	in	cds	30586 8 2 C055D04AC9301BFF85AF9424F6D368D206D7E4786813A22FD3CCEAA6928F50CC
 hotmail.	7200	in	dnskey	256 3 8 AwEAAajcRunTxdHPL9vNmh2C9FgaWuJQQGrQhj74c75ed4XFHwxxMfXNYZ5b181C/gQHRto3+8qwNx+AbJeGQoBXUkovPEFc7IR/+BkMnTN1hKN5Y9ZHBTA8o8QDY1sRPg8cmG+xUjmvMJc0Mtnona/v/j5lvKDI3wO0CVCAx8VlNb9om5/wlWtL2W2uINFhqVkOU6i8yS+vcsPB+Ygntqo7dTzTcUGWRNGT+UMXhAwHyWhRYjQc83WivLIg3uIRBZm1HKJnZ6G6nLW5CDLVuN/4UuQdjlzgB4atb1vEd7X+3cDu19pnTxOoq5H06j0Wph9RJToFGNSZ6vHK+et9NHWapKU=
-hotmail.	7200	in	dnskey	256 3 8 AwEAAcNehLzcnk6idMhUnCW5DFgk3P/NEt0RaqvBs8B2UwLvcmqw3SK6l9j8LnkHRwjaBy4HRZgy/snq4BwlaHHq7MWJxCU/pjkzew/BFYRps8kuJKHcuIhcPzz1Nf7DN/xI5RPaRfiWTkydQo8qGXLvRoUn9Rh8EojDoM6hhIWaBqvZ9ZydLUSlgndfzMGwYnMDKskjW7b4OgR6Zl6sTua2gbs=
-hotmail.	7200	in	dnskey	257 3 8 AQOmQib7GYZUApjOV+/CTLDIRxnmsj0xQc1EMOp/AQ2tOZ+SSfecZh6WouSPFhaPHwkGT3RbrOVPnUnejuoj1DMd7IK2Q4LMHRb8C+H4lE53gKF2Js4N9ecKOHvlegFW9Q0NZKIg+Db7l537OjDN7r+pQHkV4Hw3nLcXya/1KkDQHYsGowOir578DWFSvVWTobvmw/FLwPmSX1qeBGgXeG6W6JbrVxFHu81WCAQj7GF/ewtglf0axJGiyaDc0+NVjc5enHqsT3tmOfQCn2AshvTr25G776DxMo+MLw+VlptGqnzwmTdm7WeEMIh4SEKy+wF9Iq/njsZdIpObFfoVwan1
 hotmail.	7200	in	dnskey	257 3 8 AwEAAacsiyiLSg0Mk5N9JVasgOXPT6MAJnxeSOuClqU+O3zLuOUc4XWI6qflpxMUfluihFVFP6tjsbxfvMyHp1AK6Skc0G63YuBOD4pib/UDaOY+mMPG6+bXkt+mOpJUeje+shXpyblAzvaETbkoTetn6GVizRO9S9GmnTLa47CBmvajPFjhNweMV3mIEdOT27gJVtr0Dd/WiN6JfUIZ+j3kdDsH7aI4vZcXeNz4LyJQloZ4shD7/cBEIY6J9AfheUYsCMeY3hM5/Iu5KKhF2UI/I2a2Pfj+c9OeDw6gyzDcvpKrMDNIJGbIaZy03mgPaIfugz6VeSKOyh/UMkV8BODVeRE=
-hotmail.	7200	in	rrsig	DNSKEY 8 1 7200 20251102141443 20250928132423 30586 hotmail. IR69JfKD1DZuSwnVW7TyqXDlxMAwAht/OsZ8mbJo30r3a4V63ERrn+wNXCGGRnGKTK0EV4Oxt02OSL13DVm0DQ2Lmx1IcWVyvov1SpuOATAJ0R9BlBIxwYvQRHQ5psL8pSslFKjbjK4NPIo9VqR0IXqNGh1ZAdbP7H7i3E+PUZ0BA2sKapN8QiD8ty41GXepxwmTQj0YDCasftDpC1AZSwVsamWQaYhbPUbI3Ov37Ax9SIrivTPadoJXVeMYWi32YC+uDpF0SVjMs6N6MedBtGJv+lK69G8kiVuOXqn9Ms86mAVYewu5KeVlypUiEb15ci1mVQyQWSIwlOZ37QaoqQ==
+hotmail.	7200	in	rrsig	CDNSKEY 8 1 7200 20260206022706 20260102015807 30586 hotmail. VtcHAbVycwlEc3/htVDMM1/z//GLc2vSnspDn5cj7JVZc4RFkeEap0DDRH33TXIwTGYloJM/0RJp/CXdQa05X93YxrY1dr44UxVArgl2NbnAZ8qR3iUfPy9Mz5uHLXrRnrr2UyWBjPSyWwcZGPAB62Vno/1ydEyGr+vJP2H2wSQsHlXGUUUUW9/apObCq6ll6d5o2IJEnnJ+LJ7Q5Sbds/4aFNoPwv8n2Ahve90JD+399X4GXjvCyw3uVSlhAwcLt+vLz4mTWFGUpYnh+VqoTas0tRJaJRM81GW4+ppZIGzTxVkbtyGnv5KdkYBH1AHO1DOQhUkUmzlPyMGdyCn4og==
+hotmail.	7200	in	rrsig	CDS 8 1 7200 20260206022706 20260102015807 30586 hotmail. G8oaRHsdFYHuM0+ZDnonk2vwNELN60fKhVsR/p6Y7fTMNEb969Euoy1/QFuxY+aOnKw13kgLY43wo0r7eTJoFUxHAbpKusO43C62ZmH5DVADVLkHsFBfU7hHY7gtUj6UXhY3Nk2UUqa7WTIcdbR4+/HxbHqJ4oHl4evfMc33NzD2KjYUK9eMKjboHA/8FqwjWxzYoNkPm+QmHeaKjIGbe9zbibcENwSHrFokIr5q/2snW17aoc/Rb07xEAAiC4B3tGPTZX3/+m9IZpOk/7CjOOUC/vRtreWIEyAjalXkaC4Zjp8Oxkb8Zl5Zs6HYw80EOCPVKYldM31oL3Mqy+flRA==
+hotmail.	7200	in	rrsig	DNSKEY 8 1 7200 20260206022706 20260102015807 30586 hotmail. PWSg3cM4lFwbCIS44hi7hMd/JTNQCxMnD/jjHtwf3to4m5yFmZ+4iAPZRfDMcCNFpj/8j1LFHfwr7YRxLjRn/yoe6xOk67uqtaQl+I43Teq4QYvLdtC1a9lGeDbKVxHPS+ZXFIfxfAMWo6eVvx3oX3HJMU5j78EK0Dikrn+4Jioh8Ik+MR00m0TLZjiZpxeknna6ram1ueU2Psp2zP5BoY3rMGVXUR4BoCFRqoLgKX3A2KoMJAvudvAlj9X9sva0DeE2ZIqaYQA8yxsoCZTRQ3+KysCdTacXUncC1VK268hrmOgqtx1nL0fm0bHf32VFbRY+FtIufceHltbu+F2Mkw==
 hotmail.hotmail.	172800	in	ns	ns1-05.azure-dns.com.
 hotmail.hotmail.	172800	in	ns	ns2-05.azure-dns.net.
 hotmail.hotmail.	172800	in	ns	ns3-05.azure-dns.org.
@@ -76,7 +78,7 @@ mail.hotmail.	172800	in	ns	ns2-04.azure-dns.net.
 mail.hotmail.	172800	in	ns	ns3-04.azure-dns.org.
 mail.hotmail.	172800	in	ns	ns4-04.azure-dns.info.
 monitor-nominet.hotmail.	172800	in	a	127.0.0.1
-monitor-nominet.hotmail.	172800	in	rrsig	A 8 2 172800 20251104091218 20250930082830 1498 hotmail. jrxAhLt7CS6UhS3mr5oYd2U5+iLiU8O44IS2VlPVpG9xUXo7mkE+p5MAAcog6AYc6sKLKg05k66Y/oGhywp1nVpE3XXauVhFsYtBYHGtBECkBXKKg0hMuakQvnwR9RKOQlxQKjDDyMdltXiw27tSayAmz11O5MdaWuLu1UAGS/SAxxrvrAZVjOP/gu9iyVI0RTvR+0z5vh9K/LhVcRvABsJJCj0350NENR9paJ1HyqoHiqCr3tzbOJq5i04ZzvHd4as8upbVyh4AXKLrOAGmkzyBKvAvnvKl/0wbl6x9+ienfLKeW3Gkjag2peKaeWzSToT1g5ExmJjpl3lZrpS9MQ==
+monitor-nominet.hotmail.	172800	in	rrsig	A 8 2 172800 20260206000235 20260101231948 1498 hotmail. oR3+NN/tHo5DRfWrbH6u4nwYN2Y93zuQ22aJajRzz+rEGRQgIhb9+J9fSim4RJ4dmffGZMwo2j/emUoNmVAOWT/15YdPyfwmmSYPZ9IwqYpXtJdkw/qhcSAkMX4h/wxOt6UdmXXmag+JNpa9EWPKBJDv9kXccCm0N/gRaysQTw/VM0XIfMlR5tB5JhXTKVHHO/6XtzBjrq5BIfUqaP/1kqx62AP2XvK+WuaarwfOrwdIe6cSwc3RmrrP3h9xH3KoELnze6rgqVGqgdZ/YlpVrJLyy+p/x4P+BuB3SmMUYctfIE5nnx/KtmGENU9l6YKqXsv5JqjVv+gj7/m9QSu1jQ==
 msn.hotmail.	172800	in	ns	ns1-07.azure-dns.com.
 msn.hotmail.	172800	in	ns	ns2-07.azure-dns.net.
 msn.hotmail.	172800	in	ns	ns3-07.azure-dns.org.
@@ -94,7 +96,7 @@ nic.hotmail.	172800	in	ns	dnsa.nic.hotmail.
 nic.hotmail.	172800	in	ns	dnsb.nic.hotmail.
 nic.hotmail.	172800	in	ns	dnsc.nic.hotmail.
 nic.hotmail.	172800	in	ns	dnsd.nic.hotmail.
-nic.hotmail.	172800	in	rrsig	DS 8 2 172800 20251030024903 20250925021933 1498 hotmail. BgDOyFhzs+gnB1IOQagRY/8PeXgPMiYw7WmmPfCmn+OH9fyqvuijtqo99G2C9NM0exbVGRGG/ECn6QSRLPNzcN3bqBcKFwUG+R358wCVeowlj0pWWOCdRt37nxGPxURv9xwyBH5+SLC10dnvoVw/O62elBwxcI8+ddk4eAS9owGVqAs3/VbtslJH5ss4OlMHzQcAc4CSI3/uR8yvt1tuvJHZHHhS+MQY5dtEnEdrXTQxc63b2fHJq/OOknKNF7t5RAFDe0WjVYzRDMIJWp1yqf6AvgneuIUYCPjvsMV6AkjOY1D/j72dCGknzZeQqPY4Y33U0+aLroVvkCOWUz4iow==
+nic.hotmail.	172800	in	rrsig	DS 8 2 172800 20260206000235 20260101231948 1498 hotmail. dL0xTi9eJf+hCbEBXaKKyh2moALTcjDryZ2h1BbiHmv6PtQn6wqWuIowq6ctsnkNAJu+hM+Pbedc7RJI3oAZ9fHDPCBK4FuP/JbKsSzbnK4e+RX9fyBpV5CFPDuBizLb9nO42hpMDO7dbgnXzwzugG+IdS/O6cttuqLJ2okpXw1w+Zm/r15gPFHmU6NcosBPE5kbZeeRj5Mcqdloc3gw+XVtuIDN1r95ntymRzRASISU7C+uVkudwoFTiLWhwGNXwRBr597cW+H5ScyFrCc/Ws/UQhjtsVjI8/dBllbNXRTX7oMlwrrATatxJiC9vWr3gnFK/z+YKUxTVRdG+9Mx5Q==
 outlook.hotmail.	172800	in	ns	ns1-03.azure-dns.com.
 outlook.hotmail.	172800	in	ns	ns2-03.azure-dns.net.
 outlook.hotmail.	172800	in	ns	ns3-03.azure-dns.org.
@@ -104,7 +106,7 @@ pop.hotmail.	172800	in	ns	ns2-09.azure-dns.net.
 pop.hotmail.	172800	in	ns	ns3-09.azure-dns.org.
 pop.hotmail.	172800	in	ns	ns4-09.azure-dns.info.
 sbqsjl84v6mnasc2q448t85j6jlpphvi.hotmail.	3600	in	nsec3	1 1 0 - EE5JB4N3N6C734EI37VSDGDCF4UU6TQ8 NS DS RRSIG
-sbqsjl84v6mnasc2q448t85j6jlpphvi.hotmail.	3600	in	rrsig	NSEC3 8 2 3600 20251030024903 20250925021933 1498 hotmail. RzaH/yR363yPOQJutnfDoUgK37KSTRAo9ZFzBfcsr9U9GRhlqFqt5o5reBaZWGmYmiCPU7DsW1E2rdUy1kB+r3pM2a7M+R0/P19iTud9IcibPMQeIWFjAeBBgc6eysOveNhfpPT6Y7det7DwnlU8/+OpEqsemb2WlFKQLkCb3ECiHLvTzGkcNKjDZuPLk299wV1QL8bVUMONWbIsXSCm6Aay0tA0sB/QDYZdz3aOFsop5e1fvwYu4OKqmqACKcI3d8StWI3M8NXGIc9UQuwv23eNb9oGMaD6NKFIHnu0JyrX8IvqGSk1BIVPjHJri2cfPaIkUY3L/xcU1qknCqcv9w==
+sbqsjl84v6mnasc2q448t85j6jlpphvi.hotmail.	3600	in	rrsig	NSEC3 8 2 3600 20260206040447 20260102033127 1498 hotmail. nqFqG8HmscpvgF9Fee0hF9eIcXWLeTI9vNCJkSeQY7yhYnq/okYBUsG3JoZ6oNr2q1Sw+BGqlzTAPxyDmUtsoRWT2HRvAeDTolkYP3wwoABfjLVqcNwRdjCdgOKmSYho/3+RXqt5OzWWJ/LrYjAgjd8fkTrVbtbrMVgaHOpi7qYNl5fr5z7L+kX+zspMQ4zGEhYdKSkLa0QmS5eV8GZ/6nyEOy1t4lVodsmk6fTnjTosOd3l8p+SxsEXlQu9PbpA1cmu2t+9yVk3xA3K3QKbOgkGErkl0Ln4Fax25Cs+pEJaM9mIqtoNIc7oCfCT8KZQcVUpJk5ZY/IyKj5lrXQIeg==
 sip.hotmail.	172800	in	ns	ns1-06.azure-dns.com.
 sip.hotmail.	172800	in	ns	ns2-06.azure-dns.net.
 sip.hotmail.	172800	in	ns	ns3-06.azure-dns.org.
@@ -125,4 +127,4 @@ yahoo.hotmail.	172800	in	ns	ns1-08.azure-dns.com.
 yahoo.hotmail.	172800	in	ns	ns2-08.azure-dns.net.
 yahoo.hotmail.	172800	in	ns	ns3-08.azure-dns.org.
 yahoo.hotmail.	172800	in	ns	ns4-08.azure-dns.info.
-hotmail.	172800	in	soa	dns1.nic.hotmail. hostmaster.nominet.org.uk. 1750680132 900 300 2419200 3600
+hotmail.	172800	in	soa	dns1.nic.hotmail. hostmaster.nominet.org.uk. 1750680099 900 300 2419200 3600
