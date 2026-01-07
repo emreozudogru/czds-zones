@@ -1,8 +1,14 @@
-apple.	3600	in	soa	a0.nic.apple. hostmaster.donuts.email. 1759366259 7200 900 1209600 3600
-3fvf4np0cbavnnegtplfg83eo881jna3.apple.	3600	in	nsec3	1 1 0 - 7M2OGM5BMGOS2LG6FIQL1Q9VOKNIBRK3 NS DS RRSIG
-3fvf4np0cbavnnegtplfg83eo881jna3.apple.	3600	in	rrsig	NSEC3 13 2 3600 20251018205415 20250928192415 22565 apple. fcvi3tvwQb+KIgL5VbFlmqWqsoQTyUZ8oM34C8dxWuGBGJ/SrBsQCP96KicuaQ+eBnVWGq9agao9UyEgKRXAhQ==
+apple.	3600	in	soa	c.ns.apple.com. noc.pch.net. 1767660016 7200 900 1209600 3600
+3fvf4np0cbavnnegtplfg83eo881jna3.apple.	3600	in	nsec3	1 1 0 - 6EOB8M8166NOJ17RORV4TDP8VK8NPQJT NS DS RRSIG
+3fvf4np0cbavnnegtplfg83eo881jna3.apple.	3600	in	rrsig	NSEC3 13 2 3600 20260123184114 20260103171114 30163 apple. g/WdgpImyhiNR69zll5XMVbPzAPTPgJ0gMJie4p7KV8Bxs3j+LOMdZ6uBj9j/EWbHkqMSuu5ORrLgkTLFXKv0Q==
+6eob8m8166noj17rorv4tdp8vk8npqjt.apple.	3600	in	nsec3	1 1 0 - 7M2OGM5BMGOS2LG6FIQL1Q9VOKNIBRK3 A AAAA RRSIG
+6eob8m8166noj17rorv4tdp8vk8npqjt.apple.	3600	in	rrsig	NSEC3 13 2 3600 20260123194014 20260103181014 30163 apple. P+9M54t42ADXhwfrqHwjf7XPaNSKSugv7EdZolLoUeOSyS4HA9AwCS9JIh/qfexpqmb4IzbWw4f92kSK9J8x1g==
 7m2ogm5bmgos2lg6fiql1q9voknibrk3.apple.	3600	in	nsec3	1 1 0 - AKT804KJDL6LRP9IUG27PFRSPDH91MON A AAAA RRSIG
-7m2ogm5bmgos2lg6fiql1q9voknibrk3.apple.	3600	in	rrsig	NSEC3 13 2 3600 20251018214029 20250928201029 22565 apple. CI4B4x7XRHSsL6aYoQsROIoobPbXVmMwaxTkJ+pYujTfBbJCB+zN3BXm1fQS7IlDT6zk+sh41v299r6XlFZZ8A==
+7m2ogm5bmgos2lg6fiql1q9voknibrk3.apple.	3600	in	rrsig	NSEC3 13 2 3600 20260123194014 20260103181014 30163 apple. qZY65xj46SDPz9p+6eeklA7ruF7aacBrZA93+O8sN6lHYQ+Uq6560eMr7S6eHmi0/ABFTGQSwy/CT0HhmMfZEA==
+a.ns.apple.	3600	in	a	17.253.200.1
+a.ns.apple.	3600	in	aaaa	2620:0149:0ae0:0000:0000:0000:0000:0053
+a.ns.apple.	3600	in	rrsig	A 13 3 3600 20260123194014 20260103181014 30163 apple. V7IZRWK53Oe6ryi5bQ+pwbk/2hph6UGo1WAzzvTb9wKYV6NibASOaTBuhOC/zsoQoNFUVPa+rlYXbef3JjpZzg==
+a.ns.apple.	3600	in	rrsig	AAAA 13 3 3600 20260123194014 20260103181014 30163 apple. b5QU7/JGNWJPAYy+1NXj5SmrSE/+N8+nVdm+JX90lWR9JJe+smyofpoDwRISD4GEM6g7gjnel5a/ofVbfTjGhA==
 a0.nic.apple.	3600	in	a	65.22.60.1
 a0.nic.apple.	3600	in	aaaa	2a01:8840:003a:0000:0000:0000:0000:0001
 a2.nic.apple.	3600	in	a	65.22.63.1
@@ -15,21 +21,23 @@ aci.apple.	3600	in	ns	a.ns.apple.com.
 aci.apple.	3600	in	ns	b.ns.apple.com.
 aci.apple.	3600	in	ns	c.ns.apple.com.
 aci.apple.	3600	in	ns	d.ns.apple.com.
-akt804kjdl6lrp9iug27pfrspdh91mon.apple.	3600	in	nsec3	1 1 0 - JQ54AN4Q262CNVFGS309OSB2EFHETC0V
-akt804kjdl6lrp9iug27pfrspdh91mon.apple.	3600	in	rrsig	NSEC3 13 2 3600 20251018214029 20250928201029 22565 apple. dI/Jx+k67u3qiqbJm2igd1I13VLn0G6yxPvytzEsNUSxXl7H/MLUnd2435QeAsOvVIipQMS1pMBztnapY4nu1w==
-apple.	3600	in	dnskey	256 3 13 jTUkWbM94lvmGaRKLSnASZjeaFWGjy3ihWZ3pKPZ5woi+JodCCxcGwZtlTEEyOC5bRkRY7IrSHTcCUl72/A6cw==
+akt804kjdl6lrp9iug27pfrspdh91mon.apple.	3600	in	nsec3	1 1 0 - CITIHGPJR1T5QNE7GT1MUV4UIG1VAKIA
+akt804kjdl6lrp9iug27pfrspdh91mon.apple.	3600	in	rrsig	NSEC3 13 2 3600 20260123194014 20260103181014 30163 apple. cJMO9/RIZHMBadtesZUuNPvNysoD1mQqohpEetCvKx/+3BxJ6p47itGIyVJw+X1As/S1zxSnpWrYK0UF3Bx6Ww==
+apple.	3600	in	dnskey	256 3 13 AwWoSHikXLs6LeIV+rS0ZHrE0morwaPq0PFd47wYEHRC+fUC9RNp6FZvwA9hiCr7pkHwUUuxmgKOf5bZvIZ1XA==
 apple.	3600	in	dnskey	257 3 13 3XgE53KtHsbjrSeSmYJIWCF/UlmUJXk1ZDvs1zMp1E16n+G8ohUedWzvSAAtkZhRQmuN9oso3ZfsGhjEqsPMAQ==
-apple.	3600	in	ns	a0.nic.apple.
-apple.	3600	in	ns	a2.nic.apple.
-apple.	3600	in	ns	b0.nic.apple.
-apple.	3600	in	ns	c0.nic.apple.
+apple.	3600	in	ns	apple-ns.pch.net.
+apple.	3600	in	ns	c.ns.apple.com.
+apple.	3600	in	ns	d.ns.apple.com.
 apple.	3600	in	nsec3param	1 0 0 -
-apple.	3600	in	rrsig	DNSKEY 13 1 3600 20251020192301 20250930175301 35642 apple. 1k+t3/hIpPSHoYL+/YZcORhmL7qJjEn9KD5iZ5awpuJwQ5mGHg9jOFGVNDd9MS1NtyHjJmY5rP8W5RwrljCdtg==
-apple.	3600	in	rrsig	NS 13 1 3600 20251018205415 20250928192415 22565 apple. yEUDf7rNoDayCzXhNENEnl7Fm/JdFLq6D3rPP+XLKTJbr1On5kwbnOCx8U2kloKwMGUXrmukOXAA4HptRQG+NA==
-apple.	3600	in	rrsig	NSEC3PARAM 13 1 3600 20251018205415 20250928192415 22565 apple. yzM9sNwryhdpVRA3bntti1NIhkca9jbnQjyKYZJuFo21QmmbR22bxsjF9X/XN0cHsFH3hXkc+8EQohk3dx9MkA==
-apple.	3600	in	rrsig	SOA 13 1 3600 20251022005059 20251001232059 22565 apple. B6nGP7lG+88SJOKzuFbPkwKYfqREHEhMeqTELjhHfuZqrvs/qpjuxVo+5E+y+SHZoWVqFr0UKQKjWljikO6Wkw==
-apple.	3600	in	rrsig	ZONEMD 13 1 3600 20251022005059 20251001232059 22565 apple. 77qJR+sxDJxu+f9vEKouANskZUlTM/eUdkfi1c4otC41DKVgwYYH168egpHhwgdTVpS9Qm2nL+bTl+m+jAD91A==
-apple.	3600	in	zonemd	1759366259 1 1 9E58EC95F665B2AB7D6FEDFDF1A8BBDB56387417F43171DC5FE4A39033EFAC3E11A7A97F8104C7B03E9F814F8E16FEC2
+apple.	3600	in	rrsig	DNSKEY 13 1 3600 20260125194011 20260105181011 35642 apple. IP2EXXNGbEM86b+0PwhZWvbHVZEUABxxaZfTjNOhdRc8+NsDkns18Lh//q2MJlKMoCgbIdPGNUo2bbCobseWtg==
+apple.	3600	in	rrsig	NS 13 1 3600 20260123184114 20260103171114 30163 apple. zyv4m/UR9YpVRknolFu+hJ8CYOP02nMjLXLMJ1aK79LBz3+7nFg3AmM5H9WmaAlZw6GDV0yiefilWWLNZB1+kg==
+apple.	3600	in	rrsig	NSEC3PARAM 13 1 3600 20260123184114 20260103171114 30163 apple. TMsSAuDpNXmnJEPxcoQ5JT78JsMttxBusEvapEjhsVsfqikzqI4Fx1Z1WBMn7G67Dbhw0b3R2dbgkAiCSLyulA==
+apple.	3600	in	rrsig	SOA 13 1 3600 20260126004016 20260105231016 30163 apple. EyYjxIbGDbvkNxlMSFbPjHjBoMPp5g5Vdk1K9n1ArUGnluXSv3REHEhoXQ77WNwl3/4LG1cxJgarPKiba7OdBQ==
+apple.	3600	in	rrsig	TXT 13 1 3600 20260126004016 20260105231016 30163 apple. 5tBJwbVdsIFxGHW5e9//EA7ZtyonvSzbliB2yQM70AjuYWM8hLvPir17N+I684/m/eaAm7IDh2E9pQZN1nzrtA==
+apple.	3600	in	rrsig	ZONEMD 13 1 3600 20260126004016 20260105231016 30163 apple. 29YIvlw2NMAd/6BEd27tZ47m6uckl5FQWN4Ik50tv2VNHC082w3tyRV4t4LPvJe1PqwWajLQfU5mAJMZYYaVig==
+apple.	3600	in	txt	"Generation Time ISO 8601: 2026-01-06 00:40:14"
+apple.	3600	in	txt	"Generation Time: 1767660014"
+apple.	3600	in	zonemd	1767660016 1 1 F30B418D332C2CC9847EBD38B91DD01D249F470A3C6FFC28055C8C92592794D1F409BC8DF21248BFA0F40C5B0867066E
 applearcade.apple.	3600	in	ns	a.ns.apple.com.
 applearcade.apple.	3600	in	ns	b.ns.apple.com.
 applearcade.apple.	3600	in	ns	c.ns.apple.com.
@@ -112,8 +120,8 @@ arcade.apple.	3600	in	ns	c.ns.apple.com.
 arcade.apple.	3600	in	ns	d.ns.apple.com.
 b.ns.apple.	3600	in	a	17.253.207.1
 b.ns.apple.	3600	in	aaaa	2620:0149:0ae7:0000:0000:0000:0000:0053
-b.ns.apple.	3600	in	rrsig	A 13 3 3600 20251018214029 20250928201029 22565 apple. EOzvK1NKKHxER/5SkkGyv4hbRWS7xf19Xceqmu0hIt6O5ZTQaYMbf4+cJ305xLxrvAGHGpxThj80AS4Nc3Bxjw==
-b.ns.apple.	3600	in	rrsig	AAAA 13 3 3600 20251018214029 20250928201029 22565 apple. TgK4Xt0/BK2R6bXdj2f9FJNVg+WiHQBvPFRvo6Xib0O3Z/s1kyexZGJxUOHAUjXk4VP10rwxiaDNc8zryPntVw==
+b.ns.apple.	3600	in	rrsig	A 13 3 3600 20260123194014 20260103181014 30163 apple. 5IJqDfCINy/+FufiqJb8WNiMCn2gbGS/z4xqcPmQbzEVFVWclfQbfIIL8VYn2P+wr5MbknYPbVaiBdHS/oHAbA==
+b.ns.apple.	3600	in	rrsig	AAAA 13 3 3600 20260123194014 20260103181014 30163 apple. LlMXSuwvw6PcNvko3Qd2JC5noKTFNSv9oR8IvmJy/zK4yBGbeH6SODzN8KnMUv0x99Krp2FW7K2LkTHzPP0Dww==
 b0.nic.apple.	3600	in	a	65.22.61.1
 b0.nic.apple.	3600	in	aaaa	2a01:8840:003b:0000:0000:0000:0000:0001
 b2b.apple.	3600	in	ns	a.ns.apple.com.
@@ -128,6 +136,10 @@ business.apple.	3600	in	ns	a.ns.apple.com.
 business.apple.	3600	in	ns	b.ns.apple.com.
 business.apple.	3600	in	ns	c.ns.apple.com.
 business.apple.	3600	in	ns	d.ns.apple.com.
+c.ns.apple.	3600	in	a	204.19.119.1
+c.ns.apple.	3600	in	aaaa	2620:0171:0800:0714:0000:0000:0000:0001
+c.ns.apple.	3600	in	rrsig	A 13 3 3600 20260123194014 20260103181014 30163 apple. 9GvBtf8L5zqhN+Vb11/m9e4hhsjXGTyQK3mOATk5MJs04BRVjnjKa8uGTvd8uJpjd0ZJSn8KnG/p8hWimOi8iw==
+c.ns.apple.	3600	in	rrsig	AAAA 13 3 3600 20260123194014 20260103181014 30163 apple. /ZNd4BkkA64A1jPJl0VxvS0vkIP6FNiFRpWzdrJtyDma+jbCYiNDdsU25YXiUlJ6R7UBx8efBG6WkTehwkVbFg==
 c0.nic.apple.	3600	in	a	65.22.62.1
 c0.nic.apple.	3600	in	aaaa	2a01:8840:003c:0000:0000:0000:0000:0001
 card.apple.	3600	in	ns	a.ns.apple.com.
@@ -142,6 +154,8 @@ ce-dm.apple.	3600	in	ns	a.ns.apple.com.
 ce-dm.apple.	3600	in	ns	b.ns.apple.com.
 ce-dm.apple.	3600	in	ns	c.ns.apple.com.
 ce-dm.apple.	3600	in	ns	d.ns.apple.com.
+citihgpjr1t5qne7gt1muv4uig1vakia.apple.	3600	in	nsec3	1 1 0 - JQ54AN4Q262CNVFGS309OSB2EFHETC0V A AAAA RRSIG
+citihgpjr1t5qne7gt1muv4uig1vakia.apple.	3600	in	rrsig	NSEC3 13 2 3600 20260123194014 20260103181014 30163 apple. ryZkR3u+Brmzylk1Yc7yg7rp5IVdcVTZSQO5LqpHIJAjAvpwFVj0etaT4g1jS9oFjGql2RfjIzUOTzrk7u+Mew==
 classical.apple.	3600	in	ns	a.ns.apple.com.
 classical.apple.	3600	in	ns	b.ns.apple.com.
 classical.apple.	3600	in	ns	c.ns.apple.com.
@@ -152,8 +166,12 @@ cloud.apple.	3600	in	ns	c.ns.apple.com.
 cloud.apple.	3600	in	ns	d.ns.apple.com.
 d.ns.apple.	3600	in	a	204.26.57.1
 d.ns.apple.	3600	in	aaaa	2620:0171:0801:0714:0000:0000:0000:0001
-d.ns.apple.	3600	in	rrsig	A 13 3 3600 20251018214029 20250928201029 22565 apple. nQYlfKwLbkUYqrdxz17aEJKyr/9iaAcJZRtQSLw2G6puObHZCF5Qd1ekDmSpAwru8ozyGeigEDNJY4tKy+lyEA==
-d.ns.apple.	3600	in	rrsig	AAAA 13 3 3600 20251018214029 20250928201029 22565 apple. AGdmXli55I+vstJFdx2Q9rDhwKnXwa+JDYoB4PvWp0ctjZvtJWew4PwUCUGEIKewpqJ3TO5lhGo/qKbngnwiRw==
+d.ns.apple.	3600	in	rrsig	A 13 3 3600 20260123194014 20260103181014 30163 apple. kCXorJewzuqM5iBgm4yYqmwLgzhHfmfOTvMwXGtC2oKvd3gcjUGVHC+nhAzwUX26C8MPWWpYPM+bWgdKypEW2g==
+d.ns.apple.	3600	in	rrsig	AAAA 13 3 3600 20260123194014 20260103181014 30163 apple. ORVZK7YAiwnPgkiEDfVuylc24SPSzbQ/kmejP+3HA2HFWXKJqhzZnDhCvSPR5+61aUn/mdWXhZOsxXLZ2Bx54A==
+e.ns.apple.	3600	in	a	203.119.88.1
+e.ns.apple.	3600	in	aaaa	2001:0dd8:0007:6001:00dc:0000:0000:0001
+e.ns.apple.	3600	in	rrsig	A 13 3 3600 20260123194014 20260103181014 30163 apple. shCHzz8rI5Czt6mugWoH3O0CReqSJNvyUYpr38Tp+TeDagCj6FURv5KA0riTth91cFflXCUnLCERBbNGMG5CGQ==
+e.ns.apple.	3600	in	rrsig	AAAA 13 3 3600 20260123194014 20260103181014 30163 apple. naNSBJ324VHktHGsCl+JZiogClBNAaNSoyNZ4ghJyxv9ZsiZ/2kFhYw2+eE86dzeDgXogMr4XaEM9+6NYRtvWQ==
 edge.apple.	3600	in	ns	a.ns.apple.com.
 edge.apple.	3600	in	ns	b.ns.apple.com.
 edge.apple.	3600	in	ns	c.ns.apple.com.
@@ -170,6 +188,10 @@ enterprise.apple.	3600	in	ns	a.ns.apple.com.
 enterprise.apple.	3600	in	ns	b.ns.apple.com.
 enterprise.apple.	3600	in	ns	c.ns.apple.com.
 enterprise.apple.	3600	in	ns	d.ns.apple.com.
+events.apple.	3600	in	ns	a.ns.apple.com.
+events.apple.	3600	in	ns	b.ns.apple.com.
+events.apple.	3600	in	ns	c.ns.apple.com.
+events.apple.	3600	in	ns	d.ns.apple.com.
 experience.apple.	3600	in	ns	ns-1193.awsdns-21.org.
 experience.apple.	3600	in	ns	ns-1559.awsdns-02.co.uk.
 experience.apple.	3600	in	ns	ns-246.awsdns-30.com.
@@ -206,12 +228,14 @@ int.apple.	3600	in	ns	a.ns.apple.com.
 int.apple.	3600	in	ns	b.ns.apple.com.
 int.apple.	3600	in	ns	c.ns.apple.com.
 int.apple.	3600	in	ns	d.ns.apple.com.
-jq54an4q262cnvfgs309osb2efhetc0v.apple.	3600	in	nsec3	1 1 0 - TMJ4E46L8BAUS8FUP8ATDKCIM42C0L2L A AAAA RRSIG
-jq54an4q262cnvfgs309osb2efhetc0v.apple.	3600	in	rrsig	NSEC3 13 2 3600 20251018214029 20250928201029 22565 apple. XDoddGO7nrMn5qxBh4UUjE3ju+tPqzc8ifQK0oZcHcEE2gpFtJ7wTTLenXa0OcJREwH9AnotUOfb3wTts0MMOQ==
+jq54an4q262cnvfgs309osb2efhetc0v.apple.	3600	in	nsec3	1 1 0 - LM5I984TFTAN9QV3N3PL7SSFD8MS397N A AAAA RRSIG
+jq54an4q262cnvfgs309osb2efhetc0v.apple.	3600	in	rrsig	NSEC3 13 2 3600 20260123194014 20260103181014 30163 apple. apH8nr5zyKsfHBac3Kma9rCu9V/GjxFgeMESXO/b5asdwZckOBN5x5u4EJ1C8Lm1oMWLYbF4klz0TM6gi1WJTQ==
 link.apple.	3600	in	ns	a.ns.apple.com.
 link.apple.	3600	in	ns	b.ns.apple.com.
 link.apple.	3600	in	ns	c.ns.apple.com.
 link.apple.	3600	in	ns	d.ns.apple.com.
+lm5i984tftan9qv3n3pl7ssfd8ms397n.apple.	3600	in	nsec3	1 1 0 - TMJ4E46L8BAUS8FUP8ATDKCIM42C0L2L A AAAA RRSIG
+lm5i984tftan9qv3n3pl7ssfd8ms397n.apple.	3600	in	rrsig	NSEC3 13 2 3600 20260123194014 20260103181014 30163 apple. 4lxpvOpW6yAmdmmf8hvWpzCKMV7PPacA5fltMhSxOlwvfcuzeweGxusW/CIFNKs+xNl1IcoukK+u/ytREl38tA==
 maps.apple.	3600	in	ns	a.ns.apple.com.
 maps.apple.	3600	in	ns	b.ns.apple.com.
 maps.apple.	3600	in	ns	c.ns.apple.com.
@@ -240,7 +264,7 @@ nic.apple.	3600	in	ds	39392 8 2 4905DDEBF1F853DFE363D1367179B5D17B534E13E10DDBDF
 nic.apple.	3600	in	ds	60516 8 2 434725DA0B247CC179E5432833772C6437935E2A6A36E9E5520AAEE267456291
 nic.apple.	3600	in	ns	c.ns.apple.com.
 nic.apple.	3600	in	ns	d.ns.apple.com.
-nic.apple.	3600	in	rrsig	DS 13 2 3600 20251015152611 20250925135611 22565 apple. iMNYrBdTlGrQUkj37XIardHemfujVm5vs6XF64h84dHim9U6cDsVkTDfdSYQ1SbI0eC1UwUEFgcGUn6zuegu3w==
+nic.apple.	3600	in	rrsig	DS 13 2 3600 20260123194014 20260103181014 30163 apple. PzZsvINPh1uo4gUw03hdLjzIxkOs8AOukDeOH3mqSaxO+Rl15NPctU8kudak0l8e6seSNjalMuOlWvYKt6vI5Q==
 one.apple.	3600	in	ns	a.ns.apple.com.
 one.apple.	3600	in	ns	b.ns.apple.com.
 one.apple.	3600	in	ns	c.ns.apple.com.
@@ -293,8 +317,8 @@ systemstatus.apple.	3600	in	ns	a.ns.apple.com.
 systemstatus.apple.	3600	in	ns	b.ns.apple.com.
 systemstatus.apple.	3600	in	ns	c.ns.apple.com.
 systemstatus.apple.	3600	in	ns	d.ns.apple.com.
-tmj4e46l8baus8fup8atdkcim42c0l2l.apple.	3600	in	nsec3	1 1 0 - 3FVF4NP0CBAVNNEGTPLFG83EO881JNA3 NS SOA RRSIG DNSKEY NSEC3PARAM ZONEMD
-tmj4e46l8baus8fup8atdkcim42c0l2l.apple.	3600	in	rrsig	NSEC3 13 2 3600 20251020192301 20250930175301 22565 apple. ImyqrQAW4uGO9VTQ0aBgfrwyRuFyJf8jHR7XW84Tz2i3mcghlXF0e6I0K9/b1O/Z3szRJXrcLCg/y8978OPafQ==
+tmj4e46l8baus8fup8atdkcim42c0l2l.apple.	3600	in	nsec3	1 1 0 - 3FVF4NP0CBAVNNEGTPLFG83EO881JNA3 NS SOA TXT RRSIG DNSKEY NSEC3PARAM ZONEMD
+tmj4e46l8baus8fup8atdkcim42c0l2l.apple.	3600	in	rrsig	NSEC3 13 2 3600 20260123184114 20260103171114 30163 apple. TQuDeXL37mZLk9QbdFC6TDAZ2bJ3MzOakQo7OMrWId7STT77Q3q/3Pr9QVqCoXqV5HzPCUkbjJJPxUmxboF2fQ==
 tv.apple.	3600	in	ns	a.ns.apple.com.
 tv.apple.	3600	in	ns	b.ns.apple.com.
 tv.apple.	3600	in	ns	c.ns.apple.com.
@@ -303,4 +327,4 @@ wallet.apple.	3600	in	ns	a.ns.apple.com.
 wallet.apple.	3600	in	ns	b.ns.apple.com.
 wallet.apple.	3600	in	ns	c.ns.apple.com.
 wallet.apple.	3600	in	ns	d.ns.apple.com.
-apple.	3600	in	soa	a0.nic.apple. hostmaster.donuts.email. 1759366259 7200 900 1209600 3600
+apple.	3600	in	soa	c.ns.apple.com. noc.pch.net. 1767660016 7200 900 1209600 3600
