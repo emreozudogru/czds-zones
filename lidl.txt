@@ -1,6 +1,9 @@
-lidl.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 152470 900 1800 6048000 3600
+lidl.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 156552 900 1800 6048000 3600
 a.nic.lidl.	3600	in	a	194.169.218.91
 a.nic.lidl.	3600	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0091
+academy.lidl.	3600	in	ns	ns.do-ex.com.
+academy.lidl.	3600	in	ns	ns.do-ex.net.
+academy.lidl.	3600	in	ns	ns.do-ex.org.
 amap-qs.lidl.	3600	in	ns	ns.do-ex.com.
 amap-qs.lidl.	3600	in	ns	ns.do-ex.net.
 amap-qs.lidl.	3600	in	ns	ns.do-ex.org.
@@ -74,7 +77,7 @@ dynamicdiscountingportal.lidl.	3600	in	ns	ns.do-ex.com.
 dynamicdiscountingportal.lidl.	3600	in	ns	ns.do-ex.net.
 dynamicdiscountingportal.lidl.	3600	in	ns	ns.do-ex.org.
 e6v9uoc49ea00ddb2ufoo69prdgm83gp.lidl.	900	in	nsec3	1 1 0 - V3VL1HF3AEJGH06P4P50H0NG1KAMCL9M NS SOA RRSIG DNSKEY NSEC3PARAM
-e6v9uoc49ea00ddb2ufoo69prdgm83gp.lidl.	900	in	rrsig	NSEC3 13 2 900 20251031151050 20251001134050 51100 lidl. qiUV+cOKoctJTnpWN7f8DExu2flnv1X0s7pd8S1YSgVC1LnThpsh+5qPRfueuXOZNsoAE3C61wwX/cVTc6g21g==
+e6v9uoc49ea00ddb2ufoo69prdgm83gp.lidl.	900	in	rrsig	NSEC3 13 2 900 20260120094632 20251221081632 51100 lidl. tqFIax3bo41txn2mC5R5KVx+/SNW60K+nuUDdOXw3KZvMD7jm01B/BODS7A7xjaht9q9SnoUPWzAGQsCBClikQ==
 employerbrand.lidl.	3600	in	ns	ns.do-ex.com.
 employerbrand.lidl.	3600	in	ns	ns.do-ex.net.
 employerbrand.lidl.	3600	in	ns	ns.do-ex.org.
@@ -235,13 +238,13 @@ lidl.	172800	in	ns	a.nic.lidl.
 lidl.	172800	in	ns	b.nic.lidl.
 lidl.	172800	in	ns	c.nic.lidl.
 lidl.	172800	in	ns	d.nic.lidl.
-lidl.	172800	in	rrsig	NS 13 1 172800 20251031151050 20251001134050 51100 lidl. vrjZDjAY44hK+hIxRcFhx9lcMKmPNFYhO6ksu89fV6ayKqFgdCo0F6/mAfjtuKz/kDjxj5+ZunAqTaxMdZuMGQ==
+lidl.	172800	in	rrsig	NS 13 1 172800 20260120094632 20251221081632 51100 lidl. Fx84X98B5AN6LDCumbKrpkeRFTjh1gs5gopIvN7SyejqZahAXrB2G2iVMB14bpQggqXBl0OrFjb0DO5h6xpUKg==
 lidl.	3600	in	dnskey	256 3 13 LhVaYHWbEQxGMBVBXgofqBoKAda+Nj5Orn0D5gG6Vk0qD5eyca9RSEY3Hzoj2qSJ56qsYWFyjXCjF6/VSWjmqg==
 lidl.	3600	in	dnskey	257 3 13 56EOAaMx2WJM+2pmjW8ybjBCFxTQlHr2iVVQHjaT139OsJob9v51p7vluRNAF7PZZUWF76iGnaipE/k91OSWFg==
-lidl.	3600	in	rrsig	DNSKEY 13 1 3600 20251031151050 20251001134050 25851 lidl. JIK9oAKRa3IyMpUPZxedoNWxU2XxEc1/9THmWIV4TQI/AOJGrkPB2n1NsPj/LFPkSfJnQ49ICZo8yn1nu64hYA==
+lidl.	3600	in	rrsig	DNSKEY 13 1 3600 20260120094632 20251221081632 25851 lidl. Jj5+ra3gbA8UfYuBQlcNDR/NDir3oMhKgRbf5wpDEYyAeIqrFp/07IPx9WGG9S6J0UZ/JE4aImFiGaVFk5AhRw==
 lidl.	900	in	nsec3param	1 0 0 -
-lidl.	900	in	rrsig	NSEC3PARAM 13 1 900 20251031151050 20251001134050 51100 lidl. xrMA36Y01CXfqILhs3OqWDTe92w+ZcAiizGPj9JZUkpeEN3rVETXZm07x2OGGbR8X6lBC58xsFazij44npJAwA==
-lidl.	900	in	rrsig	SOA 13 1 900 20251101011412 20251001234412 51100 lidl. iZDd03nJpK8vdIJYsqhjq7zo3vXglVZM1rh0rjlD51fKOEjRf+86k1HrE5IR9C3HijMvsHvZKWeX1JdVjRCqDw==
+lidl.	900	in	rrsig	NSEC3PARAM 13 1 900 20260120094632 20251221081632 51100 lidl. j1MzE5yM0wLROSiOS9dyO2tgszAAD1o9oFHRTSOUq/Cz1/LWkyFv85roLw8/62y3TNVmPNiDo9SU0qdwGPYp5A==
+lidl.	900	in	rrsig	SOA 13 1 900 20260205004328 20260105231328 51100 lidl. kLdnKF525z57Tya9VujbKJPP6ENmGyOZkeWWe6KROJKo8XS4Ooz049OTLpwIatBgCEmmJfpn8AeAwaRbAhiQTQ==
 lidlauks.lidl.	3600	in	ns	ns.do-ex.com.
 lidlauks.lidl.	3600	in	ns	ns.do-ex.net.
 lidlauks.lidl.	3600	in	ns	ns.do-ex.org.
@@ -279,7 +282,7 @@ nic.lidl.	3600	in	ns	a.nic.lidl.
 nic.lidl.	3600	in	ns	b.nic.lidl.
 nic.lidl.	3600	in	ns	c.nic.lidl.
 nic.lidl.	3600	in	ns	d.nic.lidl.
-nic.lidl.	3600	in	rrsig	DS 13 2 3600 20251031151050 20251001134050 51100 lidl. SbmLAKPIYFN8dI00Fo3y1av3ZOQeidCydlI5gOt+b2rB1d+cSwgacNqszKdWviR9GHWEhfrGsUL4TcxsId9RYQ==
+nic.lidl.	3600	in	rrsig	DS 13 2 3600 20260120113347 20251221100347 51100 lidl. QjgzNe01pwK3ghn4ztRm5bW/5ilCCpdcwsFNIgcNnZyPkaxxku/VH0GHSH6KhmBGdAoyOIg9qfcBHZL80kncWw==
 objectinfo-test.lidl.	3600	in	ns	ns.do-ex.com.
 objectinfo-test.lidl.	3600	in	ns	ns.do-ex.net.
 objectinfo-test.lidl.	3600	in	ns	ns.do-ex.org.
@@ -295,6 +298,8 @@ pep-l.lidl.	3600	in	ns	ns.do-ex.org.
 portalmaislidl.lidl.	3600	in	ns	ns.do-ex.com.
 portalmaislidl.lidl.	3600	in	ns	ns.do-ex.net.
 portalmaislidl.lidl.	3600	in	ns	ns.do-ex.org.
+psnf.lidl.	3600	in	ns	ns1.stackit.cloud.
+psnf.lidl.	3600	in	ns	ns2.stackit.zone.
 real-estate.lidl.	3600	in	ns	ns.do-ex.com.
 real-estate.lidl.	3600	in	ns	ns.do-ex.net.
 real-estate.lidl.	3600	in	ns	ns.do-ex.org.
@@ -306,6 +311,9 @@ recipes.lidl.	3600	in	ns	a11-65.akam.net.
 recipes.lidl.	3600	in	ns	a13-66.akam.net.
 recipes.lidl.	3600	in	ns	a16-67.akam.net.
 recipes.lidl.	3600	in	ns	a4-64.akam.net.
+remote.lidl.	3600	in	ns	ns.do-ex.com.
+remote.lidl.	3600	in	ns	ns.do-ex.net.
+remote.lidl.	3600	in	ns	ns.do-ex.org.
 retail-catalog.lidl.	3600	in	ns	ns.do-ex.com.
 retail-catalog.lidl.	3600	in	ns	ns.do-ex.net.
 retail-catalog.lidl.	3600	in	ns	ns.do-ex.org.
@@ -352,7 +360,7 @@ us.lidl.	3600	in	ns	ns.do-ex.com.
 us.lidl.	3600	in	ns	ns.do-ex.net.
 us.lidl.	3600	in	ns	ns.do-ex.org.
 v3vl1hf3aejgh06p4p50h0ng1kamcl9m.lidl.	900	in	nsec3	1 1 0 - E6V9UOC49EA00DDB2UFOO69PRDGM83GP NS DS RRSIG
-v3vl1hf3aejgh06p4p50h0ng1kamcl9m.lidl.	900	in	rrsig	NSEC3 13 2 900 20251031151050 20251001134050 51100 lidl. z3mx7E6DJBklHTh+ptobklkKppNZuOmH/eMuy3maeSgdK0sJX+mU2jLM/kwjhHkpp2h6vmOZ0ZdXM59sJz1cgw==
+v3vl1hf3aejgh06p4p50h0ng1kamcl9m.lidl.	900	in	rrsig	NSEC3 13 2 900 20260120113347 20251221100347 51100 lidl. wdt80eHmUce/GD9rKtHYNwUv1kV/4PERKjK5UXkRXlTQ3IYqMW28ho9OkL8uu2BImCTmlGFf5r8YF3jQoAk3XQ==
 vca.lidl.	3600	in	ns	ns.do-ex.com.
 vca.lidl.	3600	in	ns	ns.do-ex.net.
 vca.lidl.	3600	in	ns	ns.do-ex.org.
@@ -386,4 +394,4 @@ younited.lidl.	3600	in	ns	ns.do-ex.net.
 younited.lidl.	3600	in	ns	ns.do-ex.org.
 zup.lidl.	3600	in	ns	ns1.stackit.cloud.
 zup.lidl.	3600	in	ns	ns2.stackit.zone.
-lidl.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 152470 900 1800 6048000 3600
+lidl.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 156552 900 1800 6048000 3600
