@@ -1,8 +1,8 @@
-godaddy.	900	in	soa	a.nic.godaddy. admin.tldns.godaddy. 1759304223 1800 300 604800 1800
+godaddy.	900	in	soa	a.nic.godaddy. admin.tldns.godaddy. 1767591432 1800 300 604800 1800
 9cnnboia0qgdad20erafn377ca1ptn97.godaddy.	900	in	nsec3	1 1 0 - D5B7IUCF2MV902RRVVD5C19BUAE3LKIL NS DS RRSIG
-9cnnboia0qgdad20erafn377ca1ptn97.godaddy.	900	in	rrsig	NSEC3 8 2 900 20251011022127 20250927013332 56088 godaddy. e7NOrF+R7dCRbuuPdwrASGs9f2LM+DQGgYvXcwPObFk8dL4eJM4BBG9NgvvBOMw7Igv5YeuFLL5esJdpUlAKHKJKquMXZ50th76lroeGJeifcqcPo2Nv5EQbIjVZ5rAcUIEIflMkwLKQ/s7O/7LPBkYrNHtCcjUI2kmHtK6KU10yeQfE0UzjlrXJ0/8/jL2liABakEzPIJ1Tdcq+eRcUYg==
-_forcedupdate.godaddy.	300	in	rrsig	TXT 8 2 300 20251013202402 20251001063703 56088 godaddy. 2bGP/8PzEz6WJP8yK7zPksxeHMUrc9YvPPsux9dQmlTr27D4AXPAEa+04+Y4Tv1ixYtNvrP1r10e20sECdZBaHaxB6kS/PByI+UGMWM5HYIKjTTsETip6rq3uILV3NP3Xl050AXD/Y3d2Vsibk/rUqXJmSfAEDedBcj72UW4MajYkZ82gi5krYOMB21SlSXlRW72BF7LHv/PeJ9j/+dFKw==
-_forcedupdate.godaddy.	300	in	txt	"1759304223"
+9cnnboia0qgdad20erafn377ca1ptn97.godaddy.	900	in	rrsig	NSEC3 8 2 900 20260114165013 20251231162144 56088 godaddy. k1m20eGr1lpdGcocBUu+QS4FpmtcTmztUVoLkFN4AYzvXq0FSS7248RnjmpxJA8wu+k4J4Guuf8VtIqlRqMifJ/OPF3tKMswbb4BvTfSrqXHbyVnENMM59UyqBtgKALKd8U1muu3cZKHZlWFpOcXR7o/zLmGDYDFy2Ys2s42B2cf8FJ6INl+IvmCBeX0jnZusg55Ei60NkAD/CGPdYBRIQ==
+_forcedupdate.godaddy.	300	in	rrsig	TXT 8 2 300 20260115034351 20260105043712 56088 godaddy. b92HhJaP5cowSWc11sKugBVuOr320QVyZq68w97LUfNG9l/nlJAJuVFfMTY6UoqV2NCaFAtKvdrhLbQjSb6WOW4qK/yb+FCRmNdNywHutkQMsr3Uw7QqJidChs45DRAFajBJkT4nGXXfLbE1hI9jl+X+fXaM09uL+zm6okTDHgVwldOj4qv+WfmWg+vQD05aY6jaGK8kXRJyNYAnIMvQpg==
+_forcedupdate.godaddy.	300	in	txt	"1767591432"
 a.dnrs.godaddy.	86400	in	a	37.209.192.2
 a.dnrs.godaddy.	86400	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0002
 a.nic.godaddy.	86400	in	a	37.209.192.9
@@ -75,6 +75,8 @@ commercepartners.godaddy.	3600	in	ns	cns1.secureserver.net.
 commercepartners.godaddy.	3600	in	ns	cns2.secureserver.net.
 community.godaddy.	86400	in	ns	cns1.godaddy.com.
 community.godaddy.	86400	in	ns	cns2.godaddy.com.
+consumerpulse.godaddy.	3600	in	ns	cns1.secureserver.net.
+consumerpulse.godaddy.	3600	in	ns	cns2.secureserver.net.
 corporatedomains.godaddy.	86400	in	ns	cns1.secureserver.net.
 corporatedomains.godaddy.	86400	in	ns	cns2.secureserver.net.
 d.dnrs.godaddy.	86400	in	a	37.209.198.2
@@ -82,13 +84,13 @@ d.dnrs.godaddy.	86400	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0002
 d.tldns.godaddy.	86400	in	a	37.209.198.2
 d.tldns.godaddy.	86400	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0002
 d5b7iucf2mv902rrvvd5c19buae3lkil.godaddy.	900	in	nsec3	1 1 0 - JAO36ER98VEEN2UUQ3LMMEAGK5PGRAFF NS DS RRSIG
-d5b7iucf2mv902rrvvd5c19buae3lkil.godaddy.	900	in	rrsig	NSEC3 8 2 900 20251011022127 20250927013332 56088 godaddy. ENmr/05aKlRQ89mLBbFoBQ93LkrUpyFt5mH2QHNeYvy9xoLe0P+/GnQnqtAkHgGdf0jK78nlX5PfSzWK2D/mx020dqZj9U7UFSGNQCxAlp6rHfpF2SSjdFtX2yVuf6Cy91bX5/7eXbZ+dG9oaPZGEJ4EpBplZxaRKNNOeDHp7jj0/XT/KWwrhlcxXevN6wqLfNeen+HNFW5PZOF1cRbw9Q==
+d5b7iucf2mv902rrvvd5c19buae3lkil.godaddy.	900	in	rrsig	NSEC3 8 2 900 20260114165013 20251231162144 56088 godaddy. sVCYq31tq0GqI2+Uo2/ElhgBd6Di/hsFZ1uw+9jZvNHow4CNdJSWXJcZP7DY/Z5ZfsIMxdg7rS6Ftk/Uq/WzZ/rhbkVZZ+KSqeA6SAGmIL9Axg+/t7XCaJJEc+gsuxFxephe7bDmcibMApTzsJ3r8CwTxQ2uNUnTgVVnvpj4/nzjk0O2RQGleQY57eCHX6IFLt0T/3MwM84ZP+uqg8OycQ==
 dach.godaddy.	3600	in	ns	cns1.secureserver.net.
 dach.godaddy.	3600	in	ns	cns2.secureserver.net.
 de.godaddy.	3600	in	ns	cns1.secureserver.net.
 de.godaddy.	3600	in	ns	cns2.secureserver.net.
 dnrs.godaddy.	3600	in	ds	30592 8 2 91B5C2B958E7F48548957DB52201E68F46C7A79612DC5C8E1D5BF3273C334336
-dnrs.godaddy.	3600	in	rrsig	DS 8 2 3600 20251010095426 20250926093531 56088 godaddy. rQ8+P51Y9+qKt5j8Ri9e5ngCoz64WMRLcSWL2Vt/aCAMYY94BGqH+vo+793BlQBehrg4xAUGnsxYjqZOgLIXcSIL7l+0h3JKCcZ9tsBrDO4E5bG5t8PXf5tH8Yc+DiKWhqzDncVDLzkHFcsaJU4hT3C5XM0jPPS5nTx3usN5zA+96L8n7JL3evJCpaPvjJV0VDeN6SY/M1GKGXtxo1YWDw==
+dnrs.godaddy.	3600	in	rrsig	DS 8 2 3600 20260114031532 20251231023012 56088 godaddy. eWJOtWarQbAWXL9GnHMhRb0TCEgXOpRdlfSzkAODb9E1vhmWRCuihl+k9hyZ68UHv/ScmHS5M1HVOtc2vFO1jmTFga18X90UKHkXXPcjgcN2Ta0jDfqXe/eHyDodVcIqbmgfe0zOhjbFDJKqw0KKow4OC3evX3QFO9mjZmSXOBP0//ClIBN3w3SXi8lSvL69wewflzNA7DNo8EZ1Jld16Q==
 dnrs.godaddy.	86400	in	ns	a.dnrs.godaddy.
 dnrs.godaddy.	86400	in	ns	b.dnrs.godaddy.
 dnrs.godaddy.	86400	in	ns	c.dnrs.godaddy.
@@ -114,22 +116,22 @@ getpaid.godaddy.	3600	in	ns	cns2.secureserver.net.
 getstarted.godaddy.	3600	in	ns	cns1.secureserver.net.
 getstarted.godaddy.	3600	in	ns	cns2.secureserver.net.
 godaddy.	0	in	nsec3param	1 0 0 -
-godaddy.	0	in	rrsig	NSEC3PARAM 8 1 0 20251011022127 20250927013332 56088 godaddy. aGK5UdsFet8K5/MI3j9SjXri518ULInX17tDi1TpSN1L0bfAD7xRB2/r5d/odmHJzfuosrv5+r+qYpGlmNIUhFJi8NdG7Wewb7dTRwq5DKpfMTW/VU6pv06azA9+KgPh8VFCKokOzcELepNsMl+8OyQBwbwvBnsDE/EK5jPwHTD9vmLUTl8QWudywM3gNJWbdHpLLnqUF8cCzLPxcF4mVA==
+godaddy.	0	in	rrsig	NSEC3PARAM 8 1 0 20260114165013 20251231162144 56088 godaddy. mqHTqcWz/yFdLos2Ma7OaQ+HUYLH83ensThLmwgxeq5PMNZsSHtVvwNW2ghq0tO2EPlTvbovQmUc4IbZiZyr1w/IF3Fk94r+Tg841Kz6VTNAVL+M3kVh1mlBnCIuwCcIbQDgOCcW1GiAp4UEsurQY8IWhOcDqUtSY4PLzPoX6ikOyP2UnVPPZehGzN+gt+6YzoR4p9RBO2w5ZqfyHOiOnQ==
 godaddy.	172800	in	ns	a.nic.godaddy.
 godaddy.	172800	in	ns	b.nic.godaddy.
 godaddy.	172800	in	ns	c.nic.godaddy.
 godaddy.	172800	in	ns	x.nic.godaddy.
 godaddy.	172800	in	ns	y.nic.godaddy.
 godaddy.	172800	in	ns	z.nic.godaddy.
-godaddy.	172800	in	rrsig	NS 8 1 172800 20251010095426 20250926093531 56088 godaddy. jhohjVK5jFa/zlRvzGQ2A+507NhG6mIXqUL0Npyluxn+lCrHq7fSeKDEolATd4AETxOaBczOkK+euZMUWAhk+6+mSTwbLRn/t5zH/0uOaaazFMjBvGL4PJgl4hMILq8uK64sdrDeTHdV7Qw8sG2enZM0LGckg55NQZ+KcTyKj8sfHPM6r6f80wTFSoyoehBjQN2xzZv2e43PsrIpFLZedg==
+godaddy.	172800	in	rrsig	NS 8 1 172800 20260114031532 20251231023012 56088 godaddy. p2iuUJJeMn4h21h4rah0aM55konJ2Kj+hXrW/wZT5zZ45ZI7SmiTsILMhQfbrSJ37AuelJtal8/dpGGCGAzYCAGJSQx2e+yVsThHbMKUQAeKEAze2ySaFQ5YcK373FIA9jOYYq8FC6h4g4R3tuEp8uFga7ZGd5kxoatsVFjjK+PE5iLGgE5OuXD+OBUyfqeLQbeIm97hhByenFWIZSMpxQ==
 godaddy.	3600	in	cdnskey	257 3 8 AwEAAebyL29f9Tq62pj6zBHFo6+8udbX/MHXg9RBtfBcvnWT/DEd3lfCKkejBgqsqDXg4Bqr8WUJ4TM7xbfyA5nvtX4eqdliDgU7Bi1Ujs5PzKC+s5n9FBtZiQDN7TCixldUjTmOkwO0IcDMTwdI5Vhq5yG27AW8btKy6nQIba3LDwKE+6rOb7F6wyxTHStpSbyX9vIDmS7mBRlm8RFXCGwHYP3e9rUwmj+qPa2zXsJmFlQr7ZYQXXiTyYy/VPfSTSLctbUbUkduJUCHb819+pN5WV89bgbozmEmXvJRo4K3LpgZ56rfbMtKT6mKnrmhL7sg6OQ8KkVPQlJ1rVC47AWNC9c=
 godaddy.	3600	in	cds	31312 8 2 B9BFFDCD6A38A5A0E6C73CA45AE8F0B66799AE35A1B2CEA3C237F7F1910C9967
-godaddy.	3600	in	rrsig	CDNSKEY 8 1 3600 20251010102718 20250926101854 31312 godaddy. JVapkVc+9GSd/VtViU6M0Dj9yPY9OtgKws1hfMtyri8t/FfS1QW4vReV5Ay1ttPwdEQ+Sd3cgOgx3n0BT3Dec0XAi2RhCKSRQncDTjuoOGLgVjx31AKC1eGmB07lvXE1ImKyL7qidB6w+DBwe6hoX3jq1+vgaGYF60N/KnHmW5HvRj1PuPOwOrjcEARq9IBW18lc4IO0O6U3XnuvwqWtqhwWXZ5USQ/YkCM85BweZTzIW2y+CnkNy1nx//5LqExwnTiP5hO0iwnvrnwnaD/uYpYzmnEHIQ/b5xLz8hbHoGwnawcdxcJS9S7Khz/rso3iudGA1orfIUzRrbUeSRIr/w==
-godaddy.	3600	in	rrsig	CDS 8 1 3600 20251010102718 20250926101854 31312 godaddy. jPJA5Zso/an4YHn705tyBB3gDU9/lyYbZMU5SKj97tLWBgEvKkO4N7h3WX0iL42aC5uMummF1cMZShD568uYH0c2yUJL5h9/jkfwheUoINWRYDkpuNj3fnBJACPlCo6DdC9sWPe3qPq6SUoBn8ulFL8h1ST6Qc9nZm2h8aZm0EU5b9RsIGzxud9NCFz0S+a8vtJGWZ9JYh2GMwyxkQ6jTlLT8a5BInrfSeZM7r3Ro8JXdfYx0B+gv6bF43LxpD+dl71S2eXigFdR/gng8SRAUgm5FXhmVbM11w0/ZSK+PyobLbp+VNiUpAnJjDR47vEIzDXND3v+nKGj75YnXGdDxw==
+godaddy.	3600	in	rrsig	CDNSKEY 8 1 3600 20260114013122 20251231005417 31312 godaddy. u8hEHTl4Viau1L+ime9tw+zv/6Qv3cKHBWCnkWiKC0kcvPBQBa6VamUfwSwT16dcRvU+ScT0M8sLBlMz2vlHeJIoHWmfokiZw5zY0IWBrZJQYXGgdwHtaeiFM5wKenohkYiPUXY49ZG5P8LLHBWdjjiWwRTANYhita8uNU872ARA7WLSpnWAJM49vkmCoMUFjtlrwbdBuhXcq/U3fcNDSYZIU3R+wcsMgBArRrYMV7zMTHEE1gVsUJaWCniva8OnjSgDWvuHep4lQ/ZyCzwcTwNFCnh5mZmZqG+ObDvAGj6A+A9PD93WXDmHI5T/2pahSwWiUh6LFk8UaLPQzEplSg==
+godaddy.	3600	in	rrsig	CDS 8 1 3600 20260114013122 20251231005417 31312 godaddy. 4ChJqWtSlrwFta/l+j8D/5wAUXijgPqMnYyS/ns6C/UsKFiYhU+9otSrn2H9ewJ/HNiIpjO130vLff4BF3wL3/21LVwKBA2MUgcCz9mVdfJiMRZM2NSXc7PikUReQ6eYDL4THgSmnzPZSvKy25OQRDY0z0SOEoXp7M9AjccJqIy6CCce8j9WWMbYG0PG/Bd9SX2Of+qfgvKYBieANKUKyADDKRBTBkJgyiasIVo2CTN8FW1InO60l6AQWHG/3PVKM09bvuSrjQiJY2OwIjytUwR2S3icsBYMp4FRLVd5BTNkz2GCTN5dGpY0Fsz5EQvFR5c9swI6oRWoxzY6OV/ZAg==
 godaddy.	7200	in	dnskey	256 3 8 AwEAAdtUro0QNcBGz4MBPPgs43Y04+sKtmnr6iDYkJHhhZSIBvWO2t6xV1RvOHO5tAwuTIU9A1e/XKSKr8ejn/w+Tmvv28IjD0sKSO9KeLgM2N+0iBBMk9G4lGnO2Q8iqqn7T8xbI/D0D5rE/inkNCw7QP6KXadKluP9QZYJWsNPD7kl//0Lf7wVdJA6njAaSRFjl//w4m1vQZUkItuoxqWNsAM=
 godaddy.	7200	in	dnskey	257 3 8 AwEAAebyL29f9Tq62pj6zBHFo6+8udbX/MHXg9RBtfBcvnWT/DEd3lfCKkejBgqsqDXg4Bqr8WUJ4TM7xbfyA5nvtX4eqdliDgU7Bi1Ujs5PzKC+s5n9FBtZiQDN7TCixldUjTmOkwO0IcDMTwdI5Vhq5yG27AW8btKy6nQIba3LDwKE+6rOb7F6wyxTHStpSbyX9vIDmS7mBRlm8RFXCGwHYP3e9rUwmj+qPa2zXsJmFlQr7ZYQXXiTyYy/VPfSTSLctbUbUkduJUCHb819+pN5WV89bgbozmEmXvJRo4K3LpgZ56rfbMtKT6mKnrmhL7sg6OQ8KkVPQlJ1rVC47AWNC9c=
-godaddy.	7200	in	rrsig	DNSKEY 8 1 7200 20251010102718 20250926101854 31312 godaddy. 3P+SLJ3q846GjOENiMMdoWoaY2BQONv4markn1GeSq7tFztGxV6Mrkd8NnKRVib/xA+YWsNLnn0UaP3bAFxfIGIqYYhExY0LP+WULMEruFK3VdAs/+f1aTzurEpkhgovd+zeUnyu7gXMfvm5IxzROgWwBL+e/fuDUQvw7NmXRtknC6fWk4wGvQOX30g+LPdxxKuuSAslz+q/ihG2kioUHkfgCyBxZlZupW+B6/J2yNTXcq3AAqyUagHMvdqDi1SBuNM0YBqomoGaKVs/NOohcDUvs6/iX7KrNi0OGvhBpQw1UqEI6Q5by9KYimG2wNcWUHNR8JuHPNG3cpUpy4BAog==
-godaddy.	900	in	rrsig	SOA 8 1 900 20251015073703 20251001063703 56088 godaddy. VDXNrf8Vw4X/qwwklS/w1Z6eeoQxnPnSsQ4L8ZaTaP8SIMrYEN7GIEIyRHpdyuUCaJs7EAEGgrU/0kbxznG5U0tbXRq14+b7ppQYJtbuzFnDaXgmFRrMbBdGA6lIVo+HvcmBhSgPCHHV3GN5D6ObI5lPtefdPVeT0elaDKoEUp9qLaCVNHXnOoPsibp0AcwPMqJdtXUjmuA8WY1UPsBT5w==
+godaddy.	7200	in	rrsig	DNSKEY 8 1 7200 20260114013122 20251231005417 31312 godaddy. HN6nxnd8bckuYNcm1KNNk9CzycDtp4BQhi/ZSEudsl0XYmWAwtSnC7s1OMc8cTtGMQY4wxuxfWAUD4nEC/rriI8bTnIgKtU6A5iAOWgSaVeesrpWCH37jt21laCmlnDnAvTASi6crJ8Ln2VSDkEU79Edqrkowi96Z8WNcpyKFI4LwW2taaNIEOhkxKDXiWlEgZPfCzY1GGcGyJ9267eMmRBDKcIzBKzIZSV70vcglextqVNK/1RufHB1Xo9Aj8lBYPoQvPfezh4mV+wYVa0QgCK2eEGKrPZkNAD1HS/jkyQr0Hahv3Cqc6TesbEuKJ1r7GQoMQD5WOSljn16YQMHiQ==
+godaddy.	900	in	rrsig	SOA 8 1 900 20260119053712 20260105043712 56088 godaddy. OsVWaZzr23AaUsH63QMTuE7cgVU8Pee/+PxG3OmXoMtx/rOhTjfxSMGIMShyXwoUwJTt9SC0BIZ5sFkYyggw9xQ7MY/EOSEpHyIsMg0peOrb+og3VGmHM9DOVIpvpaHLLRJ45jGh0Aq0gqMuqq5nV2R1ZIJR/ExsInCwdarfSuA8VXgn6GzpcDDBlSIUHZcdMpUGAvBUM1xV0HLicFU5Kg==
 goforth.godaddy.	86400	in	ns	cns1.secureserver.net.
 goforth.godaddy.	86400	in	ns	cns2.secureserver.net.
 gwp.godaddy.	86400	in	ns	pdns196.ultradns.biz.
@@ -163,7 +165,7 @@ it.godaddy.	3600	in	ns	cns2.secureserver.net.
 ithelp.godaddy.	3600	in	ns	cns1.secureserver.net.
 ithelp.godaddy.	3600	in	ns	cns2.secureserver.net.
 jao36er98veen2uuq3lmmeagk5pgraff.godaddy.	900	in	nsec3	1 1 0 - OTAE4EU4T6B7DFJ5QBS9VNIRNMI97ONJ NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-jao36er98veen2uuq3lmmeagk5pgraff.godaddy.	900	in	rrsig	NSEC3 8 2 900 20251010102718 20250926101854 56088 godaddy. eio0730V107GhSx5mUqxsxaZDEU0uOL2yRsvWjLGQ0Xi8EADlCNvjcZhADpfrYybxsjYjI3fEV+PnrBwfyBkNyW3HaEJsnU/CrZOksXC+7ck7m06LRbAv6s+5pmlwWXcT1n+4TUpRTNpQxxjN62y5Z/GqO74WbwnV/n1Ux6QBtBa8nip8VhiZRwQqWbsFtd1LumMzhus0Vz2ysiEwmnRRQ==
+jao36er98veen2uuq3lmmeagk5pgraff.godaddy.	900	in	rrsig	NSEC3 8 2 900 20260114013122 20251231005417 56088 godaddy. UAxUDfp/80TB37ZaGADYDDHMJ8Ktrl0reygd7WbaHGiprL+ZVK3jxDObuU8dgUVFyB22VzSeLvAwFWoDSN48aysk49aKSzewDJltEYg07so6xORTJokdLNnKwyPmtFyZ8J0ZsJIA94VndEEiaz9zvJ4GsHiyZSwaXJPADA+VW0VjKkV2nsOc0K6pCS6cjQSuZ2SKRGE6jPMVm7jmxNLUkw==
 ksa.godaddy.	3600	in	ns	cns1.secureserver.net.
 ksa.godaddy.	3600	in	ns	cns2.secureserver.net.
 launchnow.godaddy.	3600	in	ns	cns1.secureserver.net.
@@ -184,6 +186,8 @@ mena.godaddy.	3600	in	ns	cns1.secureserver.net.
 mena.godaddy.	3600	in	ns	cns2.secureserver.net.
 mexico.godaddy.	3600	in	ns	cns1.secureserver.net.
 mexico.godaddy.	3600	in	ns	cns2.secureserver.net.
+microbusinessdata.godaddy.	3600	in	ns	cns1.secureserver.net.
+microbusinessdata.godaddy.	3600	in	ns	cns2.secureserver.net.
 mine.godaddy.	3600	in	ns	cns1.secureserver.net.
 mine.godaddy.	3600	in	ns	cns2.secureserver.net.
 mx.godaddy.	3600	in	ns	cns1.secureserver.net.
@@ -201,7 +205,7 @@ nic.godaddy.	172800	in	ns	x.nic.godaddy.
 nic.godaddy.	172800	in	ns	y.nic.godaddy.
 nic.godaddy.	172800	in	ns	z.nic.godaddy.
 nic.godaddy.	3600	in	ds	20695 8 2 1F4D77C6DADF5AE83E2F90D7910A1E9322948EF3A7F5FC0F1E1568A5EAA4AFD8
-nic.godaddy.	3600	in	rrsig	DS 8 2 3600 20251010095426 20250926093531 56088 godaddy. wVkH+VLFSANyftJi3jLbgq4CBwSHKZnkU+fiufZrqfEwnz1x8yXdybSldtl3ZpmL84hocA7Gl7t+ICvbhJJhOfDTPiO3GH/B43jdui14Nvzqs+p48/Wp7zgOeRuHLSXVjFMaJ2IcPMjiMbPl6e543Xvz0NqXwlInak1gcSrlRlv9k2XbWB8zRcL0zSMtc0H9msQNhbNF3fU/+OZ5TkzALA==
+nic.godaddy.	3600	in	rrsig	DS 8 2 3600 20260114031532 20251231023012 56088 godaddy. czvZ8X+Ojq6HUO4Lb0QGQDw/D39JzQfhB2hpXmv5t8NM4k3MY0VzgtRmJy4VAa3QTinAs3w0Jsl8Nns9Hs/NWuiWw0x0u+Sn4w9A/HdY09vLEsJKufmrG6qQEFIpuDOGX86qVs3xH5YjD/7SRIA5Ze7BRTKqMUXeRzKwfnLsxPbXdJ53eSpTtRMcXM35SnfbySzdCEoXLDPluvtLXIMpZg==
 nil.godaddy.	3600	in	ns	cns1.secureserver.net.
 nil.godaddy.	3600	in	ns	cns2.secureserver.net.
 noexcuses.godaddy.	3600	in	ns	cns1.secureserver.net.
@@ -209,7 +213,7 @@ noexcuses.godaddy.	3600	in	ns	cns2.secureserver.net.
 open.godaddy.	86400	in	ns	cns1.secureserver.net.
 open.godaddy.	86400	in	ns	cns2.secureserver.net.
 otae4eu4t6b7dfj5qbs9vnirnmi97onj.godaddy.	900	in	nsec3	1 1 0 - SKIVMBJS9V7GC3NO0EOBFOLUDSMR8JL2 TXT RRSIG
-otae4eu4t6b7dfj5qbs9vnirnmi97onj.godaddy.	900	in	rrsig	NSEC3 8 2 900 20251011022127 20250927013332 56088 godaddy. WXrxUcOsbXH9bRagbJgNr3mzdhQuhEgeCCgS+nfbXR4UCmLnKoP6ZACCfDURbgqEENtrHHcsdJrBhmsp8jyNF/L8R/7v6hjNyXK9i68uM6KhseAgQzLGWNOMMnh1IgWgXSaHtYt2/SFlPBGeMUNv1zg03IvxDMKM/Se783FDqMubTyAueXZ84MTZLNBIhHdy5MQbRg4o57D3YP9xv2PVGA==
+otae4eu4t6b7dfj5qbs9vnirnmi97onj.godaddy.	900	in	rrsig	NSEC3 8 2 900 20260114165013 20251231162144 56088 godaddy. rI/0/95Cavia0AwkpRSfckPyRmXFlqH1ShGRrX0vzuctDSXbHvmxxxYeP8uHK5ujEslDqqvShMi2TQP0Pj0szWhZR/iCHhfGOYy1drEbNW8eWncEHpm6mpwkGccvRh/4QjY4vQKwYp6OV/Y3qENjDMw9LBs+sdongwBKiA4OfmBYvFH4bCHpuHVLbpAoXAWV2RnZXhJnmBPswz+KMVmHzw==
 passion.godaddy.	3600	in	ns	cns1.secureserver.net.
 passion.godaddy.	3600	in	ns	cns2.secureserver.net.
 payments.godaddy.	3600	in	ns	cns1.secureserver.net.
@@ -242,6 +246,8 @@ registrychina.godaddy.	3600	in	ns	cns1.secureserver.net.
 registrychina.godaddy.	3600	in	ns	cns2.secureserver.net.
 registrypodcast.godaddy.	86400	in	ns	cns1.secureserver.net.
 registrypodcast.godaddy.	86400	in	ns	cns2.secureserver.net.
+research.godaddy.	3600	in	ns	cns1.secureserver.net.
+research.godaddy.	3600	in	ns	cns2.secureserver.net.
 rtms.godaddy.	86400	in	ns	pdns196.ultradns.biz.
 rtms.godaddy.	86400	in	ns	pdns196.ultradns.co.uk.
 rtms.godaddy.	86400	in	ns	pdns196.ultradns.com.
@@ -255,7 +261,7 @@ secure.godaddy.	86400	in	ns	cns2.secureserver.net.
 service2startup.godaddy.	3600	in	ns	cns1.secureserver.net.
 service2startup.godaddy.	3600	in	ns	cns2.secureserver.net.
 skivmbjs9v7gc3no0eobfoludsmr8jl2.godaddy.	900	in	nsec3	1 1 0 - 9CNNBOIA0QGDAD20ERAFN377CA1PTN97 NS DS RRSIG
-skivmbjs9v7gc3no0eobfoludsmr8jl2.godaddy.	900	in	rrsig	NSEC3 8 2 900 20251011022127 20250927013332 56088 godaddy. R3bSoy5vLTvVt2Rn4h6EUv/Z+9MKsDsc/xrXofnUF2idk9/6Sgsk1LnXYUIvrTrdxwBvmfWFKY34t++Gwo9arFFjY4g9kfKZNoJncYNhlUGX4voXR6vOBSHr2y2B13BenVXvN6MvvF1nLhQ4LYJWV7NqKGzJ7EvfHxMilQXNNDzgPj2tboFhOnigp4bFA+D88CMncVfFpbMELdDtohygFw==
+skivmbjs9v7gc3no0eobfoludsmr8jl2.godaddy.	900	in	rrsig	NSEC3 8 2 900 20260114165013 20251231162144 56088 godaddy. 1FXEnH+VKEQHF+JsC00bzIXc/sT0cJqzy2hJfk0sPgoHNFCZf9Pt/Y/7q1qAm0AZuRuqpXJLutWIfsbTfydXv1cv46Bgy3jWrhDCiPn4TZ2JUAXv9yc32HMphBZsklsSG4M6KhQOmaGOwJL/ThRyQpKn0qn67z9uCSeQrEz3wic5R25Lm0R2xSB/wuTL8jdPuYY/9Mbx57RhSltAFWR9CA==
 social.godaddy.	3600	in	ns	cns1.secureserver.net.
 social.godaddy.	3600	in	ns	cns2.secureserver.net.
 spain.godaddy.	3600	in	ns	cns1.secureserver.net.
@@ -271,7 +277,7 @@ switzerland.godaddy.	3600	in	ns	cns2.secureserver.net.
 teamariana.godaddy.	3600	in	ns	cns1.secureserver.net.
 teamariana.godaddy.	3600	in	ns	cns2.secureserver.net.
 tldns.godaddy.	3600	in	ds	39277 8 2 8FE09E4B5F7225FCA7AB1398EB19E089E54CAC613988DC6F4DD3C98D5681D9D9
-tldns.godaddy.	3600	in	rrsig	DS 8 2 3600 20251010095426 20250926093531 56088 godaddy. LmGNtcOhBj5vaGRovRV+PDsFy1a8D3YmpF0fWDDnNTHkIdC05vwMwPNnVUstza6HwxKsVEg6XS6ze2js8bIfKdXn7hbD6whyfqTrtDKM1qSwa2xTU2PuUxN5ZH8DNc88w7+STAu+RCDRHtEfe5X+q03ZlgUWIEK80ScPmtMdXtQ1REmc30ZHnCr2ijbC6imOQKowD05tN5+DwPWHK5guTQ==
+tldns.godaddy.	3600	in	rrsig	DS 8 2 3600 20260114031532 20251231023012 56088 godaddy. seEjGkYXN3BuJ6Of8K0od/u5BwDuULyOwpS3jHINKXFT2kvf3hdkSQZUunv5nSCMcouvpD9owILUwkPXhaoRr2Awm5nW14qt/q0caLjZfpPj/GbiCckLc/ykWQdBW8y0yjMUSdm7qzkRNaRPxMq2KHcHD9+dy1jdH1TSuNjbbgPS1ylpkMcKsm2IYuYMDmdiqK6q3eNA/Rv+unvIjJVqdg==
 tldns.godaddy.	86400	in	ns	a.tldns.godaddy.
 tldns.godaddy.	86400	in	ns	b.tldns.godaddy.
 tldns.godaddy.	86400	in	ns	c.tldns.godaddy.
@@ -304,4 +310,4 @@ yourbrand.godaddy.	3600	in	ns	cns1.secureserver.net.
 yourbrand.godaddy.	3600	in	ns	cns2.secureserver.net.
 z.nic.godaddy.	172800	in	a	156.154.174.82
 z.nic.godaddy.	172800	in	aaaa	2610:00a1:1076:0000:0000:0000:0001:0082
-godaddy.	900	in	soa	a.nic.godaddy. admin.tldns.godaddy. 1759304223 1800 300 604800 1800
+godaddy.	900	in	soa	a.nic.godaddy. admin.tldns.godaddy. 1767591432 1800 300 604800 1800
