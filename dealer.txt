@@ -1,7 +1,11 @@
-dealer.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1759365305 900 1800 6048000 3600
+dealer.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1767660213 900 1800 6048000 3600
 1xbet.dealer.	3600	in	ns	ns1.dnsres.net.
 1xbet.dealer.	3600	in	ns	ns2.dnsres.net.
 1xbet.dealer.	3600	in	ns	ns3.dnsres.net.
+247.dealer.	3600	in	ns	curitiba.ns.porkbun.com.
+247.dealer.	3600	in	ns	fortaleza.ns.porkbun.com.
+247.dealer.	3600	in	ns	maceio.ns.porkbun.com.
+247.dealer.	3600	in	ns	salvador.ns.porkbun.com.
 3m.dealer.	3600	in	ns	a.ns.3m.com.
 3m.dealer.	3600	in	ns	b.ns.3m.com.
 8xbet.dealer.	3600	in	ns	dns1.registrar-servers.com.
@@ -55,6 +59,8 @@ bilbasen.dealer.	3600	in	ns	dns01.dipcon.com.
 bilbasen.dealer.	3600	in	ns	dns02.ports.se.
 bilbasen.dealer.	3600	in	ns	dns03.ports.se.
 bilbasen.dealer.	3600	in	ns	dns04.ports.net.
+bitcoin.dealer.	3600	in	ns	pdns09.domaincontrol.com.
+bitcoin.dealer.	3600	in	ns	pdns10.domaincontrol.com.
 blum.dealer.	3600	in	ns	ns1.eurodns.com.
 blum.dealer.	3600	in	ns	ns2.eurodns.com.
 blum.dealer.	3600	in	ns	ns3.eurodns.com.
@@ -64,8 +70,6 @@ bmw.dealer.	3600	in	ns	ns2.brandshelter.de.
 bmw.dealer.	3600	in	ns	ns3.brandshelter.info.
 bmw.dealer.	3600	in	ns	ns4.brandshelter.net.
 bmw.dealer.	3600	in	ns	ns5.brandshelter.us.
-bob.dealer.	3600	in	ns	ns07.domaincontrol.com.
-bob.dealer.	3600	in	ns	ns08.domaincontrol.com.
 botnet.dealer.	3600	in	ns	meiling.ns.cloudflare.com.
 botnet.dealer.	3600	in	ns	scott.ns.cloudflare.com.
 bpmcars.dealer.	3600	in	ns	ns1.safebrands.fr.
@@ -82,6 +86,11 @@ c.nic.dealer.	3600	in	aaaa	2a04:2b00:13ee:0000:0000:0000:0000:0138
 candy.dealer.	3600	in	ns	dns1.safenames.com.
 candy.dealer.	3600	in	ns	dns2.safenames.net.
 candy.dealer.	3600	in	ns	dns3.safenames.org.
+cantieredelpardo.dealer.	3600	in	ns	ns1.brandshelter.com.
+cantieredelpardo.dealer.	3600	in	ns	ns2.brandshelter.de.
+cantieredelpardo.dealer.	3600	in	ns	ns3.brandshelter.info.
+cantieredelpardo.dealer.	3600	in	ns	ns4.brandshelter.net.
+cantieredelpardo.dealer.	3600	in	ns	ns5.brandshelter.us.
 cargigi.dealer.	3600	in	ns	ns1.markmonitor.com.
 cargigi.dealer.	3600	in	ns	ns2.markmonitor.com.
 carsforsale.dealer.	3600	in	ns	ns1.dns.inc.
@@ -125,13 +134,13 @@ dealer.	172800	in	ns	a.nic.dealer.
 dealer.	172800	in	ns	b.nic.dealer.
 dealer.	172800	in	ns	c.nic.dealer.
 dealer.	172800	in	ns	d.nic.dealer.
-dealer.	172800	in	rrsig	NS 8 1 172800 20251031153046 20251001140046 26325 dealer. PTVQ4SPcTnWiDlMSwQoZrTTY2+Dz0ROE3s2SmRYsdtLxdmt+g7+YsDwBb0Su9FW8bC0WLzNsODz8STW2FOI05qj84apcBOnIKMkWoduGzh+kVR4C0lPV4F+Xh6czLCgRuZ3SZD/Y/GBLluCZMiwBQ0qW8rHWUBIwd0jq3V1Z9QU=
+dealer.	172800	in	rrsig	NS 8 1 172800 20260120102534 20251221085534 26325 dealer. S99H3r9cJnwVPnxfNQQTwq6dNItwEEZpr9flvBZw2XDFEo4HUPZd9yXHvTwpgzNRXpH8rEy2xm45+GgjiK+IDF75nA6ukA3pUvXWzQKUM1nn8L2AoED/Na/1qB0eHMyq93eY7vgCFBpv42ztVXCicnqTFpm01OwIzrx5inZIc5c=
 dealer.	3600	in	dnskey	256 3 8 AwEAAZkQSaUjetP/pBSk/VkN/hsP7OTmK88eKy738f60MrXbDBQmCRG3GH/G/Ru0GfP0sLn3GRYsFAGnaR7eaoPbGvQRnHLQMO50Pl4KyzIW/lBkXWbiG7iDhJ8JRSelBt5BHTeTkU4OOSc/dxqRyOluZ+lHfEXbjo3QIBtXSIk2NFhP
 dealer.	3600	in	dnskey	257 3 8 AwEAAc2bJLe4BfXrNKEgs2LB+/3DjVKBB5WM9yhTExOcXPUpr77g/61Da+4BVWbMTkXw0HLe221xlKM+ruUaR1B0GtEZHuNt7VLSp/Kgr1k9RnBCJWZP7HIUg2/BMzHSjulB2GO/UI0ygfcG+6ZWMxBTuEXm9aUHz4wObKfx4iN9rw8vH2FTkJmtr4w806j4SW9W2TblUzD4SvDNJss3yRZhRiJiW4a2I24L/ntGVVK5KXCwkyMB+tyhuqAm5C3AEQiSCBUtZeZlkaiM830XUhQU9mJHtVci5YYeQdYJPzBa27W9Du2wqELmzdMddcxWKOstKky1+PcjpIs7wzbrP6vKnQs=
-dealer.	3600	in	rrsig	DNSKEY 8 1 3600 20251031153046 20251001140046 31235 dealer. BUw3oxLQsNWkYIjz2aWUiLLb3oZygKfA8BhnuVtKk9xjYlXbyR6WBujtC4ThIPt2XTPFwyqCcykR72zfAvV/Ehqgvqs/wdfzK9qwFAVid5EYfr2wkclC5wXCii2kYohr5TpeWhbpm94R4AX4J4qbFG2FFYXte/Ee6dpGpXwHj/0NrEJf+SyySutHjVG8foDCDtC2IE5+aRQsG3BHWLCJEpAhcJaUeF9NPHzTdVoSX6U5OpUEpm+R3QvHn4qZDOBeDb5XqWSPGbNwBdCh2pj0p/C8tNXAetlx3X/nh1OFlELCVxKKepnvg98kqddLBPK1r7h2DDsfqo9kENk1IPAq6A==
+dealer.	3600	in	rrsig	DNSKEY 8 1 3600 20260120102534 20251221085534 31235 dealer. IshVFtBdC6HxxsVmUVfQzkbz9x6jPof/ng5MwNS3XctgW16ZbJyIjB16Ze1IZyU6JukZMdDpczWTO7usOsfjYgYftFIo5xqrSryXfV+ySw/IpnpcpoIv+tmwsM95CRZhnc0NTfkqNAZcVrIpnh5cJIqlDpTCLYFQr/LMqsU5+UPkPoYXcJ6iAINuNTDkgEbOsRxTeR6EUsc5UufkIS1/JXz9tL86I+58CxD9YXS0m6bGsbGGXFcAJzYGsf+8X2JWRacqpfQY18wpPyY3p/ooEYHFDM42V90TNGZCR/p97PqC3GdZPs8/P/roAyQnwgFRqL12X+Avb5JNR7Hw0K8oFQ==
 dealer.	900	in	nsec3param	1 0 0 -
-dealer.	900	in	rrsig	NSEC3PARAM 8 1 900 20251031153046 20251001140046 26325 dealer. AdeSH69dObx8/cZ2LcHdKofbbqqvB+SvZYZjXVW7FzlA5P5bKEKevOWhjeurc8Esvh3yNRrFJ56ZLqO8uy3iC86mwcORZslfOezgA1Ksspuzsen8oFtx0m/m0xM9JGy6ikcaQZPoPitAtbFoQUPeyk30tVPvG4lfN4iySGiKAVY=
-dealer.	900	in	rrsig	SOA 8 1 900 20251101003505 20251001230505 26325 dealer. TX7hwakV6V4p6YuifUrphKucCpAeE/34N1HYC7bzx01WDOy2h7LEPheM8B/UXb1PzngRefX494iJbk9IM09BOuBboG2vhGKoydS9dNzoH7lWJVt9F56Y2qCS7cLbQNaXoOsYkjYyMc5V9Td6OkXLX1X2Yxkq5SHbwbTw2uCGXso=
+dealer.	900	in	rrsig	NSEC3PARAM 8 1 900 20260120102534 20251221085534 26325 dealer. ZGCQMoZQXbAxlJ0kVmSPyDELXsg9vxVaPdSdT2ZqjPKBdoIVRDKN9eEM1bJAt6DAnxa9V3/uXznTfJOIzD76h8vQXi5WQO9mEy5+17v35lrCmvWCjhnlSfWYGHNj8IPkcik/3KJKa9uUM/+XY2DMN3SUl3hCRHelGoMZ0sVYKHI=
+dealer.	900	in	rrsig	SOA 8 1 900 20260205004333 20260105231333 26325 dealer. T5jjYZX+pnZvnaWCm4VUWwut+KjMbTErKFT+YmM15wQhCatrzpHygXC8ECXYS7yAQSQtb4EJks4t1WvNOwxJOJiaLS0PTvrNROtHYWSf19S7nHtewUbP1WjVTbIGmLM/Wwq6JiLMfSHtzYXW06+SGHc8Mz0fJEKlVYzw9oN1t54=
 discounttire.dealer.	3600	in	ns	dns1.cscdns.net.
 discounttire.dealer.	3600	in	ns	dns2.cscdns.net.
 draftkings.dealer.	3600	in	ns	nsgbr.comlaude.co.uk.
@@ -171,6 +180,8 @@ eth.dealer.	3600	in	ns	ns1.dan.com.
 eth.dealer.	3600	in	ns	ns2.dan.com.
 evtol.dealer.	3600	in	ns	ns1.101domain.com.
 evtol.dealer.	3600	in	ns	ns2.101domain.com.
+ex.dealer.	3600	in	ns	ns1.dyna-ns.net.
+ex.dealer.	3600	in	ns	ns2.dyna-ns.net.
 exness.dealer.	3600	in	ns	ns1.markmonitor.com.
 exness.dealer.	3600	in	ns	ns3.markmonitor.com.
 f8bet.dealer.	3600	in	ns	harleigh.ns.cloudflare.com.
@@ -178,7 +189,7 @@ f8bet.dealer.	3600	in	ns	peyton.ns.cloudflare.com.
 festo.dealer.	3600	in	ds	24207 13 2 F223E9F2FA85850757DBE04CDB89C1FD0DB76604F57E27C520D84898262B09BE
 festo.dealer.	3600	in	ns	ns2.atvirtual.com.
 festo.dealer.	3600	in	ns	ns6.atvirtual.com.
-festo.dealer.	3600	in	rrsig	DS 8 2 3600 20251031153046 20251001140046 26325 dealer. XKmV+c49to+JX2uev0Fw+clszE1cmqheGBSbEwfPZUen/aKebs7IxR92cQyF66MXH2tTyyFlxHqVkOZVvcvOk2dXfN4y/aCwY1zf3diHwou8IJyYubbF8jq5N1usF9nyysfBg8KlA6zFiYoQjJGu8dxO+iQn0TzYQzDrd8iFyCc=
+festo.dealer.	3600	in	rrsig	DS 8 2 3600 20260120121304 20251221104304 26325 dealer. EcWpfwcj7+9Vea2GsAksejCSRY2bvwedhP5SWuLnwXP36olPCDutqkztzzTMxDhy3lMAF3XNdnrf74wOe4Z6jKWuuYDcyPXG+EO4PtnEfFjwGrynuf59jVtA2os8rqlavdtwLz+Da2nPgp0p9JCjptiIU1N4PFLDe3QdX9nEAGY=
 fire.dealer.	3600	in	ns	nsgbr.comlaude.co.uk.
 fire.dealer.	3600	in	ns	nssui.comlaude.ch.
 fire.dealer.	3600	in	ns	nsusa.comlaude.net.
@@ -193,6 +204,8 @@ gigworktips.dealer.	3600	in	ns	ns6501.hostgator.com.
 gigworktips.dealer.	3600	in	ns	ns6502.hostgator.com.
 gmo.dealer.	3600	in	ns	ns1.gm111.parklogic.com.
 gmo.dealer.	3600	in	ns	ns2.gm111.parklogic.com.
+go88.dealer.	3600	in	ns	elliot.ns.cloudflare.com.
+go88.dealer.	3600	in	ns	wren.ns.cloudflare.com.
 google.dealer.	3600	in	ns	ns1.googledomains.com.
 google.dealer.	3600	in	ns	ns2.googledomains.com.
 google.dealer.	3600	in	ns	ns3.googledomains.com.
@@ -293,13 +306,19 @@ luckyrebelsportsbook.dealer.	3600	in	ns	dns3.idp365.net.
 lumber.dealer.	3600	in	ns	ns1.101domain.com.
 lumber.dealer.	3600	in	ns	ns2.101domain.com.
 m82bu0eq5ji6mj7anfa1pg15gmfuqo4m.dealer.	900	in	nsec3	1 1 0 - ND11M65OA542LJSLP2O8S1Q8CC5EHQUO NS DS RRSIG
-m82bu0eq5ji6mj7anfa1pg15gmfuqo4m.dealer.	900	in	rrsig	NSEC3 8 2 900 20251031153046 20251001140046 26325 dealer. e8jDumCB6O7Jr2oQCG0LIRJGMPKVns5SoMilHpgdo0SNgvzX3lJbDa3/oGEtgi07Lx2rf8qezblwK6w4C3ne/gFRGQ8g9M0pCvLBK/UFF2Li+X6IiY28WXtkAxYb7RF6UEsLr+IX7LFc9j4CGkKESSaoj1kZiSAIvZGdIglWHp4=
+m82bu0eq5ji6mj7anfa1pg15gmfuqo4m.dealer.	900	in	rrsig	NSEC3 8 2 900 20260120102534 20251221085534 26325 dealer. Xqu/Uy0a0JHbZBYATGZVlbONPMnr8FMh+DP1p6kMBxnLEgirwPM70mgFyjEw7YGUA0tChPXIbI0E6StKZlBajnn/3H37VW+vdkB1mjXfozJgkvKrrFbN6uLkkdSackNBFkMfSu5qgMECqll8QOVeKlsu8j8vUQGE8wAkefoWw20=
 mac.dealer.	3600	in	ns	a.ns.apple.com.
 mac.dealer.	3600	in	ns	b.ns.apple.com.
 mac.dealer.	3600	in	ns	c.ns.apple.com.
 mac.dealer.	3600	in	ns	d.ns.apple.com.
+manheim.dealer.	3600	in	ns	edns3.ultradns.com.
+manheim.dealer.	3600	in	ns	edns3.ultradns.net.
+manheim.dealer.	3600	in	ns	ns52.ultradns2.com.
+manheim.dealer.	3600	in	ns	ns52.ultradns2.org.
 mcafee.dealer.	3600	in	ns	dns-a.mcafee.com.
 mcafee.dealer.	3600	in	ns	dns-b.mcafee.com.
+mcp.dealer.	3600	in	ns	dns1.registrar-servers.com.
+mcp.dealer.	3600	in	ns	dns2.registrar-servers.com.
 meme.dealer.	3600	in	ns	ns37.domaincontrol.com.
 meme.dealer.	3600	in	ns	ns38.domaincontrol.com.
 mercedes-benz.dealer.	3600	in	ns	ns1.corpinter.net.
@@ -333,24 +352,26 @@ motors.dealer.	3600	in	ns	ns2.markmonitor.com.
 motorsuk.dealer.	3600	in	ns	ns1.markmonitor.com.
 motorsuk.dealer.	3600	in	ns	ns2.markmonitor.com.
 nd11m65oa542ljslp2o8s1q8cc5ehquo.dealer.	900	in	nsec3	1 1 0 - P3ONOR21R326MLUC1TGMM8T88CU7L8GU NS DS RRSIG
-nd11m65oa542ljslp2o8s1q8cc5ehquo.dealer.	900	in	rrsig	NSEC3 8 2 900 20251031153046 20251001140046 26325 dealer. ii8socFnw3UUGnD5rDccA7s6TneuiLB4s9FOwDAG4Pw4nz7m0fpT0n5KEjJkSq2B3zmYpK2YeV8NhyMIrg9bqIfMOPhGF1+n9z/8Md7n3i66S7wipDoPszV0jt0awNQdMLi9C/AMU/317hyF3wbmr0nGM8WNZruUHBi/yxKC0e0=
+nd11m65oa542ljslp2o8s1q8cc5ehquo.dealer.	900	in	rrsig	NSEC3 8 2 900 20260120121304 20251221104304 26325 dealer. j2B4XRYgG5gIMjjEGbFTg0AiGWsAaVRlKO+j2ndde25285DzoCofsJICqM8sfkOlHoxFq0pb+h7J/7jHo6ZRxpySYKhP4s2JEHGIgGdLmHZqAg+7tUBIHMbkptkks2VA7ziJkYXVEDmBPLu+XaSsB7EHLksPKW3Su8tRmM+gPwY=
 nic.dealer.	3600	in	ds	39805 8 2 F7416357786A14931D35D98A64B6A4096F4FE8A2260CC59B6E9F7AD3E0FDF700
 nic.dealer.	3600	in	ds	48602 8 2 0A72ECF44CC3D46DD37A4F9AF120FE883B1B115C932EA0328A6077C5A28C85F5
 nic.dealer.	3600	in	ns	a.nic.dealer.
 nic.dealer.	3600	in	ns	b.nic.dealer.
 nic.dealer.	3600	in	ns	c.nic.dealer.
 nic.dealer.	3600	in	ns	d.nic.dealer.
-nic.dealer.	3600	in	rrsig	DS 8 2 3600 20251031153046 20251001140046 26325 dealer. Tw8/5GYk+PGrBhH0fNmEXER7Az3M7wBIRM4Xdo4ELFuAqieWthqtA4VpGmUsw+5HtdKEaVZYb8uwdj0gtIb0yEkwwMwISexSfjSyJEdI+z99xTbb4SlvlI74+WLkAJDnv4xVOyvqXoPpBoLMp7SIYBbu+UMM4SlZPjqRE+xP2qs=
+nic.dealer.	3600	in	rrsig	DS 8 2 3600 20260120121304 20251221104304 26325 dealer. OExg1jtGditXJgmQxBWpEPQPkXjMvu6CsFaqxXOeJAbHa+Yla2sXc3GLWh10zMq1cz3hzx3BZryGoKvY+fnH9ZqrAANbvFfrhk/9S3cJfhzDoopjl6Xq0RQHfnUhODd/m3pV3REPRBV6/Lvc7L/5o8U2kBbHUBFzAAWQRaZ1OHg=
 nok88.dealer.	3600	in	ns	curitiba.ns.porkbun.com.
 nok88.dealer.	3600	in	ns	fortaleza.ns.porkbun.com.
 nok88.dealer.	3600	in	ns	maceio.ns.porkbun.com.
 nok88.dealer.	3600	in	ns	salvador.ns.porkbun.com.
+nvidia.dealer.	3600	in	ns	ns03.domaincontrol.com.
+nvidia.dealer.	3600	in	ns	ns04.domaincontrol.com.
 olx.dealer.	3600	in	ns	ns-1124.awsdns-12.org.
 olx.dealer.	3600	in	ns	ns-1684.awsdns-18.co.uk.
 olx.dealer.	3600	in	ns	ns-430.awsdns-53.com.
 olx.dealer.	3600	in	ns	ns-685.awsdns-21.net.
 p3onor21r326mluc1tgmm8t88cu7l8gu.dealer.	900	in	nsec3	1 1 0 - M82BU0EQ5JI6MJ7ANFA1PG15GMFUQO4M NS SOA RRSIG DNSKEY NSEC3PARAM
-p3onor21r326mluc1tgmm8t88cu7l8gu.dealer.	900	in	rrsig	NSEC3 8 2 900 20251031153046 20251001140046 26325 dealer. gCDxHw9AcpvDN0D/59bfsuhRC6poNJ0ti4oLKvli2vBtk8Tv5fHu9dmp1LkyTn6U4e/pgW7noAntbcQFgqiQxwWa8Sk6ErYI+9Jj4VFlNJGfm+sL/IrpCCs8sA8DD2qjNuxBwyvUWRy42x2W4uVNWYsqn8TiwBrNtcAwVBg1mK8=
+p3onor21r326mluc1tgmm8t88cu7l8gu.dealer.	900	in	rrsig	NSEC3 8 2 900 20260120102534 20251221085534 26325 dealer. lT5ouL2INkLgxmiEmCUanZN6SqL70+NbTolUCU/pubd78OvoNJDEjdguq1PoQ3blH0AI+qTUCTGN/uemxzjuTFQnNnAN+Xkm9bezkxEao/kJ0VmYnT2nPDmlzimeFuXu9BcQqzqRBRLMfD3NG/7NtJ84El2EyRzoPwlPZD9FNco=
 patagonia.dealer.	3600	in	ns	ns1.markmonitor.com.
 patagonia.dealer.	3600	in	ns	ns2.markmonitor.com.
 patagonia.dealer.	3600	in	ns	ns3.markmonitor.com.
@@ -373,13 +394,11 @@ platinumperformance.dealer.	3600	in	ns	ns4.markmonitor.com.
 platinumperformance.dealer.	3600	in	ns	ns5.markmonitor.com.
 platinumperformance.dealer.	3600	in	ns	ns6.markmonitor.com.
 platinumperformance.dealer.	3600	in	ns	ns7.markmonitor.com.
-powergaming88.dealer.	3600	in	ns	dns1.registrar-servers.com.
-powergaming88.dealer.	3600	in	ns	dns2.registrar-servers.com.
+powergaming88.dealer.	3600	in	ns	nile.ns.cloudflare.com.
+powergaming88.dealer.	3600	in	ns	sasha.ns.cloudflare.com.
 prime.dealer.	3600	in	ns	nsgbr.comlaude.co.uk.
 prime.dealer.	3600	in	ns	nssui.comlaude.ch.
 prime.dealer.	3600	in	ns	nsusa.comlaude.net.
-property.dealer.	3600	in	ns	ns75.domaincontrol.com.
-property.dealer.	3600	in	ns	ns76.domaincontrol.com.
 qsc.dealer.	3600	in	ns	dns.lithonia.com.
 qsc.dealer.	3600	in	ns	ns1.acuitybrands.com.
 qsc.dealer.	3600	in	ns	ns2.acuitybrands.com.
@@ -390,6 +409,8 @@ renault.dealer.	3600	in	ns	anna.renault.fr.
 renault.dealer.	3600	in	ns	xenia.renault.fr.
 revinate.dealer.	3600	in	ns	ns69.domaincontrol.com.
 revinate.dealer.	3600	in	ns	ns70.domaincontrol.com.
+roam.dealer.	3600	in	ns	maxim.ns.cloudflare.com.
+roam.dealer.	3600	in	ns	meg.ns.cloudflare.com.
 rolex.dealer.	3600	in	ns	dns1.p03.nsone.net.
 rolex.dealer.	3600	in	ns	dns2.p03.nsone.net.
 rolex.dealer.	3600	in	ns	dns3.p03.nsone.net.
@@ -415,6 +436,8 @@ sportsbetting.dealer.	3600	in	ns	dns2.idp365.net.
 sportsbetting.dealer.	3600	in	ns	dns3.idp365.net.
 stayhomefashiontrends.dealer.	3600	in	ns	ns6501.hostgator.com.
 stayhomefashiontrends.dealer.	3600	in	ns	ns6502.hostgator.com.
+sunwin.dealer.	3600	in	ns	dns1.registrar-servers.com.
+sunwin.dealer.	3600	in	ns	dns2.registrar-servers.com.
 sv368.dealer.	3600	in	ns	mitchell.ns.cloudflare.com.
 sv368.dealer.	3600	in	ns	pam.ns.cloudflare.com.
 teledyne.dealer.	3600	in	ns	dns1.ipmanagerinc.net.
@@ -450,8 +473,8 @@ tupperware.dealer.	3600	in	ns	ns3.tupperware.net.
 twitch.dealer.	3600	in	ns	nsgbr.comlaude.co.uk.
 twitch.dealer.	3600	in	ns	nssui.comlaude.ch.
 twitch.dealer.	3600	in	ns	nsusa.comlaude.net.
-ufabet.dealer.	3600	in	ns	dns1.registrar-servers.com.
-ufabet.dealer.	3600	in	ns	dns2.registrar-servers.com.
+ufabet.dealer.	3600	in	ns	delilah.ns.cloudflare.com.
+ufabet.dealer.	3600	in	ns	kareem.ns.cloudflare.com.
 vastify.dealer.	3600	in	ns	curitiba.ns.porkbun.com.
 vastify.dealer.	3600	in	ns	fortaleza.ns.porkbun.com.
 vastify.dealer.	3600	in	ns	maceio.ns.porkbun.com.
@@ -493,4 +516,8 @@ zoetis.dealer.	3600	in	ns	ns4.markmonitor.com.
 zoetis.dealer.	3600	in	ns	ns5.markmonitor.com.
 zoetis.dealer.	3600	in	ns	ns6.markmonitor.com.
 zoetis.dealer.	3600	in	ns	ns7.markmonitor.com.
-dealer.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1759365305 900 1800 6048000 3600
+zyn.dealer.	3600	in	ns	curitiba.ns.porkbun.com.
+zyn.dealer.	3600	in	ns	fortaleza.ns.porkbun.com.
+zyn.dealer.	3600	in	ns	maceio.ns.porkbun.com.
+zyn.dealer.	3600	in	ns	salvador.ns.porkbun.com.
+dealer.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1767660213 900 1800 6048000 3600
