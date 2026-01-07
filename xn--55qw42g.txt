@@ -1,6 +1,9 @@
-xn--55qw42g.	86400	in	soa	ns1.conac.cn. root.conac.cn. 1759359603 1200 600 604800 43200
+xn--55qw42g.	86400	in	soa	ns1.conac.cn. root.conac.cn. 1767654003 1200 600 604800 43200
 aj28c6fh286junckt9q87qf0dn27tihk.xn--55qw42g.	43200	in	nsec3	1 1 25 e8af9e09b1410d85  vt1kjvosjmi78fi7id3a9av0ngmlr2a4 ns ds rrsig 
-aj28c6fh286junckt9q87qf0dn27tihk.xn--55qw42g.	43200	in	rrsig	nsec3 8 2 43200 20251221042253 20250803160004 34378 xn--55qw42g. ejZ58/WtC8KPKIMip3KMHswMcPlKPw5suRjHTDvff3l+WY8dKaHch4jy4XFmcEXhlZeZXinqLWbjjw5PS3lnuqhHCxbETw1jk97lVJsM+9MbYfBDDz4n2kJjbVaB1nLcxGZLsHG9JHbwrP4uldplLaecsq9jXRRkNfprPp/ddwc3+WcxDkdtUXUzyh1lX2W0ndzOPh+MEQRVspA9kznzMavj/SBFvdV16nnHipw4V94tGXZQwx5v9uieQqEPyF6FGQhSU91VlbOkdtgDkgwKAvHHyQLRQ+ZIMX/mzO+ZmGD1Heq6M/y7ItsCXPROQ3aX7Blbx2FPiQwmhUpG4nWxmw==
+aj28c6fh286junckt9q87qf0dn27tihk.xn--55qw42g.	43200	in	rrsig	nsec3 8 2 43200 20260508115700 20251219053033 34378 xn--55qw42g. T/J+r3x/kcq29hwfLKwPRi0pUUEoXCAifKabk6KzD5l1o+enmXPFxQ1/VDfu7KkyfZF1miqztvZju4hjhx8kR8+UFaVAedtI56pq0LLq13u5yzbjtWLTys1MjbEiSBHrecwWj7LTbgw09/m6UXiKC4QC7RqNYqSfJeFfJwGeFD1j0UeipvEVBhgsPFjfQfmRrbLORQlclKMLSh2VArBjKaSTfFdJQ7ftJrIurVsmvZPoIkBe+gNtVYaDDpWA/041fM9vn7LG7ar+pjjjR8j/Qcn6F7nBuPdlxpAHDMV5GzsZMPYOLTlXBVqh8Yvz3IcQ94zUBA6LTo9E+dy/TFXKDw==
+jiayuduoceheyi.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+jiayuduoceheyi.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+jiayuduoceheyi.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
 nic.xn--55qw42g.	43200	in	ds	34252 8 1 6d5272c54a3905bb599eb7309b163dc4e9f8bc82
 nic.xn--55qw42g.	43200	in	ds	34252 8 2 4b16a1203761884947a7e75034409b6eb801108b6edaefb596c5e2c2f410cb32
 nic.xn--55qw42g.	43200	in	ds	64372 8 1 23b3db27b30af1f9001fbb0b1d6d721a60c01e53
@@ -12,20 +15,158 @@ nic.xn--55qw42g.	43200	in	ns	ns4.conac.cn.
 nic.xn--55qw42g.	43200	in	ns	ns5.conac.cn.
 nic.xn--55qw42g.	43200	in	rrsig	ds 8 2 43200 20260209152104 20250921203034 34378 xn--55qw42g. g9/89+ea/ASbhUGNSSKbtkGHnNakMN95PDwGTIrXPmNK6/XG4tP8US0ksP0FHtfd666ZxHDOEdzY5yH7HNnCHjkI1FTROzIOnyr35fGnheZMutISJ20bVh40+O0k0O2Vb4Szm5817aHacVFJ2Kmd4lsnfIDrUGfbWHGZx2pvL1Q8ghQtPgwVRWCpc4EkQV6g8ICyk2KjsS1Z8pjOQuxKicvHg7s/qW+zok6/W2EYryRnxQ71MfVfNlmwyvPm8w+NOkFGUY/Z+6jQVnJ+Y0DKjtZ/Ta7q/e/F3BfNPSWZsb80nsfPOnP3QEQgEL41Xwq764BFZhM95gUvTD5sdJeuDA==
 vt1kjvosjmi78fi7id3a9av0ngmlr2a4.xn--55qw42g.	43200	in	nsec3	1 1 25 e8af9e09b1410d85  aj28c6fh286junckt9q87qf0dn27tihk ns soa rrsig dnskey nsec3param 
-vt1kjvosjmi78fi7id3a9av0ngmlr2a4.xn--55qw42g.	43200	in	rrsig	nsec3 8 2 43200 20251222064309 20250803170004 34378 xn--55qw42g. SYQrRiMHTBzmIQ++1s+v40249ar3x1eQ0q8mHX5a3ieYbIbsOazvPi2ckavq/z/JjyI5Jws29PSHMzTu7Gmw13dhsjCsr/asfG5b3Z/4KcMnnR/ODCyOvqFdZgFD0/cCW9XwaIlw7To/NbPmJrIqUlBL/iKs0ydbLM0IAy7Hv6qz3XuNuT1LaALtWLQvRAUzj0VIhwAAyfjlGmhYSa8frSzXtDff13YBzKO7sZC5HOIRaTY3l4raQKNFSeaUTsC+q3Tfw/vYytoMUcSZIsOxvHGMZwtOJ6Kj9MKYsqnWuzvicUyLQDmAmhxZDKHkV048iHuzDRzgGJSuFmExAk/vMQ==
-xn--4gqprs5i8vku9cb32alfy0m1bosl.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
-xn--4gqprs5i8vku9cb32alfy0m1bosl.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
-xn--4gqprs5i8vku9cb32alfy0m1bosl.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+vt1kjvosjmi78fi7id3a9av0ngmlr2a4.xn--55qw42g.	43200	in	rrsig	nsec3 8 2 43200 20260508131222 20251219053033 34378 xn--55qw42g. 2vG8igrycRVq4tSKC1rvHmZiWzdXkES5QOx3fm2XWSt5w2DUrS8ZIXGhDkpd+9rBFcmhd5IkCKG2uRspOYT3X4dOrm03dqWHLbcLXiFAdnvGG3nMpBtUZwrlDgv7qrqwEFfMv3p0XfCdcKG2/NHoOnugAT6sqHWd8+ajnQgAtUi/zLCDD/PxaIqqiuADk8V4gHCmh6rWof9r/amIZRci7R8YvR32yYDl5jxP59r8t3EnajCiEZA3NRPWMcBJ+Eh97d+tgxX2WFUvZSzJIRy2UJzjDaR/hg7vQkLb+GEXYbDrSFXJ97JL5QlTbwKITOLR3/ezbTe/U/JGFCEUU7n1RA==
+xn--48s5b111af6zxjyzli.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--48s5b111af6zxjyzli.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--48s5b111af6zxjyzli.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--4gq1d47q75ivzn3rmpkv.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--4gq1d47q75ivzn3rmpkv.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--4gq1d47q75ivzn3rmpkv.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--4gq1d947bwvay7hr24a7knpzel8d.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--4gq1d947bwvay7hr24a7knpzel8d.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--4gq1d947bwvay7hr24a7knpzel8d.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--4gqra3iuso24cpvdht1e.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--4gqra3iuso24cpvdht1e.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--4gqra3iuso24cpvdht1e.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--4gqra501bj1mjyj115aj23b.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--4gqra501bj1mjyj115aj23b.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--4gqra501bj1mjyj115aj23b.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--4gqrbub7g143bfsn6yyjorqrxhjax44c.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--4gqrbub7g143bfsn6yyjorqrxhjax44c.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--4gqrbub7g143bfsn6yyjorqrxhjax44c.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--55q9nt7a76gic849ax1aba39gt1iwy9au9petkhhjxybb91du50hngb.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--55q9nt7a76gic849ax1aba39gt1iwy9au9petkhhjxybb91du50hngb.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--55q9nt7a76gic849ax1aba39gt1iwy9au9petkhhjxybb91du50hngb.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
 xn--55qw42g.	0	in	nsec3param	1 0 25 e8af9e09b1410d85 
-xn--55qw42g.	0	in	rrsig	nsec3param 8 1 0 20251223134731 20250805173004 34378 xn--55qw42g. QBm+SgMHZl1VP5r19zhcYGfGBSBsQv5v+0iq58XF641kqZxNYdSVUg3YKKZ1ftCRiGT1H/ui5+XKuQzD0cuMW8AY6x0vUje0HBIKb9R4dnjR8unimLkgHIO2X3QiVNRibsyZ1JCTAy4XjBMOuDrqlmltBk2B4fJxSGR80hGUh0//AMDU34aHAsVp4RnYWLiYVAMxSwTwlDJx4PoLhHXcJ2rNVFSV//VvaF+IoVm0sHDJl1hemJUNyCMCVMrO5Fj6AuGXlvk0YZhOFpgeW5Zr55T/vberjOWvrSoT0tVGGiS4E/NoDmvcPu8A1E0WHvz4wnuzpcQRhysDLnIALwG+lA==
+xn--55qw42g.	0	in	rrsig	nsec3param 8 1 0 20260510120542 20251220120034 34378 xn--55qw42g. RzKxztH2Mlxg+9XTE0k3xP2TW3mVM8O8m59HMu28iR9hub4Zv57FTsGIfl5IPrEAmcan97hFKDLj59mOjDpP1XdgeXYzACDlgolmO0znAQYBCuL1zqMPr5xps1dBzF03zFsZMBfz6xSpiTQ+pEaNogr7NeLnbRomTXen3++kfq9J00szJp1tum+lU9bMzXYly5REEkQTrludgaZzpxOxcMaGZGO9ZhySZwJ7dzT02T+c4Fw6btg5QmZC4Te0RBU7kkFOCegbjkprPVpYjMM0dgf7aa3StAEleb/RVshG3Ajudc6biRqTre7N2OrRa6plMvWKXv5emjllV3E3E8Tt/g==
 xn--55qw42g.	43200	in	ns	ns1.conac.cn.
 xn--55qw42g.	43200	in	ns	ns2.conac.cn.
 xn--55qw42g.	43200	in	ns	ns3.conac.cn.
 xn--55qw42g.	43200	in	ns	ns4.conac.cn.
 xn--55qw42g.	43200	in	ns	ns5.conac.cn.
-xn--55qw42g.	43200	in	rrsig	ns 8 1 43200 20251224083754 20250805203004 34378 xn--55qw42g. MC4E61EqQ9mpNX+c+mzKNhh/tlXf56oFnNIPtYvojhATOz0MBibYgcxF94tWv7ESUYklLAxdTg/M32Y6VPtrceoG4oUXe8CxFAl91EBpUxYotqGOBGS3i8Kx32+CS8fpqPEiwxmxxfEYtiqWaBfaGyY/P+b/gbi+i853NDPcsuVmZ2i+/cdOFtcgYLL9kkKbIr8FxC7M347gRr07HDjNSMBsbm82PeXoMY2RaNoaQjM6qIOrTOE4S8JCdv7cH3Kr2YVfT1V5Q+ktoVOzR3WCzm5PixQpFkiwBtPCW0xtGTa3XSHNubPKlHWVam/7abEvgggFNI4hEztOIo9GSCik8w==
+xn--55qw42g.	43200	in	rrsig	ns 8 1 43200 20260510151141 20251221070033 34378 xn--55qw42g. WOs4BivFGfZEPm9EzCQAsyydDCAYL6A0pldKmIQjc9iaSQ/45TOI5LNZb5IRSkYRmI564cDkQdIgj7q8RRmYzmR9+++/Eti3kzpRUlu8gKcEEv3HDRFR+HE6ox7Fl9ph2z42wSpN6HRu1dKuLa5MNyPC3ggkKxjMuuDIbSu5T0waEzjIxHFa/5rs4HNOfRsRSEzYeJLZRS6qL/WbWe+bmKaHyjUkFAvguWoeARvoiVzeDkdLXDt+RH05p0gKHT1jDgg/Ji5F0gX2n+S4N90XDAEMuESNKmHbOdcX+5yFfcIwj23om4g6bXmq55jrnFM2oJ/RP2KOVuShLsc/xg2GXA==
 xn--55qw42g.	86400	in	dnskey	256 3 8 AwEAAdsO9EhzLXlHN7UjKX4G12MaKPdj9Mv2/RVtWmlg2O6XD9K0u6/DYXglVQMzI5ZaJSrfzIPK0wlrP/5P+YZJRRh3o64KgcWsztKIRKCBsLRXT3wcItTIz/gwfSHngsP4BbOrwNTi2zV6dYuIJ8kqJuxaA/LYYWexSfAckYYi+qe+v4FwYFDXy8VpgLQCpofEfl4s8B0Vb97Us703kfgwOm4mzejqNgdKu9+h15qIb7b6MHrYc4L+Wnhhs+JMv3QnWJ1C17hzIKkJ9KLj8QoFJ6FYFj3lhihPfNFoBKFr9Iciu4JU2FUTVFnAXpKo5imRxviMP77hk847GFEGJ/UW75U=
 xn--55qw42g.	86400	in	dnskey	257 3 8 AwEAAcMS/KA5p8p0ZFATB4fRyMsX+pW0za9dIyhi0SKkD5txFM99w78LuN1f4WRSu5JDUTtUp+IDxXgMUPG2pYVFTmCNXHSTS2IqHzlezz+6J7xHapps1cJ/ZT0nwEbX4w7lwZsdBEgoNZOsyWSY+SGvA/wwHfhtn5slNvnTa9SPuXQ6EX0kD/x8jL6WwTQt4HxxKMWV+7vuffk6/jkuiVK+4Fjw/lnPXZMSmFn6omHgFJa0+jOppPgPbdinuOtZw2nIDoCjCltH/DtzlyfBXggNyqYefyE5pXHSne9ZAPZpNynzg8c8KHEgiY23tsscpBU1gfIWsujaAvC39DV63HJTJvE=
-xn--55qw42g.	86400	in	rrsig	dnskey 8 1 86400 20251222161816 20250805040004 21055 xn--55qw42g. NmEd1WlFB5iGM2ZIm1zDtTuu9ziZdXIPkE6Izjle48WBodhD96mWShkuCK52GfIR2lHtfQ4islnpcHPLwtD8YU6YiLI8jJHxrCYHuT7f5AtYARQJZuSJu2g3qSL5U3PX4Fe7c1RV+tcTkh+VUjPKog/wJkOZnl6hjPynMh9jf7d/ZtUS5HTwmANzXCqQp6zQF+eDumEE+7fnv0PDRNIHl9CLgiLHazZE5/xTQ48dgeF7ogXyjJGy7hbgDydxcMvFD/tkaRQEPq2/g+UsKzF0jbDAxppHCOSUe6S03TSY6NnjoHXcwCjXoXzdzeYcixFthUhkPtoMs6S1UpUph06wVA==
-xn--55qw42g.	86400	in	rrsig	soa 8 1 86400 20260219022759 20251001210033 34378 xn--55qw42g. w+1ChEt1C+Nl3tjxpcuK/+SNZaQU9PGF9RBD+f1Z02tl4HImTdO7OdZ+Aj67N9xpT8g8VJzJjnINxvoFCiQQgnBrCRiPjklhtWNU0fYhlsSHqxXo+3VL927mqCupNeDfLQeyumOhnUReWnEik/pihsWYg/1g9mEUieLoPtuhMkOUF5RaOpG0cFT86WA+qAEpkTEzpPuMSr4zORuJvapgAeapdORnB4HcT9Hj11QyN6rqrJlA+0OGva/BjfYcIH77U814kIhf7xXGc/RE8SRyh/tdLt2h35o4eZqHL7+re7IKg91NpxNUSShRePjXhGvfh1qFfJ2lzvbgdP+Q+v5AKg==
-xn--55qw42g.	86400	in	soa	ns1.conac.cn. root.conac.cn. 1759359603 1200 600 604800 43200
+xn--55qw42g.	86400	in	rrsig	dnskey 8 1 86400 20260509063957 20251219143033 21055 xn--55qw42g. NFqI8AyA970Dc9qylgqXmFciBWSxTizfW8ryuNJWM1Jaz4GeJoHVU9hRdVtdW4QSS069mozoT+dr+xdqBH096L3QkXLSskd6LCNmhwwLX1ek5hGb8Bz+8d4jc8RnLEJ0hZER93arguZt/9Amco71w5g3BsfKF51UfCa2dREfzfMk+aMO1jziLUzcNj2Ow+SYZGVk+SQQMmHrQnaO0xoWqmTqvd0IPa0lq1DRW4dkJwNxBaQU6bDbv6jGTr6zW65jABKiYzhewk2+871cpXYPSt/poRSBQJQw3o1SStb8tZ3dQ4BrsE0rbcq1z0+de+zAuyy5KZHuLmyI3bjNp0sj5Q==
+xn--55qw42g.	86400	in	rrsig	soa 8 1 86400 20260526043942 20260105210034 34378 xn--55qw42g. 2RA7c2pG9rp78g7KmiBZjla956QM39XvHC25DkJf/CGF4pIyuuGbSOtW7+0oqe6+fh2sDXw6rOb4P3FUsJHT2X/IpVNULIzTl0hOzfRizUIQr1kpjbq2vMuD/vv7oOi0upQoIwA5+knKbl056LBTgl60aFRmlP/SCQiL10w4YZEHMEXI0srBJQOYrdoMPJyr+LAdQVFtHxNH28dcysdicrj68XawLlseKa+ud/TglLKH8vgIU81GN63/nF++XjSIOkSMQXEh6qqTE1mrF28yA2CtJYCtYHnAbN1GO+RnDg3xiPp3vADDFxjwWq6u5ovKe5W5m/SfFdAwW5LlcKLmIQ==
+xn--6kr28kk1br65a.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--6kr28kk1br65a.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--6kr28kk1br65a.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--9kq17h4k80kfyhj5rqysymihz0aqyxpqw.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--9kq17h4k80kfyhj5rqysymihz0aqyxpqw.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--9kq17h4k80kfyhj5rqysymihz0aqyxpqw.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--9kq39iqkn4wg8aw4u2piw36a49b8sgb3b095n.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--9kq39iqkn4wg8aw4u2piw36a49b8sgb3b095n.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--9kq39iqkn4wg8aw4u2piw36a49b8sgb3b095n.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--cjr04lk1b9cz2ly45a14r7p7b.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--cjr04lk1b9cz2ly45a14r7p7b.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--cjr04lk1b9cz2ly45a14r7p7b.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--cjr1cq1uzrfef875b53mni0cw3zb.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--cjr1cq1uzrfef875b53mni0cw3zb.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--cjr1cq1uzrfef875b53mni0cw3zb.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--ehq0mra912keyar9fh77e.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--ehq0mra912keyar9fh77e.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--ehq0mra912keyar9fh77e.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--ehq4cua12bo0j4a733au52ad9aq3fos9f.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--ehq4cua12bo0j4a733au52ad9aq3fos9f.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--ehq4cua12bo0j4a733au52ad9aq3fos9f.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--ehqb0ivsh06ab8cpdx3rda29vpz9exn2ekd2a.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--ehqb0ivsh06ab8cpdx3rda29vpz9exn2ekd2a.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--ehqb0ivsh06ab8cpdx3rda29vpz9exn2ekd2a.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--ehqsqs5i8vku9cb32alfy0m1bosl.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--ehqsqs5i8vku9cb32alfy0m1bosl.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--ehqsqs5i8vku9cb32alfy0m1bosl.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--ehqwoqr45ef4a49g90vrgar00ec72c.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--ehqwoqr45ef4a49g90vrgar00ec72c.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--ehqwoqr45ef4a49g90vrgar00ec72c.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--ekr7bx1w3vft2vba5105e.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--ekr7bx1w3vft2vba5105e.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--ekr7bx1w3vft2vba5105e.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--ekra166bga18zzs2by5n92giyqw64c.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--ekra166bga18zzs2by5n92giyqw64c.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--ekra166bga18zzs2by5n92giyqw64c.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--ekrv1lnse32sbtkopp4w9a.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--ekrv1lnse32sbtkopp4w9a.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--ekrv1lnse32sbtkopp4w9a.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--ekry3qa577azu3bimbw7dhp41ck19m.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--ekry3qa577azu3bimbw7dhp41ck19m.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--ekry3qa577azu3bimbw7dhp41ck19m.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--fcs39bkfm8jj9bj91bj0fyqnfl3e.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--fcs39bkfm8jj9bj91bj0fyqnfl3e.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--fcs39bkfm8jj9bj91bj0fyqnfl3e.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--fiq06jjlz2pupvhw7d.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--fiq06jjlz2pupvhw7d.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--fiq06jjlz2pupvhw7d.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--fiq06jr8hjtcg0cgw1j07i.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--fiq06jr8hjtcg0cgw1j07i.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--fiq06jr8hjtcg0cgw1j07i.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--fiq3m13hw6avcs63dxzfpsf0ym8lnbh9d.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--fiq3m13hw6avcs63dxzfpsf0ym8lnbh9d.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--fiq3m13hw6avcs63dxzfpsf0ym8lnbh9d.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--fiq40f7bt56bj7b5yfj8w8w9e.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--fiq40f7bt56bj7b5yfj8w8w9e.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--fiq40f7bt56bj7b5yfj8w8w9e.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--fiq40f7bt92bpyao7pjytnoj.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--fiq40f7bt92bpyao7pjytnoj.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--fiq40f7bt92bpyao7pjytnoj.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--fiq74szydbd10lv4vrryzz8b.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--fiq74szydbd10lv4vrryzz8b.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--fiq74szydbd10lv4vrryzz8b.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--fiqq9gtsbk4jcqeq1c69dduh48hl6tu16a.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--fiqq9gtsbk4jcqeq1c69dduh48hl6tu16a.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--fiqq9gtsbk4jcqeq1c69dduh48hl6tu16a.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--fiqwnv73aba25j03d904efezb2no6jdoj.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--fiqwnv73aba25j03d904efezb2no6jdoj.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--fiqwnv73aba25j03d904efezb2no6jdoj.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--gmqr3ijljg075iknav24v.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--gmqr3ijljg075iknav24v.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--gmqr3ijljg075iknav24v.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--gmqr3ijlt01dt3b17a50o1mbq08ix6buz5g.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--gmqr3ijlt01dt3b17a50o1mbq08ix6buz5g.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--gmqr3ijlt01dt3b17a50o1mbq08ix6buz5g.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--oor37je2bm1ah2do0jzuay31ak2nw7t6xgmrfsnch11p.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--oor37je2bm1ah2do0jzuay31ak2nw7t6xgmrfsnch11p.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--oor37je2bm1ah2do0jzuay31ak2nw7t6xgmrfsnch11p.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--prsp3fj5azu295a5na77wwzqbkgp0mcw2c.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--prsp3fj5azu295a5na77wwzqbkgp0mcw2c.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--prsp3fj5azu295a5na77wwzqbkgp0mcw2c.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--pss25cz2chuy9zi2u5c.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--pss25cz2chuy9zi2u5c.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--pss25cz2chuy9zi2u5c.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--rssy5ci5ck0qxkfugm32dn7av8bd3h62bwv3hv1qwuo.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--rssy5ci5ck0qxkfugm32dn7av8bd3h62bwv3hv1qwuo.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--rssy5ci5ck0qxkfugm32dn7av8bd3h62bwv3hv1qwuo.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--ruqumn6emwjiscfwbg2e81ar66url3acdo.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--ruqumn6emwjiscfwbg2e81ar66url3acdo.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--ruqumn6emwjiscfwbg2e81ar66url3acdo.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--ruqw1e6a136c71co8ekbx66du2yri8gesa.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--ruqw1e6a136c71co8ekbx66du2yri8gesa.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--ruqw1e6a136c71co8ekbx66du2yri8gesa.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--srs51lrqjo6jyufivbw7djof3c529giqyaopk.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--srs51lrqjo6jyufivbw7djof3c529giqyaopk.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--srs51lrqjo6jyufivbw7djof3c529giqyaopk.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--v4q31cejs76aqm0bm47asya.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--v4q31cejs76aqm0bm47asya.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--v4q31cejs76aqm0bm47asya.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--vhq72yfwb8ydz9qtviws7aqibo0jfq4d.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--vhq72yfwb8ydz9qtviws7aqibo0jfq4d.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--vhq72yfwb8ydz9qtviws7aqibo0jfq4d.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--vhq90k43hcskpqjy1ak87go60b.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--vhq90k43hcskpqjy1ak87go60b.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--vhq90k43hcskpqjy1ak87go60b.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--vhqd131b2tjy9if7eqwcv7o109btf8bhot.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--vhqd131b2tjy9if7eqwcv7o109btf8bhot.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--vhqd131b2tjy9if7eqwcv7o109btf8bhot.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--wjqv3g19f2rizo6aimbw7d87bo69dl5ddji14i.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--wjqv3g19f2rizo6aimbw7d87bo69dl5ddji14i.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--wjqv3g19f2rizo6aimbw7d87bo69dl5ddji14i.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--xhq8a24ce1bt6gz4pk0e5ma21fs4v7i6bhzezv0b.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--xhq8a24ce1bt6gz4pk0e5ma21fs4v7i6bhzezv0b.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--xhq8a24ce1bt6gz4pk0e5ma21fs4v7i6bhzezv0b.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--xhq8a90t95a57wo1dit1e0rjhnh.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--xhq8a90t95a57wo1dit1e0rjhnh.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--xhq8a90t95a57wo1dit1e0rjhnh.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--xhqz9xj2dlpnszlcgie6czsbjz5c2lriy0aopk.xn--55qw42g.	43200	in	ns	ns1.sdc.org.cn.
+xn--xhqz9xj2dlpnszlcgie6czsbjz5c2lriy0aopk.xn--55qw42g.	43200	in	ns	ns2.sdc.org.cn.
+xn--xhqz9xj2dlpnszlcgie6czsbjz5c2lriy0aopk.xn--55qw42g.	43200	in	ns	ns3.sdc.org.cn.
+xn--55qw42g.	86400	in	soa	ns1.conac.cn. root.conac.cn. 1767654003 1200 600 604800 43200
