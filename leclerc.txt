@@ -1,4 +1,4 @@
-leclerc.	3600	in	soa	a.nic.fr. dnsmaster.afnic.fr. 2222893799 3600 1800 1209600 600
+leclerc.	3600	in	soa	a.nic.fr. dnsmaster.afnic.fr. 2222907623 3600 1800 1209600 600
 21repas.leclerc.	3600	in	ns	pdns112.ultradns.biz.
 21repas.leclerc.	3600	in	ns	pdns112.ultradns.com.
 21repas.leclerc.	3600	in	ns	pdns112.ultradns.net.
@@ -726,7 +726,7 @@ douarnenez.leclerc.	3600	in	ns	ns2.prodomaines.com.
 doullens.leclerc.	3600	in	ns	ns1.prodomaines.com.
 doullens.leclerc.	3600	in	ns	ns2.prodomaines.com.
 dp2n56uhjcnd71cs34qfud2t2gf4fmjo.leclerc.	600	in	nsec3	1 1 0 - JARM22F9TOQKKUIHG357MP3MF3563SQ9 NS SOA TXT RRSIG DNSKEY NSEC3PARAM
-dp2n56uhjcnd71cs34qfud2t2gf4fmjo.leclerc.	600	in	rrsig	NSEC3 13 2 600 20251014211540 20250914211200 40542 leclerc. cY+7M38Vk5X7qrTD+g0s42+RsWnpxw8scyHRtA3tTILP1/5asudg4tQNFef2VFfhZ7fEbCs7KZ3GXl7IRm5LCg==
+dp2n56uhjcnd71cs34qfud2t2gf4fmjo.leclerc.	600	in	rrsig	NSEC3 13 2 600 20260127141303 20251228135823 22855 leclerc. 0rP6CuQarOxvSJFpukjow+yMdw+RP+UlnKc9G9NkLNdP+Yn0wDhwUn5toeaK+QqS1xjiTgSzeek3dMC3o29bMQ==
 dreux.leclerc.	3600	in	ns	ns1.prodomaines.com.
 dreux.leclerc.	3600	in	ns	ns2.prodomaines.com.
 drive.leclerc.	3600	in	ns	ns-1100.awsdns-09.org.
@@ -819,6 +819,8 @@ enval.leclerc.	3600	in	ns	pdns112.ultradns.net.
 enval.leclerc.	3600	in	ns	pdns112.ultradns.org.
 epinay.leclerc.	3600	in	ns	ns1.prodomaines.com.
 epinay.leclerc.	3600	in	ns	ns2.prodomaines.com.
+epinaylilot.leclerc.	3600	in	ns	ns1.prodomaines.com.
+epinaylilot.leclerc.	3600	in	ns	ns2.prodomaines.com.
 eragny.leclerc.	3600	in	ns	pdns112.ultradns.biz.
 eragny.leclerc.	3600	in	ns	pdns112.ultradns.com.
 eragny.leclerc.	3600	in	ns	pdns112.ultradns.net.
@@ -1162,7 +1164,7 @@ jardi.leclerc.	3600	in	ns	ns2.prodomaines.com.
 jardres.leclerc.	3600	in	ns	ns1.prodomaines.com.
 jardres.leclerc.	3600	in	ns	ns2.prodomaines.com.
 jarm22f9toqkkuihg357mp3mf3563sq9.leclerc.	600	in	nsec3	1 1 0 - DP2N56UHJCND71CS34QFUD2T2GF4FMJO NS DS RRSIG
-jarm22f9toqkkuihg357mp3mf3563sq9.leclerc.	600	in	rrsig	NSEC3 13 2 600 20251018203513 20250918195503 40542 leclerc. e1uRDWvoag11m6xp5NOCiHnvjjdVHqg+2toF6IOUbGQYBo6LxHH+q1w5BaDgZw+mbNaeql9eWSzD66Ii9hKaWA==
+jarm22f9toqkkuihg357mp3mf3563sq9.leclerc.	600	in	rrsig	NSEC3 13 2 600 20260127103408 20251225054024 22855 leclerc. PMOkmKagO7AQzDNC9nssVEsJ9IyKUf75kaD3uFE8b8+9yl8jmQiFk3C5zn88i9+FyuLB2Tqfppjjl0MrfaSbYQ==
 jarny.leclerc.	3600	in	ns	ns1.prodomaines.com.
 jarny.leclerc.	3600	in	ns	ns2.prodomaines.com.
 jaroslaw.leclerc.	3600	in	ns	ns1.prodomaines.com.
@@ -1273,6 +1275,8 @@ laigle.leclerc.	3600	in	ns	ns1.prodomaines.com.
 laigle.leclerc.	3600	in	ns	ns2.prodomaines.com.
 lamballe.leclerc.	3600	in	ns	ns1.prodomaines.com.
 lamballe.leclerc.	3600	in	ns	ns2.prodomaines.com.
+lambesc.leclerc.	3600	in	ns	ns1.prodomaines.com.
+lambesc.leclerc.	3600	in	ns	ns2.prodomaines.com.
 lamego.leclerc.	3600	in	ns	ns1.prodomaines.com.
 lamego.leclerc.	3600	in	ns	ns2.prodomaines.com.
 landerneau.leclerc.	3600	in	ns	ns1.prodomaines.com.
@@ -1374,17 +1378,17 @@ lechappeeverte.leclerc.	3600	in	ns	pdns112.ultradns.com.
 lechappeeverte.leclerc.	3600	in	ns	pdns112.ultradns.net.
 lechappeeverte.leclerc.	3600	in	ns	pdns112.ultradns.org.
 leclerc.	0	in	nsec3param	1 0 0 -
-leclerc.	0	in	rrsig	NSEC3PARAM 13 1 0 20251023175317 20250923172301 40542 leclerc. /Dm+ilAL9iywFebSu2fGru7isK1GmFpjPULEE1o8XU5AZ6EANmVudsZgX+1yp7kL3kcnd5vDO69Ysw+dmo8U8A==
-leclerc.	3600	in	dnskey	256 3 13 oxTZdcRABdvAB8IN4LfO/rhenmGgPWRH33sY0EomWF/dlg4h1wivzHTaRwx26CHtrL8fNN1beNXrb/9KjbXJ6A==
+leclerc.	0	in	rrsig	NSEC3PARAM 13 1 0 20260129135743 20251230132450 22855 leclerc. swxeEt2s4+QY+uQD0IucDzoDOMt9BWVgUBriyb5WjrpwIs8aiCaRllfeHYNAo0t//wbEEVpFnD7qyKH5huFMmg==
+leclerc.	3600	in	dnskey	256 3 13 quUdjLIVTxW3t4LKYa1tQtS2QzCQJTWXKvqYlbtqGPD0Szb1xJCnsNs/OE03yI7zRs/iT2VemeGiKZGWQ0T7bQ==
 leclerc.	3600	in	dnskey	257 3 13 drkIULxAnck/0qvWsoRVp3duQLkINpn2teJw3NlUKgqIOO5bIx6owc+gXG13qIvCNXGUudEYNoBlRelTp/FMDg==
 leclerc.	3600	in	ns	d.nic.fr.
 leclerc.	3600	in	ns	f.ext.nic.fr.
 leclerc.	3600	in	ns	g.ext.nic.fr.
-leclerc.	3600	in	rrsig	DNSKEY 13 1 3600 20251031224825 20251001223233 56243 leclerc. ZmfW3QfFo/zc9lWsvwPOxLPHGTiTcGJUe23XTpw/l5P/WtPILjwLjxqYgeNysu561EUtHGF1ghXcgMUUYRr72w==
-leclerc.	3600	in	rrsig	NS 13 1 3600 20251023210329 20250923201659 40542 leclerc. ODGN3O3inkSXA1r3gbwYCDU3DZ3yz0PkBkX4vhuBtOdHgtJUhTQ/1rVas0HJ1JiYrXgvHe50rh4cJJapvYQXCw==
-leclerc.	3600	in	rrsig	SOA 13 1 3600 20251101011020 20251002001020 40542 leclerc. pi/FRZJYbCla67g/+kChlw9O4tCdooNo8CayavpjqSt1Fu7aMmNKfoCdJtvY8rkvfPm+uGuhFUBB7fVUe2xKoA==
-leclerc.	3600	in	rrsig	TXT 13 1 3600 20251031174949 20251002001020 40542 leclerc. CIp32ZR/9NGU05KsJF7bbXINWtJNtnGgcLfhFypi1vUglikida0l84lzWuC6slTGdXKQjqXtdcrEiRAEaeVd3Q==
-leclerc.	3600	in	txt	"No RRs processed [02/10/2025 01H10:19]"
+leclerc.	3600	in	rrsig	DNSKEY 13 1 3600 20260201082851 20260102080201 56243 leclerc. MKqId44NC8dDBqkNHBcr6PoWqGyTvfgE0kijOOsQ/NedmexPbBzrYgD3KqSHJyBFTXV2Z+Fy/AbxsbEaPh8Fow==
+leclerc.	3600	in	rrsig	NS 13 1 3600 20260124042044 20251225040010 22855 leclerc. be/3MrmOhBLb7AVDDi7zPDyejVmkAe5lciz56uWzYNKurQvm5HeBJXtQoma+9vUUhY8NSX8VaX+9ax5YInSzjQ==
+leclerc.	3600	in	rrsig	SOA 13 1 3600 20260205011019 20260106001019 22855 leclerc. /vkNBuHcrMyemnWEmLDOVMKyuYtC+PFJD50H2CTThbm9/BQmhDPhZ3xoPmdnEB94kLktlo0Qn2OoITVQz7VXpw==
+leclerc.	3600	in	rrsig	TXT 13 1 3600 20260204224206 20260106001019 22855 leclerc. ysi5JwbwA3xMv+FG5yJD+0rkcm8jHaYGsidpyHj7I85GTFctnqymqrcEQ16Q7TAtMwmcix7mKpIvyK6AhYH2HA==
+leclerc.	3600	in	txt	"No RRs processed [06/01/2026 01H10:18]"
 lecsav.leclerc.	3600	in	ns	pdns112.ultradns.biz.
 lecsav.leclerc.	3600	in	ns	pdns112.ultradns.com.
 lecsav.leclerc.	3600	in	ns	pdns112.ultradns.net.
@@ -1822,7 +1826,7 @@ nic.leclerc.	3600	in	ns	g.ext.nic.fr.
 nic.leclerc.	3600	in	ns	ns1.nic.fr.
 nic.leclerc.	3600	in	ns	ns2.nic.fr.
 nic.leclerc.	3600	in	ns	ns3.nic.fr.
-nic.leclerc.	3600	in	rrsig	DS 13 2 3600 20251024182637 20250924180243 40542 leclerc. EqSm3bhq/fJXAlS6E2RasIrZ14gp8I/msuKErbw5kfmFJagcungM+0gOCuL8Vd9aTFL2tYzJqlqCuSt9ZXpQfQ==
+nic.leclerc.	3600	in	rrsig	DS 13 2 3600 20260124011834 20251225011450 22855 leclerc. 45Se+mKwVmRbT4dLimECOd5DBSGyhySwFMM9+2r6suWXnzFdpDqLcu6s73SBgRzdO0JC4EAkHn0je7J8r6/ykQ==
 nice-pont-michel.leclerc.	3600	in	ns	ns1.prodomaines.com.
 nice-pont-michel.leclerc.	3600	in	ns	ns2.prodomaines.com.
 nice-riviera.leclerc.	3600	in	ns	ns1.prodomaines.com.
@@ -2131,6 +2135,8 @@ querqueville.leclerc.	3600	in	ns	ns1.prodomaines.com.
 querqueville.leclerc.	3600	in	ns	ns2.prodomaines.com.
 queven.leclerc.	3600	in	ns	ns1.prodomaines.com.
 queven.leclerc.	3600	in	ns	ns2.prodomaines.com.
+quiest3foislemoinscher.leclerc.	3600	in	ns	ns1.prodomaines.com.
+quiest3foislemoinscher.leclerc.	3600	in	ns	ns2.prodomaines.com.
 quiestlemoinscher.leclerc.	3600	in	ns	pdns112.ultradns.biz.
 quiestlemoinscher.leclerc.	3600	in	ns	pdns112.ultradns.com.
 quiestlemoinscher.leclerc.	3600	in	ns	pdns112.ultradns.net.
@@ -2571,6 +2577,8 @@ sciez.leclerc.	3600	in	ns	ns1.prodomaines.com.
 sciez.leclerc.	3600	in	ns	ns2.prodomaines.com.
 seclin.leclerc.	3600	in	ns	ns1.prodomaines.com.
 seclin.leclerc.	3600	in	ns	ns2.prodomaines.com.
+secondevie.leclerc.	3600	in	ns	ns1.prodomaines.com.
+secondevie.leclerc.	3600	in	ns	ns2.prodomaines.com.
 sedan.leclerc.	3600	in	ns	ns1.prodomaines.com.
 sedan.leclerc.	3600	in	ns	ns2.prodomaines.com.
 segre.leclerc.	3600	in	ns	ns1.prodomaines.com.
@@ -2641,6 +2649,8 @@ soleuvre.leclerc.	3600	in	ns	pdns112.ultradns.biz.
 soleuvre.leclerc.	3600	in	ns	pdns112.ultradns.com.
 soleuvre.leclerc.	3600	in	ns	pdns112.ultradns.net.
 soleuvre.leclerc.	3600	in	ns	pdns112.ultradns.org.
+sollies.leclerc.	3600	in	ns	ns1.prodomaines.com.
+sollies.leclerc.	3600	in	ns	ns2.prodomaines.com.
 soria.leclerc.	3600	in	ns	ns1.prodomaines.com.
 soria.leclerc.	3600	in	ns	ns2.prodomaines.com.
 sormiou.leclerc.	3600	in	ns	ns1.prodomaines.com.
@@ -2953,6 +2963,8 @@ wineadvisor.leclerc.	3600	in	ns	pdns112.ultradns.net.
 wineadvisor.leclerc.	3600	in	ns	pdns112.ultradns.org.
 wintzenheim.leclerc.	3600	in	ns	ns1.prodomaines.com.
 wintzenheim.leclerc.	3600	in	ns	ns2.prodomaines.com.
+woippy.leclerc.	3600	in	ns	ns1.prodomaines.com.
+woippy.leclerc.	3600	in	ns	ns2.prodomaines.com.
 woodsun.leclerc.	3600	in	ns	pdns112.ultradns.biz.
 woodsun.leclerc.	3600	in	ns	pdns112.ultradns.com.
 woodsun.leclerc.	3600	in	ns	pdns112.ultradns.net.
@@ -2989,4 +3001,4 @@ zamosc.leclerc.	3600	in	ns	ns1.prodomaines.com.
 zamosc.leclerc.	3600	in	ns	ns2.prodomaines.com.
 zielonagora.leclerc.	3600	in	ns	ns1.prodomaines.com.
 zielonagora.leclerc.	3600	in	ns	ns2.prodomaines.com.
-leclerc.	3600	in	soa	a.nic.fr. dnsmaster.afnic.fr. 2222893799 3600 1800 1209600 600
+leclerc.	3600	in	soa	a.nic.fr. dnsmaster.afnic.fr. 2222907623 3600 1800 1209600 600
