@@ -1,11 +1,13 @@
-alibaba.	3600	in	soa	a0.nic.alibaba. hostmaster.donuts.email. 1767661201 7200 900 1209600 3600
+alibaba.	3600	in	soa	a0.nic.alibaba. hostmaster.donuts.email. 1769302419 7200 900 1209600 3600
 6qgfqp4qde44geqo6rbggm71355klutp.alibaba.	3600	in	nsec3	1 1 0 73 UB8D893C9MRK6GJ3GFI1AC85Q0N032DQ NS SOA RRSIG DNSKEY NSEC3PARAM
-6qgfqp4qde44geqo6rbggm71355klutp.alibaba.	3600	in	rrsig	NSEC3 8 2 3600 20260127010058 20260106000058 41400 alibaba. bEqpXDXI5J0eB59NI8/8+EkzA2Ighh32VJcpkdOyONLIwQlZN/zlGSmVrKeNyF7qglFxvzgBG24jLmngalj4SGKehBpZ+r28ZzkNBa42AJ1BMmuB7Ga61fPhY4wmr7Bqt7ipnWVzULVFrer87QnbhdMfhmtYi3iVspb2xqUwWeA=
+6qgfqp4qde44geqo6rbggm71355klutp.alibaba.	3600	in	rrsig	NSEC3 8 2 3600 20260215005842 20260124235842 41400 alibaba. FvblVwwB2hzIyPDngyXxXPuZHY1lNEvoKoN+klXN9ArJ9DE9YdFelg/iJdpSK1D0uwpc5p8zIFn886rQ5G9u0ibIZ5fsE1MOMMoLNsEZRRosuLFQgcbNflpYMKUPo7Q7Z9k2h8adrBgxVx2Dswyzz5Zp7XI1+fXJcxcKqw9doiY=
 a0.nic.alibaba.	3600	in	a	65.22.132.9
 a0.nic.alibaba.	3600	in	aaaa	2a01:8840:0082:0000:0000:0000:0000:0009
 a2.nic.alibaba.	3600	in	a	65.22.135.9
 a2.nic.alibaba.	3600	in	aaaa	2a01:8840:0085:0000:0000:0000:0000:0009
-alibaba.	3600	in	dnskey	256 3 8 AwEAAbZqLqS9HCzMkfIX4Pgq8ipTNHWSjMSAWztcwoNirNEM0IQP5w4gFEO380w2/ZimtCrvMsYxgceXim4ZopAT3m8yZvtTBvvdNp2ELRWkU3Lp1Da4mVRNPULAAFNPfCWe+/CdAFDSNrmod3qrBQcVNxhxxkCDmVO1Wa/hX4xsNNvf
+alb-idptcloud03svc.alibaba.	3600	in	ns	ns1.alibabadns.com.
+alb-idptcloud03svc.alibaba.	3600	in	ns	ns2.alibabadns.com.
+alibaba.	3600	in	dnskey	256 3 8 AwEAAb5lG9chKqRawmNmcbohVqVY2pnHB58ZjNEnCGK7JDl076hNRfxnsQt4jNz/dhjgpBSFjoOCOEUC11+/TX60nol9aRrFJ7/RMMUnEIStofkjXgrl1LkSep4hyuktxKaFbrQ60JljsEzVJ/3D11SUgodSq/Vv8ED6tV28m7LWqysx
 alibaba.	3600	in	dnskey	256 3 8 AwEAAeXDmW8bqAwLtv3YMqeOuBoE0siS8HJFfLtSoUVqcaR8xDBux9xiWwixMP8fVmRMmynTgIeOIFU/gs8mAD8YF1+46+sMX8myGOlA8qubpI0DvwGpS8g0jdMWmJc0axvdogTMtnnFj4MmCGz2AUgLoV9VHMV+pwyzqya3cvAE+NxF
 alibaba.	3600	in	dnskey	257 3 8 AwEAAd2CuMCRc3/65Ln5Fpf4ZaT358E+C4uh960wRy/4SFeQU2vgEaJWBvEb1QFypP5BYok2YCsGCNjVSNtKH7QEtql+3vAVzS7csJUMKemZuC96A7aDBEbBYI2pgeAqRdL/2rnWf2sw+vfmQGaaKNEXZq8NAtWh2qUCsT7hfw7feFrHhtqQXyJNo6HQEpZta22U3pCFUVmJ/BTsy8D07f6zTJoifnxbV6SRnE0FBHHb2vdIiBuLc1kvRXWH0FHI34C1IaM1/AQiTC1T866G081uZoUecnCbmLowfxODKzDrppmDoJw46Fx65F5ODYSTcH6JHltkpT2tBdvCkQjIr5LdwwU=
 alibaba.	3600	in	ns	a0.nic.alibaba.
@@ -13,22 +15,36 @@ alibaba.	3600	in	ns	a2.nic.alibaba.
 alibaba.	3600	in	ns	b0.nic.alibaba.
 alibaba.	3600	in	ns	c0.nic.alibaba.
 alibaba.	3600	in	nsec3param	1 0 0 73
-alibaba.	3600	in	rrsig	DNSKEY 8 1 3600 20260122153331 20260101143331 7516 alibaba. NINf5xEcRCIrpNU3OpLTGSORWw1hHNqTYIB/6hGwSC1XXtIS2gbpvtdbDWLwyVyS0tAjiZafAqfVhgqcKxUNw/OuKBQov8ZUCvJ0b1lpQJ9k3sJ7mbY0xG5vwIRZLydEeM89AP4hPYIp9RIKuxqbplMYTaUrlH/gXOROmAG56H3dKMoTxkOT1GCMu4V0M0Cf5Xe+gyrRjjnNTXaoAYag/EAhNbGC2oBHIemdQBEu2sJuFbNJ8s9ZA1wnYg9mIm1Opmtmy4lB/fb5RbimCGk5ZZUm4zwzoSzml0HAMZwahuoua0QD+qmqeZ7QN4+p43p7K6OhYxq8osUHomoZAE2uFA==
-alibaba.	3600	in	rrsig	NS 8 1 3600 20260122153331 20260101143331 41400 alibaba. CsKQvL0T1A8lUPRQ1Lfn1yyucTbg28kASXCbA/wJa12Dl5skmhF8xQzIW7Q4uftALiyI2vwqGWthw61IMROjuIECId7g7VtPQ58HSNla3mcsQgStmjByEU6uCrFNKWU3meQqopLuoUnp21sZz+UfojIS41/oDDjCuvZtc4VEIvo=
-alibaba.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260122153331 20260101143331 41400 alibaba. R/TjIgVHmImd8bDkhPFHkcQ1oG2fFj2CZUXgqe2k8//gfnjXutd6EQ/xAZg4XoDBTj8rIZVjLEmi4Z9F1i2zDvexPngfMDbigSZVppOoiX2gWvr9EkYrJnBdBYYVrRL/2qj01eWiYfBSt9tTwaB1Nv1W+3x2p6ZQ6sZKIngePPw=
-alibaba.	3600	in	rrsig	SOA 8 1 3600 20260127010058 20260106000058 41400 alibaba. dZ2nI7ctsCm+4rnItDuL2RAN2U+Hk9/It+eT7M5HBz9lzJHByQ0LY9LHmdSWKQFMP8Qjs75vZzzwsHrZPDkhUO9p+TH+xDyOiTa+eG/h2KWniF3OFwkgwslST2sC5o8er2CFGHPt4EnhFzj1F0c/0s44HqAr3myWqN3cB1dvs+w=
+alibaba.	3600	in	rrsig	DNSKEY 8 1 3600 20260207151841 20260117141841 7516 alibaba. Nx/vSLHXbfQsnLyaHnZAUXGLNgEVRZ1ZhGQ30mXiT40tPKjGr2Qs+CXpwlVBOhVxPsiRQI7WhX2TmW3X/VSM/XBTrXUs0LGMs4hw1qmQKLiTc7yfq0JpK4Bj/nrvmZqQPUNG9mO7LI2908patklr35S2BuFJ2pZrlxLjsAfI5kZ0uZMc5c6CSih8pJFZcmeKAOvRZRCSn+lOjmWB6g/n9WsJY7tjxcp4NBUDp9bRpZPZjpSCg2OgPlFp+qCdiiLD3ECddFzD8G+tVVaIveA4jxB7F10i9oBuDaC1l5vWYcfr6LiNf+36Nm7qfj9Xql+TJY88Xx72KF4thZMocbjROQ==
+alibaba.	3600	in	rrsig	NS 8 1 3600 20260207151841 20260117141841 41400 alibaba. pMknKdw0F9EQiZ9uyOxCWybFlgnVX9jP+GYAUwiwqjhVMY13Z4Hxcp1a799Wj4c/XrrMJOJHd0y8IsO6ao0Pm/lB8aVVIKs64SKkVcYqC62UzRBu/aNKQtfGJIIgeH+M/szD1o9gl30J5I1VrvW1wPFf2CLbuxJjMmUuP4stpkU=
+alibaba.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260207151841 20260117141841 41400 alibaba. 0xsvqeEsY/QI3ZGbLR6HHIqjUcBoFjVJkuZSV4ZSE5vUmXkkZ7QXiXIV7LQvfG2ZTpzo0fIWdReByZib4TRd1qtDHQ02FQ90bOtyRyHMyt3Ir14dYKuuPISxHbfxjREX0xLhi1nuHMkhdxnPyJ2bnJdasMAogyozvvjLnC9NXMM=
+alibaba.	3600	in	rrsig	SOA 8 1 3600 20260215005842 20260124235842 41400 alibaba. rOUZVhIpuRaMB3DZOKg6CMfHF/XQr/9TR4TEI0zDQkgYun1AtHZ0ffm4bL35gAWgsxbsRMDHreiNIJ9hmCCpqbRsyAI9Du9s9BQP8nqDLaPkbVLqEqe8roSMYSVhajN5pS5rZudSXHxekjkAobOT2gokTUjSq1m/jPJwulob1zU=
 b0.nic.alibaba.	3600	in	a	65.22.133.9
 b0.nic.alibaba.	3600	in	aaaa	2a01:8840:0083:0000:0000:0000:0000:0009
 c0.nic.alibaba.	3600	in	a	65.22.134.9
 c0.nic.alibaba.	3600	in	aaaa	2a01:8840:0084:0000:0000:0000:0000:0009
+idptcloud03-inc.alibaba.	3600	in	ns	ns1.alibabadns.com.
+idptcloud03-inc.alibaba.	3600	in	ns	ns2.alibabadns.com.
+idptcloud03.alibaba.	3600	in	ns	ns1.alibabadns.com.
+idptcloud03.alibaba.	3600	in	ns	ns2.alibabadns.com.
+idptcloud03api.alibaba.	3600	in	ns	ns1.alibabadns.com.
+idptcloud03api.alibaba.	3600	in	ns	ns2.alibabadns.com.
+idptcloud03asset.alibaba.	3600	in	ns	ns1.alibabadns.com.
+idptcloud03asset.alibaba.	3600	in	ns	ns2.alibabadns.com.
+idptcloud03sso.alibaba.	3600	in	ns	ns1.alibabadns.com.
+idptcloud03sso.alibaba.	3600	in	ns	ns2.alibabadns.com.
+idptcloud03svc.alibaba.	3600	in	ns	ns1.alibabadns.com.
+idptcloud03svc.alibaba.	3600	in	ns	ns2.alibabadns.com.
 nic.alibaba.	3600	in	ds	4641 8 2 01D00409208AC8A59DFADC3B3C440A81D7888062DED35B347B384AFE8B5361A0
 nic.alibaba.	3600	in	ns	a0.nic.alibaba.
 nic.alibaba.	3600	in	ns	a2.nic.alibaba.
 nic.alibaba.	3600	in	ns	b0.nic.alibaba.
 nic.alibaba.	3600	in	ns	c0.nic.alibaba.
-nic.alibaba.	3600	in	rrsig	DS 8 2 3600 20260122153331 20260101143331 41400 alibaba. WwnvX3NHw8n9FcbVTweDyD4oBZoQlMCO2BqcuEQVhP/RssqiDwDhJHmKufkwoHKXYcB34kQ9VQM2a+LR3ZZGyMfb61QnSXNpvmGUDoxtecxVPsHKz8X1jBJIdBf5GcfANs1mDtKjkpwuiWStUEPOCcweVHpB342tB9EkV3uDsik=
+nic.alibaba.	3600	in	rrsig	DS 8 2 3600 20260207151841 20260117141841 41400 alibaba. ZkT9rKInx//wJL9cIYYApa6WyhuDImdyxOkUn6lmUh/ltgR5h8Ke14SdW9gm5IDmEdTpiRRgRL2KIQCTtnxAjtZyNd7PgNuuqM3LxQdTEZvIckXGVDB4CcSD8rTcVA8/m+C6/7f+YtPvS8hR2mQ7b4J0YfLQA3ffDEo4olzk0+Y=
+oss-idptcloud03api.alibaba.	3600	in	ns	ns1.alibabadns.com.
+oss-idptcloud03api.alibaba.	3600	in	ns	ns2.alibabadns.com.
 test.alibaba.	3600	in	ns	vip3.alidns.com.
 test.alibaba.	3600	in	ns	vip4.alidns.com.
 ub8d893c9mrk6gj3gfi1ac85q0n032dq.alibaba.	3600	in	nsec3	1 1 0 73 6QGFQP4QDE44GEQO6RBGGM71355KLUTP NS DS RRSIG
-ub8d893c9mrk6gj3gfi1ac85q0n032dq.alibaba.	3600	in	rrsig	NSEC3 8 2 3600 20260122153331 20260101143331 41400 alibaba. ScWQRJqFKSeZJ1M32QTw4bnPlpyuRNICmfcPByTlHyiwAm9g2iddwONjgHFFBGMTdW7J5FnM7tuJ25NPBEWCnL4dTbj7knR3MJnDsvvbie/H57ZackoTDyMyiGttsUsYqhyz6eu2JdiggwAEqDYzjE0HORpE+dY1tg36liSnl6s=
-alibaba.	3600	in	soa	a0.nic.alibaba. hostmaster.donuts.email. 1767661201 7200 900 1209600 3600
+ub8d893c9mrk6gj3gfi1ac85q0n032dq.alibaba.	3600	in	rrsig	NSEC3 8 2 3600 20260207151841 20260117141841 41400 alibaba. Y5RO2ZPhShntbzKBgu5DgB9iczu6PFLl8Nq9Iz+zk2rSh2UIj0Dms1e+9vvURNhX9+Wa16/P+NJ2Yr/V4K4nNxW9i3lBpQEU5hoGtLk4Lb4wYlm4iWFQ7OYiLLFjgHKfue0S3WBvx/DLNSjeR4a0/rmSsSQyBom5bGDyx/OEOJ0=
+alibaba.	3600	in	soa	a0.nic.alibaba. hostmaster.donuts.email. 1769302419 7200 900 1209600 3600
