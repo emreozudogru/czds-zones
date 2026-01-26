@@ -1,9 +1,9 @@
-aig.	900	in	soa	ns1.dns.nic.aig. admin.tldns.godaddy. 1767595022 1800 300 604800 1800
+aig.	900	in	soa	ns1.dns.nic.aig. admin.tldns.godaddy. 1769215022 1800 300 604800 1800
 100.aig.	3600	in	ns	ns1.bluecatdns.com.
 100.aig.	3600	in	ns	ns1.bluecatdns.net.
 100.aig.	3600	in	ns	ns1.bluecatdns.org.
-_forcedupdate.aig.	300	in	rrsig	TXT 8 2 300 20260115054628 20260105053701 16338 aig. vQtnFvG3ambLTmR9ryHTCu3PaiHPWKTX0H9mwpTcVtzWGCI4p7YtXTfzVzVnJBNrrf9M/vg6+Rxmwpc0XxRzW9vAgfes4MW3q4lEc7xeIA0XntVJzujfjGVWTmvgExIPr2fw0y5NqhD15Df3aQBSzlqGNerYl0xAryvVFPuMpP4Ia3G5Ht0lV2G1+pF3wtnSguPEx8XFrcEXfr6Lm2WQDw==
-_forcedupdate.aig.	300	in	txt	"1767595021"
+_forcedupdate.aig.	300	in	rrsig	TXT 8 2 300 20260207100320 20260124091509 16338 aig. ja6fVYmau7gGHvCy5B5NnqlqZD5JsaYkDf4Y8rkSeu730GQecq8JnsERFgfq0Gdo0HuM37yFD24hhs1KK9AYvddg6D7c+bIEdwvgy5Nbs9ZbrXpHt/v00/+s5AN+Uh5r1y2dsHFh0zBypXDulBX6WaJgoa2Z4uHY1MZ3deyQrqjgswX0VatyJGV3WdiOOijSrDghwF7SUm8kRnFKAGDbvg==
+_forcedupdate.aig.	300	in	txt	"1769215021"
 a.nic.aig.	3600	in	a	37.209.192.9
 a.nic.aig.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 admin365.aig.	3600	in	ns	dns1.cscdns.net.
@@ -11,22 +11,22 @@ admin365.aig.	3600	in	ns	dns2.cscdns.net.
 aig-lifeinsurance.aig.	3600	in	ns	dns1.cscdns.net.
 aig-lifeinsurance.aig.	3600	in	ns	dns2.cscdns.net.
 aig.	0	in	nsec3param	1 0 0 -
-aig.	0	in	rrsig	NSEC3PARAM 8 1 0 20260117001259 20260102233737 16338 aig. Uxar7pbC/Zq0iAMF6nJzWGutB/+ANBP6GqdjMa/Fe5jHW7eOwPlEPhHdesrBmWVdetX0hTy+c785mZZGvZUK4NPa7iyYbvYhMGz6Lbbz+dGV56B+FNHgofKJMaUauQevs2mWrlidGZ1o7K6PVeepUsjqV8/oZdYPZjF1zkGfmCEMWON6Rytewv/oIIAIb8v9m93w+kF9RyOKUSGc36T8UQ==
+aig.	0	in	rrsig	NSEC3PARAM 8 1 0 20260203220535 20260120220055 16338 aig. YfLIkrMzmUeSjLmA2mGe4WtM64geZ8RGVuzfCB9T9m6ET+/VnJPfyEi0/5MJa6nTfk+JXY5SUGzimtLZVU3hOjsnJDnVEWYVmeXTmVSp32bt2aqhym/mzZK216dbSkNlCe6qm9rEj57Wn9n8la8RvX/V2hCO+WBoOfKhn4vJC/B/Ah81czzT01ON21Rk2LEuRLdlziutOTud1XiZUHRnTA==
 aig.	3600	in	cdnskey	257 3 8 AwEAAc74d9o0oY8tGn88PIC6HP3CX4z8SHmg6clS/lF7JmiKdNxTTW25v+KHsx6hg4euM+aICv8QYVUuXdyDaUnCqSUxE4R9t6Yl8OscHUKsBR7mIkw/mPgSa0gKX+wfjT1W4vXG33NWfa4lZxt3IU0mO2jmkPm0bWyCdyBUaORmn+O3AhMpYW0R6plkxYh9BIavoTfucdcvnqyBmiT9sC+mkhhQ97ryHkl1ADip+BegA4wjo2XyKX9IzfMFU2RVFQfcMIX+7Ta384M3dd74orNBGAk/RgjcEml+3a2DI5hUMYVbaBXkjzID7JGzRdgayISnWuUYnolvvW9nThZdrIx6w7c=
 aig.	3600	in	cds	15685 8 2 572786514068659A43816CEF2D3774DB47DEC4783A3133F6BD7D63D0A37DCCA1
-aig.	3600	in	rrsig	CDNSKEY 8 1 3600 20260119232012 20260105223431 15685 aig. cDOMJGo5qhSeereyTo3l7OvTjnXrCtW1pt+SQGUv10Phchol5w4JB3Y61DE9xtHix2h1Hbq3c/c8d1QC2v7/bfMeF2yiUoxRgZZqarH9a2SFuz2BY/bPhVgM1XK/1hBWOKDjRAdm0vqbCFPZyhuFcf+NRP5ZkXeBvThJZXONs+TmxXz8J9JYTVJItVQSEMKqkSblFEN0QJveKpWuof5xR6yrrBkgaa66QaVx6l8ExgGZwNH3ukGcCoQWcZLqI6nVhAUd1JCnXkypgl5dnfCVMQ7p+Lq3RwvhoGQ1mTdRLGUyenES6McbuZ2Rq4phluaKtn/2QJYkStXukouEeckYFw==
-aig.	3600	in	rrsig	CDS 8 1 3600 20260119232012 20260105223431 15685 aig. rd2y0qblSLAIG7saGt1gl76Vadc3FgeQreQU5AW3KmzllwrA6kFufU/J+T2E12FYp+wl+yJWuCJLkmw1qMaUKEKb4groGO0c0SGRPzXREHp8JfFvreoOWlnzmxbLxc/V2+nQ91b3N/7E4lM6XieAOyShkBq8X0dq4uA/bgGUJkO8IIB5fTYjXXlFA1gv+yw433LCs6DIrge+KiJ6HtEjiOtoqZsZvI7Sd4JsjIjSmU1xkPVH52zL0gno4eXIDzQuB46cnvi8+qsN7YSg9vpdx7Vu3ldpsykj29Yh8ZE8ZV4pGQEykTn5/0D1yE6OUFnvxA9euWozEZ6w8MWkt0XF3w==
+aig.	3600	in	rrsig	CDNSKEY 8 1 3600 20260206213425 20260123204212 15685 aig. H/n6VDhI75gHVdi2AhNef+xtETH7kyNMk953Rwv3SR6Qv99CqBschcMI/Jy1VWLsGRQhS3uSbLCwhd6iAzGP3rQC5HKbaMCwUo2V5IH739+yf0ncGFnCOdR9Sjj/R/1NBjbkJhigg+U/IHTv94QX0apwWywLKPS6Gtp6yvWQRAop4dD69zDBsgchko0bBEjc9fRUnpZ0yuXodeCKz/o3hRBQ3TIm1G8po6RXT8nNGXLvJgtiAXtGAV+50GjzBaXmZ4zc/ejVngBeNXBOM1S+W7KVywmIT1Ab5aqIT/tt8rWf7P0p9CBR0zymhFLPmoKtoISqiVmjfnHqoY5oO3MU3A==
+aig.	3600	in	rrsig	CDS 8 1 3600 20260206213425 20260123204212 15685 aig. qwvtmxvUoEPoFLCZTy//aKMAZj7ebsyQM9qmYXGlpcMdJ8rUU6hlwRHseswcRoYYBQBpnhApb2HqHW9mtsRUJ9syNBVvdvYpL6lmegkVnx/r1uLnKA9vzhOyKCkLGHPFN844yWLJro0/AxihhqQxA+LD2WqC22pPe8pAbntlrGwZSVad3R6Ky2t/UnGonhfvAJC6J7rsEZrvdqp4f0uZhOsH0VWtRWQzk6ZqHLuEReI4kGeKomHa3sM7stQS7cC3Vg0gkuNGfDqEUE7m0WZ9biRGfkZ5QccbIuaUcLczaB+OvXzySodRMiQn/p+4uPQhHx2QTYlTf2jTPYjFJ/zHnw==
 aig.	7200	in	dnskey	256 3 8 AwEAAb5zlODwUBFzepNpgfvUfKvI0l3WhAcICiyPLUcaCJ/gOQcwT45FEpJI9CdPYAJdWWFhCclnfHJOWBFm3zWRKai8D9qNohplVmJdk9XFMOm2cLfs86cw8cBzLgpoCIs05cVYknBA/36Hn9jhTUAMTZde+2ajVk/BaWjcxiXhDyHHNTII95ykytJgXGMtRjFLoSjnsqfRd3ewdMmnP8qo9TU=
 aig.	7200	in	dnskey	257 3 8 AwEAAc74d9o0oY8tGn88PIC6HP3CX4z8SHmg6clS/lF7JmiKdNxTTW25v+KHsx6hg4euM+aICv8QYVUuXdyDaUnCqSUxE4R9t6Yl8OscHUKsBR7mIkw/mPgSa0gKX+wfjT1W4vXG33NWfa4lZxt3IU0mO2jmkPm0bWyCdyBUaORmn+O3AhMpYW0R6plkxYh9BIavoTfucdcvnqyBmiT9sC+mkhhQ97ryHkl1ADip+BegA4wjo2XyKX9IzfMFU2RVFQfcMIX+7Ta384M3dd74orNBGAk/RgjcEml+3a2DI5hUMYVbaBXkjzID7JGzRdgayISnWuUYnolvvW9nThZdrIx6w7c=
-aig.	7200	in	rrsig	DNSKEY 8 1 7200 20260119232012 20260105223431 15685 aig. oMINAQ3lDlYSVoZ9ryJ3nv9/K6dcIhiIuoaFopOg5lpT6ycbJScNV/mHrtUBUYn6H2MVcQra5HmkkAVF5+kWgsqdJPhdFEGcM/6JIWe2pYaBCpenzyzWQLZ3GYaotO4agrYBO4CGC9zGOJttKAyJvc7xXn+2aOuD3BceAwcOPM+4NedgONb6aibfLXheypCPpfXB4YwqSXkfNHRwf5jBePcPjEDqKWbimRb5F8qqs//1QvCE/G5SZHB1m0nM6ZQ7yuiLpTHbEWs4a1BNf3zWbh77uCLrxkJGwnh/aGVoDMBTY9aRToYQLx/BU9anDL8mvJwlsamhxpuSGmgsbgrxPQ==
+aig.	7200	in	rrsig	DNSKEY 8 1 7200 20260206213425 20260123204212 15685 aig. Ljafq+h3ta7M+AWyg7neDBo0QJEwDRZtcQsrLB3L7yyYF/Yqp8Qu/0DzkGvSK0WO51Np4Vu140L1xjHsI4Y6P9x5n3wMHS4IYVSefY0i5UgleKM13slhgnfxm56ZWu71YE287wDaXT4DRJy4K17DoLtxmdzsSdq4r+dYbG63cAztechPinEQiJPTjCAwAIKnGSh5OkhIWmBzX15ihEpo14n6tmBXwX3gzjL1Ak7c6hW8OxUI91vLGhFvXnqIBsEgPiN/sPw6jvI05GVkMVwCOfsrBQVdHBGDQSBFDiXXTfF+M4py4dQxzaTCzo4H2gr6yY2MRwFpGD0eYDGzuDsCdA==
 aig.	86400	in	ns	a.nic.aig.
 aig.	86400	in	ns	b.nic.aig.
 aig.	86400	in	ns	c.nic.aig.
 aig.	86400	in	ns	ns1.dns.nic.aig.
 aig.	86400	in	ns	ns2.dns.nic.aig.
 aig.	86400	in	ns	ns3.dns.nic.aig.
-aig.	86400	in	rrsig	NS 8 1 86400 20260115090748 20260101085128 16338 aig. o5jFHrEAvEWcex8JkpGAWAQsaw1tZNEVKrDPDqK2fUz+5T67OB9g9STKhS29hEYFaC8a6IW02zhnQTWu/yXBzQgHUb/wcfgsrdCEkivMjqFUwH1wxWXuDeqpewgba6gKuTNriJ9JRBcgIEnadhZ4PUlwjVDCOBdwzs0vuF8Z0CydTcTYUIFA8aJKDBQ7rWx8AUqxUbhio0t2FXKXYBhCww==
-aig.	900	in	rrsig	SOA 8 1 900 20260119233431 20260105223431 16338 aig. UxKG+MWOJMcwZf6CaeAA65tGIqrHm2tHfq0s2dTBTDFB61auAPumffVQGYXa03geZNgATsDXII913ft2m+ZPrX4bPevsXjLWklFSFUpj2fHXbiW0sM16fopGo+jB3O72tCiR0gQPEyUHsypNhs3xNQxsKu52BKhGQ4BmbFxG1BD8NsZZHZKDyWTxlIwuEswv+rKYCSDtBo9YZHhKEMRvsg==
+aig.	86400	in	rrsig	NS 8 1 86400 20260202073750 20260119071152 16338 aig. rQb8xjm/jNtlc3CeOZHj1AO61802x22JcqBZjRc2VlVJUA+Y/NOa6auJ5B+TGWmbsNRD5TqmyFdrgjg0EkOiBZPCWD7yHaaHVEGqAjNLmf8788IzSUeFqyV6YTLnTH0/7T4q84uznZ4suN5aQ8y8YRhUB0KGSKCq4Wrzc6VhsS16lLhBQKL0plP0k/E+5fc4ZfLSC1FU817m5BPsPV0s7A==
+aig.	900	in	rrsig	SOA 8 1 900 20260207101509 20260124091509 16338 aig. MOvH2qs2HopgTcIsrkKY3WsGhCUTTIYPDhOdARCO+loNRgvG2QJ5lT6KDywd272w/kowDhU+l8eZcT5qvNSkRd7TE1yMO7ER2r6c1N+TaYrYo4Mre6suujqiLkvxcbT+yvjPTRFeiXe3KNqUN9y64cMPNfMrysqLuqh0QU7cVd7pKpZOszEazzY6f9ipD+OnkpHWibo/OHQJ24TlwxCnFg==
 aigaarp.aig.	3600	in	ns	dns1.cscdns.net.
 aigaarp.aig.	3600	in	ns	dns2.cscdns.net.
 aigconnect.aig.	3600	in	ns	ns1.bluecatdns.com.
@@ -94,7 +94,7 @@ eut.aig.	3600	in	ns	ns1.bluecatdns.com.
 eut.aig.	3600	in	ns	ns1.bluecatdns.net.
 eut.aig.	3600	in	ns	ns1.bluecatdns.org.
 f3hihmh3krs91phkuiogaol067u48umr.aig.	900	in	nsec3	1 1 0 - MA3PNG60VLN0DGT59ABFLCMOIARBFE3E NS DS RRSIG
-f3hihmh3krs91phkuiogaol067u48umr.aig.	900	in	rrsig	NSEC3 8 2 900 20260117001259 20260102233737 16338 aig. DKwIodLGcpnzeXDU0/BJVl3Byj/CQNrnnxcxg3tpnyykP47kKV+A9FlkuEBO+KPpXJ0+e7Y15odwII+1MSIYmyYO+NF1pnnVZ2rI3qJfb6ClKMc4yQKJcjOXWS60OGhYGMKSn1elWw7tofYdYVJvHuHIVCajma5PPW+x7qDwtfacnbZWddF3s125rpgGobPzKGGLSRwogstpIXT4Q4Rdnw==
+f3hihmh3krs91phkuiogaol067u48umr.aig.	900	in	rrsig	NSEC3 8 2 900 20260203220535 20260120220055 16338 aig. WPkrAsKqXInqhKD37dGKYKDRA1f0Hrkxc9Gaa/CKxbl3uqvZESwPQFVIL2foV9PqH6ZOWkv7y3UTdNM/Ztq9V2OIDYhoicNjPcvDZ2//AiP/vbRTPiLeIUAmHyY+acNVp3JOupBOZbQV6X8W5zIL8DpSAsvnz56wlM6esFZkwVyB4Jp/XPEvUeT93joVmvtX9wACgY/WcesPupstY8NuOQ==
 golfher.aig.	3600	in	ns	dns1.cscdns.net.
 golfher.aig.	3600	in	ns	dns2.cscdns.net.
 guaranteedwholelife.aig.	3600	in	ns	ns1.bluecatdns.com.
@@ -122,13 +122,13 @@ laborplans.aig.	3600	in	ns	ns1.bluecatdns.org.
 m.nic.aig.	86400	in	a	204.74.104.90
 m.nic.aig.	86400	in	aaaa	2610:00a1:315a:0000:0000:0000:0000:0053
 ma3png60vln0dgt59abflcmoiarbfe3e.aig.	900	in	nsec3	1 1 0 - O8DE3EJLP166TPNHJ4KKKUDAD0L5I4O1 NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-ma3png60vln0dgt59abflcmoiarbfe3e.aig.	900	in	rrsig	NSEC3 8 2 900 20260119232012 20260105223431 16338 aig. He12nTHsbDWg9Zoza5enszCTlIGPe7jjq+BMq1FGlVIK2aNIQ0PzO/hCfYC4kW7nmupE3DtA1YZq7KmoQ8jYf3EILtzVefyqAIWoe/GUq9XFvI9xmflZ6x/lNmK88GbO6MN9Bbdfwjb2W7ASwTV4QAtoqhYXK2W5uFIs79gyOs4oDWEtrJ+HfkAsFQUHsxroLAuFZzVoRpcN/geFjDAbYQ==
+ma3png60vln0dgt59abflcmoiarbfe3e.aig.	900	in	rrsig	NSEC3 8 2 900 20260206213425 20260123204212 16338 aig. km9NsmeQ9zM5SMLWokFNLQ2PBvDnsW6yv2AZquGd1VAJgxk68lV+YyxbCxrsN52xeRN16AFTDaPexQtdybTmSytkhOQsdYdrY85XjMzNAJhW0y7JjEL37xpjG5nJ6KIxViH2wnd+S2GBdAGTMBqDbNFzh1E0ULyAqdZp4Io4Ei55LJRrYuvVmX5ldbIYnhyqahszoaSb8yLrdO2TCIcFJw==
 mydrive.aig.	3600	in	ns	dns1.cscdns.net.
 mydrive.aig.	3600	in	ns	dns2.cscdns.net.
 n.nic.aig.	86400	in	a	204.74.106.90
 n.nic.aig.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
 nic.aig.	3600	in	ds	33226 8 2 57BE5417A83A4C9B8E4848C90E552428DA4A7CC8AB99C02904B1B59785036536
-nic.aig.	3600	in	rrsig	DS 8 2 3600 20260115090748 20260101085128 16338 aig. YCNbEMg/UBJZ+BWqiqLEybI4PeUzTZvnzzLyYwSqzjjoihnUB07uYIbdZmFivlQ/3fN6OPRkRRf7M1Sv+qENkirRG9ddNBztR1ukQzYIE03uBWAZl1sXqS8OsLZ0f7OwdnbQJpXW6xNDSImGj4eMsNfaZU4XZpUytXIkRNTv9Vy4Y5X3M7btr6G2ksUyt8ocgRVnh262s9F+0jZ/HILi0Q==
+nic.aig.	3600	in	rrsig	DS 8 2 3600 20260202073750 20260119071152 16338 aig. BQYgWj+2taoTZfPLTrQAlPrnE9WbJoyGNVA82TZTSEepQoNEShy3sQV/PCpfFDY4JsIF/P0SLaLY8TuWGiIW5QxZpFtI0Fsz4nHJhWrzwKs7o6nyAwmEtBehWtZjoPsKX1x5JXkOZjcFIcPyHKzmYOx7CZtm/OrsfFkFR5Z2DwYBvHrqRJh0al/QVMImFLvr1Asa1JEW65xhc71zUhS9nw==
 nic.aig.	7200	in	ns	ns1.dns.nic.aig.
 nic.aig.	7200	in	ns	ns2.dns.nic.aig.
 nic.aig.	7200	in	ns	ns3.dns.nic.aig.
@@ -148,7 +148,7 @@ ns5.dns.nic.aig.	7200	in	aaaa	2610:00a1:1075:0000:0000:0000:0000:0006
 ns6.dns.nic.aig.	7200	in	a	156.154.158.6
 ns6.dns.nic.aig.	7200	in	aaaa	2610:00a1:1076:0000:0000:0000:0000:0006
 o8de3ejlp166tpnhj4kkkudad0l5i4o1.aig.	900	in	nsec3	1 1 0 - F3HIHMH3KRS91PHKUIOGAOL067U48UMR TXT RRSIG
-o8de3ejlp166tpnhj4kkkudad0l5i4o1.aig.	900	in	rrsig	NSEC3 8 2 900 20260117001259 20260102233737 16338 aig. P33M1xOkp0EPV3ZNBz9QhfRs6rlgsWa4O8oOpcUJwvmqJt+PL22fhzKFEBotssCqQNsQboygAlUej82zRUWm1doE7mikGIHidAMa/TRELROi7R4Zf++2bZtS1aeW2035YyjCg6psWwy3HLE5lE0p9zqFWRDJ2+AmZZRoVtLVqck/XEVHes2Pg7yXRBpt9x1sFlPiCPrJ5/jkWmSeBOToNQ==
+o8de3ejlp166tpnhj4kkkudad0l5i4o1.aig.	900	in	rrsig	NSEC3 8 2 900 20260203220535 20260120220055 16338 aig. f8sQ9cqZCCgaLNTFYRakSt/XG2R5DhlxYDlkvquioO+790QPeDI7C+3bTKTLWToqrgb6F/Ix9WoznsJVvP3T7keJJ9obtOtsAjE+MpR0HhDwOvgmc6GOye8S3+KbpzU5oH2c+9YvouBv0kMW71rpqqcf30xcFobJx2aHWnqNQTedLnr7jQOzNZi6qYaMm5RQc3DHy9ZmBVbVTa8ytFMfJw==
 projectautobots.aig.	3600	in	ns	ns1.bluecatdns.com.
 projectautobots.aig.	3600	in	ns	ns1.bluecatdns.net.
 projectautobots.aig.	3600	in	ns	ns1.bluecatdns.org.
@@ -179,4 +179,4 @@ tumoto.aig.	3600	in	ns	ns1.bluecatdns.org.
 wps.aig.	3600	in	ns	ns1.bluecatdns.com.
 wps.aig.	3600	in	ns	ns1.bluecatdns.net.
 wps.aig.	3600	in	ns	ns1.bluecatdns.org.
-aig.	900	in	soa	ns1.dns.nic.aig. admin.tldns.godaddy. 1767595022 1800 300 604800 1800
+aig.	900	in	soa	ns1.dns.nic.aig. admin.tldns.godaddy. 1769215022 1800 300 604800 1800
