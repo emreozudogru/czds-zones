@@ -1,6 +1,6 @@
-windows.	172800	in	soa	dns1.nic.windows. hostmaster.nominet.org.uk. 1750680099 900 300 2419200 3600
+windows.	172800	in	soa	dns1.nic.windows. hostmaster.nominet.org.uk. 1750680108 900 300 2419200 3600
 004btlo15mqqgf369307ha00186opoq3.windows.	3600	in	nsec3	1 1 0 - D66SL8LQ97UFL31IPQ8J8VKMPQ3UTVCH NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY TYPE65534
-004btlo15mqqgf369307ha00186opoq3.windows.	3600	in	rrsig	NSEC3 8 2 3600 20260205200235 20260101191528 44644 windows. P6aYBuAXm3TVqwmkLFFkFNRDDuONqR3b3ckXEaQIXobuMCBUtV4lobPVz0RtodL6OpUHqpURbRqhHN7WwcbmjSdS0cYqi4Y/usu+YZToff03e42PXX2Q/om8UPsesaGwlNUPNCFLP1tRNLTw7+iBSbOpEseUaL35IA7Fj0jZQvtKgoziUSPBEDVoppMXQNVOHsnUGHCfRTLfxRHRzHcpOElSCOSAjjHbwACKnlyJoVsuDK7Ac7rvscNBQNSPg+whbrJHU2gVzIMRR2L+URpQrvF1VskoT9agLBL9XlE8WgINeJ9nbX6wjn8vLS3G+s64Mr+n5at3wSwfCN0OM0caOg==
+004btlo15mqqgf369307ha00186opoq3.windows.	3600	in	rrsig	NSEC3 8 2 3600 20260226180651 20260122174810 44644 windows. cwWOvDHm29neNtqKdI+IBsBcGQW0zj5de9seW2OC0ttLtl0zu2zV9mVAgpPDYjRBmv3vXx06gpTvYPuoIxE1cEQrXeWnOOowazFJyQxtLrMg2HemQ9yGFPEgLdO0RerX5k7TgWf78dKacnXB+jozgU7ncwpbkJ7+1hUoE0qUw/GwfuzWGhalr5gopqsv39/uZJuu87XOrGYpP2fGV+/zXk3EMV/NSh4ZQfBy8HdXH2J4E1Fj2W0gIQ6GSEHH45Q1uoA4t+WqCg18Wo87GxWwkwWpvQkgQ+/uui9ly9F66FReGs4/MBd1UdzPoydJ+Gil0mt7pppruDCD0YHTBFFk8Q==
 apps.windows.	172800	in	ns	ns1-03.azure-dns.com.
 apps.windows.	172800	in	ns	ns2-03.azure-dns.net.
 apps.windows.	172800	in	ns	ns3-03.azure-dns.org.
@@ -18,7 +18,7 @@ cortana.windows.	172800	in	ns	ns2-01.azure-dns.net.
 cortana.windows.	172800	in	ns	ns3-01.azure-dns.org.
 cortana.windows.	172800	in	ns	ns4-01.azure-dns.info.
 d66sl8lq97ufl31ipq8j8vkmpq3utvch.windows.	3600	in	nsec3	1 1 0 - MA3BFVMNJ4G776PMS1UL0ENFN03V1LHL NS DS RRSIG
-d66sl8lq97ufl31ipq8j8vkmpq3utvch.windows.	3600	in	rrsig	NSEC3 8 2 3600 20260205200235 20260101191528 44644 windows. RsPfj9/r1nBMEEilgtXPEdcoiuph6PYdEFzRmKkSeMgaIS4V1n6l6Cm08oUC+J9HU7iA0ZYNzYKDK0MUkz+mxNfJB/8sagfZ7r50gBiRbLtnAJRhf4qe3vG+/Pb9Evt/lvVAWqLifKlTa0zDKOBmdQElB2eikWzoY1XvLYcUqEUXY4aL58mwe1WnvDvo8OpciVx0g7Fzbkub6IBkloyZo7blUpL9ZWW7ivylWOpFSjHWWTSlyMpnf6V+pjxJK0puvW+QbVPNsF59Lx2J0BStWC66cn6Pv0wB3cfc+WC+w4J+F4YIkgwvdhDLweseGaK+TBNGwDH4PRoLCPYeYCsdcA==
+d66sl8lq97ufl31ipq8j8vkmpq3utvch.windows.	3600	in	rrsig	NSEC3 8 2 3600 20260226180651 20260122174810 44644 windows. a26aP+cfUpswXu+6wly1hv8uMGmY7QwslSmZZJKqnqu7YgHmgcI8NM5ln0wZ9YE3YICr0KoEB/Dq0qs5hFa1/sgV9oGCvIYdTxTUdk9Hj1kXK4/fyvAGb/WY79jOuSXN/O50UP6hfcGK3XtYyssRzBcwsUx/m09s/KtfzN/URbf476JOJFZt3QR6D5KPeSoKR4IQY8oMdPH9tbGBJtEKXIrtfIxclSZn00ywS9ccDQClW/BjKR+jmAl6W20AUVAASxzKoHS6rsYiXTqdFcWgvlFVKcLKHbxjMcije6iQibHKRWhTZ8XtiMzhv8csg+4WIbFut1TjNBEAJuKk4KJmpQ==
 dns1.nic.windows.	86400	in	a	213.248.219.133
 dns1.nic.windows.	86400	in	aaaa	2a01:0618:0403:0000:0000:0000:0000:0133
 dns2.nic.windows.	86400	in	a	103.49.83.133
@@ -56,13 +56,13 @@ lumia.windows.	172800	in	ns	ns2-07.azure-dns.net.
 lumia.windows.	172800	in	ns	ns3-07.azure-dns.org.
 lumia.windows.	172800	in	ns	ns4-07.azure-dns.info.
 ma3bfvmnj4g776pms1ul0enfn03v1lhl.windows.	3600	in	nsec3	1 1 0 - 004BTLO15MQQGF369307HA00186OPOQ3 A RRSIG
-ma3bfvmnj4g776pms1ul0enfn03v1lhl.windows.	3600	in	rrsig	NSEC3 8 2 3600 20260205200235 20260101191528 44644 windows. lMZBgIstJA+g5E6lUg+9CrNEYsHloQktX2LaXPf/JEMBKTPo9HVt3mfHTjuey/5GXcoR1D6OjJ3GopJSWqZYECN/MEFk3qQpFbb4uEWfTlS7VI22IK9UeTuVAf7Fxq0PBOs/l+/uUb49mzG46C2G+PP7aZNgg5UiOAgAT9RTOn/P0+GgYf9bmJZFYEg5QtXaOMF65Cn3sGJxu9czl2B6SrYYy/L0dxWbUspZyWWcWH47FfkqFF2Ew2xFCAZApKQS5nHvlqWLjo9wtd6VB5DIGgNRYWQUL31VfV3TAPTaytEmH4qMmqWJRGo6JfrhJrH831mV9SrSybPS/CyDCekC5A==
+ma3bfvmnj4g776pms1ul0enfn03v1lhl.windows.	3600	in	rrsig	NSEC3 8 2 3600 20260226180651 20260122174810 44644 windows. fimOtGLdpolV0oC9qTTexnExrWuBLOEx30TcksX5Z/+yq1/Uz7UHKbfnzkmXK0H9zvms2ms/QnirOeLIwxU9yTIFMcGipsFTIUr69D7qxwpPIA+z2k/YKmgqXgDKrZZKG5SD/j1qYXqvF1/T+wwU+8fuqDXsUVllRHy/5+YXQ3aMjBXNB0WBAaQiXrtwIxx08hFLQzMRojqOt7Ct1W2mnaFbbn9znhbb8azuRXQruQzmazDl2pvzF8jnuWKspBXxwLtstgswAt0JrjemRHbpAuDQAqXVbIN4MRDzdYlI3i6Bz7LLFe8UclthCpLM7edC1HCzwmpes0Bnw9Rdp1YJuw==
 microsoft.windows.	172800	in	ns	ns1-07.azure-dns.com.
 microsoft.windows.	172800	in	ns	ns2-07.azure-dns.net.
 microsoft.windows.	172800	in	ns	ns3-07.azure-dns.org.
 microsoft.windows.	172800	in	ns	ns4-07.azure-dns.info.
 monitor-nominet.windows.	172800	in	a	127.0.0.1
-monitor-nominet.windows.	172800	in	rrsig	A 8 2 172800 20260206034419 20260102033819 44644 windows. U0btjfziDRZhfvBdkReJvUAk2OCfo+IY/id1EbUpK9Y+LWfbYLfn6inTHW6PSW9GLf7kt6QCRIZ4EREwq5y5fRUPcy8Eq9MLgvVsTimtk+NhP2Q+Inux1L/ZVm67tKkIIKDOmvSrpiU/TtYHSvU1xl5DnFDKRCnpAdofoAn3ukG2aXSkiCkvSoPuhG89mvdar1WebnIPxMg8FLmUht62JIoFXkUfMoGrGVn6aL/nDzQeQrfXzDHfSy8/PXYfWKlf9D+V603jE8811LbqGwkuu6wQBVIjgoOxSFwRTzgukgp6b3mvUblQozvXy/g+J+0EhHXnwa8cAsgk5RhXdKVFIg==
+monitor-nominet.windows.	172800	in	rrsig	A 8 2 172800 20260227022754 20260123020913 44644 windows. R60BLXxUWecsYIZgKDpJXjVUvcp4gA5cCbNcWNQPYNlQjZ88sHbXWNRQRUsZxG2ejKksCid1MzLCf0dJotqZkV8VwWlzdsc6fxxYZN2cOFJH6TgojNKHJxWpiorObZPEahmCfyc207Uf6e7C9Q41Ys02a4Tn8wBYjmOFiIcaW+7Go5YHE55vsO2hNyHvdL7SOs0JN2N8TaRicRnAGqOjayLuYObC9iAG4LYt4JPvcp2j0y/b7eQVhuIBV+xwbfrZhtS8g7hF3iCcsKld08NTqTGmt+pz7xaPMEosl6oyLQK/UDf10fpsjVRZGqPNKRp4DVnX7q3iGT1/dIy54v3jlw==
 nic.windows.	172800	in	ds	12682 8 2 79B0CB32671945C535DC9D8F5D9BA7FAE335CF9C635C273297D4CD6314430850
 nic.windows.	172800	in	ns	dns1.nic.windows.
 nic.windows.	172800	in	ns	dns2.nic.windows.
@@ -72,7 +72,7 @@ nic.windows.	172800	in	ns	dnsa.nic.windows.
 nic.windows.	172800	in	ns	dnsb.nic.windows.
 nic.windows.	172800	in	ns	dnsc.nic.windows.
 nic.windows.	172800	in	ns	dnsd.nic.windows.
-nic.windows.	172800	in	rrsig	DS 8 2 172800 20260206034419 20260102033819 44644 windows. NCN/IM/pNAaw9BLV2XdMn6aslPhE/Dd8IPFnQB/u0QQZpfwNmzxWQ4OQGYj5u+wkPWg8XQJa0oLW9VFiOodqRf4De5sRxfj757hQfUejENsRpmj/DS2vy/p6cW82nAxarJcA1qLJUiiPyHIu9PYrDo83MYKmv44Zk1E8t9VlVHCE1jM24pY1aPaGSvUWO/lHJKmj0eVJsz1Uwq54yeBESRlRBQrWp6m7AYZUTNr9onnytit3fto5Ij43XFnabTBxGyV7ljh3Opxv7MfiTFLR/TEoIqCvb4Oa32jea+NXmIR/yMhFBGhOiruTlTtUgBtspd47WOyE+BNvqypbermxMQ==
+nic.windows.	172800	in	rrsig	DS 8 2 172800 20260227022754 20260123020913 44644 windows. Rw0Rcx4bgSvFzKJxHXEfluT6OKbw+a/ONv4aUbB0nktXQrmA0zFmCwTXyis4x0C8GkHklXnkBNjG85iax5unXR+3B2IjLdBtF+iZs5d7drxrXPNEzIy559baTGnqwjFANpD4c6vJh2PEi92YDbHP43d/mso+k+O1R36BEFKofy48Gl4hTqqUyqHP6LZvW9uQLVaPMpLnMZEib6NfweyO9OLq8nqqWdHI5zhhS5O8p2jPWTwo+NYWTnxO0ShQcMeVHwEsdTWakpuNlX9N8zEdWQ3+QNhuD5vJtUGEk5zQO6RpQ8i8ASZamISyZoNC0XbyWQ2SSQmV4WDkgeYNpRq29g==
 pc.windows.	172800	in	ns	ns1-05.azure-dns.com.
 pc.windows.	172800	in	ns	ns2-05.azure-dns.net.
 pc.windows.	172800	in	ns	ns3-05.azure-dns.org.
@@ -110,11 +110,11 @@ update.windows.	172800	in	ns	ns2-04.azure-dns.net.
 update.windows.	172800	in	ns	ns3-04.azure-dns.org.
 update.windows.	172800	in	ns	ns4-04.azure-dns.info.
 windows.	0	in	nsec3param	1 0 0 -
-windows.	0	in	rrsig	NSEC3PARAM 8 1 0 20260205200235 20260101191528 44644 windows. FZ2gCkBT4GeTe9ZT+s8bODcjeCxAqHc/SB0MMSNzRG1a21OVoqYb7oJt5Xn7uCC3lZqD9z+kHdkOMFfWiKD/KEkS48bFlbwZ8UUMToajtgoiVVY04I467oWno7f1pD9CaatqyNTmeYn1OoIiS6ZapUczKSjpnzeawHzN32GoVJZ0MCzx+1x1iZRGopeSuoMJ5168gRFWZ2GDBmVWoCfHdjf9QPI3yxwmfyCsptXWop49QvyYSONu2xQ0rFYtdfVW7mW47tuCRz2aKzMpJSrIUH3uakXX7dGPjrH0fcA9Q6m2fSLC4fH0lhR8cqrG09FCSu8cSe57jhcJYxgGVjyPZg==
-windows.	0	in	rrsig	TYPE65534 8 1 0 20260205200235 20260101191528 44644 windows. EpoqiZ70+bR/imo5Ji1d8QgMPSFXZY1dScRrIwEKd2s/lSuuIlMZWF6jYXv3Zma6X7HVcUVLCLBETQmxFaRSe7sd9JlYr9j4CmjTL6r5xyLdQ+yobMXSMQfTjg7xx0HblTQnte1EynaWEd9y/7w2ItYfrOYqHGcOuTLr6TliFhB717HdmWe3yJGMLtmLkIgwlGkfxk9oIzHRbtjKcKOn6RRXdKcOuYi/fPvUNWMw7OWw0lYEodB63m4tl7rXmdF731QA+WAf6edrcC0MtzREmxvCIj2ub/hx0/O3DnJDzPJNQMkQ/E8YhpfOU/vqXHmo1vZOL+LrJLX5lxqLEK6Ceg==
+windows.	0	in	rrsig	NSEC3PARAM 8 1 0 20260226180651 20260122174810 44644 windows. ZmtYCfFZOF9hwYRshSZi72GouudFbwlyA/Ko5NSNLC0HzjbwhpDflU4Z3ML6O47b+VUs1dTGAUFeapybKk6PiTpFp96uiG2mZ9fkyUsm1ICm1ZIPjhg1QeiyQSCphnPZMCpu68utvKPMDlWaZOc/qN0xccaNDWMkk3dOZgI62rJB96D+HLtHDV6nQ/MN74w5KaGmgOVVzq1Bfk4uW/NCAvd+jteI55Aa0rkZ2Gb8KAj3F/B1pgeY/BAw0pNRt0YLc0USxNrrsk6Y4OCE7weNPfrDRR79NjqfnrASWWUQmZWpcGIC8rSGv6PFfhpjlygXUa+mig0pRYl1k1RaDox0XA==
+windows.	0	in	rrsig	TYPE65534 8 1 0 20260226180651 20260122174810 44644 windows. HAtG7ZseVl+OpMROD+Z50LScfVYelxX1BUwCPayTTOcrMVHe1Po/IjDERCNhK7Tz3BKtLrQS56lKtfEF5dXnnVmudKXdGgexLsHfQ00S33LvdfwHJLunR03kcmUHNHQ5X3GD4DXrbw7WZMAl8t3KH64EDjPICAtxAjGMgWvV8sLR3WPq6bL8RZS+JfBhgse+XtpibWt8STq/KJMgemYlZlt2E5Ed5gd4ItTDERQcC78zB1WH3k/6PQd663SaLfX+v1tT7fMjqCxLwNVrdDmp1haB6hSLsVRaevaEln/ubI2Di+NSsDrHJ9elH5beYLzVcFHNEsBNxOvwhSJqplNmcg==
 windows.	0	in	type65534	\# 5 087B700001
 windows.	0	in	type65534	\# 5 08AE640001
-windows.	172800	in	rrsig	SOA 8 1 172800 20260206043819 20260102033819 44644 windows. H+FatvGfgt3mQ/EJ9mVz46sVBnZLmv5lOetx8xjgIjQby7KJ2UyCXDR+KuO3sWgCWOIedrGYY0G16UaLnOa6KbXMktzzamp21L2NND+KQNrrnfnsWHe4DRhVO5BwKnZjkPpl1DAUkZAtHZ5x7DV0vM8EDAmyb/CvqhRVweBWORZUi/Srt9xH8DhajhCqfghzfAoAPvAYo5A5lYcip801OSPbaRU7+9SNZpMKRkhzPqWHl74Q1Lp7Zu13CfCGGhcQlJ2u3F5Cn4q54k4tPdvaVgRLdLluTPwYPF0EFCHO3tO6s/tqDAJUzHQlduY23VHpKAaxwlLr/8XuXhKy0Sr2gg==
+windows.	172800	in	rrsig	SOA 8 1 172800 20260227031632 20260123021632 44644 windows. aYmOt4bt38XPS+BbjgncZBGqg1/D2/pkUGZuRY+Az78mpryTMYPeiFipdfysc6Lf+1N6mnEGcZjaUFZGNw1Sm5kbW/cakAKUOxUbQrhj5r4RzdytM+zUTwuxJIgkVyNC47n97zPv4xd0IuRSvyP5OPRb2/cI1+ngwgqk437iukwjWRAnVI6hpHnXJxwsutb+F+dH1agY/O04BWmRA0pYQ00IIeDcjqUgzhXeZbpCM75eTB5TA+LFXaPOzYvIGhIMQPbV1GClJe2SlWCJbDi2xlT8t3l6jy8mKwC47NpdMi/36C2QB9fbc+xlzm3TPDNcodiwvl8seVriZ3XZLoV6UQ==
 windows.	3600	in	ns	dns1.nic.windows.
 windows.	3600	in	ns	dns2.nic.windows.
 windows.	3600	in	ns	dns3.nic.windows.
@@ -123,14 +123,14 @@ windows.	3600	in	ns	dnsa.nic.windows.
 windows.	3600	in	ns	dnsb.nic.windows.
 windows.	3600	in	ns	dnsc.nic.windows.
 windows.	3600	in	ns	dnsd.nic.windows.
-windows.	3600	in	rrsig	NS 8 1 3600 20260206034419 20260102033819 44644 windows. a0GSE1EvULz0DBfndoeQ3aZ9MhyJDnrMkG7d+x9OQXhWsIfUhi01AhCY0i8fYwxpCFYmBqeeCs18uajJMCnu3KOC7hzzdGrNXLNaIJqlPyAiOTOV8mk+04skDwBwHa8tYcjjR1VDk4lRT6QZBCWUmEwomp83GVO+bi0gmmce78s70BiGu2WWAMLD1BVTNOzDVuqWoOt0E7M9941DQPDkfj/VoxfCiYc0LzfgL7NtON5Ix3oIFnRML4z6I6TCNdsDXWMmAr0FP3LWU0amVjMLk7r9kkL2tCwOXyDeV7CLD9Ex4O9NlchMOCUg2v/vgz+0qXJaynAqWntmw1UieZdQKA==
+windows.	3600	in	rrsig	NS 8 1 3600 20260227022754 20260123020913 44644 windows. lCBvL/Bo+/q2/BE18a4pnDwy9z3smblmZLW+d0kEBzclGoWNg+ssXkxfmQ2hRDUrxGtLJWQtobTCQErMYaWO44NMY7fA6NP7p4f90QNAAeFDFHpl29Py6aBLEMZXOgXkcmleLBr/MSXG1rus/hsyLCs3SgBA/sJGya99xzbSGs/kKNlrQeK6IpvAlnd6W8E3bl2rBhvJJKVV0xtS8SyScBwIBCB32xzkKYRl7OCfquWCbZd/eAjF4t+xTegqKz0AnGETvPfufXCbRwVnLI+jhrYbs3Ey0SyGH+5+m79dK0/6bdsvU5GAuAatd4wKjhE7QQXR6kvoN/t9N/JS6h1bhw==
 windows.	7200	in	cdnskey	257 3 8 AwEAAeaCk3KTgcLEDM1ndKwpIIIkMm5lQSVAhr57mm8eH37zxO8vpVaXDUO31p6hpiIXuGgL5REu1xrq62AtoetzpHSza0516gA1PWDrrA8BG+gwmEMAFz2sbuUNJGOxPxCf2yqYwF+99QzSstvV4+bru/WmUIaWhnb7my0V0HCvh5u7X4wBPLhKafWB/BuGT1fF9QZz3D1gPrySKqOCdBQTcjb5zKUcsvE533jGznZApaXHOOCVheUMPetlH8DqIepFJ6X5yBGgm3SV1KLEf1gakAI2ds+FcfpBhBQPP1N2c8pHq+1NufZoothK89DhFXrD1edAPgYgA4eZa0ykLosYRQU=
 windows.	7200	in	cds	31600 8 2 8057ADBDC309CAC9CDB987F477B7217B15C88D0A7F84E3B9BA5AF412D24B60C9
 windows.	7200	in	dnskey	256 3 8 AwEAAZg5JqVdRfFBjFNQ+3omKqIXDDkOb34MiuqjkIIw2zJlpQ2Y1JWWYNghz0dXtY3K46ce8P0WU18fM7IJaPBcHjT+PL57AsY9rqECeLnjW4ZUcjisHZsRZnxkVBiS7xHy8vw0e7Ag/p/WvQR4Vq/Z4NvMDIeMFnm7qACZIo3QddeKSex996e4fWgbltrYvoJpASBeTuI2UIjPLQuf0pzE9IljkiSr7+JCSpZGGbvQrilXfWOvrX4KqgsLNrItwP8hNjkYl7e6iHXIj+P4DRZIpyw7PRGfNJNy4e7KJJM0nmIJnraxn5nCvYHm/1LcQ9UhHMcTMGoAoji+dt7OIf5pdtM=
 windows.	7200	in	dnskey	257 3 8 AwEAAeaCk3KTgcLEDM1ndKwpIIIkMm5lQSVAhr57mm8eH37zxO8vpVaXDUO31p6hpiIXuGgL5REu1xrq62AtoetzpHSza0516gA1PWDrrA8BG+gwmEMAFz2sbuUNJGOxPxCf2yqYwF+99QzSstvV4+bru/WmUIaWhnb7my0V0HCvh5u7X4wBPLhKafWB/BuGT1fF9QZz3D1gPrySKqOCdBQTcjb5zKUcsvE533jGznZApaXHOOCVheUMPetlH8DqIepFJ6X5yBGgm3SV1KLEf1gakAI2ds+FcfpBhBQPP1N2c8pHq+1NufZoothK89DhFXrD1edAPgYgA4eZa0ykLosYRQU=
-windows.	7200	in	rrsig	CDNSKEY 8 1 7200 20260206041159 20260102031755 31600 windows. LeKZp43U8QzSlszRTQs8KziuCLTRsVNFKEhK1s7BNGyYq+hbqHvYe1GB+PmOymWE91ms+we8soZtbGpqXKuYgBgPVbU+Ct0s4OCdGFUGNFtwwK1ahTm5UygAr+M2zrJJegvgPtDRV7atHJoyqbRACLhyLj5rkxsSgUkr97Qn1uOtBHr4gKGO2yak0qd6390g4g8/P+LeIzKWBZfhpnYh3qVp7qibLnVYxdlHQmG6/DY1esewnPj7fcbFf8NZtnX4dSqpR/E/k7M0wCBvqklAHWv3tgnlpWvKgsDOyj1xmPO7Rn6seZxwK5lEflLUMsDWVHhJaH+Mam1y7iRHYp92yw==
-windows.	7200	in	rrsig	CDS 8 1 7200 20260206041159 20260102031755 31600 windows. kCMnMrYo3R8XrrpZdSdt2zyzVN3zT6onKUmgYNQL6nN5oMMfTU/SBRLZQ3K17ARWYaBDwboYrdPynraQEL3eEc5YpWDV/0sqJyUwRiF/7lYcP3Jd0f8C9ZTPWNqmCeyw3zY78+pRk9iAFjw67Pkbd3JCyLG9etRgLIb+2PCg9srhzpvh7n53p1/91aahGqLzXtqPNM4IcFGxd7c0TbmGACRmBqva7eo3z/vmoZo2nRBM9Tc1G6Bu4U/2+4Lz3j26Bn3eGXBmhFVj5uAJ38EZH0XbW6k4nN+YTzcdfTH2T7o3WGWuvxn/ejrfHGKHC27NLJTlESHaoOzII878ciY2Pw==
-windows.	7200	in	rrsig	DNSKEY 8 1 7200 20260206041159 20260102031755 31600 windows. YrmWHj7vajCXDMKgRYjM/0McwyxiksnvGn1m4gDr5HQFN9tpFF1KRYeJYG9/lOKpXXykBomJ6Vxt07StTNQOOVETJjs4h8H3eTqBsY4yjWNQJ+dgYLystFP+uwu25b2ymui+UCj9vfb2ZYD139XSNKVzqPXdgdn3Djei4DScAiC6UcPi2fQst5lfxakqsPcllkfp3aL7BccCRhealu94nriOwVorBpgJFitjyORB1rurP3LoIB1G5Y9ktJ8YSbM89PAY4JLX1bz5DuE7kXSGuZU79h0L7Czfwv5+OI3G/xWAcIq++1/b/1L+2CCgf1bx/DgAPMqMk0Ft89Dpy06TVw==
+windows.	7200	in	rrsig	CDNSKEY 8 1 7200 20260227030628 20260123021632 31600 windows. rkTTppZ8dbtar3TThNDQi75KQ3nyzWUUTybcJDr+J+1CmwBPNBm9hN7RpFm4cWS3D3Bjmt1Z/vGothvzFHGoPgHFsRP+MjhcURAN9QPyGGRzwc4k0WEwqznJ57awAm/al9SkpZeVi01eJtkh8C/YnUl/NHSr1RVUI7hkI1r7/vwsu0hFroAeqpGsDMLVvZi43cSr/ONQy5a4rvF6OIFb4rzRy5plKPZX76V0O+UwEH8hvNl6B6oJenDMf2bwrDEveWKvgSesYcKKOBHZvCS0AhAQMYcykgMYwCOlyOBhFPuQMs15LofxnNpP+XYauTi2PmawdxJrrXVDiP2HteTCsA==
+windows.	7200	in	rrsig	CDS 8 1 7200 20260227030628 20260123021632 31600 windows. Zwp5yVYltt2PbiVXbhCvqJYBYnnvTHYIcIB2s2QBG5aSQN8lwbRx+UB0ytTVaD4d88wGesE+eBNIT3BE64UbDRsI2VuUj+OwXNSFUsmZxqUNkmnSZVenQqRd/s9Hwl/cr+EqiOcY29YlDS/Z6tochSiXpQnLFNB9KeYLvcM+Lu/5uFC5JgNuZsnbz+uBwpp7dE9O1ZH2sh8dZvxz+4RlQg5WynchqbAaGNPyuz7XscDYzz01JS4/1EYb7aXQ9vYMCp/KGKEcQfaeNAiU8tO+lP2AWUS4cheURZu01c/EtpcLJVSDys9aZER1mmarvJUbN0bjL18QqoO4BY+xNh4i8Q==
+windows.	7200	in	rrsig	DNSKEY 8 1 7200 20260227030628 20260123021632 31600 windows. xVKHX7jh8eYWL6pCIcC3rXf8Ut5jaZc3QiObwvXU47z2lrDp9VUpT0V9oakRHsNOgMCjD3tWwSGVJhoe5UldDdu02jX2rVApXA+DjX6i58MrevdIJtv9gPu96TOG6uqXmxczgsTu3L98T0X89Z/P4S5PlBqefvgbBvoanpHifnSw0hyyhfxisAbXCoT4GC6BGf3OdM1SlQZy8iJGG/FqyRZQHgenO6zx5ZsB6lw1IOy7tViwmFR+Kb49b2hnCiHdsKRcEoY+Cku6pxwqottgoA5BesEoarkued0+4sy+Fd7aO8mG4bCi6K+O/HpMR0Ihx7SUQOi6zIf+zdKIHUaoxg==
 windows.windows.	172800	in	ns	ns1-04.azure-dns.com.
 windows.windows.	172800	in	ns	ns2-04.azure-dns.net.
 windows.windows.	172800	in	ns	ns3-04.azure-dns.org.
@@ -139,4 +139,4 @@ www.windows.	172800	in	ns	ns1-02.azure-dns.com.
 www.windows.	172800	in	ns	ns2-02.azure-dns.net.
 www.windows.	172800	in	ns	ns3-02.azure-dns.org.
 www.windows.	172800	in	ns	ns4-02.azure-dns.info.
-windows.	172800	in	soa	dns1.nic.windows. hostmaster.nominet.org.uk. 1750680099 900 300 2419200 3600
+windows.	172800	in	soa	dns1.nic.windows. hostmaster.nominet.org.uk. 1750680108 900 300 2419200 3600
