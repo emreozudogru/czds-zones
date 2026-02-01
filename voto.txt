@@ -1,6 +1,6 @@
-voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1767662436 7200 900 1209600 3600
+voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1769304285 7200 900 1209600 3600
 0nkv5l15oog6rn1ptkosruijaeeuk39g.voto.	3600	in	nsec3	1 1 0 73 4ABGPD6LF1TQOBVIQU45O0ADT75LAC0P NS DS RRSIG
-0nkv5l15oog6rn1ptkosruijaeeuk39g.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. aIZ6m02CfzfkpQnUfgkRGmy07rmo6RS/AtCZSXt6kZkLIUpzmgx+XQ+7C5pncHrYIMbI/Yd+CkScSby/bdhYAXmaq4IejncBPgPhVjlvc1iRTBa1pjAQqw6uVVRd2Ru7efxrIq1cPGvRMrEfvBrsv+3AlUBigoCf4cgqJ1i7kOM=
+0nkv5l15oog6rn1ptkosruijaeeuk39g.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. p8PwnFOXMzA8lRwMEfbzsq7gqDZFOw0tKlP8sTCsb+nxfBm3rVzAE+BIQp+elQBf9tgIYtiFVhNB9lbtOYFZjP3TiTzFseeT33t+VFPyNqaFyhMxGFHqsuiKNuHLkqGPLv/DTG2uUwP225FptFMlq1WA9cu/cJPUlIl/6Cc+Mbw=
 111.voto.	3600	in	ns	pdns11.domaincontrol.com.
 111.voto.	3600	in	ns	pdns12.domaincontrol.com.
 11145.voto.	3600	in	ns	ns7.alidns.com.
@@ -17,6 +17,8 @@ voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1767662436 7200 900 1209
 123.voto.	3600	in	ns	ns2.cnolnic.net.
 123b.voto.	3600	in	ns	hera.ns.cloudflare.com.
 123b.voto.	3600	in	ns	langston.ns.cloudflare.com.
+123mkv.voto.	3600	in	ns	elliot.ns.cloudflare.com.
+123mkv.voto.	3600	in	ns	noor.ns.cloudflare.com.
 123movies.voto.	3600	in	ns	dimitris.ns.cloudflare.com.
 123movies.voto.	3600	in	ns	iris.ns.cloudflare.com.
 125.voto.	3600	in	ns	dns1.registrar-servers.com.
@@ -37,12 +39,16 @@ voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1767662436 7200 900 1209
 18win.voto.	3600	in	ns	fred.ns.cloudflare.com.
 19967.voto.	3600	in	ns	ns7.alidns.com.
 19967.voto.	3600	in	ns	ns8.alidns.com.
+1gom.voto.	3600	in	ns	jill.ns.cloudflare.com.
+1gom.voto.	3600	in	ns	joel.ns.cloudflare.com.
 222.voto.	3600	in	ns	pdns11.domaincontrol.com.
 222.voto.	3600	in	ns	pdns12.domaincontrol.com.
 23153.voto.	3600	in	ns	ns7.alidns.com.
 23153.voto.	3600	in	ns	ns8.alidns.com.
-23win.voto.	3600	in	ns	cody.ns.cloudflare.com.
-23win.voto.	3600	in	ns	maria.ns.cloudflare.com.
+23win.voto.	3600	in	ds	15032 13 2 6CEC9B280B4DD264DCA1E0334B3E64CC35338F47D913FF92AFF08E6215C19811
+23win.voto.	3600	in	ns	launch1.spaceship.net.
+23win.voto.	3600	in	ns	launch2.spaceship.net.
+23win.voto.	3600	in	rrsig	DS 8 2 3600 20260211133305 20260121123305 19860 voto. TD6wTn+34oktAGvlEHjNbYOov1LOfxkOclAwBckQLGLLb2EliftFu2SNmTjd/n942zuWWWVgW+01kZCHsKOvZVjNuqVWOs/txPfogDuyqwh1HaeTA8+ueBWmmgF/z1kh549d819Xwj97ceVkuIuVB11OSa6G5bks7gWPFhkPuFc=
 247.voto.	3600	in	ns	curitiba.ns.porkbun.com.
 247.voto.	3600	in	ns	fortaleza.ns.porkbun.com.
 247.voto.	3600	in	ns	maceio.ns.porkbun.com.
@@ -90,8 +96,8 @@ voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1767662436 7200 900 1209
 45999.voto.	3600	in	ns	ns8.alidns.com.
 46652.voto.	3600	in	ns	ns7.alidns.com.
 46652.voto.	3600	in	ns	ns8.alidns.com.
-4abgpd6lf1tqobviqu45o0adt75lac0p.voto.	3600	in	nsec3	1 1 0 73 556G9UKBMAKP9MQHKAFI5BHEL27AK9NS NS DS RRSIG
-4abgpd6lf1tqobviqu45o0adt75lac0p.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. SmnuW3pWdSNpj5Qef2eI/ERq+N7M2zKIqROheVRBx5JvqO+T3R4QM43WTMfzvCkynn6uAeBxC6569UFFD2j73GWT1B6clkS8KKKCfzNw3ndyilT7uRGDHZKwl769jqKbPR+8f0TBsMVVRAJiCPvRIWTFa5d0zDwARBi6BZg0mqA=
+4abgpd6lf1tqobviqu45o0adt75lac0p.voto.	3600	in	nsec3	1 1 0 73 5OG60AKIV3S3VKPPK8T9PGJPV72D83E3 NS DS RRSIG
+4abgpd6lf1tqobviqu45o0adt75lac0p.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260208171755 20260118161755 19860 voto. kba2FchC5HYr+4xUR4ovs1Rp3MzAGuh6wPNOJTT7yaS/qqiV4oY3MMLpqQvJEFcqNhg0ggndJ5tNrbp6XeCHDYpOSlQXOvNMGaR09stutH3zidT8CqzbpV4Ki92hVjTqNRcXpz35LW0lvwgNoLY43QIgIL6/CkdSLTTRIKBVRGw=
 500.voto.	3600	in	ns	ns1.dns-redirect.com.
 500.voto.	3600	in	ns	ns2.dns-redirect.com.
 51753.voto.	3600	in	ns	ns7.alidns.com.
@@ -104,8 +110,6 @@ voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1767662436 7200 900 1209
 53751.voto.	3600	in	ns	ns8.alidns.com.
 555.voto.	3600	in	ns	pdns11.domaincontrol.com.
 555.voto.	3600	in	ns	pdns12.domaincontrol.com.
-556g9ukbmakp9mqhkafi5bhel27ak9ns.voto.	3600	in	nsec3	1 1 0 73 5OG60AKIV3S3VKPPK8T9PGJPV72D83E3 NS DS RRSIG
-556g9ukbmakp9mqhkafi5bhel27ak9ns.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. bAdW3I0QPoTqdFnle3EKdofwUMoPobWSMNt2wH03hY+6cDFlxwWNRM6BqqyQ7j7dg5qnYTEOEiPOQx17eIzDw3sPU64zjFiWUv7mtQ/f1Ka4qfRNdZoM5SOVekFDvXvSRnnV3ocUk++0ElK945xg+w4EfKJNsxUsxFE/drRfuRU=
 55789.voto.	3600	in	ns	ns7.alidns.com.
 55789.voto.	3600	in	ns	ns8.alidns.com.
 56077.voto.	3600	in	ns	ns7.alidns.com.
@@ -121,7 +125,7 @@ voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1767662436 7200 900 1209
 5movierulz.voto.	3600	in	ns	hattie.ns.cloudflare.com.
 5movierulz.voto.	3600	in	ns	santino.ns.cloudflare.com.
 5og60akiv3s3vkppk8t9pgjpv72d83e3.voto.	3600	in	nsec3	1 1 0 73 6F9TN59KGVJU2COFDQEF41H0ML4URQR8 NS DS RRSIG
-5og60akiv3s3vkppk8t9pgjpv72d83e3.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. V0UQ/R8cP9tU34rFojk2uNz+xkimmkWpo/79I8pDbF3qZoqj0Gl0UT4TLk2J3oKiksDw8PGskFepsq0aj3Hd2pVswsxPEmU0EC4pXKaUjili1QHmbQmPXV3M5fNOAq3xKlCOIgZKa30d0d+fyHzjVVs4vvdSTaOIueUvJptqE9M=
+5og60akiv3s3vkppk8t9pgjpv72d83e3.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. Q/2UhudXkmxXDDS5OsU7ogFWq2JouVfeQ/8oS01XbZVeQ1BtFl6bXZJbKFA05QSi2CptPN9jvBiMxNR5ILHMvU2Aj1ZjaHdkk9cKCW7HDDDfX3j4QWBQjkWt5oslZyJNc+pcaz92x5erLIXUGO+WUg9lzHr8otAK0fJ9vAqAais=
 60496.voto.	3600	in	ns	ns7.alidns.com.
 60496.voto.	3600	in	ns	ns8.alidns.com.
 61010.voto.	3600	in	ns	ns7.alidns.com.
@@ -142,10 +146,12 @@ voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1767662436 7200 900 1209
 68gamebai.voto.	3600	in	ns	monroe.ns.cloudflare.com.
 69vn.voto.	3600	in	ns	dara.ns.cloudflare.com.
 69vn.voto.	3600	in	ns	jacob.ns.cloudflare.com.
-6f9tn59kgvju2cofdqef41h0ml4urqr8.voto.	3600	in	nsec3	1 1 0 73 8ECR14B68FFE149G6IKV3PER4ASGJ552 NS DS RRSIG
-6f9tn59kgvju2cofdqef41h0ml4urqr8.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. Kuhn8NY/MRhr3IfBifCMiF7MCal1Vz2DVqMSgEI698/uZeR/BrwfflOwoQINMlZzuGYyfN9jCOiNvpqNbSj4Ez3FMVDaiKbNopoq7haYnXOeX5qZy4ceALlzUVdiTtWFXrq2C39zIWC5rtEHddjV/KJfAgDICZxycH6KpTPxVkw=
+6f9tn59kgvju2cofdqef41h0ml4urqr8.voto.	3600	in	nsec3	1 1 0 73 752REGP4K4E9JEVJUA74HLSEMR8V8678 NS DS RRSIG
+6f9tn59kgvju2cofdqef41h0ml4urqr8.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. X6wdhHLxn0xiqJb38tMpXm/uUFge9O082++1R2Dqwv1PlEk4dWWMzk84FBR7D+gb34l70B7YDTLIw/KDLR9XnHIniJXdBgcT3s2XGygGUdzAKcOwpP7SvYg3Wxs9iHnF+gpbUOjvyGJ61WH8EZG4ISEqSVfR0bKhosWTvvvCrSU=
 70926.voto.	3600	in	ns	ns7.alidns.com.
 70926.voto.	3600	in	ns	ns8.alidns.com.
+752regp4k4e9jevjua74hlsemr8v8678.voto.	3600	in	nsec3	1 1 0 73 879BV767MP6PGTR5JTSBS6FG5TSR600Q NS DS RRSIG
+752regp4k4e9jevjua74hlsemr8v8678.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260209050517 20260119040517 19860 voto. pgsttq4uYgzn5wwZfoIULJtEIJzVTNytBT11sQTnZCebVaGQU9USM2FfUPT6dyO4urdB06Np6KRDjZ0s73etPPKAOICl1ssykv1xCrqXnSWu8Zvw1EzG6EFHQRO8QGijjD7RWSEvxQw6GFfnZCqW+j5tU4F3Bo1f87eB3UpEZGY=
 75523.voto.	3600	in	ns	ns7.alidns.com.
 75523.voto.	3600	in	ns	ns8.alidns.com.
 76627.voto.	3600	in	ns	ns7.alidns.com.
@@ -154,18 +160,12 @@ voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1767662436 7200 900 1209
 777.voto.	3600	in	ns	use.dnspod.net.
 789bet.voto.	3600	in	ns	cullen.ns.cloudflare.com.
 789bet.voto.	3600	in	ns	elisabeth.ns.cloudflare.com.
-789club.voto.	3600	in	ns	ns1.dyna-ns.net.
-789club.voto.	3600	in	ns	ns2.dyna-ns.net.
 789win.voto.	3600	in	ns	jasper.ns.cloudflare.com.
 789win.voto.	3600	in	ns	joyce.ns.cloudflare.com.
 78win.voto.	3600	in	ns	harleigh.ns.cloudflare.com.
 78win.voto.	3600	in	ns	peyton.ns.cloudflare.com.
 79king.voto.	3600	in	ns	carrera.ns.cloudflare.com.
 79king.voto.	3600	in	ns	julian.ns.cloudflare.com.
-7starhd.voto.	3600	in	ns	ns1gjz.name.com.
-7starhd.voto.	3600	in	ns	ns2dfg.name.com.
-7starhd.voto.	3600	in	ns	ns3dkz.name.com.
-7starhd.voto.	3600	in	ns	ns4bty.name.com.
 81487.voto.	3600	in	ns	ns7.alidns.com.
 81487.voto.	3600	in	ns	ns8.alidns.com.
 81493.voto.	3600	in	ns	ns7.alidns.com.
@@ -186,6 +186,8 @@ voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1767662436 7200 900 1209
 87174.voto.	3600	in	ns	ns8.alidns.com.
 87986.voto.	3600	in	ns	ns7.alidns.com.
 87986.voto.	3600	in	ns	ns8.alidns.com.
+879bv767mp6pgtr5jtsbs6fg5tsr600q.voto.	3600	in	nsec3	1 1 0 73 8ECR14B68FFE149G6IKV3PER4ASGJ552 NS DS RRSIG
+879bv767mp6pgtr5jtsbs6fg5tsr600q.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260209050517 20260119040517 19860 voto. Y65+GnLJ2Vw1No6udniTVH4hnqNo+l3+ex0LIKOXkWVG27mV8We2kFrkPKk8KkY5K66SQsavU7RJNNe6Gyv/VjpgFsqa/2hvTpJFWQrrw3dg6+uClKkIWqkDhghvq34UyLlh0bifMVpydGfCw0A8KzR7T7FPVJguHsaoCQw66+E=
 88744.voto.	3600	in	ns	ns7.alidns.com.
 88744.voto.	3600	in	ns	ns8.alidns.com.
 888.voto.	3600	in	ns	ns7.alidns.com.
@@ -198,8 +200,10 @@ voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1767662436 7200 900 1209
 88m.voto.	3600	in	ns	ns10.domaincontrol.com.
 8day.voto.	3600	in	ns	cora.ns.cloudflare.com.
 8day.voto.	3600	in	ns	kyrie.ns.cloudflare.com.
-8ecr14b68ffe149g6ikv3per4asgj552.voto.	3600	in	nsec3	1 1 0 73 CPVHDF4JG4RG2S37SOBCTP42S6D2G2L1 NS DS RRSIG
-8ecr14b68ffe149g6ikv3per4asgj552.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. cwJcVRAQS3yiUzXwB4WnO3kVnQDGWiA6ljPGQck7F9lnBiBHE4xtCn4Q9TUqBJmJc2beJn9ZGC3l/4Oxr7IQsdawA5mBh2hWqRPGI4T8MPCN8Sh19w0ihyhhykNkx1JSGuvIIt61sVyJpMfzq6fcqG4E45qmV2nXg0V3R8iUqPs=
+8ecr14b68ffe149g6ikv3per4asgj552.voto.	3600	in	nsec3	1 1 0 73 A5A0KGVCBPONI09PQG8M3CCIRJLD3Q4M NS DS RRSIG
+8ecr14b68ffe149g6ikv3per4asgj552.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. dZTZ7oF88iM2sQgwVFuGfm3h80UaklHUMChAoAKfIq8MpXbVqrR1ZKU7eTUKxl+6n7R1WCzoUdJsWQH6Mhy3CepXTiPo/Jx71pH8tX3MUBXJCS4swo7VdsOGxFIr4/GQ23rHcEzMmxo2KHpl2YoU4dEgtHTewJf9PKDliQcy4T8=
+8kbet.voto.	3600	in	ns	alexis.ns.cloudflare.com.
+8kbet.voto.	3600	in	ns	coraline.ns.cloudflare.com.
 8live.voto.	3600	in	ns	eloise.ns.cloudflare.com.
 8live.voto.	3600	in	ns	lex.ns.cloudflare.com.
 8xbet.voto.	3600	in	ns	ns19.domaincontrol.com.
@@ -214,24 +218,14 @@ voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1767662436 7200 900 1209
 99ok.voto.	3600	in	ns	sage.ns.cloudflare.com.
 99win.voto.	3600	in	ns	kellen.ns.cloudflare.com.
 99win.voto.	3600	in	ns	shubhi.ns.cloudflare.com.
-9kmovies.voto.	3600	in	ns	ns1gjz.name.com.
-9kmovies.voto.	3600	in	ns	ns2dfg.name.com.
-9kmovies.voto.	3600	in	ns	ns3dkz.name.com.
-9kmovies.voto.	3600	in	ns	ns4bty.name.com.
-9xflix.voto.	3600	in	ns	ns1gjz.name.com.
-9xflix.voto.	3600	in	ns	ns2dfg.name.com.
-9xflix.voto.	3600	in	ns	ns3dkz.name.com.
-9xflix.voto.	3600	in	ns	ns4bty.name.com.
 9xmovie.voto.	3600	in	ns	arturo.ns.cloudflare.com.
 9xmovie.voto.	3600	in	ns	susan.ns.cloudflare.com.
-9xmovies.voto.	3600	in	ns	ns1gjz.name.com.
-9xmovies.voto.	3600	in	ns	ns2dfg.name.com.
-9xmovies.voto.	3600	in	ns	ns3dkz.name.com.
-9xmovies.voto.	3600	in	ns	ns4bty.name.com.
 a0.nic.voto.	3600	in	a	65.22.168.1
 a0.nic.voto.	3600	in	aaaa	2a01:8840:00a2:0000:0000:0000:0000:0001
 a2.nic.voto.	3600	in	a	65.22.171.1
 a2.nic.voto.	3600	in	aaaa	2a01:8840:00a5:0000:0000:0000:0000:0001
+a5a0kgvcbponi09pqg8m3ccirjld3q4m.voto.	3600	in	nsec3	1 1 0 73 B31QFPUK0AS6CSGC97SHUVC81KUUI4GG NS DS RRSIG
+a5a0kgvcbponi09pqg8m3ccirjld3q4m.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260211133305 20260121123305 19860 voto. sfCEZphRNrTzhZBmRuQO89qvW865S3hKoJaFZqQ0AKZbYApvEjts9T7E8w74yhiVMARx1Ubu/AtVD8rSWA1TCIM2DFDi9rNHB+YTTZDwlSTTpHnut8aSGVS7Be5XPE+YDqW0Iq2pORca9E2JJgnZfk6XcKt5+agkc1+azgp6F5I=
 aarp.voto.	3600	in	ns	ns1.markmonitor.com.
 aarp.voto.	3600	in	ns	ns2.markmonitor.com.
 aarp.voto.	3600	in	ns	ns3.markmonitor.com.
@@ -265,10 +259,6 @@ ae888.voto.	3600	in	ns	ns1.dyna-ns.net.
 ae888.voto.	3600	in	ns	ns2.dyna-ns.net.
 aefxq.voto.	3600	in	ns	ns7.alidns.com.
 aefxq.voto.	3600	in	ns	ns8.alidns.com.
-afilmywap.voto.	3600	in	ns	ns1gjz.name.com.
-afilmywap.voto.	3600	in	ns	ns2dfg.name.com.
-afilmywap.voto.	3600	in	ns	ns3dkz.name.com.
-afilmywap.voto.	3600	in	ns	ns4bty.name.com.
 agent.voto.	3600	in	ns	ns1.judns.com.
 agent.voto.	3600	in	ns	ns2.judns.com.
 agi.voto.	3600	in	ns	ns1.sedoparking.com.
@@ -315,7 +305,7 @@ android.voto.	3600	in	ns	ns4.googledomains.com.
 api.voto.	3600	in	ds	7103 13 2 B5A75E91389B8E2DD1199C57401CA3699CC8D3E3B097B3C2A02421B2765B7A26
 api.voto.	3600	in	ns	launch1.spaceship.net.
 api.voto.	3600	in	ns	launch2.spaceship.net.
-api.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. Bv7tvM/VGK0JeDq8Jq+7sH0ObMl04sdDg10fskcqcpnQuDPavLDhnVkYVivfhGeyJmEUABTPipfSi5QxH/mCqLHhVbsx9w5NlkF0nufeNkHwzpI46KB8f5asAiTwNK2l24vJuZwGNflNkYZQ7fxiX6uZV21W25/VARlCG2+VeXQ=
+api.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. f5EkohB59FsOXpi+9q/8HCnKtofANpXHP8oCIyPDoUxoeLBLHMVQ280A8F2KXVem/yUcs7qqcOOda650FY9uwFQuxw23TdOEGtszcSuPyDcUE/VOMpIDhmcV2+TQ6AGHm2/BZ4WZO4tKB0pr/Vv+d57yjSG8o6yhPeb5mXy2UOs=
 apple.voto.	3600	in	ns	a.ns.apple.com.
 apple.voto.	3600	in	ns	b.ns.apple.com.
 apple.voto.	3600	in	ns	c.ns.apple.com.
@@ -380,6 +370,8 @@ avg.voto.	3600	in	ns	ns6.markmonitor.com.
 avg.voto.	3600	in	ns	ns7.markmonitor.com.
 b0.nic.voto.	3600	in	a	65.22.169.1
 b0.nic.voto.	3600	in	aaaa	2a01:8840:00a3:0000:0000:0000:0000:0001
+b31qfpuk0as6csgc97shuvc81kuui4gg.voto.	3600	in	nsec3	1 1 0 73 CPVHDF4JG4RG2S37SOBCTP42S6D2G2L1 NS DS RRSIG
+b31qfpuk0as6csgc97shuvc81kuui4gg.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260211133305 20260121123305 19860 voto. O4wxyQdCCPPpvQsEsf3btX384q5AaoyQcYVsgM40tnGfqtngPelt71IiNokPICjmNvr8b1MeaUZQZ86CPF8JeIV7E75W6AEFSxG+4URYGFYc2RnmLZh46rSx7MJ+b5DZlEngeAbZDZF/9OuV9VM6Ac6rcaRo7JK6h0uERSq4DX4=
 b52.voto.	3600	in	ns	bill.ns.cloudflare.com.
 b52.voto.	3600	in	ns	gracie.ns.cloudflare.com.
 b52club.voto.	3600	in	ns	ruben.ns.cloudflare.com.
@@ -393,8 +385,10 @@ baidu.voto.	3600	in	ns	ns4.brandshelter.net.
 baidu.voto.	3600	in	ns	ns5.brandshelter.us.
 balanz.voto.	3600	in	ns	ns1.pindns.com.
 balanz.voto.	3600	in	ns	ns2.pindns.com.
-banca.voto.	3600	in	ns	amber.ns.cloudflare.com.
-banca.voto.	3600	in	ns	seth.ns.cloudflare.com.
+banca.voto.	3600	in	ns	kirk.ns.cloudflare.com.
+banca.voto.	3600	in	ns	mallory.ns.cloudflare.com.
+bancadoithuong.voto.	3600	in	ns	jill.ns.cloudflare.com.
+bancadoithuong.voto.	3600	in	ns	joel.ns.cloudflare.com.
 bcagq.voto.	3600	in	ns	n1.xundns.com.
 bcagq.voto.	3600	in	ns	n2.xundns.com.
 bcagw.voto.	3600	in	ns	n1.xundns.com.
@@ -413,10 +407,6 @@ betsaya.voto.	3600	in	ns	chuck.ns.cloudflare.com.
 betsaya.voto.	3600	in	ns	sureena.ns.cloudflare.com.
 bin88.voto.	3600	in	ns	cora.ns.cloudflare.com.
 bin88.voto.	3600	in	ns	kyrie.ns.cloudflare.com.
-bindasmood.voto.	3600	in	ns	ns1gjz.name.com.
-bindasmood.voto.	3600	in	ns	ns2dfg.name.com.
-bindasmood.voto.	3600	in	ns	ns3dkz.name.com.
-bindasmood.voto.	3600	in	ns	ns4bty.name.com.
 bitcoin.voto.	3600	in	ns	ns.udag.de.
 bitcoin.voto.	3600	in	ns	ns.udag.net.
 bitcoin.voto.	3600	in	ns	ns.udag.org.
@@ -437,6 +427,8 @@ bloomberg.voto.	3600	in	ns	pdns3.ultradns.org.
 bloomberg.voto.	3600	in	ns	pdns5.ultradns.info.
 bol.voto.	3600	in	ns	ns17.domaincontrol.com.
 bol.voto.	3600	in	ns	ns18.domaincontrol.com.
+bolly4u.voto.	3600	in	ns	elliot.ns.cloudflare.com.
+bolly4u.voto.	3600	in	ns	noor.ns.cloudflare.com.
 bomwin.voto.	3600	in	ns	michael.ns.cloudflare.com.
 bomwin.voto.	3600	in	ns	summer.ns.cloudflare.com.
 bong88.voto.	3600	in	ns	michael.ns.cloudflare.com.
@@ -447,24 +439,22 @@ bong99.voto.	3600	in	ns	maceio.ns.porkbun.com.
 bong99.voto.	3600	in	ns	salvador.ns.porkbun.com.
 booyd.voto.	3600	in	ns	ns1.dyna-ns.net.
 booyd.voto.	3600	in	ns	ns2.dyna-ns.net.
-bosplay77.voto.	3600	in	ns	dns101.registrar-servers.com.
-bosplay77.voto.	3600	in	ns	dns102.registrar-servers.com.
 bot.voto.	3600	in	ns	ns1.dyna-ns.net.
 bot.voto.	3600	in	ns	ns2.dyna-ns.net.
 btc.voto.	3600	in	ds	49948 13 2 D243A0903AB911077B263D3D364BAE2B2133C9F7773F697CD02E18A023091B75
 btc.voto.	3600	in	ns	launch1.spaceship.net.
 btc.voto.	3600	in	ns	launch2.spaceship.net.
-btc.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. ctR//x30KFj6snadv9ZA4q6drX07CBneupaDKI5mzsCmLmrCi9hoBYNVAE0F8i/f0eSIaMlqTWmhZ5uuRBfRkHcv3Q4o3QQfaKNenAV3pGyFUBxAw2dwOoqvDW1Lh0QFyWTut3NBUoMkvve1Hvxbus9mqD3QJKt8D0xPnVGdyY8=
+btc.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. UYw948+WbIspVwlLkW+jwwHKu60Vc9iFit95ODiHi8Pub51YAFrJTDvCGzblT+NRAYFwCi/OpBcq74gSyHWGaWnJHJ488pVuFMFIdQCG4ZxmpDDXWRhisLCh1Ih6MQ2cWHsC6CqoJiKx+NRIgpFKNTyU3azHIWxa839dtxOtWZc=
 bubet.voto.	3600	in	ns	michael.ns.cloudflare.com.
 bubet.voto.	3600	in	ns	summer.ns.cloudflare.com.
 business.voto.	3600	in	ds	39101 13 2 BD2329B22108BD7A145C3D88D2DEFE2632F84EFA51EE15D1359CC2F626EDDB21
 business.voto.	3600	in	ns	launch1.spaceship.net.
 business.voto.	3600	in	ns	launch2.spaceship.net.
-business.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. YUUuQ6z5x+4COe+p3tfv+1DVacgSamVqvmcdypXzSCEy0SMCdzkcS+7b7rnlyTosNue3C1zRKm/DzV/7D2xKdvAnOl/2U92/vZsLy+mNmYxlik7N1IUkeelWEAwZ42F2B6YW6poFbV2bsPCeM0RM6jumeoZRx6sEqnUkqDtN9bg=
+business.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. NnmIhcQbfDxpQ6KkFj4GBInh05KfGfXM7Y3jlTzTR5fVtp4/Jile+UGw9CH1hlLfmuHFtF9SJlL2VwzLPW9hervCpVwcO/k9ySzd/KFdvxMasZ2etyJHRnG4h/Od5EQnG8q0+3UzWLwbV3bXJYQY4CMuxiSK56gfizYuPor8nhA=
 buy.voto.	3600	in	ds	37986 13 2 A9257C846E943F4AEFF649A0233FCF702C80EF43FDF5056197CA0B03ABF3ABE9
 buy.voto.	3600	in	ns	launch1.spaceship.net.
 buy.voto.	3600	in	ns	launch2.spaceship.net.
-buy.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. eh/HdGFkI0cJzKBWC0fPcJABnDV6+/y7yaEowj9obl6BPHNfC+uyJKEWixdyN/ip4F55yuqGHZ0ilymga5uORJnnOwAjcAfmBIbuUObM7SNeBFREZRUfMwAMUHABjhbPvbOXRHuFn77dgz6YnJtK4WNWIEGS12zcXwI22cZqIUI=
+buy.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. rpjidAzmD8TeiNPjnxqlT37jZcpZ/Ib+8OdcZDxU77QkIMPgxwTJkCqU3BXC1HMcdGGuqop7GUKmtsWOMW+LfeIfB28N4qlVTM0R5eTczvckZL+uplE7iViHNZfVw6NRwz90Gv0JSz/JXTfZcuBo1sgXdqfuhHH5z4dHikB46co=
 byhdi.voto.	3600	in	ns	ns7.alidns.com.
 byhdi.voto.	3600	in	ns	ns8.alidns.com.
 byte.voto.	3600	in	ns	dns101.registrar-servers.com.
@@ -481,6 +471,10 @@ campeche.voto.	3600	in	ns	ns77.domaincontrol.com.
 campeche.voto.	3600	in	ns	ns78.domaincontrol.com.
 car.voto.	3600	in	ns	ns1.sedoparking.com.
 car.voto.	3600	in	ns	ns2.sedoparking.com.
+cars.voto.	3600	in	ds	8002 13 2 66F8FFA392A19C1FAC6938A63A5A3DF69D9A344808ED386A47F545DE9883466E
+cars.voto.	3600	in	ns	launch1.spaceship.net.
+cars.voto.	3600	in	ns	launch2.spaceship.net.
+cars.voto.	3600	in	rrsig	DS 8 2 3600 20260209050517 20260119040517 19860 voto. Prxgjj2NmWUWH30lyVWOhb4mJu3gFhNutPO3qBE9vGhRTV9E1UnweByr9K2pWhX0IAjWUTVO4lYSsbhNB0IUk7+xV7n7sgD208ddggp8pXLvlpi0CxJtJYHbB66YU3TqT0QRpYcUy9xKcyM3A+L09wCGEfnx0w/PdbXIElNJF/c=
 casino.voto.	3600	in	ns	ns1.dyna-ns.net.
 casino.voto.	3600	in	ns	ns2.dyna-ns.net.
 cbbxc.voto.	3600	in	ns	ns1.dnsip.com.
@@ -515,16 +509,24 @@ claroydirecto.voto.	3600	in	ns	pdns05.domaincontrol.com.
 claroydirecto.voto.	3600	in	ns	pdns06.domaincontrol.com.
 cloak.voto.	3600	in	ns	dns1.registrar-servers.com.
 cloak.voto.	3600	in	ns	dns2.registrar-servers.com.
+cloud.voto.	3600	in	ds	55368 13 2 68A6AE3A18D7293CE1939CF5F723BB638C557664FCDBEC802D35E3A784B97F5E
+cloud.voto.	3600	in	ns	launch1.spaceship.net.
+cloud.voto.	3600	in	ns	launch2.spaceship.net.
+cloud.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. k1Q/vBh0gW2L81W0DlzfnrYgRK+QeelmXhMjmKM/yR9WXeGfeCfFGlNdccphcYJJfy0e4GewVH+mObduLIEyh6RiML01x5mJ9u3DfsynDpoAbDH8KvKIo0qVwy3+Sm9YvDGbdcQ16mEUkfN8ld1QU57YcEpjumtIidJeOW9atOY=
 club.voto.	3600	in	ns	ns1.afternic.com.
 club.voto.	3600	in	ns	ns2.afternic.com.
+cmo.voto.	3600	in	ns	dns1.registrar-servers.com.
+cmo.voto.	3600	in	ns	dns2.registrar-servers.com.
 cne.voto.	3600	in	ns	dns1.registrar-servers.com.
 cne.voto.	3600	in	ns	dns2.registrar-servers.com.
 cnyzj.voto.	3600	in	ns	ns7.alidns.com.
 cnyzj.voto.	3600	in	ns	ns8.alidns.com.
+code.voto.	3600	in	ns	andronicus.ns.cloudflare.com.
+code.voto.	3600	in	ns	keyla.ns.cloudflare.com.
 coin.voto.	3600	in	ds	50699 13 2 5D69AC8750051BA4AA09FBCF62A5FBE5125EFAF74357257718252C5282104FF5
 coin.voto.	3600	in	ns	launch1.spaceship.net.
 coin.voto.	3600	in	ns	launch2.spaceship.net.
-coin.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. PLNiGZqXs0JoHrmOxtYhPTI95O3Wc88i72HTjeDWLCE2I1zt/lf9NDbH4z8kqDpUzBxEaDJt4xxvLhUjUXA9uka5zIsoolVm6GPtw17k74P2ezk1f5pnuFD3iWBV1K6loaGZOddxQLnVNsFA6u2tsJoftxfvOqAfCDpQpJhYOc0=
+coin.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. AWueRXaYJDqFIedtQYgIfLdRkF+2v0SJlRBhv75MHV5WGIaVmoU3vPW6SfsDezeyXmILsuphtRbfToQPZIod5Q6+wBcMGxUm38LRix+eaEBSZVtEqmC5UKEQB4xygLPIq10YAjCDoTpfnFi1WPaBQV1pUc9qsy1Ju8Uc5ruanzA=
 com.voto.	3600	in	ns	ns10.dnsmadeeasy.com.
 com.voto.	3600	in	ns	ns11.dnsmadeeasy.com.
 com.voto.	3600	in	ns	ns12.dnsmadeeasy.com.
@@ -534,9 +536,9 @@ com.voto.	3600	in	ns	ns15.dnsmadeeasy.com.
 condadomaricopasololoshechos.voto.	3600	in	ns	julian.ns.cloudflare.com.
 condadomaricopasololoshechos.voto.	3600	in	ns	ruth.ns.cloudflare.com.
 cpvhdf4jg4rg2s37sobctp42s6d2g2l1.voto.	3600	in	nsec3	1 1 0 73 CQ68IBJNERK0O1RPG3K35CFECQR78AFQ NS DS RRSIG
-cpvhdf4jg4rg2s37sobctp42s6d2g2l1.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. F35ljncckZS7xKxob+B7QjW2dmIJC9UibOZJKrGvwyJXlY1ASrKzY/8jfOvGwaA0WuTVIuJApFfJTqf7zt5rcNkIWIk11DTFMgqi4mFFPspMePbyvppPxetU2XqTurusMswAa2oynn8I+KgzXLC3HBzKG/wm6P6NKvKVEJGGe9s=
+cpvhdf4jg4rg2s37sobctp42s6d2g2l1.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. cPX3ecCoJm2WFMF6pf7iqEXOB8ujfFT5VvtU1gLJtxlcfx+e7XbpR49JTo6DXK5DUh6Ltp0T5xJdhMe1i9ftHHr3exPIDIrJJSuK81lNx7mwjt8pi/j7Wsa15ejzPyjNHb6QL1DTG2z7ufBfMaL/nLldPhx/2bxamI2885mpUp0=
 cq68ibjnerk0o1rpg3k35cfecqr78afq.voto.	3600	in	nsec3	1 1 0 73 DVV87UEB1RM5EMDKDM641SQ03NSPULFF NS DS RRSIG
-cq68ibjnerk0o1rpg3k35cfecqr78afq.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. Dh67HHiiqn+MfU3h2J0jF+HZlodaAPhaqSzYkH+SlKkW9ivUXCcNBNCU4RMEFT2s5YIKWXR4VFhO5RtNzYn/ADxy6xIuezde+CJURZ7juLvdiAzK4eY0Q2kxAto7UZkK7wWxUZH/bYoNq+gqvwCALkxsgz51faYVfNov6Ll1BSA=
+cq68ibjnerk0o1rpg3k35cfecqr78afq.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. cHei34BG51+pIhn6VvR6pqZMS0sP8tFtlAIMC3TEJomd99xyLLItVq5wlrnhHFg7NpTuofX27XHhkDDo6gnn3VbMYNNFCiPAgyId4yo5C2ibJL8u9J5eoJ9cLnzHEDp7yfJblvKjvqTbpQNI3Y5LM+I9jHN28Uaff6CZq7zclxA=
 craft.voto.	3600	in	ns	dns1.registrar-servers.com.
 craft.voto.	3600	in	ns	dns2.registrar-servers.com.
 crrbf.voto.	3600	in	ns	ns1.alidns.com.
@@ -545,8 +547,6 @@ crypto.voto.	3600	in	ns	ns1.nameclub.com.
 crypto.voto.	3600	in	ns	ns2.nameclub.com.
 cuevana.voto.	3600	in	ns	ns1.dns-redirect.com.
 cuevana.voto.	3600	in	ns	ns2.dns-redirect.com.
-cuevana3.voto.	3600	in	ns	dns101.registrar-servers.com.
-cuevana3.voto.	3600	in	ns	dns102.registrar-servers.com.
 cwcgjh.voto.	3600	in	ns	ns1.dnsip.com.
 cwcgjh.voto.	3600	in	ns	ns2.dnsip.com.
 cwin.voto.	3600	in	ns	meiling.ns.cloudflare.com.
@@ -557,10 +557,10 @@ dabet.voto.	3600	in	ns	curitiba.ns.porkbun.com.
 dabet.voto.	3600	in	ns	fortaleza.ns.porkbun.com.
 dabet.voto.	3600	in	ns	maceio.ns.porkbun.com.
 dabet.voto.	3600	in	ns	salvador.ns.porkbun.com.
+daga.voto.	3600	in	ns	susan.ns.cloudflare.com.
+daga.voto.	3600	in	ns	tate.ns.cloudflare.com.
 dao.voto.	3600	in	ns	dns1.registrar-servers.com.
 dao.voto.	3600	in	ns	dns2.registrar-servers.com.
-datukplay77.voto.	3600	in	ns	dns101.registrar-servers.com.
-datukplay77.voto.	3600	in	ns	dns102.registrar-servers.com.
 daxtr.voto.	3600	in	ns	ns1.alidns.com.
 daxtr.voto.	3600	in	ns	ns2.alidns.com.
 dayoff.voto.	3600	in	ns	ns1.markmonitor.com.
@@ -578,13 +578,15 @@ ddncj.voto.	3600	in	ns	ns8.alidns.com.
 deals.voto.	3600	in	ds	7399 13 2 A196BD8DC2090970CADF307B480B9C1783B46D56C6E13B6ACC56E2DA0C00D7B4
 deals.voto.	3600	in	ns	launch1.spaceship.net.
 deals.voto.	3600	in	ns	launch2.spaceship.net.
-deals.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. ardRTdhXSTbZX9O7XyFK0vbrmUEkYBMhxtU9/R/bXCiNNHiEIG5HNLnc9r5R6To2tx/A0Tp1JYmJajMgL8RavF1Sl0rhFEHpsSa/ccQas6/sHAte94uGHGulH8mqKgyr1luV4q8UGzU9bu5NDZNS6XWOXOaKZjtOqNA1+tuSXHo=
+deals.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. KJvjOE2bqXIgHRgjPNj2XYJ/079FYLtZJO5ciTtLXWmthjdiPxd7O6QuT9T/HQtkV9TIM8cC8wO4hsrvYtVtUZ9Q9x3hwGNwpjWpX1/n+K6M8XdXq4EvGJGb4uiFbbypG84HfFFFQkwTOT81eJETw60XK70m7hKORbka1q4zuK4=
 debet.voto.	3600	in	ns	benedict.ns.cloudflare.com.
 debet.voto.	3600	in	ns	lilyana.ns.cloudflare.com.
 deepseek.voto.	3600	in	ns	dns27.hichina.com.
 deepseek.voto.	3600	in	ns	dns28.hichina.com.
 defensadel.voto.	3600	in	ns	ns47.domaincontrol.com.
 defensadel.voto.	3600	in	ns	ns48.domaincontrol.com.
+delfi.voto.	3600	in	ns	ns1.dns-parking.com.
+delfi.voto.	3600	in	ns	ns2.dns-parking.com.
 democracia.voto.	3600	in	ns	ns11.domaincontrol.com.
 democracia.voto.	3600	in	ns	ns12.domaincontrol.com.
 democraciaparticipativa.voto.	3600	in	ns	eva.ns.cloudflare.com.
@@ -593,10 +595,6 @@ dems.voto.	3600	in	ns	jihoon.ns.cloudflare.com.
 dems.voto.	3600	in	ns	poppy.ns.cloudflare.com.
 des.voto.	3600	in	ns	dns15.hichina.com.
 des.voto.	3600	in	ns	dns16.hichina.com.
-desiremovies.voto.	3600	in	ns	ns1gjz.name.com.
-desiremovies.voto.	3600	in	ns	ns2dfg.name.com.
-desiremovies.voto.	3600	in	ns	ns3dkz.name.com.
-desiremovies.voto.	3600	in	ns	ns4bty.name.com.
 destock.voto.	3600	in	ns	dns17.hichina.com.
 destock.voto.	3600	in	ns	dns18.hichina.com.
 destocks.voto.	3600	in	ns	dns15.hichina.com.
@@ -626,12 +624,10 @@ dominus.voto.	3600	in	ns	ns1.afternic.com.
 dominus.voto.	3600	in	ns	ns2.afternic.com.
 donde.voto.	3600	in	ns	arnold.ns.cloudflare.com.
 donde.voto.	3600	in	ns	val.ns.cloudflare.com.
+dotmovies.voto.	3600	in	ns	elliot.ns.cloudflare.com.
+dotmovies.voto.	3600	in	ns	noor.ns.cloudflare.com.
 douyin.voto.	3600	in	ns	dns3.hichina.com.
 douyin.voto.	3600	in	ns	dns4.hichina.com.
-downloadhub.voto.	3600	in	ns	ns1gjz.name.com.
-downloadhub.voto.	3600	in	ns	ns2dfg.name.com.
-downloadhub.voto.	3600	in	ns	ns3dkz.name.com.
-downloadhub.voto.	3600	in	ns	ns4bty.name.com.
 dqtkz.voto.	3600	in	ns	ns7.alidns.com.
 dqtkz.voto.	3600	in	ns	ns8.alidns.com.
 dstocks.voto.	3600	in	ns	dns1.hichina.com.
@@ -641,13 +637,13 @@ duamb.voto.	3600	in	ns	ns8.alidns.com.
 dubai.voto.	3600	in	ns	ns1.sedoparking.com.
 dubai.voto.	3600	in	ns	ns2.sedoparking.com.
 dvv87ueb1rm5emdkdm641sq03nspulff.voto.	3600	in	nsec3	1 1 0 73 F1ITFISFTD87NGUB6K2GLTGQRV39S9KF NS DS RRSIG
-dvv87ueb1rm5emdkdm641sq03nspulff.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. JkSTEBkQTodC5JW+uFFYDbJBKb1A18ltyQJoqQRh8F6sHynRejvV657fqv/YHW9Jy5GSbzamfPcZTKPveEFkz2IFJ6Lzv8W4Y6/BaNr7n+2ik48UIj5tVIoLdxYji1aCM75BrtP1VyPWyIaWhxOMVDPRmjB5tVhmI8z4oT5G9D4=
+dvv87ueb1rm5emdkdm641sq03nspulff.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. YstcwwXTWHOawTg2IM8IQzUQiiObgvySw7gbcOotsIfQhEQRUUjE74WHE18gtxHiPX5zng539tl4M/4IlzZU4c4h/pSYHtocUIrpqQgxYlkSNQtWufBesd9v0LcD5kbiyWCs3xGTke9n9JH0ZkXRPv55ONHlk5klC8o/pJFqjAw=
 dwanh.voto.	3600	in	ns	ns1.alidns.com.
 dwanh.voto.	3600	in	ns	ns2.alidns.com.
 dygob.voto.	3600	in	ns	ns1.dnsip.com.
 dygob.voto.	3600	in	ns	ns2.dnsip.com.
-e2bet.voto.	3600	in	ns	dns1.registrar-servers.com.
-e2bet.voto.	3600	in	ns	dns2.registrar-servers.com.
+e2bet.voto.	3600	in	ns	dns101.registrar-servers.com.
+e2bet.voto.	3600	in	ns	dns102.registrar-servers.com.
 eassm.voto.	3600	in	ns	ns1.alidns.com.
 eassm.voto.	3600	in	ns	ns2.alidns.com.
 edaleat.voto.	3600	in	ns	failed-whois-verification.namecheap.com.
@@ -673,9 +669,9 @@ eleicao.voto.	3600	in	ns	ns2.dyna-ns.net.
 email.voto.	3600	in	ds	14353 13 2 5D9358F63338AC0B261047DCBBFDD7B58DFA7742CE5D36E2FCB7682D791FD2FB
 email.voto.	3600	in	ns	launch1.spaceship.net.
 email.voto.	3600	in	ns	launch2.spaceship.net.
-email.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. Z7Y1GkrSwED0d5jbkKcjnDVz3XC3b6iHVxu3LYaTGDdROegr1CvBGUgzIjt7ht4L94pnVwzP9/3VPsXacrIIwGmV6qzOpTpeZuQJYT2VJqHVzxAsjVbp4ogAwdgteMa70KD1OU9QOLQ0qegzswlSIyFppPkXReiU9OQBi7aNq8g=
-emoji.voto.	3600	in	ns	dns101.registrar-servers.com.
-emoji.voto.	3600	in	ns	dns102.registrar-servers.com.
+email.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. AWVmt9YQeCVeENpBvq1RBmX4XfRAdu2SLTONCOZ+i6kBY3dDKjhgz6MUzMfAVC6j2+95zn7tjOVjC97rVqevLwetpql8KbGUDyXIXvyuS5tLCYrUUDKHttec1VY0/6eGUklbOv5fuhXn8BfinXjsgrG8Ud1J9hXG1U59QcW+168=
+engaja.voto.	3600	in	ns	ns25.domaincontrol.com.
+engaja.voto.	3600	in	ns	ns26.domaincontrol.com.
 enjoyfball.voto.	3600	in	ns	bernice.dnspod.net.
 enjoyfball.voto.	3600	in	ns	doctor.dnspod.net.
 entrepreneur.voto.	3600	in	ns	ns1.ipmanagerinc.net.
@@ -713,7 +709,7 @@ ezljy.voto.	3600	in	ns	n2.xundns.com.
 f168.voto.	3600	in	ns	ignat.ns.cloudflare.com.
 f168.voto.	3600	in	ns	ziggy.ns.cloudflare.com.
 f1itfisftd87ngub6k2gltgqrv39s9kf.voto.	3600	in	nsec3	1 1 0 73 FOD6414206HPAC5ONV25VLV788C090K5 NS DS RRSIG
-f1itfisftd87ngub6k2gltgqrv39s9kf.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. ZQYU+JNW6JO9JE5iLibnksysJVqlcG0V9bhFdivI7fCYLEKjrQrQ8e1/88MEefPBJh1aKv3ztfQztB2CWSd7asAv1J3LotjcCPYuDg9KfoTw+m7Wu8m7pecL37NMyyC1sKnEyysySu7KIowlYhL/vLzWbXuRJ2lTY7AoLYUW608=
+f1itfisftd87ngub6k2gltgqrv39s9kf.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. WT9nmdBKW4bdVa0/AQbEyEet/d4sm01SlGTZS/psf+Q2J7cJmxkODZKlokxkCK3ypsa8Uph7SQMFi7q8O56LF33uy6AlnqRMy+KPGUBGGrZQWkxhqLPPPOdROg+HBl2sTP5A5DR2GXbNNfZU5usKhoJAwCesw/Lqsmrrs2EAiao=
 f8bet.voto.	3600	in	ns	harleigh.ns.cloudflare.com.
 f8bet.voto.	3600	in	ns	peyton.ns.cloudflare.com.
 fa88.voto.	3600	in	ns	ns1.dyna-ns.net.
@@ -726,22 +722,36 @@ facebook.voto.	3600	in	ns	a.ns.facebook.com.
 facebook.voto.	3600	in	ns	b.ns.facebook.com.
 facebook.voto.	3600	in	ns	c.ns.facebook.com.
 facebook.voto.	3600	in	ns	d.ns.facebook.com.
+fairplay.voto.	3600	in	ns	dns1.registrar-servers.com.
+fairplay.voto.	3600	in	ns	dns2.registrar-servers.com.
 fb68.voto.	3600	in	ns	art.ns.cloudflare.com.
 fb68.voto.	3600	in	ns	ryleigh.ns.cloudflare.com.
-fb88.voto.	3600	in	ns	ns1.dyna-ns.net.
-fb88.voto.	3600	in	ns	ns2.dyna-ns.net.
 feimosmani10.voto.	3600	in	ns	ns1.dns-parking.com.
 feimosmani10.voto.	3600	in	ns	ns2.dns-parking.com.
 felipe.voto.	3600	in	ds	56800 13 2 CB0F558700A71AAA3423D8B96A3353361DF75C9C72492D56A204E7409C01499E
 felipe.voto.	3600	in	ns	launch1.spaceship.net.
 felipe.voto.	3600	in	ns	launch2.spaceship.net.
-felipe.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. USrwyEU+CZ6nuZ/PeEKvKdh3lA38bVd6Nay3mgruzy638QApa+RsP9N/BWFW9JxLHSmOmlt1+Bz9EMw1aczKwiMqdNf8WADCgzowRG8QWvM7xB+FSHpNw6uyv+EF63t8brHOjPcNVbKC2K5iA+FJoWkOeEvipF8MhUWgknzMzDs=
+felipe.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. CEwAKxqFPYSpNV38541x1KOFdcx4sVZ6vjvOPXzFD0EQqcu4mpUHboq4ioFaRkcS9HiVJRGoWgqygjlbHQclJ2PrLDHLIHZq5zAcCJOXtQ74MzPGZ99PFCDLUyAEQrs/fel5ZvFACGBwQegUD+ISWx+5f/zbacTVNbiadLoTUrI=
 ferrovial.voto.	3600	in	ns	udns1.cscdns.net.
 ferrovial.voto.	3600	in	ns	udns2.cscdns.uk.
+fgisgf.voto.	3600	in	ns	dns1.c01.nsone.net.cn.
+fgisgf.voto.	3600	in	ns	dns1.p08.nsone.net.
+fgisgf.voto.	3600	in	ns	dns2.c01.nsone.net.cn.
+fgisgf.voto.	3600	in	ns	dns2.p08.nsone.net.
+fgisgf.voto.	3600	in	ns	dns3.c01.nsone.net.cn.
+fgisgf.voto.	3600	in	ns	dns3.p08.nsone.net.
+fgisgf.voto.	3600	in	ns	dns4.c01.nsone.net.cn.
+fgisgf.voto.	3600	in	ns	dns4.p08.nsone.net.
 fgrsp.voto.	3600	in	ns	ns7.alidns.com.
 fgrsp.voto.	3600	in	ns	ns8.alidns.com.
 fhtbw.voto.	3600	in	ns	ns7.alidns.com.
 fhtbw.voto.	3600	in	ns	ns8.alidns.com.
+filmyfly.voto.	3600	in	ns	elliot.ns.cloudflare.com.
+filmyfly.voto.	3600	in	ns	noor.ns.cloudflare.com.
+filmywap.voto.	3600	in	ns	elliot.ns.cloudflare.com.
+filmywap.voto.	3600	in	ns	noor.ns.cloudflare.com.
+filmyzilla.voto.	3600	in	ns	elliot.ns.cloudflare.com.
+filmyzilla.voto.	3600	in	ns	noor.ns.cloudflare.com.
 finefairpharma.voto.	3600	in	ns	ns1.dyna-ns.net.
 finefairpharma.voto.	3600	in	ns	ns2.dyna-ns.net.
 finoj.voto.	3600	in	ns	ns1.alidns.com.
@@ -752,8 +762,8 @@ fly88.voto.	3600	in	ns	elaine.ns.cloudflare.com.
 fly88.voto.	3600	in	ns	remy.ns.cloudflare.com.
 fndaf.voto.	3600	in	ns	ns1.alidns.com.
 fndaf.voto.	3600	in	ns	ns2.alidns.com.
-fod6414206hpac5onv25vlv788c090k5.voto.	3600	in	nsec3	1 1 0 73 G4JSJIU2KV8F8LCAUE56H9FBRKDVFS0D NS DS RRSIG
-fod6414206hpac5onv25vlv788c090k5.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. ULOCl7tkXxUAefGaSuZetUXVrG6J6JbpyJ31l1OTqOnmL5AYNQ2in4g/wBIN5QJ0qUK0IJ9iEXSl3rGzbltqZAF0wZ4i7VrMKzAfoOUw6n3eIX3fmtW8pKw2MWGaTB/bB6RRdBFLz8XV57fcE8z73dZjw/jy7dl1rVOTxVMc2Wo=
+fod6414206hpac5onv25vlv788c090k5.voto.	3600	in	nsec3	1 1 0 73 J9FGGA7DTUHSQ5C8DSSIH003L5H985MF NS DS RRSIG
+fod6414206hpac5onv25vlv788c090k5.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260212191817 20260122181817 19860 voto. D5jRA75umEMCPFo3UAbLzAhIm/WMQhiAhikRU0PKh2xoStQMYL9X+lUVRAtEO+OsmBnpy593BoJiJ4J5UdDuda1LRnyivupow4zQliGMVWbrH/SV/vGVte5kLnM9zdksNxWH+xLFXjKCDj+ZCekd1KLPgtPFWT6MF4myskwQsB4=
 fonbet.voto.	3600	in	ns	ns1.101domain.com.
 fonbet.voto.	3600	in	ns	ns2.101domain.com.
 fonbet.voto.	3600	in	ns	ns5.101domain.com.
@@ -767,20 +777,20 @@ free.voto.	3600	in	ns	ns1.afternic.com.
 free.voto.	3600	in	ns	ns2.afternic.com.
 fsdf.voto.	3600	in	ns	ns1.qq.com.
 fsdf.voto.	3600	in	ns	ns2.qq.com.
+fun.voto.	3600	in	ns	ns1.dns-redirect.com.
+fun.voto.	3600	in	ns	ns2.dns-redirect.com.
 fun88.voto.	3600	in	ns	naya.ns.cloudflare.com.
 fun88.voto.	3600	in	ns	piers.ns.cloudflare.com.
 furry.voto.	3600	in	ds	2371 13 2 155FCAA70176E69EBE6296CA071E3572854C9E2DD4B5B886F9D54854FF8421EB
 furry.voto.	3600	in	ns	nora.ns.cloudflare.com.
 furry.voto.	3600	in	ns	rustam.ns.cloudflare.com.
-furry.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. NHFTnYZ/24C07S7Z+A/J0yqgrUvQoLzBaQwzyvZ7JiZS+nzDU7CE7jNX/v7dms7mqmt5lKkM6Ixn3E99JgzIvEO2unxgVQhCzfpJY0uM3XBPYEqGGE05U1MuyAe5B1oq0OLoq+qQOnKgWUEDmK3K38LQstykNsi0KakDdieh4j4=
-g4jsjiu2kv8f8lcaue56h9fbrkdvfs0d.voto.	3600	in	nsec3	1 1 0 73 J9FGGA7DTUHSQ5C8DSSIH003L5H985MF NS DS RRSIG
-g4jsjiu2kv8f8lcaue56h9fbrkdvfs0d.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. dnTb/Go14DcfZNcBnGSofXPORmwJgHwIkuTTS26/amV8/abQHQpiIImwThRqYUNxLGbJ5ULtJzCQWgdO/xnfbPnB9uozuMO4yZZ5qGaQobESklwa3ksWA/37A1M5TrF3zu1HcB/uOAgG5eAWgUwb3xbpuhl/ju/udxG7Q/9oiW0=
+furry.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. hllyO2lq+SubXZFO8u4nk8uPNl00ptEsQGnzJXF+vqfCWHSafserzJX2tS31+jIm9wf5jd97KXcJwmO0GGbP63dxg75/3I1Lnd2GEwLyvMFiQjxBAQ0iZ7nxsV5QWY/6ZwxU77KkUFhcOel1Fn1N1+5VC6tfZaWkQ6h0fnb8EgI=
 ga6789.voto.	3600	in	ns	nena.ns.cloudflare.com.
 ga6789.voto.	3600	in	ns	quinton.ns.cloudflare.com.
 gaeirasnovorumo.voto.	3600	in	ds	22275 13 2 F32D6F94BC9D18F42714EEB862F8D2100C9BBE343F67D660861512BC18E27181
 gaeirasnovorumo.voto.	3600	in	ns	ns11.infomaniak.ch.
 gaeirasnovorumo.voto.	3600	in	ns	ns12.infomaniak.ch.
-gaeirasnovorumo.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. qYxoAVzWdeMjEOoIvii0Z1LUWBb8uUJM0fTefHsG3bLsEls9eT3maXi4xoc/kkGnhKAHF2OMP3Xb29qafXUbLyC7fcrlHTFBFbGVKd2sN41zsCtIW+ocfNtzmeXInmtAZF95sX1WLUDlGL4uPclI2xGrUUNPjjFRB/eyYAZ7rhU=
+gaeirasnovorumo.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. k3agT+lzKYuTjnZTvJIbYAIQMfwocYl9aigM+gRtKuNi4597cFPjc3qbvOEgyL6kdSO5n0salvA1COl+b532Jx4Mu+rpFgK/UbPYEWofdqV/5+x6nnahJqb+Uon1B0gUZtIzII/b3Ttlfdcd0SvhELGTC4VIyXPk2UZ4ermKyTo=
 game.voto.	3600	in	ns	ns1.afternic.com.
 game.voto.	3600	in	ns	ns2.afternic.com.
 gamebai.voto.	3600	in	ns	michael.ns.cloudflare.com.
@@ -789,8 +799,6 @@ gamebaidoithuong.voto.	3600	in	ns	dara.ns.cloudflare.com.
 gamebaidoithuong.voto.	3600	in	ns	jacob.ns.cloudflare.com.
 gem.voto.	3600	in	ns	ns1.dns-redirect.com.
 gem.voto.	3600	in	ns	ns2.dns-redirect.com.
-gemwin.voto.	3600	in	ns	ns1.dyna-ns.net.
-gemwin.voto.	3600	in	ns	ns2.dyna-ns.net.
 gensyn.voto.	3600	in	ns	dns1.registrar-servers.com.
 gensyn.voto.	3600	in	ns	dns2.registrar-servers.com.
 genturu.voto.	3600	in	ns	ns1.dyna-ns.net.
@@ -831,12 +839,14 @@ haikh.voto.	3600	in	ns	ns7.alidns.com.
 haikh.voto.	3600	in	ns	ns8.alidns.com.
 hb88.voto.	3600	in	ns	keanu.ns.cloudflare.com.
 hb88.voto.	3600	in	ns	sloan.ns.cloudflare.com.
-hdhub4u.voto.	3600	in	ds	39876 13 2 1ACAE19FDAB8E2867F86AD26802E9940D6A9CA05FEBDD932B396EEE62CB8D18D
-hdhub4u.voto.	3600	in	ns	launch1.spaceship.net.
-hdhub4u.voto.	3600	in	ns	launch2.spaceship.net.
-hdhub4u.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. VU28EJGivl3CK1B47kCUKHgshwzx2OddoiF9E4QvIGi1ABN5v7gt+zch/o+MsWYaMadQsIlgjX79E2RLsuCwITKr1ommcO87ngl9k37eoRUBfES3FkYdQtEt2kJxNzjiAP3PC2JeYRcz4ytJ0YD5A0Q/FjK9jibKSAzaeLj7gII=
 health.voto.	3600	in	ns	ns1.afternic.com.
 health.voto.	3600	in	ns	ns2.afternic.com.
+heiio.voto.	3600	in	ns	n1.xundns.com.
+heiio.voto.	3600	in	ns	n2.xundns.com.
+hellozb.voto.	3600	in	ns	n1.xundns.com.
+hellozb.voto.	3600	in	ns	n2.xundns.com.
+helol.voto.	3600	in	ns	n1.xundns.com.
+helol.voto.	3600	in	ns	n2.xundns.com.
 hi88.voto.	3600	in	ns	cora.ns.cloudflare.com.
 hi88.voto.	3600	in	ns	kyrie.ns.cloudflare.com.
 hitclub.voto.	3600	in	ns	frida.ns.cloudflare.com.
@@ -845,8 +855,6 @@ hot51.voto.	3600	in	ns	ns1.dns-parking.com.
 hot51.voto.	3600	in	ns	ns2.dns-parking.com.
 hotel.voto.	3600	in	ns	ns1.sedoparking.com.
 hotel.voto.	3600	in	ns	ns2.sedoparking.com.
-houserentalus.voto.	3600	in	ns	ns1.dyna-ns.net.
-houserentalus.voto.	3600	in	ns	ns2.dyna-ns.net.
 http.voto.	3600	in	ns	ns1.idomains.com.
 http.voto.	3600	in	ns	ns2.idomains.com.
 http.voto.	3600	in	ns	ns3.idomains.com.
@@ -857,8 +865,8 @@ https.voto.	3600	in	ns	ns3.idomains.com.
 https.voto.	3600	in	ns	ns4.idomains.com.
 huacho.voto.	3600	in	ns	ns19.domaincontrol.com.
 huacho.voto.	3600	in	ns	ns20.domaincontrol.com.
-i-techarena.voto.	3600	in	ns	ns1.dyna-ns.net.
-i-techarena.voto.	3600	in	ns	ns2.dyna-ns.net.
+hubet.voto.	3600	in	ns	adele.ns.cloudflare.com.
+hubet.voto.	3600	in	ns	sterling.ns.cloudflare.com.
 i9bet.voto.	3600	in	ns	clark.ns.cloudflare.com.
 i9bet.voto.	3600	in	ns	kinsley.ns.cloudflare.com.
 iac.voto.	3600	in	ns	laxsns01.iac.com.
@@ -875,6 +883,8 @@ icrst.voto.	3600	in	ns	ns1.alidns.com.
 icrst.voto.	3600	in	ns	ns2.alidns.com.
 idartists.voto.	3600	in	ns	bruce.ns.cloudflare.com.
 idartists.voto.	3600	in	ns	lana.ns.cloudflare.com.
+ijqmw.voto.	3600	in	ns	lamar.ns.cloudflare.com.
+ijqmw.voto.	3600	in	ns	piper.ns.cloudflare.com.
 ike.voto.	3600	in	ns	ns1.dns-redirect.com.
 ike.voto.	3600	in	ns	ns2.dns-redirect.com.
 ikiqi.voto.	3600	in	ns	ns1.dnsip.com.
@@ -886,6 +896,10 @@ impulsa.voto.	3600	in	ns	raphaela.ns.cloudflare.com.
 imtoken.voto.	3600	in	ns	ns1.serverhostgroup.com.
 imtoken.voto.	3600	in	ns	ns2.serverhostgroup.com.
 imtoken.voto.	3600	in	ns	ns3.serverhostgroup.com.
+in.voto.	3600	in	ds	47374 13 2 00CE85E51B1F039D9D1DDB975A604F4C5EA8DEE707D0D46BE2CAD79BFD19FE5B
+in.voto.	3600	in	ns	launch1.spaceship.net.
+in.voto.	3600	in	ns	launch2.spaceship.net.
+in.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. hHXRI0nvYJZbSMCL05GvP3qTy33XlQirDDJKlVMa3PyFsQMe/QRCJsh/k0lnBlnUf903Dj3b0Y3WdxD302SP3K/446sd2SW/noixp2xTyLdlrq1G71jMZKhmeF7iFlYXTpXSG8pnJ2vCDcgFxEb0MNSpoXKGxCNU32ZkrUCgKqo=
 industry.voto.	3600	in	ns	a.ns14.net.
 industry.voto.	3600	in	ns	b.ns14.net.
 industry.voto.	3600	in	ns	c.ns14.net.
@@ -901,7 +915,7 @@ instagram.voto.	3600	in	ns	d.ns.facebook.com.
 insurance.voto.	3600	in	ds	40059 13 2 6B32F2E3738D5D82058EEDA6861C55586DD5DDE838A751FA083BADCA78F7B01F
 insurance.voto.	3600	in	ns	launch1.spaceship.net.
 insurance.voto.	3600	in	ns	launch2.spaceship.net.
-insurance.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. JbX19QuDerKrEvzbKdifNloPbUCswpsvm9sIdoAvgqS5cb33cYhgWDYI5BH1rLUEuPGIGnhHEMgQdiDI8buNAEoLqTlU91RqkxNN4R9/E4kIVbZim5iRUNPHjsDzdg4a1COafneVOxbhcD5sdUuo64xQVRr9u6jgpKKdnRBTvp8=
+insurance.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. ANpegxT9PWuLYv16g7v/hKwpgELWYM/07wuoRMir1fZBfJHdf4BZHL+lJubnmgsWnDvDgFTuuJlLCy4BYvfEXgAk73PJXFQmIFZTXpdM++SUgn3fbpVOrqyHS2IC8/xsi54n2QMbWbz56v7e9xCKNdwwBiolRdQ0ETfdJu1Du44=
 inteligente.voto.	3600	in	ns	ns1.dns-parking.com.
 inteligente.voto.	3600	in	ns	ns2.dns-parking.com.
 interpretationai.voto.	3600	in	ns	chase.ns.cloudflare.com.
@@ -921,13 +935,13 @@ iwin.voto.	3600	in	ns	ximena.ns.cloudflare.com.
 iwin68.voto.	3600	in	ds	48144 13 2 BB8A8D0997AE7565A067627CA017E35C13808B48F539C4885B361F044B74934C
 iwin68.voto.	3600	in	ns	launch1.spaceship.net.
 iwin68.voto.	3600	in	ns	launch2.spaceship.net.
-iwin68.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. ldpw76+mgrP/8eve6tnw7IhthrJtcfAb1N/6Cq7dpg3ebcXUCC986cdzVU4Vt/XKTPTmWj3qgu7zfPLsTGlsIzof+jzXWugOME32XWmSNZN/EAM2Vdhu31P9GgcLnv1Zj9f5k1PlXyGdjx0AcZUMzQ4J3Mm7gefN6uwFZKqKTe0=
+iwin68.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. djAupXT6dZCE8RucQjRyYuKxzJ4e2JKHkxVvzFq5PCJNk6CIsMcVCNNXNBes/2Vp/AINf4G+OET5EnnKIJ5edHaztVzkvLgwy6PXqNkBLJzjwmsKx+/60OG1SWGVMSW+jrPV34MDsmufGfgDF4Rr+YZWYV9op/WWkCc0PlvQAxE=
 iygao.voto.	3600	in	ns	ns7.alidns.com.
 iygao.voto.	3600	in	ns	ns8.alidns.com.
 j88.voto.	3600	in	ns	nick.ns.cloudflare.com.
 j88.voto.	3600	in	ns	veronica.ns.cloudflare.com.
 j9fgga7dtuhsq5c8dssih003l5h985mf.voto.	3600	in	nsec3	1 1 0 73 MF1IITEQS6TNEO8A3D481KLG3COQGJCK NS DS RRSIG
-j9fgga7dtuhsq5c8dssih003l5h985mf.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. LjPsWhcWyEPHLLYpBAZD3c28P13Z6ONy9WlKqKsDee7y1x2Hin2RSq8HeEgMBoEmcTndAue3WuTHn+hREkHDWNxxwuoL0aZ5She6+EykiVPw1/M7iQWsynbpTl5G9bM4br1nj3F7QULI4cfgWXxo4Nnu+xoQYM3hcQuBNp/Yy0Y=
+j9fgga7dtuhsq5c8dssih003l5h985mf.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. Z4gWyIzdYTaf51eyxBsZgR5rsmZQa86ipN2OO7ukRsT94DimiGOambWVjGLfP0ePTdRmuXVCElkuvSmfXTZa1Xg95OVPnViJ988nYcUtc7VU8KYk+Q7JjMFqfl3VmBSPH5yOj0w/QCLtyrVg2lkQM/rINaHmXxOVsVP2cF+ktHo=
 jackal.voto.	3600	in	ns	arch.ns.cloudflare.com.
 jackal.voto.	3600	in	ns	ariadne.ns.cloudflare.com.
 jbforgovernor.voto.	3600	in	ns	ns75.domaincontrol.com.
@@ -954,10 +968,12 @@ juzkv.voto.	3600	in	ns	n1.xundns.com.
 juzkv.voto.	3600	in	ns	n2.xundns.com.
 kamala.voto.	3600	in	ns	ns1.dns-redirect.com.
 kamala.voto.	3600	in	ns	ns2.dns-redirect.com.
-keonhacai.voto.	3600	in	ns	gloria.ns.cloudflare.com.
-keonhacai.voto.	3600	in	ns	harley.ns.cloudflare.com.
+keonhacai.voto.	3600	in	ns	liv.ns.cloudflare.com.
+keonhacai.voto.	3600	in	ns	oswald.ns.cloudflare.com.
 keto.voto.	3600	in	ns	ns31.domaincontrol.com.
 keto.voto.	3600	in	ns	ns32.domaincontrol.com.
+khatrimaza.voto.	3600	in	ns	elliot.ns.cloudflare.com.
+khatrimaza.voto.	3600	in	ns	noor.ns.cloudflare.com.
 khhzk.voto.	3600	in	ns	ns1.alidns.com.
 khhzk.voto.	3600	in	ns	ns2.alidns.com.
 king88.voto.	3600	in	ns	dilbert.ns.cloudflare.com.
@@ -968,8 +984,8 @@ kinogo.voto.	3600	in	ns	ns3.zomro.com.
 kinogo.voto.	3600	in	ns	ns4.zomro.su.
 kmgtg.voto.	3600	in	ns	ns7.alidns.com.
 kmgtg.voto.	3600	in	ns	ns8.alidns.com.
-ko66.voto.	3600	in	ns	jeff.ns.cloudflare.com.
-ko66.voto.	3600	in	ns	nola.ns.cloudflare.com.
+ko66.voto.	3600	in	ns	dns101.registrar-servers.com.
+ko66.voto.	3600	in	ns	dns102.registrar-servers.com.
 ksa.voto.	3600	in	ns	dns1.namecheaphosting.com.
 ksa.voto.	3600	in	ns	dns2.namecheaphosting.com.
 ksveo.voto.	3600	in	ns	n1.xundns.com.
@@ -1007,7 +1023,9 @@ lode88.voto.	3600	in	ns	salvador.ns.porkbun.com.
 lor.voto.	3600	in	ds	45600 13 2 66407E3D27C5D69CA95D7CB2AB2CB2EAE009005F7D21B5C9B9299EBAB89BE106
 lor.voto.	3600	in	ns	launch1.spaceship.net.
 lor.voto.	3600	in	ns	launch2.spaceship.net.
-lor.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. nnwr1HH8eQRJlQUOKcuQw9vd/Fa9vXNC79IEljcM/cgkFtS+K4+sW4KIKxlqwRCVM74ZzGRwM89Spn8f5Y9qbD8Z63/LSA+qT9o0xR+rzxttJi2XLMSVh2umi6VFWmR9qk2wd2rNZR86n5USWmndv/UAB4Hi3aqghxy7I9T6pxs=
+lor.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. j6DcpLFSJGr5xbt8zsmSb8kDFeyuLhjScjTGOGNMgeyzCKVHuQt1uFNtFullTTHnSricZDLPFt6oVW8dq/4C/7axZJ+Dr7Ng5fesKnWhPXpFLaR8euKzQKZWJUvM0T+L/9RKoNBAqbr9e3T+auAGdYbyk5Qk2cWpTOgNdpVaq3U=
+losmovies.voto.	3600	in	ns	elliot.ns.cloudflare.com.
+losmovies.voto.	3600	in	ns	noor.ns.cloudflare.com.
 louisiana.voto.	3600	in	ns	ns49.domaincontrol.com.
 louisiana.voto.	3600	in	ns	ns50.domaincontrol.com.
 love.voto.	3600	in	ns	ns1.abovedomains.com.
@@ -1051,7 +1069,7 @@ map.voto.	3600	in	ns	ns2.dns-redirect.com.
 margys.voto.	3600	in	ds	58908 13 2 A15F308B60CFB990EC2F6185BDF0EE79D04BA568A288962D8C482AA4684A899F
 margys.voto.	3600	in	ns	ns11.infomaniak.ch.
 margys.voto.	3600	in	ns	ns12.infomaniak.ch.
-margys.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. U2Yb4/VEkq/bEAc0JyJYd1IC5Yahq9lcROlRhk5TTxUL542E0d07nrhKH1g1nZSHpMo8lEnxhb2n9eqhelksPCnbXCsk71Sqbsc1vl7vfVrGaCW5MLH/cjpuLUJHLGe1ZTY/2Vlu36J7usdujdJx9gu4JEftuXqLQYoBA15P29U=
+margys.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. hhpAhkRGdhWv0hB+cl/a8U8SOah1wV+R6oVJ6V/nbe54s3sYzGS06cZWfte5LIYtbO1oPIh3OU47WP5SrmLwTjJZNGgG+zsr6KyfX6m+AGssDP3zYuN1+/6LAFgTlrh5Qvzn9FJ3f5+SmADOGRuh3BgnTTsJBPOAtSQuNaBKjLk=
 maricopa.voto.	3600	in	ns	julian.ns.cloudflare.com.
 maricopa.voto.	3600	in	ns	ruth.ns.cloudflare.com.
 maricopasololoshechos.voto.	3600	in	ns	julian.ns.cloudflare.com.
@@ -1074,8 +1092,6 @@ mcp.voto.	3600	in	ns	dns1.registrar-servers.com.
 mcp.voto.	3600	in	ns	dns2.registrar-servers.com.
 media.voto.	3600	in	ns	ns1.afternic.com.
 media.voto.	3600	in	ns	ns2.afternic.com.
-melody77.voto.	3600	in	ns	dns101.registrar-servers.com.
-melody77.voto.	3600	in	ns	dns102.registrar-servers.com.
 merck.voto.	3600	in	ns	ns1.brandshelter.com.
 merck.voto.	3600	in	ns	ns2.brandshelter.de.
 merck.voto.	3600	in	ns	ns3.brandshelter.info.
@@ -1113,8 +1129,8 @@ metaquest.voto.	3600	in	ns	a.ns.facebook.com.
 metaquest.voto.	3600	in	ns	b.ns.facebook.com.
 metaquest.voto.	3600	in	ns	c.ns.facebook.com.
 metaquest.voto.	3600	in	ns	d.ns.facebook.com.
-metaverse.voto.	3600	in	ns	ns1-coming-soon.sav.com.
-metaverse.voto.	3600	in	ns	ns2-coming-soon.sav.com.
+metaverse.voto.	3600	in	ns	ns1-expired.sav.com.
+metaverse.voto.	3600	in	ns	ns2-expired.sav.com.
 metawhatsapp.voto.	3600	in	ns	a.ns.facebook.com.
 metawhatsapp.voto.	3600	in	ns	b.ns.facebook.com.
 metawhatsapp.voto.	3600	in	ns	c.ns.facebook.com.
@@ -1133,11 +1149,9 @@ mexc.voto.	3600	in	ns	ns-120-c.gandi.net.
 mexc.voto.	3600	in	ns	ns-195-b.gandi.net.
 mexc.voto.	3600	in	ns	ns-234-a.gandi.net.
 mf1iiteqs6tneo8a3d481klg3coqgjck.voto.	3600	in	nsec3	1 1 0 73 N52ECFJVQG9U5EED1R167HE43SIS5IAS NS DS RRSIG
-mf1iiteqs6tneo8a3d481klg3coqgjck.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260125051511 20260104041511 19860 voto. nrTV4wO24nJycal3MUwiywb7OVCugajARPxJf8kWT+wylLUPnOI4rg3amSRSmgCS6pfYyAxd1nFbiAZiNk1QzOA9BTkApUsMwgRWD8L+21C6lu+uxWXctuHSZexewUhXynX0n03IAUHwKJCwH6ukUOLuii3udkpQ+KKX28po6+A=
+mf1iiteqs6tneo8a3d481klg3coqgjck.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. ivDomQVGPGsOJpXVHYf3uHRTXcthsfjaGDS3xxFfhNhSU1G0gV8IVxwxDfozYyZw4wJD2thOK5zXkwiNi+3bLqf1FsjoC8BWkZ4LvrI+W9Lryg4xWZlHfVgUhBdoKnkQCVpVjCE6kpJ1dxAP7otrT6l8MDPARCyAHrX90xqPCeo=
 mgqtq.voto.	3600	in	ns	n1.xundns.com.
 mgqtq.voto.	3600	in	ns	n2.xundns.com.
-mgtowman.voto.	3600	in	ns	ns1.dyna-ns.net.
-mgtowman.voto.	3600	in	ns	ns2.dyna-ns.net.
 miami.voto.	3600	in	ns	ns1.siteground.net.
 miami.voto.	3600	in	ns	ns2.siteground.net.
 miamidade.voto.	3600	in	ns	pdns13.domaincontrol.com.
@@ -1149,33 +1163,31 @@ minecraftapkgeek.voto.	3600	in	ns	rocco.ns.cloudflare.com.
 mio.voto.	3600	in	ds	39289 13 2 1640B6E4BDA224A8604F557F0EBB7A537410BC657010E9CE5E635C14469503B7
 mio.voto.	3600	in	ns	ns11.infomaniak.ch.
 mio.voto.	3600	in	ns	ns12.infomaniak.ch.
-mio.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. NBD/ktGj5E4oWMyEHy2gxScU3xOm3iJnSeP1szg4wgaindBJdYN5ec38RpkznrXbOUhVpTv3ISRwB9wRZ+2t+hGck4tin/eO0T0VFocRuMfL20a/GONlVDS5/WU4kgRxlBKX9ViEZ4qudY0D88v3X1tq/boeZfPXuInpz96zlsY=
-modelo.voto.	3600	in	ns	dns1.registrar-servers.com.
-modelo.voto.	3600	in	ns	dns2.registrar-servers.com.
+mio.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. HpKgUl45YTS0NGuT1Oi24jZ8zl/RWkaI7Vsop0usKtZqq1cD+sPw0LaGTL/jV4Aupw41bbh7ifzu3HIb5iyDHtlCJshUoHqb8g1K+N5Nephq+sICJ4R4cnlciD3kbW0n5P3HTuvc0F7HcCtxvkbW3OQpyB21FLE3zC2ylVe8kWA=
+mkvmoviespoint.voto.	3600	in	ns	elliot.ns.cloudflare.com.
+mkvmoviespoint.voto.	3600	in	ns	noor.ns.cloudflare.com.
+modelo.voto.	3600	in	ns	dns101.registrar-servers.com.
+modelo.voto.	3600	in	ns	dns102.registrar-servers.com.
 monitor360.voto.	3600	in	ns	dns1.registrar-servers.com.
 monitor360.voto.	3600	in	ns	dns2.registrar-servers.com.
 morena.voto.	3600	in	ns	ns47.domaincontrol.com.
 morena.voto.	3600	in	ns	ns48.domaincontrol.com.
-motchill.voto.	3600	in	ns	alexandra.ns.cloudflare.com.
-motchill.voto.	3600	in	ns	ed.ns.cloudflare.com.
+motchill.voto.	3600	in	ns	dns101.registrar-servers.com.
+motchill.voto.	3600	in	ns	dns102.registrar-servers.com.
 moto.voto.	3600	in	ns	dns1.registrar-servers.com.
 moto.voto.	3600	in	ns	dns2.registrar-servers.com.
 movierulz.voto.	3600	in	ns	danica.ns.cloudflare.com.
 movierulz.voto.	3600	in	ns	hassan.ns.cloudflare.com.
-movies4u.voto.	3600	in	ds	12785 13 2 F1B122A29034BF1A647ED05B5B5D00B028E346737C553EC06993A6363E56E357
-movies4u.voto.	3600	in	ns	launch1.spaceship.net.
-movies4u.voto.	3600	in	ns	launch2.spaceship.net.
-movies4u.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. siycx7yXE1k7iH+x3c2pc1gtODdyqsBT1i9wpJ54cuJsgr+WaAn7xfsgOkfyNgFaSJzzyOLqaPWk4gVLkG/mCKZ/6duRYq2vgrOv7C68FHnw5fFiXWmADu5WUfaCAmtIH1OYhRK28lmpDVoVA5QK5rg4+zZVZ8Pe4D/u9ryDTbY=
-moviespapa.voto.	3600	in	ns	ns1gjz.name.com.
-moviespapa.voto.	3600	in	ns	ns2dfg.name.com.
-moviespapa.voto.	3600	in	ns	ns3dkz.name.com.
-moviespapa.voto.	3600	in	ns	ns4bty.name.com.
+moviesmod.voto.	3600	in	ns	elliot.ns.cloudflare.com.
+moviesmod.voto.	3600	in	ns	noor.ns.cloudflare.com.
+moviesverse.voto.	3600	in	ns	elliot.ns.cloudflare.com.
+moviesverse.voto.	3600	in	ns	noor.ns.cloudflare.com.
 mp4moviez.voto.	3600	in	ns	5579.ns1.abovedomains.com.
 mp4moviez.voto.	3600	in	ns	5579.ns2.abovedomains.com.
 mtfg.voto.	3600	in	ds	14914 13 2 2C0B623A8B34914B07C2EBEAF4FC7DDC7E944F1FBBED671C0F96FAF493C837A2
 mtfg.voto.	3600	in	ns	nsany1.infomaniak.com.
 mtfg.voto.	3600	in	ns	nsany2.infomaniak.com.
-mtfg.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. mw3qSkBIkuHlbaDodLLFsbAUX7HEtlypAJWWK7LhGquKR4mVJ8EZH5u9hpYmQvGvNdHYn5vMhGEWg3X1kihm8dWJqYFRFOj9WrL+m+nNveNs9HlaI4DvVoyVRB7F0+i7SUf5yNvrvNKfI6MTxBZZJeOIXlgIdAmjE1oLgZ5nBOk=
+mtfg.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. XG3sU6FujhjV/rBx9AZNZwehLwNB9H771xQkGbfhECAX3WuZiVW+4ccQp3vzEvHxNEabaF+ScpohLwPCUvEjhb9Y9S5XwS3CDrSngTH05oEDTtl81DaWO2Q6wkzSJu2tdQapJYOLVi361oM3eQrLDNbegAS8Q2OMFdbYPgsrbj4=
 mu88.voto.	3600	in	ns	dell.ns.cloudflare.com.
 mu88.voto.	3600	in	ns	pedro.ns.cloudflare.com.
 mulheres50-50.voto.	3600	in	ns	ns1.dns-parking.com.
@@ -1188,8 +1200,8 @@ my.voto.	3600	in	ns	launch1.spaceship.net.
 my.voto.	3600	in	ns	launch2.spaceship.net.
 myeu.voto.	3600	in	ns	failed-whois-verification.namecheap.com.
 myeu.voto.	3600	in	ns	verify-contact-details.namecheap.com.
-n52ecfjvqg9u5eed1r167he43sis5ias.voto.	3600	in	nsec3	1 1 0 73 OEQU5J2VRVG4KB3Q1F6T46FI6RTM0OCH NS DS RRSIG
-n52ecfjvqg9u5eed1r167he43sis5ias.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. PSA5KKwckCFipCQvU4Q7LP0crXx7zLqRsVkmr2dOuonl341qIyNLI6bligPoZb/Ggjvh1LxD2OE2nUG65GuZpFm9Ym8wHPXaZDHDG5+nhucZnqGuL4RWNHQ+bsSjbl5tlWFPxN7US4YXpD0jxywE+Bc929UWrw2hmzZ0n+yDFzA=
+n52ecfjvqg9u5eed1r167he43sis5ias.voto.	3600	in	nsec3	1 1 0 73 NLFIFALFSPFI4UKI7UAJ21A4FLLVM6EE NS DS RRSIG
+n52ecfjvqg9u5eed1r167he43sis5ias.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260209060813 20260119050813 19860 voto. sso4+9ETfEXoHOJM+tC/Kdis+PaFcadKZOwHHbqI0oZjwVohpe+tJddHbqkeBnQtlb+kQxRt2VWW5dDgtwGBIueDDjc6FgG4lL5wBF9GTiC+5gzsjYY88yNvDaJxjsx0YPmERZA6mvCD6CibmjCwNDNClK45Mrp8CCMVgLsz6r0=
 nay.voto.	3600	in	ns	launch1.spaceship.net.
 nay.voto.	3600	in	ns	launch2.spaceship.net.
 nbet.voto.	3600	in	ns	ns1.dns-redirect.com.
@@ -1223,17 +1235,21 @@ nic.voto.	3600	in	ns	a0.nic.voto.
 nic.voto.	3600	in	ns	a2.nic.voto.
 nic.voto.	3600	in	ns	b0.nic.voto.
 nic.voto.	3600	in	ns	c0.nic.voto.
-nic.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. OXSMPcFl4zGvoGzY7ubc+hXfmRXZXxMa9WwbVgmk4+jqBEI+eBlBN1tbooPKf+0A2ouavs43jjC/3guLCbwTBAySXSvbyavCumR3W/N46ZJdHU0srHa15benbALY0g63FU1XrSducIX/a0KFuvjhP8+08K70T8TIRYAYunN/qNg=
+nic.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. EXgtlKF9VMwgFzrzYgpesttg5Xs4Sa87RpdVmim5vTSJMlH0YLv0Y26EkzfUuwbc1q6VHhxBMvwxFO9PdhnbINboFI8+0DNghYGkqmAiK0rlwR6+jXesiN1744B803Hf2Ew7XlpUtcc+l+It5bjOZOx8CoxWFWDbMly62cuD7Ok=
 nicolas.voto.	3600	in	ns	curitiba.ns.porkbun.com.
 nicolas.voto.	3600	in	ns	fortaleza.ns.porkbun.com.
 nicolas.voto.	3600	in	ns	maceio.ns.porkbun.com.
 nicolas.voto.	3600	in	ns	salvador.ns.porkbun.com.
+nlfifalfspfi4uki7uaj21a4fllvm6ee.voto.	3600	in	nsec3	1 1 0 73 OEQU5J2VRVG4KB3Q1F6T46FI6RTM0OCH NS DS RRSIG
+nlfifalfspfi4uki7uaj21a4fllvm6ee.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260209060813 20260119050813 19860 voto. eUPV1V0zeDauRA1P2Thzqw8hI6dh72HPxhe0xrG1XkAtkqMStPodbS/RdbaccN/4ye/7CPNf/Q0d+Vny/nR7MOOg/gzrzT9CBpNQz1toaLWakUFJ8LIdWvrr0SIRiBJISz32NwpRW6+CSVAx5ScOJ9Y26R8CsD5cWXrkMrfR9e8=
 nmbs.voto.	3600	in	ns	pdns1.registrar-servers.com.
 nmbs.voto.	3600	in	ns	pdns2.registrar-servers.com.
 nmm.voto.	3600	in	ns	pdns1.registrar-servers.com.
 nmm.voto.	3600	in	ns	pdns2.registrar-servers.com.
 noedoroteo.voto.	3600	in	ns	ns29.domaincontrol.com.
 noedoroteo.voto.	3600	in	ns	ns30.domaincontrol.com.
+nohu.voto.	3600	in	ns	jill.ns.cloudflare.com.
+nohu.voto.	3600	in	ns	joel.ns.cloudflare.com.
 nok88.voto.	3600	in	ns	curitiba.ns.porkbun.com.
 nok88.voto.	3600	in	ns	fortaleza.ns.porkbun.com.
 nok88.voto.	3600	in	ns	maceio.ns.porkbun.com.
@@ -1270,7 +1286,7 @@ oculusvr.voto.	3600	in	ns	b.ns.facebook.com.
 oculusvr.voto.	3600	in	ns	c.ns.facebook.com.
 oculusvr.voto.	3600	in	ns	d.ns.facebook.com.
 oequ5j2vrvg4kb3q1f6t46fi6rtm0och.voto.	3600	in	nsec3	1 1 0 73 P8QDHEL9DGJCM8FI6FAUJ64A1AVAMLOT NS DS RRSIG
-oequ5j2vrvg4kb3q1f6t46fi6rtm0och.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. XTY78uRAbdZIUjyNmAXuIve0p0sgDy0gDZG9xgLa75u3OoYBxzEtXaM1x0iq9zyIL7dn5LZLiSM8LMVUsMPOBCugwnynMZZnmrVQqWnHVa0rAo4PVQAKiLSKrZ177ccYkznTlG7C9YDn0h1pDUYlixpOMo7eNpQhrWbBzclUjmc=
+oequ5j2vrvg4kb3q1f6t46fi6rtm0och.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. FyIm+sV30kD/D5LiulJePBF98tudeXJv+l9BMkbu57wyx7vq6t64uZvnieIcR5iZj7+A5cRHbBZc6RQwweEuiPD3VP03zG6nJOGQS46E9FalXtVLQtPpgyhulYVKyTnpUTYOKDox++UuLx0Lm4HukjaJX2IWai+qA/v8qmqOFq0=
 ok365.voto.	3600	in	ns	meiling.ns.cloudflare.com.
 ok365.voto.	3600	in	ns	osmar.ns.cloudflare.com.
 ok9.voto.	3600	in	ns	dns1.registrar-servers.com.
@@ -1279,10 +1295,12 @@ oknox.voto.	3600	in	ns	ns7.alidns.com.
 oknox.voto.	3600	in	ns	ns8.alidns.com.
 okvip.voto.	3600	in	ns	dns101.registrar-servers.com.
 okvip.voto.	3600	in	ns	dns102.registrar-servers.com.
+olbxwin.voto.	3600	in	ns	nile.ns.cloudflare.com.
+olbxwin.voto.	3600	in	ns	sasha.ns.cloudflare.com.
 onchain.voto.	3600	in	ds	24975 13 2 29C1E4BFBCEDCFB967B2ACDB1329FEACBDC1ED32C74C7BA98DF7CF107ACB8333
 onchain.voto.	3600	in	ns	launch1.spaceship.net.
 onchain.voto.	3600	in	ns	launch2.spaceship.net.
-onchain.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. ltzJXquWsvqyaATFQNYQufOCuKAEhJSBrdZVI8gGvqy4VIaGQkzVJP3XDO/EUT1kWF3XkNHEwc1uPDE8gcOdCM+yHmjXkCFftjdi4EzKUDWXHzLJCpBcWNQEQRUXYw1V5RQCDWSnC0no8NtYTdGuuZjpEwLCtpZtVhggBUQIIZE=
+onchain.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. Tdz+l+l+R9f3yk2sgYZwhzZr2M/B4NkFx1Q0qNDfsTVo/XYdPoGD+Oa8ZJnWe6JYmRllw8qGAUi6DLvrboW/v4tkZAe3s1e2P3p24I2Clgf3o7Ey605hz5uvK79jqGgqftiIoNOMukTBwwFCujodl37S1SeeEzKWSnYVAS+Eo+Y=
 one88.voto.	3600	in	ns	curitiba.ns.porkbun.com.
 one88.voto.	3600	in	ns	fortaleza.ns.porkbun.com.
 one88.voto.	3600	in	ns	maceio.ns.porkbun.com.
@@ -1298,7 +1316,7 @@ oxbet.voto.	3600	in	ns	salvador.ns.porkbun.com.
 oxcjh.voto.	3600	in	ns	ns7.alidns.com.
 oxcjh.voto.	3600	in	ns	ns8.alidns.com.
 p8qdhel9dgjcm8fi6fauj64a1avamlot.voto.	3600	in	nsec3	1 1 0 73 QII7T617IKBJ0FF1NCEPUO00SR6RPASF NS DS RRSIG
-p8qdhel9dgjcm8fi6fauj64a1avamlot.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. aKj/JdLevShowRJf0gMKdRzTM5LBo2OzX1V4V4comR6vLEwMqKa/uAUsuUqump07XAmYtBp238xRkeP/OEdJKZf9QW936QVpeJ6r0a6Q3S05HvSlWt0r3liKIM62sXkR8twVtlLEt0Ipvibun3YV1LeXAfpsK4jxWyXFlqH6G80=
+p8qdhel9dgjcm8fi6fauj64a1avamlot.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. CM0J2Y4H1ArZHuR+C5ew2xEKrOGEFx9epEkyEoYZY0EXm1jTCX0ZElVtSgQoux7GfUbGP5pRx0UxI20wb3Fa5XgypFmR6Sh2wwLgWIrftBozf5MuaxskHrLase0lSdX/wsGJQBO4xRsKkuEtuF06rOIEM6Z2kxvX5aCTQurkk0s=
 pan.voto.	3600	in	ns	ns65.domaincontrol.com.
 pan.voto.	3600	in	ns	ns66.domaincontrol.com.
 park-hill.voto.	3600	in	ns	ns1.markmonitor.com.
@@ -1312,14 +1330,16 @@ patagonia.voto.	3600	in	ns	ns2.markmonitor.com.
 patagonia.voto.	3600	in	ns	ns3.markmonitor.com.
 patagonia.voto.	3600	in	ns	ns4.markmonitor.com.
 patagonia.voto.	3600	in	ns	ns5.markmonitor.com.
-pay.voto.	3600	in	ns	ns1.afternic.com.
-pay.voto.	3600	in	ns	ns2.afternic.com.
+pay.voto.	3600	in	ns	ns1.atom.com.
+pay.voto.	3600	in	ns	ns2.atom.com.
 paypal.voto.	3600	in	ns	ns1.markmonitor.com.
 paypal.voto.	3600	in	ns	ns2.markmonitor.com.
+pdc.voto.	3600	in	ns	dns1.registrar-servers.com.
+pdc.voto.	3600	in	ns	dns2.registrar-servers.com.
 pelisflix.voto.	3600	in	ns	5579.ns1.abovedomains.com.
 pelisflix.voto.	3600	in	ns	5579.ns2.abovedomains.com.
-pelisflix2.voto.	3600	in	ns	eva.ns.cloudflare.com.
-pelisflix2.voto.	3600	in	ns	rodrigo.ns.cloudflare.com.
+pelisflix2.voto.	3600	in	ns	dns101.registrar-servers.com.
+pelisflix2.voto.	3600	in	ns	dns102.registrar-servers.com.
 pg88.voto.	3600	in	ns	edna.ns.cloudflare.com.
 pg88.voto.	3600	in	ns	nikon.ns.cloudflare.com.
 pgslot.voto.	3600	in	ns	finley.ns.cloudflare.com.
@@ -1372,6 +1392,8 @@ pro.voto.	3600	in	ns	ns1.afternic.com.
 pro.voto.	3600	in	ns	ns2.afternic.com.
 promoseficomp.voto.	3600	in	ns	ns1.dyna-ns.net.
 promoseficomp.voto.	3600	in	ns	ns2.dyna-ns.net.
+pwrjo.voto.	3600	in	ns	chloe.ns.cloudflare.com.
+pwrjo.voto.	3600	in	ns	mustafa.ns.cloudflare.com.
 pxjlf.voto.	3600	in	ns	ns7.alidns.com.
 pxjlf.voto.	3600	in	ns	ns8.alidns.com.
 pypl.voto.	3600	in	ns	ns1.markmonitor.com.
@@ -1379,7 +1401,7 @@ pypl.voto.	3600	in	ns	ns2.markmonitor.com.
 qh88.voto.	3600	in	ns	holly.ns.cloudflare.com.
 qh88.voto.	3600	in	ns	syeef.ns.cloudflare.com.
 qii7t617ikbj0ff1ncepuo00sr6rpasf.voto.	3600	in	nsec3	1 1 0 73 R68Q535S3P0ELNGL28FCEULHBQA0DVUP NS DS RRSIG
-qii7t617ikbj0ff1ncepuo00sr6rpasf.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. FT2BeRj8tnGaKgI3eCBRxB30eNTKbeDvWjeIQPZ9WOBS0q5If/IohJ8jJSyjma6P46J+zUCuPnkqNJI69GuIwk10WGTZYSv4CiGrm+8VUBCkYrTviWddtXUr/3CrE41SoxwHrMw3tRBRpWjInPI3QeLBVCEy2D5uMbXN7gtX0Fg=
+qii7t617ikbj0ff1ncepuo00sr6rpasf.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. ZW+/A5PHFW0gGxCH4qZppbWngk/jmTuGHOHAKjsNNCMdwn+jeylSVcmutqYFXlIgSjcmr2376t6Dzy0GVgVLYL5GPkyQVQwAQAmZzwCitZIrPuDWS9NeWoUg7T9AOq5UiQs7VqRL8at6VCQ09JcZbeaCV9Nnj6AG9gsKYoSO3uY=
 qjnnj.voto.	3600	in	ns	ns1.alidns.com.
 qjnnj.voto.	3600	in	ns	ns2.alidns.com.
 qmksf.voto.	3600	in	ns	garret.ns.cloudflare.com.
@@ -1395,11 +1417,11 @@ qqlpx.voto.	3600	in	ns	ns2.alidns.com.
 quero.voto.	3600	in	ns	ns1.jshospeda.com.br.
 quero.voto.	3600	in	ns	ns2.jshospeda.com.br.
 r68q535s3p0elngl28fceulhbqa0dvup.voto.	3600	in	nsec3	1 1 0 73 RCM1KIKB2OH78TNT7PTJM0CEMAT5DTOE NS SOA RRSIG DNSKEY NSEC3PARAM
-r68q535s3p0elngl28fceulhbqa0dvup.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260127012507 20260106002507 19860 voto. PUOP1epwLSTUNHiOgp1zijrfLJYX6s8BTP3e8YOGN6AWgnZeTW204Jw5bkki0bZ3aAClw3RQ2r8X1b4s6LWR+VQi0GMZYSQ3DLnwVucUVy/d9Opv4g9kvzq2OhGkbUQSlDQa9PrU5zr7hUvGqtFlvqIoHBAPFlzdlrjyeuOvkas=
+r68q535s3p0elngl28fceulhbqa0dvup.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260215012914 20260125002914 19860 voto. r14rs7ZlSNuAOOdjFOlpXWv4rW4OWjtteAaMCAQOQCNtyBe/fObGh61ImHAZlgVTUkDdmHer6gqOiY+0fd+pLPbhpU4BxdmhHZnA7qUdiXSRLyrdGXc1lx+IWc5CbbbaBeq4hWygyw6uzDkAD81Oobcw3nEU2YGEPDk3XsKXpg0=
 rcm1kikb2oh78tnt7ptjm0cemat5dtoe.voto.	3600	in	nsec3	1 1 0 73 RDMFB0HGDTIKO558QF5ISHOJ1303M2BS NS DS RRSIG
-rcm1kikb2oh78tnt7ptjm0cemat5dtoe.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. Lz97lTVUL7DC6TXWRv+H4WJQyVk79KLc6IVw30Ezmq/65seN26mUa21wvuOyGQeiMprls/9lxxiFxkxffUM7TF/TBLYYzIfTLRKX5JgqWmwfYBoFPJ+qjf2bBJYNvILFmx/1Js3Lcmvc2nuj4ZTBETl83CCCeSmc0mZU8WoIMRI=
+rcm1kikb2oh78tnt7ptjm0cemat5dtoe.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. ld38VhETHib7mO7oerZP+EltccMakk+DgAvxp1CqARtcflzBOOjd7m4P6L5bdwxTjg2o4Wtx45492v4JOPlPymkj68Yyb8Ji27KtbvbR+Mn2kXsn/Lll7qorfealzT7Ago/ioPn4juadWSbKdIHFvOvU/osDu0lWTQeYHOvh5ZU=
 rdmfb0hgdtiko558qf5ishoj1303m2bs.voto.	3600	in	nsec3	1 1 0 73 RV9R7KRRCPJJQC04E1QRI9JQ7KS1NEH4 NS DS RRSIG
-rdmfb0hgdtiko558qf5ishoj1303m2bs.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. DWaoZJf+TylyJubUq5vNgji6oYkDMkFckmTt7EQ+xmUGhkikF6GYGYy/ifo/sj05Z0SRo3OOWSVObqZX0WT3EVJdder2tq89UHHBjBNCbDPbGaKP60gE2kmDqWlo2J99fzIUd3paNGcsNxJ/Q2ntXNyKXrMlXHXY9km/cDD+2eY=
+rdmfb0hgdtiko558qf5ishoj1303m2bs.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. XElnQkmJjs+qiBM3vtCAk+WzQ+fjNEUcnU5/BWsrcllB7Y4jrgfU7yZafySiFDZfroMbjooOh/m8nMDDIHDpLkT/E6hqTsEgvxuKpuJwdaZPlDL819xITY/clajQexn74Qe1fn6H9Yn8f/Cq600jThwm68EaNq2riBsDFnlWjf0=
 rdoce.voto.	3600	in	ns	n1.xundns.com.
 rdoce.voto.	3600	in	ns	n2.xundns.com.
 red88.voto.	3600	in	ns	ns1.dns-redirect.com.
@@ -1431,19 +1453,19 @@ rolex.voto.	3600	in	ns	dns2.p03.nsone.net.
 rolex.voto.	3600	in	ns	dns3.p03.nsone.net.
 rolex.voto.	3600	in	ns	dns4.p03.nsone.net.
 rv9r7krrcpjjqc04e1qri9jq7ks1neh4.voto.	3600	in	nsec3	1 1 0 73 S6MQKFMAT408H0DGK04L2HONFVFEM5GO NS DS RRSIG
-rv9r7krrcpjjqc04e1qri9jq7ks1neh4.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260125061834 20260104051834 19860 voto. rEn67wCQrsSollHCUjRI4fbwnKWbVivw8mwA4XLkovfurWpyKoj3uC3F0IIZgMnJteFlph2IZcZu1Glil8O8x81Q/CuIRanr4OalsFIHNbCCM1jLHspJxm6Tan569hQLKTWuUuuh9yHm0PrCLTxibUKe6t4cDs+0QymwYe0NJVY=
+rv9r7krrcpjjqc04e1qri9jq7ks1neh4.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. MgH0Dc+tgq9VEvls61ayRDOHXyUFiXUXl7Ywqm6Y8Phcr6RNIPFVEeONda1cdLe0nxuf6zgpCFf3BSyV+RlGfW2xANuj/tZuYWABLP3l8VRwMmWYcy2w+nXNxgqwkZ2QVlRtOSl9gopobumyDSu+M540KzEFrTKnqnmxpDMv+G4=
 rwa.voto.	3600	in	ns	dns31.hichina.com.
 rwa.voto.	3600	in	ns	dns32.hichina.com.
-rwin.voto.	3600	in	ns	johnny.ns.cloudflare.com.
-rwin.voto.	3600	in	ns	naya.ns.cloudflare.com.
+rwin.voto.	3600	in	ns	kirk.ns.cloudflare.com.
+rwin.voto.	3600	in	ns	mallory.ns.cloudflare.com.
 rxljt.voto.	3600	in	ns	ns7.alidns.com.
 rxljt.voto.	3600	in	ns	ns8.alidns.com.
 s666.voto.	3600	in	ns	nick.ns.cloudflare.com.
 s666.voto.	3600	in	ns	veronica.ns.cloudflare.com.
 s6aa.voto.	3600	in	ns	ns1.dyna-ns.net.
 s6aa.voto.	3600	in	ns	ns2.dyna-ns.net.
-s6mqkfmat408h0dgk04l2honfvfem5go.voto.	3600	in	nsec3	1 1 0 73 V028NFBLL27D6M6UM259I8H6G4BAA7AK NS DS RRSIG
-s6mqkfmat408h0dgk04l2honfvfem5go.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. VYjbF+cc9fb1GumxVG4JFSPhBePD7WuDCnwWYdUqc5cT/+V8vUHyeu4A99XIGVrS2z6fE8r622eCfd2R/ZVsj79/PDwS7ulQuxTyfEvUXbIixfK5DKxTiHWfKZECp5gJCY0TScn0AQStsa4Rh5PGO/0JlgBUk7yufn7USs0DN28=
+s6mqkfmat408h0dgk04l2honfvfem5go.voto.	3600	in	nsec3	1 1 0 73 UHFQ6HGRHJ6GBRPABU21FSTLGANH1OOQ NS DS RRSIG
+s6mqkfmat408h0dgk04l2honfvfem5go.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260211091932 20260121081932 19860 voto. FIJ9tR204DDrboz6O83rNaD19hbbA5sTyahkehVbrdrBR1nj3fW4+EO292J22Jfi+g9E+u6jyg7EqpOUj3iqqCM+gCk7rd2O60+wsNRCPpaajvVP2/zk+gc2RIAdVljfILzqFSYtbdIDxrrvlx4ynbc3heqciB8m/zgdNvlGFoo=
 s8.voto.	3600	in	ns	skip.ns.cloudflare.com.
 s8.voto.	3600	in	ns	vera.ns.cloudflare.com.
 safe.voto.	3600	in	ns	ns1.dns-redirect.com.
@@ -1454,14 +1476,14 @@ sbgdx.voto.	3600	in	ns	ns1.dyna-ns.net.
 sbgdx.voto.	3600	in	ns	ns2.dyna-ns.net.
 scottsdale.voto.	3600	in	ns	evan.ns.cloudflare.com.
 scottsdale.voto.	3600	in	ns	naya.ns.cloudflare.com.
-search.voto.	3600	in	ns	ns1.sedoparking.com.
-search.voto.	3600	in	ns	ns2.sedoparking.com.
+search.voto.	3600	in	ns	ns1.dyna-ns.net.
+search.voto.	3600	in	ns	ns2.dyna-ns.net.
 security.voto.	3600	in	ns	ns1.dns-redirect.com.
 security.voto.	3600	in	ns	ns2.dns-redirect.com.
 sex.voto.	3600	in	ns	dns1.registrar-servers.com.
 sex.voto.	3600	in	ns	dns2.registrar-servers.com.
-sexo.voto.	3600	in	ns	dns1.namecheaphosting.com.
-sexo.voto.	3600	in	ns	dns2.namecheaphosting.com.
+sexo.voto.	3600	in	ns	dns101.registrar-servers.com.
+sexo.voto.	3600	in	ns	dns102.registrar-servers.com.
 sfeqh.voto.	3600	in	ns	ns1.alidns.com.
 sfeqh.voto.	3600	in	ns	ns2.alidns.com.
 shbet.voto.	3600	in	ns	etienne.ns.cloudflare.com.
@@ -1481,28 +1503,18 @@ sin88.voto.	3600	in	ns	maceio.ns.porkbun.com.
 sin88.voto.	3600	in	ns	salvador.ns.porkbun.com.
 skncc.voto.	3600	in	ns	n1.xundns.com.
 skncc.voto.	3600	in	ns	n2.xundns.com.
-sky88.voto.	3600	in	ns	curitiba.ns.porkbun.com.
-sky88.voto.	3600	in	ns	fortaleza.ns.porkbun.com.
-sky88.voto.	3600	in	ns	maceio.ns.porkbun.com.
-sky88.voto.	3600	in	ns	salvador.ns.porkbun.com.
-skymovieshd.voto.	3600	in	ns	ns1gjz.name.com.
-skymovieshd.voto.	3600	in	ns	ns2dfg.name.com.
-skymovieshd.voto.	3600	in	ns	ns3dkz.name.com.
-skymovieshd.voto.	3600	in	ns	ns4bty.name.com.
 sm5933.voto.	3600	in	ns	matteo.ns.cloudflare.com.
 sm5933.voto.	3600	in	ns	vita.ns.cloudflare.com.
 social.voto.	3600	in	ns	fred.ns.cloudflare.com.
 social.voto.	3600	in	ns	lara.ns.cloudflare.com.
+sol.voto.	3600	in	ns	a6.share-dns.com.
+sol.voto.	3600	in	ns	b6.share-dns.net.
 sololoshechos.voto.	3600	in	ns	julian.ns.cloudflare.com.
 sololoshechos.voto.	3600	in	ns	ruth.ns.cloudflare.com.
 sosvenezuela.voto.	3600	in	ns	dns1.registrar-servers.com.
 sosvenezuela.voto.	3600	in	ns	dns2.registrar-servers.com.
-sports.voto.	3600	in	ns	dns21.hichina.com.
-sports.voto.	3600	in	ns	dns22.hichina.com.
-ssrmovies.voto.	3600	in	ns	ns1gjz.name.com.
-ssrmovies.voto.	3600	in	ns	ns2dfg.name.com.
-ssrmovies.voto.	3600	in	ns	ns3dkz.name.com.
-ssrmovies.voto.	3600	in	ns	ns4bty.name.com.
+sports.voto.	3600	in	ns	expirens3.hichina.com.
+sports.voto.	3600	in	ns	expirens4.hichina.com.
 stx.voto.	3600	in	ns	curitiba.ns.porkbun.com.
 stx.voto.	3600	in	ns	fortaleza.ns.porkbun.com.
 stx.voto.	3600	in	ns	maceio.ns.porkbun.com.
@@ -1554,10 +1566,6 @@ the.voto.	3600	in	ns	ns1.nameservers.cat.
 the.voto.	3600	in	ns	ns2.nameservers.cat.
 theamericaparty.voto.	3600	in	ns	ns1.sedoparking.com.
 theamericaparty.voto.	3600	in	ns	ns2.sedoparking.com.
-thekhatrimaza.voto.	3600	in	ns	ns1gjz.name.com.
-thekhatrimaza.voto.	3600	in	ns	ns2dfg.name.com.
-thekhatrimaza.voto.	3600	in	ns	ns3dkz.name.com.
-thekhatrimaza.voto.	3600	in	ns	ns4bty.name.com.
 theluxuryshowroom.voto.	3600	in	ns	ns1.dyna-ns.net.
 theluxuryshowroom.voto.	3600	in	ns	ns2.dyna-ns.net.
 time2.voto.	3600	in	ns	ns1.markmonitor.com.
@@ -1577,7 +1585,7 @@ togel.voto.	3600	in	ns	dahlia.ns.cloudflare.com.
 token.voto.	3600	in	ds	56931 13 2 5CF20641E69E70F678489D39D5AA2628AF50467A41A0250357BB63E2A7A07D5B
 token.voto.	3600	in	ns	launch1.spaceship.net.
 token.voto.	3600	in	ns	launch2.spaceship.net.
-token.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. dg+rYsm+wyk3X/biPAn0RsD0+3lUBfBLSzMhb/3EAMampom4IQpgqr1A2G09hzC8gIBMMtHSeAwPYpivgMQ3cyT6nTK2H+Gx493Am7s7uGHivJLeUl3n/wksY9kZELspVLgmMMYVl3NxXJreQWBibqApDs+0X15zQ2GV1xDQzRY=
+token.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. WADxySnDTlwkKqpusOaINJM/F3Zd5/caJ4qU19fBlsrijBMhX12aZT/+pcWwGKTp0t2AmeWlZaLSpmTr/vGHuZUsQB+jRkOwOjklHnX13pqFsK1tcDb9tJRIaHfW85sVvmfTgHgIowoTOruiPqCLjrNLQmTPdVDN0vvjCZGOR7k=
 top88.voto.	3600	in	ns	ns1.dyna-ns.net.
 top88.voto.	3600	in	ns	ns2.dyna-ns.net.
 trentino.voto.	3600	in	ns	ns01.cashparking.com.
@@ -1608,24 +1616,20 @@ tumblr.voto.	3600	in	ns	ns3.tumblr.com.
 tumblr.voto.	3600	in	ns	ns4.tumblr.com.
 tunombre.voto.	3600	in	ns	pdns05.domaincontrol.com.
 tunombre.voto.	3600	in	ns	pdns06.domaincontrol.com.
-tuo.voto.	3600	in	ns	ns1mpz.name.com.
-tuo.voto.	3600	in	ns	ns2dqr.name.com.
-tuo.voto.	3600	in	ns	ns3jwx.name.com.
-tuo.voto.	3600	in	ns	ns4bht.name.com.
 tyugk.voto.	3600	in	ns	ns1.alidns.com.
 tyugk.voto.	3600	in	ns	ns2.alidns.com.
 u888.voto.	3600	in	ns	michael.ns.cloudflare.com.
 u888.voto.	3600	in	ns	summer.ns.cloudflare.com.
+ufa11k.voto.	3600	in	ns	dns1.registrar-servers.com.
+ufa11k.voto.	3600	in	ns	dns2.registrar-servers.com.
 ufabet.voto.	3600	in	ns	gemma.ns.cloudflare.com.
 ufabet.voto.	3600	in	ns	vick.ns.cloudflare.com.
 ufabet168.voto.	3600	in	ns	dns1.registrar-servers.com.
 ufabet168.voto.	3600	in	ns	dns2.registrar-servers.com.
 ufsgd.voto.	3600	in	ns	ns1.alidns.com.
 ufsgd.voto.	3600	in	ns	ns2.alidns.com.
-uk88.voto.	3600	in	ns	curitiba.ns.porkbun.com.
-uk88.voto.	3600	in	ns	fortaleza.ns.porkbun.com.
-uk88.voto.	3600	in	ns	maceio.ns.porkbun.com.
-uk88.voto.	3600	in	ns	salvador.ns.porkbun.com.
+uhfq6hgrhj6gbrpabu21fstlganh1ooq.voto.	3600	in	nsec3	1 1 0 73 V028NFBLL27D6M6UM259I8H6G4BAA7AK NS DS RRSIG
+uhfq6hgrhj6gbrpabu21fstlganh1ooq.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260211091932 20260121081932 19860 voto. NDfgohgwBB1GTCyQLXS7PZP2550SWKB7dzUYNHbSIShhVwuOLNOMiOlIF1ucu5gE2bBRSwNHByzzfQVjjQj28wQIRbUjOBu3pfM1gEHLRySttHSMTtaNfFV0mOrkRIj5foJ4TZ7njut7w+kAf6KTU8bK590lsEoSk4+MM6QsH/w=
 ukjyh.voto.	3600	in	ns	ns1.dyna-ns.net.
 ukjyh.voto.	3600	in	ns	ns2.dyna-ns.net.
 uni.voto.	3600	in	ns	ns1.dns-parking.com.
@@ -1641,7 +1645,7 @@ uu88.voto.	3600	in	ns	uma.ns.cloudflare.com.
 uzbst.voto.	3600	in	ns	n1.xundns.com.
 uzbst.voto.	3600	in	ns	n2.xundns.com.
 v028nfbll27d6m6um259i8h6g4baa7ak.voto.	3600	in	nsec3	1 1 0 73 0NKV5L15OOG6RN1PTKOSRUIJAEEUK39G NS DS RRSIG
-v028nfbll27d6m6um259i8h6g4baa7ak.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260122161103 20260101151103 19860 voto. I0ZwRQ7airP+wMEPE5wrMLmHxe/g1xzxLxHblsftVhVxiQh4qrLENUkhvRVvM6BX/gSDlqoXhssawyYFjoM1kgSXW2PuNHQzVg5f5Wir7oT7e7btnxzarEZp8RRyo65ZHcRtKTRaNgVE5chkQbw8luJQs5hGaVSbHBGEVoQMoYo=
+v028nfbll27d6m6um259i8h6g4baa7ak.voto.	3600	in	rrsig	NSEC3 8 2 3600 20260207155629 20260117145629 19860 voto. tCe1rVi6MsGPE+wVn8lnmd+Wr3xenAJd/tICEzxas03BFniZV40d40ZnS+ll/b/s1FWUQSZrjPqQN316OQQgNx6us5uQ/8osSLwd+P707MmJf0ad3zSj7BVGwlf3eq5ihZ6JMsD53LkAkaqiXoxYa4KxrFEP7UzB3IO8j5e/3IA=
 v9bet.voto.	3600	in	ns	cora.ns.cloudflare.com.
 v9bet.voto.	3600	in	ns	kyrie.ns.cloudflare.com.
 vance.voto.	3600	in	ns	ns1.dns-redirect.com.
@@ -1662,8 +1666,6 @@ vic.voto.	3600	in	ns	ns1.dns-redirect.com.
 vic.voto.	3600	in	ns	ns2.dns-redirect.com.
 video.voto.	3600	in	ns	ns1.dyna-ns.net.
 video.voto.	3600	in	ns	ns2.dyna-ns.net.
-viet69.voto.	3600	in	ns	dns101.registrar-servers.com.
-viet69.voto.	3600	in	ns	dns102.registrar-servers.com.
 vinwin.voto.	3600	in	ns	ns1.dns-redirect.com.
 vinwin.voto.	3600	in	ns	ns2.dns-redirect.com.
 vip.voto.	3600	in	ns	dns31.hichina.com.
@@ -1678,6 +1680,10 @@ vn88.voto.	3600	in	ns	cora.ns.cloudflare.com.
 vn88.voto.	3600	in	ns	kyrie.ns.cloudflare.com.
 vnloto.voto.	3600	in	ns	felicity.ns.cloudflare.com.
 vnloto.voto.	3600	in	ns	jo.ns.cloudflare.com.
+voice.voto.	3600	in	ds	59093 13 2 2B56D3E1AC65233250E48C3B0399589F738CBD63FA5B48BFFA3C73A2581F2BB2
+voice.voto.	3600	in	ns	launch1.spaceship.net.
+voice.voto.	3600	in	ns	launch2.spaceship.net.
+voice.voto.	3600	in	rrsig	DS 8 2 3600 20260209060813 20260119050813 19860 voto. NNuA56fPFmiwC+b02Bq1hkpxFGXJvjTOi8IRSeraFyr+F/CZnMCGU7DbZ3za/6QGbx9LqiN6hZXl2TDiTI7yTjhUUBS0HQSYwAOWSnFeNt6rChMmne0lQzB0YqeLq6ERZ659tbEkMfnlzczbKjZW05F6MHXPCjND76hKZ5uF3vc=
 votar.voto.	3600	in	ns	kip.ns.cloudflare.com.
 votar.voto.	3600	in	ns	liv.ns.cloudflare.com.
 vote.voto.	3600	in	ns	dns1.registrar-servers.com.
@@ -1686,22 +1692,22 @@ votenoaluno.voto.	3600	in	ns	dns1.registrar-servers.com.
 votenoaluno.voto.	3600	in	ns	dns2.registrar-servers.com.
 votesialuno.voto.	3600	in	ns	dns1.registrar-servers.com.
 votesialuno.voto.	3600	in	ns	dns2.registrar-servers.com.
+voto.	3600	in	dnskey	256 3 8 AwEAAZpBncRkef8IJfEV8sEUitVwYVt/vDfSjHPGauHN5ABi/IZ/7L5pRwlb7skwqYHa4Ua3VRYo5FsGfNCTGj/FZboamlFDg3KT+uZB9ze7Ikymn/iJ4imTa3etV1pWoyDIZWKIx1eYeu6lBu8TdBMdU9EZuX5OLdz4wUCJ6tE4QD6r
 voto.	3600	in	dnskey	256 3 8 AwEAAbVFSA35gzXDSYq+SwGN0l/MRio0ZiMi+Yl5pn/6Cd3opFHI2Duma2QtMiVKeuIFw4X/+gGsgqWz0JRrg/pMyx9hsA3aJ81IWbFhEmGsEk9S8OFz6arOOho8qbA33TFZdI+ERkqh7fOrDgzKq+C+lcTCe5Iu4yqTup11U2r7Fn1X
-voto.	3600	in	dnskey	256 3 8 AwEAAcfrliBOx971bIsJmgPteBaQd6OuSMLih7r1otnvcmrhitH+tNWoQW2K12vSvEVj/EmCXGQ8r2JAjx7UKAmvw09xRgHKFqWr5a8bVTY8mSxgLRedBey7BccstXxWfcEb7dsIpBz5gkoEve8VMeYwHh506F/UTVudKjswq6aE/7o7
 voto.	3600	in	dnskey	257 3 8 AwEAAb1+zXcPAsfQtgsmF6xsVybqFNbaqn0aDoZTNjzQQeBc4H9Iof4WWuVvNpCHrDAdnzYWQgZfa7HKrBFwiC254geOuiuaI/iyLt+WK+YH3RX/0qq8X1n45FzHL2g+KLYlcdCIh2NxUxnEcF3WbVJk/6XQ8BW7G5pqg9fkcSDlH4KH8PW5B+qmqU4UJee4FJ0HI3j0Hx1RScLfETvIhZlZW3j2s2uOWP14cJvnZ4P3GCIdSmmbNsFzmGrHmye24XAj6r/dBwP6IyoTgkVj6BKeWF1G6TJVX2iXkyw9+iVp/oSnQHc5aD2rwJ7HM45Vz2mM6tFCqpoqxu68kHjHIa2ms0s=
 voto.	3600	in	ns	a0.nic.voto.
 voto.	3600	in	ns	a2.nic.voto.
 voto.	3600	in	ns	b0.nic.voto.
 voto.	3600	in	ns	c0.nic.voto.
 voto.	3600	in	nsec3param	1 0 0 73
-voto.	3600	in	rrsig	DNSKEY 8 1 3600 20260122161103 20260101151103 26875 voto. NuFQHuwBZWBX9cQ0ypMIfJTQfXdlQ7QCwsXj93bKiBs7wFqEVj//gB08wn+Qu4559VLgBTBrExa69jBniMBiPekgAavIjABVPQ7JcKk0XqkcgHhsYk408meJ5lGV1FsFzdnsV6MchgLu0FyGty299hr4LxrT7fWZy5+XNvZ4kgdDIrWDGhxAg5RVBrFYKDKd3YfqHtCF8I79TY2aCqGbg9gTRPn7YVV9SeSMuft415AcCJn+1yD4ziIakgcw59mu0ooO3SGiTKQhqcVJV9FONH6de3mZMU/IevZRCqyfbk9EfqjsI8DNPhlm+bP3GyjLD7cILpWTKCGyVxmImfYvXg==
-voto.	3600	in	rrsig	NS 8 1 3600 20260122161103 20260101151103 19860 voto. EJLK47XhTyeCURyFU47a+dOl/q7+842QX2k46AeLeqkM2l0h2OIn/kO74288ZjCFgKRMyvdjMhUEwb1zIC9s5qG9YkM7lWni3hP84CcDPlIFH23hUb3T8Pb093MPrDRXfaH85ZPb+rvVKWF2aK/TIArpCb2lEB/oT9s3yljLmLc=
-voto.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260122161103 20260101151103 19860 voto. Asn3ogH07Eu+jqNMQqb3mwvGPFh2sqdafhCJlf/nRO1gBYiTJY1eZ6LVp96Qxk03jDh1KznGgj+pXNg4H6EaxfVKJsCfxrqkcsOBBkjbmpermpqJvEhJ7e4B5dtDq6z/UngjlpgftcLCES5saJvVItkUk8ehK90DAQ3pr4+8WBk=
-voto.	3600	in	rrsig	SOA 8 1 3600 20260127012507 20260106002507 19860 voto. NggmzaZn75wq5Bc72uiJQpZrT7iT6/jG8bpLD+EUfz8g9fPsol4xXEzSso0OYyBpDGTpzP6Amegshoyn1VNnVo/CYp3MDX1/51ENPRgldgmAt2Cs90EbSStV+uGm9bQxLO73IimbW+EuraRQZ5aJDNmSfFkAsMuFUTecWKHo5hw=
+voto.	3600	in	rrsig	DNSKEY 8 1 3600 20260207155629 20260117145629 26875 voto. UAZcty6jlaHIsPNTEdKVe1DH1GY8Xti4bLy2+MMFcMcVIqQxvLEA8TpIpP1BtH5sP2Xyh4ScEgtmNZmaBr4oFZ14uh6CZ7XYdv+CGhteKuwHAkFub/YSgVVu1p9Gl+csI062luonxsp57srATJZhNacGvlJP9apBIq4hUHL2WjiPbSQXrBjpgNcxsIojPPFV7oP6QxfaqouaeKYG+ho1SHyQByKZqRH8XyZv84SXfA84JBrugwVCJUWFR2CSeqcRAS0tLR5dUYRII3zNmC6lRZ8WSelotuQD1IkhfFY0jLde5x+We9WY6urDmT83D7+OEoLRAtZDmX7FBze/up59gQ==
+voto.	3600	in	rrsig	NS 8 1 3600 20260207155629 20260117145629 19860 voto. a9VVLZ10iuH4GAVbLx+LszM0KO1E46qpgVnsZHQYWcoLN59jI0RE56Hlgfe6VPTIecC3U/0cxAmq87kQUeBz1ikTXjsFhLiDXLtiF4mjDwE7rKnL4e2sfIB9EzHQ9DKuXfIvOYj916gFun+JBguxN0VFgvXyhlLgyKbkPat4GSo=
+voto.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260207155629 20260117145629 19860 voto. Xv/mvJ2bq1+lpunzMzfoGvcLzb/flsHqcD60QupNhnCk5HE03hVXImu1YvTUC8aeRQ3r6H4TXJjeUNILbZaZVdGtK/acxI8urUKwYqSSOYlpsNU3kMN5dfdgszUSd2UMrT1CtAxzjFdf/JRYq9QNWq9sH7Q2umNi0VCJ/ChLL3o=
+voto.	3600	in	rrsig	SOA 8 1 3600 20260215012914 20260125002914 19860 voto. OkI4efJlcSQa8oQLKHdiPf3RiGsEByIcuvJK3l84RwS9p8LyFVetu7E65TpWsYN/ooFduw4FpFNhvjLtWFsKEUFVeFC20cb5JR6tO9Q0vqZaXdzvvUgePofRks0T/t1HoQ1hBniyh785Qq0JUebBL5O9CyRkh5/oeB8FWgMv4I8=
 voto.voto.	3600	in	ns	ns1.dyna-ns.net.
 voto.voto.	3600	in	ns	ns2.dyna-ns.net.
-vpn.voto.	3600	in	ns	ns1.sedoparking.com.
-vpn.voto.	3600	in	ns	ns2.sedoparking.com.
+vpn.voto.	3600	in	ns	ns1.dyna-ns.net.
+vpn.voto.	3600	in	ns	ns2.dyna-ns.net.
 vqmoi.voto.	3600	in	ns	ns1.dnsip.com.
 vqmoi.voto.	3600	in	ns	ns2.dnsip.com.
 vqyyl.voto.	3600	in	ns	ns7.alidns.com.
@@ -1718,6 +1724,8 @@ vzobx.voto.	3600	in	ns	ns7.alidns.com.
 vzobx.voto.	3600	in	ns	ns8.alidns.com.
 w88.voto.	3600	in	ns	cesar.ns.cloudflare.com.
 w88.voto.	3600	in	ns	venus.ns.cloudflare.com.
+wajik777.voto.	3600	in	ns	dns1.registrar-servers.com.
+wajik777.voto.	3600	in	ns	dns2.registrar-servers.com.
 wal-mart.voto.	3600	in	ns	ns1.markmonitor.com.
 wal-mart.voto.	3600	in	ns	ns2.markmonitor.com.
 wal-mart.voto.	3600	in	ns	ns3.markmonitor.com.
@@ -1741,8 +1749,6 @@ web.voto.	3600	in	ns	ns3-09.azure-dns.org.
 web.voto.	3600	in	ns	ns4-09.azure-dns.info.
 web3.voto.	3600	in	ns	dns29.hichina.com.
 web3.voto.	3600	in	ns	dns30.hichina.com.
-whataboutkarma.voto.	3600	in	ns	ns1.dyna-ns.net.
-whataboutkarma.voto.	3600	in	ns	ns2.dyna-ns.net.
 whatsapp.voto.	3600	in	ns	a.ns.facebook.com.
 whatsapp.voto.	3600	in	ns	b.ns.facebook.com.
 whatsapp.voto.	3600	in	ns	c.ns.facebook.com.
@@ -1760,26 +1766,32 @@ winston.voto.	3600	in	ns	ns2.dns-parking.com.
 woodingautobodyworks.voto.	3600	in	ds	4688 13 2 BD94C851598D4EBC46305054F3296B6B6190C9671C01F2D89CD3438DF6091B6B
 woodingautobodyworks.voto.	3600	in	ns	launch1.spaceship.net.
 woodingautobodyworks.voto.	3600	in	ns	launch2.spaceship.net.
-woodingautobodyworks.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. iyZV+l00ippTrOcDFc49VCnXlSEYePr657a7bQK0Cf/KVgnaJYPMZaNTW7iVUGzwpnOBt22q+WLVoRYwhZyQ1R1OTr/Sby9kKgGu5/EK/ZnjSqy1geBFJvu9jnEFMwu27OnwpKeTQfAL0eCbuk4Pblt88pZGWuCgkeePTbxSosU=
+woodingautobodyworks.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. V8pBh6cb4wyEH+E5DlDsJjnqIrlM08i8HczmoKFIMzXNSoE/YD5r0jqjzKTHnyB1w3DTUxhsBkKKrPPshaZvLCq0BN/537HFGiW4Y3lTtqINtsLRTQZB4Fw8Yr9GuZoVOnh6G/4D0uyMXOPbm8amksDl+9Ze9TfIHbwHhFbgMEg=
 wordpress.voto.	3600	in	ns	ns1.wordpress.org.
 wordpress.voto.	3600	in	ns	ns2.wordpress.org.
 wordpress.voto.	3600	in	ns	ns3.wordpress.org.
 wordpress.voto.	3600	in	ns	ns4.wordpress.org.
 world.voto.	3600	in	ns	ns1.afternic.com.
 world.voto.	3600	in	ns	ns2.afternic.com.
+world4ufree.voto.	3600	in	ns	elliot.ns.cloudflare.com.
+world4ufree.voto.	3600	in	ns	noor.ns.cloudflare.com.
 wsy.voto.	3600	in	ns	brady.dnspod.net.
 wsy.voto.	3600	in	ns	duncan.dnspod.net.
 www.520.voto.	3600	in	a	107.148.152.219
 wwyow.voto.	3600	in	ns	n1.xundns.com.
 wwyow.voto.	3600	in	ns	n2.xundns.com.
+wxrqf.voto.	3600	in	ns	chloe.ns.cloudflare.com.
+wxrqf.voto.	3600	in	ns	mustafa.ns.cloudflare.com.
 xagse.voto.	3600	in	ns	ns7.alidns.com.
 xagse.voto.	3600	in	ns	ns8.alidns.com.
 xianliao.voto.	3600	in	ns	austin.ns.cloudflare.com.
 xianliao.voto.	3600	in	ns	paris.ns.cloudflare.com.
 xiawt.voto.	3600	in	ns	ns1.alidns.com.
 xiawt.voto.	3600	in	ns	ns2.alidns.com.
-xin88.voto.	3600	in	ns	buck.ns.cloudflare.com.
-xin88.voto.	3600	in	ns	samara.ns.cloudflare.com.
+xin88.voto.	3600	in	ds	19494 13 2 0BC8B30F6E4478D56660D1A210C29025E5FA48EF3C035E9C5E541DE6B046FA35
+xin88.voto.	3600	in	ns	launch1.spaceship.net.
+xin88.voto.	3600	in	ns	launch2.spaceship.net.
+xin88.voto.	3600	in	rrsig	DS 8 2 3600 20260211091932 20260121081932 19860 voto. skPLdxhdG1lx4rgGsQXBf4X8goeFj/k7H2WLjWmVhEemHPAsYkUn2YwSQJmKzX/ocnFejPVs1T6SxD+7gRsrdaILxcf7T1SHoG4FsjJqOUc8wHgfW0HLHOC+LZgmYZwpeHf+d9YZiCqN+Su5fitQ4gIRY3FZeu4KVcr/hvtys6o=
 xocdia88.voto.	3600	in	ns	michael.ns.cloudflare.com.
 xocdia88.voto.	3600	in	ns	summer.ns.cloudflare.com.
 xoom.voto.	3600	in	ns	ns1.markmonitor.com.
@@ -1792,22 +1804,22 @@ xxx.voto.	3600	in	ns	felipe.ns.cloudflare.com.
 xxx.voto.	3600	in	ns	summer.ns.cloudflare.com.
 xycni.voto.	3600	in	ns	ns1.alidns.com.
 xycni.voto.	3600	in	ns	ns2.alidns.com.
+xzjwf.voto.	3600	in	ns	lamar.ns.cloudflare.com.
+xzjwf.voto.	3600	in	ns	piper.ns.cloudflare.com.
 yahoo.voto.	3600	in	ns	1ns.yahoo.com.
 yahoo.voto.	3600	in	ns	2ns.yahoo.com.
 ycgvu.voto.	3600	in	ns	ns1.alidns.com.
 ycgvu.voto.	3600	in	ns	ns2.alidns.com.
 yejze.voto.	3600	in	ns	ns7.alidns.com.
 yejze.voto.	3600	in	ns	ns8.alidns.com.
-yesandno.voto.	3600	in	ns	dns101.registrar-servers.com.
-yesandno.voto.	3600	in	ns	dns102.registrar-servers.com.
 yesorno.voto.	3600	in	ns	dns101.registrar-servers.com.
 yesorno.voto.	3600	in	ns	dns102.registrar-servers.com.
 yiyadm.voto.	3600	in	ns	ns1.dyna-ns.net.
 yiyadm.voto.	3600	in	ns	ns2.dyna-ns.net.
-yo88.voto.	3600	in	ns	ns1.dyna-ns.net.
-yo88.voto.	3600	in	ns	ns2.dyna-ns.net.
 yolo.voto.	3600	in	ns	dns1.registrar-servers.com.
 yolo.voto.	3600	in	ns	dns2.registrar-servers.com.
+yomovies.voto.	3600	in	ns	elliot.ns.cloudflare.com.
+yomovies.voto.	3600	in	ns	noor.ns.cloudflare.com.
 yourname.voto.	3600	in	ns	ns1kwy.name.com.
 yourname.voto.	3600	in	ns	ns2fwz.name.com.
 yourname.voto.	3600	in	ns	ns3dgr.name.com.
@@ -1821,7 +1833,7 @@ yucatan.voto.	3600	in	ns	ns44.domaincontrol.com.
 yyds.voto.	3600	in	ds	20559 13 2 04B91B4FA9768839E323BF36E2F26D6E00D3094E73A6817C26E1AED1178A8A05
 yyds.voto.	3600	in	ns	launch1.spaceship.net.
 yyds.voto.	3600	in	ns	launch2.spaceship.net.
-yyds.voto.	3600	in	rrsig	DS 8 2 3600 20260122161103 20260101151103 19860 voto. WlD/LtYHVNmtQhfe/KfAv5zZoY/BSHEC/oH3XNxg8X0BaxsYkzIb4JNH/RGcItnKnQTBCctl+uLmOMm2y4zRVRfp2I9oGRfEs+9a2iPs/h/caDigT1yBFXA9p9oC8/VVWuGJJSFulc5JHkfisAzhGvNQM7NvnD9lkWBz7EoIS0s=
+yyds.voto.	3600	in	rrsig	DS 8 2 3600 20260207155629 20260117145629 19860 voto. GyvCBWWp2dF166VU4qY+9SyIApEDTV84z2QbrYlPbWWfoq6hD8TZHbPL9zd+OcE/VEGIMaIYlqIYFnv5s9iMieX40A3hOy6VAI7jbY5oPtlaG0pfvwR7R282aGyeGRh0T6PH6tskmIGg1Ls3gBcyXg+AMFV054TIiCsZOvT71GM=
 zacatecas.voto.	3600	in	ns	ns43.domaincontrol.com.
 zacatecas.voto.	3600	in	ns	ns44.domaincontrol.com.
 zbet.voto.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -1838,12 +1850,10 @@ znvua.voto.	3600	in	ns	ns1.alidns.com.
 znvua.voto.	3600	in	ns	ns2.alidns.com.
 zoofg.voto.	3600	in	ns	ns1.alidns.com.
 zoofg.voto.	3600	in	ns	ns2.alidns.com.
-zowin.voto.	3600	in	ns	ns1.dyna-ns.net.
-zowin.voto.	3600	in	ns	ns2.dyna-ns.net.
 zrsuu.voto.	3600	in	ns	ns1.alidns.com.
 zrsuu.voto.	3600	in	ns	ns2.alidns.com.
 zsudw.voto.	3600	in	ns	ns1.dnsip.com.
 zsudw.voto.	3600	in	ns	ns2.dnsip.com.
 zwrxk.voto.	3600	in	ns	ns7.alidns.com.
 zwrxk.voto.	3600	in	ns	ns8.alidns.com.
-voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1767662436 7200 900 1209600 3600
+voto.	3600	in	soa	a0.nic.voto. hostmaster.donuts.email. 1769304285 7200 900 1209600 3600
