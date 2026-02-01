@@ -1,4 +1,4 @@
-hermes.	3600	in	soa	a0.nic.hermes. hostmaster.donuts.email. 1767660572 7200 900 1209600 3600
+hermes.	3600	in	soa	a0.nic.hermes. hostmaster.donuts.email. 1769303058 7200 900 1209600 3600
 a0.nic.hermes.	3600	in	a	65.22.232.25
 a0.nic.hermes.	3600	in	aaaa	2a01:8840:00e2:0000:0000:0000:0000:0025
 a2.nic.hermes.	3600	in	a	65.22.235.25
@@ -13,18 +13,18 @@ digital.hermes.	3600	in	ns	dns1.cscdns.net.
 digital.hermes.	3600	in	ns	dns2.cscdns.net.
 emile.hermes.	3600	in	ns	dns1.cscdns.net.
 emile.hermes.	3600	in	ns	dns2.cscdns.net.
+hermes.	3600	in	dnskey	256 3 8 AwEAAZcY35jp3lXZUBfa8hRi8wPxPl/GQrtgidlMm89LA1LTuFGYyxY8TK67wwzr/EVpepA4uIW+EESKdzawDsaQserARJnmQ6kgtt5SzHmFVcEo6WOoOGtKqOxcdAVGwPSKVhEhtxOdokTvXr4gNhHv1rWhLoyIbRNCnobGf7ytTtzp
 hermes.	3600	in	dnskey	256 3 8 AwEAAaYG6lobChvzjTHNpTdFiGY0VnpKbEfo1iTaaoeDhG8RpDqsXDwBFOJ8X28tORAjisXzzgdz/igOAXrGl6BdhjXKXbHjIUCBismbWZ/VlnD9hZ1A61fmbWWigANz5dpvew9C+jXpU6LKEpLWe+McwWiA71uDUkrCpeLKTKMfCH0x
-hermes.	3600	in	dnskey	256 3 8 AwEAAcV8Vujw0H38FV+zwjeOcGdYnFtQznqclyk3LxcnESLF6/NYTGlzvf0UKZBwVDPYYF6gbgnRvYtMt3C0wY5xaUH6fF6+aO3ZF4TdcbYChP5UufxgadLmVLig62zcoa1uRvQ8ljqw4JRFvxwkgmsv6RTqaeZtMc4MWZVlJUX8YiST
 hermes.	3600	in	dnskey	257 3 8 AwEAAdd2njK84iKXFZIrAxqm9aRRAcqih6sNFyD1cz5s+dpma8GmyTOnFBLnRAl+4UP5pmFyTVwMvejRBIsl2kXQ0IBI2hVLmwtiWASVSjuwi5g+ddysQHAMf/+UaUddo5WhfPCsoBBdzD4dj3qpev0KPh5cvFARpI8RxKcWnoZ87KEEkykeTpls+gGgpb5vZeAvNa+ceupn73+eUDMcPBHTBAiuKzCZIIC2imnoKKdfVJqed22SlW8x/Fn2odVVMFkAP9Smagw+QjJzgIdI1v5EPXPbhUiArRAhDaD+zUvlOR+ESODS9AUk0EcZTLj6kzEVk6FnzhFUdg6H4hmT0oknmBs=
 hermes.	3600	in	ns	a0.nic.hermes.
 hermes.	3600	in	ns	a2.nic.hermes.
 hermes.	3600	in	ns	b0.nic.hermes.
 hermes.	3600	in	ns	c0.nic.hermes.
 hermes.	3600	in	nsec3param	1 0 0 73
-hermes.	3600	in	rrsig	DNSKEY 8 1 3600 20260122161542 20260101151542 17194 hermes. MPCWs8FfwbIfufCBEfYNTPGtmqCOu/7BG/7YU9JGtG+SMoEAP/S4YVK+9e5nQWSebjQiszCr18yzgt2EcdESjHbkBvfJMRk+mPiZOoBuzD5i2RlATgUiGrK395fFlqVx2C8IQ8HxNOEX0+pNAYuQ/DKZX+to03e9XzkR57ilZFU/JbPYx5MXlG42W3Wo6HAOE1zSO3eElgMfAETrrCYwziNqjzLwEhvMPT8JpUqInpSs2UoWm+G6VNDrbD2Sy1K7zk79Y+yo4z3eFxzpRzbrLi9fO2itRjeLe2S+s67tNlkgyP/aKo8Cq374zKaaw4ZXOLl7BbygsxJc4RmBfngfKA==
-hermes.	3600	in	rrsig	NS 8 1 3600 20260122161542 20260101151542 26400 hermes. cylXMXHK2/womtYT9hBrve6FdVV0FHW8c/vKlGR/5FFJ/OqOMUjXkw6BxyHz5od8LoDqEdDegm5g3LR6lmJ1zRV2nJuSrszyK7Blk+pD6efUwSQgSX9hZ81ZcC1aqy/UU5ka2LqJ/Q3LjaSO2mZdbEW870AxWApFQ27VLNiGn7Y=
-hermes.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260122161542 20260101151542 26400 hermes. Iwh9Y+xEziUnJNGANxtI4GCwv4ssGu4dqIJJdu1UgwF0Z/XZpd8gGUpiSHWJWXLp7Wjs3eDdE78uLLGH+uWNzlkSHQSOYA1iBSEkULEkJhKBf1tl9Ux54KS1wh/ZrEjyMKVe83rV5gaKtrInJPgzxBXyKWtsWcxfZw/SQ+CZMvI=
-hermes.	3600	in	rrsig	SOA 8 1 3600 20260127005432 20260105235432 26400 hermes. W2oiSXfd4KA3CK9MQT5fXYYM+wtITn77YWGPS/Wf/uLOy99F42wcnyIPbefvlZZ9MJrAUWhuNdmD8pdlSeZptcO5vCu0vQbjCjw33AdshjcKR/s5qedXnytCpVb4uxKs5+zjl8eMgXGlvshk4Z9/PgZdEiefeAQyRMeV4RtPHvo=
+hermes.	3600	in	rrsig	DNSKEY 8 1 3600 20260207154820 20260117144820 17194 hermes. LWMnir99e6thSYcZGuOek8PcrroNkyUN8dcjUQouKjbWMtGEXEyLslCsKPhYms8pfmQXQhmCKqibv/4O3CVuf9Km18B9eZewk2LGTza9/ZYeL40+1JKMGofSwA95t3ikdhiqee4+Qsl7FGVehpctc6gVb3XJ53lwVuWkOWzGxbpKMsTTPzoajEzcHMOJozo32rBM9ecvsZXNBSjlMcI76NpQFHXbCyo+JfYSeCUvFsEybwm6EkgzPOUgqE2W0STqMWg0aSkQgpVA/HEDIhVgAlagf7I9wVORB4t6SmQyfBVEuDrBO8U5pbwyEmHpHSTN7nTMpa3hXhUtxHC1LqLdjA==
+hermes.	3600	in	rrsig	NS 8 1 3600 20260207154820 20260117144820 26400 hermes. YatDyemapRUm7hGy2z1C+Zl2Hyto8qGBOx3D2zHaHCkuY/0mK8WxBRDSfBAO5aljJiNIlXfPKbFqT3qKH1N3DaWwY0XHc4RN4jG81VJA8PhXskvlAwceZWs9GXDkNs/DpnOVtHuyVHlbmWyNqNj3uqQwOrNh/MlUl4PTMs0xlg8=
+hermes.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260207154820 20260117144820 26400 hermes. oj0iweDy9aI/Z5Bv4WfSAshxR1pziJn0aAEdjZ0ied6ghNo5D3n1WFLnMCXHUhVv11m1GAtlXvxgvQTStpkViTprHHj4/nv6CKJe9mpVoYiJ+IrIRHx8ljhUI1VfzBjvvZJCerTSrorDJPbULdqvg3O0rfLpETPuIMD+qrK+Vuo=
+hermes.	3600	in	rrsig	SOA 8 1 3600 20260215010709 20260125000709 26400 hermes. m/ULbUtbLWMJAEr/xnrV7MDmRwMSMKNujTNZ/SfsO0A8OWphxuwohPQForTwSTvJlkfWLLHuC3/XJDtwOL1mnrEuhXKhdHL4KEb3FwV4TXIiuxi24NovDdb5YB/TyiENaqpBkRdX+4t1Cp/3ep72dLBs76CzFqhis84Yfq1M8zs=
 insidersreveal.hermes.	3600	in	ns	dns1.cscdns.net.
 insidersreveal.hermes.	3600	in	ns	dns2.cscdns.net.
 labs.hermes.	3600	in	ns	dns1.cscdns.net.
@@ -36,11 +36,11 @@ nic.hermes.	3600	in	ns	a0.nic.hermes.
 nic.hermes.	3600	in	ns	a2.nic.hermes.
 nic.hermes.	3600	in	ns	b0.nic.hermes.
 nic.hermes.	3600	in	ns	c0.nic.hermes.
-nic.hermes.	3600	in	rrsig	DS 8 2 3600 20260122161542 20260101151542 26400 hermes. D7CISYbe3+6H2cj03L3yl3L8UGCmKsDf0NDc20qmn+kvXgL0GG83LQBuKk72DAEuuSxCyxT5iApIEV4JUoq0qQpC3E4MPQHJ3YUQFqUeWkVVHVLngyFzYZoEU0AiLwgbq4nK16WY6DTQrPcj3EfxIv6l4V5mn2e6qpCPl+wMmbQ=
+nic.hermes.	3600	in	rrsig	DS 8 2 3600 20260207154820 20260117144820 26400 hermes. TZ0TQEUhV15R8yR3qCBERJLXWAChDGJVZRtyomAsiobhYan+0ff+tNvLA/QLKJQgH6A2G0aB/Rt7+k+tDo4sExpDFb7xPkhvr0Rui3NP+g5nHWoe1S5/q1WpOxrKle91BJxlBE2B8AIS/VbfANQL/lyVUsrm6/bSrsLZGLDCLNU=
 orion.hermes.	3600	in	ns	dns1.cscdns.net.
 orion.hermes.	3600	in	ns	dns2.cscdns.net.
 qqi6n9k500atvns2ho9caspdn9n2k3jd.hermes.	3600	in	nsec3	1 1 0 73 T12R3S1NQA112FUIO0GN9QLTS8B12RHK NS SOA RRSIG DNSKEY NSEC3PARAM
-qqi6n9k500atvns2ho9caspdn9n2k3jd.hermes.	3600	in	rrsig	NSEC3 8 2 3600 20260127005432 20260105235432 26400 hermes. OwcfWjKlTs8NftfCc/o+HkHpqB2yplNPA8rzDVdllc3k6908LMgFvLDkd9iegmroVDLRt/3qzh1HSuycSepxZH+i00/VUDJbIkC8tg4IYfLlUCLHP8xPIaEpf0dLEV1M+qbo5Pb54ytlsBNrbaaCuviZQlYZPLKe49/Y7LY9JcE=
+qqi6n9k500atvns2ho9caspdn9n2k3jd.hermes.	3600	in	rrsig	NSEC3 8 2 3600 20260215010709 20260125000709 26400 hermes. IZHoU9QzpgYXaa6a4QaM22nexP6eTBNyskRMH3t81yQbh0A/ou0qI+zeNNe1mnbUGoDTktXEmMc9nSLwF8E/AX0+o9tOGIi03boWnZsvkcJPDHDLR+rKtGpSvkQd5B6O58Or2sKFaQ+R/jgxOlYzK61Ns510972fW3u7HXaYCgs=
 t12r3s1nqa112fuio0gn9qlts8b12rhk.hermes.	3600	in	nsec3	1 1 0 73 QQI6N9K500ATVNS2HO9CASPDN9N2K3JD NS DS RRSIG
-t12r3s1nqa112fuio0gn9qlts8b12rhk.hermes.	3600	in	rrsig	NSEC3 8 2 3600 20260122161542 20260101151542 26400 hermes. AuWGYVjhs0KOwn6HuZ0ckPdN+d7tF2y7TgAJLV68WrDzn1FfjV02JEM/CUw7jKTjtMCX54A6gtohkuPuzCYIgR0A4hbYq8ZCV2qfLUt4NHqtAKeXC1j/crWtzHjGNs53O6cMBB2s/JS7N8ung/THOZlqd3RYc/c+58dTlX5mhRk=
-hermes.	3600	in	soa	a0.nic.hermes. hostmaster.donuts.email. 1767660572 7200 900 1209600 3600
+t12r3s1nqa112fuio0gn9qlts8b12rhk.hermes.	3600	in	rrsig	NSEC3 8 2 3600 20260207154820 20260117144820 26400 hermes. b45A/nKg+rvizpq+nHN8DidGO4jXS5flACrN4ljx9045sIMew2tCDESVJYZNsf1dW1gQ+pn4i0yeeYROBt7GaJUB3/sDcysaw8L8JkjuuRiGhXP6WdqMPS3Rb2uC9J69qiDT8wC8vpjIMResh8IHFCeeMw2QRnPStUSsL2ROp78=
+hermes.	3600	in	soa	a0.nic.hermes. hostmaster.donuts.email. 1769303058 7200 900 1209600 3600
