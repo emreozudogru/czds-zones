@@ -1,4 +1,4 @@
-kred.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1527144316 900 1800 6048000 3600
+kred.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1527145102 900 1800 6048000 3600
 071822.kred.	3600	in	ns	ns.peoplebrowsr.com.
 072722.kred.	3600	in	ns	ns.peoplebrowsr.com.
 080122noah.kred.	3600	in	ns	ns.peoplebrowsr.com.
@@ -31,7 +31,7 @@ kred.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1527144316 900 1
 5m8odirsbdytpon.kred.	3600	in	ns	ns.peoplebrowsr.com.
 6529guardian.kred.	3600	in	ns	ns.peoplebrowsr.com.
 8h8ab654v4m9tvm13c2gbuoilhej6qrr.kred.	900	in	nsec3	1 1 0 - 8H8AB654V4M9TVM13C2GBUOILHEJ6QRR NS SOA RRSIG DNSKEY NSEC3PARAM
-8h8ab654v4m9tvm13c2gbuoilhej6qrr.kred.	900	in	rrsig	NSEC3 8 2 900 20260120094621 20251221081621 37836 kred. QY7ODvCMOSqcLpww8bfzn+itKnr34j84Yi60ggCgMn/67jyvmy9ppbulPnJYQFJ/bZL35cAqgOVf1YBiuzWs8fWk0RSVr5kN70v8DndGc9/Xs+mRI0doXHKld2KaHBGlpXPhJoYpgkjhOMcPkKD82BG604VzC1rmotEJlfFNeig=
+8h8ab654v4m9tvm13c2gbuoilhej6qrr.kred.	900	in	rrsig	NSEC3 8 2 900 20260216081733 20260117064733 37836 kred. PFNISG/ni7JJbC1G9drNqiT197J4xr/dXmadixuskUvsOk6Bq9N/dPfmsQjISxS/42Q2UiAYwawjByAP/pvF75NZGbYyANeYznrh9VA9BY1qS9Yem/n3bwV3GFNqiGq3z5EZ64UZqJ1Gx66vwoBLs2t4TXYXCUzH4tgaFbwu0IE=
 99walletcrypto.kred.	3600	in	ns	ns.peoplebrowsr.com.
 9sdlkdzefbhqmn3xs.kred.	3600	in	ns	ns.peoplebrowsr.com.
 a.nic.kred.	3600	in	a	194.169.218.79
@@ -1496,13 +1496,13 @@ kred.	172800	in	ns	a.nic.kred.
 kred.	172800	in	ns	b.nic.kred.
 kred.	172800	in	ns	c.nic.kred.
 kred.	172800	in	ns	d.nic.kred.
-kred.	172800	in	rrsig	NS 8 1 172800 20260120094621 20251221081621 37836 kred. PtlA6jUr3kKf4TXyK3ouFTYQd9CvFa13i0nt0P+ar+QP38jJ6rmCRHJSux7OlIVs0hN6FOEEYl/NVTT3TcRyUnIS/UKUjuBnbmLgVl74/+Ev6NTyr8X6To9aln9Y6sFn0oR1Vu75mI/NqUNN6168p4DfJZw0K8xDF4MvcSrAu5Q=
+kred.	172800	in	rrsig	NS 8 1 172800 20260216081733 20260117064733 37836 kred. D1awBdwGyHfr+/dEd8IcOlDHxBRGHKRzZS4RqF6YMfNbOtKgBzNfc5zTY/Pdrgi1aceC62ZqQ20u3S8wnQhmufjRMm1StAyYmHS5EHqabpJ7rmdlebrBZ0XLxDAceJM3JXM8K/STZIQ2L9lvmnAGKR1Ede9KZx6kQlXRWIjLdlE=
 kred.	3600	in	dnskey	256 3 8 AwEAAaEsbrVku8V4HtAx4Cnp4Nq310UKU1g0p73nQAjk+RLYRhG78rCW1jYk0dBUI4zc+0Yn1PdePOZErxvk2ToMzPkN2lV3vhWDs8TvirE84UyH2qSpXKCR6mQ1rOlog2Wsg6bCa0l6ikyzMxqbMvYt+4sHAbTGHGwcTvGC2sMoH6Ul
 kred.	3600	in	dnskey	257 3 8 AwEAAdRYTH6oNo7AfCLsYLOv6t5xPMxZ9LvFnQCJ/uWfMKMFdRI83Qk//a6UBE/ps4uDEpxISHaAUZN//ln7xbT+eRf38EGyZVZ/GtphOitcCmbxI0D/f7dzXznXY3mDcbloEkTKJcYyTTTBMeGz2JfmRpMAbP4VQqIPr7n3n+iR55wjonaIcH6ooiAVAx7Bg88eXBxoOyzA3Ji5qauOcUBnPJRcIpp5uIFvOhxqXPwyT8MnRk0wH6vlXUZurq+F7riNXvYR3NT/vJThumed+FPb4tqDJ6QvBKrHY5T9KNS8qkOCV5UYIj+h5ditNamWEcjk2kWaqs4vsxU4gSfkgboeGYE=
-kred.	3600	in	rrsig	DNSKEY 8 1 3600 20260120094621 20251221081621 33850 kred. g7DT3ZjmV/AWQWm3+uUPVggI0IXFsD7u1zpi2eCGJpORmy/dhfooNgPGSykj5TwYM79ORA2QyB3BoADWXq6CbIFA9PAIQyrlGwaRaM8rQAIudK5tFVAeszm4HKAePs5uDdlBYGUpDlZ6IAfi3CD0XfGruB0FbIAyq4ZPi9PPjqehP/la5wsd/fnbcGyQSV0cLSxxjEiXrXTI5msbiZjyEF4XSAybmWrYQ6wEH/1vD96fkSYolKmOFGBg9fm38Q1wXOyKJnjoyJNon+VvM60VqpiRmPd8A1JjuZe92a4n5Ow3MzBVx/TujpWsFVJof118wp6vfrqXs0UIWyEsoRlxWw==
+kred.	3600	in	rrsig	DNSKEY 8 1 3600 20260216081733 20260117064733 33850 kred. rzugPFA+OSTjeDGginY4LjFDY7jlsA7YSro1uJ5mQxFBzailNWtJIfBJPCV/7rxddVcbTbTV7VgvTQjNAUb5OzHTjnzs0oENRorqm4isGOXb8YafUs5NHbcK938yY34qN8uC1vNaZpTLo5PTvhZUX1LWDrz4KBsyQWYTHthWXsnSMX62VotSDYfyqb0wVpdAG71hvBp36q1GTuUmfCighn/06VZUCUOREikEI+4EjflJ1V8gGQ2yulldnwYxmO9QVc03LYl9oo5wJ4HDPLcJ3J+BwUkLmP+pYH90fpmWL0Lc4e2SB+/IRjvNt0SSo3+zX0JH9sicbPHhCRDKoOfD4A==
 kred.	900	in	nsec3param	1 0 0 -
-kred.	900	in	rrsig	NSEC3PARAM 8 1 900 20260120094621 20251221081621 37836 kred. ehu0CZ5OhUPqDJJgET0POpagP/joasmyrnXBqzTWnylD3AezSuUGf1FQvudhqP3R9ZM4ghGoyL6Gfg2bSSnumpTunOAHrrY4xBlb6L8f2lat51V0TzsbtcMA2RK3mK8SnBd87ibeW8Tk75qV74ILZiEulk/Txkva3xhq7zbTAj0=
-kred.	900	in	rrsig	SOA 8 1 900 20260205004321 20260105231321 37836 kred. NYMaBWDxrG0p21HoIAwWJVGXf4ijDdfA7yPW3ho3YlCxelry58/CKMhRERIJZPm/430OQZHg4YWTHUPeS6EJFJREHMh+f+mh+38T1K1ozL87m9JUx1Pj8ODjCwpjrdAWyoQB2DGduKGnTL+WrwHVr9BRhJ3YfjSafdX665oCNME=
+kred.	900	in	rrsig	NSEC3PARAM 8 1 900 20260216081733 20260117064733 37836 kred. BcGOa1kMnPcW56E1/z8XmbwWUgIhO2htmSq7F2g7oeVQU4uYxAhQvM/aOLPaRVnSEN/q16EwzfNZTQyyK7IODDT9z9u9dyFqZWzEr3SnMh7/aXESMqLkT93oC/qfjEoGIB4NXI1EJVaCiuoa7POj/upoOWtdNfw4Ir0dMJT9cbQ=
+kred.	900	in	rrsig	SOA 8 1 900 20260224005938 20260124232938 37836 kred. Oup5htLusCuuWSO+oHS1ntmdaVifHQ0M6VyMbZnUhw8zRARhgWaXxI6Outqf/8txdkvDGIoBNdXgfxGHNo62JexkB2tHBMLA8gFq0cSF4Ch+9bEMdo7obazyyku+bJiWF8fyylJM3EhzlNfkZo3UbJzaZvdrKKmnIwZMSTfEgvo=
 kred.kred.	3600	in	ns	ns-1243.awsdns-27.org.
 kred.kred.	3600	in	ns	ns-1857.awsdns-40.co.uk.
 kred.kred.	3600	in	ns	ns-55.awsdns-06.com.
@@ -2808,4 +2808,4 @@ zazpowered.kred.	3600	in	ns	ns.peoplebrowsr.com.
 zhangliang.kred.	3600	in	ns	ns.peoplebrowsr.com.
 zixelnft.kred.	3600	in	ns	ns.peoplebrowsr.com.
 zoo.kred.	3600	in	ns	ns.peoplebrowsr.com.
-kred.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1527144316 900 1800 6048000 3600
+kred.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1527145102 900 1800 6048000 3600
