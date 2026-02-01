@@ -1,6 +1,6 @@
-fresenius.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019130554 900 1800 6048000 3600
+fresenius.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019131341 900 1800 6048000 3600
 2hu6eseme12h2k95jovfrs5oju9r8r3k.fresenius.	900	in	nsec3	1 1 0 - QRI3HN07N82U5JPM3A18TTQ0CQC9NM6R NS SOA RRSIG DNSKEY NSEC3PARAM
-2hu6eseme12h2k95jovfrs5oju9r8r3k.fresenius.	900	in	rrsig	NSEC3 8 2 900 20260120102020 20251221085020 41830 fresenius. Fi5uzGiH8FKwENbi09mLiEBN0fKOZNgc3cnlHrG8banvdk9NxaqYDd3nUS5XxsXPUp9zKz7DSlCaWSXtUPPH5I2wyCVQV1dthNrZ3oj6gxQSntqKtY5HaI51rX7dQjV/V3WiNmzIqVFzG7kXqEz9ZWf5HqypUiQ8vCb9H9Mqhpk=
+2hu6eseme12h2k95jovfrs5oju9r8r3k.fresenius.	900	in	rrsig	NSEC3 8 2 900 20260216085234 20260117072234 41830 fresenius. gWWNQZRtQPwhK4lBzu3aUREhxtbKZtFoSzc9BjCv0WcQ4hQP7vrH0qYVH87iJRJXodzbd8be5fgZpJ5Kre/eHsT1MyuMMc8tuw4d7xvHjBnBnSSXX3PqG5z+MrWQQvnKYz7iQ5LfxkUX5CMZNB8ruR1uM318yRYNIBWq56AgvwM=
 a.nic.fresenius.	172800	in	a	194.169.218.86
 a.nic.fresenius.	172800	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0086
 application.fresenius.	3600	in	ns	ns1.brandshelter.com.
@@ -88,13 +88,13 @@ fresenius.	172800	in	ns	a.nic.fresenius.
 fresenius.	172800	in	ns	b.nic.fresenius.
 fresenius.	172800	in	ns	c.nic.fresenius.
 fresenius.	172800	in	ns	d.nic.fresenius.
-fresenius.	172800	in	rrsig	NS 8 1 172800 20260120102020 20251221085020 41830 fresenius. M+bK4PMBQRYJ3cKLJ2qCnMY5SWt1NcxG0YpanQRTfKj64X+6xhPrD3U7xdIlbSFGfhqnZLNhc6huh2x3JlTPJoIX97hbnGSycJsNs8PIXRm9m0HNq1bcR8D2k/uzsLKtWQJEh5Bn7EvD5t26B8mnDvtjXmsjwRmD5vSCIH7bEA4=
+fresenius.	172800	in	rrsig	NS 8 1 172800 20260216085234 20260117072234 41830 fresenius. nD/DN881wvJtvgUdDQTalrTQTapTlAJ7zLFCfkCtV8MJiFV3jW16TUI9iFuC6/X03CpAviCPShsRGHnZrsJFtoMR7uz94D+/hgsjuBJhCp2mGlX92PcgKw0y55MMbhogIGiQ+CBOGZafFFCrMZC33laTSlCdwVjT0PPtmFQDDh0=
 fresenius.	3600	in	dnskey	256 3 8 AwEAActXDTBhgcEB9qXr3pNjqlNGIZ5SWGcxptBZGWmcugEUqaOZaIGDdkrCZifMxgrAac0KGquzVtQGRnWT29pAHHbRzjfKWHYbDVQiabGCoz8Ur9H4pS1C/+YIYij3rpYnRdy07sCix4SlMN8QCzGOo+VSZSuPNCohL0XUq0bk5hNX
 fresenius.	3600	in	dnskey	257 3 8 AwEAAbCLs4FGoRAiuQg/+8NVpgU/CDpdirVE4X4u9rJtHFubE7h8agNSy8qFoQsG5Q68chiTb3GoULi1afukiuAM9U0mMcbC7DMztuubqStX4tvYRsXDp0aokMnYKtRdCCIYqWto1HNC7osa5Nie3Z4YX+7j8mVabaLPA+CXKDt8cuK7NmMkUL5qLSLdTqUU+/KQqi9cseXJI8q5qeXHq4CuMPITD+Nw3W55xmLA3G9AFgdKFG86BhUExzESJrGWEhyzVg6SSGF3l3kVDPD26NtGCB9j8d9mPr1YHNCtluNpQFyRSpARDMymqh598yUAztWdjbbUoiKDcNMeQwmw19nBpkU=
-fresenius.	3600	in	rrsig	DNSKEY 8 1 3600 20260120102020 20251221085020 48287 fresenius. rsOaeNfxvE4CemGHyX+HkRQUA1i/Qqzk4ez0BV0yL4Dqqczkqoqb56QeShsoza85JrQ5RSSGOYt2pyofUAbJYZvAxukwNy12iogo4kOi2hXN6LrW/TckzzmGWC1fU11BUgRcWeK3dfkyMyUeCzbpx/KvlCbbKxxWCnLV8WwaEzWjzceYMIh8RABlAbNOWF2KRAZcDS4q/pUyGTQgEdLjg1eGg/l+AZhOXJPnBFOfyCBH7kqTeAY3HFrTILlLuD1nKVBD00zKoHGl3iGnZ80A18zWetsh0ffx3Z/qMPxYw2WJykivxgxKlWxO3vkcTFhmVlOS9teMstKuTDXf3VaZ3g==
+fresenius.	3600	in	rrsig	DNSKEY 8 1 3600 20260216085234 20260117072234 48287 fresenius. nlhqYaRjgBLK2F7lViJX4Bu96/u4ljFy+3SWH2uexIAiyj4VJuuIOKdAj2tuJ9k1S29mohH/HEPY1JxivqFnq8kjlDJRpNCTzyHNfJldI4pdBEy7j41ORVkIpiknNizLZYonCD2D2XGfx8oKWDLwVEamtOKm5nK9WHam9cKnd22CrjDz7+Dvg/KNbkJusQweeym8GLQsKxD2eZClEH6Ws0aNXV4rE/Q8ZjNopKleNayVGA/f6Yh9bOvE64VeC+fxfZnW56lmzuJfy0FHda/xnduMFBqq+bwTMXRAHTDOT31lyVdVT1bpAe/fq97fMWko9e6Xgjrv6B+fk1NhRzWCew==
 fresenius.	900	in	nsec3param	1 0 0 -
-fresenius.	900	in	rrsig	NSEC3PARAM 8 1 900 20260120102020 20251221085020 41830 fresenius. SjKMlRgIE55Bmzj0Clfar6ymMg6axPURhK24fgHWEA48rd4l7Y4OXq993l05u5hQ4LypMI0P0BdIUDXGdnxvA19cm6KN4S4tVm9uL8FGuy0WtXheBlcZnZOsCt4Apg/DpRXTWa4nSsr4hy9HvD8vZF9aWuoPiy+IVkZA82qtvkk=
-fresenius.	900	in	rrsig	SOA 8 1 900 20260205004323 20260105231323 41830 fresenius. WliHMCXy/8woVdfd69Xl41rFS7wewqVK/pFB3MnX/MWrqH/NquZNIi3hX90LgO16cIceCkEAmhK3XM2+VgI7RkNicTMGaUBTNK/utlvSd9NGQj298cSp0Gp3G0g23YAnOhepJOm4RYpM5edspUDilEDCAQVasw1mAJCWHkUCyY0=
+fresenius.	900	in	rrsig	NSEC3PARAM 8 1 900 20260216085234 20260117072234 41830 fresenius. TFDhzN4PAsYgNmqe7OJYtdhjVOrSsbdQ+MsETBYYGmycbtsvMC7YbynVC9z8fRstaBLsHIaaBQhGsF5kLlgNVaLqtd8rzHjmiG8buP96W7dHce6QGE0sZmOc7oq0y2+SF/A8b9vp5yH/9JpAydJgI3KLMrnmXqpj+1Q/7Mj845o=
+fresenius.	900	in	rrsig	SOA 8 1 900 20260224005941 20260124232941 41830 fresenius. MnmnCPPpHcU2TRoWpAcTxf4yIORQtQ4ZmDdHw2Gwq6dB6hou+NGpS7/CJOyVUpKL6u/IcRCtLVO7Fnwf6CvEBaHniSoXcgUcgcR1juX3AS/plnH1uyRlYTdsxEgSSDeftDR+0TL230UtgxaZ2qG7p27gkg6nvgXh1bXjjPCOTvc=
 historie.fresenius.	3600	in	ns	ns1.brandshelter.com.
 historie.fresenius.	3600	in	ns	ns2.brandshelter.de.
 historie.fresenius.	3600	in	ns	ns3.brandshelter.info.
@@ -189,9 +189,9 @@ nic.fresenius.	3600	in	ns	anycast1.dnsres.net.
 nic.fresenius.	3600	in	ns	anycast2.dnsres.net.
 pdt-subdomain-test-1mrukv5.fresenius.	3600	in	ds	60485 5 1 2BB183AF5F22588179A53B0A98631FAD1A292118
 pdt-subdomain-test-1mrukv5.fresenius.	3600	in	ns	ns0.example.com.
-pdt-subdomain-test-1mrukv5.fresenius.	3600	in	rrsig	DS 8 2 3600 20260120121300 20251221104300 41830 fresenius. Dpg0EIbBJ9ZweaNhnxUJV1CeBnMkG8VnyL/16ELW2cCzMGcIMbj8xGnKClotWyATPjOcg8hsWjqSDVenfAnCYbjQRgF6Ccw6btF/b4IDnGBli+oDtQpwBkGpObPkiXgElByoAfQfrXXCg6ojwQFo3N8QflvBSIx22u5JEAFuLRs=
+pdt-subdomain-test-1mrukv5.fresenius.	3600	in	rrsig	DS 8 2 3600 20260216102020 20260117085020 41830 fresenius. bw4tM0uUNHi6ZLu/gdSoC+qk5/Urxizr1JVpb6Zs+EbeN+Kk9d5/l6iNdebNLntte/CpKtuFxQIUbaAWN/JS4LdUdHHeTx0hy5n5qhb2f8pmWGLyBjzu0B+CYvS9kOX855kVUM21e3zRFT5LrxqMKAT/dFLD37pJOeqOefOIQh4=
 qri3hn07n82u5jpm3a18ttq0cqc9nm6r.fresenius.	900	in	nsec3	1 1 0 - 2HU6ESEME12H2K95JOVFRS5OJU9R8R3K NS DS RRSIG
-qri3hn07n82u5jpm3a18ttq0cqc9nm6r.fresenius.	900	in	rrsig	NSEC3 8 2 900 20260120121300 20251221104300 41830 fresenius. oJeWXHOoxdY6JCcN0xOIHOTK6iRURmPKONsJG7t0NEMcEwPMEPT8ubYu1SN3W78GrXUaThJZpCOWOqe4oTU0UurBEZXJYMSfWEoa9ZzfWIXYvo5Gz4GSoWSnHc75Wv/wH2w2wdm7qPGS9eF//YchqIcjlMCZT8C3HOamn+Phv+c=
+qri3hn07n82u5jpm3a18ttq0cqc9nm6r.fresenius.	900	in	rrsig	NSEC3 8 2 900 20260216102020 20260117085020 41830 fresenius. T0XPHJB0oMGtYvd0KiIw2davjpjsg6xQfoOVGa0yE9HJIFEhhrAlkYjyQ3xpjNhjgF4HxJGzOBFvlmDO1poDqwVkpJh1GN6Yo915xPg7IsLOFgIxMiVytLWOqx8MVY7W0GIZb+dIBwc8KLWF1uWi/VLUtZeYU03DwxEFJRouWuU=
 sinnvoll-karriere-machen.fresenius.	3600	in	ns	ns1.brandshelter.com.
 sinnvoll-karriere-machen.fresenius.	3600	in	ns	ns2.brandshelter.de.
 sinnvoll-karriere-machen.fresenius.	3600	in	ns	ns3.brandshelter.info.
@@ -237,4 +237,4 @@ youtube.fresenius.	3600	in	ns	ns2.brandshelter.de.
 youtube.fresenius.	3600	in	ns	ns3.brandshelter.info.
 youtube.fresenius.	3600	in	ns	ns4.brandshelter.net.
 youtube.fresenius.	3600	in	ns	ns5.brandshelter.us.
-fresenius.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019130554 900 1800 6048000 3600
+fresenius.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 2019131341 900 1800 6048000 3600
