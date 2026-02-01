@@ -1,4 +1,4 @@
-xn--vhquv.	3600	in	soa	v0n0.nic.xn--vhquv. hostmaster.donuts.email. 1767662331 7200 900 1209600 3600
+xn--vhquv.	3600	in	soa	v0n0.nic.xn--vhquv. hostmaster.donuts.email. 1769304182 7200 900 1209600 3600
 0.xn--vhquv.	3600	in	ns	aragorn.ns.cloudflare.com.
 0.xn--vhquv.	3600	in	ns	elle.ns.cloudflare.com.
 000.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
@@ -21,6 +21,8 @@ xn--vhquv.	3600	in	soa	v0n0.nic.xn--vhquv. hostmaster.donuts.email. 1767662331 7
 10000.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 10000.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 10000.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
+10086.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
+10086.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 11.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 11.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 111.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -68,7 +70,7 @@ xn--vhquv.	3600	in	soa	v0n0.nic.xn--vhquv. hostmaster.donuts.email. 1767662331 7
 222.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 222.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 2lfebfn6k382r4hom6mqf1fvc8ue9a4p.xn--vhquv.	3600	in	nsec3	1 1 0 73 2LFEBFN6K382R4HOM6MQF1FVC8UE9A4P NS SOA RRSIG DNSKEY NSEC3PARAM
-2lfebfn6k382r4hom6mqf1fvc8ue9a4p.xn--vhquv.	3600	in	rrsig	NSEC3 8 2 3600 20260127012506 20260106002506 1389 xn--vhquv. SNLVMn0gFNtXGA3iePNm/Dl7laKgnriOS1Tu115EuULdilB+we5Ne+Dx2le7to0ACv1v3vWetewVYkuCK5xM6bXJETWyH6RBCKcq8MwEcaOa83h0fN2nbkH23foULbMYYtba/oUaVPhSo/lKitd9P+svcI8RzqI8VxC9+Yu76vI=
+2lfebfn6k382r4hom6mqf1fvc8ue9a4p.xn--vhquv.	3600	in	rrsig	NSEC3 8 2 3600 20260215012914 20260125002914 1389 xn--vhquv. Zm39mIJV8ZUZT4AQJQrFtBh6pyPOJEu7nBAAE0IGUReP4BqPcZs7zdUT/ZBZMvF6nz9LO26tAnoTn4PNxdSdbIph3rdEZYFeznFm1Gl4/6wt2MUt5rmWimVzt2XzL/jOdmO9GbW/eYArjnlrKMny5vCKhiJB1E6M7RPpg5mHwDc=
 3.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 3.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 3.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
@@ -87,8 +89,6 @@ xn--vhquv.	3600	in	soa	v0n0.nic.xn--vhquv. hostmaster.donuts.email. 1767662331 7
 360.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 39.xn--vhquv.	3600	in	ns	ce1.dns.com.
 39.xn--vhquv.	3600	in	ns	ce2.dns.com.
-3m.xn--vhquv.	3600	in	ns	ns401.myhostadmin.net.
-3m.xn--vhquv.	3600	in	ns	ns402.myhostadmin.net.
 4.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 4.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 4.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
@@ -161,8 +161,8 @@ xn--vhquv.	3600	in	soa	v0n0.nic.xn--vhquv. hostmaster.donuts.email. 1767662331 7
 999.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 9999.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 9999.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
-a.xn--vhquv.	3600	in	ns	dns27.hichina.com.
-a.xn--vhquv.	3600	in	ns	dns28.hichina.com.
+a.xn--vhquv.	3600	in	ns	expirens3.hichina.com.
+a.xn--vhquv.	3600	in	ns	expirens4.hichina.com.
 abc.xn--vhquv.	3600	in	ns	ns1.alidns.com.
 abc.xn--vhquv.	3600	in	ns	ns2.alidns.com.
 ai.xn--vhquv.	3600	in	ns	ns.nagor.cn.
@@ -204,6 +204,10 @@ bd.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 bearingpoint.xn--vhquv.	3600	in	ns	dns1.bearingpoint.com.
 bearingpoint.xn--vhquv.	3600	in	ns	dns2.bearingpoint.com.
 bearingpoint.xn--vhquv.	3600	in	ns	dns3.bearingpoint.com.
+beidou.xn--vhquv.	3600	in	ns	ns.nagor.cn.
+beidou.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
+beidou.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
+beidou.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 bgzy.xn--vhquv.	3600	in	ns	director.dnspod.net.
 bgzy.xn--vhquv.	3600	in	ns	snowfall.dnspod.net.
 bitcoin.xn--vhquv.	3600	in	ns	cheryl.ns.cloudflare.com.
@@ -255,6 +259,8 @@ dashi.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 dashi.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 dashiauto.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 dashiauto.xn--vhquv.	3600	in	ns	ce2.xincache.com.
+deep--seek.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
+deep--seek.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 deep-seek.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 deep-seek.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 deepseek.xn--vhquv.	3600	in	ns	dns1.hichina.com.
@@ -317,6 +323,8 @@ dongbeidamiwang.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 dongbeidamiwang.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 donuts.xn--vhquv.	3600	in	ns	ns1.myhostadmin.net.
 donuts.xn--vhquv.	3600	in	ns	ns2.myhostadmin.net.
+doubao.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
+doubao.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 douyin.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 douyin.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 douyin.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
@@ -598,6 +606,8 @@ manus.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 manus.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 manus.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 manus.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
+maotai.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
+maotai.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 merck.xn--vhquv.	3600	in	ns	ns1.brandshelter.com.
 merck.xn--vhquv.	3600	in	ns	ns2.brandshelter.de.
 merck.xn--vhquv.	3600	in	ns	ns3.brandshelter.info.
@@ -1029,6 +1039,8 @@ xn--1cts77dxwf.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--1cts77dxwf.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--1ctu8y1tdryp.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--1ctu8y1tdryp.xn--vhquv.	3600	in	ns	ce2.xincache.com.
+xn--1iqy14aeyd1zh.xn--vhquv.	3600	in	ns	dns11.hichina.com.
+xn--1iqy14aeyd1zh.xn--vhquv.	3600	in	ns	dns12.hichina.com.
 xn--1iut5glft0a.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--1iut5glft0a.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--1iuv6inyfem9a.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
@@ -1065,8 +1077,8 @@ xn--1lqu2eu40b.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 xn--1lqu2eu40b.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 xn--1lqu2eu40b.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 xn--1lqu2eu40b.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
-xn--1lqx47cqwv.xn--vhquv.	3600	in	ns	jocelyn.ns.cloudflare.com.
-xn--1lqx47cqwv.xn--vhquv.	3600	in	ns	michael.ns.cloudflare.com.
+xn--1lqx47cqwv.xn--vhquv.	3600	in	ns	expirens3.hichina.com.
+xn--1lqx47cqwv.xn--vhquv.	3600	in	ns	expirens4.hichina.com.
 xn--1lqy2bx2dces89cey3a2qa.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--1lqy2bx2dces89cey3a2qa.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--1qq.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
@@ -1231,6 +1243,10 @@ xn--3bsr6co44g7bfodq5c.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--3bsr6co44g7bfodq5c.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--3bsr71c613a36g.xn--vhquv.	3600	in	ns	dns3.hichina.com.
 xn--3bsr71c613a36g.xn--vhquv.	3600	in	ns	dns4.hichina.com.
+xn--3bst61ce7ztte.xn--vhquv.	3600	in	ns	ns.nagor.cn.
+xn--3bst61ce7ztte.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
+xn--3bst61ce7ztte.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
+xn--3bst61ce7ztte.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--3bst66ao66acfe.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--3bst66ao66acfe.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--3bsx54lyqbivn.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -1422,8 +1438,6 @@ xn--4gq79scysfv2b.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--4gq79scysfv2b.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--4gq95hwxa15obm3d.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--4gq95hwxa15obm3d.xn--vhquv.	3600	in	ns	ce2.xincache.com.
-xn--4gq995btwra4633b.xn--vhquv.	3600	in	ns	ce1.xincache.com.
-xn--4gq995btwra4633b.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--4gqa007ccwc6wlez8e.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--4gqa007ccwc6wlez8e.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--4gqa476by8lbla944v.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
@@ -1503,6 +1517,8 @@ xn--4ru215dgwa773a.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--4ru215dgwa773a.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--4ru315dgwa473a.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--4ru315dgwa473a.xn--vhquv.	3600	in	ns	ce2.xincache.com.
+xn--4ruq7ff4ik1a.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
+xn--4ruq7ff4ik1a.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--4tw360d41e7qk.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--4tw360d41e7qk.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--4tw689e.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -2356,6 +2372,10 @@ xn--bbt2ay66e.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--bbt2ay66e.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--bbt7e.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--bbt7e.xn--vhquv.	3600	in	ns	ce2.xincache.com.
+xn--bbtq13l.xn--vhquv.	3600	in	ns	ns.nagor.cn.
+xn--bbtq13l.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
+xn--bbtq13l.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
+xn--bbtq13l.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--bbty92j.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 xn--bbty92j.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 xn--bbty92j.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
@@ -2626,8 +2646,6 @@ xn--czru2d066cz7a.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 xn--czru2d066cz7a.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--czru2dcyi67ef88dycn.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--czru2dcyi67ef88dycn.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
-xn--czru2dqpl63aks8czum.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
-xn--czru2dqpl63aks8czum.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--czru2ds0pjv9c.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--czru2ds0pjv9c.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--czru2dy3a625d.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -2748,6 +2766,10 @@ xn--dlq22e6a75scro3vp4pbd6uj9bqv9o.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 xn--dlq22e6a75scro3vp4pbd6uj9bqv9o.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 xn--dlq22e6a75scro3vp4pbd6uj9bqv9o.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 xn--dlq22e6a75scro3vp4pbd6uj9bqv9o.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
+xn--dlq24axl778dckif1cnwnni1axu5b.xn--vhquv.	3600	in	ns	ns.nagor.cn.
+xn--dlq24axl778dckif1cnwnni1axu5b.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
+xn--dlq24axl778dckif1cnwnni1axu5b.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
+xn--dlq24axl778dckif1cnwnni1axu5b.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--dlq33e26mtyk.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 xn--dlq33e26mtyk.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 xn--dlq33e26mtyk.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
@@ -2782,6 +2804,8 @@ xn--doq22d51cl9p8wat8oiyi9x2a02k77g2pl6x0crvek4s.xn--vhquv.	3600	in	ns	bella.dns
 xn--doq22d51cl9p8wat8oiyi9x2a02k77g2pl6x0crvek4s.xn--vhquv.	3600	in	ns	cobra.dnspod.net.
 xn--doq38ctdq2ii69azda600r16u7sjbkl.xn--vhquv.	3600	in	ns	ns1.cnolnic.com.
 xn--doq38ctdq2ii69azda600r16u7sjbkl.xn--vhquv.	3600	in	ns	ns2.cnolnic.com.
+xn--doq83jx99b58b.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
+xn--doq83jx99b58b.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--doq981apiiut1a.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--doq981apiiut1a.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--doqz8he2mu17a.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -2882,8 +2906,8 @@ xn--ehq57a.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 xn--ehq57a.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 xn--ehq57a.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 xn--ehq57a.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
-xn--ehq680dm8q.xn--vhquv.	3600	in	ns	dns25.hichina.com.
-xn--ehq680dm8q.xn--vhquv.	3600	in	ns	dns26.hichina.com.
+xn--ehq680dm8q.xn--vhquv.	3600	in	ns	expirens3.hichina.com.
+xn--ehq680dm8q.xn--vhquv.	3600	in	ns	expirens4.hichina.com.
 xn--ehq712d.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--ehq712d.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--ehq75f5vcic421emlerwap5zhsak49lmnuqh3brqo802a.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -3021,6 +3045,8 @@ xn--eytr9a.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--eytr9a.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--eyts00i.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--eyts00i.xn--vhquv.	3600	in	ns	ce2.xincache.com.
+xn--eyts21cm9c.xn--vhquv.	3600	in	ns	dns1.hichina.com.
+xn--eyts21cm9c.xn--vhquv.	3600	in	ns	dns2.hichina.com.
 xn--eyts66a6wz.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--eyts66a6wz.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--eyty1c.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -3109,6 +3135,10 @@ xn--fiq06jptd75j843a.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--fiq06jptd75j843a.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--fiq06jptdr8otsxi66b.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--fiq06jptdr8otsxi66b.xn--vhquv.	3600	in	ns	ce2.xincache.com.
+xn--fiq06jy1c8q712egwr.xn--vhquv.	3600	in	ns	ns.nagor.cn.
+xn--fiq06jy1c8q712egwr.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
+xn--fiq06jy1c8q712egwr.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
+xn--fiq06jy1c8q712egwr.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--fiq0a7th1oyof.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--fiq0a7th1oyof.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--fiq0a963a0pe.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -3285,8 +3315,8 @@ xn--fiqs8sl47cjga.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--fiqs8sl47cjga.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--fiqs8sl5na42fk48f.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--fiqs8sl5na42fk48f.xn--vhquv.	3600	in	ns	ce2.xincache.com.
-xn--fiqs8sl5nzjttm2a.xn--vhquv.	3600	in	ns	dns29.hichina.com.
-xn--fiqs8sl5nzjttm2a.xn--vhquv.	3600	in	ns	dns30.hichina.com.
+xn--fiqs8sl5nzjttm2a.xn--vhquv.	3600	in	ns	expirens3.hichina.com.
+xn--fiqs8sl5nzjttm2a.xn--vhquv.	3600	in	ns	expirens4.hichina.com.
 xn--fiqs8sm7v6j2agyaw6u.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 xn--fiqs8sm7v6j2agyaw6u.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 xn--fiqs8sm7v6j2agyaw6u.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
@@ -3345,6 +3375,8 @@ xn--fiqs8svvak50bfi6a60n.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 xn--fiqs8svvak50bfi6a60n.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--fiqs8svyd1sx.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--fiqs8svyd1sx.xn--vhquv.	3600	in	ns	ce2.xincache.com.
+xn--fiqs8sw2d8zlpz6a.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
+xn--fiqs8sw2d8zlpz6a.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--fiqs8sy4y4waz88i.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--fiqs8sy4y4waz88i.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--fiqs8sypgfuj.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -3513,14 +3545,6 @@ xn--ghq10gmvmevltnbqy2f.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--ghq10gmvmevltnbqy2f.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--ghq35f5vcm9p7wav78asyi2ja736hvn2blnmiym.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--ghq35f5vcm9p7wav78asyi2ja736hvn2blnmiym.xn--vhquv.	3600	in	ns	ce2.xincache.com.
-xn--gmq18dc8qdti6sruls.xn--vhquv.	3600	in	ns	ns.nagor.cn.
-xn--gmq18dc8qdti6sruls.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
-xn--gmq18dc8qdti6sruls.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
-xn--gmq18dc8qdti6sruls.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
-xn--gmq277cy3a.xn--vhquv.	3600	in	ns	ns.nagor.cn.
-xn--gmq277cy3a.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
-xn--gmq277cy3a.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
-xn--gmq277cy3a.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--gmq44rhle.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--gmq44rhle.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--gmq502ar4botlrsi.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -3923,8 +3947,6 @@ xn--jny179b.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--jny179b.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--jor392bgr2b.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--jor392bgr2b.xn--vhquv.	3600	in	ns	ce2.xincache.com.
-xn--jor567h.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
-xn--jor567h.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--jorsd.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--jorsd.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--jory3p.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -4094,12 +4116,12 @@ xn--kprr3jy7ely0d.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 xn--kprr3jy7ely0d.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 xn--kprr3jy7ely0d.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 xn--kprr3jy7ely0d.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
-xn--kprt1e1zifra8uk47k.xn--vhquv.	3600	in	ns	ns.nagor.cn.
-xn--kprt1e1zifra8uk47k.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
-xn--kprt1e1zifra8uk47k.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
-xn--kprt1e1zifra8uk47k.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--kprv3ge2g6ma05jxyj.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--kprv3ge2g6ma05jxyj.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
+xn--kprvsw6uxuu.xn--vhquv.	3600	in	ns	ns.nagor.cn.
+xn--kprvsw6uxuu.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
+xn--kprvsw6uxuu.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
+xn--kprvsw6uxuu.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--kprx35l.xn--vhquv.	3600	in	ns	dns-ch.xinnet.com.
 xn--kprx35l.xn--vhquv.	3600	in	ns	dns-ch2.xinnet.com.
 xn--kprx4am5r8ie9n3axu1c.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
@@ -4162,8 +4184,6 @@ xn--lmqv51d.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--lmqv51d.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--lmqx36hd0n.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--lmqx36hd0n.xn--vhquv.	3600	in	ns	ce2.xincache.com.
-xn--lmqy2nwypohoxwmjus.xn--vhquv.	3600	in	ns	ns1.dyna-ns.net.
-xn--lmqy2nwypohoxwmjus.xn--vhquv.	3600	in	ns	ns2.dyna-ns.net.
 xn--lms111k.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--lms111k.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--lms19p3penp3d.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -4417,8 +4437,6 @@ xn--oor92pnpksk2a.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 xn--oor92pnpksk2a.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 xn--oor92pnpksk2a.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 xn--oor92pnpksk2a.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
-xn--oor964o.xn--vhquv.	3600	in	ns	ce1.xincache.com.
-xn--oor964o.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--ooro3gh1y.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--ooro3gh1y.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--oorp09c.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -4431,10 +4449,10 @@ xn--oorz7j03u.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--oorz7j03u.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--oqq15c66bh9ubykmr8e.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--oqq15c66bh9ubykmr8e.xn--vhquv.	3600	in	ns	ce2.xincache.com.
-xn--oqq444e96i0ge.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
-xn--oqq444e96i0ge.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--oqq444e96i0gevsa.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--oqq444e96i0gevsa.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
+xn--oqqz34eerd82jup1apka.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
+xn--oqqz34eerd82jup1apka.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--oruv63fp3dcnf.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--oruv63fp3dcnf.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--ovw1d66c.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -4693,6 +4711,8 @@ xn--rhqp3l2u8ar66a.xn--vhquv.	3600	in	ns	dns3.hichina.com.
 xn--rhqp3l2u8ar66a.xn--vhquv.	3600	in	ns	dns4.hichina.com.
 xn--rhqp41n.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--rhqp41n.xn--vhquv.	3600	in	ns	ce2.xincache.com.
+xn--rhqt46d03jjq3a.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
+xn--rhqt46d03jjq3a.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--rhqu3yv4xbf4a.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--rhqu3yv4xbf4a.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--rhqygv4gzy0aexerny.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
@@ -4798,8 +4818,6 @@ xn--rtzt5n.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 xn--rtzt5n.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 xn--rtzt5n.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 xn--rtzt5n.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
-xn--ruq10phs0b.xn--vhquv.	3600	in	ns	ce1.xincache.com.
-xn--ruq10phs0b.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--ruq22hwvl0phu1lxohj7y.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--ruq22hwvl0phu1lxohj7y.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--ruq376b9qmqyf.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -4999,8 +5017,8 @@ xn--sxrq5o4m8b3hc.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--sxrq5o4m8b3hc.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--sxwo7av17e.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--sxwo7av17e.xn--vhquv.	3600	in	ns	ce2.xincache.com.
-xn--t7ty38bujln4y.xn--vhquv.	3600	in	ns	dns27.hichina.com.
-xn--t7ty38bujln4y.xn--vhquv.	3600	in	ns	dns28.hichina.com.
+xn--t7ty38bujln4y.xn--vhquv.	3600	in	ns	expirens3.hichina.com.
+xn--t7ty38bujln4y.xn--vhquv.	3600	in	ns	expirens4.hichina.com.
 xn--tencent-dx9ss52e.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 xn--tencent-dx9ss52e.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 xn--tencent-dx9ss52e.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
@@ -5043,6 +5061,8 @@ xn--tfrza589l3ke.xn--vhquv.	3600	in	ns	ns1.cnolnic.com.
 xn--tfrza589l3ke.xn--vhquv.	3600	in	ns	ns2.cnolnic.com.
 xn--tfrza914g3vi.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--tfrza914g3vi.xn--vhquv.	3600	in	ns	ce2.xincache.com.
+xn--tfrzb83z.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
+xn--tfrzb83z.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--tfs38n.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--tfs38n.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--tfs725a.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -5195,6 +5215,10 @@ xn--uvw735a.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--uvw735a.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--uvw92v.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--uvw92v.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
+xn--uvw92vy0f.xn--vhquv.	3600	in	ns	ns.nagor.cn.
+xn--uvw92vy0f.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
+xn--uvw92vy0f.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
+xn--uvw92vy0f.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--uvwrt71a.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--uvwrt71a.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--uvwst71ae41ad5a.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -5346,6 +5370,10 @@ xn--vhq3m94hcx0dn5d.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 xn--vhq3m94hcx0dn5d.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--vhq3mi4jx5mmx4b.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--vhq3mi4jx5mmx4b.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
+xn--vhq3mo4eeudoxttkkoma045g.xn--vhquv.	3600	in	ns	ns.nagor.cn.
+xn--vhq3mo4eeudoxttkkoma045g.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
+xn--vhq3mo4eeudoxttkkoma045g.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
+xn--vhq3mo4eeudoxttkkoma045g.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--vhq3mr7ij9x.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--vhq3mr7ij9x.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--vhq3mr8b802a.xn--vhquv.	3600	in	ns	ns.nagor.cn.
@@ -5494,7 +5522,7 @@ xn--vhqu74bbleev4c.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--vhqu74bbleev4c.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--vhqu79cgya511j.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--vhqu79cgya511j.xn--vhquv.	3600	in	ns	ce2.xincache.com.
-xn--vhquv.	3600	in	dnskey	256 3 8 AwEAAcNvk2e3rGOwgx+noin+ggHTNLKIh/6tn7IWvwZuiTWSxSpRIglYpVg8RJda+v9yxG+vvz2HOOF5OB2Yehxzetf9ygyZNTX8npDzkYTSbA37uxwy0kg9bzeK/SMAA4YyoOBFOrD+qaobBlzDVN89h4czuMQ2EvevH11j31xResbd
+xn--vhquv.	3600	in	dnskey	256 3 8 AwEAAdoPEZzSOoLgO36ADAA8KNKZjZCnnhHfLkjUzf9yJuTaX8WluhZp48aQrQn78KgnBh/tB/v1se3Xpf446IZQw4cQGmxeIxSeQdO+TVjYwcebMHLpbyyOXXROqDjAYj7tKXC9GNqP3Dp18En69gHgiW5vmbblVAzOXSWDfIlr4h3b
 xn--vhquv.	3600	in	dnskey	256 3 8 AwEAAeG/qyF46wB64TRo+Ccomc2XK9xoNJ9Z6sxYl2XreOX5NU4+L627dQenebNFgbxRsJvKVu2JiHSZfNx1seLx5rfH39UPRY28x118oAOvpuLenlO0PZ9aShAEFBmBRI8x+02bPMWro3R80iZsq4v6wPiyBfdVYAmi9y1f8SEAnkMD
 xn--vhquv.	3600	in	dnskey	257 3 8 AwEAAbLEQUwdCILEE3yuWqGFMWVClFcLQQz1bPWil+S872IoaLdAgeB0ypELH5CGDm3znP/lELjaIKAyltEMvszwVIMOJRXseHA9rSrsjhBvinxQWJ65KajZuIo1H991uPF89OMKpxooNN49Q2KVy66cisecWIUSpbGzjFdwhvdCNTRtu5LY+vxb7AjrBWsNgufmGCGRgAFskimWnJ3L7XR5gwTeHLU/KhPmd2c9T3Ey6/KDQ44DLDMuH9+DRuKEMrZKNd1SNyqg2OGd30EkvIvaL+6/LcgfezEQclCcWNxOSVGyor6JNr+VXe0MVrpUaC1B+4/GOl5Z0ZFb2drMrPz7Lak=
 xn--vhquv.	3600	in	ns	v0n0.nic.xn--vhquv.
@@ -5504,10 +5532,10 @@ xn--vhquv.	3600	in	ns	v0n3.nic.xn--vhquv.
 xn--vhquv.	3600	in	ns	v2n0.nic.xn--vhquv.
 xn--vhquv.	3600	in	ns	v2n1.nic.xn--vhquv.
 xn--vhquv.	3600	in	nsec3param	1 0 0 73
-xn--vhquv.	3600	in	rrsig	DNSKEY 8 1 3600 20260122161206 20260101151206 25099 xn--vhquv. dG8DgU3Yc+TorlVusLWBJVqRR21IyQHIF5TMPpUU4GwIpV5cRxkyD3f5MYrG89RUlVj1yzyuxPUG9uMo7AYpHoFwSKA4OZNJsmtGVVnmGlEkdkM1yTLEeKe/CHzh3O+Qwv8mCV1Ko3cQ8selarGPK/YnbOCVnQhyhVag1vWXpbhxkqa4mivB4j2revncYDQU1WP4uAmqSgspAHSE4hIj7rrMKKL+F7Fesa7o9jGbZBOel8KTS/XEnyV0GM2iXc1LDfyckub+yc0I8WiLfyU0WmZUL5YCsiCmDzQ3D3EPxIVEuUm8tBXPzpSFZnLCibQh9Snpxw3WeIDovZZBf7+B9g==
-xn--vhquv.	3600	in	rrsig	NS 8 1 3600 20260122161206 20260101151206 1389 xn--vhquv. iBKZxADNm1wgl8UUEgMjtJlsjwghhM3ozzO8tKWF2/TX+rFEocCV0xa6QE5vBg2GZqQeLtEJ1mMF9l1sl9Ear0Yc5h9IH/y+R6a87NDGLEhIq9EQ8kmIjcB97lqUhlYCzvrT2ayrYukp9UNsD4/NVPu2YEgkA6TNXG4/VW4l+94=
-xn--vhquv.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260122161206 20260101151206 1389 xn--vhquv. vVTplMAQ4Ah1uup3hot4Xn1jghjUN+jK3Bjnweup59IiJaNEaiJI2SZ4/ec3qAUUJORospTZTMwebnKwHzO5o8qqR93Kz/f5kGUbRIT7ai5HAqcxr4GTnVZ9HuyFwwaSoGD2Yuf+pZ5EKvM5uwcOHShwfnIyyI6gmd8QL0c10bE=
-xn--vhquv.	3600	in	rrsig	SOA 8 1 3600 20260127012506 20260106002506 1389 xn--vhquv. 1g9Mq+3zK2K1ToC21WC+2vce3I4UJaSsWysxGBGwiMYRa0pMYzTpJ+EMir+erFBqMk3Snz2GfEldid4Gren2CQNzI0qFhfv1m2Lod7Lim6p2jOw1U06JUYr0hTes26WOyEaW1O5JOF6/PW3t8XeEU1kIh/lq0cNTbtY1drOjgNw=
+xn--vhquv.	3600	in	rrsig	DNSKEY 8 1 3600 20260207155721 20260117145721 25099 xn--vhquv. ACBCGA3K5T1dZ+2XNXj0uWWNOxd4LxdCdco9zeplMeN5gJWkt2dbObBOQrCm2s9FpKvanfV9fwLUPuR/cH7lcolk/jqG3St5TQPMLJkcSImsr5cskpze5amtpnQNdUUX08LllYi5SsEFJqouwysQ3jxVhv7U+fGWRBotX/UJY6ffrpkLBqnIUtGTJnUeVvokjxTB7/ZE5u9hPFuvqcRnpXL7jkbnGv/LQGFcxFyhZbhK0mEEMEH+tormhkAlbFKnAJSLt4fK+SAG0jMD8O6VXKjenlpwjSB8+kIjQ2tuCNGbIIwPAJtiExQX4wWFaOpIKj0VsBlpVd86pvDoLXOFDQ==
+xn--vhquv.	3600	in	rrsig	NS 8 1 3600 20260207155721 20260117145721 1389 xn--vhquv. sdgW3kqfTCz7GMC3wnwsGv0qi1SAnPBTmErPOXbDnJ4+PoyzyQSJURyfpYCvJTt9WgAi9QlXxYd0RYO4/d+BFIsW4f0TzK+ujQDM8Mb9+vKCX95mcIfMQdOIEv5O3kk6JriVMjBnj7iGCyVrL/yQhE6TxABmvu5gM9kMvVEpFks=
+xn--vhquv.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260207155721 20260117145721 1389 xn--vhquv. Ut7ZUrfcdlXfdFU0xZCsKdY9YYFUBGJwXiduIxmOtYEfZcgGD9B7A4vtcxkVK1ITLEmwv/vXj16LsVltkgBteKJBRaFS6ayFTrnS6t41375ugI56Rjk7HJWoA5ZGbrZ7qCp/wmpccwobT37W83RK3H7w2JJIvMyIYoSnpdW6BlI=
+xn--vhquv.	3600	in	rrsig	SOA 8 1 3600 20260215012914 20260125002914 1389 xn--vhquv. xUE6nxR5YCqAP8xB6yN1jhzAy9OKMYULlezmgbnHL1vxNeJUZJCIkhUnefzE4K/9OsOcxJ5gZ0DtYSrdIDfRyCpVi9eWfrO1ghQGmIrSf1A5GIq/OMTUMdTTu87k2InDa3HkqmjYWpVOnjKtGmFcBxfilJMaMb0FXwLnMuzVc6Q=
 xn--vhquv.xn--vhquv.	3600	in	ns	eddo.dnspod.net.
 xn--vhquv.xn--vhquv.	3600	in	ns	match.dnspod.net.
 xn--vhqv2wrrx562b.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -5536,6 +5564,8 @@ xn--viq28j5wi9jecp3g.xn--vhquv.	3600	in	ns	ns-1128.awsdns-13.org.
 xn--viq28j5wi9jecp3g.xn--vhquv.	3600	in	ns	ns-137.awsdns-17.com.
 xn--viq28j5wi9jecp3g.xn--vhquv.	3600	in	ns	ns-1937.awsdns-50.co.uk.
 xn--viq28j5wi9jecp3g.xn--vhquv.	3600	in	ns	ns-717.awsdns-25.net.
+xn--viq2a077r72q.xn--vhquv.	3600	in	ns	dns21.hichina.com.
+xn--viq2a077r72q.xn--vhquv.	3600	in	ns	dns22.hichina.com.
 xn--viq305agpb.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--viq305agpb.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--viq390bm3y6ki.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
@@ -5666,6 +5696,10 @@ xn--w4r166g1gr.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--w4r166g1gr.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--w4r18t.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--w4r18t.xn--vhquv.	3600	in	ns	ce2.xincache.com.
+xn--w4r32vsr8b.xn--vhquv.	3600	in	ns	ns.nagor.cn.
+xn--w4r32vsr8b.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
+xn--w4r32vsr8b.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
+xn--w4r32vsr8b.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--w4rv52o.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--w4rv52o.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--w4rxsh8i1tc.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -5746,6 +5780,10 @@ xn--wjqu8e49a528ae1efljm37a.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 xn--wjqu8e49a528ae1efljm37a.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 xn--wjqu8e49a528ae1efljm37a.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 xn--wjqu8e49a528ae1efljm37a.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
+xn--wjqu8ef3v35ae5k6ry.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
+xn--wjqu8ef3v35ae5k6ry.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
+xn--wjqu8em6pukfe0f1m0e.xn--vhquv.	3600	in	ns	ce1.xincache.com.
+xn--wjqu8em6pukfe0f1m0e.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--wjqu8emzbu35ae1e6y3d.xn--vhquv.	3600	in	ns	ns.nagor.cn.
 xn--wjqu8emzbu35ae1e6y3d.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
 xn--wjqu8emzbu35ae1e6y3d.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
@@ -5754,6 +5792,8 @@ xn--wjqu8eozg3uoe5es95f.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--wjqu8eozg3uoe5es95f.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--wjqu8erwgbniv6gmtg.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
 xn--wjqu8erwgbniv6gmtg.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
+xn--wjqu8eswcs9qdxfmzg.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
+xn--wjqu8eswcs9qdxfmzg.xn--vhquv.	3600	in	ns	ns2.gxkjdns.com.
 xn--wjquem37m.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--wjquem37m.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--wlq01e851bn4b794b.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -5845,10 +5885,6 @@ xn--x9q427i.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--x9q427i.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--xcr352c6jm.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--xcr352c6jm.xn--vhquv.	3600	in	ns	ce2.xincache.com.
-xn--xcr3u53by1pijv724c.xn--vhquv.	3600	in	ns	ns.nagor.cn.
-xn--xcr3u53by1pijv724c.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
-xn--xcr3u53by1pijv724c.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
-xn--xcr3u53by1pijv724c.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--xcr532jh7m.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--xcr532jh7m.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--xcr622m.xn--vhquv.	3600	in	ns	ns1.gxkjdns.com.
@@ -6277,6 +6313,10 @@ xn--zfr74xsmhctfwm0aq7sjqd.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
 xn--zfr74xsmhctfwm0aq7sjqd.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--zfr9a486lie6a.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--zfr9a486lie6a.xn--vhquv.	3600	in	ns	ce2.xincache.com.
+xn--zfrz5x6lhwxt66f.xn--vhquv.	3600	in	ns	ns.nagor.cn.
+xn--zfrz5x6lhwxt66f.xn--vhquv.	3600	in	ns	ns.nagor.com.cn.
+xn--zfrz5x6lhwxt66f.xn--vhquv.	3600	in	ns	ns1.dnsnw.com.
+xn--zfrz5x6lhwxt66f.xn--vhquv.	3600	in	ns	ns2.dnsnw.com.
 xn--zfrz5x6lhztb8w3ak0gc1j.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 xn--zfrz5x6lhztb8w3ak0gc1j.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 xn--zfvz1q.xn--vhquv.	3600	in	ns	ce1.xincache.com.
@@ -6383,4 +6423,4 @@ zlsyp.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 zlsyp.xn--vhquv.	3600	in	ns	ce2.xincache.com.
 zyyp.xn--vhquv.	3600	in	ns	ce1.xincache.com.
 zyyp.xn--vhquv.	3600	in	ns	ce2.xincache.com.
-xn--vhquv.	3600	in	soa	v0n0.nic.xn--vhquv. hostmaster.donuts.email. 1767662331 7200 900 1209600 3600
+xn--vhquv.	3600	in	soa	v0n0.nic.xn--vhquv. hostmaster.donuts.email. 1769304182 7200 900 1209600 3600
