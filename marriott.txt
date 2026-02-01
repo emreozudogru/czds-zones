@@ -1,6 +1,6 @@
-marriott.	3600	in	soa	a0.nic.marriott. hostmaster.donuts.email. 1767661843 7200 900 1209600 3600
+marriott.	3600	in	soa	a0.nic.marriott. hostmaster.donuts.email. 1769303060 7200 900 1209600 3600
 8e0qguj7125rh7tsrqa0h4d0co50ak9h.marriott.	3600	in	nsec3	1 1 0 73 R05D2CJ07UDISV1JG3LR1HM79HRHR64C NS SOA RRSIG DNSKEY NSEC3PARAM
-8e0qguj7125rh7tsrqa0h4d0co50ak9h.marriott.	3600	in	rrsig	NSEC3 8 2 3600 20260127011337 20260106001337 48381 marriott. NRlSDrKt9Gc30HwPCI7hOOvr/Np5KlaYuJl2yeUgEDtCL3+YrblSdlk5EqmO6z7uKwS1W8J6+RJq6UZY5kiqB24Ixf0NbKYwIgx1Er4nLXx6KxmepV0caAZdL3Rejtmvitq95WnZaL8CbrnOeWN0Iipq8opZL2Wm1oQIaF8RdnQ=
+8e0qguj7125rh7tsrqa0h4d0co50ak9h.marriott.	3600	in	rrsig	NSEC3 8 2 3600 20260215010714 20260125000714 48381 marriott. YvcHBPU3a+DV9tXHA+tPT76R1jdqleYCoHNXE4QjXzrbFF0dEnHflkOwup60ABacTO6V+SZ9iEImz6galRqqhjlR8XjlDg0vtjCqaWppCEoHu2e5d6+VgUpNBhJONI2CvEpdQ782Rvq25JO1FCGXUl2VP+qfdXVc6CzrmDQm9hg=
 a0.nic.marriott.	3600	in	a	65.22.236.9
 a0.nic.marriott.	3600	in	aaaa	2a01:8840:00e6:0000:0000:0000:0000:0009
 a2.nic.marriott.	3600	in	a	65.22.237.9
@@ -112,17 +112,17 @@ lemeridiencareers.marriott.	3600	in	ns	g4.nstld.com.
 lists.marriott.	3600	in	ns	ns-east.cerf.net.
 lists.marriott.	3600	in	ns	ns-west.cerf.net.
 marriott.	3600	in	dnskey	256 3 8 AwEAAa9LCfB2rNyQ1gu2KtUho3nsv1pPS/4KUCwsewqGaHK/gvhK5sME9oQ99uBDWhQ6uNso3rufkqc/uIoLkIs2Z9da4XOZfXTDLDTu2O/jjbP8xGmPSjizmcoRFJI3WfzWt1jgO5fWegfaRw5IplRnCb7Kx5pyBQ6P7wxC4ZP+vH51
-marriott.	3600	in	dnskey	256 3 8 AwEAAcBYjfn5aImndjSneBdQCt2I9JSWELl5I4YP2rmPdihKkjsS07UIqQC4mbvp3bgMv4FpqejN/iA0oejorv5l4JP2nKS5GmPQCpu0FdItjPk0AttVdJyLRjfvrqJWFI8ZanUXD1VA1g/qnFIcSkcvmi0xrnDeg8cJAjuCZXaO/mTv
+marriott.	3600	in	dnskey	256 3 8 AwEAAb1nxtQK1kQ45JuBAg9f0VlZTyQ+O6UjlZ7HXJ30lFbBgrG02W34Bi0JFXKVCTL4GIgwe0DxeTXnNmsdZ/ih24EK6gGH2xlf1CO72ToM7UZj/NRCEOb3ljtaUrmpZ/eQJig9bxQ5JVNzvw88BePHlNE85jXf1S1DxT2YQ00W8q9h
 marriott.	3600	in	dnskey	257 3 8 AwEAAcIH/1CmK14qIBcp5LwhZ48SUR6ErZWjSymGKIFALqL0a1MWKF63OBCdVY0rlphVYWxuAQAj2QjYSMvUdZHkfj+E9axbqSEeeZ3DHXe4WCIx4xMnmoduequAlyzcAyb2+FRgVHgFIxTc89ZUep2O9PukXce0OEhqcM+PAN5zAtZ2Vi3l8R0blcw5XCFf/dBJ1cv9qTFR8Q73AYTRxBJBBj1300K4ZNVtbkcT0ziAuwqwjCk8MOEkGFwSjIHWZmxnMcnsBRbMhr3IerdpfKGThGoddiY7Ew7nUbozt42s+NNvNJaLdUjub0TPwNpn1CgSUNZeAkJrz+yXAMpEEc1x5L8=
 marriott.	3600	in	ns	a0.nic.marriott.
 marriott.	3600	in	ns	a2.nic.marriott.
 marriott.	3600	in	ns	b0.nic.marriott.
 marriott.	3600	in	ns	c0.nic.marriott.
 marriott.	3600	in	nsec3param	1 0 0 73
-marriott.	3600	in	rrsig	DNSKEY 8 1 3600 20260122155145 20260101145145 24409 marriott. uooXlBD03rTinqU3YyG7SWS1s0DzHFPLIhtTkUUrC5UyRUBG1bStHofGEQ+xIXGY3t8JabOzU4JxQ5SLF5T91cgJCKgBp2pPd/vSuOEaQS+5QZ6GQJ+aw9kiHA/+2RjEDbPpmaxfHkqg2FkzX0RF8tLGONiVV9k2fFryaWIcJUpWTA3mqGX/nCwGK5OFg5N1dxWV4mMdib5eZILE5CQ6j6CyGHYQ9KrElSA++tO9G7ZvtdeZIxUi2ZT2yrOmVBcXrEPOnoFQsZzltZKdpY2CcZwHZnbdnYCE+CpBMCg9viK+WBQ1EKDuWYZ16xglWpoNajGNWuUGqpwsYd2uSnvyOA==
-marriott.	3600	in	rrsig	NS 8 1 3600 20260122155145 20260101145145 48381 marriott. T6L5+AYD3l6g/nvzfcQu0zKyOaSjgzVFCko8ATtGb7o+pAwpj75VkW0omSxLcKTAwH12cmkGbq54JCgoxyeuM0X6vHV1U2jMbhif9f8YHvvpVxIoJE1WkK6JUqQ7t0+jlSZlgga+vJpA3pCWkscgmZ/zui8zJMCT9fhuTqAMUr4=
-marriott.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260122155145 20260101145145 48381 marriott. GuLtWmp5TGaHfqZH5CMs978MX5xI5m2S2eHcrIVMaSnWaPLK5JjngSrTQHSDCTXQr1rHL4ZhG7D/Y4t53p15vjcUGJnZWtm1UaSGLnc8Nk4YmPVi5n6Oym5vETmTff4X1lf0iR2hJ8f/vqb44JPPhowtWOPpsKk/wkoG9YJ2sB4=
-marriott.	3600	in	rrsig	SOA 8 1 3600 20260127011337 20260106001337 48381 marriott. j8rVb0On791MyHAyEXulWK4/lBpu+3HvAQs7R09eWprdRYCiBxzJiIfD/Lbe1spYQS28AEDUa7fmB6R1AnFG9MGVTln7LMnYPI4JtEY/XdnWPn9YOjlPiCy2Dkkd2I1KtEPnQ+ZHghOLaVh5LUqSRVu5lFQPo1bXVJkfyMC1yNk=
+marriott.	3600	in	rrsig	DNSKEY 8 1 3600 20260207160825 20260117150825 24409 marriott. ezwtuUXhxrRg6E6PWxoLVmj3wEA3j9ymw2KlCn8Fec22aSJNlhRcaSeH8htY3tHoH0gUGpQsLPZkOUMfzNnvYRyeL2JPTss5eWGnkRcRD4DgYUPxXgbyShmDUtv6wXyR1dQZ5G08egYxg4jO+vFikebamHcPVmBuc4RLgmhLYixnHfT47XuXPOpRl9xGn1qMCNJ5Qp+e/yrB7nuA1EDZdcrKCRbIHFizui82kAZzWV09FKkXOUfcAQyrZKzqD2DaTmluP8aiBECAuYQurCMDWlwU6oLXxRDI6Mmu3em/xk3RvVRob7NbWt51Uo2pY05hrjGp9iyQII41aEgB0hkEAA==
+marriott.	3600	in	rrsig	NS 8 1 3600 20260207160825 20260117150825 48381 marriott. VQ4wUFXJDSJBYMmlbNwEdXXy7Pwb/7fHay2i5wIrbqzH0L4424yF9ClasyghhqP1LkxWiywvqdnaHs4Shi14a7czt4gmQrZkAa4GJfemMN6V6BigW9Fx3DYO70pwRBAX0wauAxt0HSz8nxiISdI0lwsXdeePrbrzgogzm4BOCDo=
+marriott.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260207160825 20260117150825 48381 marriott. f/Kb77sAwwVjv8xov6zJJ2CDGU+8Sm+OB3401Uc8mtD9ceEoB9+U8MjkgkPtMP5cLinDIhSnRluscFnBDrrwBGX1b+yfAv9llWUxzZOMN39Fe5K3GEvNOPyhJQyHftYXBXtHrBS7ZJs5BZhAYNtkroNOkUJVxdYBTVopZyc9xgA=
+marriott.	3600	in	rrsig	SOA 8 1 3600 20260215010714 20260125000714 48381 marriott. TtcrwuFIa3qU+TAZ2xBRy2ZCPuU7wupSF01JbHdJzi8YEK8Fu6o29NJQpYIOmVeU97iJblhXIdShelOtW+YvNPbBYkCHQpvZk0DPRMS2CJrc1a6IJWCfbx1eVnmLfD88DnjLxKJ0ZTXSpeoI8OEd+7FmAGds/GK7AonO8kd7br0=
 marriotthotels.marriott.	3600	in	ns	ns-1331.awsdns-38.org.
 marriotthotels.marriott.	3600	in	ns	ns-1884.awsdns-43.co.uk.
 marriotthotels.marriott.	3600	in	ns	ns-397.awsdns-49.com.
@@ -136,7 +136,7 @@ nic.marriott.	3600	in	ns	a0.nic.marriott.
 nic.marriott.	3600	in	ns	a2.nic.marriott.
 nic.marriott.	3600	in	ns	b0.nic.marriott.
 nic.marriott.	3600	in	ns	c0.nic.marriott.
-nic.marriott.	3600	in	rrsig	DS 8 2 3600 20260122155145 20260101145145 48381 marriott. Z2WiqitS0o4LQJSDUGGM3xXe+RgtzQ2vpDIjiMw/pfTt0adcQVEHw1gX5W+x+7e3UX+nagjLNsme9C2BWsWhe7JdJ7ivbKORIWM9ZJoI9Nag/cDsXItQ2u4PPOKY3lP/n/gEIvb1/hXQ3anszU2I7U813/sYq/t9SBN63Abw+3o=
+nic.marriott.	3600	in	rrsig	DS 8 2 3600 20260207160825 20260117150825 48381 marriott. Uovzee3tmSBGmYe7VhZZ7l0+83rA1rkIGKFJxV1pWxjQDEw1S8p5OZoZm7YOX5iMMjLg/HIW6hjrKXd6ubssEOX0zwZ7sWDZXGD2KXpR7i6so4V87zvZ4oWGM8ZOBW593RW7qRjOTAxxisv6JE2zx9zO6fKS8D5CdwSRvdum09A=
 outdoorcollection.marriott.	3600	in	ns	ns-1105.awsdns-10.org.
 outdoorcollection.marriott.	3600	in	ns	ns-1667.awsdns-16.co.uk.
 outdoorcollection.marriott.	3600	in	ns	ns-42.awsdns-05.com.
@@ -150,7 +150,7 @@ protea.marriott.	3600	in	ns	ns-1706.awsdns-21.co.uk.
 protea.marriott.	3600	in	ns	ns-293.awsdns-36.com.
 protea.marriott.	3600	in	ns	ns-626.awsdns-14.net.
 r05d2cj07udisv1jg3lr1hm79hrhr64c.marriott.	3600	in	nsec3	1 1 0 73 8E0QGUJ7125RH7TSRQA0H4D0CO50AK9H NS DS RRSIG
-r05d2cj07udisv1jg3lr1hm79hrhr64c.marriott.	3600	in	rrsig	NSEC3 8 2 3600 20260122155145 20260101145145 48381 marriott. oc29GkgjJky9D70MuV12gfqdnnTpYHleA7XfEMKD+E9zXOfgDPvzdU7jEMxYHb91+w4d2ugRakD1UuGpswHuWZFqeGkIjatZhQvhYZmQWQxILHfIxb3m9IfKKews1Nnr7lFZgLMGue41EWKsC4abk/wD7+peVEWq+Yl5TZT0MWI=
+r05d2cj07udisv1jg3lr1hm79hrhr64c.marriott.	3600	in	rrsig	NSEC3 8 2 3600 20260207160825 20260117150825 48381 marriott. P0SR1ivfdFiWVp8eH2AabXz+LJFDnvoZPxkA21kHwJkjnyrB6gncPu9C2EhvgmZhBSHgAKlTdhl0zeThFzeoCbQ41G8keFVVp7BvUc1q4Bjr9ro8qiO02Siem8lcHBbv+w48VaUvcJAaiJTQs4NbmaFNVC1+KBB4bEF2Eqs/glI=
 renaissance.marriott.	3600	in	ns	ns-1329.awsdns-38.org.
 renaissance.marriott.	3600	in	ns	ns-1974.awsdns-54.co.uk.
 renaissance.marriott.	3600	in	ns	ns-502.awsdns-62.com.
@@ -224,4 +224,4 @@ westincareers.marriott.	3600	in	ns	g4.nstld.com.
 whotelscareers.marriott.	3600	in	ns	a4.nstld.com.
 whotelscareers.marriott.	3600	in	ns	f4.nstld.com.
 whotelscareers.marriott.	3600	in	ns	g4.nstld.com.
-marriott.	3600	in	soa	a0.nic.marriott. hostmaster.donuts.email. 1767661843 7200 900 1209600 3600
+marriott.	3600	in	soa	a0.nic.marriott. hostmaster.donuts.email. 1769303060 7200 900 1209600 3600
