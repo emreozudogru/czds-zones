@@ -1,4 +1,4 @@
-pfizer.	900	in	soa	ns1.dns.nic.pfizer. admin.tldns.godaddy. 1767591466 1800 300 604800 1800
+pfizer.	900	in	soa	ns1.dns.nic.pfizer. admin.tldns.godaddy. 1769218665 1800 300 604800 1800
 2025c4connect.pfizer.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
 2025c4connect.pfizer.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 2025c4connect.pfizer.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
@@ -7,8 +7,8 @@ pfizer.	900	in	soa	ns1.dns.nic.pfizer. admin.tldns.godaddy. 1767591466 1800 300 
 2025connect4.pfizer.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 2025connect4.pfizer.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
 2025connect4.pfizer.	3600	in	ns	ns4.p201.dns.oraclecloud.net.
-_forcedupdate.pfizer.	300	in	rrsig	TXT 8 2 300 20260116180442 20260105043744 41433 pfizer. LiV/8mlANGGOOytTCQBfkBLoNBmMlt5SOQHKg1M/yqywaJEbDcAvRszkEOFtxKzfIcj0p327EHWSKCdPSUkW6cqquE4lUkP7l1Liky3zOjdAJjXQxIZUBxKdRh/z5q8i8Sv5QJWMJ0nUQVV43aSm4tdTvfDsfCs3R2aPxye+TDPDvNmEbDvWTwJO1rkxU5hR6E1AK1A6y1/4DJ7Oc6anog==
-_forcedupdate.pfizer.	300	in	txt	"1767591464"
+_forcedupdate.pfizer.	300	in	rrsig	TXT 8 2 300 20260206202553 20260124003745 41433 pfizer. bHeMFE0wTfZBmjSKcDO5H8qyntcgru0/vPTy6IIsSxBvXO1O88NED4TVOLLyQCdRi24NAQT6jabxI8JijvfFnfP31hoNg6AD0UAAmyZ6rbV8EpupXbsHzjHhlacINTG7LcEnZozGVPB9R3kX4xFlWEXSzQxPoYQbS0yKZp9TT8GXCgiZ9shHkf0HvF1nuupt2a3iOGWWFzxpGQQ+aPqp8g==
+_forcedupdate.pfizer.	300	in	txt	"1769218665"
 a.nic.pfizer.	3600	in	a	37.209.192.9
 a.nic.pfizer.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 adobe.pfizer.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
@@ -33,6 +33,8 @@ analytics.pfizer.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
 analytics.pfizer.	3600	in	ns	ns4.p201.dns.oraclecloud.net.
 b.nic.pfizer.	3600	in	a	37.209.194.9
 b.nic.pfizer.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
+bench.pfizer.	3600	in	ns	fred.ns.cloudflare.com.
+bench.pfizer.	3600	in	ns	joan.ns.cloudflare.com.
 biblio.pfizer.	3600	in	ns	derek.ns.cloudflare.com.
 biblio.pfizer.	3600	in	ns	eva.ns.cloudflare.com.
 build.pfizer.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
@@ -56,7 +58,7 @@ cloud.pfizer.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 cloud.pfizer.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
 cloud.pfizer.	3600	in	ns	ns4.p201.dns.oraclecloud.net.
 ct5fbjijlkbbthjc1qct8soab9nkk48r.pfizer.	900	in	nsec3	1 1 0 - GMOJFVSML3H6FRBDFFDE5DTBTEM9OCPI TXT RRSIG
-ct5fbjijlkbbthjc1qct8soab9nkk48r.pfizer.	900	in	rrsig	NSEC3 8 2 900 20260115112015 20260101102757 41433 pfizer. ogjE2f6JrAGuQnTOr+OilMi95zhPrbLjusF9rWfTYtMz9cjat/FdbmeoilCH6PPht8eMxeFcu2mXx72W4wm6vYr6QpJpsnHWkgt3ljhdqGROHz07NpeGn8U7uP7VkUsaCAPVdicRQEEW3Qh+oWDZdBtbsdPSA0HrUaBNChmnccVkY1BgUH0CM0MZg6NXLaFmG1xYEzR7pKKWrMVn5B3xsg==
+ct5fbjijlkbbthjc1qct8soab9nkk48r.pfizer.	900	in	rrsig	NSEC3 8 2 900 20260202085657 20260119085249 41433 pfizer. FIHoIyxWV+jkp3nWAtlVuYHJdKy3CCddVHvEQvBzbz1jtkdZpB2NTRLha+tVeonhVYrCM3GBhNcYLg1RJQR4CjAbTB7Vo5+fEfHO+Esj+39OE5D3KWy+gvw4iSBxu4hWY3b0JUbrzPF9yGcKJhGAeDqCbPTZfrIe3uXzSogixRsm1/IlTJd5RQm0CFojwfAaVVxSzmaDnnL4wtGOHjqfRw==
 d.nic.pfizer.	3600	in	a	37.209.198.9
 d.nic.pfizer.	3600	in	aaaa	2001:0dcd:0004:0000:0000:0000:0000:0009
 dev-livepreview.pfizer.	3600	in	ns	chip.ns.cloudflare.com.
@@ -113,6 +115,8 @@ evm.pfizer.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
 evm.pfizer.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 evm.pfizer.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
 evm.pfizer.	3600	in	ns	ns4.p201.dns.oraclecloud.net.
+fit.pfizer.	3600	in	ns	fred.ns.cloudflare.com.
+fit.pfizer.	3600	in	ns	joan.ns.cloudflare.com.
 forcecom.pfizer.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
 forcecom.pfizer.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 forcecom.pfizer.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
@@ -140,7 +144,7 @@ github.pfizer.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 github.pfizer.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
 github.pfizer.	3600	in	ns	ns4.p201.dns.oraclecloud.net.
 gmojfvsml3h6frbdffde5dtbtem9ocpi.pfizer.	900	in	nsec3	1 1 0 - J2SRHB8Q1FOM29SLNV039MECGB39L0SB NS DS RRSIG
-gmojfvsml3h6frbdffde5dtbtem9ocpi.pfizer.	900	in	rrsig	NSEC3 8 2 900 20260115112015 20260101102757 41433 pfizer. YCfscoJUmiwTi6zZ3YTNDhTdXb/fRKURbMiETtjIlxvokjzkO5UeIu3QziGMFpsGsK8ZtHYCa9qNS2g1cqk/WrzjDGj7k2tZkhCc5v4WLnDQPpYfkhQXwjW7Z1+9UCyx2aPOyGPxFtyvYX43Bo5FihpfAgmbEqlYW+Qio+VHCZmheC1r9arhWw9wdPcwLAFvPbtVTluGJZ1nikceMfaPKw==
+gmojfvsml3h6frbdffde5dtbtem9ocpi.pfizer.	900	in	rrsig	NSEC3 8 2 900 20260202085657 20260119085249 41433 pfizer. AcUkMT2udKB+D9Iwhn3g4p14ek7V4fXl+WOa5UyHPcUtajqy+MMErnbIrDhTU3miknHd4N4DbueG1WFtTayiMAkoQlC1ygLybxoSCjKjsRipukqUfR0xM2VNE2Ok3DwbRHkz6HYx9Djg+6LX6fY2bwK1uSE1o+wPGqxunbGtqkT6dpphOUc6TJV5BIuK36QueFekU6RL+CUmW3w7V4cJ3A==
 gso.pfizer.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
 gso.pfizer.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 gso.pfizer.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
@@ -166,7 +170,7 @@ interactivemanager.pfizer.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 interactivemanager.pfizer.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
 interactivemanager.pfizer.	3600	in	ns	ns4.p201.dns.oraclecloud.net.
 j2srhb8q1fom29slnv039mecgb39l0sb.pfizer.	900	in	nsec3	1 1 0 - CT5FBJIJLKBBTHJC1QCT8SOAB9NKK48R NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-j2srhb8q1fom29slnv039mecgb39l0sb.pfizer.	900	in	rrsig	NSEC3 8 2 900 20260119235453 20260105234603 41433 pfizer. kIdTL+biOHLKQkAr/h34yIur3Qz2YnGscSmRefdPgCYZzZl8lyQKawpBlNlNM4hyxm5sTjrpXDOGePzJBvnPDmjKDGkq2/be3ipv/3FAt7AurRq7I7xQOSkw4tZLYL+Tm7tlRWRaInDHKpePV3Bsdvd1ix7nJHvr8PIJdvFUaM9jCpVpMa0s2iseR0tpA0OisAnoWi+tHA1qphcvzfZ06Q==
+j2srhb8q1fom29slnv039mecgb39l0sb.pfizer.	900	in	rrsig	NSEC3 8 2 900 20260206222701 20260123220227 41433 pfizer. leSCa3XlHYidG8wm6IRgjwMTu8L2/VuvrlqMTHWS9qbDiObUP6jEsav79ZVRPPZa+HIUHNxF62Hhy+nF2B7SwFWfdRjg9rBIWQAGk/lPgpQEn3pX8J+WugYjLraG3R4ZomiDDxuLFV0jbBn3OclGqrUMEpZG6cFJ7/aKejDPu1YfKWG+tXSQo6MN9L33s+waPKq+2+2DxWPVKoe6JQwQNg==
 launchpad.pfizer.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
 launchpad.pfizer.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 launchpad.pfizer.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
@@ -192,7 +196,7 @@ n.nic.pfizer.	86400	in	aaaa	2610:00a1:325a:0000:0000:0000:0000:0053
 newton.pfizer.	3600	in	ns	alaric.ns.cloudflare.com.
 newton.pfizer.	3600	in	ns	evelyn.ns.cloudflare.com.
 nic.pfizer.	3600	in	ds	57235 8 2 F709CC6DDD183BD7FE6F21C022922A0A63BD0CF1AFA87701B7A9FA60884A7F0D
-nic.pfizer.	3600	in	rrsig	DS 8 2 3600 20260119193530 20260105190302 41433 pfizer. PuYZ/pQGDajMgbm160+Lk2T9lLOGvRkkU8SWQTmZB0jZlemgExzZbuB/cKZKSQ39zYTTE2Lhq1rLTs8CdrnTZU3zWN62/n+nUtuEv3yvNfNF5zGo7RM2h+zOh00cYaJ+8OWf7RfbQ/RPtRV+Rchept5Qn2dpI4dspvERUTrvznv9ne/Xp7WRGm18I/ZrASC5oQmNQFjgTuuUYQcSvwTblQ==
+nic.pfizer.	3600	in	rrsig	DS 8 2 3600 20260206175427 20260123165548 41433 pfizer. r2yJaMBMH5E+75uoe7/c2N4Lb38RLm0BzyDWVp6UaOpeGEnFtKYo+wSMqZpSwwsXwhLOD0etTzvzhVghnZTmBn/Mvntw4J0LXrghrMu+lgomKvDOwn6Po88BGgpDWxcl8FGmSthS0DrmnyFuundoQFihj+rq15gYzg6PtHSzWKYxCJwYK/Vet2XJAokRLvAJkNrVoOTdEGDhKnby+ja10w==
 nic.pfizer.	7200	in	ns	ns1.dns.nic.pfizer.
 nic.pfizer.	7200	in	ns	ns2.dns.nic.pfizer.
 nic.pfizer.	7200	in	ns	ns3.dns.nic.pfizer.
@@ -234,22 +238,22 @@ pf.pfizer.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 pf.pfizer.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
 pf.pfizer.	3600	in	ns	ns4.p201.dns.oraclecloud.net.
 pfizer.	0	in	nsec3param	1 0 0 -
-pfizer.	0	in	rrsig	NSEC3PARAM 8 1 0 20260115112015 20260101102757 41433 pfizer. jsxF2tkMzHLHf6TLzhLnZMzuwiEEsv0lh/9UmS5DVG7hQkKBrBe0lPHmwoS2OrsRHaz+lPTJ1Ue+hsPGY/JkQCx/0PNCwfOZ84oK/KLC1s4o1J0O+IaiFJSAIpLma5l8qF/KwOcilfR5+bL9OUUQGNW+8EiK7G1YiILg03ue4PEdaDCvLaVIRNW/L8tY6DPG3ixucevWMzOpZzOyfg+eUA==
+pfizer.	0	in	rrsig	NSEC3PARAM 8 1 0 20260202085657 20260119085249 41433 pfizer. ocPZ0I1CCh1OFA9ZNeNN8x9PBuAT6QAtvYy9AAjqv2y+QkVAe71o2ddbW83+idU5awGCivjBnE8KU4QL/5ouCKVdGA+Xszufh5Qx0rXSKAYm/V+Zn7sBfcN5kHH023LGdbxMMfUVzVi3S9L5Ye9ydXzRohSZqdJ0divhigieCtcKbg85wpXQI712snUijWAnLbSIHsCnlqBEU1s7L6ZZug==
 pfizer.	3600	in	cdnskey	257 3 8 AwEAAcIW/dGKy4tZkm14C5rSTYhxzSvSlwV+mYsmd/RIWxRqWD2pboOSIwQL4B5LaiOTSrUNhba4TuN8kngf2qvevmNYvYEM579ZzU2GKhr6Rie+z0cFYVkaydQX2d/quxu8wX9v550aQVlmfmBS3E46v7nokBX0FM6HFJhe5f196zN0QDnGXET3nrSsPKv4dxRMnIJIRf4M3JIUV72iHjnGu9lvjvPdowru2A1UQR1F4hbFF/z/lH98bphITrxiakawwgrmXBbeome+vUkcJeOQ0uzrBoBa9ZUmCgKwzmCr8PimsrB0ZwrKOAuyvv310VI4SNs21eV6B0Rt7/KsI75oTJk=
 pfizer.	3600	in	cds	56779 8 2 1DE9B797AB28F75B9C00723C2308ABCAEA91BCEE49EB2A4470EFC123613802C6
-pfizer.	3600	in	rrsig	CDNSKEY 8 1 3600 20260119235453 20260105234603 56779 pfizer. rNABIw2CjAMSQ4CFAkSgWV5J6eaSsZLtVA7dcmhBJf6ZDq5KIfpvmehEx+HqbQxaoIcA4yMaC1o3hX7PvIucJ0V/mwc/UnL3HLy9dSmSMcQUK8VgopmykVUYtVKGdn6du3YrUvYMScdNlz6c9ry1t22g+Wi80EDzofEBseNAb1dfw9cJxqY0QbP3oX7b6eFHOhfvSQwHPvdd7Xe1kFgufWwWwMaJgW4j+5NVbI2rYms/vdTTKbi8W7QDfRPUDQJSZKIJWynRrqG6F/GdB9q2VL9gQ53HUZoNzgZKn1bYdEBdqZXAOOh1vhHemHXG8KDQUJiwf5A6K0h/TjlFSYufaA==
-pfizer.	3600	in	rrsig	CDS 8 1 3600 20260119235453 20260105234603 56779 pfizer. O98mp6sqpjMqpN5c7z/IYAkjivDFkQlYLeTzAo0+LVotzN/c2E0pKg0+VVBg0knE9RtyXk+GDxeXHqXDhx5nVjmUai5/gZE2DnlkHU2BS0RzC6x8kuOi6qen4qu5XeSFX8ayB+rQqHjIzZoMKZnHU7jFWMY9NQFbvk56mJii7c1a+ioNU9fg63rnwG4n7BIZR0460DkrGScRyQk6Sv8iBqQPy5jIsyTxWWbYqKAFt+GbDJLMsBwfPFCNJsux/5g/sCi9UDd1sp5x+SJgi8hTv9nRuYJfxVHD/86wwqxBnbuqiq68GgRNkFI00/RLea3kVWVAXnAGiehNqiCvLatijg==
+pfizer.	3600	in	rrsig	CDNSKEY 8 1 3600 20260206222701 20260123220227 56779 pfizer. Jsu+a6HzWx0k0Qrzemmt5I+wTLQH8+YSRVA9qDpu8vKAvyOAx7trax6OsitBYLUek7wmeKZtOKxppq8JSPAGwoiNCln9w8orAJ587QJULsNNhmuifonPa5ro+4mX2Pq9jiiVin4ZMByWwGA3szPEDAtbSd+X/pCDUpvhMnCzwjbZRbzNIZZLs4Ka47M2jThl0EEcy3KxAVF1YQ5sERCd7JvRd+NpSnrKAm8xIbER2F20ZJiM7MYaRq5879twCdhUgmL9X652ur4qwqRkpPu6aM7Yk7ZrsRxH8Gp5iJSntLDeShZ22O2u0qR/fLIdBqQYg0hJNNU+mlch3ANJLbQHBQ==
+pfizer.	3600	in	rrsig	CDS 8 1 3600 20260206222701 20260123220227 56779 pfizer. v2FtItmpNLddAUbAn8nvBD8+R/QWQPOZJ5weF6j55+6DCmENl0Wo6ThFmQFzRcRMWcbEFvf8a/i1srAzN6IJcAaf2R2YDUJXfr2CK2c4uh8dWbJ3nTaOUp6G2SyDKFfMgmiqy0bhUhxAABMbvHNW6yBDtkZFrsThLjm8YQVosoC5MwjpWzm3WRUxBrrX7C4KBqx7aae6C5tCtNEKAoEQer762/ol7zFU7GXvLyNg/9o+kNjyex3+5iFBQnW1zOKM+mYk0doDFOBekRqhKxlGnsT2T+L3SpqGLJBOBoTXrdOSHgDEvfLDgGkCusf7j6uXrE+k9Wj/gXgKx77Tr+m3Rw==
 pfizer.	7200	in	dnskey	256 3 8 AwEAAdKmfJ2l2ApqIX5diojH9tUA6Evu0P0++h9bgGPl8qrd4ZHkH6NkQ4JeZQyoZt454SvRJ5/pMIXmlspyPBZHJAET9i+NsAP34wITv8Y2yOM6bmJwiIv8gwSqNmxWSUChtGjowhGO6L0klQHAYcJh8sS2WX6NH2khM8Cky0K47WSupGxV1ridxekoRfDx75g+TnmdThPXj4odPWGDLrkvlrM=
 pfizer.	7200	in	dnskey	257 3 8 AwEAAcIW/dGKy4tZkm14C5rSTYhxzSvSlwV+mYsmd/RIWxRqWD2pboOSIwQL4B5LaiOTSrUNhba4TuN8kngf2qvevmNYvYEM579ZzU2GKhr6Rie+z0cFYVkaydQX2d/quxu8wX9v550aQVlmfmBS3E46v7nokBX0FM6HFJhe5f196zN0QDnGXET3nrSsPKv4dxRMnIJIRf4M3JIUV72iHjnGu9lvjvPdowru2A1UQR1F4hbFF/z/lH98bphITrxiakawwgrmXBbeome+vUkcJeOQ0uzrBoBa9ZUmCgKwzmCr8PimsrB0ZwrKOAuyvv310VI4SNs21eV6B0Rt7/KsI75oTJk=
-pfizer.	7200	in	rrsig	DNSKEY 8 1 7200 20260119235453 20260105234603 56779 pfizer. JFEXahzLMBXE1f313LgxxuSJyRjvBuvBaLHSW9/jQRMCcGEjl2D2Bsij7G4ouv2MyYLqS5c4y7Ps0gaOwhiuSLK0Z3dmWKy0ITCC5Id5TvJqeNxSPWVtIX99qphEMikipSMdOHF4KOq0rTAaL4E9DlPvQaBMswmWvb8fJ8GDdPmAw8l4FTISudwJQmUkNg3fefBJ5B433PaAx5tq8J2K1IUZWtFRv1iFCgNQKmeXaGkY4kktlY45XEqnD/ulcLuw/I/ZvkGdcw6tbydLzNpm4gBazikCuXRSXKXB6Ld1j9+gGYXxxJqdD5i0JHWJbthZ1jAMMPKr6R25qkeLnxCcrg==
+pfizer.	7200	in	rrsig	DNSKEY 8 1 7200 20260206222701 20260123220227 56779 pfizer. BSx6ysqfSrwOurEcz026SkOpB3p57So0QNPBXSSgS3hzCPJBHtVIV1IKdvtuV9F3+ykrvXH+0yHHEcjM680hdpzbMOtUCV8+iaoi/edD7wWgSi/xpc/MB/N4eYpPgSZunjDK9NNfvOncB7OiQBrwdmPIpQxB/nCAHgwHdCF/YJD7xmliapag9R2arC4wX/F+UbYshHda/iDREDrycvQHZ/8pMA9ZUShgqKtdsfnzgmKsH2F5oFSeAsainbbPPBUl7AysA6C0Szqfzp9Bn2+vsHCBO14k4R522L7et1WKrUmjczN99p05GIGnzLZiWz0e1E8uQnalqGudgV0Tv0QR8Q==
 pfizer.	86400	in	ns	a.nic.pfizer.
 pfizer.	86400	in	ns	b.nic.pfizer.
 pfizer.	86400	in	ns	c.nic.pfizer.
 pfizer.	86400	in	ns	ns1.dns.nic.pfizer.
 pfizer.	86400	in	ns	ns2.dns.nic.pfizer.
 pfizer.	86400	in	ns	ns3.dns.nic.pfizer.
-pfizer.	86400	in	rrsig	NS 8 1 86400 20260119193530 20260105190302 41433 pfizer. AdUCScKIUgazyJwPyouDC7BoFuAbNDwcGXlqQgODsDLNAbIRRiwwalW2y8XR+CZV3CsikkguYbc7gAKngpG2NGabEfBd0yUenV5xSWfNmA47wTke94+vnj7cxAA3317VfLfr/nuHjgBx8c41zbcMrWxJFaOit6qR41XUhFhm7+3Wo36beu+eof/mea5jhfXPtezi559fRWiqiZZltgLe9A==
-pfizer.	900	in	rrsig	SOA 8 1 900 20260120004603 20260105234603 41433 pfizer. foSaZpP/1BPS9xq80Rre+U6CIu1QnbIykaKu4Nh52FvFAzwSm0setvzR3JsnOF/f88KGfIZGM6U0b6Yf6zxFNf6C0IBMTYMKbRHXz3A4v2MiG2Ht0OK/0NaiyRmGVGzQu9cr6dkn58k9lYugOIaKJvUuVQp2sxYDOo+SmCYcg8CRDQUTeGdbwA0M8/USf1lSFdKLTHUBN8/yu/nOgwpv0A==
+pfizer.	86400	in	rrsig	NS 8 1 86400 20260206175427 20260123165548 41433 pfizer. DfbiEiigSC5qdX3nva3M1Fesi02b7SJvxGnKsQWUHA/XQ+YGncp+sXL95+Xf4/TczeKOMu1ONLCKLXYrkH7PdGRIh6L1J5xtxfeTqD6kZo2A3ugNSaUHSWEIEUtPt3s76uzRhUGMsBtjMfEA5O4h8ODxMplEAVNNjvL7K8R8AuhdnT8vjcI4hbHMvAvMed96nksUVkV+aqknvhVA7UBQtw==
+pfizer.	900	in	rrsig	SOA 8 1 900 20260207013745 20260124003745 41433 pfizer. WaYaS/Ck4S9Dazqo3AAZ3fHA6AMJwcxhlEurWRe1PeyDT9EptMpcyESch9Qnmcc0UywYzEE+XntReUavUtMA4OSESHw6viSXJoG9WwAl+0Bc1hI+llDoHdbD+yLxb5c5vvGqgweEFa/W1usyHLcntY0CfWWDwcke+Wwzz/yZxmrTP+/C5lZ49G82bwjLC+Z8rsMCW7dw7eDVNSGf7cu/1Q==
 pfizerproblueprint.pfizer.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
 pfizerproblueprint.pfizer.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 pfizerproblueprint.pfizer.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
@@ -358,4 +362,4 @@ webviewer.pfizer.	3600	in	ns	abby.ns.cloudflare.com.
 webviewer.pfizer.	3600	in	ns	jack.ns.cloudflare.com.
 worker.pfizer.	3600	in	ns	derek.ns.cloudflare.com.
 worker.pfizer.	3600	in	ns	eva.ns.cloudflare.com.
-pfizer.	900	in	soa	ns1.dns.nic.pfizer. admin.tldns.godaddy. 1767591466 1800 300 604800 1800
+pfizer.	900	in	soa	ns1.dns.nic.pfizer. admin.tldns.godaddy. 1769218665 1800 300 604800 1800
