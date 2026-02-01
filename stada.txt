@@ -1,6 +1,6 @@
-stada.	3600	in	soa	a0.nic.stada. hostmaster.donuts.email. 1767662482 7200 900 1209600 3600
+stada.	3600	in	soa	a0.nic.stada. hostmaster.donuts.email. 1769303702 7200 900 1209600 3600
 2m4a7ugg4e6dueft9ihpfavp4eardkj6.stada.	3600	in	nsec3	1 1 0 73 TB62J48QQQCU1AN78HL0RA3NU19N8UKC NS DS RRSIG
-2m4a7ugg4e6dueft9ihpfavp4eardkj6.stada.	3600	in	rrsig	NSEC3 8 2 3600 20260122160537 20260101150537 9825 stada. jWvMhJAeRmuFYKaRsOSGIKv036J6BCJ5emE9AuYngbL4lKVTnbDudKFM5s5h74qOXO/1dD3sum9mzxZfzFbNU/7ivFz4M54QcqqYMlvsn9Ronx/txfdQI5hXhGPZum4opT6IUZih3OSSiTWgEJuWyLLAsC2C8NOlU6SgIH5WBTA=
+2m4a7ugg4e6dueft9ihpfavp4eardkj6.stada.	3600	in	rrsig	NSEC3 8 2 3600 20260207160012 20260117150012 9825 stada. 3fdM0isFEx3E2IyDNbioRv4eVn12Oe/StkyaKdPf+38eI1B6bUSR1e0XkIYxeMQDf4fPQRiI52x2qTZ9EFNARlnju/CFJjLtZsjhpzMX37j7nuOJJE0FWTScsTc2iinDzlHRKYeATgIH89UN5KxcCcSuGT4nBQuhy5gZ+rbzyEk=
 a0.nic.stada.	3600	in	a	65.22.156.25
 a0.nic.stada.	3600	in	aaaa	2a01:8840:009a:0000:0000:0000:0000:0025
 a2.nic.stada.	3600	in	a	65.22.159.25
@@ -78,6 +78,9 @@ cannabis.stada.	3600	in	ns	ns3.opportunity.de.
 caringforyou.stada.	3600	in	ns	ns1.opportunity.de.
 caringforyou.stada.	3600	in	ns	ns2.opportunity.de.
 caringforyou.stada.	3600	in	ns	ns3.opportunity.de.
+cdn.stada.	3600	in	ns	ns1.opportunity.de.
+cdn.stada.	3600	in	ns	ns2.opportunity.de.
+cdn.stada.	3600	in	ns	ns3.opportunity.de.
 ch.stada.	3600	in	ns	ns1.opportunity.de.
 ch.stada.	3600	in	ns	ns2.opportunity.de.
 ch.stada.	3600	in	ns	ns3.opportunity.de.
@@ -248,7 +251,7 @@ nic.stada.	3600	in	ns	a0.nic.stada.
 nic.stada.	3600	in	ns	a2.nic.stada.
 nic.stada.	3600	in	ns	b0.nic.stada.
 nic.stada.	3600	in	ns	c0.nic.stada.
-nic.stada.	3600	in	rrsig	DS 8 2 3600 20260122160537 20260101150537 9825 stada. hTd4CyrsknBMZ8yNcPKhR0qsKOGshkxugDjIAjW9uLGEi6HcqAHCgcpJDvIOBetAiFakXruRvqGeTOgohH4yT3kjxJ06i5G71TxXmFWFBBUC1nzAgC8Aiz0EEwFFZeklNwsNW24E7urVOHJxEu4/sfv8EBTh0v04aw5py9af02A=
+nic.stada.	3600	in	rrsig	DS 8 2 3600 20260207160012 20260117150012 9825 stada. DWzY8+1K3vab7r+PgdAi49oUkae/79NFXZnUmi+WdC/szCL0xTbod7X81hbwq5RNrkaYq7eHyYkZspxJkbwRR1IabAStQ41KThejA/QWo6PAoc1WpMPjFjuzuhOhHmNx2pbWJexc8w7yli4w/sx6TV4IcFsttYktumfdUjbeagk=
 nizoral.stada.	3600	in	ns	ns1.opportunity.de.
 nizoral.stada.	3600	in	ns	ns2.opportunity.de.
 nizoral.stada.	3600	in	ns	ns3.opportunity.de.
@@ -327,7 +330,7 @@ sk.stada.	3600	in	ns	ns3.opportunity.de.
 sm.stada.	3600	in	ns	ns1.opportunity.de.
 sm.stada.	3600	in	ns	ns2.opportunity.de.
 sm.stada.	3600	in	ns	ns3.opportunity.de.
-stada.	3600	in	dnskey	256 3 8 AwEAAbrbJ47b4THrqSPhWdKpcFSMF/Vslw0xS1bst/0iLGgdjuy/2o2RUqeoy9QgKf0apH2G4zCmOeo3SEU2ILoOT49maxPtRKztq0DQIRKPSqPwc+nLvGrVXHVGSYXMls2mUth+5iMbpwikWOHTqaDSyylcLfkOILZ8tMOy+14WAR+9
+stada.	3600	in	dnskey	256 3 8 AwEAAbb9HtJlTP3T4rEIjgdUc1IgZ5FPnE6Y6XxC9ROKo8REfvOkYW3jbb0QPAdA8KnJb1nBSr3xjwOkoOc5CMKumlol0WohJtL0Ax4+fXaQxxIGRTY+qBdZHGH/RyIfOOdU1qE+Yvo18i2xZsS30iU4zVFVkufXxJfBahNPJyORwSxn
 stada.	3600	in	dnskey	256 3 8 AwEAAd/8YFcgmn7lX6m+fZz4U+Zo+OpqfESTVEAsALifLInPLNGzR0kRdmvZhLjXHAaRcK9sXeCvGe9BT5goRAg0pFpOF5Bq/XTRI5/3ya0K75ZwmMcNL8gOwfNhCRrjQ7/UDkqV4IO3OrA1kVx4+Vdd11y1Jult0VmvuT2sC6Udm+Yh
 stada.	3600	in	dnskey	257 3 8 AwEAAcp2kfiCXUKqWFzvQgh1bg871DL/TPktQqUuvriKjCm24ZSWkm3m/h1q5OhDvIDlXkWPO8AqbgxTLHTVj5PJlqWJSt+rb1KmbpQtm+x52z6nkd78+qSHAdXLHM5f9besMWKEfmerfsI2XqAVPF0Pa5w/xiqheglPdne1RbxgQheLRTJgcLuaZCmxe0rLCFLGHphJEyD88k9IGx3gIBaorqxBHPi74/+X1MhciYWxPTuK6a7/1p3SUylxlzmEYToaKVz4Y3HJDcHjP6kp6CqJq/TYk1tRo3uScoodj1trs5FtxlqskHmKu4ZKryLLzPj5vo1nf878a+sjNuDfc9pSrF8=
 stada.	3600	in	ns	a0.nic.stada.
@@ -335,10 +338,10 @@ stada.	3600	in	ns	a2.nic.stada.
 stada.	3600	in	ns	b0.nic.stada.
 stada.	3600	in	ns	c0.nic.stada.
 stada.	3600	in	nsec3param	1 0 0 73
-stada.	3600	in	rrsig	DNSKEY 8 1 3600 20260122160537 20260101150537 10585 stada. tt/DXSqrObTCzx8ozbsjv3VQYn+5stFeCWL1GQIs4GQQw6gD+asdQdSNXLnT2cAmzc1rD4TmBmGqlBF3vw6NBwguODcQ7DZYgwt/XXK+zc0Tc1jS9YM9JQ38a4sswrSA8OCgLRP/uPuah6UdCA8277hgX0ouXpJhNgcaYvvp1jCd7T38RANExGafiZBuzyzjEjmEccNlZa+HDpzWzhlNWKTQU2KQ637uV9ODq5pGqmK9pClEJzmoQZUGyUQNR0zpyBcz0jsmWGYTRCmtXEgLTmO+hRY/teGCRYplKzfXaG+d9RqPZDZ3pNjzWDx5vfedfCODK3DxnvKiRtX2F8MnBg==
-stada.	3600	in	rrsig	NS 8 1 3600 20260122160537 20260101150537 9825 stada. vHO8KykvNiN97DPy1P6jS5rwe+IuSzISLvDSbPsuQShKnSv2+6TyDRoBtqUoiJrcVPeJFWsizhigJUjQAjvj1D7RfYCuZ+Xk5kNow8Lz2fn4kXpUFRMFWAdHdz8SF0JYVHU9uCtoT1nHBz4LzwrQ5dTfeoJVI4hh/P8tzzbb6YQ=
-stada.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260122160537 20260101150537 9825 stada. iVJV8Fyb3yaSOL5S4uBqEHKskBp0gqbolek4gbfsVX6v9H28lAQcnUArDZ1JE/4+ZqlQDuXiYPUPXTm0sgoyMLU/+epMEwoySGFYFTVoiTdvfQXQPw8mJrfdmXQP31DJuXJ9sL5tR6Nvziz2FE3PL/+OGAiX/CsPzfuxTPbBU/M=
-stada.	3600	in	rrsig	SOA 8 1 3600 20260127012456 20260106002456 9825 stada. ypRvG4vbUJQW09y+AudaP5v0K+BJ4TaUAaqiPdVh6jFZosC4z3z1Zf6jlK6RirbQFc0OA5MJhobP6K25VJyg3gUaKmFLKc6Uba2Y6Ly3BM74aAmGwBpkXpgb7XyTWfblCklHldUGpCPdAGxjD3voz6u9DrnWl/XUMiXucsi7gws=
+stada.	3600	in	rrsig	DNSKEY 8 1 3600 20260207160012 20260117150012 10585 stada. OkxUpM5wuWz1WiA6KBo50m5272h62LbFiROr5yaK89hyYQun2V/wSpujuZRx1ITtipi/RGDu8GyaOUkP9oqemkobHGaXMAh51+JriSjarGLpPmtgcsMceJ/gv2Fh46PSQ4dyj+iO2kmORH2HSnxP9WmzoErpO1LqNbD3ZnaiBPteFT4xt28AsUotEC+6GJsTXAxKmL2v3eT6HhwODokLkQqVC8sb0CF0JbLhVdkeBRxuWQ1ydaGJ21hdQ/E3lDGTCrG+UDoOMA7/OMjV8HmOEqi16TNk241uEWGiLb0UpjxD+f3Y4z1DXU+Ziy0EqAaDi5cdFF5adgDqR9N2nDiIXA==
+stada.	3600	in	rrsig	NS 8 1 3600 20260207160012 20260117150012 9825 stada. LMFpiLdvwp54uA8k9sSY5jTXRQgsM6bNnYGZSBUv5aZoqSEb9KoWoeDUFuI5j2vQb3jVfPcrhcHZpc/ye5HmwM56DHA5rBCgsgGXRavevCofjYGQxdiw2mDfuTuCsub9cRSGblXT0PVzV+Xe5syZZKHJCtRVZy7JLSfbR67yz4k=
+stada.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260207160012 20260117150012 9825 stada. L6zb/aaeA7yZ5B4t1s2GS9hZmGQRcStpsUPSe+KYAtZiYAwbCjeYEaKPMqMg4wbLuqJlAesduUBHCmzEibC4FHnnXlBLR5+SW0ve8JHk6IvS1gOfXo3HXRfSRXH0I6hT+MI+s1aFcyzwHt9Fok8mano6GdqKdYjPzRk79cZXE7k=
+stada.	3600	in	rrsig	SOA 8 1 3600 20260215011835 20260125001835 9825 stada. mbfhs7qvkInlKckR8VRVe1f87vBCDkoGJ3OrMxiLDR4146cCK2Kb6Zy1ggFmdesdL2E6cOo8tydJSMY9jN6xAbA/Oq4v1JR59/IN+zFD//mQvuo2VAz30hocL4zZKCxMdnNmflB0diAslgYNSBFeYDbohit3jCGszYZWUHSzNH4=
 stada.stada.	3600	in	ns	ns1.opportunity.de.
 stada.stada.	3600	in	ns	ns2.opportunity.de.
 stada.stada.	3600	in	ns	ns3.opportunity.de.
@@ -352,7 +355,7 @@ tamoxifen-test.stada.	3600	in	ns	ns1.opportunity.de.
 tamoxifen-test.stada.	3600	in	ns	ns2.opportunity.de.
 tamoxifen-test.stada.	3600	in	ns	ns3.opportunity.de.
 tb62j48qqqcu1an78hl0ra3nu19n8ukc.stada.	3600	in	nsec3	1 1 0 73 2M4A7UGG4E6DUEFT9IHPFAVP4EARDKJ6 NS SOA RRSIG DNSKEY NSEC3PARAM
-tb62j48qqqcu1an78hl0ra3nu19n8ukc.stada.	3600	in	rrsig	NSEC3 8 2 3600 20260127012456 20260106002456 9825 stada. KjQKYC9JAy8C5NLeBzKb2Lu2NpaH8hvDxOFaUp2WWkxppS54fPa4Cm8RTGYp1+kingtwfhMLH6KIr1wrmUjovYLQ0Ge1KnP1/5BTLNjJLYWFyAOx28WfdXq3QIezmhf9snxss0Ggh/cYm5mZgZPMYsuHo66fIjzZWlF1InS2UJs=
+tb62j48qqqcu1an78hl0ra3nu19n8ukc.stada.	3600	in	rrsig	NSEC3 8 2 3600 20260215011835 20260125001835 9825 stada. aQ1R9Mn8BUWjIQ6IJHzxG1g8PmM8LmS4MfQwmLfyCApqfxOxzuAM04rYshSjMq/u26Xe1mD1Nj2TRlnJ0g9RiR90FTO0v+JdWXF+1CN86M+n2Jc0Lp178aHWuSjm+zFDBrohBO9DWVuMmJq9kfSw2m6FukZPd3BWxWGjOGBr8iw=
 terzolin.stada.	3600	in	ns	ns1.opportunity.de.
 terzolin.stada.	3600	in	ns	ns2.opportunity.de.
 terzolin.stada.	3600	in	ns	ns3.opportunity.de.
@@ -398,4 +401,4 @@ worldwide.stada.	3600	in	ns	ns3.opportunity.de.
 yourhealth.stada.	3600	in	ns	ns1.opportunity.de.
 yourhealth.stada.	3600	in	ns	ns2.opportunity.de.
 yourhealth.stada.	3600	in	ns	ns3.opportunity.de.
-stada.	3600	in	soa	a0.nic.stada. hostmaster.donuts.email. 1767662482 7200 900 1209600 3600
+stada.	3600	in	soa	a0.nic.stada. hostmaster.donuts.email. 1769303702 7200 900 1209600 3600
