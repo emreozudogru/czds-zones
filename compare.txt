@@ -1,10 +1,12 @@
-compare.	900	in	soa	a.nic.compare. admin.tldns.godaddy. 1767599315 1800 300 604800 1800
+compare.	900	in	soa	a.nic.compare. admin.tldns.godaddy. 1769258913 1800 300 604800 1800
 000i8kvpfhlbechrhap32gmo9e6aqq5q.compare.	900	in	nsec3	1 1 0 - 7C3318K4OGSKK863RQJFOR5PHUBDC0OT NS DS RRSIG
-000i8kvpfhlbechrhap32gmo9e6aqq5q.compare.	900	in	rrsig	NSEC3 8 2 900 20260114235610 20251231235541 7680 compare. jUdcObrjtwzGWjQ/V8/Gk/hJ14a2qVPGBqooql2DjvivNC/znVGW73/FGGOnAvJeb+/CRfoNW6Oj5CKOLBlKD/ccDj7qqQox0EzxgJPy5BNVfv5y1xT1+4HryRvtGBsv66RGEjJPCbs+2XWCbaqKo1oPGJ0A/Fy9Ko0KDXcR/hWEpXyCKaCZpOT7Vqswj3SZseZ19janWKE07kRg9/X8yg==
+000i8kvpfhlbechrhap32gmo9e6aqq5q.compare.	900	in	rrsig	NSEC3 8 2 900 20260207221749 20260124214241 7680 compare. hDHfyYKByKPewaqZTFjhE8IO6jNE8TTZDAOjVTnaEDt/kI2odEwLDCgJaGZZ29jZHuspRuN5MLj911BA4SoNFINiIb+Jq5AQMAzaKeSlo0YssrLk3s8YHcGoX86EjnDCmPx+5HQfRD54K9O4416nDpQS2RSuKlzrRUdRGjA77buMwCL60cm+vZ1/DFkTwRG4KorDIuzV24hVmz1zXtCq4g==
 00video.compare.	3600	in	ns	ns1.afternic.com.
 00video.compare.	3600	in	ns	ns2.afternic.com.
-123b.compare.	3600	in	ns	emma.ns.cloudflare.com.
-123b.compare.	3600	in	ns	nero.ns.cloudflare.com.
+123b.compare.	3600	in	ds	49144 13 2 BA919EDED1775063EDC13236B98B137BCFCA1DF9D210B87A3D92EE5E7C7E8028
+123b.compare.	3600	in	ns	launch1.spaceship.net.
+123b.compare.	3600	in	ns	launch2.spaceship.net.
+123b.compare.	3600	in	rrsig	DS 8 2 3600 20260204062316 20260121055927 7680 compare. grK4agqQwJle5uDwigGDquy9KnnaewgEcbgduekxnQyMsOinNcqSQ9xJfTbn+7L1CQkxT0OG9wDcXJbnoexxBktCvgQqQ1Cy4VlwfYCSAAoxYzDCNeHYg4ngNHzhMiri2lN2HDKK+ExKnHdseJ5RBiOiby893dBsXzV5iiTacLeTz4/WsepbBRjV1ICyiYfsE/zmBK8PlM1tUDkOw+ds0Q==
 188bet.compare.	3600	in	ns	adelaide.ns.cloudflare.com.
 188bet.compare.	3600	in	ns	louis.ns.cloudflare.com.
 1day.compare.	3600	in	ns	ns1.markmonitor.com.
@@ -14,46 +16,44 @@ compare.	900	in	soa	a.nic.compare. admin.tldns.godaddy. 1767599315 1800 300 6048
 1day.compare.	3600	in	ns	ns5.markmonitor.com.
 1day.compare.	3600	in	ns	ns6.markmonitor.com.
 1day.compare.	3600	in	ns	ns7.markmonitor.com.
+1tamilyogi.compare.	3600	in	ns	carter.ns.cloudflare.com.
+1tamilyogi.compare.	3600	in	ns	june.ns.cloudflare.com.
 1togel2win.compare.	3600	in	ns	ns35.domaincontrol.com.
 1togel2win.compare.	3600	in	ns	ns36.domaincontrol.com.
-33win.compare.	3600	in	ds	61085 13 2 9C892C80A3234D9EAB7B116784CF6D30462D87DA356255110A8B336C719276F3
-33win.compare.	3600	in	ns	launch1.spaceship.net.
-33win.compare.	3600	in	ns	launch2.spaceship.net.
-33win.compare.	3600	in	rrsig	DS 8 2 3600 20260119110731 20260105101204 7680 compare. Tsa/AnjsLQ6hNKxy17ARPf7kx/Fc/t8v1mJq1duM76VDCxroMkul3/N/wE75Z9XOaaxwLWGavbUF/QGyOsBc3KvcqHXipo/+BIMrgkPRQQKIPiQJNtAyGJEp8XcAo9ppsoQMpkQLtu+NBeyHLRMjF8Ae40iUufw56sZZKbsUqhlzxIDhA5aLOQYwM4iIRC2PmodvUELVa8rVJbR4Sz218g==
 3m.compare.	3600	in	ns	a.ns.3m.com.
 3m.compare.	3600	in	ns	b.ns.3m.com.
 69vn.compare.	3600	in	ns	archer.ns.cloudflare.com.
 69vn.compare.	3600	in	ns	romina.ns.cloudflare.com.
-789club.compare.	3600	in	ns	curitiba.ns.porkbun.com.
-789club.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
-789club.compare.	3600	in	ns	maceio.ns.porkbun.com.
-789club.compare.	3600	in	ns	salvador.ns.porkbun.com.
 7c3318k4ogskk863rqjfor5phubdc0ot.compare.	900	in	nsec3	1 1 0 - 7QCGPP0E16CLOM4J5P1U05OGL09211QC NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-7c3318k4ogskk863rqjfor5phubdc0ot.compare.	900	in	rrsig	NSEC3 8 2 900 20260116005255 20260104081300 7680 compare. U9NAHQtumA9iftPczsMVnqCsSC8DCVq4ccHCRclo0Pbm3eFMkhtQ/G8YdOe9YNBdEOT7sqooeMyWQK9qTCRsU540Zr8cIzQXi1oq0IwsQyppO6ceAUb8jNtmF+3JvEEV7qDn9iVDgCPEvIANkx21vvDL2gJJYTF2nRZGNVAXWWNlqd5ttVOTObxdJP/yGK4U2gCsNMaD5roDdA2+/8+/BQ==
+7c3318k4ogskk863rqjfor5phubdc0ot.compare.	900	in	rrsig	NSEC3 8 2 900 20260202225051 20260119223404 7680 compare. SJwgJI7AiolWHJNiYp6fwNSm7vVuUafwQcQR47t+3fBM5z1DClAS5rdDuEtZPxQ4j6yyfDoiejFqhTxxlzDvCB0xuGHm4v4d3KyfhTv5cT6V4A6KTfu6GFvDyWcUq+m2iOjNo33YbyUrEv8rWtdoMe0J6LkU9hPG5xeyMxxfgrGBERBHPdXhDjlVUuCg0ZzC488zV1f6EOjIMbbqDps27g==
 7qcgpp0e16clom4j5p1u05ogl09211qc.compare.	900	in	nsec3	1 1 0 - 827BCPJQG5RG5HBR7QJF70KBGBSLDV24 NS DS RRSIG
-7qcgpp0e16clom4j5p1u05ogl09211qc.compare.	900	in	rrsig	NSEC3 8 2 900 20260118011416 20260104011111 7680 compare. fkE+g6a1FpMliLv2m2fpefriI7HcXZyB9U9WiedK+14bjpvCvyGMeSlljFI49QXejFw8frVoESJ6ciQo4+rroDd6SBOnIdnVVervAMz0nTgOZBkIFGtS9tLVsuxxpivB/pxj93Xah3b3+R83fVuoIgwOzsEMAnkQm/xQwQtaFvnQlCH9EHGqzarsamZSnb+D8hx9iFDlVFeyQdf/g50N4A==
+7qcgpp0e16clom4j5p1u05ogl09211qc.compare.	900	in	rrsig	NSEC3 8 2 900 20260204235738 20260121234644 7680 compare. GcpNxwAHZmJd6Bk9gG1DotHku5da208RxN3pn1K3Zn+MfqGxSeg5pMS4GbvIuc5e35adIZqdo4o8wRoXLstS0z4qVI8A0MDJMZ5rQaIFxcpBGk7prawa2LLXEyTnvwW3t3uBuA9ej3r3DErfWYY2YVk3Yf2TeES/vF75kFe8AIG443aA3MEsU9gaQizr3gL7FgnQ4BPwrEcC15A0HpGe+g==
 827bcpjqg5rg5hbr7qjf70kbgbsldv24.compare.	900	in	nsec3	1 1 0 - 87VBG6SVQQRTOMJ107260NAHC4DH7O2G NS DS RRSIG
-827bcpjqg5rg5hbr7qjf70kbgbsldv24.compare.	900	in	rrsig	NSEC3 8 2 900 20260115055508 20260101051758 7680 compare. YmOXM0t4mVkDG7RquQLD0bO5a8tU/8RWKR7RtJ67VNYTP2rbFz2sjIq9gNNtAr6FrrO6yTOYTeDwCGN7i18Nr8hZhOqkU9Knvao7RByCvcpiWObkVHjMRhTqOJNlw7SACX6T0SsFu+wUxgRc2P/bVWKTRoOiMvw/Ow9jYDUiBd8zemy14Sc15obus24KkSTIaBCw5N7WlRlAB5mnKTNpgg==
+827bcpjqg5rg5hbr7qjf70kbgbsldv24.compare.	900	in	rrsig	NSEC3 8 2 900 20260202035350 20260119035232 7680 compare. BIQ1OB050YUtgfZ0zmbzHb4hdz53Rpyjh39HL8OJ5wjNZnCJrGzCG59TddyUPg9GWH3UVC3mPPHx9VaS/0WMBdZovaGxZ8n/ZayyD2G5imWELH+KpioHJAizn4IMiQOvBtvMsJ4X1xtPu+k6O0PYKRd2zL2saeOovicjjAWLSNt0eaEaV/rFIR6ScABto5u/OOjp+L4Gd9o43RX+GOi1rw==
 87vbg6svqqrtomj107260nahc4dh7o2g.compare.	900	in	nsec3	1 1 0 - 8GOV0VIA65E8U64D8JFQOL0N9SUCIKQL NS DS RRSIG
-87vbg6svqqrtomj107260nahc4dh7o2g.compare.	900	in	rrsig	NSEC3 8 2 900 20260115000055 20251231235327 7680 compare. V6ewdg5j9KSMAyARWeap61DM2hkh/JyCP6HqNn9Kwehn2WYOpit9WXAtkZk01n8rKCitCwi/G2aETgP/2oGVjUTcNWOGz3LjnBRu93lhcgmp4aJ/DupkdRg/y71Zmx6P6NqwNgL1NTiIWXlV8fCbzwh9jMNW0s9EoLvSKeiAp5kgFu+DhfjvDaEqTblBpqIq+b+a3MACS7S6a9qPXBzEJg==
+87vbg6svqqrtomj107260nahc4dh7o2g.compare.	900	in	rrsig	NSEC3 8 2 900 20260207223625 20260124215240 7680 compare. DNVli0x/FuVSZ+iwNCnyg/KSASgkGcYzFm/vJdDzRgCreLrL95UeEcw2DUT718GIozSCpv7d/O8ZSgHopJ+fRXf6ShDr4OKIZ/639OJ1soEd1ObqXVYStrORF5RLEAL7t36VMQ2jtbuaMwMG4Yf10E+ATyLwfVfRVr8zU0ZnbtJE8oHaWZM6UymMPew4jg1lRXLRbHU98gyq2MuqWHro4g==
 8888.compare.	3600	in	ns	ns45.domaincontrol.com.
 8888.compare.	3600	in	ns	ns46.domaincontrol.com.
-888b.compare.	3600	in	ns	princess.ns.cloudflare.com.
-888b.compare.	3600	in	ns	terry.ns.cloudflare.com.
-88clb.compare.	3600	in	ns	coen.ns.cloudflare.com.
-88clb.compare.	3600	in	ns	jillian.ns.cloudflare.com.
+888b.compare.	3600	in	ns	expire1.gname-dns.com.
+888b.compare.	3600	in	ns	expire2.gname-dns.com.
+88clb.compare.	3600	in	ds	17001 13 2 0E41C0BF01446BBC9CEBC08C2735B21AC1199A14404A59B1556FA9069485DA8B
+88clb.compare.	3600	in	ns	launch1.spaceship.net.
+88clb.compare.	3600	in	ns	launch2.spaceship.net.
+88clb.compare.	3600	in	rrsig	DS 8 2 3600 20260202020945 20260119111053 7680 compare. BuH74tx91DBg6whUgxyurkVpaXvZoa5BLBMLgD2R8/VRvx1ywHT3bTwUDBs/2teOVfJwvP+I5t6F9lWHD9RPCN7MBbEyCC5L37u5HhGyvMybueSa3r65bB6cT474NrKh1/EUUrw7YOLyxXAgU1//GgVyMwyWLdxRl7BhbrbnDP0J8eGAmd/uxrEP864LyCHxH2JRSJeLFbR6+TkQKNnMDA==
 8gov0via65e8u64d8jfqol0n9sucikql.compare.	900	in	nsec3	1 1 0 - 91O7GH3ALH05I26J3I3263SUOCMNT404 NS DS RRSIG
-8gov0via65e8u64d8jfqol0n9sucikql.compare.	900	in	rrsig	NSEC3 8 2 900 20260119005346 20260105004129 7680 compare. NImbSGbzV5yGx1GgvRiVikbKZiCeOUrgPYGGUqYrAE6P4CnKfonr9J0uPvEzzkT011Ku+X8vc8dY8oUks5d511sDhZgF1pK26DqF6Vwm7YsicL+P/lsC0DmURgYMQRnVY0oYd3FU1LwILj2cN7c86KtIwAz9Dabs7M04V9zgBAdf0rQjL0M7TsqbbUG7v5PWb2aaVFrRLHtQ4Cy1ZjpE5A==
+8gov0via65e8u64d8jfqol0n9sucikql.compare.	900	in	rrsig	NSEC3 8 2 900 20260205232421 20260122223518 7680 compare. Tg4+7HzYtRiRDmSwEBuAXL++WX9qnOircsHxKMtNkJGC0Ywceb4JSjSi4uwOcg/8DEVnX4oS/0O5EeiCD09Ciuozp+jIw/AWmQRIUhLm/CIukfOwWqszhwKPKFR0p6a/1HQLalzv5uhr60ygfBOUTEuesWL6XC3oQKVVJSwIaJFHqot+iubXTYqsLjSvqLTlaYUM+7je5+47ZC8yPyMFJg==
 8xbet.compare.	3600	in	ns	celine.ns.cloudflare.com.
 8xbet.compare.	3600	in	ns	huxley.ns.cloudflare.com.
-91o7gh3alh05i26j3i3263suocmnt404.compare.	900	in	nsec3	1 1 0 - A6FTFJ0DOPD1P2MTUNESTAKV4QOV2G4R NS DS RRSIG
-91o7gh3alh05i26j3i3263suocmnt404.compare.	900	in	rrsig	NSEC3 8 2 900 20260119005346 20260105004129 7680 compare. bdjT/XStcH7luoSUwuJTG7RZVMGps8649MdwO93NrzMQr5HwuDs65I5Qi6YT3qmhr3pk4lnndBXQ6IIAMIldeuX7qgSMzVOhBoCkHwe3nz/nDegLKbXYNowd3X/BZezhZ/3x6U9VNRvk3KH3Phf58+XwrYFaRkdW2CcSqCMZuXMFYOt8oApOoZRZLnz8tFrOcz6ugvCEe/VoGhKiQgZRuw==
-_forcedupdate.compare.	300	in	rrsig	TXT 8 2 300 20260117120039 20260103110146 7680 compare. LOBXZOE/1WuHTXbc8h6aipd1U1h9NgLj5KJsv1PhAegCuPU4sEHP8NjtGA+lNwV0gin0i2nFKzqxs5kzq4aliSTxPsm8CmL6k5sbCAKqX0DZMRX2bxjzy8VuMaSQrK4whXjY5bkGTx7HF3tDR/J31nrjwVCkyA72J26qnC5l/p/T9JqECmxiJR1k4QDtUdrbfGw9mqQWN4HF9lrKVKvk/Q==
-_forcedupdate.compare.	300	in	txt	"1767361022"
+91o7gh3alh05i26j3i3263suocmnt404.compare.	900	in	nsec3	1 1 0 - 99AA6GEB12CAHBQKJ20FJCSMO0S998VC NS DS RRSIG
+91o7gh3alh05i26j3i3263suocmnt404.compare.	900	in	rrsig	NSEC3 8 2 900 20260202020945 20260119111053 7680 compare. DOl95KxMOZlbWd1HPbMZy9604fNXiWc2w4yjb/0IjmR5drLdLbf1K+yceUBxA1ul/SbgXKqsdE0sQYkPh0608VQvFJYbmzhASKDyOoz2WiD44f/Hg0DNQaKDJAa2XmVejyA3rEhT7uzgwzQDbmbofkX02vaQYrX7s02WdPF1IumuWtntyYdsnc19+JuWLv2PeFHiYPcn0ReGIruIVjJVig==
+99aa6geb12cahbqkj20fjcsmo0s998vc.compare.	900	in	nsec3	1 1 0 - A6FTFJ0DOPD1P2MTUNESTAKV4QOV2G4R NS DS RRSIG
+99aa6geb12cahbqkj20fjcsmo0s998vc.compare.	900	in	rrsig	NSEC3 8 2 900 20260202020945 20260119111053 7680 compare. KQMcxuKLQ9F4ZZ4M5ePprcZOGmiYbrpn+0JX+N+OvWhyYSiBHFPTFPQstAVJn82wxhiGhR5E/86Uuop3kLbQ+rxsZ9CQEbcH/jbjETEixK1tDhKbZHb9aBJXjMyqTIGyQD26rxkauHuN6aQlyUsNCm948YaSsokyats9E2P5e1jkCdwe9pNplJqCMTuMkPUYPhUMlZ4+jCgGcH6Uq2OW4g==
+_forcedupdate.compare.	300	in	rrsig	TXT 8 2 300 20260203003926 20260123143722 7680 compare. BqP501FUCNayk81O2Xm/JJWxaqAhYHEFgHL89Qtp6DmAAfdBvgXbujRq6wgm5LcUgEvQZQbVaQPXp4iN8lDmdyx+yRcdQeDhwChYwJlk3GtNZTKAJR0CRtJoM+se9LfISMhH8ac57SOZ5fpxXahBAOnRzt4u7IiLp3FQ89WfKf6x80boby3wp/LGjgkRBuYAkdlR2zGVoA8NiYJl0MocEw==
+_forcedupdate.compare.	300	in	txt	"1769182642"
 a.nic.compare.	172800	in	a	37.209.192.9
 a.nic.compare.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 a6ftfj0dopd1p2mtunestakv4qov2g4r.compare.	900	in	nsec3	1 1 0 - B4334HLBO2L27V6IGG2QHRESAJN7RM1J NS DS RRSIG
-a6ftfj0dopd1p2mtunestakv4qov2g4r.compare.	900	in	rrsig	NSEC3 8 2 900 20260116123831 20260102114952 7680 compare. jQu9zKaz78LcWuewnFp46RleA1WA2k6vsZCz13lfVfc+ZZdPXeVs0ftPNgivalBmpZYrAvzY+7CaES1Adi07ZIpWQmDd8tGHvU86rRMuxjEIC1xR+VoLkiJRC9+ZvfHOPeeJ6LWDiLi+00DJtklm+rk8+dcU+iMvp5isDN2rLMAala2O5DkEXHlqRcaLBVWgJ04lxX8Q2TbewoM9C9Dgng==
+a6ftfj0dopd1p2mtunestakv4qov2g4r.compare.	900	in	rrsig	NSEC3 8 2 900 20260203110340 20260120104051 7680 compare. HtSjAuqmBSeEEYpsSG6sBI3DKX4U4D/zAtCXUWsg5kmRy2c/mV8TkTyNe7L9lV9aBWK4W4cJOgEbnbVXz1Mwf6S41eCT6mRxBn1srGov51TRQwUDshk99s7wjyic5zwtb5FhRQI3p0Py+mKnAuAS33L8wUCaog42GrAUFKHambyqi2hsKJbGt1q8xl5x7t+HzJRUZLIAISAmRqH7RpQlkA==
 abebooks.compare.	3600	in	ns	nsgbr.comlaude.co.uk.
 abebooks.compare.	3600	in	ns	nssui.comlaude.ch.
 abebooks.compare.	3600	in	ns	nsusa.comlaude.net.
@@ -146,7 +146,7 @@ alexa.compare.	3600	in	ns	nsusa.comlaude.net.
 aliens.compare.	3600	in	ds	46752 13 2 EB1D85586F206FCF55E466D35B9022EE26D4329C5C0E39CE8ABA06539E166B60
 aliens.compare.	3600	in	ns	launch1.spaceship.net.
 aliens.compare.	3600	in	ns	launch2.spaceship.net.
-aliens.compare.	3600	in	rrsig	DS 8 2 3600 20260114110515 20251231103708 7680 compare. GXQt1WYIhqaJGNR0A/bS9nD9Md2uC4zys/kin9Fs4v+6ZQDnQ1uxcHIN4cf4EM+Rwo+TzLfF/baIcFDEFLiQ2uR3JMpzrZ2i8qUEQpw3phzLTK2bvYBbUaOU0OY/C/a6llASp39BWcI/26bKB7fDA8auPn3y/oONLGPmuj8Q0ZfwnyNUNgQfK1cscxgNk1MwxOG3ptp75Xp65wh+XIhsXw==
+aliens.compare.	3600	in	rrsig	DS 8 2 3600 20260207084705 20260124082055 7680 compare. iZtdX76isLXmfYljqIMmGbIhDVnEnk8K5uLNjLtihFKVx4hYejujfwBIUMH2Vx2MBNdbrF2P0BJJpaZHihDyUOEhy9n7Qb5Zr5VG4yS4ufc+GMj/m5GBurTAj/u2p4WhhQNI3jlZc9jjhQcGYs6PkXNqCEXSLQgijYnfZZuykpKXp/L0c27JDsibxErPyHkwyWhe3+9xphBOu06sS36t3Q==
 allura.compare.	3600	in	ns	ns59.domaincontrol.com.
 allura.compare.	3600	in	ns	ns60.domaincontrol.com.
 alphabet.compare.	3600	in	ns	ns1.googledomains.com.
@@ -286,9 +286,9 @@ azki.compare.	3600	in	ns	directi2.irandns.com.
 b.nic.compare.	172800	in	a	37.209.194.9
 b.nic.compare.	3600	in	aaaa	2001:0dcd:0002:0000:0000:0000:0000:0009
 b4334hlbo2l27v6igg2qhresajn7rm1j.compare.	900	in	nsec3	1 1 0 - B7OMP1MLL7R8BE407HEU5FMT9Q9C7NSR NS DS RRSIG
-b4334hlbo2l27v6igg2qhresajn7rm1j.compare.	900	in	rrsig	NSEC3 8 2 900 20260116123831 20260102114952 7680 compare. aoevf2IE/unGBjuw62l9fBWJgN1i8QZnAMdCh2eAU7ZJNO8QoTINRIM41jWR5QxkUKbWAupicyjb7bcAQL3bNsqYVlB5dOrLC6kiAFgsDOF98P87Le+u1F5HNraFhoVBWrHoo79yRRROiZ/yBccbt1mFu/5iNv89xQKrhqGIOSJ8EKPc6fQL7AGYqTzqYvmWeCzRtT3ztZj85xmZJDiBTw==
+b4334hlbo2l27v6igg2qhresajn7rm1j.compare.	900	in	rrsig	NSEC3 8 2 900 20260203110340 20260120104051 7680 compare. JlA6unijK7wVVavL0Nwsk7IEuvu9dsYsw/gQ1HLvqkwv8FXTf3fux8id5f6qr+qhGJHqUUlFe97GlsSRtE0ZQaFDQGwH6P0Jswv0ZWc8LiuXn6vdTAEYAogjmRbVMNtgc+JVy+uSiN20kNHinWFw1tDfj8yd4ouwDXiVRLOFS+29Zz2atACMpqraLld50oFI5AzhyS2yV/4xg+VQpbYwTQ==
 b7omp1mll7r8be407heu5fmt9q9c7nsr.compare.	900	in	nsec3	1 1 0 - DHI7H5B8UKQFBLL8DSJH7KJMCFQ3LNDC NS DS RRSIG
-b7omp1mll7r8be407heu5fmt9q9c7nsr.compare.	900	in	rrsig	NSEC3 8 2 900 20260116125546 20260104081305 7680 compare. jRgQYfQvV7hhmdHSA8XgGUBmRSpt9QJozCRu6eLUnqUco++ynqRudRBQe0KVlyhk7FRX0b8ZqLTGO2G54yx03eq0oxEuvVTZ95Rf58GkEA1ICik+9RlJHHc3hO+XI5IOeGmICBuWPJZdeSIMSZDOpO2q99tP/rfN9BARO/P1WFV8KiIKgADSPe07aZAgrx1h3ZD4KI+ffzNHKD9hIYeurQ==
+b7omp1mll7r8be407heu5fmt9q9c7nsr.compare.	900	in	rrsig	NSEC3 8 2 900 20260204120326 20260121115752 7680 compare. g0SLCcWdJlyMkzlUpW5WmYJyrd/qF621n6zIJRl2AzzTqjE8AJAOaXOU7RmLmuEMqfGjm7QcyuaqvOwU+ouWMN/KIn1XsshVSApXWnRPBpbz0forvWx5+QgpPAZu8ScVLcm+K7czNYx9vdUtg8bU8YmcxdD2p2LLwtbnvk52n92lwRyttyJQ1YGUUhOUc66Jp5Qks42WD3lBVZp+hIZP+w==
 backpack.compare.	3600	in	ns	curitiba.ns.porkbun.com.
 backpack.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
 backpack.compare.	3600	in	ns	maceio.ns.porkbun.com.
@@ -342,7 +342,7 @@ bestcarinsurance.compare.	3600	in	ns	ns48.domaincontrol.com.
 bestdental.compare.	3600	in	ds	5365 13 2 3FAE8016B359587F993C8F3DC562A4540F646D4DF0EC3D74B32A3A55C3916093
 bestdental.compare.	3600	in	ns	launch1.spaceship.net.
 bestdental.compare.	3600	in	ns	launch2.spaceship.net.
-bestdental.compare.	3600	in	rrsig	DS 8 2 3600 20260115155759 20260101151559 7680 compare. k9lZubX9sokiZ8ozXX91T+ynJpALLC5CkcwZWezyhMZ/PeHIM/rJuxrlVxKNU3c9vczguk7Q9Mb57uODBipo5ehofuQiKRvBQjfYBHKxrhV7nAx4nyfgv7zdAzjp5LPsXm2eD8/2esPmk7gJopYPNriYuN75b+DSJ3KQeRISASn39T6rrlxowZhDHFMg8A6OY8dPLIh4qen9/JKhgAjm1Q==
+bestdental.compare.	3600	in	rrsig	DS 8 2 3600 20260202145417 20260119142818 7680 compare. gZwZT7Xa86gPplWIV+btk/s8CuXnSMCbIo3b8eL179ZFTgmhONtrnClDHg0i5/9fRycqr0AofhPrv/2AbQoVnKZqqR7P8LBY+iU0tW2E8sr7/faII9GE2wGO8wDZmyQSPqgqvtmn/MQM6S0REaJSpEBBS8ZzwlDHK4H+ZG7E0zK0/ebbSFBLcIHS9+Sfe2FhmUKMmLKoWjfIiX+ss8Jjlg==
 bestquote.compare.	3600	in	ns	evan.ns.cloudflare.com.
 bestquote.compare.	3600	in	ns	liv.ns.cloudflare.com.
 bestsim.compare.	3600	in	ns	chloe.ns.cloudflare.com.
@@ -365,6 +365,10 @@ bicycle.compare.	3600	in	ns	donald.ns.cloudflare.com.
 bicycle.compare.	3600	in	ns	tegan.ns.cloudflare.com.
 bigdata.compare.	3600	in	ns	ns57.domaincontrol.com.
 bigdata.compare.	3600	in	ns	ns58.domaincontrol.com.
+billing.compare.	3600	in	ds	65266 13 2 D35D5A2AC57BC9FABFA5F1DBD8028155E24623F704C04220E8CDD3E553E3B272
+billing.compare.	3600	in	ns	launch1.spaceship.net.
+billing.compare.	3600	in	ns	launch2.spaceship.net.
+billing.compare.	3600	in	rrsig	DS 8 2 3600 20260206200148 20260123193116 7680 compare. IdhhmGxAqpMbvhIKe7Wo6ekWXp8h5K9RTaxxbH4nr3/REGa4z1wgAJ+Gqi4ifoksgxKoYJ5wazGeEos7j4riP7BX3lOgQYHZO08k5cnPjq5v2goj8d+QZSCqsWPLIw249+oo5Ynd5nw8caLqvge1Fv5oaU785sylGWEGA6pC6uP/mx2EDJX9mRwyY1zN5/J2Py9kwh0Ew/opR6/Qio5EcQ==
 biodiesel.compare.	3600	in	ns	ns-104-a.gandi.net.
 biodiesel.compare.	3600	in	ns	ns-130-b.gandi.net.
 biodiesel.compare.	3600	in	ns	ns-172-c.gandi.net.
@@ -417,7 +421,7 @@ bookmakers.compare.	3600	in	ns	ns2.sedoparking.com.
 bookstore.compare.	3600	in	ds	39556 13 2 5F4EC2EE20AEBC3D9EB8793F47094E8F5BCBF6EE5A50F38891F99CB33E0FFA58
 bookstore.compare.	3600	in	ns	launch1.spaceship.net.
 bookstore.compare.	3600	in	ns	launch2.spaceship.net.
-bookstore.compare.	3600	in	rrsig	DS 8 2 3600 20260115055508 20260101051758 7680 compare. M+tc/1gn0OZD4L0+ogrOgPtdL62vZA8lSB6Px5kI4XmBquk1yEadvEkBl7JJiywi6qevpkTJsQchTon41uyLqxQ0brZc7/2zKv9+M6sq6oI2OOKP7fV4jr2JVrf0ABALXsSc94EX89wGtnFIBjFPBy5ajoTSI9dEraIPuFRDAZIJnk6fTb4qLQ6eoQ5nQSG8k0ZPQYDFIWMXmjD0L1qcEQ==
+bookstore.compare.	3600	in	rrsig	DS 8 2 3600 20260202035350 20260119035232 7680 compare. lfhVlrP27QxGBq4QLloG3dyL3EJyOLW4IjCfTSKEqf3+qFGoLIAIq1hFoyWw6AdCg0KZsnc4MVQISWKER3bhpV1aPzjVaEuOBSOaTCTzF3fhbXLEvWcS46ht/kao/vbjQ/MFElm/YO7RCWcLQ3HJNInuz8WUS2MWblSFa+xKOCjxLHq2qhLcIjsxT+1Gc4O1mwnaU3XCWJqOjL2D4JBD3g==
 borrow.compare.	3600	in	ns	ns37.domaincontrol.com.
 borrow.compare.	3600	in	ns	ns38.domaincontrol.com.
 boschrexroth.compare.	3600	in	ns	gwa.fe.bosch.de.
@@ -444,6 +448,8 @@ broadband.compare.	3600	in	ns	ns2.crazydomains.com.
 broker.compare.	3600	in	ns	ns1.digitalocean.com.
 broker.compare.	3600	in	ns	ns2.digitalocean.com.
 broker.compare.	3600	in	ns	ns3.digitalocean.com.
+brokers.compare.	3600	in	ns	ns39.domaincontrol.com.
+brokers.compare.	3600	in	ns	ns40.domaincontrol.com.
 brxgeufo.compare.	3600	in	ns	cleo.ns.cloudflare.com.
 brxgeufo.compare.	3600	in	ns	piper.ns.cloudflare.com.
 btcetf.compare.	3600	in	ns	ns27.domaincontrol.com.
@@ -472,6 +478,8 @@ bytes.compare.	3600	in	ns	ns75.domaincontrol.com.
 bytes.compare.	3600	in	ns	ns76.domaincontrol.com.
 c.nic.compare.	172800	in	a	37.209.196.9
 c.nic.compare.	3600	in	aaaa	2001:0dcd:0003:0000:0000:0000:0000:0009
+cables.compare.	3600	in	ns	buck.ns.cloudflare.com.
+cables.compare.	3600	in	ns	simone.ns.cloudflare.com.
 cambio.compare.	3600	in	ns	ns1-coming-soon.sav.com.
 cambio.compare.	3600	in	ns	ns2-coming-soon.sav.com.
 cams.compare.	3600	in	ns	kay.ns.cloudflare.com.
@@ -520,16 +528,16 @@ cashnetusa.compare.	3600	in	ns	ns18.domaincontrol.com.
 casino-en-ligne.compare.	3600	in	ns	ns-215-a.gandi.net.
 casino-en-ligne.compare.	3600	in	ns	ns-55-c.gandi.net.
 casino-en-ligne.compare.	3600	in	ns	ns-88-b.gandi.net.
-casino.compare.	3600	in	ns	ns1.dyna-ns.net.
-casino.compare.	3600	in	ns	ns2.dyna-ns.net.
+casino.compare.	3600	in	ns	bjorn.ns.cloudflare.com.
+casino.compare.	3600	in	ns	magali.ns.cloudflare.com.
 casinoenligne.compare.	3600	in	ns	ns-123-b.gandi.net.
 casinoenligne.compare.	3600	in	ns	ns-123-c.gandi.net.
 casinoenligne.compare.	3600	in	ns	ns-15-a.gandi.net.
 casinos.compare.	3600	in	ns	ns-143-b.gandi.net.
 casinos.compare.	3600	in	ns	ns-156-c.gandi.net.
 casinos.compare.	3600	in	ns	ns-234-a.gandi.net.
-casinoutansvensklicens.compare.	3600	in	ns	ns1.wpx.net.
-casinoutansvensklicens.compare.	3600	in	ns	ns2.wpx.net.
+casinoutansvensklicens.compare.	3600	in	ns	magdalena.ns.cloudflare.com.
+casinoutansvensklicens.compare.	3600	in	ns	roan.ns.cloudflare.com.
 cedi.compare.	3600	in	ns	ns1.101domain.com.
 cedi.compare.	3600	in	ns	ns2.101domain.com.
 celebrity.compare.	3600	in	ns	ben.ns.cloudflare.com.
@@ -622,7 +630,7 @@ cloud.compare.	3600	in	ns	ns-92.awsdns-11.com.
 cmmc.compare.	3600	in	ds	29532 13 2 535583038EF89809550CC85116D8BC3E2C955AD4140F41C3D165638C78D14D95
 cmmc.compare.	3600	in	ns	launch1.spaceship.net.
 cmmc.compare.	3600	in	ns	launch2.spaceship.net.
-cmmc.compare.	3600	in	rrsig	DS 8 2 3600 20260118011416 20260104011111 7680 compare. Xl9bcjxdTkGXnmd6qfZWUMbikLIvm2ylXsOTLjRZNWFas9SriqNSB1Ug8YLRnfcdcU70ZKbPW3acZDXQgdF39Y4F0opPY4OgwCNnanXMRAmUU9TKDG9uYPO9cfAKAQC8vh53p3eKcDOlnMCKDrjovUWL67tsWrdrFClJIba/OJMw2FqML6tk0MdjlRwzxwLAjXEOcKUdPUtsc8VBpoWbJg==
+cmmc.compare.	3600	in	rrsig	DS 8 2 3600 20260204235738 20260121234644 7680 compare. DNsLCP57+SmHDvXkSRrSuZK6+eYodmCR3leagqlKQ0ydcrUGiSFZCuFjpQcWrTqiRIjxlI7YX3SmC+pn3uhnugbLQoDpAVsLKKYy178SdYd/kZU6exqRB5ivBVoy0k/NX9KGuOQXoTjDuE7RILFAXzZQjL5aJE09Vs/g2600sn87Bed0Z4nYpF8viRsyVSpws5/BHVNTdMw+QywvgwItGA==
 cn.compare.	3600	in	ns	alex.ns.cloudflare.com.
 cn.compare.	3600	in	ns	leia.ns.cloudflare.com.
 coffeebeans.compare.	3600	in	ns	ns1.onlydomains.com.
@@ -638,22 +646,22 @@ community.compare.	3600	in	ns	ns66.domaincontrol.com.
 company.compare.	3600	in	ns	ns63.domaincontrol.com.
 company.compare.	3600	in	ns	ns64.domaincontrol.com.
 compare.	0	in	nsec3param	1 0 0 -
-compare.	0	in	rrsig	NSEC3PARAM 8 1 0 20260114083824 20251231075642 7680 compare. LVFOffXE6FEA8PS3NdXSUR5NQTY5631AXN8x8+hBTyANU7B/mzDBnvlNQpljOUsFnhy851cVHM+HKzh+SHXqiuypynBR2FEIOoA4SYm5OeOjxv+J0MNt3eVw4H3of1y+4LzCVWuMUjHZyKKO3ywIwJzOB1owbWmcSi639DlnSIo03rXhtmGExgpshVqgmaY1cZqco5YUHFWNNdl4i/85JQ==
+compare.	0	in	rrsig	NSEC3PARAM 8 1 0 20260207065444 20260124062320 7680 compare. fmpBC6IGAwlrQG26oPDSdP8G/hATO5RmG88JiiBsgKST7oJ8foLxwh4Zut9yCvIHJIA4blGsOLj6Qh28BBE6elEQ762juLB4KSwI6fFYgxp+7PaBUkL+d8QgRAo9izbSsS+cymAv0EPBEIoVFRhuvth36agCvHbGBRvqWui4L5nh64rzFIkg7vyRKL8as8Ld9sGcEUegK3XUj9Hngw/nog==
 compare.	172800	in	ns	a.nic.compare.
 compare.	172800	in	ns	b.nic.compare.
 compare.	172800	in	ns	c.nic.compare.
 compare.	172800	in	ns	x.nic.compare.
 compare.	172800	in	ns	y.nic.compare.
 compare.	172800	in	ns	z.nic.compare.
-compare.	172800	in	rrsig	NS 8 1 172800 20260115155759 20260101151559 7680 compare. IhCJbI2NH6rwXQkrZWMcqf8dNthJHaQPUL9CUwgCVOcoJWGy/hqlS8uMZ9wZO6M9oeCuBZPPY+UfgqBxu1LW4H6VykZ4Mxon2XOeBPLBNgUWusf0dCFb9boxGjr8iSRDXr1AjgUA3ze0cpD2Dh7pOgoQNeykCWY/RUcvQTezq0BR7bFZi7/v0zz/+tNI39ScJAOh5kFCXVR5XQHhzhIh7A==
+compare.	172800	in	rrsig	NS 8 1 172800 20260202145417 20260119142818 7680 compare. JkAvl8+cPmn1EHo4proL8C8OCjz5usH5KwyW8b2vUROEn46aeZ3rOOh5GjF1bVLwT9rEAnSC/aFjoYMdIlgHOIbFL4QAFITPUAFpe4jmY7V6sZaP1ChtojHECUmqF3+pNKXaOeoEt1T7BB00xFNWsmZkNTx0tOiDM+h0H3ZtsUhPe79FBndz7u75VWnSsIh0KhC3RpysZUkWIjfRzONCnA==
 compare.	3600	in	cdnskey	257 3 8 AwEAAe4M66KK1MEAelbQ8/o4I7fhHJANDc+Y6uM08XDiQhMSPoK5iMqDj5UEDnomp4VZCx8YvstppJOav+NNlVvENqEsN+ZnUE1vfLBBPaYOPfnzh4dAvjP4acs27IWEJ6oIGKpNvF3g/jx8De63kGXftGSwOQnsaD0vibeZw6mjlnV9fjNHgJCAZKNb6JwVqePvz85Pn5K/g17Brf7jyUdSa4UCx3XoiBW+4FdU/16LqbiC1Eip2ZiYdqrclQbKZynQf69xRbBMvnH4WAvJELJkOsGyxfOPDH2FPWZlQ5gGpaNXnqUYIAKcrW/N4vG3Jgi/0eepU8FJnSUeMhbqiUBQwG8=
 compare.	3600	in	cds	27319 8 2 3B57AC3D5396B250896E78B988F741BEACF93733DAF02048F86763AEA3272445
-compare.	3600	in	rrsig	CDNSKEY 8 1 3600 20260114020511 20251231012206 27319 compare. RNpQvhgBxIE3h6DOwZ/rKRGK1/AAJwDc2SuFHMC7bSYOUPmPqoctAGxN6ZDvUtg+dGSK74mIjS6J+f2/BoMbpD+FShZv2FaCjL4uL8ICmjtKqi50F8svxidrOEk+ZFM3Wa131QCGdEuLI7EyQwQBMkveYFLG8VaWJxm7GyAP1gfCdAbQD9ziukA6yAM6SF6AmCpAUzZj0t+YxaL8HNAxoGPSRbdqre/HGKdb5zztZMwwrNHDW90zgETDvsMnQU5ZRfHgEX25hNEdA81kYjzj6NUKhrwWFxkW2AAaL5VcHKxv7/gc35z9io2fSqAa16C5Ir8RQC2zSW1brWMelt982w==
-compare.	3600	in	rrsig	CDS 8 1 3600 20260114020511 20251231012206 27319 compare. QRMvhWku5ylHn5l0aMvisMukikk3Gws4g1sSxw+DPbVJHIb5hFaIhMX7XbZlnUBtFxeHzC1jPU9BmS5s/XYOtrmotEQ4EUOOx7JH+ysSBj/bhyZGbIBYCd72/qRmqLltQjV0eGqUr3jNTnOzf0F9MEMhULqOuN7FXco1m6ckGnAJ8WqOgKaNCNVcUfxqQOTxfa0Myz+QXS4huet4tI7alz2EpSjaHMyrPxuFT7YeXuxWndxmpWz6z2O+NrGPuWg0rCCcifEdePN4j8KAvxcykpntRu4WdbAg8ziyc9WUnhhtmVTsIJP+MvXHkOWVUQJacbWfz/aMHUn/1XEJH2+IRA==
+compare.	3600	in	rrsig	CDNSKEY 8 1 3600 20260207000040 20260123233531 27319 compare. wLMuP+ovMOnVYJSPRUC1fkqv9Hu1pAMNP8w1wbMIHyuPnP/YUZ9lUVnOySjdj7wcIPjuMLXmxm1x8nJenqnY0b6dWNycMvmPwJwxa3Q4NCpxTp7vRQMYhZkbfOjlbdBP2d3MCsu5ghLGsqLThaCF7flzalJBoGzzeMTXwmJgiunSqI1Nh0jveXrTiXmiyuf4mXARuzJgvKBkNxSjCha9UsAxe/6xAIbFfCgjYrZLUr53EsTUBz8YXjNoOgPTlEeOeCLeZoEOoha6F6Ktj+Xcbg/J2ztAprtnkGKAIwMNmAh+O8UtpTylM47W4U/IqRfqSz9ohEJ+KFZBYLppgJgSPw==
+compare.	3600	in	rrsig	CDS 8 1 3600 20260207000040 20260123233531 27319 compare. N9QHZp30bVVHbIDl0umSmE/lEWXBYx4t9vm6X/2+moIoESyOwMCsTfonnmUnBVWYOVJk7P29bkQlEy5j7iL9gRVD71rxcPP2OvjXUrfI3DvbpAJLbppec0vgOS+EiWjTBOwQApKjovcHTE188aj+mL53qhKcMvRRy0aUFtqdJ7XuEbFqAXk38ETA2OFy3FyKsdEF2q/4RiH9WcFBvDNUq9pqrDBuIz8BHRZFaJHE75iowIeHclAhHatcmBz4s3DHpv5mePyxDxc47PyCtCNnIeGHiuDiK1upRhbD0NRL2HQxjoIJrlvJ1UHuwWb5gxc8v4C8rY0sVntOtAjgZV4EKg==
 compare.	7200	in	dnskey	256 3 8 AwEAAZfvUiPJZFlGVABweCx7ujr9T2IraAFIe5BtLR0ui2ODLWJ9bW8yohxY5Oykxbya+RULL82h1qP3AxjuVZS4pVsY/B4Hdy0lsl05gWuqAw1vhbRNMZZdZEfkyGawmxzDhlLpll53PAJe962GDNqs1pgdhx9utxawxpTCWEhqhsH+NPX/iIrxpRf5+7UbJ9Lft+pkMa6KIoMjMASGrghbsXk=
 compare.	7200	in	dnskey	257 3 8 AwEAAe4M66KK1MEAelbQ8/o4I7fhHJANDc+Y6uM08XDiQhMSPoK5iMqDj5UEDnomp4VZCx8YvstppJOav+NNlVvENqEsN+ZnUE1vfLBBPaYOPfnzh4dAvjP4acs27IWEJ6oIGKpNvF3g/jx8De63kGXftGSwOQnsaD0vibeZw6mjlnV9fjNHgJCAZKNb6JwVqePvz85Pn5K/g17Brf7jyUdSa4UCx3XoiBW+4FdU/16LqbiC1Eip2ZiYdqrclQbKZynQf69xRbBMvnH4WAvJELJkOsGyxfOPDH2FPWZlQ5gGpaNXnqUYIAKcrW/N4vG3Jgi/0eepU8FJnSUeMhbqiUBQwG8=
-compare.	7200	in	rrsig	DNSKEY 8 1 7200 20260114020511 20251231012206 27319 compare. 6YP63Ca7qJQjd6EvjP0wSIPHTFEutxA6dOtYmR2CD0nmQ15ilv0sQ/rrAhnJ4Ti3Aysl+C6YRf/b1X1qVp01d056wKaT+e2i0dir4mWsl5M6GdMHtBzkkuf+Lr1XYisTNwHfArN0c/rCd8K4YHzAbbanm+AbwRqZcr4yjIimZG1BujVj9Eeupt2TS+75cl4FOEu8WRGq7hr/d7xqrs55qBaDdBy/zrxxEJaHzxMte35wcH2He4PkW5eI1m7Y39FwtMkDuws6/fiXuxYhMJbuYJY2gzzfJHxilsYLRYKv+Ju1Oc7Lfcwy5/tVmJvBcgHpibnBMZENGZHYeNXtuFiEbQ==
-compare.	900	in	rrsig	SOA 8 1 900 20260120001114 20260105231114 7680 compare. hsJSk4zFSqUb0gCyLdhmmpXtQjyqVNKaQG098iRHfybk4YlaRX0ktphDfjml63M6pJikK9H5bNmJtWpsqn49ET864DYL0p71NkdFM9zd4TYFIiApFNfdzAeKWpF6tOkdQvFyosczHuv9TnYIl2N+MK/9YbkxNS/YmaTw4OyN44i+W+K6MtjybweYn6tW/YD8XAEC1zlmBK54CWHTAOudWw==
+compare.	7200	in	rrsig	DNSKEY 8 1 7200 20260207000040 20260123233531 27319 compare. doxQsTCL/Egr/ITeY7lML2Ix13GGcUEuWw+UsfpHdjQCECFk8ri5WlRDR6OAtZdoICkE45myWB7bUy1L4JsblU3yL2aRsNa8WQI7TO0MDkIv+ZLFeZJoGQOZP2RW/3xeJZqH2R8Cjy2SFsfQZK80q+MsCdgmJlgt97kfD8lkDo6MPDmXxaZnDrp0j/o+IdHrBlia1IsVxQszcTq9DvvnXaFtjfJzN/hfqpih5xTe0SouPR3O8iMxrNxGDt1+9UynCLQRG9HyhxKYgjt636C5fNHx9QpcpgvlNwpcplltHjFcnfIJ2LeftilaJcQAhZoEgXlKP7oKBHlJB2GgD0hTHw==
+compare.	900	in	rrsig	SOA 8 1 900 20260208002735 20260124232735 7680 compare. DCaXaw4M/Ojt5/k66amGAYpv2WLaKROzLc4+xHt/wFvWOH4+8zNq9NhiWMzozEpC8M3x1AWtAFsdt87KkK86xy/vXkRUvR+lDHUzVEzovNVMY+QIVgf3EngxeLRLdPJgwUZEowPJADGKA9+7OLsoCQaktHgt+hf38PWCibaX1nqb3FSo/9EkvdK7sd0T+hYxWkOwavOye9l+Huq0V44uyw==
 compare.compare.	3600	in	ns	curitiba.ns.porkbun.com.
 compare.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
 compare.compare.	3600	in	ns	maceio.ns.porkbun.com.
@@ -791,8 +799,10 @@ date.compare.	3600	in	ns	3433.ns1.above.com.
 date.compare.	3600	in	ns	3433.ns2.above.com.
 dealtree.compare.	3600	in	ns	jen.ns.cloudflare.com.
 dealtree.compare.	3600	in	ns	tom.ns.cloudflare.com.
-debet.compare.	3600	in	ns	bill.ns.cloudflare.com.
-debet.compare.	3600	in	ns	gracie.ns.cloudflare.com.
+debet.compare.	3600	in	ns	curitiba.ns.porkbun.com.
+debet.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
+debet.compare.	3600	in	ns	maceio.ns.porkbun.com.
+debet.compare.	3600	in	ns	salvador.ns.porkbun.com.
 deedpolls.compare.	3600	in	ns	ns1.onlydomains.com.
 deedpolls.compare.	3600	in	ns	ns2.onlydomains.com.
 deedpolls.compare.	3600	in	ns	ns3.onlydomains.com.
@@ -802,8 +812,8 @@ defai.compare.	3600	in	ns	ns1.atom.com.
 defai.compare.	3600	in	ns	ns2.atom.com.
 defi.compare.	3600	in	ns	ns1.atom.com.
 defi.compare.	3600	in	ns	ns2.atom.com.
-dhi7h5b8ukqfbll8dsjh7kjmcfq3lndc.compare.	900	in	nsec3	1 1 0 - EJMIHVP1OJLEBPSRLMRHOJELDHB7HVQL NS DS RRSIG
-dhi7h5b8ukqfbll8dsjh7kjmcfq3lndc.compare.	900	in	rrsig	NSEC3 8 2 900 20260116221730 20260102213656 7680 compare. heXI/rJyfnanc9X4DqqkKlNRFpdKg+5uoiw14wycluLM9pozRjYk7iHCGgnzIv2gdUEQjRyopfD3yAbtjLIAuqpiHVX0bFA++csju1xveVmO9/GIWqRVDQEj4RTGz2VWtw/RTsMu5to8HGm6xOtvMessUJ/IhzLM03sW1IoQJYtxnca6NfcHciJp73Mp7HD+P1jCsnKDmkl9Gr2VIcpL/g==
+dhi7h5b8ukqfbll8dsjh7kjmcfq3lndc.compare.	900	in	nsec3	1 1 0 - DQ4564OFSP4QJOIIFPKLF24S5QM0DO20 NS DS RRSIG
+dhi7h5b8ukqfbll8dsjh7kjmcfq3lndc.compare.	900	in	rrsig	NSEC3 8 2 900 20260204062316 20260121055927 7680 compare. HKAbmPEUNfdF+6k587Q0p1u9ZmyDK+2LHyuz/tm06yLJSW4LB79QkzgJ9b4DhuRvA/mL0myw4J0NYqDLIbZROiCxAO8J7l3OptApGz5xaBLL5rWvrFC2y+IdQJJZxQYI4VXewchxFGUdji2OnCdunnNaArJpdisehx1RI6YPezMQlO108uTC7pvUtBThrFSIjjTIHp3Zam30eEz/Gd5QTA==
 diamond.compare.	3600	in	ns	ns0.phase8.net.
 diamond.compare.	3600	in	ns	ns1.phase8.net.
 diamond.compare.	3600	in	ns	ns2.phase8.net.
@@ -826,8 +836,8 @@ docs.compare.	3600	in	ns	maceio.ns.porkbun.com.
 docs.compare.	3600	in	ns	salvador.ns.porkbun.com.
 dolar.compare.	3600	in	ns	ns1-coming-soon.sav.com.
 dolar.compare.	3600	in	ns	ns2-coming-soon.sav.com.
-dolphintest1.compare.	3600	in	ns	pdns03.domaincontrol.com.
-dolphintest1.compare.	3600	in	ns	pdns04.domaincontrol.com.
+dolphintest1.compare.	3600	in	ns	ns75.domaincontrol.com.
+dolphintest1.compare.	3600	in	ns	ns76.domaincontrol.com.
 domain.compare.	3600	in	ns	eric.ns.cloudflare.com.
 domain.compare.	3600	in	ns	gail.ns.cloudflare.com.
 donate.compare.	3600	in	ns	ns37.domaincontrol.com.
@@ -841,6 +851,8 @@ doubletree.compare.	3600	in	ns	ns4.markmonitor.com.
 doubletree.compare.	3600	in	ns	ns5.markmonitor.com.
 doubletree.compare.	3600	in	ns	ns6.markmonitor.com.
 doubletree.compare.	3600	in	ns	ns7.markmonitor.com.
+dq4564ofsp4qjoiifpklf24s5qm0do20.compare.	900	in	nsec3	1 1 0 - EJMIHVP1OJLEBPSRLMRHOJELDHB7HVQL NS DS RRSIG
+dq4564ofsp4qjoiifpklf24s5qm0do20.compare.	900	in	rrsig	NSEC3 8 2 900 20260204062316 20260121055927 7680 compare. PIkDQuqvQ665ECmJglHhHHJMz+8aIILZELG9r+zC0Nmkvg6E/aoG8s4lraK2DJxmC4SS9kZUpQSo/FWvp5EBj+oa/vY3HUysbM8SpH262D2shfE5vuVa5D1EPthkMskyzxVcby4JNQPhEJuXJ/6mKcHb8W0R922CUgN+fcAenF4x0dJPLIdQ6HK0VoS1Ufz/XY5qDctNu5iRGMllEHTCHg==
 driving.compare.	3600	in	ns	ns61.domaincontrol.com.
 driving.compare.	3600	in	ns	ns62.domaincontrol.com.
 dspm.compare.	3600	in	ns	ns31.domaincontrol.com.
@@ -849,12 +861,14 @@ e-sim.compare.	3600	in	ns	ns47.domaincontrol.com.
 e-sim.compare.	3600	in	ns	ns48.domaincontrol.com.
 earnmoney.compare.	3600	in	ns	ns37.domaincontrol.com.
 earnmoney.compare.	3600	in	ns	ns38.domaincontrol.com.
+easy.compare.	3600	in	ns	ns61.domaincontrol.com.
+easy.compare.	3600	in	ns	ns62.domaincontrol.com.
 ebay.compare.	3600	in	ns	ns1.markmonitor.com.
 ebay.compare.	3600	in	ns	ns2.markmonitor.com.
 ebike.compare.	3600	in	ds	2371 13 2 84D04051AA0957C1031F60748BBC393007E1D1A680EE83BAE8A1AE057597B5F0
 ebike.compare.	3600	in	ns	clint.ns.cloudflare.com.
 ebike.compare.	3600	in	ns	dawn.ns.cloudflare.com.
-ebike.compare.	3600	in	rrsig	DS 8 2 3600 20260115155759 20260101151559 7680 compare. GPv+NdcDFhHNr+eXg77JmE7JbZIucIbPHHpJNkGm80+BTp/YPY+J1kZS/em/5Q/zKJlXMM6LIsJS7JUZHHwu04AFi9pE+uQsbyUobOGhQrGpCylH7VlYykS6RSXC0z+ZmIiuiMNhvqaBjJjO9ZWUp8xVy2nKooFSDhT70qD7lJC4YkJRukyAmkfKamAN63R4Fomi5uyX9qoxy8v5yT6W7A==
+ebike.compare.	3600	in	rrsig	DS 8 2 3600 20260202145417 20260119142818 7680 compare. iWT0DVrK8uynv4eQUkZ9Scu/EnkJHiSOiWtUP2dbLFjAuqgjNhZSUXUJAl40uCTt4q+YhmoOfHEy9cyUv0jFe7Oa2HgDlh84GFu8qb3m+qogSiYSxxSpeFKVPZqe+JC+kRgwb714uKvph3FExnk0x3YODfmuVja0yqWAPX5CRTj9iycxqb7pu9dGVfkB274031UYuTrrDoUbisOvKMW7ZA==
 echo.compare.	3600	in	ns	nsgbr.comlaude.co.uk.
 echo.compare.	3600	in	ns	nssui.comlaude.ch.
 echo.compare.	3600	in	ns	nsusa.comlaude.net.
@@ -871,9 +885,9 @@ eezee.compare.	3600	in	ns	ns2.crazydomains.com.
 eisenberg.compare.	3600	in	ns	ns01.trademarkarea.com.
 eisenberg.compare.	3600	in	ns	ns02.trademarkarea.com.
 ejmihvp1ojlebpsrlmrhojeldhb7hvql.compare.	900	in	nsec3	1 1 0 - EJNSCQ6D22MBK1U4R907SPJUBH1V9A0I NS DS RRSIG
-ejmihvp1ojlebpsrlmrhojeldhb7hvql.compare.	900	in	rrsig	NSEC3 8 2 900 20260116044554 20260102044547 7680 compare. ZVFX76Sq6S7uRzTMNHrQMQFkAmtEvtnWx0w24oKDYYsuHjrQB/zQ0JMzfroYxHbXrVgRIlhNe/+J4UlPo3WNekKqAm6me/Snh4hjSwLtQP/HooHh1uvhFEtVUtlKCu6MXhhKpk2GyQV3cFVjgDRn7DsVPc0EvN2ODuX73cQaiQLSFCLVHbgj2+Wynu48th43dN8HAOJOKn9IHHh0RxgORQ==
+ejmihvp1ojlebpsrlmrhojeldhb7hvql.compare.	900	in	rrsig	NSEC3 8 2 900 20260203025713 20260120025704 7680 compare. MALbZP6ayk6HKbOtcgMJiubH65H9MNPQK6NOj7f42CwJZ1Hz4NaqjNiu+tVwyHHPV5UTe9zJHFgGf6BRDF0jFcJmBDGzXaqaWTRACgWQ9glBJJP6HmKZFrTobjoYYSNKCo91c61bDS3yRP/c/1aZtc0JeZxRKdver0xuJ/Ud/rJmZB8fEkzUeRMaGKzC1lqtLLxuSyP7fz9hFu/cUqWulA==
 ejnscq6d22mbk1u4r907spjubh1v9a0i.compare.	900	in	nsec3	1 1 0 - FIN88ALAOH373VUBJKU6S5U3U2JI9LDI NS DS RRSIG
-ejnscq6d22mbk1u4r907spjubh1v9a0i.compare.	900	in	rrsig	NSEC3 8 2 900 20260116044554 20260102044547 7680 compare. ERr6rHfpvAvy0FWkHbIEPECzZWvNw5QAcrTDyVZRylCXVK/De76Y2j34xoHrww74FdbGqB/Qx8U9QIHe97e6wd3/PA6ynxS4r/gXlro2Ip5HMjhQridBOLYns/ONPGZgQ/EN0NC4ZRjYqQjZ75T2NSe0FVqhieru4j10HqmwEf3SfE/WhUka4NT0c3r2AH8EEhqxYWgC2D9+EsyMAm6v9w==
+ejnscq6d22mbk1u4r907spjubh1v9a0i.compare.	900	in	rrsig	NSEC3 8 2 900 20260203025713 20260120025704 7680 compare. KYWjYO5/6dOVzcupjqy4uSaa+7+kaM3Ui3UNyrO6c5QpgTn7IoR/cVVJNlrDhacj506/qX6lFLmEilMnTS+RGatx91gOXFQYebTswLjjAePfe/B+GjkyK8q5kW3Bzdk66OVZi/Xl/MuT+zbBqJ39A1yrTt3PU6081FByqU50BekQdNADYJluU4clJZ0WnC/N7X8A7umB9QvDr3fBvk001g==
 eldercare.compare.	3600	in	ns	ns49.domaincontrol.com.
 eldercare.compare.	3600	in	ns	ns50.domaincontrol.com.
 electric.compare.	3600	in	ns	ns25.domaincontrol.com.
@@ -991,6 +1005,8 @@ farming.compare.	3600	in	ns	ns75.domaincontrol.com.
 farming.compare.	3600	in	ns	ns76.domaincontrol.com.
 fastcash.compare.	3600	in	ns	ns45.domaincontrol.com.
 fastcash.compare.	3600	in	ns	ns46.domaincontrol.com.
+fb88.compare.	3600	in	ns	odin.ns.cloudflare.com.
+fb88.compare.	3600	in	ns	paige.ns.cloudflare.com.
 featureflags.compare.	3600	in	ns	etta.ns.cloudflare.com.
 featureflags.compare.	3600	in	ns	roman.ns.cloudflare.com.
 features.compare.	3600	in	ns	ns1.dyna-ns.net.
@@ -1002,7 +1018,7 @@ festo.compare.	3600	in	ns	ns2.atvirtual.com.
 festo.compare.	3600	in	ns	ns6.atvirtual.com.
 festo.compare.	3600	in	ns	ns7.atvirtual.com.
 festo.compare.	3600	in	ns	ns8.atvirtual.com.
-festo.compare.	3600	in	rrsig	DS 8 2 3600 20260115155759 20260101151559 7680 compare. ICj475OecNcYCbvnSQMjDsYKEju4HUiN3ChsdBVzkcAB5dVoG7rA+75HKvqXTGbLm27Cxz0pPuPunz1SKlWQX31wzypIe8YcKKPJPG4ZYC0zdXYxJ7aw7dlFmzZhOzYkLGJvkFh12T4PPzkgcd5MbqaCrz4ZQsBfe4/1/k0hTh53z4f22r0r9UFz+YyF4ZJRfnGXU3o4jLcEYVfnczRGhQ==
+festo.compare.	3600	in	rrsig	DS 8 2 3600 20260202145417 20260119142818 7680 compare. MOg3IBox/BZY6yPVMx6aigi6ZAEBY2oGjnH/fqJ9Pi8aewJyfWYF4LfSiHcMFsbTvDSf8nFQYTSirEOHv8xyz9fc/qta5jVhEfttvZGnahNHm34oAuCMBWvs6QQcF5NUrJPgQQ1ybFYjqcUEC4R7SzxErQchgR1VYTlGWa2b4OStv55FwpXD+znfGlSjDoG7weU9041fq+ZKrN7+8610AQ==
 fibre.compare.	3600	in	ns	ns1.nameserver.net.au.
 fibre.compare.	3600	in	ns	ns2.nameserver.net.au.
 fibre.compare.	3600	in	ns	ns3.nameserver.net.au.
@@ -1011,7 +1027,7 @@ file.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
 file.compare.	3600	in	ns	maceio.ns.porkbun.com.
 file.compare.	3600	in	ns	salvador.ns.porkbun.com.
 fin88alaoh373vubjku6s5u3u2ji9ldi.compare.	900	in	nsec3	1 1 0 - FLFNEFNV9HIIVS03KKECV3Q7FOAH3EEN NS DS RRSIG
-fin88alaoh373vubjku6s5u3u2ji9ldi.compare.	900	in	rrsig	NSEC3 8 2 900 20260119034325 20260105025223 7680 compare. Z5Z77YkVMV3A5XSeUIEMulQPGKCo1hr+VaQPSt+Qdp8wfm7rnq5ZDgSdPYSllHbBYCoL+ab84zhqqL/DTSh7B2zFHDWEIazDl/jMKoTnqYm2XjXdNhq42UPqdBoQQ77tFMyUBQlP7NCdkvanQhwHNO0Yr6cHLiP6NhFKGW5yGELH2QZ2434nIzC+LiZ0bg6kVqp588bWXhLxZbP37Xgr2g==
+fin88alaoh373vubjku6s5u3u2ji9ldi.compare.	900	in	rrsig	NSEC3 8 2 900 20260206025450 20260123021624 7680 compare. h/5hDj1CFzUuPVYcufac/1S7Ffb/ZtQayVRrN+Jf3xi7bfFXo6pZki6tpAwawKBQB+4nc/6OL7D24X77VK1pHPBD7liuAoIJeGewH4AbHyNxOwnAK3guSnSmLq4/U4bj7KWx7rv4kqx+3z8SrA2/n8AixBNAKFyLRdU9KjJqHiOLVJFBeOXHGMjVwnxzxvSLfr2p0Y5kDsnIRI5YhrGDEw==
 finance.compare.	3600	in	ns	isla.ns.cloudflare.com.
 finance.compare.	3600	in	ns	jay.ns.cloudflare.com.
 findsales.compare.	3600	in	ds	51019 13 2 C78348DD9D9F2A45D08AC7703AD45B0A9FDF5D472F086CFABE7FF4D8ED9FC413
@@ -1019,7 +1035,7 @@ findsales.compare.	3600	in	ns	dns31.cloudns.net.
 findsales.compare.	3600	in	ns	dns32.cloudns.net.
 findsales.compare.	3600	in	ns	dns33.cloudns.net.
 findsales.compare.	3600	in	ns	dns34.cloudns.net.
-findsales.compare.	3600	in	rrsig	DS 8 2 3600 20260115230002 20260103183333 7680 compare. fFagvJFRF/HpEXu3LhJcx4K6cpKJrm5+SoYi4txfYS9iwDcnoOywHOYtYuL1nC6gmCAYPs625eCO6o4Bd4uoxNyfiY2PbqJCD9ptKg3DLj+MCH7kOrtHLAfSQl7lW2h4a6jr3IU9c/aQV+eaumj3DVzwB9n1fPBKYmwzpSJyDehUXNTWkmVD4ncPXbyVeuCRKlRzfTKnc6A+yl69ui8kaA==
+findsales.compare.	3600	in	rrsig	DS 8 2 3600 20260202212549 20260119210525 7680 compare. g0lzQtCsVi95aJBSL6E3YEuc6hHo7pRrL2+5DCFDTZiEvzgHxw/nawsweRmb0JftoqEuLYYjwwj3t4oyZdrdj4Sca1gKrxBOvHnBVevo69m7Zr2ABdumBSv24SEVfAQiPt9Ysn1+AiUrq5lryGYbVjGvb1RS88tn3a845gpqPLEVxW2/UpWjA+2bDEQt4M6NvntruE/84ZqpZv0pCd/ZNw==
 finny.compare.	3600	in	ns	ns01.hostnet.nl.
 finny.compare.	3600	in	ns	ns02.hostnet.nl.
 fintech.compare.	3600	in	ns	jerome.ns.cloudflare.com.
@@ -1034,13 +1050,13 @@ fishing.compare.	3600	in	ns	ns46.domaincontrol.com.
 flags.compare.	3600	in	ns	etta.ns.cloudflare.com.
 flags.compare.	3600	in	ns	roman.ns.cloudflare.com.
 flfnefnv9hiivs03kkecv3q7foah3een.compare.	900	in	nsec3	1 1 0 - FO2EG1BEH7PCMJ0C3A81GA8SH3HJHH0T NS DS RRSIG
-flfnefnv9hiivs03kkecv3q7foah3een.compare.	900	in	rrsig	NSEC3 8 2 900 20260119034325 20260105025223 7680 compare. ZofISJDpyosOODFcAyFuTWPCDxv11x7x+X5BYhXJotKibDEGr5/iuttsgS+tzDST7MXN9apJouC+WGfqul5I5bvVNY9ROmdBkcrpClHFLjmsq+bAIsru7B/vAvLf1A8aMkqUyF8Rjd533vas6+KgoxxdbNNScB5TMB5Vkg+8Fb5c/qPn2Cm5p6ETFjWjeThy5hdksvLQ1rjWRnw3hfGaAg==
+flfnefnv9hiivs03kkecv3q7foah3een.compare.	900	in	rrsig	NSEC3 8 2 900 20260206025450 20260123021624 7680 compare. XYPT+1Jk7y3Cz35pLFd2XWERIco85eem47ZjExg/kx0873qOT0TGIpA0qZgVTJzrN+W/IZzc3/GrQj34xbXc2rgp7eYWxBOkEd72HJrcVB3KjmIJtYyv7avYJJNIOh0boTGhbgQgCB3sp4ggUrgxXOhiK3Cwc3pXA6CeXPH37onx9fWkCRiQhtclNrABqGNfkr/KBAIVJblgliX/Ld6PNQ==
 flightdeals.compare.	3600	in	ns	ns49.domaincontrol.com.
 flightdeals.compare.	3600	in	ns	ns50.domaincontrol.com.
 fly.compare.	3600	in	ns	ns41.domaincontrol.com.
 fly.compare.	3600	in	ns	ns42.domaincontrol.com.
 fo2eg1beh7pcmj0c3a81ga8sh3hjhh0t.compare.	900	in	nsec3	1 1 0 - GU5QUCS6U937UA0O11CBT5AJ2DA6IKU6 NS DS RRSIG
-fo2eg1beh7pcmj0c3a81ga8sh3hjhh0t.compare.	900	in	rrsig	NSEC3 8 2 900 20260119132542 20260105131357 7680 compare. ONzQiWyQlQxD8I+uQ5p+iMXqG+BDm3S+QFPyaAcaWk5w4+/YafHmEkWKBc4pNQrOFOBAR13b915XpDx7hQ1eiy94yL6x2SxgZoTbcMEyZM6Fx8Ca+BWnBHlC5/KyFlBeXVB8boO92N/LM7QpDdLZH5B/QzYSF5ytANDos1pu8R3YTD6D8Jrdc/78IjKAovsAv8CyKNCuZbh71Vgg5JUCMA==
+fo2eg1beh7pcmj0c3a81ga8sh3hjhh0t.compare.	900	in	rrsig	NSEC3 8 2 900 20260206123652 20260123113943 7680 compare. TAui0+gxGMx+dLdCwhdaogpOaqeSCuYbsUd8sjM4cqnX4ZXhVWiUFgYXZuUJpfjspN/M1BhvBnwgM6/Ui18D+Qps/D+B54nKH0kliAIVv86/QCC6hwXv38Yabyjcz2zoVC0KWypnVMXNU1SkNqyicZEYOcDNQLs63KMmdwYjQVFgwdFB8J3i5Fm+Su3sl2uuKd79DeU/KB9bwwZBiAD7xw==
 forklift.compare.	3600	in	ns	lia.ns.cloudflare.com.
 forklift.compare.	3600	in	ns	plato.ns.cloudflare.com.
 forklifts.compare.	3600	in	ns	lia.ns.cloudflare.com.
@@ -1162,7 +1178,7 @@ gta.compare.	3600	in	ns	ns02.vandalay-industries.net.
 gta.compare.	3600	in	ns	ns03.vandalay-industries.net.
 gta.compare.	3600	in	ns	ns04.vandalay-industries.net.
 gu5qucs6u937ua0o11cbt5aj2da6iku6.compare.	900	in	nsec3	1 1 0 - H1NSHV9J7AILTDFG35J0HRBDBSCB89O9 NS DS RRSIG
-gu5qucs6u937ua0o11cbt5aj2da6iku6.compare.	900	in	rrsig	NSEC3 8 2 900 20260118005837 20260104001403 7680 compare. YPJrsE3El5wjudm2bzhKrbrIGBYh49NQJYj/7ln54fVjXzLH73fPVFUkPgb72yvAZDWe8lmewJc8QokA4ux2n+eI+4SbwNOij3pK0ALauRem0FZdzEJNtDKp8g5ckx2G+9Q0uxKnDAPPO+/ry/96nevnwVbveoMO8xk9iVVBnmysMa7e+hgn06XsXmrEaOKauePPn9QrHj9XpZnyrrsjLg==
+gu5qucs6u937ua0o11cbt5aj2da6iku6.compare.	900	in	rrsig	NSEC3 8 2 900 20260205000522 20260121232447 7680 compare. QoB7rs8vUghLOhL922l0UCJgjM7uGu26sjGPe7XIgqoUn6zr5sJ+anv8zKstZ5HIibzhHK7Qvegx4qaacIfowoDsI9DgdyCa3T+7AzF1eM+cvljr1txpiBaYZMEwE2u6IpnlI0hrIspa54JdQ/PEKZoaw1s/LrMfM2yIHHGV6MHbGWXjrR1fIDdXVdwb+WoH39okQBR/szJFo2mdvtYzGA==
 guavas.compare.	3600	in	ns	ns1.alldomains.hosting.
 guavas.compare.	3600	in	ns	ns2.alldomains.hosting.
 guavas.compare.	3600	in	ns	ns3.alldomains.hosting.
@@ -1176,7 +1192,7 @@ guidedbuying.compare.	3600	in	ns	ns3.inwx.eu.
 gumtree.compare.	3600	in	ns	ns1.markmonitor.com.
 gumtree.compare.	3600	in	ns	ns2.markmonitor.com.
 h1nshv9j7ailtdfg35j0hrbdbscb89o9.compare.	900	in	nsec3	1 1 0 - HTBBATJEFUIBJMU8OKJF2OC2FGOPJPOV NS DS RRSIG
-h1nshv9j7ailtdfg35j0hrbdbscb89o9.compare.	900	in	rrsig	NSEC3 8 2 900 20260116051946 20260102045200 7680 compare. DfI7NkEUb2uNlxtVpakUnJB4myk7Fd8W0nSnJWe3py/eb5VcUPc7ZMZ9poTVzLhLVhWnHa9u/GgDn2oyp/B3ph6Wks2O+G6FO8O2msjMLpUx7HV3SH0iScK8Q6nV9i6N+k8TmSZhqIoQwbpMkrUmFKmZpZq67CdcNczZOlBH2ctn9bylRJqsJwdEY0cB07NAcT9//cdYFflsBG8eM6UVkg==
+h1nshv9j7ailtdfg35j0hrbdbscb89o9.compare.	900	in	rrsig	NSEC3 8 2 900 20260203042558 20260120035605 7680 compare. Ngn7h3rA0q53gUjfbhK+BigZyaRybUMAZohLcq2LAa0dSynws9HtUoH5Es/5ly0NVscE5eeqO5jAa2mgI2mExyeq3YW7EBnW2EFEFJb+YBQz6+4w9knw7rXh4plpHtmi1XzuG7b2St+tDmTir0W5Am4v/lMENkda1XQ1hPMHU0XqgHniJGmfP+bdmVC7OEZQgCZ9M5ni4P9o4VmPf9Sopw==
 hampton.compare.	3600	in	ns	ns1.markmonitor.com.
 hampton.compare.	3600	in	ns	ns2.markmonitor.com.
 hampton.compare.	3600	in	ns	ns3.markmonitor.com.
@@ -1216,12 +1232,14 @@ heart.compare.	3600	in	ns	ns39.domaincontrol.com.
 heart.compare.	3600	in	ns	ns40.domaincontrol.com.
 hearts.compare.	3600	in	ns	ns37.domaincontrol.com.
 hearts.compare.	3600	in	ns	ns38.domaincontrol.com.
-hello88.compare.	3600	in	ns	randy.ns.cloudflare.com.
-hello88.compare.	3600	in	ns	ursula.ns.cloudflare.com.
+hello88.compare.	3600	in	ds	2888 13 2 297DB97E0C15882F698BD5E1687DA5C71A34247C55A44D2B63D89A4EE0CF83DB
+hello88.compare.	3600	in	ns	launch1.spaceship.net.
+hello88.compare.	3600	in	ns	launch2.spaceship.net.
+hello88.compare.	3600	in	rrsig	DS 8 2 3600 20260205065923 20260122060016 7680 compare. MYicpIuLGX+r36G+2tvBFxBNVjoN/nV6nZIeWItoeNRvhDVRU8/dM8y0HvrTxyzM8B5wmAwA+QGpDeLd/8/wL5ARsxvflGmnY6PvWt7zzmHkGPKF5tRFqQeT+dAPkwpcPoJ0rP7l9LusBJRZ1aWz3xK0o9v/eWgXXjkNmBGzJZzRTPT2ePGIAnPzoFyAyNwgwhppHFspBonKVSFYQKJzXg==
 hhqusr1.compare.	3600	in	ns	isla.ns.cloudflare.com.
 hhqusr1.compare.	3600	in	ns	terin.ns.cloudflare.com.
-hi88.compare.	3600	in	ns	frank.ns.cloudflare.com.
-hi88.compare.	3600	in	ns	tess.ns.cloudflare.com.
+hi88.compare.	3600	in	ns	expire1.gname-dns.com.
+hi88.compare.	3600	in	ns	expire2.gname-dns.com.
 hijrah.compare.	3600	in	ns	curitiba.ns.porkbun.com.
 hijrah.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
 hijrah.compare.	3600	in	ns	maceio.ns.porkbun.com.
@@ -1265,7 +1283,7 @@ home-insurance.compare.	3600	in	ns	ns50.domaincontrol.com.
 home.compare.	3600	in	ds	14505 13 2 8F07F6C613A937CCBA456C8C633A783A65A9271A4C2E5B95AA776EB776A32B99
 home.compare.	3600	in	ns	launch1.spaceship.net.
 home.compare.	3600	in	ns	launch2.spaceship.net.
-home.compare.	3600	in	rrsig	DS 8 2 3600 20260115155759 20260101151559 7680 compare. kNpjcszjKyIMcMPkuh/9au0Bc3XuHQGL612D1wwzxBnmHfl7RQ8ndbLFCUg4xaoysokxU9boF7HQh9TVcgwBIgTr/WcfoCDdYFjAB+g630ApeCGe88JErzqU7ibXc1nynAeEaKf0k5u8PMl5mXOdMAK+lqgLnsE+lIQbvsw7dwDM4EDmV4IiZnFaU1PJdLfnoycMJom7BoW8VGixuysptA==
+home.compare.	3600	in	rrsig	DS 8 2 3600 20260202145417 20260119142818 7680 compare. hSOtF/eAgvwvO9e5WC0nJXPhnmXFXq3cNLAheUyaJcdQkE3CsDAKF0nrO2MyERAPFWDMA1yna/NKJPsCemummQ1Hb9rNLnMwgJCnM3uuAfxEWwHabITDUPvSIo3B0zE/ruMXb0JoocOqmhnAU7u9GqQiZpUtzjmxPY/2o30P6jmLz5nE10BROs4jMo+WKDzy+hMRYgP6+a4c2ASSaWnYgA==
 home2suiteshilton.compare.	3600	in	ns	ns1.markmonitor.com.
 home2suiteshilton.compare.	3600	in	ns	ns2.markmonitor.com.
 home2suiteshilton.compare.	3600	in	ns	ns3.markmonitor.com.
@@ -1301,9 +1319,9 @@ horizon.compare.	3600	in	ns	ns.udag.org.
 house.compare.	3600	in	ds	3041 13 2 BC61B37F79BC6719625464879275F106D14FA3EC157FCB5468EADE9A740475D5
 house.compare.	3600	in	ns	launch1.spaceship.net.
 house.compare.	3600	in	ns	launch2.spaceship.net.
-house.compare.	3600	in	rrsig	DS 8 2 3600 20260115155759 20260101151559 7680 compare. kEE4xbJdJPE/2eNZnh8SV60D+Cb6YPgGe/S1eda/U8h9iMUDQossHtuGsggqeh7/qLuGmV32Web+b9KJxadzt4LdOuFHnkbn8Cd8bXwBztlLcBH95ebxkLkwazFZNsSNseowcamokw5RwrVc41mmm5BLu58UxEe3iBfbKsb0TIiqgH8cgTMHzeeRSYp1SYPo6PO1HoKbc4P8YGHRSvd6Aw==
+house.compare.	3600	in	rrsig	DS 8 2 3600 20260202145417 20260119142818 7680 compare. KNY1igrFJofI3EuBnyVjzmRRdgA11yI9Ne+SQL+Ps0GvlNpZUeb0yJdacMkds3kRTAvUuwbB34I6dt6oagtfsnbejQ7TceMTJW3StK4i5zBkgcQOXfkcpfOR8WdwimDL/UjggyOKwAH60oGmbHpVjPARTZxceECfjqd8GBv1e0kDCOB28DW0cYxPSjULDv+rS+lnpZCu6+gbyE4s4Rg63Q==
 htbbatjefuibjmu8okjf2oc2fgopjpov.compare.	900	in	nsec3	1 1 0 - I4PA7UFKCCD9HOBM60U50E7SDPBJQ4O9 NS DS RRSIG
-htbbatjefuibjmu8okjf2oc2fgopjpov.compare.	900	in	rrsig	NSEC3 8 2 900 20260116051946 20260102045200 7680 compare. OOYbCIP3A3fk1NYbhDfFOw2fbhpethsQof/3hJC6d6IUL6/5mWflZ19roqW0Dz4bRI0YkZzXZpfVJd+RNE8HoMS36+3mPnMDitNO8M6m/Dqjl/vvSyiX4rOwwbBUa9xqGIqY3rGCmY0tpy0M5uRmXkMQXLEUrkE2hVw+U85UX+57fLmSSrsU1rfGC2LIfSQxQePkcgw4cV4U51WPwvzNRg==
+htbbatjefuibjmu8okjf2oc2fgopjpov.compare.	900	in	rrsig	NSEC3 8 2 900 20260203042558 20260120035605 7680 compare. Bbj5z5TfFXtOnLzYHCEvBA5ff9K00t3Ato5LlXOv1BCitGo4lxoint7mHqsIOMgbFgyL+/pF374EL9DEW3W2/wyDvKEAt7c6SkmM+krmkwlIIctU6AKS9V+aXfwxzH2KfCr6FeoDDOMmVPu8ewt4sI8t3eblPxHTDT6bbZWQyb5uGflBRAe1st6dli4MtSfdcD8UMLBv9LRKC6VhoZhEUA==
 huawqs.compare.	3600	in	ns	hattie.ns.cloudflare.com.
 huawqs.compare.	3600	in	ns	lloyd.ns.cloudflare.com.
 huma.compare.	3600	in	ns	ns17.domaincontrol.com.
@@ -1318,14 +1336,16 @@ humans.compare.	3600	in	ns	ns17.domaincontrol.com.
 humans.compare.	3600	in	ns	ns18.domaincontrol.com.
 hummingbirdins.compare.	3600	in	ns	ns13.domaincontrol.com.
 hummingbirdins.compare.	3600	in	ns	ns14.domaincontrol.com.
-i4pa7ufkccd9hobm60u50e7sdpbjq4o9.compare.	900	in	nsec3	1 1 0 - JBTHPQT4SQIP363F0HDPS00N2FHRVNKK NS DS RRSIG
-i4pa7ufkccd9hobm60u50e7sdpbjq4o9.compare.	900	in	rrsig	NSEC3 8 2 900 20260119110731 20260105101204 7680 compare. cT5N9MylywDe+CB63Z91l4vsVCV2sbWgqnar58IclAgxgmzrKVzdw+hQ0C2maGeN27rwE14MlPL+nKY1FEZP2y24IAz0dH/cJ6sDGH/s6UR20WXfrMRmzNho6xgLg0J682jq534kFIqt0wxHJi60K0RiRpztRwGJQ+wEDAVoz3SY7RIbfFwu3p+sGAKsDdJh7KejUsgH/OobDU1IhMREig==
+i4pa7ufkccd9hobm60u50e7sdpbjq4o9.compare.	900	in	nsec3	1 1 0 - IID47P5PHVF0KNH95ALF5IVP3Q2GA8NK NS DS RRSIG
+i4pa7ufkccd9hobm60u50e7sdpbjq4o9.compare.	900	in	rrsig	NSEC3 8 2 900 20260206200148 20260123193116 7680 compare. ddU9I6NiNN9AnpRCAFp9W5W+E3reb/VVK3a4SMAIOSO2xTQxm5bh4xVfSDk6hNvlsx50tKMYwzNYmDjx/VF5JHJY3YD9vCletvlKDaNz7Ue0OlbUdnSuikSqOE2dCyv7j7Z96pZ/QQSckUsNRaG9CsmoaVaNm2urIom20YWJ8Uhwp/XppFxgrg6maynA/xgsC/GiS3q1EnBJj369233Jww==
 icloud.compare.	3600	in	ns	a.ns.apple.com.
 icloud.compare.	3600	in	ns	b.ns.apple.com.
 icloud.compare.	3600	in	ns	c.ns.apple.com.
 icloud.compare.	3600	in	ns	d.ns.apple.com.
 identifyai.compare.	3600	in	ns	ns27.domaincontrol.com.
 identifyai.compare.	3600	in	ns	ns28.domaincontrol.com.
+iid47p5phvf0knh95alf5ivp3q2ga8nk.compare.	900	in	nsec3	1 1 0 - KQA7RHO774ANSG71E1NDDM1K5G2PR0FJ NS DS RRSIG
+iid47p5phvf0knh95alf5ivp3q2ga8nk.compare.	900	in	rrsig	NSEC3 8 2 900 20260204164251 20260121160117 7680 compare. IS/kxLZ/Krb/NWsXt4B/gGq299ZDAC9m2ck+ixBmH0I9sI7nBvcXbmOrior/P7oxmJZH6+2LAcOMruD169W2to2f+9dM7VoTtq8g0P3z831y3t2i+N5O05EIJ//c4QVwFYhCFElUlV+g12QCTJJnm+XSbHfe0qaowZqI0wl4wdNEibxh5nb5LA2A2WAaSNH45+6ocPHFPFr3iYjezubd4g==
 imac.compare.	3600	in	ns	a.ns.apple.com.
 imac.compare.	3600	in	ns	b.ns.apple.com.
 imac.compare.	3600	in	ns	c.ns.apple.com.
@@ -1333,7 +1353,7 @@ imac.compare.	3600	in	ns	d.ns.apple.com.
 images.compare.	3600	in	ds	2371 13 2 DF9E6BFB47A73C270279795B76018DF97C2072912E37704A81CD08FF71119223
 images.compare.	3600	in	ns	amir.ns.cloudflare.com.
 images.compare.	3600	in	ns	naomi.ns.cloudflare.com.
-images.compare.	3600	in	rrsig	DS 8 2 3600 20260115215004 20260101212831 7680 compare. WADBDFT7XpegsdFbFECvsn4dLVtjqYPZpYrtT/+U32+TfBICQrXtDjG3A8ttjKTAiO2h2/ji+zTrIeYQJIdZttuJy11FduOrM8+83cJn0BJ4BfFRFmZxYiUOQyE1aWbtmeFxfJDsVuERKNKoMOMCd5tGsMiVKjLZJ0AnXJOy2Owwtg0TLHzk0Ufd1xhL9m8xb32P4kjsvb1Ozj7ki9W3VQ==
+images.compare.	3600	in	rrsig	DS 8 2 3600 20260202204340 20260119202438 7680 compare. TeI2+mUMp91f30SGXHz6vVcDm4wsol1rV0DrTv5/iQPTAHKxh5ubUUVTAdVXPtU69t5hjN1yij4/rcD2Wl1PW8+hSxZS6PAEr+DakL5XfjL8WSENzEBq5gOo8QNWa/ty99k8VMEvhMhYJm3viAwcIfMOfPhoSmsxgr4NbKeoBe36BDWNpUcLS9jXZKcWocgIZoAWTFBZ0WZ0XxEoXxn/QQ==
 imdb.compare.	3600	in	ns	nsgbr.comlaude.co.uk.
 imdb.compare.	3600	in	ns	nssui.comlaude.ch.
 imdb.compare.	3600	in	ns	nsusa.comlaude.net.
@@ -1407,8 +1427,6 @@ iv88.compare.	3600	in	ns	ns1.dyna-ns.net.
 iv88.compare.	3600	in	ns	ns2.dyna-ns.net.
 java.compare.	3600	in	ns	ns1.101domain.com.
 java.compare.	3600	in	ns	ns2.101domain.com.
-jbthpqt4sqip363f0hdps00n2fhrvnkk.compare.	900	in	nsec3	1 1 0 - KQA7RHO774ANSG71E1NDDM1K5G2PR0FJ NS DS RRSIG
-jbthpqt4sqip363f0hdps00n2fhrvnkk.compare.	900	in	rrsig	NSEC3 8 2 900 20260119224041 20260105214540 7680 compare. G7IxwvYLiKqNXeGf6/qznZzHfOv7lFZ7jO3apLI4/bi8gXSmsJu678QlHm1BsEWldsKEvdAFJwzsItlEQLaZsox5uJaWuQzOKI20Grpv4j3yDtB4p0f7R0/0cLbsxuGdad8M/SUjhKcySi1O3jH3Ru+YnTnQH2/JtUKU/pPwqHqsBwriX+BmQL9MWeoSdgLlZrR99ZwQfXh2wAgwZ4uEGw==
 jpmc.compare.	3600	in	ns	ns05.jpmorganchase.com.
 jpmc.compare.	3600	in	ns	ns06.jpmorganchase.com.
 jpmc.compare.	3600	in	ns	ns1.jpmorganchase.com.
@@ -1430,7 +1448,7 @@ justgo.compare.	3600	in	ns	ns2.sedoparking.com.
 kalin.compare.	3600	in	ds	34795 13 2 38411C8D308FD108A9531C8BD1F651A010E61F6ABC64424E59E837330027E078
 kalin.compare.	3600	in	ns	launch1.spaceship.net.
 kalin.compare.	3600	in	ns	launch2.spaceship.net.
-kalin.compare.	3600	in	rrsig	DS 8 2 3600 20260118144512 20260104141258 7680 compare. RltNhk6BYbi32hwBJqBAJYBfwMyg5nanRX7EVnaM3aQ56kimjeiMmsff7/VX7aP1w6yW+hsCl8olcND192BRlFk/oWjZkdxB1HyHIhYb3h0zUHc9bNN8LFJETJ99xmF9021P37BcU9XanwpLXS+gS2NU491iz3QpxBFWPO6XUmxS73GhOIwFFQlwnlwSG94zojKo2sCnO8yD3gIvr1rtNg==
+kalin.compare.	3600	in	rrsig	DS 8 2 3600 20260205134237 20260122125532 7680 compare. AusM6CFpXM3wCoJi+H2x774ggcMsaYRGQEj+U35sWzSMiWNiqEfCYZLwEipGXcw8lzQUHVmFz7AXjL0PONYGsmyL+1Xs9zGujlfXs5FaaW3QQ+W/xebZeFHmNTcbABDcECdXwck5uj6vQXCcGuehIf8QyMFj8pVKPOUo4YM6gfHRcVOmyGf9Xlj0rmsZqXV4AKuDTGozHnkkCkFb9Afk2Q==
 kcnaasa.compare.	3600	in	ns	chelsea.ns.cloudflare.com.
 kcnaasa.compare.	3600	in	ns	darl.ns.cloudflare.com.
 kelbreeconsulting.compare.	3600	in	ns	horizon.dns-parking.com.
@@ -1445,7 +1463,7 @@ kindle.compare.	3600	in	ns	nsusa.comlaude.net.
 king.compare.	3600	in	ds	19874 13 2 35C09914163CE9130AF980D5DC2DB937CFFEAC3CECA36E0DAF41CD4207C89441
 king.compare.	3600	in	ns	launch1.spaceship.net.
 king.compare.	3600	in	ns	launch2.spaceship.net.
-king.compare.	3600	in	rrsig	DS 8 2 3600 20260115155759 20260101151559 7680 compare. VRDwCVxtFlEMPe8tIVsNuvrwMDG440PmwF9Cf9nAzHlydf3i9QqGrPhORoWMfT2oLz8HSx+6dmFzDWcWsHsL3IS1fcfJgurFhoH/2134AA0U31VwxLm3BvF8cMosvth6HtcKRAefxdZPEd+kDNb2ZCpf81ZnPa1poXgQBoASqnifGyx4E87NFFe0fFbfLUfezEjzeSqp0UDu8vlyrJ7Zrw==
+king.compare.	3600	in	rrsig	DS 8 2 3600 20260202145417 20260119142818 7680 compare. cFem8suFG1sUG1VHtI4wIXigCrFZu30wXu1AiX7zcfaUBRqigKNKZ9+XxXDc6dM2LuuIkEV4VPKseZCpeNpLpXUwKtWDRwZJRknnA5oHaupsrBM585ZyMEauZdYhbzhEfeAhmb9yjEj7fQPEU92t8YGLQqPCXMae2FFD8HbQQydDn5Y0615/R/XBrQ3+6/xfl+dprNbrDDSMLmDqh0sbMg==
 kitchen.compare.	3600	in	ns	ns1.directorysecure.com.
 kitchen.compare.	3600	in	ns	ns2.directorysecure.com.
 knitting.compare.	3600	in	ns	ns37.domaincontrol.com.
@@ -1457,18 +1475,18 @@ kombucha.compare.	3600	in	ns	salvador.ns.porkbun.com.
 konkrd.compare.	3600	in	ns	ns23.domaincontrol.com.
 konkrd.compare.	3600	in	ns	ns24.domaincontrol.com.
 kqa7rho774ansg71e1nddm1k5g2pr0fj.compare.	900	in	nsec3	1 1 0 - KRDJO3K5PKA4PB62PI245TIG3AHPIKRF TXT RRSIG
-kqa7rho774ansg71e1nddm1k5g2pr0fj.compare.	900	in	rrsig	NSEC3 8 2 900 20260115215004 20260101212831 7680 compare. dOKP+LOzgXIf/QU8XYUFLcDKov36LN3uwKeojI0v33LECseqNefXysgg8KTBZ5GTZ5tAPYiWt/HsW27FJR0VDoyGJ55U/zGQu36TDsn0ic8iZw2PJ9wHfbg8PLUokGJS7nChAGrxbYV5Fr26+/RFEaSmvvrLqnxApOSXHxIsWJip/SKUjpTj0Uy9vaHrFn5GMHeGK+OORguXBpAPhjpoKw==
+kqa7rho774ansg71e1nddm1k5g2pr0fj.compare.	900	in	rrsig	NSEC3 8 2 900 20260202204340 20260119202438 7680 compare. SCUns7Fwcb8hMZyhfnk5aMX9M8+3UDCjow54qRjfqevYuf2lJF2U+RSl0nsVz+iWhdyTwxrIwVldIBcHl0KWj3q6CEutX3rl9Lzhncv8N2Gi/xxRX1xbxnDuQF5BcXTavR9QAtZL90HTw7uOVO7O5KhIg/IJyKppNtW4sj/yjBO0u1cFB0MqTI0fJMsChfo7jlIIabiLEMQvuwX1h4CyzA==
 kratom.compare.	3600	in	ns	ns33.domaincontrol.com.
 kratom.compare.	3600	in	ns	ns34.domaincontrol.com.
 krdjo3k5pka4pb62pi245tig3ahpikrf.compare.	900	in	nsec3	1 1 0 - KRFO4V23SFVOVBTB5MGVBVFLIINT2OBN NS DS RRSIG
-krdjo3k5pka4pb62pi245tig3ahpikrf.compare.	900	in	rrsig	NSEC3 8 2 900 20260115215004 20260101212831 7680 compare. kI0+B2kWsfmtlJbanZQRtU1jEsaV5HYFwK4q7mwtk324I1YKVEj6cwZbor3lgGhTOqlRrabKR35BqIRbJ451YHaE5PkHjLkwePYDmJWskpYSyMrDfrZtKXIX3wQycS3ahxI5L6zwywjOiLOawof8aFE/yg1Hwg0xzuTLnHTxB2c6XKwidDcJTNKW1jiELZK5/tkWnJ7+0dhXp3rk0HA5OA==
+krdjo3k5pka4pb62pi245tig3ahpikrf.compare.	900	in	rrsig	NSEC3 8 2 900 20260202204340 20260119202438 7680 compare. SzPvvQSkt3xVtFE8EMwCUgrwwd1dK6dasY9i5ucCUYkp0jnQ7qeEX+Fm7mk/RE80hAqBltpQDNnkFgL6bGvwvWm9JuX5NQZxG00lhdFvgoThakLziHR0xgpZd4ezYoyn1qB/4f4T/3ohUVpAPNgR1pID+LdqE9AOoCwMqE3lOJfCNbiPaTLquLO8kVZcSc9mbmLTM5GPsN35aNsbTtOb8Q==
 krfo4v23sfvovbtb5mgvbvfliint2obn.compare.	900	in	nsec3	1 1 0 - L6UI9255VGK3D5EJ48L3DIL03AS7AL72 NS DS RRSIG
-krfo4v23sfvovbtb5mgvbvfliint2obn.compare.	900	in	rrsig	NSEC3 8 2 900 20260116123831 20260102114952 7680 compare. RhAsyj8ABPRG6xRlB0nMFGpBB22BcA29KB65eIolaDpOJpCqfcedLvt+KB2QTcetm/H8tmYjJynp4dp3C0foHGfJ3srWWWYkpz4DSrpMdvWLCgdrIFe8dYeQZjUZJ3sDMW9v4yKhIZ7FGOgwsYldgmEBgCIccnjWtDLUjPb3TYrSA7+rdcyX9o0kmKlv5QJj4m/3j5NDPAhfeC5lf6KF4A==
+krfo4v23sfvovbtb5mgvbvfliint2obn.compare.	900	in	rrsig	NSEC3 8 2 900 20260203110340 20260120104051 7680 compare. BmzO9FIjfCDRIY/7sZ7BMG5iJ11n0oOOnxSKea0bPohkUHCVhjKrva1kf1XgsHuR9tcC16vvBTRztmLhqd3898Ji0xIyHkIlg43MXagru2MaZZfseQFzhgZJ0c1pxYF8Af5xYPcDSyM7jWhL4RmsdUtAjRHH1wBqHyNcHP0Xuk8Zw1AFOgoDH5HgHdZvICGrCm++mBvtKJYxmr7ehT05Ig==
 l4b.compare.	3600	in	ns	ns-119-a.gandi.net.
 l4b.compare.	3600	in	ns	ns-136-b.gandi.net.
 l4b.compare.	3600	in	ns	ns-253-c.gandi.net.
-l6ui9255vgk3d5ej48l3dil03as7al72.compare.	900	in	nsec3	1 1 0 - LSI00ACDHRE9NFR2ARF8M5CJ9EOT83H6 NS DS RRSIG
-l6ui9255vgk3d5ej48l3dil03as7al72.compare.	900	in	rrsig	NSEC3 8 2 900 20260116125546 20260104081305 7680 compare. cUcBfFXB30dkCE29yFS9xJauVmjGSh7FpH1AWPJgLa8tIUWhUb+GKFf81IMBe5xIniL3E0OHpwnmEp/dzlAAd3COXBMOfVPNnLDH/Oo72Mhx9RHHzYPb2T5P0QnyIXE1kaI8o+3oqfOi3u/Py59wjENN7ST995qLe33mzZpS8302WwcpKb4LW1ozm48zUVbv5KRm1gIhRrUDxKC0VRrG/w==
+l6ui9255vgk3d5ej48l3dil03as7al72.compare.	900	in	nsec3	1 1 0 - LCHNDER82NHS6GV6AOEMP2DCI561DHHN NS DS RRSIG
+l6ui9255vgk3d5ej48l3dil03as7al72.compare.	900	in	rrsig	NSEC3 8 2 900 20260205065923 20260122060016 7680 compare. U8jQ+juPEdkcQ+EB7cV1fuqslhURjGkVSPi01ibGA/l1+0u0kh/WNRSMLzyONuuUwAdnL9BtiX0KSX/FxyUUNv+YFYhHKKNCFMwrBKPQLMZU5swzdWhbkLgtLcx50uuBaE2eVNUN7dwf+paLf8dSN9wB08qUgdDBkyLMC0p2SisNt3Gd/DPB6nj28jnRuzI4fDDPdmi0uyr4e9EgNMjS6A==
 languages.compare.	3600	in	ns	lewis.ns.cloudflare.com.
 languages.compare.	3600	in	ns	olivia.ns.cloudflare.com.
 laptop.compare.	3600	in	ns	erin.ns.cloudflare.com.
@@ -1479,6 +1497,8 @@ lazard.compare.	3600	in	ns	udns1.cscdns.net.
 lazard.compare.	3600	in	ns	udns2.cscdns.uk.
 lazardassetmanagement.compare.	3600	in	ns	udns1.cscdns.net.
 lazardassetmanagement.compare.	3600	in	ns	udns2.cscdns.uk.
+lchnder82nhs6gv6aoemp2dci561dhhn.compare.	900	in	nsec3	1 1 0 - LSI00ACDHRE9NFR2ARF8M5CJ9EOT83H6 NS DS RRSIG
+lchnder82nhs6gv6aoemp2dci561dhhn.compare.	900	in	rrsig	NSEC3 8 2 900 20260205065923 20260122060016 7680 compare. SwHBRANT/UUzM+9kSUZjLlnoWrJFm0Jr+/Ekr54LFv+2qJwDWKTOQb6EoYXyu3LQ33W11nAhYxbYBTOsg7YlA0FRIACJs29sDSmUqTcDb5p+7D5GM8YJZzpJH4NNoPyE/YgUv7BpaA+9aQHexExmwaDb/in/lCwSiOg1jtgOqVZC7k+wtb/FrLHCNK6VkGXuzvZ7z9oR39g5+LMuFZZdnw==
 learningsuite.compare.	3600	in	ns	adaline.ns.cloudflare.com.
 learningsuite.compare.	3600	in	ns	quentin.ns.cloudflare.com.
 leasing.compare.	3600	in	ns	ns-180-b.gandi.net.
@@ -1524,7 +1544,7 @@ lookingforbooking.compare.	3600	in	ns	ns-158-a.gandi.net.
 lookingforbooking.compare.	3600	in	ns	ns-158-c.gandi.net.
 lookingforbooking.compare.	3600	in	ns	ns-250-b.gandi.net.
 lsi00acdhre9nfr2arf8m5cj9eot83h6.compare.	900	in	nsec3	1 1 0 - MCN9NF4BDVID5089CSFAG13TCNB88HS8 NS DS RRSIG
-lsi00acdhre9nfr2arf8m5cj9eot83h6.compare.	900	in	rrsig	NSEC3 8 2 900 20260119235216 20260105231114 7680 compare. Iaki5zQxVlt/4qTZXPEA2Q52WQDZZTN/f3n+8Uh4fAQu/j8D17TNej8rlI3zVsfDbBx+HQtHU4LjImeb3oVth1HQ8XeLC661x0zCXB5CO7vNTkHBzfEBZkDZSuNJL+bvIX2+d5H5LM7y9QY0fdzTEdGTTx4svJNtdnlQfF22PqzOosLwsFP4Awqnr3twsfR0KPZ3CrTAelIA5wx1eYE2eQ==
+lsi00acdhre9nfr2arf8m5cj9eot83h6.compare.	900	in	rrsig	NSEC3 8 2 900 20260206223814 20260123215118 7680 compare. NWfGAMgvMx0Jyd0SRkwwti0L0owUth5hctTqn437krBvBiJZmJ8nS/8T2Uu0GnOC79ZTJLQ4JRPoQcEa36IkONnMlI0irGswwSuJKaZf5SBX+5ncW4XgHrnu8ozdCSbd4jmPhlGXfnijkkWJy0Z/sU2KaSuxYTzS0WAQiHofvsO9sVg8hK+EMV+eOFiPDd5Il90asi85o+dgdefsc9BJvA==
 lxr.compare.	3600	in	ns	ns1.markmonitor.com.
 lxr.compare.	3600	in	ns	ns2.markmonitor.com.
 lxr.compare.	3600	in	ns	ns3.markmonitor.com.
@@ -1586,7 +1606,7 @@ matter.compare.	3600	in	ns	salvador.ns.porkbun.com.
 mcafee.compare.	3600	in	ns	dns-a.mcafee.com.
 mcafee.compare.	3600	in	ns	dns-b.mcafee.com.
 mcn9nf4bdvid5089csfag13tcnb88hs8.compare.	900	in	nsec3	1 1 0 - MK1G3QC67VU5MC87EE7T09ST9M9AOTQN NS DS RRSIG
-mcn9nf4bdvid5089csfag13tcnb88hs8.compare.	900	in	rrsig	NSEC3 8 2 900 20260116122534 20260102114303 7680 compare. DRBUNYTQ14Jwxz9ivo62Kl16S3W8qsB7wkQEM3wj0d+vUj30ea7dsnrrAb++a7i3P/f4v/R8cpewwcWeZras43apEJnAZwACs0UAZJXFw64cPFKWubJU9rrBL6VSS0cQv4Eg9guiGm4ZVd7arXnp9QaZ/vlEj94g+MTGciIFrEZdO7fHoyl4BzIUuHDWOsMDPqqEzZe7DfKKUAWHRbtSqw==
+mcn9nf4bdvid5089csfag13tcnb88hs8.compare.	900	in	rrsig	NSEC3 8 2 900 20260203102339 20260120100354 7680 compare. ecPkeg9qBFwI1z/jJDsLzaON4GwrO1TLmwbnbEGApi4U4TDoksh21boKqoMcAVa7bWc8O7QUmBiA9+uib2zztxqwmSuhcglw1DsbvS6tLZHnm283Q/A/UpsRnCLDaboysxR0q79GGcqBqFHOF2R1LCamjDG6k3Vqx0ZMtv+WbeyYmqRDBL6P9F4YrlM1RTlkBjEDPNRCjtNcumVn2ooK4A==
 me.compare.	3600	in	ns	josh.ns.cloudflare.com.
 me.compare.	3600	in	ns	lily.ns.cloudflare.com.
 medible.compare.	3600	in	ns	ns13.domaincontrol.com.
@@ -1685,7 +1705,7 @@ misight.compare.	3600	in	ns	ns5.markmonitor.com.
 misight.compare.	3600	in	ns	ns6.markmonitor.com.
 misight.compare.	3600	in	ns	ns7.markmonitor.com.
 mk1g3qc67vu5mc87ee7t09st9m9aotqn.compare.	900	in	nsec3	1 1 0 - MP1V58QVH44MGV2LS5JJMCLJ1V2QMDQ3 NS DS RRSIG
-mk1g3qc67vu5mc87ee7t09st9m9aotqn.compare.	900	in	rrsig	NSEC3 8 2 900 20260116122534 20260102114303 7680 compare. AorLRqOvNyC07lkbKv/wFOtspK2khiPIizGSPkCmzWDUubowc90lnNOhrwsDcDOYKcwAhWyvlH1u9hKOKRM33bfh1Z7DKwORTq+hKi2K30wkGavzz5lv+rmrM19UjHOBF0z2PQDa19v2MT5X/ELfOlGXo2pyhr8OCW30JwuyHDr9Mk/eO/u6EW87n1B/JIx4g5GUPXjfbuPvhxeY7IYTUA==
+mk1g3qc67vu5mc87ee7t09st9m9aotqn.compare.	900	in	rrsig	NSEC3 8 2 900 20260203102339 20260120100354 7680 compare. P1UEK5o29yLVyi0q1XnatJhE3K+pz5GjWFkiGl6UIaKi57G2mM/WMQkla1dB5kVIGC1xWVZLbHVQhBRfl02qC8yNzeM+7zTaEK28B7iE9UdbxJlh0VyXDemRPokyl0RpdqZ1QjDF8aehUix4H8aCGkwxuXIVM9llRpfBc1r2VrEl0R+hIjq2x9cfj1Z/+f3AZ2WthgrqXgpmvJG5HmiXJQ==
 mklwb.compare.	3600	in	ns	autumn.ns.cloudflare.com.
 mklwb.compare.	3600	in	ns	todd.ns.cloudflare.com.
 mobiel.compare.	3600	in	ns	ns-245-c.gandi.net.
@@ -1704,7 +1724,7 @@ money.compare.	3600	in	ds	52101 14 2 16163F80B14AAA982B08FE2FA1355AD11D896CEE411
 money.compare.	3600	in	ds	9678 14 2 CA0FC87F76C4099D5995C84C062CADA1CC40DF0622E95BF3F5AE1DD275C639F1
 money.compare.	3600	in	ns	ns1.money.compare.
 money.compare.	3600	in	ns	ns2.money.compare.
-money.compare.	3600	in	rrsig	DS 8 2 3600 20260114052038 20251231051505 7680 compare. CAjeK+DrqgYVqPgKLQdIE1cW0X+UWiW+9b1QGUQhnCn5oE7oaG1++N7Dof6yyFSCH4U1ubqCgE6ltRYXx22JZyQaTYYOxyZLoT259fZJBcG0nQOz45agYcU4idsTCdpOQ7RA6C4g68m5uYTSE7PufIoZxMZvE/aBpvEFOp87/UyASMi4XrtkiHa/q8jqVutFjXgmwuPiSnZJ8XBucwZkqg==
+money.compare.	3600	in	rrsig	DS 8 2 3600 20260207021530 20260124021136 7680 compare. aP9tctJ7josRnmLEtuw62NsAJtazROG9Ms71DVICp5wVatGdfvk63BE/fvFwUX3uZ1V1OXsFPALkjkgEJohno+VK9uf3JreQR3KrB7jNt8eIVAD7qlotNGhuOGGAmrKxFkvhOT4sazAp+PLTYx8b2zt0AiE/ZtpGEiTy7C5Q8/bZkc2wlDS/d0PxjJzZ9YNXZKvLHJMNM+TKO7rGYyZkCg==
 moneyfacts.compare.	3600	in	ns	ns-104-b.gandi.net.
 moneyfacts.compare.	3600	in	ns	ns-30-a.gandi.net.
 moneyfacts.compare.	3600	in	ns	ns-37-c.gandi.net.
@@ -1714,9 +1734,6 @@ moneysupermarket.compare.	3600	in	ns	dns1.cscdns.net.
 moneysupermarket.compare.	3600	in	ns	dns2.cscdns.net.
 monster.compare.	3600	in	ns	ns1.101domain.com.
 monster.compare.	3600	in	ns	ns2.101domain.com.
-morethan.compare.	3600	in	ns	ns-22-a.gandi.net.
-morethan.compare.	3600	in	ns	ns-224-b.gandi.net.
-morethan.compare.	3600	in	ns	ns-36-c.gandi.net.
 morgan.compare.	3600	in	ns	ns05.jpmorganchase.com.
 morgan.compare.	3600	in	ns	ns06.jpmorganchase.com.
 morgan.compare.	3600	in	ns	ns1.jpmorganchase.com.
@@ -1744,9 +1761,9 @@ mouse.compare.	3600	in	ns	salvador.ns.porkbun.com.
 mozo.compare.	3600	in	ns	ns01.future.net.uk.
 mozo.compare.	3600	in	ns	ns02.future.net.uk.
 mp1v58qvh44mgv2ls5jjmclj1v2qmdq3.compare.	900	in	nsec3	1 1 0 - MP3N20GS4J2T3GM5QLEJNGPUDVT00E4R NS DS RRSIG
-mp1v58qvh44mgv2ls5jjmclj1v2qmdq3.compare.	900	in	rrsig	NSEC3 8 2 900 20260115230002 20260103183333 7680 compare. Zq6HimialRZEKlUt9jDUDbwT+VxFd81d119kKQyON3dg9JnbK4ynz1WtHGPpq+bxDJfVTa76v2Tvi3w91dnmFaqj0ogkJ7C4m9xXJ3SMhDPjHU9U2putd4GEziHZgCEbKlWSE9gHXtrBdbTXeMdj0l82T+QCcPS9vEJeZgZ5ugvekBWmZTKDJF+hszqixOaEFE67H2UEeTVa1Itf9xEYKw==
+mp1v58qvh44mgv2ls5jjmclj1v2qmdq3.compare.	900	in	rrsig	NSEC3 8 2 900 20260202212549 20260119210525 7680 compare. KDmpNtIao5REmVrOb5UYg3q7qS/szuNWvhkJebAxRiSblKfo2ndJkhk3Ag3P2fjBGc39ITH/lbEb8gHAsvZmR5vSN7meXNZc/cCw0ADsNXgLWRKXmMHDLzyd1ClH9VtMYAwD6w5gAuLXKuanI6u4sEDilttYyWdrF6EiqbBpVtSpWotIo5CA9R7V0YpR2qiKoSS0em6n7ExlqLF3P5dRpA==
 mp3n20gs4j2t3gm5qlejngpudvt00e4r.compare.	900	in	nsec3	1 1 0 - OK3KSNN7JLVE673ISUMNHG5RT41KNDRH NS DS RRSIG
-mp3n20gs4j2t3gm5qlejngpudvt00e4r.compare.	900	in	rrsig	NSEC3 8 2 900 20260115230002 20260103183333 7680 compare. YQ1pJE81RbgfvHMeh/dTtfq8jSfaLOqugk4PeLUXM3Nrdz+kmDsUeP5yD8hyHUJKRn+nWCpKAR8wP6xJbe4Az61+tdpSDrarBcCx5idoam0kcbRVrCK7ew6PPzsFsUr3TMJ5z3TjKJfg2FofX+h3MhOjgQfcUjjI4A7Jt/T3mFKLtixdFKG4sriJVrMapWaUotz6afOeWZTDhUhxlGSyxA==
+mp3n20gs4j2t3gm5qlejngpudvt00e4r.compare.	900	in	rrsig	NSEC3 8 2 900 20260202212549 20260119210525 7680 compare. YD5bpF/201/52K/Rl76mYUZ5v4NI2oSVVK54Fej3G9kWKXS9XexHWz26dtgVX2VeeKQ6QT2eMCvF0HFwmwM2xZ55D1b2tpmLGfvqDI2xTJ6vCksSdeBMdQV3rQhMGDh0Rm7yT9UpEGRhBVbY3HZ2Zz6PPpsQoMd3q97WJhLsW6UMXgYR1nZIvGeKAEmegtRxGbkl/7OtpTlU2aYrWdMzkA==
 multifocal.compare.	3600	in	ns	ns1.markmonitor.com.
 multifocal.compare.	3600	in	ns	ns2.markmonitor.com.
 multifocal.compare.	3600	in	ns	ns3.markmonitor.com.
@@ -1786,8 +1803,10 @@ nft.compare.	3600	in	ns	ns1.atom.com.
 nft.compare.	3600	in	ns	ns2.atom.com.
 nfts.compare.	3600	in	ns	ns75.domaincontrol.com.
 nfts.compare.	3600	in	ns	ns76.domaincontrol.com.
-nhatvip.compare.	3600	in	ns	piper.ns.cloudflare.com.
-nhatvip.compare.	3600	in	ns	yevgen.ns.cloudflare.com.
+nhatvip.compare.	3600	in	ns	curitiba.ns.porkbun.com.
+nhatvip.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
+nhatvip.compare.	3600	in	ns	maceio.ns.porkbun.com.
+nhatvip.compare.	3600	in	ns	salvador.ns.porkbun.com.
 nic.compare.	172800	in	ns	a.nic.compare.
 nic.compare.	172800	in	ns	b.nic.compare.
 nic.compare.	172800	in	ns	c.nic.compare.
@@ -1795,7 +1814,7 @@ nic.compare.	172800	in	ns	x.nic.compare.
 nic.compare.	172800	in	ns	y.nic.compare.
 nic.compare.	172800	in	ns	z.nic.compare.
 nic.compare.	3600	in	ds	26482 8 2 1997E5A2C09DCAAFF875A783D0073AD2E4B574203ECDF1E1BCF0BE57DD72DA2F
-nic.compare.	3600	in	rrsig	DS 8 2 3600 20260115155759 20260101151559 7680 compare. ddbDQUgpz8AGZtntW0Qv/iwqaxYqSzidpqLRcILWDkjTrUiaIlkjoYeTBDSkyefcInevBNCR8/mJ3d1lEgadHo+HYkvCNkcBytRmTqwUxWTWG6I82Mo4aOn2yLdypYvRpXKLPj+PZE3JHPECgl9Naw5C6h/Vvsjpkmh/L+sXu8dccyWKfmWm6gR4y9voCefbpT9EhKpDZM0IUk2DkpAoNw==
+nic.compare.	3600	in	rrsig	DS 8 2 3600 20260202145417 20260119142818 7680 compare. EJcGyRkBt8trUirXTKfvLqaxXwDA2/PRccn7zHQR+dxhqhOuxWpFFjMCgtdJW3ZyptoOCtbakKAy9sLMjc5eQvAhEbRFXHTmlKSJOZfFvwk+hhfxzJR8on8Bh1S1lKnD7hP6E6/Ge/zq0hPqGmca6UgDHZboUznZjJH3VTycdM/Fhvgeg6eytKCv7lTbZPPOWRptOsQfuK10cqpXzAuhVg==
 node.compare.	3600	in	ns	barbara.ns.cloudflare.com.
 node.compare.	3600	in	ns	keanu.ns.cloudflare.com.
 nohu.compare.	3600	in	ns	aitana.ns.cloudflare.com.
@@ -1831,6 +1850,8 @@ novo.compare.	3600	in	ns	maceio.ns.porkbun.com.
 novo.compare.	3600	in	ns	salvador.ns.porkbun.com.
 ns1.money.compare.	3600	in	a	194.163.160.122
 ns2.money.compare.	3600	in	a	194.163.160.122
+nursinghome.compare.	3600	in	ns	connie.ns.cloudflare.com.
+nursinghome.compare.	3600	in	ns	guy.ns.cloudflare.com.
 octopus.compare.	3600	in	ns	ns1.m4hosting.uk.
 octopus.compare.	3600	in	ns	ns2.m4hosting.uk.
 octopus.compare.	3600	in	ns	ns3.m4hosting.uk.
@@ -1853,7 +1874,7 @@ offers.compare.	3600	in	ns	ns1.digitalocean.com.
 offers.compare.	3600	in	ns	ns2.digitalocean.com.
 offers.compare.	3600	in	ns	ns3.digitalocean.com.
 ok3ksnn7jlve673isumnhg5rt41kndrh.compare.	900	in	nsec3	1 1 0 - PEPGTEN0AF7S2870093EUNUDS0QLS71D NS DS RRSIG
-ok3ksnn7jlve673isumnhg5rt41kndrh.compare.	900	in	rrsig	NSEC3 8 2 900 20260116004133 20260102003237 7680 compare. ERH3794KonshCTYxTKIXXQhtIqxc6IrzEUpmPLF8UaePrqsHm5G2w7mXEUD3FIUJ4EjYnais8DVqkosklHjHWnsq+gdNQrlZ0m60dZO9fkcbgLDaCVbGB6IToVzkgyyz5BApO/zC29C3DHwXGMaWXVm9b4M0dNhxNmP48rUAWLxmrjD9usNIlCY5xZjh/qTPtFrb8wNarcUU0GcspjPwlA==
+ok3ksnn7jlve673isumnhg5rt41kndrh.compare.	900	in	rrsig	NSEC3 8 2 900 20260202231436 20260119223755 7680 compare. Z5PXQLTLHGkupqnTWbTSZKBm9Vyepdqm9jozBmaBDd3FQxdLPQmdtVWnYbLBNNffTbc7dHJjx6GoWMQqaKwEmJoIQSD6zaVlzWWUzCT4djs6H167YI79JNYOqLAkdKE1w+4FzLhfXyH8WFSWKOj6L9ymzvzSBN3r0+P6tSRn5rau6Zvq7EqVJVS4YyBJj0sm6smkMh1F9HmCnJ0RJ8PFGA==
 okrsoftware.compare.	3600	in	ns	ns.udag.de.
 okrsoftware.compare.	3600	in	ns	ns.udag.net.
 okrsoftware.compare.	3600	in	ns	ns.udag.org.
@@ -1862,7 +1883,7 @@ omni.compare.	3600	in	ns	ns18.domaincontrol.com.
 onchain.compare.	3600	in	ds	16099 13 2 711E03899FE3104C5E730AF3DD2DC6ABCA454D22DA16033B4F785A7403A58A4B
 onchain.compare.	3600	in	ns	launch1.spaceship.net.
 onchain.compare.	3600	in	ns	launch2.spaceship.net.
-onchain.compare.	3600	in	rrsig	DS 8 2 3600 20260119235216 20260105231114 7680 compare. RBn3OTETYkumvQ7J6X2vpYVmPvStohY2aoqrL6PPltPs4GwojIGnN6Sw/gwDk/Bv9x6DpKK3RwmIsXGa6ERbi1JCzzrmcwGCvY77BtyOsuQKnUYRLi6OHX0uUewkj3yl7xEyaxOwJbN3dgI91zx9LCRRwquTOS8x5yIU3AoVI2/8TH7BTsk1IfhhZQDq1FE9CdC8aBXSuuZT46Qst834EA==
+onchain.compare.	3600	in	rrsig	DS 8 2 3600 20260206223814 20260123215118 7680 compare. BLIidvNGYngf0PfYck97y0Emc7ebjpidtSN+EsVDHKfFQTNV2RPO/PL2g37YPNQtbebv6NB7VMH/u4BYkSn0eG5fDJ3Behg26bPoFos2WFN5j4+IPuktUr9kQz/qvpX1k8gp8bHaEr4pHzIdNoCACtMPUtInz9xbFTmivo+vpmCctz70dl+riPCEq/APGqQMa4EaYpluvmYBX2T/Siz4Cg==
 onlinecasino.compare.	3600	in	ns	ns1.101domain.com.
 onlinecasino.compare.	3600	in	ns	ns2.101domain.com.
 onlinecasinos.compare.	3600	in	ns	ns1.101domain.com.
@@ -1907,6 +1928,8 @@ oxygenbleach.compare.	3600	in	ns	ns11.domaincontrol.com.
 oxygenbleach.compare.	3600	in	ns	ns12.domaincontrol.com.
 pagespeed.compare.	3600	in	ns	bingo.ns.cloudflare.com.
 pagespeed.compare.	3600	in	ns	yisroel.ns.cloudflare.com.
+pairwise.compare.	3600	in	ns	elsa.ns.cloudflare.com.
+pairwise.compare.	3600	in	ns	nick.ns.cloudflare.com.
 parking.compare.	3600	in	ns	ns1.onlydomains.com.
 parking.compare.	3600	in	ns	ns2.onlydomains.com.
 parking.compare.	3600	in	ns	ns3.onlydomains.com.
@@ -1916,7 +1939,7 @@ pendo.compare.	3600	in	ns	dns1.ipmanagerinc.net.
 pendo.compare.	3600	in	ns	dns2.ipmanagerinc.net.
 pendo.compare.	3600	in	ns	dns3.ipmanagerinc.net.
 pepgten0af7s2870093eunuds0qls71d.compare.	900	in	nsec3	1 1 0 - QDJ06G87237IDQ8282ERA3NBOD5U9ORR NS DS RRSIG
-pepgten0af7s2870093eunuds0qls71d.compare.	900	in	rrsig	NSEC3 8 2 900 20260119215515 20260105213240 7680 compare. kUgS0OW2HJNiw9Oi3Bm3V66aW3S4HK8k8GUY5+TQ4Nl6aPUjOTags782s4PHXKcyqEgyYlGPIW6hldc8yFGBTM0jjC60i14ayAqMlFuQVvHBjdRZ1svZRd+uGdvvOARArf4SmfBlLXr8BqNOR+vCK7Gb7ttAILePaUWu6R6nWn3NsSV2JeK5J+gaqY7iMCgoG2Uq+5HuyN4ywbCojnxU7g==
+pepgten0af7s2870093eunuds0qls71d.compare.	900	in	rrsig	NSEC3 8 2 900 20260206205246 20260123195732 7680 compare. NH/jgMdOO688KwtovRDDVEyJAMcLbDBbGVqSCGaQYmXy/c7g8go9c0m/lLTvqpnfwrsIWRBjiIEmB4Riut1YbUDxmhiQDMA7guWE2RJqEBBgPuVoLvZhdTVx2amIUkl04tM4qJIa1D0MYDZJvRbAXlhr9dqW7bJ3OM5aSHyLApZBTEruq7pcez+25Nrqdph9u4GZyhC8oUvqozU95+x1hw==
 perf.compare.	3600	in	ns	ns1-240.akam.net.
 perf.compare.	3600	in	ns	ns4-64.akam.net.
 perf.compare.	3600	in	ns	ns5-65.akam.net.
@@ -1928,7 +1951,7 @@ pet-insurance.compare.	3600	in	ns	ns58.domaincontrol.com.
 petcare.compare.	3600	in	ds	50731 13 2 466B78C2EB6FABCCF8CD89CDAC904EA3C16F550884B19F8189FDED9E43338FD9
 petcare.compare.	3600	in	ns	launch1.spaceship.net.
 petcare.compare.	3600	in	ns	launch2.spaceship.net.
-petcare.compare.	3600	in	rrsig	DS 8 2 3600 20260116051946 20260102045200 7680 compare. jpugCRQe3PZZ0taJGKx+2HCH35wUA8jQ/cx0c6Pv9uYNMCPji1ChtNhUkglZkZMwFucBStjNo94PJSIBPFgL9vW/d8S5p538wxv6BrLus83E4Q/bsczV4DyNDRAOUs5m0zNW7fg3lEF9PZzOeKUFz13i76So62Ea9MOdJPQkqDpeK9bFUetrK0/hVdCFWghWMtrWelwA+zxRIpitpAolFA==
+petcare.compare.	3600	in	rrsig	DS 8 2 3600 20260203042558 20260120035605 7680 compare. bdzRX2Py6sgVrCkOrh8gqlURGwRnJLFTgPPxv0MFuMuoQwVrOeMAhqh+CoCHalwapvRXy1JfboSOXH+iwqmOk04/yBKBhPUiPzH/ipC3fqhWdKUI5Xuqsjc4n1AQCiLGPPBBYIa6k8wnO0gb0Xj10O6GImBtm6ivfz9tfMzdWuYd44eg5qpWPn+vHC0LNN/NJ43DmukeMq0o/RISvnroDw==
 pharmacy.compare.	3600	in	ns	rocky.ns.cloudflare.com.
 pharmacy.compare.	3600	in	ns	romina.ns.cloudflare.com.
 physicians.compare.	3600	in	ns	ns45.domaincontrol.com.
@@ -1956,10 +1979,14 @@ poets.compare.	3600	in	ns	ns36.domaincontrol.com.
 poliswijzer.compare.	3600	in	ns	ns-0-c.gandi.net.
 poliswijzer.compare.	3600	in	ns	ns-105-b.gandi.net.
 poliswijzer.compare.	3600	in	ns	ns-252-a.gandi.net.
+poliza.compare.	3600	in	ns	gerardo.ns.cloudflare.com.
+poliza.compare.	3600	in	ns	megan.ns.cloudflare.com.
+polizas.compare.	3600	in	ns	gerardo.ns.cloudflare.com.
+polizas.compare.	3600	in	ns	megan.ns.cloudflare.com.
 porno365.compare.	3600	in	ds	14692 13 2 B6D4ABFBAC32DD617FBF1A05A4C01DB625E52CEFCADCBBDB4A6D38ADE2476405
 porno365.compare.	3600	in	ns	launch1.spaceship.net.
 porno365.compare.	3600	in	ns	launch2.spaceship.net.
-porno365.compare.	3600	in	rrsig	DS 8 2 3600 20260115155759 20260101151559 7680 compare. K/lEtNvt1X/6Bmqs7Sh+si/Z9jTBnTyq+COmxT3FuGrDqDsivwv9VEeJqy5IXa58fc4gZgfiC1uWJujVqXGD1hejO9IgFRju7WB5gRFGYiuukTCLhwE102Or8XmfQXqk/YaMqysRxXO+ggKRwlJKoSr7zS9tOQFhWhPayOHUP6q0LxQZyjCGz+MTrEPj4HlLTE8RhL08oRUlUY9hSDLl7w==
+porno365.compare.	3600	in	rrsig	DS 8 2 3600 20260202145417 20260119142818 7680 compare. DsZ+mIf0S+e07cq/OgKGLSNN5th5kYPkmqQSEe+Nqc52iW9OUjIdqtDBsAWo9KrgQqQpVzXdFgtgfB9vg+MleiDyafrGegVfztorRVdxGSPwgssF8EG6/Q1W2MSBuSTpN1Z26Furb3KA0L6+AlgXVB1S/I56QAxB+ACWxTSd4f2+SbsbSNclydxvNuTJch8L8ml9wLNcGWM0i4A2HKr7Xg==
 postbook.compare.	3600	in	ns	ns1.domain.io.
 postbook.compare.	3600	in	ns	ns2.domain.io.
 postgres.compare.	3600	in	ns	etta.ns.cloudflare.com.
@@ -1981,7 +2008,7 @@ prayerapps.compare.	3600	in	ns	ns02.cashparking.com.
 prayernook.compare.	3600	in	ds	2924 13 2 88AADEB4E06E2544E84A215CD9829283902BA33670FF89679D6804354A703548
 prayernook.compare.	3600	in	ns	launch1.spaceship.net.
 prayernook.compare.	3600	in	ns	launch2.spaceship.net.
-prayernook.compare.	3600	in	rrsig	DS 8 2 3600 20260115155759 20260101151559 7680 compare. ippVVOgTFsoPF9dEZw7ctFMFMCiFTs7iGTItKfE8WvRXi/W82c4fgNJ7RS9Wv7ykVMPdTEiCMPSH/hCz6sGJk1QZ+lk9prkp8V5cYQmHs6kjsqqQF5Ew7JifdtD/Actjgi7AYHcbNJJHJq+DjTQesAl04i1No1U1NjpLDTLU4yjduKfCkuvJfjoG3Yig9cgsfk/JgupYwxHJpRimrkXnBA==
+prayernook.compare.	3600	in	rrsig	DS 8 2 3600 20260202145417 20260119142818 7680 compare. Esj3vpsvNdHWpfJX2vjFJ58QleHBn8BoAVu9Tuto37E3LDavVND68GUZl4ibDTWGj8EeyYEIwebkTL8YpUxFzHJadxapeymYRR/noUcqJnAOl/99rB0mkWVNVdEKIaaaOOfnV8+CItMeLdPxRk1499yyVSEDo1yVLNdxEI40sC2imlPHtthp4oKVweoobQboHMuWfYuoVLo5NIOaegX3Yg==
 pretimmobilier.compare.	3600	in	ns	ns-165-a.gandi.net.
 pretimmobilier.compare.	3600	in	ns	ns-167-c.gandi.net.
 pretimmobilier.compare.	3600	in	ns	ns-198-b.gandi.net.
@@ -2031,15 +2058,15 @@ pubs.compare.	3600	in	ns	ns2.sedoparking.com.
 pwuorkn1.compare.	3600	in	ns	kara.ns.cloudflare.com.
 pwuorkn1.compare.	3600	in	ns	tim.ns.cloudflare.com.
 qdj06g87237idq8282era3nbod5u9orr.compare.	900	in	nsec3	1 1 0 - QE3OS11G39E1NSDA86T6VQDKV5A6DH7O NS DS RRSIG
-qdj06g87237idq8282era3nbod5u9orr.compare.	900	in	rrsig	NSEC3 8 2 900 20260115144907 20260101135050 7680 compare. Zqy/Lp2iHvGP7ZLgIWQj/w6Fefq+1mD5oypbrNAtNBjPoLuTg8jXPlAtCdcrKBfDkod44VITJAjH2dvefYAlWNY2c5/RIEYGQc+VtlFPVDsm8NAqsudVmwfD7DrfMrCE+qOXChThBNNjNThucON75/f/htlnir8cWmdWF5Iflw8/jBmXk901d6tHtnCVyjyxtmWHO1Styx26j57zvE0RXQ==
+qdj06g87237idq8282era3nbod5u9orr.compare.	900	in	rrsig	NSEC3 8 2 900 20260202132929 20260119123523 7680 compare. BobjpPGWynzKLF++vBdaYLqrQ9Ls+o74GFfwqlX/lxirRbappDcS4JV4zI85atz/8QD+VEyF4GCaAMsUWCu8/g9mUvsjJRLyMStbGKYitl6SDhLIHPfPq6AftnhFKy0SwM+N9zKwTpOzSSJtiY21UqTXgjGzBUkdKqllS+ZSFrCh4L/gorYobkSfB+7Y7vQFcC80olMdTRcRqX9pYgD8zA==
 qe3os11g39e1nsda86t6vqdkv5a6dh7o.compare.	900	in	nsec3	1 1 0 - R6QVVN2AJ5OS2CPOD0LU6353C11EA7FN NS DS RRSIG
-qe3os11g39e1nsda86t6vqdkv5a6dh7o.compare.	900	in	rrsig	NSEC3 8 2 900 20260118042915 20260104041347 7680 compare. cEZGOpsQ0sqvBVpHlVXXfUjJgU0gp+gMa//zDHo/S8SZd0OVq83MpqUuNsWlInMCbvQAFzDS5Ajajlpcu3NxZi+MdfYxjaS65yeOZsEqw7yrKhu0Ma+2L8t0OOTocfg5cSD7bjXY8K/1C1PXDF2hmryU8zlNk+WzfKT906dKvYaMCA6+nf1IxwqW9Np+ADmFQjsr0am5sQYcglwWe9820A==
+qe3os11g39e1nsda86t6vqdkv5a6dh7o.compare.	900	in	rrsig	NSEC3 8 2 900 20260205034819 20260122024837 7680 compare. O5jR7nm9J+7vESxN86eQ6rkFkm/dZS4pswUInBL4jLQP/n09rctOGYZesDv7cDW7rzlAH9sx5TRIoL/f/NEoVE20HwRHGi5H7Wm2Y6ux6Ll9/tmHH5yW8ziKIEyBbwMOLHhilzkLOaoxA52ZDNdKPwVo2QjCY+UpvcrYqgDdG8qeGahkGfUDVUW9S4qeGU57TsPF+kKde1ydzGxrxB+Y4g==
 quote.compare.	3600	in	ns	marjory.ns.cloudflare.com.
 quote.compare.	3600	in	ns	sam.ns.cloudflare.com.
 quotey.compare.	3600	in	ns	ns11.domaincontrol.com.
 quotey.compare.	3600	in	ns	ns12.domaincontrol.com.
 r6qvvn2aj5os2cpod0lu6353c11ea7fn.compare.	900	in	nsec3	1 1 0 - SHE159C4PEU3SD7UBLQRFE0T00DKN98V NS DS RRSIG
-r6qvvn2aj5os2cpod0lu6353c11ea7fn.compare.	900	in	rrsig	NSEC3 8 2 900 20260118144512 20260104141258 7680 compare. GTQaW7/wXZEdXEFrfuLJdPI4Sa7NzR/r2fkDjaojGVtB0xOKw61bEqZWBpnBQaN8KFM1PvICYcnMgYrN11kQSTCa9eQxXXF5vYIT7uRhpZO8t3r4KK2XzE6jk39PdDT2fEXxqcxBAXF/gbRQZ6nwRMhNWmfPd2LrnPXNlADwFJHWXkj0p8pWP7w/DIxI5aaUtFWv1tY9litzbYI1tC8VMw==
+r6qvvn2aj5os2cpod0lu6353c11ea7fn.compare.	900	in	rrsig	NSEC3 8 2 900 20260205134237 20260122125532 7680 compare. gU8kizLptk3MhPYyOGFtoFXuZ/YN1fCgmP8sAZrZHxKVzC8nLwxhR4+UgJLwgPuDtmg4bXQo2hBA9NllH0qzjUmAABopqyJ6org4nWRR8zMzSExBmOaQ2YoZ9nwas/YnBHvMN6nN60YTItNURNIcny2KYbLhHui8cwmCQ7D5Yn6bV3e42p6gC+WmzSxoTABH8wgpUkrG5OSgUg2p09nY8Q==
 rakuten.compare.	3600	in	ns	nsgbr.comlaude.co.uk.
 rakuten.compare.	3600	in	ns	nssui.comlaude.ch.
 rakuten.compare.	3600	in	ns	nsusa.comlaude.net.
@@ -2088,6 +2115,9 @@ relay.compare.	3600	in	ns	ns.wedos.eu.
 relay.compare.	3600	in	ns	ns.wedos.net.
 release.compare.	3600	in	ns	ns21.domaincontrol.com.
 release.compare.	3600	in	ns	ns22.domaincontrol.com.
+remit.compare.	3600	in	ns	ns1.hyve.com.
+remit.compare.	3600	in	ns	ns2.hyve.com.
+remit.compare.	3600	in	ns	ns3.hyve.com.
 remote.compare.	3600	in	ns	ns1.atom.com.
 remote.compare.	3600	in	ns	ns2.atom.com.
 renew.compare.	3600	in	ns	ns59.domaincontrol.com.
@@ -2113,11 +2143,11 @@ rexroth.compare.	3600	in	ns	gwa2.fe.bosch.de.
 riptide.compare.	3600	in	ds	2371 13 2 6D0CD940B3B6C1BE9B99413E735479259AF3C38F994B4E2CFD241B0735053674
 riptide.compare.	3600	in	ns	cheryl.ns.cloudflare.com.
 riptide.compare.	3600	in	ns	gerardo.ns.cloudflare.com.
-riptide.compare.	3600	in	rrsig	DS 8 2 3600 20260115144907 20260101135050 7680 compare. RKnA2qzj3J/cXNg+nTUp5y9DpsF7rlMzBxXd5aNDpMbUZWqFnvfE/0CKTTtSEHPGjzsHp3qmFS9m2oGhEQBoTeDIMR25PbNYcfTFnCDTmiXYCod/x8Al3BdXS4h9BY/TLWvDjh1ladOz1qYkf7jxMoWFYIT5whPyAHspQF76Yn2erKFfLOen2r+e8luQSm3G1fu5DBruRAIHX17569Zx2A==
+riptide.compare.	3600	in	rrsig	DS 8 2 3600 20260202132929 20260119123523 7680 compare. jFxtlJO8pn/vTulDpsS155Rbq9BlOOZ1plUFodj5UC0SWXZSdji+5/CcYPUofgywMaRpGwdv1zKdn+Hym+LjAa9oo/Nd810s8gG+m1rkUg8WTyEMh2bq/OdcpBpOK5RPlYYZgKfDFJS+jzMLRw0k4k7l0krWuL1EuUxn7O2RTBrIBxIa+IfuX4E1EWADIFbSNTj7kKMnJ86K6MlY4IUUog==
 robo.compare.	3600	in	ds	39859 13 2 FCECE59027406FDF44A0016640F3D81CD2ECD5027E30AC16F3EB2F17C04BF2C3
 robo.compare.	3600	in	ns	launch1.spaceship.net.
 robo.compare.	3600	in	ns	launch2.spaceship.net.
-robo.compare.	3600	in	rrsig	DS 8 2 3600 20260118042915 20260104041347 7680 compare. GgIXnFScNYv/tNpL+OhYUqEZasklHe60cM2A6YXM7ghILjbOApTq+c2o0xa6F4GtdW5kdb0p6JHohK3vI9fgoYdUAD7nKSQj7faVORvrxmQS+eyAj//lnDE4M2SSsAx5iBz96stRmiS2EE14ysiGdRJUdJgg7y/9x4E0zjtiU0/QugbLbh7sNWVyEInbAtxef+XNqwaXFig27QzXNwRo9A==
+robo.compare.	3600	in	rrsig	DS 8 2 3600 20260205034819 20260122024837 7680 compare. OwpHBXsrJPw65B99ne1tnF7n8NpKF/1yZLsoLUWA545tYN1vedCENc0U25J6rtyvBWJngkAfUCREXcDbLaZ8ItvWGWqwtJTepEw55FCAeUKGawXKRfiGz6hIs18f2Iw7aeaq+aMcNQ1Z6P4NoptEKxqpdr653StF4nxjLkh9MvnoTHsxeh5wTVScI0WiurkR8pkXsltJ2sRAvCeZBdlnRw==
 robotai.compare.	3600	in	ns	ns05.domaincontrol.com.
 robotai.compare.	3600	in	ns	ns06.domaincontrol.com.
 robotic.compare.	3600	in	ns	ns51.domaincontrol.com.
@@ -2157,14 +2187,14 @@ savings.compare.	3600	in	ns	ns-46-c.gandi.net.
 sbc.compare.	3600	in	ds	2371 13 2 3D96FEB8E0A8BDC4FB9443E32DE3B58F99D3E205BE9E9846311E9AB74D928839
 sbc.compare.	3600	in	ns	bruce.ns.cloudflare.com.
 sbc.compare.	3600	in	ns	rose.ns.cloudflare.com.
-sbc.compare.	3600	in	rrsig	DS 8 2 3600 20260114060331 20251231051820 7680 compare. NnV7B0YgbeokCn+rK3ya+2c9YOCbIQZwz/amtWpCcvL2j3kmvh8hqUc1pOh1iC5MXxJY6wwFM0P5NDqe0cMnW0EeXWJiPXvBKEsIO8K0G4wV17FQ72DACsrEJVW8MHoLYNiLMuePZHx6XRKKiuuzhE5HeYa0lLRIilrG2Gw8Gdq1gSxqzP7AQeQB1c005h0DnK2esDo00WbfyyZoAP7OkQ==
+sbc.compare.	3600	in	rrsig	DS 8 2 3600 20260207042908 20260124040940 7680 compare. la6pIPl625l5QaubC0b2D/xIMyyEy8Jf8VzXUE1uiETrwkupfvq8U+2T6RTXsU8ay1PQeTq58SG+s6y9aSZWoh3E3a/xGU1DaPdoogL8PdYJVsQ4BfW1o84mipJQciDTEn/UOieEtM3CP+9lRKjEMbkFXiei1DYQt0kqH4FnK6wOMAhtrzoZxgp7Wp4MbS1ih9AxfKjlQvXxWB39OzYSCw==
 scientology.compare.	3600	in	ns	ns1.trendhosting.net.
 scientology.compare.	3600	in	ns	ns2.trendhosting.net.
 scientology.compare.	3600	in	ns	ns3.trendhosting.net.
 scout.compare.	3600	in	ds	58376 13 2 ECBB9554289BDB42E68E8F5A3E0686342D0F79A183C468A0778D5806598DEC36
 scout.compare.	3600	in	ns	launch1.spaceship.net.
 scout.compare.	3600	in	ns	launch2.spaceship.net.
-scout.compare.	3600	in	rrsig	DS 8 2 3600 20260116123831 20260102114952 7680 compare. NkMflT0Ks5FNbtsNjIUfoc1oVr/kzwurnBAZBCHOhc6OdAkZtphdKUGSSv5qZV41ECIPOSWj3sQg5M4dZCaBTXodq0P3MxVWQDeS24zKdW0pmMEbgpBSoPwmuJZzIkuAYkWXs+GQRIjti59v6HPOIoAWYbMthNNiI/7m31lIuYVzASw6nXbwgaCdl5Mtk03iYlRMxgryqB8BuSEIrTComQ==
+scout.compare.	3600	in	rrsig	DS 8 2 3600 20260203110340 20260120104051 7680 compare. ENGi2z/z0aC7tq/FCGxR1AVFMbkah375WMz30jcoRRPSF7i8gfUJMwlIwC/6x9K0lGVZX7vXVHO094G1P2jeEUijSeeAYo/s2VL39gUdzVXigG1H65r0J06jLV/GkTMhBVJA4ImHPL3WK3EC6P/8A62yjCogygPjf3qgfWMnNQc60L3BVtnFEo9c2p5RVwGVHyxHIC74yxuIIyNCefE0cA==
 searchmarkets.compare.	3600	in	ns	ns09.domaincontrol.com.
 searchmarkets.compare.	3600	in	ns	ns10.domaincontrol.com.
 seguro.compare.	3600	in	ns	gerardo.ns.cloudflare.com.
@@ -2174,7 +2204,7 @@ seguros.compare.	3600	in	ns	megan.ns.cloudflare.com.
 senior.compare.	3600	in	ds	31534 13 2 C1403B516DAE794A65D77C1E45C09C9C7BA30603693758E985DF3D64C41FD850
 senior.compare.	3600	in	ns	launch1.spaceship.net.
 senior.compare.	3600	in	ns	launch2.spaceship.net.
-senior.compare.	3600	in	rrsig	DS 8 2 3600 20260116123831 20260102114952 7680 compare. GlGk9w5bG/Se2fbCMzqzSENpdjYwLSuT3UrHiwdmiC8rKTR2fMeVDlLBdPDJUsUuKravRgsPNe3EEXOiOk0fqmow7Mly6R1eWcibjnjS5N3t21WiTOOVrQdH++0fudGrKwFt6qxqX8EMXyo/n/YAg9t+XL0WDWkSezzsqb/C7Ok43l8WGWCwjQkvUSEEUPYwG/WQya1jMgQ5d9cwhBpSyQ==
+senior.compare.	3600	in	rrsig	DS 8 2 3600 20260203110340 20260120104051 7680 compare. fn0DMZKUv2XuAU/OLH6uAptOnR2EoF4P1vLJ14Vbkcn8ux60DyurHlntkbBGfbcINutWt/B4T+CMy0z4gV/uXmp5rfagsymkeDleCxNlnIYTGyIgox/If9ivm/1dI/qPpLY6S6HB+KMTiCkVBydQT1g41DQsGkasSyqtSWeFmC2rF/5ovT2uytAjxvx24tsQj8dzGZh3bp4aQ639snFF5g==
 sentiment.compare.	3600	in	ns	ns1.digitalocean.com.
 sentiment.compare.	3600	in	ns	ns2.digitalocean.com.
 sentiment.compare.	3600	in	ns	ns3.digitalocean.com.
@@ -2185,20 +2215,22 @@ sentinel.compare.	3600	in	ns	salvador.ns.porkbun.com.
 seoagency.compare.	3600	in	ds	27225 13 2 B45D086D5BA9EB1EFA08CEE62BFACC1BCDB730114A81DAB99992A5F2AEDB63EA
 seoagency.compare.	3600	in	ns	launch1.spaceship.net.
 seoagency.compare.	3600	in	ns	launch2.spaceship.net.
-seoagency.compare.	3600	in	rrsig	DS 8 2 3600 20260116190447 20260102183208 7680 compare. gpvDSEI8lWKYKGGzdr8kLB+A5gwAiyWWp0LwLR1v84LaEVzIAjm5rzUChbKYmEomLMlCin+krRN/K/JTkz26a7ScKWMZJ+JfXEL60B5vxsZ7/m97zRyllJmqJLxJffh+ZQ+N97dWZQ3PAKEQE1U0K3LrppO0ip2HCObkTHxmRwpjWs562sk3d7+CXv3BClganMTlWUn30jANkB5Z7q07Yg==
-serverhost.compare.	3600	in	ns	partners1.domainagents.com.
-serverhost.compare.	3600	in	ns	partners2.domainagents.com.
+seoagency.compare.	3600	in	rrsig	DS 8 2 3600 20260203180657 20260120171349 7680 compare. cJisCUnI4FWteHtB82P4EpLe+5T+Hr9y9uBpvZG5uumReZroQ9+uDqoF3rwDxw04LExRsjRf/n0dvjlP4t63VEHGdJ+gdQSC+IvtrqstIV9kAtBu8iaJ6QsVQjMH8UWWfu4AnwAiQ8Sah5CGHFCwU3wrALpNK3avh36f0Hj9RPQ4Np0pHpjDzH0fe+B0YBsKQmI6FNzvfb9nSy/b8B2mmg==
+serverhost.compare.	3600	in	ns	curitiba.ns.porkbun.com.
+serverhost.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
+serverhost.compare.	3600	in	ns	maceio.ns.porkbun.com.
+serverhost.compare.	3600	in	ns	salvador.ns.porkbun.com.
 serviceprovider.compare.	3600	in	ds	2371 13 2 7BB30D800BFCB23B497D2BCC7BE0B5BE5333B2EA7D00F9BF818AD96705D51D92
 serviceprovider.compare.	3600	in	ns	alice.ns.cloudflare.com.
 serviceprovider.compare.	3600	in	ns	jacob.ns.cloudflare.com.
-serviceprovider.compare.	3600	in	rrsig	DS 8 2 3600 20260119155328 20260105145807 7680 compare. TVxQDJiX9hPZ1lfvwOUfVMrRtNvpYHLrCwuw/a8aKBwMpDS9/eGRJX2rx6LHiZCKzXGX+Omhu5e44MFJTEHVF3ABkPi9H/wWfQ8lYvGU9/0hHwxfDwdcFpkzbGDpp+rL4UtRvd56JgkoeKRDKqNA891CztGAYlO+ieH9IDnF18d/OSemkHcXG1mys3UAg+rcsDlI9Jp1M8Kefn5jsPNBqQ==
+serviceprovider.compare.	3600	in	rrsig	DS 8 2 3600 20260206150238 20260123141855 7680 compare. jaNhfIuyv0bOzzpMKJSiBrCT/HkUo8kEc5GeJ4oqlLfRbXZfcY5xz9uWdDkIxfwTx9OeGhiuex4bKqYaCvWPnaecaGhFFSD9y+xDjjoate+4RW3RXoUSWZ/vspsONqA64oJM4FDYuEiZ/r037OEOWdZ5lN+jhkQpMCEj7e2WoS+dsPE9dmJ4P3qNSxxMDTz0n4m0Oze6VNQGGOnKxo73QA==
 sextech.compare.	3600	in	ns	ns1.instradns.com.
 sextech.compare.	3600	in	ns	ns2.instradns.com.
 sextech.compare.	3600	in	ns	ns3.instradns.com.
 shares.compare.	3600	in	ns	ns47.domaincontrol.com.
 shares.compare.	3600	in	ns	ns48.domaincontrol.com.
 she159c4peu3sd7ublqrfe0t00dkn98v.compare.	900	in	nsec3	1 1 0 - SOFROLEDD7QVAPQP8R02Q3KL2JEKJVE5 NS DS RRSIG
-she159c4peu3sd7ublqrfe0t00dkn98v.compare.	900	in	rrsig	NSEC3 8 2 900 20260118144512 20260104141258 7680 compare. O8drqWWZcVgMVyjgyk6IjANtmEVRPKrmezddp2C6ZWcohHFks0bjA4kMGgUz9VfFBnlZMjzQy/jMO4mpZ7BROi5DRfIb2bIAxyNSZ10kz4d72L5cuO8AZ/Z+Yp8bRZIFbqc3b15s+qrkh/4+ucJRIUtur23RbqqVfOm+S6y/hHoBTfxjv/uue22UUc+TmHLqx2iykWrW5Ew01Bb+QYt4Lw==
+she159c4peu3sd7ublqrfe0t00dkn98v.compare.	900	in	rrsig	NSEC3 8 2 900 20260205134237 20260122125532 7680 compare. LlR3Fzn8c95+yGbX7Kt8ax3eZbvYIHPOUGRvpQYwMjbpHdI5QDUa0k7RR43tiIlEhKgN++1uV7fx9za3cRsbe2FVtAvaVACV74tQnmTY331m+6mks86AKSPUFRRpACX7mg+5hxb8Nkco5f1WWU5HIn6JQgj+SZDf4iWU8kb08ws6PNtUlFVq8PgZi8smgLiZiEaZxTP3JTLbPnvonQSeHA==
 sheetmusic.compare.	3600	in	ns	ns33.domaincontrol.com.
 sheetmusic.compare.	3600	in	ns	ns34.domaincontrol.com.
 shelf.compare.	3600	in	ns	x.ns.joker.com.
@@ -2207,11 +2239,11 @@ shelf.compare.	3600	in	ns	z.ns.joker.com.
 shikibuton.compare.	3600	in	ds	43939 13 2 3E9802990336C9817FF05CCA1BAE38B6438CCED1853981D9B263425AE22659BF
 shikibuton.compare.	3600	in	ns	launch1.spaceship.net.
 shikibuton.compare.	3600	in	ns	launch2.spaceship.net.
-shikibuton.compare.	3600	in	rrsig	DS 8 2 3600 20260119005346 20260105004129 7680 compare. A4dIKoOVkqxoodGMm+oRpFJrHWfCOAaSNe1q+dyjP5SbWNNPoZ69mmkWgPt4jhPd9livJHnIvLa7REV7DnFi5U69heDaY0j5Cng7REqu8J36LDxEiMnyabV7lMnWeghJWiLDXkheezCYovwgY06H9x6S0dGwElDxvRITC7FKFaoeUUDMTryyskvkxRhysFVpyDFl/auXC0BAKg3XdnZaiQ==
+shikibuton.compare.	3600	in	rrsig	DS 8 2 3600 20260205232421 20260122223518 7680 compare. c3tDbuX/4WjZzaIWTK0N9DB/R425eAjWsNr/PLFh2+bQqwiwWKsrzEh4MqztOIZaCia7QulCfgLQ9icy+sxSfZpMGCpeThOkuv5ivaZZvFsWX/yjT3d1b8iBb/WneogiJk/KAhAb3/jTxilh4H54U9JNRFHgzk8uj4S7sbCa+PlUGyHyKjUkLfdvJLtqjrAZbAfz5ZFTAlkI2UFmVyOAJw==
 shikibutons.compare.	3600	in	ds	5679 13 2 416A6D9702DF0644B05C65A68516D1DD031F8B82B36312A6CFBDD604E0A76F87
 shikibutons.compare.	3600	in	ns	launch1.spaceship.net.
 shikibutons.compare.	3600	in	ns	launch2.spaceship.net.
-shikibutons.compare.	3600	in	rrsig	DS 8 2 3600 20260116135817 20260102134757 7680 compare. Un4/nuVO2eW/ivz7XKURPBfsQLiyaIAYZKpHRmzkq6gGE89fxiK9GWjQlALvoIW7Q/8J0S7f7Fm5i6gsjGA5ndjaqV+0XyYi1k9AmExBGPFu7EXqcNP6PuW00XjHBCGYQ3ufgMHiBEhWHT+XZMtYmZcKk+BsiTpzICgErIXY/yhkE9MZ52wckzWWOVEi7nP5lLpf40gneBPv+93thJhEBw==
+shikibutons.compare.	3600	in	rrsig	DS 8 2 3600 20260203114948 20260120114319 7680 compare. YmeSxkZec/DfWpqfo9Gv5ak+BFKqOOXcpRdCaIj/KIR3F/heHZTqZGaLFMPEAg/mR8b8AbgjTKtkfF0Ksy4zR/KQvTG/qpjePDpqJ9MVq+L0zUMDotOyZMcSF835wx5NXT0tX2C72u9XmZvjJBuKtj1n6TtFS8ngEcnVoYrY1wKnNsSKjLZlhhN1stkaFhNP5wtoTT7Av2noWqGRMF/s4g==
 shilling.compare.	3600	in	ns	ns1.101domain.com.
 shilling.compare.	3600	in	ns	ns2.101domain.com.
 shopbop.compare.	3600	in	ns	nsgbr.comlaude.co.uk.
@@ -2258,7 +2290,7 @@ singularity.compare.	3600	in	ns	ns78.domaincontrol.com.
 sisaisolutions.compare.	3600	in	ds	12042 13 2 86181D6D8003DFED67C71EEB1597DDE595C445872776AD78729837BE8F1E4D6C
 sisaisolutions.compare.	3600	in	ns	launch1.spaceship.net.
 sisaisolutions.compare.	3600	in	ns	launch2.spaceship.net.
-sisaisolutions.compare.	3600	in	rrsig	DS 8 2 3600 20260119215515 20260105213240 7680 compare. l1d+N26mZZfw9JxFhqeI2xs5RJgH26K3gtwYnsVuoLZujtM45puyp3O78nHSIMZijd3vg0VkXgP2GhEN04M2lHrqYiz4Misq5ZQDLirqO0KMTxM0lLN6pQxEEleMOWMxGk9EUkkgZNHKhtpyDwNNJ5zZT2TMQHV0lt138fU9daknbhDICon5BCb0V3TpZpvDYHD/yjCQyWENSYXppCAuqw==
+sisaisolutions.compare.	3600	in	rrsig	DS 8 2 3600 20260206205246 20260123195732 7680 compare. Mno94fHKgDLOJ6NaH8aC7HJf8+ClbwQx3zmRRfcg0mCf8LmPQn+Pr0lQ4ho4UPbCqBte3boA2D8V4gkiItk/JZBKbIUx5MPa2owrG+Q/Q1bL0tZueTFsBPXMrR5u0DGBJ4iz104I+DtDz2kO4eWOqcZk8mjnx1hDcChCqe3Q5YvA7bqeEdaEXE86RWkqVmIQ0uKLXUb3cmPelQdUIknRvA==
 sistersites.compare.	3600	in	ns	blackhole-1.iana.org.
 sistersites.compare.	3600	in	ns	blackhole-2.iana.org.
 skills.compare.	3600	in	ns	ns17.domaincontrol.com.
@@ -2273,15 +2305,11 @@ smart.compare.	3600	in	ns	curitiba.ns.porkbun.com.
 smart.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
 smart.compare.	3600	in	ns	maceio.ns.porkbun.com.
 smart.compare.	3600	in	ns	salvador.ns.porkbun.com.
-smiley.compare.	3600	in	ns	curitiba.ns.porkbun.com.
-smiley.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
-smiley.compare.	3600	in	ns	maceio.ns.porkbun.com.
-smiley.compare.	3600	in	ns	salvador.ns.porkbun.com.
 snow.compare.	3600	in	ns	ns-217-c.gandi.net.
 snow.compare.	3600	in	ns	ns-225-b.gandi.net.
 snow.compare.	3600	in	ns	ns-23-a.gandi.net.
 sofroledd7qvapqp8r02q3kl2jekjve5.compare.	900	in	nsec3	1 1 0 - SVDSB08O0HPEJ5RAN9OA9FS7HD9AQI7D NS DS RRSIG
-sofroledd7qvapqp8r02q3kl2jekjve5.compare.	900	in	rrsig	NSEC3 8 2 900 20260116135817 20260102134757 7680 compare. jVrDql7RmyCSB3WMZgg621OnM1c423l7oUKUtT8Q+GcHuXqC0W/KdieZ/IPMxs7kEgKuYtxbH8u4EEBJm7AbMoXcqUHtatstH59cS2KB9h7I4D6EnkTgpYUmeStIDueeXrO1KXaR7m7eQF2Sc8nhhOwD4BhkuH6jwrFu/UofOJU8rQ9ExnGeEV3BP+KXjwyj2778bZOYRFxcejACl7XCrA==
+sofroledd7qvapqp8r02q3kl2jekjve5.compare.	900	in	rrsig	NSEC3 8 2 900 20260203114948 20260120114319 7680 compare. kX8RSyGea6UzwKBf1OtOlQtA8KSdxAajnY3+rV2UA+W4BmEthh/whaj2zb5G0rFGSdny7bjo63nxKetHvYZM1ahkxLld3YR0HIhZkuBmtVfQtIAv8fxU8pBTIQZb0FsFNA7tcxc2cumnnf1ih+bbta8tKSvLLaM675CJWiajAmrBGDlhEXX7qaMHhhrhA/t+nCWWr31mCEGKOL/utsKxRA==
 solar.compare.	3600	in	ns	ns-151-c.gandi.net.
 solar.compare.	3600	in	ns	ns-235-a.gandi.net.
 solar.compare.	3600	in	ns	ns-250-b.gandi.net.
@@ -2289,8 +2317,8 @@ solideo.compare.	3600	in	ns	curitiba.ns.porkbun.com.
 solideo.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
 solideo.compare.	3600	in	ns	maceio.ns.porkbun.com.
 solideo.compare.	3600	in	ns	salvador.ns.porkbun.com.
-solrise.compare.	3600	in	ns	lucy.ns.cloudflare.com.
-solrise.compare.	3600	in	ns	pranab.ns.cloudflare.com.
+solrise.compare.	3600	in	ns	ns35.domaincontrol.com.
+solrise.compare.	3600	in	ns	ns36.domaincontrol.com.
 somebodywantsto.compare.	3600	in	ns	curitiba.ns.porkbun.com.
 somebodywantsto.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
 somebodywantsto.compare.	3600	in	ns	maceio.ns.porkbun.com.
@@ -2338,14 +2366,16 @@ string.compare.	3600	in	ns	3433.ns2.above.com.
 stroom.compare.	3600	in	ns	ns-182-a.gandi.net.
 stroom.compare.	3600	in	ns	ns-183-c.gandi.net.
 stroom.compare.	3600	in	ns	ns-206-b.gandi.net.
-sunwin.compare.	3600	in	ns	elijah.ns.cloudflare.com.
-sunwin.compare.	3600	in	ns	sneh.ns.cloudflare.com.
+sunwin.compare.	3600	in	ns	curitiba.ns.porkbun.com.
+sunwin.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
+sunwin.compare.	3600	in	ns	maceio.ns.porkbun.com.
+sunwin.compare.	3600	in	ns	salvador.ns.porkbun.com.
 super.compare.	3600	in	ns	ns1.atom.com.
 super.compare.	3600	in	ns	ns2.atom.com.
 supermarket.compare.	3600	in	ds	60780 13 2 9C26189074F3651B147942A2D1E7E46DC8E124EA69AA94824C4384E429DB529B
 supermarket.compare.	3600	in	ns	launch1.spaceship.net.
 supermarket.compare.	3600	in	ns	launch2.spaceship.net.
-supermarket.compare.	3600	in	rrsig	DS 8 2 3600 20260115021048 20260101012540 7680 compare. iaWTsBXlib93Mbrx0BcCoQb2h/0jT4LB0lAGjTh5kyt5wehbyGS196Q5XnLniOU1YrOiDjRJiKPw8RQLpLaEGYP9s0zOxbj7SYpM6bi2Sem7fCAh011Q6le6F8B9mgiNoeMJdQZFxbACofXtyXER7+rg4BNEW8EGc7CJS37ufghfxfLNjNj/T8PN4b2b3T3KLSqchB8XM2YGDcDw846q7Q==
+supermarket.compare.	3600	in	rrsig	DS 8 2 3600 20260207234401 20260124232735 7680 compare. jTzslfe+7htRR94JkXYK+uFdSQsB/CBix5D1qTmLB2fA7mllLEV1rzGj47xiCE7Ea4pldvK4s1c6WKnEHk8WkCjLP9ey80z8Q9RBaZhL5GKSsC/uV+H2znTK8isgxBOU8iOxkYefqjzjMXz3NjpDQPjpiSNjTHl4nzUoqBtLHr+BbRqtLW8a5OJYUDe/mMfgZiGgAUgbySqTbSt6rrVEEQ==
 supersigns.compare.	3600	in	ns	ns1.101domain.com.
 supersigns.compare.	3600	in	ns	ns2.101domain.com.
 superyacht.compare.	3600	in	ns	ns55.domaincontrol.com.
@@ -2365,7 +2395,7 @@ survivor.compare.	3600	in	ns	ns18.domaincontrol.com.
 sv368.compare.	3600	in	ns	ns25.domaincontrol.com.
 sv368.compare.	3600	in	ns	ns26.domaincontrol.com.
 svdsb08o0hpej5ran9oa9fs7hd9aqi7d.compare.	900	in	nsec3	1 1 0 - U2EI64H4BA4984RHGG8LJSBHFJUUI5S8 NS DS RRSIG
-svdsb08o0hpej5ran9oa9fs7hd9aqi7d.compare.	900	in	rrsig	NSEC3 8 2 900 20260116125546 20260104081305 7680 compare. Or3qgEmvl2ChhdnysyW+TU+D/q2u25Wh4x/HnO8+EPxSN6DKBhQmIiXznUsI6LbMODlh0y0hJx86PUxanl1q1p9Ot43I/JjJmkwqvbCVscKKWPtuxlPbl8NPXOpIx+Q7NJzlzQ3XaNSEu7rDXALidq6CJiuJmPoKdMqIx3fD6F8+PG0RqIFJCMntYOwdLUrs+iu4dI8VppZPGoPEOb0inQ==
+svdsb08o0hpej5ran9oa9fs7hd9aqi7d.compare.	900	in	rrsig	NSEC3 8 2 900 20260203114351 20260120111252 7680 compare. kSMITbQnN/4WS6kDKcP5Y97gQ/2OVrb276Ig+/lQpT1A0Viyoj/YCml4nOWo4g2QeEdFadalg9iIVzaEwnLIV+YJjbTcrS6ScevJIGdHjhbrPY3LgvJdjsOBW7H9aaifU9jzhAvjGwxGFIjiVwwxmSHCIDSMRA2iXr/U/nhinDT/EsCfJiorG00Q8lqufnuw316myVugyoNpAJHTsQo1nw==
 swip.compare.	3600	in	ns	ns43.domaincontrol.com.
 swip.compare.	3600	in	ns	ns44.domaincontrol.com.
 swipe.compare.	3600	in	ns	ns07.domaincontrol.com.
@@ -2418,7 +2448,7 @@ target.compare.	3600	in	ns	ns04.gcd-dns.com.
 tcg.compare.	3600	in	ds	35525 13 2 925A7BD1475996AA564600307C12644C120339125D62ECBC87CE305156430B52
 tcg.compare.	3600	in	ns	launch1.spaceship.net.
 tcg.compare.	3600	in	ns	launch2.spaceship.net.
-tcg.compare.	3600	in	rrsig	DS 8 2 3600 20260119034325 20260105025223 7680 compare. XbK9JhOWZM8r1iVM4y9oS+Sq+GFK/bmZ2iZhHKwJ2/lIbcWZoslr88Nho7jrMQVoBCaCMScsQvVIiyGZE3eD7nmZ7Q9Hy0y5glbZ3MculxNuOQC36FWPNQdc9m/9qAGXQClQceIemji2chBUhwcEfJhETsVjZ4SKZcU9ZWJMCimElrZiFvF1TM9yuki/sIeRM5XdQa58/nHdSS1v2Dt2BA==
+tcg.compare.	3600	in	rrsig	DS 8 2 3600 20260206025450 20260123021624 7680 compare. UyOzwyu8f5GGkF6XAtCcrozchTUqkf65itxJ37U3w+HZOf4ZqQz7S+sQpJxtprTAHyK8shABj6GqroaGaOESxqsKn2p3OwIlp52TZyzWjQaj8/As+xSYaoGib6orjNmyL0I5tMZSVD2QFg7IWru31YWxGVJ+kcLSKB448rp98RWD1pPdyIJf0z16OMj5tWuALUCI88EwcgwUT5B7+jmtqA==
 teacher.compare.	3600	in	ns	ns59.domaincontrol.com.
 teacher.compare.	3600	in	ns	ns60.domaincontrol.com.
 team.compare.	3600	in	ns	ns1.greengeeks.net.
@@ -2439,11 +2469,11 @@ tempo.compare.	3600	in	ns	ns7.markmonitor.com.
 terascapital.compare.	3600	in	ds	41036 13 2 CC966DB80F60FD9363422BBA6BDEED201337CBEDBC8016FA25A159E87F3EA216
 terascapital.compare.	3600	in	ns	launch1.spaceship.net.
 terascapital.compare.	3600	in	ns	launch2.spaceship.net.
-terascapital.compare.	3600	in	rrsig	DS 8 2 3600 20260116122534 20260102114303 7680 compare. NCdQUrici/KauYqsBqtZrlagaYhQwcnQW6CE8TyhAPx1UJ4s5TnsfYCnowa/Sfg5Yyrp9qUJ654JrYwVjIXHi7HCUF6mT0eUbNXZ7icS2zC01G2R3fvAT55Fj45ETM68NpCf+KSXpq74ElmijPaN3vZ5YTIzm4i5AjcVFDJXvVa19kbeMEt9/s62hA0mzfVPoibRH5eK3eHdyvZi09tUkg==
-test.compare.	3600	in	ns	curitiba.ns.porkbun.com.
-test.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
-test.compare.	3600	in	ns	maceio.ns.porkbun.com.
-test.compare.	3600	in	ns	salvador.ns.porkbun.com.
+terascapital.compare.	3600	in	rrsig	DS 8 2 3600 20260203102339 20260120100354 7680 compare. GJzA4R9OsZlGofvThw0IPTXqVCnpRz+KYyZ+qS2CozmaxyZ5QEq4EAzNFH/G6Z9I3Lyu6uicTSpKIanuU+s1VVXCIO9xc25Ewqx7b6SKv0fymNKzS75owxjir32EGQuJynNVgS9JKXLAALMVwEkHI9Ul8IPjzvYSDKwmzbBnnFLnmUeDJ/dtDtquWf/L0kSaLX2S/TcRQQpwzZiNRdS9CQ==
+test.compare.	3600	in	ns	ns1.stackdns.com.
+test.compare.	3600	in	ns	ns2.stackdns.com.
+test.compare.	3600	in	ns	ns3.stackdns.com.
+test.compare.	3600	in	ns	ns4.stackdns.com.
 thabet.compare.	3600	in	ns	curitiba.ns.porkbun.com.
 thabet.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
 thabet.compare.	3600	in	ns	maceio.ns.porkbun.com.
@@ -2460,10 +2490,6 @@ thehartford.compare.	3600	in	ns	ns1.thehartford.com.
 thehartford.compare.	3600	in	ns	ns2.thehartford.com.
 thehartford.compare.	3600	in	ns	ns3.thehartford.com.
 thehartford.compare.	3600	in	ns	ns4.thehartford.com.
-theworldsbest.compare.	3600	in	ns	curitiba.ns.porkbun.com.
-theworldsbest.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
-theworldsbest.compare.	3600	in	ns	maceio.ns.porkbun.com.
-theworldsbest.compare.	3600	in	ns	salvador.ns.porkbun.com.
 thumdar.compare.	3600	in	ns	ns27.domaincontrol.com.
 thumdar.compare.	3600	in	ns	ns28.domaincontrol.com.
 ticketwhiz.compare.	3600	in	ns	ns59.domaincontrol.com.
@@ -2471,7 +2497,7 @@ ticketwhiz.compare.	3600	in	ns	ns60.domaincontrol.com.
 timber.compare.	3600	in	ds	37774 13 2 AF1DFA89A31964CF437961BD1E62A72CA57E98F66390B8F5060F1553E48F5649
 timber.compare.	3600	in	ns	launch1.spaceship.net.
 timber.compare.	3600	in	ns	launch2.spaceship.net.
-timber.compare.	3600	in	rrsig	DS 8 2 3600 20260115155759 20260101151559 7680 compare. Tl1B5GAzKYB9hxxYYTm9iGIq6/b4X3gb0P8SZF7O4WynguZJUdx+KormE4NROKLJ4bYoLU/K8Oqo+C0yzyCu3+OhIdcbBY8dO/KhrabOOaZSQbeLd3Fxi4LVz4PigT65qE1DYrfnl7dqnVAQzalJ3KUVO+xOcew1bZIR8hIYVCORfzvdA4cviiWd+Dv3tHhokkzey+W5NGYNKreQlapKbg==
+timber.compare.	3600	in	rrsig	DS 8 2 3600 20260202145417 20260119142818 7680 compare. hgebU/Pz4LQJTKvkNnnqfrDvxeqLUBUWN0CfwzFcFv68owYBeA5fRKUcpJZ6Jx0NRWMw1F1/vRLZ60UOPoT+DeS3JB+FEr+2bAOoNRnVqdljRcew++H+yoy9zG5ve6d6FWEzgifRVAFfmlMWmkZW9zunq1MQmwTF9YMqolSHcbGXH3sujHFhIBivXetCR5T6t/mm6j9zPrO58f3mTNDiwg==
 time.compare.	3600	in	ns	curitiba.ns.porkbun.com.
 time.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
 time.compare.	3600	in	ns	maceio.ns.porkbun.com.
@@ -2509,7 +2535,7 @@ touch.compare.	3600	in	ns	ns50.domaincontrol.com.
 trade.compare.	3600	in	ds	13752 13 2 4F9962BD55A4AD25AF6CA3A41A9F0DDABCDACCF77FC13B157EA70BBBC8FA8473
 trade.compare.	3600	in	ns	launch1.spaceship.net.
 trade.compare.	3600	in	ns	launch2.spaceship.net.
-trade.compare.	3600	in	rrsig	DS 8 2 3600 20260115155759 20260101151559 7680 compare. aTvtBSfSs7+ah0Qm8bsZQkQDmED61ABRwjjpmdCLyVLCPdWFzSZ6b+h9Iyi4jyCRGGE9B7LPIcXg0zB0ossEFCRpZfQbsDubCQi7i/rdPWhI4u+b8yluqAG3ayee5EVSWiGaLIKrbuAJpm28d086tLzaMPn++2xL9fm58Qcr7YTRqB5UXfnCrO9vSLWIJWbrVyE+Mk5ihUyOmdpBtJNYeA==
+trade.compare.	3600	in	rrsig	DS 8 2 3600 20260202145417 20260119142818 7680 compare. CYToyXZe1u33xmuU+wdsz0NA535ysuEKBwS2Kkcn+E7QwtOda0hn5bFpQGBHju73OIIeDXuQh/VuLuzmiivZ7f29rFfTOrbR+swFnZHF/ne6XNbrMsLCJwSPMXf4Gzyhvxo8nGMOvj24KPOhoSI0rrfTnXdSxi9wEjVpfMpJYa1N6F1aJJ0ZOT//6QAN4OcFonUnEEdipwKNOdwjL67jDA==
 tradesman.compare.	3600	in	ns	ns1.sedoparking.com.
 tradesman.compare.	3600	in	ns	ns2.sedoparking.com.
 traintickets.compare.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -2572,12 +2598,12 @@ twitch.compare.	3600	in	ns	nsusa.comlaude.net.
 u.nic.compare.	172800	in	a	156.154.169.82
 u.nic.compare.	172800	in	aaaa	2610:00a1:1071:0000:0000:0000:0001:0082
 u2ei64h4ba4984rhgg8ljsbhfjuui5s8.compare.	900	in	nsec3	1 1 0 - 000I8KVPFHLBECHRHAP32GMO9E6AQQ5Q NS DS RRSIG
-u2ei64h4ba4984rhgg8ljsbhfjuui5s8.compare.	900	in	rrsig	NSEC3 8 2 900 20260116052515 20260102043124 7680 compare. BC+kNbVTiLjK+uCtbwUGKc5p8QNEoyr1UUHUbAZT+QeSza9ekXxOoewfkcpLHwGEHTRaRiti7YoWr5HkI3UOXi7ds5gVy2keh0xYlNNwSciVqtJNUqNfSaWr79kmiE+GoQx5WjbqOJANgm4rqhUwHtvx6pEfb5oOueFXWRQXmh4HLhKzwRGMvnPwk4+ae/c+OVO/zVdzQO22VtWR8esJbw==
+u2ei64h4ba4984rhgg8ljsbhfjuui5s8.compare.	900	in	rrsig	NSEC3 8 2 900 20260203032428 20260120030434 7680 compare. cJvrxKBQVCdvTRqDgBienEEijUBuRVD5hOcl5fzJxt8SNkTPjBK9hdPgmsJD68ZoAMMWoP7TYd5LxNXcwU89SYsjS9BRbNlfz1k/1ND788CxUiVS/y4i8Se/MZVlsDb+CkBXRFlcz0ltImCw+tUH2joWo8KLiKnP656M3lEBmaVx9YGIHJcWTSOAk9K/AyiOEtt9qAJbyg1mmT+2KletHQ==
 ubaldi.compare.	3600	in	ds	44162 13 2 19F0A8D4FF22407456EE8C61F4B502DA13105CFD209765B0915C31BC572E95B4
 ubaldi.compare.	3600	in	ns	ns-209-c.gandi.net.
 ubaldi.compare.	3600	in	ns	ns-216-a.gandi.net.
 ubaldi.compare.	3600	in	ns	ns-31-b.gandi.net.
-ubaldi.compare.	3600	in	rrsig	DS 8 2 3600 20260115155759 20260101151559 7680 compare. PNKPaLBuh1PI2Ipuq8y0fih3xRduUk7UJn/1TjXZd5bpMiKl0J+Z2shc146yVWSvIomOxXcNlbFW0mhwG5OD7Y5c5NZ1yrBvXpYl/10zx29uZ3ZlA23eLk4vkCqHglPbza0MAGJwlQK/2LrEJyi3wTWHG1E2nJX6KAgU8lxBGzrbAQo85q2Wsfb+mB3L73aW6Kqxs7DRP8awwOpps8ZXgA==
+ubaldi.compare.	3600	in	rrsig	DS 8 2 3600 20260202145417 20260119142818 7680 compare. f7T58+4fGCe86PIS6Fnx+ZbhYHVs4nIVeRS26im3syA3OWKmTZQXkltez3CU/5zjnOLWGUg2y3TWlGxyadu2/t5Y5OxRO2nD7nqMGPZH4e2DMXvh2MiAIR9zD1dhJut8km+QYFssb631p/so0u+O4yFazPbb2c4qls3oTdiGJX47i6XlXJPVSfy5d2nPG0m9rVt3HyvHgQwHVxOdthCLNw==
 ufabet.compare.	3600	in	ns	daphne.ns.cloudflare.com.
 ufabet.compare.	3600	in	ns	thaddeus.ns.cloudflare.com.
 ufabet168.compare.	3600	in	ns	dahlia.ns.cloudflare.com.
@@ -2593,9 +2619,6 @@ uscc.compare.	3600	in	ns	dns1.cscdns.net.
 uscc.compare.	3600	in	ns	dns2.cscdns.net.
 uscellular.compare.	3600	in	ns	dns1.cscdns.net.
 uscellular.compare.	3600	in	ns	dns2.cscdns.net.
-uswitch.compare.	3600	in	ns	ns-185-a.gandi.net.
-uswitch.compare.	3600	in	ns	ns-7-b.gandi.net.
-uswitch.compare.	3600	in	ns	ns-9-c.gandi.net.
 v.nic.compare.	172800	in	a	156.154.170.82
 v.nic.compare.	172800	in	aaaa	2610:00a1:1072:0000:0000:0000:0001:0082
 v9bet.compare.	3600	in	ns	odin.ns.cloudflare.com.
@@ -2635,7 +2658,7 @@ vibecode.compare.	3600	in	ns	ns06.domaincontrol.com.
 vibecoding.compare.	3600	in	ds	25168 13 2 657D128786FA0F566AD4ABEEC3A45D212F4C7B195FA038401BEC885871FA82F2
 vibecoding.compare.	3600	in	ns	launch1.spaceship.net.
 vibecoding.compare.	3600	in	ns	launch2.spaceship.net.
-vibecoding.compare.	3600	in	rrsig	DS 8 2 3600 20260114105910 20251231101907 7680 compare. gmYU+vyTFOHz/rtuiyy5KNWFtfIZv9kxQqXSZEtDtBAWHal/wXSccM2iXeVh7WxXlwJfBcDa65SoBQBlaShHKVaQUZIYLPyFox/7yyR9Qk2GlIqm7mYZ7lKmXGaTh2sSGql0TtdtSCBXQPOGn3Nz9Ln1AYvE1ksTXLo6CrK0zHyzs5JCrjtJmvKE5wnIAo5U3MLhfpYdeQHPMHKuZcEBiQ==
+vibecoding.compare.	3600	in	rrsig	DS 8 2 3600 20260207084455 20260124080932 7680 compare. h+Rla6aH4yYH72V4QQRNMP0UDD4JuTtL3vmyajIhXuUP465tOaJZnhPYpm/A1/d7qhv48+ZwDrqUz6HKYd1Kjvy9+wRTz4O4epE4yFcLu2YVI3oUPvK4soa8HT6lkpcNZG5J1kLcSSLThwy0B5UEER6dyeEYyvXI90WYFSsna8ohwd3pw4BwNwE498oN2elnhT0D/Kvsh05bet8oLy3KFQ==
 viral.compare.	3600	in	ns	curitiba.ns.porkbun.com.
 viral.compare.	3600	in	ns	fortaleza.ns.porkbun.com.
 viral.compare.	3600	in	ns	maceio.ns.porkbun.com.
@@ -2700,7 +2723,7 @@ workout.compare.	3600	in	ns	ns38.domaincontrol.com.
 worktop.compare.	3600	in	ds	7471 13 2 C2A229D9237AFF9D65EFD208F5FE0559F0299835BBF6C7433E3FA630F303709B
 worktop.compare.	3600	in	ns	launch1.spaceship.net.
 worktop.compare.	3600	in	ns	launch2.spaceship.net.
-worktop.compare.	3600	in	rrsig	DS 8 2 3600 20260116044554 20260102044547 7680 compare. jRj1mg392uOkh0z1FBbu0eiLmUhr3VkRV+qWumhWtf27pZtQx/b3LgFqwPSK5XR3MNXrA1pkEu/7l+l6miBYqPl8Mo3bcBHygZUaRL4lLOqCTmI6SO/GhIs+bCZAUhLIjSHJY9FdrKfXENPmGlfakIbPOdVSHOGqv6m4boqaHWZ2DQyLsPq4bFh2xhORNlWLQzjgGHAExD2DjJwyqZu7oA==
+worktop.compare.	3600	in	rrsig	DS 8 2 3600 20260203025713 20260120025704 7680 compare. LPjrsH7fLK5Y7EL9jgXns7MMXPoQnRXY8WFNgzpsU/2vbfX8SteU5TvICPIk6CAcgHBZMmOWECYjiTaAUmt2YHUQa/VS1e6Lo99ZW0AkBD1fXBviKAQtx/ccXZJxfzaUFPgVu01JzlDyeNvGvRi29CTrKIFKE4ZMwgGhamP+tJks6xn02XsY7zCILLLHa/L4AgRjbE09ZdZ19fYz1bavAw==
 wuadw.compare.	3600	in	ns	alexandra.ns.cloudflare.com.
 wuadw.compare.	3600	in	ns	chris.ns.cloudflare.com.
 ww88.compare.	3600	in	ns	jaziel.ns.cloudflare.com.
@@ -2748,4 +2771,4 @@ zorg.compare.	3600	in	ns	ns-9-b.gandi.net.
 zorgverzekering.compare.	3600	in	ns	ns-139-a.gandi.net.
 zorgverzekering.compare.	3600	in	ns	ns-150-b.gandi.net.
 zorgverzekering.compare.	3600	in	ns	ns-87-c.gandi.net.
-compare.	900	in	soa	a.nic.compare. admin.tldns.godaddy. 1767599315 1800 300 604800 1800
+compare.	900	in	soa	a.nic.compare. admin.tldns.godaddy. 1769258913 1800 300 604800 1800
