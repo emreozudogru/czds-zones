@@ -1,8 +1,8 @@
-hyatt.	900	in	soa	ns1.dns.nic.hyatt. admin.tldns.godaddy. 1767623884 1800 300 604800 1800
+hyatt.	900	in	soa	ns1.dns.nic.hyatt. admin.tldns.godaddy. 1769243882 1800 300 604800 1800
 1b11ebqu5ka1b2dp2hpnssbpmt8veeck.hyatt.	900	in	nsec3	1 1 0 - K4EFIUQR6E09LA8S5IEO58L7EK0TE2UM NS SOA RRSIG DNSKEY NSEC3PARAM CDS CDNSKEY
-1b11ebqu5ka1b2dp2hpnssbpmt8veeck.hyatt.	900	in	rrsig	NSEC3 8 2 900 20260119225031 20260105220738 63894 hyatt. Mu+nXKMClHeKOfumyFxfifnYIy3ewlPzsS3IzavqNe8lWvhCuvcasfzsHlDEdVj77vKRXtDNRu1eBKRJP+HPVueAU0X/lo272ik8pQa/qi3pc/D0vFDdbYnwUTQl+K6gRO0/8QfadViObttdSQkEKZrkd52qtaF80uAUvMmwf54tM/YvaZ10Y+N0NdJC+i8lDms1J8TSbeUyAq3ZfzMhdA==
-_forcedupdate.hyatt.	300	in	rrsig	TXT 8 2 300 20260114014602 20260105133803 63894 hyatt. tnlKuEyRdr8H778Xw9T+9Wlvchv3qMNLBN1qW2mS4pWz8dVqDemKhgqJrzFFSiG1WufgCcgERbVIUof62Jl9o0P4aFci2GJUCtsmreI011IW68fX2a8m5C/vbDjb3P7sc/MyBIlOkGifPk9U0rubriIb0sVFuMBTCv4HnUSVFG95D/7Usk7xm0/RQZeJqY3PALPKE4QGNSewuV2rBxYsPA==
-_forcedupdate.hyatt.	300	in	txt	"1767623883"
+1b11ebqu5ka1b2dp2hpnssbpmt8veeck.hyatt.	900	in	rrsig	NSEC3 8 2 900 20260206204121 20260123203231 63894 hyatt. dBVWyRhWYtKW+x/I6zYE0uzChkBr0Vjo01rhVMvEpTP6kP2gt31ZZckt+YTiRQBVL/kRcwH9ON6RCeFmoQczfksBWV/1MBGr22vgw0Nr/9BI5ZtmhXzbXp9+Yu+ddqLloshqTJ3F1k+3b5lslCZE9vgg4i5oRIXcrBLXWUCZuOYFcb0JwIQJ9Hse7VbBf4JdV2ITHuEOCc7ADcQZZVA1GA==
+_forcedupdate.hyatt.	300	in	rrsig	TXT 8 2 300 20260205155458 20260124073802 63894 hyatt. U8ctFkVM+b9UbsOsO30was6nKkJCOJMmbWGw7n/5HG84JS0OfdbJ6g/J5YyJk4bCEcfuBuirzTxvegdDuzhFo8/xADC+MvIElyAPmmxoz+RjqbwSJSWzk1E/fAqqVBSreCm1b/hz3UGaDsZI4e0iiuXwP9WJn0fepBHYiY7uyIpICmlrcgm9gxvLVI5vDoU0WoHlRQ0NTkqilMPcH8BQvQ==
+_forcedupdate.hyatt.	300	in	txt	"1769243882"
 a.nic.hyatt.	3600	in	a	37.209.192.9
 a.nic.hyatt.	3600	in	aaaa	2001:0dcd:0001:0000:0000:0000:0000:0009
 b.nic.hyatt.	3600	in	a	37.209.194.9
@@ -54,24 +54,24 @@ home.hyatt.	3600	in	ns	pdns196.ultradns.info.
 home.hyatt.	3600	in	ns	pdns196.ultradns.net.
 home.hyatt.	3600	in	ns	pdns196.ultradns.org.
 hyatt.	0	in	nsec3param	1 0 0 -
-hyatt.	0	in	rrsig	NSEC3PARAM 8 1 0 20260117174435 20260103170801 63894 hyatt. va07XqQkmQze1dJNhXQYl80m2ESwHgocSnJl/qSlVs5f830uwITZ99VgToxpWhHEaRTCUV0MxYHw4mhOi5mWl2c7YCt34e6u84WnpiNh2kd3xbrod/QXu4eTjhbVwC69U+2/jToxP1ZtLs21giemmkP5Rx6HG1vyGCM1pquTMy6T8UWu33xv8b1cpEItxcYAdA5hNjBiCH+AzvK132UtMw==
+hyatt.	0	in	rrsig	NSEC3PARAM 8 1 0 20260204171834 20260121162741 63894 hyatt. cCXkepFst2hFK7VtBFb4jPQHaF11rJXqLc4FiJl3YZ+PVxzbfVIk7i3llZS/KBaGIQANFDl2aL4xUieYqKFvVhDABvN2fXDiWu8chvSECPZQd7NWeaePriotgdfXPwUV9Re7mDVXfGa5Miuop8GC+eF8zZrv840mrRupXbrZOug9TIykNOYEFZvP42cj30lhnvD0JdFft9dbiHJdwenrbQ==
 hyatt.	3600	in	cdnskey	257 3 8 AwEAAbkU4f1im7zgEHU+RjC6sQyQCc3hDBsl2mnA95zT8kgM7uJFSjaUoArjIypewQKadMpqA/nyxIW72lKTz3Hrv3oVTMLSzWg5NMcvtlpN2TCChj8PbkXo63wMCn1Prm4rXwp/qXDpw4Twy2U0Wj8FPCC1GZGivF39T8r3ufxwByut/KAscU1EHiR7rIa7GWhmq6/I3CUtViwzz0xTZxBNToo6j0ATRtVJ5aMPq6nI64soPVaDXBB+iMqOiG3ZiM6k6fvUtL0awUzongVpDvVEhsyA8c6zyB92aFu1pwER/cdww7R+mkb6ee76cmmXZ15jhgsbDSaBWEkGfQK7+7LVpAs=
 hyatt.	3600	in	cds	30616 8 2 DBB2CD74E3FD102DA5E467F6B4EDA7E3D1D110EC2329053F087EA8532C84B897
-hyatt.	3600	in	rrsig	CDNSKEY 8 1 3600 20260119225031 20260105220738 30616 hyatt. GyH7XeCI6wgJ6+9AltkTXRulEbU6AteUAtm+zh7Q7VnLowyyjAx8w0fS0f598AP7+pDrwtUH6/Yi+I43fIyFkwK2ZNiQxMqwIug+tWGpj4tIJc7jDOe9ErJd5G4wL2CQ1g6i4Lfp/iHC4xJkkqHVo6KOzgQFn3ha4TlYbhYqD5G6cnQj4nbY9i/9uTdhCPx2eVzu/96pga4fqy8k2VzX1sjWkv33wi4+sUCknOsOWkaC81aJdRMe3Ehjq1iqqVzfyOokyruzc3vtv7iU9ahCRdTAWsYPqQvZ0hob8ll8bUmrrsewiIZD9VWoEyG8xFfGrhOzRxjybYd8R9DloTlH6Q==
-hyatt.	3600	in	rrsig	CDS 8 1 3600 20260119225031 20260105220738 30616 hyatt. GH2WdS5SXjd0zg8HZRUx3ef+yT/MMTMuQnkbI88I7Jg2HNbdRf1yGktp80W/OnWiwPwLABBMWCJ1WbJXi1ArOvfovK2T50ixWGN/fV/m1Jp/IlWJlg5FJVeI01fdPJCLX3VK6vaZmvT9w4giWT72wYLuWGpPWWGwi2PXoLAy/Ogk8j4GSxxTtCY+QE0V38x6D2q6LQsFM5KFlj4fGzsSVwmdAuT1Q/TVlif7f9BhXOM2HyameAuWT46ljv7ouR8dkEEq1CGQYJn0S8LHpcWpZ3FsSgsx/6o+gwFC6wsNmEpJljGovgvg8uWC6dx2EF90Tksimyd+sVZefxSjgirN8Q==
+hyatt.	3600	in	rrsig	CDNSKEY 8 1 3600 20260206204121 20260123203231 30616 hyatt. l9i/Pi8PVEtJ4irbqyqD5r/SdDIpBBejqYSiAd4jjeT4scQMemseQDrDA+Vr7SQ6DAZN2P/xEuMfQeqBAuvGCOM+llInmKQ0Kd1gVgHbsANDgLw/G4pZgGWLIbwj1Ygg3txqAUtiJHchilH/Gz6nUWsB4LQyPTV5qkTL9TYjRb1aCWmIWZHF7N2TAp2Jx5xmnyWbAYRVdkK+7A2p4XzrFhGdUeZO/RqYUO3dbwsb4Fo7p8t6pEuY6lYSmHUqm8CRSD2E20RaG6PWp41UKgE3ktJ2tWiK7lUPqu8NIglQZpozMb76YjPdHfv02OGmI966uq29e5HNLWX4hw9+OB3nVg==
+hyatt.	3600	in	rrsig	CDS 8 1 3600 20260206204121 20260123203231 30616 hyatt. oFBmKo6jgSrCd/7LdrysQ5Or8M0ckKLfJxHafKbzdx1YAT94IEjK+FNJJXs94RbvZ02owfea5ZElGszjEJiUwYYtRCsC2Tw3AOBpkrmbTLdUlblEnzqjbPqtmhn7LnA9lf/aNG3AIMG2/oVUO08baPanADOE0oiSE81I1vGv5Ob1/W8zZSSX/JPJRp8xDZsFf1r5hBKPIGj6QiBRYOQ7bpXIC88LXlOwWr2WWdRHJTgMjccg5cw2iTDoN5KfOv+6d8R1zXSAtiFAIsuOelsGS6CJg9zDfrYSAyWuSg9L+Li4Gg27ZKU0ZzhJ1rz14JZBD01Z74v7S5bWVpqD+7dkJA==
 hyatt.	7200	in	dnskey	256 3 8 AwEAAe6bd2nMgl2TW2yaRpP2bsbjQhEksGl1fqbim6i08conssqwkN0s2bOQjzp73hv7SEOgB9lX5W5HmpfmWEdvfo6mrEbhWhDGNkfgIYTTwUw/5i8VT6TESNacyGuK3hjqu1GRpjWplKxY9jjlFhyjD1ykEjCj7Y/b71vybgZfsT8LZsg2uGKIrusT379UbUZA89qek78/LfB12dDxCE274mk=
 hyatt.	7200	in	dnskey	257 3 8 AwEAAbkU4f1im7zgEHU+RjC6sQyQCc3hDBsl2mnA95zT8kgM7uJFSjaUoArjIypewQKadMpqA/nyxIW72lKTz3Hrv3oVTMLSzWg5NMcvtlpN2TCChj8PbkXo63wMCn1Prm4rXwp/qXDpw4Twy2U0Wj8FPCC1GZGivF39T8r3ufxwByut/KAscU1EHiR7rIa7GWhmq6/I3CUtViwzz0xTZxBNToo6j0ATRtVJ5aMPq6nI64soPVaDXBB+iMqOiG3ZiM6k6fvUtL0awUzongVpDvVEhsyA8c6zyB92aFu1pwER/cdww7R+mkb6ee76cmmXZ15jhgsbDSaBWEkGfQK7+7LVpAs=
-hyatt.	7200	in	rrsig	DNSKEY 8 1 7200 20260119225031 20260105220738 30616 hyatt. n2gx4HgCecQu6uKKXn5o/HhdHhSPbvtK284J8C7Csl/m4DAY/AawIPH6R/sfiqrTjG7zRlqcDeTnCz501yREIRsNLvK6CwbmKfeb0E+2c/mb3JOXyZIvP555aBEuyqwV579xUQERvtigNg1CF9P5wQkRIwE+IztABkEJ1OVVukgqMb3TRMU8ZLHOXVpUGuuQaZQzvgTGu0JVuH89taUqVBv4EPoC8hujlF4TGJ4jDYIbnpUmi1TwmvS9EJZxh23co7bvr8S97JvWYtZsjXf5wVgHSPo/kVgR36tcjNqgCJjhym5O/+obvnQy/P5yYcaSjdlejSmjiudczyoDD2o0yQ==
+hyatt.	7200	in	rrsig	DNSKEY 8 1 7200 20260206204121 20260123203231 30616 hyatt. EakG2w2hVhHKTAQEHp+KyB600V7160e9hsIA2gs98qAhIMYemIovSaN5uF3l9gsKLvfsZs9KyXJfCyjD0EUN8A9CPqryxyt5ktmuk5J1DrLJIdIluJzEhXmJPZYWizKaHZ3yjBBctWghrOFXRz35lNd4KFm52sI7wKBR9oU+LlM54ByXLQWcQaCum7NgKfVtNvncnh3b9UmHqfTGZGKvs9+GoPGDtDJX1iVEPD/Y1t87VlkNSak7O5snT/aW2fVrN54DKNMw67Z8WzjPT9fApZZwczJyoQeZdZ2ucVXenzdETbEVSidtkgYhOoRvhf9ySZ08rcvBI7rv+DACe3NV/Q==
 hyatt.	86400	in	ns	a.nic.hyatt.
 hyatt.	86400	in	ns	b.nic.hyatt.
 hyatt.	86400	in	ns	c.nic.hyatt.
 hyatt.	86400	in	ns	ns1.dns.nic.hyatt.
 hyatt.	86400	in	ns	ns2.dns.nic.hyatt.
 hyatt.	86400	in	ns	ns3.dns.nic.hyatt.
-hyatt.	86400	in	rrsig	NS 8 1 86400 20260118140851 20260104131905 63894 hyatt. uRfHmAmd6SL/pNe3SAiGNz+VvbhiLXHQKdu0YHKo/lfx7Au0GplE+y2SdLr4BcaYq6bRIHpQZ0We0vKiNZQj3s/2X7VeKZdcPFv8bNHGekyH7T1ZsDB0cYgebsogmkS+i+lgX18UNkZ2ThHHPgpBq7VUaiADv6SytKShFbRnJ3lRG1YXf0EKTtzLBThjqYE3eVuiRTkYpl/frkhxN/2+bQ==
-hyatt.	900	in	rrsig	SOA 8 1 900 20260119230738 20260105220738 63894 hyatt. hcjU2Lk12aZjs35+hFawq8ZQP8yR+Iftzy++9oi5sKuMJ0S/s2BT6iioDEaQKfVVGF1t2VjdwjjEfsYsu+AlDVN/xB43ugj9APDNMQ5sHe8CGv7VAC+Yd1pJ9ls9L6nRY6IVNXCJ2aMsXkxYsSIzljOGVYYVGj+f9nbhKkILq+S4R7OTc3e9Fzi3RfhLUJlQ9ZItevs0lrbUx/dkfMt+4A==
+hyatt.	86400	in	rrsig	NS 8 1 86400 20260205120927 20260122115547 63894 hyatt. BizblMcQYItq3YBstPS+cIa3mCDZCIRaglVBsxi8fNurlD5UzwtjB9VYXKXOD5yR7/8+NyIUtbHrVoXZb/r4fZDIf6ggRPuL9srAMMxzMQRorV8P5fFTsnznj5SvvjuSpop3BOKPVXqnNQ6vwsiiWbmG4M3aor9+67Rz0dNgTzPCgogLTHOO6p9FKHSmeskxuw3guune/TXhOmVZGbKhBA==
+hyatt.	900	in	rrsig	SOA 8 1 900 20260207083802 20260124073802 63894 hyatt. vCdlfa+VDGwTco0lRx1gJzifyB3q2OLOWXGB7VAVErt07FvxlOZmbHrDCPEquBopi2pI2IeMrOcAeKuWRXVTvOIipMkL4A6HkU/KH4EmbDHDsUc+Ho3wPW/hLTsjYPF8GMxL2HvX3bpYNItb3FQkmzlEOOsX5rOc0h9KXKhb6tfwRJOX8B/Ik/CZa6LHlIfLkxmk1c4+jZ9rRqCKjQQG7g==
 k4efiuqr6e09la8s5ieo58l7ek0te2um.hyatt.	900	in	nsec3	1 1 0 - ONRM19AQP56NQCUT3PQU815I28S7IKLR NS DS RRSIG
-k4efiuqr6e09la8s5ieo58l7ek0te2um.hyatt.	900	in	rrsig	NSEC3 8 2 900 20260117174435 20260103170801 63894 hyatt. wAAV24HNYFdCI5iPIJ04I4PuQlNZP/tc6P6AufTj8WUNVyC/tqvlfrw3IQOUmdTbx5xBO8G5MrJ3wjVs3qzquwB4xfiAtscVQCQc2GCqMVLSnxdwrxvIaPvsNxfYeJ8eCg7xTcZOc2bNbY3MAiu33fFNI3Cvirds01keoH5Ny7dX0pXH92u0Skx8NK1Kz0HgiUZ0j418QcufwfoarP6/HQ==
+k4efiuqr6e09la8s5ieo58l7ek0te2um.hyatt.	900	in	rrsig	NSEC3 8 2 900 20260204171834 20260121162741 63894 hyatt. CyL6UzBZ3BtsPPZ6wqoiOMGqpCypr3dpr/yl4kSpiLYW4LPRN3QO7vJF7I/8wqRy8UKK/ihGrbtdy1zl1T5gsZdfSh478d4k3XDP7k3vKvUFdg88KLakuqVTu/4DjY/Zz/JIZ34il1U7mUjUYW32CdqO/Y1AgfwLQhU5BcPvOG8c0YzNmrhpv4p86s18XLs/Pck2PNmNcuFVvt2ypQHlWA==
 la.hyatt.	3600	in	ns	pdns196.ultradns.biz.
 la.hyatt.	3600	in	ns	pdns196.ultradns.co.uk.
 la.hyatt.	3600	in	ns	pdns196.ultradns.com.
@@ -107,7 +107,7 @@ newyork.hyatt.	3600	in	ns	pdns196.ultradns.info.
 newyork.hyatt.	3600	in	ns	pdns196.ultradns.net.
 newyork.hyatt.	3600	in	ns	pdns196.ultradns.org.
 nic.hyatt.	3600	in	ds	35110 8 2 E32A557B8B78FCC4AF68065CE00FDD7613C4CEE3256A5828117DD2A1CB02D690
-nic.hyatt.	3600	in	rrsig	DS 8 2 3600 20260118140851 20260104131905 63894 hyatt. v4qsX1AaNda7uJsi+mO7ojXZIpP1ZDhr37vOqBTSnuxjLYMXQW/rcrvWNaRtjAFr8Q94pgi8Kbyira/l215CeO+6FitpT2jepsZVkMuUfxH0eIkn0wJn7RJJn5ng7/HdaF/S2yUaE7udFsXBHKWnSe6JQs2MMF2rrTMLC51iMVnWvtq4Ezg49Js2Ux1+9LCo9c6OIbqiP3M2C1SN1fGPUg==
+nic.hyatt.	3600	in	rrsig	DS 8 2 3600 20260205120927 20260122115547 63894 hyatt. UlcbSvQZmNMoFxAAbl3IXCesNR3rwh/ngwnL+0Hb8nB82Ukx51O1IzoBtXuErJ1NL6RpWnDZxdE7FUGhngOh9xLVEmOAwIdJT8dNp2H2RYC+4aV2j9S3P5fPxxyzq7CVwh6Gr5tAMmaGhNzihj0dQGbBvIh2p6wtkBCyIHviNWGLkrhLwn2ClHyEkvscC9hBBXd5xT82Ya/Wq+T0Yb+G+g==
 nic.hyatt.	7200	in	ns	ns1.dns.nic.hyatt.
 nic.hyatt.	7200	in	ns	ns2.dns.nic.hyatt.
 nic.hyatt.	7200	in	ns	ns3.dns.nic.hyatt.
@@ -133,7 +133,7 @@ nyc.hyatt.	3600	in	ns	pdns196.ultradns.info.
 nyc.hyatt.	3600	in	ns	pdns196.ultradns.net.
 nyc.hyatt.	3600	in	ns	pdns196.ultradns.org.
 onrm19aqp56nqcut3pqu815i28s7iklr.hyatt.	900	in	nsec3	1 1 0 - 1B11EBQU5KA1B2DP2HPNSSBPMT8VEECK TXT RRSIG
-onrm19aqp56nqcut3pqu815i28s7iklr.hyatt.	900	in	rrsig	NSEC3 8 2 900 20260117174435 20260103170801 63894 hyatt. zeL06/uelO0n8dFuyrC1nWPeLA6ETlOGGTayZxTn1tgYulhqj7JbOvJsrH7VJDAclg2S5E2/J/MjHTQkuJA0l20EOfOSsmtjG/Kzz/50nzg78mPCN8KOLGuVlUfdfHHqKX8BfBqEqhL0ihYS8yA+ALm7PmXfb5T7EWYaYK0T2ZXFvNEAMIDmB9dqUrq8apBvg7sTulS2Relemg7YvSLWcQ==
+onrm19aqp56nqcut3pqu815i28s7iklr.hyatt.	900	in	rrsig	NSEC3 8 2 900 20260204171834 20260121162741 63894 hyatt. xDeNnte/eIav9v5L1rWbhutF6Y0WSK6fe8lcVscZeJ4rRs2cC+x1R6Fsmv3qV4aQ1NQNgdWe5Zs5m47WsOe7t5wm0PZBVu1qzjuqIcjpVQZYN4XSgYlypEzn7h0KV97YTvz59A7qK2yxPH7UGbNFXPFoa7aiFXWcIqAvwEpQCo6oN1g9wcBsLn+GSMkp7x51VogMMwUbSCyeNMyAWToBgQ==
 paris.hyatt.	3600	in	ns	pdns196.ultradns.biz.
 paris.hyatt.	3600	in	ns	pdns196.ultradns.co.uk.
 paris.hyatt.	3600	in	ns	pdns196.ultradns.com.
@@ -182,4 +182,4 @@ www.hyatt.	3600	in	ns	pdns196.ultradns.com.
 www.hyatt.	3600	in	ns	pdns196.ultradns.info.
 www.hyatt.	3600	in	ns	pdns196.ultradns.net.
 www.hyatt.	3600	in	ns	pdns196.ultradns.org.
-hyatt.	900	in	soa	ns1.dns.nic.hyatt. admin.tldns.godaddy. 1767623884 1800 300 604800 1800
+hyatt.	900	in	soa	ns1.dns.nic.hyatt. admin.tldns.godaddy. 1769243882 1800 300 604800 1800
