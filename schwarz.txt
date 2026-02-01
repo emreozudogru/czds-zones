@@ -1,8 +1,8 @@
-schwarz.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 156699 900 1800 6048000 3600
+schwarz.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 157485 900 1800 6048000 3600
 35m07bjkb8br155ilbmohripbi4c0r0r.schwarz.	900	in	nsec3	1 1 0 - 95OV1OEJHPR580N4HFQFI8AC6TOP8253 NS DS RRSIG
-35m07bjkb8br155ilbmohripbi4c0r0r.schwarz.	900	in	rrsig	NSEC3 13 2 900 20260120102007 20251221085007 17819 schwarz. 3U1Bh2o5T2GtmN+XoClV5x4C26UDSDri2NJNRRxdDllIMsVy1ayi4QUokg5ZBd4Sn4qDCZ1oEBTM82NbIRk7wA==
+35m07bjkb8br155ilbmohripbi4c0r0r.schwarz.	900	in	rrsig	NSEC3 13 2 900 20260216085241 20260117072241 17819 schwarz. N0bCVID8PnZBu+ZW8jqiWtjP33Exw3w3MAv4T0s4xBO/Gw5qDCANX6adA7GcBUcOradvm9P+eyAmJlY5bYQZ3Q==
 95ov1oejhpr580n4hfqfi8ac6top8253.schwarz.	900	in	nsec3	1 1 0 - JAM88DUQK4T8PGG70CUBTV4CFQBEPHK4 NS DS RRSIG
-95ov1oejhpr580n4hfqfi8ac6top8253.schwarz.	900	in	rrsig	NSEC3 13 2 900 20260120114207 20251221101207 17819 schwarz. 1jWBvyMA3R2mtCPz7iw25jYf9girDqYrEn3HNBh3NCqu9blO4OuWpWJAuMPI67DurBXSDnsknr0OONLlWTcU7A==
+95ov1oejhpr580n4hfqfi8ac6top8253.schwarz.	900	in	rrsig	NSEC3 13 2 900 20260216102007 20260117085007 17819 schwarz. lsTm1KYGwYh3TtTZEJJep2tPn+rVLvuRlcVIEATwFUYzw9k5XacIOc+wDy5iP/LSUyuAZtpeJZ8wz4T1mvdPnA==
 a.nic.schwarz.	3600	in	a	194.169.218.99
 a.nic.schwarz.	3600	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0099
 acting-ahead.schwarz.	3600	in	ns	ns.do-ex.com.
@@ -785,6 +785,12 @@ gwt-dev-wawi.schwarz.	3600	in	ns	ns.do-ex.org.
 gwt-qs-wawi.schwarz.	3600	in	ns	ns.do-ex.com.
 gwt-qs-wawi.schwarz.	3600	in	ns	ns.do-ex.net.
 gwt-qs-wawi.schwarz.	3600	in	ns	ns.do-ex.org.
+hac.schwarz.	3600	in	ns	ns.do-ex.com.
+hac.schwarz.	3600	in	ns	ns.do-ex.net.
+hac.schwarz.	3600	in	ns	ns.do-ex.org.
+hac2.schwarz.	3600	in	ns	ns.do-ex.com.
+hac2.schwarz.	3600	in	ns	ns.do-ex.net.
+hac2.schwarz.	3600	in	ns	ns.do-ex.org.
 hackathon.schwarz.	3600	in	ns	ns.do-ex.com.
 hackathon.schwarz.	3600	in	ns	ns.do-ex.net.
 hackathon.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -949,7 +955,7 @@ iva-csa.schwarz.	3600	in	ns	ns.do-ex.com.
 iva-csa.schwarz.	3600	in	ns	ns.do-ex.net.
 iva-csa.schwarz.	3600	in	ns	ns.do-ex.org.
 jam88duqk4t8pgg70cubtv4cfqbephk4.schwarz.	900	in	nsec3	1 1 0 - 35M07BJKB8BR155ILBMOHRIPBI4C0R0R NS SOA RRSIG DNSKEY NSEC3PARAM
-jam88duqk4t8pgg70cubtv4cfqbephk4.schwarz.	900	in	rrsig	NSEC3 13 2 900 20260120102007 20251221085007 17819 schwarz. ildCqF3szv3FTwmAFjHSJFhOVRi9P3n9iLo65znHdsSRo6JfRWDmboJAXV+sNyEtRxrh+nU2MpRP3pp88LrhPQ==
+jam88duqk4t8pgg70cubtv4cfqbephk4.schwarz.	900	in	rrsig	NSEC3 13 2 900 20260216085241 20260117072241 17819 schwarz. nZGEBmK181Xd3KJ2zMkKCasT7KCmgJsY5ZYEUismBuEwMk91fWOD4f/m7/6rWEPSrxPp1nt2dYV9RZJdPmra4A==
 jenkins-qs.schwarz.	3600	in	ns	ns.do-ex.com.
 jenkins-qs.schwarz.	3600	in	ns	ns.do-ex.net.
 jenkins-qs.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1205,6 +1211,9 @@ my-kaufland-upgrade.schwarz.	3600	in	ns	ns.do-ex.org.
 my-kaufland.schwarz.	3600	in	ns	ns.do-ex.com.
 my-kaufland.schwarz.	3600	in	ns	ns.do-ex.net.
 my-kaufland.schwarz.	3600	in	ns	ns.do-ex.org.
+my-lidl.schwarz.	3600	in	ns	ns.do-ex.com.
+my-lidl.schwarz.	3600	in	ns	ns.do-ex.net.
+my-lidl.schwarz.	3600	in	ns	ns.do-ex.org.
 myjenkins.schwarz.	3600	in	ns	ns.do-ex.com.
 myjenkins.schwarz.	3600	in	ns	ns.do-ex.net.
 myjenkins.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1244,7 +1253,7 @@ nic.schwarz.	3600	in	ns	a.nic.schwarz.
 nic.schwarz.	3600	in	ns	b.nic.schwarz.
 nic.schwarz.	3600	in	ns	c.nic.schwarz.
 nic.schwarz.	3600	in	ns	d.nic.schwarz.
-nic.schwarz.	3600	in	rrsig	DS 13 2 3600 20260120114207 20251221101207 17819 schwarz. Os4+AtMDlK2FFPotSP1kRiXMKRXEZ0rXzSlt13jhc3PwMnXCEJODSvY54DjC5qLsylqlrCWB9tNEXDqsZv0rHw==
+nic.schwarz.	3600	in	rrsig	DS 13 2 3600 20260216102007 20260117085007 17819 schwarz. eaYo0NloySfPr87xbG3fdaZYK8jf+2a7XkmyqlqaeXmfoNuW+YW5gy/l2DJ/ITg9pJuO181sJBq7AbrBTaaDqw==
 nonprod-s4hmon-external.schwarz.	3600	in	ns	ns.do-ex.com.
 nonprod-s4hmon-external.schwarz.	3600	in	ns	ns.do-ex.net.
 nonprod-s4hmon-external.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1365,6 +1374,9 @@ phapps.schwarz.	3600	in	ns	ns.do-ex.org.
 phone.schwarz.	3600	in	ns	ns.do-ex.com.
 phone.schwarz.	3600	in	ns	ns.do-ex.net.
 phone.schwarz.	3600	in	ns	ns.do-ex.org.
+photo-collect.schwarz.	3600	in	ns	ns.do-ex.com.
+photo-collect.schwarz.	3600	in	ns	ns.do-ex.net.
+photo-collect.schwarz.	3600	in	ns	ns.do-ex.org.
 pimbasic-p.schwarz.	3600	in	ns	ns.do-ex.com.
 pimbasic-p.schwarz.	3600	in	ns	ns.do-ex.net.
 pimbasic-p.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1645,13 +1657,13 @@ schwarz.	172800	in	ns	a.nic.schwarz.
 schwarz.	172800	in	ns	b.nic.schwarz.
 schwarz.	172800	in	ns	c.nic.schwarz.
 schwarz.	172800	in	ns	d.nic.schwarz.
-schwarz.	172800	in	rrsig	NS 13 1 172800 20260120102007 20251221085007 17819 schwarz. X4Ce2cnkwM2/hpGo0I3mrHjH9/6FSqn8E9j12wleCso+7fcK0DTasnV9LVChCcueyfoX3cwLvYmXEoe+AePQrw==
+schwarz.	172800	in	rrsig	NS 13 1 172800 20260216085241 20260117072241 17819 schwarz. XTxlNKNCm85TLcXv4yPK9zEYkZ/bWiRokXY0Ktq7mYo5JwhiLzXqIxpTnfN9yqdAjpLstT07jaBVIuG+Eq5edQ==
 schwarz.	3600	in	dnskey	256 3 13 LC+5hxmebd4FI5Th2mTdnKVGjoGNn4QVYyRMuMZGiX44RWPcVmkAQgT2y6S4SHwF+ipptmJOuMteg4Zey4wWFQ==
 schwarz.	3600	in	dnskey	257 3 13 85ifdMkQirZgqs3ubeNFpcDYn9SHlvJv3V06pZ73FKuEqjNm0/SxUsy1y/19QAcpA3uDoVTp8c/AcPDRqUVfhw==
-schwarz.	3600	in	rrsig	DNSKEY 13 1 3600 20260120102007 20251221085007 21945 schwarz. 7ryrkVpJIwwAqrW0q5GezXiitOfymfuyhoHD1vd8KEnSgLW9AVRzfNN1st7nbTkz8rieSzyKknoWMXBaD9sOYw==
+schwarz.	3600	in	rrsig	DNSKEY 13 1 3600 20260216085241 20260117072241 21945 schwarz. 5IfACCpVq6UPiplILZQHljUFD0fLS4Pn6SS6DjpAsPzqWSWSEwTVlgLsbzRnT3WzS3aU7MEiQoTdZ0PNohJWTg==
 schwarz.	900	in	nsec3param	1 0 0 -
-schwarz.	900	in	rrsig	NSEC3PARAM 13 1 900 20260120102007 20251221085007 17819 schwarz. /QFABNeONxhgQBeJbnnXdEyrNJCPe2kBhnYp3t7P9Wg8dRGsr8QxrxSo/zGz8n9nzIHpSmTCUlB4CYnybn2czw==
-schwarz.	900	in	rrsig	SOA 13 1 900 20260205011542 20260105234542 17819 schwarz. LZuC7HZqErZlulILC6789O3vj9Hgo2BjVvBFW3Hs7qBa/DfjWNdgjrv95VATG3mIcas59n67XynfWvina1gkJg==
+schwarz.	900	in	rrsig	NSEC3PARAM 13 1 900 20260216085241 20260117072241 17819 schwarz. 13fjZPKUF4moSnbh+wX652W/zkpZmn3Qa6GMRXjdOl7CCRWUSesYqigsWbNFcVPo/ArOMR8oUQfmTH8jP/EO1g==
+schwarz.	900	in	rrsig	SOA 13 1 900 20260224005947 20260124232947 17819 schwarz. D5SiTWRlNcUOa0xAAwDyaSNCgr4OJDXbwMJJIgRB6FYCvzb/fAoNWPuDsZlZfwlw2VZQFWLlYVP0xZ6DBKwWpg==
 schwarzmedicalcenter.schwarz.	3600	in	ns	ns.do-ex.com.
 schwarzmedicalcenter.schwarz.	3600	in	ns	ns.do-ex.net.
 schwarzmedicalcenter.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -1735,6 +1747,12 @@ service.schwarz.	3600	in	ns	ns.do-ex.org.
 servicedesk.schwarz.	3600	in	ns	ns.do-ex.com.
 servicedesk.schwarz.	3600	in	ns	ns.do-ex.net.
 servicedesk.schwarz.	3600	in	ns	ns.do-ex.org.
+servicepoint.schwarz.	3600	in	ns	ns.do-ex.com.
+servicepoint.schwarz.	3600	in	ns	ns.do-ex.net.
+servicepoint.schwarz.	3600	in	ns	ns.do-ex.org.
+servicepoints.schwarz.	3600	in	ns	ns.do-ex.com.
+servicepoints.schwarz.	3600	in	ns	ns.do-ex.net.
+servicepoints.schwarz.	3600	in	ns	ns.do-ex.org.
 serviceportal.schwarz.	3600	in	ns	ns1.eurodns.com.
 serviceportal.schwarz.	3600	in	ns	ns2.eurodns.com.
 serviceportal.schwarz.	3600	in	ns	ns3.eurodns.com.
@@ -1878,7 +1896,7 @@ smp.schwarz.	3600	in	ds	61549 8 2 A7A2C4E4CD1A8B3BB8BAE1E02A248E653E8BB69A83BD3D
 smp.schwarz.	3600	in	ns	a.myradns.net.
 smp.schwarz.	3600	in	ns	b.myradns.net.
 smp.schwarz.	3600	in	ns	c.myradns.net.
-smp.schwarz.	3600	in	rrsig	DS 13 2 3600 20260120114207 20251221101207 17819 schwarz. 8sKFmVI3eIq/PeWeZ2TRth7PSfLrWRTIyWGAYIf92bYRK8DwDvKR3mocrOgHkFml7O0YDA/IOQc4aSbdTo7mEw==
+smp.schwarz.	3600	in	rrsig	DS 13 2 3600 20260216102007 20260117085007 17819 schwarz. S/FPmj+JN+mfK6Z53yHwfcjSuO+56hhmOfyKCVSgMB3JKm+bYmpcNB2Z0NfJHVN75s61akGImpP+zpIrZBoQlA==
 sms.schwarz.	3600	in	ns	ns.do-ex.com.
 sms.schwarz.	3600	in	ns	ns.do-ex.net.
 sms.schwarz.	3600	in	ns	ns.do-ex.org.
@@ -2177,8 +2195,7 @@ zp-es.schwarz.	3600	in	ns	ns.do-ex.org.
 zp-ro.schwarz.	3600	in	ns	ns.do-ex.com.
 zp-ro.schwarz.	3600	in	ns	ns.do-ex.net.
 zp-ro.schwarz.	3600	in	ns	ns.do-ex.org.
-zp.schwarz.	3600	in	ns	ns1.eurodns.com.
-zp.schwarz.	3600	in	ns	ns2.eurodns.com.
-zp.schwarz.	3600	in	ns	ns3.eurodns.com.
-zp.schwarz.	3600	in	ns	ns4.eurodns.com.
-schwarz.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 156699 900 1800 6048000 3600
+zp.schwarz.	3600	in	ns	ns.do-ex.com.
+zp.schwarz.	3600	in	ns	ns.do-ex.net.
+zp.schwarz.	3600	in	ns	ns.do-ex.org.
+schwarz.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 157485 900 1800 6048000 3600
