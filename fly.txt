@@ -1,10 +1,10 @@
-fly.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2026010509 21600 3600 259200 900
+fly.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2026012409 21600 3600 259200 900
 35pktl1asdav0jkvmlq39m0m4st9fnmq.fly.	900	in	nsec3	1 0 1 BE1FF76A9EED104E 4SQ0N67U6V6777HU4KCNDK67R412RUOI NS
-35pktl1asdav0jkvmlq39m0m4st9fnmq.fly.	900	in	rrsig	NSEC3 8 2 900 20260123185837 20260101185837 20899 fly. lLE7Ke8/6TX8b0s2uSbF8aCwoYaTmcFgpCZ7X/z2BtH+DqeZsYiZMucAWq21T0uMdhBzGxj+ODm8fRU8060ugL9ydbhpYwcRUnoXmJBDZKwIMphsldetTcohGACz86zX9GEusse1sZFDusvv5iqcAQVg71X0fUl9+lVxge5Wmts=
+35pktl1asdav0jkvmlq39m0m4st9fnmq.fly.	900	in	rrsig	NSEC3 8 2 900 20260212220837 20260121220837 43198 fly. bjdYUgetYHFNHbJpDnKjB80B8l8Hy9P9SEYeAH0yF+p6MNX8Sr3xZa4wPTtNSQVm9f4P1yClkvDy1sWOtqzuZtEureTXxrLjwNR7/ksHSI8RyGuTLFXimqaA38yxxGFb/xpw0QSaKuq9xXXM60K2dYyTa1faUePivCG0f0+ogzM=
 4sq0n67u6v6777hu4kcndk67r412ruoi.fly.	900	in	nsec3	1 0 1 BE1FF76A9EED104E BIMB2GGHI4A7R4GBNEKM5GLMSIGACEQQ NS SOA RRSIG DNSKEY NSEC3PARAM
-4sq0n67u6v6777hu4kcndk67r412ruoi.fly.	900	in	rrsig	NSEC3 8 2 900 20260123185837 20260101185837 20899 fly. WdtukCQ1RXi+Hef+EYJOMlta1/uuPpLtzUescOHrS/EWLBJRswBjOs/Uui6meWDgw+l8MToGMMmL+z5aAKzoeHuwOZ1v8qOhFZDUiFlAzNqNmlsYH0VUO2n5F9Y+zAmLUg2fSr8vPjymM1igNWVdF8FJHHCpdABQoPAaqsrfJ8M=
+4sq0n67u6v6777hu4kcndk67r412ruoi.fly.	900	in	rrsig	NSEC3 8 2 900 20260212220837 20260121220837 43198 fly. f/ebDiZs5p7a1CX7PeZ8CHeXr9QNhwEuwR9bRL8DYwMLQ3CcK2uC4j9zirZHUfmed0il1HxEXV/gX9EYozQTvcU3NtH+3Zny/D3AIuLBGzNDizpNIdBQlcq8WSm0bkgiomDUqoVY/wBCpo0c+BPg1ERXBlX6pKehfIJepjmKT5U=
 bimb2gghi4a7r4gbnekm5glmsigaceqq.fly.	900	in	nsec3	1 0 1 BE1FF76A9EED104E K8EMKN5DDLFFPGCL1A48O2H1RB7JRDLR NS
-bimb2gghi4a7r4gbnekm5glmsigaceqq.fly.	900	in	rrsig	NSEC3 8 2 900 20260123185837 20260101185837 20899 fly. uxm+ro5xOgxtnqdOSzL+VXhhG4y0rpTxBKClBp3YFYxUlqjZd0NnIy5zQyogImW1VpzRyAuDsVrT54zjT5M29ur27rZOc3sCEgJdZxuHw5p0mJ4ODXUPyH0Lg8EgpeFbBFygb0QmekHfNCPX+aWK9tPxkKr9qT8N/7TZcIzqfNQ=
+bimb2gghi4a7r4gbnekm5glmsigaceqq.fly.	900	in	rrsig	NSEC3 8 2 900 20260212220837 20260121220837 43198 fly. FSxN6uAj6hDBeg9SH2ghzY2uY1HQzDoPrZx7Zbj/ZDDFzJ6aavbhji6ekHIKo2k+jrXoXdyupQmSihgCf7x5mYLAT5ZiXjw5+P9craPYiG9GztlLXX8duV6XFBk6wZh9vvMBvMxsDECuxrEVVrC4+L7usOicJZraaf7+pIISb8I=
 bnatcs.fly.	10800	in	ns	ns-1456.awsdns-54.org.
 bnatcs.fly.	10800	in	ns	ns-1903.awsdns-45.co.uk.
 bnatcs.fly.	10800	in	ns	ns-477.awsdns-59.com.
@@ -14,27 +14,27 @@ domaintest.fly.	10800	in	ns	ns2.google.com.
 domaintest.fly.	10800	in	ns	ns3.google.com.
 domaintest.fly.	10800	in	ns	ns4.google.com.
 fly.	0	in	nsec3param	1 0 1 BE1FF76A9EED104E
-fly.	0	in	rrsig	NSEC3PARAM 8 1 0 20260123185837 20260101185837 20899 fly. VIq9iEkdCIT09s+Xlga0K70gJw+MDD1mk4AeySK7HznPNxrK+brXREMTEGocAxUpC02pki9D2Z+rk5ntH26mx4UV/eETKLcLxMW4Z8FnhwviHUmZRwpKN0YLUmE4MT4dIXlcLm7ztFPYfBYb79RGP8H5BEskpS0/qZ3r3U9ySmY=
+fly.	0	in	rrsig	NSEC3PARAM 8 1 0 20260212220837 20260121220837 43198 fly. LjvtE4x66MrNfAx6MaBiKLapAvHk554GSQRwRy4doDu7PgsHV6Ho1NNUn8RKbYQDyTmBMtDzXojlmjw2oYnlq4u0wEnbPCsXIJl2NXfT9JUI7n4RZ2peMA+XjmUSIs7aBVvXt3tEMA+qzzpQmybYjTyVkPBivuIApb+nKicmiMM=
 fly.	21600	in	ns	ns-tld1.charlestonroadregistry.com.
 fly.	21600	in	ns	ns-tld2.charlestonroadregistry.com.
 fly.	21600	in	ns	ns-tld3.charlestonroadregistry.com.
 fly.	21600	in	ns	ns-tld4.charlestonroadregistry.com.
 fly.	21600	in	ns	ns-tld5.charlestonroadregistry.com.
-fly.	21600	in	rrsig	NS 8 1 21600 20260123185837 20260101185837 20899 fly. mQLIK1eU91Bx6fmvFkpTzpbMPhL8FFFYyhPUvLYAH4zmyrH4EZSconDbQHMFifmm9ElPOmZgMoCt+ZwSATM6OmjfqrC7zWGYJactCO6oGWxp5JTUrcrDKsTUEL0XJ/z6nRh9z0vbU+z4qa3VuTrwBqUCcRy7fAOnOMJ4/fq7i9U=
-fly.	21600	in	rrsig	SOA 8 1 21600 20260123185837 20260101185837 20899 fly. phMxfhUKbYziKXP6wFU4ejOEoIHICwR9fVoh50we3PNmQH5jG9ETgoBFWTq5rTCkXmEnsz9AjM4ble0q0EYxsSO2Lg+tmczHvp0HKlsx2AI1aLdGlSMgtuGPOu3EE/o0kvdoFjFr8aMWJzrWEJrxIw9td1AtwTr3gD2iNgCY8Xs=
-fly.	300	in	dnskey	256 3 8 AwEAAcC9DruUfPkhDWOrMWLGdL06iPrYL0Ypl7tM4ZZ80TKCeEEm5vLDVonJUosAWV84faRLzgo38xc/8KtxW9Yh9ekKY8CasyLJjAwVGfQHAK51gJIZ9FlHtYmD3ypOOK6XUxUxV1jPGhTlUyGXCceSqXDGjxlcfvSK5A658isHYtw7
+fly.	21600	in	rrsig	NS 8 1 21600 20260212220837 20260121220837 43198 fly. QHIdVz5l9rJTXeCPUIDL2M8SC/Wix8LlXGQR6x5by7ZOlV6fZvatH5DvLqJ5qpS/2PO5nuzPKHpzIDpKvD6BOGHhtyJUTJr1J8OKVqaTpCqDv3Fo03QTeXGzj3X18fUAl6DVB4WJd8HcNFF2doxjKRVmbhvA9qTCj93O/7nR3Ts=
+fly.	21600	in	rrsig	SOA 8 1 21600 20260212220837 20260121220837 43198 fly. Y5FFhvAiIDifX+Dw9cNBN+72Y4yQ7q/HCxFnUwRgxLrYwz7PiNXZHyGa79hA7J1xndb1G19+meQX4NdYUMTAprpPHm+7jdi4X0V0QoVfBe1HtPyWvv+kv/ro3oIoxU91GXvIcHEOPkm4kuh9L70KGx3jdHbybRsXRlag3ZStHok=
+fly.	300	in	dnskey	256 3 8 AwEAAYckfG9O6WJ/2L+HFihLn58pnTbknDIcYTfSVslW2uqObuXDOT+/AbbRxOSCcS8mCdHosDsTUF3N5vzBSHJ+wBhVNMdtDQPwxGMqHxrxoxohc9pIXXSIFfDsXDna+oWUVzzoJEt9UsEZO1FChkZgSiqD6T4nEOtgaDkiGldFYi4v
 fly.	300	in	dnskey	257 3 8 AwEAAYZgM6bk5rDN5TmlJj1zeB3wWLOaUJFb4ECTj0cjW7oc/4ebYTiNOWn34qU30AHkDQcIEXHidYGSuO5XiWlEC6ZWlDaaZKHf0brgh9mwXfppryzFDvdVmrVxXBVwoRo00P0fy0R2pyrAk1DOtc+UZEyxGDrIbVNcCE6m4Uok1xN3Fcc+HkBP6PrVcGeHzb4bvI7FOji/ICPH7d0s3ZSslvGwg3ULmnnZ6X3xBj9LMwnreEpKiIZmLoGXXhqKgPrSvIQsuLMdUmK3SNJ5q5OZov7z146f00A1hKHU6i2CbdSehKkwCXede/h5WQS9RdDcHBxUuGkCjkM3UwpPhmSTtws=
-fly.	300	in	rrsig	DNSKEY 8 1 300 20260123185837 20260101185837 65399 fly. NZMg9JJ5J5dYQaMQe9TQBnNUY47V0TkIhIMsIU4uCBQds1WIWOyOhX/VqmlcK9oiGMKRmaJfjFQiRC6Kmf20JKzX/wDpVSNdZop/pQWJlteCetgqtK06jqvch1t2kXYxqF9ZDugkc0oxSYwRlf17PlxxWsLFTHTeNf2Dy55NFlqP/9OQKDwHDOWXgGA76m0T+3H5trHerJnWaD8uvSXQGc44hnWzg0yYL8xA66OuJ3caScka3L32qxokhnWT44lwHcnDdY6VNlhtLgoMGp1ObJhv0RuzOXqvU/qEZmjkIhlWGSjR2fC1Ws8nTj9qZTLoZiyFeVBQh+wUQQUghZQpfQ==
+fly.	300	in	rrsig	DNSKEY 8 1 300 20260212220837 20260121220837 65399 fly. cCYsKIJ+YFcUbGhgx4vv75xAdlDYGMLipEdS3AqEuUdvwG988AV7mYLxBiaUH8PmlHQdoaM2rVFjg0dYHOKMM3Hh38SvxoSR/5qE5YHFjUK9LlvBi78pz2bchxoRdsaM7aatJeC+DNUImadnJIBbxc+A0mfYCvraIA4yIXrn+pz+L0Jv0laK7+i7SArs3SZJYH+nMgum/Z3GzzZxSK527mqn+2o0jE6sBdJDWzdc/IlkFNvdZsnDXiLGr2l4kO/gFQCH1OcPwWwnzJG/HG20c+upGBT95GKBabi0BEgryJN1MWHxnTj3VYu5r8KG51DNg5zadx1RFchu2jSssUME+A==
 get.fly.	10800	in	ns	ns1.googledomains.com.
 get.fly.	10800	in	ns	ns2.googledomains.com.
 get.fly.	10800	in	ns	ns3.googledomains.com.
 get.fly.	10800	in	ns	ns4.googledomains.com.
 k8emkn5ddlffpgcl1a48o2h1rb7jrdlr.fly.	900	in	nsec3	1 0 1 BE1FF76A9EED104E N0IOKU0KJTO7T6VAQQ4LFVJC61QQ69SJ NS
-k8emkn5ddlffpgcl1a48o2h1rb7jrdlr.fly.	900	in	rrsig	NSEC3 8 2 900 20260123185837 20260101185837 20899 fly. KtWg5hpDHp92uhXvjqfFxqI//7E9H38C3kaTVVv6O6mHrh8VtqcbylRLbNL9DWDbRoeghF+VmKCSWyA/DgzAsE16GL4/vzgGTf9Y1jnb7skr5NBIe9s8BXrYvzDPn83eMI0bWjql83t2A+Gsx3kJKQqP8Bjq3izUyJVbkkF5itk=
+k8emkn5ddlffpgcl1a48o2h1rb7jrdlr.fly.	900	in	rrsig	NSEC3 8 2 900 20260212220837 20260121220837 43198 fly. NN8FDlTZyonpSHjuLOevkTIVWYsmg/d6JY6H81Xx73/tOlIF6cfQi7NVmzQJw+1ovpq9hc8KrF54a8A9RP/sLN+dNHn8m+57nUa3dTVAaFCgAxMem7x+nkIZm1aTqP++JJRb0AjhsdOMljgCd0V8yy+mXzikLr7aPTCDqqLV38Q=
 n0ioku0kjto7t6vaqq4lfvjc61qq69sj.fly.	900	in	nsec3	1 0 1 BE1FF76A9EED104E 35PKTL1ASDAV0JKVMLQ39M0M4ST9FNMQ NS
-n0ioku0kjto7t6vaqq4lfvjc61qq69sj.fly.	900	in	rrsig	NSEC3 8 2 900 20260123185837 20260101185837 20899 fly. E+P6i5Atv/kofb3hxNwSwAOCVvrBbwCXkFPEPPJeFKuE3sV9t7rBhXRrpfqNI1XtBaxqYQGb16f0Ipn4kC7NWVE4mMUiW7I4BBUQsGzeWF5uJ0vqElMcfjlvBY8NmyqXCgZln4q4wpuCQvnYATRzgXIkYOJEtXLULiL7lhWcSEI=
+n0ioku0kjto7t6vaqq4lfvjc61qq69sj.fly.	900	in	rrsig	NSEC3 8 2 900 20260212220837 20260121220837 43198 fly. BCvA8cCPyTwlG7hMImwFgSvXBAg6KYBdokMoTM/5KTGEvkX0AfotWCLQ8n+JGdNnrr7hQViy10JRV/Unr5Rqsc+Y9rwoMEltkmPkcm4iTZ5WD+lgjKsWBiXSy8m/uan3Swee5l2KP9KOkujAddeucgqpIYr20mAYxWonMpIqOzI=
 nic.fly.	10800	in	ns	ns1.google.com.
 nic.fly.	10800	in	ns	ns2.google.com.
 nic.fly.	10800	in	ns	ns3.google.com.
 nic.fly.	10800	in	ns	ns4.google.com.
-fly.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2026010509 21600 3600 259200 900
+fly.	21600	in	soa	ns-tld1.charlestonroadregistry.com. cloud-dns-hostmaster.google.com. 2026012409 21600 3600 259200 900
