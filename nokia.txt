@@ -1,6 +1,6 @@
-nokia.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1767662141 900 1800 6048000 3600
+nokia.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1769302791 900 1800 6048000 3600
 9q57mu6hhj8ccah7lo0grtm053jf8j2s.nokia.	900	in	nsec3	1 1 0 - POGVCM046UBPASLOPNRGDUAV9S85FCCD NS SOA RRSIG DNSKEY NSEC3PARAM
-9q57mu6hhj8ccah7lo0grtm053jf8j2s.nokia.	900	in	rrsig	NSEC3 8 2 900 20260120095302 20251221082302 58104 nokia. NWjqpAL7DGb30OATAyMpAwhrpIqhRlIuRfRmBStlveW9glVD/hRNFL4o0x2dUNBnQEqZ2GfQo4fdnPw55dDb+EfN1UVEPVANWmQwDXFUxJ1kFIyG/vdTzn1MqY6Rydbjsi/7RLUP7Bg+XlPtOw9VQR6oqSu+cAfgUeJ867CEnUs=
+9q57mu6hhj8ccah7lo0grtm053jf8j2s.nokia.	900	in	rrsig	NSEC3 8 2 900 20260216081753 20260117064753 58104 nokia. B/Mm2Xh7cv38reN7u39bvONRdfwJEwmQjMoAEEB8RrvLlrrNLaZkawwUuEGlU6aIJYFwUWCVzJNXCtN3gwLCj9v2d7K1SBOLQofhoAQpEawWIyemU2qRs1Fje0rpl2qhm7RQRMyfaqOErA83jVva6u8yooEBn3f5xpXiSYIEOPc=
 a.nic.nokia.	3600	in	a	194.169.218.159
 a.nic.nokia.	3600	in	aaaa	2001:067c:13cc:0000:0000:0000:0001:0159
 b.nic.nokia.	3600	in	a	185.24.64.159
@@ -27,24 +27,24 @@ nic.nokia.	3600	in	ns	a.nic.nokia.
 nic.nokia.	3600	in	ns	b.nic.nokia.
 nic.nokia.	3600	in	ns	c.nic.nokia.
 nic.nokia.	3600	in	ns	d.nic.nokia.
-nic.nokia.	3600	in	rrsig	DS 8 2 3600 20260120113327 20251221100327 58104 nokia. oOCNZca+2rOSWCrfYs3xgoKxlNXZj0eJdPXbaDZbXlyFjqtBCEaL/BNecydIeQeElUWuBebJWnR2Qx2f25vWhSqtzrkJpOwOyuvgH51dTb+4k+b6XFgkqZj5kthiJbmSG0uXrvK+spRX78dUhZ3BIWgLMaoYLACJwooi+it6PHI=
+nic.nokia.	3600	in	rrsig	DS 8 2 3600 20260216095302 20260117082302 58104 nokia. pWAhGNAQlp19u+NmjL8h9g+z82b3yClUJydGkl7d8jLTm7Ix03ZASnfTQOLtk8J9Vl1YodVVHKJ2X5PnqZIk2yQASgOmVe4XPM09rffiub70/gg1r2ZORkzr+vG1gWP9pFzJNmUT6jHa/SXb4J0rWIMJpO0rsd5UiJKVA/AiLZg=
 nokia.	172800	in	ns	a.nic.nokia.
 nokia.	172800	in	ns	b.nic.nokia.
 nokia.	172800	in	ns	c.nic.nokia.
 nokia.	172800	in	ns	d.nic.nokia.
-nokia.	172800	in	rrsig	NS 8 1 172800 20260120095302 20251221082302 58104 nokia. DZdtxrv/S8WtSOLC2COvyY8JyA3hqyDStm8HKbmi6HZheo+yYyL4H/HohdADf1gf+bgKxDTSyMOFFQP4nSTp184rJANzPAH2y3vQpRMPCLFk/PozdWJIDB4Ep5Lrh1l445+BfQ/4GH8CkwLC9D06ddjbQUCpxVLTALXnp/+Kvto=
+nokia.	172800	in	rrsig	NS 8 1 172800 20260216081753 20260117064753 58104 nokia. Y1vHpICVlT591mY6I3uR3bRghK37ykVAGgx49OM9IBtQS5Hqly/OfMH2tdCyWqLseh88oTdTRJlB+S7+H+AnJI1yoUefdYs8eZWa+dpr13J9yyJ5bPAZMPn9ZKk3T//dwTgIXlvtW77Gln4SOadSDlSK46ogeCE2t2f8+CCevyU=
 nokia.	3600	in	dnskey	256 3 8 AwEAAc4EyFOO2cdpVXkKEM4QE2Kk+NzZ3Op5ugkpAyDbkxDnSRoiIjA+nmfvVTU+il9sSmhFLLYpv/hI2iWapmdA0qS+Y8C5s2uwHsjBM2a7g4NcxZCkOQMtwlyZwa9vkwC9GWA41swo8cYFrtMv1ZXmTQ0mcMsVS0FDsDlaWeVPH/GF
 nokia.	3600	in	dnskey	257 3 8 AwEAAcnjscqaQ/GuSRhIXOLtkgGRtzGHCtVP+Lps92HQoZtuHyhaw49Qm1X5sxXhuph/EG8gISvIlKQN1/zTVwIkQda3/LbaPpalNrYK/Eav4tfPP/tphYs9y5xqepM1bdM+1UzFesroDNaTn4OumO2nRDA5wKtcFSIDj3kc+0hhVKmTAv/bK+SCaggYz/MjMNPeQoxDa5LoXEKCeHJmeGmrF4A/gtXCJ898PXMzPChm1sU5kag5J/HXS59LhytvvFt90eoKXdeFHRiNn31OjekqluApe8dCr7dtYYaksUziXudgFjs1VjP+q8Y4B4GJSajmgwCjRIa2DAabgreQoJ/s6dU=
-nokia.	3600	in	rrsig	DNSKEY 8 1 3600 20260120095302 20251221082302 5506 nokia. waWmCQsIR3wwDIq+XChz31gBMrgEyNtlAKzMoOyZRA3A8JYaU2R0heM/fBwJ9byr+mKS9/hBY4I4GkuCXSg5RRvyVcYqDXOepxe28bjKEeBRnwfbcNAzjz97UP/F+lEuiREqQY8du8z/eiLP38xDKfksroq7pZYHROunMI+WnwpxmkFm3qjAS6/j5QM/3JQxWn2tE9ucKEnnahNmFFTqHm4wYmsiaMeiFEuED97xNZwNMAVOgyaAhq7cTzTHgvmEm0vTanT5vfv2TsE1s4bS+ERDfPyrImh77yyTfGFAGkJNCbpVUF+uJ4bA1RL2TShk1O5CfEJkuAgVqA5Syqbrng==
+nokia.	3600	in	rrsig	DNSKEY 8 1 3600 20260216081753 20260117064753 5506 nokia. SvxbRQuy9H5O3NdapAGMKvm3D5KMtQu7iyOm+2mgQktZL+ZwHRihabkHB/5AVPnHzt7bssjVfaJtOTqFHtJzTTu0462SLCXZH2VGEzi/nR/ih2SsJhSer+8Pw6ySYj7+y6eGdw/FqGPp9EekvTE4DgAVRNUN8MFt37j0vM+M2VaJ0Ze63H9l19DU0H435SXmcO18NnxA4SXT1CRkQJKTQIUAERSsEFCNrKwXXfXqoXCmgqHl7jeDxGZfHn6RuwDqGVJ5EOjHIhco2Wl5Cc2Z05P6mqDawsJdJ4KVtqqx/14wa+vgHRQ+B8zzqn8ilO2UmWPMgabzL6kyUGIS9d7IZg==
 nokia.	900	in	nsec3param	1 0 0 -
-nokia.	900	in	rrsig	NSEC3PARAM 8 1 900 20260120095302 20251221082302 58104 nokia. QAuL4cCshAP5VWl9hcGY8BPWeWtPfz4U55b9gRqZnRrDZH3OZMH+aRqUz4/nvvS+6Khm56NZn9gv3tmex9GkrFmaD16boWFjUgk7CRaW/1mVZ+Cb7V0CCWlFpXAuomPprlXoYPM3KJcUVcBcxB/aprCd9U7iv+FvKEp/Xdqbv24=
-nokia.	900	in	rrsig	SOA 8 1 900 20260205011541 20260105234541 58104 nokia. DKx2FAOkT2ZHEumHeDsisj7JczJ1NESl6L8+BTIfOJNq5UG0UXQYpb1+S1sM0Jovu2zrmVhfg0669hEvw8Jl/96eXAaE6szLcaXhDUaiTIkXFROX02zlVHQCSf7PizlpJnEqLUATYABCR+7TmXp0QO/1nsqCqiE9hmsVWORe8JY=
+nokia.	900	in	rrsig	NSEC3PARAM 8 1 900 20260216081753 20260117064753 58104 nokia. MXnaSasnLPSryCzHaP94i5X+bGeFttsZQIoxGbtVLjZteuyAGWeJPZ1+wUi7mbdGFdUaoWOahf91faDWDbaUerkQGO3St62CzbeAbJ+zCMJFkEOcAvgzqtBYBdmtnoLCFHoOzyX8pMSLRf1ql1DBpjxFqGydmekGNzPJXnN7Kgs=
+nokia.	900	in	rrsig	SOA 8 1 900 20260224005951 20260124232951 58104 nokia. oZNiOuYf1PJISUPsZ9ZDlY0M9TY0hEKg/ouVeui4wciG8nu9kIV0CxfEO9sVPdf3HaCMbt2HeexAI32y759OBUTFaXZR088NW20TY4vIpeSxBss20jHNJXAtXZakFnWQwryNK14p9QJ2V3YsazydOprVMNp1bPioLRKVXrwsIGg=
 pogvcm046ubpaslopnrgduav9s85fccd.nokia.	900	in	nsec3	1 1 0 - 9Q57MU6HHJ8CCAH7LO0GRTM053JF8J2S NS DS RRSIG
-pogvcm046ubpaslopnrgduav9s85fccd.nokia.	900	in	rrsig	NSEC3 8 2 900 20260120113327 20251221100327 58104 nokia. b1QPMzxBZxQCix/eF797Pb8NIQWtMfWNWE1njBAXbCgQoYcxa0keUFwb61MD6GTBkWPQt98l3TXg8bX+aHkc/SqyEEpiA4j43py1UFsgirkr0p8+VIMZBdEz23qTZLOFjglvSJXbHZysi6uiYpsdC9KJOGzgpmZ4H4iPjY7OR6o=
+pogvcm046ubpaslopnrgduav9s85fccd.nokia.	900	in	rrsig	NSEC3 8 2 900 20260216095302 20260117082302 58104 nokia. KIP+sGWexw6gm1p8Dp2/gde95s45CrxVCYAc4v/0P21+ZtdPrqxV2/kS4c8Kesggc7O/c7MLDnxqCgnl1sWs1Q10mNqOd3+40tHcuLtsZSmpQ1/kkTvBskYNUCYf0lXSg292HpubMx/ArvzBXo4Plrt8ILhM7+tj5Lt1cxCO2g8=
 tech.nokia.	3600	in	ns	ns.nokia.com.
 tech.nokia.	3600	in	ns	ns2.nokia.com.
 tech.nokia.	3600	in	ns	ns3.nokia.com.
 tech.nokia.	3600	in	ns	ns4.nokia.com.
 tech.nokia.	3600	in	ns	ns5.nokia.com.
 tech.nokia.	3600	in	ns	ns6.nokia.com.
-nokia.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1767662141 900 1800 6048000 3600
+nokia.	900	in	soa	ns0.centralnic.net. hostmaster.centralnic.net. 1769302791 900 1800 6048000 3600
