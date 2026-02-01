@@ -1,6 +1,6 @@
-hiv.	900	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1767661985 1800 900 604800 300
+hiv.	900	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1769303285 1800 900 604800 300
 9km184ithfcfah93gp76c047ib6h5144.hiv.	300	in	nsec3	1 1 0 - BE01EUQ2UFIQS023J89HVVGN8V47JM9C NS DS RRSIG
-9km184ithfcfah93gp76c047ib6h5144.hiv.	300	in	rrsig	NSEC3 13 2 300 20260205001310 20260106001310 49476 hiv. 92o+QslqeDaLUMNfB0mmKnBK+jX6jFioOmadzRzj6m2a+ynwRagzvTdyaL90PgSdRvrSDgnHmyWyk3SlG6mSLQ==
+9km184ithfcfah93gp76c047ib6h5144.hiv.	300	in	rrsig	NSEC3 13 2 300 20260224000810 20260125000810 49476 hiv. Fd9rqg2KwpFj5PgGFpRk5rfVXxsnz+UYr8y8W8qUUGTBneEYbf4rvsKVo/ygqE3RZGcl38N6UxZzsBQB7/aslQ==
 abbvie.hiv.	900	in	ns	ns1.markmonitor.com.
 abbvie.hiv.	900	in	ns	ns2.markmonitor.com.
 abbvie.hiv.	900	in	ns	ns3.markmonitor.com.
@@ -34,11 +34,12 @@ ape.hiv.	900	in	ns	ns-131-a.gandi.net.
 ape.hiv.	900	in	ns	ns-152-b.gandi.net.
 ape.hiv.	900	in	ns	ns-165-c.gandi.net.
 apple.hiv.	900	in	ds	16645 8 2 D682619AEAE8E0038E19849CC0943250114947F96FEA06438EE47A75E24AA9B2
-apple.hiv.	900	in	ns	ns1.bb-online.net.
-apple.hiv.	900	in	ns	ns2.bb-online.org.
-apple.hiv.	900	in	ns	ns3.bb-online.info.
-apple.hiv.	900	in	ns	ns4.bb-online.biz.
-apple.hiv.	900	in	rrsig	DS 13 2 900 20260205001310 20260106001310 49476 hiv. djwoOaAvJhqR7GFHYUG53YISDxGHajuLypSc+Xint6e32+HPCmwNSjQ7m7ST81ySLAjyk2p78ReEUUASySkuCA==
+apple.hiv.	900	in	ns	ns1.markmonitor.com.
+apple.hiv.	900	in	ns	ns3.markmonitor.com.
+apple.hiv.	900	in	ns	ns4.markmonitor.com.
+apple.hiv.	900	in	ns	ns5.markmonitor.com.
+apple.hiv.	900	in	ns	ns6.markmonitor.com.
+apple.hiv.	900	in	rrsig	DS 13 2 900 20260224000810 20260125000810 49476 hiv. tBBmk8QugdTIuEceLAsvWdJ7IE6VWeQ2EgvCrZn1SgvBR6ZN0WKF3iKuisKVr9+8Wko6RLUHAsQjF/ygQIgwvw==
 arc.hiv.	900	in	ns	ns1.messagingengine.com.
 arc.hiv.	900	in	ns	ns2.messagingengine.com.
 atripla.hiv.	900	in	ns	ns1.netnames.net.
@@ -55,7 +56,7 @@ baseball.hiv.	900	in	ns	gwen.ns.cloudflare.com.
 basketball.hiv.	900	in	ns	bill.ns.cloudflare.com.
 basketball.hiv.	900	in	ns	gwen.ns.cloudflare.com.
 be01euq2ufiqs023j89hvvgn8v47jm9c.hiv.	300	in	nsec3	1 1 0 - HRC4K0ISEK3URQTQVJ3PHU6UG5EVRJQ1 NS DS RRSIG
-be01euq2ufiqs023j89hvvgn8v47jm9c.hiv.	300	in	rrsig	NSEC3 13 2 300 20260205001310 20260106001310 49476 hiv. LpLp5IvE+at9ceNP0BIBdVYV0xTQP8iI/IrQVLQPzSp+rZw2POcoTnMBJTQ1uNbQkN1Sj9m9XVywxGngp724bQ==
+be01euq2ufiqs023j89hvvgn8v47jm9c.hiv.	300	in	rrsig	NSEC3 13 2 300 20260224000810 20260125000810 49476 hiv. uWrifdbz8RYPnIGTCY2wQnRFeAcKb5WvdQM9CZaW4wr+54f0u6icNWoVUfTvuZqWyPq4jqgyBzYTgXPr/02sJg==
 bee.hiv.	900	in	ns	ns1.namemaster.de.
 bee.hiv.	900	in	ns	ns2.namemaster.de.
 bee.hiv.	900	in	ns	ns3.namemaster.de.
@@ -136,24 +137,18 @@ douglas.hiv.	900	in	ns	ns1.netnames.net.
 douglas.hiv.	900	in	ns	ns2.netnames.net.
 douglas.hiv.	900	in	ns	ns5.netnames.net.
 douglas.hiv.	900	in	ns	ns6.netnames.net.
-dukechildrens.hiv.	900	in	ns	dns1.safenames.com.
-dukechildrens.hiv.	900	in	ns	dns2.safenames.net.
-dukechildrens.hiv.	900	in	ns	dns3.safenames.org.
-dukehealth.hiv.	900	in	ns	dns1.safenames.com.
-dukehealth.hiv.	900	in	ns	dns2.safenames.net.
-dukehealth.hiv.	900	in	ns	dns3.safenames.org.
-dukehospital.hiv.	900	in	ns	dns1.safenames.com.
-dukehospital.hiv.	900	in	ns	dns2.safenames.net.
-dukehospital.hiv.	900	in	ns	dns3.safenames.org.
-dukelifepoint.hiv.	900	in	ns	dns1.safenames.com.
-dukelifepoint.hiv.	900	in	ns	dns2.safenames.net.
-dukelifepoint.hiv.	900	in	ns	dns3.safenames.org.
-dukemedicalcenter.hiv.	900	in	ns	dns1.safenames.com.
-dukemedicalcenter.hiv.	900	in	ns	dns2.safenames.net.
-dukemedicalcenter.hiv.	900	in	ns	dns3.safenames.org.
-dukemedicine.hiv.	900	in	ns	dns1.safenames.com.
-dukemedicine.hiv.	900	in	ns	dns2.safenames.net.
-dukemedicine.hiv.	900	in	ns	dns3.safenames.org.
+dukechildrens.hiv.	900	in	ns	ns1.pendingrenewdelete.com.
+dukechildrens.hiv.	900	in	ns	ns2.pendingrenewdelete.com.
+dukehealth.hiv.	900	in	ns	ns1.pendingrenewdelete.com.
+dukehealth.hiv.	900	in	ns	ns2.pendingrenewdelete.com.
+dukehospital.hiv.	900	in	ns	ns1.pendingrenewdelete.com.
+dukehospital.hiv.	900	in	ns	ns2.pendingrenewdelete.com.
+dukelifepoint.hiv.	900	in	ns	ns1.pendingrenewdelete.com.
+dukelifepoint.hiv.	900	in	ns	ns2.pendingrenewdelete.com.
+dukemedicalcenter.hiv.	900	in	ns	ns1.pendingrenewdelete.com.
+dukemedicalcenter.hiv.	900	in	ns	ns2.pendingrenewdelete.com.
+dukemedicine.hiv.	900	in	ns	ns1.pendingrenewdelete.com.
+dukemedicine.hiv.	900	in	ns	ns2.pendingrenewdelete.com.
 dusipriss.hiv.	900	in	ns	dns1.p03.nsone.net.
 dusipriss.hiv.	900	in	ns	dns2.p03.nsone.net.
 dusipriss.hiv.	900	in	ns	dns3.p03.nsone.net.
@@ -178,9 +173,9 @@ edurant.hiv.	900	in	ns	ns01.jnjdns.com.
 edurant.hiv.	900	in	ns	ns02.jnjdns.com.
 edurant.hiv.	900	in	ns	ns03.jnjdns.com.
 edurant.hiv.	900	in	ns	ns04.jnjdns.com.
-eecadata.hiv.	900	in	ns	ina1.registrar.eu.
-eecadata.hiv.	900	in	ns	ina2.registrar.eu.
-eecadata.hiv.	900	in	ns	ina3.registrar.eu.
+eecadata.hiv.	900	in	ns	ns1.openprovider.nl.
+eecadata.hiv.	900	in	ns	ns2.openprovider.be.
+eecadata.hiv.	900	in	ns	ns3.openprovider.eu.
 emeis.hiv.	900	in	ns	dns1.cscdns.net.
 emeis.hiv.	900	in	ns	dns2.cscdns.net.
 ending.hiv.	900	in	ns	dean.ns.cloudflare.com.
@@ -237,32 +232,28 @@ gtzillinois.hiv.	900	in	ns	carl.ns.cloudflare.com.
 gtzillinois.hiv.	900	in	ns	carla.ns.cloudflare.com.
 heartfulness.hiv.	900	in	ns	ns09.gcd-dns.com.
 heartfulness.hiv.	900	in	ns	ns10.gcd-dns.com.
-help.hiv.	900	in	ns	curitiba.ns.porkbun.com.
-help.hiv.	900	in	ns	fortaleza.ns.porkbun.com.
-help.hiv.	900	in	ns	maceio.ns.porkbun.com.
-help.hiv.	900	in	ns	salvador.ns.porkbun.com.
 helpstopthevirus.hiv.	900	in	ns	ns1.netnames.net.
 helpstopthevirus.hiv.	900	in	ns	ns2.netnames.net.
 helpstopthevirus.hiv.	900	in	ns	ns5.netnames.net.
 helpstopthevirus.hiv.	900	in	ns	ns6.netnames.net.
 hiv.	0	in	nsec3param	1 0 0 -
-hiv.	0	in	rrsig	NSEC3PARAM 13 1 0 20260205001310 20260106001310 49476 hiv. Cpy2WJNCH2Or0KJ69MKAMs3YHHir/3CfE/goJS1/wqcZuVoSG1cqTxFN9O5pwwEtsj2kKGMC7zInlCwdgWv6hA==
+hiv.	0	in	rrsig	NSEC3PARAM 13 1 0 20260224000810 20260125000810 49476 hiv. 1bil5rst1KCpBcskr2RFXiRr3JAvyYAG8qPZoW7kOxcQ1AhQ/HCdKyG4WOCljFrhUOvgZuaFfKp02He9dOrE/w==
 hiv.	172800	in	ns	ns01.trs-dns.com.
 hiv.	172800	in	ns	ns01.trs-dns.net.
 hiv.	172800	in	ns	ns10.trs-dns.info.
 hiv.	172800	in	ns	ns10.trs-dns.org.
-hiv.	172800	in	rrsig	NS 13 1 172800 20260205001310 20260106001310 49476 hiv. QuMG2A56dsbBmyBztFPYn3iNOoPXW9NQRTSdkLl+lr31GJB70U/dMVCs40YAxYjrwKdMWsKg5KTWuDGUbUziwQ==
+hiv.	172800	in	rrsig	NS 13 1 172800 20260224000810 20260125000810 49476 hiv. B+44JDtu3H+8eMZ1ACf0x8NYJ/XVEADv3Iac9WD631Gq1AAM+1BpgchAfMFV/1Tple2A8UPLsX+SMVv0hg0bjQ==
 hiv.	900	in	dnskey	256 3 13 faM4K7W5bw8n80mnfHzEocIC5VIpKaSCZdJn8YH0buyTbF5lm8Mtlx4S96biqGb8aBaLlxBF4dWYlUGzX4PCIA==
 hiv.	900	in	dnskey	257 3 13 FNSXBUjH7DCY9zperdtaieaMZcoJa28TO7XoqoVTvswOyDslRwDMRgbYUSzokiaMoULFHyP+LHPn97zWWQJgDA==
-hiv.	900	in	rrsig	DNSKEY 13 1 900 20260205001310 20260106001310 49476 hiv. owcI/qEw+3MwjM4LeXQqxSqI6OtW9XmTLuQRU/gPiGez6IshTzsJwZ+6JD4MCXA4wMCf5mU693rk159bzqX6gg==
-hiv.	900	in	rrsig	DNSKEY 13 1 900 20260205001310 20260106001310 50937 hiv. dpdUHKs4ZKOy1FBE32zU8K+N1QErAFHqqRnKoBAiQWFI6SGyeuyGqhK0yaDWUZpQyIVUPFry2zuUwTbk0LrP1Q==
-hiv.	900	in	rrsig	SOA 13 1 900 20260205001310 20260106001310 49476 hiv. 428pQHm5q46uPnjAoEllDuhla2eDra//4b9fbXZklAKglXlutfQIiwpggLHiheS6NEiH3Vk/034MYy+YlK4+Kw==
+hiv.	900	in	rrsig	DNSKEY 13 1 900 20260224000810 20260125000810 49476 hiv. kS5JkMCjNTQZLntgMLqMyGBfM0de2KrvnnQsqEx5nuw8cuV08Ulyi6Ru9rW02/etY904NlDr3+lU3+ZQlImWPA==
+hiv.	900	in	rrsig	DNSKEY 13 1 900 20260224000810 20260125000810 50937 hiv. 7KmYtV1KmiSuJFs8cZfc1k0vORoChEJeutqAbWObXXFGbHe6Xhhid3xXAxfps3C50++LduEcWH/LvO1Ox3nbXQ==
+hiv.	900	in	rrsig	SOA 13 1 900 20260224000810 20260125000810 49476 hiv. hzv1XAtequ3j/qDJqORsF24nM0IoRW/YQgK4F1n84G8wY8MN5DtsxGTmE1+ThvlPSudAhDiu6VzqPuXHGGWk+Q==
 hivanswers.hiv.	900	in	ns	ns1.netnames.net.
 hivanswers.hiv.	900	in	ns	ns2.netnames.net.
 hivanswers.hiv.	900	in	ns	ns5.netnames.net.
 hivanswers.hiv.	900	in	ns	ns6.netnames.net.
 hrc4k0isek3urqtqvj3phu6ug5evrjq1.hiv.	300	in	nsec3	1 1 0 - K0TG3QPB3RQLI9V5406H57MTBRFQ21B9 NS DS RRSIG
-hrc4k0isek3urqtqvj3phu6ug5evrjq1.hiv.	300	in	rrsig	NSEC3 13 2 300 20260205001310 20260106001310 49476 hiv. C8SdXupDMlKFr663Pd0CtlDb6DkMDsBsrG1uI7A2n9HePDT0pcI3JN3bK7yYJiuMuUzJZD8y8jSZciGEPt5GsQ==
+hrc4k0isek3urqtqvj3phu6ug5evrjq1.hiv.	300	in	rrsig	NSEC3 13 2 300 20260224000810 20260125000810 49476 hiv. I7hW2Ndvn7EJ8PD+fGrF7SaOT9i0i3toc41AB2JMEOPar1L1XIXmAMEuGkFAK9uF78nuIFGIrOTcXSkKCjiprA==
 igos.hiv.	900	in	ns	ns.inwx.de.
 igos.hiv.	900	in	ns	ns2.inwx.de.
 igos.hiv.	900	in	ns	ns3.inwx.eu.
@@ -295,9 +286,9 @@ jobsupportaustralia.hiv.	900	in	ns	ns42.domaincontrol.com.
 justapartofme.hiv.	900	in	ds	21874 13 2 C1E0F194EC42D82DB77007C708FFCD09AD90B4C2DB4CA13AC856831159690F52
 justapartofme.hiv.	900	in	ns	ns3.combell.net.
 justapartofme.hiv.	900	in	ns	ns4.combell.net.
-justapartofme.hiv.	900	in	rrsig	DS 13 2 900 20260205001310 20260106001310 49476 hiv. xl71btDZrx8XYhMyt7kaSIss+Uox0Trh4nXere73WBOJpr+nzXyJJFxjQ3iKeCoPktD4BdRJVx3ynMWcx1gbkg==
+justapartofme.hiv.	900	in	rrsig	DS 13 2 900 20260224000810 20260125000810 49476 hiv. pq1U5U/lZwuuu4sKZXzQD0kxSqUKU/xBHoron+tPeOhwFL5iMlOHq+Olr2SVExUUsb3KpLlhfqGId3XfGCIehA==
 k0tg3qpb3rqli9v5406h57mtbrfq21b9.hiv.	300	in	nsec3	1 1 0 - KO69UO139QA4CJ0KLD12C9SAV0H8BGM2 NS DS RRSIG
-k0tg3qpb3rqli9v5406h57mtbrfq21b9.hiv.	300	in	rrsig	NSEC3 13 2 300 20260205001310 20260106001310 49476 hiv. jq3z/OahlIqwO4s1GRtR18I29Q8HYZ0lL7znILDTJ6DTEOrBkLsGCx2V75DgTCxRXTH9qZ67lKoDQRLNa8DyYg==
+k0tg3qpb3rqli9v5406h57mtbrfq21b9.hiv.	300	in	rrsig	NSEC3 13 2 300 20260224000810 20260125000810 49476 hiv. CLvgHO+lzsxoHLVITQjc+tgdq3WSWV4JkddAx3uTndS6RhtcwUtfj3wMlUbcIqoWtTlO5AzHks+4Urg6Q3aEIA==
 kaletra.hiv.	900	in	ns	ns1.markmonitor.com.
 kaletra.hiv.	900	in	ns	ns2.markmonitor.com.
 kaletra.hiv.	900	in	ns	ns3.markmonitor.com.
@@ -316,7 +307,7 @@ kindle.hiv.	900	in	ns	nsgbr.comlaude.co.uk.
 kindle.hiv.	900	in	ns	nssui.comlaude.ch.
 kindle.hiv.	900	in	ns	nsusa.comlaude.net.
 ko69uo139qa4cj0kld12c9sav0h8bgm2.hiv.	300	in	nsec3	1 1 0 - UL8CMJT48MBN486ER1MV81DECLJR3D3V NS DS RRSIG
-ko69uo139qa4cj0kld12c9sav0h8bgm2.hiv.	300	in	rrsig	NSEC3 13 2 300 20260205001310 20260106001310 49476 hiv. ebjT0OidvX5QA+S/oxvTs+gEhrIIl/LxufSyo6mVmu0OEhY6yszaThF84Lulm3G6Fy/zeH+b+10qZ5XKpzVVfw==
+ko69uo139qa4cj0kld12c9sav0h8bgm2.hiv.	300	in	rrsig	NSEC3 13 2 300 20260224000810 20260125000810 49476 hiv. d2YixW2/xt9c/0ZIQaMFKM21/wB+puONdYpPzCiIW4x44Pw0ApeXHhIJ0kY59JHJT8yCaGcY+POmTHmfzymMcw==
 kompass.hiv.	900	in	ns	ns1.domaindiscount24.net.
 kompass.hiv.	900	in	ns	ns2.domaindiscount24.net.
 kompass.hiv.	900	in	ns	ns3.domaindiscount24.net.
@@ -432,7 +423,7 @@ niaprevents.hiv.	900	in	ns	ns13.dnsmadeeasy.com.
 nic.hiv.	900	in	ds	62506 13 2 E734DBE9B55EA75B52108E9DB6EEAE2EF5149EA27A1AF4D4055A62F4CA5F87B5
 nic.hiv.	900	in	ns	ns03.trs-dns.com.
 nic.hiv.	900	in	ns	ns03.trs-dns.net.
-nic.hiv.	900	in	rrsig	DS 13 2 900 20260205001310 20260106001310 49476 hiv. LvqqEBfE2C4VYZ+gK43mpAtNYrIon1sduLO/2B4GaXQP9yxx0YQYWQhDou8NfLBPruvnf+2wCXiRxG8Bz1u4iw==
+nic.hiv.	900	in	rrsig	DS 13 2 900 20260224000810 20260125000810 49476 hiv. fxLdVqKtfZ6W0VlksMc7BdfJtgJgqQ8aXQ7sF+Q6UmosT+vVUBV+vfkX6Xr7mu1nYFPF9eeQ9vrQ/v+Yyhzxnw==
 nok88.hiv.	900	in	ns	curitiba.ns.porkbun.com.
 nok88.hiv.	900	in	ns	fortaleza.ns.porkbun.com.
 nok88.hiv.	900	in	ns	maceio.ns.porkbun.com.
@@ -548,7 +539,7 @@ sinnerschrader.hiv.	900	in	ns	ns-cloud-c4.googledomains.com.
 sisaisolutions.hiv.	900	in	ds	59936 13 2 2BA0A8D0580B78D61B838F97AF5FB4C2DE0A0D3ACE83F9F8476A8AE5C5037154
 sisaisolutions.hiv.	900	in	ns	launch1.spaceship.net.
 sisaisolutions.hiv.	900	in	ns	launch2.spaceship.net.
-sisaisolutions.hiv.	900	in	rrsig	DS 13 2 900 20260205001310 20260106001310 49476 hiv. aZ/BLjylI/5IL5B3M5c7wEJnrArWN/9uD0con6V5Q6EyX8LPuCZUB0wAhVFRytaSVB4JnDGTO/SULO3molVkMA==
+sisaisolutions.hiv.	900	in	rrsig	DS 13 2 900 20260224000810 20260125000810 49476 hiv. Nya5dyYA6ubDdYrP6Hh9JKKl7c+McEybz7lB5rJv6dsO3DkvaMLrB4GqOyFxwbHrP1X1WX4+cpNvJaPzCQO4Pw==
 sixt.hiv.	900	in	ns	b.ns14.net.
 sixt.hiv.	900	in	ns	c.ns14.net.
 sixt.hiv.	900	in	ns	d.ns14.net.
@@ -597,9 +588,6 @@ stribild.hiv.	900	in	ns	ns1.netnames.net.
 stribild.hiv.	900	in	ns	ns2.netnames.net.
 stribild.hiv.	900	in	ns	ns5.netnames.net.
 stribild.hiv.	900	in	ns	ns6.netnames.net.
-stylight.hiv.	900	in	ns	ns.udag.de.
-stylight.hiv.	900	in	ns	ns.udag.net.
-stylight.hiv.	900	in	ns	ns.udag.org.
 sunshine.hiv.	900	in	ns	bill.ns.cloudflare.com.
 sunshine.hiv.	900	in	ns	gwen.ns.cloudflare.com.
 test.hiv.	900	in	ns	cody.ns.cloudflare.com.
@@ -666,16 +654,16 @@ tumblr.hiv.	900	in	ns	ns4.tumblr.com.
 ufabet.hiv.	900	in	ds	25491 13 2 C0160CB0F8D3EC78BD6A1623E20F8878CB3BB7A350A0DD62EFFC08ECC737310A
 ufabet.hiv.	900	in	ns	launch1.spaceship.net.
 ufabet.hiv.	900	in	ns	launch2.spaceship.net.
-ufabet.hiv.	900	in	rrsig	DS 13 2 900 20260205001310 20260106001310 49476 hiv. vAw41I2zIxVqgQkf/zhqjO8gLuL0J3u65PytyQimGQgt4UMIJd62Ff4p2ECDEytIICe4ObGj+HneQUJaHhaCiQ==
+ufabet.hiv.	900	in	rrsig	DS 13 2 900 20260224000810 20260125000810 49476 hiv. KpK7mA5nM/kgf/QuqKzX6EWC9SRBjugnR0aRRdrJw3+buyHBqpp6wCHrU7PujlTiApPjRsZQl7MCzwIkBmzUOg==
 ul8cmjt48mbn486er1mv81decljr3d3v.hiv.	300	in	nsec3	1 1 0 - UMN7733UBC3DHELU7GL6LUQUGDRKE2VM NS SOA RRSIG DNSKEY NSEC3PARAM
-ul8cmjt48mbn486er1mv81decljr3d3v.hiv.	300	in	rrsig	NSEC3 13 2 300 20260205001310 20260106001310 49476 hiv. y5P+7uRSLnv5uFuJLGqit+KywkKPRZWxzGIwt/qhtOfiBuUjicMC6Vd1LP1+VbR2CWCHHXN60ulCQajXmQJMXg==
+ul8cmjt48mbn486er1mv81decljr3d3v.hiv.	300	in	rrsig	NSEC3 13 2 300 20260224000810 20260125000810 49476 hiv. GF6XL+x8i8CHnwj1vq+uL6CgPrpiyLQTlxXt2UyQwji9NIwaW2G4osNH3bGohhDNmps0y22Gh55ObrNkkQERnQ==
 umn7733ubc3dhelu7gl6luqugdrke2vm.hiv.	300	in	nsec3	1 1 0 - 9KM184ITHFCFAH93GP76C047IB6H5144 NS DS RRSIG
-umn7733ubc3dhelu7gl6luqugdrke2vm.hiv.	300	in	rrsig	NSEC3 13 2 300 20260205001310 20260106001310 49476 hiv. C5MQf2flsm8FkXMYYBWQHhzJtC2QUDKMn37pxQ+OV4X2XpYo5xIj7LnmffJn2qjdUekPrIbtPt7myFaClxrtWA==
+umn7733ubc3dhelu7gl6luqugdrke2vm.hiv.	300	in	rrsig	NSEC3 13 2 300 20260224000810 20260125000810 49476 hiv. lNo/lp3VlAoUywdXC8K0eOtzaCsH2DOn/Dz3QqXY7/ydoLxLvpGWfoMfmHocnxyZ55s/FsFwG/muJGnNwWT+bw==
 unr.hiv.	900	in	ds	2134 13 1 0263F8CEE99CBFACBA3D5D75945D82A175E9A0C2
 unr.hiv.	900	in	ds	2134 13 2 9C25BC9CEF3138F303D9CA4204B850FE1B914E464F5883EFC73BF41D706E1127
 unr.hiv.	900	in	ns	ns02.trs-dns.com.
 unr.hiv.	900	in	ns	ns02.trs-dns.net.
-unr.hiv.	900	in	rrsig	DS 13 2 900 20260205001310 20260106001310 49476 hiv. i5EIb8WXLet1ldp/ndn8E6/lP1crBDEwb0h0jp7G8/bCVuwddWwYmeNlUndUKOM9tkw1T/StoykyP04kLKeb3g==
+unr.hiv.	900	in	rrsig	DS 13 2 900 20260224000810 20260125000810 49476 hiv. dEsAjlklvi+J2qLSCmWXCX7Jq5gWehdwOkjtcrG8W0osRBNKKNiCWggZTU7W8tXTFUl09Ltm/Z4gjSmjnKy49w==
 vaccineaids.hiv.	900	in	ns	curitiba.ns.porkbun.com.
 vaccineaids.hiv.	900	in	ns	fortaleza.ns.porkbun.com.
 vaccineaids.hiv.	900	in	ns	maceio.ns.porkbun.com.
@@ -780,4 +768,4 @@ zytiga.hiv.	900	in	ns	ns01.jnjdns.com.
 zytiga.hiv.	900	in	ns	ns02.jnjdns.com.
 zytiga.hiv.	900	in	ns	ns03.jnjdns.com.
 zytiga.hiv.	900	in	ns	ns04.jnjdns.com.
-hiv.	900	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1767661985 1800 900 604800 300
+hiv.	900	in	soa	ns.trs-dns.com. trs-ops.tucows.com. 1769303285 1800 900 604800 300
