@@ -1,12 +1,12 @@
-tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1767662354 7200 900 1209600 3600
+tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1769304205 7200 900 1209600 3600
 01.tienda.	3600	in	ns	ns1.dns-parking.com.
 01.tienda.	3600	in	ns	ns2.dns-parking.com.
 0800flowers.tienda.	3600	in	ns	dns1.cscdns.net.
 0800flowers.tienda.	3600	in	ns	dns2.cscdns.net.
 0dc9ibp9hiqdukmf5gqhqlq85rj8fmrc.tienda.	3600	in	nsec3	1 1 0 73 0FDQKKJEA7RJP721AJVOI7DLB0EIU5SQ NS DS RRSIG
-0dc9ibp9hiqdukmf5gqhqlq85rj8fmrc.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. eT3AVjLn9hA4cTS/D/1Lw1sECu0T4qjg/ti0R70o0BhVg3nTqt7h5OzZiHY2iofH9grqv4aR2bdjtnSxT+Hwg3il+yuPQ1N7Jv9FS7GtRvAgLvEhM+WhY1j4dfb0yfdJq5J2EbFMEWIs8MDg7wbwk+gSSKYQMKAyx33rZ5GIH2w=
+0dc9ibp9hiqdukmf5gqhqlq85rj8fmrc.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. MOH+8qc3E36HjhRrO3rbtiOQFsdyOpqSn6nhhuwhhYvwwrK44WxLODF/uKq69gDTyNGR+mXT/I+b+0Rc3GmhOBe9YJfr31ZQsGNvByhwSsOWe7pI+8gSVyn95rrU75Xr3bTAR0hiVpD9AQp/GkzHWP0f1GnM2258Zww/A0nVdag=
 0fdqkkjea7rjp721ajvoi7dlb0eiu5sq.tienda.	3600	in	nsec3	1 1 0 73 14P9O4TT35QQ04B5ECR02CQHPOTKLE4N NS DS RRSIG
-0fdqkkjea7rjp721ajvoi7dlb0eiu5sq.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. XnbWFhBUyZEIPhK9O5fjrFUQCFtF+Bl/oryXE0h/2M3SnQiOHL1QkZbfJhzkJAXdIESK5ACJHWWrYypOLPC5gnqw1hsFQJXwTbU4DeG54+qAVJQsxI0hWtlOF3VMqFLXZbJhGRQaKzSaILzRnRUlb2bSaE4dCt5GG9q/xq+c5dE=
+0fdqkkjea7rjp721ajvoi7dlb0eiu5sq.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. PMthLNhnThRtnOOSvKcKjKgv3uuROBOT7K/K+3cl3V+ubpLNLsEDKPOGcFRnMhYJblYZ1anI6AGCq3sQbksxPbReIAHNmSuiJagTotuLEXLRxasspgn0mVdul/Jzkv338+vqY+9pr4GdxUDdi0c+s/nb7YmMENt4R4c9rsj1+M4=
 10235.tienda.	3600	in	ns	n1.xundns.com.
 10235.tienda.	3600	in	ns	n2.xundns.com.
 1024.tienda.	3600	in	ns	ns1.monfont.com.
@@ -32,8 +32,8 @@ tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1767662354 7200 90
 12035.tienda.	3600	in	ns	n2.xundns.com.
 12305.tienda.	3600	in	ns	n1.xundns.com.
 12305.tienda.	3600	in	ns	n2.xundns.com.
-123b.tienda.	3600	in	ns	lisa.ns.cloudflare.com.
-123b.tienda.	3600	in	ns	roman.ns.cloudflare.com.
+123b.tienda.	3600	in	ns	expire1.gname-dns.com.
+123b.tienda.	3600	in	ns	expire2.gname-dns.com.
 12567.tienda.	3600	in	ns	n1.xundns.com.
 12567.tienda.	3600	in	ns	n2.xundns.com.
 12607.tienda.	3600	in	ns	n1.xundns.com.
@@ -43,9 +43,9 @@ tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1767662354 7200 90
 12903.tienda.	3600	in	ns	n1.xundns.com.
 12903.tienda.	3600	in	ns	n2.xundns.com.
 14p9o4tt35qq04b5ecr02cqhpotkle4n.tienda.	3600	in	nsec3	1 1 0 73 14QQD1EGLD3SA7TK6UD9JEKNHK60EGP6 NS DS RRSIG
-14p9o4tt35qq04b5ecr02cqhpotkle4n.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. g0vpipqJhqn+yWAoYIZCmNiMZZ+MULTgAy/sFsWQEudZBBtDL9mkwaldPC3idWjUAEsr0krmxa5nJiY/EBjuvY1A4Zc7xpkXCR9zQZWqcfQyH3uq/IC3e7NkwLfddWu4ARm7riujX2KBEeslbk1KA8AcVnT+aZZdCbxEAaN81aE=
+14p9o4tt35qq04b5ecr02cqhpotkle4n.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. ZHPYdUSaUJMXrbn+dNVqgv0qoAjZbrvjV3LpR6O7HGVE/Al1Oj+/GVEZ4uh3aYPIcDq1GDXBrPIsNdqTKOSFB/jk1FwvYoMnq1KsqQklhlJw6fK4ZIuSoO9YjaoRPK0aM3ZbtqbSyR4fbfNm1/6szqs7Lqcpi0KN+zBlSqdVvM4=
 14qqd1egld3sa7tk6ud9jeknhk60egp6.tienda.	3600	in	nsec3	1 1 0 73 1FPO2O9DRCVJTBOAMTOGM51Q6T06HL55 NS DS RRSIG
-14qqd1egld3sa7tk6ud9jeknhk60egp6.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. idzCdRsiJRwUv6fTWXbcjoQS144xDQPTVriiqsEtIgMNaKkQuW/zIzCd8FnEBphINweLC00StNQBHyuNEm6JBnItpNZ31NDt7ILPuS76B5hbTizWomSKXPk/m1o0U6zzdNcN7MRor6ZpWoeP5zIVdN9KrNId2T/q0vR3oCU0ekc=
+14qqd1egld3sa7tk6ud9jeknhk60egp6.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. did9XV1BlNw22uIVndJvULJ2cwg7ez8tyQPpn96F04gMWUj0l8WlEq3g/FeSlh0RLwZea1d7957NsykliWPUI//YriZkkjNZCwSOVVO9EdtpwNutdBpIf9QrRjPZrKskfEc8XZQVgCoX/4UgmGzq3xspNbpDHsgXN96/8T5reH8=
 15023.tienda.	3600	in	ns	n1.xundns.com.
 15023.tienda.	3600	in	ns	n2.xundns.com.
 15207.tienda.	3600	in	ns	n1.xundns.com.
@@ -85,16 +85,15 @@ tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1767662354 7200 90
 19902.tienda.	3600	in	ns	n1.xundns.com.
 19902.tienda.	3600	in	ns	n2.xundns.com.
 1fpo2o9drcvjtboamtogm51q6t06hl55.tienda.	3600	in	nsec3	1 1 0 73 1QUA8UTE11UAS20NFDGDMMTH50SF4U3K NS DS RRSIG
-1fpo2o9drcvjtboamtogm51q6t06hl55.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. Iv0mAeFUefOGeWhdRIU/NX7VnFQG5sqkowlSFIeFGrPH6fLhf4FzTXXdDIJc6PZ4eKEpcqANb9bZmlDL2pVp5I8Lyee458a+66DEcT03gyM8Ir5l0ce7RC4y0OKu1k4a6s8cfk8lAB9X95xL3HA2EpvdN5jY+UeR1z+QgUG36GI=
+1fpo2o9drcvjtboamtogm51q6t06hl55.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. SGw3MK96wgal1ONAsWdNI2nKcZDOaUuiO3rHa8BZcjer3HF0Al1OnfpIMYlMWJarpYIvJqM4nGM+3H2VeMr8VUJ2uSKnq51xx9UcuyvgW8RolEf9Ce/Fggb0YbAqkF4vB84Zu4b/Cddksho80agMOPlyiGZe9aSQsPyoQ9Jc59U=
 1qua8ute11uas20nfdgdmmth50sf4u3k.tienda.	3600	in	nsec3	1 1 0 73 21H1GP537V2QDIV3OPAJP4D1NTPVF1SU NS DS RRSIG
-1qua8ute11uas20nfdgdmmth50sf4u3k.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. U0ch2J53HZjJkTlubEfQZDYzL0QPvnBkeHYCOmsQcM8USX1WvH6i/7K1iZphcdKiR0s2psj0d5iJp6nYy4sAWU+2N1r5YC5qetLaFvtMf0L8x2iKB8myqcSd/5R2sNZbatF5f2lLDbwLt67lUlj/xpKnYaIj/QWeM0oojhKlW2w=
+1qua8ute11uas20nfdgdmmth50sf4u3k.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. fS0dx2zOzNT4Z09DPaEmY/cHevYQb/akVx0cA0CAxkXcqdu0/GnHVQ742ThMG8KqQkfpJsT+EdHF3pWVfhDgI6DFroYAGHfyTHc1D00rNLvxYRJqnSZMKNyfiPnyVOkv0bPMD0T1lKxCEKuEqsOss8ol++/8EFlAXdEsT8bbWIU=
 21h1gp537v2qdiv3opajp4d1ntpvf1su.tienda.	3600	in	nsec3	1 1 0 73 236VUS2KQ731ESGE0N8TI9Q1J9UOV680 NS DS RRSIG
-21h1gp537v2qdiv3opajp4d1ntpvf1su.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. tK/r1RTYiUqn9QHpnAS5SORdQDe9mrvQkb2z0MR2a5F/3LrAfaBC7TbPOywMCVwWtmLHB4SpM5dAP3K1I18Qh0RZXQiUoDP1UMEgX9meRmXM/8Fs/yUAF9+aq9GK+a85pZqYE6UKGo/wIjkCu6emP6/iu9bIUGmnufwKxteEEFU=
+21h1gp537v2qdiv3opajp4d1ntpvf1su.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. hVfEP3ODlDO0DfNoVj26zqN1qi2tdnKQXrd+RsuaTPtMkxl+yY5k10tVEEKobzcm8eNaWNHmk22lEsLK2lcrJyYsf7nF/0S4jwSRUBNdEui4kAAN3OXN3UA8ZOfPhDS4KHfyhIii4Z70TeuZ9/Kq71yCC8rQe1fc3wIiEIqrVbM=
 236vus2kq731esge0n8ti9q1j9uov680.tienda.	3600	in	nsec3	1 1 0 73 2OU03S7444V4DTS2HPPUJO8390SRDABT NS DS RRSIG
-236vus2kq731esge0n8ti9q1j9uov680.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. TiKmM2LWzxqm3jv8YlQd/W2BEXLK9RxbTldwJdH+metuj6vZauEd9I6SIkJHj2cjVQqa3DaL8kV3M6qux2TEAPSOb8Y5oiIeb88oU/M37b2inviaCrDBc3vBvSv61ERlBYOTiIF8y/bRVOQ6t4XCVTXwFDkJvBx7Z3pVQVe6qjM=
-24.tienda.	3600	in	ns	ns1.afternic.com.
-24.tienda.	3600	in	ns	ns2.afternic.com.
-24.tienda.	3600	in	ns	verification-7fh9pwzsf4mexsywdxhacb.ns101.verify.hn.
+236vus2kq731esge0n8ti9q1j9uov680.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. I1egicxkBmHriOQAkct9P44zs10eIl6IuQ2bVHfrlbl5kxUcSEcgy72lFtziorPnu9O2UAT2febSL7h15I7TRXWB2Dx0E7oqRU30DIpdH+YeclwPFsxXgGaXNXXJqPpzal6fsgBbnufd1gF8LwxSa3UYWtFuPM+zgb0sbcgFQ2M=
+24.tienda.	3600	in	ns	ns1-expired.sav.com.
+24.tienda.	3600	in	ns	ns2-expired.sav.com.
 24589.tienda.	3600	in	ns	v1.xdp.dnsxdp.com.
 24589.tienda.	3600	in	ns	v2.xdp.dnsxdp.com.
 24590.tienda.	3600	in	ns	v1.xdp.dnsxdp.com.
@@ -124,9 +123,9 @@ tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1767662354 7200 90
 2hand.tienda.	3600	in	ns	ns1.dondominio.com.
 2hand.tienda.	3600	in	ns	ns2.dondominio.com.
 2ou03s7444v4dts2hppujo8390srdabt.tienda.	3600	in	nsec3	1 1 0 73 2TBTFA6HC7TGU7C4O0OE30MLIK50IMNF NS DS RRSIG
-2ou03s7444v4dts2hppujo8390srdabt.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. sRp1qJZ+HIi77QMtzwe/Jh4x4JF3o2lVtza2Kxjiw+XdFiaM1Xme2h3JzJqvwK1OY7u58XM7bzpC0qaoGEGE0IVwu1WWg2RXjZ4vZnF3W00VimTxMYNOXm3VjNrCC5zqaoTFHGnzm5EHJMJBZbR7tUZTqHQPNVBqUWFThmWDpCg=
+2ou03s7444v4dts2hppujo8390srdabt.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. KEW4KQWd0HFa3lM2CVD3BO3PChN8xyiwO0CDdsuny5XRIWejK4TSz8ylWLy7Sk0Z4eh/4MJxQtobu/sFK2nqVL3K7XZ1rLa7Az/mhEHYPOBgcHeXvr3T1VU7aDsYJ0GLdiBn4kqmuHw12elJbc6bE+8W5zukgq22LKSRu3dS1ho=
 2tbtfa6hc7tgu7c4o0oe30mlik50imnf.tienda.	3600	in	nsec3	1 1 0 73 3A3HRKAC80GOUG5CUNE69H2T0JN7CU2R NS DS RRSIG
-2tbtfa6hc7tgu7c4o0oe30mlik50imnf.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. SwHXi/b2E+wTUeqnNtBI6a5EqXEIWhzL4yZ5ByAJ3EH1Y8iKWhtUs8kqJfwTtnWdZ+ftNt9MySR/MA/TtVMh9yFuUZUSUYIO9TKcFVELvJAcsejWUqCQVf4sCiFTKLJrAngRQBWEr0zcxLZ+g3mMcqvqVb1siCtxsI118GJgMnA=
+2tbtfa6hc7tgu7c4o0oe30mlik50imnf.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. DQTUSaTcyImBVly7DYKiHnUxuf73YpiQ2l7f7RmV4imW5GVY1WsGY7V1iNcNkiusJt3HDzj6/Zs7sC0dBOBhEA/k5EWCycLH8lsDXqIgaiWOr2MGB7LIgAYScZ1XmguvwWr74j0sSLlGFyTUziKk7NLqqTJbBwquErkLbrOA+4o=
 360.tienda.	3600	in	ns	ns1.dns-redirect.com.
 360.tienda.	3600	in	ns	ns2.dns-redirect.com.
 36123.tienda.	3600	in	ns	ns1.dyna-ns.net.
@@ -148,19 +147,19 @@ tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1767662354 7200 90
 39562.tienda.	3600	in	ns	ns1.dyna-ns.net.
 39562.tienda.	3600	in	ns	ns2.dyna-ns.net.
 3a3hrkac80goug5cune69h2t0jn7cu2r.tienda.	3600	in	nsec3	1 1 0 73 3E5RCAD5G4FNJA6K42G9C1G6AIT3O9BO NS DS RRSIG
-3a3hrkac80goug5cune69h2t0jn7cu2r.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. FPbJyHUQ5e3a9B1efH8sHKFAH7YDjbu9NqptrM5St/ui4LbQTqiERrQvzpuSxcvMzMKalg+XX41r5RoAozg7RFHrLGUj2tp/4zg7PNiZC6M50LKCNpxyU2sM7jWZmsKiHdSFS119aEAbNIzEAwFNK5QFCjBve7eyEY7APMBWaTU=
+3a3hrkac80goug5cune69h2t0jn7cu2r.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. JJd6SMHBm5/GHZdlBCCqLC3c1CCbNoc4bhAQeuiY01ZoljkXyjFAX17Xy3A9jIC/2ZfWh/6HGS5sTMm2A1Mu7ybuP3tb54v9jZIumJKwzJPqEO75CHjvRIUDV7qP5iwno020FQ6Hg2XlJr0Aji4kd5B4Lntxjbg3yYq1/ZvIAfo=
 3d.tienda.	3600	in	ns	ns1.dondominio.com.
 3d.tienda.	3600	in	ns	ns2.dondominio.com.
 3e5rcad5g4fnja6k42g9c1g6ait3o9bo.tienda.	3600	in	nsec3	1 1 0 73 3F2053MHKN55JAVPDRNMR1PK26A23N2L NS DS RRSIG
-3e5rcad5g4fnja6k42g9c1g6ait3o9bo.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. kglE6CJhKaFRBoCrAK3xVaQM29DYgIlWHCXYnZIuH9Dq+l2XDrPfiChhGaxGHkMdFkEB7NpOHlHc5E23qq+ysnRIt7mAmfOYrNYmZeJjM93/yc6staLgK471NJVXAaWV7YJVowkOldyV/7+21dSLEUR6QaOZTrWrFzd5dj0htEQ=
+3e5rcad5g4fnja6k42g9c1g6ait3o9bo.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. VCQmVGigYjgs5HA7+qi5PGS9/PE1F21LpcbEy8ett7Rjxhufyp305JdsX2sIFS3JfyBMJ0o7tspcDaYYYWdfneIB7pxkPkkaUw+zgoi4zF1cFHIWBnqvTAwqXiVzTD6kQfezIZQyFDtvG2IHpa9aF+S6ZkenSQx0PL7iFgmI25U=
 3f2053mhkn55javpdrnmr1pk26a23n2l.tienda.	3600	in	nsec3	1 1 0 73 3KNNKDH9K5PCSJ78Q7DFD5KQ97SKKGOE NS DS RRSIG
-3f2053mhkn55javpdrnmr1pk26a23n2l.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. qvXaB4lyQ7gh9fs+Ajpf7XZC9LIq/2ThCvRbvj+q4HXbyRWxs99TLDczk2HHtbjTIxWKKHcYCb7KCkU01btKRJzfgSpr7q8Ff68VdiwPiJKry1A3xthLL1o47t1BmmomTgzY3Z7CzYrPU5YF/uLroH0fq+bU9/9SH+rULeaFve8=
+3f2053mhkn55javpdrnmr1pk26a23n2l.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. c3H+pk1e/WiPKQy9gqPywj0P0hawAl6LfmlHCpG0GC/AgWWvF4pu1VCiwmm98zo29ntkewVDTkc+ydOnCB+F2Y+73lAOzPzQKsS+OhSRtTITYqUe5zVIwnU+nEOlymVRfgkoXmCsZRHNX2IhycGQpY2wruuU6Jx9ax5ZjLLs1Ts=
 3knnkdh9k5pcsj78q7dfd5kq97skkgoe.tienda.	3600	in	nsec3	1 1 0 73 4065FF780R86EPDU3DI1MMMRQV2FP7I1 NS DS RRSIG
-3knnkdh9k5pcsj78q7dfd5kq97skkgoe.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. kR8AJD6fwQDb/wlJqAQIKnzV4NDEeoq5xXevkwU4Za4Vb+G8ICsHQAg2skqzUxBe4DUX34yPQmKzuGw8cChAntVmYEqbkEA885CNctCVWIjqBStjPoKkajB9Y55GraCz1tdinWr43+3LMk2KTYxjWKrkGA8B4d27Z8Qj4ccnedk=
+3knnkdh9k5pcsj78q7dfd5kq97skkgoe.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. WWU7/4Hy7ZN+4r2LLrtzLInTUp+/SWvKjpxOuowwH8EUq0B6YAC1qZy0aPhTG3LivXjeNOvbfyI2p8qQ5EalX179lFbRNpUXZwP/4JrRj8c/X6v9biU7+lSri9pS0Surp1Hq1YvyxP8GBtqA32fLpOJJQjoKp4hj+PVf0EaOSWs=
 4065ff780r86epdu3di1mmmrqv2fp7i1.tienda.	3600	in	nsec3	1 1 0 73 4AM7ING46L5RJ453PUORC3P01P33ROIJ NS DS RRSIG
-4065ff780r86epdu3di1mmmrqv2fp7i1.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. F9YASL+vHjsaKXrWIZETKgLCZbaubrNeRW/huoQz+1gKhwjNJ65BK05EsOjmjGaJyP+hM80698b9PXB1/IVktYz4NwjT7b4K+9OCQhnxGFBGLFQHXol5iXNHAm0TjkYcVuXloPbCr0W9O6tSQc867RHK5tac16hZqaEfSiImWYc=
+4065ff780r86epdu3di1mmmrqv2fp7i1.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. nQlRhttkDo6spUnjT3SzPNduJkA8MKSvi/FQ7HdOXilw4GpqEVpYPzsqdWRfRrag0goZZ9ObmTOWbeAU/aD5fDdjKZskJxaI9xzpjWyPZGX0+Ty8noIDQvjPhVHpQ66QaOsELabGGQV4NoWf6yh0qDm+yn+mJNlKxVvzhXq3Hbc=
 4am7ing46l5rj453puorc3p01p33roij.tienda.	3600	in	nsec3	1 1 0 73 59FFVT8FJ11L6MUQAL92OMLORKJNP8D4 NS DS RRSIG
-4am7ing46l5rj453puorc3p01p33roij.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. CyK8815zs1FPtgDf8fd7DGlG7sJDkm6uJciWTXlL9cbNqpQlNr9qbV3qODhVLKI4BMvBnee8b2Vx5AnBQj0ZBDfXbRpplIaBuIbwcx2mLU6IO0ep1wCNLHMxAZdzxqXgqi7ulh/Dp8UujR2dgr+MouSMrpfJenUf2xITKpjucUI=
+4am7ing46l5rj453puorc3p01p33roij.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. ne5EWXbGNu+JEadNU2OfXFJYMT1Y7jjtFnu4c9YsCu0DoQJypWHV5JldR9OlwR2B5V9B95OtZOby64W/YGdUigSrKklkoxtAqt9bKO40RLsh5mE03of7v1TWvIsDievXWJEw6BHE5qqKwpaLcHz9CMF2Bm17y5g9h4TMQrNzdpQ=
 4lifetransferfactor.tienda.	3600	in	ns	ns-es.1and1-dns.biz.
 4lifetransferfactor.tienda.	3600	in	ns	ns-es.1and1-dns.com.
 4lifetransferfactor.tienda.	3600	in	ns	ns-es.1and1-dns.es.
@@ -170,17 +169,17 @@ tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1767662354 7200 90
 4x4.tienda.	3600	in	ns	ns1.dondominio.com.
 4x4.tienda.	3600	in	ns	ns2.dondominio.com.
 59ffvt8fj11l6muqal92omlorkjnp8d4.tienda.	3600	in	nsec3	1 1 0 73 5OMK5OKF2I5EKNSHOJ1DPSPL7RO8SLMT NS DS RRSIG
-59ffvt8fj11l6muqal92omlorkjnp8d4.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. Z9akehBVfWQ+3Ruw2Dufj65kTtHqnlyIX9Sn9rFrioiyShsRLytiohKL/dtFM1P3KsKmL+tJeG0177JRf29xT4yHHJ/aOud8chCPSZ0tCrdRe1Fo7aipNSYG7gmHUiqUxl/kO977vVNbY8M8yNztqoxkOvQYcBf/z6iwTfAcOFw=
+59ffvt8fj11l6muqal92omlorkjnp8d4.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. IKZ88Ujvp/3YWcKlhheTkIjJOLZd2R5d1HxC6JAAhzQPyCI+PW+mCkt0PaevHVzPU8klzipgAFBNv6vlDimI3Vx7nfU+a+WqeMohhzXmfZwqiVRQ6G2P6nADEMONeqgQzdbxBIQjUWpaFecuT64yYDk09tlY/r9bchyR81niKZs=
 5movierulz.tienda.	3600	in	ns	hattie.ns.cloudflare.com.
 5movierulz.tienda.	3600	in	ns	santino.ns.cloudflare.com.
 5omk5okf2i5eknshoj1dpspl7ro8slmt.tienda.	3600	in	nsec3	1 1 0 73 62V3VLKSRTVEQT245FAV632DBFPEPN3M NS DS RRSIG
-5omk5okf2i5eknshoj1dpspl7ro8slmt.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. CH04xkyZlIhbH1yE8h9j5ZUOo4ILU1FWUhK6WGiJnyZhrxolBEFGSFxt0xEP+mqEuj/3Rxb6jXbWQ12LwSg/L/ywjn2zoF+XhT4mKsiNAOrjAQ84BrL6VZ9pOXJBW7ACYjgo95Y9bkUlyf0S7KVrWJzMu0nHdE2L+LGoogDWhCM=
+5omk5okf2i5eknshoj1dpspl7ro8slmt.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. NXoIOjx4guAd4wrcmE3h7CcyS2IJWMfbUMZljhrjE9ggXlgfrzcS88tBr880yImgsuNap7qubYz/7O+xxHFPmap3ZEqzyS2neGyKitbvhY4zBPKoEKmhqz2TObBvw+uKgQW3UvNoff1D+Kust/MSjp9j1rQfINpxNy22XdCs4qI=
 61702.tienda.	3600	in	ns	ns1.dyna-ns.net.
 61702.tienda.	3600	in	ns	ns2.dyna-ns.net.
 61703.tienda.	3600	in	ns	ns1.dyna-ns.net.
 61703.tienda.	3600	in	ns	ns2.dyna-ns.net.
 62v3vlksrtveqt245fav632dbfpepn3m.tienda.	3600	in	nsec3	1 1 0 73 6L4JVU4L4GJ668U0GH19J31S40B3L2E3 NS DS RRSIG
-62v3vlksrtveqt245fav632dbfpepn3m.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. LxMLSJBflBkeetBgFnLeIOzj1uqsB/BVzei7bPYtYGcGq7KIbtp7tv/by0YTnsXnkNaDpjPDaiTqhAIV89I2bau44RSl2E4jmi9hfiuXoXB6FyD6XY2xZpjUchqzpLcBMD5HiKgtwXDabZF/dW5sck61N7EjUWXseBpTDeI2PD0=
+62v3vlksrtveqt245fav632dbfpepn3m.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. NSgNwQa5Db4541RganJo7Fu2eIX/6GlqdDA71OoKKfxdDxP5ZnB2V52ihtCbKamqB8SW7lAHHktqppA5upQUP6GbHFav2L+gRmkDrKyzkVuJd2UbQ2uvTkGCviqZn421I+VWigxOXIzZfZpnl08SFrPILZ0vKaCjwuC/XxzYOaY=
 63211.tienda.	3600	in	ns	ns1.dyna-ns.net.
 63211.tienda.	3600	in	ns	ns2.dyna-ns.net.
 63212.tienda.	3600	in	ns	ns1.dyna-ns.net.
@@ -212,7 +211,7 @@ tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1767662354 7200 90
 69104.tienda.	3600	in	ns	ns1.dyna-ns.net.
 69104.tienda.	3600	in	ns	ns2.dyna-ns.net.
 6l4jvu4l4gj668u0gh19j31s40b3l2e3.tienda.	3600	in	nsec3	1 1 0 73 76DO4Q5J5D5PAEOUOD77BNCLI63T378V NS DS RRSIG
-6l4jvu4l4gj668u0gh19j31s40b3l2e3.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. ShYOJckM5KJa5AttBzofqc9dR7RMorSGgTbQt83MfeC0BRn+ehj5S45uIKrUOupKx2tFW27kCoqaYHN7R5xV9kd+60ZtgHZDrZd9Zz+PaHHuHlW56hnyRiXJfczGoS87+mQHq7uOWUSl+LnvOqof6wZn2sEXPs0zDsUhQsQgZfI=
+6l4jvu4l4gj668u0gh19j31s40b3l2e3.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. dE0aGVwdOBL2YWhdXU5WSKpbfkUnKIn19vx2OEa8U8/3KBhGDFe2PBjDEQGjz6b4d2emp9sz4Jm7X8nNqrX22/qXEOh6XVbQ4yl1d432HkpEzwP4C4IlGvuZA/sN7SEtmuVkUs/L3wqQpFUSvlUAg+WEDIp1hZou4wpDR7ujAmg=
 71630.tienda.	3600	in	ns	ns1.dyna-ns.net.
 71630.tienda.	3600	in	ns	ns2.dyna-ns.net.
 71631.tienda.	3600	in	ns	ns1.dyna-ns.net.
@@ -228,20 +227,20 @@ tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1767662354 7200 90
 74156.tienda.	3600	in	ns	ns1.dyna-ns.net.
 74156.tienda.	3600	in	ns	ns2.dyna-ns.net.
 76do4q5j5d5paeouod77bncli63t378v.tienda.	3600	in	nsec3	1 1 0 73 7PEA3G1QPO0S28Q5V40UOKS434Q8IO36 NS DS RRSIG
-76do4q5j5d5paeouod77bncli63t378v.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. CayfoCYKAri591jcF174YZd4XilgXgdkYpIJ7iiAFacw6U4DMZTwID4Xb1VOCu8bFtRa0L/Q7SF3nPl8KOc7kK1OykLFS+Mu7V0mICh1JqdsBh7VdK70fnMZ2r3FVCVJOvPbpBV4wOkoJpoeDhZcXeT5UPFfmjy35e+Ra7608og=
+76do4q5j5d5paeouod77bncli63t378v.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. Li/pL7Jlyr0nbQBVXQXNkeVZgbQbL9r8EDDWs06CcWpA5v7b6NRg+FTBmwPWGhe3sSEGwsucB2JCFci6NH5dRc0tQcnEcrWvKoJXCAvKPxLoK8vHFau2GZWSP51stu613wKCG5FoxAZwvzyLm9LioEyEzVV1Gj9ZpGkAx2nJ948=
 777.tienda.	3600	in	ns	ns1.openprovider.nl.
 777.tienda.	3600	in	ns	ns2.openprovider.be.
 777.tienda.	3600	in	ns	ns3.openprovider.eu.
 789club.tienda.	3600	in	ns	ns1.dyna-ns.net.
 789club.tienda.	3600	in	ns	ns2.dyna-ns.net.
 7pea3g1qpo0s28q5v40uoks434q8io36.tienda.	3600	in	nsec3	1 1 0 73 82BDP4S5H3FD10SLS5MM8RK1GK9K0BK9 NS DS RRSIG
-7pea3g1qpo0s28q5v40uoks434q8io36.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. plA3pjHQy4n+Gzm77ziV3mPywlqdclqij+OCTLnxawdfKM2bOn2MMRLWbC7JDUcKEHfCamozTvi6j3bodKeOUgqJ+nPOPm73qJDVPul+eshe9YCKXFACE3948ZN/XYKE7ae2Dw2hXjO5Lrnlif1o610RMyiWS7gOVHNVYWDo+Es=
+7pea3g1qpo0s28q5v40uoks434q8io36.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. UhdSVWzB+TI7B7BWSLe88GBC45fM+Xq+vCB6kuJ8JrikSGhxLunDVJ6iNR7OeZXkKV/ixj29EXCpBoySlOqpV2TlpJCNS8Di48bckXEAOdYWgaJ+PED07hwY3GHxfsqW7m+FWV0umyISy35xeWPyoLM5/rU81ONyuAQPddNt+nI=
 82bdp4s5h3fd10sls5mm8rk1gk9k0bk9.tienda.	3600	in	nsec3	1 1 0 73 830IU27PAD0HRBDIK851OB80B5O0395T NS DS RRSIG
-82bdp4s5h3fd10sls5mm8rk1gk9k0bk9.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. SfVbIx2RsAA/tt/jBvC/yie4nLOQHNADnIBBaDbxIKTYZN7Go5J3FcdkOXsUOHyjmxoXZax/0GhHSQrYRR576vGROf3vg7fFxRD33p0CZZZmBnr0QNzMQuIy2CQCjGOnG9BSwShIUo1XBIuNHNNazy1sH/uGtdRmxfvNPRSKN4Y=
+82bdp4s5h3fd10sls5mm8rk1gk9k0bk9.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. obb3+E3VQb2Lu9nK6oLHuPVgBXpdxNGYrpamdfMUh+UaHAWR0+LdJ4+6eRcPcDaFEfffmxw8Z/Z6D+Om3D766p/1OtO2mGRbqqXtaqNEzvgwYCRk8R2OT9MdehUpAEyQ5+Ipcx8T/pd18A37PhTgBDLDikTdu0urZ41WXMl31wM=
 830iu27pad0hrbdik851ob80b5o0395t.tienda.	3600	in	nsec3	1 1 0 73 83ICDI1F0CUFS5RF41JPUVNS195MS51S NS DS RRSIG
-830iu27pad0hrbdik851ob80b5o0395t.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. Uxt/bzVg3ahZiU5gw/i12jrNzj5Biz5REbLkRIeipNgfEOqd/2EyrBDUKpwUYXy87qwDy7iPtIzc2Hssob6PMFopXd/jIrRaNRO86DfsvOmYvzy3kMZVRkleYTArUvC0xfrgJbXcrZiVslwLsOn9f12kQKmrc4kZGd2Ddcpv8cY=
+830iu27pad0hrbdik851ob80b5o0395t.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. remwW9z2CouxbhXDOcLrLlakgysBL/lvCDDAG25q7TB9yHc9hgvCHc3F7O0G7u3DRVzUBFoOdkiSNcKlCEZTipvwqZaV9drXgD172EYlxWGwCLeU4HjJBxCbDQzwWRAw7+B6/XxI3+g75XgA0SUQ3SjsvNiHqHvXedNmCsCTyXU=
 83icdi1f0cufs5rf41jpuvns195ms51s.tienda.	3600	in	nsec3	1 1 0 73 8CO977DU753BDOK68GDQU7GALOBCQQIN NS DS RRSIG
-83icdi1f0cufs5rf41jpuvns195ms51s.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. FKY3f8AuzpGNWEcnZq6ZC3GhNOGnYkgPqgXnJ+LI6pn7QsW9zUeBEVO/Zs91V4wPYyqXvElBY2Du2Bm4ZwZJ+xud+VjlR9AnjTAEcaAZHBiOwWaYvZcSg3DwQ1Cl6w6lx9vEyQt1RcGH3kS+H1dDooSTry1tyekR3ethliUipaI=
+83icdi1f0cufs5rf41jpuvns195ms51s.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. p1/oNesk1yBm0NNBG6Tz5UcsOOz1jjNgnPc9gEbsb6zINVi57qyuS8k6Y7yeAW5fhiLw68sd+dyL2a9sJ89oUK2GjQ/azYw7sDtyNgWZLE5g7KpG1qklghitDWsL0FqizaueTEwxuH+LibeyHT/3HbXwRM7Ff1bmhsZJHSv2xaQ=
 85110.tienda.	3600	in	ns	ns1.dyna-ns.net.
 85110.tienda.	3600	in	ns	ns2.dyna-ns.net.
 888.tienda.	3600	in	ns	dns1.idp365.net.
@@ -251,11 +250,11 @@ tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1767662354 7200 90
 888poker.tienda.	3600	in	ns	dns2.idp365.net.
 888poker.tienda.	3600	in	ns	dns3.idp365.net.
 8co977du753bdok68gdqu7galobcqqin.tienda.	3600	in	nsec3	1 1 0 73 92G07BELO47IMNRM0RKNSOPR838K1Q2J NS DS RRSIG
-8co977du753bdok68gdqu7galobcqqin.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. ZRNmcO79PQsGMVhxOHHC+w5u0Ei+sp+LHEVwbzilPGIfYTNd+FeElLIBq3OkzInFCzLMp2LDHrIDSUoRkOWpDGiXYf6QYT3m/+c57n+stYGHAKh4UA1vp5TcOmIWC9J2jvGVcaxLOfAjOY0SjXZQ0d9Z4CDDVdS8IC7l/pUvB3k=
+8co977du753bdok68gdqu7galobcqqin.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. bf4MCqB63S7urmZaZ5fE/SjlZXQEDaqR2HW51YSzJx/YxLYBpR7Hs+hNN6ADE2zarhajaO/7SWKV1lSe0efDRl8DOWuXehSZMRv4biqecIqjvnPyK8ZKWshaJ9q34KOAoeFym8T8SFbKQWmqhnu1Xly/4CpOk2IHyFS/dwSBMmY=
 8xbet.tienda.	3600	in	ns	a4.share-dns.com.
 8xbet.tienda.	3600	in	ns	b4.share-dns.net.
 92g07belo47imnrm0rknsopr838k1q2j.tienda.	3600	in	nsec3	1 1 0 73 9KEL9F3T5FIF0B699ELU9TV3PKTRR218 NS DS RRSIG
-92g07belo47imnrm0rknsopr838k1q2j.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. s25CgEDcxT6MGoOixm/pOk32osqGRRbN6s1/zrRF2E70uUpdIA3376U+CFz3YuHlyDb5sJOQyw4p9EnpxIJ2Wi0wu8e400GqG95loNwRtvdmF1OApfsPTRO80jgWRfuMHZzYLd0oITFJsspN4nAmCRk+D7JINfyX7WkNHQVDOFg=
+92g07belo47imnrm0rknsopr838k1q2j.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. lmW1bWbIat78dliDANYfsUnXgbBe8Zd5ZGk4r3+MVOjXVROqAHsnk0AqMPPFDt7oLAewYMte9MzZlSZAQp0bpMPBCsTb5B9ySGEQA+cy+2vbxznIlt4m02FcFf2QWR+3p+8tS4C230Nho8bTjUn7BI/RZmKAJfl81XwNT7NmE4g=
 96587.tienda.	3600	in	ns	ns1.dyna-ns.net.
 96587.tienda.	3600	in	ns	ns2.dyna-ns.net.
 96588.tienda.	3600	in	ns	ns1.dyna-ns.net.
@@ -277,17 +276,17 @@ tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1767662354 7200 90
 96596.tienda.	3600	in	ns	ns1.dyna-ns.net.
 96596.tienda.	3600	in	ns	ns2.dyna-ns.net.
 9kel9f3t5fif0b699elu9tv3pktrr218.tienda.	3600	in	nsec3	1 1 0 73 9NSM0JKM972SF9DCC5ATMRQNFBVCV32C NS DS RRSIG
-9kel9f3t5fif0b699elu9tv3pktrr218.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. VMO6TR4BrM3LVQ22LK5RPKchhuQvvBBKJeqx1QND5qTYfcFI4C5MndhTGHGvLf3wz663t2P38+0/7FlXEIE3JHkj2Q9HTW0BV2fduwY83uJDoPCLmp9qheoBI1oI0ovWHAGJaelnPM8oYuMYVhsQKro57XzxyCg79s7Twr5H0m0=
+9kel9f3t5fif0b699elu9tv3pktrr218.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. qkJ41WxmN3nrcZt2D/+YgncORLJvHZxH8rUslVO+nTeJwCqKGbExnoKjF1TDfRtzRrLBcDMk2yw0lmz4d8qVxEdzSVaB2dwiNsyY+ktCzn5h51L4nOIrpYRGZcr9RfJs1V+U3VtotroGBBSu7m7vQfXqfEypsBBow4XPAaCeQto=
 9lunas.tienda.	3600	in	ns	ns1.bluehost.com.
 9lunas.tienda.	3600	in	ns	ns2.bluehost.com.
 9nsm0jkm972sf9dcc5atmrqnfbvcv32c.tienda.	3600	in	nsec3	1 1 0 73 A44JDJL3HPRHVPE2NQ32HN2CQ7B94FD2 NS SOA RRSIG DNSKEY NSEC3PARAM
-9nsm0jkm972sf9dcc5atmrqnfbvcv32c.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260127012457 20260106002457 29319 tienda. aF9pDYhxfJ/YZR8qfnQ1PgEcP+oCLgTDvoqXi/istz4PLpiU561LkQ2KawrVgmrFJCTwA9oMSApL0b0WFES4v7XcjVvf2PyrTRnQYLD60LOsJWfmKaG2yH4F6g/B3wD4DWpnuFfTUaxd7wxblJT6VlCi4rZrsAv+K11J+Cv44y8=
+9nsm0jkm972sf9dcc5atmrqnfbvcv32c.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260215012900 20260125002900 29319 tienda. T1/yOBOl+zg7l50KnN1MRbZWeUjp6rEToFAvRtMI5qD/8eLGipfsT6AUv2jK0xuYLlBwQGIyiBjipxb35xZRAEn2iDeenCoQZbqB9YsyruWQCPmWfPLvH4X7zWqgskP5rvLAN2X1u2b8gE47nHMbmOpQ9f1M7jpViRUtk3OL6U0=
 a-alvarez.tienda.	3600	in	ns	iria.alsernet.es.
 a-alvarez.tienda.	3600	in	ns	ns2.interhost.com.
 a1paso.tienda.	3600	in	ns	ns33.domaincontrol.com.
 a1paso.tienda.	3600	in	ns	ns34.domaincontrol.com.
 a44jdjl3hprhvpe2nq32hn2cq7b94fd2.tienda.	3600	in	nsec3	1 1 0 73 CGLH592ITQDR77NARA1VVUF83TMVPABQ NS DS RRSIG
-a44jdjl3hprhvpe2nq32hn2cq7b94fd2.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. mFk/FzitNhxZb5bAuH+x9xA6pa02zBMd2RiE6rRJjkTVEMu+xVwMkC3PMDsZ4uGtJt4PHho+gkXiz1QTU29HY3Tg873TBvrlKAxrbLBoT9WDCjrIDsHhp3HwXTwNhx/KFzwCIvldlfvQURuA+7i6B3lMkg0bhoC8RORE4mtDyIs=
+a44jdjl3hprhvpe2nq32hn2cq7b94fd2.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. sRZL+nCcslt0X//YjpM+ety9iPGcOKPcWDOOgYYynE5mQiXFKdtxto4Ubdz6uelSWop24eftt9dVRLWJ/MVAjnkU4xoQffMmW84XpBc5X0ladErP7Rbf5hh8A/tdG5l8l9Pq4fKgYHeyseukisaY055ZfJ/mVwFO1xMKu1ezGEo=
 aa.tienda.	3600	in	ns	ns1.dan.com.
 aa.tienda.	3600	in	ns	ns2.dan.com.
 aahqb.tienda.	3600	in	ns	ns1.dyna-ns.net.
@@ -338,8 +337,8 @@ adrrn.tienda.	3600	in	ns	ns2.dyna-ns.net.
 adultos.tienda.	3600	in	ns	ns1.5am.es.
 adultos.tienda.	3600	in	ns	ns1.6am.es.
 adultos.tienda.	3600	in	ns	ns2.6am.es.
-adultosmayores.tienda.	3600	in	ns	ns1.siteground.net.
-adultosmayores.tienda.	3600	in	ns	ns2.siteground.net.
+adultosmayores.tienda.	3600	in	ns	dns101.registrar-servers.com.
+adultosmayores.tienda.	3600	in	ns	dns102.registrar-servers.com.
 ae888.tienda.	3600	in	ns	nicole.ns.cloudflare.com.
 ae888.tienda.	3600	in	ns	tony.ns.cloudflare.com.
 aena.tienda.	3600	in	ns	dns1.nominalia.com.
@@ -416,7 +415,7 @@ aleo.tienda.	3600	in	ns	ns-cloud-d1.googledomains.com.
 aleo.tienda.	3600	in	ns	ns-cloud-d2.googledomains.com.
 aleo.tienda.	3600	in	ns	ns-cloud-d3.googledomains.com.
 aleo.tienda.	3600	in	ns	ns-cloud-d4.googledomains.com.
-aleo.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. YiVjkDCwRak9fczgckvtD/75oiux71WJuUH1TVc49yRv9mTjan8m5QrWlkLXTVd4beurfBbVamYX83lzMgoKqScZV0SRxvO26RN+6GZdX0w14yf+oW2x4r5SgmZv4rIQ3mpbnVscHtiPcycj1lOW1A77Kz/uOBdwz9dWvuLu0Bo=
+aleo.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. H4sH+gGV2gYowXde9ZQiz0noc/UXM1SYiGauH9tcZxv1kitwKFqlWD8swJMs0IOMLc38IZ2oYXiJ522IQSEmZV4heXJc3NIW5CfHa9mNxovvtrHiocg86FTwYO79ScHo3sOhCwhApxIH5hqXMMoBGe9QEXSld3HOd9iALaQGdhE=
 alfasoni.tienda.	3600	in	ns	dns1.servidoresdns.net.
 alfasoni.tienda.	3600	in	ns	dns2.servidoresdns.net.
 alfatraining.tienda.	3600	in	ns	ns.udag.de.
@@ -431,7 +430,7 @@ algofan.tienda.	3600	in	ns	ns-cloud-e1.googledomains.com.
 algofan.tienda.	3600	in	ns	ns-cloud-e2.googledomains.com.
 algofan.tienda.	3600	in	ns	ns-cloud-e3.googledomains.com.
 algofan.tienda.	3600	in	ns	ns-cloud-e4.googledomains.com.
-algofan.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. O1kGlPXmx8zYKjduHLn939W6Evkoluxun/nVfRv+l/zQSnsN2tkiwTG9pH5UxQ3YtG+fTl1jazfL5hjLJRJclnyOTDvCNhfph8GcML6NGIe19gBC9lsLOimRj1cB9UNeqDT0dYcYCOWnsXK3JVSoZh8DcvPBNzbPYNSI26qk7Rs=
+algofan.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. roS0LM8o5cZiFaheeqiqJAll8ZihD3HQR4bY2+Ez8vXRuBl3Cyt5lCiYDrhRnmakAZeBibnX5Re0k2ZkLfytb4lrzOo91ZgYFn9JoUKnsoVdt8zYJA1s6RgQvAyxIKtFvOnPT7DGasc/lUjJHvAknePXKqy/BNPfOE89Y2qEQCA=
 algorand.tienda.	3600	in	ns	ns-cloud-a1.googledomains.com.
 algorand.tienda.	3600	in	ns	ns-cloud-a2.googledomains.com.
 algorand.tienda.	3600	in	ns	ns-cloud-a3.googledomains.com.
@@ -481,11 +480,9 @@ alquilerseguro.tienda.	3600	in	ns	ns2.cdmon.net.
 alquilerseguro.tienda.	3600	in	ns	ns3.cdmon.net.
 alquilerseguro.tienda.	3600	in	ns	ns4.cdmondns-01.org.
 alquilerseguro.tienda.	3600	in	ns	ns5.cdmondns-01.com.
-alquilerseguro.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. Otm+uJpHKYVUJunY3p2Z2UJ37WJVncvwp5bCHj4g0ly0Ry6AsuCgSMhnliAVqpDddRtvN1R6NTt0IN3mvAFJxqmmojyFprGihU2t9pCRTKWGaxXLs4k1Z1zd169gIkVJays1EeOCYaIT5f3u8h2leLQN1YKdztM5D7G9CRp2qW0=
+alquilerseguro.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. ogW5eQCtiWHO0ydHsKeUcKawD7IwSSwioEy4kXyYXKzjwC0x+Mlrko3uGKgX7Orwd9uz+WiR0vKpX6MlGHsEp9iqE9ftxk6OKpQYBGpkIZOGsLDoD81STZ3HblyTubElqwvZO9lz8dw4bMfKMQiwbDAYHFUeseqz4ZTg8XkbhuA=
 alta.tienda.	3600	in	ns	ns1.dns-parking.com.
 alta.tienda.	3600	in	ns	ns2.dns-parking.com.
-altadefinizione.tienda.	3600	in	ns	ns1.brainydns.com.
-altadefinizione.tienda.	3600	in	ns	ns2.brainydns.com.
 alvarez.tienda.	3600	in	ns	iria.alsernet.es.
 alvarez.tienda.	3600	in	ns	ns2.interhost.com.
 alvaromoreno.tienda.	3600	in	ns	ns.dinahosting.com.
@@ -494,6 +491,10 @@ alvaromoreno.tienda.	3600	in	ns	ns3.dinahosting.com.
 alvaromoreno.tienda.	3600	in	ns	ns4.dinahosting.com.
 amano.tienda.	3600	in	ns	dns1.interdominios.com.
 amano.tienda.	3600	in	ns	dns2.interdominios.com.
+amaranta.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
+amaranta.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
+amaranta.tienda.	3600	in	ns	maceio.ns.porkbun.com.
+amaranta.tienda.	3600	in	ns	salvador.ns.porkbun.com.
 amazingcarefg.tienda.	3600	in	ns	ns1.eurodns.com.
 amazingcarefg.tienda.	3600	in	ns	ns2.eurodns.com.
 amazingcarefg.tienda.	3600	in	ns	ns3.eurodns.com.
@@ -607,7 +608,7 @@ artemiss.tienda.	3600	in	ns	ns2.cdmon.net.
 artemiss.tienda.	3600	in	ns	ns3.cdmon.net.
 artemiss.tienda.	3600	in	ns	ns4.cdmondns-01.org.
 artemiss.tienda.	3600	in	ns	ns5.cdmondns-01.com.
-artemiss.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. i+JhiWvfzI6MDdLLIU2gZmTcIgK6qosmgGCW9DGDUCZS97yIK4NwAskMq0qlrUBiCmlu4kuhQXhyYEXTQhfm4JW9dC89/CMkFVGxUBzqReuhyS2zTOF1i5lO56GEqIUhIS+Nw3idWXwtmXTzVTpTNpT2JaooM52A4812l+OnxkA=
+artemiss.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. m/Gj79snWgY4lFn/27JFvl6DOBdfJ0h1oO7O1Q7GUrTCfLdPhNUdT9mDt/FUo536OIvLSB2aro3Tbi0dORqtZPfd7gyMix9dIqg+7XmR7Wt6BWKar0WN6rUz1bbn1PakCejow6JNAkYxbhLserFPeYXo/NgQRPblDTz+l2Ay/CE=
 artesana.tienda.	3600	in	ns	ns73.domaincontrol.com.
 artesana.tienda.	3600	in	ns	ns74.domaincontrol.com.
 asdf.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -652,6 +653,8 @@ avisosgiratorios.tienda.	3600	in	ns	ns1.dyna-ns.net.
 avisosgiratorios.tienda.	3600	in	ns	ns2.dyna-ns.net.
 avsaf.tienda.	3600	in	ns	ns1.dns-parking.com.
 avsaf.tienda.	3600	in	ns	ns2.dns-parking.com.
+avsec.tienda.	3600	in	ns	ns2.wixdns.net.
+avsec.tienda.	3600	in	ns	ns3.wixdns.net.
 aws.tienda.	3600	in	ns	nsgbr.comlaude.co.uk.
 aws.tienda.	3600	in	ns	nssui.comlaude.ch.
 aws.tienda.	3600	in	ns	nsusa.comlaude.net.
@@ -668,12 +671,12 @@ b2b.tienda.	3600	in	ds	61579 8 2 2B020D2D92B1D7D9F68A6CB181E77BF3AE176DC8BC36A67
 b2b.tienda.	3600	in	ns	ns1.openprovider.nl.
 b2b.tienda.	3600	in	ns	ns2.openprovider.be.
 b2b.tienda.	3600	in	ns	ns3.openprovider.eu.
-b2b.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. XnBLtjI5DfvcQreWcy9wQE7MqlrI0JXvWqvJhU7378XjEMdGa3qvwWG1wzZ0rXEXVz1yTy3TVW9FaXbi/dNG8b8FBFPSnrbOCi3eeNVIvRqrLklPLc0XCsrsHrk2WtzpPBIktf2M0pmjKGFT8aqDEtX8bQ7TixwX2yD/+2fXsp0=
+b2b.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. GHUGcruSphn/d1PmXvCEXw4n000Xa41Zz0zmVTMAoNVqfGRY6e6/sWVnWMcOuhcUPi20D7/3FZ1NgOpm2tYJdh2rDny8po7tagYzFXxJ7i4Z5NIzGI7w2NkmKBzp/k3sWC7tuPtxO+hHxr9/VMrrlhU0hbABA83eQJUppJZ+apI=
 b2c.tienda.	3600	in	ds	60001 8 2 6A2E660E0B27DBE3D631DBD32ADADFF6B2D22BF92AFB43C7E6E4FB9E61D6AC08
 b2c.tienda.	3600	in	ns	ns1.openprovider.nl.
 b2c.tienda.	3600	in	ns	ns2.openprovider.be.
 b2c.tienda.	3600	in	ns	ns3.openprovider.eu.
-b2c.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. iyYnHmoLVf5mL7Aw9FaqVdrpng8i3ZKvLUMM4OXxQOyk7/waSyt1C5y0IB5GlWdjIzQFAfpAFe6h+MT1ty2QZZQl7J3HUMlkuUO7KxZFmTYVwjmokvYNGxMM4nK23qriE7LQchfkl40+tMHv/QyI0Vuv02TAoOcs1W00Is4fVT0=
+b2c.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. CDxgSATWK4oMBq0Fvs+CVbzugB5rpRuUGkx5cUekaA3qKVxagIJm320vD5lT16VikACWCwjQbyhn4iElVtlTVJlHHjAdcJtIPnRadtxw3hg82n6phXPRAjPRilcxdeEBc9FAxJXjPdDDCJm73NDT453wixS/tFyHf7dtFRD/wh4=
 babai.tienda.	3600	in	ns	dns1.registrar-servers.com.
 babai.tienda.	3600	in	ns	dns2.registrar-servers.com.
 bagit.tienda.	3600	in	ns	dns1.hostinet.com.
@@ -696,8 +699,8 @@ bangolufsen.tienda.	3600	in	ns	ns65.domaincontrol.com.
 bangolufsen.tienda.	3600	in	ns	ns66.domaincontrol.com.
 bankinter.tienda.	3600	in	ns	dns3.bankinter.es.
 bankinter.tienda.	3600	in	ns	dns44.bankinter.es.
-bar.tienda.	3600	in	ns	ns1.dondominio.com.
-bar.tienda.	3600	in	ns	ns2.dondominio.com.
+bar.tienda.	3600	in	ns	ns1.afternic.com.
+bar.tienda.	3600	in	ns	ns2.afternic.com.
 barandica.tienda.	3600	in	ns	dns49.servidoresdns.net.
 barandica.tienda.	3600	in	ns	dns50.servidoresdns.net.
 barbershopdonbosco.tienda.	3600	in	ns	docks10.rzone.de.
@@ -723,7 +726,7 @@ beautify.tienda.	3600	in	ds	17359 8 1 3B476414E4E386717B57CB2F5B337B2B53DF7293
 beautify.tienda.	3600	in	ds	17359 8 2 4C9C2209F8DA3FCE9952D38A687202DDA47135F035E6C7506B7CFA0ADCA965FE
 beautify.tienda.	3600	in	ns	deb.ns.cloudflare.com.
 beautify.tienda.	3600	in	ns	simon.ns.cloudflare.com.
-beautify.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. rPgm6qMm91s5CbnhQ866ER4C1SGTorxuq4s2tcpEXtwv+arGEjS+mEXhHbc8AjOaD4f+j1naJYaFBdVuinyQaAyiS9Vb53Yf6j+dGpBiZV+WYtIhgRZ8Yp7J4xEU0Q+594igcmJL01j9Jh+yaeBeG4bUSVGtdjbFqzcqrFVVWFA=
+beautify.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. moNfaNHqOUgm6EuwvjxxSeYRHyIu113T6Fr31Z466lKefA7lCygPH/PV2mQidACF06V/fS+kD6j+W51AI8Ek29QZZ5XE2ddbSX2aYxskjztRgQc3GbkMa5sR47dkuYe8YBRiCbK18PxDsunt7PAstQixzSjAj3FMi8iG4Kwy0S4=
 bebe.tienda.	3600	in	ns	ns131.migracem.com.
 bebe.tienda.	3600	in	ns	ns132.migracem.com.
 bebe.tienda.	3600	in	ns	ns133.migracem.com.
@@ -734,13 +737,13 @@ belcan.tienda.	3600	in	ns	ns-1258.awsdns-29.org.
 belcan.tienda.	3600	in	ns	ns-1940.awsdns-50.co.uk.
 belcan.tienda.	3600	in	ns	ns-654.awsdns-17.net.
 belcan.tienda.	3600	in	ns	ns-73.awsdns-09.com.
-bella.tienda.	3600	in	ns	ns1.dns-parking.com.
-bella.tienda.	3600	in	ns	ns2.dns-parking.com.
+bella.tienda.	3600	in	ns	ns1bqx.name.com.
+bella.tienda.	3600	in	ns	ns2fwz.name.com.
+bella.tienda.	3600	in	ns	ns3flt.name.com.
+bella.tienda.	3600	in	ns	ns4fpy.name.com.
 bellezaysalud.tienda.	3600	in	ns	ns1.bellezaysalud.tienda.
 bellezaysalud.tienda.	3600	in	ns	ns2.bellezaysalud.tienda.
 bellezaysalud.tienda.	3600	in	ns	sdns121.brobit.com.
-bendita.tienda.	3600	in	ns	ns63.domaincontrol.com.
-bendita.tienda.	3600	in	ns	ns64.domaincontrol.com.
 benice.tienda.	3600	in	ns	ns1.benice.tienda.
 benice.tienda.	3600	in	ns	ns2.benice.tienda.
 bensom.tienda.	3600	in	ns	ns1043.ui-dns.com.
@@ -763,18 +766,14 @@ best.tienda.	3600	in	ns	launch1.spaceship.net.
 best.tienda.	3600	in	ns	launch2.spaceship.net.
 bet.tienda.	3600	in	ns	launch1.spaceship.net.
 bet.tienda.	3600	in	ns	launch2.spaceship.net.
-beton-cire.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-beton-cire.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 bhdsr.tienda.	3600	in	ns	n1.xundns.com.
 bhdsr.tienda.	3600	in	ns	n2.xundns.com.
+bib.tienda.	3600	in	ns	dns1.registrar-servers.com.
+bib.tienda.	3600	in	ns	dns2.registrar-servers.com.
 bicicletas.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
 bicicletas.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 bierhaus.tienda.	3600	in	ns	ns1.dondominio.com.
 bierhaus.tienda.	3600	in	ns	ns2.dondominio.com.
-big.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
-big.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
-big.tienda.	3600	in	ns	maceio.ns.porkbun.com.
-big.tienda.	3600	in	ns	salvador.ns.porkbun.com.
 bigmat.tienda.	3600	in	ns	ns1-a.entorno.com.
 bigmat.tienda.	3600	in	ns	ns1-b.entorno.es.
 bigmat.tienda.	3600	in	ns	ns2-c.entorno.cat.
@@ -823,6 +822,8 @@ blockchainfactory.tienda.	3600	in	ns	ns1.dondominio.com.
 blockchainfactory.tienda.	3600	in	ns	ns2.dondominio.com.
 blockstream.tienda.	3600	in	ns	dns1.registrar-servers.com.
 blockstream.tienda.	3600	in	ns	dns2.registrar-servers.com.
+blog.tienda.	3600	in	ns	ns1.dns-redirect.com.
+blog.tienda.	3600	in	ns	ns2.dns-redirect.com.
 bma.tienda.	3600	in	ns	damon.ns.cloudflare.com.
 bma.tienda.	3600	in	ns	lindsey.ns.cloudflare.com.
 bmsupermercados.tienda.	3600	in	ns	ns1.sarenet.es.
@@ -864,8 +865,6 @@ bolsasrafia.tienda.	3600	in	ns	ns1035.ui-dns.biz.
 bolsasrafia.tienda.	3600	in	ns	ns1082.ui-dns.org.
 bolsasrafia.tienda.	3600	in	ns	ns1086.ui-dns.com.
 bolsasrafia.tienda.	3600	in	ns	ns1103.ui-dns.de.
-bolsiyo.tienda.	3600	in	ns	ns05.domaincontrol.com.
-bolsiyo.tienda.	3600	in	ns	ns06.domaincontrol.com.
 bombasdeagua.tienda.	3600	in	ns	ns1.grupoloading.com.
 bombasdeagua.tienda.	3600	in	ns	ns2.grupoloading.com.
 bombasdeagua.tienda.	3600	in	ns	ns3.grupoloading.com.
@@ -889,6 +888,8 @@ bot.tienda.	3600	in	ns	maceio.ns.porkbun.com.
 bot.tienda.	3600	in	ns	salvador.ns.porkbun.com.
 bots.tienda.	3600	in	ns	ns1.cibserver.com.
 bots.tienda.	3600	in	ns	ns2.cibserver.com.
+botsuite.tienda.	3600	in	ns	dns97.servidoresdns.net.
+botsuite.tienda.	3600	in	ns	dns98.servidoresdns.net.
 bou.tienda.	3600	in	ns	ns1.dondominio.com.
 bou.tienda.	3600	in	ns	ns2.dondominio.com.
 boulanger.tienda.	3600	in	ns	ns1.safebrands.fr.
@@ -919,13 +920,11 @@ brut.tienda.	3600	in	ns	ns1.cdmon.net.
 brut.tienda.	3600	in	ns	ns2.cdmon.net.
 brut.tienda.	3600	in	ns	ns3.cdmon.net.
 brut.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-brut.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. SKRujN9SYqQ8EoXO1hrClWyDZ4i0tkyQzslkpW5xoFUTokZW7Axeu+uw45tkPUqlotAXMZR+g8TeL4nfydJ8VwtBBY3N4t24rsF3pXMgv41MrE0nV8Lck7w6fc6mSKnqF46kdixpKacD2KELJTkOYTiY5bGrmaGJx+9L0721ldE=
+brut.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. fr4CwQwx6+Op0qerM+MMkTPwyx5dnPNOfGViFMKc1zGOfUdUkgns/TwOVPeD93SQHYeZqYnH8eMh+ORk4HXH9hARgez2ohMP6lT40D06eQT4xruydlbzEyI0ZcDYLhzrnywtClao7Pvfw9HiRxYTDBwuoR/+iFX3fBw2XzOhkn0=
 btb.tienda.	3600	in	ns	ali.ns.cloudflare.com.
 btb.tienda.	3600	in	ns	rob.ns.cloudflare.com.
-btc.tienda.	3600	in	ns	ns1djs.name.com.
-btc.tienda.	3600	in	ns	ns2kry.name.com.
-btc.tienda.	3600	in	ns	ns3bgq.name.com.
-btc.tienda.	3600	in	ns	ns4kpx.name.com.
+btc.tienda.	3600	in	ns	ns1.afternic.com.
+btc.tienda.	3600	in	ns	ns2.afternic.com.
 btvzx.tienda.	3600	in	ns	n1.xundns.com.
 btvzx.tienda.	3600	in	ns	n2.xundns.com.
 budgeto.tienda.	3600	in	ns	ns143.neubox.net.
@@ -945,8 +944,6 @@ burdelking.tienda.	3600	in	ns	dns1.servidoresdns.net.
 burdelking.tienda.	3600	in	ns	dns2.servidoresdns.net.
 burger.tienda.	3600	in	ns	ns1.dondominio.com.
 burger.tienda.	3600	in	ns	ns2.dondominio.com.
-burgoshogar.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-burgoshogar.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 burlesque.tienda.	3600	in	ns	ns1.h3m.org.
 burlesque.tienda.	3600	in	ns	ns2.h3m.org.
 buscar.tienda.	3600	in	ns	nsgbr.comlaude.co.uk.
@@ -961,7 +958,7 @@ bwcxy.tienda.	3600	in	ns	ns2.netsto.net.
 c3i.tienda.	3600	in	ds	27730 8 2 07F72D2C9E985D1D1A5AE4ED4B76FF477D758550CEC26C03B12B092CAEB03118
 c3i.tienda.	3600	in	ns	dns15.ovh.net.
 c3i.tienda.	3600	in	ns	ns15.ovh.net.
-c3i.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. PgVvhkXqsYiCuUwyNKHspecPY5B7gmOSoLVX2pS2mPNLbQZpwI4wIdzfIxKssNlqgzUyEaweHpccRP5xNZWAyD5fASeeF1/ZaONm6HVVFMx/hIa1NWwwNZTQSq9A5Z1z/iEkksBX8WvTcgbpxAV9dR4rbpLH8tOeSVM9c95tt5I=
+c3i.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. fVvN/Cd6iS3oP7abfK4U5kofMaGi98UmtrlU3cCrpUKXXOXH1ltK39p3NK1aTvUL1eHLyE6+Q2VtTXX9b1HzWG5JuLYRkEQ0M3PbiaIF2BYsb3mE4SY6OUodrwcrl1vNoWvDQSo7TXErmtrCEKLj/2txwa4Fe4BiIGTTXrwIGxs=
 cachasmayorquin.tienda.	3600	in	ns	ns-cloud-b1.googledomains.com.
 cachasmayorquin.tienda.	3600	in	ns	ns-cloud-b2.googledomains.com.
 cachasmayorquin.tienda.	3600	in	ns	ns-cloud-b3.googledomains.com.
@@ -1080,8 +1077,8 @@ carsonline.tienda.	3600	in	ns	dns40.servidoresdns.net.
 carton.tienda.	3600	in	ns	ns-14-c.gandi.net.
 carton.tienda.	3600	in	ns	ns-169-a.gandi.net.
 carton.tienda.	3600	in	ns	ns-30-b.gandi.net.
-casadelmariachi.tienda.	3600	in	ns	ns77.domaincontrol.com.
-casadelmariachi.tienda.	3600	in	ns	ns78.domaincontrol.com.
+casadelmariachi.tienda.	3600	in	ns	addyson.ns.cloudflare.com.
+casadelmariachi.tienda.	3600	in	ns	renan.ns.cloudflare.com.
 casalba.tienda.	3600	in	ns	dns31.servidoresdns.net.
 casalba.tienda.	3600	in	ns	dns32.servidoresdns.net.
 casanova.tienda.	3600	in	ns	ns10.wixdns.net.
@@ -1098,8 +1095,6 @@ casmara.tienda.	3600	in	ns	ns3.ascio.com.
 casmara.tienda.	3600	in	ns	ns4.ascio.com.
 castaner.tienda.	3600	in	ns	ns1.dondominio.com.
 castaner.tienda.	3600	in	ns	ns2.dondominio.com.
-catalogo.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-catalogo.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 catholicos.tienda.	3600	in	ns	ns37.domaincontrol.com.
 catholicos.tienda.	3600	in	ns	ns38.domaincontrol.com.
 catolica.tienda.	3600	in	ns	ns1.hover.com.
@@ -1141,7 +1136,7 @@ celular.tienda.	3600	in	ns	ns-cloud-d1.googledomains.com.
 celular.tienda.	3600	in	ns	ns-cloud-d2.googledomains.com.
 celular.tienda.	3600	in	ns	ns-cloud-d3.googledomains.com.
 celular.tienda.	3600	in	ns	ns-cloud-d4.googledomains.com.
-celular.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. JubkjU1Xs+w6vQRk6WCj4MNccdoFZOvOtOeSBl3K0ytEOEnDq4AX0EFxTHzqpysFZnFofMgYSkTVscBwlEI+BwKWJA7TPu0wOCdICuHaLHtav3N/x3CeGj/p3JxQ1eRhC2nt6yh/hxUrIz5eLvA8c4jOfEjYuedf+g8NmEccx28=
+celular.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. mmAyHmZMKq3ZYswSUf9+mFRv9Zex+pzX8EtiH/Z8KzDwhugTDUck9rGFhCaDXvutnV/t5soVUSODiPq3KXMCfSaHx8nDt4fw6+gL3mhVrfvu5JmHyn+tnBtLAp4dTUgIDR8otkk1hEUmjaLsVFYZjp3ksAw5lRZo3mDcv+K9eOQ=
 cemb.tienda.	3600	in	ns	dns1.registrar-servers.com.
 cemb.tienda.	3600	in	ns	dns2.registrar-servers.com.
 cenasromanticasguadalajara.tienda.	3600	in	ns	ns401.controldns.mx.
@@ -1152,7 +1147,7 @@ centrocomercial.tienda.	3600	in	ns	ns1.cdmon.net.
 centrocomercial.tienda.	3600	in	ns	ns2.cdmon.net.
 centrocomercial.tienda.	3600	in	ns	ns3.cdmon.net.
 centrocomercial.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-centrocomercial.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. DoSFCpz9XjVp7ZTB3SSTqiPKGRQOqDJbS4pd/pzenzND51NC31lUkLNr7U2xWMlk9rqUmuA6QgFY0261T9CeNf+lK0NRF1c0k4bRk+H9PSBh/PcOOm6qIuPIeZC1jVqUT0dQRPkK+vpU3ry7PqiKPbJ2eD0vno+ApnT/UDnoyRI=
+centrocomercial.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. WyqTTUNntR87P1HxGP+ME2jJoWUobi0djF0oD+uTXfWdvK0weLdWNpR7Zt70FPAAA2cqaUGgBHL6XUD4dNTdoY0osht9d95RpEE1I9kTR4blnjR5CATNBWUsUcjGqY+2oDbQ0cnadhsSMjCV8q4L8qVTOeXCRoX6s1F9uAe8si0=
 centy.tienda.	3600	in	ns	ns17.domaincontrol.com.
 centy.tienda.	3600	in	ns	ns18.domaincontrol.com.
 cerraduras.tienda.	3600	in	ns	dnsax01.linuxpro.co.
@@ -1189,7 +1184,7 @@ cf.tienda.	3600	in	ns	ns3.digitalocean.com.
 cgcof.tienda.	3600	in	ns	dns19.servidoresdns.net.
 cgcof.tienda.	3600	in	ns	dns20.servidoresdns.net.
 cglh592itqdr77nara1vvuf83tmvpabq.tienda.	3600	in	nsec3	1 1 0 73 CPTREDJCEQVF85HIOK6T9JL3SHU8UTT4 NS DS RRSIG
-cglh592itqdr77nara1vvuf83tmvpabq.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. eyD71fwmstvEJ6bx3wbZ4FPw+f25jtRZN9PzthchQiMBlutOcQF6XwV+idDCjavi/Ft/EYFnXSgJ3E10HWAH63kYwocb8kFvnIHwLYmlNYLzUYEExElL0cwHhAX3RhIhHqHGXPaOMN1YR5E2eYCDDfrAbD6gyeEXKvd5+SioN28=
+cglh592itqdr77nara1vvuf83tmvpabq.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. I89vpHM7BdFBl1RDXZia+rrEbpsDCQtDt1E1OxVZe0c4HgDKP612GYzScclMdJfHpXpehzLdhAli10bVLIqJbF/Ma4Kc058IpBykd3FQVyNmgnwL33h8bW6lZ5OU3EVpL3lfwKlxjpWbu7Tj0pti7tzrUeghMhlrhaFwwpXGGXQ=
 chamas.tienda.	3600	in	ns	ns1063.ui-dns.biz.
 chamas.tienda.	3600	in	ns	ns1078.ui-dns.de.
 chamas.tienda.	3600	in	ns	ns1088.ui-dns.org.
@@ -1234,7 +1229,7 @@ chromebook.tienda.	3600	in	ns	ns-cloud-a1.googledomains.com.
 chromebook.tienda.	3600	in	ns	ns-cloud-a2.googledomains.com.
 chromebook.tienda.	3600	in	ns	ns-cloud-a3.googledomains.com.
 chromebook.tienda.	3600	in	ns	ns-cloud-a4.googledomains.com.
-chromebook.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. BG7EPGBG4TJ9CbKdoSa8GzvWHW01gwmKBrcbRK+279nM7rFTHOmwNuhkjdpshfv85OwDZxqhMS0ZloZ9S9hDM8i5BszEADIe7B3YGP55ogOAeYNrRP1DQGT/sUiPMbR34kOZa/YHI1Q5ntHSMN3RmRJCpuhxlNsJeKQp1oFI7Ss=
+chromebook.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. gb6kiQmtyOs1YBuWxisGZnYKYsjnkV63QYufPQBGvk9GiBWLQUAMhV81LHCt4r7dX1guUvrPiJSet7WULMHt65MiPvHnkkZItYA0ay4+Ah+u8Q+LhawIGXjPfpadVmC3Ivh+xJJTC29qiPn3dd/LV9kDEMsiucyh+s46SW/yyqE=
 chupinazo.tienda.	3600	in	ns	ns1.dondominio.com.
 chupinazo.tienda.	3600	in	ns	ns2.dondominio.com.
 ciber.tienda.	3600	in	ns	ns1.dreamhost.com.
@@ -1246,12 +1241,16 @@ cincojotas.tienda.	3600	in	ns	ns3.eurodns.com.
 cincojotas.tienda.	3600	in	ns	ns4.eurodns.com.
 cinemarkt.tienda.	3600	in	ns	ns1.sedoparking.com.
 cinemarkt.tienda.	3600	in	ns	ns2.sedoparking.com.
+city.tienda.	3600	in	ns	ns1.dns-parking.com.
+city.tienda.	3600	in	ns	ns2.dns-parking.com.
 cl.tienda.	3600	in	ds	60832 8 2 CDFF6D2EF5F53016C0A497968785840AE60902F245137181719E2BDF4DFE13D0
 cl.tienda.	3600	in	ns	ns-cloud-d1.googledomains.com.
 cl.tienda.	3600	in	ns	ns-cloud-d2.googledomains.com.
 cl.tienda.	3600	in	ns	ns-cloud-d3.googledomains.com.
 cl.tienda.	3600	in	ns	ns-cloud-d4.googledomains.com.
-cl.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. E3nxxevJz1aoLuH5Og1/7JJIIr9rHCf7+5pwctcfOgXRJz4lrlTnCFXOpDfYP4fJ2ZcrnJyO5AcV7SX3kLnbtcRcFBHv9CrS1GvJTxY5QMd+REOGYLE3CkmmhNUwthtEmsBVNOqag5yIUzpWrTZ5Ww8isb+gxcAUl1Bj9/kjlvM=
+cl.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. HvfaEWqZpAk5PtE8CXTb+ChDYelRiLlthZWB7/C2z4R0ys5/oJidm9sqrq6cjrBMLxPefJRQpqG9Y+lhFxRiwIVXou7JOhgq4LuxvjMbBNrMBqYf0PuXkIy7g2sRscpdIRSDBP3isnECEco1LOoP7ysLu5WRsk2tWA2rL+W4PgY=
+clico.tienda.	3600	in	ns	ns1.dondominio.com.
+clico.tienda.	3600	in	ns	ns2.dondominio.com.
 climas.tienda.	3600	in	ns	ns1.siteground.net.
 climas.tienda.	3600	in	ns	ns2.siteground.net.
 climent.tienda.	3600	in	ns	ns1.grupoloading.com.
@@ -1263,6 +1262,8 @@ clothes.tienda.	3600	in	ns	ns3.afternic.com.
 clothes.tienda.	3600	in	ns	ns4.afternic.com.
 cloud.tienda.	3600	in	ns	ns1.markmonitor.com.
 cloud.tienda.	3600	in	ns	ns2.markmonitor.com.
+cloudcity.tienda.	3600	in	ns	lisa.ns.cloudflare.com.
+cloudcity.tienda.	3600	in	ns	matias.ns.cloudflare.com.
 clubdevinos.tienda.	3600	in	ns	dns33.servidoresdns.net.
 clubdevinos.tienda.	3600	in	ns	dns34.servidoresdns.net.
 cmd.tienda.	3600	in	ns	ns1.dondominio.com.
@@ -1309,8 +1310,8 @@ com.tienda.	3600	in	ns	ns-1224.awsdns-25.org.
 com.tienda.	3600	in	ns	ns-2010.awsdns-59.co.uk.
 com.tienda.	3600	in	ns	ns-292.awsdns-36.com.
 com.tienda.	3600	in	ns	ns-539.awsdns-03.net.
-combi.tienda.	3600	in	ns	ns77.domaincontrol.com.
-combi.tienda.	3600	in	ns	ns78.domaincontrol.com.
+combi.tienda.	3600	in	ns	ns471.webempresa.eu.
+combi.tienda.	3600	in	ns	ns472.webempresa.eu.
 comefruta.tienda.	3600	in	ns	ns1.gestiondecuenta.com.
 comefruta.tienda.	3600	in	ns	ns2.gestiondecuenta.com.
 comefruta.tienda.	3600	in	ns	ns3.gestiondecuenta.com.
@@ -1348,7 +1349,7 @@ comunicoloquequiero.tienda.	3600	in	ns	ns2.cdmon.net.
 comunicoloquequiero.tienda.	3600	in	ns	ns3.cdmon.net.
 comunicoloquequiero.tienda.	3600	in	ns	ns4.cdmondns-01.org.
 comunicoloquequiero.tienda.	3600	in	ns	ns5.cdmondns-01.com.
-comunicoloquequiero.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. A+o/23P8d6XUN6s8zctsCaBBVgh7T9jWpBnoRoqTmvcL0hDQeUVP/P/+Nw6cKih4Nvwg/iFOScG7zx1F7drBI2tKGVbmWnckH5dUsKkLbIceZNcvNZ0idNXkRC03fGJNtWIcN0Qjl6mrvlNiTy9/yI2NuXS58KurbGarc2zE6XI=
+comunicoloquequiero.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. X9buNC812DMAUuZ4UvayS5gWkPrWsBC/1kZgA/F1JY61g8xjNoRdDs0AyRWmTOZsf1p1XqYLAKowlpk2E7HvU9f41604xTubObvRwBzCGtUWFPEIc+alt5ZOWWmXYdLdykNfXthXwJXiPTb2vz4f+5zm5usSZO+cW+FfT8TUjQQ=
 con.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
 con.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
 con.tienda.	3600	in	ns	maceio.ns.porkbun.com.
@@ -1450,7 +1451,7 @@ coviran.tienda.	3600	in	ns	ns2.coviran.es.
 cp101.tienda.	3600	in	ns	a5.share-dns.com.
 cp101.tienda.	3600	in	ns	b5.share-dns.net.
 cptredjceqvf85hiok6t9jl3shu8utt4.tienda.	3600	in	nsec3	1 1 0 73 CSIB5DIAJDL678SMLS3EBMHP9POL6CNU NS DS RRSIG
-cptredjceqvf85hiok6t9jl3shu8utt4.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. WyC1dUOXBVziRpzlyRZVaj1fLb2M4VOs7yLmBQz3K9CeLgPIkxqj91TNJGhe9D7uTkH7I76PnDQGw/N7NhOti3V+7Ilw6r88sSCnxuKihk6rbrbkFM8Da+BF81KOD3l+Vn9rMuQzKO6yiigQ81Gfp9QMZ1YH9YlaRfxKBgPSVBs=
+cptredjceqvf85hiok6t9jl3shu8utt4.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. Tlav/xom7GG2DRROfbqfPgmEC6I8e2hljGjlsWwPlV0S2wZro+Z8I5NhjmEkr/0wljCwjU/MDAqUVf3lnPvZ7e31K2X3zBlxVKu/GkZvF2ZNygmfn3KcyfXbTtnWccevaC2poiXILuaNEDsZ59vPOSZfJ6XuXmyuiG38Kt6eQ5o=
 crazydomains.tienda.	3600	in	ns	ns1.crazydomains.com.
 crazydomains.tienda.	3600	in	ns	ns2.crazydomains.com.
 crear.tienda.	3600	in	ns	ns1.dns-parking.com.
@@ -1469,10 +1470,6 @@ creo.tienda.	3600	in	ns	ns1.hospedajeydominios.com.
 creo.tienda.	3600	in	ns	ns2.hospedajeydominios.com.
 criptomonedas.tienda.	3600	in	ns	ns37.domaincontrol.com.
 criptomonedas.tienda.	3600	in	ns	ns38.domaincontrol.com.
-cristy.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
-cristy.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
-cristy.tienda.	3600	in	ns	maceio.ns.porkbun.com.
-cristy.tienda.	3600	in	ns	salvador.ns.porkbun.com.
 cromos.tienda.	3600	in	ns	ns15.domaincontrol.com.
 cromos.tienda.	3600	in	ns	ns16.domaincontrol.com.
 crunchyroll.tienda.	3600	in	ns	ns-1210.awsdns-23.org.
@@ -1482,7 +1479,7 @@ crunchyroll.tienda.	3600	in	ns	ns-889.awsdns-47.net.
 crypto.tienda.	3600	in	ns	launch1.spaceship.net.
 crypto.tienda.	3600	in	ns	launch2.spaceship.net.
 csib5diajdl678smls3ebmhp9pol6cnu.tienda.	3600	in	nsec3	1 1 0 73 CUEADOHHBS1BTKBUSJGGAK7CLKB17T40 NS DS RRSIG
-csib5diajdl678smls3ebmhp9pol6cnu.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. E9XEw9AQs1emXvMQssPejgX4QoTiNSBVf2yghVZ+LCM7P2FilGcAjDs5FWcyFGFk5pPwQlOPYOvrwolCh9qgkrtGyMKZKjGARdOTn5BmAdlh5G9mN+MyiTyw+jQoW1yDv+T5hoTjL5+w5b9IVHRanUyLQG50sXZqDBjcfycnaqg=
+csib5diajdl678smls3ebmhp9pol6cnu.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. DPDWI2jdBREboadCXcAJjIaSRH0gbxYoFIqyBSXYOE+ivdnEm6sJx/Je7wXqjhboCA6fDyjXnZBsrO6uteFj8iTRcf+11vIN9W6Q0ReV38v42kE56xs9j9f0unDon4ZshXlvTe2AAsIyxBT27pBHsLZH5lJx0e6Emw3/izt2Dvg=
 csqbk.tienda.	3600	in	ns	ns1.dyna-ns.net.
 csqbk.tienda.	3600	in	ns	ns2.dyna-ns.net.
 cuadrosmodernos.tienda.	3600	in	ns	ns1.dondominio.com.
@@ -1494,7 +1491,7 @@ cuchillosjaponeses.tienda.	3600	in	ns	dns2.sered.net.
 cuchillosjaponeses.tienda.	3600	in	ns	dns3.sered.net.
 cuchillosjaponeses.tienda.	3600	in	ns	dns4.sered.net.
 cueadohhbs1btkbusjggak7clkb17t40.tienda.	3600	in	nsec3	1 1 0 73 D52GCBIU99UF8P7BFH30BVMB9ATAUG4Q NS DS RRSIG
-cueadohhbs1btkbusjggak7clkb17t40.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. WuFCy8uTOUFbaXneUf7uJ1FPZGmwjSn4s1JJMZDelobMnGEjnco/MiOoRm8nUSTWVNDVFjn13zdgmvzyY5+6iqlUbbyxL8Ra6yF9sum6mVGfZTu4DOTe6qrEJVaXKIKp4bOMdn6YghknPTUA4AwKAoxY/fo6pmqFBmtIppae+OE=
+cueadohhbs1btkbusjggak7clkb17t40.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. UCVWimacCmb79BvdOoSN/NDrbdKgFysgH+J7t/NM/FYgVJg4TFa6yiQY3ZxTZvXs1ibsi4pNIUN0jIifBrpZtaqmSDm73Z5WNac5mbGccnV6Rz2Ys8om+1UyE4TLApCTPt4AcR9HLyB1kj0tbdfytY5Xa7twIWsiAxkeOkCBqxU=
 cuelgacuadros.tienda.	3600	in	ns	dns1.servidoresdns.net.
 cuelgacuadros.tienda.	3600	in	ns	dns2.servidoresdns.net.
 cuentaspremium.tienda.	3600	in	ns	dns1.warez-host.com.
@@ -1517,6 +1514,8 @@ cursos.tienda.	3600	in	ns	ns1.dns-parking.com.
 cursos.tienda.	3600	in	ns	ns2.dns-parking.com.
 cxvav.tienda.	3600	in	ns	n1.xundns.com.
 cxvav.tienda.	3600	in	ns	n2.xundns.com.
+cyber.tienda.	3600	in	ns	launch1.spaceship.net.
+cyber.tienda.	3600	in	ns	launch2.spaceship.net.
 cycle.tienda.	3600	in	ns	dns1.p07.nsone.net.
 cycle.tienda.	3600	in	ns	dns2.p07.nsone.net.
 cycle.tienda.	3600	in	ns	dns3.p07.nsone.net.
@@ -1528,7 +1527,7 @@ cycle.tienda.	3600	in	ns	ns04.squarespacedns.com.
 czaws.tienda.	3600	in	ns	n1.xundns.com.
 czaws.tienda.	3600	in	ns	n2.xundns.com.
 d52gcbiu99uf8p7bfh30bvmb9ataug4q.tienda.	3600	in	nsec3	1 1 0 73 DFCG3M7N5KJVQ8TL9VEJDEGAF4NGTIO7 NS DS RRSIG
-d52gcbiu99uf8p7bfh30bvmb9ataug4q.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. gQejJyvYlAQhVFLUh/orMrB8s9aSffO3GRBRbaAELma+CpLH0F7S9tBY64WxK0CQatxyOEbcJvG6qlRpYvBu9/iLbA3s3mIdqCTSHPsPDRQtp22nUTVSDF4Ksm+c2NIDh0DI7tOlE6ViKW9G4dyhIkhYfgDitbBvO/hn1TRSWR0=
+d52gcbiu99uf8p7bfh30bvmb9ataug4q.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. Q2Rlct9GW9hZhGH/UTq46mR//+eD4pv7urxXESOKmQKJFiKSYgtmifjzvdPmqVPOLCbX7LBTs7a59HA0SQlhe0ZspOpM+PYe6WdJrjZnzyX0RjOjNwJSSV8Ha+2ea5Z9beH9E/AAVmG3WUIGXlf3JIyr9ZGG08QjpavN6RzJysk=
 daikin.tienda.	3600	in	ns	ns2.dondominio.com.
 daikin.tienda.	3600	in	ns	ns5.dondominio.com.
 dainikujala24.tienda.	3600	in	ns	ns11.gmaxmart.com.
@@ -1551,8 +1550,6 @@ danielhechter.tienda.	3600	in	ns	ns5.brandshelter.us.
 dash.tienda.	3600	in	ns	nsgbr.comlaude.co.uk.
 dash.tienda.	3600	in	ns	nssui.comlaude.ch.
 dash.tienda.	3600	in	ns	nsusa.comlaude.net.
-data.tienda.	3600	in	ns	ns1-expired.sav.com.
-data.tienda.	3600	in	ns	ns2-expired.sav.com.
 datanetspire.tienda.	3600	in	ns	annalise.ns.cloudflare.com.
 datanetspire.tienda.	3600	in	ns	kolton.ns.cloudflare.com.
 dayofthedead.tienda.	3600	in	ns	ns15.domaincontrol.com.
@@ -1563,10 +1560,6 @@ dc10ibiza.tienda.	3600	in	ns	ns-es.1and1-dns.es.
 dc10ibiza.tienda.	3600	in	ns	ns-es.1and1-dns.org.
 debet.tienda.	3600	in	ns	kyrie.ns.cloudflare.com.
 debet.tienda.	3600	in	ns	serena.ns.cloudflare.com.
-debit2go.tienda.	3600	in	ns	ns.dinahosting.com.
-debit2go.tienda.	3600	in	ns	ns2.dinahosting.com.
-debit2go.tienda.	3600	in	ns	ns3.dinahosting.com.
-debit2go.tienda.	3600	in	ns	ns4.dinahosting.com.
 debuyer.tienda.	3600	in	ns	ns1.iptwins.net.
 debuyer.tienda.	3600	in	ns	ns2.iptwins.net.
 debuyer.tienda.	3600	in	ns	ns3.iptwins.com.
@@ -1612,7 +1605,7 @@ deportia.tienda.	3600	in	ns	ns1.cdmon.net.
 deportia.tienda.	3600	in	ns	ns2.cdmon.net.
 deportia.tienda.	3600	in	ns	ns3.cdmon.net.
 deportia.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-deportia.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. SmiqRteRN7PJWzK6iP17r/AFfOkJnCC/cIOOLm76xYuM+4d2fze86MS5VR7r5whuA0+6BTpdH5/ZcCuXhsAT2gbemrNgOgsHFqAHlBDyLSaciQdfH0WQmRv758c2rIFl3S3y1si6fHc8iXVYX8X8OgHRHTvo1nQ/64ZXIHNEHFU=
+deportia.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. fei9qSQbBosvzHufbpzhea5AFKxBwdqgUty8UauaAIazPHMCGqTSAIBVt2ClV048IiH645BH8JhiOYgJ3GRAPJqWUBUHaiUMnfVoCVIW6ws9vZPFMDGfxEY1FWgFwV3YQ+1t/yKX/nwLB09Lb8UoKBVXvrqjfYJ/SwSXCgFMcF4=
 deqjg.tienda.	3600	in	ns	n1.xundns.com.
 deqjg.tienda.	3600	in	ns	n2.xundns.com.
 deregalos.tienda.	3600	in	ns	ns1.dns-redirect.com.
@@ -1633,7 +1626,7 @@ devoluciones.tienda.	3600	in	ns	ns2.dondominio.com.
 dexar.tienda.	3600	in	ns	n1.xundns.com.
 dexar.tienda.	3600	in	ns	n2.xundns.com.
 dfcg3m7n5kjvq8tl9vejdegaf4ngtio7.tienda.	3600	in	nsec3	1 1 0 73 E2IM4Q7DCFVHGLRG28VGHG4MAEENG9O7 NS DS RRSIG
-dfcg3m7n5kjvq8tl9vejdegaf4ngtio7.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. RidfJ0NMzM1lL0R5l7VsFjaknmZelS2OE+blWhfPcuHn9Vd3yRAccDcTb07tq6mU4TVRxdbA07cmsWUIEEU0G1OqhKBUlbsItfAAAFnTTnhnTSYFpJkoeG7zafrV14Y2XiE2BVQacRAGgqR71wz1DMWz3HJdgfsIC/ms4eEjGU4=
+dfcg3m7n5kjvq8tl9vejdegaf4ngtio7.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. aaAzis5LE1ennGEB26jlsroMGURV/dx+nVD3EBiL67MPgRSyRd34p+86HYxiP5mPqZidHMiq0Z5M0A7Pno3G42VpEQsD9d2/BlqQ8Grd3T6VapTXmmMwUT4eheZnedL/Cr8uUBThaMyO0ARRsbk8Kb5pkXaOX74DY6tVVzlUbkk=
 dhbwr.tienda.	3600	in	ns	n1.xundns.com.
 dhbwr.tienda.	3600	in	ns	n2.xundns.com.
 dhjwoy.tienda.	3600	in	ns	n1.xundns.com.
@@ -1671,15 +1664,15 @@ dimaco.tienda.	3600	in	ns	ns2.dimaco.tienda.
 dimecuba.tienda.	3600	in	ds	1187 8 2 8ACA161678388A8CDF251B3CB13466C35BBAB8DA76EB7BAAFFA199C5EE7BFB48
 dimecuba.tienda.	3600	in	ns	dns20.ovh.net.
 dimecuba.tienda.	3600	in	ns	ns20.ovh.net.
-dimecuba.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. YNDlXVcjAyk5nYqdQH8ATdcRgsL/j+g+PzaC54flDZk87xVUgi9FrP7h8hQnacBsIYxWcw/vf6PZ+wV81oCcSlVejyt0z+Dw+Ctxk1fwNTYu6BcZIn6uV5iaEcnx/NoW7OQa4ngwRDVZSJSfxbcfEAQH1xGka1rZBoPK3D4JPNM=
+dimecuba.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. gtnqIaqY96VDFbBHH/fGQX777P/QNOc68sfsoG+4tg8W05JLyzMsNaqfma1T92QI1DwuSFRazPDiH9DL4VesUaT0RoRLd2xJUooHxiK2QdDkGAhGwfCTOidN9p+BhQRB1R2VOqQp4kc4Ksmng/9scRnAgBgRuA2Sw9BLRxM49nY=
 dinosaurios.tienda.	3600	in	ns	ns1.afternic.com.
 dinosaurios.tienda.	3600	in	ns	ns2.afternic.com.
-directadmin.tienda.	3600	in	ns	ns1.dondominio.com.
-directadmin.tienda.	3600	in	ns	ns2.dondominio.com.
+directadmin.tienda.	3600	in	ns	ns1.directadmin.es.
+directadmin.tienda.	3600	in	ns	ns2.directadmin.es.
+directadmin.tienda.	3600	in	ns	ns3.directadmin.es.
+directadmin.tienda.	3600	in	ns	ns4.directadmin.es.
 discmedi.tienda.	3600	in	ns	dns1.codifont.net.
 discmedi.tienda.	3600	in	ns	dns2.codifont.net.
-disemed.tienda.	3600	in	ns	dns101.registrar-servers.com.
-disemed.tienda.	3600	in	ns	dns102.registrar-servers.com.
 divantantra.tienda.	3600	in	ns	ns1.dondominio.com.
 divantantra.tienda.	3600	in	ns	ns2.dondominio.com.
 divertfruit.tienda.	3600	in	ns	docks19.rzone.de.
@@ -1711,9 +1704,6 @@ dominio.tienda.	3600	in	ns	launch1.spaceship.net.
 dominio.tienda.	3600	in	ns	launch2.spaceship.net.
 dominios.tienda.	3600	in	ns	ns1.dondominio.com.
 dominios.tienda.	3600	in	ns	ns2.dondominio.com.
-dompal.tienda.	3600	in	ns	ns1.dreamhost.com.
-dompal.tienda.	3600	in	ns	ns2.dreamhost.com.
-dompal.tienda.	3600	in	ns	ns3.dreamhost.com.
 donatere.tienda.	3600	in	ns	dns1.p01.nsone.net.
 donatere.tienda.	3600	in	ns	dns2.p01.nsone.net.
 donatere.tienda.	3600	in	ns	dns3.p01.nsone.net.
@@ -1748,14 +1738,14 @@ dreams357.tienda.	3600	in	ns	ns-cloud-e3.googledomains.com.
 dreams357.tienda.	3600	in	ns	ns-cloud-e4.googledomains.com.
 drmoralesraya.tienda.	3600	in	ns	ns11.domaincontrol.com.
 drmoralesraya.tienda.	3600	in	ns	ns12.domaincontrol.com.
-drone.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-drone.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
+dron.tienda.	3600	in	ns	ns97.piensasolutions.com.
+dron.tienda.	3600	in	ns	ns98.piensasolutions.com.
+drones.tienda.	3600	in	ns	ns97.piensasolutions.com.
+drones.tienda.	3600	in	ns	ns98.piensasolutions.com.
 drops.tienda.	3600	in	ns	dns47.servidoresdns.net.
 drops.tienda.	3600	in	ns	dns48.servidoresdns.net.
 dtf.tienda.	3600	in	ns	ns1.dondominio.com.
 dtf.tienda.	3600	in	ns	ns2.dondominio.com.
-dtg.tienda.	3600	in	ns	ns03.domaincontrol.com.
-dtg.tienda.	3600	in	ns	ns04.domaincontrol.com.
 dtnfm.tienda.	3600	in	ns	n1.xundns.com.
 dtnfm.tienda.	3600	in	ns	n2.xundns.com.
 dulces.tienda.	3600	in	ns	ns37.domaincontrol.com.
@@ -1775,7 +1765,7 @@ e.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
 e.tienda.	3600	in	ns	maceio.ns.porkbun.com.
 e.tienda.	3600	in	ns	salvador.ns.porkbun.com.
 e2im4q7dcfvhglrg28vghg4maeeng9o7.tienda.	3600	in	nsec3	1 1 0 73 ELP6ESVE1OHV86084A5QGE929D2POLJ0 NS DS RRSIG
-e2im4q7dcfvhglrg28vghg4maeeng9o7.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. WQc7FHJLZ1kb6Qm37JlmEg+4Uu/Y+AQCyB7My/Q+3rMnoHOhNcBIfU23BT5dRTxUVaL7OJMuxZSlhKr9yUJqzZAquoDkSJZMwso72k0eqy7G3KDFgRCYgfR7d1Rc8YNShEnc5uYwBNoRrKy/+LV8koK/x6j74bDYU5AkX6wF0kk=
+e2im4q7dcfvhglrg28vghg4maeeng9o7.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. G15iAB3R4voAMxyB3CMJePFIHoNuT3K7doXry7EU391bgve9tSLzdFifjFFXNyLgeeASiLqPwPs66cTcSIxpGO9o1DwKbreJdi90fxbtOjP56lwIa7kol92B6ravL2ztpLEX8jj9eYkJLkNUTburMtsK6a3WbDj+GSS52AupJ0M=
 eagqn.tienda.	3600	in	ns	n1.xundns.com.
 eagqn.tienda.	3600	in	ns	n2.xundns.com.
 easy.tienda.	3600	in	ns	ns1.markmonitor.com.
@@ -1815,6 +1805,12 @@ ecologica-natu-diet.tienda.	3600	in	ns	ns07.domaincontrol.com.
 ecologica-natu-diet.tienda.	3600	in	ns	ns08.domaincontrol.com.
 ecologicanatudiet.tienda.	3600	in	ns	ns37.domaincontrol.com.
 ecologicanatudiet.tienda.	3600	in	ns	ns38.domaincontrol.com.
+ecommerce.tienda.	3600	in	ds	44048 14 2 1EB071B44A75659184590151077D38987FD87AFAC55F0D1018E07EF7C20C19D9
+ecommerce.tienda.	3600	in	ns	ns1.cdmon.net.
+ecommerce.tienda.	3600	in	ns	ns2.cdmon.net.
+ecommerce.tienda.	3600	in	ns	ns3.cdmon.net.
+ecommerce.tienda.	3600	in	ns	ns4.cdmondns-01.org.
+ecommerce.tienda.	3600	in	rrsig	DS 8 2 3600 20260209083607 20260119073607 29319 tienda. lAFek/DsYrYQL9R4IM4R6ZMbLi5bhJCy0OdIZ7wA6jqvSlKd/u6+3plg74kl4b8rETqWeBhup3/Hr5tO2TtSjiB1k7xzRz4IoFmKaN70CFJWscOA4z+twdmKVYAlDkdgf/fUBx1DP+/VqkautyGuZvBKgq7yYm2ooDCIC0XlRVs=
 ecopets.tienda.	3600	in	ns	ns1.dns-parking.com.
 ecopets.tienda.	3600	in	ns	ns2.dns-parking.com.
 ecopoxy.tienda.	3600	in	ns	ns1.giow8.siteground.us.
@@ -1884,6 +1880,10 @@ electroestimulacion.tienda.	3600	in	ns	ns1.dns-redirect.com.
 electroestimulacion.tienda.	3600	in	ns	ns2.dns-redirect.com.
 electroyhogarpelotazo.tienda.	3600	in	ns	ns1.dns-parking.com.
 electroyhogarpelotazo.tienda.	3600	in	ns	ns2.dns-parking.com.
+elektro.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
+elektro.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
+elektro.tienda.	3600	in	ns	maceio.ns.porkbun.com.
+elektro.tienda.	3600	in	ns	salvador.ns.porkbun.com.
 elfutbolero.tienda.	3600	in	ns	ns1.d22.dnsboot.com.
 elfutbolero.tienda.	3600	in	ns	ns2.d22.dnsboot.com.
 elgavilan.tienda.	3600	in	ns	ns-es.1and1-dns.biz.
@@ -1901,7 +1901,7 @@ elmiracle.tienda.	3600	in	ns	ns2.sh5138.sd.eurovps.com.
 elmorteroamarillo.tienda.	3600	in	ns	dns23.servidoresdns.net.
 elmorteroamarillo.tienda.	3600	in	ns	dns24.servidoresdns.net.
 elp6esve1ohv86084a5qge929d2polj0.tienda.	3600	in	nsec3	1 1 0 73 F0I459B7J4QBQ83GEJI5BSG2RPC2GL4M NS DS RRSIG
-elp6esve1ohv86084a5qge929d2polj0.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. OQ37Dilmz5Mnvnf3NGjBldozUyNfZ4RZZ9cdeG3GSd67EPsCA8yuOKVimD81wX2Yn/90UiqHL17XW32cS/CvT4qEJJxyjnrM7NTbkGb1AzJzvapRkPZTJzLcCPIuVZ/q55QO2QIKaT7tuDq2/nHKnLMEeQtxgvTrrIlEcpL5aAw=
+elp6esve1ohv86084a5qge929d2polj0.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. BGT6eEFoQyqr6axRaWuckkE5X5r+/E+R8Ap8k9iqxeREhJSg+guJMQNui4/sp78KD0d+RsJxTyfd+GqfDPKdvMoNU81eiL0GwVd2/PEevNawCcHISjuh9EuLJhyyrq6KX/DwYr9LJINqdAZNKs6eHXn0I5N2vBmm7w6keOeox1Y=
 elpajarocarpintero.tienda.	3600	in	ns	ns1.dns-redirect.com.
 elpajarocarpintero.tienda.	3600	in	ns	ns2.dns-redirect.com.
 elperolet.tienda.	3600	in	ns	ns-es.1and1-dns.biz.
@@ -1914,7 +1914,7 @@ elpimpi.tienda.	3600	in	ns	ns2.cdmon.net.
 elpimpi.tienda.	3600	in	ns	ns3.cdmon.net.
 elpimpi.tienda.	3600	in	ns	ns4.cdmondns-01.org.
 elpimpi.tienda.	3600	in	ns	ns5.cdmondns-01.com.
-elpimpi.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. V6mwh/yx9YZSifZqBdb0Ar/rFLTMJBNKsRdOxEuZV7qteqVdU0uUo8iKpSRA6BLyzcHYWVhGph7jvAhYL0bChX9tvgzzIrNFHJ+uXS2R+IPDeoxfxdm9BLmuvcfDmvfT1Mxe3LLiH0hRCqA5R4siQrmnzY5tDjfiLLXVDuw3wKo=
+elpimpi.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. UqrjJ0zHWv/CfLQUauIPtod352RZ/c4i2qCZY9f2IPSO3iUSRG+eoydsOo2v1BK09t0YUgNseqDn8vKkKGXevYQe3mbtqnpKvdXGB1vcomUlUY7+Y/QCPWX5E/xDmp7H7uuVjwsbsLSU4V25KUvBqSLdZe2geY7ZX+RMsYPIhL4=
 elquexigal.tienda.	3600	in	ns	ns1.entorno.com.
 elquexigal.tienda.	3600	in	ns	ns2.entorno.com.
 elquexigal.tienda.	3600	in	ns	ns3.entorno.com.
@@ -1928,7 +1928,7 @@ elrincondelpescador.tienda.	3600	in	ns	ns1.cdmon.net.
 elrincondelpescador.tienda.	3600	in	ns	ns2.cdmon.net.
 elrincondelpescador.tienda.	3600	in	ns	ns3.cdmon.net.
 elrincondelpescador.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-elrincondelpescador.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. hpCsWlsZX5EeUykP2Kjbnwas6vbg88AwBzYfe/8wtVqFN08xeL4dmrQ8bVMq9MzDbrJ1xANH9kXUrQ9KU0xVeEKi6cGlk0tTS2mbd2CAvLXWor0iDmL4EViMBMIsCpACmtJEGmyG6tl6hiQcwbU9qGX/wVhU6+yFoBe2Fr2dw+o=
+elrincondelpescador.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. AILUb+815em9qYIe1z/yW6vE974Lo1lYU9EfQkau1HAQzZuY6H5CEOvnoMonHBfmqhNGOxhUdfDmdCXAX3O6dJQ3vz532K3BdlZAGavXAGuNnFji6IzXGwaoWJuoI7B3XQzaUtLP8zYCz1IlZiCwY9SvKY8/SrcFDIxVRu/w3z8=
 elybank.tienda.	3600	in	ns	ns1.dyna-ns.net.
 elybank.tienda.	3600	in	ns	ns2.dyna-ns.net.
 elyselle.tienda.	3600	in	ns	ns25.piensasolutions.com.
@@ -1943,6 +1943,8 @@ emiratesnbd.tienda.	3600	in	ns	ns1.ezydomain.com.
 emiratesnbd.tienda.	3600	in	ns	ns2.ezydomain.com.
 emmara.tienda.	3600	in	ns	ns1.dns-parking.com.
 emmara.tienda.	3600	in	ns	ns2.dns-parking.com.
+empacio.tienda.	3600	in	ns	ns55.domaincontrol.com.
+empacio.tienda.	3600	in	ns	ns56.domaincontrol.com.
 empre.tienda.	3600	in	ns	ns47.domaincontrol.com.
 empre.tienda.	3600	in	ns	ns48.domaincontrol.com.
 empresario.tienda.	3600	in	ns	ns1.dyna-ns.net.
@@ -2040,10 +2042,9 @@ estampalo.tienda.	3600	in	ns	ns-es.1and1-dns.biz.
 estampalo.tienda.	3600	in	ns	ns-es.1and1-dns.com.
 estampalo.tienda.	3600	in	ns	ns-es.1and1-dns.es.
 estampalo.tienda.	3600	in	ns	ns-es.1and1-dns.org.
-esther.tienda.	3600	in	ns	dns3.sered.net.
-esther.tienda.	3600	in	ns	dns4.sered.net.
-esther.tienda.	3600	in	ns	kevin.quicns.com.
-esther.tienda.	3600	in	ns	lisa.quicns.org.
+esther.tienda.	3600	in	ns	ina1.registrar.eu.
+esther.tienda.	3600	in	ns	ina2.registrar.eu.
+esther.tienda.	3600	in	ns	ina3.registrar.eu.
 estilograficas.tienda.	3600	in	ns	ns-es.1and1-dns.biz.
 estilograficas.tienda.	3600	in	ns	ns-es.1and1-dns.com.
 estilograficas.tienda.	3600	in	ns	ns-es.1and1-dns.es.
@@ -2078,7 +2079,7 @@ evolution.tienda.	3600	in	ns	ns1.cdmon.net.
 evolution.tienda.	3600	in	ns	ns2.cdmon.net.
 evolution.tienda.	3600	in	ns	ns3.cdmon.net.
 evolution.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-evolution.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. jsL5sby0t4kc0etpBablFMoNipuUUrngVce8TpB0En9iLUhGzvbj2MD5TybGyakI4L9iuykVN76JYFcfGg+WZg/Camy73pg4+m3JAhh9YEuZrUiED1TtGe/eY++q37yn75jOxPGJtl4LiNpb82gXzcqUNGHRy/JV4m2BgQpHmnY=
+evolution.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. N1q6rX+9rV1Fi/B7e5hagkPrRJolZxldXkRTkc3Pnw9RpIVFtvylgJKPGCxhvrVr+U4Mfd2fEO7oS1cknRHr//ocrltjv3s4PFxR9vBc4A7QororF/C50colzTebF8kZ/tYLtYrw5N4gZKF2cJ40fO4yvt12nXwkw8D6U7uDCUc=
 expo.tienda.	3600	in	ns	dns35.servidoresdns.net.
 expo.tienda.	3600	in	ns	dns36.servidoresdns.net.
 extincenter.tienda.	3600	in	ns	dnsps11.mercadolibre.com.
@@ -2100,11 +2101,11 @@ eyra.tienda.	3600	in	ns	ns2.donweb.com.
 ezkabapapeleria.tienda.	3600	in	ns	ns1.dondominio.com.
 ezkabapapeleria.tienda.	3600	in	ns	ns2.dondominio.com.
 f0i459b7j4qbq83geji5bsg2rpc2gl4m.tienda.	3600	in	nsec3	1 1 0 73 FAB28LN3QHUHAHJ2K20JNAISL717URDH NS DS RRSIG
-f0i459b7j4qbq83geji5bsg2rpc2gl4m.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. iYa/j6y1y+wuEYdWh8QFt3NRGqEN6ATde30HFdz4HU188tLmiyUe7J+kE9zd+OBuNG4Bat1raxh7NPiwZgGJDMaUsNfj7b3ytgXKDhz9Cdc8zH361ZjfuKP1XKoDIsfN2ltG72Di/AINyCwtRCIDyOaOLpuieHaDsyD+riI1HiE=
+f0i459b7j4qbq83geji5bsg2rpc2gl4m.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. fCgy8C1cPh82QzXNR3Feb6eNe4PgR+5GfPazimd2mX1hXFoxRO6L4NhrbFxUymu8/P22Fe0BRQraWh1J2s4wWtqWigjLnyXCIZgfZt+yFv/DnjL24sjwN6PI1LvTWYXuqN4/SbQUMCPgVoMvLMvcOwb+PymYuAHuTj63Pe3xK3o=
 f2r.tienda.	3600	in	ns	gwen.ns.cloudflare.com.
 f2r.tienda.	3600	in	ns	kip.ns.cloudflare.com.
 fab28ln3qhuhahj2k20jnaisl717urdh.tienda.	3600	in	nsec3	1 1 0 73 FCE93FB1MSCB1IME68PKUNEBEIFNH00Q NS DS RRSIG
-fab28ln3qhuhahj2k20jnaisl717urdh.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. JHmotOOWQLfdpGjKVCxBmfVxLt7nU52qJOKoP/Z2KRujxKdKvdUERTvOLj9jPXvBMyBcbVQ6xjhFVE7GT0q46I2vHEXYn8pVukZWRcolDbz+Hv7+ljPD5iX8uLfa3TuBYs4oO9chsoElEBHAQj5PQQUInasFJ1J6PNoQNewlEHg=
+fab28ln3qhuhahj2k20jnaisl717urdh.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. jxVsMHP8qiqi8A5KdozP2D6vit7sjfNDIbgJ1xgtgB/NJJ6GKd+4Adg1he8ROenpQo4XbcJXcK1Hr2mUcuzeceuQ1AAZan2S9pZu2On+MU7GFdE0+rxkN/zG2/mDJuAzWa3nSIIczOagRrlOHu7OXaTG0pEUwptFDCgoACfubbY=
 fabricajuguetes.tienda.	3600	in	ns	dns27.servidoresdns.net.
 fabricajuguetes.tienda.	3600	in	ns	dns28.servidoresdns.net.
 facai.tienda.	3600	in	ns	ns1.netsto.net.
@@ -2162,7 +2163,7 @@ fcbarcelona.tienda.	3600	in	ns	ns4.entorno.com.
 fcbc.tienda.	3600	in	ns	pdns1.registrar-servers.com.
 fcbc.tienda.	3600	in	ns	pdns2.registrar-servers.com.
 fce93fb1mscb1ime68pkunebeifnh00q.tienda.	3600	in	nsec3	1 1 0 73 FF3493LIR3MDFV0TCQIDHFNH0U4ETSE1 NS DS RRSIG
-fce93fb1mscb1ime68pkunebeifnh00q.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. KufrPNfHiCCHxm3q4vt6BNCpmoJ3NaHYDBEEh50bdz1ruvkFbu7O0uIbFUZ7GIm5wyvd+VLEiO5byRqtHKf1cOjYP0Ii6Pd6M41DlRWlFI7RTIo1HuIwy7M2n2bTU20B1TqA8H/aCPAsN2uVrsOk6BCrYpqyZ81pD+KyyGyfbFg=
+fce93fb1mscb1ime68pkunebeifnh00q.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. R+cKCweD2lP9JRnklWt9w9Lj98hvdZbkVHGVgZ4qxpaRXqSAPsMpyftuUUQWdyJnQyexo4EdLlJ5XaoYcIwVQfh4HjBQG9EGOsILGgOXhF/b8lkoJewZo1UBPXxHfHEvEVjqt6FUQLopVi+vEWb5qmrQakpUa6jBWnt5wS88UWE=
 fem.tienda.	3600	in	ns	ns07.domaincontrol.com.
 fem.tienda.	3600	in	ns	ns08.domaincontrol.com.
 ferremates.tienda.	3600	in	ns	ns1.interplanet.com.mx.
@@ -2171,13 +2172,13 @@ ferremates.tienda.	3600	in	ns	ns3.interplanet.com.mx.
 fertilizantes.tienda.	3600	in	ns	ns1.dondominio.com.
 fertilizantes.tienda.	3600	in	ns	ns2.dondominio.com.
 ff3493lir3mdfv0tcqidhfnh0u4etse1.tienda.	3600	in	nsec3	1 1 0 73 G1SAK1BS61OTKHJM79I50EO8IU0GR449 NS DS RRSIG
-ff3493lir3mdfv0tcqidhfnh0u4etse1.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. Pl3fa4A8h7Hr5cXnBFk9Epq2m6mpP2/rxQiGb9s61UDYWjgsM7oDQJeP9fFBAX7RhN/rylUY4XVwkmdoIr4ahfzefI+Qtbr2ElTo6qs5q2dgaHvTeC7Lcr82P/uHGI0SJyGVN9ouyaih65BDreAq8jr4dHH+OLXQHUV8xst5d14=
+ff3493lir3mdfv0tcqidhfnh0u4etse1.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. p4z9vWIIVgKTq7SGiLunzzz/f2fduseovT0bQRsPoK5JCygDHMOhC9tXr1CET2OEdC2r3ieoVzV1q3CokLA+AtbAiJ2Hs1UcfQyFkeWBFDK4kSy4br7xYfmbhku9/ApMCZ0lWmU2UnGsJaRa1uCjnQOvkzHxebD7CYi7uPGtKJk=
 fhjpu.tienda.	3600	in	ns	ns1.dyna-ns.net.
 fhjpu.tienda.	3600	in	ns	ns2.dyna-ns.net.
-fibra.tienda.	3600	in	ns	ns1.dondominio.com.
-fibra.tienda.	3600	in	ns	ns2.dondominio.com.
-fibralink.tienda.	3600	in	ns	ns1.dondominio.com.
-fibralink.tienda.	3600	in	ns	ns2.dondominio.com.
+fibra.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+fibra.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
+fibralink.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+fibralink.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 fiesta.tienda.	3600	in	ns	dns10.ovh.net.
 fiesta.tienda.	3600	in	ns	ns10.ovh.net.
 fiestas.tienda.	3600	in	ns	ns1.donweb.com.
@@ -2190,8 +2191,8 @@ filtrodeagua.tienda.	3600	in	ns	docks14.rzone.de.
 filtrodeagua.tienda.	3600	in	ns	shades10.rzone.de.
 fina.tienda.	3600	in	ns	dns1.registrar-servers.com.
 fina.tienda.	3600	in	ns	dns2.registrar-servers.com.
-finglut.tienda.	3600	in	ns	ns1.dondominio.com.
-finglut.tienda.	3600	in	ns	ns2.dondominio.com.
+finglut.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+finglut.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 finlandiavodka.tienda.	3600	in	ns	ns1.markmonitor.com.
 finlandiavodka.tienda.	3600	in	ns	ns2.markmonitor.com.
 finlandiavodka.tienda.	3600	in	ns	ns3.markmonitor.com.
@@ -2236,14 +2237,12 @@ flowers.tienda.	3600	in	ns	dns1.cscdns.net.
 flowers.tienda.	3600	in	ns	dns2.cscdns.net.
 flyct.tienda.	3600	in	ns	n1.xundns.com.
 flyct.tienda.	3600	in	ns	n2.xundns.com.
-flyer.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-flyer.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 flyviva.tienda.	3600	in	ds	15790 8 2 3F1D39963DBF7349886490523B7172C36878AC2FC985C61AB6FE9FCFC4453C4D
 flyviva.tienda.	3600	in	ns	ns-cloud-b1.googledomains.com.
 flyviva.tienda.	3600	in	ns	ns-cloud-b2.googledomains.com.
 flyviva.tienda.	3600	in	ns	ns-cloud-b3.googledomains.com.
 flyviva.tienda.	3600	in	ns	ns-cloud-b4.googledomains.com.
-flyviva.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. r6jzWzHb1olnh/6SqSV4hwtDprR045e3Hv+B1RJ75dPR6KUDx3S0f+9NhrPa0J0Pmoj3GEWpM1/AIMg7NY4GeNw5Jm5rpLqF3dGelKPmpvV3zjVmHa06TG7ZuCR6GcXb1y6DVsUcC+XCcJjomTcxnX8CImwEBGwEeT3T2/mBc+s=
+flyviva.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. cUaGO86WtPCuFSLTl2ekbFDyiSsCg91SXMFrsWTAbPT3CdK2R+ti2oG1j4qJvycPz0tGLZdvVBT0GY99btHtdMUCM0GLkGdM2bMg13a7offOryNDdpsY/y0fjO7a5z127/gENXt+Nz6MA+pjSMUyDqLcQrntlJmQAY5lzaXgW+E=
 fmr.tienda.	3600	in	ns	ns1.dyna-ns.net.
 fmr.tienda.	3600	in	ns	ns2.dyna-ns.net.
 fnac.tienda.	3600	in	ns	dns1.cscdns.net.
@@ -2257,8 +2256,6 @@ fokrd.tienda.	3600	in	ns	ns2.dyna-ns.net.
 fonbet.tienda.	3600	in	ns	ns1.101domain.com.
 fonbet.tienda.	3600	in	ns	ns2.101domain.com.
 fonbet.tienda.	3600	in	ns	ns5.101domain.com.
-fonseca.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-fonseca.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 fontanero.tienda.	3600	in	ns	ns1.dondominio.com.
 fontanero.tienda.	3600	in	ns	ns2.dondominio.com.
 formacion.tienda.	3600	in	ns	dns45.servidoresdns.net.
@@ -2293,7 +2290,7 @@ fsb.tienda.	3600	in	ns	ns-cloud-e1.googledomains.com.
 fsb.tienda.	3600	in	ns	ns-cloud-e2.googledomains.com.
 fsb.tienda.	3600	in	ns	ns-cloud-e3.googledomains.com.
 fsb.tienda.	3600	in	ns	ns-cloud-e4.googledomains.com.
-fsb.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. BhvIswCRhptUx5amBujmfdSQJR3SN0wu33ozmgEwIUxYIPuuUlt7j2YxMDOIttKCumLlBPvXCPewFAGUWkHbDfZQlMnUaMiGmpCWNle+xjARcJt38l8p62PoE89q5uhozwe2c/liMDPFh+WMB2yyAPxef/S0hmR9KHjfBVMbMLQ=
+fsb.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. fw8fhgCXY2B95qft2BAvoHJjEMviBy6pKT1l/orR8j5BZ3d0yAPGL36dfUWHpELvWFXwAqqXGjfL98o7vbX2aLFPnwb5qyACAGID7wbS8YPTNeiYu2wUooXJtTTr4OtQSeP3y1cDsNs8W4EwW7jd5sFaGXBzVz62g77qFhy1VsU=
 ftcl.tienda.	3600	in	ns	ns1.cdmon.net.
 ftcl.tienda.	3600	in	ns	ns2.cdmon.net.
 ftcl.tienda.	3600	in	ns	ns3.cdmon.net.
@@ -2316,15 +2313,15 @@ fuxion.tienda.	3600	in	ns	ns-cloud-a1.googledomains.com.
 fuxion.tienda.	3600	in	ns	ns-cloud-a2.googledomains.com.
 fuxion.tienda.	3600	in	ns	ns-cloud-a3.googledomains.com.
 fuxion.tienda.	3600	in	ns	ns-cloud-a4.googledomains.com.
-fuxion.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. HRTpWJkgCrXHeCpw6rWKOyAxUV/I73vcoey8W/gj7XK08Gk3vejIdDbkptsDgHW/VA7OPRdzZDe1B9LnywwYOdxR9CewUguFS02bcsLxSGef7h5m7hIVrwJndBS5p7QgIQsEyYSMxm26mGofwnMzPgj4Nb6jStTJ1xNUYOgoUCs=
+fuxion.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. CRPWRbMDGdbkdSf0HZhpTHO9SIxv2pQpoRuEfak9C80I9xiGUgl0SKkGOuBokJITjZ5BtTEmQKP38Wd7Tgbgcw6nCW3nx5xO/4LqZw8BYb+KOJVfqXp1mTCUlZzRHv7DJ2UuSK3lqzxq3IeBrXyVQSmM9TpI7/3Htp3vr5JiJp8=
 g1sak1bs61otkhjm79i50eo8iu0gr449.tienda.	3600	in	nsec3	1 1 0 73 G54K82CRLMKJBKTVNPH4O8E8S1UIVAHM NS DS RRSIG
-g1sak1bs61otkhjm79i50eo8iu0gr449.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. fNljcbMJeEk+Zy0xgvOK0k7q75mJCaP3XsvRV63KfiyCVg5VqdlNDR5D3SWs/V1Fs+TNI0sK6zL80KzJjbWFBODE7xGAuKNPf2FD5/esxPNvgqWZ8RQRHkIPjVMs8Kh6LaDBtPGfOM1aUzW7hiXPLD1dQNMv7t2/0ve3QFqcPUc=
+g1sak1bs61otkhjm79i50eo8iu0gr449.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. bEjF3peL7qO5LWXuh2ArbnNzssN6iRtX0CDMgksBdBeTqdVhheOgqtgMv69+BFRD6ds9Rla1sGx73xj9+nxixdNq6wSzxtylENk7I5v3I7aan6Rq/QYaPlg8K+CZSJWPpTwsEPYmxU0BEUcQ7Rb2xh6yg05X6DV4HfGukdum6y0=
 g54k82crlmkjbktvnph4o8e8s1uivahm.tienda.	3600	in	nsec3	1 1 0 73 G8AR7SCVMS2IV5O8IDQ3RDGF7QNH4RFS NS DS RRSIG
-g54k82crlmkjbktvnph4o8e8s1uivahm.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260126062436 20260105052436 29319 tienda. UXaWCReIYVswOqC4UPaAZkS1xKz15Q23gbqAKwzFBTAxx2wk1Fd6S2wBxyOjHVteLFiwNNgQhzyKmetCidp7j4RXQRVsscW9kXnWFGyFqohvdb+ZZea6VWg6jnG5i22TfbATW6aQxEEwhMZnvi+KLruC8tUSc5LjK/bZTq1iBZs=
+g54k82crlmkjbktvnph4o8e8s1uivahm.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. EOkfLWjQlnP0xk9NRBeZDwpwjPB3UPUlFlxCbIV1jjTf9P9XOCMSDkiAFxaCKjN7ihIXD4gexiRzTta8RQMIZZNJiaxuIfEIhPWaEmSP/ofhUhUe2KsUXipZmr6JDQbNcRmlaSz8H++0pZtlEhN0EM22Rb/wyzGdOkf2tZvneYA=
 g8ar7scvms2iv5o8idq3rdgf7qnh4rfs.tienda.	3600	in	nsec3	1 1 0 73 GA4H6DE1IJLM3GQTE93VVP900DICK2KU NS DS RRSIG
-g8ar7scvms2iv5o8idq3rdgf7qnh4rfs.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. JPav3/uKOQ4lEm5skGog5MLH6GURotja2BbhXLNB+wBDdb3G8YAdM6fKYzt5mnBe5xEUu/ft/7vP9u/sfIpAmhT8o3KyYUwgQhbRMjdbceL+sWt/RAo7l7uRP+95kGil5aPJjYIhEYpbuSDUeuzs8dmmpKmtrYZPwtQaIGCvUqY=
+g8ar7scvms2iv5o8idq3rdgf7qnh4rfs.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. IYHSQqpT6Y3XOwUnU75yLQ2Y6XoST8G9DEmk3Jkf7lfN20sWFCbKpNeC6P5ut8SnHfHtwHPWhpF1ytpJr078ypJ3U87u/Gu75DwRQzFEM/EWEiYFTSZRYJS+wdBEfKI6IXi88btoxgPVB+YBLYbHo7EBrbVr1aOWdtXJLN/yq6Q=
 ga4h6de1ijlm3gqte93vvp900dick2ku.tienda.	3600	in	nsec3	1 1 0 73 HM315NLG2N4LECT1C0N416BLGVN9TBTJ NS DS RRSIG
-ga4h6de1ijlm3gqte93vvp900dick2ku.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. LSy/dYd+yGcpDhJpj9bwoJ8JpxgpAmwbCtwWWMkR4jszN+aE1PmQdnKOB+r8oczPQsdVrNfNqRQS4hTdTvo0A1I3vU//t2XgUGoYbgz3w2uoFFcA52Tl8nCojR+fN81NiaPAWFq5G70J7/6i59vmAZPAlVmP9HVEjI//NM6ZqdU=
+ga4h6de1ijlm3gqte93vvp900dick2ku.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. firCc6PuthkhPXySMBQ+MGD/yfYDheHhDdYyzMhGNkiXGS0ASnGZGhp4omFykIb/mDw7v5yWRwHww1/yX/ze+qAMESfOK/xIIC5tmgnrVnvEu/yBsWcBdDebMLdlrIhsdbd0IIWu1OfAZjpUKsQddwUCSsYBhpi4hQwL8AwDgxw=
 gafasreticulares.tienda.	3600	in	ns	dns109230.phdns5.es.
 gafasreticulares.tienda.	3600	in	ns	dns109243.phdns5.es.
 galicia.tienda.	3600	in	ns	ns1.dns-parking.com.
@@ -2357,12 +2354,12 @@ gelesan.tienda.	3600	in	ns	ns1030.ui-dns.com.
 gelesan.tienda.	3600	in	ns	ns1036.ui-dns.de.
 gelesan.tienda.	3600	in	ns	ns1075.ui-dns.biz.
 gelesan.tienda.	3600	in	ns	ns1123.ui-dns.org.
+gelsindolor.tienda.	3600	in	ns	ns1.dondominio.com.
+gelsindolor.tienda.	3600	in	ns	ns2.dondominio.com.
 gem.tienda.	3600	in	ns	ns1.iwantmyname.net.
 gem.tienda.	3600	in	ns	ns2.iwantmyname.net.
 gem.tienda.	3600	in	ns	ns3.iwantmyname.net.
 gem.tienda.	3600	in	ns	ns4.iwantmyname.net.
-gemwin.tienda.	3600	in	ns	ns1.dyna-ns.net.
-gemwin.tienda.	3600	in	ns	ns2.dyna-ns.net.
 generadorelectrico.tienda.	3600	in	ns	ns.dinahosting.com.
 generadorelectrico.tienda.	3600	in	ns	ns2.dinahosting.com.
 generadorelectrico.tienda.	3600	in	ns	ns3.dinahosting.com.
@@ -2552,17 +2549,15 @@ herradura.tienda.	3600	in	ns	ns-cloud-a4.googledomains.com.
 herrajes.tienda.	3600	in	ds	10825 13 2 74CC16ABEA3D6957E3ECE3D045278434A98E396E236BD10D62C8F4192CF14CE6
 herrajes.tienda.	3600	in	ns	ns1.dondominio.com.
 herrajes.tienda.	3600	in	ns	ns2.dondominio.com.
-herrajes.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. m5bqbVw2OBBxQBeKeCfP5xYKmfRNoFuceKcG+dcMD7HJQtdv7sPiLZadSfLwpm9KTnArk9cvD70vIIBROBANWyZcPx5aM1AT6WzDd/Y43zgKhJqHn5p4eruxKC0O17x/6adPzJ4ZED67ePpKFqK/zEfpwQhi/TVg9AKJd4CgvCk=
+herrajes.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. RZQqGf3Dxk8CCMAoYhEMGKxmVm1QwItXlSFrZGHMSui8XRXMrYzJkSbkAfEvNQT7wzFjGFXk0Y0HKKmzM2D+1+bkH8tHGomEqh1KlYlVj/eDLQh7C8O5BfOJjj9ikEx9+YWfgtaD+3q4fX0Foyvir6wHyWy+Cbs5szNUTF1w+d8=
 hgalx.tienda.	3600	in	ns	n1.xundns.com.
 hgalx.tienda.	3600	in	ns	n2.xundns.com.
-hhdesign.tienda.	3600	in	ns	chad.ns.cloudflare.com.
-hhdesign.tienda.	3600	in	ns	reza.ns.cloudflare.com.
 highlands.tienda.	3600	in	ds	25951 8 2 9DA3F7F77F288113D16998D7FB1F300821CA078AD5A39D7D8B1737C075C1703E
 highlands.tienda.	3600	in	ns	ns-cloud-e1.googledomains.com.
 highlands.tienda.	3600	in	ns	ns-cloud-e2.googledomains.com.
 highlands.tienda.	3600	in	ns	ns-cloud-e3.googledomains.com.
 highlands.tienda.	3600	in	ns	ns-cloud-e4.googledomains.com.
-highlands.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. IZwBo0mt+y3zrS7ZOuLzUXlROmGn/MeUE2oQxCgj745wgQqlISVGP6oM5OhAFVfoKLBwrR6TOKgGwHSMbHEhR+0MyigTiOjV1XjFn49nSa5/46GBMZV833nXnM5CbCgpcfXqVnGgroDBfpJJcvVqBsQochXQDhsO3O9UFRh4Mpg=
+highlands.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. Rs+QspIBEuhsWDC0VuNHk0pEEC46hpBfwbHkHBfk313574nlITPucqWBoTqR2ywoHTRt2lyU1LlGOuEW6UaN0Kei8lT5vY6SdOOYVMTjY/uMKE9Wk891s71OTELxpahukQCd+Gz3ETXpofeT6TaWMVib4NPFV9uBKRin6NmvirA=
 hihth.tienda.	3600	in	ns	n1.xundns.com.
 hihth.tienda.	3600	in	ns	n2.xundns.com.
 hijedelcielo.tienda.	3600	in	ns	ns1.cargo.site.
@@ -2573,20 +2568,16 @@ hipnosisclinica.tienda.	3600	in	ns	pdns05.domaincontrol.com.
 hipnosisclinica.tienda.	3600	in	ns	pdns06.domaincontrol.com.
 hipnosisonline.tienda.	3600	in	ns	pdns05.domaincontrol.com.
 hipnosisonline.tienda.	3600	in	ns	pdns06.domaincontrol.com.
-hitclub.tienda.	3600	in	ns	ns1.dyna-ns.net.
-hitclub.tienda.	3600	in	ns	ns2.dyna-ns.net.
-hkkim051.tienda.	3600	in	ns	ns1.cafe24.co.kr.
-hkkim051.tienda.	3600	in	ns	ns1.cafe24.com.
-hkkim051.tienda.	3600	in	ns	ns2.cafe24.co.kr.
-hkkim051.tienda.	3600	in	ns	ns2.cafe24.com.
 hllfa.tienda.	3600	in	ns	ns1.dyna-ns.net.
 hllfa.tienda.	3600	in	ns	ns2.dyna-ns.net.
 hm315nlg2n4lect1c0n416blgvn9tbtj.tienda.	3600	in	nsec3	1 1 0 73 I804721MTIMK73I88SBR32OBEVTOLP5Q NS DS RRSIG
-hm315nlg2n4lect1c0n416blgvn9tbtj.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. m5pomfpwrSRn5jJLJIxAQezS1+ptog9wPltP8VbFb0XFHXMMbYpmXkAreHdy/PrVOzF2094SQocsJ3DIwb8/M+g1WPtEd6VwBm6DB0ydenmouRgg5K4mufwf3YNyUnzuwEG6D4RgVXo7O3H38/1B2GXmO19lbHdWctmkY21ouy8=
+hm315nlg2n4lect1c0n416blgvn9tbtj.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. JwSJ22NoRiP+8azr/SzpCbzN6xWQ4cCI9ebdIxt9czSqEPkQ03PZjYhDFvF1Qa7CYVQGqOlySZHRnGXUqnekx8cFmFIOMuXZtPO7oqj885BWDeNXnLzogLinwbZLS5ZWW5QmksID+3fChU8aeezwhClmdmGOuwX+RudrQZyd5kg=
 hojaverde.tienda.	3600	in	ns	ns09.domaincontrol.com.
 hojaverde.tienda.	3600	in	ns	ns10.domaincontrol.com.
-home.tienda.	3600	in	ns	ns1.park-my-domain.net.
-home.tienda.	3600	in	ns	ns2.park-my-domain.net.
+hola.tienda.	3600	in	ns	ns1.dyna-ns.net.
+hola.tienda.	3600	in	ns	ns2.dyna-ns.net.
+home.tienda.	3600	in	ns	baiyun.ns.giantpanda.com.
+home.tienda.	3600	in	ns	meilan.ns.giantpanda.com.
 homepoint.tienda.	3600	in	ns	ns-1105.awsdns-10.org.
 homepoint.tienda.	3600	in	ns	ns-2041.awsdns-63.co.uk.
 homepoint.tienda.	3600	in	ns	ns-62.awsdns-07.com.
@@ -2646,11 +2637,13 @@ hvnde.tienda.	3600	in	ns	n2.xundns.com.
 hyf.tienda.	3600	in	ds	61976 8 2 E923263923F1C47E25F53401F05E3AC89B5002DE137E92073083F1B07E681165
 hyf.tienda.	3600	in	ns	dns200.anycast.me.
 hyf.tienda.	3600	in	ns	ns200.anycast.me.
-hyf.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. sW1dQ0DTxzGcrn1gxMySQs6TKSQhXtYtzpy9pkDjmha1t9agPnsMadMjsaDWo7R7I5wSqySNMrLZ1/AEnelEbPBZtZanPp+E0aLpkhK4gjvpsmt2ydU0SrJPu2TNweVBack2DRicqktoeZuEh0Wl5Uv/bqfjPiwGL7quoiuCXls=
+hyf.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. KLDVByVr4WIjB7sGntLDWCq8ZcLCbbi9VyWFFWhXkaCFWrEu6MKEFf+jLld0c88cTsT3ZXBvwxTGHvE86buhzUx20GH5gFoLRjh2U/Sst9PgpuRVSmp0YUWT19u2dLZGt0H29vsdR8Fq+tInaM8aURYc0IarKEofkJ+8gTaqXos=
+hytale.tienda.	3600	in	ns	ns1.dns-parking.com.
+hytale.tienda.	3600	in	ns	ns2.dns-parking.com.
 i-bd.tienda.	3600	in	ns	ns1.dyna-ns.net.
 i-bd.tienda.	3600	in	ns	ns2.dyna-ns.net.
 i804721mtimk73i88sbr32obevtolp5q.tienda.	3600	in	nsec3	1 1 0 73 JAVFIVAADGLN4H4SEOUJC46SCTN39VOK NS DS RRSIG
-i804721mtimk73i88sbr32obevtolp5q.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. LIwimr3JlyhTVXGtkld1pSkk+hdCQAyaXlVGfrBl5zo+pResf5WN5+aR4HpF4/E7e6VXieC2Jy92FoxIFUc+TJe1iRXaJnCpJNvnv0oEKyawvwwgPBYySKweI0mHII2pV60zex8iEoKlgcW2075cGGakBiIEeKqJ+4N59BtDJyw=
+i804721mtimk73i88sbr32obevtolp5q.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. V8wzxD1D4x0zjevuujFwbSIZZCfQ+9QfPwtepeEAhyscTi/yQeNSNE/c3/ydYUuX1sz+hSNDyoPN2WkPX54/aq+lh04Ik6eU9hbxSCBrWWV6P0t49+HxPD+DYPIsTAHWs15+toxAzx+qNcgFtJN3/V2VrglWGIlTsvd4SRk6ZN0=
 ia.tienda.	3600	in	ns	ns13.piensasolutions.com.
 ia.tienda.	3600	in	ns	ns14.piensasolutions.com.
 iai.tienda.	3600	in	ns	dns1.nominalia.com.
@@ -2689,6 +2682,8 @@ iluminacion.tienda.	3600	in	ns	ns-cloud-e1.googledomains.com.
 iluminacion.tienda.	3600	in	ns	ns-cloud-e2.googledomains.com.
 iluminacion.tienda.	3600	in	ns	ns-cloud-e3.googledomains.com.
 iluminacion.tienda.	3600	in	ns	ns-cloud-e4.googledomains.com.
+imaginableart.tienda.	3600	in	ns	ns1.dyna-ns.net.
+imaginableart.tienda.	3600	in	ns	ns2.dyna-ns.net.
 imaginarium.tienda.	3600	in	ns	ns1.dondominio.com.
 imaginarium.tienda.	3600	in	ns	ns2.dondominio.com.
 img.tienda.	3600	in	ns	ns2.dondominio.com.
@@ -2714,9 +2709,9 @@ incentivos.tienda.	3600	in	ns	roxy.ns.cloudflare.com.
 indosmedia.tienda.	3600	in	ds	59630 8 2 3C983E5F1AE15810A34F331D7D7BE414D831314B3EB86A0E9BCD411CDD9AB3A7
 indosmedia.tienda.	3600	in	ns	dns15.ovh.net.
 indosmedia.tienda.	3600	in	ns	ns15.ovh.net.
-indosmedia.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. EXargu3cxvagTj0fHjiyCHEZN0IO0oBx24gbA4h6A00mhn5RjakrxH8B5QjKRzd0pQBZxULe3w27Jn0VtGmSOtbT8DdqjPwgfq7c2WF6FdU5jakOuTGG9CTKlG0A4RKIjycMTGqlWoQMk+FkvX/GP2bPZSPxyXH647PpWDz83qg=
-industriasmexicanas.tienda.	3600	in	ns	pdns1.registrar-servers.com.
-industriasmexicanas.tienda.	3600	in	ns	pdns2.registrar-servers.com.
+indosmedia.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. plz332Jg24IJ80kJr35g0uIkf4hNHinazzyMVh+kWqCwXPhTE6GuWioFJOrBnliJrVS2qLqiCRRNCIEdAq+6TU8STj/IolLILh57Dsdbk8djnOf7jyc2ukhYSvV2v8sR0kruAjFZzqb25Z87mbCJBb3TP9iZJOXvuEiXjFo+KPM=
+industriasmexicanas.tienda.	3600	in	ns	dns101.registrar-servers.com.
+industriasmexicanas.tienda.	3600	in	ns	dns102.registrar-servers.com.
 industry.tienda.	3600	in	ns	a.ns14.net.
 industry.tienda.	3600	in	ns	b.ns14.net.
 industry.tienda.	3600	in	ns	c.ns14.net.
@@ -2727,7 +2722,7 @@ infomedia.tienda.	3600	in	ns	ns2.cdmon.net.
 infomedia.tienda.	3600	in	ns	ns3.cdmon.net.
 infomedia.tienda.	3600	in	ns	ns4.cdmondns-01.org.
 infomedia.tienda.	3600	in	ns	ns5.cdmondns-01.com.
-infomedia.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. S3bHDNPi5xN7eNscXE42rva0bXxbFNtJZXzNJqp2JV0aLo72/ndN4cY4hafnXfNByjRVJaeSclmO/7vZVAzA+Fa2pnNeqmEfAKS945D0CIIWLhr2lBVUk0y1adn/cxMkJCrPXzbcdYIsTPkY9sJoJYCHaTgLA64QNLtrStKpkmw=
+infomedia.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. pIcbLtqRcMKXwAGiiGixiAvcszi4xEbTXQ5TfSdQT1v/H8QHJoCYNgUlGR2vu25EWw+rneJHP2FG1cbhLRAgxK1CmypspTNIe00T3Ghl7/9VVHeHpMjuBb7AVVIsq6bGlatXjziic3ll6tpFS/6UHmXLBOUgyJvpygEBq2Bd9DU=
 infusion.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
 infusion.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
 infusion.tienda.	3600	in	ns	maceio.ns.porkbun.com.
@@ -2738,8 +2733,6 @@ institutodebellezaaranda.tienda.	3600	in	ns	docks02.rzone.de.
 institutodebellezaaranda.tienda.	3600	in	ns	shades07.rzone.de.
 inteligenciaartificial.tienda.	3600	in	ns	ns1.dns-parking.com.
 inteligenciaartificial.tienda.	3600	in	ns	ns2.dns-parking.com.
-inteligenciartificial.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-inteligenciartificial.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 intercityalicante.tienda.	3600	in	ns	ns1035.ui-dns.biz.
 intercityalicante.tienda.	3600	in	ns	ns1051.ui-dns.de.
 intercityalicante.tienda.	3600	in	ns	ns1078.ui-dns.com.
@@ -2794,7 +2787,7 @@ itson.tienda.	3600	in	ns	ns-cloud-d1.googledomains.com.
 itson.tienda.	3600	in	ns	ns-cloud-d2.googledomains.com.
 itson.tienda.	3600	in	ns	ns-cloud-d3.googledomains.com.
 itson.tienda.	3600	in	ns	ns-cloud-d4.googledomains.com.
-itson.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. LLQZbcxAGXbec6Zc1FzZljQF8gs3Pit4cXXInmqOL2rWwo43Wn69nT0MOKSgb6vZMR1U33CTSu1nz6e+QfdCkeGI2un1qg/Dnd8Z8saATKmrqbN5ope6el2bNJpvKkWemyX1Duv5ObPpKAYBs6ztBiUxTNyg8C8UEq5cW+44Cwg=
+itson.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. f+XHtBnMbx3VUB3rCGiQti8e38IVQ48lXMvcg8INbh5wzbFbwGGiy773nfRxLEFgYiSid6PRfkHHdmUmf2pen5879MVYChRPELv2zhGaQO9CpeTCdejjH9DSUdByckdjhBx1wzu6r7pTDEOyXQ9e/+PL8zKQV35pQf4sY+vR6+A=
 ivonh.tienda.	3600	in	ns	ns1.dyna-ns.net.
 ivonh.tienda.	3600	in	ns	ns2.dyna-ns.net.
 iwmgw.tienda.	3600	in	ns	n1.xundns.com.
@@ -2823,8 +2816,10 @@ jardineria.tienda.	3600	in	ns	ns1.entorno.com.
 jardineria.tienda.	3600	in	ns	ns2.entorno.com.
 jardineria.tienda.	3600	in	ns	ns3.entorno.com.
 jardineria.tienda.	3600	in	ns	ns4.entorno.com.
+jardinmagnifico.tienda.	3600	in	ns	ns1.dondominio.com.
+jardinmagnifico.tienda.	3600	in	ns	ns2.dondominio.com.
 javfivaadgln4h4seoujc46sctn39vok.tienda.	3600	in	nsec3	1 1 0 73 JEUF1MS4IHE500L2RQLRU5PHBGTE73C6 NS DS RRSIG
-javfivaadgln4h4seoujc46sctn39vok.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. cckn+NNpIHG7DKlq/ZLWPqByCITQseOXqtK7x2q46iUaYd9GxETbOeX+6Vdn2Rm+aOjHO242tBBii2Fpp+Tq2Uj2mL2YL0ePn13oRZV0lQ9DUGABjykUFc8C31i2h547buqaCq2Cex8Z9ZxooxX/v5pCqXSI4LqegK4vh9wo8lY=
+javfivaadgln4h4seoujc46sctn39vok.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. r//CelqxirjJxOZmn1G/9UQ0B8L77rGWHSvHC9AvcC48xDPYqGkHOS8cjqxhC09WFo0H2ZRD93Trwh0JWYRnLuUh8Hvy3JuTmxZvQUMEUadyimLPrL8gBCQqkwpqPj3cSyx+FJT2AZr99IyMnNYf4bQSpGRek00y0qWLmJfsk6M=
 jcimv.tienda.	3600	in	ns	n1.xundns.com.
 jcimv.tienda.	3600	in	ns	n2.xundns.com.
 jcm.tienda.	3600	in	ns	ns1.dondominio.com.
@@ -2835,32 +2830,32 @@ jeliveshop.tienda.	3600	in	ns	ns1.dns-parking.com.
 jeliveshop.tienda.	3600	in	ns	ns2.dns-parking.com.
 jerico.tienda.	3600	in	ns	ns1.limitlessmail01.com.
 jerico.tienda.	3600	in	ns	ns2.limitlessmail01.com.
-jersey-de-navidad.tienda.	3600	in	ns	ns1.dondominio.com.
-jersey-de-navidad.tienda.	3600	in	ns	ns2.dondominio.com.
-jersey-navidad.tienda.	3600	in	ns	ns1.dondominio.com.
-jersey-navidad.tienda.	3600	in	ns	ns2.dondominio.com.
+jersey-de-navidad.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+jersey-de-navidad.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
+jersey-navidad.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+jersey-navidad.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 jersey-navideno.tienda.	3600	in	ns	ns1.dondominio.com.
 jersey-navideno.tienda.	3600	in	ns	ns2.dondominio.com.
-jerseydenavidad.tienda.	3600	in	ns	ns1.dondominio.com.
-jerseydenavidad.tienda.	3600	in	ns	ns2.dondominio.com.
-jerseynavidad.tienda.	3600	in	ns	ns1.dondominio.com.
-jerseynavidad.tienda.	3600	in	ns	ns2.dondominio.com.
+jerseydenavidad.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+jerseydenavidad.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
+jerseynavidad.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+jerseynavidad.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 jerseynavideno.tienda.	3600	in	ns	ns1.dondominio.com.
 jerseynavideno.tienda.	3600	in	ns	ns2.dondominio.com.
-jerseys-de-navidad.tienda.	3600	in	ns	ns1.dondominio.com.
-jerseys-de-navidad.tienda.	3600	in	ns	ns2.dondominio.com.
+jerseys-de-navidad.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+jerseys-de-navidad.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 jerseys-navidenos.tienda.	3600	in	ns	ns1.dondominio.com.
 jerseys-navidenos.tienda.	3600	in	ns	ns2.dondominio.com.
-jerseysdenavidad.tienda.	3600	in	ns	ns1.dondominio.com.
-jerseysdenavidad.tienda.	3600	in	ns	ns2.dondominio.com.
-jerseysnavidad.tienda.	3600	in	ns	ns1.dondominio.com.
-jerseysnavidad.tienda.	3600	in	ns	ns2.dondominio.com.
+jerseysdenavidad.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+jerseysdenavidad.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
+jerseysnavidad.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+jerseysnavidad.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 jerseysnavidenos.tienda.	3600	in	ns	ns1.dondominio.com.
 jerseysnavidenos.tienda.	3600	in	ns	ns2.dondominio.com.
 jeuf1ms4ihe500l2rqlru5phbgte73c6.tienda.	3600	in	nsec3	1 1 0 73 JHO8AP1I780204OCL0HKT1GIT9AHEGJP NS DS RRSIG
-jeuf1ms4ihe500l2rqlru5phbgte73c6.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. lZSVtJAWn5sArXjLaCZxWVNvT9athIvrhRbPcrg6MAzwkxM9pNC6yhNtdQN6h9DrzwuV5g+1XR0ZG7k7SKFGWHFE4Lfif9YGpD+JgHsnfbxfIkl/SWJ/4sEFv5j2HHAI3HBzW4OMKOV0DPfiyxYGfgVlAl2vScGdIKQc6lF1Y2E=
+jeuf1ms4ihe500l2rqlru5phbgte73c6.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. RrHCURcrpPtl8ldnsavs+8A381v58Q+wiltMXstbt/OOBjM5sOxw+PXuOdSKDIILfTRO3Qb3LluXyO/VHZHkkZkBDKceFITkzlXV/9e5pLDVEifthjgOlOcdyi7nwT80r+wlL8E5Be7/XOLiX7HqbJgcTlc+0VD9ffi5ejIcjqY=
 jho8ap1i780204ocl0hkt1git9ahegjp.tienda.	3600	in	nsec3	1 1 0 73 KO82IB07CPJQOB6E9FRBDUDOUFC8TIGB NS DS RRSIG
-jho8ap1i780204ocl0hkt1git9ahegjp.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. OrGYVBO6qaFfHSs1Lpkb5Zql4w5zHkH+8BglyY0TQ5ieVBiL2L42n2CH5B1CAJguIGFek8m2bBazl2ZBBF6SSV/Lv4I6sVoF8b+1afdrs9CN69TGGpEE8QC8VmicjnbWx/n18bqEpNJJArQCAtN4V6Y7nY7uc/AhPo+/5nD8Cu8=
+jho8ap1i780204ocl0hkt1git9ahegjp.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. JI78rkytu/ZpAsE70CZbuUKQ5QiaJOZIWksrftO8I0eI/vj/rC8yI39doTqEB7zmSMBtd98wAY9G/oEyJJivW3RFGk7goUxq218fYOcG42wTUgCCpR79ppn9eSMSEt++k+S43f0OPL8mzmSd0SSWIlFGP+BlQCmFgFIT4vAMyvI=
 jhujl.tienda.	3600	in	ns	ns1.dyna-ns.net.
 jhujl.tienda.	3600	in	ns	ns2.dyna-ns.net.
 jingdong.tienda.	3600	in	ns	ns1.101domain.com.
@@ -2880,14 +2875,6 @@ joaquin.tienda.	3600	in	ns	ns49.domaincontrol.com.
 joaquin.tienda.	3600	in	ns	ns50.domaincontrol.com.
 joaquinespaliu.tienda.	3600	in	ns	ns1.dondominio.com.
 joaquinespaliu.tienda.	3600	in	ns	ns2.dondominio.com.
-job-uk.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
-job-uk.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
-job-uk.tienda.	3600	in	ns	maceio.ns.porkbun.com.
-job-uk.tienda.	3600	in	ns	salvador.ns.porkbun.com.
-jobuk.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
-jobuk.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
-jobuk.tienda.	3600	in	ns	maceio.ns.porkbun.com.
-jobuk.tienda.	3600	in	ns	salvador.ns.porkbun.com.
 johnsonfitness.tienda.	3600	in	ns	chase.ns.cloudflare.com.
 johnsonfitness.tienda.	3600	in	ns	nina.ns.cloudflare.com.
 jolgq.tienda.	3600	in	ns	n1.xundns.com.
@@ -2896,13 +2883,9 @@ joma.tienda.	3600	in	ns	dns1.comlaude-dns.com.
 joma.tienda.	3600	in	ns	dns2.comlaude-dns.net.
 joma.tienda.	3600	in	ns	dns3.comlaude-dns.co.uk.
 joma.tienda.	3600	in	ns	dns4.comlaude-dns.eu.
-josfox.tienda.	3600	in	ns	ns13.domaincontrol.com.
-josfox.tienda.	3600	in	ns	ns14.domaincontrol.com.
 joyas.tienda.	3600	in	ns	ns10.servicio-online.net.
 joyas.tienda.	3600	in	ns	ns11.servicio-online.net.
 joyas.tienda.	3600	in	ns	ns12.servicio-online.net.
-joyful.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-joyful.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 jpjvp.tienda.	3600	in	ns	ns1.dyna-ns.net.
 jpjvp.tienda.	3600	in	ns	ns2.dyna-ns.net.
 jsbam.tienda.	3600	in	ns	n1.xundns.com.
@@ -2973,8 +2956,6 @@ kalarix.tienda.	3600	in	ns	ns1.dyna-ns.net.
 kalarix.tienda.	3600	in	ns	ns2.dyna-ns.net.
 kamados.tienda.	3600	in	ns	ns1.dondominio.com.
 kamados.tienda.	3600	in	ns	ns2.dondominio.com.
-kapalbet125x1000.tienda.	3600	in	ns	ns1.dyna-ns.net.
-kapalbet125x1000.tienda.	3600	in	ns	ns2.dyna-ns.net.
 karto.tienda.	3600	in	ns	docks05.rzone.de.
 karto.tienda.	3600	in	ns	shades06.rzone.de.
 katia.tienda.	3600	in	ns	ns1.cloudns.net.
@@ -3018,7 +2999,7 @@ kiabi.tienda.	3600	in	ns	ns-cloud-d1.googledomains.com.
 kiabi.tienda.	3600	in	ns	ns-cloud-d2.googledomains.com.
 kiabi.tienda.	3600	in	ns	ns-cloud-d3.googledomains.com.
 kiabi.tienda.	3600	in	ns	ns-cloud-d4.googledomains.com.
-kiabi.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. U6L8seqJ81/krw7xNycHkNeVNmkPJOIHwfIIt4mvVWQw+JGDSAfxq6A3i/Ja+UKFz+BwJqRSFMA8r9c+mjyKZ5F7RfKaeD9NiRWqyAcKNi1Mm07yW9Iq0X1WIHYLJMsnVWNgNIZ+aZZSE4bfVRw5nGc0D9F6uwK/XJ4YvNbgV4E=
+kiabi.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. WeKl6DJuQZKPGRO2ATecyeE03DU1rhcmRfFgNMQI1+IZapp0QbK3TtNyJcEro2wJmJzhqM6WabUd7bAHz5ychjbawdSViTQ0Zz3VH3Qgj5Frbt5kVtP39u/Xx58Ka/BQnBftI9zF4XK6LxvR1Ais85F6sXaPJrXtJLXgZLvjT5s=
 kilax.tienda.	3600	in	ns	n1.xundns.com.
 kilax.tienda.	3600	in	ns	n2.xundns.com.
 kindle.tienda.	3600	in	ns	nsgbr.comlaude.co.uk.
@@ -3040,7 +3021,7 @@ kitsupervivencia.tienda.	3600	in	ns	ns1.cdmon.net.
 kitsupervivencia.tienda.	3600	in	ns	ns2.cdmon.net.
 kitsupervivencia.tienda.	3600	in	ns	ns3.cdmon.net.
 kitsupervivencia.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-kitsupervivencia.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. dwHSh5q/SVJ9K0dsEL4XFiJA9k4DggBCe3jBp7MvZzLTSrhNPxIIEkU99u0vQFrIu0ItJ7qHVklqHBJFAmBZ2GvAv3FmpCxpG6cIMETYTKLhiFOyiBc6UFvyYVRcgakLZ5hbDOHjdL8guesMaid6NTQmWI5dOwI6datQrxzTfYE=
+kitsupervivencia.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. Q3Zt6KYgxFt1vFKYxYhhIkCZRwty9OzGCKFF5Z4OUUU4qt5FTs4WdD8Kn4gq1Ugux64LQNZq12GuPfp/awY31t+aNvqTgUXkbukBXyd+/diZ0D0CUV/e98nr9JpUXOyI3F60KqMomlv2tLwso21p9UKAXIQb81BNg+Ee7Dl/zfI=
 klass.tienda.	3600	in	ns	ns1.dns-redirect.com.
 klass.tienda.	3600	in	ns	ns2.dns-redirect.com.
 klein.tienda.	3600	in	ns	dns1.nominalia.com.
@@ -3055,7 +3036,7 @@ knkqn.tienda.	3600	in	ns	ns2.dyna-ns.net.
 kntva.tienda.	3600	in	ns	n1.xundns.com.
 kntva.tienda.	3600	in	ns	n2.xundns.com.
 ko82ib07cpjqob6e9frbdudoufc8tigb.tienda.	3600	in	nsec3	1 1 0 73 KS2VFKP2MR1LBFKK11T2VVM2HUI5ONJB NS DS RRSIG
-ko82ib07cpjqob6e9frbdudoufc8tigb.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. E1nsUpEdfjHrhNEU9bfSppV0CpTktK9jJsLNV9GNjDXje5ic7oIK3zsvDzFD70YI9rVCIj63qJzoC3LSTfcx9kU+fAHtvKEoOkazbNxAiKQVzOV3ibNWz80fTSqJ251Ruh0ZaXol9Ecpg7jz21wEcr9aZHbs+/rGuYaEzrjDwMs=
+ko82ib07cpjqob6e9frbdudoufc8tigb.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. k3a64VHcAfacWWu4LZcUZMouezxkfyGs5r6i62FmO522jI9ydzvaHXgEr9q7R7hEcxOddiX3WoFntb2BG2xg52zh+ciL3rBWqr7fwpq0pDMcAxwu1UK2Y97OF3aIQh3GW770tFkJgngcwpXaIsxf8fbjJMfhu5YRMuxfay1rbfw=
 koalafornex.tienda.	3600	in	ns	howard.ns.cloudflare.com.
 koalafornex.tienda.	3600	in	ns	jocelyn.ns.cloudflare.com.
 kojyb.tienda.	3600	in	ns	ns1.dyna-ns.net.
@@ -3079,7 +3060,7 @@ kratos.tienda.	3600	in	ns	ns78.domaincontrol.com.
 kruger.tienda.	3600	in	ns	pdns11.domaincontrol.com.
 kruger.tienda.	3600	in	ns	pdns12.domaincontrol.com.
 ks2vfkp2mr1lbfkk11t2vvm2hui5onjb.tienda.	3600	in	nsec3	1 1 0 73 LSK0NOFF6AK61GOT6I871F9KRCBUS8DJ NS DS RRSIG
-ks2vfkp2mr1lbfkk11t2vvm2hui5onjb.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. IMwah9rcdo6qLXstwCmmzU538co+7n9G3k4It/id7hiGDp0TB2oT7DkCXPZkZVhLNwbfP2MMvKf3honwoslrGpxVFeno/+I+tqEduvjCwHnWZwABkZ/F+z2+gmw2lnwRL8ygy15fU7g3cQMYXGaxDB9xsA6na71oaCygN2kxzXI=
+ks2vfkp2mr1lbfkk11t2vvm2hui5onjb.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. kK6V08KAXZAM9amtuiFh6dqPjnAG7epyW6rDGvX2QyOQWTq+4zSM7a53sIVS0Pk1P0rkVl2mzh974cDwVXAQrOiSeDUY/z+PLrnfm/e4zHk4CWTvMNtOvbETyQZbu0disklMq2Yl2vFOLbsus35wkkuYVP4jPfNLIOVnJk4bfS8=
 ktronix.tienda.	3600	in	ns	ns17.domaincontrol.com.
 ktronix.tienda.	3600	in	ns	ns18.domaincontrol.com.
 kubet.tienda.	3600	in	ns	ns1.ultahost.com.
@@ -3129,8 +3110,6 @@ lafe.tienda.	3600	in	ns	ns-cloud-c3.googledomains.com.
 lafe.tienda.	3600	in	ns	ns-cloud-c4.googledomains.com.
 lagloberia.tienda.	3600	in	ns	ns1-mut.hosting-mexico.net.
 lagloberia.tienda.	3600	in	ns	ns2-mut.hosting-mexico.net.
-lagrimasdezurdo.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-lagrimasdezurdo.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 lagunacop.tienda.	3600	in	ns	ns1.wordpress.com.
 lagunacop.tienda.	3600	in	ns	ns2.wordpress.com.
 lagunacop.tienda.	3600	in	ns	ns3.wordpress.com.
@@ -3139,7 +3118,7 @@ lakme.tienda.	3600	in	ns	ns13.namechecking.net.
 laliga.tienda.	3600	in	ds	59965 8 2 A0240B2814C9478D9D273E5F1C8F8B55FCC2384335B347828593C81ACA199FD1
 laliga.tienda.	3600	in	ns	dns14.ovh.net.
 laliga.tienda.	3600	in	ns	ns14.ovh.net.
-laliga.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. FDljIxHnKvd/o/6HGKBovlhmn9CJPVLnXpb9pPiJaMFRJ0+ElrBwPQw0m36Uq0tUZRnQLoL0fq31SAbxB+Z2hKc0FQoEEpUX74jdmk/pFGuGqnxfXEFjgfTvwhu86AJo4Jaor/CKBXknQL+InrdoWyxdJM+8RES25Rq7c305oNM=
+laliga.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. oqA8/ThC4FVpH8Rluu2ze9dFN9E7zq5oZilZdJo+ZUznMWwnhAh50lLPuguadiG9rGBN0VHMiUUC9FQrx1q2pE6PNyAAHUPgTvXrmRrScczJfCfKphG9M7hSgwrZ3/f4put8AkY3efo6eCGgNU8N9FhxgImxe0nQTSV2ZX/DRKU=
 lalola.tienda.	3600	in	ns	ns-es.1and1-dns.biz.
 lalola.tienda.	3600	in	ns	ns-es.1and1-dns.com.
 lalola.tienda.	3600	in	ns	ns-es.1and1-dns.es.
@@ -3218,7 +3197,7 @@ leonxiv.tienda.	3600	in	ns	ns1.cdmon.net.
 leonxiv.tienda.	3600	in	ns	ns2.cdmon.net.
 leonxiv.tienda.	3600	in	ns	ns3.cdmon.net.
 leonxiv.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-leonxiv.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. CFSXBVuAAjQH0ASMOyg26m9bFMf3QEpVAXl4pfvznJdZFWx7HH52M8KLuwAcJ2G2CKw8iiuYQVjv7E1w0PgUS3D1cFbTqA7KxiHOFFi8GqtI3GxF6EA2fPkydDHJKhlIcz9Cz6vBFdOPiPzg3AX8JRFQhIPw9lafgnZP6PEpAyg=
+leonxiv.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. g7X6Y8k/0x++VNPjBTFwggvjDeqLVOX3yWqDxKarEdxBGDTMeA5HpOmW+9/KiAoiqK/vjnwNHEgU4+xq13KecRBm3xeGVFV3F4bFAGCA5uehEgwn4QNpfltGqtI6Np1GwzMEfsrCGGIIsjwK/rkQ78AAN5ibwZ9H3FodaubJjr0=
 letiziabuzon.tienda.	3600	in	ns	dns1.interdominios.com.
 letiziabuzon.tienda.	3600	in	ns	dns2.interdominios.com.
 letrerosluminosos.tienda.	3600	in	ds	63554 14 2 8F67178553A35CD1633A70A569E6A66BD44E81E94D57A49C6EC78826EE1D8805
@@ -3226,7 +3205,7 @@ letrerosluminosos.tienda.	3600	in	ns	ns1.cdmon.net.
 letrerosluminosos.tienda.	3600	in	ns	ns2.cdmon.net.
 letrerosluminosos.tienda.	3600	in	ns	ns3.cdmon.net.
 letrerosluminosos.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-letrerosluminosos.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. VNu+lP+t2KGJEO9CvG0mIvOBJHlC2V/eEpRcdf1grPO+TjFKb/4k+Hz0dm5bWNEbbK6rQyZa0fizf3P9hrNAruHVc+m/N7JZ4XvqW/YhuO4+qzkXQ9u0CNd9pPeTZvRei2ECcLSGfCHiRu+AtX5jGF+o1kTRweAzOohKYTYSQNs=
+letrerosluminosos.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. L+XQORPdpP6RCoZH8bbc/RqcR3zWT+owAcYuo1BC0r7JcuCdUwIMG2MDCRs2yeYZNHbBtLmM2drYAfapVdu+beCJw1Yy3+eHZOUIJEFj7gfuIrUdeKcxlbGJErVJ8G/wQQolS70FJ5a0Rg7W6AGNNWIdl5JwUxD0gpnSViCvCUg=
 levanteud.tienda.	3600	in	ns	dns39.servidoresdns.net.
 levanteud.tienda.	3600	in	ns	dns40.servidoresdns.net.
 lexoe.tienda.	3600	in	ns	ns1.dondominio.com.
@@ -3235,36 +3214,38 @@ libre.tienda.	3600	in	ns	ns1.dyna-ns.net.
 libre.tienda.	3600	in	ns	ns2.dyna-ns.net.
 limpiadorazul.tienda.	3600	in	ns	docks10.rzone.de.
 limpiadorazul.tienda.	3600	in	ns	shades08.rzone.de.
+limpiezassuperlimpias.tienda.	3600	in	ns	ns1.dondominio.com.
+limpiezassuperlimpias.tienda.	3600	in	ns	ns2.dondominio.com.
 link.tienda.	3600	in	ns	ns1.dondominio.com.
 link.tienda.	3600	in	ns	ns2.dondominio.com.
-links.tienda.	3600	in	ns	ns1.dondominio.com.
-links.tienda.	3600	in	ns	ns2.dondominio.com.
+links.tienda.	3600	in	ns	ariadne.ns.cloudflare.com.
+links.tienda.	3600	in	ns	stanley.ns.cloudflare.com.
 lista.tienda.	3600	in	ns	ns1mtw.name.com.
 lista.tienda.	3600	in	ns	ns2nsw.name.com.
 lista.tienda.	3600	in	ns	ns3dty.name.com.
 lista.tienda.	3600	in	ns	ns4fmx.name.com.
 listbebe.tienda.	3600	in	ns	ns1.bluehost.com.
 listbebe.tienda.	3600	in	ns	ns2.bluehost.com.
-litio.tienda.	3600	in	ns	ns-cloud-e1.googledomains.com.
-litio.tienda.	3600	in	ns	ns-cloud-e2.googledomains.com.
-litio.tienda.	3600	in	ns	ns-cloud-e3.googledomains.com.
-litio.tienda.	3600	in	ns	ns-cloud-e4.googledomains.com.
+litio.tienda.	3600	in	ns	ns1.renewyourname.net.
+litio.tienda.	3600	in	ns	ns2.renewyourname.net.
 littledetails.tienda.	3600	in	ns	ns23.piensasolutions.com.
 littledetails.tienda.	3600	in	ns	ns24.piensasolutions.com.
-lity.tienda.	3600	in	ns	ns19.domaincontrol.com.
-lity.tienda.	3600	in	ns	ns20.domaincontrol.com.
+lity.tienda.	3600	in	ns	ns-1015.awsdns-62.net.
+lity.tienda.	3600	in	ns	ns-1454.awsdns-53.org.
+lity.tienda.	3600	in	ns	ns-146.awsdns-18.com.
+lity.tienda.	3600	in	ns	ns-1552.awsdns-02.co.uk.
 lladruc.tienda.	3600	in	ds	61150 14 2 A9B59CA5680D8A0BE8B86A2B4E0556E90C4B7E7CC39958A7407FA36B95BE1F9C
 lladruc.tienda.	3600	in	ns	ns1.cdmon.net.
 lladruc.tienda.	3600	in	ns	ns2.cdmon.net.
 lladruc.tienda.	3600	in	ns	ns3.cdmon.net.
 lladruc.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-lladruc.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. sWIt+jTiQiNC1HJmamiu+cIQAMluBqAoRgj5rgoibydcXgt0ZdCgKUCtq/rx4irOIjfmbQ7Bn4i+A7m3Pe5RAtAiUxiE9k2pyXhzRUayjGrPg1oAz0MkUNcmaZ4I83EVndWK/nsVttWvdZuV7tbtP2XqtBs1DzcOCFt4BZdck90=
+lladruc.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. NWNb+x7Hz+VfblwsC3A39CM+F4BxD5EaWfPZrsBXR47W7XHCuW6OXb46iWuAGP2BdqTR7Ca/IzQGTzNOIlHPDDtmJBwpSiPgaRvT2I6HMSTUyN80rJwxjBtuXOwZ3Ni2LlNgyUsBjOrHx6NeZ/quP00MD0kmL4vm17hsiVfOe/k=
 lladrucs.tienda.	3600	in	ds	29791 14 2 7EDEC72117AF0E510147AD3F805C8EE3283BF00FD37043C95151A19032636BB0
 lladrucs.tienda.	3600	in	ns	ns1.cdmon.net.
 lladrucs.tienda.	3600	in	ns	ns2.cdmon.net.
 lladrucs.tienda.	3600	in	ns	ns3.cdmon.net.
 lladrucs.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-lladrucs.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. d/kw0eTZjx3czaxFr8dCS5XFeK9B2u9wKStxe+Fd7faFFfd3ST3nTwQp+rrFejlOLZaq+jRNQ5z4Db81LjdHzks54IjQq4eWnTy/h9k6r0fruaqbJyPzSJzy9XxpXA3NetjziHDgNlorIUjJLgxh9LNK2Cz4HDsZ4kEDem/hQX0=
+lladrucs.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. W0d+qdl1EQPobZOVeRfnCzyjN89nbJm7ugNovnTlDcrvmSQTBR1b7uBlCpeGl+rLfKqfgTQt1PHSDf+XYu804LcX+/un3aV2hwFk5Tm8RPRJWT3dC7Aohe44XxzGAvvGXJZjB2Mbx/SmVHY4/Jfk3OS17B1vIMC85+j9s8bNIb4=
 llantas.tienda.	3600	in	ns	ns1016.ui-dns.biz.
 llantas.tienda.	3600	in	ns	ns1028.ui-dns.org.
 llantas.tienda.	3600	in	ns	ns1043.ui-dns.com.
@@ -3292,7 +3273,7 @@ localizadorgps.tienda.	3600	in	ns	dns2.interdominios.com.
 logopedia.tienda.	3600	in	ds	61379 8 2 9FCE8AA33A78620AD6CC37C1F6A3555A447E898E0B6EA05241F003D2A10F532C
 logopedia.tienda.	3600	in	ns	dns110.ovh.net.
 logopedia.tienda.	3600	in	ns	ns110.ovh.net.
-logopedia.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. A3ZjjQn81SPCchBGX7Gd//EPIcQTEWKJ0uc7ngLTdirMxfC2Xy1skZmYADZXusuo3PSLKioKKaEZ8N0zwHwKubG6tYJV+gr+BapTzPogX08bTIy9v6hFg+hDfpcn7Ab4agWQjYBjFc0pLANbQ6TCgu5yk5ptBYI5hGqz8nFuytc=
+logopedia.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. b5L6rzFItEDWLovUr9J9G4+K2nu6uoySR1+f9rown7dF6mtLe2TSdVZrcyvfBk1BmhxBG2eFjy2Orf5018E235hoKnSqi0au530OSpAa/dUKTx6d8XlUANNXfipQSUF8P1Gs7tQJS2xKnlV0GkkF4lMfZe4Ie3VAOTf58X6Zmjg=
 lolro.tienda.	3600	in	ns	ns1.dyna-ns.net.
 lolro.tienda.	3600	in	ns	ns2.dyna-ns.net.
 lomejordelmundo.tienda.	3600	in	ds	21586 14 2 97EE9BC179CDBB8142EE5589A3CD27245B6CF0CD8941CB4FC69986D6550E4F5E
@@ -3300,7 +3281,7 @@ lomejordelmundo.tienda.	3600	in	ns	ns1.cdmon.net.
 lomejordelmundo.tienda.	3600	in	ns	ns2.cdmon.net.
 lomejordelmundo.tienda.	3600	in	ns	ns3.cdmon.net.
 lomejordelmundo.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-lomejordelmundo.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. r2sVKEud5+rD8JRwFxoltmL10tK8XclY4WYvWlrQsIPlFzpxYPCOy1cdWvFAZEZYLyP6QMDNmKTFa4xMuLuA78fCCNJtERHtGOtZ92tBDEqYajEaT2kU0PHQwhVRo52x06ext0M/Qv9tZWXMklnlA4j+0w47ZV3btSOZ8ItUg6k=
+lomejordelmundo.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. cQxUBNgGmT9zG63/etTQh1zdW7MPawTDhIG+m7tyHBwX5mKGrEVQGcLkLHYGkE+8VAFnyId/MkrhAmNH7NHe212k1ihgpgUsmiBRAzle7nsFa08bG1Zd18Yo4nRSenPv1vJK3Bk3BSbt3fmNhQo3x4cg6jIpwqfpo28ov7I4wXk=
 lomex.tienda.	3600	in	ns	n1.xundns.com.
 lomex.tienda.	3600	in	ns	n2.xundns.com.
 lonecesito.tienda.	3600	in	ns	dns25.servidoresdns.net.
@@ -3316,6 +3297,8 @@ lovely.tienda.	3600	in	ns	ns1.dondominio.com.
 lovely.tienda.	3600	in	ns	ns2.dondominio.com.
 lovepets.tienda.	3600	in	ns	docks17.rzone.de.
 lovepets.tienda.	3600	in	ns	shades03.rzone.de.
+low.tienda.	3600	in	ns	ns1.dns-redirect.com.
+low.tienda.	3600	in	ns	ns2.dns-redirect.com.
 lps.tienda.	3600	in	ns	dns112.ovh.net.
 lps.tienda.	3600	in	ns	ns112.ovh.net.
 lqrsd.tienda.	3600	in	ns	ns1.dyna-ns.net.
@@ -3323,15 +3306,13 @@ lqrsd.tienda.	3600	in	ns	ns2.dyna-ns.net.
 lrlxa.tienda.	3600	in	ns	ns1.dyna-ns.net.
 lrlxa.tienda.	3600	in	ns	ns2.dyna-ns.net.
 lsk0noff6ak61got6i871f9krcbus8dj.tienda.	3600	in	nsec3	1 1 0 73 M68PILFCL4I8TRO96OIGR7MPMV38DU55 NS DS RRSIG
-lsk0noff6ak61got6i871f9krcbus8dj.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. dX7sOahE1+xmSobpj/ZObCpndzcKC9R5jv4sHA9o+skH2HcrO5nntierBMz1B5Z3vIqpEL/gNn3ZwgF+hDYdq+bJW0kk24p9MGUWCSzmI2yjuhkcdGwatIFYA6u4rZlUm3yt5B1igSa5wsZpxtMJMGB7BM0UE1Th7KMlthM/0Ec=
+lsk0noff6ak61got6i871f9krcbus8dj.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. fHMyJ/QYJa186id559+/uy8RsOe/kvawXgv+Xn6FYXPodR5zGNk0ydqSlZ675AOoMp7qVOtUtHI3pp4f+5etlcq5fbLzzYO1jGmyDUOWflRu1yH8kQRBdGbxf/PetksPNETzC0Re4cUaltwS5s3rQTdb8bdvzYa7CT/cGZeXvQg=
 luchalibre.tienda.	3600	in	ns	ns43.domaincontrol.com.
 luchalibre.tienda.	3600	in	ns	ns44.domaincontrol.com.
 luga.tienda.	3600	in	ns	ns1.dns-parking.com.
 luga.tienda.	3600	in	ns	ns2.dns-parking.com.
 luigi.tienda.	3600	in	ns	ns1.dondominio.com.
 luigi.tienda.	3600	in	ns	ns2.dondominio.com.
-luigimangione.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-luigimangione.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 lujo.tienda.	3600	in	ns	ns1.dondominio.com.
 lujo.tienda.	3600	in	ns	ns2.dondominio.com.
 lumi.tienda.	3600	in	ns	ns1.cdmon.net.
@@ -3348,8 +3329,8 @@ lunatur.tienda.	3600	in	ns	ns1.dondominio.com.
 lunatur.tienda.	3600	in	ns	ns2.dondominio.com.
 luxu.tienda.	3600	in	ns	ns1.dondominio.com.
 luxu.tienda.	3600	in	ns	ns2.dondominio.com.
-luz.tienda.	3600	in	ns	ns1.dondominio.com.
-luz.tienda.	3600	in	ns	ns2.dondominio.com.
+luz.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+luz.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 lvtkw.tienda.	3600	in	ns	n1.xundns.com.
 lvtkw.tienda.	3600	in	ns	n2.xundns.com.
 lyc.tienda.	3600	in	ns	ns1.lyc.tienda.
@@ -3361,7 +3342,7 @@ lzqiv.tienda.	3600	in	ns	ns2.dyna-ns.net.
 m3caravaning.tienda.	3600	in	ns	dns29.servidoresdns.net.
 m3caravaning.tienda.	3600	in	ns	dns30.servidoresdns.net.
 m68pilfcl4i8tro96oigr7mpmv38du55.tienda.	3600	in	nsec3	1 1 0 73 MJMKSI6Q0QDMIB8AT41F9549NLT4E0VA NS DS RRSIG
-m68pilfcl4i8tro96oigr7mpmv38du55.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. a2aBp2Eh/ieRKMnBokfpoNzlCuK2wnz30bOJdTctjs1o4IfVsB6LrIXQGewDYy7fZE0Obyv+2HUR7KB5pOj2iPu/WblFfwsOEMBlCc/RrcZQ2oXegQjHg14bfsQt9UAmkbKjFWlYHYny3g8dW64vIP1K88aeaoQv0PjsjSwGuhI=
+m68pilfcl4i8tro96oigr7mpmv38du55.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. QOHIB7y13giF5uRjgQsRuuoDkUlOn5X88dtIn3GHAWdq/Ol8C9TcDyhK00BqvkFQJITxZk9qMNmk+CB3PdWnvWG7Xw4QwW6SP1pyYCSWYmb1+Mznj8xUcJJIQNdFrBSp7r1A8UrdFKUp9t64FbC+jyWSgHWw+LEMPfbPMnfCW80=
 madring.tienda.	3600	in	ns	ns1.dondominio.com.
 madring.tienda.	3600	in	ns	ns2.dondominio.com.
 mafalda.tienda.	3600	in	ns	ns1.dondominio.com.
@@ -3377,7 +3358,7 @@ maifud.tienda.	3600	in	ns	ns-cloud-b1.googledomains.com.
 maifud.tienda.	3600	in	ns	ns-cloud-b2.googledomains.com.
 maifud.tienda.	3600	in	ns	ns-cloud-b3.googledomains.com.
 maifud.tienda.	3600	in	ns	ns-cloud-b4.googledomains.com.
-maifud.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. joHOC1LBxQPTjwWs3jiHCCSB02Nme8ggyQpZ64FBwSGgygS8XZmIhDWozOUPMobPOap7gz64x8awS90sQMJQcJniYEpXQOkfheTvAWSyZd7ypLpa4NX1hedGZeJG8eVF9Ub8iqT2JnRyOMLsKQw3f5WHfhwc+wIOtP5Vwr6Vt0c=
+maifud.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. pbVo1dT09ATiKRzVeeI5r2hbsekIDmYYHg+674xNqXlHplHQ8axRAAJZcVGSkkU/1sIU4pIb7mTwwcukfQ9Q7qiSwu0VYatRVvd5Ka0P92pFyMtKTNAiMDCCwj1Uy/yE89lpnq8runH8xkqo1URx98TiWxPPAg8evbHvf0VFHTk=
 maison-minelli.tienda.	3600	in	ns	ns1.iptwins.net.
 maison-minelli.tienda.	3600	in	ns	ns2.iptwins.net.
 maison-minelli.tienda.	3600	in	ns	ns3.iptwins.com.
@@ -3431,7 +3412,7 @@ marcamedellin.tienda.	3600	in	ns	ns78.domaincontrol.com.
 marcet.tienda.	3600	in	ds	51871 13 2 79220CB4734BFAA8DE64D915EDF4631F808C5623F03704333BC760A7DB56EEB0
 marcet.tienda.	3600	in	ns	ns01.one.com.
 marcet.tienda.	3600	in	ns	ns02.one.com.
-marcet.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. c+QXwz2AkNXCfzRuILUTnWix9y7mWVRFBa6KAjEQ/IuWEtgjPNYUMx9D4tGT9dHxV9S7GaCikkw7bZhAlyM8zQLGNrcU6o4Nlv+QPKsAfVlDc2LYtLT8iGObAnffvulDruJvDP3+u9W8BPYy5Xvq1QXMzCXF4bvDdq3x5SWNP7I=
+marcet.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. gkxpp5FiMaiklv0U4Lo4c6m1Q/Aw6l3VJG6NCtFbqwW4cy1SWr59UbSKeEW+qUI/SU0Q9VwfJUg3N4OWL1JYqMGRZyRkBRE1DklqnqOKaFHq1BwCZdXSj5aXJexBUOr5TZO8VKy7dwZyqC548CKYwRyuZ/6GtYsGxrFy+x2roWQ=
 marcoomsistemz.tienda.	3600	in	ns	autumn.ns.cloudflare.com.
 marcoomsistemz.tienda.	3600	in	ns	guy.ns.cloudflare.com.
 marcosolar.tienda.	3600	in	ns	docks03.rzone.de.
@@ -3445,7 +3426,7 @@ marica.tienda.	3600	in	ns	ns1.cdmon.net.
 marica.tienda.	3600	in	ns	ns2.cdmon.net.
 marica.tienda.	3600	in	ns	ns3.cdmon.net.
 marica.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-marica.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. H1rLPPSsrPkeb1pNUQCLG3HnTQAbbNVvq+VjoIJbQ9R7hJEh2CmmU+AaWi3N8fclwRYSqSgKWcErogmhcJ/e7n0KyjgtHKTwXg9PCbB5ihZCpVhenwHVe9KgdHUcN2sy2DRm1mM9HB617ao6Zmwd/YEEvE46fFYuLRQvicRIA98=
+marica.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. qZ7L/twjFfOJ2C4EICUTgMP+KcMHjTeg7aFsAhWrJyj8LJ4eRsjijnHXhIMxO7AKPEnHSwa0adbSV31DgnARaw9UNhQnO0pdJxqrmitSmx67fE+wKvho00Z92lBgYzAMuFmKh0+hhvgMGpWt5mJNd+ssMyG7hIwX+eQGxG/FNwo=
 mariquitatrasquila.tienda.	3600	in	ns	ns1043.ui-dns.org.
 mariquitatrasquila.tienda.	3600	in	ns	ns1066.ui-dns.com.
 mariquitatrasquila.tienda.	3600	in	ns	ns1108.ui-dns.biz.
@@ -3456,6 +3437,8 @@ mariscogallego.tienda.	3600	in	ns	ns1109.ui-dns.org.
 mariscogallego.tienda.	3600	in	ns	ns1112.ui-dns.com.
 mariscos.tienda.	3600	in	ns	dns11847.phdns25.es.
 mariscos.tienda.	3600	in	ns	ns11847.phdns25.es.
+marketing.tienda.	3600	in	ns	ns1.dondominio.com.
+marketing.tienda.	3600	in	ns	ns2.dondominio.com.
 marketresearchprojects.tienda.	3600	in	ns	ns1.dyna-ns.net.
 marketresearchprojects.tienda.	3600	in	ns	ns2.dyna-ns.net.
 marlonkart.tienda.	3600	in	ns	dns1.nominalia.com.
@@ -3465,11 +3448,9 @@ marselecto.tienda.	3600	in	ns	ns-cloud-c1.googledomains.com.
 marselecto.tienda.	3600	in	ns	ns-cloud-c2.googledomains.com.
 marselecto.tienda.	3600	in	ns	ns-cloud-c3.googledomains.com.
 marselecto.tienda.	3600	in	ns	ns-cloud-c4.googledomains.com.
-marselecto.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. ZLfuBzibvSk8HMFYCMhhuLhvlIK27m0WXH+HD/AvXM9EikDnpNwa5tAVj5CfI8bfunCNGhckBH7cPSBc8HKMQ0p19fLRTOxwrIlGNANC3ra8HEzsjX9nsyfnQXJ2kzJp1kPK/pOVkWiimx+DKbArEqDGjA5r2FMvIgXujPJXTPM=
-mastodon.tienda.	3600	in	ns	ns1.dondominio.com.
-mastodon.tienda.	3600	in	ns	ns2.dondominio.com.
-matbet0776.tienda.	3600	in	ns	ns1.dyna-ns.net.
-matbet0776.tienda.	3600	in	ns	ns2.dyna-ns.net.
+marselecto.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. SjOUUo76xX1j3CvUmZbE/WeOO9J2mz1OZ7yaEIbHNovXrmD3wZ7j0/i4FWQTxwmcZeyt7wb2r0cECrX7+GXyHYtMMAfFB9E3MUPhMDCt4kp605058O0ngPDNIYYFP8fYwZpCIDOCwqH9vmjPV1tgImtok1mg/T0oPAMwDahNQjs=
+mastodon.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+mastodon.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 mate.tienda.	3600	in	ns	ns-cloud-b1.googledomains.com.
 mate.tienda.	3600	in	ns	ns-cloud-b2.googledomains.com.
 mate.tienda.	3600	in	ns	ns-cloud-b3.googledomains.com.
@@ -3573,7 +3554,7 @@ metacrilato.tienda.	3600	in	ns	ns1.cdmon.net.
 metacrilato.tienda.	3600	in	ns	ns2.cdmon.net.
 metacrilato.tienda.	3600	in	ns	ns3.cdmon.net.
 metacrilato.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-metacrilato.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. PLnTcda45fvisUmROJiTJUJkoaTyO7tR8ETcCF+YjWn4CdSNMgudgwqqCU/b17j7qy+16PA+gNUOKMGvY0QaCXVOykPdlz0T7T8TsJVoLAodEQbO8qSMrfF2Ycqp6ZxL8hFwnBfIUedmaprN2kAbj3pw1piEX0cy8N12HAfCXdI=
+metacrilato.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. g8QDPARMB1AwinOEvLdnDzwPflsSD/18N2Owf0ZNyROv/9Ch463rZv3QDpxj+ukKhHaC2SDkG7aF1IfJOZd3jrzCsbShJ4+PkojTlG0d7+EaX/n1KOvJwu8hDv2kKFpJYoEn58iaGCs/HdnE6e2I5+pDpAcpoYHzaNMA/g6ESD0=
 metafacebook.tienda.	3600	in	ns	a.ns.facebook.com.
 metafacebook.tienda.	3600	in	ns	b.ns.facebook.com.
 metafacebook.tienda.	3600	in	ns	c.ns.facebook.com.
@@ -3629,10 +3610,6 @@ mexica.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
 mexica.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
 mexica.tienda.	3600	in	ns	maceio.ns.porkbun.com.
 mexica.tienda.	3600	in	ns	salvador.ns.porkbun.com.
-mezcal.tienda.	3600	in	ns	ns09.domaincontrol.com.
-mezcal.tienda.	3600	in	ns	ns10.domaincontrol.com.
-mi.tienda.	3600	in	ns	ns1-expired.sav.com.
-mi.tienda.	3600	in	ns	ns2-expired.sav.com.
 miami.tienda.	3600	in	ns	ns1.dns-redirect.com.
 miami.tienda.	3600	in	ns	ns2.dns-redirect.com.
 miau.tienda.	3600	in	ns	dns110.ovh.net.
@@ -3645,8 +3622,6 @@ miciudad.tienda.	3600	in	ns	ns1.dns-parking.com.
 miciudad.tienda.	3600	in	ns	ns2.dns-parking.com.
 microcemento.tienda.	3600	in	ns	dns1.webcloud.es.
 microcemento.tienda.	3600	in	ns	dns2.webcloud.es.
-microuniverso.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-microuniverso.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 miel.tienda.	3600	in	ns	ns1.101domain.com.
 miel.tienda.	3600	in	ns	ns2.101domain.com.
 mielorganica.tienda.	3600	in	ns	ns1.interplanet.com.mx.
@@ -3700,7 +3675,7 @@ miteleplus.tienda.	3600	in	ns	ns12.servicio-online.net.
 mitienda.tienda.	3600	in	ns	dns1.cscdns.net.
 mitienda.tienda.	3600	in	ns	dns2.cscdns.net.
 mjmksi6q0qdmib8at41f9549nlt4e0va.tienda.	3600	in	nsec3	1 1 0 73 NHSHQC1BIGJG6P1RH8HRBN0BRVBKSSHU NS DS RRSIG
-mjmksi6q0qdmib8at41f9549nlt4e0va.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. cpdOzgn6TpvIrR6Lh5pYlMdvr3COiFgNW5rdGxh29wXqCgzE7rYsg4dJ0Uz1bxnav2EVBqWrT2tocCPI3Z78LzFD2MZDNtXc0hBvMyxhia+hEA+AOkY0V32G8qvTEWk5vE2JiAA/+Z2b1x/Wh8ns+Lgl8GzZI2kCS0HAWPz35cg=
+mjmksi6q0qdmib8at41f9549nlt4e0va.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. NFzlXV/4HGuus4EcRUbkIHEFORtTsR3gVs4+Xkde/aFVrnPtjMr4GsqMKTzcDUD5AlCQYQXMuTw2X7CWnMkg1cZpMm4nJ/U+CxbJU1EwFhXpNITBH3q/06OTUYRMjJqm+szydHLIm4R5vNeI+33HOXwhjk2puC5LltiImsU9hE0=
 mljdc.tienda.	3600	in	ns	n1.xundns.com.
 mljdc.tienda.	3600	in	ns	n2.xundns.com.
 mm.tienda.	3600	in	ns	lia.ns.cloudflare.com.
@@ -3730,7 +3705,7 @@ moneymaker.tienda.	3600	in	ns	dns2.nominalia.com.
 monreal.tienda.	3600	in	ds	2371 13 2 0FB256411E3F6669BCD3EEF984450EFA1C295921DA1035DC92298902850B4AFF
 monreal.tienda.	3600	in	ns	lisa.ns.cloudflare.com.
 monreal.tienda.	3600	in	ns	west.ns.cloudflare.com.
-monreal.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. HYWlSQOMDzLiTAJG20W0I/5Y26Xk5xFHTFLS/4wih0fhl8aCTKIiVExam9JNO6dKFe17oN3QVwXHZz+QEYcAy59+ty66A4UWrTvVkL/aDNIblUQZL7pJGFTj2qfleH+J+a+jt38lIWyGnVGg6hnnxGgSh4T32CSc08MXVqq6Qqw=
+monreal.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. i3GTCUdoCJ6O/oB+iUoHxCIbmY9Ch6hibFb1bpE3KnC37mIFLF2Jf4+0wjwlLQlytv0y5Fw4C7vbSTAGulnL1fzh1ijoGzx6ZL8wWSjaMc1qKTYIGo/9msccmf48hKdtWDKzZxMg1FyApdFxiA2DUnAfAk/vXfuQ0Gnyv1COG3s=
 montadoresdevinilo.tienda.	3600	in	ns	dns21.servidoresdns.net.
 montadoresdevinilo.tienda.	3600	in	ns	dns22.servidoresdns.net.
 monteblanco.tienda.	3600	in	ns	ns1.websiteserverbox.com.
@@ -3741,7 +3716,7 @@ montessori.tienda.	3600	in	ns	ns2.cdmon.net.
 montessori.tienda.	3600	in	ns	ns3.cdmon.net.
 montessori.tienda.	3600	in	ns	ns4.cdmondns-01.org.
 montessori.tienda.	3600	in	ns	ns5.cdmondns-01.com.
-montessori.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. VhQiBnQ1c1AYq0RiTLFeDvOkuiVl/h49FmdJaCbTw6RMetgD5UibQ/vhmU0ubOSlrwiMoiGCGyFhvCDVPWf1kx+rUeIsvMmtC83g/lLdyM/IP18zw/e6ZeVmlTz+3KdvPP/SC/4ekC+bzcWhV1xLJ1afVq2Il57Jsfx47sVC1wM=
+montessori.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. bFNJ3eH2LBequTACL8DnXdRocvzky5hGVBYnl786pOopB9ZEy3TojfEnDToD97URzlURyGPN5/rHKRZVNJS+W3ya7EOIZZyGENpubCI9D4tamncQHpddAEEskm0lZ+uBlaxhoWeQK5VxeI35qamqfMZo5IpGuFC5PsCExZznYcQ=
 moovecars.tienda.	3600	in	ns	ns1.dondominio.com.
 moovecars.tienda.	3600	in	ns	ns2.dondominio.com.
 moreka.tienda.	3600	in	ns	ns-1488.awsdns-58.org.
@@ -3754,9 +3729,7 @@ morganmedia.tienda.	3600	in	ns	ns2.cdmon.net.
 morganmedia.tienda.	3600	in	ns	ns3.cdmon.net.
 morganmedia.tienda.	3600	in	ns	ns4.cdmondns-01.org.
 morganmedia.tienda.	3600	in	ns	ns5.cdmondns-01.com.
-morganmedia.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. szVNtabqso8cl8vFaS4ynH7SHzTEunAiRLI8O1i1PLElpsifCoz4wOn6iSC82FqIOxGp2JsYsC8Iux5os8BkH6PZc6bYLrE4IGveLgnxrvgFJO/Ji10C7JPYZjkMTe9TBrN4Vum7U+C1xzOF98/dPPzmm2maIxgfTo1IrrQmx0Q=
-morgenshtern.tienda.	3600	in	ns	ns1.ibspark.com.
-morgenshtern.tienda.	3600	in	ns	ns2.ibspark.com.
+morganmedia.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. lVvfP4pSTKkzgqjewbGG1qAgMWa4FgJUQ1sWjzaeT5jNyMU7nlLsWa+z1fLGUcaFKk5T7X4aFrvl0vxo8OSYqANkiTP081XcTBVIxKN3c6olFVKrcx+gQvBaqMmvmMLqmrBZTSYahoGVLiYaRvfn0eL1v2FjzrTUOcq45S+eeRk=
 motomoto.tienda.	3600	in	ns	dns1.namecheaphosting.com.
 motomoto.tienda.	3600	in	ns	dns2.namecheaphosting.com.
 motoresparapuertas.tienda.	3600	in	ns	dns73210.phdns12.es.
@@ -3777,6 +3750,10 @@ mqwoc.tienda.	3600	in	ns	n1.xundns.com.
 mqwoc.tienda.	3600	in	ns	n2.xundns.com.
 mrmerch.tienda.	3600	in	ns	pdns13.domaincontrol.com.
 mrmerch.tienda.	3600	in	ns	pdns14.domaincontrol.com.
+mrrubber.tienda.	3600	in	ns	ns1072.ui-dns.de.
+mrrubber.tienda.	3600	in	ns	ns1083.ui-dns.org.
+mrrubber.tienda.	3600	in	ns	ns1088.ui-dns.com.
+mrrubber.tienda.	3600	in	ns	ns1108.ui-dns.biz.
 mte.tienda.	3600	in	ns	ns1.mte.tienda.
 mte.tienda.	3600	in	ns	ns2.mte.tienda.
 mudejar.tienda.	3600	in	ns	dns35.servidoresdns.net.
@@ -3800,7 +3777,7 @@ multi.tienda.	3600	in	ns	srv014.hospedados.net.
 multihogar.tienda.	3600	in	ds	17896 13 2 E8C870D7BF3F22480F3C14CCCFDB0B51B650EC1AFED7910A1555788FD221AA47
 multihogar.tienda.	3600	in	ns	launch1.spaceship.net.
 multihogar.tienda.	3600	in	ns	launch2.spaceship.net.
-multihogar.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. ACBlHRBq58UexloHGCf8BYS9aIJDAsfPH1bJyHeqEVyaYspSDsbFTX8CFjZWxi9tsCHoMVjc0l4VuDCKr0Q40+jSXvRSzWx+k7svs+ObiAq78cxA/LVlul7ZCmYlLcI2RuqGROCucawPrWZsbsxJTaC0EjQVTtS/hUOcaG6XMLw=
+multihogar.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. UR4XUL4XZ5443Q7p/zBe/uWFsvw3aygwn/tN28d3VCOuMeAwtt1VaJatlZ1/4rh1JPoENVYSNlMKd/U2EhJCijfckFqDM3F1oMTr6A0M99NzY09FKAiCGkj3ujLh6FwlAeNKMNdjZ+HqXJa6zuDBD4fvd+v3o/f1QX5Gf83xdi4=
 multiocasion.tienda.	3600	in	ns	dns35.servidoresdns.net.
 multiocasion.tienda.	3600	in	ns	dns36.servidoresdns.net.
 mundo.tienda.	3600	in	ns	launch1.spaceship.net.
@@ -3808,7 +3785,7 @@ mundo.tienda.	3600	in	ns	launch2.spaceship.net.
 mundocolor.tienda.	3600	in	ds	64105 8 2 ACC78530BD82816899568C3A160A5EFDBF8C31A02C593CAA9787A58B3B470524
 mundocolor.tienda.	3600	in	ns	dns20.ovh.net.
 mundocolor.tienda.	3600	in	ns	ns20.ovh.net.
-mundocolor.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. rH5C4vKIqbVcconTopqM54AXkwQMIhqnF+NhetVl/JaS0GDpvCfVynyLBcxvqLHDc5BoZhR3kRd39NhoM6jAW5rAsB3m1p5YaPkC/P+cbz/dnRkYwtQhMDK5vGWNPUf2My3S7yFqDrcahTwOagF3GLEoIt3RQbskLlNhxYVebvA=
+mundocolor.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. cc3LDnYrtH1cxX/jof38FGwQjFJ2rTRxP6K4iF2/ArBc1SrH0ziaPdS+Nz4HKWanBasnBrg6oo927GFZrcj3v50InfgHLG6oTGsrg0e0wICndOBlh7m7A44eWriDDq48iYYz/UU6Dmq4xlztXyDZpt02BFpnBVZ8JZUj+JlSMFo=
 mundosriders.tienda.	3600	in	ns	ns1.vercel-dns.com.
 mundosriders.tienda.	3600	in	ns	ns2.vercel-dns.com.
 mundotoro.tienda.	3600	in	ns	dns33.servidoresdns.net.
@@ -3846,6 +3823,8 @@ mzxut.tienda.	3600	in	ns	ns1.netsto.net.
 mzxut.tienda.	3600	in	ns	ns2.netsto.net.
 n8n.tienda.	3600	in	ns	ns1.dondominio.com.
 n8n.tienda.	3600	in	ns	ns2.dondominio.com.
+na23.tienda.	3600	in	ns	ns1.dns-parking.com.
+na23.tienda.	3600	in	ns	ns2.dns-parking.com.
 naasco.tienda.	3600	in	ns	asa.ns.cloudflare.com.
 naasco.tienda.	3600	in	ns	trace.ns.cloudflare.com.
 nadplus.tienda.	3600	in	ns	ns97.piensasolutions.com.
@@ -3879,6 +3858,8 @@ navarrobodeguero.tienda.	3600	in	ns	ns1030.ui-dns.com.
 navarrobodeguero.tienda.	3600	in	ns	ns1039.ui-dns.biz.
 navarrobodeguero.tienda.	3600	in	ns	ns1043.ui-dns.de.
 navarrobodeguero.tienda.	3600	in	ns	ns1104.ui-dns.org.
+navidad.tienda.	3600	in	ns	ns1.dyna-ns.net.
+navidad.tienda.	3600	in	ns	ns2.dyna-ns.net.
 naza.tienda.	3600	in	ns	ns1.dondominio.com.
 naza.tienda.	3600	in	ns	ns2.dondominio.com.
 neaxs.tienda.	3600	in	ns	n1.xundns.com.
@@ -3922,7 +3903,7 @@ nfts.tienda.	3600	in	ns	ns2.nameclub.com.
 nhacaiuytin.tienda.	3600	in	ns	amber.ns.cloudflare.com.
 nhacaiuytin.tienda.	3600	in	ns	jonah.ns.cloudflare.com.
 nhshqc1bigjg6p1rh8hrbn0brvbksshu.tienda.	3600	in	nsec3	1 1 0 73 O093CAQAMKILBCSOD3498DKHBMP7LVR2 NS DS RRSIG
-nhshqc1bigjg6p1rh8hrbn0brvbksshu.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. JdkNh6y+O3hYSheRoEI9XjhR9/JTnG7+FSo6nPsAiYYshPHwk5oiBPxSZssWY9mnLhNVDwjQN4eXBn1sMWa8dQ6PGtPfVMghu7ggu9XDomRNyuTW4W+okEAmPIjsgp4oBS6QRYf/q5ZSpYYIvpBvZJan97RkXpHiVbiA+FY72z8=
+nhshqc1bigjg6p1rh8hrbn0brvbksshu.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. de+iYciAs1a6OVZ+Z/XzCJdzumTkOIU7+/OdXEi5CE0o2NpyHWYbVvprPibjJwEBoMaNKsAQQlGI9RUUpsmfGvoYhcFHcVw6KA8oKTWEYJa/YsagdZ6+FxXKU6EuTJLE5iEwLuwQMrKkdz3M2fSkhvjUrjjdnR5GGaLujD+75oM=
 nic.tienda.	3600	in	ns	v0n0.nic.tienda.
 nic.tienda.	3600	in	ns	v0n1.nic.tienda.
 nic.tienda.	3600	in	ns	v0n2.nic.tienda.
@@ -3954,8 +3935,6 @@ noni.tienda.	3600	in	ns	jon.quicns.com.
 noni.tienda.	3600	in	ns	lisa.quicns.org.
 nopal.tienda.	3600	in	ns	ns1.dan.com.
 nopal.tienda.	3600	in	ns	ns2.dan.com.
-norrebro.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-norrebro.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 nostr.tienda.	3600	in	ns	ns1mpz.name.com.
 nostr.tienda.	3600	in	ns	ns2btz.name.com.
 nostr.tienda.	3600	in	ns	ns3jwx.name.com.
@@ -3963,7 +3942,7 @@ nostr.tienda.	3600	in	ns	ns4fqz.name.com.
 nostra.tienda.	3600	in	ds	16775 8 2 FF4325D4CA12A3A8213655A28A87B8F0A729162D48AA46812EB113EA403EF257
 nostra.tienda.	3600	in	ns	dns11.ovh.net.
 nostra.tienda.	3600	in	ns	ns11.ovh.net.
-nostra.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. aot8/YPyqYRGHkbllchGWz5Y+7o3MV9xS3zhCOu9C4lvKiyHnmWrlIBDji/jYMAUVcTS+42IXPrizLu6yWx40g5FrR4TJeN+8t5/lXUr7Zn+Eu6Xwz8Q4ueKchaZIHZfpR0I1dnpj/bQ1uY3wOWeVJBqd39lFxIp1HFjAeCeYLo=
+nostra.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. ng3YEtjndN6+b5kWHDx4RpdSwGTE2Ft2WiOpW2IOMhmwh57aQy1qnn405XIDg5TPmmW0YSYhowKR4pIF8NKHHPyx2tvGO2ekWZnAVExe7uBsbuMmPCJtcn1oJ6Mgx8uztqb1m5kVn9G+rddEv13K8yzsRXsN68Az0kgo2/UcWN4=
 notaxa.tienda.	3600	in	ns	carioca.ns.cloudflare.com.
 notaxa.tienda.	3600	in	ns	wesley.ns.cloudflare.com.
 nova.tienda.	3600	in	ns	ns1.digitalocean.com.
@@ -3977,9 +3956,6 @@ now.tienda.	3600	in	ns	ns-1153.awsdns-16.org.
 now.tienda.	3600	in	ns	ns-179.awsdns-22.com.
 now.tienda.	3600	in	ns	ns-1912.awsdns-47.co.uk.
 now.tienda.	3600	in	ns	ns-625.awsdns-14.net.
-nox.tienda.	3600	in	ns	ns1.dreamhost.com.
-nox.tienda.	3600	in	ns	ns2.dreamhost.com.
-nox.tienda.	3600	in	ns	ns3.dreamhost.com.
 np.tienda.	3600	in	ns	launch1.spaceship.net.
 np.tienda.	3600	in	ns	launch2.spaceship.net.
 nqlsb.tienda.	3600	in	ns	n1.xundns.com.
@@ -4011,7 +3987,6 @@ ns1.shimano.tienda.	3600	in	a	5.175.42.100
 ns1.terramar.tienda.	3600	in	a	65.109.88.97
 ns1.to2tocks.tienda.	3600	in	a	194.164.167.206
 ns1.to2tocks.tienda.	3600	in	aaaa	2001:0ba0:024a:d400:0000:0000:0000:0001
-ns1.vmp.tienda.	3600	in	a	82.223.120.243
 ns2.1024.tienda.	3600	in	a	127.0.0.1
 ns2.bellezaysalud.tienda.	3600	in	a	178.33.165.70
 ns2.benice.tienda.	3600	in	a	108.167.149.254
@@ -4035,13 +4010,14 @@ ns2.shimano.tienda.	3600	in	a	5.175.42.100
 ns2.terramar.tienda.	3600	in	a	65.109.88.97
 ns2.to2tocks.tienda.	3600	in	a	82.223.109.172
 ns2.to2tocks.tienda.	3600	in	aaaa	2001:0ba0:0223:4900:0000:0000:0000:0001
-ns2.vmp.tienda.	3600	in	a	82.223.120.243
 nshlva.tienda.	3600	in	ns	ns1.dnsip.com.
 nshlva.tienda.	3600	in	ns	ns2.dnsip.com.
 nts.tienda.	3600	in	ns	ns1.dondominio.com.
 nts.tienda.	3600	in	ns	ns2.dondominio.com.
 ntywd.tienda.	3600	in	ns	n1.xundns.com.
 ntywd.tienda.	3600	in	ns	n2.xundns.com.
+nubbon.tienda.	3600	in	ns	ns1.dondominio.com.
+nubbon.tienda.	3600	in	ns	ns2.dondominio.com.
 nube.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
 nube.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
 nube.tienda.	3600	in	ns	maceio.ns.porkbun.com.
@@ -4067,7 +4043,7 @@ nzouo.tienda.	3600	in	ns	n2.xundns.com.
 nzslv.tienda.	3600	in	ns	n1.xundns.com.
 nzslv.tienda.	3600	in	ns	n2.xundns.com.
 o093caqamkilbcsod3498dkhbmp7lvr2.tienda.	3600	in	nsec3	1 1 0 73 OOA3UPB6NKUTADOP83S3LAUCSS1RVFQV NS DS RRSIG
-o093caqamkilbcsod3498dkhbmp7lvr2.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. oOwQdCFspiE1SCSDen/ZkQTcJ1a/ATWzcwnPBMGvS5yJ/PKO9TWaLpF6qVlkK7dHgUpSlXnq+AZCYHpD2nNbyKlzY2z9s1d49O3d6cpv8M97EPkPl6Wu6aru8Rda6tDjlNWlR4y0I/5rxmgRvYA5jAHbGeDZGe6iONE8bYMfsPc=
+o093caqamkilbcsod3498dkhbmp7lvr2.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. WWnv2UNJxydewgccnrupWUa/k+/kg49yV/OgDGG3gz4bqDhlj3baNlWMMGLPfTdx6jgVhZMhDDTn69914/vKnsYTzhIfAlhQYaWrUw8akZRBKlmmKzfAcvlCifvDsa0dYSIaip9vfaWMQXD/4qT0DbaeIEErcSIopG8rVHFzWbU=
 o2.tienda.	3600	in	ns	ns1.jotelulu.com.
 o2.tienda.	3600	in	ns	ns2.jotelulu.com.
 oasis.tienda.	3600	in	ns	dns.lpa.idec.net.
@@ -4105,9 +4081,6 @@ okay.tienda.	3600	in	ns	dedi3063564.eu.tuservidoronline.com.
 okay.tienda.	3600	in	ns	dedi3063564a.eu.tuservidoronline.com.
 oledrecambios.tienda.	3600	in	ns	melissa.ns.cloudflare.com.
 oledrecambios.tienda.	3600	in	ns	rajeev.ns.cloudflare.com.
-olimpico.tienda.	3600	in	ns	ina1.registrar.eu.
-olimpico.tienda.	3600	in	ns	ina2.registrar.eu.
-olimpico.tienda.	3600	in	ns	ina3.registrar.eu.
 olzsu.tienda.	3600	in	ns	ns1.dyna-ns.net.
 olzsu.tienda.	3600	in	ns	ns2.dyna-ns.net.
 omarisquino.tienda.	3600	in	ns	ns1043.ui-dns.biz.
@@ -4131,7 +4104,7 @@ ontinyent.tienda.	3600	in	ns	pdns06.domaincontrol.com.
 oo.tienda.	3600	in	ns	ns1.hover.com.
 oo.tienda.	3600	in	ns	ns2.hover.com.
 ooa3upb6nkutadop83s3laucss1rvfqv.tienda.	3600	in	nsec3	1 1 0 73 Q6JJQR2GGBGGH5G4QMV546JUK1NINDNH NS DS RRSIG
-ooa3upb6nkutadop83s3laucss1rvfqv.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. j9ZKcEq5UD946u+EpOi9J0IjGZSbVNQx5jWH3KmR1fDN6EoTZyppQGnAH3cm9DdD9PKy6Vm+wsFInIEk06mdkMO/BdMaXhksnz+dx0H0OXiVyTCNe+Ui39Em1pOFjiWw4iVRYrrKUgpnB6Vwu7qM62dnv3JP5qXvv+FyO9k1+E0=
+ooa3upb6nkutadop83s3laucss1rvfqv.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. p2igPv8lefEqLVOGqlYudTl1QrO8wiehkIRqJaeLwfeD29s72ZZvOC2yd/i6G5mqzS1epnChP3vMKdxX54MNpXas4BejpbaAZuRz9T0por/HJXAYQ+0yn8IP+yF/U9u6QYQJcKTji+4obn9XTO5DIJPeklkJBeK9HCOBCY8bf8A=
 opal.tienda.	3600	in	ns	5579.ns1.abovedomains.com.
 opal.tienda.	3600	in	ns	5579.ns2.abovedomains.com.
 open.tienda.	3600	in	ns	ns1.omnis.com.
@@ -4263,7 +4236,7 @@ pasionfutbolera.tienda.	3600	in	ns	ns72.domaincontrol.com.
 pastel.tienda.	3600	in	ds	5703 13 2 C635F978990DF6B94A0F7930564F3AEE4FC88CBA98256EDADCE9A7C719BFA82C
 pastel.tienda.	3600	in	ns	ns01.one.com.
 pastel.tienda.	3600	in	ns	ns02.one.com.
-pastel.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. XU90YXuQvEU3DYBwH7mFVrit/FoIA7tD2Q1HkZHTGYK71CgShX8sl3FwONzpY+o0QK/ZnuVxKD0Xv+3QQo42Xze1zrD0ogxECfKMYNap1BYf7EfIFEOyuDTtA/0hNQcn3j3aLFufxI8LV1bPHewo9Ocfx4BbHbhUrK9EqoZrQ4Q=
+pastel.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. HjkK5URvQU9nlVZyA+NNAUmQVdZj+QWOHjdI0e794yY0xOUW1bBLX9bLVit8h7AaggU9hitrcyggH56dRGGFoMak5saGBiSFdhcS6UXpOhdG9w5S3zlhGjxiehCjddtWCf09f3NVsJsOJOL5AObUrJLoqWGXQicfMue2bsR5/2k=
 patin.tienda.	3600	in	ns	ns-cloud-e1.googledomains.com.
 patin.tienda.	3600	in	ns	ns-cloud-e2.googledomains.com.
 patin.tienda.	3600	in	ns	ns-cloud-e3.googledomains.com.
@@ -4326,8 +4299,8 @@ phone.tienda.	3600	in	ns	ns1.markmonitor.com.
 phone.tienda.	3600	in	ns	ns2.markmonitor.com.
 pianos.tienda.	3600	in	ns	ns1.uniregistrymarket.link.
 pianos.tienda.	3600	in	ns	ns2.uniregistrymarket.link.
-pickleball.tienda.	3600	in	ns	ns1.cdmon.net.
-pickleball.tienda.	3600	in	ns	ns2.cdmon.net.
+pickleball.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+pickleball.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 picnic.tienda.	3600	in	ns	ns1.dns-redirect.com.
 picnic.tienda.	3600	in	ns	ns2.dns-redirect.com.
 pico.tienda.	3600	in	ns	ns13.domaincontrol.com.
@@ -4352,7 +4325,7 @@ pilates.tienda.	3600	in	ns	ns2.cdmon.net.
 pilates.tienda.	3600	in	ns	ns3.cdmon.net.
 pilates.tienda.	3600	in	ns	ns4.cdmondns-01.org.
 pilates.tienda.	3600	in	ns	ns5.cdmondns-01.com.
-pilates.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. W+soeK6RhBsJqRb0hTaqYIPCD0s1+oiToELpuZGzcwlzrmbzetTCvmd2BHLPxEj8JilyDdhxjqgnZDIZSM7d7+C0l3q7iDafrGFUhxcbvDWt1H4cmEU3juKiCIOigiQpASGT450Y6kWhdFpXuiiqljQHgZLoqjV8TQFzXQFawoM=
+pilates.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. jDn2TYkXZY9pcxAuKubfX5eW2MgOZtLzykMGofv3AKbwcIxkmdgWs8StAe8/JI5XTitx+1BomVxx63mFd63xiVS63izW5qaDTnjlchAYt5sTSH4Sd5VRHSZ8Cj6JxOShvFUf/TO1wSe4UMTJBYP0IDPgr8AlTSehKlQVnCa0Qmo=
 pin-up.tienda.	3600	in	ns	ns1ksz.name.com.
 pin-up.tienda.	3600	in	ns	ns2dfg.name.com.
 pin-up.tienda.	3600	in	ns	ns3jnr.name.com.
@@ -4402,7 +4375,7 @@ plmnk.tienda.	3600	in	ns	n2.xundns.com.
 plugin.tienda.	3600	in	ds	42994 13 2 EDBF3A2044258B9B1D87A94CC2FBC3F9BE9F4AC490A2C0F25FDD756932525CB9
 plugin.tienda.	3600	in	ns	launch1.spaceship.net.
 plugin.tienda.	3600	in	ns	launch2.spaceship.net.
-plugin.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. tCqPk8wLm8ErIgWpTeSLq9UzuGBC/qxo82P6XRWN35eziLo2lZ8FN6QYMvymnNI7xXwVydLkEoNPaykGFXoz7idMngICS67JUgHsE8y0BDsRp/VWUP/v9pwh7JGFxY0WTfT3uzMaL/3DWgB/KiWSuvyC7Rx4ldgn4cW1cDrGbTk=
+plugin.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. X1bxyKDRpr66oLZ4tCJqwgVIX37Lfexo6zlvT4epQdi67/7mG0uwE55HT3ssHHNqTF4uxHcCUuou5OM87DJykJ9eXlmhtKLZarZd13/OzFmAo8PU5R8zHFXfzYoKBrfe9uWsTzRP888eS6yy5C+c9MPFZGcRaz3jrbvNDfafmX0=
 plumaje.tienda.	3600	in	ns	ns1.domain.com.
 plumaje.tienda.	3600	in	ns	ns2.domain.com.
 plumas.tienda.	3600	in	ns	ns1.sedoparking.com.
@@ -4416,8 +4389,8 @@ pmdigital.tienda.	3600	in	ns	ns2.dns-parking.com.
 pocas.tienda.	3600	in	ns	1-you.njalla.no.
 pocas.tienda.	3600	in	ns	2-can.njalla.in.
 pocas.tienda.	3600	in	ns	3-get.njalla.fo.
-poker.tienda.	3600	in	ns	dns1.registrar-servers.com.
-poker.tienda.	3600	in	ns	dns2.registrar-servers.com.
+poker.tienda.	3600	in	ns	brenna.ns.cloudflare.com.
+poker.tienda.	3600	in	ns	ignat.ns.cloudflare.com.
 policia.tienda.	3600	in	ns	dns1.hispalisdns.com.
 policia.tienda.	3600	in	ns	dns2.hispalisdns.com.
 policia.tienda.	3600	in	ns	dns3.hispalisdns.com.
@@ -4459,10 +4432,6 @@ prim.tienda.	3600	in	ns	dns2.namebay.com.
 prime.tienda.	3600	in	ns	nsgbr.comlaude.co.uk.
 prime.tienda.	3600	in	ns	nssui.comlaude.ch.
 prime.tienda.	3600	in	ns	nsusa.comlaude.net.
-primeramano.tienda.	3600	in	ns	ns.ui-global-dns.biz.
-primeramano.tienda.	3600	in	ns	ns.ui-global-dns.com.
-primeramano.tienda.	3600	in	ns	ns.ui-global-dns.de.
-primeramano.tienda.	3600	in	ns	ns.ui-global-dns.org.
 privacy.tienda.	3600	in	ns	ns-cloud-d1.googledomains.com.
 privacy.tienda.	3600	in	ns	ns-cloud-d2.googledomains.com.
 privacy.tienda.	3600	in	ns	ns-cloud-d3.googledomains.com.
@@ -4481,12 +4450,12 @@ productos.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
 productos.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
 productos.tienda.	3600	in	ns	maceio.ns.porkbun.com.
 productos.tienda.	3600	in	ns	salvador.ns.porkbun.com.
-productosdemexico.tienda.	3600	in	ns	pdns1.registrar-servers.com.
-productosdemexico.tienda.	3600	in	ns	pdns2.registrar-servers.com.
+productosdemexico.tienda.	3600	in	ns	dns101.registrar-servers.com.
+productosdemexico.tienda.	3600	in	ns	dns102.registrar-servers.com.
 productosecologicos.tienda.	3600	in	ns	chad.ns.cloudflare.com.
 productosecologicos.tienda.	3600	in	ns	reza.ns.cloudflare.com.
-productosmexicanos.tienda.	3600	in	ns	pdns1.registrar-servers.com.
-productosmexicanos.tienda.	3600	in	ns	pdns2.registrar-servers.com.
+productosmexicanos.tienda.	3600	in	ns	dns101.registrar-servers.com.
+productosmexicanos.tienda.	3600	in	ns	dns102.registrar-servers.com.
 productosnaturales.tienda.	3600	in	ns	ns1.dns-parking.com.
 productosnaturales.tienda.	3600	in	ns	ns2.dns-parking.com.
 proexpress.tienda.	3600	in	ns	garret.ns.cloudflare.com.
@@ -4503,6 +4472,8 @@ proteccioncontraincendios.tienda.	3600	in	ns	ns-es.1and1-dns.biz.
 proteccioncontraincendios.tienda.	3600	in	ns	ns-es.1and1-dns.com.
 proteccioncontraincendios.tienda.	3600	in	ns	ns-es.1and1-dns.es.
 proteccioncontraincendios.tienda.	3600	in	ns	ns-es.1and1-dns.org.
+provi.tienda.	3600	in	ns	ns1.dns-parking.com.
+provi.tienda.	3600	in	ns	ns2.dns-parking.com.
 proyecto4patas.tienda.	3600	in	ns	ns55.domaincontrol.com.
 proyecto4patas.tienda.	3600	in	ns	ns56.domaincontrol.com.
 pruebas.tienda.	3600	in	ds	23949 14 2 08F92499D9BE21A34B6A90198FBCC54169E73EA46CAC7BFCB08003B2027201C4
@@ -4510,13 +4481,13 @@ pruebas.tienda.	3600	in	ns	ns1.cdmon.net.
 pruebas.tienda.	3600	in	ns	ns2.cdmon.net.
 pruebas.tienda.	3600	in	ns	ns3.cdmon.net.
 pruebas.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-pruebas.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. rSm7KwoTIfR4pHf3AX2mMHUphhHE8jxKB4tsLdzKVXnxbfMefZxdfxiIxMHGGxE+Ltbn/+63aq56asCu9wKBtzNNB+S3lY5EMM+UabB2mdeTQVMVXuGOLkLgM+pC/HO/vlKwxwNhTMBNKzq+y2cV660/GBUlIO0ux4pO/SlvqBg=
+pruebas.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. jcSFO/h64uEAGAx5K8pIo5EgtN16XkIJXDMkXm+EDAUrU35rO5tEhHCjw+Zg7EBoOk8+py3YX7yOQykluad1z9e+tx33TuAItHv8WVtdTuWM1C7zfRHkDISe7z+xm/mIZ/X+uloTEK+vrctcZi4ff2zC6KRJr2Ep8sek/c734Bs=
 psicologia.tienda.	3600	in	ds	10042 14 2 76401BFF74C17F396AE119AA9EC2E2706F4542A4C1389321E8938A1E8334A958
 psicologia.tienda.	3600	in	ns	ns1.cdmon.net.
 psicologia.tienda.	3600	in	ns	ns2.cdmon.net.
 psicologia.tienda.	3600	in	ns	ns3.cdmon.net.
 psicologia.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-psicologia.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. K3MgUpxeKHb3QR10BzJsdCdwo/FL68EUyXC5hcceMJapfVTct5nf7J2+UfwcA9Ji0NYHARzyf5GidqFw/P1FjshSWbkvWmr63ED0+3LFlPWLfgHGAWCaIw88YdRa7ZPILwdzqGJBP4YRrtqt+KdHNffiCvrWnej0pASblIQReZM=
+psicologia.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. IchokRemPQDspYr6Y3t5OgvN1pedsCnbnpynK5FWxOq2ILne02QHO7a15r3lvoQmBYNkMdxY+i7K+j9DOMG8sVD9wTEIN3QPsscbRDj5ijVtf3EIGc3w53BotfSjlJWzOw52762JWjk1pVlQaaGYO2ftqNgt9JUbinwgSX+6I2g=
 pspjq.tienda.	3600	in	ns	ns1.dyna-ns.net.
 pspjq.tienda.	3600	in	ns	ns2.dyna-ns.net.
 pspms.tienda.	3600	in	ns	ns1.dyna-ns.net.
@@ -4533,8 +4504,6 @@ pumas.tienda.	3600	in	ns	ns1dnx.name.com.
 pumas.tienda.	3600	in	ns	ns2gtx.name.com.
 pumas.tienda.	3600	in	ns	ns3ckl.name.com.
 pumas.tienda.	3600	in	ns	ns4bht.name.com.
-pump.tienda.	3600	in	ns	dns101.registrar-servers.com.
-pump.tienda.	3600	in	ns	dns102.registrar-servers.com.
 puressentiel.tienda.	3600	in	ns	ns-111-b.gandi.net.
 puressentiel.tienda.	3600	in	ns	ns-208-a.gandi.net.
 puressentiel.tienda.	3600	in	ns	ns-56-c.gandi.net.
@@ -4543,21 +4512,21 @@ pvota.tienda.	3600	in	ns	n2.xundns.com.
 pznkv.tienda.	3600	in	ns	n1.xundns.com.
 pznkv.tienda.	3600	in	ns	n2.xundns.com.
 q6jjqr2ggbggh5g4qmv546juk1nindnh.tienda.	3600	in	nsec3	1 1 0 73 QD37FNQ5J5UHNOO9VQTV9KJQP117C9H0 NS DS RRSIG
-q6jjqr2ggbggh5g4qmv546juk1nindnh.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. WX3+bJKWqZCPa00H1rUtknWTOVbFNEty01OeGSyu0QjgsLQlwkDoM/xuUoPstJ1VDh9HlsRf4nTI2GTbcbo1t3faM3cgJdsgn2svGHO8PRZrCsXCeF0f3gSgWuSzf9TExRcxZvFUTw8tOo3ICFvp2rb5tUS+90HGZH3Chhsa8Ao=
+q6jjqr2ggbggh5g4qmv546juk1nindnh.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. f4t62X+wt02IWOb0ktQQ8RdTKLV6h+o/8SYqJ772Zl23krOkZeq4RyoX7Yutq5k2OmjXKlvOx1O+w7YrnlAyMJoRIo9pyBvwipn2eBi13Mw4tWZWe4mojODT+W6EXTXu7mtPzYcIVl3uWLh1UKvCgtMbfw/J/l88JGYOGkEy4Fg=
 qasnk.tienda.	3600	in	ns	n1.xundns.com.
 qasnk.tienda.	3600	in	ns	n2.xundns.com.
 qavnk.tienda.	3600	in	ns	n1.xundns.com.
 qavnk.tienda.	3600	in	ns	n2.xundns.com.
 qd37fnq5j5uhnoo9vqtv9kjqp117c9h0.tienda.	3600	in	nsec3	1 1 0 73 QHO3NJVKI77ATEN6RO4HANAJ3JQ4CHPS NS DS RRSIG
-qd37fnq5j5uhnoo9vqtv9kjqp117c9h0.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. dO8wI2GqBSOyoKDQYMRX6+KDp/qUJVQAQOdJFH2ID4/AFcnIRme7PL4w2MbZuhyxVNcb11MHN36c+i4aJfxaGTOZzRY8Wpl8RdD3L5QcMUyAx2bh1qYOBel0Y+yBPg2W+sTCVom1vO2g+VYgSpQs3OZqn/eV9kc5ig+ZvP/4Ywo=
+qd37fnq5j5uhnoo9vqtv9kjqp117c9h0.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. FLO+zbgNWvTQ16fUFxKJVa9rYWW5E3jai6/9aeDUVT7PBNtNmldLQVT1uJtjUYh0O1AG+kn0gsggEmozD4HSeHYumEjlZYIEAGq8VDX+EYsYaksGLqhUxUdg4kgS9WH2oThfBgqc0iO3KSFfcoHwHqAXtNWfeTT/h4LPJMdRXQw=
 qesxj.tienda.	3600	in	ns	ns1.dyna-ns.net.
 qesxj.tienda.	3600	in	ns	ns2.dyna-ns.net.
 qftdm.tienda.	3600	in	ns	n1.xundns.com.
 qftdm.tienda.	3600	in	ns	n2.xundns.com.
 qho3njvki77aten6ro4hanaj3jq4chps.tienda.	3600	in	nsec3	1 1 0 73 QIRG58P8RAL8PA72S3A8I9UC6G5U7593 NS DS RRSIG
-qho3njvki77aten6ro4hanaj3jq4chps.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. nQ7puUICPXm+isRA4lc+ZDkOYCYAynRKn684oEYmWMjs7zvGH4Y52Hw7lcmpk+9g8nP2nhgcr3pmi/aSe8cO7WjVkUXocxPNBNNG0tVGav/h+Ck4DdWEtgM1m7gEpWJxBie+1ztcSBJCFaalTHWCpVd0d89fKssA/bpDmclR+4A=
+qho3njvki77aten6ro4hanaj3jq4chps.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. aPdqFrVC0VlMRBDqtDvZ8cL0MtueOpXHhA0T4KDdxKWIBizvnMmo2Z6n15zSn0pLH8RINYFHF09YcH6J1JFMOQO1ekPKIAoZtvjyuPaLksXymlW0hrki5Imr2gSWfpzilQk66w+JXEVI9OmgZ2lhdpEARNr1HmnVXhEsnW2lWAY=
 qirg58p8ral8pa72s3a8i9uc6g5u7593.tienda.	3600	in	nsec3	1 1 0 73 QRLNJPE1Q3NQAD9V8UD9MIQRCI684AA9 NS DS RRSIG
-qirg58p8ral8pa72s3a8i9uc6g5u7593.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. Yp4dMPa/OC4amXp5xpi2loNC3oqSNj871ISq3Uipe2kIWbcHqrpEIhzKLMgzdBmFykqNM5W7YVZR4Y3p/7ABCqtXgaYW4jdMP4/rZ8vpz1Xw7JA6tMLB5u63KwE1eZ8sOwdowpQXB973Az6MsIbEK04WZPq7EXWFPdOy3euRQt0=
+qirg58p8ral8pa72s3a8i9uc6g5u7593.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. MALHQI69SBVNJqSvbdzdgbI5oZ3NIF1q3w33cFkr/pR/GpTFylP/ABBXlitiK6xhoUdCUEovzvoPDDVlYhfRcMo+PMIHGYMUpjlsK1q5EbgFd/4MKkKFyKfoc/Kvq6L29doLNLoSAeqyE+dilS4o1pi3UnsUaacbh+6YlyKFbdc=
 qmeqp.tienda.	3600	in	ns	n1.xundns.com.
 qmeqp.tienda.	3600	in	ns	n2.xundns.com.
 qmzmm.tienda.	3600	in	ns	ns1.netsto.net.
@@ -4575,7 +4544,7 @@ qrfkk.tienda.	3600	in	ns	n2.xundns.com.
 qrjgn.tienda.	3600	in	ns	n1.xundns.com.
 qrjgn.tienda.	3600	in	ns	n2.xundns.com.
 qrlnjpe1q3nqad9v8ud9miqrci684aa9.tienda.	3600	in	nsec3	1 1 0 73 RBRRMSJLHKMES7T0TOPMT55UVFPUS7O1 NS DS RRSIG
-qrlnjpe1q3nqad9v8ud9miqrci684aa9.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. ehAa2gBvyZyhTvU8AQPLpjQFH4Z9rl1xtbnu0iI96yUO8uGL3RR6jHfxZAINcZgiPLBu4zjSUpl05huhXPFujdpqPi6XUd6DnvYBmW6t+Vn/+x5sh45DDd1KgZh6oDNlLzYMxTLbZ+edyiSjtuz3GJj3BH3dAAthP1wwgxT0OxQ=
+qrlnjpe1q3nqad9v8ud9miqrci684aa9.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. S0ZP+Z5dV2kcvixo4IJxijZg0MikRpuloKg0me1gmrUjsGCWWipRFM/G3cFL+FkVLkzZz2Nl3WvaamA46GqQzBBGmB2FeKy+vM1sUqncNbl6Amd14urSSvLdS3gwR0VYGcaU7z0mSCQRgf21yWIqI2CeXuNFUMrJoMxF/w/D4KQ=
 qtqnt.tienda.	3600	in	ns	ns1.dyna-ns.net.
 qtqnt.tienda.	3600	in	ns	ns2.dyna-ns.net.
 quantum.tienda.	3600	in	ns	launch1.spaceship.net.
@@ -4640,10 +4609,12 @@ rapi.tienda.	3600	in	ns	ns53.domaincontrol.com.
 rapi.tienda.	3600	in	ns	ns54.domaincontrol.com.
 rappi.tienda.	3600	in	ns	ns51.domaincontrol.com.
 rappi.tienda.	3600	in	ns	ns52.domaincontrol.com.
+raquelagarrifas.tienda.	3600	in	ns	ns1.dondominio.com.
+raquelagarrifas.tienda.	3600	in	ns	ns2.dondominio.com.
 ratel.tienda.	3600	in	ns	ns1.dns-parking.com.
 ratel.tienda.	3600	in	ns	ns2.dns-parking.com.
 rbrrmsjlhkmes7t0topmt55uvfpus7o1.tienda.	3600	in	nsec3	1 1 0 73 RD4UB71V44FCI7QAG1IGJRS789L2SO9J NS DS RRSIG
-rbrrmsjlhkmes7t0topmt55uvfpus7o1.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. ZXY2rqf7ANpJdREipIWJaQE5qPwV3RwA7QlQOCzHl3vXOleNM0gmY0zsiQhou+2CeLwkk8GApJ1Hloa00NOW+86g4Hjm0fLRhBV4mKMuUlqEfPcXiwBGnCrSF7msNuVti3hm1TUZwZrKR+UoUUJ9vuinhLv3qQsxdFz7Ev4eq64=
+rbrrmsjlhkmes7t0topmt55uvfpus7o1.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. XBjfrqio+nnWd3X8GfZuTu/wW/6889PArPdm04lqpCgkzfdpfEtqQJXscjMjxuKndgYbkDq63inyDuT7txN1ZWsAhsZlwLXDlWzxmFSpY402JjzGz5w8kOqcPT6BqWwkoF3yfme0dBJFy4GXUEKlwody6q10IuJBN2EVLQHZGx4=
 rbxrt.tienda.	3600	in	ns	ns1.dyna-ns.net.
 rbxrt.tienda.	3600	in	ns	ns2.dyna-ns.net.
 rc.tienda.	3600	in	ns	ns1.dondominio.com.
@@ -4655,9 +4626,9 @@ rd.tienda.	3600	in	ns	ns-cloud-a1.googledomains.com.
 rd.tienda.	3600	in	ns	ns-cloud-a2.googledomains.com.
 rd.tienda.	3600	in	ns	ns-cloud-a3.googledomains.com.
 rd.tienda.	3600	in	ns	ns-cloud-a4.googledomains.com.
-rd.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. JC40onE0mX4DbX+Jcp92Vu00CtFEo7FtxWEwmrFbZGYomWThub1KToMI+/ni7shQdJkpAhK4d8CUyPrKk5kaSwrxTPH7hkLyy3yMFW3b0vQHXeHzriU+pr5pAR4LQhY+uVblgeHYfcxL24OTGa3s3TmuFBEURI8Dl8epK4lae0w=
-rd4ub71v44fci7qag1igjrs789l2so9j.tienda.	3600	in	nsec3	1 1 0 73 RPIGMPGRKNHTSERN1PUB116EB44JAQG7 NS DS RRSIG
-rd4ub71v44fci7qag1igjrs789l2so9j.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. Hm/8N+KlsWmTBzJTBc9Ee6ZlOaxSnHtjFuC4EUvp2LjaOKiXeg+bYqu6lq1TEph6JA9xe5fktBW3RqgM0JED+A3bJGh1KV7iyfgpprLpLOzcX3BojyKpBJQvs1KB7YOzlgF37edfPnW+Ndg8zWNAXoFd5vzkYYE5HJxqVoWEDzE=
+rd.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. N4GX4vIbmbWDbQyO4Vg7E1YAM89wexjlO3d+YgwGGL3UxfH8dJb6oi0AbxOH2g/btSmZ8XuRXwWn7RFLiFg95Hpu3sNyp9mzq7bKJscVawrfuPCA9X0FFhsFMDfp9JaMSmmziB/5UZM+LR2ihb5bN+4GA66OCIN4MO0xtDNI2aw=
+rd4ub71v44fci7qag1igjrs789l2so9j.tienda.	3600	in	nsec3	1 1 0 73 RMP02SQE0VH4M2HBH2P4BFHUSC57T8CI NS DS RRSIG
+rd4ub71v44fci7qag1igjrs789l2so9j.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260209083607 20260119073607 29319 tienda. MCg0YOKArAGE+GjnJE+TLli1d6Jyr0TQmSJD4PVSxgalL1AbfikZcIJQt463QRo+sAq2b54QX1Ro7+fCXPJoFNJ8EmdIWxYp3VMkCWUeTNmpKDZNmVoP/cmmK0SMW/Cfw/5hhnGc4pgfTBgd7QIvmaoUV0xvx+JRDSHN61CWXZk=
 real.tienda.	3600	in	ns	launch1.spaceship.net.
 real.tienda.	3600	in	ns	launch2.spaceship.net.
 realmadrid.tienda.	3600	in	ns	pdns80.ultradns.biz.
@@ -4702,7 +4673,7 @@ reinarata.tienda.	3600	in	ns	ns-cloud-a1.googledomains.com.
 reinarata.tienda.	3600	in	ns	ns-cloud-a2.googledomains.com.
 reinarata.tienda.	3600	in	ns	ns-cloud-a3.googledomains.com.
 reinarata.tienda.	3600	in	ns	ns-cloud-a4.googledomains.com.
-reinarata.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. sZlru5429bIuILQy0MuCHlGMzjnfANqkFiUwBKcK+5KEQH5gFN0MAIl5tQFnogCbMikfH02Mdi2iW0Eeprvyto9nlg0DPvv6xX71Ty9sS9BVvlY+aMPMYJhp4rY7z9jG5E0XfeRIjSlXW8Iw0QvOigz0wkdGJXRzVkXBkjcuf4Y=
+reinarata.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. dKyjylXKMQmRLlc2IOXeh2BlYd0sraC74WTUeIKQyy725yfY8GAJGPhr/cW//NYoTk52B+S/r5eih6xJtk5FgU6DdUR+RIVk6zmVCx4Y7wRjXP0EWRbGudbtBdTJxHNBgahuUN+uJjfJ8Jj/pGkewo2P2+Lf7e7uzNg3nZSdisg=
 relemat.tienda.	3600	in	ns	dns2.extrememicro.es.
 relemat.tienda.	3600	in	ns	dns3.extrememicro.es.
 reloj.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -4770,14 +4741,14 @@ river.tienda.	3600	in	ns	ns1.dns-redirect.com.
 river.tienda.	3600	in	ns	ns2.dns-redirect.com.
 rkqxu.tienda.	3600	in	ns	ns1.dyna-ns.net.
 rkqxu.tienda.	3600	in	ns	ns2.dyna-ns.net.
+rmp02sqe0vh4m2hbh2p4bfhusc57t8ci.tienda.	3600	in	nsec3	1 1 0 73 RPIGMPGRKNHTSERN1PUB116EB44JAQG7 NS DS RRSIG
+rmp02sqe0vh4m2hbh2p4bfhusc57t8ci.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260209083607 20260119073607 29319 tienda. iEthFs/vSOHher9nbbQGLL4g6StzSr934k2rndFW3Dl4FliLThWStrjb2UMaZulY4YWPERWZY28F2ksdgy4A2KRAUAeRDQx+WaK8ROZxDWSDSj+TLK/KS0knPw3RMDqagbKjfRkaFYvqkpbt1uHXL1HSlPowEE6CCzW/1oXQGoo=
 rnolqo.tienda.	3600	in	ns	ns1.dnsip.com.
 rnolqo.tienda.	3600	in	ns	ns2.dnsip.com.
 rnum.tienda.	3600	in	ns	ns59.domaincontrol.com.
 rnum.tienda.	3600	in	ns	ns60.domaincontrol.com.
 rnumt.tienda.	3600	in	ns	ns59.domaincontrol.com.
 rnumt.tienda.	3600	in	ns	ns60.domaincontrol.com.
-robot.tienda.	3600	in	ns	ns1-expired.sav.com.
-robot.tienda.	3600	in	ns	ns2-expired.sav.com.
 robota.tienda.	3600	in	ns	ns1.dondominio.com.
 robota.tienda.	3600	in	ns	ns2.dondominio.com.
 roca.tienda.	3600	in	ns	ns1.ascio.com.
@@ -4787,7 +4758,7 @@ roca.tienda.	3600	in	ns	ns4.ascio.com.
 ropaenlinea.tienda.	3600	in	ds	59335 13 2 913D39BDCEE706122EF1B1B1BB56E8B3C643193D9014BA2DBA339F66C4500E17
 ropaenlinea.tienda.	3600	in	ns	ns01.one.com.
 ropaenlinea.tienda.	3600	in	ns	ns02.one.com.
-ropaenlinea.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. jBU1QUFTSwMnoWD2e66TLlxdl7PyJSXvxrGSxPMITFQK0x4VZy6UUAf2KsQGZehKcPEi/ZhEuzJtj161rjndvDEsMauh15QrURZtVCIJPS6kgpNr1loM/ySILoKuSv66G0kfn0RxOxm8BD7/PXqWfsKZWIiw2+NhS42+9tBWHfg=
+ropaenlinea.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. S3oqLwOpXnGykdJw+X67+QNA6sH8EKawuU5H221bW2O4VBuS0YE3I+Vvs8Q0dEeE1/DUkcfeiTEJN4Tb9DGg+adDzg1+E/9Gr4kZinjlnWRzpYbJ3fkei+7QVShcfVlM4WCUB6a+/rhn+64dC2fvRUM0KE+Ea6sU8R5epX658iE=
 ropapadel.tienda.	3600	in	ns	ns1.dondominio.com.
 ropapadel.tienda.	3600	in	ns	ns2.dondominio.com.
 rotulista.tienda.	3600	in	ds	31453 14 2 122706CC849124CA32367A43A61DBB53D949CDE2FA9300F905B2D250AD7F91D5
@@ -4796,7 +4767,7 @@ rotulista.tienda.	3600	in	ns	ns2.cdmon.net.
 rotulista.tienda.	3600	in	ns	ns3.cdmon.net.
 rotulista.tienda.	3600	in	ns	ns4.cdmondns-01.org.
 rotulista.tienda.	3600	in	ns	ns5.cdmondns-01.com.
-rotulista.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. EbU3Ns0oDgXnE/zTikrEDQ7+ZmS70XsZ9FOgpcfvw1H+TKLCT9HC1Xjf6pokag/+Y9XnduYvJBGV98Z2cJBwcSkVM/PlRBZQLriIYloLFVHlUUJZHolxDOsQCgcS+hL07LXTNDVmy19YsSNFMZTp6qToO1pHvEyAQvH2J9sG+Fw=
+rotulista.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. MJxP+5VZnPt2EX6J06iEMoACbLjK1mXjnXf+carmT/JjdPADGZWZOPRXA4I6ZrHiW+4Zw8al/8VBMsoLnp/5VAQ9/2C8azeI8WwPwJ/hYUg8l/OvK9vB20rFFkC5ZWaeUmR6KuvCuf4BweOGLG9Bqpt1ZRElGhtKyiDCHjDwMM8=
 rotulos.tienda.	3600	in	ns	ns2.dondominio.com.
 rotulos.tienda.	3600	in	ns	ns9.dondominio.com.
 rotulosluminosos.tienda.	3600	in	ns	ns2.dondominio.com.
@@ -4806,7 +4777,7 @@ roxadouro.tienda.	3600	in	ns	ns2.gestiondecuenta.com.
 roxadouro.tienda.	3600	in	ns	ns3.gestiondecuenta.com.
 roxadouro.tienda.	3600	in	ns	ns4.gestiondecuenta.com.
 rpigmpgrknhtsern1pub116eb44jaqg7.tienda.	3600	in	nsec3	1 1 0 73 T61ASMLG4MDLVPRU501GKM36J2PUNDG9 NS DS RRSIG
-rpigmpgrknhtsern1pub116eb44jaqg7.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. szFSOzlYgEmfNbmTULpbpWtAQ0IINEGfhd11KwBj+jwTlIur5qPpzYVYej9BoZ1JIO7mU/C65fn9f7hPnIcb6hftPR5CJ/NwRl/GP2X0JDM5b+7xKB7e03xHeWhagQ1xuk5TIj8TQYrnzQ77aIbLzw3yhxFFdKc5aKNa0jELTh0=
+rpigmpgrknhtsern1pub116eb44jaqg7.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. mxgaMqH+jOb6ZcGoZ3SoNiuYlnGY89/mQpp6jH3O3vwj2nCjCjQ+v6PzEKUO8Bv6BcuHngKeYJU7RQMvoGYvVWqtzlTk+PfHnhFqeCiH2dp/42D7RCIuRb1Nh1ZUtG+N1wZUd18ZesEOzSyAfDdXquRSLaKToQup26EQ56fyp+k=
 rtc.tienda.	3600	in	ns	ns1.hover.com.
 rtc.tienda.	3600	in	ns	ns2.hover.com.
 ruchey.tienda.	3600	in	ns	dns1.interdominios.com.
@@ -4845,7 +4816,7 @@ salamanca.tienda.	3600	in	ns	ns2.dns-parking.com.
 saldos.tienda.	3600	in	ds	32912 8 2 59782DEEE9B42355DFFFC9839F94DB1FB1EE5CD8C5F3320B63FEBE6FDA0B6C2B
 saldos.tienda.	3600	in	ns	dns102.ovh.net.
 saldos.tienda.	3600	in	ns	ns102.ovh.net.
-saldos.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. IDGBgOeECEARieAiHV9uCEglTQj68Rdz9fx51MiHVPV4VrS615J9Q6dgq6bmuzGLdSBGDZm3mKrxkjGG40b8x3UUyJ1I5/j2I4sciAZHZxGobK6tVtTyu+5vDAj6SY/FzJfDfTj1XWesDrFiDeBnPIK8QZ24VflJCXC0EYbYhE8=
+saldos.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. IHr9DnuHydNiIqzU/i9+y6FZqxISg5HnI9ShPKFrifupPgj1ItoUcio2aAOjvCCcmBBQ7knJw94N3NjG8qtFevN/Yfzn4nVinuNNrQZbkYCdZCjKImv+zGlqBi4pNZv76AIxNBivMW2L21cUe3PkE1YvnmQf0UbjawH+2c7TrWk=
 salo.tienda.	3600	in	ns	ns1.codeplesk.com.
 salo.tienda.	3600	in	ns	ns2.codeplesk.com.
 salsa.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -4928,8 +4899,8 @@ segurosbaratos.tienda.	3600	in	ns	ns1.bodis.com.
 segurosbaratos.tienda.	3600	in	ns	ns2.bodis.com.
 selbamodni.tienda.	3600	in	ns	ns1.dondominio.com.
 selbamodni.tienda.	3600	in	ns	ns2.dondominio.com.
-seo.tienda.	3600	in	ns	ns61.domaincontrol.com.
-seo.tienda.	3600	in	ns	ns62.domaincontrol.com.
+semillasfrescas.tienda.	3600	in	ns	ns1.dondominio.com.
+semillasfrescas.tienda.	3600	in	ns	ns2.dondominio.com.
 serena.tienda.	3600	in	ns	joan.ns.cloudflare.com.
 serena.tienda.	3600	in	ns	todd.ns.cloudflare.com.
 serenior.tienda.	3600	in	ns	ns1.systemdns.com.
@@ -4944,7 +4915,7 @@ servimatic.tienda.	3600	in	ns	ns4.piensasolutions.com.
 seur.tienda.	3600	in	ds	46605 13 2 A5A6F34580578E4A2BA0B10032C3E4C3AC55F8E2600CE8BA16078B39E5CCE266
 seur.tienda.	3600	in	ns	dns1.nominalia.com.
 seur.tienda.	3600	in	ns	dns2.nominalia.com.
-seur.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. kg62uMlmH9b3T+fsR6cDFIsKWCx4lnrFp1h3d7IkgVei3W4imNVGV2JbtuU9N5QbaNgas/yRPzIz10u02Lqsa18EGSJIyLDqcLuyeE4BrQBhvr7p1+37Ay6fmnO5P6NP44+Q3Qimby6NpIkfnosaHKqKCwV0hRRG/dHWBQXxeR0=
+seur.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. HPn1FwWBEGqqLUlQj/C0dgJ4K/3np84sclsk57ylhm84B29e3HDDX0evKjaGSC8BOkJosa6F/wFJtywj0wrMWmUq/1ErGbOFOCYYWKaKHjQCildXa3BTTrzKpDdpBduljjCpS6ILf0xDT9A+VbWcnQUe1ONLJnDnrm4X7Ei2vMc=
 sevilla.tienda.	3600	in	ns	ns1.dns-parking.com.
 sevilla.tienda.	3600	in	ns	ns2.dns-parking.com.
 sevilla2029.tienda.	3600	in	ns	docks18.rzone.de.
@@ -5046,10 +5017,13 @@ skqlu.tienda.	3600	in	ns	ns1.dyna-ns.net.
 skqlu.tienda.	3600	in	ns	ns2.dyna-ns.net.
 skwta.tienda.	3600	in	ns	n1.xundns.com.
 skwta.tienda.	3600	in	ns	n2.xundns.com.
-smart.tienda.	3600	in	ns	ns1.dyna-ns.net.
-smart.tienda.	3600	in	ns	ns2.dyna-ns.net.
+smart.tienda.	3600	in	ns	ns1.afterniccom.
+smart.tienda.	3600	in	ns	ns2.afternic.com.
+smart.tienda.	3600	in	ns	verification-bgl67h68kkqpvttk4dc2xr.ns101.verify.hn.
 smartbuy.tienda.	3600	in	ns	ns1.donweb.com.
 smartbuy.tienda.	3600	in	ns	ns2.donweb.com.
+smartech.tienda.	3600	in	ns	dell.ns.cloudflare.com.
+smartech.tienda.	3600	in	ns	lou.ns.cloudflare.com.
 smartenergies.tienda.	3600	in	ns	dns39.servidoresdns.net.
 smartenergies.tienda.	3600	in	ns	dns40.servidoresdns.net.
 smartphones.tienda.	3600	in	ns	ns1035.banahosting.com.
@@ -5079,7 +5053,7 @@ sofiadark.tienda.	3600	in	ns	ns2.dns-parking.com.
 softwarepuericultura.tienda.	3600	in	ds	15627 13 2 BCB0D418E66AA4391CA3C68304D94423A2FE694EF5E6FA075AA6501CD84B9479
 softwarepuericultura.tienda.	3600	in	ns	dns1.nominalia.com.
 softwarepuericultura.tienda.	3600	in	ns	dns2.nominalia.com.
-softwarepuericultura.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. hwL4Uc9bTioHhjXDuzx7UQOar/y4dOYKLicHvW1340Z+TuhPph+8wmxnNyqR7Ql6440wSiTInU/AuZ1y/3rn5hrVCxOL76U8rd9wqaDR4IpNNDiocAX7XlPXtsKqNu30fl5xgcbqdWZzxLlQU62cu7Ngml/OOmPz2WIhWjtgKwo=
+softwarepuericultura.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. QTLMGC6N6B0g5fG6WKYq/xkFqIEcqaYKtc9DK8W96J7j4tqI7qDcCCfBjq3JiVgm0v769MbWrPrik4jnwEi/Gx6ZtLGeTUQDDdD0YetzMaARnOkbgkdSdciIR/7mhzSkQKTJwJzfYtZqbhx4qcvCmZaNe73UWjpP5cs9dl1OA3Y=
 solarium.tienda.	3600	in	ns	ns15.piensasolutions.com.
 solarium.tienda.	3600	in	ns	ns16.piensasolutions.com.
 solariums.tienda.	3600	in	ns	ns15.piensasolutions.com.
@@ -5096,8 +5070,6 @@ somosdiferentes.tienda.	3600	in	ns	meg.ns.cloudflare.com.
 somosdiferentes.tienda.	3600	in	ns	zeus.ns.cloudflare.com.
 somosla.tienda.	3600	in	ns	dns1.namecheaphosting.com.
 somosla.tienda.	3600	in	ns	dns2.namecheaphosting.com.
-sonnyangel.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-sonnyangel.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 sonoma-cutrer.tienda.	3600	in	ns	ns35.worldnic.com.
 sonoma-cutrer.tienda.	3600	in	ns	ns36.worldnic.com.
 sorli.tienda.	3600	in	ns	dns27.servidoresdns.net.
@@ -5134,8 +5106,9 @@ star-mini.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
 star-mini.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
 star-mini.tienda.	3600	in	ns	maceio.ns.porkbun.com.
 star-mini.tienda.	3600	in	ns	salvador.ns.porkbun.com.
-stargate.tienda.	3600	in	ns	dns1.abansys.net.
-stargate.tienda.	3600	in	ns	dns2.abansys.net.
+stargate.tienda.	3600	in	ns	ina1.registrar.eu.
+stargate.tienda.	3600	in	ns	ina2.registrar.eu.
+stargate.tienda.	3600	in	ns	ina3.registrar.eu.
 starmini.tienda.	3600	in	ns	algin.ns.cloudflare.com.
 starmini.tienda.	3600	in	ns	lorna.ns.cloudflare.com.
 starminilatam.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
@@ -5154,7 +5127,7 @@ stlighting.tienda.	3600	in	ns	ns-cloud-a1.googledomains.com.
 stlighting.tienda.	3600	in	ns	ns-cloud-a2.googledomains.com.
 stlighting.tienda.	3600	in	ns	ns-cloud-a3.googledomains.com.
 stlighting.tienda.	3600	in	ns	ns-cloud-a4.googledomains.com.
-stlighting.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. X8/J3urbtf6adn/PhX5t+m5fA4epijK6m7Nvj6CZDGGPtlfs1mUsRZff9CpzL4uzt3wOJZW+OZREem8jTurwonDieVQFY8L+3H9jGmLoXdcMQ2qKa09ILfNBXX9nkqDFYJex6HTKyG6YL2CfGjCeBgLTRhtL76RwL3W30W4ytKs=
+stlighting.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. MrOdug1dGTlizNnIzQB2Wi7ZT90cweFLbw1ClUqmD3RPaRzgyqTwDGDoIwloBqWIe7emRiseLyZ9pND9/+xSlsSLZU5Ta1dvoqK35LJaNNiQUJoXXGKxLAnNU4GtUzbq1SNSTyuzid291M1eECJmP/bDq/JFm1D2RHdChkI1gu0=
 stocknestoficial.tienda.	3600	in	ns	ns1.dns-parking.com.
 stocknestoficial.tienda.	3600	in	ns	ns2.dns-parking.com.
 streamingcommunity.tienda.	3600	in	ns	brett.ns.cloudflare.com.
@@ -5191,8 +5164,6 @@ sunshine.tienda.	3600	in	ns	ns31.domaincontrol.com.
 sunshine.tienda.	3600	in	ns	ns32.domaincontrol.com.
 sunwin.tienda.	3600	in	ns	clark.ns.cloudflare.com.
 sunwin.tienda.	3600	in	ns	kinsley.ns.cloudflare.com.
-super.tienda.	3600	in	ns	may.ns.cloudflare.com.
-super.tienda.	3600	in	ns	tom.ns.cloudflare.com.
 superalimentos.tienda.	3600	in	a	3.93.15.27
 superalimentos.tienda.	3600	in	ns	ec2-44-216-103-50.compute-1.aamazonaws.com.
 superalimentos.tienda.	3600	in	ns	ec2-44-216-103-50.compute-1.amazonaws.com.
@@ -5264,7 +5235,7 @@ systran.tienda.	3600	in	ns	ns-372.awsdns-46.com.
 sywxf.tienda.	3600	in	ns	n1.xundns.com.
 sywxf.tienda.	3600	in	ns	n2.xundns.com.
 t61asmlg4mdlvpru501gkm36j2pundg9.tienda.	3600	in	nsec3	1 1 0 73 TFA43VURPGNV5L05BST0DO8A6A37Q15T NS DS RRSIG
-t61asmlg4mdlvpru501gkm36j2pundg9.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. Men0ic0o3F0a9cLAas414mDZ+oYlpm94d22wRcbMytQ82J/kIr4plgKPleCDA2NuR70wNK0vozs6BOcvTFJcwQPUKc5NuJM7eS3+W+p/Uv8R73fPYTpGDZB19yeCmOFpJ15n0W/bTeiFDcNjFxjQmOulVPSsrUE6uyrodLDKrAw=
+t61asmlg4mdlvpru501gkm36j2pundg9.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. ngy8/MPGab67PQmvrOIb/cS9ZZu1YtvVOOcuV7wiUC260wi4tm1yNQ7yzuVJK5fgW6WWMxf3f4GjWbglzw9QNTxgkVY4zDwKLNwu6pCl+RfH1wXZ9kse5pBJEnLDY+uUWESVNm5JY3m6Y5i8aI1xDfQA0j/ElDE6b/Q+BArM8bs=
 t7company.tienda.	3600	in	ns	docks15.rzone.de.
 t7company.tienda.	3600	in	ns	shades16.rzone.de.
 tableta.tienda.	3600	in	ns	nsgbr.comlaude.co.uk.
@@ -5283,7 +5254,7 @@ takeaway.tienda.	3600	in	ns	ns1.cdmon.net.
 takeaway.tienda.	3600	in	ns	ns2.cdmon.net.
 takeaway.tienda.	3600	in	ns	ns3.cdmon.net.
 takeaway.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-takeaway.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. gOvQ1mrtf8llmYmsSNBNqKw5gH86UoH127H4hWl7/uhvuEkx7mtlpoc9vEEv6V5eKoLNmq8mOKODGSs7brW+z//LjkXxYt0ZJHNmcFSrphV9sWXzzLcf82diOVtHZFsDi0yPaugktNW6/QRAjHcbgCGxCM945qRdthFTkz8u5eA=
+takeaway.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. pVNWvehdW/ubgQSsU0mZP92cdB077AVp0BufS07yFs1ob4DhYqjIbMtT/zhZx9rHFW6KctUeIuLrWp+wW77d7Ri+fY8GLxa7DFG26u7zrkQ6i6Zt2PMnHwzzcVF6gag1Pk9rILEiox1CgVUv3ZudyEOtG4V11ZgyDlw1GmVdjnU=
 tallercastillo.tienda.	3600	in	ns	dns1.namecheaphosting.com.
 tallercastillo.tienda.	3600	in	ns	dns2.namecheaphosting.com.
 talyt.tienda.	3600	in	ns	ns1.dyna-ns.net.
@@ -5316,6 +5287,8 @@ tdr.tienda.	3600	in	ns	ns-1385.awsdns-45.org.
 tdr.tienda.	3600	in	ns	ns-1884.awsdns-43.co.uk.
 tdr.tienda.	3600	in	ns	ns-453.awsdns-56.com.
 tdr.tienda.	3600	in	ns	ns-599.awsdns-10.net.
+teamo.tienda.	3600	in	ns	ns1.dyna-ns.net.
+teamo.tienda.	3600	in	ns	ns2.dyna-ns.net.
 tec.tienda.	3600	in	ns	ns01.trademarkarea.com.
 tec.tienda.	3600	in	ns	ns02.trademarkarea.com.
 tec.tienda.	3600	in	ns	ns03.trademarkarea.com.
@@ -5330,7 +5303,7 @@ tecnolite.tienda.	3600	in	ns	ns-cloud-b1.googledomains.com.
 tecnolite.tienda.	3600	in	ns	ns-cloud-b2.googledomains.com.
 tecnolite.tienda.	3600	in	ns	ns-cloud-b3.googledomains.com.
 tecnolite.tienda.	3600	in	ns	ns-cloud-b4.googledomains.com.
-tecnolite.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. E+8BqDemvNDzSiZiVFxQDQ4+/54jXTcufc6toxulu+Fc32watilIqfs4BH6TaiYODdx3yYR5d//L4MGY9uixKab0gm0xmv2KW1UjLAGFQb8QHs0XQDKmSeFtL6uOIfGjK7n5KVay73LKgcxJAy7YuqxKRNX0+BTEmTMKsfvyXsk=
+tecnolite.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. MscT8Z55GHvXBlCAVmCdVdfEURUaoCOn/J7ugib3PA+P/mFH4Rf4eHBEQ8zVgKLNXRmyiIsJF9vXkRAcU31D+4UYlS16mnx9YUlwLQefAQpr4hf3JlJpiIzZUkfNT4XkCfJ0cmprSbwoVsZUjb8AmO1iZ/spdNiesk/yG1xSHus=
 tejanos.tienda.	3600	in	ns	ns1.uniregistrymarket.link.
 tejanos.tienda.	3600	in	ns	ns2.uniregistrymarket.link.
 telcel.tienda.	3600	in	ns	dns01.amigokit.com.
@@ -5371,7 +5344,7 @@ testoultra.tienda.	3600	in	ns	ns-2022.awsdns-60.co.uk.
 testoultra.tienda.	3600	in	ns	ns-230.awsdns-28.com.
 testoultra.tienda.	3600	in	ns	ns-530.awsdns-02.net.
 tfa43vurpgnv5l05bst0do8a6a37q15t.tienda.	3600	in	nsec3	1 1 0 73 U70VESI2HB4NOLRJAGGGH86JR9PCNERO NS DS RRSIG
-tfa43vurpgnv5l05bst0do8a6a37q15t.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. OG+zGSX2hLzSR9UF9TstU/78tLXlAEtKXJqcg7VQ5t454Mff9yViy7z81mGI3ly6ALe7FBH/mM8JETbxC29f1ejj9IUWhinIZgZupQodxKkUNrUommEAytC8b1XlH/I2hY0ewstKn1+Ao2Ctgn/PiVe81PtMjRDUX6Gbg0DZrr0=
+tfa43vurpgnv5l05bst0do8a6a37q15t.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. Gidp96v2+62+sLIoeSAqa9SXe8f4uNF/79hjCV2qD6Gdfh7pO7IUiBq2OBIh0xdpgpRAk+SVLv0/m45bzSRfiqX/b10JRUKifQeXnn9lKotsJ96++TU4PSuOKUaYwSHyfNm5b+Ml2OPzC9UBbjjd07TIbAj0/nwHyHE0uTZzS3o=
 tggqg.tienda.	3600	in	ns	n1.xundns.com.
 tggqg.tienda.	3600	in	ns	n2.xundns.com.
 thabet.tienda.	3600	in	ns	dimitris.ns.cloudflare.com.
@@ -5380,8 +5353,8 @@ the.tienda.	3600	in	ns	curitiba.ns.porkbun.com.
 the.tienda.	3600	in	ns	fortaleza.ns.porkbun.com.
 the.tienda.	3600	in	ns	maceio.ns.porkbun.com.
 the.tienda.	3600	in	ns	salvador.ns.porkbun.com.
-thechampionsburger.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-thechampionsburger.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
+thechampionsburger.tienda.	3600	in	ns	ns1.dondominio.com.
+thechampionsburger.tienda.	3600	in	ns	ns2.dondominio.com.
 theessential.tienda.	3600	in	ns	ns1.dns-redirect.com.
 theessential.tienda.	3600	in	ns	ns2.dns-redirect.com.
 theiqcollection.tienda.	3600	in	ns	ns1.ascio.com.
@@ -5405,9 +5378,11 @@ tiante.tienda.	3600	in	ns	ns8506.hostgator.com.
 ticketbai.tienda.	3600	in	ds	32972 8 2 410F2388CB3A953B59C3EC8F6E6CC8DA0B9B87B48222505E9A218805DB3705C8
 ticketbai.tienda.	3600	in	ns	dns101.ovh.net.
 ticketbai.tienda.	3600	in	ns	ns101.ovh.net.
-ticketbai.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. GJxQ/AF6hRZwnKI/2xmScZxs0J3sL7qsSX4nRxtrIARcGiYL7wKM+L6v1LWR6n1v50YEvn9nkfiYRM8BbbQIzmE+cmyqWJYCDTM7TO2KC2iHDvqlaVZmL8Ieu/5TBl0xy+xJZHLMzSkx7U1+AKHhBmDJk2ngefspluS5jQhzTAY=
+ticketbai.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. lUJPB2Vs+amJlAJAJeMZOHchAPz2+reOWEOwXr0SfTavIUbO6NqbNiHW/eMKVvlW3CCXtOmWQuCBS2lUtEwz8WsEuQCC269K8AfjohXqrXZdUGr6tJ2eRirYSKciMSlKHFb0QpzSov1Ul8FpffRCgEUSmd9H4yr1oQTBz8htp+k=
+ticmark.tienda.	3600	in	ns	ns1.dondominio.com.
+ticmark.tienda.	3600	in	ns	ns2.dondominio.com.
 tienda.	3600	in	dnskey	256 3 8 AwEAAbS69tyclHpg6Kzx/wrnqCqtgHBMSBHY0ximWXVxFMb6UgUQAUdmI2txSIFo8M/xR+zAchVdB6cJ8XKeWjZxnIAAlL6873B/sYltrPSSoQ8ep9WTr4TKIGdDwwVdRSBvhxUOEgnvZWhJO8s1alyT4epwSOSU7UyaTMElc1ot6Xif
-tienda.	3600	in	dnskey	256 3 8 AwEAAbtN0Cs+Yayil9+2zm/gFfXFW9nXtNq2nAO4tCXPosm7USvxxiIZEGGkQj27rQAy4Uw/m/lnCBItnBvD8QvBU5A5KWdDJ9DyH3fT8NAlmeXqF+DR8gT5N3yK4XLKO92FlY4RyVcsF+SXvcr9m2Qv4oxV876OmRmdZQR8VTCNg5uF
+tienda.	3600	in	dnskey	256 3 8 AwEAAcZqo6ISaZtc8xvxjVUuLAsu3Jxc/uRemV8mPljxGJigGFdqkaMgY7Zsfb3QReqY08vHw8YUK6kocnDZE+6B8baRhpm3JLRoijrdP0S4Y/+pJ65yjq9Ek7Yzw8oZZd8QHM6PfGeoh9I7UcM+WegxKnrGnujfzNs/toAgYyR/bqfD
 tienda.	3600	in	dnskey	257 3 8 AwEAAb/N+VlH3p96Ov4vFdGnQq1NoPqlQ/4BT1wqZc+C6BROqRQDNZJHkjzbXMHlE9SRTo4Y6Rif6yULxDcQEJ9g1DBjN4WyJNjp8GwtPf29sLkFnWRuaCiRIwz3LVwd15cLysCSzqtDs/hhp9R4BB/gwqau9G3tN9QMP2jVJhZLLudCXI7i9jFjYapFVus/A5G2/0NDt+wy0Qrf2L38t++P8s88pJs8o6hiEPidaDTt/lvX/S0TOuCTpZ3nAXNQXg6IpzrgHukfq/soq5Q7BHI+VnY/ajS6qCA1wqFYXmX0ZrJmGpBvdBIShMzhFIVavpPJgnckeSRne1NAitMDtF8OPEk=
 tienda.	3600	in	ns	v0n0.nic.tienda.
 tienda.	3600	in	ns	v0n1.nic.tienda.
@@ -5416,10 +5391,10 @@ tienda.	3600	in	ns	v0n3.nic.tienda.
 tienda.	3600	in	ns	v2n0.nic.tienda.
 tienda.	3600	in	ns	v2n1.nic.tienda.
 tienda.	3600	in	nsec3param	1 0 0 73
-tienda.	3600	in	rrsig	DNSKEY 8 1 3600 20260122160134 20260101150134 18877 tienda. a43M6i9NHfBasuhZ8+cekNj96rEROoj7jfbz22r/jDK4eMxiXyVaDAVztdotjhoSMfeph3myur9WhbKGUX5hYYl7heCG3/vIiRbKsbOUu62QEK/vF/oLOS3GNgQ0XSoZVekMk2Z+huVlEOgyDYdEJavyFy1cAgBHWux+d6Ye0HUZ0kikLwQD5AsVdi0gRHrnc5GCtqPe/4RUoVwFDLTEua1UKkIMzN4nfGNEGfc94M3iH1p8HHwEAbdpOau+q8n6NDUUgTbzmVkjO7EAFoAWsbMTRy51h5ebYbs//v3eC3jinmaofYMzC9NM0L/RE8j8qw3Lu7W49ma5X8YYL3OICQ==
-tienda.	3600	in	rrsig	NS 8 1 3600 20260122160134 20260101150134 29319 tienda. M1qbzEff0Q+NJXNHg2fXJq1BTR2R6WaLC1+JFTX22zqMUFzltSP9ITYnXvHLidiJwysjchscFSZv0HDevviUoaA3QNLDwlKyzVRS634P2YcPzSYXprPQ5MOzXfpzqWGe4kEbmr397Z6ZClLtAYjO0Bp746SrOsUcY2lUychhkmY=
-tienda.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260122160134 20260101150134 29319 tienda. psYGX2WsSbrO7MtNwDP+0lkYtmpx/pYQd0n7SB3CD2rvhbkRUT+Plsldx0mBrrxCm6RYo2OayMdewqvRvQ3b4ui60NAIxWSlpsEuMtYQnwX9K9ZBiGbbUisJRWOiZrnF5eH8bOMYJjpEx9xkvGLHuoOGKQ5vgiNYWhS8D928qqM=
-tienda.	3600	in	rrsig	SOA 8 1 3600 20260127012457 20260106002457 29319 tienda. LkVXIdt5BLs+34ElmonOE2oPy2zXBl1Z1xw4/pL/HtpdvQze5IAgfcdehUON48H6z71TUjdNlFRg7sxSJK2E8uXuAa/htfpMgIdZbfEVO132KD7TdmqNss7eIPqVjmISkQyhGm2jaYM7AD/Z5gTMgcjZtdpCqLrCN9yUd1Yw/4g=
+tienda.	3600	in	rrsig	DNSKEY 8 1 3600 20260207160115 20260117150115 18877 tienda. kCbsDZDjWjhbxQf1n9pZQOKoz6iyChrfJMZJrmqTYa6HnsqyOnDkmZCWOJehvDgo+fxhjbyzs3lwbFoa5eZaBG5sRXUvh1Qm6aXBrX5GkKwd9VQ1uO4RQcEaMgOIh+5z7k1rzbLz75wY2iORGh9P2yoaQmyMB9KOkwW15U+8LSNMArcC4HyvKqoCUGsLfYIiqSSNxlTZ3aZA+nuHVYot+cGsLzG2SuPf3z2vPjACT9mi5M7euxe5Uy/PeDV6LwBYHqcJcRtSzv8w+WGTUNnhtcBJH0DdhJBpPoaV5pDJlM1VVTflaLwWQm+DmFD9+PQjOwTHq/o+aBAjuAkOXLUkfg==
+tienda.	3600	in	rrsig	NS 8 1 3600 20260207160115 20260117150115 29319 tienda. VKandBDACk5fdptxVGM1MIqqdHMbefLjJ7lCemi8kLj82L5fuz3PILXtQMT6PvUobRENcqSSFRC31kJHYXd9/35ll1n9EcMNfnJhIOzcN4AUdGZPElOg0b1OO1NbKhL11m2TNoHOpZqTMSfaH2F/gMu1hKzXUqfm4dNj3NcQ1nw=
+tienda.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260207160115 20260117150115 29319 tienda. VgQ8t9DtAe4/QWou6L7oHg1n+/BsD52R2yfB0nsyXVNeFnGP8eBvLhur3PG04Af0Zhwy/qmCR7xwfF/Ou33UdJUGNQmNlwkGUsxOfBa8cylFBABOtYd4RT6OEDbyOeQClRvUm7NJ6m9xhi7Ff6N0nmChmyQnTMJlMY+J0c2kaEw=
+tienda.	3600	in	rrsig	SOA 8 1 3600 20260215012900 20260125002900 29319 tienda. myTV4RO+hmWbWnssUt+G7jpaMg4hysENJ9gHbdY+8z6LyOKATVL5bcXtUrbLm5oOZD2Wa6JgnM7VLVuWff1zyf1TPVNBxEeqr4SIFqSIVpe/eWfJLPpc5dJ9RgFhJvqvxT4LMU9jlRisUmWYmUM2DhRwuQL0S1ZdcDZnjsT795M=
 tienda.tienda.	3600	in	ns	ns1.dyna-ns.net.
 tienda.tienda.	3600	in	ns	ns2.dyna-ns.net.
 tiendamaterialmedico.tienda.	3600	in	ns	ns19.piensasolutions.com.
@@ -5482,6 +5457,8 @@ todo.tienda.	3600	in	ns	ns-1184.awsdns-20.org.
 todo.tienda.	3600	in	ns	ns-1766.awsdns-28.co.uk.
 todo.tienda.	3600	in	ns	ns-398.awsdns-49.com.
 todo.tienda.	3600	in	ns	ns-739.awsdns-28.net.
+todohogaroutlet.tienda.	3600	in	ns	ns1.dondominio.com.
+todohogaroutlet.tienda.	3600	in	ns	ns2.dondominio.com.
 todomuebles.tienda.	3600	in	ns	dns11.servidoresdns.net.
 todomuebles.tienda.	3600	in	ns	dns12.servidoresdns.net.
 toldos.tienda.	3600	in	ns	ns1.dondominio.com.
@@ -5501,7 +5478,7 @@ toppik.tienda.	3600	in	ds	25966 8 2 B0AFFF12B7489AFFE5078D1A34EE6341A23404B2FA90
 toppik.tienda.	3600	in	ns	ns1.openprovider.nl.
 toppik.tienda.	3600	in	ns	ns2.openprovider.be.
 toppik.tienda.	3600	in	ns	ns3.openprovider.eu.
-toppik.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. khY9UrGVMtb/IIDqT0L7DJuRrKL9piomcVZX+0OAxFU4UY7Xk+W2agvuqvE9lTu+mPEJyGUOHJfBOolVvgvvF4PkxOEFflTPKQRaUFNlCqDbfqksBcIzTO6cymaHUhSPyD2xRWGXarFoMXcdo8GSttkagivRz2GNRM5EAoWqtEk=
+toppik.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. UtPAkr8p87oPfosTSEvKCGWh0HpK1lD/DZM0mqbWMnG2kht8qtzXfHodcfV7DdxCQCeFbAME6RTgkbeNcX2M2sUuHlfgh5e4eIv/V3gnuAbUI7mmoPZrx1jfuRqMhM09rw8sCMPzIA2Fs+fMTMfRhCmX87lK6olQe0exlWf5sz4=
 toro.tienda.	3600	in	ns	ns1.eurodns.com.
 toro.tienda.	3600	in	ns	ns2.eurodns.com.
 toro.tienda.	3600	in	ns	ns3.eurodns.com.
@@ -5545,7 +5522,7 @@ travllpperk.tienda.	3600	in	ns	ns2.dyna-ns.net.
 trazos.tienda.	3600	in	ds	2371 13 2 2475C578ACCC902787C32A8F9B5DC98D89B99B6AB97CA995F3A33254F20A35EA
 trazos.tienda.	3600	in	ns	eva.ns.cloudflare.com.
 trazos.tienda.	3600	in	ns	joel.ns.cloudflare.com.
-trazos.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. ejAsvNmAAumRXx+YMBRaGU1L6fKGANoCNx9e8IYco9/2bjcLmRUDP4T7V8zcSCiV7NvAJOPaf0O7vvPy3e4Q412sFKKyFdSmDaT5NDAK16Ccm2LfXGekotdqv/mqQyiy2lLY7CrS8s5xHWVUCMdpBCVW6Wuaxe28fQJzRglhX/0=
+trazos.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. Nm14CQKUCkv/zT2U7v/giiKf0hye97psPnmA2GLNHYOzu0VsdNm+5MWYei/s1jhYrTh9kPW7ANr2pNumYZDzn7KVUFYJA7SkhSq50xOOVMrSX1ItvtPLKeLuixAGZunWBAXK9i0bF+SFZyRP/6BVRGfEL5GkmQI2vwt1fS31/d4=
 trekking.tienda.	3600	in	ns	ns1.uniregistrymarket.link.
 trekking.tienda.	3600	in	ns	ns2.uniregistrymarket.link.
 trescantos.tienda.	3600	in	ns	dns1.interdominios.com.
@@ -5563,7 +5540,7 @@ trumprx.tienda.	3600	in	ns	ns1.cdmon.net.
 trumprx.tienda.	3600	in	ns	ns2.cdmon.net.
 trumprx.tienda.	3600	in	ns	ns3.cdmon.net.
 trumprx.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-trumprx.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. BrQFzykS8zd2Y3hlH2Wkj4CwtoESEgYlcWz8WEx1wUTrUorJWORFSnrT+sVb+QYC0mv0VJyJaMTZU19lVzDo5JAP5gBuHIqKIEPUfkCgxAXHEuPOaRauPqdWy8SHAaxGcY4VDJoc80isZyuIz5YoZiKooIhSIugj09QS6Ii9Y/Y=
+trumprx.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. Jg+tY1N1LSWcLWfcfkUGRAqW7mbCyO1VGnwYlxlSn8gCYm4F+ChiDKiyoc8dAH89Ab5XiNtKlicrKjCHTmfy2lLEejnDntJl04iwb8qZuFIXVP/xUarjwbeQGgT5kFUqVMA/BAV0/w6rQVGwGZZr/D32odeFlzXXYu3KkuNrBJo=
 tsg.tienda.	3600	in	ns	paige.ns.cloudflare.com.
 tsg.tienda.	3600	in	ns	stanley.ns.cloudflare.com.
 tssmv.tienda.	3600	in	ns	ns1.dyna-ns.net.
@@ -5598,8 +5575,6 @@ tumblr.tienda.	3600	in	ns	ns1.tumblr.com.
 tumblr.tienda.	3600	in	ns	ns2.tumblr.com.
 tumblr.tienda.	3600	in	ns	ns3.tumblr.com.
 tumblr.tienda.	3600	in	ns	ns4.tumblr.com.
-tuprimercasa.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-tuprimercasa.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 turbo.tienda.	3600	in	ns	ns1.it618.parklogic.com.
 turbo.tienda.	3600	in	ns	ns2.it618.parklogic.com.
 tuvino.tienda.	3600	in	ns	ns1021.ui-dns.biz.
@@ -5621,13 +5596,13 @@ txupinazo.tienda.	3600	in	ns	ns2.dondominio.com.
 txz.tienda.	3600	in	ns	ns37.domaincontrol.com.
 txz.tienda.	3600	in	ns	ns38.domaincontrol.com.
 u70vesi2hb4nolrjagggh86jr9pcnero.tienda.	3600	in	nsec3	1 1 0 73 UF9MVVFEVHU1HBIJUB44R1JG9VJHQAUS NS DS RRSIG
-u70vesi2hb4nolrjagggh86jr9pcnero.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. BFFlUwaP6pPdLE9bVOOSaP1jIQspSBo6svp32S2pFe6/9reHdfezVeltUjDx+9KR34vKrxZkQGWirtq58VxcGDfwofgqxaH2IOP0NPlzHXh7Jb6/O0f/6+JHr2tZqOPeJP5iux+ZXI/Vphwv1yXJzS9SNjlN3LX+0qkL2QQjvXA=
+u70vesi2hb4nolrjagggh86jr9pcnero.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. n9aV+WIeADCT/KCt1IH6CgrLHmtu2/eBCzNBGIqhmDh2XlTs3FzynWe5oW5QGJCaXHlENzv8UEd2E529uGYvYSQRfG73cL2IQi15pJL3RWyJZmzQ6bCSqYkhRJQa9Fpebq2JP4wZibdb55laYGQ50AvezGCGfCfkfHraRomQhak=
 ucsru.tienda.	3600	in	ns	n1.xundns.com.
 ucsru.tienda.	3600	in	ns	n2.xundns.com.
 uf9mvvfevhu1hbijub44r1jg9vjhqaus.tienda.	3600	in	nsec3	1 1 0 73 VH8VR50PFO3T7E9SDSHBNVK7TFJ76240 NS DS RRSIG
-uf9mvvfevhu1hbijub44r1jg9vjhqaus.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. NjdvJFVwsau58Z5iQg9Adm4no/0zdjtXGKJqU5fTABsyIjiD389QyuSL1mp835Ly5SPzeH5Yo9khd/Dw0Z0y7ZULizQHg97oN1dQwaMB/GG2ezQpuHDCRxtnt9fh89iKnN15xXhznmyaKwCpjjMXpe1uvMDd9OSQbWZB2pKScd4=
-ufabet.tienda.	3600	in	ns	ns1.hawkhost.com.
-ufabet.tienda.	3600	in	ns	ns2.hawkhost.com.
+uf9mvvfevhu1hbijub44r1jg9vjhqaus.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. WQxHqQDpRtDyAMYrtDZlCBvDw+3qhorskghNQCtjae6iBmnQKhNriPP8l36YkKjM5qMHGBSnXeZCnJ+W5zPp3Tf0bSGX/8W0uqjjuRFFT3qveA6e89cN3MCCseBpp98CcPlo/3TAHrySrI11bOireSk3D7FBo7+Bcnq6lOsmGaM=
+ufabet.tienda.	3600	in	ns	ns01.domaincontrol.com.
+ufabet.tienda.	3600	in	ns	ns02.domaincontrol.com.
 ufabet168.tienda.	3600	in	ns	dns1.registrar-servers.com.
 ufabet168.tienda.	3600	in	ns	dns2.registrar-servers.com.
 ugfzb.tienda.	3600	in	ns	n1.xundns.com.
@@ -5669,13 +5644,13 @@ unix.tienda.	3600	in	ns	ns1.cdmon.net.
 unix.tienda.	3600	in	ns	ns2.cdmon.net.
 unix.tienda.	3600	in	ns	ns3.cdmon.net.
 unix.tienda.	3600	in	ns	ns4.cdmondns-01.org.
-unix.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. UwFf3uhF3yqfq19cjgV1+P9pr0g0MF8AHAFp6WRETRFeLtC1aSMOzfHEvxkmZoMrMciZj5vO2qMuyWcteRYXYw/R+9N5fYMU0bAeuugENwFvBSKMPXI+mxu6WmA+tP4C6VjTXigDiSNsUhQalNE/IHc1QCO1uIe9chCSLV4QOl8=
+unix.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. PIMiJbdmgATbxKBO5zct+GsJwEbYtTxgLIvbBQgS18mGJdAt81IWBTBtH5ur/po2gMrMdbcT1OVqz5IH6Tg4hQJtf6G591wGC9CH33rqLga7UKZyUdeFjbWoEZoLGwxouhdO3JV/4m7Hns+RwJaCXIeMdqiLNVrrzSj6yqHVQkY=
 upimk.tienda.	3600	in	ns	ns1.dyna-ns.net.
 upimk.tienda.	3600	in	ns	ns2.dyna-ns.net.
 upmarket.tienda.	3600	in	ds	35594 13 2 9406F5878C383BF2F4E0E8BABB22F0060471D13D99FF4B3A136FCF066DA94D85
 upmarket.tienda.	3600	in	ns	ns3.epik.com.
 upmarket.tienda.	3600	in	ns	ns4.epik.com.
-upmarket.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. F2v8TCt4P1h3PUk12qF9LlC5XB32Zg0DqHnSAMLPS1ruYdsyp/n5IT8QpFAj+NPfmh1mxRjcxaDubIpQCpXXTR2/RBgtl073wlbzGz4mCnjl+bNjo9x/MeIsLFsYBr7G21DYbV+b1bzV37IfYGHjSD+6atxVd5T7LiI+HMN9zzc=
+upmarket.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. bfuIGATPr/0RAd3kC/VoiWVHv+NAmzHt9NGtYXEA4baXlVq9ZUyLGRK3PkUZ22gpuwxWTr5J64IZfxbfzJam61uN2mMT6r1aXBXpl7Gd/ZzPCtKmjfEsPS5Z3xLnJnttQ3zGqHzTHsvwsT73bRHaxuXjE2O6Kow9PoTuM03vsa0=
 urbankitchen.tienda.	3600	in	ns	docks09.rzone.de.
 urbankitchen.tienda.	3600	in	ns	shades20.rzone.de.
 urbecom.tienda.	3600	in	ns	ns1.dondominio.com.
@@ -5800,7 +5775,7 @@ vfqnk.tienda.	3600	in	ns	n2.xundns.com.
 vg.tienda.	3600	in	ns	anna.ns.cloudflare.com.
 vg.tienda.	3600	in	ns	lou.ns.cloudflare.com.
 vh8vr50pfo3t7e9sdshbnvk7tfj76240.tienda.	3600	in	nsec3	1 1 0 73 VIQOQE1681V768VHG8KUDGCLH7LBA3UJ NS DS RRSIG
-vh8vr50pfo3t7e9sdshbnvk7tfj76240.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. QzYY67mp80mY37xVKkIHJzbBE1wXHZnK7Fhp2Yyzg+aGTWOC2kihDbv577LFq/R1XX3PLXL23oriagGFw6J04V5689hNmHn9JxSgN36MxCsIxhe2FpxyTymB7N4yynup0S9piLNPIfxoJxJyQf1Xm+ZWguQTAphiURmEqKi7st0=
+vh8vr50pfo3t7e9sdshbnvk7tfj76240.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. H/+OKPP6nltuSOyR3O91IC10rizVUIRWk3gesfKFIKJ/0IFs3iEm6lof2bj10OYWumuUotuViL1lNBd6g0x7NwY0ftKtrE0tyF1vLJHqmbZ5fxlPrxJCS8a+wpoH67TqgUewd8AbIwamwL29RXAOVTkvMCIuFy0zz3TPoYdksig=
 viajar.tienda.	3600	in	ns	ns.udag.de.
 viajar.tienda.	3600	in	ns	ns.udag.net.
 viajar.tienda.	3600	in	ns	ns.udag.org.
@@ -5810,8 +5785,8 @@ viajesbaratos.tienda.	3600	in	ns	ns1.bodis.com.
 viajesbaratos.tienda.	3600	in	ns	ns2.bodis.com.
 viamoda.tienda.	3600	in	ns	ns1.viamoda.ad.
 viamoda.tienda.	3600	in	ns	ns2.viamoda.ad.
-victoria.tienda.	3600	in	ns	ns1.dondominio.com.
-victoria.tienda.	3600	in	ns	ns2.dondominio.com.
+victoria.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+victoria.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 victoriasans.tienda.	3600	in	ns	docks14.rzone.de.
 victoriasans.tienda.	3600	in	ns	shades20.rzone.de.
 victoriasansciurana.tienda.	3600	in	ns	docks02.rzone.de.
@@ -5824,8 +5799,8 @@ video.tienda.	3600	in	ns	ns1.markmonitor.com.
 video.tienda.	3600	in	ns	ns2.markmonitor.com.
 vigo.tienda.	3600	in	ns	ns1.dns-parking.com.
 vigo.tienda.	3600	in	ns	ns2.dns-parking.com.
-vilma.tienda.	3600	in	ns	ns1.park-my-domain.net.
-vilma.tienda.	3600	in	ns	ns2.park-my-domain.net.
+vilma.tienda.	3600	in	ns	ns1.abovedomains.com.
+vilma.tienda.	3600	in	ns	ns2.abovedomains.com.
 viniltextil.tienda.	3600	in	ns	ns1064.ui-dns.de.
 viniltextil.tienda.	3600	in	ns	ns1067.ui-dns.biz.
 viniltextil.tienda.	3600	in	ns	ns1091.ui-dns.com.
@@ -5838,18 +5813,15 @@ vintavo.tienda.	3600	in	ns	ns.udag.de.
 vintavo.tienda.	3600	in	ns	ns.udag.net.
 vintavo.tienda.	3600	in	ns	ns.udag.org.
 viqoqe1681v768vhg8kudgclh7lba3uj.tienda.	3600	in	nsec3	1 1 0 73 0DC9IBP9HIQDUKMF5GQHQLQ85RJ8FMRC NS DS RRSIG
-viqoqe1681v768vhg8kudgclh7lba3uj.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260122160134 20260101150134 29319 tienda. Y7XN+bs1OVb3Dm2cJO99S5PK9xyjaKGSDxiQV43K5vNKIC3hGqqiu7FMx6iGrtm+k2C9zNCD8QYpw4QFPQzerKWSl/KWAcQ88dWPehSPMqmYB5Yu6cLTJfVg1Vrj7kvwWKDiG53/DZXVDu2UK+XdTpcXQjkRTtvd9DEomBwyTVQ=
+viqoqe1681v768vhg8kudgclh7lba3uj.tienda.	3600	in	rrsig	NSEC3 8 2 3600 20260207160115 20260117150115 29319 tienda. CbgdsVnK9HYJG0W3WtxO47gl8ENRulGOUnQ/RL3vxB0zaSYwzL4Uy5bI97jnkyPf0ShX3SdHdZ0kKgHZMdeCLF48XQnav6Td6eqve5JN7tMZ8s2fLqO0hG3QK4o19X3pyHEQNDK5gqcOBb/KuA94cZHgDTh/oBOTpU919VflKSE=
 viraly.tienda.	3600	in	ns	ns1.dns-parking.com.
 viraly.tienda.	3600	in	ns	ns2.dns-parking.com.
 virtual.tienda.	3600	in	ns	ns15.domaincontrol.com.
 virtual.tienda.	3600	in	ns	ns16.domaincontrol.com.
 vistahermosa.tienda.	3600	in	ns	ns1.us167.siteground.us.
 vistahermosa.tienda.	3600	in	ns	ns2.us167.siteground.us.
-vitalalimentos.tienda.	3600	in	ns	dns1.name-services.com.
-vitalalimentos.tienda.	3600	in	ns	dns2.name-services.com.
-vitalalimentos.tienda.	3600	in	ns	dns3.name-services.com.
-vitalalimentos.tienda.	3600	in	ns	dns4.name-services.com.
-vitalalimentos.tienda.	3600	in	ns	dns5.name-services.com.
+vitalalimentos.tienda.	3600	in	ns	ns1.dnscentralmachine.cc.
+vitalalimentos.tienda.	3600	in	ns	ns2.dnscentralmachine.cc.
 vitamina.tienda.	3600	in	ns	ns15.domaincontrol.com.
 vitamina.tienda.	3600	in	ns	ns16.domaincontrol.com.
 vitanaturalis.tienda.	3600	in	ds	11858 13 2 FF57BAF9C77E06C1952FB4A6F4744D5891E45953E987C4E00F36E0F54BB10C18
@@ -5858,7 +5830,7 @@ vitanaturalis.tienda.	3600	in	ns	ns.keurigonline.com.
 vitanaturalis.tienda.	3600	in	ns	ns.keurigonline.eu.
 vitanaturalis.tienda.	3600	in	ns	ns.keurigonline.net.
 vitanaturalis.tienda.	3600	in	ns	ns.keurigonline.nl.
-vitanaturalis.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. HmxRE7vPwak3cnHbgzouo/erhbJCFxaYhBHMKdpFxDzeY6k3VDNPyYv0icSB5HqDLWdgj6kWVcUc61q9g2cRnOn08LVNEfwjNzH9Y3AA4zJ0GyBdn8RC4nqr6vBagxScpEb7a3LwesSQpefp6nkmOYXFSCpNRiXkDc/07qcEVOA=
+vitanaturalis.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. NQWiDblcRahlXu4DhgIuZKRFgbNLVSHQkPv2IYdwyf3pR7qlfkIrN+/b/J2RrYmmRsJwbf5u6B/kDN+nZ9G2zh27YKwt7atInvfNvfbjhioyGEffWrpLy+1zaaqDVcD+ezonVtvo+Qf09/qiE/JTTbuhUMLAPs8kTxbUVfG4ewI=
 vito.tienda.	3600	in	ns	ns17.domaincontrol.com.
 vito.tienda.	3600	in	ns	ns18.domaincontrol.com.
 viva.tienda.	3600	in	ds	12310 8 2 43B02D931B95936E4E8013AF13E3D8A91D096BECECC8A898DC78D24FE6037216
@@ -5866,7 +5838,7 @@ viva.tienda.	3600	in	ns	ns-cloud-b1.googledomains.com.
 viva.tienda.	3600	in	ns	ns-cloud-b2.googledomains.com.
 viva.tienda.	3600	in	ns	ns-cloud-b3.googledomains.com.
 viva.tienda.	3600	in	ns	ns-cloud-b4.googledomains.com.
-viva.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. XNiqzSK1C1DzTpcDeIs2q+e6CIAwL/N9WhJZsW7xBON+t2FWqXT2pX+l8ePd8l0cra/7kzQ+c+rJ4LFpBLlExQnQqtUI2qmEru6MZQO0YdRCW+f33yjfNCOjySPcVkRWrYdjb7XL1NPlESmdwecl0s7XTRlzkvBnVpPNTVcR+qQ=
+viva.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. qFZeZ8aM/wJ6/lzkgp8/rnUhEDvnMfqOapjPBdH7mA/xX7ErQLFXNp5HgojeJCG0kFs+NM7LMHEAa57R8AUVi5PRhwrngxFGaHfDvee6x0aLKcR6LGtQ82/ZRcktgQFsjUuiXW0SHM1M78oMOMNyyBYgCMHeCG4X6nne+pLnD5k=
 vivahogar.tienda.	3600	in	ns	ns35.domaincontrol.com.
 vivahogar.tienda.	3600	in	ns	ns36.domaincontrol.com.
 vivalavida.tienda.	3600	in	ns	ns65.domaincontrol.com.
@@ -5876,15 +5848,13 @@ vivavuela.tienda.	3600	in	ns	ns-cloud-d1.googledomains.com.
 vivavuela.tienda.	3600	in	ns	ns-cloud-d2.googledomains.com.
 vivavuela.tienda.	3600	in	ns	ns-cloud-d3.googledomains.com.
 vivavuela.tienda.	3600	in	ns	ns-cloud-d4.googledomains.com.
-vivavuela.tienda.	3600	in	rrsig	DS 8 2 3600 20260122160134 20260101150134 29319 tienda. BtiO/E/59nCJKgzTX7wt2FJrsoqkGRpigsaA4uycWcPmZTAZvkYCIEIBr7YHDzc+KPZGMztspU1TEwW9c+YgtTNyg1O4l5OkHK/8K/FODOONAo5eaRsIj5ysXuxdiPezYwKhxAwNxqOJ9AX+r/h/NL3xQv3U/tHqmPst1hMpfOQ=
+vivavuela.tienda.	3600	in	rrsig	DS 8 2 3600 20260207160115 20260117150115 29319 tienda. jIYgvgcpQW9yAZGkaPwuawnMkci1jPbwE6LPzvNpfgHFcPw13OXA7Ara2JmvNlCsvr3BsL3emdeTaDe0uxRfikic3SjRdCN6+EzkWxV7ysrqJ+QYOYCma3LBmSE+/kSRJG+axJaFxF+oiYGarm+i45egJvTVsaiN4SNZXmLnQRk=
 viveengrande.tienda.	3600	in	ns	ns1.verification-hold.dns-suspended.com.
 viveengrande.tienda.	3600	in	ns	ns2.verification-hold.dns-suspended.com.
 vjvmj.tienda.	3600	in	ns	ns1.dyna-ns.net.
 vjvmj.tienda.	3600	in	ns	ns2.dyna-ns.net.
 vkonl.tienda.	3600	in	ns	ns1.dyna-ns.net.
 vkonl.tienda.	3600	in	ns	ns2.dyna-ns.net.
-vmp.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-vmp.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 volcanic.tienda.	3600	in	ns	ns1.dns-parking.com.
 volcanic.tienda.	3600	in	ns	ns2.dns-parking.com.
 volcano.tienda.	3600	in	ns	ns1.dns-redirect.com.
@@ -6047,22 +6017,20 @@ xmlpn.tienda.	3600	in	ns	ns1.dyna-ns.net.
 xmlpn.tienda.	3600	in	ns	ns2.dyna-ns.net.
 xn--ensueos-8za.tienda.	3600	in	ns	ns1.dondominio.com.
 xn--ensueos-8za.tienda.	3600	in	ns	ns2.dondominio.com.
-xn--jersey-navideo-2nb.tienda.	3600	in	ns	ns1.dondominio.com.
-xn--jersey-navideo-2nb.tienda.	3600	in	ns	ns2.dondominio.com.
-xn--jerseynavideo-tkb.tienda.	3600	in	ns	ns1.dondominio.com.
-xn--jerseynavideo-tkb.tienda.	3600	in	ns	ns2.dondominio.com.
-xn--jerseys-navideos-kub.tienda.	3600	in	ns	ns1.dondominio.com.
-xn--jerseys-navideos-kub.tienda.	3600	in	ns	ns2.dondominio.com.
-xn--jerseysnavideos-brb.tienda.	3600	in	ns	ns1.dondominio.com.
-xn--jerseysnavideos-brb.tienda.	3600	in	ns	ns2.dondominio.com.
+xn--jersey-navideo-2nb.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+xn--jersey-navideo-2nb.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
+xn--jerseynavideo-tkb.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+xn--jerseynavideo-tkb.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
+xn--jerseys-navideos-kub.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+xn--jerseys-navideos-kub.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
+xn--jerseysnavideos-brb.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
+xn--jerseysnavideos-brb.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 xn--lea-8ma.tienda.	3600	in	ns	ns1.dondominio.com.
 xn--lea-8ma.tienda.	3600	in	ns	ns2.dondominio.com.
 xn--paranios-i3a.tienda.	3600	in	ns	ns.dinahosting.com.
 xn--paranios-i3a.tienda.	3600	in	ns	ns2.dinahosting.com.
 xn--paranios-i3a.tienda.	3600	in	ns	ns3.dinahosting.com.
 xn--paranios-i3a.tienda.	3600	in	ns	ns4.dinahosting.com.
-xn--saboresdespaa-tkb.tienda.	3600	in	ns	ns1.renewyourexpireddomain.com.
-xn--saboresdespaa-tkb.tienda.	3600	in	ns	ns2.renewyourexpireddomain.com.
 xooaw.tienda.	3600	in	ns	ns1.dns.com.
 xooaw.tienda.	3600	in	ns	ns2.dns.com.
 xoom.tienda.	3600	in	ns	ns1.markmonitor.com.
@@ -6134,8 +6102,8 @@ zam.tienda.	3600	in	ns	ns1.dns-parking.com.
 zam.tienda.	3600	in	ns	ns2.dns-parking.com.
 zantara.tienda.	3600	in	ns	ns1.dns-parking.com.
 zantara.tienda.	3600	in	ns	ns2.dns-parking.com.
-zantelo.tienda.	3600	in	ns	ns1.javyolabs.com.
-zantelo.tienda.	3600	in	ns	ns2.javyolabs.com.
+zantelo.tienda.	3600	in	ns	dns101.registrar-servers.com.
+zantelo.tienda.	3600	in	ns	dns102.registrar-servers.com.
 zapatillas.tienda.	3600	in	ns	ns1.dondominio.com.
 zapatillas.tienda.	3600	in	ns	ns2.dondominio.com.
 zapatillaspadel.tienda.	3600	in	ns	ns19.piensasolutions.com.
@@ -6191,4 +6159,4 @@ zupper.tienda.	3600	in	ns	dns1.registrar-servers.com.
 zupper.tienda.	3600	in	ns	dns2.registrar-servers.com.
 zvcxz.tienda.	3600	in	ns	n1.xundns.com.
 zvcxz.tienda.	3600	in	ns	n2.xundns.com.
-tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1767662354 7200 900 1209600 3600
+tienda.	3600	in	soa	v0n0.nic.tienda. hostmaster.donuts.email. 1769304205 7200 900 1209600 3600
