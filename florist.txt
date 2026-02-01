@@ -1,10 +1,12 @@
-florist.	3600	in	soa	v0n0.nic.florist. hostmaster.donuts.email. 1767661082 7200 900 1209600 3600
+florist.	3600	in	soa	v0n0.nic.florist. hostmaster.donuts.email. 1769302933 7200 900 1209600 3600
+0gleuuso2fft1l9jufgad8jaqqalh2ss.florist.	3600	in	nsec3	1 1 0 73 0QD8RMV9MN081JP74PEI2EO09AE0J97F NS DS RRSIG
+0gleuuso2fft1l9jufgad8jaqqalh2ss.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260211075245 20260121065245 31533 florist. pQCUJqzhPdlKynb1frscUUnkZLZbvpW14QoNOcSOqDmNwlaLW2Qa2qMuug7b6HX6ZNGrfgcEKv+cjNwhw0mbLBPTeutbzUxsWCUzN4MB9dWb+3674Du96H25v0zSaK0HiFdEgLkH1JFawQJNihRDbncIrk3WlFVG9cx/lgMg+Pc=
 0qd8rmv9mn081jp74pei2eo09ae0j97f.florist.	3600	in	nsec3	1 1 0 73 1VP686QLM8DKP3NSRPNAAH2KG8G4TSLD NS DS RRSIG
-0qd8rmv9mn081jp74pei2eo09ae0j97f.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. WSzimJhO4ZSS5RbBp9A3gyz+bNJOLiDH5KUqI8OjCYfYd7ItmPhaQcH5gp3DEw3IC2sv3NAqRmEAfJF5ByHL/X9J5qGoTss/iEsbb3Fq1ZaWeauBTC6VZh+DbJmn51VgdqKyn2LdNZeuQrswqA8FmXAgx6uLLQI1TlPz5b6/ITk=
+0qd8rmv9mn081jp74pei2eo09ae0j97f.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. ICF5keyWO2qi3fzGyCCkk8q8REiO62Owv7HDH0TU2DvzgOH1fxBXCLUsWYRvEREuXpaHquIh+G5QkVv8hV90UcHdFPF3WlmwiVbTA1btWEtyy0VsYBCjPbJN5qKO5HEFfxhhtrrVVcumTeQV6EdCE8Eyn6zfi7zbNN6rXjQs9RM=
 123.florist.	3600	in	ns	dns1.registrar-servers.com.
 123.florist.	3600	in	ns	dns2.registrar-servers.com.
-123b.florist.	3600	in	ns	konnor.ns.cloudflare.com.
-123b.florist.	3600	in	ns	vivienne.ns.cloudflare.com.
+123b.florist.	3600	in	ns	ns1.dyna-ns.net.
+123b.florist.	3600	in	ns	ns2.dyna-ns.net.
 123flores.florist.	3600	in	ns	dns1.registrar-servers.com.
 123flores.florist.	3600	in	ns	dns2.registrar-servers.com.
 1795.florist.	3600	in	ds	18014 8 2 0F16CD626C9DCC5AFEFB91198E89AB96A89BF97780CF44C59AAB3F5756158287
@@ -12,7 +14,7 @@ florist.	3600	in	soa	v0n0.nic.florist. hostmaster.donuts.email. 1767661082 7200 
 1795.florist.	3600	in	ns	ns-cloud-d2.googledomains.com.
 1795.florist.	3600	in	ns	ns-cloud-d3.googledomains.com.
 1795.florist.	3600	in	ns	ns-cloud-d4.googledomains.com.
-1795.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. mYbMgC+gtgnLurWQtzfrrheXH7XsKFUab8mdpJbN1izSlq4jQC7pjpDqXB6Bt9WQCWDZu6TRAH48cK1J/O19z1tSKgAcjJ5kdErNiBz2YA274ZW+mXhjfm0B7N/5LM8xod4oOL3iPmhcpFzyPQDiSfY8OBwwu49W6Z1gzhxUiNw=
+1795.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. f0InySfjnBal36qIF2pKSfOVjDiXDc+otV1KVJut1B7tv2IOpn/oW/EmECXFz8BjHvrcFWUuBqY19djIWOUToGKOUywl+Sm74EE4L1K7P9vFyQsdDnwTzcabSNKeSZmZZuPbhQBbkU4VENxpEHaEQN7bJI6pqaWU6EBOymRWx68=
 1800.florist.	3600	in	ns	ns29.domaincontrol.com.
 1800.florist.	3600	in	ns	ns30.domaincontrol.com.
 1800flowers.florist.	3600	in	ds	41966 8 2 7B897CC4DF4A68A9E88E0863C28A98CB0C7D433062E921E65F6FF86195C3E082
@@ -20,13 +22,13 @@ florist.	3600	in	soa	v0n0.nic.florist. hostmaster.donuts.email. 1767661082 7200 
 1800flowers.florist.	3600	in	ns	ns-cloud-d2.googledomains.com.
 1800flowers.florist.	3600	in	ns	ns-cloud-d3.googledomains.com.
 1800flowers.florist.	3600	in	ns	ns-cloud-d4.googledomains.com.
-1800flowers.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. BaC+C+hSrOPunphreQVxQDy1Jp2MfgZe+q614KizjuGBmErQdrQa0swDzFFDBaxoQo5a4NZvzm6iLh6NVxS5nlqBiIPqLtIUgUu1SaWLFF6s3ay+X1T/Dp8uEiWI85dk+Vfiwxfb8Jl7oliH/2JfcTqwxCllAPkuKcNtMKW8Mx0=
+1800flowers.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. NvyeHabCZmkbv5OGaFZ9CK3A+Tvv4tO4rbMwgTXj1XUtNYqsIYLBm7g8DCpAXvN3ABQfpoKepeok7/T2y9vUARrcKiZGl+dlqp4ln2tBTBf8Z7nH8OrvKQbrsfUBENVX+Yn2P9tJkeQoINDf4sdlJ99X6w0a2B+KFEzpQcZ2Q5s=
 188bet.florist.	3600	in	ns	curt.ns.cloudflare.com.
 188bet.florist.	3600	in	ns	dalary.ns.cloudflare.com.
 1tamilyogi.florist.	3600	in	ns	aida.ns.cloudflare.com.
 1tamilyogi.florist.	3600	in	ns	byron.ns.cloudflare.com.
 1vp686qlm8dkp3nsrpnaah2kg8g4tsld.florist.	3600	in	nsec3	1 1 0 73 252EB6K2SPOCC5P0J55MBL128P9EB9F5 NS DS RRSIG
-1vp686qlm8dkp3nsrpnaah2kg8g4tsld.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. uslw2AoYxBD5lYYB8rcFzWJNMc7vvzeRVD2VFmfN8WPuWxXLqFPUdp766uZTotSB3eGQ+0iu5Or9toHMMDwM/syn25KfNML/OaABhHnircc85HutUfplOYJk6OQbj1OwgSwOWdneECCkeYtq/+bl9IJtvXsgVIqfr2Y2WFr0XaQ=
+1vp686qlm8dkp3nsrpnaah2kg8g4tsld.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. TXbBP4Pp9NzrOuwzfo574k0vqw62tGJ/n/AFf8M9cPyEG2E0Tl9lLBOx7/2p729jJgwZzYbWHYWMmAg+28gC8ebYeBiAkBjs0q/dS0iRjS1YfXMbZwcGYT7s98TJeG6gT9r0Lw4h2Hh7cSezcXdY7s4GKaA7kpW2NR4dc/wlCwg=
 212.florist.	3600	in	ns	ns0.00doit.com.
 212.florist.	3600	in	ns	ns1.00doit.com.
 21flowers.florist.	3600	in	ns	ns277.grserver.gr.
@@ -34,17 +36,15 @@ florist.	3600	in	soa	v0n0.nic.florist. hostmaster.donuts.email. 1767661082 7200 
 247.florist.	3600	in	ns	dns1.registrar-servers.com.
 247.florist.	3600	in	ns	dns2.registrar-servers.com.
 252eb6k2spocc5p0j55mbl128p9eb9f5.florist.	3600	in	nsec3	1 1 0 73 2DAPPQ0RREI51DTSBDJ5DPIHNPPPRNNU NS DS RRSIG
-252eb6k2spocc5p0j55mbl128p9eb9f5.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. lwp6jvIc1M7dllx2GV6HZtgqa19Y94wFe2DTcvDp5aTjnGh/15vnkYu3b37v5wwKAOHOtc0MRRIDGcqTwMSeMA/hKxPusMKZb+xqHe4pyEpBtYWbEE3YnW9fSaWaNszFY28QCAwUaXXSle3EPDisFQDJcTyRm4Tv2jY3sxgTJ2A=
+252eb6k2spocc5p0j55mbl128p9eb9f5.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. lDr49VR4LHsM4vh9OE6Lk3uCckA+ODDp0EqOaYjf6nJMAadnLIt1xy6qsWQgwGpDAXNHirNTq7tV/mJ0APSc7rzTrZ6zzvKcNjSrKF8ofKyWWKtQz2OZFnNVGnBoxAo1euswt6+ygzbe6TDfyRIiS2IDzW6CRQo5jHeMlYozU5s=
 272rose.florist.	3600	in	ns	ns77.domaincontrol.com.
 272rose.florist.	3600	in	ns	ns78.domaincontrol.com.
-2dappq0rrei51dtsbdj5dpihnppprnnu.florist.	3600	in	nsec3	1 1 0 73 3JI9B5BGESE7KP9AOSH9T6RK0ERUPD25 NS DS RRSIG
-2dappq0rrei51dtsbdj5dpihnppprnnu.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. WoFDRmUtDVjJrfkKRGoaTn0LIy0+BGCOfBRlNo3TXT1hjQVB7qH4UHZJR1eo72QWiUKCR6bEUA7wM6AO1xh9nfmf1AFb1sB3F3XL40Hl4YgssguoeIhCFdiYVixEo8MmR/zT4tCpaSB2aGywARDnClbahw1uMI+wOuQ/UYP4KW4=
+2dappq0rrei51dtsbdj5dpihnppprnnu.florist.	3600	in	nsec3	1 1 0 73 3QMK9POBF02IF9V3VDE9M8MI8BKTGQUL NS DS RRSIG
+2dappq0rrei51dtsbdj5dpihnppprnnu.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. N+lz+gqxVE1PrCoBSoBoyrv3nFtkzgqn6n/X8Nl3uRhq7EPkjVJTswfnoYOx6IOaV8OUa1ZdEFvV+NmFCFAXKVkvSMA7a0AANF1c8f8s5WPizga+0l/Rszsv8a3W2c5S8pTFmjBy5QRVEs6zl9cYNpZRMD+hGNLuTuUHdiaidyg=
 33win.florist.	3600	in	ns	dakota.ns.cloudflare.com.
 33win.florist.	3600	in	ns	princess.ns.cloudflare.com.
-3ji9b5bgese7kp9aosh9t6rk0erupd25.florist.	3600	in	nsec3	1 1 0 73 3QMK9POBF02IF9V3VDE9M8MI8BKTGQUL NS DS RRSIG
-3ji9b5bgese7kp9aosh9t6rk0erupd25.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. RDAklcQpbcvtjkeKELeU/m/afLxt2WiuFqoU1FDt7HE0a398oYUXslEBJw4YaCNu5W+K0EzbS1hHveu/yFmfrOBjJZ39tvYzMSAYZvAAG1iMkbVE6GHDwebOZlHNiSgoR4fJum//13+ad3Cd/ZvTDDmPOFjA1UwHfvqXA/gxKV0=
 3qmk9pobf02if9v3vde9m8mi8bktgqul.florist.	3600	in	nsec3	1 1 0 73 47PMH2331KNFPPHENO6PPGEEHFS7549P NS DS RRSIG
-3qmk9pobf02if9v3vde9m8mi8bktgqul.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. i9Y43ju6v2S4MFOvXmX7PmzSseEwK+jGigUDJ97xE/MRnbGL12wkCSs0P5Hza8lQQty8WVqnXYJGPx56vhGNfvl8ZUmTl9D4UqBOKyw1r8K8vWBGEJFrdPD4H6DDykSb2cf6PR+2obIxCi/TAsXDeTu6pE9gDKTVmBHQV6NA1ao=
+3qmk9pobf02if9v3vde9m8mi8bktgqul.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. wGzkXys4C2bFXgxdEB95vLQMR5w2kYm9Y8qVFWlD54R8JpvUuFd0riXu6TyxGjjJojcK5xUeTTLWjJFYy9gLLYOh9+vZp+5pAReSwJVVmNhR43qpXhGifOzLo0veUymWsKYZ5KDRcFO2U2isgo1DVLMFHX7f9raazUcQL11N3XY=
 3sistersflowers.florist.	3600	in	ns	ns67.domaincontrol.com.
 3sistersflowers.florist.	3600	in	ns	ns68.domaincontrol.com.
 411.florist.	3600	in	ns	ns1.eftydns.com.
@@ -53,7 +53,7 @@ florist.	3600	in	soa	v0n0.nic.florist. hostmaster.donuts.email. 1767661082 7200 
 420.florist.	3600	in	ns	ns2.digitalocean.com.
 420.florist.	3600	in	ns	ns3.digitalocean.com.
 47pmh2331knfppheno6ppgeehfs7549p.florist.	3600	in	nsec3	1 1 0 73 6HKJMKCI0NJ0GOE9GV31SSSIAK9VMPK8 NS DS RRSIG
-47pmh2331knfppheno6ppgeehfs7549p.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. w9INeztHlJXNTcKTVaX79sG76ERq7NvE0BXRBWwtPaLEMLv5Q+IELpaq4gFpiJQcOj4s6LQuMUZBD1kD/ilq0C1seOm9FXmgWJA71uvb9CCdFojHzob7ewiD7A0PD6z8p8b5XcuRTLocgY67/aUzPK71+gteQ+WQ2FceOuwfEXo=
+47pmh2331knfppheno6ppgeehfs7549p.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. LIXDuya3ovOVmuvB3yK5cgQbXPy8NWQS3aaWaGL9BFAH6sO3cAzxWzmeOt4Ui9kMcM0yT2GwXqNiUa+bCurvVucUCz78sTGPzFRUIitEHjkXVasY5urZPdWgxTgqCXKfz+4kUGIxErVvbWDV2omZUeuX5zZcbslIeJK5Z9lnmUE=
 501broadway.florist.	3600	in	ns	ns63.domaincontrol.com.
 501broadway.florist.	3600	in	ns	ns64.domaincontrol.com.
 508.florist.	3600	in	ns	ns1.he.net.
@@ -66,11 +66,11 @@ florist.	3600	in	soa	v0n0.nic.florist. hostmaster.donuts.email. 1767661082 7200 
 5star.florist.	3600	in	ns	ns1.littlecreekhosting.com.
 5star.florist.	3600	in	ns	ns2.littlecreekhosting.com.
 6hkjmkci0nj0goe9gv31sssiak9vmpk8.florist.	3600	in	nsec3	1 1 0 73 6O1UTT88UH83HB4BKBULF9KAMH6URH7I NS DS RRSIG
-6hkjmkci0nj0goe9gv31sssiak9vmpk8.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. qfiKDayQKAH+iK9q9WS2DtaHa3H8IrnCfhuOPiIy3qtqLEnMkuey2f3/fg9GxwmkesIM8E4/K5sZ89ruq3B+cPQZyoepipVyLcl4ZB8/HXv8rHhY9pLbb9Q+DYysq6omy5P2ag7sh0sw1E1PibcjsDIdM7gqk0GqcbOpuFQDG+E=
+6hkjmkci0nj0goe9gv31sssiak9vmpk8.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. HqrI9D6Ojav+/4fhrDN2Q/0+Nc2yMMwwnIQ4dgZAz1/2JUGHEKyKo69Y/IlzBoMedyEK7Jgd2A1Knx/3nbhjePyVBSs2VeMMuBOo+qiJvSkq6LhdaVaqEfLMEVg2ZaQ6jl6IQoiWJufwn3D1a531h0lzIdLPCITaMP2jUL1cCN8=
 6o1utt88uh83hb4bkbulf9kamh6urh7i.florist.	3600	in	nsec3	1 1 0 73 70NRCL33T1LKJDQAVCM4IJK2RS9JVF78 NS DS RRSIG
-6o1utt88uh83hb4bkbulf9kamh6urh7i.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. q/noPgiQiBUtocIHByTf/fgpjxhiU9IhUx5WhGsf8kTyd6mgISYxazZGOv3IFO7bqX8iPj6DInu4U5BKtfea3TDZyRxA1D9roKrUNBpbmfg8eQAK0Zw9Nskfw9YGFQSzXJbZqbn5FpxvFUA271/XZGyNEHDJj+N0FfzqSZjMzKk=
+6o1utt88uh83hb4bkbulf9kamh6urh7i.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. M3ryOn3Mpn1vCGR2nDwlh6YPdEDDXKeIYyB+uWBAGGkpV5tnKbAfE+9ThqrlbNVIHf4ufiYLp4JBTEbVXzDVNVlBppWr/qhSAaoKc59yMP523FTUQC8VAn5l916OPGQT8h47TMWBL9HKhdsSicXCJKCy4Xf0cXxa5WliunKn+Tg=
 70nrcl33t1lkjdqavcm4ijk2rs9jvf78.florist.	3600	in	nsec3	1 1 0 73 78Q3DVHEGQ1R71EUBQ16Q5IHTH0G0UMF NS DS RRSIG
-70nrcl33t1lkjdqavcm4ijk2rs9jvf78.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. X7ZqbW68Mlz6V0F28Ee/1KrVlrrPEyJoeWsEMdQxMLRvC0K9VyqLo5XaMplRbYvTKAUDbkOMBzRJMBz6baVqJzh9+PEx4oGQV2omzTVbjOn5ZbcfhnbMUY+7ZxMFdL6hdfD+mIgstYAFjvQgBhReHY4dzx5CW/mCNt9bEySOp9U=
+70nrcl33t1lkjdqavcm4ijk2rs9jvf78.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. fqsOeAHLD5OAuWWnwym2c3Y2l+8BR1FDBMigwqq/EzokyFivYCWCKFXhTGBkyy78s0zybSZfG+K+SWlY8e2NymCALBiEcF7MdA02Mad37f4jbl5iiAWpSjqRe0+eI91aQCKTnoAnn/4K0Oa2LZvXQb270EpYs0rvdjkN1eW9wSo=
 777flowers.florist.	3600	in	ns	dns612-1.nexcess.net.
 777flowers.florist.	3600	in	ns	dns612-2.nexcess.net.
 789club.florist.	3600	in	ns	ruben.ns.cloudflare.com.
@@ -78,11 +78,11 @@ florist.	3600	in	soa	v0n0.nic.florist. hostmaster.donuts.email. 1767661082 7200 
 789win.florist.	3600	in	ns	ns1.dyna-ns.net.
 789win.florist.	3600	in	ns	ns2.dyna-ns.net.
 78q3dvhegq1r71eubq16q5ihth0g0umf.florist.	3600	in	nsec3	1 1 0 73 7H30107DR4BJFRJHFLHLLDQ3LG7T6N34 NS DS RRSIG
-78q3dvhegq1r71eubq16q5ihth0g0umf.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. J4Cn7OpuU3S7c2VIO94GwY/8ht81qADW38VAxMocZv66lRGgeNh/+gNXp+30AG9p4ZJHVKtzZDE6ri4Xu7oynuWjl3NT6q1iZEywYxXLgsXY+NGUzzhlXyhlTfQpgvgs0cqZNjfQL9xF0DITcLBXsYSfCB8cGtJt2dvfEWhM8cU=
+78q3dvhegq1r71eubq16q5ihth0g0umf.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. TRkvi7Cbv1O0WLbvGhvdVn4iFPkwGzCa/wy62BvMdg2EUF6khvkxCbljnjUkwCtYeNzeAmg8D06fghNAIEZJikwhAYVyUTIP0L7ccc1ER1X9MYHXgbUjyNgw18klw+AFtmhJmqzAUAzpkJSMX4FIDO6TbzlvOgN+D12GchyT6SI=
 78win.florist.	3600	in	ns	sofia.ns.cloudflare.com.
 78win.florist.	3600	in	ns	sullivan.ns.cloudflare.com.
 7h30107dr4bjfrjhflhlldq3lg7t6n34.florist.	3600	in	nsec3	1 1 0 73 8KDU1A3NSHIOHOKN9TG6KF93TCE7MMN4 NS DS RRSIG
-7h30107dr4bjfrjhflhlldq3lg7t6n34.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. jL+fNd0B8qcPhccM3F3c0g2HX7SCUPi0ewHaQRu4EBzuVeu1hZc1Cow2KdK0xH5DhcWmOXx6yfM2mKgOat3BGzreM8LtK4DvjsjhxJVGKLR1Ug20LW+pTq8C8DS3lVpCykHZpZFr2UhXcZE8cVwVOd3a56IIcf8xK6AyUeJLuZE=
+7h30107dr4bjfrjhflhlldq3lg7t6n34.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. AAETvZ5ELQDXTUJQneHFyiK8+wM4Kmo7KEqyIkSkg9LCsTa23F6EofW53enhVlWMs2vzRhsIY1kANdtUGHamUjUIGI1IcxOQKrcaI7Sh23filty/070fsMSIkvQfPXH9xv6X4fCAFL9KqT6heaenOTUcG3qX4mHfUBYL5lCzfoM=
 7starhd.florist.	3600	in	ns	arturo.ns.cloudflare.com.
 7starhd.florist.	3600	in	ns	susan.ns.cloudflare.com.
 800flowers.florist.	3600	in	ns	ns77.domaincontrol.com.
@@ -96,17 +96,19 @@ florist.	3600	in	soa	v0n0.nic.florist. hostmaster.donuts.email. 1767661082 7200 
 8kbet.florist.	3600	in	ns	annabel.ns.cloudflare.com.
 8kbet.florist.	3600	in	ns	nico.ns.cloudflare.com.
 8kdu1a3nshiohokn9tg6kf93tce7mmn4.florist.	3600	in	nsec3	1 1 0 73 8OPPOSSBVDQ5KLDB2QQJBP8U05DM8UST NS DS RRSIG
-8kdu1a3nshiohokn9tg6kf93tce7mmn4.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. KXxtXqsrm8jKgeAp080qsdPXCNSXhIZzyF12YOKT0wiWpPVodWQVqjSd0WPoGnyrD/G4ia/KVT3NVyGYGg9yAUsddj/tkCJ/Gr7SWt2+8PvUe/l+jjG8lfvlHzogBSdihEwKCm+1SpptIt6FiFxRGFGRr34jIxQyZcM76GXUs/E=
-8oppossbvdq5kldb2qqjbp8u05dm8ust.florist.	3600	in	nsec3	1 1 0 73 9PBLDA0RUN31U1CT58I9D3LIF8HCBSTI NS DS RRSIG
-8oppossbvdq5kldb2qqjbp8u05dm8ust.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. M/8cPDFd7rxKIzbAET2dpqlaWuZZnZ9xLaL8rXwrzsjgQ04h3FKgu5fWg0/O3iWxbxg30HDZJCnPBgo+MlWUiEE80MNbEnO+87Nv5mN2GRlqJAS/SVfcAtnFlYt4mNkbt2iM+YlcvEsHe/lOpTWphRSZnU/Y8LBoKXrHXI/k0Sw=
+8kdu1a3nshiohokn9tg6kf93tce7mmn4.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. RMXchhlzv0MyhVr3MmEt4WfHvIoCkOV3FgnDI5wmkAGY9LXXREP9jOH39hDqvPjcmvAWR93BaCNzC9Tq4y2lPOpC8yvprmmhgkOStW0xZ+p9rulusx1vE5VEl60wI9FZPZiUHFFex+FTvCLAD0piRUpXkmflUYfwSRIBmvNga+w=
+8oppossbvdq5kldb2qqjbp8u05dm8ust.florist.	3600	in	nsec3	1 1 0 73 9ESFLFF66SH4030H5S3TP6G9HHMI7J2A NS DS RRSIG
+8oppossbvdq5kldb2qqjbp8u05dm8ust.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. eUm7Y4rr53Ts6BZRMUtyJTkfUOUChDAqjZtr/wrsgj9QafTGOxuHLoKeK4WxN3HlMBrjCRW+1lNXO7keJ83ECuVan49edhC+plNbWfX4/BiHB6GN4hI3cRaiyi2WJL0hf4StxXiRrdFqPPNLXsxeBp3vAlC+MpNgUTlx3fzLR+Y=
 8xbet.florist.	3600	in	ns	cora.ns.cloudflare.com.
 8xbet.florist.	3600	in	ns	kyrie.ns.cloudflare.com.
 98win.florist.	3600	in	ns	carioca.ns.cloudflare.com.
 98win.florist.	3600	in	ns	venkat.ns.cloudflare.com.
+9esflff66sh4030h5s3tp6g9hhmi7j2a.florist.	3600	in	nsec3	1 1 0 73 9PBLDA0RUN31U1CT58I9D3LIF8HCBSTI NS DS RRSIG
+9esflff66sh4030h5s3tp6g9hhmi7j2a.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. mOef67wkcDvwykI+0muoANqIWvcW15CvGxPRE8WNK2kYfOlH913W/df705QwTwGze7Q/k+vpQccSMyUjMLCxun8FzS8rhxbtKVhxeWyn7yN7gKdc5ovCBKfGJCSgbwaHwxm9nVE8tnq3WHtlvZr6+I/4B4y5JlCr7utDRMTyvTE=
 9pblda0run31u1ct58i9d3lif8hcbsti.florist.	3600	in	nsec3	1 1 0 73 9UMV96NAKQQFOCLOQQ0G7IOHH6JEFTQ3 NS DS RRSIG
-9pblda0run31u1ct58i9d3lif8hcbsti.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. excdBbutDYdgyoRM+8krjfruchorrFYnWtMiAlfEOmO2qnoiQ/c4zbVBRjXBTrznTGsRjgqRRSEvMMZerNo2WuVDNPAIKnmYXYkDkbV9dkeRtg3InFG3rY6t9uKxYegl5xYKM56wrzQB1euNx/kmOxojM+xT9VBzO3RCV8Tvffc=
+9pblda0run31u1ct58i9d3lif8hcbsti.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. lwqdf3OF35LCNQCVRnK6NkMzwqgHJ3wnRF8FJxuxOvNdnKB4hNpIAs+XvrpByPlFYA6XxsH6b/DbHjsXgOqrctUEcZd0iKRVGDPsaUfH7zdQLYiP2O74VGb5/H5aZuuKt8PEicin7xPiRGyqGfL5L1D9R6+zUG4usjRMdrfUEq4=
 9umv96nakqqfocloqq0g7iohh6jeftq3.florist.	3600	in	nsec3	1 1 0 73 A10UVPQ7911OCCD654NO0J1FBCEELCT7 NS SOA RRSIG DNSKEY NSEC3PARAM
-9umv96nakqqfocloqq0g7iohh6jeftq3.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260127010126 20260106000126 31533 florist. cxHyOm4EVM+AVYx6ot+Yqa6kFtXlcBbLhC1sBkXKIA3ceDmTJ9sOexXIfaX466uTEklsl5ic/JnP0u/N/OT0izMoiRg5kmh9TDCsNUNxq0GlZ1z7VuBa95W/qbYabAk7CTpsR3jj80m3Bakq/tIADx5niM1N7o+lE7mP+cVdKdg=
+9umv96nakqqfocloqq0g7iohh6jeftq3.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260215010540 20260125000540 31533 florist. BxBkbGDc8iTyVnTand0awdfQ+ryRVt92MwijnydUXCITeLCztE1ackRslXvbQCNfTt5ZpJgG7mqTCXqAoWWx1xBXscAIhP4Wi4i/3bIwYe4P5BJN2+40mIcG7JFzlMFvjXcMYoyBy/KPfwEwK9iU+LECiktQ8p6tq6pffk6n0vY=
 9xmovie.florist.	3600	in	ns	arturo.ns.cloudflare.com.
 9xmovie.florist.	3600	in	ns	susan.ns.cloudflare.com.
 a-posy-of-stars-and-their.florist.	3600	in	ns	ns-1080.awsdns-07.org.
@@ -114,27 +116,29 @@ a-posy-of-stars-and-their.florist.	3600	in	ns	ns-2032.awsdns-62.co.uk.
 a-posy-of-stars-and-their.florist.	3600	in	ns	ns-236.awsdns-29.com.
 a-posy-of-stars-and-their.florist.	3600	in	ns	ns-761.awsdns-31.net.
 a10uvpq7911occd654no0j1fbceelct7.florist.	3600	in	nsec3	1 1 0 73 A3VESR2CLKQO40O9C29RE26GT1D6NFNT NS DS RRSIG
-a10uvpq7911occd654no0j1fbceelct7.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. e/ROFSYsw/jax7z5lAdRQElS9PdLVqF9PgVsG+KL0tncLrg1zySw0itWrmLngoZmiwIXsgVjGLenbu1rdyTVy1xOoc/LAuXFVMTt0VPK0y48wVc1HYFueqTxEgSeEsY4OgO9WU6pPc/3KrnkVwhfFcDVj9/M7KYXG7AvUYo7Rrg=
+a10uvpq7911occd654no0j1fbceelct7.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. znZknD6GaCFK2JZUz1tDDEPjfFHR5/99a2NPkfE0dF6a7ID+a83xlFTOL3tlZ8N2Z+bmQ+Xh895as5zr/0HzjyxXpz3rMupFHSFIecvYg6BInNfBuvud0p3LE9Utd+ORBxk+OsS+Cqb2LptFMfMOK/rVcx+33+8/yWq2Zvw+Trc=
 a2z.florist.	3600	in	ns	ns71.domaincontrol.com.
 a2z.florist.	3600	in	ns	ns72.domaincontrol.com.
 a3vesr2clkqo40o9c29re26gt1d6nfnt.florist.	3600	in	nsec3	1 1 0 73 ABCCQPIFQ6CI6FRS31DODIQ1OJH5GREK NS DS RRSIG
-a3vesr2clkqo40o9c29re26gt1d6nfnt.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. rRbBdw6/brmrlQ9Z7Tpdnzxuj6OIcvmvGZZzULKYgMuZp+lKRA/ipmjL9dv3Sd981CgwxVILz2tkg1cdyiRD+3cVJ3dH5BC+X1WRqwcJZFzRkizri312+EZgyvU+EauvwCcoo9w2Kit+yaYRoD34sP/+Rl/IoCMvAgED2dp6bO8=
+a3vesr2clkqo40o9c29re26gt1d6nfnt.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. VCyXGDPdFlGDbRaZxXX1Uw+LnAUpJNP2ffZzS0/mRYIdBmYQu7Qkg/j6Q1aGI+nsNA4Ebn6fjcoi4p9nBPeGZqfskVNDazFI4gqozZFcU1jIIDs6HAKOTG711lMk0KPK0/OkP0vhveOcF8qCu5U3UTohyrBOrE/jyIEme2zA1OU=
 aangelas.florist.	3600	in	ns	ns-cloud-d1.googledomains.com.
 aangelas.florist.	3600	in	ns	ns-cloud-d2.googledomains.com.
 aangelas.florist.	3600	in	ns	ns-cloud-d3.googledomains.com.
 aangelas.florist.	3600	in	ns	ns-cloud-d4.googledomains.com.
+abby.florist.	3600	in	ns	ns1.dns-parking.com.
+abby.florist.	3600	in	ns	ns2.dns-parking.com.
 abbygarden.florist.	3600	in	ns	dns1.registrar-servers.com.
 abbygarden.florist.	3600	in	ns	dns2.registrar-servers.com.
 abc8.florist.	3600	in	ns	bethany.ns.cloudflare.com.
 abc8.florist.	3600	in	ns	dion.ns.cloudflare.com.
 abccqpifq6ci6frs31dodiq1ojh5grek.florist.	3600	in	nsec3	1 1 0 73 AC8KQS51VU34O0CPADMSU29SMPKJD66U NS DS RRSIG
-abccqpifq6ci6frs31dodiq1ojh5grek.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. 02cGucIrvM84Rxu9V13XYgsDVX7HCS257I9lyqfRL2IRA7ELtlOuUQjKKX+jGP5UhUWknDGTAHc40yDE+YpX2t+AnHOc9g72BRH0cp/l8zjFE0TW4Fx5ArjBqh+H1H5ycuhwOKeoZx+kLvfoiYPC1A24weTNHWjS0I8wKeZBDo8=
+abccqpifq6ci6frs31dodiq1ojh5grek.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. gQxlrCaNRUojCp2HbxNYMe8/7KZIapqNTJUtXSEzObH33smk3GmaDyQHNYvR+K2GbZWvlHxwk+1MPOY+l55BdQKLgadYJTj/X4rMZUU+ecVxLoNQa6LJSNPWkCpBHJM4+l+IZGfu7N4SoOMdnGcrreIaFDYSBsTzCCfo9nV4hmw=
 aberdeen.florist.	3600	in	ns	ns09.domaincontrol.com.
 aberdeen.florist.	3600	in	ns	ns10.domaincontrol.com.
 abyat.florist.	3600	in	ns	dns1.registrar-servers.com.
 abyat.florist.	3600	in	ns	dns2.registrar-servers.com.
 ac8kqs51vu34o0cpadmsu29smpkjd66u.florist.	3600	in	nsec3	1 1 0 73 AF4VML5I7EF89HJDEVUBNBGQIFF70JDM NS DS RRSIG
-ac8kqs51vu34o0cpadmsu29smpkjd66u.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. tpBG5XAcWWMQbxebhi9KMKwiXUOfnndB8PePAbFe4pJBwlsYJBcf851FcaKKUVEfAPayQBftmYvbDcpRx9mtZ2GciuslXdojqBTqYuzAmBySkObjlAZD1xLFlXOaqtEpepttHwlKUTSG9kp/Yo7JWRBH+p7Xsda6PRJDSjHYZ50=
+ac8kqs51vu34o0cpadmsu29smpkjd66u.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. DmWEVtTD45FL56FHxElrDg8k6p44X3MtXCz5IhqgGW6NhzxPvfHoKs25/sQ0rvAynuGJk3UDBqVHQYbY4P1dvBAD0TRcysPbbIVrGZ71XsHWccYt+83n46ud/on5hu52CfQKwdg5SPcxFbfDaq6fdIdVOD1MbuPRdVYZUfUxSLM=
 accent.florist.	3600	in	ns	ns-cloud-b1.googledomains.com.
 accent.florist.	3600	in	ns	ns-cloud-b2.googledomains.com.
 accent.florist.	3600	in	ns	ns-cloud-b3.googledomains.com.
@@ -144,7 +148,7 @@ accidental.florist.	3600	in	ns	ns-cloud-a1.googledomains.com.
 accidental.florist.	3600	in	ns	ns-cloud-a2.googledomains.com.
 accidental.florist.	3600	in	ns	ns-cloud-a3.googledomains.com.
 accidental.florist.	3600	in	ns	ns-cloud-a4.googledomains.com.
-accidental.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. L4TOfC2cp0uRi+LcJuv7LjYOJI6ysR/emU/VGR7mOGsmORTaZH+jdNzYPifsGR8Gnm+HfTeWba1wVJMvkkbaJgy2/S/GrL2zLfRJGw4+bs+Sar6nSJN5K+Ooir59DLLJEr67Wr4IvbRsGOtDwUgBuZ0QsW1/FmXWUyuGyjzyhbw=
+accidental.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. LO3tPjY0DP652xy2CIsksbqhJ/fGj5fOE9aX/t9gPP08o7H0AWL2IrhMbBPbd+z1HLn4THKDd8zs51utAE02lt1QpTZPCKLKrP/mKs0m1utDmQAwk57HCoJrLzlZpibVTiBcVbNj/YdBE73uB6uqKNSDSWSb/0aOHyV9c28L2WE=
 acountryrose.florist.	3600	in	ns	ns85.worldnic.com.
 acountryrose.florist.	3600	in	ns	ns86.worldnic.com.
 act.florist.	3600	in	ns	ns33.domaincontrol.com.
@@ -158,7 +162,7 @@ ae888.florist.	3600	in	ns	ximena.ns.cloudflare.com.
 aebersold.florist.	3600	in	ns	dns1.registrar-servers.com.
 aebersold.florist.	3600	in	ns	dns2.registrar-servers.com.
 af4vml5i7ef89hjdevubnbgqiff70jdm.florist.	3600	in	nsec3	1 1 0 73 B0DRDUU27E0F49M9DINEFQPSH43A0ET7 NS DS RRSIG
-af4vml5i7ef89hjdevubnbgqiff70jdm.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. 0LFQn0KZM/zukyAveJlWdpj7W8LuXrOjaZjo8GOQOR7E0gKSTyn27+oExk45K6dVwjW0R3gH+tGpJ86s5XdQ7tKeKWmN2IdDf5eLulyRRBZtjF0E3rgn8N0qReDylQOqWrE4drNJJlhRNVrMdQgEBe+FDv3d7oxwd515+LK3r+M=
+af4vml5i7ef89hjdevubnbgqiff70jdm.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. 0ekN5uaJtvL5Yi7lW1OW7dsIWYBoGbbZgXKLVe8trDZV04z3XUJkgzH3mCRsno4kI9Rbz9WzdYLaZ9ai55BZdtMhD82PHQp0ggC8/iFB2WckWkU6H5ZEtoeAbTxLZUTYZTnzfY1V9wzvxnH7+Ltqo32gqCf6Oc4VVzIiWHwo5Bw=
 afflowerstore.florist.	3600	in	ns	dns101.register.com.
 afflowerstore.florist.	3600	in	ns	dns102.register.com.
 aflorists.florist.	3600	in	ns	ns55.domaincontrol.com.
@@ -177,14 +181,12 @@ agentic.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 agentic.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 agentic.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
 agentic.florist.	3600	in	ns	ns-cloud-c4.googledomains.com.
+agenticai.florist.	3600	in	ns	dns2.namecheaphosting.com.
 agenticai.florist.	3600	in	ns	ns1hwy.name.com.
-agenticai.florist.	3600	in	ns	ns2cvx.name.com.
-agenticai.florist.	3600	in	ns	ns3gnv.name.com.
-agenticai.florist.	3600	in	ns	ns4hmp.name.com.
 agi.florist.	3600	in	ds	18883 13 2 CE5051D2500CCDD00D880343514E42AB66DEDF86E65E17AEC27ABF64449EE921
 agi.florist.	3600	in	ns	launch1.spaceship.net.
 agi.florist.	3600	in	ns	launch2.spaceship.net.
-agi.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. sxKm1DklDA3L8KP/YmRgNNvNG2VMbdq4HYM9RF/NyXt1ataYpmiblGeBMee+AYO5bGvvFdYO1qCzTOzzsnzzvyl2LL2WXqn8GWtR78mUsFdC/WECbtTLtRCH8MB/kjRmVt3p/liN+v4PGuU5jlqbv8LWrhcQF4/rfBqoBt9alp8=
+agi.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. XWL/U/MbChgDPRylcuqwmjHn59/klgHgaP4KDMllapu4t2OnlZ0WseyaOwfekZdB2QJZrIQ70IwXEg4AB0cxd3GK6K17ZZICwtynDSY3EPEBBRGmtDgPn0QM296HoFPSMH1sJ5qNlIwYNghYOTzmKThTQ7xHpmEan7GKbmYCje4=
 ai.florist.	3600	in	ns	ns1.contabo.net.
 ai.florist.	3600	in	ns	ns2.contabo.net.
 ajohnson.florist.	3600	in	ns	ns03.domaincontrol.com.
@@ -218,7 +220,7 @@ algofan.florist.	3600	in	ns	ns-cloud-a1.googledomains.com.
 algofan.florist.	3600	in	ns	ns-cloud-a2.googledomains.com.
 algofan.florist.	3600	in	ns	ns-cloud-a3.googledomains.com.
 algofan.florist.	3600	in	ns	ns-cloud-a4.googledomains.com.
-algofan.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. aK5tZ+qd1UOnctCvIRM8cVhKQq4wEHIPiZbtq2kAluivOTArs/TmYbEPZ4DPdxMiW4RaRfXpOoPihhJIu00/ZQQxPqsmozDoqIkHhd7nda1gHuqZTTf6Uqx88j1yzMABA3sp3GhB4tL4LjQ2SmMhT523dmGBdy7Xrh/wAfBV8Pc=
+algofan.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. GNdU4n/f+jmyGYamHXebhDhym2BUJ+2QPYoxZltdK/Ec5EPB2MAD5EptQS/cc+s2AQRLcDEwBgDJybZ5xs+qt73n8SIebauLkQ3AEiB9oj7pCflLeZzaDrNkvsEV0ctlPal2ZT/oDVvy2zm0+l95b4UisfIYrD4845NooO4eUKI=
 algorand.florist.	3600	in	ns	ns-cloud-b1.googledomains.com.
 algorand.florist.	3600	in	ns	ns-cloud-b2.googledomains.com.
 algorand.florist.	3600	in	ns	ns-cloud-b3.googledomains.com.
@@ -252,8 +254,6 @@ alpineartistic.florist.	3600	in	ns	ns51.domaincontrol.com.
 alpineartistic.florist.	3600	in	ns	ns52.domaincontrol.com.
 alstonville.florist.	3600	in	ns	ns1.enflexion.com.au.
 alstonville.florist.	3600	in	ns	ns2.enflexion.com.au.
-altadefinizione.florist.	3600	in	ns	lina.ns.cloudflare.com.
-altadefinizione.florist.	3600	in	ns	scott.ns.cloudflare.com.
 alwaysandforever.florist.	3600	in	ns	ns1.a2hosting.com.
 alwaysandforever.florist.	3600	in	ns	ns2.a2hosting.com.
 alwaysandforever.florist.	3600	in	ns	ns3.a2hosting.com.
@@ -263,7 +263,7 @@ alwaysinbloom.florist.	3600	in	ns	ns-cloud-a1.googledomains.com.
 alwaysinbloom.florist.	3600	in	ns	ns-cloud-a2.googledomains.com.
 alwaysinbloom.florist.	3600	in	ns	ns-cloud-a3.googledomains.com.
 alwaysinbloom.florist.	3600	in	ns	ns-cloud-a4.googledomains.com.
-alwaysinbloom.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. iOVDZmnBYP93K6+iwdCC26ErM4KwCDopmFIqu+bIZv3Ozyv7zXOdfS4ZHWOBEn05XcQ/Rwn0yD1kl7tPdufaCoSjKdtGQOEOk1mCyHcEfe8c2vd1/A/Z1+vuztgGVQ7Ut2vTKfrmEw+DZdKgV3sxOjDWtrBSZQjNMsNvCecMbTA=
+alwaysinbloom.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. ZG59V+ulxn2gvEU5poduvSAotWN8WXJ0e0xk6TaRmDm9uLM+AGZizsk4xau2TpJgdISYJYP4NhT0iy7D8Gs0KIabHT8oH2J0wuC1LL9ySuBNEjMolc7mxL+WlTSsNO9KrF0A90bACLnIxGo80Ajsq2OAoQ0bX2kcB8tQ4+i3K2w=
 alwaysinseason.florist.	3600	in	ns	chi-ns1.greengeeks.com.
 alwaysinseason.florist.	3600	in	ns	chi-ns2.greengeeks.com.
 amapola.florist.	3600	in	ns	ns1.cbsv.jp.
@@ -288,10 +288,6 @@ anchorage.florist.	3600	in	ns	dana.ns.cloudflare.com.
 anchorage.florist.	3600	in	ns	sam.ns.cloudflare.com.
 and.florist.	3600	in	ns	ns1.afternic.com.
 and.florist.	3600	in	ns	ns2.afternic.com.
-andrea.florist.	3600	in	ns	ns1dhl.name.com.
-andrea.florist.	3600	in	ns	ns2knz.name.com.
-andrea.florist.	3600	in	ns	ns3cfp.name.com.
-andrea.florist.	3600	in	ns	ns4lrt.name.com.
 anglochinese.florist.	3600	in	ns	ns23.domaincontrol.com.
 anglochinese.florist.	3600	in	ns	ns24.domaincontrol.com.
 ann.florist.	3600	in	ns	ns1cnb.name.com.
@@ -357,18 +353,12 @@ aspen.florist.	3600	in	ns	ns01.domaincontrol.com.
 aspen.florist.	3600	in	ns	ns02.domaincontrol.com.
 aspens.florist.	3600	in	ns	ns59.domaincontrol.com.
 aspens.florist.	3600	in	ns	ns60.domaincontrol.com.
-assist.florist.	3600	in	ds	59120 8 2 909FAFDF3C1DC917A2D39E5DD8214E3FD0C003825865B17C0EFB2EEF3F5D6A8B
-assist.florist.	3600	in	ns	ns-cloud-e1.googledomains.com.
-assist.florist.	3600	in	ns	ns-cloud-e2.googledomains.com.
-assist.florist.	3600	in	ns	ns-cloud-e3.googledomains.com.
-assist.florist.	3600	in	ns	ns-cloud-e4.googledomains.com.
-assist.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. e77ocR2c+NEn4eX3mZbRQVepvITj6oV0AuVX/FWdN7lQuGz64wuJrOBZJw5NQ6v1oE6KOtBrhew4Lym+HlXC3N7qItJ+6GWTFOHvMXnIu2WdCThjGM98/T+27j3wErfkW+OnugejmcxwOOBJaaBWp7UJkmuEZLno1xP4OEJjwqg=
 atelier-tussiemussie.florist.	3600	in	ns	ns-rs1.gmoserver.jp.
 atelier-tussiemussie.florist.	3600	in	ns	ns-rs2.gmoserver.jp.
 athena.florist.	3600	in	ds	26420 13 2 3397709A3FD54035EBB846F47C8834FF1338E6179D75762937AEA189526033A3
 athena.florist.	3600	in	ns	ns01.one.com.
 athena.florist.	3600	in	ns	ns02.one.com.
-athena.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. wqpxlXQCkgPuN9K+yaI+hL2gnNCGW1RhNArKlHn0HMb9O6Eh+7xWBjPvOE4V+F0wgWGOjXZ/p7Uhfo27qu2NFTbVAYQL7b9TwKR4M1pjZjbGHmDDK4E0mPiZdmp8wdKzbqsnF7dZM0kWhslP9KpbYE7yy7z4F5zCOp8C617fQ+I=
+athena.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. uqgSOnKoVGQE+3va2C1+N5B37Q2rsQGxFTb/PCjAMT2qvUbrLXAMkE0b3QZl2OtIaIhud7u3E8EUb7MCa2ezbhylHyEOsZzgenb+Pfc5fm8vksnFd85SElNaZ5pTXuEMNdtVh4YUX/WhS+fvuG5KPiaGaEmvm8KKTcL+Ud+zZh0=
 atlantaweddings.florist.	3600	in	ns	ns19.domaincontrol.com.
 atlantaweddings.florist.	3600	in	ns	ns20.domaincontrol.com.
 atrueloveaffair.florist.	3600	in	ns	sky.ns.cloudflare.com.
@@ -378,16 +368,18 @@ atwist.florist.	3600	in	ns	ns10.domaincontrol.com.
 audio.florist.	3600	in	ns	ns.udag.de.
 audio.florist.	3600	in	ns	ns.udag.net.
 audio.florist.	3600	in	ns	ns.udag.org.
-augusta.florist.	3600	in	ns	ns1dhl.name.com.
-augusta.florist.	3600	in	ns	ns2knz.name.com.
-augusta.florist.	3600	in	ns	ns3cfp.name.com.
-augusta.florist.	3600	in	ns	ns4lrt.name.com.
 aureliaflowers.florist.	3600	in	ns	dns1.registrar-servers.com.
 aureliaflowers.florist.	3600	in	ns	dns2.registrar-servers.com.
 auspost.florist.	3600	in	ns	dns1.cscdns.net.
 auspost.florist.	3600	in	ns	dns2.cscdns.net.
 austin.florist.	3600	in	ns	ns3.afternic.com.
 austin.florist.	3600	in	ns	ns4.afternic.com.
+australian.florist.	3600	in	ns	ns10.dnsmadeeasy.com.
+australian.florist.	3600	in	ns	ns11.dnsmadeeasy.com.
+australian.florist.	3600	in	ns	ns12.dnsmadeeasy.com.
+australian.florist.	3600	in	ns	ns13.dnsmadeeasy.com.
+australian.florist.	3600	in	ns	ns14.dnsmadeeasy.com.
+australian.florist.	3600	in	ns	ns15.dnsmadeeasy.com.
 auto.florist.	3600	in	ns	ns1.dyna-ns.net.
 auto.florist.	3600	in	ns	ns2.dyna-ns.net.
 avas.florist.	3600	in	ns	ns29.domaincontrol.com.
@@ -403,11 +395,11 @@ az.florist.	3600	in	ns	ns26.domaincontrol.com.
 azarifineflowers.florist.	3600	in	ns	ns23.domaincontrol.com.
 azarifineflowers.florist.	3600	in	ns	ns24.domaincontrol.com.
 b0drduu27e0f49m9dinefqpsh43a0et7.florist.	3600	in	nsec3	1 1 0 73 B2SQPH9UIMQV91LF953QTK74A4HV7QJV NS DS RRSIG
-b0drduu27e0f49m9dinefqpsh43a0et7.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. 07sUy+BHpdoulEh5rQSsdHiAxYejp2AwNPGm4KWEw7e1oivr/vgcRQnvq0hHjBO+GtoSAlXPNWZr9VA7zfphpcJN0pMGmvnqCaodveBcRMsJAbVW5sCblIuUDkvHFZqXg2jj4GglYfalVtGU/tSXiojiZ1+3pSL18FHSg6dYN6w=
+b0drduu27e0f49m9dinefqpsh43a0et7.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. SgVPT7lWuc3ohBUdY50vdfPwhNHTWRGvWJ2qDE4zOlGBer6ri3ABAMKF7m5fIW0YBYLVYUWB6aXY1jqEQB1Rnr1r08nuhIUdDesZuM4Om3mTb55hEFFA6VN0NudKrY0NlxD1iH/TV+0AxlBwI2R8Mhl12l3OTLS4Uc7YAaPlYJU=
 b2b.florist.	3600	in	ns	ns1.tildadns.com.
 b2b.florist.	3600	in	ns	ns2.tildadns.com.
 b2sqph9uimqv91lf953qtk74a4hv7qjv.florist.	3600	in	nsec3	1 1 0 73 C25NMVVPICF9QJ9GOILDOBE3TVBM58EM NS DS RRSIG
-b2sqph9uimqv91lf953qtk74a4hv7qjv.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. XbQ63iuO/SkTuVgqYubyvQW8rSmqi9h83LK/9yEiX6z8O4FNgzzaF02kwYPq9j5KwXJcZ0zRm9l82WlbhC7vJKs+x2icrE448zb7a6VTmwavNlI7ADajsihuITzbMWTY9SEJ8sx2gTvnb2XIvBC5gmSE+ZsNvG8pDj61AHTsOLY=
+b2sqph9uimqv91lf953qtk74a4hv7qjv.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. h9h18ZfAOFzqp8iKY/hQAEcK/LRuB68PBiGqZZKw4NGxj8TICvS/ND1lcWce0V1CYPK28R7VjdHi1GCVmxsRzU0eYaKpLnb72u5BNujrieTdM1yUzb14x3Mqr+ihX6ere94WnXPfUyU/WhwzFsoIMYkJwaX6Z03qkmvxXoJbPFw=
 bagoys.florist.	3600	in	ns	ns17.worldnic.com.
 bagoys.florist.	3600	in	ns	ns18.worldnic.com.
 bahlmann.florist.	3600	in	ns	docks03.rzone.de.
@@ -448,6 +440,8 @@ balloon.florist.	3600	in	ns	ns53.domaincontrol.com.
 balloon.florist.	3600	in	ns	ns54.domaincontrol.com.
 balloons.florist.	3600	in	ns	ns01.cashparking.com.
 balloons.florist.	3600	in	ns	ns02.cashparking.com.
+bangkokflower.florist.	3600	in	ns	ns05.domaincontrol.com.
+bangkokflower.florist.	3600	in	ns	ns06.domaincontrol.com.
 barn.florist.	3600	in	ns	curitiba.ns.porkbun.com.
 barn.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 barn.florist.	3600	in	ns	maceio.ns.porkbun.com.
@@ -479,7 +473,7 @@ bealls.florist.	3600	in	ns	ns48.worldnic.com.
 beamazed.florist.	3600	in	ds	10383 13 2 E1444A50FE872616EAB58F74E5C6BDEC6F223279515EF1FBF9052507A12E0D10
 beamazed.florist.	3600	in	ns	dns1.swizzonic.ch.
 beamazed.florist.	3600	in	ns	dns2.swizzonic.ch.
-beamazed.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. SkAklh94EQ5qbMwOkdr7VG8pRPy4rhftoRg/hEdZbAddO4OAhKRBm88IgroGoecWgx5MWZ4w3Nds+9CnsErchgJGwKalhhdPpnEw5uogP04rmnovLJniTHg2nt1RkVMh/evv0KHZPd2AfgJdhzf+QqUEaEOwb4UbA6qRqmaWU14=
+beamazed.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. 1NwS18Tf9BTDgM48GkjfMIYJBtP+xaUyb3mszBpoKZWAr4FGO55uAExzoY02Ljim7kb80Py1R4OS1+LOxD+pJGV3XHnZIF8k56CQ9LfwMlv7H0Q5DG8uDzyU9ulx27+cKc+ZdmjbsWD2o5JU+Rx2BzdE5FDh70zsMtZYMmCTXU8=
 bearcreek.florist.	3600	in	ns	dns1.cscdns.net.
 bearcreek.florist.	3600	in	ns	dns2.cscdns.net.
 beards.florist.	3600	in	ns	ns77.domaincontrol.com.
@@ -499,7 +493,7 @@ become.florist.	3600	in	ns	ns-cloud-e1.googledomains.com.
 become.florist.	3600	in	ns	ns-cloud-e2.googledomains.com.
 become.florist.	3600	in	ns	ns-cloud-e3.googledomains.com.
 become.florist.	3600	in	ns	ns-cloud-e4.googledomains.com.
-become.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. HDLO8iWINFsE+/XiyCaE+uIMIUk0DLVpWOuKBtiSf9MxTg0cI0s2loMePom9BmwsTOIgFUfQcvD4IxgY0d9Fk4t1NBhpvwEDPkr0CcirQgP+Tm+42MjfdVqoYllE13BmWjNENJsgWfCIHhn4Nh8jWH4MmSt9nCjjd/SQcbRI1Gw=
+become.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. X98wZozqXMgkfu8nn32xC34wfva73ApbAf13fz1PXhvkTrewROIryuHrxBs+7cRMXYruVpfeSEPNrpas3r9eEcbj4ou7GF5TlaY+GRjBxW/a2zrIk8U/QVMDG6XVakLvdjKTtmhoEPP/mVYLyawXvx6nNGATdcoZ4lNvTALRHYc=
 bedazzled.florist.	3600	in	ns	ns81.worldnic.com.
 bedazzled.florist.	3600	in	ns	ns82.worldnic.com.
 bedfordshire.florist.	3600	in	ns	ns1.livedns.co.uk.
@@ -513,6 +507,8 @@ belcan.florist.	3600	in	ns	ns-1052.awsdns-03.org.
 belcan.florist.	3600	in	ns	ns-1710.awsdns-21.co.uk.
 belcan.florist.	3600	in	ns	ns-227.awsdns-28.com.
 belcan.florist.	3600	in	ns	ns-986.awsdns-59.net.
+belladonna.florist.	3600	in	ns	ns1.dns-redirect.com.
+belladonna.florist.	3600	in	ns	ns2.dns-redirect.com.
 bellafiora.florist.	3600	in	ns	ns37.domaincontrol.com.
 bellafiora.florist.	3600	in	ns	ns38.domaincontrol.com.
 bellaflora.florist.	3600	in	ns	ns10.wixdns.net.
@@ -540,8 +536,8 @@ bestlosangeles.florist.	3600	in	ns	ns51.domaincontrol.com.
 bestlosangeles.florist.	3600	in	ns	ns52.domaincontrol.com.
 bestnyc.florist.	3600	in	ns	dana.ns.cloudflare.com.
 bestnyc.florist.	3600	in	ns	sam.ns.cloudflare.com.
-bet88.florist.	3600	in	ns	olga.ns.cloudflare.com.
-bet88.florist.	3600	in	ns	wilson.ns.cloudflare.com.
+bet88.florist.	3600	in	ns	expire1.gname-dns.com.
+bet88.florist.	3600	in	ns	expire2.gname-dns.com.
 bethany.florist.	3600	in	ns	ns-1196.awsdns-21.org.
 bethany.florist.	3600	in	ns	ns-1541.awsdns-00.co.uk.
 bethany.florist.	3600	in	ns	ns-385.awsdns-48.com.
@@ -567,16 +563,12 @@ bielefeld.florist.	3600	in	ns	ns.udag.net.
 bielefeld.florist.	3600	in	ns	ns.udag.org.
 biene.florist.	3600	in	ns	ns1.cyon.ch.
 biene.florist.	3600	in	ns	ns2.cyon.ch.
-bigapple.florist.	3600	in	ns	ns1dhl.name.com.
-bigapple.florist.	3600	in	ns	ns2knz.name.com.
-bigapple.florist.	3600	in	ns	ns3cfp.name.com.
-bigapple.florist.	3600	in	ns	ns4lrt.name.com.
 bigrbbt.florist.	3600	in	ds	26957 8 2 9987D73CDF412345E60E55DEE23991AC5AF07C3CBF0118801620DD9C04F8EA8A
 bigrbbt.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 bigrbbt.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 bigrbbt.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
 bigrbbt.florist.	3600	in	ns	ns-cloud-c4.googledomains.com.
-bigrbbt.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. AI5mQRp9GvV+cuPPgXH7GjVwqTKkTQJs5NvxhifSA90TFzVsW9Q8ouElO1jA3f3itBLfJwIVDA7ZcI65rchfTd6hFsNxR+ZEBGZD1RMUMQIuMsVOP1+T4WImU7h14UEdnSrTuzIq3X2xQCDMTzDz/HJBaj9Slu+4s5beprdoh5I=
+bigrbbt.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. OQErG81xtkM2qWu5PMP8oFwabxmXWxS0cBjdcy0XM9VNdHY/zdpYBb2P/a+0Byia9+Y05wBten8pcQhp+Y7/fh3iC3XRNCsgbXxSpotlFbQPlRSO+nCv/hs2wP4EY8MlGQBvv5ouwhywSsZjFxNceGq4mEL1cGfteKSMsNFmFvc=
 billyheromans.florist.	3600	in	ns	ns77.domaincontrol.com.
 billyheromans.florist.	3600	in	ns	ns78.domaincontrol.com.
 bintang.florist.	3600	in	ns	ns1.rumahweb.com.
@@ -602,10 +594,6 @@ bk8.florist.	3600	in	ns	benedict.ns.cloudflare.com.
 bk8.florist.	3600	in	ns	lilyana.ns.cloudflare.com.
 black.florist.	3600	in	ns	ns1.mailpri.com.
 black.florist.	3600	in	ns	ns2.mailpri.com.
-blackburn.florist.	3600	in	ns	ns1dhl.name.com.
-blackburn.florist.	3600	in	ns	ns2knz.name.com.
-blackburn.florist.	3600	in	ns	ns3cfp.name.com.
-blackburn.florist.	3600	in	ns	ns4lrt.name.com.
 blackline.florist.	3600	in	ns	docks17.rzone.de.
 blackline.florist.	3600	in	ns	shades04.rzone.de.
 blackrock.florist.	3600	in	ds	52637 8 2 D500A90E62A803938DBF0128C07010515B3CBCC9359EB01F82D939AC1BF00AED
@@ -613,7 +601,7 @@ blackrock.florist.	3600	in	ns	ns-cloud-d1.googledomains.com.
 blackrock.florist.	3600	in	ns	ns-cloud-d2.googledomains.com.
 blackrock.florist.	3600	in	ns	ns-cloud-d3.googledomains.com.
 blackrock.florist.	3600	in	ns	ns-cloud-d4.googledomains.com.
-blackrock.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. B8YMtXL4OabkCPPxsJGN4owrvhFJTXbQcM+nIczA5v/mV/2NUE/OhPeTf5CWCPayqMQcUx8FycrAyv2B3HB8oJ1odu2xzAiYyIMULEqfXp5KuqzGzwdgkJAQe8dCI0zQKtkxqiiMB1KZ1nMLo2IKHPU1fB6fW+bIcGF4zwCj2X8=
+blackrock.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. lIdscGUbEJc8lg12D+QxV2FwvqBoSxZVlnV0vllUBPZtdVHZEbseXAdyvPyALo9uoc001Cs9xym7FUIG6ILD0TS6KkhB9rxmYKM6QnpO/YliMjpW9Z2dh2t3l0Kx1zP0/gMVcjUyVmc1zK9HfeBGYn3lcCdLAoH9UTHUO63wdYA=
 blakelees.florist.	3600	in	ns	ns67.domaincontrol.com.
 blakelees.florist.	3600	in	ns	ns68.domaincontrol.com.
 blattlaus.florist.	3600	in	ns	ns-de.1and1-dns.biz.
@@ -638,15 +626,13 @@ bloemenbezorgen.florist.	3600	in	ns	ns3.anony.eu.
 blomsterriket.florist.	3600	in	ds	52943 13 2 81390857696D8F12CC8F6F1D83B051A81719013CC30C6F80A6B550FE802069A6
 blomsterriket.florist.	3600	in	ns	ns01.one.com.
 blomsterriket.florist.	3600	in	ns	ns02.one.com.
-blomsterriket.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. FZbzpPBCeigQXT07cPciQmgP4T/uybI99QbM2ChIoVVFMam+UxfA15Lrx2vq0XFGFnDu36KLHdRlxwv0aLcKVrQeihCVxen9ptl4P4EGHkp66HnvbFgVeSsaDoJ8QRwqmBJ+V9jW1a17zT8cghsODreNC0F3MLkIW38bJ7ZWhAM=
+blomsterriket.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. YSoGsSdWhx8bXxxoeixgNKKeO8HWcwP71TZ4hqVr2kVNQK3wsl4LPuoRLijpkEMZFEBHdc8T/gcgw72Hgyu1WV4nHyL/Sc+Vhf+X0e84IXvOBce/52NAt+w9yZZFCCWpZxJecVUu5B7geEtx7BDa8WGrtWgzRimN+51vaGD3cVY=
 blomstra.florist.	3600	in	ns	ns2.wixdns.net.
 blomstra.florist.	3600	in	ns	ns3.wixdns.net.
 bloomandcore.florist.	3600	in	ns	darwin.ns.cloudflare.com.
 bloomandcore.florist.	3600	in	ns	virginia.ns.cloudflare.com.
-bloomandthorn.florist.	3600	in	ns	ns-1079.awsdns-06.org.
-bloomandthorn.florist.	3600	in	ns	ns-1862.awsdns-40.co.uk.
-bloomandthorn.florist.	3600	in	ns	ns-496.awsdns-62.com.
-bloomandthorn.florist.	3600	in	ns	ns-840.awsdns-41.net.
+bloomandthorn.florist.	3600	in	ns	ns11.domaincontrol.com.
+bloomandthorn.florist.	3600	in	ns	ns12.domaincontrol.com.
 bloomenvy.florist.	3600	in	ns	ns12.wixdns.net.
 bloomenvy.florist.	3600	in	ns	ns13.wixdns.net.
 bloomers.florist.	3600	in	ns	ns1.101domain.com.
@@ -668,10 +654,6 @@ bloominghappy.florist.	3600	in	ns	ns01.squarespacedns.com.
 bloominghappy.florist.	3600	in	ns	ns02.squarespacedns.com.
 bloominghappy.florist.	3600	in	ns	ns03.squarespacedns.com.
 bloominghappy.florist.	3600	in	ns	ns04.squarespacedns.com.
-bloominghearts.florist.	3600	in	ns	curitiba.ns.porkbun.com.
-bloominghearts.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
-bloominghearts.florist.	3600	in	ns	maceio.ns.porkbun.com.
-bloominghearts.florist.	3600	in	ns	salvador.ns.porkbun.com.
 bloomkonnect.florist.	3600	in	ns	dns1.cscdns.net.
 bloomkonnect.florist.	3600	in	ns	dns2.cscdns.net.
 bloomnet.florist.	3600	in	ns	dns1.cscdns.net.
@@ -742,17 +724,13 @@ bohemianblooms.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 bohemianblooms.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 bohemianblooms.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
 bohemianblooms.florist.	3600	in	ns	ns-cloud-c4.googledomains.com.
-bohemianblooms.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. r2ddrDuN0UvVVZ0YdYGMcliWbx4j9Fv1SyUz8D7U/stDA4S+BTvjkc5TsFCtxJyVDijFdwYm6F0qEoQhFuUylW2L/SgeMZ+WmTpU8ht+3BFG/L7aia2X3Oev0xkCop7LJA4BW5MSELj5/OpsDylAkyptR/2IBN9yPXAg1LVmn/c=
+bohemianblooms.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. 14HColPFPj5M5ZiVxt2ph7bA5Slvy/g8Z4yr0UEqSvKC+N1uVm4mNhNF7RR3DO0npjWBP/wmDGfzYxLMetDGB16jjmZOAFO8efPqTnrP3Myq8UuxVUfi7hmDQfn1qOUL364aICH3c+rMNMKsA4W6NQmxXiBgOwMrwNt4bNN4ClM=
 bolingbrook.florist.	3600	in	ns	dana.ns.cloudflare.com.
 bolingbrook.florist.	3600	in	ns	sam.ns.cloudflare.com.
 bolingbrookweddings.florist.	3600	in	ns	ns19.domaincontrol.com.
 bolingbrookweddings.florist.	3600	in	ns	ns20.domaincontrol.com.
 bonfleur.florist.	3600	in	ns	ns1.servconfig.com.
 bonfleur.florist.	3600	in	ns	ns2.servconfig.com.
-bonnie.florist.	3600	in	ns	ns1dhl.name.com.
-bonnie.florist.	3600	in	ns	ns2knz.name.com.
-bonnie.florist.	3600	in	ns	ns3cfp.name.com.
-bonnie.florist.	3600	in	ns	ns4lrt.name.com.
 bonsai-aachen.florist.	3600	in	ns	ns5.kasserver.com.
 bonsai-aachen.florist.	3600	in	ns	ns6.kasserver.com.
 bonsai.florist.	3600	in	ns	dns1.registrar-servers.com.
@@ -776,11 +754,7 @@ botanicalbar.florist.	3600	in	ns	ns-cloud-b1.googledomains.com.
 botanicalbar.florist.	3600	in	ns	ns-cloud-b2.googledomains.com.
 botanicalbar.florist.	3600	in	ns	ns-cloud-b3.googledomains.com.
 botanicalbar.florist.	3600	in	ns	ns-cloud-b4.googledomains.com.
-botanicalbar.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. AFkbX2uDilP6XYIRpeh55cm9Z8fQ6WT9WcZo4yhTaVWmyvbisLy75AFE87gvXYIKIxXVCG5HSxBxsCFiSMB+hvAOZmkUxz7R7z7ozzu8Ke4hXK8sAbEt6LN0kuCf7RhJPm3oTp547w2NknGJtfJZPeN9EnI+e1SeRHEpPpPXQpc=
-boulder.florist.	3600	in	ns	ns1dhl.name.com.
-boulder.florist.	3600	in	ns	ns2knz.name.com.
-boulder.florist.	3600	in	ns	ns3cfp.name.com.
-boulder.florist.	3600	in	ns	ns4lrt.name.com.
+botanicalbar.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. b30b3ZMCGKIQiCBtwDCrjIfgiqEW/Vxr6Ra6CTr/ZrMWhJDJ/W+YHk+vu/ux7X/jDib4FSHP+sSedel0Kn6gclJNqX7UvS3JfENRQpXLPvq4jrf83fizvYl4FoN+F1S+cHAeP/RHFdmRfznp3dBCxD9z++c/W1EGYAjTT1Ku6g8=
 bouqs.florist.	3600	in	ns	ns29.domaincontrol.com.
 bouqs.florist.	3600	in	ns	ns30.domaincontrol.com.
 bouquet-london.florist.	3600	in	ns	ns47.domaincontrol.com.
@@ -790,32 +764,22 @@ bouquetlondon.florist.	3600	in	ns	ns48.domaincontrol.com.
 bouquets.florist.	3600	in	ds	44322 13 2 D7093E64DDBD2CC7DF10F332523DB0E98AD156D8594379C5CEA3EC1ECCC08411
 bouquets.florist.	3600	in	ns	launch1.spaceship.net.
 bouquets.florist.	3600	in	ns	launch2.spaceship.net.
-bouquets.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. F+NsOqfWZTNN9uPNdbu/H6ZGheiexQxOXqli9ctbzQ1J7ha9wFX6UuRfBLC73FuVitQsTQ4JPRXxxSrBtBhv6yX7wruy70EH9W3DhUKz+Ww36QYgJTGeBdMxWxfMRSenXhFUtpZrelQifpAI2oHFgAEndP9bIy/2p/olhI3KKh8=
+bouquets.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. caNSmpsM8fjnq+Vavww0PRbBbt+KoFk9/c7oA6Q5CB/pawQOtn45VBCgVv3yWX8/aFqhI/xdUsXkVOhJ6ruwWndB6SRBrNCEAbE7sB6Pss9Rs+kyTjiEiMPUmjbXYStHt8Sv3qjOFK7Jkg62/veRl/V8BeUJYO3JHYDWomi0E/c=
 boveytracey.florist.	3600	in	ns	ns29.domaincontrol.com.
 boveytracey.florist.	3600	in	ns	ns30.domaincontrol.com.
 box.florist.	3600	in	ds	27260 13 1 2E86A714E7F83B31BF162A6AA037DEEE2991217D
 box.florist.	3600	in	ns	ns0.transip.net.
 box.florist.	3600	in	ns	ns1.transip.nl.
 box.florist.	3600	in	ns	ns2.transip.eu.
-box.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. 0u0DW0qlV3W9L2vRyatSotis2mSy/eMB+3YO7jbxrO7qmL5dzMy5vOgKX2AHt+UWNBSFyIQyzKvwYNfftwopR0QScJct/qyFNOCo1qNORHvhlOZ+Pq1h/v+RbBi3IcNa/r5DLkoAPfvTKAjBj6LlJ5aSTOJKRZM31C+YELUn49Y=
-bradford.florist.	3600	in	ns	ns1dhl.name.com.
-bradford.florist.	3600	in	ns	ns2knz.name.com.
-bradford.florist.	3600	in	ns	ns3cfp.name.com.
-bradford.florist.	3600	in	ns	ns4lrt.name.com.
+box.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. 0GUmbgG/isarA5ZLE40wvnxxZDUHsLRYl7f4GLdRrnSXDvdSJaKtF0FAmiDrPd+FfbplPMciQVjplCPS77ErU4TYEpIqbxtM6J2Hk99Ai/YUSejkrWTxVb3El8k5B7TT9yYB0bh25aqloyeydFMagUmY4PwFE9MM/lxg0zzMGXo=
 brant.florist.	3600	in	ns	ns1.dyna-ns.net.
 brant.florist.	3600	in	ns	ns2.dyna-ns.net.
 brantflorist.florist.	3600	in	ns	ns77.domaincontrol.com.
 brantflorist.florist.	3600	in	ns	ns78.domaincontrol.com.
 bremerton.florist.	3600	in	ns	ns19.domaincontrol.com.
 bremerton.florist.	3600	in	ns	ns20.domaincontrol.com.
-brenda.florist.	3600	in	ns	ns1dhl.name.com.
-brenda.florist.	3600	in	ns	ns2knz.name.com.
-brenda.florist.	3600	in	ns	ns3cfp.name.com.
-brenda.florist.	3600	in	ns	ns4lrt.name.com.
 bridgehampton.florist.	3600	in	ns	ns1.sedoparking.com.
 bridgehampton.florist.	3600	in	ns	ns2.sedoparking.com.
-brisbane.florist.	3600	in	ns	ns1.ms454.parklogic.com.
-brisbane.florist.	3600	in	ns	ns2.ms454.parklogic.com.
 brix.florist.	3600	in	ns	dns1.registrar-servers.com.
 brix.florist.	3600	in	ns	dns2.registrar-servers.com.
 browse.florist.	3600	in	ns	ns1.markmonitor.com.
@@ -863,17 +827,9 @@ buzz.florist.	3600	in	ns	ns2.guru.net.uk.
 c.florist.	3600	in	ns	sl1.sedo.com.
 c.florist.	3600	in	ns	sl2.sedo.com.
 c25nmvvpicf9qj9goildobe3tvbm58em.florist.	3600	in	nsec3	1 1 0 73 CIH56IRISPGVVU7BI87TQPOD27MG4SNQ NS DS RRSIG
-c25nmvvpicf9qj9goildobe3tvbm58em.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. LHeo6dkNidKX/B0WHC0lND8mOrSKW2CAC0Smuf+5CcguHWHh1tiZEBf/U++R+5bwQMSXVxfNdIlDuHwiPF2Xf8E7GsTcDw8lku2uLO8EJYbbRFBfoc0lcUFv530hWHwlVPclA/kRyBeLEzxLIBGabU0PgqRmVes4Ett1zozas/U=
-cairns.florist.	3600	in	ns	ns1dhl.name.com.
-cairns.florist.	3600	in	ns	ns2knz.name.com.
-cairns.florist.	3600	in	ns	ns3cfp.name.com.
-cairns.florist.	3600	in	ns	ns4lrt.name.com.
+c25nmvvpicf9qj9goildobe3tvbm58em.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. TY1CIk6uCMwGLn0loRaWUuogk/1QSiifDhD0k+F+BnvAn+VRI6E4feiyO6SetUIMZ/RL9QJTldvntezi//l+ZUHRlDw/4VQ1EP4BDXNH22ZTKt2DnmyIv9pyEjB+yKmFIaFEMNm7RUAoMJnWzjmegMsY8d/MThxi915Sl30Lf/c=
 calisiflowers.florist.	3600	in	ns	ns73.domaincontrol.com.
 calisiflowers.florist.	3600	in	ns	ns74.domaincontrol.com.
-cambridge.florist.	3600	in	ns	ns1dhl.name.com.
-cambridge.florist.	3600	in	ns	ns2knz.name.com.
-cambridge.florist.	3600	in	ns	ns3cfp.name.com.
-cambridge.florist.	3600	in	ns	ns4lrt.name.com.
 cameronpark.florist.	3600	in	ns	ns7.worldnic.com.
 cameronpark.florist.	3600	in	ns	ns8.worldnic.com.
 canadaflowers.florist.	3600	in	ns	ns1ntw.name.com.
@@ -888,6 +844,10 @@ cancun.florist.	3600	in	ns	ns743.websitewelcome.com.
 cancun.florist.	3600	in	ns	ns744.websitewelcome.com.
 candlelightandroses.florist.	3600	in	ns	ns83.worldnic.com.
 candlelightandroses.florist.	3600	in	ns	ns84.worldnic.com.
+cannabis.florist.	3600	in	ds	55991 13 2 3BD89B48054203B227818DFEEC15248CC19B007CD101DACFA9B850FB112CA030
+cannabis.florist.	3600	in	ns	launch1.spaceship.net.
+cannabis.florist.	3600	in	ns	launch2.spaceship.net.
+cannabis.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. kFDyk9GHW2iYvd8c4jshyFD/vmz6Qe554JrM9M4dGJnmsL0VsS4oF0qVmjLsIBx00TOlRP89h2x9r1Ou5/7IuXy6oybRFk9d0V/uIa+2EA96XrvJJPHlucQ6ayKJ6EsuwgVrPDYYQo6Wae1D3BFXrD0EKqAob0PLawgIzaZX2M0=
 cannock.florist.	3600	in	ns	ns1.stackdns.com.
 cannock.florist.	3600	in	ns	ns2.stackdns.com.
 cannock.florist.	3600	in	ns	ns3.stackdns.com.
@@ -903,10 +863,8 @@ capecod.florist.	3600	in	ns	dns4.name-services.com.
 capecod.florist.	3600	in	ns	dns5.name-services.com.
 capecoral.florist.	3600	in	ns	ns1.dns-redirect.com.
 capecoral.florist.	3600	in	ns	ns2.dns-redirect.com.
-capetown.florist.	3600	in	ns	ns1.tld-ns.net.
-capetown.florist.	3600	in	ns	ns2.tld-ns.com.
-capetown.florist.	3600	in	ns	ns3.tld-ns.net.
-capetown.florist.	3600	in	ns	ns4.tld-ns.com.
+capetown.florist.	3600	in	ns	ns1.dyna-ns.net.
+capetown.florist.	3600	in	ns	ns2.dyna-ns.net.
 capital.florist.	3600	in	ns	pdns03.domaincontrol.com.
 capital.florist.	3600	in	ns	pdns04.domaincontrol.com.
 capitalcity.florist.	3600	in	ns	dns1.registrar-servers.com.
@@ -914,6 +872,8 @@ capitalcity.florist.	3600	in	ns	dns2.registrar-servers.com.
 capitalcity.florist.	3600	in	ns	dns3.registrar-servers.com.
 capitalcity.florist.	3600	in	ns	dns4.registrar-servers.com.
 capitalcity.florist.	3600	in	ns	dns5.registrar-servers.com.
+caquehin.florist.	3600	in	ns	ns1.vercel-dns.com.
+caquehin.florist.	3600	in	ns	ns2.vercel-dns.com.
 caribbean.florist.	3600	in	ns	ns33.domaincontrol.com.
 caribbean.florist.	3600	in	ns	ns34.domaincontrol.com.
 carithers.florist.	3600	in	ns	ns19.domaincontrol.com.
@@ -922,10 +882,6 @@ carithersflowers.florist.	3600	in	ns	ns0.directnic.com.
 carithersflowers.florist.	3600	in	ns	ns1.directnic.com.
 carithersflowers.florist.	3600	in	ns	ns2.directnic.com.
 carithersflowers.florist.	3600	in	ns	ns3.directnic.com.
-carmel.florist.	3600	in	ns	ns1dhl.name.com.
-carmel.florist.	3600	in	ns	ns2knz.name.com.
-carmel.florist.	3600	in	ns	ns3cfp.name.com.
-carmel.florist.	3600	in	ns	ns4lrt.name.com.
 cars.florist.	3600	in	ns	ns21.domaincontrol.com.
 cars.florist.	3600	in	ns	ns22.domaincontrol.com.
 carusoflorist.florist.	3600	in	ns	ns45.domaincontrol.com.
@@ -959,13 +915,9 @@ centurycity.florist.	3600	in	ns	ns2.dyna-ns.net.
 ceremonier.florist.	3600	in	ds	21665 13 2 86B648FD7B313298DBFFBF00B95B93540CA61A950E3428AE61B25DEFC65FE595
 ceremonier.florist.	3600	in	ns	ns01.one.com.
 ceremonier.florist.	3600	in	ns	ns02.one.com.
-ceremonier.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. BPDoQq1VNv4e020tCPHBXOj9FIEoXb977+gj5rs2YnkXqgzFL0ep0lB4kK0t/9PYvrjDg3HAyhdFSRWNlDOHJ92Er20EUisNYyZJDkT/Iwd1R1HqnUmHyI7ZZ7J//wL8z2FnhOFzVfpw9ow/ISUq7FaTNP9ldCi+lH6zVIsMUz4=
+ceremonier.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. KIETK1XWFlzkagPNoDVFqSxpqWHuiD5b/rBI4VuyZqfoWF5lx7O3F8SnBLO0RhpLfod8SjZG3pbZOrZubkXIPGzO9Nu+Ssjxnk/c+6rEVun/zd6wSjzovoXF/+ARshIQwr/8MwQ/fVZP9J5no884jzwZKDTBuOIyHVzuCCk6XZA=
 chalifours.florist.	3600	in	ns	ns41.domaincontrol.com.
 chalifours.florist.	3600	in	ns	ns42.domaincontrol.com.
-chandler.florist.	3600	in	ns	ns1dhl.name.com.
-chandler.florist.	3600	in	ns	ns2knz.name.com.
-chandler.florist.	3600	in	ns	ns3cfp.name.com.
-chandler.florist.	3600	in	ns	ns4lrt.name.com.
 chapmans.florist.	3600	in	ns	ns1.websystems.com.
 chapmans.florist.	3600	in	ns	ns2.websystems.com.
 chapmans.florist.	3600	in	ns	ns3.websystems.com.
@@ -978,10 +930,6 @@ charity.florist.	3600	in	ns	ns41.domaincontrol.com.
 charity.florist.	3600	in	ns	ns42.domaincontrol.com.
 charlestonwedding.florist.	3600	in	ns	arch.ns.cloudflare.com.
 charlestonwedding.florist.	3600	in	ns	melina.ns.cloudflare.com.
-charlottes.florist.	3600	in	ns	curitiba.ns.porkbun.com.
-charlottes.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
-charlottes.florist.	3600	in	ns	maceio.ns.porkbun.com.
-charlottes.florist.	3600	in	ns	salvador.ns.porkbun.com.
 chat.florist.	3600	in	ns	ns.ui-global-dns.biz.
 chat.florist.	3600	in	ns	ns.ui-global-dns.com.
 chat.florist.	3600	in	ns	ns.ui-global-dns.de.
@@ -993,8 +941,6 @@ cheap.florist.	3600	in	ns	dns2.name-services.com.
 cheap.florist.	3600	in	ns	dns3.name-services.com.
 cheap.florist.	3600	in	ns	dns4.name-services.com.
 cheap.florist.	3600	in	ns	dns5.name-services.com.
-chelsea.florist.	3600	in	ns	ns1.ms454.parklogic.com.
-chelsea.florist.	3600	in	ns	ns2.ms454.parklogic.com.
 chelseaflowers.florist.	3600	in	ns	ns1.bigcommerce.com.
 chelseaflowers.florist.	3600	in	ns	ns2.bigcommerce.com.
 cheltenham.florist.	3600	in	ns	ns07.domaincontrol.com.
@@ -1026,8 +972,10 @@ chudopal.florist.	3600	in	ns	ns1.masterhost.ru.
 chudopal.florist.	3600	in	ns	ns2.masterhost.ru.
 cibadakagri.florist.	3600	in	ns	lennon.ns.cloudflare.com.
 cibadakagri.florist.	3600	in	ns	luciane.ns.cloudflare.com.
+cici.florist.	3600	in	ns	ns1.dns-redirect.com.
+cici.florist.	3600	in	ns	ns2.dns-redirect.com.
 cih56irispgvvu7bi87tqpod27mg4snq.florist.	3600	in	nsec3	1 1 0 73 D7H97D8VS86Q8C8RB3ITQUHQIGQ77C6E NS DS RRSIG
-cih56irispgvvu7bi87tqpod27mg4snq.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. icP1k7yYRqTjZ0CuhrKEVhNwQ0+/eszv5vnQW0N2+aYnBFX/GKMqX8onwL/hqBN63MsbY9jnlr/6YG3X/1BjnEFJ7el+zJjTNHdpioD4oMbqA2//6ovvL6gVbHDByiM/HVMk6xdON03hJfQjPKN0eJWYEIKvCIqDpetJLARg/fY=
+cih56irispgvvu7bi87tqpod27mg4snq.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. toybVuB1121qX3pl4jUlsW9x0csYABuJoJGFPdrVR7POPohcoAazc0Dw5f1ILs4rhb2ygB8PM+gAwTJ5GExYqMvWedTca6goRcJLDdA27+F/K4Hs/s7PDU9+zDB9rs0OvsKlFON37hQ5C5tLwG6i4c7z8e96QkqRPA+Eee4Cha8=
 cityline.florist.	3600	in	ns	ns17.domaincontrol.com.
 cityline.florist.	3600	in	ns	ns18.domaincontrol.com.
 clare.florist.	3600	in	ns	ns0.portfast.net.
@@ -1066,7 +1014,7 @@ cockburncentral.florist.	3600	in	ns	megan.ns.cloudflare.com.
 code.florist.	3600	in	ds	64026 13 1 B2E5D5B57B8DBEB89CDB22968BA292E1C73D1B32
 code.florist.	3600	in	ns	ns3.powerdns.de.
 code.florist.	3600	in	ns	ns4.powerdns.de.
-code.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. w2cIAQtkNECuIu2tUt2OeMdhdG0s7OCP4L/+Df3ZbsR75RuRmgqxy4toDu1++zd3erAzE8t1G1iDMYuhLBvcA1MZ5gX07A/9P3Mt9qPhffIIhuZ0A25Qfqh6Fkw7UhcprEnQnhEUrPtSR/sVeH6f28FepUORvsuXbU/wmUwW1po=
+code.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. OLOt8FFCFCn8AYYMDF9XGNz6FjLX1Uz4omLjgmu5QEtMmjKeexiCsP8KuydSjK5lTzL1vmJ/5TsW7AzjA1pGi/aBV2QTTMzA98AHvnfy/V7Kh1aV4u+VfQOUdCrAqxnujayK9lHSRSqp4cVzGsMm33SrD8V5r2XGEdijZ+TYkLQ=
 coleraine.florist.	3600	in	ns	ns-uk.1and1-dns.biz.
 coleraine.florist.	3600	in	ns	ns-uk.1and1-dns.co.uk.
 coleraine.florist.	3600	in	ns	ns-uk.1and1-dns.com.
@@ -1089,10 +1037,6 @@ computes.florist.	3600	in	ns	alexis.ns.cloudflare.com.
 computes.florist.	3600	in	ns	gwen.ns.cloudflare.com.
 conbicialcole.florist.	3600	in	ns	ns1.dyna-ns.net.
 conbicialcole.florist.	3600	in	ns	ns2.dyna-ns.net.
-concord.florist.	3600	in	ns	ns1dhl.name.com.
-concord.florist.	3600	in	ns	ns2knz.name.com.
-concord.florist.	3600	in	ns	ns3cfp.name.com.
-concord.florist.	3600	in	ns	ns4lrt.name.com.
 conformistforest.florist.	3600	in	ns	k4z3cimh.ns0.migadu.com.
 conformistforest.florist.	3600	in	ns	k4z3cimh.ns1.migadu.com.
 conformistforest.florist.	3600	in	ns	k4z3cimh.ns2.migadu.com.
@@ -1120,8 +1064,6 @@ contemporary.florist.	3600	in	ns	ns3.advantainternet.net.
 contemporary.florist.	3600	in	ns	ns4.advantainternet.net.
 contract.florist.	3600	in	ns	ns47.domaincontrol.com.
 contract.florist.	3600	in	ns	ns48.domaincontrol.com.
-convertjapanese.florist.	3600	in	ns	ns1.dyna-ns.net.
-convertjapanese.florist.	3600	in	ns	ns2.dyna-ns.net.
 cookes.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 cookes.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 cookes.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
@@ -1157,7 +1099,7 @@ cotodecasa.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 cotodecasa.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 cotodecasa.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
 cotodecasa.florist.	3600	in	ns	ns-cloud-c4.googledomains.com.
-cotodecasa.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. AExrWKEUaabSgKtYD/5Z88WgKyNlU+PuxnylevIJK66ArounfM/2slxYdHCOJrry1LOqTS8UOp2PV63/VUsDyV8M4KI3dpmzZgodFPaJl98ehHQemoDkNcY80BUWB7HYZaNMfVK1A2Fsx+dLBaTR+qrk55CaebMtQNq9gbat2Uw=
+cotodecasa.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. G5g1WdaE3DAgcCwCeYA08kG4TzFpOiX6/SMiZ3tiOHbYKM1CCcYXTXfBE5ofHUD9PWVbLDHoDnDkDQ3hNw95tKuOQScC/Dr/VGv8kEsmRM5k0oASXRgvPVuh6f8TGI8RJhse8zq2mZ64JeKw494p7c+fDjL5r4oWmXRVo0o4Cxo=
 craigieburn.florist.	3600	in	ns	ns1.partnerconsole.net.
 craigieburn.florist.	3600	in	ns	ns2.partnerconsole.net.
 craigieburn.florist.	3600	in	ns	ns3.partnerconsole.net.
@@ -1167,17 +1109,13 @@ crazydomains.florist.	3600	in	ds	3128 13 1 DA458F17C793891EEA39B9A95ED2F027605C5
 crazydomains.florist.	3600	in	ds	3128 13 2 9430CBD65882224217C946FC928217AD199F79DA4EB757085AE18915496BC839
 crazydomains.florist.	3600	in	ns	names1.syrahost.com.
 crazydomains.florist.	3600	in	ns	names2.syrahost.com.
-crazydomains.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. sr2TaU4mcgHziU09rxo6ADqhXybnraxMBq7WM4L3WVySnZEIZQwa6Vy4Fk8L3RbFHWNz9mL2kvb/ON8/MEDmHjBdq+wOdeFSDfytdus5xRWppBg4f/stebsk7spJBpHg47JQdhuyaJDKCuq6Xym0gBIosMcsNrGHULf3A2h1ou0=
+crazydomains.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. f/yajYuq5FQ8+jQDlmAnNNWGHrcb1HK03qPX2STMmUa9NvZ1+B3lgF7kOck92n/00K3P2xMkux8ZanxAGQv1jTC7nfnVV15KWgoTwHPw+bcUA0GMx6/X3+62wcnKCyWunUthPBTYxJ3O+C8fbRyBbYik59Z38/0+d0oq+vqTvio=
 creativeexpressions.florist.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
 creativeexpressions.florist.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 creativeexpressions.florist.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
 creativeexpressions.florist.	3600	in	ns	ns4.p201.dns.oraclecloud.net.
 crickets.florist.	3600	in	ns	ns11.domaincontrol.com.
 crickets.florist.	3600	in	ns	ns12.domaincontrol.com.
-crosby.florist.	3600	in	ns	ns1dhl.name.com.
-crosby.florist.	3600	in	ns	ns2knz.name.com.
-crosby.florist.	3600	in	ns	ns3cfp.name.com.
-crosby.florist.	3600	in	ns	ns4lrt.name.com.
 croton.florist.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
 croton.florist.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 croton.florist.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
@@ -1207,7 +1145,7 @@ cyza.florist.	3600	in	ns	ns40.domaincontrol.com.
 d.florist.	3600	in	ns	sl1.sedo.com.
 d.florist.	3600	in	ns	sl2.sedo.com.
 d7h97d8vs86q8c8rb3itquhqigq77c6e.florist.	3600	in	nsec3	1 1 0 73 E9FF90N5U351OT9QT68DHDFLBF4I4238 NS DS RRSIG
-d7h97d8vs86q8c8rb3itquhqigq77c6e.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. Er1qnE/FsimGlKUujDguViTmZqNjtH71K6KkU7cD2+Yx2F6JxnZuaU3HNMw/3Ss7c5kDnwxv/TyzrSgWVYs/9SW4D/KNkIvjfLyUbJjFio54FuyXP1SY6Iz7w90ILCSPB/7zQUttp8hcjk/jl+JV+y4bVsOA1Lnvl64bgrnb2+U=
+d7h97d8vs86q8c8rb3itquhqigq77c6e.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. UtLBVi79MP0H23n/fFbQzvjCYABYdsOz9naysE5FPl/QHqv/rE3XaF8YJGLrwQzrcoMacRjExEffnOK59iySKHSP7cYUSxRyt8R92nNO7rG7AAH31T8IG8bx0mZBS7II7xXiClUYpAdwN8UuVZczCthwlwWZzKQwznz5GJKnwuY=
 daflores.florist.	3600	in	ns	ns29.domaincontrol.com.
 daflores.florist.	3600	in	ns	ns30.domaincontrol.com.
 daisies.florist.	3600	in	ns	ns1.markmonitor.com.
@@ -1269,16 +1207,8 @@ dellasmaplelane.florist.	3600	in	ns	ns-cloud-b3.googledomains.com.
 dellasmaplelane.florist.	3600	in	ns	ns-cloud-b4.googledomains.com.
 denizbank.florist.	3600	in	ns	ns1.denizbank.com.
 denizbank.florist.	3600	in	ns	ns2.denizbank.com.
-denton.florist.	3600	in	ns	ns1dhl.name.com.
-denton.florist.	3600	in	ns	ns2knz.name.com.
-denton.florist.	3600	in	ns	ns3cfp.name.com.
-denton.florist.	3600	in	ns	ns4lrt.name.com.
 denver.florist.	3600	in	ns	ns45.domaincontrol.com.
 denver.florist.	3600	in	ns	ns46.domaincontrol.com.
-denvers.florist.	3600	in	ns	curitiba.ns.porkbun.com.
-denvers.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
-denvers.florist.	3600	in	ns	maceio.ns.porkbun.com.
-denvers.florist.	3600	in	ns	salvador.ns.porkbun.com.
 der-berliner.florist.	3600	in	ns	ns-mam.ui-dns.biz.
 der-berliner.florist.	3600	in	ns	ns-mam.ui-dns.com.
 der-berliner.florist.	3600	in	ns	ns-mam.ui-dns.de.
@@ -1317,10 +1247,6 @@ die-blumenwiese.florist.	3600	in	ns	ns1.world4you.at.
 die-blumenwiese.florist.	3600	in	ns	ns2.world4you.at.
 digital.florist.	3600	in	ns	ns1.dns-parking.com.
 digital.florist.	3600	in	ns	ns2.dns-parking.com.
-direct2.florist.	3600	in	ns	curitiba.ns.porkbun.com.
-direct2.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
-direct2.florist.	3600	in	ns	maceio.ns.porkbun.com.
-direct2.florist.	3600	in	ns	salvador.ns.porkbun.com.
 diskret.florist.	3600	in	ns	ns.inwx.de.
 diskret.florist.	3600	in	ns	ns2.inwx.de.
 diskret.florist.	3600	in	ns	ns3.inwx.eu.
@@ -1382,7 +1308,7 @@ dxb.florist.	3600	in	ns	salvador.ns.porkbun.com.
 e.florist.	3600	in	ns	launch1.spaceship.net.
 e.florist.	3600	in	ns	launch2.spaceship.net.
 e9ff90n5u351ot9qt68dhdflbf4i4238.florist.	3600	in	nsec3	1 1 0 73 ELL5AS7QHLGPMT6BP1SI3HMQU74O2C8M NS DS RRSIG
-e9ff90n5u351ot9qt68dhdflbf4i4238.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. TER/D9dPENa42qVUnsuiibYGyiQHeJ54hQ7Tsv7zbEC/EJ8gt0oTC7FZm+eia4vQIWO5LfnsueCJdSiPJY+lxM7KIXZXTVD3kd1HcN1RSI0FdQP5rfB+Lkfw4wyo5v4iqjP3oiLF3S4EsvcX8DnnEVL1hizKobkhcRWOToao/6Y=
+e9ff90n5u351ot9qt68dhdflbf4i4238.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. t3/L18Bnfxxeydc8l9wOR0zxmSniYviBDmbPP+KjUneoe3lXiekkrchgka34vkvHVXgvsUzl5WnZNga6ZepQZVtBisvO7yeIKP6Evr9KE7z4egMGH78m8a6hF7Q5fvcsm6/W1e3ncpCIVRbYDai5zL02Yh1Nm/TtN0uL+vJdWZ0=
 earththings.florist.	3600	in	ns	ns1.siteground.net.
 earththings.florist.	3600	in	ns	ns2.siteground.net.
 eastgate.florist.	3600	in	ns	ns51.domaincontrol.com.
@@ -1410,10 +1336,6 @@ edmontoncity.florist.	3600	in	ns	ns1.bracan.net.
 edmontoncity.florist.	3600	in	ns	ns2.bracan.net.
 eduabs.florist.	3600	in	ns	ns1.dyna-ns.net.
 eduabs.florist.	3600	in	ns	ns2.dyna-ns.net.
-edwards.florist.	3600	in	ns	ns1dhl.name.com.
-edwards.florist.	3600	in	ns	ns2knz.name.com.
-edwards.florist.	3600	in	ns	ns3cfp.name.com.
-edwards.florist.	3600	in	ns	ns4lrt.name.com.
 ee88.florist.	3600	in	ns	aron.ns.cloudflare.com.
 ee88.florist.	3600	in	ns	mcgrory.ns.cloudflare.com.
 efsanesaatler.florist.	3600	in	ns	ns1.dyna-ns.net.
@@ -1427,7 +1349,7 @@ elegantevents.florist.	3600	in	ns	ns9.worldnic.com.
 elizabeths.florist.	3600	in	ns	ns29.domaincontrol.com.
 elizabeths.florist.	3600	in	ns	ns30.domaincontrol.com.
 ell5as7qhlgpmt6bp1si3hmqu74o2c8m.florist.	3600	in	nsec3	1 1 0 73 ES81TONAP5KJ24PM707S8LTTHJMB5NE1 NS DS RRSIG
-ell5as7qhlgpmt6bp1si3hmqu74o2c8m.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. BJqToYAAYhFwLM/EGaZK1i4K848tMNFpjeT2gW1dsl3oZ/IrI5J0UV/oPZUkkcQfLiQvxWZg+rHe1WmSQ6A/aWCXlrP45XIajrtKfW1SG6phS9du8jTZ6EhwFcyi1zOW8tZM7OUE5Omi4Im8aa2fxZ1fk93GWIGAVXsqkF6LYhQ=
+ell5as7qhlgpmt6bp1si3hmqu74o2c8m.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. sIteLXe/7gBtUIxOvsJu9GQ6P//IFNBV/wF6FPVsfss8sggNrg9Cl0ONEea16Xu/L2eOhZtHZzzpYup4KkY6ZcrgqLlnryLoz5E5P7aS9u6+DMaeKKFrlHLPut1qkEwPidr4rj06D53znNdIY0rI5bKpZDXY2OCFVZ2Wiw5xUiU=
 ellie.florist.	3600	in	ns	ns73.domaincontrol.com.
 ellie.florist.	3600	in	ns	ns74.domaincontrol.com.
 elyselleflowers.florist.	3600	in	ns	ns1.wordpress.com.
@@ -1440,8 +1362,6 @@ email.florist.	3600	in	ns	ns2.afternic.com.
 email.florist.	3600	in	ns	verification-ej6tsmzaakq3btkqvg9cmd.ns101.verify.hn.
 emiratesnbd.florist.	3600	in	ns	ns1.ezydomain.com.
 emiratesnbd.florist.	3600	in	ns	ns2.ezydomain.com.
-emma.florist.	3600	in	ns	dns101.registrar-servers.com.
-emma.florist.	3600	in	ns	dns102.registrar-servers.com.
 emycustomflowers.florist.	3600	in	ns	dns1.registrar-servers.com.
 emycustomflowers.florist.	3600	in	ns	dns2.registrar-servers.com.
 enbd.florist.	3600	in	ns	ns1.ezydomain.com.
@@ -1471,7 +1391,7 @@ erika.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 erika.florist.	3600	in	ns	maceio.ns.porkbun.com.
 erika.florist.	3600	in	ns	salvador.ns.porkbun.com.
 es81tonap5kj24pm707s8ltthjmb5ne1.florist.	3600	in	nsec3	1 1 0 73 FNC1IE7EOO236T526ETIDF0FBU4F5AST NS DS RRSIG
-es81tonap5kj24pm707s8ltthjmb5ne1.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. cBcgURUQDctxwrO0HX+70BRmbO1PrJ6MEIj7PwGnW28omJT/sfRw0SZ7FuNGJaSUnu1p9IEpBiPRecBmdRo0lDHsi+lWY0bjXhB0i303yjkRPgP2Q5mBaRBUgYx0c9O/OEjdPdETwVH8msuF6Wwv8IeXTJMA+oGpvBGV9gKCWyk=
+es81tonap5kj24pm707s8ltthjmb5ne1.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. TcHk3XvfZxLuRTTjz3LSvsXWUupLtUOdLpBjNgIYG0rai+2KVkpMXv08z84l5pw+/5nw47cCN7Hdm0idnFIuFsK+VopxZQe1BN+rk9+D5nKmorifOfEiXxyrxm0leljnwKlJlD2wKVSlYD3ZJh/JrpznOmdp7nW+pcj6BqTPUgM=
 eth.florist.	3600	in	ns	ns1.dns-redirect.com.
 eth.florist.	3600	in	ns	ns2.dns-redirect.com.
 euro.florist.	3600	in	ns	dns1.zaccodigitaltrustlabs.com.
@@ -1489,14 +1409,6 @@ evanwebb.florist.	3600	in	ns	curitiba.ns.porkbun.com.
 evanwebb.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 evanwebb.florist.	3600	in	ns	maceio.ns.porkbun.com.
 evanwebb.florist.	3600	in	ns	salvador.ns.porkbun.com.
-evelyn.florist.	3600	in	ns	ns1dhl.name.com.
-evelyn.florist.	3600	in	ns	ns2knz.name.com.
-evelyn.florist.	3600	in	ns	ns3cfp.name.com.
-evelyn.florist.	3600	in	ns	ns4lrt.name.com.
-everett.florist.	3600	in	ns	ns1dhl.name.com.
-everett.florist.	3600	in	ns	ns2knz.name.com.
-everett.florist.	3600	in	ns	ns3cfp.name.com.
-everett.florist.	3600	in	ns	ns4lrt.name.com.
 every.florist.	3600	in	ns	au1a.bakkbone.au.
 every.florist.	3600	in	ns	au1b.bakkbone.au.
 everyday.florist.	3600	in	ns	ns3.afternic.com.
@@ -1568,6 +1480,10 @@ fashionflowers.florist.	3600	in	ns	docks07.rzone.de.
 fashionflowers.florist.	3600	in	ns	shades16.rzone.de.
 fast.florist.	3600	in	ns	ns1.dyna-ns.net.
 fast.florist.	3600	in	ns	ns2.dyna-ns.net.
+faster.florist.	3600	in	ns	ns-1517.awsdns-61.org.
+faster.florist.	3600	in	ns	ns-1893.awsdns-44.co.uk.
+faster.florist.	3600	in	ns	ns-53.awsdns-06.com.
+faster.florist.	3600	in	ns	ns-876.awsdns-45.net.
 faux.florist.	3600	in	ns	ns57.domaincontrol.com.
 faux.florist.	3600	in	ns	ns58.domaincontrol.com.
 fauxever.florist.	3600	in	ns	dns1.registrar-servers.com.
@@ -1579,12 +1495,9 @@ fazmilhao.florist.	3600	in	ns	ns2.dyna-ns.net.
 fb88.florist.	3600	in	ds	1758 13 2 3B19341CA4B0E04FF2DDC52F01C1803DF296BDA3EAE8923A081E5017932883C0
 fb88.florist.	3600	in	ns	launch1.spaceship.net.
 fb88.florist.	3600	in	ns	launch2.spaceship.net.
-fb88.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. I84a1rST9lpOG8dCk33D6FMyzLsXjLWA53VBseDbsrKfvc/9fE7reP4AzAHaHOf0fgsF7z/38OSjKLfStGZSo7DPk4nVEEjJh6U+LVW6/fAmCRpHmzdofib15see2FprjI6UXhd4tjWjo/bpdPmwgg0EUxHKinjYVM+AlgVyqPw=
+fb88.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. 2MOXZ5D847l8/hVKHlvSAtTCAaXxB4V5PKsdHfdcVqSSdtHkvntDEbh2mMIj1MDgL82Ayehw4a+/aye2kleeWrGcenWfe8v3dmq3OCchX1y1X2sLrrlLZv2KVwKgRh/pZ6Q/DkxFBm8VZV7KCoZ04w7kID6lWkAwWof3/S64/jM=
 feature.florist.	3600	in	ns	dns1.registrar-servers.com.
 feature.florist.	3600	in	ns	dns2.registrar-servers.com.
-feel.florist.	3600	in	ns	ns1.afternic.com.
-feel.florist.	3600	in	ns	ns2.afternic.com.
-feel.florist.	3600	in	ns	verification-ilzyovyxkjcylcmj8rbffy.ns101.verify.hn.
 feldborg.florist.	3600	in	ns	ns1.mail.jip.host.
 feldborg.florist.	3600	in	ns	ns4.mail.jip.host.
 ferris.florist.	3600	in	ns	ns1dhl.name.com.
@@ -1598,14 +1511,14 @@ ff.florist.	3600	in	ns	ns-cloud-e1.googledomains.com.
 ff.florist.	3600	in	ns	ns-cloud-e2.googledomains.com.
 ff.florist.	3600	in	ns	ns-cloud-e3.googledomains.com.
 ff.florist.	3600	in	ns	ns-cloud-e4.googledomains.com.
-ff.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. g943IFzEsuM6zMOmv55s28f1u9+9jcVfMjLiBokTl1mKciQUIiIiHVfXF2Es0dOsHeidM7VklJ1BXfpW0ToiZKh5YQZTBpvcFZCjEJS8CBYDpNv0sLooNmbSNkBTknUlCWd64hdbb1g91hRWPiKjAGrNzQe7vLfURtNr8UzqIRk=
+ff.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. UmMHtCK/vD8m2daLF3abNVYz7PGY74Z8Gfkd9AA0P7oB4Fmh0209yE/n8XuxOMrETwQosKiQpA8yrC5TjsttoMSwiHYvgRb5+XM0SvV8BgEYDf68UXtsVDQpSefGx5SowKADNWQSYPO2qIHvj36ZyQgTFQvJdPn+8F+fgOav5Ew=
 fieldofflowers.florist.	3600	in	ns	ns01.cashparking.com.
 fieldofflowers.florist.	3600	in	ns	ns02.cashparking.com.
 fienemie.florist.	3600	in	ds	52031 13 2 D325979A0F7A816243CF4CDCCBDBEA5854EF0D19DC9F04B1909C1DF6F8DF05C1
 fienemie.florist.	3600	in	ns	ns-c.dns.versio.be.
 fienemie.florist.	3600	in	ns	ns-d.dns.versio.nl.
 fienemie.florist.	3600	in	ns	ns-l.dns.versio.be.
-fienemie.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. aBd9CDkEwCrKaO+6cDGSjDNQm/TvIfOmOGOjYmse65Nk1AgUnhPC7hV3iAo8EhLMU1fxsBCeWFBRYTeJF8OfMqnJ1FXyO/sD/8airzKDzTOoZn3P6M4pskTWuLl1dEwh379EZWBth7szKYMFITVjXkXmdPQ5nAlycvvkfO8UqBw=
+fienemie.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. MrfJzEgqClh6UzSlPk6KIDw9epykkq8jnTsv8QZfUxVDlxn+fgphg2GQiPkg60EZtOzG8msfVPHi8Pak6bC/41OZyyBZTrMhocvqnLu7N2KinTnMFJJIS5uauJYcN8Nl/0NRQ8uDgjjJIni1uKAte00TahAxrjQTFoQvZ+Z/qm4=
 fifa46.florist.	3600	in	ns	ns1.dyna-ns.net.
 fifa46.florist.	3600	in	ns	ns2.dyna-ns.net.
 filipova.florist.	3600	in	ns	ns2.blueboard.cz.
@@ -1683,26 +1596,26 @@ floras.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 floras.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 floras.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
 floras.florist.	3600	in	ns	ns-cloud-c4.googledomains.com.
-floras.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. jtASpiNnXG/FWgYquMZDSCng1qXZFy3GNec0roHDMIQbGxZUlyYhzZPT5or+9Z1roF77FjcnldGXuZQzAfPUXimr94knC/YM5c00w3MCIx01+aLuD18ZXBDEeE4X3zxYUcyDHV+aWdzhvOXV//JPWJzMjjnknVsUDMKeqyan0L4=
+floras.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. oq9a5IXkHnFhkn66CpQBIEl/Mm7bZx6ypj3urpn2zhOheJnAj7gxi5nsaZoaB/BnVhd2CIwNnX2BQ2bx1JMeokvUBppdhFQgUKlJNzFJar5kDyD7Hk81oBtL/m8BZc8JCW8BOYg0lXA0s0y85aqgIeq59eqJK4YImCYp5zw1qK0=
 florateam.florist.	3600	in	ns	ns13.host-servers.net.
 florateam.florist.	3600	in	ns	ns14.host-servers.net.
-florence.florist.	3600	in	ns	ns1dhl.name.com.
-florence.florist.	3600	in	ns	ns2knz.name.com.
-florence.florist.	3600	in	ns	ns3cfp.name.com.
-florence.florist.	3600	in	ns	ns4lrt.name.com.
 floressence.florist.	3600	in	ns	ns-cloud-b1.googledomains.com.
 floressence.florist.	3600	in	ns	ns-cloud-b2.googledomains.com.
 floressence.florist.	3600	in	ns	ns-cloud-b3.googledomains.com.
 floressence.florist.	3600	in	ns	ns-cloud-b4.googledomains.com.
 floresyregalosbogota.florist.	3600	in	ns	dns1.registrar-servers.com.
 floresyregalosbogota.florist.	3600	in	ns	dns2.registrar-servers.com.
+floretta.florist.	3600	in	ns	ns-cloud-b1.googledomains.com.
+floretta.florist.	3600	in	ns	ns-cloud-b2.googledomains.com.
+floretta.florist.	3600	in	ns	ns-cloud-b3.googledomains.com.
+floretta.florist.	3600	in	ns	ns-cloud-b4.googledomains.com.
 florina.florist.	3600	in	ns	albert.ns.cloudflare.com.
 florina.florist.	3600	in	ns	isla.ns.cloudflare.com.
 floris.florist.	3600	in	ns	curitiba.ns.porkbun.com.
 floris.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 floris.florist.	3600	in	ns	maceio.ns.porkbun.com.
 floris.florist.	3600	in	ns	salvador.ns.porkbun.com.
-florist.	3600	in	dnskey	256 3 8 AwEAAbXff7HYaJr6qF346FMq0e9lp3wKfwysUXvBYaflWXh9Jg8/q8cLhfC3iCvlGLZGI5z91riQuOr4sDFCfB5wygJCH4NH3yJBnYBVDHS74mLEguQmBMXgs8ZyNWE2Hpep/PxgGBt97SQxX+QTkQXywxl5CmwpxONLfuDCDq74v6J3
+florist.	3600	in	dnskey	256 3 8 AwEAAbnHIUfqBOxevi3ljrEeB1wgSKabRKBY7iaWDHoqqRJhpqLYwJ+GVSrl00hHoty8XKGO5tSUEdqM/BXqRFFgH9faHCU6MRLcitg9B9j9rWcgqj0ZSOKcjqUavsgvQmoq2YGc6Ys5kNs0IMjx2Iam4mz3ubf3pXs3xkySCPR+Lw7r
 florist.	3600	in	dnskey	256 3 8 AwEAAdtMV62dpXug/OOJ37kLiyqNQrCEMsU5PL+wnChrlKQT2vm0FCdMyb/Eduml4AijUFns/73nrSBeiH4aYPgcViGxEMQ/02p3gkBlB80UZIHNS2FLbVKzghMsXalmu2o44t71Zw8eJnG+fqTkIVZe6PzdmEabhQUbcfiGyhMOp2D7
 florist.	3600	in	dnskey	257 3 8 AwEAAaI+To5N4G4fNi817BSp84vT/2KPRj+cK9GUGh3W3oaNNt9Ln5PBHSqJEinaWakV2W2yt/rZZehxd6873ZxCVOyqQoBhnotrm4ymjGQPbYwZtgwVfOEafOdDBjEy9tQ6/Sbfc67VlnRnAkXz2PHKP8hUROT6n8sO6R76C3f99IJ5Y3Np0TP1zmjCBMqmbHdlXAYWdaAqt6Y7Fgh6AopbohDqd9fbvm1Odwa02QnMJ5seCf2byApcYmGaru/JYFCKgDzESFy83Ra8aHF/hvS/CNrsd4jdQD5PNnqUAHx8dIz8wv9nmIM9U0gh4RjO6r3Maw4YQFvNX+efM/8KXHkTr20=
 florist.	3600	in	ns	v0n0.nic.florist.
@@ -1712,10 +1625,10 @@ florist.	3600	in	ns	v0n3.nic.florist.
 florist.	3600	in	ns	v2n0.nic.florist.
 florist.	3600	in	ns	v2n1.nic.florist.
 florist.	3600	in	nsec3param	1 0 0 73
-florist.	3600	in	rrsig	DNSKEY 8 1 3600 20260122151729 20260101141729 48775 florist. TzCaZr/iiM2llW0GiELEfTJ8YMNsLUZ5vnR7v/nGOazlf4g+OKUigifRKLIvp9147f+tl37zYnoWexR9sCcmN+sLcQXiL2IYfghxz5Fbby553N4Nmekg+wSvGcjFxLY64Ebka4A49/DVN1zDCQ9gSC6mE8tzjZW0fiMYZ2sAgrDG3mC/URJVnY4oVsAspuZn9w5Rkmp2Nzp1bE9RqkQTmYGH6DiQzcrdAS9hsD/K6o/hkxSyMOuAEA68+NZ1o9cnAc9yzm/tq1Hm7vFamofs25uI1MKcSPX8iHeO8MpdCOcBkboH69r/E5kWEUmfIjRMkqsT9bOLVVRALCO62FRu0A==
-florist.	3600	in	rrsig	NS 8 1 3600 20260122151729 20260101141729 31533 florist. Zj/lvPlIT2HCNkYybIAHcDo+uCVueF3MTB/F23IXINlvda4rJkIhWPCk4Z5lt+G9xfklhOXxsh4lH+yv1nevRf2dLTOdHx+kr2W0rCUCVQIg1QXXG+aMjWzY8xJhxgOGC9K+wAtkiSr26vJQwTjvW9OSFaT91tOXsjcL8WTU4s4=
-florist.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260122151729 20260101141729 31533 florist. TU472oFLoauEKworqSVqL0NPnoOexdniF6L3ThduWVPie1ruUG5pxzD7bpCxLqx/ZlCiL23NeEtMba+jpIGd0TeKAdtoNW+dOXcfLCLf9dbnDDgZ+hqbH/cz+/uNL8c45RvFhv/H4w4i394aDGHrSlrb4xEKnmC2iLmXbY8ChWQ=
-florist.	3600	in	rrsig	SOA 8 1 3600 20260127010126 20260106000126 31533 florist. 2PNBeZaTCZQpNMyviAddDREj/K5NIkxZVtCW21NWrFV1fz8/abvjMbcrJiV11fodctjRYtqO7J7y9SwXbH4LoPQltPam86NV+T2TV43bNxMWDCvYnm3njADhCX8NNoFINPaK++y5faZ4PLqzsL4vYV8GcrH/XtvVkBpLdCNetKU=
+florist.	3600	in	rrsig	DNSKEY 8 1 3600 20260207154334 20260117144334 48775 florist. fg7dWdaATbRjmnh5/gbTOydV27eA9OHEctTvpqc+5Mp0LmASIk4H2Ek7iGP7elrbZxrmgLapDj5ZiJDd/X4wxcykaSlAog0LbC7JukBdlfwBO4Jchs0XErM07eJlsArhzlboWLr9nGnms3OlUtiuUpeCT3/g8NLiSyM9Dm0aq4CjJHoF+5VSelcR/Ah8hGVcLt3cRdxjeMETB3WinghmNZXeLNYgNvZjsz2Kmb+eRRQa6TO5CI9C9hq9CdRrEhJE0RP2ACtJmMmxBsSoCn1V7NLjqj7PLINNTH3ib3FnTon01T8Omi9hbdO/QkBsPaYdQ9uWDpr1ZeIsdx7PMSqU9w==
+florist.	3600	in	rrsig	NS 8 1 3600 20260207154334 20260117144334 31533 florist. CrEELLfjn1PLUYimCFTRVCm6ZVbTPRWRCdWdJtUe5Zbpoqe7lMjRKGgNHN01PZvM2iCX0ysmIEpuZ301gMegA3HNHEm+ekPF1N4xnJw9dzWqo1bXVDPoVa2/9RC7XlR6NHzsK8TLOiUX+PDBMyA1LW/ZrJEHW/t9tp+e4RSdoo8=
+florist.	3600	in	rrsig	NSEC3PARAM 8 1 3600 20260207154334 20260117144334 31533 florist. xU67gRNE95k7kQDm5T2kk7WRkflWG/d5Z9yeQ4D7OFUlvoUNFhIuY1JsXwcM1I6n0dt66vMCr0nizqf2GKbx3yhuUBjRkkFQu5IAlTBXygecnB6jrxACXWV/5MUxacvI+UFEiQH2vQXF90mFBTjQdBtWheNod0PJr9a/iEwGHi8=
+florist.	3600	in	rrsig	SOA 8 1 3600 20260215010540 20260125000540 31533 florist. mS5r4RBgwfBZlJcBgW3vhvzkmCFlLrMXUvgacM5/cbGJQxwN9mN/QYW7wy76mssL3RthhLB7ptib7gshQ7roX6YD1VtweCaBPk2EgFUHKrJpoIjzETsu8fOMZORyi9KPfSOH8LYzMtK7zvHwbFfp1TpVvgoBpbRmtduWv6tnpG0=
 florist.florist.	3600	in	ns	dns1.cscdns.net.
 florist.florist.	3600	in	ns	dns2.cscdns.net.
 floristchoice.florist.	3600	in	ns	ns21.domaincontrol.com.
@@ -1738,14 +1651,8 @@ flow.florist.	3600	in	ns	dns1.registrar-servers.com.
 flow.florist.	3600	in	ns	dns2.registrar-servers.com.
 flower-shed.florist.	3600	in	ns	ns1.siteground.net.
 flower-shed.florist.	3600	in	ns	ns2.siteground.net.
-flower-symphony.florist.	3600	in	ns	dns1.p09.nsone.net.
-flower-symphony.florist.	3600	in	ns	dns2.p09.nsone.net.
-flower-symphony.florist.	3600	in	ns	dns3.p09.nsone.net.
-flower-symphony.florist.	3600	in	ns	dns4.p09.nsone.net.
-flower-symphony.florist.	3600	in	ns	ns01.squarespacedns.com.
-flower-symphony.florist.	3600	in	ns	ns02.squarespacedns.com.
-flower-symphony.florist.	3600	in	ns	ns03.squarespacedns.com.
-flower-symphony.florist.	3600	in	ns	ns04.squarespacedns.com.
+flower-symphony.florist.	3600	in	ns	ns1.renewyourname.net.
+flower-symphony.florist.	3600	in	ns	ns2.renewyourname.net.
 flower.florist.	3600	in	ns	dns1.registrar-servers.com.
 flower.florist.	3600	in	ns	dns2.registrar-servers.com.
 flowerama.florist.	3600	in	ns	dns1.cscdns.net.
@@ -1767,7 +1674,7 @@ flowerbuddy.florist.	3600	in	ns	ns-cloud-a1.googledomains.com.
 flowerbuddy.florist.	3600	in	ns	ns-cloud-a2.googledomains.com.
 flowerbuddy.florist.	3600	in	ns	ns-cloud-a3.googledomains.com.
 flowerbuddy.florist.	3600	in	ns	ns-cloud-a4.googledomains.com.
-flowerbuddy.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. ubPQRPOvYBonU7mcIBfOMrsOqEtAuTDxF+iLXytcvfdXP8rFSBPaa+SauuLLWM9AKW2DcX4Ni1eXVCxuBmZqizJepeVznhn0sZd/loPYc68hWVV4ibegKLKs1hMqn9tTby5JqbftNwUtRAx4lDyyTW7ONMDu0zxRd+vZFR4fJ3E=
+flowerbuddy.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. oZhprFlZ6aBCDSPQ3GljQg2WMSbLv4eHIp5Y04C8SnllQVqSUpmuWI2ouoY/bwu51sOyD0Rvjywm51CzrqEQT0Ae3055u4dGZBh1pH0M2altb+V31ve1z5K5uN4NSdQ9m/XgkHnWJF8qQ1VzbKbWis1yV3/Io9J+YpHAJ+WUTGg=
 flowerbuds.florist.	3600	in	ns	ns1.wordpress.com.
 flowerbuds.florist.	3600	in	ns	ns2.wordpress.com.
 flowerbuds.florist.	3600	in	ns	ns3.wordpress.com.
@@ -1804,10 +1711,6 @@ flowerinculpeperva.florist.	3600	in	ns	ns50.domaincontrol.com.
 flowerlink.florist.	3600	in	ns	ns01.trademarkarea.com.
 flowerlink.florist.	3600	in	ns	ns02.trademarkarea.com.
 flowerlink.florist.	3600	in	ns	ns03.trademarkarea.com.
-flowerman.florist.	3600	in	ns	curitiba.ns.porkbun.com.
-flowerman.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
-flowerman.florist.	3600	in	ns	maceio.ns.porkbun.com.
-flowerman.florist.	3600	in	ns	salvador.ns.porkbun.com.
 flowerofra.florist.	3600	in	ns	dns1.registrar-servers.com.
 flowerofra.florist.	3600	in	ns	dns2.registrar-servers.com.
 flowerpetal.florist.	3600	in	ns	ns-cloud-d1.googledomains.com.
@@ -1872,8 +1775,6 @@ flowerstop.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 flowerstop.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 flowerstop.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
 flowerstop.florist.	3600	in	ns	ns-cloud-c4.googledomains.com.
-flowerstylebylaurie.florist.	3600	in	ns	ns1.domainhasexpired.com.
-flowerstylebylaurie.florist.	3600	in	ns	ns2.domainhasexpired.com.
 flowersystem.florist.	3600	in	ns	dns1397-1.nexcess.net.
 flowersystem.florist.	3600	in	ns	dns1397-2.nexcess.net.
 flowertalk.florist.	3600	in	ns	ns1.dnspackage.com.
@@ -1887,7 +1788,7 @@ flowerworks.florist.	3600	in	ns	ns74.domaincontrol.com.
 fmn.florist.	3600	in	ns	ns57.domaincontrol.com.
 fmn.florist.	3600	in	ns	ns58.domaincontrol.com.
 fnc1ie7eoo236t526etidf0fbu4f5ast.florist.	3600	in	nsec3	1 1 0 73 FSUMK4E337RFOO1OIA3NTHDTQ8EH49O9 NS DS RRSIG
-fnc1ie7eoo236t526etidf0fbu4f5ast.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. nCDapquP05PfG0TdA81Q6yacbmrHQ2oVssz1eNXWRiVJMpw8UdBrMPXHaWIMruJGgHZk28oAeVR1lf2Yrw/+HblBCyuOhUF15HGa7+XivE1fqzzDQJJyhLcPUV1TpaYwMdAMtPiYlkfGajUnf27gTgv1PcNhge3im+c3GPutVXc=
+fnc1ie7eoo236t526etidf0fbu4f5ast.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. Rp9F4omyuFeVH3V61MWUg4w6E48sWGOsxY/vU7fdIozqr05WPk6E8eGIpZ/IgtXfl2VAkk8TIodtRhZW09XOmoxmOxWz+JlzSJ+mmMACfmQ1bs0kae8oJa7TPeY5zaNeEX4bqn3PqisnJ1OcQqqCfbKLDUfHz9ku5dNZZqboHxM=
 fnt.florist.	3600	in	ns	grant.ns.cloudflare.com.
 fnt.florist.	3600	in	ns	mallory.ns.cloudflare.com.
 fonbet.florist.	3600	in	ns	ns1.101domain.com.
@@ -1922,7 +1823,7 @@ freelance.florist.	3600	in	ns	ns-cloud-b1.googledomains.com.
 freelance.florist.	3600	in	ns	ns-cloud-b2.googledomains.com.
 freelance.florist.	3600	in	ns	ns-cloud-b3.googledomains.com.
 freelance.florist.	3600	in	ns	ns-cloud-b4.googledomains.com.
-freelance.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. 0DGDST+NJ/0+kjlTQKCqBz7pMAAYN5tcqkLOMo8P8AUCm9rluV52WESJS+/Gj+FAApeYg1yUE1fdSgjGgdJaefx0101tN0nbWHkEyM7MtqwZ5gcCi2v3/8HNsLWT88wN9HRanTTd82T59q6E2bJa3Z61JmH2060HRCnbB/y8l+M=
+freelance.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. DPeaeTcgwr7F7bVtUe75OmUBSNbEiuTAds+mVrY6hh1EJl9x7kenq7PIqbzn18VTl1h1sdUCEDqW5YVlzzs7Hxcvx0PMWULFRLz+pRzXbBR3XgDeRdmwrelqGRpKiEIb2DAxJlWAwOv6nDYLGlGiWO6leeqgJ31xnlaGVGQI2Pk=
 freeman.florist.	3600	in	ns	ns1.syd1.hostingplatform.net.au.
 freeman.florist.	3600	in	ns	ns2.syd1.hostingplatform.net.au.
 freetaxusa.florist.	3600	in	ns	eve.ns.cloudflare.com.
@@ -1969,7 +1870,7 @@ fruitbouquets.florist.	3600	in	ns	dns2.cscdns.net.
 fruitfulblooms.florist.	3600	in	ns	lila.ns.cloudflare.com.
 fruitfulblooms.florist.	3600	in	ns	ridge.ns.cloudflare.com.
 fsumk4e337rfoo1oia3nthdtq8eh49o9.florist.	3600	in	nsec3	1 1 0 73 G8CDLVBCFOSHUN91MV5C3K4L25EFFM4J NS DS RRSIG
-fsumk4e337rfoo1oia3nthdtq8eh49o9.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. t/AVX5svUpQQWRQp355IMv1i2g9yg3I2w0TBYVcW73mrl14ULSqYVZM9AZiIIWHa9aHm6K/R2idOQVRogJm/BxwaonT9sW75Aoj9UxLs2/9HpyogL8X3b7q+SSFbmLPzr8X+Av2PXPg8mZZd8yNZRWcgIxF8uRSBSEgvvlSsRMQ=
+fsumk4e337rfoo1oia3nthdtq8eh49o9.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. W1lg8BWq5XSp2qAKTYp4s/KEsujfE496HYmnpx2YDlbm4H21Jm56UnSIg5v28JdA8yZbJ6YhwXdLBQrhWOosk+xogAm73xKfSLeTM/W2TsKB8v1UJ3O1lUeeRkp0wCuwr4VZ+GfkSGR5RKGVXeqG46Oc5cdhVbdypMynCyMLoJ0=
 ftd.florist.	3600	in	ns	ns21.domaincontrol.com.
 ftd.florist.	3600	in	ns	ns22.domaincontrol.com.
 ftmyers.florist.	3600	in	ns	ns31.domaincontrol.com.
@@ -1986,7 +1887,7 @@ furst.florist.	3600	in	ns	dns106.register.com.
 fussell.florist.	3600	in	ns	dns1.registrar-servers.com.
 fussell.florist.	3600	in	ns	dns2.registrar-servers.com.
 g8cdlvbcfoshun91mv5c3k4l25effm4j.florist.	3600	in	nsec3	1 1 0 73 GDJTQ6QKV6AS2IGJ7HA5T15BODS627CJ NS DS RRSIG
-g8cdlvbcfoshun91mv5c3k4l25effm4j.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. paDXII/MXNFKeCiNmgpA8iFDLkyei9djR7M/Upg/9plwwt2xb0wxQbd8h4sd6f7vs9ys5vFHCtHQsLOiHceH0LeZm82rtp3hJDJwQo517Wa88KOnaiWiIcOR4XVRHySKTb06LLQP4/IzrP7sIBud9Yypt5D6bUik16AaPNCZ4HE=
+g8cdlvbcfoshun91mv5c3k4l25effm4j.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. sd1XXP+kh4J3zQw+41Ytx8yxT2SdEF21JIQoFS90dglmYUs/h5Cyj/C9tr6TomKql/j6Q1ljnnLXHBXTAcE8yAwzaNKidazD0p2prVhZLyQrkiYf1VKJiQxv+HkL9Yxd9lo0DsmWg+Pw1xM9vavLKoAJFnLFRp8FTYs+69rxmF0=
 gaensebluemchen.florist.	3600	in	ns	docks01.rzone.de.
 gaensebluemchen.florist.	3600	in	ns	shades07.rzone.de.
 gaia.florist.	3600	in	ns	ns1.dns-redirect.com.
@@ -2000,7 +1901,7 @@ gardengate.florist.	3600	in	ns	ns-cloud-b1.googledomains.com.
 gardengate.florist.	3600	in	ns	ns-cloud-b2.googledomains.com.
 gardengate.florist.	3600	in	ns	ns-cloud-b3.googledomains.com.
 gardengate.florist.	3600	in	ns	ns-cloud-b4.googledomains.com.
-gardengate.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. fprnrsEJ/pf2i74gwwCUTwM+gn2lJBepHILaXomKxgjG8xvU3xogc5LPUzLhYePPGpJY6j+kkmrpeQvhpRQHOYSfM4BQcmW49nzvmf+YCbHCZrums+Nj+cpXRQUOfA87/r9ikjGgFtdWDI7ox6yqt7x4W5vWajQABcw9Hm75csU=
+gardengate.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. CcxKl1TB6jFKgylVNXfukVzgHoW2dsf0Swnj3FOeZi2h+HzfRj8o+SbXrDaI4aZw+mWm4K64Pbva/BXSv7dnZ7qojyhky3UEsMoQcO7s2mMO4L8NsCK1xI7Lj4zXpsd5fZt6k/Z+m+Heqv5Ag/YaSC7NuHNePajdvW7aAdQNznY=
 gardengrotto.florist.	3600	in	ns	curitiba.ns.porkbun.com.
 gardengrotto.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 gardengrotto.florist.	3600	in	ns	maceio.ns.porkbun.com.
@@ -2024,7 +1925,7 @@ gardenofcyn.florist.	3600	in	ns	ns04.squarespacedns.com.
 gardenofgreen.florist.	3600	in	ds	58768 13 2 79EE18637A7C66845ADB4EFB066D9DDA8A21E127ABDDEFA43ACD0086FB4C45EA
 gardenofgreen.florist.	3600	in	ns	ns01.one.com.
 gardenofgreen.florist.	3600	in	ns	ns02.one.com.
-gardenofgreen.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. Zl/U6XPqeJCHqzF7FFMRguPF4KZ2hopMI51Hb6cdSPJN7b+HlGczIcvCo1WVQDFqxUlY5P/KFcm8Lf7j4k1EVL+aoWDk0QXzx152M8+wC8xBaXMxD701EwAUHbfw2iSvKllLcECGP4YmfHyYYir2OA/2gTSpHn34hXfyUOO/2kU=
+gardenofgreen.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. w0Xnr749Fi7l74Gk+7Nta1t2MBZLOv7huxxJvBUnPKjMPNhdduWRF06pfeHyoRGKMZDFUFwp9PBhRDqpA6Mu0yMCHyZq9nsr5x9NgIuh9VIcK1ESqaVsi7xMEktXyOZzAI8wH8Pt80231lcjDQrul3sLAgiflESHuhAjNYn2CNA=
 gardenofroses.florist.	3600	in	ns	ns-1373.awsdns-43.org.
 gardenofroses.florist.	3600	in	ns	ns-1770.awsdns-29.co.uk.
 gardenofroses.florist.	3600	in	ns	ns-27.awsdns-03.com.
@@ -2036,18 +1937,14 @@ gardensite.florist.	3600	in	ns	ns2.livedns.co.uk.
 gardensite.florist.	3600	in	ns	ns3.livedns.co.uk.
 gardenstop.florist.	3600	in	ns	dana.ns.cloudflare.com.
 gardenstop.florist.	3600	in	ns	sam.ns.cloudflare.com.
-gary.florist.	3600	in	ns	ns1dhl.name.com.
-gary.florist.	3600	in	ns	ns2knz.name.com.
-gary.florist.	3600	in	ns	ns3cfp.name.com.
-gary.florist.	3600	in	ns	ns4lrt.name.com.
 gay.florist.	3600	in	ns	curitiba.ns.porkbun.com.
 gay.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 gay.florist.	3600	in	ns	maceio.ns.porkbun.com.
 gay.florist.	3600	in	ns	salvador.ns.porkbun.com.
 gdjtq6qkv6as2igj7ha5t15bods627cj.florist.	3600	in	nsec3	1 1 0 73 GE6MQ95HRLQJTN9L31BT32I1FF00QRDQ NS DS RRSIG
-gdjtq6qkv6as2igj7ha5t15bods627cj.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. I5V9mOaPmXFDNHcDiqX1bFm3PeS+vfMG9ZTK4zwoGLSzAMgAS14v1nmx7q/8mE8yJKeXTr5iVAwap/pvOtEPTvitxNRLiOwuWSikez5MtQy7sF3hCk1cMsaSJrD/DxVjEmEXsLUXSMcDXodya0fxlIppqA+6iJrRlZ88Qu9xEQE=
+gdjtq6qkv6as2igj7ha5t15bods627cj.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. SDmIQl0Ll4Kn1TcxDRCeDkni/yILIoVqR5s2Mylo/96+xiY5jLsgh4VN6BSSa601l2a+SN2AcVYu6rF2tsxYvtEtZHCLQPb0iz7p3wAIn4q5JrqcxfhMwWs7cz8sr21jg9hJHNFufSPgI+70HhXGKvABYtkp6ek8yY+7nstamjI=
 ge6mq95hrlqjtn9l31bt32i1ff00qrdq.florist.	3600	in	nsec3	1 1 0 73 GND517EC4KBMSS41QU00JC2TJENV9IRI NS DS RRSIG
-ge6mq95hrlqjtn9l31bt32i1ff00qrdq.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. JC15zwbJg2BADl6SKyq8xhcCj6ieMJWyiB4wMA8OmFkUe4/bngg//nG9gEDT0mQVi41ykTC8cMwFbYhYJ97wTatYAqlpPqY0wU4QmQ0tS9L7ce7CLrJsb7gQzJdQ+FODn3OkotIdm8z3rBfEszIeNYgOPmzqXwW9x3XBiQM+JNs=
+ge6mq95hrlqjtn9l31bt32i1ff00qrdq.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. mSwldN2udI0g0pgfa3/36mF+bKCQ++OvfN0MmIFQkSwNqU2Gjfqnr2AncqdHz6vIYfysw6Mk7K+AkxaWnokC0loTY6XVtbz+W8VNfESUSmBxd05JN8gwb6xpucs8VyqIz0DeTkA6WiHNuN/xtc/ZRmkndF7ICJfbLZFVMSYU16o=
 geelong.florist.	3600	in	ns	ns1.partnerconsole.net.
 geelong.florist.	3600	in	ns	ns2.partnerconsole.net.
 geelong.florist.	3600	in	ns	ns3.partnerconsole.net.
@@ -2067,6 +1964,8 @@ genuss.florist.	3600	in	ns	pns41.cloudns.net.
 genuss.florist.	3600	in	ns	pns42.cloudns.net.
 genuss.florist.	3600	in	ns	pns43.cloudns.net.
 genuss.florist.	3600	in	ns	pns44.cloudns.net.
+giftsfromtheheart.florist.	3600	in	ns	ns61.domaincontrol.com.
+giftsfromtheheart.florist.	3600	in	ns	ns62.domaincontrol.com.
 giftsnroses.florist.	3600	in	ns	ns108.hostgator.mx.
 giftsnroses.florist.	3600	in	ns	ns109.hostgator.mx.
 give.florist.	3600	in	ns	ns19.domaincontrol.com.
@@ -2089,8 +1988,10 @@ glow.florist.	3600	in	ns	ns59.domaincontrol.com.
 glow.florist.	3600	in	ns	ns60.domaincontrol.com.
 gmo.florist.	3600	in	ns	dns1.onamae.com.
 gmo.florist.	3600	in	ns	dns2.onamae.com.
+gmx.florist.	3600	in	ns	ns1.dyna-ns.net.
+gmx.florist.	3600	in	ns	ns2.dyna-ns.net.
 gnd517ec4kbmss41qu00jc2tjenv9iri.florist.	3600	in	nsec3	1 1 0 73 GSMNU48092VJ0CEKJQJ50PUUT127HMVT NS DS RRSIG
-gnd517ec4kbmss41qu00jc2tjenv9iri.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. dXVVQSP3St6XxOJObKDXPSKzurGT0EDftqmMNBoHGLSLdRCFzd9S+RKuUj67WhsCnPYzwNwM4O0SN286BEi6RAdX1cK/U+uyVOnOeQR5GFpcrKf6hJkcOU5ahFKKXJ+U6A+2TsCuMTnNtbObeWeo3D9AC4Sv2dgg4Uzm7nkZXt8=
+gnd517ec4kbmss41qu00jc2tjenv9iri.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. qYJwK8SgbxakWEzTvqnYjb9eoNIaja4dxr4xxVw/gw6APnVTBU2kbAyLpcqddJZ83cg2SNKin62OaHAWXp18x1SQ/3HT+MRAKvg3vfl0Hf2nI+6+xoccCnRT8q97x+/AfeXNCMFoikjL8XvMxnTiuq3zCEy/H3Lr7JTySH9u75U=
 go88.florist.	3600	in	ns	dns1.registrar-servers.com.
 go88.florist.	3600	in	ns	dns2.registrar-servers.com.
 god.florist.	3600	in	ns	ns1.dyna-ns.net.
@@ -2112,8 +2013,6 @@ gold.florist.	3600	in	ns	ns.udag.net.
 gold.florist.	3600	in	ns	ns.udag.org.
 goldcanyon.florist.	3600	in	ns	ns51.domaincontrol.com.
 goldcanyon.florist.	3600	in	ns	ns52.domaincontrol.com.
-goldcoast.florist.	3600	in	ns	ns1.ms454.parklogic.com.
-goldcoast.florist.	3600	in	ns	ns2.ms454.parklogic.com.
 goldpoint.florist.	3600	in	ns	dns1.onamae.com.
 goldpoint.florist.	3600	in	ns	dns2.onamae.com.
 gomaringer-blumenlaedle.florist.	3600	in	ns	ns7.za-internet.net.
@@ -2176,9 +2075,9 @@ gruen.florist.	3600	in	ds	43722 13 1 E66DCC9E94DDFC8AED32E61F88B5B75D45E7CDED
 gruen.florist.	3600	in	ns	ns0.transip.net.
 gruen.florist.	3600	in	ns	ns1.transip.nl.
 gruen.florist.	3600	in	ns	ns2.transip.eu.
-gruen.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. ojEjleM++vcn0UdhCvx1ev+pCXISQZj624YFMMN+MKOMa22DM3wKqOum9bkp+3lthvx0nk/vVKOesD9JQMTCufzI5TYlF4zXtiabetSepkiyXZgMHi6KEJxAYCyxOFOF2qumvzQpz1/fGBiavoWExWB34dXCfN+zKDqiaXj6l9U=
+gruen.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. XSiSVnMeke0o7hWm85Lnr5z1hGJexs42nN8d9GQ3E0/dWf43druo5wNNloJGtRFLxTmW4Pjtg6Gu10OpCrqZ8cRE57qMkozSojyusmr86j+08g+GQ/avGtDZu0vh8FrZOR1nAr1q6a3Rr2rpXarV2nu+VfS+2aCLqUYJJg4OOO4=
 gsmnu48092vj0cekjqj50puut127hmvt.florist.	3600	in	nsec3	1 1 0 73 H0BJBO53FSNJPDEBGMD7I1O87P2O0QDP NS DS RRSIG
-gsmnu48092vj0cekjqj50puut127hmvt.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. VDpX6/SAYSL8MCMdjNDWYu9P4X1DhqutM+SP6ZIyvAzMrDs88A63VNwl1PLZfF84U7/RAbaV9hYI/bGKy1wg9mdLuLPBTTJOx2VUmDxX0tnuP0BvmWtgLxwf+vabpPAilgxNuuUG9pzXmZ6zy8CY34sr2QidsNA2HjZNSO+KMDg=
+gsmnu48092vj0cekjqj50puut127hmvt.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. joKIey5VcOjQ66CBtIJphQU4MnNnN80K8r8+BMHRmSY8lxeL845LkWx0qIqxDgJMGHcS2WT/0Fp6BCNd9ewES7K2CIC16nlQVv9ECpXrq95TJ5SumtSGkx8ucuIgFITH33q5QYNpVahR3OVQti/GMlBVsP5sR1h+LWApdOzeLvo=
 gto.florist.	3600	in	ns	ns55.worldnic.com.
 gto.florist.	3600	in	ns	ns56.worldnic.com.
 guaranteed.florist.	3600	in	ds	44587 8 2 94051E7C1F7FBA440CD2580FF33C5E8A1E85FCB8CAE06A64FF7028A1BF59507A
@@ -2186,7 +2085,7 @@ guaranteed.florist.	3600	in	ns	ns-cloud-b1.googledomains.com.
 guaranteed.florist.	3600	in	ns	ns-cloud-b2.googledomains.com.
 guaranteed.florist.	3600	in	ns	ns-cloud-b3.googledomains.com.
 guaranteed.florist.	3600	in	ns	ns-cloud-b4.googledomains.com.
-guaranteed.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. mBiqJC6rGssGH5UfQEmH7S8hPGNbKuu8PetvQ8rnT8NT9KyxDmkrIE9+eFZon39C6/dv1pwcHKBUd9QgvwXpojAie5bFtaHg4necQFIeVutH6Gu90c34d9JjFZrNGepyf/XObeZes0llRrKhmxLlN73YNlei4D7/OsBET8p8SzM=
+guaranteed.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. 2tnNZmmuksVxlP1qdV8lgGtXRria9chd02h/FGjHWesxEjswPwrqOdsIW1F9ErCZgF900EqeWVS2qayRY1Y4AnQjljA+2+XjV2eU+FWgPr+4Jdwb03Avzh3fVQreBM8hC9dXN6arcLVkX0AN0J4J12LqqLFLX/AvJ/7yWNWQ+Vw=
 guardaserie.florist.	3600	in	ns	brett.ns.cloudflare.com.
 guardaserie.florist.	3600	in	ns	dawn.ns.cloudflare.com.
 guilfordwhitehouse.florist.	3600	in	ns	ns89.worldnic.com.
@@ -2202,13 +2101,9 @@ gut.florist.	3600	in	ns	dns2.namecheaphosting.com.
 gxbfxvar.florist.	3600	in	ns	dns1.registrar-servers.com.
 gxbfxvar.florist.	3600	in	ns	dns2.registrar-servers.com.
 h0bjbo53fsnjpdebgmd7i1o87p2o0qdp.florist.	3600	in	nsec3	1 1 0 73 HMOE47HLK3TO61BVAV81906FHUAD27CA NS DS RRSIG
-h0bjbo53fsnjpdebgmd7i1o87p2o0qdp.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. uMevuk5f7it0xBuTsvbxTp+iZBwX0kwbb1mn/zLpPS4BnlMAkkkPGF+vmi5O+zDGYNVxVVqUN78sBDU63gv8FbwDcqwShgQPAk/FOdEMZaVuTrQ3KLfM6hEHhsJT7nfW2SKq791UGddhdxBjbRgC+Ec8/I1zZ41+pPj+s/4qbcw=
+h0bjbo53fsnjpdebgmd7i1o87p2o0qdp.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. kOkmGOrW8MGLznDxkM+iAy7pgFRSTV7jKgSrzh9QDl9NFDuWHbMpFU/bEff1PW/Ule4IZKeAipLdOWiQxLpLT5jQ6bQm03YnFbAtRmpTrt2JeUYvlnF3TFj0Z+Y84gorsg/dFnxs5LX0Z+OF7usy9NXC99I/APADXkC5Otczuvo=
 habibi.florist.	3600	in	ns	ns1.dyna-ns.net.
 habibi.florist.	3600	in	ns	ns2.dyna-ns.net.
-hampton.florist.	3600	in	ns	ns1dhl.name.com.
-hampton.florist.	3600	in	ns	ns2knz.name.com.
-hampton.florist.	3600	in	ns	ns3cfp.name.com.
-hampton.florist.	3600	in	ns	ns4lrt.name.com.
 hana.florist.	3600	in	ns	curitiba.ns.porkbun.com.
 hana.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 hana.florist.	3600	in	ns	maceio.ns.porkbun.com.
@@ -2298,7 +2193,7 @@ hitta.florist.	3600	in	ns	ns2.misspark.com.
 hitta.florist.	3600	in	ns	ns3.misspark.com.
 hitta.florist.	3600	in	ns	ns4.misspark.com.
 hmoe47hlk3to61bvav81906fhuad27ca.florist.	3600	in	nsec3	1 1 0 73 I2TMGCN3GPM56615H5NBMC2G5F7NILNP NS DS RRSIG
-hmoe47hlk3to61bvav81906fhuad27ca.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. D0gtFhXkX78iBMDmJBz9E7NV+trr/fOY0M6UI4h1FWI286x2o0Yvqz6gdzVL24EfTpkqtKfEBQvojwuairIgLNKA8JqDXlQOdtcjeNhRFwNR5T2P8pQECqwByqkJMBAS46BRlDx3Sq2Is+3QZr3yq0kzwzirtkZD4m1orEZBUB8=
+hmoe47hlk3to61bvav81906fhuad27ca.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. pL1DWgw0xhuq6q8dQ98Z5e/WYcQXnpFzNOiYo07SL37tCXAYM3LMrroEa40lZWStpLbhbjRjOjUTxTTzAXH2tpVFlKHehAGMcUnijmi/XKx5kznUMD1hXsG1KTm4mIi2CCRee14uK+CtZWw7WwQeNIKQ6PXeETFBBN3OPi1CdIM=
 hochzeitsblumen.florist.	3600	in	ns	nsa4.schlundtech.de.
 hochzeitsblumen.florist.	3600	in	ns	nsb4.schlundtech.de.
 hochzeitsblumen.florist.	3600	in	ns	nsc4.schlundtech.de.
@@ -2323,10 +2218,6 @@ host.florist.	3600	in	ns	beth.ns.cloudflare.com.
 host.florist.	3600	in	ns	bob.ns.cloudflare.com.
 houston.florist.	3600	in	ns	eprodns1a.eflorist.com.
 houston.florist.	3600	in	ns	eprodns2a.eflorist.com.
-houstons.florist.	3600	in	ns	curitiba.ns.porkbun.com.
-houstons.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
-houstons.florist.	3600	in	ns	maceio.ns.porkbun.com.
-houstons.florist.	3600	in	ns	salvador.ns.porkbun.com.
 huperoptik-me.florist.	3600	in	ns	ns1.dyna-ns.net.
 huperoptik-me.florist.	3600	in	ns	ns2.dyna-ns.net.
 hyacinthhouse.florist.	3600	in	ns	connect1.squarespacedns.com.
@@ -2334,11 +2225,11 @@ hyacinthhouse.florist.	3600	in	ns	connect2.squarespacedns.com.
 i.florist.	3600	in	ns	ns1.sedoparking.com.
 i.florist.	3600	in	ns	ns2.sedoparking.com.
 i2tmgcn3gpm56615h5nbmc2g5f7nilnp.florist.	3600	in	nsec3	1 1 0 73 I4SFDQ2UVQPAME7MKNFNL9VILKEJ5RH7 NS DS RRSIG
-i2tmgcn3gpm56615h5nbmc2g5f7nilnp.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. SnjzQZQVYW+p8Utu63WgHflX9oAHQrInLueLh2iCN/0Ca9oiVPU6UN4id2bYoY/NWKT7eH/namtvaDggiqsAkYeUb//TmLFt/Mp/BJCv+Z20B6/4+Wo94OFqFHjjGYZOY1ghKlEW7ithL9ML29fxwPmHInslf/DNQGW/N9WWOvU=
+i2tmgcn3gpm56615h5nbmc2g5f7nilnp.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. Ke5HznldVfLTB8S10OVhB7eRUegwDywpRDyLK4dtkGdhCrhJNfSs6StDMj6Hzxi5SY+ohFzN6D0uSqbX7jaJG/SqOuLeoq5f6o4bLaAU4pWjfx1H1ovzrJ5NiBIveSzt97Bxa3DdwZcLKOwnPm8vcQPW70GLZTl9ZSlTSP+/Buo=
 i4sfdq2uvqpame7mknfnl9vilkej5rh7.florist.	3600	in	nsec3	1 1 0 73 I4VANNNODEBE0GBSDS9CNLUN2PQAN2RS NS DS RRSIG
-i4sfdq2uvqpame7mknfnl9vilkej5rh7.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. YhxkEhW0lt1YujvGLZAPJCLNkckpcwwNVvI5+fTPvAVPqWPcMr3g8hmwoFx6yzSurgaYK+uhEHBaTbNTA+b2WlwpKa5Bhyc91GiBAKkZIAh38A+/+tUR+TuyswhTeuZbZlZXMdyZM50bSxshHNMr4aujvXsy+lGBABfMiBCiwa8=
+i4sfdq2uvqpame7mknfnl9vilkej5rh7.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. ICou2Dh2nXCI9TsKbuVNYBCeuqiS54hfjiB75OAtZSD67nPuLITYOotbrHfSIXkuKHaJ1sSJZdU+b1M0LXs7803vIPqDokqXSmFUQGLqEBHHA+WNJlydasXa8sjfDk8pxVSjfcE1cY9HHQOxk3Cj8uVRBogH+zsIpAen78qYrIY=
 i4vannnodebe0gbsds9cnlun2pqan2rs.florist.	3600	in	nsec3	1 1 0 73 J05NTBUCSDGLFTLMV69P3MMA9FM8UKBP NS DS RRSIG
-i4vannnodebe0gbsds9cnlun2pqan2rs.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. MZfbT07VyvUU9Q412t0jkSNeuHBM6AHdbsYtDnyISPnN9XpZg4qjNGnc8wmefgq8xMnuCsLR3J0QFhrc5q721yOhKxahk1rqeWkYKeaA5MJtWTcbY6pCDDv+yENLa6r/lp70p1LxcAF85d/CNR0JE/LAvSb4dipU3FxG++41mP4=
+i4vannnodebe0gbsds9cnlun2pqan2rs.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. QZmtvFx7poXoKIGnLsj5JHQhU6yRepr6JMuDlI6kiQB3+klcpoGMQI3iP6UcmdTbN90eR5oHKVCJl1XLL7+u1F+uOEYePlAG1gl+IukAiUZor0anXSI/WtK0dnb5J+02rrViFxgO0zRWrnX8Ar9MGSLQ/SyxA3LdM6VhodZZynk=
 i879.florist.	3600	in	ns	dns1.onamae.com.
 i879.florist.	3600	in	ns	dns2.onamae.com.
 iam.florist.	3600	in	ns	dns1.registrar-servers.com.
@@ -2427,7 +2318,7 @@ interstate.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 interstate.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 interstate.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
 interstate.florist.	3600	in	ns	ns-cloud-c4.googledomains.com.
-interstate.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. XrMoQvbcUg6uJq66f4rhX5dyZVIdXCSU5wjYGxvf+10NQu6N03PYazlGFNG+F6D5lSkr4WneG/QpydOO4719G4JJeP+Fgtojqp2gApxaJHoS6v3JfRGhO9A4p4m5bk1tf5EyGeBUTRIurskrl+7jiskNFuRZJKy7VXnzOKHwMkU=
+interstate.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. Pv6qvujnSaPjec+E0rXtgSSIrOouc4TreuP1qEAyjGRjLQmHEWEP9nIcZsfah5PO/fFOSkFSEE9VwDAsHn71jF9hV/6amS1zgivY3fkXwzvEYqDM4gyzJ6JnUc+J4K9HvxtKIjGrPqDxo7KEg3IUtIR+YQaqmZYDXV7BoYED3uE=
 intuit.florist.	3600	in	ns	ns1.markmonitor.com.
 intuit.florist.	3600	in	ns	ns2.markmonitor.com.
 intuit.florist.	3600	in	ns	ns3.markmonitor.com.
@@ -2442,7 +2333,7 @@ irvine.florist.	3600	in	ns	ns-cloud-d1.googledomains.com.
 irvine.florist.	3600	in	ns	ns-cloud-d2.googledomains.com.
 irvine.florist.	3600	in	ns	ns-cloud-d3.googledomains.com.
 irvine.florist.	3600	in	ns	ns-cloud-d4.googledomains.com.
-irvine.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. SAdKzRC4Szp5cJ2IZ0oUS/AyELl6uD/UOpsHLKWpnb/l0RFOv/o/lfLhLfWMOHx/R9p6/OgEaVuTL6DjrCKUL5X9ydXez+LKK4beFTn9Vnfc3Fszslu/gKmfWo6z762hUmGbJposseEVOlM+HEYZZSAhzVzhEhOwpDC8w9v7vzA=
+irvine.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. URIMFKGhDDYfSYUnlukihgZ+zZUCaakBpMmQHOt9L+KwayWcx9/bC8lgLFnckBtGrKQpdQBtUlj5yB0jkY+TLgn9s84okRfN0rLzm8WWV1JOTgC/BKYmlkTPwMpSfeNhu1mnhJd8TkwpgHJnTEZlDgRHHrdTj3Z1csmWPB88qXk=
 italian.florist.	3600	in	ns	ns1.undeveloped.com.
 italian.florist.	3600	in	ns	ns2.undeveloped.com.
 itis.florist.	3600	in	ns	ns11.inhostedns.com.
@@ -2453,9 +2344,11 @@ ivory.florist.	3600	in	ns	ns-cloud-e1.googledomains.com.
 ivory.florist.	3600	in	ns	ns-cloud-e2.googledomains.com.
 ivory.florist.	3600	in	ns	ns-cloud-e3.googledomains.com.
 ivory.florist.	3600	in	ns	ns-cloud-e4.googledomains.com.
-ivory.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. 1heTusIut1CfofjibXgb/TqGXRTb/Unm9yb2IRBxuw5WjGNhJzKNFIucT2z4iT6fC0Uc+EKm0bTO6zqQK2+5npzprFtx5CWo4uUL3ctAS/J2aIrEfSwnbJHgVcHrIYNmeaPRZdwu9O9nqpzJaZDvFzEDrXbYW9kBalSexxg+CuE=
+ivory.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. BXqSUd+cyxw2A/y/5oG0bB9M2uZgNzwcXL1EcJ6d+oaCe613gf7n7Pot3f6VslDOBI2jHPHDh1zMXgGKzjsicN3oUmvWOhZbKBuGb/8IferVScM9FdcP9DrEap0b9Fi7s5O/ys04b74i4LnQg9xhf0NkWQEb3++kys0K/R9eknE=
 j05ntbucsdglftlmv69p3mma9fm8ukbp.florist.	3600	in	nsec3	1 1 0 73 JHMRK8EETIFSR4F767Q0M2EHSOJOPKSC NS DS RRSIG
-j05ntbucsdglftlmv69p3mma9fm8ukbp.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. VF/84mWmhss/+/gfKJE5okH5pEYrUt2MbaKcN+TI8CQm9E5IwxTZD0efGxB+Xk4/WrKzRi7RFQZwsKA4nYRp/k+m2J8XmQdYLWyjayp0SJFi+2p7KH4170+4mi4xpukkf0CCrw2ajXvFuPrxSKHtzDlAhEeVTjG5erkMbJXNvTg=
+j05ntbucsdglftlmv69p3mma9fm8ukbp.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. 1u7IGpy+SIng112jtvvpDXhe9JKAR8+IPVsAgBCnIaxFrCI8jFQn+YfqzDRFqBAxB2V0YVE0RWRj5n0H1XI7oiixnBTZAXBSf4kdapHs+N+mRkh63OXXeXgMNhOWVDbUilx0EQD30fbwtq8FxmXqwdzSZDC05HkadBM4tJDftGc=
+j88.florist.	3600	in	ns	eloise.ns.cloudflare.com.
+j88.florist.	3600	in	ns	lex.ns.cloudflare.com.
 jamescress.florist.	3600	in	ns	ns41.domaincontrol.com.
 jamescress.florist.	3600	in	ns	ns42.domaincontrol.com.
 jamestown.florist.	3600	in	ns	ns29.domaincontrol.com.
@@ -2479,16 +2372,12 @@ jewel.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 jewel.florist.	3600	in	ns	maceio.ns.porkbun.com.
 jewel.florist.	3600	in	ns	salvador.ns.porkbun.com.
 jhmrk8eetifsr4f767q0m2ehsojopksc.florist.	3600	in	nsec3	1 1 0 73 K2NCIOGV0R8LGN7045RTFNLFDAOJR7CO NS DS RRSIG
-jhmrk8eetifsr4f767q0m2ehsojopksc.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. lhSCgcTZEUYTl2oW2s17Rkg86wsK3CLo+x/Bf9SLVWuw7mSYEmUNrnPsBOClyoZuuRIC9dhvOk9tn3ZqWcXq9zK1/EPn0gYh1CPmtbgcVmahAmpX+Mszr47Mtt/t3pT7H3YtD2lsqwyDgi+lsSeJsYhd+K2e9YeNMvDL/Ao0chw=
+jhmrk8eetifsr4f767q0m2ehsojopksc.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. PU8UARqXwiqTgo78WyikPGxW6aBoWSpbU5aE4scDZFhHZ5f/MV2MnNjJYYwcLYPN+D30obVPPiBqqcMAvVJ38e/3k8U1vi6dc4MQDN3dRIOWby+9Y/K2Drygmn64v0sihOgSss3Tq8VxDKETOcDW+qL0lhIorVii9ZLCP2eoHq8=
 jingdong.florist.	3600	in	ns	ns1.brandcloudns.com.
 jingdong.florist.	3600	in	ns	ns2.brandcloudns.com.
 jingdong.florist.	3600	in	ns	ns3.brandcloudns.com.
 job.florist.	3600	in	ns	ns35.domaincontrol.com.
 job.florist.	3600	in	ns	ns36.domaincontrol.com.
-joes.florist.	3600	in	ns	ns1dhl.name.com.
-joes.florist.	3600	in	ns	ns2knz.name.com.
-joes.florist.	3600	in	ns	ns3cfp.name.com.
-joes.florist.	3600	in	ns	ns4lrt.name.com.
 johnnyflowers.florist.	3600	in	ns	ns57.domaincontrol.com.
 johnnyflowers.florist.	3600	in	ns	ns58.domaincontrol.com.
 johnsens.florist.	3600	in	ns	ns23.domaincontrol.com.
@@ -2501,16 +2390,14 @@ joyce.florist.	3600	in	ns	dns101.registrar-servers.com.
 joyce.florist.	3600	in	ns	dns102.registrar-servers.com.
 justbecause.florist.	3600	in	ns	bowen.ns.cloudflare.com.
 justbecause.florist.	3600	in	ns	hazel.ns.cloudflare.com.
-k2nciogv0r8lgn7045rtfnlfdaojr7co.florist.	3600	in	nsec3	1 1 0 73 K8U5E3QC2M7HG1BKKOODSFQLRCRL8BTA NS DS RRSIG
-k2nciogv0r8lgn7045rtfnlfdaojr7co.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. UKF/RrJlxHQ6cb0HE7kp3vJopoPoHCyjzLGYPaXjK6TlZoQrcZpvN7WYKwacsB+z3qznYk7nDVzOiIpIEwx/oJLDBiCd9E5K7kjXXGvF20/9az8qs/nk6RkUR+OrroUYXKZlA8JiUnuEoe0yBKTvWpcNq8s26DgU1x+Rzf5wx/A=
-k8u5e3qc2m7hg1bkkoodsfqlrcrl8bta.florist.	3600	in	nsec3	1 1 0 73 KH96HNJKKQQ9LR1338GHO450PO5D02PR NS DS RRSIG
-k8u5e3qc2m7hg1bkkoodsfqlrcrl8bta.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. UoIQYji2e8zaA5ZNSZESe7zLcOtrGMT3qiNrHp2DsnS0t1V+FoHVoCQOn2zIzzEAkR+NrOhhwJXN11SCoh8Zf5Tn0NjV/w5Nm2NzzvRBgw5jjXvJVzKjFJykjyVYxJ/0TRAgl9H/J8l1uXfKqPBae+fOHt9lSikGT8mSQjqO864=
+k2nciogv0r8lgn7045rtfnlfdaojr7co.florist.	3600	in	nsec3	1 1 0 73 KH96HNJKKQQ9LR1338GHO450PO5D02PR NS DS RRSIG
+k2nciogv0r8lgn7045rtfnlfdaojr7co.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260209232033 20260119222033 31533 florist. XYsMEsjRlwlwaHav0M4sKmDrGBHXJZ9psgfuNp4Mm8VQvjT91UQiVFAMkNJbx0nVTaQ/97i9EhAYJWr31Po78i2zjhF+uoyZNPHMBVx44/GYmWkDsYWHkmZDWCSVihscqWwpTUIbW8dUUEZs1iffzADscOTrmpRsKd4sh1eRgN4=
 kabloom.florist.	3600	in	ds	11359 8 2 F7A3D4913940E03217BAFA898FC4D8BD9B441C1B527479C0591D6C13E4BCDB73
 kabloom.florist.	3600	in	ns	ns-cloud-a1.googledomains.com.
 kabloom.florist.	3600	in	ns	ns-cloud-a2.googledomains.com.
 kabloom.florist.	3600	in	ns	ns-cloud-a3.googledomains.com.
 kabloom.florist.	3600	in	ns	ns-cloud-a4.googledomains.com.
-kabloom.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. NfKGD7Vv5VQMrWED5MDgXazGHdMFDSGvZwDNqoe9/Bb2u5vOMbHgfNyTxn4RccwMIGKZlaJN2P+5M3dj0QRA2hU8fpkcwRJuM1F693tXTlnzy0Mm5ZXN9jSsGXkT++mKfsDz27J+4odyiput8eBmcDk6d9hKtqE6Bwc0jgJSetE=
+kabloom.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. t7TQVVjUb9zofUuLIEf/HFDZ/raXF3QEkDaZbxMjYuVqfXvXyAnZtv9hmr2MZ/0tWmXLizoRXMWLW+auE0iAsKAxz4QtENSlHLlKGtp0IvLV1ehJfot9coY1+OCp8GCQZWUjVpvd09xygeeVLu2dk35OmV0YozoQEal/RxrhHIk=
 kado.florist.	3600	in	ns	ns1.world4you.at.
 kado.florist.	3600	in	ns	ns2.world4you.at.
 kalamazoo.florist.	3600	in	ns	dns1.registrar-servers.com.
@@ -2548,17 +2435,13 @@ kernparkportlandflowers.florist.	3600	in	ns	ns-cloud-b4.googledomains.com.
 kerrytown.florist.	3600	in	ns	ns09.domaincontrol.com.
 kerrytown.florist.	3600	in	ns	ns10.domaincontrol.com.
 kh96hnjkkqq9lr1338gho450po5d02pr.florist.	3600	in	nsec3	1 1 0 73 KNBI9HPO1OSN2C0BSCG8CJE6MFC1EAD4 NS DS RRSIG
-kh96hnjkkqq9lr1338gho450po5d02pr.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. ceVWJv2D3kWYk4LZr7ZqfWen1jMvnV7Mz+j+cckYTPzduQNsXV8XVIPlqr1Eb26HgVdb1RQvqdG0/IQOvhLbGKpp0lsZ6s/Hoh4DeW3KBXL7Ru3duZxXtF9/KcQ+gDb+GB6ryRmFpOWna3FSpLo+01k4NL2BTMDR92LLLEOQGQc=
+kh96hnjkkqq9lr1338gho450po5d02pr.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. pUC5cMHVaUZldVI7E7MW+HorfCOwDMmernyTyWix+GysW+QFDOcoyZ2U8j6lBi+/xRkTA6cXUYj72HcnWscElhNkjEiK4EYZJz8obUDDt303QTzI03U7sjKoeYC+2F8jKB3bp2cVhpQRMjhsn1gZB4eIOgMtaiq7+DANh8KwjAE=
 kikilis.florist.	3600	in	ns	ns85.worldnic.com.
 kikilis.florist.	3600	in	ns	ns86.worldnic.com.
 kilkenny.florist.	3600	in	ns	ns1.rimuhosting.com.
 kilkenny.florist.	3600	in	ns	ns4.rimuhosting.com.
 killeen.florist.	3600	in	ns	ns41.domaincontrol.com.
 killeen.florist.	3600	in	ns	ns42.domaincontrol.com.
-kims.florist.	3600	in	ns	ns1dhl.name.com.
-kims.florist.	3600	in	ns	ns2knz.name.com.
-kims.florist.	3600	in	ns	ns3cfp.name.com.
-kims.florist.	3600	in	ns	ns4lrt.name.com.
 kingsport.florist.	3600	in	ns	ns01.domaincontrol.com.
 kingsport.florist.	3600	in	ns	ns02.domaincontrol.com.
 kirkwood.florist.	3600	in	ns	ns53.domaincontrol.com.
@@ -2566,9 +2449,9 @@ kirkwood.florist.	3600	in	ns	ns54.domaincontrol.com.
 klara.florist.	3600	in	ds	2371 13 2 4582D37CFB993B04AF59A0AECEDF928D272B514A4F54B949004C988BDA17706F
 klara.florist.	3600	in	ns	everton.ns.cloudflare.com.
 klara.florist.	3600	in	ns	luciana.ns.cloudflare.com.
-klara.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. F3TgC/jIOMDiD+Yz7PKWHoO5kslejlVLUYsfRN88nQkM7ZPqGDqIjHo5Yzy91RXB487libwgESSe3Rj1O3QO9MQwIguyKskj5eYx5mif6TQd+bFVOtbzVOwKE6Xnf6XnjyfjchTT5gBnnBREzZ1lmb5drcfUrqO8eaW1Vb9A8A0=
+klara.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. kUYTPxzlEYTbW9yTglw9KWn2WPUliYTiDZscrUhPTUKq1FdS1xWieOuBOmRE22fOiwkDfGBsjjtYIDpTURE/tLa/dr57bolAcASCW3+VQ/S7i4FYWMRBHT4gtXE1rJv3zNYCag/G+3gAOR+jIv2ivZ7AjG9j7zrEM2cQjmfPo0Q=
 knbi9hpo1osn2c0bscg8cje6mfc1ead4.florist.	3600	in	nsec3	1 1 0 73 M5PASVOPV8M21M384E85G2KCONCTCPBV NS DS RRSIG
-knbi9hpo1osn2c0bscg8cje6mfc1ead4.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. I5TEdNX9kagmcfrtS1oAjPtosXEtD8DAvdNHruNldpMk0RGiOEN05n0OGVu4xn5B6mMRWB90AD4dw0WVq9+5by0UV7Bl93SbMJR/A1trAYwf4zHhtX3R+IlhKizvtawpWGu3gBd5+lIavWyTX72imsrx8m9Gc+3dFJt8TqpMqs4=
+knbi9hpo1osn2c0bscg8cje6mfc1ead4.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. JHFfqi5mZ6xTPcYnK8mdVTub1GGgHUaho9W5sEtCGk3lDhyZFB2/S5gVcKY/kmTc/Flf2gkRI4A4ZiUD0IsvxXtqumA1BZcshaaIItMo7JJAOqV90NxX2AcTIePELUTQFkf2v3Viz7Rg2iL3n6UqvUfPza3DjHFuRk8dPltdFAA=
 koshkasucculents.florist.	3600	in	ns	ns-1067.awsdns-05.org.
 koshkasucculents.florist.	3600	in	ns	ns-167.awsdns-20.com.
 koshkasucculents.florist.	3600	in	ns	ns-1907.awsdns-46.co.uk.
@@ -2595,31 +2478,25 @@ laderaranch.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 laderaranch.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 laderaranch.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
 laderaranch.florist.	3600	in	ns	ns-cloud-c4.googledomains.com.
-laderaranch.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. ECAhsz07wCkCo26goDif/oXY8dE/cAYf2Aob0k4nD3mKxF5LaCAG7KO9Jnb9GKZez9d4bph8UPscQUZjPg8yPV/FoWD8uAZ5qz1ySrrPVJ56pMs2l/b7RyuHV8RRRsu1WO7meSCYQiPknPIXPVSIfmCUXTJKB+4W7n8PD7v14/k=
+laderaranch.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. K4PKnbC9zIsSHxCD+CqvKfDuw6nekSiXHV1Edyr++Cb8KTFFIiPCyi9yQGQuVSg/8jRS5t6HGzFt4ykbWYv5O+rhADyS1k8VpZ58qdSND27HGu9gaYSVG1QvY/UCGJFl23laAtqXP/ZFpyrweo4IAAFPWrfrIlopzYV3Wr9VYZo=
 laflora.florist.	3600	in	ns	ns1.websupport.cz.
 laflora.florist.	3600	in	ns	ns2.websupport.cz.
 laflora.florist.	3600	in	ns	ns3.websupport.eu.
 lagunabeach.florist.	3600	in	ns	ns03.domaincontrol.com.
 lagunabeach.florist.	3600	in	ns	ns04.domaincontrol.com.
-lagunahills.florist.	3600	in	ds	7231 8 2 265BD4703819EEE2A212C0B61804B21040E43E2000933C65E40BB3917BA997FD
-lagunahills.florist.	3600	in	ns	ns-cloud-d1.googledomains.com.
-lagunahills.florist.	3600	in	ns	ns-cloud-d2.googledomains.com.
-lagunahills.florist.	3600	in	ns	ns-cloud-d3.googledomains.com.
-lagunahills.florist.	3600	in	ns	ns-cloud-d4.googledomains.com.
-lagunahills.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. bMQLh83J56w+EgNfQS+iwe5Rv3oWz/pEVT7y41UYc7n2LrT4ZO7Q7PS1FdAxG9/5c+iyHvkqATccftz5v0OJ52hk+ez+WpEEp02jofgqXh8OFKluDn/OJYzqcBRojOWYVdeZVu09xMdYqUVRakbFmi3GJ8gdQaG6SpqFdOjCLy0=
 lakeforest.florist.	3600	in	ds	40799 8 2 A6368717531F9F376D5B764A3282CA2785164ECC749637A9D3B8309B779EBF6B
 lakeforest.florist.	3600	in	ns	ns-cloud-e1.googledomains.com.
 lakeforest.florist.	3600	in	ns	ns-cloud-e2.googledomains.com.
 lakeforest.florist.	3600	in	ns	ns-cloud-e3.googledomains.com.
 lakeforest.florist.	3600	in	ns	ns-cloud-e4.googledomains.com.
-lakeforest.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. bQyu7SC6eiPIhLE0x6SFtd9q4+HHXNRlabI5cDLc4WriG3vpFaTaXBNOc0BHPBpY/vXrxKKHeMzBT2xbTzQoVb64C8rC8MdxM/pbNj04pbs/OA81wYWf0JyO0JUPMrl4DjB3aQQq98AORT4Co382PNjsDf8hcAoLKb5+WNWUVH0=
+lakeforest.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. K1HsexcudHK0/Fj9jVNBNYOcfbz+CJO7Qx29sEH8mq795tuOJDXxrE1SGIRmdXAQlFX1g5mq08P0ClXCJwd0sfAaJdJJhwzUYDaNma1+4b6WN1xzce8pDMAX/3No7iC0iJHp2l7F4hNoN1pL4bjGjHLBgVRHPK2KKAzuPOyo8GQ=
 lakenorman.florist.	3600	in	ns	ns3.afternic.com.
 lakenorman.florist.	3600	in	ns	ns4.afternic.com.
 lambert.florist.	3600	in	ds	5176 13 2 8D04D191B23F984FBC4C1D85D83AEE3A1E259E26BECBFB4818B4366A9BEBC42B
 lambert.florist.	3600	in	ns	ns.udag.de.
 lambert.florist.	3600	in	ns	ns.udag.net.
 lambert.florist.	3600	in	ns	ns.udag.org.
-lambert.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. eooq7iU6qN0Dp2Qjcy4/O4Q6UKwddsDweySB10wRJnidp4std1qgYm5zJJdbWb1v2gVenA8dqJ1LUbTWciKdBYkaTZv92GzllUxYpGgW6Vhc/XlvVN7OETz0e+iSc4vtzP2w4wwEPh/74EQNGqCfaEK6+g+7QTRb/0nXYmkKMYg=
+lambert.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. MhaSKlTcHljweVr4oVkdKQi2eyrtaN9g/MQikBpKIzAfjrmyGpLaVTiNoShYtdXNLOKDVtX5l+H482xB6OxAkU5gNvYrSyRmtD3qbNBVIw6X0KE8GBE4iTTLuQOEcQ0Pnu5t2EJQ7pwFQKZoF6TxSlxV9pDr8zUlb4yYmD5oS3k=
 lamteng.ray.florist.	3600	in	a	162.159.26.118
 lamteng.ray.florist.	3600	in	a	162.159.27.80
 lane.florist.	3600	in	ns	ns69.worldnic.com.
@@ -2647,7 +2524,7 @@ latebloomer.florist.	3600	in	ns	ns-cloud-e1.googledomains.com.
 latebloomer.florist.	3600	in	ns	ns-cloud-e2.googledomains.com.
 latebloomer.florist.	3600	in	ns	ns-cloud-e3.googledomains.com.
 latebloomer.florist.	3600	in	ns	ns-cloud-e4.googledomains.com.
-latebloomer.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. iR4FqKK8B1tIvzXhSeDuOsqkfTfl1rEGRiYjtYxiffnkWr0uIf/nU3QxV7NO0tWnSwQYDJt5r4SUHjXPUKNUb8ujUZKAIp0Umj5ZSMfOeD+ht5vZCUJ2Ere+IJz0uKPoLim6BQea3bjaQfjhiRwnCBY7AG2jsp75oEXK9b3Jk4k=
+latebloomer.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. ULRa8t8GII4t4KU6GSHJifSwyj+bSwalwqjE6N3vh4y6MzoVozzE5lDSbQRx1U0leWG//SkFVf5SPBIYvJ3/WK5D74yYUTROHn1yD007d1iLm2e3Fzl1T9lIk/wjWxdJ6kskOqFpw14xtt0IGf0iueFlFcegGPXUqtOnw70puqY=
 lavenderlane.florist.	3600	in	ns	ns-1311.awsdns-35.org.
 lavenderlane.florist.	3600	in	ns	ns-1775.awsdns-29.co.uk.
 lavenderlane.florist.	3600	in	ns	ns-493.awsdns-61.com.
@@ -2668,10 +2545,6 @@ lejardin.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 lejardin.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 lejardin.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
 lejardin.florist.	3600	in	ns	ns-cloud-c4.googledomains.com.
-leonard.florist.	3600	in	ns	ns1dhl.name.com.
-leonard.florist.	3600	in	ns	ns2knz.name.com.
-leonard.florist.	3600	in	ns	ns3cfp.name.com.
-leonard.florist.	3600	in	ns	ns4lrt.name.com.
 lepetit.florist.	3600	in	ns	ns1.dns-parking.com.
 lepetit.florist.	3600	in	ns	ns2.dns-parking.com.
 levels.florist.	3600	in	ns	ns1.dns-redirect.com.
@@ -2712,10 +2585,6 @@ lincolnshire.florist.	3600	in	ns	ns3.laser.red.
 lincolnshire.florist.	3600	in	ns	ns4.laser.red.
 link.florist.	3600	in	ns	dns1.registrar-servers.com.
 link.florist.	3600	in	ns	dns2.registrar-servers.com.
-lisbon.florist.	3600	in	ns	ns1dhl.name.com.
-lisbon.florist.	3600	in	ns	ns2knz.name.com.
-lisbon.florist.	3600	in	ns	ns3cfp.name.com.
-lisbon.florist.	3600	in	ns	ns4lrt.name.com.
 little.florist.	3600	in	ns	ns-uk.1and1-dns.biz.
 little.florist.	3600	in	ns	ns-uk.1and1-dns.co.uk.
 little.florist.	3600	in	ns	ns-uk.1and1-dns.com.
@@ -2749,7 +2618,7 @@ local365.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 local365.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 local365.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
 local365.florist.	3600	in	ns	ns-cloud-c4.googledomains.com.
-local365.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. DPusrL/AJqKeQt/NRBOv+jjbpDbqWH/x82m1pRBqmVnBjBl2MKxtLbi+io4aI+uB3Ax44P/o+g3r6cMzsAJFvMcpTvBZolcA7j8r/1IfIKjLnZVRRbRDS3lbu3erjZmHV4rII2L+9cT2vzNPEif2p/Bde90/ucXaHNjxS6kt1Mc=
+local365.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. ouwbAqXmuRdoBKWQ5DxGqKlfb0HxpxLxAxCsMqa2MJA8FA2r8JL1924TKuTbd1e6DKlSj25BeV3T46SOreZeArBYFQf5FhCo7kqsAHTdhrY7mYHk7PUsRqHdJ2dECjRKpK1ln7w+rdVjONeXUkbtOqNeK1XuN20ByIz0DI8RoRw=
 locali.florist.	3600	in	ns	ns1vwx.name.com.
 locali.florist.	3600	in	ns	ns2kqz.name.com.
 locali.florist.	3600	in	ns	ns3dgj.name.com.
@@ -2775,7 +2644,7 @@ longview.florist.	3600	in	ns	ns-cloud-b1.googledomains.com.
 longview.florist.	3600	in	ns	ns-cloud-b2.googledomains.com.
 longview.florist.	3600	in	ns	ns-cloud-b3.googledomains.com.
 longview.florist.	3600	in	ns	ns-cloud-b4.googledomains.com.
-longview.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. ZGFrLmua448NRkEXA4bLd8KRfmaEa9wgVsAt/Z1BJ9owci/dZ9QYmo7BLWQ4NGsvQ69XwhnPxbzMgI1+855jEM5vxL61HBhVOokLXo15R80eML75duRHokSB9TeffN1mTiy8L0N3qhyJgETqCyvl5UU0Q3zHqBGIHO/uuWRKCS8=
+longview.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. qGO5FsbZpROkuZtuVZ+w2dPnbPoOH9xlPp3k/pBF2KmRPS7P4tmdLDG8ViXuPktUwhCl60gKYLfmYMlUFOLntIADMEqBQPwV0OSd0xy0T5sKVLhw9F7eoCwJPOzZsQSmZJ1ZH75MJxGZJc3PK21Qpj9wAWC5KxAWY2OP4irhWh0=
 lopshire.florist.	3600	in	ns	ns29.domaincontrol.com.
 lopshire.florist.	3600	in	ns	ns30.domaincontrol.com.
 lopshireflowers.florist.	3600	in	ns	ns29.domaincontrol.com.
@@ -2807,16 +2676,12 @@ lovingly.florist.	3600	in	ns	ns2.webnames.ca.
 lovingly.florist.	3600	in	ns	ns3.webnames.ca.
 lu88.florist.	3600	in	ns	major.ns.cloudflare.com.
 lu88.florist.	3600	in	ns	sloan.ns.cloudflare.com.
-luis.florist.	3600	in	ns	ns1dhl.name.com.
-luis.florist.	3600	in	ns	ns2knz.name.com.
-luis.florist.	3600	in	ns	ns3cfp.name.com.
-luis.florist.	3600	in	ns	ns4lrt.name.com.
 luiten.florist.	3600	in	ds	43135 8 1 22A0AEC48D010E3FC2355F3BAC2E2ED6D17660E9
 luiten.florist.	3600	in	ns	ns1.mijndnsserver.nl.
 luiten.florist.	3600	in	ns	ns2.mijndnsserver.nl.
 luiten.florist.	3600	in	ns	ns3.mijndnsserver.eu.
 luiten.florist.	3600	in	ns	ns4.mijndnsserver.net.
-luiten.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. 0CFpM0bFMyIkuNSABgNKjo0xAkXo625BfVqUhF9gckxmL1myW9Iei1ck3oYEtHVt0k22/s+Joys8L9htv7JIHUYKAH8IydclzsHwD9Iq+3WapE05nEH4G7iMdgSBXabT6CFBCQz57hAqErHyhioFj24sX1nxZHB9paxocoZekfE=
+luiten.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. YGOnddXILhmFl4T8MMkfrsKdbZ5iJyzlcIdT/rT09FCeSJbvO3wfN3LKq4kxv3FtDl+9fxQEzXAZjR0rTfMPulqIXXH9uoenIG0tGJylizp/KvsiAA5/YsImwuV5m/scYj8XRMz0ZWoQ1CMSAM76Cn4XWOi/uD51AKj8ZoAuw0k=
 lukash.florist.	3600	in	ns	ns4.wixdns.net.
 lukash.florist.	3600	in	ns	ns5.wixdns.net.
 luna.florist.	3600	in	ns	blair.ns.cloudflare.com.
@@ -2830,7 +2695,7 @@ luxury.florist.	3600	in	ns	salvador.ns.porkbun.com.
 m.florist.	3600	in	ns	sl1.sedo.com.
 m.florist.	3600	in	ns	sl2.sedo.com.
 m5pasvopv8m21m384e85g2kconctcpbv.florist.	3600	in	nsec3	1 1 0 73 MF9A60HVJ3KFN69T3T9VAIKM0H9T2G47 NS DS RRSIG
-m5pasvopv8m21m384e85g2kconctcpbv.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. Rp8L7QeT7HOSWnQdKop44+WztY8kyqclNLOL+oOUFYNWYYjGPTTinxqU/RXFCYpwEWAZNKLDebkVCTegWM2DMtWTb7on/KjKgYos4Ms4icR2JSlmUs8jSCvL8UxJYHdX0S5OGlcl1DrsO8U3QnJNm+s/xaZXFcVyMk4tJdpv0w4=
+m5pasvopv8m21m384e85g2kconctcpbv.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. lGWQtmJ/PgCIQ8CXDh7iC6sXAlTt9j4vN0XXaTKn+T0Yq3OIs1GgmaXlU7a3wT2wB0Esu0Sg1IELmGR9Q9HIUWXXYGrUKk+hhtUhj9Yx4uKm7qjPEtmcsnlt09wOPacTM+MEfk+JjnSffazRan/Ebp0Qqmj/6c7akjcIqcjyEGM=
 madelainesignatureflowers.florist.	3600	in	ns	ns-1064.awsdns-05.org.
 madelainesignatureflowers.florist.	3600	in	ns	ns-1803.awsdns-33.co.uk.
 madelainesignatureflowers.florist.	3600	in	ns	ns-317.awsdns-39.com.
@@ -2841,6 +2706,8 @@ magic-flowers.florist.	3600	in	ns	ns1063.ui-dns.biz.
 magic-flowers.florist.	3600	in	ns	ns1067.ui-dns.com.
 magic-flowers.florist.	3600	in	ns	ns1076.ui-dns.de.
 magic-flowers.florist.	3600	in	ns	ns1076.ui-dns.org.
+magical.florist.	3600	in	ns	ns45.domaincontrol.com.
+magical.florist.	3600	in	ns	ns46.domaincontrol.com.
 magicgarden.florist.	3600	in	ns	ns10.wixdns.net.
 magicgarden.florist.	3600	in	ns	ns11.wixdns.net.
 magnat.florist.	3600	in	ns	ns3-l2.nic.ru.
@@ -2865,10 +2732,6 @@ mancusos.florist.	3600	in	ns	dns101.register.com.
 mancusos.florist.	3600	in	ns	dns102.register.com.
 manhasset.florist.	3600	in	ns	eprodns1a.eflorist.com.
 manhasset.florist.	3600	in	ns	eprodns2a.eflorist.com.
-manuel.florist.	3600	in	ns	ns1dhl.name.com.
-manuel.florist.	3600	in	ns	ns2knz.name.com.
-manuel.florist.	3600	in	ns	ns3cfp.name.com.
-manuel.florist.	3600	in	ns	ns4lrt.name.com.
 maplelane.florist.	3600	in	ns	ns-cloud-a1.googledomains.com.
 maplelane.florist.	3600	in	ns	ns-cloud-a2.googledomains.com.
 maplelane.florist.	3600	in	ns	ns-cloud-a3.googledomains.com.
@@ -2877,10 +2740,6 @@ marcella.florist.	3600	in	ns	ns-cloud-e1.googledomains.com.
 marcella.florist.	3600	in	ns	ns-cloud-e2.googledomains.com.
 marcella.florist.	3600	in	ns	ns-cloud-e3.googledomains.com.
 marcella.florist.	3600	in	ns	ns-cloud-e4.googledomains.com.
-marie.florist.	3600	in	ns	ns1dhl.name.com.
-marie.florist.	3600	in	ns	ns2knz.name.com.
-marie.florist.	3600	in	ns	ns3cfp.name.com.
-marie.florist.	3600	in	ns	ns4lrt.name.com.
 marine.florist.	3600	in	ns	ns13.worldnic.com.
 marine.florist.	3600	in	ns	ns14.worldnic.com.
 marinepark.florist.	3600	in	ns	ns17.worldnic.com.
@@ -2902,10 +2761,6 @@ martins.florist.	3600	in	ns	ns15.domaincontrol.com.
 martins.florist.	3600	in	ns	ns16.domaincontrol.com.
 marvels.florist.	3600	in	ns	ns45.domaincontrol.com.
 marvels.florist.	3600	in	ns	ns46.domaincontrol.com.
-marys.florist.	3600	in	ns	ns1dhl.name.com.
-marys.florist.	3600	in	ns	ns2knz.name.com.
-marys.florist.	3600	in	ns	ns3cfp.name.com.
-marys.florist.	3600	in	ns	ns4lrt.name.com.
 marzena.florist.	3600	in	ns	dns1.registrar-servers.com.
 marzena.florist.	3600	in	ns	dns2.registrar-servers.com.
 master.florist.	3600	in	ns	molly.ns.cloudflare.com.
@@ -2921,10 +2776,6 @@ mattesons.florist.	3600	in	ns	ns89.worldnic.com.
 mattesons.florist.	3600	in	ns	ns90.worldnic.com.
 matthewlanders.florist.	3600	in	ns	ns1.bakkbone.au.
 matthewlanders.florist.	3600	in	ns	ns2.bakkbone.au.
-matthews.florist.	3600	in	ns	ns1dhl.name.com.
-matthews.florist.	3600	in	ns	ns2knz.name.com.
-matthews.florist.	3600	in	ns	ns3cfp.name.com.
-matthews.florist.	3600	in	ns	ns4lrt.name.com.
 mattwebb.florist.	3600	in	ns	curitiba.ns.porkbun.com.
 mattwebb.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 mattwebb.florist.	3600	in	ns	maceio.ns.porkbun.com.
@@ -2951,16 +2802,10 @@ meister-group.florist.	3600	in	ns	ns51.domaincontrol.com.
 meister-group.florist.	3600	in	ns	ns52.domaincontrol.com.
 meister.florist.	3600	in	ns	ns1.sedoparking.com.
 meister.florist.	3600	in	ns	ns2.sedoparking.com.
-melbourne.florist.	3600	in	ns	ns1.ms454.parklogic.com.
-melbourne.florist.	3600	in	ns	ns2.ms454.parklogic.com.
 melrose.florist.	3600	in	ns	ns33.domaincontrol.com.
 melrose.florist.	3600	in	ns	ns34.domaincontrol.com.
 melrosewakefield.florist.	3600	in	ns	ns33.domaincontrol.com.
 melrosewakefield.florist.	3600	in	ns	ns34.domaincontrol.com.
-memphis.florist.	3600	in	ns	ns1dhl.name.com.
-memphis.florist.	3600	in	ns	ns2knz.name.com.
-memphis.florist.	3600	in	ns	ns3cfp.name.com.
-memphis.florist.	3600	in	ns	ns4lrt.name.com.
 merrittisland.florist.	3600	in	ns	ns69.domaincontrol.com.
 merrittisland.florist.	3600	in	ns	ns70.domaincontrol.com.
 mesaaz.florist.	3600	in	ns	ns67.domaincontrol.com.
@@ -2971,8 +2816,8 @@ mesaflowers.florist.	3600	in	ns	ns67.domaincontrol.com.
 mesaflowers.florist.	3600	in	ns	ns68.domaincontrol.com.
 mesh.florist.	3600	in	ns	dns1.registrar-servers.com.
 mesh.florist.	3600	in	ns	dns2.registrar-servers.com.
-meta.florist.	3600	in	ns	ns1.sedoparking.com.
-meta.florist.	3600	in	ns	ns2.sedoparking.com.
+meta.florist.	3600	in	ns	sl1.sedo.com.
+meta.florist.	3600	in	ns	sl2.sedo.com.
 metafacebook.florist.	3600	in	ns	a.ns.facebook.com.
 metafacebook.florist.	3600	in	ns	b.ns.facebook.com.
 metafacebook.florist.	3600	in	ns	c.ns.facebook.com.
@@ -3017,21 +2862,11 @@ meyer-soehne.florist.	3600	in	ns	b.ns14.net.
 meyer-soehne.florist.	3600	in	ns	c.ns14.net.
 meyer-soehne.florist.	3600	in	ns	d.ns14.net.
 mf9a60hvj3kfn69t3t9vaikm0h9t2g47.florist.	3600	in	nsec3	1 1 0 73 MTEVTU5IJSO3AV9L2FNK84E6N4F9HLGT NS DS RRSIG
-mf9a60hvj3kfn69t3t9vaikm0h9t2g47.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. AdAWC39wB1jTfDp6GnVMfXICOTc7R/mRShopUUKyv5bkEk8b/fM54eIzy/OjlDJF3jNY7aZzePDsW7/OdXbEC5zYx4lvEDaXa07/GQKAOD1i1BF6EzBKmQtmNbuazxCWaclZqcZ3f6RfRv6Kvid6lPHEHI+nUp3ONO6bO993RRY=
-mge.florist.	3600	in	ns	ns05.domaincontrol.com.
-mge.florist.	3600	in	ns	ns06.domaincontrol.com.
-miamis.florist.	3600	in	ns	curitiba.ns.porkbun.com.
-miamis.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
-miamis.florist.	3600	in	ns	maceio.ns.porkbun.com.
-miamis.florist.	3600	in	ns	salvador.ns.porkbun.com.
+mf9a60hvj3kfn69t3t9vaikm0h9t2g47.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. j5wpP/R+85apZB629tAFnWm1xWrcfZX7qN7wKoUKJSH1DOf1i3sZtbCvXJtNz/4PbnwbHBA8Gk7xxAUMzCCIkLxyZzGviQpjd0TUb8JB2HqPVvwZHagBYSor7xS/5E3GE+QyCLnCv4kAyMSo582YK/1+QzqrzcUEO5UShjZVKQw=
 michaelsfloraldesigns.florist.	3600	in	ns	ns-cloud-e1.googledomains.com.
 michaelsfloraldesigns.florist.	3600	in	ns	ns-cloud-e2.googledomains.com.
 michaelsfloraldesigns.florist.	3600	in	ns	ns-cloud-e3.googledomains.com.
 michaelsfloraldesigns.florist.	3600	in	ns	ns-cloud-e4.googledomains.com.
-michelle.florist.	3600	in	ns	ns1dhl.name.com.
-michelle.florist.	3600	in	ns	ns2knz.name.com.
-michelle.florist.	3600	in	ns	ns3cfp.name.com.
-michelle.florist.	3600	in	ns	ns4lrt.name.com.
 midland.florist.	3600	in	ns	ns09.domaincontrol.com.
 midland.florist.	3600	in	ns	ns10.domaincontrol.com.
 midtown.florist.	3600	in	ns	ns19.domaincontrol.com.
@@ -3039,10 +2874,6 @@ midtown.florist.	3600	in	ns	ns20.domaincontrol.com.
 miflora.florist.	3600	in	ns	ns.udag.de.
 miflora.florist.	3600	in	ns	ns.udag.net.
 miflora.florist.	3600	in	ns	ns.udag.org.
-mikes.florist.	3600	in	ns	ns1dhl.name.com.
-mikes.florist.	3600	in	ns	ns2knz.name.com.
-mikes.florist.	3600	in	ns	ns3cfp.name.com.
-mikes.florist.	3600	in	ns	ns4lrt.name.com.
 millennium.florist.	3600	in	ns	a.dns.gandi.net.
 millennium.florist.	3600	in	ns	b.dns.gandi.net.
 millennium.florist.	3600	in	ns	c.dns.gandi.net.
@@ -3058,8 +2889,6 @@ mirror.florist.	3600	in	ns	ns01.squarespacedns.com.
 mirror.florist.	3600	in	ns	ns02.squarespacedns.com.
 mirror.florist.	3600	in	ns	ns03.squarespacedns.com.
 mirror.florist.	3600	in	ns	ns04.squarespacedns.com.
-missav.florist.	3600	in	ns	ns1.dns-redirect.com.
-missav.florist.	3600	in	ns	ns2.dns-redirect.com.
 missionbay.florist.	3600	in	ns	darl.ns.cloudflare.com.
 missionbay.florist.	3600	in	ns	liberty.ns.cloudflare.com.
 missmolly.florist.	3600	in	ns	ns1.sm35.siteground.biz.
@@ -3096,11 +2925,11 @@ mothers.florist.	3600	in	ns	dns2.cscdns.net.
 mountairy.florist.	3600	in	ns	ns39.domaincontrol.com.
 mountairy.florist.	3600	in	ns	ns40.domaincontrol.com.
 mtevtu5ijso3av9l2fnk84e6n4f9hlgt.florist.	3600	in	nsec3	1 1 0 73 P7VIF3U2RAGN84JIPAVTFN99RHDI520I NS DS RRSIG
-mtevtu5ijso3av9l2fnk84e6n4f9hlgt.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. EMKoWQTPoigJO77rHntcKarTaRC55G7zn8ETkpM7hFps9STdjc/Jix5X4hfCCbGAMJydwUHM6i+qRg8sXVZIXAx7t4Kcnacwk0DeT3C89eueknj8HBvuDVP1ds8pimw6pwjQin85412zAQhGgBsJo3LfPb43LhO6VpUXNUugsCg=
+mtevtu5ijso3av9l2fnk84e6n4f9hlgt.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. aFKaGnzZxEeiPVJP1uqwDCMP4IUBdmewW7n+OHqrEBdwGA4ftLzF12DDxMr6nS0KaFlNeB3iiJyeMKSFKnG31bnd7pyJEFFCNAE64ChiC811/Gf0xZC4LFU8sNJWWqysN157e3AlQepQTvePa/Xfzocp86XcmutQ/paS+Fb9TKs=
 muenchen.florist.	3600	in	ns	docks12.rzone.de.
 muenchen.florist.	3600	in	ns	shades13.rzone.de.
-multicanais.florist.	3600	in	ns	deborah.ns.cloudflare.com.
-multicanais.florist.	3600	in	ns	newt.ns.cloudflare.com.
+multicanais.florist.	3600	in	ns	dns101.registrar-servers.com.
+multicanais.florist.	3600	in	ns	dns102.registrar-servers.com.
 mumstheword.florist.	3600	in	ns	ns-1512.awsdns-61.org.
 mumstheword.florist.	3600	in	ns	ns-1766.awsdns-28.co.uk.
 mumstheword.florist.	3600	in	ns	ns-432.awsdns-54.com.
@@ -3129,10 +2958,6 @@ myweb.florist.	3600	in	ns	dns1.registrar-servers.com.
 myweb.florist.	3600	in	ns	dns2.registrar-servers.com.
 myworld.florist.	3600	in	ns	ns1.crazydomains.com.
 myworld.florist.	3600	in	ns	ns2.crazydomains.com.
-nairobi.florist.	3600	in	ns	ns1dhl.name.com.
-nairobi.florist.	3600	in	ns	ns2knz.name.com.
-nairobi.florist.	3600	in	ns	ns3cfp.name.com.
-nairobi.florist.	3600	in	ns	ns4lrt.name.com.
 nama.florist.	3600	in	ns	dns1.p01.nsone.net.
 nama.florist.	3600	in	ns	dns2.p01.nsone.net.
 nama.florist.	3600	in	ns	dns3.p01.nsone.net.
@@ -3188,13 +3013,9 @@ newportbeach.florist.	3600	in	ns	ns-cloud-b1.googledomains.com.
 newportbeach.florist.	3600	in	ns	ns-cloud-b2.googledomains.com.
 newportbeach.florist.	3600	in	ns	ns-cloud-b3.googledomains.com.
 newportbeach.florist.	3600	in	ns	ns-cloud-b4.googledomains.com.
-newportbeach.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. EYyM0Pyqo/TR0jaROKgKfzBcMfOUgox7UFrgMl9nmlpALig2nzMkgOYas7gulTtB4u2eg0Isafry6dDOhH9Qa/LbvpCp9ykgd5/XhDS3eYqhIva3QedQ5L+6Q5fMD3ATmcAcGYqzNiPRREV9aCYVIvR8pjEjfo4G7mU3GGkSCfw=
+newportbeach.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. ggHuGYfAt4NNshptEh+EmdHcaNCwHqXD0MiS8jtIfQ0sKxum+yTSDymLgd9EpadTseLCRWQ8/dEpK3/70a98D+W7b19z/s8o8j1du4SnjWpXOt1Omef4i3zcJ/F6m31G5mokyaOiKqmkJeFwi/eoyBepQd6wRsRyUTCA6ms8GjM=
 news.florist.	3600	in	ns	aaden.ns.cloudflare.com.
 news.florist.	3600	in	ns	jocelyn.ns.cloudflare.com.
-newyork.florist.	3600	in	ns	curitiba.ns.porkbun.com.
-newyork.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
-newyork.florist.	3600	in	ns	maceio.ns.porkbun.com.
-newyork.florist.	3600	in	ns	salvador.ns.porkbun.com.
 newyorkweddings.florist.	3600	in	ns	ns29.domaincontrol.com.
 newyorkweddings.florist.	3600	in	ns	ns30.domaincontrol.com.
 nextday.florist.	3600	in	ns	ns1.domaineasy.com.
@@ -3218,7 +3039,7 @@ nic.florist.	3600	in	ns	v2n1.nic.florist.
 nicholas.florist.	3600	in	ds	49435 13 1 55F3114504E5975F333825CD681E822FE5C28FB4
 nicholas.florist.	3600	in	ns	dns1.registrar-servers.com.
 nicholas.florist.	3600	in	ns	dns2.registrar-servers.com.
-nicholas.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. O3rI+4plRb7MCPXlo8LY09Mlt+5ihpzG8ldkjc3ROPEloMNzuZQUEn5aWdIGeoicu1B3mGbvQPKZPxUqKu8GrV8NJBrK9J0Rd0mz9Q6oXxGf3WXO/DerpnE/z7mfsJCD7IR05hdu4uEXhB8JlptX2RGwT4xelSmrxL9OXfLZWkc=
+nicholas.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. Qpkdl2tcQB7qw9/DllO+8gHoB/Y28uzFC7VAMi45H7HNRlpe/8xtKilGOi//hTfdxyxdBhmnCI7hqGihM6Npx4G1D1DtA0xM1nGImZkYyTyouVv2+glrQcVp769yXkJ0+/JJBRIuPfpaEKaVCW8Ke0gq5hjxfxuUQXdT3Y0gcPY=
 nikolaev.florist.	3600	in	ns	ns15.rehost.com.ua.
 nikolaev.florist.	3600	in	ns	ns16.rehost.com.ua.
 nj.florist.	3600	in	ns	ns07.domaincontrol.com.
@@ -3263,7 +3084,7 @@ nwa.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 nwa.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 nwa.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
 nwa.florist.	3600	in	ns	ns-cloud-c4.googledomains.com.
-nwa.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. TypOaakXEeU2zOqQMdTnhLCS39V5zgD+jyIwR9KZdB+lfvHI9AYor7AWIZBG/TtQa3V6vPTxUzWDqJYpB6+hMa2B/AReaXtdHyioQMIwTylYvAz81/iWyxuutKh6dnecw4h0RZN0RMGrm/HlZalodYBFFnxvVgKpOEcRMbFh8eM=
+nwa.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. jr4mGRRyb9/N05rr4uAc3k7lfNzr2Uf+ihcO5T6zkkdaopczzawFQ3wFVQCcQ8EWjDaU9tHiAto3TZxZ4qR4MvN5umbZQNXVDXZgVNuV/9ou7ndgXlfeaJLyrg0ZmdJWlQ35EWSAZH2P7Owhj5dzk6S3KJuGV/S3XKP2rA5cmno=
 ny.florist.	3600	in	ns	ns07.domaincontrol.com.
 ny.florist.	3600	in	ns	ns08.domaincontrol.com.
 nyc.florist.	3600	in	ns	ns07.domaincontrol.com.
@@ -3284,8 +3105,6 @@ oculusvr.florist.	3600	in	ns	a.ns.facebook.com.
 oculusvr.florist.	3600	in	ns	b.ns.facebook.com.
 oculusvr.florist.	3600	in	ns	c.ns.facebook.com.
 oculusvr.florist.	3600	in	ns	d.ns.facebook.com.
-ogawagaiko.florist.	3600	in	ns	dns1.onamae-expired.com.
-ogawagaiko.florist.	3600	in	ns	dns2.onamae-expired.com.
 ohmyflower.florist.	3600	in	ns	hugh.ns.cloudflare.com.
 ohmyflower.florist.	3600	in	ns	ruth.ns.cloudflare.com.
 ojai.florist.	3600	in	ns	ns1.name.com.
@@ -3334,8 +3153,6 @@ orchard.florist.	3600	in	ns	ns59.domaincontrol.com.
 orchard.florist.	3600	in	ns	ns60.domaincontrol.com.
 orchidsenior.florist.	3600	in	ns	dns1.registrar-servers.com.
 orchidsenior.florist.	3600	in	ns	dns2.registrar-servers.com.
-order.florist.	3600	in	ns	ns1.dyna-ns.net.
-order.florist.	3600	in	ns	ns2.dyna-ns.net.
 organic.florist.	3600	in	ns	ns3.afternic.com.
 organic.florist.	3600	in	ns	ns4.afternic.com.
 orlandoflorist.florist.	3600	in	ns	ns13.domaincontrol.com.
@@ -3351,7 +3168,7 @@ oviedoflorist.florist.	3600	in	ns	ns42.worldnic.com.
 oxted.florist.	3600	in	ns	ns01.domaincontrol.com.
 oxted.florist.	3600	in	ns	ns02.domaincontrol.com.
 p7vif3u2ragn84jipavtfn99rhdi520i.florist.	3600	in	nsec3	1 1 0 73 PCHSB8C4BT5AOHVMR8I2FKIU48ODCNLH NS DS RRSIG
-p7vif3u2ragn84jipavtfn99rhdi520i.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. ywLCW4vuzuJD3OeMnWXvdjMKNfNUcDSoGNxeISb9Kb16S1oV+Keqxzk3rk/k7U809Jo3PBlt5K9fzIxzSWkJkKrQJr8jQ5Q1PaU76t8TAJbEgb+RZXHuPnKwHhndy9IRAjpHPy1C5ZK8ZWmqlHK3ilPv///Z6VZ3pyA3FdFphBQ=
+p7vif3u2ragn84jipavtfn99rhdi520i.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. h+5sq5h9IWo+AOwcO1Fpnw9+R4MReWBnHIlE8fNYtIVdeBwu/i46hZjeZvyAeEYBjezxXy6kmJOzzQj5/wGQL5gy9h9jiUYbQDrnE9IWMGarVnWUeW2ttiXx0hLo5gD4wwsaeBY/6ou0bE4CMV3INImZrHfFtA7xNE9X8kqgvew=
 pacificpalisades.florist.	3600	in	ns	ns-cloud-a1.googledomains.com.
 pacificpalisades.florist.	3600	in	ns	ns-cloud-a2.googledomains.com.
 pacificpalisades.florist.	3600	in	ns	ns-cloud-a3.googledomains.com.
@@ -3369,7 +3186,7 @@ panamacity.florist.	3600	in	ns	verify.squarespace.com.
 panda.florist.	3600	in	ds	64982 8 2 9F81FD0B760CDD0AE91A3DEB8260C5C4E481ACC14FCFF5BA55A533C3A4701912
 panda.florist.	3600	in	ns	dns16.ovh.net.
 panda.florist.	3600	in	ns	ns16.ovh.net.
-panda.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. DXxnL/lJX2WE6Po+Rve1/6FwmzcDytTWcxYX7F3f6qzJNod8CodpKi0duhPJEE2CWXa4b1b4zQKdLMbba3lyTfTzTrK4Sc9MAmBrEcQLxqUHt33TRFz0ghysZuBts0AV46cg4sbRF+6Vhbq25/iUAjh9E0KhdIYW6jZpx5XUDUg=
+panda.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. yyxfLmOZclcdui2qPTd1O6nRHqIuopNnirQjJhV90by+OphkQq6a6T29RpLR2PzImDwG8dFSgt6hnjuEwh7eVisgvt17sOCHjltmP3io/hAFPqoLbPUpjsyqOse+HGBWhfAW21OrdVh+lZ2bB03gyAgas7lQYlor9QXjqnqXwbg=
 park.florist.	3600	in	ns	dana.ns.cloudflare.com.
 park.florist.	3600	in	ns	sam.ns.cloudflare.com.
 parkwood.florist.	3600	in	ns	ns1.domainhasexpired.com.
@@ -3389,7 +3206,7 @@ pay.florist.	3600	in	ns	hgns2.hostgator.com.
 pch.florist.	3600	in	ns	ns1.dns-redirect.com.
 pch.florist.	3600	in	ns	ns2.dns-redirect.com.
 pchsb8c4bt5aohvmr8i2fkiu48odcnlh.florist.	3600	in	nsec3	1 1 0 73 PQCUC9LFHME9M0IFPMBFEISIP0K7DD2J NS DS RRSIG
-pchsb8c4bt5aohvmr8i2fkiu48odcnlh.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. 14E12rCsqDb9Htu6fpquEn9bOe0+vWGQZCHWvm6MLDoXLu27QcqnInym7NkSFU6EW2mY8FI6Y5VT9eF6OyXzLhZrvr9gcTC4e7ro74+jKpFjWKZFqIGMI7nB4Z0wsPKMYdqik31Vz/eubMWzJqlFa1jriZuRo6m/MlYv6skHO14=
+pchsb8c4bt5aohvmr8i2fkiu48odcnlh.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. SvAfRpW8p9kEJ4Kt3CKYlj4iDmD5D9OM8YD7ROGvCxm0o60kRGdaZdgXsyuhwtNC1je695CBEEDGLG4ZVC3L4lFSgBv1506j7zn8AfZvtdYoTV4SOzmQtOtUz19o9P/48GUrSJX4GqaA3jvmDlmHkzF+Lf4A43rTHU3qqRPv248=
 peachykeenblooms.florist.	3600	in	ns	ns-1244.awsdns-27.org.
 peachykeenblooms.florist.	3600	in	ns	ns-1572.awsdns-04.co.uk.
 peachykeenblooms.florist.	3600	in	ns	ns-449.awsdns-56.com.
@@ -3459,7 +3276,7 @@ petalpusher.florist.	3600	in	ns	ns64.domaincontrol.com.
 petals.florist.	3600	in	ds	37891 13 2 816BECEAA2B8FB3EE7DFD28986A416645E43CB1F30A0AFE9F3B1E241539E9C92
 petals.florist.	3600	in	ns	launch1.spaceship.net.
 petals.florist.	3600	in	ns	launch2.spaceship.net.
-petals.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. YbARQCHufu4MoyXM6V5nArFmFI/wC90+4ywFmhVD5GF0MVQ/29c7pafYoE4ozzfJnAv+ovC4igNULn5auK2ToI1PLFTY2uZUkhTb4upVUlSemrOQ04mzQhmOZj6JGQviFh5ngMmvDRs/sq4Y/F3O/050n4qkN+ncLye3P/vSpJ8=
+petals.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. qy5YnPx4mduarCTMtSovKLh2GyDX3s5nrwz/sc+bV4zNfjWf1CUp2gu64rUsYC4S19DppypRY3elCRrQwxytoBdj8Uj13MI9xB5cmpSLxwsygYN5SrtnCxtfBAI/unSLGTDN24Dw9X/DZeQzmVR3Nk3osvXjNoVHiIe70yfGKxk=
 petalsandco.florist.	3600	in	ns	ns-1175.awsdns-18.org.
 petalsandco.florist.	3600	in	ns	ns-1834.awsdns-37.co.uk.
 petalsandco.florist.	3600	in	ns	ns-330.awsdns-41.com.
@@ -3474,10 +3291,6 @@ philadelphiaweddings.florist.	3600	in	ns	ns19.domaincontrol.com.
 philadelphiaweddings.florist.	3600	in	ns	ns20.domaincontrol.com.
 phillips.florist.	3600	in	ns	ns01.domaincontrol.com.
 phillips.florist.	3600	in	ns	ns02.domaincontrol.com.
-philly.florist.	3600	in	ns	ns1dhl.name.com.
-philly.florist.	3600	in	ns	ns2knz.name.com.
-philly.florist.	3600	in	ns	ns3cfp.name.com.
-philly.florist.	3600	in	ns	ns4lrt.name.com.
 phoenix.florist.	3600	in	ns	ns3.afternic.com.
 phoenix.florist.	3600	in	ns	ns4.afternic.com.
 phoenixfarm.florist.	3600	in	ns	dns1.registrar-servers.com.
@@ -3516,7 +3329,7 @@ plantasia.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 plantasia.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 plantasia.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
 plantasia.florist.	3600	in	ns	ns-cloud-c4.googledomains.com.
-plantasia.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. hcRKu4RE9iUgOI9AjKmydREkkSe68tr6ajHiF72IhxrJcB2OTy+WQLDkwTJ9fE63UEv4GtMKzVjSqZsP95r14/oXIEDcQyeVWMWepv2hr7OpCPPwMbqeUmfCmN/8a4+XuWal5EB+4CPKCpMuAkRYHzgMBfZh2M7gMM2Q/RrNl18=
+plantasia.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. c8jjaNKxlW6iqCp9UzHw/lwsnNELNohJYCSk+vClYYo8+VqZ4Xoy4NtoPs3U+xI2vPEwUz7EFRWUV6HJ/KSSYFSb0t0GEnVo8MuwgUKxeXTiaJHmWlKE5kmTgWvieDcnmTZlNWM2Ci8O+vB0NTtCbmz24rYpW+2Soe38rQdExEs=
 plantasjen.florist.	3600	in	ns	ns1.netnames.net.
 plantasjen.florist.	3600	in	ns	ns2.netnames.net.
 plantasjen.florist.	3600	in	ns	ns5.netnames.net.
@@ -3584,11 +3397,11 @@ potsdam.florist.	3600	in	ns	shades08.rzone.de.
 poze.florist.	3600	in	ns	ns1.dyna-ns.net.
 poze.florist.	3600	in	ns	ns2.dyna-ns.net.
 pqcuc9lfhme9m0ifpmbfeisip0k7dd2j.florist.	3600	in	nsec3	1 1 0 73 Q2VJR610DPRGNSU3A1OSONAT5GR6V0L3 NS DS RRSIG
-pqcuc9lfhme9m0ifpmbfeisip0k7dd2j.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. U7phunVsZEolmonqNG317VWWHgQKQoApO17itftfL7bob7rATrzIqTPShFBKHcKU/gGiR82tJ4hkkV0Zz8No1JJn/Zi0beVXtYsqYLL1Nag3YDSrB35DC4JAUFuluHe33cZAysXE6TkjAdk5XZEuOAxr/msGpA9g2S9nH1r38uc=
+pqcuc9lfhme9m0ifpmbfeisip0k7dd2j.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. sy7TzQpyfZTbb+oEwiM7WpbzZCGGmK+VMVozYbBB2P4VzMcEvxcOfp0YST3/tVqaTrkbLs+XTyIHyYolEgFot9axnxSxi/AoSltaxqCxkKIKKx2X+oeK4UHAXlRAxrM1OVHmmUNXlde+NEAy7KGE1H0yQmSgZS7rPPMNjRhdXxw=
 pqisolution.florist.	3600	in	ns	ns1.dyna-ns.net.
 pqisolution.florist.	3600	in	ns	ns2.dyna-ns.net.
-preciousmemories.florist.	3600	in	ns	ns69.domaincontrol.com.
-preciousmemories.florist.	3600	in	ns	ns70.domaincontrol.com.
+preciousmemories.florist.	3600	in	ns	ns1.bluehost.com.
+preciousmemories.florist.	3600	in	ns	ns2.bluehost.com.
 preciouspetals.florist.	3600	in	ns	dns1.registrar-servers.com.
 preciouspetals.florist.	3600	in	ns	dns2.registrar-servers.com.
 premier.florist.	3600	in	ns	dns3.name-services.com.
@@ -3596,10 +3409,6 @@ premier.florist.	3600	in	ns	dns4.name-services.com.
 premier.florist.	3600	in	ns	dns5.name-services.com.
 premier.florist.	3600	in	ns	ns1.sedoparking.com.
 premier.florist.	3600	in	ns	ns2.sedoparking.com.
-premiums.florist.	3600	in	ns	ns1dhl.name.com.
-premiums.florist.	3600	in	ns	ns2knz.name.com.
-premiums.florist.	3600	in	ns	ns3cfp.name.com.
-premiums.florist.	3600	in	ns	ns4lrt.name.com.
 prescott.florist.	3600	in	ns	ns73.domaincontrol.com.
 prescott.florist.	3600	in	ns	ns74.domaincontrol.com.
 prescottvalley.florist.	3600	in	ns	ns11.domaincontrol.com.
@@ -3638,11 +3447,11 @@ pujaflowers.florist.	3600	in	ns	dns4.indiacyberspace.com.
 pulse.florist.	3600	in	ns	5579.ns1.abovedomains.com.
 pulse.florist.	3600	in	ns	5579.ns2.abovedomains.com.
 q2vjr610dprgnsu3a1osonat5gr6v0l3.florist.	3600	in	nsec3	1 1 0 73 QJCDVI3ITQ7AN33SRGBEK9KSD7T7QG03 NS DS RRSIG
-q2vjr610dprgnsu3a1osonat5gr6v0l3.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. h7uDZyDUSzWKp2YpUX33sTsLV3elKdoKff5ztpL8Ge2GsOxUKO+PMWxON1UnpFY8Gs6Tgjhyn3RRRrh+CNrb33y+2t/LauqAlIEWFZ/i65LzjAjYIMRSR4Kji/2Mn+BuDELj5ZqBL19alMG6BhGrG28249r60Wtdldfg9aRrvxg=
+q2vjr610dprgnsu3a1osonat5gr6v0l3.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. OG2reFzTwVOUOogDb8djTRdTk/kxrwRTddglASH6Yo27e9GMOF+PkARYS1D2zg0PNb2fcKHetdhHu6pkHeLIDUV3vGW96DVI1nGHTq3496vEJvvOoBCpWCq3WXRugEA+YD7GFQ1bbs2NtB3MKrK6pAJuG0ADYEh0TroJhUvSJFI=
 qjcdvi3itq7an33srgbek9ksd7t7qg03.florist.	3600	in	nsec3	1 1 0 73 QO4RDAS6CPAPD9NUP3BRSJ108DUS46HI NS DS RRSIG
-qjcdvi3itq7an33srgbek9ksd7t7qg03.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. Vmk3OLVVJZd+OA/hpt3kqtBso1nBitLRvSlVhMQo1JhEz+gMJ2eiA8PETnrINanqXeleR0a/f/iqJISOkFJB3QTe2Zd20Ro52TkGvquXNVpqqs1SxcdR+pXo2zKL1wqeOmhjq2gbCOG8Xgg8H6+pH2V+Q3RzgtHvHishEoCE+Sg=
+qjcdvi3itq7an33srgbek9ksd7t7qg03.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. yHFPAkqr53VSCjmw74dcq3nQSIXugzVDT1id1FjujOxzf9wRrR4s1dtyCHRP428NEnGQjTc9kNVW6hpF3bHs7T1HXMMj7KdMwBbmRBXHLV50uUhoB0Y8GC30zpqGb5a+srScnRHdU6ctMaP0PfWPwBYSnpCzInjeeI0V30TgdNg=
 qo4rdas6cpapd9nup3brsj108dus46hi.florist.	3600	in	nsec3	1 1 0 73 R5ILVIQIT1IFD46I8HD2T089UHR8KBVM NS DS RRSIG
-qo4rdas6cpapd9nup3brsj108dus46hi.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. loSsmGmPqWtlw+d0tTi8JOTbBdSgAikDE8O8uG0vh3dXUGkT7FafzOnNW5JhtqtMgaiXyjC6bOUbzhQ4Omt9nBke0HCpIppxLpCce4lLkCjC7PnezpVS6dfMAiYHLm2t6P1Kn+T4/+E65fjkhtVQZGe10fWp9Turr1j911eKMdY=
+qo4rdas6cpapd9nup3brsj108dus46hi.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. YixDMRfjovpawsEIrtrPICnFu7x5uTs33r+GCjRg6P0YTcke5Lcv03wMwvG9zy24T0ot48uLSOYg+OSy4F2XY0m5J/2qyQg5mZ9sOtpCz1WRxofhlBJkYDWdVDxsfclsRMAxtE28g/rk8YfmJvU/8mYnYVq6iPDG1wPJTuFYq9M=
 qorno.florist.	3600	in	ns	curitiba.ns.porkbun.com.
 qorno.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 qorno.florist.	3600	in	ns	maceio.ns.porkbun.com.
@@ -3652,7 +3461,7 @@ queencreek.florist.	3600	in	ns	ns52.domaincontrol.com.
 quotes.florist.	3600	in	ns	evan.ns.cloudflare.com.
 quotes.florist.	3600	in	ns	peaches.ns.cloudflare.com.
 r5ilviqit1ifd46i8hd2t089uhr8kbvm.florist.	3600	in	nsec3	1 1 0 73 RJV5PTEMH84K139JCN7227QKSOLHQQ1B NS DS RRSIG
-r5ilviqit1ifd46i8hd2t089uhr8kbvm.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. pXlXnXw9USNbeNbuewogGRQjUnaVZrIOptbm8WbAfLolFz8B/qDE9hQG8Da9ln3CZ0/bVWHHWNRPfnTgfJPLv+tDNHpxmDFgQmnbyJG7qfjWrVltp/QO1gNAK4F0qDTU7xMC+xaKQktgbl5k34CSt9kIdBgDgoiPkR0dkped/44=
+r5ilviqit1ifd46i8hd2t089uhr8kbvm.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. PwOT2Pl2dyO8eRUPHb4b+M3uo8OM7ePH6x30RGrleU8aK3SNlCXJATMx3hoprW32MH3CKzR46vbEhgjV27SxwDPtLdn5jj/S243FeU/zoOLGmO0xofBh0hEL6cLQdEyrYb09SVY9zdXQqvWHGZgBcQwam+6LKnyxF1ASaeVBlW4=
 rad.florist.	3600	in	ns	dns1.registrar-servers.com.
 rad.florist.	3600	in	ns	dns2.registrar-servers.com.
 ramo.florist.	3600	in	ns	ns1.siteground.net.
@@ -3662,7 +3471,7 @@ ranchosantamargarita.florist.	3600	in	ns	ns-cloud-d1.googledomains.com.
 ranchosantamargarita.florist.	3600	in	ns	ns-cloud-d2.googledomains.com.
 ranchosantamargarita.florist.	3600	in	ns	ns-cloud-d3.googledomains.com.
 ranchosantamargarita.florist.	3600	in	ns	ns-cloud-d4.googledomains.com.
-ranchosantamargarita.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. i+Y+HH1R+/ARR4DOfCKccut85OdPtGoA48UNtjluJZ/f8CDiOgjCmA3TVn2UgjCtCVtWAShCZl2TnQIrrWmEQ6AiWYn5R2g5df85lYCW8pLeJ7UrD+6MC5va75g9pSG1QWhs4JEIywPwdyBtx7UCGjyVEgdI8IyycMCMbnBFVF0=
+ranchosantamargarita.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. mu5VzO9Q1uQEv9nwG+CabynlTsbQW3/GuKGs94IZaAayIrrYu4cHDJflZtkm0M62zLKAQK0SGs1fp18TqOijORmMinQfh3U9m/MkpiAs7xfp/l+w8x86pfRBSYJOnJGt1adfzIjy+MhXSQ0Fa7iqHebUQG3XySrz7V2pPI8erR4=
 rani.florist.	3600	in	ns	ns3.european-server.com.
 rani.florist.	3600	in	ns	ns4.european-server.com.
 rapidcity.florist.	3600	in	ns	ns37.domaincontrol.com.
@@ -3693,10 +3502,6 @@ redrose.florist.	3600	in	ns	curitiba.ns.porkbun.com.
 redrose.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 redrose.florist.	3600	in	ns	maceio.ns.porkbun.com.
 redrose.florist.	3600	in	ns	salvador.ns.porkbun.com.
-redroses.florist.	3600	in	ns	ns1-coming-soon.sav.com.
-redroses.florist.	3600	in	ns	ns2-coming-soon.sav.com.
-reflower.florist.	3600	in	ns	dns101.registrar-servers.com.
-reflower.florist.	3600	in	ns	dns102.registrar-servers.com.
 reichl.florist.	3600	in	ns	docks02.rzone.de.
 reichl.florist.	3600	in	ns	shades19.rzone.de.
 relles.florist.	3600	in	ns	dana.ns.cloudflare.com.
@@ -3744,9 +3549,9 @@ riverwooddesigns.florist.	3600	in	ns	ns2dhj.name.com.
 riverwooddesigns.florist.	3600	in	ns	ns3bfm.name.com.
 riverwooddesigns.florist.	3600	in	ns	ns4fpy.name.com.
 rjv5ptemh84k139jcn7227qksolhqq1b.florist.	3600	in	nsec3	1 1 0 73 RN7JQJ2TL3Q15O1TLHP5453T4F7SA0QU NS DS RRSIG
-rjv5ptemh84k139jcn7227qksolhqq1b.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. jloQkXDgW5Pw6pvRVLHOChEavXTUX7kHkMR21stb+pCAiKBqK+xoXoMH5R8yjNEQjSa+KlJyrFLT7+5krgnRkDFeG8Pti3rvs3mAKeZFCUFeYJfAHcKpgn2Po7633A1Ufp5SdilCU8xz+dqf/f3YFAxRjUcs5ctWb7yLW1C+mcA=
+rjv5ptemh84k139jcn7227qksolhqq1b.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. X4HBnV6tOyJbc5Hv+pGFN1CIwScwLEplq8EmlRrPM33pSYJfBk+rtUoQ8XACVEQei7crg5nHeHhYwDxFAKE2PHSKiVbsgxrbWyYPrIOTNNKqLZndzW0QtfQRZD52wjEWV+5CFRoWst5CD4t5aCPU8nrM46bE594n1SfbSUm/DWI=
 rn7jqj2tl3q15o1tlhp5453t4f7sa0qu.florist.	3600	in	nsec3	1 1 0 73 RQOFT54F1AVPQ2QCDM1HGDE89MDUTCTG NS DS RRSIG
-rn7jqj2tl3q15o1tlhp5453t4f7sa0qu.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. TByEB3qgaG/IBHGgRzxqi0mXG6Es28LUzc4j3ZbPa6JNlKv5wfgPg3OYvnJ+bzrjI9IecRmlMjK8sOQNJwkvJkEvqBz9ceE5fT6gh97joJnYetSCht8cDgixS5gAb68fc+hplcBZeuRU74Jz0apFiyW4htL3hVXMAVCH650URv0=
+rn7jqj2tl3q15o1tlhp5453t4f7sa0qu.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. KqQenyBwqFksxuLAql/VQbZf7MqnUFxDaIg3WF3fy3taLsfDPRdfTf6vDKvSTDfdIdb46cs+wXf/ZJHEfJJJmua9X3RgbMn/UZuo1igzMZ11iC1EwWPci6uLZ+HDtmcnSXdvRiTn1AO02yH/AQ92IvUIe7Lj8ckRtY4hrARlDXs=
 robertsfloral.florist.	3600	in	ns	ns1.rkfhosting.com.
 robertsfloral.florist.	3600	in	ns	ns2.rkfhosting.com.
 robertsflowers.florist.	3600	in	ns	ns-117.awsdns-14.com.
@@ -3757,16 +3562,12 @@ robertsons.florist.	3600	in	ns	dns101.register.com.
 robertsons.florist.	3600	in	ns	dns102.register.com.
 robertsonsflowers.florist.	3600	in	ns	dns101.register.com.
 robertsonsflowers.florist.	3600	in	ns	dns102.register.com.
-robins.florist.	3600	in	ns	ns1dhl.name.com.
-robins.florist.	3600	in	ns	ns2knz.name.com.
-robins.florist.	3600	in	ns	ns3cfp.name.com.
-robins.florist.	3600	in	ns	ns4lrt.name.com.
 robot.florist.	3600	in	ds	18584 8 2 7D7593E1041F818975952D8C0019935D563ED32EE73C4D463B5E3E8FEAFF52C5
 robot.florist.	3600	in	ns	ns-cloud-c1.googledomains.com.
 robot.florist.	3600	in	ns	ns-cloud-c2.googledomains.com.
 robot.florist.	3600	in	ns	ns-cloud-c3.googledomains.com.
 robot.florist.	3600	in	ns	ns-cloud-c4.googledomains.com.
-robot.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. saCIgc+DXB7PK6Dm+X2VLTuGN8QfjRx4gAfUyIlRd2W4VhDr1VA9383tsLp/0IbE15PFwiGAwcAI9UzUQtZF47sb0opHdDNcvp//R9ipQF0eMLMmznbhkoTLrVXhIzsDwDNEExErv/RaHjHQmtH7xYUnam075YECw14is7BFx1A=
+robot.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. D6auYg+8cvQxU2G+/JtlZ9wXDXeu57RLPBRifigTAjfVtQbkgUciNnlpLYs+pzS81LRfyiuZjxzZ1oJOopW6ZwP0Agi5GAgJI1ioRL60a3q+biZmfsBRul7+2HqFiHfWBjxJgZymcyCs1c1To4/Rm24HZfUQHOZem8+DBvzeITg=
 rochesterflorist.florist.	3600	in	ns	eprodns1a.eflorist.com.
 rochesterflorist.florist.	3600	in	ns	eprodns2a.eflorist.com.
 rochesterfuneralflowers.florist.	3600	in	ns	eprodns1a.eflorist.com.
@@ -3797,8 +3598,6 @@ rosalinda.florist.	3600	in	ns	aarav.ns.cloudflare.com.
 rosalinda.florist.	3600	in	ns	bonnie.ns.cloudflare.com.
 rosalux.florist.	3600	in	ns	ns1.dns-parking.com.
 rosalux.florist.	3600	in	ns	ns2.dns-parking.com.
-rose.florist.	3600	in	ns	ns1-coming-soon.sav.com.
-rose.florist.	3600	in	ns	ns2-coming-soon.sav.com.
 roseamongthorns.florist.	3600	in	ns	ethan.ns.cloudflare.com.
 roseamongthorns.florist.	3600	in	ns	riya.ns.cloudflare.com.
 roseandblossom.florist.	3600	in	ns	ns63.domaincontrol.com.
@@ -3808,16 +3607,16 @@ roseandthistle.florist.	3600	in	ns	ns-cloud-a1.googledomains.com.
 roseandthistle.florist.	3600	in	ns	ns-cloud-a2.googledomains.com.
 roseandthistle.florist.	3600	in	ns	ns-cloud-a3.googledomains.com.
 roseandthistle.florist.	3600	in	ns	ns-cloud-a4.googledomains.com.
-roseandthistle.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. IGIQrZ+vZSL/wHbZkh9F3SkDeLFi55xex7wjyhZM4OqHGnurPrGqpLZ4dlE51+cw5QQnr4wt3pFxu94HpDim8ZgN65LBaOI1TwP4ZBPZmQvihabJr1VHynWvZHbJoRFY/mZ0LTtiVAFaVUzXFZwrIcqTY4PpWF+Me38OMS/rL8Y=
-rosegarden.florist.	3600	in	ns	ns1.myukcloud.com.
-rosegarden.florist.	3600	in	ns	ns2.myukcloud.com.
+roseandthistle.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. ZP7ROHOiu4pbwS8ODehPMv1BfFJmg26x13GRewu660/16itHnOl6tngNbbAT5jBs28Yy3hbrjk+jquqk8LB38wE+M7hx4VLi14nFiAGtmDsXsxuIO3/E3gsFw7rtiG3sty57B+2R/4xdNW/ADgikUduN/pC+Z9hkTdDMBUOaWSE=
+rosegarden.florist.	3600	in	ns	ns1.renewyourname.net.
+rosegarden.florist.	3600	in	ns	ns2.renewyourname.net.
 rosemarysgarden.florist.	3600	in	ns	dns1.registrar-servers.com.
 rosemarysgarden.florist.	3600	in	ns	dns2.registrar-servers.com.
 rosen.florist.	3600	in	ds	53752 13 1 F12A7ABEF42EC4E2955B43F9E3243C083EF930A0
 rosen.florist.	3600	in	ns	ns0.transip.net.
 rosen.florist.	3600	in	ns	ns1.transip.nl.
 rosen.florist.	3600	in	ns	ns2.transip.eu.
-rosen.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. PIfDmf49zjTrDAvazQRlVh7N9k9RnLPFftLXkifZ5nt+aR3eXGsW9/CdrG/7I33pwn/pBMlsNcCka+jmPiv1FU9UdNk4nONLjNAQu8PNmAvEfzVp8YvHP3qQ7Amc/Nx7ahXj0/EdfBflRaLjl4JnOLlyb/CoRIs0l7t0z+kN5UQ=
+rosen.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. oJ5DnubviGgYqdR/01AycvbIx6WIV5BBRXn7aSsFtbxKK9WQvX6yFGVAVX8pjvVM+YZDe49RTvXGS5/vNXv5P605ji2lKCZPK3lzPHmia7YNNKWoFyW84vZMYthbytTz0LpkOATQmVswR+oMuTY9HB6uZ/eAPiUvltMNCnRyEU4=
 roseofsharon.florist.	3600	in	ns	dns1.p03.nsone.net.
 roseofsharon.florist.	3600	in	ns	dns2.p03.nsone.net.
 roseofsharon.florist.	3600	in	ns	dns3.p03.nsone.net.
@@ -3841,7 +3640,7 @@ rosetotheoccasion.florist.	3600	in	ns	ns-cloud-d1.googledomains.com.
 rosetotheoccasion.florist.	3600	in	ns	ns-cloud-d2.googledomains.com.
 rosetotheoccasion.florist.	3600	in	ns	ns-cloud-d3.googledomains.com.
 rosetotheoccasion.florist.	3600	in	ns	ns-cloud-d4.googledomains.com.
-rosetotheoccasion.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. EqfcGqIAmnhm6w6fVWQQRB5Jnn+o8DVwg9xuEYOHTh0Nn6vXg9pJwyDP0F4PsKS1OlL04WzwTgGbOVg/d+QXhMYkaWJNI9pXsSJSMTXghxvKSfT33GAcKdJwbpb7vOCEPk2vaPeoFhRYlE5x8zA9wJ35TTgH2P3LzQt8MYimKIE=
+rosetotheoccasion.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. TULgjRlZyHns9yMBSrnRQJPS/XuOtvBiEIS6CMF/OdNuh6Yd7f1rmkvZaQKrnGS1WX4baIcxYeVZLVHz0yYxXCGAZSXCgQN3DhZjoUJiRdLcRpDrrmdHssEE3mnKIIydwrGu7v5oHjxnCK+lzz7D89/7gDoHfwa+vohbXCRbDx0=
 rosetta.florist.	3600	in	ns	ns1.beget.com.
 rosetta.florist.	3600	in	ns	ns1.beget.pro.
 rosetta.florist.	3600	in	ns	ns2.beget.com.
@@ -3859,11 +3658,11 @@ royersflowers.florist.	3600	in	ns	ns01.trademarkarea.com.
 royersflowers.florist.	3600	in	ns	ns02.trademarkarea.com.
 royersflowers.florist.	3600	in	ns	ns03.trademarkarea.com.
 rqoft54f1avpq2qcdm1hgde89mdutctg.florist.	3600	in	nsec3	1 1 0 73 RU96BL5HSI7LHVIISM93KOT59HL6HI8R NS DS RRSIG
-rqoft54f1avpq2qcdm1hgde89mdutctg.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. Cvl0s66Y58Pn+p0+UC/e7z55qHZYB+KQNM0RQwqgrQOR5S+lMQlPq8yN4CdNEpExXbxyHB5t5xcrC8d2SfyHn3VXYHMiOBxn5Sc0EU8jTp2toIKr9xGnp0r9jqBQOGjlwjPrsgl46RU3NDXis2p41VvDsNkVIPsPlnXwxebJVTg=
+rqoft54f1avpq2qcdm1hgde89mdutctg.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. uu9pQd9vGAmHe4wHbeivwCggwYGlfouYM6PBpHxiDEEVBwGHYlyA5Y+CCLfiDHAkCwYuUj6zgvyvo00tKsRwXgU3caFmN6dpHM6PcVM20v8EfwVpsFG7mQxJzUu+8Vk1XvkOaSVBdkgzrekl6xXgbsXuvEKBKxvZsOOc1oZVLDk=
 ru.florist.	3600	in	ns	dns1.registrar-servers.com.
 ru.florist.	3600	in	ns	dns2.registrar-servers.com.
 ru96bl5hsi7lhviism93kot59hl6hi8r.florist.	3600	in	nsec3	1 1 0 73 SA1OV7TF7N3RNMCNAAN705QQ97823M46 NS DS RRSIG
-ru96bl5hsi7lhviism93kot59hl6hi8r.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. YAHv6YQHYj7X8Iybc0Agh94VcJEiZkbsciSGAnxV9lqUlWZC+3fDvLq6IuEqXdCISHcUqjfiGL63ggdizoJCvt38aaGRRe1pe4h2odd6zEZqZNfA3tuGFfgM7cKFJMSqlBAlufmyM9U511/SgiuWL/42kfhCCLTqkZJzMjrjDq0=
+ru96bl5hsi7lhviism93kot59hl6hi8r.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. vu3hbqKsfXQI1g6ktdoDgADXnPXFuP7ayhe2EUvLHn+PkzyVoKanCbvh/dmzVqh8hToPw4wrbQx3v5dsguBeUmzFC9UXLbu0emmYa8SvaxAQG8toKgIkWTpzEoVhIQscS4ly4sHWME+ThnkTZYQ1s+RdQTjD17E43cabbZ/Ljaw=
 run.florist.	3600	in	ns	dawn.ns.cloudflare.com.
 run.florist.	3600	in	ns	greg.ns.cloudflare.com.
 rus.florist.	3600	in	ns	ns47.domaincontrol.com.
@@ -3871,7 +3670,7 @@ rus.florist.	3600	in	ns	ns48.domaincontrol.com.
 s.florist.	3600	in	ns	sl1.sedo.com.
 s.florist.	3600	in	ns	sl2.sedo.com.
 sa1ov7tf7n3rnmcnaan705qq97823m46.florist.	3600	in	nsec3	1 1 0 73 SHDSS3PCNCV5N17K56RS25AKUO1SCQSL NS DS RRSIG
-sa1ov7tf7n3rnmcnaan705qq97823m46.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. ArHZQ4xHYRIVuqID7NHWydPX7Iw0TyFxFpN3sCp9AeiljOVJxhU2WDgLoTqBgxmlTY9Z4sby3S0JMyFzwHxB17utVLHseCGW1pQOS4ltFmhhfqdZGGe4ATCHsQhMRkHTJPXiv2kaNeqWQfr1WU4g12GA/NMYB/zkjGkmj5Gx6PI=
+sa1ov7tf7n3rnmcnaan705qq97823m46.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. jhfAWSQxj0W7XqiAvtKaAMGfm2mKQ72BJAP3mfu/GPnlFr65YDi7yOSn/2dYhjv4SLhXsnsTyn1sf91lH6k06i6+LPHOI4fa/Py4g0Y5VnViLvMynaco6LzTSAewa+H+c8GjSUINk9VHrLeFP6kdHiSY7J0czlK7z3k5FoyhGFo=
 saas.florist.	3600	in	ns	alec.ns.cloudflare.com.
 saas.florist.	3600	in	ns	romina.ns.cloudflare.com.
 sacramento.florist.	3600	in	ns	ns29.domaincontrol.com.
@@ -3887,7 +3686,7 @@ saintpaul.florist.	3600	in	ns	ns-cloud-e1.googledomains.com.
 saintpaul.florist.	3600	in	ns	ns-cloud-e2.googledomains.com.
 saintpaul.florist.	3600	in	ns	ns-cloud-e3.googledomains.com.
 saintpaul.florist.	3600	in	ns	ns-cloud-e4.googledomains.com.
-saintpaul.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. VLlAWxI9jdAJkXSwcBtFUX3l1cxJFE9N0fEZh6sWRGWIoQim7kL6lkfMfHII7Sgrv6KivCCe/UT4Jo/fjT72VQHCvU3I8sgLFmAmiYfs0U710rGU6lFHq2vAGghUlSthwEosHmjfLmNmr5xQWYhiBZxBm5a7zIvxMa4XV06GjIs=
+saintpaul.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. Qm8ghZoRnd1Hq7jMLVf0CbHWkxFt2Ts5hnedXf2TjYabBv/oC8eOVIIocYJKzye1KNJQ+ii8CwKAC7dH5X2sp3II9DqopC2yQb4gDiLFpKCs0IpoeLknbiqmMFPdPNGoHrf8txVhQSyYzxGMTokmxSnAlHa8AzJYxMlkXr0vs+o=
 sale.florist.	3600	in	ns	kolton.ns.cloudflare.com.
 sale.florist.	3600	in	ns	stella.ns.cloudflare.com.
 salon.florist.	3600	in	ds	19171 8 2 D52F40CB477D89CD8AB148FEAC312F4F1AFEC80A9312CF815D3B8EEFA03EE953
@@ -3895,7 +3694,7 @@ salon.florist.	3600	in	ns	ns-cloud-a1.googledomains.com.
 salon.florist.	3600	in	ns	ns-cloud-a2.googledomains.com.
 salon.florist.	3600	in	ns	ns-cloud-a3.googledomains.com.
 salon.florist.	3600	in	ns	ns-cloud-a4.googledomains.com.
-salon.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. Xn6li6HkD8Vyf1Nl4s4mJpq7adXY5Jpd3AZpcy1MGf9l32ZYVM5BgujHIT4uesEwHAl8JNZto3VGA59a565g0pElPLWVStan7UdLcBKDRz47NtD2Ac1KMFXy/UtwKtRNvvbC/xJGBXMzz3Huq2fwb9147v7MAZxSLaH20iMeEEY=
+salon.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. KxxtjiiXnel1jva7oWjLvOHh/Pb6qoLWjvm2KA+V9pUXsOzVK49Ya1sr7yQFqfNgBgABbTdirREdAB6VT4czHWaNFijaNjeRLPjnYI4eYEvPd5tQifGwBo2YwVtW3XIQVZc5Y4KotqAdQZsVaWg7h3A36jWBzz3YDQSimJiMwI4=
 salt.florist.	3600	in	ns	dns1.p07.nsone.net.
 salt.florist.	3600	in	ns	dns2.p07.nsone.net.
 salt.florist.	3600	in	ns	dns3.p07.nsone.net.
@@ -3914,6 +3713,8 @@ sameday.florist.	3600	in	ns	ns1.domaineasy.com.
 sameday.florist.	3600	in	ns	ns2.domaineasy.com.
 sanantonio.florist.	3600	in	ns	ns1.dns-redirect.com.
 sanantonio.florist.	3600	in	ns	ns2.dns-redirect.com.
+sanantoniofuneralflowers.florist.	3600	in	ns	dns1.registrar-servers.com.
+sanantoniofuneralflowers.florist.	3600	in	ns	dns2.registrar-servers.com.
 sandbach.florist.	3600	in	ns	ns09.domaincontrol.com.
 sandbach.florist.	3600	in	ns	ns10.domaincontrol.com.
 sandyspringsfloral.florist.	3600	in	ns	ns57.domaincontrol.com.
@@ -3976,10 +3777,6 @@ scotiabank.florist.	3600	in	ns	curitiba.ns.porkbun.com.
 scotiabank.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 scotiabank.florist.	3600	in	ns	maceio.ns.porkbun.com.
 scotiabank.florist.	3600	in	ns	salvador.ns.porkbun.com.
-scottsdale.florist.	3600	in	ns	ns1dhl.name.com.
-scottsdale.florist.	3600	in	ns	ns2knz.name.com.
-scottsdale.florist.	3600	in	ns	ns3cfp.name.com.
-scottsdale.florist.	3600	in	ns	ns4lrt.name.com.
 sddtc.florist.	3600	in	ns	curitiba.ns.porkbun.com.
 sddtc.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 sddtc.florist.	3600	in	ns	maceio.ns.porkbun.com.
@@ -3989,10 +3786,6 @@ sealbeach.florist.	3600	in	ns	ns66.domaincontrol.com.
 sears.florist.	3600	in	ns	dns1.searshc.com.
 sears.florist.	3600	in	ns	dns2.searshc.com.
 sears.florist.	3600	in	ns	dns3.searshc.com.
-seattles.florist.	3600	in	ns	curitiba.ns.porkbun.com.
-seattles.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
-seattles.florist.	3600	in	ns	maceio.ns.porkbun.com.
-seattles.florist.	3600	in	ns	salvador.ns.porkbun.com.
 sebring.florist.	3600	in	ns	ns27.worldnic.com.
 sebring.florist.	3600	in	ns	ns28.worldnic.com.
 sedgefield.florist.	3600	in	ns	ns1.p201.dns.oraclecloud.net.
@@ -4040,16 +3833,14 @@ shalimardesigns.florist.	3600	in	ns	ns56.domaincontrol.com.
 shalomspecialtyflowers.florist.	3600	in	ns	ns1.wordpress.com.
 shalomspecialtyflowers.florist.	3600	in	ns	ns2.wordpress.com.
 shalomspecialtyflowers.florist.	3600	in	ns	ns3.wordpress.com.
-shannon.florist.	3600	in	ns	ns1dhl.name.com.
-shannon.florist.	3600	in	ns	ns2knz.name.com.
-shannon.florist.	3600	in	ns	ns3cfp.name.com.
-shannon.florist.	3600	in	ns	ns4lrt.name.com.
 shdss3pcncv5n17k56rs25akuo1scqsl.florist.	3600	in	nsec3	1 1 0 73 SMJER0ET2Q0TRA27M30174580T8NEJVS NS DS RRSIG
-shdss3pcncv5n17k56rs25akuo1scqsl.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. cINC71i2BSJPbrmJ4a5E/t7vmrwl9QcdL3Pe0PQ27OtnkBD01rJXTQ6akQ7/+24p7nxgbtKq8pgVYLp7Skoh9LgebrVbuGp9Ci32U/WWQdS7az77iOnxmIpt4aq1QdFokbB8vFcsLlB5pRs0CdXbHQNGcttgHaX0yr7zUj+sw9w=
+shdss3pcncv5n17k56rs25akuo1scqsl.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. vERjoMN+jfY3LJHvPeEs1sd1Gb9IUWunCVVDqVMy9s5i5Kj5vpU26DMaHlRitmKUoqepjfi+apQb+dijPQYyFQz4E1LyBuMcEWhTjoYKL/MHK6oPA7cvMaFQbyj29qcRBFB18E+b3GLjTm+Dd16v530bA1JlsgGxjYAa3sV1oyA=
 shepherd.florist.	3600	in	ns	ns29.worldnic.com.
 shepherd.florist.	3600	in	ns	ns30.worldnic.com.
 shida.florist.	3600	in	ns	ns71.domaincontrol.com.
 shida.florist.	3600	in	ns	ns72.domaincontrol.com.
+shop.florist.	3600	in	ns	ns1.afternic.com.
+shop.florist.	3600	in	ns	ns2.afternic.com.
 shopify.florist.	3600	in	ns	ns1.markmonitor.com.
 shopify.florist.	3600	in	ns	ns2.markmonitor.com.
 shopify.florist.	3600	in	ns	ns3.markmonitor.com.
@@ -4100,12 +3891,8 @@ smart.florist.	3600	in	ns	ns3cgw.name.com.
 smart.florist.	3600	in	ns	ns4ksy.name.com.
 smartgoku.florist.	3600	in	ns	ns1.afternic.com.
 smartgoku.florist.	3600	in	ns	ns2.afternic.com.
-smiley.florist.	3600	in	ns	curitiba.ns.porkbun.com.
-smiley.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
-smiley.florist.	3600	in	ns	maceio.ns.porkbun.com.
-smiley.florist.	3600	in	ns	salvador.ns.porkbun.com.
 smjer0et2q0tra27m30174580t8nejvs.florist.	3600	in	nsec3	1 1 0 73 TNLLR54546B8GH6P70RILSN4HARONN9J NS DS RRSIG
-smjer0et2q0tra27m30174580t8nejvs.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. L0Hb7orjH7bB6C6sYJBacqvKA3J2j1XWhAeSbsI60BbgGezqQBnRYc6L37gpbCBL2ohKgwSc7Da4EY3DCqankS2tkgcEIWvSyOPvI/I5mPnmgU1AMUaF8dPNflzWobQ2KZhR4JRzPIuZsiAX4eEs5y9kAJM7DLm5xIywI0Ovt9U=
+smjer0et2q0tra27m30174580t8nejvs.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. cXMRkNXtlIc4SnCfFc/eyfyIovHjhnKm0G5ctqFEHD5XzQO3Y4OhCprJoCjxbVUSNiVwuENm6ltrelL5Sk9Uteg9bErJ8/jz3lqESaffos6VBkJERAK9Xf3Is9dU9afN6zye93H3qfUHXAZD2ddq90xtQqvvvHFr+n2YcParlp8=
 snowdrop.florist.	3600	in	ns	uns01.lolipop.jp.
 snowdrop.florist.	3600	in	ns	uns02.lolipop.jp.
 socvetie.florist.	3600	in	ns	ns1bcp.name.com.
@@ -4209,10 +3996,6 @@ stlouis.florist.	3600	in	ns	ns1.dns-redirect.com.
 stlouis.florist.	3600	in	ns	ns2.dns-redirect.com.
 stock.florist.	3600	in	ns	dns1.boxercreativeuk.com.
 stock.florist.	3600	in	ns	dns2.boxercreativeuk.com.
-stockton.florist.	3600	in	ns	ns1dhl.name.com.
-stockton.florist.	3600	in	ns	ns2knz.name.com.
-stockton.florist.	3600	in	ns	ns3cfp.name.com.
-stockton.florist.	3600	in	ns	ns4lrt.name.com.
 stoneoak.florist.	3600	in	ns	ns33.domaincontrol.com.
 stoneoak.florist.	3600	in	ns	ns34.domaincontrol.com.
 stpaul.florist.	3600	in	ds	36679 8 2 1195CB6EDD1C9A2B1FEE9F316CDB46658C8ED680C00680C3EECBF5C91E41604E
@@ -4220,7 +4003,7 @@ stpaul.florist.	3600	in	ns	ns-cloud-b1.googledomains.com.
 stpaul.florist.	3600	in	ns	ns-cloud-b2.googledomains.com.
 stpaul.florist.	3600	in	ns	ns-cloud-b3.googledomains.com.
 stpaul.florist.	3600	in	ns	ns-cloud-b4.googledomains.com.
-stpaul.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. OEJfSh26dkvWA4KInGsGc3orWwmKEuLkgQravkhz87XLy9ctsPPamLAMxSNacnNU5G7T7CLJYbIgbgJMIycF66fGprpbdV3WAfuRMcrEUUmxlYM0F1sOaxrpluLG9VfkCxWOn/5FUuC62xJyRsJm9SPbVu8EvxCw7FPL492EkUY=
+stpaul.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. KK20gs+yDB7kmqepHAFQsHi2VxNW6RmbwfeLtWUTM21qxtD/HCCaxXVcG8yYLq7k4Fld/Z1sNjbXuWiu6ztYU0KOxqoe2SXOWikGL9tkXUQ/TjVVttSqL0F5xi39vtT7sglwP3YggJRfZjaCj6e1SBRfvHCmh6fxzlz4MXi9dD4=
 stranges.florist.	3600	in	ns	ns43.worldnic.com.
 stranges.florist.	3600	in	ns	ns44.worldnic.com.
 streamingcommunity.florist.	3600	in	ns	brett.ns.cloudflare.com.
@@ -4320,10 +4103,6 @@ teleflora.florist.	3600	in	ns	ns6.markmonitor.com.
 teleflora.florist.	3600	in	ns	ns7.markmonitor.com.
 telefloraflowers.florist.	3600	in	ns	ns77.domaincontrol.com.
 telefloraflowers.florist.	3600	in	ns	ns78.domaincontrol.com.
-teresa.florist.	3600	in	ns	ns1dhl.name.com.
-teresa.florist.	3600	in	ns	ns2knz.name.com.
-teresa.florist.	3600	in	ns	ns3cfp.name.com.
-teresa.florist.	3600	in	ns	ns4lrt.name.com.
 terrikrisavage.florist.	3600	in	ns	ns15.domaincontrol.com.
 terrikrisavage.florist.	3600	in	ns	ns16.domaincontrol.com.
 tfs.florist.	3600	in	ns	ns67.worldnic.com.
@@ -4423,7 +4202,7 @@ thetiltedtulip.florist.	3600	in	ns	ns-831.awsdns-39.net.
 thevalentine.florist.	3600	in	ds	2371 13 2 6BDB9EE682200ADB88E2C557800CE4B74BA27050E0587A94F73C51E2EC098B0D
 thevalentine.florist.	3600	in	ns	amit.ns.cloudflare.com.
 thevalentine.florist.	3600	in	ns	beth.ns.cloudflare.com.
-thevalentine.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. KXbesiLljQfEuXY4GyxCQ78Fyj+kqsMOO+YOctnZ6bXnMXUe0x5o65ilSNPx178Imqk2wRh9nHSwDLhQDOzpQwaA80jQdWpkkNz1zT4XKIM1G+mJDTOh7NxqrA6wIsnVHGHnkm//CsR9o5j0XmfFILpLuIPAMLZOxI8UKw5R8Ig=
+thevalentine.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. xgON1a0Y6vtQ1QP28MZl/NpygFEHSFU1L9SZNvtLa43rSPPBhXh28cBuBLIukSTCwOkQi1OGi+grrKIaN/01ck4KmX7SCw/c5igaU1NyTb0TlYkiYGJAj8JHehOXj8e6U+oG9ksRe6iEiL5feeozVopHe9u/nQ3hqI1m9IPtTl4=
 thewateringcan.florist.	3600	in	ns	ns12.wixdns.net.
 thewateringcan.florist.	3600	in	ns	ns13.wixdns.net.
 thewildgarden.florist.	3600	in	ns	ns1028.ui-dns.biz.
@@ -4461,12 +4240,12 @@ tlyorkefloraldesign.florist.	3600	in	ns	ns2.p201.dns.oraclecloud.net.
 tlyorkefloraldesign.florist.	3600	in	ns	ns3.p201.dns.oraclecloud.net.
 tlyorkefloraldesign.florist.	3600	in	ns	ns4.p201.dns.oraclecloud.net.
 tnllr54546b8gh6p70rilsn4haronn9j.florist.	3600	in	nsec3	1 1 0 73 TURG6SNSDRJ52NQBG8DQEFV9L7R7RL9M NS DS RRSIG
-tnllr54546b8gh6p70rilsn4haronn9j.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. huIVlh+F304JlFNn5KmRroSTE96lufhinku6FJZVjXOEigii0LGEkE/5iG0XjcoqnHf/3ZjXX2QMlXvEjwzrsJjlxfzaLUCowZ22L/C9st0sGXPu2WrneN+gjnimlUQfY8tyrvPtxorkCZlV3xfSloiYM9BmeW0P6avlOhduhTs=
+tnllr54546b8gh6p70rilsn4haronn9j.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. rxnhwNfLn3S/tqAAh8KY3RIvqbyy9kDsD7Pp/YHzRXjyKKKHZxOu0CFGwXCfwz90r2BkACzHYi8tagD6L9BgHSCZiVAV/ORHs6iYGutih3sSyM/CkukG5FVwTopdIBNILvLonZMJ4V5N9JxDM62wgZ2UVjUv1sBoepiYSujCgiA=
 tobias.florist.	3600	in	ds	5267 13 1 2F8A6D1A29FC00F4636D6F5CF4F378D1F4CE6538
 tobias.florist.	3600	in	ds	5267 13 2 9A3624E22B3B85CBBBD572DE1A35DBB4B5E7ADE6102626706B7B3F44CD828B1A
 tobias.florist.	3600	in	ns	ns1.world4you.at.
 tobias.florist.	3600	in	ns	ns2.world4you.at.
-tobias.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. m1X6p8uvK3xJhiFVUQ+4gf3fZCwXZnbLpIx7u6ILAPuZRussGLjOH3x1T1CileCg+PsQoubUwFMb0lY10dhb2vNvd97Q//M19Jbna2pgsUy6CzCW2TRmZmbiGtSyhojV06YSEMw7gIrbGDZSF1oMTn8Lsm0Kaogki3REqhiPOpw=
+tobias.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. iXwwKaacw/GCwcUedcuzgF8Rb4L0TZmRu9p+48NoMFHCl3YOLA6B5CNsJEEt8ZVuokG7kzJShbJB/qTkIU4YTdvBprDFaGcfSr+/owR7gD5eiCBNGHjNJCOy4jQgNF8s/OmKQCGv6ogCn5XUU8y+rdebMtB6rkoPU3Cq/+8qXrk=
 tokyo.florist.	3600	in	ns	ns1.101domain.com.
 tokyo.florist.	3600	in	ns	ns2.101domain.com.
 tokyo.florist.	3600	in	ns	ns5.101domain.com.
@@ -4475,7 +4254,7 @@ tom.florist.	3600	in	ns	curitiba.ns.porkbun.com.
 tom.florist.	3600	in	ns	fortaleza.ns.porkbun.com.
 tom.florist.	3600	in	ns	maceio.ns.porkbun.com.
 tom.florist.	3600	in	ns	salvador.ns.porkbun.com.
-tom.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. pSMrte7Ia43jTomLzgt4weBaRY3FGM63NuC/h+Nqn0YN5UVKeu8V1EKLYgiF+uMzWFs01xG0vFJLuCBVFagkMWrkaIBQpMG+AqiNRSNvglQCsIpueRXVbmXQ7tQ9dajGe57IbRtOr6RBDov2pz8BJlYzE75LLVma8Hs/WtZvoyY=
+tom.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. AVsmyhGb4Dae4qhxV72Y5r4Q++KCrkdGlSM6pnof6mnmRmVCvvECvHwcrlcwV6JGzVNVsdPCJAXHPp+3VHa8t+qkN1z0BLRKk8L1JMnInyORMWeXLVr6ZqcgsppTMB3o1ZVCRSRnVyPcGBiAFHUcw89z3tez7kc9B3QEDFGGEVQ=
 tombrownwholesale.florist.	3600	in	ns	ns0.lcn.com.
 tombrownwholesale.florist.	3600	in	ns	ns1.lcn.com.
 tombrownwholesale.florist.	3600	in	ns	ns2.lcn.com.
@@ -4527,31 +4306,33 @@ tumblr.florist.	3600	in	ns	ns2.tumblr.com.
 tumblr.florist.	3600	in	ns	ns3.tumblr.com.
 tumblr.florist.	3600	in	ns	ns4.tumblr.com.
 turg6snsdrj52nqbg8dqefv9l7r7rl9m.florist.	3600	in	nsec3	1 1 0 73 U45PUDBN9SADBESVVMPM9UATQETA4M7Q NS DS RRSIG
-turg6snsdrj52nqbg8dqefv9l7r7rl9m.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. RbyDdqLFko/ltlo9ecy/XFs5vGbQMY9pkWVDdv7wxLym6hWohup7N/JGtQhPnISqF2uW8qlwYujz5DsSjttJR0aoWVizWK8kuqcXtHGtuRwbhwgINbo6/PhM2l/BAAoUA9oKD6quyfeT2V6ywUQhk6OpRasllRWdB1GZflmwEic=
+turg6snsdrj52nqbg8dqefv9l7r7rl9m.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. AkdjH4FgZ/wpZZFy1BgYynSK3u8TtGgmy02UcJUhMDwbkazE351+0jasqgPSXzR9weMB6yiZi32LK/9JEhtSn50G5hbk5gxJv5JLZWfTnr+JtvY009w4/jA5EDfAc+qh7qdS3QWn7L7tGIu1MyfyQBMNeqKOTU7ub33nKbgMd4I=
 tussiemussie.florist.	3600	in	ds	25084 8 2 83B0865FE09010055D0BE58AD22201534E3937EBEF0D1669D81C3ACC52598697
 tussiemussie.florist.	3600	in	ns	ns-cloud-e1.googledomains.com.
 tussiemussie.florist.	3600	in	ns	ns-cloud-e2.googledomains.com.
 tussiemussie.florist.	3600	in	ns	ns-cloud-e3.googledomains.com.
 tussiemussie.florist.	3600	in	ns	ns-cloud-e4.googledomains.com.
-tussiemussie.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. llrxc85dH/Qxji1jut/wwa0nygpCuzrzX1xBvhOnRHjlUKywFwK3zAy7U/VID7MnvjDp46yn2lqmDqe2toUENhMqdFl0UKFWPOw1y+HdqoSLZ21ZNxVYk8ZA3Qo6KQfZRxwP2O4tRmAsWIsq9xSHkNERjPWrzFDU56MsgH+Yi1s=
+tussiemussie.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. eStawuqR19RZeq9v58AORsz1YoJx+nF7OUkLxlFKHGxvGNp0Ux/sMuopv0ZaDyKVvAjYeXA8dIP/3htIeMdrXZ+xw/fhmgAjkkFYNPxpKPLDdK38/6VBs/d9t3+4EmEjzHAb2Sq4yJBvucx3LolKnHXxlPsKEt7V5vA9on0iKpY=
 typical.florist.	3600	in	ds	2371 13 2 7C508E8EFEBABCA943BB6C024E7AE4BA092E838BE516A5D8B86ABA2DF8BD6399
 typical.florist.	3600	in	ns	lindsey.ns.cloudflare.com.
 typical.florist.	3600	in	ns	mack.ns.cloudflare.com.
-typical.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. P/X12zDHjMsq6NGL8SgD/W5m3IMsOGhu9ZkcCVCDfwSAMD8LCg+ujyYkC2jN7WnB+WWOvHb+UkEA9LfpSbA72Mc+GFM0mJCWeIgxHt6QdXYY4XkXn3eeiRpZOXJQ3nUmIGblrDJXV903T9OvtI5CbRUGVd1qIZhwl1/CcEsqWh8=
+typical.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. rXgFzu+1PCZcVMQYaBdHAGCAAS+Tbn5yswIeXVKNS8q00lSuVMDtCp3mnvWko9SYt/xmEhHqFtCB73lZjHSu7evqii4rwuOVDFWQXojFvfVYAXgyk2fat4jWgmDsgfHe+PjgSKsNLoylPBT48Cb/ei+5B+aIBiYRyRBeA+2j/gg=
 u.florist.	3600	in	ns	rocco.ns.cloudflare.com.
 u.florist.	3600	in	ns	vita.ns.cloudflare.com.
 u45pudbn9sadbesvvmpm9uatqeta4m7q.florist.	3600	in	nsec3	1 1 0 73 U54G0P6B7FP8CF9D9CRALLCD7TLIIBE9 NS DS RRSIG
-u45pudbn9sadbesvvmpm9uatqeta4m7q.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. hSsQXf4Gk+EWyEOZztpJYCTLfAHkX0D8ED1qPGzrsZyr2mWV5ldpIP8+ninDymdCgC616xIdZYXR1aPZAGWFyRX+5NzFQ5oCpz1EKS3qEcdZTwfv5VvjNNqTOMT4ptEhXcjy77jmVGDv0KokqDCv5BAeBhx3TFxFRHCOY+BVgg4=
+u45pudbn9sadbesvvmpm9uatqeta4m7q.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. B+PkarBZ4WRonWUtDXmWRqYWmwRKssmRNIiZ/KP3xK+Fb87iS97gwcwMxYJ/rVP/MqlhrKT5ODitrRoUOnDTcl8TAUXL4mWGKau3Teni+kbJg/KaQqpUefUjco1ej4dRLS8yk5m9f2z+I0R6GCcmS+gFsQmcMglR2Pq9YeIwUIE=
 u54g0p6b7fp8cf9d9crallcd7tliibe9.florist.	3600	in	nsec3	1 1 0 73 UDMSEJF72F0VEL9TAT3ACR6615N7142O NS DS RRSIG
-u54g0p6b7fp8cf9d9crallcd7tliibe9.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. Tm/+oJ14sY3KwnuAJ9XwDaN84qTfnnJDQr71PxQXoS1we52Fk/KgAcPXBcKMaCNCt3qeWd3qo9SyFtgcEPdZyZJIcYwUaojLkxDe5H5NCELQ1WJevUAlGWgtEJaJUKR0LqMUVAv2CQh0IBDaf54gPIJKCvczwuC7EJEQ7mOOwQg=
-u888.florist.	3600	in	ns	bristol.ns.cloudflare.com.
-u888.florist.	3600	in	ns	george.ns.cloudflare.com.
+u54g0p6b7fp8cf9d9crallcd7tliibe9.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. yCvasmSvfiEyupdnJFMQZwTidJEcswWj4vyJPwWwRGHCr0U/vaJs2Y6cOWOF6E1gUvZtlmE8gQXbP+QnQjSzQ9NegWfRAbdyDwZxTR0ImaL+euFk7X7W0J0ezTlpVobNLF4Ty2wFE0GwcWyqieIDRtT1Lhi2ZFcgZA8MWslUiDc=
+u888.florist.	3600	in	ds	10449 13 2 6B8C2E0DAE6AA093C374786E7ABFC306B6A200FC134E236F115CF3AD5480AA54
+u888.florist.	3600	in	ns	launch1.spaceship.net.
+u888.florist.	3600	in	ns	launch2.spaceship.net.
+u888.florist.	3600	in	rrsig	DS 8 2 3600 20260211075245 20260121065245 31533 florist. jBv/Qn4JqKlu4MbZjzS4S+NqOkQrHL8p5mvxAYvr/mkco+M/OwLcnwekk77ARp5shYj9HACwTXGWfP7SchO36jPu/OADmrXBklLPQtf1GVfRiXLi7G0fRDuOeOz8E2VRatuNZF9zS8bZ5UYeObwbulvrcajrMaG4WTPO3C+xPNU=
 ua.florist.	3600	in	ns	dns101.registrar-servers.com.
 ua.florist.	3600	in	ns	dns102.registrar-servers.com.
 udmsejf72f0vel9tat3acr6615n7142o.florist.	3600	in	nsec3	1 1 0 73 UDP0E5T65KD61E0B0QBL9259BRDAGNNR NS DS RRSIG
-udmsejf72f0vel9tat3acr6615n7142o.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. pOj2W8kwJpqPwYeaLbbezWn6svEsfe31TdotTLI2R8eU85/dU+smQs1gjCydJgV889VB78TX2/E11UlwfMQeiLEVh2qPiNCpgJDsFWY8ET92rzNjuwIDCspejs6kEklJ+P5K57KKWvgnwicH+cTxUE0ijFms/7daTMZUPzR7gPA=
-udp0e5t65kd61e0b0qbl9259brdagnnr.florist.	3600	in	nsec3	1 1 0 73 0QD8RMV9MN081JP74PEI2EO09AE0J97F NS DS RRSIG
-udp0e5t65kd61e0b0qbl9259brdagnnr.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260122151729 20260101141729 31533 florist. gCRO4UiGvQsEikbW3NQPF65M++ifc6E//U2CFgHegbuXPr95qcOFCziMGuioQ6UFBxE5FbWHAFTZLG5ryVaVcc6IOjcgoSTnCVBCjF50NzwyGMIHwidsrZp8ERRyQHMh3MtT/BGI946pp2Hkby/7oA9jJXL8vM/N42qbqT6WKxU=
+udmsejf72f0vel9tat3acr6615n7142o.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260207154334 20260117144334 31533 florist. PpMZ13VUPUepUpMqsFgEGKREMW9Cxs9IBAuOfQ/DaIRC2y3DxzABNbBtK751E9QccueiXmNq4u0nobu0OARUyK9GbN2/eNJnL9zMTXZh4YPKpNFq4geh1LBTM5nMOyzD5iXP6wVjKvjDa9gdkB+nmjhKtRj6Iw6gRRqiElKHooE=
+udp0e5t65kd61e0b0qbl9259brdagnnr.florist.	3600	in	nsec3	1 1 0 73 0GLEUUSO2FFT1L9JUFGAD8JAQQALH2SS NS DS RRSIG
+udp0e5t65kd61e0b0qbl9259brdagnnr.florist.	3600	in	rrsig	NSEC3 8 2 3600 20260211075245 20260121065245 31533 florist. 2j16UaffesxYJ96l+zj1Ebk/5Gp6bDV5m2T4KXqg1CjdiX+GBzn3Xd4Jz3wY/iqQUIe7qkivdteUk3WXv3ti1RbcPvJlwYLtg2C+psKkSEIzNIlqhDPUtKLXrIb8JP/qpxuNm1UtNDOwKHi9NH1CdtzxwBkAFt1PZxnbeOq7Nmg=
 ufabet.florist.	3600	in	ns	dns1.registrar-servers.com.
 ufabet.florist.	3600	in	ns	dns2.registrar-servers.com.
 ufabet168.florist.	3600	in	ns	dns1.registrar-servers.com.
@@ -4574,6 +4355,8 @@ ukexcellenceawards.florist.	3600	in	ns	salvador.ns.porkbun.com.
 ukr.florist.	3600	in	ns	ns19.inhostedns.com.
 ukr.florist.	3600	in	ns	ns29.inhostedns.net.
 ukr.florist.	3600	in	ns	ns39.inhostedns.org.
+ultimum.florist.	3600	in	ns	dns1.registrar-servers.com.
+ultimum.florist.	3600	in	ns	dns2.registrar-servers.com.
 undercoverflowerhouse.florist.	3600	in	ns	dns1.registrar-servers.com.
 undercoverflowerhouse.florist.	3600	in	ns	dns2.registrar-servers.com.
 unikat.florist.	3600	in	ns	ns5.kasserver.com.
@@ -4645,7 +4428,7 @@ vegamovie.florist.	3600	in	ns	mimi.ns.cloudflare.com.
 vegamovies.florist.	3600	in	ds	2371 13 2 594AF15612142B6CDE22CFC5639EE0F5DFBE184CF88A136C9A0BD820224B4C03
 vegamovies.florist.	3600	in	ns	rose.ns.cloudflare.com.
 vegamovies.florist.	3600	in	ns	yew.ns.cloudflare.com.
-vegamovies.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. aSebpYMhJrQJ5iV1WfKmMhUUFS823HspFoa+u+erNM/xWwdVhQGO0VXPC1dXYq+WE9T6HssVSSUTtOZTiMJ7os5pWmXpxe7D5vlVdgGrfTGtyAv0+alS719EQFCPqSB6qG3eJqyVEVVC2xFf/puwhLv48jSTt7PxKmhDu//9e80=
+vegamovies.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. bM38+iOHHcmfwpeLIUriZo56m2Cq8ZTH3oX5YjXcIu0jvOv1Jsu6lbX9CvazvgUm3tSoQGjCaF+BcQWLH2EL9tmZ2VFwwIdTft5K50TyxT12f5qKu+ljy7gzMNexGAoLDFnK6pUf79sNzQ6kVlE5FxNOP1QszTreSk7VTZJAPBo=
 vegas.florist.	3600	in	ns	ns37.worldnic.com.
 vegas.florist.	3600	in	ns	ns38.worldnic.com.
 vegasflowers.florist.	3600	in	ns	ns41.domaincontrol.com.
@@ -4657,7 +4440,7 @@ ventura.florist.	3600	in	ns	ns4.name.com.
 viaflor.florist.	3600	in	ds	8809 13 2 30C5F6ED74FFF0175452641AD45D8F8A18C12AFD219441AA1A87D226C8920F80
 viaflor.florist.	3600	in	ns	ns01.one.com.
 viaflor.florist.	3600	in	ns	ns02.one.com.
-viaflor.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. QGcG56coHw/KhX+KkjyE03omIW3BUeikxM42LpfKvve5m1pRW9CbD8jVnQpJrBVoKkWwK21Ai0QZYLn94l5bCLMv2lHgPBs2K/cJCY1ADH0i21C9D0qPGw6mAgXQFjGjzKsCvbCUCkg28pgk6N5yrmr3pRejB2fil2hLPytoi6s=
+viaflor.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. SPSE/KZ8+5TdEsBDUqrciYsGWtRvVqmkMuuTXJ/hJQkTZROBKo134gVJUNBlKAtSxuh1l4DaKbUM8i3zveeStUogfADlpjzlAkIy5IErAJ8tH8Ai7VO9/CxJ1OOmg+uCHbLDBdvpM2kTawKPUltnDVfBi0pFF0Y4K+YHXhUHkK4=
 violetsinbloom.florist.	3600	in	ns	dns1.registrar-servers.com.
 violetsinbloom.florist.	3600	in	ns	dns2.registrar-servers.com.
 violette.florist.	3600	in	ns	ns63.domaincontrol.com.
@@ -4719,7 +4502,7 @@ wbmason.florist.	3600	in	ns	ns04.domaincontrol.com.
 web.florist.	3600	in	ds	28348 13 2 D8077677DE68BEC97B88882486CB23CEBA8250C9A80E1ED95A8699FBE9AAB910
 web.florist.	3600	in	ns	ns3.powerdns.de.
 web.florist.	3600	in	ns	ns4.powerdns.de.
-web.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. BQCWaiWugiUXQ9v/tGCj70AEqt5yziZrQqh53ehsaLB1yjVzO9d98ySBJiWleQ5BXwEJ2ZlM9qx4VH7ea1QzhpZTdoLR1UvMu7MlVU03wsN6r42RtlwjhL2BNvlvn3FfFkDl4s7AEIjI8ikJb1P2fOS25WuVAqhaaUyoSHpTrEE=
+web.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. Kk4ft2utMejgIgDloiRr1oFBt2ebgMONJcUNvegPIZvmn3gZ9N2xpxU37FlXiT+yz+kdEcgVkqNHS8jfOL2Nqzu9oT1uzb3takgyRn8pu6daChLJnM41oe1E5mu+gl9cH1kk/OSqzQ9sH0XkMM/4KqScxi0G93MyprTi5ZTMJ7w=
 webb.florist.	3600	in	ns	ns1.namesystem.se.
 webb.florist.	3600	in	ns	ns2.namesystem.se.
 webb.florist.	3600	in	ns	ns3.namesystem.se.
@@ -4747,13 +4530,9 @@ welch.florist.	3600	in	ns	ns-cloud-a1.googledomains.com.
 welch.florist.	3600	in	ns	ns-cloud-a2.googledomains.com.
 welch.florist.	3600	in	ns	ns-cloud-a3.googledomains.com.
 welch.florist.	3600	in	ns	ns-cloud-a4.googledomains.com.
-welch.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. IXIL6nCOeB8Tg20dXD0dl4nx4lsLItJNp6Ur9eGEhNYPuxcmoL8JGKMXS0IT5TdLmMfIfxFXvrd+TmPEDuBdXmECIGj6pBxg7mciEL2Vo4zLFGf6KqJvyRz/wF4KOPExabcSDjcNuPfVHtF7JzRTZQ2sek46UPs4gqm/AMEFLS8=
+welch.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. f2S+dSgEWfhwn9TsoyKIuLRvFaQUgJhMmZSe0bD0docWgxvjwJAOdGKUN2EfMygD8BEC8iH1ajbeOXhnBr3ajlR6W0hQlkvJAHp5Uv//V0KOgQXiub+ngCLT9nd3sXQhKfy53pW2/IYkmfq5w5Je/ICLYSbqV4pSLi4r4zg4UIg=
 wellington.florist.	3600	in	ns	ns29.domaincontrol.com.
 wellington.florist.	3600	in	ns	ns30.domaincontrol.com.
-wendy.florist.	3600	in	ns	ns1dhl.name.com.
-wendy.florist.	3600	in	ns	ns2knz.name.com.
-wendy.florist.	3600	in	ns	ns3cfp.name.com.
-wendy.florist.	3600	in	ns	ns4lrt.name.com.
 westchase.florist.	3600	in	ns	ns1.dotster.com.
 westchase.florist.	3600	in	ns	ns2.dotster.com.
 westfieldflowershop.florist.	3600	in	ns	ns09.domaincontrol.com.
@@ -4775,10 +4554,6 @@ whatsapp.florist.	3600	in	ns	c.ns.facebook.com.
 whatsapp.florist.	3600	in	ns	d.ns.facebook.com.
 whimsyandwonder.florist.	3600	in	ns	ns1.vercel-dns.com.
 whimsyandwonder.florist.	3600	in	ns	ns2.vercel-dns.com.
-whiterose.florist.	3600	in	ns	ns1-coming-soon.sav.com.
-whiterose.florist.	3600	in	ns	ns2-coming-soon.sav.com.
-whiteroses.florist.	3600	in	ns	ns1-coming-soon.sav.com.
-whiteroses.florist.	3600	in	ns	ns2-coming-soon.sav.com.
 whitewillow.florist.	3600	in	ns	elliot.ns.cloudflare.com.
 whitewillow.florist.	3600	in	ns	fiona.ns.cloudflare.com.
 whiting.florist.	3600	in	ns	ns1.dyna-ns.net.
@@ -4797,8 +4572,8 @@ wichita.florist.	3600	in	ns	ns45.domaincontrol.com.
 wichita.florist.	3600	in	ns	ns46.domaincontrol.com.
 wichitaks.florist.	3600	in	ns	ns07.domaincontrol.com.
 wichitaks.florist.	3600	in	ns	ns08.domaincontrol.com.
-wickerexpress.florist.	3600	in	ns	ns1.gogoeshop.net.
-wickerexpress.florist.	3600	in	ns	ns3.gogoeshop.net.
+wickerexpress.florist.	3600	in	ns	gina.ns.cloudflare.com.
+wickerexpress.florist.	3600	in	ns	phil.ns.cloudflare.com.
 wiener.florist.	3600	in	ns	ns1.world4you.com.
 wiener.florist.	3600	in	ns	ns2.world4you.com.
 wild.florist.	3600	in	ns	ns37.domaincontrol.com.
@@ -4836,7 +4611,7 @@ wonderbloom.florist.	3600	in	ns	ns-cloud-e1.googledomains.com.
 wonderbloom.florist.	3600	in	ns	ns-cloud-e2.googledomains.com.
 wonderbloom.florist.	3600	in	ns	ns-cloud-e3.googledomains.com.
 wonderbloom.florist.	3600	in	ns	ns-cloud-e4.googledomains.com.
-wonderbloom.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. cmCXjGHmaFgjUxyN6griKOmfZVD4hQxupMtaaysy0Xr1I9Rb9aZ/Vb2RCd+4jkcgQILeuTtqcrTuald9/6LfmWN2g3rpRakSSeuEl9MIQkGlcI4L8+6TB6FLMymM83us4HXlQrNFGtRRrvkOrappmxfhElBBPy/i6exZOUzJg+U=
+wonderbloom.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. mwHYSnYnkCBO5kVArdPiTz3LwQeJ5MTnNq97AaG3CCPQGr4SWMZtvnIQsG3F1dugDXToTmNZXRomki+1vaMz3JZH+9g/ZM8FyykWfzurmCK+YiJXzBSVZ8z8ZvqbOGgtQQJHqa5fdwyCEuRGOViPDidlybtGj6rflHIRuj2MZMw=
 wonderland.florist.	3600	in	ns	ns25.domaincontrol.com.
 wonderland.florist.	3600	in	ns	ns26.domaincontrol.com.
 woodburn.florist.	3600	in	ns	ns2.deltatechnicalservices.com.
@@ -4850,7 +4625,7 @@ woodland.florist.	3600	in	ns	ns-cloud-b1.googledomains.com.
 woodland.florist.	3600	in	ns	ns-cloud-b2.googledomains.com.
 woodland.florist.	3600	in	ns	ns-cloud-b3.googledomains.com.
 woodland.florist.	3600	in	ns	ns-cloud-b4.googledomains.com.
-woodland.florist.	3600	in	rrsig	DS 8 2 3600 20260122151729 20260101141729 31533 florist. UrDcyfhxaeYbmno+l5B3WR6kb5XwuWEcXZ8pZzN7KJpnSHsB9SvTro9Ub63kfWtxXMeyp5KEYfDygj7YPXqDm/roO7ofk83zVHvM0zjqtwocFGliO1mxlsFU1s8MNnjai1zDsyuTb03VwEGhnoslGRn9vc5Cl9WjNYJD4/35hso=
+woodland.florist.	3600	in	rrsig	DS 8 2 3600 20260207154334 20260117144334 31533 florist. hLeMd+8sVdrJNsOPA0K2E5wboj7mE2lWn/jTXJW9jc5s9x1sp5U79ySTkWlDGXFrdgd4vWbzsNtmKYOwJdtCWKjh8Vihc/dYQAtIKcQfFsX8chV5i2KGjHKdenttYaGq0uGbkcowpzO/t3LM1Hc+vtglQm/qStwYXcUUFIaJEoA=
 word.florist.	3600	in	ns	ns1.dns-redirect.com.
 word.florist.	3600	in	ns	ns2.dns-redirect.com.
 work.florist.	3600	in	ns	ns1.hover.com.
@@ -4864,8 +4639,6 @@ wow.florist.	3600	in	ns	ns1.dyna-ns.net.
 wow.florist.	3600	in	ns	ns2.dyna-ns.net.
 wreathsunlimited.florist.	3600	in	ns	ns1.freedom-networking.cloud.
 wreathsunlimited.florist.	3600	in	ns	ns2.freedom-networking.cloud.
-ww88.florist.	3600	in	ns	ns1.dyna-ns.net.
-ww88.florist.	3600	in	ns	ns2.dyna-ns.net.
 www.florist.	3600	in	ns	ns-1352.awsdns-41.org.
 www.florist.	3600	in	ns	ns-1564.awsdns-03.co.uk.
 www.florist.	3600	in	ns	ns-412.awsdns-51.com.
@@ -4878,8 +4651,8 @@ wyld.florist.	3600	in	ns	maceio.ns.porkbun.com.
 wyld.florist.	3600	in	ns	salvador.ns.porkbun.com.
 wylie.florist.	3600	in	ns	ns11.domaincontrol.com.
 wylie.florist.	3600	in	ns	ns12.domaincontrol.com.
-x.florist.	3600	in	ns	ns1.dyna-ns.net.
-x.florist.	3600	in	ns	ns2.dyna-ns.net.
+x.florist.	3600	in	ns	elliot.ns.cloudflare.com.
+x.florist.	3600	in	ns	fay.ns.cloudflare.com.
 xn--grnewerkstatt-xob.florist.	3600	in	ns	ns5.kasserver.com.
 xn--grnewerkstatt-xob.florist.	3600	in	ns	ns6.kasserver.com.
 xn--unverblmt-w9a.florist.	3600	in	ns	docks10.rzone.de.
@@ -4929,4 +4702,4 @@ zahnarzt.florist.	3600	in	ns	ns4.alldomains.hosting.
 zaraflora.florist.	3600	in	ns	ns.heartinternet.co.uk.
 zillion.florist.	3600	in	ns	ns1.atom.com.
 zillion.florist.	3600	in	ns	ns2.atom.com.
-florist.	3600	in	soa	v0n0.nic.florist. hostmaster.donuts.email. 1767661082 7200 900 1209600 3600
+florist.	3600	in	soa	v0n0.nic.florist. hostmaster.donuts.email. 1769302933 7200 900 1209600 3600
