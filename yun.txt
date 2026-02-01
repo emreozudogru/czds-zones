@@ -1,4 +1,4 @@
-yun.	3600	in	soa	ns1.teleinfo.cn. ops.teleinfo.cn. 2025063436 14400 3600 2419200 3600
+yun.	3600	in	soa	ns1.teleinfo.cn. ops.teleinfo.cn. 2025064348 14400 3600 2419200 3600
 010.yun.	7200	in	ns	ns1.ename.net.
 010.yun.	7200	in	ns	ns2.ename.net.
 020.yun.	7200	in	ns	ns1.ename.net.
@@ -7,6 +7,10 @@ yun.	3600	in	soa	ns1.teleinfo.cn. ops.teleinfo.cn. 2025063436 14400 3600 2419200
 021.yun.	7200	in	ns	ns2.ename.net.
 0576.yun.	7200	in	ns	dns1.hichina.com.
 0576.yun.	7200	in	ns	dns2.hichina.com.
+0712.yun.	7200	in	ns	dns17.hichina.com.
+0712.yun.	7200	in	ns	dns18.hichina.com.
+0733.yun.	7200	in	ns	dns23.hichina.com.
+0733.yun.	7200	in	ns	dns24.hichina.com.
 0755.yun.	7200	in	ns	dns31.hichina.com.
 0755.yun.	7200	in	ns	dns32.hichina.com.
 0769.yun.	7200	in	ns	dns11.hichina.com.
@@ -29,8 +33,12 @@ yun.	3600	in	soa	ns1.teleinfo.cn. ops.teleinfo.cn. 2025063436 14400 3600 2419200
 1234.yun.	7200	in	ns	ns2.ename.net.
 12345.yun.	7200	in	ns	ns1.ename.net.
 12345.yun.	7200	in	ns	ns2.ename.net.
+123456.yun.	7200	in	ns	dns3.hichina.com.
+123456.yun.	7200	in	ns	dns4.hichina.com.
 1314.yun.	7200	in	ns	ns1.ename.net.
 1314.yun.	7200	in	ns	ns2.ename.net.
+1314520.yun.	7200	in	ns	dns7.hichina.com.
+1314520.yun.	7200	in	ns	dns8.hichina.com.
 1357.yun.	7200	in	ns	dns19.hichina.com.
 1357.yun.	7200	in	ns	dns20.hichina.com.
 13579.yun.	7200	in	ns	dns25.hichina.com.
@@ -64,9 +72,11 @@ yun.	3600	in	soa	ns1.teleinfo.cn. ops.teleinfo.cn. 2025063436 14400 3600 2419200
 2468.yun.	7200	in	ns	dns13.hichina.com.
 2468.yun.	7200	in	ns	dns14.hichina.com.
 283kn573lei5mhniihve23do4lcc136e.yun.	3600	in	nsec3	1 1 0 - 5V37LVL72R8H1O64296N973GUUAHKOQE NS DS RRSIG
-283kn573lei5mhniihve23do4lcc136e.yun.	3600	in	rrsig	NSEC3 8 2 3600 20260117193429 20260104060031 18219 yun. 1oh2tuh7Hhun1aVOZC+BGN8Eu949VmSTNd15tEkSDtCIIalYle1ryWVCaXgMtrfjL50OtemI4z/Q+dI2JFpst74f0RXBKY75kOC8Tuzay+BxNuu+ZJ6xf24IZFMvGy7vweiNhALtniNupf9VnrgjeaCF1EHCkEZiZHzdpWEqxSownt1Tj9t1Su6AUIvPrNUR9EmMUZXDkf0aULHN0ttR8Wp2KeV4oo8aiJkQaTi8NQxFfhRw3v/b/Nf7pqh0bOmMN6My1i4PGMxFfqGwIN1/cvgBvefh4G0FFZV7iL1xD+E+ZIFmftziqawLngl6GsY3LYVp0E9SUUluVtEWNfciyg==
+283kn573lei5mhniihve23do4lcc136e.yun.	3600	in	rrsig	NSEC3 8 2 3600 20260128102750 20260114190031 18219 yun. mq2LuJkorQgHA1PPmH7lU9Ht6yv94SSyPHHkq4VRL2S66AgcefRYrwYBhEhlefag2MzTunNAxp7Ak5nBpg+OVmZt7RJil+oElzouK+d9ugMFbNGAnJsCKaAufD96hCKjZcupLr8HwM3O1NIHZBASrBT+QtUVabweFQzL0ziLRglM6OSc/yQawjyk2Lpe/Q5dMlMC4G7NgSrS0JQKXQjnkFERhrekOp+X2iURcVQvmz3GL/EBLmkMMCG5Zx2u8H7rzClAhiJAwLwC43ch1xrJUe5sT94z2LzP6oK7VUc+xMJAohO8SJi8PXhdp3WU9ef34QiS203K2nnv561mJ3P+qQ==
 288.yun.	7200	in	ns	ns1.ename.net.
 288.yun.	7200	in	ns	ns2.ename.net.
+2b2t.yun.	7200	in	ns	dns19.hichina.com.
+2b2t.yun.	7200	in	ns	dns20.hichina.com.
 310.yun.	7200	in	ns	ns1.judns.com.
 310.yun.	7200	in	ns	ns2.judns.com.
 34567.yun.	7200	in	ns	dns10.hichina.com.
@@ -89,8 +99,8 @@ yun.	3600	in	soa	ns1.teleinfo.cn. ops.teleinfo.cn. 2025063436 14400 3600 2419200
 567.yun.	7200	in	ns	ns2.ename.net.
 56789.yun.	7200	in	ns	dns7.hichina.com.
 56789.yun.	7200	in	ns	dns8.hichina.com.
-5v37lvl72r8h1o64296n973guuahkoqe.yun.	3600	in	nsec3	1 1 0 - 283KN573LEI5MHNIIHVE23DO4LCC136E NS SOA RRSIG DNSKEY NSEC3PARAM
-5v37lvl72r8h1o64296n973guuahkoqe.yun.	3600	in	rrsig	NSEC3 8 2 3600 20260117052039 20260103083031 18219 yun. yxzVKgUjjws+JIYUkZ91OO5h9OVKXe3IhLjtpzDK05w8uf3mDlubD/XFEDa6J70CECDWqJ8nA3qV+hqCDyFZzc9T1Jkvr6ILykrc1A2xEkDvxqX+QLMVh1XFoN3FKRr2CyYSE9kJzxhh+CVn/HYxZzcQxiMKQ/lHyp8Ks9npLiTQ1NxCpIt1OO7f/yjSZ10t81IwUSR6UhiK8kQpmLkayvAplA45jPdw7s79/aCmyJPE1+sKFkWNcF6uXUzxHqQvYYLPFRDFefGb65in/lUhIVf4caDry+vesuywIHRp0WQGYE/GUh5dVsbTXBPVrRxLdWMJMgRqPzJpPcyoGWoZ4g==
+5v37lvl72r8h1o64296n973guuahkoqe.yun.	3600	in	nsec3	1 1 0 - ISEVRTDLLOCBKMCL95AJ0HL3DASVB9O0 NS SOA RRSIG DNSKEY NSEC3PARAM
+5v37lvl72r8h1o64296n973guuahkoqe.yun.	3600	in	rrsig	NSEC3 8 2 3600 20260202011353 20260118153031 18219 yun. R0Bhu+1xYlgTQ0hkbfxqOHIS63ui4RAbIMTj+w12nzF6jLdUq2MZXHCZf9nsy55x8zLbpqALHyaV4T8LAe6OSmEZ8RDS4WUsOIU9cL0CL+P49s80Pj0obo9qAELC6nE+GXOXrnon5IbA8vWmQtWBaCH5lzRThG1/Z4JJvss8TiIcpu0k5TTlFg1V+6s3mz1qERzTR6Vdn8OHJMWSUxg4fM/NSBhbTTloDYXRYw02H4mOFjAt2MhXIY6hrLJQzAb01XTsOZiIECQeqYMCAAiQN1PZrZVj5EOygXjtay+JvzFj3KRF+xdTvV8lubOPds0bswoDf15g/5RmUomCQzj1tQ==
 6666.yun.	7200	in	ns	ns1.judns.com.
 6666.yun.	7200	in	ns	ns2.judns.com.
 66666.yun.	7200	in	ns	ns1.ename.net.
@@ -159,18 +169,34 @@ agency.yun.	7200	in	ns	ns1.ename.net.
 agency.yun.	7200	in	ns	ns2.ename.net.
 agentic.yun.	7200	in	ns	ns1.ename.net.
 agentic.yun.	7200	in	ns	ns2.ename.net.
+agentskills.yun.	7200	in	ns	dns25.hichina.com.
+agentskills.yun.	7200	in	ns	dns26.hichina.com.
+agi.yun.	7200	in	ns	dns27.hichina.com.
+agi.yun.	7200	in	ns	dns28.hichina.com.
 agri.yun.	7200	in	ns	dns13.hichina.com.
 agri.yun.	7200	in	ns	dns14.hichina.com.
 agriculture.yun.	7200	in	ns	dns31.hichina.com.
 agriculture.yun.	7200	in	ns	dns32.hichina.com.
+ahwfs.yun.	7200	in	ns	dns10.hichina.com.
+ahwfs.yun.	7200	in	ns	dns9.hichina.com.
+ai123.yun.	7200	in	ns	dns3.hichina.com.
+ai123.yun.	7200	in	ns	dns4.hichina.com.
 aiagent.yun.	7200	in	ns	ns1.ename.net.
 aiagent.yun.	7200	in	ns	ns2.ename.net.
 aiagents.yun.	7200	in	ns	ns1.ename.net.
 aiagents.yun.	7200	in	ns	ns2.ename.net.
 aibot.yun.	7200	in	ns	dns1.hichina.com.
 aibot.yun.	7200	in	ns	dns2.hichina.com.
+aibox.yun.	7200	in	ns	dns25.hichina.com.
+aibox.yun.	7200	in	ns	dns26.hichina.com.
+aichat.yun.	7200	in	ns	dns29.hichina.com.
+aichat.yun.	7200	in	ns	dns30.hichina.com.
 aicloud.yun.	7200	in	ns	dns11.hichina.com.
 aicloud.yun.	7200	in	ns	dns12.hichina.com.
+aide.yun.	7200	in	ns	dns27.hichina.com.
+aide.yun.	7200	in	ns	dns28.hichina.com.
+aiedu.yun.	7200	in	ns	dns19.hichina.com.
+aiedu.yun.	7200	in	ns	dns20.hichina.com.
 aigame.yun.	7200	in	ns	dns29.hichina.com.
 aigame.yun.	7200	in	ns	dns30.hichina.com.
 aigc.yun.	7200	in	ns	ns1.ename.net.
@@ -205,8 +231,12 @@ aliai.yun.	7200	in	ns	dns23.hichina.com.
 aliai.yun.	7200	in	ns	dns24.hichina.com.
 alibaba.yun.	7200	in	ns	ns1.ename.net.
 alibaba.yun.	7200	in	ns	ns2.ename.net.
+alicdn.yun.	7200	in	ns	dns1.hichina.com.
+alicdn.yun.	7200	in	ns	dns2.hichina.com.
 an.yun.	7200	in	ns	ns1.ename.net.
 an.yun.	7200	in	ns	ns2.ename.net.
+andy.yun.	7200	in	ns	dns10.hichina.com.
+andy.yun.	7200	in	ns	dns9.hichina.com.
 angle.yun.	7200	in	ns	ns1.ename.net.
 angle.yun.	7200	in	ns	ns2.ename.net.
 anhui.yun.	7200	in	ns	ns1.ename.net.
@@ -215,6 +245,8 @@ animal.yun.	7200	in	ns	ns1.ename.net.
 animal.yun.	7200	in	ns	ns2.ename.net.
 ankang.yun.	7200	in	ns	dns3.hichina.com.
 ankang.yun.	7200	in	ns	dns4.hichina.com.
+anke.yun.	7200	in	ns	dns3.hichina.com.
+anke.yun.	7200	in	ns	dns4.hichina.com.
 anquan.yun.	7200	in	ns	ns1.ename.net.
 anquan.yun.	7200	in	ns	ns2.ename.net.
 answer.yun.	7200	in	ns	ns1.ename.net.
@@ -235,6 +267,10 @@ ar.yun.	7200	in	ns	ns1.ename.net.
 ar.yun.	7200	in	ns	ns2.ename.net.
 article.yun.	7200	in	ns	ns1.ename.net.
 article.yun.	7200	in	ns	ns2.ename.net.
+asi.yun.	7200	in	ns	dns1.hichina.com.
+asi.yun.	7200	in	ns	dns2.hichina.com.
+atlas.yun.	7200	in	ns	ns1.ename.net.
+atlas.yun.	7200	in	ns	ns2.ename.net.
 atom.yun.	7200	in	ns	ns1.ename.net.
 atom.yun.	7200	in	ns	ns2.ename.net.
 auth.yun.	7200	in	ns	ns1.ename.net.
@@ -253,8 +289,8 @@ back.yun.	7200	in	ns	dns27.hichina.com.
 back.yun.	7200	in	ns	dns28.hichina.com.
 bai.yun.	7200	in	ns	ns1.ename.net.
 bai.yun.	7200	in	ns	ns2.ename.net.
-baike.yun.	7200	in	ns	ns1.ename.net.
-baike.yun.	7200	in	ns	ns2.ename.net.
+baike.yun.	7200	in	ns	ns1.atom.com.
+baike.yun.	7200	in	ns	ns2.atom.com.
 baka.yun.	7200	in	ns	ns1.ename.net.
 baka.yun.	7200	in	ns	ns2.ename.net.
 balance.yun.	7200	in	ns	ns1.ename.net.
@@ -273,6 +309,8 @@ baobei.yun.	7200	in	ns	ns1.ename.net.
 baobei.yun.	7200	in	ns	ns2.ename.net.
 baocai.yun.	7200	in	ns	ns1.ename.net.
 baocai.yun.	7200	in	ns	ns2.ename.net.
+baodan.yun.	7200	in	ns	dns11.hichina.com.
+baodan.yun.	7200	in	ns	dns12.hichina.com.
 base.yun.	7200	in	ns	ns1.ename.net.
 base.yun.	7200	in	ns	ns2.ename.net.
 basic.yun.	7200	in	ns	ns1.ename.net.
@@ -303,8 +341,8 @@ biancheng.yun.	7200	in	ns	dns11.hichina.com.
 biancheng.yun.	7200	in	ns	dns12.hichina.com.
 bianjie.yun.	7200	in	ns	ns1.ename.net.
 bianjie.yun.	7200	in	ns	ns2.ename.net.
-bianyuan.yun.	7200	in	ns	ns1.ename.net.
-bianyuan.yun.	7200	in	ns	ns2.ename.net.
+bianyuan.yun.	7200	in	ns	ns1.dyna-ns.net.
+bianyuan.yun.	7200	in	ns	ns2.dyna-ns.net.
 bieyang.yun.	7200	in	ns	dns19.hichina.com.
 bieyang.yun.	7200	in	ns	dns20.hichina.com.
 bigdata.yun.	7200	in	ns	ns1.ename.net.
@@ -327,6 +365,8 @@ bit.yun.	7200	in	ns	ns1.ename.net.
 bit.yun.	7200	in	ns	ns2.ename.net.
 bitcoin.yun.	7200	in	ns	ns1.ename.net.
 bitcoin.yun.	7200	in	ns	ns2.ename.net.
+biyi.yun.	7200	in	ns	dns19.hichina.com.
+biyi.yun.	7200	in	ns	dns20.hichina.com.
 black.yun.	7200	in	ns	ns1.ename.net.
 black.yun.	7200	in	ns	ns2.ename.net.
 block.yun.	7200	in	ns	ns1.ename.net.
@@ -365,10 +405,14 @@ btc.yun.	7200	in	ns	ns1.ename.net.
 btc.yun.	7200	in	ns	ns2.ename.net.
 buding.yun.	7200	in	ns	ns1.ename.net.
 buding.yun.	7200	in	ns	ns2.ename.net.
+bugu.yun.	7200	in	ns	ns1.ename.net.
+bugu.yun.	7200	in	ns	ns2.ename.net.
 build.yun.	7200	in	ns	ns1.ename.net.
 build.yun.	7200	in	ns	ns2.ename.net.
 bujing.yun.	7200	in	ns	alina.ns.cloudflare.com.
 bujing.yun.	7200	in	ns	moura.ns.cloudflare.com.
+bujingyun.yun.	7200	in	ns	dns21.hichina.com.
+bujingyun.yun.	7200	in	ns	dns22.hichina.com.
 by.yun.	7200	in	ns	ns1.ename.net.
 by.yun.	7200	in	ns	ns2.ename.net.
 byte.yun.	7200	in	ns	ns1.ename.net.
@@ -447,14 +491,20 @@ cheap.yun.	7200	in	ns	ns1.ename.net.
 cheap.yun.	7200	in	ns	ns2.ename.net.
 chem.yun.	7200	in	ns	dns3.hichina.com.
 chem.yun.	7200	in	ns	dns4.hichina.com.
+chemical.yun.	7200	in	ns	dns17.hichina.com.
+chemical.yun.	7200	in	ns	dns18.hichina.com.
 chemicals.yun.	7200	in	ns	dns10.hichina.com.
 chemicals.yun.	7200	in	ns	dns9.hichina.com.
+chemos.yun.	7200	in	ns	dns31.hichina.com.
+chemos.yun.	7200	in	ns	dns32.hichina.com.
 cherry.yun.	7200	in	ns	leanna.ns.cloudflare.com.
 cherry.yun.	7200	in	ns	mitch.ns.cloudflare.com.
 chess.yun.	7200	in	ns	ns1.ename.net.
 chess.yun.	7200	in	ns	ns2.ename.net.
 chi.yun.	7200	in	ns	ns1.ename.net.
 chi.yun.	7200	in	ns	ns2.ename.net.
+chidao.yun.	7200	in	ns	vip1.alidns.com.
+chidao.yun.	7200	in	ns	vip2.alidns.com.
 child.yun.	7200	in	ns	ns1.ename.net.
 child.yun.	7200	in	ns	ns2.ename.net.
 chine.yun.	7200	in	ns	dns23.hichina.com.
@@ -473,16 +523,22 @@ chuang.yun.	7200	in	ns	ns1.ename.net.
 chuang.yun.	7200	in	ns	ns2.ename.net.
 chuangjiang.yun.	7200	in	ns	dns15.hichina.com.
 chuangjiang.yun.	7200	in	ns	dns16.hichina.com.
+chuangke.yun.	7200	in	ns	dns3.hichina.com.
+chuangke.yun.	7200	in	ns	dns4.hichina.com.
 chuhai.yun.	7200	in	ns	dns17.hichina.com.
 chuhai.yun.	7200	in	ns	dns18.hichina.com.
 chun.yun.	7200	in	ns	ns1.363.hk.
 chun.yun.	7200	in	ns	ns2.363.hk.
 chun.yun.	7200	in	ns	ns3.363.hk.
 chun.yun.	7200	in	ns	ns4.363.hk.
+chunqiu.yun.	7200	in	ns	dns11.hichina.com.
+chunqiu.yun.	7200	in	ns	dns12.hichina.com.
 chuqi.yun.	7200	in	ns	ns1.huaweicloud-dns.cn.
 chuqi.yun.	7200	in	ns	ns1.huaweicloud-dns.com.
 chuqi.yun.	7200	in	ns	ns1.huaweicloud-dns.net.
 chuqi.yun.	7200	in	ns	ns1.huaweicloud-dns.org.
+cike.yun.	7200	in	ns	dns3.hichina.com.
+cike.yun.	7200	in	ns	dns4.hichina.com.
 cl.yun.	7200	in	ns	ns1.ename.net.
 cl.yun.	7200	in	ns	ns2.ename.net.
 class.yun.	7200	in	ns	dns11.hichina.com.
@@ -511,6 +567,8 @@ cnm.yun.	7200	in	ns	ns5.myhostadmin.net.
 cnm.yun.	7200	in	ns	ns6.myhostadmin.net.
 co.yun.	7200	in	ns	ns1.ename.net.
 co.yun.	7200	in	ns	ns2.ename.net.
+cocoon.yun.	7200	in	ns	vip1.alidns.com.
+cocoon.yun.	7200	in	ns	vip2.alidns.com.
 code.yun.	7200	in	ns	ns1.ename.net.
 code.yun.	7200	in	ns	ns2.ename.net.
 coder.yun.	7200	in	ns	dns10.hichina.com.
@@ -543,6 +601,8 @@ corn.yun.	7200	in	ns	ns1.ename.net.
 corn.yun.	7200	in	ns	ns2.ename.net.
 corp-tencent.yun.	7200	in	ns	ns1.ename.net.
 corp-tencent.yun.	7200	in	ns	ns2.ename.net.
+cosmos.yun.	7200	in	ns	ns1.ename.net.
+cosmos.yun.	7200	in	ns	ns2.ename.net.
 coze.yun.	7200	in	ns	ns1.ename.net.
 coze.yun.	7200	in	ns	ns2.ename.net.
 cqsf.yun.	7200	in	ns	ns1.judns.com.
@@ -589,6 +649,10 @@ dance.yun.	7200	in	ns	ns1.ename.net.
 dance.yun.	7200	in	ns	ns2.ename.net.
 dao.yun.	7200	in	ns	ns1.ename.net.
 dao.yun.	7200	in	ns	ns2.ename.net.
+daoyi.yun.	7200	in	ns	dns1.hichina.com.
+daoyi.yun.	7200	in	ns	dns2.hichina.com.
+daoyou.yun.	7200	in	ns	dns7.hichina.com.
+daoyou.yun.	7200	in	ns	dns8.hichina.com.
 dark.yun.	7200	in	ns	ns1.ename.net.
 dark.yun.	7200	in	ns	ns2.ename.net.
 darling.yun.	7200	in	ns	ns1.ename.net.
@@ -639,6 +703,8 @@ dictionary.yun.	7200	in	ns	ns1.ename.net.
 dictionary.yun.	7200	in	ns	ns2.ename.net.
 digit.yun.	7200	in	ns	dns23.hichina.com.
 digit.yun.	7200	in	ns	dns24.hichina.com.
+digitalife.yun.	7200	in	ns	dns29.hichina.com.
+digitalife.yun.	7200	in	ns	dns30.hichina.com.
 dikong.yun.	7200	in	ns	ns1.ename.net.
 dikong.yun.	7200	in	ns	ns2.ename.net.
 ding.yun.	7200	in	ns	ns1.ename.net.
@@ -665,6 +731,8 @@ dofun.yun.	7200	in	ns	dns17.hichina.com.
 dofun.yun.	7200	in	ns	dns18.hichina.com.
 doge.yun.	7200	in	ns	ns1.ename.net.
 doge.yun.	7200	in	ns	ns2.ename.net.
+dolphin.yun.	7200	in	ns	dns21.hichina.com.
+dolphin.yun.	7200	in	ns	dns22.hichina.com.
 dong.yun.	7200	in	ns	ns1.ename.net.
 dong.yun.	7200	in	ns	ns2.ename.net.
 dongrun.yun.	7200	in	ns	dns10.hichina.com.
@@ -713,8 +781,8 @@ earth.yun.	7200	in	ns	ns1.ename.net.
 earth.yun.	7200	in	ns	ns2.ename.net.
 ecloud.yun.	7200	in	ns	dns11.hichina.com.
 ecloud.yun.	7200	in	ns	dns12.hichina.com.
-edge.yun.	7200	in	ns	ns1.ename.net.
-edge.yun.	7200	in	ns	ns2.ename.net.
+edge.yun.	7200	in	ns	ns1.alidns.com.
+edge.yun.	7200	in	ns	ns2.alidns.com.
 edu.yun.	7200	in	ns	ns1.ename.net.
 edu.yun.	7200	in	ns	ns2.ename.net.
 electric.yun.	7200	in	ns	ns1.ename.net.
@@ -741,12 +809,14 @@ every.yun.	7200	in	ns	ns1.ename.net.
 every.yun.	7200	in	ns	ns2.ename.net.
 evtol.yun.	7200	in	ns	dns3.hichina.com.
 evtol.yun.	7200	in	ns	dns4.hichina.com.
+evus.yun.	7200	in	ns	dns19.hichina.com.
+evus.yun.	7200	in	ns	dns20.hichina.com.
 ex.yun.	7200	in	ns	ns1.ename.net.
 ex.yun.	7200	in	ns	ns2.ename.net.
 exam.yun.	7200	in	ns	dns31.hichina.com.
 exam.yun.	7200	in	ns	dns32.hichina.com.
-example.yun.	7200	in	ns	ns1.ename.net.
-example.yun.	7200	in	ns	ns2.ename.net.
+example.yun.	7200	in	ns	ns1.atom.com.
+example.yun.	7200	in	ns	ns2.atom.com.
 explore.yun.	7200	in	ns	ns1.ename.net.
 explore.yun.	7200	in	ns	ns2.ename.net.
 expo.yun.	7200	in	ns	ns1.ename.net.
@@ -785,8 +855,10 @@ fen.yun.	7200	in	ns	ns1.ename.net.
 fen.yun.	7200	in	ns	ns2.ename.net.
 feng.yun.	7200	in	ns	ns1.ename.net.
 feng.yun.	7200	in	ns	ns2.ename.net.
-file.yun.	7200	in	ns	ns1.ename.net.
-file.yun.	7200	in	ns	ns2.ename.net.
+fifa.yun.	7200	in	ns	dns25.hichina.com.
+fifa.yun.	7200	in	ns	dns26.hichina.com.
+file.yun.	7200	in	ns	ns1.alidns.com.
+file.yun.	7200	in	ns	ns2.alidns.com.
 fintech.yun.	7200	in	ns	ns1.ename.net.
 fintech.yun.	7200	in	ns	ns2.ename.net.
 fire.yun.	7200	in	ns	ns1.ename.net.
@@ -823,8 +895,8 @@ freedom.yun.	7200	in	ns	ns1.ename.net.
 freedom.yun.	7200	in	ns	ns2.ename.net.
 friend.yun.	7200	in	ns	ns1.ename.net.
 friend.yun.	7200	in	ns	ns2.ename.net.
-frog.yun.	7200	in	ns	ns1.ename.net.
-frog.yun.	7200	in	ns	ns2.ename.net.
+frog.yun.	7200	in	ns	ns1.atom.com.
+frog.yun.	7200	in	ns	ns2.atom.com.
 fruit.yun.	7200	in	ns	ns1.ename.net.
 fruit.yun.	7200	in	ns	ns2.ename.net.
 fs.yun.	7200	in	ns	ns1.ename.net.
@@ -873,6 +945,8 @@ geek.yun.	7200	in	ns	dns13.hichina.com.
 geek.yun.	7200	in	ns	dns14.hichina.com.
 gemini.yun.	7200	in	ns	ns1.alidns.com.
 gemini.yun.	7200	in	ns	ns2.alidns.com.
+gendou.yun.	7200	in	ns	dns13.hichina.com.
+gendou.yun.	7200	in	ns	dns14.hichina.com.
 gene.yun.	7200	in	ns	ns1.ename.net.
 gene.yun.	7200	in	ns	ns2.ename.net.
 genie.yun.	7200	in	ns	ns1.ename.net.
@@ -881,6 +955,8 @@ genius.yun.	7200	in	ns	ns1.ename.net.
 genius.yun.	7200	in	ns	ns2.ename.net.
 geo.yun.	7200	in	ns	ns1.ename.net.
 geo.yun.	7200	in	ns	ns2.ename.net.
+gets.yun.	7200	in	ns	dns29.hichina.com.
+gets.yun.	7200	in	ns	dns30.hichina.com.
 gf.yun.	7200	in	ns	ns1.alidns.com.
 gf.yun.	7200	in	ns	ns2.alidns.com.
 giant.yun.	7200	in	ns	ns1.ename.net.
@@ -971,6 +1047,8 @@ guo.yun.	7200	in	ns	ns1.ename.net.
 guo.yun.	7200	in	ns	ns2.ename.net.
 gupiao.yun.	7200	in	ns	dns29.hichina.com.
 gupiao.yun.	7200	in	ns	dns30.hichina.com.
+gxmdny.yun.	7200	in	ns	dns1.hichina.com.
+gxmdny.yun.	7200	in	ns	dns2.hichina.com.
 gy.yun.	7200	in	ns	ns1.ename.net.
 gy.yun.	7200	in	ns	ns2.ename.net.
 hai.yun.	7200	in	ns	edison.dnspod.net.
@@ -981,8 +1059,8 @@ haiyue.yun.	7200	in	ns	ns1.ename.net.
 haiyue.yun.	7200	in	ns	ns2.ename.net.
 han.yun.	7200	in	ns	ns1.ename.net.
 han.yun.	7200	in	ns	ns2.ename.net.
-hangye.yun.	7200	in	ns	ns1.ename.net.
-hangye.yun.	7200	in	ns	ns2.ename.net.
+hangye.yun.	7200	in	ns	ns1.alidns.com.
+hangye.yun.	7200	in	ns	ns2.alidns.com.
 hangzhou.yun.	7200	in	ns	ns1.judns.com.
 hangzhou.yun.	7200	in	ns	ns2.judns.com.
 hanwuji.yun.	7200	in	ns	dns10.hichina.com.
@@ -997,6 +1075,8 @@ haoka.yun.	7200	in	ns	ns3.myhostadmin.net.
 haoka.yun.	7200	in	ns	ns4.myhostadmin.net.
 haoka.yun.	7200	in	ns	ns5.myhostadmin.net.
 haoka.yun.	7200	in	ns	ns6.myhostadmin.net.
+haoma.yun.	7200	in	ns	dns1.hichina.com.
+haoma.yun.	7200	in	ns	dns2.hichina.com.
 haowei.yun.	7200	in	ns	dns27.hichina.com.
 haowei.yun.	7200	in	ns	dns28.hichina.com.
 harmony.yun.	7200	in	ns	dns25.hichina.com.
@@ -1013,10 +1093,14 @@ hei.yun.	7200	in	ns	ns3.myhostadmin.net.
 hei.yun.	7200	in	ns	ns4.myhostadmin.net.
 hei.yun.	7200	in	ns	ns5.myhostadmin.net.
 hei.yun.	7200	in	ns	ns6.myhostadmin.net.
+heidong.yun.	7200	in	ns	dns1.hichina.com.
+heidong.yun.	7200	in	ns	dns2.hichina.com.
 hema.yun.	7200	in	ns	ns1.ename.net.
 hema.yun.	7200	in	ns	ns2.ename.net.
 henan.yun.	7200	in	ns	ns1.ename.net.
 henan.yun.	7200	in	ns	ns2.ename.net.
+hermes.yun.	7200	in	ns	dns21.hichina.com.
+hermes.yun.	7200	in	ns	dns22.hichina.com.
 hero.yun.	7200	in	ns	ns1.ename.net.
 hero.yun.	7200	in	ns	ns2.ename.net.
 hetao.yun.	7200	in	ns	ns1.ename.net.
@@ -1045,6 +1129,8 @@ hm.yun.	7200	in	ns	ns1.ename.net.
 hm.yun.	7200	in	ns	ns2.ename.net.
 home.yun.	7200	in	ns	ns1.ename.net.
 home.yun.	7200	in	ns	ns2.ename.net.
+homeplus.yun.	7200	in	ns	dns23.hichina.com.
+homeplus.yun.	7200	in	ns	dns24.hichina.com.
 hong.yun.	7200	in	ns	ns1.363.hk.
 hong.yun.	7200	in	ns	ns2.363.hk.
 hong.yun.	7200	in	ns	ns3.363.hk.
@@ -1059,6 +1145,8 @@ hospitality.yun.	7200	in	ns	dns31.hichina.com.
 hospitality.yun.	7200	in	ns	dns32.hichina.com.
 host.yun.	7200	in	ns	ns1.ename.net.
 host.yun.	7200	in	ns	ns2.ename.net.
+houqi.yun.	7200	in	ns	dns3.hichina.com.
+houqi.yun.	7200	in	ns	dns4.hichina.com.
 hs.yun.	7200	in	ns	ns1.ename.net.
 hs.yun.	7200	in	ns	ns2.ename.net.
 ht.yun.	7200	in	ns	ns1.ename.net.
@@ -1089,10 +1177,14 @@ hudong.yun.	7200	in	ns	ns1.ename.net.
 hudong.yun.	7200	in	ns	ns2.ename.net.
 hui.yun.	7200	in	ns	ns1.ename.net.
 hui.yun.	7200	in	ns	ns2.ename.net.
+huifang.yun.	7200	in	ns	dns11.hichina.com.
+huifang.yun.	7200	in	ns	dns12.hichina.com.
 huimi.yun.	7200	in	ns	dns1.hichina.com.
 huimi.yun.	7200	in	ns	dns2.hichina.com.
 huiyi.yun.	7200	in	ns	ns1.ename.net.
 huiyi.yun.	7200	in	ns	ns2.ename.net.
+huizhi.yun.	7200	in	ns	dns25.hichina.com.
+huizhi.yun.	7200	in	ns	dns26.hichina.com.
 hulian.yun.	7200	in	ns	ns1.ename.net.
 hulian.yun.	7200	in	ns	ns2.ename.net.
 hulu.yun.	7200	in	ns	leanna.ns.cloudflare.com.
@@ -1119,12 +1211,16 @@ hx.yun.	7200	in	ns	ns1.ename.net.
 hx.yun.	7200	in	ns	ns2.ename.net.
 hy.yun.	7200	in	ns	canna.dnspod.net.
 hy.yun.	7200	in	ns	nickel.dnspod.net.
+hybrid.yun.	7200	in	ns	dns17.hichina.com.
+hybrid.yun.	7200	in	ns	dns18.hichina.com.
 hydros.yun.	7200	in	ns	dns7.hichina.com.
 hydros.yun.	7200	in	ns	dns8.hichina.com.
 hyper.yun.	7200	in	ns	ns1.ename.net.
 hyper.yun.	7200	in	ns	ns2.ename.net.
 hz.yun.	7200	in	ns	ns1.ename.net.
 hz.yun.	7200	in	ns	ns2.ename.net.
+icare.yun.	7200	in	ns	andy.dnspod.net.
+icare.yun.	7200	in	ns	handball.dnspod.net.
 icdn.yun.	7200	in	ns	dns15.hichina.com.
 icdn.yun.	7200	in	ns	dns16.hichina.com.
 icon.yun.	7200	in	ns	ns1.ename.net.
@@ -1137,6 +1233,8 @@ igame.yun.	7200	in	ns	dns10.hichina.com.
 igame.yun.	7200	in	ns	dns9.hichina.com.
 ikuai.yun.	7200	in	ns	dns11.hichina.com.
 ikuai.yun.	7200	in	ns	dns12.hichina.com.
+iloveyou.yun.	7200	in	ns	dns19.hichina.com.
+iloveyou.yun.	7200	in	ns	dns20.hichina.com.
 im.yun.	7200	in	ns	ns1.ename.net.
 im.yun.	7200	in	ns	ns2.ename.net.
 image.yun.	7200	in	ns	ns1.ename.net.
@@ -1155,12 +1253,16 @@ info.yun.	7200	in	ns	ns1.ename.net.
 info.yun.	7200	in	ns	ns2.ename.net.
 insect.yun.	7200	in	ns	ns1.ename.net.
 insect.yun.	7200	in	ns	ns2.ename.net.
+intelligence.yun.	7200	in	ns	ns1.ename.net.
+intelligence.yun.	7200	in	ns	ns2.ename.net.
 invite.yun.	7200	in	ns	ns1.ename.net.
 invite.yun.	7200	in	ns	ns2.ename.net.
 iota.yun.	7200	in	ns	dns17.hichina.com.
 iota.yun.	7200	in	ns	dns18.hichina.com.
 iptv.yun.	7200	in	ns	ns1.ename.net.
 iptv.yun.	7200	in	ns	ns2.ename.net.
+isevrtdllocbkmcl95aj0hl3dasvb9o0.yun.	3600	in	nsec3	1 1 0 - 283KN573LEI5MHNIIHVE23DO4LCC136E NS DS RRSIG
+isevrtdllocbkmcl95aj0hl3dasvb9o0.yun.	3600	in	rrsig	NSEC3 8 2 3600 20260201000157 20260117210032 18219 yun. HO+mheC1XEsLoxQeNqNL40Uz5BTCqPSPoGg1++T0DEo0mVtCwFN0UK8PPMimkaNdyVu0SbyAamI/4JQjwU30IGqJSI4bJOFB/2QCY9pQVk715/6HGHRi/aJ2W1aq17sG9JmNarpTfAoZ2TMWeo1Na7RfbvaX/lyJf5o7sVet94f4lnPGJbXrDdZFB7fZvdwdaC9JVK0f+HV7QidihgvuKDOd/XdYjz3gXMB3SEWIaSxLYYx7VoVH0COKDvvb66D23O/6m0ak5zaF1QY+BVkgUP2FDTAG+U5X3sy8Xk2VQyFih4rc+OKMr23WCk09DkEuzp8+HpZAHyik6J6jtvCZ8A==
 it.yun.	7200	in	ns	ns1.ename.net.
 it.yun.	7200	in	ns	ns2.ename.net.
 item.yun.	7200	in	ns	ns1.ename.net.
@@ -1193,6 +1295,8 @@ ji.yun.	7200	in	ns	ns1.ename.net.
 ji.yun.	7200	in	ns	ns2.ename.net.
 jia.yun.	7200	in	ns	ns1.ename.net.
 jia.yun.	7200	in	ns	ns2.ename.net.
+jiafa.yun.	7200	in	ns	dns17.hichina.com.
+jiafa.yun.	7200	in	ns	dns18.hichina.com.
 jiali.yun.	7200	in	ns	camellia.dnspod.net.
 jiali.yun.	7200	in	ns	edith.dnspod.net.
 jiami.yun.	7200	in	ns	ns1.ename.net.
@@ -1247,19 +1351,27 @@ jin.yun.	7200	in	ns	ns1.ename.net.
 jin.yun.	7200	in	ns	ns2.ename.net.
 jindou.yun.	7200	in	ns	gail.ns.cloudflare.com.
 jindou.yun.	7200	in	ns	lars.ns.cloudflare.com.
+jinfu.yun.	7200	in	ns	dns21.hichina.com.
+jinfu.yun.	7200	in	ns	dns22.hichina.com.
 jing.yun.	7200	in	ns	ns1.ename.net.
 jing.yun.	7200	in	ns	ns2.ename.net.
 jingdong.yun.	7200	in	ns	ns1.brandcloudns.com.
 jingdong.yun.	7200	in	ns	ns2.brandcloudns.com.
 jingdong.yun.	7200	in	ns	ns3.brandcloudns.com.
+jingji.yun.	7200	in	ns	dns1.hichina.com.
+jingji.yun.	7200	in	ns	dns2.hichina.com.
 jingsu.yun.	7200	in	ns	ns1.ename.net.
 jingsu.yun.	7200	in	ns	ns2.ename.net.
 jingxi.yun.	7200	in	ns	ns1.ename.net.
 jingxi.yun.	7200	in	ns	ns2.ename.net.
 jinrong.yun.	7200	in	ns	ns1.ename.net.
 jinrong.yun.	7200	in	ns	ns2.ename.net.
+jinse.yun.	7200	in	ns	dns23.hichina.com.
+jinse.yun.	7200	in	ns	dns24.hichina.com.
 jinshan.yun.	7200	in	ns	ns1.ename.net.
 jinshan.yun.	7200	in	ns	ns2.ename.net.
+jintie.yun.	7200	in	ns	dns15.hichina.com.
+jintie.yun.	7200	in	ns	dns16.hichina.com.
 jiqiren.yun.	7200	in	ns	ns1.ename.net.
 jiqiren.yun.	7200	in	ns	ns2.ename.net.
 jishou.yun.	7200	in	ns	dns21.hichina.com.
@@ -1272,8 +1384,16 @@ jiu.yun.	7200	in	ns	ns1.ename.net.
 jiu.yun.	7200	in	ns	ns2.ename.net.
 jiudao.yun.	7200	in	ns	dns29.hichina.com.
 jiudao.yun.	7200	in	ns	dns30.hichina.com.
+jiufang.yun.	7200	in	ns	dns13.hichina.com.
+jiufang.yun.	7200	in	ns	dns14.hichina.com.
+jiuzi.yun.	7200	in	ns	dns17.hichina.com.
+jiuzi.yun.	7200	in	ns	dns18.hichina.com.
 jixiang.yun.	7200	in	ns	ns1.ename.net.
 jixiang.yun.	7200	in	ns	ns2.ename.net.
+jiyi.yun.	7200	in	ns	dns15.hichina.com.
+jiyi.yun.	7200	in	ns	dns16.hichina.com.
+jiyu.yun.	7200	in	ns	hedy.dnspod.net.
+jiyu.yun.	7200	in	ns	latin.dnspod.net.
 jm.yun.	7200	in	ns	ns1.ename.net.
 jm.yun.	7200	in	ns	ns2.ename.net.
 job.yun.	7200	in	ns	ns1.ename.net.
@@ -1352,6 +1472,8 @@ keda.yun.	7200	in	ns	dns29.hichina.com.
 keda.yun.	7200	in	ns	dns30.hichina.com.
 keep.yun.	7200	in	ns	dns27.hichina.com.
 keep.yun.	7200	in	ns	dns28.hichina.com.
+keeping.yun.	7200	in	ns	dns13.hichina.com.
+keeping.yun.	7200	in	ns	dns14.hichina.com.
 kefu.yun.	7200	in	ns	ns1.ename.net.
 kefu.yun.	7200	in	ns	ns2.ename.net.
 keji.yun.	7200	in	ns	ns1.363.hk.
@@ -1386,12 +1508,16 @@ kitty.yun.	7200	in	ns	ns1.ename.net.
 kitty.yun.	7200	in	ns	ns2.ename.net.
 kj.yun.	7200	in	ns	ns1.ename.net.
 kj.yun.	7200	in	ns	ns2.ename.net.
+klarend.yun.	7200	in	ns	dns21.hichina.com.
+klarend.yun.	7200	in	ns	dns22.hichina.com.
 km.yun.	7200	in	ns	ns1.ename.net.
 km.yun.	7200	in	ns	ns2.ename.net.
 know.yun.	7200	in	ns	ns1.ename.net.
 know.yun.	7200	in	ns	ns2.ename.net.
 knowledge.yun.	7200	in	ns	ns1.ename.net.
 knowledge.yun.	7200	in	ns	ns2.ename.net.
+koala.yun.	7200	in	ns	dns15.hichina.com.
+koala.yun.	7200	in	ns	dns16.hichina.com.
 kong.yun.	7200	in	ns	ns1.ename.net.
 kong.yun.	7200	in	ns	ns2.ename.net.
 koudai.yun.	7200	in	ns	ns1.ename.net.
@@ -1438,6 +1564,10 @@ lanniu.yun.	7200	in	ns	dns29.hichina.com.
 lanniu.yun.	7200	in	ns	dns30.hichina.com.
 lanqiu.yun.	7200	in	ns	ns1.ename.net.
 lanqiu.yun.	7200	in	ns	ns2.ename.net.
+lantu.yun.	7200	in	ns	dns3.hichina.com.
+lantu.yun.	7200	in	ns	dns4.hichina.com.
+lanzan.yun.	7200	in	ns	dns19.hichina.com.
+lanzan.yun.	7200	in	ns	dns20.hichina.com.
 lao.yun.	7200	in	ns	ns1.ename.net.
 lao.yun.	7200	in	ns	ns2.ename.net.
 laoban.yun.	7200	in	ns	ns1.ename.net.
@@ -1494,8 +1624,9 @@ lingguang.yun.	7200	in	ns	ns1.ename.net.
 lingguang.yun.	7200	in	ns	ns2.ename.net.
 linghang.yun.	7200	in	ns	dns17.hichina.com.
 linghang.yun.	7200	in	ns	dns18.hichina.com.
-lingjing.yun.	7200	in	ns	ns1.ename.net.
-lingjing.yun.	7200	in	ns	ns2.ename.net.
+lingjing.yun.	7200	in	ns	ns1.afternic.com.
+lingjing.yun.	7200	in	ns	ns2.afternic.com.
+lingjing.yun.	7200	in	ns	verification-cwgfcfadmf6yrazsf2udtm.ns101.verify.hn.
 lingxi.yun.	7200	in	ns	ns1.ename.net.
 lingxi.yun.	7200	in	ns	ns2.ename.net.
 lingzhi.yun.	7200	in	ns	ns1.ename.net.
@@ -1506,8 +1637,10 @@ linshu.yun.	7200	in	ns	ns1.ename.net.
 linshu.yun.	7200	in	ns	ns2.ename.net.
 linux.yun.	7200	in	ns	arnold.ns.cloudflare.com.
 linux.yun.	7200	in	ns	lilith.ns.cloudflare.com.
-linyi.yun.	7200	in	ns	dns13.hichina.com.
-linyi.yun.	7200	in	ns	dns14.hichina.com.
+linyi.yun.	7200	in	ds	2371 13 2 5738F6066140A9D0AD9E8CC3671F47E736BE34D730CB63C48EAA299CA588C2F6
+linyi.yun.	7200	in	ns	matias.ns.cloudflare.com.
+linyi.yun.	7200	in	ns	nicole.ns.cloudflare.com.
+linyi.yun.	7200	in	rrsig	DS 8 2 7200 20260131232544 20260117203031 18219 yun. aGyHNXIzqKBXnWdqsM/bI5MrKpou5CULJwX3dazAznBARzqsdJiPgxFHq6SXBnw1yB7bMgmCXhUTvWuxGajfUz/A7k2LWBLsInTZiCf3+dg8zJLErp18wMGk2RmKYh+Gk17+GUkQOxlaosmN5/2TqpWG7c4gI8y5o/kUp3tILAYt4y7SQvsgoS/MlXGBYPTdgPouyiT+4NWQK9mGIJb4mi0WH7iQl2bOxZ8rnCEwkNSwUp4xwJVh55NCygaXAGixZdKP3kS37pE9yqRFyuVqhwoz38oWkMqXV+Up2yKAP30lpSq2nxV16A35ETqFzWqD4uUaIwhc2Vp8EConEMjlig==
 lion.yun.	7200	in	ns	ns1.ename.net.
 lion.yun.	7200	in	ns	ns2.ename.net.
 list.yun.	7200	in	ns	ns1.ename.net.
@@ -1526,10 +1659,16 @@ liwu.yun.	7200	in	ns	ns1.ename.net.
 liwu.yun.	7200	in	ns	ns2.ename.net.
 lizhi.yun.	7200	in	ns	leanna.ns.cloudflare.com.
 lizhi.yun.	7200	in	ns	mitch.ns.cloudflare.com.
+lizi.yun.	7200	in	ns	dns1.hichina.com.
+lizi.yun.	7200	in	ns	dns2.hichina.com.
+llms.yun.	7200	in	ns	dns3.hichina.com.
+llms.yun.	7200	in	ns	dns4.hichina.com.
 lmm.yun.	7200	in	ns	ns1.ename.net.
 lmm.yun.	7200	in	ns	ns2.ename.net.
 local.yun.	7200	in	ns	ns1.ename.net.
 local.yun.	7200	in	ns	ns2.ename.net.
+localhost.yun.	7200	in	ns	dns27.hichina.com.
+localhost.yun.	7200	in	ns	dns28.hichina.com.
 logic.yun.	7200	in	ns	ns1.ename.net.
 logic.yun.	7200	in	ns	ns2.ename.net.
 logistics.yun.	7200	in	ns	dns23.hichina.com.
@@ -1560,6 +1699,8 @@ luobo.yun.	7200	in	ns	ns1.ename.net.
 luobo.yun.	7200	in	ns	ns2.ename.net.
 luxury.yun.	7200	in	ns	ns1.ename.net.
 luxury.yun.	7200	in	ns	ns2.ename.net.
+lvluo.yun.	7200	in	ns	dns1.hichina.com.
+lvluo.yun.	7200	in	ns	dns2.hichina.com.
 lvshi.yun.	7200	in	ns	ns1.ename.net.
 lvshi.yun.	7200	in	ns	ns2.ename.net.
 lvxing.yun.	7200	in	ns	ns1.ename.net.
@@ -1570,6 +1711,8 @@ ly.yun.	7200	in	ns	ns1.ename.net.
 ly.yun.	7200	in	ns	ns2.ename.net.
 lyerp.yun.	7200	in	ns	dns17.hichina.com.
 lyerp.yun.	7200	in	ns	dns18.hichina.com.
+lynn.yun.	7200	in	ns	dns23.hichina.com.
+lynn.yun.	7200	in	ns	dns24.hichina.com.
 ma.yun.	7200	in	ns	ns1.ename.net.
 ma.yun.	7200	in	ns	ns2.ename.net.
 mac.yun.	7200	in	ns	ns1.ename.net.
@@ -1584,8 +1727,8 @@ magazine.yun.	7200	in	ns	ns1.ename.net.
 magazine.yun.	7200	in	ns	ns2.ename.net.
 mai.yun.	7200	in	ns	ns1.ename.net.
 mai.yun.	7200	in	ns	ns2.ename.net.
-mail.yun.	7200	in	ns	ns1.ename.net.
-mail.yun.	7200	in	ns	ns2.ename.net.
+mail.yun.	7200	in	ns	austin.ns.cloudflare.com.
+mail.yun.	7200	in	ns	ryleigh.ns.cloudflare.com.
 make.yun.	7200	in	ns	ns1.ename.net.
 make.yun.	7200	in	ns	ns2.ename.net.
 maker.yun.	7200	in	ns	ns1.ename.net.
@@ -1598,12 +1741,13 @@ mang.yun.	7200	in	ns	ns1.ename.net.
 mang.yun.	7200	in	ns	ns2.ename.net.
 mango.yun.	7200	in	ns	ns1.ename.net.
 mango.yun.	7200	in	ns	ns2.ename.net.
-manhua.yun.	7200	in	ns	ns1.ename.net.
-manhua.yun.	7200	in	ns	ns2.ename.net.
+manhua.yun.	7200	in	ns	ns1.atom.com.
+manhua.yun.	7200	in	ns	ns2.atom.com.
 manufacturing.yun.	7200	in	ns	dns17.hichina.com.
 manufacturing.yun.	7200	in	ns	dns18.hichina.com.
-manus.yun.	7200	in	ns	ns1.ename.net.
-manus.yun.	7200	in	ns	ns2.ename.net.
+manus.yun.	7200	in	ns	ns1.afternic.com.
+manus.yun.	7200	in	ns	ns2.afternic.com.
+manus.yun.	7200	in	ns	verification-cwgfcfadmf6yrazsf2udtm.ns101.verify.hn.
 mao.yun.	7200	in	ns	ns1.ename.net.
 mao.yun.	7200	in	ns	ns2.ename.net.
 map.yun.	7200	in	ns	ns1.ename.net.
@@ -1614,6 +1758,8 @@ marry.yun.	7200	in	ns	ns1.ename.net.
 marry.yun.	7200	in	ns	ns2.ename.net.
 mars.yun.	7200	in	ns	ns1.ename.net.
 mars.yun.	7200	in	ns	ns2.ename.net.
+mas.yun.	7200	in	ns	dns7.hichina.com.
+mas.yun.	7200	in	ns	dns8.hichina.com.
 match.yun.	7200	in	ns	dns10.hichina.com.
 match.yun.	7200	in	ns	dns9.hichina.com.
 math.yun.	7200	in	ns	dns25.hichina.com.
@@ -1622,8 +1768,9 @@ mavlink.yun.	7200	in	ns	dns3.hichina.com.
 mavlink.yun.	7200	in	ns	dns4.hichina.com.
 may.yun.	7200	in	ns	dns19.hichina.com.
 may.yun.	7200	in	ns	dns20.hichina.com.
-mayi.yun.	7200	in	ns	ns1.ename.net.
-mayi.yun.	7200	in	ns	ns2.ename.net.
+mayi.yun.	7200	in	ns	ns1.afternic.com.
+mayi.yun.	7200	in	ns	ns2.afternic.com.
+mayi.yun.	7200	in	ns	verification-cwgfcfadmf6yrazsf2udtm.ns101.verify.hn.
 mba.yun.	7200	in	ns	dns1.hichina.com.
 mba.yun.	7200	in	ns	dns2.hichina.com.
 mbti.yun.	7200	in	ns	dns29.hichina.com.
@@ -1644,12 +1791,16 @@ mei.yun.	7200	in	ns	ns1.ename.net.
 mei.yun.	7200	in	ns	ns2.ename.net.
 meili.yun.	7200	in	ns	ns1.ename.net.
 meili.yun.	7200	in	ns	ns2.ename.net.
+meiti.yun.	7200	in	ns	dns23.hichina.com.
+meiti.yun.	7200	in	ns	dns24.hichina.com.
 member.yun.	7200	in	ns	ns1.ename.net.
 member.yun.	7200	in	ns	ns2.ename.net.
 meme.yun.	7200	in	ns	ns1.ename.net.
 meme.yun.	7200	in	ns	ns2.ename.net.
 memory.yun.	7200	in	ns	ns1.ename.net.
 memory.yun.	7200	in	ns	ns2.ename.net.
+menchuang.yun.	7200	in	ns	dns17.hichina.com.
+menchuang.yun.	7200	in	ns	dns18.hichina.com.
 mes.yun.	7200	in	ns	dns15.hichina.com.
 mes.yun.	7200	in	ns	dns16.hichina.com.
 mesa.yun.	7200	in	ns	dns21.hichina.com.
@@ -1692,8 +1843,8 @@ mining.yun.	7200	in	ns	dns25.hichina.com.
 mining.yun.	7200	in	ns	dns26.hichina.com.
 mir2.yun.	7200	in	ns	ns1.ename.net.
 mir2.yun.	7200	in	ns	ns2.ename.net.
-mix.yun.	7200	in	ns	ns1.ename.net.
-mix.yun.	7200	in	ns	ns2.ename.net.
+mix.yun.	7200	in	ns	ns1.dn.com.
+mix.yun.	7200	in	ns	ns2.dn.com.
 miyou.yun.	7200	in	ns	ns1.judns.com.
 miyou.yun.	7200	in	ns	ns2.judns.com.
 mjj.yun.	7200	in	ns	major.ns.cloudflare.com.
@@ -1714,6 +1865,8 @@ mogu.yun.	7200	in	ns	ns1.ename.net.
 mogu.yun.	7200	in	ns	ns2.ename.net.
 mohe.yun.	7200	in	ns	ns1.ename.net.
 mohe.yun.	7200	in	ns	ns2.ename.net.
+moke.yun.	7200	in	ns	dns13.hichina.com.
+moke.yun.	7200	in	ns	dns14.hichina.com.
 moli.yun.	7200	in	ns	ns1.ename.net.
 moli.yun.	7200	in	ns	ns2.ename.net.
 mom.yun.	7200	in	ns	dns23.hichina.com.
@@ -1730,6 +1883,8 @@ moxing.yun.	7200	in	ns	ns1.ename.net.
 moxing.yun.	7200	in	ns	ns2.ename.net.
 mp4.yun.	7200	in	ns	ns1.ename.net.
 mp4.yun.	7200	in	ns	ns2.ename.net.
+mro.yun.	7200	in	ns	dns1.hichina.com.
+mro.yun.	7200	in	ns	dns2.hichina.com.
 msl.yun.	7200	in	ns	dns29.hichina.com.
 msl.yun.	7200	in	ns	dns30.hichina.com.
 msn.yun.	7200	in	ns	ns1.judns.com.
@@ -1738,6 +1893,8 @@ mu.yun.	7200	in	ns	ns1.ename.net.
 mu.yun.	7200	in	ns	ns2.ename.net.
 much.yun.	7200	in	ns	ns1.ename.net.
 much.yun.	7200	in	ns	ns2.ename.net.
+muse.yun.	7200	in	ns	dns19.hichina.com.
+muse.yun.	7200	in	ns	dns20.hichina.com.
 museum.yun.	7200	in	ns	ns1.ename.net.
 museum.yun.	7200	in	ns	ns2.ename.net.
 music.yun.	7200	in	ns	ns1.ename.net.
@@ -1770,6 +1927,8 @@ neicun.yun.	7200	in	ns	ns1.ename.net.
 neicun.yun.	7200	in	ns	ns2.ename.net.
 neng.yun.	7200	in	ns	ns1.ename.net.
 neng.yun.	7200	in	ns	ns2.ename.net.
+nexgo.yun.	7200	in	ns	dns19.hichina.com.
+nexgo.yun.	7200	in	ns	dns20.hichina.com.
 next.yun.	7200	in	ns	ns1.ename.net.
 next.yun.	7200	in	ns	ns2.ename.net.
 nginx.yun.	7200	in	ns	ns1.ename.net.
@@ -1780,7 +1939,7 @@ nic.yun.	86400	in	ds	11659 8 2 FD8EE2CF0C533F8A11581D2C7725514CD4758B779D9AF53CC
 nic.yun.	86400	in	ds	27565 8 2 87FF0568506D2E34FADC298B6068BE69A77E5ED3BC9AAE4B272B2D712F5FE6E2
 nic.yun.	86400	in	ns	ns.nic.yun.
 nic.yun.	86400	in	ns	ns2.nic.yun.
-nic.yun.	86400	in	rrsig	DS 8 2 86400 20260110195623 20251227200031 18219 yun. Kv95QYgIXfv2b1+tRWQSSRIDFmyIiB0oaj7yLEr8NZuj/q60ix3LVO/eoSPgWbAer908K5UEwHEWS7pac11uDslpqo4OgFeCFaiwIjq2u/+2OhSgQsB8QnSwU7S+cxmn4GyqKlYYGx4PPqRUj+Elbf1K99lk8PglwkGp82z88Tv3hndUgF6IYFFKqP6UZfnQAK+dChRETYYbWpr8drpygMPsd3LxD7XTLAveAhyPdHjh4j9m8P9mRmxlVazP7lcOjY6zON1nj3V1XdKvQK3VWkZLif3ASMZ4iy1i9jm7YWjjecKpyfe94Nh1E3dapWU6t0RbheqKRzuITqErwOy1+Q==
+nic.yun.	86400	in	rrsig	DS 8 2 86400 20260202161212 20260119040031 18219 yun. KRHw4sjEbypAA+CvwrAo4pe7SzvmifWskTu4KTaNKIjfOTN9VzjkK6FPQjS5O9CjuWAsbcygu/y07ni+PJc5VbmjoCCaDHokb1D2PlsuYs7BGgKDYf2NyJ6LAaXd+gPlOmI/f3fjPjV+OBfEA+R+80haIVBmge2WD9q+2I2ejapCdqw7FBJFzTaXfTLnfAPUzQWb/AAZ/wtjTrhERYb4/7na2BMs6a6P+CSdMrSB5pn419mdOmyWRZ/ZLldnFImFc2dsjVDBMGBCjzrb48y0nInW6Sh5zd91WOdTO/sLDHO4Tf81ECCBhUTGKGHbTWyaAbxJ0MoxwFF5/iVr29yY/w==
 nice.yun.	7200	in	ns	amos.ns.cloudflare.com.
 nice.yun.	7200	in	ns	marlowe.ns.cloudflare.com.
 niu.yun.	7200	in	ns	ns1.ename.net.
@@ -1819,12 +1978,16 @@ ok.yun.	7200	in	ns	ns1.ename.net.
 ok.yun.	7200	in	ns	ns2.ename.net.
 ol.yun.	7200	in	ns	ns1.ename.net.
 ol.yun.	7200	in	ns	ns2.ename.net.
+only.yun.	7200	in	ns	dns25.hichina.com.
+only.yun.	7200	in	ns	dns26.hichina.com.
 opclink.yun.	7200	in	ns	dns27.hichina.com.
 opclink.yun.	7200	in	ns	dns28.hichina.com.
 open.yun.	7200	in	ns	major.ns.cloudflare.com.
 open.yun.	7200	in	ns	melissa.ns.cloudflare.com.
 openai.yun.	7200	in	ns	ns1.ename.net.
 openai.yun.	7200	in	ns	ns2.ename.net.
+opencloud.yun.	7200	in	ns	dns29.hichina.com.
+opencloud.yun.	7200	in	ns	dns30.hichina.com.
 order.yun.	7200	in	ns	ns1.ename.net.
 order.yun.	7200	in	ns	ns2.ename.net.
 org.yun.	7200	in	ns	ns1.ename.net.
@@ -1833,6 +1996,8 @@ origin.yun.	7200	in	ns	ns1.ename.net.
 origin.yun.	7200	in	ns	ns2.ename.net.
 os.yun.	7200	in	ns	ns1.ename.net.
 os.yun.	7200	in	ns	ns2.ename.net.
+outermind.yun.	7200	in	ns	dns19.hichina.com.
+outermind.yun.	7200	in	ns	dns20.hichina.com.
 oxford.yun.	7200	in	ns	dns25.hichina.com.
 oxford.yun.	7200	in	ns	dns26.hichina.com.
 paas.yun.	7200	in	ns	dns7.hichina.com.
@@ -1851,8 +2016,8 @@ pan.yun.	7200	in	ns	ns1.ename.net.
 pan.yun.	7200	in	ns	ns2.ename.net.
 panabit.yun.	7200	in	ns	dns19.hichina.com.
 panabit.yun.	7200	in	ns	dns20.hichina.com.
-panda.yun.	7200	in	ns	ns1.ename.net.
-panda.yun.	7200	in	ns	ns2.ename.net.
+panda.yun.	7200	in	ns	ns1.atom.com.
+panda.yun.	7200	in	ns	ns2.atom.com.
 panel.yun.	7200	in	ns	ns1.ename.net.
 panel.yun.	7200	in	ns	ns2.ename.net.
 panshi.yun.	7200	in	ns	ns1.ename.net.
@@ -1908,8 +2073,8 @@ pinpai.yun.	7200	in	ns	ns2.brandcloudns.com.
 pinpai.yun.	7200	in	ns	ns3.brandcloudns.com.
 pipi.yun.	7200	in	ns	ns1.ename.net.
 pipi.yun.	7200	in	ns	ns2.ename.net.
-pixel.yun.	7200	in	ns	ns1.ename.net.
-pixel.yun.	7200	in	ns	ns2.ename.net.
+pixel.yun.	7200	in	ns	ns1.atom.com.
+pixel.yun.	7200	in	ns	ns2.atom.com.
 pk.yun.	7200	in	ns	ns1.ename.net.
 pk.yun.	7200	in	ns	ns2.ename.net.
 plan.yun.	7200	in	ns	ns1.ename.net.
@@ -2044,6 +2209,8 @@ remark.yun.	7200	in	ns	ns1.ename.net.
 remark.yun.	7200	in	ns	ns2.ename.net.
 remind.yun.	7200	in	ns	ns1.ename.net.
 remind.yun.	7200	in	ns	ns2.ename.net.
+remote.yun.	7200	in	ns	ada.ns.cloudflare.com.
+remote.yun.	7200	in	ns	rudy.ns.cloudflare.com.
 rencai.yun.	7200	in	ns	ns1.ename.net.
 rencai.yun.	7200	in	ns	ns2.ename.net.
 renzhi.yun.	7200	in	ns	ns1.ename.net.
@@ -2074,6 +2241,8 @@ romantic.yun.	7200	in	ns	ns1.ename.net.
 romantic.yun.	7200	in	ns	ns2.ename.net.
 rong.yun.	7200	in	ns	ns1.ename.net.
 rong.yun.	7200	in	ns	ns2.ename.net.
+rongzi.yun.	7200	in	ns	dns21.hichina.com.
+rongzi.yun.	7200	in	ns	dns22.hichina.com.
 root.yun.	7200	in	ns	ns1.ename.net.
 root.yun.	7200	in	ns	ns2.ename.net.
 rose.yun.	7200	in	ns	ns1.ename.net.
@@ -2090,8 +2259,12 @@ ruizhi.yun.	7200	in	ns	dns1.hichina.com.
 ruizhi.yun.	7200	in	ns	dns2.hichina.com.
 run.yun.	7200	in	ns	becky.ns.cloudflare.com.
 run.yun.	7200	in	ns	dante.ns.cloudflare.com.
+rust.yun.	7200	in	ns	dns25.hichina.com.
+rust.yun.	7200	in	ns	dns26.hichina.com.
 ruyi.yun.	7200	in	ns	ns1.ename.net.
 ruyi.yun.	7200	in	ns	ns2.ename.net.
+rwa.yun.	7200	in	ns	dns23.hichina.com.
+rwa.yun.	7200	in	ns	dns24.hichina.com.
 safe.yun.	7200	in	ns	ns1.ename.net.
 safe.yun.	7200	in	ns	ns2.ename.net.
 sai.yun.	7200	in	ns	ns1.ename.net.
@@ -2158,6 +2331,10 @@ shangbiao.yun.	7200	in	ns	ns1.ename.net.
 shangbiao.yun.	7200	in	ns	ns2.ename.net.
 shanghai.yun.	7200	in	ns	ns1.judns.com.
 shanghai.yun.	7200	in	ns	ns2.judns.com.
+shangji.yun.	7200	in	ns	dns15.hichina.com.
+shangji.yun.	7200	in	ns	dns16.hichina.com.
+shanglv.yun.	7200	in	ns	dns15.hichina.com.
+shanglv.yun.	7200	in	ns	dns16.hichina.com.
 share.yun.	7200	in	ns	dns21.hichina.com.
 share.yun.	7200	in	ns	dns22.hichina.com.
 sheep.yun.	7200	in	ns	ns1.ename.net.
@@ -2178,6 +2355,8 @@ shi.yun.	7200	in	ns	ns1.ename.net.
 shi.yun.	7200	in	ns	ns2.ename.net.
 shian.yun.	7200	in	ns	dns13.hichina.com.
 shian.yun.	7200	in	ns	dns14.hichina.com.
+shici.yun.	7200	in	ns	dns7.hichina.com.
+shici.yun.	7200	in	ns	dns8.hichina.com.
 shield.yun.	7200	in	ns	ns1.ename.net.
 shield.yun.	7200	in	ns	ns2.ename.net.
 shiji.yun.	7200	in	ns	ns1.ename.net.
@@ -2196,6 +2375,10 @@ shouji.yun.	7200	in	ns	ns1.ename.net.
 shouji.yun.	7200	in	ns	ns2.ename.net.
 shoukuan.yun.	7200	in	ns	ns1.ename.net.
 shoukuan.yun.	7200	in	ns	ns2.ename.net.
+shouna.yun.	7200	in	ns	dns23.hichina.com.
+shouna.yun.	7200	in	ns	dns24.hichina.com.
+showcase.yun.	7200	in	ns	dns7.hichina.com.
+showcase.yun.	7200	in	ns	dns8.hichina.com.
 shu.yun.	7200	in	ns	ns1.ename.net.
 shu.yun.	7200	in	ns	ns2.ename.net.
 shui.yun.	7200	in	ns	ns1.judns.com.
@@ -2224,8 +2407,12 @@ sixin.yun.	7200	in	ns	dns25.hichina.com.
 sixin.yun.	7200	in	ns	dns26.hichina.com.
 siyou.yun.	7200	in	ns	ns1.ename.net.
 siyou.yun.	7200	in	ns	ns2.ename.net.
+siyu.yun.	7200	in	ns	dns10.hichina.com.
+siyu.yun.	7200	in	ns	dns9.hichina.com.
 sj.yun.	7200	in	ns	ns1.ename.net.
 sj.yun.	7200	in	ns	ns2.ename.net.
+skills.yun.	7200	in	ns	dns21.hichina.com.
+skills.yun.	7200	in	ns	dns22.hichina.com.
 sl.yun.	7200	in	ns	ns1.ename.net.
 sl.yun.	7200	in	ns	ns2.ename.net.
 sleep.yun.	7200	in	ns	ns1.ename.net.
@@ -2240,10 +2427,14 @@ smartgreen.yun.	7200	in	ns	dns19.hichina.com.
 smartgreen.yun.	7200	in	ns	dns20.hichina.com.
 so.yun.	7200	in	ns	ns1.ename.net.
 so.yun.	7200	in	ns	ns2.ename.net.
+soai.yun.	7200	in	ns	dns7.hichina.com.
+soai.yun.	7200	in	ns	dns8.hichina.com.
 soft.yun.	7200	in	ns	ns1.ename.net.
 soft.yun.	7200	in	ns	ns2.ename.net.
 sogou.yun.	7200	in	ns	dns31.hichina.com.
 sogou.yun.	7200	in	ns	dns32.hichina.com.
+sora2.yun.	7200	in	ns	dns25.hichina.com.
+sora2.yun.	7200	in	ns	dns26.hichina.com.
 sorry.yun.	7200	in	ns	ns1.ename.net.
 sorry.yun.	7200	in	ns	ns2.ename.net.
 soso.yun.	7200	in	ns	ns1.ename.net.
@@ -2254,12 +2445,14 @@ soul.yun.	7200	in	ns	ns1.ename.net.
 soul.yun.	7200	in	ns	ns2.ename.net.
 sp.yun.	7200	in	ns	ns1.ename.net.
 sp.yun.	7200	in	ns	ns2.ename.net.
+spacex.yun.	7200	in	ns	dns1.hichina.com.
+spacex.yun.	7200	in	ns	dns2.hichina.com.
 speak.yun.	7200	in	ns	ns1.ename.net.
 speak.yun.	7200	in	ns	ns2.ename.net.
 speed.yun.	7200	in	ns	ns1.ename.net.
 speed.yun.	7200	in	ns	ns2.ename.net.
-speedtest.yun.	7200	in	ns	dns13.hichina.com.
-speedtest.yun.	7200	in	ns	dns14.hichina.com.
+speedtest.yun.	7200	in	ns	vip1.alidns.com.
+speedtest.yun.	7200	in	ns	vip2.alidns.com.
 sport.yun.	7200	in	ns	ns1.ename.net.
 sport.yun.	7200	in	ns	ns2.ename.net.
 sports.yun.	7200	in	ns	ns1.ename.net.
@@ -2292,8 +2485,8 @@ storm.yun.	7200	in	ns	ns1.ename.net.
 storm.yun.	7200	in	ns	ns2.ename.net.
 story.yun.	7200	in	ns	ns1.ename.net.
 story.yun.	7200	in	ns	ns2.ename.net.
-stream.yun.	7200	in	ns	ns1.ename.net.
-stream.yun.	7200	in	ns	ns2.ename.net.
+stream.yun.	7200	in	ns	ns1.alidns.com.
+stream.yun.	7200	in	ns	ns2.alidns.com.
 street.yun.	7200	in	ns	ns1.ename.net.
 street.yun.	7200	in	ns	ns2.ename.net.
 studio.yun.	7200	in	ns	ns1.ename.net.
@@ -2310,8 +2503,12 @@ sucai.yun.	7200	in	ns	ns1.ename.net.
 sucai.yun.	7200	in	ns	ns2.ename.net.
 summer.yun.	7200	in	ns	ns1.ename.net.
 summer.yun.	7200	in	ns	ns2.ename.net.
+summerday.yun.	7200	in	ns	ns1.judns.com.
+summerday.yun.	7200	in	ns	ns2.judns.com.
 sun.yun.	7200	in	ns	ns1.ename.net.
 sun.yun.	7200	in	ns	ns2.ename.net.
+suneixc.yun.	7200	in	ns	dns3.hichina.com.
+suneixc.yun.	7200	in	ns	dns4.hichina.com.
 suo.yun.	7200	in	ns	ns1.ename.net.
 suo.yun.	7200	in	ns	ns2.ename.net.
 super.yun.	7200	in	ns	ns1.ename.net.
@@ -2322,12 +2519,18 @@ superun.yun.	7200	in	ns	louse.dnspod.net.
 superun.yun.	7200	in	ns	macro.dnspod.net.
 suzhou.yun.	7200	in	ns	dns29.hichina.com.
 suzhou.yun.	7200	in	ns	dns30.hichina.com.
+suzi.yun.	7200	in	ns	dns31.hichina.com.
+suzi.yun.	7200	in	ns	dns32.hichina.com.
+svip.yun.	7200	in	ns	dns19.hichina.com.
+svip.yun.	7200	in	ns	dns20.hichina.com.
 sw.yun.	7200	in	ns	ns1.ename.net.
 sw.yun.	7200	in	ns	ns2.ename.net.
 sy.yun.	7200	in	ns	ns1.ename.net.
 sy.yun.	7200	in	ns	ns2.ename.net.
 sync.yun.	7200	in	ns	ns1.ename.net.
 sync.yun.	7200	in	ns	ns2.ename.net.
+sysone.yun.	7200	in	ns	dns31.hichina.com.
+sysone.yun.	7200	in	ns	dns32.hichina.com.
 system.yun.	7200	in	ns	ns1.ename.net.
 system.yun.	7200	in	ns	ns2.ename.net.
 syun.yun.	7200	in	ns	door.dnspod.net.
@@ -2380,6 +2583,8 @@ tencent-global.yun.	7200	in	ns	ns1.ename.net.
 tencent-global.yun.	7200	in	ns	ns2.ename.net.
 teng.yun.	7200	in	ns	ns1.ename.net.
 teng.yun.	7200	in	ns	ns2.ename.net.
+tengyue.yun.	7200	in	ns	dns3.hichina.com.
+tengyue.yun.	7200	in	ns	dns4.hichina.com.
 tenxun.yun.	7200	in	ns	dns15.hichina.com.
 tenxun.yun.	7200	in	ns	dns16.hichina.com.
 th.yun.	7200	in	ns	ns1.ename.net.
@@ -2392,10 +2597,16 @@ ti.yun.	7200	in	ns	ns1.ename.net.
 ti.yun.	7200	in	ns	ns2.ename.net.
 tian.yun.	7200	in	ns	ns1.ename.net.
 tian.yun.	7200	in	ns	ns2.ename.net.
+tiand.yun.	7200	in	ns	dns17.hichina.com.
+tiand.yun.	7200	in	ns	dns18.hichina.com.
+tiandun.yun.	7200	in	ns	dns3.hichina.com.
+tiandun.yun.	7200	in	ns	dns4.hichina.com.
+tianfu.yun.	7200	in	ns	dns13.hichina.com.
+tianfu.yun.	7200	in	ns	dns14.hichina.com.
 tianjin.yun.	7200	in	ns	dns17.hichina.com.
 tianjin.yun.	7200	in	ns	dns18.hichina.com.
-tianyi.yun.	7200	in	ns	becky.ns.cloudflare.com.
-tianyi.yun.	7200	in	ns	dante.ns.cloudflare.com.
+tianyi.yun.	7200	in	ns	ns1.judns.com.
+tianyi.yun.	7200	in	ns	ns2.judns.com.
 tiger.yun.	7200	in	ns	ns1.ename.net.
 tiger.yun.	7200	in	ns	ns2.ename.net.
 tiktok.yun.	7200	in	ns	ns1.ename.net.
@@ -2406,6 +2617,8 @@ times.yun.	7200	in	ns	ns1.ename.net.
 times.yun.	7200	in	ns	ns2.ename.net.
 ting.yun.	7200	in	ns	ns1.ename.net.
 ting.yun.	7200	in	ns	ns2.ename.net.
+tiny.yun.	7200	in	ns	dns23.hichina.com.
+tiny.yun.	7200	in	ns	dns24.hichina.com.
 tk.yun.	7200	in	ns	ns1.judns.com.
 tk.yun.	7200	in	ns	ns2.judns.com.
 tl.yun.	7200	in	ns	ns1.ename.net.
@@ -2480,6 +2693,8 @@ uc.yun.	7200	in	ns	ns1.ename.net.
 uc.yun.	7200	in	ns	ns2.ename.net.
 union.yun.	7200	in	ns	dns11.hichina.com.
 union.yun.	7200	in	ns	dns12.hichina.com.
+unionpay.yun.	7200	in	ns	dns1.hichina.com.
+unionpay.yun.	7200	in	ns	dns2.hichina.com.
 unitree.yun.	7200	in	ns	dns21.hichina.com.
 unitree.yun.	7200	in	ns	dns22.hichina.com.
 universe.yun.	7200	in	ns	ns1.ename.net.
@@ -2542,6 +2757,8 @@ wa.yun.	7200	in	ns	ns1.ename.net.
 wa.yun.	7200	in	ns	ns2.ename.net.
 waf.yun.	7200	in	ns	ns1.ename.net.
 waf.yun.	7200	in	ns	ns2.ename.net.
+wagoo.yun.	7200	in	ns	dns3.hichina.com.
+wagoo.yun.	7200	in	ns	dns4.hichina.com.
 waimao.yun.	7200	in	ns	ns1.ename.net.
 waimao.yun.	7200	in	ns	ns2.ename.net.
 walk.yun.	7200	in	ns	ns1.ename.net.
@@ -2554,12 +2771,14 @@ wanbiao.yun.	7200	in	ns	ns1.ename.net.
 wanbiao.yun.	7200	in	ns	ns2.ename.net.
 wangcai.yun.	7200	in	ns	aliza.ns.cloudflare.com.
 wangcai.yun.	7200	in	ns	harley.ns.cloudflare.com.
-wangpan.yun.	7200	in	ns	ns1.ename.net.
-wangpan.yun.	7200	in	ns	ns2.ename.net.
+wangpan.yun.	7200	in	ns	ns1.alidns.com.
+wangpan.yun.	7200	in	ns	ns2.alidns.com.
 wanwang.yun.	7200	in	ns	ns1.ename.net.
 wanwang.yun.	7200	in	ns	ns2.ename.net.
 wanwu.yun.	7200	in	ns	dns23.hichina.com.
 wanwu.yun.	7200	in	ns	dns24.hichina.com.
+wanxiang.yun.	7200	in	ns	dns11.hichina.com.
+wanxiang.yun.	7200	in	ns	dns12.hichina.com.
 wanyue.yun.	7200	in	ns	ns1.ename.net.
 wanyue.yun.	7200	in	ns	ns2.ename.net.
 wap.yun.	7200	in	ns	ns1.ename.net.
@@ -2600,6 +2819,8 @@ well.yun.	7200	in	ns	ns1.dn.com.
 well.yun.	7200	in	ns	ns2.dn.com.
 wen.yun.	7200	in	ns	ns1.ename.net.
 wen.yun.	7200	in	ns	ns2.ename.net.
+wenbin.yun.	7200	in	ns	dns21.hichina.com.
+wenbin.yun.	7200	in	ns	dns22.hichina.com.
 wenda.yun.	7200	in	ns	dns13.hichina.com.
 wenda.yun.	7200	in	ns	dns14.hichina.com.
 wenjian.yun.	7200	in	ns	ns1.judns.com.
@@ -2622,6 +2843,8 @@ wind.yun.	7200	in	ns	ns1.ename.net.
 wind.yun.	7200	in	ns	ns2.ename.net.
 window.yun.	7200	in	ns	ns1.ename.net.
 window.yun.	7200	in	ns	ns2.ename.net.
+windows.yun.	7200	in	ns	dns23.hichina.com.
+windows.yun.	7200	in	ns	dns24.hichina.com.
 winter.yun.	7200	in	ns	ns1.ename.net.
 winter.yun.	7200	in	ns	ns2.ename.net.
 wisdom.yun.	7200	in	ns	ns1.ename.net.
@@ -2636,8 +2859,8 @@ wl.yun.	7200	in	ns	ns1.ename.net.
 wl.yun.	7200	in	ns	ns2.ename.net.
 wo.yun.	7200	in	ns	ns1.ename.net.
 wo.yun.	7200	in	ns	ns2.ename.net.
-wode.yun.	7200	in	ns	ns1.ename.net.
-wode.yun.	7200	in	ns	ns2.ename.net.
+wode.yun.	7200	in	ns	ns1.atom.com.
+wode.yun.	7200	in	ns	ns2.atom.com.
 wood.yun.	7200	in	ns	ns1.ename.net.
 wood.yun.	7200	in	ns	ns2.ename.net.
 word.yun.	7200	in	ns	ns1.ename.net.
@@ -2646,8 +2869,9 @@ work.yun.	7200	in	ns	ns1.ename.net.
 work.yun.	7200	in	ns	ns2.ename.net.
 wu.yun.	7200	in	ns	ns1.ename.net.
 wu.yun.	7200	in	ns	ns2.ename.net.
-wuhan.yun.	7200	in	ns	ns1.ename.net.
-wuhan.yun.	7200	in	ns	ns2.ename.net.
+wuhan.yun.	7200	in	ns	ns1.afternic.com.
+wuhan.yun.	7200	in	ns	ns2.afternic.com.
+wuhan.yun.	7200	in	ns	verification-cwgfcfadmf6yrazsf2udtm.ns101.verify.hn.
 wuji.yun.	7200	in	ns	ns1.ename.net.
 wuji.yun.	7200	in	ns	ns2.ename.net.
 wukong.yun.	7200	in	ns	ns1.ename.net.
@@ -2684,6 +2908,8 @@ xi.yun.	7200	in	ns	ns1.ename.net.
 xi.yun.	7200	in	ns	ns2.ename.net.
 xiang.yun.	7200	in	ns	ns1.ename.net.
 xiang.yun.	7200	in	ns	ns2.ename.net.
+xiangqin.yun.	7200	in	ns	dns29.hichina.com.
+xiangqin.yun.	7200	in	ns	dns30.hichina.com.
 xianju.yun.	7200	in	ns	dns11.hichina.com.
 xianju.yun.	7200	in	ns	dns12.hichina.com.
 xianka.yun.	7200	in	ns	ns1.ename.net.
@@ -2692,12 +2918,14 @@ xiao.yun.	7200	in	ns	ns1.ename.net.
 xiao.yun.	7200	in	ns	ns2.ename.net.
 xiaomi.yun.	7200	in	ns	ns1.judns.com.
 xiaomi.yun.	7200	in	ns	ns2.judns.com.
+xiaoming.yun.	7200	in	ns	dns11.hichina.com.
+xiaoming.yun.	7200	in	ns	dns12.hichina.com.
 xiaoniao.yun.	7200	in	ns	ns1.ename.net.
 xiaoniao.yun.	7200	in	ns	ns2.ename.net.
 xiaoqi.yun.	7200	in	ns	dns1.hichina.com.
 xiaoqi.yun.	7200	in	ns	dns2.hichina.com.
-xiaoshuo.yun.	7200	in	ns	ns1.ename.net.
-xiaoshuo.yun.	7200	in	ns	ns2.ename.net.
+xiaoshuo.yun.	7200	in	ns	ns1.atom.com.
+xiaoshuo.yun.	7200	in	ns	ns2.atom.com.
 xiaoyao.yun.	7200	in	ns	ns1.ename.net.
 xiaoyao.yun.	7200	in	ns	ns2.ename.net.
 xiaoyou.yun.	7200	in	ns	dns10.hichina.com.
@@ -2706,6 +2934,8 @@ xiaozhi.yun.	7200	in	ns	ns1.ename.net.
 xiaozhi.yun.	7200	in	ns	ns2.ename.net.
 xie.yun.	7200	in	ns	ns1.ename.net.
 xie.yun.	7200	in	ns	ns2.ename.net.
+xiemohao.yun.	7200	in	ns	dns10.hichina.com.
+xiemohao.yun.	7200	in	ns	dns9.hichina.com.
 xiezuo.yun.	7200	in	ns	ns1.ename.net.
 xiezuo.yun.	7200	in	ns	ns2.ename.net.
 xigua.yun.	7200	in	ns	ns1.judns.com.
@@ -2720,6 +2950,8 @@ xinge.yun.	7200	in	ns	dns29.hichina.com.
 xinge.yun.	7200	in	ns	dns30.hichina.com.
 xiniu.yun.	7200	in	ns	ns1.ename.net.
 xiniu.yun.	7200	in	ns	ns2.ename.net.
+xinjie.yun.	7200	in	ns	dns27.hichina.com.
+xinjie.yun.	7200	in	ns	dns28.hichina.com.
 xiongan.yun.	7200	in	ns	ns1.ename.net.
 xiongan.yun.	7200	in	ns	ns2.ename.net.
 xitong.yun.	7200	in	ns	ns1.ename.net.
@@ -2730,6 +2962,8 @@ xl.yun.	7200	in	ns	ns1.ename.net.
 xl.yun.	7200	in	ns	ns2.ename.net.
 xn--p8sv8u.yun.	7200	in	ns	dns17.hichina.com.
 xn--p8sv8u.yun.	7200	in	ns	dns18.hichina.com.
+xn--rht64du9gy1n.yun.	7200	in	ns	dns23.hichina.com.
+xn--rht64du9gy1n.yun.	7200	in	ns	dns24.hichina.com.
 xn--wgv71a.yun.	7200	in	ns	dns31.hichina.com.
 xn--wgv71a.yun.	7200	in	ns	dns32.hichina.com.
 xn--xhq9m.yun.	7200	in	ns	ns1.brandcloudns.com.
@@ -2779,6 +3013,8 @@ ye.yun.	7200	in	ns	ns1.ename.net.
 ye.yun.	7200	in	ns	ns2.ename.net.
 year.yun.	7200	in	ns	ns1.ename.net.
 year.yun.	7200	in	ns	ns2.ename.net.
+yeelight.yun.	7200	in	ns	dns10.hichina.com.
+yeelight.yun.	7200	in	ns	dns9.hichina.com.
 yellow.yun.	7200	in	ns	ns1.ename.net.
 yellow.yun.	7200	in	ns	ns2.ename.net.
 yf.yun.	7200	in	ns	ns1.ename.net.
@@ -2807,6 +3043,10 @@ yingshi.yun.	7200	in	ns	ns1.ename.net.
 yingshi.yun.	7200	in	ns	ns2.ename.net.
 yingtao.yun.	7200	in	ns	ns1.ename.net.
 yingtao.yun.	7200	in	ns	ns2.ename.net.
+yinxin.yun.	7200	in	ns	dns11.hichina.com.
+yinxin.yun.	7200	in	ns	dns12.hichina.com.
+yipin.yun.	7200	in	ns	dns10.hichina.com.
+yipin.yun.	7200	in	ns	dns9.hichina.com.
 yisheng.yun.	7200	in	ns	ns1.ename.net.
 yisheng.yun.	7200	in	ns	ns2.ename.net.
 yisu.yun.	7200	in	ns	ns1.ename.net.
@@ -2815,6 +3055,10 @@ yiyuan.yun.	7200	in	ns	ns1.ename.net.
 yiyuan.yun.	7200	in	ns	ns2.ename.net.
 yj.yun.	7200	in	ns	ns1.ename.net.
 yj.yun.	7200	in	ns	ns2.ename.net.
+yjjy.yun.	7200	in	ns	dns23.hichina.com.
+yjjy.yun.	7200	in	ns	dns24.hichina.com.
+yjkj.yun.	7200	in	ns	dns21.hichina.com.
+yjkj.yun.	7200	in	ns	dns22.hichina.com.
 yl.yun.	7200	in	ns	ns1.ename.net.
 yl.yun.	7200	in	ns	ns2.ename.net.
 ym.yun.	7200	in	ns	ns1.ename.net.
@@ -2845,6 +3089,8 @@ ys.yun.	7200	in	ns	ns1.ename.net.
 ys.yun.	7200	in	ns	ns2.ename.net.
 ysjf.yun.	7200	in	ns	dns17.hichina.com.
 ysjf.yun.	7200	in	ns	dns18.hichina.com.
+yszn.yun.	7200	in	ns	dns29.hichina.com.
+yszn.yun.	7200	in	ns	dns30.hichina.com.
 yt.yun.	7200	in	ns	ns1.ename.net.
 yt.yun.	7200	in	ns	ns2.ename.net.
 yu.yun.	7200	in	ns	gannon.ns.cloudflare.com.
@@ -2863,29 +3109,33 @@ yueduo.yun.	7200	in	ns	ns1.363.hk.
 yueduo.yun.	7200	in	ns	ns2.363.hk.
 yueduo.yun.	7200	in	ns	ns3.363.hk.
 yueduo.yun.	7200	in	ns	ns4.363.hk.
+yulan.yun.	7200	in	ns	judo.dnspod.net.
+yulan.yun.	7200	in	ns	ocean.dnspod.net.
 yumi.yun.	7200	in	ns	dns3.hichina.com.
 yumi.yun.	7200	in	ns	dns4.hichina.com.
 yuming.yun.	7200	in	ns	ns1.ename.net.
 yuming.yun.	7200	in	ns	ns2.ename.net.
 yun.	0	in	nsec3param	1 0 0 -
-yun.	0	in	rrsig	NSEC3PARAM 8 1 0 20260119103100 20260105000031 18219 yun. lrqJURoLBEmFUmiGlzBEdO0Rdz7BWIK3F+jmZMjeV/unrwJsrt2EPD0tgmteWlRPOQGAw1LYkkAztRyNj7AXnwg1prARTS4jTZAXFuWhArJFdlQDUEpJ470FRVCoMvkZGGoMWns0BUg8ls1bueDEvq05AXkpjMPPQ/lXOCbF8nCm+/OfJwxSjzgCD0HZaqr5s/hC1WAlXF/qLd+j2vDyE87s0afDR6Y7JW+RbydUx2pZ4bSSONply5K07WNap2saIH+zxALozci/AmheP1vP6N03qEj929jhJVlrZNo0enF9WDhIRGjJ19FKzFOaGDpwr6qtg+o1kcmOWNij+ff5qg==
+yun.	0	in	rrsig	NSEC3PARAM 8 1 0 20260130212004 20260116100031 18219 yun. oVlgr0cPJ83Xdj0X60Ma8AuU1Co4IrO9UP/gFDg5HBsTyMOHiZJDyBuI3p7lqHOVsSsafCoGSGCo8dNfh7ElUSRCPaGgrn6nF3ZKMiiH6O/HQBYFGZZl+tdzK9UbiE+KeDXsk5iIuXLMiyZ+jU/4iSgYXbx7c2Im2AfkAZ/l2HiM1RMmcx/S7WIJL6Xq5IB4YBF6T692m6gGN/xdmv8ESBuVxLLbclGslnN/S+9EDAZ7Fw23a7xYg9eFsSUwkCnFIKUc1UAdWaNnf7OuTxvrTk47NcXD0E6mGuR9q0EjLxqoS46sJP7BwOCN+FFVwnkKE0lb5PmcQ+rsmY1GqLrYDw==
 yun.	3600	in	dnskey	256 3 8 AwEAAcPeD1ho7kv2Nw/vPfla7xWQ7iy1jrx6oDf6K20qSFrciuOjXkot7/5Pavw16PDpVPn0DVVn4PXaLz/rN6/tHPGkAoqPhwXehR6I2S00SUFrz+f8prZWerjjLRlF5OlxAIjDvS3MxjBOWSxp3gTmlnWQAOKiFArHuVUsAQPw3WLo3EMlA4fTyKjtV0GvWC1VVPWRM3GIOzm9xqnnMbOjOjc2Tz2zXHjI1ijibOHT+85ryhDe1dRTgKr5MprEj8QlVPCpjxQTcgaAXn3f93OgKRi3jEAlQ1oYJ0kHnGLKkN3FCZRABHf3qTlP6LVKTC9qiHE2QBDU3E2gSbWiiOqpCA8=
 yun.	3600	in	dnskey	256 3 8 AwEAAdktAT49dftAaGnh7ohaLCIB/CyEH8d/fk9vyE91R/uOepLxG4atpnEKKOn4hgXwdOPWHTX+CEvL00Qfy8u7XAm+59dFlUXb/jKBrPN05tNhNYlZdjNG7ygF7XezZQndsms/SuBWrzbUIQ3/6lzWFEjBrwRtiPo58HSKXK0N62mRUgU/A5dHwxlMoLM5YzhVx33818ck7Iu8Wy9Su64lQ3DZP19lia0EvlLb4DpJ4j84nN+dp0ZbSScHbSdHxOBEy/pQBDxMrKBP6IboGkA5Rk4vtjQxO3rscHP9z/R2fOrkrfqOdsofKLq84R9s8Xf0h0/3LvOWJKjR746jntm3xis=
 yun.	3600	in	dnskey	257 3 8 AwEAAZrINOwEa7VZsyGfHTNvaYQ9WcPvF56PpGBPUqVlqfGjhwf929JROQeDfIZyC/m7GyHtGyKO9k/Gh0/khkJISQZtWfjiehJkksw6gNM18n0DecTZZXSPTWasIR03bvXBX2gHWRJ4GPoqUKRjtKmQOWa0kf+7wC9IytPlhm13ayRDx1N6ppOzYUY5SZJ3MyBiexjDuWcNglvltTV+V2S5so2JVF6k03E3waubqF82QiYIfglbs2BPq/cvLmfd9UaKPRuA76QDazRYz/cDZm27hfJyD4qZ3d8gGxuF9MLBO53Yzf1EhGqGhMPIGBhYaBuWrJFmYZrchl++IM+8FfCH4uM=
 yun.	3600	in	dnskey	257 3 8 AwEAAdXzo0JgQbcZWGoiABWrY+nFqWmstpfCDw//4kwEf3hcsqyPPN7lC5+jetokVOcmuvUBo4OSj+GEzM0nxnS81vFKKjVr3QhJJRK3W1WAc4ehTRXnUa/ZSDqqokWh6IDL6qgSkL+IX0vTQEs1yFTYrXFLzttDyF+bWdJuTnnV6rUyrQ7I/AuNJHHFsBOyaUBV7GF1gXJxcqV/QPmJjlAcwWyIKIMK/kXrdo7UszIpDczt8t2UjbeUUTei6aeUEHGskOodVz4PmB9YrVULaqbC4dZxQdfawb1a27lrbJrbndQivt9mbG9hJu8YWmEXP4Uwj0SEUSk+c4QZTwxDqKXqx7c=
-yun.	3600	in	rrsig	DNSKEY 8 1 3600 20260116005508 20260102070031 33427 yun. RtfxUoJWb3JboBpw/0goHw7kWKQS7rci5Qt9dv/KoK3ZGJf7uSTRaszESgoFZuhe4xuTCicPhEBw2TNkO5EzV3vqWm912UubrsmlUeHH0GnbY9boIlRjR17FdKyocpue2vC71shvj1ZzaKdBTSQRUkLyynD9ua6ZgTK74hX/LejOhoVRdHuI957w2cn0A3ihfDfj+v6Yrat1kf0kQyfTgwdnqtYY1e2J6/JcMNk3oNlwIm3JynxpuzgRObXSFCYn05aAJGn4lqiEADeMpR3lPnchrLYnZEiZ40XiwdhbrbxOq/uBCXLuN8b/JoR+1CjyT87/qPtB5eB5sXgWpuWwDg==
-yun.	3600	in	rrsig	SOA 8 1 3600 20260120061134 20260106003032 18219 yun. beYCd+c74miE0Rnqr1spFEiA4U6i2vwkdSX4jS2HvxfY3rwqH2jQueYUNiTup8RHFKocUgGu+vZeCYPGbaDzyiWGcjLEx94V/rZhH4KlizOP6+EV/Fp3IDvOwrWfnQg+qGMloTjVVpYmx5LONVm/Pfd2GSf5ZYobtZXhLYTGlthq/aAa+v424BMO+/C91gU2fyoFtxBIEfBLpmqGvM76dYwm7mZifZA6EFBzLVTMp+ffWowgnIMLfZ9rdjybNW6lziFmNeK/yKxerEmgXsZL7/aP8bsjMRLrg6GwtMrRRvQJ1RmDmJ+2Js/Fx+GFPi3Q2mlN/7cjC7ck3sqXowZamA==
+yun.	3600	in	rrsig	DNSKEY 8 1 3600 20260206133849 20260123210031 33427 yun. u/kJS3l0xI1QUEFnfvIwhnoakLNF+DUmMpD3p3SKCpP2BZB5omVzr3+NtjkhT6m7bS6vrZ0Vd8LWDIIhuyPDuLk3XDQ5YnPlew5KuShIsZSe/l/aZ1crSnklQGOMiHn3qmHaGkTydX3Rh1OnuLPrbYAWkVB3SjTPyDpdP+AlK+tg6fR5211fMpwYYM+8qK9GbGCySiyrkMVf0PAaaBSMMPhjZlF1oDfiQtuZnHEO7YJEJy4d3BdGkjpa2cOtL+mbGlC66MyM46ntanewFfw6pC0Qs18rgloA3uifEG9oHObR5ZlHcOSJxA9q4S6WDplNprfFYJ/umnIxAyRBr1t/xg==
+yun.	3600	in	rrsig	SOA 8 1 3600 20260208025019 20260125003031 18219 yun. foojCe1wA1nNqyk+3O9qjhupeAg2/snP/EXr/UqEP5c/s9omy4rGDbgc3vmG8I1QSmkTJRwbIF6qF20vtABb1wyeTSo0vo0M4Gx1u/KU+AL4lVPcQ1CAtdv3/yUpO9vMnUl+pIu+XREyzBnnYxcvyE0sElOvpfOtFWk0chtQSkJ8+IKM96oxWI+ZxfoWA+LHNxBRHgB7qUjKHxFSiaHwjEe7wmrAepHU9n9ocO+gHDvz60AufxlsKwn4SiL5ersKT77+acZkhUdC1Fk71rC20rcfVTSUAZ8Vlu3q5GXOX+lMb4qxWCd2eZFMUyoKVAv8hW1GoAhBa/sjHmpKmwNPew==
 yun.	86400	in	ns	ns1.teleinfo.cn.
 yun.	86400	in	ns	ns2.teleinfoo.com.
 yun.	86400	in	ns	ns3.teleinfo.cn.
 yun.	86400	in	ns	ns4.teleinfoo.com.
-yun.	86400	in	rrsig	NS 8 1 86400 20260109152008 20251226033031 18219 yun. PXsWTCFrWuNQhZUAnU0Cu1KPkAhtOUgp6+KtYLUXaLN7uUE3A2a+dUQmXf/UmGA0+PH7Beoqecih11+zDB7FXprGPW+1E3WzaZrr54yj5QcyYUo30LWNQV5DQ3rT70u+hP4IWpyBGKIvw583dtIPBlMxx8K1GHEloSuD/CApf85Yll022GU7k5Mjx6IdqKG2j3hmTYDPyks9sIOAQGcQbuxhBwFYicBikKpf5YhPWTCX6rbYZXqsRO5Jz23FK7XYztZmrrWg8L4MtMI61/YYJiXKG3mf3F1UUWE52IqF6lc+R667C+xUKcj6qaS4rkMUk5N3YAcyzdBCYLGMMQ/UDg==
+yun.	86400	in	rrsig	NS 8 1 86400 20260201011511 20260117163031 18219 yun. lLL7dknegT4pjDh0qbnJ5xCoeAZJSpzyaQAxcNGf00R0O5kFzw886MBeeDouVgtfklfnxi9qCT8dFdmXqpIGnisV34RS4ShkC7cE3oGB5v09JNyPfB0DfFdhU/Wt638jdieyTLXkhjs2pRoN9+r6nKNBNiQTjs5E7AjxQDAtL3W9GmrqJa+ddy40k+vY2IxYsNQJ+9lCbEuRngHa+kW7zZC3S7zFbpBEiQA1TXThyO4Esi0Mz5bY5ISsv5nJEJJ2JxbZ/430GBUg0RVA67LNp00gkDgkazKn2vC6tiQkV5fcLFE3D5Q6cJqOneh7K6wGK7V+vJ1IZNGUWQBlnr7b3A==
 yun.yun.	7200	in	ns	ns1.ename.net.
 yun.yun.	7200	in	ns	ns2.ename.net.
 yunan.yun.	7200	in	ns	ns1.ename.net.
 yunan.yun.	7200	in	ns	ns2.ename.net.
 yundu.yun.	7200	in	ns	dns17.hichina.com.
 yundu.yun.	7200	in	ns	dns18.hichina.com.
+yunfu.yun.	7200	in	ns	dns13.hichina.com.
+yunfu.yun.	7200	in	ns	dns14.hichina.com.
 yunjing.yun.	7200	in	ns	dns13.hichina.com.
 yunjing.yun.	7200	in	ns	dns14.hichina.com.
 yunkai.yun.	7200	in	ns	dns15.hichina.com.
@@ -2904,6 +3154,8 @@ yyzc.yun.	7200	in	ns	dns11.hichina.com.
 yyzc.yun.	7200	in	ns	dns12.hichina.com.
 yz.yun.	7200	in	ns	ns1.ename.net.
 yz.yun.	7200	in	ns	ns2.ename.net.
+zaima.yun.	7200	in	ns	dns21.hichina.com.
+zaima.yun.	7200	in	ns	dns22.hichina.com.
 zap.yun.	7200	in	ns	ns1.ename.net.
 zap.yun.	7200	in	ns	ns2.ename.net.
 zc.yun.	7200	in	ns	ns1.ename.net.
@@ -2954,8 +3206,11 @@ zhineng.yun.	7200	in	ns	ns1.ename.net.
 zhineng.yun.	7200	in	ns	ns2.ename.net.
 zhinengti.yun.	7200	in	ns	ns1.atom.com.
 zhinengti.yun.	7200	in	ns	ns2.atom.com.
-zhipu.yun.	7200	in	ns	ns1.ename.net.
-zhipu.yun.	7200	in	ns	ns2.ename.net.
+zhipu.yun.	7200	in	ns	ns1.afternic.com.
+zhipu.yun.	7200	in	ns	ns2.afternic.com.
+zhipu.yun.	7200	in	ns	verification-cwgfcfadmf6yrazsf2udtm.ns101.verify.hn.
+zhiqi.yun.	7200	in	ns	dns29.hichina.com.
+zhiqi.yun.	7200	in	ns	dns30.hichina.com.
 zhishi.yun.	7200	in	ns	ns1.ename.net.
 zhishi.yun.	7200	in	ns	ns2.ename.net.
 zhishu.yun.	7200	in	ns	ns1.ename.net.
@@ -2972,12 +3227,20 @@ zhiyan.yun.	7200	in	ns	ns1.ename.net.
 zhiyan.yun.	7200	in	ns	ns2.ename.net.
 zhiyi.yun.	7200	in	ns	dns15.hichina.com.
 zhiyi.yun.	7200	in	ns	dns16.hichina.com.
+zhiyong.yun.	7200	in	ns	dns29.hichina.com.
+zhiyong.yun.	7200	in	ns	dns30.hichina.com.
 zhizai.yun.	7200	in	ns	dns7.hichina.com.
 zhizai.yun.	7200	in	ns	dns8.hichina.com.
 zhongbao.yun.	7200	in	ns	ns1.atom.com.
 zhongbao.yun.	7200	in	ns	ns2.atom.com.
+zhongbiao.yun.	7200	in	ns	dns21.hichina.com.
+zhongbiao.yun.	7200	in	ns	dns22.hichina.com.
 zhongjie.yun.	7200	in	ns	ns1.ename.net.
 zhongjie.yun.	7200	in	ns	ns2.ename.net.
+zhongnong.yun.	7200	in	ns	dns31.hichina.com.
+zhongnong.yun.	7200	in	ns	dns32.hichina.com.
+zhongqin.yun.	7200	in	ns	dns3.hichina.com.
+zhongqin.yun.	7200	in	ns	dns4.hichina.com.
 zhouyi.yun.	7200	in	ns	dns25.hichina.com.
 zhouyi.yun.	7200	in	ns	dns26.hichina.com.
 zhu.yun.	7200	in	ns	ns1.ename.net.
@@ -3014,10 +3277,12 @@ zl.yun.	7200	in	ns	ns1.ename.net.
 zl.yun.	7200	in	ns	ns2.ename.net.
 zone.yun.	7200	in	ns	ns1.ename.net.
 zone.yun.	7200	in	ns	ns2.ename.net.
-zou.yun.	7200	in	ns	ns1.judns.com.
-zou.yun.	7200	in	ns	ns2.judns.com.
+zou.yun.	7200	in	ns	ns1.ename.net.
+zou.yun.	7200	in	ns	ns2.ename.net.
 zp.yun.	7200	in	ns	ns1.ename.net.
 zp.yun.	7200	in	ns	ns2.ename.net.
+zqyjy.yun.	7200	in	ns	dns3.hichina.com.
+zqyjy.yun.	7200	in	ns	dns4.hichina.com.
 zs.yun.	7200	in	ns	ns1.ename.net.
 zs.yun.	7200	in	ns	ns2.ename.net.
 zt.yun.	7200	in	ns	ns1.ename.net.
@@ -3034,4 +3299,4 @@ zx.yun.	7200	in	ns	ns1.ename.net.
 zx.yun.	7200	in	ns	ns2.ename.net.
 zy.yun.	7200	in	ns	ns1.ename.net.
 zy.yun.	7200	in	ns	ns2.ename.net.
-yun.	3600	in	soa	ns1.teleinfo.cn. ops.teleinfo.cn. 2025063436 14400 3600 2419200 3600
+yun.	3600	in	soa	ns1.teleinfo.cn. ops.teleinfo.cn. 2025064348 14400 3600 2419200 3600
